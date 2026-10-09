@@ -68,9 +68,13 @@ for pk, k in sorted(kayit.items(), key=lambda x: int(x[0])):
     else:
         maddeler = parcala(metin); ayirma = 'parca'
     istat[ayirma + (' (ocr)' if ocrmu else '')] += 1
+    if ocrmu:  # yazı tanımada kenar başlıkları güvenilir okunamıyor; yanıltmasın diye boş bırakılır
+        for m in maddeler: m['baslik'] = ''
+    ornek = ' ' + metin[:20000].lower() + ' '
+    ingilizce = ornek.count(' the ') + ornek.count(' of ') > 3 * (ornek.count(' ve ') + ornek.count(' bir ') + 1)
     ad = re.sub(r'\s+', ' ', k['ad']).strip()
     yasalar.append({'p': pk, 'n': re.sub(r'\s+', ' ', str(k['numara'])), 'a': ad, 'u': k['url'], 'k': kaynak, 'o': ocrmu,
-                    'y': ayirma, 'kd': bool(re.search(r'yürürlükten\s+kaldır|ilga edil', ad, re.I)), 'm': maddeler})
+                    'y': ayirma, 'en': ingilizce, 'kd': bool(re.search(r'yürürlükten\s+kaldır|ilga edil', ad, re.I)), 'm': maddeler})
 
 # elle doğrulanmış yasalar da dizine girer (metinleri sayfanın içinde; burada yalnızca arama anahtarları)
 elle = []
@@ -97,7 +101,7 @@ for y, tf in zip(yasalar, tfs):
     if boy + len(j.encode()) > PAKET_BAYT and paket:
         paketler.append(paket); paket, boy = {}, 0
     paket[str(y['p'])] = y['m']; boy += len(j.encode())
-    dizin.append({x: y[x] for x in ('p', 'n', 'a', 'u', 'k', 'o', 'y', 'kd')} | {'mc': len(y['m']), 'b': len(paketler), 'kw': ' '.join(top), 'bs': basliklar})
+    dizin.append({x: y[x] for x in ('p', 'n', 'a', 'u', 'k', 'o', 'y', 'kd', 'en') if x in y} | {'mc': len(y['m']), 'b': len(paketler), 'kw': ' '.join(top), 'bs': basliklar})
 if paket: paketler.append(paket)
 os.makedirs(os.path.join(D, 'app/pub'), exist_ok=True)
 for f in os.listdir(os.path.join(D, 'app/pub')):

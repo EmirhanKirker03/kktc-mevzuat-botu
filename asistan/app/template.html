@@ -526,7 +526,7 @@ async function rvInit(){
 
 /* ---------- madde kartları ---------- */
 function badge(a){
-  if(LAWBY[a.law]&&LAWBY[a.law].otomatik) return '<span class="badge chg">'+(LAWBY[a.law].ocr?'yazı tanıma · ':'')+'otomatik metin</span>';
+  if(LAWBY[a.law]&&LAWBY[a.law].otomatik) return '<span class="badge chg">'+(LAWBY[a.law].en?'İngilizce · ':'')+(LAWBY[a.law].ocr?'yazı tanıma · ':'')+'otomatik metin</span>';
   if(a.status.startsWith('kaldır')) return '<span class="badge gone">Kaldırıldı'+(a.law==='KIRA'?' · 27/2011':'')+'</span>';
   if(a.amendments.length) return '<span class="badge chg">Değişik · '+esc(a.amendments.map(m=>m.law.split(' ')[0]).join(', '))+'</span>';
   if(a.notes && a.notes.length) return '<span class="badge chg">Değişik · '+esc(a.notes.slice(0,3).join(', ')+(a.notes.length>3?'…':''))+'</span>';
@@ -537,7 +537,7 @@ function lawLink(no){ const f=LAWFILE[no]; return f?'<a href="http://cm.gov.ct.t
 function sheet(a, tag){
   const am = a.amendments.map(m=>'<div class="amd"><div class="who">'+esc(m.law)+'</div><div class="what">'+esc(m.change)+'</div>'+(m.new_text?'<p class="txt">'+esc(m.new_text)+'</p>':'')+'</div>').join('');
   const L=LAWBY[a.law];
-  const src = L.otomatik ? 'Kaynak: <a href="'+esc(L.url)+'" target="_blank" rel="noopener">Yüksek Mahkeme birleştirilmiş resmî metni</a> · '+(L.parca?'madde numaraları okunamadı, sıralı parça':'madde sınırları otomatik belirlendi')+(L.ocr?' · taranmış belgeden yazı tanıma ile okundu, kelime hataları olabilir':'')+' · avukat incelemesinden geçmedi'
+  const src = L.otomatik ? 'Kaynak: <a href="'+esc(L.url)+'" target="_blank" rel="noopener">Yüksek Mahkeme birleştirilmiş resmî metni</a> · '+(L.parca?'madde numaraları okunamadı, sıralı parça':'madde sınırları otomatik belirlendi')+(L.ocr?' · taranmış belgeden yazı tanıma ile okundu, kelime hataları olabilir':'')+(L.en?' · metin İngilizce (1959 öncesi sömürge dönemi baskısı olabilir; güncel Türkçe metni ayrıca kontrol edin)':'')+' · avukat incelemesinden geçmedi'
     : L.kira ? 'Kaynak: '+lawLink('17/1981')+(a.amendments.length?' · '+a.amendments.map(m=>lawLink(m.law.split(' ')[0])).join(' · '):'')+' · resmî birleştirilmiş metinle karşılaştırıldı'
     : L.ayri ? 'Kaynak: <a href="'+esc(L.url)+'" target="_blank" rel="noopener">Meclis arşivi esas metin</a> + değişiklik yasaları ('+esc((L.kontrol||[]).map(c=>c.yasa).join(', '))+'); resmî birleştirilmiş metin bulunamadı'
     : 'Kaynak: <a href="'+esc(L.url)+'" target="_blank" rel="noopener">Yüksek Mahkeme birleştirilmiş resmî metni</a> · Meclis\'teki son değişiklik ('+esc(L.son||'-')+') metne işlenmiş';
@@ -560,7 +560,7 @@ function promptFor(q, list, cases){
   const blocks = list.map(a=>{
     const L=LAWBY[a.law];
     let b = '### '+a.cid+' — '+L.ad+' ('+L.no+') '+mLabel(a)+' ('+a.title+') [durum: '+a.status+']\n';
-    if(L.otomatik){ b+='METİN (Yüksek Mahkeme birleştirilmiş resmî metni; madde sınırları otomatik belirlendi'+(L.parca?', bu bir sıralı parçadır, madde numarası okunamadı':'')+(L.ocr?'; taranmış belgeden yazı tanıma ile okundu, kelime hataları olabilir':'')+'):\n'+(a.text.length>5000?a.text.slice(0,5000)+' [...]':a.text); }
+    if(L.otomatik){ b+='METİN (Yüksek Mahkeme birleştirilmiş resmî metni; madde sınırları otomatik belirlendi'+(L.parca?', bu bir sıralı parçadır, madde numarası okunamadı':'')+(L.ocr?'; taranmış belgeden yazı tanıma ile okundu, kelime hataları olabilir':'')+(L.en?'; metin İngilizce, eski baskı olabilir':'')+'):\n'+(a.text.length>5000?a.text.slice(0,5000)+' [...]':a.text); }
     else if(L.kira || L.ayri){ b+='ESAS METİN:\n'+a.text; a.amendments.forEach(m=>{ b+='\n\nDEĞİŞİKLİK ('+m.law+'): '+m.change+(m.new_text?'\nYENİ METİN: '+m.new_text:''); }); }
     else b+='GÜNCEL METİN (değişikliklerle birleştirilmiş resmî metin; satır başlarındaki "34/2015" gibi notlar o kısmı değiştiren yasayı gösterir):\n'+(a.text.length>6000?a.text.slice(0,6000)+' [...]':a.text);
     return b;
@@ -670,7 +670,7 @@ async function tumYasa(y){
   const kod='Y'+y.p;
   if(!LAWBY[kod]){
     const P=await tumPaket(y.b); const ms=P[String(y.p)]||[];
-    const L={kod,no:y.n,ad:y.a,kisa:kisaAd(y.a),alan:'',url:y.u,otomatik:true,ocr:!!y.o,parca:y.y==='parca',kontrol:[]};
+    const L={kod,no:y.n,ad:y.a,kisa:kisaAd(y.a),alan:'',url:y.u,otomatik:true,ocr:!!y.o,en:!!y.en,parca:y.y==='parca',kontrol:[]};
     LAWBY[kod]=L;
     L.arts=ms.map(m=>{ const a={law:kod, cid:cidOf(kod,m.no), no:m.no, title:m.baslik||(y.y==='parca'?'(metin parçası)':'(başlıksız madde)'), text:m.metin, amendments:[], notes:[], status:m.kaldirildi?'kaldırıldı':'metin (otomatik)'};
       if(!BYCID[a.cid]){ BYCID[a.cid]=a; ARTS.push(a); } return a; });
@@ -725,7 +725,7 @@ async function ymInit(){
     if(q){ const sc=T.score(toks(q)); const nq=fold(q).replace(/\s+/g,''); list=T.ys.map((y,i)=>({y,s:sc[i]+(fold(y.n).replace(/\s+/g,'')===nq?50:0)})).filter(x=>x.s>0).sort((a,b)=>b.s-a.s).map(x=>x.y); }
     else list=T.ys;
     $('#ystats').textContent=list.length+' yasa'+(q?' eşleşti':'')+' · toplam '+T.ys.length+' · '+T.ys.filter(y=>y.o).length+' tanesi yazı tanıma ile okundu · kaynak: Yüksek Mahkeme';
-    $('#ylist').innerHTML=list.slice(0,80).map(y=>'<button class="catrow" data-p="'+y.p+'" style="text-align:left;width:100%;background:none;border:0;border-bottom:1px solid var(--rule);padding:8px 0;cursor:pointer;color:inherit;font:inherit"><span style="font-family:var(--f-mono)">'+esc(y.n)+'</span> — '+esc(y.a)+' <span class="muted small">· '+y.mc+' '+(y.y==='parca'?'parça':'madde')+(y.o?' · yazı tanıma':'')+(y.kd?' · yürürlükten kaldırılmış':'')+'</span></button>').join('');
+    $('#ylist').innerHTML=list.slice(0,80).map(y=>'<button class="catrow" data-p="'+y.p+'" style="text-align:left;width:100%;background:none;border:0;border-bottom:1px solid var(--rule);padding:8px 0;cursor:pointer;color:inherit;font:inherit"><span style="font-family:var(--f-mono)">'+esc(y.n)+'</span> — '+esc(y.a)+' <span class="muted small">· '+y.mc+' '+(y.y==='parca'?'parça':'madde')+(y.o?' · yazı tanıma':'')+(y.en?' · İngilizce':'')+(y.kd?' · yürürlükten kaldırılmış':'')+'</span></button>').join('');
   };
   $('#yq').addEventListener('input',render); render();
   $('#ylist').addEventListener('click',async e=>{ const b=e.target.closest('[data-p]'); if(!b) return;
