@@ -110,10 +110,12 @@ async function liste() {
   console.log('\nListe tamam: ' + JSON.stringify(ozet));
 }
 
-async function indir(tur, enFazla) {
-  const L = JSON.parse(fs.readFileSync('liste/mahkemeler-' + tur + '.json', 'utf8')).kayitlar;
-  const KAYIT = 'veri/mahkemeler/' + tur + '-kayit.json';
-  const MDIR = 'veri/mahkemeler/' + (tur === 'yasa' ? 'yasalar' : 'tuzukler');
+async function indir(tur, enFazla, secili) {
+  let L = JSON.parse(fs.readFileSync('liste/mahkemeler-' + tur + '.json', 'utf8')).kayitlar;
+  if (secili) L = L.filter(s => secili.includes(String(s.Pkey)));
+  // seçili indirmeler ayrı kayda yazılır; büyük işle aynı dosyaya yazıp çakışmasın
+  const KAYIT = 'veri/mahkemeler/' + (secili ? 'secili-' : '') + tur + '-kayit.json';
+  const MDIR = 'veri/mahkemeler/' + (secili ? 'secili/' : '') + (tur === 'yasa' ? 'yasalar' : 'tuzukler');
   const HAM = path.join(os.tmpdir(), 'ham'); // orijinaller depoya konmaz (çok büyük); parmak izi saklanır
   fs.mkdirSync(MDIR, { recursive: true }); fs.mkdirSync(HAM, { recursive: true });
   const kayit = fs.existsSync(KAYIT) ? JSON.parse(fs.readFileSync(KAYIT, 'utf8')) : {};
@@ -151,6 +153,6 @@ module.exports = { oturumAc, sayfa, istek, SITE };
 
 if (require.main === module) {
   const [komut, tur, adet] = process.argv.slice(2);
-  (komut === 'liste' ? liste() : komut === 'indir' ? indir(tur, Number(adet || 1500)) : Promise.reject(new Error('komut: liste | indir yasa|tuzuk')))
+  (komut === 'liste' ? liste() : komut === 'indir' ? indir(tur, Number(adet || 1500)) : komut === 'secili' ? indir(tur, 100, String(adet || '').split(',').map(x => x.trim()).filter(Boolean)) : Promise.reject(new Error('komut: liste | indir yasa|tuzuk')))
     .catch(e => { console.error('HATA: ' + (e.message || e)); process.exit(1); });
 }

@@ -1,0 +1,32 @@
+name: 4 - Seçili yasalar (hızlı)
+on:
+  workflow_dispatch:
+    inputs:
+      pkeyler:
+        description: "Mahkemeler sistemindeki yasa kayıt numaraları, virgülle (ör. 24,304)"
+        required: true
+permissions:
+  contents: write
+concurrency:
+  group: secili
+  cancel-in-progress: false
+jobs:
+  calis:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: npm install --no-audit --no-fund
+      - run: node scripts/mahkemeler.js secili yasa "${{ inputs.pkeyler }}"
+      - name: Sonuçları kaydet
+        if: always()
+        run: |
+          git config user.name "mevzuat-botu"
+          git config user.email "mevzuat-botu@users.noreply.github.com"
+          git add veri/mahkemeler/secili veri/mahkemeler/secili-yasa-kayit.json
+          git commit -m "Seçili yasalar: ${{ inputs.pkeyler }}" || echo "Değişiklik yok"
+          git pull --rebase
+          git push
