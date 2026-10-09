@@ -1,0 +1,688 @@
+						BÖLÜM 6
+
+(9/1971; 23/1984; 31/2003; 86/2007, 12/2014 ve 37/2019 sayılı değişiklik yasaları ile değiştirilmiş ve birleştirilmiş şekliyle)
+
+HUKUK MUHAKEMELERİ USULÜ YASASI
+           
+I. KISIM - BAŞLANGIÇ
+1.	Kısa İsim.	
+2.	Yorum
+II. KISIM - MAHKEMENİN YETKİLERİ	
+3.	Yargı Yetki Alanı Dışına Celbname Tebliği.	
+4.	İhtiyati Haciz  v.s İçin Ara Emiri.	
+5.	Taşınmaz Malla İlgili Muameleleri Engelleyen Ara Emri	
+6.	Davalıyı Tutuklama Yetkisi.	
+7.	Yetersiz Nedenler Üzerine Verilen Ara Emirleri.	
+8.	Şahadet Temini İçin Görevlendirme.	
+9.	Karşı Tarafa İhbarda Bulunmaksızın Verilen Emirler
+	
+	III. KISIM - İCRAYA İLİŞKİN GENEL KURALLAR	
+10.	Müşterek Mallara Karşı İcra.	
+11.	(14/1960 Sayılı Yasanın 73’üncü maddesi ile kaldırılmıştır)	
+12.	İcra Masrafları.	
+13.	İcra Hasılatının Elden Çıkarılması.	
+14.	İcra Yöntemleri.	
+15.	Para Ödenmesine İlişkin Emirlerin Sadece Bu Yasa Kuralları Uyarınca İcra Edilmesi
+
+IV. KISIM - TAŞINIR MALLARIN SATIŞ YOLU İLE İCRASINA İLİŞKİN KURALLARI	
+16.	Borçlunun İcraya Tabi Tutulmayacak Eşyaları.	
+17.	Müzekkerenin İcra Edilme Yöntemi.	
+17A.	Haczedilen Taşınır Malların Satılması 	
+17B.	Suç ve Ceza	
+18.	Satışın Üç Günden Önce Yapılması.	
+19.	Haczedilen Taşınır Malların Satışına İlişkin Yöntem	
+20	Teminatın Nasıl İşlem Göreceği.	
+21.	Sahiplik Karinesi ve Üçüncü bir Tarafça Talepte Bulunulması Halinde Yapılacak İşlemler	
+21A.	Muamelelerin Engellenmesi
+	
+	V. KISIM - TAŞINMAZ MALLARIN İCRASINA İLİŞKİN KURALLAR
+Birinci Bölüm - Satış Yolu İle İcra	
+22.	Taşınmaz Mal Satışı İçin Müzekerenin Borçlunun Taşınır Malı Olmadığı Takdirde Çıkarılabilmesi.	
+23.	İcra Yolu İle Hangi Arazilerin Satılabilecek Taşınmaz Mallar.	
+24.	Müzekkere Isdarı.	
+ 24A.	Satılan Taşınmaz Malın Tapuda Kaydı	
+24B.	Suç ve Ceza	
+25.	Müzekkerenin Yürürlük Süresi.	
+26.	Malın Herhangi Bir Kısmının Diğer Kısmından Daha Evvel Satılması İçin Emir.	
+27.	Taşınmaz Mal Satışına Genel Nitelikte Direktif Veren Müzekkereler.	
+28.	İpotekli Taşınmaz Mal.	
+29.	Ölmüş Borçlunun Adında Kayıtlı Bulunan Taşınmaz Malın Mirasçıların Adına Kaydedilmemesi.	
+30.	Daha Önce Çıkarılan Müzekkere İle Satılması Emrolunan Taşınmaz Malın Daha Sonra Çıkarılan Müzekkere İle Satışı.	
+31.	Direktifler.	
+32.	Satışın Durdurulması İçin Üçüncü Bir Tarafın İstidası.	
+33.	Satışın Açık Artırma İle Yapılması.	
+34.	Satışın İlanı.	
+35.	Yazılı Artırmalar.	
+36.	Satışın Kapatılması.	
+37.	En Çok Artıranın Açıklanması.	
+38.	Artıran Kişinin Yükümlülüğü.	
+39.	Artırılan Para Miktarının Ödenmemesi Halinde Ceza.	
+40.	Mahkemenin Taban Fiyatı Saptaması.	
+41.	Taban Fiyata Ulaşılmadığı Hallerde Tekrar Satış.	
+42.	Satışın Yer Aldığı Odanın Kapılarının Kapatılması.	
+43.	Satışta Usulsüzlük.	
+44.	Artırılan En Yüksek Miktarın Yetersiz Olması Halinde Satışın Askıya Alınması Veya Müzekkerenin İptal Edilmesi.	
+45.	“Yetersiz” Sözcüğünün Anlamı.	
+46.	Satış Müzekeresinin Askıya Alınmasına Veya İptaline İlişkin İstidanın Yapılacağı Zaman.	
+47.	Müzekkerenin Askıya Alınmasından Veya İptalinden  Sonra  Tekrar Satışa Çıkarılması.	
+48.	Müzekkerenin Askıya Alınmasının Veya İptalinin Alacaklının Haklarına Halel Getirmemesi.	
+49.	Malın Ne Zaman Alacaklının Tasarrufuna Verileceği.	
+50.	Malın Tasarufu Alacaklıya Verilmesine Rağmen Mahkemenin Malın Satışına Emir Vermesi.	
+51.	Satışın Sonuçsuz Kalması Halinde Direktifler.	
+52.	Satıştan İtibaren On Beş Gün Geçmeden Malın Devir Ve Kaydının Yapılmaması.
+İkinci Bölüm
+Taşınmaz Malın Mahkeme Hükmü İle Yükümlü Kılınmasına İlişkin Kurallar	
+53.	Hükmün Tescili.	
+54.	Tescilin Yapılma Şekli.	
+55.	Tescilin Süresi.	
+56.	Sürenin Uzatılması.	
+57.	Tescilin Etkileri.	
+58.	Daha Önce Yapılan Satış Veya İpotek Takriri Bulunan Haller.	
+59.	Hükmün Yerine Getirildiğinin İhbarı.	
+60.	Kaza Tapu Dairesinde Yapılacak Kayıtlar.	
+61.	Hükümünü Tescil Ettiren Alacaklı İcra Takibinde Bulunmazsa Sırasının Daha Sonraya Bırakılabilmesi.	
+62.	İlk Tescil Edilen Hüküm Uyarınca Yapılan Arazi Satışından Kalan Bakiyenin Uygulanması.	
+63.	Hükümlü Alacaklının Arazinin Borçlu Adına Kaydedilmesi İçin Başvuruda Bulunabilmesi.	
+64.	Dilekçenin Dosyalanması Ve İncelemeye Açık Bulundurulması.	
+65.	Dilekçenin Etkisi.	
+66.	Kaza Tapu Dairesinin Araziyi Amaca Uygun Olarak Kaydedebilmesi.	
+67.	Dilekçenin Kabul Edildiğine Veya Reddedildiğine Dair Alacaklıya İhbarname Verilmesi.	
+68.	Diekçenin Reddedilmesi Halinde Mahkemeye Başvuruda Bulunma.	
+69.	Dilekçe Üzerine Emir.	
+70.	Kayıd Masraflarının İcra Talebine Ait Masraflar Sayılması.	
+71.	Kaydın İptali İçin dilekçe.	
+72.	Borçlunun Başvurusu Üzerine Mala El Koyma Müzekkeresi.	
+73.	Üçüncü Şahısların Tasarrufunda Bulunan Taşınır Mal Ve Alacaklar İçin Haciz Müzekkeresi.	
+74.	Müzekkerenin Tebliği Ve Etkisi.	
+75.	Müzekkereye İtaatsızlık.	
+75A.	Banka Hesaplarındaki Paraların Haczi	
+76.	Malın Emniyet Altına Alınması.	
+77.	Mahkeme Veya Kamu Görevlisinin Kontrolunda Bulunan Mallar.	
+78.	Haczedilen Malın Elden Çıkarılması.	
+79.	Üçüncü Taraf Aleyhine İcra Takibi.	
+80.	Üçüncü Tarafın Tazmini.	
+81.	Üçüncü Taraf Aleyhine Başlatılan İşlemlerin Durdurulması.	
+82.	Borçlunun Hapsedilebileceği Haller.	
+83.	Borçlunun Yeme İçme Masrafları.	
+84.	Borçlunun Yeme İçme Masraflarının Borca Eklenmesi.	
+85.	Hapsin Etkisi.	
+86.	Borçlunun Sorguya Çekilmesi İçin Dilekçe.	
+87.	Sorguya Çekmek Amacıyle Mahkemede Hazır Bulunmayı Zorlama.	
+88.	Sorgulama.	
+89.	Diğer Şahadet.	
+90.	Erteleme.	
+91.	Taksitle Ödenme	
+91A.	Maaş veya Ödeneklerin Yükümlü Kılınması	
+92.	Kaza Tapu Dairesi Memurlarının Hükümlere Göre İşlem Yapabilmesi.	
+93.	Taksim Müzekkeresi.	
+94.	Türk Aile Mahkemelerinin Hükümlerinin İcrası.	
+95.	Koruma.	
+96.	Satış Tüzüğü Yapma Yetkisi.	
+97.	Taşınmaz Malların Satılması İçin Müzekkere Çıkarılması.	
+98.	Kaydın Yapılmasından Bir Yıl Sonra Satışa Gidilmesi.	
+99.	Bir Yıl Geçtikten Sonra İzlenecek, Yöntem.	
+100.	Masraflar.	
+101.	Tüzük Yapma Yetkisi.	
+102.	Borcunu Yerine Getiren Bir Kefilin Alacaklının Elinde Bulunan Teminatların Kendine Devredilmesine Ve Tazmin Edilmesi İçin Alacaklının Yerine Geçmesine Ve Gerektiğinde Alacaklının adının Kullanmasına Hak Kazanması.
+	
+	Geçici Maddeler	
+1.	Geçici Madde
+Taksit ve Hapislik Emirlerinin Değiştirilmesi	
+2.	Geçici Madde
+Satış Merkezleri Faaliyete Geçinceye Kadar Haczedilen Taşınır Malların Satış İşlemleri	
+3.	Geçici Madde
+Mevcut Tescillerin Süresinin Uzatılması	
+
+
+HUKUK DAVALARINDA MAHKEMELERİN YETKİLERİNE VE BU GİBİ DAVALARDA VERİLEN HÜKÜMLERİN İCRASINA İLİŞKİN YASA
+1949 Bölüm 7
+                                                                                            24/1954
+                                                                                            4/1955
+I KISIM
+BAŞLANGIÇ
+
+Kısa İsim	1. Bu Yasa, Hukuk Muhakemeleri Usulü Yasası olarak isimlendirilir.
+	
+Yorum	2. Bu Yasada:
+  “Hükümlü alacaklı”, Mahkemece lehine para ödenmesi hükmolunan bir kişiyi anlatır.
+ “Hükümlü borç”, Mahkemece ödenmesi hükmolunan parayı anlatır.
+ “Hükümlü borçlu”, Mahkemece aleyhine para ödenmesi hükmolunan kişiye anlatır.
+“Mahkeme”, hakkında herhangi bir istida yapılan, bir emir verilen veya herhangi bir müzekkere veya celpname isdar edilen davanın ikame edildiği Mahkemeyi veya Yüksek Mahkemeyi veya onların herhangi bir yargıcını anlatır.	
+
+II. KISIM
+MAHKEMENİN YETKİLERİ
+
+Yargı Yetki Alanı Dışına Celpname Tebliği	3.  Dava sebebinin,  herhangi bir yerde yapılan bir sözleşmenin Kuzey Kıbrıs Türk Cumhuriyeti’nde ihlalinden veya Kuzey Kıbrıs Türk Cumhuriyeti’nde  ihlal edildiği iddiasından veya Kuzey Kıbrıs Türk Cumhuriyeti yasalarına bağlı bir maldan doğduğuna veya dava sebebinin Kuzey Kıbrıs Türk Cumhuriyeti’nde doğduğuna ve yukarıda sözü edilen meselelerin herhangi birine ilişkin davanın Kuzey Kıbrıs Türk Cumhuriyeti’nden başka bir yerde görülemeyeceğine veya başka bir yer yerine Kuzey Kıbrıs Türk Cumhuriyet’inde  görülmesinin daha uygun olacağına Mahkemece kanaat getirilmesi halinde, Mahkeme, bu gibi davalara ilişkin celpnamelerin Kuzey Kıbrıs Türk Cumhuriyeti dışına tebliğ edilmesine emir verebilir.
+	
+İhtiyati Haciz v.s.İçin Ara Emri	4.	(1)	Mahkeme, herhangi bir davanın askıda olduğu herhangi bir zamanda, dava konusu olan herhangi bir mala ihtiyati haciz konulması, böyle bir malın korunması, muhafaza altına alınması, satılması, alıkonması veya tetkik edilmesi için veya dava ile ilgili herhangi bir kişiye veya mala ilişkin bir sorun hakkında kesin hüküm verilinceye veya hüküm icra edilinceye kadar, bu gibi bir kişinin veya malın uğrayabileceği herhangi bir zarar ziyan veya olumsuz yönde etkilenmenin önlenmesi için, emir verebilir.	
+		(2)	Yukarıda sözü edilen ihtiyati haciz emri, emirde belirtilen ve aleyhine emir verilen kişinin işgalinde bulunan herhangi bir taşınmaz mala girip malın sağladığı kira ve kazançları ve ayni zamanda aleyhine emir verilen kişinin eşyalarını ve taşınır mallarını toplamak, almak ve onları emirde belirtilen süre içinde veya mahkemenin ikinci bir emrine kadar muhafazası altında bulundurmak üzere bazı kişi veya kişileri atayan bir emri anlatır.	
+		(3)	Söz konusu emir, atadığı kişi veya kişilere, yapılmasına direktif verdiği her şeyi ve onlara bağlı arızi şeyleri ve fiilleri, işleri  yapmaları hususunda tam yetki verir. Aleyhine emir verilen kişi, emrin verildiğinin kendilerine ihbar edildiği tarihten başlayarak, ihtiyati haciz konmuş bulunan taşınmaz malı sadece işgal edip orada mesleğini icra etme ve işgal ve meslek icra etme amaçları için orada bulunan taşınır malları kullanma hakkı saklı kalması koşuluyla, emrin öngördüğü tüm yetkilerden yoksun kalır.
+	
+Taşınmaz Malla İlgili Muameleleri Engelleyen Ara Emri	5.	(1)	Alacak veya zarar ziyan talebini içeren bir davanın askıda bulunduğu herhangi bir Mahkeme, davanın ikame edilmesinden sonra herhangi bir zamanda vereceği bir emir ile, davalının adında kayıtlı bulunan veya adına kaydedilmesi hususunda yasal hakkı bulunan herhangi bir taşınmaz maldan, Mahkemenin kanaatına göre davacının talebini ve dava masraflarını  karşılamaya yeterli olacak miktardaki bir kısmının elden çıkarılmasını engelleyebilir.	
+		(2)	Davacının iyi bir dava sebebi olduğuna ve hükmün lehine verilmesi halinde malın üçüncü bir şahsa satılması veya devredilmesiyle davacının bu gibi bir hükümden yararlanmasının engellenme ihtimali olduğuna Mahkemece kanaat getirilmediği takdirde, böyle bir emir verilmez.	
+		(3)	Bu madde uyarınca verilen her emir, pratik olduğu ölçüde, emrin etkilediği malın yerini, sınırlarını, yüzölçümünü  ve niteliğini belirtir.	
+		(4)	Bu madde uyarınca bir emir verildiğinde, emrin verilmesi için istida yapan kişi, emrin etkilediği malın bulunduğu yerin Kaza Tapu Dairesine, emrin tasdikli bir sureti ile birlikte, kaza Tapu amirine hitap eden bir memorandum sunar ve malın aleyhine emir verilen kişiden başka herhangi kişiye devredilmemesini ister.	
+		(5)	Emir ve memorandum, sunuldukları dairede incelemeye açık tutulur ve emrin yürürlükte bulunduğu süre içinde ilgili mala ilişkin herhangi bir müteakip devir muamelesi geçersiz olur. Malın, adına bu biçimde devredilen herhangi bir kişinin başvuracağı çare, malı kendisine satış, hibe, ipotek veya başka bir şekilde veren veya devreden kişiden sadece zarar ziyan talep etmektir. Kaza Tapu Amiri, sözü edilen belgelerin yöntemine uygun olarak sunulduğunu gösteren bir kaydı, bu amaç için tutulan deftere kaydeder ve belgeleri sunan kişiye kaydın numarasını yazılı olarak bildirir.
+	
+Davalıyı Tutuklama Yetkisi.
+   	6.	(1)	Herhangi bir Mahkeme huzurundaki bir davada davacı, kesin hüküm verilmeden önce, herhangi bir zamanda, elli lirayı geçen bir para miktarı  için davalı aleyhine iyi bir dava sebebi bulunduğunu ve davalının adayı terketmek üzere olduğuna inanılması için yeterli neden bulunduğunu ve tutuklanmadığı takdirde davalının adayı terkedeceğini ve davalının Kuzey Kıbrıs Türk Cumhuriyetinde bulunmamasının davacıya davasının yürütülmesinde önemli ölçüde zarar vereceğini, yemin altında ibraz edilecek şahadetle Mahkemeyi tatmin edecek biçimde kanıtlarsa, Mahkeme, böyle bir davalının, Mahkemenin izini olmadan adadan dışarıya çıkmayacağına dair Mahkemece emredilen ve davada talep edilen miktarı geçmeyen miktardaki bir teminatı vermediği takdirde ve verene kadar tutuklanıp altı ayı geçmeyen bir süre için hapsedilmesine emir verebilir.	
+		(2)	Davalının tutuklu bulunduğu sırada yeme içme masrafları, bu Yasanın VIII. Kısmı uyarınca hapse gönderilen  hükümlü borçlular hususunda Cezaevi Tüzüğünün öngördüğü ölçüde ve biçimde, davacı tarafından peşin olarak ödenir.	
+		(3)	Mahkeme, makul neden gösterilmesi üzerine, emri herhangi bir zaman iptal edebilir veya değiştirebilir veya adil sayılacak başka bir çare öngörebilir.	
+		(4)	Davalı tarafından verilecek teminat, emirde belirtilen miktarın Mahkemeye yatırılması veya davacı lehine davalı ve iki yetenekli kefil tarafından imzalı bir senet  (Mahkemenin izni ile bir veya ikiden fazla kefil olabilir) veya davacının rızası ile herhangi başka biçimde bir teminat şeklinde olabilir. Davacı, teklif edilen kefillerin isim ve adreslerine ilişkin bilgileri aldığı tarihten başlayarak dört gün içinde kefillere itiraz ettiğine dair ihbarname verebilir ve ihbarnamede itiraz nedenlerini bildirir. Böyle bir durumda teminatın yeterli olup olmadığını ilgili Mahkeme kararlaştırır. Mahkeme bu konuda taraflardan herhangi birine masraf ödenmesi için emir verme yetkisine de sahiptir. Davacı, itiraz ihbarnamesini verdiği tarihten başlayarak dört gün içinde Mahkemeye o amaç için bir dilekçe sunmadığı takdirde, verilen teminat yeterli sayılır.	
+		(5)	Aksine bir emir verilmedikçe, bir tutuklama emrinin masrafları veya ona ilişkin masraflar, dava masrafı sayılır.
+	
+Yetersiz Nedenler Üzerine Verilen 
+Ara Emirleri	7. Yukarıdaki son üç madde uyarınca herhangi bir Mahkeme tarafından verilmiş bulunan bir emrin verilmesi için yapılan istidanın yetersiz nedenlere dayandığı görülür veya davacının davası düşer veya davacı aleyhine gıyaben veya başka biçimde hüküm verilir ve Mahkeme de, davacının davayı açmasında başarılı olma olasılığı olmadığı kanısına varırsa, davalının yapacağı bir istida üzerine Mahkeme, uygun gördüğü hallerde, söz konusu emrin yerine getirilmesi sonucu davalının girdiği masraflarla uğradığı zarar ziyana karşılık Mahkemece makul sayılacak miktardaki bir tazminatın davalı tarafından davacıya ödenmesini emredebilir.
+    Bu madde uyarınca bir tazminat ödenmesi, söz konusu emir gereğince yapılan herhangi bir şey hakkında tazminat davası açılmasına engel teşkil eder ve bu gibi bir dava, eğer başlatılmış ise, Mahkemece adil sayılacak biçimde ve koşullarla durdurulur.
+	
+Şahadet Temini İçin Görevlendirme	8.	(1)	Bir davadaki taraflardan herhangi birinin istidası üzerine, Mahkeme, adaletin gerçekleşmesi  için gerekli görülen hallerde ve Mahkemece öngörülecek koşullara (eğer varsa) bağlı olarak, herhangi bir tanığın veya kişinin Mahkemenin yargı yetkisi alanı içinde bulunan veya bulunmayan bir yerde, herhangi bir kişi huzurunda yemin altında sorgulanması için  herhangi bir emir verebilir ve sorgulama ile ilgili hususlarda adil ve makul sayılacak direktifleri verebilir ve davadaki herhangi bir tarafı, alınan ifadeyi davada şahadet olarak ibraz etmesi için yetkili kılabilir.
+	
+		(2)	Herhangi bir sorgulamanın yapılması için kendisine böyle bir direktif verilen kişi, saptanmış yemini ettirebilir ve Mahkemeye, sorgulama, herhangi bir tanık veya kişinin davranışı ve hazır bulunmamaları konusunda, özel bir rapor sunar. Mahkeme de, işlemlerin yapılması için direktif  ve adil gördüğü emri verebilir.	
+		(3)	Bir davadaki taraflardan herhangi birinin istidası üzerine, Mahkeme, uygun gördüğü hallerde, yabancı bir ülkedeki bir Mahkemeye, bu gibi bir Mahkemenin yargı yetkisi alanı içerisinde oturan bir tanığı sorguya çekmesi için istida yapabilir ve bu gibi bir tanığın yabancı ülke Mahkemesi huzurunda veya bu gibi bir Mahkemece sorgulama işlemini yapmak üzere görevlendirilen kişi huzurunda, verdiği ifadeyi şahadet olarak davada ibraz etmesi için, davadaki taraflardan herhangi birine yetki verebilir.
+	
+Karşı Tarafa İhbarda Bulunmaksızın Verilen Emirler	9.	(1)	Mahkeme, vermeye yetkili olduğu herhangi bir emri, ivedilik veya diğer özel durumların varlığının kanıtlanması koşuluyla, davadaki herhangi bir tarafın istidası üzerine, karşı tarafa ihbarda bulunmaksızın verebilir.	
+		(2)	Karşı tarafa ihbarda bulunmaksızın bu gibi bir emri vermeden önce Mahkeme, emrin verilmesi için istida yapan taraftan, aleyhine böyle bir emrin verilmesi istenen kişiye karşı zarar ziyan hususunda sorumluluğunun bir teminatı olarak, Mahkemenin uygun göreceği gibi kefilli veya kefilsiz, bir kefaletname imzalamasını isteyebilir.	
+		(3)	İhbarda bulunmaksızın verilen bu gibi bir emir, etkilediği tüm kişilere ihbar edilebilmesi ve Mahkemede İsbatı vücut edip emre itiraz edebilmeleri için, gerekli olan süreden daha fazla  bir süre yürürlükte kalamaz. Mahkeme, tarafları veya taraflardan herhangi birini dinledikten sonra, başka türlü bir direktifte bulunmadıkça, bu gibi emirler sözü edilen süre sona erince yürürlükten kalkar. Bu gibi her emir, davalarda, mahkemenin uygun göreceği bir biçimde ele alınır.
+ 	
+		(4)	Bu maddenin hiç bir kuralı, Mahkemenin haciz müzekkeresi ısdar etme yetkisini etkiler veya ona uygulanır şekilde yorumlanamaz.	
+
+
+III. KISIM
+
+İCRAYA İLİŞKİN GENEL KURALLAR
+
+Müşterek Mallara Karşı İcra 	10. Bir hüküm, bir kaç kişinin aleyhine müştereken verildiği hallerde, bu gibi kişilerin müştereken sahip olduğu herhangi bir mala karşı veya onlardan herhangi birinin münferinden sahip olduğu herhangi bir mala karşı icra edilebilir.
+	
+	11. (14/1960 sayılı Yasanın 73’üncü maddesi ile kaldırılmıştır).
+	
+İcra Masrafları	12. Bir hükmü icra eden taraf, Mahkemece başka türlü emredilmedikçe, icra için yaptığı masrafların kendisine ödenmesine hak kazanır. İcra Memuru veya bir icra müzekkeresini uygulayan başka bir memur, müzekkerenin uygulanması için kendisi veya vekili tarafından yapılan masrafları elindeki paradan alıkoyma yetkisine sahiptir.
+	
+İcra Hasılatının Elden Çılarılması	13. Mahkeme tarafından başka türlü bir direktif verilmedikçe, bir hüküm uyarınca ödemesi gereken ve Mahkemece ısdar edilen müzekkere uyarınca icra yolu ile veya başka biçimde tahsil edilen tüm paralar, Mahkemeye ödenir. 
+     Mahkemeye ödeme, Hazine ve Muhasebe Dairesine veya herhangi bir bankaya veya Mahkeme Tüzüklerinin öngördüğü kişiye veya kişilere, ödemek suretiyle yapılır. Bu biçimde ödenen paralar, Mahkemenin alacak hesabına geçirilir ve Mahkemenin emrine tabi olur.
+	
+İcra Yöntemleri.	14.	(1)	Para ödenmesini öngören herhangi bir Mahkeme hükmü veya emri, bu Yasa kurallarına bağlı olarak, aşağıda gösterilen yollardan herhangi biriyle icra edilebilir:	
+			(a)	taşınır malı zaptedip satma;	
+			(b)	taşınmaz malı satma veya hüküm ile yükümlü kılma;	
+			(c)	taşınmaz mala ihtiyati haciz veya geçici olarak el koyma;	
+			(d)	bu Yasanın VII. Kısmı uyarınca mala haciz koyma; veya	
+			(e)	bu Yasanın VIII. Kısmı uyarınca borçluyu hapse gönderme.	
+24/54,2		(2)	Herhangi bir taşınmaz malın zilyetliğinin istirdadına veya teslimine ilişkin herhangi bir Mahkeme hükmü veya emri, icra memuruna veya başka bir memura, söz konusu malın zilyetliğini hükümlü alacaklıya vermesine direktif veren bir zilyetlik müzekkeresi yoluyla uygulanabilir.	
+24/54,2		(3)	Herhangi bir taşınır malın zilyetliğinin istirdadına veya teslimine ilişkin herhangi bir Mahkeme hükmü veya emri, İcra Memuruna veya başka bir memura, söz konusu taşınır malı alıp hükümlü alacaklıya teslim etmesini yöneren bir teslim müzekkeresi yoluyla uygulanabilir.	
+24/54,2
+37/2019
+   		(4)	Para ödenmesini öngören herhangi bir hükmü, bir haciz müzekkeresi tahtında icra etmekle görevlendirilen herhangi bir icra memuru, Mahkeme veya Mahkeme tarafından bu konuda yetkilendirilmiş olan mukayyit tarafından hükümlü borç ve masrafları, hükümlü borçludan nakden veya kredi kartı aracılığı ile tahsil etmeye yetkili kılınabilir. Kredi kartıyla ödeme yapılması sebebiyle ortaya çıkan banka komisyonu ve diğer masraflar, hükümlü borca ilave edilmek suretiyle hükümlü borçludan tahsil edilir. Yüksek Mahkeme, kredi kartı ile tahsil yönteminin uygulanabilmesi için, uygun gördüğü sayıda Banka pos hesabı açmaya ve pos cihazlarını icra memurlarına teslim etmeye yetkilidir.
+	
+37/2019		(5)	Yukarıdaki (4)’üncü fıkra uyarınca hareket eden bir icra memuru, Mahkemenin veya Mahkeme tarafından bu konuda yetkilendirilmiş olan mukayyidin onayı ile haciz müzekkeresinin hükümlü borcun ve masrafların tamamen ödenmesine değin yürürlükte kalması koşuluyla, bir hükümlü borçlunun borcunu 4 (dört) ayı geçmeyecek şekilde taksitlerle ödemesine imkân tanıyabilir. Haciz müzekkeresine konu borcu için bu fıkra uyarınca ödemesi gereken herhangi bir taksidi gününde ödemeyen hükümlü borçlunun mütebaki borcu için haciz işlemine devam edilir.	
+37/2019		(6)	Yukarıdaki (4)’üncü ve (5)’inci fıkra kuralları uyarınca tahsil edilen meblağlar bu Yasanın 13’üncü maddesi uyarınca işlem görür.	
+37/2019		(7)	Yüksek Mahkeme, zilyetlik müzekkeresi ile teslim müzekkeresinin biçimi; onlarla ilgili olarak ödenecek harçlar; bu gibi müzekkerelerin çıkarılması ve icra edilmesinde izlenecek yöntem; bu madde kuralları uyarınca icra memurlarınca nakden, kredi kartı veya taksit yöntemi ile yapılacak tahsilatlarda uygulanacak usül ve kurallar dahil bu maddenin uygulanmasına yönelik hususları düzenlemek amacıyla, Resmi Gazete’de yayımlanarak yürürlüğe girecek olan Mahkeme Tüzükleri yapabilir.
+	
+Para Ödenmesine İlişkin Emirlerin Sadece Bu Yasa Kuralları Uyarınca İcra Edilmesi.	15. Para ödenmesine ilişkin hüküm veya emirler, bu Yasa kuralları dışında icra edilemez.	
+	IV. KISIM
+TAŞINIR MALLARIN SATIŞ YOLU İLE İCRASINA İLİŞKİN KURALLAR
+	
+Borçlunun İcraya Tabi	16. Dava konusu olan veya borca teminat gösterilen mallar dışında, aşağıdaki eşyalar haczedilemez:	
+Tutulmayacak Eşyaları
+2.23/1984
+31/2003
+86/2007		(a)	Borçlunun ve ailesinin şahsi ve mesleği için gerekli giyim eşyasıyla borçlu ve ailesine gerekli olan yatak, yatak takımları ve bir dolap;	
+86/2007		(b)	Borçlunun ve ailesinin yemek pişirmede kullandığı gerekli mutfak takımları; bir adet yemek masası ve sandalyeleri, tabak kaşık bıçak takımı ve bir buzdolabı;	
+86/2007		(c)	Borçlunun mesleği, sanatı, zanaatı, sınai veya ticari işletmesi, tarımsal veya hayvansal faaliyeti veya meşguliyeti için mutlak surette gerekli olan (bir asgari ücreti aşmayan değerde) makine alet- edavat, ve kap-kacak;	
+86/2007		(ç)	Borçlu geçimini hayvancılıkla sağlıyorsa, kendisinin ve ailesinin yaşamını idame ettirebilmesi için gerekli olan hayvanları;	
+86/2007		(d)	İcradan bağışık tutulan hayvanlardan yararlanması için zorunlu olan eşya;	
+86/2007		(e)	İcradan bağışık tutulan hayvanlarının beslenmesi için gerekli olan üç aylık yem;	
+86/2007           		(f)	Borçlu çiftçi ise, borçlunun normal olarak ektiği toprağın bir yıllık ekimine yetecek miktarda tohumluk;
+
+	
+Müzekkerenin İcra Edilme Yöntemi.
+	17.		Yukarıda bir önceki madde kurallarına bağlı kalınması koşuluyla, taşınır malların zaptedilip satılmasına ilişkin her müzekkere, güneşin doğmasından sonra ve batmasından önce icra edilir; ve müzekereyi icra eden memur, hükümlü borçlunun taşınır mallarından, pratikte uygulanabildiği ölçüde hükümlü borçlunun ödenmesi için gerekli olduğuna inandığı kadarını zaptederek alıp götürür.
+	
+Haczedilen Taşınır Malların Satılması.
+2, 9/1971
+37/2019
+	17A.		Hükümlü borcun ödenmesi ile ilgili olarak bir taşınır satış müzekkeresi ısdar edildiğinde, Mahkeme; satış müzekkeresinin icrası amacıyla, icra memuru tarafından haczedilen şirket hisseleri dahil taşınır malların satılmasına ve satılan malın satın alan adına kaydolunmasına, re’sen veya başvuru üzerine herhangi bir zamanda emir verebilir	
+				
+Suç ve Ceza.
+2, 9/1971
+   	17B. Mahkemenin, 17A  maddesi gereğince vereceği herhangi bir emre itaat etmeyenler, bir suç işlemiş olurlar ve 6 aya kadar hapis cezasına veya yüz Kıbrıs lirasına kadar para cezasına veya her iki cezaya birden çarptırılabilirler.
+	
+		
+Satışın Üç Günden Önce Yapılmaması.	18. İcra için haczedilen mallar (para ve para için verilen teminat hariç) ancak haczedildikleri günü izleyen en az üç günlük bir süre geçtikten sonra satılır; meğer ki haczedilen mallar; bozulabilen türden olsun veya malın maliki olan taraf, malın satılması için yazılı olarak istemde bulunmuş olsun. Haczedilen mallar, satılıncaya kadar uygun bir yerde muhafaza edilir veya uygun bir kişinin muhafazası altında kalabilir.	
+		
+Haczedilen Taşınır Malların Satışına İlişkin Yöntem
+37/2019	19.	(1)	Bir hükmün icrası amacıyla haczedilen ve saptanmış satış bedelinin yürürlükteki aylık asgari ücretin 5 (beş) katının üzerinde olduğu saptanan taşınır mallar, Mahkemece başka türlü emir verilmedikçe, Mahkemenin vereceği direktiflere bağlı olarak bir kez açık artırma yöntemi ile satışa arz edilir.	
+		(2)	Muayyen satış bedeli yürürlükteki aylık asgari ücretin 5 (beş) katını aşmasına rağmen yukarıdaki (1)’inci fıkra uyarınca çıkarıldığı açık artırmada satılamayan şirket hisseleri haricindeki taşınır mallar ise Mahkemeye bu amaçla tahsis edilmiş satış merkezlerinde, saptanmış bedelleri üzerinden sürekli olarak satışa arz edilir.	
+		(3)	Sürekli satışa arz edilen taşınır malların saptanmış bedelleri üzerinden satılamaması halinde; satış bedeli Mahkemenin uygun göreceği devrelerde ve uygun göreceği oranlarda azaltılabilir.	
+		(4)	Hükümlü borçlunun sahip olduğu şirket hisselerinin haczedilmesi halinde; hisseler, satış bedelinin ne olduğuna bakılmaksızın, Şirketler Yasası ve şirketler ile ilgili diğer mevzuat hükümlerine uygun olarak, açık artırma yöntemi ile satışa arzedilir.	
+		(5)
+	Yüksek Mahkeme; haczedilen taşınır malların satış bedelinin saptanmasına, açık artırma ve sürekli satış yöntemlerinin uygulanmasına, şirket hisselerinin satış bedelinin ve açık artırma ile satış usulünün belirlenmesine, satış bedeline itiraz edilmesine ve satışın ertel,enmesi veya iptaline yönelik kuralları saptamak amacıyla, Resmi Gazete’de yayımlanarak yürürlüğe girecek olan Mahkeme Tüzükleri yapabilir.
+
+	
+Teminatın Nasıl İşlem Göreceği.	20.	(1)	Para için verilen herhangi bir teminatın haczedilmesi halinde, böyle bir teminat, müzekkereyi icra eden memur tarafından tahsiline direktif verilen para miktarlarına karşılık bir teminat olarak elde tutulur ve taraflarından herhangi birinin istidası üzerine, Mahkemenin emredeceği biçimde işleme konur.	
+		(2)	Bu gibi teminatların herhangi birinin güvence altına aldığı para, ödeme zamanı geldiğinde, hükümlü alacaklı tarafından hükümlü borçlu adına veya paranın tahsili için hükümlü borçlunun adına dava açabileceği herhangi bir kişi adına, ikame edilecek bir davada tahsil edilebilir.
+	
+Sahiplik Karinesi ve Üçüncü bir Tarafça Talepte Bulunulması Halinde Yapılacak İşlemler
+37/2019	21.	(1)	Hükümlü borçlu, bu Yasa amaçları bakımından tasarrufunda veya kontrolünde veya kullanımında bulunan veya yaşadığı konutta veya kendine ait işyerinde mevcut olan taşınır malların sahibi kabul edilir. Hükümlü borçlu ile birlikte ikamet eden aile mensuplarının veya üçüncü kişilerin mezkûr mallar üzerinde müşterek veya münferit mülkiyet iddiasında bulunması veya bu hususta düzenlenmiş belge ibraz etmesi, haczin yapılmasına engel teşkil etmez. Böyle bir durumda bu gibi kişilerin bu madde kuralları uyarınca Mahkemeye başvurması halinde, müşterek veya münferit mülkiyetin varlığını ve bahse konu mülkiyet durumunun icradan mal kaçırma amacıyla yaratılmamış olduğunu kanıtlama yükü bu kişilerde olur.	
+			Ancak; 
+(A) Hükümlü borçlunun veya birlikte yaşadığı kişilerin bir kira sözleşmesi tahtında mal sahibi tarafından kullanımlarına bırakılan taşınır mallar;	
+			(B) Hükümlü borçlunun her bir aile bireyinin münhasır kişisel kullanımına özgülenmiş olup değeri yürürlükteki aylık bir asgari ücreti aşmayan eşyalar ve	
+			(C) Hükümlü borçlunun 18 yaşından küçük aile bireylerinin münhasır kişisel kullanımına özgülenmiş eşyalar
+hakkında bu fıkra kuralları uygulanmaz.
+	
+		(2)	Bir üçüncü kişinin adında kayıtlı olmasına karşın, hükümlü borçlunun tasarrufunda veya kontrolünde veya kullanımında bulunan motorlu araçlarla veya herhangi bir şekilde devlet veya diğer yetkili makamlar nezdinde mal sahipliği üçüncü kişi adında kayıt altında tutulmasına karşın, hükümlü borçlunun tasarrufunda veya kontrolünde veya kullanımında bulunan motorlu araçlar dışındaki taşınır mallarla ilgili olarak da yukarıdaki (1)’inci fıkra kuralları uygulanır.	
+		(3)	Yukarıdaki (1)’inci fıkra kuralları saklı kalmak kaydıyla herhangi bir hüküm veya emir uyarınca yapılan icrada zapt edilen herhangi bir taşınır mal, hükümlü borçludan başka bir kişi tarafından talep edildiğinde, bu gibi bir talepte bulunan kişi veya icra müzekkeresinin hitap ettiği kişi, mal üzerindeki hakkın karara bağlanması amacıyla bir Mahkemeye istida ile başvurabilir. Mahkeme tüm gerekli taraflara Mahkemede hazır bulunmaları için ihbarda bulunduktan sonra tarafların haklarının duruşma yolu ile kararlaştırılması için uygun göreceği ve bu arada uyuşmazlık konusu taşınır malın muhafazasına ilişkin emri verir. Mahkeme, her iki halde de, talep nedeniyle yapılan masrafların kimin tarafından ödeneceğine dair direktif verir.	
+		(4)	Mahkeme, yukarıdaki (3)’üncü fıkra uyarınca kendisine yapılan istidayı karara bağlarken özellikle hak talebinde bulunan kişinin, haczedilen taşınır malın alımı için ödeme yaptığını gösterip gösteremediğini ve böyle bir ödeme yaptığını göstermesi halinde, işbu hususun hükümlü borçlu ile bu kişi arasında, icradan mal kaçırma amacıyla yapılan bir hile olmadığı konusunda tatmin edilip edilmediğini dikkate alır.	
+		(5)	Üçüncü bir kişi, bu biçimde zapt edilen bir malın bir alacağına karşılık verilen teminat olduğu gerekçesiyle bu gibi mal üzerinde hak talebinde bulunursa, Mahkeme, teminat altına alınan alacağın tamamen veya kısmen ödenmesi koşuluyla veya uygun göreceği başka koşullarla, malın tümünün veya bir kısmının satılmasına emir verebilir ve satıştan elde edilen para miktarının, adil görülecek biçimde ve koşullara bağlı olarak uygulanmasına direktif verebilir.	
+		(6)	Yukarıdaki (5)’inci fıkrada belirtildiği gibi bir teminatın, devlet veya diğer yetkili makamlar nezdinde kayıt altına alınmış bir rehin olması halinde haczi gerçekleştiren icra memuru tarafından lehine rehin verilen kişiye haczin gerçekleştirildiğine ilişkin bir bildirimde bulunulur. Böyle bir bildirim üzerine, 10 (on) iş günü içerisinde hak talebinde bulunulması durumunda, yukarıdaki (5)’inci fıkra kuralları uygulanır.
+	
+Muamelelerin Engellenmesi
+37/2019	21 A.	(1)	Hükümlü borçlu aleyhine haciz müzekkeresinin dosyalanmasıyla birlikte, yukarıdaki 21’inci madde kapsamında olup da devlet veya diğer yetkili makamlar tarafından mal sahipliği kayıt altında tutulan taşınır mallar veya hükümlü borçlu adına kayıtlı bulunan taşınır mallarla ilgili devir veya yükümlülük altına koyma muameleleri engellenir.	
+		(2)	Mahkeme veya Mahkeme tarafından yetkilendirilmiş mukayyit veya icra memurunca hakkında haciz müzekkeresi dosyalandığı bilgisinin verilmesi üzerine sözkonusu mal sahipliği kayıtlarını tutan yetkili makamlar, hükümlü borçlu adına kayıtlı olan veya üçüncü kişilerin adına kayıtlı olmakla birlikte bu Yasanın 21’inci maddesinin (2)’nci fıkrası kapsamında olduğu bildirilen taşınır malların devrini ve yükümlülük altına konulmasını men eden bir şerhi ilgili sicile kaydederler. Borçlunun sahip olduğu şirket hisseleri ile ilgili bildirim, Resmi Kabz Memurluğu ve Şirketler Mukayyitliğinin yanı sıra hisselerin ait olduğu şirkete de yapılır. Bahse konu şerhin konulduğuna ilişkin bir yazı, Şirketler Mukayyiti tarafından ilgili şirketin Mukayyitlik nezdindeki dosyasına da konulur.	
+		(3)	Sözkonusu şerh, haczedilen taşınır bu Yasa kurallarına uygun olarak satılıncaya veya haciz müzekkeresi herhangi bir şekilde sonuçlanıncaya kadar veya Mahkeme bu Yasanın 21’inci maddesinin (3)’üncü, (4)’üncü ve (5)’inci fıkraları uyarınca aksi yönde bir emir verinceye kadar geçerli olur.	
+				
+V. KISIM
+TAŞINMAZ MALLARIN İCRASINA İLİŞKİN KURALLAR
+
+Birinci Bölüm
+Satış Yolu İle İcra
+
+Taşınmaz Mal Satışı İçin Müzekkerenin Borçlunun Taşınır Malı Olmadığı Takdirde Çıkarılabilmesi.
+	22. Hükümlü borçlu aleyhine taşınır  mallarının satışı için Mahkeme tarafından isdar edilen ve Mahkemenin bulunduğu ilçenin icra memuruna hitap eden bir taşınır mal müzekkeresi, icraya tabi taşınır mal bulunmaması nedeniyle yerine getirilmeden mahkemeye iade edilmedikçe veya hükümlü borçlunun fiili tasarrufunda taşınır mal bulunmadığı anlaşılmadıkça, hükümlü borçlunun rızası olmaksızın, taşınmaz mal satışı yolu ile icrayı öngören herhangi bir müzekkere ısdar edilmez.
+	
+İcra Yolu İle Satılabilecek Taşınmaz Mallar	23. Bir hükümlü borçlunun icra yolu ile satılabilen taşınmaz malları, sadece Kaza Tapu Dairesinde borçlunun adında kayıtlı olan mallarını kapsar.
+     Ancak, taşınmaz malların tümünün veya bir kısmının bir veya birkaç konuttan oluşması halinde, borçluya, Mahkemece, borçlunun ve ailesinin barınması için mutlak surette gerekli olduğu kanaatına varılan bir konut bırakılır veya temin edilir ve satıştan bağışık tutulur. Yine ancak borçlunun bir çiftçi olması halinde Mahkemenin kanaatına göre, borçlunun ve ailesinin geçimi için mutlak surette gerekli olan arazi miktarı satıştan bağışık tutulur. Bu son şart bendi 2 Mayıs 1919 tarihinden önce edinilen borçlara, veya 1914 Kooperatif Kredi Şirketleri Yasası veya onu değiştiren herhangi bir değişiklik Yasası uyarınca yöntemine uygun olarak kaydolunan bir Kooperatrif Kredi Şirketinin üyelerinin veya eski üyelerinin şirkete olan borçlarına uygulanmaz.
+	
+Müzekkere İsdarı.	24. Taşınmaz malların satışına ilişkin müzekkereler, ancak Mahkemeye yapılacak borçluya önceden ihbarı yapılacak bir istida üzerine çıkarılır. Bu gibi müzekkereler, çıkarılmalarına direktif veren Yargıç veya Yargıçlardan biri tarafından imzalanır.
+	
+Satılan Taşınmaz Malın Tapuda Kaydı.
+2, 9/1971
+  
+6/1969
+17/1970
+38/1970
+
+
+
+Suç ve Ceza
+2, 9/1971
+   	24A. Mahkeme, taşınmaz malın satılmasına emir verirken veya herhangi bir zamanda, ilgili herhangi bir kişinin müracaatı üzerine satılan malın Tapu ve Kadastro  Dairesince satın alan adına devir ve kaydolunmasını temin etmek amacıyla, hükümlü borçlunun gereken tapu muamelesini yapmasına resen veya müracaat üzerine herhangi bir zamanda emir verebilir.
+     Ancak, Kıbrıs Türk Cemaatına mensup olmayan şahıslara Gayrimenkul  Mal Satışını Meneden Yasa kapsamına giren durumlarda Mahkeme böyle bir karar vermezden önce mezkur Yasa kurallarına göre izin verilip verilmediğini inceler ve iznin verilmediği hallerde bu gibi emirleri vermez.
+
+24B. Mahkemenin 24A maddesi gereğince vereceği herhangi bir emre itaat etmeyenler, bir suç işlemiş olurlar ve altı aya kadar hapis cezasına veya yüz Kıbrıs lirasına kadar para cezasına veya her ikisine birden çarptırılabilirler.
+	
+Müzekkerenin Yürürlük Süresi	25. Bu maddeden sonra gelen madde kuralları saklı kalmak koşulu ile, taşınmaz mal satışına ilişkin bir müzekkere, ısdar edildiği tarihten bir yıl geçtiği halde sadece satışın yapılması için gerekli olan masrafların ödenmemiş olması nedeniyle icra edilmemiş olarak duruyorsa, Kaza Tapu Amiri, müzekkere üzerine, masrafların ödenmemiş olması nedeniyle icra edilmediğine dair bir şerh düşer; ve bunun üzerine, müzekkere isdar edildiği Mahkemeye iade edilir ve böyle bir müzekkerenin hiçbir yasal geçerliliği ve etkisi kalmaz..
+     Mahkeme, isdar edildiği tarihten bir sene geçmeden önce herhangi bir zaman, müzekkerenin Mahkemenin uygun göreceği ek bir süre için daha yürürlükte kalmasına emir  verebilir.
+	
+Malın Herhangi Bir Kısmının Diğer Kısmından Daha Evvel Satılması İçin Emir.
+	26. Taşınmaz malı  satılacak olan bir hükümlü borçlunun, taşınmaz malının bir kısmının diğer kısmından daha evvel satılmasının kendinin veya alacaklılarının yararına olacağını iddia etmesi halinde, bu gibi bir borçlu, bu iddiasını açık artırma ile satış tamamlanmadan önce Mahkemenin bilgisine getirir; ve Mahkeme de malın herhangi bir kısmının diğer bir kısmından daha evvel satılmasının gerekli olduğu görüşüne varırsa, malın bu biçimde satılmasına emir verebilir.
+	
+Taşınmaz Mal Satışına Genel Nitelikte Direktif Veren Müzekkereler.	27. Borçlunun taşınmaz mallarının satılmasına genel nitelikte direktif veren bir müzekkere, başka veya daha fazla direktif verilmediği takdirde, borçlunun adında kayıtlı bulunan mallardan, hükmün öngördüğü para miktarıyle tüm icra masraflarını karşılamaya yeterli sayılacak bir kısmını satmaları için İcra Memuruna ve Kaza Tapu Dairesi Memurlarına yeterli yetki teşkil eder.
+	
+İpotekli Taşınmaz Mal	28. Taşınmaz malın ipotekli olması halinde-
+	
+		(a)	hükümlü alacaklı, ipotekli borcun ödenme günü geldikten sonra  herhangi bir zamanda, hükümlü borçlu adına ipotekli alacaklıya ipotekle teminat altına alınan para miktarının tümünü ödeyebilir ve ödediği bu gibi bir para miktarını hükümlü alacağına ekleyebilir; ve Mahkeme de, ipotekle teminat altına alınan paranın ödendiğine kanaat getirmesi üzerine, malın satılmasına direktif verebilir.	
+		(b)	hükümlü alacaklı, ipotekli alacaklıya ipotekle teminat altına alınan para miktarını ödemeyi teklif eder ve ipotekli alacaklı bu teklifi kabul etmezse, Mahkeme, hükümlü alacaklının istidası üzerine, ipotekli borcun hükümlü alacaklı tarafından Mahkemeye ödenmesi veya hükümlü alacaklının ipotekli borcun başka bir biçimde ödenmesini teminat altına alması hususunda Mahkemenin uygun göreceği koşullarla, malın satılmasına direktif verebilir.	
+		(c)	hükümlü alacaklı, ipotekli alacaklıya ipotekle teminat altına alınan parayı ödemek veya ödeme teklifinde bulunmak yerine, satış için müzekkere çıkarılması için Mahkemeye istida yapmak niyetinde olduğunu ipotekli alacaklıya ihbar edebilir; ve böyle bir istida üzerine, ve hükümlü alacaklının satış için ve satışla ilgili olarak yapılacak masrafları Mahkemenin uygun göreceği biçimde teminat altına alması üzerine, ipotek altında nuaccel olan ve muaccel olacak olan paranın temin edilmesi amacıyla Mahkemenin koyacağı bir taban fiyat koşuluna bağlı olarak malın satılmasına direktif veren bir müzekkere çıkarılabilir; ve satışta, saptanmış bulunan taban fiyat kadar bir artırma yapılmadığı taktirde mal satılmaz.	
+		(d)	paragraf (c) uyarınca yapılan bir satıştan elde edilen para, yettiği kadar, ilkin ipotekli borcun ödenmesine, ikinci olarak satış masraflarının ödenmesine ve üçüncü olarak hükümlü borcun ödenmesine uygulanır ve geriye kalan da (eğer varsa) hükümlü borçluya ait olur.	
+		(e)	elde edilen para, ipotekli borç ile satış masraflarının tamamen ödenmesine yetmezse, eksilen para için hükümlü alacaklı sorumlu tutulur; bununla beraber, Mahkemece uygun görülüp gereğince emir verilmesi halinde, hükümlü alacaklı, eksilen para miktarını, hükümlü alacağına icra masrafı olarak ekleyebilir.
+	
+Ölmüş Borçlunun Adında Kayıtlı Bulunan Taşınmaz Malın Mirasçılarının Adına Kay-dedilmemesi.
+	29. Ölmüş bir kişinin hükümlü borcunun ödenmesi amacıyla taşınmaz mallarının satılması için bir müzekkere çıkarıldığında, taşınmaz mallar Kaza Tapu Dairesinde müteveffanın adında kayıtlı ise, Tapu Dairesi, söz konusu malların mirasçıların adına kaydedilmesini talep etmeksizin onları borcun ödenmesi için satar.	
+Daha Önce Çıkarılan Müzekkere İle Satılması Emrolunan Taşınmaz Malın Daha Sonra Çıkarılan Müzekkere İle Satışı.
+	30. Taşınmaz mal satışına ilişkin bir müzekkerenin çıkarılmış olması halinde, Mahkeme, herhangi başka bir hükümlü alacaklının istidası üzerine, birinci müzekkere uyarınca malın satılmamış bulunan kısmı için ikinci bir satış müzekkeresi çıkarabilir; ve benzeri bir istida üzerine, birinci müzekkere altında ödenmesi gereken para ödendikten sona geri kalan paranın, eğer varsa, istidayı yapan alacaklıya olan borcun ödenmesinde kullanılmasına emir verebilir.	
+Direktifler.	31. İcra Memuru, veya bir satış müzekkeresini icra eden herhangi bir kişi, satış sırasında ortaya çıkan veya çıkması muhtemel olan herhangi bir sorun hususunda direktif için Mahkemeye istida yapabilir ve böyle bir istida üzerine Mahkeme uygun göreceği direktifleri verebilir.
+	
+Satışın Durdurulması İçin Üçüncü Bir Tarafın İstidası.	32. Satışı için müzekkere çıkarılan herhangi bir taşınmaz mal üzerinde menfaatı olduğunu iddia eden herhangi bir kişi, satışın durdurulması için Mahkemeye istida yapabilir; Mahkeme de gerekli olan tüm tarafları dinledikten sonra, istida hakkında adil göreceği emri verebilir.
+
+	
+Satışın Açık Artırma İle Yapılması.	33. Bir hükmün yerine getirilmesi için yapılan her taşınmaz mal satışı, açık artırma ile yapılır ve satışın yapılacağı yer ve zaman kamuya önceden ilan edilir.
+	
+Satışın İlanı.	34.	(1)	İlan, malın bulunduğu kent veya köye; satışın yer alacağı kent veya köye; satış müzekkeresinin çıkarıldığı Mahkemenin binasına; ve Mahkemenin direktif verdiği veya bu Yasa uyarınca yapılan Satış Tüzüğünün öngördüğü yer veya yerlere asılır.	
+		(2)	İlanda, satışı yönetmek üzere görevlendirilen kişinin adı ve işyeri ile, eğer varsa, tayin edilen satış saatine kadar artırmaların yapılabileceği kişinin adı ve işyeri belirtilir.	
+		(3)	İlan, satıştan en az on beş gün önce verilir ve her halukarda doksan günden önce verilmez. İlan, bu Yasa uyarınca yapılan herhangi bir Satış Tüzüğünde öngörülen biçim ve belirtilen satış öncesi mühlete uygun olarak verilir veya böyle bir Tüzüğün bulunmaması halinde Mahkeme tarafından verilecek direktife uygun olarak verilir.
+	
+Yazılı Artırmalar.	35. İlanın yapılmasından sonra ve satışın yapılacağı vakte kadar, satış ilanında o amaç için görevlendirildiği bildirilen kişiye yazılı artırmalar verilebilir;  Ancak bu gibi yazılı artırmalar, Satış Tüzüğüne uygun olarak yapılır veya böyle yapılmaması halinde, yazılı artırmaları teslim almak üzere görevlendirilen kişinin huzurunda artıran kişi tarafından imza edilir.
+	
+Satışın Kapatılması.	36. Satışı yönetmek üzere görevlendirilen kişi veya onun yerine geçen kişi, satışın yapılması için saptanan yer ve vakitte sözlü olarak kendine yapılan tüm artırmaları kabul eder ve Satış Tüzüğü kuralları uyarınca satışı kapatır veya kapatmadığı takdirde, son yapılan artırmadan sonra geçen zamanı dikkate alarak daha başka artırma yapılmayacağı kanaatına varması üzerine, satışı kapatır.
+	
+En 
+Çok Artıranın Açıklanması.
+	37. Satış kapandıktan sonra, satışı yöneten kişi, en çok artıranın adını açıklar.	
+Artıran Kişinin Yükümlülüğü.	38.	(1)	Gerek yazılı gerek sözlü olarak artırma yapan herkes, artırdığı miktardan daha çok bir artırma yapılmadığı takdirde veya yapılıncaya kadar, artırdığı miktar için ve malın Kaza Tapu Dairesi kayıtlarında yöntemine uygun olarak kaydedilmesi için satışı tamamlayacağı ve gerekli harçları ödeyeceği hususunda sorumlu olur; ve satışı yönetmekle görevli kişi tarafından istenmesi üzerine, en çok artıran kişi artırdığı paranın tümünü veya Satış Tüzüğünce ödenmesi öngörülen kısmını ve aynı zamanda yukarıda belirtilen harçları, ödemeyi ihmal veya reddederse, artırma tekrar başlatılır ve mal tekrar satışa çıkarılır. Böyle bir halde, bir önceki satışta en çok artıran kişi, söz konusu para miktarlarını ödemeyi ihmal veya  reddetmesi sonucu meydana gelen tüm zarar ziyandan, eğer varsa, sorumlu olur.	
+		(2)	Müteakip satıştan elde edilen para miktarı, satış yolu ile icra edilmekte olan hüküm gereğince ödenmesi öngörülen miktarın karşılanmasına yetmezse, daha önceki satışta en çok artıran kişinin sorumluluğunu yüklendiği para miktarı, eğer varsa, hükümlü alacaklı veya Mahkemenin izni ile hükümlü borçlu tarafından açılacak bir dava yoluyla istirdat edilebilir. Aksi halde, sözkonusu para miktarı hükümlü borçlu tarafından açılacak bir dava yoluyla istirdat edilebilir.
+	
+Artırılan Para Miktarının Ödenmemesi Halinde Ceza.
+   	39. Satışı yöneten kişi, en çok artıran kişi ilan edilenden, satışın kapatılmasından hemen sonra, artırdığı paranın tümünü ödemesini istemezse, en çok artıran kişi satış koşullarında belirtilen süre içinde artırdığı paranın geriye kalan kısmını  ödemediği takdirde, hükümlü alacaklı bu gibi kişiye bir ihbar tebliğ eder ve ihbarın tebliğ edildiği tarihten başlayarak on gün içinde ödemeyi tamamlaması için çağrıda bulunur; ve en çok artıran kişi, kanıt yükü kendine düşmek üzere, makul bir nedeni olmaksızın, yukarıda belirtilen on gün içinde ödemeyi tamamlamayı ihmal veya reddederse suç işlemiş olur ve mahkum olması halinde elli liraya kadar para cezasına çarptırılabilir. 
+	
+Mahkemenin Taban Fiyatı Saptaması	40. Mahkeme, satış müzekkeresini çıkarırken, Mahkeme tarafından saptanan taban fiyata eşit veya o fiyattan daha fazla bir artırma yapılmadığı taktirde, malın satılamayacağına dair direktif verebilir. Böyle bir direktif, malının satılması emredilen kişinin Mahkemeye yapacağı istida üzerine ve direktifin verilmesiyle ortaya çıkacak ek masrafların ödenmesini Mahkemenin onaylayacağı biçimde teminat altına alması üzerine, Mahkeme tarafından verilebilir. Böyle bir direktif verildiğinde, taban fiyat her meselede satış müzekkeresinde belirtilir ve taban fiyata eşit olmayan veya taban fiyatı aşmayan herhangi bir  artırma veya teklif kabul edilmez. 
+Ancak, bu madde bir borcun ödenmesini sağlamak amacıyla yasal bir biçimde ipotek edilen  mallara uygulanmaz.
+	
+Taban Fiyata Ulaşılmadığı Hallerde Tekrar Satış.
+	41. Yapılan artırmaların taban fiyata eşit olmaması nedeniyle malın satılmadığı hallerde, artırmaların sona ermesinden başlayarak altı ay geçtiği halde mal hala daha satılmamış durur ve alacaklı da malın tekrar satışa çıkarılmasına emir verilmesi için Mahkemeye istida yaparsa, Mahkeme, borcun ödendiği kanıtlanmadığı taktirde, gereğince emir verebilir; bunun üzerine mal, sağlanabilen en iyi fiyat karşılığında satılır.	
+
+Satışın Yer Aldığı Odanın Kapılarının Kapatılması.	
+42. Satışı yöneten kişi,  satışı sona erdirip en çok artıran kişiye satış parasını veya satış parasının bir kısmını ödemesi için çağrıda bulununcaya kadar, satış başladığında orada bulunan herhangi bir kişinin satışın yapıldığı herhangi bir odayı terketmemesi için, satışı yönetmek üzere görevlendirilen kişinin veya onun yerine geçen kişinin takdirine göre, odanın kapıları kapatılabilir.
+	
+Satışta Usulsüzlük.	43. Satışta herhangi bir ihmal veya usulsüzlük olduğuna ve bu yüzden herhangi bir kişinin gerçekten zarara uğradığına veya haklarına halel geldiğine Mahkemenin ikna edilmesi halinde, mahkeme satışı iptal edebilir ve adil sayacağı koşullarla yeni bir satışın yapılmasını emredebilir.
+	
+Artırılan En Yüksek Miktarın Yetersiz Olması Halinde Satışın Askıya Alınması Veya Müzekkerenin İptal Edilmesi.	44.	(1)	Artırmada  teklif edilen en yüksek miktarın yetersiz olması halinde, borçlu, artırmanın yapıldığı tarihten başlayarak yedi gün içinde işlemin durdurulması için Mahkemeye istida yapar ve Mahkemeyi tatmin edecek biçimde artırmada teklif edilen en yüksek miktarın yetersiz olduğunu kanıtlarsa, ve istidanın yapıldığı tarihte ve keza Mahkemenin istidayı ele almaya hazır olduğu zamanda istidaya dayanarak borçlu ve borçlunun alacaklısı dışında herhangi bir kişinin haklarını etkilemeyecek veya haleldar etmeyecek bir emrin verilmesi  mümkün ise, Mahkeme vereceği bir emir ile, müzekkereye ilişkin işlemlerin teklif olunan en yüksek miktar  hangi mal için yetersiz bulunmuşsa o malı ilgilendirdiği ölçüde koşulsuz olarak, veya Mahkemece konması uygun görülen koşullarla askıya alınmasını veya müzekkerenin iptal edilmesine direktif verebilir.
+	
+		(2)	Borçlunun veya borçlunun bilgisi dahilinde ve borçlu adına haraket eden herhangi bir kişinin veya taşınmaz malın satışını olumsuz yönde etkilemek, engellemek veya önlemek amacıyle borçlunun ve başkalarının oluşturduğu ortak bir amacın gerçekleştirilmesi doğrultusunda, malın satışını olumsuz yönde etkileyecek veya artırmaların yapılmasını engelleyecek veya önleyecek biçimde eylemde bulunduğu veya bulunulduğu anlaşılırsa, Mahkeme (1)’inci fıkrada belirtilen emri vermez.	
+		(3)	Mahkeme, müzekkereye ilişkin işlemlerin askıya alınmasına veya müzekkerenin iptal edilemesine emir verdiği tarihten başlayarak altı ay geçtikten sonra müzekkerede belirtilen mal henüz satılmamış durursa ve alacaklı da malın tekrar satışa çıkarılmasına emir verilmesi için Mahkemeye istida yaparsa, Mahkeme, borcun ödendiği kanıtlanmadığı takdirde, daha fazla Mahkeme ücreti talep etmeksizin, malın tekrar satışa çıkarılmasına emir verir. Bunun üzerine, mal,  sağlanabilen en yüksek fiyat karşılığında satılır.	
+		(4)	Bu madde ve bu Yasanın 45’inci maddesinden başlayarak 50’inci maddesine kadar olan maddeleri, her iki madde de dahil, bir borcun ödenmesini sağlamak amacıyla yasal bir biçimde ipotek edilen herhangi bir mala uygulanmaz.
+	
+“Yetersiz” Sözcüğünün Anlamı.	45. Bu Yasa amaçları bakımından, malın taşınmaz mal vergi kütüğünde gösterilen değerinin üçte birinden daha az olan bir artırma genellikle yetersiz sayılır. Ancak, alacaklı bu biçimde gösterilen değerin malın gerçek değerinden daha yüksek olduğuna dair Mahkemeye şahadet ibraz edebilir ve mahkeme, alacaklının şahadetini ve borçlu tarafından aleyhte ibraz edilen şahadeti ve tarafların veya taraflardan Mahkemede hazır olanların iddialarını dinledikten sonra malın gerçek değerini kararlaştırır; ve bu durumda artırma, malın Mahkemece kararlaştırılan değerinin üçte birinden daha az ise, bu Yasa amaçları bakımından yetersiz sayılır. 
+	
+Satışın Müzekkeresi-nin Askıya Alınmasına Veya İptaline İlişkin İstidanın Yapılacağı Zaman.
+	46. Taşınmaz mallarından herhangi birinin satılması için çıkarılan müzekkereye ilişkin işlemlerin askıya alınması veya çıkarılan müzekkerenin iptal edilmesi için bir Mahkeme emri verilmesini isteyen herhangi bir borçlu, artırmanın sona erdiği tarihten başlayarak yedi gün içinde o amaç için Mahkemeye istida yapar; yedi gün geçtikten sonra yapılan istidalar durum ne olursa olsun kabul edilmez.	
+Müzekkerenin Askıya Alınmasından Veya İptalinden Sonra Tekrar Satışa Çıkarılması.
+	47. Bu Yasa kuralları uyarınca bir müzekkereye ilişkin işlemler askıya alındığında veya bir müzekkere iptal edildiğinde, bu gibi bir müzekere ile satışı emredilmiş bulunan mal, malda menfaatı olan herhangi bir kişinin daha sonra herhangi bir zamanda yapacağı bir istida üzerine Mahkeme malın satılması için direktif vermeyi uygun görürse, satılabilir.	
+Müzekkerenin Askıya Alınmasının Veya İptalinin Alacaklının Haklarına Halel Getirmemesi.
+	48. Bir müzekkereye ilişkin işlemlerin askıya alınması veya bir müzekkerenin iptal edilmesi, bu gibi bir müzekkerenin çıkarılması için başvuruda bulunan alacaklının talebini herhangi başka bir alacaklının talebinden sonraya  erteletmez. Müzekkerede sözü edilen mal ile ilgili olarak borçluya karşı ve borçlu yerine veya vasıtasıyla veya adına veya aleyhine talepte bulunan tüm diğer kişilere karşı müzekkere çıkarıldığında, alacaklı lehine tahakkuk etmiş olan tüm haklar, alacaklının alacağı olan borcun, faiz ve masraflarla birlikte, ödeneceği tarihe kadar tamamen yürürlükte kalır.
+	
+Malın, Ne Zaman Alacaklının Tasarrufuna Verileceği.	49. Mahkemenin bir müzekkereye ilişkin işlemleri askıya alması veya müzekkereyi iptal etmesi halinde veya yapılan en çok artırma Mahkemece saptanan taban fiyattan daha az olması halinde, alacaklının istemi ve Mahkemenin uygun görmesi üzerine, malın tasarrufu, Mahkemece saptanacak yıllık bir kira bedeli karşılığında üç yılı geçmeyen bir süre için alacaklıya verilebilir.
+       Ancak, alacaklıdan başka bir kişi malı kiralama ve kirasını ödeyeceğine dair teminat verme teklifinde bulunursa, alacaklının bu biçimde teklif edilen kiradan daha düşük bir kira ile malı tasarruf etmeye hakkı olmaz.
+	
+Malın Tasarrufu Alacaklıya Verilmesine Rağmen Mahkemenin Malın Satışına Emir Vermesi	50. Malın tasarrufu bir önceki madde uyarınca bir alacaklıya verilmiş olmasına rağmen, Mahkemenin izni ile mal herhangi bir zaman yeterli bir fiyat verecek olan herhangi bir kişiye satılabilir.
+        Yukarıda öngörülen kurallar saklı kalmak koşuluyla, Mahkeme malın satılması için mutlaka direktif vermez; fakat ilgili tarafların çıkarlarına en fazla nasıl katkıda bulunabileceği hususunda edineceği kanaat doğrultusunda, malın satılmasına veya alacaklının tasarrufunda kalmasına direktif verebilir.
+	
+
+Satışın Sonuçsuz Kalması Halinde Direktifler.
+	51. Saptanan satış gününde mallardan herhangi biri herhangi bir nedenle satılmayacak olursa, Mahkeme, o malın satılması ile ilanlar ve duyurular hususunda uygun göreceği direktifleri verebilir.	
+Satıştan Başlayarak
+On Beş Gün Geçmeden Önce Malın Devir Ve Kaydının Yapılmaması.	52.Artırmanın sona erdiği tarihten başlayarak on beş gün geçmeden önce, icra yolu ile satılan taşınmaz malların Kaza Tapu Dairesinde devri ve kaydı yapılmaz.	
+		
+
+
+
+
+
+İKİNCİ BÖLÜM
+Taşınmaz Malın Mahkeme Hükmü İle Yükümlü Kılınmasına İlişkin Kurallar.
+
+Hükmün Tescili	53. Bir hükümlü alacaklı, aşağıda belirtilen zaman ve ölçüde, hükümlü borçlunun yararlanma hakkı olan ve Kaza Tapu Dairesi kütüklerinde borçlunun adında kayıtlı bulunan taşınmaz bir malı, Mahkeme hükmünü Kaza Tapu Dairesinde tescil etmek suretiyle hükümlü borcun ödenmesinin bir teminatı olarak yükümlü kılabilir.
+	
+Tescilin Yapılma Şekli	54. Tescil, hükümün Mahkemece tasdikli bir sureti ile birlikte, malı tanımlayan ve borçlunun mal üzerindeki menfaatının hüküm uyarınca ödenmesi gereken borca karşı teminat olarak muhafaza edilmesini talep eden ve hükümlü alacaklı veya bu amaç için tayin edilen vekili tarafından imzalanıp tarihi konan bir memorandumun, yükümlü kılınması istenen malın bulunduğu yerin Kaza Tapu Dairesine verilmesiyle yapılır.
+      Memorandumda, hükümlü borçlunun adı, ikamet yeri ve meşguliyeti, malın niteliği ve hangi kent veya köyün toprakları içinde bulunduğu bildirilir ve malın kaydının bulunduğu kütükteki yer belirlenir.
+	
+Tescilin Yürürlük Süresi
+37/2019
+	55.  Bir hükmün tescili, mutad olarak hükmün ilk tescil edildiği tarihten başlayarak 10 (on) yıl süreyle yürürlükte kalır.
+	
+Sürenin Uzatılması.
+37/2019	56.	(1)	Tescilin yürürlük süresi, Mahkeme emri ile, her defasında iki yılı geçmemek kaydıyla ek süre veya süreler için uzatılabilir.	
+		(2)	Tescilin yürürlük süresinin uzatılması için emir;	
+			(A)	Tescilin yürürlük süresinin uzatılmasına ilişkin istida mevcut tescil süresinin sona ermesinden önce yapılmadığı;	
+			(B)	İstidanın ihbarının ve dinlenmesi için saptanan tarihin malın bulunduğu yerin Kaza Tapu Dairesine verilmediği ve	
+			(C)	Mahkeme, hükmün muvazaa yolu ile veya diğer alacaklıları haklarından yoksun etmek amacıyla temin edilmiş bir hüküm olmadığına ve aynı zamanda tescil süresinin uzatılmasının hükümlü borçluyu veya herhangi başka bir hükümlü alacaklıyı olumsuz yönde etkilemeyeceğine dair ikna edilmediği	
+			takdirde verilmez.	
+		(3)	Uzatma emrinin ısdar edildiğinin Kaza Tapu Dairesine ihbarı, hükümlü alacaklı veya onun namına başkası tarafından, masraflar hükümlü alacaklıya ait olmak kaydıyla, böyle bir emrin verildiğini bildiren yazılı bir ihbarın veya ilgili emrin Mahkemece tasdikli bir suretinin, uzatma emri verilmemiş olsa idi mevcut tescilin yürürlükten kalkmış olacağı günden geç olmamak üzere, hükmün tescil edildiği daireye bırakılması suretiyle yapılır. Sadece uzatma emrinin ısdar edildiğini bildiren bir ihbarın bırakıldığı hallerde, ayrıca, yukarıda son belirtilen günden başlayarak 14 (on dört) iş günü içinde uzatma emrinin Mahkemece tasdikli bir sureti Kaza Tapu Dairesine verilir. Mahkemece tasdikli sözkonusu suret veya ihbarname ile Mahkemece tasdikli suret, yukarıda belirtildiği biçimde ilgili daireye bırakılmayacak olursa, alacaklı emrin bahşettiği menfaatten yararlanma hakkını kaybeder.	
+		(4)
+
+	Yürürlük süresinin bu madde uyarınca uzatılmamış olması sebebiyle tescili sona ermiş bulunan bir hüküm; hükümlü alacaklı tarafından bu Yasanın 54’üncü maddesi kurallarına bağlı olarak tekrar tescil edilebilir. Böyle bir tescil, yeniden yapılmış olduğu tarih esas alınarak sonuç doğurur ve geriye dönük etkili olmaz.
+	
+Tescilin Etkileri.	57.  Tescilin yürürlükte kaldığı süre içinde, borçlunun ilgili mal üzerindeki menfaatı hükümlü borcun ödenmesi için yükümlü olur; ve bu yükümlülük memorandumun tevdi edilmesinden önce mala özel olarak yükletilmemiş olan borçluya ait tüm diğer borç ve yükümlülüklerden önce gelir. Hükmün tescilinden sonra yapılan herhangi bir devir veya ipoteğe bakılmaksızın, tescilin yürürlükte kaldığı süre içinde herhangi bir zaman, hükmün icra edilmesi için malın tümünün veya hükmün tatmini için gerekli olan kısmının tatmini satılmasına Mahkemece emir verilir. Hükmün tescilinden sonra malın devredildiği veya ipotek edildiği kişinin çaresi, malı kendine devreden veya ipoteğe veren kişiden sadece zarar ziyan talebinden ibarettir.
+	
+Daha Önce Yapılan Satış Veya İpotek Takriri Bulunan Haller.
+	58. Bir satış veya ipotek takririnin yapılmış olduğu hallerde, takririn yapıldığı tarihten sonra tevdi edilen herhangi bir memorandum, takrir tarihinden başlayarak yirmi gün içinde takrir ile etkilenen herhangi bir mal hususunda etkili olmaz.	
+Hükümün Yerine Getirildiğinin İhbarı	59. Tescil edilmiş bulunan bir hüküm, tescilin yürürlükte olduğu sırada tatmin edilirse, alacaklı hükmün yerine getirildiğini hükmün tescil edildiği daireye yazılı olarak ihbar etmekle yükümlüdür. Bir hükmün yerine getirildikten sonra tescil edilmiş olarak bırakılmış olması nedeniyle alacaklının borçlusu veya borçlunun herhangi bir alacaklısı zarara uğrarsa, alacaklı hükmün yerine getirildiğini Kaza Tapu Dairesine ihbar ettikten sonra hükmün tescil edilmiş olarak bırakılmış olması sonucu zarara sebebiyet verildiğini kanıtlamadıkça alacaklı onların veya onlardan herhangi birinin uğradığı zarar ziyanı tazmin etmekle sorumlu olur.
+	
+Kaza Tapu Dairesinde Yapılacak Kayıtlar	60. Kaza  Tapu Dairesinin ilgili memuru, bu amaç için tutulan bir deftere Kaza Tapu Dairesinde tescil edilen her hüküm ile ilgili olarak hükmün tescil edildiği tarihi, taşınmaz mallarına veya taşınmaz mallarının herhangi bir kısmına karşı herhangi bir hüküm tescil edilen kişilerin adlarını, ikamet ettikleri yerleri ve mutad işlerini ve herhangi bir tescilin süresini uzatan emrin tarihini ve tescilin uzatılmış olduğu süreyi gösteren bir kayıt yapar. Defterde, malların bulunduğu köyün adı da gösterilir.
+   Defter, Kaza Tapu Dairesine bu Yasa uyarınca tevdi edilen Mahkemece tasdikli hüküm  suretleri ile ve memorandumlar ile birlikte incelemeye açık bulundurulur.
+	
+Hükmünü Tescil Ettiren Alacaklının İcraya Gitmemesi Halinde Sırasının Daha Sonraya Bırakılabilmesi.
+	61. Aynı borçlu aleyhine, fakat ayrı alacaklılar lehine verilmiş iki   veya daha fazla hüküm bulunur ve iki veya ikiden fazla alacaklı, aynı Kaza Tapu Dairesine, hükümleri ile ilgili olarak ihbarda bulunursa, Mahkeme, ihbarnamesinin tarihi diğer alacaklılarınkinden daha önce olan alacaklının,mahkemece saptanan süre içinde hükmün yerine getirilmesi için icraya başvurmaması halinde, bu gibi alacaklının sırasının, hükümlerini icra etmek isteyen ve ihbarnameleri daha sonraki bir tarihi taşıyan diğer alacaklıların sırasından daha sonraya bırakılmasını yönerebilir.
+	
+İlk Tescil Edilen Hüküm Uyarınca Yapılan Taşınmaz Mal  Satışından Kalan Bakiyenin
+Uygulanması.
+	 62. İki veya ikiden fazla alacaklı, lehlerine verilen hükümleri tescil etmek suretiyle, aynı taşınmaz malı, alacaklarının ödenmesi için yükümlü kılar ve onlardan biri, alacağına karşılık taşınmaz malı satarsa ve bu gibi satıştan, alacağı ile icra masrafları karşılandıktan sonra, bir miktar para artarsa, artan para, öncelikle alacaklılar arasından lehine verilen hükmü tescil ettiren alacaklıya olan borcun ödenmesi için kullanılır. Lehine verilen hükmü tescil ettiren birden fazla alacaklının bulunması halinde, artan para, bu gibi alacaklıların lehlerine verilen hükümleri tescil ettirdikleri tarih sırasına göre alacaklarının ödenmesi için kullanılır.
+	
+                                                    						
+ÜÇÜNCÜ BÖLÜM
+İcra Amacıyla Borçlu Adına Kayıt Yapılmasına İlişkin Kurallar
+
+Hükümlü Alacaklının Taşınmaz Malın Borçlu Adına Kaydedilmesi İçin Başvuruda
+Bulunması.
+	63. Bir Hükümlü Alacaklının, hükümlü alacağını, borçlunun adında kayıtlı olmayan taşınmaz maldaki borçluya ait menfaati satmak suretiyle hükmü icra etmek istemesi veya borçlu, adında kayıtlı olmayan herhangi bir taşınmaz malı hükümlü borca karşı teminat teşkil etmesini sağlamak istemesi halinde, malın borçlu adına kaydedilmesi için Kaza Tapu Dairesine başvurabilir. Böyle bir başvuru üzerine, borçlunun hayatta olup olmadığına bakılmaksızın, mal, aşağıda öngörüldüğü biçimde, borçlunun adına kaydedilebilir.
+	
+Başvurunun Dosyalanması ve İncelemeye Açık Bulun-
+durulması.
+	64. Başvuru, Kaza Tapu Dairesine dosyalanır ve ilgili memur, bu amaç için tutulan bir deftere ve aynı zamanda, 60’ıncı madde uyarınca tutulması öngörülen deftere, başvurunun dosyalandığı konusunda bir not düşer. Başvuru ile birlikte defterler, mesai saatları içinde, herhangi bir kişi tarafından incelenebilir.	
+Başvurunun Etkisi.	65. Böyle bir başvuru yapıldığında, hükümlü borcun ödenmesi için, aşağıda beliretilen süre içinde, borçlunun  ilgili maldaki menfaatına yükümlülük konur ve bu yükümlülük, başvurunun yapılmasından önce, özel olarak mala yükletilmemiş olan borçluya ait tüm diğer borç ve yükümlülüklerden önce gelir. Kaza Tapu Dairesi Amirinin, malı, borçlu adına kaydettiği veya kaydetmeyi reddettiği konusunda, bu Yasanın  67’nci maddesi uyarınca gönderilmesi gereken ihbarnamenin, hükümlü alacaklı tarafından alındığı tarihten başlayarak, altı aylık süre içinde, mal, yukarıda belirtildiği biçimde yükümlü olarak kalır.
+
+	
+Kaza Tapu Dairesi Amirinin Taşınmaz Malı, Amaca Uygun Olarak Kaydetmesi.	66. Yukarıda belirtilen başvurunun yapılması üzerine ve:
+ (a)	malın yerel bir keşfinin yapılması;
+ (b)	malın bu biçimde hükümlü borçlu adına kaydedilmesi için 
+hükümlü borçlunun hakkı olduğu konusunda yeterli şahadet
+ibraz edilmesi; ve
+(c)	Başvuru, hükümlü borçlu tarafından yapılmış olsa idi, hükümlü borçlunun ödemiş olacağı tüm ücret ve harçların (yerel keşif için gereken masrafların peşinen ödenmesi dahil) hükümlü alacaklı tarafından ödenmesi,koşullarına bağlı olarak, malın bulunduğu Kaza Tapu Dairesi Amiri, malı, hükümlü borçlu adına kaydettirebilir.
+		Ancak, mal, başka bir kişinin adında kayıtlı ise, o zaman malın hükümlü borçlu adına kaydedilmesi için yukarıdaki koşullara ek olarak,
+   Ya:
+(a)   mal adlarında kayıtlı bulunan kişinin veya kişilerin veya
+	onlar hayatta değilse, mirasçılarının, yöntemine uygun olarak tasdik edilmiş rızaları ibraz edilir; ya da,
+(b)	(i)	Kaza Tapu Amirinin, başvuruyu yapan kişinin, ilgili maldaki mülkiyet hakkını zaman aşımı ile kazanmış olduğu konusunda tatmin olması ve mal adlarında kayıtlı bulunan kişilerden veya hayatta değillerse onların mirasçılarından yazılı rıza beyanında bulunmalarını istemenin
+olanaksız olduğu veya ilgili malın değeri ile makul olmayan bir ölçüde orantısız olduğu konusunda tatmin  olması; ve
+
+(ii)	ilgili mal hangi köyün sınırları içinde ise, o
+köyde kamu bildirilerinin  mutad olarak asıldığı yere, Kaza Tapu Amiri veya onun adına hareket eden başka bir Tapu Memuru tarafından, ilgili malın tanımını, yüzölçümünü, sınırlarını, mevkiini, Kaza Tapu Dairesindeki deftere göre malın kayıt beyannamesini, malın kimin adına kaydedilmesi tasarlanıyorsa, o kişinin adını ve tasarlanan kaydın dayandığı gerekçeleri içeren bir bildiri asılmalı ve bu bildiride,  ayrıca, ilgili mal üzerinde menfaatı olan herhangi bir kişiye, bildirinin asıldığı tarihten başlayarak altmış gün içinde malın tasarlanan biçimde kaydının yapılmaması için neden göstermesi hususunda çağrıda bulunulması; ve
+(iii)  Yukarıda belirtilen altmış günlük süre içinde herhangi bir itiraz yapılmış olmaması; ve
+(iv)Tasarlanan kayıt için Tapu ve Kadastro Dairesi Müdürünün izninin alınmış olması,
+yönünde gerekli işlemler gerçekleştirilmelidir.
+	
+Başvurunun  Kabul Edildiği veya Redde-dildiği konusun-da İhbarname Verilmesi.
+	67. Kaza Tapu Amiri, malı, hükümlü borçlu adına kaydettiğini veya kaydetmeyi reddettiğini, bir ihbarname ile hükümlü alacaklıya derhal bildirir.	
+Başvurunun Redddedilmesi Halinde Mahkemeye İstida ile Başvuruda Bulunma.	68. Kaza Tapu Amiri, malı, hükümlü borçlu adına kaydetmeyi reddederse, hükümlü alacaklı, malın bulunduğu yerin Kaza Mahkemesine veya sözkonusu mahkemenin bir yargıcına, başvuruda bulunarak, malın hükümlü borçlu adına kaydedilmesine emir verilmesini isteyebilir. Bu gibi her meselede hükümlü alacaklı, başvurunun dinlenmesi için tayin edilen günü, makul bir süre önceden, Kaza Tapu Amirine bildirir.
+      İstidanın dinlenmesinde, Kaza Tapu Amiri, Mahkemede hazır bulunup Mahkemece bilinmesi gerektiğine inandığı esasa ilişkin veya uygun gördüğü şahadeti ibraz edebilir.
+	
+İstida Üzerine Emir.	69.    (1)  Mahkeme, istidayı dinledikten sonra, ilgili malın    
+hükümlü borçlu adına kaydedilmesi gerektiği görüşünde ise, malın hükümlü borçlu adına kaydedilmesine emir verir.                                   
+        (2)	Kaza Tapu Amirince, malın yerel bir keşfinin yapılmasına gerek olmadığı beyan edilmedikçe, yerel bir keşif yapılıncaya kadar, herhangi bir malın, bu Yasanın bu Kısmındaki kurallar uyarınca kaydedilmesi için emir verilmez.
+	
+Kayıt Masraflarının İcraya İlişkin
+Masraf
+Sayılması.
+	70. Malın hükümlü borçlu adına kaydedilmesi için, alacaklı tarafından ödenen tüm ücret ve harçlar (yerel keşif masrafları dahil) icraya ilişkin masraf sayılır.	
+Kaydın İptali İçin İstida.
+
+	71. İlgili herhangi bir kişi, bu Yasanın bu Kısmındaki kurallar uyarınca yapılan herhangi bir kaydın iptali için,  Mahkemeye istida ile başvurabilir.
+	
+
+						VI. KISIM
+				TAŞINMAZ MALIN İHTİYATİ HACİZ
+ (Geçici Olarak El Koymak )
+SURETİYLE İCRASINA İLİŞKİN KURALLAR
+
+Borçlunun Başvurusu Üzerine Mala
+İhtiyati Haciz (Geçici El Koyma) Müzekkeresi	  72. Taşınmaz mal satışı için bir müzekkere ısdar edildiğinde, borçlunun Mahkemeye istida ile başvuruda bulunması ve taşınmaz malı olduğunu ve bu malına,  üç yıllık süre içinde ihtiyati haciz koymak (geçici olarak el koymak) suretiyle para miktarının ve hüküm uyarınca ödenmesi gereken veya gerekecek olan tüm faiz ve masrafların ödenebileceğini, Mahkemeyi tatmin edecek	biçimde  kanıtlaması üzerine, Mahkeme, mala ihtiyati haciz koyulmasına (geçici olarak el koyulmasına) ve mala bu şekilde ihtiyati haciz koyulması (geçici olarak el koyulması) üzerine, satış yolu ile icrasını durdurabilir.
+	
+
+VII. KISIM
+MALLARIN HACZEDİLMEK SURETİYLE  İCRASINA İLİŞKİN KURALLAR
+
+Üçüncü Kişilerin Tasarrufunda Bulunan Taşınır Mal Ve Alacaklar İçin Haciz Müzekeresi	73. Hükümlü borçlunun, Kuzey Kıbrıs Türk Cumhuriyetinde yaşayan herhangi bir üçüncü kişinin muhafazasında veya kontrolunda bulunan herhangi bir para miktarı, para için verilen teminat, eşya veya diğer taşınır mallar üzerinde yararlanma hakkı bulunması veya hükümlü borçlunun böyle bir kişiden alacağı olması halinde, hükümlü alacaklının, hüküm verildikten sonra herhangi bir zamanda yapacağı istida üzerine, böyle bir kişiye Mahkemede hazır bulunması ve elinde bulundurduğu ve müzekkerede belirtilen mal hakkında sorguya çekilmesi için çağrıda bulunan ve bu arada, sözkonusu malı elinden çıkarmamasını yöneren bir haciz müzekkeresi çıkarabilir. Söz konusu Haciz Müzekkeresi, hükümlü borçlunun, yukarıda belirtilen kişinin elinde bulunan  malını, hükümlü borcun aşağıdaki maddelerde belirtildiği biçimde ödenmesi için yükümlü kılar.
+	
+Müzekkerenin Tebliği Ve Etkisi.	74. Müzekkere, Mahkemede hazır bulunması müzekkerede yönerilen kişiye tebliğ edilir ve Müzekkere kendisine tebliğ edildiğinde veya müzekkerenin iptal edilmesinden önce herhangi bir zamanda, müzekkerenin tebliğ edildiği kişinin muhafaza ve kontrolunda bulunan veya bulunacak olan ve hükümlü borçlunun, üzerlerinde gerek tek başına, gerekse başkaları ile birlikte yararlanma hakkı olan tüm paralar, para için verilen teminatlar, eşya ve taşınır mallar ve böyle bir kişinin hükümlü borçlunun, muaccel olmuş veya olacak borçları, müzekkerenin tebliğinden başlayarak, onlar üzerinde iyi niyetle önceden elde edilmiş bulunan herhangi bir mülkiyet hakkına veya hapis hakkına veya onlar üzerinde mevcut yükümlülüğe tabi olmak koşuluyla ve hükümlü borçlunun onlar üzerinde hak sahibi olduğu menfaat ölçüsünde, böyle bir kişinin elinde, hükümlü alcaklının talebinin karşılanması için bir güvence oluşturur.
+	
+Müzekkereye Riayetsizlik	75. Kendisine böyle bir haciz müzekkeresi tebliğ edilen kişi, müzekkerenin Tebliğinden sonra ve haczin kaldırılmasından önce herhangi bir zamanda, hükümlü alacaklıdan başka birine veya onun yararı dışındaki bir amaç için, Mahkemenin izni veya  emri olmaksızın ve bilerek ve kasten, elindeki haczedilmiş herhangi bir malın muhafaza ve kontrolunu terkeder veya malı Kuzey Kıbrıs Türk Cumhuriyeti dışına çıkarır veya onu satar veya elinden çıkarır veya hükümlü borçluya olan borcunu öderse, riayetsizlik etmiş sayılır ve bir Mahkeme emrine riayetsizlik etmiş gibi aynı kovuşturmaya tabi tutulur.
+	
+Banka Hesaplarındaki Paraların Haczi
+37/2019	75A	(1)	Hakkında parasal bir hükümden dolayı haciz müzekkeresi dosyalanmış bulunan bir kişinin Kuzey Kıbrıs Türk Cumhuriyetinde bulunan herhangi bir bankada veya kooperatifte tek başına veya müştereken sahibi olduğu hesaplarda bulunan herhangi bir meblağ, iyi niyetle önceden elde edilmiş bulunan mülkiyet hakkına veya hapis hakkına veya üzerinde mevcut herhangi bir yükümlülüğe tabi olarak, bu Yasa kuralları uyarınca haczedilebilir.	
+		(2)	Mahkeme veya Mahkeme tarafından yetkilendirilmiş mukayyit veya icra memurunca bir yazı ile aleyhinde haciz müzekkeresi bulunduğu bildirilen bir hükümlü borçlu ile ilgili olarak, banka veya kooperatif, adı geçen borçlunun nezdinde herhangi bir hesabı olup olmadığını, mezkur hesaplardaki mevcut para miktarlarını ve mezkur paranın herhangi bir yükümlülüğe tabi olup olmadığını derhal yazılı olarak bildirir.	
+		(3)	Yukarıdaki fıkra uyarınca banka veya kooperatife yazılacak olan yazı, hükümlü borçlu adındaki herhangi bir meblağın hükümlü borç ve masrafların toplamını aşmayacak kısmının haczedilmiş olduğunu ve bu gibi meblağların hükümlü borçluya veya herhangi bir üçüncü kişiye ödenmemesi, herhangi bir şekilde yükümlülük altına konulmaması, teminat gösterilmemesi ve hükümlü borçlunun adından çıkarılmaması gerektiğine ilişkin bir kayıt içerir. İlgili banka veya kooperatif, bu yazıda belirtildiği şekilde hareket etmekle yükümlüdür.	
+		(4)	Hükümlü borçlunun haczedilen banka hesabının, aylık veya belirlenmiş başka bir periyotta ödenen maaşının aktarıldığı bir hesap olması halinde; hükümlü borçlunun bir aylık maaş tutarı kadar meblağ, bu madde tahtında hacizden muaf tutulur. Bu muafiyet, bu Yasanın 91A maddesi hükümlerinin uygulanmasını engellemez.
+	
+		(5)	Kendisine bu madde gereğince yazılmış bir yazı tebliğ edilen banka veya kooperatif ve/veya bunların herhangi bir yetkilisi veya çalışanı, bu maddenin herhangi bir hükmüne aykırı harekette bulunması halinde, bu Yasanın 75’inci maddesi kurallarına bağlı olarak bir Mahkeme emrine riayetsizlik etmiş gibi aynı kovuşturmaya tabi tutulur.	
+		(6)	Haczedilen banka hesabı ile ilgili üçüncü bir kişi tarafından herhangi bir hak iddia edilmesi halinde, bu Yasanın 21’inci madde kuralları uygulanır.	
+		(7)	Bu madde kuralları tahtında haczedilen meblağlar, Mahkemenin veya Mahkeme tarafından yetkilendirilmiş mukayyit veya icra memurunun bildirimi uyarınca, muhatap banka veya kooperatif tarafından Yüksek Mahkemeye veya Mahkemeye ait banka hesabına veya Maliye İşleri ile Görevli Bakanlığa aktarılır.	
+		(8)	Yüksek Mahkeme, bu madde uyarınca kullanılacak formları saptamak, yazışma ve tebligat usul ve yöntemlerini belirlemek, Mahkemenin bu maddede öngörülen konulara ilişkin yargılama usul ve yöntemini düzenlemek amacıyla Resmi Gazete’de yayımlanarak yürürlüğe girecek olan Mahkeme Tüzükleri yapabilir.
+	
+Malın Güvence Altına Alınması.	76. Mahkeme, müzekkerenin tebliğinden sonra herhangi bir  zamanda, müzekkerede belirtilen herhangi bir malın güvenli bir biçimde muhafazası için herhangi bir emir isdar edebilir.
+	
+Mahkemenin Veya Kamu Görevlisinin Kontrolunda Bulunan Mallar.
+
+	77. Bir kamu görevlisinin, resmi görevleri gereği elinde veya kontrolunda bulundurduğu mallar, Başsavcının rızası ile, bir hükmün icrası için haczedilebilir; herhangi bir Mahkemenin kontrolunda bulunan mallar ise, Mahkemenin emri ile haczedilebilir.	
+Haczedilen Malın Elden Çıkarılması.	78. Mahkeme, ilgili olduklarına inandığı tüm kişileri dinledikten sonra veya onlara, Mahkemede hazır bulunmaları için ihbarda bulunduktan sonra,para veya banknottan oluşan rehnedilen malın herhangi bir bölümünün veya yeterli bir bölümünün, hükümlü alacaklıya ödenmesine veya para veya banknottan oluşmayan herhangi bir bölümünün, hükmün yerine getirilmesine yetecek kadarının satılmasına ve satıştan elde edilen paranın veya  yeterli bir bölümünün, hükmün yerine getirilmesi için kullanılmasına ve haciz müzekkeresinin uygulamadan kaldırılmasına emir verebilir veya Mahkeme, adil sayacağı başka herhangi bir emri verebilir. Mahkeme, ayrıca, müzekkerenin isdarı için yapılan masraflar konusunda uygun göreceği emri verebilir.
+	
+Üçüncü Taraf Aleyhine İcra	79. Böyle bir haciz müzekkeresinin tebliğ edildiği herhangi bir kişi, müzekkere uyarınca Mahkeme tarafından verilen herhangi bir emri yerine getirmekte kusur ederse, Mahkeme, böyle bir kişi aleyhine, elinde bulundurduğu haczedilmiş mal miktarı için veya bu gibi maldan, hükmün yerine getirilmesine ve ilgili işlemlerin gerektirdiği tüm masrafların karşılanmasına yetecek kadarı için, icrasına emir verebilir ve emir gereğince icra yapılabilir.	
+
+Üçüncü Tarafın Tazmini	80. Emrin, tebliğ edilen kişi tarafından yerine getirilmesi, o kişiyi, emir gereğince ödediği borç veya elden çıkardığı mallar bakımından, bu gibi borç veya mallar üzerinde hak talebinde bulunan kişilere karşı, haciz müzekkeresinin iptal edilmiş veya hükmün bozulmuş olmasına bakılmaksızın, yükümlülüğünü geçerli bir biçimde yerine getirmiş kılar.
+	
+Üçüncü Taraf Aleyhine Başlatılan İşlemlerin Durdurulması	81. Mahkeme, haczedilmiş mallarla ilgili olarak kendisine müzekkere tebliğ edilen kişi aleyhine başlatılmış bulunan herhangi bir davaya ilişkin işlemleri, uygun göreceği koşullarla durdurabilir.
+	
+
+
+					VII. KISIM
+			HAPİS YOLU İLE İCRAYA İLİŞKİN KURALLAR
+
+
+
+Borçlunun Hapsedile-bileceği
+Haller
+
+12/2014	82. (1) Bir hükümlü borçlunun, bir hüküm veya bu Yasa’nın 91’inci maddesi uyarınca verilen taksit emirleri dahil herhangi bir emir uyarınca ödenmesi gereken para miktarını ödememesi ve alacaklının, lehine verilmiş olan hükmün veya emrin gereklerini, borçlunun malının satılması veya üçüncü tarafın elinde bulunan malın terhin edilmesi suretiyle yerine getirilmesini sağlayamadığı durumlarda, alacaklının yapacağı borçlunun hapsedilmesi talebini içeren istida üzerine Mahkeme, öncelikle, borçluyu resen sorgulamak suretiyle, onun aylık gelirini, kendisini ve ailesini insan onuruna yaraşır koşullarda geçindirmek için gereksinim duyduğu asgari para miktarını ve hüküm veya emir alındıktan sonra elindeki herhangi bir malla ilgili olarak aşağıdaki (2)’nci fıkranın (B) bendinde sözü edilen işlem ve eylemlerden herhangi birini yapıp yapmadığını tespit eder.
+	Borçlunun Mahkemeye gelmemesi ve Mahkeme tarafından haklı bulunan bir mazaret bildirmemesi halinde, hüküm veya emir verilmeden önce Mahkemece yapılan, borçlunun aylık gelirine ve kendisini ve ailesini insan onuruna yaraşır koşullarda geçindirmek için gereksinim duyduğu asgari para miktarına ilişkin tespitler aynen geçerli sayılır.
+
+      (2) Bu tespit dikkate alınarak devam edilen sorgulamada,
+
+            (A)  Borçlunun, hüküm veya emir verildiğinde veya daha sonra, ödemesi yönerilen parayı veya onun henüz ödenmemiş bulunan bir bölümünü ödeyebilecek olanaklara sahip olduğu ve buna karşın hüküm veya emir uyarınca borcunu ödemeyi ret veya ihmal ettiği; veya
+             (B) Herhangi bir malı başkasına bağışladığı, teslim ettiği veya devrettiği veya herhangi bir malın bağışlanmasına, teslimine veya devredilmesine karşı çıkmadığı veya herhangi bir mala yükümlülük yüklediği veya malı naklettiği veya  gizlediği ve böylelikle alacaklının hükümlü veya emre bağlanmış alacağının veya onun bir bölümünün elde edilmesini engellediği
+          kanaatine varırsa, Mahkeme, borçluyu, aşağıdaki maddelerde belirtilen kurallara bağlı kalınması koşuluyla, ödenmesi gereken miktar ödeninceye kadar ve her halükarda on iki ayı geçmemek üzere hapse gönderebilir.
+	Mahkeme, borçlunun hapsedilmesi durumunda, müteakip herhangi bir zamanda alacaklının istida ile başvurması üzerine, borçlunun hapisten çıkarılmasını emredebilir.	
+		
+Borçlunun Yeme İçme Masrafları	83. Alacaklı, borçlunun Cezaevinde kalacağı süre için Cezaevi Tüzüğünde ödenmesi öngörülen veya öngörülecek olan yeme içme masraflarını, peşin olarak ve Cezaevi Tüzüğünde belirtilen  kişiye, belirtildiği biçimde ödemekle yükümlüdür. Alacaklı  bu yükümlülüğünü yerine getirmede kusur ederse, borçlu serbest bırakılır.
+	
+Borçlunun Yeme İçme Masraflarının Borca Eklenmesi.	84. Borçlunun Cezaevindeki yeme içme masrafları için bir alacaklı
+tarafından yapılan harcamaları, hüküm masraflarına eklenir ve borçlunun malına uygulanacak icra yolu ile elde edilir; ancak alacaklı tarafından yapılan bu tür harcamalar nedeniyle, borçlu gözaltına alınamaz veya tutuklanamaz.
+	
+Hapsin Etkisi.	85. Cezaevinden serbest bırakılan bir borçlu, aynı hüküm veya emir
+nedeniyle tekrar hapse gönderilemez; ancak ilgili hüküm veya emir tamamen yerine getirilinceye kadar malı icraya bağlı olmaya devam eder.
+	
+
+
+	IX. KISIM
+HÜKÜMLÜ BORÇLUNUN SORGULANMASINA İLİŞKİN KURALLAR	
+Borçlunun Sorgulanması İçin İstida.	86. Para ödenmesine ilişkin bir hüküm, bir icra müzekkeresi çıkarılmış olsun veya olmasın, tamamen veya kısmen yerine getirilmemiş olarak duruyorsa, hükümlü alacaklı, borçlunun borcunu ödeme gücüne sahip olup olmadığı hakkında sorgulanması için istida yapabilir.
+	
+Sorgulama Amacıyla Mahkemede Hazır Bulun-maya Zorlama	87. Mahkeme, bir hükümlü borçlunun, sorgulanmak üzere Mahkemede hazır bulunmasını zorlamak hususunda, hukuk davalarında tanıkların Mahkemede hazır bulunmalarını zorlama hususunda sahip olduğu aynı yetkiye sahiptir.
+	
+Sorgulama
+12/2014	88. (1) Borçlu mahkemede ispat-ı vücud ettiğinde, borçlu olduğu parayı ödeme gücü, ödemede kullanılabilen malların ortaya çıkarılması ve elinden çıkarmış olduğu herhangi bir mal hakkında, alacaklı tarafından veya alacaklı adına avukatı tarafından ve resen mahkeme tarafından, yemin altında sorguya çekilebilir.
+       (2) Borçlu, ayrıca, tasarrufunda veya yetkisi altında bulunan ve borcun ödenmesinde kullanılabilen mallara ilişkin tüm defterleri, evrak ve belgeleri, yemin altında veya başka biçimde ibraz etmekle yükümlüdür.
+       (3) Mahkeme, ibraz edilen defter, evrak ve belgeleri ve alacaklı veya alacaklı adına avukatı tarafından yapılan sorgulamada edinilen bilgileri de dikkate  alarak, resen yapacağı sorgulama sonucunda, borçlunun, ödemede kullanılabilecek icra edilmeye uygun bir malı bulunup bulunmadığını, hüküm veya emir alındıktan sonra elinden mal çıkarıp çıkarmadığını, aylık gelirinin ne kadar olduğunu ve ailesiyle birlikte yaşamını insan onuruna yaraşır asgari koşullarda sürdürmek için ne kadar paraya ihtiyaç duyduğunu tespit eder. 
+	
+Diğer Şahadet.	89. Borçlunun Mahkemede isbatı vücut edip etmemesine bakılmaksızın, 
+alacaklı ve Mahkemenin gerekli gördüğü tüm diğer tanıklar,  yukarıda belirtilen meseleler hakkında, yemin altında veya başka biçimde sorgulanabilir.
+	
+Erteleme	90. Mahkeme, uygun gördüğü hallerde, sorgulamayı zaman zaman erteleyebilir ve borçludan, sorgulamanın ertelendiği gün Mahkemede hazır bulunacağı konusunda, Mahkemece uygun görülen bir teminat vermesini isteyebilir ve istenilen teminatı verememesi halinde borçlunun gözaltına alınmasını emredebilir.
+	
+Taksitle Ödeme
+12/2014	91.  (1) Mahkeme, uygun gördüğü hallerde, bu gibi sorgulamanın yapılması üzerine veya  sorgulamanın yapılmasından sonra herhangi bir zamanda,  hüküm uyarınca ödenmesi gereken paranın, mahkemece uygun görülen miktar ve zamanlarda, taksitlerle ödenmesini yönerebilir.
+       (2) Mahkeme, taksit miktarını ve taksit ödeme zamanlarını belirlemeden önce, borçlunun aylık gelirini ve ailesi ile birlikte yaşamını insan onuruna yaraşır asgari koşullarda sürdürmek  için ihtiyaç duyduğu para miktarını tespit eder. Taksit miktarı ve taksit ödeme zamanları bu tespitler dikkate alınarak ve borçlunun ailesi ile birlikte insan onuruna yaraşır asgari koşullarda yaşamını sürdürebileceği bir gelire sahip olması gözetilerek, mahkeme tarafından belirlenir.
+	
+Maaş veya Ödeneklerin Yükümlü Kılınması
+37/2019	91.A	(1)	Hükümlü borçlunun herhangi bir şekilde kamudan veya özel bir tüzel kişi veya gerçek kişiden aylık olarak veya belirlenmiş başka periyotlarda almakta olduğu maaş ve diğer ödenekler, hükümlü alacaklının Mahkemeye yapacağı bir istida üzerine ve bu madde kurallarına bağlı olarak hükümlü borcun tahsil edilmesi amacıyla yükümlü kılınabilir.	
+		(2)	Bu madde uyarınca dosyalanan bir istidayı gören Mahkeme, borçlunun maaş ve ödeneklerini tespit etmek için uygun gördüğü kişileri tanık olarak dinleyebilir. Ayrıca, bu madde uyarınca aleyhine bir istida dosyalanması tasarlanan kişi hakkında, hükümlü alacaklı veya avukatı tarafından yazılmış bir yazı üzerine, hükümlü borçluya maaş veya herhangi bir ödenek ödemekle yükümlü olan gerçek veya tüzel kişiler, hükümlü borçlunun almakta olduğu maaş ve ödenek miktarını yazılı olarak bildirmekle yükümlü olurlar.	
+		(3)	Bu madde uyarınca dosyalanmış bir istidayı gören Mahkeme, borçlunun aylık olarak veya belirlenmiş başka periyotlarda almakta olduğu maaş veya ödeneği, kendisinin veya ailesinin diğer gelirlerini ve borçlunun bakmakla mükellef olduğu ailesi ile birlikte yaşamını insan onuruna yaraşır asgari koşullarda sürdürmek için ihtiyaç duyduğu para miktarını dikkate alarak, maaş ve ödeneğin uygun gördüğü kısmının, maaş ve ödeneği ödemekle yükümlü olan gerçek veya tüzel kişi tarafından doğrudan alacaklıya ödenmesine emir verebilir.	
+		(4)	Böyle bir emir, Mahkemece başka türlü emir verilmedikçe, hükümlü borç ve masrafların tamamen tatmin edilmesine veya hükümlü borçlunun herhangi bir sebeple işten ayrılmasına veya maaş ve ödeneği alma hakkının ortadan kalkmasına değin yürürlükte kalır. Hükümlü borçlunun işten ayrılması veya maaş ve ödeneği alma hakkının ortadan kalkması halinde, ödemeyi yapmakla mükellef olan gerçek veya tüzel kişiler bu durumu Mahkeme Mukayyitliğine ve hükümlü alacaklı veya avukatına bildirmekle mükelleftirler.	
+		(5)	Mahkemenin bu madde altında vermiş olduğu emir, hükümlü borçlunun maaş veya ödeneğini ödemekle mükellef olan gerçek veya tüzel kişiye tebliğ edilir. Böyle bir emri tebliğ alan kişiler, Mahkeme kararında belirtilen meblağları, hükümlü alacaklı veya avukatının hesabına yatırmakla mükellef olur.	
+		(6)	İşbu madde kuralları, nafaka ve sosyal yardım maaşları haricindeki her tür maaş ve ödenek için uygulanır.	
+		(7)	Mahkeme, bu madde gereğince vermiş olduğu emirleri zaman zaman, koşullarda meydana gelen esaslı değişiklik sebebiyle gözden geçirebilir, değiştirebilir veya kaldırabilir.	
+		(8)	Bu maddenin düzenlediği herhangi bir yükümlülüğe aykırı davranan gerçek veya tüzel kişiler ve/veya yetkilileri, bu Yasanın 75’inci maddesi kurallarına bağlı olarak bir Mahkeme emrine riayetsizlik etmiş gibi aynı kovuşturmaya tabi tutulurlar.	
+		(9)	Yüksek Mahkeme, bu madde uyarınca kullanılacak formları saptamak, yazışma ve tebligat usul ve yöntemlerini belirlemek, Mahkemenin bu maddede öngörülen konulara ilişkin yargılama usul ve yöntemini düzenlemek amacıyla Resmi Gazete’de yayımlanarak yürürlüğe girecek olan Mahkeme Tüzükleri yapabilir.	
+				
+			X.KISIM
+ÇEŞİTLİ KURALLAR
+	
+Kaza Tapu Dairesi Memurlarının Hükümlere Göre İşlem Yapması	92.		Bir hüküm, taşınmaz mal üzerindeki mülkiyet hakkına ilişkin
+herhangi bir sorunu çözümlerse, böyle bir hükmün suretinin Kaza Tapu Dairesine tebliği, Kaza Tapu Dairesinin ilgili memurunun hüküm uyarınca yapılması gereken tüm kayıtları yapması için yeterli yetki sayılır.
+	
+		
+Taksim Müzekkeresi.	93. Bir hüküm, taşınmaz bir malın taksimini yönerirse, ilgili malın bir
+Tapu Memuru tarafından veya Mahkemenin o amaç için tayin etmeyi uygun gördüğü herhangi bir kişi tarafından, taksim edilmesini yöneren bir taksim müzekkeresi çıkarabilir.
+     Mahkeme, müzekkereyi çıkarmadan önce, müzekkerenin çıkarılması için istida yapan kişiden, taksim masrafları için Mahkemece gerekli görülen bir para miktarını, depozito olarak yatırmasını isteyebilir.
+     Müzekkere, hitap ettiği memur veya kişinin, müzekkereyi aldıktan sonra herhangi bir zamanda, mal aralarında taksim edilecek kişilerin, taksim yapılırken hazır olup olmamalarına bakılmaksızın, yönerilen (emredilen) taksimi yapması için yeterli yetki sayılır.
+	
+Türk Aile Mahkemelerinin Hükümlerinin İcrası.
+4.24/1954	94. Bir Türk Aile Mahkemesi Yargıcı tarafından verilen ve bir para 
+ödenmesini veya başka herhangi bir iş veya şeyin yapılmasını emreden bir hükmü icra etmek amacıyla, bir Kaza Mahkemesi, lehine hüküm verilen kişinin istida ile başvurusu üzerine, hüküm doğrudan doğruya Kaza Mahkemesi tarafından verilmiş gibi, aynı müzekkere ve emirleri isdar edebilir ve böyle bir hükmün icrasını, kendi hükümlerinde olduğu gibi durdurabilir ve  böyle bir hüküm hususunda, bu Yasanın IX.Kısmında belirtilen tüm yetkilere sahip olur.
+	
+Koruma
+5.24/1954
+9/1976	95.     Bu Yasa kurallarının hiç biri, herhangi bir Mahkemenin, 
+1976 Mahkemeler Yasası uyarınca verdiği herhangi bir emre riayeti zorlama hususundaki yetkisini azaltır veya iptal eder anlamına gelmez.
+	
+Satış Tüzüğü Yapma Yetkisi.	96.	(1) Bakanlar Kurulu, Yüksek Mahkeme Başkanının ve Tapu ve 
+	Kadastro Dairesi Müdürünün tavsiye ve yardımlarıyla, zaman zaman, aşağıdaki hususları düzenleyen ve bundan böyle “Satış Tüzüğü” olarak anılacak olan Tüzüğü yapabilir:
+               (a)	Bu Yasa uyarınca yapılan taşınmaz mal satışlarının 
+	yönetimi ve yapılması;
+ Satışları yönetecek kişilerin atanması;
+bu gibi satışlarla ilgili olarak Kaza Tapu Dairesine veya başka herhangi bir kişiye ödenecek harç ve ücretler;
+malların hangi koşullar altında satılacağı; ve
+9’uncu maddede öngörülen ihbarnamenin biçimi ve tebliğ yöntemi.
+(2)	Tüzük, bu Yasa kurallarına uygun olarak yapılır ve Kaza Tapu Amirine, uygun gördüğü hallerde, satışın yapılacağı yöntem ve koşullar hususunda, bu Yasa kurallarına aykırı olmamak üzere, özel yöneriler vermesi için yetki verebilir.
+Tüzük, daha önce yapılan herhangi bir Tüzüğü yürürlükten kaldırabilir veya değiştirebilir.
+Tüzük, Resmi  Gazete’de yayımlanır ve Tüzükte veya Bakanlar Kurulu’nun Resmi Gazete’de yayımlanacak olan kararında belirtilecek tarihte yürürlüğe girer.
+	
+
+XI. KISIM
+TAŞINMAZ MALLARIN SATILMASI İÇİN MÜZEKKERE ÇIKARILMASINA VE BİR HÜKMÜN YERİNE GETİRİLMESİ İÇİN ÜZERİNE YÜKÜMLÜLÜK KONAN TAŞINMAZ MALIN SATIŞINA İLİŞKİN KURALLAR
+
+Taşınmaz Malların Satılması İçin Müzekkere
+Çıkarılması
+	97. 22’nci maddenin içerdiği kurallara bakılmaksızın, bir Kaza Mahkemesi Yargıcının vereceği emir ile, herhangi bir zamanda, taşınmaz malların satılması için müzekkere çıkarılabilir.
+	
+Kaydın Yapılmasın- dan Bir Yıl Sonra Satışa Gidilmesi
+	98. Bir hükmün yerine getirilmesi için, sözkonusu hükmün tescili ile, yükümlülük konan taşınmaz bir mal, bu Yasa kurallarına bakılmaksızın, yükümlülüğün konduğu tarihten başlayarak bir yıl geçtikten sonra, borçlunun rızası alınmaksızın veya bir Yargıç emri olmaksızın, ilgili Hükmün icrası için satılabilir.
+	
+Bir Yıl Geçtikten Sonra İzlenecek Yöntem	99. Yukarıdaki 92’nci maddede öngörülen bir yıllık sürenin sona ermesi 
+üzerine, hükümlü alacaklı, hükümlü borçluya ihbarda bulunduktan sonra, hükümlü borcun ödenmemiş bulunan bölümünün, icra yolu ile ödenmesini sağlamak amacıyla, malın satışa çıkarılması için Kaza Tapu Dairesinin ilgili memuruna başvuruda bulunabilir. Bunun üzerine, sözkonusu ilgili memur, borçlu tarafından, borç miktarına itirazda bulunulmadığı takdirde, malı satışa çıkarır; borçlu tarafından böyle bir itirazda bulunulması halinde ise, mesele bir Kaza Mahkemesi Yargıcına havale edilir.
+	
+Harçlar	100. Kaza Tapu Dairesinin ilgili memuru, Kaza Tapu Dairesinde                          yapılan masrafların karşılanması için gerekli görülen mal miktarını da satabilir ve hasılatı, hükümlü alacaklıya ödeyebilir. 
+       Ancak, borcun on lirayı geçmediği hallerde, alcaklı, borç miktarından     daha fazla bir masraf tahsil etmez.
+	
+Tüzük Yapma Yetkisi	101. Bakanlar Kurulu, Yüksek Mahkeme Başkanının tavsiyesi ve yardımı ile, bu Yasanın bu Kısmı ile 23’üncü maddesinin ikinci koşul bendi amaçlarını yerine getirmek için Tüzük yapabilir.	
+
+XII. KISIM
+KEFİLLER
+
+Borcu Yerine Getiren bir Kefilin, Alacaklının Elinde Bulunan Teminatların Kendine Devredilme- sine ve Tazmin Edilmesi İçin Alacaklının Yerine Geçmesine Ve Gerekti- ğinde Alacaklının Adını Kullanmasına Hak Kazanması.		102. (1)	Başka bir kişinin borcuna veya üstlendiği bir görevin yerine
+	getirilmesine kefil olan veya  herhangi bir borç veya ödev
+	için başka bir kişi ile birlikte sorumlu olan herkes, ilgili  borcu
+	ödemesi veya ödevi yerine getirmesi üzerine, sözkonusu borç 
+	veya ödeve ilişkin alacaklının elinde bulunan hüküm, mühür 
+	altında yapılmış senet veya başka teminatları, bu gibi hüküm,
+	senet veya teminatın, borcun ödenmesi veya ödevin yerine
+	getirilmesiyle hukuken tatmin edilmiş  veya edilmemiş 
+	olmasına bakılmaksızın, kendine veya kendi adına bir mütevel-
+	lisine devredilmesine hak kazanır. Böyle bir kişi, söz konusu
+	borcun veya ödevin kendisince ödenmesi veya yerine 
+	getirilmesi sonucu ödediği paraları veya uğradığı                  zararı,duruma göre, esas borçludan veya herhangi bir müşterek kefilden,müşterek yükümlülük altına giren kişiden veya müşterek
+                 borçludan elde etmek amacıyla, herhangi bir davada veya  
+	başka bir yargısal işlemde, alacaklının yerine geçerek, onun 
+	sahip olduğu tüm çarelere başvurma hakkına ve gerektiğinde 
+	uygun bir yüklenme altına girmesi üzerine alacaklının adını 
+	kullanma hakkına sahip sayılır. Böyle bir kefil tarafından 
+	yukarıda belirtildiği biçimde yapılan bir ödeme veya ödevi 
+	yerine getirme, kendisi tarafından açılan bu gibi bir dava veya diğer yargısal işlemin engellenmesi için neden olarak ileri sürülemez.
+		Ancak, hiçbir müşterek kefil, müşterek yükümlülük altına giren kişi veya müşterek borçlu, başka bir müşterek kefilden, müşterek yükümlülük altına giren kişiden veya 
+	müşterek borçludan, yukarıda belirtilen tarzda paylarına düşen adil sorumluluk oranından daha fazla elde etmek hakkına sahip değildir.
+	
+Mahkeme Tüzüğü Yapma Yetkisi	        (2)	Bakanlar Kurulu, Yüksek Mahkeme Başkanının tavsiyesi ve 
+	yardımıyla, bu Kısımdaki kuralların daha iyi uygulanması için, zaman zaman, Mahkeme Tüzükleri yapabilir.
+	
+		
+Geçici Madde
+Taksit ve Hapislik Emirlerinin Değiştirilmesi
+12/2014
+
+
+
+
+	Bu (Değişiklik) Yasasının yürürlüğe girdiği tarihten önce verilen taksit ve hapislik emirleri, taraflardan herhangi birinin başvurusu üzerine, Mahkeme tarafından, bu Yasa kuralları uyarınca değiştirilir.	
+Geçici Madde Satış Merkez-leri Faaliyete Geçinceye Kadar Hacze-dilen Taşınır Malların Satış İşlemleri
+37/2019
+	2.  Bu Yasanın 19’uncu maddesi uyarınca Mahkemeye bağlı olarak oluşturulması öngörülen satış merkezlerinin tümünün veya bir kısmının faaliyete geçmesine kadar; haczedilen taşınır mallar açık artırma yöntemi ile satılabilir.	
+Geçici Madde
+Mevcut Tescillerin Süresinin Uzatılması
+37/2019	3. Bu (Değişiklik) Yasasının yürürlüğe girdiği tarihte bu Yasanın 55’inci maddesi tahtında yükümlü kılınmış taşınmaz malların tescil süreleri, ilk dosyalandıkları tarih esas alınarak toplamda 10 (on) yıla tamamlanacak şekilde uzatılmış kabul edilir. Bu kapsamdaki tescil süresinin 10 (on) yılı tamamlaması halinde, bu Yasanın 56’ncı maddesi tahtında uzatılması mümkündür.	
+
