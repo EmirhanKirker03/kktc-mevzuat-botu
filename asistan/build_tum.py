@@ -72,6 +72,14 @@ for pk, k in sorted(kayit.items(), key=lambda x: int(x[0])):
     yasalar.append({'p': pk, 'n': re.sub(r'\s+', ' ', str(k['numara'])), 'a': ad, 'u': k['url'], 'k': kaynak, 'o': ocrmu,
                     'y': ayirma, 'kd': bool(re.search(r'yürürlükten\s+kaldır|ilga edil', ad, re.I)), 'm': maddeler})
 
+# elle doğrulanmış yasalar da dizine girer (metinleri sayfanın içinde; burada yalnızca arama anahtarları)
+elle = []
+kd_ = json.load(open(os.path.join(D, 'kira_denetim.json'), encoding='utf-8'))
+elle.append({'p': 'KIRA', 'n': '17/1981', 'a': 'Kira (Denetim) Yasası', 'm': [{'baslik': a['title'], 'metin': a['text'] + ' ' + ' '.join(m.get('new_text', '') or '' for m in a.get('amendments', []))} for a in kd_['articles']]})
+mv = json.load(open(os.path.join(D, 'mevzuat_dalga1.json'), encoding='utf-8'))['yasalar'] + [json.load(open(os.path.join(D, 'mevzuat_kat.json'), encoding='utf-8'))] + json.load(open(os.path.join(D, 'mevzuat_dalga2.json'), encoding='utf-8'))['yasalar']
+for y in mv: elle.append({'p': y['kod'], 'n': y['no'], 'a': y['ad'], 'm': [{'baslik': m['baslik'], 'metin': m['metin']} for m in y['maddeler']]})
+for e in elle: e.update({'u': '', 'k': 'elle', 'o': False, 'y': 'elle', 'kd': False})
+yasalar = elle + yasalar
 # arama anahtar kelimeleri: başlık + metnin tf-idf'e göre en ayırt edici 80 kökü
 df = collections.Counter()
 tfs = []
@@ -83,6 +91,8 @@ dizin, paketler, paket, boy = [], [], {}, 0
 for y, tf in zip(yasalar, tfs):
     top = sorted(tf, key=lambda w: -(1 + math.log(tf[w])) * math.log(N / df[w]))[:80]
     basliklar = ' '.join(m['baslik'] for m in y['m'] if m['baslik'])[:1500]
+    if y['k'] == 'elle':
+        dizin.append({x: y[x] for x in ('p', 'n', 'a', 'u', 'k', 'o', 'y', 'kd')} | {'mc': len(y['m']), 'b': -1, 'kw': ' '.join(top), 'bs': basliklar, 'elle': True}); continue
     j = json.dumps(y['m'], ensure_ascii=False)
     if boy + len(j.encode()) > PAKET_BAYT and paket:
         paketler.append(paket); paket, boy = {}, 0
@@ -96,6 +106,6 @@ for i, p in enumerate(paketler):
     json.dump(p, open(os.path.join(D, f'app/pub/tum-{i}.json'), 'w', encoding='utf-8'), ensure_ascii=False)
 json.dump({'alindi': '2026-10-09', 'kaynak': 'KKTC Yüksek Mahkeme mevzuat sistemi (mevzuat.mahkemeler.net)', 'yasalar': dizin},
           open(os.path.join(D, 'app/pub/tum-dizin.json'), 'w', encoding='utf-8'), ensure_ascii=False)
-print(dict(istat), 'yasa:', len(yasalar), 'paket:', len(paketler),
+print(dict(istat), 'yasa:', len(yasalar), 'elle:', len(elle), 'paket:', len(paketler),
       'dizin MB:', round(os.path.getsize(os.path.join(D, 'app/pub/tum-dizin.json')) / 1e6, 2),
       'toplam MB:', round(sum(os.path.getsize(os.path.join(D, f'app/pub/tum-{i}.json')) for i in range(len(paketler))) / 1e6, 1))

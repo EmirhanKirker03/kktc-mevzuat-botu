@@ -666,6 +666,7 @@ function tumDizin(){
 function tumPaket(b){ if(!TUMP[b]) TUMP[b]=fetch('tum-'+b+'.json').then(r=>{ if(!r.ok) throw new Error('HTTP '+r.status); return r.json(); }).catch(e=>{ delete TUMP[b]; throw e; }); return TUMP[b]; }
 const kisaAd=a=>a.replace(/\s*\(.*?\)\s*/g,' ').replace(/\s+Yasası\s*$/i,'').trim().slice(0,40);
 async function tumYasa(y){
+  if(y.elle){ const L=LAWBY[y.p]; if(!L.arts) L.arts=ARTS.filter(a=>a.law===y.p); return L; }
   const kod='Y'+y.p;
   if(!LAWBY[kod]){
     const P=await tumPaket(y.b); const ms=P[String(y.p)]||[];
@@ -689,6 +690,33 @@ async function searchTum(q, limit){
     .filter(x=>x.s>3).sort((x,y)=>y.s-x.s);
   return res.slice(0,limit).map(x=>x.a);
 }
+// birleşik arama: elle doğrulanmış ve otomatik yasalar aynı dizinde; önce soruya en yakın yasalar seçilir,
+// sonra yalnızca o yasaların maddeleri puanlanır (alakasız yasadan madde gelmesini azaltır)
+const ELLEARTS={};
+async function birlesik(q, n){
+  n=n||7;
+  let T; try{ T=await tumDizin(); }catch(e){ return search(q); }
+  const own=new Set(toks(q)); let extra=''; const f=fold(q); SYN.forEach(([re,add])=>{ if(re.test(f)) extra+=' '+add; });
+  const syn=extra.split(/\s+/).filter(Boolean).map(w=>w.slice(0,5)).filter(w=>!own.has(w));
+  const s1=T.score([...own]), s2=syn.length?T.score(syn):null;
+  const ls=T.ys.map((y,i)=>({y, s:(s1[i]+(s2?.3*s2[i]:0))*(y.kd?.4:1)*(y.elle?1.25:1)})).filter(x=>x.s>1.5).sort((a,b)=>b.s-a.s).slice(0,6);
+  if(!ls.length) return search(q);
+  const top=ls[0].s;
+  const groups=await Promise.all(ls.map(async x=>{
+    if(x.y.elle){ const k=x.y.p; if(!ELLEARTS[k]) ELLEARTS[k]=ARTS.filter(a=>a.law===k); return {lw:x.s, arts:ELLEARTS[k], elle:true}; }
+    try{ const L=await tumYasa(x.y); return {lw:x.s, arts:L.arts, elle:false}; }catch(e){ return {lw:x.s, arts:[]}; }
+  }));
+  const docs=groups.flatMap(g=>g.arts.map(a=>({a, g, t:toks(docText(a))})));
+  if(!docs.length) return search(q);
+  const qt=[...own, ...syn], sc=bm25Index(docs)(qt);
+  const res=docs.map((d,i)=>{ let s=sc[i]; const tt=new Set(toks(d.a.title)); own.forEach(w=>{ if(tt.has(w)) s+=1.5; });
+      syn.forEach(w=>{ if(tt.has(w)) s+=.4; });
+      if(d.a.status.startsWith('kaldır')) s*=.4; return {a:d.a, law:d.a.law, s:s*(.5+d.g.lw/top)*(d.g.elle?1.1:1)}; })
+    .filter(x=>x.s>2).sort((x,y)=>y.s-x.s);
+  const out=[], per={};
+  for(const x of res){ if((per[x.law]||0)>=3) continue; per[x.law]=(per[x.law]||0)+1; out.push(x.a); if(out.length>=n) break; }
+  return out;
+}
 // sekme: yasa listesi ve okuma
 async function ymInit(){
   let T; try{ T=await tumDizin(); }catch(e){ $('#ystats').textContent='Yasa listesi yüklenemedi.'; return; }
@@ -707,6 +735,7 @@ async function ymInit(){
       $('#yview').scrollIntoView({behavior:'smooth',block:'start'}); rvStats();
     }catch(err){ $('#yview').innerHTML='<p class="muted small">Yasa metni yüklenemedi.</p>'; } });
 }
+window.__arama={search, searchTum, tumDizin, LAWBY, birlesik}; // yalnızca otomatik testler için
 let ymHazir=false;
 document.getElementById('tab-ym').addEventListener('click',()=>{ if(!ymHazir){ ymHazir=true; ymInit(); } });
 
@@ -721,8 +750,9 @@ $('#answer').addEventListener('click',e=>{ const b=e.target.closest('.cite'); if
 
 async function run(){
   const q=$('#q').value.trim(); if(!q) return;
-  const list=search(q);
-  if($('#tumon').checked){ $('#state').textContent='Diğer yasalarda aranıyor…'; try{ list.push(...await searchTum(q,3)); }catch(e){} $('#state').textContent=''; }
+  let list;
+  if($('#tumon').checked){ $('#state').textContent='Tüm yasalarda aranıyor…'; try{ list=await birlesik(q,7); }catch(e){ list=search(q); } $('#state').textContent=''; }
+  else list=search(q);
   showSources(list);
   const alanlar=[...new Set(list.map(a=>LAW2ALAN[a.law]).filter(Boolean))];
   let cases=[]; $('#cases').innerHTML='<p class="muted small" style="margin:0">Kararlar yükleniyor…</p>';
