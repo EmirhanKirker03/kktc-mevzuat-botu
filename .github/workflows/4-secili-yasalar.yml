@@ -21,6 +21,16 @@ jobs:
           node-version: 20
       - run: npm install --no-audit --no-fund
       - run: node scripts/mahkemeler.js secili yasa "${{ inputs.pkeyler }}"
+        env:
+          HAM_DIR: ${{ runner.temp }}/ham
+      - name: Orijinal dosyaları geçici olarak sakla (depoya konmaz)
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: orijinaller
+          path: ${{ runner.temp }}/ham
+          retention-days: 7
+          if-no-files-found: ignore
       - name: Sonuçları kaydet
         if: always()
         run: |

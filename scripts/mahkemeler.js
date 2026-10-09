@@ -116,7 +116,9 @@ async function indir(tur, enFazla, secili) {
   // seçili indirmeler ayrı kayda yazılır; büyük işle aynı dosyaya yazıp çakışmasın
   const KAYIT = 'veri/mahkemeler/' + (secili ? 'secili-' : '') + tur + '-kayit.json';
   const MDIR = 'veri/mahkemeler/' + (secili ? 'secili/' : '') + (tur === 'yasa' ? 'yasalar' : 'tuzukler');
-  const HAM = path.join(os.tmpdir(), 'ham'); // orijinaller depoya konmaz (çok büyük); parmak izi saklanır
+  // orijinaller depoya konmaz (çok büyük); parmak izi saklanır. HAM_DIR verilirse orijinaller oraya da yazılır
+  // (iş akışı bunları depoya değil, GitHub Actions 'artifact' olarak geçici saklar).
+  const HAM = process.env.HAM_DIR || path.join(os.tmpdir(), 'ham');
   fs.mkdirSync(MDIR, { recursive: true }); fs.mkdirSync(HAM, { recursive: true });
   const kayit = fs.existsSync(KAYIT) ? JSON.parse(fs.readFileSync(KAYIT, 'utf8')) : {};
   const sec = L.filter(s => s.url && !(kayit[s.Pkey] && kayit[s.Pkey].durum === 'tamam')).slice(0, enFazla);
@@ -132,6 +134,7 @@ async function indir(tur, enFazla, secili) {
       k.http = r.status;
       if (!r.ok) throw new Error('HTTP ' + r.status);
       k.bayt = buf.length; k.sha256 = sha256(buf);
+      if (process.env.HAM_DIR) fs.writeFileSync(path.join(HAM, s.Pkey + '_' + temizAd(s.DosyaAd)), buf);
       const m = await metinCikar(buf, s.DosyaAd || '');
       const ad = s.Pkey + '_' + temizAd(s.DosyaAd) + '.txt';
       fs.writeFileSync(path.join(MDIR, ad), m.metin);
