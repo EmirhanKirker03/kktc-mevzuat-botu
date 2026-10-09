@@ -1,0 +1,970 @@
+BÖLÜM 262
+POLİÇELER YASASI
+(29/1989; 34/2006; 20/2010, 46/2011, 21/2013 ve 32/2024 sayılı değişiklik Yasaları  ile değiştirilmiş ve birleştirilmiş şekliyle)
+
+	
+MADDELERİN DİZİNİ
+I.KISIM
+BAŞLANGIÇ KURALLARI
+Madde
+Kısa İsim
+Yorum
+II.KISIM
+POLİÇELER
+Şekil ve Yorum
+Poliçenin tarifi
+Dahili ve harici poliçeler
+Poliçelerin farklı taraflarının ayni kişi olmasının etkisi
+Muhataba hitap
+Ödemenin yapılacağı kişinin kesin olması
+Ciro edilebilen (negotiable) poliçeler
+Ödenecek miktar
+İlk talepte ödenecek poliçeler
+İleride ödenecek poliçeler
+Tarihinden sonra ödenecek poliçelerde tarihin eksikliği
+Geri tarih ve ileri tarih koyma
+Ödeme zamanının hesaplanması
+Gereksinme halinde rücu edilecek kişi
+Keşide veya ciro edenin (indorser) tercihe bağlı şartı
+Kabulün tarifi ve gerekleri
+Kabul vakti
+Genel ve nitelendirilmiş kabul
+Doldurulmamış enstrümanlar
+Teslim
+
+TARAFLARIN KAPASİTESİ VE YETKİLERİ
+Tarafların kapasitesi
+Yükümlülük için imzanın şart olması
+Sahtelenmiş veya yetkisiz imza
+Vekaleten imzalar
+Vekil veya temsilci sıfatı ile imzalayan kişiler
+
+POLİÇENİN İVAZI
+Kıymet ve kıymet karşılığında elinde bulunduran
+Hatır poliçesi veya hatır gösteren taraf (Accommodation bill or party)
+Poliçede mevcut olabilen herhangi bir kusurdan haberi olmaksızın poliçeyi alan veya elinde bulunduran kişi (Holder in due course)
+Kıymetli karşılık ve iyi niyet karinesi
+
+POLİÇELERİN CİRO EDİLMESİ (NEGOTIATION OF BILLS)
+Poliçenin ciro edilmesi (negotiation)
+Geçerli bir cironun (indorsement) gerekleri
+Koşula bağlı ciro (indorsement)
+Açık ve özel ciro
+Kısıtlayıcı ciro (indorsement)
+Vadesi geçmiş veya onore edilmeyen poliçenin ciro edilerek devri (negotiation)
+Poliçenin yükümlüsüne ciro edilmesi
+Elinde bulunduranın hakları
+
+POLİÇEYİ ELİNDE BULUNDURANIN GENEL GÖREVLERİ
+Kabul için ibrazın ne zaman gerekli olduğu
+Görüldükten sonra ödenebilen poliçenin ibraz zamanı
+Kabul için ibraza ve ibraz etmemenin mazeretlerine ilişkin kaideler
+Kabul etmeme
+Kabul etmeme suretiyle onore etmeme ve sonuçları
+Nitelendirilmiş kabullere ilişkin görevler
+Ödeme için ibrazla ilgili kaideler
+Ödeme için ibrazda gecikmeyi veya ibraz etmemeyi mazur kılan nedenler
+Ödememe dolayısıyla onore etmeme
+Onore edilmemeye  ilişkin ihbar ve ihbarda bulunmamanın etkisi
+Onore edilmeme ihbarı ile ilgili kaide
+İhbar vermemenin ve ihbar vermede gecikmenin mazur görüldüğü durumlar
+Poliçenin protesto edilmesi – Birinci Cetvel, İkinci Cetvel
+Poliçeyi elinde bulunduranın muhataba veya kabul edene karşı görevleri
+
+TARAFLARIN SORUMLULUKLARI
+Muhatabın elindeki fonlar
+Kabul edenin sorumluluğu
+Keşidecinin veya cirantanın sorumluluğu
+Poliçeyi taraflar dışında imzalayan bir kişinin ciranta gibi sorumlu olması
+Onore edilmeyen poliçeye taraf olanlar aleyhine zarar ziyanın ölçüsü
+Teslim suretiyle devreden ve devralan
+
+POLİÇENİN İTFASI
+Poliçenin normal seyir içerisinde ödenmesi
+İlk talepte ödenebilen poliçeyi veya çeki bankacının sahtelenmiş ciro ile ödemesi
+Kabul edenin vade sonunda poliçeyi elinde bulunduran kişi olması
+Açıkça feragat
+İptal
+Poliçede değişiklik yapma
+
+KABUL VE İTİBAR İÇİN ÖDEME
+Protestodan sonra itibar için kabul
+İtibar için kabul edenin sorumluluğu
+İtibar için kabul edene ibraz
+Protestodan sonra itibar için ödeme
+
+KAYIP ENSTRUMAN
+Poliçeyi elinde bulunduran kişinin kayıp poliçenin suretini alma hakkı
+Kayıp poliçe için dava
+
+BİR SET İÇİNDEKİ POLİÇE
+Takım halindeki poliçelerle ilgili kaideler
+
+YASALARIN UYUŞMAZLIĞI
+Yasaların uyuşmazlığı halinde kaideler
+
+III.KISIM
+BANKACILAR ÜZERİNE ÇEKİLEN ÇEKLER
+Çekler ve Bankaların çeklerle ilgili yükümlülükleri
+73 A. Çeklerin Banka Tarafından Ödenmesi
+73 B. Çek Karnelerinin Basılması
+Çekin İbraz İşlemleri
+74A. Çek Hesabı Açma ve Kullanma Hakkının Yeniden Kazanılması
+74B. Çek Hesabı Açtıran Kişilerin Çek Yasağına Girmeleri Halindeki Sorumlulukları
+74C. Muhatap Banka, Merkez Bankası ve bankaların sorumlulukları
+Suç ve Cezalar
+
+KROSLANMIŞ (İKİ PARALEL ÇAPRAZ ÇİZGİ ÇEKİLMİŞ) ÇEKLER
+Genel ve özel kroslamanın tarifi
+Keşideci tarafından veya ısdar edildikten sonra kroslama
+Kroslamanın çekin esasa ilişkin bir kısmı olması
+Bankacının kroslanmış çeklerle ilgili görevleri
+Çekin kroslandığı durumlarda bankacının ve keşidecinin korunması
+Çeki elinde bulunduran üzerine kroslamanın etkisi
+Tahsil eden bankacının korunması
+
+IV.KISIM
+ÖDEME VAADİ SENETLERİ (PROMISSORY NOTES)
+
+Ödeme vaadi senedinin (promissory note) tarifi
+Teslim gereği
+Müşterek ve münferit senetler
+İlk talepte ödenebilen senetler
+Senedin ödenme için ibrazı
+Senedi yapanın sorumluluğu
+II:Kısmın senetlere uygulanması
+
+V.KISIM
+EK KURALLAR
+İyi niyet
+İmza
+Zamanın hesaplanması
+Temettü ödemelerinde kroslama yapılabilmesi
+Zaman aşımı
+Koruma
+Geçici Madde 1. Güvenli Elektronik Ortamda  Yapılması Gereken Bildirimler ile İlgili Kurallar
+Geçici Madde 2. ETİ Teşebbüsleri Ltd.’in Yetkilileri ile İlgili Kural
+BİRİNCİ CETVEL
+İKİNCİ CETVEL
+
+
+
+POLİÇELER, ÇEKLER VE ÖDEME VAADİ SENETLERİNE (PROMISSORY NOTES) İLİŞKİN YASAYI DEĞİŞTİREN YASA	
+1949
+Bölüm 189	                                                                                                                    [12 Mayıs 1928]	
+I. KISIM	
+BAŞLANGIÇ KURALLARI:	
+Kısa isim	1.  Bu Yasa Poliçeler Yasası olarak isimlendirilir.	
+Yorum
+
+34/2006	2.  Bu Yasada :-
+“Banka” , Kuzey Kıbrıs Türk Cumhuriyeti Bankalar Yasası kurallarına uygun olarak Bankacılık lisansına sahip bankaları anlatır ve Kooperatif Şirketler Yasası altında kurulup, Kooperatif Şirketler Mukayyitliği tarafından üyelerine çek hesabı açma izni verilen veya verilecek olan kooperatifleri de  içerir; 
+" Bankacı " tüzel kişiliği olsun veya olmasın bankacılık işi yapan kişiler oluşumunu içerir;
+" ciro " teslim edilmek suretiyle tamamlanmış bir ciroyu anlatır ;
+" dava " mukabil talebi ve bir talebe karşı ileri sürülen mahsup etme talebini (set-off)  içerir ; " 
+“elinde bulunduran (holder) " tasarrufunda bulundurduğu bir poliçenin veya senedin lehtarını veya kendisine ciro edilen kişiyi anlatır ve poliçe veya senedin hamilini de içerir;
+" hamil " hamiline ödenebilen bir poliçeyi veya senedi tasarrufunda bulunduran kişiyi anlatır;
+	
+21/2013	“hesap sahibi”, adına hesap düzenlenen kişiler, tüzel kişiler, Kollektif ve Komandit Şirketler ve Ticari Ünvanlar Yasası altında kayıtlı isim ve gerçek kişileri anlatır.	
+	“ısdar etme” şeklen tamam bir poliçenin, senedin veya çekin, elinde bulunduran kişi (holder) olarak alan kişiye, ilk kez teslimini anlatır:
+" kabul " teslim edilmek veya bildirimde bulunmak suretiyle tamamlanmış bir kabulü anlatır;
+" kıymet (ivaz) " değer taşıyan ivazı anlatır ;
+" kişi " tüzel kişiliği olan veya olmayan kişiler oluşumunu içerir ; 
+" müflis " ilgili zamanda yürürlükte olan iflasa ilişkin yasa uyarınca malvarlığı bir mütevelli veya temlik edilen bir kişi yedine verilmiş herhangi bir kişiyi içerir ;
+	
+21/2013
+	“müşteri”, banka ile tasarruf mevduatı sözleşmesi, kredi sözleşmesi, müşterek hesap sözleşmesi, cari hesap sözleşmesi, diğer müşteri hesabı sözleşmesi, akreditif sözleşmesi, para ve menkul eşya muhafaza sözleşmesi, teminat amaçlı banka sözleşmesi ve benzeri ürün ve hizmet alma veya kullanma sözleşmesi olan gerçek veya tüzel kişiyi anlatır.	
+21/2013	“özel ciro”, çekin arkasına cirantanın imzasının yanısıra çekin kime ödeneceğinin açık isim ve tarih yazılarak belirtilmesi ile yapılan ciro işlemini anlatır.	
+		
+	" poliçe " poliçeyi ve "senet" de ödeme vaadi senetlerini anlatır ;
+" teslim " tasarrufun bir kişiden başka bir kişiye fiili veya zımni devredilmesini anlatır ;
+	
+21/2013	“tüzel kişi yetkilisi”, tüzel kişinin direktörlerini ve tüzel kişi adına çeke imza koyan kişileri anlatır.	
+	" yazılı " tabedilmişi da içerir ve " yazma"  baskıyı da içerir.	
+II. KISIM	
+POLİÇELER
+Şekil ve Yorum	
+
+Poliçenin tarifi
+46/2011
+(1/1/2013)	3. (1) Bir poliçe, bir kişi tarafından başka bir kişiye yazılı olarak hitap eden, ve veren kişi tarafından imzalanmış, ve muhatabından ilk talepte veya saptanmış veya saptanabilen ileri bir tarihte, para olarak belli bir miktarı, belirlenmiş bir kişiye veya emrine ödenmesi isteminde bulunan koşulsuz ve kesin  bir emirdir.
+	
+	(2)   Bu koşullara uymayan, veya para ödenmesine ek olarak herhangi bir fiilde bulunulmasını emreden bir enstrüman poliçe değildir.	
+	(3)   Belirli bir fondan ödeme yapılmasına ilişkin bir emir bu madde anlamı kapsamında koşulsuz ve kesin bir emir değildir ; ancak nitelendirilmiş bir ödeme emri ile birlikte  (a) muhatabın parasını geri alacağı belirli bir fona veya miktarın zimmetlendirileceği belirli bir hesaba işaret etme, veya (b) poliçenin verilmesine neden olan muameleye dair bir
+beyanda bulunma,  koşulsuz ve kesin emir sayılır.	
+	(4)  Bir poliçe aşağıdaki nedenlerden dolayı  geçersiz olmaz :-
+ (a)  Tarihlendirilmiş olmaması ;
+(b) Karşılığında verilen kıymeti  veya herhangi bir kıymet verilip   verilmediğini belirlememesi ;
+(c)   Nerede keşide edildiğini veya nerede ödeneceğinin belirlememesi.
+	
+Dahili ve harici poliçeler	4. (1) Bir poliçe--
+(a) Kuzey Kıbrıs Türk Cumhuriyetinde keşide edilen ve Kuzey Kıbrıs Türk Cumhuriyetinde ödenebilen ; veya
+Kuzey Kıbrıs Türk Cumhuriyetinde  ikamet  eden bir kişiye Kuzey  Kıbrıs Türk Cumhuriyeti dahilinde keşide edilen  bir poliçe ise veya bakıldığında üzerinden böyle bir poliçe olduğu görülüyorsa bir dahili poliçedir.
+	Başka herhangi bir poliçe harici bir poliçedir.
+	
+	(2)   Poliçenin üzerinden aksi görülmedikçe, poliçenin zilyeti poliçeyi dahili bir poliçe sayabilir.	
+		
+Poliçelerin  farklı taraflarının ayni kişi olmasının etkisi	5. (1) Bir poliçe, keşidecinin kendine veya emrine ödenmek üzere keşide edilebilir ; veya  muhatabına veya muhatabının emrine ödenmek üzere keşide edilebilir.
+	
+	(2)  Bir poliçede keşideci ile muhatap aynı kişi ise, veya muhatap hayali bir kişi ise veya sözleşme yapma ehliyetine sahip olmayan bir kişi ise, poliçenin zilyeti enstrümanı, kendi tercihine göre, isterse poliçe veya isterse ödeme vaadi senedi sayabilir.
+	
+Muhataba hitap	6.   (1)  Bir poliçede muhatap isimlendirilmeli veya başka suretle makul bir kesinlilikle belirtilmeli veya kim olduğuna işaret edilmelidir..	
+	     (2)  Bir poliçe, ortak olsun veya olmasın iki veya daha çok muhataba hitap edebilir, ancak seçenekli olarak iki muhataba veya müteselsil olarak iki veya daha çok muhataba hitap eden bir emir poliçe değildir.
+	
+		
+Ödemenin yapılacağı kişinin kesin olması.
+46/2011
+(1/1/2013)	7.  (1) Poliçede lehtar isimlendirilmeli veya makul bir kesinlilikle belirtilmeli veya kim olduğuna işaret edilmelidir.
+	
+	   (2) Bir poliçe müştereken iki veya daha çok kişiye ödenebilecek surette düzenlenebilir, veya seçenekli olarak bir veya iki kişiye veya birden çok kişiden birine veya bazılarına ödenebilecek surette düzenlenebilir. Poliçe ayrıca ilgili zamanda bir makamı işgal edene ödenebilecek surette de düzenlenebilir.
+	
+46/2011
+(1/1/2013)	(3). fıkra kaldırılır.
+	
+		
+Ciro edilebilen (negotiable) poliçeler.	8.   (1) Bir poliçe, devredilemeyeceğine dair bir niyet ifade eden veya devredilmesini yasaklayan kelimeler içerdiğinde,  poliçenin tarafları arasında geçerliliği etkilenmez, ancak devredilmesi için ciro edilemez.
+	
+46/2011
+(1/1/2013)	(2). ve (3)’üncü fıkralar kaldırılır.
+	
+		
+	(4)  Bir poliçede poliçenin emre ödenebileceği ifade ediliyorsa, veya belirli bir kişiye ödenebileceği ifade ediliyorsa, ve devredilmesini yasaklayan veya devredileme- yeceğine dair bir niyet ifade eden kelimeler içermiyorsa, poliçe emre ödenebilen bir poliçedir.
+	
+	(5) Bir poliçe, gerek başlangıçtan gerekse ciro suretiyle, kendine veya emrine değil de belirlenmiş bir kişinin emrine ödenebileceğini ifade ettiğinde, ona rağmen, kendi tercihine göre kendine veya emrine ödenebilir.
+	
+Ödenecek miktar	9.(1) (a) Faizi ile birlikte;	
+	        (b)  belirlenmiş taksitlerle ;
+        (c) herhangi bir taksidin ödenmesinde temerrüt edilmesi halinde tüm miktarın muaccel olacağına dair bir koşula bağlı olarak, belirlenmiş taksitlerle ;
+        (d)  belirli bir kambiyo kuruna veya poliçedeki direktif uyarınca saptanacak bir kura  göre; ödenmesi istenmesine rağmen, bir poliçe ile ödenebilen miktar bu Yasa anlamında kesin bir miktardır.
+	
+	(2)   Ödenecek olan miktar kelimelerle ve ayrıca rakamlarla ifade edildiğinde ve ikisi arasında bir farklılık  bulunduğunda, ödenecek miktar kelimelerle gösterilen miktardır.
+	
+	(3) Poliçe, faiz ile ödeneceğini ifade ettiğinde, enstrümanda başkaca tarih öngörülmedikçe, faiz poliçe tarihinden itibaren işlemeye başlar, ve poliçe tarihsiz ise, ısdar edildiği tarihten itibaren işlemeye başlar.	
+		
+İlk talepte ödenecek poliçeler	10.  (1) (a)  İlk talepte veya görüldüğünde veya ibraz  edilmesi üzerine ödenmesi ifade edilen ; veya	
+üzerinde ödemenin yapılacağı  tarih ifade edilmeyen
+ 	bir poliçe ilk talep üzerine ödenir.
+	
+	(2)   Bir poliçe vadesi geçtikten sonra kabul veya ciro edildiğinde, bu şekilde kabul  veya  ciro eden kişi ile ilgili olarak ilk talepte ödenecek bir poliçe sayılır.
+	
+İleride ödenecek poliçeler	11. (a)   Tarihini veya görülmesini izleyen saptanmış bir sürede ;
+	
+	     (b)   Gerçekleşeceği kesin olan ancak ne zaman gerçekleşeceği kesin olmayabilen belli bir olayın gerçekleşmesi üzerine veya gerçekleşmesini izleyen saptanmış bir sürede ödeneceği ifade edilen bir poliçe bu Yasa anlamında, saptanabilen gelecek bir tarihte ödenebilen bir poliçedir.
+          	 Olası bir olayın gerçekleşmesine bağlı olarak  ödenebileceği ifade edilen bir 	enstrüman bir poliçe değildir, ve olayın gerçekleşmesi bu geçersizliği ortadan 	kaldırmaz.	
+		
+Tarihinden sonra ödenecek poliçelerde tarihin
+eksikliği	12. Tarihini izleyen saptanmış bir sürede ödeneceği ifade edilen bir poliçe, tarihsiz olarak ısdar edildiği, veya görülmesini izleyen saptanmış bir sürede ödenen bir poliçenin kabulü tarihsiz  olduğu durumlarda, poliçeyi elinde bulunduran herhangi bir kişi poliçenin ısdar edildiği veya kabul edildiği doğru tarihi poliçenin üzerine yazabilir ve poliçe gereğince ödenir :
+Ancak :-
+	
+	(a)  poliçeyi elinde bulunduran kişi iyi niyetle ve yanlışlıkla yanlış bir tarih yazarsa, ve	
+	(b) yanlış bir tarih yazılan her durumda poliçe daha sonra poliçeyi poliçede mevcut olabilen herhangi bir kusurdan haberi olmaksızın elinde bulunduran bir kişinin (holder in due course) eline geçerse,                                                                
+poliçeden bu nedenle kaçınılamaz ve yazılan tarih doğru tarihmiş gibi işler ve ödenir.
+	
+Geri tarih  ve ileri tarih koyma	13. (1)Bir poliçe veya poliçenin kabulü veya üzerindeki herhangi bir ciro tarihlendirilmiş 	olduğunda, aksi kanıtlanmazsa, o tarih duruma göre poliçenin keşide, kabul 	veya ciro edildiği doğru  tarihi sayılır.
+      (2) Bir poliçe salt geriye dönük veya ileri bir tarih konması veya  pazar gününe 	düşen bir tarih taşıması nedeniyle geçersiz olmaz.	
+		
+Ödeme zamanının hesaplanması	14. İlk talepte ödenebilen bir poliçe olmayan bir poliçenin vadesinin geleceği gün aşağıdaki şekilde kararlaştırılır:-
+	
+	(a)Poliçe üzerinde saptanmış  bulunan ödeme tarihinde poliçenin ödenme vadesi gelir ve muaccel olur: Ancak bu ödeme tarihi bir “iş gününe” rastlamazsa, poliçenin vadesi müteakip iş gününde gelir  ve muaccel olur ;	
+	(b)   Bir poliçe, tarihini, görülmesini veya belirli bir olayın gerçekleşmesini izleyen saptanmış bir sürede ödeneceğinde, ödeme tarihi, tarihin sayılmaya başlanacağı günü dışta bırakarak ve ödeme gününü dahil etmek suretiyle kararlaştırılır ;	
+	(c)  Bir poliçe görülmesini izleyen saptanmış bir sürede ödeneceğinde, tarih, poliçe kabul edilirse kabul tarihinden başlayarak, ve poliçe kabul edilmeme veya teslim edilmeme nedeniyle tevsik ve protesto edilirse, tevsik ve protesto tarihinden başlayarak işlemeye başlar.
+
+Bir po1içede " ay " sözcüğü, takvim ayını anlatır.
+	
+Gereksinme halinde rücu edilecek kişi gösterilmesi	15.  Bir poliçenin keşidecisi ve ciro eden herhangi bir kişi, poliçeyi elinde bulunduran kişinin lüzumu halinde, yani poliçenin kabul edilmemesi veya ödenmemesi nedeniyle onore edilmemesi durumunda başvurabileceği bir kişinin adını poliçeye geçirebilir.  Bu kişiden  “gereksinme halinde rücu edilecek kişi " olarak söz edilir.  Gereksinme halinde rücu edilecek kişiye  başvurmak veya vurmamak poliçeyi elinde bulunduran kişinin uygun olduğunu düşündüğü şekilde kendi tercihine bağlıdır.
+	
+Keşide veya ciro edenin (indorser)  tercihe bağlı şartı	16. Bir poliçenin keşidecisi, ve bir poliçeyi ciro eden herhangi bir kişi, poliçeye aşağıdaki hususlarda açıkça ifade edilen bir şart koyabilir :-
+(a) poliçeyi elinde bulunduran kişiye karşı kendi mükellefiyetini kaldıran veya sınırlandıran bir şart ;
+(b) poliçeyi elinde bulunduran kişinin kendisi ile ilgili vecibelerinden bazılarından veya tümünden sarfı nazar veya feragat eden bir şart.	
+		
+Kabulün tarifi ve gerekleri	17.  (1) Bir poliçenin kabulü, muhatabın, keşidecinin emrine rıza göstermesinin 	 	ifadesidir.
+	
+	(2)   Aşağıdaki şartlara uymayan bir kabul geçersizdir :-	
+	(a)  Kabul poliçe üzerine yazılmalı ve muhatap tarafından imzalanmalıdır.  	   Muhatabın ek kelimeler olmadan sadece imzası yeterlidir :	
+	         (b) Muhatabın, vaadini paranın ödenmesi dışında başka herhangi bir yoldan    yerine getireceğini ifade etmemelidir.
+	
+Kabul vakti	18. Bir poliçe aşağıdaki vakitlerde kabul edilebilir :-	
+	(a) Keşideci  tarafından imzalanmadan önce, veya  başka şekilde tamamlanmış olmadığı bir sırada; 	
+	(b) Vadesi geçtikten sonra, veya daha önce kabul edilmesinin reddedilmesi veya ödenmemesi nedeniyle onore edilmemesinden sonra;	
+	(c) Görülmesi üzerine ödenebilen bir poliçe kabul edilmemesi nedeniyle onore edilmediğinde, ve muhatap daha sonra poliçeyi kabul ettiğinde, poliçeyi elinde bulunduran kişi, farklı bir anlaşmanın yokluğunda, poliçeyi kabul için muhataba ilk ibraz tarihi itibarıyla kabul ettirme hakkına sahiptir.
+	
+		
+Genel ve nitelendiril-miş kabul	19. (1) Kabul, ya (a) genel, ya da (b) nitelendirilmiş olur.	
+	      (2)  Genel kabulde,  keşidecinin emrine nitelendirilmeden rıza gösterilir.  Açıkça ifade edilen koşullarla nitelendirilmiş bir kabul, poliçenin keşide edilmiş olduğu şekildeki etkisini değiştirir.
+	Özellikle aşağıdaki  şekilde bir kabul nitelendirilmiş bir kabul olur :-	
+		(a)  Koşula bağlı olarak, yani kabul eden tarafından ödemeyi poliçede ifade 		      edilen bir koşulun yerine getirilmesine bağlayan ;	
+		(b)   Kısmen, yani, poliçenin keşide edildiği miktarın sadece bir kısmını ödemek 	       üzere kabul;	
+		(c)  Yerel, yani sadece özel olarak belirlenmiş bir yerde ödemek üzere kabul ;
+       	       Poliçede ödemenin sadece belli bir yerde yapılması gerektiği ve başka yerde 	yapılamayacağı açıkça ifade edilmedikçe, belli bir yerde ödemeyi kabul etmek 	genel bir kabul olur;	
+		(d)   Zamanla ilgili olarak nitelendirilmiş ;	
+		(e)   Muhatapların tümünün değil birinin veya bazılarının kabulü.	
+		
+Doldurul-mamış
+enstrümanlar	20. (1) Bir kâğıt pullanarak ve sadece  imzalanarak boş olarak imzalayan kişi tarafından 	bir poliçeye dönüştürülebilmesi için teslim edildiğinde, bu, ilk bakışta, kâğıdın 	pulun kapsadığı herhangi bir miktar için doldurulması ve imzanın keşidecinin, 	veya kabul edenin, veya bir ciro edenin imzası olarak kullanılması için bir yetki 	imiş gibi etkili olur;.ve ayni şekilde bir poliçe esasa ilişkin herhangi bir 	ayrıntıda eksik ise poliçeyi tasarrufunda bulunduran kişi eksik bırakılanı uygun 	olacağını düşündüğü biçimde doldurma hususunda ilk bakışta bir yetkiye 	sahiptir.	
+	        (2)  Tamamlanması üzerine böyle herhangi bir enstrümanın tamamlanmasından 	önce ona taraf olan herhangi bir kişiye karşı, icrasının icbar edilebilmesi için 	makul bir süre içinde ve kesinlikle verilen yetki uyarınca doldurulması 	gerekmektedir. Bu amaç bakımından, makul bir süre olgusal bir husustur.
+
+		Ancak, böyle bir enstrüman tamamlandıktan sonra poliçede mevcut 	olabilen herhangi bir kusurdan haberi olmayan bir kişiye ciro edilirse, poliçeyi 	elinde bulundurma amaçlarının  tümü bakımından  geçerli ve etkili olur, ve bu 	kişi poliçenin icrasını makul süre içerisinde ve kesinlikle verilen yetki uyarınca 	doldurulmuş gibi icbar edebilir.	
+		
+Teslim	21.  (1) Keşidecinin veya kabul edenin veya ciro edenin poliçe üzerindeki her vaat veya 	taahhüdü, enstrümana etkinlik kazandırmak için teslim edilene kadar 	tamamlanmış olmaz ve rücu veya iptal edilebilir :
+	     Ancak poliçe üzerine bir kabul yazıldığında ve muhatap poliçeyi kabul 	ettiğine dair poliçenin hak sahibine veya hak sahibinin talimatı uyarınca 	bildiride bulunursa, o zaman kabul tamamlanmış ve rücu veya iptal edilemez 	olur.	
+	      (2)  Poliçenin birinci tarafları arasında, ve poliçeyi mevcut olabilen herhangi bir 	kusurdan haberi olmaksızın alan bir kişi dışında, daha sonraki bir tarafla ilgili 	olarak teslimin:-   
+	
+	    (a) etkili olabilmesi için, hale göre, ya keşide eden, ya kabul eden ya da ciro eden 	tarafından veya yetkisi ile yapılması gerekmektedir ;
+	
+	    (b) koşula bağlı olduğu veya sadece özel bir amaç için yapıldığı ve poliçedeki    	mülkiyetin devredilmesi amacı için yapılmadığı gösterilebilir.
+	Ancak poliçe, poliçede mevcut olabilecek herhangi bir kusurdan haberi olmaksızın  alan bir kişinin eline geçerse, poliçenin bu şekilde elinde bulunduran kişiye  karşı daha önceki tüm tarafları sorumlu ve yükümlü kılacak şekilde geçerli olarak teslim edildiğine dair kesin bir karine oluşur.	
+	(3)  Bir poliçe onu keşide eden veya kabul eden veya ciro eden o1arak imzalayan bir tarafın tasarrufundan çıktıktan sonra, aksi kanıtlanıncaya kadar, po1içeyi geçerli ve koşulsuz olarak teslim ettiği varsayılır.
+	
+TARAFLARIN  KAPASİTESİ  VE YETKİLERİ	
+Tarafların kapasitesi	22. (1) Poliçenin taraflarından biri olarak yükümlülük veya sorumluluk üstlenme için 	ehil olma gerekleri, sözleşme yapma hususunda ehil olma gereklerinin aynidir;
+      		Ancak, ilgili zamanda yürürlükte olan tüzel kişilere ilişkin yasa 	uyarınca bir tüzel kişi bir poliçenin keşidecisi, kabul edeni veya ciro edeni 	olarak yükümlülük altına girmeye ehil veya yetkili olmadıkça, bu maddenin 	hiçbir kuralı bir tüzel kişinin bu sıfatla yükümlülük altına girmesini mümkün 	kılmaz.
+	
+	        (2) Poliçe ile yükümlülük veya sorumluluk üstlenme ehliyeti veya yetkisi 		olmayan bir çocuk, ergin olmamış kişi veya şirket tarafından  bir 		poliçe keşide veya ciro edildiğinde, keşide veya ciro etme, poliçeyi 		elinde bulunduran kişiyi poliçe ile ödenecek parayı almaya ve 			poliçeye taraf olan diğer herhangi bir kişiye karşı icrasını icbar 		etmeye hak sahibi kılar.. 
+	
+Yükümlü-lük için imzanın şart olması.	23.      Bir poliçeyi keşide eden, ciro eden veya kabul eden olarak imzalamayan bir kimse, 	keşideci, ciro eden veya kabul eden olarak sorumluluk veya yükümlülük 	üstlenmez:
+Ancak:	
+	(a) Bir kişi bir poliçeyi bir ticaret unvanı ile veya takma adla imzalarsa, poliçeyi kendi adı ile imzalamış gibi poliçeden sorumlu veya yükümlü olur;	
+	      (b) Bir firmanın adının imza olarak konulması, imzalayan kişi tarafından, o firmada ortak olarak sorumlu olan tüm kişilerin adlarının imzası olarak konmasına eşittir.
+	
+Sahtelenmiş veya yetkisiz imza	24. Bu Yasa kurallarına bağlı kalınması koşuluyla, bir poliçe üzerindeki imza sahtelenmiş ise veya imza poliçede imzası olduğu gösterilen kişinin yetkisi olmadan konmuşsa, sahtelenmiş veya yetkisiz imza tamamen geçersiz ve etkisiz olur, ve poliçenin ona karşı elde bulundurması  veya ödeme yapılmasının icbar edilmesi istenen taraf sahteleme veya yetki eksikliği savını öne süremeyecek durumda olmadıkça, o imza ile veya o imza uyarınca poliçeye taraf olan herhangi bir kişiye karşı poliçeyi elde bulundurmasını veya aklamasını veya ödenmesini icbar etme hakkı elde edilmez:
+		Ancak, bu maddenin içerdiği hiçbir kural, sahteleme sayılmayan yetkisiz bir imzanın onaylanıp kabul edilmesini etkilemez.
+	
+Vekaleten imzalar	25. Vekaleten atılan bir imza, vekilin sınırlı bir imza yetkisi olduğuna dair bir ihbar işlevi görür, ve asıl böyle bir imza nedeniyle ancak imzayı atan vekil imzasını atarken sahip olduğu  yetkinin gerçek sınırları içinde işlem veya eylemde bulunduğu takdirde bağlı olur.
+	
+Vekil veya temsilci 
+sıfatı ile imzalayan kişiler	26. (1) Bir kişi bir poliçeyi keşide eden, ciro eden veya kabul eden olarak imzaladığında ve imzasına, bir asıl adına veya namına veya temsili mahiyette imza ettiğini gösteren kelimeler eklediğinde, poliçeden şahsen sorumlu değildir; ancak imzasına salt kendisini vekil olarak tarif eden veya temsilci sıfatı taşıdığını gösteren  kelimeleri eklemesi kendisini şahsi sorumluluktan muaf tutmaz.	
+	(2) Bir po1içedeki imzanın, asıla mı yoksa imzayı eliyle yazan vekile mi ait olduğunun kararlaştırılmasında, enstrümanı geçerli kılacak en uygun yorum uygulanır.
+	
+POLİÇENİN İVAZI	
+Kıymet ve kıymet karşılığın-da elinde bulunduran	27.  (1)  Bir poliçenin kıymet taşıyan ivazı şunlardan oluşabilir :-
+(a)  Bir sözleşmeyi desteklemeye yeterli olan herhangi bir ivaz ;
+(b)   Poliçeden daha önce mevcut bir borç veya yükümlülük. Bu gibi bir borç veya yükümlülük poliçenin ilk talepte veya ilerideki bir tarihte ödenip ödenmeyeceğine bakılmaksızın kıymet taşıyan ivaz sayılır.	
+	(2)  Bir poliçeye herhangi bir zaman kıymetli karşılık verildiğinde, poliçeyi elinde bulunduran, poliçenin kabul edeni ve o zamandan önce poliçeye taraf olan tüm taraftarla ilgili olarak, poliçeyi kıymet karşılığında elinde bulunduran kişi sayılır.
+	
+	(3)  Bir poliçeyi elinde bulunduran kişinin poliçe üzerinde gerek bir sözleşmeden kaynaklanan gerekse yasanın öngördüğü bir hapis hakkı bulunduğu durumlarda, bu kişi sahip olduğu hapis hakkının kapsadığı miktar oranında poliçenin kıymet karşılığında elinde bulunduranı sayılır.	
+		
+Hatır poliçesi veya hatır gösteren taraf (Accommo-dation bill or party)	28. (1) Bir poliçenin hatır gösteren tarafı poliçe için bir kıymetli karşılık almaksızın, adının başka bir kişi için kullanılmasına izin vermek amacıyla poliçeyi keşide eden, kabul eden veya ciro eden olarak imzalayan bir kişidir.
+	
+	     (2) Hatır gösteren taraf poliçeyi kıymet karşılığında elinde bulunduran bir kişiye karşı poliçe için sorumlu olur, ve poliçeyi bu şekilde elinde bulunduran bu kişinin poliçeyi aldığında söz konusu tarafın bir hatır gösteren taraf olduğunu bilip bilmediği dikkate alınmaz.	
+		
+Poliçede mevcut olabilen herhangi bir kusurdan haberi olmaksızın poliçeyi alan veya elinde bulunduran kişi	29. (1) Görünüşte tamamlanmış ve nizami bir poliçeyi aşağıdaki koşullar altında alıp elinde bulunduran kişi, poliçeyi poliçede mevcut olabilen herhangi bir kusurdan haberi olmaksızın elinde bulunduran kişi sayılır :
+(a)  poliçeyi vadesi gelmeden önce ve, eğer poliçe daha önce onore edilmemiş bir poliçe idiyse, onore edilmediğinden haberi olmaksızın almak suretiyle elinde bulunduran kişi ise;
+(b) poliçeyi iyi niyetle ve kıymetli ivaz karşılığında almış ise, ve poliçe kendine ciro edildiğinde, ciro eden kişinin poliçe üzerindeki sahiplik hakkında herhangi bir eksiklik bulunduğundan haberdar değilseydi.
+	
+	    (2)   Bir poliçeyi ciro eden kişi, poliçeyi hile, haddinden fazla nüfuz kullanma veya etki altında bırakma, veya şiddet kullanma ve korkutma yolu ile veya başka yasa dışı yollardan, veya yasa dışı bir ivaz karşılığında elde etmiş veya kabulünü sağlamış ise, veya itimadı suistimal ederek veya hilekârlık sayılan başka hal ve koşullar altında ciro etmiş ise, böyle bir kişinin sahiplik  hakkı bu Yasa anlamı bakımından eksik sayılır.	
+	     (3) Bir poliçenin sahiplik hakkını, poliçede mevcut olabilen herhangi bir kusurdan haberi olmaksızın elinde bulunduran bir kişiden, kıymet karşılığında olsun veya olmasın, almak suretiyle elinde bulunduran ve poliçeyi etkileyen herhangi bir hile veya yasadışılığa taraf olmayan bir kişi, poliçeyi aldığı yukarıda mezkûr kişiden önce poliçenin kabul edeni ile ve poliçeye taraf olan tüm taraflarla ilgili olarak, poliçeyi aldığı  yukarıda mezkûr kişinin sahip olduğu tüm hak1ara sahiptir.	
+		
+Kıymetli karşılık ve iyi niyet karinesi	30. (1) Poliçede imzası görülen tarafların her biri, ilk bakışta poliçeye kıymetli bir ivaz 	karşılığında  taraf olmuş sayılır.
+	
+	    (2) Bir poliçeyi elinde bulunduran herkes, ilk bakışta poliçeyi, poliçede mevcut olabilen herhangi bir kusurdan haberi olmaksızın alarak elinde bulunduran kişi sayılır; ancak poliçe ile ilgili bir davada poliçenin kabulünün, ısdarının veya müteakip cirosunun hile, haddinden fazla nüfuz kullanma veya etki altında bırakma, veya şiddet kullanma ve korkutma veya kanunsuzluk ile etkilendiği kabul edilirse veya kanıtlanırsa, poliçeyi elinde bulunduran iddia edilen hileden veya yasadışılıktan sonra poliçe için  iyi niyetle kıymetli ivaz verildiğini kanıtlamadıkça ve kanıtlayana kadar ispat külfeti karşı tarafa geçer.
+	
+POLİÇELERİN CİRO EDİLMESİ (NEGOTIATION OF BILLS)	
+Poliçenin ciro (negotiation) edilmesi 	31. (1) Bir poliçe, devralan kişiyi poliçenin elinde bulunduranı  konumuna koyacak bir şekilde bir kişiden başka bir kişiye devredildiğinde ciro yoluyla devredilmiş (negotiated) olur.
+	
+	(2) Hamiline ödenebilen bir poliçe, poliçeyi teslim etmek suretiyle ciro (negotiate) edilir .	
+	(3) Emre ödenebilen bir poliçe, poliçeyi elinde bulunduran kişinin poliçeyi ciro (indorse) etmesi  ve teslim suretiyle tamamlaması ile ciro (negotiate) edilir.	
+	(4) Emrine ödenebilen bir poliçeyi elinde bulunduran kişi poliçeyi ciro (indorse) etmeksizin kıymetli ivaz karşılığında devrederse, devir, devralana, devredenin poliçede olan sahiplik hakkını verir, ve ilaveten devralan devredenin poliçeyi ciro (indorse) etme hakkını da elde eder.	
+	(5) Herhangi bir kişi bir poliçeyi, vekil sıfatıyla ciro (indorse) etme yükümlülüğü altında olduğunda, poliçeyi şahsi sorumluluğunu kaldıracak kayıt ve koşullara bağlı olarak ciro (indorse) edebilir.
+	
+Geçerli bir cironun (indorsement)  gerekleri	32. Bir cironun (indorsement) bir poliçenin devri (negotiation) hususunda etkili olabilmesi için aşağıdaki koşullara uygun olarak yapılması gerekir :-
+	
+21/2013	Ciro (indorsement) poliçenin arka yüzüne yazılmalı ve ciranta tarafından “özel ciro” yaparak  imzalanmalıdır.
+	Alonj üzerine veya poliçe “kopyalarının” kabul edildiği bir ülkede ısdar veya ciro (negotiate) edilmiş bir poliçe “kopyası” üzerine yazılmış bir ciro (indorsement) poliçenin kendinin üzerine yazılmış sayılır.
+	
+	(b)   Poliçenin tümünü ciro (indorse) etmiş olmalıdır.  Kısmi bir ciro (indorsement), yani ödenecek miktarın sadece bir kısmının ciro edilene devretmeyi, veya poliçeyi ayrı ayrı iki veya daha çok kişiye devretmeyi amaçlayan bir ciro, poliçenin devri (negotiation) işlevi görmez.
+	
+	(c)  Bir poliçe ortak  olmayan iki veya daha çok lehdar veya ciro edilen kişi (indorsee) emrine ödenebilen bir poliçe olduğunda,  hepsinin de ciro (indorse) etmesi gerekir, meğer ki sadece birisi ciro ettiğinde ötekileri için de ciro etme yetkisine sahip olsun ;	
+	(d)  Emre ödenebilen bir poliçede lehdar veya ciro edilen kimse (indorsee) yanlış belirtildiğinde veya tarif edildiğinde, adının yazılışında yanlışlık yapıldığında, uygun görürse, doğru imzasını da ekleyerek, poliçeyi orada tarif edildiği gibi ciro edebilir ;	
+	(e) Bir poliçede iki veya daha çok ciro bulunduğunda aksi kanıtlanıncaya kadar, her ciro poliçe üzerinde görüldüğü sıraya göre yapılmış sayılır ;	
+46/2011
+(1/1/2013)	(f) Ciro, özel olarak yapılabilir.  Ayrıca ciroyu kısıtlayan koşullar da içerebilir.
+	
+		
+Koşula bağlı ciro (indor-sement)	33. Bir poliçenin koşula bağlı olarak ciro edildiği (indorsed) göründüğünde  poliçeyi ödeyen kişi koşulu dikkate almayabilir, ve koşulun yerine getirilip getirilmediğine bakılmaksızın ciro edilene yapılan ödeme geçerli olur.
+	
+Özel ciro
+46/2011
+(1/1/2013)	34. (1)  fıkrası kaldırılır.
+	
+	(2) Özel bir ciroda, poliçenin kime veya kimin emrine ödenebileceği belirtilir.
+	
+	(3) Bu Yasanın lehdara ilişkin kuralları, gerek1i değişikliklerle, özel bir ciro ile ciro  edilen bir kimseye de uygulanır.
+	
+46/2011
+(1/1/2013)	(4) . fıkrası kaldırılır.
+	
+		
+Kısıtlayıcı ciro (indor-sement)	35. (1) Bir poliçenin daha ileri ciro edilip devredilmesini (negotiation) yasaklayan veya poliçenin sahipliğinin devredilmesi için ısdar edilmediğini ve sadece üzerindeki talimat uyarınca işleme konması için bir yetki olduğunu ifade eden bir ciro kısıtlayıcı bir ciro olur; örneğin ; bir poliçenin " yalnız D'ye ödeyiniz " veya " X'in hesabı için D'ye ödeyiniz " veya " tahsilat için D'ye veya emrine ödeyiniz " şeklinde ciro edilmesi gibi.
+	
+	(2) Bir kısıtlayıcı ciro, ciro edilene poliçeyi ödenme ve cirantasının poliçeye taraf olan kişilerden dava edebileceği herhangi bir tarafı dava etme hakkı verir, ancak açıkça kendisini yetkili kılmadıkça ciro edilen (indorsee) sıfatıyla haklarını devretme yetkisi vermez;
+	
+	(3) Bir kısıtlayıcı ciro poliçenin daha ileri devri için yetki verdiğinde, poliçenin ciro edildiği sonraki kişilerin hepsi de poliçeyi kısıtlayıcı ciro altındaki ilk ciro edilenin aldığı  ayni haklarla ve ayni yükümlülüklere bağlı olarak alır1ar.
+	
+Vadesi geçmiş veya onore edil-meyen  poliçenin ciro edilerek devri (negotiation)	36. (l)   Bir poliçe ilk ısdar edildiği şekliyle ciro edilebilir (negotiable) olduğunda -
+(a)  Cirosu  kısıtlanıncaya (restrictively indorsed); veya
+Ödeme yolu ile veya başka şekilde itfa edi1ene kadar
+
+ ciro edilebilir (negotiable) olmaya devam eder.
+	
+	(2)Vadesi geçmiş bir poliçe ciro (negotiate) edildiğinde, ancak vadesi sonunda sahiplik hakkı hususunda poliçeyi etkileyen herhangi bir sakatlığa tabi olarak ciro (negotiate) edilebilir, ve ondan sonra da po1içeyi alan hiçbir kimse, poliçeyi aldığı kişinin sahiplik hakkından daha iyi bir hak elde edemez veya veremez.
+	
+	(3)   İlk talepte ödenebilen bir poliçe, poliçenin üzerinden (on the face of it) makul sayılamayacak kadar uzun bir süre için tedavülde kaldığı görüldüğünde, bu madde anlamı ve amaçları bakımından vadesi geçmiş sayılır. Bu amaç bakımından makul sayılamayacak kadar uzun bir sürenin  ne olduğu olgusal bir sorundur.
+	
+	(4) Bir cironun (indorsement), poliçenin vade sonundan sonra gelen bir tarih taşıması dışında, her ciro ile devir (negotiation)  ilk bakışta poliçenin vadesi  gelmeden önce  yapılmış sayılır.
+	
+	(5) Vadesi gelmemiş olan bir poliçe onore edilmediğinde, poliçeyi onore edilmediğinden haberdar olarak alan herhangi bir kişi poliçeyi onore edilmeme zamanında malul olduğu herhangi bir sakatlığa (defect) bağlı olarak alır, ancak, bu maddenin hiçbir kuralı poliçeyi poliçede mevcut olabilen herhangi bir sakatlıktan haberi olmadan elde eden bir kişinin haklarını etkilemez.
+	
+Poliçenin yükümlüsüne ciro (negotiate) edilmesi 	37. Bir poliçe geri ciro edilerek keşide eden kişiye veya önceki bir cirantaya veya kabul edenine devredildiğinde, bu gibi bir taraf bu Yasa kurallarına bağlı kalınması koşuluyla poliçeyi tekrar ısdar edebilir ve daha ileriye ciro (negotiate) edebilir, ancak daha önce yükümlü olduğu araya girmiş herhangi bir tarafa karşı poliçenin ödemesini icbar etme hakkına sahip olmaz.
+	
+
+Elinde bulunduranın hakları	38. Bir poliçeyi elinde bulunduran kişinin hak ve yetkileri aşağıda gösterilmektedir :-
+(a)  Poliçe ile i1gili olarak kendi adına dava açabilir ;
+poliçeyi poliçede mevcut olabilen herhangi bir kusurdan haberi olmaksızın  elinde bulunduran kişi olduğunda, poliçeyi önceki taraflarının sahiplik haklarında mevcut  herhangi bir sakatlıktan (defect), ve ayrıca önceki tarafların salt şahsi savunma amaçları için kendi aralarında ileri sürebilecekleri iddialardan serbest olarak elinde  bulundurur, ve poliçe üzerinde yükümlü olan tarafların hepsine karşı poliçenin ödenmesini icbar edebilir;
+(c)   Sahiplik hakkında sakatlık bulunduğunda,
+       (i) poliçeyi poliçede mevcut olabilen herhangi bir kusurdan haberi olmayan bir kişiye 	ciro ederek devrederse,  poliçeyi bu şekilde elinde bulunduran kişi poliçenin 	sahiplik hakkını sakatlıktan serbest ve tam olarak elde eder ; ve
+       (ii) Poliçenin karşılığını ödenirse, sakatlıktan haberi olmaksızın kendini ödeyen kişi, 	poliçe için geçerli bir aklama elde eder.
+	
+POLİÇEYİ ELİNDE BULUNDURANIN GENEL GÖREVLERİ	
+Kabul için ibrazın  ne zaman gerek-li olduğu	39. (1) Bir poliçe görüldükten sonra ödenebilen bir poliçe olduğunda, bu enstrümanın vadesini saptamak amacıyla kabul için ibrazı gereklidir.
+	
+	(2) Bir poliçe kabul için ibraz edilmesi gerektiğini açıkça şart koştuğunda, veya bir poliçe muhatabın ikamet veya iş yerinden başka bir yerde ödenmek üzere keşide edildiğinde, ödeme için ibraz edilmeden önce kabul için ibraz edilmelidir.	
+	(3)  Poliçenin taraflarından herhangi birini sorumlu tutmak amacıyla başka hiçbir durumda kabul için ibraz gerekmez.	
+	(4) Muhatabın iş veya ikamet yerinden başka bir yerde ödenmek üzere keşide edilmiş bir poliçeyi elinde bulunduran kişinin, makul gayret göstererek poliçeyi vadesi geldiği tarihte ödenmek için ibraz etmeden önce kabul için ibraz etmesine yeterli vakit yoksa, poliçeyi ödeme için, ibraz etmeden önce kabul için ibraz nedeniyle meydana gelen gecikme mazur görülür, ve keşideci ile cirantaları yükümlülükten serbest bırakmaz.	
+		
+Görüldükten sonra ödenebilen poliçenin ibraz zamanı	40. (1)Bu Yasa kurallarına bağlı kalınması koşuluyla, görüldükten sonra ödenebilen bir poliçe ciro edilip devredildiğinde, poliçeyi elinde bulunduran kişinin  poliçeyi ya kabul için ibraz etmesi ya da makul bir süre içinde ciro (negotiate) edip devretmesi gerekir.	
+	(2) Poliçeyi elinde bulunduran kişi böyle hareket etmezse, keşideci ve poliçeyi elinde bulunduran bu kişiden önceki tüm cirantalar yükümlülükten serbest kalır.
+	
+	(3) Bu madde anlamı bakımından makul sürenin ne olduğunu kararlaştırırken, poliçenin mahiyeti, benzeri poliçelerle ilgili ticari teamül, ve meselenin kendine özgü olguları dikkate alınır.
+	
+Kabul için ibraza ve ibraz etmemenin mazeretlerine ilişkin kaideler	41. (1) Aşağıdaki kaideler uyarınca ibraz edilen bir poliçe kabul için usulüne uygun
+	olarak ibraz edilmiş olur 
+	
+	 (a)  İbraz, bir iş gününde makul bir saatte ve poliçenin vadesi geçmeden önce elinde bulunduran tarafından veya elinde bulunduran adına muhatabına veya muhatap adına kabul etmeye, veya kabulü reddetmeye yetkili başka bir kişiye yapılmalıdır ;
+(b) Bir poliçe, ortak olmayan iki veya daha çok muhataba yazıldığında, ibraz hepsine de yapılmalıdır meğer ki, birinin, tümü için kabul yetkisi olsun ; böy1e bir durumda ibraz sadece kabul yetkisi olana yapılabilir ;
+(c) Muhatabın ölmesi halinde ibraz, varislerine veya şahsi temsilcisine yapılabilir ;
+(d) Muhatap müflis ise, ibraz kendisine veya mütevellisine yapılabilir ;
+(e) Anlaşma ile veya teamül dolayısıyla yetki varsa, posta ile yapılan bir ibraz yeterli olur.
+	
+	(2)  Bu yöntemler uyarınca yapılan ibraz aşağıdaki hallerde mazur görülür ve poliçe kabul edilmezse onore edilmemiş olur:-
+(a) Muhatap ölü veya müflis veya hayali bir kişi olduğunda veya poliçeyle sözleşme  	yapma ehliyetine sahip olmadığında ;
+(b) Gerekli çaba gösterildikten sonra böyle bir ibraz yapılmadığında ;
+(c)  İbrazın nizami olmamasına rağmen, kabul başka bir nedenle reddedildiğinde	
+	(3) Elinde bulunduran kişinin, poliçenin  ibrazı halinde onore edilmeyeceğine inanması için sebebi  bulunması, ibrazın yapılmaması için mazeret teşkil etmez.	
+		
+Kabul etmeme	42.Bir poliçe kabul için usulüne uygun olarak ibraz edildiğinde ve adet haline gelmiş zaman içinde kabul edilmediğinde, poliçeyi ibraz eden kimsenin poliçeyi onore edilmemiş sayması ve  ona göre işlem yapması gerekir. Bunu yapmazsa, elinde bulunduran kişi keşideci ve cirantalar aleyhine başvuru hakkını kaybeder.
+	
+
+Kabul etmeme  suretiyle onore etmeme ve sonuçları	43. (1) Bir poliçe –
+(a) kabul için usulüne uygun olarak ibraz edildiğinde ve bu Yasanın saptadığı şekilde kabul reddedildiğinde veya elde edilemediğinde; veya
+(b) kabul için ibraz  mazur görüldüğünde ve poliçe kabul edilmediğinde onore edilmemiş olur.
+	
+	(2) Bu Yasa kurallarına bağlı kalınması koşuluyla, bir poliçe kabul edilmeme suretiyle onore edilmediğinde, hamiline keşideci ve cirantalar aleyhine derhal bir başvuru  hakkı doğar ve ödeme için ibraz gerekli olmaz.
+	
+
+Nitelendiril-miş kabullere
+ilişkin görev-ler	44. (1) Bir poliçeyi elinde bulunduran nitelendirilmiş bir kabulü almayı reddedebilir, ve 	nitelendirilmemiş bir kabul elde edemezse poliçeyi kabul edilmeme 	dolayısıyla onore edilmemiş sayabilir:
+	
+	       (2) Nitelendirilmiş bir kabul alındığında, keşideci veya bir ciranta poliçeyi elinde 	bulunduranı poliçeyi nitelendirilmiş olarak kabul etmesi için açıkça veya 	zımnen yetkilendirmemişse, veya daha sonra bu kabule rıza göstermezse, bu 	gibi bir keşideci veya ciranta poliçedeki yükümlülüğünden serbest kalır.
+	       Bu fıkra kuralları, gerekli ihbarın yapıldığı kısmi bir kabule uygulanmaz.  	Bir yabancı poliçe kısmen kabul edildiğinde, bakiyesi protesto edilmelidir.
+	
+	        (3) Bir poliçenin keşidecisi veya cirantası nitelendirilmiş bir kabul hakkında ihbar 	aldığında, poliçeyi elinde bulundurana muhalefetini makul bir süre içinde 	bildirmezse kabule muvafakat etmiş sayılır.	
+		
+
+Ödeme için ibrazla ilgili kaideler	45.   Bu Yasa kurallarına bağlı  kalınması koşuluyla, bir poliçe ödeme için usulüne uygun olarak ibraz edilmelidir.  Usulüne uygun olarak ibraz edilmezse keşideci ile cirantalar yükümlülüklerinden serbest kalırlar.
+         Aşağıdaki kaideler uyarınca ibraz edilen bir poliçe ödeme için usulüne uygun olarak  ibraz edilmiş olur :-
+	
+	(a) Poliçe ilk talepte ödenebilen bir poliçe değilse,  vadesi geldiği tarihte ibraz edilmelidir. 
+(b) Poliçe, ilk talepte ödenebilen bir poliçe ise, bu Yasa kurallarına bağlı kalınması koşuluyla, keşidecinin sorumlu tutulması için ısdarından sonra makul bir süre içinde, ve cirantanın sorumlu tutulması için de ciro tarihinden sonra makul bir süre içinde ibraz edilmelidir.
+      Makul sürenin ne kadar olduğu kararlaştırılırken poliçenin mahiyeti, iş aleminin benzeri poliçelerle ilgili teamülü, ve ilgili meselenin olguları dikkate alınır ;
+(c) Poliçe, poliçeyi elinde bulunduran tarafından veya elinde bulunduran adına ödenmeye yetkili bir kişi tarafından bir iş gününde makul bir saatte, aşağıda tarif edilen uygun yerde, ya üzerinde poliçeyi ödeyecek kişi olarak gösterilen kişiye, ya da makul gayret göstererek orada bulunabilirse onun namına ödemeye veya ödemeyi reddetmeye yetkilendirilmiş başka bir kişiye ibraz edilmelidir ;
+(d) Poliçe, aşağıdaki yerlerde ibraz edildiğinde uygun yerde ibraz edilmiş olur :-
+(i) Ödeme için bir yer poliçede belirlendiğinde, belirlenmiş yerde ibraz edildiğinde ;
+(ii)Ödeme için yer belirlenmediğinde, muhatabın veya kabul edenin adresi poliçede gösteriliyorsa, poliçe o adreste ibraz edildiğinde ;
+(iii)Ödeme için yer belirlenmediğinde veya adres verilmediğinde, bilinmesi halinde,  muhatabın veya kabul edenin iş yerinde, veya iş yerinin bilinmemesi ancak mutat ikamet yerinin bilinmesi halinde mutat ikamet yerinde ibraz edildiğinde ;
+(iv)Başka herhangi bir durumda, muhatap veya kabul edene bulunabileceği herhangi bir yerde veya bilinen son iş veya ikamet yerinde ibraz edildiğinde ;
+(e) Poliçe uygun yerde ibraz edildiğinde, makul gayret gösterildikten sonra orada ödemeye veya ödemeyi reddetmeye yetkili kişi bulunmazsa,  muhataba veya  kabul edene başka ibraz gerekmez ;
+(f) Bir poliçe; ortak olmayan iki veya daha çok kişi üzerine keşide edildiğinde veya bu gibi iki veya daha çok kişi tarafından kabul edildiğinde ve ödeme için yer belirlenmediğinde, poliçenin bu kişilerin hepsine de ibraz edilmesi gerekir ;
+(g) Bir poliçenin muhatabı veya kabul edeni ölmüş ise ve ödeme için yer belirlenmiş olmadığında poliçe, varislerine veya varsa ve makul gayret gösterilerek bulunabilirse; şahsi temsilcisine ibraz edilmelidir ;
+(h) Anlaşma ile veya teamül dolayısıyla yetki varsa,  posta ile yapılan bir  ibraz yeterli olur.	
+		
+
+Ödeme için ibrazda gecikmeyi veya ibraz etmemeyi mazur kılan nedenler	46. (1) Ödeme için ibraz etmekte gecikme, poliçeyi elinde bulunduran kişinin temerrüdüne, suihaline veya ihmaline hamledilebilen sebeplerden değil de  elinde olmayan ahval ve koşullardan ileri gelmiş ise, mazur görülür.
+	Gecikme sebebi ortadan kalktığında, poliçe makul çaba gösterilerek ibraz edilmelidir.
+	
+	(2)   Aşağıdaki durumlarda, poliçenin ödeme için ibrazından sarfı nazar edilir :-
+(a)  Makul çaba harcandıktan sonra poliçenin bu Yasanın öngördüğü şekilde ibrazı yapılamadığında; 
+        Poliçeyi elinde bulunduran kişinin, poliçe ibraz edildiğinde reddedileceğine inanması için sebebi bulunması ibraz edilme gereğini ortadan kaldırmaz ;
+(b)  Muhatabın  hayali bir kişi olduğu durumlarda ;
+(c)  Keşideci ile ilgili olarak: muhatabın veya kabul edenin kendisi  ile keşideci arasında  poliçeyi kabul etme veya ödeme mecburiyeti olmadığında ve keşidecinin poliçenin ibraz edilmesi halinde ödeneceğine inanması için sebebi bulunmadığında ;
+ (d) Bir ciranta ile ilgili olarak: poliçenin o cirantanın hatırı için kabul edildiğinde veya  yapıldığında ve poliçenin ibraz edilmesi halinde ödeneceğini beklemek için sebebi bulunmadığında
+(e)  Açıkça veya zımnen ibrazdan feragat edildiğinde.
+	
+		
+Ödememe dolayısıyla onore etmeme	47. (1)  Bir poliçe –
+(a)  ödeme için usulüne uygun olarak ibraz  edildiğinde ve  ödeme reddedildiğinde  veya elde edilemediğinde;  veya
+ibrazın mazur görüldüğü ve poliçenin vadesi geçmiş ve ödenmemiş olduğu durumda
+poliçe ödenmeme dolayısıyla onore edilmemiş olur.
+
+      (2) Bu Yasa kurallarına bağlı kalınması koşuluyla, bir poliçe ödenmeme dolayısıyla onore edilmediğinde, poliçeyi elinde bulunduranın  keşideci ve cirantalar aleyhine derhal bir başvuru hakkı doğar.
+	
+		
+Onore Edilmemeye ilişkin ihbar ve ihbarda bulunmama-nın etkisi	48. Bu Yasa kurallarına bağlı kalınması koşuluyla, çekler dışındaki bir poliçe kabul edilmeme veya ödememe dolayısıyla onore edilmediğinde, keşideciye ve her cirantaya ihbarda bulunulması gerekir; ve kendisine bu gibi bir ihbarda bulunulmayan herhangi bir keşideci veya ciranta yükümlülüğünden serbest kalır:               
+Ancak :-	
+21/2013	(a) Bir poliçe kabul edilmeme dolayısıyla onore edilmediğinde, ve onore edilmediğine ilişkin ihbar verilmediğinde, bu ihmalden sonra poliçeyi poliçede mevcut olabilen herhangi bir kusurdan haberi olmadan alarak elinde bulunduran kişinin hakları haleldar olmaz ;
+(b) Bir poliçe kabul edilmeme dolayısıyla onore edilmediğinde; ve onore edilmediğine ilişkin gerekli ihbar verildiğinde, poliçe o arada kabul edilmiş olmadıkça, ödememe dolayısıyla müteakiben meydana gelen bir onore edilmeme hususunda ihbar vermek gerekmez.	
+		
+Onore edilmeme ihbarı ile ilgili kaide	49. Onore edilmeme ihbarının geçerli ve etkili olabilmesi için aşağıdaki kaideler uyarınca verilmesi gerekir :-                                        	
+	(a) İhbar, poliçeyi elinde bulunduran kişi tarafından veya bu kişi adına verilmeli, veya verildiği zaman poliçede bizzat kendisi sorumlu olan bir ciranta tarafından veya bu ciranta adına verilmelidir ;
+
+(b) Onore edilmeme ihbarı bir vekil tarafından ya kendi adına ya da asılı olup olmadığına bakılmaksızın ihbar verme hakkına sahip olan başka herhangi bir taraf adına verilebilir ;
+(c)  İhbar, poliçeyi elinde bulunduran kişi tarafından veya adına verildiğinde, ihbarın verildiği taraf aleyhine başvuruda bulunma hakkına sahip olan poliçeyi elinde bulunduran sonraki kişilerin tümü ve önceki tüm cirantalar yararına geçerli olur ;
+(d) İhbar, yukarıda öngörüldüğü veçhile ihbar verme hakkına sahip olan bir ciranta tarafından veya adına verildiğinde, poliçeyi elinde bulunduran kişi ve ihbarın verildiği taraftan sonraki tüm cirantalar yararına geçerli olur.
+(e) İhbar yazılı olarak veya kişisel iletişim yolu ile, ve poliçeyi yeterli olarak tanıtabilen, ve poliçenin kabul edilmeme veya ödenmeme dolayısıyla onore edilmediğini  bildiren herhangi bir  ifade ile verilebilir :
+(f) Onore edilmemiş bir poliçenin keşideciye veya bir cirantaya iadesi, şekil bakımından yeterli bir onore edilmeme ihbarı sayılır.
+(g) Yazılı ihbarın imzalı olması şart değildir, ve yeterli olmayan yazılı bir ihbar sözlü iletişim ile tamamlanarak geçerli kılınabilir.  Poliçenin yanlış tarif edilmesi, ihbarın verildiği tarafı gerçekten yanıltmadıkça, ihbarı  geçersiz yapmaz. 
+(h)  Herhangi bir kişiye red ihbarı verilmesi gerektiğinde, ilgili tarafın bizzat kendisine veya o husustaki vekiline verilebilir ;
+(i) Keşideci veya ciranta ölmüş ise, ve ihbarı verecek taraf  bunu  biliyorsa, ihbar,  varsa ve makul çaba sonucu bulunabilirse,  şahsi temsilcisine verilmelidir ;
+(j)  Keşideci  veya ciranta müflis ise, ihbar ilgili tarafın bizzat kendisine veya mütevellisine verilebilir ;
+(k)  Ortak  olmayan iki  veya daha çok keşideci  veya ciranta olduğunda, bunlardan birinin ihbarı diğerleri adına alma yetkisi bulunmadıkça, ihbar bu kişilerin her birine ayrı ayrı verilmelidir;
+(1)  İhbar, poliçe onore edilmemesi üzerine hemen verilebilir, ve onore edilmemesinden sonra makul bir süre içinde verilmelidir.
+      Özel hal ve koşulların yokluğunda, aşağıdakiler yerine getirilmedikçe ihbar makul bir süre içinde verilmiş sayılmaz :-
+(i)  İhbarı verecek ve ihbarı alacak olan kişi ayni yerde ikamet ettiklerinde, ihbar
+ihbarı alacak kişiye poliçenin onore edilmediği günün  ertesi günü varacak şekilde  zamanında veri1meli veya  gönderilmelidir.
+(ii) İhbarı verecek ve ihbarı alacak olan kişi farklı yerlerde ikamet ettiklerinde, ihbar, poliçenin onore edilmediği günün ertesi günü uygun bir saatte posta varsa  poliçe o ertesi  gün, ve  o ertesi günde böyle bir posta yoksa, ondan sonraki posta ile gönderilmelidir-.
+(m) Bir poliçe onore edilmediği zaman bir vekilin elinde bulunduğunda, kendisi ya poliçede sorumlu olan taraflara ya da asılına ihbarda bulunabilir. İhbarı asılına verdiğinde, poliçeyi elinde bulunduran kişi imiş gibi ayni süre içinde vermelidir ; ve asılın da böyle bir  ihbar alması üzerine ihbar vermek için, vekil poliçeyi elinde bulunduran bağımsız bir kişi imiş gibi ayni zamana sahip olur ;
+(n) Poliçeye taraf olan biri yöntemine uygun olarak bir onore edilmeme ihbarı aldığında, ihbarı aldıktan sonra, kendinden önceki taraflara ihbar vermek için, poliçeyi elinde bulunduran kişinin onore edilmemeden sonra ihbar vermesi gereken sürenin aynine sahip olur ;
+(o) Bir onore edilmeme ihbarı, adres gereğince yazılıp taahhütlü olarak postalandığında posta idaresinin herhangi bir hatalı fiiline bakılmaksızın, ihbarı gönderen usulüne uygun olarak bir onore edilmeme ihbarı vermiş sayılır.	
+		
+İhbar vermemenin ve ihbar vermede gecikmenin mazur görüldüğü durumlar	50.  (1) Onore edilmeme ihbarının verilmesinde gecikme, ihbarı verecek olan tarafın temerrüdüne, suihaline, veya ihmaline atfedilebilen sebeplerden değil de elinde olmayan hal ve koşullar nedeniyle meydana gelmişse mazur görülür.Gecikme sebebi ortadan kalktığında,  ihbar makul gayret gösterilerek verilmelidir.	
+	(2) Aşağıdaki durumlarda onore edilmeme ihbarının verilmesinden sarfı nazar edilir:-	
+	(a)  Makul çaba gösterilmesine rağmen ihbar, yükümlü ve sorumlu tutulması istenen keşideciye veya cirantaya bu Yasanın gerektirdiği şekilde verilemediğinde veya ulaşmadığında;
+(b)   Açıkça veya zımnen feragat edildiğinde. Onore edilmeme ihbarından ihbarın verilme vakti gelmeden önce, veya yöntemine uygun olarak ihbar verilmesinin ihmal edilmesinden sonra feragat edilebilinir ;
+(c)Keşideci ile ilgili olarak aşağıdaki durumlarda :-
+(i) Keşideci ile muhatap ayni kişi olduğunda ;
+(ii) Muhatap hayali bir kişi olduğunda veya sözleşme yapma ehliyeti bulunmayan bir kişi olduğunda ;
+(iii)Keşideci poliçenin ödenmesi için ibraz edilen kişi olduğunda ;
+(iv) Muhatap veya kabul eden, kendisi ile keşideci arasında poliçeyi kabul etme veya ödeme yükümlülüğü altında olmadığında ;
+(v) Keşideci ödeme yapılması emrini geri çektiğinde ;
+Ciranta ile ilgili olarak aşağıdaki durumlarda :- 
+(i)  Muhatap hayali bir kişi olduğunda veya sözleşme yapma ehliyeti bulunmayan bir kişi olduğunda ve ciranta poliçeyi ciro ettiği zaman bu hususun bilinci içinde bulunduğunda,
+(ii) Ciranta poliçenin ödenmesi için ibraz edilen kişi olduğunda,
+(iii) Poliçe  cirantanın hatırı (for his accommodation) için kabul edildiğinde veya tanzim edildiğinde.	
+		
+Poliçenin protesto edilmesi	51.   (1) Bir dahili poliçe onore edilmediğinde, poliçeyi elinde bulunduran kişi uygun 	olduğunu düşünürse, duruma göre, kabul edilmeme veya ödenmeme sebebiyle 	protesto edilebilir ; ancak keşideci veya ciranta aleyhine başvuru hakkını 	korumak için böyle bir poliçeyi protesto etmek gerekli olmaz.	
+	(2) Bakıldığında yabancı bir poliçe olduğu görülen bir poliçe, kabul edilmeme dolayısıyla onore edilmediğinde, kabul edilmeme için usulüne uygun olarak protesto edilmelidir, ve kabul edilmeme dolayısıyla daha  önce onore edi1memiş olmayan bir poliçe, ödenmeme dolayısıyla onore edilmediğinde , ödenmeme için usulüne uygun olarak protesto  edilmelidir.  Bu protesto yapılmazsa keşideci ile cirantalar  yükümlülüklerinden serbest kalırlar.  Poliçeye bakıldığında yabancı bir poliçe olduğu görülmezse, onore edilmemesi halinde protesto edilmesi gerekli değildir.	
+	(3) Kabul edilmediği için protesto edilmiş olan bir  poliçe daha sonra ödenmediği için protesto edilebilir.	
+	   (4) Bu Yasa kurallarına bağlı kalınması koşuluyla, bir poliçe protesto edildiğinde, onore edilmediği gün protesto edilebilir ve ondan sonra gelen ertesi  iş gününden geç olmamak üzere de protesto edilmelidir.	
+	(5)Bir poliçeyi kabul eden kişi müflis olursa veya borçlarını ödemede acze düşerse, veya poliçenin vadesi  gelmeden önce ödemeyi durdurursa, poliçeyi elinde bulunduran kişi keşideci ile cirantalara karşı daha iyi bir teminat için poliçeyi  protesto ettirebilir.	
+	(6) Bir poliçe onore edilmediği yerin Kaza  Mahkemesinde protesto edilmelidir :
+	Ancak -	
+	(a) bir poliçe posta ile ibraz edildiğinde ve onore edilmemiş olarak  posta ile iade edildiğinde, iade edildiği yerin Kaza Mahkemesinde protesto edilebilir ;	
+	(b) muhataptan başka bir kişinin iş veya ikamet  yerinde ödenmek üzere keşide edilen bir poliçe kabul edilmeme dolayısıyla onore edilmediğinde, ödenmesinin yapılacağı yer olarak  ifade edilen yerin Kaza Mahkemesinde ödenmeme nedeniyle protesto edilmelidir; ve muhataba ödenme için başka ibraz veya muhataptan talepte bulunma gerekli değildir.
+	
+Birinci Cetvel
+İkinci Cetvel	(7) (a) Bir poliçe bu Yasanın Birinci Cetvelinde saptanan şekilde protesto edilir;
+(b) Bu Yasanın İkinci Cetvelinde gösterilen formlar, meselenin ahval ve koşullarına göre değişiklikler yapıldıktan sonra bu madde uyarınca protesto yapmak için kullanılabilirler.	
+	(8) Bir poliçe kaybedilir veya tahrip edilirse, veya poliçeyi elinde bulundurma hakkına sahip olan kişiden haksız veya kanunsuz olarak alıkonursa, bir sureti veya yazılı ayrıntıları üzerinde veya  protesto edilebilir.	
+	(9) Onore edilmeme ihbarı verilmesinden sarfı-nazar edilebilen herhangi bir hal ve koşulda protestodan da sarfı-nazar edilir. Protesto etmede gecikme, poliçeyi elinde bulunduran kişinin temerrüdüne, suihaline veya ihmaline hamledilebilen sebeplerden değil de elinde olmayan hal ve koşullar nedeniyle  ileri geldiğinde mazur görülür. Gecikme sebebi ortadan kalktığında, protesto makul gayret gösterilerek yapılmalıdır.	
+		
+Poliçeyi elinde bulunduranın muhataba veya kabul edene karşı görevleri	52. (1) Bir poliçe genel olarak kabul edildiğinde, kabul edeni sorumlu kılmak gayesiyle ödeme için ibraz gerekli değildir.
+(2) Nitelendirilmiş bir kabulün kayıt ve koşulları uyarınca ödeme için ibraz gerekli olduğunda, o hususta açıkça bir şart koşulmadıysa, poliçeyi vadesi geldiği tarihte ödeme için ibraz etmekte ihmal, kabul edeni yükümlülüğünden serbest bırakmaz.
+(3) Poliçeyi kabul edeni sorumlu kılmak için protesto etmek gerekmez, ne de onore edilmeme ihbarının kendisine verilmesi gerekir..
+(4) Bir poliçeyi elinde bulunduran kişi poliçeyi ödenme için ibraz ettiğinde, poliçeyi ödenme talebinde bulunduğu kişiye teşhir eder, ve bir poliçe ödendiğinde poliçeyi elinde bulunduran kişi poliçeyi hemen ödeyen tarafa teslim eder. 
+
+	
+TARAFLARIN SORUMLULUKLARI	
+Muhatabın elindeki fonlar
+	53. Bir poliçe, kendiliğinden, muhatabın elinde poliçenin ödenmesi için bulunan fonların bir temliki şeklinde işlev görmez, ve bir poliçenin muhatabı poliçeyi bu Yasanın gerektirdiği şekilde kabul etmezse, enstrüman üzerinde sorumluluğu olmaz.	
+Kabul edenin sorumluluğu	54. Bir poliçeyi kabul eden kişi, poliçeyi kabul etmekle    
+         (a)  kabulünün öngördüğü vadeye ve koşullara uygun olarak poliçeyi ödemeyi 		taahhüt eder ;	
+	(b)  Poliçeyi poliçede mevcut olabilen herhangi bir kusurdan haberi olmadan alarak elinde bulunduran bir kişiye karşı aşağıdakileri inkar etmekten men edilir -- :
+(i)  muhatabın mevcut olduğunu, imzasının gerçek ve doğru olduğunu, ve poliçeyi keşide etme ehliyet ve yetkisine sahip olduğunu ;
+(ii) keşide edenin emrine ödenebilen bir poliçe ile ilgili olarak, keşidecinin o zamanki ciro (indorse) etme ehliyetini; ancak cirosunun (indorsement) gerçek ve doğru olduğu veya geçerliliği bu kapsam dışındadır.
+(iii) bir üçüncü kişinin emrine ödenebilen bir poliçe ile ilgili olarak, muhatabın mevcut olduğunu ve o zamanki ciro etme ehliyetini; ancak cirosunun gerçek ve doğru veya geçerliliği bu kapsam dışındadır.
+	
+
+Keşidecinin veya cirantanın sorumluluğu	55.  (1) Bir poliçenin keşidecisi poliçeyi, keşide etmekle :-
+	
+	(a) gereğince ibrazı üzerine öngördüğü vade ve koşullar uyarınca kabul edileceğini  ve ödeneceğini, ve onore edilmezse, onore edilmeme üzerine gerekli işlemlerin usulüne uygun olarak yapılması kaydıyla, poliçeyi elinde bulunduran ve ödemeye mecbur edilen  kişiyi veya ödeme mecburiyetinde bırakılan herhangi bir cirantayı tazmin etmeyi taahhüt eder ;	
+	(b) poliçeyi poliçede mevcut olabilen herhangi bir kusurdan haberi olmadan alarak elinde bulunduran kişiye karşı muhatabın mevcut olduğunu ve o zamanki ciro (indorse) etme ehliyetine sahip olduğunu inkar etmekten menedilir.
+	
+	   (2)  Bir poliçenin cirantası poliçeyi ciro etmekle :-	
+	(a) gereğince ibrazı üzerine öngördüğü vade ve koşullar uyarınca kabul edileceğini ve ödeneceğini, ve onore edilmezse, onore edilmeme üzerine gerekli işlemlerin usulüne uygun olarak yapılması kaydıyla, poliçeyi elinde bulunduran ve ödemeye mecbur edilen kişiyi veya müteakip bir cirantayı tazmin etmeyi taahhüt eder.	
+	(b) poliçeyi poliçede mevcut olabilen herhangi bir kusurdan haberi olmadan alarak elinde bulunduran kişiye karşı keşidecinin imzasının ve önceki ciroların tümünün gerçek, doğru ve her bakımdan usule uygun olduğunu  inkar etmekten menedilir ;
+	
+	(c) poliçeyi ciro ettiği  zaman poliçenin geçerli ve geçerliliği devam eden bir poliçe olduğunu ve o sırada kendisinin poliçede geçerli bir sahiplik hakkı bulunduğunu kendinden sonraki ilk veya müteakip cirantaya karşı inkar etmekten men edilir.	
+		
+Poliçeyi taraflar dışında imzalayan bir kişinin  ciranta gibi sorumlu olması.	56. Bir kişi bir poliçeyi keşideci veya kabul eden kişi olarak değil de başka sıfatla imzalarsa, poliçeyi poliçede mevcut olabilen herhangi bir kusurdan haberi olmadan alarak elinde bulunduran kişiye karşı bir cirantanın sorumluluklarını yüklenir.	
+		
+
+Onore edilmeyen poliçeye taraf olanlar aleyhine zarar ziyanın ölçüsü	57. Bir poliçe onore edilmediğinde miktarı belli (liquidated) tazminat olarak sayılacak olan zarar ziyanın ölçüsü aşağıda gösterildiği gibi olur:
+	
+	(a) poliçeyi elinde bulunduran kişi poliçede yükümlü olan herhangi bir taraftan, ve poliçeyi ödemeye mecbur edilen keşideci poliçeyi kabul edenden, ve poliçeyi ödemeye mecbur edilen bir ciranta da kabul edenden veya keşideciden veya önceki bir cirantadan 
+(i) poliçe tutarını ;
+(ii)poliçe ilk talepte ödenebilen  bir poliçe ise  ibraz edildiği tarihten ve başka herhangi bir durumda da vadesinin sona erdiği tarihten itibaren tutarı üzerinden faizi ;
+(iii)protestonun gerekli  olduğu hallerde, protesto masraflarını. 
+istirdat edebilir.
+(b) Yurt dışında onore edilmemiş bir poliçe ile ilgili olarak, yukarıda (a) fıkrasında zikredilenler yerine, poliçeyi elinde bulunduran keşideciden veya bir cirantadan, ve poliçeyi ödemeye mecbur edilen keşideci veya bir ciranta kendisine karşı sorumlu olan herhangi bir taraftan, kambiyo kuru ile dönüştürülmüş miktarı ve onun üzerinden tediye tarihine kadar faiz  istirdat edebilir;
+(c)  Bu Yasada faizin zarar ziyan olarak  istirdat edilebileceği öngörülen durumlarda, adalet öyle gerektiriyorsa, bu faiz tamamen veya kısmen verilmeyebilir, ve bir poliçenin belirli oranda bir faiz ile ödenmesi öngörüldüğünde, zarar ziyan mahiyetinde verilen faiz poliçenin öngördüğü oranda olabilir veya olmayabilir..
+	
+		
+
+46/2011
+(1/1/2013)	58. maddesi kaldırılır.
+	
+POLİÇENİN İTFASI
+	
+
+Poliçenin normal seyir içerisinde ödenmesi	59. (1) Bir poliçe normal seyir içerisinde muhatap veya kabul eden  tarafından veya onlar adına ödenmesi ile itfa edilir.
+"normal seyir içerisinde ödeme " poliçeyi elinde bulunduran kişiye poliçenin vadesinin  gelmesi üzerine veya vadesi geldikten sonra iyi niyetle ve poliçedeki sahiplik hakkının sakat olduğuna (defective) dair bilgi sahibi olmaksızın yapılan ödemeyi anlatır.	
+	(2) Bu fıkranın bundan sonraki kurallarına bağlı kalınması koşuluyla, bir poliçe keşideci veya bir ciranta tarafından ödendiğinde itfa edilmez; ancak --
+(a) bir üçüncü  tarafa veya bir üçüncü tarafın emrine ödenebilen bir poliçe, keşideci tarafından ödendiğinde keşideci  poliçenin kabul eden tarafından ödenmesini icbar edebilir, ancak poliçeyi tekrar ısdar edemez ;
+(b) bir poliçe bir ciranta tarafından ödendiğinde, veya keşidecinin emrine ödenebilen bir poliçe keşideci tarafından ödendiğinde, poliçeyi ödeyen taraf, kabul eden veya önceki taraflarla ilgili olarak eski haklarını elde eder ve uygun görürse kendi cirosu ile müteakip ciroları iptal ederek poliçeyi tekrar tedavüle koyabi1ir.	
+	(3) Bir hatır poliçesi hatır edilen tarafça normal seyir içerisinde ödendiğinde, poliçe itfa edilmiş olur.	
+		
+İlk talepte ödenebilen poliçe veya çeki banka-cının sahte-lenmiş ciro  ile ödemesi
+	60. İlk talepte emre ödenebilen bir poliçe bir bankacı üzerine keşide edildiğinde, keşidenin yapıldığı bankacı poliçeyi işin olağan seyri sırasında iyi niyetle öderse,   poliçede görülen ve lehtarın cirosu veya müteakip herhangi bir ciro olduğu anlaşılan cironun lehtar veya müteakip kişiler tarafından veya bunların verdiği yetki uyarınca yapıldığını  göstermek bankaya düşen bir görev değildir; ve bu gibi bir cironun sahtelenmiş olmasına veya yetki olmadan yapılmış olmasına rağmen, banka poliçeyi normal seyir içerisinde ödemiş sayılır.	
+		
+Kabul edenin vade sonunda poliçeyi elinde bulun-duran kişi olması.
+	61.Bir poliçeyi kabul eden kişi, poliçenin vadesinin sona ermesi üzerine veya daha sonra, kendisi hak sahibi olarak, poliçeyi elinde bulunduran kişi ise veya elinde bulunduran kişi olursa, poliçe itfa edilmiş olur.
+	
+		
+
+Açıkça feragat	62. (1) Bir poliçeyi elinde bulunduran vade sonunda veya daha sonra kabul edene karşı olan haklarından kesinlikle ve koşulsuz olarak  feragat ederse, poliçe itfa edilmiş olur.
+      	Poliçe kabul edene teslim edilmezse, feragatin yazılı yapılması gerekir.
+
+(2) Bir poliçeyi elinde bulunduran kişi, herhangi bir tarafın poliçedeki yükümlülüklerinden, vade sonundan önce, veya vade sonunda veya vadenin sona ermesinden sonra ayni şekilde feragat edebilir; ancak, bu maddenin içerdiği hiçbir kural, poliçeyi feragat edildiğinden bilgisi olmadan ve poliçede mevcut olabilen herhangi bir kusurdan haberi olmaksızın alarak elinde bulunduran bir kişinin haklarını etkilemez.	
+		
+İptal	63. (1) Bir po1içe, poliçeyi elinde bulunduran kişi veya vekili tarafından kasten iptal edildiğinde ve iptal edildiği  poliçenin üzerinde açıkça görüldüğünde, poliçe itfa edilmiş olur.
+(2) Ayni şekilde, bir poliçede sorumlu olan herhangi  bir taraf, poliçeyi elinde bulunduran kişi veya vekili tarafından imzasının kasten iptal edilmesi suretiyle yükümlülüğünden serbest bırakılabilir. Böyle bir durumda imzası iptal edilen taraf aleyhine başvuru hakkı olacak olan herhangi bir ciranta da yükümlülükten serbest kalır.
+(3) Kasıtlı olarak yapılmayan, veya yanlışlıkla veya poliçeyi elinde bulunduran kişinin  yetkisi olmadan yapılan bir iptal geçersiz ve etkisiz olur; ancak bir poliçenin veya poliçe üzerindeki herhangi bir imzanın iptal edilmiş olduğu görüldüğünde, ispat külfeti iptalin kasıtlı olarak yapılmadığını, veya yanlışlıkla veya yetkisiz olarak yapıldığını iddia eden tarafa ait olur.	
+		
+Poliçede değişiklik yapma	64. (1) Bir po1içe veya kabul poliçe üzerinde sorumlu olan tüm tarafların rızası olmadan esasa ilişkin bir şekilde değiştirildiğinde, poliçe, değişikliği bizzat yapan veya değişikliğe bizzat yetki veren veya rıza gösteren taraf ile müteakip cirantalar dışında  diğer  taraflar poliçe ile ilgili yükümlülüklerini yerine getirme zorunluluğundan kurtulurlar. Ancak :-
+        Bir poliçeye esasa ilişkin değişiklikler yapıldığında ve yapılan değişiklik açıkça görülmediğinde, ve poliçe poliçede mevcut olabilen herhangi bir kusurdan haberi olmadan poliçeyi alan birinin elinde bulunduğunda, bu kişi poliçede değişiklik  yapılmamış gibi poliçeden yararlanabilir ve değişiklikten önceki ilk şeklindeki vade ve koşullara göre ödenmesini icbar edebilir.
+(2) Özellikle. tarihin, ödenecek miktarın, ödeme vaktinin, ödemenin yapılacağı yerin değiştirilmesi, ve, poliçe genel olarak kabul edilmiş bir poliçe ise, kabul edenin rızası olmaksızın bir ödeme yerinin eklenmesi esasa ilişkin değişikliklerdir.
+	
+KABUL VE  İTİBAR İÇİN ÖDEME	
+Protestodan sonra  itibar için kabul	65. (1) Bir poliçe ademi kabul nedeniyle onore edilmediği için protesto edildiğinde, veya daha iyi teminat için protesto edildiğinde, ve vadesi geçmediğinde, poliçede ilgili zamanda bilfiil sorumlu olan taraflardan birisi olmayan herhangi bir kişi, poliçeyi elinde bulunduran kişinin rızası ile araya girerek poliçeyi protestodan sonra (supra protest), poliçe üzerinde sorumlu olan herhangi bir tarafın itibarı veya poliçenin hesabına çekildiği kişinin itibarı için kabul edebilir.
+(2) Bir poliçe itibar için, çekilmiş olduğu miktarın sadece bir kısmı için kabul edilebilir..
+(3) Protestodan sonra itibar için  kabulün; geçerli olması için :-
+      (a)  poliçe üzerine yazılması ve itibar için kabul edildiğini göstermesi; 
+      (b)  itibar için  kabul eden tarafından imzalanması
+gerekir.
+(4) İtibar için bir kabul, kimin itibarı için yapıldığını açıkça göstermediğinde, keşidecinin itibarı için kabul edilmiş sayılır.
+(5)  Görüldükten sonra ödenebilen bir poliçe  itibar için kabul edildiğinde, vadesi itibar için kabul edildiği  tarihten değil kabul edilmeme nedeniyle  protesto edildiği tarihten başlayarak hesaplanır.	
+		
+İtibar için kabul edenin sorumluluğu	66. (1) Bir poliçeyi itibar için kabul eden kişi poliçeyi kabul etmekle, poliçenin muhatap tarafından ödenmemesi halinde poliçenin usulüne uygun olarak kendisine ibrazı halinde kabul vadesi ve koşulları uyarınca poliçeyi  ödeyeceğini taahhüt eder. Ancak bu taahhüt, poliçenin muhataba usulüne uygun olarak ibraz edilmiş olması ve ödenmeme nedeniyle protesto edilmiş olması ve itibar için kabul edenin de bu hususta ihbar almış olması kaydına bağlıdır.
+     (2)  İtibar için kabul eden kişi, poliçeyi elinde bulunduran kişiye ve poliçeyi itibarı için kabul ettiği taraftan sonra poliçeye taraf olan tüm taraflara karşı sorumludur.	
+		
+İtibar için kabul edene ibraz.	67. (1) Onore edilmemiş bir poliçenin protesto edildikten sonra  itibar için kabul edildiği, veya ihtiyaç halinde  rücu edilecek bir referans gösterildiği durumlarda, poliçe itibar için kabul edene veya  ihtiyaç halinde rücu edilecek kişiye ödeme için ibraz edilmeden önce, ödememe nedeniyle protesto  edilmelidir.
+      (2) İtibar için kabul edenin adresi, po1içenin ödememe nedeniyle protesto edildiği ayni yerde olduğunda poliçe, vadesinin sona erdiği tarihi izleyen günden geç olmamak üzere itibar için kabul edene ibraz edilmelidir; ve itibar için kabul edenin adresi  poliçenin ödememe dolayısıyla protesto edildiği yerden başka  bir yerde olduğunda, poliçe itibar için kabul edene ibraz edilmek üzere vadesinin sona erdiği tarihi izleyen günden geç olmamak üzere gönderilmelidir.
+     (3) İbraz etmede gecikme veya ibraz etmeme, ödeme için ibraz etmedeki gecikmeyi veya ödeme için ibraz etmemeyi mazur gören herhangi bir ahval veya koşulda mazur görülür.
+    (4) Bir poliçe, itibar için kabul eden tarafından onore edilmediğinde, ödememe dolayısıyla onun tarafından  protesto edilmelidir.	
+		
+Protestodan sonra itibar için ödeme 	68. (1) Bir poliçe ödememe nedeniyle protesto edildiğinde, herhangi bir kişi araya girerek poliçe üzerinde sorumlu olan herhangi bir tarafın itibarı için veya poliçenin hesabına çekilmiş olan kişinin itibarı için, poliçeyi protesto ettikten sonra ödeyebilir.
+(2) İki veya daha çok kişi farklı tarafların itibarı için poliçeyi ödemeyi teklif ettiğinde, poliçedeki en fazla tarafı yükümlülükten serbest kılacak olan kişinin yapacağı ödeme tercih edilir.
+(3) Protestodan sonra itibar için ödemenin, salt gönüllü ödeme olarak yapılan bir ödeme şeklinde değil de protestodan sonra  itibar için yapılan bir ödeme olarak etkili olması için, poliçenin protesto edildiği Kaza Mahkemesi Mukayyidinin  bir notu ile tasdik edilmelidir.  Mukayyidin notu, protestoya iliştirilebilir veya protestonun bir uzantısı şeklinde olabilir.
+(4) İtibar için ödeyen veya o husustaki vekili, poliçeyi itibar için ödeme niyetini ve kimin hatırı için ödeyeceğini beyan etmelidir.
+(5) Bir poliçe  itibar için ödendiğinde,  itibarı için ödeme yapılan  taraftan sonra gelen tüm taraflar sorumluluktan serbest kalır, ancak,  itibar için ödeyen kişi, itibarı için ödemeyi yaptığı taraf ile o tarafa karşı yükümlülüğü olan tüm taraflarla ilgi1i olarak, poliçeyi elinde bulunduran kişinin yerine geçer ve elinde bulunduranın gerek hakları gerekse görevleri açısından halefi olur.
+(6) İtibar için ödeyen kişi, poliçe tutarı ile poliçenin onore edilmemesine ilişkin masrafları poliçeyi elinde bulunduran kişiye ödemesi üzerine, hem poliçeyi hem de protestoyu alma hakkına sahiptir. Poliçeyi elinde bulunduran kişi talep üzerine bunları teslim etmezse itibar için ödeyen kişiye zarar ziyan ödemekle yükümlü olur.
+(7) Bir poliçeyi elinde bulunduran kişi, poliçe protesto edildikten sonra ödenmeyi kabul etmezse, böyle bir ödeme sonucu yükümlülükten kurtulacak olan herhangi bir taraf aleyhine başvuru hakkını kaybeder.
+	
+KAYIP ENSTRUMAN	
+
+Poliçeyi elinde bulunduran kişinin kayıp poliçenin suretini alma hakkı
+	69. Bir poliçe vadesi geçmeden önce kaybedildiğinde poliçeyi elinde bulunduran kişi, kaybolduğu iddia edilen poliçenin tekrar bulunması halinde istendiği takdirde keşideciyi kim olursa olsun herkese karşı tazmin edeceğine dair teminat vererek, kendisine başka bir poliçe vermesi için keşideciye başvurabilir.
+     Yukarıda belirtilen bir istem üzerine keşideci poliçenin böyle bir suretini vermeyi reddederse, sureti vermeye mecbur edilebilir.
+	
+		
+Kayıp poliçe için dava	70. Bir poliçe ile ilgili herhangi bir davada veya yargı işleminde Mahkeme veya bir Yargıç, başka herhangi bir kişinin ilgili poliçe üzerindeki taleplerine karşı Mahkemeyi veya Yargıcı tatmin edecek bir teminat verilmesi koşuluna bağlı olarak, poliçenin kaybedildiğinin ileri sürülmemesini emredebilir.
+	
+BİR SET İÇİNDEKİ POLİÇE	
+Takım halindeki   poliçelerle ilgili kaideler	71.  (1) Bir poliçe bir set içerisinde, setin her kısmı sayılandırılmış olarak,  ve diğer kısımlara atıf yaparak keşide edildiği durumlarda, kısımların tümü bir tek poliçe teşkil eder.
+(2) Bir seti elinde bulunduran kişi setin iki veya daha fazla kısmını farklı kişilere ciro (indorse)  ederse, bu gibi her kısımdan sorumlu olur ve ondan sonraki her cirantanın kendisi de söz konusu kısımlar ayrı poliçelermiş gibi, ciro ettiği kısımdan sorumlu olur.
+(3)Bir poliçe setinin iki veya daha çok kısmı bu gibi kısımları mevcut olabilen herhangi bir kusurdan habersiz olarak elinde bulunduran farklı kişilere ciro edildiğinde, sahipliği ilk gerçekleşen kişi bu gibi kişiler arasında poliçenin gerçek sahibi sayılır; ancak bu fıkranın içerdiği  hiçbir kural kendisine ilk ibraz edilen kısmı olağan seyir içinde (in due course)   kabul eden veya ödeyen kişinin haklarını etkilemez.
+(4) Kabul herhangi bir kısma yazılabilir, ve sadece bir kısım üzerine yazılmalıdır.        Poliçenin muhatabı bir kısımdan fazla kısım kabul  ederse, ve kabul edilen bu kısımlar bu kısımlarda mevcut olabilen herhangi bir kusurdan habersiz olan farklı kişilerin eline geçerse, muhatap her  kısım ayrı bir poliçe imiş gibi bu tür her kısımdan  sorumlu olur.
+(5) Bir set içerisinde keşide edilen bir poliçeyi kabul eden kişi, kabulünü gösteren kısmın kendisine teslim edilmesini istemeden poliçeyi öderse, ve o kısım vadesi geldiğinde ödenmemiş olarak, kısmı, kısımda mevcut herhangi bir kusurdan habersiz olarak alan birisinin elinde durursa, bu kişiye karşı sorumlu olur.
+(6) Yukarıdaki kurallara bağlı kalınması koşuluyla, set halinde keşide edilen bir poliçenin herhangi bir kısmı ödeme suretiyle veya başka surette itfa edildiğinde, tüm poliçe itfa edilmiş olur.
+	
+YASALARIN UYUŞMAZLIĞI	
+Yasaların uyuşmazlığı halinde kaideler	72. (l) Bir ülkede keşide edilen bir poliçe başka bir ülkede ciro edildiğinde (negotiated), kabul edildiğinde veya başka bir ülkede ödenecek bir poliçe olduğunda, poliçeye taraf olanların hakları, görevleri ve sorumlulukları aşağıdaki şekilde kararlaştırılır :-
+(a) Poliçenin şekil hususundaki gerekleri itibarıyla geçerliliği, ısdar edildiği yerin yasaları uyarınca kararlaştırılır ; ve
+(b)Kabul veya ciro veya protestodan sonra  kabul gibi daha sonra meydana gelen sözleşmelerin şekil hususundaki gerekleri itibarıyla geçerliliği, bu gibi sözleşmenin yapıldığı yerin yasaları uyarınca kararlaştırılır :-
+Ancak,
+(i)  Bir poliçe Kuzey Kıbrıs Türk Cumhuriyeti dışında ısdar edildiğinde salt ısdar edildiği yerin yasaları uyarınca pullanmış olmadığı nedeniyle geçersiz olmaz ;
+(ii) Kuzey Kıbrıs Türk Cumhuriyeti dışında ısdar edilen bir poliçe şekil hususundaki gerekler itibarıyla Kuzey Kıbrıs Türk Cumhuriyeti yasalarına uyuyorsa, ödenmesini icbar etmek amacıyla, poliçeyi Kuzey Kıbrıs Türk Cumhuriyetinde ciro (negotiate) eden, elinde bulunduran veya ona taraf olan tüm kişiler arasında olduğu gibi  geçer1i olduğu kabul edilir.
+(2) Bu Yasa kurallarına bağlı kalınması koşuluyla, bir poliçenin ısdarının, cirosunun (indorsement), kabulünün veya protestodan sonra kabulünün yorumu, bu gibi sözleşmelerin yapıldığı ülkenin yasaları uyarınca yapılır :
+		Ancak dahili bir poliçe Kuzey Kıbrıs Türk Cumhuriyeti dışında ciro (indorse) edildiğinde, ödeyecek  kişi ile ilgili ciro (indorsement) Kuzey Kıbrıs Türk Cumhuriyeti Yasaları uyarınca yorumlanır.
+(3) Poliçeyi elinde bulunduran kişinin kabul veya ödeme için ibraz etme veya başka işlemlerle ilgili görevleri ve onore edilmemeye ilişkin bir protestonun veya ihbarın gerekli veya yeterli olup olmadığı, fiilin işlendiği veya poliçenin onore edilmediği yerin yasaları uyarınca kararlaştırılır.
+(4) Bir poliçe Kuzey Kıbrıs Türk Cumhuriyeti dışında keşide edildiğinde ancak Kuzey Kıbrıs Türk Cumhuriyetinde ödenecek bir poliçe olduğunda ve ödenecek miktar Kuzey Kıbrıs Türk Cumhuriyeti geçer akçesi ile ifade edilmediğinde, açıkça bir şart koşulmaması halinde, ilgili miktar, poliçenin ödeneceği tarihte ödeme yerinde görülmesi üzerine ödenen poliçeler için geçerli döviz kuru üzerinden hesaplanır.
+(5) Bir poliçe bir ülkede keşide edildiğinde ve başka  bir ülkede ödeneceğinde vadesinin sona erdiği tarihi ödeneceği ülkenin yasalarına göre kararlaştırılır.
+	
+	II. KISIM
+BANKACILAR ÜZERİNE ÇEKİLEN ÇEKLER
+	
+		
+Çekler ve Bankaların çeklerle ilgili yükümlülükleri
+2.29/1989
+21/2013	73.	(1) 	Çek, bir banka üzerine çekilmiş üzerindeki tarihte veya üzerindeki tarihten itibaren 6 (altı) ay içinde bankaya ibraz edildiği takdirde ödenen bir poliçedir.  
+Bu kısımda öngörülenler dışında, bu Yasanın poliçelere uygulanan kuralları çeklere de uygulanır.
+	
+21/2013		(2)	Banka, çek hesabı açılması ile ilgili  olarak bu Yasa ile kendilerine verilen görev ve yükümlülükleri yerine getirirken, çek hesabı açtırmak isteyen kişinin başvurusundan önceki 12 (on iki) aylık dönem içinde; yasaklı olup olmadığını, tahsis edilen çek hesap limitlerini, kullanımında olan toplam çek adetini Kuzey Kıbrıs Türk Cumhuriyeti Merkez Bankasından araştırır.
+	
+21/2013		(3)	Banka, müşterinin ekonomik ve sosyal durumunu incelerken gerekli dikkat ve özeni göstermek zorundadır.	
+21/2013		(4)	Banka çek hesabı açtırmak isteyen müşterisine bu Yasanın karşılıksız çek kesilmesi ile ilgili kuralları hakkında yazılı olarak bilgi vermekle yükümlüdür.	
+21/2013		(5)	Bankalar kimliklerini belgelemeyen müşterileri adına çek hesabı açamaz.	
+21/2013		(6)	Bankalar çek hesabı açtırmak isteyen müşterileriyle bir sözleşme imzalar ve bu sözleşmede karşılıksız çıkan çek bedelini bankanın merkez şubesi ve tüm şubelerinde mevcut veya ileride olabilecek tüm alacaklar ve menkul değerler üzerinden doğan alacaklardan karşılıksız çıkan çek bedellerini karşılayacağının taahhüdü alınır.
+		
+Çeklerin Banka Tarafından Ödenmesi
+21/2013
+	73.A.	(1)	(A) Çekle işleyen hesabın bulunduğu banka şubesi, çekin üzerindeki tarihten itibaren 6 (altı) ay içinde ibraz edilmesi halinde, karşılığı bulunan çeki ödemek zorundadır.
+(B) Karşılığı bulunmayan çeke, her halükarda 6 (altı) aylık süre dolmadan önce bu Yasanın 74’üncü maddesi uyarınca, “Yetersiz Bakiye- Tekrar İbraz Edilmesi” mühürünün uygulanmasını müteakip 15 (on beş) iş günlük süre, 6 (altı) aylık sürenin dolup dolmadığına bakılmaksızın beklenir ve gerekli işlemler yapılır.
+		
+21/2013
+
+
+		(2)	Bir bankanın müşterisi tarafından o banka üzerine çekilen çeki ödeme görevi ve yetkisi aşağıda öngörülen nedenlerden herhangi birinin gerçekleşmesi durumunda sona erer:
+Çekin imza yetkili kişiler tarafından imzalanmamış olması veya çekin kaybolduğunun veya çalındığının veya müşteri veya vekili tarafından imza edilmediğinin ve bu konuda Polis Örgütüne şikayet yapıldığının ve şikayetin Polis Örgütüne yapıldığının Polis Örgütü tarafından belgelendirildiğinin bankaya bildirilmesi ve Polis Örgütünün verdiği belgenin bankaya verilmesi;
+Hesap sahibi müşterinin öldüğünün bankaya bildirilmesi veya banka tarafından tespiti halinde;
+Mahkemenin herhangi bir nedenle çekin ödenmesinin durdurulmasını veya engellenmesini uygun bulup vereceği emrin bankaya tebliğ edilmesi;
+(Ç)  Çekin imzasız olması veya imzaların eksik olması.		
+32/2024			       	  Ancak tüzel kişi yetkililerinde değişiklik olması halinde değişiklikten önceki yetkililerin keşide ettiği çeklerde ödeme sorumluluğu ortadan kalkmaz.
+ 		
+					
+Çek Karnelerinin Basılması	73 B.	(1) 	Çek karneleri bankalarca basılır veya bastırılır.		
+21/2013		(2)	Her banka, çek karnelerinin her yaprağına, bu maddenin (4)’üncü fıkrası kuralları uyarınca yayımlanacak tebliğde düzenlenmiş olup olmadığına bakılmaksızın çek hesabının bulunduğu şubenin adını, hesap sahibinin tam ismini ve hesap numarasını yazmak zorundadır.		
+		(3)	Her banka,  müşterilerine verecekleri çek yapraklarının üzerine yazacağı bir ibare ile mezkur çek yaprağında, ilgili banka nezdindeki hesapta karşılığı olup olmadığına bakılmaksızın, bu Yasanın 74C maddesinin (1)’inci fıkrasında belirtilen yükümlülüğüne ek olarak ibarede yazılan miktar kadar garanti kapsamında olduğunu belirtme yetkisine sahiptir.		
+		(4)	Çek karnelerinin baskı şekline ilişkin usul ve esaslar Kuzey Kıbrıs Türk Cumhuriyeti Merkez Bankası tarafından Resmi Gazete’de yayımlanacak bir tebliğle düzenlenir.		
+					
+Çekin İbraz İşlemleri
+21/2013
+
+32/2024
+(Yürürlük Tarihi 30.6.2024)	74.	(1)	(A) Kuzey Kıbrıs Türk Cumhuriyeti Merkez Bankası tarafından Resmi Gazete’de yayımlanacak olan Takas Odası İşlemleri ve kurallarına ilişkin tebliğ çerçevesinde çek, banka aracılığıyla fiziki olarak veya elektronik ortamda çek hesabının bulunduğu bankaya ibraz edildiğinde, çekin üzerinde yazılı olan tutarın hesapta karşılığının  bulunmadığının tespit edilmesi halinde;
+      (a) Fiziken ibraz edilen çeklerde, çek hesabının bulunduğu banka tarafından “Yetersiz Bakiye – Tekrar İbraz Edilmesi” veya “Karşılıksız Çek-Öddenemez” mührü basılarak, çek ibraz edene iade edilmek üzere, çeki ibraz eden bankaya iade edilir.
+     (b) Elektronik olarak ibraz edilen çeklerde, çek hesabının bulunduğu bankaya elektronik olarak ibraz eden banka tarafından “Yetersiz Bakiye – Tekrar İbraz Edilmesi” veya “Karşılıksız Çek Ödenemez” mührü basılarak çeki ibraz  edene iade edilir.
+
+(B) Çek hamili tarafından çek hesabının bulunduğu bankaya ibraz edildiğinde, banka, çekin üzerinde yazılı olan tutarın hesapta bulunmaması halinde, ibraz tarihinin çekin üzerinde belirtilmesi koşuluyla, “Yetersiz Bakiye- Tekrar İbraz Edilmesi” mühürü basılarak çeki ibraz eden kişiye anında iade eder.
+		
+21/2013		(2)	Yukarıdaki (1)’inci fıkra kurallarına göre gereği yapılan çeke, “Karşılıksız Çek-Ödenemez” mühürü, “Yetersiz Bakiye- Tekrar İbraz Edilmesi” mühürünün basıldığı tarihten başlayarak en erken 15 (on beş) iş günü sonrasında basılabilir.		
+21/2013		(3)	“Yetersiz Bakiye-Tekrar İbraz Edilmesi” mühürü basılan çekin tutarı, çekin mühürlendiği tarihten başlayarak 15 (on beş) iş günü içinde muhatap bankaya yatırılır veya çek muhatap bankaya iade edilirse bu çek ile ilgili karşılıksız çek işlemi yapılmaz.		
+21/2013
+32/2024		(4)	 “Karşılıksız Çek-Ödenemez” mührü basılır ve çekin ait olduğu hesabın sahibi olan gerçek veya tüzel kişi ile tüzel kişi yetkilisi, mühür basıldığı anda herhangi bir ihbara gerek olmaksızın çek yasağına girer. Çek yasağına girenler çek hesabı açma ve çek kullanma hakkını kaybeder ve bu kişilere, bu Yasanın 74B maddesi kuralları uygulanır.		
+21/2013
+		(5)	Kendi adına, namına ve hesabına olan çeklerden dolayı çek yasağına giren kişilerin, tüzel kişi yetkilisi olması halinde yetkilisi olduğu tüzel kişinin çek hesapları kapatılmaz.
+	Ancak tüzel kişi adına çek imzalama yetkisi kalkar.		
+21/2013		(6)	Çek hesabının bulunduğu banka, karşılığı olmadığı için çekin ödenmediğini, bu çek nedeniyle çek yasağına girenler hakkında gereken bilgileri, karşılıksız çek mühürünün basıldığı günün en geç ertesi iş günü güvenli elektronik ortamda Kuzey Kıbrıs Türk Cumhuriyeti Merkez Bankasına bildirir.  Bu bildirimlere ilişkin usul ve esaslar, Kuzey Kıbrıs Türk Cumhuriyeti Merkez Bankası tarafından belirlenir.		
+21/2013		(7)	Kuzey Kıbrıs Türk Cumhuriyeti Merkez Bankası yukarıdaki (6)’ncı fıkra uyarınca aldığı bilgilere dayanarak oluşturacağı çek yasağı listesini en fazla 5 (beş) iş günü içinde güvenli elektronik ortamda bankalara ve Maliye İşleriyle Görevli Bakanlığa bildirir. Çek yasağı listesinin oluşturulmasına ilişkin usul ve esaslar, Kuzey Kıbrıs Türk Cumhuriyeti Merkez Bankası tarafından belirlenir.		
+21/2013		(8)	Bankalar çek yasağına girmesi nedeniyle çek hesabı açmaktan ve çek kullanmaktan men edilen kişilere çek karnesi veremez, çekle işleyecek hesap açamaz ve açılmış mevcut çek hesapları da kapatılır.		
+21/2013		(9)	Çek hesabı açmaktan ve kullanmaktan men edilen kişilere ait bilgileri Kuzey Kıbrıs Türk Cumhuriyeti Merkez Bankası kendi web sayfasında tüm yasaklılar görülmeden sadece araştırılmak istenen kişinin yasaklı olup olmadığının tespitine imkan sağlayacak şekilde, yasaklama süresince, yayımlar.		
+					
+		
+Çek Hesabı Açma ve Kullanma Hakkının Yeniden 	74 A.	(1)	Çek hesabı açmaktan ve kullanmaktan men edilen kişiler, karşılıksız çeklerinin tümünü ödemeleri halinde çek hesabı açma ve kullanma hakkını yeniden kazanırlar.		
+Kazanılması
+21/2013		(2)	Karşılıksız çeklerin hesaplarının bulunduğu bankalar, Kuzey Kıbrıs Türk Cumhuriyeti Merkez Bankasına karşılıksız çeklerin tümünün tahsil edildiğini belgeleyen verilerle birlikte bildirmesi üzerine Kuzey Kıbrıs Türk Cumhuriyeti Merkez Bankası kişiyi çek yasağı listesinden çıkarır ve bankalara bildirir.		
+		(3)	Bu madde uyarınca bankalar tarafından yapılacak bildirimler ile ilgili usul ve esaslar, Kuzey Kıbrıs Türk Cumhuriyeti Merkez Bankası tarafından  Resmi Gazete’de yayımlanacak bir tebliğle düzenlenir.
+		
+Çek hesabı Açtıran Kişilerin Çek Yasağına Girmeleri Halindeki	74 B.	(1)	Banka, çek yasağına giren çek hesabı sahibi gerçek kişiler ve tüzel kişiler ile tüzel kişi yetkilisine bu maddenin (2)’nci fıkrasının (A) ve (B) bendlerindeki talepleri içeren iadeli taahhütlü ihbar gönderir.		
+Sorumlulukları
+21/2013		(2)	Bankada çek hesabı olan gerçek veya tüzel kişiler ve tüzel kişi yetkilisi, yukarıdaki (1)’inci fıkra uyarınca kendisine gönderilen ihbarın tebliğ edildiği veya tebliğ edilmiş olduğu addolunduğu tarihten itibaren 10 (on) iş günü içinde;
+Elindeki bütün çek yapraklarını ait olduğu bankalara iade etmekle,
+Düzenlemiş bulunduğu ve henüz karşılığı tahsil edilmemiş olan çekleri, düzenleme tarihlerini, miktarlarını ve lehtarlarını da göstermek suretiyle, muhatap bankalara liste halinde vermekle,
+yükümlüdürler.		
+		(3)	Banka, çek yasağına giren gerçek kişiler ve tüzel kişiler ile tüzel kişi yetkilisinin yukarıdaki (1)’inci fıkra kuralları uyarınca gönderilen ihbara rağmen yükümlülüklerini yerine getirmemesi durumunda yukarıdaki (2)’nci fıkrada belirtilen 10(on) iş gününün bitimini takip eden iş gününde Polis Örgütüne suç duyurusunda bulunmakla yükümlüdür.		
+		(4)	Bu Yasa uyarınca yapılacak ihbar, herhangi bir adres değişikliği bildiriminde bulunulmadığı müddetçe, çek hesabı sahibinin hesabı açtırırken bildirdiği adrese yapılır.		
+		(5)	İlgili kişinin iadeli taahhütlü mektubu haklı bir sebebe dayanmaksızın postacıdan ve postahaneden almaması halinde postahanenin öyle bir taahhütlü mektubun varlığı hakkında ilgili kişinin adresine ihbar veya bildiri verdiği gün iadeli taahhütlü mektubun tebliğ edilmiş olduğu addolunur.		
+		(6)	Yukarıdaki (5)’inci fıkrada belirtilen ihbarı haklı bir sebebe dayanarak almadığını iddia eden ilgili kişi bunu isbat etmekle mükelleftir.
+		
+Muhatap Banka Merkez Bankası ve Bankaların Sorumlulukları
+21/2013
+	74 C.	(1)	Muhatap Banka, süresinde ibraz edilen ve karşılığı bulunmayan veya yetersiz kalan her çek yaprağı için 500.-TL (Beş Yüz Türk Lirası)’na veya bu Yasanın 73B maddesinin (3)’üncü fıkra kuralları uyarınca çekin üzerinde yazılı olan rakam veya muadili döviz karşılığına kadar olan tutarı keşidecinin dışındaki çek yaprağının hamiline ödemekle yükümlüdür.  Bu husus, hesap sahibi ile çek hesabının bulunduğu banka arasında, çek hesabının açılması ve çek karnesinin müşteriye teslimi sırasında yapılacak olan dönülemeyecek bir gayri nakdi kredi sözleşmesi, ön kredilendirme veya mevduat blokesi uyarınca teminat altına alınır.		
+		(2)	Bankanın yükümlülüğü çerçevesinde ödemesi gereken miktar ibraz eden gerçek kişinin adı ve  soyadı yazılmak, bu kişinin tüzel kişi adına bedeli tahsil etmesi halinde bu husus belirtilmek ve çeki ibraz eden kişi veya çek hamili tarafından imzalanmak suretiyle ödeme yapılır.  Hamilin  imzalamaktan kaçınması halinde, banka ödeme yapmaz.		
+		(3)	Çekin, 6 (altı) ay içinde ilk ibrazının yapılmaması halinde, muhatap bankanın yukarıdaki (1)’inci fıkra kuralları gereği ödemekle yükümlü olduğu tutara ilişkin sorumluluğu sona erer.		
+		(4)	Yukarıdaki (1)’inci fıkrada belirtilen sorumluluk tutarı, Devlet Planlama Örgütü tarafından yayınlanan Tüketici Fiyatları Endeksindeki yıllık artış gözönünde bulundurularak 10 (on) katına ulaşıncaya kadar Kuzey Kıbrıs Türk Cumhuriyeti Merkez Bankası tarafından çıkarılacak ve Resmi Gazete’de yayımlanacak bir tebliğle artırılabilir.		
+					
+Suç ve cezalar
+34/2006
+21/2013	75.	(1)	Bu Yasanın 73A maddesinin (2)’inci fıkrası uyarınca çekin karşılığının ödenmemesi için bankaya veya Polis Örgütüne yanıltıcı veya yalan beyanda bulunarak çekin kaybolduğunu veya çalındığını veya müşteri veya vekili tarafından imza edilmediğini beyan eden çek hesabı sahibi gerçek veya tüzel kişi ve tüzel kişi yetkilileri başka bir suç oluşturup oluşturmadığına bakılmaksızın bir suç işlemiş olurlar ve mahkumiyetleri halinde 10.000.-TL (On Bin Türk Lirası)’na kadar para cezasına veya 5 (beş) yıla kadar hapis cezasına veya her iki cezaya birden çarptırılabilir.		
+		(2)	Çek yasağına girdikten sonra bu Yasanın 74’üncü maddesinin (4)’üncü fıkrasına aykırı  olarak çek hesabı açan veya çek kullanan çek hesabı sahibi gerçek veya tüzel kişi ve tüzel kişi yetkilileri bir suç işlemiş olurlar ve mahkumiyetleri halinde 10.000.-TL (On Bin Türk Lirası)’na kadar para cezasına veya 5 (beş) yıla kadar hapislik cezasına veya her iki cezaya birden çarptırılabilirler.		
+		(3)	Bu Yasanın 74B maddesinin (2)’nci fıkrasında belirtilen yükümlülüklerini yerine getirmeyen çek hesabı sahibi gerçek veya tüzel kişi ve tüzel kişi yetkilileri bir suç işlemiş olurlar ve mahkumiyetleri halinde 6.000.-TL (Altı Bin Türk Lirası)’na kadar para cezasına veya 3 (üç) yıla kadar hapislik cezasına veya her iki cezaya birden çarptırılabilirler.		
+		(4)	Bu Yasanın III. Kısmında belirtilen kuralların herhangi birine aykırı davranan ve/veya bu Yasada belirtilen herhangi bir yükümlülüğü yerine getirmeyen veya geciktiren veya yükümlülüklerini yerine getirmeyi ihmal eden banka, banka yetkilisi ve suça katılma derecelerine göre bankanın yetkili mensupları suç işlemiş olurlar ve mahkumiyetleri halinde 10.000.-TL (On Bin Türk Lirası)’na kadar para cezasına veya 5 (Beş) yıla kadar hapis cezasına veya her iki cezaya birden çarptırılabilirler.
+	Bu fıkra amaçları bakımından banka yetkilisi, bankacılık faaliyeti yapan tüzel kişinin direktörlerini de kapsar.		
+		
+	KROSLANMIŞ (İKİ PARALEL ÇAPRAZ ÇİZGİ ÇEKİLMİŞ) ÇEKLER	
+Genel ve özel kroslamanın tarifi	76. (1) Bir çekin ön tarafında aşağıda belirtildiği şekilde ilave bulunursa bu ilave bir kroslama olur ve çek genel olarak kroslanmış olur :-
+(a) “ciro edilmez (not negotiable)” kelimeleriyle veya bu kelimeler olmadan, iki paralel çapraz çizgi arasında  " and company " kelimeleri veya " and company " kelimelerinin kısaltılmış herhangi bir şekli ; veya
+(b) aralarında " Ciro edilmez " kelimeleri olsun veya olmasın, sadece iki paralel çapraz çizgi.
+     (2) Bir çekin ön tarafına çaprazlama olarak " ciro edilmez " kelimeleri ile birlikte olsun veya olmasın, bir bankacının adı ilave edildiğinde, o ilave bir kroslama olur, ve çek özel olarak ve o bankacıya kroslanmış olur.
+	
+		
+Keşideci tarafından veya ısdar edildikten sonra kroslama	77. (1)  Bir çek keşidecisi tarafından genel veya özel olarak kroslanabilir.
+(2) Bir çek kroslanmış değilse, çeki elinde bulunduran kişi çeki genel veya özel   olarak kroslayabilir.
+(3) Bir çek genel olarak kroslandığında, çeki elinde bulunduran bu çeki özel olarak kroslayabilir.
+(4)  Bir çek genel veya özel olarak kroslandığında, çeki elinde bulunduran kişi  " ciro edilmez ", kelimelerini ilave edebilir.
+(5) Bir çek özel olarak kroslandığında, kroslamanın yapıldığı bankacı çekin tahsilatı için çeki yeniden başka bir bankacıya özel olarak kroslayabilir.
+(6) Kroslanmamış veya genel olarak kroslanmış bir çek tahsilat için bir bankacıya
+	   gönderildiğinde bankacı çeki  özel olarak kendine kroslayabilir.
+	
+Kroslamanın çekin esasa ilişkin bir kısmı olması.	78.Bu Yasanın yetkilendirdiği bir kroslama,  çekin esasa ilişkin bir kısmını oluşturur; ve herhangi bir kişinin kroslamayı silmesi veya  bir Yasa ile yetkilendirilen dışında, kroslamaya ilave yapması veya kroslamayı değiştirmesi yasal olmaz.
+	
+		
+Bankacının kroslanmış çeklerle 
+İlgili
+görevleri	79. (1)  Bir çek özel olarak, tahsilat için bir bankacı olan bir temsilci hariç, birden fazla   	bankacıya kroslandığında, kroslandığı bankacı ödemeyi reddetmelidir.                                                                                                          (2) Üzerine bu şekilde kroslanmış bir çekin çekildiği bankacı, buna rağmen 	çeki 	öderse, veya bir bankacıdan başkasına genel olarak kroslanmış,  veya 	özel 	olarak kroslanmışsa kroslanmış olduğu bankacı veya bu bankacının 	tahsilat için bankacı olan temsilcisi dışında başkasına kroslanmış bir çeki 	öderse, banka çekin bu şekilde ödenmesinden dolayı çekin gerçek sahibinin 	uğrayacağı herhangi  bir zarar ziyan için çekin gerçek sahibine karşı sorumlu 	olur.                                                              
+      Ancak bir çek ödenme için ibraz edildiğinde, ibraz edildiği zaman çekin kroslanmış olduğu, veya silinmiş olan bir kroslaması bulunduğu, veya bu Yasanın yetkilendirdiği şekilden başka bir şekilde üzerine ilave veya değişiklik yapıldığı görülmediği durumlarda, çeki iyi niyetle ve herhangi bir ihmalde bulunmadan ödeyen bankacı, çekin kroslanmış olması, veya kroslamanın silinmiş olması veya çeke bu Yasanın yetkilendirdiği şekil dışında başka bir şekilde ilave veya değişiklik yapılmış olması, ve hale göre, bir bankacıdan gayrısına veya çekin kroslandığı veya kroslanmış olduğu bankacıdan veya bu bankacının tahsilat için bankacı olan temsilcisinden gayrısına yapılmış olan bir ödeme nedeniyle sorumlu olmaz veya herhangi bir sorumluluk yüklenmez ne de böyle bir ödeme için itirazda bulunulabilir.
+	
+Çekin kroslandığı durumlarda bankacının ve keşidecinin korunması	80.  Üzerine kroslanmış bir çek çekilen bir bankacı, çek genel olarak kroslanmışsa bir bankacıya, ve özel olarak kroslanmışsa, kroslanmış olduğu bankacıya veya bu bankacının tahsilat için bankacı olan temsilcisine iyi niyetle veya  herhangi bir ihmal olmadan ödediği durumlarda, çeki ödeyen banka  ve çek lehtarın eline gelmişse, keşideci, çekin ödenmesi  çekin gerçek sahibine yapılmış gibi ayni haklara sahip olurlar ve ayni durumda bulunurlar.	
+		
+Çeki elinde bulunduran üzerine kroslamanın etkisi	81.Bir kişi, üzerinde " ciro edilmez " (not negotiable) kelimeleri bulunan  bir çek aldığında, çeke, çeki aldığı kişinin çek üzerinde sahip olduğu haktan daha iyi bir hak elde edemeyeceği gibi daha iyi bir hak da veremez.	
+		
+Tahsil eden bankacının korunması	82. (1)  Bir bankacının genel olarak kroslanmış veya özel olarak kendine kroslanmış bir çekle ilgili olarak bir müşterisi  için iyi niyetle ve herhangi bir ihmali olmadan ödeme tahsil ettiği, ve müşterinin çekin sahipliğine hakkı olmadığı veya sahipliğinin sakat (defective) olduğu durumlarda, bankacı, salt böyle bir ödemeyi tahsil etmesi nedeniyle çekin gerçek sahibine karşı herhangi bir sorumluluk  altına girmez.
+(2) Bir bankacının, çekin karşılığını tahsil etmezden önce çek miktarını müşterisinin hesabına alacak olarak kaydetmesine bakılmaksızın, bu madde anlamı bakımından kroslanmış bir çeki müşteri için tahsil etmiş sayılır.
+	
+IV. KISIM
+ÖDEME VAADİ SENETLERİ (PROMISSORY NOTES)
+	
+Ödeme vaadi senedin in (promissory note) tarifi	83. (1) Bir ödeme vaadi senedi, bir kişinin başka bir kişiye  yazılı olarak verdiği  ve veren tarafından imza edilmiş  ve verenin ilk talep üzerine veya belli veya tayini mümkün ileri bir tarihte belirli bir kişiye veya  bu kişinin emrine veya hamiline para olarak belirlenmiş bir miktar ödemeyi taahhüt eden kayıtsız ve şartsız bir vaattir.
+(2)Verenin emrine ödenebilen bir senet şeklinde bir enstrüman, senedi veren tarafından ciro (indorse) edilmedikçe ve edilene kadar bu madde anlamı kapsamında bir senet değildir.
+      (3) Bir senet, ayni zamanda salt satma veya elden çıkarma yetkisi ile bir rehinle birlikte ek teminat içermesi nedeniyle geçersiz olmaz.
+      (4) Görünüşte hem Kıbrıs'ta yapılmış ve hem de Kıbrıs'ta ödenebilen veya hem Kıbrıs'ta yapıldığı ve hem de Kıbrıs' ta ödenebileceği anlamını taşıyan bir senet, dahili bir senettir.  Başka herhangi bir senet harici bir senettir.
+      (5)  Taşınmaz mal ipoteği ile teminat altına alınmış bir senet şeklinde bir enstrüman, bu madde anlamı kapsamında bir senet değildir.
+      (6) Metninde " Bu, Bölüm 262, Poliçeler Yasası kapsamı içinde bir ödeme vaadi senedi değildir” kelimeleri veya benzer etkide kelimeler bulunan bir senet şeklinde bir enstrüman, bu madde anlamı kapsamında bir senet değildir.
+	
+Teslim 
+gereği	84. Bir ödeme vaadi senedi, lehtara veya hamiline teslimi yapılana kadar, eksik ve tamamlanmamış sayılır.
+	
+Müşterek ve münferit senetler	85.  (1)  Bir ödeme vaadi senedi iki veya daha çok kişi tarafından yapılabilir, ve senedi yapanlar senedin koşullarına göre senetten müştereken, veya müştereken ve münferiden sorumlu olabilirler.
+      (2)   Bir senette " Ödemeye vaat ederim " kelimeleri bulunduğunda ve o senet iki veya daha çok kişi tarafından imzalandığında, senedi imzalayanların müşterek ve münferit senedi sayılır.
+	
+İlk talepte ödenebilen senetler	86. (1)  İlk talepte ödenebilen bir senet ciro (indorse) edildiğinde, cirodan sonra makul bir süre içinde ödenme için ibraz edilmelidir. Eğer bu şekilde ibraz edilmezse, ciro eden yükümlülüğünden serbest kalır.
+      (2) Makul bir sürenin ne olduğunun  kararlaştırılmasında senedin niteliği, ticari teamül ve ilgili meselenin olguları dikkate alınır.
+      (3) İlk talepte ödenebilen bir senet ciro edilerek devredildiğinde, ısdarından sonra ödenme için ibraz edilmesinde makul bir zaman geçmiş olduğunun görülmesi nedeniyle, senedi elinde bulunduran kişiyi sahiplik hakkına ilişkin bihaber olduğu sakatlıklarla (defects) etkilemek  amacı bakımından vadesi geçmiş sayılmaz.
+	
+Senedin ödenme için ibrazı	87. (1)  Bir ödeme vaadi senedinin metninde belirtilerek senet belirli bir yerde ödenebilecek bir senet olarak yapıldığında, senedi yapanı sorumlu kılabilmek için senedin belirtilen yerde ödenmeye ibraz edilmesi gerekir. Başka herhangi bir durumda senedi yapanı sorumlu kılabilmek için ödenmeye ibraz gerekli değildir.
+      (2) Bir senedin cirantasını sorumlu kılabilmek için  ödeme için ibraz gereklidir.
+      (3)  Bir senedin metninde belirtilerek senet belirli bir yerde ödenebilecek bir senet olarak yapıldığında, bir cirantayı sorumlu kılabilmek  için senedin belirtilen yerde ibraz edilmesi gereklidir; ancak ödeme yeri sadece bir not ile gösterildiğinde, o yerde ibraz cirantayı sorumlu tutmak için yeterli olur, ancak senedi yapana başka bir yerde ibraz da,  diğer hususlarda yeterli ise, yeterli olur.
+	
+Senedi yapanın sorumluluğu	88. Bir ödeme vaadi senedi yapan kişi, senedi yapmakla :-
+(a) Senedi vadesi ve koşulları uyarınca ödemeyi taahhüt eder
+(b) Senedi, senette mevcut olabilen herhangi bir kusurdan haberi olmadan alarak elinde bulunduran kişiye, lehtarın mevcut olduğunu ve senedi ciro (indorse) ettiği zaman ciro etme ehliyetine sahip olduğunu inkar etmekten  men edilir.	
+		
+II.Kısmın senetlere uygulanması	89. (1) Bu Kısım kurallarına bağlı kalınması koşuluyla ve  bu maddede öngörülenler dışında, bu Yasanın poliçelere ilişkin kuralları, gerekli değişiklikler yapıldıktan sonra ödeme vaadi senetlerine de uygulanır.
+(2) O kuralların uygulanmasında, bir senedi veren kişi poliçeyi kabul eden kişiye tekabül eden kişi sayılır, ve bir senedin ilk cirantası, keşidecinin emrine ödenebilen kabul edilmiş bir po1içenin keşidecisine tekabül eden  kişi sayılır.
+(3) Poliçelerle ilgili aşağıdaki kurallar senetlere uygulanmazlar ;
+(a)  Kabul için ibraz ;
+(b)  Kabul ;
+(c)  Protestodan sonra kabul ;
+(d)  Bir set içindeki  poliçeler.
+      (4) Harici bir senet onore edilmediğinde,  protesto edilmesi gerekmez.
+	
+V. KISIM
+EK KURALLAR
+	
+İyi niyet	90. İhmalkârlıkla veya özen gösterilip gösterilmeden  yapılıp yapılmadığına   bakılmaksızın  aslında  dürüstçe yapılan herhangi bir şey, bu  yasa anlamında iyi niyetle yapılmış sayılır.
+	
+İmza	91. (1) Bu Yasanın, herhangi bir enstrümanın veya yazının bir kişi tarafından imza edilmesini gerektirdiği  durumlarda, imzasını kendi eliyle atması lüzum etmez; ancak onun yetkisi ile veya yetkisi uyarınca imzasının başka bir kişi tarafından enstrümana veya yazıya yazılması  yeterli olur.
+(2) Bir tüzel kişi ile ilgili olarak bu Yasanın herhangi bir enstrümanın veya yazının imza edilmesini gerektirdiği durumlarda, enstrümanın veya yazının tüzel kişinin mührü ile mühürlenmesi yeterli olur.
+     		Ancak, bu maddenin içerdiği hiçbir kural, bir tüzel kişinin poliçesinin veya s   senedinin  mühürlenmesi gerektiği şeklinde yorumlanmaz.
+	
+		
+Zamanın hesaplanması
+Bölüm 123
+10/1959
+34/1959
+9/1960	92.  Bu Yasa ile, herhangi bir işlemi, eylemi veya şeyi yapmak için sınırlanan zaman süresi üç günden az olduğunda, zamanın hesaplanmasında iş günü olmayan günler hesaba katılmaz.
+		" İş günü olmayan gün " bu Yasa amaçları bakımından Banka Tatilleri Yasası uyarınca veya ona dayanarak banka tatili olarak saptanan herhangi bir günü anlatır. Başka herhangi bir gün, iş günüdür.
+	
+		
+Temettü ödemelerinde kroslama   yapılabilmesi	93.  Bu Yasanın kroslanmış çeklerle ilgili kuralları temettü ödenmesi için ısdar edilen enstrümanlara da uygulanır.	
+		
+Zaman 
+aşımı	94.  Bir poliçe veya ödeme vaadi senedi için vade sona erdikten beş yıl sonra dava açılamaz.
+	
+Koruma
+
+
+19/1963
+29/1970
+12/1972
+2/1973
+17/1973
+37/1977
+27/1980
+12/1987
+42/1987
+25/1991
+39/1995
+Bölüm 113
+28/1974
+7/1977
+30/1983
+28/1987
+65/1989
+56/1991
+42/1997	95. (1)Bu Yasanın içerdiği herhangi bir kurala bakılmaksızın poliçelere, ödeme vaadi senetlerine ve çeklere iflas kurallarının poliçelere, ödeme vaadi senetlerine ve çeklere ilişkin hükümleri uygulanır.
+(2)   Bu Yasanın, veya bu Yasanın etkilediği herhangi bir kaldırılmış yasanın içerdiği hiçbir kural, aşağıdakileri etkilemez :-
+(a) Pul Yasasının, veya Pul Yasasında değişiklik yapan Yasaların veya  gelirlerle ilgili olarak halen yürürlükte olan herhangi bir Yasanın veya mevzuatın kurallarını ;
+(b) Şirketler Yasasının veya Şirketler Yasasında değişiklik yapan Yasaların veya şirketlerle ilgili herhangi bir yasanın kurallarını.
+(3) Bu Yasanın içerdiği kurallar, bu Yasa yürürlüğe girmeden önce çıkarılan poliçe, ödeme vaadi senetlerine  veya çeklere uygulanmaz.
+	
+		
+Geçici Madde Güvenli Elektronik Ortamda Yapılması Gereken Bildirimler ile İlgili Kurallar
+21/2013
+	1. Bu (Değişiklik) Yasası uyarınca güvenli elektronik ortamda yapılması gereken bildirimler, bu (Değişiklik) Yasasının yürürlüğe girdiği tarihten  itibaren her hal ve şartta 4 (dört) ayı geçmemek kaydıyla, güvenli elektronik ortam oluşturuluncaya kadar Kuzey Kıbrıs Türk  Cumhuriyeti Merkez Bankası tarafından belirlenecek bir yöntemle yapılır.	
+Geçici Madde
+ETİ Teşebbüsleri Ltd’in Yetkilileri ile İlgili Kural
+21/2013	2. 31 Mart 2013 tarihinden itibaren faaliyetleri sonlanan ETİ Teşebbüsleri Ltd.’in yetkilileri, bu (Değişiklik) Yasasının 74’üncü maddesinin (4)’üncü fıkrasında belirtilen çek yasağına girmekten 3 (üç) yıl süre ile muaf tutulur.	
+		
+	BİRİNCİ CETVEL
+(51. Madde)	
+Poliçe ve başka evrakın protestosu	l. Protesto edilecek olan poliçenin veya başka evrakın ve protestonun yapıldığı zaman üzerinde  bulunan tüm kayıt ve ciroların aslına uygun ve tam bir sureti, bu suretin alt kısmına yazılı ve ilgili poliçenin veya başka evrakın protesto edildiğini ve protesto nedenlerini beyan eden  bir beyanname ile birlikte (bu suret ile beyannameden bundan böyle "protesto belgesi " olarak söz edilir) kanunen bu gibi poliçenin veya evrakın protesto edilmesi gereken ilçenin Kaza Mahkemesi Mukayyidine sunulur.
+	
+Protestonun kaydedilmesi	2. Mukayyit, kendisine herhangi bir protesto belgesinin sunulması üzerine protesto belgesinin kendisine sunulduğu tarihi belgenin üzerine not eder ve bu notu imzalar, ve protesto belgesini bir Mahkeme kaydı olarak muhafaza eder.	
+Protestoların harçları	*3.Her protesto belgesi üzerinde yüz elli mil değerinde damga pulu bulunur; ve kullanılacak pul veya pulların hangi birimlerde olacağı, pullamanın soğuk mühürle mi yoksa yapıştırılarak mı yapılacağı Bakanlar Kurulunun zaman zaman vereceği direktife göre düzenlenebilir; ve böyle bir direktifte bulunulmaması veya direktif verilene kadar bu paragraf amaçları bakımından yapışkanlı damga pulu kullanılır.
+    Mukayyit, üzerinde saptamış pul bulunmayan bir protesto belgesini kabul etmez.
+	
+Suretler v.s. için harçlar	4. Herhangi bir Mahkemenin protesto belgesi sureti  vermesi ve suretlerin asıllarına uygun olduklarının tasdik edilmesi için herhangi bir davadaki yargı işlemleri dosyası suretlerinin verilmesi ve yargı işlemleri dosyası suretlerinin asıllarına uygun  olduklarının  tasdiki için halen alınması öngörülen harçların aynisi alınır, ve bu şekilde alınan her harç, böyle bir yargı işlemi dosyasının bir sureti ile ilgili olarak alınmış gibi ayni şekilde alınır, uygulanır ve elden çıkarılır.	
+İKİNCİ CETVEL
+(51. madde)
+	
+ADEMİ KABUL PROTESTO FORMU
+(Protesto edilen evrakı üzerindeki tüm kayıt ve cirolarla birlikte yazınız.)	
+Yukarıda bir sureti yazılmış olan enstrüman, kabul için usulüne uygun olarak adı geçen A.B.’ye sunulmuş olduğu halde, A.B. enstrümanı kabul etmekten aciz olduğu veya kabul ettiğine dair imzasını koymayı reddettiği cihetle, söz konusu senet işbu belge ile protesto edilir.
+……………………………………………. Tarihinde bana sunuldu.
+                                                                      (İmza)………………………………………...
+Pul                                                       ………………………Kaza Mahkemesi Mukayyidi
+*150 Mil.                                                       	
+PROTESTO TUTARINI ÖDEMEKLE YÜKÜMLÜ KİŞİ BULUNMADIĞINDA PROTESTO FORMU	
+(Protesto edilen evrakı üzerindeki tüm kayıt ve cirolarla birlikte yazınız.)	
+Yukarıda bir sureti yazılmış olan enstrüman ödenmesi için usulüne uygun olarak adı geçen A.B.’ye sunulmuş olduğu halde, A.B.yok olduğu için söz konusu enstrüman işbu belge ile protesto edilir.
+………………………………………….. Tarihinde bana sunuldu.
+                                                                     (İmza)………………………………………...
+Pul                                                                ……………Kaza Mahkemesi Mukayyidi.
+150 Mil.                                                       Mukayyidi.	
+POLİÇE TUTARINI ÖDEMEKLE YÜKÜMLÜ KİŞİNİN MEVCUT OLDUĞU DURUMLARDA ADEMİ TEDİYE İÇİN PROTESTO FORMU.
+(Protesto edilen senedi üzerindeki tüm kayıt ve cirolarla birlikte yazınız.)	
+Yukarıda bir sureti yazılmış olan enstrüman, tediye için usulüne uygun olarak adı geçen A.B.’ye sunulmuş olduğu; ve anılan  A.B. mevcut olduğu halde …………………………………………. nedeniyle (bilinmekte ise nedenleri yazınız) enstrümanı ödemeyi reddettiği cihetle söz konusu enstrüman işbu belge ile protesto edilir.
+………………………………………….. Tarihinde bana sunuldu.
+                                                                     (İmza)………………………………………...
+Pul                                                      ………………………Kaza Mahkemesi Mukayyidi
+*150 Mil. 	
+
+
+20/2010
+
+ÜÇÜNCÜ CETVEL
+(MADDE 74Ç)
+
+KUZEY KIBRIS TÜRK CUMHURİYETİ
+MERKEZ BANKASINDAN DUYURU
+
+
+Sıra No:			Çek Kullanmaktan Men Edilen Kişinin		Çek Hesabı
+                            Adı Soyadı, Adresi, Mesleği ve Diğer Bilgiler             Kullanmaktan 								       Men Edildiğinin Başladığı 								Tarih
+
+
+
+Yukarıda ismi/isimleri yazılı kişilere isimlerinin karşısında gösterildiği tarihten başlayarak bir
+yıl süre ile çek karnesi verilemez ve çekle işleyen hesap açılamaz.
+
+

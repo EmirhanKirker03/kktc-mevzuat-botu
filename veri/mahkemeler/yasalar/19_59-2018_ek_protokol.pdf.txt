@@ -1,0 +1,147 @@
+
+
+J
+j
+A
+r v ^ ı
+4
+I
+t^ > .
+*
+i
+ı
+%
+I
+'  «
+TÜRKİYE O IM SD SİY E T İ H Ü K Ü M ETİ İLE KUZEY KIBRIS TÜRK 
+c u m h u r îy e tİ h ü k ü m e t! ARASINLA POSTA SÜREÇLERİNCE KDUANİLAN 
+VE OFİLİNE OLARAK ÇALIŞAN YAZILIMIN ONLINE YAHYA GEÇİBÎLMKSİ, 
+PTTM A m  CİHAZI .ARİ KUROLÜMO İŞLERİNİN YtTRÜTÜLMESİNE VE 
+ELEKTRONİK HİKMETIERİN GEXİŞTİ8İUVÎESÎNE İlİŞKİN PROTOKOL
+f&ızey Kıbrıs Türk Oyn^upyeti (KKTC) Posta İdaresinin posta, on-lme havale ve elektronik 
+'  hizmetlerin  gdışrinltiişime  yönelik  olarak  16-17  Ağustos  2016  tarihlerinde  Ankara’da 
+,  yapılan toplantıda, İrer -İki ödke arasındaki mevcut hizmetler güzden geçirilmiş ve bu alanlarda 
+•  işbirliğinin  daha  da'^çlepdirilmesi  teyit  edilerek posta  süreçlerinde kullanılan ve  ofBine 
+olarak çalışan ymlımmpatjne yapıya geçirilmesi, PTT Malik cihazlarının kunılumunun yam 
+[,  stra aşağıda belirtilen kcarnisirda anlaşmaya varılmıştır. . :
+l KKTC  POSTA  İDARESİNİN  POSTA  SÜREÇLERİNDE  BXIIXAN3LAÎÎ  VE 
+O m ÎN E  OLARAK ÇALIDAN YAZÎLIİJÇNIN' ONIİNE YAHYA GEÇİŞSİ^jİsS
+1.  Posta süreçlerinde mevcutta ofîline  olarak  çalışan  ytoltriım oıdiiıe  yapıya geçiriLmesi 
+sürecinde  analiz  çalışmaları,  PTT  ve  KKTC  Posta  İdaresi  tarafindan  ortak  olarak 
+yürütülecektir. -
+2. Online yapıya geçirilmesine dair yapılacak tüm veri tabam tasarımı ve kodlama çalışmaları 
+PTT tarafından yapılacaktır.
+3.  Online  yapıya  geçilmesi  analiz,  kabul  modülü,  sevk  modülü,  dağıtım teslim  modülü, 
+raporlama modülü olmak üzere beş kısımdan oluşacaktır.     -
+A  Online  sisteme  geçiş  sonrası  oluşabilecek  sorunlarda  destek  hizmeti  PTT  taralından
+sağlanacaktır.  Online sistemin 7/24 saat kesintisiz 
+her türlü tedbiri almaktan PTT sorumludur.
+germesinin  sağlanmasına yönelik
+
+<y
+5. Online sisteme geçiş sonrası ilerde oluşabilecek tanımlama ihtiyaç]an (kullanıcı tanunîsma, 
+şifre  güncelleme,  yetkilendirme vb.) PTT t arsandan  sağlanacak altyapı  aracılığıyla KKTC 
+"Tosta İdaresi tarafından yerine getirüacsktîr
+Ğ. Online sistemde kullanılacak olan kodlama standartları, iog planları ve raporlamalar KKTC 
+Posta idaresi ihtiyaçları doğrultusunda PTT tarafından belirlenecek ve uygulanacaktır,
+7. Online sistemde yazılım dili olarak JAVA kullanılacaktır.
+8. Online sistem KKTC Posta İdaresindeki tüm. kullanıcıların aynı anda erişebileceği şekilde 
+tasarlanacak  ohrp  ileride  oluşabilecek  kullanıcı  ve  işlem  artışı  durumlarına  karşın  gerekli 
+altyapı PTT tarafından hazırlanacaktır.
+9. Online sistem KKTC Posta İdaresinin tura süreçlerini kapsayacak şekilde tasarlanacak ve 
+kodlanacak olup ofEine olarak yürütülmesi gereken hiçbir işleme gerek olmayacakta1.
+E. FTTMAÎTK CİHAZLARIMIN KUHÜLUMU
+rf .   . . .
+1.  PTT ve KKTC Posta İdaresi tarafından belirlenecek yerleşim yerlerine  10  adet Pttaatık
+cihaz kumlumu yapılacaktır. Gerektiğinde ilave cihaz kurulumu yapılabilecektir.
+.  ‘2.  Pîtmatik cihazları PTT tarafindan tedarik  edilecek olup,  söz konusu  cihazlara! kurulum, 
+ç-  montaj  işlemleri  (Kabin,  Klima  Donu:  Kamara,  KOK,  altyapı  temel  kazılması,  duvar 
+kırılması, iş yeri ön  cephe  çalışması,  blokaj döşenmesi,  elektrik, telefon,  data. battı, montaj 
+‘ vs.) KKTC Posta İdaresi tarafından yerine getirilecektir.
+İ ^ *
+3. Pttmatik cihazların hizmete verileceği yerlerde klima,  KGK ve kamera sistemi  olmalıdır.
+Söz konusu sistemler yok ise KKTC Posta İdaresi tarafından tedarik edilecektir.
+I * '
+4. PtfanatikTerm yer değişikliğmuı gerektiği durumlarda cihazlann haSar görmeyecek şekilde 
+güvenli bir şekilde nakliye işlemlerinin gerçekleştirilmesi PTT somnduluğanda olacaktır. Bu 
+yer  değiştirme  nedeniyle  2.  Maddede  belirtilen  hmıhım  çalışmaları  KKTC  Posta  İdaresi 
+tarafından yerine getirilecektir.
+5. Pttmatik cihazlarının bakım ve onanm bedelleri PTT tarafindan karşılım ocakta
+6.  Pttmatik  cihazlarının  kurulumu  yapılacak  yerin  varsa  kira  bedeli  ile  elektrik,  data  hat 
+masraf]an KKTC Posta İdaresi tarafindan karşılanacaktır.
+7. Pttmatik cihazlan ile bakım, onanm ve işletilmesine ilişkin ihtiyaç duyulan tüm donanıra 
+ve  teçhizatlar,  KKTC'ye  nakiİyesi  sırasında  ilgili  mmTzuk  uyarınca  doğabilecek  gümrük 
+©derleri vb. vergilerden muaf tutulacaktır.
+Sedat BELTâöt / ___ stiştâ'
+" ------------rrrf—
+\4\
+
+S.  Pttraarik  cihazlarının  İşletimi,  para  yükleme,  gün  sonu  işlemleri  PTT  t andından 
+^lanacaktifHPltmatikTerin 7/24 saâtkesintisiz MzmeryenneBhîig^agÎBflmasına yönelik her 
+türîü tedbiri almaktan PTT sorumludur.    ,
+9. PttmatöcTerin gerçekleştirileli komisyondu işlemler ve elde edilen gelider aylık olarak PTT 
+tarafından hesaplanarak KKTC Posta İdaresine yazılı olarak bUdrrile çektir Gelirin paylaşımı 
+üri ülke Posta İdareleri tarafından yan .yarıya eşit oranda (%50-%50) olacaktır,
+10.  Para ikmal, gün sonu işlemleri, anza müdahale vb. işlemler ile 1. Seviye bakım işlemleri
+PTT personeli  tarafından yeripe getirilecektir. Pttaatik para ikmal,  gün  sonu  ve  1.  Seviye 
+balom hizmetleri,  amaya müdahale vb. işlemler için Kıbrıs Posta İdaresi tarafından asgari  1 
+adet araç tahsis edilecektir.   . . .    .   ■
+m  POSTA M ADBELESÇİE AİT MîO İM L E H
+3. ülkeler varışlı gönderilerin kabulünde KP APG'de yer alan ülkeler bazında teslim sürelerinin 
+IgKTC'ye ait kabul ekranında da görülmesi sağlanacaktır. . .
+IV. ELEKTRONİK H2M ETLERÎN G EÎİŞTTSİIM ESİ
+f   1.  Türkiye  sınırlan  İçerisinde  hizmet  vermekte  olan  PTT  A.Ş.  sanal  alışveriş  sitesi 
+epttâm oojn  Ue  iigîü  olarak  teknik  alt  yapı  ve  işletmese!  çalışmalar  başlatılacak ve  sö2- 
+konosu çalışmaların tamamlanmâsmm ardından KJLT.C.'de de aktif hale getirilecektir .
+2. KKTC’de birleşik postanın (hybrid mallj geliştirilmesi Jconuşada alışm alar yapılacaktır. 
+KKTC’de bulunan  ve  çok sayıda  gönderi  potansiyeline  sahip  hârika,  GSM operatörü gibi  - 
+konun,  kuruluş  ve  firmalara ait gönderiler,  Mersin  Baskı  Merkezinde basılarak KKTCye 
+seıdc edilecek olup bu kapsamda; .
+-   KKTC  Posta  İdaresi  tarafından  gönderi  potansiyeline  sahip  firmaların  tespit 
+edilecek,
+•  Firmalara ait Baskı  dalası gönderimi ve gönderi dizayn çalışmaları işlemleri için 
+söz konusu  firmalar ile iletişime geçilerek firmalar ve  Birleşik Posta Müdürlüğü  arasında 
+gerekli koordinasyon sağlanacak, '
+-  Aynca KKTC vatandaşlarının Mektup  Sepeti 
+KKTC Posta İdaresi tarafinrbn gerekli tanıtımlar yapj
+Sedat BELTAN 
+^     Mermi?
+filden faydalanabilmesi için
+Sf  < ¿ 3  ya
+XLXKP£)}tâi
+BELGENİN ASLÎ
+S!
+\ e
+
+I  o
+ptt
+V. DİĞER HÜKÜMLER
+Bu Protokol 18/10/2016 tarihinde Lefkoşa’da Türkçe olârak 2 nüsha halinde imzalanmış olup 
+2  nüsha  da  aynı  düzeyde  geçerfidir,  İşba  Protokol,  Tarafların,  anılan  belgenin  yürürlüğe 
+girmesi  için  gerekli  iç  yasal  usullerin  tamamlandığını  birbirlerine  diplomatik  yollarla 
+bildirdikleri sem yazdı büdlrirain alındığı tarihte yürürlüğe girecektir.
+İşbu  Protokol  yürürlüğe  giriş  tarihinden  itibaren  1  yıl  şiire  ile  yürürlükte  kalır  ve  sona 
+enirnknediği müddetçe birbirini izleyen F er yıllık süreler halinde otomatik olarak yenilenir. 
+Taraflardan her biri  işbu ProtokoPü  sona  erdirme niyetini  diğer tarafa  diplomatik yollarla 
+yazılı olarak herhangi bir zamanda bildirebilir.' Bu dununda, işbu Protokol, yazıl: bildirimin 
+alındığı tarihten 3 ây sonra som erdirilmiş olacaktır.  '  .  '
+İşbu Protokol tarafların karşılıklı yazılı nzaîartyla her zaman değiştirilebilir. Değişiklikler, bu 
+maddenin ilk paragrafında öngörülen usule uygun şekilde yürürlüğe girer.
+İşbu  protokolün  uygulanmasından  veya  yorumlanmasından  doğan  uyuşmazlıklar  taraflar 
+araşiüda  diplomatik  kanallar  arâcılığıyia  yapılacak  istişareler  ve  müzakereler  yoluyla 
+çözülecektir. ‘ '
+TÜBKİyE CUMHURİYETİ 
+HÜKÜMETİ AD3NA
+KUZEY KIBRIS TÜSICÇÜMHURîYETİ 
+.    HÜKÜMETİ ADINA
+Ahmet ARSLAN 
+Ulaştırma, Denizcilik ve 
+Haberleşme Bakam
+Kemal DÜRÜST
+Sedat BELTAN
+Memur
+4*2)-
+Bayındırlık ve Ulaştırm a B a îg p l^
+W  < S >    V
+BELGEflltlA3II [¿fi
+V

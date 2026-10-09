@@ -1,0 +1,3654 @@
+
+
+-,"-":: .~~- --,- i
+~
+CAP. 5. .
+~
+CYPRUS
+-
+BANKRUPTCY
+CHAPTER 5 OF THE LA WS
+1959 EDITION
+8'
+PRINTED BY
+C. F. ROWORTH LIMITED, 54, GRAFTON WAV, LONDON, W.l
+[A ppmmed by the Government of Cyprus the Government Printerslof this Edition
+of Laws within the meaning of the Evidence (Colonial Statutes) Act, 1907.]
+1959
+
+D "'~UD"D'Trv ",. D .1 1
+BANKRUPTCY. [CAP. 5. 1 i
+;  ,
+.
+CHAPTER 5. ~
+BANKRUPTCY.
+ARRANGEMENT OF SECTIONS.
+Section Page
+..1 Short title 4
+.2 Interpretation 4
+PART I.
+PROCEEDINGS FROM ACT OF BANKRUPTCY TO DISCHARGE
+3 What constitutes an acý of bankruptcy 5
+Receiving Order
+4 ]urisdiction to make receiving order 7
+5 Conditions on which creditor may petition 7
+6 Proceedings and order on creditor's petition 8
+7 Creditor's petition cannot be withdrawn 9
+8 Debtor's petition 9
+9 Effect of receiving order 0.0 ..0 9
+10 Power to appoint interim receiver 10
+11 Power to stay pending proceedings 10
+12 Power to appoint special manager 10
+13 Advertisement of receiving order 11
+Proceedings Consequent on Order
+14 First and other meetings of creditors o.. 11
+15 Debtor's statement of affairs 11
+Public Examination of Debtor
+16 Public examination of debtor 12
+Composition of Scheme of Arrangement
+17 Compositions and schemes of arrangements 13
+18 Effect of composition or scheme 16
+Adjudication of Bankruptcy
+19 AdjudicatioIl; of bankruptey where composition not accepted or
+approved 16
+20 Appointment of trustee 16
+21 Committee of inspection 17
+22 Power to accept composition or scheme af ter bankruptcy adjudication 19
+8 Controlover Person and Property of Debtor
+23 Duties of debtor as to discovery and realisation of property ...19
+24 Arrest of debtor under certain circumstances 20
+25 Re-direction of debtor's letters, ete. 21
+26 Inquiry as to debtor's conduct, dealings and property 22
+27 Discharge of bankrupt 23
+28 Procedure on failure of bankrupt to apply for discharge ...26
+29 Duties of discharged bankrupt 26
+30 Effect of order of discharge 26
+31 Power for Court to annul adjudication in certain cases ...27
+PART II.
+DISQUALIFICATIONS OF BANKRUPT
+32 Disqualifications of undischarged bankrupt 28
+33 Office vacated by bankruptey of holder thereof 28
+
+2 CAP. 5.] BANKRUPTCYol
+ý PART III. .
+~ ADMINISTRATION OF PROPERTY
+~~ P"ovable Debts
+Section Page
+34 Description of debts provable in bankruptcy 28
+35 Mutua! credit and set off 29
+App"op,.iation of Assets
+36 Payment ofpreliminary expenses 30
+37 Rulesastoproofofdebts 30
+38 Priority ofdebts 000 ...31
+39 Postponement of husband's and wife's claims 32
+P"operly Available fO1' Payment of Debts 8
+40 Relation back of trustee's title 32
+41 Description of bankrupt's property divisible amongst creditors ...33
+42 Property not divisable amongst creditors 33
+43 Provisions as to second bankruptcy and dea!ings with persons
+adjudged bankrupts 34
+Effect of Bank"uptcy on Antecedent T"ansactions
+44 Restriction of rights of creditors under execution or attachment ...35
+45 Duties of sheriff as to goods taken in execution 36
+46 Avoidance of certain settlements 37
+47 Avoidance ofpreferences in certain cases 38
+48 Protection of bana Ifde transactions without notice 38
+Realization of P"ope"ty
+49 Vesting and transfer of property 39
+50 Possession of property by trustee 39
+51 Seizure of the property of bankrupt 40
+52 Appropriation of portian of pay or salary to creditors 40
+53 Disclaimer of onerous property 41
+54 Powers of trustee to dea! with property 43
+55 Powers exercisable by trustee with permission of committ~ of
+inspection... 44
+56 Right of trustee to inspect goods pawned, etc. 45
+57 Protection of officia! receivers and trustees from personal liability in
+certain cases 45
+Dist"ibution of P"OPe1'ty
+58 Declaration and distribution of dividends 45
+59 Joint and separate dividends 46
+60 Provision for creditors residing at a  distance, etc. 46
+61 Right of creditor who has not proved debt before declaration of a
+dividend 47
+62 Interest on debts '" 47
+63 Final dividend 47
+64 No action for dividend ,. 47
+65 Power to allow bankrupt to manage property 48
+66 Right of bankrupt to surplus 48
+8PART ýv.
+OFFICIAL RECEIVERS
+67 Appointment by Governor of officia! receivers of debtor's estates ...48
+68 Status of officia! receiver 49
+69 Duties of officia! receiver as regards the debtor's conduct ...49
+70 Duties of officia! receiver as regards debtor's estate 49
+PART V.
+TRUSTEES IN BANKRUPTCY
+71 Officia! name of trustee 50
+72 Power to appoint joint or successive trustees 51
+73 Proceedings in case of vacancy in office of trustee 51
+74 Discretionary powers of trustee and control thereof 51
+75 Appeal to Court against trustee 52~
+
+BANKRUPTCY. [CAP. 5. 3 i
+.
+--
+Section Page.
+76 Officia! rec~iver to inquire inm the conduct of the trustee o.. 52
+r77 Remuneratýon of trustee 000 0'0 o.. 00. 52
+78 Al1owance and taxation of costs 000 ...00. 53
+79 Trustee not to pay money into private account o o. o.. 54
+80 Accounts oftrusteeo Payments 0.0 000 o" 54
+8l Returns of accounts to officia! receiver .0 o o o o o.. 54
+82 Release of trustee 000 0'0 0.0 000 55
+83 Power of the Court to grant or withhold release of trustee o ..55
+84 Effect of release of trustee o .o 55
+85 Trustee becoming bankrupt .0. 000 '00 56
+86 Creditors may remove trustee 0.0 000 000 56
+PART VIo
+8 JURISDICTION, PROCEDURE AND POWERS OF,COURTo
+87 J urisdiction to be exercised by District Courts o ..o ..56
+88 Petition where to be presented 000 0.0 0'0 56
+89 Case stated for the opinion of the Supreme Court 000 000 57
+90 General powers and jurisdiction of Courts in bankruptcy o o o 57
+9l Courts of bankruptcy in Cyprus to be auxiliary to other British Courts
+of Bankruptcy 000 000 000 000 57
+92 Appeal 000 000 o.. 000 000 58
+93 Discretionary powers of the Court ..o o o o O' o 58
+94 Consolidation of petitions 000 00. 000 000 58
+95 Power to change carriage of proceedings 00' 00' 58
+96 Continuance of proceedings on death of debtor 000 000 59
+97 Power to stay proceedings 000 000 0.0 59
+98 Power to present petition against one partner 000 000 59
+99 Actions by trustee and bankrupt's partners 000 000 59
+ýoo Proceeding in partnership name ...000 '000 59
+ýoý Actionsonjointcontractsooo "0 00. 0.0 59
+102 Formal defect not to invalidate proceedings 000 000 60
+l03 Summary administration in smaIl cases ..0 0'0 000 60
+,   PART Vii.
+SUPPLEMENTAL PROVISIONS.
+l04 Exclusion of partnership and companies 000 o.. 60
+l05 Application to limited partnerships o. o ...o o o 60
+l06 Who ýnay be adjudged bankrupt ..0 000 000 6l
+l07 Administration in bankruptcy of estate of person dying insolvent o o o 6l
+l08 Power to make general rules 00. 0.0 000 62
+l09 Fees, charges, etc., of officia! receiver 000 000 000 62
+ýýo Gazette to be evidence 000 000 000 000 63
+III Evidence of proceedings at meetings of creditors o o o o o. 63
+ll2 Evidence of proceedings in bankruptcy 000 .00 000 63
+113 Swearing of affidavits o.. '00 0.0 000 64
+114 Death of debtor or wituess 000 0.0 0.0 64
+115 Disposa! of unclaimed funds or dividends 000 000 64
+116 Punishment of fraudulent debtors o o o o o o o o o 64
+117 Undischarged bankrupts obtaining credit 0.0 000 67
+8118 Frauds by bankrupts 0.0 000 000 000 68
+119 Punishment of persons removing, etco, property of bankrupt .o o 68
+l20 Fa1se claims, declarations, etco, against bankrupt o.. 000 68
+l2l Punishment of trustee for concealment, etc., of affairs of bankiupt o o o 69
+l22 Bankrupt failing to keep proper accorints o. .o o. 69
+l23 Bankrupt guilty of gambling, etc. o .o o .o o o o 70
+l24 Bankrupt absconding with property .o o o. o o o o 7l
+l25 Prosecution of offences 0'0 000 000 000 7l
+l26 Criminalliabi1ity after discharge or composition .,.0 000 7l
+SCÝiEDULEso
+FIRST SCHEDULEo
+MEETINGS OF CREDITORSo
+SECOND SCHEDULEo
+PROOF OF DEBTSo
+
+4 CAP.5.]. BANKRUPTCY, ,~-- i
+To AMEND AND CONSOLIDATE THE LAW OF BANKRUPTCY.
+r1949 Cap. 6. [1st ]  anuary, 1931.].
+Short title. 1. This Law may be cited as the Bankruptcy Law.
+I~terpreta. 2 In this Law-
+týon. .
+tt available act of bankruptcy" means any act of
+bankruptcy available for a  bankruptcy petition at the
+date of the presentation of the petition on which the
+8receiving order is made ;
+tt the Court "  means the Court having jurisdiction in
+bankruptcy under this Law;
+tt debt provablein bankruptcy "  or tt provable debt "
+includes any debt or liability by this Law made
+provable in bankruptcy ;
+tt gazetied" means published in the Gazette;
+tt general rules "  ÝncIlide forms ;
+tt goods "  ÝncIlide all chattels personal and movable
+property ;
+tt ordinary resolution" means aresolution decided
+by a  majority in value of the creditors present, person-
+ally or by proxy, at a  meeting of creditors and voting
+on the resolution;
+tt prescribed" means prescribed by general rules
+within the meaning of this Law;
+tt property "  includes money, goods, things in action,
+land, and every description of property whether
+movable or immovable, and whether situate in Cyprus
+or elsewhere; also, obligations, easements, and every
+description of estate, interest and profit, present or
+future, vested or contingent~ arising out of or incident
+to property as above defýned ;
+tt resolutian "  means ordinary resolution; a
+tt secured creditor" means a person holding a .
+mortgage, pledge, charge or lien on the property of the
+debtor, or any part thereof, as a  security for a debt
+dile to him from the debtor ;
+t t sheriff " includes any offiter charged with the
+execution of a  writ or other process; .
+tt special resolutian "  means aresolution decided by
+a majority in number and three-fourths in value of
+the creditors present, personally or by proxy, at a
+meeting of creditors and voting on the resolution;
+
+BANKRUPTCY. [CAP. 5. 5 i
+r "-
+ii  tnýstee" means the tnýstee in bankruptey of a
+rdebtor's estate.
+PART I.
+PROCEEDINGS FROM ACT OF BANKRUPTCY TO DýSCHARGE.
+3. (1) A debtor commits an act of bankruptey in each of Wha
+ti~
+t  t.cons u es
+the followýng cases:- an acý of
+(a) if  in Cyprus or elsewhere he makes a conveyance or bankru~tcy.
+8 assignment of his property to any person for the
+benefit of his creditors generally ;
+(b) if in Cypnýs or elsewhere he makes a fraudulent
+conveyance, gift, delivery or transfer of his
+property or of any part thereof ;
+(C) if  in Cypnýs or elsewhere he makes any conveyance
+or transfer of his property or any part thereof,
+or creates any charge thereon, which would
+under this or any other Law be void as a
+fraudulent preference if he were adjudged
+banknýpt ;
+(d) if with intent to defeat or detay his creditors he
+does any of the following things, namely-
+(i) departs or makes preparation for departing,
+out of Cypnýs, or being out of Cypnýs, remains
+out of Cypnýs; or
+(ii) departs from his dwelling house or other-
+wise absents himseli; or
+(iii) begins to keep house;
+(e) if  execution against him has been levied by seizure
+of his goods under process in action in any Court,
+and the goods seized have either been sold or
+held by the sheriff tor twenty-one days, provided
+that, where an interpleader application has been
+8 made in regard to the goods seized, the time
+elapsing between the date at which such applica-
+tion has been made and the date at which the
+proceedings on such application are finally
+disposed of, settled, or abandoned, shall not be
+taken into account in calculating 'such period
+of twenty-one days ;
+(f) if  he files in the Court a  declaration of his inability
+to pay his debts or presents a bankruptey
+petition against himself ;
+(g) if  a  creditor has obtained a  final judgment or final
+
+6 CA,P. 5.] BANKRUPTCY. i
+~
+order. against him for any amount., and, execu- -
+tion thereon not having beenstayed, has served
+ron him in Cyprus, or, by leave of the Court,
+elsewhere, a  bank~p~cy notice under this La.w,
+and he does not, wýthin seven days af ter servýce
+of the notice, in case the service is effected in
+Cyprus, and in cage the service is effected else- i
+where, then within the time limited in that
+behalf by the order giving leave to effect the
+service, either comply with the requirements of A
+the notice or satisfy the Courf that he has a ..
+counterclaim, set-off or cross demand which
+equals or exceeds the amount of the judgment
+debt or sum ordered to be paid, and which he
+could not set up in the action in which the
+judgment was obtained, or the proceedings in
+which the order was obtained.
+For the purpose of this section any person who
+is, for the time being entitled, to enforce a final
+judgment or final order, shall be deemed to be
+a creditor who has obtained a final judgment or
+final order;
+(h) it  being indebted to a  creditor in virtue of a  debt
+provable in bankruptcy, he fai1s to pay, or
+secure, or coÝnpound for, such debt, within such
+time as shall be allowed by an order made by the
+Court upon the application of the creditor,
+provided always no such appIication shall be
+entertained by the Court, unless a  bankruptcy
+notice, req Iliring payment of such debt, has
+first been served upon him, and he has had
+notice of such appIication and has been called
+upon to show cause against the same ;
+(i) if  he has admitted to any of his creditors that he is
+unable to meet his engagements or that he has 8
+suspended or is about to suspend the payment of
+his debts.
+(2) In this Law, the expression tt a  debtor," unless the
+context otherwise implies, includes any person, who at the
+time when any act of bankruptcy waS done or suffered by
+him-
+(a) was personally present in Cyprus ;  or
+(b) ordinarily resided or had a  place of residence in
+Cyprus; or
+--
+
+", BANKRUPTCY. [CAP. 5. 7 i
+.
+-
+(c) was carrying on business in Cyprns, personally, or -
+by means of an agent or manager; or
+~(d) was a. member Ü;f a ~rm or partnership which
+carned on bu~ýness ýn Cyprns.
+(3) A bankrnptcy notice under this Law shall be in the
+prescribed form, and shall require the debtor to pay the
+judgment debi or sum ordered to be paid in accordance with
+the terms of the judgment or order, or to secure or com-
+8pound for it to the satisfaction of the creditor or the Court,
+.and" shall state the consequences of non-compIiance with
+t.he notice, and shall be served in the presoribed manýýer :
+Provided that a  bankrnptcy notice-
+(a) may specify an agent to act on behalf of the
+creditor in respect of any payment or other thing
+required by the notice to be made to, or done to
+the satisfaction of, the creditor ;
+(b) shall not be invalidated by reason only that "the
+sum specifýed in the notice as the amount due
+exceeds the amount actually due, unless the
+debtor within the time allowed for payment
+gives notice to the creditor that he disputes the
+validity of the notice on the ground of such
+misstatement ;  bui, if  the debtor does not give
+such notice, he shall be deemed to have compIied
+with the bankrnptcy notice if within the time
+allowed he takes such steps as would have
+constituted a compliance with the notice had
+the actual amount due been correctly specifýed
+therein.
+Receiving Order.
+..
+4. Subject to the conclitiofis hereinafter specifýed, if a jurisdiction
+-debtor commits an act of bankrnptcy the Court may, on a  to ~a.ke
+..bankrnptcy petition being presented either by a  creditor or ~~~e;lng
+by the debtor, make an order. in this Law called tt a
+receiving order," for the protection of the debtor's estate.
+5. (1) A creditor shall not be entitled to preseni a bank- Condi~ons
+rnptcy petition against a  debtor unless- ~:ed'Tt~~~y
+(a) the debi owing by the debtor to the petitioning petition.
+creditor, or, iftwo or more creditors join in the
+petition, the aggregate amount of debts owing
+to the several petitioning cteditors amounts to
+fýfty polinds, and
+c_-"-
+
+8 GAP, 5] BANKRUPTCY. i
+.
+(b) the debt is a liquidated sum, payable either
+rj immediately or at some certain future time, and
+(C) the act of bankruptcy on which the petition is
+grounded has occurred within three months
+before the presentation of the petition, and
+(d) the debtor is domiciled in Cyprus or, within a  year
+before the date of the presentation of the
+petition, has ordinarily resided or had a dwelling
+house or place of business in Cyprus or has
+carried on business in Cyprus, personally, or by 8
+means of an agent or manager, or is or within
+the said period has been a  member of a  firm or
+partnership of persons which has carried on
+business in Cyprus by means of a partner or
+partners or an agent or manager.
+(2) If the petitioning creditor is a  secured creditor, he
+must, in his petition, either state that he is willing to give
+up his security for the benefit of the creditors in the event of
+the debtor being adjudged bankrupt, or give an estimate of
+the value of his security. In the latter cage he may be
+admitted as a petitioning creditor to the extent of the
+balance of the debt due to him, af ter deducting the value so
+estimated in the same manýýer as if he were an unsecured
+creditor. .
+Proceedings 6. (1) A creditor's petition shall be verified by affýdavit
+and order on
+fhd.fh,b  hIfh. creditor's O t  e  cre ýtor, or o some person on ýs e a avýng
+petition. knowledge of the facts, and served in the prescribed manner.
+(2) At the hearing of the petition, the Court shall require
+proof of the debt of the petitioning creditor, of the service
+of the petition, and of the act of bankruptcy, or, if  more than
+one act of bankruptcy isalleged in the petition, of some one
+of the alleged acts of bankruptcy, and, if  satisfied with such
+proof, shall make a receiving order in pursuance of the
+petition. 8
+(3) The Court may adjoum the hearing of the petition
+either conditionally or unconditionally, for obtaining
+further evidence, or for any other just cause or may dismiss
+': co.. the petition with or without costs, as the Court thinks just.
+": (4) When the act of bankruptcy relied on is non'"
+eompliance with a bankruptcy notice to pay, secure or
+compound for a  judgment debt or sum ordered to be paid,
+the Courtmay, if it thinks fit, stay or dismiss the petition
+on the ground that an appeal is  pending from the judgment
+or order.
+
+BANKRUPTCY. -[CAP. 5. 9 i
+-
+(5) If  there are more respondents than one to the petition, .
+~~ the Court may dismiss the petition as to one or more of
+them, and may order the case to be proceeded with against
+the other or others ofthem.
+(6) Where the debtor appears on the petition, and denies
+that he is indebted to the petitioner, or that he is indebted
+to such an amount as would justify the petitioner in
+presenting a petition against him, the Court, on such security
+(if any) being given as the Court may require for payment
+18 to the petitioner of any debt which may be established
+against him in due course of law, and of the costs of
+establishing the debt, may, instead of dismissing the
+petition, stay all proceedings on the petition for such time
+as may be required for tria! of the question relating to the
+debt.
+(7) Where the debtor appears on the petition, and denies
+that he is indebted to the petitioner, or that he is indebted
+to such an amatint as would justify the petitioner in
+presenting a bankruptcy petition against him, the Court shall
+have jurisdiction for the trial of the question relating to such
+debt, subject to an appeal before the Supreme Court as
+herein provided and in the meantime all proceedings on the
+petition shall be stayed pending the result of such trial as
+aforesaid.
+(8) Where proceedings are stayed, the Court may, if by
+reason of the delay caused by the stay of proceedings or for
+any other cause if  it  thinks just, make a receiving order on
+.the petition of some other creditor, and shall thereupon
+dismiss, on such terms as it thinks just, the petition in which
+proceedings have been stayed as aforesaid.
+7. A creditor's petition shall not, af ter presentment be Cre.d~tors
+withdrawn without the le~ve of the Court. ~:~~o~nbe
+..withdrawn.
+,., S. (1) A  debtor's petition shall allege that the debtor is Deý;ýt.or's
+unable to pay his debts, and the presentation theroof sha!l petýtýon.
+be deemed an act of bankruptcy without the previous filing
+.by the debtor _of any declaration of inabi.lityto pay his debts,
+and the Court shall thereJlpon make areceiving order.
+-.
+-(2) A debtor'þ petition shall not, af ter ptesentment, be
+withdrawn without the leave of the Court.
+9. (1) On the making of a receiving order, an officÝal Eff~t.of
+receÝver shall be thereby constÝtutedreceÝver of the property ~~~~;ýng
+
+10CAP. 5.] BA~KRiUPTCY. i
+of thed.ebtor and thereafter, exc.e~t as direc!ed by this Law, -
+no credýtor to whom the debtorýs ýndebted ýn respect of any
+rdebt probablein bankruptcy shallhave any remedy against
+the property or person of the debtor in respect of the debt,
+or shall commence any action or other legal proceedings,
+unless with the leave of the Court and on such terms as the
+Court may impose.
+(2) But this section shall not affect the power of any
+secured creditor to realize or otherwise deal with his security
+in the same manner as he would have been entitled to -
+realize or dea! with it, if  this section had not been passed. ..
+Powý;r:o 10. The Court may, if  it  is  shown to be necessary for the
+~~~ protection of the debtor's estate, at any time af ter the
+receiver. presentation of a bankruptcy petition, and before a receiving
+order is made, appoint the officia! receiver to be interim
+receiver of the property of the debtor, or of any part
+thereof, and direct him to take immediate possession of the
+same or any part thereof.
+Power 11. (1) The Court may, at any time af ter the presentation
+to stay
+fbk...t. pending o a an ruptcy petýtýon, stay any actýon, execu ýon, or
+proceedings. other legal process against the property or person of the
+debtor, and any Court in which proceedings are pending
+against a  debtor may, on proof that a bankruptcy petition
+has been presented by or against the debtor, either stay the
+proceedings or allow them to continue upon such terms as
+it  may think just.
+(2) Where the Court makes an order staying any action
+or proceeding, or staying proceedings generally, the order
+may be served by sending a  copy thereof, under the seat
+of the Court, by post to the address for service of the plaintiff
+or other party prosecuting such proceeding.
+Powý;r to 12. (1) The offýcial receiver of a debtor's estate may, on
+~E~ci~~t the application of any creditor ,or creditors, an~ if  satisfýed
+8manager. that the nature of the debtor s  estate or busýness of the
+jnterests of the creditors generally require the appointment
+of a specia! manager of the estate or business other than the
+officia! receiver, appoint, subject to the approva! of the
+Court, a manager thereof accordingly to act until a trustee is
+appointed, and with such powers (including any of the
+powers of a receiver} as may be entrusted to him by the
+officia! receiver.
+(2) The special manager shall give such security and
+account in such manýýer as may be direct ed by the Court.
+-
+
+BANKRUPTCY. [CAP. 5. 11 i
+~
+(3) The special manager sha11 receive such remuneration .
+as shall be fixed by the creditors by resolution at an ordinary
+~meeting subject to the approval of the Court or in default
+of any such resolution as the Court maydetermine.
+13. Notice of every receiving order stating the name, Adv~rt~se-
+address, and description of the debtor, the date of the :iv?ng
+order, the Court by which the order is made, and the date of order.
+the petition, sha11 be gazetted and advertised in two local
+a. papers, that is to say, one of which is published in the
+..Turkish and the other in the Greek language in the pre-
+scribed manner.
+Proceeding Consequent on Order.
+14. (1) As soon as may be af ter the making of a receiving F:r;t and
+order against a debtor, a general meeting of his creditors (in ~e:~ngs of
+this Law referred to as the fýrst meeting of creditors) sha11 be creditors.
+held for the purpose of considering whether a  proposal for
+a  composition or scheme of arrangement sha11 be accepted
+or whether it  is expedient that the debtor sha11 be adjudged
+bankrupt, and genera11y as to the mode of dealing with the
+debtor's property.
+(2) With respect to the summoning of and proceedings §~td 1
+as to meetings of creditors, the rules in the First Schedule c e u e.
+to this Law sha11 be observed.
+15. (1) Where a receiving order is made against a debtor, ~e~tor'st
+he sha11 make out and submit to the official receiver a  ~faa~~~.
+statement of and in relation to his affairs in the prescribed
+form, verifýed by affidavit, and showing the particulars of
+the debtor's assets, debts, and liabilities, the names,
+residences and occupations of his creditors, the securities
+held by them respectively, the dates when the securities
+were respectively given, and such further or other informa-
+8 tion .as may be prescribed or as the official receiver may
+requýre.
+(2) The statement sha11 be so submitted within the
+following times, namely :-
+(a) if  the order is made on the petition of the debtor,
+within three days from the date of the order;
+(b) if the order is made on the petition of a  creditor,
+within seven days from the date of the order.
+But the Court may, in either cage for special reasons,
+extend the time.
+c. e
+;1
+~
+
+12CAP.5.] BANKRUPTCY. i
+(3) if the d"ebtor fails without reasonable excuse to -
+comply with the requirements of this section, the Court may,
+r-
+on the application of the officia! receiver, or of any creditor,
+adjudge him bankrupt.
+(4) Any person stating himseli in writing to be a creditor
+of the bankrupt may, personally or by agent, inspect the
+statement at all reasonable times, and take any copy
+thereof.or e~tract therefrom, but. any person untruthfully
+so statýng himseli to be a creditor shall be guilty of a ,
+contempt of Court, and shall be punishable accordingly on -
+the application of the trustee or officia! receiver. ..
+Public Examination of Debtor.
+Publi~ ti 16. (1) Where the Court makes a receiving order, it  shaU,
+~~~~b~~.on save as in this Law provided, hold a public sitting, on aday
+to be appointed by the Court, for the examination of the
+debtor, and the debtor shall attend thereat, and shall be
+examined as to his conduct, dealings and property.
+(2) The examination shall be held as soan as conveniently
+may be af ter the expiration of the time for the submission
+of the debtor's statement of affairs.
+(3) The Court may adjoum the examination from time
+to time.
+(4) Any creditor who has tendered a proof, or his represen-
+tative authorized in writing, may, subject to the discretion
+of the Court, question the debtor conceming his affairs and
+the causes of his failure.
+(5) The officia! receiver shall take part in the examination
+of the debtor; and for the purpose thereof, if specially
+authorized by the Court, may emplay an advocate.
+(6) if  a trustee is appointed before the conclusion of the a
+examination, he may take part therein. ..
+(7) The Court may put such questions to the debtor as it
+may think expedient.
+(8) The debtor shall be examined upon oath, and it  shall
+be his duty to answer all such questions as the Court may
+put or allow to be put to him. Such notes of the examination
+a$ the Court thinks proper shall be taken down in writing
+and shall be read over to and signed by the debtor, or in the
+case of an illiterate debtor his mark shall be affixed thereto,
+
+BANKRUPTCY.. [GAP. 5. 13 i
+-
+and may thereafter, save as in this Law provided, be used in
+evidence against him; they shall also be open to the
+inspection of any creditor at all reasonable times..
+(9) When the Court is of opinion that the affairs of the
+debtor have been suffýciently investigated, it  shall by order
+declare that his examination is concluded; but such order
+shall not be made until af ter the day appointed for the fýrst
+meeting of creditors..a. 
+(10) Where t~e debt~r i~ a  luna~ic o~ ~uffers !rom any..s~ch.., 
+mental or physýcal afflýctýon or disability as ýn the opýnýon
+of the Court makes him unfýt to attend his public examina-
+tion, the Court may make an order dispensing with such
+examination, or directing that the debtor be examined on
+such terms, in such manner, and at such place as to the Court
+seems expedient..
+Composition or Scheme of Arrangement..
+ý 7. (1) Where a debtor intends to make a proposal for Compositiona
+f..f  h..dbtalfand schemes
+a  composýtýon ýn satýs actýon O ýs e s, or a propos or a of arrange-
+scheme of arrangement of his affairs, he shall, within four ment.
+days of submitting his statement of affairs, or within such
+time thereafter as the offýcial receiver may fýx, lodge with
+the offýcial receiver a proposal in writing, signed by him, or
+on his behalf embod~g the terms of the composition or
+scheme which he is desirous of submitting for the considera-
+tion of his creditors, and setling out particulars of any
+su~eties or securities proposed..
+(2) In such case the offýcial receiver shall hold a meeting
+of creditors, before the public examination of the debtor is
+concluded, and send to each creditor, before the meeting, a
+copy of the debtor's proposal with areport thereon ;  and if
+at that meeting a  majority in number and three-fourths in
+value of all the creditors who have proved, resolve to accept
+8 the proposal, it  shall be deemed to be duJy accepted by the
+creditors, and when approved by the Court shall be binding
+on all the creditors..
+(3) The debtor may at the meeting amend the terms of
+his proposal, if the amendment is, in the opinion of the
+offýcial receiver, calculated to benefýt the general body of
+creditors..
+(4) Any creditor who has proved his debt may assent to
+or dissent from the proposal by aletter, in the prescribed
+form, addressed to the offýcial receiver so as to be received
+e (2)
+
+14 CAP. 5.] BANKRUPTCY. i
+by him not later than the day preceding the meeting, and
+rany such assent or dissent shall have effect as if the creditor had been present and had voted at the meeting.
+(5) The debtor or the offýcial receiver may, af ter the
+proposal is accepted by the creditors, apply to the Court to
+approve it, and notice of the time appointed for hearing the
+application shall be given to each creditor who has proved.
+(6) The application shall not be heard until af ter the
+conclusion of the public examination of the debtor. Any
+creditor who has proved may be heard by the Court in 8
+opposition to the application, notwithstanding that he may
+at a meeting of creditors have voted for the acceptance of the
+proposal.
+(7) For the purpose of approving a composition or scheme
+by joint debtors, the Court may, if it thinks fýt, and on the
+report of the offýcial receiver that it is expedient so to do,
+dispense with the public examination of one of the joint
+debt.ürs if he is unavoidably prevented from attending the
+examination by illness or absence from Cyprus.
+(8) The Court sha11, before approving the proposal, hear
+a report of the offýcial receiver as to the terms thereof, and as
+to the conduct of the debtor, and any objections which may
+be made by or on behalf of any creditor.
+(9) if the Court is of apiýýion that the terms of the
+proposal are not reasonable, or are not calculated to benefýt
+the general body of creditors, or in any cage in which the
+Court is required where the debtor is adjudged bankrupt
+to refuse his discharge, the Court sha11 refuse to approve the
+propogaý.
+(10) if any facts are proved on proof of which the Court
+would be required either to refuse, suspend, or attach con-
+ditions to the debtor's discharge were he adjudged bankrupt,
+the Court shall refuse to approve the propogaý, unless it
+8provides reasonable security for the payment of not less
+than fýve shillings in the pound on all the unsecured debts
+provable against the debtor's estate.
+(11) In any other cage the Court may either approve or
+refuse to approve the propogaý.
+(12) if the Court approves the proposal, the approval may
+be testifýed by the seat of the Court being attached to the
+instrument containing the terms of the proposed composi-
+tion or scheme, or by the terms being embodied in an order
+of the Court.
+
+BANKRUPTCY. [CAP.5. 15 1
+(13) A composition or scheme accepted and approved in
+r-
+pursuance of this section shal1 be binding on all the creditors
+so far as relates to any debts due to them from the debtor
+and provable in bankruptcy.
+(14) A certificate of the official receiver that a composition
+or scheme has been duly accepted and approved shall, in
+the absence of fraud, be conclusive as to its validity.
+8 (15) The provisions of a composition or scheme under this
+section may be enforced by the Court on appIication byany
+person interested, and any disobedience of an order of the
+Court made on the appIication shal1 be deemed a  contempt
+of Court.
+(16) if default is made in payment of any instalrnent due
+in pursuance of the composition or scheme, or if  it  appears
+to the Court, on satisfactory evidence, that the composition
+or scheme cannot, in consequence of legal difficulties, or for
+any sufficient cause, proceed without injustice or undue
+detay to the creditors or to the debtor, or that the approval
+of the Court was obtained by fraud, the Court may, if it
+thinks fit, on appIication by the official receiver or the
+trustec, or by any creditor, adjudge the debtor bankrupt,
+and annul the composition or scheme, but without prejudice
+to the vaIidity of any sale, dispositian, or payment duly
+made, or thing duly done, under or in pursuance of the
+composition or scheme.. Where a debtor is adjudged
+bankrupt under this sub-section, any debt provable in other
+respects, which has been contraClted before the adjudication,
+shal1 be provable in the bankruptcy.
+(17) if under or in pursuance of a  composition or scheme
+8a  trustee is appointed to administer the debtor's property
+or manage his business, or to distribute the composition,
+section 26 and Part V. of this Law shall apply as if the
+trustee were a  trustee in bankruptcy, and as if the terms
+tt bankruptcy," tt bankrupt," and tt order of adjudication,"
+included respectively a  composition or scheme of arrange-
+ment, a compounding or arranging debtor, and order
+approving the composition or scheme.
+(18) Part III. of this Law shall, so far as the nature of the
+cage and the terms of the composition or scheme admit,
+apply thereto, the same interpretation being given to the
+
+16 CAP. 5.] BANKRUPTCY. i
+words, ýý trustee," ýý bankruptcy," ýý bankrupt "  and ýý order ~
+of adjudication "  as in the last preceding subsection.
+r(19) No composition or scheme shall be approved by the
+Court which does not provide for the payment in priority to
+other debts of all debts direct ed to be so paid in the distribu-
+tion of the property of a bankrupt.
+(20) The acceptance by a creditor of a composition or
+scheme shall not release any person who under this Law
+would not be released by an order of discharge if  the debtor
+8~ad been adjudged bankrupt.
+Effect ':ýf. ýs. Notwithstanding the acceptance and approval of a
+composttian .
+t O
+hh..
+hhallor scheme. composý ýon or sc erne, suc composýtýon or sc erne s
+not be binding on any creditor so far as regards a  debt or
+liability from which, under the provisions of this Law the
+debtor would not be discharged by an order of discharge in
+bankruptcy, unless the creditor assents to the composition
+or schemeo
+Adjudication of Bankruptcyo
+Adjudication 19. (1) Where a receiving order is made against a debtor,
+~p~~;k- then if  the creditors at the fýrst meeting or any adjoumment
+whý:r~ com- thereof by ordinary resolution resolve that the debtor be
+posýtion not
+d O
+dd  bktIo O
+f   hd.
+accepted or a Ju ge an rup "  or pass no reso utýon, or i   t   e cre ýtors
+approved. do not meet, or if  a  composition or scheme is not approved
+in pursuance of this Law within fourteen days af ter the
+conclusion of the examination of the debtor or such further
+time as the Court may allow the Court shall adjudge the
+debtor bankrupt; and thereupon the property of the
+bankrupt shall become divisible among his creditors and
+shall vest in a trustec.
+(2) Notice of every order adjudging a  debtor bankrupt,
+stating the name, address, and description of the bankrupt, A
+the date of the adjudication and the Court by which the .,
+adjudication is made, shall be gazetted and advertised in
+two local papers, that is to say, one of which is published in
+the Turkish and the other in the Greek language in the
+prescribed manner, and the date of the order shall for the
+purpose of this La,\! be the date of the adjudication.
+Appoint- 20. (1) Where a debtor is adjudged bankrupt or the
+~~i~f creditors have resolved that he be adjudged bankrupt, the
+creditors may by ordinary resolution appoint some fýt
+person, whether a  creditor or not, to fýll the office of trustee
+
+/ BANKRUPTCY. [CAP.5. 17 i
+.
+of the property of the bankrupt; or they may resolve to -
+~leave his appointment to the committee of inspection
+hereinafter mentioned.
+(2) A  person shaIl be deemed not fýt to act as trustee of
+the property of a  bankrupt vvhen he has been previously
+removed from the office of trustee of a bankrupt's property
+for misconduct or neglect of duty.
+(3) The person so appointed shaIl give security in such
+~ amount as shall be fýxed by the Court and the Court if
+., satisfýed vvith the seourity shaIl certify that his appointment
+has been duty made, uruess the debtor or a creditor objects
+to the appointment, and the Court is satisfýed that such
+appointment has not been made in good faith by a majority
+in value of the oreditors voting, or that the person appointed
+is not fýt to act as trustee, or that his connection vvith or
+relation to the bankrupt or his estate or any particular
+creditor makes it  diffýcult for him to act vvith impartiality in
+the interests of the creditors generaIlyo
+(4) The appointment of a trustee shaIl take effect as from
+the date of the certifýcate.
+(5) if a trustee is not appointed by the creditors vvithin
+four vveeks from the date of the adjudication, or in the event
+of there being negotiations for a  oomposition or scheme
+pending at the expiration of those four vveeks, then vvithin
+seven days from the close of those negotiations by the
+refusal of the creditors to accept, or of the Court to approve,
+the oomposition or scheme, the offýcial receiver shall report
+the matter to the Court and thereupon the Court may
+appoint some fýt person to be trustee of the bankrupt's
+property or may order the offýcial receiver to act as trustee.
+(6) When a  debtor is adjudged bankrupt after the fýrst
+meeting of creditors has been held, and a trustee has not
+been appointed prior to the adjudication, the offýcial
+8 receiver shaIl forthvvith summon a meeting of creditors for
+the purpose of appointing a trustee.
+21. (1) The creditors qualifýed to vote may, at their fýrst cro.ýnmi~e
+or any subsequent meeting by resolution, appoint a com- o ýnspec on.
+mittee of inspection for the purpose of superintending the
+administration of the bankrupt's property by the trustee.
+(2) The committee of iýispection shall consist of not more
+than fýve nor less than three persons, possessing one or
+other of the follovving qualifýcations-
+(a) that of being a  creditor or the holder of a general~
+
+18 GAP. 5.] BANKRUPTCY. 1
+power of attorney from a creditor, provided that
+rno creditor and no holder ot a general proxy or
+general power of attorney from a  creditor shal1
+be qualifýed to act as a member of the committee
+of inspection until the creditor has proved his
+debt and the proof has been admitted; or
+(b) that of being a person to whom a creditor intends to
+giving a general proxy or general power of
+attorney; provided that no such person shal1 be
+qualifýed to act as a  member of the committee A,
+of inspection until he holds such a  proxy or ..
+power of attorney, and unill the creditor has
+proved his debt and the proof has been admitted.
+(3) The committee of inspection shal1 meet at such times
+as they shal1 from time to time appoint and failing such
+appointment, at least once a month ;  and the trustee or any
+member of the committee may also call a meeting of the
+committee as and when he thinks necessary.
+(4) The committee may act by a majority of their
+members present at a  meeting, bui shal1 not act unless a
+majority of the committee are preseni at the meeting.
+(5) Any member of the committee may resign his office by
+notice in writing signed by him, and delivered to the
+trustee.
+.
+(6) if a member of the committee becomes bankrupt or
+compounds or arranges with his creditors, or is abseni from
+fýve consecutive meetings of the committee, his office shal1
+thereupon become vacant.
+(7) Any member of the committee may be removed by an
+ordinary resolution at any meeting of creditors of which
+seven day's notice has been given, stating the object of the
+meeting.
+(8) On a  vacancy occurring in the office of a  member of
+8the committee, the trustee shal1 forthwith summon a
+meeting of creditors for the purpose of fýl1ing the vacancy
+and the meeting may, by resolution, appoint another
+creditor or other person eligible as above to fýll the vacancy.
+(9) The continuing members of the committee, provided
+there be not less than two such continuing members, may
+act notwithstanding any vacancy in their body ;  and where
+the number of members of the committee of inspection is
+for the time being less than fýve, the creditors may increase
+that number so that it does not exceed fýve.
+--
+
+BANKRUPTCY. [CAP.5. 19
+(10) If there be no committee of inspection, any act or
+thing or any direction or permission by this Law authorized
+or required to be done or given by the committee may be
+done or given by the Court on the application of the trustee.
+22. (1) Where a debtor is adjudged bankrupt the Power to
+creditors may, if they think fýt, at any time af ter the ~~rE~:oý::ý-
+adjudication, by a majority in number and three-fourths scheme after
+in value of all the creditors who have proved, resdIye to ~~fu~~~cy
+accept a  proposal for a  composition in satisfaction of the tion.
+debts due to them under the bankruptcy, or for a  scheme of
+arrangement of the bankrupt's affairs; and thereupon the
+same proceedings shall be taken and the same consequences
+shall ensue as in the cage of a composition or scheme
+accepted before adjudication.
+(2) If the Court approves the composition or scheme it
+may make an order annulling the bankruptcy and vesting
+the property of the bankrupt in him or in such other person
+as the Court may appoint, on such terms, and subject to
+such conclitjang if  any, as the Court may declare.
+(3) if default is  made in payment of any instalment due
+in pursuance of the composition or scheme, or if  it  appears to
+the Court that the composition or scheme cannot proceed
+without injustice or undue delay, or that the approval of
+the Court was obtained by fraud, the Court may, if  it  thinks
+fýt, on application by any person interested, adjudge the
+debtor bankrupt, and annul the composition or scheme,
+but without prejudice to the validity of any sale, dispositian,
+or payment duly made, or thing duly done, under or in
+pursuance of the composition or scheme. Where a  debtor
+is adjudged bankrupt under this subsection, all debts,
+provable in other respects, which have been contracted
+before the date of such adjudication shall be provable in
+the bankruptcy.
+Controlover Person and Property of Debtor.
+23. (1) Every debtor against whom a  receiving order is Duties of
+made shall, unless prevented by sickness or other su:fficent ~fs~~:e:; to
+cause, attend the fýrst meeting of his creditors, and shall a.nd realiza-
+submit to such examination and give such information as ;~o;eo:ýy.
+the meeting may require.
+(2) He shall give such inventory of his property, such list
+
+20 CAP. 5.] BANKRUPTCY. i
+of his creditors and debtors, and of the debts due to and -
+from them respectively, submit to such examination in
+~respect of his property or his creditors, attend such other
+meetings of his creditors, wait at such times on the offýcial
+receiver, special manager, or trustee, execute such powers
+of attorney, conveyances, deeds, and instruments and,
+generally do all such acts and things in relation to his
+property and the distribution of the proceeds amongst his
+creditors as may be reasonably required by the offýcial
+receiver, special manager, or trustee, or may be prescribed 8
+by general rules, or be directed by the Court by any special
+order or orders made in reference to any particular case,
+or made on the occasion of any special application by the
+offýcial receiver, special manager, trustee, or any creditor or
+person interested.
+(3) He shall, if  adjudged bankrupt, aid to the utmost of
+his power, in the realization of his property and the distribu-
+tion of the proceeds among his creditors.
+(4) if  a debtor wilfully fai1s to perform the duties imposed
+on him by this section or to deliver up possession of any part
+of his property, which is divisible amongst his creditors
+under this Law, and which is for the time being in his
+possession or under his control, to the offýcial receiver or
+to the trustee, or to any person authorized by the Court to
+take possession of it, he shall, in addition to any other
+punishment to which he may be subject, be guilty of a
+contempt of Court, and may be punished accordingly.
+~ft of d 24. (1) The Court may, by warrant addressed to any
+c:~~ un er police offýcer or prescribed offýcer of the Court, cause a
+cfcum- debtor to be arrested, and any books, papers, money, and
+s ances. goods in his possession to be seized, and him and them to
+be safely kept in such places and until such time as the a
+Court may order under the following circumstances :- -
+(a) if, af ter a bankruptcy notice has been issued under
+this Law, or af ter presentation of a bankruptcy
+petition by or against him, it appears to the
+Court that there is probable reason for believing
+that he has been guilty of any offence punishable
+under this Law or that he has absconded or is
+about to abscond with a view of avoiding
+~ payment of the debt, in respect of which
+bankruptcy notice was issued, or of avoiding
+service of a  bankruptcy petition or of avoiding~,..'
+
+BANKRUPTCY. [CAP. 5., 21 i
+.-
+appearance to any such petition or of avoiding .
+~examination in respect of his affairs, or of
+otherwise avoiding, delaying or embarrassing
+proceedings in bankruptcy against him ;
+(b) if, af ter presentation of a bankruptcy petition by or
+against him, it  appears to the Court that there is
+probable cause for believing that he is about to
+remove his goods with a  view of preventing or
+delaying possession being taken of them by the
+8 offýcial receiver or trustee, or that there is
+probable ground for believing that he has
+concealed or is about to conceal or destroy any
+of his goods, or any books, documents, or
+writings, which might be of use to his creditors
+in the course of his bankruptcy;
+..(c) if, af ter service of a  bankruptcy petition on him,
+or af ter a receiving order is  made against him,
+he removes any goods in his possession above
+the value of fýve pounds without the leave of the
+offýcial receiver or trustee;
+(d) if, without good cause shown, he fails to attend any
+examination ordered by the Court:
+Provided that no arrest upon a bankruptcy notice shall be
+valid and protected unless the debtor before or at the time of
+his arrest is served with such bankruptcy notice.
+(2) The Court may, at any time af ter the arresi of the
+debtor order his release on his filmÝshing security to the
+satisfaction of the Court not to quit the Colony without the
+leave of the Court.
+(3) No payment or composition made or security given
+af ter arrest made under this section sha11 be exempt from
+8 the provisions of this Law relating to fraudulent preferences.
+25. Where a receiving order is made against a debtor, the Re-direc~on
+Court on the application of the offýcial receiver or trustee, f::e~to:t~.
+may from time to time order that for such time, not .
+exceeding three months as the Court thinks fýt, post letters,
+telegrams and other postal packets addressed to the debtor
+at any place, or places mentioned in the order for re-
+direction sha11 be re-directed, sent or delivered by the
+Postmaster-General or the offýcers acting under him, to the
+offýcial receivev or the trustee, or otherwise as the Court
+directs, and the same sha11 be done accordingly. The
+.
+
+22 CAF. 5.] BANKRUPTCY. i
+signature of the' officia! receiver or the trustee on any money
+rorder payable to such debtor sha11 be a  sufficient acquittance
+thereof.
+InQ
+duiryba.s 26. (1) The Court may, on the application of the official
+to e tor s ..
+ft..dhconduct, receýver or trustec, at any tIme a er a receývýng or er as
+dealings and been made against a  debtor, summon before it  the debtor
+property, or his wife, or any person known or suspected to have in his
+possession any of the estate or effects belonging to the debtor
+or supposed to be indebted to the debtor, or any person a
+whom the Court may deem capable of giving information .
+respecting the debtor, his dealings or property, and the
+Court may require any such person to produce any
+documents in his custody or power relating to the debtor,
+his dealings or property.
+(2) if  any person so summoned af ter having been tendered
+a reasonable sum, refuses to come before the Court at the
+time appointed, or refuses to produce any such document,
+having no lawful impediment made known to the Court at
+the time of its sitting and a!lowed by it, the Court may, by
+warrant, cause him to be apprehended and brought up for
+examination.
+(3) The Court may examine on oath, either by word of
+mouth or by written interrogatories, any person so brought
+before it conceming the debtor, his dealings or property.
+(4) if any person on examination before the Court admits
+that he is indebted to the debtor, the Court may, on the
+application of the official receiver or trustee, order him to
+pay the officia! receiver or trustee, at such time and such
+manner as the Court deems expedient, the amount-admitted,
+or any part thereof, either in full discharge of the whole
+amount in question or not, as the Court thinks fýt, with or
+without costs of the examination.
+(5) if any person on examination before the Court
+.admits that he has in his possesion any property belonging
+to the debtor, the Court may, on the application of the officia!
+receiver or trustee, order him to deliver to the official
+receiver or trustee such property, or any part thereof, at
+such time, and in such manner, and on such terms as to the
+Court may seem just.
+(6) The Court may, if  it  thinks fýt, order that any person
+who if in Cyprus would be liable to be brought before it
+under this section sha!l be examined in any other place out
+of Cyprus.
+
+-BANKRUPTCY. [C AP. 5.~ ý
+27. (1) A bankrupt may; at any time af ter be~ng adjudged ~;~:~~~of
+bankrupt, apply to the Court for an order of dýscharge, and
+the Court shall appoint a  day for hearing the application,
+but the application sh all not be he ard until the public
+examination of the bankrupt is concluded. The application
+shall, except when the Court in accordance with rules under
+this Law otherwise directs, be heard Ýn open Court.
+(2) On the hearing of the application the Court shall
+8' take into consideration areport .of t~e offi,cial receiver as to
+the bankrupt's conduct and affaýrs (ýncludýng a  report as to
+the bankrupt's conduct during the proceedings under his
+bankruptcy), and may either grant or refuse an absolute
+order of discharge, or suspend the operation of the order
+for a  specified time, or grant an order of discharge subject
+to any conditions with respect to any eamÝngs or Ýncome
+which may afterwards become due to the bankrupt, or with
+respect to his af ter-acquired property :
+Provided that where the bankrupt has committed any
+misdemeanour under this Law, or any enactment repealed
+by this Law, or any other misdemeanour connected with his
+bankruptcy or any felony connected with his bankruptcy, or
+where in any case any of the facts hereinafter mentioned are
+proved, the Court shall either-
+(a) reflise the discharge ;  or
+(b) suspend the discharge for such period as it deems
+fit ~ or
+(c) suspend the discharge until a  dividend of not less
+than five hundred mils in the pound has been paid to
+the creditors; or
+(d) require the bankrupt as a  condition of his discharge
+to consent to judgment being entered against
+him by the official receiver or trustee for any
+'8 balance or part of any balance of the debts provable
+under the bankruptcy which is not satisfied at the
+date of the discharge, such balance or part of any
+balance of the debts to be paid out of the future
+eamings or af ter-acquired property of the bankrupt
+in such manýýer and subject to such conditions as the
+Court may direct; but execution shall not be issued
+on the judgment without leave of the Court, which
+leave may be given on proof that the bankrupt has
+since his discharge acquired property or income
+available towards payment of his debts :
+
+24C~. 5.]. B,ANKR(J~T~Y. 1
+.-~ Provideð that; if; at any time aft{Jr the date of any order .
+rnade underthis sedtion the bankrupt satisfies the;Collvt that
+rthereis n9:reasonable probability of his beingin a position.to
+compir wýth the tenns of such order, the'Cüurt may modýfy
+the tenns of the order, ot of any substituted order, in such
+manýýer and upon such conditions as it  may think fir:
+(3) The facts hereinbefore r~ferred to 3:!e-:--
+(a) that the bankrupt's assets are not of a value equal to
+five hundredmils in the pound on the amount of his e
+unsecured liabilities, unless he satisfies the Court
+that the fact that the assets are not of a value equal
+to five hundred mils in the pound on the amount of
+his unsecured liabilities has arisen from cÝrcum-
+,.. ,") stances foý: which he cannot justly be held respon-
+sible;
+(b) that the bankrupt has omitted to keep such books of
+;ýccount as, are usuat and proper in the busin~ss
+carried on by him and as sufficiently disclose his
+business transactions and financial position within
+the three years 'Ýmmediately preceding his bank-
+ruptcy :
+"
+,., '(c) that 'the bankÝ-upt has continued to trade af ter knowing
+himself to be insolvent ;
+(d) that the ban~pt has contracted any debt provable
+in the bankruptcy without having at the time of
+contracting it  any reasonable or probable ground of
+~ expe;ctatioÝl (proof whereof shalllie on him) of being
+" ;ýble to pay it  ;
+(e) that the bankrupt has failed to account satisfactorily
+foi: any loss of assets or for any deficiency of assets
+to meet his liabilities ;
+(f) th~t the bankrupt has brought o~, or contribute.d to
+.hýs bankruptcy by rash and hazardolis speculatýons,
+or by unjustifiable extravagance in living, or by
+gambling, or by culpable neglect of his business
+affairs ;
+(g) that the bankrtlpt has put any of his creditors to
+unnecessary expense by a frivololis or vexatious
+defence to any action properly brought against him ;
+(h) that the bankrupt has brought on or contributed to
+his bankruptcy by incurring unjustifiable expense
+in bringing any frivololiS or \-exatious action ;
+,
+.-,#'f"t -
+
+BANKRUP~CY. ICAP. 5. 25 i
+-(i) that the bankrupt'has, within three months precedin.g- -
+the date of ýpe rece.iving order, ,when unable to pay
+rhis debts as they become due, given an undue
+preference to any of his creditors ;
+(j) that the bankrupt has, within three months precedin~
+the date of the receiving order, incurred liabi,lities
+with a view of making his assets equal to five hundred
+mils in the p<:>und on the amount of his unsecured
+liabilities ;
+O (k) that the bankrupt. has on any previous occa~ion
+-whether under thýs Law or any Law for the týme
+being in force in Cyprus been adjudged bankrupt, or
+made a composition or arrangement with his
+creditors ; "
+'(1) that the bankrupt has been guilty of any fraud or
+fraudulent breach of trust. .
+,   (4) With a  view to removin.g- any statutory disqualification
+<>n account of bankruptcy which is removed if the bankrupt
+<>btains from the Court his discharge with a certificate to the
+-effect that the bankruptcy was caused by misfortune without
+any misconduct on his part, the Court may, if it  thinks fit,
+grant such a certificate, but a refusal to grant such a certificate
+shall be subject to appeal. ~
+(5) For the purposes of this section a bankrupt's assets shall
+De deemed of a value equal to five hundred mil s in the pound
+-on the amount of his unsecured liabilities when the Couri is
+satisfied that the property of the bankrupt has realized, or is
+likely to realize, or with due care in realizatiön might have
+realized, an amount equal to five hundred mils in the pound oýý
+his unsecured liabilities, and a  report by the official receiver
+'or the trustee shall be prima facie evidence of the amount of
+'such liabilities.
+(6) For the purposes of this section the report of the officia1
+receiver shall be prima facie evidence of the statements therein
+'contained.
+(7) Notice of the appointment by the Court of the day for
+nearin.g- the application for dischar.g-e shall be published in the
+prescribed manner, and sent fourteen days at least before the
+,day so appointed to each creditor whö has proved, and the
+Court may hear the official receiver and the trustee, and may
+also he ar any creditor. At the hearing the Court may put
+:such questions ,00 the debtor and receive such evidence as it
+-may think fit.
+~ ~,ccc
+
+26 CAP. 5.J BA1VKRUPTCY. 1
+i
+(8) The powers of suspending and of attacbing conditions -
+to a bankrupt's discharge may be exercised coocmrently.
+~Procý;dure
+f28. In the event of a  bankrupt failing to appfy for his:
+on faýlure o. bankrupt to dýscharge as ýn the last precedýng sectýon hereof mentýoned
+d~~a~~~. the official receiver shall, as soon as may be af ter the granting
+of the trustee's release by the Court but not fater rhan two
+years af ter the close of the public examination if  the trustee-
+has not been released by that time, appIy to the Court for
+the considerati°ý.ý by them of such bankrupt's discharge.. ~he- O .
+Court may requýre the bankrupt to be present for examýnatýon
+at any hearing convened in pursuance of the provisions of this
+section, and may make such order as seems just having regard
+to all the cÝrcumstances.
+~uties ol
+d29. A discharged bankrupt shaII, notwithstandÝng his dis-
+dýscharge
+h.h.
+h..
+hbankrupt. C arge, gýve suc assýstance as t  e trustee may requIre ýn t  e
+realization and distribution of such of his property as is vested
+in the trustee, and if  he faiIs to do so he shaIl be guilty of a
+contempt of Court ;  and the Court may, if  it  thinks fit, revoke
+his discharge, but without prejudice to the validity of any sale,
+disposition, or payment duty made or thing duly done sub-
+sequent to the discharge, but before Ýts revocation.
+Effect of 30. (1) An order of discharge shaIl not reIease the bankrupt
+df~eha~~e. from any debt on a  recognizance nar from any fine or debt
+with which the bankrupt may be chargeabIe at the suÝt of the
+Crown (or of any person) for any offence against any Law, or
+on a  baiI bond entered info for the appearance of any person
+prosecuted for any offence; and he shaII not be discharged
+from such excepted debts unless the Governor certify in
+writing under the han d of the Administrative Secretary his
+consent to his being discharged therefrom.
+(2) An order of dÝscharg-e shaII not release the bankrupt e
+from any debt or Iiability incurred by means of any fraud or
+fraudulent breach of trust to which he was a party, nor from
+any debt or Iiability whereof he has obtaÝned forbearance by
+any fraud to which he was a party .
+(3) An order of discharge shaII not reIease any person who
+at the date of the receiving order was a  partner or co-trustce
+with the bankrupt or was jointly bound or had any joint con-
+tract wÝth him, 01 any person who was surety or in the nature
+of a surety for him.
+-~ -
+
+BANKRUPTCY. [CAP. 5. 27 i
+-
+-
+(4) An order of discharge shall Telcage the bankrupt from -
+r.all other debts provable in bankruptcy.
+(5) An order of discharge shall be conclusive evidence of
+the bankruptcy and of the validity of the proceedings
+therein, and in any proceedings that may be instituted
+against a bankrupt who has obtained an order of discharge
+in respect of any debt from which he is released by the order,
+the bankrupt may plead that the cause of action occurred
+before his discharge.
+8 31. (1) Where in the apiýýion of the Court a debtor ought ~ow:ýr;or
+not to have been adjudged bankrupt, or where it  is proved a~~ul o
+to the satis~ac~ion of the Court that the debts of ~he ?ank- f~j~~c:Ý~on
+rupt are paýd ýn full, the Court may, on the appIicatýon of cases.
+any person interested, by order annul the adjudication.
+(2) Where an adjudication is annulled under this section,
+all sales and dispositions of property and payments duly
+made, and all acts theretofore done, by the official receiver,
+trustec, or other person acting under theirauthority, or by the
+Court, shall be valid, but the property of the debtor who
+was adjudged bankrupt shaR vest in such person as the
+Court may appoint, or, in default of any such appointment,
+revert to the debtor for all his estate or interest therein on
+such terms and subject to such conditions, if  any, as the
+Court may declare by order.
+(3) Notice of the order annu1ling an adjudication shall be
+forthwith gazetted and published in two local papers one of
+which is published in the Turkish and the other in the Greek
+language.
+(4) For the purposes of this section, any debt disputed
+by a debtor shall be considered as paid in full if  the debtor
+enters into a bond, in such sum and with such sureties as the
+..Court approves, to pay the amatint to be recovered in any
+..proceeding for the recovery of or conceming the debt, with
+costs, and any debt due to a  creditor who cannot be fonnd
+or cannot be identifýed shall be considered as paid in full if
+paid into Court.
+c. f
+
+2Þ ÇAP. 5.] B:ANKRUPTCY. i
+-'---e_o' '. ~
+.PART ll. -
+DýSQUALIFICATIONS OF BANKRUPT.
+rI?isqualifica- 32. (1) Where a  debtor is adjudged bankrupt, he shall,
+~l~~c~arged subject to the provisions of this Law, be disqualified for
+bankrupt. being elected or holding or exercising the office of:-
+(a) member of Legislative Council;
+(b) mayor or member of a Municipal Council;
+(c) member of a  District Council (Medjlis Idare) ; At
+(d) mukhtar. '.ý
+(2) The disqualifications to which a  bankrupt is subject
+under this section shall be removed and cease if  and when:-
+(a) the adjudication in bankruptcy is annulled; or
+(b) he obtains from the Court his discharge with a
+certificate to the effect that his bankruptcy was
+caused by misfortune without any misconduct
+on his part.
+The Court may grant or withhold such certificate as it
+thinks fit, but any refusal of such certificate shall be subject
+to appeal.
+~~~~ed b 33. if the debtor is a~jud~ed bank.rupt w~ilst be~ng
+bankruptc~ elected member of the Legýslatýve Councýl or whilst holdýng
+~~hol~er the office of mayor or member of a  Municipal Council or
+ereo .whilst being a  member of a  District Council (Medjlis Idare)
+or whilst holding the office of mukhtar, his seat. or office
+shall thereupon become vacant.
+PART III.
+ADMINISTRATION OF PROPERTY.
+Provable Debts. /8
+~e~c~ftion 34. (1) Demands in the nature of unliquidated damages
+~ro:ab~ in arising otherwise than by reason of a  contract, promise, or
+bankruptcy. breach oÝ trust shall not be provable in bankruptcy.
+(2) A person having notice of any act of bankruptcy
+available against the debtor shall not prove under the order
+for any debt or liability contracted by the debtor sub-
+sequently to the date of his so having notice.
+(3) Save as aforesaid, all debts and liabilities, present or
+future, certain or contingent, to which the debtor is subject
+
+i
+BANKRUPTCY. [CAP.. 5. 29 ~
+at the date of the receiving order, or to which he may become -
+r~ubject before his discharge by reas?n. of any obligation
+ýncurred before the date ot the receývýng order, shall be
+deemed to be debts provable in bankruptcy.
+(4) An estimate shallbe made by the trustee of the value
+of any debt or liability provable as aforesaid, which by
+reason of its being subject to any contingency, or for any
+other reason does not bear a  certain value.
+..(5) Any person aggrieved by any estimate made by the
+..trustee as aforesaid may appeal to the Court.
+(6) If, in the opinion of the Court, the value of the debt
+or liability is incapable of being fairly estimated, the Court
+may make an order to that effect, and thereupon the debt or
+liability shall for the purposes of this Law, be deemed to be
+a  debt not provable in bankruptcy.
+(7) If, in the opinion of the Court, the value of the debt or
+liability is  capable of being fairly estimated, the Court may
+direct the value to be assessed before the Court itself, and
+may give all necessary directions for this purpose, and the
+amount of the value when assessed shall be deemed to be a
+debt provable in bankruptcy.
+(8) "Liability" shall, for the purposes of this Law,
+include-
+(a) any compensation for work or labour done;
+(b) any obligation or PQssibility of an obligation to pay
+money or money's worth on the breach of any
+expressed or implied covenant, contract, agree-
+ment, or undertaking, whether the breach does
+or does not occur, or is  or is not likel y to occur or
+capable of occurring, before the discharge of the
+debtor;
+(c) generally, any expressed or implied engagement,
+8 agreement, or undertaking, to pay, or capable of
+resulting in the payment of money or money's
+worth; whether the payment is, as respects
+amount, fýxed oý unliquidated; as respects time,
+present or future, certain or dependent on any
+one contingençy or on two or more contingencies;
+as to mode of valuation, capable of being
+ascertained by fýxed rules or as matterof opinion.
+35. Where there have been mutual credits, mutual debts, Mu:aý d
+or other mutual dealings between a  debtor against whom ~~~ o~.an
+f  (2)
+..,-,"-,-"~
+
+30 CAP. 5.] l3ANKRUPTCY. 1
+-~
+a  receiving order shall be made under this Law, and any .
+other person proving or claiming to prove a debt under the
+rreceiving order, an account shall be taken of what is due
+from the one party.to the other in respect of such mutual
+dealings, and the sum due from the one party shall be set
+off against any sum due from the other party, and the
+balance of the account, and no more, shall be claimed or
+paid on either side respectively; but a person shall not be
+entitled under this section to claim the benefýt of any set off
+against the property of a  debtor in any cage where he had
+8at the time of giving credit to the debtor, notice of an act of
+bankruptcy committed by the debtor, and available against
+him.
+Appropriation of Assets.
+~;Y:fi~t 36. (1) .The ass~ts re~a~ing af ter payment of the actual
+mÝEary expenses Jncurred ýn realýzýng any of the assets of the debtor
+expenses. shall, subject to any order of the Court, be liable to the
+following payments, which shall be made in the following .
+order of priority, namely-
+(a) the actual expenses incurred by the offýcial receiver
+in protecting the property or assets of the debtor
+or any part thereof and any expenses or outlay
+incurred by him or by his authority in carrying
+on the business of the debtor;
+(b) the fees, percent ages ,  and charges payable to, or
+costs, charges, and expenses incurred or autho-
+rized by the offýcial receiver;
+(c) the remuneration of the special manager, if  any; and
+(d) thetaxed costs of the petitioning creditor so far as
+the same may not have been disallowed by the
+Court.
+(2) Whenever the Court is satisfýed that property of a
+debtor in respect of whose estate a receiving order has been a
+made has been preserved for the benefýt of the creditors by .
+means of legal proceedings brought by a creditor against the
+debtor without notice of any available act of bankruptcy
+committed by the debtor, the Court may, in its discretion,
+order the payment of the costs of such legal proceedings
+or any part of them out of the estate with the same priority
+as to payment as is herein provided in respectof the taxed
+costs of the petitioner.
+Rules a: 37. With respect to the mode of proving debts, the right of
+: a~~~s. proofs by secured and other creditors, the admission and
+
+'1..."i;'~'i"'!"~-~
+Ic :~;:".,"',".;.,.,"; ,-' ", ,c';!;",
+BANKRUPTCY. [GAP. 5. 31 -
+~
+rejection of proofs, and the othermatters referred to in the -
+Second Schedule, the rulesin thatSchedule shall be observed. ~~~~~~le.
+r38. (1) In the distribution of the property of a  bankrupt ~Ority of
+there shall be paid in priority to allother debts but af ter e ts.
+payment of the preliminary expenses in section 36 herein- i
+before mentioned-
+(a) all Govemment taxes and duties, Municipal or
+Ý-. village rates due from the bankrupt at the date
+..of the receiving order and having fýrst become
+due and payable within twelve months next
+before that time;
+(b) all wages or salary of any clerk or servant, whether
+or not eamed wholly or in part by way of com-
+mission, in respect of services rendered to the
+bankrupt during the four months next preceding
+the date of the receiving order, not exceeding
+fýfty pounds;
+(c) all wagesof any labourer or workman not exceeding
+twenty-fýve pounds, whether payable for time or
+for piecework, in respect of .services rendered to
+the bankrupt during two months before the date
+of the receiving order;
+(d) such part of any premium paid by or on behalf of
+any apprentice under service to the bankrupt as
+the Court may order;
+(e) all amounts, not exceeding in any individual cage
+one hundred pounds, due in respect of compen-
+sation under the Workmen's Compensation Law, Cap.188.
+the liability wherefore accrued before the date of
+the receiving order, subject nevertheless to the
+provisions of section 31 of that Law;
+(j) all rent accrued due to the landlord during the four
+18 .months next preceding the date of the receiving
+order.
+(2) The foregoing debts shall rank equally between them-
+selves and shall be paid in full, unless the property of the
+bankrupt is insuffýcient to meet them, in which cage they
+shall abate in equal proportions between themselves.
+(3) Subject to the retention of such sums as may be
+necessary for the costs of administration or otherwise, the
+foregoing debts shall be discharged forthwith so far as the
+property-of the debtor, is suffýcient to meet them.
+
+32 GAP. 5.] BANKRUPTCY, ~" 1
+(4) The joint estate of partners shall be appIicable in the
+rfýr.st.instance in -payment of their joint debts, and the
+-?eparate ~state of each par~ner shall be appIicable in the ?rst
+ýnstance ýn payment of hýs þeparate debts. if there ýs a
+surplus of the separate estates it  shall be dealt with as part of
+the joint estate. if there is a  surplus of the joint estate it
+shall be dealt with as part of the respective separate estates !
+in proportion to the right and interest of each partner in the
+joint estate. ;
+(5) Subject to the provisions of this Law, all debts proved 8
+in the bankruptcy shall be paid pari passu.
+(6) if there is any surplus af ter payment of the debts it
+shall be appIied in payment of interest from the date of the
+receiving order at the rate of nine pounds per centum per
+annum on all debts proved in the bankruptcy.
+(7) Nothing in this section shall alter the effect of section 7
+Cap. ll6. of the Partnership and Business N ames Law, or the order of
+the liquidation of the debts of a  deceased person under the
+Cap. l89. provisions of the Administration of Estates Law.
+Postpo~e- 39. (1) Where a married woman has been adjudged
+~::a~d's bankrupt, her husband shall not be entitled to claim any
+af<;Ý wife's dividend as a creditor in respect of any money or other
+c aýms. estate lent or entrusted by him to his wife for the purposes
+of her trade or business until all claims of the other creditors
+of his wife for valuable consideration in money or money's
+worth have been satisfýed.
+(2) Where the husband of a  married woman has been
+adjudged bankrupt, any money or other estate of such
+woman lent or entrusted by her to her husband for the
+purpose of any trade or business carried on by him or other-
+wise, shall be treated as assets of his estate, and the wife
+shall not be entitled to claim any dividend as a  creditor in
+respect of any such money or other estate until all claims of
+the other creditors of her husband for valuable consideration 8
+in money or money's worth have been satisfýed.
+(3) The provisions of thissection shall not apply to claims
+in respect of any money or other estate lent or entrusted by
+a husband to his wife or by a wife to her husband before the
+commencement of this Law.
+Property Available for Payment of Debts.
+Relation
+4OThbkfdbhhhback of .e an ruptcy o a e  tor, w et er t  e same takes
+t~ustee's place on the debtor's own petition or upon that of a  creditor
+týtle.
+-~--
+
+BANKR1ÝPTCY. [CAP. 5. 33 i
+.
+-
+or creditors, shall be deemed to have relation back to, and to .
+commence at, the time of the act of bankrnptcy being
+~committed on which a receiving order is  made against him,
+or, if  the bankrupt is  proved to have committed more acts
+of bankruptcy than one, to have relation back to, and to
+commence at, the time of the fýrst of the acts of bankruptcy
+proved to have been committed by the bankrupt within
+three months next preceding the date of the presentation of
+the bankruptcy petition; but no bankruptcy petition,
+8receiving order, or adjlidication shall b~ rendered invalid by
+reason of any act of bankruptcy antenor to the debt of the
+petitioning creditor,
+41. The property of the bankrupt divisible among his Description,
+d' .
+h.Lfdhfhof bankrupt s
+cre ýtors ýn t  ýs aw re erre to as t  e  property O t  e  property
+bankrupt   shall comprise the followin
+gParticulars:- divisible
+, amongbt
+(a) all such property as may belong to or be vested in creditors.
+the bankrupt at the commencement of the
+bankruptcy or may be acquired by or devolveon
+him before his discharge;
+(b) the capacity to exercise and to take proceedings for
+exercising all such powers in and over or in
+respect of property as might have been exercised
+by the bankrupt for his own benefýt at the
+commencement of his bankruptey or before his
+discharge;
+(c) all goods being, at the commencement of the
+bankruptcy, in the possession, order, or dis-
+position of the bankrupt, in his trade or business,
+by the consent and permission of the true owner,
+under such circumstances that he is the reputed
+owner thereof: Provided that things in action
+other than debts due or growing due to the
+..bankrupt in the course of his trade or business
+.shall not be deemed goods within the meaning of
+this section,
+42. The following shall not form part of the bankrupt's ~o.P~r;:y not/
+property divisible among his creditors, namely:- a:~~gs~
+creditors.
+(a) property held by the bankrupt on trust for any
+other person;
+(b) aýý property as would be exempt from execution
+under any Law for the tin:e being in force in
+Cyprus, :
+---~
+
+34 CAP. 5.] BANKRUPTCY. i
+Pr~visions d 43. (1) Where a second or subsequent receiving order is
+r:n~:~~~~y made against a bankrupt, or where an order is made for the
+a~
+td
+hdealings administration in bankruptcy of the estate of a  deceased
+wl persons .
+adjudged bankrupt, then for the purposes of any proceedings con-
+bankrupts. sequent upon any such order, the trustee in the last preced-
+ing bankruptcy shall be deemed to be a creditor in respect of
+any unsatisfýed balance of the debts provable against the
+property of the bankrupt in that bankruptcy.
+(2) In the event of a second or subsequent receiving order a
+made against a bankrupt beingfollowed by an order adjudg- -
+ing him bankrupt, or in the event of an order being made for
+the administration in bankruptcy of the estate of a deceased
+bankrupt, any property acquired by him since he was last
+adjudged bankrupt~ which at the date when the subsequent
+petition was presented had not been distributed amongst the
+creditors in such last preceding bankruptcy, shall (subject to
+any disposition thereof made by the offýcial receiver or
+trustee in that bankruptcy, without knowledge of the pre-
+sentation of the subsequent petition, and subject to the pro-
+visions of subsection (5) and subsection (6) of this section)
+vest in the trustee in the subsequent bankruptcy or adminis-
+tration in bankruptcy as the case may be.
+(3) Where the trustee in any bankruptcy receives notice of
+a subsequent petition in bankruptcy against the bankrupt or
+af ter his decease of a petition for the administration of his
+estate in bankruptcy, the trustee shall hold any property
+then in his possession which has been acquired by the bank-
+rupt since he was adjudged bankrupt until the subsequent
+petition has been disposed of, and, if on the subsequent
+petition an order of adjudication or an order for the adminis-
+tration of the estate in bankruptcy is made, he shall transfer
+all such propertY or the proceeds thereof (after deducting his
+costs and expenses) to the trustee in the subsequent bank-
+ruptcy or administration in bankruptcy, as the case may be. 8
+(4) A payment of money or delivery of property to a
+person subseq l1ently adjudged bankrupt, or to a person
+claiming by assignment from him, shaJl, notwithstanding
+anything in this Law, be a  good discharge to the person
+paying the money or delivering the property, if  the payment
+or delivery is made before the actual date on which the
+receiving order is  made and without notice of the presen-
+tation of a bankruptcy petition and is either pursuant to the
+ordinary course of business or otherwise bona fide.
+
+BANKRUPTCY. [CAP. 5. 35 i
+~
+(5) All transactions by a bankrupt with any person .
+dealing with him bond fide and for value, in respect of
+~property, whether movable or immovable, acquired by the
+ban~rupt aft~r the adj udication, sha~, if  cO;mpleted before
+any ýnterventýon by the trustee, be valýd agaýnst the trustee,
+and any estate or interest in such property which by virtue
+of this Law is vested in the trustee-sha11 determine and pass
+in such manýýer and to such extent as may be required for
+giving effect to any such transaction.
+8 For the purpose of this subsection, the receipt of any
+money, security, or negotiable instrument, from, or by the
+order or direction of, a  bankrupt by his banker, and any
+payment and any delivery of any security or negotiable
+instrument made to, or by the order or direction of, a
+bankrupt by his banker, shal1 be deemed to be a transaction
+by the bankrupt with such bankeT dealing with him for
+value.
+(6) Where a bankeT has ascertained that a person having
+an account with him is an undischarged bankrupt, then,
+unless the bankeT is satisfý~d that the account is on behalf of
+some other person, it  shall be his duty forthwith to inform
+the trustee in the bankruptcy or the official receýver of the
+existence of the account, and thereafter he shal1 not make
+any payments out of the account, except under an order of
+the Court or in accordance with instructions from the
+trustee in the bankruptcy, unless by the expiration ot one
+month from the date of giving the information no instruc-
+tions have been received from the trustee.
+Effect of Bankruptcy on Antecedent Transactions.
+-44. (1) Where a creditor has issued execution against the Res~riction
+goods or immovable property of a debtor, or has attached ~~eý;;i~~~: of
+any debt due to him, he sha11 not be entitled to retain the under.
+A benefýt of the execution or attachment against the trustee in ~~e~~~~~-
+..bankruptcy of the debtor, unless he has completed the ment.
+execution or attachment before the date of the receiving
+order, and before notice of the presentation of any bank-
+ruptcy petition by or against the debtor, or of the commission
+of any available act of bankruptcy by the debtor.
+(2) For the purposes of this Law, an execution or attach-
+ment shall be deemed to be completed-
+(a) in the case of goods, chattels, or other movable
+property in the possession of the debtor or of
+nego.tiable instruments., ~seizure and sale;
+--
+
+36 CAP. 5.] BANKRUPTCY. .i
+.
+(b) in the case of go?ds, chattels, <?r ot~er mov8;ble
+rproperty to whých the debtor ýs entýtled subject
+to alien or right of some person to the immediate
+possession thereof, by attachment by prohibition
+order and sale;
+.(c) in the case of lands, houses or other immovable
+property or any interest therein by attachment
+and due registration thereofat the Land Registry
+Office;'
+(d) in the case of an attachment of a  debt notbeing a 8
+negotiable instromeýýt, by receipt of the debt.;
+(e) in the case of shares in any public company or cor-
+poration, by attachment by prohibition order;
+(i) in the case of property in the custody or uncler the
+control of any public officer in his official capacity
+or in Court, by attachment by prohibition order
+duly obtained and served.
+(3) An execution levied by seizure and sale on the goods,
+chattels or other movable property of a debtor is not
+invalid by reason only of its being an act of bankruptcy, and
+a person who purchases the goods, chattels or other movable
+property under a sale by the sheriff shall, in all cases., acquire
+a good title to them against the trustee in bankruptcy.
+~ut~~ of 45. (1) Where any goods of a  debtor are taken in execu-
+~oe;~OdaSs tion and before the sale thereof, or the completion of the
+takenti? execution by the receipt or recovery of the full amount of the
+execu ýan. levy, notice is served on the sheriff that a receiving order has
+been made against the debtor, the sheriff shall, on request,
+deliver the goods and any money seized or received in part
+satisfaction of the execution to the official receiver, but the
+costs of the execution shall be a  fýrst charge on the goods or
+money so delivered, and the official receiver or trustee may
+sell the goods or an adequate part thereoi, for the purpose of
+satisfying the charge. 8
+(2) Where under an execution in respect of a judgment for
+a  sum exceeding twenty polinds, the goods of a  debtor are
+sold or money is paid in order to avoid sale, the sheriff shall
+deduct his costs of the execution from the proceeds of sale or
+the money paid, and retain the balance for fourteen days,
+and if within that time notice is served on him of a  bank-
+ruptcy petition having been presented by or against the
+debtor, and a  receiving order is made against the debtor
+thereon, or on any other petitionof which the sheriff has
+notice, the sheriffshall paythe balance to the official receiver
+~
+
+BANKRU:CY. [CAP.5. 37 i
+~
+or to the tnýstee, as the case may be, who shall be entitIed to .
+retain the same as against the execution creditor.
+~46. (1) Any settlement of property, not being a  settIe- ~voi~ce
+ment made before and in consideration of marriage, or made ~et~l~m:~ts.
+in favour of a purchaser or incumbrancer in good faith and
+for valuable consideration,or a settIement made on or for the
+wife orohildren of the settlor of property which has accnýed
+to the settlor af ter marriage in right of his wife, shall, if  the
+8 settlor becomes banknýpt within two years af ter the date of
+the settlement, be void against the tnýsteein the banknýptcy,
+and sha1l, if the settlor becomeþ banknýpt at any subsequent
+time within ten years af ter the dat~ of the settIement, be
+void against the tnýstee in the banknýptcy, unless the parties
+claiming under the settIement can prove that the settIor was,
+at the time of making the settIement, able to payall his debts
+without the aid of the property comprised in the settlement
+and that the interest of the settlor in such property passed to
+the tnýstee of such settlement on the execution thereof.
+(2) Any covenant or coIÝtract made by any person (herein-
+af ter caUed the settlor) in consideration of his or her
+marriage, either for the future payment of money for the
+benefýt of the settlor's wife or husband or children, or for the
+future settIement on or for the settlor's wife or husband or
+children, of property, wherein the settIor had not at the date
+of the marriage any estate or interest, whether vested or con-
+tingent, in possession or remainder, and not being money or
+property in right of the settIor's wife or husband, shall, if
+the settIor is adjudged banknýpt and the covenant or con-
+tract has not been executed at the date of the commencement
+of his bankruptcy, be void against the tnýstee in the bank-
+nýptcy except so far as it  enables the persons entitled under
+the covenant or contract to claim for dividend in the settIor's
+bankruptcy under or in respect of the "covenant or contract,
+8 bu~ any such claim to diyidend sha1l be postpo~ed u~til ~ll
+claýms of the other credýtors for valuable consýderatýon ýn
+money or money's worth have been satisfýed.
+(3) Any payment of money (not being payment of
+premiums on a  policy of life assurance) or any transfer of
+property made by the settIor in pursuance of such a covenant
+or contract as aforesaid shall be void against the tnýstee in
+the settIor's banknýptcy, unless the persons to whom the
+payment or transfer was made prove either-
+(a) that the payment or transfer was m~de more than
+
+38 CAP. 5.] BANKRUPTCY, i
+.
+two years before the date of the commencement
+rof the bankruptcy; or
+(b) that at the date of the payment or transfer the
+settlor was able to payallhis debts without the
+aid of the money so paid or the property so
+transferred; or
+(c) that the payment or transfer was made in pursuance
+of a covenant or contract to pay or transfer
+money or property expected to come to the
+.settlor from or on the death of a particularperson 8
+named in the covenant or contract andwasmade
+within three months af ter the money or property
+came into the possession or under the control of
+the settlor,
+but, in the event of any such paymeDt or transfer being
+declared void, the persons to whom it was made shall be
+entitled to claim for dividend under or in respect of the
+covenant or contract in Iike manýýer as if it had not been
+executed at the commencement of the bankruptcy,
+(4) "SettIement" shall, for the purpose of this section,
+incI~de any conveyance or transfer of property~
+Avoidance 47. (1) Every conveyance or transfer of property, or
+of preferen-
+hthdtdbl't'
+ces in certain C arge ereon ma e, every paymen ma e, every o ýga ton
+cases. incurred and every judiciaI proceeding taken or suffered by
+any person unable to pay his debts as they become due from
+his own money in fa your of any creditor, or of any person in
+trust for any creditor, with a  view of giving such creditor a
+preference over the other creditors, shall, if the person
+making, taking, paying, or suffering the same, is adjudged
+bankrupt on a  bankruptcy petition presented within three
+months af ter the date of making, taking, paying, or suffering
+the same, be deemed fraudulent and void as agajnst the
+trustee in the bankruptcy,
+(2) This section shall not affect the rights of any person 8
+making title in good faith and for valuable consideration
+through or under a  creditor of the bankrupt.
+Protection 48. Subject to the foregoing provisions of this Law with
+~:a~:~C:s respect to the effect of bankruptcy on an execution or attach-
+wit~out meDt, and with respect to the avoidance of certain settle-
+notýce. ments, assignments and preferences, nothing in this Law
+shall invalidate in the case of a bankruptcy:-
+(a) any paymeDt .by the bankrupt to any of his
+creditors; _:.: ..:. ---: :- .-
+--
+
+BANKRU~CY. [CAP. 5. 39 i
+~
+(b) any payment or dellvery to the bankrupt; -
+(c) any conveyance or assignment by the bankrupt for
+~valuable consideration;
+(d) any contract, dealing, or trans.actio~ by or with the
+bankrupt for valuable consýderatýon:
+Provided that both the following conditions are complied
+with, namely- .
+(a) that the payment, delivery, conveyance, assign-
+..ment, contract, dealing, or transaction as the
+..cage may be, takes place before the date of the
+receiving order; and
+(b) that the person (other than the debtor) to, by or
+with whom the payment, delivery, conveyance,
+assignment, contract, dealing or transaction was
+made, exeouted, or entered into, has not at the
+time of the payment, delivery, conveyance,
+assignment, contract, dealing or transaction,
+notice of any available act of bankruptcy
+committed by the bankrupt before that time.
+Realization of Property.
+49. (1) Immediately on a debtor being adjudged bank- Vesting and
+t  thrtf  thbkhII.htransfer of
+rup, e prope y o e an rupt s  a vest ýn t  e trUStce. property.
+Until a trustee is appointed the official receiver shalJ be the
+trustee for the purposes of this section.
+(2) On the appointment of a  trustee the property shall
+forthwith pass to and vest in the trustee appointed.
+(3) The property of the bankrupt sha11 pass from the
+trustee, including under that term the official receiver when
+he fi11s the office of trustee for the time being during his
+continüance in office, without any conveyance, assignment,
+or transfer whatever.
+8 50. (1) The trustee sha11, as soon as may be, take posses- Possession
+sion of the deeds, books, and documents of the bankrupt, ~~ ~~~~:~y
+and allother parts of his property capable of manual .
+delivery .
+(2) The trustee sha11, in relation to and for the purpose of
+acquiring or retaining possession of the property of the .
+bankrupt, be in the same position as if  he were a  receiver of
+the property appointed by the Court, and the Court may,
+on his application, enforce such acquisition or retention
+accordingir.
+
+40 CAP. 5.] HA~RUPTCY. i
+(3) Where any part of the property of the bankrupt con-
+rsistsof stock, shares in ships, shares, or any other property
+transferable in the books of any company, office, or person,
+the trustee may exercise the right to transfer the property to
+the same extent as the bankrupt might have exercised it
+if  he had not become bankrupt.
+(4) Where any part of the property of the bankrupt con-
+sists ot things in action, such things shal1 be deemed to have
+been duly assigned to the trustee.
+(5) Any treasurer or other officer, or any banker, attorney, 8
+or agent of a bankrupt, shal1 payand deliver to the trustee
+all money and securities in his possession or power, as such
+officer, banker, attorney, or agent, which he is not by law
+entitled to retain as against the bankrupt or the trustee. If
+he does not he shall be guilty of a contempt of Court, and may
+be punished accordingIyon the application' of the trustee.
+~;i:~:e 51. Any person acting under warrant of the Court may
+property of seize any part of the property of a bankrupt, or of a  debtor
+bankrupt. against whom a receiving order has been made. in the ,
+custody or possession of the bankrupt or the debtor. or of any
+other person, and with a view to such seizure may break open
+any house, buildÝýýg, or room of the bankrupt or the debtor
+where the bankrupt or the debtor is supposed to be, or any
+bui1ding or receptacle of the bankrupt or the debtor where
+any of his property is  supposed to be; and where the Court
+is  satisfýed that there is reason to believe that property of a
+bankrupt or a  debtor against whom a  receiving order has
+been made is  concealed in a house or place not belonging to
+him, the Court may, if  it  thinks fýt, grant a  search warrant
+to any constable or offýcer of the Col1rt, who may execute it
+according to its tenor.
+A;ppropria- 52. (1) Where a  bankrupt is an offýcer or clerk employed
+;~~i~~ of or engaged in the civil service of the Government, the 8
+pay or trustees shal1 receive for distribution among the creditors so
+~~~~Jo:. much ot the bankrupt's pay or salary as the Court, on the
+application of the trustee, with the consent of the chief
+offýcer of the Department under which the pay or salary is
+enjoyed, may direct.
+(2) Where a  bankrupt is in receipt of a  salary or income
+other than as aforesaid, or is entitled to any half-pay, or
+pension, or to any compensation granted by the Department
+of the Accountant-General, the Court, on the application of
+the trustee, shall from time to time make such, order as it
+
+BANK=CY, [CAP.5. -41 i
+-
+thinks just for the paymentof the salary, income, half-pay, -
+~pension or compensatjon, or of any part thereof, to the
+trustee, to be applied by him in such manýýer as the Court
+may direct,
+53,. (1) Where any part of the ,property of the bankrupt ~i~~:~e:
+consýsts of land of any tenure wýth onerous covenants, of property.
+shares or stock in companies, of unprofitable contracts, or of
+any other property that is unsaleable, or not readily saleable
+a by reason of its binding the possessor thereof to the perfor-
+., mance of any onerous act, or to the payment of any sum of
+money, the trustee, notwithstanding that he has endea-
+voured to sell or has taken possession of the property, or
+exercised any act of ownership in relation thereto, bui
+subject to the provisions ot this section, may, by writing
+signed by him, at any time within twelve months af ter the
+first appointment of a trustee, disclaim the property:
+Provided that where any such property shall not have
+come to the knowledge of the trustee within one month af ter
+such appointment, he may disclaim such property at any
+time within twelve months af ter he first became aware
+thereof or such extended period as ma y be a1lowed by the
+Court,
+(2) The disclaimer shall operate to determine, as from the
+date of disclaimer, the rights, interesis, and liabilities of the
+bankrupt and his property in or in respect of the property
+disclaimed, and shall also discharge the trustee from all
+personal liability in respect of the property disclaimed, as
+from the date when the property vested in him, bui sha1l not,
+except so far as is necessary for the purpose of releasing the
+bankrupt and his property and the trustee from liability,
+affect the rights or liabilities of any other person,
+(3) A trustee shall notbe entitled to disclaÝm a lease with-
+8 out the leave of the Court, except in any cases which may be
+prescribed by general rules, and the Court may, before or on
+granting such leave, require such notices to be given to
+persons interested, and impose such terms as a condition of
+granting leave, and make such orders with respect to fixtures,
+tenant's imptovefnents, and other matters arising out of the
+t,enancy as the Court thinks just,
+'(4) The trustee shaU not be entitled to disclaÝm any
+property in pursuance of this section in any case where an
+application in writing has been made to the trustee by any
+
+42 GAP. 5.] BA::'PTCY. -i
+c
+person interested in the property requiring him to decide -
+whether he will disclaim or not, and the trustee has for a
+~period of twenty-eight days af ter the receipt of the applica-
+tion, or such extended period as may be allowed by the
+Court, declined or neglected to give notice whethet he
+disclaims the property or not; and, in the case of a contract,
+if  the trustee, af ter such application as aforesaid, does not
+within the said period or extended period disclaim the
+contract, he shall be deemed to have adopted it.
+.(5) Th,e Court may, on th~ application of any perso? who 8
+ýs, as agaýnst the trustee, entýtled to the benefýt or subject to
+the burden of a contract made with the bankrupt, make an
+order rescinding the contract on such terms as to payment
+by or to either party of damages for the non-performance of
+the contract, or otherwise, as to the Court may seem equi-
+table, and any damages payable under the order to any such'
+person may be proved by him as a  debt under the bank-
+ruptcy.
+(6) The Court. may, on application by any person either
+claiming any interest in any disclaimed property, or under
+any liability not discharged by this Law in respect of any
+disclaimed property, and on hearing such persons as it thinks
+fýt, make an order for the vesting of the property in or deli-
+very thereof to any person entitled thereto, or to whom it
+may seem just that the same should be delivered by way of
+compensation for such liability as aforesaid, or a trustee for
+him, and on such terms as the Court thinks just; and on any
+such vesting order being made, the property comprised
+therein shall vest accordingly in the person therein named in
+that behalf without any conveyance or assignment for the
+purpose:
+Provided always, where the property disclaimed is of a
+leasehold nature, the Court shall not make a vesting order Ýn
+favour of any person claiming under the. bankrupt, whether a
+as under lessee or as mortgagee by demýse except upon the ..
+terms of making that person-
+(a) subject to the same liabilities and obligations as the
+bankrupt was subject to under the lease in
+respect of the property at the date when the
+bankruptcy petition was fýled; or
+(b) if the Court thinks fýt, subject only to the same
+liabilities and obligations as if  the lease had been
+assigned to that person at that date;
+and in either event (if the case so requires) as if the lease had
+
+-BANKRUPTCY. [CAP.5. 43 i
+-
+comprised only the property comprised in the vesting order; =
+and any mortgagee or under-Iessee declining to accept a .
+~vesting order upon such terms shall be excluded from all
+interest in and security upon the property, and if  there is no
+person claiming under the bankrupt who is willing to accept
+an order upon such terms, the Court shall have power to
+vest the bankrupt's estate and interest in the property in
+any person liable either personally or in a  representa tive
+character, and either alone or joinlly with the bankrupt to
+perform the lessee's covenants in such lease, freed and dis-
+Ý- charged from all estates, incumbrances, and interests created
+therein by the bankrupt.
+(7) Where, on the release., removal, resignation or death of
+a trustee in bankruptcy an official receiver is acting as
+trustee, he may disclaim any property which might be dis-
+claimed by a  trustee under the foregoing provisions, not-
+withstanding that the time prescribed by this section for
+such disclaimer has expired but such power of disclaimer
+shall be exercisable only within twelve months af ter the
+official receiver has become trustee in the circumstances
+aforesaid, or has become aware of the existence of such
+property, whichever period may last expire.
+(8) Any person injured by the operation of a  disclaimer
+under this section shall be deemed to be a  creditor of the
+bankrupt to the extent of the injury, and may accordingly
+prove the same as a  debt under the bankruptcy.
+54. Subject to provisions of this Law, the trustee may do Powers of
+IIfhf  II.th .trustee
+a or any o t   e o owýng ýngs:- to dea! with
+(a) selI all or any part of the property of the bankrupt property.
+(including the goodwill of the business, if any,
+and the book debts due or growing due to the
+bankrupt) , by public auction or private contract, \
+~ with power to transfer the whole thereof to any
+-person or company, or to selI the same in parcels;
+(b) give receipts for any money received by him, which
+receipts shall effectually discharge the person
+paying the money from all responsibility in
+respect of the application thereof;
+(c) prove, rank, claim, and draw a dividend in respect of
+any debt due to the bankrupt ;
+~ (d) exercise any powers the capacity to exercise which
+is vested in the trustee under this Law, and
+c. g
+
+44 ~.] BANKRUPTCY- ~1
+-
+execrite any powers of attorney, deeds and other =
+instruments for the purpose of carrying into
+reffect the provisions of this Law.
+Powe~s bl 55. (1) The trustee may with the permission of the com-
+~;ertC:US:te: mittee oi inspection, do all or any of the following things:-
+:~~i~er~f (a) carry on the business of the bankrupt, so far as may
+?ommit;tee of be necessary for the beneficial winding up of the
+ýnspection. same .
+,
+(b) bring, institute, or defend any action or other legal
+8proceedings relating to the property of the
+bankrupt;
+(C) employ an advocate or other agent to take any
+proceedings or do any business which may be
+sanctioned by the committee of inspection;
+(d) accept as the consideration for the sale of any
+property of the bankrupt a sum of money pay-
+able at a fýýture time subject to such stipulations
+as to security and otherwise as the committee
+thinks fit;
+(e) mortgage or pledge any part of the property of the
+bankrupt for the purpose of raising money for the
+payment of his debts;
+(f) refer any dispute to arbitration, compromise any
+debts, claims, and liabilities, whether present or
+future, certain or contingent, liquidated or un-
+liquidated, subsisting or supposed to subsist
+between the bankrupt and any person who may
+have incurred any liability to the bankrupt, on
+the receipt of such sums, payable at such times,
+and generallyon such terms as may be agreed on;
+(g) make such comprise or other arrangement as may
+be thought expedient with creditors, or persons
+claiming to be creditors, in respect of any debts ý-.
+provable under the bankruptcy; -
+(h) make such compromise or other arrangement as
+may be thought expedient with respect to any
+claim arising out of or incidental to the property
+of the bankrupt, made or capable of being made
+on the trustee by any person or by the trustee on
+any person;
+(ýý divide in its existing form amongst the creditors,
+according to its estimated value, any property
+which from its peculiar fiatlife or other special
+
+, BANKRUPTCY. [CAP. 5. 4~ i
+circumstances .cannot be readily or advan- ..
+tageously sold.
+~(2) The permission given for the purposes of this section
+shalI not be a general permission to do aLI or any of the above
+mentioned things, but shaU only be a  permission to do the
+particular thing or things for which permission is sought in
+the specified cage or cases.
+56. Where any goods of a debtor against whom a receiving Right of
+8 order has been made are held by any person by way of pledge, ~~~~~ ;~OdS
+pawn, or other security, it shall be lawful for the offýcial pawned, etc.
+receiver or trustee, af ter giving notice in writing of his
+intention to do so, to inspect the goods, and, where such
+notice has been given such person as aforesaid shalI not be
+entitled to realise his security until he has given the trustee a
+reasonable opportunity of inspecting the goods and of
+exercising his right of redemption if  he thinks fit to do so.
+57. Where the offýcial receiver or trustee has seized or Protection
+disposed of any goods, chattels, property, or other effects in ~:C~~~~L
+the possession or on the premises of a debtor against whom a  and trustees
+receiving order has been made, without notice of any claim ~:nal
+by any person in respect of the same, and it  is thereafter !iability.
+made to appear that the said goods, chattels, property, or ~~sc:s~aýn
+other effects were not, at the date of the receiving order, the
+property of the debtor, the offýcial receiver or trustee shalI
+not be personalIy liable for any loss or damage arising from
+such seizure or disposal sustained by any person claiming
+such property, nor for the costs of any proceedings taken to
+establish a  claim thereto, unless the Court is of opinion that
+the offýcial receiver or trustee has been guilty of negligence
+in respect of the same.
+8Distribution of Property.
+58. (1) Subject to the retention of such sums as may be Decýa:ati?n
+necessary for the costs of administration, or otherwise, the :i~~ ~fstribU-
+trustee shall, with all convenient speed, declare and dis- dividends.
+tribute dividends amongst the creditors who have proved
+their debts.
+(2) The first dividend, if any, shall be declared and dis-
+tributed within four months af ter the conclusion of the first
+meeting of the creditors, unless the trustee satisfies the
+committee of inspection that there is suffýcient reason for
+postponing the declaration to alater date.
+g (2)
+
+46 GAP. 5.] BANKRUPTCY. i
+~
+(3) Subsequent dividends shall, in the absenc.e o~ suffýcient
+r- reason to the contrary, be declared and dýstnbuted at
+intervals of not more than six months.
+(4) Before declaring a dividend the trustee shall cause
+notice of his intention to do so to be gazetted in the pre-
+scribed manner, and shall also send reasonable notice thereof
+to each creditor mentioned in the bankrupt's statement who
+has not proved his debt.
+(5) When the trustee has declared a dividend he shall send Ý-
+to each creditor who has proved his debt a  notice showing
+the amount of the dividend and when and how it  is payable,
+and a  statement in the prescribed form as to the particulars
+of the estate.
+]oint and 59. (1) Where one partner of a fýrm is adjudged bankrupt,
+ili~~:~~s a creditor to whom the bankrupt is indebted jointly with the
+.other partners of the fýrm, or any of them shall not receive
+any dividend out of the separate property of the bankrupt
+unill all the separate creditors have received the full amount
+of their respective debts.
+(2) Where joint and separate properties are being ad-
+ministered, dividends of the joint and separate properties
+shall, subject to any order to the contrary that may be made
+by the Court on the appIication of any person interested, be
+declared together; and the expenses of and incident to such
+dividends shall be fairly apportioned by the trustee between
+the joint and separate properties, regard being had to the
+work done for and the benefýt received by each property.
+Provision 60. (1) In the calculation and distribution of a  dividend
+for creditors
+hhIIk..fdbtbbl.bkresiding at a t   e trustee s  a ma e provýsýon or e s pro a e ýn an-
+distance, etc. ruptcy appearing from the bankrupt's statements, or other-
+wise, to be due to persons resident in places so distant from
+the place where the trustee is acting that in the ordinary 8
+course of communication they have not had suffýcient time
+to tender their proofs, or to establish them if  disputed, and
+also for debts probable in bankruptcy. the subject of claims
+not Jet determined.
+(2) He shall also make provision for any disputed proofs
+or claims, and for the expenses necessary for the adminis-
+tration of the estate or otherwise.
+(3) Subject to the foregoing provisions, he shall distribute
+as dividend all money in hand.
+
+BANKRUPTCY. [CM. 5. 47 i
+61. Any creditor who has not proved his debi before the Rig~t of
+~.
+declaration of any dividend or dividends shall be entitled to c;:~ý~o:s
+be paid out of any money for the time being in the hands of not proved
+the trustee any dividend or dividends he may have failed to ~:~:aý::~~r:
+receive before that money is  applied to the payment of any of a divi-
+future dividend or dividends, bui he shall not be entitled to dend.
+disturb the distribution of any dividend declared before his
+debi was proved by reason that he has not participated
+therein.
+8 62. Where a debi has been proved, and such debi includes ~nterest on
+interest, or any pecuniary consideration in lieu of interest, ebts.
+such interest or consideration shall. for the purposes of divi-
+dend, be calculated at a rate not exceeding iline per centum
+per annum, without prejudice to the right of a  creditor to
+receive out of the estate any higher rate of interest to which
+he may be entitled af ter all the debts proved in the estate
+have been paid in full.
+63. (1) When the trustee has converted into money all the Fina! divi-
+property of the bankrupt, or so much thereof as can, in the dend.
+joint opinion of himself and of the committee of inspection,
+be realized without needlessly protracting the trusteeship, he
+shall declare a final dividend bui before so doing he shall give
+notice in manýýer prescribed to the persons whose claims to be
+creditors have been notified to him, bui not established to his
+satisfaction that if  they do not establish their claims to the
+satisfaction of the Court within a time limited by the notice,
+he will proceed to declare a final dividend without regard to
+their claims.
+(2) Af ter the expiration of the tim,e so limited, or if the
+Court, on application by any such creditor, grants him
+further time for establishing his claim, then on the expiration
+of such further time, the final dividend shall be distributed
+8 among the creditors who have proved, without regard to the
+claims of an y  other persons.
+(3) if  the Court admits any claim which may have been re-
+jected by the trustee, the holder of such claim shall be
+entitled to be paid out of all available property in the hands
+of the trustee, any dividend to which he would have been
+entitled if  his claim had not been rejected by the trustee.
+64. No action for a dividend shalllie against the trustee, ~o.~ti~nfOr
+bui if  the trustee refuses to pay any dividend the Court may, ývý en .
+on application being made if  it  thinks fit, order him to pay it,
+
+48 CAP. 5.] BANKRUPTCY. i
+and also to payout of his own money interest thereon for the ~
+time that it  is  withheld, and the costs of the appIication.
+~ro~r 65. (1) The trustec, with the permission of the committee
+b~~~t of inspection, may appoint the bankrupt himseli to superin-
+to ma~e tend the management of the property of the bankrupt or of
+prope. any part thereof, or to carry on the trade (if any) of the
+bankrupt for the benefýt of his creditors, and in any other
+respect to aid in administering the property in such manýýer
+and on such terms as the trustee may direct. 8
+(2) The trustee may from time to time, with the per-
+mission of the committee of inspection, make such allowance
+as he may think just to the bankrupt out of his property for
+the support of the bankrupt and his family, or in considera-
+tion of his services if  he is engaged in winding up his estate,
+but any such allowance may be reduced by the Court.
+Right of 66. The bankrupt sha11 be entitled t.o any surplus re-
+~~~f:s. maining af ter payment in full of his creditors, with interest,
+.as by this Law provided, and of the costs, charges, and
+expenses of the proceedings under the bankruptcy petition.
+PART LV.
+OFFICIAL RECEIVERS.
+Appoint- 67. (1) The Governor may, at any time af ter the passing of
+~~:~~r this Law, and from time to time, appoint to be official
+of of?cial receivers of debtors' estates such persons and at such salaries
+~f~:~:r's as he thinks fýt and may remove any person so appointed
+estate. from such office. The fýnancia! part of the duties of official
+receivers sha11 be entirely under the direct control and super-
+vision of the Accountant-General in the fýrst instance and of
+the Director of Audit, but such official receivers sha11 be
+8officers of the Conrts to which theyare respectively attached.
+(2) The Governor may determine the number of officia!
+receivers to be appointed, the security to be given by an
+official receiver so appointed, and the judicial Districts to
+be assigned to them. The same person may be appointed
+to act for more than one judicial District.
+(3) Whenever an official receiver sha11 be absent tem-
+porarily through illness or otherwise, the President of the
+District Court to which such official receiver is attached may
+if  the Governor has not made a provisiona! appointment~
+-~
+
+BANKRUPTCY. [CAP.5. 49 i
+appoint anather officer of the Court to discharge during the
+~. time of such absence the duties of such official receiver.
+Such officer of the Court shall give security as may be deter-
+mined by the President of the District Court.
+68.
+(1)  The duties of the official receiver shal1 have S
+ffitat~sýof
+.o cýa
+relatýon both to the conduct of the debtor and to the ad- receiver.
+ministration of his estate.
+a (2) An official receiver may, for the purpose of affidavits
+..verifying proofs, petitions, or other proceedings under this
+Law, administer oaths.
+'-
+(3) All expressions referring to the trustee under a bank-
+ruptcy shall, unless the context otherwise requires, or the
+Law otherwise provides,' include the official receiver when
+acting as trustee.
+(4) The trustee shal1 supply the official receiver with such
+information, and give him such access to, and facilities for
+inspecting the bankrupt's books and documents, and gener-
+al1y shall give him such aid, as may be requisite for enabling
+the official receÝver to perform his duties under this Law.
+69. As regards the debtor, it shal1 be the duty of the ~~~~~ of
+official receiver- receiver
+(a) to investigate the conduct of the debtor and to ::1e~tor's
+report to the Court, stating whether there is conduct.
+reason to believe that the debtor has committed
+any act which constitutes an offence under this
+Law, or which would justify the Court in retusing,
+suspending or qualifying an order for his dis-
+charge;
+(b) to make such other reports concemillg the conduct of
+the debtor as the Court may direct;
+...(c) to take such part as may be directed by the Court
+..in the public examination of the debtor;
+(d) to take such part, and give such assistance, in
+relation to the prosecution of any fraudulent
+debtor as the Attorney-General may direct.
+70. (1) As reg.ards th.e estate of a  debtor, it  shall be the ~~~~ of
+duty of the officýal receýver- receiver aýý
+(a) pending the appointment of a  trustce, to act as ~~ý~~~~~
+interim receiverofthe debtor's estate, and, where e~~te,
+a  special ~anager is not appoint~d~ ~ ffiarýager
+thereof;
+,
+~~
+
+SO CAFe 5.] BANKRUPTCY. 1
+(b) to authorize the special manager to raise money ?r
+rmake advances for the puýposes of the estate ýn
+any cage where, in the inteýests of the creditors,
+it  appears necessary so to do;
+(c) to summon and preside at the fýrst meeting of
+creditors:
+(d) to issue forms of proxy for use at the meetings of
+creditors;
+(e) to report to the creditors as to any proposa! which Ý-
+the debtor may have made with respect to the ..
+mode of liquidating his affairs;
+(1) to advertise the receiving order, the date of the
+creditors' fýrst meeting and of the debtor's
+public examination, and such other matters as
+it may be necessary to advertise;
+(g) to act as trustee during any vacancy in the office of
+trustec.
+(2) For the puýpose of his duties as interim receiver or
+manager the official receiver sha!l have the same powers as
+if  he were a  receiver and manager appointed by the Court
+but shall, as far as practicable, consult the wishes of the
+creditors with respect to the management of the debtor's
+property, and may for that puýpose, if  he thinks it  advisable,
+-summon meetingsofthepersons claiming to be creditors, and
+shall not, unless the Court otherwise order, incur any expense
+beyond such as is requisite for the protection of the debtor's
+property or the disposing of perishable goods:
+Provided that, when the debtor cannot himself prepare a
+proper statement of affairs, the officia! receiver may, subject
+to any prescribed conditions, and at the expense of the
+estate, employ some person or persons to assist in the pre-
+paration of the statement of affairs.
+(3) Every officia! receiver shall account to the Court and
+8payover all moneys and deal with all securities in such'
+manner as the Court from time to time directs.
+PART V.
+TRUSTEES IN BANKRUPTCY.
+Official 71. The official name of a  trustee in bankruptcy shall be
+name of
+hf   hftrustee. "t e trustee o t   e property o
+a bankrupt" (inserting the name o/the bankrupt), and by that---
+
+i
+BANKRUPTCY~ [CAP. 5. 51 ~
+.
+name the trustee may, in Cyprus or elsewhere, hold property
+~.
+of every description, make contracts, sue and be sued, enter
+into any engagements binding on himseli and his successors
+in office, and do all other acts necessary or expedient to be
+done in the execution of his office,
+72. (1) The creditors may, if  they think fýt, appoint more r:,:erOint
+persons than one to the office of trustee, and when more joinf~r
+8persons than one are appointed they shall declare whether sucressiye
+any act required or authorized to be done by the trustee is trustees.
+to be done by all or any one or more of such persons, but all
+such persons are in this Law included under the term
+"trustee," and shall be joint tenants of the property of the
+bankrupt,
+(2) The creditors may also appoint persons to act as
+trustees in succession in the event of one or more of the
+persons fýrst named declining to accept the office of trustee,
+or failing to give security, or of the appointment of any such
+person not being certifýed by the Court,
+73. (1) if a  vacancy occurs in the office of a  trustee, the ~oceedings
+d't'
+1..fýllhýn case of
+cre ý ors ýn genefa meetýng may appomt a person to t   e  vacancyin
+vacancy, and thereupon the same proceedings shall be taken office of
+as in the case of a  fýrst appointment, .trustee.
+(2) The official receiver shall, on the requisition of any
+creditor, summon a  meeting for the purpose of fýlling any
+such vacancy,
+(3) if the creditors do not, within three weeks af ter the
+occurrence of a vacancy, appoint a person to fýll the
+vacancy, the official receiver shall report the matter to the
+Court and the Court may appoint a trustee,
+(4) During any vacancy in the office of trustee the official
+8 receiver shall act as trustee,
+74. (1) Subject to the provisions of this Law, the trustee Discretion-
+shall, in the administration of the property of the bankrupt :rS~~:~~dOf
+and in the distribution thereof amongst his creditors, have control
+d tdit'thb,b'A 1Ithereof. regar O any rec ýons at may e gýven y specý<ý.ý reso u-
+tion of the creditors at any general meeting or by the com-
+mittee of inspection and any directions so given by the
+creditors at any general meeting shall, in case of conflict, be
+deemed to override any directions given by the committee
+of inspection.
+(2) The trustee may summon general meetings ofcreditors
+
+i
+.52 CAP. 5.] BANKRUPTCY. ~
+.
+for the putpose of ascertaining their wishes, he may also -
+rapply to the Court, for directions in relation to any particular
+matter arising under the bankruptcy.
+(3) Subject to the provisions of this Law, the trustee
+shall use his own discretion in the management of the estate
+and its distribution among the creditors.
+tEP:tl to 75. if  the bankrupt or any creditor, debtor or other person
+ag:inst is aggrieved by any act or decision of the trustee he may
+8trustee. apply to the Court, and the Court may confýrm, reverse, or
+modify the act or decision complained ot, and make such
+order in the premises as it  thinks just.
+Offiý;ial 76. (1) The official receiver shall take cognizance of the
+receýver
+dfh.
+to inquire con uct o t   e trustee, and ýn the event of any trustee not
+intodtlýe f faithfully performing his duties, and duly observing all the
+~~: ~~:e. requirements of the law with respect to the performance of
+his duties, or in the event of any complaint being made by
+the bankrupt or any creditor in regard thereto, the official
+receiver shall inquire into the matter and may move the
+Court accordingly and the Court may make such order as
+may be deemed expedient.
+(2) The official receiver may at any time require any
+trustee to answer any inquiry made by him in relation to
+any bankruptcy in which the trustee is engaged, and may, if
+the official receiver thinks fýt, apply to the Court to examine
+on oath the trustee or any other person concerning the
+bankruptcy.
+(3) The official receiver may also direct a  local investi-
+gation to be made of the books and vouchers of the trustee.
+~emunera- 77. (1) Where the creditors appoint a.ny person to be
+~~~ý:. trustee ot a  debtor's estate, his remuneration (if any) shall
+be fýxed by an ordinary resolution of the creditors or, if  the 8
+creditors so resolve, by the committee of inspection, and
+shall be in the nature ot a commission or percentage, of which
+one part shall be payable on the amou.nt realized by the
+trustee af ter deducting any sums paid to secured creditors
+out of the proceeds ot their securities, and the other part out
+of the amount distributed in dividend. -
+(2) If one fourth in number or value of the creditors dis-
+seni from the resolution, or the bankrupt satisfies the Court
+that the remuneration is  unnecessarily large, the Court shall
+fýx the amount of the remuneration.
+
+BANKRUPTCY. [CAP. 5. 53 i
+~
+(3) The resolution shall express what expenses the re- -
+muneration is to cover, and no liability sha11 attach to the
+~bankrupt's estate, or to the creditors, in respect of any
+expenses which the remune~ation is express~d to cover.
+(4) Where a trustee acts wýthout remuneratýon, he sha11 be
+allowed out of the bankrupt's estate such proper costs and
+expenses incurred by him in or about the proceedings of the
+bankruptcy as the creditors may, with the sanction of the
+Couri, approve.
+8 (5) A trustee sha11 not, under any circumstances whatever,
+make any arrangement for or accept from the bankrupt, or
+any advocate, auctioneer, or any other person that may be
+employed about a  bankruptcy, any gift, remuneration, or
+pecuniary or other consideration, or benefýt whatever beyond
+the remuneration fýxed by the creditors and payable out of
+the estate, nor sha11 he make any arrangement for giving up
+or give up any part of his remuneration, either as receiver,
+manager, or trustee to the bankrupt or any advocate or other
+person that may be employed ab out a bankruptcy.
+78. (1) Where a trustee or manager receives remuneration Allowance.
+fh..hthallbIId.h .and taxatýon
+or ýs servýces as suc, no paymen s e a owe ýn ýs of costs.
+accounts in respect of the performance by any other person
+of the ordinary duties which are required by this Law or
+rules to be performed by himseli.
+(2) Where the trustee is  an advocate he may contract that
+the renumeration for his services as trustee shall Ýnciýýde all
+professional services.
+(3) All bills and charges of advocates, managefs, accoun-
+tants, auctioneers, brokers, and other persons, not being
+trustees, sha11 be taxed by the prescribed offýcer, and no
+payments in respect thereof shall be allowed in the trustee's
+accounts without proof of such taxation having been made.
+8 The taxing offýcer sh~ll satisfy himseli before passing such
+bills and charges that the employment of such advocates
+and other persons, in respect of the particular matters out of
+which such charges arise, has been duly sanctioned. The
+sanction must be obtained before the employment, except in
+cases of urgency, and in such cases it  must be shown that no
+undue rlelay took place in ohiaining the sanction.
+(4) Every such person sha11, on request by the trustee
+(which request the trustee shall make a sufficient time before
+declaring a  dividend) deliver his bill of costs or charges to
+the proper officer for taxation, and if  he fai1s to do so within
+
+ýý-~!I",
+..,~,,~!';:~~-,,~,.",c
+I1,"":"
+54 CAP. 5.] BANKRUPTCY.
+seven days af ter receipt of the request, or such further time .
+as the Court, on application, may grant, the trustee shall
+rdeclare and distribute the dividend without regard to any
+claim by him, and thereupon any such claim shall be for-
+feited as well against the trustee personatir as against the
+estate.
+Trustee not 79. The trustee shall not pay sums received by him as
+to pay
+tt.
+th..tbk.
+money into rus ee ýn o ýs pnva e an ýng account.
+privatet He shall have at such local bank as the commi ttee of a
+accoun .inspection or in default of appointmen1ý the Court shall ..
+appoint, a separate and distinct account in the name of the
+estate administered by him, in which bank all sums received
+by him shall be paid to the credit of the estate; and if  he,
+at any time, keeps in his hands any sum exceeding fýfty
+pounds for more than ten days he shall be subject to the
+following liabilities, that is to say-
+(a) he shallpayinterest at the rate of twenty per centum
+per annum on the excess of such sum above
+fýfty pounds as he may retain in his hands;
+(b) unless he can prove to the satisfaction of the Court
+that his reason for retaining the money was
+sufficient, he shall, on the application of the
+official receiver or of any creditor, be dismissed
+from his office by the Court, and shall have no
+claim for remuneration, and be liable to any
+expenses to which the creditors may be put by
+or in consequence of his dismissal.
+Accounts of 80. The trustee shall open and keep proper books of
+;:;~:~ts. accounts and of other matters relating to his trusteeship
+and shall make his payments, in the prescribed manner.
+~~~ur::s oto 81. (1) The trustee shall ~ause hi~ accou~ts to be al1dited
+officia! every month by the commýttee of ýnspectýon and he shall, ..
+receiver. every three months, forward a certifýed copyof such accounts ý-
+to the official receiver.
+(2) He shall transmit to the official receiver on his applica-
+tion, a  statement showing the proceedings in such bank-
+ruptcy up to the date of the statement containing the
+prescribed particulars, and made out in the prescribed form.
+(3) The trustee, for the purposes of the examination of
+such accounts and statement, shall furnish the official
+receiver with such vol1chers and information as shall be
+required.
+i
+
+.BANKRUPTCY, [CAP.5. 55 i
+(4) if  the trustee fails to transmit any of the accounts and -
+~statements above referred to or to fumish the vouchers and
+information required, the Court may on the application of
+the offýcial receiver deal with the trustee as provided in
+paragraph (b) of section 79.
+82. (1) When the trustee has realized al] the property of ~el~ase of
+the bankrupt or so much thereof as can in his opinion be us re.
+realized without needlessly protracting the trusteeship,
+a and distributed a  final div.idend, if  any, or has resigned, or
+..has been removed from hýs office, or has ceased to acý by
+reason of a composition having been approved, he may
+requestthe offýcial receiver to call a meeting of the creditors
+to consider an application to be made to the Court for his
+release.
+(2) At such meeting the trustee shall lay before the
+creditors an account showing the manýýer in which the
+bankruptcy has been conducted, with a list of the unclaimed
+dividends, if  any, and of the property, if  any, outstanding,
+and shall inform the meeting that he proposes to apply to the
+Court for his release.
+(3) The creditors assembled at the meeting may express
+their opinion on the conduct of the trustee, and they or any
+of them may appear before the Court and oppose the release
+of the trustee.
+83. The Court, af ter hearing what, if anything, can be P?wer of
+urged against the release of the trustee, shall grant or with- ~~e :a:~ or
+hold the release accordingly, and if  it  withholds the release withhold
+shall make such order as it  thinks just, charging the trustee ~~~:.of
+with the consequences of any act or default he may have
+done or made contrary to his duty, and shall suspend his
+release unill such charging order has been complied with,
+and the Court thinks just, to grant the release of the trustee.
+ý-. 84. (1) The order of the Court releasing the trustee shall E~ect off
+..discharge him from allliability in respect of any acý done or ~~ues~:"o
+default made by him in the administration of the "affairs of
+the bankrupt or otherwise in relation to his conduct as
+trustee but such order may be revoked by the Court on
+proof that it was obtained by fraud or by suppression or
+concealment of any material fact.
+(2) When the trustee has not previously resigned or been
+removed, his release shall operate as a removal of him from
+his office, and thereupon the offýcial receiver shall be the
+trustee.
+
+56 GAP. 5.] BANKRUPTCY. i
+(3) When on the Telcage of a  trustec, an official receiver -
+is, or is acting as, trustec, no liability shall attach to him
+~personally in respect of any act done or default made, or
+liability incurred by any pnor trustec.
+~:::~~g 85. if  a receiving order is made against a trustee he sha!l
+bankrupt. thereby vacate his office of trustec.
+~::Ý:~::ove 86. (1) The creditors may by ordinary resolution at a ..
+trustee. meeting specially called for that purpose, of which notice ..
+shall be given in the prescnbed manner, remove a  trustee
+appointed by them and appoint another one in his stead.
+(2) If, on the application of the officia! receiver or, any
+interested person, the Court is  of opinion-
+(a) that a trustee is guilty of misconduct, or fails to
+perform his duties under this Law; or
+(b) that his trusteeship is being protracted without any
+probable advantage to the creditors; or
+(c) that he is, byreason of lunacy, or continued sickness,
+or absence, incapable of performing his duties; or
+(d) that his connection with or relation to the bank-
+rupt, or his estate, or any particular creditor,
+might make it diffýcult for him to act with
+impartiality in the interest of the creditors
+generally; or
+(e) where in any other matter he has been removed from
+office on the ground of misconduct,
+the Court may remove him from his office.
+PART VI. 8
+jURISDICTION, PROCEDURE, AND POWERS OF COURT.
+jurisdiction 87. The Courts having jungdiction in bankruptcy shall be
+to be. d b the ilistnct Courts and in the exercise of such jungdiction
+~~~~: Y  shall subject to the provisions of this Law have all the powers
+Conrts. conferred on ilistnct Courts as in the tnal of a civil action.
+Petition 88. (1) A bankruptcy petition against a  debtor sha!l be
+where to be
+dhD..Cfhdi..hihhpresented. presente to t  e ýstnci ourt or t  e stnct ýn w c t  e
+
+", BAN KR UPTCY. [CAP. 5. 57 i
+, ~
+debtor has resided or carried on business för the longest .
+period during the six months immediately preceding the
+~presentation of the petition.
+(2) N othing in this section shall invalidate a proceeding by
+reason of its being taken in a wrong Court.
+89. if any question of lawarises in any bankruptey pro- ~ :tated
+ceeding in a District Court, which all parties to the proceed- o~~:Ýo~
+ings desire, or which one of them and the judges of the ~f the
+8pistrict ~ourt may desire, to have ~et~rmined in the first ~~~~e
+ýnstallee ýn the Supreme Court, the Dýstnct Court shall state
+the facts, in the form of a special case, for the opinion of the
+Supreme Court. The special case and the proceedings, or
+such of them as may be required, shall be transmitted to the
+Supreme Court for the purposes of the determination.
+90.. (1) Subject to the provisions of this Law every Court General
+h...di.dh.LhIIhfIIpowers and
+avýng Juns ctýon un er t  ýs aw s  a ave u power to juri~diction
+decide all questions of priorities, and all other questions of Conrts in
+whatsoever, whether of law or fact, which may arise in any bankruptcy.
+case of bankruptcy coming within the cognizance ot the
+Court, or which the Court may deem it  expedient or neces-
+sary to decide for the purpose of doing complete justice or
+making a co:mPlete distribution of property in any such case.
+(2) The Court shall have jurisdiction to try and adjudicate
+upon all questions of ownership relating to goods and im-
+movable property claimed by or from the trustee, whether
+such property be in the possession of the trustee or not, and
+to decide and adjudicate upon any debt or claim due to or
+from the bankrupt.
+(3) Where default is made by any trustee, debtor or other
+person in obeying any order or direction of the Court, under
+any power conferred by this Law, or when any person is
+gui1ty of contempt of Court, the Court may af ter hearing
+8 such person, or af ter proof of his having been duly summoned
+to attend the Court, commit such person to prison for any
+term not exceeding one month. And the Court may at any
+time rescind any such order provided that the power given
+by this subsection shall be deemed to be in addition to and
+not in substitution for any other right or remedy in respect
+of such default.
+91. The Courts having jurisdiction in bankruptey in ~u:ý o~
+Cyprus and the officers of those Courts respectively shall i:~YP~8 y
+act in aid of and be auxi1i~ry to British Courts elsewhere :~
+--
+
+58 GAP. 5..] BANKRUPTCY.
+~  ~h:r having jurisdiction in bankruptcy, and an order of such =
+cr:u~s of British Court situated elsewhere as aforesaid seeking aid,
+rBankruptcy. with a  request to a  Court in Cyprus having jurisdiction in
+bankruptcy, shall be deemed suffýcient to enable the latter
+Court to exercise, in regard to the matters directed by the
+order, such jurisdiction as either the Court which made the
+request, or the Court to which such request is made, cowd
+exercise in regard to similar matter within their jurisdictions.
+Appeal. 92. (1) Every Court having jurisdiction in bankruptcy
+under this Law may review, rescind or vary any order made 8
+by it under its bankruptcy jurisdiction.
+(2) Any judgment or order of the Court given or any
+question other than a mere question of form or procedure or
+of costs, sha11 be subject to appeaý before the Supreme Court.
+(3) No such appeal shall be entertained except in con-
+formity with such general rules as may for the time being be
+in force in relation to appeals in civil actions.
+Discretion- 93. (1) Subject to the provisions of this Lawand to
+~~':~~ of ge~eral rules, the costs of and incidental to any proceeding in
+Court under this Law shall be in the discretion of the Court.
+(2) The Court may at any time adjoum any proceedings
+?efore it upon such terms, if  any, as it may think fit to
+ýmpose.
+(3) The Court may at any time amend any written
+process or proceeding under this Law upon such terms, if
+any, as it  may think fit to impose.
+(4) Where by this Law or by general rwes, time for doing
+anything is limited, the Court may extend the time either
+before or af ter the expiration thereof, upon such terms, if
+any, as the Court may think fit to impose.
+(5) Subject to general rules, the Court may, in any matter,
+take the whole or any part of the evidence either viva voce, -
+or by interrogatories or upon affýdavit or by commission ,.
+abroad.
+~nso~ida- 94. Where two or more bankruptcy petitions are pre-
+;:ti~ns. sented against the same debtor or against joint debtors, the
+Court may consolidate the proceedings, or any of them, on
+such terms as the Court thinks fýt.
+P::wer to 95. Where the petiiiüner does not proceed with due
+~::ý::e of diligence on his petition, the Court may substitute as
+proceedings.
+
+BANKRUPTCY. [CAP. 5. 59 i
+~
+petitioner any other creditor to whom the debtor may be -
+rindebted in the amount required by this Law in the case of
+thepetitioning creditor.
+96. if a debtor by oragainst whom a bankruptcy petition Continuance
+...
+hallof proceed- has been presented dýes, the proceedýngs ýn the matter s ,ings on death
+unl~ss the Court otherwise order, be continued as if  he were of debtor.
+alive.
+8 97. The Court may at any time, for sufficient reason make Power to
+an order staying the proceedings under a bankruptcy ~~~~i~;~~
+petition either altogether or for a limited time, on such terms
+and subject to such conditions as the Court may think just.
+98. Any creditor whose debt is sufficient to entitle him to Power
+bk...tallthtfto present
+present a an ruptcy petýtýon agaýns e  par ners o a  petition
+firm may present a petitionagainst any one or more partners against one
+of the firm without including the others. partner.
+99. Where a  member of a  partnership is  adjudged bank- t~~~e~s ~!d
+rupt, the Court may authorize the trustee to commence and bankrupt's
+prosecute any action in the names of the trustee and of the partners.
+bankrupt's partner; and any release by such partner of the
+debt or demand to which the action relates shall be void, but
+notice of the application for authority to commence the
+actionshall be given to him, and he may show cause against .
+it, and on his application, the Court may, if it thinks fit,
+direct that he shall receive his proper share of the proceeds
+of the action, and if  he does not claim any benefýt therefrom,
+he shall be indemnified against costs in respect thered! as
+the Court directs.
+100. Any two or more persons, being partners, or any rnro;~~~~-
+person carrying on business under a  partnership name, may ship name
+8 take proceedings or be proceeded against under this Law in
+the name of the firm, but in such case the Court may, on
+application by any person interested, order the names of
+the persons who are partners in such fýrýn or the name of such
+person to be disclosed in such manner, and verified on oath,
+or otherwise, as the Court may direct.
+101. Where a  bankrupt is a  contractorin respect of any AC~o.ýý~
+contract jointly with any person or persons, such person or ~~~Ý:cts.
+persons may sue or be sued in respect of the contract with-
+out the joinder of the bankrupt.
+c. lý
+
+C~C
+i~ CAP. ~.]., ~~NKRUPTCY~_~
+:~f~ not to 102. (1) No pröceeding Ýn baý:ýkruptcy: þhall be invalidated
+r- invalidate by any form al defect or by any ýrregulanty, unless the Court
+proceedings. before which an objection is made to the proceeding is of
+apiýýion that substantial injustice has been caused by the
+defect or irregularity and that the injustice cannot be
+remedied by any order of that Court.
+(2) No defect or irregularity in the appointment or
+election of a receiver, trustee, or member of a committee of
+inspection shall vitiate any act done by him in good faith.
+S~m~~ 103. (1) When a petition is presented by or against a 8
+~ioý:li~S ra- debtor, if  the Court is satisfied by affýdavit or otherwise, or
+smaIl cases the offýcial receiver reports to the Court that the property of
+the debtor is not likely to exceed two hundred polinds, the
+Court may make an order that the debtor's estate be admini-
+stered in a  summary manner. and thereupon the provisions
+of this Law shall be subject to the following modifications:-
+(a) if the debtor is adjudged bankrupt, the offýcial
+receiver shall be trustee in bankruptcy;
+(b) there shall be no comrnittee of inspection, but the
+offýcial receiver may do with the permission of
+the Court all things which may be done by the
+trustee with the permission of the committee of
+inspection;
+(c) no advocates' tees shall be allüwed in any such cage
+except upon a  certificate of the Court that the
+presence of an advocate as aforesaid was
+necessary,
+(2) Such other modifications may be made in the pro-
+visions of this Law as may be prescribed by general rules
+with a  view of saving expense and simplifying procedure;
+but nothing in this section shall permit the modification of
+the provisions of this Law relating to the examination or
+discharge of the debtor, 8
+PART VII,
+SUPPLEMENTAL PROVISIONS,
+Exclusion. of 104. A  receiving order shall not be made against an
+ycor-
+partnershýp., " ,
+and. com- paratýon or agaýnst any partnershýp or assocýatýon, or
+panýes. company registered under the Companies Law,
+Cap. 1ý3.
+APl?li<:ation ..105. Subject to such modifications as may be made by
+to lýmýted
+LLdh,Lh' ,
+fh,
+Lpartnershipg. genefa ru es un er t  ýs aw, t   e  provýsýons o t  ýs aw
+
+i
+BANKRUPTCY. [CAP. 5. 61 ~
+.
+shal1 apply to limited partnerships in like manýýer as if
+rlimited partnerships were ordinary partnershipg, and, on all
+the general partners of a limited partnership being adjudged
+bankrupt, the assets of the limited partnership shall vest in
+the trustec.
+106. ~ny debtor, whether tra~er or not, against whom ~~dý:ej be
+proceedings can be legally taken ýn Cyprus for the recovery ba~krupt.
+of a  debt shall be liable to be adjudged a bankrupt as in this
+8 Law pr?vided: .
+Provýded always that no debtor, not bemg a  trader or
+farmer at the time of the commencemerýt of this Law, shall
+be adjudged bankrupt in respect of a  debt incun-ed before
+the commencement of this Law or of a  debt incurred before
+and renewed af ter the commencemenf. of this Law, or in
+consequence of proceedings legally taken for the tecovery of
+such debt.
+l07. (1) Any creditor of a  deceased debtor whose debt ~d~nistra-
+would have been sufficient to support a bankrýýptcy petition b~:k~~ptcy
+against such debtor had he been alive, may present to the of esta~ ?f
+Court a petition in the prescribed form praying for an order r::f:enrng
+for the administration of the estate of the deceased debtor,
+according to the Law of Bankruptcy.
+(2) Upon the prescribed notice being given to the executor
+of the deceased debtor or if there is none to the adminis-
+trator of his estate, the Court may, in the prescribedmanner,
+upon proof of the petitioner's debt, unless the Court is
+satisfýed that there is a reasonable probability that the estate
+will be sufficient for the payment of the debts owing by the
+deceased, make an order for the administration in bank-
+ruptcy of the deceased debtor's estate, or may upon cause
+shown dismiss such petition with or without costs.
+8(3) Upon an order being made for the administration of a
+deceased debtor' s estate, the property of the debtor shall vest
+in the official receiver of the Court, as trustee thereof, and he
+shall forthwith proceed to realize and distribute the same in
+accordance with the provisions of this Law.
+(4) With the modifýcations, hereinafter mentioned, all the
+provisions of Part iLI of this Law, relating to the adminis-
+tration of the property of a bankrupt, shall, so far as the
+same are applicable, apply to the case of an administration
+order under this section in like manýýer as to an order of
+adjudication under this Law.
+lý (2)
+
+62 CAP. 5.] BANKRUPTCY. i
+'"
+(5) Provided always that nothing inthis section shall alter ~
+the order of the liquidation of the debts of a deceased person
+rCap. ý89. under the provisions of the Administration of Estates Law.
+(6) In the administration ot the property of the deceased
+debtor under an order of administration, the offýcial receiver
+shall have regard to any claim by the executor or adminis-
+trator of the estate of the deceased debtor to payment of the
+proper funeral and testamentary expense incurred by him in
+and about the debtor's estate, and such claims shall be
+deem.ed a p~eferential. debt under the o!der, and .sý.ýall, 8
+notwýthstanding anythýng to the contrary ýn the provýsýons
+of this Law relating to the priority of other debts be payable
+in full, out of the debtor's estate, in priority to all other
+debts.
+(7) If, on the administration of the deceased debtor's
+estate, any surplus remains in the hands of the offýcial
+receiver, af ter payment in full of all the debts dile from the
+debtor, together with the costs of the administration and
+interest as provided by this Law in case of bankruptcy, such
+surplus shall be paid over to the executor or administrator
+i of the deceased debtor's estate, or dealt with in such other
+manýýer as may be prescribed.
+(8) Notice of the presentation of a petition under this
+section shall, in the event of an order for administration
+being made thereon, be deemed to be equivalent to notice of
+an act of bankruptcy, and any transfer, disposition, charge,
+delivery, contract, or payment made, relating to, or affecting
+the property to be administered under the order, and any
+execution or attachment had against the said property or any
+part thereot, af ter notice of the presentation of such petition,
+shall be void as against the offýcial receiver. Save as afore-
+said, nothing in this section shall invalidate any payment
+made or any act or thing done or suffered in good faith before
+the making of the order for administration. 8
+Power 108. The Goveroor, with the advice and assistance of the
+~~n~e Chiet Justice, may from time to time by writingunder the.
+rules. hand and offýcial seal of the Governor and the hand of the
+Chief J ustice make, revoke, and alter general rules to be
+gazetted for carrying into effect the objects of this Lawand
+prescribing the fees, charges and percentages to be charges'
+or taken for or in respect of proceedings thereunder.
+Fees,
+charges, 109. (l) The fees, charges and percentages of the offýcial
+~~~i~f receiver fixed as in section l08 hereof mentioned and all other
+receiver.
+
+BANKRUPTCY. [CAP. 5. 63 i
+.
+costs or expenses of the official receiver shall be levied by the
+official receiver out of the debtor's estate and shall be paid
+~.
+into the Department of the Accountant-General. Such fees,
+charges, percentages and other costs or expenses shall be
+paid by privilege as provided in section 36 hereof.
+(2) All necessary disbursements made by the official
+receiver when acting under this Law (the amount of which
+disbursements shall be settled by the Court) shall be paid
+out of the estate, if  sufficient, and otherwise shall be payable
+8 by the petitioning creditor and recoverable upon a certificate
+of the Registrar of the amount allawed by the Court:
+Provided that it  shall be lawful for the Governor to remit
+the whole or part of the costs payable by the petitioning
+creditor under this section.
+110. (1) A copy of ~he Gazette containing any notice Ga;zettetobe
+inserted therein in pursuance ot this Law shall be evidence eVldence.
+of the facts stated in the notice.
+(2) The production of a  copy of the Gazette containing
+any notice of a  receiving order, or of an order adjudging a
+debtor bankrupt, shall be conclusive evidence in allIega! pro-
+ceedings of the order having been duly made, and of its date.
+lll. (1) A minute of proceedings at a meeting of creditors Eviden<;e of
+under this Law, signed at the same or the next ensuing ~~~::ý~~~
+meeting, by a person describing himself as, or appearing to be, of creditors.
+chairman of the meeting at which the minute is signed, shall
+be received in evidence without further proof.
+(2) Until the contrary is proved,every meeting of creditors
+in respectof the proceedings whereof a minute has been so
+signed shall be deemed to have been duly convened and
+held, and all resolutions passed or proceedings had thereat
+to have been duly passed or had.
+8 112. Any petition or copy of a petition in bankruptcy, any Eviden<;e of
+order or certificate or copy of an order or certificate made by f:~~:~~gs
+any Court having jurisdiction in bankruptcy, anyinstrument kruptcy.
+or copy of an instrnment, affidavit, or document made or .
+used in the course of any bankruptcy proceedings, or other
+proceedings had under this Law shall, if it appears to be
+sea!ed with the seal of any Court having jurisdiction in bank-
+ruptcy, or purports to be signed by any judge thereof, or is
+certified as atrue copy by any Registrar thereof, be re-
+ceivable in evidence in allIega! proceedings whatever.
+"C-'~,_.-
+
+~C:AP. ~._] BANKRUP~CY, -i
+~;~a::t~.of 113. Subject to g7nera! rilles any affidavit to be used in -
+rbankruptcyproceedýngs may be swom before suchpersons
+who are authorized to administer oaths in civil proceedings
+beforethe DistriGt Court,
+Death of 114. In cage of the death of the debtor or his wife, or of a
+debtor or ,
+h'
+dhb.
+d  bCt'
+witness. wýtness W ose evý ence as -een receýve y  an your ýn
+any proceedings under this Law, the depositian of the person
+so deceased, purporting to be sea!ed with the seal of the
+Cou~, or a  c°p,Y thereof purporting to be,so sealed, sha11 be
+8admýtted as evýdence of the matters thereýn deposed to.
+DisPo.salof 115. (1) Where the trustee has under his control any un-
+~:~~~ý:ýnn~d claimed dividend which has remained unclaimed for more
+dividends. than six months, or where, af ter making a final dividend,the
+trustee has in his hands or under his control any unclaimed or
+uýidistributed money arising from the property of the debtor,
+he sha!l forthwith pay the same to the RegistraL of the
+Court, who shall carry the same to an account to be termed
+"The Bankruptcy Estates Accounts," The Registrar's
+reGeipt tar the money so paid shall be s~fficient discharge to
+the trustee in respect thereof,
+(2) The trustee, whether he has obtained his release or not,
+may be called upon by the Court to account for any un-
+claimed funds or dividends, and any failure to comply with
+the requisitions of the Court in this behalf may be dealt
+with as a  contempt of Court.
+(3) Any person claiming to be entitled to any moneys
+paid into the Bankruptcy Estates Account may, within five
+years of the date when the same was so paid in, apply to
+the Registrar tor payment to him ot the þame, and the
+Registrar, if satisfied that the person claiming is entitled,
+shall make an order for the payment to such person of the
+sum due. Any person dissatisfied with the decision of the
+Registrar may appeal to the Court, 8
+(4) Af ter anymoney has remained unclaimed in the Bank-
+.ruptcy Estates Account for a period of five years, the Regis-
+trar shall pay the same over to the Accountant-General for
+use of the Crown, and all claims thereon shall bethenceforth
+barred,
+Punishment 116. Any person who has been adjudged bankrupt or in
+~~~:~Ulent respect of whose estate a receiving order has been made
+shall, in each of the cases following, be deemed gui1ty of an
+offence, and on Gonvictio:n thereof, .hall be liable to be~
+
+BANKRUPTCY. [CAP. 5. 65
+-
+imprisoned for any term not exceeding fýve years, that is to -
+say-
+r(a) if he does not to the best ot his knowledge and Failure
+belief, fully and truly discover to the trustee all ;~ýF~~:-
+his property movable and immovable, and how covery to
+; and to whom and for what consideration and trustee.
+" when he disposed of a:ny part thereof, and what
+sums he has annually spent for his personal
+expenses and the ordinary expenses of his family,
+unless the Court is satisfýed that he had no
+intent to defraud;
+(b) if  he does not deliver up to the trustee, or as he may Fai.lure to
+direct, all such part of his movable and im- ~~~;:~~~
+movable property as is in his custody or under his
+control, and which by law constitutes the assets
+divisible amongst his creditors, unless the Court
+is  satisfýed that he had no intent to defraud;
+(c) if  he does not deliver up to the trustee, or as he may Failur.e
+d.
+IIbkdd.t' to delýver
+ýrect, a 00 S, ocuments, papers an wn mgs books etc.
+in his custody or under his control relating to his .
+property or affairs, unless the Court is satisfýed
+that he had no intent to defraud;
+(d) if, af ter the presentation of a bankruptcy petition by Conceal-
+or against him, or within twelve months next :~~&ation,
+before such presentation, he conceals, destroys, falsification,
+mutilates or .falsifýes, or is privy to the conceal- ~~~Ýý:~fetc.
+ment, destruotion, mutilation or falsifýcation of '
+any book or document affecting or relating to
+his property or affairs, unless the Court is
+satisfýed that he had no intent to conceal the
+state of his affairs or otherwise to defraud;
+(e) if, af ter th.e pres~ntation of a bankruptcy petit~on by f~:ve:~~~~-
+or agamst hým, he prevents the productýon of tion~f
+any book, document, paper or writing affecting books, etc.
+-or relating to his property or affairs~ unless the
+..Court is satisfýed that he had no intentto conceal
+the state of his affairs or otherwise to defraud;
+(f) if, af ter the presentation of a bankruptcy petition by False entries.
+or against him, or within twelve months next
+before such presentation, he makes or is privy to
+the making of any false entry in any book or
+docun:ent affecting or relating to hisproperty or
+affairs, unless the Court is satisfýed that he had
+no intent to conceal the state of his affairs or
+otherwise to defraud;
+.
+
+66 CAP. 5..] BANKRUPTCY" i
+~~gwith, (g) if, af ter the presentation.ofa. bankruptcypetition -
+~::rý::ý~nts. by or against him, or within twelve months
+rnext be!ore such presentation, he ~ra;~du~ently
+parts wýth, alters or makes any omýssýon ýn, or
+is privy to the fraudulently parting with,
+altenflg, or making any omission in any docu-
+ment affecting or relating to his property or
+affairs;
+Omission in (h) if  he makes any material omission in any statement
+statements.
+fft"It"th"
+rtff  . a ec ýng or re a  ýng o ýs prope y  or a aýrs, -
+unless the Court is satisfied that he had no intent .,
+to defraud;
+~fo~~6;erl;t (i) if, af ter the prese~tation ?f ~  bankruptey petition
+or debts, or by or agaýnst hým, or wýthýn twelve months next
+disposition of before such presentation he conceals any part of
+property for .'
+fh"
+less than hýs property or any debt due to or rom ým, or
+market value disposes of any part of his goods or property for
+any consideration which is substantia11y less in
+value than the usual market value of such goods
+or property, unless the Court is  satisfied that he
+had no intent to defraud;
+Removal of (j) if, af ter the presentation of a bankruptey petition by
+property. or against him, or within twelve months next
+before such presentation, he fraudulently
+removes any part of his property;
+foa?:f~~m (k) if, kn?wing ör believing that a  false debt has been
+trustee of claýmed or proved by any person under the
+false debts. bankruptey he iai1s for the period of one month
+from the date of such knowledge or belief to
+bring the matter to the notice of the trustfe;
+~~~~ioe~~ (l) if, after the presentation of a bankruptey petition by
+, .or against him, or at any meeting of his creditors
+within twelve months next before such presen-
+tation he attempts to account for any part of his
+property by fictitious losses or expenses; 8
+~~~~~g (m) if, wi~hin twelve months next. ?efore the pre~en-
+false repre- tatýon of a bankruptey petýtýon by or agaýnst
+sentation. him or af ter the presentation of such a  petition
+and before the making of a  receiving order, he,
+by any false representation or other fraud, has
+obtained any property on credit and has not paid
+for the same;
+~~~~ng (n) if, within twelve months next before the presen-
+o~e~~es of ta;tion of a bankruptey pc;-tition by or ag~~st
+~arrying on hým, or af ter the presentatýon of such a  petýtýon
+bu$iness.
+
+BANKRUPTCY. [CAP. 5. 67 i
+and before the making of a  receiving order, he -
+:.- obtains underthe false pretence ofcarrying on
+rbusiness, and, if a trader, of dea1ing in the
+ordinary way of his trade, anyproperty on credit
+and he has not paid for the same, unless the
+Court is satisfýed that he had no intent to defraud;
+(O) if, within twelve months next before the presen- Pawning:.
+tation of a bankruptcy petition by or against ~~~gagýng,
+him or af ter the pre~entation of ~u.ch a  petition ~~~~r:~
+a --and before the makýng of a  receývýng order, he on credit.
+...1:'- pawns, pledges, mortgages, or disposes of other-
+.;.~. c wise than in the ordinary way of his trade any
+property which he has obtained on credit and
+has not paid for, unless the Court is satisfýed that
+he had no intent to- defraud;
+(P) if, after the presentation of a  bankruptcy petition ~aking
+by or against him, or ~thin twelve months next ~~~~~~~,
+before such presentatýon, he has made any gift, etc., of
+sale, delivery, transfer, mortgage of, or any property.
+charge on his property, unlessthe Court is satis-
+fýed that he had no intent to defraud;
+(q) if he is guilty of any false representation or other Obtaining
+fraud for the purpose of obtaining the consent of ~~::Ýt~;sof
+his creditors or any of thern to any agreement by false
+.
+thfth.ff  .bkrepresenta-
+wý re erence o ýs a aýrS or an ruptcy; tion.
+(r) if, af ter the presentation of any bankruptcy petition Quitting: or
+b.
+t  h.
+h..attemptýng
+y  or agaýns ým, e  quýts or attempts to quýt to quit
+the Colony, unless the Court is satisfýedthat he Colony.
+had no intent to defraud;
+(5) if, knowing his insolvency., he shall havepermitted Permitting
+or suffered the whole or substantially the whole ~S;l~:J~o~e
+of his assets to be seized by, or appIied for the the ben~fýt
+bfýtfd'
+tdi.hd.of certaýn
+eýýe O a cre ý or or cre tors to t e etn- creditors.
+ment of and with intent to defraud other
+8 creditors,
+For the purpose of this section, the expression "trustee" Trustee
+means the offýcial receiver of the debtor's estate or trustee derýned.
+administering his estate for the benefýt of his creditors,
+117. Where an undischarged bankrupt- U:n-
+(  )'
+thal..
+tl.hhb.dýscharged'
+a eý er one or ]oýn y wýt anyot er person o taýns bankrupts c
+credit to the extent of ten pounds or upwards obt;fing
+from any person without informing that person cre ý .
+th~t he is an undischarged bankrupt; or
+(b) engages in any trade or business under.anameother
+---
+
+68 CAP. 5.~ BANKRUPTCY. -i
+.than that under wrnch he was adjudicated bank- ~
+rupt without disclosing to all persons with whom
+rhe enters into any busi~ess transaction the name
+under wmch he was adjudicated bankrupt,
+he sh~ll be guilty of an offence and on conviction thereof,
+liable to be imprisoned for any term not exceeding three
+years,
+{ra~ds ~Y 118. li any person who has been adjudged bankrupt or
+an rup s. in respect of whose esta~e ~ receiving or~er has been made- 8
+(a) in incurring any debt or liability, has obtained
+credit under false pretences or by means of any
+other fraud;
+(b) with intent to defraud his creditors or any of them,
+has made or caused to be made any gift,
+delivery, or transfer of or any charge on his
+property;
+(c) with intent to defraud ms creditors, has concealed or
+removed any part of his property since or within
+two months befoýe the date of any unsatisfied
+judgment or order for payment of money
+obtained against mm,
+he shall be guilty of an offence, and on conviction thereof,
+,  shall be liable to be imprisoned for any term not exceeding
+five years.
+Punishment 119. if any person, af ter the presentation of a  bank-
+~~!;~~~;,s ruptcy petition by or against any qebtor who is subsequently
+etc., pro- adjudged bankrupt, or within twelve months next before
+E~~r~~t. such presentation, removes or conceafs or canses to be
+removed or concealed or receives either for his own benefit
+or for the benefit of such debtor or of any other person, any
+part of the property of such debtor which ought by law to be
+divided amongst his creditors, such person shall be guilty
+?f an, offence, and on convi~tion the~eof, shal1 be liable to be 8
+ýmpnsoned for any term not exceeding fiveyears; unless the
+Court is satisfied that he had no intent to defraud.
+False cl~ims, 120. if any creditor or any person claiming to be a
+declaratýons
+d't'
+bkdi.lfIId.hetc., against cre ý or ýn any an ruptcy procee ng wý u y an wýt
+bankrupt. intent t? defraud makes any false cl~im~ or any .proof,.
+declaratýon or statement of account whých ýs untrue ýn any
+material particUlar, he shall be guilty of an offence and on
+conviction thereof, shall be liable to be imprisoned for any
+teý:m not exçeeding one year. .
+~
+
+BANKRUPTCY. [CAP.5. 69 i
+121. Whoever being a trustee shall, in any report or Pfu::Shý;:ýe~t .
+~statement relating to the affairs of any person who has been ~onc~:l:en~:
+adjudged bankrupt, wilfully make any materia! omission, e~.~ of f
+or conceal or withhold any information or matter tending to ~a:~u~t.
+show the true condition of the affairs of such person or the
+circumstances of the bankruptcy, or sha!l in any way assist
+any person to commit any of the offences in this Law men-
+tioned, then in every such case such trustee shal1 be guilty
+of an offence and on conviction thereof, shall be liable to be
+8 imprisoned for any term not exce:eding three years.
+122. (1) if any person is adjudgedbankrupt or has made B~ý:ýkrupt
+a c~~position ?r arran{?ement with ~is creditors, or if a  :~l~~~p
+receýVlng order ýs made ýn respect of his estate, he shall be proper
+guilty of an offence, if, having during the whole or any part accounts.
+of the two years immediately preceding the date of the
+presentation of the bankruptcy petition been engaged inany
+trade or business, he has not kept proper books of account
+throughout those two years or such part thereof as aforesaid,
+and, if  so engaged at the date of presentationof the petition,
+thereafter, whilst so engaged, up to the dat~of the receiving
+order, or has not preserved all books of account so kept:
+Provided that a  person who has not kept or has not pre-
+served sl:1ch books of account shall not be convicted of an
+offence under this sectýon if  his unsecured liabilities at the
+date of the receiving order did not exceed one hundred
+polinds, or it  he proves that in the circumstances in which he
+traded or carried on business the omission was honest and
+excýýsable.
+(2) Any person found guilty of an offence under the pro-
+visions of this section shall be liable to be imprisoned for any
+term not exceeding three years:
+Provided always that a prosecution shal1 not be instituted
+against any person under this section except by order of the
+8 Court.
+(3) For the purposes of this 'section, a person shall be
+deemed not to have kept proper books of account if  he has
+not kept such books or accounts as are necessary to exhibit
+or explain his' transactions and financial position in his
+trade, business or. profession, including a book or books con-
+tainiýýg entries from day to day in sufficient detail of all cash
+received and ca~h paid and, where the trade or business has
+involved dealings in goods, alsa accounts of all goods sold
+inclti<Ýing a  descriptioýý in sufficient detail ofall goods sold
+and purchased whether forcaþh Qr çredit 1 as will enable such
+
+70?AP.5.] BANKRUPTCY.. i
+goodsto be identifiable and also particulars of the name and
+raddress ot the supplier or purchaser of such goods, and state-
+ments of ann~al stocktakings sho~ingthe basisliFon which
+such stocktakl1)gs are made: ProVlded that a person engaged
+in any retaýl trade in which it  would be a hardship or against
+the usual custom of the trade to enter such details as are
+hereinbefore required, then and in such cases, the omission
+shall be deemed to be excusable.
+(4) Paragraphs{d), (j), and (g) of section 116 of this Law
+(which relate to the destruction, mutilation, and falsifýtation 8
+and other fraudulent dealing with books and documents) ,
+shali in their application to such books as aforesaid, have
+effect as if "two years next before the presentation of the
+bankruptcy petition" were substituted for the time men-
+tioned in those paragraphs as the time prior to the presen-
+fation within which the acts or omissions specifýed in those
+paragraphs constitute an offence.
+Ba.n
+ltkruPft 123. (1) Any person who has been adjudged bankrupt,
+guý yo .
+fh..dhbdgambling. or ýn respect o w ose estate a recelVlng or er as een ma e,
+ete. shal1 be guilty of an offence and on conviction thereof, liable
+to be imprisoned for any term not exceeding three years,
+if  having been engaged in any trade or business, and having
+outstanding at the date of the receiving order any debts
+contracted in the course and for the purposes of such trade or
+business-
+(a) he has, within two years priorto thepresentatio1) of
+the bankruptcy petition, materially contributed
+to or increased the exteýý.t ot his insolvency by
+gambling or by rash and hazardous speculations,
+and such gambling or speculations are uncon-
+nected with his trade or business; or
+i (b) he has, between the date of the presentation of the
+petition and the date of the receiving order, lost
+any part of his estate by such gambling or rash 8
+and hazardolis speculations as aforesaid; or
+(c) on being required by the official receiver at any time,
+or in the course of his public examination by the
+Court, to account for the lass of any substantial
+part of his estate incurred within a  period of a
+year next preceding the date of the presentation
+of the bankruptcy petition, or between that date
+date and the date of the receiving order, he fails
+to give a  satisfactory explanation of thernaDiler
+:.;::.. in-which such ioss was inclirred: ,:.. "   :.
+\
+
+BANKRUPTCY. [CAP.5. 711
+-~
+Provided that, in determining for the purposes of this .
+section whether any speculations were rash and hazardous,
+~the fýnancial. position of the ac.cused person at the t~me when
+he entered mto thespeculatýons shall be taken mto con-
+sideration.
+(2) A prosecution sha11 not be instituted against any
+person under this section except by order of the Court.
+124. If any person who is adjudged bankrupt, or in Bankru~t
+fht  t..dhbdabscondýng
+8respect o w ose es a e a  receývmg or er as fen ma e, with
+af ter the presentation of a bankruptcy petition by or against property.
+him, or within six months before such presentation, quits
+Cyprus and takes with him, or attempts or makes preparation
+to quit Cyprus and take with him, any part of his property
+to the amount of twenty pounds or upwards, which ought by
+law to be divided amongst his creditors, he sha11 (unless he
+proves that he had no inteni to defraud) be guilty of an
+off~nce and on conviction thereof, be liable to be imprisoned
+for any term not exceeding three years.
+125. If, in the course of any proceedings taken under any Prosecution
+bankruptcy petition or on the representation of the official of offences.
+receiver, the trustfe, or of any creditor, it  appears to the
+Court that there is reason to suppose that any person has
+been guilty of an offence under this Law, the Court sha11, if it
+appears to the Court that there is a reasonable probability
+that the debtor will be convicted and that the circumstances
+are such. as to render a prosecution desiralýle order the pro-
+secution of such person accordingly and in any such case
+inay order the person to be prosecuted into custody, if
+preseni, or, if  not preseni, may grant a warrant for his arresi
+and detention until he can be taken before a magistrate to
+be dealt withaccording to law.
+126. Where a debtor has been guilty ot a criminal offence, Çri~~al
+8he shall not be exempt from being proceeded against therefor ~t~~ýzs-
+by reason that he has obtained his discharge or that a com- charge?ý:
+position or scheme of arraÝýgement has been accepted or composýtion.
+approved.
+FIRST SCHEDULE..
+(Section 14.)
+MEETINGS OF CREDITORS.
+1. The fýrst meeting of creditors shall be summoned for a day not later
+than fourteen days af ter the date of the receiving order, unless the Court
+forany special reason deem it  expedient that the meeting be summoned
+for alater day.
+
+~2 C~~.5.~ BANKRUPTCY. i
+2. The officialreceiver sha11 summon the meeting by giving not less than
+rseven day";:' notice of the time and place thereof in the Gazette and in a
+local paper.
+3. The official receiver sha11 also, as soon as practicable, send to eaçh
+creditor mentionedin the debtor's statement of affairs a notice of the time
+and place of the first meeting of creditors, accompanied by a  summary
+of the debtor's statement of affairs, including the cause of his failure, and
+any observations thereon which theofficial receiver may think fit to make;
+but the proceedings at the first meeting shall not be invalidated by reason
+of any such notice or summary not having been sent or received before
+the meeting.
+4.. The ~eeting shall be h~ldat such pla~e ~ is in the op~ion of the 8
+officýalreceýver most convenýent for the ma]onty of the creditors.
+5. The official receiver or the trustee may at any time summon a meeting
+of creditors, and shall do so whenever so directed by the Court, or so re-
+quested in writing by one-fourth in value of the creditors.
+6. Meetings subsequent to the first meeting shall be summoned by
+sending notice of the time and place thereof to each creditor at the address
+given in his proof, or if  he has notproved, at the address given in the
+debtor's statement of affairs, or at such other address as may be known
+to the person summoning the meeting.
+7. The official receiver, or some person nominated by him, sha11 be the
+chairman at the fýrst meeting. The chairman at subsequent meetings
+shall be such person as the meeting by resolution appoint.
+8. Aperson shall not be entitled to vote as a creditor at the first or any
+other meeting of creditors unless he has duly proved a debt provable in
+bankruptcy to be due to him from the debtor, and the proof has been duly
+lodged before the time appointed for the meeting.
+9. A  creditor sha11 not vote at any such meeting in respect of any un-
+liquidated or contingent debt, or any debt the value of which is not
+ascertained.
+10. For the purpose of voting, a secured creditor sha11, unless he sur-
+renders his security, state in his proof the particulars of his security, the
+date when it was given,and the value at which he assesses it, and sha11 be
+entitled to vote only in re~pect of the balance (if any) due to him af ter
+deducting the value of his security. if  he votes in respect of his whole
+debt he sha11 be deemed to have surrenderedhis security unless the Court
+on application is satisfied that the omission to value the security has
+arisen from inadvertence.
+11. A  c~editor shall not vote in ~espect of any debt on, or secured by.a 8
+current bill of exchange or promýs!?ory note held by hým, unless he ýs
+willing to treat theliability to him thereon of every person who is liable
+thereon antecedently to the debtor, and against whom a receiving order
+has not been made, as a security in his hands, and to estimate the value
+thereof, and for the purposes of voting, but not for the purposes of divi~
+dend, to deduct it  from his proof.
+12. It shall be competent to the trustee or to the official receiver,
+within twenty~eight daysafter a proof estimating the value of a security as
+aforesaid has been made use of in voting at any meeting, to require the
+creditor to give up the security for the benefit of the creditors generallyon
+paymeDt of the value so estimated, withan addition thereto of twenty per
+centum: Provided, that where a  creditor has put a value on such security
+
+BANK:RUPTCY" [CAP.. 5. 73 i
+~
+,
+be may, at my time before h~has been ~equired to give up such security .
+as aforesaid, correct such valuation by a  new proof, and deduct such
+~new value from his debt, but in that case such addition of twenty per
+centum shall not be made if the trustee requires the security to begiven up.
+13. If a  receiving order is made against one partner of a  firm, any
+creditor to whom that partner is indebted jointly with the other partners
+of the firm, or any of them, may prove his debt for the purpose of voting i
+at any meeting of creditors, and shall be entitled to vote thereat.
+14. The Chairman of a  meeting shall have power to admit or reject
+proof for the purpose of voting, but his decision shall be subject to the
+-Conrto If  he is in doubt whether the proof of a creditor should be admitted
+...or rejected he shall mark the proof as objected to, and shall allow the
+creditor to vote, subject to the vote being declared invalid in the event of
+the objection being sustained.
+15. A creditor may vote either inperson or by proxy.
+16. (1) Every instrument of proxy shall be in the prescribed form, and
+shall be issued by the official receiver of the debtor's estate, or, af ter the
+appointment of a  trustee, by the trustee, and every insertion therein
+shall be in the handwriting of the person giving the proxy, or of any
+manager or clerk or other pt:rson in his re~lar employment, or of any
+commissioner of oaths.
+(2) General and special forms of proxy shall be sent to the creditors,
+together with a notice summoning a meeting of creditors, and neither the
+name nor the description of the official receiver, or of any other person,
+shall be printed or inserted in the body of any instrument of proxy before
+it  is so sent.
+(3) A  creditor may give a special proxy to any person to vote at any
+specified meeting or adjournment thereof on all or any of the following
+matters:-
+(a) for or against any .specific proposal for a  composition or scheme
+of arrangement;
+(b) for or against the appointme~t of any specified person as trustee
+at a specified rateor remuneration, or as member of the com-
+mittee of inspection, or for or against the continuance in office
+öfany specified person as trustee or member of a coýnmittee of
+inspection ; -
+(c) on all questions relating to any matter, otherthan those above
+referred to, arising at any specified meeting or adjournment
+8thereof.
+17. A creditor may give a general proxy to his manager or clerk, or any
+other person in his re~lar employment. In such case the instrument of
+proxy shall state the relation in which the person to act therenDrler stands
+to the creditor.
+ýs. A proxy shall not be used unless it  is  deposited with the official
+receiver or trustee before the meeting at which it  is to be used.
+19. A creditor may appoint theofÝ'icial receiver of thedebtor's estate to
+act in manýýer prescribed as his general or special proxy.
+20. The chairman of a meeting may with the consent of the meeting,
+adjoum the meeting from time to time, and from place to place.
+21. A  meeting shall not be competent to act for any purpose, except
+
+74 GAP. 5.] BANKRUPTCY. i
+the election of a chainnan, the proving of debts, and the adjournment of
+rthe x:neeting, unless there. are ~resen~ or represented thereat, at least three
+credýtors, or all the creditors ýf thelf number does not exceed three~
+22. if  within half an hour from the time appointed for the meeting a
+quorum of creditors is not present or represented, the meeting shall be
+adjourned to the same day in the foijowing week at the same time and
+place, or to suchother day as the chairman may appoint, not being less
+than seven or more than twenty-one days.
+23. The chaÝrman of every meeting shall cause minutes of the proceed-
+ings at the ineetillg to be drawn up, and fairly entered in a bookkept for
+that purpose, and the minutes shall be signed by hirn or by the chairman
+8of the next ensuing meeting.
+24. No person acting either under a general or special proxy shall vote
+in favour of any resolution which would directly or indirectly place
+himself, his partner or employer, in a position to receive any remuneration
+o~t of the estate of the debtor otherwise than as a creditor rateably with
+the other creditors of the debtor: Provided that where ariy person holds
+special proxies to vote for the appointment ofhimself as a trustee he may
+use the said prQxies and vote accordingly.
+25. As soon as may be af ter a meeting of creditors, the official receiver
+shall fýle in Court a copy of the minutes of proceedings and resolutions had
+and taken at such meeting.
+26. The vote of the trustee, or of his partner, clerk, advocate or
+advocate's clerk, either as creditor or as proxy for a creditor, shall not be
+reckoned in the majority required for passing any resolution affecting the
+remuneration or conduct of the trustee.
+SECOND SCHEDULE.
+(Section 37.)
+PROOF OF DEBTS.
+Proof in Ordinary Cases.
+1. Every creditor shall prove his debt as soon as may be af ter the
+making of a receiving order.
+2. A debt may be proved by delivering or sending through the post in a
+prepaid letter to the official receiver, or, if  a trustee has been appointed, to
+the trustee, an affidavit verifying the debt.
+83. The affidavit may be made by the creditor himself, or by some person
+authorized by or on behalf of the creditor. if  made by a person so autho-
+rized, it  shall state his authority and means of knowledge.
+4. The affidavit shall contain or refer to a statement of account showing
+the particulars of the debt, and shall specify the vouchefs, if any ,by which
+the same can be substantiated. The official receiver or trustee may at any
+time call for the producti<;>n of the vouchefs.
+5. The affidavit shall þtate whether the credit6r Ýs or is not a secured
+creditor and if  it  is found at any time that the affidavit made by or on
+behalf of a  secured creditor has oriýitted to state that he is a  secured
+creditor, the secured creditor shall surrender his security to the official
+receiver or trustee for the general benefýt of the creditors unless the Cöurt
+
+B-ANKRUPTCY. [CAP. 5. 75 i
+~
+on appIication is satisfied that the omission has arisen from inadvertence, -
+and in that case the Court may allow the affidavit to be amended upon _
+ýsuch tenns as to the repayment of any dividends or othe~se as the
+Court may consider to be just.
+6. A  creditor shall bear the cost of proving his debt, unless the Court
+othe~se specially orders.
+7. Every creditor who has lodged a proof shall be entitled to see and
+examine the proofs of other creditors before the first meeting, and at all
+reasonable times.
+8. A creditor proving his debt shall deduct therefrom all trade discounts,
+but he shall not be compelled to deduct any discount, not exceeding five
+..per centum on the net amount of his claim, which he may have agreed to
+..allow for payment in cash.
+Proof by Secured Credilorso
+9. if a  secured creditor realizes his security, he may prove for the
+balance due to him, af ter deducting the net amount realized.
+10. if  a secured creditor surrenders his security to the otfýcial receiver
+or trustee for the general heDefit of the creditors, he may prove for his
+whole debt.
+11. if  a secured creditor does not either realize or surrender his security,
+he shall, before ranking for dividend, state in his proof the particulars of
+his security, the date when it was given, and the value at which he assesses
+it, and shall be entitled to receive a dividend only in respect of the balance
+due to him af ter deducting the value so assessed.
+12. (1) Where a security is so valued the trustee may at any time redeem
+it  on payment to the creditor of the assessed value.
+(2) if  the trustee is dissatisfied with the value at which a  security is
+assessed, he may require that the property comprised in any security so
+valued be offered for sale at such times and on such tenns and conditions
+as may be agreed on between the creditor and the trustee, or as, in default
+of such agreement, the Court may direct. if  the sale be by pubIic auction
+the creditor, or the trustee on behalf of the estate, may bid or purchase:
+Provided that the creditor may at any time, by notice in writing
+require the trustee to elect whether he wi1l or wi1l not exercise his power of
+redeeming the security or requiring it  to be realized, and if  the trustee
+does not, within six months af ter receiving the notice, signify in writing
+to the creditor his election to exercise the power, he shall not be entitled
+to exercise it; and the equity of redemption, or any other interest in the
+property comprised in the security which is vested in the truste~, shall
+8vest in the creditor, and the amount of his debt shall be reduced by the
+amount at which the security has been valued.
+13. Where a  creditor has so valued his security, he may at any time
+amend the valuation and proof on showing to the satisfaction of the trustee,
+or the Court, that the valuation and proof were made bana fide on a
+mistaken estimate, or that the security has diminished or increased in
+value since its previous valuation; but every such amendment shall be
+made at the cost of the creditor, and upon such tenns as the Court shall
+order, unless the trustee shall allow the amendment without appIication
+to the Court.
+14. Where a valuation has been amended in accordance with the fore-
+going rnle, the creditor shall forthwith repay any surplus dividend which
+c. i
+
+~~ CAP. 5.] BANKRUPTCY.. i
+he may have received in excess of that to which he wonld have been ~
+entitled on the amended valuation, or, as the case may be, shall be entitled
+rto be paid out of any money for the time being available for dividend any
+dividend or share of dividend which he may have fai1ed to receive by
+reason of the inaccuracy of the original valuation, before that money is
+made applicable to the payment of any future dividend, but he shall not
+be entitled to disturb the distribution of any dividend declared before
+the date of the amendment.
+f15. if  a  creditor af ter having valued his security subsequently realizes
+it, or if it  is  realized under the provisions of rnle 1Z, the net amount
+realized shall be substituted for the amount of any valuation previously
+l made ý;>y the creditor, and s~all be treated in all respects as an amended
+Ý-r valuatýon made by the .creditor. ..i 
+16. if  a secured creditor does ~ot comp~y. wýth the foregoýng rnles, hei 
+s\ýall be excluded from all share ýn any dývýdend.
+L 17. Subject to the provisions of rule 1Z, a  creditor shall in no case, 
+receive more than twenty shillings in the pound, and interest as provided: 
+by this Law.:
+Proof in respect of Distinct Contracts.
+18. if  a debtor was at the date of the receiving order liable in respect of
+distinct contracts as a member of two or more distinct fýrms, or as a sole
+contractor, and also as a  member of a  fýrm, the circumstance that the
+fýrms are in whole or in part composed of the same individuals, or that the
+sole contractor is also one of the joint contractors, shall not prevent proof
+in respect of the contracts, against the properties respectively liable on
+the contracts.
+Periodical Payments.
+19. Where any rent or other payment falls due at stated periods, and
+the receiving order is made at any time other than one of those periods,
+the person entitled to the rent or payment may prove for a proportionate
+part thereof up to the date of the order as if  the rent or payment grew due
+from day to day.
+Interest.
+zo. On any debt or sum certain, payable at a certain time or otherwise,
+whereon interest is not reserved or agreed for, and which is overdue at
+the date of the receiving order and provable in bankruptcy, the creditor
+may prove for interest at a rate not exceeding nine per centum per annum
+to the date of the order from the time when the debt or sum was payable,
+.i~ the debt ?r sum is payable ~y virtue of a writte~ instrement at a cert~n
+8tIme, and ýf payable otherwýse, then from the týme when a  demand ýn
+writing has been made giving the debtor notice that interest will be claimed
+from the date of the demand unill the time of payment.
+Zl. On any debt or sum certain, payable at a certain time or otherwise,
+whereon interest is not reserved or agreed for, and which is overdue at the
+date of the receiving order and provable in bankruptcy, the creditor may
+prove for interest at a rate not exceeding four per centum per annum to
+the date of the ord~r from the time when the debt or sum was payable, if
+the debt or sum is payable by virtue of a written instrement at a certain
+time, and if  payable otherwise, then from the time when a demand in
+writing has been made giving the debtor notice that interest will be
+claimed from the date of the demand until the time of payment.
+
+BANKRUPTCY. [CAP. 5. 77 ~
+Debt payable at a Furtlýer Time. .
+22. A  creditor may prove for a debt not payable when the debtor com..
+~mitted an act of bankruptcy as if it were payable presently, and may
+receive dividends equally with the other creditors, deducting only thereout
+a rebate of interest at the rate of nine pounds per centum per annum
+computed from the declaration of a dividend to the time when the debt :
+would have become payable, according to the terms on which it W3.s
+contracted.
+Admission or Rejection of Proofs.
+23. The trustee shall examine every proof and the grounds of the debt,
+8and in writing admit or reject it, in whole or in part, or require further
+evidence in support of it. if  he rejects a proof he shall state in writing to
+the creditor the grounds of the rejection.
+24. if  the trustee thinks that a proof has been improperly admitted,
+the Court may, on the application of the trustee, af ter notice to the
+creditor who made the proof, expunge the proof or reduce its amount.
+25. if  a creditor is dissatisfied with the decision of the trustee in respect
+of a proof, the Court may, on the application of the creditor, reverse or
+vary the decision.
+26. The Court may also expunge or reduce a proof upon the application
+of a creditor if  the trustee declines to interfere in the matter, or in the case
+of a  composition or scheme, upon the application of the debtor.
+27. For the purpose of any of his duties in relation to proofs, the trustee
+may administer oaths and take affidavits.
+28. The official receiver, before the appointment of a trustee, shall have
+all the powers of a trustee with respect to the examination, admission, and
+rejection of proofs, and any act or decision of his in relation thereto shall
+be subject to the like appealo
+8
+i  (2)

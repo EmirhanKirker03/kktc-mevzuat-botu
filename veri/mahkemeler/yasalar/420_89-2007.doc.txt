@@ -1,0 +1,484 @@
+KİŞİSEL VERİLERİN KORUNMASI YASASI
+İÇDÜZENİ
+
+
+Madde 1.       Kısa İsim
+
+BİRİNCİ KISIM
+Genel Kurallar
+
+Madde 2.        Tefsir
+
+Madde 3.        Amaç
+
+Madde 4.        Kapsam
+
+İKİNCİ KISIM
+Kişisel Verinin İşlenmesi
+
+Madde 5.       Kişisel Veriler İşlenirken Uygulanacak İlkeler
+
+Madde 6.       Yasal İşleme 
+
+Madde 7.        Hassas Verinin İşlenmesi 
+
+Madde 8.        Başkana Bildirim
+
+Madde 9.        Kişisel Veri Dosya Sistemlerinin Birleştirilmesi
+
+Madde 10.      Veri Koruma Görevlisi
+
+					
+ÜÇÜNCÜ  KISIM
+Veri Transferi ve Gizlilik
+
+Madde 11.      Diğer Ülkelere Veri Transferi
+
+Madde 12.      İşlemenin Gizliliği ve Güvenliği
+
+
+DÖRDÜNCÜ  KISIM
+Bilgiye Konu Kişinin Hakları
+
+Madde 13.      Bilgilendirme Yükümlülüğü
+
+Madde 14.      Erişim Hakkı
+
+Madde 15.      İtiraz Hakkı
+
+Madde 16.      Erişim ve İtiraz Haklarının Kullanılması
+
+Madde 17.      Doğrudan veya Dolaylı Pazarlama İçin İşleme
+
+Madde 18.      Tazmin Hakkı
+
+Madde 19.      Kontrolör ve İşlemcinin Gizlilik Yükümlülüğü 
+
+
+BEŞİNCİ  KISIM
+Kişisel Verileri Koruma Kurulunun Oluşumu, Yetki ve Görevleri
+
+Madde 20.      Kişisel Verileri Koruma Kurulu
+
+Madde 21.      Kurulun Oluşumu
+
+Madde 22.      Kurul Başkan ve Üyelerinin Nitelikleri
+
+Madde 23.      Kurul Başkanının Görev ve Yetkileri
+
+Madde 24.      Kurul Başkan ve Üyelerinin Görev Süresi ve Yeniden Atanabilmesi
+
+Madde 25.      Kurul Başkan ve Üyelerinin Siyasal Parti Organlarında Görev Alamayacakları
+
+Madde 26.      Kurul Başkanlığı veya Üyeliğinin Boşalması
+
+Madde 27.      Kurulun Toplantıları
+
+Madde 28.      Kurulun Görevleri
+
+Madde 29.      Kurulun Gelirleri, Bütçesi, Kesin Hesapları ve Denetim
+
+Madde 30.      Kurul Başkanının Tam Zamanlı Çalışması ve Kurul Başkan  ve Üyelerinin
+	           Ödenekleri
+
+Madde 31.       Kurul Hizmetlerinin Yürütülmesi ve Kurul Personelinin Statüsü
+
+Madde 32.      Personele İlişkin Kurallar
+
+Madde 33.      Kurul Başkanının, Üyelerinin ve Personelinin Sır Saklama Yükümlülüğü
+
+Madde 34.      Şikayet Başvurusu
+
+
+ALTINCI  KISIM
+Suç ve Cezalar
+
+Madde 35.      İdari Para Cezaları
+
+Madde 36.      Suç ve Cezalar
+
+
+YEDİNCİ  KISIM
+Geçici ve Son Kurallar
+
+Madde 37.      Ruhsat ve Ücretlerle İlgili Tüzük Yapma Yetkisi
+
+Geçici Madde 1. Mevcut Durumun Yasaya Uydurulması
+
+Madde 38.      Yürütme Yetkisi 
+
+Madde 39.      Yürürlüğe Giriş
+
+
+
+89/2007
+
+KİŞİSEL VERİLERİN KORUNMASI YASASI
+
+	       Kuzey Kıbrıs Türk Cumhuriyeti Cumhuriyet Meclisi aşağıdaki Yasayı yapar:
+	
+Kısa İsim	1. Bu Yasa, Kişisel Verilerin Korunması Yasası olarak isimlendirilir.
+
+	
+
+	BİRİNCİ KISIM
+Genel Kurallar
+	
+Tefsir	2. Bu Yasada metin başka türlü gerektirmedikçe:	
+	“Başbakan”, Kuzey Kıbrıs Türk Cumhuriyeti Başbakanını anlatır.	
+	“Başkan”, Bu Yasanın 20’nci maddesi ile kurulan Kişisel Verileri Koruma Kurulunun Başkanını anlatır.	
+	“Bilgiye konu kişi”, bilgilerin ait olduğu ve kimliği bilinen veya dolaylı veya dolaysız olarak, özellikle kimlik numarası veya fiziksel, fizyolojik, zihinsel, ekonomik, kültürel, siyasal veya sosyal kimliğine dair bir veya  birden fazla faktör esas alınarak tesbit edilebilen gerçek kişiyi anlatır.	
+	“Birleştirme”, bir dosyalama sistemindeki verilerin diğer bir kontrolör veya kontrolörler tarafından tutulan veya aynı kontrolör tarafından başka bir amaçla tutulan verilerle bir araya getirilmesine imkan verecek şekilde işleme bağlı tutulmasını anlatır.	
+	“Devlet”, Kuzey Kıbrıs Türk Cumhuriyeti Devletini anlatır.	
+	“Hassas veri”, ırksal veya etnik kökeni, siyasi görüşleri, dinsel veya diğer inançları ortaya koyan veya cinsel yönelim, sağlık veya cinsel hayatla veya cezai soruşturmayla ilgili konuları açığa çıkaran kişisel verileri anlatır.	
+	“İşlemci”, şahsi veriyi kontrolör adına işleyen kişiyi anlatır.	
+	“İşleme” veya “Kişisel verilerin işlenmesi”, Kişiye ilişkin tüm verilerin, toplanması, kaydedilmesi, işlenmesi, saklanması, silinmesi, değerlendirilmesi, kullanılması, uyarlanması veya değiştirilmesi, durdurulması, yokedilmesi gibi işlevlerden herhangi birisinin, birkaçının veya hepsinin, herhangi bir yöntem ve araç kullanılarak uygulanmasını anlatır. 	
+	“Kişisel veri”, kimliği belirli veya kimliği belirlenebilir bir kişiye ilişkin tüm bilgileri anlatır.	
+	“Kişisel veri dosya sistemi”, işlevsel veya coğrafi esaslara göre merkezi veya dağınık olarak bir sistemde muhafaza edilen ve belirli yöntemlerle ulaşılabilen kişisel veri topluluğunu anlatır.	
+	“Kontrolör”, kendi başına veya başkalarıyla birlikte, kişisel verilerin işleme tabi tutulmasının amaç ve yöntemlerini belirleyen, kişisel veri dosya sistemini oluşturma, işletme, denetim hak ve yetkisine sahip olan Kamu Kurum ve Kuruluşları ile gerçek ve tüzel kişileri anlatır.	
+	“Kurul”, bu Yasanın 20’nci maddesi ile kurulan Kişisel Verileri Koruma Kurulunu anlatır.	
+	“Kurum ve Kuruluş”, genel ve katma bütçeli daireler ile Bakanlıkları, yerel yönetimleri, üniversiteleri ve bunlara bağlı sabit ve döner sermayeli kuruluşları, kamu iktisadi teşebbüslerini, kamu ve özel bankaları, yüksek kurulları, özerk, tarafsız kurum ve kuruluşları, bağımsız düzenleyici kurum ve kurulları, kamu kurumu niteliğindeki meslek kuruluşlarını, birlikleri, dernekleri ve vakıfları anlatır.	
+	“Üçüncü taraf”, bilgiye konu kişi, kontrolör ve işlemci haricindeki her türlü kişiyi anlatır.
+	
+Amaç	3. Bu Yasanın amacı, kişisel verilerin işleme bağlı tutulmasında kişiliğin, temel hak ve özgürlüklerin korunması ve bir dosyalama sisteminin bir bölümünü oluşturan veya oluşturması planlanan kişisel verilerin otomatik veya otomatik olmayan yöntem ve araçlarla, tamamen veya kısmen işlenmesine ve transferine ilişkin esas ve usulleri düzenlemektir.
+	
+Kapsam	4. Bu Yasa kuralları, kişisel verileri işleme tâbi tutulan kişiler ile bu verileri işleme tâbi tutan kurum veya kuruluşlar ile gerçek ve tüzel kişilere uygulanır. 	
+	       Ancak gerçek kişilerce ticari, mesleki kazanç amacı olmaksızın başkalarına aktarmamak kaydıyla ve sadece kendileri tarafından kullanılmak üzere işlenen kişisel veriler bu Yasa kapsamı dışındadır.
+	
+İKİNCİ KISIM
+Kişisel Verinin İşlenmesi
+	
+Kişisel 
+Veriler 	5. 	(1)	Kişisel veriler işlenirken kontrolörün aşağıdaki ilkelere uyması zorunludur:	
+İşlenirken Uygulanacak 			(A)	Kişisel verilerin yasal ve adil yoldan elde edilmesi ve işlenmesi,	
+İlkeler			(B)	Kişisel verilerin belirli, açık ve meşru amaçlarla derlenmesi ve bu amaçlara uygun olarak işlenmesi ve bu amaçlarla uyumlu olmayan şekillerde işlem görmemesi,	
+			(C)	Kişisel verilerin doğru ve gerektiği takdirde güncel olması,	
+			(Ç)	Kişisel verilerin derlenme ve işlenme amaçlarının yerine getirilmesi sağlanırken, Başkanın takdiriyle, verinin, sahibinin kimliğinin belirlenmesine izin verecek bir formda gereğinden uzun bir süre tutulmaması.
+          Ancak bu sürenin bitiminde, Başkan, bilgiye konu kişinin veya üçüncü tarafların haklarının etkilenmediğine kanaat getirmesi halinde, gerekçeli bir kararla kişisel verinin tarihsel, bilimsel veya istatistiki amaçlarla muhafazasına izin verebilir. 	
+
+
+
+
+
+              
+
+15/1990
+    22/1994
+    84/2007	(2)	Kontrolör, yukarıdaki (1)’inci fıkra kurallarına aykırı şekilde derlenmiş veya işlenmeye devam edilmiş kişisel verileri imha etmekle mükelleftir. Başkan, resen veya bir şikayet üzerine, (1)’inci fıkra kurallarına aykırı hareket edildiğini belirlemesi halinde, derleme veya işlemenin durdurulması ve derlenmiş veya  işlenmiş bulunan kişisel verilerin imha edilmesi talimatını verir.
+         Ancak bu tür verilerin tarihsel veya bilimsel amaçlı muhafazasının Milli Arşiv ve Araştırma Dairesi (Kuruluş, Görev ve Çalışma Esasları) Yasası ile oluşturulan Milli Arşiv Kurulu Başkanı tarafından gerekli görülmesi halinde Başkan, bunların Milli Arşivde muhafazasına izin verebilir.
+	
+Yasal İşleme
+
+	6. Kişisel veriler, bilgiye konu kişinin şüpheye sebebiyet vermeyecek şekilde onay vermesi halinde işlenebilir.  
+               Ancak, kişisel veriler, aşağıdaki durumlarda bilgiye konu kişinin onayı olmadan da işlenebilir:	
+		(1)	İşlemenin, kontrolörün tabi olduğu yasal yükümlülüğü yerine getirmek için gerekli olması,	
+		(2)	İşlemenin, bilgiye konu kişinin taraf olduğu bir sözleşmenin yerine getirilmesi için gerekli olması veya  bilgiye konu kişinin talebi üzerine, sözleşmeye taraf olmadan önce önlem alınması amacıyla yapılması,	
+		(3)	İşlemenin, bilgiye konu kişinin hayati çıkarlarının korunması için gerekli olması,	
+		(4)	İşlemenin, kamu çıkarı adına bir görevin yerine getirilmesi veya kontrolöre veya verinin iletildiği üçüncü bir tarafa verilmiş olan kamu yetkisinin ifası için gerekli olması,	
+		(5)	İşlemenin, bilgiye konu kişinin hakları, çıkarları ve temel özgürlüklerinin üstün geldiği durumlar hariç, kontrolör veya verinin iletildiği üçüncü tarafça izlenen  yasal çıkarlar amacıyla gerekli olması.
+	
+Hassas 
+Verinin
+İşlenmesi	7. 	(1)	Hassas verinin derlenmesi ve işlenmesi yasaktır.
+      Ancak bilgiye konu kişinin açık onayının olması veya bilgiye konu kişinin fiziksel veya yasal olarak onay vermediği durumlarda, kendisinin veya bir başka kişinin hayati çıkarlarının korunması için gerekli olması veya yasal bir yükümlülükten kaynaklanması halinde hassas veriler derlenebilir ve işlenebilir.	
+		(2)	Sağlık ile ilgili hassas veriler yukarıdaki (1)’inci fıkradaki yasak kapsamı dışındadır. Bu tür veriler, meslek olarak sağlık hizmeti veren ve gizlilik yükümlülüğü bulunan veya ilgili davranış ilkelerine tabi olan kişi veya kurumlarca derlenebilir veya işlenebilir.	
+		(3)	Yukarıdaki (1)’inci ve (2)’nci fıkra kuralları uyarınca derlenip işlenen hassas veriler, yalnızca bilgiye konu kişinin onayı ile üçüncü taraflara iletebilir.	
+		(4)	Bakanlar Kurulu, Kurulun oybirliği ile alacağı bir karar doğrultusunda yapacağı tavsiye üzerine, kamu çıkarını ilgilendiren konularda hassas verilerin işlenmesine dair düzenlemeler içeren kararlar alabilir.
+	
+Başkana Bildirim	8. 	(1)	Kontrolör, bir kişisel veri dosyalama sisteminin kurulması ve işletilmesi veya işlemenin başlatılması konusunda Başkana yazılı olarak bildirimde bulunmak zorundadır.	
+		(2)	Kontrolör, yukarıdaki (1)’inci fıkrada bahse konu bildirimde aşağıdaki hususları belirtmek zorundadır:	
+			(A)	Açık adını, mesleki adını veya unvanını ve adresini. Kontrolör Kuzey Kıbrıs Türk Cumhuriyetinde yerleşik değilse, bunlara ilave olarak, Kuzey Kıbrıs Türk Cumhuriyetindeki temsilcisinin açık adını, mesleki adını veya unvanı ile adresini belirtmek zorundadır.
+	
+			(B)	Kişisel veri dosyalama sisteminin bulunduğu veya işleme için gerekli temel teçhizatın yerleştirildiği adres,	
+			(C)	İşlenen veya işlenmesi planlanan veya kişisel veri dosyalama sistemine dahil edilen veya dahil edilmesi planlanan verilerin işlenme amacının izahı,	
+			(Ç)	Bilgiye konu kişilerin kategori veya kategorilerinin izahı,	
+			(D)	İşlenen veya işlenmesi planlanan veya kişisel veri dosyalama sistemine dahil edilen veya dahil edilmesi planlanan veri kategorileri,	
+			(E)	Kontrolörün işlemeyi yürüteceği veya dosyalama sistemini muhafaza edeceği süre,	
+			(F)	Kontrolörün veriyi ilettiği veya iletebileceği alıcılar veya alıcı kategorileri,	
+			(G)	Üçüncü ülkeler için önerilen veri transmisyonu ve bunun amacı,	
+			(Ğ)	Sistemin temel özellikleri ve dosyalama sisteminin veya işlemenin güvenliğine yönelik önlemler.	
+		(3)	İşleme veya dosyalama sisteminin, Başkan tarafından işleme konusunda belirlenen özel kuralların bulunduğu kategorilerden birinde yer alması halinde, kontrolör Başkana, işlemenin sözkonusu özel kurallara göre yürütüleceğini veya dosyalama sisteminin bu kurallara göre tutulacağını teyid eden bir bildirimde bulunur. Bu özel kurallar, aynı zamanda bildirimin özellikle şeklini ve içeriğini de belirler.	
+		(4)	Yukarıdaki (2)’nci fıkrada bahse konu bilgi, Başkan tarafından tutulan “Dosyalama Sistemleri ve İşlemleri Sicili”nde kaydedilir.	
+		(5)	Yukarıdaki (2)’nci fıkrada atıfta bulunulan bilgide olabilecek her türlü değişiklik, kontrolör tarafından yazılı olarak ve gecikmeksizin Başkana bildirilir.	
+		(6)	Kontrolör, yukarıdaki (1)’inci fıkrada öngörülen bildirim yükümlülüğünden aşağıdaki durumlarda muaf sayılır:	
+			(A)	İşlemenin sadece yapılacak çalışmayla ilgili amaçlar için yapılması ve veri konusunun önceden bildirilmesi kaydıyla, yasal bir yükümlülüğün yerine getirilmesi veya bir sözleşmenin ifası için gerekli olması,	
+			(B)	İşlemenin, verilerin üçüncü taraflara transfer edilmemesi veya iletilmemesi kaydıyla, kontrolörün müşterilerini veya tedarikçilerini ilgilendirmesi durumunda,	
+				(a)	Bu bendin uygulanmasında, transmisyon veya haberleşmenin herhangi bir yasa veya mahkeme kararıyla yapılmış olması kaydıyla, mahkemeler ve kamu makamları üçüncü taraf olarak görülmezler.	
+				(b)	Sigorta şirketleri tüm sigorta çeşitleri için, eczacılık şirketleri, veri tedarik şirketleri ve bankalar ve kredi kartı veren şirketler gibi mali kurumlar bildirim yükümlülüğünden muaf değillerdir.	
+			(C)	İşlemenin bir topluluk, dernek, şirket veya siyasi parti tarafından yapılması ve üyelerin onay vermiş olmaları ve verilerin üçüncü taraflara transfer edilmemesi veya iletilmemesi kaydıyla, bunların üyelerine dair veriler içermesi durumunda yukarıda bahse konu topluluk, dernek, şirket veya siyasi partilerin amaçları doğrultusunda üyelerine bildirimde bulunulduğu takdirde üyeler; bildirimin ilgili mevzuat veya mahkeme kararıyla yapılması halinde mahkemeler ve kamu makamları, üçüncü taraf olarak addedilmezler.	
+			(Ç)	İşlemenin, kontrolörün tıbbi gizliliğe veya ilgili mevzuatın veya davranış kurallarının gerektirdiği diğer gizliliğe bağlı olması ve verilerin üçüncü taraflara transfer edilmemesi veya iletilmemesi kaydıyla, doktorlar veya sağlık hizmeti veren diğer kişiler tarafından yapılması ve tıbbi bilgiler içermesi durumunda; işleme, tele-tıp operasyonlarıyla ilgili programlar veya tıbbi hizmetlerin bir şebeke aracılığıyla sağlanması çerçevesinde gerçekleştiriliyor ise, klinikler, hastaneler, sağlık merkezleri, nekahat ve zehirli maddelerden arınma merkezleri, sigorta fonları ve sigorta şirketleri ile kişisel verilerin kontrolörleri bildirim yükümlülüğünden muaf değillerdir.	
+			(D)	Kontrolörün ilgili yasanın gerektirdiği gizliliğe bağlı kalması ve verilerin, gerekli ve müvekkillerinin talepleriyle doğrudan bağlantılı olması halinde, üçüncü taraflara gönderilmemesi veya iletilmemesi kaydıyla, işlemenin avukatlar tarafından yapılması ve müvekkillerine yasal hizmetlerin sağlanmasını ilgilendirmesi durumunda.
+	
+Kişisel 
+Veri Dosya Sistemlerinin 	9. 	(1)	Kişisel veri dosya sistemlerinin birleştirilmesine yalnızca, bu birleştirme önemli bir kamu çıkarı için olduğu takdirde, bu Yasanın 6’ncı maddesinde belirtilen koşullar altında izin verilir.	
+Birleştirilmesi		(2)	Her birleştirme, iki veya daha fazla kişisel veri dosya sistemini birleştirecek kontrolör veya kontrolörler tarafından ortaklaşa yapılacak bir başvuru ile Başkana bildirilir.	
+		(3)	(A)	Birleştirilecek dosya sistemlerinden birisinin dahi hassas veri içermesi, veya birleştirme sonucu hassas verinin açığa çıkması veya yapılacak birleştirme için tek bir kod numarası kullanılması halinde ise birleştirme sadece Kurulun ücret karşılığında vereceği “Birleştirme Ruhsatı” ile mümkündür.	
+			(B)	Birleştirme ruhsatı, kontrolörlerin dosyalama sistemleri hakkındaki görüşleri alındıktan sonra verilir ve aşağıdaki hususları içerir:	
+				(a)	Birleştirmenin neden gerekli olduğu,	
+				(b)	Birleştirmenin ilgili olduğu kişisel verinin kategorisi,	
+				(c)	Birleştirmeye izin verilen zaman dilimi ve	
+				(ç)	Bilgiye konu kişinin ve üçüncü tarafların başta mahremiyet hakları olmak üzere, hak ve özgürlüklerini korumak amacıyla ileri sürülen her türlü şart ve koşul.	
+			(C)	Birleştirme ruhsatı, kontrolörlerin başvurusunu müteakip yenilenebilir.
+	
+		(4)	Yukarıdaki (2)’nci fıkrada sözü edilen başvurular ile “Birleştirme Ruhsatı” suretleri, Başkan tarafından tutulan Birleştirme Sicilinde yer alır.
+	
+Veri Koruma Görevlisi	10.	(1)	Kişisel veri işleyen her kurum ve kuruluş, işlediği veriyi koruyacak en az bir personel görevlendirmekle yükümlüdür.	
+		(2)	Veri Koruma Görevlisi, bu Yasa çerçevesinde, kontrolörün isteyebileceği bilgiler doğrultusunda, kurumdaki kişisel verilerin işlenmesini ve korunmasını izler ve gözetir.
+
+	
+ÜÇÜNCÜ KISIM
+Veri Transferi ve Gizlilik
+	
+Diğer 
+Ülkelere Veri Transferi	11.	(1)	Bu Yasa kurallarına bağlı olarak işlenmiş veya işlenmeye niyet edilmiş verinin diğer ülkelere transferi, Kurulun ücret karşılığında vereceği “Transfer Ruhsatı” ile mümkündür. Kurul, ancak ilgili ülkenin yeterli seviyede koruma sağlaması halinde sözkonusu ruhsatı verir. “Transfer Ruhsatı” verilirken, verinin niteliği, işleme  amaç ve süresi, hukukun genel ve özel ilkeleri, davranış ilkeleri ve verinin korunması için güvenlik önlemleri ile menşe ülkesindeki koruma seviyesi, verinin iletilme şekli ve nihai hedefi gözönünde bulundurulur.	
+		(2)	Kişisel verinin yeterli düzeyde koruma sağlamayan bir ülkeye transferine, aşağıdaki koşullardan bir veya daha fazlasının yerine getirilmesi halinde izin verilir:	
+			(A)	Bilgiye konu kişinin, herhangi bir kuşkuya yer bırakmayacak şekilde ve hukuka veya kabul edilmiş ahlak değerlerine aykırı olmayacak şekilde alınmış olmak kaydıyla transfere onay vermesi.	
+			(B)	Aşağıdaki koşullar altında transfer gereklidir:	
+				(a)	Bilgiye konu kişinin hayati çıkarlarının korunması veya	
+				(b)	Bilgiye konu kişi ile kontrolör veya kontrolörle üçüncü taraf arasında, bilgiye konu kişinin çıkarı için yapılmış olan bir sözleşmenin tamamlanması veya kurallarının yerine getirilmesi için  veya	
+				(c)	Bilgiye konu kişinin talebi üzerine alınan, bilgiye konu kişi ile kontrolör arasında yapılacak sözleşme öncesi önlemlerin uygulanması için.	
+			(C)	Transferin önemli kamu çıkarı, özellikle diğer ülkenin kamu makamlarıyla işbirliğine ilişkin sözleşmenin kurallarının yerine getirilmesi nedeniyle gerekli olması veya bu nedenlerle transfere hukuken ihtiyaç duyulması.	
+			(Ç)	Transferin bir mahkemeye yöneltilecek hukuki iddiaların oluşturulması, öne sürülmesi ve savunulması için gerekli olması.
+
+
+	
+			(D)	Transferin, ilgili yasa uyarınca kamuya bilgi veren ve kamuya veya meşru çıkarı olan herkese açık olan bir kamu kayıt merkezinden, kayıt merkezine erişimin yasal olarak mümkün olması halinde, yapılması.	
+		(3)	Kurul, yeterli düzeyde koruma sağlamayan bir ülkeye, kontrolörün özel ve temel hakların korunmasına ilişkin yeterli teminat vermesi ve bu hakların ve teminatın uygun sözleşme kurallarından kaynaklanması halinde, veri transferine izin verebilir.
+	
+İşlemenin Gizliliği ve  Güvenliği	12.	(1)	Verinin işlenmesi gizlidir. Bu işlem yalnızca kontrolör, işlemci veya işlemcinin yetkisi altında görev yapan kişilerce ve yalnızca kontrolörden alınan talimat uyarınca yapılır.	
+		(2)	İşlemenin yapılması için, kontrolörün uygun nitelikleri haiz, teknik bilgi açısından yeterli teminatı sağlayan ve gizliliğe riayet açısından şahsi güvenilirliği olan kişileri seçmesi gerekir.	
+		(3)	Kontrolör, verinin istemdışı veya yasadışı zarara uğraması, istemdışı  kaybı, değiştirilmesi, yetkisiz kişilere iletilmesi veya erişim imkanı sağlanması ve her türlü diğer yasadışı işleme tabi tutulmasına karşı gizliliğinin ve korunmasının sağlanması için uygun kurumsal ve teknik önlemleri almalıdır. Bu önlemler, işleme sürecindeki ve veri işlemenin doğasına uygun düşecek riskleri karşılamada güvenliği temin etmelidir.	
+		(4)	Başkan, teknolojik gelişmeleri de gözönünde bulundurarak, verinin güvenliğine ve her kategoride veri için gerekli koruma önlemlerine ilişkin olarak zaman zaman talimat verebilir.	
+		(5)	İşleme, kontrolör adına kendi denetimi altında olmayan bir işlemci tarafından icra edilmekteyse, işleme görevinin verilmesinin yazılı olarak yapılması gerekir. Görevlendirme, işlemcinin işlemeyi yalnızca kontrolörden aldığı talimat üzerine yapmasını ve bu kısımda yeralan diğer yükümlülükleri de üstlenmesini sağlamalıdır.
+	
+DÖRDÜNCÜ KISIM
+Bilgiye Konu Kişinin Hakları
+	
+Bilgilendirme Yükümlülüğü	13.	(1)	Kontrolör, bilgiye konu kişiden kişisel verilerin toplanması aşamasında, bilgiye konu kişi eğer halihazırda sahip değilse, kendisine uygun ve açık bir şekilde, en azından aşağıdaki bilgileri vermekle yükümlüdür:	
+			(A)	Kendisinin ve varsa temsilcisinin kimliği,	
+			(B)	İşlemenin amacı.	
+		(2)	Kontrolör, bilgiye konu kişiyi aşağıdaki konularda da ayrıca bilgilendirmekle yükümlüdür:	
+			(A)	Verinin alıcıları veya alıcı kategorileri,	
+			(B)	Veriye erişim ve verinin düzeltilmesi hakkının varlığı, ve	
+			(C)	Bu verinin gerekli olması halinde, verinin güvenlik içerisinde işlenmesinin sağlanması koşuluyla, bilgiye konu kişinin yasal olarak yardım etmek mecburiyetinde olup olmadığı, mecbursa bunu reddetmesinin sonuçları.	
+		(3)	(A)	Bilginin üçüncü taraflardan alınması halinde, bilgiye konu kişi, yukarıdaki (1)’inci fıkra uyarınca, bilginin kaydı sırasında veya bilginin üçüncü taraflara iletilmesinin beklendiği aşamada, henüz bilgilendirilmemişse, bilgilendirilecektir.	
+			(B)	İşlemenin özellikle istatistiki ve tarihi amaçlarla, veya bilimsel araştırma amacıyla yapılması halinde, bilgiye konu kişiyi haberdar etmek imkansız ise veya onu haberdar etmek için orantısız bir çaba gerekliyse veya bilginin iletilmesi başka bir yasayla mümkünse, her koşulda Başkanın izni alınmak kaydıyla, yukarıdaki (A) bendi kuralları uygulanmaz.	
+		(4)	Kontrolörün başvurusu ve Başkanın kararı üzerine, kişisel verinin toplanması konusunda yukarıdaki (1)’inci, (2)’nci ve (3)’üncü fıkralar uyarınca haberdar etme yükümlülüğü, Devletin savunması, ulusal ihtiyaçları veya ulusal güvenliği veya cezai suçların önlenmesi,  tespiti, soruşturulması ve kovuşturulması amacıyla, kısmen veya tamamen gözardı edilebilir.	
+		(5)	Bilgiye konu kişinin bu Yasanın 14’üncü ve 15’inci maddelerinde de atıfta bulunulan haklarına halel gelmeksizin ve mahremiyet hakkı ve aile yaşamının ihlal edilmemesi koşuluyla, derlemenin yalnızca gazetecilik amacıyla yapılması halinde, haberdar etme yükümlülüğü bulunmamaktadır.
+	
+Erişim Hakkı	14.	(1)	Herkesin kendisine ait kişisel verinin işlenip işlenmediğini bilmeye hakkı vardır. Bu nedenle, kontrolör kendisine yazılı olarak yanıt vermelidir.	
+		(2)	Bilgiye konu kişi, aşağıdaki hususlarda, kontrolöre, soru sorma ve yanıt alma hakkına sahiptir:	
+			(A)	(a)	İşlemeye tabi tutulmuş, kendisine ait tüm kişisel veri ve aynı zamanda bunların kaynağı,	
+				(b)	İşlemenin amacı, bu bilgiyi alanlar veya alan kategoriler ile işlenmiş veya işlemeye tabi tutulmakta olan verinin kategorileri,	
+				(c)	Bir önceki bilgilendirmeden beri işlemede kaydedilen ilerleme.	
+			(B)	Verinin düzeltilmesi, silinmesi veya bloke edilmesi, özellikle yanlışlıklar ve eksiklikler nedeniyle bu Yasanın kuralları uyarınca icra edilmemiş olan işleme.	
+			(C)	İmkansız olmadığı ve orantısız çaba gerektirmediği sürece, verinin iletildiği üçüncü taraflara (B) bendi uyarınca yapılmış olan her türlü düzeltme, silme ve bloke etme hakkında bildirim yapılması.	
+		(3)	Kontrolör, başvurunun sunulmasından itibaren otuz gün içinde yanıt vermediği veya yanıtı tatmin edici olmadığı takdirde, bilgiye konu kişi Kurula başvuru hakkına sahiptir. Kurul bu konudaki kararı verir.	
+		(4)	Bilgiye konu kişi, erişim hakkını bir uzmanın yardımıyla kullanabilir.
+	
+		(5)	Sağlığa ilişkin veri, bilgiye konu kişiye doktor aracılığıyla bildirilir.	
+		(6)	Kontrolör, Kurulun kararı ile bilgiye konu kişiye, bilgi verilmesini;	
+			(A)	Özel yasada açıkça öngörülmüş olması,	
+			(B)	Üstün nitelikte bir kamu yararı, özellikle Devletin iç ve dış güvenliğinin korunması açısından gerekli olması,	
+			(C)	Bilgi verilmesinin idari veya cezai bir soruşturmanın amacının gerçekleşmesini güçleştirmesi durumlarında sınırlayabilir, erteleyebilir veya reddedebilir, ayrıca bunların sebebini ilgili kişiye yazılı olarak bildirir.
+	
+İtiraz Hakkı	15.	(1)	Bilgiye konu kişinin, herhangi bir zamanda, içinde bulunduğu özel duruma ilişkin meşru nedenlerle, kendisine ait işlenmiş, işlenmekte olan veya işlenmesi planlanan verinin işlenmesine itiraz hakkı bulunmaktadır. İtiraz yazılı olarak, kontrolöre yapılır ve düzeltme, kullanımdan geçici olarak imtina, bloke etme, iletilmesinden veya silinmeden imtina, işlenmeme ve silinme gibi belirli bir işlemin yapılması veya yapılmaması talebini içermelidir. Kontrolör, bu itirazlara, talebin iletilmesini takiben onbeş iş günü içinde yazılı olarak yanıt vermelidir. Yanıtında, yaptığı işlem veya gerekli hallerde talebin yerine getirilmemesine ilişkin nedenlere yer vermelidir. İtirazların reddedilmesi halinde, yanıtın Kurula iletilmesi gerekmektedir.	
+		(2)	Kontrolör, kendisine tanınan zaman dilimi içinde yanıt vermezse, veya yanıtı tatmin edici bulunmazsa, bilgiye konu kişi Kurula başvurma ve itirazının incelenmesini talep etme hakkına sahiptir. Kurul bu konudaki kararı verir. Başkan,  bilgiye konu kişinin mağduriyet riskinin yüksek olması ve itirazları mantıklı bulması ve işlemenin devam etmesi halinde, itirazlar hakkında nihai karar verilene kadar işlemeyi derhal askıya alma talimatı verebilir.
+	
+Erişim ve 
+İtiraz
+Haklarının Kullanılması	16. Erişim ve itiraz hakları, kontrolöre başvurunun sunulması suretiyle kullanılır. Kişinin erişim hakkını kullanarak veriye ulaşması, bu Yasanın 37’nci maddesinin (2)’nci fıkrasında belirtilen ücret karşılığında olur. Kontrolör veya Kurulun, verinin düzeltilmesi veya silinmesi talebini yerinde bulması halinde, kontrolör başvuru sahibine, gecikmeksizin ve hiçbir ücret almaksızın, anlaşılabilir bir dille kendisini ilgilendiren işlemenin düzeltilmiş halini vermekle yükümlüdür.
+	
+Doğrudan 
+veya Dolaylı Pazarlama 	17.	(1)	Bilgiye konu kişi kontrolöre yazılı onay vermeden, kişisel veri, doğrudan veya dolaylı olarak mal veya hizmetin pazarlanması amacıyla kimse tarafından kullanılamaz.	
+İçin İşleme		(2)	Kontrolörün, yukarıdaki (1)’inci fıkrada belirtilen amaçlar nedeniyle kişisel veriyi kullanma isteği devam ediyorsa konu kişinin onayını almak için, bilginin kamuya açık kaynaklardan temin edilmesi kaydıyla, bilgiye konu kişinin adını ve adresini kullanabilir. 
+
+	
+Tazmin 
+Hakkı	18. Kontrolör, zararı doğuran olaydan dolayı sorumlu olmadığını kanıtlamadıkça, bu Yasanın herhangi bir kuralının ihlalinden ötürü zarar gören bilgiye konu kişinin zararını tazmin eder.
+
+	
+Kontrolör ve İşlemcinin Gizlilik Yükümlülüğü	19. Kontrolör ve işlemciler, bu Yasa kuralları çerçevesinde öğrendikleri kişilere ait verileri, yasal olarak iletebilecekleri kişi veya mercilerden başkasına iletemezler veya açıklayamazlar. Sözkonusu kişilerin bu yükümlülükleri görevlerinden ayrıldıktan sonra da devam eder.
+
+	
+BEŞİNCİ KISIM
+Kişisel Verileri Koruma Kurulunun 
+Oluşumu, Yetki ve Görevleri
+	
+Kişisel Verileri Koruma Kurulu	20. Kişisel verinin korunması ve kişisel verinin işlenmesi çerçevesinde bireylerin korunmasına ilişkin kuralların uygulanmasını denetlemek ve izlemekten sorumlu, tüzel kişiliğe sahip, idari ve mali özerkliğe sahip bir Kişisel Verileri Koruma Kurulu oluşturulur.
+	
+Kurulun 	21.	(1)	Kurul, bir başkan ve on üye olmak üzere onbir kişiden oluşur;	
+Oluşumu		(2)	(A)	Kurul Başkanı Cumhurbaşkanı tarafından atanır ve atama işlemi Cumhuriyet Meclisince onaylanır.	
+			(B)	Cumhurbaşkanınca, bir kişi Kurul Başkanı olarak atandıktan sonra, konu Cumhuriyet Meclisinin onayını almak üzere Cumhuriyet Meclisi Başkanlığına sunulur.	
+			(C)	Cumhuriyet Meclisi Başkanlığı, atama işlemini değerlendirmek üzere konuyu, Hukuk ve Siyasi İşler Komitesine iletir. Hukuk ve Siyasi İşler Komitesi, Kurul Başkanı olarak atanan kişinin, bu Yasanın 22’nci maddesinde öngörülen nitelikleri taşıyıp taşımadığını inceler ve değerlendirme sonuçlarını içeren bir Rapor hazırlayarak Genel Kurula sunar.	
+
+R.G.Ek IV
+Bölüm II
+Tarih:11.12.1985
+Sayı:107
+A.E.11
+      R.G Ek IV
+      Bölüm II
+      Tarih:7.2.1986
+      Sayı: 13
+      A.E.2
+      R.G Ek IV
+      Bölüm II
+     Tarih:19.10.1993
+     Sayı: 109
+     A.E.21
+     R.G Ek IV
+     Bölüm II
+    Tarih:17.10.2006
+    Sayı: 171
+    A.E.32
+		(Ç)	Raporun Genel Kurulda kabul edilmesi halinde oylamaya geçilir. Oylama Cumhuriyet Meclisi İçtüzüğünün 163’üncü maddesi kuralları çerçevesinde yapılır. 	
+			(D)	Onay için üye tam sayısının salt çoğunluğu aranır. Gerekli çoğunluğun sağlanamaması durumunda ikinci tur bir oylama yapılır ve bu turda onay için, toplantıya katılan üyelerin salt çoğunluğu yeterli olur.	
+		(3)	(A)	Kurulun diğer üyeleri aşağıda belirtilen kişilerden oluşur:	
+				(a)	Cumhuriyet Meclisince atanacak iki üye,	
+				(b)	Biri, Bakanlar Kurulu Kararı ile oluşturulan Kamu Net Üst Kurulunda görev yapan üyeler arasından olmak üzere Başbakanın önerisi ile Bakanlar Kurulunca atanacak iki üye,	
+				(c)	Barolar Birliği, Kıbrıs Türk Ticaret Odası, Kıbrıs Türk Sanayi Odası, Kıbrıs Türk Mühendis ve Mimar Odaları Birliği ve Kıbrıs Türk Tabipler Birliğinin kendi üyeleri arasından atayacakları birer üye  ve	
+				(ç)	Yükseköğretim Planlama, Denetleme ve Akreditasyon ve Koordinasyon Kurulunun akademisyenler arasından atayacağı bir üye.	
+			(B)	(a)	Cumhuriyet Meclisi tarafından Kurula yapılacak atama için, Cumhuriyet Meclisinde grubu bulunan her siyasal parti ve milletvekilleri aday gösterebilir. Ayrıca, doğrudan doğruya aday olmak isteyenler de adaylık başvurusunda bulunabilirler. 	
+	(b)	Kurula, Cumhuriyet Meclisince atanacak üyeleri belirlemekle ilgili kurallar Cumhuriyet Meclisi İçtüzüğü çerçevesinde yapılır.	
+				(c)	Cumhuriyet Meclisi Başkanlığı, siyasal parti gruplarınca veya milletvekillerince aday gösterilen veya doğrudan doğruya aday olmak isteyenlere ilişkin dosyaları, adayların aşağıdaki 22’nci maddede öngörülen nitelikleri taşıyıp taşımadıklarına ilişkin değerlendirmeyi yapmak üzere Hukuk ve Siyasi İşler Komitesine iletir. Komite, değerlendirme sonuçlarını içeren bir Rapor hazırlayarak Genel Kurula sunar.	
+				(ç)	Seçim, birleşik oy pusulası üzerinde ve Cumhuriyet Meclisi İçtüzüğünün 163’üncü maddesi kuralları çerçevesinde yapılır ve seçim sonucu atama işlemleri gerçekleşir.
+	
+Kurul Başkan ve Üyelerinin 	22.	(1)	Kurul Başkan ve üyesi olarak atanacak kişilerde aşağıdaki nitelikler aranır:	
+Nitelikleri			(A)	Kuzey Kıbrıs Türk Cumhuriyeti Yurttaşı olmak,	
+			(B)	Üniversite veya dengi bir yüksekokuldan mezun olmak,	
+			(C)	Kamu haklarından yasaklı bulunmamak,	
+			(Ç)	Bir yıldan fazla hapis cezasına çarptırılmamış olmak veya affa uğramış olsalar dahi, rüşvet, hırsızlık, dolandırıcılık, sahtekarlık, irtikap, ırza geçme, hileli iflas ve benzeri yüz kızartıcı suçlardan dolayı mahkum olmamış olmak,	
+			(D)	Disiplin suçundan ötürü Kamu hizmetinden azledilmemiş olmak.	
+		(2)	Kurul Başkanı olarak atanacak kişide yukarıdaki (1)’inci fıkrada öngörülen nitelikler yanında aşağıdaki nitelikler aranır:	
+			(A)	Kamu görevinde veya kamu görevi dışında sorumluluk taşıyan bir görevde en az on yıl çalışmış olmak  veya	
+			(B)	Doktora seviyesinde lisans üstü eğitim yapmış ve kamu görevinde veya kamu görevi dışında sorumluluk taşıyan bir görevde en az beş yıl çalışmış olmak.
+	
+Kurul 	23.	Kurul Başkanının görev ve yetkileri şunlardır:	
+Başkanının Görev ve 		(1)	Kurulu, yurt içinde ve yurt dışında temsil etmek ve Kurul toplantılarını yönetmek,	
+Yetkileri		(2)	Kurula bu Yasa ile verilen yetkilerin kullanılmasını ve görevlerin gerektirdiği hizmetlerin yürütülmesini sağlamak,	
+		(3)	Kurul personelinin çalışmalarını gözetmek, denetlemek ve onların verimliliklerini artırma yönünde gerekli önlemleri almak,	
+		(4)	Kurul bütçesinin ve kesin hesaplarının hazırlanmasını ve uygulanmasını sağlamak ve Kurul bütçesinin ita amirliğini yapmak,	
+		(5)	Hizmet için gerekli araç, gereç ve aygıtların Kurul kararlarına uygun olarak satın alınmasını sağlamak,	
+		(6)	Bu Yasa ile kendisine verilen diğer görevleri yerine getirmek ve yetkileri kullanmak.
+	
+Kurul Başkan 	24.	(1)	Kurul Başkan ve üyelerinin görev süresi dört yıldır.	
+ve Üyelerinin Görev Süresi ve Yeniden Atanabilmesi		(2)	Kurul Başkan veya üyeliğinde bu Yasanın 26’ncı maddesi uyarınca boşalma olması halinde, boşalan Başkanlık veya üyelik boşalma tarihinden başlayarak bir ay içinde bu Yasanın 21’inci maddesi kuralları çerçevesinde doldurulur. Boşalan üyelik hangi kontenjandan olmuşsa yeni üyenin atanması da o kontenjandan olur. Kurul Başkanlığında veya Cumhuriyet Meclisince atanan üyeliklerde, Cumhuriyet Meclisinin tatilde olduğu bir tarihte boşalma olması halinde, tatilin bitiminden itibaren bir ay içinde onaylama veya atama işlemi gerçekleştirilir. 	
+		(3)	Boşalan Kurul Başkanlığına veya üyeliğine seçilen kimse, yerine seçildiği Kurul Başkanı veya üyenin süresini tamamlar.	
+		(4)	Yeni Kurul Başkanı ve  üyeleri atanıncaya kadar eski Kurul Başkanı ve üyelerinin görevi devam eder.
+        Ancak bu Yasanın 26’ncı maddesinin (1)’inci fıkrasının (Ç) bendi uyarınca görevden alınan Başkan ve üyelerin görevleri devam etmez.	
+		(5)	Görev süresi dolan Kurul Başkanı veya üyesi yeniden atanabilir.
+	
+Kurul Başkan ve Üyelerinin Siyasal Parti Organlarında Görev Alamayacakları
+
+	25. Kurul Başkanı veya üyesi olarak atananlar, atandıkları tarihten başlayarak siyasal partilerin organlarında görev alamazlar.	
+Kurul 	26.	(1)	Aşağıdaki hallerde Kurul Başkanlığı veya üyeliği boşalır:	
+Başkanlığı veya Üyeliğinin 			(A)	Kurul Başkanı veya üyesinin ölümü veya istifa etmesi halinde,	
+Boşalması			(B)	Bu Yasanın 22’nci maddesinde öngörülen niteliklerden bir veya daha fazlasının yitirmesi halinde,	
+			(C)	Özürsüz olarak üst üste üç toplantıya katılmaması halinde,	
+			(Ç)	Atayan makam veya kurumca görevden alınması halinde; Kurul Başkanının Cumhurbaşkanınca görevden alınması halinde bu işlemi Meclis Genel Kurulunun onaylaması gerekir. Bu durumda işlemin onayı için toplantıya katılan üyelerin salt çoğunluğu aranır.	
+		(2)	Kurul Başkanı, bu madde uyarınca boşalan üyeliği yazılı olarak Cumhurbaşkanına, Cumhuriyet Meclisi Başkanlığına, Bakanlar Kuruluna, Barolar Birliğine, Kıbrıs Türk Ticaret Odasına, Kıbrıs Türk Sanayi Odasına, Kıbrıs Türk Mühendis ve Mimar Odaları Birliğine, Kıbrıs Türk Tabipler Birliğine ve Yükseköğretim Planlama, Denetleme, Akreditasyon ve Koordinasyon Kuruluna bildirir. Cumhuriyet Meclisi Başkanlığı konuyu Genel Kurulun bilgisine sunar. Yukarıda belirtilen bildirim, Kurul Başkanlığının boşalması halinde, Kurulun en yaşlı üyesi tarafından yapılır.
+	
+Kurulun Toplantıları	27.	(1)	Kurul toplantılarına Başkan, yokluğunda ise en yaşlı üye başkanlık eder.	
+		(2)	Kurul toplantılarında toplantı yeter sayısı üye tam sayısının salt çoğunluğu, karar yeter sayısı ise toplantıya katılanların salt çoğunluğudur. Kabul ve ret oylarının eşit olması halinde oya konan husus reddedilmiş olur. Çekimser oylar toplantı yeter sayısına dahil olup, karar yetersayısı açısından dikkate alınmaz.	
+		(3)	Kurul kararları açık oyla alınır.	
+		(4)	Sürekli çalışan Kurul, ayda en az bir kez toplanır. Gerektiği takdirde Başkanın veya en az dört üyenin istemi ile Kurul olağanüstü toplanabilir. Olağan ve olağanüstü toplantıların günü, saati ve gündemi Başkan tarafından saptanır ve üyelere yazılı olarak duyurulur.	
+		(5)	Kurul üyeleri, kendileri veya temsil ettikleri kurumların taraf olduğu şikayet konularına ilişkin kararlara katılamazlar.
+	
+Kurulun 	28.	Kurulun görevleri şunlardır:	
+Görevleri		(1)	Kişisel verilerin işleme tabi tutulmasına ilişkin konularda tavsiye ve önerilerde bulunmak ve bunları kendi takdirine bağlı olarak kamuoyunun dikkatine getirmek, gerekmesi halinde bu konularda tüzük taslakları hazırlayıp Bakanlar Kurulunun onayına sunmak; standartları belirlemek ve bunlara ilişkin bildirim yayımlamak.	
+		(2)	Kişisel veri işlenmesiyle bağlantılı olarak kişileri koruyucu kuralların uygulanmasına yönelik talimatlar vermek.	
+		(3)	Bu Yasada öngörülen ruhsatları vermek.
+	
+		(4)	Kişisel verilerin kontrolörler tarafından işlenmesi dolayısıyla kişilik haklarının ihlal edildiğini iddia edenlerin şikayetleri hakkında karar vermek, bunu yaparken  de bu tür veri işlenmesinin yasallığını soruşturmak, denetlemek, tüm bunlarla ilgili işlemlerden başvuru sahiplerini haberdar etmek.	
+		(5)	Diğer ülkelere veri aktarımı konusunda diğer ülkede yasal bakımdan eşdeğer korunmanın bulunduğu hususunda onay vermek.	
+		(6)	Kendi yetkisine veya bir şikayete dayanarak herhangi bir dosyayı denetlemek. Bu bağlamda avukat ile müvekkili arasındaki mahremiyete tabi verinin dışındaki her türlü mahrem de dahil olmak üzere, kişisel verilere ulaşma ve her türlü veriyi toplama hakkında sahiptir. İstisnai olarak, ulusal güvenlik veya  özellikli ciddi suçların ortaya çıkarılması gerekçesiyle tutulan dosyalarda isimleri kayıtlı olanlara ilişkin ayrıntılara erişemez. Denetleme, Kurul tarafından bu amaçla görevlendirilmiş çalışan tarafından yürütülür. Kurul Başkanı, ulusal güvenlik nedeniyle tutulmuş bir dosyaya bağlı bir denetlemede şahsen hazır bulunur. Denetlemeye ilişkin usul, Kurul tarafından hazırlanıp, Başbakanlıkça önerilecek ve Bakanlar Kurulunca onaylanacak bir tüzükle belirlenir.	
+		(7)	Bir önceki takvim yılına ait yıllık görev raporunu hazırlamak. Sözkonusu rapor, gerekli olması halinde ilgili mevzuatta yapılması gerekli değişiklik önerilerini de kapsar.	
+		(8)	Bu Yasa kurallarına aykırılık taşıyan herhangi bir hususu yetkili makamların dikkatine getirmek.	
+		(9)	Bu Yasa uyarınca verilen yetki ve görevlerin gerektirdiği hizmetlerin yürütülebilmesi için gerekli personeli bu Yasa kuralları çerçevesinde istihdam etmek.	
+	(10)	Görevlerini yerine getirmesi bağlamında diğer ülkelerde kurulmuş olan muadil kurul veya kurumlarla işbirliği içinde olmak.
+	
+Kurulun 	29. 	(1)	Kurulun gelirleri şunlardır:	
+Gelirleri, Bütçesi, Kesin Hesapları ve Denetim			(A)	Kurul tarafından verilecek “Birleştirme Ruhsatı” ve “Transfer Ruhsatı” karşılığında alınacak, bu Yasanın 37’nci maddesi uyarınca yapılacak tüzükte öngörülen ücret,	
+			(B)	Genel Bütçeye konulacak ödenek,	
+			(C)	Kurula yapılacak her türlü yardım ve bağışlar,	
+			(Ç)	Diğer gelirler.	
+		(2)	Cumhuriyet Meclisince onaylanıp yürürlüğe girmedikçe Kurul bütçesinden harcama yapılamaz.   
+        Ancak, herhangi bir nedenle yeni mali yıl bütçe yasasının yürürlüğe girmemesi halinde, yeni mali yıl bütçe yasasının yürürlüğe gireceği tarihe kadar geçmiş yıl bütçe yasasına bağlı gider cetvellerinde öngörülen ödeneklerin 1/12’sinin aylık olarak uygulanmasına ve gelirlerin tahsiline devam edilebilir.
+
+	
+		(3)	Kurulun mali yılı 1 Ocakta başlayıp 31 Aralıkta sona eren takvim yılıdır.	
+	(4)	(A)	Kurulun gelir ve giderleri, Kurul bütçesinde gösterilir.	
+		(B)	Kurulun bütçesi, her mali yılın başlangıcından en az üç ay önce Kurul tarından hazırlanarak Başbakanlıkça Bakanlar Kuruluna gönderilir ve Bakanlar Kurulunca Cumhuriyet Meclisine sunulur.	
+	(5)	(A)	Kurul bütçesi, Sayıştayın denetimine bağlıdır.	
+			(B)	Bütçe kesin hesapları, Sayıştayın uygunluk bildirimi ile birlikte, her mali yılın sona ermesinden başlayarak en geç altı ay içinde Cumhuriyet Meclisinin onayına sunulur.	
+Kurul Başkanının Tam Zamanlı 	30.	(1)	(A)	Kurul Başkanı, tam zamanlı olarak görev yapar ve Başkanlığı süresince başka herhangi bir işle iştigal edemez.	
+Çalışması ve Kurul Başkan ve Üyelerinin 			(B)	Kurul Başkanına, Bakanlar Kurulunca 18A bareminin  en üst basamağından az olmamak kaydıyla saptanan aylık ödenek ödenir.	
+Ödenekleri			(C)	Kurul Başkanı kamu görevlileri arasından atanmışsa, kamu görevlisinin asli kadrosunda çekmekte olduğu maaşı, Bakanlar Kurulunun bu fıkranın (B) bendi uyarınca saptayacağı miktara tamamlanır. Ancak bu ödenek emeklilik amaçları bakımından dikkate alınmaz. Görev süresinin dolması veya görevden alınması halinde Başkan, eski baremi ile birlikte eski görevine iade edilir. Bu gibi hallerde Başkan olarak geçirdiği süre, barem içi artışında ve emeklilik amaçları açısından fiili hizmet süresi olarak dikkate alınır. Kamu görevi dışından atanan Kurul Başkanının görev süresinin sona ermesi veya görev süresi içinde görevine son verilmesi halinde bu kişinin Kurul ile ilişiği kesilir.	
+		(2)	Kurul üyelerine, görev yaptıkları her toplantı günü için Bakanlar Kurulunca saptanacak miktarda huzur hakkı ödenir.
+	
+Kurul Hizmetlerinin 	31.	(1)	Başkan ve Kurula, bu Yasa ile verilen yetki ve görevlerin gerektirdiği hizmetleri yürütmek üzere bir büro kurulur.	
+Yürütülmesi ve Kurul  
+Personelinin
+Statüsü
+22/1992
+   30/1993
+   25/2000
+   51/2002
+   15/2004
+
+
+
+
+	(2)	Büroda istihdam edilecek personelin İş Yasası kuralları çerçevesinde istihdam edilmesi ve sözleşmeli olması esastır. Personel sayısı, 1 Koordinatör, 1 Hukukçu, 3 Bilgi/ Belge Yöneticisi, 2 Denetleme Memuru, 1 Mali İşler Memuru, 1 Sekreter, 1 Odacı/şöför olmak üzere 10 kişiyi geçemez.
+	
+Personele İlişkin 	32.	(1)	Personel, Kurul tarafından istihdam edilir ve hizmet koşulları sözleşmelerinde belirtilir.	
+Kurallar		(2)	Personele verilecek ücretler, Bakanlar Kurulunca saptanmış olan kademe ve derecelere göre verilir ve her yıl Kurul Bütçesinde gösterilir.
+
+	
+Kurul Başkanının, Üyelerinin ve Personelinin Sır Saklama 	33. Kurul Başkanı, üyeleri ve kurulda çalışan her türlü personel, çalışmaları ve denetlemeleri sırasında ilgililere ve üçüncü kişilere ait öğrendikleri sırları, bu konuda yasal olarak yetkili kılınan mercilerden başkasına açıklayamazlar ve kendi yararlarına kullanamazlar. 
+       Bu yükümlülük, görevlerinden ayrılmalarından sonra da devam eder.	
+Yükümlülüğü	
+	
+Şikayet Başvurusu	34. Bu Yasa kurallarının uygulanmasından kaynaklanan şikayetler bir başvuru ile Kurula yapılır. Kurul, şikayetleri inceleyip 30 gün içerisinde ilgiliye yazılı cevap vermekle yükümlüdür.
+
+	
+	ALTINCI KISIM
+Suç ve Cezalar
+	
+İdari Para	35.	(1)	Bu Yasanın:	
+Cezaları			(A)	5’inci, 6’ncı ve 8’inci, 13’üncü, 14’üncü ve 15’inci maddelerdeki yükümlülükleri yerine getirmeyenlere 1,000 YTL (Bin Yeni Türk Lirası);	
+			(B)	9’uncu, 11’inci ve 17’nci maddelerdeki yükümlülükleri yerine getirmeyenlere 2,000 YTL (İki Bin Yeni Türk Lirası);	
+			(C)	7’nci ve 12’nci maddelerdeki yükümlülükleri yerine getirmeyenlere 3,000 YTL (Üç Bin Yeni Türk Lirası); 	
+			idari para cezası verilir.		
+		(2)	Yukarıdaki (1)’inci fıkrada öngörülen idari para cezaları Kurul tarafından verilir ve tebliğ edilir. Kurulun bu kararlarına karşı Yüksek İdare Mahkemesine başvurulabilir. İdari para cezaları, Yüksek İdare Mahkemesine başvurulmadığı takdirde başvurma süresinin son bulduğu tarihten itibaren bir ay içinde; Yüksek İdare Mahkemesine başvurulduğu takdirde ise karar kişi aleyhine ise kesin kararın ilgiliye tebliğ edildiği tarihten itibaren bir ay içinde ödenir.	
+48/1977
+     28/1985
+     31/1988
+     31/1991
+     23/1997
+     54/1999
+     35/2005
+
+
+		(3)	Kurul tarafından bu madde uyarınca verilen para cezaları Kamu Alacaklarının Tahsili Usulü Yasasına göre tahsil edilir.
+	
+Suç ve 
+Cezalar	36.	(1)	Yetkili olmadığı halde, kişisel veri içeren bir dosyaya müdahale eden veya buradaki veriye sahip olan veya veriyi silen, değiştiren, bozan, tahrip eden, işleyen, ileten ve nakleden veya verinin yetkisiz ellere geçmesine sebep olan veya bu tür kimselerin veriye sahip olmalarına izin veren veya bu veriyi bir şekilde kullanan bir kişi suç işlemiş olur ve mahkumiyeti halinde 15,000 YTL (On Beş Bin Yeni Türk Lirası)’na kadar para cezasına veya beş yıla kadar hapis cezasına veya her iki cezaya birden çarptırılabilir.	
+		(2)	Bu Yasanın 19’uncu ve 33’üncü maddeleri kurallarına aykırı hareket edenler bir suç işlemiş olurlar ve mahkumiyetleri halinde 10,000 YTL (Yirmi Bin Yeni Türk Lirası)’na kadar para cezasına çarptırılabilirler.	
+		(3)	Bu Yasanın 28’inci maddesinin (6)’ncı fıkrası uyarınca Kurul veya görevlendireceği personel tarafından yapılacak denetlemeye yasal gerekçesi olmadan engel olan veya izin vermeyenler bir suç işlemiş olurlar ve mahkumiyetleri halinde 10,000 YTL (On Bin Yeni Türk Lirası)’na kadar para cezasına çarptırılabilirler.
+
+	
+YEDİNCİ KISIM
+Geçici ve Son Kurallar
+	
+Ruhsat ve Ücretlerle İlgili Tüzük Yapma 	37.	(1)	“Birleştirme Ruhsatı” ve “Transfer Ruhsatı” için ödenecek ücret ve ruhsat verilirken uygulanacak şekil ve usule ilişkin kurallar ve	
+Yetkisi		(2)	Bu Yasanın 16’ncı maddesinde öngörülen bilgiye erişim için ödenecek ücret,	
+		Kurul tarafından hazırlanıp, Başbakanlıkça önerilecek ve Bakanlar Kurulunca onaylanacak bir tüzükte düzenlenir. Belirlenecek ücret, aylık asgari ücretin binde beşinden az ve aylık asgari ücret miktarından fazla olamaz.
+	
+Geçici Madde Mevcut Durumun Yasaya Uydurulması
+	1. Kişisel verileri işleme tabi tutan kamu kurum veya kuruluşları ile gerçek ve tüzel kişiler, Kurulun ilan edeceği tarihten itibaren altı ay içinde, durumlarını bu Yasa kurallarına uygun hale getirmek zorundadırlar.	
+Yürütme Yetkisi
+	38. Bu Yasayı, Bakanlar Kurulu adına Başbakan yürütür.	
+Yürürlüğe Giriş	39. Bu Yasa, Resmi Gazete’de yayımlandığı tarihten başlayarak yürürlüğe girer.	
+

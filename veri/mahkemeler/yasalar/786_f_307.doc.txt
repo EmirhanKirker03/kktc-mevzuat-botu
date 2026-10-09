@@ -1,0 +1,200 @@
+BÖLÜM 307
+TELSİZ TELGRAF YASASI
+	
+	MADDE DİZİNİ	
+Madde  1	Kısa İsim	
+Madde  2	Yorum	
+Madde  3	Telsiz Telgraf Ruhsatı Verilmesi	
+Madde  4	Deneme İçin Ruhsat	
+Madde  5	Satış v.s Ruhsatı	
+Madde  6	Telsiz Telgraf Tüzükleri	
+Madde  7	Yanlış Yola Sevk eden Mesajlar ve Mesajların Alı Konması ve Açıklanması	
+Madde  8	Önceki Kuralların Toprak Sınırları	
+Madde  9	Bakanlar Kurulunun Telsiz Personeli İle İlgili Yetkileri	
+Madde 10	Bakanlar Kurulunun Telsiz Telgraf Tesisi Civarındaki Arazilerin Kullanımını Kısıtlama Yetkisi	
+Madde 11	Cezalar	
+Madde 12	Koruma	
+	
+
+
+TELSİZ TELGRAF İLE İLGİLİ YASAYI DEĞİŞTİREN VE        
+                           BİRLEŞTİREN YASA
+
+                                                                               9 Nisan, 1952
+                                                                                           7/52
+                                                                                          37/55	
+Kısa isim	1. Bu Yasa, Telsiz Telgraf Yasası olarak isimlendirilir.	
+
+Yorum
+	
+2.	
+(1) Bu Yasada metin başka türlü gerektirmedikçe aşağıdaki kelimeler sırasıyla kendilerine verilen anlamı taşır:
+
+“Bulundurma" çalışır durumda olup olmadığına bakılmaksızın telsiz telgraf için kullanılan bir cihazı tasarrufta bulundurmayı içerir:
+
+"Elektrik hattı" elektrik nakli, iletimi veya dağıtımı amaçları için kullanılan tel, iletken veya öteki araçları anlatır ve bunların tümü veya bir kısmının içinde bulunduğu veya  etrafını sardığı veya bunları veya her hangi bir kısmını destekleyen herhangi bir muhafaza, örtü, tüp, boru veya  izolâtörü de içerir ve  ayrıca elektrik veya elektrik akımları nakletme, iletme  veya dağıtma amaçları için kullanılan yukarıda belirtilen şeylere bağlı herhangi  bir cihazı anlatır ;
+
+" Gemi " denizcilikte kullanılan ve küreklerle hareket etmeyen her tarifteki tekneyi içerir,  ancak devlete ait herhangi bir gemiyi kapsamaz ;
+
+“ Müdahale " telsiz ,telgrafla ilgili olarak elektromanyetik enerji çıkarma veya yansıtma suretiyle genel olarak veya kısmen  telgrafçılık amaçlarının yerine getirilmesine ve yukarıdaki sözcüklerin genelliği etkilenmeksizin, alıcıların veya tasarlanan alıcıların tümü veya herhangi biri ile i1gili olarak, telgrafla iletilmesi tasarlanan herhangi bir mesaj, ses veya  görülebilir şekle zarar vermeyi anlatır ; 
+
+" Tekne " denizcilikle kullanılan herhangi bir   gemi veya kayığı veya başka herhangi bir tarifteki  tekneyi kapsar ancak Devlete ait herhangi bir tekneyi kapsamaz ;
+
+" Telsiz telgraf "  elektromanyetik  enerji  verilmesi veya alınması amacıyla inşa edilmiş veya düzenlenmiş herhangi bir cisim veya madde ile sağlanmamış geçitlerden, saniyede üç milyon megasaykıl'dan fazla olmayan bir frekensta elektro manyetik enerji verilmesini veya alınmasını anlatır ve bu enerji gerek;
+	
+		(a)	Mesaj, ses veya görülebilen resim nakli için (mesaj, ses veya resimlerin herhangi bir kişi tarafından fiilen alınıp  alınmadığına bakılmaz)  veya makine veya cihazların işletilme veya kontrolüne hizmet eder ; veya
+	
+		(b)	Herhangi bir maddi veya bir sınıf maddenin varlığı, yokluğu, yeri veya hareketi ile ilgili olarak bi1gi toplama veya bir madde veya bir sınıf maddenin yeri, durumu veya mesafesini kararlaştırmakla ilgili olarak kullanılır ve telsiz  telgraf istasyonlar veya telsiz telgraf cihazlarına  yapılan atıflar, yukarıda  belirtilen  elektromanyetik enerjiyi yukarıda belirtildiği şekilde  verilmesi veya alınması için kullanılan  istasyon ve cihazlara yapılan atıflar olarak anlaşılır.
+Ancak :
+	
+			(i)	Bir telsiz telgraf istasyonu veya cihazının telsiz telgraf ruhsatı almadan yasal olarak kullanılamadığı veya 3.madde uyarınca bir emirname çıkarılmadan böyle bir ruhsat olmaksızın yasal olarak  kullanılamadığı ;
+	
+			(iı)	Bu gibi  istasyon veya cihaz tarafından alınan yukarda belirtilen  herhangi bir elektromanyetik enerjinin  mesaj, ses veya  görülebilir resim nakli için  hizmet ettiği ; ve
+	
+			(iii)	Herhangi bir cihazın, kişilerin adı geçen mesaj, ses veya görülebilen resimleri almalarını mümkün kı1mak amacıyla o istasyon veya, cihazla bağlandığı durumlarda, bu şekilde bağlanan cihazın kendisi de bu Yasa amaçları için telsiz telgraf cihazı sayılır.
+" Telsiz telgraf istasyonu " bir gemi veya uçağın telsiz telgraf cihazını da içerir.
+	
+			(2)	Bu Yasada, elektro manyetik enerji verilmesine veya 
+yansımaya karşı olarak verilmeye yapılan atıflar, 
+yansımanın devamlı veya kesintili olup olmadığına 
+bakılmaksızın o amaçla icat edilmiş veya özel olarak 
+adapte edilmiş. herhangi bir aparat yolu ile kasten 
+elektromanyetik enerji yansımasına yapılmış atıfları da 
+içerir şekilde yorumlanır.
+	
+			(3)	Bu Yasada, mesaj gönderilmesi veya nakline yapılan 
+atıflar, herhangi bir işaret yapılmasına veya herhangi 
+bir ikaz veya bilgi gönderilmesi veya nakline yapılmış 
+bir atfı da içerir ve mesaj alınmasına yapılan atıflar da 
+buna göre yorumlanır.
+	
+			(4)	Bu Yasada, bir gemi veya tekne üzerindeki cihazlara 
+yapılan atıflar, bir gemi veya tekneden uçurulan 
+uçurtma veya sabit olan üzerindeki cihazlara yapılmış 
+atıfları içerir şeklinde yorumlanır.
+	
+			(5)	Bu Yasa kurallarının herhangi bir kişiye tebliğ 
+edilmesini   gerektirdiği veya   yetkilendirdiği  herhangi bir bildirim,  taahhütlü mektupla tebliğ edilebilir.	
+
+Telsiz telgraf ruhsatı verilmesi	
+3	Bakanlar Kurulunca o hususta verilen bir ruhsatın tanıdığı yetki uyarınca olmaksızın, kimse telsiz telgraf istasyonu kuramaz, kullanamaz veya bulunduramaz ve böyle bir ruhsat uyarınca ve ona dayanarak olmaksızın, telsiz telgraf  istasyonu kuran,  kullanan  veya bulunduran herhangi bir kişi,  bu  Yasaya karşı bir suç işlemiş olur. 
+       Ancak, Bakanlar Kurulu emirname ile bazı telsiz telgraf istasyonları veya telsiz telgraf cihazlarının  kurulması, tesisi kullanılması veya bulundurulmasını bu fıkra kurallarından bağışık tutabilir ; bağışık tutulacak istasyon veya cihazların sınıf ve tarifi emirnamede belirlenir ve bağışıklık ya tam ya da emirnamede belirlenecek kayıt ve koşullara, kurallara ve sınırlandırmalara bağlı olur.	
+		
+Bu madde  uyarınca verilen ve bundan böyle bu Yasada telsiz telgraf ruhsatı olarak belirtilen ruhsatlar, özellikle istasyon kurma ruhsatı ile ilgili olarak, istasyonun mevki ve niteliğine ilişkin sınırlandırmalar, istasyonun hangi amaçlar için, hangi koşullar altında ve kimler tarafından kullanılacağına ve istasyona   tesis edilecek ve orada kullanılacak veya  bulundurulacak cihazlara ilişkin sınırlandırmalar ve başka herhangi bir ruhsatla ilgili olarak  da tesis edilecek,  kullanılacak veya bulundurulacak cihaza ve cihazın hangi amaçlar, hangi koşullar altında ve kimler tarafından kullanılacağına ilişkin sınırlandırmalar dâhil, Bakanlar Kurulunun koymayı uygun göreceği belirli  kayıt ve koşullara, kurallara ve sınırlandırmalara bağlı olarak verilir.
+	
+		(3) Telsiz telgraf ruhsatı, önceden Bakanlar Kurulunca iptal edilmedikçe,ruhsatta belirlenen süre için geçerli olur.
+	
+		(4) Telsiz telgraf ruhsatı ruhsat sahibine tebliğ edilecek Bakanlar Kurulunun yazılı bir bildirimi ile veya ruhsatta belirlenecek şekilde yayınlanacak  ve ilgili ruhsatın ait olduğu sınıfa bağlı ruhsatlara uygulanan genel bir bildiri ile iptal edilebilir veya kayıt ve koşulları, kuralları veya sınırlandırmaları değiştirilebilir.
+	
+		(5) Bir telsiz  te1graf ruhsatının sona erdiği veya iptâl edildiği durumlarda, ruhsatın  verildiği kişi ruhsatı teslim etmekle ve ruhsatı tasarruf veya kontrolünde bulunduran başka herhangi bir kişi Bakanlar Kurulunun istemesi halinde ruhsatın Bakanlar Kuruluna teslim edilmesini  sağlamakla görevlidir ve makul bir mazereti olmadan bu fıkra kurallarına uymayı ret veya ihmal eden herhangi bir kişi, bu Yasaya karşı bir suç işlemiş olur :
+        Ancak bu fıkra,  sadece almaya karşı olarak verme için plânlanmamış veya yapılmamış cihazlarla ilgili bir ruhsata  uygulanamaz.	
+		(6) Bu maddenin içerdiği hiç bir kural, sadece almaya karşı olarak verme için plânlanmamış veya yapılmamış cihazlarla ilgili herhangi bir telsiz telgraf ruhsatına herhangi bir konuta herhangi bir şekilde girme hakkı vermeyi kabul etmesi için herhangi bir kişiyi zorlayan kayıt ve koşullar veya kuralar  konulmasına yetki vermez.
+	
+Denetim için ruhsatlar	4	(1) Bu madde kurallarına bağlı kalınması  koşuluyla, bir Kuzey Kıbrıs Türk Cumhuriyeti yurttaşının Bakanlar Kuruluna telsiz  ruhsatı almak veya yenilemek için dilekçe verildiği ve Bakanlar Kurulunun, dilekçe sahibinin ruhsatı istemesinin tek amacının bilimsel araştırma amaçları için telsiz telgrafçılıkta deneme yapmak  olduğu hususunda tatmin edildiği   durumlarda, Bakanlar  Kurulu, ruhsat vermeyi veya yenilemeyi reddedemez ve verilmiş bir ruhsatı iptal edemez ve bu Yasa uyarınca  yapılan Tüzüklere dayanılarak ruhsat verilmesi veya yenilenmesi dışında, hiç ödeme yapılmaz.
+	
+		(2) Yukarıdaki (l).fıkranın içerdiği hiçbir kural, Bakanlar Kurulunun herhangi bir ruhsata koyduğu kayıt ve koşul, kural veya kısıtlamalarla ilgili takdir hakkını veya herhangi bir ruhsattaki kayıt, koşul, kural veya sınırlandırmaları kısıtlamaz
+	
+		(3) Dilekçe sahibi, ruhsatın verilmesinden veya son olarak yenilenmesinden önce veya sonra, ayni veya başka herhangi bir cihaz ile ilgili olarak olup olmadığına bakılmaksızın, bu Yasaya karşı herhangi bir suçtan mahkûm olmuşsa veya kendisine  verilmiş  veya  başka herhangi bir teliz telgraf ruhsat kayıt ve koşulları veya kuralları veya  sınırlandırmalarından herhangi birine aykırı bir davranışta bulunmuşsa veya herhangi bir telsiz telgraf sistemine müdahalede bulunmak amacıyla, cihaz kullanmaktan mahkûm olmuşsa, yukarıdaki (1). fıkranın içerdiği hiçbir kural, Bakanlar Kurulunun herhangi bir ruhsatı vermeyi veya yenilemeyi reddetmekten veya iptal etmekten men etmez.
+	
+		(4) Bakanlar Kurulu, ulusal bir olağanüstü durumun varlığı  nedeniyle uygun görmesi halinde, bu Yasa uyarınca verilen herhangi bir ruhsatın sahibine, yazılı olarak  tebliğ edilen bir bildirimle ruhsatı iptal edebilir veya Resmî Gazete'de yayınlanacak genel  bir bildiri ile, bu madde uyarınca verilmiş ve ilgili zamanında yürürlükte olan tüm ruhsatları iptal edebilir ve Bakanlar Kurulu, böyle bir olağanüstü durumun varlığı nedeniyle  bir ruhsatı vermesinin veya yenilemesinin doğru olmayacağı kanısına varması halinde, bu maddeye binaen, bir ruhsat vermeye veya yenilemeye mecbur değildir.
+	
+Satış v.s Ruhsatı	5.	(1) Bakanlar Kurulunun satış v.s. hususunda vereceği bir ruhsatın tanıdığı yetki uyarınca olması dışında ve Bakanlar Kurulunun koymayı uygun göreceği kayıt  ve koşullara ve sınırlandırmalara tabi olarak,  kimse, Kuzey Kıbrıs Türk Cumhuriyetinin herhangi bir yerinde, herhangi bir telsiz telgraf cihazı satamaz, kiraya veya icara veremez, ticaretini yapamaz veya başka şekilde elden çıkaramaz :
+	
+		(2) Bakanlar Kurulu kendi kanısınca böyle bir ruhsatın kayıt ve koşullarını yerine getirme ehliyetine sahip olmayan herhangi bir kişiye, kendi takdirine göre,  bu madde uyarınca ruhsat vermeyi reddedebilir.
+	
+Telsiz telgraf tüzükleri	6	Bakanlar Kurulu aşağıdaki hususlarda Tüzük yapabilir ve bu tüzükler ko sınıfları için farklı kurallar içerebilir:
+	
+		(a) a)	Herhangi bir telsiz telgraf istasyonu veya  telsiz telgraf cihazı ile ilgili olarak yapılması veya yapı1maması gereken şeylerin saptanması ve özellikle Tüzüklerce veya onlar uyarınca  saptanarak bir kişinin talebi üzerine böyle bir istasyon veya cihazın kullanılmasına son verilmesinin gerekli kılınması ;
+	
+		(b)	Herhangi bir telsiz te1graf istasyonu veya telsiz telgraf cihazı ile ilgili olarak kendisine telsiz telgraf ruhsatı verilen veya herhangi bir telsiz  telgraf istasyonu veya te1siz te1graf cihazı tasarruf veya kontrolünde bulunduran bir kişiye, istasyon ve cihazın denetlenmesine müsaade etmesi ve denetlenmesini kolaylaştırmasına, istasyon veya cihazın hangi koşullar altında bulunacağına ve kurulması, tesisi, kullanılması veya bulundurulması için telsiz telgraf ruhsatı gereken istasyon veya cihazlar halinde, ruhsatın ibrazı veya istasyonun veya cihazın ruhsatlandırılması ile i1gili olarak Tüzüklerce saptanacak başka delil gösterilmesine ilişkin  yükümlülükler yükletilmesi.
+	
+		(c)	Telsiz telgraf ruhsatı verilmiş bir kişinin, ruhsatın verilmesi veya  yenilenmesinden sonra borçlu  bulunması veya ileride borçlu olması halinde, o kişinin Tüzüklerce saptanacak hesap ve kayıtlar tutması ve ibraz etmesinin gerekli kılınması ;
+	
+		(d)	İstasyon kurması veya kullanması için yetki veren bir telsiz telgraf ruhsatı verilmiş kişilerin istasyonda Tüzüklerce saptanacak  bildiriler teşhir etmesinin gerekli kılınması ;
+	
+		(e)	Herhangi  bir telsiz telgraf tesisi veya cihazına gereksiz müdahaleyi önlemek için herhangi bir kişinin yapması ve yapmaması gereken şeylerin  ve yerine getirilmesi gereken gereksinmelerin saptanması ve bir danışma komitesi kurulması ve  bu hususta yapılacak itirazların öngörülmesi ;
+	
+		(f)	Bu Yasa uyarınca verilen ruhsatlarla ilgili olarak ödenecek harçların saptanması ;	
+		
+(g)	
+Bu Yasanın saptanmasını gerektirdiği herhangi bir şeyin ve Yasanın Tüzük yapılmasını gerektirdiği herhangi bir şeyin saptanması ;
+	
+		(h)	Saptanması gereken formların saptanması,
+
+    Ancak, yapılacak bu gibi Tüzüklerdeki hiçbir kural, almaya karşı olarak verme için plânlanmamış veya yapılmamış herhangi bir cihazın denetlenmesine müsaade etme veya bunu kolaylaştırma amacıyla bir konuta herhangi bir şekilde girme hakkı vermeyi  kabul etmesi için herhangi bir kişiyi zorlayamaz.	
+		
+(2) Bu  madde uyarınca yapılacak Tüzükler, ihlâl edilmeleri halinde altı aya kadar hapis cezasına veya elli Kıbrıs Lirasına kadar para cezasına veya her iki cezaya birden öngörebilirler.	
+.		
+Yanlış yola sevk eden mesajlar ve mesajların
+alıkon-ması ve açıklan-ması	7.	(a) Yalan olduğunu veya yanlış yola sevk ettiğini bildiği ve hayat koruma hizmetleri güvenliğinin etkisine zarar verme veya herhangi bir kişi veya gemi, uçak veya motor1u aracın güvenliğini tehlikeye koyma ihtimali  bulunduğunu bildiği herhangi bir mesajı ve özellikle bir gemi veya uçağın tehlike geçirmekte veya yardıma ihtiyacı olduğunu veya tehlike geçirmekte olmadığını veya yardıma ihtiyacı olmadığını sahtekarlıkla ima veya telkin ettiğini bildiği herhangi bir mesajı telsiz telgraf yolu ile gönderen veya göndermeye teşebbüs eden ; veya
+	
+		(b) Bakanlar Kurulunun verdiği yetki olmaksızın veya Devlet görevlisi olarak görevi sırasında  :	
+		(i)	Telsiz telgraf yolu ile gönderilip gönderilmediğine bakılmaksızın, mesajı gönderen veya gönderilecek olan kişi ile ilgili olarak herhangi bir mesajın içeriği hakkında cihazı kullanan veya adına hareket ettiği kişinin Bakanlar Kurulunca almak için yetkilendirilmiş olup olmadığı bilgileri almak niyetiyle herhangi bir telsiz  telgraf cihazını  kullanan ; veya	
+		(ii)	Kendisinin veya başka bir kişinin telsiz telgraf sistemini kullanmamış olsa idi öğrenemeyeceği bir mesajın içindekileri, göndericisi veya göndericileri hakkındaki herhangi bir bilgiyi, yargı işlemleri sırasında veya yargı işlemleri ile ilgi1i herhangi bir rapor amacı için olması dışında açıklayan herhangi bir kişi bu  Yasaya karşı bir suç iş1emiş olur.
+	
+Önceki kuralların toprak sınırları	8	(1) Bu madde kurallarına bağlı kalınması koşuluyla  bu Yasanın önceki kuralları	
+		(a)	Kuzey Kıbrıs Türk Cumhuriyeti toprak sınırları içinde bulunan veya ilgili zamanda bulunan tüm istasyon ve cihazlara ; ve
+	
+		
+(b)	Bakanlar Kurulunun Tüzükle koyacağı herhangi bir sınırlandırmaya bağlı  olarak, Kuzey  Kıbrıs Türk Cumhuriyeti içinde veya üzerinde bulunmayan ancak Kuzey Kıbrıs Türk  Cumhuriyeti içinden veya Kuzey Kıbrıs Türk Cumhuriyetinde kayıtlı olan ve deniz seferi  yapabilen herhangi bir İngiliz  gemisinden veya İngiliz uçağından  bırakılan tüm  cihazlara uygulanır ve  başka herhangi bir kişinin yükümlülükleri etkilenmeksizin, herhangi bir istasyon veya herhangi bir gemi veya uçak üzerinde  bu1unan veya gemi  veya uçaktan bırakılan bir cihaz ile ilgili olarak yer alan söz konusu önceki kuralların veya  bu Yasa uyarınca yapılmış Tüzüklerin herhangi bir ihlali halinde, gemi veya uçağın kaptanı veya ilgili zamandaki sorumlusu bu Yasaya karşı bir suç işlemiş olur :
+
+      Ancak, ihlâl, gemi veya uçaktaki bir yolcunun, gemi veya uçağın, varsa, telsiz telgraf cihazının  bir kısmı olmayan ve almaya karşı verme için plânlanmış veya yapılmış  olmayan bir cihazı  kullanmasından oluşursa, gemi veya uçağın kaptanı veya ilgili zamandaki sorumlusu, gemi veya uçakta cihaz ile ilgili olarak yer alan söz konusu kurallar veya Tüzüklerin herhangi bir ihlâli nedeniyle, bu Yasaya karşı herhangi bir suç işlemiş olmaz.
+	
+		(2)  Bakanlar Kurulu, Kuzey Kıbrıs Türk Cumhuriyeti sınırları içindeki herhangi bir yabancı ve deniz  seferi yapabilen gemi veya yabancı uçakta bulunan telsiz telgraf cihazlarının gemi veya uçakta kullanılmasını düzenleyen Tüzükler yapabilir ve bu Tüzükleri  ihlal eden kişilerin her bir suç için Tüzüklerde belirlenecek şekilde ve yüz Kıbrıs lirasına kadar para cezası ile cezalandırılabilmelerini ve bu Tüzüklere karşı bir suça konu teşkil eden  herhangi bir telsiz telgraf  cihazının müsadere edilmesini öngörebilir, ancak, yukarıda sözü edilenler dışında bu Yasanın içerdiği hiçbir kural,  herhangi bir yabancı ve deniz seferi yapabilen gemi veya yabancı uçakta teliz telgraf cihazı kullanan kişilere herhangi bir yasaklama veya kısıtlama koyacak şekilde geçerli olmaz.
+	
+		(3) Bakanlar Kurulu, bu   maddede  Kuzey Kıbrıs Türk Cumhuriyetinde kaydedilmiş herhangi bir İngiliz gemisi veya uçağına yapılan atıfların, Kuzey Kıbrıs Türk Cumhuriyetinin toprak sınırları içinde  bulunan ve herhangi bir İngiliz kolonisinde, İngiliz protektorası veya ,İngiliz himayesinde bulunan ü1kede veya Kuzey Kıbrıs Türk Cumhuriyeti dışındaki ilgili zamanda Birleşik Krallık Hükümeti tarafından yönetilen başka herhangi bir ülke veya yerin yasaları uyarınca tescil ettirilmiş herhangi bir İngiliz gemisi veya uçağına atıf yapılmasını da içerir şekilde yorumlanacağını emirname  ile emredebilir.	
+
+Bakanlar kurulunun telsiz personeli ile ilgili yetkileri	
+9	
+(1) Telsiz telgraf istasyonları veya telsiz telgraf cihazlarının çalıştırılması ile ilgili mevkilerin doldurulması için sınava tabi tutulan  kişilerin ehliyetini  kararlaştırmak amacıyla, Bakanlar Kurulu sınav yapabilir ve bu sınavlarda başarılı olanlara, zaman zaman kararlaştırılacak şekilde ehliyet belgesi verebilir	
+		(2) Bakanlar Kurulu, ilgili yetki belgesinde belirlenecek telsiz telgraf istasyonu veya telsiz telgraf cihazı çalıştırılması ile ilgili mevkileri doldurmaları için uygun göreceği kişilere yazılı yetki belgesi verebilir, bu mevkileri işgal edebilmek için bu Yasa uyarınca verilen telsiz telgraf ruhsatları veya İngiliz dominyonlarının herhangi bir kısmının mukabil yasası uyarınca verilen ruhsatlar gereğince böyle bir yetkiye sahip olmak bir zorunluluk veya nitelik olmalıdır.
+	
+		(3) Bakanlar Kurulu, yeterli sebepler bulunduğu   kanısına varması halinde yukarıdaki (2). fıkra uyarınca verilen herhangi bir yetkiyi, iptal amacıyla geçici olarak durdurabilir ve Bakanlar Kurulu bir yetkiyi bu şekilde durdurduğunda bu Yasaya ek  Cetvelin kuralları  geçerli o1ur.
+	
+		(4) Bu maddenin (2). fıkrası uyarınca verilen bir yetkinin geçerliliği sona ermişse veya yetki geçici olarak durdurulmuşsa, kendisine yetki belgesi verilmiş olan kişi ve yetki belgesini tasarruf veya kontrolünde  bulunduran başka herhangi bir kişi, Bakanlar Kurulunca istenmesi halinde yetki belgesini Bakanlar Kuruluna teslim etmekle görevlidir ve makul bir mazereti olmadan bu fıkra kurallarına uymayı ret veya ihmal eden herhangi bir kişi, bu Yasaya karşı bir suç işlemiş olur.	
+		
+(5) Bakanlar Kurulu, bu madde uyarınca yapılacak sınavlara katılmak için  başvuran kişilere veya bu  madde uyarınca verilen herhangi bir sertifika veya yetki belgeleri veya suretleri için başvuran kişilere, karar vereceği kadar bir ücret yükleyebilir.	
+Bakanlar Kurulu-nun telsiz telgraf tesisi civarın-daki arazilerin kullanı-mını kısıtlama yetkisi	10	(1) Bakanlar Kurulu, herhangi bir telsiz telgraf istasyonun düzenli ve başarılı bir biçimde çalıştırılması  ve kullanılmasını sağlamak amacıyla bu madde uyarınca bundan böyle " Kısıtlama Emirnamesi” olarak anılan bir Emirname ısdar etmesinin uygun ve kamu  yararına olacağı kanısına vardığı durumlarda böyle bir Emirname ısdar edebilir.
+	
+		(2) Kısıtlama  Emirnamesi  Resmî Gazete'de yayınlanır. Emirnamenin i1gili olduğu alan, Emirnamede belirtilir. Bu alan, Emirnameye konu telsiz telgraf istasyonundan bir mile kadar olabilir.	
+		(3) Kısıtlama Emirnamesi :	
+		(a)	Emirnamede belirlenen alana veya herhangi bir kısmına bina, yapı (herhangi bir çeşit elektrik tertibatı dahil) veya başla şeyleri veya yukarıda belirtildiği şekildeki herhangi bir sınıfa ait bina veya yapı veya başka şeylerin inşa edilmesinin yasaklanması veya kısıtlanmasını veya bu gibi yasaklama veya kısıtlanmasının her ikisini;	
+		
+(b)	Emirnamede belirlenen alana veya herhangi bir kısmına herhangi bir ağaç veya her sınıfa bağlı ağaç ekilmesinin yasaklanması veya kısıtlanmasını veya bu  yasaklama veya  kısıtlamanın  her ikisini öngörebilir.
+	
+		(4) Bu madde uyarınca yapılan Emirnameye aykırı bir davranışta bulunan herhangi bir kişi, bir suç işlemiş olur ve yüz Kıbrıs  Lirasına kadar para cezasına çarptırılabilir.	
+		(5) Bu madde uyarınca ısdar edilen bir kısıtlama Emirnamesi sonucu  zarara uğrayan herhangi bir kişiye, lehine kısıtlama Emirnamesi çıkarılan kişi tarafından  tazminat ödenir ve anlaşmaya varılamaması halinde bu tazminat miktarı, arazinin bulunduğu ilçenin Kaza Mahkemesi Başkanı tarafından kararlaştırılır.	
+
+		
+Cezalar	11	(a) Bu Yasa kuralları uyarınca verilen bir ruhsat gereğince  ve uyarınca olmaksızın herhangi bir telsiz  telgraf istasyonu veya herhangi bir telsiz telgraf cihazı  tesis eden, kullanan veya bulunduran ;	
+		(b) Bu Yasa kuralları uyarınca verilen bir ruhsatın tanıdığı yetki uyarınca olmaksızın, Kuzey Kıbrıs Türk Cumhuriyetindeki herhangi bir yerde herhangi bir telsiz telgraf cihazı satan, ticaret yapan, kiralayan, icara veren veya başka şekilde elden çıkaran ;
+	
+		(c) Bu Yasanın 7. veya 9.maddelerine aykırı bir davranışta bulunan veya onlara uymakta kusur işleyen herhangi bir kişi, bir  suç işlemiş olur ve bir yıla kadar hapis cezasına veya yüz Kıbrıs Lirasına kadar para cezasına veya her iki cezaya birden çarptırılabilir ve Mahkeme başka herhangi bir cezaya ek olarak :
+	
+		(ı)	İstasyona ait; suça  konu teşkil eden  cihazların veya duruma  göre başka  cihazların tümü  veya herhangi birinin müsaderesini emredebilir ;	
+		(ii)	
+Bu gibi cihazların ruhsatsız olarak kullanıldığı herhangi bir durumda, mahkûm olan kişi tarafından ödenmesi gereken herhangi bir ruhsat  harcına eşit bir miktarın o kişi tarafından ödenmesini emredebilir.
+	
+Koruma	(12)Bu Yasanın yürürlükten kaldırdığı 1949, Bölüm 284, Telsiz Telgraf Yasası uyarınca yapılan ve bu Yasanın yürürlüğe girdiği l0 Eylül 1953 tarihinden hemen  önce yürürlükte olan herhangi bir Tüzük veya ruhsat, o tarihten itibaren ve bu Yasa uyarınca başka Tüzükler yapılana kadar, bu Yasa uyarınca, yapılmış Tüzükler ve verilmiş ruhsatlar sayılır ve gerekli değişiklikler yapıldıktan sonra usulüne uygun olarak geçerli olur.	
+(CETVEL)
+(Madde 9 (3))
+TELSİZ PERSONELİNE VERİLEN YETKİLERİN GEÇİCİ  OLARAK
+DURDURULMASI VE İPTALİNE İLŞİKİN OLARAK İZLENECEK USÜL
+	
+1.	Bakanlar Kurulu bir yetkiyi geçici olarak durdurması üzerine, yetkinin verildiği kişiye  yetkinin geçici olarak  durdurulduğunu, bunun sebeplerini ve bu Cetvelin müteakip kuralları altındaki haklarını ve ayrıca bu haklardan yararlanmaması halinde, yetkinin Bakanlar Kurulunca iptal edilebileceğine ilişkin bir bildirim tebliğ eder.
+    
+      Ancak Bakanlar Kurulu i1gili kişiye bildirim tebliğ edilmesinin makul olarak mümkün, olmadığı kanısına varması halinde, ona bir bildirim tebliğ etmek yerine, ilgili koşullar altında makul göreceği şekilde bildirimi yayınlama suretiyle veya başka şekilde bilgisine getirmek için gerekli tedbirleri alır.	
+2	(l)	Yetkinin verildiği kişi, bildirimde belirlenecek süre içinde ve şekilde; yetkinin ipta1 edilip edilmeyeceği veya geçici olarak durdurulmasının devam edip etmeyeceği veya sona erdirilip erdirilmeyeceği konusunun bir Danışma Komitesine havale  edilmesini istemesi halinde Bakanlar Kurulu, geçici olarak durdurmayı sona erdirmedikçe konuyu usulüne uygun olarak bir Danışma Komitesine havale eder.	
+	(2)	
+Danışma Komitesi Bakanlar Kurulunca atanan üç kişiden o1uşur; bunlardan biri Bakanlar Kurulunca seçilen bağımsız bir başkandır; ikisi de Bakanlar Kurulunca bu amaçla uygun görülen ve telsiz operatörleri işverenlerini temsil eden birlikler ve telsiz operatörlerini temsil eden birliklerce sırasıyla gösterilen kişilerden oluşur.
+	
+	(3)	Bu madde uyarınca bir Danışma Komitesine bu konu havale edildiğinde Komite  konuyu ve yetkinin verildiği kişinin  yaptığı itirazları inceler ve Bakanlar Kuruluna buldukları olguları ve yetkinin iptali veya devam ettirilmesi veya sona erdirilmesi  ile ilgili olarak kanılarınca yapılması gereken işleri bildiren bir rapor sunar. Bakanlar Kurulu raporu tezekkür eder.
+	
+	(4)	Bakanlar Kurulu, duruma göre, Danışma Komitesi raporunu tezekkür ettikten sonra veya bu maddenin (1). fıkrasında belirtilen sürenin, yetki verilmiş olan kişinin, konunun o fıkrada belirtilen şekilde bir Danışma Komitesine havale edilmesini istemeden sona ermesi üzerine, Bakanlar Kurulu, uygun göreceği  biçimde, yetkiyi iptal eder veya geçici olarak durdurur veya uygun göreceği bir süre için daha geçici olarak durdurulmasını devam ettirir.
+	
+	(5)	Bakanlar Kurulu yetkiyi iptal ettiğinde veya geçici olarak durdurulmasını devam ettirdiğinde, yetkinin verildiği kişinin istemesi halinde, Danışma Komitesinin yetkinin iptali veya geçici olarak durdurulmasının devamı veya sona erdirilmesi ile ilgili olarak yapılması gereken işler konusunda ifade ettiği görüşü kendisine bildirir.	
+
+3.	
+Bir Danışma Komitesinin bu Cetvel uyarınca yaptığı masraflar Komite üyelerinin Bakanlar Kurulunca saptanacak masrafları ile ilgili miktarlar dahil, yine Bakanlar Kuru1unca kararlaştırılacağı şekilde Devlet Bütçesinden karşılanır.	
+
+
