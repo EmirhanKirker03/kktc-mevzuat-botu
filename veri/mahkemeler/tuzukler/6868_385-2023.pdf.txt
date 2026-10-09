@@ -1,0 +1,274 @@
+
+
+YABANCILAR VE MUHACERET YASASI 
+Fasıl 105, 21/1982, 44/1989, 32/2004, 38/2006, 28/2007, 50/2007, 31/2008, 55/2011, 
+62/2014, 44/2016, 58/2018, 39/2019, 18/2021 ve 25/2022 sayılı Yasalar 
+ 
+Madde 20 Altında Yapılan Tüzük 
+ 
+ Kuzey Kıbrıs Türk Cumhuriyeti Bakanlar Kurulu, Yabancılar ve Muhaceret Yasası’nın 
+20’nci maddesinin verdiği yetkiye dayanarak aşağıdaki Tüzüğü yapar: 
+ 
+Kısa İsim 1. Bu Tüzük, E- Vize (Elektronik Vize) Otomasyon Sistemi Tüzüğü 
+olarak isimlendirilir. 
+ 
+Tefsir 2. Bu tüzükte metin başka türlü gerektirmedikçe; 
+ 
+  "Bakan” İçişlerinden sorumlu Bakanı, 
+  "Bakanlık” İçişlerinden sorumlu Bakanlığı, 
+  “Bakanlar Kurulu”, Başbakan ve bakanlardan oluşan Kurulu, 
+  “Elektronik Vize Otomasyon  Sistemi (eVizeOS)”, Bakanlar Kurulu 
+tarafından e-vize uygulamasına tabi tutulan ülkelerden gelecek olan 
+yabancı  uyruklu  kişiler  tarafından  online  müracaat  edilerek 
+elektronik vize almalarını sağlayan sistemi, 
+  “Komisyon”, bu  tüzüğün  5’inci  maddesinde  belirtilen  başkan  ve 
+üyeleri, 
+  “Paydaş Kurumlar”, Komisyon’a üye kurumları, 
+  “Veri Erişimi" kullanıcının bir veri tabanı veya başka bir depoda 
+depolanan verilere erişme veya bunları alma yeteneğini, 
+  “Yasa”, Fasıl 105 Yabancılar ve Muhaceret Yasasını anlatır. 
+ 
+Amaç 3. Elektronik Vize Otomasyon Sistemi (eVizeOS)’nin amacı: VizeOS 
+paydaş  kurumların  otomasyon  sistemleri  ile  entegre edilerek 
+çalışması  ve Bakanlar  Kurulu  tarafından  belirlenecek  ülkelerden 
+gelecek olan yabancı uyruklu kişilere uygulanacak vize işlemleri için 
+internet üzerinden online başvuru alınmak suretiyle elektronik vize 
+verilmesidir. 
+ 
+Kapsam 
+ 
+ 
+89/2007 
+4. Elektronik   Vize   Otomasyon   Sistemi   kişi   eşleştirilmesi, 
+tekilleştirilmesi  ve  Yabancı  Kayıt  Numarası  (YKN)  verilerek 
+kurumların birbirileri ile olan entegrasyonunu ve paydaş kurumlar ile 
+gerekli  bilgilerin Kişisel  Verilerin  Korunması  Yasası’na  uygun 
+olarak  paylaşılmasını, tek  bir  merkezden  erişim  sağlanmasını, 
+sorgulanmasını,  güncellenmesini,  takip  ve  yönetim  işlemlerinin 
+gerçekleştirilmesini kapsamaktadır. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sayı : 385
+901
+r 
+
+E- Vize 
+Komisyonun 
+Oluşumu Yetki 
+ve Görevleri ile 
+Çalışma Usul ve 
+Esaslarına  
+İlişkin Kurallar 
+5. (1) Komisyon aşağıdaki üyelerden oluşur: 
+   (A) İçişlerinden sorumlu Bakanlığın Müsteşarı (Başkan) 
+   (B) Dışişlerinden sorumlu Bakanlığın Müsteşarı (Üye) 
+   (C) Maliyeden sorumlu Bakanlığın Müsteşarı (Üye) 
+   (Ç) Eğitimden sorumlu Bakanlığın Müsteşarı (Üye) 
+   (D) Sağlık işlerinden sorumlu Bakanlığın Müsteşarı (Üye) 
+   (E)  Çalışma işlerinden sorumlu Bakanlığın Müsteşarı (Üye) 
+   (F) Polis Genel Müdürlüğü Muhaceret Müdürü (Üye) 
+   (G) Yukarıda  belirtilen  daimi  üyeler  dışında  komisyon 
+başkanının  gerekli  görmesi  durumunda  toplantılara 
+alanında uzman kişileri çağırabilir. Ancak çağrılan bu 
+kişilerin oy kullanma hakkı yoktur. 
+ 
+  (2) Komisyonun Yetki ve Görevleri: 
+   (1) E- Vize  (Elektronik  Vize)  Otomasyon  Sistemi’nin 
+işleyişi ve uygulanışında herhangi bir sorun yaşanması 
+durumunda sorunların çözümüne ilişkin karar almak; 
+   (2) Bakanlar Kurulu’na, e-vize uygulamasına tabii olunması 
+veya  e   -vize  uygulamasından  muaf  tutulması  istenilen 
+ülkeler ile ilgili öneri sunmak;  
+   (3) E-vize  uygulaması  ile  ilgili istatistik  verileri 
+değerlendirmek; 
+ 
+   (4) İlgili  Bakanlıklar,  kurum  ve  kuruluşlara  e-vize 
+kapsamında işleyişin uygulanışı açısından yazılı olarak 
+bilgi vermek, sistem ile ilgili görülen eksikliklere ilişkin 
+tedbir  alınması  konusunda  görüş  vermek,  yazılı 
+uyarılarda bulunmak ve yazılı olarak cevap istemek; 
+ 
+  (3) Çalışma Usul ve Esaslarına İlişkin Kurallar: 
+   (1) Komisyon, her yılın Ocak ve Ağustos aylarında olmak 
+üzere  yılda  en  az  iki  kez Başkanın  çağrısı  ile  olağan 
+toplanır. Toplantı gün, saat, yer ve görüşülecek konular 
+toplantı  tarihinden  en  az  kırk  sekiz saat  önce  üyelere 
+yazılı  çağrı,  posta  ve/veya  elektronik  posta  yolu  ile 
+bildirilir.  
+Ancak;  ivedi  bir  durumda  Başkanın  veya  üye  tam 
+sayısının  salt  çoğunluğunun  talep  etmesiyle  derhal 
+toplanır. 
+   (2) Komisyon, üye tamsayısının salt çoğunluğuyla toplanır 
+ve toplantıya katılanların salt çoğunluğu ile karar alır. 
+Toplantıda çekimser oy kullanılmaz. 
+   (3) Kararlar toplantıya katılanlar tarafından imzalanır. Karar 
+ile ilgili şerh düşmek isteyen üye, şerhini gerekçeli ve 
+902
+1983 
+
+imzalı  olarak  kararın  ekinde  sunulmak  üzere,  en  geç 
+toplantı bitiminde Başkana sunar. 
+   (4) Komisyonun,  sekretarya  işleri,  Bakanlık  tarafından 
+yürütülür. 
+ 
+ 
+ 
+Online Olarak 
+Başvuru 
+Yapabilecek 
+Kişiler 
+ 
+6. (1) Bakanlar Kurulu tarafından e-vize uygulamasına tabii olan ülke 
+yurttaşları ve 
+  (2) İkamet  İzinleri  ve  Vizeler  Tüzüğü’nün  9’uncu  maddesinde 
+belirtilen  vize  türlerinden  herhangi  biri  için  ülkeye  giriş 
+amacıyla başvuracak kişiler. 
+ 
+Online E-Vize 
+Başvurularının 
+Değerlendirilmesi 
+7. Online e-vize müracaatını yapan kişilerle ilgili olarak e-vize başvuru 
+esnasında bu tüzüğün 5’inci maddesinin (1)’inci fıkrasında yer alan 
+Bakanlıklar  ve Polis Genel Müdürlüğü tarafından kendi yetki ve 
+görev alanlarına giren e- vize müracaatlarının değerlendirilmesinde 
+Elektronik  Vize  Otomasyon  Sistemi’ne  yüklenen  doküman  veya 
+evrakların kontrol, denetim, geçerlilik ve doğruluğundan sorumlu 
+tutulurlar. 
+ 
+Sağlık Koşulu 8. E-vize uygulamasına tabi yabancı ülke yurttaşları, e-vize başvuru 
+esnasında  KKTC  Sağlık  Bakanlığı’nın  uygun  göreceği  sağlık 
+testlerini yaptırmak zorundadır.  
+ 
+Ülkeye Giriş 
+Vizesinin 
+Verilmesi  
+9. (1) Yukarıdaki 6’ncı  maddede  belirtilen  kurallar  çerçevesinde 
+müracaatı uygun görülen kişilere Bakanlık tarafından e-vize 
+verilir. Verilen vize süresi onay tarihinden itibaren 30 (otuz) 
+gün geçerlidir. Verilen bu vize süresi boyunca ülkeye- giriş 
+çıkış yapılabilir. 
+ 
+  (2) 30 (otuz) gün içerisinde kullanılmayan e-vize geçersiz sayılır 
+ve ülkeye giriş limanlarında e-vize olarak işlem görmez. 
+ 
+ 
+E- Vize 
+Verilmeyecek 
+Olan Yabancılar 
+ 
+10. (1) İkamet İzinleri ve Vizeler Tüzüğü’ndeki ülkeye giriş şartlarına 
+uygun  pasaportu  veya  seyahat  belgesi  olmayanlar  ile  bu 
+belgeleri hileli yollarla edindiği veya sahte olduğu anlaşılanlar; 
+  (2) Yasa'nın  6'ncı  maddesinde  düzenlenmiş  olan  "yasaklanan 
+göçmenler” kapsamında olan kişiler; 
+  (3) Kamu  düzeni  veya  kamu  güvenliği  açısından  sakıncalı 
+görülenler; 
+  (4) Kamu sağlığına tehdit olarak nitelendirilen hastalıklardan birini 
+taşıdığı yönünde resmi kaydı bulunanlar; 
+  (5) Kuzey Kıbrıs Türk Cumhuriyeti'nin taraf olduğu anlaşmalar 
+uyarınca,  suçluların  geri  verilmesine  esas  olan  suç  veya 
+903
+1983 
+
+suçlardan dolayı başka ülkede sanık olanlar ya da hükümlü 
+bulunanlar; 
+  (6) Ülkeye giriş amacını belgelendiremeyenler. 
+ 
+  (7) Yukarıda  belirtilenler  doğrultusunda  e-vize  başvurusu  ret 
+edilen  yabancı  uyruklu  kişilere  ret  edilme  gerekçesinin 
+bildirilme zorunluluğu bulunmamaktadır. 
+ 
+Ülkeye Giriş İzni 
+İçin Verilen E-
+Vizenin İptali 
+11. (1) Ülkeye giriş amacına aykırı hareket edeceği yönünde Bakanlığı 
+tatmin  edecek  delillerle  kanıtlanan  herhangi  bir  yabancı 
+uyruklu kişi ; 
+  (2) Yalan beyanda bulunduğu ve/veya e-vize sistemine gerçeğe 
+aykırı  evrak  yüklediği  tespit  edilen  herhangi  bir  yabancı 
+uyruklu kişi; 
+ 
+  (3) Bakanlık tarafından ülkeye girmesi sakıncalı görülen herhangi 
+bir yabancı uyruklu kişi ; 
+ 
+  (4) Bu  madde  kapsamındaki  gerekçelerden  dolayı verilen  e-
+vizenin Bakanlık tarafından iptal edilmesi durumunda yabancı 
+uyruklu kişiye ödemiş olduğu ücret miktarının iadesi yapılmaz. 
+ 
+ 
+Polisin Ülkeye 
+Giriş 
+Noktalarında 
+Mülakat Yapma  
+Yetkisi 
+12. (1) Muhaceret  görevi  yürüten  personel  ülkeye  giriş  esnasında 
+kamu  güvenliği  açısından yabancı  uyruklu  kişiye  mülakat 
+yapabilir. 
+  (2) Yapılan mülakat neticesinde ülkeye girişinin uygun olmadığına 
+karar  verilen  yabancı  uyruklu  kişiyi  e-vize  almış  olsa  dahi 
+ülkeye girişine izin vermeme yetkisine haizdir. 
+ 
+  (3) E-vize  alan  yabancı  uyruklu  kişinin  ülkeye  giriş  işlemi 
+yapılırken daha önceki bir tarihte ülkede yetkili makamlardan 
+izinsiz bulunduğunun tespit edilmesi durumunda ülkeye girişte 
+geçerli  olan  para  cezasını  ödemeleri  koşuluyla  girişine  izin 
+verilir. 
+ 
+  (4) E-vize  alan  yabancı  uyruklu  kişinin  ülkeye  giriş  işlemi 
+yapılırken Kuzey Kıbrıs Türk Cumhuriyeti'nden herhangi bir 
+sebeple ihraç edilmiş olup daha sonra böyle bir ihraç kararı 
+kaldırılmış  olanlardan,  ihraç  edilirken  Kuzey  Kıbrıs  Türk 
+Cumhuriyeti  devleti  tarafından  karşılanmış  olan  seyahat 
+masraflarını  ödediğini  ispatlaması  durumunda  girişine  izin 
+verilir.  
+ 
+Vize Harçları 
+ 
+13. (1) Bakanlar  Kurulu’nun  ilan  ettiği  ülkelerdeki  e-  vize  almak 
+isteyen  yabancı  uyruklu  kişilerden;  e-vize  ücreti  başvuru 
+esnasında alınır. Bu ücretler Bakanlığın önerisi ile Bakanlar 
+Kurulu tarafından belirlenir ve ilan edilir. 
+904
+1983 
+
+  (2) E- vize başvurusu kabul olunmamış olan ve iptal edilmiş olan 
+yabancı  uyruklu  kişilerden  bu  maddenin  (1)’inci  fıkrası 
+kapsamında ödemiş  olduğu e-vize ücret  miktarının  iadesi 
+yapılmaz. 
+ 
+ 
+ 
+Bakan’ın 
+Genelge 
+Düzenleme 
+Yetkisi 
+ 
+14. (1) 
+ 
+Bakan,  yayınlayacağı  bir  genelge  ile  e-vize  otomasyon 
+sisteminin  işleyiş  ve  veri  erişimi  ile  ilgili  kuralları  koyar.  
+Ayrıca bu tüzükte yer alan konulara ilişkin kısıtlama, istisna ve 
+benzeri düzenlemeler getirebilir. 
+  (2) Bu  tüzüğün  8’inci  maddesi  kapsamında  da  sağlık  ile  ilgili 
+izlenecek koşul ve yöntemler işbu tüzük altında çıkarılacak 
+genelge ile düzenlenir.  
+ 
+Suç ve Cezalar 
+ 
+15. Bu tüzük kapsamına aykırı şekilde bir suç işleyenlere, işledikleri suça 
+ilişkin olarak ilgili yasalarda belirtilen cezai müeyyideler uygulanır. 
+ 
+Yürütme Yetkisi 16. Bu tüzüğü İçişleri ile görevli Bakanlık yürütür. 
+ 
+ 
+Yürürlüğe Giriş 17. Bu Tüzük, Bakanlar Kurulu tarafından  e-vize uygulamasına tabii 
+tutulacak  olan  ülkelerin  Resmi  Gazete’de  ilan  edileceği tarihten 
+itibaren yürürlüğe girer. 
+ 
+905
+1983 

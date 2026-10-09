@@ -1,0 +1,609 @@
+
+
+Sayı : 805
+2781
+İSTATİSTİK KURUMU (KURULUŞ, GÖREV VE ÇALIŞMA ESASLARI) YASASI 
+(32/2019 ve 9/2020 sayılı Yasalar) 
+Madde 27 Altında Yapılan Tüzük 
+Kuzey Kıbrıs Türk Cumhuriyeti Bakanlar Kurulu, İstatistik Kurumu (Kuruluş, Görev ve Çalışma 
+Esasları) Yasası'nın, 27'nci maddesinin (3)'üncü fıkrasının kendisine verdiği yetkiye dayanarak aşağıdaki 
+Tüzüğü yapar: 
+Kısa İsim 
+Tefsir 
+Amaç 
+Kapsam 
+Mikro Veriye 
+Başvuru 
+1. Bu Tüzük, Mikro Verilerin Yayımlanması ve Yayımlanan İstatistik Verilerin 
+Geliştirilmesi Tüzüğü olarak isimlendirilir. 
+BİRİNCİ KISIM 
+Genel Kurallar 
+2. Bu Tüzükte metin başka türlü gerektirmedikçe; 
+"Araştırmacı", Lisans öğrenimini tamamlamış kullanıcıyı anlatır. 
+"Kalite", Açık kalite standartlarına uygun olarak veri toplama organizasyonlarına 
+bağlı olan verilerin değerini ve faydasını anlatır. 
+"Kurum", İstatistik Kurumunu anlatır. 
+"Metaveri", Bir doküman içeriği hakkındaki bilgiyi, fiziksel veya elektronik bir 
+nesne veya kaynak 
+hakkındaki tanımsal bilgiyi, bir bilgi kaynağını tanımlayan, 
+açıklayan, yerini belirten veya yöntemini kolaylaştıran bilgiyi, sayısal olan veya 
+olmayan her türlü nesneye uygulanabilen her türlü resmi kaynak 
+tanımlama 
+tablosunu anlatır. 
+"Mikro Veri", Anket, idari kayıt ya da diğer kaynaklardan elde edilen, istatistiki 
+birimin 
+doğrudan tanımlanamayacak şekilde, isim, unvan ve adres gibi kimlik 
+bilgisi 
+silinmiş, vergi kimlik numarası vb. tanımlayıcı bilgisi değiştirilmiş kayıt 
+düzeyindeki veriyi anlatır. 
+"Resmi İstatistik Üreticisi", Resmi istatistik sisteminin bir parçası olarak 
+istatistik veri toplayan, 
+işlemden geçiren ve yayımlayan kamu kurum ve 
+kuruluşlarını anlatır. 
+3. Bu Tüzüğün amacı, Kurum tarafından üretilen ve/veya yayımlanan istatistiklerin 
+mikro verilerine, bilimsel 
+amaçlı yapılacak araştırmalarda kullanılması kaydıyia, 
+erişim ve mikro veri kullanımına ilişkin usul ve esasların düzenlenmesidir. 
+4. Bu Tüzük, Kurum tarafından üretilen ve/veya yayımlanan istatistikleri kapsar. 
+İKİNCİ KISIM 
+Mikro Veriler ile İlgili Genel Kurallar 
+5. 
+Kurum tarafından üretilen ve/veya yayımlanan mikro verilere, aşağıdaki fıkralarda 
+belirtilen kurum veya kuruluşların araştırmacıları bilimsel amaçlı yapılacak 
+araştırmalarda kullanılması kaydıyla ve Kurum izniyle erişebilir: 
+(1) Resmi İstatistik Programı kapsamında bulunan kurum ve kuruluşlar, 
+(2) Diğer resmi kurum ve kuruluşlar, 
+(3) Üniversite ve diğer yükseköğretim kurumları, 
+(4) Kamu kurum ve kuruluşu olmayan, araştırma amaçlı kurulmuş enstitü ve 
+kuruluşlar, 
+(5) Uluslararası kurum ve kuruluşlar. 
+
+2782
+Mikro Veri 
+Dosyalarının 
+Unsurları 
+Mikro Veri 
+Setlerinin 
+Oluşumu 
+Mikro Verilere 
+Başvuru ve 
+Erişim 
+Mikro Veri 
+Kullanım 
+Kuralları 
+6. 
+7. 
+İstatistiksel veri dosyaları, hakkında bilgi toplanan istatistiki birimlerin, özellikleri 
+ile birlikte 
+tanımlandığı veriler olduğundan dolayı her bir istatistiki birim kişisel 
+bilgileri içerebilir. Bu nedenle mikro veriler kullanıma sunulmadan önce, gizlilik 
+ilkeleri çerçevesinde istatistiki birimin 
+açığa çıkmasını engellemek amacıyla kişisel 
+bilgiler ayıldanır. 
+(1) Kurum tarafından bilimsel araştırmaları desteklemek için kayıtlardan mikro 
+veri setleri üretilir ve 
+kullanıma açılır. 
+(2) Araştırmacıların kullanabileceği mikro veri setlerinin listesi Kurumun web 
+sitesinde kamuoyuna duyurulur. 
+Gerektiğinde Kurum tarafından mikro veri 
+listesinde 
+değişiklik yapılır. 
+(3) Kurum, mikro veri setlerine ilişkin metaveriyi Kurumun web sitesinde 
+yayımlar. 
+(4) Araştırmacının kullanmak istediği mikro veri setlerine yeni değişkenler 
+eklenmesini talep etmesi halinde bu durum Kurum tarafından değerlendirilir, 
+uygun görüldüğü takdirde mikro veri setinde gerekli düzenleme yapılır. 
+ÜÇÜNCÜ KISIM 
+Mikro Veriye 
+Erişim İlkeleri 
+8. Mikro verilere başvuru aşamaları aşağıdaki fıkralarda belirtilmiştir; 
+(1) 
+(2) 
+(3) 
+9. (1) 
+Araştıımacı, bu Tüzüğe ekli Ek I' de verilen KKTC İstatistik Kurumu 
+Mikro Veri Talep Formu'nu Kurumun web sitesi üzerinden doldurarak 
+başvuru yapar. 
+Araştırmacının başvurusu, Kurum tarafından incelenir ve on beş gün içinde 
+araştırmacıya gerekli bilgilendirme yapılır. 
+Başvurunun kabul edilmesi halinde; dağıtımında kısıtlama olmayan mikro 
+veriler için 
+araştırmacının bağlı bulunduğu kurum ya da araştırmacı 
+tarafından bu Tüzüğe ekli Ek II' de bulunan Gizlilik Taahhüt Belgesi 
+imzalanır. Sadece Kurum içinde uygun bir bölümde erişime izin verilen 
+mikro veriler için ise Kurum ile 
+araştırmacının bağlı bulunduğu kurum ya 
+da 
+araştıımacı ile veri erişimi ve gizliliğine ilişkin gerekli şartları içeren bu 
+Tüzüğe ekli Ek III' de yer alan Protokol imzalanır. 
+Mikro veri kullanımı ile ilgili genel kurallar aşağıdaki fıkralarda belirtildiği 
+gibidir; 
+(A) 
+(B) 
+(C) 
+(Ç) 
+Kurumun paylaşmış olduğu mikro veriler, modelleme de dahil olmak 
+üzere sadece toplu bilgilerin 
+raporlanması için kullanılabilir. Belirli 
+bireylerin, hanelerin, 
+kuruluşların veya kurumların araştırılmasında 
+kullanılamaz. 
+Araştırmacının hatalı hesaplama sonucu elde ettiği bulgular, sadece 
+araştırmacıyı bağlar. 
+Araştırmacı, çalışmadan elde ettiği sonuçlan yayınlarken kullandığı 
+mikro veriler için Kurumu kaynak gösterir. 
+Araştırmacı, çalışmasını yayımladığı takdirde, yayım tarihinden 
+itibaren üç ay içinde 
+çalışmanın bir kopyasını Kuruma göndermekle 
+yükümlüdür. Bu 
+yükümlülüğünü yerine getirmediği tespit edilen 
+
+2783
+Mikro Veriyi 
+Kullananların 
+Yükümlülükleri 
+Mikro Verinin 
+Paylaşımı 
+Mikro Verilerin 
+Kalitesi 
+araştırmacının daha somaki mikro veri kullanım talepleri 
+karşılanmaz. 
+(D) Araştırmacı, aldığı mikro veri setini çoğaltamaz, üçüncü şahıslara 
+veremez, satamaz veya devredemez. 
+(2) Yazılı bir talebin gelmesi durumunda, resmi istatistik üreticileri bilimsel 
+araştırmalar yapmak amacıyla belirleyici bir işaret kullanmadan, bireysel 
+istatistiki veri 
+sağlayabilirler. Kullanıcıya bu veriyi talebinde belirttiği 
+amaç doğrultusunda kullanacağına, bir tetkik için veya yetkili olmayan 
+kişilere vermeyeceğine ve veriyi kullandıktan sonra veriyi sağlayacak 
+birim ile veriyi talep eden arasında verinin imha edileceğine dair bu 
+Tüzüğe ekli Ek il' de yer alan Gizlilik Taahhüt Belgesi imzalatılır. 
+(3) Sadece Kurum içinde uygun bir bölümde erişimine izin verilen mikro 
+veriler için ise 
+aşağıda belirtilen diğer kurallar da genel kurallara ek olarak 
+uygulanır; 
+(A) Araştırmacı mikro veri setleri ile ilgili çalışmalarını, Kurumla 
+imzalanan bu 
+Tüzüğe ekli Ek III'te yer alan bir Protokol ile sadece 
+Kurumda gözetim 
+altında ve mesai saatleri içinde yapar. 
+(B) Araştırmacı, araştırma sonuçlarını Kurum tarafından kontrol edilebilir 
+bir dosya 
+formatında hazırlar. 
+(C) Araştırmacı, oluşturduğu sonuç tablolarında gizli veriye yer veremez. 
+(Ç) Araştırma sonuçlarının gizli veri içerip içermediği Kurum tarafından 
+kontrol edilmeden bu verilerin Kurum dışına çıkarılmasına izin 
+verilmez. 
+(D) Kontroller, üç iş günü içinde yapılır. Gizli veri içeren bölümlerin 
+tespit edilmesi halinde, sonuç 
+tablolarının kullanılmasına izin 
+verilmez. Üç 
+iş gününde kontrol işleminin tamamlanması mümkün 
+olmayan tablolar için, kontrol 
+işleminin tamamlanma tarihi 
+araştırmacıya iletilir. 
+10. Kurum, mikro verileri dış idarelerle ve kamu kullanıcılarıyla ancak Kurumun 
+araştırma hedeflerinin/amaçlarının ve aldıkları gizlilik önlemlerinin uygunluğunu 
+değerlendirmesine olanak tanıyacak yeterli bilgiyi sunmalan halinde paylaşır. Bu 
+amaçla, veri 
+kullanıcıları Kuıuma aşağıdaki fıkralarda belirtilen konularda bilgi 
+sunmak 
+zorundadır; 
+(1) Araştırma içeriği ve metodolojisi, 
+(2) Mikro verilerin kullanımı, 
+(3) Mikro veri depolama, 
+(4) Araştııma bulgularının yaygınlaştınlması, 
+(5) Hedef kitle. 
+11. (1) Verilerin orijinal olarak toplandığı rapor veya çıktılar yayımlanmadan önce 
+hiçbir mikro veri paylaşılamaz. 
+(2) Kurum, mikro verileri kişisel verilerin gizliliği ilkesini sağladıktan soma 
+paylaşır. 
+12. (1) Kuıum tarafından yayınlanan mikro verilerin kalitesinin güvence altına 
+alınması son derece önemlidir. Veriler eksiksiz, tutarlı ve doğru ise, 
+sağlam bir metodoloji izlenerek elde edilmişse ve referans nüfusu doğru bir 
+şekilde temsil ediyorsa yüksek kalitede kabul edilir ve paylaşılabilir. 
+(2) Veriler metaverileri ile birlikte paylaşılır. 
+(3) Kurum, mikro verilerin ve yayınlanan istatistiki verilerin kalitesini 
+sağlamak için gerekli tüm önlemleri alır. 
+
+2784
+Mikro Veri 
+Taleplerini 
+Değerlendirme 
+32/2019 
+9/2020 
+Raporlama ve 
+Mikro Verilerin 
+Geliştirilmesi 
+Gizlilik 
+Kuralları ve 
+Uyulmaması 
+Halinde 
+Uygulanacak 
+Cezalar 
+32/2019 
+9/2020 
+DÖRDÜNCÜ KISIM 
+Mikro Veri Taleplerini 
+Değerlendirme 
+13. (1) Mikro veri setlerinin kullanılacağı araştırma önerilerinin bilimsel olup 
+olmadığı ve hangi şartlar altında araştırmacıya verilip verilemeyeceği 
+İstatistik Kurumu (Kuruluş, Görev ve Çalışma Esasları) Yasası' nın 22 'nci 
+maddesinde belirtilen gizlilik 
+kuralları dikkate alınarak Kurum tarafından 
+değerlendirilir. 
+(2) Kurum başvuruları değerlendirme aşamasında, gerek duyması halinde, ek 
+belge talebinde bulunabilir. 
+BEŞİNCİ KISIM 
+Çeşitli ve Son Kurallar 
+14. 
+Raporlama ve mikro verilerin geliştirilmesi ile ilgili kurallar aşağıdaki fıkralarda 
+belirtilmiştir; 
+(1) Kurum, mevcut mikro veri setlerine eklenebilecek yeni mikro veri setleri 
+ile ilgili olarak veri üreten birimlerle 
+iletişime geçer. Kullanıma açılmasının 
+uygun olduğu değerlendirilen mikro veri setlerinin metaverisiyle birlikte 
+hazır hale getirilmesi için gerekli koordinasyonu sağlar. 
+(2) Kurum, mikro veri setlerinin geliştirilmesi ve güncel tutulmasını sağlar. 
+15. Araştırmacı, İstatistik Kurumu (Kuruluş, Görev ve Çalışma Esasları) Yasası 'nın 
+22 'nci maddesinde belirtilen gizlilik kurallarını dikkate alarak, bu kuralları ihlal 
+edecek bilgi, tablo vb. 
+yayımlayamaz ve mikro verileri sadece istatistik üretmek 
+amacıyla kullanabilir. Bunlara ve bu Tüzük kurallarına uyulmaması halinde 
+İstatistik Kurumu (Kuruluş, Görev ve Çalışma Esasları) Yasası'nın 28'inci 
+maddesinde 
+beliıiilen cezalar uygulanır. 
+Yürütme Yetkisi 16. Bu Tüzük, Başbakanlık tarafından yürütülür. 
+Yürürlüğe Giriş 17. Bu Tüzük, Resmi Gazete'de yayımlandığı tarihten başlayarak yürürlüğe girer. 
+
+2785
+1) Genel bilgiler: 
+Kimlik numarası: 
+Ad-soyad: 
+E-posta: 
+Telefon: 
+2) 
+Kurum/kuruluş bilgileri 
+Kurum/kuruluş adı: 
+Kurum/kuruluş türü: 
+EKi 
+İstatistik Kurumu 
+Mikro Veri Talep Formu 
+(Madde 8(1)) 
+O Resmi İstatistik Programı kapsamında bulunan kurum ve kuruluş 
+O Resmi İstatistik Programı kapsamında bulunmayan KKTC'deki resmi kurum ve 
+kuruluş 
+□ Üniversite ve diğer yükseköğretim kurumu 
+O 
+Kamu kurum ve kuruluşu olmayan, araştırma amaçlı kurulmuş enstitü ve kuruluşlar 
+O KKTC'nin üyesi olduğu uluslararası kurum ve kuruluş 
+Araştırmacının pozisyonu: 
+□ Kurum/kuruluş personeli 
+□ Proje üyesi 
+□ Öğrenci (lisans üstü) 
+O 
+Araştırma görevlisi 
+□ Öğretim görevlisi 
+O 
+Öğretim üyesi 
+O 
+Diğer (lütfen açıklayınız): 
+
+2786
+Kurum/kuruluş adresi: 
+Kurum/kuruluş telefon numarası: 
+3) Araştırma/proje bilgileri 
+Araştırma/proje adı: 
+Araştırma/proje konusu (lütfen en az 200 karakter ile açıklayınız): 
+Araştırma/proje türü: 
+□ Doktora tezi 
+□ Yüksek lisans tezi 
+□ Makale/yayın 
+□ Diğer (lütfen açıklayınız) 
+Kullanılacak istatistiki metotlar: 
+Elde edilmesi 
+düşünülen çıktılar: 
+4) Talep edilen mikro veri setleri 
+(Lütfen Kuıum'a ait web sitesini ziyaret ediniz) 
+
+2787
+EKii 
+GİZLİLİK TAAHHÜT BELGESİ 
+(Madde 8(2)) 
+Görevim nedeniyle edindiğim gizli verileri, görevim sırasında ve sonrasında yetkililer 
+dışında hiç kimseye açıklamayacağımı, kimseyle paylaşmayacağımı sorumluluğum altındaki 
+gizli ve bireysel veriye ikinci şahısların erişmelerine izin vermeyeceğimi, bu veriyi sadece 
+istatistik üretmek 
+amacıyla kullanacağımı ve bu çalışmalar sırasında İstatistik Kurumu 
+(Kuruluş, Görev ve Çalışına Esasları) Yasası 'nın 22 'nci maddesinde tanımlanan istatistiksel 
+gizlilik 
+kuralları çerçevesinde hareket edeceğimi taahhüt eder, bu konuda şahsımdan 
+kaynaklanan ihmal veya kusur sonucu istatistiki birimlerin uğradıkları zararlar nedeniyle 
+açılacak davalarda hükmedilecek maddi ve manevi tazminatlar hakkında tarafıma rücu 
+edilmesini kabul 
+ettiğimi ve hakkımda uygulanacak müeyyidelerin bilgisine sahip olduğumu 
+beyan ve imza ederim. 
+Adı, Soyadı 
+İmza 
+Kurumdaki Görevi 
+Tarih 
+Kimlik 
+Kartı N o. 
+
+2788
+Amaç, 
+Kapsam 
+ve 
+Taraflar 
+AMAÇ: 
+EKIII 
+PROTOKOL 
+(Madde 
+8(3)) 
+İşbu 
+protokolün 
+amacı, 
+İstatistik 
+Kurumu 
+ile 
+.....
+. ................................................. 
+arasında 
+• • • • • • • • 
+•..... 
+............................................................................................ 
+konulu 
+çalışma 
+kapsamında 
+mikro 
+veriye 
+erişim 
+ve 
+mikro 
+veri 
+kullanımına 
+ilişkin 
+çalışma 
+esaslarını, 
+ilkeleri 
+ve 
+yükümlülükleri 
+belirlemektir. 
+KAPSAM: 
+İşbu 
+protokol, 
+Amaçta 
+belirtilen 
+çalışma 
+konusu 
+için 
+..................................
+.
+........ 
+. 
+mikro 
+veri 
+setlerine 
+İstatistik 
+Kurumu 
+"Mikro 
+Verilerin 
+Yayımlanması 
+ve 
+Yayımlanan 
+İstatistik 
+Verilerin 
+Geliştirilmesi 
+Tüzüğü" 
+çerçevesinde 
+erişimi 
+ve 
+mikro 
+veri 
+kullanımını 
+düzenler. 
+TARAFLAR: 
+İş 
+bu 
+protokolün 
+tarafları, 
+İstatistik 
+Kurumu 
+ile, 
+.....
+..
+....
+..
+..............................
+..
+............
+...
+.................
+..
+.........................
+..
+..............
+..
+...........
+..
+... 
+'dir. 
+Taratların 
+Yükümlülükleri 
+ve 
+Çeşitli 
+Hükümler 
+İstatistik 
+Kurumu, 
+bu 
+protokol 
+çerçevesindeki 
+mikro 
+veri 
+erişim 
+ve 
+kullanım 
+hizmetini 
+Kurumda 
+uygun 
+göreceği 
+bir 
+bölümde 
+verir. 
+• 
+Verilen 
+hizmetler 
+Kuıumun 
+sorumluluğu 
+altında 
+ve 
+mesai 
+saatleri 
+içinde 
+yüıiitülür. 
+• 
+Bilgisayarlar, 
+çeşitli 
+ortamlar 
+(taşınabilir 
+bellek 
+vb.) 
+ile 
+veri 
+aktarımına 
+imkan 
+vermeyecek 
+şekilde 
+ayarlanır. 
+• 
+Bilgisayarlar 
+kapalı 
+bir 
+ağ 
+içinde 
+iletişim 
+sağlar. 
+Bu 
+ağın, 
+kurum 
+ağıyla 
+veya 
+herhangi 
+bir 
+dış 
+ağ 
+ile 
+fiziksel 
+veya 
+mantıksal 
+iletişimi 
+kesilir. 
+• 
+Kuıumun 
+bilişim 
+standartlarına 
+uygun 
+işletim 
+sistemi 
+ve 
+yazılım 
+yüklemesi 
+yapılmış 
+bilgisayarlar 
+ile 
+hizmet 
+verilir. 
+• 
+Araştırmacı, 
+bilgisayarlarda 
+bulunan 
+programlan 
+kullanmayı 
+bilmekle 
+yükümlüdür. 
+• 
+Araştırmacının, 
+yapacağı 
+analizler 
+için 
+Kuıumun 
+mevcut 
+yazılımları 
+dışında 
+bir 
+yazılım 
+kullanmaya 
+ihtiyaç 
+duyması 
+halinde, 
+kendisine 
+ait 
+lisanslı 
+yazılımın 
+bilgisayara 
+yüklenmesi 
+Kuıum 
+tarafından 
+yapılır. 
+
+2789
+• Protokol kapsamındaki imza süreçleri tamamlanmayan araştırmacının Kurumda 
+çalışmasına izin verilmez. 
+• Araştırmacı, çalışmak istediği tarihler için önceden randevu alır. Randevular tam ya da 
+yarım gün için alınır. Randevular gerektiğinde Kurum tarafından yeniden düzenlenir. 
+Araştırmacıya sürekli olarak en az bir Kurum personeli nezaret eder. 
+• Araştırmacı, elektronik, fotografik, baskı, not alma vb. şekilde veri setinin kaydını 
+almak veya mevcut güvenlik önlemlerini aşmak amacıyla herhangi bir girişimde 
+bulunamaz. 
+• 
+Araştırmacının kullandığı bilgisayarın ekranı Kurumun sorumlu personeli tarafından 
+izlenebilir. 
+• 
+Araştırmacı, araştırma sonuçlarını Kurum tarafından kontrol edilebilir bir dosya 
+formatında hazırlar. 
+• Araştırmacı, oluşturduğu sonuç tablolarında gizli veriye yer veremez. 
+• Araştırma sonuçlarının gizli veri içerip içermediği, Kurum tarafından kontrol 
+edilmeden bu verilerin Kurum dışına çıkarılmasına izin verilmez. 
+• Kontroller, üç iş günü içinde yapılır. Gizli veri içeren bölümlerin tespit edilmesi 
+halinde, sonuç 
+tablolarının kullanılmasına izin verilmez. Üç iş gününde kontrol 
+işleminin tamamlanması mümkün olmayan tablolar için, kontrol işleminin 
+tamamlanma tarihi araştırmacıya iletilir. 
+• 
+Araştırmacının hatalı hesaplama sonucu elde ettiği bulgular, sadece araştırmacıyı 
+bağlar. 
+• Araştırmacı, İstatistik Kurumu (Kuruluş, Görev ve Çalışma Esasları) Yasasında 
+belirtilen gizlilik ilkelerini dikkate alarak, bu ilkeyi ihlal edecek bilgi, tablo vb. 
+yayımlayamayacağını ve gizli verileri çalışma sırasında ve sonrasında hiç kimseye 
+açıklayamayacağını, sadece istatistik üretmek amacıyla kullanacağını iş bu protokol ile 
+taahhüt etmiş sayılır. 
+• Veri gizliliğine ilişkin esasların araştırmacı tarafından ihlal edilmesi durumunda, 
+araştırmacı ve bağlı bulunduğu kuruma aşağıdaki yaptırımlar uygulanır: 
+► İhlalin Kurumda yapılan çalışma esnasında belirlenmesi durumunda, 
+araştırmacının mikro veriye erişimi engellenir ve yapılan protokol feshedilir. 
+► İhlal, araştırmacının bağlı bulunduğu kurumun yönetimine resmi yazı ile 
+bildirilir. 
+► İstatistik Kurumu (Kuruluş, Görev ve Çalışma Esasları) Yasasına göre hukuki 
+süreç 
+başlatılır. 
+
+2790
+• Bu protokol, ............... tarihinden itibaren geçerlidir. 
+• 
+İş bu protokol iki nüsha olarak tanzim edilmiş olup, taraflarca imzalanmasını müteakip 
+yürürlüğe girer. 
+İSTATİSTİK KURUMU ADINA 
+• 
+Adı, Soyadı İmza 
+• Kurumdaki Görevi 
+Tarih 
+• Kimlik 
+Kartı No. 
+ARAŞTIRMACI 
+• Adı, Soyadı 
+İmza 
+• 
+Görevi 
+Tarih 
+• Kimlik 
+Kartı No. 

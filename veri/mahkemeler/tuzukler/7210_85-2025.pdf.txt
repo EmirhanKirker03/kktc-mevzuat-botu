@@ -1,0 +1,163 @@
+
+
+Sayı : 85
+182
+ELEKTRONİK HABERLEŞME YASASI 
+(6/2012, 21/2014, 39/2016, 27/2019, 31/2019 
+ve 11/2022 sayılı yasalar) 
+Madde 23, 24, 25, 29, 30, 57, 65 
+Altında Yapılan Tüzük 
+Kuzey 
+Kıbrıs Türk Cumhuriyeti Bakanlar Kurulu, Elektronik Haberleşme Yasası'nın23 'üncü, 
+24'üncü, 25'inci, 29'uncu, 30' uncu, 57'nci, 65'inci Maddelerinin kendisine verdiği yetkiye dayanarak 
+aşağıdaki Tüzüğü yapar: 
+Kısa İsim 
+R.G.111 
+EKIII 
+A.E.295 
+9.5.2014 
+Esas 
+Tüzüğe 
+EK'li 
+BİRİNCİ 
+CETVEL 
+Altındaki 
+Mobil 
+Telefon 
+Hizmetlerine 
+İlişkin 
+Hizmet 
+Kalitesi 
+Kriterleri 
+Maddesinin 
+Değiştirilmesi 
+1. Bu Tüzük, Yetkilendinne, Numaralandırma ve Spektrum (Değişiklik) Tüzüğü 
+olarak isimlendirilir ve aşağıda "Esas Tüzük" olarak anılan Yetkilendirme, 
+Numaralandırma ve Spektrum Tüzüğü ile birlikte okunur. 
+2. Esas 
+Tüzüğe ekli Birinci Cetvel'de düzenlenen MOBİL TELEFON 
+HİZMETLERİNE İLİŞKİN HİZMET KALİTESİ KRİTERLERİ maddesi 
+kaldırılmak ve yerine aşağıdaki yeni MOBİL TELEFON HİZMETLERİNE 
+İLİŞKİN HİZMET KALİTESİ KRİTERLERİ maddesi konmak suretiyle 
+değiştirilir. 
+''MOBİL TELEFON HİZMETLERİNE tı,işKiN;HİZMETKALİTESi: 
+jqtİTERı,ERt .   . . . . . , . .. .. . . . .   ' 
+Arama Kurulum Süresi 
+Tanım 
+Öicüm 
+Hedefler 
+Söz konusu süre arama kurulumu için gerekli Ulusal veya 
+1 
+O :S saniye 
+olan adres bilgisinin 
+şebeke tarafından uluslararası 
+edinilmesi ile başlar (örn. Arayan kullanıcının aramalarda en kısa 
+hat üzerinden tanımlanması) ve aranan tarafın sürede kurulan 
+çalma tonu, 
+meşgul tonu veya cevaplama sinyali %95'lik aramaların 
+arayan tarafa ulaşınca sona erer. 
+kurulum süresi 
+Ölçümler 
+ETSI EG 201 769-1 standartlarına göre yapılacaktır. 
+
+183
+Arama Blokaj Oranı 
+Tanım 
+Ölçüm Hedetler 
+Arama blokaj 
+oranı; kapsama alanı içinde olmak 
+Blokaja 
+uğrayan :::%2 
+şartıyla, yapılan aramalarda, radyo link, 
+aramaların yüzdesi 
+transmisyon, anahtarlama, ve henzeri 
+sistemlerdeki kaynak 
+yetersizliğinden dolayı 
+bağlantı kuıulamayan arama girişimi sayısm111 
+toplam arama girişimi 
+sayısına oranıdır. Alıcı abonenin numarasının 
+son rakamının şebeke tarafından alınmasının 
+ardından 40 saniye 
+içerisinde 
+meşgul sesi, zil sesi veya cevaplama 
+sinyalinin 
+alınmadığı veya aramanın şebeke 
+sebebiyle gerçekleştirilemediğine ilişkin cevabın 
+yayınlandığı aramalar arama blokajdu. 
+Ölçümler ETSI 
+EG 202 057-3 standartlarına göre yapılacaktır. 
+Başarısız Arama Oranı 
+Tanım 
+Ölçüm Hedefler 
+Doğru bir şekilde kurulmuş ve bunun sonucunda Doğıu bir şekilde :::%3 
+tanımlanmış bir trafik kanalı bulunan; şebekenin kurulup, kesilen 
+erken 
+sonlandırması sonucu, kullanıcının normal 
+aramalann yüzdesi 
+olarak son vermesinden önce kesilen veya 
+kesintiye 
+uğrayan aramaların oranı. 
+Ölçümler ETSI EG 202 057-3 standartlarına göre yapılacaktır. 
+Ortalama Kanaat De~eri (MOS) 
+Tanım 
+Ölçüm Hedefler 
+Uçtan uca ses kalitesi ölçümlerinde 
+kullanılan ve Ortalama kanaat ::".3,60 
+ölçüm 
+yöntemi ITU-T P.86X tavsiye kararında değeri 
+tanımlanan ortalama kanaat değeri. 
+Fatura Sikavet Oranı 
+Tanım Ölçüm Hedefler 
+Abone 
+şikayetlerinin olduğu fatura sayısının Abone şikayetine 
+:S:%2 
+toplam fatura sayısına oranı. yol açmış fatura 
+vüzdesi 
+Ölçümler ETSI EG 201 769-1 
+standartlarına göre yapılacaktır. 
+Ön Ödemeli Hatlarda Kredi Sikaveti Oranı 
+Tanım 
+Ölcüm 
+Hedefler 
+Kontör Yükleyememe ve Kontör 
+Kaybı 
+Şikayet eden ön 
+:S:%2 
+şikayetlerinin olduğu ön ödemeli abone sayısının ödemeli abone 
+toplam ön ödemeli abone 
+sayısına oranı. 
+yüzdesi 
+Ölçümler ETSI 
+EG 202 057-1 standartlarına göre yapılacaktır. 
+
+184
+Yüıürlüğe 
+Giriş 
+Kısa Mesai Hizmeti (KMH) Tamamlanma Oranı 
+Tanım 
+Ölçüm Hedefler 
+Uçtan uca kısa mesaj teslim süresi içerisinde 
+Başarılı bir şekilde 
+::,:%95 
+başarılı bir şekilde iletilen KMH sayısının 
+iletilen KMH 
+gönderilen toplam KMH 
+sayısına oranı. 
+sayısının yüzdesi 
+Ölçümler 
+ETSI TS 102 250-2 standartlarına göre yapılacaktır. 
+Uçtan Uca KMH Teslim 
+Süresi 
+Tanım Ölçüm Hedefler 
+Uçtan uca en kısa sürede gönderilen %99'luk Uçtan uca en kısa 
+:S 15 saniye 
+KMH'nin teslim süresi. sürede gönderilen 
+%99'luk KMH'nin 
+teslim süresi 
+Ölçümler 
+ETSI TS 102 250-2 standartlarına göre yapılacaktır. 
+Veri İndirme Hızı 
+Veri indirme hızı, mobil haberleşme şebekelerinde birim zamanda kullanıcıya sağlanan 
+veri miktarını ifade eder. Ölçüm metodu ve hedefler Kurum tarafından yayımlanacak tebliğ 
+ve/veya yönetmelik ile belirknecektir." 
+3 . Bu Tüzük, Resmı Gazete'de yayımlandığı tarihten başlayarak yüıürlüğe girer. 

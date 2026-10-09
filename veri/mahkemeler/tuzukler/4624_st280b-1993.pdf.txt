@@ -1,0 +1,1271 @@
+
+
+ASANSÖRLER DENETİM TÜZÜĞÜ 
+R.G.:58         Ek:III              A.E.:280                      15.06.1993 
+ 
+ 
+İŞ YASASI 
+(22/1992,30/1993,25/2000 Sayılı Yasalar) 
+55'inci madde altında yapılan Tüzük 
+ 
+ 
+Çalışma ve Sağlık Bakanlığı, İş Yasasının 55. Maddesi uyarınca Bakanlar Kurulu onayı ile aşağıdaki Tüzüğü 
+yapar. 
+ 
+ 
+1. Bu Tüzük, “ Asansörler Denetim Tüzüğü” olarak isimlendirilir. 
+Kısa İsim 
+A.E. 240 
+ 5.5.1994 
+A.E.388  
+9.6.1995 
+A.E.183  
+27.2.1996 
+A.E.89  
+29.1.1997 
+A.E.277  
+4.4.1997 
+A.E.7  
+5.1.1998 
+A.E.19  
+25.1.1999 
+A.E.853   
+29.12.1999 
+A.E.422   
+6.7.2000 
+A.E.888 
+13.12.2000 
+A.E. 700 
+16.11.2001 
+A.E. 816 
+26.12.2001 
+A.E. 766 
+26.12.2002  
+ 
+ 
+ 
+ 
+BİRİNCİ BÖLÜM 
+KAPSAM VE TEFSİR 
+ 
+2. İşyerlerinde  ve  konutlarda  bu  Tüzükte’ki  asansör  tanımına  uyan  tüm  yolcu  ve    yük  
+asansörleri, bu Tüzük kapsamındadırlar. Ancak inşaat işlerinde kullanılan asansörler 
+(elevatör ve benzeri) ve kamu kullanımına açık olmayan ve özel bir konut (en çok iki 
+katlı) içinde kullanılan ve hızı 0,35 m/sn den fazla olmayan asansörler bu kapsamın 
+dışındadır. İşyerlerinde  yalnızca  yük  taşımak  amacıyla  kullanılan,  en  çok  iki  durak  
+arasında çalışan, hızı 0,35 m/sn den fazla olmayan ve hareket yüksekliği 6,5 metreyi 
+aşmayan asansörler de bu Tüzük kapsamı dışındadır. 
+Ancak, bu  cihazları imal edenler Esas Tüzüğün 8'inci maddesindeki kurallara, ithal 
+edenler ise Esas Tüzüğün 5'nci maddesindeki hususlara uymakla yükümlüdürler.
+ 
+Kapsam 
+A.E.700 
+16.11.2001 
+
+ 
+3. Bu Tüzük’te metin başka türlü gerektirmedikçe:                     
+“Ağır  hizmet  asansörü”,  2000  Kilogramdan  fazla  yükleri  taşımak  için  kullanılan  yük  
+asansörünü anlatır.  
+“Alt  boşluk  yüksekliği”  asansör  kabininin  en  alt  duraktaki  inme  yüzeyi  ile  asansör  
+kuyusu tabanı arasındaki düşey uzaklığı anlatır. 
+“Ana durak”, asansör kabinine en çok binilip inilen kattaki durma yerini anlatır. 
+"Asansör", binalarda insanları ve/veya yükleri bir kabin içinde, bir duraktan diğerine 
+düşey doğrultuda veya meyilli olarak taşıyan ve elektrikle çalışan bir sistemi anlatır. 
+"Asansör  Boşluğu",  alt  ve  üst  boşluklar  da  dahil  olmak  üzere,  içinde  kabin  ve/veya  
+karşı ağırlığın düşey doğrultuda veya meyilli olarak aşağı yukarı hareket ettiği, etrafı 
+kapalı bina boşluğunu anlatır. 
+“Asansör  Tahrik  düzeni”,  bir  elektrik  motoru  ile  çalış
+tırılan,  kabin  ve  karşı ağırlığın 
+düşey  doğrultuda  aşağı  yukarı  hareketini  sağlayan  ve  asansörü  istenilen  durakta  
+durduran makina dairesine yerleştirilmiş düzeni anlatır. 
+“Askı Halatı”, kabin ve karşı ağırlığı taşıyan çelik halatı  anlatır. 
+“Aşırı  Yük  Otomatiği”,  asansörün  taşıyabileceği  en  büyük  yükün  aşılması  halinde,  
+kumandayı  keserek  kabinin  hareketini  durduran  ve  kilitleyen  bir  güvenlik  düzenini  
+anlatır. 
+“Azami Çalışma yükü”, asansörün emniyetli bir şekilde taşıyabileceği en büyük  yükü 
+anlatır. 
+“Bakanlık”, Çalış
+ma işlerinden sorumlu Bakanlığı anlatır. 
+“Bakanlar Kurulu”, Kuzey Kıbrıs Türk Cumhuriyeti Bakanlar Kurulu’nu anlatır. 
+“Basit  Normal  Kumanda”,  kumanda  düğmesi  ile  kabini  harekete  geçiren  ve  ancak  
+istenilen katta durduran düzeni anlatır. 
+“Daire”, Çalışma Dairesi’ni anlatır. 
+“Denge halatı veya zinciri”, askı halatlarını kısmen veya tümüyle dengeleyen kabin 
+iskeleti ile karşı ağırlık arasına alttan bağlanan çelik halat veya zinciri anlatır. 
+“Durak”,  binanın  asansöre  binilip  inilen  kat  döşemesi  veya  kabin  cephesi  boyunca  
+süren ve derinliği en az 1 metre, yüzeyi ise en az kapı genişliği kadar olan sahanlığı 
+anlatır. 
+“Durak  Kat  Kapısı”,  duraklarda  bulunan  ve  ancak  kabin  ilgili  durak  hizasında 
+durduğu zaman açılabilen ve insanların kabine giriş çıkışını sağlayan kap
+ıyı anlatır. 
+“Düzengeç”,  asansör  makine  dairesinde  bulunan  ve  halat  kopması  ve  benzeri  
+nedenlerle  kabin  veya  karşı ağırlığın  aşırı hızlanması  durumunda  harekete  geçip  
+güvenlik düzenini çalıştıran tertibatı anlatır. 
+“Genel  Hizmet  Asansörü”,  2000  Kilogram  ağırlığa  kadar  olan  yükleri  taşıyan    yük  
+asansörünü anlatır. 
+“Genel   Sicil”,   1992   İş   (Fabrika   ve   İşyerlerinde İşçi   Sağlığı   ve   İş   Güvenliği) 
+Tüzüğü’nün 47. Maddesinde belirtilen Genel Sicil’i anlatır. 
+“Güvenlik  Düzeni”,  kabin  iskeletine  ve  gerektiğinde  karşı ağırlığa  tespit  edilen  ve  
+inişte  aşırı hızda  kabini  ve  varsa  karşı ağı
+rlığı  frenleyerek  kabinin  ve  varsa  karşı 
+ağırlığın düşmesini önleyen bir düzeni anlatır. 
+“Güvenlik  Halatı”,  güvenlik  düzeni  ile  düzengeç  arasında  bağlantı  sağlayan  ve  
+güvenlik düzenini çalıştıran halatı anlatır. 
+“Güvenlik Kesici”, hızı çok basamaklı asansörlerde ve doğru akımla tahrik  edilen 
+yüksek hızlı asansörlerde en alt ve en üst duraklarda belirli birer noktada  asansörün 
+durağa yaklaşma hızına geçmesini kontrol eden ve istenilen hıza geçmemesi 
+halinde, otomatik olarak bu hıza geçmesini sağlayan veya asansörü  durduran 
+düzeni anlatır. 
+"Hareket Yüksekliği", asansör en alt durakta iken kabin döşeme seviyesi ile asansör 
+en üst durakta iken kabin döşeme seviyesi arasındaki mesafedir. 
+“İşgücü Planlama ve Geliştirme Merkezi”, İş Yasası’nın 60. Maddesinin (3).fıkrası 
+uyarınca çıkarılan, 1992 İş (İşgücü Planlama ve Geliştirme Merkezi) Tüzüğü 
+Tefsir 
+A.E.700 
+16.11.2001 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+tahtında oluşturulan Merkezi anlatır. 
+“İşyeri”, İş Yasası’nda kendine verilen anlamı anlatır. 
+"Kabin", içinde insan ve/veya yüklerin taşındığı, kapı yeri hariç tamamen kapalı olan 
+bir asansör elemanıdır. 
+“Kabin Düşme Yüksekliği”, en alt duraktaki kabinin, tampon tam sıkışmış  durumda 
+iken inebileceği en büyük düşey yüksekliği anlatır. 
+"Kabin Kapısı", kabine takılı olup yana doğru açılabilen kapıyı anlatır ve kramer tipi 
+kapıları da kapsar. 
+“Kafesli Kapı”,  metal  profil  veya  çubuklardan  yapılmış körük gibi yanal yönde açılıp 
+kapanabilen sürme kapıyı anlatır. 
+“Kar
+şı ağırlık düşme yüksekliği”, kabin en üst durakta iken karşı ağırlığın bulunduğu 
+nokta  ile  karşı ağırlık  tamponunun  tam  sıkışmış  durumdaki  seviyesi  arasındaki 
+düşey yüksekliği anlatır.  
+“Kepenk  giyotin  kapı”,  genellikle  saçtan  veya  metal  çubuklardan  kafes  şeklinde 
+yapılan ve aşağı yukarı hareket ettirilerek açılıp kapanabilen kapıyı anlatır. 
+“Mahkeme”, yetkili Kaza Mahkemesini anlatır. 
+“Müdür”, Çalışma Dairesi Müdürü’nü anlatır. 
+“Müfettiş”, Çalışma Dairesi’nin tayinli müfettişlerini ve müfettiş olarak  görevlendirilen 
+Kamu Görevlilerini de içerir. 
+“Otomatik  Kapı”,  kabin  katlarda  durduğu  zaman  kendiliğ
+inden  açılan  ve  belirli  bir  
+süre sonra kendiliğinden kapanan kapıyı anlatır. 
+"Özel  Konut",  içerisinde  yalnızca  bir  ailenin  yaşadığı  ve  yapısı  itibarı  ile  ikinci  bir  
+ailenin yerleşmesine müsait olmayan müstakil konutu anlatır. 
+“Redüktörlü tahrik düzeni”, hareketin hız azaltma, sonsuz vida ve benzeri bir düzen 
+yardımıyla tambur veya makaraya aktarıldığı tahrik düzenini  anlatır. 
+“Redüktörsüz   Tahrik   Düzeni”,   hareketin   motordan   doğrudan   doğruya   tahrik   
+makarasına aktarıldığı tahrik düzenini anlatır. 
+"Servis  Asansörü",  Boyutları  ve  yapım şekli  itibarı  ile  yolcu  taşımasına  uygun  
+olmayan  bir  kabini  olan  ve  servis  amaçları  için  kullanılan  yük  asansörünü  anlatır. 
+İnsanların  giremeyeceği  kabin  ölçüleri  olarak  en  fazla  aşağıdaki  değerler  kabul  
+edilebilir. 
+Taban alanı
+ :1.00 m
+2
+     Derinlik: 1.00 m
+  
+  Yükseklik: 1.20 m 
+Eğer  kabin,  herbiri  yukarıda  verilen  ölçüleri  aşmamak  koşulu  ile  birden  fazla  sabit  
+bölümden   oluşuyorsa   1,20   metreden   fazla   yüksekliğe   izin   verilebilir.Servis   
+asansörlerinin taşıyacağı yük 300 kg.ı aşamaz. 
+“Sınır  kesici”,  en  alt  ve  en  üst  duraklarda  kabin  inme  veya  çıkma  sınırlarını aştığı  
+zaman  bağımsız  olarak  çalışıp şebeke  akımını  veya  yüksek  hızlı  asansörlerde  
+kumanda   düzenlerinin   tamamının   akımını   kesmek   suretiyle   kabinin   durmasını  
+sağlayan mekanik ve elektrikli bir kesme düzenini anlatır. 
+“Toplamalı   Dizi   Kumanda”,   düğmelerine   basıldığında   kumandaları
+   kaydedip   
+toplayan,  gidiş  yönüne  ve  sırasına  göre  kabini  istenilen  durakta  otomatik  olarak    
+durduran ve harekete geçiren düzeni anlatır.  
+ “Yarı  Otomatik  Kapı”,  el  ile  itilerek  veya  çekilerek  açılan  ve  serbest  bırakıldığında 
+kendiliğinden kapanan kapıyı anlatır. 
+“Yasa”, İş Yasası’nı anlatır. 
+ 
+"Yetkili Mühendis", yük veya yolcu asansörlerinin muayene ve testlerini yapıp  rapor 
+vermek  üzere  Daire  Müdürlüğü  tarafından  yetkilendirilmiş  ve  ilgili  meslek  odasına 
+kayıtlı makina ve elektrik mühendislerini anlatır. 
+“Yolcu  Asansörü”,  Binalarda  yolcuları  kabin  içerisinde  bir  kattan  diğerine  düşey  
+olarak  taşıyan  ve  elektrikle  çalışan  aracı  anlatır  ve  yükle  birlikte  yolcu  da  taşıyan 
+asansörler yolcu asansörü olarak işlem görürler. 
+"Yük  Asansörü",  Binalarda  yükleri  bir  kabin  içerisinde  bir  duraktan  diğerine  düşey 
+doğrultuda  veya meyilli olarak taşıyan ve elektrikle çalışan bir arac
+ı anlatır ve servis 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+22/1992 
+30/1993 
+25/2000 
+ 
+ 
+ 
+
+asansörünü de kapsar. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+İKİNCİ BÖLÜM 
+GENEL KONULAR VE ASANSÖRLERİ İŞLETME PROSEDÜRÜ 
+ 
+4. Her   yük   veya   yolcu   asansörü   ve   onun   bütün   kısımları,   elektrik   ve   mekanik      
+bakımdan  iyi  sağlam  malzemeden,  yeterli  dayanıklılıkta  ve  emniyetli  bir  şekilde 
+yapılmış olmalıdır.
+ 
+Genel 
+ 
+ 
+5. Yük  ve  yolcu  asansörleri,  Avrupa  ülkeleri,  Kanada,  Amerika  Birleşik  Devletleri,    
+Japonya   ve   Türkiye’den   ithal   edilmiş   olması   halinde   ithal   edilen   ülkenin   
+standartlarına veya Avrupa Birliği standartlarına veya uluslararası standartlara (ISO) 
+uygun   olmalıdır.   Standartlara   uygunluk   şartının   gerçekleşebilmesi   için   ne   tür   
+belgeler isteneceği Daire tarafından yazılı olarak belirlenir. Yukarıda belirtilen ülkeler 
+dışındaki   bir   ülkeden   ithal   edilmesi   halinde   bu   maddede   belirtilen   ülkelerden      
+herhangi  birinin  standartlarına  ,  Avrupa    Birliği  standartlarına  veya  uluslararası 
+standartlara (ISO) uygunluk belgesi temin edilmelidir.  
+Standartlara   uygunluk   emniyet   açısından   gerekli   olup,   bu   Tüzükte   belirtilen   
+kurallardan herhangi bir muafiyet sağlamaz.
+ 
+Standartlara 
+Uygunluk 
+    A.E.700 
+   16.11.2001
+ 
+ 
+6. Yük   veya   yolcu   asansörlerini   imal   edenler   veya   satanlar,   bu   cihazların   ve   
+aksamlarının bu Tüzüğün yukarıdaki 4. ve 5. Maddelerinde belirtilen koşullara uygun 
+olmasından sorumludurlar.
+ 
+Sorumluluk 
+ 
+ 
+ Bir  binada  herhangi  bir  yük  veya  yolcu  asansörünün  kuruluşu  (montajı)  sırasında 
+yapılabilecek  montaj  hatalarından  ve  genel  olarak  montajın  kusurlu  bir  şekilde 
+yapılmasından, montajı yapan firma veya kişiler sorumludurlar. Asansörün montajını 
+yapanlar,  yasal  olarak  işletme  izni  alınmasından  itibaren  en  az  altı  aylık  süre  
+içerisinde asansörün bakım ve tamirat sorumluluğunu üstlenirler.
+ 
+ 
+ 
+7. Yük (servis asansörleri dahil) veya Yolcu asansörlerinin imalatı, montajı (kurulması), 
+tadilatı  ve  işletilmesi  için  Daire  Müdürlüğünden  izin  alınması  koşuldur.  Yük  veya  
+yolcu asansörleri için hangi tip proje (imalat, montaj,tadilat) isteneceği ve bu projeler 
+ile bildirim formunda aranacak hususlar Daire Müdürlüğü tarafından belirlenir.
+ 
+İzin 
+ 
+ 
+8. İmal  edilecek  herhangi  bir  yük  (Servis  asansörleri  dahil)  veya  yolcu  asansörünün    
+imalat öncesinde imalatçı özel veya tüzel kişiler, yetkili bir makina mühendisi ve  bir 
+elektrik  mühendisi  tarafından  düzenlenip  imza  edilen  ve  Kıbrıs  Türk  Mühendis  ve  
+Mimar  Odaları  Birliği  Makina  Mühendisleri  Odası  ve  Elektrik  Mühendisleri  Odası 
+tarafından  onaylanan  proje,  bildirim  formu  ve  standardlara  uygunluk  ile  birlikte  
+Çalışma Dairesi’ne başvurarak imalat izni almak zorundadırlar.
+ 
+İmal İzni 
+ 
+ 
+(1) Asansör  içerecek  herhangi  bir  yapı  için  inşaat  izni  verilme  aşamasında  ilgili    
+makamlar  Çalışma  Dairesi  Müdürlüğü’nden  verilecek  “ASANSÖR  ÖN    İZNİ” 
+koşulunu   arayacaklardır.   Ön   izin   verilebilmesi   için   ilgili   makamlar,Daire   
+Müdürlüğünce  belirlenecek  bir  Bildirim  Formu  ve  asansörün  kurulacağı  kuyu  
+ile ilgili detayları içeren çizimlerle Daire Müdürlüğü’ne başvurmalıdırlar.
+ 
+9. 
+(2) Asansör  monte  edecek  olan  özel  ve  tüzel  kişiler,  bu  Tüzüğün  yukarıda    7.  
+Asansör Ön 
+İzni, İşletme, 
+Montaj  ve 
+Tadilat İzinleri 
+A.E.700 
+16.11.2001 
+
+Maddesinde      bahsedilen   proje   ve   bildirim   formları   ile   birlikte   Daire   
+Müdürlüğüne başvurarak “ASANSÖR MONTAJ İZNİ” almak zorundadırlar
+. 
+  Malsahipleri  asansör  montaj  veya  tadilat  izni  alınmamış  hiçbir  asansörün,  
+sahibi  oldukları  binada  montajına  veya  tadilatına  izin  veremezler  ve  montaj  
+veya tadilat izninin verilmesi için Çalışma Dairesine gerekli müracaatı yapmak 
+veya yaptırmakla yükümlüdürler. 
+Belediye   veya   diğer   ilgili   makamlardan   alınmış   inşaat   izni   bulunmayan      
+binalarda asansör montajı için izin verilmez
+. 
+ 
+(3) İnşaatı tamamlanan herhangi bir yapıya onay Belgesi (final approval) verilirken 
+ilgili    makamlar    Çalışma    Dairesi    Müdürlüğü’nce    verilecek    “ASANSÖR        
+İŞLETME İZNİ”ni koşul olarak arayacaklardır. Onay belgesi alınmış bir binada 
+asansörle  ilgili  proje  dışı  ek  inşaatlar  (kuyu  boşluğu,  makina  odası  vs.)  
+yapılması ve ek inşaat  bölümlerine  asansör  monte  edilmesi  durumlarında 
+Çalışma  Dairesi  tarafından  işletme  izni  verilmişse  ilgili  kuruluşun  ek  inşaatın 
+onaylanmadığına dair yazılı bir belge ile durumu bildirmesi üzerine işletme izni 
+iptal edilir.
+ 
+ 
+ 
+(4) Montajı  daha  önce  yapılmış  olup  işletmeye alınmış  olan  herhangi  bir  asansör  
+üzerinde  esaslı  bir  değişiklik  yapılacağı  takdirde,  yapılacak  olan  değişikliğin 
+özelliğine  göre  yetkili  bir  makina  veya  yetkili  bir  elektrik  mühendisi  tarafından 
+hazırlanıp  ilgili  meslek  odası  tarafından  onaylanmış  olan  projeler  ile    Daire  
+Müdürlüğü’ne başvurularak ASANSÖR TADİLAT İZNİ”  alınmalıdır. 
+ 
+ 
+(5) İnşaat  izninden  muaf  olan  binalara  asansör  montajı  veya  tadilatı  yapılması  
+halinde  bu  işleri  yapacak  olan  özel  veya  tüzel  kişiler,  bu  Tüzük  kurallarına  
+uymakla yükümlüdürler. 
+ 
+ 
+10. Yük (servis asansörleri dahil) veya yolcu asansörlerinin muayene ve testlerini yapıp 
+rapor  vermek  isteyen  her  makina  ve  elektrik  mühendisi,  Daire’ye  başvurarak  yetki  
+açısından kaydını yaptırmakla yükümlüdür. 
+Yetkili Makina 
+ve  Elektrik 
+Mühendisleri 
+A.E.700 
+16.11.2001
+ 
+ Daire’ye  kaydını  yaptıran  mühendisler,  muayene  ve  test  sonuçlarını  gösteren  ve  
+Daire  Müdürlüğünce  belirlenmiş  bilgileri  içerecek  şekilde  düzenlenen  sözkonusu  
+raporu   vermeye      yetkilidirler.   Daire’ye   kaydını   yaptıran   makina   ve   elektrik   
+mühendislerine Daire Müdürlüğü tarafından bir  “YETKİ BELGESİ” verilir. 
+Kıbrıs  Türk  Mühendis  ve  Mimar  Odaları  Birliği'ndeki  ilgili  meslek  odalarına  üye  
+olmayan mühendislere Yetki Belgesi verilemez. 
+ 
+ 
+(1) Usulüne  uygun  olarak  düzenlenen  ve  yetkili  makina  ve  elektrik  mühendisleri  
+tarafından  ortak  olarak  imzalanan  muayene  ve  test  raporunun  bir  sureti  ve  
+asansör  için  yaptırılmış  olan  üçüncü  şahıs  can  sigortası  sureti  ile  İŞLETME 
+İZNİ   almak   amacıyla   Çalışma  Dairesi  Müdürlüğü’ne  başvurulur. İstenen 
+koşullara uygunluğu yetkili mühendislerin raporu ile saptanan yük veya yolcu 
+asansörleri   için   Daire   tarafından   “İŞLETME İZNİ”   verilir.   Ancak,   yük   
+asansörleri   için   üçüncü   şahıs  can  sigortası şartı  aranmaz.  İşletme   izni   
+alınmadan  hiçbir  şekilde  asansör  çalıştırılamaz.  Bu  fıkra  kurallarına  aykırı 
+hareket edenler hakkında bu Tüzüğün 44. Maddesi   kuralları uygulanır.
+  
+İşletme İzni 
+Alınması 
+ 
+11. 
+(2) Bu  Tüzüğün  ilgili  maddelerinde  belirtilen  hizmetlere  karşılık  herhangi  bir  
+asansör  için  imalat,  montaj,  tadilat  işletme  izni  veya  ön  izin  verilmesi  veya    
+verilmiş  bir  işletme  izninin  yenilenmesi  için,  bu  Tüzüğe  ekli  Birinci  Cetvelde    
+belirtilen harç miktarının, söz konusu izin verilmezden önce müracaat formları 
+ile  birlikte,  İşgücü  Planlama  ve  Geliştirme  Merkezi’ne  ödenmesi  koşuldur. 
+Müracaat    tarihinden    itibaren    3    ay    içerisinde    Tüzüğün    öngördüğü 
+yükümlülükleri   yerine   getirmedikleri   için   gerekli   izinleri   alamıyan   cihaz   
+sahipleri,    3  aylık  sürenin  sonunda  söz  konusu  izinleri  almak  için  yeniden  
+1.Cetvel 
+      A.E.277 
+     4.4.1997
+ 
+
+ müracaat    edip,  İşgücü Planlama ve Geliştirme  Merkezi’ne  yeniden  harç  
+ödemek   zorundadırlar. 
+ 
+12. Daire    Müfettişleri  tarafından  yapılacak    teftişlerde  sözkonusu  muayene  ve  test  
+raporunun  hatalı  ve  gerçekleri  yansıtmayan  bir  rapor  olduğu  veya  herhangi  bir  
+nedenden  dolayı  asansörün  bu  kurallarına  aykırı  olarak  çalıştırıldığı    saptanırsa  
+işletme izni Daire tarafından iptal edilir. Bu durumdaki yük veya  yolcu asansörlerinin 
+kullanılması  yasak  olup  buna  aykırı  hareket  edenler  hakkında  bu    Tüzüğün  44.  
+Maddesi kuralları uygulanır. 
+İznin İptal 
+Edilmesi 
+ 
+13. Denetimlerde  eksik    veya  hatalı    rapor    verdiği    saptanan    makina    veya    elektrik    
+mühendislerine  bir  defaya  mahsus  olmak  üzere  Dairece  yazılı  uyarıda  bulunulur.  
+Mühendisin  hatalı  veya  eksik  rapor  vermeye  devam  etmesi  halinde  rapor    verme  
+yetkisi  elinden  alınır  ve  Daire  Müdürlüğü  tarafından  kendisine  bunu  açıklayıcı  bir  
+yazı gönderilir. Bu durum ilgili meslek örgütü olan Kıbrıs  Türk  Mimar    ve  Mühendis  
+Odaları  Birliği  Makina  Mühendisleri  Odası  ve/veya  Elektrik  Mühendisleri  Odası’nın 
+da bilgisine getirilir. 
+Yetki belgesi iptal edilen mühendise bir yıl tamamlandıktan sonra tekrar yetki belgesi  
+verilebilir. İlgili  Meslek  Odasının,  Daireden  yetki  belgesi  almış  olan  bir  mühendisin  
+odaya  üyeliğinin  iptal  edildiğine  dair  yazılı  bildirimde  bulunması  halinde,  verilmiş 
+olan yetki belgesi iptal edilir ve bu durum kendisine yazılı olarak bildirilir. 
+Rapor 
+Verme 
+Yetkisinin 
+Geri 
+Alınması 
+    A.E.700 
+   16.11.2001
+ 
+ 
+14. Yük  ve  yolcu  asansörü  işletenler,  asansörlerini  her  12  aylık  sürede  en  az  bir  defa,  
+hem  mekanik  yönden  bir  makina  mühendisine  ve  hem  de  elektriksel  yönden  bir  
+elektrik  mühendisine  eksiksiz  olarak  muayene  ve  test  ettirerek  alacakları    olumlu  
+ortak  raporun  bir  suretini  Daire’ye  göndermek  ve  bir  suretini  de  Genel  Sicil’de  
+bulundurmakla yükümlüdürler. 
+Muayene  ve 
+Testlerin 
+Süresi 
+ 
+ 
+15. İzin  süresi  dolup  da  usulüne  uygun  olarak  yeniden  muayene  ve  test  raporu  temin  
+edilen   yük   ve   yolcu   asansörlerinin   izinleri,   bu   Tüzüğün   madde   11   kuralları 
+çerçevesinde ve ücreti ödenmek koşuluyla Daire Müdürlüğü tarafından  yenilenir. 
+Süresi Dolan 
+İzinlerin 
+Yenilenmesi
+ 
+ 
+(1)
+ Sadece    yük    taşımak    amacıyla    kullanılan    asansörlerde    durak    kapılarına  
+kolayca  okunabilecek  şekilde: “SADECE  YÜK  TAŞIMAK İÇİNDİR  –  İNSAN 
+BİNMESİ TEHLİKELİ VE YASAKTIR” ibaresi yazılmalı ve idame ettirilmelidir. 
+(2)
+ Her   asansör   yolcu   kabininde   görülebilir   bir   yerde   kolayca   okunabilecek   
+büyüklükte silinmez ve sökülmez bir şekilde, “BİR YETİŞKİN REFAKATİNDE 
+OLMAYAN  12  YAŞINDAN  KÜÇÜK  ÇOCUKLARIN  ASANSÖRE  BİNMESİ 
+YASAKTIR.”   ifadesini   taşıyan   bir   ikaz   levhası   bulunmalı   ve idame 
+ettirilmelidir.
+ 
+16. 
+(3) Asansör çalıştırmak için bu Tüzük’te öngörülen koşullar yerine getirilmemişse, 
+arızalardan  veya  bakım    yapılamamasından    dolayı  asansörün  çalıştırılması 
+emniyet  yönünden    sakınca  yaratıyorsa    bu  asansörler  çalıştırılamazlar.  Bu  
+durumda   asansörün   bakım   ve   tamirinden   sorumlu   kişi   veya   kuruluşlar 
+asansörün    çalıştırılamaması    için    gerekli    emniyet    tedbirlerini    almakla    
+sorumludurlar.  Bu  amaçla  asansör  kat  kapıları dıştan  açılamayacak şekilde 
+kapatılır  ve  kabin  ana  durağa  getirilir.Asansör  motorunu  besleyen  elektrik  
+akımı  kesilir  ve  durum  acilen  Daire'ye  bildirilir.  Çalışma  Dairesi  müfettişleri 
+asansörün çalıştırılamayacağını duyuran belgeyi makina odas
+ı kapısına asar. 
+Asansörün  bakım  ve  tamirinden  sorumlu  kişiler  kapatma  işlemleri  sırasında 
+herhangibir sorunla karşılaşmaları halinde durumu acilen Daireye bildirirler ve 
+Daireden yardım talep ederler. 
+Malsahipleri asansörün kapatılması ile ilgili hususlarda asansörcülere ve Daire 
+müfettişlerine  gerekli  her  türlü  kolaylığı  sağlamak  ve  gerekli  tedbirleri  almakla  
+yükümlüdürler.Bu  işlemlerin  yapılmasını  engellemek  isteyenler  ile  sözkonusu  
+Asansörlerde 
+Uyarı Yazıları, 
+Belgeler, 
+Levhalar ve 
+Asansörün 
+Kapatılması 
+ 
+A.E.700 
+16.11.2001 
+ 
+ 
+
+ 
+belgeyi  asıldığı yerden indirenler bir suç işlemiş  olurlar  ve  bu  kişiler hakkında 
+yürürlükteki  genel  ceza  kuralları  uygulanır.Gerekli  görülmesi  halinde  kapatma  
+işlemleri  bizzat  Daire  tarafından  yapılır.  .Bu  durumda  asansörün  bakım  ve  
+tamirinden  sorumlu  kişiler  Daire'nin  isteği  üzerine  Daire    müfettişlerine  eşlik 
+etmek ve gerekli yardımı yapmakla yükümlüdürler. 
+ 
+ 
+17. Yolcu  asansörü  işletenler,  asansörü  kullanan  veya  tamir  eden  kişiler  için  üçüncü    
+şahıs can sigortası yaptırmak zorundadırlar. 
+Can  Sigortası 
+Sorumluluğu
+ 
+ 
+18. Asansör  montajı  ve/veya  bakım  onarımı  yapacak  özel  veya  tüzel  kişiler  bu  işi 
+yapabilecek kapasitede olduklarını belgeleyen bir yetki belgesine sahip olmalıdırlar. 
+Bu yetki belgesi, Kıbrıs Türk Mimar ve Mühendis Odaları Birliği Makina Mühendisleri 
+Odası  ve  Elektrik  Mühendisleri  Odası  tarafından  müşterek  verilen      bir  belge  
+olmalıdır. 
+Yetki Belgesi 
+ 
+19. Özel  kişiler  alacakları  yetki  belgesi  çerçevesindeki  çalışmalarından  kişi  olarak  
+sorumludurlar.  Tüzel  kişiliğe  sahip  müesseseler  ise,  müessese  adına  alınmış  yetki  
+belgesi  çerçevesinde,  çalıştıracakları  tüm  personelin  icraatından  müessese  olarak    
+sorumludurlar. 
+Özel veya Tüzel 
+Kişilerin 
+Sorumluluğu 
+ 
+ 
+ 
+ 
+ÜÇÜNCÜ BÖLÜM 
+EMNİYET KURALLARI VE ÖNLEMLER 
+ 
+20. Yük veya yolcu asansörü işletenler, asansörün aylık bakım ve kontrollerini  eksiksiz 
+olarak yaptırmakla  yükümlüdürler. Asansör işletenler, bakım ve kontrollar ile ilgili bir 
+defter  tutmak  zorundadır.  Bakım  ve  kontrolü  yapan  kişi  veya  firmalar,  asansör  seri  
+numaralarını ve yapılan işi ayrıntılı olarak deftere işleyip imzalamakla yükümlüdürler. 
+Asansörün  değiştirilen  parça,  aksam  veya  teçhizatı  eksiksiz  olarak  sözkonusu  
+deftere   işlenmelidir.Asansörün   aylık   bakımlarının   eksik,   hatalı   veya   yetersiz   
+olmasından dolayı ortaya çıkacak zararlardan, bakım ve kontrolleri yapan firma veya 
+kişiler sorumludurlar. 
+Bakım ve 
+Kontrol 
+A.E.700 
+16.11.2001
+ 
+ 
+ 
+21. Her  yük  veya  yolcu  asansörü  kabininde  görülebilecek  şekilde  aşağıdaki  hususları  
+içeren bir yazı veya levha bulunmalıdır:  
+(1) Asansörün    emniyetle    taşıyabileceği    azami    çalışma    yükü    ve/veya    
+taşıyabileceği insan sayısı, 
+(2) İmalatçı firmanın adı veya tescilli markası veya ünvanı, 
+(3) Asansörün seri numarası, 
+(4) İmal yılı ve ülkesi, 
+(5)    Asansör Hızı. 
+Yazı ve 
+Levha 
+Bulundurul-
+ması 
+ 
+ 
+ 
+    
+     A.E.700 
+    16.11.2001
+ 
+ 
+22. Dairenin gerekli gördüğü asansörlerde uygun bir yere kullanma talimatı asılmalıdır. 
+Kullanma 
+Talimatı 
+      A.E.700 
+16.11.2001
+ 
+ 
+23. Hiçbir yük veya yolcu asansörü, o asansöre muayene ve test raporu verecek yetkili 
+mühendislerin nezaretinde yapılacak testler dışında, azami çalışma yükünden daha 
+fazla bir yükle yükletilemez. 
+Azami 
+Çalışma 
+Yükü
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(1) Tüm  asansörlerde  kabine  giriş-çıkış  sağlayan  her  yere,  hem  kat  hem  de    
+kabin   kapıları   konulmalıdır.Yolcu   asansörlerinde   kabin   ve   kat   kapıları 
+otomatik  olarak  açılıp  -  kapanan  kapılar  olmalıdır.  Ancak  kat  kapılarının 
+otomatik   yapılmasının   mümkün   olmadığı   hallerde,bu   durumu   saptayan   
+müfettiş gerekçeli bir raporla konuyu Daire Müdürü'nün bilgisine getirir.Daire 
+Müdürü   söz   konusu   kuralın   makul   olarak   uygulanamayacağına   kanaat   
+getirirse  bu  durumda    Esas  Tüzüğün  5.  Maddesinde  belirtilen  Standartların 
+ilgili kuralları uygulanır. 
+(2) Asansörün  otomatik  kat  ve  kabin  kapıları,  kapanmaları  anında  kişilerin 
+tesadüfen  sıkışması  halinde  onlara  zarar  vermeyecek  şekilde  ve  otomatik  
+olarak geri açılabilecek şekilde yapılmalıdır. 
+(3) Asansör,kabininin   bulunduğu   durak   (kat)   dışında      kapının   açılmasını 
+önleyecek  ve  kabin    ve  durak  kapıları  kapalı  olmadıkça  duraktan  (kattan)  
+uzaklaştırılamıyacak şekilde  etkili  ve  birbiri  ile  kilitlenen  kilitler  veya  başka 
+aygıtlarla donatılmalıdır. 
+(4) Kapılar  yeterli  derecede  rijid    (elastiki    olmayan,    esnemeyen)    olmalıdırlar. 
+Yolcu asansörlerinde kafesli, kepenkli, akardion tipli ve/veya  kabin içerisine 
+dönerek  açılan  kabin  ve/veya  durak  kapıları  kullanılamaz.Dairenin  uygun  
+göreceği kramer tipi otomatik kapılar kullanılabilir. 
+(5) Otomatik   kapıları   açan   veya   kapayan   düzen   herhangi   bir   nedenle   
+çalışmadığında     kabin     veya     durak     kapıları
+,     dışarıdan     yetkililerce     
+açılabilmelidir. 
+(6) Yana kayan kapılar, altta ve üstte olmak üzere iki ray arasında kaymalıdır.  
+24. 
+(7) Kabin  ve  kat  kapıları,  kolaylıkla  ve  tam  olarak  açılıp  kapana  bilmelidir.  Elle    
+açılan  durak  (kat)  kapıları,  dışarıya  açılmalı  ve  tutamağı dışarıda  olmalıdır. 
+Durak  (kat)  kapıları  açıldıktan  sonra  bırakıldığı  zaman  kendiliğinden  tekrar  
+kapanmalıdır.  Ancak,    yük  asansörlerinde  kapının  açık  kalmasını  sağlayıcı 
+özel düzenek bulunabilir. 
+Kabin ve 
+Kat (Durak) 
+Kapıları 
+      A.E.700 
+16.11.2001
+ 
+          (8)          Kabin  kapılı  asansörlerde  durak  ve  kabin  eşikleri  arasındaki   aralık   35   
+milimetreden  fazla  olmamalıdır.Bunun  mümkün  olmaması  halinde  Dairenin  
+tesbit edeceği toleranslar geçerli olacaktır. 
+ 
+          (9)          Genel  hizmet  ve  ağır  hizmet  asansörlerinin  kat  ve  kabin  kapıları  kafesli,  
+kepenkli (giyotin), el ile açılan yarı otomatik  veya çift hızlı otomatik olabilir. 
+ 
+          (10)          Servis  asansörlerinin  asansör  boşluğundaki  yükleme  ve  boşaltma  yerleri  
+birer  kat  kapısı  ile  donatılmalıdır.  Bu  kapılar  kepenkli,  kafesli,  el  ile  açılan 
+veya yarı otomatik olabilir. Servis asansörlerinde kabin kapısı bulunmayabilir. 
+ 
+ 
+25. Asansörün çalışırken aşırı gürültü çıkarmaması için gerekli önlemler alınmalıdır. 
+Aşırı 
+Gürültü
+ 
+ 
+26. Her yük  ve  yolcu  asansör  boşluğu,  asansör  kapılarının  kapalı  olduğu  sürece 
+herhangi  bir  kişinin  bu  boşluğa    düşmesini  veya    asansörün    hareket  halindeki  bir    
+kısmı  ile  temas  etmesini  önleyecek,  emniyetli  bir  şekilde  yapılmalı  ve  idame  
+ettirilmelidir.  Her  yolcu  veya  yük  asansör  boşluğu  asansörde  taşınan  herhangi  bir  
+kişinin veya eşyanın bir kısmının, asansörün herhangi bir kısmı ile herhangi bir sabit 
+Geçitler, 
+Asansörler ve 
+Emniyet 
+A.E.700 
+16.11.2001 
+ 
+
+yapı  arasında,  ya  da  asansörün  denge  ağırlığı  ile  hareket  halinde  olan  başka  bir  
+parçası arasında sıkıştırılmasını önleyecek şekilde yapılmalıdır. 
+Asansör  makina  odasına  ve  durak  kapısına  giden  geçitler  ve  merdivenler  emniyetli  
+bir şekilde   yapılmış   olmalı   ve   idame   ettirilmelidir.Buralara   gereksiz   eşyalar 
+konulmamalı,    geçiş    engellenmemelidir.Merdivenler    sabitleştirilmiş    olmalı    ve    
+gerektiğinde yan tarafında korkuluklar bulunmalıdır. 
+ 
+ 
+ 
+(1)
+ Yolcu   asansörlerinde   uygun   imdat   çağrı   tertibatı   ile   duraklarda   kabini   
+çağıracak   bir   çağrı   tertibatı   bulunmalıdır.   Ayrıca,   kabin   ve   duraklarda,   
+kumanda  türü  ve  asansör  özelliğine  göre  Esas  Tüzüğün  5.  Maddesinde  
+belirtilen standartlarda  gerekli düğme, ışık ve işaretler  konulmalıdır.
+ 
+(2) İmdat çağrı tertibatı, elektrik kesintilerinden etkilenmemelidir. 
+27.
+ 
+(3) Basit   kumandalı   asansörlerde,   her   durakta   asansörün   meşgul   olduğunu 
+belirten ışıklı sinyal konmalıdır.
+ 
+ 
+(4) Kabin  ve  kat  kapılarının  penceresiz  olduğu  hallerde  kabin  içinde  kabinin  
+bulunduğu yeri gösterir ışıklı işaretler konulmalıdır. 
+Düğme ve 
+İşaretler 
+A.E.700 
+16.11.2001 
+ 
+ 
+ 
+(1)
+ Asansör  kabini,  uygun  şekilde  ve  yeterince  havalandırılmış  olmalıdır.  
+(2) Kabin içi ve gerektiğinde üstü aydınlatılmış olmalıdır. Bu ışıklandırma  düzeni, 
+asansör  tahrik  düzeni  akım  devresinden  ayrı  bir  devre  ile  beslenmelidir.  
+Normal  aydınlatmanın  yapılamadığı  zamanlarda  devreye  girmek  üzere  1  watt  
+gücündeki bir lambayı en az bir saat süreyle yakabilecek kapasitede, otomatik 
+şarjlı  bir  acil  durum  aydınlatma  düzeni  bulunmalıdır.Bu  aydınlatma  normal  
+elektriğin kesilmesi ile otomatik olarak devreye girmelidir. 
+28.
+ 
+(3) Kabin,  azami  çalışma  yüküne  uygun  bir  kafes  veya  şase  içine  monte  edilmeli  
+ve dengesiz yüklemelere karşı önlem alınmalıdır. 
+ 
+(4) Kabin  alanı  Esas  Tüzüğün    5'inci  maddesinde  belirtilmiş  olan  standartlara  
+uygun  olmalıdır. 
+Kabin 
+A.E.700 
+16.11.2001 
+ 
+ 
+ 
+(1) Kabin, belirli bir durağa gelmeden o kattaki durak kapısı ve kilitleri açılmamalı 
+ve  bütün  duraklardaki  kapılar  kapanmadan  ve  kilitlenmeden,  kabin  hareket  
+etmemelidir.  Kabin,  ancak  tüm  kapılar  kapandıktan  ve  kilitlendikten  sonra  
+hareket  etmelidir.  Kabin  hareket  halinde  iken  durak  kapılarından    herhangi  
+birinin kilidinin açılması halinde kabin durmalıdır. 
+(2) Otomatik   kapılar   dışındaki   durak   kapılarında,   kapıların   kapandığını   ve   
+kilitlendiğini kontrol eden en az iki elektrik kontağı bulunmalıdır. Bu kontakların 
+devreyi  kapaması  ile  asansör  çalışabilmeli  ve  herhangi  birisinin  tek  başına 
+açık devre olması halinde asansörü devre dışı bırakmalıdır.  
+29. 
+(3) Durak  kapısı
+  kilitlerinin  elektro-mekanik  parçalarında  normal  olarak  meydana  
+gelebilecek    aşınmalar    ve    elektriksel    kısımların    özelliklerini    yitirmeleri, 
+asansörü güvensiz duruma sokmamalıdır. Bütün elektro-mekanik kilitler uygun 
+bir şekilde  muhafaza  içine  alınmalıdır.  Kilit  düzenlerinde  kullanılan  yayların 
+bozulmasıhalinde, kilitler asansörü güvensiz duruma sokmamalıdır.  
+ (4) Kabin durakta durduğunda, durak kapısı kilidinin açılmasını sağlayan mekanik 
+düzenin bozulması asansörün çalışma güvenliğini etkilememelidir. Durak kapı 
+kilidi,  ancak  dışarıdan  özel  bir  anahtar  kullanılarak  yetkililerce  açılabilmelidir. 
+Elektro-mekanik kapı kilitleri çift güvenlikli olmalıdır. 
+Servis  asansörlerinde  kapı  kilitleri  çift  güvenlikli  olmayabilir.Ancak,  servis  
+asansörü  durak  kapısı  giriş  açıklığı,  döşeme  seviyesinden  veya  700  mm.yi  
+aşmayacak  bir  yükseklikten  başlıyorsa,  durak  kapıları  kabin  ilgili  durağa 
+Durak Kapısı 
+Kilitleri 
+ 
+
+gelmeden açılamıyacak şekilde kilitlerle donatılmalıdır.                                                                                    
+ 
+30. Karşı ağırlık  dökme  demir,  baryum  sülfat  veya  demirli  betondan  yapılmalıdır.  Karşı 
+ağırlık,  emniyetli  çalışma  yükünün  %40  -  %50’si  ile  kabin  ağrlığının  toplamı  kadar  
+olmalı  ve  çift  taraflı  uygun  iki  kılavuz  arasında  hareket  etmelidir.  Kabin,  üst  boşluk 
+sınır seviyesine geldiğinde karşı ağırlık daha aşağı inmeyecek şekilde düzenlenmiş 
+olmalıdır.  Karşı ağırlık,  asansör  boşlu
+ğunda  veya  karşı ağırlık  için  ayrılmış  özel  bir  
+boşlukta  bulunmalıdır.  Bu  Tüzüğün  38.  Maddesinde  asansör  boşluğu  için  aranan  
+şartlar, bu özel boşluk için de aranır . 
+Karşı Ağırlık 
+ 
+31. Her  kabinde,  kabin  iskeletine  bağlı  bir  güvenlik  düzeni  bulunmalıdır.  Güvenlik  
+düzeni, güvenlik halatı ve düzengeç tarafından harekete geçirilecek şekilde yapılmış 
+olmalıdır. 
+Güvenlik   halatının   çapı   en   az   6   milimetre   olmalıdır.   Taşıyıcı   halat   veya   
+bağlantılarında bir arıza olması veya kabinin izin verilen hızdan  daha büyük bir hızla 
+inmesi halinde, güvenlik düzeni düzengeçten otomatik  olarak kumanda alıp kabinin 
+hareketini  durdurmalı  ve  kabinin  düşmesine  engel  olmalıdır.  Ancak,  bu  düzen,  
+kabinin yükselmesi sırasındaki hızının en büyük  sınır hızını aşması halinde kabinin 
+hareketini durdurmamalıd
+ır. Sadece yaylarla tesbit edilmiş en az 4 halatla donanmış 
+kabinlerde  taşıyıcılardan  birinin  gevşemesi  ile  güvenlik  düzeninin  faaliyete  geçmesi  
+zorunlu değildir. 
+Bu  durumda  elektrikli  bir  güvenlik  devresi  asansörü  durdurmalıdır.  Kabinin  yukarı 
+hareketinde  en  büyük  hızın  aşılması  durumunda  da  durdurulması  istenildiğinde, 
+karşı ağırlığa ayrı bir güvenlik düzeni konulmalıdır. Güvenlik düzeni harekete geçtiği 
+anda  asansör  tahrik  düzeni  ve  frenlerini  çalıştıran  elektrik  akım  devresi  bir  elektrik  
+kesici ile kesilmelidir.
+  
+Bu durumda asansör ancak yetkili kişilerin müdahalesiyle çalıştırılabilmelidir.Kabin 
+güvenlik düzeni normal durumda ve güvenlik düzeni harekete geçtiği  zaman, 
+güvenlik düzeninde kullanılan halatın gerginliğinde azalma olmamalıdır. Bu halatın 
+kopması halinde gergi kasnağı altında asansörün hareketini durduracak bir elektrik 
+kesici olmalıdır. Güvenlik düzeni, bir elektrik devresi ile ilgili olmadan çalışabilmelidir. 
+Güvenlik 
+Düzeni 
+      A.E.700 
+16.11.2001 
+ 
+ 
+Düzengeç,    tehlike    anında    artan    kabin    ve    karşı  ağırlığın    aşırı  hızlarından 
+etkilenmeyecek şekilde  yerleştirilmiş  olmalıdır.    Düzengeç  harekete  geçtiği  anda,  
+asansör   tahrik   düzeni   ve   frenlerini   serbest   tutan   elektrik   devresinin   akımı 
+kesilmelidir. 
+32. 
+Aşağıda   belirtilen   durumlarda   karşı ağırlıklara   düzengeç   ve   güvenlik   düzeni      
+konulmalıdır.  
+a)  Kabin azami çalışma hızının 2.5 metre/saniye ve daha büyük     olması halinde; 
+b)  Kuyu dibinin bina tabanına kadar indirilmemesi halinde; 
+c)  Tahrik   düzeninin   redüktörsüz   olması   hallerinde,   redüktörsüz   tahrik   düzenli   
+asansörlerde  güvenlik  düzeninin  çalışmasını  kontrol  edebilmek  için,  düzengeç  
+makarası uygun yapıda ve çok basamaklı olmalıdır.  
+Düzengeç üzerine veya makina odasında uygun bir yerde düzengecin seri numarası 
+ve   çalışma   değeri   sökülmeyecek   ve   silinmeeyecek   şekilde   yazılı   olmalıdır. 
+Düzengeç  üzerinde  hız  ayar  mekanizması  varsa  bu  ayar  değiştirilmeyecek şekilde 
+mühürlü olmalıdır. 
+Düzengeç 
+ 
+33. Asansörün  askı    düzeninde,    birbiri    ile  bağımlı  olmayan    en    az    iki    askı  halatı 
+kullanılmalıdır.  Askı  halatları eşit  olarak  yüklenmeli  ve  eklentisiz  olmalıdırlar.  Bu    
+halatların  aynı  zamanda  başka  bir  iş  görmelerine  izin  verilmemeli  ve  halatlar    ayrı 
+ayrı   yerlere   bağlanmalıdır.   Askı   düzeninde   kullanılan   her   halat   ve   onların  
+bağlantıları,   kabinin   tüm   ağırlığını   ve   azami   çalışma   yükünü   taşıyabilecek  
+kapasitede olmalıdır.            
+Kabin  dibe  oturduğu  ve  asansör  motorunun  iniş  yönünde  dönmeye  devam    ettiği 
+Askı Düzeni 
+A.E.700 
+16.11.2001 
+ 
+
+hallerde   karşı ağırlık   yukarı   doğru   hareket   etmemelidir.   Karşı ağırlık   dibe   
+oturduğunda  ve  asansör  motoru  çıkış  yönünde  dönmeyi  sürdürdüğünde  kabin    
+yukarı doğru  hareket  etmemelidir.  Her
+ askı halatı üzerine halat çapını,  tel  sayısı  ile  
+kopma dayanımı ve halatın  işletmeye alınış tarihini gösterir metal bir levha asılmalı 
+veya  yukarıdaki    bilgileri  içeren  bir  belge  makina  odasında  görülebilecek  bir  yere  
+asılmalı  ve  idame  ettirilmelidir.  Askı  halatlarındaki  bağlamalar,  halat  telleri  örülüp  
+uçları   kelepçelerle   bağlanmış   durumda   metal   soket,   konik   soket   ve   benzeri   
+kullanılmak   suretiyle   yapılmalıdır.   Metal   dökümünden   yapılmış   konik   soketler   
+dışındaki  askı  yerlerinde,  halat  ile  sarıldığı  yer  arasına  halatın  zedelenmesini  
+önleyen  bir  parça  konulmalıdır.  Tamburlu  düzenlerde  kabinin  tampon  üzerine  
+oturduğu  ve  tamponun  sıkıştır
+ıldığı  durumda  askı  düzeninin  halatı  en  az  tambur  
+çevresinin 1.5 katı kadar   uzunlukta tambur üzerine sarılı kalmalıdır. 
+Tamburlu   asansörlerde,   halatların         uçları   sarılma   tamburuna,   tamburun   iç   
+tarafından  klemenslerle  (kelepçe)  veya    benzeri  bir  araç  yardımıyla  çözülmeyecek  
+şekilde bağlanmalıdır. 
+ 
+34. Tehlike  anında  veya  esas  akımın  kesilmesi  durumunda  kullanılmak  üzere  her  
+asansör tesisinde kabini emniyetli bir şekilde aşağı ve yukarı elle hareket ettiren bir 
+mekanik  kaldırma  ve  indirme  düzeni  bulunmalıdır.  Düzen  üzerinde,  kaldırma  ve  
+indirme  hareketi,  bakınca  görülebilecek  şekilde  bir  işaretle  belirtilmelidir.  Mekanik  
+kaldırma  ve  indirme  düzeni  kollu  olmamalı  ve  bu  amaçla  volan  veya  kapline  veya  
+benzeri bağlantı üzerine delik açılmamalıdır. Bu düzen kullanılırken elektriğ
+in tekrar 
+gelmesi  durumunda  asansör  tahrik  düzeni  ve  motorun  harekete  geçmemesi  için  
+gerekli güvenlik önlemleri alınmış olmalıdır. Her motor odasında o asansörle ilgili bir 
+kurtarma talimatı bulundurulmalı ve görülebilecek bir yere asılmalıdır. 
+Mekanik 
+Kaldırma 
+Düzeni
+ 
+ 
+35. Asansör    tahrik    düzeninde  ,  mekanik    olarak    frenleyen    ve    elektrik    düzeni    ile  
+frenlenmesini kaldıran bir frenleme düzeni bulunmalıdır. Bu düzen kabinin hareketini 
+en   kötü   koşullar   altında   durdurmaya   ve   bulunduğu   yerde   tutmaya   elverişli  
+olmalıdır.Frenleme düzeni en az iki balatalı olmalıdır. Fren balatalarını çalıştıran yay 
+bulunduğunda  yaylar  basınca  çalışmalıdır.  Bu  yayların  biri  arızalandığında,  diğeri 
+görevini  yapabilmelidir.  Motor  durduğu  anda  oluşabilecek  kısa  devre  veya  kalıcı 
+manyetik alan frenlemeyi engellememelidir. 
+Frenleme 
+Düzeni 
+ 
+ 
+ 
+36. Asansörde   hem   elektrikli   hem   de   mekanik   sınır   kesicileri   bulunmalıdır.   Sınır 
+kesicileri  diğer  cihazlara  bağlı  olmadan  alt  ve  üst  boşluk    sınırlarında  kabini    
+durdurmalıdır.  Mekanik  sınır  kesicinin  açılması  her  iki  yönde  de  motorun  hareketini    
+önlemelidir.  Elektrikli  sınır  kesici,  mekanik  sınır  kesiciden  önce  devreye  girmeli  ve  
+kumanda  devresini  açmalıdır.  Sınır  kesicileri  görevlerini  emniyetli  ve  uygun  bir  
+tarzda  yapacak  şekilde  olmalıdır.  Güvenlik  kesicisi  bulunan  asansörlerde,  elektrikli  
+sınır  kesicisi bulunmayabilir. Mekanik sınır kesici motor ve frenin akımını doğrudan 
+kesmelidir,  veya    motor  ve  fren  devrelerini  besleyen,  kontakları  seri  bağlı  iki  adet  
+kontaktörün bobin devrelerini  açmalıdır.
+ 
+Mekanik sınır kesici değişken gerilimli veya kademesiz hız ayarlı asansörlerde tahrik  
+tertibatını gecikmesiz olarak durdurmalıdır. 
+Basmalı kumanda ile çalışan servis asansörlerinde sınır kesici konmayabilir. 
+Sınır   ve 
+Güvenlik 
+Kesicileri 
+    A.E.700 
+   16.11.2001 
+ 
+ 
+Kabin tam kapalı tampon üzerinde otururken, ayni zamanda aşağıdaki şartları 
+yerine getirmiş olmalıdır. 
+(a) Kuyu   altboşluğunda,   bir   yüzü   üzerinde   duran,   boyutları   en   az   
+0,5*0,6*1,0 metre olan bir dikdörtgen prizmayı içine alabilecek bir hacim 
+bulunmalıdır. 
+37.     (1)     
+(b) Kuyu  tabanı  ile  kabinin  enalt  kısımları  arasında  en  az  500mm.  mesafe  
+Kuyu Dibi 
+ve Üst 
+Emniyet 
+Boşlukları 
+      A.E.700 
+16.11.2001 
+ 
+
+ olmalıdır.  Patenler,  güvenlik  tertibatı  parçaları,  kabin  eteği  ve  düşey 
+hareket eden kapı parçaları bu hesaplamada dikkate alınmaz. 
+  En  alt  durak  seviyesinden  kuyu  dibine  olan  mesafe  en  az  1400mm.  
+olmalıdır.  Ancak  montaj  izni  verilme  aşamasında  kuyu  dibi  derinliğinin 
+1400 mm yapılmasının mümkün olmadığı hallerde,bu durumu saptayan 
+müfettiş   gerekçeli   bir   raporla   konuyu   Daire   Müdürü'nün   bilgisine   
+getirir.Daire      Müdürü      söz      konusu      kuralın      makul      olarak      
+uygulanamayacağına  kanaat  getirirse  bu  durumda    Esas  Tüzüğün  5.  
+Maddesinde belirtilen Standartların ilgili kuralları uygulanır. 
+Asansör  kabini  en  üst  durağa  ulaştığında  karşı ağırlık,  alt  tamponundan  en    
+fazla  300  milimetre  yüksekte  olmalıdır.  Kabin  en  üst  durak  seviyesinde  
+durduğu zaman kabin üzerindeki teçhizatın en üst noktasından kuyu tavanına 
+olan mesafe aşağıdakilerin toplamından küçük olmamalıdır. 
+(i) Karşı ağırlıklı sistemlerde: 
+ (a)  600 milimetre 
+(b)  Kabin  üst  durak  seviyesinde  iken  karşı ağırlığın  alt  tampona  olan    
+mesafesi. 
+(c)  Tampon sıkışma mesafesi. 
+(d)  Asansörün  nominal  hızının  %115’ine  tekabül  eden  dikey  hızın 
+gravite  ile durma mesafesi. 
+ 
+(2) 
+(ii) Karşı ağ
+ırlıksız sistemlerde: 
+Kabinin  çıkabileceği  en  yüksek  noktadan  hesaplanarak  kabin  üzeri    
+teçhizatın en üst noktasından itibaren 750 milimetre.  
+Servis  asansörlerinde  alt  ve  üst  kuyu  emniyet  boşluğu  sınırlamaları 
+üretici firma standartlarına göre yapılabilir. 
+ 
+ 
+(1) Asansör  boşluğu  duvarları  tabandan  tavana  kadar  tuğla,  beton  perde,  çelik  
+konstrüksiyon  ve  benzeri  ateşe  dayanıklı  malzeme  ile  yapılmış  olmalıdır. İki 
+veya   daha   fazla   asansör   aynı   boşlukta   çalışıyorsa,   asansörler   arasına 
+tabandan başlayarak en az 2,5 metre yükseklikte tel kafes ve benzeri engeller 
+konulmalıdır.  Asansörler  arasındaki  mesafenin  300  milimetreden  az  olması 
+halinde ara bölme tabandan tavana kadar engellerle kapatılmalıdır. 
+Servis asansörlerinde asansör boşluğunun tabandan tavana kadar çepeçevre 
+olarak tel kafes veya benzeri malzeme ile kapatılmı
+ş olması yeterli sayılabilir. 
+Ancak bu takdirde, kafes tellerinin arası 35 milimetreden çok olmamalı ve tel 
+kafes ile asansörün hareketli parçaları arasında en az 100 milimetre uzaklık 
+bulunmalıdır. Ayrıca bu tel kafes, kafes telleri arası 13 milimetreyi aşmayan 
+ikinci bir tel kafesle korunmuş olmalıdır. İkinci kafesteki tellerin çapı 0.9 
+milimetreden az olmamalıdır. Panoramik asansörlerde asansör boşluğu 
+kuralları için Esas Tüzüğün 5. Maddesinde belirtilen Standartların ilgili kuralları 
+uygulanır. 
+(2) Alt  boşluk  su  sızdırmalarına  dayanıklı  olmalı  ve  tabanda  su  birikmemesi  için  
+gerekli  önlemler  alınmalıdır.  Boşluk  dibinin  bina  tabanına  kadar  inmemesi  
+durumunda,   boşluk   tabanında   en   elverişsşz   koşullara   göre   hesaplanan   
+dayanı
+klılık sağlanmalıdır. 
+(3) Asansör  boşluğunda  en  az  0,1  metrekare  veya  boşluk  kesit  alanının  en  az  
+0,1’i      kadar   doğrudan   doğruya   havaya   veya   makina   odasına   açık   bir   
+havalandırma  deliği  bulunmalıdır.  Bu  delik  su  ve  hayvan  tahribatına  karşı 
+korunmuş olmalıdır. 
+(4) Gerektiğinde  kullanılmak  üzere  ve  bütün  kat  kapıları  kapalı  olduğu  zaman    
+asansör boşluğu içi rahatça görülebilecek şekilde aydınlatılmalıdır. 
+38. 
+(5) Alt  boşluk  yüksekliğinin  2  metreyi  geçmesi  durumunda  boşluk  dibine  ya  kilitli  
+bir  kapı  veya  içine  asansörün  çalışmasına  engel  olmayan  sabit  merdiven  
+konulmalı
+dır.  Boşluk  dibine  konulan  giriş  kapısı  açık  olduğunda  asansörün  
+Asansör 
+Boşluğu 
+      A.E.700 
+16.11.2001 
+ 
+ 
+
+çalışmasını engelleyecek bir güvenlik şalteri konulmalıdır. Asansör  boşlukları 
+başka amaçlar için kullanılmamalıdır. 
+ 
+(6) Kuyu    dibinde  ve  kabin  üzerinde  istenildiğinde  asansörü  durdurmak  için  bir  
+elektrik kesici bulunmalıdır. 
+ 
+ 
+ 
+ 
+ 
+ 
+(1) Makine  dairesi  tuğla  veya  benzeri  ateşe  dayanıklı  malzemeden  yapılmış  
+olmalıdır.  Makine  dairesi  kapısı  metalden  yapılmalı  ve  yüksekliği  en  az  1800  
+milimetre  olmalıdır.  Zorunlu  durumda  bu  yükseklik  1500  milimetre  olabilir.  
+Kapı kilitlenebilmeli ve binanın ortak kullanma yerlerine açılmalıdır. 
+Makine  dairesi  döşemesinin  taşıyıcı  bölümü  çelik  veya  betonarme    olmalıdır. 
+Makina dairesi kapısı içeriye doğru açılmamalıdır. 
+(2) Asansör Boşluğu ve makina odası ile ilgili mukavemet hesapları ve veriler için 
+Daire  bildirim  formu  düzenler.  Bu  bildirim  formu,  ilgili  mühendis  tarafından 
+doldurulup imzalanır. 
+(3) Makine  temelleri  titreşime  karşı  bina  esas  yapı
+sından  yalıtılmalıdır.  Makine  
+dairesinin  aydınlatılması  asansör  motorunu  besleyen  devreden  ayrı  bir  devre  
+ile  yapılmalıdır.  Asansöre  ait  giriş  sigortaları  ve  asansörle  ilgili  diğer şalterler 
+makina dairesinde bulundurulmalıdır. 
+(4) Makine dairesinde uygun havalandırma yapılmalıdır. 
+(5) Makine   dairesi   giriş   yerine   “DİKKAT   TEHLİKE   -   YÜKSEK   GERİLİM” 
+ 
+“MAKİNA  DAİRESİNE  GİRMEK  YASAKTIR”  ifadelerini  taşıyan  bir  levha  
+asılmalı ve ilgililerden başkasının girmesi engellenmelidir. Makina dairesi kilitli 
+olmalıdır.  Bir  anahtar  asansörün  bakımından  sorumlu  olan    yetkili  bir  kişide, 
+bir  anahtar  da  kırılıp  anahtar  alınabilecek şekilde  camlı    bir  kutuda  ve  kilitli  
+vaziyette bulundurulmalıdır. Bu camlı kutu, makina  dairesi kapısının yanında 
+görülebilecek bir yere yerleştirilmelidir. Bu anahtar sadece acil durumlarda ve 
+bu acil duruma müdahale edebilecek yetkili kişilerce kullanılabilir. 
+39. 
+(6) Durak  kapılarını  acil  durumlarda  açmaya  yarayan  2  adet  özel  durak  kapısı  
+anahtarı  olmalıdır.  Bunlardan  biri  asansörün  bakımından  sorumlu  olan  yetkili  
+bir  kişide,  bir  tanesi  de  makina  dairesinde  ve  camlı  bir  kutu  içinde  olmal
+ıdır. 
+Bu anahtarlar asansörün bakımını yapan eğitilmiş kişiler veya itfaiye görevlileri 
+tarafından ve sadece acil durumlarda kullanılmalıdır. Acil durumlarda asansör 
+bakımını  yapan  firma  veya  kişiler  mutlaka  durumdan    haberdar  edilmelidir.  
+İlgili  asansörcü  ve  bina  sahiplerinin  yukarıda  belirtilen  kapı  anahtarlarının 
+makina  odasında  muhafaza  edilmesi    ve  kullanılmasının  güvenlik  açısından 
+sakıncalı  durumlar  yaratacağını  tesbit  etmeleri  halinde  sözkonusu  madde  
+kuralları  bu asansör için uygulanmayabilir. Ancak, böyle durumlarda Daire'nin 
+vereceği karar uygulanır. 
+(7) Makina odası başka amaçlarla kullanılmamalıdır. 
+ 
+(8) Yapısı  gereği makina odası  gerektirmeyen  asansörler  için  Esas  Tüzüğün      5.  
+Maddesinde belirtilen standartların ilgili kuralları uygulanır. 
+Makina Dairesi 
+ve Kapı 
+Anahtarları 
+A.E.700 
+16.11.2001 
+ 
+ 
+ 
+(1) Kumanda    düzenleri    ve    bağlandıkları    yerler,    yanmaz    ve    tutuşmaz 
+malzemeden  yapılmalıdır.  Kumandalara  ait  elektrik  devreleri,  ana  devreden  
+ayrı  olarak  sigorta  veya  benzeri  malzeme  ile  ayrıca  korunmuş  olmalıdır. 
+Normal   kumandalı   asansörler,   kabin   durduktan   sonra   en   az   3   saniye   
+içerisinde   dışarıdan   yeni   bir   kumanda   almamalıdır.   Toplamalı   ve   grup   
+kumandalı  asansörler  kabin  durduktan  sonra  en  az  3  saniye  içerisinde  
+harekete geçmemelidir. 
+40. 
+(2) Asansörlerde  asansörü  en  alt  ve  en  üst  durakta  durdurmak  için  devrenin  
+Elektrik 
+Techizatı 
+ 
+
+açılması doğrudan doğruya bir yayın çalışmasına veya başka bir elektrik 
+devresinin tamamlanmasına bağlı olmamalıdır. 
+En alt ve en üst duraklarda limitler aşıldığında veya tehlike anında durdurma 
+düğmesi  veya  diğer  güvenlik  düzeninin  çalıştırılması  durumunda  asansörü  
+durdurmak için makina freninin uygulanması ve asansör motorunu  besleyen 
+güç kaynağının kesilmesi amacıyle kullanılan kumanda sistemi  herhangi bir 
+elektrik   devresinin   tamamlanmasına      ya   da   sürdürülmesine      bağlı 
+olmamalıdır. 
+(3) Akım  kesildiğinde  veya  kumanda  devresine  akım  gelmediğinde  kumanda  
+düzeni asansörü kendiliğinden durdurulmalıdır. 
+Üç   fazlı   alternatif   akım   kaynağ
+ına   bağlı   doğru   akımla   tahrik   edilen      
+asansörlerde  kumanda  düzeni,  faz  gerilimi  değişmesi  veya  faz  akımının 
+kesilmesi durumunda motor devreden çıkacak şekilde düzenlenmiş olmalıdır. 
+(4) Kumanda devreleri bir topraklama hatası, açık devre veya bir kondansatörün 
+çalışmaması  veya  boşalma  nedeni  ile  güvensizlik  yaratamayacak  şekilde 
+düzenlenmelidir. 
+(5) Hareket yönünü değiştirme kontakları, mekanik ve elektrikli veya ön röleli çift 
+elektrikli olarak aralarında bağımlandırılmış olmalıdır. 
+Gereken  yerlerde  rölelerin  ve  kontakların  uygun  bir  sırayla  çalışmaları  için    
+elektrikli kilitleme sağlanmalıdır. 
+(6) Hızı  1.6  metre/saniyeden  çok  olan  asansörlerde  kat  seçicisi,  şerit  tel  ve  
+benzeri   malzeme   aracı
+lığı   ile   geçiriliyor   ise,   bunların   kopması   veya   
+gevşemesi    durumunda  asansör  makinasını  durdurmak  için  elektrik  kesicisi    
+bulundurulmalıdır. 
+(7) Asansör  motoru  devresinde  bulunan  ve  motoru  durduran  kontaktörlerin  
+kontakları  metal  ise,  bu  durumda  devrede  en  az  bir  bağımsız  kontak  daha    
+bulunmalıdır.  Kumanda    tablolarına  giriş  ve  çıkış  kabloları  belli    olacak    
+şekilde işaretlenmelidir. 
+(8) Makina  dairesine  her  asansör  için  akım  giriş  sigortaları  ve  ana  kesicinin    
+bulunduğu    bir  tablo  konulmalıdır.  Birden  çok  asansörün  ana  kesicileri  
+birarada   bulunuyorsa,      ayırdedici      işaretler  konulmalıdır.  Ana  kesicinin  
+açılması (akım kesilmesi) durumunda, asansör frenlenmelidir. 
+(9) Asansörün  gerekli  tüm  kısımları  uygun  şekilde  topraklanmalıdır.  Kılavuz 
+rayları topraklama eleman
+ı olarak kullanılmamalıdır. 
+(10) Kumanda  devrelerinin  kabloları,  diğer  devrelere  ait  kablolardan  boru    ve  
+benzeri  yardımıyla  ayrılmalıdır.  Kabin  kablo  kutusuna  gelen      kabloların 
+nereye ait oldukları işaretle belirtilmelidir. 
+(11) Kabin  içi  kumanda  butonlarında  kullanılan  elektrik  voltajı  70  Volt’dan  fazla    
+olmamalıdır.  Kumanda  panosunda  gerekli  olan  düşük  gerilimleri  elde  etmek  
+için    kullanılan    trafo    ve    redresörler    ilgili    mevzuata    uygun    olarak    
+topraklanmalıdır. 
+(12) Asansör  makina  odalarında  ana  akımı  kesici  şalter,  girişe  yakın,  engelsiz  
+ulaşılabilecek bir noktada olmalıdır. 
+(13) Her asansörü ayrı ayrı kontrol eden asansöre ait şalterler, asansör motorunu  
+ve kumanda
+ panosunu görebilecek uygun yerde monte edilmelidir. 
+ 
+ 
+(14) Asansörün   genel   toprak   kaçağı   koruması,   bağlı   olduğu   sayacın   diğer 
+besleme noktalarından bağımsız olarak sağlanmalıdır. 
+A.E.700 
+16.11.2001 
+ 
+41. Asansör  kuyu  çukuruna  sağlam şekilde  tesbit  edilmiş  tamponlar  konmalı ve kabin 
+en  alt  işletme  noktasından  aşağıya  gittiği  takdirde,  kuyu  tabanından  daha  yukarı 
+seviyede bulunan bu tamponlar tarafından durdurulabilmelidir.Karşıağırlığın altında 
+da tampon olmalıdır. 
+Servis asansörlerinde tampon kullanılması zorunlu değildir. Ancak servis 
+asansörlerinin bir koridor, oda, işyeri ve benzeri bir yerin üst tarafında çalışması 
+Tamponlar 
+A.E.700 
+16.11.2001
+ 
+
+durumunda uygun ve yeterli tamponlar kullanılmalıdır. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DÖRDÜNCÜ BÖLÜM 
+ÇEŞİTLİ KURALLAR 
+Esas  Tüzüğün  yürürlüğe  girdiği  tarihten  önce  (15/6/1993)  mevcut  olan  binalar  ile  
+15/6/1993    tarihinden  önce  K.T.M.M.  Odaları  Birliği'nden  projesi  vizelenmiş  olan  
+binalarda   aşağıda   belirtilen   hususların   makul   olarak   uygulanmasının   mümkün   
+olmadığı  hallerde,  bu  durumu  saptayan        müfettiş,  gerekçeli  bir  raporla  konuyu  
+Daire Müdürünün bilgisine  getirir. Daire Müdürü söz konusu kuralların makul olarak  
+uygulanamayacağına   kanaat   getirirse,   bir   belge   ile   böyle   bir   asansörü   bu      
+kurallardan muaf tutabilir. Böyle bir muafiyet, muafiyet belgesinde belirtilen koşullara 
+bağlı  olabileceği gibi herhangi bir koşula bağlı olmayabilir. 
+(1) (a) Alt ve üst boşluk yüksekliği ile ilgili konular, 
+(b) Asansör kuyu boşluğu ile ilgili detaylar, 
+(c) Karşı ağırlık ile ilgili detaylar, 
+(d) Makina dairesi detayları, 
+       (e) Kabin  ve kabin kap
+ısı ile ilgili detaylar. 
+42. 
+(2) 
+Asansör  hızının  1  metre/saniyeden  daha  küçük  olması  halinde  kabin  kapısı  
+şartı  aranmayabilir.  Ancak  böyle  bir  durumda  aşağıdaki  emniyet  önlemleri  
+alınmış olmalıdır. 
+(a)  Biri  kabin  zemininde  en  fazla  10  santimetre  yükseğe,  diğeri  ise  
+zeminden  60  ile  120  santimetre  arasında  bir  yüksekliğe  konulacak  en  az  
+iki fotosel bulunmalıdır. 
+Bu   fotosellerden   herhangi   birinin   önüne   geçildiği   zaman   kumanda   
+sistemindeki tüm kumandalar iptal edilmelidir. 
+(b) Kabin zeminine konulacak fotoselin yerine, kabin tabanı ile bina duvarı 
+arasına bir emniyet eşiği (safety sill) de kullanılabilir. Bina duvarı ile kabin 
+zemini   arasına   herhangi   bir   cisim   sıkıştığı   anda   bu   emniyet   eşiği, 
+elektriksel    olarak    asansörü    durdurmalı    ve    tüm    kumandalar    iptal        
+edilmelidir. 
+(c)  Kuyu  duvarı  ile  kabin  yanı  ve  zemin  kenarları  arasında  azami  20  
+milimetre mesafe bulunmalıdır. Kuyu duvarları
+nın kapı tarafındaki cephesi 
+ile kat kapılarının düz ve kaygan bir yüzey teşkil etmesi gerekmektedir. 
+(d) Kabinde bir durdurma düğmesi olmalıdır. 
+Asansörlerde 
+Muafiyetler 
+A.E.700 
+16.11.2001
+ 
+ 
+ 
+42A. Hidrolik asansörlere Esas Tüzüğün 5. Maddesindeki standartlarda belirtilen kuyu 
+boşluğu, makina odası ve asansörle ilgili boyut ve emniyet tedbirleri uygulanır. 
+Hidrolik 
+Asansörler 
+     A.E.700 
+16.11.2001
+ 
+ 
+BEŞİNCİ BÖLÜM 
+SON KURALLAR 
+ 
+43. Bu  Tüzüğe  ekli  olduğu  ilgili  maddelerinde  belirtilen  ve  kendilerine  atıf  yapılan 
+Cetveller, bu Tüzüğün ayrılmaz ve bölünmez birer parçası sayılır. 
+Cetveller 
+ 
+ 
+
+(1) Bu  Tüzükte  öngörülen  yükümlülükleri  yerine  getirmeyen  veya  ona  aykırı  
+hareket edenler, bu Tüzüğe karşı suç işlemiş olurlar. 
+(2) Yukarıdaki  (1)'inci  fıkrada  belirtilen  suçu  işleyenlerin  tesbiti  halinde    bu  suçu  
+işleyenler  hakkında,  Daire  tarafından  ,  değiştirilmiş  şekliyle  22/1992  sayılı İş 
+Yasası'nın  72'inci  maddesinin  (1),(2),(3),(4)  ve  (5)'inci    fıkralarında  öngörülen  
+idari para cezası kuralları uygulanır. 
+44. 
+(3) Yukarıdaki (1)'inci fıkrada belirtilen suçun değiştirilmiş  şekliyle 22/1992 sayılı 
+İş  Yasası'nın  72'inci  maddesinin  (6),  (7)  ve  (8)'inci  fıkralarında  öngörülen  
+kapsamda olması halinde, konu suçu işleyenler hakkında yargı işlemi ba
+şlatılır 
+ve  mahkumiyetleri  halinde  yetkili  mahkemece  değiştirilmiş şekliyle  22/1992  
+sayılı İş  Yasası'nın  72A.  maddesinin  (8)'inci  fıkrasında  öngörülen  cezaya  
+çarptırılabilirler. 
+Yetkili  mahkeme  vereceği  cezaya  ek  olarak  değiştirilmiş şekliyle  22/1992  
+sayılı İş  Yasası'nın  72A.  maddesinin  (9)  ve  (10)'uncu  fıkrası  kurallarının  da  
+uygulanmasını emredebilir. 
+Suç ve 
+Cezalar 
+   A.E.422 
+   6.7.2000 
+ 
+ 
+ 
+45. Bu tüzük, İş Yasası’na göre ve onunla birlikte uygulanır. 
+Uygulama 
+22/1992
+ 
+ 
+46. Bu  Tüzük,  Bakanlar  Kurulu  adına  Çalışma  işlerinden  sorumlu  Bakanlık  tarafından 
+yürütülür. 
+Yürütme 
+ 
+ 
+47. Bu Tüzük, Resmi Gazete’de yayımlandığı tarihten başlayarak yürürlüğe girer. 
+Yürürlüğe 
+Giriş
+ 
+ 
+BİRİNCİ CETVEL 
+(Madde 11 (2)  ) 
+ 
+Asansör Cihazının                                                          Ücreti                                                          (Türk                                                          Lirası) 
+(1) İmal İzni                                                                                                       25,000,000.-                                                                                                       
+(2) Montaj, Tadilat İzni                                                                                      25,000,000.-                                                                                      
+(3) İşletme İzni      12,000,000.-  
+(4) Ön İzni                                                                      
+ 12,000,000.- 
+ 
+ 
+ 
+ 
+ 
+ 

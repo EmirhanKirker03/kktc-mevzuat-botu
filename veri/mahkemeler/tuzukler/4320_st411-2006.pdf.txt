@@ -1,0 +1,242 @@
+
+
+1076
+Sayý: 411
+;  TELSi4 TELGRAF YASASý
+(Fasýý 307 ve 11/1970, 251 1"974, 37/1976'\le'S/1986 Sayýlý Yasalar)
+'"  , ---'~ \--:-: ,--~-?-- ,
+, Madde 6.(1) AltJridaY~pllan Tüzük.
+v ,.. e; ."'. 'c. "
+Kuzey Kýbrýs Türk Cumhuriyeti Bakanlar Kurulu, Fasýý 307 sayýlý Telsiz Telgraf
+Yasasý'ný~ p'ncý ma~desinin \~)'inci fl~ra.~,lnIJl .~en<;tine verdiði yetkiyl kullanarak
+aþaðýdaklTüz,üðüyapar: '~",...,. ""ý?"'1 ~"'l! ., '.
+" ..c" " ~
+Kýsa isim i.Bu Tüzük" Telekomünikasyön Dairesi, Geniþ Band Kablosuz Eriþim
+Sistemleri Tüzüðü " olarak isimlendirilir.
+Tefsir" :,~.~BU..rüzükte"m~tinb~þ~a t~rlQ 9~rektirme9!,k~; ,
+J, ,.ý-,., ."i!'f',~,~... "...,A!ýý,.,.ý,. ;(""''1 IJtf ,,:,,)1
+., ,".; ý :; ; '~ ..&
+.\, '(1) "Idare" :  i"  :,bv"!,: Kuzey Kýbrýs TQrk GumhurÝ.yeti;Telekomünikasyon Dairesi'ni
+."O-
+i"!hit., .
+-,..,.", aa/rc' ' /.' ,
+~lý.i.\ý:J.~)jj'r;!r,.:.l.r;.'ý,,!,.) ~lP;:';1(,-: '~~i~, '...1.1;u~ý.(
+(2) Bu Tüzükte kullanýlan kýsaltmalarýn açýlýmý þöyledir: }:!1;-! ý! 3..,.,
+"  ECC", :  Electronic Communications Committee (Elektronik Haberleþme
+:"':~,bf:ý Komitesi). ,i 'ý' );', ; ':
+.., "TPC", \.  ~mnCi :  Transmit PowerC.ontrol (QýkýÞ Gücü Kontrolu ). : ;3 ~i,
+"  ETSI" ;,. ýinif~.t : Avrupa TelekomOnikasyon Standartlar) Enstitüsü.
+"ITU-R", ...;ýlÝ$h ~.; {,:,Uluslararasý Telekomünikasyon Birliði -Radyokomünikasyon
+sektörü.
+"CEPT", : Avrupa Posta ve Telekomünikasyon Idareleri Konferansý;
+"erp", : Etkin yayýlým gücü.
+" eirp", : Eþdeðer izotropik yayý/ým gücü.
+"
+mW" ..
+Mý.I.
+,Watt, i;;mf:l :;, ..,' ý
+C"fI "dBm", .1w U,i : 1 m\'V;refer~nþ~lýn.an desjb~l. 'i
+r"~ "ERC", '~i:'i""ý :European fi'adiocpmmunicatiOfls Committee (Avrupa
+i  , ';I~!~J Radyokol11üni~asyon Komit~~i),
+"HIPERLAN~,I~'i .~,:High.PerformaAce Radi,o,~~çaIArea Network (Yüksek
+performanslý radyo lokal alan þebekesi)
+."RLAN", ,"', : Radio Local Area Network ( ~~dyo lokal ~Ian þebekesi)
+,:DF;Þ';,\., 11!\J"" :Dyn~~ic Freq,yency Sele9t~?n~,9\namik Frekans Seçicifiði)
+"  , .n~G,
+ý;\  ..~, ..Decýsýon (Karar\
+"..,"1'."""""-""';" -";.f.'!c;..,lf.~.4"..li:"",I~.,.,U)
+,1 "'..!'i: (~;~f"':'., :: ~'ý.;T":lq) ho:, ~1t:"'..t'~!;!'"r;
+"';"'ka~~a~~;;:3~~ TüzGk, Telsii 1"tJ(ðr~f jYa~a'§; i~htýnda çýkarýlan yürürlükteki
+Telekomünikasyon Dairesi, VHF/UHF Kara Deniz Telsiz Sistemleri ve
+Telsiz çaðrý Sistemleri Tüzüðü kapsamýna giren ve 5.47- 5.725 GHz ve
+5.725 -5.875 GHz frekans bandlarýnda çalýþan Geniþ Band Kablosuz
+.: çriþim Sist~mlerini k~psar. ..
+{GII;",(' .,yý" ýý.' 'Ilc""
+...
+.:' ::
+
+1077
+4. Bu Tüzüðün amacý, Geniþband Kablosuz Eriþim Sistemleri'nin Avrupa
+Elektronik Haberleþme Komitesi'nin, ECC/DEC/(O4)O8 nolu kararý ve
+Avrupa Parlamentosu ve komisyonu'nun 1999/5/EC sayýlý direktifi
+doðrultusunda teknik standartlarýný, imal, ithal ve kullaným esaslarýný
+belirlemek ve standartlara uygunluðun ülke düzeyinde uygulanmasýný
+saðlamaktýr.
+Amaç
+5. Bu Tüzük kapsamýna giren Geniþ Band Kablosuz Sabit Eriþim
+Sistemleri'nin münferit veya toplu ithalinden önce,' ITU ve/veya Ersý
+Tarafýndan belirlenen standartlara ve/veya ECC/DEC/(O4)O8 ile
+1999/5/EC nolu AP direktifine ve Idarece kabul edilen standartlara
+uygunluðunun tesbiti amacý ile aþaðýda belirtilen evraklarla Idareye
+müracaat edilmesi gerekir.
+ithal
+Esaslarý
+(1)Yazlll baþvuru,
+(2)Orijinal proforma fatura,
+(3)Teknik broþür,
+(4)Sistemlerin ITU ve/veya ETSý tarafýndan belirlenen standartlara ve/veya
+ECC/DEC/(O4)O8 ve 1999/5/EC'ye uyumluluðunun beyan edildiði ve
+onaylanmýþ bir kuruluþtan (Notified Body) alýnmýþ standartlara
+uyumluluk sertifikasý.
+Sertifika ibraz edilememesi durumunda, ürünler üzerinde CE
+damgasý ve onaylamýþ kuruluþun (Notified Body) ID'si olmasý
+gerekmektedir. Idare gerektiði durumlarda, teknik kontrol amacý ile
+cihazlarýn geçici ithalini isteyebilir.
+Evraklarýn ve Sertifikalarýn uygun bulunmasý halinde sistemlere
+uygunluk belgesi verilir. Uygun bulunmayan sistemlerin
+ithaline izin verilmez.
+Kullaným 6. Bu Tüzük kapsamýnda yer alan ve uygunluk belgesi
+Esaslarý verilen Geniþ Band Kablosuz Eriþim Sistemleri frekans
+tescillerine gerek olmaksýzýn aþaðýdaki kurallara uymak
+koþuluyla kullanýlabilirler.
+(1) Bahse konu sistemlere, mevcut teknik özelliklerini deðiþtirecek (  çýkýþ gücünü
+artýrmak, frekans bandýný deðiþtirmek, modülasyon türünü deðiþtirmek v.b)
+tadilat veya ilaveler yapýlamaz.
+(2) Idareden uygunluk belgesi alýnmamýþ sistemler tesis edilemez ve
+kullanýlamaz.
+(3) Sistemin montajýna izin verilen mahalden baþka bir mahale taþýnmasý ve
+monte edilmesi durumunda idareye yazýlý bilgi verilmesi gerekmektedir.
+(4) Bu Tüzük kurallarýna aykýrýlýk tesbit edilmesi halinde Idare, uygunsuz olarak
+tesbit ettiði bir sistem veya uygulamayý durdurmaya, sistemleri kapatmaya
+veya sistem ve aksamlara el koymaya yetkilidir.
+(5) e-Bir kablosuz geniþ alan þebekesi, kapsama alaný Telekomünikasyon Dairesi
+santral alan kodlarý ile sýnýrlandýrýlmýþ lokal alan kablosuz þebekelerinden
+oluþmaýýdýr. Santral alan kodlarý, VYYXXXX þeklindeki yedi haneli telefon
+numarasýnýn ilk üç hanesinden (YYY) oluþmaktadýr. Herbir lokal alan kablosuz
+þebekesinin ýP baðlantýsý, servis sunucusu arasýndaki irtibat ve lokal alan
+kablosuz þebekeleri arasýndaki irtibat Telekomünikasyon Dairesi altyapýsý
+l!Jfi~
+'Yasafarw'KPra1f4lr
+
+1078
+üzerinden saðlanmalýdýr. Bu Tüzük kapsamýndaki sistemler kullanýlarak lokal
+alan kablosuz þebekeleri arasýnda baðlantý yapýlamaz.
+Ücretler 7. Münferit veya toplu ithal amaçlý uygunluk izni için baþvuruda bulunulan
+her fatura için 20 YTL baþvuru ücreti Idareye ödenir ve
+ödendi belgesinin kopyasý, yazýlý baþvuruya eklenerek Idare' ye verilir.
+Bu madde kurallarý, devlet güvenliði ve kamu yararý bakýmýndan
+ilgili olan resmi kurum ve kuruluþlara, ilgili bakanlýðýn onayý ile
+uygulanmaz.
+Teknik
+Özellikler
+8. Çok sayýda kullanýcýnýn ayni frekans bandýnýn ortak kullanýmýna
+açýk bu sistemlerde aþaðýdaki teknik özellikler aranacaktýr.
+(1)- A Tipi Sistemler:
+2.4 -':'2.4835 GHz ve 5.15 -5.35 GHz frekans bandlarýnda çalýþan geniþ band veri
+gönderme sistemleri olup; standartlarý, imal, ithal ve kullaným esaslarý
+'Telekomünikasyon Dairesi, Kýsa Mesafe Eriþimli Telsiz Cihazlarý Tüzü~ü' ile
+düzenlenmiþtir.
+(2)- B Tipi Sistemler:
+Frekans Bandý
+Çýkýþ Gücü (Max
+Kullaným Tipi
+Ilgili Standartlar
+EN 301 893,
+5.470-5.725 GHz4.e
+1 W 1,2,3,5
+LAN
+Mobil ve
+uygulamalarý
+Sýnýrlý çýkýþ gücüne baðlý olarak iç veya dýþ mekanlarda kullanýlabilir.
+(3)- C Tipi Sistemler:
+Frekans Bandý
+Çýkýþ Gücü
+(Max.) i
+2  W 1,7,8 i
+Kullaným Tipi
+Ilgili Standartlar
+5.725 -5.875 GHz4.sDraft EN 302502
+Sabit Uygulamalar
+Sýnýrlý çýkýþ gücüne baðlý olarak iç  veya dýþ mekanlarda kullanýlabilir.
+(A) maksimum mean e.i.r.p ( antenin i  antenlerin maksimum toplam çýkýþ gücü)
+(B) Verici kýsmýnda en az 3  dB çýkýþ gücü azaltmasýna imkan verecek güç azaltma
+imkaný (TPC: Transmitter Power Control).
+(C) Maksimum mean eirp yo~unlu~u 50 mW/MHz'j aþmayacaktýr.
+4)fi
+~
+'Yasafarw'KPratfar
+
+1079
+(Ç) Kanal aralýðý gerekmiyor. tüm band kullanýlabilir. Cihaz bu banddaki tüm taþýyýcý
+frekanslarda çalýþabilmelidir.
+(O) TPC (Transmitter Power Control) olmamasý halinde maksimum mean eirp çýkýþ
+gücü 500 mW ve buna mukabil mean eirp yoðunluðu 25mW/MHz olmalýdýr.
+(E) DFS (Dynamic Frequency Selection) donaným! olmalýdýr, radar s;nyali var olmasý
+halinde eþkanal çalýþmayý önlemelidir.
+(F) Max. EIRP'e göre en az 19 dB çýkýþ gücü azaltma imkaný (TPC) olmalýdýr.
+(G) Max. EIRP' te güç yoQunluQu 100 mW/MHz' i aþmamalýdýr.
+(4) 3.'48 -3.50 GHz, 3.58 -3.60 GHz ve 3.605 -3.689 GHz. 3.925 -4.009 GHz
+frekans bandlarý ileri kullaným amaçlarý için rezerv edilmiþ olup, bu frekans
+bandlarýnda çalýþan sistemlere izin verilmez.
+Enterferan. 9.(1) Bu Tüzük kapsamýna giren cihazlarýn çalýþma frekanslarý ortak
+kullanýma açýk olduQundan enterferanslara karþý korunmamýþ olup,
+tahsis ve tescil edilmiþ frekanslardaki diQer telsiz sistemlerinin
+çalýþmasýndan meydana gelecek enterferanslarý kabul etmek
+zorundadýrlar.
+(2) Bu cihazlarýn kullanýcýlarý, tahsis ve tescil edilmiþ
+Frekanslarda çalýþan diQer telsiz sistemleri (öncelikle hava ve
+deniz seyrüsefer) ile radyo ve televizyon alýcýlarýnda zararlý
+enterferansa sebep olamazlar. Böyle bir enterferansýn
+meydana gelmesi halinde, faaliyetlerini enterferans
+giderilinceye kadar derhal durdurmak zorundadýrlar.
+(3) Þayet enterferans, cihazý n  teknik özelliklerinden kaynaklanýyorsa,
+imalatçýlar ve ithalatçýlar üretim ve satýþlarýný sorun giderilinceye
+kadar durdurmak zorundadýrlar.
+Diðer
+Hususlar
+10. Idare tarafýndan uygun görülmesi halinde CEPT, ERC, ECC tavsiye
+kararlarý ile ETSI ve ITU tarafýndan yayýnlanacak standartlar
+ve frekans planlamalar. referans alýnarak, bu TQzükte belirtilen
+frekans bandlar. ve sistem teknik özellikleri deOiþtirilebilir veya
+yeni sistem ve cihazlarýn kullanýmýna ve ithaline izin verilebilir.
+11.(1)Bu Tüzüðün yayýn tarihine kadar herhangi bir þekilde elde edilmiþ
+ve devreye verilmiþ veya verilmemiþ bu tOzük kapsamýna giren
+sistemler,bu TOzük kurallarýna uygun hale getirilmelidir. Bu amaçla
+BuTOzOðOn yayým tarihinden itibaren en geç Oç (3) ay içerisinde
+bu tar sistemlerin varlý~ý, montaj mahalli ve kullaným amacý.
+iþleticisi tarafýndan Idare'ye beyan edilmelidir. Idarenin, süre
+sonuna kadar beyan edilmeyen ve varlýðý tesbit edilen sistemleri
+susturup elkoyma ve sahipleri ve/veya iþletmecileri hakkýnda
+yasal iþlem baþlatma hakký vardýr.
+Geçmiþ
+Uygula-
+Malar
+~
+~
+'Yasafdrw'KPratfar
+
+1080
+için gerekli Tüzük kurallarý uygulanýr. 'cc;:;'-', )!i"f~~(ý'týJ' ?'-i!j ~:.1~
+~Yürütme 13. Bu Tüzük, Telekomünikasyon Hizmetlerinden sorumlu Bakanlýk
+Yetkisi tarafýndan yürütülür.
+Yürürlüðe 14. Bu Tüzük, Resmi Gazete'de yayýmlandý~ý tarihten baþlayarak
+Giriþ yürürlü~e girer,
+,;ý!E;b,;ý
+m11C (',ý " ',,' '..
+~ý',",!t1'~ ;;:1,'_\ "'" \,: "':;'!":"~~ l"'; r.:;;;,~ L'!;\~"
+9:," f;V.j,' ".!:je;:;(;,; ':  i  ,,",,\ý;,,'j~i,.: ~:i\... ;C:'" '16?,liq .':. ";'-:;~ ,,;,-,
+,.-,~~';.."; $l:':I"':;;..J,i" '.., ,::' ýS' ~V \~\;i;, ':J':, i j';j," i!'" ."",;st
+1:', rý;:,;,~tý~,til'; ,'" ::i'!Ôt. \5i~\;I;;"c",,') 1:,3()\ ,;  ": ..-,' ';s't,
+';\~ý~"t\~;r; ;rý:,5!J",'{ , vi.':;,: i  1".';d .,";,',,' -, 1[[,
+\~'11~\)rý,3c:):S ,4~:;')1,.. týi;. ;~",,~';)" ' :", i~'( ;.' ","r
+,Ý.}!:';O'(týic:ý;.;n,:":it :'9bý,httf,I!i!I. ...jým :- :; ;i';)'" :"\l.i? ýt:)
+~~J\"i!;,:)" ý;!"Ii.'ý! ýnýýf,!;~'j::;" c',, ;i..,!!,-'. ~1j c', )""',:;:o::t1~
+i~j' ~C:J'-' ý"~ .1" ,: 'jr~ r,;T"~.S~
+~.~ :~;R:.. '.:.; !,bi ;.\:;;.c~,,;'r1.'.' "";~,r,'r,j,f 'i:f:."sý':;;.:G~)i te-
+'si ,t" "'~ji:'i\1.!",~ 'dbrý;'~r'f:ý ;lý ;.,:'; ,~; if;: ..1' ,ýs';
+:' .f _..'!~')S;U-; :,' I:;..:' .:, t.""'~; :;:;, r  "jrý .'\~ ,.'r!"~c;,.;l 5'1
+,c" -Iý~!!j.'4}i)lt~.it,:,.r .."~~{':,; LÝ, )~\ -n",t:'i~ J ",," .,:; ;;;;13)/~ýt
+1"U'..1!" '.' ,:,'" "ifý~ý",-;j;..)~ ";-'3Ý~I.';':J ;", ,t~ i.ýfl\
+~',"lý,;."..,
+..",.i""'."11j..')"ý':',.,ý",""';c"", "";'.I"'\J;"'j"i' y. ..-ý... ,",.~, ",~oýý",~", ~~..",_.J
+i~ ;":,g ,;-';,1,.:..,,"; ;;ýj~iJ1 Jtj -ir"öm\i f"ý"i,c,: JV-1ýc'-:.t
+..;,:i~r;;J;~' ,'.);';,)'-;") 3:,~.~ !,'~R\ý.J':r"ý~ 1),'Ý.'i T;",,1~"ri.ý
+et:i?'ý,,? 'C" (. ;f;}('o' ,;-',15').1 :,t..1;'.,ct',,1,!!.("~V;,'~;::;
+'~Ý..("I" ;i1...1r,;~,;, $ ;11,,11..1 \- "'1 ~,"'i$': (,;"".\,""'1,:1,,;:;: .":
+ôý,jr "'il'l~lf ~!' ,';1"';1 ýe.,:'~ýl ."I.,;)\..:.\;..! (,~ ,'ý,,; ..:1
+;j~:r;',"': -.:: '..:iii.:t; 1;..." ',:;:,t;:l t;v (,,:;\"-;~'IýI\..,9 f",;""",.. -c ~
+~:'iý.;"",1 iý,.ij";;"",""~" E:v'~"'\;Jv ";1ý"i"--".Ý $'-, ,',' .::.. !
+;1:'~f)" ':,1:,." ~'!1~'. "
+~Tüzüðü" 12. Bu Tüzük kurallarýna aykýrý hareket edenler hakkýnda Fasýý 307 sayýlý
+Ihlali Telsiz Telgraf Yasasý'nýn 6'ýncý maddesinin (2)'nci fýkra kurallarý
+uygulanýr.

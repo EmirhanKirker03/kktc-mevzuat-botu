@@ -1,0 +1,614 @@
+
+
+KUZEY KIBRIS TÜRK CUMHURİYETİ
+RESMÎ GAZETE
+22 Aralık, 2021   
+Sayı : 276
+Sayı : 969
+EK III
+TEBLİĞ VE İLANLAR 
+(3881)
+Trafik 
+Bilgisi 
+Teknik 
+Detay 
+Uygulama 
+Usullerine 
+İlişkin 
+Tebliğ 
+Bilişim 
+Suçlan 
+Yasası 
+32/2020 
+Sayılı 
+Yasa 
+Bilgi 
+Teknolojileri 
+ve 
+Haberleşme 
+Kurumu 
+Yönetim 
+Kumlu, 
+32
+/2020 
+sayılı 
+Bilişim 
+Suçları 
+Yasası 
+uyannca 
+hazırlanan 
+ve 
+07
+.09.2021 
+tarih 
+ve 
+R.G 
+197 
+sayısı 
+ile 
+Resmi 
+Gazete
+' de 
+yayımlanarak 
+yürürlüğe 
+giren 
+Bilişim 
+Suçları 
+Tüzüğü'nün 
+13'üncü 
+maddesinin 
+kendisine 
+verdiği 
+yetkiyi 
+kullanarak 
+aşağıdaki 
+Tebliği 
+yapar: 
+Kısa 
+İsim 
+Madde-1 
+Bu 
+T
+ebliğ 
+"Trafik 
+Bilgisi 
+Teknik 
+Detay 
+Uygulama 
+Usulleı·ine 
+İlişkin 
+Tebliğ" 
+olarak 
+isimlendirilir. 
+Amaç 
+ve 
+Kapsam 
+Madde-
+2 
+Bu 
+tebliğ
+, 
+1rnfık 
+bilgisini 
+içeren 
+dosya 
+ve/veya 
+dosyaların 
+isimlendirme 
+standartları, 
+veri 
+alanları, 
+açıklamaları 
+ve 
+fomıa
+t
+ı 
+ile 
+dosya 
+yapılandırılmasında 
+dikkat 
+edilecek 
+hususların 
+ayrıntılı 
+olarak 
+açıklanması 
+amacıyla 
+Kurul 
+kararı 
+ile 
+yayımlanmıştır. 
+Tefsir 
+Madde-3 
+(1) 
+"Erişim 
+Sağlayıcı"
+, 
+kulla111cılarına 
+elektronik 
+haberleşme 
+şebekesine 
+erişim 
+olanağı 
+sağlayan 
+elektronik 
+haberleşme 
+hizmet 
+sağlayıcıları111 
+anlatır
+. 
+"Kunım", 
+Bilgi 
+Teknolojileri 
+ve 
+Haberleşme 
+Kunınıu 
+(BTHK)
+' nu 
+anlatır. 
+"NAT"
+, 
+Ağ 
+Adres 
+Dönüşümü 
+(Netvırork 
+Address 
+Translation) 
+anlatır. 
+"NTP 
+Sunucu", 
+Ağ 
+zaman 
+sunucusu 
+(Network 
+Time 
+Protocol 
+Sunucusu) 
+anlatır. 
+"RFCs
+", 
+İnternet 
+için 
+başlıca 
+standart 
+belirleme 
+kuruluşu 
+(Request 
+for 
+Coınınents) 
+anlatır. 
+
+3882
+'Trafik Bilgisi", içerik hariç olmak üzere, elektronik haberleşme şebekesinde 
+gerçekleştirilen her türlü erişime ilişkin olarak tarafları, zaınam, süreyi, yararlanılan 
+hizmetin türünü, aktarılan veri miktarı ve bağlantı noktalarım anlatır. 
+"Tüzük"; Bilişim Suçları Tüzüğü'nü anlatır. 
+"Yasa", 32/2020 sayılı Bilişim Suçları Yasası'nı anlatır. 
+(2) Bu Tebliğ'de geçen ve yukarıda yer almayan tanım ve kısaltmalar için Yasa ve 
+Tüzükte yer alan 
+tamın ve kısaltmalar geçerlidir. 
+Erişim Sağlayıcılan Taı-afmdan Uyulması Gereken Hususlar 
+Madde-4 
+(1) Abonelerini NAT' layarak internete çıkaracak olan erişim sağlayıcıları her bir kullanıcı 
+için haberleşmenin gerçekleştiği zaman aralığında diğer herhangi bir kullaıııcıya tahsis 
+edilmemiş benzersiz (unique) portlar atamaları gerekmektedir. 
+(2) Trafik bilgisi üreten veya bu süreçte kullanılan cihazlar, NTP sunucusu ile senkronize 
+olarak 
+çalışması zorunludur. Trafik dosyalarına işlenecek zaman bilgisi NTP 
+sunucusundan 
+alınan gerçek zaman olacaktır. 
+(3) Dosyaların isimlendirilmesine ve içeriğinin oluşturulmasına ait forınat (desen) bu 
+dokümanda 
+belirtildiği şekilde uygulanacaktır. 
+(4) Trafik dosyaları işbu Tebliğ'de belirtilen usul ve esaslara uygun olarak oluşturulacak 
+ve kaydedilecektir. 
+(5) Dosya isimlerinde ve 
+kayıtlarında yer alan tarih değerleıi KKTC yerel saatine uygun 
+olarak 
+kaydedilınelidir. 
+(6) Trafik bilgilerini içeren ve GNU zip (gzip) ile sıkıştırılmış dosyalar, dosya içerisinde 
+ilk 
+oluşturulan trafik bilgisine ait tarih ve saatten itibaren en fazla 12 saat içerisinde 
+zaman 
+damgalı olarak imzalanıp saklanması gerekmektedir. 
+Trnfik Bilgisi Dosyalarının isimlendirilmesi 
+l\faclcle - 5 
+(1) Trafik Dosyası İsimlendirme Formatı: Trafik dosyası aşağıda sunulan şablona uygun 
+olarak 
+oluşhırulınalıdır. Dosya isiınlendirınesinde Türkçe karakter kullanılmamalıdır. 
+"ERISIMSAGLAYICINO_TRAFIK_YYYYMMDDI-IHMISS_MINTAR_:MAXTAR_CNT.l 
+og.gz" 
+Trafik 
+dosyası isiınlendiıme forınatında geçen alanlar: 
+(A) ERISIMSAGLA YICINO: Trafik bilgisini 
+oluşturan erışım sağlayıcıyı 
+belirtmektedir. Kurum tarafından yetkilendirilen İnternet servis sağlayıcıya 
+(erişim sağlayıcmın) Kurum tarafından verilen numarayı anlatmaktadır. (Örıı: 
+12345_ISS) 
+
+3883
+(B) TRAFIK: Bu ifade belirtildiği şekilde kalmalıdır. 
+(C) TARIH_ZAMAN: Bu alana girilecek 
+"YYYYMMDDHHMISS" deseninde 
+olmalıdır. 
+olan 
+(a) 
+YYYY deseni dört basamak olarak yılı (örneğin 2021 gibi) 
+(b) MM deseni iki basamak olarak 
+ayı (örneğin 06 gibi) 
+( 
+c) DD deseni iki basamak olarak günü (örneğin 05 gibi) 
+tarih 
+(d) HH deseni iki 
+basamaklı ve 24 saat formatmda saati (örneğin 18 gibi) 
+(e) 
+MI deseni iki basamak olarak dakikayı (örneğin 18) 
+(f) SS deseni iki basamak olarak saniyeyi 
+(örneğin 18) 
+(D) Örnek bir tarih 
+değeri "20210605181221" şeklindedir. 
+değeri 
+(E) MINTAR: Bu alana girilecek olan tarih değeri "YYYYMMDDHHMISS" 
+deseninde 
+olmalıdır, dosya içeriğindeki kayıtların minimum başlangıç zamamnı 
+bildirir. 
+(F) MAXT AR: 
+Bu alana girilecek olan tarih değeri "YYYYMMDDHHMISS" 
+deseninde 
+olmalıdır, dosya içeriğindeki kayıtların maksimum başlangıç zamanını 
+bildirir. 
+(G) CNT (Count): Bu 
+değer aynı gün içinde birden fazla dosya atılması dunımunda 
+her dosya için arttırılmalıdır. Rakamla üç hane olacak şekilde yazılmalıdır 
+(Önı:002). Bu dosyayı üretecek birden fazla şebeke elemanı olması halinde CNT 
+bilgisinin 
+başına 5 haneyi geçmeyecek şekilde erişim sağlayıcı şebeke elemanı 
+kodunu girecektir. (Örıı: PRSR1_002) 
+(H) 
+Önıek dosya isimi: 
+"12345_ISS_TRAFIK_20210315162500_20210315162501_20210415162530 
+_001.log.gz" 
+(2) Trafik Dosyası Uzantısı: Trafik dosyasının uzantısı ".log" olmalıdır. Dosya uzantısı 
+küçük harfler ile yazılmalıdır. 
+(3) Trafık Dosyası Sıkıştırma Formatı: Dosyalarda yer alan kayıtlar, öncelikle, en eski 
+zaman ve tarihten 
+en yeni zaman ve tarihe göre sıralanmalı, ardından GNU zip (gzip) 
+sıkıştırma algoritması ile sıkıştırılmalıdır. Sıkıştırma işlemi yapıldıktan sonra dosyanın 
+isim formatı aşağıda görüldüğü gibi olmalıdır. 
+"12345_ISS_TRAFIK_20210315162500_20210315162500_20210415162500_001.lo 
+g.gz" 
+(4) Trafik Dosyalarının İçeı-iği 
+(A) Trafik dosyalamım içinde bulunan kayıtlar için; 
+(a) Her 
+kayıt için bir satır oluşturulmalıdır. 
+(b) Bir kaydın, birden fazla satırda olmaması gerekmektedir. 
+( c) 
+Trafık kayıtları ortadan bölünmeden, bir bütün olarak kaydedilmelidir. 
+
+3884
+(B) Kayıtlardaki kolonlar "I" (pipe) işareti ile ayrtlınalı ve bu "I" (pipe) işareti ayraç alanı 
+dışmda kesinlikle kııllamlmaınalıdır. 
+(C) Her bir anlamlı kayıt satırı "\n" (satır sonu) karakteri ile ayrılmalıdır. 
+(D)IP adresleri noktalı olarak (dotted decimal, Öm: 8.8.8.8) yazılmalıdır. 
+(E) Port numaraları rakamla girilmelidir. 
+(F) Sadece Delete (Stop) paketleri 
+değil, Create (Start) ve Interim paketleri de 
+gönderilmelidir. 
+(G)Trafık bilgilerinin içerisinde yer alan verilerde aşağıdaki özel karakterler kesinlikle 
+bulunmamalıdır. 
+(a) (;) Noktalı Virgül,(') Single Quote, (") Double Quote, (\) Backslash, Newline, Tab, 
+Backspace, Fom1 Feed, Vertical Tab, Caniage Return (\r, 
+satır başı) 
+Trafik Bilgisi Veri Deseni Yapısı ve Dosya İçerikleri 
+Maclcle-6 
+(1) Her bir satır 16 kolondan oluşmalıdır. 
+(2) Her kolon "I" (pipe) karakteri ile (lıexadeciınal değeri 7C) ayrılmalıdır. 
+(3) Boş bırakılan alan olması durumunda bu alan yine "pipe" kullanılarak belirtilmelidir. 
+(4) Dosya içerikleri UTF-8 karakter kodlaması kullanılarak hazırlanmalıdır. 
+Trafik Bilgisi Formatı Ve Detayları 
+Madde-7 
+(1) Trafik bilgileri içerisinde yer alan her bir satır aşağıda belirtilen desen forınatında 
+saklanmalıdır. Aşağıda belirtilen desen tek bir anlamlı trafik bilgisi satırını belirtmektedir. 
+KULLANICI_ADl@ERISIMSAGLAYICINO!OZEL_IPIOZEL_pORTIGERCEK 
+_IPiGERCEK_PORT!TRAFIK_BASLAl\1A_TARIHITRAFIK_SURE!HEDEF_IP 
+IHEDEF_PORT!NETWORK_PROTOKOL!DOWNLOAD_BYTES!UPLOAD _BY 
+TESIOTURUM_IDINAT_CIHAZ_IP !PACKET_TYPE!DIRECTION 
+(A)KULLANICI_ADI: Bu alan, trafiği başlatan aboneyi erişim sağlayıcı ağında 
+işaret eden benzersiz ibaredir. Bu ibare, aboneye sözleşmede atanan benzersiz bir 
+numara veya kimlik bilgisi 
+olacaktır. "KULLANICI_ADI"  bilgisine yazılacak 
+
+3885
+olan 
+mıınara 
+veya 
+kimlik 
+bilgisi, 
+abonenin 
+kim 
+olduğunu 
+ispatlayacak 
+nitelikte 
+olacaktır. 
+Bu 
+alanda 
+yer 
+alan 
+"KULLANICI
+_ADI'' 
+bilgisi
+, 
+erişim 
+sağlayıcı 
+tarafından 
+Kuruma 
+hali 
+hazırda 
+düzenli 
+bir 
+şekilde 
+gönderilen 
+verilerde 
+bulunuyor 
+ise, 
+bu 
+alanda 
+yer 
+verilecek 
+kullanıcı adı 
+bilgisi 
+Kuruma 
+hali 
+hazırda 
+gönderilen 
+verilerdeki 
+ile 
+aynı 
+olmalıdır. 
+"ERISIMSAGLA 
+YICINO" 
+bilgisi 
+trafik 
+dosyası 
+isimlendirme 
+bölümünde 
+yer 
+alan 
+tanımdaki 
+numara 
+k:ullamlacaktır
+. 
+(B) 
+OZEL_IP: 
+Erişim 
+sağlayıcı 
+ağı 
+içerisinde 
+NAT 
+yöntemi 
+ile 
+IP 
+atayan 
+erişim 
+sağlayıcıları 
+için 
+kullanıcıya 
+ait 
+özel 
+(private) 
+IP 
+adresini 
+ifade 
+eder. 
+NAT 
+yöntemi 
+kullanan 
+erişim 
+sağlayıcıları 
+bu 
+alanı 
+boş 
+bırakamaz 
+ve 
+stanclart 
+dışı 
+ifadeler 
+kullanamaz. 
+NAT 
+yöntemi 
+kullanmayan 
+erişim 
+sağlayıcıları 
+bu 
+alanı 
+boş 
+göndeımelidir. 
+(Öm: 
+10.0.0.10) 
+(C) 
+OZEL_PORT: 
+Özel 
+IP 
+adresinin 
+kaynak 
+port 
+numarasıdır. 
+NAT 
+yöntemi 
+1.'7.lllanan 
+erişim 
+sağlayıcıları 
+bu 
+alam 
+boş 
+bırakamaz 
+ve 
+standart 
+dışı 
+ifadeler 
+kullanamaz. 
+NAT 
+yöntemi   kullanmayan 
+erişim 
+sağlayıcıları 
+bu 
+alanı 
+boş 
+göndemıelidir. 
+(Ç) 
+GERCEK_IP: 
+Abonenin 
+İnternet 
+ortaınma 
+çıkarken 
+kullandığı 
+gerçek 
+(public) 
+IP 
+adresini 
+ifade 
+eder. 
+(Öm: 
+99.99.99.99) 
+(D) 
+GERCEK_PORT: 
+Gerçek 
+IP 
+adresinin 
+port 
+numarasını 
+ifade 
+etmektedir. 
+Bu 
+alana 
+doğrudan 
+trafiğin 
+gerçekleştiği 
+port 
+değeri 
+yazılmalıdır. 
+(Öm: 
+53254) 
+(E) 
+TRAFIK_BASLAMA_TARIH: 
+Trafiğin 
+başlama 
+zamanını 
+ifade 
+eder. 
+YYYYMMDDHHMIS 
+S 
+forınatmda 
+gönderilmelidir. 
+(Öın
+:
+20210418163000) 
+(F) 
+TRAFIK_SURE: 
+Saniye 
+cinsinden 
+trafiğin 
+süresini 
+ifade 
+eder. 
+Sürenin 
+küsuratlı 
+olması 
+ve/veya 
+küsuratlı 
+saniye 
+olması 
+durumunda, 
+süre 
+yukarı 
+yuvarlanacaktır. 
+(G) 
+HEDEF_IP: 
+Kullanıcınm 
+bağlantı 
+yapmak 
+istediği 
+lıedefIP 
+adresini 
+ifade 
+eder. 
+(Öm: 
+100.100.100.100) 
+(H) 
+HEDEF_PORT: 
+Kullanıcının 
+bağlantı 
+yapmak 
+istediği 
+hedef 
+port 
+numarasını 
+ifade 
+eder. 
+(Örn:53254) 
+(İ) 
+NETWORK_PROTOCOL: 
+Trafiğin 
+network 
+seviyesindeki 
+protokol 
+bilgisini 
+ifade 
+eder. 
+Asgari 
+TCP 
+ve 
+UDP 
+olmak üzere 
+network 
+seviyesindeki 
+protokollerin 
+bu 
+alanda 
+girilmesi 
+gerekmektedir. 
+UDP: 
+"17", 
+TCP
+: 
+"6", 
+ICMP: 
+"1", 
+ESP: 
+"50" 
+vb. 
+
+3886
+olarak ilgili RFC'de belirtildiği şekilde gönderilmelidir. TCP, UDP, ICMP, ESP gibi 
+ifadeler 
+kullanılamaz. 
+(1) DOWNLOAD _BYTES: Trafiğin "byte"  cinsinden indirilen veri miktarım ifade 
+eder (download bilgisi). 
+(J) UPLOAD_BYTES: 
+Trafiğin "byte" cinsinden yüklenen veri miktarını ifade eder 
+(upload bilgisi). 
+(K) OTURUM_ID: Bu alan, belli bir otıınıın için verilmiş olan tekil değeri 
+(session_id) ifade eder.Devam eden bir oturum içindeki tüm trafik kayıtları 
+aynı oturum id değeı·ine sahip olmalıclır. 
+(L)NAT_CIHAZ_IP: NAT kaydının oluşhığu NAT cihazı veya NAT işlevi için 
+kullanılan cihazın iP adresiniifade eder. NAT cihazı üzerinden trafik kaydı 
+oluşturan el'işim sağlayıcılaı· bu alanı boş gönderemez ve standart dışı 
+ifadeler kullanamaz. 
+(Örneğin 10.250.0.10) 
+(M) PACKET_TYPE: Trafiği oluşhıran paketin türünü ifade eder. Staıt:"1", 
+Stop:"2", Iııteri.ın-Update:"3". Bu alana 1, 2 veya 3 değerlerinden biri girilmelidir. 
+Start, interim 
+ve stop ifadeleri kullanılamaz. 
+(N)DIRECTION: Trafiğin akış yönünü ifade eder. Akış yönü; erişim sağlayıcı 
+abonesinin "start ve stop" paketleri yönünden trafiğin kaynağı olması dunınıunda 
+"Çıkış", trafiğin hedefi olması durumunda ise "Giriş" şeklinde 
+değerlendirilmelidir. Giriş: "0", Çıkış: "1". Bu alana O veya 1 değerlerinden biıi 
+girilınelidiı·. "Giriş" ya da "Çıkış" ifadeleri kullanılamaz. 
+(2) Örnek Trafik Bilgisi Kaydı aşağıda gösterildiği şekilde olmalıdır. 
+aboneX@l2345 _ıssı ı O.O.O. IOl45555l99.99.99.99l54444l20210418000000l200I 1 oo. ı oo 
+. 100. 1001801 l 71250l83IDDFR~65AC-12EE-FFFFI 
+10.250.0. l oı 1 ıo 
+aboneY@l2346_Iss110.o.10.101sssssı99_ 11.ıı.ıı1soooıı2021041800000012001100. 10 
+0.100. 100l80J6l250l83JDDFR-65AC-12EE-FFFDl10.250.0.101011 
+Yürürlüğe Giriş 
+Madde-8 
+İşbu Tebliğ, Resmi Gazete' de yayımlandığı tarihten başlayarak yürürlüğe girer. 

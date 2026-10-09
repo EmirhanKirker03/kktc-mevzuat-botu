@@ -1,0 +1,334 @@
+KİŞİSEL VERİLERİN KORUNMASI YASASI(89/2007 Sayılı Yasa) Madde 37 Altında Yapılan Tüzük.
+
+
+
+	Kuzey Kıbrıs Türk Cumhuriyeti Bakanlar Kurulu, Kişisel Verilerin Korunması Yasası’nın 37’nci maddesinin kendisine verdiği yetkiye dayanarak aşağıdaki Tüzüğü yapar:
+
+
+
+
+
+Kısa İsim
+
+Bu Tüzük, Kişisel Verileri Koruma Kurulu Ücret ve Ruhsat Tüzüğü olarak isimlendirilir.
+
+
+
+BİRİNCİ KISIM 
+
+Genel Kurallar
+
+
+
+Tefsir
+
+Bu tüzükte metin başka türlü gerektirmedikçe:
+
+“Başkan”, 89/2007 sayılı Yasanın 20’nci maddesi ile kurulan Kişisel Verileri Koruma Kurulunun Başkanını anlatır.
+
+“Birleştirme ruhsatı” bir dosyalama sistemindeki verilerin diğer bir kontrolör veya kontrolörler tarafından tutulan veya aynı kontrolör tarafından başka bir amaçla tutulan verilerle bir araya getirilmesine imkân verecek şekilde işlem yapılması için alınacak ruhsatı anlatır.
+
+“Birleştirme Ruhsatı Sicili” Kişisel Verileri Koruma Kurulu tarafından verilen Birleştirme Ruhsatlarının sicil kaydını içeren “sicil defteri” veya oluşturulacak “elektronik veri tabanı”nı anlatır.
+
+“İlke Kararı”, Kişisel Verileri Koruma Kurulu’nun 89/2007 sayılı Yasa’nın 28. maddesinin 1. fıkrasında belirtilen yetkilerine dayanarak prensip olarak kabul ettiği, bireylere ilişkin yükümlülükler içerebilen ve Resmî Gazetede yayımlanarak yürürlüğe giren genel ve soyut nitelikteki idari işlemi anlatır.
+
+“İşleme” veya “Kişisel verilerin işlenmesi”, Kişiye ilişkin tüm verilerin, toplanması, kaydedilmesi, işlenmesi, saklanması, silinmesi, değerlendirilmesi, kullanılması, uyarlanması veya değiştirilmesi, durdurulması, yok edilmesi gibi işlevlerden herhangi birisinin, birkaçının veya hepsinin, herhangi bir yöntem ve araç kullanılarak uygulanmasını anlatır.
+
+“İşlemci”, şahsi veriyi kontrolör adına işleyen kişiyi anlatır.
+
+“Kişisel veri”, kimliği belirli veya kimliği belirlenebilir bir kişiye ilişkin tüm bilgileri anlatır.
+
+“Kişisel veri dosya sistemi”, işlevsel veya coğrafi esaslara göre merkezi veya dağınık olarak bir sistemde muhafaza edilen ve belirli yöntemlerle ulaşılabilen kişisel veri topluluğunu anlatır.
+
+“Kontrolör” kendi başına veya başkalarıyla birlikte, kişisel verilerin işleme tabi tutulmasının amaç ve yöntemlerini belirleyen, kişisel veri ve dosya sistemini oluşturma, işletme, denetim hak ve yetkisine sahip olan Kamu Kurum ve Kuruluşları ile gerçek ve tüzel kişileri anlatır.
+
+“Kurul”, 89/2007 sayılı Yasanın 20’nci maddesi ile kurulan Kişisel Verileri Koruma Kurulunu anlatır.
+
+“Kurum ve Kuruluş”, genel ve katma bütçeli daireler ile Bakanlıkları, yerel yönetimleri, üniversiteleri ve bunlara bağlı sabit ve döner sermayeli kuruluşları, kamu iktisadi teşebbüslerini, kamu ve özel bankaları, yüksek kurulları, özerk, tarafsız kurum ve kuruluşları, bağımsız düzenleyici kurum ve kurulları, kamu kurumu niteliğindeki meslek kuruluşlarını, birlikleri, dernekleri ve vakıfları anlatır.
+
+“Transfer ruhsatı”, yasal olarak işlenmiş veya işlenmeye niyet edilen verinin diğer ülkelere transfer edilmesi için alınacak ruhsatı anlatır.
+
+“Transfer Ruhsatı Sicili”, Kişisel Verileri Koruma Kurulu tarafından verilen Transfer Ruhsatlarının sicil kaydının tutulduğu “sicil defteri” veya oluşturulacak “elektronik veri tabanı”nı anlatır.
+
+“Yasa”, 89/2007 sayılı Kişisel Verilerin Korunması Yasasını anlatır. 
+
+
+
+
+
+Amaç
+
+Bu Tüzük, Kişisel Verileri Koruma Kurulu tarafından verilecek olan Birleştirme ve Veri Transferine ilişkin ruhsatlarla ilgili uygulanacak olan şekil ve usule ilişkin kuralları ve bu ruhsatlara ilişkin ücretler ile bilgiye erişim için ödenecek ücretleri düzenler.
+
+
+
+
+
+Kapsam
+
+
+
+Bu Tüzük, Yasa uyarınca kişisel veri dosya sistemlerinin birleştirilmesi ve  Yasa kurallarına bağlı olarak işlenmiş veya işlenmeye niyet edilmiş verinin diğer ülkelere transferini, kendi başına veya başkalarıyla birlikte, kişisel verilerin işleme tabi tutulmasının amaç ve yöntemlerini belirleyen, kişisel veri dosya sistemini oluşturma, işletme, denetim hak ve yetkisine sahip olan veya işlemci olarak şahsi veriyi kontrolör adına işleyerek Kişisel Verileri Koruma Kuruluna ücret ödeme yükümlülüğü olan Kamu Kurum ve Kuruluşları ile gerçek ve tüzel kişileri kapsar.
+
+
+
+İKİNCİ KISIM 
+
+Ruhsat ve Ücretlere İlişkin Kurallar
+
+
+
+
+
+Ruhsat Talebi
+
+
+
+3.
+
+(1)
+
+(A)
+
+Transfer Ruhsatı talebinde bulunulması için Yasa’da kişisel verilerin işlenmesiyle ilgili kontrolöre verilen tüm yükümlülükler ile Yasa’nın 11’inci maddesinde belirtilen kriterlerle birlikte, 
+
+
+
+
+
+
+
+(B)
+
+Birleştirme Ruhsatı talebinde bulunulması için Yasa’da kişisel verilerin işlenmesiyle ilgili kontrolöre verilen tüm yükümlülükler ile Yasa’nın 9’uncu maddesinde belirtilen kriterlerle birlikte, 
+
+
+
+Kişisel Verileri Koruma Kurulu’na yazılı bir başvuru yapılır.
+
+
+
+
+
+
+
+(2)
+
+
+
+Kişisel Verileri Koruma Kurulu yapılan Transfer Ruhsatı ve Birleştirme Ruhsatı taleplerini Yasa’da belirtilen kriterler kapsamında değerlendirir ve kriterlere uygun olan başvurular için ruhsat verilmesini onaylar veya uygun olmayan başvuruları yazılı olarak gerekçesiyle iade eder. Başvuranın iade gerekçesinde belirtilen eksiklikleri tamamlayarak yeni bir başvuru yapması için gerekli süre başvurudaki eksikliklerin niteliğine göre iade gerekçesinde belirtilir. 
+
+
+
+
+
+(3)
+
+(A)
+
+Ruhsat talebi onaylanan başvuru sahibi bu hususun kendisine bildirildiği tarihten itibaren en geç on beş (15) gün içerisinde o tarihte yürürlükte olan aylık brüt asgari ücret tutarındaki gerekli ruhsat ücretini öder.
+
+
+
+
+
+
+
+(B)
+
+Ruhsat ücretinin ödenmesi gerçekleştikten sonra Kişisel Verileri Koruma Kurulu tarafından tanzim edilecek ve bir (1) yıl boyunca geçerli olacak ruhsat belgesi başvuru sahibine teslim edilir. Süresi dolan ruhsatlar için her yıl başvuruların yenilenmesi gerekmektedir. Yıl sonu ruhsat belgesinin geçerlilik süresi sona ermeden önce yeni başvuru yapılması gerekmektedir. 
+
+
+
+
+
+
+
+(C)
+
+Talep sahibinin ruhsat ücretini kendisine yapılan bildirimden itibaren en geç on beş (15) gün içerisinde ödememesi halinde ruhsat alma talebi iptal edilir ve tekrar ruhsat başvurusunda bulunması gerekir.
+
+
+
+Ruhsat Belgesi
+
+4.
+
+
+
+(1)
+
+Ruhsat belgesi formatı Kişisel Verileri Koruma Kurulu tarafından, Kurul’unun internet sayfasında ilan olunmak suretiyle belirlenir. 
+
+
+
+
+
+
+
+(2)
+
+Kişisel Verileri Koruma Kurulu tarafından verilecek olan Ruhsatlar, Kurulun ilgili başvuruya ilişkin kararına istinaden;
+
+Kurul Başkanı ile en az 3 Kurul üyesinin imzasını, 
+
+Kurula ait mührü,
+
+Kurul tarafından verilecek olan Ruhsat kaydıyla belirlenen ruhsat sayısını,
+
+içerir.
+
+
+
+Ruhsat Kaydı
+
+5.
+
+
+
+(1)
+
+
+
+
+
+
+
+
+
+
+
+
+
+(2)
+
+Kişisel Verileri Koruma Kurulu tarafından tanzim edilecek olan ruhsatlar için;
+
+Transfer Ruhsatı Sicili ve Birleştirme Ruhsatı Sicili olarak iki adet sicil kaydı veya sicil defteri oluşturulur. Kişisel Verileri Koruma Kurulu sicil kaydını “sicil defteri” veya oluşturulacak “elektronik veri tabanı” yöntemlerinden herhangi birisi vasıtasıyla tutar.
+
+Oluşturacağı sicil kaydı veya defterine her bir ruhsat belgesi için bir sicil numarası, tarih, kurul karar numarası, ruhsat muhatabı, verilen ruhsatın kapsamı ile ilgili bilgiler işlenir.
+
+
+
+Ruhsat Ücreti
+
+6.
+
+
+
+
+
+Tanzim edilecek olan her bir “Birleştirme Ruhsatı” veya “Transfer Ruhsatı” için ruhsat başvurusunun Kurul tarafından onaylandığı tarihte yürürlükte olan aylık brüt asgari ücret tutarında ruhsat ücreti tahsil edilir.
+
+
+
+Erişim Hakkı Ücreti
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ücretlerin Tahsili
+
+7.
+
+
+
+
+
+
+
+
+
+
+
+8.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(1)
+
+
+
+
+
+
+
+
+
+(2)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(3)
+
+Yasa’nın 14’üncü kapsamında düzenlenen Erişim Hakkı bağlamında yapılacak başvurular için Yasa’nın 16’ncı maddesi kapsamında kişinin erişim hakkını kullanarak veriye ulaşması için yapılacak ücretlendirme, talep tarihinde yürürlükte bulunan aylık brüt asgari ücretin yüzde 3’ü (%3) oranında tahsil edilir. 
+
+
+
+Kişisel Verileri Koruma Kurulu’na ödenecek olan ruhsat ücretleri, veriye ulaşım ücretleri veya benzer tüm ücretler Gelir ve Vergi Dairesi’ne yatırılmak sureti ile tahsil edilir. Yatırımı yapan gerçek veya tüzel kişiler yatırım makbuzlarını Kişisel Verileri Koruma Kurulu’na ibraz eder.
+
+Kişisel Verileri Koruma Kurulu transfer ruhsatı ve birleştirme ruhsatlarına ilişkin transfer yapılacak ülkelerin yeterli seviyede koruma sağlayıp sağlamadıkları hususlarını; Yasa’nın 11’inci çerçevesinde, transfer edilecek verinin niteliği, işleme amaç ve süresi, hukukun genel ve özel ilkeleri, davranış ilkeleri ve verinin korunması için güvenlik önlemleri ile menşe ülkesindeki koruma seviyesi, verinin iletilme şekli ve nihai hedefi konularında İlke Kararları almak suretiyle ilan eder.   
+
+Kişisel Verileri Koruma Kurul’u Yasa’dan kaynaklanan yetkilerini kullanmak ve bu Tüzük hükümlerinin uygulanmasına ilişkin usul ve esasları göstermek amacıyla Yönetmelikler ve/veya İlke Kararları alarak Resmî Gazete’de yayımlayabilir. 
+
+
+
+ÜÇÜNCÜ KISIM
+
+Son Kurallar
+
+
+
+Yürütme Yetkisi
+
+
+
+Bu Tüzük, Kişisel Verileri Koruma Kurulu tarafından yürütür.
+
+
+
+Yürürlüğe Giriş
+
+
+
+Bu Tüzük, Resmî Gazete’de yayımlandığı tarihten başlayarak yürürlüğe girer.
+
+		
+

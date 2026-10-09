@@ -1,0 +1,725 @@
+
+
+KUZEY KIBRIS TÜRK CUMHURİYETİ
+RESMÎ GAZETE
+EK III
+TEBLİĞ VE İLANLAR
+Sayı : 126 23 Haziran, 2025
+(197)
+Sayı : 471
+       (1541)
+-
+DiJiT AL DONUSUM VE ELEKTRONiK DEVLET KURUMU Y ASASI 
+(76/2023 
+Say1h Yasa) 
+Madde 43'lincii Altmda Yapilan Tliziik 
+Kuzey K1bns Tlirk Cumhuriyeti Bakanlar Kurulu, Dijital Donli~iim ve Elektronik Devlet 
+Kurumu Yasas1'nm 43'lincii maddesinin 
+(l)'inci fikrasmm kendisine verdigi yetkiye 
+dayanarak 
+a~ag1daki Tlizligli yapar: 
+K1sa lsim 
+Tefsir 
+1. Bu Tlizlik, Dijital Donii~iim ve Elektronik Devlet Teknik Kurulunun 
+<;ah~masma lli~kin Usu) ve Esaslar Tiizligli olarak isimlendirilir. 
+BiRiNCi KISIM 
+Gene) Kurallar 
+2. Bu Tlizilk'te metin ba~ka tlirlli gerektirmedik9e: 
+"Ba~kan", Dijital Donil~lim ve Elektronik Devlet Kurumu Ba~kamm 
+anlat1r. 
+
+1542
+76/2023 
+'Ba~kanhk" Dijital Donii~iim ve Elektronik Devlet Kurumu 
+Ba~kanhgm1 anlattr. 
+"D-Donii~iim", dijital donii~iimii anlatir. 
+"Dijital Donii~iim", bilgi ve ileti~im teknolojilerinin sundugu imkanlar 
+ve degi~en toplumsal ihtiya9lar dogrultusunda Yasa kapsammda 
+belirtilen tum kurum 
+ve kurulu~lar daha etkin ve verimli hizmet 
+verilmesi saglamak amac1yla insan, 
+i~ siire9leri ve teknoloji 
+unsurlarmda ger9ekle~tirildigi biitilnciil donil~iimdilr. 
+"E-Devlet", elektronik Devleti anlatrr. 
+"E-Devlet Hizmeti", bilgi ve ileti~im teknolojilerinin 
+saglad1g1 
+imkanlar kullamlarak kamu hizmetlerinin kurumlar aras1 veri 
+payla~1m1 esasma dayah olarak yiiriitillmesi i9in kurumlar tarafmdan, 
+h1zh, gilvenli, etkili, verimli, ~effaf ve hesap verebilir, temel hak ve 
+ozgilrlilklere riayet edilerek ve mahremiyet gozetilecek ~ekilde 
+elektronik ortama aktanlan her bir kamu hizmetini anlatir. 
+"E-Hizmet", Yasa kapsammdaki idareler tarafmdan sunulan e-Devlet 
+hizmetini 
+anlat1r. 
+"Elektronik Devlet", bilgi ve ileti~im teknolojilerini kullanarak; 
+devletin 
+i~ ve i~lemlerinin kolayla~tmlmasm1, kamu hizmetlerinin 
+sunulmasm1 ve ger9ek ve tilzel ki~ilerin kamu yonetimine etkin 
+katilrrnmm saglanmasm1 anlatir. 
+"Kamu Kurum ve Kurulu~lan", gene] biit9e kapsammda kamu 
+idareleri ve ozel bilt9eli idareler, yasama ve 
+yarg1 organlan, 
+diizenleyici ve denetleyici kurumlar, devletin yonetici 
+atad1g1 kurum, 
+kurulu~ ve ~irketler, gene] biit9e 
+kapsam1 d1~mdaki fonlar, sosyal 
+giivenlik kurumlan,   kamu iktisadi te~ebbilsleri ve bunlann bagh 
+ortakhklan ile milessese ve i~letmeleri, yerel yonetimler ve bunlarm 
+kurduklan kurulu~lar, ozel yasalarla kurulan diger ~irket ve/veya 
+kamu kurulu~lanm, kamu kurumu niteligindeki meslek kurulu~lanm 
+ve bunlarm ilst kurulu~lanm anlattr. 
+"Kamu Kurumu Niteligindeki Meslek Kurulu~lan",  yasa ile kurulan 
+ve organlan kendileri tarafmdan 
+ve kendi iiyeleri arasmdan se9ilen, 
+iiye olanlarm mesleki yolda yaptiklan 
+i~leri kolayla~t1rmay1, meslegin 
+menfaatlerini korumay1 ve ihtiya9lanm kar~ilamay1, aym meslegi 
+yapan meslekta~Jan arasmda ileti~im ve 
+yard1mla~may1 ama9layan 
+tilzel ki~ilige sahip kurulu~lan anlattr. 
+/7 
+"Kurum", Dijital Donii~ilm ve Elektronik Devlet Kurumunu anlattr. 
+"Ortak E-Devlet Hizmeti",   sunulmas1 hi9bir kamu kurumun asli 
+gorevi olmayan veya birden fazla kurumun gorev alanma giren ya da 
+diger kurumlarm istifadesi i9in merkezi olarak sunulmasmda fayda 
+olan e-Devlet hizmetini, e-Devlet hizmeti bile~enini, 9oziimii, 
+uygulamay1 veya bunlar i9in ihtiyay duyulan teknik 
+altyap1y1 anlattr. 
+"Proje", belirli ama9 ve hedefleri ger9ekle~tirmek iizere ge9ici 
+ve 
+belirli bir silre i9inde yapilan planh faaliyetler biitilnilnil anlahr. 
+"Veri", Yasa'da yer alan tilm payda~lar tarafmdan yasal 
+yiikilmli.iliiklerini yerine getirmek veya herhangi bir 
+i~lem s1rasmda 
+olu~turulan, alman, muhafaza edilen ve bu yiikilmliiliiklerin veya o 
+i~lemin yerine getirilmesine dair kamt saglayan, kimligi belirli veya 
+belirlenebilir bir ki~iye veya kurum ve/veya kurulu~a ili~kin tilm 
+bilgileri anlatir. 
+"Yasa" Dijital Donii~Um ve Elektronik Devlet Kurumu Yasas1'm 
+anlatlr. 
+
+1543
+Amac;: 
+ve 
+Kapsam 
+3. 
+(I) 
+Bu 
+Tlizliglin 
+amac1, 
+Yasa'nm 
+verdigi 
+yetki 
+c;:erc;:evesinde 
+Dijital 
+Donli~Um 
+ve 
+Elektronik 
+Devlet 
+Teknik 
+Kurulunun 
+olu~umuna 
+ve 
+gorev
+,  yetki 
+ve 
+sorumluluklan 
+ile 
+c;:ah~ma 
+esaslarma 
+ili~kin 
+kurallan 
+dtizenlemektir. 
+Dijital 
+Donli~Um 
+ve 
+Elektronik 
+Devlet 
+Teknik 
+Kurulunun 
+Olu~umu 
+ve 
+<;ah~ma 
+Yontemi 
+(2) 
+Bu 
+Tliztik, 
+Dijital 
+Donli~lim 
+ve 
+Elektronik 
+Devlet 
+Teknik 
+Kurulunun 
+olu~umuna, 
+,  gorev
+,  yetki 
+ve 
+sorumluluklan 
+ile 
+c;:ah~ma 
+esaslarma 
+ili~kin 
+kurallan 
+kapsar. 
+iKiNCt 
+KISIM 
+Kurulun 
+Te~kili 
+ve 
+Faaliyet 
+Esaslan 
+Birinci 
+Bollim 
+Kurulun 
+Olu~umu 
+ve 
+<;ah~ma 
+Yontemi 
+4. 
+(1) 
+(2) 
+D-donli~Um 
+ve 
+e-Devlet 
+mevzuat 
+c;:ah~malan, 
+temel 
+ilkeleri 
+standartlan 
+ve 
+projelerin 
+uygulanmas1 
+dahil 
+olmak 
+Uzere 
+ilgili 
+tlim 
+konularda 
+Kuruma 
+onerilerde 
+bulunmak 
+Uzere 
+Dijital 
+Doni.i~Um 
+ve 
+Elektronik 
+Devlet 
+Teknik 
+Kurulu 
+olu~turulur. 
+(A) 
+Dijital 
+Doni.i~i.im 
+ve 
+Elektronik 
+Devlet 
+Teknik 
+Kurulu 
+Ba~kan 
+d1~mda
+, 
+a~ag1da 
+belirtilen 
+on 
+lie;: 
+(13) 
+ki~iden 
+olu~ur: 
+(a) 
+Her 
+Bakanhktan 
+bir 
+temsilci, 
+(b) 
+Cumhuriyet 
+Meclisi 
+Gene 
+I 
+Sekreterligi 
+Orgi.itli 
+temsilcisi
+, 
+( c) 
+Kamu 
+Hizmet 
+Komisyonu 
+Dairesi 
+temsilcisi
+, 
+(c;:) 
+Yliksek 
+Mahkeme 
+Gene! 
+Sekreterligi 
+temsilcisi. 
+(B) 
+Dijital 
+Donli~i.im 
+ve 
+Elektronik 
+Devlet 
+Teknik 
+Kuruluna 
+Uye 
+olarak 
+atanabilmek 
+ic;:in, 
+bir 
+Universiteden 
+en 
+az 
+lisans 
+diplomasma 
+sahip 
+olmak 
+ve 
+bilgi 
+teknolojileri
+, 
+bilgi-belge 
+yonetimi, 
+yonetim 
+bili~im 
+sistemleri
+,  kamu 
+yonetimi, 
+elektronik 
+yonetim 
+konulanndan 
+herhangi 
+birinde 
+en 
+az 
+be~ 
+(5) 
+ydhk 
+tecrtibeye 
+sahip 
+oldugunu 
+belgelemek 
+~art1 
+aramr. 
+(C) 
+Kurul 
+Uyelerinin, 
+ilgili 
+Kurumlarm 
+en 
+yi.iksek 
+ita 
+amiri 
+tarafmdan 
+Dijital 
+Donli~Um 
+ve 
+Elektronik 
+Devlet 
+Kurumunun 
+talep 
+yaz1sma 
+istinaden 
+bildirilmesi 
+Uzerine, 
+
+1544
+Kurum Ba~kam onerisi ve Ba~bakanm teklifi Uzerine 
+otuz altt (36) ayhk stire i9in Bakanlar Kurulu Karan ile 
+Dijital Donti~tim ve Elektronik Devlet Teknik Kurulu 
+i.lyesi olarak atamr. Kurul i.lyeligine atanan ki~iler en 
+fazla 
+ti9 (3) donem gorev yapabilir. Kurul tiyelerinin 
+gorev stireleri, atanma kararlan Resmi Gazete'de 
+yay1mland1ktan sonra ba~lar. Kurul i.lyelerinden 
+herhangi birisinin gorevden aynlmas1 halinde aynlan 
+ilyenin yerine, en ge9 bir 
+(1) ay i9inde ayni yontemle 
+yeniden atama yap1hr. Yeniden atanan tiye, yerine 
+atand1g1 i.lyenin gorev si.lresini tamamlar. 
+(<;) Kurul tiyelerinin otuz altt (36) ayhk gorev stireleri dolsa 
+dahi yerlerine yeni 
+i.lye atanana kadar gorevleri devam 
+eder. 
+(D) Kurul tiyelerinin gorev si.lrelerinin dolmasmdan itibaren 
+en ge9 bir (1) 
+ay i9erisinde ilgili kurumlarm en ytiksek 
+ita amiri tarafmdan onerilen ki~ilerin Dijital Donti~tim 
+ve Elektronik Devlet Kurumuna bildirilmesi i.lzerine 
+Kurum Ba~kam onerisi ve Ba~bakanm teklifi Uzerine 
+otuz altt (36) ayhgma Bakanlar Kurulunca atamr. 
+(E) Kurul ilyeleri, mazeretsiz olarak 
+ti9 (3) kez ard arda 
+toplanttya kattlmamalan halinde, Kurum ba~kanmm 
+onerisi ve Ba~bakamn teklifi i.lzerine Bakanlar Kurulu 
+Karan ile gorevden almabilir. 
+(3) Dijital Donil~ilm ve Elektronik Devlet Teknik Kurulu 
+Uyelerinden, kamu gorevi 
+d1~mdan atanm1~ olanlara, fiilen 
+toplanttya katild1klan her ay i9in, 
+ayhk brtit asgari Ucretin 
+1/4'ii ile ayhk briit asgari iicret tutan arasmda Bakanlar 
+Kurulunun belirleyecegi miktarda 
+Hakk1 Huzur Tahsisatl 
+verilir. 
+(4) 
+(A) 
+(B) 
+(C) 
+Dijital Donii~ilm ve Elektronik Devlet Kurumu Ba~kam, 
+Dijital 
+Doni.l~i.lm ve Elektronik Devlet Teknik Kuruluna 
+da ba~kanhk eder. 
+Dijital Donti~tim ve Elektronik Devlet Teknik Kurulu, 
+olagan olarak Ba~kan tarafmdan toplanttya 9agnhr. Oye 
+tam say1smm salt 9ogunlugu ile toplamr 
+ve katilanlarm 
+salt 9ogunlugu ile karar 
+ahr.  Oylarm e~itligi halinde ise 
+Ba~kanm 
+ay1rt edici oyu vardir. Kurul toplantdannda 
+9ekimser oy, karar yeter 
+say1S1 a91smdan dikkate 
+almmaz. Oylamada Ba~kan oyunu en son kullamr. 
+Ba~kanm 
+kat1lmad1g1 toplant1larda, toplantlya Dijital 
+Donii~i.lm ve Elektronik Devlet Kurumu idari Ba~kan 
+Y 
+ard1mc1s1; hem Ba~kan hem de ldari Ba~kan 
+Yard1mc1smm olmamas1 durumunda Dijital Donil~ilm 
+ve Elektronik Devlet Kurumu Teknik Ba~kan 
+Y 
+ard1mc1s1 ba~kanhk eder. 
+((:) Kurul toplant1 gilndemi Ba~kan tarafmdan belirlenir. 
+Uyeler, toplantlda 
+gori.l~Ulmesini istedikleri konular1, 
+toplantl tarihinden iki (2) 
+i~ gilnil once yaz1h olarak 
+
+1545
+Dijital 
+Donil~tim 
+5. 
+ve 
+Elektronik 
+Devlet 
+Teknik 
+Kurulunun 
+Gorev, 
+Yetki 
+ve 
+Sorumluluklan 
+76/2023 
+Ba~kan'a 
+bildirirler. 
+Bildirim 
+neticesinde 
+toplanttda 
+goril~illmesi 
+Ba~kan 
+tarafmdan 
+onaylanan 
+konular 
+toplant1 
+gilndemine 
+ahmr. 
+Toplantlda 
+konular 
+gilndem 
+s1rasma 
+gore 
+goril~illilr. 
+(D) 
+Kurul 
+toplantilan 
+uzaktan 
+eri~im 
+yoluyla 
+9evrimi9i 
+yaptlabilir
+. 
+(E) 
+Kurulun 
+sekreterlik 
+i~leri 
+Kurum 
+personeli 
+tarafmdan 
+yilriltillilr
+. 
+Kurul 
+toplanttlanndaki 
+tutanaklar, 
+gilndem, 
+yap1lan 
+oneriler 
+ve 
+alman 
+kararlar 
+Ba~kan 
+tarafmdan 
+gorevlendirilecek 
+bir 
+kurum 
+personeli 
+tarafmdan 
+Kurul 
+defterine 
+yaz1hp 
+ilyeler 
+tarafmdan 
+imzalamr 
+ve 
+dijital 
+olarak 
+da 
+kay1t 
+edilir. 
+Toplant1ya 
+9evrimi9i 
+katdan 
+ilyelerin 
+imzalan 
+Ba~kanhk 
+tarafmdan 
+toplantmm 
+ger9ekle~igi 
+hafta 
+i,;:erisinde 
+tamamlamr. 
+(5) 
+Dijital 
+Donil~ilm 
+ve 
+Elektronik 
+Devlet 
+Teknik 
+Kurulu, 
+~ubat, 
+Haziran 
+ve 
+Ekim 
+aylannda 
+olmak 
+ilzere 
+ydda 
+en 
+az 
+ily 
+(3) 
+kez
+, 
+Ba~kanm 
+9agns1 
+ile 
+olagan 
+olarak 
+toplamr
+.  Ba~kanm 
+talebi 
+dogrultusunda 
+Kurul 
+acil 
+toplanttya 
+9agnlabilir. 
+Dijital 
+Donil~ilm 
+ve 
+Elektronik 
+Devlet 
+Teknik 
+Kurulunun 
+gilndeminde 
+yer 
+alan 
+konulara 
+bagh 
+olarak 
+diger 
+kamu 
+kurum 
+ve 
+kurulu~ 
+temsilcileri 
+veya 
+bilgisine 
+ihtiya9 
+duyulan 
+ki~iler 
+ba~kan 
+tarafmdan 
+toplanttya 
+9agnlabilir. 
+ikinci 
+Bolilm 
+Kurulun 
+Gorev, 
+Yetki 
+ve 
+Sorumluluklan 
+Dijital 
+Donil~ilm 
+ve 
+Elektronik 
+Devlet 
+Teknik 
+Kurulunun 
+gorev
+, yetki 
+ve 
+sorumluluklan 
+a~ag1da 
+belirtilenlerdir: 
+( 
+1) 
+Yasa 
+kapsammdaki 
+faaliyet\ere 
+ili~kin 
+tilzilk, 
+yonetmelik 
+gibi 
+dilzenlemelerle 
+ilgili 
+onerilerde     bulunmak, 
+kullamlacak 
+standartlan 
+belirlemek 
+ve 
+bunlarm 
+uygulanmasma 
+yonelik 
+gene! 
+tedbirler ile 
+ilgili 
+onerilerde 
+bulunmak, 
+(2) 
+Dijital 
+Donii~ilm 
+ve 
+Elektronik 
+Devlet 
+Kurumunun 
+d-Donii~Um 
+ve 
+e-Devlet 
+alanmda, 
+performans 
+ol9Ulerini 
+ve 
+hizmet 
+kalitesi 
+standartlanm 
+tespit 
+etmek 
+ve 
+Kurum 
+Ba~kanma 
+bunlarla 
+ilgili 
+rapor 
+sunmak, 
+(3) 
+(4) 
+(5) 
+Ortak 
+e-Devlet 
+hizmetlerinin 
+daha 
+h1zh, 
+etkili 
+ve 
+verimli 
+yilriltillmesi 
+i9in 
+tedbirler 
+ve 
+oneriler 
+geli~tirmek
+, 
+Dijital 
+Donli~ilm 
+ve 
+Elektronik 
+Devlet 
+Kurumu 
+i,;:in 
+haz1rlanacak 
+ve 
+uygulanacak 
+olan 
+btit9e 
+ile 
+ilgili 
+olarak 
+goril~ 
+ve 
+onerilerde bulunmak, 
+Geli~tirilme 
+gerek9esi 
+ortadan 
+kalkan, 
+beklenen 
+fonksiyonlan 
+yerine 
+getiremeyen 
+veya 
+i~letilmesi 
+ekonomik 
+olmayan 
+bilgi 
+
+1546
+Ger;:ici Madde 
+Uyelerin Atanma 
+Siiresi 
+Yurμtme Yetkisi 
+Yiiriirliige Giri~ 
+sistemlerinin ilgili birimlerce tespiti sonras1 ilgili kurumlann 
+da goril~lerini alarak bunlarm tasfiyesine yonelik oneride 
+bulunmak, 
+(6) D-Donil~ilm ve e-Devlet hizmetlerine ili~kin proje, hizmet ve 
+kurum dilzeyinde performans izlemesi yaparak ilgili d-
+donil~ilm ve e-Devlet hizmetlerine ili~kin performans 
+art1~1 ir;:in 
+gerekli tedbirlerin almmasmm saglanmas1 amac, ile Ba~kana 
+goril~ sunmak. ihtiyar;: halinde kamu kurum ve kurulu~lan 
+tarafmdan ilgili birimlere iletilen veya hazirlanan yeni 
+projelerle ilgili goril~lerini Ba~kan'a iletmek, 
+(7) D-Donil~ilm gostergelerini dikkate alarak Ba~kan'a gerekli 
+iyile~tirici tavsiyelerde bulunmak ve tedbirlerin almmasma 
+yonelik goril~ sunmak, 
+(8) D-Donil~ilm ve e-Devlet hizmetlerine ili~kin rehber ve 
+standartlara uyum yonilnden Yasa kapsam1 diihilinde bulunan 
+tilm kurulu~lanm denetlenmesine 
+<lair usul ve esaslarm 
+belirlenmesine ili~kin haztrlanacak tilzilk ile ilgili goril~ ve 
+oneriler sunmak, 
+(9) D-Donil~ilm ve e-Devlet hizmet ve projelerine ili~kin izleme 
+ve degerlendirme usu) ve esaslannm belirlenmesine ili~kin 
+haztrlanacak tilziik ile ilgili goril~ ve oneriler sunmak, 
+(10) D-Donii~iim ve e-Devlet hizmetleri kapsammda yaz1hm, 
+donamm, bilgi teknolojisi hizmetleri ve eri~ime ili~kin her tilrlii 
+ulusal ve uluslararas1 alanda imzalanan protokoller ile ilgili 
+uygulamay1 izleyerek Ba~kan'a raporlamak, 
+(11) D-Donii~iim ve e-Devlet hizmet birimlerin yiiriittiikleri 
+projelere ili~kin olarak list seviye uygulama ad1mlan ve 
+performans gostergelerini ilgili. payda~larla birlikte belirlemek 
+ve bu kriterler 
+r;:err;:evesinde projelerin ilerlemesini izleyerek 
+Ba~kan 
+'a raporlamak, 
+(12) D-Donii~iim faaliyetlerinde Yasa'nm 4'iincii maddesinde 
+sayilan temel ilkelerin gozetilmesini saglamak, 
+(13) Kurul kararlan tavsiye niteliginde olup Kurumun alman 
+kararlara uyma yiikiimliiliigii yoktur. 
+D<;DNCD KISIM 
+Ger;:ici ve Son Kurallar 
+1. Dijital Donii~iim ve Elektronik Devlet Teknik Kurulu iiyeleri, bu 
+Tiiziik yiirilrlilge girdikten sonra 
+en ger;: iir;: (3) ay ir;:erisinde i~bu 
+Tiizilgiin 4 (2) ( C) bendinde yer alan kurallar uyarmca atamr. 
+6. Bu Tilziik, Ba~bakanhk tarafmdan yilriltilliir. 
+7. Bu Tiizilk, Resmi Gazete'de 
+yay1mland1g1 tarihten ba~layarak 
+yiirilrlilge girer. 

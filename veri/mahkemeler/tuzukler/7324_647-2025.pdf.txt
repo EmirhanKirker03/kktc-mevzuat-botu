@@ -1,0 +1,1798 @@
+
+
+Sayı : 647
+2047
+Kısa 
+İsim 
+Tefsir 
+ÜRÜN 
+GÜVENLİĞİ 
+YASASI 
+(42/2014 
+Sayılı 
+Yasa) 
+Madde 
+28, 
+30, 
+33 
+ve 
+38 
+Altında 
+Tüzük 
+Kuzey 
+Kıbrıs 
+Türk 
+Cumhuriyeti 
+Bakanlar 
+Kurulu, 
+Ürün 
+Güvenliği 
+Yasası'nın 
+28'inci 
+maddesinin 
+(4)'üncü 
+fıkrası, 
+30'uncu 
+maddesinin 
+(9)'uncu 
+fıkrası, 
+33'üncü 
+ve 
+38'inci 
+maddesinin 
+kendisine 
+verdiği 
+yetkiye 
+dayanarak 
+Bakanlıkça 
+hazırlanan aşağıdaki 
+Tüzüğü 
+yapar. 
+1. 
+Bu 
+Tüzük, 
+Ürün 
+Güvenliğinde 
+İthalat 
+Denetimi, 
+Piyasa 
+Denetimi 
+ve 
+Bilgi 
+Ağı 
+Tüzüğü 
+olarak 
+isimlendirilir. 
+BİRİNCİ 
+KISIM 
+Genel 
+Kurallar 
+2. 
+Bu 
+Tüzükte 
+metin 
+başka 
+türlü 
+gerektirmedikçe; 
+"
+Bakanlık", 
+ticaret 
+işleri 
+ile 
+görevli 
+Bakanlığı 
+anlatır. 
+"Bilgi 
+Ağı 
+İrtibat 
+Noktası", 
+Bakanlığı 
+anlatır. 
+"Bilgi 
+Toplumu 
+Hizmet 
+Sağlayıcısı" 
+hizmet 
+alıcısı 
+ile 
+fiziksel 
+olarak 
+aynı 
+yerde 
+bulunmayan, 
+hizmeti 
+elektronik 
+iletişim 
+araçları 
+ile 
+gerçekleştiren, 
+hizmeti 
+alıcısının 
+bireysel 
+talebi 
+doğrultusunda 
+sağlayan, 
+hizmeti 
+genellikle 
+bir 
+ücret 
+karşılığında 
+sunan 
+gerçek 
+ve 
+tüzel 
+kişiyi 
+anlatır. 
+"İlgili 
+Bakanlıklar", 
+Yetkili 
+otoritelerin 
+bağlı 
+oldukları 
+Bakanlıkları 
+ayrıca 
+Gümrük 
+ve 
+Rüsumat 
+Dairesinin 
+bağlı 
+olduğu 
+Bakanlığı 
+anlatır. 
+"Ciddi 
+Risk", 
+Etkileri 
+kısa 
+vadede 
+ortaya 
+çıkmayanlar 
+da 
+dahil 
+olmak 
+üzere, 
+Yetkili 
+Otoritenin 
+ivedilikle 
+müdahalesini 
+gerektiren 
+herhangi 
+bir 
+riski 
+anlatır. 
+"Çevrimiçi 
+arayüz", 
+ekonomik 
+operatör 
+tarafından 
+veya 
+ekonomik 
+operatör 
+adına 
+işletilen 
+ve 
+tüketicinin 
+ürüne 
+erişimini 
+sağlayan 
+bir 
+web 
+sitesi, 
+web 
+sitesinin 
+parçası 
+veya 
+bir 
+uygulama 
+da 
+dahil 
+olmak 
+üzere 
+her 
+hangi 
+bir 
+yazılımı 
+anlatır. 
+"Dağıtıcı", 
+Bir 
+ürünün 
+tedarik 
+zincirinde 
+yer 
+alan 
+ve 
+faaliyetleri 
+bu 
+ürünün 
+güvenliğine 
+ilişkin 
+özelliklerini 
+etkilemeyen 
+gerçek 
+veya 
+tüzel 
+kişiyi 
+anlatır. 
+"Duyusal 
+inceleme", 
+Ürünün 
+herhangi 
+bir 
+test 
+ve/veya 
+muayene 
+işlemine 
+tabi 
+tutulmasından 
+önce, 
+denetmenin 
+duyularını 
+veya 
+basit 
+ve 
+yaygın 
+olarak 
+kullanımda 
+olan 
+ölçme 
+araçlarını 
+kullanarak 
+yapılan 
+incelemeyi 
+anlatır. 
+"Düzeltici 
+faaliyet", 
+Bir 
+ürünün 
+ilgili 
+teknik 
+düzenlemeye 
+aykırılığının 
+veya 
+güvensizliğinin 
+veya 
+uygunsuzluğun 
+verilen 
+süre 
+içinde 
+üretici 
+tarafından 
+giderilmesi 
+faaliyetini 
+anlatır
+. 
+"Ekonomik 
+operatör", Üretici, 
+yetkili 
+temsilci, 
+ithalatçı, 
+dağıtıcı
+,
+-sipariş 
+karşılama 
+hizmeti 
+sağlayıcısı 
+veya 
+ürünün 
+ilgili 
+teknik 
+düzenlemesi 
+uyarınca 
+imalatı, 
+piyasaya 
+arzı 
+veya 
+piyasada 
+bulundurulması 
+ve 
+hizmete 
+sunulmasından 
+sorumlu 
+olan 
+diğer 
+kişiyi 
+anlatır. 
+
+2048
+"Geri Çağırma", Üretici veya dağıtıcı tarafından daha önceden 
+tüketicilere 
+sunulmuş olan bir tehlikeli ürünün iade edilmesini temin 
+etmeye yönelik herhangi bir önlemi 
+anlatır. 
+"Geri Çekme", Tüketici için tehlikeli olan herhangi bir ürünün 
+dağıtımını, sergilenmesini ve piyasaya arzını engellemeye yönelik 
+herhangi bir önlemi 
+anlatır. 
+"Sipariş karşılama hizmeti sağlayıcısı", Ürünün mülkiyetine sahip 
+olmaksızın, posta ve taşımacılık hizmetleri kapsamları dışında, 
+depolama, paketleme, adresleme ve sevkiyat hizmetlerinden en az ikisini 
+gerçekleştiren kişiyi anlatır. 
+"İthalatçı", İthal edilen mallarla ilgili olarak ithal edildikleri andan 
+başlamak üzere, gümrük kontrolünden tesliminin yapıldığı ana kadar, bu 
+mallarla ilgili herhangi bir mal sahibini 
+anlatır. 
+"Numune alma etiketi", Test ve/veya muayene için alınan numunelere 
+iliştirilen veya yapıştırılan numuneye ait bilgileri, tarafların isim, unvan 
+ve 
+imzalarını taşıyan belgeyi anlatır. 
+"Piyasa Gözetimi ve Denetimi", Yetkili Otoritenin, piyasaya arz edilen, 
+piyasada bulunan veya hizmete sunulan ürünlerin, bu 
+Yasanın ilgili 
+kurallarınca, ilgili teknik düzenlemesine ve/veya güvenlik gereklerine 
+uygun 
+olduğunu, zorunlu uygunluk işaretlerini taşıdığını, gerekli tüm 
+uygunluk 
+değerlendirmesi prosedürlerini tamamladığını, beraberinde 
+gerekli teknik dosya ve belgeleri 
+bulundurduğunu ve gerektiği 
+durumlarda uygunluğun sağlanması için düzeltici işlemlere tabi tutulmuş 
+olduğunu teyit, temin ve kontrol etmek üzere almış olduğu her türlü 
+önlemi, takip 
+ettiği prosedürleri ve yürüttüğü her türlü faaliyetleri anlatır. 
+"Piyasada Bulunma", bir ürünün piyasaya arz edildiği andan nihai 
+kullanıcıya veya tüketiciye devrine  veya hizmete sunulduğu ana kadar 
+devam eden süreci 
+anlatır. 
+"Piyasaya Arz", montajı da dahil olmak üzere imalat süreci sona ermiş, 
+tüketime veya kullanıma hazır veya gerekiyorsa kurulumunun 
+tamamlanması ile birlikte kullanıma hazır olacak bir ürünün tedarik veya 
+kullanım amacıyla bedelli veya bedelsiz olarak ilk defa piyasada yer 
+alması için yapılan faaliyeti anlatır. 
+"Risk", bir tehlikenin zarara yol açma olasılığı ile bu zararın şiddet 
+derecesinin birleşimi anlatır. 
+"Risk teşkil eden ürün", ilgili ürün güvenliği mevzuatı kapsamında 
+korunan kişilerin genel sağlık ve güvenliği, iş yerinde sağlık ve güvenlik, 
+tüketici 
+korunması, çevrenin korunması, kamu güvenliği ve diğer kamu 
+menfaatleri üzerinde, ürünün amaçlanan 
+kullanım amacına veya ürünün 
+normal veya makul olarak öngörülebilir 
+kullanım koşulları, kullanım 
+süresi, uygulanabildiği ölçüde, hizmete sunulması, kurulumu ve bakım 
+gerekleri dahil olmak üzere çerçevesinde makul ve kabul edilebilir 
+seviyeyi 
+aşacak ölçüde olumsuz etkide bulunma potansiyeline sahip 
+ürünü 
+anlatır. 
+"Son kullanıcı", bir ürünün herhangi bir ticaret, iş, zanaat veya meslek 
+dışındaki tüketici olarak veya endüstriyel veya mesleki faaliyetleri 
+sırasında profesyonel bir son kullanıcı olarak kendisinin kullanımına 
+sunulduğu, Kuzey Kıbrıs Türk Cumhuriyetinde ikamet eden veya 
+yerleşik olan herhangi bir gerçek veya tüzel kişiyi anlatır. 
+
+2049
+42/2014 
+"Şahit numune", test, muayene ve/veya belgelendirme kuruluşuna 
+gönderilmek üzere alınan numunenin zayi olması veya test sonuçlarına 
+yönelik herhangi bir itiraz olması durumunda başvurulmak üzere alınan 
+numuneyi anlatır. 
+"Tüketici", bir mal veya hizmeti ticari veya mesleki amaçlar dışında özel 
+amaçlarla 
+satın alarak nihai olarak kullanan veya tüketen gerçek veya 
+tüzel 
+kişiyi anlatır. 
+"Teknik Düzenleme", bir ürünün, ilgili idari kurallar da dahil olmak 
+üzere, özellikleri, 
+işleme ve üretim yöntemleri, bunlarla ilgili 
+terminoloji, sembol, ambalajlama, 
+işaretleme, etiketleme ve uygunluk 
+değerlendirmesi işlemleri hususlarından biri veya birkaçını belirten, 
+uyulması zorunlu her türlü mevzuatı ve düzenleyici işlemi anlatır. 
+"Uygunsuzluk", bu Tüzük kapsamındaki herhangi bir gerekliliğe 
+uyulmamasını anlatır. 
+"Üretici", eğer Kuzey Kıbrıs Türk Cumhuriyetinde kurulmuş ise,  bir 
+ürünün üreticisi ve ürüne ismini, ticari 
+markasını veya başka belirgin bir 
+işaretini koymak sureti ile kendisini üretici olarak sunan herhangi bir 
+kişiyi veya ürünü ıslah eden kişiyi; üreticinin temsilcisi veya üreticisi 
+Kuzey 
+Kıbrıs Türk Cumhuriyetinde kurulmuş değilse veya kurulmuş 
+olan bir temsilcisi yoksa, ürünün ithalatçısını veya faaliyetleri bir ürünün 
+güvenlik özelliklerini etkileyebilecek 
+olması halinde ise arz zincirindeki 
+diğer profesyonelleri anlatır. 
+"Ürün", bir hizmetin verilmesi esnasında kullanılan ürünler de dahil 
+olmak üzere, tüketicilerin 
+kullanımı için amaçlanan veya makul 
+ölçülerde öngörülen 
+şartlarda, onlar için düşünülmemiş olsa bile, 
+muhtemelen tüketiciler 
+tarafından kullanılabilecek olan yeni, kullanılmış 
+veya ıslah edilmiş olmasından bağımsız olarak, bir ticari faaliyet 
+sırasında tüketicilere sunulan veya onlar tarafından elde edilebilen, 
+herhangi bir ürünü 
+anlatır. 
+Ancak, gıda, yem, canlı hayvan, canlı bitkiler ile insan orijinli canlı 
+ürünleri kapsamaz. 
+"Ürün Denetleyicileri", piyasa gözetim ve denetimini 
+gerçekleştiren 
+Yasanın 32'inci maddesine göre yetkili otorite tarafından 
+görevlendirilen personeli anlatır. 
+"Yetkili Otorite", Yasanın 28'inci maddesinin (5)'inci fıkrası uyarınca 
+alınan karara uygun olarak görev alanlarına göre;  Ticaret Dairesini, 
+Sanayi Dairesini, 
+Çalışma Dairesini, Yataklı Tedavi Kurumları 
+Dairesini, İlaç ve Eczacılık Dairesini, Temel Sağlık Hizmetleri 
+Dairesini, Limanlar Dairesini, Planlama ve 
+İnşaat Dairesini, Çevre 
+Dairesini, Bilgi Teknolojileri 
+Haberleşme Kurumunu, enerji işleri ile 
+görevli 
+Bakanlığı, Polis Genel Müdürlüğü ile Patlayıcı Maddeler 
+Müfettişliğini anlatır. 
+"Yetkili Temsilci", üreticinin bu Yasanın ilgili kurallarında ve/veya ilgili 
+teknik düzenlemesinde belirtilen 
+sorumlulukları ve prosedürleri kendi 
+adına tamamen veya kısmen yerine getirmek üzere yazılı olarak 
+yetkilendirdiği gerçek veya tüzel kişiyi anlatır. 
+"Yasa", Ürün Güvenliği Yasasını anlatır. 
+
+2050
+Amaç 
+Kapsam 
+3. 
+Bu Tüzük, Yasa kapsamında olan ürünlerin güvenli bir şekilde piyasaya 
+sunulmasını sağlamak amacıyla piyasa gözetimi ve denetimine ilişkin usul ve 
+esasları, ciddi risk teşkil eden ürünler için kılavuz kuralların belirlenmesini, 
+ithalat denetimini, piyasa gözetimi ve denetimi konusunda görevlendirilen 
+Yetkili Otoriteler 
+arasında bir bilgi ağının oluşturulmasını amaçlar. 
+4. 
+Bu Tüzük, Yasa kapsamındaki ürünlerin güvenli olarak piyasaya 
+sunulmasını sağlamak amacıyla piyasa gözetimi ve denetimine ilişkin usul ve 
+esasları, ciddi risk teşkil eden ürünler için kılavuz kuralları, ithalat denetimi 
+ile piyasa gözetimi ve denetimi konusunda görevlendirilen  Yetkili Otoriteler 
+arasında bir bilgi ağının oluşturulmasını kapsar. 
+Bu Tüzük, piyasa gözetim ve denetimi ile ciddi risk 
+teşkil eden ürünler 
+için 
+kılavuz kurallar konusunda çerçeve kuralları belirler ve ilgili 
+Bakanlıkların yetkili oldukları ürün gruplarının yürürlükteki tüzükleriyle 
+birlikte 
+uygulanır ayrıca piyasa gözetimi ve denetimini yürüten yetkili 
+otoritelerin 
+alacağı daha özel önlemleri etkilemez. 
+İKİNCİ KISIM 
+Piyasaya Arz veya Piyasada Bulunma 
+Piyasaya Arz ve 5. (1) 
+Yasa 
+kapsamındaki bir urun, Kuzey Kıbrıs Türk 
+Cumhuriyetinde 
+yerleşik bulunan bir ekonomik operatörün 
+bulunması durumunda piyasaya arz edilebilir. 
+Piyasada 
+Bulunma 
+(2) 
+(3) 
+(4) 
+(5) 
+Üretici, yetkili temsilci, 
+ithalatçı, aoğıtıeı, ifa sipariş karşılama 
+hizmeti sağlayıcısı Yasada gösterilen sorumlulukları 
+çerçevesinde ürünü piyasaya arz ederler. 
+Ekonomik operatörlerin 
+sorumluluklarına halel 
+gelmeksizin ekonomik operatörün 
+adı, tescilli ticari adı veya 
+tescilli ticari 
+markası ve posta adresi de dahil olmak üzere 
+iletişim bilgileri ürünün üzerinde veya ambalajında, kolisinde 
+veya beraberindeki belgede yer 
+alır. 
+İnternet üzerinden veya diğer mesafeli satış yöntemleriyle satışa 
+sunulan ürünler, teklifin Kuzey Kıbrıs Türk Cumhuriyetindeki 
+son kullanıcıları hedef alması durumunda piyasada 
+bulundurulmuş sayılır. 
+Ekonomik operatörler ve bilgi toplumu hizmet sağlayıcıları 
+Yasadaki kurallar uyarınca, piyasa gözetimi ve denetimi 
+otoritelerinin talebi üzerine ve belirli  durumlarda, bir ürünün 
+sunduğu risklerin ortadan kaldırılmasına veya bu mümkün 
+değilse azaltılmasına yönelik her türlü tedbirin alınmasını 
+kolaylaştırmak için piyasa gözetimi ve denetimi otoriteleri ile 
+işbirliği yapar. 
+
+2051
+Yetkili 
+Otoritelerin 
+Faaliyetleri 
+Ulusla Piyasa 
+Gözetimi 
+Stratejisi ve 
+1statistiki 
+ÜÇÜNCÜ KISIM 
+Yetkili Otoritelerin Faaliyetleri 
+ve Strateji 
+6. (1) 
+(2) 
+(3) 
+(4) 
+(5) 
+(6) 
+7. (1) 
+(2) 
+Yetkili otorite, 
+üstlendiği uygunsuzluğa ilişkin soruşturmanın 
+bir parçası olarak yürütülen ortak faaliyetlerden elde edilen her 
+türlü bilgiyi kullanabilir. 
+Yetkili otoriteler, 
+aşağıdaki hususları sağlamak amacıyla 
+faaliyetlerini yürütür: 
+{A) Yasa kapsamındaki mevzuata tabi olan ürünlerle ilgili 
+olarak çevrimiçi ve 
+çevrimdışı kullanıma sunulan 
+ürünlerin yetki 
+alanı dahilindeki etkin piyasa gözetimi ve 
+denetimi; 
+(B) Ekonomik operatörler 
+tarafından ilgili teknik 
+düzenlemesine ve bu Yasa ve bu Tüzüğe uygun orantılı 
+düzeltici faaliyetin yapılmasını; 
+(C) Ekonomik operatörün düzeltici faaliyeti yapmadığı 
+durumlarda uygun ve orantılı önlemlerin alınmasını; 
+Yetkili otoriteler yetkilerini kullanırken ve görevlerini bağımsız, 
+tarafsız ve önyargısız bir şekilde yerine getirir. 
+Yetkili otoriteler, yukarıdaki fıkralarda belirtilen faaliyetlerinin 
+bir 
+parçası olarak, belge kontrolleri ve uygun olduğu hallerde 
+fiziksel kontroller ve laboratuvar kontrolleri yoluyla, yeterli 
+ölçekte ürünlerin özelliklerine 
+ilişkin uygun kontrolleri 
+gerçekleştirir. Etkin piyasa gözetimini sağlamak ıçın 
+kaynaklarını ve eylemlerini piyasa gözetimi stratejisini de 
+dikkate alarak 
+kullanır ve buna göre yeterli örnekler alır. 
+Yetkili otoriteler, hangi kontrollerin, hangi tür ürünlerde ve 
+hangi ölçekte 
+gerçekleştirileceğine karar verirken aşağıdaki 
+faktörleri dikkate alırlar: 
+(A) Ürünlerle ilgili olası tehlikeler ve uygunsuzluklar ve 
+mümkünse 
+bunların piyasada ortaya çıkışı; 
+(B) Ekonomik operatörün kontrolü altındaki faaliyet ve 
+işlemler; 
+(C) Ekonomik operatörün geçmiş uygunsuzluk kayıtları; 
+(Ç) Diğer yetkililerden, ekonomik operatörlerden, medyadan 
+ve 
+diğer kaynaklardan alınan ve uygunsuzluk 
+gösterebilecek tüketici 
+şikayetleri ve diğer bilgiler; 
+(D) Avrupa 
+Birliğinin veya Türkiye Cumhuriyetinin 
+yayınlamış olduğu veriler; 
+(E) Gümrük 
+ve Rüsumat Dairesi tarafından gerçekleştirilen 
+risk analizleri. 
+Piyasa Gözetimi ve Denetimi Kurulu, 
+Yasa'nın 28(5) maddesi 
+uyarınca Bakanlar Kurulu Kararı ile belirlenen otoritelerin 
+çalışma ve işbirliği koşulları, görev alanları ile bu kuruluşlar 
+arasındaki işbirliğine ilişkin kuralların uygulanmasını sağlar. 
+Bakanlık koordinatörlüğünde, tüm yetkili otoritelerin katılımı ile 
+en az dört 
+yıl<ta bir, kapsamlı bir ulusal Piyasa Gözetim Stratejisi 
+hazırlanır ve Bakanlar Kurulunun onayına sunulur. 
+Ulusal piyasa gözetimi stratejisi 
+aşağıdaki unsurları içerir: 
+
+2052
+Bilgiler 
+Piyasa Gözetimi 
+ve Denetiminde 
+Dikkat Edilmesi 
+Gereken 
+Hususlar 
+32/2014 
+12/2006 
+27/2014 
+(3) 
+(A) 
+uygunsuzluğu etkileyebilecek pazar eğilimleri dikkate 
+alınarak, güvenli olmayan ürünlerin ortaya çıkışına ilişkin 
+mevcut bilgiler, ürün kategorilerine göre oranlar ve 
+gelişen teknolojilerle ilgili olası tehdit ve riskler; 
+(B) 
+~u Tüzüğün 6'ncı maddesinde sayılan kontroller, 
+(C) Oncelik olarak belirlenen alanlar, 
+(Ç) Önemli düzeyde 
+uygunsuzluğa sahip ürün kategorileri 
+için öngörülen minimum kontrol seviyeleri de dahil olmak 
+üzere, öncelik olarak belirlenen alanlarda 
+uygunsuzluğu 
+azaltmak için planlanan yaptırım faaliyetleri. 
+Bir önceki takvim 
+yılı boyunca Yasaya tabi ürünlerle ilgili 
+olarak yetkili otoriteler 
+tarafından gerçekleştirilen piyasa 
+gözetim ve denetim kontrollerini kapsayan 
+ayrıntılı istatistiksel 
+veriler ve ürün 
+güvenliği açısından bu tür ürünlere yönelik 
+yapılan kontroller ve uygulanan yaptırımların sayısı, Bakanlık 
+tarafından oluşturulan bilgi ağı sistemi aracılığı ile tutulur. 
+DÖRDÜNCÜ KISIM 
+Piyasa Gözetimi ve Denetiminde Genel Esaslar 
+8. Piyasa gözetimi ve denetimi, ölçülülük ilkesine uygun olarak, tedbirlerin 
+konusu ve 
+amacı, niteliği ve genel fiili durumuyla ilgili olduğu ölçüde verimli 
+ve etkili 
+bir şekilde kullanılır ayrıca güvenli olmayan ürün durumundan 
+kaynaklanan potansiyel zarar dikkate 
+alınır. Yetkili otoriteler, ulusal hukukun 
+yanı sıra ifade özgürlüğü ve medyanın özgürlüğü ilkelerine ve Özel Hayatın 
+ve Hayatın Gizli Alanının Korunması Yasası ve Bilgi Edinme Yasası 
+kurallarını gözetirler. 
+Piyasa Gözetimi 9. (1) 
+Piyasa gözetim ve denetim faaliyetleri Yasa 
+kurallarına bağlı 
+olarak gerçekleştirilir ve aşağıdaki bilgiler de gerektiğinde 
+istenir: 
+ve Denetimi 
+Faaliyetleri 
+(A) 
+(B) 
+(C) 
+Ürünün yürürlükteki mevzuata 
+uygunluğunu 
+değerlendirmek amacıyla erişimin gerekli olduğu ölçüde 
+yazılıma erişim de dahil olmak üzere, ürünün uyumluluk 
+ve teknik yönlerine 
+ilişkin ilgili belgeleri, teknik 
+dokümanları, verileri veya bilgileri sağlamalarını talep 
+etme yetkisi bu tür belgelerin, teknik 
+şartnamelerin, 
+verilerin veya bilgilerin saklandığı ortam veya 
+saklandığı yer ne olursa olsun, her şekil ve formatta 
+mevzuatın uyumlaştırılması ve bunların kopyalarının 
+alınması veya edinilmesini de içerir. 
+Ekonomik operatörlerin tedarik zinciri, 
+dağıtım ağının 
+detayları, piyasadaki ürün miktarları ve ilgili olduğu 
+yerde söz konusu ürünle aynı teknik özelliklere sahip 
+diğer ürün modelleri hakkında ilgili bilgileri sağlamaları 
+talep edilebilir. 
+Söz konusu bilgilerin 
+soruşturma konusuyla ilgili olması 
+durumunda, ekonomik operatörlerden İnternet 
+
+2053
+Bilgi Ağının 
+Oluşturulması 
+sitelerinin sahibinin belirlenmesi amacıyla gerekli 
+bilgileri 
+sağlamalarını talep etme yetkisi vardır. Bu 
+amaçla: 
+(a) Kapak 
+kimliği de dahil olmak üzere ürün 
+numunelerini alma, bu numuneleri inceleme 
+ve 
+uygunsuzluğu tespit etmek ve kanıt elde etmek 
+amacıyla bunlara ters mühendislik uygulama 
+(b) İlgili ürünlere atıfta bulunan içeriğin çevrim içi bir 
+arayüzden 
+kaldırılmasını talep etmek veya 
+çevrımıçı bir arayüze eriştiklerinde son 
+kullanıcılara açıkça bir uyarı gösterilmesini talep 
+etmek; veya 
+( 
+c) Ciddi bir riski ortadan kaldırmak için başka etkili 
+araçların mevcut olmadığı durumlarda bir talebin 
+yerine getirilmemesi durumunda, bilgi toplumu 
+hizmet 
+sağlayıcılarının, ilgili üçüncü taraftan bu 
+tür önlemleri 
+uygulamasını talep etmek de dahil 
+olmak üzere, çevrimiçi arayüze erişim 
+kısıtlamasını talep etmek. 
+(2) Yetkili otorite ürünle ilgili Yasadaki tedbirleri, 
+kararları veya 
+talimatları almadan veya vermeden önce, ilgili ekonomik 
+operatöre, on 
+iş günü içinde dinlenme fırsatı verir. Tedbirin, 
+kararın veya emrin acilliği nedeniyle, sağlık veya güvenlik 
+gereklilikleri veya kamu 
+sağlığı ve güvenliği ile ilgili diğer 
+gerekçeler nedeniyle tedbir, karar veya talimatın ekonomik 
+operatöre dinlenme 
+fırsatı verilmeden alınması veya verilmesi 
+halinde, ekonomik operatöre 
+mi.lmkün olan en kısa sürede bu 
+fırsat verilir ve söz konusu tedbir, karar veya talimat yetkili 
+otorite 
+tarafından derhal gözden geçirilir. 
+10. (1) 
+(2) 
+BEŞİNCİ KISIM 
+Bilgi 
+Ağı 
+Piyasa Gözetim ve Denetim Kurulu, piyasa gözetimi, denetimi 
+ve ithalat denetimi konusunda görevlendirilen Yetkili Otoriteler 
+arasında bir bilgi ağı oluşturur. Bilgi ağı irtibat noktası 
+Bakanlıktır. 
+Oluşturulan bilgi ağı, risk değerlendirmesi, tehlikeli ürünler, test 
+metotları ve sonuçları, son bilimsel gelişmeler ve kontrol 
+faaliyetleri ile ilgili 
+diğer hususlar hakkında bilgi değişimini, 
+ortak gözetim, denetim ve test projelerinin oluşturulması ve 
+ifasını, iyi uygulamaların ve uzmanlık bilgilerinin değişimi ile 
+eğitim faaliyetlerinde işbirliğini, tehlikeli ürünlerin izlenmesi, 
+piyasaya 
+arzının ve hizmete sunulmasının engellenmesi ve 
+tüketici veya kullanıcıdan geri çekilmesi ile ilgili ülke genelinde 
+geliştirilmiş işbirliğini sağlamak amacıyla oluşturulur. 
+
+2054
+(3) 
+Yetkili 
+otoriteler, 
+bir 
+ekonomik 
+operatör 
+tarafından 
+alınan 
+ve 
+piyasa 
+gözetimi 
+otoritesine 
+iletilen 
+her 
+türlü 
+gönüllü 
+önlemi 
+de 
+derhal 
+bilgi 
+ağına 
+bildirir. 
+( 4) 
+Yukarıdaki 
+fıkralara 
+uygun 
+olarak 
+sağlanan 
+bilgiler, 
+mevcut 
+tüm 
+ayrıntıları, 
+özellikle 
+ürünün 
+tanımlanması 
+için 
+gerekli 
+verileri, 
+ürünün 
+menşeini 
+ve 
+tedarik 
+zincirini, 
+ürünle 
+ilgili 
+riski, 
+niteliğini 
+ve 
+alınan 
+ulusal 
+tedbirin 
+süresi 
+ve 
+ekonomik 
+operatörler 
+tarafından 
+alınan 
+her 
+türlü 
+gönüllü 
+tedbiri 
+içerir. 
+(5) 
+Bilgi 
+ağına 
+erişebilecek 
+ve/veya 
+veri 
+girişi 
+yapabilecek 
+personel, 
+bağlı 
+olduğu 
+ilgili 
+Bakanlık, 
+Daire 
+veya 
+Kurum 
+tarafından 
+yazılı 
+olarak 
+yetkilendirilir. 
+ALTINCI 
+KISIM 
+İthalat 
+Denetimleri 
+ve 
+Gümrük 
+İthalatişlemleri 
+11. 
+(]) 
+12/1983 
+Dış 
+Ticaret 
+(Düzenleme 
+ve 
+Denetim) 
+Yasası 
+ve 
+yürürlükteki 
+gümrük 
+mevzuatı 
+uyarınca 
+ithalat 
+işlemleri 
+gerçekleştirilir. 
+46/1990 
+22/1996 
+Gümrük 
+Kontrolü 
+ve 
+Gümrük 
+ile 
+İletişim 
+(2) 
+Elektronik 
+ortamda 
+müracaatın 
+sistemsel 
+olarak 
+mümkün 
+olması 
+halinde 
+ithalatta 
+aranan 
+belgeler 
+sistem 
+üzerinden sunulabilir. 
+12. 
+(1) 
+Gümrük 
+ve 
+Rüsumat 
+Dairesi, 
+gümrük 
+kontrolleri 
+sırasında 
+aşağıdaki 
+hususların 
+tespit 
+etmesi 
+halinde, 
+bir 
+ürünün 
+ülkeye 
+girişini 
+askıya 
+alır: 
+(A) 
+(B) 
+(C) 
+(Ç) 
+(D) 
+Ürüne, 
+ilgili 
+olduğu 
+teknik 
+düzenlemesinin 
+gerektirdiği 
+belgeler 
+eşlik 
+etmiyorsa 
+veya 
+bu 
+tür 
+belgelerin 
+gerçekliği, 
+doğruluğu 
+veya 
+eksikliği 
+konusunda 
+makul 
+bir 
+şüphe 
+varsa; 
+Ürün, 
+kendisi 
+için 
+uygulanan 
+Yasa, 
+tüzük 
+ve 
+teknik 
+düzenlemeye 
+uygun 
+olarak 
+işaretlenmemiş 
+veya 
+etiketlenmemişse; 
+Ürün, 
+yanlış 
+veya 
+yanıltıcı 
+bir 
+şekilde 
+iliştirilmiş 
+olan 
+bir 
+CE 
+işaretini 
+veya 
+kendisine 
+uygulanan 
+teknik 
+düzenlemenin 
+gerektirdiği 
+başka 
+bir 
+işareti 
+taşıyorsa; 
+Teknik 
+düzenlemesinde 
+ürünle 
+ilgili 
+görevlere 
+sahip 
+bir 
+ekonomik 
+operatörün 
+adı, 
+tescilli 
+ticari 
+adı 
+veya 
+tescilli 
+ticari 
+markası 
+ve 
+posta 
+adresi 
+de 
+dahil 
+olmak 
+üzere 
+iletişim 
+bilgileri, 
+bu 
+Tüzüğün 
+5 'inci 
+maddesi 
+uyarınca 
+belirtilmemiş 
+veya 
+belirlenemez 
+ise; 
+Ürünün 
+kendisi 
+için 
+geçerli 
+olan 
+teknik 
+düzenlemesine 
+veya 
+Yasaya 
+uymadığına 
+veya 
+sağlık, 
+güvenlik, 
+çevre 
+veya 
+herhangi 
+bir 
+kamu 
+yararı 
+açısından 
+ciddi 
+bir 
+risk 
+oluşturduğuna 
+inanılmasına 
+neden 
+olan 
+bir 
+durumun 
+bulunması 
+halinde; 
+
+2055
+12/1983 
+46/1990 
+22/1996 
+(2) 
+(3) 
+(E) Dış Ticaret (Düzenleme ve Denetim )Yasası ve bu Yasa 
+altında çıkarılan Tüzük kuralları uyarınca ithali yasak 
+olması veya ithalinin uygun bulunmaması halinde. 
+Gümrük ve Rüsumat Dairesi, 
+yukarıdaki (l)'nci fıkra uyarınca 
+askıya alınma durumunu derhal yetkili otoriteye bildirir ve bilgi 
+ağına gerekli verileri girer. 
+Yetkili otorite, bir ürünün Yasaya veya 
+bağlı olduğu teknik 
+düzenlemesine 
+uymadığına veya ciddi bir risk oluşturduğuna 
+inanmak için makul gerekçeleri olması durumunda, Gümrük ve 
+Rüsumat Dairesinden ürünün piyasaya arz edilmemesini talep 
+eder. 
+(4) Bir ürünün ülkeye 
+girişinin yukarıdaki (3)'üncü fıkra uyarınca 
+durdurulması halinde, bu ürün, piyasaya arz edilmeye ilişkin tüm 
+koşulların ve formalitelerin yerine getirilmesi ve aşağıdaki 
+şartlardan birinin sağlanması halinde ülkeye girişine izin verilir: 
+(A) 
+Askıya alma tarihinden itibaren dört iş günü içerisinde, 
+yetkili otoriteler 
+tarafından, askıya alma işleminin 
+sürdürülmesi yönünde bir talepte bulunulmazsa; 
+(B) Yetkili otoriteler 
+tarafından ülkeye girişi yönünde onay 
+bildirilmişse. 
+Ancak ülkeye giriş, ilgili mevzuata uygunluğun kanıtı olarak 
+kabul edilemez. 
+(5) 
+Dış Ticaret (Düzenleme ve Denetim)Yasası kuralları uyarınca 
+alınan kararlar saklı kalmak üzere, Yetkili otorite, bir ürünün 
+ciddi bir risk 
+teşkil ettiği sonucuna varması halinde, ürünün 
+piyasaya arz edilmesine engel olacak tedbirleri 
+alır ve Gümrük 
+ve Rüsumat Dairesinden ürünün ülkeye girmesine izin 
+verilmemesini talep eder. 
+Ayrıca bu makamlardan gümrük bilgi 
+işlem sistemi ve bilgi ağına uygun olduğu hallerde ürünle 
+birlikte verilen ticari faturaya ve beraberindeki 
+diğer ilgili 
+belgelere 
+aşağıdaki bildirimi eklemelerini talep eder: 
+'Tehlikeli ürün" ülkeye 
+girişine izin verilmedi. 
+(6) Yetkili otorite, bir ürünün Yasa ve ilgili teknik düzenlemesine 
+uymaması nedeniyle piyasaya arz edilemeyeceği sonucuna 
+varması halinde, ürünün piyasaya arzını yasaklayacak tedbirleri 
+alır ve Gümrük ve Rüsumat Dairesinden ürünün ülkeye girişine 
+izin verilmemesini talep eder Ayrıca bu makamlardan gümrük 
+bilgi 
+işlem sistemine, bilgi ağına ve uygun olduğu hallerde 
+ürünle birlikte verilen ticari faturaya ve beraberindeki 
+diğer ilgili 
+belgelere 
+aşağıdaki bildirimi eklemelerini talep eder: 
+(7) 
+(8) 
+'Ürün uygun değil" - ülkeye girişine izin verilmedi. 
+Ülkeye 
+girişine izin verilmeyen ürünler, Yasa ve ilgili oldukları 
+diğer Yasa kuraları uyarınca imha işlemleri de dahil uyun 
+prosedürlere tabi tutulurlar. 
+Bu maddedeki bildirimler ve talepler·bilgi 
+ağı sistem ile gümrük 
+idareleri 
+tarafından kullanılan sistemler arasındaki elektronik ara 
+
+2056
+Genel Kurallar 
+yüzlerin 
+kullanılması da dahil olmak üzere, Yasa ve bu Tüzüğün 
+lO'uncu maddesinde oluşturulan bilgi ve iletişim sistemi 
+aracılığıyla gerçekleştirilebilir. 
+(9) Gümrük kontrolünde yetkili otorite tarafından numune alımı 
+kararı alınması halinde bu işlemler bu Yasanın 17 ve l 8'nci 
+madde 
+kurallarına göre gerçekleştirilir. İlgili teknik 
+düzenlemeye 
+aykırı veya güvensiz olan ürünler için, Yasa ve bu 
+Tüzük 
+kurallarında öngörülen tüm işlem, önlem ve yaptırımlar, 
+üretici olarak tefsir edilen ithalatçıya uygulanır. 
+13. (1) 
+(2) 
+(3) 
+(4) 
+(5) 
+(6) 
+(7) 
+YEDİNCİ KISIM 
+Piyasa Gözetimi 
+ve Denetimi Usulü 
+Kuzey 
+Kıbrıs Türk Cumhuriyetinde yayımlanmış olan teknik 
+düzenlemelere uygun ürünlerin güvenli 
+olduğu kabul 
+edilir. Teknik düzenlemenin 
+bulunmadığı hallerde Yasanın 
+7'nci maddesinin (2)'nci fıkrasında aranan koşullara uygunluk 
+aranır. 
+Yetkili otoriteler, sorumlu oldukları ürünlerle ilgili piyasa 
+gözetimi ve denetimi faaliyetlerini Yasa 
+kurallarına uygun 
+olarak görevlendirdikleri ürün denetleyicileri 
+aracılığı ile 
+yürütürler. 
+Bakanlık, alınacak önlem ve uygulanacak yaptırımlar 
+konusunda orantılılık ilkesine uygun olarak hareket eder; 
+alınacak tedbirlerin, önlenmesi amaçlanan tehlikenin boyutu, 
+niteliği ve gerçekleşme olasılığı ile orantılı olmasını sağlar. 
+Bakanlık, sorumlu olduğu ürünlerin piyasa gözetimi ve 
+denetimini, yıllık denetim planının yanı sıra re'sen veya ihbar 
+veya 
+şikayet üzerine yapar. 
+Ürünün teknik düzenlemeye 
+aykırılığı veya güvensizliği 
+konusunda yapılan her türlü ihbar, şikayet, ürün sebebiyle 
+meydana gelen kazalar ve ürün 
+hakkında elde edilen diğer 
+bilgiler piyasa gözetimi ve denetimi faaliyetlerinde kullanılır. 
+Satış veya kiralama amacıyla yazılı basın, radyo,  televizyon, 
+İnternet ve benzeri iletişim araçlarında reklam ve ilanları yer 
+alan ürünler de piyasaya arz 
+edilmiş kabul edilir. 
+Piyasa gözetimi ve denetimi, ürünlerin bedelli veya bedelsiz 
+olarak piyasaya arz 
+edildiği, satıldığı ve dağıtıldığı her yerde, 
+depo, 
+işyeri, nakil araçları ve gerektiğinde üretim tesislerinde, 
+işlendikleri, ambalajlandıkları, montaj veya dolum yapıldıkları 
+yerlerde yapılır. 
+Denetim sonucunda ortaya çıkan aykırılıklarda sorumluluk, 
+dağıtıcının teknik düzenlemelerde yer alan yükümlülükleri saklı 
+kalmak üzere, üreticiye aittir. Dağıtıcının iş yerinde yapılan 
+denetimde, üreticinin veya ithalatçının unvanı ve adresi tespit 
+edilir. Üreticinin Kuzey 
+Kıbrıs Türk Cumhuriyeti dışında olması 
+halinde yetkili temsilci ve/veya ithalatçı muhatap alınır ve bunlar 
+da üretici ile 
+aynı sorumluluğu taşır. 
+Ürün Güvenliği Üst Kurulu, denetimlerin koordinasyonunu ve 
+etkin bir 
+şekilde gerçekleşmesini sağlar. Ürün Güvenliği Üst 
+
+2057
+Piyasa Gözetimi 14. (l) 
+ve Denetiminin 
+Yapılması 
+(2) 
+(3) 
+Denetimin Şekli 15. (1) 
+(2) 
+Tutanak ve 16. (1) 
+Kayıt İşlemleri 
+Kurulu bu doğrultuda gerekli önlemleri almak ve uygulamaları 
+koordine etmekle görevlidir. Piyasa Gözetimi ve Denetimi 
+Kurulu, Ürün Güvenliği Üst Kurulunun koordinasyonunda 
+numune 
+alımı da dahil olmak üzere bölge bazında veya 
+dönemlik denetime tabi olacak ürün, risk 
+ve benzeri verileri 
+içeren sektöre( denetim 
+planları hazırlar, uygular ve bu 
+programları periyodik olarak günceller. 
+Teknik düzenleme hükümleri ve bu 
+Tüzüğün 13 'üncü 
+maddesinin (3)'üncü 
+ve (4)'üncü fıkra kuralları saklı kalmak 
+kaydıyla, piyasa gözetimi ve denetimi, ürünlere, bu ürünlerin 
+muhtemel 
+kullanıcılarına ilişkin yapılan risk analizi sonucunda 
+belirlenen 
+yukarıdaki 13 'üncü madde kuralları uyarınca 
+hazırlanan yıllık denetim planı uyarınca yürütülür. 
+Re'sen veya 
+ihbar/şikayet üzerine yapılacak denetimlerde, 
+şikayete konu ürün hakkında daha önce denetim yapılıp 
+yapılmadığı veya teste gönderilip gönderilmediği gibi hususların 
+ön incelemesi tamamlandıktan sonra denetimlere başlanır. 
+Denetimlerin en az iki ürün denetleyicisi tarafından yürütülmesi 
+esastır. İhtiyaç halinde denetime, daha fazla sayıda ürün 
+denetleyicisi 
+katılabilir. 
+Piyasa gözetimi ve denetimi, durumun gereklerine göre, 
+aşağıdaki hususlardan bir veya birkaçını kapsayacak şekilde 
+yapılır: 
+(A) Teknik düzenlemenin öngördüğü işaretler ve/veya 
+belgeler üzerinden inceleme, 
+(B) 
+İlgili teknik düzenlemenin bulunmadığı hallerde, bu 
+Tüzüğün 13'üncü maddesinin (l)'inci fıkrası uyarınca 
+yapılan inceleme, 
+(C) Duyusal inceleme, 
+(Ç) Test ve/veya muayene. 
+Piyasa gözetimi 
+ve denetimi faaliyetleri sırasında ürünün 
+uygunluk 
+değerlendirme işlemlerinde yer almayan test, muayene 
+veya belgelendirme 
+kuruluşlarının imkanlarından da 
+yararlanılabilir. Uygunluk değerlendirmesini yapan kuruluş 
+haricinde ürünün test ve/veya muayenesini yapacak kuruluş 
+yoksa ürün denetleyicilerinin gözetimi ve denetiminde, bu 
+kuruluşta veya üreticinin laboratuvarında veya bir başka 
+üreticinin laboratuvarında ürünün test ve/veya muayenesi 
+yaptırılır. 
+Ancak, test ve/veya muayene sonucuna göre karar verme 
+yetkisi yetkili otoriteye aittir. 
+Piyasa gözetimi 
+ve denetimi sırasında düzenlenecek tutanağın 
+şekil ve içeriği yetkili otorite tarafından belirlenir. 
+
+2058
+(2) 
+(3) 
+Numune Alma 
+17. (1) 
+(2) 
+(3) 
+(4) 
+(5) 
+Yetkili otorite, denetim faaliyetlerine ilişkin her türlü bilgi ve 
+belgelerin piyasa gözetimi 
+ve denetimine ilişkin verilerinin 
+oluşturulan bilgi ağına elektronik ortamda aktarılmasını sağlar. 
+Piyasa gözetimi ve denetimi sırasında kullanılan tutanaklar 
+sistemin 
+uygunluğuna göre elektronik ortamda hazırlanı; 
+elektronik imza ile imzalanabilir veya yazılı tutulabilir. 
+Ürün denetleyicisi, gerekli 
+gördüğü takdirde, her türlü test 
+ve/veya muayeneyi 
+yaptırmak üzere denetlenen ürünlerden 
+numune 
+alır. Ürünün yapısına ve özelliğine göre, test ve/veya 
+muayenelerin 
+gerektirdiği ölçüyü aşmamak üzere, numune 
+alınması fiilen mümkün olmayan haller hariç, üretici veya 
+dağıtıcıdan bedeli ödenerek biri şahit numune olmak üzere en 
+fazla üç takım numune alınır. 
+Numune alınması halinde, denetim esnasında tutanağın ilgili 
+bölümü doldurulur. Numuneler özelliklerine göre mühürleri 
+bozulmadan 
+açılamayacak şekilde, ürün denetleyicisi tarafından 
+üretici, ithalatçı veya dağıtıcı ile birlikte hazırlanır ve üzerlerine 
+tarafların isim, unvan ve imzaları ile numuneye ilişkin bilgileri 
+taşıyan numune alma etiketi konulur. 
+Alınan numunelerin bir takımı ile tutanağın bir nüshası üreticiye, 
+ithalatçıya veya dağıtıcıya teslim edilir. Şahit numune yetkili 
+otorite 
+tarafından muhafaza edilir. Alınan numunelerin başka 
+yere taşınması veya korunması zor veya sakıncalı ise durum 
+tutanağa yazılarak numuneler saklanmak üzere yediemin 
+sıfatıyla üretici, ithalatçı veya dağıtıcıya bırakılır. Test ve/veya 
+muayene 
+yapılması için alınan numunenin bir takımı ile 
+tutanağın bir nüshası, yetkili otoritece belirlenen test, muayene 
+ve/veya belgelendirme 
+kuruluşuna gönderilir. Test, muayene 
+ve/veya belgelendirme 
+kuruluşu tetkikleri en kısa zamanda 
+yapar, sonucunu bir raporla tespit eder 
+ve bu raporu birer nüsha 
+halinde yetkili otoriteye sunar. Bu raporlar 
+ayrıca elektronik 
+posta ile yetkili otoriteye iletilir. 
+Numune 
+almanın mümkün olmadığı veya taşınamayan ürünler 
+için test ve/veya muayene işlemleri, ürün denetleyicisi 
+gözetiminde,  ürünün 
+bulunduğu yerde, üretici veya dağıtıcının 
+katılımı ile yetkili otorite tarafından belirlenen test, muayene 
+veya belgelendirme 
+kuruluşuna yaptırılır. Üretici veya 
+dağıtıcının bulunmaması, test ve/veya muayene işlemlerinin 
+gerçekleştirilmesine engel teşkil etmez. 
+Ürünlerin, uzaktan 
+iletişim araçları kullanılarak piyasaya arz 
+edildiği sistemlerde yürütülen piyasa gözetimi ve denetimi 
+faaliyetleri 
+sırasında numune alınabilir. 
+Ancak bu durumda, numunenin ürün denetleyicisi tarafından 
+alınması, tutanağın karşı tarafla birlikte hazırlanıp imzalanması, 
+numunenin numune torbasına konularak mühürlenmesi ve 
+üzerine numune alma etiketi 
+konulması koşulları aranmaz. 
+
+2059
+Test ve/veya 
+Muayene 
+Sonucunda 
+Yapılacak 
+İşlemler 
+Teknik 
+Düzenlemeye 
+Aykırılık 
+18. (1) 
+(2) 
+Test, muayene ve taşıma masrafları öncelikle yetkili otorite 
+tarafından karşılanır. 
+Ancak Piyasa gözetimi ve denetiminde ürünün teknik 
+düzenlemesine uygun ve/veya güvenli 
+olmadığının tespit 
+edilmesi halinde; test, numune alma ve muayeneye 
+ilişkin 
+giderler üretici tarafından karşılanır. Bu giderlerin tahsilinde, 
+Kamu 
+Alacaklarının Tahsili Usulü Yasası kuralları uygulanır. 
+Test ve/veya muayene sonucunda, numunenin uygun çıkması 
+halinde; 
+(A) Numunenin 
+niteliğini kaybetmemesi durumunda, yetkili 
+otorite 
+tarafından, üretici veya dağıtıcıya bildirimin 
+yapıldığı tarihten itibaren numunelerin geri alınması veya 
+aldırılması için otuz gün süre verir. Bu süre içinde 
+alınmayan numuneler, hazineye intikal ettirilir. Bu 
+durumda üretici veya 
+dağıtıcı numune bedelini talep 
+edemez. 
+(B) Numunenin 
+niteliğini kaybetmesi durumunda, bu husus 
+yetkili otorite 
+tarafından üretici veya dağıtıcıya bildirilir. 
+Numune bedeli, yetkili otorite 
+tarafından numunenin 
+alındığı firmaya ödenir. Şahit numuneyle ilgili yukarıdaki 
+(A) bendindeki usule göre işlem yapılır 
+(3) Test ve/veya muayene sonucunda numunenin güvensiz çıkması 
+durumunda; 
+(A) Testi 
+yaptırılan numune, niteliğine göre uygun koşullarda 
+ve uygun bir süreyle test kuruluşunda muhafaza edilir ve 
+numunelerin teslim 
+alınması için üreticiye veya dağıtıcıya 
+bildirimde bulunulur. Bildirimi takiben otuz gün içinde 
+üretici 
+tarafından alınmayan numuneler, yetkili otorite 
+tarafından "Numune Bertaraf Tutanağı" düzenlenerek 
+bertaraf edilir veya ettirilir. Üreticinin teslim 
+aldığı 
+güvensiz numuneler hakkında aşağıdaki madde 
+kurallarına göre imha veya diğer yöntemler uygulanır. 
+(B) Güvensizlik nedeniyle uygulanacak idari yaptırım 
+kararının kesinleşmesinden sonra şahit numuneye,  (A) 
+bendindeki usule göre 
+işlem yapılır. 
+DOKUZUNCU KISIM 
+Aykırılık Halinde Alınacak Önlemler ve Uygulanacak Yaptırımlar 
+19. (1) 
+İlgili teknik düzenlemeye uygun olmadığı tespit edilen ürünler, 
+(A) 
+İnsan sağlığına, can ve mal güvenliğine, hayvan, bitki 
+yaşamına ve sağlığına ve çevreye bir tehdit oluşturmaması 
+koşuluyla düzeltilebilir teknik düzenlemeye aykırılıkların 
+giderilmesi amacıyla, düzeltici faaliyet planını on beş gün 
+içinde 
+sunması içi11 üreticiye bildirim yapılır. ~u ~üre 
+içinde başvuru yapmayan üreticinin düzeltme faa!ıyetınde 
+bulunmayacağı kabul edilir. 
+
+2060
+Güvensizlik 
+(B) 
+Yukarıdaki (A) bendi uyarınca, urunun teknik 
+düzenlemeye 
+aykırılığını gidermek için düzeltici faaliyet 
+planı sunmayan veya düzeltici faaliyet planı sunan ancak 
+verilen süre sonunda 
+uygunsuzluğu gidermeyen üreticiye 
+yetkili otorite 
+tarafından ürünün piyasada bulunması 
+halinde Yasanın 40'ncı maddesine göre idari para cezası 
+uygulanır ve Yasa ve bu Tüzük kurallarına göre toplatılma 
+veya geri çekmeye ilişkin tedbirler uygulanır veya ürünün 
+piyasaya arz edilmemesi için gerekli tedbirler 
+alınır. 
+(C) Üretici tarafından sunulan düzeltici faaliyet planı, 
+gerektiğinde değişiklik yapılarak yetkili otorite tarafından 
+onaylanır ve üreticiye tebliğ edildiği tarihten itibaren 
+geçerli olmak ilzere teknik düzenlemeye 
+aykırılığın 
+niteliği, ürünün özelliği ve piyasadaki yaygınlığı 
+değerlendirilerek bir ayı geçmemek üzere düzeltme süresi 
+verilir. 
+(Ç) Denetim sonucunda teknik düzenlemeye aykırılığın 
+giderilmesi için süre verilmiş olan bir ürüne aynı aykırılık 
+için tekrar süre verilmez. 
+Ancak verilen süre sonunda 
+aykırılığın mücbir 
+sebeplerin 
+varlığı nedeniyle giderilemediğinin 
+kanıtlanması halinde iki ayı geçmemek üzere ek süre 
+verilir. 
+(D) Teknik düzenlemeye 
+aykırılık nedeniyle verilen surelerin 
+takibi ile düzeltme faaliyetinin gereklerinin yerine 
+getirilip 
+getirilmediğinin kontrolü yetkili otorite 
+tarafından yapılır. Düzeltme işlemleri sonucunda teknik 
+düzenlemeye uygun hale 
+getirildiği kanıtlanan ürünler 
+piyasaya arz edilebilir veya tekrar piyasaya arz edilebilir. 
+(2) Uygunluk işaretinin veya uygunluk değerlendirme işlemleri 
+sonucunda verilen belgelerin gerçeği yansıtmadığının, tahrif 
+veya taklit 
+edildiğinin tespit edilmesi halinde Polis Genel 
+Müdürlüğü'ne şikayette bulunulur.Ancak, Yasada suç sayılan 
+hallerde, Yasada öngörülen idari para cezası uygulanır. 
+(3) Uygunluk işaretinin ve belgelerinin ilgili teknik düzenlemenin 
+öngördüğü ebat, görünürlük, silinmezlik, konulacak yer ve 
+benzeri özellikler 
+bakımından uygun olmadığının tespit 
+edilmesi halinde, 
+yukarıdaki (!)'inci fıkra kuralları uygulanır. 
+20. (1) 
+(2) 
+Teknik düzenlemesine uygun olmayan ve güvensizlik 
+şüphesine 
+yol açan ürünler ile ilgili teknik düzenlemeye uygunluğu 
+belgelenmiş olmakla birlikte duyusal inceleme sonucunda 
+güvensizlik 
+şüphesi uyandıran ürünler için tutanağın ilgili 
+bölümü doldurulur ve test ve/veya muayeneye 
+başvurulur. 
+İlgili teknik düzenlemeye uygunluğu belgelenmiş olsa dahi 
+güvensizlik belirtisi 
+taşıyan ürünler için tutanağın ilgili bölümü 
+doldurulur 
+ve bu ürünlerin piyasaya arzı geçici olarak 
+durdurulur. Piyasaya 
+arzın geç.İci durdurulması kararı, ürün 
+denetleyicisinin önerisi üzerine yetkili otorite 
+tarafından verilir. 
+Kontrol sonucunda güvenli 
+olduğu anlaşılan ürünler hakkındaki 
+
+2061
+(3) 
+(4) 
+(5) 
+(6) 
+(7) 
+(8) 
+(9) 
+geçici durdurma kararı kendiliğinden kalkar. Güvenli olmayan 
+ürünler 
+hakkında alınan piyasaya arzın geçici durdurulması 
+kararı idari yaptırım kararı alınıncaya kadar geçerlidir. 
+Yukarıdaki (l)'inci ve (2)'nci fıkralarda belirtilen işlemler 
+sonucunda, duyusal inceleme veya test ve/veya muayene 
+yoluyla güvenli 
+olmadığı tespit edilen ürünler için yetkili otorite 
+tarafından; 
+(A) Ürünün piyasaya arzının yasaklanması, 
+(B) Piyasada bulunan ürünlerin toplatılması, 
+(C) Ürünün üretici tarafından güvenli hale getirilemediği veya 
+güvenli hale getirilmesinin mümkün 
+olmadığı durumlarda 
+bertaraf edilmesi, 
+kararlarından uygun olanlar orantılılık ilkesi gözetilerek verilir. 
+Yukarıdaki (l)'inci ve (2)'nci fıkralarda belirtilen işlemler 
+sonucunda duyusal inceleme veya test ve/veya muayene yoluyla 
+güvenli 
+olmadığı tespit edilen ürünler için üretici hakkında 
+yetkili otorite tarafından Yasada belirtilen idari para cezası 
+uygulanır. 
+Güvensiz olduğu tespit edilen ürünler ile ilgili savunma 
+alınabilmesi için üretici ve/veya dağıtıcıya tebligat yapılır. 
+Üretici ve/veya dağıtıcıya, savunma hakkını kullanabilmesi için 
+tebligatın kendisine ulaşmasından itibaren on günlük süre 
+tanınır. 
+İnsan sağlığı ve güvenliğinin veya mevzuatla korunan diğer bir 
+kamu 
+yararının tehlikede olduğu acil hallerde bu sürenin 
+dolması beklenmeyebilir. Tebligat yapılmadan bir karar 
+alınması halinde, üretici ve/veya dağıtıcıya savunma hakkını 
+kullanabilmesi için sonradan süre tanınabilir. 
+Üretici, güvenli olmadığı tespit edilen ürünün kendisi tarafından 
+piyasaya arz edilmediğini veya ürünün güvenli olmaması 
+halinin ilgili teknik düzenlemeye uygunluktan kaynaklandığını 
+ispatladığı takdirde sorumluluktan kurtulur. 
+Yukarıdaki (3) 'üncü fıkrada alınması öngörülen veya alınan 
+önlemler, üretici ve/veya dağıtıcının yapacağı savunma ve 
+sağlayacağı bilgi ve belgeler dikkate alınarak değerlendirilir. 
+Yaptırım uygulanmasına ilişkin yetkili otorite tarafından 
+hazırlanan tebligatta bu kararın dayandığı gerekçeler ile karara 
+karşı başvurulabilecek yasal yollar gösterilmek zorundadır. 
+Hakkında yukarıdaki (3)'üncü fıkrada düzenlenen önlemler 
+uygulanan üretici, ürünün güvenli hale getirilmesi mümkün ise 
+bunu ispat eden belgeler ve 
+hazırladığı düzeltici faaliyet planı 
+ile birlikte, kararın kendisine tebliğinden itibaren on beş gün 
+içinde yetkili otoriteye 
+başvurur. Bu süre içinde başvurmaması 
+halinde, düzeltme faaliyetinde bulunmayacağı kabul edilir. 
+Yetkili otorite, üretici 
+tarafından sunulan düzeltici faaliyet 
+planında gerektiğinde değişiklik yaparak onaylar. Yetkili otorite 
+tarafından, güvensizliğin niteliği, ürünün özelliği ve piyasadaki 
+yaygınlığı değerlendirilerek üreticiye bir ayı geçmemek üzere 
+düzeltme süresi verilir. Düzeltme süresi, faaliyet 
+planının 
+onayına ilişkin yazının üreticiye tebliğinden itibaren başlar. 
+
+2062
+Denetimde 
+İşbirliği 
+(10) Güvensizliğin giderilmesi için süre verilmiş olan bir ürüne aynı 
+aykırılık için tekrar süre verilmez. 
+Ancak verilen süre sonunda 
+aykırılığın mücbir sebeplerin 
+varlığı nedeniyle giderilemediğinin kanıtlanması halinde iki ayı 
+geçmemek üzere ek süre verilebilir 
+(11) Düzeltme süresi sonunda 
+yapılan işlemler yetkili otorite 
+tarafından değerlendirilir. Yetkili otorite, gerekli görülmesi 
+halinde, düzeltmeye tabi tutulan ürünün 
+tarafsız bir test ve/veya 
+muayene 
+kuruluşu tarafından test ve/veya muayenesini 
+isteyebilir. Düzeltme 
+işlemleri sonucunda güvenli olduğu 
+kanıtlanan ürünler piyasaya arz edilebilir veya tekrar piyasaya 
+arz edilebilir. 
+(12) Güvenli hale getirilemeyen veya güvenli hale getirilmesi 
+imkansız olan ürünler, üreticinin belirleyeceği yerde ve 
+yöntemle ürün denetleyicisi gözetiminde bertaraf edilir. Yetkili 
+otorite 
+tarafından, bertaraf edilen ürün miktarını, ürünün ne 
+şekilde bertaraf edildiğini, bertaraf yerini, tarihini ve tarafların 
+ad ve soyadlarını içeren Ürün Bertaraf Tutanağı düzenlenir. 
+(13) Bu madde, teknik düzenlemesi bulunmayan ve güvenli 
+olmadığı 
+tespit edilen ürünlere de uygulanır. 
+21. İlgili Bakanlıklar ve Yetkili otoriteler arasında Yasa tarafından oluşturulan 
+Ürün Güvenli Üst Kurulu ve Piyasa Gözetimi ve Denetimi Kurulu vasıtasıyla 
+işbirliği oluşturulur. Yetkili otoriteler tarafından Bilgi Ağına gerekli ve yeterli 
+bilgilerin 
+girişi sağlanır. 
+Üreticinin 22. (1) 
+Üreticinin Yasada 
+sayılan yükümlülüklerini tamamlayıcı olarak 
+yükümlülükleri 
+şunlardır: 
+Yükümlülükleri 
+(A) 
+(B) 
+(C) 
+(Ç) 
+Ürün denetleyicisinin talep etmesi halinde tüm bilgi ve 
+belgeleri denetmene sunmak, üretim yerlerinin ve 
+depolarının adreslerini vermek ve bu yerlerde gerekli 
+tespitleri 
+yapmasını sağlamak. 
+Ürün denetleyicisinin görevinin gereği gibi yürütülmesi 
+için denetleyiciye görevi süresince uygun bir 
+çalışma yeri 
+sağlamak; uygun yer bulunamadığında veya denetime 
+uygun 
+koşullar oluşturulmadığında, denetleyicinin isteği 
+üzerine ürüne ait tüm dosya ve belgeleri denetleyiciye 
+çalışma yerine getirerek kendisine teslim etmek. 
+İlgili teknik düzenlemede belirtilen tüm belgeleri; bu 
+belgeler 
+kapsamındaki son ürünün yurt içinde üretiliyor 
+ise 
+üretildiği, ithal ise ithal edildiği tarihten itibaren ilgili 
+teknik düzenlemede belirtilen süreyle, 
+bu sürenin 
+belirtilmemesi halinde on 
+yıl boyunca muhafaza etmek ve 
+istenilmesi halinde denetleyiciye ibraz etmek. 
+Piyasaya 
+arzın geçici veya sürekli yasaklanması, piyasada 
+bulunan ürünlerin 
+toplatılması, ürünlerin kısmen veya 
+tamamen imha edilmesi 
+kararı verilmesi durumunda, 
+stoklarında ve piyasada bulunan ürünlerin markası, 
+
+2063
+48/1977 (2) 
+28/1985 
+31/1988 
+31/1991 
+23/1997 
+54/1999 
+35/2005 
+59/2010 
+13/2017 
+Güvensiz 
+23. (1) 
+Ürünlere İlişkin 
+İlan 
+modeli, seri veya parti numarası, sayısı ve dağıtıldığı 
+yerlere dair bilgi ve belgeleri vermek. 
+(D) Piyasaya 
+arzın geçici olarak durdurulması halinde tüm 
+satış ve dağıtım noktalarını bilgilendirmek ve sonucundan 
+yetkili otoriteye bilgi vermek. 
+(E) Kendi faaliyetleri ile sınırlı olmak üzere; ürünün 
+öngörülen 
+kullanım süresi içinde, yeterli uyarı olmaksızın 
+fark edilemeyecek nitelikteki riskleri hakkında 
+tüketicilere gerekli bilgiyi sağlamak, özelliklerini 
+belirtecek şekilde ürünü işaretlemek; gerektiğinde 
+piyasaya arz edilmiş ürünlerden numuneler alarak test 
+etmek, 
+şikayetleri soruşturmak ve yapılan denetim 
+sonuçlarından dağıtıcıları haberdar etmek, riskleri 
+önlemek 
+amacı ile ürünlerin toplatılması ve bertaraf 
+edilmesi 
+da dahil olmak üzere gerekli önlemleri almak. 
+(F) Güvensiz olduğu tespit edilen ve hakkında idari yaptırım 
+uygulanan ürünlere ilişkin bu Tüzüğün 19 ve 
+20'nci maddede belirtilen yükümlülükleri, yerine 
+getirmek 
+ve yerine getirildiğini belgelemek. 
+(G) Test ve/veya muayene sonucunda güvensiz 
+olduğu 
+anlaşılan numunelere ilişkin yetkili otorite tarafından 
+ödenen test ve/veya muayene giderleri ile taşıma 
+masraflarını karşılamak. 
+(Ğ) Güvensiz olduğu tespit edilen numunenin, üretici 
+dışındaki bir firmadan alınması ve söz konusu firmanın 
+tutanak ile birlikte başvurması durumunda, numune 
+bedelini söz konusu firmaya ödemek. 
+Üreticilerin güvensiz ürünlere 
+ilişkin kamuoyuna bildirim, ilan, 
+toplatma ve bertaraf gibi yasal yükümlülüklerini yerine 
+getirmemesi durumunda, bu yükümlülükler yetkili otorite 
+tarafından yerine getirilir. Bu kapsamda yetkili otorite 
+tarafından yapılacak masraflar, üretici tarafından karşılanır. Bu 
+masraflar hakkında, Kamu Alacaklarının Tahsili Usulü Yasası 
+kuralları uygulanır. 
+Güvensiz ürünlere ilişkin alınan önlemler ve ürünün içerdiği 
+riskler hakkındaki bilgiler etkili olacak şekilde duyurulur. 
+Üretici 
+tarafından yapılan duyuru veya duyuru şekli uygun 
+bulunmaz veya yetersiz görülürse; 
+(A) Üretici; güvensiz ürünlere 
+ilişkin hazırlanacak ilan 
+metninin, ulusal düzeyde 
+yayın yapan iki televizyon 
+kanalında 07.00 - 22.00 saatleri arasında 30 saniyeden az 
+olmamak üzere 
+yazılı ve sesli şekilde bir gün 
+yayınlanmasını ve ulusal düzeyde dağıtımı yapılan iki 
+gazetede 
+sayfanın en az dörtte biri büyüklüğünde bir gün 
+ilan edilmesini, 
+kararın kendisine tebliğ edildiği tarihten 
+itibaren on gün içinde 
+sağlar. 
+
+2064
+(B) Risk altındaki kişilerin belirli bir yerleşim yerinde 
+toplanması ve yerel yayın yapan gazete ile televizyon 
+kanalları vasıtasıyla bilgilendirilmesinin mümkün olduğu 
+durumlarda, bu duyuru yerel basın ve yayın organları 
+yoluyla yapılır. Risk altındaki kişilerin tamamına 
+ulaşılabildiği durumlarda ise bu kişiler doğrudan 
+bilgilendirilir. 
+(C) Yetkili otorite, güvensiz ürünlere 
+ilişkin hazırlanacak 
+veya yapılacak ilanlarda güvensiz üründe tespit edilen 
+riskin derecesine göre 
+ilanın şekli, zamanı, süresi ve ilanın 
+yapılacağı televizyon ve gazetelere ilişkin ek hususlar 
+belirleyebilir. 
+(Ç) Üretici, güvensiz ürünlere 
+ilişkin aldığı önlemler ve 
+yaptığı duyurulara dair bilgi ve belgeleri yetkili otoriteye 
+sunar. 
+Ayrıca yetkili otorite, risk altındaki tüketicilere 
+duyurulması amacıyla güvensiz ürünlere ilişkin bilgileri 
+uygun görülen mecralarda 
+yayınlar. 
+(2) Güvensiz ürünlere ilişkin ilanlar açık ve net olmak zorundadır. 
+İlanla ilgisiz veya ilanın amacını ortadan kaldıran ifadelere yer 
+verilemez. 
+(3) Güvensiz ürünlere 
+ilişkin ilanlarda aşağıdaki bilgilerin 
+bulunması zorunludur: 
+(A) Üreticinin 
+adı, unvanı ve adresi. 
+(B) Ürünün 
+adı, markası, modeli, cinsi, fotoğrafı, seri ya 
+da !ot numarası veya ürünü net şekilde tanıtan bilgi. 
+(C) Ürünün geri 
+çağrılma nedeni, güvensiz olduğu ve alınan 
+önlemler hakkında bilgi. 
+(Ç) Ürünün iade 
+edileceği yerler veya üründeki sorunun 
+giderilmesini teminen 
+gönderilebileceği adresler 
+hakkında bilgi. 
+(D) Ürünün 
+taşıdığı risk, riskten sakınmak veya sorunu 
+gidermek için önerilen yöntemler 
+hakkında bilgi. 
+( 4) Yetkili otorite, duyurunun bu maddede yer alan esaslara uygun 
+ve risk 
+altındaki kişilerin haberdar edilmesini sağlayacak 
+şekilde yayınlanıp yayınlanmadığını denetler ve eksiklik tespit 
+edilmesi halinde duyurunun 
+tekrarını sağlar. 
+Dağıtıcının 24. (1) 
+Dağıtıcı, sahip olduğu bilgiler çerçevesinde, güvenli olmadığını 
+bildiği ürünleri piyasaya arz edemez. Dağıtıcı, faaliyetleri 
+çerçevesinde, ürünlerin 
+taşıdığı riskler ve bu risklerden 
+korunmak için 
+alınması gereken önlemler hakkında ilgililere 
+bilgi verir. 
+Yükümlülükleri 
+(2) 
+(3) 
+Piyasa gözetimi ve denetimi faaliyetleri sonucunda 
+aykırılıkları 
+belirlenen ürünlere ilişkin olarak üreticinin tespit edilemediği 
+durumlarda,   üreticinin veya ürünü tedarik ettiği kişinin 
+kimliğini talep edildiği tarihten itibaren on iş günü içinde 
+bildirmeyen 
+dağıtıcı, üretici olarak kabul edilir. 
+Dağıtıcılar, teknik düzenlemelerle kendilerine getirilen 
+yükümlülükleri yerine getirmek 
+zorundadır. 
+
+2065
+Geri Çağırma 
+Ürünlerin 
+İzlenebilirliği 
+Denetimde 
+Bilgilerin 
+Açıklanması 
+Ceza Kuralları 
+Yürütme 
+Yetkisi 
+Yürürlüğe Giriş 
+25. Üreticiler, güvensiz ürünlerinin piyasada yer aldığını kendilerinin tespit 
+etmesi halinde, bu ürünleri gönüllü geri 
+çağırabilir ve gerekli tedbirleri alır. 
+Ancak, üretici piyasada gerçekleştirdiği her türlü geri çağırma ve aldığı 
+t_~dbirlere ilişkin tüm bilgi ve belgeleri yetkili otoriteye iletmekle yükümlüdür. 
+Ureticiler gönüllü geri 
+çağırmalarda risk altındaki kişilerin bilgilendirilmesini 
+sağlamak amacıyla, gerekli bilgileri elektronik ortamda yayımlanmak üzere 
+yetkili otoriteye bildirir. 
+Ayrıca, bu bilgiler üreticinin İnternet sitesinde de 
+yayımlanır. 
+26. (1) 
+(2) 
+(3) 
+(4) 
+Üreticiler, ürünlerin üzerinde seri, model, parti numarası veya 
+başka bir şekilde ürünlerinin tespit edilmesini sağlayacak 
+bilgilere yer vermek zorundadır. 
+Üreticiler, toplatma, imha veya düzeltici faaliyetin uygulanması 
+gerektiğinde parti, seri, lot bazında kayıt oluşturmak ve 
+istenildiğinde bu kayıtları yetkili otoriteye sunmak zorundadır. 
+Üreticiler gerekli bilgileri, ürünün büyüklüğünün veya 
+doğasının buna izin vermediği durumlarda ürünün ambalajında 
+veya yanında verilen bir belge ile sağlamak zorundadır. 
+Üreticiler, genel olarak Yasanın 24 'üncü maddesine uygun 
+olarak ürünlerin 
+izlenebilirliğini sağlamak için gerekli önlemleri 
+almak 
+zorundadır. 
+ONUNCU KISIM 
+Çeşitli ve Son Kurallar 
+27. 
+Yasanın 42'nci madde kurallarına uygun olarak, Piyasa gözetimi ve 
+denetimi faaliyeti 
+sırasında yapılan yazışmalar, ihbar ve şikayetler ile 
+denetimlerde temin    edilen ve ticari 
+sır niteliğindeki veya fikri 
+ve 
+sınai mülkiyet hakkına ilişkin bilgiler gizli tutulur. Ancak, mevzuatın ve 
+insan 
+sağlığı ve güvenliğinin gerektirdiği hallerde yapılan duyurular bu 
+kapsamda 
+sayılmaz. 
+28.  Bu Tüzük kurallarına aykırı hareket edenler hakkında Yasanın 40'ncı 
+maddesindeki ilgili kurallar uygulanır. 
+29. Bu Tüzük, yetkili otorite ve Bakanlık tarafından yürütülür. 
+30. Bu Tüzük, Resmi Gazetede 
+yayımlandığı tarihten başlayarak yürürlüğe 
+girer. 

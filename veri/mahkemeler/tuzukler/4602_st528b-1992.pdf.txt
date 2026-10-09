@@ -1,0 +1,672 @@
+
+
+BASINÇLI KAPLAR DENETİM TÜZÜĞÜ  
+ 
+R.G.:119      Ek:III     A.E.:528                              10.12.1992 
+ 
+İŞ YASASI 
+(22/1992,30/1993,25/2000 Sayılı Yasalar) 
+                                                            55.Madde                             Tahtında Yapılan Tüzük  
+ 
+Çalışma ve Sağlık Bakanlığı, İş Yasası’nın 55. Maddesi uyarınca, Bakanlar Kurulu onayı ile aşağıdaki Tüzüğü 
+yapar. 
+ 
+1. 
+Bu Tüzük, “Basınçlı Kaplar Denetim Tüzüğü” olarak isimlendirilir. 
+Kısa İsim 
+A.E.239 
+5.5.1994 
+A.E.391 
+9.6.1995 
+A.E.182 
+27.2.1996 
+A.E.380 
+6.5.1996 
+A.E.92 
+29.1.1997 
+A.E.275 
+4.4.1997 
+A.E.5 
+5.1.1998 
+A.E.21 
+25.1.1999 
+A.E.858 
+29.12.1999 
+A.E.424 
+6.7.2000 
+A.E.889 
+13.12.2000 
+A.E.814 
+26.12.2001 
+A.E.765 
+26.12.2002 
+ 
+BİRİNCİ BÖLÜM 
+KAPSAM VE TEFSİR 
+ 
+2. 
+Bir  işyerinde  bu  Tüzükteki  “Basınçlı  Kap”  tanımına  uyan  tüm  basınçlı  kaplar  bu  
+Tüzük kapsamındadır. 
+Kapsam 
+ 
+3. 
+Bu Tüzükte metin başka türlü gerektirmedikçe:  
+“Bakanlar Kurulu”, Kuzey Kıbrıs Türk Cumhuriyeti Bakanlar Kurulu’nu anlatır. 
+“Bakanlık”, Çalışma işlerinden sorumlu Bakanlığı anlatır. 
+“Basınçlı  Hava  Deposu”, İçerisinde  atmosfer  basıncından  daha  yüksek    basınçta 
+hava  depolanan  kapalı  kapları  anlatır.  Ancak  ,  basınçlı  hava  deposunun  hava  
+tedarik boruları veya kangalı bu tanım kapsamında sayılmaz. 
+“Basınçlı Kap”, içerisinde atmosfer basıncından daha yüksek basınçta buhar veya 
+hava depolanan kapalı kapları anlatır. 
+“Buhar  Deposu”,  içerisinde  atmosfer  basıncından  daha  yüksek  basınç  altında 
+buhar bulunan herhangi bir kapalı kap veya cihazı (elektrikli buhar üreticileri) anlatır. 
+Ancak, buhar kazan
+ı ile buhar borusu veya kangalı bu tanım kapsamında sayılmaz. 
+Tefsir 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+“Buhar  Kabı”,  Atmosfere  veya  basıncın  atmosferik  basıncı aşmadığı  bir  yere  
+devamlı çıkışı   olacak   şekilde   imal   edilmiş   ve   ısıtma,   kaynatma,   kurutma,   
+buharlaştırma  ve  benzeri  amaçlar  için  içinden  atmosferik  basınçta  buhar  geçirilen  
+herhangi bir kabı anlatır. 
+“Buhar  Kazanı”,  Herhangi  bir  amaçla  içerisinde  atmosfer  basıncından    daha  
+yüksek basınçta buhar üretilen herhangi bir  kapalı kabı anlatır. Ayrıca böyle bir kabı 
+ateşlemek için kullanılan yakıt yakıcı cihazı veya mekanik ateşleyici, böyle bir kaba 
+verilen  suyu  ısıtmak  için  kullanılan  ön  ısıtıcıyı  (ekonomizör)  ve  buhar  
+ısıtmak  için  
+kullanılan herhangi bir buhar kızdırıcısını da içerir. 
+“Daire”, Çalışma Dairesini anlatır. 
+“Emniyetli   Çalışma   Basıncı”,   Basınçlı   kabın   imal   edildiği   fabrika   tarafından 
+saptanan, basınçlı kabın emniyetle çalışabileceği azami çalışma basıncıdır.   
+Ancak  kontrol  ve  testi  yapan  yetkili  makine  mühendisi,  cihazın  kullanım  süresini,  
+kullanım şartlarını  ve  fiziksel  durumunu  dikkate  alarak  emniyetli  çalışma  basıncını 
+düşürebilir. 
+“Genel  Sicil”,  1992  İş  (Fabrika  ve  İşyerlerinde İşçi  Sağ
+lığı  ve  İş  Güvenliği) 
+Tüzüğünün 47. maddesinde belirtilen Genel Sicili anlatır.  
+“Hidrolik  Test”,  Basınçlı  kapların  emniyetle  çalışma  basınçlarının  1,5-2  katı  daha  
+fazla bir su basıncı ile 15-20  dakika basınç altında tutulması olayını anlatır. 
+“İşletme İzni”, bu Tüzüğün 7,8 ve 10. maddelerinde öngörülen işletme iznini anlatır. 
+“Mahkeme”, yetkili Kaza Mahkemesini anlatır. 
+“Müdür”, Çalışma Dairesi Müdürünü anlatır. 
+ 
+“Müfettiş”,  Çalışma  Dairesi’nin  tayinli  teknik  müfettiş  veya  müfettişlerini  anlatır  ve  
+teknik müfettiş olarak görevlendirilen kamu görevlilerini de içerir. 
+“Test  Basıncı”,  bir  basınclı
+  kabın  basınç  deneyinde  (hidrolik  test)  uygulanacak  
+basınç olup, emniyetli çalışma basıncının 1, 5-2 katı olarak alınır. 
+“Yasa”, İş Yasası’nı anlatır.              
+ 
+    
+“Yetkili  Makine  Mühendisi”,  Basınçlı  kapların  muayene  ve  testlerini  yapıp  rapor  
+vermek üzere, Daire tarafından yetkilendirilmiş makine mühendisini anlatır. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+22/1992 
+30/1993 
+25/2000 
+ 
+ 
+ 
+İKİNCİ BÖLÜM 
+GENEL KONULAR VE BASINÇLI KAPLARI İŞLETME PROSEDÜRÜ 
+4. Her   basınçlı   kap   ve   onun   bütün   kısımları,   mekanik   bakımdan   iyi,   sağlam 
+malzemeden, yeterli  dayanıklıkta ve emniyetli bir şekilde yapılmış olmalıdır. 
+Genel 
+ 
+5. 
+Basınçlı kaplar  Avrupa  ülkeleri,  Kanada,  Amerika  Birleşik  Devletleri, Japonya  ve 
+Türkiye’den ithal edilmiş olması halinde , ithal edilen ülkenin standartlarına uygun 
+olmalıdır. Bunun dışındaki ülkelerden ithal edilmesi halinde ise, bu maddede 
+belirtilen ülkelerden herhangi birinin standartlarına veya uluslararası standartlara 
+(İSO) uygunluk belgesi temin edilmelidir. 
+Standartlara uygunluk , emniyet açısından gerekli olup, bu Tüzükte belirtilen 
+kurallardan herhangi bir muafiyet sağlamaz. 
+Standart  Aranacak Mallar Listesinin Resmi Gazete’de yayınladığı tarih olan 21 Eylül 
+1995 tarihinden önce ithalatı yapılmış olan basınçlı hava depolarında standartlara 
+uygunluk şartı aranmaz. 
+Standartlara 
+Uygunluk 
+ 
+ 
+ 
+ 
+ 
+ 
+389/06 
+ 
+6. 
+Basınçlı kap imal edenler veya satanlar bu kapların , yukarıdaki 4. ve 5. maddelerde 
+belirtilen koşullara uygun olmasından sorumludurlar. 
+Ancak  bir  işyerinde  herhangi  bir  basınçlı  kabın  montajı  (Cihazın  monte  edilmesi  ve  
+Sorumluluk 
+ 
+
+tesisatının  döşenmesi)  sırasında  yapılabilecek montaj hatalarından,  montaj  işlemini 
+yürüten firma veya kişiler sorumludur. 
+ 
+7. Basınçlı    kapların    imalatı,    montajı    (kurulması),    tadilatı  ve işletilmesi    için  Daire  
+Müdürlüğünden izin alınması şarttır. 
+İzin 
+ 
+8. 
+İlk  kez  işletmeye  alınacak  herhangi  bir  basınçlı  kabın  imal  veya  montaj  izni  
+ile;  işletilmekte  olup  da  esaslı  bir  değişikliğe  uğratılacak  basınçlı  kapların  tadilat  
+izninin  alınması  için  yetkili  bir  makine  mühendisi  tarafından  düzenlenip  imza  edilen  
+ve  Kıbrıs  Türk  Mühendis  ve  Mimar  Odaları  Birliği  Makine  Mühendisleri  Odası 
+tarafından  onaylanan  proje,  bildirim  formu  ve  standartlara  uygunluk  belgesi  ile  
+birlikte  Daire  Müdürlüğüne  başvurulur.Bu  başvuruda  sunulacak    proje  ve  bildirim  
+formu üç nüsha olarak düzenlenir. 
+Başka  Ülkelerden  ithal  edilen  basınçlı  kaplar  için  Daire  Müdürlüğü’nün  uygun  
+görmesi    halinde,  proje  koşulu  veya  Makine  Mühendisleri  Odası’nın  proje  onayı 
+aranmayabilir. 
+Cihazlar  için  hangi  tip  proje  isteneceği  (imalat,  montaj,  tadilat)  ve  bu  projelerde  
+bildirim formunda aranacak hususlar, Daire Müdürlüğü tarafından belirlenir. 
+İmal, Montaj  
+ve Tadilat  
+İzni 
+ 
+ 
+9. 
+Basınçlı  kapların  muayene  ve  testini  yapıp  rapor  vermek  isteyen  her  makine  
+mühendisi, Daireye başvurarak yetki açısından kaydını yaptırmakla yükümlüdür.  
+Daireye  kaydını  yaptıran  mühendisler,  muayene  ve  test  sonuçlarını  gösteren  ve  
+Daire  Müdürlüğünce  belirlenmiş  bilgileri  içerecek  şekilde  düzenlenen  sözkonusu  
+raporu  vermeye  yetkilidirler  Daireye  kaydını  yaptıran  makine  mühendislerine  Daire    
+Müdürlüğü tarafından bir “Yetkilendirme Belgesi” verilir. 
+Yetkili Makine 
+Mühendisi 
+ 
+(1) Usulüne  uygun  olarak  düzenlenen  ve  yetkili  mühendis  tarafından  imzalanan  
+muayene raporunun bir sureti, işletme izni almak amacıyla Çalışma Dairesine 
+sunulur. İstenen şartlara  uygunluğu  mühendis  raporu  ile  saptanan  cihazlara  
+Daire tarafından “İşletme İzni”  verilir. Bu izin gerektiğinde Daire müfettişlerine 
+gösterilmek üzere genel sicil içinde bulundurulur. İşletme izni alınmadan hiçbir 
+şekilde basınçlı kap kullanılamaz. 
+İşletme İzni 
+Alınması 
+ 
+10. 
+(2) Bu  Tüzüğün  ilgili    maddelerinde  belirtilen  hizmetlere  karşılık  herhangi  bir  
+basınçlı kap için verilecek imalat, montaj, tadilat veya işletme izni veya Işletme 
+izninin  yenilenmesi  için,  bu  Tüzüğe  ekli  Cetvelde    belirtilen  harç  miktarlarının  
+söz  konusu  izin  verilmezden  önce,  müracaat  formları  ile  birlikte  İşgücü 
+Planlama ve Geliştirme Merkezi ‘ne ödenmesi koşuldur. 
+Müracaat    tarihinden    itibaren    3    ay        içerisinde    Tüzüğün    öngördüğü 
+yükümlülükleri   yerine   getirmedikleri   için   gerekli   izinleri   alamıyan   cihaz   
+sahipleri,  3  aylık  sürenin  sonunda  söz  konusu  izinleri  almak  için  yeniden  
+müracaat  edip,  İşgücü  Planlama  ve  Geliştirme  Merkezi‘ne  yeniden  harç  
+ödemek zorundadırlar. 
+   A.E.275 
+  4.4.1997 
+ 
+Cetvel 
+ 
+11. Daire  müfettişleri  tarafından  yapılacak  teftişlerde  sözkonusu  raporun  hatalı  veya  
+gerçekleri yansıtmayan bir rapor olduğu veya herhangi bir nedenden dolayı cihazın 
+bu  Tüzüğe    aykırı olarak çalıştırıldığı saptanırsa,    işletme  izni  Daire  tarafından iptal 
+edilir. Bu durumdaki bir cihazın kullanılması derhal yasaklanıp durdurulur.  
+İznin İptal 
+Edilmesi 
+ 
+ 
+12. Denetimlerde eksik veya hatalı rapor verdiği saptanan makine mühendislerine bir 
+defaya mahsus olmak üzere Dairece yazılı uyarıda bulunulur.  Mühendisin hatalı 
+veya eksik rapor vermeye devam etmesi halinde, rapor verme yetkisi elinden alınır 
+ve Daire Müdürlüğü tarafından kendisine bunu açıklayıcı bir yazı gönderilir. Bu 
+durum, ilgili meslek örgütü olan Kıbrıs Türk Mühendis ve Mimar Odaları Birliği 
+Rapor 
+Verme 
+Yetkisinin 
+Geri 
+Alınması 
+ 
+
+Makina Mühendisleri Odası’nın da bilgisine getirilir. 
+ 
+13. Basınçlı  kap    işletenler,  cihazlarını    belirli  sürelerde  yetkili    bir  makina  Mühendisine  
+eksiksiz  olarak  muayene  ve  test  ettirerek  alacakları  olumlu  raporun  bir  suretini  
+Daireye   göndermeye   ve   bir   suretini   de   Genel   Sicilde   muhafaza   etmeye   
+mecburdurlar. Bu süre, buhar kazanları için  12 ayı, diğer basınçlı kaplar için ise 24 
+ayı aşamaz. 
+Muayene ve 
+Testlerin 
+Süresi 
+ 
+ 
+14. İzin  süresi  dolup  da  usulüne  uygun  olarak  yeniden  muayene  ve  test  raporu  temin  
+edilen basınçlı kapların izinleri, bu Tüzüğün 10. maddesi kuralları   çerçevesinde   ve   
+ücreti  ödenmek  koşulu  ile  Daire  Müdürlüğü  tarafından  yenilenir.    Böyle  bir  iznin  
+alınmaması halinde basınçlı kapların çalışmasına izin verilmez. 
+Süresi 
+Dolan İznin 
+Yenilenmesi
+ 
+15. İşletme izni alındığı halde en az üç ay kullanılmayan basınçlı kapların, yeniden 
+kullanıma alınmaları için işletme izinlerinin yenilenmesi koşuldur. 
+Kullanıl-
+mayan 
+Basınçlı 
+Kaplar
+ 
+ 
+ 
+ 
+                                                          ÜÇÜNCÜ                             BÖLÜM                                                          
+EMNİYET KURALLARI VE ÖNLEMLER 
+ 
+16. Basıçlı kapları işletenler, cihazların aylık bakım ve sürekli kontrollarının eksiksiz 
+olarak yapılması için bir bakım-kontrol sorumlusunu yazılı olarak 
+görevlendirmelidirler. Bakım - kontrol ve onarımı yapmakla yükümlü olan bakım - 
+kontrol sorumlusu, yapılan işi ayrıntılı olarak bir bakım defterine işleyip imzalamakla 
+sorumlu olur, değiştirilen parçaların ve tezhizatın (varsa seri numaraları da 
+yazılarak) da söz konusu deftere işlenmesi koşuldur. 
+Bakım ve 
+Kontrol 
+ 
+ 
+17. Her   basınçlı   kap   üzerinde   aşağıdaki   hususları   belirten   bir   levha   veya   yazı  
+bulunmalıdır. 
+      (1) Seri numarası, 
+      (2) Emniyetli çalışma basıncı, 
+      (3) Test basıncı, 
+      (4) İmal yılı ve ülkesi, 
+      (5) İmalatçı firmanın ünvanı 
+Basınçlı 
+Kaplarda  
+Levha veya  
+Yazı 
+Bulundurma 
+Zorunluluğu
+ 
+ 
+18. Hiçbir basınçlı kap, yetkili makina mühendisinin nezaretinde yapılan testler 
+haricinde, emniyetli çalışma basıncından daha yüksek bir basınçta çalıştırılamaz. 
+Emniyetli 
+Çalışma 
+Basıncı
+ 
+ 
+19. Her basınçlı kap üzerinde uygun bir basınç göstergesi bulunmalı ve bu gösterge 
+üzerinde emniyetli çalışma basıncı kolayca görülebilecek şekilde kırmızı renkle 
+işaretlenmiş olmalıdır. 
+Basınç 
+Göstergesi
+ 
+ 
+(1) Her  basınçlı  kap  üzerinde  uygun  ve  yeterli  durumda  en  az  bir  adet  emniyet  
+süpabı  bulunmalıdır  Emniyet  süpabı  açıldığı  zaman,  her  şart  altında  kap,  
+içerisindeki  basınç  emniyetli  çalışma  basıncının  1/10’undan  (onda  birinden)  
+daha   çok   yükselmemelidir.   Buhar   kazanlarında   emniyet   süpabı   açılması 
+halinde, buhar, oda dışına atılmalıdır. 
+20. 
+(2) Basınçlı kaplar üzerindeki emniyet süpabları, yetkisiz kişilerin ayarı  bozmasını 
+önleyecek şekilde  kapatılmış  ve  müherlenmiş  olmalıdır.  Yetkili  mühendis  
+dışında  herhangi  birinin  emniyet  süpablarının  ayarın
+ı   bozmasını  ve/veya  
+Emniyet  
+Süpabı 
+ 
+
+mühürleri kırmasını önleyecek tüm önlemler alınmalıdır.   
+(3) Buhar   depolarında   emniyet   süpabı   ile   basınç   göstergesi   depo   üzerine      
+konulabileceği  gibi,  depo  ile  emniyetli  çalışma  basıncının  aşılmasını  önleyici  
+uygun aygıt arasındaki tedarik borusu üzerine de konulabilir. 
+ 
+ 
+ 
+21. Her  basınçlı  kap üzerinde, kap  içerisindeki  basıncın,  emniyetli  çalışma basıncına 
+ulaşması  halinde,  kap  içerisine  buhar  veya  hava  depolanmasını    otomatik  olarak  
+durduracak uygun durumda en az bir aygıt olmalıdır. 
+Otomatik  
+Aygıt
+ 
+ 
+22. Daire  gerekli  görmesi  halinde,  basınçlı  kabın  elektrik  yönünden  kontrolunu,  Kıbrıs 
+Türk Elektrik Kurumu’ndan isteyebilir. Anılan kurum gerekli kontrolu yaptıktan sonra 
+hazırlayacağı raporun bir suretini Daireye gönderir. 
+Basınçlı 
+Kaplarda 
+Elektrik 
+Kontrolu
+ 
+  
+23. Basınçlı  kapla  ilgili  olan  tüm  elektrik  tesisatı  veya  cihazlar  sağlam  malzemeden,  
+emniyetli bir şekilde yapılmış olmalı ve devamlı olarak bakımlı tutulmalıdır. Böyle bir 
+tesisatın topraklanması da uygun şekilde yapılmış olmalıdır.  
+Elektrik  
+Tesisatı ve 
+Diğer Cihazlar
+ 
+ 
+24. Tek  bir  boru  aracılığı  ile  buhar  veya  hava  tedarik  edilen  herhangi  bir  set  buhar  
+deposu  veya  hava  deposu,  Daire  Müdürlüğü’nce  uygun  görülmesi  halinde  ve  onun  
+belirteceği  koşullarla  bir  tek  buhar  deposu  veya  bir  tek  hava  deposu  gibi  işlem 
+görebilir. 
+Buhar veya 
+Hava 
+Deposu Seti 
+ 
+ 
+25. Her buhar deposu üzerinde bir stop vanası bulunmalıdır. 
+Buhar 
+Deposu 
+Üzerinde 
+Stop Vanası 
+Bulundurul-
+ması
+ 
+ 
+26. İşyerindeki basınçlı kaplar, patlamaya ve yangına karşı dayanıklı ayrı bir bölme veya 
+binada olmalı ve bu bölme ve bina yeterince havalandırılmış olmalıdır. Seyyar hava 
+depoları  ile  işin  niteliği  gereği  ayrı  yerde  bulundurulması  mümkün  olmayan  buhar  
+depolarında ayrı bir bölme veya odada olma koşulu aranmaz. 
+Ancak   bu   kapların   konulacağı   yerler   emniyet   olgusu   göz   önünde   tutularak      
+seçilmelidir. 
+Basınçlı 
+Kapların 
+Bulunduru-
+lacakları 
+Yerler
+ 
+ 
+27. Basınçlı  kapların  bulunduğu  bölme  veya  odalara  sorumlu  ve  yetkililer  dışında 
+kişilerin  girmesi  yasaktır.  Bu  gibi  yerler  kolayca  görülebilecek  şekilde  ve  kolayca  
+okunabilecek    büyüklükte    “GÖREVLİLERDEN    BAŞKASI    GİREMEZ”    ibaresi    
+yazılmış olmalıdır. 
+Girişin 
+Kısıtlanma-
+sı 
+ 
+ 
+28. Herhangi   bir   hava   deposunun   havalandırma   amaçları   için   hava   tedarikinde   
+kullanıldığı hallerde, hava deposunun bağlı bulunduğu herhangi bir hava kompresör 
+tesisine alınan hava açık bir mekandan alınmalıdır. 
+Hava 
+Tedariki 
+ 
+ 
+(1) Herhangi  bir  basınçlı  hava  deposu, iç  kısımlarının  tam  olarak  muayene 
+edilmesine  olanak  vermeyecek  şekilde  imal  edilmiş  ise,  böyle  bir  muayene  
+yerine  hidrolik  test  yapılmalıdır.  Ancak  iç  kısımların  tam  olarak  muayene  
+edilebildiği hallerde yetkili makine mühendiinin uygun görmesi  halinde hidrolik 
+test yapılmayabilir. 
+29. 
+(2) Hidrolik  test  yapılmasının  gerekli  olduğu  hava  depolarında  bu  testler  her  4  
+yıllık sürede en az bir kez yapılmalıdır. 
+Hidrolik 
+Test 
+ 
+
+ 
+30. Her    buhar    kabı,    buhar    çıkış    deliğinin    her    zaman    açık  ve  engelsiz  olarak  
+bulundurulmasını sağlayacak şekilde idame ettirilmelidir. 
+Buhar Kabı 
+ 
+31. Herhangibir  basınçlı  kabın  en  alt  noktasında  suyun  veya  havanın  boşaltılması  için  
+uygun bir boşaltma (blöf) musluğu olmalıdır. 
+Boşaltma 
+Musluğu
+ 
+ 
+(1) Her  buhar  kazanında,  kazandaki  su  seviyesini  gösteren  uygun  bir  su  seviye  
+göstergesi  ve  alçak  su  seviye  kumandası  olmalıdır.  Su  seviye  göstergesi  ile  
+alçak  su  seviye  kumandası  yetkili  kişiler  tarafından  gerektiğinde  görev    yapıp 
+yapmadıkları kontrol edilebilecek şekilde teçhiz edilmiş olmalıdır. 
+32. 
+(2) Kazanın  çalışma  basıncının  3  kg/cm
+2
+’den  büyük  olması  halinde  su    seviye  
+göstergesine   okunmasını   engellemeyecek   şekilde   yeterli   bir   koruyucu   
+takılmalıdır. 
+Su Seviye 
+Göstergesi 
+ve Alçak Su 
+Seviye 
+Kumandası 
+ 
+ 
+33. Akaryakıtla  çalışan  kazanlarda  kazan  suyunun  olması  gereken  en  alt  seviyenin  
+altına düşmesi halinde, yakıtı kesmek suretiyle brülörün çalışmasını durduran uygun 
+bir aygıt olmalıdır. 
+Durdurucu 
+Aygıt 
+ 
+34. Kazan  içerisindeki  suyun  olması  gereken  en  alt  seviyenin  altına  düşmesi  halinde  
+çalışacak sesli bir alarm tertibatı bulunmalıdır. 
+Alarm 
+Tertibatı 
+ 
+35. Kademeli  buhar  kazanlarında  ilk  ateşleme  alevini  sürekli  izleyerek,  alevin  sönmesi  
+halinde  ateşleme  devresini  durdurarak  ana  alevin  meydana  gelmesini  önleyen;  
+ocakta  aşırı  dumanlı  yanma  olması  veya  ana  alevin  sönmesi  halinde  de  yakıtı 
+keserek alevi söndüren uygun bir fotoelektrik gözleyici olmalıdır. 
+Fotoelektrik 
+Gözleyici
+ 
+ 
+36. Her  buhar  kazanının  en  üst  seviyesinde  bir  hava  tahliye  musluğu  bulunmalıdır. 
+Ancak,  kazandaki  havanın  uygun  olan  başka  yollarla  da  tahliye  edilebilmesine  
+olanak bulunması halinde bu koşul aranmaz. 
+Hava 
+Tahliye 
+Musluğu
+ 
+ 
+(1) Her  buhar  kazanının  giriş  ve  çıkış  boruları  üzerine  birer  adet  ana  durdurma  
+vanası konulmalı ve bunlar kolaylıkla kapanabilir şekilde yapılmalıdır.  
+Birlikte çalışan kazanların her birinde ayrı ayrı vana bulunmamalıdır. 
+37. 
+(2) Her  kazanın  besleme  suyu  borusu  üzerinde  durdurma  vanası  ile  çek–valf    
+bunmalıdır. 
+Kazan  besleme  suyunun  ön  ısıtıcılardan  geçirilerek  verildiği  hallerde  bunlar  
+üzerinde de durdurma vanası ile çek-valf  bulunmalıdır. 
+Durdurma 
+Vanası 
+ 
+ 
+38. Buhar  kazanlarının  ön  ısıtıcılarında;  bir  emniyet  süpabı,  su  giriş  ve  çıkış sıcaklığını 
+gösteren  termometreler,  ön  ısıtıcılarla  kazan  arasında  iyi  kapanan  damperler  ve  iç  
+kısımda   biriken   tortu   ve   çamuru   temizlemek   için   uygun   tapa   veya   kapaklar   
+bulunmalıdır. 
+Ön Isıtıcılar 
+ 
+ 
+39. Buhar kızdırıcılarında gerektiği hallerde stop valf bulunmalıdır. 
+Buhar 
+Kızdırıcılar
+ 
+ 
+40. Gaz  yakıtlı  kazanlarda  gaz  basıncının  düşmesi  halinde,  yakıtı  kesen  ayarlı  bir  
+basınç şalteri bulunmalıdır.                  
+Basınç 
+Şalteri
+ 
+ 
+41. Akaryakıtla  çalışan  kazanlarda  yanma  odasında  oluşabilecek  fazla  basıncı  hemen  
+dışarıya   atabilecek   yeterli   kesitte   uygun   bir   patlama   emniyet   kapağı   ile   alev   
+gözetleme deliği bulunmalıdır.        
+Patlama 
+Emniyet 
+Kapağı
+ 
+ 
+
+42. Her buhar kazanında uygun ve yeterli bir duman bacası olmalıdır. 
+Duman Bacası 
+ 
+ 
+43. Her buhar kazanında bakım- kontrol amacıyla ve gerektiği hallerde kazan içine veya 
+baca   kanalına   girmek   için   uygun   şekil   ve   büyüklükte   kapaklar   (manhole)   
+bulunmalıdır.     
+Kapak 
+(Manhol) 
+ 
+ 
+44. Kazan   taşı   oluşumunu   önlemek   için,   buhar   kazanlarında   yumuşatılmış   su   
+kullanılmalıdır. 
+Yumuşatılmış 
+Su
+ 
+ 
+ 
+45. Herhangi  bir  işyerinde  buhar  kazanının  bulunduğu  oda  veya  bölme  üstündeki  katta  
+işçi    çalıştırılmamalıdır.Patlayıcı,  parlayıcı  veya  kolay  yanıcı  maddelerle  çalışan 
+işyerlerindeki  kazan  dairelerinin,  diğer  atölye  ve  bölümlere  açılan  pencere  ve  
+kapıları bulunmamalıdır. Herhangi bir kazan dairesinin tavanı gerektiğinde üzerinde 
+çalışmayı koaylaştıracak yükseklikte olmalıdır. 
+Kazan Dairesi 
+ 
+ 
+İki  veya  daha  fazla    buhar  kazanından  oluşan  bir  set  buhar  kazanından    herhangi  
+birine  temizlik,  bakım  ve  tamirat  amacıyla  girilecekse  veya  kazanın    bulunduğu 
+bölmede bulunulacaksa, öncelikle aşağıdaki önlemler alınmış olmalıdır; 
+(1) Buhar  kazanı  setinin  herhangi  bir  kısmından  söz  konusu  buhar  kazanına 
+buhar  veya  sıcak  su  geçişini  sağlayabilecek  tüm  girişlerdeki  tüm  bağlantılar 
+çözülmüş olmalıdır, veya; 
+46. 
+(2) Bu tür bir girişi kontrol eden tüm vana veya tapalar  kapatılmış ve emniyetli bir 
+şekilde  kilitlenmiş  olmalı  ve  bakım,  onarım  veya  temizlik  işini  yapmakta  olan  
+kişi dışında hiç kimse bu kilidi açamamalıdır. 
+Önlemler 
+ 
+ 
+47. Söndürülen bir buhar kazanı, tamamen soğuyuncaya dek, kazanın olduğu bölümde 
+herhangi bir iş yapılmasına izin verilmemelidir. 
+Tamamen 
+Soğumayı 
+Beklemek
+ 
+ 
+(1) Her basınçlı kap çalıştırıcısı, göreviyle ilgili olarak işyerinde eğitilmiş olmalıdır. 
+Basınçlı kap çalıştırıcılarının işyerinde eğitilmesine ek olarak, ilgili eğitim veya 
+meslek   kuruluşları   tarafından   eğitim   kursları   düzenlenmesi   halinde,   bu   
+cihazları çalıştıranların bu tür kurslara katılıp belge almaları koşuldur. İşveren 
+basınçlı  kap  personelini  gerek  işbaşında  eğitmek  ,  gerekse  bu  tür  kurslara  
+katılmaların
+ı   sağlamak   için   gereken   kolaylığı   ve   çabayı   göstermekle   
+yükümlüdür. 
+48. 
+(2) Basınçlı  kapların  kullanıldığı işyerlerinde  bu  cihazlarla  ilgili  kullanma  talimatı, 
+cihaz  üzerine  veya  kullanan  kimsenin  kolayca  görüp  okuyabileceği    şekilde 
+cihaz yanındaki uygun bir yere asılmalı veya yazılmalıdır. 
+Eğitim ve 
+Kullanma 
+Talimatı
+ 
+ 
+DÖRDÜNCÜ BÖLÜM 
+ÇEŞİTLİ KURALLAR 
+ 
+49.     (1)     Bu  tüzüğün  yürürlüğe  girdiği  tarihten  sonra  ilk  defa  kurulacak  olan  basınçlı 
+kaplar için, yapıları itibarıyle bu Tüzükte belirtilmiş olan emniyet cihazlarından 
+(patlama  kapağı  ,  otomatik  emniyet  süpabı,  alarm  tertibatı  ve  sair)  herhangi  
+birine  güvenlik  açısından  gerek  olmadığını  Müfettiş  tarafından  saptanması 
+halinde, durum, gerekçeli bir raporla Daire Müdürü’nün bilgisine getirilir. Daire 
+Müdürü,   söz   konusu   kuralların   makul   olarak   uygulanmasına   güvenlik   
+açısından  gerek  olmadığına  kanaat  getirirse,  bir  belge  ile,  böyle  bir  basınçlı 
+kabı,  bu  kurallardan  muaf  tutabilir.  Böyle  bir  muafiyet  ,  muafiyet  belgesinde  
+Muafiyet 
+ 
+
+belirtilen koşullara bağlı olabileceği gibi, herhangi bir koşula bağlı olmayabilir. 
+(2) Bu  Tüzüğün  yürürlüğe  girmesinden  önce  kurulmuş  olan  basınçlı  kaplarda  bu  
+Tüzük kurallarının bir kısmının makul olarak uygulanmasının mümkün olmadığı 
+hallerde,  bu  cihazlar  sözkonusu  kurallardan  muaf  tutulabilir.  Bu  muafiyet  
+konusunda, bu maddenin (1). Fıkrasında belirtilen usul uygulanır. 
+ 
+BEŞİNCİ BÖLÜM 
+SON KURALLAR 
+(1) 
+Bu  Tüzükte  öngörülen  yükümlülükleri  yerine  getirmeyen  veya  ona  
+aykırı  hareket  eden  gerçek  veya  tüzel  kişiler  bu  Tüzüğe  karşı  bir  suç  
+işlemiş olurlar. 
+(2) Yukarıdaki  (1)’inci  fıkrada  belirtilen  suçu  işleyenlerin  tesbiti  halinde  bu  suçları 
+işleyenler  hakkında,  Daire  tarafından,  değiştirilmi
+ş şekliyle  22/1992  sayılı İş 
+Yasası’nın 72’nci maddesinin (1), (2), (3), (4), ve (5)’inci fıkralarında öngörülen 
+idari para cezası kuralları uygulanır.   
+50. 
+(3) Yukarıdaki  (1)’inci  fıkrada  belirtilen  suçun  değiştirilmiş şekliyle  22/1992  sayılı 
+İş   Yasası’nın  72’inci  maddesinin  (6),  (7)  ve  (8)’inci  fıkralarında  öngörülen  
+kapsamda olması halinde, konu suçu işleyenler hakkında yargı işlemi başlatılır 
+ve  mahkumiyetleri  halinde  yetkili  mahkemece  değiştirilmiş şekliyle  22/1992  
+sayılı İş  Yasası’nın  72A.  Maddesinin  (8)’inci  fıkrasında  öngörülen  cezaya  
+çarptırılabilirler. 
+    Yetkili  Mahkeme  vereceği  cezaya  ek  olarak  değiştirilmiş şekliyle  22/1992  
+sayılı İş  Yasasının  72A  Maddesinin  (9)  ve  (10)’uncu  fıkrası  kurallarının  da  
+uygulanmasını emredebilir. 
+Suç ve 
+Cezalar 
+      A.E. 424 
+      6.7.2000 
+ 
+51. Bu Tüzük İş Yasası’na göre ve onunla birlikte uygulanır 
+Uygulama 
+ 
+52. Bu  Tüzük,  Bakanlar  Kurulu  adına  çalışma  işlerinden  sorumlu  Bakanlık  tarafından 
+yürütülür.  
+Yürütme  
+Yetkisi
+ 
+ 
+53. Bu Tüzük, Resmi Gazete’de yayımlandığı tarihten başlayarak yürürlüğe girer. 
+Yürürlüğe  
+Giriş
+ 
+ 
+  
+BİRİNCİ CETVEL 
+(Madde 10 (2)  ) 
+ 
+İzin Çeşidi                                                                Ücreti                                                                (Türk                                                                Lirası) 
+(1) Basınçlı Kap imal izni 25,000,000 TL 
+(2) Basınçlı Kap Montaj veya Tadilat İzni                       25,000,000 TL 
+(3) Buhar Kazanı İşletme İzni                                                                          20,000,000                                                                          TL                                                                          
+(4) Basınçlı Hava Deposu İşletme İzni;                                                                                                                                              
+         i) 200 lt Kapasiteye Kadar   7,000,000 TL 
+        ii) 200 lt’den Büyük 400 lt’ye Kadar 11,000,000 TL 
+       iii) 400 lt’den Büyük Kapasitede 14,000,000 TL 
+(5) Buhar Deposu İşletme İzni                                                                         13,000,000                                                                         TL                                                                         
+ 
+ 
+ 

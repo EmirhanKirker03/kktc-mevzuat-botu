@@ -1,0 +1,820 @@
+
+
+Sayı : 332
+1047
+
+1048
+"Bekleme Noktası", acil durumun çeşidine göre kurtarma ve 
+yangınla mücadele ekiplerinin daha etkin olabilmeleri için hazır 
+bulundukları bölgeleri anlatır. 
+"Bulaşıcı Hastalık", Bulaşıcı olan ve kökeni veya kaynağı ne 
+olursa olsun, insanlarda dikkate 
+değer ölçüde zarara yola açan veya 
+açabilecek bir rahatsızlık veya tıbbi bir durumu anlatır. 
+"Ciddi Olay", eldeki bilgi ve belgelerle kaza riski taşıdığı tespit 
+edilen 
+olayları anlatır. 
+"Daire", Sivil Havacılık Dairesini anlatır. 
+"Doğal Afet", deprem, sel, heyelan, çığ, fırtına, dolu, hortum, 
+kuraklık, göktaşı düşmesi gibi oluşumu engellenemeyen jeolojik, 
+meteorolojik, hidrolojik, klimatolojik, biyolojik ve kaynağı dünya 
+dışında olan tehlikelerden kaynaklanan doğa olaylarının 
+sonuçlarına verilen genel ismi anlatır. 
+"EADAK", Yasa'nın 16'ncı maddesi ile oluşturulan Eğitim 
+Araştırma Denetleme Alt Komisyonunu anlatır. 
+"EADUK", Yasa'nın 9'uncu maddesi ile oluşturulan Eğitim 
+Araştırma ve Denetleme Uzmanları Kurulunu anlatır. 
+"Havacılık İşletmeleri", sivil havacılık alanında faaliyet gösteren 
+ticari  hava taşımacılığı, genel havacılık, amatör havacılık, sportif 
+havacılık, havalimanı, terminal, ikram, yer hizmeti, kargo 
+acenteleri, antrepo, onaylı bakım ve özel güvenlik hizmeti 
+kuruluşlarını veya işletmelerini anlatır. 
+"Havaliınanı", karada ve su üzerinde hava araçlarının kalkması ve 
+inmesi için özel olarak 
+hazırlanmış, hava araçlarının bakım ve 
+diğer ihtiyaçlarının karşılanmasına, yolcu ve yük alınmasına ve 
+verilmesine 
+elverişli tesisleri bulunan Havalimanını anlatır. 
+"Havalimanı Güvenlik Komisyonu (HGK)", bu Tüzüğün 
+uygulanması ve havalimanında bulunan havacılık işletmeleri ve 
+diğer paydaşlar ile koordinasyonun sağlanması ile Dairenin 
+görevlerinin yürütülmesine 
+yardımcı olmak amacıyla Yasa'nın 
+15'inci maddesi uyarınca oluşturulan 1 (bir) Başkan ve 8 (sekiz) 
+üyeden 
+oluşan Havalimanı Güvenlik Komisyonunu anlatır. 
+"Havalimanı İşletmecisi", havalimanı çalıştırma sertifikası sahibi 
+ve 
+havalimanı işletmesinden sorumlu kurum ve kuruluşlar ile 
+gerçek veya tüzel 
+kişileri anlatır. 
+"Havaliınanı Kriz Yönetimi Merkezi (HKYM)", havalimanı 
+içerisinde veya yakınlarında meydan gelebilecek acil durumlarda 
+Havalimanı Güvenlik Komisyonu üyelerinin oluşturduğu, 
+"Havalimanı Kriz Yönetim Merkezi" olarak görev yapan merkezi 
+anlatır. 
+"Havalimanı Sınırı", havalimanına ait arazinin tel örgülerle veya 
+doğal engellerle çevrili fiziksel sınırlarını anlatır. 
+"Havalimanı Sorumluluk Sahası", havalimanı içi ve havalimanı 
+referans noktası merkezli 8 km yarıçaplı alanı anlatır. 
+"Havalimanı Yetkilisi", Dairenin Meydan İşletme Şube Amirini 
+anlatır. 
+"Hava Yolu Şirketleri", yerli ve yabancı tescilli tüm hava 
+taşıyıcılarını anlatır. 
+"İnceleme", bilgi toplanması ve analizi, sonuç çıkarılması, 
+nedenlerin belirlenmesi ve uygun ve/veya gerekli hallerde emniyet 
+
+1049
+kararları alınmasını içeren, kaza önleme amacıyla yürütülen süreci 
+anlatır. 
+"İtfaiye", yerleşim birimlerinde meydana gelen yangın, kurtarma 
+ve benzeri durumlara karşı oluşturulmuş teşkilatı anlatır. 
+"Kareli Harita (Ağ Harita)", havaalanı referans noktası merkez 
+olmak üzere 8 
+km. yarıçaplı alan içinde yangın söndürme 
+araçlarının herhangi bir noktaya kısa sürede ulaşmasını sağlamak 
+için numaralandırılıp havaalanının karelere ayrılmış haritasını 
+anlatır. 
+"Kurum ve/veya Kuruluş", acil durumlarda imkanlarından 
+faydalanılabilecek; hava taşımacılığı, havalimanının işletilmesi, 
+havalimanı güvenliğinin sağlanması, meteoroloji servisleri, yer 
+hizmetleri, 
+akaryakıt ikmal hizmetleri, gümrük hizmetleri, kargo 
+acenteleri, 
+sağlık hizmetleri, hava trafik hizmetleri, arama ve 
+kurtarma, ikram, çevre ve dekontaminasyon hizmetlerinin 
+yürütülmesi hususunda faaliyet gösteren tüm kurum ve/veya 
+kuruluşları anlatır. 
+"Mobil (İleri) Komuta Merkezi", tüm tehlikeler ve her düzeydeki 
+acil müdahale durumunun yönetiminde, müdahale edilen olay için 
+eldeki 
+imkanları en doğru ve etkin şekilde kullanabilmek amacıyla 
+oluşturulan geçici ve dar kapsamlı, Olay Yeri Sorumlusunun 
+bulunduğu, kuı1arma operasyonlarına ilişkin kararlar aldığı 
+merkezi anlatır. 
+"Muhtemel Harekat Tarzı Planı", havalimanı içinde ve yakın 
+çevresinde, yolculara, personele, uçaklara, tesislere ve 
+ekipmanlara yapılabilecek muhtemel her türlü saldırı ve sabotajı 
+önlemek, bunların etkilerini ve zararlarını en aza indirmek 
+amacıyla hazırlanan planı anlatır. 
+''NOTAM (Notice to Airmen)", Havacılık duyurusunu anlatır. 
+"Olay", uçuş emniyetini etkileyen veya etkileme ihtimali olan ve 
+bir kaza veya ciddi olayla 
+sonuçlanmamış durumları anlatır. 
+"Olay Yeri Sorumlusu", Bir acil durumda HKYM tarafından 
+görevlendirilen ve acil durumun olay yerinde yürütülmesi ve 
+koordinasyonundan sorumlu 
+asıl ve sürekli Daire Meydan İşletme 
+Şube Amirliği personelini anlatır. 
+"PAT Sahası (Pist-Apron-Taksi Yolu)", hava araçları ve bunların 
+faaliyetleri ile yakın ilgili araç ve gereçlerin hareket ve park 
+edilmesinde 
+kullanılan, asfalt beton ve toprak yapıdaki pist, apron 
+ve taksi 
+yollarını anlatır. 
+"Pist", bir havalimanında, uçakların iniş ve kalkışları için 
+hazırlanmış ve belirlenmiş sahayı anlatır. 
+"Randevu Noktası", yol kavşağı, kesişen yol ya da başka bir yerde 
+belirlenmiş, acil duruma müdahale edecek personel ve araçların 
+uçak kaza-kırımında olay yerine gitmeden önce talimat almaları 
+için konuşlandıkları önceden belirlenmiş yerleri anlatır. 
+"Salgın", bir hastalığın veya sağlıkla ilişkili özel bir durumun, 
+belirli bir 
+coğrafyada veya toplulukta beklenenden daha  fazla 
+sayıda görülmesini anlatır. 
+"Talimat", Bayındırlık ve Ulaştırma Bakanlığınca uluslararası 
+standartlar gereği çıkarılan Acil Durum Planı Talimatını anlatır. 
+"Taksi", Uçağın yerde yaptığı hareket anlatır. 
+
+1050
+58/2023 
+5/2013 
+11/2020 
+Amaç 
+Kapsam 
+"Taksi Yolu", bir 
+havalimanı, uçakların taksi yapmaları için 
+hazırlanmış ve havalimanının bir yeri ile diğer bir yeri arasında 
+bağlantı yapan yolunu anlatrr. 
+"Tatbikat", bir acil durum veya afet halinde 
+yapılması planlanmış 
+olan müdahale sürecinde yer alacak eylemlerin uygunluğunu, 
+yeterliliğini ve güncelliğini mümkün olduğunca gerçeğe yakın 
+koşullar altında ve bir senaryoya bağlı kalarak denemek amacıyla 
+yapılan uygulamayı anlatır. 
+"Terminal", yolcuların uçuş öncesi ve uçuş sonrası işlemleri 
+yapılan, bünyesinde hava ulaştırma hizmeti ile ilgili kuruluş ve 
+kolaylık tesislerini bulunduran bina veya binalar grubunu anlatır. 
+"Uluslararası Önemi Haiz Halk Sağlığı Riski", bir hastalığın 
+uluslararası yayılma yoluyla diğer devletler için halk sağlığı riski 
+oluşturduğu, eşgüdüm içinde uluslararası yanıtta bulunulması 
+potansiyel olarak gerekli kıldığı tespit edilen olağandışı olayı 
+anlatır. 
+"Yasa", Sivil Havacılık Güvenlik Yasası'nı anlatır. 
+"Yasa Dışı Eylemler", hava aracının yasa dışı olarak ele 
+geçirilmesini; hizmetteki hava 
+aracına zarar verilmesini; 
+havalimanında veya hava aracı içinde rehine alınmasını; hava 
+aracına, havalimanına veya havalimanındaki tesislere zorla 
+ve/veya izinsiz olarak girilmesini; hava 
+aracına veya havalimanına 
+kötü amaçla silah, tehlikeli cihaz veya madde sokulmasını; hava 
+aracının insanları öldürmek, yaralamak, çevre ve binalara zarar 
+vermek amacıyla kullanılmasını; ve/veya havalimanında veya sivil 
+havacılık tesislerinde uçuşta veya yerde olan hava aracı, yolcular, 
+mürettebat ve/veya ekip,  yer personeli veya 
+halkın emniyetinin 
+tehlikeye 
+atılmasını anlatır. 
+"Yer Hizmetleri Kuruluşları", Hava Limanları Hizmetler ve 
+Limanlar (Ücretleri) 
+Yasası 'nda düzenlenen şartları sağlayarak 
+havaalanlarında yer hizmetleri yapmak üzere çalışma ruhsatı alan 
+özel hukuk tüzel 
+kişiliği bulunan kuruluşları anlatır. 
+3. Bu Tüzüğün amacı, Muhtemel Harekat Tarzı Planı kapsamı 
+dışında kalan ve havalimanı sorumluluk sahası içerisinde meydana 
+gelebilecek acil 
+durumların etkilerini asgariye indirmek ve 
+olaydan etkilenen 
+insanların hayatlarını kurtarmak amacıyla, Acil 
+Durum 
+Planına ilişkin usul ve esasları düzenlemektir. 
+4. Bu Tüzük, Acil Durum Planının uygulanmasına ve esaslarına dair 
+kuralları kapsar. 
+İKİNCİ KISIM 
+Acil Durum 
+Planına İlişkin Yetki ve Sorumluluk 
+Acil Durum 
+Planı ve 5. 
+Uygulanmasında 
+(1) ADP acil durumlarda yetkili ve sorumluların izleyeceği 
+eylemleri belirler ve doğru acil müdahaleyi sağlamak için 
+kurum ve/veya 
+kuruluşların yapması gereken temel ve ilk 
+eylemleri tanımlar. 
+Yetki ve Sorumluluk 
+
+1051
+(2) Daire, havalimanı içerisinde bulunan kurum ve/veya 
+kuruluşlar ile havalimanı dışında faaliyet yürüten, plan 
+dahilindeki kurum ve/veya 
+kuruluşlar vasıtasıyla Acil 
+Durum 
+Planına ilişkin yetkilerini kullanır ve 
+sorumluluklarını yerine getirir. Bu kurum ve/veya 
+kuruluşlar, plana ilişkin sorumlulukları kapsamında HKYM' 
+nin direktifleri 
+doğrultusunda görev yapar. İhtiyaç halinde 
+havalimanında hizmet veren kurum ve/veya kuruluşların 
+personel, araç ve teçhizatlarından yararlanılır. 
+(3) Kurum ve/veya kuruluşlar kendi yetki ve sorumlukları 
+çerçevesinde standart çalışma usullerine göre belirlenen 
+faaliyetleri yerine getirirken, personelinin acil durum 
+talimatlarını doğru şekilde takip edebileceği şekilde yeterli 
+eğitim ve niteliklere sahip olmasını sağlamakla sorumludur. 
+ÜÇÜNCÜ KISIM 
+ADP' nin 
+Hazırlanması, Revizyonu ve Dağıtımı, Haberleşme ve Komuta 
+ADP' nin 
+Hazırlanması, 
+Revizyonu ve 
+Dağıtımı 
+6. (1) ADP'nin hazulanmasından, uygulanmasından, 
+yürütülmesinden, takibinden ve güncellenmesinden, plan 
+dahilinde 
+yapılması gereken tatbikatların icrasından ve 
+planın test edilip geliştirilmesinden Daire sorumludur. 
+Daire 
+bu sorumluluğunu; Daire Müdür Muavini (Başkan), 
+Daire Meydan İşletme Şube Amirliği Temsilcisi, Daire Hava 
+Trafik Kontrol Şube Amirliği Temsilcisi, Gümrük ve 
+Rüsumat Dairesi Temsilcisi, PGM 
+tarafından havalimanında 
+görevlendirilen Ercan Güvenlik Amirliği Temsilcisi, 
+Güvenlik Kuvvetleri 
+Komutanlığı Temsilcisi, Sağlık 
+İşleriyle Görevli Bakanlığın Temsilcisi, Havalimanı 
+İşleticisinin Temsilcisi ve EADUK Temsilcisinin de dahil 
+olduğu ve gerektiğinde Acil Durum Planı'nda bahsi geçen 
+kurum ve /veya 
+kuruluş temsilcilerinin de dahil edilebileceği 
+EADAK vasıtasıyla yerine getirir. 
+(2) ADP, 
+Yasa'nın 16'ncı maddesi uyarınca kurulan Daireye 
+bağlı EADAK tarafından hazırlanır. EADAK aşağıda 
+belirtilenlerin yerine getirilmesinden sorumludur: 
+(A) Yasa 
+uyarınca ve uluslararası ve ulusal mevzuat göz 
+önünde bulundurularak ADP' 
+nin hazırlanmasından, 
+(B) ADP' nin işlevselliğinin sağlanmasından, 
+(C) ADP' nin yenilenmesini gerektiren durumlarda, 
+gerekli güncelleme 
+çalışmalarının yapılmasından; bu 
+çalışmalar yapıldıktan sonra imzalanmak ve 
+onaylanmak üzere Sivil 
+Havacılık Güvenlik Kuruluna 
+sunulmasından sorumludur. 
+(3) ADP' nin revizyonu ve plan takibinin sürekli 
+sağlanabilmesi 
+amacıyla en az ayda bir kez yapılan EADAK toplantıları 
+
+1052
+Kurum ve/veya 
+Kuruluşlar 
+kayıt altına alınır. Yapılan toplantılarda yapısal 
+değişikliklere ve/veya mevzuat değişikliklerine ihtiyaç 
+duyulması halinde ADP ivedilikle güncellenir.  ADP' de 
+yapılan değişiklikler Bakanlık tarafından çıkarılan talimatta 
+yer alan Revizyon Takip Tablosuna 
+işlenir. 
+(4) (A) ADP'de bahsi geçen kurum ve/veya kuruluşlarının 
+görev, yetki ve sorumlulukları konusunda 
+bilgilendirilmeleri 
+amacıyla, ADP' nin dağıtımı, 
+Havalimanı Güvenlik Komisyonu kararıyla Daire 
+tarafından yapılır ve dağıtıma ilişkin bilgiler kayıt altına 
+alınır. ADP' de yer alan içerik ve eklerin tamamının 
+güvenlik ve gizlilik nedeniyle tüm kuruluşlara 
+dağıtılmasına ihtiyaç bulunmadığından, HGK kararı ile 
+plan ve eklerinin 
+tam veya kısmi olarak dağıtımı 
+Bakanlık tarafından çıkarılan talimatta oluşturulan 
+ADP, Kareli Harita ve Ekleri Dağıtım Tablosu ve ADP 
+Ekleri 
+Dağıtım Tablosunda belirtildiği şekilde yapılır. 
+Her kurum ve/veya kuruluş, planda yer alan 
+sorumluluklarını içeren doklimanları, plana dahil birim 
+ve personele 
+dağıtımının yapılmasını sağlar ve kayıt 
+altına alır. 
+(B) ADP' nin en glincel halinin ilgili bölümlerine, ADP' 
+ye dahil kurum ve/veya 
+kuruluş ve personelinin 
+erişimi, dijital ve/veya basılı olarak sağlanır. EADAK 
+tarafından değişiklerin takip edilebilmesi için gerekli 
+önlemler 
+alınır ve en az bir kopya basılı olarak 
+muhafaza edilir. 
+(C) ADP ve eklerinde yer alan 
+iletişim numaraları ve 
+benzeri bilgilerin 
+glincelliği plana dahil olan kurum 
+ve/veya 
+kuruluşlar tarafından düzenli olarak kontrol 
+edilir. 
+İlgili kurum ve/veya kuruluşlar güncellenmesi 
+gereken bilgilerin Daireye derhal bildirilmesinden 
+sorumludur. 
+7. Herhangi bir acil durumda Dairenin ihtiyaç 
+duyması halinde, 
+ivedilikle 
+yardım sağlanması amacıyla, HKYM aracılığıyla, ADP 
+dahilinde kurum ve/veya 
+kuruluşlar ve yerel yönetimlerin 
+imkanlarından faydalanılır. Kurum ve/veya kuruluşların acil 
+durumda yerine getirmeleri gereken görev ve sorumluluklar, 
+takviye personel/ekipman, olay/kaza yerine 
+ulaşım, koordinasyon 
+ve benzeri hususlar 
+Bakanlıkça çıkarılan ADP Talimatıyla 
+düzenlenir. 
+
+1053
+Acil Durum Bildirim 8. Acil durum meydana geldiğinde, alınacak ilk bildirimin akabinde 
+Süreci A TC veya 
+diğer bilgi kaynağı tarafından, acil durum bildirim 
+süreci 
+başlatılır. Kurum ve/veya kuruluş ve birimler arasındaki 
+haberleşme ve koordinasyon, Bakanlıkça çıkarılan talimatta 
+düzenlenen Olay 
+Akış Şemasına uygun olarak sağlanır. 
+Acil Durum 
+Enformasyon 
+Ağı 
+ADP' nin Amacı, 
+Havalimanı İçindeki 
+Kurum ve/veya 
+Kuruluşlarla 
+Koordinasyon ve 
+Komuta 
+ADP' ye dahil 
+Kurum ve/veya 
+Kuruluşlarla 
+Koordinasyon 
+9. Herhangi bir acil durumda ilk bilgi akışının sağlanabilmesi 
+amacıyla, ihtiyaç duyulabilecek  telefon numaraları Bakanlıkça 
+çıkarılan talimatta Acil Durum Enformasyon Ağı başlığı altında 
+düzenlenir. 
+10. (1) ADP' nin amacı havalimanında acil bir durum meydana 
+geldiğinde normal durumdan acil duruma geçişte etkin ve 
+etkili müdahalede bulunmak, acil durumun etkilerini 
+asgariye indirerek hayat kurtarmak ve acil durumdan normal 
+duruma en seri 
+şekilde geçebilmek amacıyla faaliyetler 
+yürütmektir. 
+(2) ADP 
+kapsamında kurum ve/veya kuruluşlarla iş birliği ve 
+koordinasyonu 
+sağlamak, Bakanlık ve İçişleriyle Görevli 
+Bakanlığa bilgi vermek Daire yetki ve sorumluluğunda olup, 
+Daire bu 
+işlem ve eylemleri HKYM aracılığıyla yerine 
+getirir. ADP 
+gereği havalimanı içerisinde bulunan kurum 
+ve/veya 
+kuruluşlar ADP' de belirtilen görev ve 
+yükümlülükleri yerine getirmek ve bu konuda verilecek 
+güncel emir ve talimatlara uymak 
+zorundadır. 
+(3) Daire, kurum ve/veya kuruluşlarla görev ve 
+sorumluluklarının bildirilmesi ve uygulamada aksaklıkların 
+meydana gelmemesi için toplantılar yaparak, plan hakkında 
+bilgilendirilmelerini ve bilgilerin güncellenmesini sağlar. 
+ADP gereği yapılması gereken geniş katılımlı tatbikatlar 
+öncesinde bu tür 
+toplantılar düzenlenerek katılımcı kurum 
+ve/veya 
+kuruluş personeline brifing verilmesi zorunludur. 
+( 4) Gerekli hallerde, 
+havalimanında hizmet veren kurum ve/veya 
+kuruluşların personel, araç ve teçhizatlarından yararlanılması 
+amacıyla ihtiyaç duyulabilecek telefon numaraları HKYM' 
+de bulunan panoda 
+asılı bulundurulur. 
+11. (1) Havalimanı sorumluluk sahasında bir acil durum meydana 
+geldiğinde normal durumdan acil duruma geçişte etkin ve 
+etkili müdahalede bulunmak, acil durumun etkilerini 
+asgariye indirerek hayat kurtarmak ve acil durumdan normal 
+duruma en seri 
+şekilde geçebilmek amacıyla kurum ve/veya 
+
+1054
+Acil Durum 
+Rapor 
+Formları 
+Acil Durum İlanı ve 
+Acil Durumun 
+Kaldırılması 
+kuruluşlarla koordinasyon Daire Müdürü başkanlığında 
+oluşturulan HKYM tarafından yürütülür. 
+(2) 
+HKYM' de yapılması ve yürütülmesi gereken iş ve işlemler 
+ile sekretaryası Daire tarafından yürütülür. 
+(3) Acil durumlarda 
+havalimanı imkanlarını desteklemek, 
+kurtarma ve 
+yangınla mücadele birimine yardımcı olmak, 
+sağlık hizmetlerini yerine getirmek üzere havalimanı dışında 
+faaliyet yürüten kurum ve/veya kuruluşlar olan Güvenlik 
+Kuvvetleri 
+Komutanlığı, Sivil Savunma Teşkilatı 
+Başkanlığı, Çevre Koruma Dairesi, Kıbrıs Türk Kıyı 
+Emniyeti ve Gemi Kurtarma Şti. Ltd.' in kaynaklarından 
+yararlanılır. Bu kurum ve/veya kuruluşlar havalimanı ve 
+sorumluluk 
+sahasında meydana gelebilecek uçak kaza-kırım 
+ve yangınları başta olmak üzere acil durumlarda, 
+havalimanından alacakları ihbar üzerine teşkilatını harekete 
+geçirerek o  andaki 
+imkanlarıyla kaynaklarını, araçlarını ve 
+personelini olay mahalline sevk eder. 
+12. 
+Bakanlıkça çıkarılan ADP Talimatında aşağıdaki formlar yer alır: 
+(1) Kaza Ciddi Olay Bildirim Ön Rapor Formu 
+(2) 
+İlk Kaza Olay Raporu Formu 
+(3) 
+Ayrıntılı Kaza Raporu Formu 
+(4) Afet ve Acil Durum Bildirim Formu 
+(5) 
+Eleştiri Ekibi Değerlendirme Formu 
+(6) Acil 
+Dwıım Tatbikat Değerlendirme Formu 
+13. (1) Havai imanlarında ve sorumluluk sahalarında meydana 
+gelebilecek hava 
+aracı kaza-kırım ve yangınları başta olmak 
+üzere 
+havalimanı bina-tesis yangınları, doğal felaketler, 
+uluslararası önemi haiz bulaşıcı hastalıklar ve ADP Talimatı 
+kapsamındaki acil durum senaryolarında HKYM Başkanının 
+talimatı veya Daire Meydan İşletme Şube Amirliği talebi 
+üzerine acil durum ilan edilir. 
+(2) Acil durum 
+ilanına sebep olan durumun tamamen ortadan 
+kalkması halinde HKYM üyelerinin oıiak kararı ile acil 
+durum 
+kaldırılır, plan dahilinde tüm kurum ve/veya 
+kuruluşlara duyurulur ve Bakanlığa bilgi verilir. 
+
+1055
+(3) Acil durumda eğer havalimanı uçuş operasyonlarına 
+kapatılmış ise, havalimanın en kısa sürede tekrar hizmete 
+verilmesi 
+esastır. Bu nedenle HKYM aşağıda belirtilen 
+hususları değerlendirerek faaliyetleri etkileyecek önemli bir 
+durum 
+olmaması halinde uçuş operasyonlarını ivedilikle 
+başlatır. Buna ilişkin gerekli duyuruları yaptırır. 
+(A) Havalimanı içi ve sorumluluk sahasında meydana 
+gelen uçak 
+kaza-kırım ve yangınlarına karşı gerekli 
+müdahaleler 
+yapılarak operasyonun tamamlanması 
+durumunda ve PAT sahaları ile diğer tesis ve 
+kolaylıklarda uçuş operasyonuna engel durum 
+bulunmaması, 
+(B) Deprem, sel, fırtına ve yangın gibi felaketlerde 
+havalimanı bünyesinde bulunan bina, tesis ve kritik 
+cihazların olaylardan etkilenme düzeylerinin tespiti 
+amacıyla gerekli teknik incelemeler yaptırılarak 
+herhangi bir olumsuzluk tespit edilmemesi, 
+(C) 
+Havalimanı ve/veya uçaklarda kişi ve/veya toplum 
+sağlığını tehdit eden salgın, bulaşıcı, toplu zehirlenme 
+ve benzeri kritik sağlık hadiselerinde olaya ilişkin 
+müdahalelerin tamamlanması, 
+(D) Meydana gelen acil durumlara karşı gerekli 
+müdahalelerin yapılarak operasyonların 
+tamamlanması. 
+(4) Havalimanı sorumluluk sahası dışında meydana gelen 
+kaza/olaylarda, havalimanı uçuş operasyonları 
+etkilenmeyeceğinden, Meydan İtfaiye Şube Amirliği 
+(ARFF) personelinin söz konusu olaya görevlendirilmesinde 
+Havalimanı Yangın la Mücadele Kategorisi göz önünde 
+bulundurularak değerlendirme yapılır. Sağlanan koruma 
+seviyesinde 
+değişiklik olması halinde ivedilikle gerekli 
+havacılık duyuruları (NOTAM) yaptırılır. 
+Olay Yeri Sorumlusu 14. (1) Her türlü kaza, kırım ve olayda Olay Yeri Sorumlusu olarak 
+Meydan İşletme Şube Amiri tarafından asıl ve sürekli 
+Meydan 
+İşletme Memuru kadrosunu tutan bir personel 
+görevlendirilir. 
+(2) Hava 
+aracı kaza-kırım ve yangınlarında ARFF birim 
+sorumlusu kaza mahalline gelen ilk yetkilidir. ARFF birim 
+sorumlusunun 
+asıl görevi kurtarma ve yangınla mücadele 
+operasyonunu yönetmekle ilgili 
+olduğundan hava aracı kaza-
+kırım ve yangınlarında Olay Yeri Sorumlusu olay mahalline 
+ulaşıp yetkiyi devralana kadar geçici olarak ARFF birim 
+sorumlusu yetkilidir. Olay Yeri Sorumlusu olay yerine 
+geldiğinde Yetki ve sorumluluğun devredilmesi esnasında 
+aşağıda belirtilen bilgiler Olay Yeri Sorumlusuna aktarılır: 
+(A) Mevcut durum, 
+(B) Kazazedelerin durumu, 
+(C) Kurtarma 
+çalışmaları, 
+
+1056
+(Ç) İhtiyaç duyulan sağlık ve diğer destek unsurları, 
+Devirden sonra olay yerine ilişkin her türlü talep ve 
+koordinasyon Olay Yeri Sorumlusu 
+aracılığı ile yürütülür. 
+(3) Acil durum meydana 
+geldiğinde ADP çerçevesinde 
+görevlendirilen personelin olay yerine sevk ve idaresi kendi 
+en üst birim yetkilisi sorumluluğundadır. Olaya müdahale 
+edecek olan ekiplerin sevk ve idaresinden ekip yetkilileri 
+sorumludur. 
+Ayrıca ekip yetkilisi kendi en üst birim 
+yetkilisine, Olay Yeri Sorumlusuna ve HKYM' ye 
+karşı da 
+sorumludur. Acil Duruma Müdahale 
+Sorumluluğuna ilişkin 
+düzenleme Bakanlıkça çıkanları talimatta yer alır. 
+(4) Kaza-kırım durumlarında olay yerinde yetkili kişilerin fark 
+edilmesinin 
+sağlanması ve bu sorumluların en iyi şekilde 
+ayırt edilerek tanınması amacıyla ayırt edici,  renkli, sert 
+malzemeden 
+yapılmış ve üzerinde fosforlu harfler bulunan 
+şapka ve/veya yelek ve/veya kıyafet giymeleri 
+gerekmektedir. Bu kapsamda 
+Havalimanı İşletmecisi 
+tarafından aşağıda belirtilen şekilde gerekli malzemeler 
+oluşturularak Mobil (İleri) Komuta Merkezinde muhafaza 
+edecektir. 
+Sarı 
+KüfYe ili 
+(5) 
+Olayın durumuna göre, havalimanı dışında faaliyet gösteren 
+kurum/kuruluşlardan takviye olarak gelen itfaiye, sağlık, 
+arama kurtarma,  güvenlik,  çevre koruma, yerel yönetim 
+personelinin 
+havalimanında yönlendirilmeleri HKYM 
+talimatları çerçevesinde Olay Yeri Sorumlusu tarafından 
+planlanır. Ancak operasyonel çalışmaları kendi birim 
+amirleri 
+tarafından yürütülür. Olaya müdahale anında 
+kargaşa yaratılmaması için havalimanı dışından gelen 
+takviye ekiplerden; • 
+(A) 
+İtfaiye ekipleri; Meydan İtfaiye Şube Amirliği'nin 
+(B) Sağlık ekipleri; Sağlık Bakanlığına bağlı 112'nin 
+(Sağlık Bakanlığı Yetkilisi), 
+(C) Polis ve Emniyet güçleri; PGM Ercan Güvenlik 
+Amirliğine bağlı en üst Polis Yetkilisinin, 
+Koordinesinde 
+çalışma yapar. 
+
+1057
+Mobil (İleri) Komuta 
+Merkezi 
+15. (1) Acil durumlarda olayı yerinden yönetmek, eldeki imkanları 
+doğru ve etkin kullanabilmek, komuta, koordinasyon ve 
+iletişim merkezi olarak hizmet edebilmek için olay yerine 
+yakın bir bölgede Mobil (İleri) Komuta Merkezi kurulur. 
+Mobil 
+(İleri) Komuta Merkezi ADP' ye dahil Kurum ve/veya 
+kuruluşların bilgi alıp verdiği ve kurtarma operasyonlarına 
+ilişkin operasyonel kararların alındığı bir noktadır. 
+(2) Mobil (İleri) Komuta Merkezi, öncelikli olarak hayat 
+kurtarmak 
+amacıyla gerçekleştirilen faaliyetlerin 
+koordinasyonunu 
+sağlar. Mobil (İleri) Komuta Merkezinin 
+temel özellikleri 
+aşağıda beliı1ilenlerdir: 
+(A) Hızla kurulabilen hareketli bir tesistir, 
+(B) 
+İleri komuta, koordinasyon ve iletişim merkezi olarak 
+çalışır, 
+(C) Olay yeri ve HKYM arasındaki iletişimi ve 
+koordinasyonu sağlar, 
+(Ç) Rüzgara ve arazi koşullarına göre doğru bir şekilde 
+konumlandmlacak özelliğe sahiptir. 
+(3) Herhangi bir kaza/olay 
+olması halinde tayin edilen, fark 
+edilebilir ve hemen görülebilir bir Mobil (İleri) Komuta 
+Merkezi öncelik 
+taşır. Acil durum olaylarında HKYM üs 
+olarak 
+kullanılır. Meydan İşletme Şube Amirliği 
+koordinesinde ayrıca olay yerinde güvenli bir bölgede 
+komuta, koordinasyon ve 
+iletişim merkezi olarak "Mobil 
+(İleri) Komuta Merkezi" oluşturulur. Olabildiğince hızlı bir 
+şekilde, tercihen yangın kontrolü ve kurtarma faaliyetlerinin 
+başlamasıyla aynı zamanda kurularak komutanın devam 
+ettirilmesi 
+sağlanır. Böylece Mobil (İleri) Komuta Merkezine 
+rapor sunan her bir kurum ve/veya 
+kuruluş sahip olduğu 
+sorumlulukların kontrolünü üstlenmeden önce durum 
+hakkında yeterli bilgiye sahip olur. 
+Mobil 
+(İleri) Komuta Merkezinde görev yapmak üzere 
+mutlaka  Meydan 
+İşletme Şube Amirliğinden yetkili bir 
+personel ile PGM Ercan Güvenlik Amirliği'nden rütbeli bir 
+personelin 
+bulunması sağlanır. Mobil (İleri) Komuta 
+Merkezi, Olay Yeri Sorumlusu ile HKYM' ye 
+bağlı olarak 
+görev yapar. 
+(4) Olaya müdahale eden personel, olayda can ve mal 
+kaybının 
+en aza indirilmesi için gereken her türlü gayret ve çabayı 
+göstermekle yükümlüdür. Olay anında görevli olan bütün 
+birim amirleri, HKYM 
+talimatları dışında hareket edemezler 
+ve tamamen HKYM Başkanına karşı sorumludurlar. 
+(5) 
+Çalışmalarda iletişimin hızlı ve seri şekilde yapılması için, 
+Daire 
+şubeleri arasında ortak kullanımda olan telsiz 
+kanallarından kule kanalı, acil durum kanalı olarak 
+belirlenmiş olup, meydana gelebilecek acil durumlarda Daire 
+şube personelleri söz konusu telsiz kanalına geçer. 
+
+1058
+İletişim Ekipmanları 
+Haberleşme, Alarm 
+Verme 
+Kolaylıkları 
+ve Alarm Sistemleri 
+(6) Mobil 
+(İleri) Komuta Merkezi içerisinde kullanıcıların 
+ihtiyaçlarının karşılanması amacıyla gerekli enerji,  internet, 
+telsiz, megafon, kareli haritalar,  vaziyet 
+planı gibi malzeme 
+ve ekipmanlar temin edilmelidir. Mobil 
+(İleri) Komuta 
+Merkezinde bulunan malzeme ve ekipman listesi 
+Bakanlık 
+tarafından çıkarılan talimatla düzenlenir.  Araç içerisinde 
+bulunan her türlü malzeme 
+ekipmanın tam ve eksiksiz 
+çalışması amacıyla yapılması gerekli olan kontrol ve 
+sorumluluklara 
+ilişkin kurallar EADAK tarafından belirlenir. 
+16. Birden fazla yetki alanından gelen kuruluşları kapsayan koordine 
+edilmiş bir iletişim sistemi,  yeterli sayıda radyo alıcısı-vericisi, 
+telefon ve birincil ya da ikincil iletişim yollarının kurulması ve 
+sürdürülmesi için 
+diğer iletişim cihazlarından oluşturulur. 
+17. Havalimanında acil durumlara müdahale edecek acil durum 
+birimlerinin ve 
+kişilerin harekete geçirilmesinde, kompleks bir ha-
+berleşme sistemi olduğundan, acil durumun plan kapsamındaki 
+müdahale birimlerine duyurulmasında yanlış anlamaların 
+önlenmesi için olayın şekline göre alarm sistemleri geliştirilir. 
+(1) Alarm Sistemleri, Bakanlıkça çıkarılan Uçak Kaza Kırım 
+Kurtarma ve Yangınla Mücadele Talimatı kurallarına göre 
+veriliş şekliyle dört kısımda ele alınmış olup, aşağıdaki 
+tabloda belirtilmiştir. 
+ALARMNO 
+1 Numaralı Alarm 
+2 
+Numaralı Alarm 
+3 
+Numaralı Alarm 
+ALARM 
+ŞEKLİ 
+Havalimanı referans noktası 
+merkez olmak üzere ulaşım 
+imkanları bulunan 8 km. 
+yarıçaplı bir alan içerisinde 
+meydana gelen uçak 
+kazalarını 
+bildirir ve uzun süreli 1 zil sesi 
+ile duyurulur. 
+Havalimanı referans noktası 
+merkez olmak üzere ulaşım 
+imkanları bulunan 8 km. 
+yarıçaplı bir alan dışında veya 
+ulaşım güçlükleri bulunan 
+bölgelerde meydana gelen 
+uçak 
+kazalarını bildirir ve kısa 
+süreli 2 zil sesi ile duyurulur. 
+Uçuş güvensizliği, herhangi 
+bir temasta bulunmadan 
+inişe 
+geçen uçaklar, yasa dışı eylem 
+veya iltica, bomba ihbar ve 
+tehditleri sebebiyle bildirilen 
+acil durumlar olup, 
+kısa süreli 
+3 zil sesi ile duyurulur. 
+
+1059
+Kareli (Ağ) Haritalar 
+ve Randevu Noktası 
+4 Numaralı Alarm 
+Uçak 
+kazaları dışındaki 
+havalimanı bina ve tesis 
+yangınlarını bildirir, kısa 
+süreli 4 zil sesiyle duyurulur. 
+(2) HKYM ve Mobil 
+(İleri) Komuta Merkezinde telsiz cihazları 
+bulunmakta olup, acil durum frekanslarının karışmasını 
+önlemek için katı iletişim disiplini uygulanmalıdır. 
+(3) İletişim sisteminin bütün telsizlerin ve telefon ağlarının 
+çalışır durumda olduğunu teyit etmek için rutin olarak test 
+edilmesi gerekmektedir. 
+Kuruluşlar arası telefon 
+numaralarının olduğu eksiksiz ve güncel bir liste bütün 
+kurum ve/veya 
+kuruluşlar ve acil durum planından sorumlu 
+personel için mevcut 
+olmalıdır. 
+(4) HKYM ve Mobil (İleri) Komuta Merkezinde bulunan tüm 
+iletişim cihazlarının işlevselliği rutin olarak kontrol edilir. 
+Arıza tespiti halinde giderilmesi amacıyla Havalimanı 
+İşletmecisi haberdar edilir. 
+18. (1) Havai imanı içinde veya dışında meydana gelebilecek olay ve 
+kazalarda, olay yerine hızlı bir şekilde intikal ve müdahale 
+edilmesi ile 
+yardıma gelecek kurum ve/veya kuruluşlara 
+referans olması amacıyla havalimanına ait vaziyet planı ve 
+ölçekli haritalar oluşturulur. 
+(2) Haritaların karıştmlmaması, ADP' ye dahil bütün kurum ve 
+/veya 
+kuruluşlar için hemen tanımlanabilir olması için 
+haritalar üzerinde 
+tanımlayıcı bilgiler yer almalıdır. Bu 
+haritaların aşağıda belirtilen yerlerde bulundurulması 
+zorunludur; 
+(A) 
+HKYM'de 
+(B) 
+Mobil 
+(İleri) Komuta Merkezinde 
+(C) 
+Hava Trafik Kontrol kulesinde 
+(D) ARFF istasyonunda, 
+(E) ARFF 
+araçlarında, 
+(F) Meydan İşletme Şube Amirliğinde 
+(G) 
+İhtiyaç duyulan diğer yerler. 
+(3) Kareli 
+(ağ) haritaların her revize edilişinde, revize tarihinin 
+harita üzerine 
+işlenmesi, güncel bir kopyasının ADP' ye 
+dahil bütün kurum ve/veya 
+kuruluşlara verilmesi ve eski 
+haritanın yok edilmesi gerekmektedir. 
+(4) Bu amaçla ADP' 
+de gerekli güncellemeler yapılarak kareli 
+(ağ) haritaların güncel hallerinin dağıtımı plan dahilindeki 
+tüm kurum ve/veya 
+kuruluşlara yapılmalıdır. 
+(5) ARFF araçlarına küçük ebatlı haritalar konması zorunludur. 
+Kareli 
+(ağ) haritaların dağıtım bilgileri Bakanlıkça çıkarılan 
+
+1060
+1/5.000 Ölçekli 
+Kareli (Mavi) Harita 
+talimatta yer alan ADP, Kareli Harita ve Ekleri 
+Dağıtım 
+Tablosu ile düzenlenir. 
+(6) 1/5.000 Ölçekli Kareli Harita Mavi, 1/25.000 Ölçekli Kareli 
+Harita 
+ise Kırmızı renklerde çerçevelendirilerek ayrılmalıdır. 
+19. Havalimanı içi ulaşım yollarını, zorlu arazileri, su kaynaklarının 
+yerini, randevu noktalarını, bekleme noktalarını, bina, tesis ve 
+PAT 
+sahalarını, havalimanı sınırlarını, eşikten itibaren 1.000 m 
+alanı, acil çıkış kapıları gibi bilgileri içermelidir. Havalimanı 
+1/5.000 Ölçekli Kareli (Mavi) Harita Bakanlıkça çıkarılan 
+talimatta yer alır. 
+1/25.000 
+Kareli 
+Harita 
+Ölçekli 20. 
+(Kırmızı) 
+Havalimanı merkezinden itibaren yaklaşık 8 km. yarıçaplı alan 
+içerisinde, uygun 
+sağlık tesisleri, erişim yolları, zorlu arazi şartları, 
+yerel itfaiye istasyonları, randevu noktaları gibi bilgileri 
+içermelidir. 
+Havalimanı 1/25.000 Ölçekli Kareli (Kırmızı) Harita 
+Bakanlıkça çıkarılan talimatta yer alır. 
+Genelge ve / veya 
+Teknik Talimatlar 
+Yürütme 
+Yetkisi 
+Yürürlüğe 
+Giriş 
+21. Bu Tüzük kapsamında olan konular ile ilgili olarak, Bakanlığın 
+gerek görmesi halinde uluslararası standartları da dikkate alarak, 
+teknik 
+hususların hızlıca ve/veya derhal uygulanmasını sağlamak 
+amacıyla Bakanlık tarafından genelge ve/veya teknik talimatlar 
+yayımlanabilir. 
+DÖRDÜNCÜ KISIM 
+Son Kurallar 
+22. Bu Tüzük, 
+Ulaştırma İşleriyle görevli Bakanlık tarafından 
+yürütülür. 
+23. Bu Tüzük, 
+Resmı Gazete 'de yayımlandığı tarihten başlayarak 
+yürürlüğe girer. 

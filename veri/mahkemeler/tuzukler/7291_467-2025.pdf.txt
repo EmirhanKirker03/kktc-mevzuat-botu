@@ -1,0 +1,318 @@
+
+
+Sayı : 467
+1512
+SUÇ GELİRLERİNİN AKLANMASININ, TERÖRİZMİN FİNANSMANININ VE KİTLE İMHA 
+SİLAHLARININ YAYGINLAŞMASININ FİNANSMANININ ÖNLENMESİ YASASI 
+(1/2024 
+ve 22/2025 Sayılı Yasalar) 
+Madde 
+27 Altında Yapılan Tüzük 
+Kuzey 
+Kıbrıs Türk Cumhuriyeti Bakanlar Kurulu, Suç Gelirlerinin Aklanmasının, Terörizmin 
+Finansmanının ve Kitle İmha Silahlarının Yaygınlaşmasının Finansmanının Önlenmesi Yasası'nın 
+27'nci maddesinin (5)'inci fıkrasının kendisine vermiş olduğu yetkiye dayanarak aşağıdaki Tüzüğü 
+yapar. 
+Kısa isim 
+Tefsir 
+1/2024 
+22/2025 
+62/2017 
+22/2020 
+41/2008 
+33/2009 
+44/2011 
+1/2024 
+22/2025 
+1/2024 
+22/2025 
+1. Bu Tüzük, Nakdi Para Limitini Aşan İşlemlerin Bildirim Usul ve 
+Esasları Tüzüğü olarak isimlendirilir. 
+BİRİNCİ KISIM 
+Genel Kurallar 
+2. Bu Tüzük'de metin başka türlü gerektirmedikçe; 
+"Bağlantılı Görünen İşlemler", Yasa'da öngörülen yasal yükümlülüklerden 
+kaçınmak amacıyla, müşterinin veya esas faydalanıcının nakdi para 
+limitinden daha 
+düşük miktarlara bölerek yaptığı işlemlerini anlatır, 
+"Bakan", Para, Kambiyo ve İnkişaf Sandığı İşleri Dairesi'nin bağlı 
+bulunduğu Bakanı anlatır, 
+"Bakanlık", Para, Kambiyo ve İnkişaf Sandığı İşleri Dairesi'nin bağlı 
+bulunduğu Bakanlığı anlatır, 
+"Banka", Kuzey Kıbrıs Türk Cumhuriyeti Bankacılık Yasası uyarınca 
+faaliyet gösteren bankalar ile Uluslararası Bankacılık Birimleri Yasası 
+uyarınca faaliyet gösteren birimleri anlatır." 
+"Birim", Yasanın 45'inci maddesi uyarınca oluşturulan ve Daire altında 
+görev yapan ve suç geliri aklama veya terörizmin finansmanı veya kitle 
+imha 
+silahlarının yaygınlaşmasının finansmanı şüphesi taşıyan durumlarda 
+bilgi almak, talep etmek, analiz etmek ve yetkili makamlara bilgi 
+vermekten sorumlu Mali Bilgi Edinme Birimi (MABEB)' ni 
+anlatır. 
+"Daire", Para, Kambiyo ve İnkişaf Sandığı İşleri Dairesi'ni anlatır, 
+"Finansal Kuruluş", Yasanın l0'uncu maddesinde düzenlenen kuruluşları 
+anlatır. 
+"Foreks İşlemi", yatırılan teminat tutarı karşılığında, her türlü döviz, 
+kıymetli maden ve yetkili otorite tarafından belirlenecek diğer varlıkların 
+kaldıraçlı olarak elektronik ortamda oluşturulmuş bir platformda alım 
+satım işlemini anlatır. 
+"Kripto Varlık Alım Satım İşlemi", dağıtık defter teknolojisi veya benzer 
+bir teknoloji kullanarak sanal olarak 
+oluşturulup dijital ağlar üzerinden 
+dağıtımı yapılan, ancak itibari para, kaydi para, elektronik para, ödeme 
+aracı, menkul kıymet veya diğer sermaye piyasası aracı olarak 
+nitelendirilmeyen gayri maddi 
+varlıkların elektronik ortamda oluşturulmuş 
+bir platformda yapılan alım satım işlemini anlatır. 
+"Mülk", vakıf malı olmayıp doğrudan doğruya bir kimsenin malı olan ev, 
+dükkan, arazi vb. 
+taşınmaz malı anlatır. 
+"Nakdi Para Limiti", 10,000.,Euro (On Bin Euro) ve/veya muadili, Kuzey 
+Kıbrıs Türk Cumhuriyetinde tedavülde bulunan resmi para dahil diğer 
+
+1513
+1/2024 
+22/2025 
+1/2024 
+22/2025 
+Amaç 
+Kapsam 
+Nakdi Para Limitini 
+Aşan İşlemler 
+38/1997 
+18/2025 
+paraları anlatır. 
+"Ödeme Hizmetleri", nakit, çek veya bir başka ödeme aracını belli bir 
+noktadaki kaynağından elektronik bir ağ vasıtasıyla transfer etmek 
+suretiyle 
+başka bir noktadaki en son faydalanıcıya ödeme yapılmasını 
+anlatır. 
+"Yasa" Suç Gelirlerinin Aklanmasının, Terörizmin Finansmanının ve Kitle 
+İmha Silahlarının Yaygınlaşmasının Finansmanının Önlenmesi Yasası'nı 
+anlatır. 
+"Yükümlüler", Yasanın 12'nci maddesinde belirtilen gerçek veya tüzel 
+kişileri anlatır. 
+3. Bu Tüzüğün amacı, yükümlülerin, nakdi para limitini aşan 
+işlemlerin bildirim yükümlülüğünü yerine getirirken uyacakları usul ve 
+esasları düzenlemektir. 
+4. 
+Bu Tüzük, suç gelirlerinin aklanmasının önlenmesine, terörizmin 
+finansmanının önlenmesine, kitle imha silahlarının yaygınlaşmasının 
+finansmanının önlenmesine ilişkin işler tahtındaki yükümlüleri kapsar. 
+İKİNCİ KISIM 
+Nakdi Para Limitini Aşan İşlemler ve Bildirimlerin Zamanı 
+5. 
+(1) Yükümlüler, bağlantılı görünen işlemler de dahil olmak üzere, 
+nakdi para limitini 
+aşan işlemleri Birim'e bildirmek zorundadır. 
+(2) Bir gerçek veya tüzel kişinin, bir gün içerisinde, nakdi para 
+limitinin 
+altında kalsa dahi, yaptığı aynı türden birden fazla 
+işlem, tek işlem olarak değerlendirilir. 
+(3) (A) Yükümlülerin aracılık ettikleri nakdi para limiti 
+üzerindeki nakit, çek, kart veya ödemeyi 
+sağlayan ödeme 
+hizmeti 
+işlemleri, 
+(B) Kuzey Kıbrıs Türk Curnhuriyeti'nde faaliyet gösteren 
+bankaların aracılık ettikleri nakdi para limiti üzerindeki 
+para transferi (Havale, EFT, EÖS, SWIFT, F AST ve 
+benzeri) 
+işlemleri, 
+(C) Kuzey Kıbrıs Türk Cumhuriyeti'ne girişlerde yolcuların 
+Para ve Kambiyo Yasası'na istinaden Nakit Beyan Formu 
+ile Gümrük ve Rüsumat 
+Dairesi'ne beyanda bulundukları 
+para miktarlarının Gümrük ve Rüsumat Dairesi 
+tarafından, 
+(Ç) Gayrimenkul alış ve satışları, 
+(D) Gayrimenkul mülk kiralanması, 
+(E) Motorlu araç alış ve satışları, 
+(F) Döviz alım-satım işlemleri, 
+(G) Bir kredinin verilmesi veya geri ödenmesi, 
+(Ğ) Sigorta poliçesi üretilmesi, 
+(H) Yatırmak, transfer etmek veya yatırım yapmak amacıyla 
+nakit alınması, 
+q) Foreks işlemi amacıyla nakit alınması, 
+(I) Kripto varlık alım satım işlemi amacıyla nakit alınması. 
+nakdi para limiti üzerindeki işlem türleri kapsamında olup 
+Birim'e bildirilmesi zorunludur. 
+
+1514
+Nakdi Para Limitini 
+Aşan İşlem 
+Bildirimlerinin 
+Bildirim 
+Zamanına 
+İlişkin Kurallar 
+6. Yükümlüler, nakdi para limitini aşan işlemlerin tümünü tek seferde, 
+işlemlerin yapıldığı ayı izleyen ayın lS'inci gününe kadar Birim'e 
+bildirmek zorundadır. 
+ÜÇÜNCÜ KISIM 
+Nakdi Para Limitini 
+Aşan İşlem Bildirimlerinin Usul ve Esaslarına İlişkin Kurallar 
+Nakdi Para Limitini 
+Aşan İşlem 
+Bildirimlerinin Usul ve 
+Esaslarına İlişkin 
+Kurallar 
+Yürürlükten 
+Kaldırma 
+11.06.2010 
+RG. 
+93 
+EKIII 
+AE. 366 
+Yürütme Yetkisi 
+Yürürlüğe Giriş 
+7. (1) Yükümlülerin, nakdi para limitini aşan nakit işlemleri bu 
+Tüzüğe ekli Ek 1 'de düzenlenen Nakdi Para Limitini Aşan 
+Nakit İşlemler Bildirim Formunu, Birim'den temin edilecek 
+kullanıcı adı ve şifre ile 
+https://online.kktcmaliye.com/ParaKambiyo/ 
+İnternet adresine 
+giriş yapılarak Birim'e göndermeleri zorunludur. 
+(2) Yükümlüler, Kuzey 
+Kıbrıs Türk Curnhuriyeti'nde faaliyet 
+gösteren bankalar 
+aracılığıyla gerçekleştirilen nakdi para 
+limitini 
+aşan para transferlerini, bu Tüzüğe ekli Ek 2'de 
+düzenlenen Gelen ve Giden Para Transferleri Bildirim 
+Formunu, Birim' den temin edilecek 
+kullanıcı adı ve şifre ile 
+https://online.kktcmaliye.com/ParaKambiyo/ 
+İnternet adresine 
+giriş yapılarak Birim'e göndermeleri zorunludur. 
+(3) Yükümlülerin, bildirim 
+yapacakları aya ait nakdi para limitini 
+aşan işlem bulunmaması halinde, 
+https://online.kktcmaliye.com/ParaKambiyo/ internet adresine 
+giriş yapılarak ilgili ay için "İşlem Yok" seçeneği işaretlenerek 
+Birim'e bildirmeleri zorunludur. 
+DÖRDÜNCÜ KISIM 
+Son Kurallar 
+8. Bu Tüzüğün yürürlüğe girdiği tarihten başlayarak Nakdi Para Limitini 
+Aşan İşlem Bildirimleri Usul ve Esaslar Tebliği, bu Tebliğ altında yapılan 
+işlemlere halel gelmeksizin yürürlükten kaldırılır. 
+9. 
+Bu Tüzük, Bakanlık tarafından yürütülür. 
+10. 
+Bu Tüzük, Resmi Gazete'de yayımlandığı tarihten başlayarak 
+yürürlüğe girer. 
+
+1515
+,
+~~~
+' 
+~~~j 
+= 
+YÜKÜMLÜ 
+ADI: 
+DÖNEMİ: 
+İşlem 
+KayıtTipi 
+Adve 
+Tarihi 
+Soyadı 
+EKl 
+(Madde 
+7 
+(1)) 
+PARA 
+KAMBİYO 
+VE 
+İNKİŞAF 
+SANDIĞI 
+İŞLERİ 
+DAİRESİ 
+NAKDİ 
+PARA 
+LİMİTİNİ 
+AŞAN 
+NAKİT 
+İŞLEM 
+BİLDİRİM 
+FORMU 
+İşlemi 
+Yapanın 
+Adına 
+İşlem 
+yapılanın 
+Para 
+İşlemin 
+Ülke 
+Kimlik 
+Ad 
+ve 
+Ülke 
+Kimlik 
+Para 
+Kodu 
+Kimlik 
+No 
+Kimlik 
+No 
+Tutarı 
+Türü 
+Kısaltması 
+Türü 
+Soyadı 
+Kısaltması 
+Türü 
+
+1516
+~Q~ 
+'~'@!) 
+~ 
+YÜKÜMLÜ 
+ADI: 
+DÖNEMİ: 
+KAYrrliPİ 
+iŞLEM 
+TARİHi 
+ÜLKE 
+islM 
+KISALTMASI 
+EK2 
+(Madde 
+7  (2)) 
+PARA 
+KAMBİYO 
+VE 
+İNKİŞAF 
+SANDIĞI 
+İŞLERİ 
+DAİRESİ 
+NAKDİ 
+PARA 
+LİMİTİNİ 
+AŞAN 
+PARA 
+TRANSFERİ 
+BİLDİRİM 
+FORMU 
+~lfMAMIRi 
+MUHABiR 
+BANKA 
+İŞLEM 
+L&fOARI 
+GİDEN/GELEN 
+tşLEMfN 
+lslM 
+ÜLKE 
+KiMLiK 
+TÜRÜ 
+KIMLIKNO: 
+ÜLKE 
+KİMLIKTORO 
+KIMLIKNO: 
+IBANNO 
+ADI 
+SWIFTKODU 
+KISALlMASI 
+IBANNO 
+KISAL1MASI 
+PARAKOOU 
+PARATUTAAI 
+lşLEMlÜRÜ 

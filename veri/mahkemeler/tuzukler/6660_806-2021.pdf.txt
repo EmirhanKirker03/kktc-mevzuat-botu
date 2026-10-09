@@ -1,0 +1,949 @@
+
+
+ 
+TÜKETİCİLERİN KORUNMASINA İLİŞKİN GIDALARIN RESMİ KONTROLÜ VE 
+HİJYEN YASASI 
+ 
+(1/2020 Sayılı Yasa) 
+ 
+Madde 83 Altında Hazırlanan Standart 
+ 
+Sağlık  Bakanlığı,  Tüketicilerin  Korunmasına  İlişkin  Gıdaların  Resmi  Kontrolü  Ve  Hijyen 
+Yasası’nın  83’üncü maddesinin  kendisine  vermiş  olduğu  yetkiye  dayanarak  aşağıdaki 
+Standardı yapar: 
+ 
+Kısa İsim 1. Bu Standart, ‘Şeker Standardı’’ olarak isimlendirilir. 
+ 
+BİRİNCİ KISIM 
+ 
+Tefsir 2. Bu Standartta metin başka türlü gerektirmedikçe; 
+  “Beyaz şeker”, polarizasyonu  en  az  99,7
+0
+ Z olan saflaştırılmış ve 
+kristallendirilmiş sakarozu anlatır. 
+  “Dekstroz  veya  dekstroz  monohidrat”, bir  molekül  kristal  suyu 
+içeren, saflaştırılmış ve kristallendirilmiş D-glukozu anlatır. 
+  “Dekstroz veya susuz dekstroz”, kristal suyu içermeyen, kuru madde 
+miktarı ağırlıkça en az %98 olan saflaştırılmış ve kristallendirilmiş 
+D-glukozu anlatır. 
+  “Fruktoz”, saflaştırılmış ve kristallendirilmiş D-fruktozu anlatır. 
+  “Gıda Güvenilirliği Kriteri”, piyasada yer alan ürünlere uygulanan 
+ve  bir  ürünün  veya  bir  gıda  partisinin  kabul  edilebilirliğini 
+tanımlayan kriteri anlatır. 
+  “Glukoz  şurubu  veya  glukoz-fruktoz  şurubu  veya  fruktoz-glukoz 
+şurubu”, nişasta  veya  inulinden  veya  bunların  karışımından  elde 
+edilen  besleyici  değeri  olan  sakaridlerin  saflaştırılmış  ve 
+koyulaştırılmış sulu çözeltisini anlatır. 
+  “İnvert şeker çözeltisi”, kristallendirilmiş sakarozun enzim veya asit 
+hidrolizi ile glukoz ve fruktoza kısmen indirgenmesinden elde edilen 
+ve invert şeker oranı kuru maddede ağırlıkça en fazla %50 olan sulu 
+sakaroz çözeltisini anlatır. 
+  “İnvert şeker şurubu”,  kristallendirilmiş sakarozun suda çözünerek 
+hidroliz yöntemi ile kısmen indirgenmesinden elde edilen ve invert 
+şeker oranı kuru maddede ağırlıkça %50’den fazla olan, sulu sakaroz 
+çözeltisini anlatır. 
+  “Kurutulmuş glukoz şurubu veya kurutulmuş glukoz-fruktoz şurubu 
+veya kurutulmuş fruktoz-glukoz şurubu”, glukoz şurubunun, glukoz-
+fruktoz  şurubunun  veya  kurutulmuş  fruktoz-glukoz  şurubunun 
+suyunun kısmen uzaklaştırılmasıyla elde edilen, kuru madde miktarı 
+ağırlıkça en az %93 olan glukoz şurubunu anlatır. 
+  “Mikrobiyolojik Kriter”, bir gıdanın, bir gıda partisinin veya işlemin 
+kabul edilebilirliğini belirlemede esas alınan; mikroorganizmaların 
+varlığının/yokluğunun veya sayısının veya bunların toksinlerinin ve 
+
+metabolitlerinin  miktarının  kütle,  hacim,  alan,  parti  veya  birim 
+başına belirlendiği kriteri anlatır. 
+  “Numune”, büyük bir partiden veya maddeden söz konusu parti veya 
+maddenin belirli bir özelliği hakkında bilgi sağlamak ve bunların 
+üretiminin  gerçekleştirildiği  işlem  hakkında  alınacak  karara  esas 
+teşkil etmek amacıyla farklı yöntemler kullanılarak seçilen bir veya 
+birden fazla birimden oluşan seti anlatır. 
+  “Parti”, aynı koşullar altında belirli bir işlemden sağlanan ve tanımlı 
+bir üretim periyodu içerisinde belirli bir yerde üretilen, ürünlerin bir 
+grubunu veya setini anlatır. 
+  “Pudra  şekeri”,  topaklanmayı  önleyiciler  katılmış  olsun  veya 
+olmasın ince pulverize edilmiş beyaz şekeri anlatır. 
+  “Rafine şeker”, polarizasyon, invert şeker içeriği ve kurutma kaybı 
+değerleri  bakımından  beyaz  şekerle  aynı  karakteristik  özellikleri 
+taşıyan ve toplam puanı en fazla 8 olan ürünü anlatır. 
+  “Şeker  çözeltisi”,  kristallendirilmiş  sakarozun  suda  çözülmesi  ile 
+elde edilen çözeltiyi anlatır. 
+  “Yabancı madde”, tahin üretiminde kullanılan ve katılmasına izin 
+verilen maddelerin dışındaki her türlü maddeyi anlatır. 
+  “Yarı beyaz şeker”, polarizasyonu  en  az  99,5
+0
+ Z olan saflaştırılmış 
+ve kristallendirilmiş sakarozu anlatır. 
+   
+Amaç 3. Bu Standardın amacı, şekerlerin tekniğine uygun ve hijyenik şekilde 
+üretim,  hazırlama,  işleme,  muhafaza,  depolama,  taşıma  ve 
+pazarlanmasını   sağlamak   üzere   bu   ürünlerin   özelliklerini 
+belirlemektir. 
+ 
+Kapsam  4. Bu  Standart, şekerin tanımlanması,  ürün  özelliği,  bileşimi  veya 
+yapısı için temel gereksinimleri, ham madde kalitesi ve ürün kalitesi 
+ile ilgili kuralları, asgari teknik ve hijyen kriterleri, kullanımına izin 
+verilen katkı maddeleri, bulaşanların azami limitleri, ambalajlama 
+kuralları,  izlenebilirlik  ile  ilgili  kuralları,  nakliye  ve  depolama 
+esasları,  özel  etiketleme  kuralları,  sunum  ve  reklam  ile  ilgili 
+kuralları, numune alma ve analiz yöntemleri ile ilgili kuralları kapsar.  
+             Bu standart yarı beyaz şeker, beyaz şeker, rafine şeker, şeker 
+çözeltisi, invert şeker çözeltisi, invert şeker şurubu, glukoz şurubu, 
+kurutulmuş  glukoz  şurubu,  dekstroz  veya  dekstroz  monohidrat, 
+dekstroz veya susuz dekstroz, fruktoz ile pudra şekerini kapsar.  
+             Bu   standartta   tanımlanan   ürünlerden   elde   edilen 
+şekerlemeler ve şekillendirilmiş şekerleri kapsamaz. 
+ 
+İKİNCİ KISIM 
+ 
+Ürün özellikleri 5. Bu Standart kapsamında yer alan ürünlere ait özellikler bu Standarda 
+ekli Ek-I’de verilen özelliklere uygun olmalıdır 
+ 
+Katkı Maddeleri 6. (1) Bu  Standart  kapsamında  yer  alan  ürünlerde  sadece,  bu 
+Standarda  ekli  EK-II’de yer alan katkı maddeleri belirlenen 
+limitler dâhilinde kullanılabilir. 
+
+ (2) Bu  Standarda  ekli  EK-II’de  yer  alan  katkı  maddeleri  ve 
+belirlenen   limitler,   Tüketicilerin   Korunmasına   İlişkin 
+Gıdaların  Resmi  Kontrolü  Ve  Hijyen  Yasası’nın  96’ncı 
+maddesinin  (2)’nci fıkrasının (C) bendinde öngörülen “Gıda 
+katkı maddelerine ilişkin ayrıntılı kuralları düzenleyen tüzük” 
+yürürlüğe girinceye kadar geçerlidir. 
+   
+Aroma Vericiler 
+Ve Aroma Verme 
+Özelliği Taşıyan 
+Gıda Bileşenleri 
+ 
+7. Bu Tebliğ kapsamındaki ürünlerde aroma vericiler ve aroma verme 
+özelliği taşıyan gıda bileşenleri kullanılamaz. 
+ 
+Bulaşanlar ve 
+Bulaşan Limitleri 
+8. Bu Standart kapsamında yer alan ürünlerdeki bulaşanların miktarları, 
+Tüketicilerin  Korunmasına İlişkin  Gıdaların  Resmi  Kontrolü  Ve 
+Hijyen  Yasası'nın  70’inci  maddesinde  yer  alan  kurallar  ile 
+Tüketicilerin  Korunmasına  İlişkin  Gıdaların  Resmi  Kontrolü  Ve 
+Hijyen Yasası’nın 96’ncı maddesinin (2)’nci fıkrasının (O) bendinde 
+öngörülen “Gıda  bulaşanları  ve bulaşanların  seviyelerinin  resmi 
+kontrolü için numune alma ve analiz yöntemlerine ilişkin ayrıntılı 
+kuralları düzenleyen tüzük” kurallarına uygun olur. 
+ 
+Pestisit Kalıntısı 
+64/1987 
+28/1989 
+82/2007 
+ 
+9. Bu  Standart  kapsamında  yer  alan  ürünlerdeki pestisit  kalıntı 
+miktarları, Tarımsal İlaçların Denetimi Hakkında Yasa’da yer alan 
+kurallara uygun olur. 
+Mikrobiyolojik 
+Kriterler 
+1/2020                                                                                                                                                                                                                                                                                                                                                                             
+10. (1) Bu Standart kapsamında yer alan ürünlerin gıda güvenilirliği 
+kriterleri bu Standarda ekli EK-III’e uygun olmalıdır. 
+ (2) Analiz   sonuçları,  bu  Standarda  ekli  Ek-III’de  belirlenen 
+kriterlere   uygun   olmaması   halinde   gıda   işletmecisi, 
+Tüketicilerin Korunmasına İlişkin Gıdaların Resmi Kontrolü 
+ve Hijyen Yasası’nın 7’nci maddesinde belirtilen tedbirleri alır. 
+ (3) Bu Standarda ekli EK-III’de yer alan gıda güvenliği kriterleri, 
+Tüketicilerin Korunmasına İlişkin Gıdaların Resmi Kontrolü 
+Ve Hijyen Yasası’nın 96’ncı maddesinin (1)’inci fıkrasının (A) 
+bendinde öngörülen “Mikrobiyolojik kriterlere ilişkin ayrıntılı 
+kuralları düzenleyen  tüzük”  yürürlüğe  girinceye  kadar 
+geçerlidir. 
+ 
+İşyerleri İçin 
+Hijyen 
+Gereklilikleri 
+1/2020 
+11. (1) Bu Standart kapsamında yer alan ürünleri üreten işletmeciler, 
+bu  standarda  ekli  EK-IV’de belirtilen hijyen gereklilikleri ile 
+ilgili kurallara uymalıdır. 
+ (2) Bu standarda ekli EK-IV’de belirtilen hijyen gereklilikleri ile 
+ilgili  kurallar,  Tüketicilerin  Korunmasına  İlişkin  Gıdaların 
+Resmi  Kontrolü  Ve  Hijyen  Yasası’nın  96’ncı  maddesinin 
+(1)’inci   fıkrasının   (C)   bendinde   öngörülen   “Hijyen 
+gerekliliklerine  ilişkin  ayrıntılı  kuralları  düzenleyen  tüzük” 
+yürürlüğe girdiğinde tüzük ile birlikte geçerlidir. 
+ 
+
+Ambalajlama 12. Bu standart kapsamında yer alan gıdaların ambalajları Tüketicilerin 
+Korunmasına İlişkin Gıdaların Resmi Kontrolü Ve Hijyen Yasası'nın 
+96’ncı  maddesinin  (2)’nci fıkrasının  (G),  (H),  (I),  (J)  ve  (K) 
+bentlerinde öngörülen tüzüklerde yer alan kurallara uygun olur. 
+ 
+Etiketleme 
+1/2020 
+13. Bu  Standart  kapsamında  yer  alan  ürünlerin  etiketlenmesinde; 
+Tüketicilerin  Korunmasına  İlişkin  Gıdaların  Resmi  Kontrolü  Ve 
+Hijyen Yasası’nın 96’ncı maddesinin (2)’nci fıkrasının (A) bendinde 
+öngörülen “Gıda Etiketleme ve Tüketicileri Bilgilendirmeye İlişkin 
+Ayrıntılı Kuralları Düzenleyen Tüzük” ve aynı fıkranın (B) bendinde 
+öngörülen  “Beslenme  ve  Sağlık  Beyanlarına  İlişkin  Ayrıntılı 
+Kuralları  Düzenleyen  Tüzük”te  yer  alan  kuralların  yanı  sıra 
+aşağıdaki kurallara da uyulmalıdır 
+ (1) Tüketicilerin Korunmasına İlişkin Gıdaların Resmi Kontrolü 
+Ve Hijyen Yasası’nın 42’nci maddesinde yer alan zorunlu 
+etiket bilgileri etikette yer almalıdır. 
+  (2) Tebliğde yer alan ürünlerin satış isimleri tanımlarda yer alan 
+isimlendirmeler olmalıdır. 
+  (3) Rafine  beyaz  şekerlerde  ürün  ismi  olarak  “beyaz  şeker” 
+ifadesi de kullanılabilir. 
+  (4) Ön paketleme yapılmış 20 gramdan az ürünlerde, ürün net 
+ağırlığı etiket üzerinde yer almayabilir. 
+  (5) İnvert  şeker  şurubu,  invert  şeker  çözeltisi  ve  şeker 
+çözeltisinde  bulunan  invert şeker  ve  kuru  madde  miktarı 
+etiket üzerinde belirtilmelidir. 
+  (6)  İnvert şeker şurubu kristal taneleri içeriyorsa etiket üzerinde 
+“kristal içermektedir” ifadesi olmalıdır. 
+  (7) Glukoz  şurubu  ve  kurutulmuş  glukoz  şurubu;  kuru 
+maddedeki  fruktoz  oranı  ağırlıkça  %5’den  büyükse,  ürün 
+ismi ve bileşenleri göz önüne alınarak üründeki glukoz veya 
+fruktoz miktarına göre, fazla miktarda olan önce yazılmak 
+üzere, “glukoz-fruktoz şurubu” veya “fruktoz-glukoz şurubu” 
+ve  “kurutulmuş  glukoz-fruktoz  şurubu”  veya  “kurutulmuş 
+fruktoz-glukoz şurubu” olarak etiketlenmelidir. 
+  (8) Şeker  çözeltisi,  invert  şeker  çözeltisi  ve  invert şeker 
+şurubunda  ürün  isimleri  ile  birlikte  “beyaz”  ifadesinin 
+kullanılması için aşağıdaki özellikleri taşımalıdır: 
+   (A) Şeker çözeltisi için çözelti rengi ICUMSA metoduna 
+göre en fazla 25 IU olmalıdır. 
+   (B) İnvert şeker  çözeltisi  ve  invert  şeker  şurubu  için 
+ICUMSA metoduna göre iletkenlik kül değeri en fazla 
+ağırlıkça  %0,1  ve  çözelti  rengi  ise  en  fazla  25  IU 
+olmalıdır. 
+  (9) Pudra  şeker  üretiminde  nişasta  kullanılması  durumunda 
+nişastanın  varlığı  ve bulunduğu  maksimum  miktarı  etiket 
+üzerinde açıkça görülmelidir. 
+  (10) Ambalajlayıcı firma adı ve adresi ile birlikte üretici firma adı 
+ve adresi de etikette belirtilmelidir. 
+ 
+
+Taşıma ve 
+Depolama 
+14.  Bu Standart kapsamında yer alan ürünlerin taşınması ve depolanması 
+Tüketicilerin  Korunmasına  İlişkin  Gıdaların  Resmi  Kontrolü  Ve 
+Hijyen Yasası’nın 96’ncı maddesinin (1)’inci fıkrasının (C) bendinde 
+öngörülen  “Hijyen  gerekliliklerine  ilişkin  ayrıntılı  kuralları 
+düzenleyen tüzük” kurallarına uygun olur.  
+ 
+Numune Alma 
+Ve Analiz 
+Metodları 
+1/2020 
+15. (1) Bu Standart kapsamında yer alan ürünlerden mikrobiyolojik 
+kontrol amacıyla numune alımı, bu Standarda ekli EK-V’de 
+belirtilen kurallara uygun olarak yapılır. 
+ (2) Bu  Standart  kapsamında  yer  alan  ürünlerden Tüketicilerin 
+Korunmasına  İlişkin  Gıdaların  Resmi  Kontrolü  Ve  Hijyen 
+Yasası’nın 96’ncı maddesinin (2)’nci fıkrasının (O) bendinde 
+öngörülen  “Gıda  bulaşanları  ve  bulaşanların  seviyelerinin 
+resmi kontrolü için numune alma ve analiz yöntemlerine ilişkin 
+ayrıntılı kuralları düzenleyen tüzük” kurallarına uygun olarak 
+numune alınır, ulusal veya uluslararası kabul görmüş analiz 
+metotları uygulanır. 
+   
+   
+ÜÇÜNCÜ KISIM 
+ 
+Geçici Madde  
+ 
+1. Bu Standardın yürürlüğe giriş tarihinden önce faaliyet gösteren 
+gıda  işletmecileri;  bu  Standardın  yürürlüğe  giriş  tarihinden 
+itibaren  altı  ay  içerisinde  bu  Standart  kurallarına  uymak 
+zorundadır. 
+ 
+Geçici Madde  2.  Besin Katkı Maddeleri Tüzüğü’nün 10’cu maddesi uyarınca; 
+  (1) Tüketicilerin   Korunmasına   İlişkin   Gıdaların   Resmi 
+Kontrolü Ve Hijyen Yasası'nın 96’ncı maddesinin (2)’nci 
+fıkrasının  (G),  (H),  (I),  (J)  ve  (K)  bentlerinde  öngörülen 
+tüzükler  yürürlüğe  girinceye  kadar  TGK  Gıda  ile  Temas 
+Eden  Madde  ve  Malzemelere  Dair  Yönetmelik,  Gıda  ile 
+Temas Eden Plastik Madde ve Malzemeler Tebliği, Gıda ile 
+Temas Eden Plastik Madde ve Malzemelerin Bileşenlerinin 
+Migrasyon  Testinde  kullanılan  Gıda  Benzerleri  Listesi 
+Tebliği,  Gıda  ile  Temas  Eden  Aktif  ve  Akıllı  Madde  ve 
+Malzemeler Tebliği, Rejenere Selüloz Filmlerden Üretilmiş, 
+Gıda  ile  Temas  Eden  Madde  ve  Malzemeler  Tebliği’ne 
+uygunluk sağlanır. 
+  (2) Tüketicilerin   Korunmasına   İlişkin   Gıdaların   Resmi 
+Kontrolü Ve Hijyen Yasası’nın 59’uncu, 60’ıncı ve 61’inci 
+maddesi  ile  96’ncı maddesinin  (2)’nci  fıkrasının  (F) 
+bendinde  öngörülen  “Aroma  vericiler  ve  aroma  verme 
+özelliği taşıyan gıda bileşenlerine ilişkin ayrıntılı kuralları 
+düzenleyen tüzük” yürürlüğe girinceye kadar TGK Aroma 
+Vericiler  ve  Aroma  Verme  Özelliği  Taşıyan  Gıda 
+Bileşenleri Yönetmeliği’ne uygunluk sağlanmalıdır. 
+  (3) Tüketicilerin   Korunmasına   İlişkin   Gıdaların   Resmi 
+Kontrolü Ve Hijyen Yasası'nın 70’inci maddesinde yer alan 
+kurallar  ile  Tüketicilerin  Korunmasına  İlişkin  Gıdaların 
+
+Resmi Kontrolü Ve Hijyen Yasası’nın 96’ncı  maddesinin 
+(2)’nci fıkrasının (O) bendinde öngörülen “Gıda bulaşanları 
+ve  bulaşanların  seviyelerinin  resmi  kontrolü  için  numune 
+alma  ve  analiz  yöntemlerine  ilişkin  ayrıntılı  kuralları 
+düzenleyen  tüzük”  yürürlüğe  girinceye  kadar  TGK 
+Bulaşanlar  Yönetmeliği  ve  TGK Gıdalardaki  Mikotoksin 
+Seviyelerinin Resmi Kontrolü İçin Numune Alma, Numune 
+Hazırlama ve  Analiz  Metodu  Kriterleri  Tebliği,  TGK 
+Gıdalarda Eser Elementler Ve Bulaşan Seviyelerinin Resmi 
+Kontrolü İçin Numune Alma, Numune Hazırlama Ve Analiz 
+Metodu Kriterleri Tebliği’ne uygunluk sağlanmalıdır. 
+  (4) Tüketicilerin   Korunmasına   İlişkin   Gıdaların   Resmi 
+Kontrolü Ve Hijyen Yasası’nın 96’ncı maddesinin (2)’nci 
+fıkrasının  (A)  bendinde  öngörülen  “Gıda  Etiketleme  ve 
+Tüketicileri  Bilgilendirmeye  İlişkin Ayrıntılı  Kuralları 
+Düzenleyen Tüzük” yürürlüğe girinceye kadar TGK Gıda 
+Etiketleme  ve  Tüketicileri  Bilgilendirme  Yönetmeliği’ne 
+uygunluk sağlanmalıdır. 
+  (5) Tüketicilerin   Korunmasına   İlişkin   Gıdaların   Resmi 
+Kontrolü Ve Hijyen Yasası’nın 96’ncı maddesinin (2)’nci 
+fıkrasının  (B)  bendinde  öngörülen  “Beslenme  ve  Sağlık 
+Beyanlarına İlişkin Ayrıntılı Kuralları Düzenleyen Tüzük” 
+yürürlüğe  girinceye  kadar  TGK  Beslenme  ve  Sağlık 
+Beyanları Yönetmeliği’ne uygunluk sağlanır. 
+ 
+Yürütme Yetkisi 16. Bu Standart Sağlık Bakanlığı tarafından yürütür. 
+ 
+Yürürlüğe Giriş 17. Bu  Standart  Resmi  Gazete’de  yayımlandığı  tarihinden  başlayarak 
+yürürlüğe girer. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+EK-I 
+
+ 
+Ürün Özellikleri 
+ 
+A) Yarı beyaz şeker:  
+ 1) Polarizasyon ≥ 99,5 
+o
+Z 
+ 2) İnvert şeker miktarı (%m/m) ≤ 0,10 
+ 3) Kurutma kaybı (%m/m) ≤ 0,10 
+    
+B) Beyaz şeker  
+ 1) Polarizasyon ≥ 99,7 
+o
+Z 
+ 2) İnvert şeker miktarı (%m/m) ≤ 0,04 
+ 3) Kurutma kaybı (%m/m) ≤ 0,06 
+ 4) Renk tipi (Braunschweig puanı) ≤ 9 * 
+   * 0,5 renk tipi; 1 puan olarak değerlendirilir. 
+    
+C) Rafine şeker:  
+ 1) Polarizasyon ≥ 99,7 
+o
+Z 
+ 2) İnvert şeker miktarı (%m/m) ≤ 0,04 
+ 3) Kurutma kaybı (%m/m) ≤ 0,06 
+ 4) Renk tipi (Braunschweig puanı) ≤ 4 * 
+ 5) İletkenlik külü puanı ≤ 6 ** 
+ 6) Çözelti rengi puanı ≤ 3 *** 
+ 7) Toplam puan 
+(1)
+ ≤ 8 
+   *    0,5 renk tipi; 1 puan olarak değerlendirilir. 
+**  %0,0018 iletkenlik külü miktarı; 1 puan olarak değerlendirilir. 
+*** 7,5 IU; 1 puan olarak değerlendirilir. 
+(1)
+ Toplam puan = Renk tipi puanı + iletkenlik külü puanı + çözelti rengi 
+puanı 
+    
+Ç) Şeker çözeltisi  
+ 1) Kuru madde (%m/m) ≥ 62 
+ 2) İnvert şeker miktarı (fruktoz / dekstroz oranı 1,0 + 0,2 olmak 
+üzere), kuru maddede (%m/m) 
+≤ 3 
+ 3) İletkenlik külü (kuru maddede %m/m) ≤ 0,1 
+ 4) Çözelti rengi (IU
+420
+ birimi) ≤ 45 
+    
+D) İnvert şeker çözeltisi  
+ 1) Kuru madde (%m/m) ≥ 62 
+ 2) İnvert şeker miktarı (fruktoz / dekstroz oranı 1,0 + 0,1 olmak 
+üzere), kuru maddede (%m/m) 
+50 ≥ ....  ≥ 3 
+ 3) İletkenlik külü (kuru maddede %m/m) ≤ 0,4 
+    
+E) İnvert şeker şurubu  
+ 1) Kuru madde (%m/m) ≥ 62 
+ 2) İnvert şeker miktarı (fruktoz / dekstroz oranı 1,0 + 0,1 olmak 
+üzere), kuru maddede (%m/m) 
+≥ 50 
+ 3) İletkenlik külü (kuru maddede %m/m) ≤ 0,4 
+    
+F) Glukoz şurubu  
+ 1) Kuru madde (%m/m) ≥ 70 
+
+ 2) Dekstroz eşdeğeri (D-glukoz; kuru maddede %m/m) ≥ 20 
+ 3) Sülfatlandırılmış kül (kuru maddede %m/m) ≤ 1 
+    
+G) Kurutulmuş glukoz şurubu  
+ 1) Kuru madde (%m/m) ≥ 93 
+ 2) Dekstroz eşdeğeri (D-glukoz; kuru maddede %m/m) ≥ 20 
+ 3) Sülfatlandırılmış kül (kuru maddede %m/m)  ≤ 1 
+    
+Ğ) Dekstroz veya dekstroz monohidrat  
+ 1) Kuru madde (%m/m) ≥ 90 
+ 2) Dekstroz eşdeğeri (D-glukoz; kuru maddede %m/m) ≥ 99,5 
+ 3) Sülfatlandırılmış kül (kuru maddede %m/m)  ≤ 0,25 
+    
+H) Dekstroz veya susuz dekstroz  
+ 1) Kuru madde (%m/m) ≥ 98 
+ 2) Dekstroz eşdeğeri (D-glukoz; kuru maddede %m/m) ≥ 99,5 
+ 3) Sülfatlandırılmış kül (kuru maddede %m/m)  ≤ 0,25 
+    
+I) Fruktoz  
+ 1) Fruktoz miktarı ≥ 98 
+ 2) Glukoz miktarı ≤ 0,5 
+ 3) Kurutma kaybı (%m/m) ≤ 0,5 
+ 4) İletkenlik külü (kuru maddede %m/m ≤ 0,1 
+    
+İ) Pudra şekeri:  
+ 1) Polarizasyon  ≥99.7°S* 
+ 2) İletkenlik külü (kuru maddede %m/m) ≤ 0.04*   
+ 3) İnvert şeker içeriği (%m/m) ≤  0.04*    
+ 4) Kurutma kaybı ≤  0.1** 
+ 5) Renk (ICUMSA birimi) ≤  60 
+ 6) Nişasta içeriği (diğer bir topaklanmayı önleyici 
+kullanılmadığı durumda %m/m olarak) 
+≤  5.0  
+   * Topaklanmayı önleyiciler katılmadan önce. 
+** 0,5 renk tipi; 1 puan olarak değerlendirilir.  
+     
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+EK-II 
+ 
+Katkı Maddeleri 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+E 220-228 
+ 
+Kükürt dioksit — 
+sülfitler 
+ 
+10 
+ 
+(2) 
+ 
+sadece şekerler, glukoz şurubu 
+hariç 
+ 
+E 220-228 
+ 
+Kükürt dioksit — 
+sülfitler 
+ 
+20 
+ 
+(2) 
+ 
+sadece glukoz şurubu, suyu alınmış 
+ya da alınmamış 
+ 
+E 338-452 
+ 
+Fosforik asit — 
+fosfatlar — di-, tri - ve 
+polifosfatlar 
+ 
+10000 
+ 
+(3) 
+ 
+sadece kurutulmuş toz formunda 
+ 
+E 551-559 
+ 
+Silikon dioksit — 
+silikatlar 
+ 
+quantum 
+satis 
+ 
+(1) 
+ 
+sadece tablet ve kaplanmış tablet 
+formunda 
+Uygulama süresi: 1 Şubat 2014’ ten 
+itibaren 
+ 
+E 551-559 
+ 
+Silikon dioksit — 
+silikatlar 
+ 
+10000 
+ 
+(1) 
+ 
+sadece kurutulmuş toz formunda 
+ 
+ 
+(1): Katkı maddeleri tek başına veya birlikte kullanılabilir. 
+ 
+(2): Maksimum miktarlar, mevcut tüm kaynaklardan gelecek toplam 
+miktar olarak SO2 cinsinden verilmiştir; 10 mg/kg veya 10 mg/L’den 
+fazla olmayan bir SO2 içeriği dikkate alınmaz. 
+ 
+(3): Maksimum miktar P2O5 cinsinden ifade edilir. 
+
+ 
+EK-III 
+ 
+Gıda Güvenilirliği Kriterleri 
+ 
+Mikroorganizmalar/ 
+toksinler/ metabolitler 
+Numune alma 
+planı (
+1
+)  
+Limitler (
+2
+) Referans metot 
+(
+3
+) 
+n c m M 
+Salmonella 5 0 0/25 g-mL EN/ISO 6579 
+L. monocytogenes 5 0 0/25 g-mL EN/ISO 11290-1 
+Termotolerant 
+Campylobacter spp. 
+5 0 
+0/25 g-mL  
+E. coli O157 5 0 0/25 g-mL ISO 16654 
+Koagulaz  pozitif 
+stafilokoklar 
+5 2 10
+2
+ 10
+3
+ 
+EN/ISO 6888-1 
+veya 2 
+B. cereus 5 2 10
+2
+ 10
+3
+ EN/ISO 7932 
+Sülfit indirgeyen anaerob 5 2 10
+2
+ 10
+3
+ ISO 7937 
+(1) n: Numune sayısı; c: m ile M limiti arasında değere sahip olmasına izin verilen numune 
+sayısı 
+(2) Aksi belirtilmedikçe limit kob/g-mL olarak değerlendirilir. kob: Koloni oluşturan birim 
+(katı besiyerinde) 
+(3) Belirtilen Standartların yayımlanmış en son halleri kullanılır. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+EK- IV 
+ 
+İşyerleri İçin Hijyen Gereklilikleri 
+ 
+1.TEMEL HİJYEN KURALLARI  
+1.1 Genel Şartlar  
+İşyerleri,  daima  temiz  ve  iyi  durumda  bulundurulmalı,  tasarımı,  yerleşimi  ve  boyutları 
+açısından yeterli temizleme ve dezenfekte işlemleri yapılmasına elverişli olmalı ve aşağıda yer 
+alan genel şartları taşımalıdır. 
+ • İşyerinin çevresinde, işyerini etkileyecek kirletici unsurlar (toz, koku vb.) olmamalıdır.  
+• Üretim alanında hiçbir evcil hayvan barındırılmamalı, bitki yetiştirilmemelidir.  
+• Hijyenle ilgili işlemlerin kusursuz bir şekilde yapılmasına imkan verecek yeterli çalışma alanı 
+bulunmalıdır.  
+•  Yüzeyler;  üzerinde  kir  birikmesine,  yabancı  maddelerin  gıda  maddelerine  bulaşmasına, 
+yoğunlaşmış sıvı veya küf oluşumuna yol açmayacak şekilde tasarlanmalıdır.  
+• Zararlıların, işyerine girişi önlenmelidir.  
+• Özellikle hazırlama bölümlerinde fiziksel tehlike oluşturabilecek malzemeler kullanılmamalı, 
+bu bölgelerdeki pencere camları plastik filmler ile kaplanmalıdır.  
+• Hammadde, yardımcı madde ve mamul maddelerin uygun sıcaklık ve rutubette muhafazası 
+için yeterli kapasiteye sahip işleme ve muhafaza koşulları oluşturulmalı, sıcaklık ve rutubet 
+değerleri ölçülerek kayıt altına alınmalıdır.  
+• Atık su kanalları ile alet ve ekipman kolay temizlenebilir olmalıdır. • İşyeri içerisine hijyeni 
+esas alan uyarıcı yazılar asılmalıdır. 
+ 
+1.2 Personel Tuvaletleri ve Soyunma Alanları  
+•  İşyerlerindeki  tuvaletlerin  suyu  sürekli  olmalı,  kanalizasyon  bağlantısı  bulunmalı,  hiçbir 
+şekilde üretim ve depo alanlarına doğrudan açılmamalıdır.  
+•  Tuvalet  mekanlarında,  sabun  dispenserleri,  hijyenik  el  kurutma  (örneğin  tek  kullanımlık 
+peçeteler veya el havlu ruloları) ve dezenfektan dispenserleri bulunmalıdır.  
+• Tuvalet önlerinde dezenfeksiyonu sağlayacak ayak paspası bulundurulmalıdır.  
+• Personele üzerini değişebilmesi için personel soyunma alanları sağlanmalıdır. İş ve sokak 
+kıyafetlerinin ayrı ayrı saklanabileceği şekilde soyunma dolapları olmalıdır. 
+ 
+
+1.3 El Yıkama Evyeleri 
+ • İşyerinin uygun noktalarında gerekli sayıda temiz, sağlam ve çalışır durumda el yıkama 
+evyeleri bulunmalıdır.  
+• El yıkama evyelerinde gıda işlemlerinde kullanılan araç ve gereçler yıkanmamalıdır.  
+• El yıkama evyelerinde soğuk su ve gerekli durumlarda sıcak su bağlantısı ile el yıkama ve 
+hijyenik el kurutma için gerekli malzemeler bulundurulmalıdır. 
+ 
+1.4 Havalandırma  
+• İşyerleri ve tuvalet mekanları yeterli havalandırma düzeneğine sahip olmalıdır.  
+• Havalandırma sistemleri, duman, koku, is ve buharlaşmayı giderecek, ısıyı muhafaza edecek, 
+toz, kir ve zararlı girişini önleyecek özellikte olmalı; filtreleri ve diğer parçaları temizlemek 
+veya değiştirmek üzere rahatça erişilebilecek bir şekilde kurulmalıdır.  
+• Pişirme ve buharlı ısıtıcılardan çıkan hava işyeri ortamından uzaklaştırılmalıdır.  
+• Temiz olmayan bir alandan temiz bir alana olabilecek hava akımlarından kaçınılmalıdır 
+ 
+1.5 Aydınlatma  
+• İşyeri gün ışığına eşdeğer bir şekilde doğal veya yapay olarak aydınlatılmalıdır.  
+• Aydınlatma araçları muhtemel tehlikelere karşı koruyucular ile korunmalıdır.  
+• Kullanılacak ışığın şiddeti ve rengi mamul üretimini etkilemeyecek özellikte olmalıdır. 
+ 
+1.6 Su  
+• İşyerinde; sürekli, içme suyu kalitesinde, sıcak ve soğuk su bulunmalıdır.  
+• Buz ve buhar “içilebilir nitelikteki sudan” üretilmelidir.  
+•  Varsa  su  tankları;  yağmur,  kuş,  böcek  vb.  girişine  karşı  korumalı  ve  kontrolü  kolayca 
+yapılabilecek yerde bulunmalı, düzenli aralıklarla temizlenmelidir.  
+• İşyerinde kullanılan su, laboratuvarda periyodik aralıklarla kontrol edilmeli/ettirilmelidir. 
+ 
+1.7 Atık Su Kanalizasyon Sistemleri:  
+
+• Atık su kanalizasyon sistemleri, gıda maddelerinin olumsuz olarak etkilenmesini önleyecek 
+şekilde tasarlanmış ve tesis edilmiş olmalıdır. 
+ 
+1.8 Temizlik Gereçlerinin, Kimyasal Madde ve Dezenfeksiyon Maddelerinin Saklanması 
+ • Temizlik gereçleri ve kimyasal maddeler gıda maddelerinin bulunduğu alanlar dışında, uygun 
+kapalı alanlarda muhafaza edilmelidir.  
+•  Gıda  üretim  yerlerinde  kullanılan  kimyasal  madde  ve  dezenfektanları  Sağlık  Bakanlığı 
+tarafından izinlendirilmiş ve/veya kayıt altına alınmış olmalıdır. 
+ 
+2. ÜRETİMİN YAPILDIĞI MEKANLAR  
+2.1 Genel Şartlar  
+• Gıda maddelerinin hazırlandığı, kullanıldığı veya işlendiği alanlar (ofisler ve yemekhane 
+hariç)  gıda  maddesi  üretimine  uygun  hijyenik  koşulları  sağlayacak  şekilde  tasarlanmış  ve 
+kurulmuş olmalıdır.  
+• Üretim alanındaki pencere ve kapılar kapalı tutulmalıdır.  
+ 
+2.2 Zeminler  
+• Zemin kaplamaları sağlam, kaymayı önleyici, temizlenmesi kolay ve dezenfeksiyona uygun 
+olmalıdır. Kaplamalar su geçirmez, aşınmaya karşı dayanıklı, yıkanabilir olmalıdır.  
+• Üretim alanında yeterli sayı ve boyutta drenaj kanalı bulunmalıdır. 
+ • Atık su kanalları zararlı girişine, koku yayılmasına ve atıkların kanaldan geri dönüşüne karşı 
+güvenilir, temizlenebilir ve dezenfekte edilebilir olmalıdır. 
+  
+2.3 Duvar Yüzeyleri  
+• Duvar yüzeyleri pürüzsüz, temizlenmesi kolay ve gerektiğinde dezenfekte edilebilir olmalıdır.  
+• Duvar yüzeyleri, su geçirmeyen açık renkli malzemeden yapılmalı ve aşınmaya karşı dirençli 
+olmalıdır.  
+ 
+2.4 Tavanlar  
+•  Tavanlar  ve  tavan  yapıları  kir  birikmesine,  nem  yoğunlaşmasına  ve  küflenmeye  izin 
+vermeyecek şekilde olmalıdır.  
+
+• Tavanların periyodik olarak bakımları yapılmalıdır.  
+• Tavan yüksekliği üretilen ürüne ve alet ekipmana uygun olmalıdır.  
+ 
+2.5 Pencereler  
+• Pencereler temiz tutulmalı, kir birikmesini önleyecek şekilde ve çürümeye karşı dayanıklı 
+malzemeden yapılmış olmalıdır.  
+• Dış mekana açılan pencerelerde kolay temizlenebilen sineklikler kullanılmalıdır.  
+• Kırılmaya karşı camlar dayanıklı olmalı veya kırılmaya karşı gerekli önlemler alınmalıdır. 
+ 
+2.6 Kapılar 
+ •  Kapılar  temiz  tutulmalı,  kir  birikmesini  önleyecek  şekilde  ve  çürümeye  karşı  dayanıklı 
+malzemeden yapılmış olmalıdır.  
+• Kapıların yüzeyi düz ve su geçirmez özellikte olmalıdır.  
+• Kapılar temizlenmesi kolay ve dezenfekte edilebilir olmalıdır.  
+ 
+2.7 Yüzeyler  
+• Hammadde, yarı mamul  ve mamul  maddelerle temas  eden yüzeylerde çatlak ve yarıklar 
+bulunmamalıdır.  
+• Yüzeyler temizlenebilir, dezenfekte edilebilir yapıda ve korozyona karşı dayanıklı olmalıdır.  
+ 
+2.8 Gıda Maddeleri Üretiminde Kullanılan Alet ve Ekipmanın Temizlenmesinde Kullanılan 
+Evyeler  
+• El yıkama evyelerinden ayrı bir yerde tüm alet ve ekipmanların yıkanması için uygun yıkama 
+yerleri yapılmalıdır.  
+• Yıkama yerlerinde sıcak ve soğuk su bağlantıları bulunmalıdır.  
+• Yıkama yerleri ve evyeler sürekli temizlenmeli ve dezenfekte edilmelidir.  
+ 
+3. TEKNİK DONANIM, MAKİNE, ALET VE EKİPMAN  
+
+3.1 Genel Şartlar:  Gıda maddeleri ile temas eden teknik donanım, alet ve ekipman aşağıdaki 
+şartlara uygun olmalıdır.  
+•  Gıda  maddelerinde  kullanımına  izin  verilen  alet  ve  ekipmanlar,  tek  kullanımlık  kap  ve 
+ambalajlar hariç, temizlik ve dezenfeksiyona imkan verecek şekilde yapılmış olmalıdır.  
+• Makine, alet ve ekipmanlar kullandıktan hemen sonra bekletilmeden temizlenmelidir.  
+• Gıda maddelerinin üretiminde uygun alet ve ekipman kullanılmalıdır.  
+• Girdi hazırlama kapları gıdanın yapısına ve üretim teknolojisine uygun olmalıdır.  
+•  Üretim  alanlarında,  üretimde  kullanılmayan  alet,  ekipman,  makine  ve  malzeme 
+bulundurulmamalıdır.  
+ 
+3.2 Alet, Ekipman ve Makineler  
+•  Gıda  maddeleri  ile  doğrudan  temas  eden  makineler  ve  aletler  (örneğin  mikserler) 
+temizlenebilir, dezenfekte edilebilir olmalıdır.  
+• Makine ve aletlerin işlemleri doğru yaptığına dair düzenli kalibrasyon kontrolleri yapılmalı 
+ve kayıt altına alınmalıdır.  
+ 
+3.3 Yardımcı Ekipmanlar  
+• Yardımcı ekipmanların bulundurulduğu mekanlar kolayca temizlenebilir olmalıdır.  
+• Temizlik için, saklama mekanı veya yakın çevresinde bir içme suyu bağlantısı ve zeminde 
+atık su kanalı bulunmalıdır.  
+• Yıkanmış ve yıkanmamış karışım kapları elle sadece alttan ve dıştan tutulmalıdır.  
+• Atıkların taşınmasında kullanılan kaplar üretimde kullanılan diğer kaplardan farklı renkte ve 
+içindeki maddelerden etkilenmeyen yapıda olmalıdır. Yardımcı ekipmanların zemin ile teması 
+engellenmelidir 
+ 
+4. TEMİZLİK VE DEZENFEKSİYON  
+4.1 Genel Şartlar  
+• Kaplar, aparatlar, makineler, alet ve ekipmanlar kullanılmadan önce ve kullanıldıktan sonra 
+uygun şekilde temizlenmeli ve dezenfekte edilmelidir.  
+• Temizlik için içme suyu kalitesinde su kullanılmalıdır.  
+
+•  Sağlık  Bakanlık  tarafından  kullanımına  izin  verilmiş,  gıda  endüstrisine  uygun  deterjan, 
+kimyasal madde ve/veya dezenfektanlar kullanılmalıdır.  
+• Temizlik ve dezenfektan maddeleri, gıda maddesi veya gıdanın üretiminde kullanılan kaplara 
+konulmamalıdır.  
+• Temizlik ve dezenfektan maddelerin kullanımları esnasında, gerekli ve uygun olan dozaja, 
+sıcaklığa ve etki süresine dikkat edilmelidir. Söz konusu temizlik ve dezenfektan maddelerinin 
+imalatçıları tarafından kullanım usulleri hakkında yapılan önerilere uyulmalıdır. 
+ •  Temizlik  ve  dezenfektan  maddelerinin  bulunduğu  kaplar  kolay  anlaşılabilecek  şekilde 
+işaretlenmiş olmalıdır.  
+• Temizlik işleminden sonra kullanılan tüm temizlik araçları temizlenmelidir. 
+• Soğutucu batarya ve körükler genellikle küf sporları için bir ortam meydana getirdiğinden, 
+dikkatli bir şekilde temizleme işlemine tabi tutulmalıdır.  
+ 
+4.2  Temizlik  ve  Dezenfeksiyon  Adımları  Temizleme  ve  dezenfeksiyon  adımları  aşağıdaki 
+sırayı izlemelidir:  
+− Kaba Temizlik: Kaba kirler kuru veya ıslak bir şekilde ortamdan uzaklaştırılır.  
+− Temizlik: Sıcak su ve gerekiyorsa deterjan ile yapılır.  
+− Temizlik Sonrası Durulama: Deterjan kalıntılarının gıda ile buluşmasını önlemek için sıcak 
+su ile yapılır.  
+− Dezenfeksiyon: İzinli dezenfektan maddeler kullanılarak yapılır.  
+− Dezenfeksiyon Sonrası Durulama: Dezenfeksiyon tekniğine göre içilebilir nitelikteki su ile 
+yapılır.  
+ 
+4.3  Temizlik  ve  Dezenfeksiyon  Planları  İşyerinde  temizlik  ve  dezenfeksiyon  planı 
+oluşturulmalıdır.  
+ 
+5. GIDA MADDESİ ATIKLARI  
+•  Atıklar  gıda  maddelerinin  bulunduğu  mekanlardan  yığılmalara  meydan  vermemek  için 
+mümkün olduğunca çabuk bir şekilde uzaklaştırılmalıdır. 
+• Atıklar üzerleri örtülebilen kaplar içinde toplanmalıdır.  
+• Vardiya sonlarında veya işyeri mesaisi bitiminde atık kaplar boşaltılmalı ve temizlenmelidir.  
+
+•  Atık  kapları  sıkıca  kapatılmış  olmalı,  gerektiğinde  dezenfekte  edilebilir  durumda 
+bulunmalıdır.  
+• Gıda maddelerinin olumsuz etkilenmemesi için gıda maddelerinin sevkiyatı ile atık ortadan 
+kaldırma işlemlerinin kesişmemesi sağlanmalıdır.  
+ 
+6. ZARARLILAR İLE MÜCADELE  
+• Dış mekana açılan tüm boşluklarda zararlılara karşı gerekli önleyici tedbirler alınmalıdır.  
+• Zararlıya maruz kalmış mamuller imha edilmelidir.  
+• Üretim alanlarında uygun aralıklarla mekanik veya yapışkanlı fare tuzakları yerleştirilmeli, 
+tuzaklar düzenli olarak kontrol edilmelidir.  
+• Zararlı ile mücadele programı hazırlamalı etkin bir şekilde uygulanmalıdır.  
+•  Zararlılara  karşı  kullanılan  ilaçlar  gıda  maddeleri  ile  temas  etmeyecek  şekilde  ve  ayrı 
+mekanlarda saklanmalıdır.  
+• Periyodik olarak ilaçlama yapılmalı veya bir ilaçlama firmasından destek alınmalıdır.  
+ • Eğer ilaçlama işyeri tarafından yapılacak ise bu konuda gerekli eğitim alınmış olmalıdır. 
+Yapılan ilaçlama kayıt altına alınmalıdır. 
+ 
+7. ÜRETİM KURALLARI  
+7.1 Genel Şartlar  
+• Hammadde, yarı mamul ve gıda ile temasta bulunan ambalaj malzemeleri, gıda mevzuatına 
+uygun olmalı ve sadece üretim/ithalat izinli olması durumunda işyerine kabul edilmelidir.  
+•  Hammadde,  yarı  mamul  ve  mamul  maddeler,  işlenme,  depolama,  nakliye  vb.  sırasında 
+meydana  gelebilecek  olumsuz  etkilerden  (kirlenme,  aşırı  yüksek  sıcaklık,  haşere  vb.) 
+korunmalıdır.  
+• Raf ömrü dolmuş hammadde, yarı mamul ve mamul maddeler tüketim ve satışa sunulamaz. 
+Söz konusu ürünler imha edilmelidir ve üretimde kullanılmamalıdır.  
+ 
+7.2 Hammadde ve Yardımcı Madde Temini 
+ • Gıda maddelerinin kabulü sırasında;  
+− Zararlı olup olmadığı, 
+− Yabancı cisimlerin olup olmadığı,  
+
+− Ambalajların hasar görüp görmediği,  
+− Etiket bilgilerinin uygun olup olmadığı,  
+− Sevkiyat araçlarının hijyen şartlarını taşıyıp taşımadığı,  
+− Soğuk zincirde taşınması gereken gıda maddelerinin (yaş maya, krema vb.) uygun koşullarda 
+taşınıp taşınmadığı, kontrol edilmelidir.  
+•  Gıda  maddelerinin  mevzuata  uygun  olmaması  durumunda  bu  maddeler  işyerine 
+alınmamalıdır.  
+• Yapılan girdi kontrolleri kayıt altına alınmalıdır.  
+ 
+7.3 Gıda Ambalaj Malzemeleri ile İlgili Şartlar  
+• Ambalaj malzemeleri Sağlık Bakanlığından izinli olmalıdır.  
+• Ambalaj malzemeleri dış ortamdan etkilenmeyecek şekilde korunmalıdır.  
+ 
+7.4 Gıda Maddelerinin Muhafazası 
+• Ambalajlı veya ambalajsız hiçbir gıda maddesi zemin ile doğrudan temas etmemelidir.  
+• Koku, kirlenme ve mikrobiyolojik yönden birbirilerini olumsuz olarak etkileyebilecek gıda 
+maddeleri ayrı yerlerde muhafaza edilmelidir.  
+• Hammadde ve katkı maddeleri uygun muhafaza şartlarında muhafaza edilmelidir.  
+• Depolarda ilk giren ilk çıkar prensibi uygulanmalıdır.  
+• Soğuk olarak muhafaza edilmesi gereken gıda maddelerinin bulunduğu depolarda sıcaklık ve 
+rutubet kontrolleri düzenli olarak yapılmalı ve kayıt altına alınmalıdır.  
+• Dökme gıda maddeleri (ambalajsız olanlar) uygun muhafaza şartlarında, uygun sıcaklıkta, 
+ağızları kapalı olarak ve zeminle doğrudan temas etmeyecek şekilde muhafaza edilmelidir.  
+•  Üretim  amaçlı  kullanılmayan  gıda  maddeleri  (örneğin  personel  yiyecekleri)  üretimde 
+kullanılan gıda maddeleri ile birlikte muhafaza edilmemelidir.  
+ 
+7.5 Gıda Maddelerinin Taşınması  
+• İşyeri, gıda maddeleri taşınmasında, gıda güvenilirliği ve insan sağlığına yönelik gerekli 
+tedbirleri almak zorundadır.  
+• Taşıma işleminde kullanılacak araçlar temiz olmalı ve dezenfekte edilmelidir.  
+
+• Gıda maddeleri, gerekli hijyen ve muhafaza koşulları sağlanarak taşınmalıdır. Taşıma kapları, 
+gıda  maddelerinin  taşınmasına  uygun  olmalı,  sadece  gıda  maddelerinin  taşınmasında 
+kullanılmalıdır.  
+8. PERSONEL HİJYENİ  
+8.1 Genel Şartlar  
+• İşyerinde çalışan kişiler hijyen şartlarına büyük bir titizlikle uymak zorundadırlar.  
+• Takı (kolye, küpe, künye, yüzük, bilezik, kol saati) takılmamalıdır.  
+• Uygun ve temiz iş kıyafetleri, koruyucu giysiler (bone, galoş, ağız maskesi, eldiven vb.) 
+giymelidir.  
+• Sokak kıyafeti ve sokak ayakkabıları ile üretim alanına girilmemelidir.  
+• İş kıyafetleri işyeri dışında giyilmemelidir.  
+•  Erkeklerde  saçlar  tercihen  kısa  olmalı,  sakal  olmamalıdır.  Saçlar  mutlaka  bone  içinde 
+tutulmalı ve ağız maskesi kullanmalıdır.  
+• İşyerinde çalışanların, mevzuata uygun olarak düzenli sağlık kontrolleri (portör muayenesi, 
+akciğer  filmi,  burun-boğaz  kültürü,  sarılık)  yapılmalıdır.  Hasta  personel  işyerinde 
+çalıştırılmamalıdır.  Portör  muayene  sonuçları  işyeri  yetkilisi  ve/veya  sorumlu  yöneticisi 
+tarafından  değerlendirilerek  işyeri  yönetimine  bildirilmeli  ve  sonuçların  uygunsuz  olması 
+durumunda acilen gerekli tedbirler alınmalıdır.  
+• Hastalanan ve hastalık taşıyan kişilerin gıda maddelerinin üretildiği ve bulunduğu alanlara 
+girmeleri yasaktır. Bu gibi kişiler, hastalıkları ve belirtileri (özellikle ishal ve ateş) hakkında 
+işyeri yetkilisi ve/ veya sorumlu yöneticisini acilen bilgilendirmelidir.  
+• Enfeksiyonlu yaraları, deri enfeksiyonları veya deri yaralanmaları olan kişilerin, üretim ve 
+satış  aşamalarında  çalışmaları  engellenmelidir.  Basit  çizikler  gibi  durumlarda  yara  bandı 
+(örneğin  su  geçirmeyen  plaster,  parmak  sargısı)  kullanarak  çalışmalıdır.  Yara  bandı,  gıda 
+işyerleri için özel olarak hazırlanmış ve mavi renkli olmalıdır.  
+• Çalışanlar için dinlenme bölümleri varsa bu bölümler imalattan ayrı bir yerde olmalıdır.  
+• Üretim alanında açık renk elbise giyilmelidir.  
+ 
+8.2 El Hijyeni  
+• Oje ve yapay tırnak kullanılmamalı, tırnaklar kısa kesilmiş ve temiz olmalıdır.  
+• Üretime başlamadan önce, üretim  esnasında ve üretimden sonra eller iyice yıkanmalı ve 
+dezenfekte edilmelidir ve uygun şekilde kurulanmalıdır.  
+
+• Tuvaletten sonra eller iyice yıkanmalı ve dezenfekte edilmelidir.  
+ 
+8.3 İşyeri Davranış Kuralları: Çalışanlar aşağıdaki davranış kurallarına uymak zorundadır.  
+• Gıda maddelerine doğru öksürülmemeli ve aksırılmamalıdır.  
+• Üretim alanında yenilip içilmemeli, sakız çiğnenmemeli ve sigara içilmemelidir.  
+• Eller işyeri elbiseleri ile kurulanmamalıdır.  
+• Gıda maddelerine sadece yıkanmış ve dezenfekte edilmiş el ile temas edilmelidir.  
+ 
+9. PERSONEL EĞİTİMİ  
+• Personele gıda mevzuatı ve çalışma alanı ile  ilgili konularda gerekli  eğitim verilmeli ve 
+kayıtları tutulmalıdır.  
+• Üretimin hijyen kurallarına uygun biçimde yapılması ve kişisel hijyen konusunda personelin 
+sürekli eğitim alması sağlanmalıdır.  
+• İşyerinin bir eğitim planı olmalı ve bu planda yıl boyu yapılması planlanan eğitimlerin isimleri 
+ve tarihleri belirtilmelidir. Özellikle hijyen eğitimleri yılda en az bir kez tekrarlanmalı ve planda 
+sıklığı belirtilmelidir.  
+• Eğitim verilmesinin sağlanmasından işyeri yetkilisi sorumludur.  
+•  İşyeri  sahibi/yetkilisi,  çalışanların  işyeri  talimatlarına  uyup  uymadığını  düzenli  olarak 
+denetlemelidir.  
+• Eğitimle ilgili kayıtlar tutulmalıdır. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+EK-V 
+Mikrobiyolojik Analiz Amacıyla Numune Alımı 
+1)  EK-IV’de belirlenen  numune  alma  planları  ve  analiz  metotları  referans  metot  olarak 
+kullanılır. 
+(2)  Kriterlerin  sağlandığını  garanti  etmek  amacıyla  numune  alınması  gerektiğinde  bu 
+numuneler; üretim alanlarından ve üretimde kullanılan ekipmanlardan alınır. Buna göre; 
+a) Numune almada, ISO 18593 sayılı standart, referans metot olarak kullanılır. 
+b) İnsan sağlığı açısından Listeria monocytogenes riski oluşturabilecek tüketime hazır 
+gıda üreten gıda işletmecisi, numune alma planlarının bir parçası olarak üretim alanlarından ve 
+ekipmanlarından da numune alır. 
+ (3)  Gıda  işletmecisi  HACCP  ilkelerine  dayalı  etkili  bir  üretim  yaptığını  geriye  dönük 
+kayıtlarıyla gösterebiliyorsa, EK-IV’de belirlenen numune alma planlarındaki numune sayısı 
+azaltılabilir. 
+(4) Analizin amacı, özellikle bir işlemin veya bir gıda partisinin kabul edilebilirliğini belirlemek 
+ise EK-IV’de belirtilen numune alma planları en düşük sayı olarak kabul edilir. 
+(5)  Gıda  işletmecisi,  bu  Standartta  belirtilenlerin  dışında  diğer  bir  numune  alma  ve  analiz 
+metodunu  kullanabilir.  Ancak  bu  takdirde,  kullandığı  metotların  en  az  eşdeğer  garantiyi 
+sağladığını Bakanlık yetkilisine kanıtlamak zorundadır. Buna göre; 
+a)  Bu  metotlar,  alternatif  numune  alma  aşamalarını  ve  yeni  analiz  metotlarının 
+kullanımını içerebilir. 
+b) Alternatif analiz metotlarının kullanımı; EK-IV’de verilen referans metotlara karşı 
+onaylanması ve EN/ISO 16140 sayılı standart veya diğer uluslararası kabul görmüş benzer bir 
+standart  da  yer  alan  protokoller  doğrultusunda  sertifikalandırılmış  tescilli  bir  metot  olması 
+halinde kabul edilir. 
+c)  Gıda  işletmecisi,  (b)  bendinde  tanımlanan  onaylanmış  ve sertifikalandırılmış 
+metotların dışındaki analiz metotlarını kullanmak isterse, bu metotlar uluslararası kabul edilmiş 
+protokollere göre onaylanır ve kullanımları Bakanlık tarafından yetkilendirilir. 
+ 
+ 
+ 

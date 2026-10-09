@@ -1,0 +1,351 @@
+
+
+Sayı : 222
+569
+KUZEY KIBRIS TÜRK CUMHURİYETİ MERKEZ BANKASI YASASI 
+41/2001 Sayılı Yasa, Madde S(l)(E) Altında Tebliğ 
+Kuzey Kıbrıs Türk Cumhuriyeti Merkez Bankası, 41/2001 sayılı Merkez Bankası Yasası'nın 
+S'inci maddesinin (l)'inci fıkrasının (E) bendinin verdiği yetkiye dayanarak aşağıdaki Tebliği 
+yapar: 
+Kısa İsim 
+Tefsir 
+62/2017 
+22/2020 
+ı. Bu Tebliğ, "Elektronik Ödeme Sistemi Hakkında Tebliğ" olarak 
+isimlendirilir. 
+BİRİNCİ KISIM 
+Genel Kurallar 
+2. Bu Tebliğde metin başka türlü gerektirmedikçe; 
+"Alıcı", Sisteme gönderilen işlenmiş bir mesajı alan katılımcıyı 
+anlatır. 
+"Banka", KKTC Bankacılık Yasası altında izin alarak faaliyet gösteren 
+bankaları anlatır. 
+"Giriş Zamanı", Katılımcının gönderdiği mesajın Sisteme ulaştığı 
+zamanı anlatır. 
+"Gönderen", Sisteme işlenmek üzere, bir mesajı ileten katılımcıyı 
+anlatır. 
+"Hizmet Yönetimi Araçları", Katılımcıların, Sistem ile ilgili sorunlarını 
+bildirmek ve çözümlemek amacıyla, katılımcılar ile Merkez Bankası 
+arasındaki iletişimi sağlayacak araç ve gereçleri anlatır. 
+"İşlem Zamanı", Sistemde mutabakatın gerçekleştiği zamanı anlatır. 
+"!<atılımcı", Önceden belirlenmiş şartları yerine getirmesi kaydıyla 
+Sisteme erişimi sağlanarak işlem gerçekleştirebilen ve Sistemde bir 
+kodla 
+tanımlanan kuruluşu anlatır. 
+"!<atılımcı Uygulaması", Katılımcının, Sisteme bağlantı ve mesaj 
+çevirimi için 
+kullandığı yazılımı anlatır. 
+"Merkez Bankası", Kuzey l<ıbrıs Türk Cumhuriyeti Merkez Bankasını 
+anlatır. 
+"Mesaj", Katılımcı ile Sistem arasında bilgi aktarımını 
+gerçekleştirmek üzere kullanılan yapıyı anlatır. 
+"Mutabakat", Katılımcılar arasında veya katılımcılar ile Merkez 
+Bankası arasında fon aktarımından kaynaklanan yükümlülüklerin 
+yerine 
+getirilmesini anlatır. 
+
+570
+Amaç ve Kapsam 
+Sisteme 
+Katılabilecek 
+Kuruluşlar ile 
+Sisteme 
+Katılım 
+Koşulları 
+"Mutabakat Hesapları", l<atılımcının Sistemde bulundurduğu 
+paraların bakiyesinin izlendiği ve üzerinde gerçek zamanlı bire bir 
+mutabakat gerçekleştirilen hesapları anlatır. 
+"Sistem", Katılımcılar arasında, Türk Lirası, Amerikan Doları, Avro ve 
+İngiliz Sterlini olmak üzere dört farklı para birimine göre aktarım ve 
+mutabakatın kaydi ve gerçek zamanlı olarak elektronik ortamda 
+7 
+/24 kesintisiz çalışmasını sağlayan Merkez Bankası nezdinde 
+kurulan 
+yurt içi Elektronik Ödeme Sistemi'ni (EÖS) anlatır. 
+"Sistem Saati", Sistemin o anki zamanını anlatır. 
+3. Bu Tebliğin amacı, Merkez Bankası Elektronik Ödeme Sistemi'ne 
+(EÖS) katılım koşullarını, Sistemin işleyişine ilişkin usul ve esaslar ile 
+Sisteme dahil olan 
+tarafların hak ve yükümlülüklerini belirlemektir. 
+İKİNCİ KISIM 
+Sisteme Katılım ve Sistemin İşleyişine İlişkin Hükümler 
+4. (1) Sisteme bankalar ile Merkez Bankası tarafından belirlenecek 
+diğer kuruluşlar katılabilir. 
+(2) Sisteme katılmak isteyen kuruluşların; 
+(A) Merkez Bankası'na yazılı başvuruda bulunması, 
+(B) Ek'de yer alan Katılımcı Taahhütnamesini imzalaması, 
+(C) Merkez Bankası nezdinde il gili para birimlerinde 
+hesaplarının bulunması, 
+(D) Sisteme bağlanabilmesi için bir Katılımcı Uygulaması 
+geliştirmesi ve gerekli testleri Merkez Bankası ile 
+karşılıklı yapmış olması, 
+(E) İletişim ağına ilişkin altyapıyı kurması ve gerekli testleri 
+Merkez 
+Bankası ile karşılıklı yapmış olması, 
+gerekmektedir. 
+Sistemden 
+Ayrılma 5. Katılımcı en az bir ay önceden Merkez Bankası'na yazılı olarak 
+bildirmek 
+koşulu ile Sistemden süreli veya süresiz olarak ayrılabilir. 
+Gerektiğinde, bildirim süresi Merkez Bankası tarafından 
+değiştirilebilir. Ayrılma talebinde bulunan katılımcının Sistemden 
+ayrılabileceği tarih Merkez Bankası tarafından belirlenir ve bu 
+tarihte Sistem ile ilişkisi kesilir. Katılımcı bu tarihten sonra Sistem 
+
+571
+Sistemin Çalışma 
+Şekli ve Saatleri 
+aracılığıyla mesaj gönderemez, diğer katılımcılar tarafından 
+gönderilen mesajları alamaz. 
+6. {1) Sistemde gerçekleştiri len tüm işlemlerde Sistem saati esas 
+alınır. 
+(2) Sistem Normal ve Kısıtlı olmak üzere iki farklı yöntemde çalışır. 
+Sistem Normal yöntemde herhangi bir işlem veya tutar limiti 
+o lmadan, 
+Kısıtlı yöntemde ise Merkez Bankası tarafından 
+belirlenecek işlem limitleri çerçevesinde çalışır. 
+{3) Sistem resmi çalışma günlerinde Merkez Bankası'nca 
+belirlenecek ve katılımcılara duyurulacak saatler içerisinde 
+Normal yöntemde, bunun haricinde 
+Kısıtlı yöntemde  olmak 
+üzere 7 gün 24 saat 
+esasında çalışır. 
+İşlemlerin Kesinliği 7. Merkez Bankası tarafından sağlanan hesap uygunluğunda 
+Sistemdeki mutabakat hesaplarına ait bakiyeler esas alınır. Sistem 
+aracılığıyla yapılan işlemler, Sistemde tutulan mutabakat 
+hesaplarına ait bakiyeler değiştiğinde kesinleşmiş sayılır. 
+Kesinleşme anı Sistem tarafından mesajlara işlenen işlem zamanı 
+alanında belirtilir. Mesajlarda yer alan giriş zamanı alanı bilgi amaçlı 
+olup, işlem kesinliğini bildirmez. Hesap bakiyeleri değiştikten sonra 
+gönderen 
+işlemden vazgeçemez. Alıcı kendisine Sistem yoluyla 
+yapılan ödemeyi geri çeviremez ancak, 17'inci  maddede yer alan 
+durumlarda iade edebilir. 
+Mutabakat 
+İşlemleri 
+8. (1) Sistem, gerçek zamanlı bire bir mutabakat ilkesi  il e çalışır. 
+Katılımcılar tarafından gönderilen mesajlar, Sistem tarafından 
+doğruluk kontrollerinden geçirilir. Doğruluk kontrollerini 
+geçen 
+mesajların mutabakatı, katılımcının mutabakat 
+hesaplarının bakiyesinin yeterli olmasına bağl ı olarak 
+sonuçlandırılır. 
+(2) Katılımcılar tarafından gönderilen ödeme mesajları, her bir 
+para birimine göre mesaj öncelikleri ve Sisteme kabul 
+edildikleri zamana göre "önce kabul edilen önce 
+işlenir" 
+yöntemi ile işleme alınır. İşlemlerden bakiye uygunluğunu 
+geçenlerin mutabakatı gerçekleşirken, bakiye kontrolünü 
+geçemeyen mesajlar Normal yöntemde bakiye 
+oluşana kadar 
+bekletilir, Bakiye 
+yetersizliği nedeniyle gerçekleşmeyen 
+işlemler Normal yöntem çalışma süresi sonunda iptal edilir ve 
+gönderene bildirilir. Kısıtlı yöntemde bakiye yetersizliği olması 
+halinde mesaj sisteme kabul edilmez ve gönderene bildirilir. 
+
+572
+Ücretlendirme 
+Yazılım, Donanım 
+ve Altyapı 
+Güvenlik 
+9. Sistemden geçen mesajlar ve Sisteme ilişkin olarak Merkez Bankası 
+tarafından verilen diğer hizmetler Merkez Bankası Tarifeler Talimatı 
+ekindeki Tarife Cetveli kapsamında ücretlendirilir. 
+ÜÇÜNCÜ KISIM 
+Katılımcının Yükümlülükleri 
+10. 
+Katılımcı; 
+(1) Yazılım ve erışıme ilişkin altyapıda güvenlik, süreklilik, 
+performans 
+ve kapasite takibini yaparak gerekmesi halinde 
+önlemler almak, 
+(2) Merkez 
+Bankası tarafından talep edilen yazılım ve altyapı 
+değişikliklerini Merkez Bankası tarafından belirlenen takvime 
+uygun olarak 
+zamanında gerçekleştirmek, 
+(3) Katılımcı Uygulaması'nda yapılacak her türlü değişikliği gerekli 
+testlerin 
+yapılabilmesi için Merkez Bankası'na en az beş (5) iş 
+günü öncesinden yazılı olarak bildirmek, 
+(4) 
+Katılımcı Uygulaması'na ve Sisteme bağlantı için kullanılan 
+tüm aktif cihazlara ait her türlü denetim izi, arşiv ve işlem 
+kayıtlarını ilgili mevzuatta belirtilen süreler boyunca muhafaza 
+etmek, 
+ile yükümlüdür. 
+11. 
+Katılımcı; 
+(1) Sisteme erişimde kullanılacak olan güvenlik önlemleri ile 
+Merkez 
+Bankası tarafından istenecek diğer güvenlik 
+önlemlerini almak ve 
+bu amaçla, sertifika altyapısını 
+geliştirmek, sertifika yönetimine ilişkin güvenli saklama ve 
+kullanım kurallarına uymak, 
+(2) 
+Katılımcı Uygulaması'nın erişim ve uygulama güvenliğini 
+sağlamak, 
+(3) Merkez Bankası tarafından verilen teknik belgeleri, sistemden 
+ayrılsa dahi, Merkez Bankası'nın izni alınmaksızın üçüncü 
+taraflara açmamak, ticari amaçla kullanmamak, 
+(4) Herhangi bir 
+suç girişiminde bulunulduğundan şüphe edilmesi 
+halinde durumu derhal Merkez 
+Bankası'na bildirmek, 
+ile yükümlüdür. 
+
+573
+Sorumlu Çalışanlar 12. l<atılımcı, sorumlularının kimlik ve iletişim bilgilerini güncel tutmak 
+ve değişiklikleri ivedilikle Merkez Bankası'na bildirmekle 
+yükümlüdür. 
+Gün 
+Boyu işlerl ik 
+Hizmet Yönetimi 
+işbirliği 
+13. Katılımcı; 
+(1) Merkez Bankası tarafından günlük iş akışında ilan edilen 
+şekilde Sistem ile bağlantısını ve gün boyu işlerliğini 
+denetlemek; Merkez Bankası tarafından bildirilen olaylara 
+anında müdahale etmek ve sonucundan Merkez Bankası'nı 
+haberdar etmek, 
+(2) Mutabakat 
+işlemlerini en kısa sürede tamamlamak ve 
+uyuşmazlık durumunda Merkez Bankası'na derhal   haber 
+vermek, 
+(3) Sisteme 
+erişim için kullanılacak iletişim altyapısını ve veri 
+iletişim hatlarını sürekli çalışır durumda tutmak, arıza 
+durumlarında 
+bilgilendirmek, 
+ile yükümlüdür. 
+14. 
+Katılımcı; 
+Merkez Bankası'nı gecikmeksizin 
+(1) Merkez 
+Bankası tarafından duyurulan hizmet yönetimi 
+araçları ve yordamları çerçevesinde işlemleri gerçekleştirmek, 
+tanımlanan hizmet seviyesi anlaşmalarına uymak, 
+(2) Merkez Bankası tarafından hizmet yönetimi araçları ile 
+gönderilen duyuru 
+ve e-postaları takip etmek ve talimatları 
+uygulamak, 
+(3) Sistem 
+veya uygulamalarında oluşan kesinti veya olayları 
+beklemeksizin Merkez Bankası'na bildirmek 
+ile yükümlüdür. 
+ıs. Katılımcı; 
+(1) Merkez Bankası'nın önceden duyurduğu planlar 
+doğrultusunda yürüttüğü ya da eş güdümlediği çalışmalarda 
+planlara uymak ve gerekli desteği sağlamak, 
+(2) Sistemin kesintisiz işletilmesini sağlamak amacıyla, Merkez 
+Bankası tarafından düzelt ilmesi veya yapılması istenilen tüm 
+değişiklikleri geciktirmeksizin yerine getirmek, 
+(3) Sistemin 
+işleyişi il e  ilgili  olarak Merkez Bankası'na gerekli 
+durumlarda bilgi 
+sağlamak ve bu bilgilerin değişmesi 
+
+574
+Katılımcının Mesaj 
+Gönderi
+ci Olarak 
+Yükümlülükleri 
+Katılımcının Mesaj 
+Alıcı Olarak 
+Yükümlülükleri 
+durumunda en 
+kısa zamanda Merkez Bankası'na haber 
+vermek, 
+ile yükümlüdür. 
+16. Mesaj gönderen 
+katılımcı; 
+(1) Mesajları amacına, yapısına ve kurallarına uygun bir biçimde 
+eksiksiz ve 
+doğru olarak göndermek, 
+(2) Mesaj
+da yer alan gönderici müşterinin kimlik/sicil bilgilerini 
+doğrulamak, 
+(3) Hesaptan yapılan ödemelerde gönderici hesap bilgilerini 
+doğrulamak, 
+(4) Hesaba yapılan ödemelerde alıcı müşteri hesap numarası ile 
+ilgili kontrolleri yapmak, 
+(5) Mesaj
+da yer alan ödeme tutarının Merkez Bankası tarafından 
+belirlenen işlem limitlerine uygunluğunu kontrol etmek, 
+ile yükümlüdür. 
+17. Mesaj alan 
+katılımcı; 
+(1) Mesajda yer alan alıcı müşterinin kimlik/sicil bilgilerini 
+doğrulamak, 
+(2) Hesaba yapılan ödemelerde, hesap numarasının geçerli ve 
+mevcut 
+olması durumunda müşteri ile başka bir sözleşmesi 
+yok ise ödemeyi müşteri hesaplarına bekletmeksizin 
+aktarmak, 
+(3) 
+Hesaba yapılan ödemelerde, hesap numarasının geçerli 
+olmadığı ve/veya katılımcı doğrulama uygulamalarından 
+geçememiş mesajlarda gelen ödemeyi iade sebebi 
+belirtilerek, bekletmeksizin iade etmek, 
+(4) Ödemenin göndericisinin iade talebinde 
+bulunması halinde, 
+müşterinin hesabına aktarılmamış ödemeleri bekletmeksizin 
+iade etmek, 
+müşteri hesabına aktarılan ödemelerde ise ilgili 
+mevzuat ile düzenlenen 
+kuralları uygulamak, 
+ile yükümlüdür. 
+Mali Sorumluluklar 18. 
+Katılımcı; 
+(1) Yükümlülüklerini zamanında ve eksiksiz yerine getirmemesi 
+durumunda Sisteme ve 
+diğer katılımcılara vereceği 
+zararlardan sorumludur. 
+(2) Sistem 
+aracılığı ile gönderdiği mesajlarla ilgili her türlü 
+sorumluluk kendisine aittir. 
+Katılımcı ödeme emirlerini yerine 
+getirirken 
+yapmış olduğu hatalar nedeniyle, Merkez 
+
+575
+Bankası'nın, başka bir kuruluşun veya kişinin zarara uğraması 
+durumunda bu zarardan sorumludur. 
+DÖRDÜNCÜ l(ISIM 
+Çeşitl i Hükümler 
+Kullanım Kuralları 19. Sistemin işleyişine, yapısı ve çalışma prensiplerine, mesaj türlerine, 
+izahnamesi mutabakat 
+işlemlerine ve kuyruk yönetimine ilişkin kullanım 
+kuralları, Merkez Bankası tarafından hazırlanarak katılımcılara 
+gönderilecek o lan "Elektronik Ödeme Sistemi Kullanım Kuralları 
+izahnamesi" ile belirlenir. 
+Düzenleyici 
+Önlemler 
+Geçici Madde 
+Kısıtlı Yönteme 
+Geçiş 
+Yürürlükten 
+Kaldırma 
+R.G. 258 
+30.12.2014 
+Yürürlüğe Giriş 
+20. Merkez Bankası, yapılan uyarılara rağmen yükümlülüklerini yerine 
+getirmeyen 
+katılımcıları sistemden geçici olarak çıkarabilir. 
+BEŞİNCİ KISIM 
+Geçici Kurallar 
+1. Kısıtlı yöntemin uygulamaya gireceği tarih Merkez Bankası 
+tarafından belirlenerek katılımcılara duyurulur. Merkez Bankası'nca 
+belirlenen tarihte sistemlerini hazır hale getirmeyen bankaların 
+belirlenen tarihten itibaren altı (6) ay içinde  gerekli çalışmaları 
+tamamlayıp Kısıtlı yöntemde de faaliyet göstermeleri 
+gerekmektedir 
+ALTINCI KISI M 
+Son Kurallar 
+21. Bu Tebliğ yürürlüğe girdiği tarihten itibaren "Elektronik Ödeme 
+Sistemi 
+İşletim Kuralları Tebliği", altında yapılan işlemlere halel 
+gelmeksizin, yürürlükten kaldırılır. 
+22. Bu Tebliğ, Resmi Gazete'de yayımlandığı tarihte yürürlüğe girer. 
