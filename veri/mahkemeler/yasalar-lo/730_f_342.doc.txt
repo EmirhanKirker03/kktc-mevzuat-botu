@@ -1,0 +1,571 @@
+﻿BÖLÜM  342
+                      (16/1983 Sayılı Yasa ile değiştirilmiş ve Birleştirilmiş şekliyle)
+SULAMA BÖLGELERİ (KÖYLER) YASASI
+
+MADDE DİZİNİ:
+Madde   1.   Kısa İsim.
+Madde   2.   Yorum.
+Madde   3.   Mal Sahiplerinin Toplantısı.
+Madde   4.   Genel Toplantı Bildirimi.
+Madde   5.   Genel Toplantıda Yapılacak İşlemler.
+Madde   6.   Oy Kullanma Hakkı
+Madde   7.   Genel Toplantılarda Oyçokluğunun Gerekliliği.
+Madde   8.   Kaymakamın Genel Toplantıyı Erteleme Yetkisi.
+Madde   9.   Genel Toplantılarda Tutanak Tutulması.
+Madde  10.  Komisyon Seçimi.
+Madde  11.  Kaymakamın Komisyonların ve Komisyon Üyelerinin Görevlerine Son Verme
+                    Yetkisi.
+Madde  12.  Komisyon Üyeliklerinde Boşalmalar.
+Madde  13.  Komisyonun Genel Yetkileri.
+Madde  14.  Kaymakamın Komisyon Toplantılarında İzlenecek Yöntemi Belirlemesi.
+Madde  15.  Mal Sahiplerinin ve Arazilerin bir Listesinin Komisyonca hazırlanması.
+Madde  16.  Listenin Hazırlanması ve Asılması.
+Madde  17.  Tüzük Yapma Yetkisi.
+Madde  18.  Tüzüğün Hazırlanması ve Asılması.
+Madde  19.  Tüzüğün Resmi Gazetede Yayımlanması.
+Madde  20.  Tüzüğün Değiştirilmesi.
+Madde  21.  Vergi ve Harçların Zamanında Ödenmesinde Temerrüt.
+Madde  22.  Vergi ve Harçların Tahsili.
+Madde  23.  Sulama Bölgesinin Dağılması Üzerine Ödünç Alınan Paraların Ödenmesinin 
+                     Gerekliliği.
+Madde  24.  Bütçe.
+Madde  25.  Denetim.
+Madde  26.  Kaymakamın Geri Ödemekle Yükümlü Kılma Yetkisi.
+Madde  27.  Paraların Kaymakamın Emredeceği Yere Yatırılması.
+Madde  28.  Sulama Bölgesinin Adı.
+Madde  29.  Davalar ve yargısal işlemler.
+Madde  30.  Bakanlar Kurulunun Bir Sulama Bölgesinin Dağılmasını Emretme Yetkisi.
+Madde  31.  Komisyonun Dağıtılıp Yerine bir veya Birkaç Kişinin Görevlendirilmesi.
+Madde  32.  Kamulaştırma.
+Madde  33.  Araziye Girme Yetkisi.
+Madde  34.  Tazminat Ödenmesi.
+Madde  35.  Teminatın Ödenme ve Tahsil Yöntemi.
+Madde  36.  Temyiz Kudretinden Yoksun Kişiye Tazminat Ödenme Yöntemi.
+Madde  37.  Kaymakamın Sulama İşlerine Konulan Engellerin Kaldırılmasını Emretme 
+                    veya Onları Kaldırma Yetkisi.
+Madde  38.  Suçlar ve Cezalar.
+Madde  39.  Kaymakamın Görev ve Yetkilerini Devretme Yetkisi.
+Madde  40.  Bazı Durumlarda İstinafa Gidilememesi.
+
+
+Madde  41.  Cezaların Nereye Ödeneceği.
+Madde  42.  Bağışıklık.
+Madde  43.  Yasayı Kentlere veya Kentlerin Mahallelerine Uygulama Yetkisi.
+Madde  44.  Koruma.
+
+SULAMA YASALARINI DEĞİŞTİREN  VE 
+BİRLEŞTİREN YASA
+
+1949 
+Bölüm 111
+8/1956
+
+(22 Nisan 1938)
+Kısa İsim
+
+1.    Bu  Yasa,  Sulama  Bölgeleri  (Köyler)  Yasası olarak isimlendirilir.
+Yorum.
+2.   Bu Yasada: 
+      "arazi",   üzerindeki  otlatma  haklarıyla birlikte araziyi,  binaları,  ağaçları,  irtifak  haklarını,  toplanmamış veya devşirtilmemiş ürünleri,  suları veya su haklarını  anlatır ve herhangi  bir  kilise  kuruluşuna  veya dini kuruluşa ait arazileri de içerir.
+      "Kaymakam",  sulama  bölgesinin  oluşturulduğu  ilçenin Kaymakamını anlatır.
+      "Komisyon",  hangi  sulama  bölgesi  için  oluşturulmuşsa  o  sulama  bölgesinde  görev  yapmak üzere  bu  Yasa  kuralları  uyarınca  oluşturulan komisyonu anlatır.
+      "Mal sahibi",  bir köyde,  bir köyün  mahallesinde veya gruplaştırılmış köylerde sulama tesislerinden yararlanan  veya  yararlanma  olasılığı  olan herhangi bir arazinin sahibini anlatır.
+      "sulama bölgesi", bir köydeki,  bir  köyün mahallesindeki veya gruplaştırılmış köylerdeki  mal sahiplerince,  bu  Yasa kuralları  uyarınca  oluşturulan ve söz konusu köyde,  mahallede veya gruplaştırılmış köylerde faaliyet gösteren bir sulama  bölgesini anlatır.
+      "sulama  tesisleri",   su  depolamak,  nakletmek, sağlamak,  dağıtmak,  ölçmek  veya düzenlemek ve  ayarlamak amaçları  ile, bu  Yasa  kuralları  uyarınca kullanılan veya inşa edilen tüm kuyuları,  artezyen kuyularını, su haznelerini, bentleri ve barajları,  setleri, havuzları,  sarnıçları,  tünelleri, süzme yataklarını, su yollarını, su kemerlerini,  ana su borularını, çeşmeleri, savakları, vanaları,  pompaları,  kanalları, makineleri ve tüm diğer yapıları veya araç ve  gereçleri ve arazinin su  baskınından, sellerden veya su birikmesinden, su ile dolmasından veya aşınmadan korunması için veya korunması ile ilgili olarak yapılan tüm işleri içerir.
+
+Mal sahipleri  Toplantısı
+3.  Kaymakamın,  resen veya  sulama  tesislerinden  yararlanması  mümkün  olduğuna  inandığı  herhangi  bir  köyde veya herhangi bir köyün  mahallesinde veya  gruplaştırılmış köylerde,  en az on  mal sahibi tarafından yazılı  başvuruda  bulunulması  üzerine,  söz konusu  köylerin,  mahallelerin  veya  gruplaştırılmış  köylerin  mal sahiplerini, aşağıda öngörülen amaçların tümü veya her hangi biri  için,  bir sulama  bölgesi oluşturulup oluşturulamayacağını kararlaştırmak amacıyla, genel bir toplantıya çağırması yasaldır:
+
+       (a)   Tamamen veya kısmen söz konusu köylerin,  mahallelerin  veya
+              gruplaştırılmış köylerin sınırları içinde bulunan sulama          
+              tesislerinin yapımı, geliştirilmesi, muhafazası, bakımı veya 
+               onarımı;
+      (b)   Müşterek suların veya su yollarının korunmasının ve 
+             kullanılmasının düzenlenmesi;
+    (c) Mal sahiplerinin su haklarının muhafazası, bakımı veya korunması.
+
+Genel toplantı bildirimi.
+4.  Kaymakam,  genel   toplantının  yapılmasından en  az  bir  ay  önce,  sulama  tesislerinden  etkilenmesi  muhtemel olan her köyün veya köydeki her mahallenin herkesçe kolaylıkla görülebilecek bir yerine toplantı  gününü  ve  yerini  ve  toplantının amaçlarını belirten ve  söz konusu  köy veya  mahalledeki tüm  mal sahiplerini  şahsen veya  yazılı  olarak  tayin edecekleri bir vekil aracılığıyla temsilen,  toplantıda hazır bulunmaya çağıran bir bildirimin  asılmasını sağlar 
+
+Genel toplantıda
+yapılacak işlemler
+5.  Kaymakam,  yukarıda öngörüldüğü biçimde çağrılan ve saptanan gün ve yerde  yapılan  her genel toplantıya  başkanlık  eder. Toplantıda  hazır  bulunan mal sahipleri  veya  onların  yetkili  vekilleri,  7’nci maddede  öngörüldüğü biçimde oy çokluğuyla;
+      (a)   Bir sulama bölgesi oluşturulup oluşturulamayacağını; ve
+      (b)   Sulama bölgesinin oluşturulma amacını veya  amaçlarını; ve
+      (c)   Sulama bölgesini  oluşturacak köyü veya köyün mahallesini veya
+             köyleri,      kararlaştırır.
+Oy kullanma hakkı
+6. Herhangi bir genel toplantıda,  herhangi bir kişinin oy kullanma hakkı konusunda ortaya bir sorun çıkarsa,  Kaymakam hemen  orada  gerekli  göreceği  araştırmayı yapar ve söz konusu kişinin  oy  kullanma  hakkı olup  olmadığını  kararlaştırır  ve  bu  kararını  açıklar. Kaymakamın böylece vereceği kararları kesin olur ve  ortaya çıkan sorun ve verilen karar,  toplantı tutanaklarına geçirilir.
+
+Genel toplantılarda oyçokluğunun gerekliliği.
+
+7.  Genel toplantılarda önerilen tüm  konular veya karar önerileri, hazır  bulunan  ve oy  kullanma  hakkına  sahip olan kişilerin oy çokluğuyla kararlaştırılır.
+Kaymakamın genel toplantıyı erteleme yetkisi
+8.  Kaymakam,  kendi  takdir  hakkını  kullanarak,  herhangi  bir  genel  toplantıyı,  zaman  zaman,  toplantı sırasında  veya  ertelenmiş  bir  toplantı  sırasında,   aleni olarak açıklayacağı başka bir  gün ve yerde yapılmak üzere  erteleyebilir ve bu şekilde ertelenmiş bir genel toplantı  için başka bir duyuru gerekmez.
+       Ancak, ertelenmiş  herhangi  bir toplantıda,  genel toplantının  çağrı bildiriminde mevcut  olmayan herhangi bir konu tartışılamaz veya görüşülemez.
+Genel toplantılarda tutanak tutulması
+9.  Kaymakam, genel toplantıların tutanaklarını tutar veya tutulmasını sağlar ve toplantılarda ortaya çıkan sorunları veya önerilen karar  suretlerini ve  onlarla ilgili olarak lehte veya aleyhte verilen oyların sayısını  tutanaklara  geçirir  veya  geçirilmesini  sağlar. Toplantı sonunda Kaymakam tutanakları imzalar, verilen oyların sonucunu ilân eder ve tutanakların kendisince tasdik edilmiş suretlerinin İçişleri ile görevli Bakanlığa*  gönderilmesini sağlar.
+
+Komisyon seçimi
+10.  (1)   Mal sahipleri  veya  mal sahiplerinin  yetkili vekilleri,  bir  genel
+               toplantıda, bir  sulama  bölgesi oluşturulmasını kararlaştırırlarsa,
+               sulama bölgesini oluşturan köyün, köyün  mahallesinin  veya
+               köylerin  mal sahipleri  arasından, Komisyonda  görev  yapmak
+               üzere,  aşağıda öngörüldüğü biçimde,  üç  kişiden  az  ve  beş
+               kişiden çok olmamak üzere, komisyon  üyesi seçerler.
+    (2) Seçimlerin  yapıldığı  toplantıda adaylığı önerilen  ve  teyit
+        olunan her  mal sahibinin seçimi,  Kaymakam tarafından  uygun
+        görülecek biçimde açık oylama ile yapılır.
+    (3) Toplantıda hazır olan tüm  mal sahipleri veya  yetkili  vekilleri,
+               seçmek  istedikleri  her aday için,  bir oy verme hakkına sahiptir.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+       (4)   Oylama  sona  erdiğinde,   Kaymakam  oyları sayar ve  en çok 
+               oy alan adaylar,  Komisyon  olarak  seçilmiş olur ve  
+               Komisyonun, üç yılı aşmamak üzere, tüzük ile belirleyeceği bir 
+               süre için görev yapar.
+       (5)   Komisyon üyesi  olarak seçilen bir  kişi,   bu görevi  kabul
+               etmezse,  o  kişiden  sonra  en  fazla oy alan kişi, üyelik görevini
+               kabul  etmeyen  kişinin  yerine,   Kaymakamca,  Komisyon 
+               üyesi olarak atanır.
+       (6)   Komisyon üyeliğine aday gösterilip seçilen üye  sayısı,  
+               Komisyon için  öngörülen  üye sayısından  daha  fazla  değilse  
+               ve  seçilen üyelerden biri veya bir kaçı, üyelik görevini kabul 
+               etmezse,Kaymakam,   görevden kaçınan üye veya üyelerin 
+               yerine başka bir mal sahibini  veya  mal sahiplerini,  Komisyon  
+               üyesi  olarak atar.
+    (7) Seçilmiş  üyelere  ek  olarak,  köy  Muhtarı, görevi gereği Komisyonun doğal üyesi olur.
+               Ancak;
+        (a) Bir  köyde hem  Elen hem de  Türk  Muhtar varsa,  her  iki
+      Muhtar  da,  görevi  gereği Komisyonun doğal üyesi olur;
+        (b) Bir köyde birden  fazla Elen  veya  Türk Muhtar varsa veya  sulama bölgesi  gruplaştırılmış  bir  kaç  köyden
+      oluşmuşsa, Kaymakam,  mevkileri  gereği doğal  üye
+      olmaya  uygun  Muhtar  veya  Muhtarları,  Komisyonun
+      doğal  üyesi  olarak  atayabilir.
+    (8) Kaymakam,  Komisyona  Başkanlık  eder  ve her  konuda  oy
+         verme hakkına ve  oyların eşit  olması halinde, kendi oyuna ek
+         olarak ikinci  ve ayırt edici bir oy hakkına sahiptir.
+
+                   *   
+ 1960 Anayasasının 188’inci maddesinin 3 (c) paragrafı ve KKTC Anayasasının geçici 1’inci maddesi kurallarına dayanarak  İngilizce  metindeki "Administrative  Secretary" sözcükleri yerine konmuştur.
+Kaymakamın Komisyonların veya komisyon üyelerinin görevlerine son verme yetkisi
+
+11.   Kaymakam, 10’uncu madde  uyarınca  seçilen  bir Komisyonun  veya  böyle  bir  Komisyonun  herhangi  bir üyesinin görevini  ciddi  bir surette ihlâl ettiğine  kanaat getirmesi  halinde,  söz konusu  Komisyonun  veya  üyenin görevine son verebilir ve meydana gelen  boşalmanın doldurulması  için uygun göreceği  kişi veya  kişileri  atayabilir ve söz konusu kişi veya kişiler,  sulama bölgesi tüzüğü uyarınca,  zamanı geldiğinde, yeni bir  Komisyon seçilinceye kadar görevlerine devam ederler.
+
+Komisyon
+Üyeliklerinde  Boşalmalar.
+12.   Bir komisyonda,  Kaymakamca,  11’inci  madde  kuralları uyarınca bir  üyenin görevine son  verilmiş  olması dışında  bir  nedenle boşalma  meydana  gelirse,  söz  konusu boşalma, Komisyonun geriye kalan üyelerince, mal sahiplerinden birini üye olarak seçmek suretiyle doldurulur.
+
+Komisyonun genel yetkileri
+13.  (1)  Komisyon, sulama  tesislerinin  genel  gözetim  ve  denetiminden
+               sorumlu olur ve  Kaymakamın onayıyla;
+    (a) Sulama bölgesinin işletilmesi veya çalıştırılması ile ilgili
+                     Kaymakamca  onaylanan herhangi bir amaç için para
+                     borçlanabilir;
+    (b) Sulama  bölgesinde sulama  tesisleri ile ilgili  herhangi  bir  iş yapmak  üzere, uygun ve ehil kişiler atayabilir.
+       (2)   Herhangi bir borcun ana parasının ve  faizlerinin ödenmesini  
+               sağlamak ve güvenceye almak amacıyla,  Komisyon, sulama
+               tesislerini veya sulama bölgesinin diğer mallarını ve bu  Yasa
+               kuralları uyarınca  ödenen  vergi  veya  harçları,  borcu verenin
+               lehine ipotek  etme hakkına sahiptir ve bu hakka daima sahip
+               olmuş sayılır.
+
+Kaymakamın komisyon toplantılarında izlenecek yöntemi belirlemesi.
+
+14.   Komisyonun  oluşturulması üzerine,  Kaymakam,  toplantılarda: 
+        (a)   İzlenecek yöntemi; ve
+        (b)   Uygulanacak usulü; ve
+        (c)   Yetersayı olması için kaç kişinin hazır bulunması gerektiğini, 
+                belirler.
+Mal sahiplerinin ve arazilerin bir listesinin
+Komisyonca hazırlanması.
+15.  Komisyon, oluşturulmasından sonra mümkün olan en  erken bir zamanda,  mal sahiplerinin  adlarını ve ikâmetgâhlarını gösteren ve sulama tesislerinden yararlanan veya yararlanması muhtemel olan arazileri ve bu  gibi arazilerin yüzölçümünü ve boyutlarını gösteren bir liste hazırlar.
+Listenin hazırlanması ve asılması
+16.  (1)   15’inci  maddede  belirtilen  liste  hazırlandığında,   Komisyonun
+               Başkan ve  üyeleri  tarafından  imzalanır  ve  ilgili  köyde  veya
+               köyün mahallesinde veya Köylerde, herkesçe kolaylıkla
+               görülebilecek  bir yere asılır. 
+    (2) Listeye  itirazı  olan herhangi  bir kişi  veya liste  ile  hakları
+        zarara uğratılan herhangi bir  kişi, listenin yukarıda belirtildiği
+        biçimde asıldığı tarihten başlayarak on gün içinde
+        itirazını yazılı olarak Kaymakama sunar. Kaymakam,  itirazla
+        ilgili  kararını  verir  ve itiraz sahibi, Kaymakamın kararının
+        kendisine bildirilmesinden başlayarak  bir  hafta  içinde,
+        Kaymakamın kararının  gözden geçirilmesi için Bakanlar
+        Kuruluna başvuruda bulunmadığı  takdirde,  Kaymakamın
+        kararı  kesinleşir.
+         (3) Bakanlar Kurulunun,  Kaymakamın kararının gözden geçirilmesi
+                 konusunda  yapılan dilekçelerle ilgili kararları nihai ve
+                 kesindir.
+         (4)   Tüm  itirazlar  dinlenip karara  bağlandıktan sonra, söz konusu
+                 liste, içerdiği tüm konular bakımından nihai ve kesinleşmiş olur
+                 ve  bu listenin Komisyonun  Başkan  ve  üyeleri tarafından  
+                 imzalanmış bir sureti Kaymakamca muhafaza edilir.
+         (5)   Herhangi  bir  yargısal  işlemde,  söz konusu listenin içerdiği
+                 hususlardan herhangi biri ile ilgili  olarak ortaya bir sorun
+                 çıktığında,   bu konuda  Kaymakamca verilen  ve  Kaymakamın
+                 imzasını taşıyan bir belge, hukuk davalarına  bakan  tüm
+                 Mahkemelerce,   listenin içerdiği  hususlar  bakımından
+                 kesin kanıt olarak kabul edilir.
+    (6)  Komisyon her yıl listeyi  inceleme ve  listede değişiklik yapma
+        yetkisine sahiptir ve  esas listenin yapılması ve  esas  listeye
+                 yapılan  itirazlar  konusunda,  bu  Yasada öngörülen yöntem,  
+                 listenin değiştirilmesi ile ilgili  tüm  hususlarda da uygulanır.
+
+Tüzük Yapma Yetkisi
+
+
+
+
+
+
+
+
+(*)
+17.   (1)   Komisyon, Kaymakamca o amaç için çağrılan bir toplantıda, bu
+               Yasa kuralları uyarınca  oluşturulan  sulama  bölgesinin  oluşum
+                amaçlarının  yerine  getirilmesi  için,  bundan böyle "Tüzük" 
+                diye anılacak  kuralları hazırlar.
+    (2) Tüzük,  özellikle ve  yukarıdaki  yetkinin genelliği saklı kalmak koşuluyla:
+               (a)   Komisyonun görev süresini saptayabilir;
+               (b)  Veznedarın ve gerekli görülen diğer  görevlilerin atanmasını
+                       ve  onlara  ödenecek ücretleri  düzenleyen  kurallar  
+                       öngörebilir ve veznedarın ve  gerekli  görülen  diğer  
+                       görevlilerin görevlerini belirleyebilir;
+    (c)   Kaymakamca  onaylanmış  herhangi  bir bütçede yer  alan
+        sulama bölgesi faaliyetlerine  ilişkin  Kaymakamca
+        onaylanmış herhangi  bir amaç  için,  16’ncı  madde
+        kuralları  uyarınca  kesinleşmiş  listede  adı geçen
+        mal sahiplerine tarh edilecek ve onlar tarafından ödenecek  
+        en yüksek  vergi  veya harçların miktarını belirleyebilir; 
+                       Ancak, söz konusu  vergi veya  harçlar belirlenirken, bir
+                       mal sahibinin  veya arazinin sulama tesislerinden sağladığı 
+                       veya sağlayabileceği yarar  oranı  daima göz önünde 
+                       tutulur;
+    (d)  Söz konusu  vergi  veya  harçların  ne  biçimde  ve  hangi
+       tarihte veya  tarihlerde tarh edileceğini ve  ödeneceğini
+       belirleyebilir;
+    (e)  Listenin, 16’ncı  maddenin (6)’ncı fıkrası uyarınca
+       Komisyonca  her  yıl  hangi  tarihe kadar  incelenmesi
+       gerektiğini  belirleyebilir;
+    (f)  Sulama  bölgesinin yıllık bütçesinin onaylanmak üzere
+       Kaymakama hangi  tarihe kadar sunulacağını belirleyebilir;
+    (g)  Suyun kullanışını ve  sulama  tesisleriyle nakledilen suyun
+       hangi  oranda  dağıtılacağını düzenleyebilir;
+    (h) Sulama bölgesinin dağılmasının nasıl kararlaştırılabileceğini
+       ve bu hususta  izlenecek yöntemi belirleyebilir ve böyle
+       bir dağılma sırasında  Komisyon  veya  veznedarın  elinde
+       bulunan  paraların  elden çıkarılmasına ilişkin kural
+       öngörebilir.
+
+Tüzüğün
+hazırlanması ve asılması
+18.  (1)   Tüzük yapıldığında, Komisyonun Başkan  ve üyeleri tarafından
+               imzalanır  ve  ilgili  köyde  veya  ilgili köyün mahallesinde veya
+               ilgili  köylerde herkesçe kolaylıkla görülebilecek  bir yere asılır.
+    (2)  Tüzüğün ilk asıldığı tarihten başlayarak bir ay içinde, Tüzüğün
+        kurallarından herhangi  birine  itirazı  olan herhangi bir  kişi,
+        değiştirilmesi veya düzeltilmesi  için Bakanlar  Kuruluna
+        başvuruda bulunabilir.
+    (3)  Bakanlar Kurulu,  söz konusu başvuruyu  inceler  ve  karara
+        bağlar.  Bakanlar  Kurulunun bu husustaki kararı  nihai ve
+         kesindir.
+    (4)  Bakanlar Kurulunun bir kararı sonucu Tüzüğün değiştirilmesi
+        veya düzeltilmesi gerekirse, Bakanlar  Kurulu  gerekli  görülen
+       değişiklik  ve düzeltmeyi uygun  gördüğü biçimde  derhal  yapar.
+       Bakanlar  Kurulu  ayrıca söz konusu değişiklik ve  düzeltmenin
+       gerektirdiği ve Bakanlar Kurulunun duruma göre haklı ve  uygun
+       göreceği  düzenlemeyi  de,  Tüzüğün bütününde veya herhangi
+       bir kuralında yapar.
+
+Tüzüğün Resmi Gazetede yayımlanması
+
+19.  Tüzük,  tüm  itirazların görüşülmesinden ve  karara bağlanmasından  sonra,  Resmi  Gazetede  yayımlanır ve bunun üzerine içerdiği  tüm  hususlar  bakımından  bağlayıcı ve nihai olur.
+Tüzüğün 
+Değiştirilmesi.
+20.   Tüzük,  Komisyon  tarafından  zaman  zaman değiştirilebilir ve  esas Tüzüğün yapılması  ve esas Tüzüğe yapılan itirazlar konusunda, bu Yasada öngörülen yöntem, Tüzüğün  değiştirilmesi ile ilgili  tüm  hususlarda da uygulanır.
+
+Vergi veya harçların zamanında ödenmesinde temerrüt.
+44 , 48/1977
+(*)
+21. *Tüzük uyarınca belirlenen vergi ve harçlar,  Tüzükte belirlenmiş tarihte  ve  tarihlerde  ödenmezse, miktarları %10 oranında artırılır.  Esas vergi veya harçlar, söz konusu artışlarla birlikte, Kamu  Alacaklarının Tahsili  Usulü  Yasası  uyarınca  tahakkuk  eder  ve  tahsil edilir.
+
+
+Vergi ve Harçların Tahsili  (*)
+
+22. (48/1977 sayılı Kamu Alacaklarının Tahsili Yasasının 55’inci maddesi uyarınca Kamu Alacaklarının Tahsili Usulü Yasası  kurallarına  aykırı olması nedeniyle kaldırılması önerildiğinden Yasa metnine alınmamıştır.)
+Sulama bölgesinin dağılması üzerine ödünç alınan paraların ödenmesinin gerekliliği.
+3 , 6/1949
+23.   (1)   Bir sulama bölgesinin dağılması  üzerine, bu Yasada veya bu
+               Yasa uyarınca yapılan herhangi bir  Tüzükte öngörülen kurallara
+                bakılmaksızın,dağılan  sulama  bölgesinin, dağılma  zamanında,
+                borcu  olan  ve  kendisi tarafından  veya  adına alınmış bulunan
+                ödünç para veya avansların tümünün, vadesi gelmiş taksitleriyle
+                birlikte, bu Yasa uyarınca veya  yürürlükten  kaldırılmış Yasalar
+                uyarınca (yürürlükte  oldukları  sırada) alınmış olmalarına
+                bakılmaksızın, ödünç veya avansı veren kişiye ödenmesi
+                gerekir.
+         (2)  Bu maddenin (1)’inci fıkrası amaçları bakımından  "Yürürlükten
+                kaldırılmış  Yasalar",   1887  Sulama ve Su Yasasını ve 1931 ve
+                1934  Sulama Yasalarını anlatır.
+  
+Bütçe
+24.  Komisyon,  oluşturulmasından  sonra  mümkün olan en erken bir zamanda ve  ondan sonra her yıl,  müteakip  yılda  sulama  bölgesi  adına  yapılması  tasarlanan masraflar ile aynı  süre  içinde  sulama  bölgesince  sağlanması tasarlanan tahmini gelir miktarını ve mal sahiplerine tarh edilmesi tasarlanan vergi veya harçları gösteren bütçeyi onaylamak üzere Kaymakama sunar.
+
+Denetim
+25.   (1)   Sulama bölgelerinin  hesapları,  Kaymakamın zaman zaman
+                gerekli göreceği  tarihlerde ve Kaymakamın atayacağı  kişi
+                tarafından  denetlenir.  Komisyon  veznedarları, söz konusu
+                kişiye,  sulama bölgesinin tüm  defter ve hesaplarını ibraz
+                etmekle yükümlüdür.
+    (2)  Her  sulama  bölgesi  Komisyonu,  Kaymakamca zaman zaman
+ emredilecek   miktarda bir denetim ücreti öder.
+    (3)  (1)’inci fıkra uyarınca bir sulama bölgesinin hesaplarını
+        denetlemek üzere atanan kişinin raporu  Kaymakama   
+         gönderilir. Kaymakam da söz konusu raporun bir suretinin 
+        ilgili köyde veya mahallesinde veya gruplaştırılmış köylerin  
+        söz konusu olduğu durumlarda  bu  gibi köylerin  her  birinde,  
+        herkesçe kolaylıkla görülebilecek bir yere asılmasını sağlar.
+
+ 
+    • 21’inci madde, 48/1977 sayılı Kamu Alacaklarının Tahsili Usulü Yasasının 55’inci maddesi gereğince düzenlemeye bağlı tutulmuştur. 
+ 
+Kaymakamın geri ödemekle yükümlü kılma yetkisi
+26.   (1)   Denetçinin raporunu aldıktan sonra Kaymakam, sulama 
+                bölgesine ait herhangi bir para miktarının, uygunsuz ve  
+                kurallara  aykırı olarak harcandığı kanısına varırsa, böyle bir 
+                harcamadan sorumlu  olan  kişiyi,  söz konusu para  miktarını,   
+                sulama bölgesine  geri  ödemekle yükümlü kılabilir ve yazılı  
+                bir bildirimle, ona, bildirimde belirtilecek süre içinde parayı 
+                 ödemesi için çağrıda bulunur. 
+    (2) Bu şekilde  yükümlü  kılınan  kişi,  bildirimde belirtilen süre
+       içinde parayı  ödemezse,  söz konusu para, temerrüt eden 
+                kişiden, Kaymakamın açacağı bir dava ile,  özel alacak imiş gibi 
+                istirdat edilebilir.
+
+Paraların Kaymakamın emredeceği yere yatırılması.
+
+27. Komisyonun  veznedarının  elinde bulunan tüm paralar, Kaymakamın emredeceği yere yatırılır.
+Sulama bölgesinin adı
+
+28.   Bu  Yasanın  10’uncu  maddesi  uyarınca kurulan  bir sulama  bölgesi  "................................ Sulama  Bölgesi" adını taşır. (Boş bırakılan yere  Sulama Bölgesini  oluşturan köyün , mahallenin  veya köylerin adları yazılır.)
+
+Davalar ve yargısal işlemler
+
+
+29.   Bir sulama bölgesi  tarafından veya bir  sulama bölgesine karşı adına açılacak davalar veya başlatılacak yargısal  işlemler, mal sahiplerini temsilen sulama bölgesi Komisyonunun veznedarı tarafından veya onun aleyhine açılır veya başlatılır.
+Bakanlar kurulunun bir sulama bölgesinin dağılmasını emretme yetkisi
+
+30.  Herhangi bir Tüzüğün içerdiği  kurallara bakılmaksızın, Bakanlar Kurulu, herhangi bir sulama bölgesinin dağılmasını emredebilir ve böyle bir emir sonucu izlenecek  yöntem  ve  dağılma  zamanında  komisyonun   ve veznedarın  elinde  bulunan  paralarla  ilgili  olarak  uygun göreceği direktifleri verebilir.
+Komisyonun dağıtılıp yerine bir veya birkaç kişinin görevlendiril-
+mesi 
+31. (1)   Bakanlar Kurulu, herhangi bir sulama bölgesi  Komisyonunun
+              görevlerini  gerektiği  biçimde  yapmadığı  hususunda  ikna
+              edilirse,   Resmi Gazetede yayımlayacağı bir Emirname ile,
+              Komisyonu dağıtabilir ve Emirnamede belirtilecek süre  için,
+              sulama  bölgesinin   işlerini yürütmek üzere,  bir veya birkaç 
+              uygun kişiyi atayabilir.
+    (2) Bu madde uyarınca atanan kişi veya kişilere bu Yasa uyarınca  veya ilgili sulama bölgesinin  Tüzüğü  uyarınca sulama  bölgesi komisyonunun sahip olduğu tüm yetkiler tanınır ve aynı haklar ve  görevler verilir.
+    (3) Kaymakam, bu  maddenin (1)’inci  fıkrası uyarınca atanan kişinin
+        veya kişilerin görev süreleri  sona erdiğinde,  bu  Yasa  uyarınca
+        veya komisyon seçimiyle ilgili  kurallar uyarınca yeni bir
+        Komisyonun seçilmesini sağlar.
+
+Kamulaştırma
+
+
+
+15/1962
+32.  Bakanlar Kurulu,  sulama işleri için araziye  gereksinme duyulduğu hususunda ikna edilirse ve  ilgili  arazinin  iktisabını  engelleyici  bir  durum  varsa,  Bakanlar Kurulu, söz konusu araziye kamu amaçları için gereksinme duyulduğunu  ilân  eder  ve  böyle bir arazinin,  kamu  amaçları  için  arazi  iktisabını  öngören Zorla Mal İktisabı Yasası uyarınca iktisabı ve  ilgili  taraflara ödenecek tazminatın kararlaştırılması için gerekli  işlemlerin yapılmasını emredebilir.
+
+Araziye girme yetkisi
+33.  Bu Yasa kuralları uyarınca veya bu Yasa uyarınca yapılan Tüzük kuralları uyarınca herhangi bir  iş  yapmak  üzere  Komisyonca  atanan  herhangi  bir  kişi, köyün veya köyün  mahallesinin Muhtarına  bildirimde bulunduktan sonra, bizzat veya vekilleri  veya  müteahhitleri aracılığıyla, işi yapmak amacıyla söz konusu köyde veya mahallede bulunan  herhangi  bir  araziye  girebilir  ve  orada işin yapılması için gerekli olan her şeyi yapabilir ve kesilmesini veya kaldırılmasını  gerekli  gördüğü ağaçları,  çitleri, duvarları veya başka şeyleri  kesebilir veya kaldırabilir.
+
+Tazminat ödenmesi
+34.   (1)   33’üncü  maddenin  verdiği  yetkilerin kullanılması sırasında 
+                yok edilen veya zarara uğratılan tüm mallar için sahiplerine, 
+                sulama bölgesinin  mal sahiplerince tazminat  ödenir.
+    (2) Bu şekilde  yok  edilen  veya  zarara uğratılan bir mal için
+        tazminat talep etmek isteyen herhangi bir kişi, talebini yok 
+        etme veya zarara uğratma tarihinden başlayarak otuz gün içinde
+        malın bulunduğu köyün veya mahallenin  Muhtarına yazılı bir
+        bildirimde bulunur. 
+    (3) Tazminatın niteliği ve  miktarı ve her  mal sahibinin  katkı  oranı, malın  bulunduğu  köyün veya mahallenin Muhtar ve  Azaları tarafından  (2)’nci  fıkrada  belirtilen  bildirimin Muhtar
+        tarafından  alınmasından  başlayarak on  dört  gün  içinde
+        kararlaştırılır.
+    (4) Her meselede Muhtar ve azaların kararı iki suret halinde yazıya
+       dökülür ve her iki suret de Muhtar ve Azalar tarafından 
+        imzalanır ve mühürlenir. Suretlerin  biri İlçenin Kaymakamına  
+        gönderilir, öteki  de tazminat talebinde  bulunan  kişiye verilir.  
+        Karar,  Muhtar  ve  Azaların uygun gördüğü biçimde köyde de
+        yayımlanır.
+    (5) Muhtar ve  Azalar,  (4)’üncü  fıkranın kendilerine yüklediği
+        görevleri yerine getirmeyi ihmal  ederlerse,  Kaymakam, 
+        etkilenen kişinin  başvurusu  üzerine,   bu  madde  uyarınca
+        ödenmesi gereken tazminatın niteliğini ve  miktarını
+        kararlaştırmak üzere (bundan böyle "hakemler" diye anılacak)
+        iki kişi tayin eder.
+    (6) Hakemler,  derhal,  tazminatın  niteliğini  ve miktarını
+        kararlaştırmak üzere harekete geçerler ve aralarında bir
+        anlaşmaya varamadıkları  takdirde,   mesele  üst hakem  olarak
+        Tapu ve  Kadastro  Dairesi Müdürüne  veya Tapu  ve  Kadastro
+        Dairesi  Müdürü tarafından  yöntemine  uygun  olarak
+        yetkilendirilmiş  temsilcisine havale edilir.
+    (7) Hakemlerin veya duruma göre Tapu ve Kadastro  Dairesi
+        Müdürünün veya Tapu  ve Kadastro Dairesi  Müdürü tarafından
+        yöntemine uygun olarak yetkilendirilmiş temsilcisinin kararı, iki
+        suret halinde yazıya dökülür ve her iki suret de hakemler  veya
+        üst hakem tarafından imzalanarak suretlerden biri Kaymakama
+        gönderilir,  öteki  de  tazminat talep eden  kişiye  verilir.  Karar
+        aynı zamanda, Kaymakamın uygun göreceği biçimde köyde  de
+        yayımlanır.
+    (8) Bu maddenin (4)’üncü ve (7)’nci fıkraları uyarınca verilen her
+        karar, etkilediği tüm kişiler bakımından bağlayıcı ve kesindir;
+        ancak etkilenen herhangi  bir  kişi,  karar  tarihinden başlayarak
+        on dört  gün  içinde,  kararın  gözden geçirilmesi  için Bakanlar
+        Kuruluna  yazılı  olarak  başvuruda  bulunabilir  ve Bakanlar
+        Kurulunun  söz konusu  başvuru  ile ilgili  olarak  verdiği  karar,
+        etkilediği  tüm kişiler için her bakımdan bağlayıcı ve  kesin
+                olur.
+
+Tazminatın ödenme ve tahsil yöntemi.
+35.    Bu Yasanın 32’nci ve 34’üncü maddeleri kuralları uyarınca tazminat
+olarak  takdir  edilen  her  para  miktarı, mal sahiplerine,   Tüzük uyarınca  ödedikleri  paralara ek olarak orantılı bir şekilde tarh olunur ve mal sahipleri tarafından ödenir. Söz konusu para miktarı, Tüzük uyarınca tarh olunan ve ödenen para  miktarları  gibi  tarh olunur ve  ödenir.
+        Ancak,  veznedarın  veya  Komisyonun  elinde,  belirtilen maddeler uyarınca tazminat  olarak ödenecek para miktarını karşılamaya yeterli  para varsa,  söz konusu  tazminat o paradan ödenir.
+
+Temyiz
+Kudretinden yoksun  kişiye tazminatın ödenme
+yöntemi.
+36.   Bu Yasa uyarınca tazminat  almaya hak kazanan herhangi bir kişi, temyiz kudretinden yoksun ise veya Kuzey  Kıbrıs  Türk  Cumhuriyeti  dışında  bulunuyorsa, tazminat  olarak  almaya  hak ettiği  para,  vasisine  veya yöntemine uygun olarak yetkili kılınmış  temsilcisine ödenir.  (vasisinin  veya  temsilcisinin  vereceği  bir  alındı  belgesi,  tazminatın ödendiğine dair yeterli kanıt sayılır.)  Böyle bir vasinin veya temsilcinin bulunmaması  halinde  para, tazmin edilecek malın bulunduğu ilçenin Kaza Mahkemesine yatırılır ve mahkemenin vereceği  direktife  göre,  tazminata hak kazanan kişinin yararına kullanılır.
+
+Kaymakamın sulama işlerine konulan engellerin kaldırılmasını emretme veya onları kaldırma yetkisi
+37.   Kaymakam,  haksız  olarak  sulama  tesislerinin işletilmesini, çalıştırılmasını veya faaliyette bulunmasını engelleyen veya onlara tecavüz eden herhangi bir kişiyi, sözlü olarak veya yazılı bir  bildirimde bulunmak suretiyle, söz konusu engeli  veya  tecavüzü  hemen  kaldırması veya gidermesi  için  emir  verebilir.  Kendisine  böyle  bir emir verilmiş bulunan kişinin makûl bir süre içinde emri yerine  getirmeyi  reddetmesi veya  ihmal  etmesi  durumunda, veya emrin  kime  verilmesi  gerektiğinin şüpheli olduğu durumlarda, Kaymakam,  engel veya tecavüzün derhal kaldırılmasını veya giderilmesini  sağlayabilir  ve  bu amaçla,  Kaymakamın  bizzat  kendisi  veya  temsilcileri, herhangi bir bahçeye, etrafı  çevrilmiş yere  veya başka yerlere, gerekli araç ve şeylerle birlikte girebilir ve  orada  engel  veya  tecavüzün  kaldırılması  veya  giderilmesi için gerekli olan her şeyi yapabilir veya yapılmasını sağlayabilir.
+Kaymakam,  engel  veya  tecavüzün  kaldırılması veya giderilmesi  için iyi niyetle yapılan masrafları,  söz konusu emri yerine getirmemekle  masraflara neden olan taraftan veya emrin verilmiş olması gereken kişi olduğu sonradan ortaya çıkarılan kişiden  istirdat etme hakkına sahiptir.
+
+Suçlar ve cezalar
+
+
+
+
+(*)
+
+
+
+2, 16/83
+
+
+
+
+(*)
+
+
+38.   (1)   (a)  Herhangi bir sulama  tesisine  bağlı  suyun  akışına  veya
+                      dağıtımına kasten müdahale eden; veya 
+    (b)  Herhangi bir sulama bölgesine bağlı suyu,  akar  durumda
+       olsun  veya  olmasın, çalan veya kendisi veya başka bir kişi
+        tarafından kullanılmak üzere yönünü değiştiren;             
+        herhangi bir kişi, bir suç işlemiş olur ve bir aya kadar hapis
+        cezasına veya  on  liraya  kadar  para  cezasına veya her iki
+                       cezaya birden çarptırılabilir.
+    (2) (a)   Kaymakamı veya Kaymakamın görevlendirdiği herhangi  
+               bir kişiyi veya Kaymakamın temsilcilerini veya  
+               müteahhitlerini veya  bu  Yasa  uyarınca  herhangi  bir iş 
+              yapmak üzere görevlendirilen herhangi bir  kişiyi,  görevini  
+               yerine getirmekten men eden; veya 
+    (b)   Bu Yasa uyarınca  yapılan  herhangi  bir Tüzük kurallarına
+                       aykırı  davranan veya onlara uymayı ihmal eden, 
+              herhangi bir kişi, bir  suç işlemiş olur ve  250  Kıbrıs Lirasına 
+              kadar para cezasına çarptırılabilir.
+Kaymakamın görev ve yetkilerini devretme yetkisi
+39.   Kaymakam, bu Yasa kuralları uyarınca kendisine verilen  görev  ve  yetkilerin  tümünü  veya  herhangi birini,  imzasını taşıyan yazılı  bir  belge  ile  herhangi  bir kişiye devredebilir.
+Bazı durumlarda istinafa gidilememesi
+(*)
+40.   Bu Yasada herhangi bir kararın veya başka işlem  veya  eylemin  nihai ve kesin  olacağı  öngörülürse,  böyle  bir   karar veya işlem  veya eyleme  karşı,  Yüksek  Mahkemeye veya herhangi başka bir Mahkemeye istinaf edilemez.
+Cezaların nereye ödeneceği
+41.  Bu  Yasa  kurallarına  veya  bu  Yasa  uyarınca yapılan  Tüzük  kurallarına  aykırı  davranışlar  için kesilen para cezaları  ilgili  sulama bölgesi  komisyonun veznedarına ödenir.
+Bağışıklık
+42.   (1)    Bu Yasa kuralları, Tapu ve Kadastro  Dairesinde kayıt yoluyla
+                veya çok eskiden beri zilyetlik yolu ile herhangi bir kişinin, 
+                tüzel kişinin veya  köyün  malı  olan  sulara, söz konusu kişinin, 
+                tüzel kişinin veya köydeki  ev sahiplerinin çoğunluğunun rızası
+                alınmadan uygulanmaz. 
+                       Ancak,  birkaç hissedara ait  özel  suların söz konusu  
+                olduğu durumlarda,  hissedarların çoğunluğunun  rızası  ile,  bu 
+                 Yasa kuralları, bu  gibi sulara  uygulanabilir.
+    (2)  Bu maddede;
+         "ev sahibi",  vergi  ödeyip  ödemediğine  bakılmaksızın,   
+         köyün on  sekiz  yaşını  doldurmuş her erkek  sakinini  veya  
+         köyün herhangi  bir şekilde vergi ödeyen on sekiz yaşını  
+        doldurmuş her kadın sakinini anlatır.
+    (3)   Bu madde ile ilgili olarak, duruma  göre  ev sahiplerinin veya 
+         hissedarların çoğunluğunun görüşleri,  Kaymakamın  
+         kararlaştıracağı  biçimde Kaymakamca saptanır.
+
+Yasayı kentlere veya kentlerin mahallelerine uygulama yetkisi
+43.    (1)    Bakanlar  Kurulu,  herhangi  bir  kentte  veya bir kentin
+                 herhangi  bir  mahallesinde,  bu Yasa kuralları uyarınca
+                 yapılacak sulama tesislerinden yararlanabilecek arazi
+                 bulunduğuna ikna edilirse, Resmi Gazetede  yayımlayacağı bir
+                 Emirname ile,  o kentte veya  mahallede bir sulama bölgesi
+                 oluşturulmasına yetki verebilir.
+          (2)   Bu  maddenin  (1)’inci fıkrasında  öngörüldüğü biçimde bir
+                  emirnamenin yayımlanması üzerine,  Kaymakamın  3’üncü
+                  madde kuralları  uyarınca genel  bir  toplantı  çağırması  
+                  yasaldır. Böyle bir  toplantının  çağrılmasından sonra, bu  Yasa
+                  kuralları  gerekli değişikliklerle, emirnamede adı  geçen  kente
+                  veya kentin  mahallesine, bir köy veya köyün  mahallesi imiş
+                  gibi uygulanır.
+Koruma
+44.  (a)   Bu Yasa ile yürürlükten kaldırılan Yasalar*  uyarınca oluşturulan
+              tüm  sulama  bölgeleri,  bu  Yasa  kuralları uyarınca                 
+             oluşturulmuş  sulama bölgeleri sayılır;
+    (b) 10’uncu maddenin (9)’uncu fıkrası kurallarına bağlı  kalınması
+        koşuluyla,  bu  Yasa  ile  yürürlükten kaldırılan Yasalar*
+        uyarınca oluşturulan  tüm komisyonlar,  bu Yasa kuralları
+        uyarınca  oluşturulmuş komisyon sayılır;
+    (c)  Bu Yasa ile yürürlükten kaldırılan Yasalar*  uyarınca yapılan
+       veya inşa  edilen  tüm  sulama  tesisleri, bu  Yasa  kuralları
+        uyarınca  yapılmış veya inşa edilmiş sayılır;
+    (d) Bu Yasa ile yürürlükten kaldırılan Yasalar*  uyarınca yapılan
+       tüm  Tüzükler geçerli  olmaya  devam  eder  ve  bu  Yasa
+       kuralları  uyarınca yapılmış sayılır;
+    (e) Bu Yasa ile yürürlükten kaldırılan Yasalar* uyarınca  yapılan
+       veya  inşa  edilen  sulama tesisleri  ile  ilgili  olarak  verilen
+       ödünçler veya avanslar veya  yapılan  masraflar  veya üstlenilen
+      yükümlülükler geçerli ve  etkili olmaya  devam  eder  ve  vadesi
+      gelmiş  ve ödenmesi gereken paralar veya taksitler, bu Yasa
+      yapılmamış gibi  ödenir ve  tahsil edilir.
+     -----------------------------------------------------------------------------
+
+    • 1931 ve  1934 Sulama Yasaları bu Yasa ile yürürlükten kaldırılmıştır.
+    • --------------------------------------------------------------------------------
+
+
+
+

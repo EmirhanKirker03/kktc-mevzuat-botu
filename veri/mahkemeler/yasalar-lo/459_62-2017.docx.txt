@@ -1,0 +1,2482 @@
+﻿
+Kuzey Kıbrıs Türk Cumhuriyeti Cumhuriyet Meclisi’nin 6 Kasım 2017 tarihli Seksenyedinci Birleşiminde Oybirliğiyle (32 oyla)  kabul olunan “Kuzey Kıbrıs Türk Cumhuriyeti Bankacılık Yasası” Anayasanın 92’inci maddesinin (1)’inci fıkrası gereğince Kuzey Kıbrıs Türk Cumhuriyeti Cumhurbaşkanı tarafından Resmi Gazete’de yayımlanmak suretiyle ilan olunur.
+
+Sayı : 62/2017
+
+
+
+KUZEY KIBRIS TÜRK CUMHURİYETİ BANKACILIK YASASI
+(22/2020 sayılı değişiklik yasasıyla değiştirilmiş ve birleştirilmiş şekliyle)
+
+Kuzey Kıbrıs Türk Cumhuriyeti Cumhuriyet Meclisi aşağıdaki Yasayı yapar:
+
+Kısa İsim
+1. Bu Yasa, Kuzey Kıbrıs Türk Cumhuriyeti Bankacılık Yasası olarak isimlendirilir.
+
+BİRİNCİ KISIM
+Genel Kurallar
+
+Tefsir
+2. Bu Yasada metin başka türlü gerektirmedikçe;
+
+“Bakanlık”, Para, Kambiyo ve İnkişaf Sandığı İşleri Dairesinin bağlı olduğu Bakanlığı anlatır.
+
+“Banka”, bu Yasa altında izin alarak faaliyet gösteren Kuzey Kıbrıs Türk Cumhuriyetinde kurulu mevduat bankaları, katılım bankaları, kalkınma ve yatırım bankaları ile yurt dışında kurulu olup, Kuzey Kıbrıs Türk Cumhuriyetinde şube açmak suretiyle faaliyet gösteren şube bankalarını anlatır.
+
+“Çekirdek Sermaye”, esas, unsur ve oranları, uluslararası standartlar da dikkâte alınmak suretiyle Merkez Bankası tarafından belirlenen sermayeyi anlatır.
+
+“Destek Hizmeti”, bankaların sundukları ana hizmetlerin uzantısı veya tamamlayıcısı niteliğinde olup, dışardan sağlanan hizmetleri anlatır.
+
+“Destek Hizmeti Kuruluşu”, bankaların, mevduat veya katılım fonu kabulü, nakdî, gayrinakdî her cins ve kredi verme ve bu Yasanın uygulamasında risk sayılan işlemler dışında kalan faaliyetlerini banka adına gerçekleştiren veya reklâmının yapılması hariç olmak üzere, mevduat veya katılım fonu kabulü ile kredi işlemleri dışındaki faaliyetlerinden herhangi birinin pazarlanması da dâhil, bankaya yardımcı nitelikte hizmet veren kuruluşları anlatır.
+
+“Döngüsel Sermaye Tamponu”, özkaynakların sermaye yeterliliğine ilişkin düzenlemelere göre yetersiz kalmasının önüne geçilmesi amacıyla Merkez Bankası tarafından belirlenen esaslara göre bulundurulması gereken ilave çekirdek sermaye tutarını anlatır.
+
+“Finansal Kuruluş”, bu Yasanın 23’üncü maddesinin (2)’nci fıkrasında yer alan faaliyet konularından en az birini yürütmek için kurulan ve finans sektöründe faaliyet gösteren kuruluşları anlatır.
+
+“Fon”, Tasarruf Mevduatı Sigortası ve Finansal İstikrar Fonunu anlatır.
+
+“Gayrimenkul Değerleme Şirketleri”, bir gayrimenkulün, gayrimenkul projesinin veya bir gayrimenkule bağlı hak ve faydaların belli bir tarihteki muhtemel değerinin bağımsız ve tarafsız olarak, bu değeri etkileyen gayrimenkulün niteliği, piyasa ve çevre koşullarını analiz ederek, uluslararası alanda kabul görmüş değerleme standartları çerçevesinde yazılı olarak raporlayabilecek düzeyde bilgi ve tecrübe sahibi değerleme uzmanları vasıtasıyla takdir edilmesi konusunda faaliyet gösteren hizmet şirketlerini anlatır.
+
+“İçsel Sermaye”, esas, unsur ve oranları, uluslararası standartlar da dikkâte alınmak suretiyle Merkez Bankası tarafından belirlenen, bankaların maruz kaldıkları ve kalabilecekleri riskleri karşılayacak düzeyde içsel olarak hesapladıkları sermayeyi anlatır.
+
+“Hâkim Hissedar”, bir tüzel kişiliği doğrudan veya dolaylı olarak tek başına veya birlikte kontrol eden kişiyi anlatır.
+
+“Kalkınma ve Yatırım Bankası”, bu Yasa uyarınca mevduat veya katılım fonu kabul etme dışında, kredi kullandırmak esas olmak üzere, faaliyet gösteren ve/veya özel yasalarla kendilerine verilen görevleri yerine getiren kuruluşları anlatır.
+
+“Katılım Bankası”, bu Yasa uyarınca kendi nam ve hesabına katılım fonu kabul etmek ve kredi kullandırmak esas olmak üzere faaliyet gösteren kuruluşları anlatır.
+
+“Katılım Fonu”, herhangi bir getiri olmadan veya kâr-zarar ortaklığı esasına göre önceden belirlenmiş bir getiri veya anaparanın aynen geri ödenmesi garantisi olmaksızın, istendiğinde veya belli bir vadede geri ödenmek üzere kabul edilen ve menkul kıymete konu olmayan parasal kıymetleri anlatır.
+
+“Kişi”, gerçek veya tüzel kişileri anlatır.
+
+“Konsolide Denetime Tabi Şirketler”, uluslararası standartlar da dikkâte alınmak suretiyle Merkez Bankası tarafından belirlenen banka ile konsolide esasta denetime tabi olacak banka grubundaki şirketleri anlatır.
+
+“Konsolide Özkaynak,” esas, unsur ve oranları, uluslararası standartlar da dikkâte alınmak suretiyle Merkez Bankası tarafından belirlenen, konsolide esasta çekirdek sermaye, ilave ana sermaye ve katkı sermaye toplamı ile bu toplamdan sermayeden indirilecek değerlerin düşülmesi sonucu bulunacak tutarı anlatır.
+
+“Kontrol”, bir tüzel kişiliğin sermayesinin veya oy haklarının doğrudan veya dolaylı olarak yarıdan fazlasına veya yönetiminde çoğunluğu sağlayacak etkiye sahip olma durumunu anlatır.
+
+“Merkez Bankası”, Kuzey Kıbrıs Türk Cumhuriyeti Merkez Bankasını anlatır.
+
+“Mevduat”, herhangi bir getiri olmadan veya önceden belirlenmiş bir getiri karşılığında, istendiğinde veya belli bir vadede geri ödenmek üzere kabul edilen ve menkul kıymete konu olmayan parasal kıymetleri anlatır.
+
+“Mevduat Bankası”, bu Yasa uyarınca kendi nam ve hesabına mevduat kabul etmek ve kredi kullandırmak esas olmak üzere faaliyet gösteren kuruluşları anlatır.
+
+“Nitelikli Pay Sahibi”, bir tüzel kişiliğin, sermayesinin veya oy haklarının doğrudan veya dolaylı olarak yüzde on veya daha fazlasına veya bu oranın altında olsa dahi yönetim kurullarına üye belirleme imtiyazı veren payları veya yönetiminde önemli derecede etkiye sahip olma durumunu anlatır.
+
+“Özkaynak”, esas, unsur ve oranları, uluslararası standartlar da dikkâte alınmak suretiyle Merkez Bankası tarafından belirlenen, çekirdek sermaye, ilave ana sermaye ve katkı sermaye toplamı ile bu toplamdan sermayeden indirilecek değerlerin düşülmesi sonucu bulunacak tutarı anlatır.
+
+“Sermaye Koruma Tamponu”, ekonomik ve mali göstergelerin bozulması durumunda karşılaşılabilecek kayıplar nedeniyle özkaynakların sermaye yeterliliğine ilişkin düzenlemelere göre yetersiz kalmasının önüne geçilmesi amacıyla bankalarca bulundurulması gereken ilave çekirdek sermaye tutarını anlatır.
+
+“Sistemik Risk”, finansal sistemin tamamında ya da bir kısmında bozulmalardan kaynaklanan ve reel ekonomi için ciddi negatif sonuç potansiyeline sahip olan finansal hizmetlerdeki bozulma riskini anlatır.
+
+“Şube”, elektronik işlem cihazlarından ibaret birimleri hariç, bankaların bağımlı bir parçasını oluşturan ve bu kuruluşların faaliyetlerinin tamamını veya bir kısmını kendi başına yapan, sabit veya seyyar bürolar gibi her türlü işyerini anlatır.
+
+“Şube Bankası”, Kuzey Kıbrıs Türk Cumhuriyetinde sadece bir şube açmak suretiyle faaliyet gösteren, merkezi yurt dışında bulunan mevduat bankaları, katılım bankaları ile kalkınma ve yatırım bankalarını anlatır.
+
+“Temsilcilik”, bankaların bir temsilci tarafından sevk ve idare olunan yurtdışındaki irtibat büroları ile yurtdışında kurulu bankaların bir temsilci tarafından sevk ve idare olunan Kuzey Kıbrıs Türk Cumhuriyetindeki irtibat bürolarını anlatır.
+
+“Üst Düzey Yöneticiler”, Kuzey Kıbrıs Türk Cumhuriyetinde kurulu bankalarda iç sistemlerden sorumlu ve/veya benzeri şekilde daha özel sorumluluklar yüklenen yönetim kurulu üyelerini ve genel müdür veya genel müdür yardımcılarıyla, şube bankalarında Kuzey Kıbrıs ülke/genel müdürü veya Kuzey Kıbrıs ülke/genel müdür yardımcılarını veya bunların muadillerini anlatır.
+
+“Üst Yönetim”, bankalarda yönetim kurulu üyesi, üst düzey yönetici veya bunlara muadil konumlarda yönetici olarak görev yapanları anlatır.
+
+“Varlık Yönetim Şirketi’’, Tasarruf Mevduatı Sigortası ve Finansal İstikrar Fonu, bankalar ve diğer finansal kuruluşların alacakları ile diğer varlıklarının satın alınması, tahsili, yeniden yapılandırılması ve satılması amacına yönelik olarak faaliyet göstermek üzere bu  Yasa hükümlerine göre izin alarak kurulan şirketleri anlatır.
+
+“Yöneticiler”, bankaların üst düzey yöneticileri ile organizasyon şemalarında üst düzey yöneticilere doğrudan bağlı birimlerden herhangi birini yönetmekle yetkili olan kişileri anlatır.
+
+Amaç 
+3. Bu Yasanın amacı, finansal piyasalarda güven ve istikrarın sağlanmasına ve sürdürülmesine, tasarruf sahiplerinin hak ve menfaatlerinin korunmasına, finansal aracılık sisteminin etkin bir şekilde çalışmasına ilişkin kuralları düzenlemektir.
+
+Kapsam
+4. Kuzey Kıbrıs Türk Cumhuriyetinde faaliyet gösteren bankalar, bu Yasa kuralları kapsamındadır. Özel yasalarla kurulmuş olan bankalar hakkında da, yasalarında yer alan kurallar saklı kalmak kaydıyla, bu Yasa kuralları uygulanır. Merkez Bankası, bu Yasa ve bu Yasa ile ilgili diğer yasa kuralları uyarınca kendisine verilen yetkilerini bu Yasada belirlenen tebliğleri çıkararak, düzenleyici işlemler tesis ederek veya özel nitelikli kararlar alarak kullanır.
+
+
+Yetki ve Görev
+5. Merkez Bankası, bu Yasa ve bu Yasa ile ilgili diğer yasaların verdiği yetkiler uyarınca düzenlemeler yapmak suretiyle finansal piyasalarda güven ve istikrarın sağlanması, tasarruf sahiplerinin hak ve menfaatlerinin korunması, kredi sisteminin etkin bir şekildeçalışması ve mali sektörün gelişmesi için gerekli tedbirleri almaya, uygulamayı sağlamaya, denetlemeye ve sonuçlandırmaya, bankalar ve finansal iştirakleri ve finansal bağlı ortaklıklarının konsolide esasta denetimini yapmaya, konsolide denetime tabi şirketleri belirlemeye yükümlü ve yetkilidir.
+
+İKİNCİ KISIM
+Kuruluş ve Faaliyet İzinleri ve İzne Tabi Diğer İşlemler, Birleşme ve Devire İlişkin Kurallar
+
+Banka Kurucusu Olma Koşulları
+
+6. Kuzey Kıbrıs Türk Cumhuriyetinde, banka kurucusu olma koşulları aşağıdaki gibidir;
+
+
+(1)
+Gerçek kişi hissedarlar için:
+
+
+
+(A)
+Affa uğramış ve/veya sabıka kaydı silinmiş olsa bile;
+
+
+
+
+(a)
+Herhangi bir yasa kuralına aykırılıktan bir yıldan fazla hapis cezasına çarptırılmış olmaması,
+Fasıl 154
+3/1962
+43/1963
+15/1972
+20/1974
+31/1975
+6/1983
+22/1989
+64/1989
+11/1997
+20/2004
+41/2007
+20/2014
+  45/2014
+
+31/2009
+57/2011
+1/2012
+38/2015
+
+4/1972
+16/1977
+54/1977
+36/1982
+37/1989
+38/1991
+42/2004
+
+4/2008
+   73/2009
+
+
+
+
+(b)
+Ceza Yasası veya diğer yasalar uyarınca Devletin egemenlik, güvenlik ve saygınlığına,  Anayasal düzene karşı işlenen suçlar, taammüdenkatillik, taammüden katilliğe teşebbüs, adam öldürme, adam öldürmeye teşebbüs etme, cinsel saldırı, cinsel taciz, cinsel tecavüz ve bu suçlarateşebbüs etme, zimmet, ihtilas, irtikâp, rüşvet, hırsızlık, dolandırıcılık, sahtekârlık, görevi kötüye kullanma, hileli iflas, kaçakçılık, Resmî ihale ve alım satımlara fesat karıştırma, vergi kaçırma suçlarından, bu suçlara iştirakten suçlu bulunmamak, itibarı iade edilmemiş müflis, hilekârlık gerekçesiyle şirket yönetmekten men edilmiş olmamak, Şans Oyunları Yasası, Uyuşturucu Maddeler Yasası, Suç Gelirlerinin Aklanmasının Önlenmesi Yasası veya bu Yasalar altında çıkarılan mevzuat kurallarına aykırılıktan yargılanıp mahkum edilmiş olmaması,
+
+
+
+
+(c)
+Finansal kuruluşlara ilişkin mevzuata aykırılıktan yargılanıp mahkum edilmiş olmaması,
+
+
+
+(B)
+Yukarıdaki (A) bendinde belirtilen suçlar nedeniyle halen süren bir soruşturma, kovuşturma veya devam eden bir davası olmaması,
+
+
+
+(C)
+Yönetimi ve denetimi Fona devredilen bankalarda Fona devredildiğinde veya faaliyet izni kaldırılan finansal kuruluşlarda faaliyet izni kaldırıldığında, nitelikli paya sahip olmaması veya kontrolü elinde bulundurmaması,
+
+
+
+(Ç)
+Pay sahiplerinin gönüllü tasfiyesi hariç, tasfiye edilmiş, konkordato ilân etmiş veya müflisilan edilmiş olmaması, ve
+
+
+
+(D)
+İşin gerektirdiği mali güç, itibar ve yeterliliğe sahip olması, 
+
+
+
+şarttır.
+
+
+(2)
+Tüzel kişi hissedarlar için;
+
+
+
+(A)
+Risk grubu ile birlikte şeffaf ve açık hissedar yapısına sahip olması, ve
+
+
+
+(B)
+Nitelikli paya sahip gerçek kişi hissedarlar için yukarıdaki (1)’inci fıkrada yer alan nitelikleri taşıması,
+
+
+
+şarttır.
+
+
+(3)
+Kuzey Kıbrıs Türk Cumhuriyeti dışındaki ülkelerin yurttaşı olan ve/veya Kuzey Kıbrıs Türk Cumhuriyeti dışındaki ülkelerde ikamet eden kişilerin ilgili ülkenin mali bilgi edinme ve muadili herhangi bir uluslararası otorite tarafından yayımlanan karapara aklama ve terörizmin finansmanı konulu listelerinde yer almaması şarttır.
+
+
+(4)
+Kuzey Kıbrıs Türk Cumhuriyeti dışındaki ülkelerin yurttaşı olan ve/veya Kuzey Kıbrıs Türk Cumhuriyeti dışındaki ülkelerde ikamet eden kişilerin değerlendirilmesinde Kuzey Kıbrıs Türk Cumhuriyeti mevzuatı yanında ilgili ülkelerin mevzuatı da dikkâte alınır vekendi ülkelerinde banka kurucusu olma vasfına haiz olmayanların başvuruları dikkate alınmaz. 
+
+Banka Kuruluş Koşulları
+Fasıl 113
+28/1974
+7/1977
+30/1983
+28/1987
+65/1989
+56/1991
+42/1997
+29/2003
+35/2007
+7. Kuzey Kıbrıs Türk Cumhuriyetinde kurulacak bankalarda, aşağıdaki kuruluş koşulları aranması şarttır:
+
+
+(1)
+Şirketler Yasası uyarınca halka açık limited şirket olarak kurulması,
+
+
+(2)
+Şirket adında banka olarak faaliyet göstereceğini belirten ibare bulunması,
+
+
+(3)
+Sermayesinin her türlü muvazaadan ari olarak en az 20.000.000.-TL (YirmiMilyon Türk Lirası) olması, ancak Merkez Bankası öngörülen  buasgari sermaye miktarını gerektiğinde ve ihtiyaca uygun olarak dört katına kadar artırmaya yetkilidir.
+
+
+(4)
+Ana sözleşme ve tüzüklerinin bu Yasa kurallarına uygun olması,
+
+
+(5)
+Gözetim ve denetimini engelleyici nitelikte herhangi bir hususun bulunmaması, ve
+
+
+(6)
+Planlanan mali yapı ve organizasyonunun öngörülen faaliyetlerle uyumlu olması.
+
+Şube Bankası Açma Koşulları
+8.
+(1)
+Kuzey Kıbrıs Türk Cumhuriyetinde, şube açmak suretiyle şube bankası olarak faaliyet gösterecek merkezi yurt dışında bulunan bankalarda aşağıdaki koşulların aranması şarttır:
+
+
+
+(A)
+Kuruldukları veya faaliyette bulundukları ülkelerde bankacılık işlemleri yapmalarının yasaklanmamış olması,
+
+
+
+(B)
+Merkezinin bulunduğu ülkenin, yetkili gözetim ve denetim makamının Kuzey Kıbrıs Türk Cumhuriyetinde faaliyet göstermesine ilişkin olumlu görüşünün bulunması,
+
+
+
+(C)
+Bu Yasanın 7’nci maddesinin (3)’üncü, (5)’inci ve (6)’ncı fıkralarında belirtilen şartları taşıması, ve
+
+
+
+(Ç)
+Merkezinin bulunduğu ülkenin mali bilgi edinme birimi veya muadili herhangi bir uluslararası otorite tarafından yayımlanan karapara aklama ve terörizmin finansmanı konulu listelerde yer almaması.
+
+
+(2)
+Birden fazla şube ile faaliyet göstermek isteyen şube bankalar, Kuzey Kıbrıs Türk Cumhuriyetinde kurulu bankalarda aranan tüm koşulları yerine getirmelerini müteakip, yeni lisans için başvurabilirler.Bu şekilde yapılan başvuru,bu Yasanın 10’uncu maddesinin (2)’nci fıkrasının (C) bendi koşulundan muaftır.
+
+Banka Kuruluş İzni 
+veya Şube Bankası
+Açma İzni
+
+9. Kuzey Kıbrıs Türk Cumhuriyetinde banka kurulması veya şube bankası açılması Merkez Bankasının iznine tabidir. İznin verilmesi için Merkez Bankası Yönetim Kurulunun en az dört üyesinin olumlu yöndeki oyu gerekir. Verilen kuruluş izni, üç aylık bir süre için geçerlidir.Verilen üç aylık süre sonuna kadar kuruluş işlemlerinin tamamlanmaması durumunda izin geçersiz olur.
+
+Faaliyet İzni
+10.
+(1)
+Banka kuruluş veya şube bankası açma işlemlerinin tamamlanmasından sonra üç ay içerisinde faaliyet izni almak üzere Merkez Bankasına başvurulması şarttır.
+
+
+(2)
+Faaliyet izni almak için bankaların, aşağıdaki koşulları taşıması şarttır:
+
+
+
+(A)
+Sermayelerinin nakden ödenmiş olması, 
+
+
+
+(B)
+Öngörülen faaliyetleri gerçekleştirebilecek nitelik ve yeterliliğe sahip teşkilat yapısı, personel kadrosu ve sistemlerinin kurulmuş olması, ve
+
+
+
+(C)
+Bu Yasanın 7’nci maddesinin (3)’üncü fıkrasında belirtilen asgari sermayenin %5 (yüzde beş)’i tutarındaki sisteme giriş payının, Merkez Bankası nezdindeki Hazine Hesabına yatırmış olmaları.
+
+
+(3)
+Verilen faaliyet izinleri, Merkez Bankası tarafından aksi kararlaştırılmadıkça, bu Yasanın 23’üncü maddesindekiuygun bütün faaliyetleri kapsar.
+
+
+(4)
+Faaliyet izni aldıktan sonra üç ay içerisinde faaliyete geçmeyen bankanın, faaliyet izni iptal edilir.
+Yurt İçi ve Yurt Dışı Şube, Temsilcilik ve Şirketler
+11.
+(1)
+(A)
+Bankaların yurtiçinde şube açması, şirket kurması veya kurulmuş şirketlerde pay edinmeleri Merkez Bankası iznine tabidir.
+
+
+
+(B)
+Kuzey Kıbrıs Türk Cumhuriyetinde kurulu bankaların yurt dışında şube veya temsilcilik açmaları, şirket kurmaları veya kurulmuş şirketlerde pay sahibi olmaları Merkez Bankasının iznine tabidir.
+
+
+(2)
+Yurt dışında kurulu bankalar, mevduat veya katılım fonu kabul etmemek ve Merkez Bankası tarafından belirlenecek usul ve esaslara göre faaliyet göstermek kaydıyla, Merkez Bankasının izni ile Kuzey Kıbrıs Türk Cumhuriyetinde temsilcilik açabilirler.
+
+Pay Sahipliğine İlişkin Kurallar
+12.
+(1)
+(A)
+Bankaların nitelikli pay sahibi hissedarlarının, bu Yasanın 6’ncı maddesinde belirtilen banka kurucularında aranan koşulları taşıması şarttır.
+
+
+
+(B)
+Bu koşulları taşımayan veya kaybeden nitelikli pay sahibi hissedarlara ait yönetime katılma hakları, nitelikli paya sahip oldukları sürece, Merkez Bankasının bildirimi üzerine Fon tarafından kullanılır. 
+
+
+
+(C)
+Nitelikli pay sahibi hissedar olma koşullarını kaybedenler, bu durumu en geç bir ay içerisinde Merkez Bankasına bildirmekle yükümlüdür.
+
+
+(2)
+(A)
+
+
+
+
+
+
+
+Kuzey Kıbrıs Türk Cumhuriyetinde kurulu bankada veya nitelikli pay sahibi tüzel kişi ortağında, bir kişinin nitelikli pay sahibi olmasına veya nitelikli pay sahibi olma durumunu kaybetmesine yol açacak işlemler ile bir kişiye ait doğrudan veya dolaylı sermaye veya oy hakkı payının %20 (yüzde yirmi)’yi, %30 (yüzde otuz)’u ve %50 (yüzde elli)’yi aşması veya bu oranların altına düşmesi sonucunu veren işlemler Merkez Bankasının iznine bağlıdır. 
+
+
+
+(B)
+İzne bağlı olduğu halde, izin alınmadan yapılan pay devirleri geçersizdir. Bu paylara ait temettü hariç, ortaklık hakları Fon tarafından kullanılır.
+
+
+
+(C)
+Yönetim kuruluna üye belirlemede vekâletname ve diğer yollarla etkin söz hakkı veren payların belirli kişilerde toplanmasını sağlayan devirleri ile imtiyazlı payların tesisi, devri veya yeni imtiyazlı pay ihracı ve kaldırılması bu fıkranın  (A) bendinde belirtilen oranlara bakılmaksızın Merkez Bankasının iznine bağlıdır.
+
+
+
+
+
+
+
+
+(Ç)
+Pay oranlarının bu fıkranın (A) bendinde belirtilen oranların altında olmasına rağmen, Merkez Bankası izni olmaksızın bankanın kontrolünde gerçekleştirilen doğrudan veya dolaylı her türlü değişiklik geçersizdir. Böyle bir işlemin tespiti durumunda bu Yasanın 64’üncü maddesinin (1)’inci fıkrasının (Ç) bendine göre işlem yapılır.
+
+
+
+(D)
+Pay devir izinleri,Merkez Bankasının aldığı pay devir izin kararının verildiği tarihten itibarenüç aylık bir süre için geçerlidir.
+
+
+(3)
+(A)
+Bu Yasanın uygulanmasında, gerçek kişilere ait dolaylı pay sahipliğinin belirlenmesinde, bir gerçek kişi ile eş ve çocuklarına ve bunların katıldıkları ortaklıklara veya bu kişi veya ortaklıkların ayrı ayrı veya birlikte kontrol ettikleri ortaklıklara ait paylar birlikte dikkâte alınır. 
+
+
+
+(B)
+Tüzel kişilere ait dolaylı pay sahipliğinin belirlenmesinde, tüzel kişilere ait paylar ile tüzel kişilerin kontrol ettikleri ortaklıklara ait paylar birlikte hesaplanır.
+
+
+(4)
+Bankaların Kuzey Kıbrıs Türk Cumhuriyeti dışında kurulu, nitelikli pay sahibi tüzel kişi ortaklarının veya Kuzey Kıbrıs Türk Cumhuriyetinde şube bankası olarak faaliyet gösteren bankaların hissedar yapısının yukarıdaki (2)’nci fıkranın (A) bendinde belirtilen esaslar ve oranlar dâhilinde el değiştirmesi durumunda bu değişikliklerin en geç bir ay içerisinde Merkez Bankasına bildirilmesi şarttır.
+
+Ana Sözleşme, Tüzük veya Ad Değişiklikleri ve İnternet Sayfalarında Yayım Yükümlülüğü
+
+13.
+(1)
+Kuzey Kıbrıs Türk Cumhuriyetinde kurulu bankalar ana sözleşme, tüzük veya adlarında değişiklik yapmadan önce Merkez Bankasından uygunluk görüşü almak zorundadırlar. Merkez Bankasının uygunluk görüşü alınmadan yapılan değişiklikler geçersizdir.
+
+
+(2)
+Kuzey Kıbrıs Türk Cumhuriyetinde kurulu bankalar, güncel ana sözleşmelerini internet sayfalarında yayımlamakla yükümlüdürler. Ana sözleşmelerindeki güncellemeleri, değişikliğin gerçekleştiği tarihten itibaren on iş günü içerisinde yayımlarlar.
+
+Birleşme, Devir, Faaliyete Gönüllü Olarak Son Verilmesi ve Tasfiye
+14.
+(1)
+Bankaların, başka bir banka ile birleşmesi, bütün borç, alacak, mevduat ile diğer hak ve yükümlülüklerinkısmen veya tamamen başka bir bankaya veya finansal kuruluşa devri veya faaliyetlerine gönüllü olarak son vermesi Merkez Bankasının izin ve denetimine bağlıdır.
+
+
+(2)
+Merkez Bankası tarafından birleşme veya bütün borç, alacak ve mevduatın, diğer bir bankaya devir izni verilmesi durumunda;
+
+
+
+(A)
+Verilen izin üç aylık bir süre için geçerlidir. 
+
+
+
+(B)
+Birleşme veya devir işlemleri kapsamında devredilen her türlü hak ve yükümlülük, üçüncü şahısların rızası aranmaksızın, devralan bankaya geçer. Hak ve yükümlülükleri devralan bankaya aşağıdaki istisnalar tanınır:
+
+
+
+
+(a)
+Merkez Bankasından izin almak suretiyle ve izin tarihinden itibaren üç ay içerisinde yetkili organlarınca karar alınarak, devir veya birleşme işlemlerine geçilmesi şartıyla, diğer bir veya birkaç bankayla birleşmesi veya tüzel kişiliği ortadan kalkmak suretiyle bilanço değerlerini kısmen veya tamamen diğer bir veya birkaç bankaya devretmesi ya da hisseleri kısmen veya tamamen Fona ait olan bir bankanın bilanço değerlerinin Fon tarafından devralınması halinde devir veya birleşmeden doğan kazançlar, kurumlar vergisinden istisna edilir. Birleşme veya devrin,izin tarihinden itibaren onsekiz ay içinde alınan izne uygun olarak gerçekleşmemesi halinde zamanında tahakkuk ettirilmemiş olan vergiler yönünden vergi ziyaı doğmuş sayılır.
+
+
+
+
+(b)
+Yapılacak olan devir ve birleşmelerde, münfesih kurumun devir veya birleşme öncesi son bilançosunda görülen indirilebilir nitelikteki zarar tutarı, devralan veya birleşilen kurumca beş yıldan fazla nakledilmemek şartıyla gider olarak kurum kazancından indirilebilir.
+
+
+
+
+(c)
+Yapılacak olan devir ve birleşmeler sırasında düzenlenen kâğıt ve sözleşmeler ile münfesih kurumun menkul ve gayrimenkul mallarının devralan veya birleşilen kurum adına, kayıt ve tescili işlemleri ve münfesih kurum tarafından devir veya birleşme tarihinden önce düzenlenen veya lehe alınan teminat mektupları, sözleşmeler, şerhler, teminatlar ve sair kağıtların, devralan veya birleşilen kurum adına yenilenmesi, uzatılması, değiştirilmesi, devredilmesi veya bozulmasına ilişkin işlemler her türlü vergi, resim ve harçtan (taşıt alım vergisi dâhil), lehe alınan paralar banka ve sigorta işlemleri vergisinden müstesnadır.
+
+
+
+
+(ç)
+Hisseleri kısmen veya tamamen Fona ait olan bankanın iştiraklerinin, takipteki alacaklarının ve diğer bilanço kalemleri ile banka lehine alınan teminatların, Fon tarafından devir ya da satın alınması ve bu suretle edinilen aktiflerin Fon tarafından devir, birleşme veya satış işlemine tabi tutulması sırasında, düzenlenen sözleşmeler ve sair kağıtlar ile bunların değiştirilmesi, yenilenmesi,  uzatılması, devredilmesi ve bozulmasına ilişkin düzenlenen kağıtlar, gayrimenkul, menkul mallar ile hakların Fon veya göstereceği kişiler adına kayıt ve tescil işlemleri her türlü vergi, resim ve harçtan (taşıt alım vergisi dâhil), müstesnadır ve Fon tarafından bankaya ödenen bedeller banka ve sigorta işlemleri vergisine tabi değildir.
+
+
+
+(C)
+Birleşme veya devir işlemlerinin tamamlanmasından sonra her türlü hak ve yükümlülüklerini devreden bankanın faaliyet izni Merkez Bankası tarafından iptal edilir.
+
+
+
+(Ç)
+Şube bankaların, Kuzey Kıbrıs Türk Cumhuriyetinde kurulu banka izni almaları şartı ile devir işlemleri bu madde altında değerlendirilir.
+
+
+(3)
+Merkez Bankası, birleşen bankaların yasal karşılık mükellefiyetlerini, birleşmenin başarılı olmasına yardımcı olmak amacı ile belirleyeceği sürelerde azaltmaya veya ertelemeye yetkilidir.
+
+
+(4)
+Hisseleri kısmen veya tamamen Fona ait olan bankaların, Fon tarafından devir, birleşme veya satış işlemine tabi tutulması durumunda, söz konusu bankaların aktif ve/veya pasiflerinin kısmen veya tamamen bir başka bankaya devri, birleştirilmesi veya satışı Merkez Bankasınca belirlenecek esas ve usullere göre yapılır.
+
+
+(5)
+Faaliyete gönüllü olarak son verilmesine Merkez Bankası tarafından izin verilmesi durumunda;
+
+
+
+(A)
+Alınan karar,Merkez Bankası tarafından Resmi Gazete’de yayımlanır. Yayım tarihinden itibaren üç ay içerisinde ilgili bankanın nezdindeki her türlü mevduat, katılım fonu, emanet ve alacakları hak sahiplerine bildirmesi ve iade etmesi şarttır.
+
+
+
+(B)
+Üç aylık sürenin sonunda, hak sahiplerince aranmayan mevduat, katılım fonu, emanet ve alacaklar Merkez Bankasına devredilir ve bankanın faaliyet izni Merkez Bankası tarafından iptal edilir.
+
+
+
+(C)
+Merkez Bankasına devredilen mevduat, katılım fonu, emanet ve alacaklar bu Yasanın 36’ncı maddesi kuralları uyarınca zamanaşımına tabi olur.
+
+
+(6)
+(A)
+Merkez Bankası tarafından faaliyet izni iptal edilmedikçe veya kaldırılmadıkça, bu Yasa altında faaliyet gösteren bir bankanın tasfiyesi istenemez.
+
+
+
+(B)
+Merkez Bankası tarafından bankaların faaliyet izninin iptali veya kaldırılması ile tasfiye edilmeleri halinde,  tasarruf mevduatı sahipleri tasarruf mevduatlarının sigortaya tabi olmayan kısmı için, bu gibi bankaların mevcutları üzerinde Fonun alacaklarından sonra gelmek üzere, diğer alacaklılarına göre haklarının %90 (yüzde doksan)’ı oranında imtiyazlı alacaklı sayılırlar.
+
+
+
+
+
+
+Fasıl 113
+    28/1974
+      7/1977
+    30/1983
+    28/1987
+    65/1989
+    56/1991
+    42/1997
+    29/2003
+    35/2007
+
+(7)
+Bankanın kuruluş işlemleri tamamlandıktan sonra, süresi içinde faaliyet izin başvurusunun yapılmaması veya faaliyet izninin alınamaması veya herhangi bir şekilde faaliyet izninin iptal edilmesi durumunda, bankacılık yapmak üzere kurulmuş tüzel kişinin bir ay içerisinde gönüllü tasfiyesi için karar alınması şarttır. Bu süre içerisinde gönüllü tasfiye için karar alınmaması durumundaMerkez Bankası, Şirketler Yasası kurallarına göre tasfiye ve sicilden çıkarma işlemlerinin başlatılması için girişimde bulunabilir.
+
+Resmi Gazetede Yayımlanan Kararlar
+15. Merkez Bankası tarafından faaliyet izninin verilmesi ile faaliyet izinlerinin iptal edilmesi veya kaldırılmasına ilişkin kararlar Resmi Gazete’de yayımlanır.
+
+İzinlere İlişkin Tebliğ Çıkarma Yetkisi
+16. Bu Yasanın bu Kısmında yer alan banka kuruluş, şube, temsilcilik açma ve şirket kurma veya pay edinme, faaliyet izinleri, birleşme, kısmi devir, devir, gönüllü tasfiyeve izne tabi diğer işlemler ile ilgili kuralların uygulanmasına ilişkin talep edilecek tevsik edici belgeler, gerek solo gerek konsolide bazda her türlü mali tablo ve değerlendirmeler, taahhütnameler, tutanaklar, resmi belgeler ve bunların şekil ve şartları, süreler, izin, kısıt ve iptalleri ile ilgili hususlar varsa istisnaları ile pay sahipliğinin kapsamı, niteliği, kontrol tespiti için talep edilebilecek tüm belge ve bilgiler, kontrol ve hisselerin el değişmesi süreci, tüm bunlarla ilgili varsa, istisnalar ve bu konu ile ilgili yükümlülükler dâhil ilgili hususlar, Merkez Bankası tarafından çıkarılacak bir tebliğ ile düzenlenir.
+
+
+ÜÇÜNCÜ KISIM
+Kurumsal Yönetim
+
+Kurumsal Yönetim Çerçevesi ve İç Sistemler
+
+
+
+
+17.
+(1)
+Bankalar, faaliyetlerinin niteliği, karmaşıklığı ve büyüklüğü ile orantılı olarak aşağıdaki esasları içeren kurumsal yönetim yapılarını;
+
+
+
+(A)
+Sorumlulukların şeffaf ve tutarlı bir şekilde tanımlanmış olduğu açık bir organizasyon yapısını,
+
+
+
+(B)
+Karşılaşılan riskleri belirleme, yönetme, izleme ve raporlamaya yönelik etkin süreçlerini,
+
+
+
+(C)
+Güçlü yönetim, bilgi sistemleri ve  muhasebe süreçlerini kapsayan yeterli iç kontrol mekanizmalarını, ve
+
+
+
+(Ç)
+Faaliyetlerin bu Yasa, ilgili diğer yasalar, düzenlemeler, iç düzenlemeler ve bankacılık ilkelerine uygunluğu konusunda güvence sağlayacak iç sistem ve birimlerini,
+
+
+
+kurar.
+
+
+(2)
+Merkez Bankası, bankalarda kurulan iç sistem birimlerinde çalışacaklar için atanma koşulları belirlemeye ve/veya bu görevlere yapılacak atamaları onaya tabi tutmaya yetkilidir.
+
+
+(3)
+Merkez Bankası, aşağıdaki bentlerde belirtilen hususlarla ilgili olarak usul ve esasları düzenlemek amacıyla bir tebliğ çıkarır.
+
+
+
+(A)
+İç sistemlerin tesisi ve iç sistem birimlerinin kurulması ile bunların idaresinden sorumlu birimler.
+
+
+
+(B)
+Yönetim kurulunun, yönetim kurulu başkanının ve üst yönetimin görev, yetki ve sorumlulukları.
+
+
+
+(C)
+İç sistemlerden sorumlu üyelerin ve iç sistem birimleri personelinin nitelikleri, görev, yetki ve sorumlulukları.
+
+
+
+(Ç)
+İç sistemlerin amacı, kapsamı ve faaliyetleri.
+
+
+
+(D)
+Risk yönetiminin amacı ve risk ölçüm yöntemlerinin tesisi.
+
+
+
+(E)
+Riskler bazında uygulama esaslarının ve ilkelerinin belirlenmesi.
+
+
+
+(F)
+Kurumsal yönetimin kapsamı ve ilkeleri.
+
+
+
+(G)
+Bankaların rapor, belge, bildirim ve raporlama sorumlulukları.
+
+
+
+(H)
+İçsel sermaye yeterliliği değerlendirme süreci.
+
+
+
+(I)
+Risklerin yönetimi ve değerlemesi ile ilgili iyi uygulama rehberleri, bilgi güvenliği, sızma testi de dâhil, yöntem, test, değerleme ve uygulamaları.
+
+
+
+(İ)
+Bu madde kapsamında Merkez Bankasının belirleyeceği ilgili husus ve yükümlülükler.
+
+
+(4)
+Bankalar üstlendikleri risklerin doğası, dağılımı ve seviyesi için yeterli, etkin ve stratejileri ile uyumlu içsel sermaye bulundurmak zorundadırlar.
+
+Üst Yönetimdekilere İlişkin Kurallar
+18.
+(1)
+Bankaların üst yönetiminde görev yapacakların bu Yasanın 6’ncı maddesinin (1)’inci fıkrasında yer alan nitelikleri taşımaları şarttır. Bu nitelikleri kaybedenlerin, görevlerinden aynı iş günü ayrılmaları veya görevden alınmaları şarttır. 
+
+
+(2)
+Üst yönetimde göreve başlanılmasından önce Merkez Bankasından onay alınması şarttır.
+
+
+(3)
+Üst yönetimdekilergöreve başlamadan önce ve görev yaptıkları sürece mal bildiriminde bulunmakla yükümlüdürler. Mal beyanına ilişkin usul ve esaslar Merkez Bankasınca çıkarılacak bir tebliğ ile düzenlenir.
+
+
+(4)
+Üst yönetimdekilerin görevden ayrılmaları durumunda, görevden ayrılma nedenlerinin, banka ve görevden ayrılan tarafından, ayrılış tarihinden itibaren mücbir sebepler hariç on iş günü içerisinde Merkez Bankasına bildirilmesi şarttır. Süresinde bildirimde bulunmayanlar, görevden ayrılmalarını takip eden üç ay boyunca Merkez Bankası onayına tabi bir göreve atanamazlar. Merkez Bankası bu süreyi üç ay daha uzatabilir.
+
+Banka Yönetim Kurulu
+19.
+(1)
+Banka yönetim kurulu, bankanın faaliyetlerinin kurumsal yönetim ilkeleri çerçevesinde emniyetli bir şekilde yürütülmesinden ve yürürlükteki yasalar ile diğer düzenlemelere uyulmasından sorumludur. Banka yönetim kurulu, faaliyetlerinin yürütülmesine yönelik yetkilerini, oluşturulacak komitelere veya genel müdürlüğe devredebilir. 
+Ancak böyle bir yetki devri banka yönetim kurulunun sorumluluğunu ortadan kaldırmaz. 
+
+
+(2)
+Kuzey Kıbrıs Türk Cumhuriyetinde kurulu bankaların yönetim kurullarının en az beş kişiden oluşması şarttır. 
+
+
+(3)
+ Kuzey Kıbrıs Türk Cumhuriyetinde kurulu bankaların yönetim kurulu başkanı ile iç sistemlerden sorumlu olarak görev yapacakların ve herhalükarda yönetim kurulu üyelerinin salt çoğunluğunun iktisat, işletme, maliye, muhasebe, bankacılık, uluslararası ilişkiler, kamu yönetimi, hukuk, istatistik, işletme mühendisliği, matematik dallarında en az lisans düzeyinde eğitim görmüş olması,bunun dışındaki alanlarda lisans  düzeyinde eğitim görmüş olanların ise belirtilen bu alanlarda lisansüstü  öğrenim görmüş olmaları ve bankacılık alanında en az beş yıllık mesleki tecrübeye sahip olması şarttır. 
+
+
+(4)
+Merkez Bankası, iç sistemlerden sorumlu üye ve benzeri şekilde daha özel sorumluluklar yüklenen yönetim kurulu üyelerinden, bu görevlere atanabilmeleri için, gerek eğitim ve tecrübe gerekse de tarafsızlıklarını koruyabilmeleri adına daha özellikli niteliklere sahip olmalarını isteyebilir.
+
+
+(5)
+Kuzey Kıbrıs Türk Cumhuriyetinde kurulu bankaların, yönetim kurulu kararlarının herhangi bir şüpheye yer vermeyecek şekilde, tarih ve sıra numarası belirtilerek gecikmeksizin karar defterine kaydedilmesi ve imzalanması şarttır. Şube bankalarının Kuzey Kıbrıs Türk Cumhuriyetinde bulunan şubelerine yönelik, yönetim kurulu kararlarının onaylı suretleri bir ay içerisinde temin edilerek ayrı bir karar defterinde tutulur.  Alınan kararların Türkçe dilinde kaydedilmesi ve karar defterlerinin bankaların genel müdürlüklerinde muhafaza edilmesi şarttır.
+
+
+(6)
+Şube bankaları, Kuzey Kıbrıs Türk Cumhuriyetinde kurulu bankaların yönetim kurullarına ilişkin bu Yasada yer alan koşullara uymak kaydıyla, Kuzey Kıbrıs Türk Cumhuriyetinde bulunan şubelerine yönelik iç sistemler hariç yönetim kurulu yetki ve sorumluluklarını taşıyan müdürler kurulu oluştururlar.
+
+Genel Müdürlük Teşkilatı
+20.
+(1)
+(A)
+
+
+Bankaların faaliyetlerinin niteliği ve büyüklüğü ile orantılı genel müdürlük teşkilatı oluşturmaları zorunludur.
+
+
+
+(B)
+Şube bankaların, Kuzey Kıbrıs Türk Cumhuriyetinde bulunan şubelerini kapsayan ayrı bir ülke müdürlüğü teşkilatı veya yönetim merkezi oluşturmaları zorunludur.
+
+
+
+(C)
+Sadece yönetim kurulu üyesi olarak görev yapanlar hariç, tüm yöneticilerin bankada yurtiçinde yerleşik tam zamanlı olarak görev icra etmeleri şarttır.
+
+
+(2)
+Bankalarda genel müdür olarak görev yapacakların iktisat, işletme, maliye, muhasebe, bankacılık, uluslararası ilişkiler, kamu yönetimi, hukuk, istatistik, işletme mühendisliği, matematik dallarında en az lisans düzeyinde eğitim görmüş olması vebunun dışındaki alanlarda lisans düzeyinde eğitim görmüş olanların ise belirtilen bu alanlarda lisansüstü öğrenim görmüş olmaları ve bankacılık alanında beş yıl yöneticilik olmak üzere en az on yıllık mesleki tecrübeye sahip olması şarttır.
+
+
+(3)
+Bankalarda genel müdür yardımcısı olarak görev yapacakların iktisat, işletme, maliye, muhasebe, bankacılık, uluslararası ilişkiler, kamu yönetimi, hukuk, istatistik, işletme mühendisliği, matematik dallarında en az lisans düzeyinde eğitim görmüş olması vebunun dışındaki alanlarda lisans düzeyinde eğitim görmüş olanların ise belirtilen bu alanlarda lisansüstü öğrenim görmüş olmaları ve   bankacılık alanında üç yılı yöneticilik olmak üzere en az yedi yıllık mesleki tecrübeye sahip olması şarttır.
+
+
+(4)
+Kuzey Kıbrıs Türk Cumhuriyetinde kurulu bankalarda genel müdür, bu Yasanın 19’uncu maddenin (2)’nci fıkrası çerçevesinde yönetim kurulunun bir üyesidir. 
+Ancak genel müdür, yönetim kurulu başkanı veya iç sistemlerden sorumlu üye olarak görev yapamaz. 
+
+
+(5)
+Genel müdür haricinde banka personeli olarak görevli olanlar yönetim kurulunda görev alamaz.
+
+Banka Çalışanlarına İlişkin Diğer Kurallar
+
+
+21.
+(1)
+Merkez Bankası, zaman içinde gerek uluslararası gerekse sektördeki gelişmeler sonucu bankanın asli işlerinin yürütülmesinde stratejik öneme haiz hale gelen yöneticilik ve/veya denetim benzeri görevlerin mahiyetlerine uygun olarak atanma koşulları belirlemeye ve/veya bu görevlere yapılacak atamaları onaya tabi tutmaya yetkilidir.
+
+
+
+(2)
+(A)
+Bu Yasa ve ilgili diğer mevzuat kuralları ile Merkez Bankası tarafından alınan kararları ihlal ettikleri veya bankanın emin bir şekilde çalışmasını tehlikeye düşürdükleri tespit edilen banka çalışanlarının imza yetkileri, konuya ilişkin inceleme veya yasal süreç sonuçlanıncaya kadar Merkez Bankasının talebi üzerine banka tarafından geçici olarak kaldırılır.
+
+
+
+(B)
+
+Yukarıdaki (A) bendi uyarınca imza yetkisi kaldırılan banka çalışanları, Merkez Bankası onayı olmadıkça imza yetkisini haiz personel olarak hiçbir bankada çalıştırılamazlar.
+
+
+(3)  
+Bir bankanın yönetim kurulu ve kredi komitesi başkanları, üyeleri ile genel müdür, genel müdür yardımcıları ve imzaları bankayı ilzam eden memurlarının, bu Yasaya ve/veya bu Yasa altında çıkarılan tali mevzuata aykırı karar ve işlemleriyle, bankanın mali bünyesinin zayıflamasına ve/veya tasfiyesine neden olduklarınayetkili mahkemelerce karar verilmesi halinde, bankaya verdikleri zararlarla ve elde ettikleri menfaatle sınırlı olarak şahsi sorumlulukları vardır. Bu karar ve işlemler bankanın yönetim ve denetimini doğrudan veya dolaylı olarak tek başına veya birlikte elinde bulunduran ortaklara ve/veya üçüncü kişilere ve/veya ortakların doğrudan veya dolaylı yönetiminde oldukları tüzel kişilere menfaat temini amacıyla yapıldığı takdirde, menfaat temin eden ortaklar, gerçek kişi ve/veya tüzel kişiler temin ettikleri menfaat üzerinden şahsi olarak sorumludurlar.
+
+
+(4)
+Merkez Bankasınca mevzuata aykırılığın tespit edilmemesi şartıyla, sistemik riske dayalı olarak bankacılık sektörünün tümüne, sirayet eden banka zararları nedeniyle bir bankanın yönetim ve denetiminin Fona devredilmesi halinde banka yöneticileri hakkında bu maddenin (3)’üncü fıkra kuralları uygulanmaz.
+
+Kurumsal Yönetime İlişkin  Tebliğ Çıkartma Yetkisi
+22. Bu Yasanın bu Kısmında yer alan, teşkilat yapısına ilişkin asgari hususlar, atamalara verilecek onaylar, atama koşulları, belirlenen kadrolara uygunlukla ilgili her türlü tevsik edici belgelerin şekil ve şartları, alınacak beyanlar, taahhütnameler, resmi belgeler, mali bildirimler, yurt dışından temin edilen belgeler, bilgilerin güncellenmesi, mal beyanının süreçleri ve şekli, karar defterinin tutulması, bunların şekil ve şartları ile varsa istisnalar ve bu konu ile ilgili yükümlülükler de dâhil ilgili hususlarla, bunların usul ve esasları Merkez Bankası tarafından çıkartılacak bir tebliğ ile düzenlenir.
+
+
+
+DÖRDÜNCÜ KISIM
+Faaliyet Esasları ve Yükümlülükler
+
+Faaliyet Konuları
+23.
+
+
+(1)
+(A)
+Bankalar, faaliyetlerini bu Yasa, ilgili diğer mevzuat ve Merkez Bankası tarafından alınan kararlara uygun olarak yürütmekle yükümlüdür.
+
+
+
+(B)
+Faaliyet izni bulunan ve banka ismini taşıyan kooperatifler, bankacılıkla ilgili olmak üzere denetim, gözetim, icra ettikleri faaliyetler ve buna bağlı idari işleri ve idari yapılanmaları bakımından münhasıran bu Yasa kurallarına tabidirler.
+
+
+(2)
+Merkez Bankası, bankaların faaliyet konularını belirlemeye, izne tabi tutmaya veya sınırlandırmaya yetkilidir. Bankalar, aşağıda belirtilen bankacılık faaliyetlerini gerçekleştirebilirler:
+
+
+
+(A)
+Mevduat kabulü.
+
+
+
+(B)
+Katılım fonu kabulü.
+
+
+
+(C)
+Nakdi, gayrinakdi her cins ve surette kredi verme işlemleri.
+
+
+
+(Ç)
+Nakdi ve kaydi ödeme ve fon transferi işlemleri, muhabir bankacılık veya çek hesaplarının kullanılması dâhil her türlü ödeme ve tahsilat işlemleri.
+
+
+
+(D)
+Çek ve diğer kambiyo senetlerinin satın alma işlemleri.
+
+
+
+(E)   
+Saklama hizmetleri.
+
+
+
+(F)
+Kredi kartları, banka kartları ve seyahat çekleri gibi ödeme vasıtalarının ihracı ve bunlarla ilgili faaliyetlerin yürütülmesi işlemleri.
+
+
+
+(G)  
+Efektif dâhil kambiyo işlemleri, para piyasası araçlarının alım ve satımı, kıymetli maden ve taşların alımı, satımı veya bunların emanete alınması işlemleri.
+
+
+
+(H)
+Ekonomik ve finansal göstergelere, sermaye piyasası araçlarına, mala, kıymetli madenlere ve dövize dayalı, vadeli işlem sözleşmelerinin, opsiyon sözleşmelerinin birden fazla türev aracı içeren basit veya karmaşık yapıdaki finansal araçların alımı, satımı ve aracılık işlemleri.
+
+
+
+(I)
+Sermaye piyasası araçlarının alım ve satımı ile geri alım veya tekrar satım taahhüdü işlemleri.
+
+
+
+(İ)
+Sermaye piyasası araçlarının ihraç veya halka arz yoluyla satışına aracılık işlemleri.
+
+
+
+(J)
+Daha önce ihraç edilmiş olan sermaye piyasası araçlarının aracılık maksadıyla alım satımının yürütülmesi işlemleri.
+
+
+
+(K)
+Başkaları lehine teminat, garanti ve sair yükümlülüklerin üstlenilmesi gibi garanti işlemleri.
+
+
+
+(L)
+Yatırım danışmanlığı işlemleri.
+
+
+
+(M)   
+Portföy işletmeciliği ve yönetimi.
+
+
+
+(N)    
+Faktoring ve forfaiting işlemleri.
+
+
+
+(O)    
+Bankalararası piyasada para alım satımı işlemlerine aracılık.
+
+
+
+(Ö)
+Finansal kiralama işlemleri.
+
+
+
+(P)
+Sigorta acenteliği ve bireysel emeklilik aracılık hizmetleri.
+
+
+
+(R)    
+İcar satış (hire-purchase) finansman işlemleri.
+
+
+
+(S) 
+Merkez Bankasınca belirlenecek diğer faaliyetler.
+
+
+(3)
+(A)
+Mevduat bankaları, yukarıdaki (2)’nci fıkranın (B) ve (Ö), 
+
+
+
+(B)
+Katılım bankaları (A),
+
+
+
+(C)
+Kalkınma ve yatırım bankaları (A) ve (B) 
+
+
+
+bentlerinde belirtilen faaliyetleri gerçekleştiremezler.
+
+
+(4)
+(A)
+Bu Yasa altında izin alarak faaliyet gösteren kalkınma ve yatırım bankaları, bu Yasanın 25’inci, 35’inci, 36’ncı maddeleri ile 41’inci maddesinin (1)’inci, (2)’nci ve (3)’üncü  fıkraları ve 63’üncü maddesi dışındaki diğer madde kurallarına tabidir.
+
+
+
+(B)
+Kendilerine özel yasaları ile kendisine verilen görevleri yerine getiren kalkınma ve yatırım bankaları, bu Yasanın 6’ncı, 7’nci, 11’inci, 12’nci, 14’üncü, 25’inci, 35’inci, 36’ncı maddeleri ile 41’inci maddesinin (1)’inci, (2)’nci ve (3)’üncü fıkraları ile 45’inci, 63’üncü ve 64’üncü maddeleri dışındaki, diğer madde kurallarına tabidir.
+
+Faaliyet Harcı
+
+24.
+(1)
+Bankaların, önceki yılsonu itibarıyla yürürlükte bulunan aylık asgari ücretin yirmi katı tutarındaki yıllık faaliyet harcını her yıl Ocak ayı sonuna kadar Merkez Bankası nezdindeki Hazine Hesabına yatırmaları şarttır.
+
+
+(2)
+Faaliyet izninin alındığı yıla ait faaliyet harcı, iznin verildiği tarihten itibaren bir ay içerisinde ödenir.
+
+
+(3)
+Faaliyet harcını süresi içinde mazeretsiz şekilde yatırmayan ve Merkez Bankasınca verilen ek süreye rağmen bu yükümlülüğünü yerine getirmeyen bankaların faaliyet izni iptal edilir ve bu Yasanın 64’üncü maddesinin (1)’inci fıkrasının (Ç) bendine göre işlem yapılır.
+
+Mal ve Hizmetlere İlişkin Kurallar
+
+
+25.
+(1)
+Bankalar, Merkez Bankası tarafından istisna tutulan işlemler hariç olmak üzere, ihtiyaçları dışında mal edinemezler, mal ticareti ile uğraşamazlar. 
+
+
+(2)
+Bankaların, ihtiyaçları için mal veya hizmet edinmeleri ve/veya alacaklarından dolayı mal edinmeleri ve/veya sahip oldukları malları elden çıkarmalarına ilişkin kurallar, piyasa koşulları dikkâte alınarak Merkez Bankası tarafından belirlenir. 
+
+
+(3)
+Mevduat bankaları ve katılım bankalarının sabit kıymetlerinin net bilanço değeri, banka özkaynaklarının %50 (yüzde elli)’sini geçemez.
+
+
+(4) 
+
+(A)
+Mevduat bankaları tarafından yapılan icar satış işlemleri ile katılım bankaları tarafından gayrimenkul, donanım veya emtia temini, kâr ve zarar ortaklığı, ortak yatırımlar yoluyla finansman sağlanması ve müşterilere sunulan benzer bankacılık hizmetleri nedeniyle gayrimenkul ve emtia üzerine yapılan işlemler bu madde kurallarına aykırı olarak değerlendirilmez.
+38/2007
+
+
+(B)
+Mevduat bankaları ve katılım bankalarının alacaklarından dolayı edinmek zorunda kaldıkları gayrimenkullerin elden çıkarılması ile ilgili yaptıkları satış işlemleri, Emlakçıların Kayıt ve İşlemleri Yasası tahtında profesyonel satış kapsamında sayılmaz.
+52/2008
+
+(5)
+Yabancı şirket veya mahalli şirket olarak tescil edildiğine bakılmaksızın, yabancı bankaların veya yabancı kişilerin sahip olduğu Kuzey Kıbrıs Türk Cumhuriyetinde faaliyet gösteren banka şubeleri ve banka olan bağlı ortaklıkların,bu madde kapsamında alacakları karşılığında edinmek zorunda kaldıkları gayrimenkul edinimleri, Taşınmaz Mal Edinme ve Uzun Vadeli Kiralama (Yabancılar) Yasası tahtında aranan Bakanlar Kurulu iznine ve taşınmaz mal edinmesiyle ilgili kısıtlamalara tabi değildir.
+       Ancak bu yolla elde edilen gayrimenkulsabit kıymetlerine eklenmek istemesi durumunda, Merkez Bankası onayı yanında Taşınmaz Mal Edinme ve Uzun Vadeli Kiralama (Yabancılar) Yasası gereği olan tüm yasal sürecin tamamlanması gerekir.
+
+
+(6)
+Merkez Bankası, mal ve/veya hizmet alım ve satımına ait genel kuralları, istisnaları, banka risk grubunda bulunan kişiler ve çalışanları ile bunlarla risk grubu oluşturan kişilerle yapılan mal ve hizmet alım ve satımına ilişkin işlemlere dair özel kuralları belirlemek için, solo ve/veya konsolide, amaç, kapsam, muhasebeleştirilme, varsa istisna yanında süre de dâhil olmak üzere alt ve üst oranlar veya sınırlamalar ve bu konu ile ilgili yükümlülükler de dâhil, usul ve esasları belirleyen bir tebliğçıkarır.
+
+Belgelerin Saklanması
+
+26. Bankalar, bankacılık işlemleri ile ilgili belgelerin asıllarını veya aslına uygun olduklarına dair şüpheye yer vermeyecek kopyalarını veya suretlerini istenildiğinde ibraz edilebilecek şekilde nezdlerinde on iki yıl süreyle saklamakla yükümlüdürler. Belgelerin saklanması ortamları da dahil konu ile ilgili usul ve esaslarMerkez Bankası tarafından çıkarılacak bir tebliğ ile düzenlenir.
+
+Sırların Saklanması ile Yayın ve Haberlere İlişkin Yasaklar
+27.
+(1)
+İlgili bankada çalışıp çalışmadıklarına ve/veya sıfat ve görevlerine bakılmaksızın bankalara veya müşterilerine ait sırları öğrenenler, bu sırları açıkca yetkili kılınan mercilerden başkasına açıklayamazlar. Bu kişilerin yükümlülükleri, sıfat ve görevleri sona erdikten sonra da devam eder.
+
+
+(2)
+Merkez Bankası mensupları görevleri dolayısıyla öğrendikleri sırları açıkca yetkili kılınan mercilerden başkasına açıklayamazlar.
+
+
+(3)
+Bankacılık sistemini ve/veya bankalara olan güveni zedeleyebilecek veya şöhretine veya servetine zarar verebilecek bir hususa kasten sebep olunamaz veya bu yolla asılsız haber yayılamaz ve/veya herhangi bir suretle yayımlanamaz. Her türlü basılı, sözlü yayın yanında radyo, televizyon, video, internet, kablolu yayın veya elektronik bilgi iletişim araçları, sosyal medya dahil ve benzeri yayın araçlarından yapılan yayınlar, bu madde çerçevesinde değerlendirilir.
+
+
+(4)
+Aşağıdaki hallerde bankalara veya müşterilerine ait bilgi ve belgelerin verilmesi, sırların ifşası sayılmaz:
+
+
+
+(A)
+Yasaların zorunlu kıldığı durumlarda.
+
+
+
+(B)
+Kamuya açıklama yapma görevi bulunduğu hallerde.
+
+
+
+(C)
+Adli soruşturma kapsamında bilgi ve belgelerin Polis Genel Müdürlüğünün yazılı olarak Resmi talebi üzerine verilmesinde.
+
+
+
+(Ç)
+Adli veya hukuki bir yargı sürecinde mahkeme emriyle veya mahkemenin talebi ile verilmesinde.
+4/2008
+
+
+(D)
+Suç Gelirlerinin Aklanmasının Önlenmesi Yasası kapsamında yetkili mercilere bilgi ve belge verilmesinde.
+
+
+
+(E)
+Kredi değerlendirilmesi amaçlarıyla sınırlı olması koşuluyla Merkez Bankası Risk Merkezi ve/veya kredi kayıt bürosu vasıtasıyla yapılan bilgi ve belge alışverişinde.
+
+
+
+(F)
+Gerçek kişi müşterinin iflasını beyan etmesi veya tüzel kişi müşterinin tasfiye edilmesinde ve girmesinde.
+
+Müşteri Haklarının Korunması 
+28.
+(1)
+Bankalar;
+
+
+
+(A)
+Sundukları hizmetler hakkında müşterilerini zamanında, doğru, tam ve anlaşılır bir şekilde bilgilendirmekle,
+
+
+
+(B)
+Talep üzerine müşteri ile yapılan tüm işlemlerine ilişkin her türlü belgenin bir suretini müşterilerine vermekle,
+
+
+
+(C)
+Merkez Bankası tarafından belirlenecek bankacılık hizmet kurallarına uymakla ve
+
+
+
+(Ç)
+Hesap açılması ve/veya kredi verilmesi sırasında kefalet ilişkisine giren müşteriler dahil olmak üzere, müşteriden talep edilecek masraflarla ilgili açıkca bilgilendirmekle ve açıkca bilgilendirmesi yapılmamış hiçbirmasrafı talep etmemekle
+
+
+
+yükümlüdürler.
+
+
+(2)
+Merkez Bankası;
+
+
+
+(A)
+Sunulan hizmetlerin şeffaf, kıyaslanabilir, anlaşılır ve erişilebilir olabilmesi için bankalara hizmetlerinin nitelikleri ile ilgili çeşitli kıstas, standart ve sınırlamalar getirebilir.
+
+
+
+(B)
+Bankalardan her türlü fiyatlandırmalarını doğru ve anlaşılır şekilde yayınlamalarını talep edebilir.
+
+
+(3)
+Referans faiz oranı ve yıllık maliyet oranı ile ilgili hesaplama ve yayına dair usul ve esaslar Merkez Bankası tarafından belirlenir.
+
+
+(4)
+Solo ve/veya konsolide bazda, amaç, şekil, suret, süre, kapsam, esas, unsur, nitelik, hesaplama, faiz oranı ilanı, muhasebeleştirilme, sınırlar belirleme, beyan usulü, fiili uygulamalar için kıstaslar, hizmetlerin sunumu ile ilgili gerek fiziki gerek sanal ortamları da kapsayacak kurallar, varsa istisna ve bu konu ile ilgili yükümlülükler dâhil ilgili hususlar,Merkez Bankası tarafından çıkarılacak bir tebliğ ile düzenlenir.
+
+Kimliklerin Tespiti ve Belgelendirilmesi
+
+29. Bankalar, doğrudan sundukları veya aracılık ettikleri her türlü hizmet için işlem yapanlar ile nam veya hesaplarına işlem yapılanların kimliklerini tespit etmek ve belgelendirmekle yükümlüdür. 
+
+Bağış ve Yardımlara İlişkin Sınırlamalar
+
+30. Bankalarca bir mali yılda yapılabilecek bağış ve yardımların miktarı, bankanın bir önceki sene sonu Aralık ayı özkaynağının %0,4 (binde dört)’ünü aşamaz. 
+
+Faaliyet Esasları ve Yükümlülüklere İlişkin Tebliğ Çıkartma Yetkisi
+
+31. Bu Yasanın bu Kısmında yer alan kuralların, uygulanmasına ilişkin talep edilecek tevsik edici belgeler, her türlü mali tablo,  solo ve/veya konsolide oran belirleme ve değerlendirmeler, taahhütnameler, tutanaklar, Resmi belgeler ve bunların şekil bildirim şartları, belgelerin saklanması ile ilgili kurallar ve bu konu ile ilgili yükümlülükler dâhil ilgili hususlar, Merkez Bankası tarafından çıkarılacak bir tebliğ ile düzenlenir.
+
+BEŞİNCİ KISIM
+Mevduat ve Katılım Fonu
+
+Mevduat veya Katılım Fonu Kabul Etme Yetkisi
+32.
+(1)
+Bu Yasa kuralları uyarınca yetkili olan mevduat bankaları ve katılım bankaları dışında, hiçbir gerçek veya tüzel kişi mevduat veya katılım fonu kabul edemez, ticaret Ünvanları ve kamuya yapacakları açıklama, ilân ve reklâmlarında ‘banka’ kelimesini veya mevduat veya katılım fonu kabul ettikleri izlenimi verecek kelime veya tabirleri kullanamazlar. 
+
+
+(2)
+Kabul edilen fonların karşılığında hesap cüzdanı yerine makbuz, katılma belgesi, senet ve benzeri belgelerin verilmesi, alınan paraların mevduat veya katılım fonu kabulü sayılmasına engel değildir.
+
+
+(3)
+Yurtdışından gelen gazete, dergi ve benzeri yayınlarda yer alan yabancı banka reklâmlarına, bu maddenin (1)’inci fıkrası kuralları uygulanmaz.
+
+Mevduat veya Katılım Fonu Sayılmayan İşlemler
+33.
+(1)
+Tasarruf, ihtiyat, yardım sağlama gibi amaçlarla resmi ve özel kuruluşlar tarafından yalnız kendi çalışanlarına yönelik kurulan sandıklar ile kooperatif şirketlerinin sadece kendi üyelerinden toplayacakları fonlar, bu Yasa kuralları amaçları bakımından mevduat veya katılım fonu sayılmaz.
+
+
+(2)
+Merkez Bankası gerekli gördüğü hallerde, yönetim kurulu kararı ile, herhangi bir işlemi mevduat veya katılım fonu sayılmayan işlem kapsamına almaya yetkilidir.
+
+Yurt Dışı Şube ve Kuruluşlar Adına Mevduat veya Katılım Fonu Kabulü
+34.
+(1)
+Bankalar, yurt dışındaki şubeleri, merkezleri ve şirketleri veya başka banka veya banka dışı finansal kuruluşlar adına yurt içinde yerleşik kişilerden mevduat veya katılım fonu kabul edemezler. 
+
+
+(2)
+Bankaların yurt dışındaki şubeleri, merkezleri ve şirketleri veya başka banka veya banka dışı finansal kuruluşlar adına mevduat veya katılım fonu toplamak üzere personel istihdam etmeleri, müşterilerini bu kuruluşlara yönlendirmeleri veya evrak düzenlemeleri, yetkisiz mevduat veya katılım fonu kabulü sayılır.
+
+Mevduat veya Katılım Fonunun Çekilmesi
+
+35. Yürürlükteki ilgili mevzuat kurallarısaklı kalmak üzere mevduat veya katılım fonu sahiplerinin mevduat veya katılım fonlarını diledikleri anda geri alma hakları sınırlandırılamaz. 
+       Ancak vadeli veya ihbarlı mevduat veya katılım fonu sahipleri ile banka arasında vade ve ihbar süresi ile mevduat veya katılım fonu sahiplerinin kendi rızası ile bloke ettirdiği mevduatlar ve katılım fonları hakkında kararlaştırılan şartlar saklıdır.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Zamanaşımı
+36.
+(1)
+(A)
+Hak sahibinin en son talebi, işlemi veya herhangi bir yazılı talimatıtarihinden başlayarak, on yıl içerisinde aranılmaması durumunda, bankalar nezdindeki mevduat, katılım fonu, emanet ve alacaklar zamanaşımına uğrar. 
+
+
+
+(B)
+Yukarıdaki (A) bendi uyarınca zaman aşımına uğrayan mevduat, katılım fonu, emanet ve alacağın tutarı, bir önceki yılsonu Aralık ayı itibarı ile yürürlükte bulunan aylık asgari ücretin %10 (yüzde on)’unu aşanlar, zamanaşımı süresinin dolmasından sonra on beş gün içerisinde, mudilerin yada mevduat sahiplerinin mevcut adreslerine bir mektup ile bildirilir ve aranmayan hesaplar, zamanaşımı süresinin bitimini izleyen takvim yılı başından itibaren altı ay içinde bankalarca sahiplerinin isimleri, kimlik numaraları, adresleri ve haklarının faizleri ile ulaştıkları tutarlar gösterilmek suretiyle düzenlenecek bir cetvel ile Merkez Bankasına devredilir.
+
+
+
+(C)
+Merkez Bankası bir önceki yılsonu Aralık ayı itibarıyla yürürlükte bulunan aylık asgari ücretin %10 (yüzde on)’unuaşan tutarları, Resmi Gazete’de ilân eder.
+
+
+(2)
+Yukarıdaki (B) bendi uyarınca Merkez Bankasına devredilen mevduat, katılım fonu, emanet ve alacaklardan tutarı bir önceki yıl sonu Aralık ayı itibarıyla yürürlükte bulunan aylık asgari ücretin %10’unu (yüzde on) aşmayanlar banka tarafından, Merkez Bankası tarafından Fona intikal ettirilir ve Fon tarafından gelir kaydedilir. 
+
+
+(3)
+Yukarıdaki (1)’inci fıkranın (C) bendi uyarınca Resmi Gazete’de yayımlandığı tarihten  itibaren bir yıl içinde sahibi veya mirasçıları tarafından aranmayan mevduat, katılım fonu, emanet ve alacaklar Fona devredilir ve Fon tarafından gelir kaydedilir.
+
+
+(4)
+Reşit olmayan hak sahipleri için zamanaşımı süresi reşit oldukları tarihten itibaren başlar.
+
+Mevduat ve Katılım Fonuna İlişkin  Tebliğ Çıkartma Yetkisi
+37. Bu Yasanın bu Kısmında yer alan, mevduat ve katılım fonu ile ilgili kuralların uygulanmasına ilişkin mevduat ve katılım fonu kapsamı, türleri, vade dilimleri, sınıflandırılması, belgelendirilmesi, faiz oranlarının ilanı, zaman aşımına uğrayan fonlarla ilgili ilân ve devir süreci, muhasebeleştirilmeleri, varsa istisnaları ve bu konu ile ilgili yükümlülükler dâhil ilgili hususlara ilişkin usul ve esaslar Merkez Bankası tarafından çıkarılacak bir tebliğ ile düzenlenir.
+
+ALTINCI KISIM
+Bankalar Tarafından Üstlenilen Riskler
+
+Risk Tanımı ve Üstlenme Esasları
+
+38.
+(1)
+
+Bankaların üstlendikleri risklerin hesaplanmasında, her türlü nakdi ve gayri nakdi yükümlülükler ile sağlanan her türlü finansman ve yatırımlar nedeniyle üstlenilen riskler dikkâte alınır. Bu kapsamda aşağıda belirtilen hesaplar, izlendikleri hesaba bakılmaksızın risk sayılır:
+
+
+
+(A)
+Bankanın vereceği nakdi krediler ile teminat mektupları, kontrgarantiler, kefaletler, aval, ciro ve kabuller gibi gayri nakdi krediler ve bu niteliği haiz taahhütler, satın alacağı tahvil ve benzeri sermaye piyasası araçları, tevdiatta bulunmak suretiyle ters repo dâhil, herhangi bir şekil ve surette vereceği ödünçler, varlıkların vadeli satışından doğan alacaklar, vadesi geçmiş nakdi krediler, tahakkuk etmekle birlikte tahsil edilmemiş faizler, gayri nakdi kredilerin nakde dönen bedelleri, ters repo işlemlerinden alacaklar, vadeli işlem ve opsiyon sözleşmeleri ile benzeri diğer sözleşmeler nedeniyle üstlenilen yükümlülükler, ortaklık payları.
+
+
+
+(B)
+Kalkınma ve yatırım bankalarının finansal kiralama yöntemiyle sağladığı finansmanlar ile katılım bankalarının taşınır ve taşınmaz mal ve hizmet bedellerinin ödenmesi suretiyle veya kâr ve zarar ortaklığı yatırımları, taşınmaz, ekipman veya emtia temini, finansal kiralama, mal karşılığı vesaikin finansmanı, ortak yatırımlar veya benzer yöntemlerle sağladıkları finansmanlar.
+
+
+
+(C )
+Merkez Bankası tarafından risk olarak kabul edilen işlemler.
+
+
+(2)
+Bankaların, risk üstlenmesi ve üstlenilen risklerin izlenmesine ilişkin basiretli ve etkin politika oluşturmaları, süreçler geliştirmeleri ve uygulamaları zorunludur.
+
+
+(3)
+Merkez Bankası;
+
+
+
+(A)
+Risklerin türlerinin belirlenmesi, doğru tanımlanması ve sektörde bir yeknesaklık oluşturmak amacıyla çeşitli kıstaslar, eşikler tayin edebilir.
+
+
+
+(B)
+Üstlenilecek risklere türleri itibarıyla, asgari teminat, azami risk üstlenme oranı, süresi ve tutarı da dâhil olmak üzere kıstaslar belirleyebilir.
+
+
+
+(C)
+Bu Yasa bakımından, teminatların çeşitlerini, tüm şekil şartlarını, özelliklerini, riskleri karşılama oranlarını, kabullerini ve dikkâte alınma koşullarını belirleyebilir.
+
+Risk Üstlenme Yetkisi
+39.
+(1)
+(A)
+Bankaların risk üstlenmesine ilişkin yetki, banka yönetim kuruluna aittir. 
+
+
+
+(B)
+Banka yönetim kurulu, yukarıdaki (A) bendinde belirtilen yetkisini, bankanın dâhil olduğu risk grubu lehine üstlenilenler hariç olmak üzere, risk üstlenme yetkisini belirlediği esaslar uyarınca oluşturulacak komitelere veya genel müdürlüğe devredebilir.
+
+
+(2)
+Banka adına risk üstlenme yetkisine sahip olanlar, kendileri veya kendileri ile risk grubu oluşturan kişiler lehine risk üstlenme işlemlerine ilişkin değerlendirme ve karar verme süreçlerinde yer alamazlar.
+
+Risk Grupları
+
+40.
+(1)
+Bir gerçek kişi ile eşi ve çocukları ve bunların yönetim kurulu üyesi veya genel müdürü oldukları yada bunların bir tüzel kişinin birlikte veya tek başlarına, doğrudan veya dolaylı olarak kontrol ettikleri veya nitelikli pay ile katıldıkları ortaklıklar bir risk grubunu oluşturur.
+
+
+(2)
+Bir banka ile bu bankanın nitelikli pay sahipleri, yönetim kurulu üyeleri ve genel müdürü, bunların birlikte veya tek başına, doğrudan veya dolaylı olarak kontrol ettikleri veya bunların katıldıkları veya yönetim kurulu üyesi veya genel müdürü oldukları ortaklıklar bankanın dâhil olduğu risk grubunu oluşturur.
+
+
+(3)
+Bu maddenin uygulanmasında aralarında birinin ödeme güçlüğüne düşmesinin diğer bir veya birkaçının ödeme güçlüğüne düşmesi sonucunu doğuracak boyutta kefalet, teminat, garanti veya benzeri ilişkiler bulunan gerçek ve tüzel kişilerin, ilgili risk gruplarına dâhil edilmesi zorunludur. 
+
+
+(4)
+Bu madde kapsamında uygulanabilecek istisna ve varsa ilgili konulardaki koşul ve kurallar, oranlar, nitelikler, usul ve bu konu ile ilgili yükümlülükler dâhil usul ve esaslar Merkez Bankası tarafından çıkarılacak tebliğ ile düzenlenir. 
+
+Risk Üstlenme Sınırları 
+41.
+(1)
+Bankaların bir risk grubu lehine üstleneceği toplam risk, banka özkaynağının % 25 (yüzde yirmi beş)’ini aşamaz. Bankanın dâhil olduğu risk grubu için bu oran % 20 (yüzde yirmi) olarak uygulanır. Devlet kefaletini haiz risklerde bu oran toplam özkaynağın %100 (yüzde yüz)’ünü aşamaz.
+
+
+(2)
+Bir risk grubunun, banka özkaynağının %10 (yüzde on)’u üzerindeki riskleri büyük risk sayılır. Büyük risklerin toplamı, banka özkaynağının sekiz katını aşamaz. 
+
+
+(3)
+Bankaların, finansal kuruluşlar dışındaki bir şirketteki payı, kendi özkaynaklarının %15 (yüzde onbeş)’ini, bu tür şirketlerdeki paylarının toplamı ise kendi özkaynaklarının %60 (yüzde altmış)’ını aşamaz.
+
+
+(4)
+Bankalar, kendilerinde doğrudan veya dolaylı olarak pay sahibi olan kuruluşlarda doğrudan veya dolaylı olarak pay sahibi olamazlar, bu kuruluşların hisse senetlerini rehin olarak kabul edemezler ve karşılığında avans veremezler. 
+
+
+(5)
+Bankalar iştirak ettikleri şirket ve kuruluşlara, hisse senetlerini hiçbir şart ve şekilde satamazlar ve rehin olarak veremezler.
+
+
+(6)
+Bankaların, yasal sınırlara uygun, kendi yapılarıyla uyumlu risk sınırları belirlemeleri ve risk yoğunlaşmasından kaçınmaları şarttır.
+
+
+(7)
+Merkez Bankası bankaların veya sektörün, likiditesine, yükümlülüklerine, aktif kalitesine bakarak, gerek sektör gerekse de banka ve risk grubu bazında bu maddede belirtilen sınırlardan daha ihtiyatlı risk sınırları belirlemeye ve gerekli gördüğü işlemleri sınırlamaya yetkilidir.
+
+
+(8)
+Bankalar üstlendikleri riskleri derecelendirmek, karşı tarafın mali gücünü analiz etmek, Merkez Bankasının belirlediği kurallar uyarınca rapor düzenlemek ve düzenli olarak izlemek, gerekli bilgi ve belgeleri, hesap durumu belgesi dâhil, temin etmek ve bunlara ilişkin esasları belirlemek zorundadırlar. Bankalar bu çerçevede konsolide ve konsolide olmayan düzeyde istenilen bilgi ve belgeleri müşterilerden almakla yükümlüdürler. 
+
+
+(9)
+Aşağıdaki bentlerde belirtilen işlemler bu maddede düzenlenen sınırlamalara tabi değildir.
+       Ancak Merkez Bankası bunlarla ilgili karşı taraf ve yoğunlaşma ve benzeri riskleri de dikkâte alarak, banka özkaynakları ile paralel, işlem, risk grubu ve sektör bazında üst sınır belirleyebilir.
+
+
+
+(A)
+Karşılığı bu Yasanın 44’üncü maddesindeki düzenlemesi ile uyumlu ve banka nezdinde nakit olarak bloke edilen işlemler. 
+22/2020
+
+
+(B)
+Merkez Bankası tarafından belirlenecek durum ve kriterler çerçevesinde risklerde kur değişikliklerinin doğurduğu artışlar.
+
+
+
+(C)
+Merkez Bankası ile bu banka nezdindeki piyasalarda yapılan işlemler.
+
+
+
+(Ç)
+Özkaynak hesabında indirilecek değer olarak dikkâte alınan işlemler.
+
+
+
+(D)
+Merkez Bankası tarafından belirlenecek oran, süre, usul ve esaslar dâhilinde diğer işlemler.
+
+
+(10)
+Gayri nakdi krediler, vadeli işlem ve opsiyon sözleşmeleri ile benzeri diğer sözleşmeler, kabul edilen aval, garanti ve kefaletler, finansal kuruluşlarla gerçekleştirilen işlemler, Merkez Bankası tarafından kabul edilecek ülkelerin merkezi yönetimleri, merkez bankaları ve bankaları ile yapılan işlemler veya bunlar tarafından çıkarılan veya ödenmesi garanti edilen bono, tahvil ve benzeri sermaye piyasası araçları, verilen diğer garantiler karşılığı yapılan işlemlerin dikkâte alınma oran, usul ve bu konu ile ilgili yükümlülükler dâhil ilgili hususlara ilişkin usul ve esaslar Merkez Bankası tarafından çıkarılacak bir tebliğ ile düzenlenir.
+
+Banka Risk Grubu ve Çalışanları Lehine Üstlenilecek Riskler
+
+42.
+(1)
+Banka risk grubunda bulunan kişiler lehine, risk üstlenilmesi için banka yönetim kurulu üye tam sayısının salt çoğunluğunun onayı gereklidir.
+
+
+(2)
+Banka risk grubunda bulunan kişiler hariç olmak üzere, üst yönetimdekiler veya diğer çalışanları ile bunların risk grubu oluşturdukları kişiler lehine üstlenebileceği teminatsız risk toplamı, çalışanların bankadan aldıkları aylık net ücretin oniki katını aşamaz.
+Bu fıkranın uygulanmasında kefalet teminat olarak sayılmaz.
+
+
+(3)
+Banka risk grubunda bulunan kişiler ve çalışanları ile bunlarla risk grubu oluşturan kişiler lehine, bankanın üstlendiği risklerin koşullarının diğer kişi ve gruplar lehine üstlenilen riskler ve piyasa koşullarından avantajlı bir durumda olmaması esastır.
+
+Karşılıklar
+
+
+
+
+43.
+(1)
+(A)
+Bankalar, her türlü riskleri ile ilgili olarak, doğmuş veya doğması muhtemel zararlar veya değer azalışlarının karşılanması için yeterli düzeyde karşılık ayrılmasına ilişkin politikaları oluşturmak ve uygulamak, düzenli olarak gözden geçirmek, tüm bu hususların yürütülmesini sağlayacak gerekli yapıları kurup işletmek zorundadırlar. 
+
+
+
+(B)
+Bankalar, karşılık politikalarında yapacakları değişiklikleri, gerekçe ve uygulama sürelerini de kapsayacak bir plan dâhilinde, değişikliğin uygulanacağı mali yılın en geç Ocak ayı sonuna kadar Merkez Bankasına bildirmek zorundadırlar. 
+
+
+
+(C)
+Bankaların içinde bulundukları mali yıl ile ilgili olarak karşılık politikalarını değiştirebilmeleri Merkez Bankasının yazılı onayı ile olur.
+
+
+(2)
+Bu madde kuralları uyarınca tahsili gecikmiş alacaklar için ayrılan özel karşılıklar, ayrıldıkları yılda kurumlar vergisi matrahının tespitinde gider olarak kabul edilir.
+
+
+(3)
+Merkez Bankası, banka, işlem veya risk grubu bazında, bankanın genel durumunu, mali yapısını, aktif kalitesini ve risk politikalarını, birlikte veya bunlardan birini dikkâte almak kaydıyla genel ve özel karşılık oranları ile özel karşılıkların hesaplanmasında teminatların dikkâte alınma oranlarında farklılaştırma yapabilir. 
+
+
+(4)
+Merkez Bankası, solo ve/veya konsolide bazda, kredilerin ve diğer alacakların sınıflandırılması, donuk alacaklar ve diğer alacakların sınıflandırılmasında dikkâte alınacak hususlar, genel karşılıklar, özel karşılıklar ve oranları, teminatlar, özel karşılıkların hesaplanmasında teminatların dikkâte alınması, kredilerin ve diğer alacakların yeniden yapılandırılması, raporlanması, değerleme, istisnalar, muhasebesi, izlenmesi, katılım bankalarınca kullandırılan fonlar ve diğer alacaklar, çeşitli sektör, risk türü, ülke ve işlem benzeri gibi koşullara göre değişik uygulamaların yapılması ve bu konu ile ilgili yükümlülükler de dâhil ilgili hususlara ilişkin usul ve esasları belirleyen bir tebliğ çıkarır.
+
+Bankalar Tarafından Üstlenilen Risklere İlişkin Tebliğ Çıkartma Yetkisi 
+44. Bu Yasanın bu Kısmında yer alan risk tanımı, kapsamı, nitelikleri, bankalar tarafından üstlenilen riskler ile ilgili kuralların uygulanmasına ilişkin olarak risk gruplamalarında dikkât edilmesi gereken hususlar, risk türleri, teminatlar, özellikli olarak düzenlenen riskler, bunlara ilişkin sınırlamalar, risk üstlenme esasları, risk üstlenme yetkisi ve devri, komitelerin oluşumu ve çalışma esasları, hesap durumu belgesi alınması, hesap durumu olarak kabul edilecek belgeler, hesap durumu belgelerinin denetlenmesi, derecelendirme, denetim yapabilecek kişi ve/veya kuruluşların nitelikleri, raporları, görüşleri, risk sınırlarında dikkâte alınma oranları, risklere ilişkin sınırlamalar, risk sınırlarının konsolide esasa göre hesaplanması, yabancı ülkelerin merkezi yönetimleri, merkez bankaları ve kredi kurumları ile ilgili işlemlerin dikkâte alınma oranları, merkezi veya şubesi yurt dışında bulunan bankaların merkezleri ve yurt dışında bulunan diğer şubeleri ile yaptıkları işlemler, risk sınırlamalarına tabi olmayan veya belli oran, süre ve sınırlarda tabi olmayan işlemler, risk sayılan işlem ve hesaplar, teminatlarla ilgili alt ve üst sınırlamalar, yoğunlaşma ile ilgili üst sınır,  blokelerin düzenlenmesi, şekil şartları ve geçerlilikleri ile ilgili kurallar, risk sınırlarının izlenmesi, limit aşımları, bankalarca finansman sağlama yöntemleri, muhasebeleştirilmeleri, istisnaları ve bu konu ile ilgili yükümlülükler dâhil ilgili hususlarla ilişkin, usul ve esaslar, Merkez Bankası tarafından çıkarılacak bir tebliğ ile düzenlenir.
+
+
+YEDİNCİ KISIM
+Koruyucu Düzenlemeler
+
+Özkaynaklar
+45.
+(1)
+(A)
+Banka özkaynakları uluslararası standartlar dikkâte alınarak Merkez Bankası tarafından tanımlanan şekilde hesaplanır. 
+
+
+
+(B)
+Merkez Bankası solo ve/veya konsolide bazda hangi isim ve nitelikteki hesapların ne oranda çekirdek sermaye, ilave ana sermaye, katkı sermaye olarak özkaynak hesaplamasına dâhil edileceği veya sermayeden indirim kalemi olacağı, sermaye benzeri niteliğindeki kredilerin hangi koşul, süre ve oranda özkaynak sayılabilirken, ne zaman hesaplardan silinebileceği veya hisse senedine dönüşebileceği ile ilgili asgari hususlara ilaveten muhasebeleştirilmeleri, varsa istisnaları, hesaplamaların ayrıntıları için alt düzenlemeler ve bu konu ile ilgili yükümlülükler de dâhil ilgili hususlara ilişkinusul ve esasları belirleyen bir tebliğ çıkarır.
+
+
+(2)
+(A)
+Banka özkaynaklarının, yukarıdaki (1)’inci fıkra hükümleri saklı kalmak kaydıyla, bu Yasanın 7’nci maddesinin (3)’üncü fıkrasında belirtilen asgari sermaye altına düşmemesi şarttır.
+
+
+
+(B)
+Asgari sermayenin altına düşen bankalara, uygulanacak tedbir, yaptırım ve ceza kuralları saklı kalmak şartıyla, bir ay içinde durumlarını düzeltememeleri halinde, bu Yasanın 23’üncü maddesinde sayılan faaliyetleriMerkez Bankası tarafından yasaklanabilir.
+
+
+(3)
+Bankalar, özkaynakların korunması ve güçlendirilmesine ilişkin olarak Merkez Bankası tarafından alınacak kâr dağıtımının onaya bağlanması, yıllık kârdan muhtemel zararlar karşılığı ayırmak da dâhil tüm tedbirlere uymakla yükümlüdür. 
+
+
+(4)
+Sermaye artış ve azalışları, Merkez Bankasının onayına tabidir. Sermaye artırımlarının, her türlü muvazaadan âri olarak, bu Yasa ile bu Yasa altında çıkarılacak tebliğlerde izin verilen kaynaklar hariç, kredi veya banka iç kaynaklarına başvurulmadan, nakden ödenmesi şarttır. Onaylanmamış artışlar, özkaynak hesabında dikkâte alınmaz.
+
+
+(5)
+Merkez Bankası, bu Yasa kurallarına aykırı olarak üstlenildiği tespit edilen risklerin, ilgili bankanın özkaynak hesabında indirim kalemi olarak dikkâte alınmasına karar vermeye veya bu riskler tutarında ilave özkaynak temin edilmesini zorunlu tutmaya yetkilidir.
+
+Bankaların Maruz Oldukları Risklere İlişkin Yükümlülükler
+46.
+(1)
+(A)
+Bankalar, maruz kalınan risklerden dolayı oluşabilecek zararlara karşı yeterli özkaynak bulundurmak ve %10 (yüzde on) oranından az olmamak üzere Merkez Bankası tarafından belirlenecek sermaye yeterlilik oranlarına uymakla yükümlüdürler. 
+
+
+
+(B)
+Merkez Bankası, yukarıdaki (A) bendi uyarınca uluslararası kurallara uygun olarak solo ve/veya konsolide tespit edilen kredi riski, piyasa riski, operasyon riski ve diğer riskleri belirleyerek,bunların ölçüm modellerini belirlemek, belirlenen modeller ile bunların alt hesaplamaları ve riskleri için alt düzenlemeler yapmak, muhasebeleştirilmeleri,  istisnaları ve bu konu ile ilgili yükümlülükler dedahil usul ve esaslar belirleyen bir tebliğçıkarır.
+
+
+(2)
+Bankalar, kaldıraç etkisiyle maruz kalınan muhtemel risklere karşı yeterli sermaye bulundurmak için Merkez Bankasının belirleyeceği kaldıraç oranına uymakla yükümlüdürler.
+
+
+(3)
+Merkez Bankası, bankalar tarafından sermaye koruma tamponu ve döngüsel sermaye tamponu olarak bulundurulması gereken ilave ana sermaye tutarının hesaplanması ve ilave ana sermaye gereksiniminin karşılanmaması durumunda yapılacak işlemler ile alınacak tedbirler ve bu konu ile ilgili yükümlülükler de dahilusul ve esasları belirleyen bir tebliğ çıkarır.
+
+
+(4)
+Bankalar, bankacılık hesaplarında yer alan bilanço içi ve bilanço dışı pozisyonlarından kaynaklanan faiz oranı riskini, Merkez Bankasının belirleyeceği yöntemler dâhilinde ölçmekle yükümlüdürler.
+
+Likidite Yeterliliği
+47.
+(1)
+Bankalar, yükümlülüklerini zamanında karşılayabilecek şekilde yeterli likit varlık bulundurmak ve Merkez Bankası tarafından belirlenecek likidite oranlarına uymakla yükümlüdürler. 
+
+
+(2)
+Yukarıdaki (1)’inci fıkra uyarınca Merkez Bankası solo ve/veya konsolide likidite düzeyinin ölçülmesi, likidite karşılama oranı belirlemek, bunlar için likit varlıkları, stokları kalitelerine göre ayırarak ölçmek, net nakit çıkışı ve hesaplamasını yapmak, borçları, yükümlülükleri sınıflamak, bunlar için gerekli alt düzenlemeleri yapmak, oranları, raporları, muhasebeleştirilmeleri, istisnaları ve bu konu ile ilgili yükümlülükler dedahilusul ve esaslar, Merkez Bankası tarafından çıkarılacak bir tebliğ ile düzenlenir.
+
+Yükümlülükleri Belirleme Yetkisi
+
+48.
+(1)
+(A)
+Merkez Bankası, bankaların varlıkları, alacakları, özkaynakları, borç, yükümlülük ve taahhütleri, gelir ve giderleri arasındaki ilgi ve denge ile mali bünyeyi etkileyen diğer tüm unsurların ve maruz kalınan risklerin tespiti, izlenmesi, ölçülmesi ve değerlendirilmesi amacıyla sınırlamalar ve standart oranlar da belirlemek suretiyle gerekli düzenlemeleri yapmaya ve bunlar hakkında her türlü tedbiri almaya yetkilidir. 
+
+
+
+(B)
+Bankalar, yapılan düzenlemelere uymak, belirlenen sınırlamaları ve standart oranları tutturmak ve idame ettirmek ve bunlara ilişkin olarak Merkez Bankası tarafından istenen tedbirleri belirlenen süreler içinde almak ve uygulamakla yükümlüdür.
+
+
+(2)
+(A)
+Merkez Bankası, her bir banka veya banka grubu için belirlenen asgari veya azami standart oranlar ve sınırlardan farklı daha ihtiyatlı bir oran veya sınır tesis etmeye veya hesaplama ve bildirim dönemlerini farklılaştırmaya veya genel olarak belirlenmemiş oran ve sınırlar tespit etmeye yetkilidir. 
+
+
+
+(B)
+Bu Yasa kapsamında öngörülen sınırlamalara ve standart oranlara ilişkin eşiklere erişilmesi veya aşımların oluşması durumunda, ilgili banka durumu en geç takip eden ilk iş gününde Merkez Bankasına bildirmek zorundadır.
+
+Koruyucu Düzenlemelere İlişkin Tebliğ Çıkartma Yetkisi
+49. Bu Yasanın bu Kısmında yer alan, koruyucu düzenlemeler ile ilgili kuralların uygulanmasına ilişkin solo ve/veya konsolide sermaye koruma ve döngüsel sermaye tamponları, ilave ana sermaye, sermaye koruma tamponu oranı, çekirdek sermaye, ilave çekirdek sermaye hesaplaması, oranlar, sınırlamalar, sermaye koruma planı, kâr dağıtımı ile ilgili sınırlamalar, önlemler, hesaplama yöntemleri, kaldıraç oranı, konsolide kaldıraç oranı, faiz oranı rasyosunun ve risklerinin hesaplanması, oransal sınırlamalara uyumsuzluk,  net pozisyon tutarı, indirime esas oran, iskonto oranı, bankacılık hesapları, net pozisyon tutarı, özkaynak, bunların bildirim şekli, bu oranların banka bazında değiştirilmesi, muhasebeleştirilmeleri, varsa istisnaları ve bu konu ile ilgili yükümlülüklerle ilgili usul ve esaslar Merkez Bankası tarafından çıkarılacak bir tebliğ ile düzenlenir.
+
+
+
+SEKİZİNCİ KISIM
+Finansal Kayıtlar ve Raporlama
+
+Muhasebe Sistemi
+50. Bankalar işlemlerini kayıt dışı bırakamazlar ve gerçek mahiyetlerine uygun düşmeyen bir şekilde muhasebeleştiremezler. Bankalar, Merkez Bankası tarafından belirlenen muhasebe standartları ile hesap planına uymak ve tüm işlemlerin muhasebe kayıtlarını gerçek niteliklerine uygun, zamanında, eksiksiz ve doğru bir şekilde tutmakla yükümlüdürler.
+
+
+Finansal Raporların Düzenlenmesi
+51. Bankalar, finansal raporlarını bilgi edinme ihtiyacını karşılayabilecek biçim ve içerikte, anlaşılır, güvenilir, karşılaştırılabilir, denetime, analize ve yorumlamaya elverişli, zamanında, eksiksiz ve doğru şekilde düzenlemekle yükümlüdürler.
+
+Finansal Raporların Sunulması ve Açıklanması
+52. Bankalar tarafından düzenlenen finansal raporlardan, Merkez Bankası tarafından belirlenenlerin, belirlenen şekil şartlarına uygun ve belirlenen dönemlerde ilgili banka yönetim kurulu üyeleri ve/veya yöneticileri tarafından finansal raporlamaya ilişkin düzenlemelere ve muhasebe kayıtlarına uygun olduğu belirtilerek imzalanması ve/veya bağımsız denetimden geçirilmesi ve/veya Merkez Bankasına sunulması ve/veya kamuya açıklanması şarttır. Bu madde uyarınca uygulanacak usul ve esaslar, bu Yasanın 53’üncü maddesi gereği çıkarılacak tebliğde belirlenir.
+
+Finansal Raporlamaya İlişkin Tebliğ Çıkartma Yetkisi
+53. Bu Yasanın bu Kısmında yer alan, finansal kayıtlar ve raporlama ile ilgili kuralların uygulanması için  solo ve/veya konsolide hesap planı, hesap planı izahnamesi, muhasebe standartları, kamuya açıklanacak hesaplar, tablolar, dipnotlar, bunların şekli ile zamanı, dönemsel raporlamalar ve bunların içereceği hesaplar, hesapların nitelikleri, alt düzenlemeleri, takibi, formatı, bildirim zamanı, bildirim şekli, bilgi işlem alt yapısı, bilgisayardaki kayıtlar, elektronik ortamda gönderilen veriler ile ilgili unsurlar, kontroller, muhasebeleştirilmeleri, varsa istisnaları ve bu konu ile ilgili yükümlülüklere  ilişkin usul ve esaslar Merkez Bankası tarafından çıkarılacak bir tebliğ ile düzenlenir.
+
+DOKUZUNCU KISIM
+Gözetim ve Denetim
+
+
+Gözetim ve Denetim Yetkisi 
+54. Bu Yasa, ilgili diğer mevzuat kuralları ile Merkez Bankası tarafından alınan kararların bankalar tarafından uygulanması ve bankaların yaptıkları işlemler ile bankaların mali bünyesini etkileyen unsurlar ve maruz kaldıkları risklere ilişkin gözetim ve denetim faaliyetleri Merkez Bankasıtarafından yürütülür.
+
+Konsolide Gözetim ve Denetim
+55.
+(1)
+(A)
+Bankalar, Merkez Bankasının konsolide gözetim ve denetimine tabidirler.
+
+
+
+(B)
+Konsolide esasta gözetim ve denetime tabi olacak bankalar ve ilgili şirketler uluslararası standartlar da dikkâte alınarak Merkez Bankası tarafından belirlenir.
+
+
+
+(C)
+Konsolide gözetim ve denetim kapsamına alınan bankalar bu Yasa kapsamındaki kurallara solo ve konsolide bazda uymakla yükümlüdürler.
+
+
+(2)
+Kuzey Kıbrıs Türk Cumhuriyetinde kurulu bankaların, konsolide denetime tabi şirketlerinin denetimi, gerek duyulması halinde, Merkez Bankası ve konsolide denetime tabi şirketlerin gözetim ve/veya denetimi konusunda yetkili mercilerle birlikte gerçekleştirilir. 
+
+Yabancı Ülkelerin Kuzey Kıbrıs Türk Cumhuriyetindeki Şube ve Şirketlerinin Denetimi ile İlgili Bilgi Paylaşımı
+56.
+(1)
+Bu Yasa kuralları uyarınca, Kuzey Kıbrıs Türk Cumhuriyetinde faaliyet gösteren şube ve/veya şirketlere ait bilgi ve belgelerin yabancı ülkelerde kurulu ana şirketler ve/veya yabancı ülkelerin gözetim ve denetime yetkili mercileri ile paylaşılması ve/veya bu Yasa kuralları uyarınca Kuzey Kıbrıs Türk Cumhuriyetinde faaliyet gösteren şube ve/veya şirketlerde yabancı ülkelerde kurulu ana şirketler ve/veya yabancı ülkelerin gözetim ve denetime yetkili mercilerinin denetim yapması Merkez Bankasının iznine tabidir.
+
+
+(2)
+Merkez Bankası yabancı ülkelerin yetkili mercileri ile yapacağı anlaşmalar uyarınca bankacılıkla ilgili her türlü işbirliği ve bilgi alışverişinde bulunmaya yetkilidir.
+
+Bilgi ve/veya Belge Verme Yükümlülüğü
+
+57.
+(1)
+Merkez Bankası, bankalardan, bankaların şubeleri ve temsilciliklerinden, konsolide denetime tabi şirketlerden, ilgili kuruluşlardan, kamu kurum ve kuruluşlarından ve diğer gerçek ve tüzel kişilerden bu Yasa kurallarının uygulanmasıyla ilgili olarak gerekli göreceği bütün bilgi ve/veya belgeleri gizli dahi olsa istemeye ve/veya incelemeye yetkilidir.
+
+
+(2)
+Yukarıdaki (1)’inci fıkra uyarınca bilgi ve/veya belge istenenler, yasal yönden engel bulunmaması halinde istenilen bilgi ve/veya belgeleri vermekle ve/veya incelemeye hazır bulundurmakla yükümlüdür. 
+
+Raporlama Yükümlülüğü 
+58.
+(1)
+Bankalar ve konsolide denetime tabi şirketleri ayrıca bu Yasa, ilgili diğer mevzuat kuralları ile Merkez Bankası tarafından alınan kararların bankalarca uygulanması ve bankaların yaptıkları işlemler ile bankaların mali bünyesini etkileyen unsurlar ve maruz kaldıkları risklerin izlenebilmesi amacıyla istenilen her türlü rapor ve finansal tabloları zamanında, eksiksiz ve doğru şekilde Merkez Bankasına sunmakla yükümlüdürler.
+
+
+(2)
+Yukarıdaki (1)’inci fıkra kapsamdaki şirketler iç sistemleri dâhil, yapı ve sistemlerini konsolide denetime uygun ve hazır hale getirmekle mükelleftirler.
+
+Denetlenen Bankaların Yükümlülükleri
+59. Bankalar ve konsolide denetime tabi şirketleri Merkez Bankası tarafından gerçekleştirilen denetimlerde istenilen her türlü bilgi ile belgeye zamanında, eksiksiz ve doğrudan ulaşılmasını ve denetim amacıyla talep edilen her türlü desteği sağlamakla yükümlüdürler.
+
+Gözetim ve Denetime İlişkin Tebliğ Çıkartma Yetkisi
+60. Bu Yasanın bu Kısmı kapsamında gözetim ve denetime tabi bankalar ve konsolide denetime tabi şirketlerden istenecek raporları ve raporların şekli, bildirimi, muhasebeleştirilmesi, istisnaları, tevsik edici belgeleri, beyanı, taahhütnameleri, yabancı ülkelerdeki kuruluşların Kuzey Kıbrıs Türk Cumhuriyetindeki gözetim ve denetim faaliyetlerinin çerçevesinde talep edilebilecek resmi belge, bilgi ve beyannameleri, yemin ve benzeri hususlar ile süreçlere ve bu konu ile ilgili yükümlülüklere ilişkin usul ve esaslar Merkez Bankası tarafından çıkarılacak bir tebliğ ile düzenlenir.
+
+
+
+ONUNCU KISIM
+Gözetim ve Denetim Sonucunda Alınacak Tedbirler
+
+Banka Yönetiminin Uyarılması
+61.Merkez Bankası tarafından yürütülen gözetim ve denetim faaliyetleri sonucunda bir bankada aşağıdaki fıkralarda belirtilen durumlardan birinin tespit edilmesi halinde, Merkez Bankası altı ayı aşmamak üzere belirlediği süre içerisinde ve yapılacak cezai kovuşturma saklı kalmak koşulu ile gerekli gördüğü tedbirlerin alınması ve uygulanması ile aykırılıkların giderilmesini banka yönetim kurulundan isteyebilir. Merkez Bankası tarafından bu süre, on iki aya kadar uzatılabilir. Banka, verilen süre içinde Merkez Bankası tarafından istenen tedbirleri almak ve aldığı tedbirleri Merkez Bankasına bildirmek zorundadır.
+
+
+(1)
+Özkaynaklarının maruz kalınan riskler nedeniyle oluşabilecek zararlara karşı yetersiz olması.
+
+
+(2)
+Aktif kalitesinin mali bünyeyi zayıflatabilecek şekilde bozulması,
+
+
+(3)
+Varlıklarının yükümlülüklerini vadesinde yerine getirememe tehlikesiyle karşı karşıya gelmesi.
+
+
+(4)
+Kârlılığının faaliyetleri emin bir şekilde yürütecek yeterlilikte olmaması.
+
+
+(5)
+Yönetiminin kurumsal yönetim ilkelerine aykırı hareket etmesi, iç sistemleri kurmaması veya bu sistemleri etkin ve yeterli bir şekilde işletmemesi.
+
+
+(6)
+Mali bünyesini zayıflatan veya faaliyetlerini emin bir şekilde yürütmesinitehlikeye düşüren risklerin önemli ölçüde artması veya bu nitelikte işlemlerin olması.
+
+
+(7)
+Merkez Bankası tarafından istenen raporlamaları yapmaması, eksik, gecikmeli veya hatalı yapması veya gözetim ve denetimi engelleyici herhangi bir hususun, girişimin veya tutumun bulunması, bankanın faaliyetleri veya mali bünyesi hakkında  Merkez Bankasını yanıltmak veya yanlış yönlendirmek maksadıyla eksik ve/veya hatalı bilgi veya belge sunulduğuna kanaat getirilmesi.
+
+
+(8)
+Bu Yasa, ilgili diğer mevzuat ve Merkez Bankasınca alınan kararlara aykırı nitelikte husus, işlem veya kararların bulunması.
+
+Bankaya Yaptırım Uygulanması
+62. Merkez Bankası tarafından yürütülen gözetim ve denetim faaliyetleri sonucunda bir banka hakkında, bu Yasanın 61’inci madde kuralları uyarınca alınması istenen tedbirlerin verilen süre içerisinde alınmadığı veya alınan tedbirlere rağmen sorunların giderilemediği veya bu tedbirlerin alınması durumunda dahi sonuç alınamayacağının tespit edilmesi halinde, Merkez Bankası tarafından bankaya aşağıdaki fıkralarda belirtilen yaptırımlar  uygulanır ve oniki ayı aşmamak üzere belirlediği süre içerisinde gerekli gördüğü tedbirlerin alınıp uygulanması suretiyle aykırılıkların giderilmesini banka yönetim kurulundan talep eder. 
+
+
+(1)
+Yönetim kurulu üyeleri ve/veya yöneticilerinin bir kısmının veya tamamının görevden alınması veya üye sayısı artırılarak üye atanması, bu fıkraya göre bankalara atanacak yönetim kurulu üyelerinin ücretlerinin Fon veya ilgili banka tarafından  karşılanması.
+
+
+(2)
+Faaliyetlerinin, bu Yasanın 23’üncü maddesinin (2)’nci fıkrası kapsamında faaliyet türleri itibarıyla tüm teşkilatını veya gerekli görülecek yurt içi veya yurt dışı şubelerini veya muhabirlerle ilişkilerini kapsayacak şekilde kısıtlanması veya geçici olarak durdurulması.
+
+
+(3)
+Kaynak toplaması ve kullandırmasına ilişkin her türlü sınırlama ve kısıtlamanın getirilmesi.
+
+
+(4)
+Varlıklarının elden çıkarılması ve yatırımlarının durdurulması,
+
+
+(5)
+Ücret ve diğer ödemeler dâhil giderlerinin sınırlandırılması veya durdurulması.
+
+
+(6)
+Bu Yasa ve ilgili diğer mevzuat kapsamında tabi olduğu yükümlülüklerin değiştirilmesi ve/veya ilave yükümlülük belirlenmesi.
+
+
+(7)
+Merkez Bankasının aracı veya taraf olduğu işlemler ile sunduğu hizmetlere erişiminin sınırlandırılması veya durdurulması.
+
+
+(8)
+İştirakler ve gayrimenkuller gibi duran değerlerin elden çıkarılması da dâhil olmak üzere, likiditenin güçlendirilmesi amacıyla, uygun göreceği her türlü tedbirin alınması.
+
+
+(9)
+Kar dağıtılmaması, yönetim kurulu üyeleri ile genel müdür vegenel müdür yardımcılarının ikramiye, prim, ayni ve nakdi sosyal yardım ya da her ne ad altında olursa olsun verilen ek ödemelerin durdurulması.
+
+
+(10)
+Belirli kişi, risk grubu veya sektörlere nakdi ve gayrinakdi kredi kullandırımının sınırlandırması veya yasaklanması.
+
+Faaliyet İzni Kaldırılmadan Banka Yönetiminin Fona Devri ve Fonun Görevleri
+63.
+(1)
+Kuzey Kıbrıs Türk Cumhuriyetinde kurulu bir bankada aşağıdaki öngörülen durumlardan birinin tespit edilmesi halinde, Merkez Bankası yönetim kurulunun en az dört üyesinin onayıyla, bankanın faaliyet izni kaldırılmadan hisse sahipliği mevcut hissedarlarda kalmak kaydıyla temettü hariç, hisse sahipliğinin banka hissedarlarına verdiği tüm haklar ile bankanın yönetim ve denetimini Fona devretmeye yetkilidir.
+
+
+
+(A)
+Bu Yasanın 62’nci maddesi kapsamında belirlenen yaptırımlara uyulmaması ve/veya alınması istenen tedbirlerin verilen süre içerisinde alınmaması veya alınantedbirlere rağmen sorunların giderilememesi veya bu tedbirlerin alınması durumunda dahi sonuç alınamayacağının tespit edilmesi.
+
+
+
+(B)
+Yükümlülüklerinin toplam değerinin varlıklarının toplam değerini aşması.
+
+
+
+(C)
+Yükümlülüklerini vadesinde yerine getirememesi.
+
+
+(2)
+Yukarıdaki fıkra uyarınca yönetim ve denetimi devralan  Fon;
+
+
+
+(A)
+Devraldığı bankanın uygun göreceği aktiflerini, teşkilatını ve aksine talebi olmayan personeli ile devir tarihi itibariyle mevduat toplamları en yüksek beş bankaca uygulanan faiz oranları ortalamasını geçmemek üzere, işlemiş faizleri ile birlikte sigortaya tabi tasarruf mevduatını ve pasifte yer alan karşılık kalemlerini, kurulacak bir bankaya ya da mevcut bankalardan istekli olanlara devretmeye ve/veya faaliyet izninin kaldırılmasını Merkez Bankasından istemeye yetkilidir. Bankanın devredilen aktiflerinin toplamının devredilen pasiflerinin toplamını karşılamaması halinde ise aradaki fark Fon tarafından ödenir.
+
+
+
+(B)
+Sigorta kapsamında bulunan mevduat tutarını aşmamak ve hisselerinin tamamına sahip olmak kaydıyla, bankanın sermayesine tekabül eden zararlarını devralmaya yetkilidir. Devralınan zararlara istinaden yapılacak ödemelerin karşılığını temsil eden hisseler başkaca bir işleme gerek kalmaksızın Fona intikal eder.
+
+
+
+(C)
+Hakkında bu fıkranın (A) bendi kuralları uygulanan bankada bu Yasanın 64’üncü maddesinin (3)’üncü ve (4)’üncü fıkraları uygulanmaz. Bu Yasa kurallarının uygulanması sonucu bir bankanın tasfiye edilmesi durumunda, Fon ödediği tutar kadar imtiyazlı alacaklı olarak iştirak eder.
+
+
+(3)
+Banka hâkim hissedarlarının veya yönetim ve denetimi doğrudan veya dolaylı olarak, elinde bulunduran kişilerin banka kaynaklarını doğrudan veya dolaylı olarak, bankanın faaliyetlerini emin bir şekilde  sürdürmesini tehlikeye atacak şekilde veya hileli olarak, kendi lehlerine  kullanması veya başkaları lehine kullandırması ya da yönetim kurulu ve/veya yöneticilerinin bu Yasa, ilgili diğer mevzuat ve Merkez Bankası kararları veya  bankacılık ilke ve teamüllerine aykırı karar veya işlemleriyle bankayı zarara uğratması veya zarara uğrama tehlikesine maruz bırakması durumunda, Merkez Bankası yönetim kurulunun en az dört üyesinin onayıyla, bankanın faaliyet iznini kaldırmadan hisse sahipliği mevcut hissedarlarda kalmak kaydıyla temettü hariç, hisse sahipliğinin banka hissedarlarına verdiği tüm haklar ile bankanın yönetim ve denetimini  Fona devretmeye yetkilidir.
+
+
+
+(A)
+Cezai kovuşturma saklı kalmak koşulu ile bu fıkrada belirtilen şekilde kullanılan ve/veya kullandırılan banka kaynakları veya bankanın uğradığı zarar, Fon tarafından verilen süre içinde iade veya tazmin edilmediği takdirde bu zarar veya kullanılan kaynaklarınmiktarına bakılmaksızın bu hissedarlara ait hisseler Merkez Bankası kararı ile Fona intikal eder.
+
+
+
+(B)
+Fon bu fıkra kurallarınca temettü hariç ortaklık hakları ile yönetim ve denetimi kendisine devredilen bankanın;
+
+
+
+
+(a)
+Bu fıkrada belirtilen şekilde kullanılan kaynaklarının veya uğradığı zararın vereceği süre içinde iade veya tazmin edilmesini ve bu kişilere ait hisselerin Merkez Bankasınca uygun görülecek kişilere devredilmesini istemeye,
+
+
+
+
+(b)
+Yönetim ve denetimini doğrudan veya dolaylı olarak, tek başına veya birlikte elinde bulunduran kişilerin ve/veya hissedarları ile tüzel kişi hissedarlarının sermayesinin % 10 (yüzde on)’ undan fazlasına sahip gerçek kişi hissedarlarından kendilerine, eşlerine ve velayet altındaki çocuklarına ait taşınmaz mal ve iştiraklerini, haczi caiz olan taşınır mal, hak ve alacaklarını ve menkul kıymetlerini ve her türlü kazanç ve gelirleri ve ayrıca bildirimden önceki iki yıl içinde ivazlı veya ivazsız olarak iktisap ettikleri veya devrettikleri taşınmaz mal, haczi caiz taşınır mal, hak, alacak ve menkul kıymetlerini gösterir birer mal beyannamesi vermelerini istemeye, ve
+
+
+
+
+(c)
+Yönetim ve denetimini doğrudan veya dolaylı olarak, tek başına veya birlikte elinde bulunduran kişiler ve/veya hissedarların malvarlıkları üzerine teminat aranmaksızın ihtiyati tedbir, ihtiyati haciz kararları ile ilgililerin yurtdışına çıkmasını yasaklama dahil, alacaklıların menfaati için zorunlu olan her türlü muhafaza tedbirinin alınmasını ilgili mahkemeden istemeye
+
+
+
+
+yetkilidir.
+
+
+
+
+(ç)
+Bu fıkranın (B) bendi kurallarına göre istenen mal beyannamesinin en geç yedi gün içinde Fona verilmesi zorunludur.
+
+
+
+(4)
+Fon, hisseleri kendisine intikal eden banka ile ilgili aşağıda belirtilen durumlarda yetkisini kullanır:
+
+
+
+
+(A)
+Gerektiğinde mali ve teknik yardım da sağlamak suretiyle, varlık ve yükümlülüklerini kısmen veya tamamen, mevcut bankalardan istekli olanlara ya da kurulacak bir bankaya devretmeye veya bankayı isteklisi bulunan başka bir bankayla birleştirmeye yetkilidir.
+
+
+
+
+(B)
+Mali sistemde güven ve istikrarın sürdürülmesini teminen, Merkez Bankasınca gerekli görülen hallerle sınırlı olmak üzere; mali bünyesinin güçlendirilmesi ve yeniden yapılandırılması için gerektiğinde sermayesini artırmaya, yasal karşılık yükümlülüklerini cezai faizlerini de kaldırmak suretiyle ertelemeye veya düşürmeye, iştirak, gayrimenkul ve diğer aktiflerini satın almaya veya bunları teminat olarak alıp karşılığında avans vermeye ya da mevduat yapmaya, alacaklarını, zararlarını devralmaya, bu şekilde sahip olduğu aktifleri 
+
+
+
+
+
+ve hisse senetlerini iskonto veya sair suretlerle üçüncü kişilere satmaya, banka kayıtlarına göre gerçek bir muameleye dayandığı tespit edilen doğmuş ve doğacak borçlarını garanti etmeye, her türlü alacak ve varlıkların nakde tahvilini kendisi sağlayabileceği gibi, yapacağı anlaşmalar çerçevesinde kamusal sermayeli olanlar da dahil olmak üzere diğer bankalar aracılığıyla Fonun nam ve hesabına bunları nakde tahvil ettirmeye ve gerekli göreceği her türlü tedbiri almaya ya da banka hakkında bu maddenin (2)’nci fıkrasının (A) bendinin kurallarını uygulamaya yetkilidir. Yapılan devir işlemlerinde alacaklı ve borçluların rızası aranmaz.
+
+
+
+
+(C)
+Fon, temettü hariç ortaklık hakları ile yönetim ve denetimi veya hisseleri kendisine intikal eden bankada, bankanın tüm varlıkları ile kayıt ve belgelerinin güvenliğini sağlamak üzere gerekli her türlü tedbiri almaya ve bu amaçla sınırlı olmak üzere kamu kurumlarının yardım ve desteğinden yararlanmaya yetkilidir. Fon, yapacağı anlaşmalar çerçevesinde bu desteği özel kuruluşlardan da sağlayabilir.
+
+Faaliyet İzninin Kaldırılması ve Fonun Görevleri
+64.
+(1)
+Merkez Bankası, yönetim kurulunun en az dört üyesinin onayıyla aşağıda belirtilen konularda karar almaya yetkilidir:
+
+
+
+(A)
+Bu Yasanın 63’üncü maddesinde yer alan durumlardan herhangi biri yanında mali bünyesinin güçlendirilmesine imkân bulunmadığının ve/veya faaliyetine devamının mevduat veya katılım fonu sahiplerinin hakları ile mali sistemin güven ve istikrarı bakımından risk oluşturduğunun tespit edilmesi halinde, bankanın faaliyet iznini kaldırarak hisse sahipliği mevcut hissedarlarda kalmak kaydıyla hisse sahipliğinin banka hissedarlarına verdiği temettü hariç tüm haklar ile yönetimin ve denetimini Fona devretmeye yetkilidir.
+
+
+
+(B)
+Bu Yasanın 63’üncü maddesine göre faaliyet izni kaldırılmadan hisse sahipliğinin banka hissedarlarına verdiği temettü hariç haklar ile yönetim ve denetimi  Fona devredilmiş olan bankanın, faaliyet iznini Fonun talebi üzerine kaldırmaya yetkilidir.
+
+
+
+(C)
+Bu Yasanın 63’üncü maddesinde yer alan durumlardan herhangi birinin tespit edilmesi veya merkezinin bulunduğu ülkede faaliyet izninin kaldırılması veya Merkez Bankasına gerekli bildirimler yapılmadan merkezinin bulunduğu ülkede faaliyetlerine son vermesi halinde şube bankası olarak faaliyet gösteren bankaların faaliyet iznini kaldırılarak yönetim ve denetimini Fona devretmeye yetkilidir.
+
+
+
+(Ç)
+Bu Yasanın 12’nci maddesinin (2)’nci fıkrasının (Ç) bendi ile 24’üncü maddenin (3)’üncü fıkrasında yer alan durumlardan herhangi birinin gerçekleşmesi halinde bankanın faaliyet izni kaldırılarak hisse sahipliği mevcut hissedarlarda kalmak kaydıyla temettü hariç hisse sahipliğinin banka hissedarlarına verdiği tüm haklar ile yönetim ve denetimini Fona devretmeye yetkilidir.
+
+
+
+
+
+Fasıl 113
+   28/1974
+   7/1977
+ 30/1983
+  28/1987
+  65/1989
+  56/1991
+  42/1997
+  29/2003
+  35/2007
+
+
+(D)
+Kalkınma ve yatırım bankaları için bu Yasanın 62’nci maddesi kapsamında belirlenen yaptırımlara uyulmaması ve/veya alınması istenen tedbirlerin verilen süre içerisinde alınmaması veya alınan tedbirlere rağmen sorunların giderilememesi veya bu tedbirlerin alınması durumunda dahi, sonuç alınamayacağının tespit edilmesi durumunda bankanın faaliyet iznini iptal etmeye yetkilidir. Bu durumdaki bankalar, Şirketler Yasası kurallarına göre tasfiye edilir.
+
+
+(2)
+İznin kaldırılmasına ilişkin Merkez Bankası kararının, Resmi Gazete’de yayımlandığı tarihten itibaren, banka hakkındaki ihtiyati tedbir dahil her türlü icra ve iflas takibatı durur.
+
+
+(3)
+Fon, yönetim ve denetimi kendisine intikal eden bankada mevduat sahipleri ile diğer alacaklıların haklarını korumaya yönelik tedbirleri alır. Faaliyet izni kaldırılan ve/veya iptal edilen ve/veya yönetimi ve denetimi Fona devredilen bankanın bu Yasanın 21’inci maddesinde sayılan ilgililerinin mal, hak ve alacaklarına Fonun talebi üzerine mahkeme tarafından teminat şartı aranmaksızın ihtiyati tedbir veya ihtiyati haciz konulabilir. Bu şekilde alınanihtiyati  tedbir  ve  ihtiyati haciz kararları,   karar  tarihindenitibaren altı ay içinde dava ve icra-iflas takibine konu olmaz ise kendiliğinden ortadan kalkar. Faaliyet izninin kaldırıldığı tarihten itibaren bankanın alacaklıları, alacaklarını temlik edemez veya bu sonucu doğurabilecek işlemleri yapamazlar.
+
+
+
+
+
+
+(4)
+Fon, yönetim ve denetimi kendisine intikal eden bankadaki sigortalı mevduatı doğrudan veya ilan edeceği başka bir banka aracılığı ile ödeyerek, mevduat sahipleri yerine bankanın tasfiyesini isteyebilir.  Tasfiye kararı alınması halinde Fon, tasfiye işlemleri açısından Tasfiye Kuruluna imtiyazlı alacaklı sıfatıyla iştirak eder.
+
+
+(5)
+Tasfiye kararı verilmeyen hallerde banka hakkında bu Yasanın 14’üncü maddesi kuralları uygulanır.
+
+
+(6)
+Bankaların hisselerinin veya temettü hariç ortaklık hakları ile yönetim ve denetimlerinin Fona devrine veya faaliyet izinlerinin kaldırılmasına ve/veya iptaline ilişkin Merkez Bankası kararları, Resmi Gazete’de yayımlanır.
+
+Sistemik Riskin Önlenmesine İlişkin Tedbirler
+65.
+(1)
+(A)
+Finansal sistemin bütününü etkileyebilecek risklerin ortaya çıktığının Merkez Bankası tarafından tespit edilmesi durumunda Merkez Bankası, Kuzey Kıbrıs Türk Cumhuriyeti Bakanlar Kurulunu bilgilendirir.
+
+
+
+(B)
+Kuzey Kıbrıs Türk Cumhuriyeti Bakanlar Kurulu, Merkez Bankası ile istişare içerisinde olağanüstü tedbirleri belirlemeye yetkili olup, ilgili bütün kurum ve kuruluşlar belirlenen bu olağanüstü tedbirleri derhal uygulamaya yükümlü ve sorumlu olurlar.
+
+
+(2)
+Merkez Bankası sektörde önlem alınması gerekliliği oluşan hususlara ilişkin olarak bankalara uygulanacak kuralları, yükümlülükleri, istisnaları belirleyerek, tüm bu hususlara ve işlemlere ilişkin ilgili usul ve esaslarıdüzenleyen bir tebliğ çıkarır.
+
+
+
+Ancak Merkez Bankası ivedi ve/veya süreli olarak öngörülen işlemlerle ilgili olarak, alınması planlanan genel kapsamlı önlemleri, yürürlük tarihleri ile birlikte saptanacak şekil ve usulde Resmi Gazete’de yayımlanması şartıyla ilan edebilir.
+
+ONBİRİNCİ KISIM
+İlgili Kuruluşlar
+
+Kuzey Kıbrıs Bankalar Birliği
+66.
+(1)
+Bankalar, tüzel kişiliği haiz ve kamu kurumu niteliğinde meslek kuruluşu olan Kuzey Kıbrıs Bankalar Birliğine üye olmak zorundadırlar.
+
+
+(2)
+Kuzey Kıbrıs Bankalar Birliği, bu Yasa kuralları ve Merkez Bankasının düzenlemelerine bağlı olarak;
+
+
+
+(A)
+Bankaların bankacılık mesleğinin gerekleri ve ekonominin ihtiyaçlarına uygun olarak çalışmalarına ve bankacılık mesleğinin geliştirilmesine yönelik çalışmalar yapmak,
+
+
+
+(B)
+Bankaların ve/veya çalışanlarının uyacakları meslek ilkeleri ve standartları ile etik kuralları belirlemek ve bunlara uyulmasını sağlamaya yönelik tedbirleri almak,
+
+
+
+(C)
+Merkez Bankası tarafından alınması istenilen sektörel tedbirlerin bankalar tarafından uygulanmasını takip etmek,
+
+
+
+(Ç)
+Merkez Bankası ile işbirliği yapmak suretiyle, bankalar arasında ortak projelere ilişkin işbirliğini temin etmek, ve
+
+
+
+(D)
+Üyeleri arasında haksız rekabeti önlemek amacıyla gerekli her türlü tedbiri almak ve uygulamak
+
+
+
+konularında görevli ve yetkilidir.
+
+
+(3)
+Kuzey Kıbrıs Bankalar Birliğinin organları, çalışma esasları ve faaliyetlerinin kapsamı, Merkez Bankası ile Kuzey Kıbrıs Bankalar Birliğinin görüşü alınarak, Bakanlığın yapacağı öneri üzerine Bakanlar Kurulu kararı ile yürürlüğe konulacak ve Resmi Gazete’de yayımlanacak bir tüzükle gösterilir.
+
+
+(4)
+Kuzey Kıbrıs Bankalar Birliğinin giderleri, Birlik Ana Sözleşme ve Tüzüğü gereğince tespit olunan oy sayısına göre bankalara dağıtılır. Bankalar, kendilerine düşen masraf paylarını, Ana Sözleşme ve Tüzükte belirtilen süre içerisinde yatırmak zorundadırlar.
+
+
+
+(5)
+(A)
+
+Bankalar, Birlik Ana Sözleşmesi ve Tüzüğü ile Kuzey Kıbrıs Bankalar Birliği tarafından yürürlükteki mevzuat çerçevesinde alınacak karar ve tedbirlere uymak zorundadır. 
+
+
+
+(B)
+Yukarıdaki (A) bendine aykırı davranan bankaların, Kuzey Kıbrıs Bankalar Birliği çatısı altında yürütülen faaliyetlere erişimi Kuzey Kıbrıs Bankalar Birliği Yönetim Kurulu kararı ile geçici olarak kısıtlanabilir.
+
+
+(6)
+(A)
+Kuzey Kıbrıs Bankalar Birliği bünyesinde, kredi risk takip ve kontrolü için risk bilgilerini toplamak ve bu bilgileri paylaşmak amacıyla bir kredi kayıt bürosu kurulabilir. Merkez Bankası onayı ile kurulabilecek bu kayıt bürosunun, bütün işlem ve kayıtları gizlidir. 
+Ancak Merkez Bankasından onaylanan süreçler ve formatlarla bu bilgiler kredi vereceklerle ve/veya kendi riskleri hakkında kişilerle paylaşılabilir.
+
+
+
+(B)
+Kredi kayıt bürosu, Merkez Bankası denetimine tabidir.  Kredi kayıt bürosu Merkez Bankasına talep edeceği formatta ücretsiz olarak tüm bilgilerini sunmak zorundadır. Merkez Bankası kredi kayıt bürosu ile bilgi paylaşacak kredi veren kuruluşları belirlemeye yetkilidir.
+
+
+(7)
+Birlik, sektörün daha verimli bir ortamda çalışmasını teminen bankaların işletme maliyetlerini düşürecek, daha şeffaf ve düşük riskli ortamda çalışmasını sağlayacak destek hizmeti kuruluşu kurabilir ve bu amaçla kurulmuş kuruluşlara ortak olabilir.
+
+Bağımsız Denetim Kuruluşları ve Gayrimenkul Değerleme Kuruluşları
+67.
+(1) 
+(A)
+
+
+Bankaların bağımsız denetimi ve gayrimenkul değerleme işlemleri Merkez Bankası tarafından yetkilendirilecek kişiler ve/veya kuruluşlar tarafından gerçekleştirilir. 
+
+
+
+(B)
+Bankaların bilgi sistemleri ile bankacılık süreçlerinin denetimi de bu madde altında değerlendirilir.
+
+
+(2) 
+Bankalarda bağımsız denetim yetkisi alan kişiler ve/veya kuruluşlar, düzenledikleri raporların bankanın gerçek finansal durumunu yansıtması için bankanın bilgi sistemi ile bankacılık süreçlerini gözönünde bulundurmak ve gerekli mesleki özeni göstermekle yükümlüdürler. 
+
+
+(3)
+Bankalarda bağımsız denetim yapan kişiler ve/veya kuruluşlar, düzenledikleri raporu Merkez Bankasına göndermekle yükümlüdürler.
+
+
+(4)
+(A)
+
+
+
+Bağımsız denetim yetkisi alan kişiler ve/veya kuruluşlar denetim esnasında, bankanın varlığının tehlikeye sokulduğunu, bu Yasa ve/veya bankaların uymakla yükümlü olduğu düzenlemelerin ihlal edilmiş olduğunu gösteren hususları tespit etmeleri durumunda aynı iş gününde Merkez Bankasına bildirirler.	
+
+
+
+(B)
+Yukarıdaki (A) bendi uyarınca yapılan bildirim, mesleki gizlilik prensiplerinin ve anlaşmalarının veya bankacılık sırlarına ilişkin yükümlülüklerin ihlal edildiği anlamına gelmez.
+
+
+(5)
+Bağımsız denetim yetkisi alan kişiler ve/veya kuruluşlar, düzenledikleri raporların gerçeğe uymaması halinde üçüncü kişilere verecekleri zararlardan sorumludur.
+
+
+(6)
+Gayrimenkul değerleme yetkisi alan kişiler ve/veya kuruluşlar düzenledikleri raporların gerçeğe uymaması halinde bankalara ve/veya üçüncü kişilere verecekleri zararlardan sorumludur.
+
+Destek Hizmeti Kuruluşları
+68.
+(1)
+Bankalar tarafından alınacak destek hizmetleri, bankaların yasal yükümlülüklerini yerine getirmelerini ve/veya Merkez Bankası tarafından gözetim ve denetimin etkin biçimde yürütülmesini engelleyici nitelikte olamaz.
+
+
+(2)
+Merkez Bankası, destek hizmetinin niteliğine göre, banka veya banka grupları itibarıyla, destek hizmeti alınabilecek faaliyetleri ve/veya destek hizmeti alınmasına ilişkin koşulları ve/veya destek hizmeti alınabilecek kuruluşları belirlemeye, destek hizmeti alınmasını izne tabi tutmaya ve/veya zorunlu hale getirmeye yetkilidir.
+
+Varlık Yönetim Şirketleri
+69.
+(1)
+Bankalar, Fon ve diğer finansal kuruluşların alacakları ile diğer varlıklarının satın alınması, tahsili, yeniden yapılandırılması ve satılması amacıyla, kuruluş izni, kuruluş izni iptali ve faaliyet esasları Merkez Bankası tarafından çıkarılacak bir tebliğ ile belirlenen varlık yönetim şirketleri kurulabilir. 
+
+
+(2)
+Bu Yasanın 6’ncı maddesindeki banka kurucusu olma koşulları, varlık yönetim şirketi kurucularında da aranır.
+
+
+(3)
+Varlık yönetim şirketleri, alacaklarının tahsili ve alacakların ve/veya diğer varlıkların yeniden yapılandırılması kapsamında alacak tahsili amacıyla edindiği gayrimenkul veya menkul, hak ve varlıkların işletilmesi, kiralanması ve bunlara yatırım yapılması ve yine alacaklarını tahsil etmek amacıyla borçlularına ilâve finansman sağlamak veya sermayelerine iştirak etmek gibi her türlü faaliyeti gerçekleştirmeye yetkilidir.
+
+
+(4)
+(A)
+Varlık yönetim şirketleri, yukarıdaki (3)’üncü fıkra kapsamındaki işlemler nedeniyle doğmuş zararlarını veya doğması beklenen, ancak miktarı kesin olarak belli olmayan zararlarını karşılamak amacıyla karşılık ayırmak zorundadırlar. 
+
+
+
+(B)
+Varlık yönetim şirketinin karşılık ayrılacak alacaklarının nitelikleri ile karşılıklara ilişkin usul ve esaslar Merkez Bankası tarafından belirlenir.
+
+
+(5)
+Varlık yönetim şirketi tarafından, borçların, taahhütlerin yüklenilmesi veya alacakların, varlıkların devralınması durumunda devralınan borç, taahhüt, alacak ve varlıklarla ilgili olarak, açılmış veya açılacak davalarda, alacağın devralındığı veya borcun, taahhüdün yüklenildiği tarihten itibaren, varlık yönetim şirketi davaya dahil olmak için yetkili mahkemeye başvurabilir.
+
+
+
+
+İlgili Kuruluşlara İlişkin Tüzük Yapma ve Tebliğ Çıkartma Yetkisi
+70.
+(1)
+Kuzey Kıbrıs Bankalar Birliği bünyesinde oluşturulacak kredi kayıt bürosunun kuruluşuna, yapısına, faaliyetine, çalışmasına, yönetimine, bilginin içeriğine, bilginin toplanması ve paylaşımına, ücretlendirilmesine ilişkin usul ve esaslar Merkez Bankasının ve Kuzey Kıbrıs Bankalar Birliğinin uygunluk görüşü alınarak ilgili Bakanlık tarafından hazırlanacak ve Bakanlar Kurulu tarafından onaylanıp Resmi Gazete’de yayınlanacak bir tüzük ile düzenlenir.
+
+
+(2)
+(A)
+Bankalarda bağımsız denetim yapacak kişilerin ve/veya kuruluşların yetkilendirilmesi, yetkinin geçici olarak kaldırılması, yetkinin iptali ve tüm yetki işlemleri ile ilgili ilanın bankalara bildirimi, yetkilendirme ve denetim faaliyetleri ile ilgili her türlü tevsik edici belgeler, mali tablolar, yazışmalar, Resmi belgeler, taahhütnameler, tutanaklar, denetim usulü, süreci, teknikleri, yükümlülükleri, iç sistemler ile ilgili değerlendirmeler, yönetimin bilgilendirilmesi, beyanı, belgelendirilme, işbirliği, hesap dönemi sonrası işlemler, bağımsız denetim raporu ve görüşü, görüş çeşitleri, sınırlı denetim, özel amaçlı raporlar, faaliyet raporlarının denetimi,  bağımsız denetim raporlarının bildirimi,  bankalarla yapılacak sözleşme ile ilgili unsurlar, tarafların yükümlülükleri, bilgi sistemleri denetimi, bağımsız denetçinin yetkisi,  bunların şekil şartları, istisnaları ve bu konu ile ilgili yükümlülüklere ilişkin usul ve esaslar, Merkez Bankası tarafından çıkarılacak bir tebliğ ile düzenlenir.
+
+
+
+(B)
+Bankalarda, bankaların bilgi sistemleri ve bankacılık süreçlerinin, yetkilendirilmiş bağımsız denetim yapacak kişiler ve/veya kuruluşlarca yapılması zorunludur. 
+
+
+
+(C)
+Yukarıdaki (B) bendi uyarınca Merkez Bankası bilgi sistemleri ve bankacılık süreçleri denetimine ilişkin genel kavramları, önemlilikleri, kontrol zaafiyetleri, etkinlikleri, yeterlilikleri ve uyumlulukları, denetim riskleri ve bu konularda yetkilendirilecek kişi ve kuruluşlarda aranan şartları, başvuru sırasında gerekli olan bilgi ve belgeleri, denetim yetkisinin verilmesi ve iptali ile ilgili süreçleri, banka bilgi sistemleri ve bankacılık süreçleri denetiminin dış hizmet alımı ile gerçekleştirilmesi, dış hizmet kuruluşunda aranan şartları, denetim izni için gerekli olan bilgi ve belgeleri, dış hizmet alımı ile bilgi sistemleri ve
+
+
+
+
+bankacılık süreçleri denetimi yapma yetkisinin verilmesi, dış hizmet alımı ile bilgi sistemleri ve bankacılık süreçleri denetimi yapma izninin iptali, meslek mensubu unvanları, tarafların yükümlülükleri, denetlenenin yükümlülükleri, yetkili kuruluşların ve denetçilerin yükümlülükleri, bilgi sistemleri ve bankacılık süreçleri denetimine ilişkin esaslar ve amacı, bilgi sistemleri ve bankacılık süreçleri denetimi ile bağımsız denetim ilişkisi, bilgi sistemleri denetimi, bankacılık süreçleri denetimi, iç kontrol ve iç denetim sistemine ilişkin değerlendirme, bilgi sistemleri ve bankacılık faaliyetlerinin yürütülmesi, bilgi sistemleri ve bankacılık süreçleri denetimi metodolojisi, denetim stratejisi ve denetim planı, denetim teknikleri ve kontrollerin test edilmesi, denetim örneklemesi, denetim kanıtı, bulguların değerlendirilmesi, yönetim beyanı, denetim görüşünün oluşturulması ve denetim mektubu, denetim çalışmalarının belgelendirilmesi, genel ilke ve sorumluluklar, bilgi sistemleri ve bankacılık süreçleri denetimi sözleşmesi, bilgi sistemleri ve bankacılık süreçleri denetiminde işbirliği, başka taraflarca yapılan çalışmalardan yararlanma ve işbirliği, Merkez Bankası ve yetkili kuruluşlar arası işbirliği,destek hizmeti kuruluşunun denetlenmesi, bilgi sistemleri ve bankacılık süreçleri denetim raporu, kapsamı, bunların şekil şartları, istisnaları ile denetçilerin görev alma süreleri ve bu konu ile ilgili yükümlülüklere ilişkin usul ve esaslar Merkez Bankası tarafından çıkarılacak bir tebliğ ile düzenlenir.
+
+
+(3)
+Bankalara destek hizmeti verecek kuruluşların yetkilendirilmesi, destek hizmetlerine ilişkin sınırlandırmalar, ön koşullar, aranacak şartlar, bildirim yükümlülüğü, bu kuruluşlarla yapılacak sözleşmenin unsurları, denetimine veya yetkinin kısıtlanması veya bir süreliğine kaldırılması, yetkinin iptali, bankaların destek hizmeti almaları, varsa istisnaları ve bu konu ile ilgili yükümlülüklere ilişkin usul ve esaslar Merkez Bankası tarafından çıkarılacak bir tebliğ ile düzenlenir.
+
+
+(4)
+Varlık yönetim şirketlerinin kuruluş şartları, kurucuların nitelikleri, kuruluş ve faaliyet izninin verilmesi ile ilgili şart ve süreçler, kurallarla ilgili her türlü belirlenen tevsik edici belgenin nitelik ve şekil şartı dâhil tüm unsurları, beyanlar, mali tablolar, Resmi belgeler, şirketlerin yönetim kurulu, üst düzey yöneticilerinin oluşumları ve atanmaları ile ilgili hususlar, faaliyet alanı, her türlü ortaklıklara ilişkin sınırlar, oranlar, denetim, bilgi verme, faaliyet izninin iptali, karşılıkları, muhasebe ve raporlama sistemi, istisnaları ve bu konu ile ilgili yükümlülüklere ilişkin hususlar, Merkez Bankası tarafından çıkarılacak bir tebliğ ile düzenlenir.
+
+
+(5)
+Bankaların gayrimenkul değerleme hizmeti alabilecekleri kişi ve/veya kuruluşların nitelikleri, yetkilendirilmeleri, yetki iptalleri, kısıtı veya bir süreliğine kaldırılması, verilen hizmetlerin kapsamı, yükümlülük ve bağımsızlıkları, bankalarla yapacakları hizmet sözleşmelerinin unsurları, değerleme raporları, bildirimleri, takibi, varsa istisnaları ve bu konu ile ilgili yükümlülüklere ilişkin usul ve esaslar Merkez Bankası tarafından çıkarılacak bir tebliğ ile düzenlenir.
+
+
+ONİKİNCİ KISIM
+İdari Para Cezaları  ile Suç ve Cezalar
+
+İdari Para Cezalarında 
+71.
+(1)
+Bu Yasada yer alan idari para cezaları, Merkez Bankası tarafından verilir ve ilgililere yazılı olarak tebliğ edilir.
+Uygulanacak Yöntem
+
+(2)
+Merkez Bankası, bu Yasaya bir aykırılık olması halinde, ilgiliden yazılı savunma ister. Savunma, tebliğ tarihinden itibaren en geç  bir ay içerisinde Merkez Bankasına yazılı olarak verilir.
+
+
+(3) 
+Yukarıdaki (2)’nci fıkrada belirtilen sürede yazılı savunma verilmemesi halinde ilgilinin savunma hakkından feragat ettiği kabul edilir.
+
+
+(4)
+(A)
+Alınan yazılı savunmanın yeterli görülmemesi veya verilen sürenin dolmasına rağmen, savunma verilmemesi durumunda, bankayabu Yasa kuralları uyarınca idari para cezası verilir.
+
+
+
+(B)
+Merkez Bankası yönetim kurulu tarafından verilen idari para cezası, gerekçesi ile birlikte ilgiliye tebliğ edilir.
+
+
+
+(C)
+Merkez Bankası tarafından verilen idari para cezasına rağmen aykırılığın giderilmemesi durumunda, aykırılığın mahiyetine göre  ve herhalükarda altı ayı aşmamak kaydıyla aykırılığın giderilmesini içeren bir yazı gönderilir. Aykırılın ilgili süre içerisinde giderilmemesi durumunda idari para cezası iki kat arttırılarak uygulanır.
+İdari Para Cezaları
+72. Merkez Bankası yönetim kurulu kararıyla, ilgili bankalara aşağıda belirtilen idari para cezaları uygulanır:
+
+
+(1)
+Bu Yasanın;
+
+
+
+(A)
+11’inci madde (1)’inci fıkra,
+
+
+
+(B)
+12’nci madde (4)’üncü fıkra,
+
+
+
+(C)
+13’üncü madde,
+
+
+
+(Ç)
+14’üncü madde,
+
+
+
+(D)
+18’inci madde,
+
+
+
+(E)
+19’uncu madde,
+
+
+
+(F)
+20’nci madde,
+
+
+
+(G)
+21’inci madde (1)’inci fıkra,
+
+
+
+(H)
+25’inci madde,
+
+
+
+(I)
+26’üncü madde,
+
+
+
+(İ)
+28’inci madde,
+
+
+
+(J)
+30’ucu madde,
+
+
+
+(K)
+39’uncu madde,
+
+
+
+(L)
+42’nci madde,
+
+
+
+(M)
+47’inci madde,
+
+
+
+(N)
+55’inci madde,
+
+
+
+(O)
+56’üncü madde,
+
+
+
+(Ö)
+57’inci madde,
+
+
+
+(P)
+58’inci madde;
+
+
+
+(R)
+59’uncu madde,
+
+
+
+(S)
+68’inci madde,
+
+
+kurallarına aykırı hareket eden bankalar, aylık asgari ücretin yirmi beş katı idari para cezasına çarptırılır.
+
+
+(2)
+Bu Yasanın;
+
+
+
+(A)
+17’nci madde,
+
+
+
+(B)
+23’üncü madde,
+
+
+
+(C)
+27’nci madde,
+
+
+
+(Ç)
+29’uncu madde,
+
+
+
+(D)
+34’üncü madde,
+
+
+
+(E)
+35’inci madde,
+
+
+
+(F)
+36’ncı madde,
+
+
+
+(G)
+38’inci madde,
+
+
+
+(H)
+40’ıncı madde,
+
+
+
+(I)
+41’inci madde,
+
+
+
+(İ)
+43’üncü madde,
+
+
+
+(J)
+45’inci madde,
+
+
+
+(K)
+46’ncı madde,
+
+
+
+(L)
+48’inci madde,
+
+
+
+(M)
+50’nci madde,
+
+
+
+(N)
+51’inci madde,
+
+
+
+(O)
+52’nci madde,
+
+
+kurallarına aykırı hareket eden bankalar, aylık asgari ücretin elli katı idari para cezasına çarptırılır.
+
+
+(3)
+Bu Yasanın 61’inci ve 62’nci madde kurallarına aykırı hareket eden bankalaraylık  asgari ücretin  seksen katı idari para cezasına çarptırılır.
+
+
+
+
+
+
+(4)
+Bu Yasanın,
+
+
+
+(A)
+11’inci madde (2)’nci fıkra,
+
+
+
+(B)
+12’nci madde,
+
+
+
+(C)
+20’nci madde (4)’üncü ve (5)’inci fıkra,
+
+
+
+(Ç)
+67’nci madde,
+
+
+
+(D)
+68’incı madde,
+
+
+
+(E)
+69’uncu madde,
+
+
+kurallarına aykırı hareket eden gerçek ve tüzel kişiler, aylık asgari ücretin yirmi beş katı idari para cezasına çarptırılır.
+
+
+(5)
+Merkez Bankası tarafından bu Yasa altında çıkarılan tebliğlere, alınan kararlara ve yapılan diğer düzenlemelere uyulmaması halinde ilgili banka, gerçek veya tüzel kişilere Merkez Bankası yönetim kurulu kararıyla aylık asgari ücretin seksen katı idari para cezası verilebilir. 
+Ancak yukarıdaki fıkralar uyarınca cezaya konu madde ile ilgili bu Yasa kuralları tahtında özel bir ceza kuralı bulunması durumunda, o ceza oranı uygulanır. 
+
+
+(6)
+Bankaların ve Varlık Yönetim Şirketlerinin, Merkez Bankasının denetimi için elektronik ortamda göndermeleri gereken tüm bilgileri göndermemeleri, geç göndermeleri veya eksik göndermeleri, gönderilenlerin kontrol hataları içermesi ve/veya kontrol hatalarının süreklilik arz etmesi durumunda, Merkez Bankası yönetim kurulu kararıyla aylık  asgari ücretin elli katı idari para cezası uygular.
+
+
+
+
+48/1977
+28/1985
+31/1988
+31/1991 
+23/1997
+  54/1999 
+ 35/2005
+59/2010 
+13/2017
+
+(7)
+(A)
+Bu Yasanın 71’inci maddesinde belirtilen yönteme uygun olarak verilen idari para cezalarının tebliğ tarihinden itibaren bir ay içerisinde ödenmesi zorunludur. Süresi içerisinde ödenmeyen idari para cezaları kamu alacağı olup Kamu Alacaklarının Tahsili Usulu Yasası kuralları uyarınca tahsil olunur.
+
+
+
+(B)
+Bankaların bu Yasa kapsamında ödemekle yükümlü oldukları idari para cezalarının süresi içerisinde ödenmeyen kısmı, bankaların Merkez Bankası nezdindeki hesaplarından tahsil edilerek Fona gelir olarak kaydedilir. Tahsil edilemeyen idari para cezaları Fon alacağı haline gelir ve Fon tarafından takip ve tahsil edilir.
+
+
+(8)
+Bu madde kurallarına uygun olarak verilen idari para cezaları için bankaların ve ilgili diğer kişilerin yargı yoluna başvurma hakları saklıdır.
+
+Suç ve Cezalar
+73.
+(1)
+Bu Yasaya göre alınması gereken izinleri almadan banka gibi faaliyet gösteren veya mevduat veya katılım fonu toplayan gerçek kişi ile tüzel kişinin görevlisi ve/veya yetkilisi bir suç işlemiş olur ve mahkûmiyeti halinde, aylık asgari ücretin yüz katına kadar para cezasına veya beş yıla kadar hapis cezasına veya her iki cezaya birden çarptırılabilir. Mahkeme verilen cezaya ek olarak uygun ve adil görmesi durumunda faaliyetlerin yürütülmesi için kullanılan her türlü belge, ilân ve reklâmların toplatılmasına ve durdurulmasına, bu faaliyetlerin bir işyeri bünyesinde yürütülmesi durumunda bu işyerinin geçici veya sürekli olarak kapatılmasına karar verilebileceği gibi mahkeme sonuçlanana kadar işyerinin geçici olarak kapatılmasına emir verilebilir.
+
+
+(2)
+Bu Yasanın21’inci maddenin (2)’nci veya(3)’üncü fıkrasını ihlal eden gerçek kişi ile tüzel kişinin görevlisi ve/veya yetkilisi bir suç işlemiş olur ve mahkûmiyeti halinde,  aylık asgari ücretin  yüz katına kadar para cezasına veya yedi yıla kadar hapis cezasına veya her iki cezaya birden çarptırılabilir.    
+
+
+(3)
+Bu Yasanın 26’ncı maddesindeki belgelerin saklanması yükümlülüğüne aykırılık halinde, bu konuda görevi gereği sorumluluğu bulunangerçek kişi ile tüzel kişinin görevlisi ve/veya yetkilisi bir suç işlemiş olur ve mahkûmiyeti halinde,  aylık asgari ücretin elli katına kadar para cezasına veya üç yıla kadar hapis cezasına veya her iki cezaya birden çarptırılabilir.
+
+
+(4)
+Bu Yasanın 27’nci maddesinin (1)’inci fıkrasına aykırı olarak bankalara veya müşterilerine ait sırları açıklayangerçek kişi ile tüzel kişinin görevlisive/veya yetkilisi bir suç işlemiş olur ve mahkûmiyeti halinde, aylık  asgari ücretin elli katına kadar para cezasına veya beş yıla kadar hapis cezasına veya her iki cezaya birden çarptırılabilir.
+
+
+(5)
+Bu Yasanın 27’nci maddesinin (3)’üncü fıkrasına aykırı olarak bankacılık sistemi ve/veya bankalara olan güveni zedeleyebilecek veya şöhretine veya servetine zarar verebilecek bir hususa kasten sebep olan veya bu yolla yalan haber yayangerçek kişi ile tüzel kişinin görevlisi ve/veya yetkilisi bir suç işlemiş olur ve mahkûmiyeti halinde, aylık asgari ücretin elli  katına kadar para cezasına veya beş yıla kadar hapis cezasına veya her iki cezaya birden çarptırılabilir.
+
+
+(6)
+Bu Yasanın 34’üncü maddeye aykırı işlem yapan gerçek kişi ile tüzel kişiningörevlisi ve/veya yetkilisi birsuç işlemiş olur ve mahkumiyetleri halinde aylık asgari ücretin altmış katına kadar para cezasına veya üç yıla kadar hapis cezasına veya her iki cezaya birden çarptırılabilir.
+
+
+(7)
+Bu Yasanın 35’inci maddesine aykırı olarak banka müşterilerinin mevduat veya katılım fonlarını çekme hakkına engel olan gerçek kişi ile tüzel kişinin görevlisi ve/veya yetkilisi bir suç işlemiş olur ve mahkûmiyeti halinde,  aylık  asgari ücretin elli  katına kadar para cezasına veya üç yıla kadar hapis cezasına veya her iki cezaya birden çarptırılabilir.
+
+
+(8)
+Bu Yasanın 39’uncu maddenin (2)’nci fıkrasına aykırı işlem yapangerçek kişi ile tüzel kişinin görevlisi ve/veya yetkilisi suç işlemiş olur ve mahkumiyetleri halinde aylık asgari ücretin altmış katına kadar para cezasına veya üç yıla kadar hapis cezasına veya her iki cezaya birden çarptırılabilir.
+
+
+(9)
+Bu Yasanın 50’nci maddesine aykırı olarak banka işlemlerinin kayıt dışı bırakılmasında, gerçek niteliklerine uygun düşmeyen bir şekilde muhasebeleştirilmesinde görevi gereği sorumluluğu bulunangerçek kişi ile tüzel kişinin görevlisi ve/veya yetkilisi bir suç işlemiş olur ve mahkûmiyeti halinde,  aylık asgari ücretin elli katına kadar para cezasına veya üç yıla kadar hapis cezasına veya her iki cezaya birden çarptırılabilir.
+
+
+(10)
+Bu Yasanın 57’nci maddesine aykırı olarak denetim amacıyla istenen bilgi ve belgeleri vermeyen veya denetim görevinin yerine getirilmesine engel olan gerçek kişi ile tüzel kişinin görevlisi ve/veya yetkilisibir suç işlemiş olur ve mahkûmiyeti halinde,  aylık asgari ücretin elli katına kadar para cezasına veya üç yıla kadar hapis cezasına veya her iki cezaya birden çarptırılabilir.
+
+
+(11)
+Bankaların ve varlık yönetim şirketlerinin Merkez Bankasına, ilgili diğer mercilere, denetim görevlilerine verdikleri veya yayımladıkları belgelerdeki gerçeğe aykırı beyanlarında görevi gereği sorumluluğu bulunangerçek kişi ile tüzel kişinin görevlisive/veya yetkilisi bir suç işlemiş olur ve mahkûmiyeti halinde,  aylık asgari ücretin altmış  katına kadar para cezasına veya üç yıla kadar hapis cezasına veya her iki cezaya birden çarptırılabilir.
+
+
+(12)
+Görevi nedeniyle koruma ve gözetmekle yükümlü olduğu para veya para yerine geçen evrak veya senetleri veya diğer malları, dolandırmak niyetiyle veya yetkisiz olarak, kendisinin veya başkasının tasarrufuna geçiren gerçek kişi ile tüzel kişinin görevlisive/veya yetkilisi bir suç işlemiş olur ve mahkûmiyeti halinde,  aylık asgari ücretin iki yüz katına kadar para cezasına veya on yıla kadar hapis cezasına veya her iki cezaya birden çarptırılabilir.
+
+
+(13)
+Bu Yasa veya ilgili diğer mevzuat veya Merkez Bankası kararları veya bankacılık ilke ve teamüllerine aykırı karar ve işlemlerle bir bankanın zarara uğratılmasında görevi gereği sorumluluğu bulunanlar ile bu tür karar ve işlemlerden dolayı menfaat temin eden gerçek kişi ile tüzel kişinin görevlisi ve/veya yetkilisibir suç işlemiş olur ve mahkumiyeti halinde,  aylık asgari ücretin yüz katına kadar para cezasına veya beş yıla kadar hapis cezasına veya her iki cezaya birden çarptırabilir.    
+
+
+(14)
+Bir bankada, banka kaynaklarını doğrudan veya dolaylı veya hileli olarak kendileri lehine kullandığı veya başkaları lehine kullandırdığı tespit edilen banka hâkim hissedarları ile bu şekilde menfaat temin eden diğergerçek kişi ile tüzel kişinin görevlisive/veya yetkilisi bir suç işlemiş olur ve mahkûmiyeti halinde,  aylık asgari ücretin  iki yüz katına kadar para cezasına veya on yıla kadar hapis cezasına veya her iki cezaya birden çarptırabilir.    
+
+
+(15)
+(A)
+Bankaların veya sorumlu kişilerin bu Yasada suç teşkil eden hareket veya fiilleri başka yasalara göre de cezayı gerektirdiği taktirde, haklarında ilgili yasalar altında da işlem yapılmasına engel değildir.
+Fasıl 154
+3/1962
+43/1963
+15/1972
+20/1974
+31/1975
+6/1983
+22/1989
+64/1989
+11/1997
+20/2004
+41/2007
+20/2014
+45/2014
+
+
+(B)
+Ceza Yasasının sorumluluğunu gerektiren kuralları saklıdır.
+
+ONÜÇÜNCÜ KISIM
+Geçici Kurallar
+
+Geçici Madde
+Mevcut Bankaların Faaliyet İzni
+1.
+(1)
+Bu Yasanın yürürlüğe girdiği tarihten önce faaliyette bulunan bankalara, bu Yasa altında mevduat bankası faaliyet izni verilmiş kabul edilir.
+39/2001
+
+(2)
+Faaliyetlerine katılım bankası olarak devam etmek isteyen mevduat bankalarının, bu Yasa yürürlüğe girdiği tarihten itibaren üç ay içerisinde Merkez Bankasına başvurmaları halinde statüleri katılım bankasına dönüştürülür.
+
+
+(3)
+Bu Yasa yürürlüğe girdiği tarihte, Kuzey Kıbrıs Türk Cumhuriyeti Kalkınma Bankasına, bu Yasa altında kalkınma ve yatırım bankası faaliyet izni verilmiş sayılır.
+
+
+(4)
+Bu Yasanın yürürlüğe girdiği tarihten önce, faaliyette bulunan şube bankaları, şube sayısına bakılmaksızın şube banka olarak faaliyete devam ederler. 
+Ancak Kuzey Kıbrıs Cumhuriyetinde kurulu banka olmak için başvurmaları halinde 10’uncu maddenin (2)’nci fıkrasının (C) bendi kurallarından muaftırlar.
+
+Geçici Madde
+Ana Sözleşme ve Tüzüklerin Düzenlenmesi ve 
+İnternet Sayfalarında 
+2.
+(1)
+Bankalar, bu Yasanın yürürlüğe girdiği tarihten itibaren on iki ay içerisinde ve her halükârda yapılacak ilk genel kurul toplantısında Ana Sözleşme ve Tüzüklerini bu Yasaya uygun olarak düzenlemek ve bir suretini Merkez Bankasına göndermekle yükümlüdürler.
+Yayınlamaları
+
+(2)
+Yukarıdaki (1)’inci fıkrada belirtilen süre sonunda internet sayfalarında güncel ana sözleşmelerini yayınlamaları gerekir.
+
+Geçici Madde
+Mevcut Yönetimle İlgili Muafiyetler
+3.
+(1)
+(A)
+Bu Yasanın yürürlüğe girdiği tarihte, bu Yasanın 19’uncu maddesinin (3)’üncü fıkrasında Yönetim Kurulu Başkanı için aranan eğitim şartını taşımayanlara, bu kurala uygun hale gelmeleri için altı yıllık süre tanınır.
+
+
+
+(B)
+Bu Yasanın yürürlüğe girdiği tarihte, bu Yasanın 19’uncu maddesinin (3)’üncü fıkrasında üyelerinin salt çoğunluğunun bankacılık alanında en az beş yıllık mesleki tecrübeye sahip olma koşuluna haiz olmayan bankalara, bu kurala uygun hale gelmeleri için beş yıllık süre tanınır.
+
+
+(2)
+Bu Yasanın yürürlüğe girdiği tarihte şube bankalarda mevcut üst düzey yönetici konumunda görev alan kişilerde, görevlerine devam ettikleri sürece bu Yasanın 20’nci maddesinin (2)’nci ve (3)’üncü fıkralarında belirlenen şartlar aranmaz.
+
+
+(3)
+Bankalar bu Yasanın 20’nci maddesinin (4)’üncü fıkrasında belirtilen koşulları en geç  bir yıl içerisinde uygun hale getirirler.
+
+Geçici Madde
+Özkaynakların Tamamlanması
+
+4. Bu Yasanın yürürlüğe girdiği tarihten önce faaliyette olan bankalar, bu Yasanın 7’nci maddesinde öngörülen asgari sermaye miktarının eksik kalan kısmı için, 2019 yılının Ocak ayından başlamak üzereher yılın Ocak ayı sonuna kadar 1/6 (altıda bir)’inden az olmamak kaydıyla, altı yıl içinde özkaynaklarını bu Yasanın 7’nci maddesinde belirlenen tutara çıkarmakla yükümlüdür.
+
+Geçici Madde
+Risklerin Yasal Sınırlara Çekilmesi
+
+5. Bu Yasa yürürlüğe girmeden önce üstlenilen ve bu Yasanın 41’inci maddesine veya 42’nci maddesinin (2)’nci fıkrasına aykırılık teşkil eden vadesiz risklerin, bu Yasanın yürürlüğe girdiği tarihten itibaren en geç dört yıl içerisinde yasal sınırlara çekilmesi şarttır. Diğer aykırılık teşkil eden riskler, bu Yasa yürürlüğe girdiği tarihteki vadelerine kadar bu Yasadaki risk sınırlarından muaf tutulur. 
+
+Geçici Madde
+2001 Öncesi Devlet Kefaletine Haiz Kredilere İlişkin Uygulamalar
+
+
+6. Devlet, 23 Kasım 2001 tarihinden önce verilmiş olan, Devlet kefaletini haiz krediler ile Devlete ait borçları, en geç beş yıl içerisinde, her yıl en az tutar olmak üzere asgari, bu Yasanın yürürlüğe girdiği tarihteki bakiyenin %20 (yüzde yirmi)’siile yıllık tahakkuk eden faizlerinin tümünü ödemek suretiyle itfa etmek zorundadır. Bu şekilde ödeme yapılmamasının mükellefiyetleri bankalara, yöneticilerine veya hissedarlarına yükletilemez. Bu madde kapsamında olan Devlet kefaletini haiz krediler ile Devlete ait borçlara, bu Yasanın 21’inci madde kuralları uygulanmaz.
+
+Geçici Madde
+Fonla İlgili Yasal Süreçlerin Devamlılığı
+
+39/2001
+   59/2002
+7. Bu Yasanın yürürlüğe girdiği tarihten önce, temettü hariç ortaklık hakları ile yönetim ve denetimi Fona devredilen ve/veya bankacılık işlemleri yapma ve mevduat kabul etme izni kaldırılan ve/veya Fon tarafından tasfiyesi istenen ve/veya işlemleri Fon tarafından yürütülen bankalar hakkında başlatılan işlemler sonuçlanıncaya ve her türlü Fon alacakları tahsil edilinceye kadar bu Yasa ile yürürlükten kaldırılan Kuzey Kıbrıs Türk Cumhuriyeti Bankalar Yasasının ilgili maddelerinin uygulanmasına devam edilir.
+
+Geçici Madde
+2001 Öncesi Devlet Kefaletini Haiz Kredilerde Risk Üstlenme Sınırına İlişkin Uygulama
+8. Bu Yasanın 41’inci maddesinin (1)’inci fıkrasındaki oran üzerinde olan, 23 Kasım 2001 tarihinden önce  verilmişve Devlet kefaletini haiz kredi kullandıran bankalar için bu oran, Devlet borçları ödeninceye kadar %200 (yüzde iki yüz) olarak uygulanır.
+
+ONDÖRDÜNCÜ KISIM
+Son Kurallar
+
+Yürürlükten Kaldırma ve Koruma
+39/2001
+  59/2002
+74.
+(1)
+Bu Yasanın yürürlüğe girdiği tarihten başlayarak Kuzey Kıbrıs Türk Cumhuriyeti Bankalar Yasası,bu Yasa altında yapılan veya yapılmaya başlanmış olup da bu Yasanın yürürlüğe girdiği tarih itibarıyla henüz tamamlanmamış işlemlere halel gelmeksizin yürürlükten kalkar.
+
+
+(2)
+Bu Yasa ile yürürlükten kaldırılan Kuzey Kıbrıs Türk Cumhuriyeti Bankalar Yasası altında çıkarılan mevzuatın bu Yasaya aykırı olmayan kuralları, bu Yasa tahtında yeni düzenlemeler yapılana kadar yürürlükte kalmaya devam eder.
+
+Yürütme Yetkisi
+75. Bu Yasayı İlgili Bakanlık yürütür.
+
+Yürürlüğe Giriş
+76. Bu Yasa, Resmi Gazete’de yayımlandığı tarihten başlayarak yürürlüğe girer.
+
+

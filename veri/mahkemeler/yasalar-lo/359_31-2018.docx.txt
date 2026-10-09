@@ -1,0 +1,518 @@
+﻿Kuzey Kıbrıs Türk Cumhuriyeti Cumhuriyet Meclisi’nin 8 Ekim 2018 tarihli Üçüncü Birleşiminde Oybirliğiyle kabul olunan “Kent Güvenlik Yönetim Sistemi Yasası” Anayasanın 94’üncü maddesinin (1)’inci fıkrası gereğince Kuzey Kıbrıs Türk Cumhuriyeti Cumhurbaşkanı tarafından Resmi Gazete’de yayımlanmak suretiyle ilan olunur.
+
+Sayı:31/2018
+
+
+KENT GÜVENLİK YÖNETİM SİSTEMİ YASASI
+
+
+Kuzey Kıbrıs Türk Cumhuriyeti Cumhuriyet Meclisi aşağıdaki Yasayı yapar:
+
+Kısa İsim
+1.Bu Yasa, Kent Güvenlik Yönetim Sistemi Yasası olarak isimlendirilir.
+
+
+
+
+
+
+BİRİNCİ KISIM
+Genel Kurallar
+
+Tefsir
+2.“Başbakanlık”, Kuzey Kıbrıs Türk Cumhuriyeti Başbakanlığını anlatır.
+
+“Bilişim Sistemi”, bir veya birden fazlası, belirli bir yazılım çerçevesinde otomatik olarak veri işleyebilen bir cihazı veya birbirine bağlı veya birbirleriyle ilişkili bir dizi cihazı anlatır ve bu Yasa tahtında Kent Güvenlik Yönetim Sistemlerini de kapsar.
+
+“Bilişim Verisi”,bir bilişim sisteminin belli bir işlevi yerine getirmesini sağlayan bilgisayar programları da dahil olmak üzere, bir bilişim sisteminde işlenmeye uygun nitelikteki her türlü bilgi, görüntü ve konsepti anlatır.
+“Canlı Görüntü Verisi”, bilişim sistemleri üzerine anlık olarak kaydı yapılan, sayısal olarak derlenmiş, hareketli resimler dizisini anlatır. 
+
+“İtiraz Kurulu”, bu Yasanın 7’nci maddesi uyarınca oluşturulan ve Kent Güvenlik Yönetim Sistemleri Kurulunun kararlarını, itiraz üzerine değerlendiren kurulu anlatır.
+
+“Kamuya Açık Alan”, kamunun tamamına açık olan, kamunun siyasi ya da sosyal taleplerini ortaya koyabildiği, herkese açık alanları ve kişilerin kendilerine özgü yaşayış biçimlerini içermeyen ve özel olmayan alanları anlatır.
+
+
+“Kent Güvenlik Yönetim Sistemi”, kamu düzeni ve güvenliği ile kişilerin can ve mal emniyetinin korunması, suç işlenmesinin önlenmesi, trafik güvenliği ve kontrolünün sağlanması amacıyla, meydan, kara yolları, cadde, park gibi yerlere ve ticaret, finans, eğlence, eğitim ve konaklama faaliyetlerinin olduğu kamuya açık alanlara kurulan bilişim sistemlerini anlatır.
+
+“Kent Güvenlik Yönetim Sistemi Şube Amirliği”, bu Yasanın 11’inci maddesi uyarınca Polis Örgütü içerisinde kurulan ve izleme ve yönetim yapılacak olan Şubeyi anlatır.
+
+“Kurul”, bu Yasanın 5’inci maddesi uyarınca oluşturulan ve kent güvenliği kapsamında suçların önlenmesi, suçluların yakalanması ve suçların tespitine ilişkin bu Yasadaki görevleri yerine getiren ve yetkileri kullanan Kent Güvenlik Yönetim Sistemleri Kurulunu anlatır.
+51/1984
+27/1985
+27/1988
+32/1988
+6/1990
+53/1990
+76/1991
+56/1995
+36/1996
+9/1997
+21/2001
+26/2002
+47/2002
+13/2003
+57/2003
+19/2005
+50/2005
+46/2006
+55/2008
+70/2009
+87/2009  
+36/2011 
+38/2011
+14/2012
+1/2013
+2/2013
+38/2014
+      68/2017
+“Polis Örgütü”, Polis Örgütü (Kuruluş, Görev ve Yetkileri) Yasasının 3’üncü maddesi ile kurulan ve 8’inci maddesinde öngörülen görevleri yerine getiren ve yetkileri kullanan Polis Örgütünü anlatır.
+
+
+
+Amaç
+
+3. Bu Yasa, gelişen teknoloji ile birlikte bilişim sistemlerini kullanarak kamu yararı için kamuya açık alanlarda suçun önlenmesini, güvenliğin sağlanmasını ve korunmasını, yasalara aykırı eylem ve davranışta bulunanlar hakkında gerekli yasal işlemlerin yapılmasını, suçluların tespitini, suçla ilgili delillerin elde edilmesini, trafik güvenliği ve kontrolünü sağlamayı amaçlamaktadır. 
+
+
+Kapsam
+
+4.Bu Yasa, ülke genelinde kamu düzeni ve güvenliği ile kişilerin can ve mal emniyetinin korunması, suç işlenmesinin önlenmesi, trafik güvenliği ve kontrolünün sağlanması amacıyla, meydan, kara yolları, cadde, park gibi yerlere ve ticaret, finans, eğlence, eğitim ve konaklama faaliyetlerinin olduğu kamuya açık alanlara kurulan bilişim sistemleri ile ilgili düzenlemeleri kapsamaktadır.
+
+
+
+İKİNCİ KISIM
+Kurulların Oluşumu, Görev, Yetkive Sorumlulukları, Toplantıları,
+Kurul Kararlarına İtiraz, Kurul Kararı Olmadan Bilişim Sistemi Kurulamayacağı
+ve Bilgi Levhası Kuralları
+
+Kurulun Oluşumu, Görev, Yetki veSorumlulukları
+5.
+(1)
+Bu maddenin (2)’nci fıkrasındaki görevleri ve sorumlulukları yerine getirmek, yetkileri kullanmak üzere,bir Başkan ve  dokuz üye olmak üzere toplam on kişidenoluşan aşağıdaki Kent Güvenlik Sistemleri Kurulu oluşturulur:
+
+
+
+(A)
+BaşbakanlığınMüdür düzeyinde temsilcisi (Başkan),
+
+
+
+(B)
+İçişleriyle Görevli Bakanlığın Müdür düzeyindetemsilcisi (Üye),
+
+
+
+(C)
+Ulaştırma İşleriyle Görevli Bakanlığın Müdür düzeyinde temsilcisi (Üye),
+
+
+
+(Ç)
+İlgili İlçenin Kaymakamlık temsilcisi (Üye),
+
+
+
+(D)
+İlgili Belediyenin Müdürü (Üye),
+
+
+
+(E)
+Polis Genel Müdürlüğü temsilcisi (Üye),
+
+
+
+(F)
+İlgili ilçenin Polis Müdürü veya temsilcisi (Üye),
+
+
+
+(G)
+Trafikten sorumlu Daire Müdürü veya temsilcisi (Üye),
+
+
+
+(H)
+İlgili İlçenin Mahalli Baro temsilcisi (Üye),
+
+
+
+(I)
+Şehir Plancıları Odası temsilcisi (Üye).
+
+
+(2)
+Kurulun görev, yetki ve sorumlulukları aşağıdaki şekildedir:
+
+
+
+(A)
+Polis Genel Müdürlüğü, resen veya tüzel kişiliğe sahip kamu, kurum ve kuruluşların talepleri doğrultusunda, suçla ilgili istiatistiki verilere, nüfus ve araç yoğunluğuna dayanarak bilişim sistemlerinin hangi noktalara ve kaç adet kurulacağına dair önerilerini hazırlar ve Kurula sunar. Kurul, bu öneriler doğrultusunda, kamuya açık alanlarda bilişim sistemlerinin kurulmasına, iptal edilmesine, yer değiştirmesine, sayısının artırılmasına veya azaltılmasınaizin ve/veyakarar verir.
+
+
+
+(B)
+Kurul, almış olduğu kararları ve gerekçelerini, iki iş günü içerisindeBaşbakanlığa ve Polis Genel Müdürlüğüne gönderir.
+
+
+
+(C)
+Kurul Başkanı, Kurulun almış olduğu kararları ve gerekçelerini, icra edilmesinden en az onbeş gün önce Başbakanlık web sitesinde Kurula ayrılan bölümdeyayımlatmakla; ayrıca basın aracılığıyla duyurmakla yükümlüdür.
+
+
+
+
+
+Kurul Toplantıları
+
+6. 
+(1)
+Kurul, Başkanın çağrısı üzerine toplanır. Kurula, Başkanbaşkanlık eder. Kurul üyelerinden herhangi biri tarafından bu Yasa kapsamındaki konuların görüşülmesi ve karar alınması için Kurul Başkanına toplantı talebinde bulunabilir. 
+
+
+(2)
+Kurul, salt çoğunluk ile toplanır, kararlar katılanların salt çoğunluğu ile alınır. Oyların eşit olması halinde Başkanın ayırt edici oyu vardır. 
+
+
+(3)
+Kurulun toplantı çağrıları, yazışmaları, toplantı tutanakları, kararların yazılması, üyelere iletilmesi ve benzeri sekretarya işleri, Başkanın yönetim ve gözetiminde Başbakanlık personeli tarafından yürütülür.
+
+
+(4)
+Kurul, gerekli görmesi halinde, diğer kurum ve kuruluşların temsilcilerini bilgi almak üzere toplantılara katılmaya davet edebilir.
+
+
+
+
+İtiraz Kurulunun Oluşumu ve Kurul
+7.
+(1)
+Bu maddenin (2)’nci fıkrasına göre,Kurul kararlarınaitirazları değerlendirmek üzere bir Başkan ve altı üye olmak üzere toplam yedi kişiden oluşan aşağıdaki İtiraz Kurulu oluşturulur:
+Kararlarına
+
+
+(A)
+Başbakanlık Müsteşarı (Başkan),
+İtiraz
+
+
+(B)
+İçişleriyle Görevli Bakanlık Müsteşarı (Üye),
+
+
+
+(C)
+Ulaştırma İşleriyle Görevli Bakanlık Müsteşarı (Üye),
+
+
+
+(Ç)
+Polis Genel Müdürü veya yardımcılarından biri (Üye),
+
+
+
+(D)
+İlgili Belediyenin Başkanı(Üye),
+
+
+
+(E)
+Barolar Birliği Başkanı veya temsilcisi (Üye),
+
+
+
+(F)
+Kıbrıs Türk Mühendis ve Mimar Odaları Birliği temsilcisi (Üye).
+
+
+(2)
+(A)
+Kurulun almış olduğu icra edilmemiş kararlara karşı itiraz, karardan herhangi bir şekilde etkilenen kişi tarafından, kararın yayımlanmasından itibaren onbeş gün içerisinde, yazılı ve gerekçeli olarak Başbakanlığa yapılır. Yapılan itirazlar Başbakanlık tarafından en geçiki iş günü içerisinde İtiraz Kuruluna iletilir ve İtiraz Kurulu, gerekçeli kararını en geç otuz gün içerisinde vererek ilgili kişiye tebliğ eder. İtirazlar sonuçlandırılmadan Kurul kararları icra edilmez.  
+
+
+
+(B)
+Kurulun icra edilmiş kararlarına karşı itiraz, herhangi bir şekilde etkilenen kişi tarafından, bilişim sisteminin kurulmasından itibaren altı ay içerisinde yazılı ve gerekçeli olarak Başbakanlığa yapılır. Yapılan itirazlar Başbakanlık tarafından en geç iki iş günü içerisinde İtiraz Kuruluna iletilir ve İtiraz Kurulu, gerekçeli kararını en geç otuz gün içerisinde vererek ilgili kişiye tebliğ eder.
+
+
+
+32/2014
+89/2007
+(C)
+İtiraz Kurulu, incelemesini ve değerlendirmesini yaparken Anayasanın 19’uncu maddesi kurallarına, bu Yasa kurallarına, Özel Hayatın ve Hayatın Gizli Alanının Korunması Yasası kurallarına, Kişisel Verilerin Korunması Yasası kurallarına uyulup uyulmadığını,  ayrıca şehrin dokusuna, doğal, tarihi, mimari veya kültürel özelliklerine zarar verilip verilmediğini ve insan hak ve özgürlüklerinin ihlal edilip edilmediğini de dikkate alır.
+
+
+
+
+
+
+İtiraz Kurulu Toplantıları
+8.
+(1)
+İtiraz Kurulu, Başkanın çağrısı üzerine toplanır. Komiteye, Başkan başkanlık eder.
+
+
+
+(2)
+İtiraz Kurulu,  salt çoğunluk ile toplanır, kararlar katılanların salt çoğunluğu ile alınır. Oyların eşit olması halinde Başkanın ayırt edici oyu vardır.
+
+
+
+(3)
+İtiraz Kurulunun toplantı çağrıları, yazışmaları, toplantı tutanakları, kararların yazılması, üyelere iletilmesi ve benzeri sekretarya işleri, Başkanın yönetim ve gözetiminde Başbakanlık personeli tarafından yürütülür.
+
+
+
+(4)
+İtiraz Kurulu, gerekli görmesi halinde, diğer kurum ve kuruluşların temsilcilerini bilgi almak üzere toplantılara katılmaya davet edebilir.
+
+
+
+
+
+
+Kurul Kararı Olmadan Bilişim Sistemi Kurulamaması
+
+9.Bu Yasanın 5’inci maddesi uyarınca oluşturulan Kurulun kararı olmadan, herhangi bir kişi veya kurum, kamuya açık alanları görüntülemek amacıyla bilişim sistemleri kuramaz.
+
+
+Bilgi Levhası Konulması
+
+10.Bu Yasa uyarınca kurulacak olan bilişim sistemlerinin bulunduğu yerlere herkesin görebileceği ve anlayabileceği şekilde mezkur bölgenin bilişim sistemleri ile görüntülendiğini belirten yazı, işaret ve/veya tabela konulur. 
+
+
+
+ÜÇÜNCÜ KISIM
+Kent Güvenlik Yönetim Sistemi Şube Amirliği, Bilişim Verilerin Gizliliği, Bilişim Verilerinin Muhafazası, İzlemenin Yapılacağı Yer ve Verilerin İmhası,
+Bilişim Verilerinin Kullanım Amacı ve Diğer Ülkelere Transferi
+
+Kent Güvenlik Yönetim Sistemi 
+Şube Amirliği 
+51/1984
+      27/1985
+      27/1988
+      32/1988
+        6/1990
+      53/1990
+      76/1991
+      56/1995
+      36/1996
+        9/1997
+      21/2001
+      26/2002
+      47/2002
+      13/2003
+      57/2003
+      19/2005
+      50/2005
+      46/2006
+      55/2008
+      70/2009
+      87/2009          
+      36/2011  
+      38/2011
+      14/2012
+        1/2013
+        2/2013
+      38/2014
+      68/2017
+
+20.12.2015
+R.G.220
+EK III
+Sayı:776
+11. Kent Güvenlik Yönetim Sistemi Şube Amirliği, Polis Örgütü (Kuruluş, Görev ve Yetkileri) Yasası uyarınca çıkarılmış olan İç Örgütlenme Tüzüğünün 38’inci maddesi tahtında Polis Genel Müdürlüğü bünyesinde oluşturulur ve bu Şube içerisinde izleme ve yönetim yapılması amacıyla izleme merkezi kurulur. 
+
+
+Bilişim Verilerinin Gizliliği
+89/2007
+12.Bu Yasa uyarınca tutulan kayıtlar ve elde edilen bilişim verileri, kişisel verilerin gizliliği esas alınarak, Kişisel Verilerin Korunması Yasasının 12’nci ve 19’uncu maddeleri kuralları uyarınca korunur ve güvenli şekilde saklanır.
+
+
+Bilişim Verilerinin Muhafazası, İzlemenin
+13.
+
+(1)
+Bilişim verilerinin saklanması, korunması, izlenmesi,  kullanılması ve imha edilmesi, bu Yasanın 11’inci maddesi uyarınca kurulan Kent Güvenlik Yönetim Sistemi ŞubeAmirliği tarafından yapılır.
+Yapılacağı Yer ve Verilerin İmhası
+
+
+(2)
+Kent Güvenlik Yönetim Sistemi ŞubeAmirliğinde görevli personel haricinde hiç kimse bilişim verilerini izleyemez ve bilişim verilerine erişemez. 
+Ancak soruşturma memurlarının bilişim verilerine erişimi, soruşturma memurunun yazılı ve gerekçeli talebi üzerineŞube Amirinin yazlı onayı ile sağlanır. 
+
+
+(3)
+Polis Genel Müdürlüğü ve Kent Güvenlik Yönetim Sistemi ŞubeAmirliği, bu Yasa uyarınca elde edilen bilişim verilerini korumak ve muhafaza etmek için hem teknolojik hem de fiziksel güvenlikle ilgili her türlü tedbiri almakla yükümlüdür. 
+
+
+(4)
+Suçla ilgili kayıtlar dışındakicanlı görüntü verileri en fazla üç ay süreyle muhafaza edilir.Canlı görüntü verilerinin otomatik sistemler tarafından kronolojik sıra esasına göre kendiliğinden eski veriler üzerine yeni kayıtlar yapılarak silinmesi sağlanır.
+
+
+
+
+
+Bilişim Verilerinin Kullanım Amacı, 
+Şekli
+14.
+(1)
+Bilişim verileri, Anayasa’nın 19’uncu maddesinin (1)’inci fıkrasında, düzenlenen özel hayatın gizliliği ilkesine, Kişisel Verilerin Korunması Yasası ile Özel Hayatın ve Hayatın Gizli Alanının Korunması Yasasında belirtilen kurallara aykırı olarak kaydedilemez, kullanılamaz ve muhafaza edilemez.
+ve Diğer
+Ülkelere Transferi
+89/2007   
+32/2014
+
+(2)
+Bu Yasa uyarınca kaydedilen, muhafaza edilen veya izlenen bilişim verileri, bu Yasanın13’üncü maddesinin (2)’nci fıkrasının “Ancak” koşul bendi kuralları haricinde,mahkeme kararı olmadıkça hiçbir şekilde hiç kimseye verilemez ve verilmesi talep edilemez. 
+
+
+(3)
+Bilişim verileri,Kent Güvenlik Yönetim Sistemi Şube Amirliğinde görevlipersonel tarafından, 
+
+
+
+(A)
+Kamuya açık alanlarda güvenliğin sağlanması ve korunması,
+
+
+
+(B)
+Trafik akışının ve düzeninin sağlanması,
+
+
+
+(C)
+Soruşturmada kullanabilmesi ve
+
+
+
+(Ç)
+Doğrudan suça ilişkin konularda, suçların takip edilmesi ve delillerin tespit edilerek faillerin yakalanması 
+
+
+
+amacıyla gizlilik ilkesi çerçevesinde kullanılabilir.
+
+
+
+(4)
+
+Bu Yasa kapsamındaki bilişim verilerinin diğer ülkeler tarafından talep edilmesi halinde, ülkeler arasında akdedilmiş anlaşmalar gözönüne alınarak,  Kişisel Verilerin Korunması Yasasının 11’inci maddesinde belirtilen diğer ülkelere veri transferine ilişkin kurallar uygulanır.
+
+
+
+
+
+
+
+
+DÖRDÜNCÜ KISIM
+Suç ve Cezalar
+
+Suç ve Cezalar
+
+15.
+(1)
+Bu Yasanın 7’nci maddesinin (2)’nci fıkrasının (A) bendine aykırı olarak,itiraz sonuçlandırılmadan Kurul kararlarını icra eden bir kişi suç işlemiş olur ve mahkumiyeti halinde yürürlükteki aylık asgari ücretin iki katına kadar para cezasına veya iki aya kadar hapis cezasına veya her iki cezaya birden çarptırılabilir.
+
+
+(2)
+Bu Yasanın 9’uncu maddesine aykırı olarak, Kurul kararı olmadan bilişim sistemi kuran bir kişi suç işlemiş olur ve mahkumiyeti halinde yürürlükteki aylık asgari ücretin sekiz katına kadar para cezasına veya iki yıla kadar hapis cezasına veya her iki cezaya birden çarptırılabilir.
+
+
+(3)
+Bu Yasanın 10’uncu maddesine aykırı olarak, bilişim sisteminin bulunduğu yere bilgi levhası koymayan bir kişi suç işlemiş olur ve mahkumiyeti halinde yürürlükteki aylık asgari ücretin üç katına kadar para cezasına çarptırılabilir.
+
+
+(4)
+Bu Yasanın 12’nci maddesine aykırı olarak, bilişim verilerini korumayan veya güvenli şekilde saklamayan bir kişi suç işlemiş olur ve mahkumiyeti halinde yürürlükteki aylık asgari ücretin otuz katına kadar para cezasına veya altı yıla kadar hapis cezasına veya her iki cezaya birden çarptırılabilir.
+
+
+
+(5)
+Bu Yasanın 13’üncü maddesinin (2)’nci fıkrasına aykırı olarak, Kent Güvenlik Yönetim Sistemi Şube Amirliğinde görevli personel veya yetkili soruşturma memuru olmamasına rağmen, bilişim verilerini izleyen ve bilişim verilerine erişen bir kişi suç işlemiş olur ve mahkumiyeti halinde yürürlükteki aylık asgari ücretin otuz katına kadar para cezasına veya altı yıla kadar hapis cezasına veya her iki cezaya birden çarptırılabilir.
+
+
+(6)
+Bu Yasanın 13’üncü maddesinin (4)’üncü fıkrasına aykırı olarak, suçla ilgili kayıtlar dışındaki canlı görüntü verilerini üç aydan daha uzun süreyle muhafaza eden bir kişi suç işlemiş olur ve mahkumiyeti halinde yürürlükteki aylık asgari ücretin otuz katına kadar para cezasına veya altı yıla kadar hapis cezasına veya her iki cezaya birden çarptırılabilir.
+
+
+(7)
+Bilişim verilerini, bu Yasanın 14’üncü maddesinin (1)’inci fıkrasına aykırı olarak kaydeden, kullanan, muhafaza eden;(2)’nci fıkrası kurallarına aykırı olarak mahkeme kararı olmadan veren, talep eden, erişimine izin veren ve/veya erişimini sağlayan; (3)’üncü fıkrasındaki amaçlara ve gizlilik ilkesine aykırı aykırı olarakkullanan; (4)’üncü fıkrasındaki kurallara aykırı olarak ülke dışına ileten bir kişi suç işlemiş olur ve mahkumiyeti halinde yürürlükteki aylık asgari ücretin otuz katına kadar para cezasına veya altı yıla kadar hapis cezasına veya her iki cezaya birden çarptırılabilir.
+
+
+(8)
+Bu Yasanın Geçici 1’inci Maddesinin (1)’inci fıkrasına aykırı olarak mevcut bilişim sistemleriniKurula yazılı olarak bildirmeyen; (2)’nci fıkrasına aykırı olarak Kurul tarafından yazılı olarak yapılan bildirime uymayan bir kişi suç işlemiş olur ve mahkumiyeti halinde yürürlükteki aylık asgari ücretin üç katına kadar para cezasına veya biryıla kadar hapis cezasına veya her iki cezaya birden çarptırılabilir.
+
+
+
+
+
+
+
+
+BEŞİNCİ KISIM
+Geçici ve Son Kurallar
+
+Tüzük Yapma Yetkisi
+16. Aşağıdaki hususlar, Başbakanlıkça hazırlanıp Bakanlar Kurulunca onaylanarak Resmi Gazete’de yayımlanmak suretiyle yürürlüğe girecek tüzüklerde düzenlenir: 
+
+
+(1)
+Kent Güvenlik Yönetim Sistemleri Kurulunun ve İtiraz Kurulunun çalışmasına ilişkin usul ve esaslar.
+
+
+(2)
+Bilgi levhalarının ebatları, şekli ve içeriği.
+
+
+(3)
+Bilişim sistemlerinin kurulabileceği kamusal alanların kriterlerinin ve özelliklerinin belirlenmesi.
+
+
+(4)
+Bilişim verilerinin kaydedilmesi, muhafazası, kullanılması, verilmesi, talep edilmesi, silinmesi ve imha yöntemine ilişkin yöntemler. 
+
+
+
+
+
+Geçici Madde 
+Mevcut Bilişim Sistemlerinin Bildirilmesi 
+1.
+
+
+
+
+(1)
+
+
+
+
+
+Bu Yasanın yürürlüğe girdiği tarihten önce kamuya açık alan, cadde ve sokakları görüntüleyen bilişim sistemlerini kuran; kurum, kuruluş, gerçek veya tüzel kişiler,bu Yasanın yürürlüğe girdiği tarihten itibaren on ikiay içerisinde, Kurula, mevcut bilişim sistemlerininyer, sayı ve niteliklerini yazılı olarak bildirmek zorundadırlar. 
+
+
+
+
+
+(2)
+
+
+
+
+
+Kurul, bu Yasanın 5’inci maddesinin (2)’nci fıkrasının (A) bendikuralları çerçevesinde bu başvuruları inceler ve uygun görülen bilişim sistemlerini izinlendirir, uygun görülmeyenlerin kaldırılmasını, yer değiştirmesini veya sayısının azaltılmasını ilgili kurum, kuruluş, gerçek veya tüzel kişiye yazılı olarak bildirir.
+
+
+
+
+Yürütme Yetkisi
+17.Bu Yasayı Bakanlar Kurulu adına Başbakanlık yürütür.
+
+
+
+Yürürlüğe Giriş
+18.Bu Yasa, Resmi Gazete'de yayımlandığı tarihten başlayarak yürürlüğe girer.
+

@@ -1,0 +1,736 @@
+﻿
+BÖLÜM 189
+TEREKELERİN İDARESİ
+
+I. KISIM
+BAŞLANGIÇ KURALLARI
+   
+    Maddelerin Dizini:
+
+   1.Kısa isim
+    2.Yorum
+
+II. KISIM
+TEREKE TENFİZ MUKAYYİDİ VE MUKAYYİTLİĞİ
+
+ 1.Tereke tenfiz baş mukayyidi ve tereke tenfiz mukayyitliği
+2.Tereke tenfiz mukayyitlerinin görevleri
+3.Tereke tenfiz ve idare yetkisi tevdi listeleri 
+    3. Vasiyetnamelerin vs. suretlerinin Gelir ve Vergi Dairesi Müdürüne teslimi
+4.İlçe Tapu Amirine bildirim
+5.Tereke tenfiz mukayyitliklerinde kullanılacak mühürler
+
+III. KISIM 
+VASİYETNAMELERİN MUHAFAZA İÇİN VERİLMESİ, GÖSTERİLMESİ VE İBRAZI
+
+9.Vasiyetnamelerin muhafaza için verilmesi
+    10. Muhafaza için verilen vasiyetnameler hakkında ilgili kişilere duyuru
+11.Vasiyetnamelere ilişkin evrakın vs. nin ibrazı
+
+IV. KISIM
+VASİYETNAME VEYA TEREKE TENFİZ YETKİSİ VE TEREKE İDARE YETKİSİ TEVDİLERİ
+
+    11. Veraset vergisi ödeninceye kadar yetki tevdi edilmemesi
+    12. Veraset vergisi ödenene kadar yetki tevdi edilmemesi
+    13. Tereke tenfiz mukayyitliklerinde tereke tenfiz ve idare yetkisi tevdileri
+    14. Kanıtlanıncaya kadar vasiyetnamenin etkisizliği
+    15. Vasiyetnamenin icra memuruna gelip vasiyetnameyi kanıtlaması için bildirim
+    16. Vasiyetname icra memurunun vasiyetnameyi kanıtlama hakkının sona ermesi
+    17. İdarenin kime tevdi edileceği hususunda Mahkemenin takdir yetkisi
+    18. Vasiyetnameye bağlı idare
+    19. Sınırlı yetki tevdileri
+    20. Yargısal işlemlerin askıda bulunduğu durumlarda idare
+    21. Şahsi temsilcinin yurt dışında olduğu durumda özel idare yetkisi tevdii
+    22. Vasiyetname veya tereke tenfiz memurunun ergin olmadığı süre içinde idare
+    23. Şahsi temsilci sayısına ilişkin kural
+    24. Tereke tenfiz mukayyidinin ret kararına karşı istinaf
+
+V. KISIM
+YETKİ TEVDİİ ÜZERİNE VE DAHA SONRA İDARENİN TAMAMLANMASI ÜZERİNE TEREKENİN İNTİKALİ
+
+    25 Ölenin vasiyetname bıraktığı durumlarda terekenin intikali
+    26 Ölenin kısıtlı varis bıraktığı durumlarda terekenin intikali
+    27 Yetki tevdii yapılmamış durumda vasiyetnamesiz ölenin terekesinin intikali
+    28 Varislere geçen terekenin idare yetkisinin tevdii
+    29 Varislerin aklayarak dava edebilecekleri koşullar
+    30 Ölenin terekesini hileli yollardan elde eden veya alıkoyan kişinin sorumluluğu
+
+
+
+VI. KISIM
+İDARE
+Birinci Bölüm
+Genel Kurallar
+
+31. Şahsi temsilcinin yetki ve görevleri
+32. Şahsi temsilcinin satış vs. yetkisi
+33. Mahkemenin satış vs. emretme yetkisi
+34. Ölümün bazı dava sebeplerine etkisi
+35. Şahsi temsilcinin terekesinin sorumluluğu
+36. İyi niyetle hareket eden şahsi temsilcinin korunması
+37. Hayatta kalan tenfiz memurunun hakları
+38. Vasiyeti tenfiz memurunun idaresinin esas vasiyeti yapanı temsil etmesi
+39. Vasiyetnameyi kanıtlayan tenfiz memurlarının hakları.
+40. Envanter
+41. Tahsilat, borçların ödenmesi ve dağıtım
+42. Borçları ödeme sırası
+43. Şahsi temsilcinin banka hesabı açması
+44. Somut olarak vasiyet edilen şeyler
+45. Hesapların dosyalanması
+46. Kısıtlı varislerin hisselerinin dağıtımı
+47. Şahsi temsilcinin ilan vererek korunması
+
+İkinci Bölüm
+Varislerin Kısıtlı Olduğu Durumlarda İdare
+
+48. Muhtarın görevi
+49. Küçük terekeler
+50. Dağıtım yapılana kadar kısıtlı varislerin geçindirilmesi
+
+VII. KISIM
+ÇEŞİTLİ KURALLAR
+
+51. Terekeden feragat
+52.Şahsi temsilciyi görevden uzaklaştırma veya değiştirme yetkisi
+53. Bazı meselelerin işlem başlatma celpnamesi (originating summons) ile karara   
+     bağlanması
+54. Mahkeme tarafından idare veya vasiyeti tenfiz için dava yoluyla yargı işlemleri
+55. Masrafların terekeden ödenebilmesi 
+56. Muhtarın görevlerini ifada temerrüt halinde çare
+57. Mahkeme Tüzükleri
+58. Başka kural bulunmaması halinde İngiliz icraat ve usulünün uygulanması
+59. Korumalar
+
+ÖLEN KİŞİLERİN TEREKELERİNİN İDARESİNE İLİŞKİN YASAYI KONSOLİDE EDEN VE DEĞİŞTİREN YASA
+
+24 Ağustos 1954  
+ 
+ 
+I. KISIM 
+BAŞLANGIÇ KURALLARI
+
+ 
+Kısa İsim
+1. Bu Yasa, Terekelerin İdaresi Yasası olarak isimlendirilir. 
+ 
+Yorum
+2. Bu Yasada metin başka türlü gerektirmedikçe;
+“Değer “ mal ile ilgili olarak, bir malın  istekli  bir  satıcı tarafından istekli bir alıcıya açık pazarda satılması halinde sağlanması beklenilen hasılatı anlatır ;  
+“Ergin olmayan” on sekiz yaşını doldurmamış bir kişiyi anlatır; ancak evli bir kadın on sekiz yaşını doldurmamış olması nedeniyle kısıtlı sayılmaz;
+“Genel şekilde tevdi” tevdi hakkının münazaalı olmadığı hallerde veya itiraz edilmişse itirazın sonuçlanması üzerine tereke idare veya vasiyetname veya tereke tenfiz yetkisinin tevdi edilmesini anlatır ; 
+“İdare” vasiyetnameli veya vasiyetnamesiz olarak, ve genel, özel veya sınırlı amaçlar   için   verilmiş   olsun   veya   olmasın, ölen bir kişinin   terekesinin  idaresi için verilen tüm  yetki belgelerini  içerir;
+
+“İdare  memuru “ bir Mahkemenin ,  vasiyetnamesiz veya vasiyetnameye bağlı olarak bir terekeyi idare etmesi için yetki belgesi tevdi ettiği kişiyi anlatır;  
+“Kısıtlı varis” ergin olmayan, veya akıl hastası olan veya işlerini idare etmesi Mahkemece yasaklanmış olan veya ülke dışında bulunan bir kişiyi anlatır;
+“Mahfuz hisse” (statutory portion) bir kişinin taşınır ve taşınmaz malının vasiyetname ile veremeyeceği bölümünü anlatır;
+“Mahkeme” ölenin Kuzey Kıbrıs Türk Cumhuriyetinde mutat veya son ikamet yerinin bulunduğu ilçenin Kaza Mahkemesi Başkanını veya o Mahkemenin bir Yargıcını veya bu gibi ikamet yerinin bilinmemesi halinde Lefkoşa Kaza Mahkemesini anlatır;
+“Münazaasız veya genel şekilde vasiyetname veya tereke tenfiz işi” vasiyetname kanıtlanması ve tastiklenmesi veya tereke tenfiz ve idare yetkisinin alınmasının münazaalı olduğu hallerde münazaanın sonuçlandırılması üzerine tereke tenfiz ve idare yetkilerinin Mahkemeden geçirilerek elde edilmesi dahil, elde edilme hakkı münazaalı olmadığı hallerde vasiyetname veya tereke tenfiz veya tereke idare yetkisini elde etme işini, ve herhangi bir davadaki yargısal işlemlerin konusunu oluşturmuş olmaması kaydıyla vasiyetnameli ve vasiyetnamesiz meselelerle ilgili münazaasız nitelikte tüm işleri, ve ayrıca tereke tenfiz veya idaresinin tevdiine karşı caveat (itiraz) dosyalama işini anlatır;
+
+“Mal” taşınır ve taşınmaz malları anlatır;   
+“Saptanmış” Tüzüklerle saptanmış olanları anlatır ;  
+“Şahsi temsilci” bir vasiyetname veya tereke tenfiz memurunu veya tereke idare memurunu anlatır ;  
+“Taşınır mal” taşınmaz mal dışında her cinsten tüm malları anlatır;
+“Taşınmaz mal” :
+
+(a) Araziyi ;  
+(b) Herhangi bir  arazi  veya  bina  veya  başka inşaat veya yapı üzerinde veya herhangi bir arazi veya bina veya başka inşaat veya yapıya ekli binaları, ve başka inşaat, yapı veya müştemilâtı veya bunlara sabit kısımları ;  
+(c) Ağaçları, bağları ve herhangi bir araziye dikilmiş veya orada yetişmekte olan her türden herhangi bir şeyi ve bunlar üzerinde bulunan koparılmamış herhangi bir ürününü ;
+
+(d) Mülkiyetine herhangi bir arazi ile birlikte veya araziden ayrı olarak sahip olunan pınarları, kuyuları, suları veya sulardaki hakları ;  
+(e) Herhangi bir  araziye veya herhangi bir binaya veya başka herhangi bir inşaat  veya  yapıya  bağlı veya ait olan veya bağlı veya ait olduğu farz edilen veya sayılan   imtiyazları, serbestileri  , irtifak   haklarını  ve  başka  herhangi  bir  hak ve istifade sağlayan menfaatleri ;
+
+(f) Yukarıda serdedilen herhangi bir maldaki bölünmemiş hisseleri
+içerir.  
+“Tereke” bir kişinin ölümünde tasarrufunda bulunan taşınır ve taşınmaz malları anlatır ;
+“Tevdi” vasiyetnameyi tenfiz veya tereke idare yetkisi belgesinin tevdi edilmesini anlatır;  
+“Türk Aile Mahkemesi” ölenin Kuzey Kıbrıs Türk Cumhuriyetinde mutat veya son olarak ikamet ettiği yerin bulunduğu ilçenin Türk Aile Mahkemesini veya
+
+bu ikamet yerinin bilinmemesi halinde Lefkoşa Türk Aile Mahkemesini anlatır ;  
+“Tüzükler” bu Yasa uyarınca yapılan tüzükleri anlatır ;  
+“Varis” yasanın uygulanması ve etkisi ile bir terekede miras alan bir kişiyi anlatır;
+“Vasiyet edilebilen bölüm” bir kişinin taşınır ve taşınmaz malından vasiyetname ile verebileceği bölümü anlatır ;
+
+“Vasiyetle verilmemiş bölüm”, vasiyetle verilebildiği halde verilmemiş olan bölümün, hale göre, tümünü veya bir bölümünü anlatır ;  
+“Vasiyetname” bir vasiyetçinin taşınır  veya taşınmaz  malının ölümünden sonra verilmesine ilişkin niyetlerini  içeren  yazılı  yasal  beyanını   anlatır  ve bir  ek  vasiyetnameyi (codicil)  de   içerir. 
+ 
+
+II. KISIM 
+TEREKE TENFİZ MUKAYYİDİ VE MUKAYYİTLİĞİ
+ 
+Tereke tenfiz baş mukayyidi ve tereke tenfiz mukayyitli-ği
+3.(1) Baş Mukayyit, tereke tenfiz baş mukayyidi olup, Yüksek  Mahkeme Mukayyitliği de tereke tenfiz baş mukayyitliği olur.  
+
+
+(2) Tereke tenfiz baş mukayyidinin yetkileri ve görevleri, Baş Mukayyidin Yüksek Mahkeme Başkanının onayı ile atayabileceği Yüksek Mahkeme Mukayyitliğinin bir memuru tarafından kendi adına kullanılabilir ve yerine getirilebilir..  
+(3) Her Kaza Mahkemesinin Mukayyidi, kendi kazası için tereke tenfiz mukayyidi olur. 
+ 
+Tereke tenfiz mukayyitle-rinin görevleri
+4.(1)  Bir tereke tenfiz mukayyidi, vasiyetname veya tereke tenfiz veya tereke idare yetkisi tevdii için mukayyitliğe yapılan her istida hakkında istidanın yapılmasından sonra  mümkün  olan  en   erken  bir  zamanda, tereke tenfiz baş mukayyitliğine  saptanmış şekilde   bildirimde  bulunur,  ve tereke tenfiz baş mukayyitliğinden vasiyeti yapanın veya vasiyetname bırakmadan ölenin terekesi  ile   ilgili   olarak   başka  bir   istida yapılmadığına  dair  bir tasdikname alana kadar vasiyetname veya tereke tenfiz veya tereke idare yetkisi tevdi etmez.
+
+(2) Yukarıda  değinilen tasdikname  mümkün  olan en erken bir zamanda tereke tenfiz mukayyidine gönderilir.  
+(3)  Tereke tenfiz baş  mukayyitliğine  bu  şekilde  iletilen  bildirimler  dosyalanarak o mukayyitlikte muhafaza edilirler.
+
+(4) Bir tereke tenfiz mukayyitliğinden böyle herhangi bir  bildirim alındığında,  tereke tenfiz baş mukayyidi tenfiz veya idare yetkisi tevdii hususunda ayni ölen kişi için birden çok mukayyitliğe istida yapılmış olup olmadığını saptamak amacıyla, gerekli olduğu ölçüde, öteki tereke tenfiz mukayyitliklerinden  alınan  tüm  tevdi istidalarının bildirimleri ile tevdi için tereke tenfiz baş mukayyitliğinde yapılmış tüm istidaları  inceler,  ve bu hususta tereke tenfiz mukayyidi ile durumun  gerektirebileceği  iletişimi sağlar.
+
+(5) Bir tereke tenfiz mukayyidi, her üç  ayda  bir kez veya Tüzüklerin gerektirmesi  halinde daha sık aralıklarla, tevdi ettiği ve daha önceki rapora dahil edilmemiş vasiyetname veya tereke tenfiz ve tereke idare yetkilerinin saptanmış şekildeki bir listesini, ve ayrıca tevdilerin ilgili olduğu  vasiyetnamelerin  suretlerini, doğruluklarını  tasdik   ederek, tereke tenfiz baş mukayyitliğine iletir.
+
+(6) Bir tereke tenfiz  mukayyidi, Yüksek Mahkeme Başkanının vasiyetnamelerin korunması, muhafazası ve denetimi ile ilgili olarak zaman  zaman  yapacağı  düzenlemelere  bağlı  olarak, tevdi etmiş olduğu tereke  tenfiz veya vasiyetnameye bağlı idare yetkilerine konu tüm vasiyetnamelerin asıllarını dosyalayarak korur ve muhafaza eder. 
+ 
+Tereke tenfiz ve idare yetkisi tevdi listeleri
+5.(1) Tereke tenfiz baş mukayyidi,  direktif vererek belirleyebileceği süreler için, tereke tenfiz baş mukayyitliğinde ve diğer tereke tenfiz  mukayyitliklerinde  tevdi edilen vasiyetname veya tereke tenfiz ve tereke idare yetkilerinin listelerinin tereke tenfiz baş mukayyitliğinde zaman zaman hazırlanmasını sağlar.
+ 
+(2) Söz konusu listeler belirtilen süre içinde tevdi edilen  her tereke tenfiz yetkisi veya vasiyetnameye bağlı idare yetkisi ve başka  her idare yetkisi için bir not içerir ve listelerde  yetkinin tevdi edildiği  tarih , tevdi eden mukayyitlik ,  vasiyetnameyi yapanın veya vasiyetname bırakmadan ölenin adı ile ölüm yeri ve tarihi, vasiyetnameyi tenfiz memurlarının veya tereke idare memurlarının adı ve tanımı ve tereke varsa, terekenin değeri kaydedilir.
+ 
+*(3)  Bu  şekilde   hazırlanan  her  listenin  bir  sureti  posta  ile  veya  başka  yollardan  her tereke tenfiz mukayyitliğine   gönderilir  ve  bu   şekilde  gönderilen  her  suret  gönderildiği  mukayyitlik  veya dairede muhafaza edilir ve her araştırma için elli millik bir harç ödenmesi  üzerine,  incelenecek  liste sayısına   bakılmaksızın,   herhangi   bir   kişi   tarafından   incelenebilir. 
+ 
+ Vasiyet-namelerin vs. suretlerinin Gelir ve Vergi Dairesi müdürüne teslimi
+6. Yüksek  Mahkeme  Başkanı  ile  Gelir  ve Vergi Dairesi Müdürü arasında zaman zaman yapılacak düzenlemelere  bağlı kalınması  koşuluyla,  her tereke tenfiz mukayyitliği, bir vasiyetname veya tereke tenfiz veya tereke idare yetkisi tevdiinden sonra Yüksek Mahkeme Başkanının direktif vereceği süre içinde  aşağıdaki belgeleri Gelir ve Vergi Dairesi Müdürüne teslim eder:
+ 
+(a) Bir vasiyetname veya tereke tenfiz yetkisi tevdi edildiği  veya  vasiyetnameye bağlı  tereke  idare  yetkisi belgesi tevdi edildiği durumlarda, vasiyetnamenin  bir  suretini ;  
+(b) Tereke idare yetkisi belgesi tevdi edilen her durumda yetki tevdii belgesinin bir suretini veya alıntısını. 
+İlçe Tapu Amirine bildirim
+7.(1) Vasiyetnamenin   herhangi  bir   taşınmaz   malı  etkilediği  durumlarda,  kendisine vasiyetname veya tereke tenfiz yetkisi  veya vasiyetnameye bağlı tereke idare yetkisi belgesi tevdi edilen  kişi,   tevdi tarihinden  sonra on  gün içerisinde bu gibi malın bulunduğu    ilçenin  Tapu   Amirine   yazılı   bildirimde  bulunarak bildirimde  vasiyetnamenin   etkilediği   taşınmaz 
+ malların   bir listesini verir.
+ 
+(2) Vasiyetname  bırakılmadan ölüm durumunda bir tereke idare yetkisi tevdi edildiğinde, veya  49. madde uyarınca bir  emir verildiğinde,  idare  edilecek   terekede herhangi bir  taşınmaz  mal bulunuyorsa,   idare memuru   veya   49. madde  uyarınca    atanan   memur,  tevdi veya emir   tarihinden  on   gün  içerisinde,  bu gibi  malın   bulunduğu   ilçenin  Tapu   Amirine  yazılı bildirimde  bulunarak  bildirimde terekenin kapsadığı taşınmaz malların bir listesini verir.
+
+Tereke tenfiz mukayyit-liklerinde 
+8.(1) Tereke tenfiz baş  mukayyitliğinde  ve  her tereke tenfiz  mukayyitliğinde  Yüksek   Mahkeme   Başkanının zaman   zaman direktif vereceği   biçimde   mühür veya mühürler   kullanılır.
+Kullanıla-cak mühürler
+(2) Yukarda  belirtilen  mühürlerle  mühürlenmiş  olan  tüm vasiyetname veya tereke tenfiz yetki belgeleri, tereke idaresi yetki belgeleri, emirler ve diğer enstrümanlar, daha başka kanıt gerekmeden  ülkenin  her  tarafında şahadet olarak kabul  edilir. 
+ 
+ 
+III. KISIM
+VASİYETNAMELERİN MUHAFAZA İÇİN VERİLMESİ, ORTAYA ÇIKARILMASI VE İBRAZI
+
+
+
+Vasiyetna-melerin muhafaza için verilmesi
+9.(1) Herhangi bir  kişi, Tüzüklerle saptanacak harçları ödemesi ve Tüzüklerin kurallarını yerine getirmesi üzerine vasiyetnamesini, emniyet  altında  muhafaza  edilmesi  için  hayatta  iken  bir  tereke tenfiz  mukayyidine teslim edebilir.
+ 
+(2) Vasiyetnameyi yapanın vasiyetnamesini  geri çekmesi  dışında, bu şekilde teslim edilen bir  vasiyetname Mahkeme  onayı  olmaksızın  mukayyitlikten alınamaz ve mukayyitlik dışına çıkarılamaz ve  saptanabilecek belirli koşullar dışında   açılamaz.
+ 
+(3) Bir   vasiyetname  açıldığında  saptanmış   harcın   ödenmesi   üzerine  
+suretleri ilgili taraflara teslim edilebilir.
+
+  
+
+
+
+Muhafaza için verilen vasiyetna-meler hakkında ilgili kişilere duyuru 
+(4) Bu  şekilde muhafaza için teslim edilen her  vasiyetname  için tereke tenfiz baş  mukayyidine  bildirimde  bulunulur  ve tereke tenfiz baş mukayyidi, tereke tenfiz mukayyitlikleri için saptandığı şekilde vasiyetname yapanların bir sicilini ve isimlerinin alfabetik  dizinini  tutar. 
+
+10.(1) Hayatta iken Tüzükler uyarınca muhafaza için bir vasiyetname veya ek vasiyetname yatırmış olan bir kişinin öldüğü ve bu vasiyetnamenin açılması için harekete geçilmediği, veya ölüm tarihinden  sonra da makul bir süre içinde (dört ayı geçmeyen) harekete geçilmesinin olası görülmediği Mahkemeye gösterilirse, Mahkeme, vasiyetnamenin varlığını ve gerekirse  içerdiklerini, ilgili olması muhtemel herhangi bir kişinin bilgisine getirmek için, meselenin hal ve koşullarının gerektirdiğine kanaat getirdiği işlemleri yapabilir.. 
+(2)Yukarıdaki (1). fıkra uyarınca yapılan herhangi bir işlem için tutanak tutulur ve tutanak Mahkeme tarafından imzalanarak vasiyetnameyle birlikte tutulur. 
+ 
+Vasiyetnamelere ilişkin evrakın vs. ibrazı
+11.*(1) Tasarruf veya kontrolünde ölmüş bir kişiye ait vasiyetname veya vasiyetname niteliğinde olan veya vasiyet niyetiyle yapılmış olduğu anlaşılan herhangi  bir  kâğıt  veya  yazı  bulunduran  herhangi bir  kişi, aslını  derhal  Mahkemenin  tereke tenfiz mukayyidine  teslim  eder.  Herhangi bir kişi, ölen kişinin  ölümü hakkında bilgi sahibi olduğu tarihten sonra on dört gün içerisinde bu gibi evrakı teslim etmeyi ihmal ederse,  Mahkemenin   bu  kişinin durumu ile meselenin diğer hal ve koşullarını dikkate aldıktan sonra, çarptırmayı uygun göreceği ancak elli Kıbrıs Lirasını geçmeyen bir para cezasına  çarptırılabilir.
+ 
+(2) Vasiyetname veya vasiyetname niteliğinde olan  veya  vasiyet niyetiyle yapılmış olduğu  anlaşılan  ölen  bir  kişiye ait  herhangi  bir kağıdın, bir kişinin tasarruf veya kontrolünde  olduğu  anlaşıldığında  Mahkeme,  tenfiz veya tereke idaresine ilişkin bir  dava veya yargısal  işleminin askıda bulunup bulunmadığına  bakılmaksızın, kâğıdı ibraz  etmesi  ve  Mahkemeye  getirmesi için bu kişiye   seri  usul yoluyla emir verebilir.  
+ 
+(3) Herhangi   bir  kişinin  vasiyetname veya vasiyetname niteliğinde olan  veya vasiyet niyetiyle yapılmış olduğu anlaşılan herhangi bir kağıt hakkında bilgi sahibi olduğuna   inanmak   için   haklı  sebepler  bulunduğu   anlaşıldığında (kâğıdın  tasarruf  veya kontrolünde  olduğunun  gösterilmemesine   rağmen)    Mahkeme tereke  tenfiz  veya   tereke idaresine  ilişkin  bir  dava  veya   yargısal  işleminin askıda  bulunup  bulunmadığına bakılmaksızın, bu kişinin  kağıt ile ilgili olarak Mahkemede sorgulanmasını veya yazılı sorularla sorgulanmasını  ve bu amaçla Mahkemeye gelmesini ve sorgulandıktan sonra kâğıdı ibraz ederek   Mahkemeye   teslim etmesini  seri   usulle,   emredebilir.
+ 
+ 
+IV.KISIM
+VASİYETNAME VEYA TEREKE TENFİZ YETKİSİ VEYA TEREKE İDARE YETKİSİ TEVDİLERİ
+
+ 
+Veraset vergisi ödenene kadar yetki tevdi edilmemesi
+67/1962
+46/1983
+35/1989
+71/1993
+26/1996
+
+12. Veraset  Vergisi  Yasasının 47.maddesi  kuralları  yerine getirilene  kadar bu Yasa uyarınca hiç bir vasiyetname veya tereke tenfiz veya  tereke  idare  yetkisi tevdi  edilmez. 
+ 
+Tereke tenfiz mukayyit-liklerinde tereke tenfiz ve idare yetkisi tevdileri
+13.(1) Genel şekilde tereke idare veya tenfiz yetkisi tevdii,tereke tenfiz mukayyitleri tarafından, Mahkeme adına ve Mahkemenin vereceği özel veya genel talimata bağlı olarak ve mukayyitliğin  mührü  altında  yapılabilir ve bu gibi herhangi bir yetki ölmüş  kişinin ülkenin  her  yerindeki  terekesi  için  etkili  olur.
+ 
+(2) Tereke tenfiz mukayyidi,  münazaa bulunan herhangi  bir  meselede münazaa  sonuçlandırılıncaya  kadar, veya Mahkemenin    talimatını almaksızın tenfiz veya idare yetkisi tevdi edilmemesi gerektiğini gördüğü herhangi bir meselede tereke tenfiz veya idare yetkisi tevdi etmez.
+ 
+(3) Bir tereke tenfiz  mukayyidi, bir tereke tenfiz   veya   idare  yetkisi tevdii için yapılmış bir istidanın  onaylanıp onaylanmaması gerektiği hususunda  şüpheye  düştüğü durumlarda, veya bir yetki tevdiine veya bir yetki tevdii istidasına ilişkin bir sorun ortaya çıktığında, meseleyi direktif  için  Mahkemeye havale eder,  ve Mahkeme  tereke tenfiz  mukayyidine, vermeyi lüzumlu göreceği talimatlar uyarınca meselede işleme devam etmesi için direktif verebilir, veya mukayyidin konu ile ilgili olarak daha ileri bir işlem yapmasını yasaklayarak yetki tevdii için  istida yapan tarafı soruna çare bulunması için Mahkemeye istida yapmaya bırakır. 
+ 
+Kanıtlanın-caya kadar Vasiyetna-
+menin etkisizliği .
+14. Bir vasiyetnamenin kanıtlanıncaya kadar herhangi bir etkisi yoktur. 
+  
+ 
+Vasiyetnamenin tenfiz memuruna gelip vasiyetna-meyi kanıtlaması için bildirim
+15. Mahkeme  resen  veya  vasiyetname tahtında bir   menfaat   talebinde   bulunan  herhangi  bir  kişinin istidası üzerine, vasiyetnamede, varsa, ismi belirtilen vasiyetnameyi tenfiz  memurlarına  Mahkemeye başvurarak vasiyetnameyi kanıtlamaları, veya vasiyetnameyi tenfiz yetkisi almayı reddettiklerini bildirmeleri için çağrı yapan bildirimde bulunur, ve tenfiz memurları veya bazıları veya tenfiz memurlarından biri bildirimin  yapıldığı  tarihten sonra on dört gün içerisinde Mahkemeye başvurarak  bildirim uyarınca vasiyetnameyi kanıtlar  veya tenfiz  yetkisi almayı reddeder 
+ 
+Vasiyetna-me tenfiz memuru-nun vasiyetna-meyi kanıtlama hakkının sona 
+ermesi 
+16. Bir vasiyetname ile tenfiz  memuru  atanan bir kişi :-  
+      (a) Vasiyeti  yapanın ölümünden sonra hayatta olmakla beraber  vasiyetnameyi  tenfiz  yetkisini almadan ölürse ; veya 
+      (b) Vasiyetnameyi  tenfiz  yetkisi almak için Mahkemeye çağrıldığı halde çağrı uyarınca Mahkemeye gelmezse; veya  
+      (c) Vasiyetnameyi  tenfiz  memuru  olmayı reddederse,
+tenfiz  memurluğuna ilişkin tüm hakları sona  erer,  ve vasiyetnameyi yapanın temsiliyeti  ve  terekesinin idaresi, o  kişi  tenfiz memuru atanmamış  gibi  intikal  eder  ve  işlem  görür. 
+ 
+İdarenin kime tevdi edileceği hususunda Mahkeme-nin takdir yetkisi
+17. Mahkeme,  idare  yetkisi tevdi ederken ölen  kişinin  terekesinde  veya  terekenin  satılmasından sağlanacak   hasılatta menfaati   olan   tüm  kişilerin  haklarını   dikkate  alır,  ve,  özellikle, vasiyetnameye bağlı idare yetkisini vasiyetname gereğince kendisine miras bırakılan bir kişiye tevdi edebilir ve böyle bir idare, Mahkemenin uygun göreceği herhangi bir şekilde sınırlı olabilir.
+ 
+Ancak ;
+(a) Ölen kişi, terekesi ile ilgili olarak hiç bir vasiyet bırakmadan ölmüşse, idare yetkisi istida yapmaları halinde ölenin varislere kalan mütebaki  terekesinde  (residuary estae) menfaati  olan  kişiye  veya  kişilere verilir;
+ 
+(b) Ölen  kişinin  terekesi  borçları  ödemeye  yeterli  değilse  veya   başka  herhangi  bir özel durumdan  dolayı  Mahkeme, bu  koşul  kuralı  olmasa  idi  yasa  gereğince  idare  yetkisi alma hakkına  sahip  olacak olan  kişiden başka  bir  kişiyi  idare  memuru  atamanın  gerekli  ve  uygun olacağı kanısına varırsa, bu Yasanın içerdiği herhangi bir kurala bakılmaksızın uygun göreceği bir kişiyi   idare  memuru   olarak  atayabilir   ve  bu   kural altında tevdi edilen bir   idare  yetkisi Mahkemenin  uygun  göreceği  şekilde  sınırlı  olabilir. 
+ 
+Vasiyetna-meye bağlı idare
+18. Vasiyetnameye bağlı tereke idaresi yetkisi aşağıda belirtilen hallerde tevdi edilebilir;
+ 
+    (a) Vasiyetnamede vasiyetnameyi tenfiz  memuru  atanmadığında ;  
+    (b) Vasiyetnamede atanan tenfiz memuru vasiyeti yapanın hayatta bulunduğu sırada ölmüşse, veya vasiyeti yapanın ölümünden sonra  vasiyeti  kanıtlamadan  ölmüşse ;
+  (c) Vasiyetnameyi  tenfiz memuru  görevi reddetmişse, veya  Mahkemenin  mutat  olarak uyguladığı usul uyarınca celbedildiği halde isbat-ı vücut etmemişse;
+ 
+    (d)Vasiyetnameyi tenfiz  memuru ataması  belirsizlik nedeniyle geçersiz ise ;  
+     (e) Mahkeme,  17.  maddenin  verdiği  takdir yetkisini  kullandığında ;  
+     (f) Vasiyetnameyi tenfiz   memurunun  ergin  olmaması,  akıl   hastası  olması  veya  başka  bir   kısıtlılığı bulunması  veya  yargı  yetkisi  alanı  dışında   ikamet  etmesi   nedeniyle  ehliyetsiz  olduğunda. 
+ 
+Sınırlı yetki tevdileri
+19. Vasiyetname veya tereke tenfiz veya tereke idare yetkileri mallarla ilgili olarak veya özel bir amaç için süreyle  sınırlı  olabilirler,  ve  bu  Yasa ve Tüzüklerin kurallarına bağlı kalınması koşuluyla, Mahkeme  veya  mukayyitler  bu gibi yetkileri tevdi ederlerken ilgili  zamanda  İngiltere’de uygulanmakta olan   tereke  tenfiz uygulamalarını  izlerler. 
+ 
+Yargısal işlemlerin askıda bulunduğu durumlarda idare
+20.(1) Ölmüş  bir kişinin vasiyetnamesinin geçerliliğine veya tenfiz veya idare yetkisi tevdii elde edilmesine, yetkinin geri  alınmasına veya iptaline ilişkin  herhangi  bir  yargısal işlemin askıda bulunduğu durumda, Mahkeme ölen kişinin  terekesinin  idaresi yetkisini, mütebaki terekenin dağıtılması dışında bir alelade tereke idare memurunun tüm hak ve yetkilerine sahip olacak olan   bir  idare  memuruna  tevdi edebilir; ve böyle bir    idare  memuru Mahkemenin  doğrudan doğruya kontrolüne tabi olarak ve   Mahkemenin  talimatı  uyarınca icraatta bulunur.
+ 
+(2) Mahkeme, bu  madde uyarınca atanan  bir idare memuruna ölenin terekesinden uygun göreceği miktarda  makûl  bir  ücret  tahsis eder. 
+
+Şahsi temsilcinin yurt dışında olduğu durumda özel idare yetkisi tevdii
+21.(1) Bir kişinin ölüm tarihinden itibaren on iki ay geçmesine rağmen, kendisine ölenin terekesinin idaresi yetkisi tevdi edilmiş olan  bir  şahsi  temsilci  Mahkemenin bölgesel yargı  yetkisi alanı  dışında  ikamet  ediyorsa,  Mahkeme, herhangi   bir   alacaklının   veya ölenin terekesinde  menfaati  olan  kişinin  istidası  üzerine, istida  sahibine  ölenin  terekesinin saptanmış biçimde özel  idaresi yetkisini tevdi edebilir.
+ 
+(2) Mahkeme, özel idare yetkisi tahtında idare memuru olan kişinin  taraf olduğu   herhangi  bir yargısal işlem amacı bakımından, ölmüş kişinin  terekesine ait herhangi bir para miktarının veya  menkul kıymetlerin  Mahkemeye  devredilmesini  emredebilir  ve herkes  böyle bir  emre itaat eder.
+ 
+(3) Özel idare memurunun taraf olduğu herhangi bir yargısal işlemin askıda bulunduğu esnada şahsi  temsilci görev yapabilecek yetiye sahip olarak Mahkemenin bölgesel yargı yetkisi alanı içine dönerek ikamet etmeye başlarsa, bu şahsi  temsilci  yargısal  işleme taraf  yapılır, ve özel  idare ile yargısal işlemin masrafları ve bunlara arızi masraflar, işlemlerin askıda  bulunduğu  Mahkemenin  emretmeyi uygun göreceği  kişi  tarafından  ve  fondan  ödenir. 
+
+Vasiyetna-meyi tenfiz memurunun ergin olmadığı süre içinde idare
+
+22.(1) Ergin olmayan bir kişinin bir vasiyetnamenin yegane tenfiz memuru olması halinde, bu kişi on sekiz yaşına gelinceye kadar, terekeyi idare yetkisi vasiyetnameye bağlı olarak vasisine veya  Mahkemenin uygun göreceği başka bir kişiye tevdi edilir, ve küçük on sekiz yaşına geldiği zaman vasiyetnameyi tenfiz yetkisi kendisine tevdi edilir ancak bu yetki kendisine daha önce tevdi edilemez.
+ 
+(2) Vasiyetname bırakan bir kişi vasiyetnamesinde vasiyetnameyi tenfiz memuru olarak ergin olmayan bir kişiyi atarsa, kendisine bu  madde  uyarınca vasiyetnameyi tenfiz yetkisi tevdi edilmedikçe ve edilinceye kadar, bu atama ergin olmayan kişiye ölenin  malındaki herhangi  bir menfaatin devri hususunda etkili olmaz, veya herhangi  bir  amaç  bakımından ergin olmayan kişiyi şahsi  temsilci  yapma etkisini yapmaz. 
+
+Şahsi temsilci sayısına ilişkin kural
+
+23.(1) Ayni mal için dörtten çok kişiye vasiyeti veya terekeyi tenfiz veya terekeyi idare yetkisi tevdi edilemez; ve vasiyetname uyarınca veya vasiyetnamesiz ölümde ergin olmayan kişi veya kişiler söz konusu olduğunda veya ömür  boyu yararlanma hakkı veren bir menfaat doğarsa, idare yetkisi, ya başka bir kişi ile birlikte veya , tek başına bir kamu görevlisine ya da  en az  iki  kişiye tevdi edilir. 
+(2) Sadece bir şahsi  temsilcinin bulunduğu ve bunun da kamu görevlisi olmadığı hallerde, Mahkeme, bir menfaat sahibi ergin yaşa gelinceye kadar veya  ömür  boyu  yararlanma  hakkı veren menfaatin varolmaya devam ettiği sürece ve  tereke  tam  olarak idare edilinceye  kadar,  menfaat sahibi herhangi  bir kişinin  veya bu gibi bir kişinin vasisinin,  idare  memurunun  veya  kabz memurunun istidası üzerine vasiyetname veya tereke tenfiz tüzük ve emirnameleri uyarınca halen atanmış şahsi  temsilciye ek olarak bir veya daha çok şahsi temsilci atayabilir. 
+ 
+Tereke tenfiz mukayyidinin ret kararına karşı istinaf
+24.(1) Vasiyeti veya terekeyi tenfiz veya terekeyi idare yetkisi tevdii için yapılan bir istidaya karşı itirazda bulunulmamış olmasına karşın,  tereke tenfiz mukayyidi istidayı reddederse, müstedi, tereke tenfiz mukayyidinin kararının  gözden  geçirilmesi  için  istida yoluyla Mahkemeye  başvurabilir.
+ 
+(2) Mahkeme  bu istidanın dinlenmesinde,  resen veya  herhangi  bir kişinin istidası üzerine, vasiyetnameye ilişkin veya tereke idare yetkisi tevdiine ilişkin istidadaki yemin  varakasını veya varakalarını yapan kişileri  celbederek bu kişilerin daha ileri sorgulamasını yapabilir, veya vasiyetname veya tereke tenfiz yetkisi veya vasiyetnameye bağlı veya vasiyetnamesiz tereke idare yetkisi tevdi edilip edilmeyeceğini karara bağlamak için gerekli görülebilecek daha ileri   şahadet  dinleyebilir.
+ 
+(3) Mahkeme  kararı  aleyhine  Yüksek  Mahkemeye  istinaf  edilebilir. 
+ 
+ 
+V. KISIM 
+YETKİ TEVDİİ ÜZERİNE VE DAHA SONRA İDARENİN TAMAMLANMASI ÜZERİNE TEREKENİN İNTİKALİ  
+Ölenin vasiyetna-me bıraktığı durumlarda terekenin intikali
+25. Bir vasiyetname veya tereke tenfiz yetkisi veya vasiyetnameye bağlı tereke idare yetkisi tevdi edilmesinden başlayarak ve ondan itibaren, ölenin  terekesi  (mahfuz hisse ve vasiyetname ile verilmemiş bölüm dahil )  üzerindeki   hak  ve   yükümlülükler, ölen kişinin öldüğü tarihten başlayarak şahsi temsilcisine geçmiş sayılır. 
+ 
+Ölenin kısıtlı varis bıraktığı durumlarda terekenin intikali 
+*26.(1) Hiçbir vasiyetname bırakmadan ölen ve kısıtlı varisler ve yüz Kıbrıs Lirasını aşan değerde mal bırakan herhangi bir kişinin ölümü  üzerine, bu mal, idare yetkisi tevdi edilinceye kadar, veya terekenin bu Yasanın 49. maddesi uyarınca serian idaresi için bir emir ısdar edilinceye kadar, ölenin mutat olarak  ikamet  ettiği  ilçenin  Kaza Mahkemesi  Başkanına,  ve ölen kişi ülke dışında ikamet ediyorsaydı Lefkoşa Kaza  Mahkemesi  Başkanına geçer.
+ 
+(2) Tereke idare yetkisi belgesi tevdiinden veya 49. madde tahtında bir emrin ısdarından başlayarak ve ondan itibaren, ölenin malı,  duruma  göre,  idare  memuruna veya  49.madde  uyarınca  atanan  görevliye geçer. 
+ 
+Yetki tevdii yapılmamış durumda vasiyetnamesiz ölenin terekesinin intikali
+**27. Bir tereke için idare yetkisi tevdi edilmediğinde, ve bir kişinin  hiçbir vasiyet bırakmadan öldüğü ve kısıtlı herhangi bir varis bırakmadığı veya (kısıtlı varisleri varsa) sadece yüz Kıbrıs lirasını aşmayan değerde  mal bıraktığı hallerde ve  49. madde uyarınca  serian idare için bir emir ısdar edilmediğinde  aşağıdaki   kurallar   uygulanır :
+ 
+(1)(a) Ölenin  terekesi  borçları ve yükümlülükleri ile yükümlü  kalır ; 
+    (b) Tereke, bu  yüküme  bağlı  olarak  varislere geçer ve intikal  eder;
+    (c) Bir varis ölenin borç ve yükümlülüklerinin ölen kişiden eline geçen malın değerine kadarını veya  bu  malın  satışından  sağlanan  hasılatın  değerine  kadarını ödemekle  yükümlü olur;  
+   (d) Mahkeme, re‘sen veya menfaat sahibi bir tarafın istidası üzerine, varisleri ya terekeyi idare yetkisi belgesi almaya ya da terekenin  dağıtımının hesabını vermeye çağırır.
+ 
+(2)(a) Ölen kişinin  ölümünden sonra (bu ve 28. maddede “on sekiz aylık süre” olarak anılacak olan) on sekiz aylık bir süre geçinceye kadar, ölen kişinin hiç bir malı ölenin bir varisinden başka herhangi bir kişiye satılamaz veya borç icrası nedeniyle veya başka surette bir varisten başka birine devredilemez.
+         Ancak,  aşağıda belirtilen  malların  satışı  veya  devri  böyle bir  yasağa tabi olmaz. :
+ 
+  (i) Bozulabilen  satış metası eşya ;  
+  (ii) Ölenin  borç ve  yükümlülüklerini  ödenmesi  için  satılan veya  devredilen mal ; veya  
+  (iii)Tapu ve Kadastro  Dairesi  Müdürünün  Taşınmaz  Mal  ( Tasarruf, Kayıt ve Takdir )  Yasasının 28. maddesinden 33. maddeye kadar olan maddelerinin  kendisine   verdiği   
+Bölüm 224
+yetkiyi   kullanarak   mübadele  ettiği  veya  devrettiği taşınmaz   mallar.
+
+Bölüm 6  Bölüm 224
+(b) Hukuk  Muhakemeleri Usulü Yasası veya Taşınmaz Mal (Tasarruf, Kayıt ve Takdir) Yasasının içerdiklerine  bakılmaksızın, ölenin taşınmaz malına, ölene ait bir borçtan başka herhangi bir borç yükletilemez ve ölenin taşınmaz malı, on sekiz aylık süre sona erinceye kadar ölenin veya varislerinden başka herhangi bir kişinin adına  kaydedilemez  meğer  ki  bu  devir  veya  kayıt, hemen bir önceki paragrafın şart bendinin   (ii)  ve   (iii)   paragraflarında  belirtilen   amaçlar   için   yapılsın;
+(c) ölenin malının bu maddenin izin vermediği herhangi bir satışı veya devri geçersiz olur. 
+ 
+Varislere geçen terekenin idare yetkisinin tevdii 
+28.  27. madde  uyarınca  varislere geçmiş ve  intikal  etmiş  olan bir terekeye ilişkin idare yetkisi belgesi tevdi edildiğinde aşağıda serdedilen  kurallar  uygulanır ;  
+(a) Ölenin  malı varislerde kalmayıp  idare memuruna geçer:  
+      Ancak bir varise tahsis edilmiş  olan veya 27.maddenin (2). fıkrasının (a) bendinin koşul bendi uyarınca satılmış  veya  devredilmiş  olan  bir  mal,  idare  memuruna geçmez ;
+ 
+(b) Bir  varise tahsis edilmiş olan mal ile  ilgili  olarak  aşağıdaki  kurallar  uygulanır :  
+  (i) Bu bent  kuralları, bir varise tahsis edilen ve on sekiz aylık süre sona erdikten sonra ve varis tereke idaresi yetkisi belgesi için yapılan istida hakkında ihbar sahibi olmadan önce,  veya  ( böyle bir ihbar alınmamışsa )  idare yetkisinin tevdi edildiği tarihten önce, hükümlü bir borcun istirdadı için icra yoluyla satılan mala veya  bu varisin bir satın  alana devrettiği  mala  uygulanmaz ;
+ 
+  (ii) Bir varise tahsis edilmiş olup (i). bendde öngörüldüğü biçimde satılmamış veya devredilmemiş bir mal, tereke idare yetkisinin tevdi edildiği tarihten sonra bir aylık bir süre geçmeden önce satılamaz veya devredilemez;
+ 
+  (iii) İdare  memuru, idare yetkisini aldığı tarihten başlayarak bir ay içerisinde yetkiyi tevdi etmiş olan  mukayyitliğe, böyle bir malın veya herhangi bir kısmının ölen kişinin borç ve yükümlülüklerini ödemek için gerekli olup  olmadığına  dair  bir  beyanname  dosyalar ;
+ 
+  (iv) Mal bu amaç için gerekli ise, idare memuru beyannameyi dosyaladıktan sonra, bu gibi malın taşınmaz mal olan bölümü üzerine ölenin borçlarını varisin bir hükümlü alacaklısının yükletip kaydettirdiği herhangi bir yükümlülükten öncelikli olarak bir yükümlülük olarak kaydettirme hakkı dahil, varisin herhangi başka hükümlü alacaklılarından öncelikli olarak varisin bir hükümlü alacaklısının sahip olduğu tüm haklara sahip olur;
+ 
+(c) Bu  madde amaçları bakımından “bir varise tahsis edilmiş mal” ölenin malından,  yararlanma sahipliği (beneficial ownership) terekedeki payı veya payının  bir  bölümü olarak bir varise devredilmiş, veya öteki varislerin bu devire rızalarının alınmış olduğu malı ya da mal, taşınmaz mal ise, varisin adına kaydedilmiş olan malı anlatır ;
+ 
+(d) İdare  memuru  bir  varisin  payını  hesaplarken, ölenin malından varisin aldığı herhangi  bir  malı  ve  itfa ettiği ölene ait herhangi  bir  borç  veya yükümlülüğü dikkate alır.
+ 
+Varislerin aklayarak dava edebilecekleri koşullar 
+29.(1) Ölen  bir  kişinin  herhangi  bir  varisi, bu  madde uyarınca bir sertifika verilmesi için ölen kişinin  mutat  olarak  veya  son  ikamet  ettiği  ilçenin  tereke tenfiz  mukayyidine  istida ile başvurabilir. Bu gibi bir  istida ölen kişinin varislerinin adını ve bu varislerin herhangi birinin kısıtlılık durumu olup olmadığını gösteren bir beyanname; değeri dahil malının tam bir envanterini gösteren bir beyanname ve terekeye olan borçları gösteren bir  beyanname, ve varisler ve envanterle (bu maddede “müstedi tarafından dosyalanan envanter” olarak anılacaktır)ilgili beyannamenin en iyi bilgi ve inançlarına göre doğru olduğunu tasdik eden ve müstedi ile ölenin mutat ikamet yerinin muhtarı tarafından yapılan bir yemin varakası ile birlikte sunulur.
+ 
+(2) Tereke tenfiz mukayyidi bu madde uyarınca bir sertifika vermeden önce, müstediden yemin varakası ile daha fazla bilgi sunmasını, veya tereke tenfiz mukayyidinin direktif verebileceği ilanları  yayımlamasını isteyebilir. 
+(3) Müstedinin  (1)  ve  (2).  fıkra  kurallarını  yerine  getirmesi   üzerine  tereke tenfiz  mukayyidi;
+*(a) Ölenin  terekesinin  brüt  değerinin  ( borçlarla cenaze masraflarının ödenmesinden önce ) beş yüz Kıbrıs  Lirasını aşmadığından ;
+ 
+ (b) Terekenin  26. maddenin  (1).  fıkrası   uyarınca   Kaza   Mahkemesi   Başkanına geçmediğinden;  
+ (c) Bu  tereke  için   idare yetkisi tevdi  edilmediğinden  veya  edilmesi   için  askıda  bir istida bulunmadığından  ;  ve  
+ (d) Kişinin ölümünden on   dört   gün   geçmiş olduğundan tatmin olursa, varislerin isimlerini gösteren bir sertifika ısdar edebilir.
+
+ 
+(4) Ölen  kişiye olan herhangi bir borcu bu varislere ödeyen veya ölen kişiye ait herhangi bir malı bu varislere teslim eden ve varislerden bir makbuz alan herhangi bir kişi, ilgili borç veya malın müstedinin dosyaladığı envanterde beyan edilmiş olması koşuluyla, böylece  ödenen  borç veya teslim edilen mal hususunda geçerli biçimde aklanmış  olur.
+ 
+(5) Sertifikada adı  yazılı  varisler, müstedinin dosyaladığı envanterde gösterilen herhangi bir  malın  istirdadı  için bir  şahsi  temsilci  gibi  ayni  şekilde dava  açabilirler; ve  bu madde  uyarınca verilen bir sertifikada zikredilen varislerin  açtığı dava dışında  varisler hiçbir dava açamaz.
+ 
+(6) Mahkeme  resen   veya  ilgili herhangi bir kişinin  istidası  üzerine,  müstedinin dosyaladığı evrakta  beyan edilen   hususların   herhangi   birinin   doğru   olmadığından,   veya sertifikaya  konu   terekeye ilişkin   idare yetkisi tevdii  ile ilgili olarak yapılan bir istidanın  onaylanması   gerektiğinden   tatmin  olursa,  bu    madde  uyarınca  verilen  sertifikayı feshedebilir veya tadil edebilir;  ve bu şekilde feshedilen herhangi bir sertifika Mahkemeye teslim edilerek   iptal   edilir ;  
+Ancak,  iyi  niyetle  hareket  ederek,  bir terekenin alacağı olan bir borcu ödeyen veya ölene ait bir malı  teslim  eden herhangi bir kişiye sertifika uyarınca verilen 
+bir aklama, sertifikanın feshedilmesi nedeniyle geçersiz olmaz.
+ aklanmışlığı edilmesi, sertifikanın iptali ile geçersiz olmaz.
+ 
+(7) Tereke tenfiz mukayyidi ,  bu  madde  uyarınca  ısdar edilen  her  sertifikanın  bir  suretini  tereke tenfiz  baş mukayyidine gönderir, ve sertifika evvela yukarıdaki fıkra uyarınca feshedilmedikçe sertifikada zikredilen  tereke  ile  ilgili  olarak  idare  yetkisi tevdi edilmez.
+
+Ölenin terekesini hileli yollardan elde eden veya alıkoyan kişinin sorumlulu-ğu
+30. Her kim alacaklılara  hile  yaparak  veya  tam  değerde ivaz  vermeden,  ölen  bir  kişinin herhangi bir malını elde eder, alır veya elinde  bulundurursa  veya ölenin terekesinin  alacağı  olan bir  borcun  veya  yükümlülüğün kaldırılması etkisini yapan bir fiilde bulunursa,
+    (a) Ölen kişinin ölüm tarihinde kendisine değer taşıyan bir ivaz karşılığında ve hilesiz olarak borçlu olduğu herhangi bir miktar; ve
+Yaptığı ve bir şahsi temsilcinin ödemesi doğru olabilecek herhangi bir ödeme çıkarıldıktan  sonra,  aldığı  veya  eline  geçen  mal  veya  serbest bıraktığı   borç  veya yükümlülük  miktarından kendi kusuru ile yetkisiz tenfiz memuru olarak sorumlu tutulur.
+ 
+
+ 
+          Ancak bu madde kuralları, 27. madde kuralları uyarınca ve onlara bağlı  olarak, ölen bir kişinin herhangi bir malını elde eden, alan veya elinde bulunduran bir varise uygulanmaz.
+ 
+  
+
+VI. KISIM
+ 
+İDARE.
+Birinci Bölüm
+Genel Kurallar.
+
+
+ 
+ 
+Şahsi temsilcinin yetki ve görevleri
+31.(1) Bir vasiyetnameyi tenfiz  memuru, Kuzey Kıbrıs Türk Cumhuriyetinin  herhangi  bir Yasasının öngördüğü veya öngöreceği farklı kurallar saklı kalması koşuluyla, ahkâmı umumiye ve nisfet hukuku ilkelerinin kendisine  verdiği ve yüklediği yetki  ve  görevlere  sahiptir.  
+(2) Ölen bir kişinin terekesinin idaresi yetkisi kendisine tevdi edilen herkes, tevdi edilen yetkideki sınırlandırmalara bağlı olarak, ölenin vasiyetnamesinin  tenfiz memuruymuş gibi ayni hak  ve sorumluluklara sahip olur ve ayni  şekilde hesap vermekle yükümlüdür. 
+ 
+Şahsi temsilcinin satış vs. yetkisi
+32.(1) Şahsi temsilci, ölenin taşınmaz mallarından, cenaze masrafları ile  vasiyetnamenin öngördüğü masrafları ve ölen kişinin tüm gerçek borçlarını  ödemek  için gerekli olan kadarını satma yetkisine sahip olup, bu malı ipoteğe koyarak veya bu mal üzerinde yükümlülük yaratarak parasal kaynak sağlayabilir.  
+(2) Bu   maddenin   verdiği  yetkiler  ölenin  vasiyetnamesi  ile  tenfiz   memuruna  verilen  herhangi bir yetkiyi sınırlandırır şeklinde  yorumlanmaz . 
+ 
+Mahkeme-nin satış vs. emretme yetkisi  
+   
+
+
+Bölüm 224
+33.(1) Ölenin  terekesinin  hak sahipleri arasında yasaya göre dağıtımını kolaylaştırmak amacıyla Mahkeme, şahsi temsilciye o amaçla verilmiş yetki mevcut olmadığından yapamadığı için, kanısınca uygun  gördüğü   şekilde ,  terekenin  herhangi   bir bölümünün   satılmasını, kiralanmasını,  ipotek  verilmesini,  teslimini veya serbest bırakılmasını, taksimini veya başka şekilde elden çıkarılmasını  emredebilir.  
+     Ancak Mahkeme, Taşınmaz Mal  (Tasarruf, Kayıt ve Takdir ) Yasasının 27.maddesi kurallarına aykırı düşecek herhangi  bir  taşınmaz  mal bölünmesi  veya  taksimi için emir vermez.
+ 
+(2) Bu  madde uyarınca verilen bir emir Mahkemenin  koymayı uygun göreceği kayıt ve koşullara bağlı olarak verilebilir ve Mahkeme bu madde uyarınca  malın elden çıkarılması sonucu sağlanan herhangi bir paranın  ne tarzda  harcanacağı  veya  dağıtılacağı hususunda talimat verebilir.
+ 
+(3) Mahkeme,  bu madde uyarınca verdiği bir emri zaman zaman iptal veya tadil edebilir veya herhangi bir yeni veya   ek  emir verebilir.
+ 
+(4) Bu   madde    uyarınca   Mahkemeye  yapılacak   bir istida,  bir  şahsi   temsilci tarafından veya   ölenin terekesinde  menfaati  veya yararlanma hakkı olan  herhangi  bir  kişi (beneficiary) tarafından  yapılabilir. 
+ 
+Ölümün bazı dava sebeplerine etkisi
+34.(1) Bu madde kurallarına bağlı kalınması koşuluyla, bu Yasanın yürürlüğe girdiği tarihten sonra herhangi bir kişinin ölümü üzerine aleyhine olan tüm dava sebepleri ile kendisinin sahip olduğu tüm dava sebepleri, hale göre,  terekesinin  aleyhine  veya  yararına  geçerliliklerini korurlar:  
+        Ancak  bu  fıkra  zem ve kadihle  ilgili  dava  sebeplerine uygulanmaz.
+ 
+(2) Bir dava sebebi, ölen kişinin terekesi yararına yukarıda sözü edildiği biçimde geçerli olarak kaldığında, bu kişinin  terekesi  yararına  istirdat  edilebilen  zarar  ziyan ;  
+   (a) İbret olsun mülahazasıyla verilen türden zarar ziyan (exemplary damages)  içermez ;
+ 
+   (b) Evlenme vaadinin ihlali halinde,  ihlalden o kişinin terekesini uğrattığı kadar, eğer varsa, zararla sınırlı tutulur;  
+   (c) Bu kişinin ölümüne, dava sebebini doğuran fiil veya ihmal sebep olmuşsa, ölümü sonucu  terekesinin  uğradığı herhangi bir kayba veya kazanıma atıfta bulunulmadan hesaplanır; sadece, cenaze masrafları için bir miktar dahil   edilebilir.
+Bölüm 148  
+9/1976
+(3) Haksız fiiller Yasası altında veya 1976 Mahkemeler Yasasının 38. maddesinin (d) fıkrasının öngördüğü ahkamı-umumiye ye bağlı haksız fiillerden doğan ve bu madde uyarınca ölenin  terekesi  aleyhine  geçerli olmaya devam eden bir  dava  sebebi  ile  ilgili olarak hiçbir yargısal işlem yapılamaz, meğer  ki 
+ 
+   (a) Bu gibi bir dava sebebi ile ilgili olarak aleyhine başlatılmış olan  yargısal işlemler ölüm tarihinde askıda bulunsun; veya
+ 
+   (b) Dava  sebebi  ölümünden altı  aydan daha önce olmayan bir zaman  içerisinde  doğmuş  olsun, ve  şahsi temsilcisi, temsilciliği aldıktan sonraki altı ay  içerisinde  dava sebebi  ile  ilgili  olarak  yargısal işlemi başlatsın; ve böyle bir  temsilciliğin  ölen kişinin  ölümünden başlayarak iki yıl içinde alınmaması halinde  o tarihten geç olmamak üzere yargısal işlem  başlatılsın.
+ 
+(4) Herhangi bir kişi herhangi bir fiili veya ihmali sonucu bir zarara sebep olduğunda, zarara sebebiyet verdiği zamandan önce veya zararla eşzamanlı olarak ölmüşse, böyle bir fiil veya ihmal ile ilgili olarak bu Yasa amaçları bakımından, sebep olduğu zarardan sonra ölmüş olsaydı doğacak olan dava sebebi ölümünden önce doğmuş ve var sayılır.
+Bölüm 148
+(5) Bu  Yasanın  ölen kişilerin terekeleri yararına tanıdığı haklar  Haksız Fiiller Yasasının veya başka herhangi bir Yasanın veya ülkede yürürlükte   olan bir   İngiliz   Parlamentosu Yasasının  ölenin bakmakla yükümlü olduğu kişiler için öngördüğü  haklara ek olarak öngörülmekte olup onları azaltmaz veya 
+kaldırmaz.
+ 
+(6) Aleyhine yargısal işlemlere başvurulması bu maddeye dayanarak mümkün olan bir tereke, iflâs idaresi altında ise, başvurulması mümkün yargısal işlemlerdeki dava masrafları  ile  ilgili  herhangi  bir yükümlülük, bir sözleşme, vaat veya tröst ihlalinden başka surette doğmuş miktarı belirlenmemiş zarar ziyan (unliquidated damages) niteliğinde bir talep olduğuna bakılmaksızın, terekenin   idaresinde  kanıtlanabilen  bir  borç  sayılır.
+ 
+(7) 29 .madde  kurallarına  bağlı  kalınması  koşuluyla, bu madde altındaki yargısal işlemler amaçları bakımından, ölen  kişinin  terekesini,  şahsi  temsilcisinden  başka  hiçbir  kimse  temsil  edemez. 
+ 
+Şahsi temsilcinin terekesinin sorumlulu-ğu
+35. Bir ölen kişinin şahsi temsilcisi  olan bir kişi,  (kendi kusuru ile yetkisiz bir vasiyetname tenfiz memuru dahil) ölenin malının herhangi bir kısmını  israf  veya gasp eder veya sahiplenir ve ölürse, bu kişinin şahsi temsilcisi temerrüt eden kişi hayatta olmuş olsaydı sorumlu olacağı surette bu israf veya gasp veya sahiplenmeden temerrüt edenin mevcut aktifleri ölçüsünde sorumlu  ve  yükümlü  olur. 
+ 
+
+
+
+İyi niyetle hareket eden şahsi temsilcinin korunması
+36.(1) Bir  temsilcilik  uyarınca   iyi  niyetle  bir  ödeme yapan veya terekeye ait bir şeyi elden çıkaran, veya ödemenin veya elden çıkarmanın yapılmasına izin veren herkes, temsilciliğin geçerliliğini  etkileyen  herhangi bir  kusurlu duruma veya hal veya koşullara bakılmaksızın, bu icraatı hususunda  tazmin  edilir  ve  korunur.
+ 
+(2) Bir temsilcilik iptal edildiğinde, temsilciğin iptalinden önce, temsilcilik uyarınca, bir şahsi   temsilciye  iyi  niyetle yapılan tüm ödemeler ve verilen şeyler, ödemeleri yapan veya şeyleri veren için geçerli aklama oluştururlar; ve iptal edilmiş olan temsilcilik uyarınca işlem ve eylemde bulunmuş olan bir şahsi temsilci, yapmış olduğu ödemelerin veya vermiş olduğu şeylerin temsilciliğin tevdi edildiği bir sonraki kişi tarafından usulüne uygun olarak yapılabilecek ödemeler veya verilebilecek şeyler olması halinde, bu gibi ödemeler veya verilen şeylerle ilgili istihkakını alıkoyabilir ve hakkının karşılığını ödenebilir veya alabilir. 
+Hayatta kalan vasiyetna-me tenfiz memurunun hakları
+37. İki veya daha fazla vasiyetname tenfiz memuru bulunduğu hallerde,   bunlardan biri Mahkeme tarafından azledilirse veya ölürse veya  görev  yapamayacak duruma gelirse, geriye veya hayatta kalan tenfiz memuru veya  memurları, atanmış yegane memur veya memurlarmış gibi terekenin idaresini yürütmeye devam eder veya ederler. 
+ 
+Vasiyetnameyi tenfiz memurunun idaresinin esas vasiyeti yapanı temsil etmesi
+38.(1) Vasiyetname  yapan bir kişinin tek başına atanan bir vasiyetname tenfiz  memurunun  veya  hayatta  kalan  son vasiyetname tenfiz memurunun vasiyetname tenfiz memuru, vasiyetnameyi yapanın vasiyetnamesinin tenfiz memuru olur.  
+          Bu kural   vasiyetnameyi bırakanın vasiyetnamesini kanıtlayıp tasdik ettirmeyen bir tenfiz memuruna uygulanmaz, ve, bir tenfiz memurunun ölümü üzerine tenfiz memuru olduğu vasiyetname sahibinin hayatta bulunan başka bir tenfiz memuru kalırsa, bu hayatta kalan tenfiz memuru vasiyetnameyi  bırakanın vasiyetnamesini daha sonra kanıtlayıp tasdik ettirirse, bu kişiye tenfiz yetkisinin tevdii üzerine  bu kuralın uygulanması sona erer.
+ 
+(2) Bu temsilcilik zinciri devam ettiği sürece, zincirdeki son vasiyetname tenfiz memuru, ondan önceki vasiyetname sahibinin vasiyetnamesinin  tenfiz  memuru  olur.
+ 
+(3) Bu  tür  temsilcilik  zinciri  aşağıdaki  durumlarda  kopar :-  
+  (a) Vasiyetname bırakılmadan ölüm halinde;  veya  
+  (b) Vasiyetname yapan bir kişinin vasiyetnamesi ile bir tenfiz memuru  atamaması ;  veya  
+  (c) Bir vasiyetnamenin tenfiz yetkisini elde etmemek veya edememek.   
+Ancak,  daha sonra vasiyetname tenfiz yetkisi tevdi edilmesi kaydıyla,  geçici bir idare yetkisi tevdi edilmesi bu zinciri koparmaz.
+ 
+(4) Bir vasiyetname sahibinin  temsilcilik  zincirindeki  herkes :-  
+  (a) Bu vasiyetname sahibinin terekesi  ile ilgili  olarak, başlangıçtaki ilk tenfiz memuru hayatta olsa idi sahip olacağı haklarla ayni  haklara  sahip olur ;  ve  
+  (b) Bu vasiyetname sahibinin başlangıçta atanmış ilk tenfiz memuruymuş gibi, terekenin eline geçen malvarlığı ölçüsünde, sorumlu ve hesap vermekle yükümlü olur. 
+ 
+Vasiyetna-meyi kanıtlayan tenfiz memurları-nın hakları
+
+
+
+
+
+Envanter
+39. (1) Vasiyetnameyi tenfiz yetkisinin bir kişiye veya iki veya daha fazla kişiden bazılarına tevdi edildiği durumlarda, başkalarına veya başka bir kişiye de vasiyetnameyi kanıtlama ve tasdik ettirme yetkisinin mahfuz tutulup tutulmamış olmasına bakılmaksızın, yasal olarak şahsi temsilcinin sahip kılındığı tüm yetkiler ilgili zamanda vasiyetnameyi kanıtlayıp tasdik ettiren tenfiz memuru veya memurları tarafından kullanılabilir ve bu yetkilerin kullanımı vasiyetnamede tenfiz memurları olarak isimlendirilen herkes mutabıkmış gibi etkili olur.
+    (2) Bu madde vasiyetname sahibinin bu Yasanın yürürlüğe girdiği tarihten önce veya sonra girmiş olmasına bakılmaksızın uygulanır
+
+40.(1) Vasiyetname veya tereke tenfiz yetkisi almış olan bir tereke tenfiz memuru veya vasiyetnameye bağlı olsun veya olmasın tereke idare yetkisi belgesi almış olan bir tereke idare memuru, Mahkemenin direktif vereceği süre içerisinde Mahkemeye terekenin bir envanterini dosyalar. 
+(2) Envanter  saptanmış  biçimde yeminli  bir  beyanname  ile birlikte dosyalanır.
+
+Tahsilat borçların ödenmesi 
+ve dağıtım
+41.(1) Bir vasiyetname veya tereke tenfiz  memuru tereke tenfiz yetkisini aldıktan sonra, veya bir tereke idare memuru vasiyetnameye bağlı tereke idare yetkisi belgesi aldıktan sonra, terekenin idaresinde aşağıdaki şekilde hareket eder 
+ 
+    (a) Terekeyi makûl  süratle tahsil ederek veya toparlayarak terekeye hakim olur;  
+(b) Cenaze masraflarını ve vasiyetnameye ilişkin masrafları öder ve ölenin gerçek olan tüm borçlarını 42.maddede gösterilen öncelik sırasına göre öder ;
+ 
+(c) Gerekli görülmesi halinde, terekenin  geriye  kalan  kısmının (residue of the estate) değerini  dikkatlice takdir ettirir, ve vasiyetname  hükümlerini yasaya  göre  yerine getirir,  ve  bunu yaparken vasiyetnameyi  bırakanın vasiyetnamesi ile vasiyet edilebilen bölüm fevkinde vasiyette bulunmuş olduğu görülürse vasiyetle bırakılanları orantılı  olarak  azaltır; 
+(d) 46. madde kurallarına bağlı kalınması koşuluyla, terekenin mahfuz hissesinin (statutory portion) ve vasiyetle verilmemiş bölümünün dağıtımını yapar.
+ 
+(2) Bir  kişinin  vasiyetname bırakmadan öldüğü  durumlarda,  idare  memuru terekeyi, bu maddenin vasiyetname hükümlerini yerine getirmesine ilişkin kuralı dışında, bu maddede bir tereke tenfiz memuru için saptanan tarzda idare   eder. 
+ 
+Borçları ödeme sırası
+42. Cenaze masrafları ile vasiyetname veya tereke tenfiz memurluğunun veya tereke idare  memurluğunun  kabulü ve yürütülmesine ilişkin masraflar ve tenfiz veya idare memurunun ücretleri ödendikten sonra, ölenin gerçek olan borçları  tenfiz  veya  idare  memuru tarafından aşağıdaki  öncelik  sırasına  göre tasfiye  edilir;
+(a) Ölenin ölümünden önceki hastalığı  sırasındaki  tıbbi  tedavi  masrafları  ile altı aylıktan  fazla olmamak şartıyla ölenin  ev  hizmetçilerinin  alacağı  olan  ücretler ; 
+(b) Öncelik   sıralarına   göre   teminatlı   borçlar ;  
+(c) Başka   herhangi   bir   borç. 
+ 
+Şahsi temsilcinin banka hesabı 
+açması
+43.(1)  Aşağıdaki (2).  fıkra  kurallarına bağlı  kalınması  koşuluyla, şahsi temsilci, idare ettiği tereke için saptanmış bir bankada bir hesap açar. Şahsi  temsilcinin  aldığı  tüm paralar bu hesaba yatırılır ve  ödemeler sadece çek ile yapılır.  
+(2) Bu  madde  kurallarına  uymanın  özel olarak tedirginliğe veya zorluğa sebep olacağı durumlarda, Yüksek Mahkeme  Başkanı  belirli  bir sınıftaki terekeler için veya bir Kaza Mahkemesi Başkanı belirli bir tereke için  vereceği   bir direktifle, bu gibi tereke veya   terekelerin  şahsi  temsilcisini  bu  madde  kurallarına uymaktan   muaf   tutabilir. 
+ 
+Somut olarak vasiyet edilen şeyler
+44.(1) Somut olarak belirtilerek vasiyet  edilen  şeyler gerçek  borçların ödenmesinden sonra sıraya girer ve tasfiye  edilirler,  ve,  vasiyetnamede  aksine  bir  niyet gösterilmedikçe, genel olarak  vasiyet edilen şeylerden  önce  tasfiye,  edilirler.  
+(2) Somut olarak vasiyet  edilen şeylerin tümü bir  arada hesaplandığında değeri, bir terekenin vasiyet  edilebilen  bölümünün değerinden fazla olduğu görülürse, bu tür vasiyetlerde indirim veya azaltma yapılır. Bu indirim veya azaltma, somut olarak vasiyet edilen şeylerin  tümünün  satılması ve  satış  hasılatından  vasiyet edilebilen bölüm değerine eşit bir miktarın ayrılarak bu miktarın somut şeylerin  vasiyet  edildiği kişiler arasında her  birine kendisine vasiyet edilmiş olan şeyin  değeri   oranında   bölünmesi suretiyle yapılır. 
+ 
+Hesapların dosyalan-ması
+45.(1) Kendisine vasiyeti  veya terekeyi tenfiz  veya  terekeyi idare yetkisi belgesi tevdi edilmiş olan herkes, ve Mahkemenin atadığı her idare memuru, yetkinin tevdi edildiği veya atama emrinin verildiği tarihten başlayarak on iki ay içerisinde idaresine ilişkin hesapları Mahkemeye dosyalar, ve ondan sonra da idare sona erene kadar tereke tenfiz mukayyidinin verebileceği direktif uyarınca başka periyodik hesaplar daha sunar.
+ 
+(2) Bu emir  uyarınca  Mahkemeye bir hesap dosyalandığında, tereke tenfiz mukayyidi bu hesapları dikkatle  inceler,  ve  bu hesaplarda usulsüz,  teyit  edilmeyen  veya  kabul edilemeyen kalemler bulunması sebebiyle  veya başka sebeplerden dolayı hesapların  tam  ve gerektiği biçimde hesaplar olmadığını görürse,  hesapları  dosyalayan  kişiye  yazılı  ihbarda  bulunabilir ve  mevcut olabilecek kusur veya eksikliklerin bu  amaçla  makûl  görebileceği bir  süre  içerisinde  giderilmesini  ister;  ve  hesapları dosyalayan kişi bu süre içerisinde kusur veya eksiklikleri gidermeyi ihmal ederse (1). fıkra  anlamında  hesap  sunmayı ihmal etmiş  sayılır.
+ 
+(3) Mahkeme, bu madde uyarınca dosyalanmış olup karışık  veya  hacimli olan hesapları incelemek üzere resen ehil bir kişi atayabilir ve bu şekilde  atanan kişi Mahkemenin verebileceği bir direktif uyarınca belirlenen ve terekeden ödenecek makûl bir ücret alabilir. Atanan kişi, Mahkemenin verebileceği direktif ile saptanan süre içerisinde hesaplarla  ilgili raporunu tereke tenfiz mukayyidine  sunar  ve  mukayyit de hesapları  kendisi  incelemiş  gibi herhangi bir işlemi yapar.
+ 
+(4) Mahkemeye  haklı  bir  sebep gösterilmesi halinde, Mahkeme hesapların yukarıda belirtildiği veçhile sunulmasına ilişkin  süreyi  kısaltabilir  veya   uzatabilir.  
+(5) Hesapları  sunmak  için kendisine yukarıda belirtildiği veçhile ek süre verilen  herhangi  bir  vasiyetname tenfiz veya tereke idare memuru, ek süre içinde hesapları sunmayı ihmal ederse, (1). fıkra anlamında hesap  sunmayı ihmal  etmiş  sayılır.
+ 
+*(6) Bu madde uyarınca hesaplarını sunmayı ihmal eden herhangi bir vasiyeti veya terekeyi tenfiz veya tereke idare  memuru, elli  Kıbrıs  lirasına  kadar  para  cezasına  çarptırılabilir.  
+(7) Tereke tenfiz  mukayyidi, herhangi  bir  vasiyeti veya terekeyi tenfiz memurunun veya  tereke  idare memurunun bu madde kuralları gereğince hesap sunmayı ihmal ettiğini, Mahkemenin bilgisine getirmekle görevlidir.
+ 
+(8) Bu hesaplar,  tereke tenfiz mukayyidini  vasiyetin veya  terekenin  idaresinde  menfaati bulunduğu hususunda tatmin  eden  herkesin  ücretsiz  olarak  incelemesine  açık  bulundurulur.  
+(9) Bu  maddede yer alan “hesaplar “ kelimesi,  idarenin bir hesabını,  vasiyeti  veya terekeyi tenfiz memurunun veya  terekeyi  idare memurunun  elinde  bulunan  hesapları teyit edici belgeleri ve hesapların ve bu belgelerin doğru olduğunu beyan eden bir yemin varakasını anlatır ve içerir. 
+ 
+Kısıtlı varislerin hisselerinin dağıtımı 
+46.(1) Bir  kişi  tamamen  vasiyetname bırakmadan ölürse, kısıtlı varisler bırakması halinde, idare memuru bu gibi kısıtlı varislerin terekenin  malvarlığında   hak sahibi oldukları hisseleri dağıtmadan önce, ölen kişi İslâm dininde biri  ise  idi  Türk  Aile  Mahkemesine  ve  başka herhangi bir durumda da Mahkemeye istida yaparak bu gibi hisselerin, duruma   göre, Türk  Aile  Mahkemesinin   veya   Mahkemenin  verebileceği direktifle belirlenecek biçimde kısıtlı varislerin kullanımı  için elden çıkarılmasını veya verilmesini veya kullanılmasını öngören bir emir ister.
+ 
+(2) Vasiyetname  bırakarak ölen bir kişinin  kısıtlı  varisler  bırakması halinde,  bu  varislerin vasiyetname altında varisler olup olmadıklarına,  veya  mahfuz hisseden veya vasiyetle  verilmemiş bölümden bir hisse almaya hak sahibi olan varisler  olup  olmadıklarına  bakılmaksızın—
+ 
+        (a) bu gibi kısıtlı herhangi bir varis  için  vasiyetname ile bir mütevelli  veya vasi atanmışsa, şahsi temsilci bu varisin hissesini bu  biçimde  atanmış  mütevelliye  veya  vasiye  devreder ; ve  
+        (b) bu  biçimde bir mütevelli veya  vasi  atanmamışsa  veya  mütevelli veya vasi görevini yapamayacak durumda veya yapmaya isteksiz ise, şahsi  temsilci, bir idare memurunun  (1). fıkra uyarınca  yaptığı  gibi  ayni  şekilde,  duruma göre,  Türk  Aile  Mahkemesine  veya  Mahkemeye istida yoluyla başvurur.
+Bölüm 277
+(3) Duruma göre, Türk Aile Mahkemesi veya Mahkeme, bu madde uyarınca yapılan bir istidayı dinlemesi  üzerine, Sabilerin ve Mahcurların Vesayeti   Yasasının  kendisine  verdiği  yetkiyi kullanır,  ve  şahsi  temsilci herhangi bir  kısıtlı  varisin hissesini Mahkemenin  vereceği emir  uyarınca  devreder. 
+ 
+Şahsi temsilcinin ilan vererek korunması
+47.(1)  Ölen kişinin herhangi bir   malının  hak sahibi olan   kişilere  devrini veya  dağıtımını yapmak amacıyla şahsi temsilci Resmi Gazete’de  ve tereke tenfiz baş  mukayyidinin   zaman  zaman  vereceği   genel direktiflere bağlı olarak, tereke tenfiz mukayyidinin emredeceği başka bir gazetede veya gazetelerde bir ilan  yayımlamak suretiyle bildirimde bulunabilir.
+ 
+(2) İlanda, şahsi temsilcinin böyle bir  devir  veya dağıtım yapma niyetinde olduğu bildirilir ve ilgili veya menfaat sahibi kişilerin, ilanda  veya birden fazla ilan yayımlanmışsa  son ilanda saptanan süre içinde (süre iki aydan kısa olmamalıdır) ilana konu  mal  veya  malın herhangi  bir  kısmı  ile ilgili  taleplerinin tafsilatını  şahsi  temsilciye  göndermeleri  istenir.
+ 
+(3) İlanlarda  saptanan  sürenin sona ermesi üzerine, şahsi temsilci, ilana konu malı veya malın herhangi bir bölümünü, usulüne göre veya resmen alıp almadığına bakılmaksızın sadece almış olduğu ihbarları dikkate almak suretiyle malda hak sahibi olan kişilere devredebilir veya bu kişilere dağıtabilir, ve  bu  şekilde  devredilen  veya dağıtılan  mal  ile  ilgili   olarak , devrin veya dağıtımın yapıldığı zaman talebi hakkında ihbar   almadığı  herhangi  bir kişiye   karşı   sorumlu   olmaz.
+ 
+(4) Bu  maddenin hiçbir   kuralı :-  
+     (a) herhangi  bir  kişinin, malı,  veya  malı temsil  eden veya malın yerini alan herhangi  bir  şeyi, satın alma dışında, almış olabilen herhangi bir  kişi nezdinde takip edip talepte bulunma hakkına halel getirmez.; veya 
+    (b) şahsi temsilciyi, ölenin  kayıtlı taşınmaz malı için İlçe Tapu Dairesinde araştırma yapma hususunda herhangi bir yükümlülükten  kurtarmaz.
+ 
+(5) Bu madde, şahsi  temsilcinin  idare  ettiği  vasiyetnamenin  içerdiği  herhangi  bir  şeye  bakılmaksızın uygulanır.  
+
+
+
+
+
+
+İkinci Bölüm
+Varislerin Kısıtlı Olduğu Durumlarda İdare
+
+Muhtarın görevleri
+48.*(1) Mutat  olarak Kuzey Kıbrıs Türk Cumhuriyetinde  ikamet  eden  herhangi  bir  kişi  gerek Kuzey Kıbrıs Türk Cumhuriyetinde gerekse yurt dışında öldüğünde, ölenin  mutat  ikamet  yerinin  bulunduğu  köyün  veya  mahallenin  muhtarı, ölen kişinin varislerinin kim olduğunu  saptamak  için derhal  tüm makûl olan soruşturmaları yapar ; ve bu varislerden herhangi birinin kısıtlı olduğu görülürse, muhtar ilgili kişinin öldüğü zaman sahip olduğu malı saptamak için çalışma yapar  ve  ölenin  ikamet  ettiği ilçenin tereke tenfiz mukayyidine derhal ilgili kişinin öldüğüne dair  bir duyuru  içeren ve ölüm  tarihini,  varislerinin  adlarını  ve hangilerinin kısıtlı veya Kuzey Kıbrıs Türk Cumhuriyeti dışında olduklarını, ölenin en yakın akrabalarından bazılarının adlarını  gösteren bir rapor ile bıraktığı malın  bir  listesini  gönderir ve   malın  yaklaşık  değerini  beyan eder.
+       Ancak, muhtar, ölenin bıraktığı malın değerinin yüz Kıbrıs lirasını aşmadığını açıkça görürse böyle bir rapor göndermesi gerekmez.
+ 
+(2) Muhtar, ölenin  alacağı  olan  herhangi  bir  para bulunup bulunmadığına dair ölenin varislerinden veya  yakın  akrabalarından  soruşturma   yapar   ve   alacağı  varsa,  alacaklı olduğu paranın bir beyanını, miktarını ve borçlu olan kişilerin adlarını belirterek,  mal  listesine dahil  eder.
+ 
+*(3) Muhtar, ölümü üzerine  kısıtlı varisler  bırakan bir  kişinin malı arasında değerleri yüz Kıbrıs Lirasını aşan veya ölenin öteki malının değeri  ile birlikte  yüz  Kıbrıs  lirasını  aşacak miktarda herhangi  bir  para,  para  için  teminatlar veya menkul değerler  veya mücevherat bulursa,  bunları ölenin varislerinden herhangi birine veya ölenin yakın akrabasına makbuz vererek tasarrufuna alır, ve bu şekilde  tasarrufuna aldığı  malı emniyetli bir şekilde bağlanmış, sarılmış veya paketlenmiş ve mühürlenmiş  olarak  tereke tenfiz  mukayyidine götürür  veya gönderir ve tereke tenfiz mukayyidi de malı kendisine getiren muhtara  veya başka kişiye getirilen  mal  için bir makbuz   verir.
+ 
+*(4) Bu  maddenin  kendisine  yüklediği  görevleri  kasten  ve haklı bir sebebi olmaksızın yerine getirmeyi ihmal eden  herhangi  bir  muhtar,  on  Kıbrıs  lirasına  kadar  para  cezasına  çarptırılabilir.
+ 
+*(5) Bu madde uyarınca tereke tenfiz mukayyidine herhangi bir rapor gönderen veya getiren her muhtar, tereke tenfiz mukayyidinden terekeden ödenmek üzere bir Kıbrıs lirası ücret alma hakkına sahip olur. 
+ 
+Küçük terekeler
+*49.(1) Ölümü üzerine kısıtlı varisler bırakan ölen bir  kişinin  malının  değeri  üç  yüz  Kıbrıs  lirasını aşmadığı hallerde, Mahkeme resen veya  ilgili  bir  kişinin  istidası  üzerine,  terekenin  serian idaresine emir verebilir. Bu takdirde  Mahkemenin  tereke tenfiz mukayyidi   veya Mahkemenin atayabileceği başka bir kamu görevlisi, 41’inci maddenin (l)’inci fıkrasının (a) ve (b)  bentlerînde  gösterilen  amaçlar bakımından ve 46’ıncı.madde uyarınca, duruma göre, Türk Aile Mahkemesinin veya Mahkemenin emri uyarınca terekenin geriye  kalan kısmının (residue of the estate) dağıtımı hususunda  bir idare  memurunun sahip olduğu yetkilere ve görevlere sahip olur.
+ 
+(2) Tereke tenfiz mukayyidi veya bu  madde  uyarınca  Mahkemenin atadığı kamu görevlisi, terekeye ait malı istirdat etmek ve terekeye katmak dahil 41’inci maddenin (1)’inci fıkrasının (a) ve (b). bentlerinin öngördüğü  görevleri  ifa etmek yetkisi ile bir veya  daha fazla kişiyi  vekil olarak  atayabilir;  bu gibi vekiller terekeden ödenmek üzere Mahkemenin  verebileceği direktifle belirleyeceği ücreti  alabilirler. 
+ 
+Dağıtım yapılana kadar kısıtlı varislerin geçindiril-mesi
+50. Bir  mal  26. madde  uyarınca intikal edip Mahkeme  Başkanına geçtiği hallerde; 
+      (a) Bir tenfiz veya idare yetkisi tevdi edilinceye kadar veya 49. madde uyarınca bir idare emri verilinceye kadar, ilçenin tereke tenfiz mukayyidi kısıtlı varislerin geçimi için makul olarak elzem olan harcamanın yapılmasına yetki verebilir. 
+     (b) Bir tenfiz veya idare yetkisi tevdi edildikten sonra veya 49. madde uyarınca bir  emir  verilmesi üzerine, 49. madde uyarınca atanan kamu görevlisi veya idare memuru, tereke tenfiz mukayyidinin onayı ile, 46’ıncı madde uyarınca bir vasi atanana kadar böyle bir harcamada bulunabilir. 
+ 
+ 
+
+
+VII. KISIM
+ 
+ 
+ÇEŞİTLİ KURALLAR 
+ 
+Terekeden feragat
+51.(1) Bir  tereke  bu  Yasa  kuralları  uyarınca bir varise geçerek  intikal ettiğinde, bu varis müteveffanın  öldüğünü  ve  kendisinin  de  onun varisi olduğunu  öğrendiği  tarihten başlayarak üç ay içinde herhangi bir zaman terekeden kayıtsız şartsız feragat edebilir.
+
+(2) Bu madde uyarınca feragat, Mahkeme Tüzükleri uyarınca saptanacak biçimde Mahkeme mukayyitliğine bir beyanname dosyalamak suretiyle yapılabilir..  
+(3) Bir varisin, alacaklılarından  herhangi  birinin  haklarını  ortadan kaldırmak amacıyla yaptığı herhangi bir feragat herhangi bir alacaklının istidası üzerine söz konusu amacı kanıtlaması ile Mahkeme tarafından feshedilebilir.
+ 
+(4) Terekeden  feragat  eden  bir varis ölenin borçları hususunda herhangi bir yükümlülükten sorumlu olmaz, ve gerek  yasanın  uygulanması ve etkisi ile gerekse ölenin vasiyetnamesi altında ölenin  terekesinden hiçbir yarar elde etmez.
+
+Bölüm 195
+10/1971
+(5) Ölen  kişi  terekeden  feragat eden bir varis dışında, ölümünde, hayatta altıncı dereceye kadar olan akraba  bırakmazsa  Vasiyetnameler  ve  Veraset  Yasasının 47. maddesinin (1). fıkrasında öngörüldüğü biçimde varis bırakmamış sayılır.
+Bölüm 195
+10/1971
+(6) Maliye işleri ile görevli  Bakan,  Hükümet adına, Vasiyetnameler ve Veraset Yasasının 47. maddesinin (2). fıkrası kuralları uyarınca Hükümete  intikal  edebilecek  herhangi  bir  maldan  bu  madde  uyarınca feragat edebilir. 
+ 
+Şahsi temsilciyi görevden uzaklaştır-ma veya değiştirme yetkisi
+52.(1) Mahkeme resen  veya  terekede  menfaati olan  herhangi  bir  kişinin  istidası  üzerine-  
+     (a) Terekenin  idaresinde  kasten  ihmalde bulunan veya sui halde bulunan bir vasiyetname veya tereke tenfiz memurunu veya tereke idare memurunu görevden uzaklaştırabilir ;
+ 
+      (b) Görevden uzaklaştırılan, veya  ölen  veya  çalışamayacak  duruma  gelen  vasiyetname veya tereke tenfiz memuru  veya  tereke  idare memuru  yerine  terekenin  idaresini  usulüne  uygun  olarak yerine getirmesi  amacıyla  başka  bir  kişiye terekeyi idare yetkisi belgesi tevdi edebilir.  
+
+(2) Bu suretle tereke idare yetkisi belgesi tevdi edildiği durumlarda, vasiyet veya tereke  tenfiz memurunun veya tereke idare memurunun tüm hakları, görevleri  ve  yetkileri  yeni  idare memuruna  intikal  eder. 
+ 
+Bazı meselelerin işlem başlatma celpnamesi (originating summons) ile karara bağlanması
+53.(1) Şahsi temsilciler  veya onlardan herhangi biri, alacaklılar, vasiyetnamede kendilerine mal veya bağış bırakılan kişiler veya  akrabalar  veya bu  gibi  alacaklılar vasıtasıyla talepte bulunanlar veya devir veya temlik yolu ile veya başka yoldan  yararlanma  hakkı  olanlar,  aşağıdaki sorunların veya meselelerin herhangi birinin,  terekenin Mahkemede idaresi yoluna gitmeksizin, karara bağlanması  için  işlem başlatma celpnamesi (originating summons)  ile  Mahkemeye  başvurabilirler;
+ 
+(a)Alacaklı, vasiyetname ile kendisine mal veya bağış vasiyet edilen kimse, akraba veya yasal varis  olduğunu  iddia  eden bir kişinin  hak  veya   menfaatlerini  etkileyen   herhangi   bir  sorun: 
+(b)Herhangi   bir  alacaklı sınıfının, mal veya bağış vasiyet edilen kişi sınıfının, akraba sınıfının veya  başka kişiler sınıfının  tespiti ;
+ 
+(c)Vasiyet veya tereke tenfiz memurlarının veya  tereke idare memurlarının belirli hesapları sunması ve bu gibi hesapların doğruluğunu, gerektiğinde, teyidi;
+(d)Vasiyet veya tereke tenfiz memurunun veya tereke idare memurunun  elindeki   herhangi  bir paranın Mahkemeye yatırılması ;
+ 
+(e)Vasiyet veya tereke tenfiz memuruna veya  tereke  idare memuruna, vasiyet veya tereke tenfiz memuru veya tereke idare memuru sıfatıyla belirli bir işlem veya eylemi yapması veya yapmaktan kaçınması için direktif verilmesi ;  
+(f)Herhangi  bir  satışın, satın  almanın, uzlaşmanın veya  başka  muamelenin  onayı;  
+(g)Terekenin  idaresinde  ortaya  çıkan  herhangi  bir  sorunun  karara 
+bağlanması.
+ 
+
+(2) İşlem başlatma celpnamelerine (originating summons) ilişkin hali hazırda yürürlükte olan  Hukuk  Muhakemeleri  Tüzüğü  bu madde  uyarınca  yapılacak  tüm yargı  işlemlerine uygulanır.
+(3)Bu  madde  uyarınca  yapılan istidalar  yargıçların  çalışma odalarında dinlenebilir ve karara bağlanabilir. 
+ 
+Mahkeme tarafından idare veya vasiyeti tenfiz için dava yoluyla yargı işlemleri
+54.(1) 53. maddenin (l).  fıkrasında  zikredilen  herhangi  bir  kişi, işlem başlatma  celpnamesi (originating summons) yoluyla hareket edeceğine, ölen kişinin terekesinin Mahkemede  idare edilmesi talebiyle bir  dava açabilir.
+ 
+(2) Bu Yasa kurallarına ve Hukuk Mahkemeleri Tüzüğü  kurallarına  bağlı  kalınması  koşuluyla,  vasiyeti veya terekeyi tenfiz  veya  terekeyi  idare yetkisi tevdii için istida yapan herhangi bir müstedi, veya bu gibi bir istidaya itirazda bulunan herhangi bir kişi (caveator), bir vasiyet veya tereke tenfiz yetkisi veya tereke idare yetkisi tevdii için dava yoluyla veya mukabil dava yoluyla yargısal işlem başlatabilir.
+ 
+(3) Bu madde uyarınca açılan bir davanın dinlenmesi üzerine, dava ile başlatılan yargısal işlemlere ilişkin ve hali hazırda yürürlükte olan Hukuk  Mahkemeleri  Tüzüğü; mümkün  olduğu  ölçüde,  böyle bir davaya da uygulanır, ve Mahkeme terekenin genel olarak Mahkeme tarafından idare edilmesini emredebilir, veya böyle bir emir yerine, Mahkemenin  bir işlem başlatma celpnamesi (originating summons) ile yapılan bir istidada verebileceği bir emir verebilir, veya vasiyeti veya terekeyi tenfiz veya terekeyi idare yetkisi için yapılan herhangi bir talebi kabul veya  ret  edebilir.
+ 
+(4) Mahkeme tarafından idare, Mahkemenin vereceği direktiflere bağlı  olarak,  tereke tenfiz mukayyidi veya başka bir kamu görevlisi tarafından yerine getirilir, ve mukayyit veya kamu görevlisi böyle  bir  idare  amaçları için, bir  idare  memurunun tüm yetki ve görevlerine  sahip olur, ve Mahkeme resen veya bir şahsi temsilcinin veya terekede menfaati bulunan herhangi bir kişinin veya terekeden yararlanma hakkı olan kişinin istidası üzerine, Mahkemede idare edilen herhangi bir tereke ile ilgili  olarak 33. maddenin  Mahkemeye  verdiği  yetkileri  kullanabilir. 
+ 
+Masrafların terekeden ödenebil-mesi
+55. Ölen bir kişinin terekesine  ilişkin  herhangi bir yargı işleminde Mahkeme,  masrafların  tümünün  veya  bir kısmının  terekeden  ödenmesini  emredebilir. 
+ 
+Muhtarın görevlerini ifada temerrüt halinde 
+çare
+56.(1) Bir muhtarın,  bu  Yasanın   muhtarlara  yüklediği görevlerin veya işlem veya eylemlerin herhangi birini ifa etmeye veya yapmaya muktedir veya istekli olmaması veya ihmal veya reddetmesi halinde, söz konusu görevleri veya işlem veya eylemleri Kaymakamın kendisi ifa edebilir veya yapabilir,  veya bu  görev  veya  işlem veya eylemleri ifa etmesi veya yapması için uygun bir kişi atayabilir, ve Kaymakamın veya bu şekilde atanan kişinin bu  Yasa  uyarınca ifa ettiği görevler ve yaptığı işlem ve eylemler  Muhtar  tarafından  ifa edilmiş veya yapılmış  gibi  geçerli  ve  etkili  olur.  
+(2) Bu Yasa uyarınca herhangi bir görevin yerine getirilmesinde temerrüt edilmesi ile ilgili olarak bu  Yasa veya  yürürlükteki  başka herhangi bir Yasa uyarınca yapılabilecek başka herhangi bir işlem veya eyleme ek olarak veya  onların  yerine bu madde kuralları gereğince işlem yapılabilir. 
+ 
+Muhakeme Tüzükleri
+**57. Bakanlar  Kurulu,  Yüksek  Mahkeme  Başkanının  tavsiye ve yardımı ile aşağıdaki amaçlar için Mahkeme Tüzükleri yapabilir :-  
+(a)(i)  Vasiyetnamelerin muhafaza için yatırılması ;  
+    (ii) Vasiyeti veya terekeyi  tenfiz ve tereke  idare yetkisi tevdii ile  ilgili  olarak münazaasız  veya alelade tereke tenfiz işleri  ile  işlemleri ;
+ 
+   (iii) Tereke tenfiz mukayyitleri  veya  diğer  kamu   görevlileri tarafından terekelerin  idaresi   ve  idarenin gözetimi ile ilgili usulün,  formaların, Mahkeme harçlarının ve avukat  ücretlerinin  saptanması ;  
+(b) Bu  Yasanın  saptanmasını  gerektirdiği  veya öngördüğü meselelerin  saptanması ;  
+(c) Genel  olarak  bu  Yasa  amaç  ve  kurallarının  yerine getirilmesi.
+ 
+Başka kural bulunma-ması halinde İngiliz icraat ve usulünün uygulanma-sı
+
+58. Herhangi  bir Mahkemede  veya tereke tenfiz mukayyitliğinde karşılaşılan herhangi bir mesele ile ilgili uygulama veya usul hakkında, bu Yasa veya Tüzükler uyarınca öngörülmüş kural yoksa,  İngiltere  Yüksek   Adalet  Mahkemesinin Tereke Tenfiz Bölümünde  ilgili  zamanda  yürürlükte  olan uygulamaya ve  usule uyulur. 
+Korumalar 1949  
+Bölüm 218 6/1951
+59.(1) Aşağıdaki (2). fıkra kurallarına bağlı kalınması koşuluyla, Ergin  Olmayan Kişilerin  Terekelerinin İdaresi Yasası, bu Yasanın yürürlüğe girdiği tarih olan 1 Ocak 1955’ten  önce  vasiyet  bırakmadan ölen ve kısıtlı varis bırakan ve terekesinin idaresi için yetki tevdii yapılmamış kişilerin terekesi ile ilgili olarak   yürürlükte   kalır   ve   uygulanır.
+    1949 Bölüm 218
+6/1951
+
+
+Bölüm 277
+(2) Bir Mahkemenin veya Türk  Aile  Mahkemesinin  bir  kısıtlı varisin vasisi  veya  hissesi  ile  ilgili olarak Ergin Olmayan Kişilerin Terekelerinin İdaresi Yasası uyarınca verdiği herhangi bir emir,  Sabilerin ve Mahcurların Vesayeti Yasası uyarınca verilmiş sayılır ; ve  böyle  bir  kısıtlı varis veya böyle bir hisse hakkında daha ileri işlemler Sabilerin ve Mahcurların Vesayeti Yasası uyarınca devam ettirilir  ve bu işlemlere Ergin Olmayan Kişilerin Terekelerinin idaresi Yasasının  uygulanması sona erer.
+1949
+Bölüm 220
+5/1951
+(3) Vasiyetnameler  ve Veraset  Yasasının VII. Kısım *kuralları, bu Yasanın yürürlüğe girdiği tarih olan 1 Ocak 1955’den  önce vasiyet veya  tereke  tenfiz yetkisi tevdi edilmiş olup idaresi tam olarak  tamamlanmamış terekelerin  idaresi  ile  ilgili  olarak  yürürlükte  kalarak  uygulanır.
+
+
+
+-----------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -7,7 +7,16 @@
   "alindi": "2026-10-09T14:02:08.040Z",
   "http": 404,
   "durum": "sorun",
-  "hata": "HTTP 404"
+  "hata": "HTTP 404",
+  "denenen_adresler": [
+   "/Yasalar/f_201.doc → 404",
+   "/Yasalar/f_201.docx → 404",
+   "/Yasalar/f_201.pdf → 404",
+   "/Yasalar/f_201.DOC → 404",
+   "/Yasalar/f_201.DOCX → 404",
+   "/Yasalar/f_201.PDF → 404",
+   "/Yasalar/f_201.rtf → 404"
+  ]
  },
  "2": {
   "pkey": 2,
@@ -17,7 +26,16 @@
   "alindi": "2026-10-09T14:02:10.634Z",
   "http": 404,
   "durum": "sorun",
-  "hata": "HTTP 404"
+  "hata": "HTTP 404",
+  "denenen_adresler": [
+   "/Yasalar/f_202.doc → 404",
+   "/Yasalar/f_202.docx → 404",
+   "/Yasalar/f_202.pdf → 404",
+   "/Yasalar/f_202.DOC → 404",
+   "/Yasalar/f_202.DOCX → 404",
+   "/Yasalar/f_202.PDF → 404",
+   "/Yasalar/f_202.rtf → 404"
+  ]
  },
  "3": {
   "pkey": 3,
@@ -69,12 +87,19 @@
   "numara": "34/1970",
   "ad": "1970 İvazsız Kazançlar Vergi  Yasası",
   "url": "https://mevzuat.mahkemeler.net/Yasalar/34-1970.doc",
-  "alindi": "2026-10-09T14:02:21.565Z",
+  "alindi": "2026-10-09T18:31:34.934Z",
   "http": 200,
   "bayt": 13312,
   "sha256": "866c2fd7effb1c1c10ad3c174ffcebf3ecabfd65e96a588ef89bce9e9463187d",
-  "durum": "sorun",
-  "hata": "This does not seem to be a Word document: Invalid magic number: a5dc"
+  "durum": "tamam",
+  "bicim": "doc",
+  "cikarma": "libreoffice",
+  "karakter": 2699,
+  "metin_dosyasi": "veri/mahkemeler/yasalar/6_34-1970.doc.txt",
+  "onarim": "yeniden denendi",
+  "denenen_adresler": [
+   "/Yasalar/34-1970.doc → 200"
+  ]
  },
  "7": {
   "pkey": 7,
@@ -114,7 +139,16 @@
   "alindi": "2026-10-09T14:02:31.233Z",
   "http": 404,
   "durum": "sorun",
-  "hata": "HTTP 404"
+  "hata": "HTTP 404",
+  "denenen_adresler": [
+   "/Yasalar/28-1991.doc → 404",
+   "/Yasalar/28-1991.docx → 404",
+   "/Yasalar/28-1991.pdf → 404",
+   "/Yasalar/28-1991.DOC → 404",
+   "/Yasalar/28-1991.DOCX → 404",
+   "/Yasalar/28-1991.PDF → 404",
+   "/Yasalar/28-1991.rtf → 404"
+  ]
  },
  "10": {
   "pkey": 10,
@@ -289,7 +323,16 @@
   "alindi": "2026-10-09T14:03:18.071Z",
   "http": 404,
   "durum": "sorun",
-  "hata": "HTTP 404"
+  "hata": "HTTP 404",
+  "denenen_adresler": [
+   "/Yasalar/47-1993.doc → 404",
+   "/Yasalar/47-1993.docx → 404",
+   "/Yasalar/47-1993.pdf → 404",
+   "/Yasalar/47-1993.DOC → 404",
+   "/Yasalar/47-1993.DOCX → 404",
+   "/Yasalar/47-1993.PDF → 404",
+   "/Yasalar/47-1993.rtf → 404"
+  ]
  },
  "22": {
   "pkey": 22,
@@ -371,12 +414,19 @@
   "numara": "4/1969",
   "ad": "Alacaklıların Haklarına Halel Getirebilecek  Mal Yürütmelerine Engel Olan Kural",
   "url": "https://mevzuat.mahkemeler.net/Yasalar/04-1969.doc",
-  "alindi": "2026-10-09T14:03:35.284Z",
+  "alindi": "2026-10-09T18:32:16.404Z",
   "http": 200,
   "bayt": 17920,
   "sha256": "e1ed753bc8529d3bcefe003e53af5f35a07f6212c90e9bf156105217703306fd",
-  "durum": "sorun",
-  "hata": "This does not seem to be a Word document: Invalid magic number: a5dc"
+  "durum": "tamam",
+  "bicim": "doc",
+  "cikarma": "libreoffice",
+  "karakter": 5382,
+  "metin_dosyasi": "veri/mahkemeler/yasalar/27_04-1969.doc.txt",
+  "onarim": "yeniden denendi",
+  "denenen_adresler": [
+   "/Yasalar/04-1969.doc → 200"
+  ]
  },
  "28": {
   "pkey": 28,
@@ -491,7 +541,16 @@
   "alindi": "2026-10-09T14:03:58.001Z",
   "http": 404,
   "durum": "sorun",
-  "hata": "HTTP 404"
+  "hata": "HTTP 404",
+  "denenen_adresler": [
+   "/Yasalar/49/2014.doc → 404",
+   "/Yasalar/49/2014.docx → 404",
+   "/Yasalar/49/2014.pdf → 404",
+   "/Yasalar/49/2014.DOC → 404",
+   "/Yasalar/49/2014.DOCX → 404",
+   "/Yasalar/49/2014.PDF → 404",
+   "/Yasalar/49/2014.rtf → 404"
+  ]
  },
  "36": {
   "pkey": 36,
@@ -501,7 +560,10 @@
   "alindi": "2026-10-09T14:04:00.613Z",
   "http": 404,
   "durum": "sorun",
-  "hata": "HTTP 404"
+  "hata": "HTTP 404",
+  "denenen_adresler": [
+   "/Yasalar/ → 404"
+  ]
  },
  "38": {
   "pkey": 38,
@@ -586,7 +648,16 @@
   "alindi": "2026-10-09T14:04:16.357Z",
   "http": 404,
   "durum": "sorun",
-  "hata": "HTTP 404"
+  "hata": "HTTP 404",
+  "denenen_adresler": [
+   "/Yasalar/51-1991.doc → 404",
+   "/Yasalar/51-1991.docx → 404",
+   "/Yasalar/51-1991.pdf → 404",
+   "/Yasalar/51-1991.DOC → 404",
+   "/Yasalar/51-1991.DOCX → 404",
+   "/Yasalar/51-1991.PDF → 404",
+   "/Yasalar/51-1991.rtf → 404"
+  ]
  },
  "44": {
   "pkey": 44,
@@ -671,7 +742,16 @@
   "alindi": "2026-10-09T14:04:33.162Z",
   "http": 404,
   "durum": "sorun",
-  "hata": "HTTP 404"
+  "hata": "HTTP 404",
+  "denenen_adresler": [
+   "/Yasalar/52-1983.doc → 404",
+   "/Yasalar/52-1983.docx → 404",
+   "/Yasalar/52-1983.pdf → 404",
+   "/Yasalar/52-1983.DOC → 404",
+   "/Yasalar/52-1983.DOCX → 404",
+   "/Yasalar/52-1983.PDF → 404",
+   "/Yasalar/52-1983.rtf → 404"
+  ]
  },
  "50": {
   "pkey": 50,
@@ -708,12 +788,19 @@
   "numara": "5/1979",
   "ad": "Askeri Yasak Bölgeler Yasası",
   "url": "https://mevzuat.mahkemeler.net/Yasalar/05-1979.doc",
-  "alindi": "2026-10-09T14:04:41.729Z",
+  "alindi": "2026-10-09T18:33:19.875Z",
   "http": 200,
   "bayt": 13312,
   "sha256": "cc27d3e0535a5d120326f5b09262bfd7f70148c5eb0b70b334bdb2a2b456796e",
-  "durum": "sorun",
-  "hata": "This does not seem to be a Word document: Invalid magic number: a5dc"
+  "durum": "tamam",
+  "bicim": "doc",
+  "cikarma": "libreoffice",
+  "karakter": 2298,
+  "metin_dosyasi": "veri/mahkemeler/yasalar/52_05-1979.doc.txt",
+  "onarim": "yeniden denendi",
+  "denenen_adresler": [
+   "/Yasalar/05-1979.doc → 200"
+  ]
  },
  "53": {
   "pkey": 53,
@@ -779,11 +866,21 @@
   "pkey": 57,
   "numara": "10/2015",
   "ad": "Atatürk Öğretmen Akademisi Kuruluş Yasasında Hayat Pahalılığı Ödeneği Hakkını Düzenleyen 36ncı Maddenin Uygulanmasının Durdurulmasına İlişkin (Geçici Kurallar) Yasası",
-  "url": "https://mevzuat.mahkemeler.net/Yasalar/10-2015.docx",
-  "alindi": "2026-10-09T14:04:56.597Z",
-  "http": 404,
-  "durum": "sorun",
-  "hata": "HTTP 404"
+  "url": "https://mevzuat.mahkemeler.net/Yasalar/10-2015.doc",
+  "alindi": "2026-10-09T18:33:25.773Z",
+  "http": 200,
+  "durum": "tamam",
+  "bayt": 43008,
+  "sha256": "fd2732f25f9082a96ea0323db459a468e0b97eab7df3413b5485f3a220b5e410",
+  "bicim": "doc",
+  "cikarma": "doc",
+  "karakter": 2160,
+  "metin_dosyasi": "veri/mahkemeler/yasalar/57_10-2015.doc.txt",
+  "onarim": "yeniden denendi",
+  "denenen_adresler": [
+   "/Yasalar/10-2015.docx → 404",
+   "/Yasalar/10-2015.doc → 200"
+  ]
  },
  "58": {
   "pkey": 58,
@@ -853,7 +950,16 @@
   "alindi": "2026-10-09T14:05:11.025Z",
   "http": 404,
   "durum": "sorun",
-  "hata": "HTTP 404"
+  "hata": "HTTP 404",
+  "denenen_adresler": [
+   "/Yasalar/47-2007.doc → 404",
+   "/Yasalar/47-2007.docx → 404",
+   "/Yasalar/47-2007.pdf → 404",
+   "/Yasalar/47-2007.DOC → 404",
+   "/Yasalar/47-2007.DOCX → 404",
+   "/Yasalar/47-2007.PDF → 404",
+   "/Yasalar/47-2007.rtf → 404"
+  ]
  },
  "63": {
   "pkey": 63,
@@ -1043,7 +1149,16 @@
   "alindi": "2026-10-09T14:05:52.146Z",
   "http": 404,
   "durum": "sorun",
-  "hata": "HTTP 404"
+  "hata": "HTTP 404",
+  "denenen_adresler": [
+   "/Yasalar/29-1975.doc → 404",
+   "/Yasalar/29-1975.docx → 404",
+   "/Yasalar/29-1975.pdf → 404",
+   "/Yasalar/29-1975.DOC → 404",
+   "/Yasalar/29-1975.DOCX → 404",
+   "/Yasalar/29-1975.PDF → 404",
+   "/Yasalar/29-1975.rtf → 404"
+  ]
  },
  "76": {
   "pkey": 76,
@@ -1158,7 +1273,16 @@
   "alindi": "2026-10-09T14:06:17.710Z",
   "http": 404,
   "durum": "sorun",
-  "hata": "HTTP 404"
+  "hata": "HTTP 404",
+  "denenen_adresler": [
+   "/Yasalar/24-1984.doc → 404",
+   "/Yasalar/24-1984.docx → 404",
+   "/Yasalar/24-1984.pdf → 404",
+   "/Yasalar/24-1984.DOC → 404",
+   "/Yasalar/24-1984.DOCX → 404",
+   "/Yasalar/24-1984.PDF → 404",
+   "/Yasalar/24-1984.rtf → 404"
+  ]
  },
  "84": {
   "pkey": 84,
@@ -1269,11 +1393,21 @@
   "pkey": 92,
   "numara": "4/2016",
   "ad": "Bilgi Teknolojileri ve Haberleşme Kurumu 2016 Mali Yılı Bütçe Yasası",
-  "url": "https://mevzuat.mahkemeler.net/Yasalar/4-2016.docx",
-  "alindi": "2026-10-09T14:06:43.797Z",
-  "http": 404,
-  "durum": "sorun",
-  "hata": "HTTP 404"
+  "url": "https://mevzuat.mahkemeler.net/Yasalar/4-2016.doc",
+  "alindi": "2026-10-09T18:34:29.740Z",
+  "http": 200,
+  "durum": "tamam",
+  "bayt": 78848,
+  "sha256": "063ad91617f2ba2b242261bc07dff87803217427fe6f6c5709366b14e315be49",
+  "bicim": "doc",
+  "cikarma": "doc",
+  "karakter": 8333,
+  "metin_dosyasi": "veri/mahkemeler/yasalar/92_4-2016.doc.txt",
+  "onarim": "yeniden denendi",
+  "denenen_adresler": [
+   "/Yasalar/4-2016.docx → 404",
+   "/Yasalar/4-2016.doc → 200"
+  ]
  },
  "93": {
   "pkey": 93,
@@ -1324,11 +1458,21 @@
   "pkey": 96,
   "numara": "20/2015",
   "ad": "Bitki Sağlığı Yasası",
-  "url": "https://mevzuat.mahkemeler.net/Yasalar/20-2015.doc",
-  "alindi": "2026-10-09T14:07:08.587Z",
-  "http": 404,
-  "durum": "sorun",
-  "hata": "HTTP 404"
+  "url": "https://mevzuat.mahkemeler.net/Yasalar/20-2015.docx",
+  "alindi": "2026-10-09T18:34:35.650Z",
+  "http": 200,
+  "durum": "tamam",
+  "bayt": 75062,
+  "sha256": "2086e1f1af7cc296785bc0a6bd6dad954fb004d2bd32d90a2c221fcfd4c59bfb",
+  "bicim": "docx",
+  "cikarma": "docx",
+  "karakter": 72063,
+  "metin_dosyasi": "veri/mahkemeler/yasalar/96_20-2015.docx.txt",
+  "onarim": "yeniden denendi",
+  "denenen_adresler": [
+   "/Yasalar/20-2015.doc → 404",
+   "/Yasalar/20-2015.docx → 200"
+  ]
  },
  "97": {
   "pkey": 97,
@@ -1458,7 +1602,16 @@
   "alindi": "2026-10-09T14:07:35.439Z",
   "http": 404,
   "durum": "sorun",
-  "hata": "HTTP 404"
+  "hata": "HTTP 404",
+  "denenen_adresler": [
+   "/Yasalar/07-1971.doc → 404",
+   "/Yasalar/07-1971.docx → 404",
+   "/Yasalar/07-1971.pdf → 404",
+   "/Yasalar/07-1971.DOC → 404",
+   "/Yasalar/07-1971.DOCX → 404",
+   "/Yasalar/07-1971.PDF → 404",
+   "/Yasalar/07-1971.rtf → 404"
+  ]
  },
  "106": {
   "pkey": 106,
@@ -1543,7 +1696,16 @@
   "alindi": "2026-10-09T14:07:57.169Z",
   "http": 404,
   "durum": "sorun",
-  "hata": "HTTP 404"
+  "hata": "HTTP 404",
+  "denenen_adresler": [
+   "/Yasalar/10-1995.doc → 404",
+   "/Yasalar/10-1995.docx → 404",
+   "/Yasalar/10-1995.pdf → 404",
+   "/Yasalar/10-1995.DOC → 404",
+   "/Yasalar/10-1995.DOCX → 404",
+   "/Yasalar/10-1995.PDF → 404",
+   "/Yasalar/10-1995.rtf → 404"
+  ]
  },
  "112": {
   "pkey": 112,
@@ -1598,7 +1760,16 @@
   "alindi": "2026-10-09T14:08:09.539Z",
   "http": 404,
   "durum": "sorun",
-  "hata": "HTTP 404"
+  "hata": "HTTP 404",
+  "denenen_adresler": [
+   "/Yasalar/f_281.doc → 404",
+   "/Yasalar/f_281.docx → 404",
+   "/Yasalar/f_281.pdf → 404",
+   "/Yasalar/f_281.DOC → 404",
+   "/Yasalar/f_281.DOCX → 404",
+   "/Yasalar/f_281.PDF → 404",
+   "/Yasalar/f_281.rtf → 404"
+  ]
  },
  "116": {
   "pkey": 116,
@@ -1623,7 +1794,16 @@
   "alindi": "2026-10-09T14:08:14.824Z",
   "http": 404,
   "durum": "sorun",
-  "hata": "HTTP 404"
+  "hata": "HTTP 404",
+  "denenen_adresler": [
+   "/Yasalar/52-1992.doc → 404",
+   "/Yasalar/52-1992.docx → 404",
+   "/Yasalar/52-1992.pdf → 404",
+   "/Yasalar/52-1992.DOC → 404",
+   "/Yasalar/52-1992.DOCX → 404",
+   "/Yasalar/52-1992.PDF → 404",
+   "/Yasalar/52-1992.rtf → 404"
+  ]
  },
  "118": {
   "pkey": 118,
@@ -2035,12 +2215,19 @@
   "numara": "26/1981",
   "ad": "Devlet  Hastahaneleri  (İsimlendirme) Yasası",
   "url": "https://mevzuat.mahkemeler.net/Yasalar/26-1981.doc",
-  "alindi": "2026-10-09T14:09:37.760Z",
+  "alindi": "2026-10-09T18:35:54.592Z",
   "http": 200,
   "bayt": 11264,
   "sha256": "912a00df9e8ffcdfe0d75212de555f2a5dbf2ede326b11d794f42c202bbfacc7",
-  "durum": "sorun",
-  "hata": "This does not seem to be a Word document: Invalid magic number: a5dc"
+  "durum": "tamam",
+  "bicim": "doc",
+  "cikarma": "libreoffice",
+  "karakter": 849,
+  "metin_dosyasi": "veri/mahkemeler/yasalar/146_26-1981.doc.txt",
+  "onarim": "yeniden denendi",
+  "denenen_adresler": [
+   "/Yasalar/26-1981.doc → 200"
+  ]
  },
  "147": {
   "pkey": 147,
@@ -2185,7 +2372,16 @@
   "alindi": "2026-10-09T14:10:06.735Z",
   "http": 404,
   "durum": "sorun",
-  "hata": "HTTP 404"
+  "hata": "HTTP 404",
+  "denenen_adresler": [
+   "/Yasalar/f_67.doc → 404",
+   "/Yasalar/f_67.docx → 404",
+   "/Yasalar/f_67.pdf → 404",
+   "/Yasalar/f_67.DOC → 404",
+   "/Yasalar/f_67.DOCX → 404",
+   "/Yasalar/f_67.PDF → 404",
+   "/Yasalar/f_67.rtf → 404"
+  ]
  },
  "157": {
   "pkey": 157,
@@ -2300,7 +2496,16 @@
   "alindi": "2026-10-09T14:10:31.305Z",
   "http": 404,
   "durum": "sorun",
-  "hata": "HTTP 404"
+  "hata": "HTTP 404",
+  "denenen_adresler": [
+   "/Yasalar/f_237.doc → 404",
+   "/Yasalar/f_237.docx → 404",
+   "/Yasalar/f_237.pdf → 404",
+   "/Yasalar/f_237.DOC → 404",
+   "/Yasalar/f_237.DOCX → 404",
+   "/Yasalar/f_237.PDF → 404",
+   "/Yasalar/f_237.rtf → 404"
+  ]
  },
  "165": {
   "pkey": 165,
@@ -2397,12 +2602,19 @@
   "numara": "32/2000",
   "ad": "Düşün ve Sanat Ürünlerini Derleme Yasası",
   "url": "https://mevzuat.mahkemeler.net/Yasalar/32-2000.doc",
-  "alindi": "2026-10-09T14:10:51.811Z",
+  "alindi": "2026-10-09T18:36:36.254Z",
   "http": 200,
   "bayt": 32768,
   "sha256": "9994ab8d11c02826f4a8eff85ffeda4f5449ac0cf22e32d821622b73ed9bfbe0",
-  "durum": "sorun",
-  "hata": "This does not seem to be a Word document: Invalid magic number: a5dc"
+  "durum": "tamam",
+  "bicim": "doc",
+  "cikarma": "libreoffice",
+  "karakter": 13445,
+  "metin_dosyasi": "veri/mahkemeler/yasalar/171_32-2000.doc.txt",
+  "onarim": "yeniden denendi",
+  "denenen_adresler": [
+   "/Yasalar/32-2000.doc → 200"
+  ]
  },
  "172": {
   "pkey": 172,
@@ -2517,7 +2729,16 @@
   "alindi": "2026-10-09T14:11:13.592Z",
   "http": 404,
   "durum": "sorun",
-  "hata": "HTTP 404"
+  "hata": "HTTP 404",
+  "denenen_adresler": [
+   "/Yasalar/39-1991.doc → 404",
+   "/Yasalar/39-1991.docx → 404",
+   "/Yasalar/39-1991.pdf → 404",
+   "/Yasalar/39-1991.DOC → 404",
+   "/Yasalar/39-1991.DOCX → 404",
+   "/Yasalar/39-1991.PDF → 404",
+   "/Yasalar/39-1991.rtf → 404"
+  ]
  },
  "180": {
   "pkey": 180,
@@ -2572,7 +2793,16 @@
   "alindi": "2026-10-09T14:11:25.379Z",
   "http": 404,
   "durum": "sorun",
-  "hata": "HTTP 404"
+  "hata": "HTTP 404",
+  "denenen_adresler": [
+   "/Yasalar/f_137.doc → 404",
+   "/Yasalar/f_137.docx → 404",
+   "/Yasalar/f_137.pdf → 404",
+   "/Yasalar/f_137.DOC → 404",
+   "/Yasalar/f_137.DOCX → 404",
+   "/Yasalar/f_137.PDF → 404",
+   "/Yasalar/f_137.rtf → 404"
+  ]
  },
  "184": {
   "pkey": 184,
@@ -2624,12 +2854,19 @@
   "numara": "30/2002",
   "ad": "Emeklilik (Geçici Kurallar) Yasası",
   "url": "https://mevzuat.mahkemeler.net/Yasalar/30-2002.doc",
-  "alindi": "2026-10-09T14:11:36.817Z",
+  "alindi": "2026-10-09T18:37:18.064Z",
   "http": 200,
   "bayt": 11776,
   "sha256": "b7e614f8535bd23f63ef3c13e29b03887691d645e5dee866b447514d23eb7259",
-  "durum": "sorun",
-  "hata": "This does not seem to be a Word document: Invalid magic number: a5dc"
+  "durum": "tamam",
+  "bicim": "doc",
+  "cikarma": "libreoffice",
+  "karakter": 1262,
+  "metin_dosyasi": "veri/mahkemeler/yasalar/187_30-2002.doc.txt",
+  "onarim": "yeniden denendi",
+  "denenen_adresler": [
+   "/Yasalar/30-2002.doc → 200"
+  ]
  },
  "188": {
   "pkey": 188,
@@ -2665,11 +2902,21 @@
   "pkey": 190,
   "numara": "17/2015",
   "ad": "Emeklilik Yasasında Hayat Pahalılığı Ödeneği Hakkını Düzenleyen 31inci Maddenin Uygulanmasının Durdurulmasına İlişkin (Geçici Kurallar) Yasası",
-  "url": "https://mevzuat.mahkemeler.net/Yasalar/17-2015.docx",
-  "alindi": "2026-10-09T14:11:45.079Z",
-  "http": 404,
-  "durum": "sorun",
-  "hata": "HTTP 404"
+  "url": "https://mevzuat.mahkemeler.net/Yasalar/17-2015.doc",
+  "alindi": "2026-10-09T18:37:23.994Z",
+  "http": 200,
+  "durum": "tamam",
+  "bayt": 48640,
+  "sha256": "d426656d9717bdb00a1bdcd0e50221afce7ae3fc49984c4035b40e5da61e0c15",
+  "bicim": "doc",
+  "cikarma": "doc",
+  "karakter": 3128,
+  "metin_dosyasi": "veri/mahkemeler/yasalar/190_17-2015.doc.txt",
+  "onarim": "yeniden denendi",
+  "denenen_adresler": [
+   "/Yasalar/17-2015.docx → 404",
+   "/Yasalar/17-2015.doc → 200"
+  ]
  },
  "191": {
   "pkey": 191,
@@ -2856,12 +3103,19 @@
   "numara": "1/2002",
   "ad": "Euro nun Hukuki Araçlara Etkisi Yasası",
   "url": "https://mevzuat.mahkemeler.net/Yasalar/01-2002.doc",
-  "alindi": "2026-10-09T14:12:23.572Z",
+  "alindi": "2026-10-09T18:37:27.573Z",
   "http": 200,
   "bayt": 17408,
   "sha256": "d7d752172bab944351638224ba9094b5d7afa64200cadb8c23fbb9a4d299a6ee",
-  "durum": "sorun",
-  "hata": "This does not seem to be a Word document: Invalid magic number: a5dc"
+  "durum": "tamam",
+  "bicim": "doc",
+  "cikarma": "libreoffice",
+  "karakter": 5675,
+  "metin_dosyasi": "veri/mahkemeler/yasalar/203_01-2002.doc.txt",
+  "onarim": "yeniden denendi",
+  "denenen_adresler": [
+   "/Yasalar/01-2002.doc → 200"
+  ]
  },
  "204": {
   "pkey": 204,
@@ -2976,7 +3230,16 @@
   "alindi": "2026-10-09T14:12:46.110Z",
   "http": 404,
   "durum": "sorun",
-  "hata": "HTTP 404"
+  "hata": "HTTP 404",
+  "denenen_adresler": [
+   "/Yasalar/05-1994.doc → 404",
+   "/Yasalar/05-1994.docx → 404",
+   "/Yasalar/05-1994.pdf → 404",
+   "/Yasalar/05-1994.DOC → 404",
+   "/Yasalar/05-1994.DOCX → 404",
+   "/Yasalar/05-1994.PDF → 404",
+   "/Yasalar/05-1994.rtf → 404"
+  ]
  },
  "212": {
   "pkey": 212,
@@ -3178,12 +3441,19 @@
   "numara": "Fasıl 298",
   "ad": "Gemi Enkazı Yasası",
   "url": "https://mevzuat.mahkemeler.net/Yasalar/f_298.doc",
-  "alindi": "2026-10-09T14:13:27.198Z",
+  "alindi": "2026-10-09T18:37:50.760Z",
   "http": 200,
   "bayt": 65536,
   "sha256": "105d59393bd33dd47d47e1fc29a54a9ba97d4ae016e5bef4e56e7a5d930b2e11",
-  "durum": "sorun",
-  "hata": "This does not seem to be a Word document: Invalid magic number: a5dc"
+  "durum": "tamam",
+  "bicim": "doc",
+  "cikarma": "libreoffice",
+  "karakter": 41674,
+  "metin_dosyasi": "veri/mahkemeler/yasalar/225_f_298.doc.txt",
+  "onarim": "yeniden denendi",
+  "denenen_adresler": [
+   "/Yasalar/f_298.doc → 200"
+  ]
  },
  "226": {
   "pkey": 226,
@@ -3253,7 +3523,16 @@
   "alindi": "2026-10-09T14:13:42.135Z",
   "http": 404,
   "durum": "sorun",
-  "hata": "HTTP 404"
+  "hata": "HTTP 404",
+  "denenen_adresler": [
+   "/Yasalar/f_200.doc → 404",
+   "/Yasalar/f_200.docx → 404",
+   "/Yasalar/f_200.pdf → 404",
+   "/Yasalar/f_200.DOC → 404",
+   "/Yasalar/f_200.DOCX → 404",
+   "/Yasalar/f_200.PDF → 404",
+   "/Yasalar/f_200.rtf → 404"
+  ]
  },
  "231": {
   "pkey": 231,
@@ -3305,12 +3584,19 @@
   "numara": "40/1982",
   "ad": "Genel Tarım Sigortası Yasası",
   "url": "https://mevzuat.mahkemeler.net/Yasalar/40-1982.doc",
-  "alindi": "2026-10-09T14:13:53.482Z",
+  "alindi": "2026-10-09T18:38:13.553Z",
   "http": 200,
   "bayt": 33792,
   "sha256": "5f398d07f93176295427fdcde0bc696eff4fa484d7f86465b0ded017ed8357fc",
-  "durum": "sorun",
-  "hata": "This does not seem to be a Word document: Invalid magic number: a5dc"
+  "durum": "tamam",
+  "bicim": "doc",
+  "cikarma": "libreoffice",
+  "karakter": 13337,
+  "metin_dosyasi": "veri/mahkemeler/yasalar/234_40-1982.doc.txt",
+  "onarim": "yeniden denendi",
+  "denenen_adresler": [
+   "/Yasalar/40-1982.doc → 200"
+  ]
  },
  "235": {
   "pkey": 235,
@@ -3451,11 +3737,21 @@
   "pkey": 244,
   "numara": "13/2015",
   "ad": "Güvenlik Kamu Görevlileri Yasasının Hayat Pahalılığı Ödeneği Hakkını Düzenleyen 28inci Maddesinin Uygulanmasının Durdurulmasına İlişkin (Geçici Kurallar) Yasası",
-  "url": "https://mevzuat.mahkemeler.net/Yasalar/13-2015.docx",
-  "alindi": "2026-10-09T14:14:31.673Z",
-  "http": 404,
-  "durum": "sorun",
-  "hata": "HTTP 404"
+  "url": "https://mevzuat.mahkemeler.net/Yasalar/13-2015.doc",
+  "alindi": "2026-10-09T18:38:19.704Z",
+  "http": 200,
+  "durum": "tamam",
+  "bayt": 56832,
+  "sha256": "b13362bc555541e9e432405226ae70a6bc1723d087391a284b15c00980d5e0f0",
+  "bicim": "doc",
+  "cikarma": "doc",
+  "karakter": 3243,
+  "metin_dosyasi": "veri/mahkemeler/yasalar/244_13-2015.doc.txt",
+  "onarim": "yeniden denendi",
+  "denenen_adresler": [
+   "/Yasalar/13-2015.docx → 404",
+   "/Yasalar/13-2015.doc → 200"
+  ]
  },
  "245": {
   "pkey": 245,
@@ -3642,12 +3938,19 @@
   "numara": "12/1969",
   "ad": "Hastahaneleri Kontrol Yasası",
   "url": "https://mevzuat.mahkemeler.net/Yasalar/12-1969.doc",
-  "alindi": "2026-10-09T14:15:07.883Z",
+  "alindi": "2026-10-09T18:38:23.047Z",
   "http": 200,
   "bayt": 12800,
   "sha256": "062536d5b4f859abccef0c1d0842b7389ab0b77d6ae3153523b15cef2b678c2d",
-  "durum": "sorun",
-  "hata": "This does not seem to be a Word document: Invalid magic number: a5dc"
+  "durum": "tamam",
+  "bicim": "doc",
+  "cikarma": "libreoffice",
+  "karakter": 1764,
+  "metin_dosyasi": "veri/mahkemeler/yasalar/257_12-1969.doc.txt",
+  "onarim": "yeniden denendi",
+  "denenen_adresler": [
+   "/Yasalar/12-1969.doc → 200"
+  ]
  },
  "258": {
   "pkey": 258,
@@ -3657,7 +3960,16 @@
   "alindi": "2026-10-09T14:15:10.461Z",
   "http": 404,
   "durum": "sorun",
-  "hata": "HTTP 404"
+  "hata": "HTTP 404",
+  "denenen_adresler": [
+   "/Yasalar/30-1975.doc → 404",
+   "/Yasalar/30-1975.docx → 404",
+   "/Yasalar/30-1975.pdf → 404",
+   "/Yasalar/30-1975.DOC → 404",
+   "/Yasalar/30-1975.DOCX → 404",
+   "/Yasalar/30-1975.PDF → 404",
+   "/Yasalar/30-1975.rtf → 404"
+  ]
  },
  "259": {
   "pkey": 259,
@@ -3742,7 +4054,16 @@
   "alindi": "2026-10-09T14:15:28.465Z",
   "http": 404,
   "durum": "sorun",
-  "hata": "HTTP 404"
+  "hata": "HTTP 404",
+  "denenen_adresler": [
+   "/Yasalar/f_29.doc → 404",
+   "/Yasalar/f_29.docx → 404",
+   "/Yasalar/f_29.pdf → 404",
+   "/Yasalar/f_29.DOC → 404",
+   "/Yasalar/f_29.DOCX → 404",
+   "/Yasalar/f_29.PDF → 404",
+   "/Yasalar/f_29.rtf → 404"
+  ]
  },
  "265": {
   "pkey": 265,
@@ -3767,7 +4088,16 @@
   "alindi": "2026-10-09T14:15:34.349Z",
   "http": 404,
   "durum": "sorun",
-  "hata": "HTTP 404"
+  "hata": "HTTP 404",
+  "denenen_adresler": [
+   "/Yasalar/f_29_a.doc → 404",
+   "/Yasalar/f_29_a.docx → 404",
+   "/Yasalar/f_29_a.pdf → 404",
+   "/Yasalar/f_29_a.DOC → 404",
+   "/Yasalar/f_29_a.DOCX → 404",
+   "/Yasalar/f_29_a.PDF → 404",
+   "/Yasalar/f_29_a.rtf → 404"
+  ]
  },
  "267": {
   "pkey": 267,
@@ -3777,7 +4107,16 @@
   "alindi": "2026-10-09T14:15:36.925Z",
   "http": 404,
   "durum": "sorun",
-  "hata": "HTTP 404"
+  "hata": "HTTP 404",
+  "denenen_adresler": [
+   "/Yasalar/f_47.doc → 404",
+   "/Yasalar/f_47.docx → 404",
+   "/Yasalar/f_47.pdf → 404",
+   "/Yasalar/f_47.DOC → 404",
+   "/Yasalar/f_47.DOCX → 404",
+   "/Yasalar/f_47.PDF → 404",
+   "/Yasalar/f_47.rtf → 404"
+  ]
  },
  "268": {
   "pkey": 268,
@@ -3829,24 +4168,38 @@
   "numara": "47/1987",
   "ad": "Hazine Ve Muhasebe Dairesi (Kuruluş, Görev Ve Çalışma Esasları) Yasası",
   "url": "https://mevzuat.mahkemeler.net/Yasalar/47-1987.doc",
-  "alindi": "2026-10-09T14:15:47.354Z",
+  "alindi": "2026-10-09T18:39:43.673Z",
   "http": 200,
   "bayt": 49664,
   "sha256": "41bd0cb89c1eecfdbc3be46d25f32020d2bd7697b98d7dead398c0fe597f0c96",
-  "durum": "sorun",
-  "hata": "This does not seem to be a Word document: Invalid magic number: a5dc"
+  "durum": "tamam",
+  "bicim": "doc",
+  "cikarma": "libreoffice",
+  "karakter": 20846,
+  "metin_dosyasi": "veri/mahkemeler/yasalar/271_47-1987.doc.txt",
+  "onarim": "yeniden denendi",
+  "denenen_adresler": [
+   "/Yasalar/47-1987.doc → 200"
+  ]
  },
  "272": {
   "pkey": 272,
   "numara": "63/1994",
   "ad": "Hemşirelik Meslek Yüksek Okulu (Kuruluş, Görev Ve Çalışma Esasları) Yasası",
   "url": "https://mevzuat.mahkemeler.net/Yasalar/63-1994.doc",
-  "alindi": "2026-10-09T14:15:50.084Z",
+  "alindi": "2026-10-09T18:39:47.626Z",
   "http": 200,
   "bayt": 67584,
   "sha256": "578072f1e8a42a689c9cc5ead7d9a0bd22fcc0a940172cedfd6d81725ebcdc97",
-  "durum": "sorun",
-  "hata": "This does not seem to be a Word document: Invalid magic number: a5dc"
+  "durum": "tamam",
+  "bicim": "doc",
+  "cikarma": "libreoffice",
+  "karakter": 30435,
+  "metin_dosyasi": "veri/mahkemeler/yasalar/272_63-1994.doc.txt",
+  "onarim": "yeniden denendi",
+  "denenen_adresler": [
+   "/Yasalar/63-1994.doc → 200"
+  ]
  },
  "273": {
   "pkey": 273,
@@ -3976,7 +4329,16 @@
   "alindi": "2026-10-09T14:16:15.527Z",
   "http": 404,
   "durum": "sorun",
-  "hata": "HTTP 404"
+  "hata": "HTTP 404",
+  "denenen_adresler": [
+   "/Yasalar/44-1987.doc → 404",
+   "/Yasalar/44-1987.docx → 404",
+   "/Yasalar/44-1987.pdf → 404",
+   "/Yasalar/44-1987.DOC → 404",
+   "/Yasalar/44-1987.DOCX → 404",
+   "/Yasalar/44-1987.PDF → 404",
+   "/Yasalar/44-1987.rtf → 404"
+  ]
  },
  "282": {
   "pkey": 282,
@@ -3986,7 +4348,16 @@
   "alindi": "2026-10-09T14:16:18.111Z",
   "http": 404,
   "durum": "sorun",
-  "hata": "HTTP 404"
+  "hata": "HTTP 404",
+  "denenen_adresler": [
+   "/Yasalar/f_175.doc → 404",
+   "/Yasalar/f_175.docx → 404",
+   "/Yasalar/f_175.pdf → 404",
+   "/Yasalar/f_175.DOC → 404",
+   "/Yasalar/f_175.DOCX → 404",
+   "/Yasalar/f_175.PDF → 404",
+   "/Yasalar/f_175.rtf → 404"
+  ]
  },
  "283": {
   "pkey": 283,
@@ -4041,7 +4412,16 @@
   "alindi": "2026-10-09T14:16:30.792Z",
   "http": 404,
   "durum": "sorun",
-  "hata": "HTTP 404"
+  "hata": "HTTP 404",
+  "denenen_adresler": [
+   "/Yasalar/12-1971.doc → 404",
+   "/Yasalar/12-1971.docx → 404",
+   "/Yasalar/12-1971.pdf → 404",
+   "/Yasalar/12-1971.DOC → 404",
+   "/Yasalar/12-1971.DOCX → 404",
+   "/Yasalar/12-1971.PDF → 404",
+   "/Yasalar/12-1971.rtf → 404"
+  ]
  },
  "287": {
   "pkey": 287,
@@ -4063,12 +4443,19 @@
   "numara": "58/1987",
   "ad": "İlaç Ve Eczacılık Dairesi  (Kuruluş, Görev Ve Çalışma Esasları)  Yasası",
   "url": "https://mevzuat.mahkemeler.net/Yasalar/58-1987.doc",
-  "alindi": "2026-10-09T14:16:36.106Z",
+  "alindi": "2026-10-09T18:40:47.378Z",
   "http": 200,
   "bayt": 92160,
   "sha256": "701b59adbb62316476016d585a33a8bc451da6d0ed169978173562d83d7e8607",
-  "durum": "sorun",
-  "hata": "This does not seem to be a Word document: Invalid magic number: a5dc"
+  "durum": "tamam",
+  "bicim": "doc",
+  "cikarma": "libreoffice",
+  "karakter": 41498,
+  "metin_dosyasi": "veri/mahkemeler/yasalar/288_58-1987.doc.txt",
+  "onarim": "yeniden denendi",
+  "denenen_adresler": [
+   "/Yasalar/58-1987.doc → 200"
+  ]
  },
  "289": {
   "pkey": 289,
@@ -4090,12 +4477,19 @@
   "numara": "55/1989",
   "ad": "İmar Yasası",
   "url": "https://mevzuat.mahkemeler.net/Yasalar/55-1989.doc",
-  "alindi": "2026-10-09T14:16:41.976Z",
+  "alindi": "2026-10-09T18:40:51.432Z",
   "http": 200,
   "bayt": 112128,
   "sha256": "976a17148c5c99c5449852f114846ee40be5a2344a7cabd053e4c739b22d3a7c",
-  "durum": "sorun",
-  "hata": "This does not seem to be a Word document: Invalid magic number: a5dc"
+  "durum": "tamam",
+  "bicim": "doc",
+  "cikarma": "libreoffice",
+  "karakter": 64516,
+  "metin_dosyasi": "veri/mahkemeler/yasalar/290_55-1989.doc.txt",
+  "onarim": "yeniden denendi",
+  "denenen_adresler": [
+   "/Yasalar/55-1989.doc → 200"
+  ]
  },
  "291": {
   "pkey": 291,
@@ -4135,7 +4529,16 @@
   "alindi": "2026-10-09T14:16:50.369Z",
   "http": 404,
   "durum": "sorun",
-  "hata": "HTTP 404"
+  "hata": "HTTP 404",
+  "denenen_adresler": [
+   "/Yasalar/f_106.doc → 404",
+   "/Yasalar/f_106.docx → 404",
+   "/Yasalar/f_106.pdf → 404",
+   "/Yasalar/f_106.DOC → 404",
+   "/Yasalar/f_106.DOCX → 404",
+   "/Yasalar/f_106.PDF → 404",
+   "/Yasalar/f_106.rtf → 404"
+  ]
  },
  "294": {
   "pkey": 294,
@@ -4322,12 +4725,19 @@
   "numara": "66/1999",
   "ad": "İşletmelerin Sermaye Ve Ekonomik Varlıklarının Yeniden Değerlendirilmesi Yasası",
   "url": "https://mevzuat.mahkemeler.net/Yasalar/66-1999.doc",
-  "alindi": "2026-10-09T14:17:29.613Z",
+  "alindi": "2026-10-09T18:41:14.249Z",
   "http": 200,
   "bayt": 36864,
   "sha256": "7911296d6fc16941cc0e2e5d6416c72d8e2d75b3a20d732707a4fa90247dc1eb",
-  "durum": "sorun",
-  "hata": "This does not seem to be a Word document: Invalid magic number: a5dc"
+  "durum": "tamam",
+  "bicim": "doc",
+  "cikarma": "libreoffice",
+  "karakter": 19143,
+  "metin_dosyasi": "veri/mahkemeler/yasalar/306_66-1999.doc.txt",
+  "onarim": "yeniden denendi",
+  "denenen_adresler": [
+   "/Yasalar/66-1999.doc → 200"
+  ]
  },
  "307": {
   "pkey": 307,
@@ -4379,36 +4789,57 @@
   "numara": "4/1969",
   "ad": "K.G.T.Y. Hileli Mal Yürütmelerini Önleme (Geçici Hükümler) Yasası",
   "url": "https://mevzuat.mahkemeler.net/Yasalar/04-1969.doc",
-  "alindi": "2026-10-09T14:17:41.452Z",
+  "alindi": "2026-10-09T18:41:16.793Z",
   "http": 200,
   "bayt": 17920,
   "sha256": "e1ed753bc8529d3bcefe003e53af5f35a07f6212c90e9bf156105217703306fd",
-  "durum": "sorun",
-  "hata": "This does not seem to be a Word document: Invalid magic number: a5dc"
+  "durum": "tamam",
+  "bicim": "doc",
+  "cikarma": "libreoffice",
+  "karakter": 5382,
+  "metin_dosyasi": "veri/mahkemeler/yasalar/310_04-1969.doc.txt",
+  "onarim": "yeniden denendi",
+  "denenen_adresler": [
+   "/Yasalar/04-1969.doc → 200"
+  ]
  },
  "311": {
   "pkey": 311,
   "numara": "12/2002",
   "ad": "Kadın Çalışmaları Dairesi (Kuruluş, Görev Ve Çalışma Esasları)  Yasası",
   "url": "https://mevzuat.mahkemeler.net/Yasalar/12-2002.doc",
-  "alindi": "2026-10-09T14:17:43.475Z",
+  "alindi": "2026-10-09T18:41:20.641Z",
   "http": 200,
   "bayt": 60416,
   "sha256": "6f4dab5891c0112d37c75ad0564965d02eb991ee0c323999b23eb455f3d4e9bf",
-  "durum": "sorun",
-  "hata": "This does not seem to be a Word document: Invalid magic number: a5dc"
+  "durum": "tamam",
+  "bicim": "doc",
+  "cikarma": "libreoffice",
+  "karakter": 27265,
+  "metin_dosyasi": "veri/mahkemeler/yasalar/311_12-2002.doc.txt",
+  "onarim": "yeniden denendi",
+  "denenen_adresler": [
+   "/Yasalar/12-2002.doc → 200"
+  ]
  },
  "312": {
   "pkey": 312,
   "numara": "5/1996",
   "ad": "Kadınlara Karşı Her Türlü Ayırımcılığın Önlenmesi Uluslararası Sözleşmesinin Onaylanmasının Uygun Bulunmasına İlişkin Yasa",
   "url": "https://mevzuat.mahkemeler.net/Yasalar/05-1996.doc",
-  "alindi": "2026-10-09T14:17:46.314Z",
+  "alindi": "2026-10-09T18:41:24.461Z",
   "http": 200,
   "bayt": 49664,
   "sha256": "9d416be883a3de7ce8bd20c80e5f75e048139c5a19752e4f61277b505cf5d822",
-  "durum": "sorun",
-  "hata": "This does not seem to be a Word document: Invalid magic number: a5dc"
+  "durum": "tamam",
+  "bicim": "doc",
+  "cikarma": "libreoffice",
+  "karakter": 27156,
+  "metin_dosyasi": "veri/mahkemeler/yasalar/312_05-1996.doc.txt",
+  "onarim": "yeniden denendi",
+  "denenen_adresler": [
+   "/Yasalar/05-1996.doc → 200"
+  ]
  },
  "313": {
   "pkey": 313,
@@ -4523,7 +4954,16 @@
   "alindi": "2026-10-09T14:18:10.317Z",
   "http": 404,
   "durum": "sorun",
-  "hata": "HTTP 404"
+  "hata": "HTTP 404",
+  "denenen_adresler": [
+   "/Yasalar/11-2015.docx → 404",
+   "/Yasalar/11-2015.doc → 404",
+   "/Yasalar/11-2015.pdf → 404",
+   "/Yasalar/11-2015.DOC → 404",
+   "/Yasalar/11-2015.DOCX → 404",
+   "/Yasalar/11-2015.PDF → 404",
+   "/Yasalar/11-2015.rtf → 404"
+  ]
  },
  "321": {
   "pkey": 321,
@@ -4589,11 +5029,21 @@
   "pkey": 326,
   "numara": "9/2015",
   "ad": "Kamu Görevlileri Yasasının Hayat Pahalılığı Ödeneği Hakkını Düzenleyen 25inci Maddesinin Uygulanmasının Durdurulmasına İlişkin (Geçici Kurallar) Yasası",
-  "url": "https://mevzuat.mahkemeler.net/Yasalar/9-2015.docx",
-  "alindi": "2026-10-09T14:18:35.482Z",
-  "http": 404,
-  "durum": "sorun",
-  "hata": "HTTP 404"
+  "url": "https://mevzuat.mahkemeler.net/Yasalar/9-2015.doc",
+  "alindi": "2026-10-09T18:41:49.258Z",
+  "http": 200,
+  "durum": "tamam",
+  "bayt": 62976,
+  "sha256": "8aca1469fba9fd3e824aac29a1cabf80976e220419ebc7edd621b63977c495b6",
+  "bicim": "doc",
+  "cikarma": "doc",
+  "karakter": 4653,
+  "metin_dosyasi": "veri/mahkemeler/yasalar/326_9-2015.doc.txt",
+  "onarim": "yeniden denendi",
+  "denenen_adresler": [
+   "/Yasalar/9-2015.docx → 404",
+   "/Yasalar/9-2015.doc → 200"
+  ]
  },
  "327": {
   "pkey": 327,
@@ -4603,7 +5053,16 @@
   "alindi": "2026-10-09T14:18:38.060Z",
   "http": 404,
   "durum": "sorun",
-  "hata": "HTTP 404"
+  "hata": "HTTP 404",
+  "denenen_adresler": [
+   "/Yasalar/14-1984.doc → 404",
+   "/Yasalar/14-1984.docx → 404",
+   "/Yasalar/14-1984.pdf → 404",
+   "/Yasalar/14-1984.DOC → 404",
+   "/Yasalar/14-1984.DOCX → 404",
+   "/Yasalar/14-1984.PDF → 404",
+   "/Yasalar/14-1984.rtf → 404"
+  ]
  },
  "328": {
   "pkey": 328,
@@ -4655,12 +5114,19 @@
   "numara": "Fasıl 257",
   "ad": "Kamu Sağlığı (Defin Ve Mezardan Çıkarma) Yasası",
   "url": "https://mevzuat.mahkemeler.net/Yasalar/f_257.doc",
-  "alindi": "2026-10-09T14:18:50.628Z",
+  "alindi": "2026-10-09T18:42:11.817Z",
   "http": 200,
   "bayt": 12288,
   "sha256": "8f173272eb4de490ef1d4f822141bafdd6f9dc18ddd5301f5e52633061ea4892",
-  "durum": "sorun",
-  "hata": "This does not seem to be a Word document: Invalid magic number: a5dc"
+  "durum": "tamam",
+  "bicim": "doc",
+  "cikarma": "libreoffice",
+  "karakter": 1821,
+  "metin_dosyasi": "veri/mahkemeler/yasalar/331_f_257.doc.txt",
+  "onarim": "yeniden denendi",
+  "denenen_adresler": [
+   "/Yasalar/f_257.doc → 200"
+  ]
  },
  "332": {
   "pkey": 332,
@@ -4726,11 +5192,21 @@
   "pkey": 336,
   "numara": "14/2015",
   "ad": "Kamu Sağlık Çalışanları Yasasında Hayat Pahalılığı Ödeneği Hakkını Düzenleyen 23üncü Maddenin Uygulanmasının Durdurulmasına İlişkin (Geçici Kurallar) Yasası",
-  "url": "https://mevzuat.mahkemeler.net/Yasalar/14-2015.docx",
-  "alindi": "2026-10-09T14:19:05.357Z",
-  "http": 404,
-  "durum": "sorun",
-  "hata": "HTTP 404"
+  "url": "https://mevzuat.mahkemeler.net/Yasalar/14-2015.doc",
+  "alindi": "2026-10-09T18:42:17.735Z",
+  "http": 200,
+  "durum": "tamam",
+  "bayt": 42496,
+  "sha256": "37d033e60050e2459cd5182616dc413876fd1354754fc8d82f7486583cc9145c",
+  "bicim": "doc",
+  "cikarma": "doc",
+  "karakter": 2124,
+  "metin_dosyasi": "veri/mahkemeler/yasalar/336_14-2015.doc.txt",
+  "onarim": "yeniden denendi",
+  "denenen_adresler": [
+   "/Yasalar/14-2015.docx → 404",
+   "/Yasalar/14-2015.doc → 200"
+  ]
  },
  "337": {
   "pkey": 337,
@@ -4800,7 +5276,16 @@
   "alindi": "2026-10-09T14:19:20.632Z",
   "http": 404,
   "durum": "sorun",
-  "hata": "HTTP 404"
+  "hata": "HTTP 404",
+  "denenen_adresler": [
+   "/Yasalar/3-1978.doc → 404",
+   "/Yasalar/3-1978.docx → 404",
+   "/Yasalar/3-1978.pdf → 404",
+   "/Yasalar/3-1978.DOC → 404",
+   "/Yasalar/3-1978.DOCX → 404",
+   "/Yasalar/3-1978.PDF → 404",
+   "/Yasalar/3-1978.rtf → 404"
+  ]
  },
  "342": {
   "pkey": 342,
@@ -4810,19 +5295,35 @@
   "alindi": "2026-10-09T14:19:23.194Z",
   "http": 404,
   "durum": "sorun",
-  "hata": "HTTP 404"
+  "hata": "HTTP 404",
+  "denenen_adresler": [
+   "/Yasalar/03-1987.doc → 404",
+   "/Yasalar/03-1987.docx → 404",
+   "/Yasalar/03-1987.pdf → 404",
+   "/Yasalar/03-1987.DOC → 404",
+   "/Yasalar/03-1987.DOCX → 404",
+   "/Yasalar/03-1987.PDF → 404",
+   "/Yasalar/03-1987.rtf → 404"
+  ]
  },
  "343": {
   "pkey": 343,
   "numara": "2/1987",
   "ad": "Kanalizasyon  Sularının Tarımsal Amaçlarla Kullanılmasını Yasaklayan Yasa",
   "url": "https://mevzuat.mahkemeler.net/Yasalar/02-1987.doc",
-  "alindi": "2026-10-09T14:19:25.775Z",
+  "alindi": "2026-10-09T18:42:59.675Z",
   "http": 200,
   "bayt": 15360,
   "sha256": "a8c1dab1190914d614873cdf81beb5be699feb6c4896a6451f39e3d1208a5738",
-  "durum": "sorun",
-  "hata": "This does not seem to be a Word document: Invalid magic number: a5dc"
+  "durum": "tamam",
+  "bicim": "doc",
+  "cikarma": "libreoffice",
+  "karakter": 3395,
+  "metin_dosyasi": "veri/mahkemeler/yasalar/343_02-1987.doc.txt",
+  "onarim": "yeniden denendi",
+  "denenen_adresler": [
+   "/Yasalar/02-1987.doc → 200"
+  ]
  },
  "344": {
   "pkey": 344,
@@ -4859,12 +5360,19 @@
   "numara": "2/1977",
   "ad": "Kanun Ve Kural İsimleri Yasası",
   "url": "https://mevzuat.mahkemeler.net/Yasalar/02-1977.doc",
-  "alindi": "2026-10-09T14:19:33.236Z",
+  "alindi": "2026-10-09T18:43:03.051Z",
   "http": 200,
   "bayt": 12800,
   "sha256": "c94fcc464da4aefb569ceb8a4666a7b5bb170acacecb9907652a1bdcac6eef08",
-  "durum": "sorun",
-  "hata": "This does not seem to be a Word document: Invalid magic number: a5dc"
+  "durum": "tamam",
+  "bicim": "doc",
+  "cikarma": "libreoffice",
+  "karakter": 2069,
+  "metin_dosyasi": "veri/mahkemeler/yasalar/346_02-1977.doc.txt",
+  "onarim": "yeniden denendi",
+  "denenen_adresler": [
+   "/Yasalar/02-1977.doc → 200"
+  ]
  },
  "347": {
   "pkey": 347,
@@ -4889,7 +5397,16 @@
   "alindi": "2026-10-09T14:19:38.669Z",
   "http": 404,
   "durum": "sorun",
-  "hata": "HTTP 404"
+  "hata": "HTTP 404",
+  "denenen_adresler": [
+   "/Yasalar/f_260.doc → 404",
+   "/Yasalar/f_260.docx → 404",
+   "/Yasalar/f_260.pdf → 404",
+   "/Yasalar/f_260.DOC → 404",
+   "/Yasalar/f_260.DOCX → 404",
+   "/Yasalar/f_260.PDF → 404",
+   "/Yasalar/f_260.rtf → 404"
+  ]
  },
  "349": {
   "pkey": 349,
@@ -4941,12 +5458,19 @@
   "numara": "31/1996",
   "ad": "Katma Değer Vergisi İadesi Yasası",
   "url": "https://mevzuat.mahkemeler.net/Yasalar/31-1996.doc",
-  "alindi": "2026-10-09T14:19:50.532Z",
+  "alindi": "2026-10-09T18:43:25.937Z",
   "http": 200,
   "bayt": 26112,
   "sha256": "ac09442670d53e6e6c065ff5bcb123c617c61219224b88ed7cf58235d13f1a49",
-  "durum": "sorun",
-  "hata": "This does not seem to be a Word document: Invalid magic number: a5dc"
+  "durum": "tamam",
+  "bicim": "doc",
+  "cikarma": "libreoffice",
+  "karakter": 9861,
+  "metin_dosyasi": "veri/mahkemeler/yasalar/352_31-1996.doc.txt",
+  "onarim": "yeniden denendi",
+  "denenen_adresler": [
+   "/Yasalar/31-1996.doc → 200"
+  ]
  },
  "353": {
   "pkey": 353,
@@ -5061,7 +5585,16 @@
   "alindi": "2026-10-09T14:20:13.439Z",
   "http": 404,
   "durum": "sorun",
-  "hata": "HTTP 404"
+  "hata": "HTTP 404",
+  "denenen_adresler": [
+   "/Yasalar/f_174.doc → 404",
+   "/Yasalar/f_174.docx → 404",
+   "/Yasalar/f_174.pdf → 404",
+   "/Yasalar/f_174.DOC → 404",
+   "/Yasalar/f_174.DOCX → 404",
+   "/Yasalar/f_174.PDF → 404",
+   "/Yasalar/f_174.rtf → 404"
+  ]
  },
  "361": {
   "pkey": 361,
@@ -5071,7 +5604,16 @@
   "alindi": "2026-10-09T14:20:16.010Z",
   "http": 404,
   "durum": "sorun",
-  "hata": "HTTP 404"
+  "hata": "HTTP 404",
+  "denenen_adresler": [
+   "/Yasalar/f_198.doc → 404",
+   "/Yasalar/f_198.docx → 404",
+   "/Yasalar/f_198.pdf → 404",
+   "/Yasalar/f_198.DOC → 404",
+   "/Yasalar/f_198.DOCX → 404",
+   "/Yasalar/f_198.PDF → 404",
+   "/Yasalar/f_198.rtf → 404"
+  ]
  },
  "362": {
   "pkey": 362,
@@ -5081,7 +5623,16 @@
   "alindi": "2026-10-09T14:20:18.582Z",
   "http": 404,
   "durum": "sorun",
-  "hata": "HTTP 404"
+  "hata": "HTTP 404",
+  "denenen_adresler": [
+   "/Yasalar/40-1983.doc → 404",
+   "/Yasalar/40-1983.docx → 404",
+   "/Yasalar/40-1983.pdf → 404",
+   "/Yasalar/40-1983.DOC → 404",
+   "/Yasalar/40-1983.DOCX → 404",
+   "/Yasalar/40-1983.PDF → 404",
+   "/Yasalar/40-1983.rtf → 404"
+  ]
  },
  "363": {
   "pkey": 363,
@@ -5106,17 +5657,36 @@
   "alindi": "2026-10-09T14:20:23.822Z",
   "http": 404,
   "durum": "sorun",
-  "hata": "HTTP 404"
+  "hata": "HTTP 404",
+  "denenen_adresler": [
+   "/Yasalar/34-1996.doc → 404",
+   "/Yasalar/34-1996.docx → 404",
+   "/Yasalar/34-1996.pdf → 404",
+   "/Yasalar/34-1996.DOC → 404",
+   "/Yasalar/34-1996.DOCX → 404",
+   "/Yasalar/34-1996.PDF → 404",
+   "/Yasalar/34-1996.rtf → 404"
+  ]
  },
  "365": {
   "pkey": 365,
   "numara": "2/2004",
   "ad": "Kıbrıs Sorununun Çözümüne İlişkin Halkoylaması (Özel ve Geçici Kurallar) Yasası",
-  "url": "https://mevzuat.mahkemeler.net/Yasalar/2-2004",
-  "alindi": "2026-10-09T14:20:26.399Z",
-  "http": 404,
-  "durum": "sorun",
-  "hata": "HTTP 404"
+  "url": "https://mevzuat.mahkemeler.net/Yasalar/2-2004.doc",
+  "alindi": "2026-10-09T18:44:47.315Z",
+  "http": 200,
+  "durum": "tamam",
+  "bayt": 65536,
+  "sha256": "c79db34fc086b5118beb565621d1c99f065ce27abf5fefebbca0738bda08faa1",
+  "bicim": "doc",
+  "cikarma": "doc",
+  "karakter": 5866,
+  "metin_dosyasi": "veri/mahkemeler/yasalar/365_2-2004.doc.txt",
+  "onarim": "yeniden denendi",
+  "denenen_adresler": [
+   "/Yasalar/2-2004 → 404",
+   "/Yasalar/2-2004.doc → 200"
+  ]
  },
  "366": {
   "pkey": 366,
@@ -5156,7 +5726,16 @@
   "alindi": "2026-10-09T14:20:34.450Z",
   "http": 404,
   "durum": "sorun",
-  "hata": "HTTP 404"
+  "hata": "HTTP 404",
+  "denenen_adresler": [
+   "/Yasalar/12-1976.doc → 404",
+   "/Yasalar/12-1976.docx → 404",
+   "/Yasalar/12-1976.pdf → 404",
+   "/Yasalar/12-1976.DOC → 404",
+   "/Yasalar/12-1976.DOCX → 404",
+   "/Yasalar/12-1976.PDF → 404",
+   "/Yasalar/12-1976.rtf → 404"
+  ]
  },
  "369": {
   "pkey": 369,
@@ -5208,12 +5787,19 @@
   "numara": "10/1990",
   "ad": "Kıbrıs Türk Devlet Tiyatroları (Kuruluş, Görev ve Çalışma Esasları) Yasası",
   "url": "https://mevzuat.mahkemeler.net/Yasalar/10-1990.doc",
-  "alindi": "2026-10-09T14:20:45.581Z",
+  "alindi": "2026-10-09T18:45:10.607Z",
   "http": 200,
   "bayt": 73216,
   "sha256": "4125ab32f2e36ca6e6026beb4566e34336610068d17fb8fc0ede381b56d7f2e2",
-  "durum": "sorun",
-  "hata": "This does not seem to be a Word document: Invalid magic number: a5dc"
+  "durum": "tamam",
+  "bicim": "doc",
+  "cikarma": "libreoffice",
+  "karakter": 32129,
+  "metin_dosyasi": "veri/mahkemeler/yasalar/372_10-1990.doc.txt",
+  "onarim": "yeniden denendi",
+  "denenen_adresler": [
+   "/Yasalar/10-1990.doc → 200"
+  ]
  },
  "373": {
   "pkey": 373,
@@ -5358,7 +5944,16 @@
   "alindi": "2026-10-09T14:21:16.735Z",
   "http": 404,
   "durum": "sorun",
-  "hata": "HTTP 404"
+  "hata": "HTTP 404",
+  "denenen_adresler": [
+   "/Yasalar/68-1993.doc → 404",
+   "/Yasalar/68-1993.docx → 404",
+   "/Yasalar/68-1993.pdf → 404",
+   "/Yasalar/68-1993.DOC → 404",
+   "/Yasalar/68-1993.DOCX → 404",
+   "/Yasalar/68-1993.PDF → 404",
+   "/Yasalar/68-1993.rtf → 404"
+  ]
  },
  "383": {
   "pkey": 383,
@@ -5785,24 +6380,38 @@
   "numara": "14/1970",
   "ad": "Kıbrısı İzinsiz Terkedenler Yasası",
   "url": "https://mevzuat.mahkemeler.net/Yasalar/14-1970.doc",
-  "alindi": "2026-10-09T14:22:42.595Z",
+  "alindi": "2026-10-09T18:45:33.756Z",
   "http": 200,
   "bayt": 18432,
   "sha256": "ae69993c10efe7f2e7a82e05c880065f7530c248bc45446f790e9bbfcfb135aa",
-  "durum": "sorun",
-  "hata": "This does not seem to be a Word document: Invalid magic number: a5dc"
+  "durum": "tamam",
+  "bicim": "doc",
+  "cikarma": "libreoffice",
+  "karakter": 5092,
+  "metin_dosyasi": "veri/mahkemeler/yasalar/411_14-1970.doc.txt",
+  "onarim": "yeniden denendi",
+  "denenen_adresler": [
+   "/Yasalar/14-1970.doc → 200"
+  ]
  },
  "412": {
   "pkey": 412,
   "numara": "35/1970",
   "ad": "Kıbrıs'lı Türkleri'in Türkiye'de Çalışma İmkanlarını Düzenleyen Yasa",
   "url": "https://mevzuat.mahkemeler.net/Yasalar/35-1970.doc",
-  "alindi": "2026-10-09T14:22:45.312Z",
+  "alindi": "2026-10-09T18:45:37.356Z",
   "http": 200,
   "bayt": 19456,
   "sha256": "51125130f164a0cdefb804aabaf39f569c73a75419104241d12e223690998479",
-  "durum": "sorun",
-  "hata": "This does not seem to be a Word document: Invalid magic number: a5dc"
+  "durum": "tamam",
+  "bicim": "doc",
+  "cikarma": "libreoffice",
+  "karakter": 6847,
+  "metin_dosyasi": "veri/mahkemeler/yasalar/412_35-1970.doc.txt",
+  "onarim": "yeniden denendi",
+  "denenen_adresler": [
+   "/Yasalar/35-1970.doc → 200"
+  ]
  },
  "413": {
   "pkey": 413,
@@ -5842,7 +6451,16 @@
   "alindi": "2026-10-09T14:22:53.949Z",
   "http": 404,
   "durum": "sorun",
-  "hata": "HTTP 404"
+  "hata": "HTTP 404",
+  "denenen_adresler": [
+   "/Yasalar/f_125.doc → 404",
+   "/Yasalar/f_125.docx → 404",
+   "/Yasalar/f_125.pdf → 404",
+   "/Yasalar/f_125.DOC → 404",
+   "/Yasalar/f_125.DOCX → 404",
+   "/Yasalar/f_125.PDF → 404",
+   "/Yasalar/f_125.rtf → 404"
+  ]
  },
  "416": {
   "pkey": 416,
@@ -5893,11 +6511,21 @@
   "pkey": 419,
   "numara": "41/2020",
   "ad": "Kişisel Verileri Koruma Kurulu 2020 Mali Yılı Bütçe Yasası",
-  "url": "https://mevzuat.mahkemeler.net/Yasalar/41-2020.docx",
-  "alindi": "2026-10-09T14:23:05.237Z",
-  "http": 404,
-  "durum": "sorun",
-  "hata": "HTTP 404"
+  "url": "https://mevzuat.mahkemeler.net/Yasalar/41-2020.doc",
+  "alindi": "2026-10-09T18:46:02.744Z",
+  "http": 200,
+  "durum": "tamam",
+  "bayt": 83968,
+  "sha256": "4fd23549596d5ae83cb4e4b2c2c8244d705e535ae10e4d7d3a876d21d5d7b903",
+  "bicim": "doc",
+  "cikarma": "doc",
+  "karakter": 7700,
+  "metin_dosyasi": "veri/mahkemeler/yasalar/419_41-2020.doc.txt",
+  "onarim": "yeniden denendi",
+  "denenen_adresler": [
+   "/Yasalar/41-2020.docx → 404",
+   "/Yasalar/41-2020.doc → 200"
+  ]
  },
  "420": {
   "pkey": 420,
@@ -6024,12 +6652,19 @@
   "numara": "3/1992",
   "ad": "KKTC ile TC Arasında 24 Ekim 1990 Tarihinde İmzalanan Güvenlik, Asayiş, Narkotik ve Psikotrop Maddeler Kaçakçılığı, Terörizmle Mücadele ile Mesleki Eğitim ve Sosyal İlişkiler Alanında İşbirliği Protokolü (Onay) Yasası",
   "url": "https://mevzuat.mahkemeler.net/Yasalar/03-1992.doc",
-  "alindi": "2026-10-09T14:23:33.883Z",
+  "alindi": "2026-10-09T18:46:06.306Z",
   "http": 200,
   "bayt": 26624,
   "sha256": "e4d6f0567677134ff29ff0553334bbfe7319b2281cf71b0691eb6fbc4d1472b6",
-  "durum": "sorun",
-  "hata": "This does not seem to be a Word document: Invalid magic number: a5dc"
+  "durum": "tamam",
+  "bicim": "doc",
+  "cikarma": "libreoffice",
+  "karakter": 10400,
+  "metin_dosyasi": "veri/mahkemeler/yasalar/428_03-1992.doc.txt",
+  "onarim": "yeniden denendi",
+  "denenen_adresler": [
+   "/Yasalar/03-1992.doc → 200"
+  ]
  },
  "429": {
   "pkey": 429,
@@ -6384,7 +7019,16 @@
   "alindi": "2026-10-09T14:24:43.774Z",
   "http": 404,
   "durum": "sorun",
-  "hata": "HTTP 404"
+  "hata": "HTTP 404",
+  "denenen_adresler": [
+   "/Yasalar/f_112.doc → 404",
+   "/Yasalar/f_112.docx → 404",
+   "/Yasalar/f_112.pdf → 404",
+   "/Yasalar/f_112.DOC → 404",
+   "/Yasalar/f_112.DOCX → 404",
+   "/Yasalar/f_112.PDF → 404",
+   "/Yasalar/f_112.rtf → 404"
+  ]
  },
  "453": {
   "pkey": 453,
@@ -6451,12 +7095,19 @@
   "numara": "23/1990",
   "ad": "Kuzey Kıbrıs Türk Cumhuriyeti Adına Yabancı Devletlerle Veya Uluslararası Kuruluşlarla Yapılacak Andlaşmaların Halkoylamasına Sunulması (Geçici Kurallar) Yasası",
   "url": "https://mevzuat.mahkemeler.net/Yasalar/23-1990.doc",
-  "alindi": "2026-10-09T14:24:57.250Z",
+  "alindi": "2026-10-09T18:46:29.136Z",
   "http": 200,
   "bayt": 14336,
   "sha256": "d063a85cc3eb05874331e698e3882b95b1fdb0fb0c96d8085240efa56a96abfd",
-  "durum": "sorun",
-  "hata": "This does not seem to be a Word document: Invalid magic number: a5dc"
+  "durum": "tamam",
+  "bicim": "doc",
+  "cikarma": "libreoffice",
+  "karakter": 2576,
+  "metin_dosyasi": "veri/mahkemeler/yasalar/457_23-1990.doc.txt",
+  "onarim": "yeniden denendi",
+  "denenen_adresler": [
+   "/Yasalar/23-1990.doc → 200"
+  ]
  },
  "458": {
   "pkey": 458,
@@ -6706,7 +7357,16 @@
   "alindi": "2026-10-09T14:25:50.242Z",
   "http": 404,
   "durum": "sorun",
-  "hata": "HTTP 404"
+  "hata": "HTTP 404",
+  "denenen_adresler": [
+   "/Yasalar/3-2024.docx → 404",
+   "/Yasalar/3-2024.doc → 404",
+   "/Yasalar/3-2024.pdf → 404",
+   "/Yasalar/3-2024.DOC → 404",
+   "/Yasalar/3-2024.DOCX → 404",
+   "/Yasalar/3-2024.PDF → 404",
+   "/Yasalar/3-2024.rtf → 404"
+  ]
  },
  "475": {
   "pkey": 475,
@@ -6968,12 +7628,19 @@
   "numara": "49/1988",
   "ad": "Kuzey Kıbrıs Türk Cumhuriyeti İle Türkiye Cumhuriyeti Arasında 22 Aralık, 1987 Tarihinde İmzalanan Gelir Üzerinden Alınan  Vergilerde Çifte Vergilendirmeyi Ve Vergi Kaybını Önleme Andlaşmasının Uygun Bulunmasına İlişkin Yasa",
   "url": "https://mevzuat.mahkemeler.net/Yasalar/49-1988.doc",
-  "alindi": "2026-10-09T14:26:48.390Z",
+  "alindi": "2026-10-09T18:46:52.348Z",
   "http": 200,
   "bayt": 80384,
   "sha256": "afbca9082976ebd2165f416f48a43e87be1c2cad053b73e58e20497fde973a08",
-  "durum": "sorun",
-  "hata": "This does not seem to be a Word document: Invalid magic number: a5dc"
+  "durum": "tamam",
+  "bicim": "doc",
+  "cikarma": "libreoffice",
+  "karakter": 51022,
+  "metin_dosyasi": "veri/mahkemeler/yasalar/492_49-1988.doc.txt",
+  "onarim": "yeniden denendi",
+  "denenen_adresler": [
+   "/Yasalar/49-1988.doc → 200"
+  ]
  },
  "493": {
   "pkey": 493,
@@ -6983,7 +7650,16 @@
   "alindi": "2026-10-09T14:26:51.241Z",
   "http": 404,
   "durum": "sorun",
-  "hata": "HTTP 404"
+  "hata": "HTTP 404",
+  "denenen_adresler": [
+   "/Yasalar/24-1987.doc → 404",
+   "/Yasalar/24-1987.docx → 404",
+   "/Yasalar/24-1987.pdf → 404",
+   "/Yasalar/24-1987.DOC → 404",
+   "/Yasalar/24-1987.DOCX → 404",
+   "/Yasalar/24-1987.PDF → 404",
+   "/Yasalar/24-1987.rtf → 404"
+  ]
  },
  "494": {
   "pkey": 494,
@@ -7020,12 +7696,19 @@
   "numara": "41/1996",
   "ad": "Kuzey Kıbrıs Türk Cumhuriyeti İle Türkiye Cumhuriyeti Arasında Denizde Arama Ve Kurtarma Yapma Koınusunda Anlaşma (Onay) Yasası",
   "url": "https://mevzuat.mahkemeler.net/Yasalar/41-1996.doc",
-  "alindi": "2026-10-09T14:26:59.560Z",
+  "alindi": "2026-10-09T18:47:15.112Z",
   "http": 200,
   "bayt": 19968,
   "sha256": "5a15699462ae974f31ccd98c345f7e7c7d2fd4b350fb08227de76ebbdd487254",
-  "durum": "sorun",
-  "hata": "This does not seem to be a Word document: Invalid magic number: a5dc"
+  "durum": "tamam",
+  "bicim": "doc",
+  "cikarma": "libreoffice",
+  "karakter": 5356,
+  "metin_dosyasi": "veri/mahkemeler/yasalar/496_41-1996.doc.txt",
+  "onarim": "yeniden denendi",
+  "denenen_adresler": [
+   "/Yasalar/41-1996.doc → 200"
+  ]
  },
  "497": {
   "pkey": 497,
@@ -7047,12 +7730,19 @@
   "numara": "34/2000",
   "ad": "Kuzey Kıbrıs Türk Cumhuriyeti İle Türkiye Cumhuriyeti Arasında İki Ülke  Vatandaşlarına  İlave Kolaylık Tanınmasına İlişkin Anlaşam (Onay) Yasası",
   "url": "https://mevzuat.mahkemeler.net/Yasalar/34-2000.doc",
-  "alindi": "2026-10-09T14:27:05.040Z",
+  "alindi": "2026-10-09T18:47:18.731Z",
   "http": 200,
   "bayt": 19968,
   "sha256": "d0f165be43e44f9fc73aa430e3bab9e6dcb85905f0a8534833129b44d2708019",
-  "durum": "sorun",
-  "hata": "This does not seem to be a Word document: Invalid magic number: a5dc"
+  "durum": "tamam",
+  "bicim": "doc",
+  "cikarma": "libreoffice",
+  "karakter": 7044,
+  "metin_dosyasi": "veri/mahkemeler/yasalar/498_34-2000.doc.txt",
+  "onarim": "yeniden denendi",
+  "denenen_adresler": [
+   "/Yasalar/34-2000.doc → 200"
+  ]
  },
  "499": {
   "pkey": 499,
@@ -7103,47 +7793,78 @@
   "pkey": 502,
   "numara": "43/2015",
   "ad": "Kuzey Kıbrıs Türk Cumhuriyeti ile Türkiye Cumhuriyeti Arasında Sivil Havacılık İşbirliği (Değişiklik) Protokolü (ONAY) Yasası",
-  "url": "https://mevzuat.mahkemeler.net/Yasalar/43-2015.doc",
-  "alindi": "2026-10-09T14:27:16.905Z",
-  "http": 404,
-  "durum": "sorun",
-  "hata": "HTTP 404"
+  "url": "https://mevzuat.mahkemeler.net/Yasalar/43-2015.docx",
+  "alindi": "2026-10-09T18:47:24.446Z",
+  "http": 200,
+  "durum": "tamam",
+  "bayt": 14857,
+  "sha256": "c459c47915cb24014bbd62b902460ab46b4a9531d50d76a46b143bbf2e5fcadc",
+  "bicim": "docx",
+  "cikarma": "docx",
+  "karakter": 4445,
+  "metin_dosyasi": "veri/mahkemeler/yasalar/502_43-2015.docx.txt",
+  "onarim": "yeniden denendi",
+  "denenen_adresler": [
+   "/Yasalar/43-2015.doc → 404",
+   "/Yasalar/43-2015.docx → 200"
+  ]
  },
  "503": {
   "pkey": 503,
   "numara": "31/1998",
   "ad": "Kuzey Kıbrıs Türk Cumhuriyeti İle Türkiye Cumhuriyeti Arasında Ticaret Ve Ekonomik İşbirliği Anlaşması (Onay) Yasası",
   "url": "https://mevzuat.mahkemeler.net/Yasalar/31-1998.doc",
-  "alindi": "2026-10-09T14:27:19.515Z",
+  "alindi": "2026-10-09T18:47:28.007Z",
   "http": 200,
   "bayt": 18944,
   "sha256": "73a005eb8a2d7e0f1f8a787ef0f9a0e1d3c69e648d557eae3420e4804e7a10e9",
-  "durum": "sorun",
-  "hata": "This does not seem to be a Word document: Invalid magic number: a5dc"
+  "durum": "tamam",
+  "bicim": "doc",
+  "cikarma": "libreoffice",
+  "karakter": 7343,
+  "metin_dosyasi": "veri/mahkemeler/yasalar/503_31-1998.doc.txt",
+  "onarim": "yeniden denendi",
+  "denenen_adresler": [
+   "/Yasalar/31-1998.doc → 200"
+  ]
  },
  "504": {
   "pkey": 504,
   "numara": "29/1998",
   "ad": "Kuzey Kıbrıs Türk Cumhuriyeti İle Türkiye Cumhuriyeti Arasında Yatırımlarda Devlet Yardımları Anlaşması (Onay) Yasası",
   "url": "https://mevzuat.mahkemeler.net/Yasalar/29-1998.doc",
-  "alindi": "2026-10-09T14:27:22.236Z",
+  "alindi": "2026-10-09T18:47:31.381Z",
   "http": 200,
   "bayt": 16896,
   "sha256": "839ae04e2221a286c64346957ae1598bb9b4274f26284b5c82d97c9d2437d98d",
-  "durum": "sorun",
-  "hata": "This does not seem to be a Word document: Invalid magic number: a5dc"
+  "durum": "tamam",
+  "bicim": "doc",
+  "cikarma": "libreoffice",
+  "karakter": 5019,
+  "metin_dosyasi": "veri/mahkemeler/yasalar/504_29-1998.doc.txt",
+  "onarim": "yeniden denendi",
+  "denenen_adresler": [
+   "/Yasalar/29-1998.doc → 200"
+  ]
  },
  "505": {
   "pkey": 505,
   "numara": "22/1988",
   "ad": "Kuzey Kıbrıs Türk Cumhuriyeti ile Türkiye Cumhuriyeti Hukukî, Ticarî ve Cezaî Konularda Adlî Yardımlaşma, Tanıma ve Tenfiz, Suçluların Geri Verilmesi ve Nakli Sözleşmesi (Onay) Yasası",
   "url": "https://mevzuat.mahkemeler.net/Yasalar/22-1988.doc",
-  "alindi": "2026-10-09T14:27:24.816Z",
+  "alindi": "2026-10-09T18:47:35.341Z",
   "http": 200,
   "bayt": 98816,
   "sha256": "14a6484e2562ca2b04bd91cc33e05c14aaf708c3d3a90a82f9a18e1ed0d89b3d",
-  "durum": "sorun",
-  "hata": "This does not seem to be a Word document: Invalid magic number: a5dc"
+  "durum": "tamam",
+  "bicim": "doc",
+  "cikarma": "libreoffice",
+  "karakter": 58452,
+  "metin_dosyasi": "veri/mahkemeler/yasalar/505_22-1988.doc.txt",
+  "onarim": "yeniden denendi",
+  "denenen_adresler": [
+   "/Yasalar/22-1988.doc → 200"
+  ]
  },
  "506": {
   "pkey": 506,
@@ -7153,17 +7874,30 @@
   "alindi": "2026-10-09T14:27:27.678Z",
   "http": 404,
   "durum": "sorun",
-  "hata": "HTTP 404"
+  "hata": "HTTP 404",
+  "denenen_adresler": [
+   "/Yasalar/ → 404"
+  ]
  },
  "508": {
   "pkey": 508,
   "numara": "63/2014",
   "ad": "Kuzey Kıbrıs Türk Cumhuriyeti ile Türkiye Hükümeti Arasında 24 Mart 2008 Tarihinde İmzalanan Sağlık Alanında İşbirliğine İlişkin Anlaşmanın Bazı Maddelerinde Değişiklik Yapılmasına Dair Protokolün Uygun Bulunmasına İlişkin (Onay) Yasası",
-  "url": "https://mevzuat.mahkemeler.net/Yasalar/63-2014.docx",
-  "alindi": "2026-10-09T14:27:30.261Z",
-  "http": 404,
-  "durum": "sorun",
-  "hata": "HTTP 404"
+  "url": "https://mevzuat.mahkemeler.net/Yasalar/63-2014.doc",
+  "alindi": "2026-10-09T18:47:43.649Z",
+  "http": 200,
+  "durum": "tamam",
+  "bayt": 73216,
+  "sha256": "f853e3288bbacbdc579a8957c23f4b8b32fc2662114940a32bb9af92877c0e48",
+  "bicim": "doc",
+  "cikarma": "doc",
+  "karakter": 12435,
+  "metin_dosyasi": "veri/mahkemeler/yasalar/508_63-2014.doc.txt",
+  "onarim": "yeniden denendi",
+  "denenen_adresler": [
+   "/Yasalar/63-2014.docx → 404",
+   "/Yasalar/63-2014.doc → 200"
+  ]
  },
  "509": {
   "pkey": 509,
@@ -7199,11 +7933,22 @@
   "pkey": 511,
   "numara": "43/2016",
   "ad": "Kuzey Kıbrıs Türk Cumhuriyeti Maliye Bakanlığı ile Türkiye Cumhuriyeti Gümrük ve Ticaret Bakanlığı Arasında Ortak Gümrük Komitesi Kurulmasına İlişkin Mutabakat Zaptı (Onay) Yasası",
-  "url": "https://mevzuat.mahkemeler.net/Yasalar/43-2016.doc",
-  "alindi": "2026-10-09T14:27:38.733Z",
-  "http": 404,
-  "durum": "sorun",
-  "hata": "HTTP 404"
+  "url": "https://mevzuat.mahkemeler.net/Yasalar/43-2016.pdf",
+  "alindi": "2026-10-09T18:47:52.439Z",
+  "http": 200,
+  "durum": "tamam",
+  "bayt": 1012170,
+  "sha256": "65d3c3793218d414cc0e651e224953ba5e79e2fdc6af0c235ad9c2d682617771",
+  "bicim": "pdf",
+  "cikarma": "pdf",
+  "karakter": 2734,
+  "metin_dosyasi": "veri/mahkemeler/yasalar/511_43-2016.pdf.txt",
+  "onarim": "yeniden denendi",
+  "denenen_adresler": [
+   "/Yasalar/43-2016.doc → 404",
+   "/Yasalar/43-2016.docx → 404",
+   "/Yasalar/43-2016.pdf → 200"
+  ]
  },
  "512": {
   "pkey": 512,
@@ -7378,7 +8123,16 @@
   "alindi": "2026-10-09T14:28:14.222Z",
   "http": 404,
   "durum": "sorun",
-  "hata": "HTTP 404"
+  "hata": "HTTP 404",
+  "denenen_adresler": [
+   "/Yasalar/01-1984.doc → 404",
+   "/Yasalar/01-1984.docx → 404",
+   "/Yasalar/01-1984.pdf → 404",
+   "/Yasalar/01-1984.DOC → 404",
+   "/Yasalar/01-1984.DOCX → 404",
+   "/Yasalar/01-1984.PDF → 404",
+   "/Yasalar/01-1984.rtf → 404"
+  ]
  },
  "524": {
   "pkey": 524,
@@ -7415,12 +8169,19 @@
   "numara": "30/1998",
   "ad": "Kuzey KıbrısTürk Cumhuriyeti İle Türkiye Cumhuriyeti Arasında Sağlık Alanında İşbirliği Anlaşması (Onay) Yasası",
   "url": "https://mevzuat.mahkemeler.net/Yasalar/30-1998.doc",
-  "alindi": "2026-10-09T14:28:23.298Z",
+  "alindi": "2026-10-09T18:48:14.862Z",
   "http": 200,
   "bayt": 20480,
   "sha256": "d71130dfab031b5b8125722e4e16adb3231fffca0250271ff0b726fa09cf4dd7",
-  "durum": "sorun",
-  "hata": "This does not seem to be a Word document: Invalid magic number: a5dc"
+  "durum": "tamam",
+  "bicim": "doc",
+  "cikarma": "libreoffice",
+  "karakter": 8595,
+  "metin_dosyasi": "veri/mahkemeler/yasalar/526_30-1998.doc.txt",
+  "onarim": "yeniden denendi",
+  "denenen_adresler": [
+   "/Yasalar/30-1998.doc → 200"
+  ]
  },
  "527": {
   "pkey": 527,
@@ -7475,7 +8236,17 @@
   "alindi": "2026-10-09T14:28:34.927Z",
   "http": 404,
   "durum": "sorun",
-  "hata": "HTTP 404"
+  "hata": "HTTP 404",
+  "denenen_adresler": [
+   "/Yasalar/f|277.doc → 404",
+   "/Yasalar/f%7C277.doc → 404",
+   "/Yasalar/f%7C277.docx → 404",
+   "/Yasalar/f%7C277.pdf → 404",
+   "/Yasalar/f%7C277.DOC → 404",
+   "/Yasalar/f%7C277.DOCX → 404",
+   "/Yasalar/f%7C277.PDF → 404",
+   "/Yasalar/f%7C277.rtf → 404"
+  ]
  },
  "531": {
   "pkey": 531,
@@ -7497,12 +8268,19 @@
   "numara": "19/1986",
   "ad": "Kültür Dairesi(Kuruluş, Görev Ve Çalışma Esasları) Yasası",
   "url": "https://mevzuat.mahkemeler.net/Yasalar/19-1986.doc",
-  "alindi": "2026-10-09T14:28:39.535Z",
+  "alindi": "2026-10-09T18:48:39.889Z",
   "http": 200,
   "bayt": 114688,
   "sha256": "611b8fd8549f798f43bc2e72b99eb83baf219c4f85e19be04e7bec9e6a306b1a",
-  "durum": "sorun",
-  "hata": "This does not seem to be a Word document: Invalid magic number: a5dc"
+  "durum": "tamam",
+  "bicim": "doc",
+  "cikarma": "libreoffice",
+  "karakter": 55748,
+  "metin_dosyasi": "veri/mahkemeler/yasalar/532_19-1986.doc.txt",
+  "onarim": "yeniden denendi",
+  "denenen_adresler": [
+   "/Yasalar/19-1986.doc → 200"
+  ]
  },
  "533": {
   "pkey": 533,
@@ -7524,12 +8302,19 @@
   "numara": "43/1998",
   "ad": "Lefkoşa Belediyesine Ait Taşınmaz Malların Lefkoşa Türk Belediyesi Adına Kaydı (Geçici Kurallar) Yasası",
   "url": "https://mevzuat.mahkemeler.net/Yasalar/43-1998.doc",
-  "alindi": "2026-10-09T14:28:45.579Z",
+  "alindi": "2026-10-09T18:48:43.279Z",
   "http": 200,
   "bayt": 12288,
   "sha256": "870edc9a27a4950efc63fb4a2ed98fa5c62c8a3b5e98c522e7ba5ffa9b161f0f",
-  "durum": "sorun",
-  "hata": "This does not seem to be a Word document: Invalid magic number: a5dc"
+  "durum": "tamam",
+  "bicim": "doc",
+  "cikarma": "libreoffice",
+  "karakter": 2180,
+  "metin_dosyasi": "veri/mahkemeler/yasalar/534_43-1998.doc.txt",
+  "onarim": "yeniden denendi",
+  "denenen_adresler": [
+   "/Yasalar/43-1998.doc → 200"
+  ]
  },
  "535": {
   "pkey": 535,
@@ -7626,12 +8411,19 @@
   "numara": "9/1987",
   "ad": "Limanlar Dairesi (Kuruluş, Görev Ve Çalışma  Esasları) Yasası",
   "url": "https://mevzuat.mahkemeler.net/Yasalar/09-1987.doc",
-  "alindi": "2026-10-09T14:29:05.626Z",
+  "alindi": "2026-10-09T18:48:47.528Z",
   "http": 200,
   "bayt": 137216,
   "sha256": "422a1420a2b3e15414bd59b7cb40d3d425936f895879f6dce72ffd959fb6a767",
-  "durum": "sorun",
-  "hata": "This does not seem to be a Word document: Invalid magic number: a5dc"
+  "durum": "tamam",
+  "bicim": "doc",
+  "cikarma": "libreoffice",
+  "karakter": 74677,
+  "metin_dosyasi": "veri/mahkemeler/yasalar/541_09-1987.doc.txt",
+  "onarim": "yeniden denendi",
+  "denenen_adresler": [
+   "/Yasalar/09-1987.doc → 200"
+  ]
  },
  "542": {
   "pkey": 542,
@@ -7731,7 +8523,16 @@
   "alindi": "2026-10-09T14:29:25.763Z",
   "http": 404,
   "durum": "sorun",
-  "hata": "HTTP 404"
+  "hata": "HTTP 404",
+  "denenen_adresler": [
+   "/Yasalar/29-1974.doc → 404",
+   "/Yasalar/29-1974.docx → 404",
+   "/Yasalar/29-1974.pdf → 404",
+   "/Yasalar/29-1974.DOC → 404",
+   "/Yasalar/29-1974.DOCX → 404",
+   "/Yasalar/29-1974.PDF → 404",
+   "/Yasalar/29-1974.rtf → 404"
+  ]
  },
  "549": {
   "pkey": 549,
@@ -7741,7 +8542,16 @@
   "alindi": "2026-10-09T14:29:28.358Z",
   "http": 404,
   "durum": "sorun",
-  "hata": "HTTP 404"
+  "hata": "HTTP 404",
+  "denenen_adresler": [
+   "/Yasalar/19-1974.doc → 404",
+   "/Yasalar/19-1974.docx → 404",
+   "/Yasalar/19-1974.pdf → 404",
+   "/Yasalar/19-1974.DOC → 404",
+   "/Yasalar/19-1974.DOCX → 404",
+   "/Yasalar/19-1974.PDF → 404",
+   "/Yasalar/19-1974.rtf → 404"
+  ]
  },
  "550": {
   "pkey": 550,
@@ -7751,7 +8561,16 @@
   "alindi": "2026-10-09T14:29:30.979Z",
   "http": 404,
   "durum": "sorun",
-  "hata": "HTTP 404"
+  "hata": "HTTP 404",
+  "denenen_adresler": [
+   "/Yasalar/17-1972.doc → 404",
+   "/Yasalar/17-1972.docx → 404",
+   "/Yasalar/17-1972.pdf → 404",
+   "/Yasalar/17-1972.DOC → 404",
+   "/Yasalar/17-1972.DOCX → 404",
+   "/Yasalar/17-1972.PDF → 404",
+   "/Yasalar/17-1972.rtf → 404"
+  ]
  },
  "552": {
   "pkey": 552,
@@ -7863,12 +8682,19 @@
   "numara": "53/1982",
   "ad": "Maliye,Teftiş Ve İnceleme Kurulu Kuruluş Görev Ve Çalışma Esasları Yasası",
   "url": "https://mevzuat.mahkemeler.net/Yasalar/53-1982.doc",
-  "alindi": "2026-10-09T14:29:53.994Z",
+  "alindi": "2026-10-09T18:49:49.171Z",
   "http": 200,
   "bayt": 43520,
   "sha256": "33b90b344baf45aa48753630df48b0c239f038c36ec590aa3b930c14eac07995",
-  "durum": "sorun",
-  "hata": "This does not seem to be a Word document: Invalid magic number: a5dc"
+  "durum": "tamam",
+  "bicim": "doc",
+  "cikarma": "libreoffice",
+  "karakter": 18767,
+  "metin_dosyasi": "veri/mahkemeler/yasalar/559_53-1982.doc.txt",
+  "onarim": "yeniden denendi",
+  "denenen_adresler": [
+   "/Yasalar/53-1982.doc → 200"
+  ]
  },
  "560": {
   "pkey": 560,
@@ -7905,12 +8731,19 @@
   "numara": "40/1996",
   "ad": "Menkul Kıymetler Borsası Yasası",
   "url": "https://mevzuat.mahkemeler.net/Yasalar/40-1996.doc",
-  "alindi": "2026-10-09T14:30:02.330Z",
+  "alindi": "2026-10-09T18:49:53.256Z",
   "http": 200,
   "bayt": 39936,
   "sha256": "db1e26ec2797e0a7c50af219eb692a495af994a3124831170c3a1cc09752d2c6",
-  "durum": "sorun",
-  "hata": "This does not seem to be a Word document: Invalid magic number: a5dc"
+  "durum": "tamam",
+  "bicim": "doc",
+  "cikarma": "libreoffice",
+  "karakter": 17208,
+  "metin_dosyasi": "veri/mahkemeler/yasalar/562_40-1996.doc.txt",
+  "onarim": "yeniden denendi",
+  "denenen_adresler": [
+   "/Yasalar/40-1996.doc → 200"
+  ]
  },
  "563": {
   "pkey": 563,
@@ -8007,12 +8840,19 @@
   "numara": "42/1992",
   "ad": "Meteoroloji Dairesi (Kuruluş, Görev Ve Çalışma Esasları) Yasası",
   "url": "https://mevzuat.mahkemeler.net/Yasalar/42-1992.doc",
-  "alindi": "2026-10-09T14:30:23.162Z",
+  "alindi": "2026-10-09T18:49:57.907Z",
   "http": 200,
   "bayt": 107008,
   "sha256": "1d141cafc8484749580137ff233a33f81bde269b41c3ab198cb858ee4bbf069c",
-  "durum": "sorun",
-  "hata": "This does not seem to be a Word document: Invalid magic number: a5dc"
+  "durum": "tamam",
+  "bicim": "doc",
+  "cikarma": "libreoffice",
+  "karakter": 64774,
+  "metin_dosyasi": "veri/mahkemeler/yasalar/569_42-1992.doc.txt",
+  "onarim": "yeniden denendi",
+  "denenen_adresler": [
+   "/Yasalar/42-1992.doc → 200"
+  ]
  },
  "570": {
   "pkey": 570,
@@ -8064,12 +8904,19 @@
   "numara": "15/1990",
   "ad": "Milli Arşiv Ve Araştırma Dairesi (Kuruluş, Görev Ve Çalışma Esasları) Yasası",
   "url": "https://mevzuat.mahkemeler.net/Yasalar/15-1990.doc",
-  "alindi": "2026-10-09T14:30:34.776Z",
+  "alindi": "2026-10-09T18:50:02.144Z",
   "http": 200,
   "bayt": 44544,
   "sha256": "3577c20129dd836db0aa5088a1a28d6f838454b9732f573bfc1fdf2c580c6d76",
-  "durum": "sorun",
-  "hata": "This does not seem to be a Word document: Invalid magic number: a5dc"
+  "durum": "tamam",
+  "bicim": "doc",
+  "cikarma": "libreoffice",
+  "karakter": 18407,
+  "metin_dosyasi": "veri/mahkemeler/yasalar/573_15-1990.doc.txt",
+  "onarim": "yeniden denendi",
+  "denenen_adresler": [
+   "/Yasalar/15-1990.doc → 200"
+  ]
  },
  "574": {
   "pkey": 574,
@@ -8139,7 +8986,16 @@
   "alindi": "2026-10-09T14:30:48.362Z",
   "http": 404,
   "durum": "sorun",
-  "hata": "HTTP 404"
+  "hata": "HTTP 404",
+  "denenen_adresler": [
+   "/Yasalar/24-1975.doc → 404",
+   "/Yasalar/24-1975.docx → 404",
+   "/Yasalar/24-1975.pdf → 404",
+   "/Yasalar/24-1975.DOC → 404",
+   "/Yasalar/24-1975.DOCX → 404",
+   "/Yasalar/24-1975.PDF → 404",
+   "/Yasalar/24-1975.rtf → 404"
+  ]
  },
  "579": {
   "pkey": 579,
@@ -8179,7 +9035,16 @@
   "alindi": "2026-10-09T14:30:57.383Z",
   "http": 404,
   "durum": "sorun",
-  "hata": "HTTP 404"
+  "hata": "HTTP 404",
+  "denenen_adresler": [
+   "/Yasalar/06-1975.doc → 404",
+   "/Yasalar/06-1975.docx → 404",
+   "/Yasalar/06-1975.pdf → 404",
+   "/Yasalar/06-1975.DOC → 404",
+   "/Yasalar/06-1975.DOCX → 404",
+   "/Yasalar/06-1975.PDF → 404",
+   "/Yasalar/06-1975.rtf → 404"
+  ]
  },
  "582": {
   "pkey": 582,
@@ -8189,7 +9054,16 @@
   "alindi": "2026-10-09T14:30:59.958Z",
   "http": 404,
   "durum": "sorun",
-  "hata": "HTTP 404"
+  "hata": "HTTP 404",
+  "denenen_adresler": [
+   "/Yasalar/21-1973.doc → 404",
+   "/Yasalar/21-1973.docx → 404",
+   "/Yasalar/21-1973.pdf → 404",
+   "/Yasalar/21-1973.DOC → 404",
+   "/Yasalar/21-1973.DOCX → 404",
+   "/Yasalar/21-1973.PDF → 404",
+   "/Yasalar/21-1973.rtf → 404"
+  ]
  },
  "583": {
   "pkey": 583,
@@ -8259,7 +9133,16 @@
   "alindi": "2026-10-09T14:31:14.225Z",
   "http": 404,
   "durum": "sorun",
-  "hata": "HTTP 404"
+  "hata": "HTTP 404",
+  "denenen_adresler": [
+   "/Yasalar/33-1988.doc → 404",
+   "/Yasalar/33-1988.docx → 404",
+   "/Yasalar/33-1988.pdf → 404",
+   "/Yasalar/33-1988.DOC → 404",
+   "/Yasalar/33-1988.DOCX → 404",
+   "/Yasalar/33-1988.PDF → 404",
+   "/Yasalar/33-1988.rtf → 404"
+  ]
  },
  "588": {
   "pkey": 588,
@@ -8311,24 +9194,38 @@
   "numara": "6/1988",
   "ad": "Nüfus  Kayıt   Dairesi (Kuruluş, Görev Ve Çalışma Esasları) Yasası",
   "url": "https://mevzuat.mahkemeler.net/Yasalar/06-1988.doc",
-  "alindi": "2026-10-09T14:31:25.643Z",
+  "alindi": "2026-10-09T18:51:24.430Z",
   "http": 200,
   "bayt": 36864,
   "sha256": "bf85e592b366745d7f0399e3cb39dae0c2d117952aee8b6bb7cad73edbe98190",
-  "durum": "sorun",
-  "hata": "This does not seem to be a Word document: Invalid magic number: a5dc"
+  "durum": "tamam",
+  "bicim": "doc",
+  "cikarma": "libreoffice",
+  "karakter": 14208,
+  "metin_dosyasi": "veri/mahkemeler/yasalar/591_06-1988.doc.txt",
+  "onarim": "yeniden denendi",
+  "denenen_adresler": [
+   "/Yasalar/06-1988.doc → 200"
+  ]
  },
  "592": {
   "pkey": 592,
   "numara": "16/1970",
   "ad": "Nüfus  Sayımı  Bilgi Toplama Tahkikatı Ve İstatistik  Araştırma Yapılmasını Öngören Yasa",
   "url": "https://mevzuat.mahkemeler.net/Yasalar/16-1970.doc",
-  "alindi": "2026-10-09T14:31:28.360Z",
+  "alindi": "2026-10-09T18:51:27.993Z",
   "http": 200,
   "bayt": 35328,
   "sha256": "e77dc02c2250cce45ab0aab8a508dbf118c5115e2b669e677ee3b90441734937",
-  "durum": "sorun",
-  "hata": "This does not seem to be a Word document: Invalid magic number: a5dc"
+  "durum": "tamam",
+  "bicim": "doc",
+  "cikarma": "libreoffice",
+  "karakter": 15616,
+  "metin_dosyasi": "veri/mahkemeler/yasalar/592_16-1970.doc.txt",
+  "onarim": "yeniden denendi",
+  "denenen_adresler": [
+   "/Yasalar/16-1970.doc → 200"
+  ]
  },
  "593": {
   "pkey": 593,
@@ -8368,7 +9265,16 @@
   "alindi": "2026-10-09T14:31:36.144Z",
   "http": 404,
   "durum": "sorun",
-  "hata": "HTTP 404"
+  "hata": "HTTP 404",
+  "denenen_adresler": [
+   "/Yasalar/04-1994.doc → 404",
+   "/Yasalar/04-1994.docx → 404",
+   "/Yasalar/04-1994.pdf → 404",
+   "/Yasalar/04-1994.DOC → 404",
+   "/Yasalar/04-1994.DOCX → 404",
+   "/Yasalar/04-1994.PDF → 404",
+   "/Yasalar/04-1994.rtf → 404"
+  ]
  },
  "596": {
   "pkey": 596,
@@ -8495,12 +9401,19 @@
   "numara": "6/2002",
   "ad": "Orta Doğu Teknik Üniversitesinin Kuzey Kıbrıs Türk Cumhuriyetinde bir Kampüs Kurmasına İlişkin Çerçeve Protokolü (Onay) Yasası",
   "url": "https://mevzuat.mahkemeler.net/Yasalar/06-2002.doc",
-  "alindi": "2026-10-09T14:32:00.834Z",
+  "alindi": "2026-10-09T18:51:50.549Z",
   "http": 200,
   "bayt": 13312,
   "sha256": "14d2f88dc4f9e03dbb4fe4811e8447729189fc3205e3799fcc7953d28817258e",
-  "durum": "sorun",
-  "hata": "This does not seem to be a Word document: Invalid magic number: a5dc"
+  "durum": "tamam",
+  "bicim": "doc",
+  "cikarma": "libreoffice",
+  "karakter": 2802,
+  "metin_dosyasi": "veri/mahkemeler/yasalar/604_06-2002.doc.txt",
+  "onarim": "yeniden denendi",
+  "denenen_adresler": [
+   "/Yasalar/06-2002.doc → 200"
+  ]
  },
  "605": {
   "pkey": 605,
@@ -8600,7 +9513,16 @@
   "alindi": "2026-10-09T14:32:20.882Z",
   "http": 404,
   "durum": "sorun",
-  "hata": "HTTP 404"
+  "hata": "HTTP 404",
+  "denenen_adresler": [
+   "/Yasalar/12/2015.docx → 404",
+   "/Yasalar/12/2015.doc → 404",
+   "/Yasalar/12/2015.pdf → 404",
+   "/Yasalar/12/2015.DOC → 404",
+   "/Yasalar/12/2015.DOCX → 404",
+   "/Yasalar/12/2015.PDF → 404",
+   "/Yasalar/12/2015.rtf → 404"
+  ]
  },
  "612": {
   "pkey": 612,
@@ -8640,7 +9562,16 @@
   "alindi": "2026-10-09T14:32:29.320Z",
   "http": 404,
   "durum": "sorun",
-  "hata": "HTTP 404"
+  "hata": "HTTP 404",
+  "denenen_adresler": [
+   "/Yasalar/03-1977.doc → 404",
+   "/Yasalar/03-1977.docx → 404",
+   "/Yasalar/03-1977.pdf → 404",
+   "/Yasalar/03-1977.DOC → 404",
+   "/Yasalar/03-1977.DOCX → 404",
+   "/Yasalar/03-1977.PDF → 404",
+   "/Yasalar/03-1977.rtf → 404"
+  ]
  },
  "615": {
   "pkey": 615,
@@ -8650,7 +9581,16 @@
   "alindi": "2026-10-09T14:32:31.903Z",
   "http": 404,
   "durum": "sorun",
-  "hata": "HTTP 404"
+  "hata": "HTTP 404",
+  "denenen_adresler": [
+   "/Yasalar/01-1978.doc → 404",
+   "/Yasalar/01-1978.docx → 404",
+   "/Yasalar/01-1978.pdf → 404",
+   "/Yasalar/01-1978.DOC → 404",
+   "/Yasalar/01-1978.DOCX → 404",
+   "/Yasalar/01-1978.PDF → 404",
+   "/Yasalar/01-1978.rtf → 404"
+  ]
  },
  "616": {
   "pkey": 616,
@@ -8690,7 +9630,10 @@
   "alindi": "2026-10-09T14:32:40.869Z",
   "http": 404,
   "durum": "sorun",
-  "hata": "HTTP 404"
+  "hata": "HTTP 404",
+  "denenen_adresler": [
+   "/Yasalar/ → 404"
+  ]
  },
  "620": {
   "pkey": 620,
@@ -8787,24 +9730,38 @@
   "numara": "46",
   "ad": "Pamuk  Yasası",
   "url": "https://mevzuat.mahkemeler.net/Yasalar/f_46.doc",
-  "alindi": "2026-10-09T14:33:00.464Z",
+  "alindi": "2026-10-09T18:52:54.254Z",
   "http": 200,
   "bayt": 39936,
   "sha256": "4e681f852004a0a76a40186b5c0d310193ac2ca6f9b08deae3f31833e944d1cd",
-  "durum": "sorun",
-  "hata": "This does not seem to be a Word document: Invalid magic number: a5dc"
+  "durum": "tamam",
+  "bicim": "doc",
+  "cikarma": "libreoffice",
+  "karakter": 17370,
+  "metin_dosyasi": "veri/mahkemeler/yasalar/626_f_46.doc.txt",
+  "onarim": "yeniden denendi",
+  "denenen_adresler": [
+   "/Yasalar/f_46.doc → 200"
+  ]
  },
  "627": {
   "pkey": 627,
   "numara": "Fasıl 46",
   "ad": "Pamuk Yasası",
   "url": "https://mevzuat.mahkemeler.net/Yasalar/f_46.doc",
-  "alindi": "2026-10-09T14:33:03.188Z",
+  "alindi": "2026-10-09T18:52:56.820Z",
   "http": 200,
   "bayt": 39936,
   "sha256": "4e681f852004a0a76a40186b5c0d310193ac2ca6f9b08deae3f31833e944d1cd",
-  "durum": "sorun",
-  "hata": "This does not seem to be a Word document: Invalid magic number: a5dc"
+  "durum": "tamam",
+  "bicim": "doc",
+  "cikarma": "libreoffice",
+  "karakter": 17370,
+  "metin_dosyasi": "veri/mahkemeler/yasalar/627_f_46.doc.txt",
+  "onarim": "yeniden denendi",
+  "denenen_adresler": [
+   "/Yasalar/f_46.doc → 200"
+  ]
  },
  "628": {
   "pkey": 628,
@@ -8829,7 +9786,16 @@
   "alindi": "2026-10-09T14:33:07.955Z",
   "http": 404,
   "durum": "sorun",
-  "hata": "HTTP 404"
+  "hata": "HTTP 404",
+  "denenen_adresler": [
+   "/Yasalar/f_197.doc → 404",
+   "/Yasalar/f_197.docx → 404",
+   "/Yasalar/f_197.pdf → 404",
+   "/Yasalar/f_197.DOC → 404",
+   "/Yasalar/f_197.DOCX → 404",
+   "/Yasalar/f_197.PDF → 404",
+   "/Yasalar/f_197.rtf → 404"
+  ]
  },
  "630": {
   "pkey": 630,
@@ -8869,7 +9835,16 @@
   "alindi": "2026-10-09T14:33:18.699Z",
   "http": 404,
   "durum": "sorun",
-  "hata": "HTTP 404"
+  "hata": "HTTP 404",
+  "denenen_adresler": [
+   "/Yasalar/f_111.doc → 404",
+   "/Yasalar/f_111.docx → 404",
+   "/Yasalar/f_111.pdf → 404",
+   "/Yasalar/f_111.DOC → 404",
+   "/Yasalar/f_111.DOCX → 404",
+   "/Yasalar/f_111.PDF → 404",
+   "/Yasalar/f_111.rtf → 404"
+  ]
  },
  "633": {
   "pkey": 633,
@@ -8909,7 +9884,16 @@
   "alindi": "2026-10-09T14:33:27.105Z",
   "http": 404,
   "durum": "sorun",
-  "hata": "HTTP 404"
+  "hata": "HTTP 404",
+  "denenen_adresler": [
+   "/Yasalar/f_273(b).doc → 404",
+   "/Yasalar/f_273(b).docx → 404",
+   "/Yasalar/f_273(b).pdf → 404",
+   "/Yasalar/f_273(b).DOC → 404",
+   "/Yasalar/f_273(b).DOCX → 404",
+   "/Yasalar/f_273(b).PDF → 404",
+   "/Yasalar/f_273(b).rtf → 404"
+  ]
  },
  "636": {
   "pkey": 636,
@@ -8961,12 +9945,19 @@
   "numara": "79/1991",
   "ad": "Planlama Ve İnşaat Dairesi (Kuruluş, Görev Ve Çalışma Esasları) Yasası",
   "url": "https://mevzuat.mahkemeler.net/Yasalar/79-1991.doc",
-  "alindi": "2026-10-09T14:33:38.261Z",
+  "alindi": "2026-10-09T18:53:59.301Z",
   "http": 200,
   "bayt": 137216,
   "sha256": "2e985bb46247d9916ef8c8f17aa6e1c5f35a78d6e4fb2b8bf654c0d950f07017",
-  "durum": "sorun",
-  "hata": "This does not seem to be a Word document: Invalid magic number: a5dc"
+  "durum": "tamam",
+  "bicim": "doc",
+  "cikarma": "libreoffice",
+  "karakter": 63942,
+  "metin_dosyasi": "veri/mahkemeler/yasalar/639_79-1991.doc.txt",
+  "onarim": "yeniden denendi",
+  "denenen_adresler": [
+   "/Yasalar/79-1991.doc → 200"
+  ]
  },
  "640": {
   "pkey": 640,
@@ -9017,11 +10008,21 @@
   "pkey": 643,
   "numara": "15/2015",
   "ad": "Polis Örgütü (KuruluşGörev ve Yetkileri) Yasasının Hayat Pahalılığı Ödeneği Hakkını Düzenleyen 40ıncı Maddesinin Uygulanmasının Durdurulmasına İlişkin (Geçici Kurallar) Yasası",
-  "url": "https://mevzuat.mahkemeler.net/Yasalar/15-2015.docx",
-  "alindi": "2026-10-09T14:33:53.372Z",
-  "http": 404,
-  "durum": "sorun",
-  "hata": "HTTP 404"
+  "url": "https://mevzuat.mahkemeler.net/Yasalar/15-2015.doc",
+  "alindi": "2026-10-09T18:54:05.508Z",
+  "http": 200,
+  "durum": "tamam",
+  "bayt": 48128,
+  "sha256": "b16eb6906f9c32286b17b94c18608acbf7848e3b11a7b252d48dc30f0b1a60d0",
+  "bicim": "doc",
+  "cikarma": "doc",
+  "karakter": 2910,
+  "metin_dosyasi": "veri/mahkemeler/yasalar/643_15-2015.doc.txt",
+  "onarim": "yeniden denendi",
+  "denenen_adresler": [
+   "/Yasalar/15-2015.docx → 404",
+   "/Yasalar/15-2015.doc → 200"
+  ]
  },
  "644": {
   "pkey": 644,
@@ -9148,24 +10149,38 @@
   "numara": "6/1987",
   "ad": "Resmi Kabz Memurluğu Ve Mukayyitlik Dairesi (Kuruluş, Görev Ve Çalışma Esasları) Yasası",
   "url": "https://mevzuat.mahkemeler.net/Yasalar/06-1987.doc",
-  "alindi": "2026-10-09T14:34:18.330Z",
+  "alindi": "2026-10-09T18:54:09.472Z",
   "http": 200,
   "bayt": 77824,
   "sha256": "afa0b55158b2eb87c61b9458683c23270e02b9da07f425f6acda9faf930a6380",
-  "durum": "sorun",
-  "hata": "This does not seem to be a Word document: Invalid magic number: a5dc"
+  "durum": "tamam",
+  "bicim": "doc",
+  "cikarma": "libreoffice",
+  "karakter": 40254,
+  "metin_dosyasi": "veri/mahkemeler/yasalar/652_06-1987.doc.txt",
+  "onarim": "yeniden denendi",
+  "denenen_adresler": [
+   "/Yasalar/06-1987.doc → 200"
+  ]
  },
  "653": {
   "pkey": 653,
   "numara": "Fasıl 191",
   "ad": "Resmi Mütevelliler Yasası",
   "url": "https://mevzuat.mahkemeler.net/Yasalar/f_191.doc",
-  "alindi": "2026-10-09T14:34:21.184Z",
+  "alindi": "2026-10-09T18:54:12.823Z",
   "http": 200,
   "bayt": 16896,
   "sha256": "2ce3c67d72d2f42602f6d605effdef12931280dc108ab5e3c2c8c823e646fc58",
-  "durum": "sorun",
-  "hata": "This does not seem to be a Word document: Invalid magic number: a5dc"
+  "durum": "tamam",
+  "bicim": "doc",
+  "cikarma": "libreoffice",
+  "karakter": 3845,
+  "metin_dosyasi": "veri/mahkemeler/yasalar/653_f_191.doc.txt",
+  "onarim": "yeniden denendi",
+  "denenen_adresler": [
+   "/Yasalar/f_191.doc → 200"
+  ]
  },
  "654": {
   "pkey": 654,
@@ -9202,12 +10217,19 @@
   "numara": "22/1978",
   "ad": "RlıhtımHarçları Yasası",
   "url": "https://mevzuat.mahkemeler.net/Yasalar/22-1978.doc",
-  "alindi": "2026-10-09T14:34:29.734Z",
+  "alindi": "2026-10-09T18:54:16.406Z",
   "http": 200,
   "bayt": 33280,
   "sha256": "c32017503935cdaae12d374e0d8b034dfeecf5affcb9d5d09c63056af03756ab",
-  "durum": "sorun",
-  "hata": "This does not seem to be a Word document: Invalid magic number: a5dc"
+  "durum": "tamam",
+  "bicim": "doc",
+  "cikarma": "libreoffice",
+  "karakter": 12380,
+  "metin_dosyasi": "veri/mahkemeler/yasalar/656_22-1978.doc.txt",
+  "onarim": "yeniden denendi",
+  "denenen_adresler": [
+   "/Yasalar/22-1978.doc → 200"
+  ]
  },
  "657": {
   "pkey": 657,
@@ -9319,24 +10341,38 @@
   "numara": "1/1992",
   "ad": "Sahil Güvenlik Komutanlığı (Birliği) Yasası",
   "url": "https://mevzuat.mahkemeler.net/Yasalar/01-1992.doc",
-  "alindi": "2026-10-09T14:34:52.297Z",
+  "alindi": "2026-10-09T18:54:20.077Z",
   "http": 200,
   "bayt": 27648,
   "sha256": "1fe3500efae892c4ce254b0ace3377d0e726a8a6be62475d5867fa2e355d8e07",
-  "durum": "sorun",
-  "hata": "This does not seem to be a Word document: Invalid magic number: a5dc"
+  "durum": "tamam",
+  "bicim": "doc",
+  "cikarma": "libreoffice",
+  "karakter": 10908,
+  "metin_dosyasi": "veri/mahkemeler/yasalar/664_01-1992.doc.txt",
+  "onarim": "yeniden denendi",
+  "denenen_adresler": [
+   "/Yasalar/01-1992.doc → 200"
+  ]
  },
  "665": {
   "pkey": 665,
   "numara": "1/1992",
   "ad": "Sahil Güvenlik Komutanlığı(Birliği)",
   "url": "https://mevzuat.mahkemeler.net/Yasalar/01-1992.doc",
-  "alindi": "2026-10-09T14:34:55.017Z",
+  "alindi": "2026-10-09T18:54:22.653Z",
   "http": 200,
   "bayt": 27648,
   "sha256": "1fe3500efae892c4ce254b0ace3377d0e726a8a6be62475d5867fa2e355d8e07",
-  "durum": "sorun",
-  "hata": "This does not seem to be a Word document: Invalid magic number: a5dc"
+  "durum": "tamam",
+  "bicim": "doc",
+  "cikarma": "libreoffice",
+  "karakter": 10908,
+  "metin_dosyasi": "veri/mahkemeler/yasalar/665_01-1992.doc.txt",
+  "onarim": "yeniden denendi",
+  "denenen_adresler": [
+   "/Yasalar/01-1992.doc → 200"
+  ]
  },
  "666": {
   "pkey": 666,
@@ -9466,7 +10502,16 @@
   "alindi": "2026-10-09T14:35:19.768Z",
   "http": 404,
   "durum": "sorun",
-  "hata": "HTTP 404"
+  "hata": "HTTP 404",
+  "denenen_adresler": [
+   "/Yasalar/f_102.doc → 404",
+   "/Yasalar/f_102.docx → 404",
+   "/Yasalar/f_102.pdf → 404",
+   "/Yasalar/f_102.DOC → 404",
+   "/Yasalar/f_102.DOCX → 404",
+   "/Yasalar/f_102.PDF → 404",
+   "/Yasalar/f_102.rtf → 404"
+  ]
  },
  "675": {
   "pkey": 675,
@@ -9581,7 +10626,16 @@
   "alindi": "2026-10-09T14:35:51.493Z",
   "http": 404,
   "durum": "sorun",
-  "hata": "HTTP 404"
+  "hata": "HTTP 404",
+  "denenen_adresler": [
+   "/Yasalar/01-1965.doc → 404",
+   "/Yasalar/01-1965.docx → 404",
+   "/Yasalar/01-1965.pdf → 404",
+   "/Yasalar/01-1965.DOC → 404",
+   "/Yasalar/01-1965.DOCX → 404",
+   "/Yasalar/01-1965.PDF → 404",
+   "/Yasalar/01-1965.rtf → 404"
+  ]
  },
  "683": {
   "pkey": 683,
@@ -9666,7 +10720,16 @@
   "alindi": "2026-10-09T14:36:08.808Z",
   "http": 404,
   "durum": "sorun",
-  "hata": "HTTP 404"
+  "hata": "HTTP 404",
+  "denenen_adresler": [
+   "/Yasalar/f_108.doc → 404",
+   "/Yasalar/f_108.docx → 404",
+   "/Yasalar/f_108.pdf → 404",
+   "/Yasalar/f_108.DOC → 404",
+   "/Yasalar/f_108.DOCX → 404",
+   "/Yasalar/f_108.PDF → 404",
+   "/Yasalar/f_108.rtf → 404"
+  ]
  },
  "689": {
   "pkey": 689,
@@ -9822,11 +10885,21 @@
   "pkey": 699,
   "numara": "18/2015",
   "ad": "Sivil Savunma Teşkilatı Personel Yasasının Hayat Pahalılığı Ödeneği Hakkını Düzenleyen 24üncü Maddesinin Uygulanmasının Durdurulmasına İlişkin (Geçici Kurallar) Yasası",
-  "url": "https://mevzuat.mahkemeler.net/Yasalar/18-2015.docx",
-  "alindi": "2026-10-09T14:36:41.912Z",
-  "http": 404,
-  "durum": "sorun",
-  "hata": "HTTP 404"
+  "url": "https://mevzuat.mahkemeler.net/Yasalar/18-2015.doc",
+  "alindi": "2026-10-09T18:55:26.801Z",
+  "http": 200,
+  "durum": "tamam",
+  "bayt": 45568,
+  "sha256": "1d349a18582ba7a645a07193516f4d3c3695b5d1df9e5f79734f74c3157da7dc",
+  "bicim": "doc",
+  "cikarma": "doc",
+  "karakter": 2847,
+  "metin_dosyasi": "veri/mahkemeler/yasalar/699_18-2015.doc.txt",
+  "onarim": "yeniden denendi",
+  "denenen_adresler": [
+   "/Yasalar/18-2015.docx → 404",
+   "/Yasalar/18-2015.doc → 200"
+  ]
  },
  "700": {
   "pkey": 700,
@@ -9881,7 +10954,16 @@
   "alindi": "2026-10-09T14:36:53.385Z",
   "http": 404,
   "durum": "sorun",
-  "hata": "HTTP 404"
+  "hata": "HTTP 404",
+  "denenen_adresler": [
+   "/Yasalar/62-1994.doc → 404",
+   "/Yasalar/62-1994.docx → 404",
+   "/Yasalar/62-1994.pdf → 404",
+   "/Yasalar/62-1994.DOC → 404",
+   "/Yasalar/62-1994.DOCX → 404",
+   "/Yasalar/62-1994.PDF → 404",
+   "/Yasalar/62-1994.rtf → 404"
+  ]
  },
  "704": {
   "pkey": 704,
@@ -9966,7 +11048,16 @@
   "alindi": "2026-10-09T14:37:09.767Z",
   "http": 404,
   "durum": "sorun",
-  "hata": "HTTP 404"
+  "hata": "HTTP 404",
+  "denenen_adresler": [
+   "/Yasalar/56-2009.doc → 404",
+   "/Yasalar/56-2009.docx → 404",
+   "/Yasalar/56-2009.pdf → 404",
+   "/Yasalar/56-2009.DOC → 404",
+   "/Yasalar/56-2009.DOCX → 404",
+   "/Yasalar/56-2009.PDF → 404",
+   "/Yasalar/56-2009.rtf → 404"
+  ]
  },
  "710": {
   "pkey": 710,
@@ -10966,7 +12057,16 @@
   "alindi": "2026-10-09T14:40:27.388Z",
   "http": 404,
   "durum": "sorun",
-  "hata": "HTTP 404"
+  "hata": "HTTP 404",
+  "denenen_adresler": [
+   "/Yasalar/2-2005.doc → 404",
+   "/Yasalar/2-2005.docx → 404",
+   "/Yasalar/2-2005.pdf → 404",
+   "/Yasalar/2-2005.DOC → 404",
+   "/Yasalar/2-2005.DOCX → 404",
+   "/Yasalar/2-2005.PDF → 404",
+   "/Yasalar/2-2005.rtf → 404"
+  ]
  },
  "780": {
   "pkey": 780,
@@ -11216,7 +12316,16 @@
   "alindi": "2026-10-09T14:41:17.655Z",
   "http": 404,
   "durum": "sorun",
-  "hata": "HTTP 404"
+  "hata": "HTTP 404",
+  "denenen_adresler": [
+   "/Yasalar/f_133.doc → 404",
+   "/Yasalar/f_133.docx → 404",
+   "/Yasalar/f_133.pdf → 404",
+   "/Yasalar/f_133.DOC → 404",
+   "/Yasalar/f_133.DOCX → 404",
+   "/Yasalar/f_133.PDF → 404",
+   "/Yasalar/f_133.rtf → 404"
+  ]
  },
  "797": {
   "pkey": 797,
@@ -11256,7 +12365,16 @@
   "alindi": "2026-10-09T14:41:26.354Z",
   "http": 404,
   "durum": "sorun",
-  "hata": "HTTP 404"
+  "hata": "HTTP 404",
+  "denenen_adresler": [
+   "/Yasalar/f_90.doc → 404",
+   "/Yasalar/f_90.docx → 404",
+   "/Yasalar/f_90.pdf → 404",
+   "/Yasalar/f_90.DOC → 404",
+   "/Yasalar/f_90.DOCX → 404",
+   "/Yasalar/f_90.PDF → 404",
+   "/Yasalar/f_90.rtf → 404"
+  ]
  },
  "800": {
   "pkey": 800,
@@ -11371,7 +12489,10 @@
   "alindi": "2026-10-09T14:41:50.188Z",
   "http": 404,
   "durum": "sorun",
-  "hata": "HTTP 404"
+  "hata": "HTTP 404",
+  "denenen_adresler": [
+   "/Yasalar/ → 404"
+  ]
  },
  "809": {
   "pkey": 809,
@@ -11576,7 +12697,16 @@
   "alindi": "2026-10-09T14:42:32.038Z",
   "http": 404,
   "durum": "sorun",
-  "hata": "HTTP 404"
+  "hata": "HTTP 404",
+  "denenen_adresler": [
+   "/Yasalar/41-1983.doc → 404",
+   "/Yasalar/41-1983.docx → 404",
+   "/Yasalar/41-1983.pdf → 404",
+   "/Yasalar/41-1983.DOC → 404",
+   "/Yasalar/41-1983.DOCX → 404",
+   "/Yasalar/41-1983.PDF → 404",
+   "/Yasalar/41-1983.rtf → 404"
+  ]
  },
  "823": {
   "pkey": 823,
@@ -11616,7 +12746,16 @@
   "alindi": "2026-10-09T14:42:40.893Z",
   "http": 404,
   "durum": "sorun",
-  "hata": "HTTP 404"
+  "hata": "HTTP 404",
+  "denenen_adresler": [
+   "/Yasalar/TCM6-61.doc → 404",
+   "/Yasalar/TCM6-61.docx → 404",
+   "/Yasalar/TCM6-61.pdf → 404",
+   "/Yasalar/TCM6-61.DOC → 404",
+   "/Yasalar/TCM6-61.DOCX → 404",
+   "/Yasalar/TCM6-61.PDF → 404",
+   "/Yasalar/TCM6-61.rtf → 404"
+  ]
  },
  "826": {
   "pkey": 826,
@@ -11641,7 +12780,16 @@
   "alindi": "2026-10-09T14:42:46.189Z",
   "http": 404,
   "durum": "sorun",
-  "hata": "HTTP 404"
+  "hata": "HTTP 404",
+  "denenen_adresler": [
+   "/Yasalar/4-1966.doc → 404",
+   "/Yasalar/4-1966.docx → 404",
+   "/Yasalar/4-1966.pdf → 404",
+   "/Yasalar/4-1966.DOC → 404",
+   "/Yasalar/4-1966.DOCX → 404",
+   "/Yasalar/4-1966.PDF → 404",
+   "/Yasalar/4-1966.rtf → 404"
+  ]
  },
  "828": {
   "pkey": 828,
@@ -11666,7 +12814,16 @@
   "alindi": "2026-10-09T14:42:51.235Z",
   "http": 404,
   "durum": "sorun",
-  "hata": "HTTP 404"
+  "hata": "HTTP 404",
+  "denenen_adresler": [
+   "/Yasalar/TCM12-1960.doc → 404",
+   "/Yasalar/TCM12-1960.docx → 404",
+   "/Yasalar/TCM12-1960.pdf → 404",
+   "/Yasalar/TCM12-1960.DOC → 404",
+   "/Yasalar/TCM12-1960.DOCX → 404",
+   "/Yasalar/TCM12-1960.PDF → 404",
+   "/Yasalar/TCM12-1960.rtf → 404"
+  ]
  },
  "830": {
   "pkey": 830,
@@ -11691,7 +12848,16 @@
   "alindi": "2026-10-09T14:42:56.673Z",
   "http": 404,
   "durum": "sorun",
-  "hata": "HTTP 404"
+  "hata": "HTTP 404",
+  "denenen_adresler": [
+   "/Yasalar/05-1972.doc → 404",
+   "/Yasalar/05-1972.docx → 404",
+   "/Yasalar/05-1972.pdf → 404",
+   "/Yasalar/05-1972.DOC → 404",
+   "/Yasalar/05-1972.DOCX → 404",
+   "/Yasalar/05-1972.PDF → 404",
+   "/Yasalar/05-1972.rtf → 404"
+  ]
  },
  "832": {
   "pkey": 832,
@@ -11731,7 +12897,16 @@
   "alindi": "2026-10-09T14:43:05.141Z",
   "http": 404,
   "durum": "sorun",
-  "hata": "HTTP 404"
+  "hata": "HTTP 404",
+  "denenen_adresler": [
+   "/Yasalar/33-1970.doc → 404",
+   "/Yasalar/33-1970.docx → 404",
+   "/Yasalar/33-1970.pdf → 404",
+   "/Yasalar/33-1970.DOC → 404",
+   "/Yasalar/33-1970.DOCX → 404",
+   "/Yasalar/33-1970.PDF → 404",
+   "/Yasalar/33-1970.rtf → 404"
+  ]
  },
  "835": {
   "pkey": 835,
@@ -11741,7 +12916,16 @@
   "alindi": "2026-10-09T14:43:07.717Z",
   "http": 404,
   "durum": "sorun",
-  "hata": "HTTP 404"
+  "hata": "HTTP 404",
+  "denenen_adresler": [
+   "/Yasalar/33-1970.doc → 404",
+   "/Yasalar/33-1970.docx → 404",
+   "/Yasalar/33-1970.pdf → 404",
+   "/Yasalar/33-1970.DOC → 404",
+   "/Yasalar/33-1970.DOCX → 404",
+   "/Yasalar/33-1970.PDF → 404",
+   "/Yasalar/33-1970.rtf → 404"
+  ]
  },
  "836": {
   "pkey": 836,
@@ -12096,7 +13280,16 @@
   "alindi": "2026-10-09T14:44:35.216Z",
   "http": 404,
   "durum": "sorun",
-  "hata": "HTTP 404"
+  "hata": "HTTP 404",
+  "denenen_adresler": [
+   "/Yasalar/41/2008.doc → 404",
+   "/Yasalar/41/2008.docx → 404",
+   "/Yasalar/41/2008.pdf → 404",
+   "/Yasalar/41/2008.DOC → 404",
+   "/Yasalar/41/2008.DOCX → 404",
+   "/Yasalar/41/2008.PDF → 404",
+   "/Yasalar/41/2008.rtf → 404"
+  ]
  },
  "860": {
   "pkey": 860,
@@ -12571,7 +13764,16 @@
   "alindi": "2026-10-09T14:46:04.000Z",
   "http": 404,
   "durum": "sorun",
-  "hata": "HTTP 404"
+  "hata": "HTTP 404",
+  "denenen_adresler": [
+   "/Yasalar/47-1994.doc → 404",
+   "/Yasalar/47-1994.docx → 404",
+   "/Yasalar/47-1994.pdf → 404",
+   "/Yasalar/47-1994.DOC → 404",
+   "/Yasalar/47-1994.DOCX → 404",
+   "/Yasalar/47-1994.PDF → 404",
+   "/Yasalar/47-1994.rtf → 404"
+  ]
  },
  "892": {
   "pkey": 892,
@@ -12592,11 +13794,21 @@
   "pkey": 893,
   "numara": "16/2015",
   "ad": "Vakıflar Örgütü ve Din İşleri Dairesi (Kuruluş Görev ve Çalışma Esasları) Yasasında Hayat Pahalılığı Ödeneği Hakkını Düzenleyen 51inci Maddenin Uygulanmasının Durdurulmasına İlişkin (Geçici Kurallar) Yasası",
-  "url": "https://mevzuat.mahkemeler.net/Yasalar/16-2015.docx",
-  "alindi": "2026-10-09T14:46:09.298Z",
-  "http": 404,
-  "durum": "sorun",
-  "hata": "HTTP 404"
+  "url": "https://mevzuat.mahkemeler.net/Yasalar/16-2015.doc",
+  "alindi": "2026-10-09T19:00:03.091Z",
+  "http": 200,
+  "durum": "tamam",
+  "bayt": 46592,
+  "sha256": "1bc8bf979af3508e44df585c0805f1b90acdef6081311807328c150bd54e6f3a",
+  "bicim": "doc",
+  "cikarma": "doc",
+  "karakter": 2316,
+  "metin_dosyasi": "veri/mahkemeler/yasalar/893_16-2015.doc.txt",
+  "onarim": "yeniden denendi",
+  "denenen_adresler": [
+   "/Yasalar/16-2015.docx → 404",
+   "/Yasalar/16-2015.doc → 200"
+  ]
  },
  "894": {
   "pkey": 894,
@@ -12636,7 +13848,16 @@
   "alindi": "2026-10-09T14:46:18.939Z",
   "http": 404,
   "durum": "sorun",
-  "hata": "HTTP 404"
+  "hata": "HTTP 404",
+  "denenen_adresler": [
+   "/Yasalar/32-1976.doc → 404",
+   "/Yasalar/32-1976.docx → 404",
+   "/Yasalar/32-1976.pdf → 404",
+   "/Yasalar/32-1976.DOC → 404",
+   "/Yasalar/32-1976.DOCX → 404",
+   "/Yasalar/32-1976.PDF → 404",
+   "/Yasalar/32-1976.rtf → 404"
+  ]
  },
  "897": {
   "pkey": 897,
@@ -12766,7 +13987,16 @@
   "alindi": "2026-10-09T14:46:42.959Z",
   "http": 404,
   "durum": "sorun",
-  "hata": "HTTP 404"
+  "hata": "HTTP 404",
+  "denenen_adresler": [
+   "/Yasalar/7_1992.doc → 404",
+   "/Yasalar/7_1992.docx → 404",
+   "/Yasalar/7_1992.pdf → 404",
+   "/Yasalar/7_1992.DOC → 404",
+   "/Yasalar/7_1992.DOCX → 404",
+   "/Yasalar/7_1992.PDF → 404",
+   "/Yasalar/7_1992.rtf → 404"
+  ]
  },
  "907": {
   "pkey": 907,
@@ -12956,7 +14186,16 @@
   "alindi": "2026-10-09T14:47:19.756Z",
   "http": 404,
   "durum": "sorun",
-  "hata": "HTTP 404"
+  "hata": "HTTP 404",
+  "denenen_adresler": [
+   "/Yasalar/f_283.doc → 404",
+   "/Yasalar/f_283.docx → 404",
+   "/Yasalar/f_283.pdf → 404",
+   "/Yasalar/f_283.DOC → 404",
+   "/Yasalar/f_283.DOCX → 404",
+   "/Yasalar/f_283.PDF → 404",
+   "/Yasalar/f_283.rtf → 404"
+  ]
  },
  "920": {
   "pkey": 920,
@@ -13176,7 +14415,16 @@
   "alindi": "2026-10-09T14:48:07.777Z",
   "http": 404,
   "durum": "sorun",
-  "hata": "HTTP 404"
+  "hata": "HTTP 404",
+  "denenen_adresler": [
+   "/Yasalar/07-1996.doc → 404",
+   "/Yasalar/07-1996.docx → 404",
+   "/Yasalar/07-1996.pdf → 404",
+   "/Yasalar/07-1996.DOC → 404",
+   "/Yasalar/07-1996.DOCX → 404",
+   "/Yasalar/07-1996.PDF → 404",
+   "/Yasalar/07-1996.rtf → 404"
+  ]
  },
  "936": {
   "pkey": 936,
@@ -13201,7 +14449,16 @@
   "alindi": "2026-10-09T14:48:13.086Z",
   "http": 404,
   "durum": "sorun",
-  "hata": "HTTP 404"
+  "hata": "HTTP 404",
+  "denenen_adresler": [
+   "/Yasalar/45-1975.doc → 404",
+   "/Yasalar/45-1975.docx → 404",
+   "/Yasalar/45-1975.pdf → 404",
+   "/Yasalar/45-1975.DOC → 404",
+   "/Yasalar/45-1975.DOCX → 404",
+   "/Yasalar/45-1975.PDF → 404",
+   "/Yasalar/45-1975.rtf → 404"
+  ]
  },
  "938": {
   "pkey": 938,
@@ -13211,7 +14468,16 @@
   "alindi": "2026-10-09T14:48:15.666Z",
   "http": 404,
   "durum": "sorun",
-  "hata": "HTTP 404"
+  "hata": "HTTP 404",
+  "denenen_adresler": [
+   "/Yasalar/30-1990.doc → 404",
+   "/Yasalar/30-1990.docx → 404",
+   "/Yasalar/30-1990.pdf → 404",
+   "/Yasalar/30-1990.DOC → 404",
+   "/Yasalar/30-1990.DOCX → 404",
+   "/Yasalar/30-1990.PDF → 404",
+   "/Yasalar/30-1990.rtf → 404"
+  ]
  },
  "939": {
   "pkey": 939,
@@ -13221,7 +14487,16 @@
   "alindi": "2026-10-09T14:48:18.245Z",
   "http": 404,
   "durum": "sorun",
-  "hata": "HTTP 404"
+  "hata": "HTTP 404",
+  "denenen_adresler": [
+   "/Yasalar/17-1984.doc → 404",
+   "/Yasalar/17-1984.docx → 404",
+   "/Yasalar/17-1984.pdf → 404",
+   "/Yasalar/17-1984.DOC → 404",
+   "/Yasalar/17-1984.DOCX → 404",
+   "/Yasalar/17-1984.PDF → 404",
+   "/Yasalar/17-1984.rtf → 404"
+  ]
  },
  "940": {
   "pkey": 940,
@@ -13456,7 +14731,16 @@
   "alindi": "2026-10-09T14:49:04.113Z",
   "http": 404,
   "durum": "sorun",
-  "hata": "HTTP 404"
+  "hata": "HTTP 404",
+  "denenen_adresler": [
+   "/Yasalar/18-1981.doc → 404",
+   "/Yasalar/18-1981.docx → 404",
+   "/Yasalar/18-1981.pdf → 404",
+   "/Yasalar/18-1981.DOC → 404",
+   "/Yasalar/18-1981.DOCX → 404",
+   "/Yasalar/18-1981.PDF → 404",
+   "/Yasalar/18-1981.rtf → 404"
+  ]
  },
  "956": {
   "pkey": 956,
@@ -13507,11 +14791,21 @@
   "pkey": 959,
   "numara": "27/1991",
   "ad": "Yürürlükten Kaldırılması ve Kıbrıs Lirası İle İfade Edilen Meblağların Türk Lirasına Dönüştürülmesi Yasası",
-  "url": "https://mevzuat.mahkemeler.net/Yasalar/27-1991.doc",
-  "alindi": "2026-10-09T14:49:16.002Z",
-  "http": 404,
-  "durum": "sorun",
-  "hata": "HTTP 404"
+  "url": "https://mevzuat.mahkemeler.net/Yasalar/27-1991.docx",
+  "alindi": "2026-10-09T19:02:45.085Z",
+  "http": 200,
+  "durum": "tamam",
+  "bayt": 13008,
+  "sha256": "83335e6c286600cd741e3b4a4b8eb05cf1662f2b0785f7e3de9ddd2bd54bb72a",
+  "bicim": "docx",
+  "cikarma": "docx",
+  "karakter": 3173,
+  "metin_dosyasi": "veri/mahkemeler/yasalar/959_27-1991.docx.txt",
+  "onarim": "yeniden denendi",
+  "denenen_adresler": [
+   "/Yasalar/27-1991.doc → 404",
+   "/Yasalar/27-1991.docx → 200"
+  ]
  },
  "960": {
   "pkey": 960,
@@ -13551,7 +14845,16 @@
   "alindi": "2026-10-09T14:49:23.911Z",
   "http": 404,
   "durum": "sorun",
-  "hata": "HTTP 404"
+  "hata": "HTTP 404",
+  "denenen_adresler": [
+   "/Yasalar/23-1963.doc → 404",
+   "/Yasalar/23-1963.docx → 404",
+   "/Yasalar/23-1963.pdf → 404",
+   "/Yasalar/23-1963.DOC → 404",
+   "/Yasalar/23-1963.DOCX → 404",
+   "/Yasalar/23-1963.PDF → 404",
+   "/Yasalar/23-1963.rtf → 404"
+  ]
  },
  "963": {
   "pkey": 963,
@@ -13576,7 +14879,16 @@
   "alindi": "2026-10-09T14:49:28.800Z",
   "http": 404,
   "durum": "sorun",
-  "hata": "HTTP 404"
+  "hata": "HTTP 404",
+  "denenen_adresler": [
+   "/Yasalar/f_118.doc → 404",
+   "/Yasalar/f_118.docx → 404",
+   "/Yasalar/f_118.pdf → 404",
+   "/Yasalar/f_118.DOC → 404",
+   "/Yasalar/f_118.DOCX → 404",
+   "/Yasalar/f_118.PDF → 404",
+   "/Yasalar/f_118.rtf → 404"
+  ]
  },
  "965": {
   "pkey": 965,

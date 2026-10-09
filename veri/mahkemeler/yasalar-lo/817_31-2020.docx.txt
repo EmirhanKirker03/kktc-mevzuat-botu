@@ -1,0 +1,173 @@
+﻿31/2020
+
+
+TÜKETİCİ KREDİLERİ YASASI
+İÇDÜZENİ
+
+
+BİRİNCİ KISIM
+Genel Kurallar
+Madde 1.
+Kısa İsim
+Madde 2.
+Tefsir
+Madde 3.
+Amaç
+Madde 4.
+Kapsam
+
+
+İKİNCİ KISIM
+Tüketici Kredi Sözleşmelerinin Esas ve Usulleri
+
+Madde 5.
+Tüketici Kredi Sözleşmeleri
+Madde 6.
+Ön Bilgilendirme
+Madde 7
+Cayma Hakkı
+Madde 8
+Tüketicinin Ödeme Gücü
+
+
+
+ÜÇÜNCÜ KISIM
+Faiz ve Ücretler ile İlgili Esas ve Usuller
+
+Madde 9.
+Değişken Faiz ile İlgili Esaslar
+Madde 10.
+Belirli Süreli Tüketici Kredi Sözleşmelerinde Faiz Oranı ve Ücretler
+Madde 11.
+Belirsiz Süreli Tüketici Kredi Sözleşmelerinde Faiz Oranı ve Ücretler
+Madde 12.
+Yıllık Maliyet Oranı
+
+
+
+DÖRDÜNCÜ KISIM
+Tüketici Kredi Sözleşmeleri ile İlgili Özel Kurallar 
+Madde 13.
+Erken Ödeme 
+Madde 14.
+Sigorta Yaptırılması
+Madde 15.
+Bağlı Kredi Sözleşmeleri
+Madde 16.
+Hakların Temlik Edilmesi
+
+
+BEŞİNCİ KISIM
+Tüketici Kredileri ile İlgili İlan ve Reklamlar
+
+Madde 17.
+İlan ve Reklamlar ile İlgili Esaslar
+
+
+
+ALTINCI KISIM
+Denetim Yetkisi
+
+Madde 18.
+Denetim Yetkisi
+
+
+
+YEDİNCİ KISIM
+Çeşitli Kurallar
+
+Madde 19.
+Bankalar Birliğinin Yükümlülüğü
+Madde 20.
+Kuruluşların Şikayet ile İlgili Yükümlülüğü
+Madde 21.
+Belgelerin Saklanması
+Madde 22.
+Tebliğ Yetkisi
+
+
+
+
+SEKİZİNCİ KISIM
+İdari Para Cezaları İle Suç ve Cezalar
+
+Madde 23.
+İdari Para Cezaları ile Cezalarda Yetki ve Yöntem
+Madde 24.
+Suç ve Cezalar
+
+
+
+DOKUZUNCU KISIM
+Geçici Kurallar
+
+Geçici Madde 1.
+Bu Yasanın Yürürlüğe Girdiği Tarihten Önce Akdolunmuş Tüketici Kredi Sözleşmelerine İlişkin Kural
+Geçici Madde 2.
+Geçici 1’inci Maddeye Aykırılık Halinde Verilecek Ceza
+
+
+
+ONUNCU KISIM
+Son Kurallar
+Madde 25.
+Yürütme Yetkisi
+Madde 26.
+Yürürlüğe Giriş
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CETVEL
+(MADDE 12)
+
+YILLIK MALİYET ORANININ HESAPLANMASI
+Yıllık maliyet oranı, kuruluşlardan tüketici tarafından talep edilen kredi için ödenen tüm ücretlerin, kredi faiz oranına dahil edilmesiyle elde edilen toplam maliyet üzerinden oluşan yüzdesel bir orandır. Kredinin yıllık maliyet oranının, bankalar gibi kredi sağlayan kuruluşlar tarafından tüketicilere kredi faiz oranının yanında ek olarak bildirilmesi yasal bir zorunluluktur.
+
+Yıllık maliyet oranı hesaplamaları yukarıda yer alan formüle göre yapılmalıdır.
+Formülde kullanılan harf ve sembollerin anlamları;
+X = Yıllık maliyet oranı (tüketici tarafından kabul edilmiş olan faiz, ücret, vergi harç ve benzeri yükümlülükler dahil taahhütlerin bugünkü değerlerinin yıllık olarak toplamına eşit oranı )
+m = Kullandırılan kredinin son taksit sayısı
+k = kuruluş tarafından yapılan herhangi bir ödemenin sayısı ( l ≤ k ≤ m )
+Ck = k da belirtilen ödemenin miktarı
+tk   = İlk ödeme tarihi ile daha sonraki her bir ödeme tarihi arasındaki yıl ve bir yılın kesirleri olarak ifade edilen aralığın sayısı (t1=0)
+m’ = Tüketici tarafından yapılan son geri ödeme veya ücret ödemesinin sayısı
+l =  Tüketici tarafından yapılan herhangi bir geri ödeme veya ücret ödemesinin sayısı
+D1   = Tüketici tarafından yapılan herhangi bir geri ödeme veya ücret ödemesinin tutarı
+Sl   = İlk ödeme tarihi ile daha sonraki her bir geri ödeme tarihi arasındaki yıl ve bir yılın kesirleri olarak ifade edilen aralığın sayısı
+
+

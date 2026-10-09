@@ -1,0 +1,636 @@
+﻿ELEKTRONİK İMZA YASASI
+İÇDÜZENİ
+
+
+Madde 1.
+Kısa İsim
+
+BİRİNCİ KISIM
+Genel Kurallar
+
+Madde 2.
+Tefsir
+
+Madde 3.
+Amaç
+
+Madde 4.
+Kapsam
+
+İKİNCİ KISIM
+Güvenli Elektronik İmza, Güvenli Elektronik İmza Oluşturma ve Doğrulama Araçları
+
+Madde 5.
+Güvenli Elektronik İmza
+
+Madde 6.
+Güvenli Elektronik İmzanın Hukuki Sonucu ve Uygulama Alanı
+
+Madde 7.
+Güvenli Elektronik İmza Oluşturma Araçları
+
+Madde 8.
+Güvenli Elektronik İmza Doğrulama Araçları
+
+ÜÇÜNCÜ KISIM
+Elektronik Sertifika Hizmet Sağlayıcısı, Nitelikli Elektronik Sertifika ve 
+Yabancı Elektronik Sertifikalar
+
+Madde 9.
+Elektronik Sertifika Hizmet Sağlayıcısı
+
+Madde 10.
+Nitelikli Elektronik Sertifika
+
+Madde 11.
+Elektronik Sertifika Hizmet Sağlayıcısının Yükümlülükleri
+
+Madde 12.
+Nitelikli Elektronik Sertifikaların İptal Edilmesi
+
+Madde 13.
+Bilgilerin Korunması
+
+Madde 14.
+Hukuki Sorumluluk   
+
+Madde 15.
+Yabancı Elektronik Sertifikalar
+
+
+DÖRDÜNCÜ KISIM
+Denetim ve Ceza Kuralları
+
+Madde 16.
+Denetim
+
+Madde 17.
+İmza Oluşturma Verilerinin İzinsiz Kullanımı
+
+Madde 18.
+Elektronik Sertifikalarda Sahtekarlık
+
+Madde 19.
+İdari Para Cezaları ve Kapatma Cezası
+                   
+BEŞİNCİ KISIM
+Çeşitli Kurallar
+
+Madde 20.
+Tüzük Yapma Yetkisi
+
+Madde 21.
+Kamu Kurum ve Kuruluşlarına Ait Kurumsal Kimlik
+
+Madde 22.
+Kamu Kurum ve Kuruluşları Hakkında Uygulanmayacak Kurallar
+
+ALTINCI KISIM
+Geçici ve Son Kurallar
+
+Geçici Madde 1.
+Telekomünikasyon Üst Kurulu
+
+Madde 23.
+Yürütme Yetkisi
+
+Madde 24.
+Yürürlüğe Giriş
+
+
+
+93/2007
+
+ELEKTRONİK İMZA YASASI
+(10/2010;2/2011 ve 43/2011  sayılı değişiklik yasalarıyla değiştirilmiş ve birleştirilmiş şekliyle)
+
+
+       Kuzey Kıbrıs Türk Cumhuriyeti Cumhuriyet Meclisi aşağıdaki Yasayı yapar:
+
+
+Kısa İsim
+
+1. Bu Yasa, Elektronik İmza Yasası olarak isimlendirilir.
+
+
+BİRİNCİ KISIM
+Genel Kurallar
+
+
+Tefsir
+2. Bu Yasada metin başka türlü gerektirmedikçe:
+“Bakanlık”, Bayındırlık ve Ulaştırma İşleriyle Görevli Bakanlığı anlatır.
+“Elektronik İmza”, başka bir elektronik veriye eklenen veya elektronik veriyle mantıksal bağlantısı bulunan ve kimlik doğrulama amacıyla kullanılan elektronik veriyi anlatır.
+“Elektronik Sertifika”, imza sahibinin imza doğrulama verisini ve kimlik bilgilerini birbirine bağlayan elektronik kaydı anlatır.
+“Elektronik Veri”, elektronik, optik veya benzeri yollarla üretilen, taşınan veya saklanan kayıtları anlatır.
+“İmza Doğrulama Aracı”, elektronik imzayı doğrulamak amacıyla imza doğrulama verisini kullanan yazılım veya donanım aracını anlatır.
+“İmza Doğrulama Verisi”, elektronik imzayı doğrulamak için kullanılan şifreler, kriptografik açık anahtarlar gibi verileri anlatır.
+“İmza Oluşturma Aracı”, elektronik imza oluşturmak üzere, imza oluşturma verisini kullanan yazılım veya donanım aracını anlatır.
+“İmza Oluşturma Verisi”, imza sahibine ait olan, imza sahibi tarafından elektronik imza oluşturma amacıyla kullanılan ve bir eşi daha olmayan şifreler, kriptografik gizli anahtarlar gibi verileri anlatır.
+“İmza Sahibi”, elektronik imza oluşturmak amacıyla bir imza oluşturma aracını kullanan gerçek kişiyi anlatır.
+“Kurum”, Telekomünikasyon Düzenleme Kurumunu anlatır.
+“Kurumsal Kimlik”, kamu hizmeti veren tüm kurum ve kuruluşlar ile bağlı dairelerin  kendileri ve işlevleri ile ilgili, açıkça belirli olan ve üçüncü kişi veya kurumlarca tanınabilen elektronik dizgeyi anlatır.
+ “Zaman Damgası”, bir elektronik verinin, üretildiği, değiştirildiği, gönderildiği, alındığı veya kaydedildiği zamanın tespit edilmesi amacıyla, elektronik sertifika hizmet sağlayıcısı tarafından elektronik imzayla doğrulanan kaydı anlatır.
+
+
+Amaç
+
+3. Bu Yasanın amacı, elektronik imzanın hukuki ve teknik yönleri ile kullanımına ilişkin esasları düzenlemektir.
+
+
+Kapsam
+
+4. Bu Yasa, elektronik imzanın hukuki yapısını, elektronik sertifika hizmet sağlayıcılarının faaliyetlerini ve her alanda elektronik imzanın kullanımına ilişkin işlemleri kapsar.
+
+
+
+
+
+İKİNCİ KISIM
+Güvenli Elektronik İmza, Güvenli Elektronik İmza Oluşturma ve Doğrulama Araçları
+
+
+Güvenli 
+5. Güvenli elektronik imza:			
+Elektronik İmza
+(1)
+Münhasıran imza sahibine bağlı olan;
+
+(2)
+Sadece imza sahibinin tasarrufunda bulunan ve güvenli elektronik imza oluşturma aracı ile oluşturulan;
+
+(3)
+Nitelikli elektronik sertifikaya dayanarak imza sahibinin kimliğinin tespitini sağlayan;
+
+(4)
+İmzalanmış elektronik veride sonradan herhangi bir değişiklik yapılıp yapılmadığının tespitini sağlayan
+
+
+elektronik imzadır.
+
+Güvenli Elektronik 
+6.   (1)
+Güvenli elektronik imza, elle atılan imza ile aynı hukuki sonucu doğurur.
+İmzanın Hukuki Sonucu ve
+Uygulama Alanı
+   (2)
+Yasaların resmi şekle veya özel bir merasime tabi tuttuğu hukuki işlemler ile teminat sözleşmeleri, güvenli elektronik imza ile gerçekleştirilemez.
+
+    
+
+Güvenli Elektronik 
+7. Güvenli elektronik imza oluşturma araçları:
+İmza Oluşturma 
+Araçları
+(1)
+Ürettiği elektronik imza oluşturma verilerinin kendi aralarında bir eşi daha bulunmamasını;
+
+(2)
+Üzerinde kayıtlı olan elektronik imza oluşturma verilerinin araç dışına hiçbir biçimde çıkarılamamasını ve gizliliğini;
+
+(3)
+Üzerinde kayıtlı olan elektronik imza  oluşturma verilerinin, üçüncü kişilerce elde edilememesini, kullanılamamasını ve elektronik imzanın sahteciliğe karşı korunmasını;
+
+(4)
+İmzalanacak verinin imza sahibi dışında değiştirilememesini ve bu verinin imza sahibi tarafından imzanın oluşturulmasından önce görülebilmesini
+
+
+sağlayan imza oluşturma araçlarıdır.
+
+Güvenli
+8. Güvenli elektronik imza doğrulama araçları:
+Elektronik İmza Doğrulama
+ (1)
+ İmzanın doğrulanması için kullanılan verileri, değiştirmeksizin  doğrulama yapan kişiye gösteren;
+Araçları
+ (2)
+İmza doğrulama işlemini güvenilir ve kesin bir biçimde çalıştıran ve doğrulama sonuçlarını değiştirmeksizin doğrulama yapan kişiye gösteren;
+
+ (3)
+Gerektiğinde, imzalanmış verinin güvenilir bir biçimde gösterilmesini sağlayan;
+
+ (4)
+İmzanın doğrulanması için kullanılan elektronik sertifikanın doğruluğunu ve geçerliliğini güvenilir bir biçimde tespit ederek sonuçlarını değiştirmeksizin doğrulama yapan kişiye gösteren;
+
+ (5)
+İmza sahibinin kimliğini değiştirmeksizin doğrulama yapan kişiye gösteren;
+
+ (6)
+İmzanın doğrulanması ile ilgili şartlara etki edecek değişikliklerin tesbit edilebilmesini sağlayan
+
+imza doğrulama araçlarıdır.
+
+
+
+ÜÇÜNCÜ KISIM
+Elektronik Sertifika Hizmet Sağlayıcısı, Nitelikli Elektronik Sertifika ve 
+Yabancı Elektronik Sertifikalar
+
+Elektronik Sertifika     9. 
+Hizmet Sağlayıcısı
+(1)
+
+
+Elektronik sertifika hizmet sağlayıcısı, elektronik sertifika, zaman damgası ve elektronik imzalarla ilgili hizmetleri sağlayan kamu kurum ve kuruluşları ile gerçek veya özel hukuk tüzel kişilerdir.
+
+(2)
+Elektronik sertifika hizmet sağlayıcısı, Kuruma yapacağı bildirimden iki ay sonra faaliyete geçer.
+
+(3)
+(A)
+Elektronik sertifika hizmet sağlayıcısı, Kuruma yapacağı bildirimde:
+
+
+(a)
+Güvenli ürün ve sistemleri kullanmak;
+
+
+
+(b)
+Hizmeti güvenilir bir biçimde yürütmek;
+
+
+
+(c)
+Sertifikaların taklit ve tahrif edilmesini önlemekle ilgili her türlü tedbiri almak
+
+
+
+
+ile ilgili şartları sağladığını ayrıntılı bir biçimde gösterir.
+
+
+(B)
+Kurum, yukarıdaki (A) bendinde öngörülen şartlardan birinin eksikliğini veya yerine getirilmediğini tespit ederse, bu eksikliklerin giderilmesi için, elektronik sertifika hizmet sağlayıcısına bir ayı geçmemek üzere bir süre verir ve  bu süre içinde elektronik sertifika hizmet sağlayıcısının faaliyetlerini durdurur. Sürenin sonunda eksikliklerin giderilmemesi halinde elektronik sertifika hizmet sağlayıcısının faaliyetine son verir. Kurumun bu kararlarına karşı Yüksek İdare Mahkemesine başvurulabilir.
+
+(4)
+Elektronik sertifika hizmet sağlayıcılarının, faaliyetlerinin devamı sırasında yukarıdaki (3)’üncü fıkranın (A) bendinde gösterilen şartları kaybetmeleri halinde de aynı fıkranın (B) bendi kuralları uygulanır.
+
+ (5)
+Elektronik sertifika hizmet sağlayıcıları, Kurumun belirleyeceği ücret alt ve üst sınırlarına uymak zorundadır.
+
+Nitelikli 
+10. Nitelikli elektronik sertifikada aşağıdakilerin bulunması zorunludur:
+Elektronik 
+(1)
+Sertifikanın "nitelikli elektronik sertifika" olduğuna dair bir ibare, 
+Sertifika
+(2)
+Sertifika hizmet sağlayıcısının kimlik bilgileri ve kurulduğu ülke adı,
+
+(3)
+İmza sahibinin teşhis edilebileceği kimlik bilgileri,
+
+(4)
+Elektronik imza oluşturma verisine karşılık gelen imza doğrulama verisi,
+
+(5)
+Sertifikanın geçerlilik süresinin başlangıç ve bitiş tarihleri,
+
+(6)
+Sertifikanın seri numarası,
+
+(7)
+Sertifika sahibi diğer bir kişi adına hareket ediyorsa bu yetkisine ilişkin bilgi,
+
+(8)
+Sertifika sahibi talep ederse mesleki veya diğer kişisel bilgileri, 
+
+(9)
+Varsa sertifikanın kullanım şartları ve kullanılacağı işlemlerdeki maddi sınırlamalara ilişkin bilgileri  ve
+
+(10)
+Sertifika hizmet sağlayıcısının sertifikada yer alan bilgileri doğrulayan güvenli elektronik imzası.
+
+Elektronik                   11.
+Sertifika 
+(1)       
+Elektronik sertifika hizmet sağlayıcısı aşağıdakileri yerine getirmekle yükümlüdür:
+Hizmet
+(A)
+Hizmetin gerektirdiği nitelikte personel istihdam etmek,
+Sağlayıcısının
+Yükümlülükleri
+(B)
+Nitelikli sertifika verdiği kişilerin kimliğini resmi belgelere göre güvenilir bir biçimde tespit etmek,
+
+(C)
+Sertifika sahibinin diğer bir kişi adına hareket edebilme yetkisi, mesleki veya diğer kişisel bilgilerinin sertifikada bulunması durumunda, bu bilgileri de resmi belgelere dayandırarak güvenilir bir biçimde belirlemek,
+
+(Ç)
+İmza oluşturma verisinin sertifika hizmet sağlayıcısı tarafından veya sertifika talep eden kişi tarafından sertifika hizmet sağlayıcısına ait yerlerde üretilmesi durumunda bu işlemin gizliliğini sağlamak veya sertifika hizmet sağlayıcısının sağladığı araçlarla üretilmesi durumunda, bu işleyişin güvenliğini sağlamak,
+
+(D)
+Sertifikanın kullanımına ilişkin özelliklerin ve uyuşmazlıkların çözüm yolları ile ilgili şartların ve yasalarda öngörülen sınırlamalar saklı kalmak üzere güvenli elektronik imzanın elle atılan imza ile eşdeğer olduğu hakkında sertifika talep eden kişiyi sertifikanın tesliminden önce yazılı olarak bilgilendirmek,
+
+(E)
+Sertifikada bulunan imza doğrulama verisine karşılık gelen imza oluşturma verisini başkasına kullandırmaması konusunda, sertifika sahibini yazılı olarak uyarmak ve bilgilendirmek,
+
+(F)
+Yaptığı hizmetlere ilişkin tüm kayıtları Kurul tarafından hazırlanıp, Bakanlıkça önerilecek ve Bakanlar Kurulunca onaylanarak Resmi Gazete’de yayımlanacak bir tüzükte belirlenecek süreyle saklamak ve
+
+(G)
+Faaliyetine son vereceği tarihten en az üç ay önce, durumu Kuruma ve elektronik sertifika sahibine bildirmek.
+
+(2)
+Elektronik sertifika hizmet sağlayıcısı üretilen imza oluşturma verisinin bir kopyasını alamaz veya bu veriyi saklayamaz.
+
+Nitelikli                      12.
+Elektronik            
+(1)
+Elektronik sertifika hizmet sağlayıcısı aşağıdaki durumlarda vermiş olduğu nitelikli elektronik sertifikaları derhal iptal eder:
+Sertifikaların 
+(A)
+Nitelikli elektronik sertifika sahibinin talebi durumunda,
+İptal
+Edilmesi
+(B)
+Sağladığı nitelikli elektronik sertifikaya ilişkin veri tabanında  bulunan bilgilerin sahteliğinin veya yanlışlığının ortaya çıkması veya bilgilerin değişmesi durumunda  ve
+
+(C)
+Nitelikli elektronik sertifika sahibinin fiil ehliyetinin sınırlandığının, iflasının veya gaipliğinin veya ölümünün öğrenilmesi durumunda.
+
+(2)
+Elektronik sertifika hizmet sağlayıcısı, nitelikli elektronik sertifikaların iptal edildiği zamanın tam olarak tespit edilmesine imkan veren ve üçüncü kişilerin hızlı ve güvenli bir biçimde ulaşabileceği bir kayıt oluşturur.
+
+(3)
+Elektronik sertifika hizmet sağlayıcısı, faaliyetine son verecekse ve vermiş olduğu nitelikli elektronik sertifikaların başka bir elektronik sertifika hizmet sağlayıcısı tarafından kullanımının sağlanamaması durumunda vermiş olduğu nitelikli elektronik sertifikaları derhal iptal eder.
+
+(4)
+Elektronik sertifika hizmet sağlayıcısının faaliyetine Kurum tarafından son verilmesi halinde Kurum, faaliyetine son verilen elektronik sertifika hizmet sağlayıcısının vermiş olduğu nitelikli elektronik sertifikalarının başka bir elektronik sertifika hizmet sağlayıcısına devredilmesine karar verir ve durumu ilgililere duyurur.
+
+(5)
+Elektronik sertifika hizmet sağlayıcısı geçmişe yönelik  olarak nitelikli elektronik sertifika iptal edemez.
+
+Bilgilerin        
+13. Elektronik sertifika hizmet sağlayıcısı;
+Korunması  
+
+
+  (1)  
+Elektronik sertifika talep eden kişiden, elektronik sertifika vermek için  gerekli bilgiler hariç bilgi talep edemez ve bu bilgileri kişinin rızası dışında elde edemez.
+
+(2)  
+Elektronik sertifika sahibinin izni olmaksızın sertifikayı üçüncü kişilerin ulaşabileceği ortamlarda bulunduramaz.
+
+(3)  
+Elektronik sertifika talep eden kişinin yazılı rızası olmaksızın üçüncü  kişilerin kişisel verileri elde etmesini engeller. Bu bilgileri sertifika sahibinin onayı olmaksızın üçüncü kişilere iletemez ve başka amaçlarla kullanamaz.
+
+Hukuki                        14.
+Sorumluluk          
+(1)
+Elektronik sertifika hizmet sağlayıcısının, elektronik sertifika sahibine karşı sorumluluğu genel kurallara tabidir.
+
+(2)
+Elektronik sertifika hizmet sağlayıcısı, bu Yasa veya bu Yasaya dayanılarak çıkarılan Tüzük kurallarının ihlali suretiyle üçüncü kişilere verdiği zararları tazminle yükümlüdür. Elektronik sertifika hizmet sağlayıcısı kusursuzluğunu ispat ettiği takdirde tazminat ödeme yükümlülüğü doğmaz.
+
+(3)
+Elektronik sertifika hizmet sağlayıcısı, yukarıdaki (2)’nci fıkrada sözü geçen  ihlalin, istihdam ettiği kişilerin davranışına dayanması halinde de zarardan sorumludur. 
+
+(4)
+Nitelikli elektronik sertifikanın içerdiği kullanım ve maddi kapsamına ilişkin sınırlamalar hariç olmak üzere, elektronik sertifika hizmet sağlayıcısının üçüncü kişilere ve nitelikli elektronik imza sahibine karşı sorumluluğunu ortadan kaldıran veya sınırlandıran her türlü şart geçersizdir.
+
+(5)
+Elektronik sertifika hizmet sağlayıcısı, bu Yasadan doğan yükümlülüklerini yerine getirmemesi sonucu doğan zararların karşılanması amacıyla sertifika mali sorumluluk sigortası yaptırmak zorundadır. Sigortaya ilişkin usul ve esaslar, Kurum tarafından hazırlanıp, Bakanlıkça önerilecek ve Bakanlar Kurulunca onaylanarak Resmi Gazete’de yayımlanacak bir tüzükle belirlenir.
+
+(6)
+Yukarıdaki (5)’inci fıkrada öngörülen sertifika mali sorumluluk sigortası Kuzey Kıbrıs Türk Cumhuriyetinde ilgili branşta çalışmaya yetkili olan sigorta şirketleri tarafından yapılır. Bu sigorta şirketleri sertifika mali sorumluluk sigortasını yapmakla yükümlüdürler. Bu yükümlülüğe uymayan sigorta şirketlerine Kurum tarafından 5,000 YTL (Beş Bin Yeni Türk Lirası) idari para cezası verilir. Kurumun verdiği bu cezaya karşı sigorta şirketleri Yüksek İdare Mahkemesine başvurabilir.
+
+(7)
+Elektronik sertifika hizmet sağlayıcısı, nitelikli elektronik sertifikayı elektronik imza sahibine sigorta ettirerek teslim etmekle yükümlüdür.
+
+Yabancı                       15.
+Elektronik 
+Sertifikalar
+ (1)
+
+
+Yabancı bir ülkede kurulu bir elektronik sertifika hizmet sağlayıcısı tarafından verilen elektronik sertifikaların hukuki sonuçları uluslararası anlaşmalarla belirlenir.
+
+(2)
+Yabancı bir ülkede kurulu bir elektronik sertifika hizmet sağlayıcısı tarafından verilen elektronik sertifikaların, Kuzey Kıbrıs Türk Cumhuriyetinde kurulu bir elektronik sertifika hizmet sağlayıcısı tarafından bu Yasanın 10’uncu maddesindeki kriterler dikkate alınarak kabul edilmesi durumunda, bu elektronik sertifikalar nitelikli elektronik sertifika sayılır. Bu elektronik sertifikaların kullanılması sonucunda doğacak zararlardan, Kuzey Kıbrıs Türk Cumhuriyetindeki elektronik sertifika hizmet sağlayıcısı da sorumludur.
+
+
+DÖRDÜNCÜ KISIM
+Denetim ve Ceza Kuralları
+
+
+Denetim                      16.
+(1)
+Elektronik sertifika hizmet sağlayıcılarının, bu Yasanın ve bu Yasa altında çıkarılan tüzüklerin uygulanmasına ilişkin faaliyet ve işlemlerinin denetimi Kurum tarafından yerine getirilir.
+
+(2)
+Kurum, gerekli gördüğü zamanlarda elektronik sertifika hizmet    sağlayıcılarını denetleyebilir. Denetleme sırasında, denetleme yapmaya yetkili görevliler tarafından, her türlü defter, belge ve  kayıtların verilmesi;  yönetim yerleri, binalar ve eklentilerine girme; yazılı ve sözlü bilgi alma; örnek alma ve işlem ve hesapları denetleme isteminin elektronik sertifika hizmet sağlayıcıları ve ilgililer tarafından yerine getirilmesi zorunludur.
+
+İmza Oluşturma           17. Verilerinin İzinsiz Kullanımı
+
+(1)
+
+
+
+Elektronik imza oluşturma amacı ile ilgili kişinin rızası dışında, imza oluşturma verisi veya imza oluşturma aracını elde eden, veren, kopyalayan ve bu araçları yeniden oluşturanlar ile izinsiz elde edilen imza oluşturma araçlarını kullanarak izinsiz elektronik imza oluşturanlar bir suç işlemiş olurlar ve mahkumiyetleri halinde 15,000 YTL (On Beş Bin Yeni Türk Lirası)’na kadar para cezasına veya üç yıla kadar hapis cezasına veya her iki cezaya birden çarptırılabilirler.
+
+(2)
+Yukarıdaki (1)’inci fıkrada işlenen suçlar elektronik sertifika hizmet sağlayıcısı çalışanları tarafından işlenirse bu cezalar iki katına kadar artırılabilir.
+
+(3)
+Bu maddedeki suçlar nedeniyle oluşan zarar için, zarara uğrayan kişi tazminat davası açabilir.
+
+
+
+Elektronik Sertifikalarda Sahtekarlık
+18.    (1)
+Tamamen veya kısmen sahte elektronik sertifika oluşturanlar veya geçerli olarak oluşturulan elektronik sertifikaları taklit veya tahrif edenler ile yetkisi olmadan elektronik sertifika oluşturanlar veya bu elektronik sertifikaları bilerek kullananlar bir suç işlemiş olurlar ve mahkumiyetleri  halinde 20,000 YTL (Yirmi Bin Yeni Türk Lirası)’na kadar para cezasına veya beş yıla kadar hapis cezasına veya her iki cezaya birden çarptırılabilirler.
+
+(2)
+Yukarıdaki (1)’inci fıkrada öngörülen suçlar elektronik sertifika hizmet   sağlayıcısı çalışanları tarafından işlenirse bu cezalar iki katına kadar artırılabilir.
+
+(3)
+Bu maddedeki suçlar nedeniyle oluşan zarar için, zarara uğrayan kişi tazminat davası açabilir.
+
+İdari Para                    19.
+(1)
+Bu Yasanın;
+Cezaları ve 
+Kapatma
+Cezası
+
+(A)
+11’inci ve 13’üncü maddelerinde belirtilen herhangi bir yükümlülüğü yerine getirmeyen veya bu kurallara aykırı  hareket eden elektronik sertifika hizmet sağlayıcısına, Kurum tarafından 8,000 YTL (Sekiz Bin Yeni Türk Lirası);
+
+(B)
+12’nci maddesinde belirtilen herhangi bir yükümlülüğü yerine getirmeyen veya bu kurallara aykırı  hareket eden elektronik sertifika hizmet sağlayıcısına, Kurum tarafından 5,000 YTL (Beş Bin Yeni Türk Lirası); 
+
+(C)
+14’üncü maddesinde belirtilen herhangi bir yükümlülüğü yerine getirmeyen veya bu kurallara aykırı  hareket eden elektronik sertifika hizmet sağlayıcısına, Kurum tarafından 10,000 YTL (On Bin Yeni Türk Lirası); ve
+
+(Ç)
+16’ncı maddesinin (2)’nci fıkrasında belirtilen herhangi bir yükümlülüğü yerine getirmeyen veya bu kurallara aykırı  hareket eden elektronik sertifika hizmet sağlayıcısına, Kurum tarafından 5,000 YTL (Beş Bin Yeni Türk Lirası)
+
+idari para cezası verilir.
+
+(2)
+Yukarıdaki (1)’inci fıkrada öngörülen suçların ikinci kez işlenmesi halinde Kurumca verilen idari para cezası iki kat artırılarak uygulanır. Üçüncü kez işlenmesi halinde ise Kurum tarafından, elektronik sertifika hizmet sağlayıcıları hakkında kapatma cezası verilir.
+
+(3)
+Yukarıdaki (1)’inci ve (2)’nci fıkra uyarınca Kurum tarafından verilen idari para cezaları ve kapatma cezası verilmesine ilişkin karar, yedi iş günü içerisinde ilgililere tebliğ edilir. Bu kararlara karşı Yüksek İdare Mahkemesine başvurululabilir. 
+
+
+BEŞİNCİ KISIM
+Çeşitli Kurallar
+
+
+Tüzük Yapma Yetkisi
+20. Bu Yasanın 7’nci, 8’inci, 9’uncu, 11’inci ve 15’inci maddelerinin uygulanmasına ilişkin usul ve esaslar, Yasanın yürürlük tarihinden itibaren altı ay içinde ilgili kurum ve kuruluşların görüşleri de alınarak  Kurum tarafından hazırlanıp, Bakanlıkça önerilecek ve Bakanlar Kurulunca onaylanarak Resmi Gazete’de yayımlanacak  tüzüklerle düzenlenir. 
+
+
+Kamu Kurum ve Kuruluşlarına Ait Kurumsal Kimlik
+
+21. Kamu hizmeti veren tüm kurum ve kuruluşlar ile bağlı daireler, bu Yasa uyarınca elektronik olarak sunacakları belgelerde, elektronik imza olarak, kendi kurumlarını tanımlayan ve verecekleri belge amacına uygun, anlaşılır bir şekilde tanımlanmış  elektronik dizge kullanır. 
+
+
+Kamu Kurum ve Kuruluşları Hakkında Uygulanmayacak Kurallar
+
+22. Bu Yasanın 9’uncu maddesinin (4)’üncü ve (5)’inci fıkraları ile 16’ncı maddesi ve 19’uncu maddesinin (2)’nci fıkrası kuralları, elektronik sertifika hizmet sağlama faaliyeti yerine getiren kamu kurum ve kuruluşları hakkında uygulanmaz.
+
+ALTINCI KISIM
+Geçici ve Son Kurallar
+
+
+Geçici Madde Telekomüni-kasyon Üst Kurulu
+1.     (1)
+
+
+Bu Yasa ile Kuruma verilen yetki ve görevler, sözkonusu Kurum yasal olarak kuruluncaya kadar aşağıda belirtilen kişilerden oluşan Telekomünikasyon Üst Kurulu tarafından yerine getirilir.
+
+
+(2)
+Telekomünikasyon Üst Kurulu, Başbakanın önerisi ile Bakanlar   Kurulunca atanacak aşağıda belirtilen sekiz kişiden oluşur:
+
+
+(A)
+Bayındırlık ve Ulaştırma İşleriyle Görevli Bakan tarafından saptanacak üç üye; Bakanlar Kurulu üç üye arasından birini Başkan olarak atar.
+
+
+(B)
+Bakanlar Kurulu Kararı ile oluşturulan Kamu Net Üst Kurulunda görev yapan üyeler arasından Başbakan tarafından saptanacak iki üye;
+
+
+(C)
+Yayın Yüksek Kurulu tarafından kendi üyeleri arasından saptanacak bir üye;
+
+
+(Ç)
+Bayrak Radyo Televizyon Kurumu tarafından bu Kurumda görevli personel arasından saptanacak bir üye; ve
+
+
+(D)
+Kıbrıs Türk Sanayi Odası tarafından bilişimci üyeleri arasından saptanacak bir üye.
+
+10/2010
+2/2011
+43/2011
+(3)
+Telekomünikasyon Üst Kurul üyelerinin görev süresi bir yıldır. Bir yılın sonunda Kurumun yasal olarak kurulamaması halinde, Bakanlar Kurulu, Telekomünikasyon Üst Kurulu üyelerinin  görev sürelerini en fazla beş defa olmak üzere altı aylık sürelerle uzatabilir.
+
+
+(4)
+Kurul, üye tam sayısının salt çoğunluğu ile toplanır ve kararlarını da üye tam sayısının salt çoğunluğu ile alır.
+
+
+(5)
+Sürekli çalışan Kurul ayda en az bir kez toplanır. Gerektiği takdirde Başkanın veya en az dört üyenin istemi ile Kurul olağanüstü toplanabilir. Olağan ve olağanüstü toplantıların günü, saati ve gündemi Başkan tarafından saptanır ve üyelere yazılı olarak duyurulur.
+
+
+         (6)
+(A)    
+(a)
+Kurul Başkanı, tam zamanlı olarak görev yapar ve Başkanlığı süresince başka herhangi bir işle iştigal edemez.
+
+
+
+
+(b)
+Kurul Başkanına, Bakanlar Kurulunca 18A bareminin en üst basamağından az olmamak kaydıyla saptanan aylık ödenek ödenir.
+
+
+
+
+(c)
+Kurul Başkanı kamu görevlileri arasından atanmışsa, kamu görevlisinin asli kadrosunda çekmekte olduğu maaşı, Bakanlar  Kurulunun bu fıkranın (b) alt bendi uyarınca saptayacağı miktara tamamlanır. 
+        Ancak bu ödenek emeklilik amaçları bakımından Başkana menfaat sağlamaz. Görev süresinin dolması halinde Başkan eski baremi ile birlikte eski görevine iade edilir. Bu gibi hallerde Başkan olarak geçirdiği süre, barem içi artışında ve emeklilik amaçları açısından fiili hizmet süresi olarak dikkate alınır. Kamu görevi dışından atanan Kurul Başkanının görev süresinin sona ermesi halinde, bu kişinin Kurul ile ilişkisi kesilir.
+
+
+
+(B)
+Kurul üyelerine, tolpantı yaptıkları her gün için Bakanlar Kurulunca  saptanacak miktarda huzur hakkı ödenir.
+
+
+
+(7)
+Kurulun sekreterya hizmetleri Bakanlık personeli tarafından yerine getirilir.
+
+
+
+(A)
+Kurul Başkan ve üyesi olarak atanacak kişilerde aşağıdaki nitelikler aranır:
+
+
+
+
+  (a)
+Kuzey Kıbrıs Türk Cumhuriyeti Yurttaşı olmak.
+
+
+
+
+  (b)
+Üniversite veya dengi bir yüksekokuldan mezun olmak.
+
+
+
+
+  (c)
+Kamu haklarından yasaklı bulunmamak.
+
+
+
+
+  (ç)
+Bir yıldan fazla hapis cezasına çarptırılmamış olmak veya affa uğramış olsalar dahi, rüşvet, hırsızlık, dolandırıcılık, sahtekarlık, irtikap, ırza geçme, hileli iflas ve benzeri yüz kızartıcı suçlardan dolayı mahkum olmamış olmak.
+
+
+
+
+  (d)
+Disiplin suçundan ötürü Kamu hizmetinden azledilmemiş olmak.
+
+
+(B)
+Kurul Başkanı olarak atanacak kişide yukarıdaki (A) bendinde öngörülen genel nitelikler yanında aşağıdaki özel nitelikler aranır:
+
+
+
+  (a)
+Kamu görevinde veya kamu görevi dışında sorumluluk taşıyan bir görevde en az on yıl çalışmış olmak  veya
+
+
+
+  (b)
+Doktora seviyesinde lisans üstü eğitim yapmış ve kamu görevinde veya kamu görevi dışında sorumluluk taşıyan bir görevde en az beş yıl çalışmış olmak.
+
+
+
+Yürütme Yetkisi
+
+Yürürlüğe Giriş
+
+23. Bu Yasayı, Bayındırlık ve Ulaştırma İşleriyle Görevli Bakanlık yürütür.
+
+
+
+
+24. Bu Yasa, Resmi Gazete’de yayımlandığı tarihten altı ay sonra yürürlüğe girer.
+
+
+

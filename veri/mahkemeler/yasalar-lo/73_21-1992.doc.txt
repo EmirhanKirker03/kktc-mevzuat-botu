@@ -1,0 +1,478 @@
+﻿RG Sayı : 49
+
+12 Mayıs, 1992
+
+	Kuzey Kıbrıs Türk Cumhuriyeti Cumhuriyet Meclisi’nin 28 Nisan, 1992 tarihli birleşiminde kabul olunan “Banka ve Sigorta İşlemleri Vergisi Yasası”, Anayasa’nın 94(1) maddesi gereğince Kuzey Kıbrıs Türk Cumhuriyeti Cumhurbaşkanı tarafından Resmi Gazete’de yayımlanmak suretiyle ilân olunur.
+
+Sayı: 21/1992
+BANKA VE SİGORTA İŞLEMLERİ VERGİSİ YASASI
+(5/1998; 72/2007 ve 47/2008 sayılı Yasa ile değiştirilmiş ve birleştirilmiş şekliyle)
+
+MADDE DİZİNİ:
+Madde   1.   Kısa isim
+BİRİNCİ KISIM 
+Verginin Konusu ve Vergiyi Doğuran Hizmet Unsurları
+Madde   2.   Tanımlar
+Madde   3.   Amaç
+Madde   4.   Verginin konusu ve vergiye bağlı işlem unsurları
+Madde   5.   İstisnalar ve İstisnaların Sınırı
+İKİNCİ KISIM
+Yükümlü, Vergi sorumlusu, Matrah ve Oranlar
+Madde   6.   Yükümlü
+Madde   7.   Vergi sorumlusu
+Madde   8.   Vergiyi Doğuran Olay
+Madde   9.   Matrah
+Madde  10.  Emsal bedeli veya emsal ücreti
+Madde  11.  Yabancı para ile olan işlemler
+Madde  12.  Vergi oranı
+ÜÇÜNCÜ KISIM 
+Vergilendirme dönemi ve Beyan Esası
+Madde  13.  Vergilendirme dönemi
+Madde  14.  Beyan esası
+Madde  15.  Beyanname verme zamanı
+Madde  16.  Beyannamenin şekil ve içeriği
+DÖRDÜNCÜ KISIM 
+Tarh İşlemleri ve Verginin Ödenmesi
+Madde  17.  Tarh yeri
+Madde  18.  Tahriyatın muhatabı
+Madde  19.  Verginin Ödenmesi
+       BEŞİNCİ KISIM – Diğer Kurallar
+Madde  20.  Verginin gösterilmesi
+Madde  21.  Verginin gider olarak indirilebilmesi
+Madde  22.  Gelir ve Vergi Dairesinin yetkileri
+ALTINCI KISIM 
+Son Kurallar
+Madde  23.  Yasanın uygulanması
+Madde  24.  Yürütme
+Madde  25.   Yürürlüğe giriş
+   
+Kuzey Kıbrıs Türk Cumhuriyeti Cumhuriyet Meclisi aşağıdaki Yasayı yapar.
+
+Kısa İsim
+1.
+Bu Yasa, Banka ve Sigorta İşlemleri Vergisi Yasası olarak isimlendirilir.
+
+BİRİNCİ KISIM
+Verginin Konusu ve Vergiyi Doğuran Hizmet Unsurları
+
+Tanımlar
+2.
+Bu Yasa’da metin başka türlü gerektirmedikçe ;
+
+
+
+“Arbitraj İşlemi”, Dövizlerin, gerekli olduğu hallerde diğer dövizlerle değiştirilmesi ile ilgili işlemi anlatır.
+39/2001
+59/2002
+Bölüm 114
+  8/1959
+51/1983
+
+
+“Banka”,  Kuzey Kıbrıs Türk Cumhuriyeti Bankalar Yasası uyarınca faaliyet gösteren bankaları ve Kooperatif Şirketler Yasası uyarınca  kurulmuş olup mevduat  kabulü  ile  kredi  işlemi yapan kuruluşları  ve  Kuzey Kıbrıs Türk Cumhuriyeti Merkez Bankasını  anlatır.
+72/2007
+
+ 39/2001
+59/2002
+
+
+“Banka Kartları Şirketi”, Kuzey Kıbrıs Türk Cumhuriyetinde, Kuzey Kıbrıs Türk Cumhuriyeti Bankalar Yasası uyarınca faaliyet gösteren bankaların ortaklığı ile kurulan ve hissedar bankalara münhasıran kredi kartları sistemleri hizmeti sağlayan tüzel kişileri anlatır.”
+
+28/2002
+
+
+“Banker”, Para ve diğer menkul kıymetler ticareti ile kredi  işlemlerinde aracılık eden, alım satımını yapan gerçek veya tüzel kişileri anlatır.
+
+
+
+“Devlet ”,  Kuzey Kıbrıs Türk Cumhuriyeti Devletini anlatır.
+
+
+
+
+“Hesaben Alınan Para”, Vergiye bağlı işlem unsurlarını sağlayanları, bu hizmetlerden yararlananlara karşı alacaklı durumda gösteren kayıt işlemlerini anlatır.
+
+
+
+“Kambiyo İşlemi”, Yabancı paraların alım ve satımı veya tedavüldeki para birimi ile değiştirilmesi hususunda yapılan işlemleri anlatır.
+
+
+
+“Kredi Şirketi”, Belli bir para miktarının kullanılmasını belli bir süre ile diğer bir kişi lehine bırakmayı meslek haline getirmiş gerçek veya  tüzel  kişileri anlatır ve “Yatırım Şirketi” adı  veya başka bir statü altında faaliyet gösteren kuruluşları da kapsar.
+
+
+
+“Menkul Kıymet”, Ortaklık veya alacaklılık sağlayan, belli bir para  miktarını temsil eden hisse senetlerine, tahvilleri ve hazine bonolarını ve bunun dışında kalan mali değerleri temsil eden ve çıkaranın mali yükümlülüklerini içeren her türlü belgeyi anlatır.
+
+
+
+“Reeskont İşlemi”, Bir bankaya iskonto ettirilmiş bir senedin bu banka tarafından yeniden iskonto ettirilmesi işlemini anlatır.
+
+
+
+“Retrosesyon İşlemi”, Mükerrer sigortalarda  kendi  mahfuz hisselerini  aşan kısmının, diğer bir mükerrer sigorta şirketi nezdinde sigorta ettirilmesi işlemini anlatır.
+
+
+
+“Sigorta Şirketi”, Bir prim karşılığında diğer bir kimsenin para ile ölçülebilir bir menfaatini zarara uğratan bir rizikonun meydana gelmesi halinde, tazminat vermeyi veya bir veya daha fazla kişinin hayat süreleri nedeniyle veya hayatlarında meydana gelen belli birtakım olaylar dolayısıyla bir para ödemeyi veya sair edalarda  bulunmayı üstlenen ve bunu meslek haline getiren kuruluşları anlatır.
+38/1982
+     1982
+22/1987
+     1987
+46/1992
+46/1996
+
+
+“Yetkili Müessese”, Para ve Kambiyo İşleri Yasası uyarınca  döviz almaya, döviz satmaya ve döviz bulundurmaya yetkili kılınmış kuruluşu anlatır ve bu işlemleri yapan kişileri de kapsar.
+
+
+
+“Vergi “, Bu Yasada belirtilen Banka ve Sigorta İşlemleri Vergisini anlatır.
+
+Amaç
+
+72/2007
+3.
+Bu Yasanın amacı, Kuzey Kıbrıs Türk Cumhuriyetinde kayıtlı veya faaliyet gösteren gerçek veya tüzel kişilerin veya bunların şube veya temsilciliklerinin her türlü bankacılık, sigortacılık, bankerlik ve her türlü ödünç para verme ile kambiyo işlemleri ve kredi kartı ödemeleri nedeniyle yapmış oldukları hizmetleri ve bankaların yurt dışındaki bankalara ve/veya menkul değerler cüzdanına yatırım işlemlerini vergilendirmektir.
+
+Verginin Konusu ve Vergiye Bağlı İşlem Unsurları.
+72/2007
+4.
+(1)
+Banka, Sigorta ve Banka Kartları Şirketlerinin, her ne şekilde olursa olsun, yapmış oldukları tüm işlemler nedeniyle kendi lehlerine, her ne ad altında olursa olsun yurt içinden veya yurt dışından nakden veya hesaben aldıkları paralar ile yurt dışındaki bankalara ve menkul kıymetlere yaptıkları yatırım tutarları vergiye bağlıdır. Yapılan işlemin vergilendirilmesi için bir bankacılık veya sigortacılık işlemi olması koşul değildir
+
+
+(2)
+Bankerler ve kredi şirketleri ile diğer gerçek veya tüzel kişilerin yapmış oldukları her türlü  bankacılık işlem ve hizmetleri dolayısıyla kendi lehlerine, her ne ad altında olursa olsun, nakden veya hesaben aldıkları paralar; kendileri veya başkaları hesabına menkul kıymet alıp satmayı, alım-satıma aracılık etmeyi veya alıp sattıkları menkul kıymet karşılığı borçları ödemeyi taahhüt etmeyi meslek haline  getirenlerin  veya devamlı ödünç para verenlerin bu faaliyetleri dolayısıyla lehlerine kalan paralar ; ile mevduat faizi vermek ve sair adlarla faiz ve benzeri menfaatler sağlamak üzere para toplama işleriyle uğraşanların, topladıkları paralarla sağladıkları gelir ve menfaatler üzerinden komisyon, ücret ve hizmet karşılığı gibi adlarla aldıkları paralar vergiye bağlıdır.
+
+
+(3)
+Banka, sigorta şirketi, kredi şirketi, banker, yetkili müessese  ve  benzeri unvan ve statüler altında faaliyet gösteren gerçek veya tüzel kişilerin arbitraj, kambiyo  ve  reeskont  işlemleri ile her türlü menkul kıymet işlemleri dolayısıyla ifa ettikleri hizmetler için kendi  lehlerine, her ne ad altında olursa olsun, nakden veya hesaben aldıkları paralar vergiye bağlıdır.
+
+
+(4)
+Bu Yasa, amaçları bakımından ikraz işleriyle uğraşanlar ile (1)’inci, (2)’inci ve (3)’üncü fıkralarda belirtilen hizmetlerden bir veya birkaçı ile uğraşanlar da banker sayılırlar. 
+     Ancak, sadece altın alım-satımı ile uğraşanlar banker sayılmaz.
+72/2007
+
+(5)
+
+Bankalar, topladıkları mevduatların %55 (Yüzde Ellibeş)’ini ve daha azını Kuzey Kıbrıs Türk Cumhuriyetinde plasman yapmaları halinde, yurt dışındaki bankalar ile yurt dışındaki menkul değerler cüzdanında bulundurdukları ve bilançolarında yer alan paralardan, yurt dışı muhabirleri üzerinden verilen teminat mektuplarında (kontrgaranti) belirtilen paralar, teyitli akreditif miktarları, kredi kartı bloke miktarları ve POS cihazı bloke miktarları indirildikten sonra kalan para miktarı üzerinden vergiye bağlıdırlar.
+72/2007
+
+
+(6)
+
+Banka Kartları Şirketlerinin her türlü kredi kartı ödeme sistemleri dolayısıyla kendi lehlerine, her ne ad altında olursa olsun nakden veya hesaben aldıkları paralar vergiye bağlıdır.
+
+
+(7)
+(A)
+İşlemlere taraf olanlar arasında akrabalık, ortaklık veya işveren-işçi ilişkisinin bulunması veya işlemlerin para yerine başka bir kıymet ile yapılması, verginin doğmasını engellemez.
+
+
+
+(B)
+İşlemin emsallerine göre daha düşük bedel ile yapılmış olması halinde, işlem, emsal bedeli üzerinden değerlendirilir ve bu miktar üzerinden vergilendirilir.
+
+
+(8)
+Vergilendirme işlemine bağlı tutulmuş bulunan ve hesaben alınan paraların sonradan nakden ödenmesi halinde, ayrıca vergilendirme işlemi yapılmaz.
+
+İstisnalar ve İstisnaların 
+5.
+(1)
+Aşağıda belirtilen işlemler dolayısıyla alınan paralar vergiden istisnadır.
+Sınırı
+
+
+(A)
+Merkezleri  Kuzey Kıbrıs Türk Cumhuriyetinde bulunan  bankaların, Kuzey Kıbrıs Türk Cumhuriyetindeki  kendi şubeleriyle ve şubelerin de birbirleriyle yaptıkları işlemler dolayısıyla tahakkuk eden paralar;
+
+
+
+(B)
+Merkezleri Kuzey Kıbrıs Türk Cumhuriyeti dışında bulunan bankaların, Kuzey Kıbrıs Türk Cumhuriyetinde mevcut şubelerinin birbirleriyle  yaptıkları  işlemler  dolayısıyla  tahakkuk eden paralar,
+
+
+
+(C)
+Özel Yasalarla her türlü vergiden istisna tutulan senetlerin ve tahvillerin, faiz, temettü ve ikramiyeleri,
+
+
+
+(Ç)
+Bankaların, bankerlerin, kredi ve sigorta şirketlerinin  sermayelerine 	iştirak ettikleri banka, banker, kredi ve sigorta şirketlerinin, bu  Yasaya göre vergiye  bağlı işlemlerden oluşan kârları;
+2.5/1998
+(10.2.1998)
+
+
+(D)
+Mükerrer sigorta  işlemleri  ile  retrosesyon  işlemleri ve Hayat Sigortası işlemleri dolayısıyla anılan prim, komisyon ve sair paralar,
+
+
+
+(E)
+Bankaların, bankerlerin, kredi ve sigorta şirketlerinin sermayelerine iştirak ettikleri sınai işletmelerden elde ettikleri kâr payları;
+
+
+
+(F)
+Biçilmemiş veya toplanmamış her türlü tarım ürünlerinin sigortası ile tarım hayvanları için akdedilen sigortalar dolayısıyla alınan paralar;
+41/1976
+24/1977
+62/1977
+11/1980
+35/1983
+36/1987
+70/1993
+
+
+(G)
+Devletin taşınır veya taşınmaz mallarının sigorta ettirilmesinden dolayı alınan paralar.
+
+
+
+(Ğ)
+Kurumlar Vergisi Yasası uyarınca Kurumlar Vergisinden  istisna  tutulmuş, kredi şirketi statüsündeki kooperatiflere, Kooperatif Merkez Bankası tarafından tahakkuk ettirilen faiz ve sair paralar,
+47/2008
+
+
+(H)
+Kuzey Kıbrıs Türk Cumhuriyeti Merkez Bankasının oluşturduğu piyasalarda yapılan işlemler dolayısıyla tahakkuk eden paralar.
+
+
+
+(2)
+Diğer Yasalardaki vergi muaflık ve istisna kuralları bu vergi bakımından geçersizdir. Bu Yasaya ilişkin muaflık ve istisnalar, ancak bu Yasaya kural eklemek veya bu Yasada değişiklik yapılmak suretiyle düzenlenir. Uluslararası andlaşma kuralları saklıdır.
+
+İKİNCİ  KISIM
+Yükümlü, Vergi Sorumlusu, Matrah ve Oranlar
+
+Yükümlü
+6.
+Verginin yükümlüsü, bu Yasanın 4’üncü maddesinde belirtilen işlemleri yapan gerçek veya tüzel kişilerdir.
+
+Vergi  Sorumlusu
+7.
+Gelir ve Vergi Dairesi, vergi alacağının güvence altına alınması amacıyla,  vergiye bağlı işlemlere taraf olanları veya ilgili diğer gerçek veya tüzel kişileri verginin ödenmesinden sorumlu tutabilir.
+
+Vergiyi  Doğuran Olay
+72/2007
+8.
+(1)
+Vergiyi doğuran olay, bu Yasanın 4’üncü maddesinde belirtilen vergiye bağlı işlemlerin yapılması veya bu işlemlerin yapılması karşılığında oluşan bedelin nakden alınması veya hesaben kayda geçirilmesi anında oluşur.
+
+
+
+(2)
+4’üncü maddede belirtilen vergiye bağlı işlemlerin yapılmasından  önce  bedelin nakden alınması veya hesaben kayda geçirilmesi hallerinde, fatura veya benzeri belgelerde gösterilen miktarlarla sınırlı olmak üzere, bu belgelerin düzenlenmesi vergiyi doğuran olayı oluşturur.
+Matrah
+72/2007
+9.
+(1)
+Verginin matrahı, bu Yasanın 4’üncü maddesinde belirtilen işlemlerin yapılması sonucu saptanan veya belirtilen hizmetlerin karşılığını oluşturan paraların tutarıdır.
+
+
+(2)
+Kambiyo işlemlerinde ise, kambiyo satışlarının tutarı vergiye matrah olur. Bankaların, yetkili  müesseselerin ve diğer kuruluşların, zorunlu  devirler dahil, Kuzey Kıbrıs Türk Cumhuriyeti Merkez Bankasına yapacakları  döviz  devirleri ile bu Yasa’nın 4’üncü maddesinin (3)’üncü  fıkrasında  belirtilen kuruluşlarca yapılan arbitraj işlemleri de kambiyo işlemi sayılır ve devredilen satış tutarı üzerinden vergiye bağlı tutulur.
+	Satış bedelinin alış kurunun üzerinde olup olmaması veya bu satıştan lehe bir para kalıp kalmaması, vergi matrahının oluşmasına  engel  teşkil etmez.
+72/2007
+
+(3)
+Topladıkları mevduatların %55 (Yüzde Ellibeş)’ini ve daha azını Kuzey Kıbrıs Türk Cumhuriyetinde plasman yapan bankaların, yurt dışı muhabirleri üzerinden verilen teminat mektuplarında (kontrgaranti) belirtilen paralar, teyitli akreditif miktarları, kredi kartı bloke miktarları ve POS cihazı bloke miktarları dışında, yurt dışındaki bankalar ile yurt dışındaki menkul değerler cüzdanında bulundurdukları ve bilançolarında yer alan paraların günlük bakiyelerinin aylık ortalama tutarı vergiye bağlı tutulur.
+
+
+
+(4)
+Vergi matrahından gider ve vergi adı altında  indirim yapılamaz ve bu Yasa uyarınca alınan vergi matraha dahil edilmez.
+
+
+(5)
+Sigorta şirketleri, bir vergilendirme dönemi içinde iptal ettikleri sigorta işlemlerine ait miktarları ilgili dönemin vergi matrahından indirebilirler. Bu indirimden yararlanmak için Gelir ve Vergi Dairesinin iptal işlemine ilişkin olarak isteyeceği bilgi ve belgelerin verilmesi koşuldur.
+
+Emsal Bedeli  veya Emsal  Ücreti
+10.
+(1)
+Bedeli bulunmayan veya bedeli bilinmeyen işlemler ile, bedelin mal, menfaat ve hizmet gibi paradan başka değerler olması halinde matrah, işlemin  mahiyetine göre emsal bedeli veya emsal ücretidir.
+27/1977
+13/1980
+
+(2)
+Emsal bedeli veya emsal ücreti, Vergi Usul Yasası kurallarına göre saptanır.
+
+Yabancı Para ile Olan İşlemler
+
+11.
+Yabancı para üzerinden yapılmış olan işlemlere ilişkin vergi matrahlarının saptanmasında, bu işlemlerin yapıldığı günde ilân edilen kurlar esas alınır.
+
+Vergi  Oranı
+12.
+(1)
+Verginin oranı, vergiye bağlı her işlem için :
+
+
+
+(A)
+Sigorta işlemleri dışında kalan ve bu Yasanın 4’üncü maddesinde belirtilen işlemlerde matrahın  % 3’ü  (Yüzde üçü)’dür.
+
+
+
+(B)
+Sigorta işlemlerinde matrahın  % 5’i  (Yüzde beşi )’dir.
+
+
+
+(C)
+Kuzey Kıbrıs Türk Cumhuriyeti Merkez Bankası ile bankalar arasındaki reeskont işlemlerinde matrahın  % 2’si  (Yüzde ikisi)’dir.
+
+
+
+(Ç)
+Kambiyo işlemlerinde matrahın  % 0.1’i  (Binde biri )’dir.
+72/2007
+
+
+(D)
+Yurtdışındaki bankalarda ve menkul değerler cüzdanında bulundurulan tutarların oluşturduğu matrahın % 0.1 (Bindebiri)’dir.
+72/2007
+
+
+(E)
+Kuzey Kıbrıs Türk Cumhuriyeti Merkez Bankasının oluşturduğu döviz ve efektif alım-satım piyasasında yapılan işlemlerde % 0.05 (Binde Yarım)’dır.
+
+
+
+
+
+(2)
+Bakanlar Kurulu, Resmi Gazete’de yayımlayacağı bir Emirname ile (1)’inci fıkrada öngörülen oranları yarısına kadar indirmeye, ayrıca  (1)’inci  fıkrada öngörülen oranların yarısı ile bu oranlar arasındaki sınırlar içerisinde kalmak koşuluyla, vergiye bağlı muhtelif işlem  türlerine göre farklı  vergi  oranları saptamaya yetkilidir.
+
+
+ÜÇÜNCÜ  KISIM
+Vergilendirme Dönemi ve Beyan Esası
+
+Vergilendirme Dönemi
+13.
+Banka ve sigorta işlemleri vergisinde vergilendirme dönemi, faaliyet gösterilen takvim yılının birer aylık dönemleridir.
+
+Beyan Verme
+14.
+(1)
+Banka ve sigorta işlemleri vergisi, vergi yükümlülerinin yazılı beyanı üzerine tarh edilir.
+
+
+(2)
+Herhangi bir vergilendirme döneminde vergiye bağlı işlemleri olmayan vergi yükümlüleri de beyanname vermek zorundadırlar.
+
+Beyanname  Verme Zamanı
+15.
+Vergi yükümlüleri, 14’üncü madde uyarınca düzenleyecekleri beyannameleri, ilgili vergilendirme dönemini izleyen ayın 15’inci günün sonuna kadar işlemlerin yapıldığı yerdeki Gelir ve Vergi Dairesine vermekle yükümlüdürler.
+	Ayrıca, vergi yükümlüleri, her yılın en geç Şubat ayı içerisinde, bir önceki yıl için Gelir ve Vergi Dairesine ödedikleri vergilerin özetini gösteren yıllık bir bildirimi de vermek zorundadırlar.
+
+Beyanname-nin Şekil ve İçeriği
+16.
+Banka ve sigorta işlemleri vergisi beyannameleri ile yıllık bildirimlerin şekil ve içeriği Gelir ve Vergi Dairesi tarafından belirlenir ve düzenlenir.
+
+DÖRDÜNCÜ  KISIM
+Tarh İşlemleri ve Verginin Ödenmesi.
+
+Tarh Yeri.
+72/2007
+17.
+Banka ve Sigorta İşlemleri Vergisi, Banka ve Sigorta İşlemleri Vergisi yükümlülerinin bağlı bulunduğu Gelir ve Vergi Dairesince tarh edilir.
+
+Tarhiyatın Muhatabı.
+18.
+(1)
+Banka  ve  Sigorta  İşlemleri  Vergisi,  bu vergiyi ödemekle yükümlü gerçek veya tüzel  kişiler adına tarh edilir.
+
+
+(2)
+Gelir ve Vergi Dairesi, vergi alacağının güvence altına alınması amacıyla, bu Yasa’nın  7’nci maddesi uyarınca vergi sorumlusu tayin edebilir.
+
+Verginin  Ödenmesi.
+19.
+(1)
+Vergi yükümlüleri, bir vergilendirme döneminde yaptıkları vergiye bağlı işlemlere ilişkin vergiyi, 15’inci maddede belirtilen beyanname verme süresi içinde Gelir ve Vergi Dairesine ödemek zorundadırlar.
+
+
+(2)
+İkmalen veya re’sen tarh edilen vergiler, ilgili vergilendirme  dönemine ait ödeme tarihinden önce tahakkuk etmiş ise, ilgili vergilendirme dönemine ait ödeme süresi içinde, ödeme süreleri kısmen veya tamamen geçmiş olan vergilendirme dönemleri ile ilgili olarak tahakkuk  eden vergiler ise,  tarhiyatın yapıldığı ayı izleyen ayın sonuna kadar ödenir.
+
+48/1977
+28/1985
+31/1988
+31/1991
+23/1997
+54/1999
+
+(3)
+Süresinde ödenmeyen vergiler, Kamu Alacaklarının Tahsili Usulü Yasası kuralları uyarınca gecikme zammı ile birlikte tahsil edilir.
+BEŞİNCİ  KISIM
+Diğer Kurallar
+
+Verginin Gösterilmesi
+20.
+Vergi yükümlüleri, bu Yasa kuralları uyarınca nakden veya hesaben tahsil ettikleri vergileri, defter  kayıtlarında göstermek ve kayıtlarını bu verginin hesaplanmasına ve denetimine olanak verecek şekilde düzenlemek  zorundadırlar. Bu işlemi  yapanlar, tahsil ettikleri vergileri  yükümlülere verecekleri fatura veya benzeri belgelerde de ayrıca gösterirler.
+
+Verginin 
+Gider Olarak İndirilebilmesi
+21.
+(1)
+Vergiye bağlı işlemlerin, bu işlemlere muhatap olanların ticari, sınai, mesleki veya tarımsal faaliyetleri ile ilgili bulunması hallerinde, bu kişiler tarafından ödenen verginin faaliyetleri ile ilgili kısmı, Gelir veya Kurumlar Vergisi matrahından gider olarak indirilebilir.
+	Ancak, ödenen verginin işlemle ilgili belge üzerinde gösterilmemiş olması halinde, bu vergi indirim olarak kabul edilmez.
+
+
+(2)
+Banka ve sigorta işlemleri vergisi, (1)’inci fıkrada belirtilen indirim dışında başka hiçbir vergi türünden indirilemez veya mahsup edilemez.
+
+
+(3)
+Bir vergilendirme dönemi içinde vergi yükümlülüğü ve vergi sorumluluğu dolayısıyla bu Yasadaki zorunlulukları yerine getirmek durumunda olanlar, tahsil ettikleri  ve ödedikleri vergilerin birbirine mahsubunu yapamazlar.
+
+Gelir ve Vergi Dairesinin Yetkileri
+27/1977
+13/1980
+48/1977
+28/1985
+31/1988
+31/1991
+23/1997
+54/1999
+
+22.
+(1)
+Bu Yasada  belirtilen  zorunlulukların  ve  yükümlülüklerin  gerektiği  gibi zamanında yerine getirilmemesi dolayısıyla tamamen veya  kısmen  kayba uğratılan vergi veya vergi farkı miktarı, Gelir ve Vergi Dairesi tarafından, herhangi bir zamanda vergi yükümlüsünden, vergi yükümlüsünün bulunmaması veya ödeme gücünün olmaması halinde  vergi  sorumlusundan, Vergi Usul Yasası’ndaki ceza kuralları saklı  kalmak koşuluyla, Kamu Alacaklarının Tahsili Usulü Yasası kuralları uyarınca tahsil edilir.
+
+
+(2)
+Gelir ve Vergi Dairesi, herhangi bir vergi yükümlüsünün veya vergi sorumlusunun ödeyeceği vergi miktarını azaltan bir işlemin yapay,  uydurma, muvazaalı veya gerçek dışı olduğu kanaatine varması halinde, böyle  bir işlemi dikkate almaz.
+
+
+(3)
+Gelir ve Vergi Dairesi, yükümlülerin veya vergi sorumlularının vergi işlemlerinde kullanılacak belge içeriklerine ve kayıt düzenine yeknesaklık getirmek ve denetimi kolaylaştırmak amacıyla gerekli gördüğü hallerde bunlarla ilgili usul ve esasları belirler.
+
+ALTINCI  KISIM
+Son Kurallar
+
+Yasanın  Uygulanması
+27/1977
+13/1980
+
+23.
+Bu Yasa kurallarının uygulanmasında yürürlükteki Vergi Usul Yasası kuralları uygulanır.
+Yürütme
+24.
+Bu Yasayı, Bakanlar Kurulu adına, Maliye işleriyle görevli Bakan yürütür.
+
+Yürürlüğe
+Giriş1
+25.
+Bu Yasa, Bakanlar Kurulunun  Resmi Gazete’de yayımlayacağı bir Tebliğ ile belirleyeceği tarihten başlayarak yürürlüğe girer.
+
+
+72/2007 sayılı değişiklik yasasının Yürürlüğe Giriş ve Uygulama Kuralları
+
+Bu (Değişiklik) Yasanın 7’nci maddesinin (1)’inci fıkrası ile eklenen  verginin uygulaması Bakanlar Kurulu’nun uygulama ile ilgili Karar ürettiği tarihten başlayarak, diğer madde kuralları ise Resmi Gazete’de yayımlandığı tarihten başlayarak yürürlüğe girer.
+					------------------------------------

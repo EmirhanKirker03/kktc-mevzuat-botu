@@ -1,0 +1,821 @@
+﻿KUZEY KIBRIS TÜRK CUMHURİYETİ 
+KAMU FİNANSMANI VE BORÇ YÖNETİMİ YASASI
+                                                              İÇ DÜZENİ
+
+
+Madde 1.
+Kısa İsim
+
+
+
+BİRİNCİ KISIM
+Genel Kurallar
+Madde 2.
+Tefsir
+Madde 3.
+Amaç 
+Madde 4.
+Kapsam
+
+
+
+İKİNCİ KISIM
+Komitenin Oluşumu ve Yetkisi
+
+Madde 5.
+Komitenin Oluşumu, Görev ve Yetkisi
+Madde 6.
+Borç Yönetim Stratejisi
+
+
+
+ÜÇÜNCÜ KISIM
+Limit, İç ve Dış Borçlanma
+
+Madde 7.
+Borçlanma, Garanti ve İkraz Limiti
+Madde 8.
+İç Borçlanma
+Madde 9.
+Dış Borçlanma
+
+
+
+DÖRDÜNCÜ KISIM
+Devlet Garanti veya Kefaletleri İle Hibe Kuralları
+
+Madde 10.
+Devlet Garanti veya Kefaletleri ve Garantisiz Borçlar İle İlgili Usul ve Esaslar
+Madde 11.
+Hibe
+
+
+
+BEŞİNCİ KISIM
+Borç Verilmesi ve Devlet Alacakları
+
+Madde 12. 
+Borç Verilmesi 
+Madde 13.
+Devlet Alacaklarının Tahsili ve Yöntemi
+
+ALTINCI KISIM
+Nakit, Borç ve Risk Yönetimi Kuralları
+
+
+Madde 14.
+Nakit, Borç ve Risk Yönetimi Kuralları
+Madde 15.
+Risk Hesabı
+
+
+
+
+
+YEDİNCİ KISIM
+Devlet Borçlarının Bütçeleştirilmesi, Muhasebeleştirilmesi ve Raporlanması
+
+Madde 16.
+Devlet Borçlarının Bütçeleştirilmesi, Muhasebeleştirilmesi ve Raporlanması
+
+
+
+SEKİZİNCİ KISIM
+Çeşitli Kurallar
+
+Madde 17.
+Vergi, Resim, Harç ve Fon İstisnası
+Madde 18.
+Şeffaflık ve Kamuoyunun Bilgilendirilmesi
+Madde 19.
+Tüzük Yapma Yetkisi
+Madde 20.
+Anlaşma ve Diğer İlgili Dökümanların Muhafazası
+Madde 21.
+Suç ve Cezalar
+
+
+
+DOKUZUNCU KISIM
+Geçici ve Son Kurallar
+
+Geçici Madde 1.
+Mevcut Olan Devlet Kefaleti Verilmiş Kredilerin Menkul Kıymetleştirilmesi
+Geçici Madde 2.
+Mevcut Borçların Yasada Belirlenen Sınırlara İndirilmesi
+Geçici Madde 3.
+Önceden Verilmiş Garanti veya Kefaletlere İlişkin Hükümler
+Madde 22.
+Yetki Çatışmasına İlişkin Kural
+Madde 23.
+Yürütme Yetkisi
+Madde 24.
+Yürürlüğe Giriş
+
+
+
+
+Sayı:45/2011
+KUZEY KIBRIS TÜRK CUMHURİYETİ 
+KAMU FİNANSMANI VE BORÇ YÖNETİMİ
+YASASI
+(28/2026 sayılı Değişiklik Yasası ile değiştirilmiş ve birleştirilmiş şekliyle)
+
+
+    Kuzey Kıbrıs Türk Cumhuriyeti Cumhuriyet Meclisi aşağıdaki Yasayı yapar:
+
+Kısa İsim
+1. Bu Yasa, Kuzey Kıbrıs Türk Cumhuriyeti Kamu Finansmanı ve Borç Yönetimi Yasası olarak isimlendirilir.
+
+BİRİNCİ KISIM
+Genel Kurallar
+
+
+Tefsir
+2. Bu Yasada metin başka türlü gerektirmedikçe:
+
+“Bakanlık”, Maliye İşleriyle Görevli Bakanlığı anlatır.
+
+“Bütçe”, ilgili yılın bütçe yasasıyla yürürlüğe konulan Devlet bütçesini anlatır.
+
+“Devlet Alacağı”, herhangi bir dış finansman kaynağından temin edilen finansman imkanları için verilen Devlet garanti veya kefaletleri veya bu imkanların ikrazı suretiyle kullandırılması veya bunlar dışında olmakla birlikte ilgili mevzuattan kaynaklanan işlemler nedeniyle doğan ve Bakanlık tarafından üstlenilen her türlü ödemeyi ve/veya Borç Yönetim Komitesinin uygun görüşü üzerine Merkez Bankası tarafından Bakanlık adına ikrazen ihraç edilen Devlet iç borçlanma senetlerine ilişkin olarak ortaya çıkan alacak ile Bakanlığın Devlet tüzel kişiliğini temsilen taraf olduğu işlemlerden kaynaklanan diğer alacakları anlatır. 
+
+“Devlet Borcu”, Devlet adına Bakanlığın borçlu sıfatı ile taraf olduğu veya  üstlendiği her türlü mali yükümlülükleri anlatır.
+
+“Devlet Dış Borcu”, Bakanlık tarafından herhangi bir dış finansman kaynağından belirli bir itfa planına göre geri ödenmek üzere sağlanan finansman imkanları ile Devlet garanti veya kefaletleri kapsamında Bakanlık tarafından üstlenilen her türlü dış mali yükümlülükleri anlatır.
+
+“Devlet Garantisi”, Devlet geri ödeme garantisi, Devlet yatırım garantisi veya herhangi birini anlatır.
+
+“Devlet Geri Ödeme Garantisi”, bu Yasanın 4’üncü maddesinde belirtilen bütçe dışındaki kurum ve kuruluşlar lehine, bu kuruluşların dış finansman kaynağından sağladıkları dış borçlarının geri ödenmesi hususunda verilen garantileri anlatır.
+
+“Devlet İç Borcu”, Merkez Bankası tarafından Bakanlık adına yurt içinde ihraç olunan Devlet iç borçlanma senetleri, Bakanlığın geçici nakit ihtiyacını karşılamak için yurt içi piyasalardan yaptığı borçlanmalar ve senede bağlı olup olmadığına bakılmaksızın Bakanlık tarafından üstlenilen her türlü mali yükümlülükleri anlatır.
+
+“Devlet İç Borçlanma Senetleri”, Merkez Bankası tarafından, Bakanlık adına yurt içinde ihraç edilen borçlanma senetlerini anlatır.
+
+“Devlet Kefaleti”,  Devletin, kamu yararına yasa ile kurulmuş herhangi bir fon veya resmi organ veya kamu iktisadi teşebbüsüne yapılan  ikrazlar  veya verilen krediler için  kefil sıfatıyla  ve bu Yasa kurallarına uygun olarak  verdiği teminatı anlatır.
+
+
+“Devlet Tahvili”, ihraç edildikleri tarih itibarıyla bir yıl ve daha uzun vadeli Devlet iç borçlanma senetlerini anlatır.
+
+“Devlet Yatırım Garantisi”, kamu-özel işbirliği kapsamında ilgili yasa kurallarına dayanan ve bunlarla sınırlı olmak üzere verilen garantileri anlatır.
+
+“Dış Borcun İkrazı”, Bakanlık adına herhangi bir dış finansman kaynağından sağlanan dış finansman imkanlarının,  bütçe dışındaki kamu kurum ve kuruluşları ile yatırım ve kalkınma bankalarına gerektiğinde anlaşmanın mali şartlarına bağlı kalmaksızın aktarılmasını anlatır.
+
+“Dış Borcun Tahsisi”, Bakanlık adına herhangi bir dış finansman kaynağından sağlanan dış finansman imkanlarının,  bütçe kapsamındaki kamu idarelerine anlaşmadaki amaca sadık kalınarak kullandırılmasını anlatır.
+
+“Dış Finansman”, herhangi bir dış finansman kaynağından sağlanan Devlet dış borcu, dış  imkan,  hibe veya bunların herhangi birini anlatır.
+
+“Dış Finansman Kaynağı”, dış finansman sağlayan yabancı ülkeler, ülkelerce oluşturulan birlikler, resmi finansman fonları, uluslararası ve bölgesel kuruluşlar ile uluslararası sermaye ve finansman piyasalarında faaliyet gösteren bankalar, satıcı veya alıcı kredisi sağlayan kuruluşlar ile firmalar veya bunların herhangi birini anlatır.
+
+“Dış İmkan”, bu Yasa kapsamında yer alan kuruluşların kendi adına herhangi bir dış finansman kaynağından Devlet garantisi olmaksızın sağladıkları finansman imkanı ve hibeyi anlatır.
+
+“Garanti Ücreti”, lehine Devlet garantisi verilen taraftan, verilecek her garanti için bir defaya mahsus olmak kaydıyla alınan ücreti anlatır.
+
+“Garantili İmkan”, bu Yasa kapsamında yer alan kuruluşlara sağlanan Devlet geri ödeme garantisi ve Devlet yatırım garantisini anlatır.
+
+“Genel Giderler”, Devlet borcunun yürütülmesi ve yönetilmesi için yapılan kayıt ve tescil giderleri, kredi derecelendirme kuruluşlarına ödenen ücretler, avukatlık ücreti, danışmanlık ücreti, kur farkları, komisyon ödemeleri, gecikme faiz ve cezaları, ilan giderleri ve benzeri tüm masraf ve giderler ile nakit akışlarının ve Merkez Bankası hesaplarının yönetilmesi kapsamında doğan komisyon giderlerini anlatır.
+
+“Hazine Bonosu”, ihraç edildikleri tarih itibarıyla vadeleri bir yıldan kısa olan Devlet iç borçlanma senetlerini anlatır.
+
+“Hibe”, herhangi bir dış finansman kaynağından geri ödeme yükümlülüğü olmaksızın Devletin aldığı ayni veya nakdi yardım ile Devletin yabancı ülkeler, yabancı ülkelerin kuruluşları, uluslararası kuruluşlar ve oluşturulacak uluslararası yardım konsorsiyumlarına verdiği ayni veya nakdi yardımı anlatır.
+
+“İhraç Tutarı”, herbir menkul kıymetin satış fiyatı ile nominal tutarının çarpılması suretiyle hesaplanan değeri anlatır.
+
+“İkraz Ücreti”, Devlet dış borcunun ikrazı nedeniyle ikraz edilen taraftan ikraz edilen tutar üzerinden bir defaya mahsus olmak kaydıyla alınan ücreti anlatır.
+
+
+“Katma Bütçeli ve Döner Sermayeli Kurum ve Kuruluşlar”, kendi öz gelirleri olmasına karşın, bütçeden de katkı alarak, görev alanları içine giren kamu hizmetlerini yürüten kamu kurum ve kuruluşlarını anlatır ve özel yasalarında döner sermayeli oldukları belirlenen kamu kurum ve kuruluşlarını da kapsar.
+
+“Kefalet Ücreti”, Devlet kefaletleri nedeniyle lehine kefalet verilen taraftan verilecek her kefalet için bir defaya mahsus olmak kaydıyla alınan ücreti anlatır.
+
+“Komite”,  bu Yasanın 5’inci maddesi uyarınca oluşturulan Borç Yönetim Komitesini anlatır.
+
+“Kupon”, Devlet iç borçlanma senedi sahiplerine belirli periyotlarda ödenen getiriyi anlatır.
+
+“Merkez Bankası”, Kuzey Kıbrıs Türk Cumhuriyeti Merkez Bankasını anlatır.
+
+“Net Borç Kullanımı”, yıl içinde yapılan iç ve dış borçlanmalardan yıl içinde vadesi gelen anapara ödemelerinin düşülmesi ile elde edilen tutarı anlatır.
+
+“Özel Tertip Devlet İç Borçlanma Senetleri”, ilgili yılın bütçe yasası ve ilgili mevzuat çerçevesinde ihraç edilmiş olan ve karşılığında herhangi bir nakit girişi sağlanmayan Devlet iç borçlanma senetlerini anlatır.
+
+“Proje”, yıllık yatırım programlarında yer alan veya uluslararası anlaşma veya protokollere konu edilen yatırım projeleri veya münferiden bunlardan herhangi birini anlatır.
+
+“Proje Kredisi”, projelerin gerçekleşmesi için herhangi bir finansman kaynağından sağlanan finansman imkanını anlatır.
+
+“Risk Hesabı”, bu Yasanın ilgili kuralları çerçevesinde Merkez Bankası nezdinde oluşturulan hesabı anlatır.
+
+“Stratejik Ölçüt”, Komite tarafından borçlanma ve risk yönetiminde esas alınacak olan ve borç yönetiminin genel risk/maliyet hedeflerini ifade eden gösterge ve kriterleri anlatır.
+
+“Türev Ürün”, Devlet borcunun etkin bir şekilde idare edilebilmesi ve risk yönetimi amacıyla yurt içi veya uluslararası sermaye piyasalarında kullanılan her türlü finansal aracı anlatır.
+
+“Yerel Yönetimler”, yerel ortak ihtiyaçları karşılamak üzere görev yapan kamu tüzel kişiliğini haiz kuruluşları anlatır.
+
+
+Amaç
+3. Bu Yasanın amacı, şeffaflık ve kamuoyunu bilgilendirme ilkesi çerçevesinde, ülkenin kalkınma hedeflerini dikkate alarak, piyasalarda güven ve istikrarı koruyarak ve makro ekonomik dengeleri gözeterek, Devletin iç ve dış borçlanmasına, hibe almasına, borç ve hibe vermesine, nakit yönetiminin maliye ve para politikaları ile koordineli bir şekilde yürütülmesine, verilecek garanti veya kefaletlerin, bu borçlanma ve garanti veya kefaletlerden doğan finansal alacaklar ile Devlet iç ve Devlet dış borcunun etkin bir şekilde yönetimine ve izlenmesine Bakanlık ile bu Yasanın  4’üncü maddesinde yer alan kuruluşlar arasındaki mali ilişkilerin düzenlenmesine ve bu hususlar dahil olmak üzere Bakanlık tarafından üstlenilen her türlü mali yükümlülüğün geri ödenmesi, ilgili bütçe hesaplarına kaydedilmesi ve raporlanmasına ilişkin usul ve esasları düzenlemektir.
+
+Kapsam
+
+
+
+
+
+
+37/1975
+     32/1977
+     49/1977
+     15/2005
+4. Bu Yasa, bütçeye tabi kamu kurum ve kuruluşlarını,  katma bütçeli ve döner sermayeli kurum ve kuruluşları, yerel yönetimler ile bunların bağlı kuruluşları ve iktisadi teşebbüslerini,  yönetiminde kontrol gücü elinde bulundurulan Devlet ve kamu iştiraklerini, sermayesinin çoğunluğu kamuya ait olan veya hisse oranına bakılmaksızın, yönetim kurulu üyelerinin yarıdan bir fazlasının kamu tarafından atanması suretiyle yönetilen  bankaları ve bu bankaların işletme ve iştiraklerini,  Kamu İktisadi Teşebbüsleri ile  Kamu İktisadi Teşebbüsleri (Yönetim, Denetim ve Gözetim) Yasası kapsamına giren kurum ve kuruluşları, kamu üniversitelerini ve  Devlet vakıf üniversitelerini kapsar.
+
+
+
+
+
+İKİNCİ KISIM
+Komitenin Oluşumu ve Yetkisi
+
+Komitenin
+Oluşumu, Görev  ve Yetkisi
+5.
+(1)
+2.28/2026
+Komite, Maliye İşleriyle Görevli Bakan tarafından görevlendirilecek Bakanlık Müsteşarı veya olması halinde Bakanlıkta görev yapan Genel Koordinatör başkanlığında, Merkez Bankası Başkanı, piyasaların bağlı olduğu, Merkez Bankası Başkan Yardımcısı ile Hazine İşleriyle Görevli Dairenin Müdürü olmak üzere bir Başkan ve üç üyeden oluşur.
+
+
+(2)
+Komitenin sekreterya işleri Merkez Bankası tarafından yürütülür.
+
+
+(3)
+Komite, Komite Başkanının çağrısı üzerine ayda en az bir kere toplanır. Başkanın yokluğunda Başkanın görevlendireceği bir üye toplantıya başkanlık eder.
+
+
+(4)
+Toplantı yetersayısı üye tamsayısının salt çoğunluğudur. Komite kararlarını  oybirliği ile alır.
+
+
+(5)
+Bu Yasada belirtilen amaçlar doğrultusunda Komite:
+
+
+
+(A)
+Kuzey Kıbrıs Türk Cumhuriyeti Hazine Bonosu veya Devlet Tahvili çıkartılmasıyla;
+
+
+
+(B)
+Devlet iç borcunun  etkin bir şekilde yönetilmesiyle;
+
+
+
+(C)
+Devlet dış borcunun  takip edilmesiyle;
+
+
+
+(Ç)
+Verilecek garanti veya kefaletlerin miktar ve koşullarının belirlenmesiyle;
+
+
+
+(D)
+Borçlanma ile garanti veya kefaletlerden doğan finansal alacakların izlenmesiyle; ve
+
+
+
+(E)
+Devletin borç ve nakit yönetiminin maliye ve para politikaları ile koordineli bir şekilde yürütülmesiyle, 
+
+
+
+yetkili ve görevlidir.
+
+
+(6)
+Komitenin görev, yetki ve çalışmasına ilişkin usul ve esaslar, Bakanlık tarafından hazırlanıp, Bakanlar Kurulunca onaylanacak ve Resmi Gazete’de yayımlanacak bir tüzükle düzenlenir.
+
+
+
+
+Borç
+Yönetim
+Stratejisi
+6.
+(1)
+Devlet alacak yönetimine ve nakit varlıklarına ilişkin temel politikalar ile mali varlık ve yükümlülüklerinin yönetimine ilişkin stratejik ölçütlerin belirlenmesi ve ikraz ve garanti veya kefalet limitleri ile uygulama politikalarının tespiti Komitenin sorumluluğundadır. Bu kapsamda Komite:
+
+
+
+
+(A)
+Hazinenin borçlanma ihtiyaçlarını para politikasını ve piyasa mekanizmasını bozmayacak şekilde karşılamakla;
+
+
+
+(B)
+Kabul edilebilir risk sınırları içerisinde borçlanma maliyetlerini düşürmekle;
+
+
+
+(C)
+Devlet iç borçlanma senetleri için işleyebilir bir piyasa oluşturulması amacıyla risk limitleri, kompozisyon, faiz, vade, kamu sektörü büyüklüğü ve kur riskini dikkate alarak yıllık, orta ve uzun vadeli bir borç yönetim stratejisi hazırlamakla, 
+
+
+
+yükümlüdür.
+
+
+(2)
+Yukarıdaki (1)’inci fıkranın (C) bendi uyarınca hazırlanan borç yönetim stratejisi, müteakip yıla ilişkin olarak hazırlanan borçlanma takvimi ile birlikte ilgili yılın Eylül ayı sonuna kadar Bakanlığa sunulur.
+
+ÜÇÜNCÜ KISIM
+Limit, İç ve Dış Borçlanma
+
+Borçlanma,  Garanti  ve İkraz Limiti
+7.
+(1)
+Bakanlıkça, bütçeye tabi kamu kuruluşlarının borçlanma ihtiyacının karşılanmasını teminen, mali yıl içinde bu Yasanın 3’üncü maddesinde belirtilen ilkeler ve mali sürdürülebilirlik de dikkate alınarak ilgili yılın bütçe yasasında belirtilen başlangıç ödenekleri toplamı ile tahmin edilen gelirler arasındaki fark miktarı kadar net borç kullanımı yapılabilir. Konuya ilişkin borç limiti ilgili yılın bütçe yasasında belirlenir.
+
+
+(2)
+Devlet borçlarının vade veya faiz koşullarının iyileştirilmesi amacıyla veya Komitece belirlenecek stratejik hedefler doğrultusunda yapılacak borç temditleri bu limitin hesaplanmasında dikkate alınmaz.
+
+
+(3)
+Mali yıl içerisinde ikrazen ihraç edilecek özel tertip Devlet iç borçlanma senetlerinin limitine ilişkin hususlar ile yıl içinde sağlanacak garantili imkan, ikraz ve verilecek Devlet kefaletinin toplam tutarı, ilgili yılın bütçe yasasında belirlenir.
+
+
+(4)
+Bu Yasa kapsamındaki bankalar ve yerel yönetimler hariç, bu Yasanın 4’üncü maddesinde belirtilen bütçe dışındaki kamu kurumu niteliğindeki kuruluşlar ile bunların aynı maddede tanımlanan sınırlar içinde kalan bağlı ortaklıklarının proje kredileri dışında yapacağı borçlanmaların toplam tutarı, bu kapsamdaki kuruluşların bir önceki yıl sonuna ait kesinleşmiş gelir tutarını aşamaz.
+
+
+(5)
+Yerel yönetimler ile bunlara bağlı kurum ve kuruluşların proje kredisi dışında yapacağı borçlanmalar, cari yıl bütçesinden ilgili yerel yönetimlere ayrılmış bulunan yıllık bütçe tahsisatını geçemez.
+
+
+
+(6)
+Yukarıdaki (4)’üncü ve (5)’inci fıkralarda belirtilen kuruluşların borçlanma limiti, mevcut borç stokunun faiz birikimli bakiyesi üzerinden hesaplanır. Sonradan bu fıkra kurallarına aykırı hale gelen kredilerin üç yıl içerisinde yasal limitler dahiline indirilmesi zorunludur. Mücbir sebeplerin varlığı halinde bu süre Komitece bir katına kadar arttırılabilir.
+
+
+(7)
+Merkez Bankası tarafından, genel likiditenin ayarlanması, piyasaların düzenlenmesi ve diğer para politikası hedefleri doğrultusunda yapılacak borç alma ve borç verme işlemleri, bu Yasa altında düzenlenen usul ve esaslar ile bu maddede belirtilen sınırlamalara tabi değildir.
+
+İç Borçlanma
+8.
+(1)
+Çıkarılacak Devlet iç borçlanma senetlerinin çeşitlerine, satış yöntemlerine, faiz koşullarına, vadelerine, basım ve ödemelerine ilişkin her türlü esasları ve bunlara ilişkin diğer şartları belirlemeye Komite yetkilidir. Çıkarılacak Devlet iç borçlanma senetlerinin ihracı Merkez Bankası tarafından yürütülüp sonuçlandırılır.
+
+
+(2)
+Yıl içinde ortaya çıkan ve önceden öngörülmeyen gelişmeler için özel tertip Devlet iç borçlanma senetleri ise ancak bütçe ödenek kalemleri arasında aktarma yapılarak, ihraç edilebilir.
+
+
+(3)
+Özel tertip Devlet iç borçlanma senetlerinin ikrazen ihraç edilmesi durumunda düzenlenecek ikraz anlaşmasının vade, faiz ve diğer şartları Komite tarafından belirlenir. İkrazen verilen senetlerden kaynaklanan Devlet alacaklarının ilgili mevzuat çerçevesinde silinmesi halinde bu tutarlar ilgili yılın bütçesine ödenek konmak kaydıyla bütçeye gider olarak kaydedilir.
+
+
+(4)
+Devlet iç borçlanma senetlerinin satışı nedeniyle Merkez Bankası tarafından ödenecek her türlü gider, vergi, resim ve harçlar ile satış işlemleri dolayısıyla yapılacak her türlü gider, vergi, resim ve harçların Merkez Bankasına ödenmesine ilişkin hususlar, Bakanlık ile Merkez Bankası arasında akdedilecek  anlaşma  ile tespit edilir.
+
+
+(5)
+Türkiye Cumhuriyeti tarafından kamu maliyesinin finansmanı için sağlanan krediler ile hibeler hariç olmak üzere diğer kaynaklardan temin edilen dış finansman ve Devlet iç borçlanma senetleri yoluyla temin edilen kaynaklar Merkez Bankası nezdinde açılacak özel bir hesapta toplanır. Sözkonusu hesapta toplanan meblağların öncelikli olarak Devlet iç borç senetlerinin anapara ve faiz geri ödemelerinde kullanılması esastır. Hesabın kullanımına ilişkin olarak, Merkez Bankasının yetkilendirilmesine ilişkin hususlar Bakanlıkla Merkez Bankası arasında imzalanacak bir protokolle düzenlenir.
+
+41/2001
+
+(6)
+Hazineye kısa vadeli avans kullandırımına ilişkin Kuzey Kıbrıs Türk Cumhuriyeti Merkez Bankası Yasasıyla belirlenen limitler saklıdır.
+
+
+(7)
+Bütçeye tabi kurum ve kuruluşlar ile bu Yasa kapsamındaki bankalar dışında kalan ve bu Yasanın 4’üncü maddesinde sayılan kamu kurumu niteliğindeki kuruluşların  yurt içi piyasalarda yapacakları tahvil ihraçları ile cari ihtiyaçları için, proje kredisi dışında yapacakları borçlanmalar, Komitenin iznine tabidir. Proje kredisi kapsamındaki kredilerde, krediye konu edilen projenin, Devlet Planlama Örgütünce uygun bulunması zorunludur. Komitece iznin verilmesi Devlet kefaleti veya garantisinin sağlandığı anlamına gelmez. Sözkonusu izne ilişkin başvurular ilgili Bakanlıklar aracılığıyla Bakanlığa yapılır.
+
+
+
+
+Dış Borçlanma
+9.
+(1)
+Devlet adına herhangi bir dış finansman kaynağından Devlet dış borcu sağlamaya ve mali koşulları da dahil olmak üzere şartlarını tespit etmeye ve bu şartlar çerçevesinde mali yükümlülük altına girmeye Bakanlığın önerisi üzerine Bakanlar Kurulu yetkilidir. Sözkonusu Devlet dış borcuna ilişkin anlaşmalar ve ilgili dokümanlara dair her türlü hazırlık ve müzakereler Bakanlık tarafından yürütülür ve sonuçlandırılır. Bu kapsamdaki borç işlemleri Merkez Bankası aracılığıyla gerçekleştirilir ve dış borçlanmaya ilişkin Merkez Bankası  nezdinde oluşturulacak özel bir kayıtta takip edilir.
+
+
+(2)
+Devletin borçlu sıfatı ile taraf olduğu anlaşmaların şartlarında değişiklik yapmaya Bakanlığın önerisi üzerine Bakanlar Kurulu yetkilidir.
+
+
+(3)
+Bakanlığın önerisi üzerine Bakanlar Kurulu, bu Yasanın 7’nci maddesinde belirlenen borçlanma limitleri dahilinde olmak kaydıyla dış finansman kaynağından sağlanan dış finansman imkanlarını, bu Yasanın 4’üncü maddesinde belirtilen bütçe dışındaki kamu kurum ve kuruluşları ile kalkınma bankalarına bir ikraz anlaşmasıyla aktarabilir. Dış borcun ikrazı halinde ilgili kurumlardan ikraz edilen tutar üzerinden %1 (yüzde bir)’i aşmayacak şekilde Bakanlık tarafından belirlenen oranda ikraz ücreti alınır. Bu oran, Bakanlığın önerisi ile Bakanlar Kurulunca onaylanacak ve Resmi Gazete’de yayımlanacak bir tüzükle beş katına kadar artırılabilir. Sağlanan dış finansmanın mahiyeti hakkında Bakanlıkça Merkez Bankasına bilgi verilir.
+
+
+(4)
+Bu Yasa kapsamındaki bankalar tarafından sağlanacak üç yıl ve daha kısa vadeli dış imkan hariç olmak üzere bu Yasanın 4’üncü maddesinde belirtilen bütçe dışındaki kamu kurum ve kuruluşlarınca sağlanacak her türlü dış imkan Komitenin iznine tabidir. Bu iznin verilmesi Devlet garantisi sağlandığı anlamına gelmez.
+
+
+DÖRDÜNCÜ KISIM
+Devlet Garanti veya Kefaletleri İle Hibe Kuralları
+
+Devlet Garanti veya Kefaletleri ve Garantisiz 
+Borçlar İle
+İlgili Usul ve
+10.
+(1)
+Devlet garanti veya kefaletleri sağlanmasına ve sağlanan garantilerin şartlarında değişiklik yapılmasına ilişkin her türlü hazırlık ve müzakereler, Komitenin görüşü doğrultusunda Bakanlık tarafından yürütülür. Sözkonusu garanti veya kefaletlerin kısmen veya tamamen verilmesine, bu Yasa ve ilgili mevzuat uyarınca Bakanlar Kurulu  karar verir.
+Esaslar
+
+(2)
+Devlet geri ödeme garantisi ve Devlet yatırım garantisi ile lehine garanti sağlanan taraftan verilecek her garanti veya Devlet kefaleti için bir defaya mahsus olmak kaydıyla garanti veya kefalet edilen tutarın %1 (yüzde bir)’ini aşmayacak şekilde Bakanlık tarafından belirlenen oranda garanti veya kefalet ücreti alınır. Bu oran, Bakanlığın önerisi ile Bakanlar Kurulunca onaylanacak ve Resmi Gazete’de yayımlanacak bir tüzükle beş katına kadar artırılabilir.
+
+
+(3)
+Bu Yasanın 4’ncü maddesinde belirtilen bütçe dışındaki kamu kurum ve kuruluşları dış finansman kaynağından dış borcun ikrazı da dahil olmak üzere, Devlet garantisi altında sağladıkları dış finansman imkanlarına ilişkin her türlü yükümlülüklerden ve bu yükümlülüklerin aksatılması neticesinde doğmuş olan ve doğabilecek Devlet alacaklarının geri ödenmesinden müteselsilen sorumludurlar. Bu kapsamda akdedilen dış kredi anlaşmalarından ortaya çıkan her türlü geri ödeme yükümlülüğü tamamlanıncaya kadar borçlu kuruluş, borcun geri ödenmesi süresince meydana gelebilecek her türlü idari değişikliklere ve yeni görevlendirmelere bağlı olmaksızın, borcun geri ödenmesinden sorumludur.
+
+
+(4)
+Kredi borçlusu kuruluşlar, Devlet garantisi altında sağlanan dış kredilere ilişkin geri ödemeler için gereken tutarı ilgi yılın bütçelerinde yatırım harcamalarına kıyasla öncelikli olarak ayırmakla mükelleftirler.
+
+
+(5)
+Dış borçların ödenmesinde aksamaya sebebiyet verdiği tespit edilenlere bu aksamadan doğan zarar ölçüsünde rücu olunur.
+
+
+(6)
+Bu Yasanın 4’ncü maddesinde belirtilen bütçe dışındaki kamu kurum ve kuruluşlarının yurt içi sermaye piyasalarından yapacağı borçlanmalar ile tahvil ve bono ihraçlarına garanti veya kefalet verilemez.
+
+
+(7)
+İkraz ve tahsis edilen krediler ve sağlanan Devlet garantileri,  bütçe kapsamındaki kuruluşlarca yapılacak her türlü yatırım harcaması, ilgili yılın bütçesinin tertipleriyle ilişkilendirilir. Bu kuruluşlar tarafından proje kredisi olarak kullanılacak her türlü imkanın, kullanımdan önce bütçeleştirilmesi esastır. Ayrıca, bu kuruluşlar dışındaki kuruluşlar tarafından proje kredisi olarak kullanılacak her türlü imkanın kullanımdan önce kuruluşların kendi bütçeleri ve muhasebe sistemleri içinde ödenek ve gider kaydedilmesi zorunludur.
+
+
+
+(8)
+Projeler için sağlanacak Devlet geri ödeme garantisi ile Devlet yatırım garantisinin verilmesine ilişkin garantinin değerlendirilmesi, bütçeleştirilmesi, riskin sınırlandırılması ve paylaşımı ile garantiye ilişkin bilgilerin kamuoyuna açıklanması ve Devlet yatırım garantisi kapsamında garanti edilen tutarın tespit edilmesi de dahil olmak üzere uygulamaya ilişkin usul ve esaslar, Bakanlık tarafından hazırlanıp, Bakanlar Kurulunca onaylanacak ve Resmi Gazete’de yayımlanacak bir tüzükle belirlenir.
+
+Hibe 
+11.
+(1)
+Avrupa Birliğinden sağlanacak hibeler hariç olmak üzere, Devlet adına herhangi bir dış finansman kaynağından hibe almaya, bununla ilgili anlaşmaları yapmaya ve bu anlaşmaların esas ve şartlarını belirlemeye, sağlanan bu hibeleri bu Yasanın 4’üncü maddesinde yer alan kurum ve kuruluşlara kullandırmaya Bakanlar Kurulu yetkilidir. Sözkonusu hibe anlaşmaları ile ilgili her türlü hazırlık ve müzakereler Bakanlık tarafından yürütülür. Hibe alınmasına ilişkin anlaşmalarda değişiklik yapmaya Bakalar Kurulu yetkilidir. Alınan hibelere ilişkin bilgiler Bakanlık tarafından Merkez Bankasına bildirilir.
+
+
+(2)
+Nakdi hibe vermeye ve bu yöndeki anlaşmaları imzalamak için Devlet temsilcilerini tayine, Dışişleriyle Görevli Bakanlık ile Bakanlığın uygun görüşü alınmak kaydıyla Bakanlar Kurulu yetkilidir. Sözkonusu hibe tutarları Bakanlık bütçesine bu amaçla konulacak ödenekten karşılanır. Nakdi hibe verilmesine ilişkin anlaşmaların hazırlık, temas ve müzakereleri Bakanlık tarafından yürütülür ve Dışişleriyle Görevli Bakanlık ile istişare edilerek sonuçlandırılır. Nakdi hibe verme anlaşmalarının şartlarında değişiklik yapmaya Bakanlık yetkilidir. Ayni hibe verilmesine ilişkin anlaşmaların hazırlık ve müzakereleri ise ilgili kuruluşlar tarafından sonuçlandırılır. Ayni hibe vermeye ve bu yöndeki anlaşmaları imzalamak için Devlet temsilcilerini tayine ilgili Bakanın önerisi üzerine Bakanlar Kurulu yetkilidir. Ayni hibe verme anlaşmalarında değişiklik yapmaya Bakanlar Kurulu yetkilidir. Yurt dışına verilen nakdi hibelere ilişkin bilgiler Bakanlıkça  Merkez Bankasına  bildirilir.
+
+
+
+
+
+
+BEŞİNCİ KISIM
+Borç Verilmesi ve Devlet Alacakları
+
+Borç Verilmesi
+12. Devlet adına, yabancı ülkeler, yabancı ülkelerin kuruluşları, uluslararası kuruluşlar ve oluşturulacak uluslararası yardım konsorsiyumlarına borç vermeye, bu borcun esas ve şartlarını belirlemeye, verilen borçların yeniden yapılandırılmasına ve bu yöndeki anlaşmaları imzalamak için Devlet temsilcilerini tayine Bakanlığın önerisi üzerine Bakanlar Kurulu yetkilidir. Bu kapsamda verilecek borç tutarları Bakanlık bütçesine bu amaçla konulacak ödenekten karşılanır. Bu borçlara dair anlaşmalara ilişkin her türlü hazırlık ve müzakereler Bakanlık tarafından yürütülür. Verilen borç tutarları ile ilgili bilgiler Bakanlıkça Merkez  Bankasına bildirilir.
+
+
+
+
+Devlet Alacaklarının Tahsili ve Yöntemi
+13.
+(1)
+Dış borcun ikrazı suretiyle kullandırılan kredilerden, Bakanlığa ödenmeyen kısımlar ve Devlet garantileri veya kefaletlerinden Bakanlıkça üstlenmeler ve Devlet adına, yabancı ülkeler, yabancı ülkelerin kuruluşları, uluslararası kuruluşlar ve oluşturulacak uluslararası yardım konsorsiyumlarına verilen borçlar neticesinde doğan alacakların şartlarının belirlenmesine, tahsiline, takip ve yönetimine Bakanlık yetkilidir. Bu kapsamdaki kredilerin borçlu tarafından ödenmemesi durumunda taraflar arasında yapılan sözleşmede belirlenen usul ve esaslar uygulanır.
+
+
+(2)
+Bütçe kapsamındaki kamu idareleri dışındaki kuruluşlara bütçeden yapılacak aktarmalarda, Devlet alacaklarının kaynakta tahsilatına Bakanlık yetkilidir.
+
+
+(3)
+Bu Yasa kurallarına göre imzalanan garanti veya kefalet, ikraz ve hibe anlaşmaları kapsamında yapılan işlemler ile bu Yasa kapsamında oluşan Devlet alacakları nedeniyle bu Yasanın 4’üncü maddesinde belirtilen kuruluşlardan her türlü bilgi ve belge istemeye Bakanlık yetkilidir. 
+
+
+(4)
+Devlet alacaklarının muhasebeleştirilmesine ilişkin usul ve esaslar Bakanlık tarafından belirlenir.
+
+ALTINCI KISIM
+Nakit, Borç ve Risk Yönetimi Kuralları
+
+Nakit, Borç ve Risk Yönetimi Kuralları
+14.
+(1)
+Makroekonomik dengeleri gözeterek maliye ve para politikaları ile uyumlu bir şekilde nakit akışlarının yönetilmesi ve makul risk düzeyi çerçevesinde yıllık, orta ve uzun dönemde en uygun maliyeti doğuracak borçlanma yapısının oluşturulması amacıyla borç yapısının değiştirilmesi için işlemler yapılması ve altyapının güçlendirilmesi, Komitenin yetkisindedir. Nakit akışı yönetiminin gerektirdiği faiz ödemeleri ile borç ve risk yönetimi kapsamındaki finansal tekniklerin kullanılmasından kaynaklanan ödemeler Bakanlık bütçesine bu amaçla konulacak ödenekten karşılanır.
+
+
+
+(2)
+ Bütçe kapsamındaki ödemeleri zamanında yapabilmek; nakit akımları arasındaki dönemsel farklılıkların ödemeler üzerindeki olumsuz etkilerini önlemek amacıyla, Merkez Bankası:
+
+
+
+(A)
+Kısa dönemli nakit ihtiyacını karşılamak için para piyasalarında Bakanlık adına işlem yapmaya;
+
+
+
+(B)
+Oluşacak nakit fazlalıklarını nemalandırmaya;
+
+
+
+(C)
+Bu amaçla teminat almaya; ve
+
+
+
+(Ç)
+Para politikaları çerçevesinde gerekli görülen diğer tedbirleri almaya,
+
+
+
+yetkilidir.
+
+
+(3)
+Hesabın nemalandırılmasına ilişkin usul ve esaslar, Bakanlık ile Merkez Bankası arasında müştereken tespit olunur. Kısa dönemli nakit ihtiyacını karşılamak için, kısa vadeli avans kullanılmasına ilişkin işlemler, Bakanlık ile Merkez Bankası arasında yapılacak protokolle belirlenir.
+
+
+(4)
+Bu Yasa kapsamındaki bankalar hariç olmak üzere, bu Yasanın 4’üncü maddesinde belirtilen idareler, kurum ve kuruluşlar bankalar nezdinde tuttukları her türlü mali kaynaklarını Komite tarafından belirlenecek olan hesaplarda toplarlar. Bu maddede sözü edilen kurumlar tahakkuk etmiş tüm ödemelerini bu hesaplardan yaparlar. Kamu kaynaklarının bu madde kurallarına aykırı şekilde değerlendirilmesinden elde edildiği tespit edilen nemalar bütçeye gelir kaydedilir. İlgili kamu kurum ve kuruluşlarının yetkilileri ile muhasebe yetkilileri yukarıda bahsi geçen kuralların yerine getirilmesinden şahsen ve müteselsilen sorumludurlar. Bu fıkranın uygulanmasına ilişkin hususlar, Bakanlıkça belirlenerek ilgili taraflara duyurulur.
+
+
+(5)
+Devlet dış borcu kapsamında ortaya çıkan yükümlülüklerinin uluslararası sermaye piyasalarında mevcut muhtelif finansal araçlar vasıtasıyla yönetimi amacıyla, türev ürünleri kullanmaya, nakit ile yurt içi ve yurt dışı menkul kıymet şeklinde teminat almaya ve değerlendirmeye, teminat vermeye ve bu amaçla gerektiğinde yurt dışından menkul kıymet satın almaya, daha önce uluslararası sermaye piyasalarında ihraç olunan tahvilleri geri almaya, başka tahvillerle değiştirmeye ve benzeri işlemlere ilişkin anlaşma yapmaya Bakanlık yetkilidir. Bu anlaşmalara ilişkin temas ve müzakereler, Bakanlık tarafından yürütülür ve sonuçları hakkında Merkez Bankasına bilgi verilir.
+
+
+
+(6)
+Komitenin uygun görüşü doğrultusunda, Bakanlıkça, borç ve risk yönetimi amacıyla daha önce ihraç olunan Devlet iç borçlanma senetleri, işlemiş faizleri ödenerek veya piyasa koşullarından geri alınabilir, başka senetlerle değiştirilebilir veya gerektiğinde sözkonusu senetlerin anaparaları ödenmeksizin sadece işlemiş faiz tutarları kupon ödeme tarihinden önce erken itfaya tabi tutulabilir. Ayrıca bu amaçla, türev ürünler kullanılabilir. Bakanlıkça, bu kapsamda nakit ile yurt içi ve yurt dışı menkul kıymet şeklinde teminat alınabilir ve değerlendirilebilir, teminat verilebilir ve bu amaçla gerektiğinde yurt dışından menkul kıymet satın alınabilir. Bu fıkra kapsamındaki uygulamaya ilişkin düzenlemeler Bakanlık ile Merkez Bankası arasında yapılacak protokolle belirlenir.
+
+
+(7)
+Bu madde kapsamında sayılan ve Devlet iç ve dış borcu yönetiminde kullanılan finansal işlemler, faiz ve anapara geri ödeme tarihinde oluşabilecek değer değişimleri dikkate alınmaksızın stratejik ölçütler esas alınarak gerçekleştirilir.
+
+
+
+
+Risk Hesabı
+15.
+(1)
+Devlet garanti veya kefaletleri kapsamında Bakanlık tarafından ödenen bütün tutarlar ile risk yönetimi kapsamında önceden öngörülmesi mümkün bulunmayan ödemeler, Merkez Bankası nezdinde oluşturulan Bakanlığa ait risk hesabından karşılanır. Hesaptan, bu Yasada belirtilen haller dışında kullanım yapılamaz.
+
+
+(2)
+Risk hesabının kaynakları şunlardır:
+
+
+
+(A)
+İkraz ücretleri,
+
+
+
+(B)
+Garanti ücretleri,
+
+
+
+(C)
+Kefalet ücretleri,
+
+
+
+(Ç)
+Hesaptan yapılan ödemeler karşılığında ilgili kuruluşlardan yapılan geri ödemeler ve gecikme zammı dahil tahsil edilen her türlü ödemeler,
+
+
+
+(D)
+Bütçe Yasalarıyla risk hesabına aktarılmak üzere öngörülen ödenekler,
+
+
+
+(E)
+Kamu borç yönetimi çerçevesinde Bakanlıkça borçlanılan tutardan Komitece öngörülen kısmın Merkez Bankası nezdinde bloke edilmesi suretiyle oluşturulan ihtiyatlar. Bu kapsamdaki bloke edilen tutarlar bütçede yer alan toplam borçlanma limiti kapsamında değerlendirilmez.
+
+
+
+(F)
+Bu hesaba Merkez Bankasınca tahakkuk ettirilen faizler.
+
+
+(3)
+İlgili yılın bütçesine bu amaçla konulan ödenek bir başka kaleme aktarılamaz. İlgili yılın bütçesinde risk hesabına aktarılması öngörülen ödeneklerin yetersiz olması halinde ilgili kaleme ödenek aktarmaya Bakanlık yetkilidir.
+
+
+(4)
+Risk hesabındaki tutarlar günlük bazda nemalandırılır. Nemalandırmaya ilişkin koşullar, Komitenin önerisi alınarak Merkez Bankası  tarafından belirlenir.
+
+
+YEDİNCİ KISIM
+Devlet Borçlarının Bütçeleştirilmesi, Muhasebeleştirilmesi ve Raporlanması
+
+Devlet Borçlarının Bütçeleş-tirilmesi, Muhasebe-
+leştirilmesi ve Raporlanması
+16.
+(1)
+Mali yıl içinde, türev ürünler dahil olmak üzere, ödenecek Devlet iç ve dış borç anapara ödemeleri ile iç ve dış borçlanma tutarlarını, Bakanlığın, Merkez Bankası aracılığı ile kısa vadeli nakit ihtiyaçlarını karşılamak amacıyla para piyasalarından ve kısa vadeli avans işlemlerinden yapacağı borçlanma  tutarları ile borç verme tutarlarını, dış borcun ikrazı ve ikrazen  ihraç edilmiş olan Devlet iç borçlanma senetlerinden yapılan anapara tahsilatını ve türev ürünlerden ve para piyasası nakit işlemlerinden kaynaklanan teminatları bütçe dışında özel hesaplarda izlemeye Bakanlık yetkilidir.
+
+
+(2)
+Her ne suretle olursa olsun, türev ürünler de dâhil, yapılmış olan borçlardan doğan Devlet iç ve dış borç faizleri ile iskonto giderleri, genel giderler, teminatların faizleri ile Bakanlığın kısa vadeli nakit ihtiyaçlarını karşılamak amacıyla para piyasalarından yapacağı borçlanma faizleri bu amaçla bütçeye yeterli miktarda konulacak ödeneklerle karşılanır. Bu ödeneklerden bütçenin diğer kalemlerine hiçbir şekilde aktarma yapılamaz.
+
+
+(3)
+Kullanıcı ve borçlu bütün kamu kurum ve kuruluşları, Bakanlığın sahip olduğu iç ve dış yükümlülüklerin muhasebe ve istatistik kayıtlarına doğru ve zamanında aktarılmasını teminen, ikraz ve tahsis edilen krediler ile herhangi bir dış finansman kaynağından Devlet garantisi altında veya Devlet garantisi olmaksızın sağladıkları dış kredi anlaşmaları ve bu anlaşmalar kapsamındaki kullanım ve her türlü ödemeleriyle ilgili bilgilerini ve Bakanlığın ihtiyaç duyduğu diğer bilgi ve belgeleri, dış borç kaydı yapılan kullanımlarına ilişkin teyit bilgilerini ve bu Yasa kapsamında sağlanan hibelerden yaptıkları kullanım bilgilerini, kredi kullanımına aracılık eden kurum ve kuruluşlar da sözkonusu kredilere ilişkin olarak temini talep edilen her türlü bilgiyi, Bakanlık tarafından nakit aktarımı yapılan kamu kurum ve kuruluşlarından talep edilen  her türlü bilgiyi ve bankalar ile diğer finansal kuruluşlar ise kamu kurum ve kuruluşlarına ait her türlü varlık ve yükümlülüklere ilişkin bilgileri belirlenen usul ve esaslar çerçevesinde Bakanlığa vermekle yükümlüdür.
+
+
+(4)
+Risk hesabına yapılan ödemeler hariç olmak üzere, Dış borcun ikrazı ve ikrazen ihraç edilmiş olan Devlet iç borçlanma senetleri suretiyle kullandırılan finansman imkânları için Bakanlığa ödenen anapara dışındaki taksit tutarları ile gecikme faiz ve cezaları bütçeye gelir kaydolunur.
+
+
+
+(5)
+Bakanlıkça bu Yasa kapsamında borçlu veya garantör sıfatıyla herhangi bir dış finansman veya türev ürüne ilişkin olarak başlatılan işlemler kapsamında ilgili anlaşmaların imzalanmasından önce veya imzalanan anlaşmaların veya daha önce imzalanmış anlaşmaları tadil eden anlaşmaların yürürlüğe girmesini sağlayacak yasal düzenlemeler tamamlanıncaya kadar peşin ödenmesi gereken komisyon ücreti, taahhüt ücreti, garanti ücreti, gecikme faizi ve benzeri yükümlülükleri ödemeye   Bakanlık yetkilidir. Sözkonusu komisyon ücreti, taahhüt ücreti, garanti ücreti, gecikme faizi ve benzeri yükümlülükler, ilgili anlaşmaların veya daha önce imzalanmış anlaşmaları tadil eden anlaşmaların imzalanması veya yürürlüğe girmesinden bağımsız olarak ödenebilir. Sözkonusu yükümlülükler Bakanlık bütçesine bu amaçla konulacak ödenekten karşılanır.
+
+
+(6)
+Uluslararası sermaye piyasalarında gerçekleştirilen tahvil ihraçlarına ilişkin komisyon, ücret ve masraflar, mali yılı bütçe ödenekleriyle ilişkilendirilmek suretiyle tahvil ihracına ilişkin anlaşma kuralları çerçevesinde ihraç tutarından mahsup edilerek ödenebilir.
+
+
+(7)
+Bütçe kapsamındaki kuruluşlar tarafından kullanılmak üzere sağlanan ayni ve nakdi hibe tutarlarını özel gelir ve özel ödenek olarak kaydettirmeye Bakanlık yetkilidir.
+
+
+(8)
+Bakanlıkça dış finansman kaynağından sağlanan Devlet dış borcu ile ilgili ve buna dair borçlanma anlaşmaları ile borç ve risk yönetimi amacıyla gerçekleştirilen her türlü anlaşmada öngörülen bütün ödeme ve işlemler ile Bakanlık tarafından sağlanan hibelerden karşılanmak üzere ithal edilen malzeme ve ekipman için mali yılı bütçesine yeterli ödenek konur ve bu ödeneklerden bütçenin diğer kalemlerine hiçbir şekilde aktarma yapılamaz.
+
+
+
+
+SEKİZİNCİ KISIM
+Çeşitli Kurallar
+
+Vergi, Resim, Harç ve Fon İstisnası
+
+
+24/1982
+    11/1985
+    67/1987
+    16/1989
+    20/1990
+    22/1991
+    14/1992
+    20/1992
+    69/1993
+17.
+(1)
+Bakanlıkça ihraç edilen Devlet iç borçlanma senetlerinin faiz ve anapara ödemeleri ile bu Yasanın 8’inci maddesinin (4)’üncü fıkrasında yer alan anlaşmada yer alacak ödemeler ile 16’ncı maddesinin (1)’inci fıkrasında yer alan para piyasası nakit işlemleri ve bunların dışında kalan diğer Devlet iç borçları ile ilgili gider, işlemler ve kağıtlar, Gelir Vergisi Yasası ile Kurumlar Vergisi Yasası kuralları saklı olmak koşulu ile her türlü vergi, resim, harç ve fondan istisnadır.
+
+    21/1995
+      1/1997
+      4/1998
+    16/1998
+
+
+
+      3/1999
+    14/2001
+    41/2002
+    58/2003
+    73/2003
+    13/2005
+    34/2005
+    56/2006
+    15/2007
+    53/2007
+    67/2007
+      3/2010
+    39/2010
+    45/2010
+
+
+
+
+
+
+
+41/1976
+    24/1977
+    62/1977
+    11/1980
+
+
+
+    35/1983
+    36/1987
+    70/1993
+    38/2003
+    10/2004
+    16/2007 
+
+
+
+
+
+(2)
+Bakanlık tarafından borçlu sıfatıyla veya Devlet garantileri ile sağlanan:
+
+
+
+(A)
+Uluslararası sermaye piyasalarında kullanılan finansman araçları ile yapılacak borçlanma anlaşmalarında öngörülen ödemeler, işlemler ve kağıtlar ve bu piyasalarda ihraç edilen menkul kıymetler;
+
+
+
+(B)
+Devlet dış borçlarının uluslararası sermaye piyasalarında kullanılan türev ürünler dahil olmak üzere her türlü finansal araçlar vasıtasıyla yönetilmesine veya yeniden yapılandırılmasına ilişkin anlaşmalarda öngörülen işlemler ve kağıtlar;
+
+
+
+(C)
+Devlet dış borçları ile ilgili kredi anlaşmalarında öngörülen bütün ödeme ve işlemler, 
+
+
+
+her türlü vergi, resim, harç ve fondan istisnadır.
+
+
+(3)
+Bu Yasa kapsamında sağlanan hibelerin temini, devri, tadili ve kullanımına ilişkin işlem ve kağıtlar da yukarıdaki istisnalardan yararlanır.
+
+
+
+
+
+Şeffaflık ve Kamuoyunun Bilgilen-
+dirilmesi
+18.
+(1)
+Borç yönetimine ilişkin şeffaflığın ve hesap verebilirliğin sağlanmasını teminen, nakit ve borç yönetimi uygulamaları, piyasa mekanizmasının işleyişi, borçlanma takvimine ilişkin bilgiler ve Komitece karara bağlanan hususlar, ilgilerine göre Bakanlık veya Merkez Bankası tarafından kamuoyuna duyurulur. Duyuruların kapsam, usul ve esasları, Bakanlıkça hazırlanıp, Bakanlar Kurulunca onaylanacak ve Resmi Gazete’de yayımlanacak bir  tüzükle belirlenir.
+
+
+(2)
+Bakanlıkça, ilgili bütçe yılı içinde sağlanan iç ve dış finansman imkanları, sağlanan Devlet garanti veya kefaletleri, risk hesabı, alınan ve verilen hibeler, dış borcun ikrazı ve dış borcun tahsisine ilişkin bilgilerle finans piyasalarına ve borç yönetimine ilişkin değerlendirmelerin yer aldığı Kamu Borç Yönetimi Raporu üçer aylık dönemler itibariyle hazırlanarak Bakanlar Kuruluna sunulur.
+
+
+
+
+Tüzük Yapma Yetkisi 
+19. Bu Yasa kapsamında yer alan borçlanma ikraz ve garanti limiti, iç ve dış borçlanma, dış borcun ikrazı ve tahsisi, hibe alma ve verme, Devlet garanti veya kefaletleri, garantisiz kamu borçlarına izin verilmesi, Devlet alacakları, nakit, borç ve risk yönetimi, risk hesabının işleyişi, dış finansman temini izni verilmesi ve özel ihale usulleri ile sair konuların uygulanmasına yönelik usul ve esaslar, Bakanlıkça hazırlanıp, Bakanlar Kurulunca onaylanacak ve Resmi Gazete’de yayımlanacak bir  tüzükle belirlenir.
+
+
+Anlaşma ve Diğer İlgili Döküman-ların
+Muhafazası
+20. Bu Yasa kapsamında yer alan hususlara ilişkin olarak, Devlet adına Bakanlık tarafından imzalanmış anlaşmaların ve ilgili dokümanların asılları Bakanlık tarafından muhafaza edilir.
+
+
+
+
+Suç ve Cezalar
+21.
+(1)
+Bu Yasanın 7’inci, 8’inci, 9’uncu, 10’uncu ve 14’üncü maddelerinde düzenlenen borçlanma ile ilgili limit ve usullere uymayan kurum veya kuruluşların yukarıda belirtilen maddelerdeki limit ve usullere uyulmamasından sorumlu olan veya yapılan işlemlerde veya alınan kararlarda açıkça imzası bulunan yöneticiler ile yönetim kurulu üyeleri bir suç işlemiş olurlar ve mahkumiyetleri halinde beş yıla kadar hapis cezasına veya 20.000.-TL (Yirmi Bin Türk Lirası)’na kadar para cezasına veya her iki cezaya birden çarptırılabilirler.
+
+
+(2)
+Bu Yasanın 15’inci madde kurallarına aykırı hareket eden kişiler bir suç işlemiş olurlar ve  mahkumiyetleri halinde beş yıla kadar hapis cezasına veya 20.000.-TL (Yirmi Bin Türk Lirası)’na kadar para cezasına veya her iki cezaya birden çarptırılabilirler.
+
+
+
+
+
+DOKUZUNCU KISIM
+Geçici ve Son Kurallar
+
+Geçici Madde
+Mevcut  Olan Devlet Kefaleti Verilmiş Kredilerin Menkul Kıymet-leştirilmesi
+1. Bu Yasanın yürürlüğe girdiği tarihte  mevcut olan Devlet kefaleti verilmiş kredilerin Komite tarafından belirlenen çerçevede menkul kıymetleştirilmesi, bu Yasanın yürürlüğe girdiği tarihten başlayarak üç yıl içinde tamamlanır.
+
+
+Geçici Madde
+Mevcut Borçların Yasada Belirlenen Sınırlara İndirilmesi
+2. Bu Yasanın yürürlüğe girdiği tarihte Yasada belirlenen sınırın üzerinde borçlu olan bu Yasanın 4’üncü maddesi kapsamındaki kamu kurum ve kuruluşlarına ait borçların bu Yasayla belirlenen sınırlara indirilmesi için Komite tarafından ilgili kuruluşlara, bu kuruluşlarca hazırlanacak borç yönetim planlarına ilişkin öngörüler doğrultusunda ve her halükarda beş yıldan fazla olmamak kaydıyla ilave süre verilebilir. Konuya ilişkin başvurular kuruluşların bağlı bulundukları bakanlıklar aracılığıyla Bakanlığa yapılır.
+
+
+Geçici Madde
+Önceden Verilmiş Garanti veya Kefaletlere İlişkin Hükümler
+3. Bu Yasanın yürürlüğe girdiği tarihten önce verilmiş bulunan Devlet garanti veya kefaletlerine ilişkin hükümler saklıdır. 
+
+
+
+
+Yetki
+Çatışmasına
+İlişkin Kural
+22. Bu Yasanın yürürlüğe girdiği tarihte, diğer yasalardaki herhangi bir kural, madde veya düzenleme ile bu Yasadaki herhangi bir kural, madde veya düzenleme arasında uyumsuzluk veya çelişki olması veya makamlar arasında yetki çatışması olması halinde bu Yasadaki kural veya madde uygulanacaktır.
+
+
+Yürütme Yetkisi
+23. Bu Yasayı, Maliye İşleriyle Görevli Bakanlık yürütür.
+
+
+Yürürlüğe Giriş
+24. Bu Yasa, Resmi Gazete’de yayımlandığı tarihten başlayarak yürürlüğe girer.
+
+*28/2026 sayılı Değişiklik Yasası’nın 3. Maddesi ile Kuzey Kıbrıs Türk Cumhuriyeti Kamu Finansmanı ve Borç Yönetimi Yasası Hakkında Yasa Gücünde Kararname yürürlükten kaldırılır. 
+
+
+
+
+
+
