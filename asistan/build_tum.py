@@ -1,0 +1,101 @@
+"""Yüksek Mahkeme sistemindeki TÜM yasaları (asistana elle eklenen 14 yasa dışındakiler) aranabilir hâle getirir.
+
+Her yasa için en iyi metin kaynağı seçilir:
+  1. LibreOffice ile çıkarılmış Word metni (yasalar-lo/; madde numaraları korunur)
+  2. Önceki çıkarma (yasalar/; word-extractor, mammoth, pdf metni)
+  3. Taranmış PDF'ler için yazı tanıma (ocr/) — kelime hataları olabilir, işaretlenir
+Metin sirali_ayir ile maddelere ayrılır; ayırma güvenilir değilse metin sıralı "parça"lara bölünür ve öyle etiketlenir.
+Çıktı: app/pub/tum-dizin.json (yasa listesi + arama anahtar kelimeleri) ve app/pub/tum-<n>.json (metin paketleri).
+"""
+import json, os, re, sys, math, collections
+D = os.path.dirname(os.path.abspath(__file__)); sys.path.insert(0, D)
+from sirali_ayir import ayir, govde_bas
+REPO = '/home/claude/kktc-mevzuat-botu'
+M = os.path.join(REPO, 'veri/mahkemeler')
+ELLE = {24, 304, 351, 416, 577, 819, 943, 106, 107, 717, 250, 277, 898, 741}
+PAKET_BAYT = 1_500_000
+
+def oku(p):
+    return json.load(open(p, encoding='utf-8')) if os.path.exists(p) else {}
+
+kayit = oku(os.path.join(M, 'yasa-kayit.json'))
+lo = oku(os.path.join(M, 'yasa-lo-kayit.json'))
+ocr = {}
+od = os.path.join(M, 'ocr-kayit')
+if os.path.isdir(od):
+    for f in os.listdir(od): ocr.update(oku(os.path.join(od, f)))
+
+TR = str.maketrans('çğıöşüâîûÇĞİÖŞÜÂÎÛI', 'cgiosuaiuCGIOSUAIUI')
+STOP = set('ve veya ile bir bu da de ki mi icin gibi olan olarak ne nasil hangi ama ancak her herhangi daha cok en yasa madde'.split())
+def fold(s): return re.sub(r'[^a-z0-9 ]+', ' ', s.replace('I', 'ı').replace('İ', 'i').lower().translate(TR))
+def toks(s): return [w[:5] for w in fold(s).split() if len(w) > 2 and w not in STOP]
+
+def parcala(metin, boy=1800):
+    paras = [p.strip() for p in re.split(r'\n\s*\n', metin) if p.strip()]
+    out, buf = [], ''
+    for p in paras:
+        if buf and len(buf) + len(p) > boy: out.append(buf); buf = ''
+        buf += ('\n\n' if buf else '') + p
+        while len(buf) > boy * 2: out.append(buf[:boy]); buf = buf[boy:]
+    if buf.strip(): out.append(buf)
+    return [{'no': f'Parça {i + 1}', 'baslik': '', 'metin': re.sub(r'[ \t]+', ' ', t).strip(), 'parca': True} for i, t in enumerate(out)]
+
+yasalar, istat = [], collections.Counter()
+for pk, k in sorted(kayit.items(), key=lambda x: int(x[0])):
+    pk = int(pk)
+    if pk in ELLE: continue
+    kaynak, metin, ocrmu = None, None, False
+    if str(pk) in lo and lo[str(pk)].get('durum') == 'tamam':
+        kaynak = 'libreoffice'; metin = open(os.path.join(REPO, lo[str(pk)]['metin_dosyasi']), encoding='utf-8').read()
+    elif k.get('durum') == 'tamam':
+        kaynak = k.get('bicim'); metin = open(os.path.join(REPO, k['metin_dosyasi']), encoding='utf-8').read()
+    elif str(pk) in ocr and ocr[str(pk)].get('durum') == 'tamam':
+        o = ocr[str(pk)]; kaynak = o.get('yontem', 'ocr'); ocrmu = kaynak.startswith('ocr')
+        metin = open(os.path.join(REPO, o['metin_dosyasi']), encoding='utf-8').read()
+    if not metin: istat['metin yok'] += 1; continue
+    metin = metin.replace('\r', '').replace('\f', '\n').replace('\xa0', ' ')
+    if ocrmu: metin = re.sub(r'\[SAYFA \d+\]\n?', '\n', metin)
+    b = govde_bas(metin)
+    ms = []
+    try: ms = ayir(metin, b)
+    except Exception: ms = []
+    kapsam = sum(len(m['metin']) for m in ms) / max(1, len(metin) - b)
+    nums = [int(re.match(r'\d+', m['no']).group()) for m in ms]
+    bosluk = (max(nums) - len(set(nums))) / max(nums) if nums else 1
+    if len(ms) >= 3 and kapsam > 0.55 and bosluk < 0.25:
+        maddeler = [{'no': m['no'], 'baslik': m['baslik'], 'metin': m['metin'], **({'kaldirildi': True} if m['kaldirildi'] else {})} for m in ms]
+        ayirma = 'madde'
+    else:
+        maddeler = parcala(metin); ayirma = 'parca'
+    istat[ayirma + (' (ocr)' if ocrmu else '')] += 1
+    ad = re.sub(r'\s+', ' ', k['ad']).strip()
+    yasalar.append({'p': pk, 'n': re.sub(r'\s+', ' ', str(k['numara'])), 'a': ad, 'u': k['url'], 'k': kaynak, 'o': ocrmu,
+                    'y': ayirma, 'kd': bool(re.search(r'yürürlükten\s+kaldır|ilga edil', ad, re.I)), 'm': maddeler})
+
+# arama anahtar kelimeleri: başlık + metnin tf-idf'e göre en ayırt edici 80 kökü
+df = collections.Counter()
+tfs = []
+for y in yasalar:
+    tf = collections.Counter(toks(' '.join(m['baslik'] + ' ' + m['metin'] for m in y['m'])))
+    tfs.append(tf); df.update(tf.keys())
+N = len(yasalar)
+dizin, paketler, paket, boy = [], [], {}, 0
+for y, tf in zip(yasalar, tfs):
+    top = sorted(tf, key=lambda w: -(1 + math.log(tf[w])) * math.log(N / df[w]))[:80]
+    basliklar = ' '.join(m['baslik'] for m in y['m'] if m['baslik'])[:1500]
+    j = json.dumps(y['m'], ensure_ascii=False)
+    if boy + len(j.encode()) > PAKET_BAYT and paket:
+        paketler.append(paket); paket, boy = {}, 0
+    paket[str(y['p'])] = y['m']; boy += len(j.encode())
+    dizin.append({x: y[x] for x in ('p', 'n', 'a', 'u', 'k', 'o', 'y', 'kd')} | {'mc': len(y['m']), 'b': len(paketler), 'kw': ' '.join(top), 'bs': basliklar})
+if paket: paketler.append(paket)
+os.makedirs(os.path.join(D, 'app/pub'), exist_ok=True)
+for f in os.listdir(os.path.join(D, 'app/pub')):
+    if re.match(r'tum-\d+\.json$', f): os.remove(os.path.join(D, 'app/pub', f))
+for i, p in enumerate(paketler):
+    json.dump(p, open(os.path.join(D, f'app/pub/tum-{i}.json'), 'w', encoding='utf-8'), ensure_ascii=False)
+json.dump({'alindi': '2026-10-09', 'kaynak': 'KKTC Yüksek Mahkeme mevzuat sistemi (mevzuat.mahkemeler.net)', 'yasalar': dizin},
+          open(os.path.join(D, 'app/pub/tum-dizin.json'), 'w', encoding='utf-8'), ensure_ascii=False)
+print(dict(istat), 'yasa:', len(yasalar), 'paket:', len(paketler),
+      'dizin MB:', round(os.path.getsize(os.path.join(D, 'app/pub/tum-dizin.json')) / 1e6, 2),
+      'toplam MB:', round(sum(os.path.getsize(os.path.join(D, f'app/pub/tum-{i}.json')) for i in range(len(paketler))) / 1e6, 1))

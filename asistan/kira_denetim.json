@@ -1,0 +1,306 @@
+{
+ "name": "KKTC Kira (Denetim) Yasası — madde veri seti",
+ "source": "KKTC Cumhuriyet Meclisi yasa arşivi (cm.gov.ct.tr/Yasalar)",
+ "fetched": "2026-10-09",
+ "warning": "Metinler Meclis arşivindeki taranmış belgelerden birebir alınmıştır; OCR kaynaklı yazım hataları içerir. Birleştirilmiş (güncel) metin henüz avukat onayından geçmemiştir. 2011 sonrası değişiklik Meclis aramasında bulunamadı; teyit gerekir.",
+ "source_sha256": {
+  "17-1981": "53ad54f2dc8d48ef3c3b21cd8a42d6a19322c8f9cb111877fadc6885913408fb",
+  "22-1981": "4be3b67993335a2561879c0cf415e1d5de9d0577d16255341cd6ef6d61e3f4c3",
+  "35-1982": "f8448535580aaea15f2cddad3306063d426a701f4512f52444d7ca7a5f11518a",
+  "48-1983": "5759581f669ff8b094ea89906be04fdc84f3ca26d15f8ec847e17e5112ecfab4",
+  "27-2011": "04aae2ea402edfa9b5fb634cd6c5916ddb3782b60f34494066235a766589701c"
+ },
+ "laws": [
+  {
+   "no": "17/1981",
+   "name": "Kira (Denetim) Yasası",
+   "role": "esas yasa",
+   "passed": "14 Nisan 1981"
+  },
+  {
+   "no": "22/1981",
+   "name": "Kira (Denetim) (Değişiklik) Yasası",
+   "role": "değişiklik",
+   "passed": "15 Eylül 1981"
+  },
+  {
+   "no": "35/1982",
+   "name": "Kira (Denetim) (Değişiklik No: 2) Yasası",
+   "role": "değişiklik",
+   "passed": "16 Kasım 1982"
+  },
+  {
+   "no": "48/1983",
+   "name": "Kira (Denetim) (Değişiklik) Yasası",
+   "role": "değişiklik",
+   "passed": "5 Temmuz 1983"
+  },
+  {
+   "no": "27/2011",
+   "name": "Kira (Denetim) (Değişiklik) Yasası",
+   "role": "değişiklik",
+   "passed": "2 Mayıs 2011",
+   "note": "Bu değişiklik, yürürlüğe girmeden önce dosyalanmış davalara uygulanmaz (Geçici Madde 1)."
+  }
+ ],
+ "articles": [
+  {
+   "id": "17-1981:1",
+   "law": "17/1981 Kira (Denetim) Yasası",
+   "no": "1",
+   "title": "Kısa isim",
+   "text": "Bu Yasa, Kira (Denetim) Yasası olarak isimlendirilir.",
+   "source_offset": 354,
+   "amendments": [],
+   "status": "yürürlükte"
+  },
+  {
+   "id": "17-1981:2",
+   "law": "17/1981 Kira (Denetim) Yasası",
+   "no": "2",
+   "title": "Tefsir (tanımlar)",
+   "text": "Bu Yasada metin başka türlü gerektirmedikçe ;\n\" Aile \", bu Yasa amaçları bakımından bir kimsenin eşini,çocuğunu ve yasal olarak kendisinin ve eşinin bakmakla yükümlü oldukları ve fiilen baktıkları kimseleri içerir.\n\" Hizmet \", su ikmalini, elektrik akımının teminini ve bunların idamesini, asansör, temizlik veya süpürme hizmetlerini veya taşınmaz malın kiracı tarafından herhangi bir surette kullanılması veya tasârrufu ile ilgili herhangi bir imtiyaz veya kolaylığı kapsar.\n \" İkametgâh \", denetim bölgesi içinde bulunan ve ikâmet amaçları için ayrı olarak kiralanan ve münhasıran veya başlıca bu amaçla tasarruf edilen bir binayı veya binanın bir kısmını anlatır.\nAncak, 15. madde kurallarına bağlı olmak koşuluyla kiralayan ile kiracı arasında geçerli ve yürürlükteki bir sözleşmeye konu teşkil eden herhangi bir taşınmaz malı anlatmaz.\n\" Işyeri \", Anayasa ve Yasa kurallana bağlı olmak koşuluyla, denetim bölgesi içerisinde bulunan herhangi bir iş, zaluyla, meslek veya kamu hizmzti amaçları için kiralanan ve bu amaçla tasarruf edilen herhangi bir taşınmaz malı anlatır.\n Ancak,15. madde kurallarına bağlı olmk koşuluyla,kiracı ile kiralayan arasında geçerli ve yürürlükteki bir sözlemeye konu teşkil eden herhangi bir taşınmaz malı anlatmaz.\n \" Kira \", hizmeler karşılığı ödenen herhangi bir ücreti veya bir taşınmaz malın döşenmiş olarak kiralanması halinde veya bir taşınmaz malın kiralanmış ve içindeki mefruşatın kiralayan tarafından kiracıya kiralanmış olduğu hallerde, mefruşatın kullanılması karşılığı kira veya kira bedeli olarak ödenen herhangi bir ücreti de kapsar.\n Ancak, bu tefsir, ikametgâh tesis etmek amacı dışında kiralanan döşenmiş odalar i1e ilgili herhangi bir kira sözleşmesini kapsamaz.\n\" kira ilişkisi \", yazılı veya başka şekilde kurulan kiralayan - kiracı ilişkisine dayanılarak bir taşınmaz malın kiralanmasını veya tasarrufunu anlatır.\nAncak, bu tefsir, yemekli olarak kiralanan döşenmiş odalar ile ilgili herhangi bir kira sözleşmesini kapsamaz.\n\" Denetim bölgsi \", buYasanın 3. maddesi uyarınca Bakanlar Kurulu kararı ie denetim bölgesi olarak ilân edîlen herhangi bir bölgeyi anlatır.\n\" Kiracı \", var olan bir kira ilişkisi dolayısıyla bir taşınmaz mılın kiracısını anlatır ; ve(1)Yasal kiracıyı ;(2)Herhangi bir kiracınm kiracısını veya asli kiracıdan veya kiracının kiracısından hak elde etmiş herhangi bir kişiyi ;(3)Ölümü zamanında kendisi ile birlikte ikâmet eden kiracının dul karısı veya dul karı bırakmadığı veya kiracının kadın olduğu hallerde kiracının ö1ümünden önceki en az altı aylık süre içinde kiracı ile birlikte ikâmet eden kiracının ailesinden bir kişiyi de kapsar.Kiralayan \"veya \" mal sahibi \", herhangi bir taşınmaz mal ile ilgili olarak kiracıdan başka, bu Yasa kurallarına bağlı olarak taşınmaz malın zilyetliğine hakkı olan veya bulunacak olan herhangi bir kişiyi ve kiralanan taşınmaz malın başkasına kiralanması halinde taşınmaz malı veya herhangi bir kısmını kiralayan bir kiracıyı anlatır.\n \" Mahkeme \", taşınmaz malın bulunduğu kaza mahkemesini anlatır.\n\" Taşınınaz mal \", kira ilişkisine konu olan ve ikametgâh ve işyeri amaçları için tasarruf edilen taşınmaz malı anlatır.\n Ancak, savunma ve tarımsal amaçlar için kullanılan taşınmaz mallar bu tefsirin kpsamına girmez.\n \" Yasal kiracı \", bir kira ilişkisinin sona ermesi veya erdirilmesi halinde ilgili taşınmaz malı tasarrufunda bulundurmaya devam edsn kiracıyı anlatır.",
+   "source_offset": 419,
+   "amendments": [
+    {
+     "law": "22/1981 Kira (Denetim) (Değişiklik) Yasası",
+     "change": "“Yasal kiracı” tanımının sonuna ek yapıldı.",
+     "new_text": "“Ve bu Yasanın Altıncı Kısmındaki Geçici Kuralların 1.maddesi uyarınca tasarrufunda konut bulunduran kişileri de kapsar.”"
+    }
+   ],
+   "status": "yürürlükte"
+  },
+  {
+   "id": "17-1981:3",
+   "law": "17/1981 Kira (Denetim) Yasası",
+   "no": "3",
+   "title": "Yasanın uygulanması ve denetim bölgelerinin saptanması",
+   "text": "(1)Bakanlar Kurulu, toplum huzuru açısından ikâmetgâh ve işyerlerinin hak ve adalete uygun kira karşılığında varlığını ve tasarruf teminatını sağlamak amacıyla veya kamu yararının gerektirdiği hallerde herhangi bir sahayı Resmi Gazete'de yayınlanacak bir kararname i1e denetim bölgesi ilân edebilir ve bu Yasa Kuralları denetim bölgesine dahil ikametgâh veya işyeri amacı ile tasarruf edilen taşınmaz mallara uygulanır.(2)Bakanlar Kurulu,Resmî Gaze,te'de yayınlanacak bir kararname ile denetim bölgesi içinde bulunan herhangi bir ikâmetgâh veya işyerini veya bir sınıf veya grubunu bu Yasa kurallarından tamamen veya koşullu olarak muaf  tutabilir.(3)Bakanlar Kurulu, Resmî Gazete'de yayınlanacak bir karaname ile bu maddenin(1). fıkrası uyarınca yayınlacığı karanamenin çıkarılmasına ;yol,açan durum ve koşulların kalktığı kanısına vardığı veya kamu yararının gerektirdiği hallerde söz koııusu kararnameyi iptal edebilir. Böyle hallerde bu Yasa kurallannın ilgili bölgede uygulanması iptal kararnamesinde belirtilen koşullara bağlı olarak sona erer.",
+   "source_offset": 3819,
+   "amendments": [],
+   "status": "yürürlükte"
+  },
+  {
+   "id": "17-1981:4",
+   "law": "17/1981 Kira (Denetim) Yasası",
+   "no": "4",
+   "title": "Yargılama usulü",
+   "text": "(1)Bu Yasa kuralları uyarınca açılacak herhangi bir dava veya yapılacak istida mahkeme tarafından dinlenerek karara bağlanır.(2)Mahkeme, bu Yasa kuralları uyarınca bir dava veya istidayı dinlerken, hukuk davalarında uygulanan usul ve şahadet kurallarını uygular.",
+   "source_offset": 4946,
+   "amendments": [
+    {
+     "law": "27/2011 Kira (Denetim) (Değişiklik) Yasası",
+     "change": "4(1) değiştirildi (dava en geç 3 ayda karara bağlanır) ve yeni 4(3) eklendi (istinaf en geç 3 ayda).",
+     "new_text": "“(1)Bu Yasa kuralları uyarınca açılacak herhangi bir dava veya yapılacak istida, Mahkeme tarafından, tebliğ tarihinden itibaren en geç üç ay içerisinde dinlenerek   karara bağlanır.”(2)Esas Yasa, 4’üncü maddesinin (2)’nci fıkrasından hemen sonra aşağıdaki yeni (3)’üncü fıkra eklenmek suretiyle değiştirilir:“(3)Bu Yasa kuralları uyarınca verilecek kararlara karşılık yapılacak istinaflar, istinaf ihbarının tebliği tarihinden itibaren en geç üç ay  içerisinde dinlenerek karara bağlanır.”"
+    }
+   ],
+   "status": "yürürlükte (27/2011 ile değişik)"
+  },
+  {
+   "id": "17-1981:5",
+   "law": "17/1981 Kira (Denetim) Yasası",
+   "no": "5",
+   "title": "Mahkeme kararlarının gözden geçirilmesi",
+   "text": "Bu Yasanın üçüncü kısmı uyarınca verilen bir mahkeme kararı, istida yoluyla aşağıdaki lıallerden herhangi biri nedeniyle gözden geçirilebilir,değiştirilebilir vaya kaldırılabilir :(1)Karardan sonra kiraya etkin olaylarda vya durum ve koşullarda esas değişiklik meydana gelmesi halinde ;(2)Kararın hile,yanıltma veya yanılma neticesinde verilmiş olması halinde;(3)Karar zamanında makûl çaba gösterilmiş olmasına rağmen sunulması mümkün olmayan esasa ilişkin yeni şahadet olması halinde ;(4)Kararın, taraflardan birinin kusur veya ihmali olmadan gıyabında verilmiş olması halinde.",
+   "source_offset": 5226,
+   "amendments": [],
+   "status": "yürürlükte"
+  },
+  {
+   "id": "17-1981:6",
+   "law": "17/1981 Kira (Denetim) Yasası",
+   "no": "6",
+   "title": "Taşınmaz mal kiralarının saptanması",
+   "text": "Bu Yasanııı yürürlüğe girdiği tarihten önce veya sonra sözleşmesi sonâ ermiş veya erdirilmiş taşınmaz malların kiraları taraflar arasında yeniden sâptanabilir.\nAncak ;(1)Taraflar arasında kiranın saptanması konusunda anlaşma sağlanamadığı takdirde,tarafların mahkemeye ihbarlı istida yolu ile başvuma ve yeni kirayı mahkemenin saptamasını isteme hakları vardır.(2)Mahkeme, yapılan müracaat ışığında ;(a)Taşınmaz malın yapılış tarihini, bu tarihteki maliytini, kullanılan malzeme türünü, bulunduğu yeri, şehir merkezine olan uzaklık ve yakınlığını, binanın kullanıma uygunluk durumunu ;(b)Kiracı ile kiralayanın malî durumlarını ;(c)Taşınmaz maldan ilk gelir ve menfaat temin edildiği tarih esas alınarak mahkemeye müracaat tarihine kadar elde edilen gelir ve menfaatlerle vergi ve onarımı masraflarının miktarını;(d)Benzeri civar taşınmaz malların hu Yasa amaç ve kuralları ışığında normal kira durumunu dikkate alarak sosyal adalete uygun yeni makûl kirayı  sapar.",
+   "source_offset": 5874,
+   "amendments": [
+    {
+     "law": "35/1982 Kira (Denetim) (Değişiklik No: 2) Yasası",
+     "change": "6. maddeye yeni (3). fıkra eklendi (görevli yargıç).",
+     "new_text": "\"(3).  Bu ve 15. madde amaçları bakımından,  mahkeme',istida konusu                      miktara  bakılmaksızın  istidaya bakan herhangi bir yargıcı anlatır \"."
+    },
+    {
+     "law": "48/1983 Kira (Denetim) (Değişiklik) Yasası",
+     "change": "6. maddeye yeni (4). fıkra eklendi: yeni kira karar tarihinden geçerli. (27/2011 ile değiştirildi.)",
+     "new_text": "“(4)Mahkemenin , yukarıdaki (2) . fıkra kuralları çerçevesinde saptadığı yeni kira , karar tarihinden başlayarak  geçerlilik kazanır “"
+    },
+    {
+     "law": "27/2011 Kira (Denetim) (Değişiklik) Yasası",
+     "change": "6(4) değiştirildi: mahkemenin saptadığı yeni kira İSTİDA (başvuru) tarihinden itibaren geçerli.",
+     "new_text": "“(4)Mahkemenin, yukarıdaki (2)’nci fıkra kuralları çerçevesinde saptadığı yeni kira, istida tarihinden başlayarak geçerlilik kazanır.”"
+    }
+   ],
+   "status": "yürürlükte (35/1982, 48/1983, 27/2011 ile değişik)"
+  },
+  {
+   "id": "17-1981:7",
+   "law": "17/1981 Kira (Denetim) Yasası",
+   "no": "7",
+   "title": "Tahliye sebepleri",
+   "text": "(1)Bu tasa kapsamına giren herhangi bir taşınmaz malın tahliyesine ilişkin hüküm veya emir ancak aşağıdaki hallerde verilir :(a)Kanunen ödeınmesi gereken kiranın zamanında ödenmemesi ve yazılı talep ihbarından sonra yirmi bir gün veya daha fazla bir müddet içinde yine ödenmemiş olması ve dava açılmazdan önce\nde ödeme teklifinde bulunulmaması halinde ;\n Ancak, bu fıkra bakımından kira, onu almaya hakkı alan şahsa iadeli taahhütlü posta ile gönderildiği taktirde ödeme teklifinde bulunulmuş addolunur ; veya(b)kira ödeme yükümlülüğü hariç olmak üzere, bu Yasa kurallarına uygun olarak kurulan herhang bir lkira ilişkisi yükümlülüğünün (bu Yasa kurallarından veya kira sözleşmesinden doğması ha-linde) kiracı tarafından ihlâl edildiği veya yerine getirilmediği ve mahkemenin böyle bir hüküm veya emrin verilmesini makul saydığı hallerde; veya(c)kiracının veya taşınmaz malı kiracıya bağlı olarak tasarruf eden herhangi bir kışinin(under him) aynı veya komşu taşnmaz malları tasarruf  eden veya kullanan kişileri  tedirgin veya devamlı surette  taciz edecek şekilde davrandığı veya taşınmaz malı yasaya veya ahlka aykırı şekilde kullandığı veya kullanmasına müsaade ettiği veya sebeb olduğu hallerde ; veya(d)Taşınmaz malın durumunun mahkemenin kanaatine göre kiracının tahripkâr fiil veya ihmal veya kasıtlı ;davranışı dolayısıyla kötüleştiği veya kiranın taşınımaz mala haksız olarak geniş zarar yaptığı veya zarar yapılmasına neden olduğu hallerde ; veya(e)kiracı tarafından verilen bir tahliye ihbarı ile kira ilişkisinin sona erdirilmesi halinde ; veya(f )Kiracının taşınmaz mala yatılı kiracı kabul etmesi ve a taşınmaz malı başkasına kiralaması veya başka yollarla taşınmaz malın tasarrufundan kısmen veya tamamen vazgeçmek suretiyle doğrudan doğruya veya dolayıslyla kazanç sağlaması ve\n sağlanan kazancın kiracı tarafından ödenen kiraya orarla gayri menkul olması ve mahkemenin tahliye hükmü veya emri verilmesini makul addetmesi  halinde ; veya(g)Taşınmaz mala kiralayan veya eşinin veya 18 yaşını doldurmuş olan herhangi bir evladının makul surette ihtiyacı olması ve rnahkemenin tahliye kararı veya hükmü addetmesi halinde;\nAncak,meselenin bütün durum ve şartları çerçevesinde tanliye hükmü veya emri verilmesinin böyle bir hüküm veya ernir verilmemesine  nazaran daha büyük müşkülât yaratacağı hususunda  kiracı mahkemeyi tatmin ettiği takdirde bu bend kuralları uyarınca tahliye hükmü veya emri vrilmez.\n Bu bend amaçları bakımından\" bütün  meselenin bütün durum ve şartları” tabiri,kiracı veya mal sahibi için başka bir taşınmaz malın mevcut olup olmadığı ve mal sahibinin taşınmaz malı bu bend  kuralları uyarına tasarruf hakkı elde etmek amacıyla bu Yasanın yürürlüğe girmesinden sonra satın alıp almadığını da katysar.\n\" Kiracı için başka bir taşınmaz mal tabiri,kiracının durumuna uygun bir taşınmaz malı da anlatır(h)Taşınmaz mal veya herhangi bir kısmı kiracıya kiralayan tarafındanistihdâmı dolayısıyla icar edilmiş ve istihdamın sona ermiş olması ve taşınmaz mala kiralayanın iş veya hizmetinde devam olarak çalışan herhangi bir müstahdemin tasarrufu\namacıyla makul  surete ihtiyacı bulunması halinde ; veya(ı)Mal sahibinin taşınmaz mala esasa müteallik tadilât veya taşınmaz mala müessir yeni inşaat veya taşınmaz malı yıkmak \namayla ihtiyacı bulunması ve marakemenin tadilât, irşaat veya yıkım için grekli ruhsatın mal sahibi tarafından istihsal edildiği.\nhususunda tatmin edilmesi ve kiracıya taşınmaz malı tahliyesi için üç aydan az olmamak üzere yazılı bir ihbar vermesi halinde ;\nWl Il  l l  Ûl  lF  lF  l  l  l  l  l QQl  l  l  l  lF  l  l  l QQl  l  lF  l  l wq lr wq lr wq lr wl  lr  l wq lr wq lr wq lr wq lr wqq lr wqqq lr wqq lr wqqq lr  Bu bend amaçları bakımından \"esasa müteallik tadilat \" ile \" müessir yeni inşaat, taşınmaz malın temelinde veya dış duvarlarında veya çatısındaki esaslı yıkıma dayalı ve kiracının tahliye edilmesi zorunluluğunu içeren inşaat işleridir.(i)Herhangi bir yasa uyarınca inkişaf projesinin uygulanması amacıyla taşınmaz malın tahliyesinin gerekli olduğu hallerde ; veya15/1962(j)Taşınmaz malın veya herhangi bir kısmının zorla  Mal IktisabıYasası veya kamulaştırma yetkisi veren herhangi bir yasa uyarınca kamûlaştırılması  halinde ; veya(k)Taşınmaz malın herhangi bir mahalli idarerıin yasal görev ve yetkilerinin yerine getirilmesi veya kullanılması veya mahkemenin kanaatince herhangi bir kamu yararı amacıyla makûl surette ihtiyacı olması halinde ; veya(1)Mahkemenin tahliye için hüküm veya emir verilmesini makul addettiği ve kiraciya uygun başka bir taşınmaz malın mevcut olduğu veya hüküm veya  emrin yürürlüğe giriş zamanında mevcut olacağı hususunda tatmin edildiği hallerde.(2)Mahkeme bu madde uyarınca hüküm veya emir veriken kiracının; kira bakiyeleri hariç olmak üzere,yasal olarak borçlu olduğu veya olacağı herhangi bir meblâğı ödemesi koşuluyla makul göreceği şartlara bağlı olaran tahliyeyi bir yıla kadar durdurabilir, erteleyebilir veya\ntasarrufun elde edilmesi tarihini tehir edebilir.(3)Bu madde amaçları bakımından \" mahkeme \",dava konusu miktara bakılmaksızın, davaya bakan Kaza Mahkemesi Başkanı, Kıdemli Kaza Mahkezıesi Yargıcı veya bir Kaza Mahkemesi Yargıcını anlatır.(4)Bu madde uyarınca yapılan muamelelerin mahkeme harç ve avukat ücretleri davanın açılış tarihinde dava konusu taşınmaz mal için ödenmekte olan yıllık kira eası üzerinden yürürlükte bulunan muhakeme usulü tüzüklerine göre düzenlenir.",
+   "source_offset": 6916,
+   "amendments": [
+    {
+     "law": "27/2011 Kira (Denetim) (Değişiklik) Yasası",
+     "change": "7(1)(A),(B),(F),(G),(I) bentleri ve 7(2) değiştirildi (ör. kira bir hafta içinde ödenmezse tahliye; erteleme en fazla üç ay; tadilat ihbarı en az bir ay).",
+     "new_text": "“(A)Kanunen ödenmesi gereken kiranın, ödenmesi gereken son günden itibaren bir hafta içerisinde ödenmemesi veya ödeme teklifinde bulunulmaması halinde; Ancak, bu bent amaçları bakımından kira, onu almaya hakkı olan şahısa iadeli taahhütlü posta ile gönderildiği takdirde ödeme teklifinde bulunulmuş addolunur; veya (B)Kira ödeme yükümlülüğü hariç olmak üzere, bu Yasa kurallarına uygun olarak kurulan herhangi bir kira ilişkisi yükümlülüğünün (bu Yasa kurallarından veya kira sözleşmesinden doğması halinde) kiracı tarafından ihlal edildiği veya yerine getirilmediği; veya”(2)Esas Yasa, 7’nci maddesinin (1)’inci fıkrasının (F) ve (G) bendleri kaldırılmak ve yerine sırasıyla aşağıdaki yeni (F) ve (G) bendleri konmak suretiyle değiştirilir:“(F)Kiracının taşınmaz mala yatılı kiracı kabul etmesi veya taşınmaz malı başkasına kiralaması veya başka yollarla taşınmaz malın tasarrufundan kısmen veya tamamen vazgeçmek suretiyle doğrudan doğruya veya dolayısıyla kazanç sağlaması; veya (G)HHRdZÛÛ ÛööÛRZÛÛ ÛÛ ÛRZÛrrÛ ÛxZÛrfrÛÛ ÛxZÛaLLLÛ ÛZÛaLLÛ ÛZÛrrÛ ÛxZÛrrrÛ ÛxZÛaLÛ ÛZÛRZÛÛ ÛRZÛU ÛZÛÛL ÛZÛÛrrÛ ÛxZÛtÛ ÛZÛtÛ ÛZÛtÛ Û ZÛtÛ Û ZÛaLLÛ Û\nZÛrrÛ ÛxZÛtÛ ÛZÛtÛ ÛZÛTaşınmaz mala, kiralayan veya eşinin veya on sekiz yaşını doldurmuş olan herhangi bir evladının makul surette ihtiyacı olması halinde;”(3)Esas Yasa, 7’nci maddesinin (1)’inci fıkrasının (I) bendi kaldırılmak ve yerine aşağıdaki yeni (I) bendi konmak suretiyle değiştirilir:“(I)Mal sahibinin taşınmaz mala, tadilat veya  yeni inşaat veya taşınmaz malı yıkmak amacıyla ihtiyacı  bulunması ve mahkemenin tadilat, inşaat veya yıkım için gerekli ruhsatın mal sahibi tarafından istihsal edildiği hususunda tatmin edilmesi ve kiracıya taşınmaz malı tahliyesi için bir aydan az olmamak üzere yazılı bir ihbar verilmesi halinde;”(4)Esas Yasa, 7’nci maddesinin (2)’nci fıkrası kaldırılmak ve yerine aşağıdaki yeni (2)’nci fıkra konmak suretiyle değiştirilir:“(2)Mahkeme bu madde uyarınca hüküm veya emir verirken kiracının, kira bakiyeleri hariç olmak üzere, yasal olarak borçlu olduğu veya olacağı herhangi bir meblağı ödemesi koşuluyla makul göreceği şartlara bağlı olarak tahliyeyi üç aya kadar durdurabilir, erteleyebilir veya tasarrufun elde edilmesi tarihini tehir edebilir.”"
+    }
+   ],
+   "status": "yürürlükte (27/2011 ile değişik)"
+  },
+  {
+   "id": "17-1981:8",
+   "law": "17/1981 Kira (Denetim) Yasası",
+   "no": "8",
+   "title": "Bazı hallerde kiracıya tazminat ödenmesi",
+   "text": "Bir işyerinde kiracının yaptığı iş veya ticaret nedeniyle, işyerinde meydana gelen peştemallık dolayısıyla ,kira değerinin artmasın ve işyeri tasarrufunun terkedilmesi  neticesinde kiralayanın bu kira dğerindeki artıştan faydalandığı veya kiracının da zarar gördüğü haled, Mahkeme, 7. mddenin (1). fıkrasının (g) ve (ı) bendlerinden  herhangi biri uyarınca hüküm veya emir verirken,kiralayan tarafından sağlanan menfaati de dikkate alarak, işyeri tasarrufunun kaybından doğan zararın yeterince tazmini için kiracıya tazminat ödenmesini emredebilir.\n Bu tazminat ödenmedikçe hüküm veya emir uygulanmaz.",
+   "source_offset": 12332,
+   "amendments": [
+    {
+     "law": "27/2011 Kira (Denetim) (Değişiklik) Yasası",
+     "change": "8. madde KALDIRILDI.",
+     "new_text": null
+    }
+   ],
+   "status": "kaldırıldı (27/2011)"
+  },
+  {
+   "id": "17-1981:9",
+   "law": "17/1981 Kira (Denetim) Yasası",
+   "no": "9",
+   "title": "Bazı hallerde yeniden kira ilişkisi kurulması",
+   "text": "(1)İş veya ticaretini son beş yıldan beri bir işyerine bağlı bulunduran ve 7. maddenin (1). fıkrasının (ı) bendi uyarınca aleyhine veya emir verilen ve iş veya ticartini başka bir işyerine taşıyıp orada yürüttüğü takadirde zarara uğrayacak bir kiracı 8. madde uyarınca tazmin edilmemişse  ve yeni inşa edilecek taşınmaz mal bir işyeri olacaksa, kiracı, hüküm veya emir tarihinden başlayarak iki ay içerisinde kiralayana yazılı bir ihbar vermek suretiyle, hakkında hüküm verilen işyerinin boyutları, ön cephe ve konumu yaklaşık olarak yeni inşa edilecek işyerine uyuyorsa makûl bir kira karşılığında yeni bir kira ilişkisi kurulmasını isteyebilir ; kiralayan bu istemi reddeder veya ihbar tarihinden başlayarak iki\nay içinde buna uyma isteğini bildirmezse, böyle bir kira ilişkisi kurulması için mahkemeye başvurabilir ve tarafIarın anlaşmaması halinde mahkeme,uygun gördüğü taktirde,bütün durum ve koşulları dikkate alarak, makul bir kira karşılığında makul göreceği koşullarla\nbelliıbir süre için böyle bir ilişkinin kurulmasını emredebilir.(2)Bu madde amaçları bakımından \" makul kira \" ' tarafların anlaşamaması halinde mahkemece saptanacak kira demektir.",
+   "source_offset": 12976,
+   "amendments": [
+    {
+     "law": "27/2011 Kira (Denetim) (Değişiklik) Yasası",
+     "change": "9. madde KALDIRILDI.",
+     "new_text": null
+    }
+   ],
+   "status": "kaldırıldı (27/2011)"
+  },
+  {
+   "id": "17-1981:10",
+   "law": "17/1981 Kira (Denetim) Yasası",
+   "no": "10",
+   "title": "Hüküm veya emrin yanıltma ile elde edilmesi",
+   "text": "Kiralayanın, bu Kısım ,uyarınca tasarruf veya tahliye hükmüt veya emri  elde etmesinden sonra, hüküm veya emrin yanıltma (mis-representation)veya esasa ilişkin olgularıngizlenmesi yoluyla elde edildiğinin isbatı hıalinde, mahkeme, hüküm veya emrin bir sonucu olarak eski kiracının uğradığı zarar veya kaybın tazmini için yeterli göreceği bir tazminat  tutarının kiralayan tarafından kira-\ncıya ödenmesini emredebilir.",
+   "source_offset": 14215,
+   "amendments": [],
+   "status": "yürürlükte"
+  },
+  {
+   "id": "17-1981:11",
+   "law": "17/1981 Kira (Denetim) Yasası",
+   "no": "11",
+   "title": "Mahkemenin şart koşma yetkisi",
+   "text": "herrhangi bir mahkeme, bu Kısım uyarınca yapılan bir başvuru üzeıine herhangi bir emre ek olarak veya herhanıgi bir emrin yerine geçmek üzere, taraflardan birinin, ;taraflarca saptanan herhangi bir miktarı diğer  tarafa ödemesi de dahil olmak üzere, Mahkemenin bu Yasa amaçlarını etkin kılmak amacıyla koymayı uygun göreceği koşullara,kendi taktlirine göre taıaflardan herhangi birine veya her ikisine uymasını emredebilir.",
+   "source_offset": 14679,
+   "amendments": [],
+   "status": "yürürlükte"
+  },
+  {
+   "id": "17-1981:12",
+   "law": "17/1981 Kira (Denetim) Yasası",
+   "no": "12",
+   "title": "Yasal kiracılık şartları",
+   "text": "(1)Bu Yasa kuralları uyarınca bir taşınmaz malı tasarufunda bulunduran bir kiracı,tasarruf süresince kira sözleşmesinin bu Yasa kurallarına uygun şart ve kayıtlarına uymakla yükümlüdür ve bu sözleşmenin kendisine tanıdığı menfaatlerden yararlanır.Böyle bir kiracı  sadece esas kira sözleşmesinde öngörüldüğü biçimde bir ihbar vermek koşuluyla tasarrufu iade edebilir.\nAncak bir kiracının kiracısının yasal kiracı  olması halinde, yasal kiracı da kiralayan ile kiracı arasındaki esas kira sözleşmesinde var olan. kısıtlayıcı kurallara bağlı olmak üzere böyle bir tasınmaz malı tasarruf  edebilir.(2)kiralayanın yapması gereken esaslı tamiratı yapmaması halinde,Mahkeme,bir yasal kiracının müracaatı halinde,gerekli esalı tamirat işlerinin kiralayan tarafından ödenmek üzere kiracı tarafından yapılmasını ve kiralayanın bu gibi tamirat masraflarını ödememesi halinde kiracının tamirat masraflarını kiraya mahsuben kesmesini emreder.\nBu madde amaçları bakımından \" esaslı tamirat \";bir taşınmaz malın kiracıya bağlanamayan sebebler dışında meydana gelen her türlü hasarın tamirini anlatır.",
+   "source_offset": 15165,
+   "amendments": [],
+   "status": "yürürlükte"
+  },
+  {
+   "id": "17-1981:13",
+   "law": "17/1981 Kira (Denetim) Yasası",
+   "no": "13",
+   "title": "Tasarruf emrinin kiracının kiracısı üzerindeki tesirleri",
+   "text": "(1)Herhangi bir taşınmaz malın kiracısı aleyhine tahliye hükmü veya emri verilmesi halinde,Mahkeme,kira sözleşmesinin taşınmaz malı kiracının başka birine kiralamasını yasakladığı veya kiracının kiracısının yasa veya ahlâk dışı amaçlarla kullandığı hususunda tatmin edilmedikçe, böyle bir hüküm veya emir bu gibi kiracının kiracısı aleyhine icra olunamaz.Kiracı aleynine verilen herhangi bir tahliye hükmü veya emrinde, hüküm veya emrin kiracının kiracısı aleyhine de icra ediliıp edilmeyaceği belirtilmelidir.(2)Hakkında böyle bir hüküm veya emrin icrası mümkün olmayan kiracının kiracısı, hüküm veya emrin kendisine tebliğini müteakip, tasarrufa devam etmesi halinde,kirânın kiracısı sıffatını kaybeder ve tasarrufunda bulundurduğu taşınmaz mal hususunda mal sahibinin\n yasal kiracısı olur.",
+   "source_offset": 16279,
+   "amendments": [],
+   "status": "yürürlükte"
+  },
+  {
+   "id": "17-1981:14",
+   "law": "17/1981 Kira (Denetim) Yasası",
+   "no": "14",
+   "title": "İhbarların tebliği",
+   "text": "(1)İlgili hukuk Muhakemeleri Usulü Tüzüğü ve bu Yasa uyarınca yapılan tüzüğe bağlı olmak koşuluyla herhangi bir ihbar, başvuru, istem veya bu Yasa uyarınca yapılan sair evrak yazılı olur ve tebliğ edilecek olan kişinin kendisine verilmek veya Kıbns Türk Federe devletindeki son ikametgah veya iş adresine bırakılmak veya Kıbrıs Türk Federe Devletinde en sonbilinen posta adresine taathütlü pota ile gönderilmek suretiyler tebliğ olunabilir ve kendisine tebliğ edilecek olan kişi, kendisi tarafından usulüne uygun olarak yetkili kılınmış herhangi bir vekili de kapsar.(2)Herhangi bir taşımaz malın kiracısı söz konusu taşınmaz malın kiralarını almaya hakkı olan kişiden (bundan bölyle asıl kiralayan olarak anılacaktır) bu hakkının sona erdiğini ve sözkonusu kiralara hak kazanmış kişinin isim ve adresini bildiren yazılı bir ihbar olmadıkça veya alıncaya kadar, bu Yasa uyarınca asıl kiralayana tebliğ edilen herhangi bir ihbar, başvuru, istem veya herhanbi bir evrak sözkonusu taşınmaz malın kiralayanına tebliğ edilmiş sayılır.",
+   "source_offset": 17131,
+   "amendments": [],
+   "status": "yürürlükte"
+  },
+  {
+   "id": "17-1981:15",
+   "law": "17/1981 Kira (Denetim) Yasası",
+   "no": "15",
+   "title": "Sözleşmeler (fahiş kira)",
+   "text": "Bu Yasanın yürürlüğe girdiği tarihten önce veya sonra yapılmış veya yapılacak kira sözleşmelerinde saptanan kira miktarı,kiracının, konut darlığı ve kira bedellerinin yüksekliği nedeniy1e zor durumda bulunmasından istifade edilerak makul olmayan bir  şekilde veya miktarda fahiş olarak  saptanmış ve kiracının bu kira miktarını ödemesinin bu Yasa kurallarına göre adil olmadığı durrumlarda, kiracı bu Yasanın 6. maddesi uyarınca kira sözleşmesinin sona ermesini beklemeden kira miktarının saptanması için mahkemeye başvurabilir.\n    Mahkeme, başvuruyu haklı bulduğu takdirde sözleşmeyi sona erdirir ve kiracı, karar tarihinden başlayarak yasal kiracı olur,böyle bir halde, kira miktarını bu Yasa kuralları uyarınca mahkeme saptar.\nBu madde kuralları,münhasıran ikametgâh alarak kullanılan taşınmaz mallara uygulanır.",
+   "source_offset": 18182,
+   "amendments": [
+    {
+     "law": "27/2011 Kira (Denetim) (Değişiklik) Yasası",
+     "change": "15. madde tamamen yeniden yazıldı: kiracı fahiş kira için, mal sahibi alenen düşük kira için sözleşme bitmeden mahkemeye başvurabilir.",
+     "new_text": "“Sözleşmeler 15.(1)Kira sözleşmelerinde saptanan kira miktarı, kiracının, konut darlığı ve kira bedellerinin yüksekliği nedeniyle zor durumda bulunmasından istifade edilerek makul olmayan bir şekilde veya miktarda fahiş olarak saptanmış ve kiracının bu kira miktarını ödemesinin bu Yasa kurallarına göre adil olmadığı durumlarda, kiracı bu Yasanın 6’ncı maddesi uyarınca kira sözleşmesinin sona ermesini beklemeden kira miktarı saptanması için mahkemeye başvurabilir.(2)Kira sözleşmelerinde saptanan kira miktarı, mal sahibinin konut fazlalığı ve kira bedellerinin düşüklüğü nedeniyle zor durumda bulunmasından istifade edilerek makul olmayan bir şekilde veya miktarda alenen az saptanmış ve kiracının bu kira miktarını ödemesinin bu Yasa kurallarına göre adil olmadığı durumlarda mal sahibi bu Yasanın 6’ncı maddesi uyarınca kira sözleşmesinin sona ermesini beklemeden kira miktarının saptanması için mahkemeye başvurabilir.(3)Mahkeme, bu maddenin yukarıdaki fıkraları uyarınca yapılan başvuruyu haklı bulduğu takdirde sözleşmeyi sona erdirir ve kiracı, karar tarihinden başlayarak yasal kiracı olur. Böyle bir halde, kira miktarını bu Yasa kuralları uyarınca mahkeme saptar.(4)Bu madde kuralları, münhasıran ikametgah olarak kullanılan taşınmaz mallara uygulanır.”"
+    }
+   ],
+   "status": "yürürlükte (27/2011 ile değişik)"
+  },
+  {
+   "id": "17-1981:16",
+   "law": "17/1981 Kira (Denetim) Yasası",
+   "no": "16",
+   "title": "Yürürlükten kaldırma",
+   "text": "Fasıl 86\n17/1961\n39/1961\n1/1968\n18/1973\n2/197816.Bu Yasa ile, bundan önce yürürlüktle bulunan taşınmaz mal kiraları ile ilgili Fasıl 86 Kira (Kontrol) Yasası,değiştirilmiş şekliyle 1961 Kira Murakabe (İş Binaları) Yasası, 1967 Kira Tanzim ve Murakebe (Geçici Hükümler)Yasası, 1973 Kira Kontra (Geçici hükümler) Yasası ve 1978 Konut Kiralarının Dondurulma(Geçici Kurallar) Yasası yürürlükten kaldırılır.",
+   "source_offset": 19016,
+   "amendments": [],
+   "status": "yürürlükte"
+  },
+  {
+   "id": "17-1981:17",
+   "law": "17/1981 Kira (Denetim) Yasası",
+   "no": "17",
+   "title": "Kira bakiyelerinin dondurulması",
+   "text": "Yürürlükten kaldırılan mavzuat uyarınca, 21Aralık 1963 ile 1 Ocak 1974 tarihleri arasındaki kira bakiyeleri dondurulur.\n Ancak kiracının ödeme kabiliyetinin kira bakiyelerini tamamen veya kısmen ödenmesine uygun olduğu hususunu ispat yükümü kiralayana ait olmak koşuluyla, mahkeme, ödeme kabiliyeti uygun olan kiracıların, kira bakiyelerini tamamen veya kısmen ödemelerini emredebilir.",
+   "source_offset": 19440,
+   "amendments": [],
+   "status": "yürürlükte"
+  },
+  {
+   "id": "17-1981:Geçici1",
+   "law": "17/1981 Kira (Denetim) Yasası",
+   "no": "Geçici 1",
+   "title": "Geçici madde 1",
+   "text": "Bu Yasa kuralları,bu Yasanın yürürlüğe girdiği tarihten önce, 1973 Kira Kontrol (Geçici Hükümler) Yasası ile 1978 Konut Kiralarının Dondurulması (Geçici Kurallar) Yasası uyarınca açılmış olan ve henüz kesin hükme bağlanmayan davalara konu olan taşınmaz mallara da uygulanır.\nBu madde amaçları bakımından \" kesin hüküm \", istinaf edilmeyen hallerde aradan kırk iki gün geçtikten sonra veya istinaf edilen hallerde Yüksek Mahkeme kasarıyla kesinleşen hüküm demektir \".",
+   "source_offset": 19889,
+   "amendments": [
+    {
+     "law": "22/1981 Kira (Denetim) (Değişiklik) Yasası",
+     "change": "Geçici madde 1 kaldırıldı ve yerine yenisi kondu.",
+     "new_text": "1.(a)Bu Yasa Kuralları, bu Yasanın yürürlüğe girdiği tarihten önce 1973 Kira Kontrol (Geçici Hükümler) Yasası, 1978 Konut Kiralarının Dondurulması (Geçici Kurallar) Yasası ve Kira ilişkisinin sona ermesinden sonra Haksız Fiiller Yasası (Fasıl 148) uyarıssIl llF lFlF z lrnca açılmış olan ve henüz kesin hükme bağlanmayan davalara konu olan konutlara veya bu gibi konutları fiilen tasarruf etmekte olan ve aleyhlerine yukarıda sayılan yasalar altında verilen herhangi bir tahliye kararı henüz icra edilmemiş bulunan kişilere de uygulanır.\n Bu madde amaçları bakımından “kesin hüküm” istinaf edilmeyen hallerde aradan kırk iki gün geçtikten sonra veya istinaf edilen hallerde yüksek mahkeme kararıyla kesinleşen hüküm demektir.\n(b)Yukarıda (a) fıkrası kuralları kapsamına giren hüküm ve kararlar, ilgili konutun fiilen tasarrufunu elde bulunduranlar aleyhine hiç bir şekilde icra edilemez. Bu gibi kişiler tahliyesi emredilen konut veya konutların ilgili hükümde ve / veya böyle bir hükmün icrasını durduran kararda  gösterilen tahliye gününden itibaren ilgili konutu yine ilgili hüküm ve / veya kararda saptanan “kullanma bedeli” karşılığında kira ödemek kaydı ile “yasal kiracı” olarak tasarrufa devam etmeye hak kazanırlar."
+    }
+   ],
+   "status": "yürürlükte"
+  },
+  {
+   "id": "17-1981:Geçici2",
+   "law": "17/1981 Kira (Denetim) Yasası",
+   "no": "Geçici 2",
+   "title": "Geçici madde 2",
+   "text": "Bakanlar Kurulu bu Yasanın 3.maddesi uyarınca denetiim bölgeleri saptayıncaya kadar ve herhalûkârda bu Yasanın yürürlüğe girdiği tarihten başlayarak iki ayı geçmeyen bir süre içerisinde, mahkeme, kiralanan herhangi bir taşınmaz mal için her belediyenin Belediye Dairesinden beş mil çapındaki bölge içerisinde bulunan taşınmaz mallar hususunda tahliye hükmü veya emri, veremez.",
+   "source_offset": 20370,
+   "amendments": [],
+   "status": "yürürlükte"
+  },
+  {
+   "id": "17-1981:18",
+   "law": "17/1981 Kira (Denetim) Yasası",
+   "no": "18",
+   "title": "Yürürlüğe giriş",
+   "text": "Bu Yasa Resmî Gazete'de yayınlandığı tarihetn başlayarak yürürlüğe girer.",
+   "source_offset": 20790,
+   "amendments": [],
+   "status": "yürürlükte"
+  }
+ ]
+}
