@@ -1,0 +1,564 @@
+D.13/2020                                         YİM 161/2014
+
+Yüksek İdare Mahkemesinde                         
+Anayasanın 152. Maddesi Hakkında.
+
+Yargıç Beril Çağdal huzurunda.
+
+
+Davacı:Kıbrıs Mobile Telekomünikasyon Limited Bedrettin 
+       Demirel Caddesi Salih Mecit Sokağı Kavşağı 
+       No:1Lefkoşa.
+
+- ile -
+
+Davalı:Bilgi Teknolojileri ve Haberleşme Kurumu Osmanpaşa 
+       Caddesi Feray Yağcıoğlu Apt.Kat:2Daire:1-Lefkoşa. 
+
+
+İlgili Şahıs No.1: KKTC Bayındırlık ve Ulaştırma Bakanlığı 
+                   Telekomünikasyon Dairesi – Lefkoşa.
+
+İlgili Şahıs No.2: Vodafone Mobile Operations Ltd. – Lefkoşa.
+
+
+                                          A r a s ı n d a.
+
+
+Davacı namına: Avukat Süleyman Dolmacı
+Davalı namına: Avukat Hasan Esendağlı
+İlgili Şahıs No.1 namına: Kıdemli Savcı Cemaliye Usanmaz
+İlgili Şahıs No.2 namına: Avukat Serhan Çinar
+
+-------------
+
+K A R A R
+
+	Davacının Davalı aleyhine dosyaladığı davadaki talepleri şöyledir: 
+	“A. Davalı tarafından 15/07/2014 tarihinde alınan ve 
+davacının şu an mevcut yurt içi sabit ve mobile çağrı sonlandırma ücretlerini düzenleyen ve/veya bu ücret-leri indiren ve/veya bu ücretlere kademeli iniş uygu-layarak üç aşamalı olarak indirilmesini öngören 2014- DK/BTHK-56. 116 no’lu kararının etkisiz ve hükümsüz olduğu ve herhangi bir sonuç doğuramayacağı;
+
+      B. Davalının davacı ve diğer operatörlerle arasında 
+         mevcut ve uygulanmakta olan çağrı sonlandırma 
+         ücretleri tarifesini 01/08/2014 tarihinden itibaren 
+         değiştiren ve/veya aşamalı olarak yeni düşük ücret 
+         tespit eden karar ve/veya kararların etkisiz ve 
+         hükümsüz olduğuna ve herhangi bir sonuç doğurama-    
+         yacağı;
+
+     C. Davalının davacının Etkin Piyasa Gücüne (EPG) sahip 
+        olduğunu tespit eden kararının ve/veya tespitinin 
+        etkisiz ve hükümsüz olduğuna ve herhangi bir sonuç 
+        doğuramayacağı; hususunda
+
+        Mahkeme Emri veya Hükmü.” 
+
+
+	Davacının Talep Takririnde; Davacı ile KKTC Bayındırlık ve Ulaştırma Bakanlığı arasında 27.4.2007 tarihinde akteylenen GSM sayısal hücresel mobil telefon sistemi kurulması ve işletilmesi ile ilgili lisans verilmesine ilişkin sözleşme ile  18 yıllık bir süre için GSM mobil telekomünikasyon sistemi kurma ve işletme hakkına sahip olduğu; Davacı ile Telekomüni-kasyon Dairesi (İlgili Şahıs No.1) arasında 27.4.2007 tarihli Ara Bağlantı Sözleşmesi 28.7.2008 tarihli ek sözleşme ve Da-vacı ile Vodafone Mobile Operations Ltd.(İlgili Şahıs No.2) arasında 31.3.2011 tarihli şebekeler arası işbirliği ön sözleşmesinin mevcut olduğu; Davacı ile diğer iki işletmecinin aralarında aktolunan sözleşmelerde tarafların ara bağlantı veya çağrı sonlandırma diye tarif edilen hizmetlerin ücret-lerini belirlediği ve halen aralarında uygulanmakta olan ücret tarifelerinin mevcut olduğu iddia edilmektedir. Talep Takriri-nin davaya ilişkin olgular bölümündeki 5.6.7.8.9.10. ve 11. paragrafları aynen şöyledir:  
+
+“5- 10/01/2012 tarihinde 6/2012 sayılı Elektronik Haberleşme 
+Yasası resmi gazetede yayınlanarak yürürlüğe girdi ve bu yasa çerçevesinde davalı kurum oluşturuldu. Elektronik Haberleşme Yasasının geçici 4. maddesinin 3. bendi ile Davalı kuruma lisanslarda açıkça bir kural bulunsa dahi çağrı sonlandırma ücretlerinde gerekli düzenleme yapma hakkı yetkisi verildi.
+6- 04/03/2014 tarihli resmi gazetede yayınlanarak “Erişim Ara 
+Bağlantı Piyasa Analizi ve Tarifeler” Tüzüğü yürürlüğe girdi. Davalı Elektronik Haberleşme Yasasının ve Tüzüğün ilgili maddelerine dayanarak davacı ve diğer şebeke işlet-mecileri ile aralarında mevcut sözleşmelerine ve bu sözleş-melerde düzenlenen sabit sonlandırma ve mobil sonlandırma ücretlerine aldığı dava konusu kararla müdahale etti ve bu ücretlerin 01/08/2014 tarihinden itibaren indirilmesine indirimin kademeli iniş uygulanarak üç aşamalı olarak yapılmasına karar verdi. Bu karara göre 01/08/2014 tarihinden itibaren Davacı ile Telekomünikasyon Dairesi arasında mevcut sözleşmede sabit sonlandırma ücreti 2.60 krş/ dakika ücreti 1.75 krş/ dakika ücretine 01/01/2015 tarihinden itibaren 1.05 krş/dakika ücretine 01/07/2015 tarihinden itibaren 0.34 krş/dakika ücretine düşürüldü.
+   Davacının Vodafone Mobile Operations Ltd ile ve Telekomüni- 
+   kasyon Dairesi ile arasında mevcut sözleşmede düzenlenen ve 
+   halen uygulanmakta olan mobile sonlandırma ücreti 10.40 
+   krş/dakika ücreti 01/08/2014 tarihinden itibaren 7.00 
+   krş/dakika ücretine 01/01/2015 tarihinden itibaren 5.03 
+   krş/dakika ücretine 01/07/2015 tarihinden itibaren 3.05 
+   krş/dakika ücretine düşürmek suretiyle yeniden belirledi. 
+   Davalı kararında bu ücretlerin net fiyatlar olduğunu da 
+   belirtmiştir. Davacıya ilgili karar 18/07/2014 tarihinde 
+   tebliğ edildi. 
+7- Davacının gerek Lisans Sözleşmesi gerekse diğer operatör- 
+   lerle arasında yapılan sözleşmeler 6/2012 sayılı yasa ve bu 
+   yasa altında çıkarılan tüzükten önce yapıldığı ortadadır. 
+   Özellikle Lisans sözleşmesinde bu hususlarda yapılmış 
+   herhangi bir düzenleme yoktur. Davalı ve diğer operatörler 
+   arasında yapılan sözleşmelerde bu hususlarda düzenlemeler 
+   yoktur. Sözleşmelere aykırı olarak yasal düzenlemeler 
+   yapılmıştır. Davalının ilgili kararı davacıya ve davacının 
+   taraf olduğu sözleşmelere uygulanmaması gerekir. Davacının 
+   kazanılmış hakları ve herhalükarda Anayasa ile güvence 
+   altına alınan hakları ve/veya sözleşme hakkı böyle bir 
+   kararla ihlal edilmiş olur.
+8- Davalının yeni ücret belirleme ile ilgili dava konusu 
+   kararı gerekçesiz ve/veya keyfi olup davacıya söz hakkı 
+   ve/veya dinlenme hakkı tanınmadan alınmış bir karardır.
+9- Davalı davacının Etkin Piyasa Gücüne (EPG) sahip olduğunu 
+   tespit eden ilgili piyasa analizi raporunun yanlış ve/veya 
+   doğru olmadığı görülmektedir. Etkin Piyasa Gücüne (EPG) 
+   sahip işletmecilerin belirlenmesi için ölçü alınması gere-
+   ken kriterlerin tümünün yeterli şekilde dikkate alınmadığı 
+   görülmektedir.
+10-Davalının dava konusu karar ve/veya kararların alabilmesi 
+   için yapması gerekli çalışmaları ve/veya incelemeler 
+   yeterince yapılmadı. Alınan karar ve/veya kararlar keyfi 
+   kararlardır. Davalı her ne kadar da bu karar ve/veya 
+   kararlarını kamu yararı gerekçesine dayandırmakla birlikte 
+   bu karar ve/veya kararlar kamu yararına değildir. Sadece 
+   davalı ve diğer iki şebeke işletmecisi ile alakalıdır.
+11-Davacı davalının almış olduğu karar ve/veya kararların 
+   ve/veya yapmış olduğu işlem ve/veya işlemlerin yasal 
+   dayanaktan yoksun ve/veya yetkilerini aşarak alındığını ve 
+   bu hususun davacının meşru menfaatlerini direk ve olumsuz 
+   olarak etkilediğini iddia eder ve iptalini talep eder.” 
+
+     Davalı tarafından dosyalanan Müdafaa Takririnde özetle; Davalı kurumun ara bağlantı ücretlerinin kademeli olarak indi-rilmesine yönelik dava konusu kararının yeterli ve geçerli gerekçeye yasal yetkiye yapılan kapsamlı analiz inceleme ve raporlara istinat ettiği; yapılan düzenlemenin özellikle AB ve Türkiye ile uyumlu olduğu ve/veya benzeştiği dava konusu kararın alınmasında uygulanan yöntem ve/veya usulün yasal pro-sedüre uygun olduğu; takdir hakkının yasal çerçevede ve/veya yetkiler dahilinde kullanıldığı; Kurumun bu karar gerekçesinde piyasa analiz ve ücret kıyaslama raporlarında detaylı bir şekilde belirtilen “kamu yararı”nı gerçekleştirmeye yöneldiği; kararın özellikle tüketici haklarını ve rekabet koşullarını koruyucu nitelik taşıdığı ve/veya Davalının bu yöndeki görevlerini yerine getirme ve/veya yasal ilkelerle uyumlu hareket etme amacı taşıdığı; Davalı tarafından onaylanan piyasa analizleri içerisinde saptama ve ara bağlantı ücret-lerinin düzenlenmesine ilişkin dava konusu kararın esaslı dayanaklarından biri olan tüm haber sağlayıcılarının Etkin Piyasa Gücüne (EPG) sahip olduğu yönündeki saptama ve/veya karar ve buna bağlı olarak “fiyat kontrolü” dahil tabi olacağı yükümlülüklerin belirlenmesi yönündeki kararın yasal ve/veya geçerli ve/veya doğru kararlar olduğu iddia edilmektedir.
+
+	İlgili Şahıs No.1 tarafından dosyalanmış olan Müdafaa Takririnde ise özetle; İlgili Şahıs No.1 ile Davacı ve İlgili Şahıs No.2 arasında akdolunan GSM Hücresel Mobil Telefon Kurulması Ve İşletilmesi İle İlgili Lisans Verilmesine İlişkin Sözleşme gereği Davacı ve İlgili Şahıs No.2’nin GSM mobil telekomünikasyon sistemi kurma ve işletme hakkına sahip oldukları; İlgili Şahıs No.1 ile Davacı ve İlgili Şahıs No.2 arasında ara bağlantı sözleşmesi de bulunduğu; ara bağlantı ücretlerinin taraflar arasında 6/2012 sayılı Elektronik Haberleşme Yasası’nın yürürlüğe girmesinden önce akdolunan sözleşmeler tahtında tespit edildiği 6/2012 sayılı Elektronik Haberleşme Yasası’nın geçici 6. maddesinin (3). fıkrasına göre Davalının sayısal ve hücresel mobil telefon sistemi kurulması ve işletilmesi ile ilgili lisanslarda açıkça bir kural bulun-ması halinde dahi çağrı sonlandırma ücretlerinde Yasa’nın ilgili maddeleri uyarınca gerekli düzenlemeleri yapma hakkına sahip olduğu İlgili Şahıs No.1’in muhtelif tarihlerde Davalı ve İlgili Şahıs No.2’yi aralarında yapılan Trafik Ara Bağlantı Sözleşmesi’nin içeriğini gözden geçirip ara bağlantı ücretle-rinin günün koşullarına uygun bir şekilde güncellenmesi maksa-dıyla çalışma yapmak üzere toplantıya davet ettiği ancak Davacı ile İlgili Şahıs No.2’nin bu davete icabet etmediği nedeniyle İlgili Şahıs No.1 ile Davacı ve İlgili Şahıs No.2 arasında bir uzlaşıya varılamadığı; 4.11.2013 tarihinde ise İlgili Şahıs No.1’in Davalı kuruma müracaat ederek tüm uzlaşma arayışlarının neticesiz kaldığını bildirerek Yasa gereği kuru-mu gerekli düzenlemeleri yapmaya çağırdığı; İlgili Şahıs No.1 ile ilgili verilmiş olan Etkin Piyasa Gücüne sahip olduğu yönündeki kararın içeriğine katılmamakla birlikte Davalı kurumun taraflar arasında ara bağlantı sözleşmesi bulunmasına rağmen yapmış olduğu düzenlemenin ve izlediği yolun yasal olduğu ve dava konusu kararı almaya yetkili olduğunu iddia etmektedir. 
+
+	İlgili Şahıs No.2 ise Davalının müdafaasına katıldığını beyan ederek ayrıca Müdafaa Takriri dosyalamamıştır. 
+   
+	Davanın duruşmasında 34 adet belge emare olarak kaydedil-miş ve aşağıda gösterilen hususlar müşterek olgu olarak kayde-dilmiştir:
+
+1-	Davacı Şirketler Mukayyitliği nezdinde kayıtlı sayısal hücresel mobil  telekomünikasyon sistemi kurulumu ve işletmesini yapan tüzel kişidir. 
+2-	Davacı ile İlgili Şahıs No.1 Bakanlık arasında 27.4.2007 tarihinde 18 yıl süren lisans verilmesine ilişkin sözleşme imzalanmıştır. 
+3-	Davacı ile İlgili Şahıs No.1 arasında 27.4.2007 tarihinde ara bağlantı sözleşmesi 28.7.2008 tarihinde ara bağlantı sözleşmesine ek sözleşme ilgili şahıs No.2 ile de 31.3.2011 tarihinde imzalanmış şebekeler arası işbirliği ön sözleşmesi mevcuttur. Bu sözleşmelerde ara bağlantı ücretleri belirlenmişti. 
+4-	10.1.2012 tarihinde 6/2012 sayılı Yasa ile Davalı Kurum oluşturuldu. Ve
+5-	Bu Yasa ile Davalı Kurum’a çağrı sonlandırma ücretlerinde düzenleme yapma hakkı verildi bu Yasa’ya bağlı çıkarılan Erişim Ara Bağlantı Piyasa Analizi ve Tarifeler Tüzüğü yürürlüğe girdi. 
+
+	Davacı tarafından 2 tanık; Davalı tarafından 1 tanık dinlenen duruşmada Davacı Avukatı tarafından Mahkemeye yapılan hitapta özetle; dava konusu kararda idare tarafından gösteri-len sebeplerin denetlenmesi gerektiği; amaç unsuru açısından ise kamu yararına dayanıp dayanmadığının incelenmesi gerekti-ği; bu meselede idarenin varsayıma dayalı bir karar ürettiği; idarenin kararı alma sebebinin gerçeğe uygun olmadığı; ortada yeterli araştırma yapılmadan alınan bir karar olduğu; Yasa’nın 32. maddesinin piyasada mevcut kişiler için değil piyasaya yeni girecek olanlar için olduğu; bir an için mevcut kişileri de kapsadığı kabul edilse dahi sürecin maddeye uygun işledi-ğine dair bir iddia bulunmadığı; Davalı Kurum’un uyuşmazlık sürecine ilişkin aldığı ve taraflara ilettiği bir kurul kararı da olmadığı iddia edilmiştir.
+
+	Davacı Avukatı hitabına devamla mobil pazarda rekabet sorunu tespit edildiğine dair Davalı gerekçesinin doğru olma-dığı; ara bağlantı ücretlerinin yüksek olması nedeniyle pazara girmek istemesine rağmen girmekten vazgeçen biri olduğuna dair şahadet olmadığı; pazara girmede Davalının uzmanının da yatırım spektrum kıtlığı gibi başka sebepler olduğunu kabul ettiği; (kararda yer alan) “acilen düzenlenmesi lazım” ifade-sinin açıklamasının bulunmadığı; Davalının talep ettiği verilerin eksik olması nedeniyle kıyaslama metodunu uygulama-sının hatalı olduğu; Davacının uzman tanığının verilen verilerle uzun dönem artan maliyet hesabı yapılabilecek durumda olduğunu ifade ettiği; zaten Davalının neyin eksik olduğunu belirtmediği; eksik verildiği için Yasa’nın 99. maddesini de uygulamaya koyup ceza kesmediği; tüm bunların dava konusu idari kararın gerçeğe uygun olmadığını gösterdiği iddialarında bulunarak dava konusu kararın iptali gerektiğini ifade etmiştir.
+
+	Davalı Avukatı ise hitabında mevzuata detaylı bir şekilde temas ettikten sonra  özetle Davalı Kurum’un ara bağlantı üc-retlerini kademeli olarak indirmek konusunda yeterli ve geçer-li gerekçeye; yasal yetkiye sahip olduğu; bu konuda kapsamlı analiz inceleme ve raporlara isnat edildiği; yapılan düzenle-menin AB ve Türkiye ile uyumlu olduğu ve bunun özellikle AB ile uyumlu olmasının Yasa ve Tüzükle de uyumlu olduğunu Davalının takdir hakkı kullanmasında da Mahkemenin müdahalesi-ni gerekli kılacak hukuki bir hatanın bulunmadığı; Davalının kararının karar gerekçesinde de belirtildiği üzere tamamen kamu yararı amacına yönelik olduğu Davacı ve İlgili Şahıs-ların çağrı sonlandırma pazarında yani ara bağlantı piyasasın-da etkin piyasa gücüne sahip oldukları yönlü saptamanın da hukuka aykırı olmadığını ifade etmiştir. EPG tespit edilmesi için piyasa analizinde uygulanan üçlü kriter testinin de Tüzük bağlamında yapıldığı Davalı Avukatı tarafından hitabında dile getirilmiştir.
+
+	İlgili Şahıs No.1 adına bulunan Savcı tarafından yapılan hitapta özetle dava konusu kararın hukuka uygun olduğu; etkin piyasa gücü belirleme kararının hukuka aykırı olmadığı; Talep Takririnde bunun aksi iddia edilmiş olmakla birlikte Davacı tarafından ibraz edilen şahadetten de etkin piyasa gücü tespitine ilişkin kararın doğru olduğunun kabul edildiği; yine şahadette Davalının iptali talep edilen dava konusu kararı almaya yetkili olduğunun kabul edildiği Yasa’nın 15. maddesi-nin (5). fıkrasında da bunun görüldüğü Emare 34 belgelerin arasında yer alan Davacı tarafından Telefon Dairesine yazılan 16.7.2013 tarihli yazıda izlenmesi gereken yöntemin tarif edildiği; bunun Mahkeme huzurunda bulunan yöntemin aynısı olduğunun görüldüğü dava konusu idari karar alınırken idare-nin yapması gereken her türlü araştırma ve incelemeyi yaptığı ve takdir yetkisini doğru kullandığı ifade edilmiştir. 
+
+	İlgili Şahıs No.2 adına yapılan hitapta da özetle; Davalı Kurum’un 6/2012 sayılı Elektronik Haberleşme Yasası’nın 15.maddesi tahtında elektronik haberleşme sektörüne yönelik piyasa analizleri yapmak haberleşme sağlayıcılarının etkin piyasa gücüne sahip olup olmadığını tespit etmek etkin piyasa gücüne sahip olduğu tespit edilen haberleşme sağlayıcılarına ilave düzeltici tedbirler koymakla görevlendirilmiş olduğu 6/2012 sayılı Yasa tahtında çıkarılmış olan Erişim Ara Bağlantı Piyasa Analizleri ve Tarife Tüzüğü altında piyasa analizlerinin nasıl yapılacağı piyasanın tanımlanmasının ne şekilde yapılacağının belirlenmiş olduğu; üçlü kriter testinin nasıl uygulanacağının da belirtildiği ve Davalının üçlü kriter testini bir tamam inceleyerek gerek Davacının gerekse İlgili Şahıs No.2’nin mobil çağrı sonlandırma hizmetlerine ilişkin pazarda tekel gücüne sahip olduğunu dikkate aldıktan sonra üçlü kriter testinde belirtilen kriterlerin sağlandığı sonucu-na vararak etkin piyasa gücüne sahip olduğu tespit edilen haberleşme sağlayıcılarına ek yükümlülükler getirme kararı verildiği Davacının 1.tanığının şahadetinde de Davacı ve İlgili Şahıs No.1 ve No.2’nin çağrı sonlandırma pazarında EPG’ye sahip olduklarının kabul edildiği aynı tanığın üçlü kriter testinin bir tamam yerine getirildiğini de teslim ettiği bu tanığın önce perakende pazara bakılması gerektiği sonra toptan pazara geçilmesi gerektiği şeklinde bir iddiası olmasına karşın Yasa’da veya Tüzükte bu konuda bir düzenleme olmadığı nedeniyle Davalının tüzük ve/veya Yasaya aykırı hareket ettiğinin söylenemeyeceği; ilgili pazarın tanımlaması piyasa analizlerinin yapılması ve üçlü kriter testinin uygu-lanmasının Davalı tarafından mevzuata uygun olarak yapıldığı; gerek Yasa’nın 32. maddesi gerekse Erişim Ara Bağlantı Piyasa Analizleri ve Tarifeler Tüzüğü altındaki düzenleme tahtında uzun dönem artan maliyetler hesabı doğrultusunda fiyatların tespit edilememesi durumunda özellikle AB ülkelerinde uygula-nan fiyatlara bakılabileceğinin açık olduğu Davalı kurumun Davacı ve İlgili Şahıslardan talep etmiş olduğu bilgi ve belgelerin eksik verilmesi sonrasında kıyaslama yöntemine gittiği; kuruma verilen takdir yetkisinin kamu yararı doğrul-tusunda kullanıldığı iddia edilmektedir.
+
+	Dava konusu edilen ve Mahkeme huzurunda Emare 33 olarak yer alan karar şöyledir:
+
+“BİLGİ TEKNOLOJİLERİ VE HABERLEŞME KURULU
+KARARI
+
+Karar Tarihi   :15.07.2014
+Karar No       :2014 – DK/BTHK-56.116
+Kararın Konusu :Sabit ve Mobil Şebekelere ilişkin Çağrı Sonlandırma 
+                Ücretleri
+Karar          :06/2012 sayılı Elektronik Haberleşme Yasası (bundan 
+sonra “Yasa” olarak anılacaktır) uyarınca Kurumumuzun temel ilkeleri arasında “Tüketici hak ve menfaatlerinin korunması ve gözetilmesi” hususu en önemli amaçlardan birini teşkil etmektedir. Bu ilkeden yola çıkarak; fiyatların makul düzeylere çekilmesi rekabetin ve hizmet kalitesinin artırılması birçok yeni hizmetin sunulabilir olması Kurumumuzun hedeflerindendir. Bu hedeflere yönelik olarak elektronik haberleşme sektöründeki düzenlemelerin en önemli araçlarından birisi sektörde rekabetin tesis edilmesi için haberleşme sağlayıcılar arasında uygulanmakta olan çağrı sonlandırma ücretlerinin düzenlenmesidir. 
+
+Bilindiği üzere elektronik haberleşme sektörü gibi şebeke endüstrisi niteliğine sahip sektörlerde rekabetçi bir yapının oluşması ve serbestleşmenin temin edilebilmesi ara bağlantı hizmetinin sağlanma şartları ile doğrudan ilişkilidir. Ara bağlantı şartlarının ve ücretlerinin net açık ve güvenceli bir şekilde oluşturulamadığı bir sektörde yeni bir haberleşme sağlayıcının piyasaya girebilmesi ve elektronik haberleşme hizmeti sunabilmesi mümkün olamayacaktır. Çağrı sonlandırma piyasasında ikame edilebilirlik olmadığı ve mevcut durumda haberleşme sağlayıcıların çağrı sonlandırmada alternatifi bulunmadığı her bir haberleşme sağlayıcının söz konusu piyasadaki pazar payının %100 olduğu kabul edilmektedir. Başka bir ifade ile çağrı sonlandırma piyasasında her bir haberleşme sağlayıcı tekel gücüne sahiptir. 
+
+Yerleşik haberleşme sağlayıcıların alternatif haberleşme sağlayıcı-ların ara bağlantı taleplerini makul şartlar çerçevesinde karşıla-(ya)mamaları halinde yatırımları ve yenilikçiliği teşvik eden etkinliği artıran tüketicilere alternatif seçenekler sunan fiyat-ları makul seviyelerde tutan kaliteli ve çeşitli hizmet sunumunu amaçlayan yeni yapıların oluşması engellenmiş olacaktır. Ayrıca çağrı sonlandırma ücretlerinin seviyesinin haberleşme sağlayıcı-ların son kullanıcılara uygulayacakları perakende fiyat politikala-rını etkileyebilecek önemli bir faktör olduğu da göz ardı edilmeme-lidir.
+
+Çağrı sonlandırma ücretlerinin toptan seviyedeki bir girdi niteliğinde olması nedeni ile bu ücretlerin yüksek veya düşük belir-lenmesi son kullanıcı tarifelerini etkilemektedir. Bu ücretlerde düzenlemenin yapılmadığı durumlarda EPG’ye sahip haberleşme sağla-yıcıların çağrı sonlandırma ücretlerini genellikle yüksek belirleme yönünde eğilimlerinin olduğu; bu hususun da özellikle şebeke içi ve şebeke dışı tarifeler arasındaki dengesizliğe sebep olabileceği değerlendirilmektedir. Bu nedenle genel anlamda çağrı sonlandırma ücretlerinin düzenlenmesi gerek pazara yeni giren haberleşme sağlayıcıların rekabet edebilecek seviyeye gelmeleri tüketicilere farklı ve kaliteli hizmet sunabilmeleri gerekse de çağrı sonlandırma ücretlerinde yaşanacak düşüşün perakende tarifelere de yansıyacağı ve tüketicilerin daha ucuza hizmet alabilmesinin sağlanması böylece tüketici refahının artırılması ve kamu yararının sağlanması açısından önem arz etmektedir.
+Sektörde sürdürülebilir rekabetin sağlanabilmesi tüketici faydası-nın ve refahının artırılabilmesi kapsamında haberleşme sağlayıcı-ların kendi aboneleri ile diğer haberleşme sağlayıcıların aboneleri arasında haberleşme hizmetinin sunulabilmesi için temel bir girdi niteliği taşıyan ara bağlantı hizmetinin koşullarının ve ücretleri-nin düzenleyici kurumlar tarafından uygun ve etkin bir şekilde belirlenmesi hususunun büyük önem arz ettiği dikkate alındığında Kurum tarafından yapılması planlanan düzenlemenin önemi daha iyi anlaşılabilecektir.
+
+Nitekim Yasamızın ‘Temel İlkeler’ yan başlıklı 13’üncü maddesinin (1) (3) ve (4)’üncü bentlerinde sırasıyla “Serbest ve etkin rekabet ortamının sağlanması ve korunması” “Tüketici hak ve menfaatlerinin korunması ve gözetilmesi” ve “Herkesin makul bir ücret karşılığında elektronik haberleşme şebeke ve hizmetlerden yararlanmasını sağlaya-cak uygulamaların teşvik edilmesi” ifadelerine yer verilmektedir.
+  
+Buna ek olarak aynı Yasanın 15’inci maddesi uyarınca Kurumun görev ve yetkileri altında;
+
+(5) bendinde “Elektronik haberleşme sektörüne yönelik piyasa analiz-leri yapmak ve herhangi bir haberleşme sağlayıcının ilgili herhangi bir piyasada etkin piyasa gücüne sahip olup olmadığını tespit etmek ve etkin piyasa gücüne sahip olduğu tespit edilen haberleşme sağlayıcıları üzerinde ilave düzeltici tedbirleri bu Yasa kuralları uyarınca uygulamak” ve 
+
+(7) bendinde “Elektronik haberleşme ile ilgili olarak yetkilendirme şartları tarifeler erişim girme yetkisi numaralandırma spektrum yönetimi telsiz cihaz ve sistemlerine kurma ve kullanma izni verilmesi spektrumun izlenmesi ve denetimi piyasa gözetimi ve denetimi de dâhil gerekli düzenlemeler ile izleme ve denetlemeleri yapmak” yer almaktadır.
+
+Yine Yasanın Geçici 4.maddesine göre “Kurum GSM sayısal ve hücresel mobil telefon sistemi kurulması ve işletilmesi ile ilgili lisans-larda açıkça bir kural bulunsa dahi çağrı sonlandırma ücretlerinde bu Yasanın ilgili maddeleri uyarınca gerekli düzenlemeleri yapma hakkına sahiptir” denilmektedir.
+
+Yasaya Ekli Beşinci Cetvel Kısım (D)(1)’inci maddede “Kurum piyasa analizine göre etkin rekabet olmadığını tespit etmesi durumunda ilgili haberleşme sağlayıcısının son kullanıcılar aleyhine aşırı ölçüde yüksek fiyatlar uygulayabileceği veya fiyat sıkıştırması yapabileceği hallerde belirli türlerde ara bağlantı ve/veya erişim sağlanması için maliyet muhasebesi sistemleriyle ilgili yükümlülük-ler ve fiyatların maliyete yönelik olması şeklinde yükümlülükler dâhil maliyet telafisi ve fiyat kontrollerine ilişkin yükümlülükler koyabilir” denilmektedir. 
+
+Yasaya Ekli Beşinci Cetvel Kısım (D)(2)’nci Maddede ise “Kurum zorunlu tutulan herhangi bir maliyet telafi mekanizması veya fiyatlandırma yönteminin verimliliğe ve sürdürülebilir rekabete hizmet etmesini ve tüketici faydalarını en yüksek seviyeye çıkarma-sını sağlar. Bu hususta Kurum benzer rekabetçi piyasalarda mevcut olan fiyatları da göz önüne alabilir” şeklinde ifade kullanılmakta-dır.
+
+Son olarak ise Yasa’nın 32’nci maddesinin (5)’inci fıkrasında ”Haberleşme sağlayıcıları diğer haberleşme sağlayıcılarına eşdeğerli erişim ve/veya ara bağlantı hizmetlerini haberleşme sağlayıcılarının net maliyetleri ile ilişkili ve aynı şartlar temelinde sunar. Haberleşme sağlayıcıların erişim ve/veya ara bağlantı hizmetlerini net maliyetleri ile ilişkili ve aynı şartlar temelinde sunmadığını tespit etmesi veya haberleşme sağlayıcıların net maliyetlerini tespit edememiş olması halinde Kurum erişim ve/veya ara bağlantı hizmetlerinin ücretlerini maliyet esasına göre veya diğer ülke uygulamalarını uygun olduğu ölçüde dikkate alarak ücretleri belirler ve/veya ücretlere üst sınır koyabilir. Kurumun belirlediği ücretlere uyulması zorunludur” hükmü yer almaktadır.  
+
+İlgili Yasa altında yapılmış olan “Erişim Ara Bağlantı Piyasa Analizi ve Tarifeler” Tüzüğü’nün (bundan sonra “Tüzük” olarak anılacaktır) 12’nci maddesinin (6)’ıncı fıkrasına göre ‘fiyat kontrolü ve maliyet muhasebesi yükümlülüğü’ altında “Kurum ilgili bir piyasada etkin piyasa gücüne sahip olduğunu tespit ettiği herhangi bir haberleşme sağlayıcısına; erişim ve ara bağlantı hizmetlerine ilişkin olarak kullanıcılar aleyhine aşırı ölçüde yüksek fiyatlar uygulanmasının veya fiyat sıkıştırması yapılabilmesinin mümkün olduğu hallerde; maliyet muhasebesi erişim ve ara bağlantı hizmetlerinin fiyatlarının maliyete yönelik olması ve fiyat kontrolü yükümlülükleri getirebilir” ifadesi yer almaktadır.
+
+Bu itibarla Yasa ve Tüzükte yer alan düzenlemeler doğrultusunda 2014-2007/879/EC-7-VI.0 ve 2014-2007/879/EC-3-VI.0 referans numaralı piyasa analizleri kamuoyu görüşlerinin alınabilmesini teminen 06/03/2014 – 12/05/2014 tarihleri arasında Kurum internet sitesinde yayımlanmıştır. Süre sonunda gelen görüşler ayrıntılı biçimde değerlendirilmiştir. Gelen görüşler arasında yer alan sözleşme hakkı çerçevesinde ara bağlantı sözleşmelerinde yer alan hususların tek taraflı olarak değiştirilmesinin hukuka aykırı olacağı yönündeki görüşte ayrıntılı olarak incelemeye tabi tutulmuş olup alınan hukuki görüşler çerçevesinde Anayasanın 46’ncı maddesi (2)’nci fıkrasından hareketle Yasa Koyucu tarafından düzenlenen Yasanın Geçici 4’üncü maddesi uyarınca Kurumun böyle bir yetkisinin bulunduğu sonucuna varılmıştır.
+
+Mobil çağrı sonlandırma pazarı kapsamında ilgili mevzuat çerçeve-sinde 2014-2007/879/EC-7-V3.0 referans numaralı ‘Mobil Çağrı Son-landırma Pazarı’ piyasa analizi neticesinde EPG’ye sahip olduğu tespit edilen mobil şebekede hizmet sunan haberleşme sağlayıcılar olan Kıbrıs Mobil Telekomünikasyon Ltd. (Turkcell Kuzey Kıbrıs) ve Vodafone Mobile Operations Ltd.(KKTC Telsim)’e fiyat kontrolü ve maliyet muhasebesi yükümlülüklerinin getirilmesi kararlaştırılmış-tır.
+
+Ayrıca sabit çağrı sonlandırma pazarı kapsamında ilgili mevzuat dikkate alındığında ve 2014-2007/879/EC-3-V3.0 referans numaralı ‘Sabit Şebekede Çağrı Sonlandırma Pazarı’ piyasa analizi neticesinde EPG’ye sahip olduğu tespit edilen sabit şebekede hizmet sunan K.K.T.C Telekomünikasyon Dairesi’ne fiyat kontrolü ve maliyet muha-sebesi yükümlülüklerinin getirilmesi gerektiği kararlaştırılmıştır.
+
+Buna ek olarak piyasa analizlerinin hazırlanması öncesinde çağrı sonlandırma ücretlerine dair haberleşme sağlayıcılar arasındaki anlaşmazsızlıkların giderilmesine ilişkin Yasanın 32’nci maddesi altında belirtilen uzlaşma süreci kapsamında başvuru alınmıştır. İlgili Yasa uyarınca ara bağlantı anlaşmalarına ilişkin olarak haberleşme sağlayıcılar arasında uyuşmazlık olması ve tarafların mevzuat çerçevesinde tanınmış olan sürede anlaşamamaları halinde Kurumun haberleşme sağlayıcılarının erişim ve/veya ara bağlantı koşullarını belirleyen nihai kararı verebileceği belirtilmektedir. Buna istinaden gerekli tespitin yapılabilmesinde kullanılmak üzere haberleşme sağlayıcılardan birtakım bilgilere ihtiyaç duyulmuştur. Bunun yanında ilgili Yasa ve Tüzük uyarınca da Kurum tarafından gerçekleştirilen piyasa analizleri akabinde getirilen fiyat kontrolü ve maliyet muhasebesi yükümlülüğü için de aynı bilgilere ihtiyaç duymuştur. 
+
+Söz konusu bilgiler haberleşme sağlayıcılar tarafından – talep edilmesine rağmen – eksik gönderilmiştir. Kurum mevzuatının ilgili hükümleri gereğince çağrı sonlandırma hizmetinin ücretlerine ilişkin net maliyetlerin Kurum bünyesinde bulunmaması ilgili haberleşme sağlayıcıları tarafından sunulan net maliyetlerin ise ülke uygulamaları incelendiğinde Tüzükte belirtilen hesaplama yöntemine uygun hesaplanmadan veya herhangi bir hesaplamaya yer verilmeden Kuruma sunulması sebebiyle ve bununla birlikte ilgili piyasadaki yapılması gereken düzenleme gereksinimi dikkate alınarak yukarıda bahsi geçen fiyat kontrolü yükümlülüğü kapsamında belirlenecek olan çağrı sonlandırma ücretlerini diğer ülkelerdeki uygulamaları uygun ölçüde dikkate alarak belirlemiştir. Buna istinaden haberleşme sağ-layıcılar belirlenen çağrı sonlandırma ücretlerini uygulayacaklar-dır.
+
+Tüm bu hususlar dikkate alınarak yukarıda adı geçen ilgili Yasa ve bu Yasa altında hazırlanmış olan ilgili Tüzük hükümleri gereğince Kurumumuz tarafından çağrı sonlandırma ücretlerine yönelik çalışma-lar yapılmış olup 2014-KR—1-V3.0 referans numaralı nihai ‘Sabit ve Mobil Şebekelerde Sonlandırma Ücretleri’ Kıyaslama Raporunda belirlemiştir. Yukarıda yer verilen değerlendirmeler kapsamında belirlenen çağrı sonlandırma ücretlerinin uygulanmasının uygun olacağı değerlendirilmektedir.
+
+Bu kapsamda 06/2012 sayılı Elektronik Haberleşme Yasasının 131532 ve 36’ncı ve geçici 4. maddeleri “Erişim Ara Bağlantı Piyasa Analizi ve Tarifeler” Tüzüğünün 911 ve 12’inci maddelerine dayanarak 2014-2007/879/EC-7-V3.0 referans numaralı ‘Mobil Çağrı Sonlandırma Pazarı’ 2014-2007/879/EC-3-V3.0 referans numaralı ‘Sabit Şebekede Çağrı Sonlandırma Pazarı’ 2014-2007/879/EC-3-V3.0 referans numaralı ‘Sabit Şebekede Çağrı Sonlandırma Pazarı’ piyasa analizleri ve 2014-KR-1-V3.0 referans numaralı nihai ‘Sabit ve Mobil Şebekelerde Sonlandırma Ücretleri’ Kıyaslama Raporu çerçevesinde ve yukarıda izah edildiği şekilde kamu yararını gerçekleştirme amacıyla;
+
+	Yurtiçi sabit ve mobil çağrı sonlandırma ücretlerinin aşağıdaki 
+şekilde düzenlenmesine karar verilir. Konu ücretin uygulanma zamanları mevcut sabit ve mobil sonlandırma ücretlerinin yeni sonlandırma ücretleri ile yüksek farklılık göstermesinden dolayı orantılılık ilkesi gözetilerek ücretlerdeki indirimin kademeli iniş uygulanarak üç aşamalı olarak indirilmesine ve inişin aşağıdaki tabloda yer alan Kurumun öngördüğü kademeli iniş zaman çizelgesi şeklinde olmasına oy çokluğu ile karar verilir.
+
+
+Sabit Şebekede Sonlandırma Ücreti            034 Kuruş/Dakika
+Mobil Şebekelerde Sonlandırma Ücreti         305 Kuruş/Dakika
+
+Not: Ücretler net fiyatlar olup vergileri (Özel İletişim Hiz-metleri Vergisi ve Katma Değer Vergisi) içermemektedir.    
+
+
+	    Sonlandırma Ücreti (Kuruş/Dakika)
+	Sabit Sonlandırma Ücreti	Mobil Sonlandırma Ücreti
+Mevcut Tarife 	      260	      1040
+01/08/2014	      175	       700
+01/01/2015	      105	       503
+01/07/2015	      034	       305
+                                                              ”                                                               
+
+	Davalı Kurum tarafından alınan kararın; 6/2012 sayılı Elektronik Haberleşme Yasası’nın 131532 ve 36’ncı ve Geçici 4.maddeleri ile “Erişim Ara Bağlantı Piyasa Analizi ve Tarifeler” Tüzüğü’nün 9. 11. ve 12. maddelerine dayandırıldı-ğı; 2014-2007/879/EC-7-V3.0 referans numaralı “Mobil Çağrı Sonlandırma Pazarı” ile 2014-2007/879/ EC-3-3-V3.0 referans numaralı “Sabit Şebekede Çağrı Sonlandırma Pazarı” piyasa analizleri ve 2014-KR-1-V3.0 referans numaralı nihai “Sabit ve Mobil Şebekelerde Sonlandırma Ücretleri” kıyaslama raporu çerçevesinde ve kamu yararını gerçekleştirmek amacıyla alındı-ğının kararın içeriğinde belirtildiği görülmektedir. 
+
+	Davacının iddialarını konuyla alakalı yasal mevzuat kapsamında incelemeye geçmeden önce dava konusu kararın esasını teşkil eden “çağrı sonlandırma” mevhumuna kısaca değinmek uygun olacaktır. Mahkeme huzurundaki süreçte “çağrı sonlandırma ücreti” ile “ara bağlantı ücretinin” aynı anlamda kullanıldığı hususunun en azından Mahkeme huzurundaki iddia-lar kapsamında taraflarca ihtilafsız olduğu kabul edilmiştir.
+
+	6/2012 sayılı Elektronik Haberleşme Yasası’nın 2. madde-sinde “Ara bağlantı” şu şekilde anlatılmaktadır:
+
+““Ara Bağlantı” bir haberleşme sağlayıcının kullanıcıla-
+  rının aynı veya bir başka haberleşme sağlayıcının 
+  kullanıcılarıyla haberleşmesini veya bir başka 
+  haberleşme sağlayıcının sağladığı hizmetlere erişmesini 
+  temin etmek için aynı veya farklı haberleşme 
+  sağlayıcılar tarafından kullanılan elektronik haberleşme 
+  şebekelerinin fiziksel ve mantıksal olarak birbirine 
+  bağlanmasını anlatır.”
+
+     Bu doğrultuda; dava konusu ara bağlantı ücretlerinin mobil veya sabit telefon hizmetlerinde ve söz konusu hizmetle-ri veren haberleşme sağlayıcıları arasında bu haberleşme sağ-layıcılarından birinin şebekesinde başlayan ve diğerinin şebekesinde sonlanan çağrılar – yani ara bağlantı – için öden-diği ve belirtilen ücretlerin çağrının başlatıldığı haberleş-me sağlayıcı tarafından çağrının sonlandırıldığı haberleşme sağlayıcıya ödendiği de bir diğer ihtilafsız husustur.
+
+	Yukarıda temas edildiği üzere Dava konusu kararın 6/2012 sayılı Elektronik Haberleşme Yasası’nın 13’üncü15’inci32’nci ve 36’ncı ve Geçici 4’üncü maddelerine dayandırıldığı kararın içeriğinden görülmektedir. Yasa’nın 13’üncü ve 15’inci madde-leri ile Geçici 4’üncü maddesi şöyledir:  
+
+Temel İlkeler	13. Her türlü elektronik haberleşme cihaz sistem ve şebekelerinin işletilmesinin ve verilecek elektronik haberleşme hizmetlerinin düzenlenmesi gerekli frekans numara uydu pozisyonu ve benzeri kaynak tahsislerinin yapılması ile bunların düzenlenmesi bu Yasa kuralları uyarınca Devletin yetki ve sorumluluğu altındadır. Bu konuda yapılacak düzenlemelerde aşağıdaki ilkeler gözönünde bulundurulur.
+	(1)	Serbest ve etkin rekabet ortamının sağlanması ve korunması
+	(2)	Ülkenin her yerinde geniş kapsamlı elektronik haberleşme hizmetlerinin sunulması
+	(3)	Tüketici hak ve menfaatlerinin korunması ve gözetilmesi
+	(4)	Herkesin makul bir ücret karşılığında elektronik haberleşme şebeke ve hizmetlerden yararlanmasını sağlayacak uygulamaların teşvik edilmesi
+	(5)	Bu Yasa kurallarınca aksi gerektirmedikçe niteliksel ve niceliksel devamlılık düzenlilik güvenilirlik ve kaynakların verimli kullanılmasının gözetilmesi
+	(6)	Elektronik haberleşme hizmetlerinin düzenlenmesinde karar almada şeffaflık tarafsızlık ve nesnelliğin sağlanması ve karar almadan önce geniş ölçüde danışma yapılması
+	(7)	Teknolojik tarafsızlığın teknolojik yeniliklerin uygulanması ile araştırma-geliştirme faaliyet ve yatırımların teşvik edilmesi
+	(8)	Özürlü yaşlı ve sosyal açıdan korunmaya muhtaç kesimlerin teknolojik yeniliklerin kullanılması da dahil olmak üzere özel ihtiyaçlarının dikkate alınması
+	(9)	Bilgi güvenliği haberleşme ve kişisel veri gizliliğinin gözetilmesi
+	(10)	Elektro-manyetik spektrumun etkin ve verimli kullanımının gözetilmesi ve onu kullanmak isteyen kişilerin farklı ihtiyaç ve amaçlarının dikkate alınması
+	(11)	Hizmet kalitesinin artırılmasının teşvik edilmesi
+	(12)	Elektronik haberleşme cihaz ve sistemlerin kurulması ve işletilmesinde insan sağlığı can ve mal güvenliği çevre ve tüketicinin korunması açısından asgari uluslararası normların dikkate alınması
+	(13)	Elektronik haberleşme şebekeleri ve elektronik haberleşme hizmetlerinin düzenlenmesinin uluslararası normlara uygun olması
+	(14)	Savaş doğal afet ve acil durum ihtiyaçlarının gözetilmesi ve
+	(15)	Şebeke ve hizmetlerin birlikte çalışabilirliğinin teşvik edilmesi ve şebeke erişiminin kolaylaştırılması.
+
+Kurumun	15. Kurumun görev ve yetkileri şunlardır:
+Görev ve Yetkileri	(1)	Elektronik haberleşme ile ilgili konular üzerine Bakanlar Kuruluna ve Bakanlığa görüş ve önerilerini bildirmek
+	(2)	Kendi yetki alanı içinde Bakanlığın gözetiminde elektronik haberleşme sahasında ulusal politikayı uygulamak
+	(3)	Elektronik haberleşme şebekeleri işletme ve/veya elektronik haberleşme hizmeti sağlama başvurularını almak ve incelemek ve zaman zaman bu Yasanın Beşinci Kısmı kapsamında yetkilendirme genel şartlarına ve telsiz frekansı ve numara kullanımı bireysel haklarına ait duyuruları yapmak
+	(4)	Elektronik haberleşme sektöründe rekabeti sağlamak ve korumak rekabeti engelleyici bozucu veya sınırlayıcı uygulamaların giderilmesine yönelik düzenlemeler yapmak ve bunlarla ilgili usul ve esasları Rekabet Kurulunun da görüşlerini alarak belirlemek
+	(5)	Elektronik haberleşme sektörüne yönelik piyasa analizleri yapmak ve herhangi bir haberleşme sağlayıcının ilgili herhangi bir piyasada etkin piyasa gücüne sahip olup olmadığını tespit etmek ve etkin piyasa gücüne sahip olduğu tespit edilen haberleşme sağlayıcıları üzerinde ilave düzeltici tedbirleri bu Yasa kuralları uyarınca uygulamak
+	(6)	Elektronik haberleşme sektöründe faaliyet gösterenlerin mevzuata uymasını izlemek denetlemek veya denetlettirmek konu ile ilgili usul ve esasları belirlemek aykırılık halinde mevzuatın öngördüğü işlemleri yapmak ve idari para cezalarını ve diğer yaptırımları uygulamak
+	(7)	Elektronik haberleşme ile ilgili olarak yetkilendirme şartları tarifeler erişim girme yetkisi numaralandırma spektrum yönetimi telsiz cihaz ve sistemlerine kurma ve kullanma izni verilmesi spektrumun izlenmesi ve denetimi piyasa gözetimi ve denetimi de dahil gerekli düzenlemeler ile izleme  ve denetlemeleri yapmak
+	(8)	Verilen hizmetlerden ücret almak
+	(9)	Abone kullanıcı tüketici ve son kullanıcıların hakları ile  kişisel bilgilerin işlenmesi ve gizliliğinin korunmasına ilişkin gerekli düzenlemeleri izleme ve denetlemeleri yapmak
+	(10)	Bu Yasa kuralları uyarınca evrensel hizmetlere ilişkin hizmet kalitesi ve standartları da dahil olmak üzere gerektiğinde her türlü elektronik haberleşme hizmetine yönelik hizmet kalitesi ve standartlarını belirlemek izlemek denetlemek denetlettirmek ve buna ilişkin usul ve esasları belirlemek
+	(11)	Erişim ara bağlantı numara taşınabilirliği taşıyıcı seçimi ve ön seçimi ile ilgili gereken düzenlemeleri yapmak elektronik haberleşme sağlanması amacıyla imzalanan anlaşmaların rekabeti kısıtlayan mevzuata veya tüketici menfaatlerine aykırı kurallar içermemesini sağlamak için gerekli düzenlemeleri yapmak ve mevzuatın öngördüğü diğer tedbirleri almak
+	(12)	Erişim ve ara bağlantı veya diğer düzenlenen konular ile ilgili olarak haberleşme sağlayıcılar arasındaki ihtilafların ve haberleşme sağlayıcılar ile kullanıcılar arasındaki ihtilafların çözüme bağlanması için açık prosedürler oluşturmak
+	(13)	Bu Yasanın 97’nci maddesi uyarınca öngörülen şekilde soruşturmaları yürütmek ve haberleşme sağlayıcılar arasında toplantılar için çağrıda bulunmak ve bir haberleşme sağlayıcı aleyhine veya Kuzey Kıbrıs Türk Cumhuriyetinde telsiz frekansı ileten bir kişi aleyhine yapılmış herhangi bir şikayeti değerlendirmek
+	(14)	Elektronik haberleşme sektöründe ortaya çıkan rekabet ihlallerini izlemek ve soruşturmak yaptırım uygulamak mevzuatın öngördüğü hallerde elektronik haberleşme sektöründe rekabet ihlallerine ilişkin konularda Rekabet Kurulundan görüş almak
+	(15)	Kanallar ve frekans bantlarının kullanımı ve iletilen elektromanyetik sinyallerin teknik ve operasyonel özellikleri hakkında genel ölçümler yapmak ve bunları kontrol etmek ve denetlemek
+	(16)	Yetkisiz telsiz vericilerini ve yüksek frekanslı elektromanyetik emisyon ve telsiz enterferans kaynaklarını tespit etmek ve engellemek telsiz spektrumunun verimli kullanımıyla ilgili başka sorunları çözmeye yönelik çalışmalarda bulunmak
+	(17)	Elektronik haberleşmede farklı tiplerde telsiz vericileri tarafından telsiz frekans spektrumunun verimli ve kaliteli kullanımını teşvik etmek ve mevcut yerlerin verimli kullanılmasını garanti etmek amacıyla her türden radyo vericilerinin yerleştirilmesini koordine etmek
+	(18)	Elektronik haberleşme sektöründe kullanılan şebeke ve terminal donanımıyla ilgili uygunluk belgeleri düzenlemek ve vermek
+	(19)	Elektronik haberleşme sektöründe kullanılan teknik donanım ve telsiz vericiler için standartlar geliştirmek yayımlamak izlemek ve bunlara uyulmasını sağlamak
+		
+	(20)	Bu Yasa kapsamında izin verildiğinde her türlü elektronik haberleşme hizmetleri için hizmet kalitesi ve standartlarını izlemek ve denetlemek veya bunların denetlenmesi için gereğini yapmak
+	(21)	Ulusal güvenlik kamu düzeni veya kamu hizmetinin elektronik haberleşme sektöründe gereğince korunmasını sağlamak amacıyla mevzuatta belirlenen tedbirleri almak
+	(22)	Elektronik haberleşme sektöründeki gelişmeleri takip etmek sektörün gelişimini teşvik etmek amacıyla gerekli araştırmaları yapmak veya yaptırmak ve bu konularda ilgili kurum ve kuruluşlarla işbirliği halinde çalışmak
+	(23)	Haberleşme sağlayıcılarının ticari sırları ile kamuoyuna açıklanabilecek bilgilerin kapsamını bu Yasa kuralları uyarınca belirlemek haberleşme sağlayıcılarının ticari sırları ile yatırım ve iş planlarının gizliliğini korumak ve bunları adli makamların talepleri dışında muhafaza etmek
+	(24)	Kurul kararlarını gerekçeleriyle birlikte resmi internet sitesinde ilan etmek ve bu Yasa kurallarının yürütülmesi için tebliğler yayımlamak
+	(25)	Görevi ile ilgili yabancı veya uluslararası kuruluşlara Bakanın onayı ile üye olmak
+	(26)	Şebeke ve bilgi güvenliği ve haberleşme gizliliğini gözetmek ve
+	(27)	Bu Yasanın ve diğer yasaların kendisine verdiği diğer görevleri yapmak
+
+
+Geçici Madde 
+Mevcut Yetki-lendirmeler	4.	(1)	Bu Yasanın yürürlüğe girdiği tarihte halen bir yetkilendirme veya lisans uyarınca telsiz haberleşme cihazı kullanan herhangi bir gerçek veya tüzel kişi bu Yasanın yürürlüğe girdiği tarihten itibaren altı ay içinde bu kullanımla ilgili bütün detayları Kuruma verir ve bu Yasa kapsamında yeni bir bireysel kullanım hakkı için müracaat eder. Kurum müracaatı inceledikten sonra ilgili telsiz haberleşme cihazı kullanımının yasal olması ve Kuzey Kıbrıs Telsiz Frekans Planına uygun olması ve diğer yasal kullanıcılara haksız enterferans yaratmaması şartıyla yeni bir kullanım hakkı verir. Kurum yeni bir kullanım hakkı vermeyi reddetmesi halinde gerekçelerini başvuru sahibine yazılı olarak bildirmekle yükümlüdür.
+				Ancak bu Yasanın yürürlüğe girdiği tarihinten önce verilen GSM sayısal ve hücresel mobil telefon sistemi kurulması ve işletilmesi ile ilgili lisanslar bu fıkra kapsamında değildir.
+		(2)	Bu Yasanın yürürlüğe girdiği tarihten önce Bakanlıkça verilmiş olan GSM sayısal ve hücresel mobil telefon sistemi kurulması ve işletilmesi ile ilgili lisansların bu Yasaya aykırı olmayan kuralları; süre bitimi fesih iptal veya başka herhangi bir nedenle lisansın sona ermesi gibi mevcut şartların geçerlilikleri lisans bitim tarihine kadar aynen devam eder. 
+		(3)	Kurum GSM sayısal ve hücresel mobil telefon sistemi kurulması ve işletilmesi ile ilgili lisanslarda açıkça bir kural bulunsa dahi çağrı sonlandırma ücretlerinde bu Yasanın ilgili maddeleri uyarınca gerekli düzenlemeleri yapma hakkına sahiptir.
+		(4)	GSM sayısal ve hücresel mobil telefon sistemi kurulması ve işletilmesi ile ilgili lisanslar bu Yasa kurallarına aykırı olarak yorumlanamaz.
+
+     6/2012 sayılı Elektronik Haberleşme Yasası’nın 3. madde-sinde Yasanın amacı;    
+
+“Amaç  3. Bu Yasanın amacı elektronik haberleşmeyi düzenlemek 
+için bağımsız bir organın kurulması elektronik haber-leşme sektöründe düzenleme ve denetleme yoluyla etkin rekabetin tesisi tüketici hak ve menfaatlerinin göze-tilmesi ve korunması amacıyla düzenlemelerin yapılması ülke genelinde elektronik haberleşme hizmetlerinin yay-gınlaştırılması kaynakların etkin ve verimli kullanıl-ması haberleşme alt yapı şebeke ve hizmet alanında teknolojik gelişimin ve yeni yatırımların teşvik edil-mesi ve bunlara ilişkin usul ve esasların belirlenmesi-dir.”              
+
+şeklinde belirtilmiştir.
+
+	Bu doğrultuda; 6/2012 sayılı Elektronik Haberleşme Yasası’nın 3. maddesinde Yasa’nın temel amacının elektronik haberleşme sektöründe düzenleme ve denetleme yoluyla etkin rekabetin tesisi ve tüketici hak ve menfaatlerinin gözetilmesi ve korunması amacıyla düzenleme yapılması olduğunu söylemek hatalı olmayacaktır. 
+
+	Yasa’nın 13.maddesinde yer alan temel ilkeler ve 15. mad-desinin (4). fıkrasında “Elektronik haberleşme sektöründe rekabeti sağlamak ve korumak rekabeti engelleyici bozucu veya sınırlayıcı uygulamaların giderilmesine yönelik düzenle-meler yapmak ve bunlarla ilgili usul ve esasları Rekabet Kurulunun da görüşlerini alarak belirlemek” ve (5). fıkrasın-daki “Elektronik haberleşme sektörüne yönelik piyasa analizleri yapmak ve herhangi bir haberleşme sağlayıcının ilgili herhangi bir piyasada etkin piyasa gücüne sahip olup olmadığını tespit etmek ve etkin piyasa gücüne sahip olduğu tesbit edilen haberleşme sağlayıcıları üzerinde ilave düzeltici tedbirleri bu Yasa kuralları uyarınca uygulamak” şeklindeki düzenleme ışığında dava konusu idari kararın yargısal denetimi yapılırken 6/2012 sayılı Yasa’nın 13. ve 15. maddeleri ile Geçici 4. maddenin (3). fıkrası kapsamında Dava-lı kurumun yakınılan kararı alma konusunda yetkisi olduğu; başka bir ifadeyle yetki unsuru açısından bir hukuka aykırı-lıktan söz etmenin olası olmadığı ilk bakışta görülebilmekte-dir. 
+
+	Talep Takririnde Davalı Kurumun Davacının Etkin Piyasa Gücüne sahip olduğu şeklindeki tespitinin hukuka aykırı olduğu yönlü iddia üzerinde duruşma boyunca da ağırlıklı olarak durulmuştur. 
+
+	Etkin Piyasa Gücü 6/2012 sayılı Yasanın tefsir bölümünde
+
+     ““Etkin Piyasa Gücü” bir elektronik haberleşme şebekesi- 
+       nin bir operatörünün bireysel olarak veya başkalarıyla 
+       birlikte ilgili elektronik haberleşme piyasasında 
+       rakipleri müşterileri ve nihai olarak tüketicilerden 
+       belirgin ölçüde bağımsız hareket edebilmesine imkan 
+       veren ekonomik gücü anlatır.”
+
+şeklinde tanımlanmıştır ve Etkin Piyasa Gücü’ne ilişkin kural-lar Yasa’nın 34. 35. 36. ve 37. maddelerinde düzenlenmekte-dir. İlgili maddeler şöyledir:
+
+“İlave     
+Düzeltici 
+Tedbirler
+	34.	(1)	Kurum ilgili bir piyasada etkin piyasa gücüne sahip olduğunu tespit ettiği herhangi bir haberleşme sağlayıcısına bu Yasanın bu Kısmı çerçevesinde öngörülen ilave düzeltici tedbirlerin birini veya birden fazlasını öngörebilir.
+		(2)	Kurum bir haberleşme sağlayıcısının etkin piyasa gücüne sahip olduğu yolunda bir karar almadan önce  bu gücün kullanılmakta olduğu veya kullanılmasının muhtemel olduğu ilgili piyasayı belirler.
+		(3)	Kurum ilgili piyasanın tanımlanması veya etkin piyasa gücünün tespit edilmesi hakkında bir karar almadan önce ilgili kurumlarla istişare ederek orantılı ayrımcılıktan uzak ve şeffaf bir tarzda ve uluslararası alanda kabul görmüş uygulamaya göre hareket eder.
+		(4)	Kurum iki veya daha çok haberleşme sağlayıcısının birlikte piyasada etkin piyasa gücüne sahip olduklarını tespit edebilir. Bir veya birden fazla haberleşme sağlayıcısının belirli bir piyasada etkin piyasa gücüne sahip olduğunun tespit edilmesi halinde sözkonusu piyasada sahip olunan piyasa gücü onunla yakından bağlantılı olan bir başka piyasada kullanılabilecek gibi ise ve bu durum ilgili haberleşme sağlayıcısının piyasa gücünü güçlendiriyorsa haberleşme sağlayıcısının bağlantılı piyasada da etkin piyasa gücüne sahip olduğu kabul edilebilir.
+			
+		(5)	Kurum tarafından yapılan piyasa analizleri Kurumun bir sonraki piyasa incelemesine kadarki dönem boyunca beklenen veya öngörülen teknolojik veya ekonomik gelişmeleri dikkate alması amacıyla ileriye yönelik olur.
+		(6)	Kurum bu Kısımdaki işlevlerini yerine getirirken bu işlevleri uluslararası mevzuattaki uygulamalar ile uyumlu bir biçimde yerine getirebilmek amacıyla gerekli gördüğü her türlü bilgileri bütün haberleşme sağlayıcılarından ister.
+		(7)	İlgili piyasaların tanımlanmasını piyasa analizlerinin yapılmasını ve uygun ve orantılı düzeltici tedbirlerin belirlenmesini içine alan piyasa inceleme süreci Kurum tarafından en az iki yılda bir veya ihtiyaç hissedildiğinde yapılır.
+		(8)	Karar alma süreci etkin piyasa gücünün olduğu düşünülen piyasanın tanımlanması ve bu piyasalarda etkin rekabetin olup olmadığının değerlendirilmesi ile ilgili yöntem takip edilecek süreç takvim ve ilave düzeltici tedbirlere ilişkin usul ve esaslar Kurumca hazırlanacak Bakanlıkça sunulacak ve Bakanlar Kurulunca onaylanarak Resmi Gazete’de yayımlanacak tüzüklerle belirlenir.
+			
+			
+Etkin     
+Piyasa Gücünün 
+Tespit 	35.	(1)	Kurum belirlenen bir piyasadaki rekabet durumuna ilişkin analizi sonucunda bu piyasada haksız rekabet olduğunu belirlerse bir veya birden fazla haberleşme sağlayıcısını bu piyasada etkin piyasa gücüne sahip olarak belirleyebilir.
+Edilmesi		(2)	Kurum bir piyasada etkin rekabet olduğu sonucuna varırsa bu Kısımda belirtilen yükümlülüklerden herhangi birini uygulamaya koymaz veya uygulamadaki yükümlülükleri ilgili piyasadan kaldırır. Kurum düzenleyici yükümlülüklerin kaldırılmasından etkilenen taraflara uygun ihbar süresi verilmesini sağlar.
+Düzeltici Tedbirler 
+BEŞİNCİ
+CETVEL	36.	(1)	Kurum bir haberleşme sağlayıcısının ilgili bir piyasada etkin piyasa gücüne sahip olduğunu tespit ederse bu madde uyarınca bu Yasaya bağlı Beşinci Cetvel kuralları uyarınca bir veya birden fazla makul düzeltici tedbiri haberleşme sağlayıcısına uygulayabilir. Bu tedbirler bu Yasaya bağlı Üçüncü Cetvel’de belirlenen amaçlar ile orantılı olmalıdır.
+		(2)	Kurum etkili rekabetin sürdürülmesine yönelik uygun bir düzeltici tedbiri seçerken tedbirin teknolojik bakımdan tarafsız olmasını gözönünde bulundurur
+		(3)	Düzeltici tedbirlere ilişkin usul ve esaslar Kurumca hazırlanacak Bakanlıkça sunulacak ve Bakanlar Kurulunca onaylanarak Resmi Gazete’de yayımlanacak tüzükle belirlenir.
+Düzeltici  
+Tedbirlerin
+Konulması	37.	(1)	Kurum ilgili bir etkin piyasa gücünün olup olmadığına bakılmaksızın elektronik haberleşme sağlayıcısına bu Yasanın 24’üncü 25’inci 30’uncu 32’nci 38’inci 45’inci 46’ncı 47’nci 83’üncü 84’üncü ve 85’inci maddelerindeki kurallar ile ilgili uluslararası normlara uygunluk sağlamak amacıyla bu Yasanın 36’ncı maddesinde öngörülen tedbirleri uygulayabilir.
+		(2)	Kurum gerekçeli olarak açıklayacağı istisnai durumların mevcut olması halinde etkin piyasa gücüne sahip haberleşme sağlayıcılarına bu Yasaya bağlı Beşinci Cetvel’de belirlenenler dışında erişim veya ara bağlantı için yükümlülükler koyar.
+		(3)	Bu madde uyarınca erişim veya ara bağlantı ile ilgili ek düzeltici yaptırımlara ilişkin usul ve esaslar Kurumca hazırlanacak Bakanlıkça sunulacak ve Bakanlar Kurulunca onaylanarak Resmi Gazete’de yayımlanacak tüzükle belirlenir.
+
+
+Yukarıda aktarılan maddelerin içeriği ve AE 157/2014 sayılı “Erişim Ara Bağlantı Piyasa Analizi ve Tarifeler” Tüzüğü’nün 12.(6) maddesinde yer alan “fiyat kontrolü ve maliyet muhasebesi: Kurum ilgili bir piyasada etkin piyasa gücüne sahip olduğunu tespit ettiği herhangi bir haberleşme sağlayıcısına; erişim ve ara bağlantı hizmetlerine ilişkin olarak kullanıcılar aleyhine aşırı ölçüde yüksek fiyatlar uygulamasının veya fiyat sıkıştırması yapılabilmesinin mümkün olduğu hallerde; maliyet muhasebesi erişim ve ara bağlantı hizmetlerinin fiyatlarının maliyete yönelik olması ve fiyat kontrolü yükümlülükleri getirebilir” şeklindeki düzenleme Davalı Kurumun dava konusu yükümlülükleri getirebilmesi için; haberleşme sağlayıcısının ilgili pazarda etkin piyasa gücüne sahip olduğunun tespitini gerekli kılmaktadır. Başka bir anla-tımla Davalı Kurum dava konusu kararı almadan önce Davacının ilgili pazarda Etkin Piyasa Gücüne sahip olduğunu tespit etmelidir. 
+
+	Davalı Kurumun hazırlık işlemi niteliğinde olan Etkin Piyasa Gücü’ne ilişkin tespitinin hukuka aykırı olduğuna dair Talep Takririnde yer alan iddialar kapsamında bu meselede öncelikli olarak Davacının Etkin Piyasa Gücü’ne sahip olduğuna ilişkin Davalı tespitinin hukuka uygunluğu irdelenmelidir. Bu yapılırken; 6/2012 sayılı Elektronik Haberleşme Yasası’nın “Etkin Piyasa Gücü İle İlgili Kurallar” başlıklı Sekizinci Kısmında yer alan 34’üncü 35’inci 36’ıncı ve 37’nci madde-lerinde ve “Erişim Ara Bağlantı Piyasa Analizi ve Tarifeler” Tüzüğü’nün “Piyasa Analizi” başlıklı Üçüncü Kısmında yer alan 9.10. ve 11. maddelerle 12. maddenin (1).fıkrası ve (6)(A)(B)
+(C)(Ç)(D) bendlerinde yer alan düzenleme incelenmelidir. Yasa’nın  34. 35. 36. ve 37. maddeleri yukarıda aktarılmış-tı. Tüzüğün ilgili maddeleri ise şöyledir: 
+
+“Piyasa Analizi 9.(1) Piyasa analizleri Kurum tarafından en az 2 
+            (İki) yılda bir veya ihtiyaç hissedildiğinde resen 
+            yapılır ya da en az bir işletmecinin gerekçeli 
+            talebi üzerine yapılabilir. Piyasa analizi 
+            kapsamında öncelikle bu Tüzük kapsamında ilgili 
+            piyasanın tespiti gerçekleştirilir.
+
+      (2) Kurum belirlediği ilgili piyasalarda aşağıda 
+          belirtilen;
+            (A) Piyasaya giriş önünde yüksek ve geçici olmayan
+    engel veya engellerin olması
+      (B) Piyasa yapısının belirli bir dönem içinde 
+          kendiliğinden rekabetçi yapıya kavuşacağının 
+          beklenmemesi
+            (C) Rekabet hukuku kurallarının tek başına uygu-
+    lanmasının piyasa aksaklıklarını gidermede 
+    yetersiz olması halinde;
+      hususlarının tespitine ilişkin değerlendirmelere 
+      ilgili piyasa analizi çalışmasında yer vererek; söz 
+      konusu hususların her üçünün de sağlanması 
+      durumunda bu Tüzük ile belirlenen koşullarda etkin 
+      piyasa gücünün tespiti ve etkin piyasa gücüne sahip 
+      haberleşme sağlayıcılara ek yükümlülüklerin 
+      getirilmesi süreçlerini uygular.
+
+     (3) Kurum piyasa analizleri çalışmaları sırasında  
+      haberleşme sağlayıcılardan piyasa analizi ile 
+      ilgili her türlü bilgi ve belgeyi talep edebilir. 
+      Haberleşme sağlayıcılar talep edilen her türlü 
+      bilgi ve belgeyi belirtilen kapsam ve şekilde 
+      Kuruma sunmakla yükümlüdür.
+
+     (4) Piyasa analizi sonucunda ilgili piyasanın 
+      yapısına göre etkin piyasa gücüne sahip haberleşme 
+      sağlayıcılarına getirilmiş olan mevcut yükümlülük-
+      ler değiştirilebilir veya kaldırılabilir. İlgili 
+      piyasada etkin piyasa gücüne sahip haberleşme 
+      sağlayıcı olmadığına karar verilmesi halinde; varsa 
+      önceden getirilmiş olan yükümlülükler kaldırılır.
+
+     (5) Kurum mevcut veya muhtemel bir rekabet 
+      sorununun çözümüne yönelik olarak ilgili piyasa 
+      analizini yenilemeksizin; uygulanacak ilave 
+      yükümlülüklerin ilgili rekabet sorununun çözümüne 
+      yönelik uygun ve orantılı tedbirler olduğunu   
+      objektif gerekçeleri ile belirtmek suretiyle ilgili 
+      piyasada etkin piyasa gücüne sahip olan işletmeciye 
+      bu Tüzük ile belirlenen ilave yükümlülük veya 
+      yükümlülükleri getirebilir veya kaldırabilir.
+
+     (6) Kurum yükümlülüklerin kaldırılmasının ve değiş-
+      tirilmesinin yürürlüğe girmesinden önce yükümlü-
+      lüklerin kaldırılmasından veya değiştirilmesinden 
+      etkilenen taraflara haberleşme sağlayıcı tarafın-
+      dan en az 5 (Beş) iş günü olmak üzere Kurum tara-
+      fından belirlenen uygun ihbar süresi verilmesini 
+      sağlar.
+
+     (7) Kurum piyasa analizlerine yönelik olarak en az 
+      30 (Otuz) iş günü süre vermek suretiyle Rekabet 
+      Kurumu ve kamuoyu görüşünü almak zorundadır. Kurum 
+      piyasa analizlerine yönelik Rekabet Kurumu ve 
+      kamuoyu görüşü alınmasına ilişkin dökümanları 
+      Rekabet Kurumu ve kamuoyu görüşleri sonrası 
+      değerlendirmeleri içeren dökümanları ve piyasa 
+      analizleri sonucunda getirilen yükümlülükleri 
+      ihtiva eden nihai piyasa analizi dökümanlarını 
+      internet sitesinde yayımlar.
+
+İlgili Piya-  10.(1) Kurum ilgili piyasaları Avrupa Birliği’nin  saların        tavsiye kararlarını da göz önünde bulundurarak   
+Tanımlanması  düzenleme gereksinimine göre belirler. Kurum 
+            İlgili piyasaların tanımını haberleşme sağlayıcı-
+            lar tarafından sunulan hizmetler kapsamında; 
+            (ikame edilebilirlik ve kullanıcı davranışları 
+            doğrultusunda) sunulan ürün ve hizmet grupları 
+            hizmet sunulan müşteri grupları ürün ve hizmetle-
+            rin sunulduğu coğrafi alan ile etkilenen alanı 
+            dikkate alarak belirleyecektir. Kurum arz ve 
+            talep yönlü özellikleri dikkate alarak ilgili 
+            piyasa kapsamındaki hizmet şebeke ve benzeri 
+            hususları göz önünde bulundurmak suretiyle farklı 
+            alt piyasalar tanımlayabilir.
+
+      (2) Yasa’nın 39’uncu maddesi doğrultusunda Kuzey 
+      Kıbrıs Türk Cumhuriyetinde sonlanan veya başlayan 
+      uluslararası kiralık hatlar dahil olmak üzere 
+      asgari kiralık hatlar seti Kurum tarafından piyasa 
+      olarak tanımlanır.
+Etkin Piyasa  11.(1) Etkin piyasa gücüne sahip haberleşme sağla-   
+Gücüne Sahip yıcının tespitinde haberleşme sağlayıcının sahip İşletmecile-  olduğu Pazar payı öncelikle göz önünde bulundurulu-
+rin Belir-  lur. Pazar paylarının tespitinde ilgili piyasanın lenmesi      özelliklerine göre; gelir abone sayısı kullanıcı 
+            sayısı trafik miktarı iletim kapasitesi iletim 
+            hattı sayısı gibi veriler uygun ve mevcut olduğu 
+            ölçüde kullanılır. Etkin piyasa gücünün tespitinde 
+            Pazar payının yanı sıra
+
+(A)	Kolayca tekrarlanamayan altyapıların kontrolü
+(B)	Teknolojik avantajlar veya teknolojik üstünlük
+(C)	Dengeleyici alıcı gücünün düşüklüğü veya olmaması
+(Ç)  Finansal kaynaklara veya sermaye piyasalarına 
+     kolay ve ayrıcalıklı erişim imkânı
+(D)	Ürün veya hizmet çeşitliliği
+(E)	Ölçek ekonomisi
+(F)	Kapsam Ekonomisi
+(G)	Dikey bütünleşme
+(H)	Gelişmiş dağıtım ve satış ağları
+(I)	Potansiyel rekabetin olmaması
+(J)	Genişleme önündeki engeller.
+     gibi haberleşme sağlayıcının rakiplerine rekabet üstün-
+     lüğü sağlamasına yarayan özellikleri de dikkate alınır.
+     (2) Haberleşme sağlayıcının ilgili piyasada diğer haber-
+     leşme sağlayıcılarla birlikte etkin piyasa gücüne sahip 
+     olduğunun belirlenmesinde aşağıdaki kriterler uygun oldu-
+     ğu ölçüde dikkate alınır:
+ 
+(A)	Düşük talep esnekliği
+(B)	Benzer Pazar payları
+(C)	Yüksek yapısal ya da hukuki giriş engelleri
+(Ç)  Kolektif olarak anlaşma yapmayı reddeden dikey bü- 
+     tünleşme
+(D)	Dengeleyici alıcı gücü eksikliği
+(E)	Potansiyel rekabet eksikliği
+(F)	Piyasanın olgunluk seviyesi
+(G)	Talep yönünde durgun veya düşük büyüme
+(H)	Homojen ürün veya hizmetler
+(I)	Maliyet yapılarındaki benzerlik
+(J)	Teknolojik olgunluk ve yenilikçiliğin olmaması
+(K)	Atıl kapasitenin olmaması
+(L)	Haberleşme sağlayıcılar arasındaki resmî veya gayri-resmî bağlantılar
+(M)	Ticari davranışlara karşılık verme mekanizmaları ve fiyat paralellikleri
+(N)	Fiyat rekabetinin olmaması veya düşük olması.
+
+(3) Bir veya birden fazla haberleşme sağlayıcısının belirli bir piyasada etkin piyasa gücüne sahip olduğunun tespit edilmesi halinde söz konusu piyasada sahip olunan piyasa gücü yakından bağlantılı olan bir başka piyasada kullanılabilecek gibi ise ve bu durum ilgili haberleşme sağlayıcısının piyasa  gücünü güçlendiriyorsa haberleşme sağlayıcısının bağlantılı piyasada da etkin piyasa gücüne sahip olduğu kabul edilebilir.
+
+(4) Aynı veya farklı piyasalarda etkin piyasa gücüne sahip olduğu tespit edilen haberleşme sağlayıcılar için Yasa ve bu Tüzük ile belirlenen ilkeler doğrultusunda ilgili durumda uygun rekabet ortamının tesis edilmesi amacıyla sınırlı olmak üzere farklı yükümlülükler tespit edilebilir. İlgili piyasanın faklı alt pazarlarında yer alan ürün altyapı ve hizmetler bakımından etkin piyasa gücüne sahip olan işletmeci veya işletmecilere yönelik farklılaştırma da yapılabilir. Farklılaştırma işletmeci-lere ilgili pazarda getirilebilecek yükümlülüklerin seçimi veya seçilmiş olan yükümlülüklerin uygulama detay-larının farklılığı şeklinde olabilir.
+
+(5) Etkin piyasa gücüne sahip haberleşme sağlayıcılar için belirlenecek tüm tedbir ve yükümlülükler etkin piyasa gücünün kötüye kullanılmasının tüketicinin korun-masına ve rekabete zarar verecek nitelikte olması riskini azaltmak veya  sona erdirmek amacıyla belirlenir.
+
+Etkin Piyasa 12.(1) Kurum ilgili bir piyasada etkin piyasa gücüne Gücüne Sahip sahip olduğunu tespit ettiği herhangi bir haberleşme Haberleşme   sağlayıcısına bu Tüzüğün 7’nci Maddesinde belirti- 
+Sağlayıcı-  len yükümlülüklere ek olarak bu maddede belirtilen
+lara Yönelik düzeltici tedbirlerin birini veya birden fazlasını 
+Düzeltici   öngörebilir.
+Faaliyetler 
+      (2) ………………………………………………………………………………………………………………………
+(3) ………………………………………………………………………………………………………………………
+(4) ………………………………………………………………………………………………………………………
+(5) ………………………………………………………………………………………………………………………
+(6) Fiyat kontrolü ve maliyet muhasebesi: Kurum ilgili bir piyasada etkin piyasa gücüne sahip olduğunu tespit ettiği herhangi bir haberleşme sağlayıcısına; erişim ve ara bağlantı hizmetlerine ilişkin olarak kullanıcılar aleyhine aşırı ölçüde yüksek fiyatlar uygulanmasının veya fiyat sıkıştırması yapılabilmesinin mümkün olduğu haller-de; maliyet muhasebesi erişim ve ara bağlantı hizmetle-rinin fiyatlarının maliyete yönelik olması ve fiyat kontrolü yükümlülükleri getirebilir.
+
+(A)	Kurum fiyat kontrolü yükümlülüğü kapsamında; haber-leşme sağlayıcısının yapacağı yatırımı dikkate ala-rak fiyatlandırma yönteminin verimliliğe ve sür-dürülebilir rekabete hizmet etmesini ve tüketiciye faydalarını en yüksek seviyeye çıkarmasını sağlaya-cak bir biçimde; haberleşme sağlayıcısının maliyet-leri ve ilgili sermaye kaynakları üzerine makul bir getiri oranı tanıyarak fiyatların belirlenmesini sağlayacaktır. Belirlenecek fiyatların yatırım ve maliyetler üzerinde makul bir getiri oranı ile birlikte belirlendiğini ispat yükü haberleşme sağla-yıcısına ait olacaktır; hesaplama yönteminde Uzun Dönem Artan Maliyetler hesabı kullanılacaktır.
+
+(B)	Kurum maliyet muhasebesi yükümlülüğü kapsamında haberleşme sağlayıcılara; maliyetlerin hangi ana kategorilerde gruplandırılmış olduğuna ve maliyetle-rin tahsis edilmesi için hangi kuralların uygulandı-ğına ilişkin bilgileri içeren kamuoyu açıklamaları yapma yükümlülüğü getirebilir.
+
+(C)	Kurum tarafından ara bağlantı ve erişim hizmetle-rinde ücretlerin maliyet esaslı olarak belirlenmedi-ğinin tespit edilmesi halinde söz konusu tarifeler Kurum tarafından Uzun Dönem Artan Maliyetler hesabı doğrultusunda maliyet esasına göre belirlenir. Hiz-metlerin verimli sağlanma maliyetini hesaplamak amacıyla Kurum haberleşme sağlayıcısının kullan-dığı maliyet muhasebesi yöntemlerinden bağımsız yöntemler kullanabilir.
+
+     (Ç)  Kurum Uzun Dönem Artan Maliyetler hesabı doğrultu- 
+sunda fiyatları tespit edebilmesi için haberleşme sağlayıcılardan gerekli tüm bilgi ve belgeleri talep edebilir. Haberleşme sağlayıcılar Kurum tarafından talep edilen bilgi ve belgeleri kendilerine bildirim yapılmasından itibaren 15 (Onbeş) iş günü içerisinde Kuruma göndermek zorundadırlar. Kurum haberleşme sağlayıcılardan gelen bilgilerin Uzun Dönem Artan Maliyetler hesabı doğrultusunda fiyatları tespit ede-bilmesi için yeterli olmadığına kanaat getirmesi halinde; Avrupa Birliği üyesi ülkelerin uygulamaları-nı uygun olduğu ölçüde dikkate alarak fiyatları belirleyebilir ve/veya fiyatlara üst sınır koyabilir. Taraflar arasında anlaşma bulunmaması halinde Kurumun belirlediği fiyatlara uyulması zorunludur.
+ 
+(D)	Haberleşme sağlayıcıların maliyet muhasebesi siste-mine uygun olarak muhasebe sistemlerini oluşturduk-ları ve işlettikleri Bağımsız Hesap Uzmanları tara-fından her yılın Haziran ayı sonuna kadar tasdik edilmelidir. Mali Müşavir tasdik raporları tasdik tarihinden itibaren 5 (Beş) iş günü içerisinde Kurum’a iletilir ve haberleşme sağlayıcının internet sitesinden yayımlanır.
+
+     “Erişim Ara Bağlantı Piyasa Analizi ve Tarifeler Tüzü-ğü”nün yukarıda alıntısı yapılan 9. maddesinden de görülebile-ceği gibi piyasa analizi kapsamında öncelikle Tüzük kapsamında ilgili hizmeti içeren piyasanın tespiti gerçekleştirilmeli-dir. Kurum belirlediği piyasalarda uyguladığı Tüzüğün 9. maddesinin (2) (A)(B)(C) bentlerinde belirtilen üçlü kriter tes-tiyle etkin piyasa gücünün tespiti ve etkin piyasa gücüne sahip haberleşme sağlayıcılarına ek yükümlülüklerin getirilme-si süreçlerini uygular. Bu noktada Davacının toptan bir pazar niteliğinde olan “ara bağlantı piyasası”nın tanımlanması önce-sinde perakende pazarın tanımlanmamış olmasının dava konusu işlemi sakatladığı yönlü iddiası incelenmelidir. Davacının teknik tanığı olan Dikmen Edgü şahadetinde bu husus üzerinde çok durmuştur.
+
+     “Erişim Ara Bağlantı Piyasa Analizi ve Tarifeler Tüzüğü”nün “İlgili Piyasaların Tanımlanması“ yan başlıklı 10. maddesi yukarıda alıntılanmıştır. İlgili maddede yer alan düzenleme incelendiği zaman Davacının teknik tanığı tarafın-dan ileri sürülen argüman doğrultusunda bir kısıtlama ve/veya ön koşul olmadığı; öncelikle perakende pazarına bakmanın ter-cih edilen bir husus olduğunun dahi belirtilmediği görülmekte-dir. 
+
+Davacının piyasa analizine ilişkin bir diğer iddiası OTT diye kısaltılan (Over the top services) alternatif data çağrı uygulamalarının (WhatsApp Viber Skype) piyasa analizinde dikkate alınmadığı hususudur. Davacı tanığı Dikmen Edgü’nün şahadeti irdelendiği zaman OTT’lerin dikkate alınması halinde EPG bulgusunun değişeceğine ilişkin bir iddiası olmadığı; istintakında ise OTT’lerin piyasa analizinde dikkate alınması-nın sonucu değiştirmeyeceğini kabul ettiği görülmektedir. Davalı tarafından bu hususta sunulan şahadet irdelendiği zaman ise OTT’ler konusunun analiz edildiği ve değerlendirildiği bunların davaya konu zamanlarda çağrı sonlandırma pazarındaki Etkin Piyasa Gücü’nü etkileyecek boyutta baskı unsuru olmadı-ğının ifade edildiği görülmektedir. Sabit telefon kullanıcı-ları açısından OTT hizmetinin bulunmayışı ve OTT hizmetlerinin ara bağlantı piyasası dahilinde değil de internet servisi oldukları gerçeği ışığında Davacının bu konuya ilişkin iddia-larına itibar edilmesi olası değildir.
+
+Etkin Piyasa Gücü tespitine ilişkin Davacı tarafından sunulan şahadet irdelenmeye devam edildiği zaman Davacının 1. Tanığı Dikmen Edgü’nün şahadetinde her operatörün kendi şebekesi içerisinde tekel olduğunu ifade ettiği; istintakında ise Davacının ve İlgili Şahısların çağrı sonlandırma piyasa-sında etkin piyasa gücüne sahip işletmeciler olarak tespitinde tutarlı bir hata olmadığını kabul ettiği görülmektedir. Esasen Mahkeme huzurunda bulunan tüm teknik tanıklar her bir operatörün kendi şebekesindeki çağrı sonlandırmada tekil oldu-ğunu ve bu alanda sadece kendisinin hizmet verdiğini kabul etmektedir. Etkin Piyasa Gücü’nün Yasada ve Tüzükte yer alan tanımı dikkate alındığı zaman operatörlerin rakipsiz olarak tek başlarına hizmet verdikleri ara bağlantı piyasasında Etkin Piyasa Gücü’ne sahip oldukları sonucuna varılması kaçınılmaz-dır. Başka bir anlatımla Davalı Kurumun Davacının Etkin Piyasa Gücü’ne sahip olduğu tespitinin hatalı olduğunu söylemek mümkün değildir. 
+
+	Bu aşamada Davacı Avukatının Davalı Kurumun dava konusu kararını 6/2012 sayılı Elektronik Haberleşme Yasası’nın 32. maddesine de dayandırmakta olduğu; ancak ilgili maddeyi yanlış yorumladığı şeklindeki argümanı da değerlendirilmelidir. Davacı Avukatına göre 32. maddede yer alan düzenleme piyasada mevcut haberleşme sağlayıcılar için uygulanacak bir madde olmayıp piyasaya yeni girecek olanlara uygulanacak olan kurallar ihtiva etmektedir. İlgili madde şöyledir:
+
+“Erişim ve  
+ Ara 	32.	(1)	Herhangi iki haberleşme sağlayıcı kendi aralarında erişim ve/veya ara bağlantı için teknik ve ticari anlaşma yapabilir.
+ Bağlantı 
+ Yükümlü-
+  lüğü		(2)	Bu Yasa kuralları uyarınca tüm kamusal elektronik haberleşme şebeke sağlayıcıları herhangi bir yetkilendirilmiş haberleşme sağlayıcı tarafından talep gelmesi halinde talep tarihinden itibaren en geç 25 iş günü içerisinde herkesçe kullanılabilir elektronik haberleşme hizmetleri sağlamak amacıyla birbirleriyle ara bağlantı anlaşmaları yapmak için görüşmekle yükümlüdürler. 25 iş günü sonunda Kurumdan uzlaşmak amacıyla makul nedenlere dayanan ek süre talep edilmesi halinde Kurum tarafından 15 iş gününü aşmamak üzere ek süre verilebilir. Kurum tarafların verilen sürelerde anlaşamamaları halinde haberleşme sağlayıcılarına erişim veya ara bağlantı koşullarını belirleyen nihai kararı üretir.
+		(3)	Bir erişim veya ara bağlantı anlaşmasına girmeden önce veya sonra bir başka haberleşme sağlayıcısından bilgi elde eden herhangi bir haberleşme sağlayıcı bu bilgiyi sadece veriliş amacı için kullanmalı ve bundan bir rekabet avantajı elde edebilecek olan başka herhangi bir gerçek veya tüzel kişiye aktarmamalıdır.
+		(4)	Kurum bu Yasanın 34’üncü 35’inci 36’ncı ve 37’nci madde kurallarına bakılmaksızın kamusal elektronik haberleşme şebekelerinin operatörlerine bu Yasa tahtında kendisine verilen görevler çerçevesinde diğer haberleşme sağlayıcılarına erişim ve ara bağlantı sağlama yükümlülüğü getirebilir.
+21/2014		(5)	Haberleşme sağlayıcıları diğer haberleşme sağlayıcılarına eşdeğerli erişim ve/veya ara bağlantı hizmetlerini haberleşme sağlayıcılarının net maliyetleri ile ilişkili ve aynı şartlar  temelinde sunar.  Haberleşme sağlayıcıların erişim ve/veya ara bağlantı hizmetlerini net maliyetleri ile  ilişkili ve aynı şartlar temelinde sunmadığını tespit etmesi veya haberleşme sağlayıcıların net maliyetlerini tespit edememiş olması halinde Kurum erişim ve/veya ara bağlantı hizmetlerinin ücretlerini maliyet esasına göre veya diğer ülke uygulamalarını uygun olduğu ölçüde dikkate alarak ücretleri belirler ve/veya ücretlere üst sınır koyabilir. Kurumun belirlediği ücretlere uyulması zorunludur.
+
+
+	32. maddenin (5). fıkrasında yer alan  “Haberleşme sağla-yıcıları diğer haberleşme sağlayıcılarına eşdeğerli erişim ve/veya ara bağlantı hizmetlerini haberleşme sağlayıcılarının net maliyetleri ile ilişkili ve aynı şartlar  temelinde su-nar.”   şeklindeki birinci cümleden sonra yer alan “Haberleşme sağlayıcıların erişim ve/veya ara bağlantı hizmetlerini net maliyetleri ile ilişkili ve aynı şartlar temelinde sunmadığını tespit etmesi veya haberleşme sağlayıcıların net maliyetlerini tespit edememiş olması halinde Kurum erişim ve/veya ara bağlantı hizmetlerinin ücretlerini maliyet esasına göre veya diğer ülke uygulamalarını uygun olduğu ölçüde dikkate alarak ücretleri belirler ve/veya ücretlere üst sınır koyabilir. Kurumun belirlediği ücretlere uyulması zorunludur.” şeklindeki düzenleme 21/2014 sayılı Elektronik Haberleşme (Değişiklik) Yasası ile getirilen bir düzenlemedir. İlgili Değişiklik Yasa-sından önce 32. maddenin (5).fıkrasının orijinal hali “Haber-leşme sağlayıcıları diğer haberleşme sağlayıcılarına eşdeğer-li erişim ve/veya ara bağlantı hizmetlerini haberleşme sağla-yıcılarının net maliyetleri ile ilişkili ve aynı şartlar  temelinde sunar” şeklinde idi.
+
+	32. maddenin (5). fıkrasında yer alan düzenlemeyi Yasa’nın amacı ile birlikte değerlendirdiğim zaman Davacı Avukatının ilgili maddenin sadece pazara yeni gireceklere uygulanması gerektiği; halihazırda pazarda olanlara uygulanmaması gerekti-ği şeklindeki argümanına itibar etmek olası görülmemektedir.
+ 
+	Davacının değerlendirilmesi gerekli bir diğer iddiası ise ara bağlantı ücretlerinin düşürülmesi ile Davalının amaçladığı sonucun ve tüketici menfaatinin sağlanamayacağı hususudur.
+
+	Amaç unsuru bağlamında olaya bakıldığı zaman dava konusu kararda yer alan gerekçelerle dava konusu karara dayanak teşkil eden yasal mevzuat irdelendiği zaman Davalının kamu yararı amacına yönelik dava konusu kararı aldığı ilk nazarda görülmektedir. Davalının dava konusu kararı alma saikinin kamu yararı dışında olduğuna ilişkin Davacı tarafından ibraz edilen şahadet yokluğunda kararın kamu yararı amacıyla alınmış olduğu sonucuna varılmasının gerekli olduğu görüşündeyim.
+
+	Bu görüşüme rağmen Davalının amaçladığı tüketici menfaa-tinin sağlanamayacağı yönlü Davacı argümanını değerlendirecek olursam “Erişim Ara Bağlantı Piyasa Analizi ve Tarifeler Tüzüğü”nün 11. maddesinin (5). fıkrasında yer alan “Etkin piyasa gücüne sahip haberleşme sağlayıcılar için belirlenecek tüm tedbir ve yükümlülükler etkin piyasa gücünün kötüye kullanılmasının tüketicinin korunmasına ve rekabete zarar verecek nitelikte olması riskini azaltmak veya sona erdirmek amacıyla belirlenir” şeklindeki düzenleme ile karşılaşmakta-yım.
+	Başka bir ifadeyle Tüzük getirilecek olan tedbir ve yükümlülüğün “tüketicinin korunmasına ve rekabete zarar verecek nitelikte olması riskini azaltma amacına” yönelik olmasını dahi yeterli görmektedir. Bu bağlamda Davalı Kurum Avukatının hitabında belirtildiği şekilde dava konusu idari işlemin doğası gereği geleceğe dönük bir öngörüye dayanılarak yapıldığı hususunun doğru bir yaklaşım olduğu kabul edilmeli-dir. Bu bakış açısıyla olaya bakıldığı zaman Davalı kurumun bu öngörüyü yapma konusunda yasal mevzuat çerçevesinde hareket ettiği sürece bir takdir hakkı bulunduğu da kabul edilmelidir.
+
+	Bu aşamada yasal prosedürün doğru izlenip izlenmediği sorusu gündeme gelmektedir. Davacı bu hususta net maliyet hesabı yapmak mümkün iken kıyaslama metodu uygulamasının hatalı olduğunu iddia etmektedir.
+
+	“Erişim Ara Bağlantı Piyasa Analizi ve Tarifeler Tüzüğü’nün 12 (6)(A)(B)(C)(Ç)(D) maddeleri yukarıda aktarıl-mıştır.
+
+	12 (6)(Ç) maddesinde yer alan düzenlemeye göre Kurum uzun dönem artan maliyetler hesabı doğrultusunda  fiyatları tespit edebilmek için haberleşme sağlayıcılardan gerekli tüm bilgi ve belgeleri talep edebilir. Haberleşme Sağlayıcılar Kurum tarafından talep edilen tüm bilgi ve belgeleri kendilerine bildirim yapılmasından itibaren 15 (onbeş) iş günü içerisinde Kuruma göndermek zorundadırlar.
+
+	Yine aynı maddeye göre gelen bilgilerin Uzun Dönem Artan Maliyetler hesabı doğrultusunda fiyatları tespit edebilmesi için yeterli olmadığına kanaat getirmesi halinde Kurumun kıyaslama metodu ile fiyat belirleme yetkisi bulunmaktadır. 
+
+	Mahkeme huzurunda Emare 25 olarak bulunan belgeler incelendiği zaman Davacının Davalıya hiçbir belge göndermemiş olduğu; sunmuş olduğu bilgilerin ise doğruluğunu teyit etmediği görülmektedir. 
+
+	Davacının teknik tanığı Dikmen Edgü’nün de ortaklarından olduğu Axon Danışmanlık tarafından hazırlanmış olan Emare 10 raporda Davacı tarafından verilen bilgilerin hesaplama için yeterli olduğu ifade edilmişse de bu bilgilerin doğruluğunun teyit edilemeyeceği beyan edilmektedir. 
+
+	Bu noktada Davacının teknik tanığı Dikmen Edgü’nün istin-takı aşamasında “Tüzüğün hukuki olarak ilerleyip ilerlemediği konusuna” bakmadığını kabul ettiği görülmektedir. Buna ilave-ten tanığın Davalı Kurum’un kıyaslama metodunu uygulamasının hatalı olduğuna dair esas iddiasının AB ülkeleri uygulamala-rının dikkate alınması nedeniyle giydirilmiş maliyetler yerine saf maliyetlerin hesaplandığı bunun da hatalı olduğu şeklinde olduğu da tanığın şahadetinden anlaşılmaktadır.
+
+	Davalı tarafından ibraz edilen şahadetten ise davaya konu zamanlarda maliyet hesabı yapmış olan 14 AB üyesi ülkenin kıyas fiyat ortalamasının alınarak “kıyaslama” metodunun uygulandığı anlaşılmaktadır.
+
+	Kıyaslama metodu uygulanırken yapılan “hesaplamanın” yanlış veya hatalı olduğuna dair herhangi bir iddia yokluğunda ve Tüzüğün 12(6)(Ç) maddesinde yer alan “fiyat belirlemede AB üyesi ülkelerin uygulamalarının uygun olduğu ölçüde dikkate alınacağı”na dair düzenleme ışığında “saf maliyetlerin değer-lendirilmeye alınması ve kıyaslama metodunun uygulanmasının hatalı olduğu” argümanına itibar etmek olası değildir.
+
+     Davacının Talep Takririnde ileri sürmüş olduğu bir diğer husus Davacının gerek Lisans Sözleşmesi gerekse diğer operatörlerle arasında yapılan sözleşmelerin 6/2012 sayılı Yasa ve bu Yasa altında çıkarılan Tüzüklerden önce yapılmış olduğu; ilgili sözleşmelerde bu hususlarda düzenlemeler bulunmadığı; yasal düzenlemelerin sözleşmelere aykırı olarak yapılmış olduğu nedeniyle Davalının dava konusu kararının Davacıya ve Davacının taraf olduğu sözleşmelere uygulanmaması gerektiği; Davacının kazanılmış haklarının ve Anayasa ile güvence altına alınmış haklarının ve/veya sözleşme hakkının dava konusu kararla ihlal edilmiş olduğu şeklindedir.
+
+	Dosyanın duruşma aşamasından önceki bir süreçte ise 6/2012 sayılı Yasa’nın 32(2) ve (5) 33(2)(A) 4 6 7 34(1) 35(2) 36(1) 37(2) ve Geçici madde 4(3) maddelerinin ve Erişim Ara Bağlantı Piyasa Analizi ve Tarifeler Tüzüğü’nün 12(6) maddesinin davanın karara bağlanmasında etken olduğu ve ilgili maddelerin Anayasa’nın 1101112 ve 46. maddelerine aykırı olduğu şeklindeki Davacı Avukatı iddiasıyla meselenin Anayasa Mahkemesi’ne havalesi talep edilmiş yapılan havale sonrasında ise 27.3.2017 tarihinde Anayasa Mahkemesi huzurundaki havale yine Davacı Avukatı tarafından geri çekilmiştir.
+
+	6/2012 sayılı Yasa’nın ilgili maddeleri ile Erişim Ara Bağlantı Piyasa Analizi ve Tarifeler Tüzüğü’nün 12(6) maddesinin Anayasa’ya aykırı olduğuna dair yapılan başvurunun  Anayasa Mahkemesi’nde geri çekilmiş olduğu gerçeği ile Davacı Avukatının hitabında bu hususta herhangi bir beyanda bulunmamış olması ışığında Davacının Anayasa’ya aykırılık iddiasında ısrarlı olmadığı anlaşılmaktadır.  
+
+	Her hâl ve kârda Anayasa Mahkemesi’nin görev alanı dahi-linde olan bu hususla ilgili daha fazla bir inceleme yapılması bu aşamada uygun olmayacaktır.
+
+	Tüm yukarıda ifade edilenler ve yapılan inceleme netice- sinde Davacının iddialarında başarılı olduğunu söylemek olası olmadığından Davacının davasının reddedilmesi kaçınılmazdır. 
+
+	Sonuç olarak;
+Dava ret ve iptal edilir.
+
+Dava masrafları Davacı tarafından ödenecektir.
+
+
+                                               Beril Çağdal
+                                                  Yargıç
+
+
+
+10 Ağustos 2020                 
+

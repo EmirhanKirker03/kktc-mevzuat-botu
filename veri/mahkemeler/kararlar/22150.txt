@@ -1,0 +1,588 @@
+D.4/2022						Anayasa Mahkemesi:11/2020
+
+ANAYASA MAHKEMESİ OLARAK OTURUM YAPAN
+YÜKSEK MAHKEME HUZURUNDA
+
+ANAYASANIN 147’NCİ MADDESİ HAKKINDA
+
+Mahkeme Heyeti: Narin F.Şefik (Başkan) Mehmet Türker Gülden 
+			 Çiftçioğlu Tanju Öncül Beril Çağdal.
+
+Davacı: Toplumcu Demokrasi Partisi 10 Osman Paşa Caddesi 		   Köşklüçiftlik Lefkoşa
+
+-	i l e –
+Davalı: Kuzey Kıbrıs Türk Cumhuriyeti Cumhuriyet Meclisi 		   Lefkoşa
+
+								A r a s ı n d a
+
+
+Davacı tarafından Avukat Öncel Polili
+Davalı tarafından Başsavcı Yardımcısı Muavini İlter Koyuncuoğlu
+Bilgi Teknolojileri ve Haberleşme Kurumunu temsilen Avukat Hasan Esendağlı
+
+K A R A R
+I.KONU: 
+	Davacı tarafından ikame edilen iptal davası ile 14/7/2020 tarihinde 136 sayılı Resmi Gazete’de yayımlanan 32/2020 sayılı Bilişim Suçları Yasası’nın 14. 18. ve/veya 18(3)(A) 18(4) 18(5) 20(1) ve/veya 20(1)(A) 20(3)(A) 20(3)(Ç) 21. ve/veya 21(2) 22. 23(1)(C) 23(1)(D) 23(2) 24(2) maddelerinin Anayasa’nın 1. 17(1) 17(2) 18(3) 18(4) 18(5) 19. 21. 24. 26. 27. 27(4) 29. 30. 36. 59. maddelerine aykırı olup olmadığı.
+
+II. OLAY:
+	Bir siyasal parti olan Davacı Anayasa’nın 147. maddesi altında 14.7.2020 tarihinde 136 sayılı Resmi Gazete’nin Ek I’inde yayımlanan 32/2020 sayılı Bilişim Suçları Yasası’nın 14. 18. ve/veya 18(3)(A) 18(4) 18(5) 20(1) ve/veya 20(1)(A) ve 20(1)(B) 20(3) ve 20(3)(A) 20(3)(Ç) 21. ve/veya 21(2) 22(1) 23(1)(D) 23(2) 24(2) maddelerinin Anayasa’nın 1. 11 17(1)(2) 18(3) 18(4) 18(5) 19.21.24.26. 29. 30. 36. 49. 59. maddelerine aykırı olduğu iddiası ile iptal davası ikame etmiştir.
+
+III. İDDİALARIN GEREKÇELERİ:
+
+A) Söz hakkı verilen Bilgi Teknolojileri ve Haberleşme Kurumu’nun iddiaları:
+	
+Bilgi Teknolojileri ve Haberleşme Kurumu Anayasa’ya aykırı olduğu ileri sürülen maddelerin Anayasa’ya aykırı olmadığını; 14. madde ile yasa koyucunun ilk defa bilişim sistemlerinde ve yazılımlarında arama kopyalama ve el koymaya ilişkin kurallar getirdiğini; Fasıl 155 Ceza Muhakemeleri Usulü Yasası altında başka surette delil elde etme imkânı olmaması halinde bu yetkilerin kullanılacağını; 32/2020 sayılı Yasa’dan önce emarelerin sınırsız süre poliste kalması mümkünken bu yasa ile polisin yetkisine sınırlama getirildiğini; Yasa’nın 18. maddesi ile sınırsız süre saklanan trafik verilerinin (içerik hariç elektronik haberleşme ile ilgili bilgiler) saklama yükümlülüğünün 2 yıl olarak belirlendiğini; bu madde değerlendirilirken kişisel verilerin kötüye kullanılmasını engelleyen 89/2007 sayılı Kişisel Verilerin Korunması Yasası ve 6/2012 sayılı Elektronik Haberleşme Yasası’nın hali hazırda yürürlükte olduğunun gözönünde tutulması gerektiğini; Yasa’nın 20. maddesinin (1). ve (2). fıkralarının mahkemeye müracaatı düzenlediğini bu koşulda Anayasa’ya aykırılığın söz konusu olamayacağını; 20. maddesinin (3). fıkrasının Bilgi Teknolojileri ve Haberleşme Kurumu’na 24 saat ile sınırlı olarak erişimi engelleme yetkisini 4 alanla sınırlı olarak verdiğini; Davacının Kuruma verilen sanal bet ve çocuk pornografisi ile ilgili erişimi engelleme kararı verme yetkilerini dava konusu yapmadığını sadece banka müşterilerinin sırlarının açıklanması ve yasa dışı cemiyetler ile alakalı yayınlarda Anayasa’ya aykırılık iddiasını ileri sürdüğünü; bu şekilde yetkinin kullanılacağı alana bağlı olarak Anayasa’ya aykırılık iddiası yapılmasının tutarsız olduğunu ve esasen konunun Anayasal boyutu bulunmadığını gösterdiğini; Yasanın 20. maddesinde erişimin engellenmesinin düzenlendiği 5 konudan 3’ünün başvuru konusu yapılmasının yanlış olduğunu bu konunun sadece yasa koyucunun takdirine kalan bir husus olduğunu iddia etmiştir.  
+
+     Yasa koyucunun 21. madde ile ilgili belirlilik ve ölçülülük ilkelerini dikkate alarak öncelikle içeriği engelleme (URL) mümkün değilse siteyi (IP) engelleme yetkisi tanıdığını 21. maddenin Anayasaya aykırı olmadığını 22. madde ile de erişimi engellenen tarafa Mahkemeye müracaat hakkı verildiğini ayrıca içeriğin kaldırılması ile erişimin açılması hakkı verildiğini 23. maddenin ise idari cezaların düzenlendiği madde olduğunu bu maddelerin hiç birinin Anayasa’ya aykırı olmadığını ileri sürdü. 
+
+B) Davacının İddiaları:
+	Anayasa’nın 24. maddesi düşünce söz ve anlatım özgürlüğünü düzenlemektedir. Bu madde haber ve fikir alma hakkını da içerir. 32/2020 sayılı Yasa ifade özgürlüğü ve özel hayata müdahale teşkil etmektedir. Yasa’nın 14. maddesi kapsamında Zanlı veya sanığın kullandığı bilişim sistemi ve/veya bilişim verilerine el konulduğu ve imaj (adli kopya) çıkarıldığı takdirde suç ile ilgili olmayan kişinin kendine özgü olarak kaydettiği kişisel bilgiler ve özel bilgiler ve tüm veriler polise gidecektir. Bu özel hayata müdahale teşkil etmektedir. 
+
+Bilişim sisteminin imajı alınmadığı takdirde bilişim sisteminin iadesi ile ilgili süre kısıtlaması yoktur. Bu özel verilere hangi koşullarda erişilebileceği ve bu verilerin ne koşullarda yok edileceği ile ilgili yasada herhangi bir kural yoktur. Suçsuz bulunan bir kişinin verileri de poliste kalacaktır.
+
+Bu Yasa ile var olan haklara müdahale edilmektedir. “Müdahale meşru bir sebebe dayanır mı?” sorusuna cevap verirken adli kovuşturma maksadı ile özel hayata müdahale edilebileceği onun dışında Anayasal hakların sınırlanmasının Avrupa İnsan Hakları Sözleşmesi’ndeki sınırlama sebeplerine uygun olarak yapılması gerektiği kabul edilir. Anayasa’nın 11. maddesinde yer alan sınırlama sebeplerinin bazıları keyfiliğe yol açar niteliktedir.
+
+Bilişim aletleri artık basın aracı konumunda olduğu için Anayasa’nın 29. maddesine de aykırılık vardır.  Yine bilişim aletleri Anayasa’nın 30. maddesi kapsamında basın dışı haberleşme aracı olarak kabul edilmelidir. Tüm bu maddeler sınırlama ölçütlerinin Anayasa’nın 11. maddesine tabi olmadığını göstermektedir.
+
+Yasa’nın 18. maddesi altında trafik bilgilerinin saklanması ve bilinmesi özel hayatın gizliliği ve haberleşme hakkına müdahale teşkil eder.  Trafik bilgileri suç olmadığı halde saklanacaktır.  Kaydedilen verilerin kime verileceği veya bu verilerin kötüye kullanılmasının engellenmesi ile ilgili Yasada yeterli denetim yoktur. Verilerin Bilgi Teknolojileri ve Haberleşme Kurumu (BTHK)’na devredilmesi halinde BTHK’yı denetleyecek bir kurum yoktur.
+
+Yasa’nın 20. maddesi altında ne sebep ile olursa olsun erişimin engellenmesi haber alma özgürlüğüne haberleşme hakkına düşünce özgürlüğüne müdahale teşkil eder.  Mahkeme konumunda olmayan BTHK’ya erişimi engelleme yetkisi verilmesi Anayasa’nın 17. 24. ve 26. maddelerine de aykırılık teşkil eder.
+
+Yasa’nın 21. maddesi altında hangi koşullarda URL adresinin hangi koşullarda IP adresinin engelleneceği belli olmadığından yasa kuralının öngörülebilirlik şartı yerine gelmemektedir. Bu şekilde erişimin engellenmesi düşünce özgürlüğüne müdahale teşkil etmektedir.
+
+Yasa’nın 22. maddesi altında yer verilen ve bir içeriğin haklarını ihlal ettiğini veya hukuka aykırı olduğunu iddia eden bir kişinin içerik sağlayıcısına ona ulaşamadığı takdirde yer sağlayıcısına müracaat ederek bir içeriğin yayından kaldırılmasını talep etmesi ve bu içeriğin kaldırılması yine haberleşme özgürlüğüne müdahale teşkil eder; yargı haricinde bir kişinin bir yayını ortadan kaldırması Anayasa’nın 17. maddesinde yer alan hak arama özgürlüğüne de müdahale teşkil eder.  Tüm bunların aynı zamanda Anayasa’nın 1. ve 24. maddelerinde yer alan düşünce özgürlüğüne de aykırılık teşkil eder.
+
+Yasa’nın 23. maddesi ile Yasa’da yer alan suçlar için öngörülen para cezası vermeye Bilgi Teknolojileri Haberleşme Kurumu’nun yetkilendirilmesi düşünce özgürlüğüne hak arama özgürlüğüne aykırıdır. Ayrıca suçun ağırlığı ile orantılı olmayan ceza öngörüldüğü cihetle Anayasa’nın 18’nci maddesine savunma hakkı verilmediği için de 17. maddesine aykırılık vardır.
+
+C) Davalının İddiaları:
+
+	32/2020 sayılı Yasa’nın 14. maddesi Anayasa’nın 26.30. ve 36. maddesine aykırı değildir. 14. maddede basın araçları ile ilgili içerik olmadığı için ayrıca Anayasa’nın 29. maddesine de aykırılık yoktur. 14. madde Anayasa’nın 19. 21 ve 24. maddelerine aykırı değildir çünkü 14. maddede yer alan sınırlamalar Anayasa’nın 11. maddesi ile uyumludur. Keza 14. madde Avrupa İnsan Hakları Sözleşmesi’nin 8. maddesi ile de uyumludur ve yapılacak işlemler Mahkeme Kararına bağlı olarak gerçekleşeceğinden Anayasa’ya aykırılık yoktur.
+
+	Yasa’nın 18(3) maddesi ile ilgili olarak trafik verileri kişisel veri olmakla birlikte bu maddede getirilen düzenleme Anayasa’nın 11. maddeyle uyumludur bu nedenle Anayasa’ya aykırılık yoktur. Kötü kullanıma karşı gerekli yasal düzenleme yapılmıştır. Hangi koşullarda bu bilgilere erişilebileceği açıkça belirtilmiştir.
+
+	Yasa’nın 20(1) ve 20(3) maddesi Anayasa’nın 24. maddesi ile uyumludur ayrıca Anayasa’nın 11. maddesi ile de uyumludur. 
+
+	20. madde Anayasa’nın 11. maddesindeki sınırlamalara uygundur. Yetkinin tümünün Anayasa’ya aykırılığı iddia edilmeyince böyle bir yetkinin olabileceğinin kabul edildiği anlaşılmalıdır.
+
+	BTHK ancak gecikmede sakınca olması halinde yetkilendirilmiştir ve her halükârda 24 saat içerisinde Mahkemeden emir alınmadığı takdirde BTHK tarafından konan içeriğe erişim engeli kaldırılacaktır.  Bu nedenle Anayasa’ya aykırılık yoktur.
+
+BTHK’ya 24 saat ile sınırlı olarak içeriğe erişimi engelleme yetkisinin yalnızca 5 alanda verildiğini Davacının sanal bet ve çocuk pornografisi ile ilgili erişimi engelleme kararı verme konusunu dava konusu yapmadığını sadece banka müşterilerinin sırlarının açıklanması ve yasa dışı cemiyetler ile alakalı yayınlarda Anayasa’ya aykırılık iddiası ileri sürüldüğünü künyesiz veya gerçek bilgi içermeyen künyeli internet haber sitelerine de Mahkeme kararından önce 24 saatliğine BTHK tarafından erişimin engellenebileceği yetkisinin de dava konusu yapılmadığını 5 konuda 3’ünün konu yapılmasının yasa koyucunun takdirine girdiğini yasamanın asliliğine dayandığını iddia etmiştir.
+
+	Yasa koyucuya Yasa’nın 21. maddesi ile belirlilik ve ölçülülük ilkelerini dikkate alarak öncelikle içeriği engelleme (URL) mümkün değilse siteyi (IP) engelleme yetkisi tanındığını Yasa’nın 22. maddesi ile de erişimi engellenen tarafa Mahkemeye müracaat hakkı verildiğini ve içeriğin kaldırılması ile erişimin açılması hakkı verildiğini 23. maddenin ise idari cezaların düzenlendiği madde olduğunu 21. maddenin belirsiz olduğunun iddia edildiğini ancak bu madde altında da kararı Mahkeme vereceğinden Anayasa’ya aykırılık olmadığını emirden mağdur olduğunu hisseden kişi Mahkemeye müracaat ederek erişimin engellenme kararını kaldırabile-ceğinden Anayasa’nın 17. maddesine aykırılık olmadığını 22. maddede yer alan yazım hatasının bu maddeyi Anayasa’ya aykırı yapmadığını 23. maddenin de suçta ve cezada kanunilik ilkesine uygun olarak hazırlandığı cihetle Anayasa’ya aykırılık bulunmadığını 24. maddenin yasama yetkisinin devredilmemesi ilkesine uyumlu bir şekilde hazırlandığını ileri sürmüştür.
+IV. İLGİLİ YASA MADDELERİ:
+	32/2020 sayılı Bilişim Suçları Yasasının 14. 18. ve/veya 18(3)(A) 18(4) 18(5) 20(1)(A) ve 20(1)(B) 20(3) ve 20(3)(A) 20(3)(Ç) 21. 22(1) 23(1)(D) 23(2) maddeleri şöyledir;
+	“	14.	(1)	Herhangi bir suç dolayısıyla yapılan soruşturmada başka surette delil elde etme imkanının bulunmaması halinde zanlının veya sanığın kullandığı bilişim sistemi ve/veya bilişim verilerine el koymaya ilişkin olarak Ceza Muhakemeleri Usulü Yasası Kuralları uygulanır ve el koyma işleminden itibaren 24 saat içerisinde Mahkeme kararı alınamaması halinde el konulan bilişim sistemi ve/veya bilişim verileri derhal iade edilir. 
+     Ancak el konulan bilişim sistemi ve/veya bu sistemlerde bulunan bilişim verilerinde arama yapılması incelenmesi bilişim verilerinde şifre olması halinde şifrenin çözülmesi bilişim verilerinden imaj (adli kopya) çıkarılması bu kayıtların çözülerek metin haline getirilmesi Mahkeme kararı ile yapılır.
+			(2)	Herhangi bir suç dolayısıyla yapılan soruşturmada yukarıdaki (1)’inci fıkra kuralları uyarınca el koyma işlemi yapılmaksızın bilişim sistemleri ve/veya bilişim verilerinin yerinde incelenmesi bilişim sistemi ve/veya bu sistemlerde bulunan bilişim verilerinde arama yapılması bilişim verilerinde şifre olması halinde şifrenin çözülmesi bilişim verilerinden imaj (adli kopya) çıkarılması ve kayıt altına alınması bu kayıtların çözülerek metin haline getirilmesi ancak Mahkeme kararı ile yapılabilir. İmajı (adli kopyası) alınan verilerin listesi ve öz değeri zanlı veya sanığa veya vekiline teslim edilerek bu husus tutanağa kaydedilir ve ilgililer tarafından imza altına alınır.
+			(3)	Gerekli imajların (adli kopyaların) alınması halinde el konulan bilişim sistemleri ve/veya bilişim verileri davanın açılmasından itibaren 3 (üç) ay içerisinde iade edilir. Bu süre Mahkeme tarafından en fazla 6 (altı) ay daha uzatılabilir. El koyma işlemi sırasında sistemdeki bütün bilişim verilerinin yedeklemesi yapılır. Talep etmesi halinde bu yedekten bir imaj (adli kopya) çıkarılarak şüpheliye veya vekiline verilir ve bu husus tutanağa kaydedilerek ilgililer tarafından imza altına alınır.
+			(4)	El koyma işlemi sırasında yedeklemesi yapılan bilişim verilerinin tamamının veya bir kısmının zanlı veya sanığa veya vekiline teslim edilmesi durumunda bu veriler kullanılarak suç işlenebileceğine ilişkin kuvvetli şüphenin bulunması halinde zanlı veya sanığa veya vekiline el koyma işlemi yapılan verilerin imajı (adli kopyası) yerine bu imajın (adli kopyanın) içindeki verilerin matematiksel bir işlemden geçirilmesi sonucu elde edilen bütünsellik değerini içeren elektronik veri teslim edilir. Ayrıca bu Yasanın 7’nci maddesinde belirtilen 4’üncü 5’inci 6’ncı 8’inci 9’uncu 10’uncu ve 12’nci maddelerinde düzenlenen suçlardan herhangi birinin işlenmesine yarayan özel amaçlı üretilmiş cihazlar dava sonuçlanana kadar iade edilmez.
+
+			(5)	Soruşturma memurlarının bu madde uyarınca Mahkemeye başvururken  kullanacağı formlar bu Yasanın 24’üncü maddesi tahtında çıkarılacak tüzükle düzenir.
+
+	“	18.	(1)	Erişim sağlayıcı kendisi aracılığıyla erişilen içeriği kontrol etmek veya bu içerikte hukuka aykırı bir faaliyetin söz konusu olup olmadığını araştırmakla yükümlü değildir.
+			(2)	Erişim sağlayıcı bu Yasanın 21’inci maddesi uyarınca içeriğe erişimin engellenmesine karar verilmesi halinde hukuka aykırı içeriğe erişimi derhal engellemekle yükümlüdür.
+			(3)	(A)	Erişim sağlayıcı;
+					(a)	Sağladığı hizmetlere ilişkin trafik bilgilerini iki (2) yıl süre boyunca Kuzey Kıbrıs Türk Cumhuriyeti sınırları içerisindeki sunucularda saklamakla ve bu bilgilerin doğruluğunu bütünlüğünü ve gizliliğini sağlamakla yükümlüdür.
+					(b)	Yukarıdaki (a) alt bendi uyarınca sakladığı trafik bilgilerine yalnızca Mahkeme kararıyla veya yasalardan kaynaklanan bir yükümlülüğünü yerine getirmek amacıyla veya kullanıcılara sağladığı iş ve hizmetler kapsamında gerçekleştireceği iş ve işlemleri için zorunlu olması halinde ve bu amaçlarla sınırlı olmak üzere erişebilir ve erişilmesine izin verebilir. 
+					(c)	Sakladığı verilere erişimin kaydını ayrıca tutar.
+
+			(B)	..........................
+			(4)	Kurum erişim sağlayıcının trafik bilgilerini yukarıdaki (3)’üncü fıkraya uygun olarak tutma ve erişme konusundaki yükümlülüklerine uyup uymadığını denetler. Bu denetimin sıklığı yöntemi denetçilerde aranacak nitelikler denetim sonuçlarının Kurum tarafından yayınlanması ve denetimle ilgili diğer hususlar bu Yasanın 24’üncü maddesi uyarınca çıkarılan tüzükle düzenlenir.
+			(5)	Erişim sağlayıcı Elektronik Haberleşme Yasasının 23’üncü maddesi uyarınca faaliyetlerine son vereceğinde trafik bilgilerine ilişkin kayıtları bu Yasanın 24’üncü maddesi uyarınca çıkarılan tüzükte düzenlenen esas ve usullere uygun olarak Kuruma teslim etmekle yükümlüdür.
+
+“20			(1)	Elektronik haberleşme şebekesinde yapılan ve içeriği Kuzey Kıbrıs Türk Cumhuriyetindeki mevzuat kapsamında 
+				(A)	Herhangi bir suç oluşturduğu hususunda kuvvetli şüphe bulunan yayınların önlenmesi amacıyla soruşturma memuru
+				(B)	Suç oluşturmayan ancak hukuk davalarına konu olabilen yayınların önlenmesi amacıyla ilgili kişi veya kurum.
+				Mahkemeye başvurabilir ve aşağıdaki (2)’nci fıkradaki ölçütlere uygun olması şartıyla erişimin engellenmesi kararı Mahkeme tarafından verilebilir.
+			(2)	........................
+				(A)	....................
+				(B)	(a)	...............
+					....................
+					....................
+			(3)	(A)	Ceza Yasasının 63’üncü maddesine aykırı yayınlar;
+				(B)	....................
+				(C)	.....................
+				(Ç)	Kuzey Kıbrıs Türk Cumhuriyeti Bankacılık Yasasının 27’inci maddesinin (1)’inci fıkrasına aykırı olarak bankalara veya müşterilerine ait sırları açıklamak
+				ile sınırlı olmak üzere gecikmesinde sakınca bulunan hallerde Mahkeme kararı olmaksızın Kurum tarafından erişimin engellenmesi kararı verilebilir. Bu halde erişimin engellenmesini takip eden 24 (yirmi dört) saat içerisinde Mahkemeye başvurularak erişimin engellenmesi kararı alınması koşuldur. Mahkemeden emir alınamadığı takdirde erişimin engellenmesi derhal kaldırılır. Kurum erişimin engellenmesi kararını bu Yasanın 21’inci maddedesinde belirtilen kurallar uyarınca yerine getirir.”
+
+	
+“	
+21.	
+(1)	
+Mahkeme erişimin engellenmesi kararında “URL adresi: http://www.abcd.com/abcdefgh.html” şeklinde örneklenen suça ilişkin bilgilerin bulunduğu tam web adresini www.abcd.com şeklinde örneklenen ve internet yayınlarının alan adı ve internet yayınlarının bulunduğu alan adı ve internet yayınlarının bulunduğu yer sağlayıcıya ait IP adresini belirtir.
+			(2)	Mahkemenin vereceği erişimin engellenmesi kararının URL temelli olması esas olup teknik olanaklar ve suçun oluşturduğu zarar göz önünde bulundurularak IP temelli erişimin engellenmesi kararı da verebilir.
+			(3)	Erişimin engellenmesi kararının bir kopyası Mahkeme tarafından derhal Kuruma gönderilir ve Kurum kararı aynı gün içerinde erişim sağlayıcılara bildirerek derhal gereğinin yerine getirilmesini ister. Erişimin engellenmesi kararının gereği derhal ve en geç kararın bildirilmesi anından itibaren 4 (dört) saat içinde yerine getirilir.
+			(4)	Kuzey Kıbrıs Türk Cumhuriyetinde ikamet etmeyen yer sağlayıcılara Kurum tarafından bu Yasa kapsamında yapılacak bildirimler iletişim adreslerini kuruma bildirmekle yükümlü olan yetkilileri veya vekilleri aracılığıyla yapılır.
+			(5)	Erişim sağlayıcı veya erişim engellenmesi kararından olumsuz yönde etkilenen herhangi bir gerçek veya tüzel kişi kararın uygulanmasından itibaren 30 (otuz) gün içerisinde Mahkemeye başvurarak kararın iptalini isteyebilir.
+			(6)	Kurum erişimin engellenmesi kararının gereğini derhal yerine getirmeyen erişim sağlayıcının yetkilendirilmesinin iptaline karar verebilir.  
+			(7)	İçeriğin yayından kaldırılması halinde erişimin engellenmesi kararı Mahkeme tarafından kaldırılır.”
+
+	
+“	
+22. 	
+(1)	
+Yer verilen içeriğin haklarını ihlal ettiğini ve/veya hukuka aykırı olduğunu iddia eden kişi 
+				(A)	İçerik sağlayıcıya
+				(B)	İçerik sağlayıcıya yazılı olarak başvurmasına rağmen ulaşamaması ve bunun yer sağlayıcı tarafından teyid edilmesi halinde yer sağlayıcıya
+				yazılı olarak başvurarak hukuka aykırı ve/veya  haklarını ihlal etttiği olduğu iddia edilen içeriğin yayından kaldırılmasını talep edebilir. İçerik veya yer sağlayıcı kendisine ulaştığı tarihten itibaren 24 (yirmi dört) saat içinde bu talebi söz konusu içeriği yayından kaldırmak veya bu mümkün değilse içeriğe erişimi engellemek suretiyle yerine getirir getirebilir. Talep bu süre zarfında yerine getirilmediği takdirde reddedilmiş sayılır.”
+
+	“	23.	(1)	Bu Yasanın;
+				(A)	................
+				(B)	(a)	......................
+					(b)	......................
+				(C)	18’inci maddesinin (5)’inci fıkrasındaki ve ilgili tüzükteki yükümlülüklerden birini yerine getirmeyen erişim sağlayıcıya aylık asgari ücretin 10 (on katı) kadar;
+
+			(Ç)	...........................
+				(D)	20’nci maddesinin (3)’üncü fıkrasındaki  Kurum kararına uymayan erişim sağlayıcıya aylık asgari ücretin 15 (on beş) katı kadar 
+				Kurum tarafından idari para cezası verilir ve yazılı olarak tebliğ edilir.
+			(2)	Erişim sağlayıcı bu maddenin (1)’inci fıkrasının (D) bendi uyarınca Kurum tarafından verilen idari para cezasının tebliğinden itibaren 24 (yirmi dört) saat içinde erişimin engellenmesi kararını yerine getirmezse Kurum tarafından yetkilendirmenin iptaline karar verilir.”
+
+	“	24. Aşağıda belirtilen hususlarda Kurum tarafından hazırlanıp Bakanlıkça sunulup Bakanlar Kurulunca onaylanarak Resmi Gazetede yayımlanacak Tüzükler yapılır:
+			(1)	.....................................
+			(2)	Erişim sağlayıcıların denetim sıklığı yöntemi denetçilerde aranacak nitelikler denetim sonuçlarının Kurum tarafından yayınlanması ve denetimle ilgili diğer hususlar.”
+
+V. İLGİLİ ANAYASA MADDELERİ:
+“Devletin Şekli ve Nitelikleri
+	Madde 1
+	Kuzey Kıbrıs Türk Cumhuriyeti Devleti demokrasi sosyal adalet ve hukukun üstünlüğü ilkelerine dayanan laik bir Cumhuriyettir.
+
+	Hak Arama Özgürlüğü ve Yasal Yargı Yolu
+Madde 17
+(1)Kimse bu Anayasa ile veya bu Anayasa gereğince kendisine gösterilen mahkemeye başvurmak hakkından yoksun bırakılamaz.  Her ne ad altında olursa olsun adli komisyonlar veya istisnai mahkemeler oluşturulması yasaktır.
+(2)Herkes yurttaş hak ve yükümlülüklerinin veya kendisine karşı yapılan bir suçlamanın karara bağlanmasında yasa ile kurulan bağımsız tarafsız ve yetkili bir mahkeme tarafından makul bir süre içinde adil ve açık bir surette davanın dinlenmesi hakkına sahiptir.  Karar gerekçeye dayanır ve açık bir oturumda okunur.
+(3)...................................................
+(4)...................................................
+
+	Cezaların Yasal ve Kişisel Olması ve Sanık Hakları
+Madde 18
+(1)...................................................
+(2)...................................................
+(3)Hiçbir yasa suçun ağırlığı ile orantılı olmayan bir ceza koyamaz.
+(4)Bir suçtan sanık herkes suçluluğu yasaya uygun olarak ispat edilinceye kadar suçsuz sayılır.
+(5)Bir suçtan sanık herkes en azından:
+(a)Hakkında yapılan suçlamanın nitelik ve nedeninin anladığı bir dilde ve etraflı şekilde derhal kendisine bildirilmesi;
+(b)Savunmasını hazırlaması için yeterli zamana ve kolaylıklara sahip olmak;
+(c)Kendi kendini bizzat veya eğer yeterli mali olanaklardan yoksun bulunuyor ve adaletin sağlanması için gerekli görülüyorsa kendisine parasız olarak atanacak bir hukukçu aracılığı ile savunmak;
+(ç)İddia tanıklarını bizzat veya avukatı vasıtasıyla sorguya çekmek veya çektirmek ve savunma tanıklarını da iddia tanıkları ile aynı koşullar altında getirtmek ve sorguya çekilmelerini sağlamak;
+(d)Mahkemede kullanılan dili anlayamadığı veya konuşamadığı takdirde bir tercümanın yardımından parasız yararlanmak
+hakkına sahiptir.
+
+Özel Hayatın Gizliliği
+Madde 19
+(1)Herkes özel hayatına ve aile hayatına saygı gösterilmesini isteme hakkına sahiptir.  Özel hayatın ve aile hayatının gizliliğine dokunulamaz.  Adli kovuşturmanın gerektirdiği istisnalar saklıdır.
+(2)Yasanın açıkça gösterdiği durumlarda usulüne göre verilmiş mahkeme veya yargıç kararı olmadıkça ulusal güvenlik ve kamu düzeni bakımından gecikmede sakınca bulunan durumlarda da yasa ile yetkili kılınan merciin emri bulunmadıkça kimsenin üstü özel kağıtları ve eşyası aranamaz ve bunlara el konulamaz.
+
+Haberleşme Özgürlüğü
+Madde 21
+(1)Herkes haberleşme özgürlüğüne sahiptir.
+(2)Haberleşmenin gizliliği esastır.  Yasanın gösterdiği durumlarda mahkeme veya yargıç  tarafından yasaya uygun olarak verilmiş bir karar olmadıkça bu gizliliğe dokunulamaz.
+
+
+
+
+
+Düşünce Söz ve Anlatım Özgürlüğü
+Madde 24
+(1)Herkes düşünce ve kanaat özgürlüğüne sahiptir; kimse düşünce ve kanaatlarını açıklamaya zorlanamaz.  Düşünce suçu yoktur.
+(2)Herkes düşünce ve kanaatlarını söz yazı resim veya başka yollarla tek başına veya toplu olarak açıklama ve yayma hakkına sahiptir.
+	       Bu hak herhangi bir resmi makamın müdahalesi ve Devlet sınırları sözkonusu olmaksızın kanaatını anlatma haber ve fikir alma ve verme özgürlüklerini kapsar.
+(3)Söz ve anlatım özgürlüklerinin kullanılması yalnız ulusal güvenlik anayasal düzen kamu güvenliği  kamu düzeni genel sağlık genel ahlak yararı için veya başkalarının şöhret veya haklarının korunması veya bir sırrın açıklanmasının önlenmesi veya yargının otorite veya tarafsızlığının sürdürülmesi için gerekli ve yasanın koyduğu yöntemlere koşullara sınırlamalara veya cezalara bağlı tutulabilir.
+
+Basın Özgürlüğü
+	Madde 26
+(1)Yurtaşlar için basın ve yayın özgürdür sansür edilemez.
+(2)Devlet basın yayın ve haber alma özgürlüğünü sağlayacak önlemleri alır.
+(3)Basın ve haber alma özgürlüğü kamu düzenini ulusal güvenliği veya genel ahlakı korumak kişilerin şeref haysiyet ve haklarına tecavüzü suç işlemeye kışkırtmayı  önlemek veya yargı görevinin amacına uygun olarak yerine getirilmesini sağlamak için yasa ile sınırlanabilir.
+(4)Yargı görevinin amacına uygun olarak yerine getirilmesi için yasa ile belirtilecek sınırlar içinde mahkeme veya yargıç tarafından verilecek kararlar saklı kalmak üzere olaylar hakkında yayın yasağı konamaz.
+
+Gazete Dergi ve Broşür Çıkarma Hakkı
+Madde 27
+(1)Gazete dergi ve broşür çıkarılması her yurttaş için önceden izin alma ve mali güvence yatırma koşuluna bağlanamaz.
+(2)Gazete broşür ve dergilerin çıkarılması yayımı mali kaynakları ve gazetecilik mesleği ile ilgili koşullar yasa ile düzenlenir.  Yasa haber düşünce ve kanaatların serbestçe yayımlanmasını engelleyici veya  zorlaştırıcı siyasal ekonomik mali veya teknik kayıtlar koyamaz. 
+(3)Gazete ve dergiler devletin ve diğer kamu tüzel kişilerinin veya bunlara bağlı kurumların araç ve olanaklarından eşitlik ilkesine göre yararlanır.
+(4)Devlet sınırları içinde yayımlanan gazete dergi ve broşürler yasanın gösterdiği suçların işlenmesi halinde yargıç kararı ile ulusal güvenliğin kamu düzeninin veya genel ahlakın korunması bakımından gecikmede sakınca bulunan durumlarda da yasanın açıkça yetkili kıldığı merciin emriyle toplatılabilir.  Toplatma kararını veren yetkili merci bu kararı aynı gün mahkemeye bildirir.  Mahkeme bu kararı en geç iki gün içinde onaylamazsa toplatma kararı geçersiz sayılır.
+
+Basın Araçlarının Korunması
+Madde 29
+
+	Yurttaşlara ait basımevi ve eklentileri ve basın araçları suç aracı oldukları gerekçesiyle de olsa zorla alınamaz veya elkonulamaz veya işletilmekten alıkonamaz.
+
+Basın Dışı Haberleşme Araçlarından Yararlanma Hakkı
+	Madde 30
+	Yurttaşlar ve siyasal partiler kamu tüzel  kişilerinin elindeki basın dışı haberleşme ve yayın araçlarından yararlanma hakkına sahiptir.  Bu yararlanmanın koşulları ve usulleri demokratik ilkelere ve hakkaniyet ölçülerine uygun olarak yasa ile düzenlenir.  Yasa insan haklarına demokrasi sosyal adalet ve hukukun üstünlüğü ilkelerine dayanan laik devletin ulusal güvenliğin ve genel ahlakın korunması halleri dışındaki bir nedene dayanarak halkın bu araçlarla haber almasını düşünce ve kanaatlara ulaşmasını ve kamuoyunun serbestçe oluşumunu engelleyici kayıtlar koyamaz.
+
+Mülkiyet Hakkına Ait Genel Kural
+Madde 36
+(1)Her yurttaş mülkiyet ve miras haklarına sahiptir.  Bu haklar kamu yararı amacıyla ve yasa ile sınırlanabilir.
+(2)Mülkiyet hakkının kullanılmasına kamu güvenliği genel sağlık genel ahlak kent ve ülke planlaması veya herhangi bir malvarlığının kamu yararı için geliştirilmesi ve faydalı kılınması veya başkalarının haklarının korunması için kesin olarak gerekli kısıntı veya sınırlamalar yasa ile konabilir.
+(3)Malvarlığının ekonomik değerini fiilen azaltan kısıntı ve sınırlandırmalar için derhal tam bir tazminat ödenir; anlaşmazlık halinde tazminatı hukuk mahkemesi saptar.
+(4)Yukarıdaki (2). ve (3). fıkra kuralları herhangi bir verginin veya para cezasının tahsili herhangi bir hükmün yerine getirilmesi sözleşmeden doğan bir yükümün yerine getirilmesi veya can veya malın tehlikeden korunması amacı ile yasa ile konmuş kuralları etkilemez.
+(5)Devletin 159. maddede belirtilen taşınmaz mallar üzerindeki hakkı saklıdır.
+
+Öğrenim ve Eğitim Hakkı
+Madde 59
+(1)Kimse öğrenim ve eğitim hakkından yoksun bırakılamaz.
+(2)Her türlü öğretim ve eğitim etkinliği Devletin gözetim ve denetimi altında serbesttir.
+(3)Çağdaş bilim ve eğitim ilkelerine aykırı öğretim ve eğitim yerleri açılamaz.
+(4)Halkın öğrenim ve eğitim gereksinimlerini sağlama Devletin başta gelen ödevlerindendir.  Devlet bu ödevini Atatürk İlkeleri ve Devrimleri doğrultusunda ulusal kültür ve manevi değerlerle bezenmiş bir muhteva çağın ve teknolojinin gelişmesine kişinin ve toplumun istek ve gereksinimlerine yanıt verecek planlı bir şekilde yerine getirir.
+(5)Her çocuk kız erkek ayırımı yapılmaksızın on beş yaşına kadar zorunlu; on sekiz yaşına kadar ücretsiz öğrenim hakkına sahiptir.
+(6)Devlet durumları dolayısıyla okul içi ve dışında özel eğitime gereksinmeleri olanları topluma yararlı kılacak şekilde yeiştirmek için gereken önlemleri alır.
+(7)Devlet maddi olanaklardan yoksun başarılı öğrencilerin en yüksek öğrenim derecelerine kadar çıkmalarını sağlamak amacıyla burslar ve başka yollarla gerekli yardımları yapar.”
+
+
+VI.İNCELEME: 
+	Davacı 32/2020 sayılı Bilişim Suçları Yasası’nın yedi farklı maddesinin Anayasa’ya aykırı olduğunu iddia etmektedir. Kararın daha anlaşılır olması için Anayasa’ya aykırı olduğu iddia edilen her madde ile ilgili iddialar ayrı ayrı incelenecektir.
+
+A. 32/2020 sayılı Yasa’nın 14. maddesinin Anayasa’nın 19. 21. 24. 26. 29. 30. ve 36. maddelerine aykırı olduğu iddia edilmiştir.
+
+	14. maddenin (1). fıkrası herhangi bir suç dolayısıyla yapılan soruşturmada başka bir surette delil elde etme imkânı bulunmaması halinde zanlı veya sanığın kullandığı bilişim sistemi veya bilişim verilerine el koyma olanağı tanıyan fıkradır.
+
+	Fıkrada el koymanın gerçekleşebilmesi bakımından Ceza Muhakemeleri Usulü Yasası yani Fasıl 155 kurallarının uygulanacağı ve el koyma işleminden itibaren 24 saat içerisinde Mahkemeden emir alınmaması halinde bilişim sistemi veya verilerin derhal alındığı kişiye iade edileceği düzenlemesi yer almaktadır.
+
+	Yine aynı fıkraya göre el konulan bilişim sistemi veya verilerde arama ve inceleme yapılması şifre varsa çözülmesi verilerden adli kopya (imaj) alınması kayıtların metin haline dönüştürülmesi ancak Mahkeme kararı ile yapılabilmektedir.
+
+	14. maddenin (2). fıkrasına göre herhangi bir suç dolayısı ile yapılan soruşturmada el koyma işlemi yapılmadan da bilişim sistemi veya verilerde yerinde arama ve inceleme yapılması şifre varsa çözülmesi verilerden adli kopya (imaj) alınması kayıtların metine dönüştürülmesi ancak Mahkeme emri olması halinde yapılabilir.  Adli kopya (imaj) alınan verilerin listesi ve öz değeri zanlı/sanık veya vekiline teslim edilerek bu husus tutanağa kaydedilir ve imzalanır.
+
+	(3). fıkra altında adli kopyaların (imaj) alınması halinde el konulan sistem ve/veya veri konu ile ilgili davanın açılmasından itibaren 3 ay içerisinde iade edilir ancak Mahkeme bu süreyi en fazla 6 ay olmak üzere uzatabilir. Yine (3). fıkra altında el koyma işlemi sırasında bütün verilerin yedeklemesi yapılır ve talep edilmesi halinde yedekten bir imaj çıkarılarak şüpheliye veya vekiline verilir ve bu husus da tutanağa kaydedilerek imzalatılır.
+
+	(4). fıkra altında yedeklemesi yapılan bilişim verilerinin tamamının veya bir kısmının zanlı veya sanığa veya vekiline iade edilmesi halinde bu verilerin kullanılarak suç işlenebileceğine dair kuvvetli şüphe bulunması halinde imaj yerine imajın içindeki verilerin matematiksel bir işlemden geçirilmesi sonucu elde edilen bütünsellik değerini içeren elektronik veri teslim edilir.
+
+	Yasa’nın 7. maddesinde belirtilen 4. 5.6. 8.9.10. ve 12. maddelerde düzenlenen suçlardan herhangi birinin işlemesine yarayan özel amaçlı üretilmiş cihazlar dava sonuçlanıncaya kadar iade edilmez.  Yasa’nın yukarıda ifade edilen maddelerinde yer alan suçlar; bilişim sistemine veya bilişim verisine hukuka aykırı erişim bilişim sistemine veya bilişim verisinin iletimine hukuka aykırı müdahale bilişim sistemini veya verisini hukuka aykırı olarak bozma silme engelleme veya değiştirme bilişim verisi üzerinde sahtecilik bilişim sistemi aracılığıyla dolandırıcılık bilişim sistemleri kullanılarak kredi kartları ve/veya banka kartlarında sahtecilik yapma ve fikri hakların bilişim sistemi aracılığı ile ihlali suçlarıdır.
+
+	Davacı bilişim sistemindeki verilerin kişinin özel hayatının bir parçası olduğunu yedekleme yapıldıktan sonra tahkikat yapılan suç ile ilgisi olmayan verilerin de polisin tasarrufuna gireceğini ve kalacağını imaj alınmaması halinde bilişim sistemi veya verilerin iadesinin yapılamayacağını dava açılmaması halinde bilişim sistemi ve/veya bilişim verilerinin iadesinin düzenlenmediğini dava açılması için süre sınırlaması olmadığından el konulan bilişim sistemi ve/veya bilişim verilerinin belirli olmayan bir süre poliste kalacağını madde 14(5)’deki özel amaçlı üretilmiş cihazların ne olduğunun tefsiri yasada yapılmadığından polise keyfi ve öngörülemeyen yetki verildiğini madde 14(3)’de verilen el koyma hakkının kullanılması halinde yedekleme yetkisinin hukuka aykırı veya suç dolayısı ile soruşturma kapsamında olmayan tüm bilişim verilerinin yedeklenmesinin yapılmasını öngördüğünü tüm bunların Anayasa’nın 19. maddesi ile düzenlenen özel hayatın gizliliği hakkına aykırılık teşkil ettiğini ileri sürmektedir.
+
+	Devamla günümüzde en yoğun haberleşme bilişim sistemi barındıran akıllı cep telefonu tablet bilgisayar vb. aletler ile yapıldığından bilişim sistemine el konulmasının Anayasa’nın 21. maddesinde yer alan haberleşme özgürlüğüne müdahale oluşturacağını el koyma işleminden sonra bu haberleşme aletleri kullanılamayacağından bu durumun haberleşme özgürlüğüne haksız bir müdahale teşkil edeceğini ileri sürmektedir.
+
+	Davacı yine bilişim sistemleri aracılığı ile düşüncelerin etkin bir şekilde yayıldığını bilişim sistemine el konulması halinde kişilerin Anayasa’nın 24. maddesinde yer alan düşüncelerini anlatma özgürlüğünün ihlal edileceğini Fasıl 154 Ceza Yasası’nda yer alan ve Anayasa’nın 24.maddesine uygun olmayan bazı suçlar ile ilgili de bilişim sistemlerine el konulma tehlikesi bulunduğunu bunun da Anayasa’nın 24. maddesine aykırılık teşkil edeceğini ileri sürmektedir.
+
+	Davacı keza günümüzde bilişim sistemleri en etkili basın aracı olarak kullanıldığından 14. madde altında bilişim sistemine el konulması halinde basın aracına da el konulmuş olacağını basın ve medya araçlarına 14. maddede koruma verilmediğinden Anayasa’nın 29. maddesinde yer alan basın araçlarına el konulamayacağı prensibine aykırılık oluştuğunu iddia etmektedir.
+
+	Anayasa’nın 30. maddesi yurttaşlar ve siyasi partilerin kamu tüzel kişilerinin elindeki basın dışı haberleşme ve yayın araçlarından yararlanma hakkına sahip olduğuna yer verir. Yararlanma koşullarının yasa ile belirleneceğini belirten madde ayrıca yapılacak böyle bir yasada yer alamayacak kısıtlamaları da sıralar.  Davacı Yasa’nın 14. maddesi ile getirilen kısıtlamanın 30. maddede yer almayan ve yasa ile getirilemeyecek bir kısıtlama olduğunu bu nedenle 30. maddeye aykırılık oluştuğunu iddia etmektedir.
+
+	Davacı bilişim sistemine el konulduğu ve uzun yıllar sonra iade edildiği takdirde iade tarihinde artık telefonun ne maddi değeri ne de işlevi kalmayacağından 36. maddedeki mülkiyet hakkının da ihlal edildiğini savundu.
+
+	Davacı Yasa’nın 14’üncü maddesinin Anayasa’nın 49 ve 59. maddelerine aykırılığı ile ilgili iddiaları ise ileri götürmedi.
+
+	Anayasa’nın 19. maddesi bireylere özel hayata saygı gösterilmesini isteme hakkı verir ve özel hayatın gizliliğine dokunulamayacağına yer verir. 
+
+	Özel hayatın huzurumuzdaki dava kapsamında neyi ihtiva ettiğini tespit ederken huzurumuzda iptali talep edilen maddelerin yer aldığı Bilişim Suçları Yasası’nın içeriğine bakılmalıdır.  Yasa’nın 2. maddesinde bilişim sistemi ve bilişim verisinin tefsirine yer verilmiştir.
+
+	Buna göre bilişim sistemi bir veya birden fazlası belirli bir yazılım çerçevesinde otomatik olarak veri işleyebilen bir cihazı veya birbirine bağlı veya birbiriyle ilişkili bir dizi cihazı anlatır diye izah edilmiştir.
+
+	Bilişim verisi ise bir bilişim sisteminin belli bir işlevi yerine getirmesini sağlayan yazılımlar da dahil olmak üzere bir bilişim sisteminde işlenmeye uygun nitelikteki her türlü bilgi ve konsepti anlatır şeklinde tanımlanmıştır.
+
+	Kişilerin kullandıkları cep telefonları diz üstü bilgisayarlar masa üstü bilgisayarlar ve tabletler bilişim sistemine sahip cihazlardır ve bu aletlerin içerisindeki her türlü bilgi de bilişim verisidir.
+
+	Özel hayat ise bir kişinin diğer kişilerle paylaşmadığı kendine ait özel ve mahrem hayatıdır. Kişinin sadece kendisinin belirlediği kişilere açtığı bilinmesini istemediği ve bilakis korunmasını istediği bu hayata özel hayat denmektedir. Özel hayatın alt unsurları kişisel veriler konut haberleşme ve aile hayatına saygı olarak kabul görmektedir. Kişisel veriler ise gerek Avrupa İnsan Hakları Mahkemesi gerekse T.C. Anayasa Mahkemesi kararlarında kişilerin adı soyadı telefon numarası pasaport numarası özgeçmişi resmi sesi parmak izleri sağlık durumuna ilişkin bilgiler ve benzeri olarak belirlenmiştir. 
+
+	T.C. Anayasa Mahkemesi E.2013/122 K.2014/74 sayılı kararında kişisel veriyi şöyle tanımlamıştır:
+
+“Kişisel veri kavramı belirli veya kimliği belirlenebilir olmak şartı ile bir kişiye ilişkin bütün bilgileri ifade etmektedir. Bu bağlamda adı soyadı doğum tarihi ve doğum yeri gibi bireyin sadece kimliğin ortaya koyan bilgiler değil; telefon numarası motorlu taşıt numarası sosyal güvenlik numarası pasaport numarası özgeçmiş resim görüntü ve ses kayıtları parmak izleri genetik izler IP adresi e-posta adresi hobiler tercihler etkileşimde bulunan kişiler grup üyelikleri aile bilgileri gibi kişiyi doğrudan veya dolaylı olarak belirlenebilir kılan tüm veriler kişisel veri kapsamındadır." 
+
+
+	Dolayısıyla bir kişinin kullandığı bilişim sistemine veya bilişim verilerine el konulması halinde ilk etapta o kişinin özel hayatına müdahale yapılmış olacağı kabul edilmelidir.
+
+    Anayasa’nın 19. maddesinin (1). fıkrasına göre özel hayatın gizliliğine dokunulamaz. Bununla birlikte adli kovuşturmanın gerektirdiği istisnalar saklı tutulmuştur. 32/2020 sayılı Yasa Adli Kovuşturmanın başlamasından öncesine ait bir dönem ile ilgilidir ve soruşturma safhasında kullanılacak yetkileri içerir. Bu nedenle 19. maddenin (1). fıkrası kapsamında değildir.
+
+	19. maddenin (2). fıkrası ise 2 koşul haricinde kimsenin özel kağıtlarına ve eşyasına el konulamayacağını belirtir. Bir kişinin özel kağıtlarına ve eşyasına; (i)yasanın açıkça gösterdiği durumlarda mahkeme veya yargıç kararı ile; ve (ii) Ulusal güvenlik ve kamu düzeni bakımından gecikmede sakınca bulunan durumlarda yasada yetkili kılınan merciin emri ile el konulabileceği belirtilmektedir. Ancak bu iki koşulun yer alması halinde kişinin üstü özel kağıtları ve eşyaları aranabilir ve onlara el konulabilir. Robathin v Austria (30457/06) davasında Avusturya Mahkemesi evrak ve eşyalara el koyma ile ilgili mevzuatın elektronik datayıda kapsadığı yorumunu yapmış ve  AİHM de bu yorumu benimsemiştir.
+
+      Dolayısı ile huzurumuzdaki dava konusu Yasa’da soruşturma safhası ile ilgili olarak “yasanın açıkca gösterdiği durumlarda usulüne göre verilmiş Mahkeme veya yargıç kararı” ile  kişinin özel kağıtlarına ve eşyalarına el konulması halinde bunun Anayasa’nın 19. maddesine aykırılık oluşturmayacağı açıktır. Buna ilaveten Yasa’nın 14. madde-sinde Ceza Muhakemeleri Usulü Yasası kuralları altında el koyma gerçekleştiği takdirde bu el koyma işleminden itibaren 24 saat içerisinde Mahkeme kararı alınması gerektiği alınmadığı takdirde el konulan bilişim sistemi veya bilişim verilerinin derhal iade edileceği kuralı yer almaktadır. Yani bu safhadaki el koyma işlemi Mahkeme kararından öncesine ait bir dönemdir. Anayasa’nın 19. maddesinin (2). fıkrası özel kağıtlarına veya eşyalarına Mahkeme veya yargıç kararı olmamasına rağmen “ulusal güvenlik ve kamu düzeni bakımından gecikmede sakınca bulunan durumlarda .... yasa ile yetkili kılınan merciin” emri ile de el konulabileceğine yer vermektedir. Yani Anayasa’nın Mahkeme veya yargıç kararı dışında yasa ile yetkili kılınan merciin emri ile kamu düzeni bakımından gecikmede sakınca bulunan durumlarda bir kimsenin  özel kağıt veya eşyalarına el konulabileceğine ve bunun yapılmasının özel hayatın gizliliğine aykırılık teşkil etmeyeceğine veya özel hayatın gizliliğine yapılan müdahalenin meşru olmasını sağladığı görülmektedir.
+
+     Yasa’nın 14. maddesinde özel hayat başlığı altında korunması gereken kişisel verilere ilişkin herhangi bir suç dolayısı ile yapılan soruşturmada Fasıl 155 tahtında el konulan bilişim sistemi veya bilişim verilerine 24 saat içerisinde Mahkeme kararı alınması halinde el konulma durumunun devam etmesine Mahkeme emri alınmaması halinde el konulan emtianın iade edilmesi gerektiğine yer verilmektedir. Mahkeme emri verildikten sonra el koymanın devam ettiği süreçte ise el konulan sistem veya verilerde arama yapılması incelenme yapılması şifre çözülmesi adli kopya çıkarılması kayıtların metne dönüştürülmesi yine Mahkeme kararı ile yapılabilmektedir.  Netice itibarı ile  14. maddenin öngördüğü işlemlerin Anayasa’nın 19. maddesinin (2). fıkrası kapsamına girdiği ve bu nedenle özel hayata yapılan müdahalenin  Anayasa’ya aykırılık teşkil etmediğini gösterdiği ilk etapta düşünülebilinir.
+
+     Dava konusu yapılan ve Anayasa’ya aykırı olduğu iddia edilen maddelerde verilen yetkilerin salt yasada yer alması Anayasa’nın 19(2) maddesini tatmin eder mi? Gerek T.C. AYM kararlarına gerekse AİHM kararlarına bakıldığında bir kuralın yasada yer almasının yeterli olmadığı bu kuralın yer aldığı yasanın açık öngörülür ve yeterince erişilebilir olması gerektiği devamında meşru bir amaç güttüğü ve demokratik bir toplumda gerekli olduğunun kabul edilmesi gerektiği ve ancak bu koşulların var olması halinde o yasada yer alan kuralın uygulanır olduğunun kabul edildiği görülür.
+
+     KKTC Anayasasına bakıldığı zaman bir çok temel hak bahşeden maddelerde bu haklara hangi koşullarda müdahale edilirse müdahalenin aykırılık teşkil etmeyeceğinin de belirtildiği görülür. 11. madde ise genel bir sınırlama maddesi olarak Anayasa’da yer almaktadır. Bu durumda 32/2020 sayılı Yasa’da yer alan kuralların sadece yasada yer alması tek başına yeterli değildir. Yasalarda hukuk devleti ilkesi gereği olarak kanunilik koşulunun var olup olmadığının da incelenmesi gereklidir. Bu koşulun tatmin olması için yasanın erişilebilir okunduğu zaman anlaşılır ve kişilerin davranışlarını ona göre dayandırmaları için öngörülebilir olması gerekir. KKTC Anayasasında Yasaların Anayasal denetiminde Yasanın meşru bir amaç güttüğü ve demokratik bir toplumda gerekli olduğunun kabul edilmesi gerektiği kriterleri açıkca yer almamaktadır. Bu meselede Anayasal denetimde bu kriterlerin de kullanılması gerektiği noktasında ikna olmadık. Dolayısıyla 32/2020 sayılı Yasa’nın yukarıda ifade edildiği gibi kanunilik testine tabi tutulması gerektiğini ve ileri sürülen maddelerin iddia edilen Anayasa maddelerine aykırılığı incelenirken hakkın özüne dokunulup dokunulmadığının da incelenmesi gerektiği bu hususların dışında bir incelemeye gerek olmadığına karar veririz.
+
+    32/2020 sayılı Yasa Resmi Gazete’de yayımlanmıştır. Bu Yasa’nın erişilir olduğunu göstermeye yeterlidir. Buna ilaveten dava konusu Bilişim Suçları Yasası gerek basında gerekse sosyal medyada çok tartışılmıştır. Dolayısıyla erişilebilirlik kriteri de tatmin olmuş bir yasadır.  Maddeler okunduğu zaman anlaşılır bir metin ortaya çıkmaktadır. Öngörülebilirlik ölçüsü Yasa’nın bireylerin hukuka uygun bir şekilde hareket etmelerini sağlayabilecek şekilde  hazırlanmasını gerektirir. Nitekim Davacı öngörülebilirlik  kriterinin var olduğunu kabul etmiş ancak Yasa ile orantısız bir gücün verilmekte olduğunu iddia etmiştir.
+
+     32/2020 sayılı Yasa’nın 14. maddesinin özel hayatın gizliliği hakkının özüne dokunup dokunmadığının incelemesi yapılırken kullanılması gerekli kritere öncelikle yer verilmesi gerekir. Anayasa’nın 19. maddesi ile özel hayatın gizliliğine dokunulamayacağı kesin bir dille belirtilmiş buna istisna teşkil edebilecek durumlara aynı maddenin (1). ve (2). fıkralarında yukarıda izah edildiği şekilde yer verilmiştir. Anayasanın 19. maddesinin (1). ve (2). fıkralarında yer alan bu ek güvenceler özel hayatın gizliliği hakkının özünün ne olduğunun anlaşılması için kullanılacak unsurlardır. Yasal sınırlamaların ancak yargıç kararı ile uygulanması bir ek güvence olarak kabul edilmelidir. Ek güvence hakka özel ve yoğun bir koruma getirmektedir.  Bu güvence sayesinde yasa koyucunun müdahalesine karşı dokunulmaz bir çekirdek niteliği kazandırmaktadır.  Bu da hakkın özüne dokunma yasağı ile aynı niteliği taşımaktadır. (Bak. Fazıl Sağlam Temel Hakların Sınırlaması ve Özü Ankara 1982 s.157-159) Bu durumda el koyma el konulduktan sonra 24 saat içerisinde ancak Mahkeme kararı verilmesi halinde bu el koymaya devam edilmesi ve ancak yargıç kararı ile bilişim sistemi veya bilişim verilerinde arama yapılması incelenmesi şifre çözülmesi imaj çıkarılması kayıtların çözülerek metin haline getirilmesi bilişim verilerinin yedeklenmesinin yapılması özel hayatın gizliliği hakkının özüne dokunmadığını göstermektedir. 
+
+   Anayasa’nın 19. maddesinin (2). fıkrasında yer alan ve kamu düzeni bakımından gecikmede sakınca bulunan durumlarda yasa ile yetkili kılınan merciin emri ile de el koyma işlemi yapılması yine Anayasa tarafından tanınan bir ek güvencedir. Bu nedenle yukarıda söylenenler kapsamında 19(2)’de yer alan bu kuralın varolması halinde yani i) kamu düzeni bakımından gecikmede sakınca bulunması ii) yasa ile yetkili kılınan bir merciin bulunması ve iii) bu merciin el koyma emri vermesi halinde bu koşullarda el konulan özel kağıtlar ve eşyalar ile ilgili olarak özel hayatın gizliliği hakkının özüne dokunulmadığını kabul etmek gerekir. Merci kelimesinin sözlük anlamı makamdır. Yasa’nın 14. maddesi maksatları için mercii ifadesi herhangi bir suç dolayısı ile yapılan soruşturmada Ceza Muhakemeleri Usulü Yasası’nın verdiği yetkiyi kullanacak olan polis mensuplarını içerir polisin 24 saatlik bir süre için kamu düzeni bakımından gecikmede sakınca bulunan durumlarda yetkili mercii sıfatı ile el koyma işlemi yapmasında özel hayatın gizliliği hakkının özüne dokunmadığına karar verilmelidir.
+
+	Yasa’nın amacına bakıldığı zaman bu hususun Yasa’nın 3. maddesinde düzenlendiği görülür.
+
+	3’üncü madde aynen şöyledir:
+     Amaç ve Kapsam
+3. Bu Yasanın amacı ve kapsamı; bilişim sistemlerinin ağlarının ve verilerinin gizliliğine doğruluğuna ve ulaşılabilirliğine zarar verici faaliyetler ile bu sistem ağ ve verilerin kötü amaçlı kullanımının ve suç işlenmesinin engellenmesi için uygulanacak usul ve esasların düzenlenmesi; içerik sağlayıcı yer sağlayıcı erişim sağlayıcı ve toplu kullanım sağlayıcıları ile internet haber sitelerinin yükümlülük ve sorumluluklarının düzenlenmesi; tüm bu faaliyetler kapsamında suç oluşturan eylemler ve cezaların belirlenmesi söz konusu suçlarla etkili biçimde mücadele edilmesine ve suçların kovuşturulmasına ilişkin usul ve esasların düzenlenmesidir.
+
+	14. madde ile yapılan düzenlemenin ‘suçlarla etkili mücadele edilmesine’ ve ‘suç işlenmesinin engellenmesi’ amaçlarına uygun olduğu açıktır.
+
+	14. madde ile yasa koyucu kişinin özel hayatı ve özel hayatın gizliliği ile suçların ortaya çıkarılmasındaki kamu yararı arasında bir denge kurmayı amaçlamıştır. 14. madde bu dengeyi korumaktadır.
+
+       Davacı italei lisan suçu nedeni ile cep telefonuna el konulan bir kişinin çok uzun bir süre cep telefonuna ulaşamayacağını her ne kadar da 14. maddenin (3). fıkrasına göre davanın açılmasından 3 ay sonra el konulan bilişim sisteminin iade edilmesi kuralı düzenlenmiş olsa da bu sürenin Mahkeme tarafından 6 aya kadar uzatılabileceğini ve en önemlisi bir ceza davasının ne kadar süre sonra ikame edileceği belli olmadığı için bu sürecin çok uzayabileceğini ifade etmiştir.  Davacı devamla el konulacak verilerin sadece suç ile bağlantılı veriler olmayacağını suç ile bağlantısı olmayan pek çok bilgi ve verinin de imajının alınmış olacağını bu tür verilerin yok edilmesi ile ilgili düzenleme bulunmadığı için de 19. maddeye aykırılık bulunduğunu ileri sürmüştür. 
+
+    Huzurumuzdaki davada iptal talebine konu iddialar devlet tarafından derlenen kişisel verilerin açıklanması veya bu verilerin korunması ile ilgili değildir. Verilerin saklanması ve verilere erişim ile ilgili bir mevzuatın Anayasaya aykırılığı iddia edilmemektedir. Şikâyet konusu yapılan kişisel veri konumundaki bilgilere Mahkeme emri ile el konulması ve bu verilerin gerekenden çok uzun bir süre tutulması ile ilgilidir. Ayrıca bu bilgileri tutan mercii tarafından bu verilerin dışarıya sızdırılması üzerinde bir kontrol olmadığı ve bu verilerin ne şekilde imha edileceğinin de Yasa’da belirtilmediği ileri sürülmektedir. 32/2020 sayılı Yasa’da madde 6(2)’de sair şeyler yanından bilişim verilerini ileten kişinin bir suç işlediğine yer verilmektedir. Bu nedenle bilişim verilerinin dışarıya sızdırılması ile ilgili önlem Yasa’da yer almaktadır. El konulduktan sonra imajı alınan verilerin tümünün dava süreci bittikten sonra veya hiç dava süreci başlamadığı takdirde el koyma kararı verildikten kısa bir süre sonra iade edilmesi veya imha edilmesi veya imajın iade edilmesi veya imha edilmesi gerektiği tartışma kaldırmayacak kadar açık ve nettir. Fasıl 155 Ceza Muhakemeleri Usulü Yasası’nın muhtelif maddelerinde polis tarafından el konulan veya dava maksatları için emare alınan eşyalar ile ilgili Mahkemenin iade veya başka uygun gördüğü emir vermeye yetkisi bulunduğu cihetle mevzuatta alınan verilerin iadesi veya imha edilmesi konusunda Yasa’da eksiklik bulunduğu iddiası kabul edilemez.
+
+	Bilişim sistemi veya bilişim verilerine el konulduktan sonra 24 saat içerisinde Mahkeme kararı elde edilmediği takdirde el konulan verilerin iade edilmesi gerekir. Mahkeme emri neticesinde el konulan veya el konulmasına devam edilen eşyaların veya emarelerin iadesi için de yukarıda izah edildiği şekilde yürürlükteki mevzuatta Mahkemeye müracaat hakkı bulunmaktadır. Bu nedenle bu başlık altındaki Anayasaya aykırılık iddiaları da reddedilmelidir.
+
+
+     Dolayısıyla 32/2020 sayılı Yasa’nın 14’üncü maddesinin (1)’nci fıkrası uyarınca herhangi bir suç dolayısıyla yapılan soruşturma maksatları için zanlının veya sanığın kullandığı bilişim sistemi ve/veya bilişim verisine Ceza Muhakemeleri Usulü Yasası kuralları altında el konulması ve el koyma işleminden itibaren 24 saat içerisinde Mahkeme emri ile de el konulma kararı alınması neticesinde bilişim sistemi veya bilişim verilerine el koyma sürecinin devam etmesi  24 saat içerisinde Mahkeme kararı alınmaması halinde ise el konulan eşyaların iade edilmesi işlemlerinin Anayasa’nın 19. maddesinin (2). fıkrasında da bu işlemlerin yapılmasını sağlayacak koşullar yer aldığından Anayasanın 19. maddesine aykırılığı yoktur.
+
+	Bu nedenle Yasa’nın 14. maddesinin (1)’nci fıkrasının Anayasa’nın 19. maddesine aykırı olmadığına karar verilir. 
+
+	32/2020 sayılı Yasanın 14’üncü maddesinin (2). fıkrasında yine suç dolayısıyla yapılan soruşturma maksatları için (1). fıkrada verilen yetkiler bilişim sistemine ve/veya bilişim verilerine el konmadan da kullanılabilmektedir. El konmadığı için de imajı alınan verilerin listesi ve öz değeri zanlı veya sanığa veya vekiline teslim edilerek tutanak tutulur ve imza alınır. 14. maddenin (2). fıkrasında verilen yetkilere (1). fıkra incelenirken detaylı şekilde değinilmiştir. Orada söylenenler aynı şekilde (2). fıkra için de tekrarlanır ve 32/2020 sayılı Yasa’nın 14. maddesinin (2). fıkrasında yer alan hususlar Anayasa’nın 19. maddesinin (2). fıkrası kapsamında olduğundan 14. maddenin (2). fıkrasının da Anayasa’nın 19. maddesine aykırı olmadığına karar verilir. 
+
+	32/2020 sayılı Yasa’nın 14. maddesinin (3). fıkrası el koyma yetkisi altında alınan bilişim sistemi veya bilişim verilerinin yedeklenmesinin yapılması ve ayrıca gerekli  imajların alınması halinde bunların Yasa’da belirtilen süre zarfında  iadesini düzenlemektedir. İmaj alma ile ilgili söylenenler yedeklenme için de aynen tekrarlanır. İmajların bilişim sistemi veya bilişim verilerine el konulan kişilere iadesini düzenlenen bu fıkranın da Anayasanın 19. maddesine aykırı olmadığına karar verilir.
+
+	32/2020 sayılı Yasa’nın 14. maddesinin (4). fıkrası yedeklenmesi yapılan bilişim verilerinin tamamının veya bir kısmının zanlı veya sanığa veya vekiline iade edilmesi halinde bu veriler kullanılarak suç işlenebileceğine dair kuvvetli şüphe bulunması halinde imaj yerine imajın içindeki verilerin matematiksel bir işlemden geçirilmesi sonucu elde edilen bütünsellik değerini içeren elektronik verinin teslim edilmesine olanak tanıyan fıkradır. Ayrıca fıkra Yasa’da belirtilen suçların işlenmesine yarayan özel amaçlı üretilmiş cihazların dava sonuna kadar iade edilemeyeceği düzenlemesine de yer vermektedir. Madde 14(1) altında imaj alınması ve veriler ile ilgili işlemlerin Mahkeme kararı ile yapılacağı gerçeği ışığında bu fıkra için  (1). fıkra için söylenenler aynen tekrarlanır ve (4). fıkranın bu kısmının Anayasanın 19. maddesine aykırılığı olmadığına karar verilir.
+
+     Özel amaçlı üretilmiş araçların ne olduklarının yasada belirtilmemiş olduğu doğrudur. Esasen bu özel amaçlı üretilmiş araçların ne olacağının tespiti mümkün değildir. İsminde belirtildiği gibi elde edilmek istenen neticeye yönelik tasarlanan bir üründen bahsedilmektedir. Yapılmak istenilen maksada odaklanmış bir aletin tefsirinin önceden yapılması mümkün değildir o nedenle bu tür ürünlerin genel bir tanımlama ile yasada yer alması yeterli kabul edilmelidir.  Normal prosedürde bir emarenin iadesi davada ibraz edilmişse Mahkemenin soruşturma safhasında el konulmuşsa Başsavcılığın direktifi ile mümkündür. Genelde dava için önem arzeden eşyalar Mahkemeye emare olarak ibraz edilir. O safhaya kadar poliste tutulur ve ancak dava sonunda Mahkeme o eşyanın iadesine imhasına veya müsaderesine emir verebilir. Emare yapılmayan eşyalar ise poliste tutulur. Bu eşyaların iadesi için sahiplerinin müracaat hakkı vardır.  Ancak huzurumuzdaki davada yasa koyucu her hal ve kârda özel amaç ile üretilmiş araçların Mahkeme veya Başsavcılığın takdiri ile iadesini yasaklamıştır. Kişilerin dava neticeleninceye kadar yargıya başvurma hakkının yasaklanması Anayasanın 17. maddesine aykırıdır. Bu nedenle 14. maddenin (4). fıkrasının “Ayrıca bu Yasa’nın 7’nci maddesinde belirtilen 4’üncü 5’inci 6’ncı 8’inci 9’uncu 10’uncu ve 12’nci maddelerinde düzenlenen suçlardan herhangi birinin işlenmesine yarayan özel amaçlı üretilmiş cihazlar dava sonuçlanana kadar iade edilmez.” cümlesinin Anayasanın 17. maddesine aykırı olduğuna karar verilir. 	
+
+	32/2020 sayılı Yasa’nın 14. maddesinin Anayasa’nın 21. maddesine de aykırı olduğu iddia edilmektedir. Anayasa’nın 21. maddesi haberleşme özgürlüğünü düzenler. Bu maddede herkesin haberleşme özgürlüğüne sahip olduğu ve haberleşmenin gizliliğinin esas olduğu belirtilir. Maddede ayrıca Yasanın gösterdiği durumlarda mahkeme veya yargıç tarafından yasaya uygun karar verilmedikçe bu gizliliğe dokunulamayacağına da ayrıca yer verilmiştir.
+
+	Haberleşme kişiler arasında her türlü vasıta ile yapılan bilgi ve düşünce aktarımını ifade eder. Kişiler cep telefonu tablet dizüstü bilgisayar masa üstü bilgisayar gibi cihazlar ile kişiler haberleşme özgürlüklerini rahatça kullanabilmektedirler.  
+
+	14. madde altında bu cihazların herhangi birine el konulması ile kişilerin haberleşme özgürlüklerinin etkileneceği açıktır. Dolayısı ile bilişim sisteminin veya bilişim verilerine el konulmasının ilk etapta haberleşme özgürlüğüne müdahale teşkil ettiği kabul edilmelidir. Anayasanın 21. maddesinin (2). fıkrası ise yargıç tarafından yasaya uygun olarak verilen bir karar neticesinde haberleşme gizliliğine dokunulabileceğini kabul etmektedir. Nitekim Yasa’nın 14. maddesine bakıldığı zaman (1). fıkra altında el koymadan itibaren 24 saat içerisinde Mahkeme emri temin edilmediği takdirde el koyma hakkı ortadan kalkmaktadır.  Bilişim sistemi veya bilişim verilerinde inceleme imaj çıkarılması ise sadece Mahkeme kararı ile mümkün olmaktadır. Bu prosedür ise Anayasa’nın 21. maddesinin (2). fıkrasına uygundur. Yukarıda özel hayatının gizliliği hakkı incelenirken 14. maddenin bu hakkın özüne dokunmadığına karar verirken söylediklerimiz 21. madde için de aynen geçerlidir. Bu nedenle 32/2020 sayılı Yasa’nın Anayasa’nın 21. maddesine aykırı olmadığına karar verilir.
+
+	32/2020 sayılı Yasa’nın 14. maddesinin Anayasa’nın 24. maddesine aykırı olduğu da iddia edilmektedir. Anayasa’nın 24. maddesi düşünce söz ve anlatım özgürlüğünü düzenler. Bu dava maksatları için 24. maddenin (2). fıkrası herkese düşüncesini ve kanaatını söz yazı resim ve başka yollarla açıklama ve yayma hakkı vermektedir. Davacı bilişim sistemine ve bilişim verilerine el konulması neticesinde verilerine veya sistemine el konulan kişinin düşünce ve ifade özgürlüğüne de aykırılık oluştuğunu iddia etmiştir. Ayrıca el konulma ihtimalinin bulunmasının dahi kişinin özgürce paylaşım yapmasını engelleyeceğini iddia etmiştir.
+
+      Bir kişinin cep telefonu/tableti/bilgisayarına el konulması verilerinin imajının alınması ilk etapta Anayasa’nın 24. maddesinin (2). fıkrası altında düşünce ve kanaatlerini açıklama ve yayma hakkına müdahale teşkil etmektedir.
+
+       Müdahale bulunduğunu kabul ettikten sonra bu müdahalenin Anayasa’nın 24. maddenin (3). fıkrası kapsamında olup olmadığına bakılmalıdır. 24. maddenin (3). fıkrası bu özgürlüğün kullanılmasının sair şeyler yanında anayasal düzen kamu düzeni başkalarının şöhret ve haklarının korunması gibi sebeplerle Yasa’nın koyduğu koşullarla sınırlamalara bağlı tutulabileceğine yer verir. Gerek bilişim sistemine veya bilişim verilerine el konulması gerekse imaj alınması mahkeme kararı ile yapılabileceğinden ve mahkeme emri de bir suç dolayısı ile yapılan soruşturma nedeni ile verilmiş olacağından bu müdahale 24. maddenin (3). fıkrasında yer alan kamu düzenini korumak maksadı ile gerekli bir müdahale olarak kabul edilmelidir. Yasa ile getirilen kuralların 24. madde ile tanınan söz ve anlatım özgürlüğü hakkının özüne dokunduğunu söylemek mümkün müdür? Anayasa’nın 24(3) maddesindeki ek güvence Anayasa’nın 19(2) maddesindekinden farklıdır. Madde 24(3)’de mahkeme kararı ile bu hakkın kullanılmasının sınırlanabileceği kuralı yer almamaktadır.  Madde 24(3) “kamu düzeni..... için veya başkalarının şöhret ve haklarının  korunması için gerekli ve yasanın koyduğu yöntemlere koşullara sınırlamalara ve cezalara bağlı tutulabilir” ifadelerini içerir. Anayasa’nın 24(3) maddesinde yer alan bu hususlar söz ve anlatım özgürlüğünün sağlanmasının ek güvenceleridir ve yukarıda ifade edildiği gibi ek güvence hakka ek bir koruma getirmektedir.  Ek güvence sayesinde temel hakka yasa koyucunun müdahalesine karşı dokunulmaz bir çekirdek niteliği kazandırılmaktadır.  Bu da hakkın özüne dokunma yasağı ile aynı niteliği taşımaktadır.  Madde 24(3) ile Yasa’nın koyduğu yöntem koşul veya sınırlamalara bağlı olarak söz ve anlatım özgürlüğü korunmaya çalışılmaktadır. Yasa’nın koyduğu sınırlamalar ise kişinin kullandığı bilişim sistemi veya bilişim verilerine el koyma ve el konduktan sonra Mahkeme emri ile arama inceleme şifre çözme imaj çıkarma metin haline getirme ve yedeklemedir. Bu kısıtlamalar ile sadece kişinin söz ve anlatım özgürlüğünü el konulan aletler vasıtası ile kullanması el konma süresince kısıtlanacaktır. Kişinin bunlar dışında söz ve anlatım hakkına dokunul-mamaktadır. El konulan aletler vasıtası ile bu hakkın kullanılması ise bu aletlerin iadesi  ile son bulacaktır. Bu aletler haricinde söz ve anlatım özgürlüğü ise kişide devam etmektedir. Bu nedenlerle Anayasa’nın 24. maddesi ile tanınan hakkın özüne dokunulmamaktadır.  Dolayısıyla 14. madde Anayasa’nın 24. maddesine de aykırı değildir.
+
+	Anayasa’nın 29. maddesi basın araçlarına suç aracı oldukları gerekçesiyle dahi el konulamayacağını ve bunların işletilmekten alıkonulamayacağını düzenler.
+
+	Anayasa’nın yürürlüğe girdiği 1985 yılında kullanılan basın araçları bugün kullanılan cep telefonu dizüstü bilgisayar (laptop) masaüstü bilgisayar değildi. Bununla birlikte günümüz koşullarında bilişim sistemi ve/veya bilişim verisi kapsamında el konulabilecek cihazların basın aracı olarak da kullanıldıkları bir gerçektir. Her halükârda ilgili Yasa maddesi basın aracı da olsa bilişim sistemine ve/veya bilişim verilerine el konulacağını düzenlememektedir. Böyle bir düzenleme olsa bunun Anayasanın 29. maddesine açıkca aykırı olduğu söylenebilecekti. Yasaların Anayasa’ya uygun bir şekilde yorumlanması gerekir ilkesinden hareketle Anayasa’nın 29. maddesi gereğince basın aracı olarak kullanılan Bilişim Suçları Yasası kapsamındaki aletlere el konulamayacağı gerçeği ışığında bu istisnai durumun Yasa’da yer almaması veya bu Anayasal prensibin istisna olarak belirtilmemesi bu maddeyi Anayasa’ya aykırı kılmamaktadır.  32/2020 sayılı Yasa’nın 14. maddesi Anayasa’nın 29. maddesi nedeni ile basın aracı olarak kullanılan bilişim sistemi ve/veya bilişim verilerine el konulmasına olanak sağlamamaktadır.
+
+	Bu nedenle basın aracı niteliğinde kullanılan ve basın aracı kapsamında olan bilişim sistemi ve/veya bilişim verisine Yasa’nın 14. maddesi kapsamında el konulması mümkün olmadığından Anayasa’nın 29. maddesine herhangi bir aykırılık söz konusu değildir.
+
+	Anayasa’nın 30’uncu maddesi basın dışı haberleşme araçlarından yararlanma hakkını düzenler ve kamu tüzel kişilerinin elindeki basın dışı haberleşme ve yayın araçlarından yurttaşların ve siyasal partilerin yararlanma hakkına sahip olduğu düzenlemesine yer verir.
+
+	KTFD Kurucu Meclisi 12. Birleşim 5/4/1975 tarihli tutanaklarına bakıldığı zaman basın dışı araçlar telefon teleks telgraf posta olarak geçmiştir.
+
+	Yurttaşların yararlanma hakkına sahip olduğu kamu tüzel kişilerinin elindeki basın dışı haberleşme ve yayın araçlarından kasıt kişisel bilişim sistemi ve/veya bilişim verileri içeren cihazlar değildir herhalükârda 14. madde kişinin tasarrufunda bulunan bilişim sistemi veya verisi ile ilgili olup kişiye sınırlama getirmektedir kamu tüzel kişilerinin tasarrufundaki basın dışı araçlar ile Yasa’nın alakası yoktur. Dolayısı ile 14. maddenin Anayasa’nın 30. maddesine aykırılığı yoktur.
+
+	Anayasa’nın 36. maddesi mülkiyet hakkını düzenler. Davacı Yasa’nın 14. maddesi altında bilişim sistemi ve/veya bilişim verilerine el konulması ve uzun zaman iade edilmemesi nedeni ile yıllar sonra bilişim sistemi iade edildiği zaman iade edilen cihazların ekonomik değeri kalmayacağından kişinin mülkiyet hakkının ihlal edileceğini iddia etmiştir.
+
+	El koyma neticesinde el konulan eşya sonunda mal sahibine iade edileceğinden kişinin malı tümü ile elinden alınmamaktadır. Eşya iade edildiğinde eşyanın değerinin düşmüş olması el koymaya bağlı bir bedel kaybından değil aletin süreç içerisinde ekonomik değerinin modelinin ve kullanılan teknolojinin eskimesinden yani zamana bağlı olarak azalmış olmasından ileri gelir.  Her halükârda eşya iade edileceğinden hakkın özüne de dokunulmamaktadır. Ayrıca el konulan bilişim sisteminin gerekli inceleme yapıldıktan ve/veya gerekli görülen imaj alındıktan sonra iadesinin talep edilme hakkı bulunduğu da göz önünde tutulmalıdır. Bu durumda mülkiyet hakkına aykırılık olmadığı ve 32/2020 sayılı Yasa’nın 14. maddesinin Anayasa’nın 36. maddesine aykırı olmadığına karar veririz.
+
+    Netice itibarı ile 32/2020 sayılı Yasa’nın 14. maddesinin Anayasa’nın 19. 21. 22. 29. 30. ve 36. maddelerine aykırılığı olmadığına karar verilir. Sadece Yasa’nın 14. maddesinin (4). fıkrasının son cümlesinin Anayasa’nın 17. maddesine aykırı olduğuna karar verilir.
+
+B. Yasa’nın 18. maddesi ile ilgili aykırılık iddiaları yapılmıştır. Yasa’nın; (i) 18(3)(A) maddesinin Anayasa’nın 19. maddesine (ii) 18(4) maddesinin Anayasa’nın 19. 1. ve 11. maddelerine ve (iii) 18(5) maddesinin Anayasa’nın 19. 1. ve 11. maddelerine aykırı olduğu iddia edilmiştir.
+
+	18. madde erişim sağlayıcının yükümlülüklerini ve Bilgi Teknolojileri ve Haberleşme Kurumunun denetim yetkisini düzenlemektedir.
+
+	Yasa’nın 18. maddesinin (3). fıkrası Yasa’nın “Tefsir” yan başlıklı 2. maddesinde tanımlanan Erişim Sağlayıcısı’nın sağladığı hizmete ilişkin trafik bilgilerini 2 yıl boyunca KKTC sınırları içerisindeki sunucularda saklamak ve bilgilerin doğruluğunu bütünlüğünü ve gizliliğini sağlamakla yükümlü olduğuna; saklanan trafik bilgilerinin (i) Mahkeme kararı ile veya (ii) yasal bir yükümlülüğünü yerine getirmek amacı ile veya (iii) erişim sağlayıcının kullanıcılara sağladığı iş ve hizmetler kapsamında gerçekleştireceği iş ve 
+işlemleri için zorunlu olması halinde bu üç amaç ile sınırlı olarak erişebileceği ve erişilmesine izin verebileceği düzenlemesine yer verir.
+
+	Bu kurallara aykırı hareket eden kişinin bir suç işlemiş olacağı ve mahkûmiyeti halinde ne ceza alabileceği de maddenin (3). fıkrasının (B) bendinde belirtilmiştir.
+
+	32/2020 sayılı Yasa’nın 2. maddesinde trafik bilgisi;
+–İÇERİK HARİÇ elektronik haberleşme şebekesinde gerçekleştirilen her türlü erişime ilişkin olarak tarafları zamanı süreyi yararlanılan hizmet türünü aktarılan veri miktarını ve bağlantı noktalarını anlatır şeklinde izah edilmiştir.
+
+	Davacı kişilerin elektronik haberleşme şebekesinde gerçekleştirdikleri her türlü erişim ile ilgili trafik bilgilerinin kişinin Anayasa’nın 19. maddesi ile korunan özel hayatının bir parçası olduğunu kişiden izin alınmadan veya mahkeme emri olmadan trafik bilgilerinin saklanmasının özel hayatın gizlilik hakkını ihlal ettiğini Anayasa’nın 19. maddesine göre adli kovuşturmanın gerektiği istisnalar dışında söz konusu verilerin kullanılmaması gerektiğini ileri sürmektedir.
+
+	Davacı Yasa’da trafik bilgilerinin saklanması ve/veya kaydının tutulması ile ilgili gerekçenin yeterli şekilde açıklanmadığını yetkinin kötüye kullanılması halinde ne yapılacağı noktasında yeterli olmadığını bu bilgilere “erişim sağlayıcısının kullanıcılara sağladığı iş ve hizmetler kapsamında gerçekleştireceği iş ve işlemleri için zorunlu olması halinde ve bu amaçla sınırlı olmak üzere erişebilir ve erişilmesine izin verebilir.” kuralının kişinin özel hayatının korunması için gerekli koruyucu önlemlerin alınmadığını gösterdiğini ileri sürmektedir.
+
+	Anayasa’nın 19. maddesi açıkça özel hayatın gizliliğine dokunulamayacağını buna istisnanın adli kovuşturma olduğunu ifade etmektedir.
+
+	Anayasa’nın 19(2) maddesi ise Yasa’nın gösterdiği durumlarda usulüne göre verilmiş Mahkeme veya yargıç kararı olmadıkça kimsenin özel kağıtları ve eşyalarının aranamayacağını ve bunlara el konulamayacağını belirtir. Yukarıda ifade edildiği gibi elektronik data bu fıkra kapsamındadır ve dava konusu Yasa bakımından bilişim sistemleri ve/veya bilişim verileri kişinin özel eşyası olarak kabul edilmelidir. Trafik bilgileri de özel hayatın bir parçası olarak kabul edilmelidir. (Bkz.T.C. AYM E.2014/87 K.2015/112)
+
+    Bu nedenle erişim sağlayıcısının hizmet sağladığı kişilerin trafik bilgilerini saklaması ilk etapta kişinin özel hayatına bir müdahale olarak kabul edilmelidir. Her halükârda internet ortamında işlenen suçların takibi için ve suç işleyen kişilerin tespiti için kişisel veriler dahil olmak üzere internet trafik bilgilerine ihtiyaç bulunmaktadır. Devletin suç işleyen kişileri tespit etme yükümlülüğü vardır. Bu nedenle trafik bilgilerinin makul bir süre saklanması ve tutulması bu görevin bir parçası olarak kabul edilmelidir. (Case of KU v. Finland 2872/02 para.49) Erişim sağlayıcıların bilgilerin doğruluğunu bütünlüğünü ve gizliliğini sağlama görevi kişilerin temel hak ve özgürlüklerini korumaya yönelik bir sorumluluk olarak kabul edilmelidir.
+
+     Trafik bilgilerinin tutulmasının ilk etapta özel hayata müdahale olduğu kabul edildikten sonra bu müdahalenin yasal olup olmadığına müdahalenin Anayasal hakların ihlaline neden olup olmadığına bakılmalıdır. 
+
+    Yukarıda ifade edildiği gibi “Yasanın açıkca gösterdiği durumlarda” ibaresi böyle bir hakkın yasadan kaynaklanması gerektiğini göstermektedir. Huzurumuzdaki meselede böyle bir hak 32/2020 sayılı Yasa’da verilmektedir. Bu yeterli midir? Yukarıda izah edildiği gibi bir hakkın yasa ile verilmesinin yeterli olmayıp bu hakkın verildiği Yasa’nın açık öngörülür ve yeterince erişilebilir olması gerekmektedir. Yasa yukarıda ifade edildiği gibi erişilebilir ve açıktır.
+
+   Erişim sağlayıcısı bu trafik bilgilerini 18. maddeye göre Mahkeme emri ile yasadan kaynaklanan bir yükümlülüğü yerine getirmek için ve kullanıcılara sağladığı iş ve hizmetler için zorunlu olması halinde verebilir.  Bu durumda mahkeme emri ile trafik bilgilerine erişim sağlayıcısı tarafından erişilmesine izin verilmesinde Anayasa’nın öngördüğü koşullar var olduğundan Mahkeme emri ile trafik bilgilerine erişim sağlayıcısının yasada belirtilen koşullarda erişmesi ve erişim sağlaması öngörülebilirlik kuralına uygundur.  Ancak erişim sağlayıcısının yasalardan kaynaklanan bir yükümlülüğü yerine getirmek veya kullanıcılara sağladığı iş ve hizmetler için zorunlu olması halinde tutmakla mükellef olduğu trafik bilgilerine erişmek ve erişilebilir kılmak bu trafik bilgilerinin paylaşımını kesinlikten uzak belli olmayan karar verecek özel kişilerin subjektif bulgulara dayandırarak vereceği kararlara bırakmak olacaktır. (Bak.Benedik v. Slovenia. Application No. 62357/14 Para. 125)
+
+“It notes that the present case raises no issues with respect to the accessibility of the law. As regards the remaining requirements the Court reiterates that a rule is “foreseeble” if it is formulated with sufficient precision to enable any individual – if need be with appropriate advice –to 
+Regulate his conduct (see Rotaru cited above & 55 and the princibles summarised therein).”
+
+
+   Bu durum Yasa’yı öngörülebilir olmaktan çıkarmaktadır ve hangi koşullarda trafik bilgilerine erişilir olacağı hangi mevzuattan kaynaklanan yükümlülüklerin var olduğu veya sağlanan hangi hizmet için zorunlu olacağı belli olmadığından kişilerin dava konusu Yasa nedeni ile başlarına gelebilecekleri öngöremeyeceklerinden bu maddenin öngörülebilirlik kuralını tatmin etmediğini bu nedenle yasa maddesinin kanunilik testini tatmin etmediğini kabul eder ve  ve maddenin 18(3)(A)(b) alt bendinde yer alan “veya yasalardan kaynaklanan bir yükümlülüğünü yerine getirmek amacıyla veya kullanıcılara sağladığı iş ve hizmetler kapsamında gerçekleştireceği iş ve işlemleri için zorunlu olması halinde ve bu amaçlarla sınırlı olmak üzere” söz dizisinin Anayasa’nın 19. maddesine aykırı olduğu kabul ederiz.
+
+	Trafik bilgilerinin Mahkeme emri ile erişebilir olması nedeni ile özel hayatın gizliliği hakkının özüne dokunulup dokunulmadığı hususu tezekkür edildiği zaman 14. madde altında ancak Mahkeme kararı ile sıralanan hususların yapılması kuralının ek güvence teşkil ettiği ve bu nedenle hakkın özüne dokunulmadığı doğrultusunda yukarıda söylenenleri aynen burada da tekrarlarız.
+
+	Yasa koyucunun burada da Yasa’nın 3. maddesinde yer alan amaca uygun hareket ettiği görülür.
+
+    Mahkeme emri ile trafik bilgilerine erişim sağlayıcısının erişmesi ve erişime izin vermesi Anayasa’nın 19. maddesine aykırılık oluşturmamakla birlikte yasalardan kaynaklanan bir yükümlülüğünü yerine getirmek amacı ile veya kullanıcılara sağladığı iş ve hizmetler kapsamında gerçekleştireceği iş ve işlemleri için zorunlu olması halinde erişim sağlayıcısının trafik bilgilerine erişimine izin vermesinin Anayasa’nın 19’uncu maddesine aykırı olduğuna karar veririz.
+
+     18. maddenin (3). fıkrasının (A) bendinin (b) alt bendinde yer alan “veya yasalardan kaynaklanan bir yükümlülüğünü yerine getirmek amacı ile veya kullanıcılara sağladığı iş ve hizmetler kapsamında gerçekleştireceği iş ve işlemleri için zorunlu olması halinde ve bu amaçlarla sınırlı olmak üzere” söz dizisinin Anayasa’nın 19. maddesine aykırı bulunması ile erişim sağlayıcısının kendisinin de yasalardan kaynaklanan bir yükümlülüğü yerine getirmek amacı ile veya kullanıcılara sağladığı iş ve hizmetler kapsamında gerçekleştireceği iş ve işlemler için zorunlu olması halinde saklamakla yükümlü olduğu trafik bilgilerine erişim hakkı ortadan kaldırılmış olacaktır Erişim sağlayıcısının kendisinin alt bentte sıralanan nedenlerle saklamakla mükellef olduğu trafik bilgilerine erişmesi esasında Anayasa’ya aykırı olmamakla birlikte maddenin kaleme alınış şekli nedeni ile erişim sağlayıcısının bu trafik bilgilerini başkalarının erişmesine izin vermesinin Anayasaya aykırılık nedeni ile iptal edilmesi gereklidir ve maddenin kaleme alınış şekli ile iptal bir bütün olarak kaçınılmaz olmaktadır. Cumhuriyet Meclisinin bu konuda çalışma yapabilmesi için bu konu Meclisin bilgisine getirilecektir.
+ 
+	(ii) 18. maddenin (4). fıkrası Bilgi Teknolojileri ve Haberleşme Kurumu’nun erişim sağlayıcısının trafik bilgilerini (3). fıkraya uygun olarak tutma ve erişim konusundaki yükümlülüklerine uyup uymadığını denetlemesini düzenler.
+
+Davacı Bilgi Teknolojileri ve Haberleşme Kurumu denetiminin Anayasa’nın 19. maddesine aykırı olduğunu Bilgi Teknolojileri ve Haberleşme Kurumu’nun hak ve özgürlüklerin denetlenmesinde aranan niteliklere sahip bir kurum olmadığını denetleme ile ilgili düzenleme yasa ile değil tüzük uyarınca yapılacağı için denetlemenin hak ve özgürlüklerin korunması için yeterli güvenceye sahip olamayacağını ve/veya hukuka uygun olamayacağını tüzük yürürlüğe girinceye kadar denetim olmayacağını ileri sürmüştür. Davacı keza denetim ile ilgili hususların yasa yerine tüzük ile yapılmasının Anayasa’nın 1.ve 11’nci maddelerine aykırı olduğunu ileri sürmektedir.
+
+Trafik bilgilerinin tutulması gerektiği kabul edildikten sonra bunların denetlenmesi gerekliliği de doğal bir sonuç olarak karşımıza çıkmaktadır. Bu denetim görevinin 6/2012 sayılı Elektronik Haberleşme Yasası altında kurulan ve bir kamu tüzel kişiliği olan BTHK’ya verilmesi de olağandır. 6/2012 sayılı Yasa’nın amaç maddesine göre BTHK elektronik haberleşmeyi düzenlemek için bağımsız bir organ olarak kurulmuştur. Böyle bir kurumun erişim sağlayıcıları denetlemesi denetim esaslarının günün ve teknolojinin süratli değişen koşullarında tüzük ile belirlenmesi Anayasa’nın 1. ve 11. maddesine aykırılık oluşturmamaktadır. Ayrıca yapılacak tüzük temel hak ve özgürlükler ile ilgili değil denetimin sıklığı yöntemi denetçilerin nitelikleri ve denetim sonuçlarının Kurum tarafından yayınlanması ve denetim ile ilgili diğer hususlar ile ilgili olacaktır. BTHK’ya bu madde trafik bilgilerine ulaşma hakkını değil trafik bilgilerinin 18. maddenin (3). fıkrasına uygun olarak tutulup tutulmadığını ve yasada belirtilen koşullarda erişimin sağlanmasındaki yükümlülüklere uyulup uyulmadığını denetleme hakkı vermektedir. Denetim ile yetkilendirilen kurumun denetleme görevi yapması Anayasa’nın 19. maddesi altında özel hayatın gizliliğine aykırı olmadığı gibi bu hakkın özüne de dokunmamaktadır. Bu nedenlerle 18 maddenin (4). fıkrasının Anayasa’nın 19’uncu maddesine aykırılığı olmadığına karar verilmelidir.
+
+(iii) Yasa’nın 18. maddesinin (5). fıkrası maddesi erişim sağlayıcının faaliyetlerine son vermesi halinde trafik bilgilerine ilişkin kayıtların çıkarılacak tüzüğe uygun olarak Kuruma devredilmesini öngörmektedir. 
+
+Davacı Yasa’da Bilgi Teknolojileri ve Haberleşme Kurumu’nun trafik bilgilerini ne kadar zaman saklayacağı veya hangi hallerde paylaşacağı noktasında koruyucu düzenleme olmadığından ve bilgiler devlet ve/veya idari bir kurum olan Bilgi Teknolojileri ve Haberleşme Kurumu’na verileceğinden Anayasa’nın 19. maddesine kıstaslar yasa ile değil tüzük ile belirleneceğinden Anayasa’nın 1.ve 11. maddelerine aykırılık olduğunu ileri sürmektedir.
+
+Burada Davacı Bilgi Teknolojileri ve Haberleşme Kurumu’nu denetleyecek bağımsız bir Kurum/otorite olmadığından Anayasa’ya aykırılık bulunduğunu iddia etmektedir. Her denetleyen kurumun bir başka üst kurum tarafından denetlenmesi gerektiği denetlenmemesi neticesinde Anayasa’ya aykırılık oluşacağı iddiası başka bir ifadeyle denetim süreci hiç bitmeyecek bir düzen arzusu kabul görecek bir iddia olmaktan uzaktır. Erişim sağlayıcının faaliyetlerine son vereceğinde tutulması gerekli olduğu kabul edilen trafik verilerinin başka bir yere devredilmesi kaçınılmazdır. Devredilecek yerin de 6/2012 sayılı Yasa ile kurulan BTHK olmasında Davacı tarafından iddia edildiği şekilde Anayasanın 1. 11. ve 19. Maddelerine herhangi bir aykırılık yoktur.
+
+Dolayısıyla 32/2020 sayılı Yasa’nın 18(4) ve 18(5) maddelerinin Anayasa’nın 1.11. 19. maddelerine aykırı olmadığına 18(3) maddesinin (b) bendinin ‘veya yasalardan kaynaklanan bir yükümlülüğünü yerine getirmek amacıyla veya kullanıcılara sağladığı iş ve hizmetler kapsamında gerçekleştireceği iş ve işlemleri için zorunlu olması halinde ve bu amaçlarla sınırlı olmak üzere’ söz dizisinin sadece trafik verilerine başkalarının erişmesine olanak sağladığı cihetle Anayasa’nın 19. maddesine aykırı olduğuna maddenin geriye kalan kısmının Anayasa’ya aykırı olmadığına karar verilir.
+
+C. Davacı Yasa’nın 20(1)(A) ve 20(1)(B) maddelerinin Anayasa’nın 24. ve 26. maddelerine 20(3) ve 20(3)(A) maddelerinin Anayasa’nın 24. 1. 17. ve 26. maddelerine 20(3) ve 20(3)(Ç) maddelerinin Anayasa’nın 24. 1. ve 17. maddelerine aykırı olduğunu ileri sürmektedir.
+
+(i) Yasa’nın 20. maddesi erişimin engellenmesi kararı verilmesi ve verilen kararın yerine getirilmesini düzenleyen maddedir.
+
+20. maddenin (1). fıkrası elektronik haberleşme şebekesinde yapılan ve içeriği KKTC mevzuatı kapsamında herhangi bir suç oluşturduğu hususunda kuvvetli şüphe bulunan yayınların önlenmesi amacı ile soruşturma memurunun suç oluşturmayan ancak hukuk davalarına konu olabilen yayınların önlenmesi amacı ile kişi veya kurumun Mahkemeye başvurabileceği ve (2). fıkrada belirtilen kıstaslara uygun olması halinde Mahkemenin erişimin engellenmesine karar verebileceği düzenlenmesine yer verir.
+
+Davacı Yasa’nın 20. maddesinin (1). fıkrasının (A) bendinin Anayasa’nın 24. maddesinde yer alan düşünce söz ve anlatım özgürlüğüne aykırı olduğunu ileri sürmektedir. Davacı bu başlık altındaki iddialarını Anayasa’ya aykırı olduğunu ileri sürdüğü Fasıl 154 Ceza Yasası maddeleri üzerinden kurmuştur. Davacı ifade özgürlüğü ile ilgili Ceza Yasası’ndaki düzenlemeleri sıralayarak bu maddeler altında suç oluştuğu hususunda kuvvetli bir şüphe bulunması halinde Mahkemeye başvurularak erişimin engellenmesinin sağlanabileceğini; ifade özgürlüğü ile çelişen Fasıl 154’ün 47. 57. 59. ve 60. 68.  maddeleri ile 194.-202. arasındaki maddelerinin (her iki madde dahil) düşünce söz ve anlatım özgürlüğü ile çelişen mevzuat olduğunu bu mevzuata dayanarak erişimin engellenmesi kararı verilmesinin Anayasa’nın 24. maddesinde yer alan düşünce söz ve anlatım özgürlüğüne aykırı sonuçlar doğuracağını ileri sürmüştür.
+
+Öncelikle ifade edilmesi gerekir ki huzurumuzda  Anayasa’ya aykırılığı ileri sürülen madde 32/2020 sayılı Yasa’nın 20(1)(A) maddesidir. Bu davada Davacının ileri sürdüğü Fasıl 154 Ceza Yasası maddelerinin Anayasa’ya aykırılığı incelenecek değildir zira o maddeler dava konusu değildir. 
+
+Davacının da ifade ettiği şekilde bir kişinin talebi üzerine verilen elektronik haberleşme şebekesindeki bir içeriğe erişimin engellenmesi kararı doğal olarak 24. maddenin (2). fıkrasında yer alan ve herkesin düşünce ve kanaatini söz yazı resim veya başka yollarla açıklama ve yayma hakkına müdahaledir. 
+
+Anayasa’nın 24. maddesinin (3). fıkrasındaki düzenleme  sair şeyler yanında söz ve anlatım özgürlüğünün kullanılmasını kamu düzeni veya başkalarının şöhret ve haklarının korunması için yasanın koyduğu yöntemlere koşullara ve sınırlamalara bağlı tutulabileceğine yer vermektedir.
+
+Bu durumda suç oluşturduğu hususunda kuvvetli şüphe bulunan bir yayına erişimin mahkemenin uygun görmesi halinde engellenmesi Anayasa’nın 24(3) maddesi kapsamında kamu düzeninin korunması için (ki kamu düzeninin korunması suç işlenmesinin önlenmesi veya suç işleyen kişilerin tespitini de içermektedir) Yasa’nın 20. maddesinin 2. fıkrasında koyduğu  koşullara bağlı olarak sınırlanmasında 24. maddeye aykırılık olmadığı kabul edilmelidir. 
+
+      Yasa’nın 20(1)(A) maddesinin kapsamına giren hallerde erişimin engellenmesi için Mahkemeye başvurulabilmektedir. Yasa ile böyle bir hak verilmiştir. Dolayısı ile böyle bir hak yasadan kaynaklanmaktadır. Huzurumuzdaki meselede böyle bir hakkın 32/2020 sayılı Yasa’da verilmesi yeterli midir? Yukarıda ifade edildiği gibi bir hakkın yasa ile verilmesinin yeterli olmadığı bu hakkın verildiği yasanın açık öngörülür ve yeterince erişilebilir olması gerektiği kabul edilmelidir. 
+
+Yasa’nın 20(1)(A) maddesi yeterince açık erişebilir ve hangi durumlarda kullanılacağı belli olduğundan öngörülebilir bir maddedir.  Suçun tespiti veya suçun engellenmesi için devletin vatandaşını koruması suç işleyen kişileri tespit ederek adalete teslim etmesi ve yargılanmasını sağlaması gereklidir. 
+
+Yasa’nın 20(1)(B) maddesine göre ise suç oluşturmayan ancak hukuk davalarına konu olabilen yayınların önlenmesi amacı ile de erişimin engellenmesi için mahkemeye müracaat edilebilir.  Mahkeme de uygun görürse talep yönünde bir karar verir. Anayasa’nın 24(3) maddesinde “başkalarının şöhret veya haklarının korunması” ifadesi yer aldığından bu alt bendde Anayasa’nın 24. maddesine uygun bir sınırlama yer almaktadır.
+
+Hukuk davalarına konu olabilecek yayınların önlenmesinde de yine Mahkemenin uygun görmesi ile erişim engelleneceğinden böyle bir durum da Anayasa madde 24(3) kapsamında bir sınırlama olarak kabul edilmelidir.
+
+Bu kapsamda maddenin Anayasa’nın 24. maddesine aykırılığı incelendiğinde 24. maddenin (3). fıkrasında açıkça söz ve anlatım özgürlüğünün yasanın koyduğu yöntemlerle sınırlanabileceğine yer verilmektedir.  32/2020 sayılı Yasa’nın 20(1) maddesi ise suç oluştuğu hususunda kuvvetli şüphe bulunan durumlarda ve hukuk davalarına konu olabilen yayınlara Mahkemeye başvurulacak erişimin engellenmesi kararı alınabileceğini belirtmektedir. Yasanın 20(1) maddesi çok açık bir şekilde Anayasa’nın 24(3) maddesi kapsamında bir sınırlamadır. Yasa’nın 20(1) maddesinin bu şekliyle Anayasa  madde 24’te düzenlenen söz ve anlatım özgürlüğünün hakkının özüne dokunduğu söylenebilir mi?
+
+Yukarıda ifade edildiği gibi hakkın özü Anayasa’da yer alan kısıtlamalar ve ek güvenceler neticesinde kalan çekirdek kısımdır. Bir suçun önlenmesi için söz ve anlatım özgürlüğünün yasa ile kısıtlanması veya başka kişinin şeref ve haysiyetinin korunması için söz ve anlatım özgürlüğünün kısıtlanması hakkın özüne dokunmadığı gibi Yasa’nın amacına uygun bir işlemdir.
+
+Dolayısıyla Yasanın 20(1)(A) ve 20(1)(B) maddeleri Anayasa’nın 24. maddesine aykırı değildir.
+
+(ii) Davacı Yasa’nın 20(1) maddesinin Anayasa’nın 26. maddesinde yer alan basın özgürlüğüne bilhassa 26. maddenin (4). fıkrasına aykırılık teşkil ettiğini ileri sürmüştür.
+
+Anayasa’nın 26. maddesi basın ve yayının sansür edilemeyeceğine haber alma özgürlüğünün devlet tarafından sağlanması gerektiğine ilişkin düzenlemelere yer verir.  Maddenin (3). fıkrası bu hakkın hangi koşullarda kısıtlana-bileceğini saymaktadır. Bu fıkra ”kamu düzeni.... ve kişilerin şeref ve haysiyet ve haklarına tecavüz” nedeni ile de basın ve haber alma özgürlüğüne kısıtlama getirilebileceğini içermektedir. 
+
+Günümüzde elektronik ortamda yayınlanan gazeteler vardır. Nitekim Yasa’nın 2. maddesinde “yayın” kelimesinin elektronik haberleşme şebekesinde yapılan yayını ifade ettiği belirtilmektedir. Bu durumda herhangi bir gazetede yer alan bir içerik ile ilgili erişimin engellenmesi için karar temin edildiği takdirde ilk etapta basın özgürlüğüne müdahale edildiğinin kabul edilmesi gerekir. Bu hakka müdahale olduğu kabul edildikten sonra böyle bir hakkın yasada yer alması açık olması erişilebilir olması öngörülür olması gerektiği ve 32/2020 sayılı Yasa’nın bu koşulları tatmin ettiği yukarıda incelendiği için bu koşulların var olduğu kabul edilir. Anayasa’nın 26(3) maddesi kapsamında kamu düzeni ve kişilerin şeref ve haysiyetinin korunması için de bu hakkın kısıtlanabileceğine yer verilmiştir. Nitekim 32/2020 sayılı Yasa’nın 20(1) maddesi (A) bendi ile kamu düzeni maksatları için (B) bendi ile de kişilerin şeref ve haysiyetini korumak için erişimin engellenmesine olanak sağlamaktadır.  Anayasa’nın 26(3) maddesinde yer alan sınırlamalara uygun bir yasal düzenleme hazırlanmış olduğundan 32/2020 sayılı Yasa’nın 20(1) maddesinde hakkın özüne de dokunulmuş değildir. 
+
+Anayasa’nın 26(4) maddesinde ise yargının yargı görevinin amacına uygun olarak yerine getirilmesi için yasa ile belirlenecek sınırlar içerisinde yayın yasağı konabileceğine bunun dışında yayın yasağı konamayacağına yer verilmektedir. Davacı madde 26(4)’de olaylar hakkında yayın yasağı konamaz söz dizisinden hareketle erişimin engellenmesi ile yayın yasağı getirilmiş olacağını ve bunun Anayasa’ya göre yapılamayacağını iddia etmektedir. Anayasa’nın 26(4) maddesi yargının yasa ile belirtilecek sınırlar içerisinde yayın yasağı koyabileceğini belirtmektedir. Ancak 26(4) maddesi Mahkeme huzurundaki yargılamaya konu işlemler ile ilgili bir maddedir. Bu nedenle dava aşamasından önceki safahat ile ilgili işlemlerin madde 26(4) ile alakası yoktur. Dolayısı ile Anayasa’nın 26. maddesine aykırılık olmadığına karar veririz.
+
+  (iii) Yasa’nın 20(3) maddesi gecikmede sakınca bulunması halinde dava konusu Yasa da dahil toplam 4 mevzuat altında Bilgi Teknolojileri ve Haberleşme Kurumu’nun mahkeme kararı olmaksızın erişimin engellenmesine karar verilebileceği düzenlemesine yer vermektedir.
+
+   Bilgi Teknolojileri ve Haberleşme Kurumu tarafından böyle bir karar verilmesi halinde 24 saat içerisinde Mahkemeye başvurularak erişimin engellenmesi kararı alınmadığı takdirde erişimin engellenmesi kararı derhal kaldırılacaktır. 
+
+Madde 20(3)’de yer alan 4 mevzuat fıkranın (A) bendinde Fasıl 154 madde 63’e aykırı yayınlar (B) bendinde Yasa’nın 11. maddesinde düzenlenen çocuk pornografisi ile ilgili suçlar (C) bendinde Beden Eğitimi ve Spor Yasası’nın  26. maddesi ve altında çıkarılan Müşterek Bahis Tüzüğü uyarınca izinlendirilmiş olanlar haricindeki elektronik bahisler (Ç) bendinde KKTC Bankacılık Yasası 27(1) maddesine aykırı bankalara veya müşterilerine ait sırları açıklamak olarak sıralanmıştır.
+
+Davacı (A) ve (Ç) bentlerinin Anayasa’ya aykırılığını ileri sürmüş (B) ve (C) bentleri ile ilgili herhangi bir iddiada bulunmamıştır.  Her ne kadar Davacının iddialarını selektif yasalar için ileri sürmeyi tercih etmesi iddialarını zayıflatsa da ileri sürülen iddiaların ileri sürülen iki başlık altında incelenmesi gereklidir.
+
+İddialara sıra ile baktığımız zaman; -
+
+(1). fıkranın (A) bendinde Davacı tarafından Fasıl 154 Ceza Yasası’nın 63. maddesine aykırı yayınlar ileri sürülmüştür.
+
+Fasıl 154’ün 63. maddesine bakıldığında bu maddenin yasa dışı cemiyetin tanımını verdiği görülür.  Yasa’nın (1)(A) bendinde geçen bu maddeye aykırı yayın ibaresi müphemdir anlaşılır değildir. Yasa dışı cemiyete aykırı yayın olması mümkün değildir. Yasa koyucunun niyeti yasa dışı cemiyetler ile ilgili yayın yapılması halinde bu tür yayınlar ile ilgili erişimin engellenmesi kararının verilmesini sağlamak olmalıdır. Yasa koyucu bu niyetini net bir şekilde yasaya dahil edememiştir. Yasayı tefsir edip yorumlayacak olan Alt Mahkemeler ve BTHK olacaktır. Bendin yasa dışı cemiyetler ile ilgili yayın olarak yorumlanması ihtimaline binaen (A) bendi  (Ç) bendi ile birlikte incelenecektir. Her halükârda karışıklık yaşanmaması için yasa koyucunun niyetini anlaşılır bir şekilde yansıtabilmek adına Yasa’yı en erken bir zamanda tadil etmesi ve hatalı müphem veya eksik yazımı tamamlaması tavsiye edilir.
+
+1. fıkranın (Ç) bendi  62/2017 sayılı Kuzey Kıbrıs Türk Cumhuriyeti Bankacılık Yasası’na aykırı olarak banka veya müşterilerine ait sırlarının açıklanması halinde gecikmede sakınca bulunması nedeni ile Bilgi Teknolojileri ve Haberleşme Kurumu tarafından 24 saat için erişmin engelleme Kararı verilebileceğini öngörmektedir. Banka sırları ile Banka Müşterilerinin sırlarının usulsüz bir şekilde açıklanması gerek kişiyi gerek bankayı gerekse ülkenin ekonomik durumunu olumsuz etkileme potansiyeli olan durumlardır.
+
+	Yasa BTHK tarafından gecikmesinde sakınca bulunması halinde erişimin engellenmesi kararı verilebileceğini belirtmektedir. Her hâlükarda Mahkemeye 24 saat içerisinde başvurularak erişimin engellenmesi kararı alınmadığı takdirde Bilgi Teknolojileri ve Haberleşme Kurumu’nun kararı 24 saat sonunda kalkacaktır. 24 saat süre ile Kuruma böyle bir yetki verilmesinin Anayasa’nın 24 ve 26. maddelerine aykırı olduğu ileri sürülmektedir.
+
+	Davacı yargı bağımsızlığı bulunmayan yargıç güvenceleri ile donatılmamış ifade özgürlüğünü tetkik edecek  personel ve üyesi bulunmayan Bilgi Teknolojileri ve Haberleşme Kurumu’na keyfiliğe açık bir şekilde erişim engeli koyma yetkisi verilmesinin Anayasa’nın 24. 1. ve 17. maddelerine aykırı olduğunu iddia etmektedir.
+
+	Bilgi Teknolojileri ve Haberleşme Kurumu’nun yargı bağımsızlığı bulunmadığı üyelerinin yargıç güvenceleri ile donatılmadıkları doğru iddialar olmakla birlikte bu davaya konu husus 62/2017 sayılı Kuzey Kıbrıs Türk Cumhuriyeti Bankacılık Yasası’nın 27. maddesi altında banka veya müşterilere ait sırların açıklanmasına engel olmak ve eğer bu doğrultuda yorumlanırsa yasa dışı cemiyetler ile ilgili yayın yapılmasına engel olmak ile ilgilidir. Davaya konu edilmeyen diğer 2 husus ise çocuk pornografisi ile bağlantılı suçlar ve Beden Eğitimi ve Spor Yasası altında çıkarılan Müşterek Bahis Tüzüğü uyarınca izinlendirilmiş olanlar haricindeki elektronik bahislerdir. 24 saat için erişimin Kurum tarafından engellenmesi daha süratli ve etkili hareket etme olanağı veren bir maddedir. Bu yetki her halükârda 24 saat içerisinde Mahkeme tarafından emir verilmediği ve desteklenmediği takdirde ortadan kalkacak bir yetkidir. Böyle bir durumda da 24. maddeye aykırılık olması mümkün değildir. Nitekim T.C. AYM E.2014/87 K.2015/112 sayılı kararında para 244’de kurumun erişimi engelleme tedbiri verme hakkını “anayasal sınırlar içinde kanun koyucunun takdir yetkisi kapsamında” kabul etmiştir. İlgili kararın 244. paragrafı şöyledir:
+
+“244. Kanun koyucu özel hayatın gizliliğinin ihlaline bağlı olarak gecikmesinde sakınca bulunan hallerin hızlı ve seri karar alınmayı gerektiren bir özellik arz etmesini göz önüne alarak iptali istenilen kural ile kişinin kendisinin dahi haberinin olmadığı ya da kamuya mal olmuş kişilerin özel hayatlarının gizliliğinin ihlal edildiği durumlarda kamu düzeni ve kamu yararını korumak amacıyla TİB Başkanına erişimin engellenmesine karar verme yetkisi tanımıştır.  Böyle bir düzenleme ise anayasal sınırlar içinde kanun koyucunun takdir yetkisi kapsamındadır.”
+
+	Böyle bir yetki Bilgi Teknolojileri ve Haberleşme Kurumu’na verilmediği takdirde acil durumlarda derhal Mahkemeye başvurulamadığından mağdur olan kişiler çaresiz kalacaktır. BTHK’nın erişimin engellenmesi kararını yersiz verdiği durumda 24 saat içerisinde Mahkemeden emir çıkmadığı takdirde erişimin engelleme kararı otomatik kalkacaktır.  Yargıç güvenceleri ile donatılmamış bir kuruma yargısal yetki niteliğinde yetki verilmesinin hatalı olduğu ve keyfi karar verilmesinin önüne geçilmesinin zor olacağı dolayısı ile  Bilgi Teknolojileri ve Haberleşme Kurumu’na verilen yetkinin Anayasanın 1. ve 24. maddelerine aykırı olduğu geçerli iddialar gibi görülse de bu yetkinin sadece 24 saat için geçerli olacağı gerçeği ışığında 24’üncü maddeye aykırılık yoktur veya hakkın özüne dokunulmadığı kabul edilmelidir. 
+
+	Dolayısıyla 32/2020 sayılı Yasa’nın 20(1)(A) ve 20(1)(B) maddelerinin Anayasa’nın 24. ve 26. maddelerine 20(3) ve 20(3)(A) maddelerinin Anayasa’nın 1.17. 24. ve 26. maddelerine 20(3) ve 20(3)(Ç) maddelerinin Anayasa’nın 1.17. ve 24. maddelerine aykırı olmadığına karar veririz.
+
+D. Davacı Yasa’nın 21. maddesinin Anayasa’nın 24. maddesine aykırı olduğunu iddia etmiştir. 
+
+Yasa’nın 21. maddesinde erişimin engellenmesi kararının verilmesi halinde kararın içeriği yerine getirilmesi ve sonuçları izah edilmektedir. Maddenin (1). fıkrası mahkemenin erişimin engellenmesi kararında suça ilişkin bilgilerin bulunduğu URL adresini tam  web adresini ve internet yayınlarının bulunduğu yer sağlayıcıya ait IP adresini belirtmesi gerektiğini düzenler.
+
+	Maddenin (2). fıkrasında Mahkemenin vereceği erişimi engelleme kararının sadece URL adresi temelli olabileceği gibi suçun oluşturduğu zarar göz önünde bulundurularak IP adresi ile erişimin temelden engellenmesi kararı verebileceğini de öngörür. Ancak kararın URL temelli olmasının esas olması gerektiği de fıkrada ayrıca vurgulanmaktadır.
+
+	Kararın derhal Bilgi Teknolojileri ve Haberleşme Kurumu’na iletilmesi gerektiği ve Bilgi Teknolojileri ve Haberleşme Kurumu’nun da kararı 4 saat içinde yerine getirmesi gerektiği ifade edilen (3). fıkradan sonra (4). fıkrada KKTC’de ikamet etmeyen yer sağlayıcılara bildirimin Bilgi Teknolojileri ve Haberleşme Kurumu tarafından kuruma bildirilen yetkiliye veya vekile yapılacağı belirtilir.
+	
+	(5). fıkra karardan olumsuz etkilenen erişim sağlayıcısı veya herhangi bir kişinin 30 gün içerisinde Mahkemeye başvurarak kararın iptalini talep edebileceği engelleme kararını yerine getirmeyen erişim sağlayıcının yetkilendirilmesinin Bilgi Teknolojileri ve Haberleşme Kurumu tarafından iptal edilebileceği düzenlemesine yer verir.
+
+	Son olarak maddenin (6). fıkrasında erişimin engellenmesi kararının içeriğinin yayından kaldırılması ile kararın da  Mahkeme tarafından kaldırılacağı öngörülmüştür.
+
+	Davacı Yasa’nın 21. maddesinin Anayasa’nın 24. maddesinde yer alan düşünce söz ve anlatım özgürlüğüne aykırı olduğunu iddia etmektedir. Davacı bu aykırılık iddiasını hangi koşullarda IP erişim engeli verileceğinin belli olmamasına ve teknik olanaklar ve suçun oluşturduğu zararın ne olduğunun hangi müeyyidenin yeterli görüleceğinin öngörülür olmamasına dayandırmaktadır. 
+
+	Davacı teknik olanakların belli olmadığını hangi hallerde IP’nin kapanacağının belli olmadığını kişilerin bunu öngörüp hareketlerini ona göre düzenlemelerinin mümkün olmadığını ileri sürmektedir.	(2). fıkranın açıkça erişimi engelleme kararının URL temelli olmasını öngördüğünü 
+IP temelli erişimin engellenmesi kararı verilmesinin istisnai olarak kullanılacak bir yetki olarak belirtildiğini bu istisna teknik olanaklara bağlı olarak ifade edildiği zaman bunun erişimin engellenmesine neden olacak kişi tarafından öngörülebilir olmadığının açık olduğunu ileri sürmüştür. 
+
+	Davanın dinlenmesine başlandığı aşamada şahadete çağrılan tanıklar URL adresi ve IP temelli erişimin engellenmesinin ne olduğunu izah etmişlerdir. Yasa’nın Tefsir yan başlıklı 2. maddesi IP adresini ‘belirli bir ağa bağlı cihazların birbirini tanımak birbirleri ile iletişim kurmak ve birbirlerine veri yollamak için kullandıkları internet protokolü standartlarına göre verilen adresi anlatır’ şeklinde izah etmektedir. 
+
+	Davacı Tanığı No.2 URL’nin satın alınan bir isim olduğunu ve her URL’ye bir IP adresi verildiğini izah etmiştir. Kısaca URL’nin IP karşılığında kullanılan isim olduğunu ifade etmiştir.
+
+	Mahkeme tarafından verilecek erişimin engellenme kararı öncelikli olarak URL adresi için uygulanacaktır. Erişimin engellenmesi kararı verildikten sonra hangi şekilde erişimin engelleneceğinin öngörülür olmasına gerek yoktur. Burada  hangi hallerde erişimin engelleneceği kararı verilebileceğinin öngörülmesi yeterlidir. Bir ceza davasında mahkûm olan sanığın kendisine para veya hapis cezası takdir edileceğini öngörebilmesi gerekmez sadece hareketlerinin suç olabileceğini anlayabilmesi ve öngörebilmesi yeterlidir. Bu madde açısından ne tür bir erişimin engellenmesi kararı verileceğinin öngörülür olması gerekliliği yoktur.
+
+Davacı Yasa’nın 21(2) maddesinin yeterli ölçüde ulaşılabilir olma yani öngörülebilirlik şartını yerine getirmediği cihetle Anayasa’nın 24. maddesine aykırılık olduğunu ileri sürmüştü.
+
+Ne tür bir erişimin engellenmesi kararı verileceğinin öngörülür olması şartı olmadığından Davacının bu iddiasının daha fazla incelenmesine gerek yoktur. Dolayısıyla burada Anayasa’nın 24. Maddesine de herhangi bir aykırılık yoktur.
+
+Bu nedenlerle 32/2020 sayılı Yasa’nın 21. maddesinin  Anayasa’nın 24. maddesine aykırı olmadığına karar verilir.
+
+E. Davacı 32/2020 sayılı Yasa’nın 22(1) maddesinin Anayasa’nın 1. ve 17. maddelerine aykırı olduğunu iddia etmektedir.
+
+	Yasa’nın 22. maddesi bir içeriğin haklarını ihlal ettiğini veya hukuka aykırı olduğunu iddia eden kişinin içerik sağlayıcısına veya yer sağlayıcısına başvurması halinde içeriğin içerik sağlayıcısı veya yer sağlayıcısı tarafından kaldırılmasına olanak vermektedir. İçeriğin kaldırılmaması halinde içerik veya yer sağlayıcısına başvuran kişilere Mahkemeden erişimin engellenmesini talep etme hakkı da verilmektedir. 
+
+	İçerik sağlayıcısı Yasa’nın tefsir maddesinde elektronik haberleşme şebekesi üzerinden kullanıcılara sunulan her türlü bilgi veya veriyi üreten değiştiren veya sağlayan gerçek veya tüzel kişiler olarak tanımlanmaktadır.  
+
+	Yasa’nın 22. maddesi uyarınca içerik sağlayıcısının bulunmaması halinde ise yer sağlayıcıdan da aynı talepte bulunulabilmektedir.
+
+	Yer sağlayıcı yine Yasa’nın tefsir maddesinde hizmet ve içerikleri barındıran sistemleri sağlayan veya işleten gerçek veya tüzel kişiler olarak tanımlanmıştır. 
+
+	Bu madde polis ve Mahkemeye gitmeden direkt hakkı ihlal edilen kişinin müracaat ederek içeriğin kaldırılmasını talep etmesini sağlamaktadır. Buradaki gaye çok açık bir şekilde hakaret ve hak ihlali olduğu iddia edilen hallerde mahkemeye gitmeden şikâyet konusu içeriğin kaldırılmasına olanak  vermektir.  İçeriğin kaldırılması halinde ise içerik sağlayıcısına karara karşı bilgisine geldiği tarihten itibaren 30 gün içinde mahkemeye müracaat hakkı verilmektedir. Yine içeriğin kaldırılmasının reddedilmesi halinde mağdur olduğunu iddia eden kişiye mahkemeye başvurma hakkı verilmiştir.  Mahkeme bu durumda içeriğin kaldırılmasına bunun mümkün olmaması halinde erişimin engellenmesine karar verebilecektir.
+
+	Bu yöntem ile yasa koyucu basit hak ihlallerinin daha seri bir şekilde halledilmesini öngörmüştür. Her ne kadar mahkeme haricinde bir kişinin bir içeriği kaldırmasına olanak sağlanıyorsa da bu yöntem neticesinde her iki tarafa da Mahkemeye başvurma hakkı verilmesi Anayasa’nın 17. maddesine aykırılığı ortadan kaldırmaktadır.
+
+	İçerik sağlayıcıya ulaşılamaması ve bu hususun da yer sağlayıcı tarafından teyit edilmesi halinde kişiye yer sağlayıcısına da müracaat etme hakkı verilmektedir.
+
+	Yer sağlayıcının talebi kabul etmesi halinde içerik sağlayıcısına Mahkemeye müracaat hakkı verilmesi Anayasa’nın 17. maddesine aykırılığı ortadan kaldırmaktadır.
+
+	Bu maddede Resmi Gazete’deki “getirir getirebilir” şeklinde bir yazım hatası mevcuttur. Bu yazım hatasının öngörülebilirlik şartını ihlal ettiği cihetle Anayasa’nın 1. maddesine aykırılık teşkil ettiği ileri sürülmüştür.  Yazım  hatası öngörülebilirlik şartını ihlal etmediği gibi bu hatanın Anayasa’ya aykırılık teşkil edecek kadar maddeyi anlamsız kıldığı kabul edilemez. Her halükârda yazım hatasını düzeltmek Meclisin görevi dahilinde olan bir husustur.
+
+      Yazım hatası olarak cümlede hem getirir hem de getirebilir kelimeleri yer almaktadır. Yasa koyucunun “getirir” kelimesi yanında “getirebilir” kelimesine de maddede yer vermesi yasa koyucunun yer sağlayıcısına takdir yetkisi vermek istediğini gösterir. Takdir yetkisinin var olduğu kabul edildiğinden Anayasa’nın 1. maddesine aykırılık olmadığı kabul edilmelidir.
+
+	Hakkı ihlal edilen kişinin yer sağlayıcı tarafından haklı görülmesi ve içeriğin kaldırılması halinde içerik sağlayıcının Mahkemeye müracaat hakkı ile bu işlemi iptal etme olanağı düşünce söz ve anlatım özgürlüğüne aykırılık ihtimalini ortadan kaldırmaktadır.  Mahkemenin içeriği kaldırma işlemini ortadan kaldırması halinde içerik yine kullanılır olacaktır. İçeriğin kaldırılmasını talep eden kişinin talebinin reddedilmesi halinde bu kişiye de 1 yıl içerisinde Mahkemeye müracaat hakkı verilmektedir. Mahkeme içeriği yayından kaldırabileceği gibi erişimin engellenmesi kararı da verebilecektir.  
+
+     İçerik sağlayıcının kendi içeriğine erişimi engellemesinde Anayasal bir sorun olmamakla birlikte yer sağlayıcının içerik sağlayıcının bilgisi dışında içerik sağlayıcı tarafından hazırlanan içeriğe erişimi engelleme yetkisi yargıç olmayan yetkili yargı mercii kapsamında olmayan bir kişiye çok büyük bir yetki verildiği kabul edilmelidir. Yer sağlayıcı tarafından içeriğe erişimin engellenmesi halinde içerik sağlayıcıya bu işleme karşı herhangi bir çare Yasa’da gösterilmemiştir. İçerik sağlayıcıya haber vermeden yer sağlayıcıya verilen içeriğe erişimin engelleme yetkisinin Anayasa’nın 17. maddesine aykırılık teşkil ettiği kabul edilmelidir. 
+
+	Dolayısıyla 32/2020 sayılı Yasa’nın 22. maddesinin (1). fıkrasında yer alan “veya bu mümkün değilse içeriğe erişimi engellemek” söz dizisinin Anayasanın 17. maddesine aykırı olduğuna maddenin geriye kalan kısmının  Anayasa’nın 1. ve 17. maddelerine aykırı olmadığına karar verilir.
+
+F. Davacı 32/2020 sayılı Yasa’nın 23(1)(D) maddesinin Anayasa’nın 24. ve 17. maddelerine 23(2) maddesinin ise 24 17. 18(3) ve 18(4) maddelerine aykırı olduğunu iddia etmektedir.  
+
+Yasa’nın 23. maddesi idari para cezası ve idari yaptırımları düzenleyen maddedir.  Davacı Yasa’nın 23(1)(D) maddesi altında Bilgi Teknolojileri ve Haberleşme Kurumu’nun madde 20(3) altında kurum kararına uymayan erişim sağlayıcıya aylık asgari ücretin 15 katı kadar idari para cezası verme hakkının Anayasa’nın 17. ve 24. maddelerine aykırı olduğunu ileri sürmektedir.
+
+	Madde 20(3) altında Bilgi Teknolojileri ve Haberleşme Kurumu Fasıl 154 madde 63 kapsamına giren yayınlar çocuk pornografisi ile bağlantılı suçlar elektronik bahisler ve bankalara veya müşterilere ait sırların açıklanması halinde 24 saat geçerli olacak erişimin engelleme kararı verebilmektedir. Bu karara uyulmaması halinde karara uymayan erişim sağlayıcıya idari para cezası verilmesi öngörülmektedir.
+
+	Genelde hangi fiillerin suç sayıldığı ve suç sayılan fiillere verilecek cezanın kanunda açıkca anlaşılır ve sınırları belli olacak şekilde yer alması yeterli görülmektedir. Nitekim madde 23(1)(D)’de BTHK’nın erişimi engelleme kararına uymayan erişim sağlayıcıya aylık asgari ücretin 15 katı kadar idari para cezası verilmesi öngörülmektedir. 
+
+	Davacı bu maddenin Anayasa’nın 24. ve 17. maddelerine aykırı olduğunu iddia etmektedir.  Anayasa’nın 17. maddesi hak arama özgürlüğü ve yasal yargı yolu hakkını düzenler.
+
+	Yasa’nın 23(3)(A) maddesinin Kurumun 23(1)(D) maddesi altındaki kararlarına karşı Yüksek İdare Mahkemesi’ne müracaat hakkı vermesi bu maddenin Anayasa’nın 17. maddesine aykırılığını ortadan kaldırmaktadır. Yukarıda 32/2020 sayılı Yasanın 20. maddesi incelenirken erişimi engelleme kararının verilmesinin yukarıda izah edildiği şekilde Anayasa’nın 24’üncü maddesine aykırı bulunmaması nedeni ile erişimin engelleme kararına uyulmaması nedeni ile BTHK tarafından Yasa’nın 23(1)(D) maddesi altında idari para cezası verilmesi yani bu karara uyulmaması halinde para cezası verme yetkisinin Anayasa’nın 24. maddesine aykırı olması da mümkün değildir.
+
+	Ancak 32/2020 sayılı Yasa’nın 23(2) maddesi altında para cezasının tebliğinden itibaren 24 saat içerisinde erişim sağlayıcı erişimi engelleme kararını yerine getirmediği takdirde Bilgi Teknolojileri ve Haberleşme Kurumu tarafından yetkilendirilmesinin iptaline karar verme yetkisinin Anayasa’nın 24. 17. 18(3) 18(4) 18(5) 36. 21. 26. ve 30. maddelerine aykırı olduğunu da iddia etmektedir.
+
+	Yasa’nın 20(3) maddesi altında BTHK erişimin engellenmesine karar verebilir.  24 saat sonra mahkemeden de aynı karar alındığı takdirde bu karar uygulamada kalır. Madde 23(1)(D) Kurum kararına uymayan erişim sağlayıcıya aylık asgari ücretin 15 katı kadar para cezası verilebilir. Erişim sağlayıcı bu kararı 24 saat içerisinde yerine getirmezse kurum tarafından yetkilendirilmesi iptal edilir.  Erişim sağlayıcıya bu karara karşı Yüksek İdare Mahkemesi’ne başvuru hakkı Yasa’nın 24(3) maddesi ile verilmiştir. İdari para cezalarının Yüksek İdare Mahkemesi’ne başvurulduğu veya başvurulmadığı takdirde ne kadar süre içerisinde ödenmesi gerektiği yine Yasa’nın 23(3) maddesinde izah edilmiştir.  
+
+	Madde 20(1) altında erişimi engelleme kararı verilmesinde Anayasa’nın 24’üncü maddesine aykırılık olmadığına karar verildikten sonra bu maddenin yani erişimi engelleme kararına uyulmaması neticesinde yetkilendirmenin iptaline karar verilmesinin Anayasa’nın 24’üncü maddesine aykırılığı söz konusu değildir.  32/2020 sayılı Yasa’nın 23(1)(D) maddesi bir  yaptırım maddesidir uyulması gereken kararına uyulmaması halinde BTHK’ya bu karara uyulmasını sağlamak üzere verilen bir yetkidir.
+
+	Yukarıda izah edildiği şekilde erişim sağlayıcıya Yüksek İdare Mahkemesine başvurma hakkı verildiğinden ve Yüksek İdare Mahkemesine başvurulduğu ve karar erişim sağlayıcı aleyhine verildiği takdirde para cezasının ödenmesi karar tarihinden itibaren 1 aya kadar yapılabileceğinden veya para cezasının iptal edilmesi mümkün olduğundan Anayasa’nın 17. ve 18. maddelerine de aykırılık olmadığına da karar verilir.
+
+	İdari para cezasına karşı Yüksek İdare Mahkemesine başvurma hakkı verilmişken idari para cezası ödeyecek kişinin bu cezaya karşı Yüksek İdare Mahkemesine başvuru hakkını kullanmasına fırsat vermeden para cezasının 24 saat içerisinde ödenmemesi nedeni ile yetkilendirmenin iptali kararının verilebilmesi ilk etapta  yargı yoluna gidilmesine fırsat verilmediğinden ve ayrıca kendisine söz hakkı verilmeden ve suçluluğu ispat edilmeden BTHK tarafından yetkilendirmesinin iptalinin Anayasanın 17. ve 18. maddesine aykırılık teşkil ettiği kabul edilmelidir.
+
+	Dolayısıyla 32/2020 sayılı Yasa’nın 23(1)(D) maddesinin Anayasa’nın 17. ve 24. maddelerine aykırı olmadığına 23(2)’nin Anayasa’nın 24. maddesine aykırı olmadığına ancak 17. ve 18. maddelerine aykırı olduğuna karar verilir.
+
+G. Davacı davasında 24.maddenin de Anayasa’ya aykırılığını  iddia etmiş olmasına rağmen bu konuyu detaylandırmadığından incelenmesine gerek yoktur.
+
+
+
+
+VII. SONUÇ:
+	Netice itibarı ile oybirliğiyle
+
+A.	32/2020 sayılı Yasa’nın 14. maddesinin Anayasa’nın 19. 21. 22. 29. 30. ve 36. maddelerine aykırılığı olmadığına karar verilir. Sadece Yasa’nın 14(4) maddesinin son cümlesi olan “Ayrıca bu Yasa’nın 7’nci maddesinde belirtilen 4’üncü 5’inci 6’ncı 8’inci 9’uncu 10’uncu ve 12’nci maddelerinde düzenlenen suçlardan herhangi birinin işlenmesine yarayan özel amaçlı üretilmiş cihazlar dava sonuçlanana kadar iade edilmez.” söz dizisinin Anayasa’nın 17. maddesine aykırı olduğuna karar verilir.
+B.	32/2020 sayılı Yasanın 18(4) ve 18(5) maddelerinin Anayasa’nın 1.11.19. maddelerine aykırı olmadığına 18(3) maddesinin (b) bendinin ‘veya yasalardan kaynaklanan bir yükümlülüğünü yerine getirmek amacıyla veya kullanıcılara sağladığı iş ve hizmetler kapsamında gerçekleştireceği iş ve işlemleri için zorunlu olması halinde ve bu amaçlarla sınırlı olmak üzere’ söz dizisinin sadece trafik verilerinin başkalarının erişimine olanak sağladığı cihetle Anayasa’nın 19. maddesine aykırı olduğuna 18(3) maddesinin geriye kalanının Anayasa’ya aykırılığı olmadığına karar verilir.
+C.	32/2020 sayılı Yasa’nın 20(1)(A) ve 20(1)(B) maddesinin Anayasa’nın 24. ve 26. maddelerine 20(3) ve 20(3)(A) maddelerinin Anayasa’nın 1.17. 24. ve 26. maddelerine 20(3) ve 20(3)(Ç) maddeleri Anayasa’nın 1.17. ve 24. maddelerine aykırı olmadığına karar verilir.
+D.	32/2020 sayılı Yasa’nın 21. maddesinin Anayasa’nın 24. maddesine aykırı olmadığına karar verilir.
+E.	32/2020 sayılı Yasa’nın 22. maddesinin (1). fıkrasında yer alan “veya bu mümkün değilse içeriğe erişimi engellemek” söz dizisinin Anayasa’nın 17. maddesine aykırı olduğuna maddenin geriye kalan kısmının Anayasa’nın 1. ve 17. maddelerine aykırı olmadığına karar verilir.
+F.	32/2020 sayılı Yasa’nın 23(1)(D) maddesinin Anayasa’nın 17. ve 24. maddelerine aykırı olmadığına 23(2) maddesinin  Anayasa’nın 24.maddesi aykırı olmadığına 23(2) maddesinin Anayasa’nın 17. ve 18. maddelerine aykırı olduğuna 
+karar verilir.
+   Ayrıca Kararda madde 18 ve madde 24 ile ilgili belirtilen hususların Cumhuriyet Meclisi’nin  bilgisine getirilmesi için kararın Meclise tebliğ edilmesine ve Kararın Resmi Gazete’de yayımlanmasına Meclisin çalışma yapmasına fırsat tanımak için iptal hükümlerinin 30.12.2022 tarihinde yürürlüğe girmesine karar verilir.
+	
+     Narin Ferdi Şefik			 Mehmet Türker
+		Başkan					Yargıç
+
+Gülden Çiftçioğlu		Tanju Öncül 		Beril Çağdal
+	Yargıç			   Yargıç			   Yargıç
+
+30 Haziran 2022
