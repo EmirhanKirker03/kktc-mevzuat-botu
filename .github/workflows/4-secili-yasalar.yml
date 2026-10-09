@@ -23,14 +23,15 @@ jobs:
       - run: node scripts/mahkemeler.js secili yasa "${{ inputs.pkeyler }}"
         env:
           HAM_DIR: ${{ runner.temp }}/ham
-      - name: Orijinal dosyaları geçici olarak sakla (depoya konmaz)
+      - name: Orijinal dosyaları ayrı dala koy (ana dal temiz kalır)
         if: always()
-        uses: actions/upload-artifact@v4
-        with:
-          name: orijinaller
-          path: ${{ runner.temp }}/ham
-          retention-days: 7
-          if-no-files-found: ignore
+        run: |
+          [ -d "$RUNNER_TEMP/ham" ] && [ "$(ls -A $RUNNER_TEMP/ham)" ] || exit 0
+          git config --global user.name "mevzuat-botu"
+          git config --global user.email "mevzuat-botu@users.noreply.github.com"
+          if git fetch -q origin orijinaller; then git worktree add -q -B orijinaller ../o origin/orijinaller; else git worktree add -q --orphan -b orijinaller ../o; fi
+          mkdir -p ../o/yasalar && cp "$RUNNER_TEMP"/ham/* ../o/yasalar/
+          cd ../o && git add -A && (git commit -qm "Orijinal dosyalar: ${{ inputs.pkeyler }}" || true) && git push -q origin orijinaller
       - name: Sonuçları kaydet
         if: always()
         run: |
