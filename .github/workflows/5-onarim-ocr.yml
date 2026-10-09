@@ -1,0 +1,71 @@
+name: 5 - Onarım ve yazı tanıma (OCR)
+on:
+  workflow_dispatch:
+    inputs:
+      islem:
+        description: "hepsi = sorunlu dosyaları onar + Word metinlerini LibreOffice ile yeniden çıkar + taranmış PDF'lere OCR"
+        type: choice
+        options: ["hepsi", "onar-lo", "ocr", "lo-tuzuk"]
+        default: "hepsi"
+permissions:
+  contents: write
+jobs:
+  onar-lo:
+    if: inputs.islem == 'hepsi' || inputs.islem == 'onar-lo'
+    runs-on: ubuntu-latest
+    timeout-minutes: 340
+    concurrency: { group: onar-lo, cancel-in-progress: false }
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 20 }
+      - run: sudo apt-get update -q && sudo apt-get install -y -q --no-install-recommends libreoffice-writer
+      - run: npm install --no-audit --no-fund
+      - run: node scripts/onarim.js onar
+      - run: node scripts/onarim.js lo yasa
+        if: always()
+      - name: Sonuçları kaydet
+        if: always()
+        run: |
+          git config user.name "mevzuat-botu"; git config user.email "mevzuat-botu@users.noreply.github.com"
+          git add veri; git commit -qm "Onarım + LibreOffice metinleri" || exit 0
+          for i in 1 2 3 4 5 6; do git pull -q --rebase && git push -q && break; sleep $((i*10)); done
+  ocr:
+    if: inputs.islem == 'hepsi' || inputs.islem == 'ocr'
+    runs-on: ubuntu-latest
+    timeout-minutes: 345
+    strategy:
+      fail-fast: false
+      matrix:
+        parca: [0, 1, 2, 3, 4, 5, 6, 7]
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 20 }
+      - run: sudo apt-get update -q && sudo apt-get install -y -q --no-install-recommends tesseract-ocr tesseract-ocr-tur tesseract-ocr-eng poppler-utils libreoffice-writer
+      - run: npm install --no-audit --no-fund
+      - run: node scripts/onarim.js ocr ${{ matrix.parca }} 8
+        env: { BEKLE_MS: "4000" }
+      - name: Sonuçları kaydet
+        if: always()
+        run: |
+          git config user.name "mevzuat-botu"; git config user.email "mevzuat-botu@users.noreply.github.com"
+          git add veri/mahkemeler/ocr veri/mahkemeler/ocr-kayit; git commit -qm "OCR parça ${{ matrix.parca }}" || exit 0
+          for i in 1 2 3 4 5 6 7 8; do git pull -q --rebase && git push -q && break; sleep $((i*15)); done
+  lo-tuzuk:
+    if: inputs.islem == 'lo-tuzuk'
+    runs-on: ubuntu-latest
+    timeout-minutes: 340
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 20 }
+      - run: sudo apt-get update -q && sudo apt-get install -y -q --no-install-recommends libreoffice-writer
+      - run: npm install --no-audit --no-fund
+      - run: node scripts/onarim.js lo tuzuk
+      - name: Sonuçları kaydet
+        if: always()
+        run: |
+          git config user.name "mevzuat-botu"; git config user.email "mevzuat-botu@users.noreply.github.com"
+          git add veri; git commit -qm "Tüzükler: LibreOffice metinleri" || exit 0
+          for i in 1 2 3 4 5 6; do git pull -q --rebase && git push -q && break; sleep $((i*10)); done
