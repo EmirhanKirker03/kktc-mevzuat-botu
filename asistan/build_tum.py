@@ -62,7 +62,8 @@ for pk, k in sorted(kayit.items(), key=lambda x: int(x[0])):
     kapsam = sum(len(m['metin']) for m in ms) / max(1, len(metin) - b)
     nums = [int(re.match(r'\d+', m['no']).group()) for m in ms]
     bosluk = (max(nums) - len(set(nums))) / max(nums) if nums else 1
-    if len(ms) >= 3 and kapsam > 0.55 and bosluk < 0.25:
+    enbuyuk = max((len(m['metin']) for m in ms), default=0)
+    if len(ms) >= 3 and kapsam > 0.55 and bosluk < 0.25 and not (enbuyuk > 30000 and enbuyuk > 0.35 * (len(metin) - b)):
         maddeler = [{'no': m['no'], 'baslik': m['baslik'], 'metin': m['metin'], **({'kaldirildi': True} if m['kaldirildi'] else {})} for m in ms]
         ayirma = 'madde'
     else:
