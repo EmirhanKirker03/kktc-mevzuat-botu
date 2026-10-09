@@ -1,0 +1,752 @@
+[SAYFA 1]
+o : : | CAP. 307.
+
+CYPRUS
+
+WIRELESS TELEGRAPHY
+
+CHAPTER 307 OF THE LAWS
+
+1959 EDITION:
+
+PRINTED BY
+C. F. ROWORTH LIMITED, 54, GRAFTON way, LONDON, W.1.
+[Appointed by the Government of Cyprus the Government Printers of this Edition
+of Laws within the meaning of the Evidence (Colonial Statutes) Act, 1907.]
+é : é (1959
+x1 (2)
+
+[SAYFA 2]
+2 CAP. 307.] WIRELESS TELEGRAPHY,
+
+CHAPTER 307.
+
+WIRELESS TELEGRAPHY.
+
+ARRANGEMENT OF SECTIONS.
+
+Section et Page
+Short title wee
+Interpretation wee
+Licensing of wireless telegraphy
+Experimental licences
+Licence to sell, etc. we wee
+Regulations as to wireless telegraphy ... wes
+Misleading messages and interception and disclosure of messages
+Territorial extent of preceding provisions .
+Powers of Governor as to wireless personnel wee ...
+Power to Governor in Council to restrict use of land in the vicinity of
+
+wireless telegraphy installations vee wee wee 11
+11 Penalties wee cee see vee vee 11
+12 Saving ee wee wee wee tee 12
+
+SCHEDULE.
+
+Procedure in relation to suspension and revocation of authorities to .
+wireless personnel . tee cee vee see 12
+
+pi
+CSCOMDNAUMNAPWNHE
+
+A LAW TO AMEND AND CONSOLIDATE THE LAW RELATING
+TO WIRELESS TELEGRAPHY.
+
+7 of 52. NM .
+ness. (9th April, 1952.]
+
+Short title. 1. This Law may be cited as the Wireless Telegraphy Law.
+
+Interpreta- 2. (1) Inthis Law, unless the.context otherwise requires,
+Hon. the following words shall have the meaning hereby assigned
+to them, respectively, that is to say:—
+
+“ electric line ” means a wire or wires, conductor, or
+other means used for the purpose of conveying,
+transmitting, or distributing electricity with any
+casing, coating, covering, tube, pipe, or insulator
+enclosing, surrounding, or supporting the same, or any
+part thereof, or any apparatus connected therewith
+for the purpose of conveying, transmitting, or distri-
+buting electricity or electric currents;
+
++
+
+“ interference ” in relation to wireless telegraphy
+means the prejudicing by any emission or reflection of
+electro-magnetic energy of the fulfilment of the purposes
+of the telegraphy (either generally or in part, and,
+without prejudice to the generality of the preceding
+words, as respects all, or as respect any, of the
+recipients or intended recipients of any message, sound
+
+[SAYFA 3]
+© ON WIRELESS TELEGRAPHY. (CAP. 307. ~ 3
+
+or visual image intended to be conveyed by the
+telegraphy) ;
+
+‘“maintain ” includes possession of an apparatus for
+wireless telegraphy whether in working condition or
+not; ”
+
+“ ship ” includes every description of vessel used in
+navigation not propelled by oars but shall not include
+any ship belonging to Her Majesty;
+
+> “ vessel ” includes any ship or boat, or any other
+@ description of vessel used in navigation but shall not
+include any vessel belonging to Her Majesty;
+
+“station for wireless telegraphy ” includes the
+wireless telegraphy apparatus of a ship or aircraft;
+
+“ wireless telegraphy ” means the emitting or receiv-
+ing, over paths which are not provided by any material
+substance constructed or arranged for that purpose,
+of electro-magnetic energy of a frequency not exceeding
+three million megacycles a second, being energy which
+either—
+
+(a) serves for the conveying of messages, sound or
+visual images (whether the messages, sound or
+images are actually received by any person or
+not) or for the actuation or control of machinery
+or apparatus; or
+
+(0) is used in connection with the determination of
+position, bearing or distance, or for the gaining
+of information as to the presence, absence,
+position or motion of any object or of any
+objects of any class, and references to stations
+for wireless telegraphy or wireless telegraphy
+apparatus shall be construed as references to
+stations and apparatus for the emitting or
+receiving as aforesaid of such electro-magnetic
+
+® energy as aforesaid:
+Provided that where—
+
+(i) a station or apparatus for wireless tele-
+graphy cannot lawfully be used without a
+wireless telegraphy licence or could not
+lawfully be used without such a licence but
+
+_ for an order under section 3;
+
+(ii) any such electro-magnetic energy as afore-
+said which is received by that station
+or apparatus serves for the conveying of
+“messages, sound or visual images; and
+
+[SAYFA 4]
+4 CAP. 307.) WIRELESS TELEGRAPHY.
+
++
+
+(iii) any apparatus is electrically coupled with
+“that station or apparatus for the purpose
+of enabling any person to receive any of
+the said messages, sound or visual images,
+the apparatus so coupled shall itself be deemed
+for the purposes of this Law to be apparatus
+for wireless telegraphy.
+
+(2) Any reference in this Law to the emission of electro-
+magnetic energy, or to emission (as opposed to reception),
+shall be construed as including a reference to the deliberate
+reflection of electro-magnetic energy by means of any
+apparatus designed. or specially adapted for that purpose,
+whether the reflection is continuous or intermittent.
+
+(3) Any reference in this Law to the sending or the
+conveying of messages includes a reference to the making of
+any signal or the sending or conveying of any warning or
+information, and any reference to the reception of messages
+shall be construed accordingly. :
+
+(4) Any reference in this Law to apparatus on board a
+ship or vessel shall be construed as including reference to
+
+apparatus on a kite or captive balloon flown from a ship
+or vessel.
+
+(5) Any notice required or authorized by any provision
+of this Law to be served on any person may be served by
+registered post. 4
+
+Licensing of 3. (1) No person shall establish, use or maintain any
+
+wireless : ° , ° °
+
+telegraphy. Station for wireless telegraphy or install, use or maintain any
+apparatus for wireless telegraphy except under the auihority
+of a licence in that behalf granted by the Governor, and
+any person who establishes, uses or maintains any station
+for wireless telegraphy or installs, uses or maintains any
+apparatus for wireless telegraphy except under and in
+accordance with such a licence shall be guilty of an offence
+under this Law:
+
+Provided that the Governor may, by order, exempt from
+the provisions of this subsection the establishment, installa-
+tion, use or maintenance of stations for wireless telegraphy
+or wireless telegraphy apparatus of such classes or descrip-
+tions as may be specified in the order, either absolutely
+or subject to such terms, provisions and limitations as may
+be so specified.
+
+(2) A licence granted under this section (hereafter in
+
+[SAYFA 5]
+WIRELESS TELEGRAPHY. [CAP. 307. 5
+
+‘
+
+this Law referred to as “a wireless telegraphy licence ’’)
+may be issued, subject to such terms, provisions and
+limitations -as the Governor may think fit, including in
+particular in the case of a licence to establish a station,
+limitations as to the position and nature of the station,
+the purposes for which, the circumstances in which, and
+the persons by whom the station may be used, and the
+apparatus which may be installed; used or maintained
+therein, and, in the case of any other licence, limitations
+@ as to the apparatus which may be installed, used or
+
+maintained, and the places where, the purposes for which,
+the circumstances in which and the persons by whom the
+apparatus may be used.
+
+(3) A wireless telegraphy licence shall, unless previously
+revoked by the Governor, continue in force for such period
+as may be specified. in the licence.
+
+(4) A wireless telegraphy licence may be revoked, or the
+terms, provisions or limitations thereof varied, by a notice
+in writing of the Governor served on the holder of the licence
+or by a general notice applicable to licences of the class to
+which the licence in question belongs published in such
+manner as may be specified in the licence. ©
+
+(5) Where a wireless telegraphy licence has expired or has
+been revoked, it shall be the duty of the person to whom the
+licence was issued, and of every other person in whose
+possession or under whose control the licence may be, to
+cause the licence to be surrendered to the Governor if
+required by the Governor so to do, and any person who,
+without reasonable excuse, fails or refuses to comply with
+the provisions. of this subsection shall be guilty of an
+offence under this Law:
+
+Provided that this subsection shall not apply to a licence
+
+> relating solely to apparatus not designed or adapted for
+© emission (as opposed to reception).
+
+© (6) Nothing in this section shall authorize the inclusion,
+in any wireless telegraphy licence relating solely to-apparatus
+not designed or adapted for emission (as opposed to
+reception), of any term or provision reguiring any person to
+concede any form of right of entry into any private dwelling
+house. . a
+
+4, (1) Subject to the provisions of this section, where an ipe
+application for the grant or renewal of a wireless licence is licences.
+
+[SAYFA 6]
+CAP. 307.] WIRELESS TELEGRAPHY. .
+
+Licence to
+sell, etc.
+
+2 of 37/55
+
+made to the Governor by a British subject and the Governor
+
+is satisfied that the only purpose for which the applicant
+
+requires the licence is to enable him to conduct experiments
+
+in wireless telegraphy for the purpose of scientific research, .
+
+the Governor shall not refuse to grant or renew the licence
+and shall not revoke the licence when granted and no sum
+shall be payable under any Regulations made under this
+Law otherwise than on the issue or renewal of the licence.
+
+(2) Nothing in subsection (1) shall limit the discretion
+of the Governor as to the terms, provisions or limitations
+which he attaches to any licence or his power to vary the
+terms, provisions or limitations of any licence.
+
+(3) Nothing in subsection (1) shall prévent the Governor
+from refusing to grant or renew, or from revoking, any
+licence if, whether before or after the grant or last renewal
+of the licence, the applicant has been convicted of any
+offence under this Law, whether in relation to the same or
+any other apparatus, or has contravened any of the terms,
+provisions or limitations of that or any other wireless
+telegraphy licence granted to him, or has been convicted of
+using any apparatus for the purpose of interfering with any
+wireless telegraphy.
+
+(4) If it appears to the Governor that, by reason of the
+existence of a national emergency, it is expedient so to do,
+he may, by a notice in writing served on the holder of any
+licence granted in pursuance of: this section, revoke that
+licence, or by a general notice published in the Gazette,
+revoke all licences granted in pursuance of this section
+which are for the time being in force, and the Governor
+shall not be obliged by virtue of this section to grant or
+renew any licence, if it appears to him, by reason of the
+existence of such an emergency, inexpedient so to do.
+
+5. (1) No person shall sell, deal, let or hire or otherwise
+dispose of any apparatus for wireless telegraphy in any
+
+. place in the Colony except under the authority of a licence
+
+granted in that behalf by the Governor and subject to such
+terms and limitations as the Governor may think fit to
+impose.
+
+(2) The Governor may, in his discretion, refuse to grant
+,a licence under this section to any person who, in his
+opinion, is not competent, to comply with the terms and
+conditions of such licence.
+
+[SAYFA 7]
+e . | WIRELESS TELEGRAPHY. [CAP. 307. 7
+
+6. (1) The Governor may make Regulations— ;, Regulations
+as to wireless
+
+(a) prescribing the things which are to be done or are telegraphy. _
+not to be done in connection with the use of any
+station for wireless telegraphy or wireless tele-
+graphy apparatus, and, in particular requiring
+the use of any such station or apparatus to
+cease on the demand in that behalf of any such
+persons as may be prescribed by or under the
+Regulations;
+
+Şi (0) imposing on the personto whom a wireless tele-
+graphy licence is issued with respect to any”
+station for wireless telegraphy or wireless tele-
+graphy apparatus, or who is in possession or
+control of any station for wireless telegraphy or
+wireless telegraphy apparatus, obligations as to |
+permitting and facilitating the inspection of the
+station and apparatus, as to the condition in
+which the station and apparatus are to be kept
+and, in the case of a station or apparatus for
+the establishment, installation, use or main-
+tenance of which a wireless telegraphy licence
+is necessary, as to the production of the licence,
+or of such other evidence of the licensing of the _
+station or apparatus as may be prescribed by -
+the Regulations;
+
+(c) where sums are or may become due from the person
+to whom a wireless telegraphy licence is issued
+after the issue or renewal thereof, requiring that
+person to keep and produce such accounts and
+records as may be specified in the Regulations;
+and
+
+(2) requiring the person to whom a wireless telegraphy
+licence authorizing the establishment or use of
+
+- a station has been issued to exhibit at the station
+© such notices as may be specified in the Regula-
+> tions;
+
+(e) prescribing the reguirements to be complied with
+and the things which are to be done or are not to
+be done by any person, to prevent undue
+interference with any wireless telegraphy and
+providing for the constitution of an advisory
+committee and for appeals in connection there-
+with;
+
+(f) prescribing the fees to be paid in respect of any
+
+- licence issued under this Law;
+
+[SAYFA 8]
+CAP. 307.) | WIRELESS TELEGRAPHY. —
+
+(g) prescribing anything which is required by this Law
+to be prescribed and anything in respect of
+which this Law requires regulations to be made;
+
+(h) prescribing such forms as may be required,
+
+“and different provision may be made by any such Regula-
+
+3 of 37/55
+
+tions for different classes of case:
+
+Provided that nothing in any such Regulations shall
+require any person to concede any form of right of entry
+into a private dwelling house for the purpose of permitting
+or facilitating the inspection of any apparatus not designed
+or adapted for emission (as opposed to reception).
+
+(2) Any Regulations made under this section may
+prescribe penalties of imprisonment not exceeding six
+months or a fine not exceeding fifty pounds or both such
+
+“ imprisonment and fine for any breach of such regulations.
+
+Misleading
+messages and
+interception
+and dis-
+closure of
+messages.
+
+7. Any. person who—
+
+(a) by means of wireless telegraphy, sends or attempts
+to send any message which, to his knowledge, is .
+
+false or misleading and is, to his knowledge
+likely to prejudice the efficiency of any safety
+of life service or endanger the safety of any
+person or of any vessel, aircraft or vehicle, and,
+in particular, any message which, to his know-
+ledge, falsely suggests that a vessel or aircraft
+is in distress or in need of assistance or is not
+
+“in distress or not in need of assistance; or
+(0) otherwise than under the authority of the Governor
+.or in the course of his duty as a servant of the
+
+Crown, either—
+
+(i) uses any wireless telegraphy apparatus
+with intent to obtain information as to the
+
+contents, sender or addressee of any.
+
+message (whether sent by means of wireless
+telegraphy or not) which neither the person
+using the apparatus nor any person on
+whose behalf he is acting is authorized by
+the Governor to receive; or
+
+(ii) except in the course of legal proceedings or
+for the purpose of any report thereof,
+discloses any information as to the contents,
+sender or addressee of any such message,
+
+being information which would not have .
+
+come to his knowledge but for the use of
+
+[SAYFA 9]
+€
+
+WIRELESS TELEGRAPHY. [CAP.307. 9
+foe wireless telegraphy apparatus by him or
+_by another person, —
+shall be guilty of an offence under this Law.
+8. (1) Subject to the provisions of this section, the Territorial
+preceding provisions of this Law shall apply—  . preceding
+(a) to all stations and apparatus within, or for the pions
+time being within, the territorial limits of the $ (“5
+Colony; and & (0.
+
+(6) subject to any limitations which the Governor may
+by Regulations determine, to all apparatus which
+is not in or over the Colony but was released
+from within the Colony or from any British
+seagoing ship or British aircraft which is
+registered in the Colony,
+
+and, without prejudice to the liability of any other person,
+in the event of any contravention of the said preceding
+provisions or of any Regulations made under this Law
+occurring in relation to,any station or apparatus on board
+or released from any vessel or aircraft, the captain or the
+person for the time being in charge of the vessel or aircraft
+shall be guilty of an offence under this Law:
+
+Provided that the captain or person for the time being
+in charge of a vessel or aircraft shall not be guilty of any
+offence under this Law by reason of any contravention of
+
+the said provisions or Regulations occurring in relation to —
+
+apparatus on board the vessel or aircraft if the contravention
+consists of the use by a passenger on board the ship or
+aircraft of apparatus not designed or adapted for emission
+(as opposed to reception) which is not part of the wireless
+telegraphy apparatus, if any, of the ship or aircraft.
+
+(2) The.Governor may make Regulations for regulating
+the use, on board any foreign seagoing ship or foreign
+aircraft within the limits of the Colony of wireless tele-
+graphy apparatus on board the ship or aircraft, and such
+Regulations may provide for the punishment of persons
+contravening the regulations by such fine, not exceeding in
+the case of any one offence one hundred pounds, as may be
+specified in the Regulations, and for the forfeiture of any
+wireless telegraphy apparatus in respect of which an offence
+under such Regulations is committed; but, save as aforesaid,
+nothing in this Law shall operate so as to impose any
+prohibition or restriction on persons using wireless tele-
+graphy apparatus on board any foreign seagoing ship or
+foreign aircraft. ,
+
+[SAYFA 10]
+10
+
+- CGAP. 307.] WIRELESS TELEGRAPHY.
+
+4 (d) of 37/55.
+
+Powers of
+Governor as
+to wireless
+personnel.
+
+Schedule.
+
+(3) The Governor may by order direct that any reference
+in this, section to any British ship or aircraft registered in
+the Colony shall be construed as including a reference to any
+British ship or aircraft within the territorial limits of the
+Colony which, registered in any colony, British protectorate
+or British protected state, or registered under the Law
+of any other country or territory outside the Colony which
+is, for the time being, administered by Her Majesty’s
+Government in the United Kingdom.
+
+9. (1) The Governor may hold examinations to deter-
+mine the competence of the persons examined to fill
+positions in connection with the operation of stations for
+wireless telegraphy or wireless telegraphy apparatus and
+may issue to persons successful at such examinations
+certificates of competence of such types as he may, from
+time to time, determine.
+
+(2) The Governor may issue to such persons as he thinks
+fit authorities in writing authorizing the persons to whom
+the authorities are issued to fill such positions in connection
+with the operation of stations‘ for wireless telegraphy or
+wireless telegraphy apparatus as may be specified in the
+respective authorities, being positions for the holding of
+which the possession of such an authority is, under wireless
+telegraphy licences granted under this Law or under any —
+licences granted under any corresponding law of any part
+of Her Majesty’s dominions, a necessity or a qualification.
+
+(3) The Governor, if it appears to him that there are
+sufficient grounds so to do, may, at any time, suspend any
+authority granted under the last preceding subsection with
+a view to the revocation thereof, and, where he so suspends
+an authority, the provisions of the Schedule to this Law
+shall have effect.
+
+(4) Where any authority granted under subsection (2)
+of this section has ceased to be in force or has been
+suspended, it shallsbe the duty of the person to whom the
+authority was issued, and of every other person in whose *
+possession or under whose control the authority may be,
+to cause the authority to be surrendered to the Governor if
+required by the Governor so to do, and any person who,
+without reasonable excuse, fails or refuses to comply
+with the provisions of this subsection, shall be guilty of an
+offence under this Law.
+
+[SAYFA 11]
+O WIRELESS TELEGRAPHY. |CAP.307. 11
+
+_ (5) The Governor may charge to persons applying to take
+part in any examination under this section, and to
+applicants for, or for copies of, any certificate or authority
+issued under this section, such fees, if any, as he may
+determine.
+
+10. (1) Where the Governor in Council is satisfied that, Gower to
+. for the purpose of ensuring the proper and efficient working in Council
+and use of any station for wireless telegraphy, it is expedient do sete
+® and in the public interest so to do, he may make an Order in the
+
+(hereinafter referred to as a “ restricting Order ”) under vicinity of
+
+5 . wireless
+this section. telegraphy
+N installations.
+
+(2) A restricting Order shall be published in the Gazette 5 of 37/55.
+and shall relate to any area specified in the Order being -
+within one mile of the station for wireless telegraphy in
+
+respect of which the Order is made.
+
+(3) A restricting Order may provide—
+
+(a) either for the prohibition, or the restriction, or
+both such prohibition and restriction, of the
+erection of buildings, structures (including elec-
+trical appliances of any kind) or other things
+or any class of buildings, structures as aforesaid
+or other things on the area specified in the
+_ Order or any part of such area;
+
+(0) either for the prohibition, or the restriction, or
+both such prohibition and restriction, of the
+planting of any trees or class of trees in the area
+specified in the Order or any part thereof.
+
+‘
+
+(4) Any person who contravenes an Order made under
+this section shall be guilty of an offence and shall be liable
+to a fine not exceeding one hundred pounds.
+
+(5) Any person suffering loss or damage in consequence
+of a restricting Order under this section, shall be paid
+compensation therefor by the person in whose favour the
+restricting Order was made and, in default of agreement,
+the amount of such compensation shall be determined by
+the President of the District Court of the District within
+which the land is situate.
+
+11. Any person who— Penalties.
+(a) shall establish, use or maintain any station for ° 37/95.
+wireless telegraphy or shall install, use or
+
+one
+
+| 7 | |
+
+[SAYFA 12]
+12
+
+CAP. 307.] WIRELESS TELEGRAPHY.
+
+Saving.
+
+maintain any apparatus for wireless telegraphy
+except under and in accordance with a licence
+granted under the provisions of this Law;
+
+(b) shall sell, deal, let or hire or otherwise dispose of
+
+any apparatus for wireless telegraphy in any
+place in the Colony except under the authority
+of a licence granted under the provisions of this
+Law;
+
+(c) contravenes or fails to comply with the provisions
+of section 7 or 9 of this Law,
+
+shall be guilty of an offence and shall be liable to imprison-
+
+ment for a term not exceeding one year or to a fine not
+
+exceeding one hundred pounds or to both imprisonment
+and fine, and the Court, in addition to any other penalty,
+
+may— ,
+
+(i) order that all or any of the apparatus of the
+station, or, as the case may be, of the apparatus
+in connection with which the offence has been
+committed, to be forfeited;
+
+(ii) in any case in which such apparatus has been
+used without a licence, order a sum, equivalent
+to any licence fee payable by the person con-
+victed, to be paid by such person.
+
+12. Any Regulations made or licences granted under the
+
+Law repealed by this Law* which are in force immediately |
+
+before the date of coming into operation of this Lawf shall,
+as from that date and until other Regulations are made
+under this Law, be deemed to be Regulations made or
+licences granted under this Law and shall, with any
+necessary modifications, have effect accordingly.
+
+SCHEDULE.
+(Section 9 (3).)
+PROCEDURE IN RELATION TO SUSPENSION AND REVOCATION OF
+AUTHORITIES TO WIRELESS PERSONNEL. :
+1. The Governor shall, on ‘suspending the authority, serve on the
+
+person to whom it was issued a notice informing him of the suspension, .
+
+of the grounds thereof and of his rights under the subsequent provisions
+
+of this Schedule and further informing him that, if he does not avail |
+
+himself of those rights, the Governor may revoke the authority:
+
+* The Law repealed by this Law was the Wireless Telegraphy Law (1949 Cap. 284).
+$ This Law came into operation on the 10th September, 1953 (53 Vol. TI, 500).
+
+[SAYFA 13]
+WIRELESS TELEGRAPH Y. [CAP. 307.
+
+13
+
+Provided that, where it appears to the Governor that it is not ©
+
+reasonably practicable to serve the notice on the said person, the
+Governor, in lieu of serving the notice on him, shall take such steps, by
+advertisement. or otherwise, to bring the notice to his knowledge as
+appear to the Governor to be reasonable in the circumstances.
+
+2. (1) If, within such time and in such manner as may be specified
+in the notice, the person to whom the authority was issued requests that
+the question whether the authority should be revoked or the suspension
+thereof continued or terminated should be referred to an advisory
+committee, the Governor, unless he terminates the suspension, shall
+refer that question to an advisory committee accordingly.
+
+(2) Every such advisory committee shall consist of three persons
+appointed by the Governor, of whom one shall be an independent
+
+_ chairman selected by the Governor and two shall be persons nominated,
+
+respectively, by such body or bodies representing employers of wireless
+operators and such association or associations representing wireless
+operators as seem to the Governor to be appropriate for the purpose.
+
+(3) Where a question is referred to an advisory committee under this
+paragraph, the Committee shall enquire into the matter, shall consider
+any representations made by the person to whom the authority was
+issued, and shall then make a report to the Governor stating the facts as
+found by them and the action which, in their opinion, ought to be taken
+as respects the revocation of the authority or the continuation or
+termination of the suspension thereof, and the Governor shall consider
+the report.
+
+(4) After considering the report of the advisory committee or, as the
+case may be, on the expiration of the time referred to in sub-paragraph (1)
+of this paragraph without the person to whom the authority was issued
+having required in the manner therein referred to that question should
+be referred to an advisory committee, the Governor shall, as he thinks fit,
+either revoke the authority, or terminate the suspension thereof, or
+continue the suspension thereof for such period as he thinks fit.
+
+(5) Where the Governor revokes the authority or continues the
+suspension thereof, he shall, if requested so to do by the person to whom
+the authority was issued, inform him of the opinion which the advisory
+committee expressed as to the action which ought to be taken as respects
+the revocation of the authority or the continuation or termination of the
+suspension thereof. °
+
+3. Any expenses incurred by an advisory committee under this
+Schedule to such extent as may be determined by the Governor, including
+such sums in respect of the expenses of the members of the committee
+as may be so determined, shall be paid out of the general revenues of
+the Colony.

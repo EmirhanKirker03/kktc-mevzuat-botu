@@ -1,0 +1,1876 @@
+[SAYFA 1]
+CAP. 171.
+
+CYPRUS
+
+ELECTRICITY DEVELOPMENT
+
+CHAPTER 171 OF THE LAWS
+
+1959 EDITION
+
+PRINTED BY
+C. F. ROWORTH LIMITED, 54, GRAFTON WAY, LONDON, W.1.
+
+[Appointed by the Government of Cyprus the Government Printers of this Edition
+of Laws within the meaning of the Evidence (Colonial Statutes) Act, 1907.]
+
+1959
+
+[SAYFA 2]
+2
+
+GAP.171.) ELECTRICITY DEVELOPMENT.
+
+CHAPTER 171.
+ELECTRICITY DEVELOPMENT.
+
+ARRANGEMENT OF SECTIONS.
+
+Part I.
+PRELIMINARY.
+
+Section Page
+1 Short title tee tee tee tee 2
+2 Interpretation ... v.s tee wee 3
+
+Part II.
+
+ELECTRICITY AUTHORITY.
+Constitution of the Electricity Authority.
+3 Establishment and incorporation, of the Electricity Authority 4
+4 Common seal 7
+5 Constitution of the Authority 7
+6 Remuneration and allowances discovery o to members of the Authority... 8
+7 Disqualification, disposal ar and iscovery © of interests of members of the
+Authority .. wee 8
+8 Quorum 9
+9 Procedure of the Authority | 9
+Officers and Servants ‘of the Authority.
+10 Officers and servants of the Authority .. 9
+11 Members, officers and servants of the Authority deemed. public officers 9
+General Functions of the Authority.
+
+12 General functions _ wee wee see 10
+13 Colony-wide electrification scheme . 11
+14 Transfer of existing contracts, etc., of Government to the Authority... 11
+15 Duty of the Authority to supply electricity to power users .. 11
+16 Power to the Authority to reguire information tee 11
+17 Power to the Authority to sell, etc., electrical fittings .. wee 12
+
+Part III.
+
+GENERAL FINANCIAL PROVISIONS.
+
+18 Power to the Authority to borrow tee vee so 13
+19 Power to the Authority to issue securities wee 13
+20 Power to Government to guarantee loans to the Authority ... 13
+21 Expensesof the Authority tee . tee 13
+22 Investment of moneys vee vee 14
+23 Rates of scale and charges for electricity tee ... 14
+24 Accounts and audit ees tee 14
+25 Exemption from taxation and d stamp duties vee ... 15
+26 Annualreport ... tee 15
+
+Part IV.
+
+ACQUISITION OF PROPERTY AND OF UNDERTAKINGS AND MATTERS
+INCIDENTAL THERETO.
+
+Acquisition of Immovable Property.
+27 Power to acquire immovable property
+
+[SAYFA 3]
+O ELECTRICITY DEVELOPMENT. [CAP. 171. 3
+
+Section | Acquisition of Undertakings. Page
+28 Authority to acquire undertakings wee EW wee 16
+29 Compensation in respect of undertakings acquired from a local
+
+: authority ... . . 18
+
+30 Compensation in respect of undertaking acquired from any person
+
+other than a local authority 18
+General.
+31 Transfer to the Authority of rights of local authorities to acquire or
+purchase undertakings ... see see wee 20
+
+32 Provisions as to transfer of officers and servants to the Authority ... 21
+
+33 Compensation for alteration of terms of employment ... vee 22
+
+34 Power to prescribe sources of water coe tee wee 23
+
+© 35 Entry of land for surveys and other preliminary purposes wee 23
+
+36 Power to enter on land for purposes of authority undertaking wee 24
+
+37 Compensation payable under sections 35 and 36 see tee 24
+
+38 Payment of compensation, etc., by the Authority see vee 24
+
+39 Discharge of compensation, etc., by issue of securities ... wee 25
+
+40 Determination of compensation by arbitration see tae 25
+
+Part V.
+MISCELLANEOUS.
+
+41 Stand-by supplies tee vee see 0% 25
+
+42 Reduction or cessation of supply; liability see wee 26
+
+43 Restrictions on the grant of Orders under the Electricity Law wee 26
+
+Part VI.
+, REGULATIONS. /
+
+44 Regulations ... vee ses see see 27
+First Schedule tee vee tee tee 28
+Second Schedule tee wee tee tee 29
+Third Schedule vee eee . vee vee 29
+
+A LAW TO PROVIDE FOR THE ESTABLISHMENT OF A
+CORPORATE BODY TO BE CALLED THE ELECTRICITY
+
+AUTHORITY OF CYPRUS AND FOR THE EXERCISE AND
+
+PERFORMANCE BY SUCH BODY OF FUNCTIONS RELATING |
+
+TO THE GENERATION AND SUPPLY OF ELECTRICITY AND
+
+CERTAIN OTHER MATTERS; TO AUTHORIZE THE
+
+ACQUISITION BY THE SAID BoDY OF ELECTRICITY
+
+UNDERTAKINGS AND TO REGULATE THE PAYMENT OF
+@ COMPENSATION THEREFOR; TQ PROVIDE FOR THE
+REGULATION OF THE SUPPLY OF ELECTRICITY; AND
+
+FOR PURPOSES CONNECTED WITH THE MATTERS
+
+AFORESAID. 23 of 52.
+[27th October, 1952.) o 15 ae
+Part I.
+PRELIMINARY.
+
+1. This Law may be cited as the Electricity Development Sbort title.
+Law,
+
+[SAYFA 4]
+4 CAP. 171.) ELECTRICITY DEVELOPMENT.
+
+Interpreta- o o 2. (1) In this Law, unless the context or subject matter
+
+, otherwise indicates or requires—
+
+“apparatus”” means electrical apparatus and
+includes all apparatus, machines, consuming devices
+and fittings in which conductors are used or of which
+they form a part;
+
+“ Authority ” means the Electricity Authority of
+Cyprus established under section 3;
+
+“ Authority installation ” or “ Authority under-
+taking ” means an installation or undertaking the
+property of, or operated by, the Authority;
+
+“ authorized person ” means a person appointed by
+the Authority, or by an authorized undertaker, or by
+the management or the owner of an installation, or by
+a contractor, for the time being, to the Authority,
+management or owner, to carry out certain duties
+incidental to the generation, transformation, distribu-
+tion and use of electricity, provided that such person
+possesses the qualifications, if any, prescribed for per-
+sons performing such duties, or, if no qualifications are
+prescribed, is competent for the purpose for which he
+is employed, the burden of proof of competency being
+on the employer;
+
+“ authorized undertakers ” and “ undertaker * mean
+any local authority, company or person who has been
+
+Cap. 170. by the Electricity Law authorized to supply electricity
+within any area; -
+
+“ bulk supply ” means a supply of electricity to be
+used for the purposes of distribution ;
+
+“ Chairman ” means the person designated to be the
+Chairman of the Authority under section 5;
+
+“ Chief Inspector ” means the Chief Electrical
+Inspector appointed under section 10;
+
+“ conductor ” means an electrical conductor arranged
+to be electrically connected to a system;
+
+“ conversion ” means the conversion of alternating
+current to direct current or vice versa by static or
+dynamic means;
+
+Cap. 170. “ Electricity Law ” means the Electricity Law and
+includes any Law amending or substituted for the
+same;
+
+“generating station” means any station for
+generating electricity, including any buildings and
+plant used for the purpose, and the site thereof, and
+includes a site intended to be used for a generating
+
+[SAYFA 5]
+@ ELECTRICITY DEVELOPMENT. [CAP. 171. 5
+
+station, but does not include any station for trans-
+forming, converting, or distributing energy ;
+
+“ generator ’’ means a rotating machine of any type
+for changing mechanical energy into electrical energy;
+
+“immovable property ” includes—
+(a) land;
+(b) buildings and other erections, structures or
+
+fixtures affixed to any land or to any
+@ building or other erection or structure;
+
+(c) trees, vines, and any other thing whatsoever
+planted or growing upon any land and
+any produce thereof before severance;
+
+(d) springs, wells, water and water rights whether
+held together with, or independently of,
+any land; .
+
+(e) privileges, liberties, easements and any other
+rights and advantages whatsoever apper-
+taining or reputed to appertain to any
+land or to any building or other erection
+or structure; ,
+
+(f) an undivided share in any property
+hereinbefore set out;
+
+“Inspector” means an Electrical Inspector
+appointed under section 10 and includes the Chief
+Inspector ; .
+
+“ installation ” means the whole of any plant or
+apparatus under one ownership or, where a manage-
+ment is prescribed, in the charge of the management,
+designed for the supply or use, or both, as the case
+may be, of electricity, including prime movers, if any,
+with all necessary plant, buildings and land in connec-
+tion therewith, pipe lines, supply lines and consuming
+
+© apparatus, if any;
+
+“local authority’? means the council of a
+municipality, a Village Health Commission and the
+Board of an improvement area operating under any
+local authority enactment, as the case may be, in
+force for the time being;
+
+“ local authority enactment”? means the Municipal
+Corporations Law, the Public Health (Villages) Law, Çep. 240.
+and the Villages (Administration and Improvement) Cap. 243.
+Law or any Law amending or substituted for any
+
+of such Laws;
+
+[SAYFA 6]
+CAP. 171.) ELECTRICITY DEVELOPMENT.
+
+Cap. 240.
+
+Cap. 170.
+
+Establish-
+ment and
+
+incorpora-
+tion of the
+electricity
+authority.
+
+“ management ” means the authorized person for
+the time being placed in charge of an undertaking
+or installation by the Authority, by an authorized
+undertaker, by the owner or by a contractor;
+
+“ member of the Authority ” includes the Chairman,
+the Deputy Chairman, a temporary Chairman, a
+temporary Deputy Chairman and temporary member
+of the Authority;
+
+“ municipality ” means a municipal corporation
+established under the Municipal Corporations Law,
+or any other Law amending or substituted for the
+same;
+
+“property ” includes movable and immovable
+property ;
+
+“ supply line ” means a conductor or conductors or
+other means of conveying, transmitting or distributing
+electricity, together with any casing, coating, covering,
+tube, pipe, insulator or post enclosing, surrounding or
+supporting the same or any part thereof, or any
+building or apparatus connected therewith for the
+purpose of transforming, conveying, transmitting or
+distributing electricity ;
+
+“ system ” means an electrical system in which all
+the conductors and apparatus are electrically or
+magnetically connected;
+
+“ transformation ” means -the transformation of
+voltage from a lower to a higher voltage or vice versa.
+
+(2) All other expressions in this Law have the same
+meaning as in the Electricity Law.
+
+Part II.
+
+ELECTRICITY AUTHORITY.
+
+Constitution of the Electricity Authority.
+
+3. There is hereby established a body to be called the
+Electricity Authority of Cyprus which shall be a body
+corporate with perpetual succession and a common seal
+and with power to acquire, hold and dispose of property,
+to enter into contracts, to sue and be sued in its said name
+and to do all things necessary for the purposes of this Law:
+
+Provided that, during the subsistence of a guarantee
+given under section 20, the Authority shall not alienate,
+
+[SAYFA 7]
+ELECTRICITY DEVELOPMENT. (CAP. 171.
+
+7
+
+mortgage, charge or demise any of its immovable property
+without the approval of the Governor in Council.
+
+4. (1) The common seal of the Authority may from time
+to time be broken, changed, altered and made anew as to
+the Authority seems fit, and until a seal is provided, a stamp
+bearing the inscription “ Electricity Authority of Cyprus ”
+may be used as the common seal.
+
+(2) AU deeds, documents and other instruments requiring
+the seal of the Authority shall be sealed with the seal of the
+Authority in the presence of the Chairman or Deputy
+Chairman of the Authority, and of the Secretary of the
+Authority or some other person authorized by the Authority
+to act in that behalf, who shall both sign every such deed,
+document or other instrument to which such seal is affixed,
+and such signing shall be sufficient evidence that such seal
+was duly and properly affixed.and that the same is the
+lawful seal of the Authority.
+
+5. (1) The Authority shall consist of not more than four
+persons appointed by the Governor (hereinafter referred to
+as “the appointed members”), one to whom shall be
+designated by the Governor as Chairman, and of the person
+for the time being holding the office of the Chief Engineer
+and Manager, as ex officio member who shall be the Deputy
+Chairman:
+
+Provided that the appointed persons need not be persons
+whose full time services shall be required.
+
+(2) The appointed members shall hold office for a period
+of not more than five years subject to such conditions as the
+Governor may determine:
+
+Provided that the Governor may, at any time, remove
+any such member from office without assigning any reason
+therefor.
+
+(3) In case of incapacity from illness or any other tem-
+porary cause or temporary absence from the Colony of
+any appointed member, the Governor may appoint some
+
+other person to act as a temporary appointed member,
+
+during the time such incapacity or absence continues.
+
+(4) The Authority may act notwithstanding any vacancy
+in its membership.
+
+(5) The Chairman or the Deputy Chairman may, by
+instrument in writing, authorize any person to exercise any
+
+Common
+seal. -
+
+Constitution
+of the
+Authority.
+
+[SAYFA 8]
+GAP. 171.). ELECTRICITY DEVELOPMENT.
+
+Remunera-
+tion and
+allowances
+payable to
+members
+of the
+Authority.
+
+Disgualifi-
+cation,
+disposal and
+discovery of
+interests of
+members
+
+of the
+Authority.
+
+power or perform any function, other than the functions
+referred to in subsection (2) of section 4, conferred on the
+Chairman or the Deputy Chairman by or under this Law.
+
+6. There shall be paid to the appointed members of the
+Authority, out of the funds of the Authority, such remunera-
+tion (whether by way of salaries or fees) and such allowances
+for expenses as the Governor in Council may determine.
+
+7. (1) A person shall be disqualified for being appointed
+as member of the Authority so long as he is a member of the
+Executive Council.
+
+(2) Every appointed member shall, within three months
+after his appointment, sell or dispose of all shares in any
+electrical undertaking which, at the time of his appointment,
+he owns or is directly or indirectly interested in for his own
+benefit ; and it shall not be lawful for any member of the
+Authority whilst he holds office to purchase, or become
+interested in, for his own benefit, any shares in any electrical
+undertaking, and if any member of the Authority under any
+will or succession becomes entitled for his own benefit to
+any shares in any electrical undertaking he shall sell or
+dispose of them within three months after he has so become
+entitled thereto.
+
+(3) Any member of the Authority who retains, purchases,
+takes or becomes or remains interested in any shares in any
+electrical undertaking in contravention of the provisions of
+this section shall be disqualified from, and be deemed to have
+vacated, his office as such member.
+
+(4) A member of the Authority, if he is interested in any
+company or undertaking, with which the Authority have or
+propose to make any contract shall disclose to the Authority
+the fact and nature of his interest and shall not take part
+in any deliberation or decision of the Authority relating to
+such contract, and such disclosure shall be forthwith
+recorded in the minutes of the Authority.
+
+(5) In this section the expression “ shares in any electrical
+undertaking’ means any stock, shares, debentures,
+debenture stock, bonds or other securities of any company
+engaged in the generation, distribution or supply of elec-
+tricity or the manufacture of or wholesale or retail dealing
+in electrical apparatus and includes any share or interest in
+any unincorporated undertaking similarly engaged but shall
+not include any stock, shares, debentures, debenture stock
+
+[SAYFA 9]
+ELECTRICITY DEVELOPMENT. CAP. 171.
+
+bonds or other securities of any company whose business,
+as a generator, supplier or distributor of electricity consists
+in the generation, supply or distribution of electricity for
+consumption solely by such company.
+
+8. (1) The guorum at all meetings of the Authority shall
+-be two members present in addition to the Chairman or
+Deputy Chairman.
+
+(2) The Chairman, and in his absence, the Deputy Chair-
+man shall preside at such meetings:
+
+Provided that when the votes of the members present
+with regard to any question shall be equally divided the
+presiding member shall have a casting vote in addition to
+his own.
+
+9. Subject to the provisions of this Law, the Authority
+may make standing orders regulating its own procedure
+generally, and, in particular, regarding the holding of
+meetings, the notice to be given of such meetings, the pro-
+ceedings thereat, the keeping of minutes, and the opening,
+keeping, closing and audit of accounts.
+
+Officers and Servants of the Authority.
+
+10. (1) The Authority shall appoint a Chief Engineer who
+shall be the General Manager, a Secretary, and such other
+officers, agents and servants as the Authority may, from
+time to time, determine, and, in particular, may appoint
+and employ such Electrical Inspectors as may be necessary
+for the purpose of inspecting undertakings and electrical
+plant, apparatus and works and of performing such other
+duties as may be required by the Authority, and may in
+like manner appoint an officer as Chief Electrical Inspector
+to supervise the methods and details of such inspection as
+aforesaid, and to perform such other duties as may be required
+by the Authority.
+
+(2) The Chief Inspector shall have and may exercise all
+the powers vested in an Inspector by this Law and, with
+the approval of the Governor, may exercise all or any of
+the powers vested in an Inspector by the Electricity Law,
+and any regulations made thereunder.
+
+11. (1) Allmembers, officers and servants of the Authority
+shall be deemed to be employed in the public service within
+the meaning of the Criminal Code.
+
+Quorum.
+
+Procedure
+of the
+Authority.
+
+Officers and
+servants
+
+of the
+Authority.
+
+Cap. 170.
+
+Members,
+officers and
+servants of.
+the Authori-
+ty deemed
+public
+officers.
+Cap. 154.
+
+[SAYFA 10]
+10. CAP. 171.) ELECTRICITY DEVELOPMENT.
+
+Cap. 313. (2) The Public Officers Protection Law shall apply to
+any action, prosecution or other proceedings against the
+Authority, or against any member, officer or servant thereof
+in respect of any act, neglect or default done or committed
+by him in such capacity.
+
+General Functions of the Authority.
+
+ae 12. (1) Subject to the provisions of this Law, it shall be
+the duty of the Authority to—
+
+(a) generate electricity and to maintain and work any
+Authority installation or Authority under-
+taking;
+
+(6) secure the supply of electricity at reasonable
+prices;
+
+(0) carry on any business usually associated with an
+electricity undertaking ;
+
+(d) promote and encourage the use of electricity and
+especially the use thereof for agricultural, indus-
+trial and manufacturing purposes;
+
+(e) promote and encourage the development of the
+natural resources of the Colony in connection
+with the generation of electricity;
+
+(f) make regulations in accordance with the provisions
+of this Law;
+
+(g) advise the Governor on all matters relating to the
+generation, transmission, distribution and use of
+electricity.
+
+(2) For the purposes of subsection (1), the Authority may—
+
+(a) exercise from a date to be appointed by the
+Governor such of the powers and perform such
+of the duties of the Director of Public Works
+
+. conferred and imposed upon him under the
+Cap. 170. Electricity Law as the Governor may direct:
+Provided that the expenses and cost of the
+exercise of such powers and the performance of
+such duties shall be paid out of the public
+revenue;
+
+(6) purchase electricity for any of the purposes of
+subsection (1) ;
+
+(c) carry on all such activities as may appear to it
+reguisite, advantageous or convenient for or in
+connection with the discharge of its duties under
+subsection (1).
+
+[SAYFA 11]
+ELECTRICITY DEVELOPMENT. [CAP. 171.
+
+11
+
+(3) Save where other provision is made in this Law, the
+Authority shall, for the purposes of subsection (1), be
+subject to the same obligations and perform the same duties
+imposed by the Electricity Law, and shall enjoy all the rights
+and exercise all the powers conferred by the same, on an
+authorized undertaker.
+
+13. (1) As soon as the Scheme which is outlined in the
+First Schedule (hereinafter referred to as “the Scheme ”)
+is approved by the Governor in Council, the Authority
+shall become the undertaker for the generation, supply and
+distribution of electricity throughout the Colony excluding
+any area of supply within which another authorized under-
+taker is operating under the Electricity Law:
+
+Provided that the Authority may, if the Governor so
+directs, provide, even within such area, bulk supply to any
+Department of Her Majesty’s Government.
+
+(2) When in pursuance of subsection (1) the Authority
+becomes the undertaker, the Authority shall proceed with
+the construction of a power station and a transmission and
+distribution system as provided for in the Scheme.
+
+14. All contracts, agreements, deeds, bonds, instruments
+and working arrangements, subsisting immediately before
+the commencement of this Law, entered. into by or on
+behalf of the Government and affecting the Scheme, shall
+be of as full force and effect against or in favour of the
+Authority, and enforceable as fully and effectually as if,
+instead of the Government or any person acting on behalf
+of the Government, the Authority had been named therein
+or had been a party thereto.
+
+15. The Authority shall supply, in any area supplied with
+
+electricity by the Authority, electricity to any person,
+
+other than an authorized undertaker, requiring a supply
+of electricity for power (in this section referred to as “a
+power user ’’) if such power user undertakes to enter into
+a contract with the Authority, giving such security as the
+Authority may require, to take or continue to receive and
+to pay for a supply of electricity upon terms and conditions
+affording an adequate return to the Authority.
+
+16. The Authority may require any person supplying
+electricity for public or private purposes to give to the
+Authority such information relating to such supply, and
+
+C.— III. k
+
+Cap. 170.
+
+Colony-wide
+electrifica-
+tion scheme.
+
+First
+Schedule.
+
+Cap. 170.
+
+Transfer of
+existing
+contracts,
+etc., of
+Government
+to the
+Authority.
+
+Duty of the
+Authority
+to supply
+electricity
+to power
+users.
+
+Power to the
+
+Authority
+
+to reguire
+
+information. ~
+
+[SAYFA 12]
+12
+
+CAP. 171.) ELECTRICITY DEVELOPMENT.
+
+Power to the
+Authority
+
+to sell, etc.,
+electrical
+fittings.
+
+the accounts in respect thereof, as the Authority considers
+
+necessary, and any such person or any of his servants
+
+or agents, who, on being requested to do so, fails, without
+reasonable excuse, to give to the Authority such information
+as aforesaid, within thirty days from the date of the request,
+shall be guilty of an offence and shall be liable on conviction
+to a fine not exceeding fifty pounds, and, in the case of
+continued failure or refusal, to a fine not exceeding ten
+pounds for every day or part of a day on which such failure
+or refusal is continued after the first day on which a con-
+viction is had.
+
+17. (1) Subject to the provisions of this section, the
+Authority may provide, sell or let on hire, electric lines,
+fittings, apparatus and appliances for lighting, heating and
+motive power, and for all other purposes for which electricity
+can or may be used (in this section called “ electrical
+fittings ”) and may instal, connect, repair, maintain and
+remove the same and with respect thereto may demand and
+take such remuneration or rents and charges and may
+make such terms and conditions as may be agreed upon.
+
+(2) The exercise of the powers of subsection (1) shall be
+subject to the following restrictions :—
+
+(a) the Authority shall not sell electrical fittings
+except—
+
+(i) to a consumer or a person who intends
+to be a consumer of electricity supplied by it;
+or
+
+(ii) to a person who, being engaged in the
+business of selling and installing electrical
+fittings, requires such fittings to enable him to
+supply them to a person who is or intends to be
+a consumer of electricity supplied directly or
+indirectly by the Authority;
+
+(6) the Authority shall so adjust the charges to be
+made by it under the said subsection as to meet
+any expenditure incurred by it in the exercise
+of the powers thereof (including interest upon
+and sinking fund charges in respect of money
+borrowed for the purposes of the said subsection) ;
+
+(c) the prices charged by the Authority for the sale of
+any electrical fitting shall not be less than the
+recognized retail prices unless the sale is to a
+person engaged in the business of selling and
+
+[SAYFA 13]
+ELECTRICITY DEVELOPMENT. [CAP. 171.
+
+13
+
+installing electrical fittings, in which case the
+prices shall not be less than the recognized
+trade prices.
+
+(3) The Authority may maintain shops and showrooms
+for the display, sale and hire of electrical fittings and
+conduct displays, exhibitions and demonstrations of
+electrical fittings, and generally do all things (including
+advertising) incidental to the provision sale and letting
+on hire of electrical fittings and the promotion and encourage-
+mert of the use of electricity.
+
+Part III.
+
+GENERAL FINANCIAL P ROVISIONS.
+
+18. For the purpose of enabling the Authority to carry
+out its functions under this Law, the Authority may, with
+the consent of the Governor, borrow money in such
+manner and subject to such conditions as the Governor
+may deem fit to impose.
+
+19. (1) The Authority may, for the purpose of raising
+money which it is authorized to borrow under this Law and,
+subject to section 39, for the payment of any compensation
+payable under this Law, issue stock debentures or other
+securities (hereinafter in this Law referred to as
+“ securities ”).
+
+(2) All such securities and interest thereon shall be
+charged on the undertaking and on all the revenues of the
+Authority.
+
+(3) Subject to the provisions of this Law, any securities
+created by the Authority under the powers of this Law shall
+be issued, transferred, dealt with and redeemed according
+to Regulations made by the Governor in Council.
+
+20. The Government may guarantee in such manner and
+upon such terms as it may think fit the payment of the
+interest and principal or either of them, of any loan proposed
+to be raised by the Authority.
+
+21. All sums received by the Authority shall be paid into
+
+a separate fund, and out of that fund the remuneration
+
+(whether by way of salaries or fees) and allowances of the
+
+members of the Authority (including superannuation
+k (2)
+
+Power to the
+Authority
+to borrow.
+
+Power to the
+Authority
+
+to issue
+securities.
+
+Power to
+Government
+to guarantee
+loans to the
+Authority.
+
+Expenses
+of the
+Authority.
+
+[SAYFA 14]
+14 Ö GAP. 171) ELECTRICITY DEVELOPMENT.
+
+allowances and gratuities, if any, in the case of whole-time
+members) and the salaries, remuneration, superannuation
+allowance and gratuities of the officers and servants of the
+Authority, and all expenses incurred by the Authority,
+shall be paid including repayment by the Authority to the
+Government of the principal of an interest on any advances
+made by Government to the Authority.
+
+im “22. All moneys of the Authority not immediately required
+to be expended in the meeting of any obligations or the
+discharge of any functions of the Authority may. be
+invested in such securities as may be approved by the
+Governor.
+
+paneer 23. (1) All charges made by the Authority for electricity
+charges for Sold by them in bulk or direct to consumers, and for
+electricity. services rendered by the Authority, shall be fixed at such
+rates and on such scales that the revenue derived in any
+year by the Authority from such sales and services, together
+with their revenue (if any) in such year from other sources,
+will be sufficient and only sufficient, as nearly as might be,
+to pay all remunerations, allowances, salaries, gratuities,
+working expenses and other outgoings of the Authority
+properly chargeable to income in that year including the
+payments falling to be made in such year by the Authority
+in respect of the interest on, or repayment of, the principal
+of any money borrowed by the Authority and provision for
+the redemption of securities issued by the Authority under
+this Part, and such sums as the Authority may think proper
+to set aside in that year for reserve fund, extensions,
+renewals, depreciation loans, and other like purposes.
+The charges under this section may, if the Authority
+thinks fit, be fixed at different rates and scales for different
+localities, but so that no undue preference shall be given to
+any locality:
+Provided that nothing in this section shall prevent the
+Authority from charging other prices by special agreement.
+
+(2) It shall be lawful for the Authority to meet payments
+of interest falling due in any year from money borrowed,
+whilst the expenditure out of such moneys remains unremu-
+nerative, for such period and subject to such conditions as
+the Governor in Council may determine.
+
+Accounts 24. (1) The Authority shall cause proper accounts and
+books in relation thereto to be kept, and shall prepare an
+annual statement of accounts.
+
+and audit.
+
+[SAYFA 15]
+© ELECTRICITY DEVELOPMENT. (GAP. 171. — 15
+
+(2) Separate accounts shall be kept in relation to moneys
+received and expended by the Authority in connection with
+the manufacture, provision, sale and letting on hire of
+electrical equipment.
+
+(3) The accounts of the Authority and their officers shall
+be audited by an auditor or auditors appointed annually
+by the Authority.
+
+As soon as the accounts of the Authority have been
+audited, the Authority shall send a copy thereof to the |
+
+ei) Governor together with a copy of any report of the auditor
+thereon, and shall publish the accounts in such manner
+as the Governor may direct, and shall place copies thereof
+on sale at a price not exceeding one shilling a copy.
+
+(4) The auditor’s fees and any expenses of the audit shall
+be paid by the Authority.
+
+25. The Authority shall be exempt from— © Exemption
+(a) payment of any dues or duties under any Customs geni
+
+Law for the time being in force on machinery, stamp
+including parts and accessories, apparatus, “ts.
+appliances, vehicles, instruments, tools and
+stores and materials of whatsoever kind im-
+ported for the use of the Authority and not in-
+tended for sale to the general public;
+
+(0) payment of stamp duty under any Law for the
+time being in force relating to stamp duties;
+
+(c) payment of any Government tax, or rate of any 2 of 9/54.
+
+_ local authority, in respect of any supply line.
+
+26. The Authority shall, as soon as practicable after the Annual
+end of each financial year, cause to be made and transmit “P©*
+to the Governor a report dealing generally with the activities
+of the Authority during the preceding financial year, and
+containing such information relating to the proceedings and
+
+@ policy of the Authority as can be made public without
+detriment to the interests of the Authority.
+
+Part IV.
+
+ACQUISITION OF PROPERTY AND OF UNDERTAKINGS AND
+MATTERS INCIDENTAL THERETO.
+
+Acquisition of Immovable Property.
+27. (1) The Authority may acquire immovable property Power to
+
+acquire
+
+for the purpose of any of its functions under this Law and, immovable
+if any such immovable property cannot be acquired’ by Property.
+
+[SAYFA 16]
+16
+
+CAP. 171.) ELECTRICITY DEVELOPMENT. -
+
+Second
+Schedule.
+
+Authority
+to acquire
+under-
+takings.
+
+agreement, the Authority shall cause a notice in the form
+set out in the Second Schedule to be published in the
+Gazette and also to be posted at a conspicuous place in the
+town or village in which the immovable property to be
+acquired is situated.
+
+(2) At the expiration of the period set out in the notice,
+the Authority shall forward to the Governor a plan of the
+immovable property to be acquired together with particulars
+as regards its owners, estimated value, description and
+other matter as may be necessary for the purpose together
+with any objection or statement made against the proposed
+acquisition.
+
+(3) If the Governor approves the plan submitted and
+considers it expedient, having regard to all the circum-
+stances, that the Authority should be permitted to acquire
+the immovable property in question, he may, by notification
+published in the Gazette, sanction the acquisition of such
+immovable property; and, thereupon, the immovable
+property shall vest absolutely in the Authority free from all
+encumbrances and the Director of Lands and Surveys shall
+cause amendments of registration to be effected in accor-
+dance with the plan and particulars so approved by the
+Governor; and, if the owner of the immovable property
+does not agree with the Authority as to the sum which,
+
+_ subject to approval of the Governor, shall be paid as
+
+compensation for it, the sum shall be determined in
+accordance with the provisions of any Law in force for the
+time being, providing for the acquisition of land for public
+purposes.
+
+Acquisition of Undertakings.
+
+28. (1) The Authority shall, on such date or dates as
+shall be appointed by the Governor, acquire the under-
+takings of all authorized undertakers by serving personally
+or by registered post on each such undertaker a notice
+therefor in writing setting out the appointed date for the
+acquisition of the undertaking (in this Law referred to as
+“ the date of acquisition ’’):
+
+Provided that the Governor in Council may exempt
+from the operation of this subsection any authorized
+undertaker whose business as a supplier of electricity
+consists wholly of the supply of electricity for consumption
+by such undertaker and not for sale.
+
+[SAYFA 17]
+@ ELECTRICITY DEVELOPMENT. [CAP. 171. 17
+
+(2) The Authority shall, on the date of acquisition,
+become the undertaker as provided for by this Law for the
+area of supply of the former undertaker, and for that
+purpose shall, on or before the date of acquisition, make an
+order (in this Law referred to as “ a vesting order ”) having
+as from that date such operation as is provided in sub-
+section (3).
+
+(3) The vesting order shall operate as follows:—
+
+(a) so as to transfer to and vest in the Authority
+
+GE without any conveyance, assignment or transfer
+whatsoever, free from all charges, encum-
+brances, rights or obligations of any nature, 2 of 15/53.
+all the property and assets owned and used
+by the former undertaker or, having been paid
+for by such undertaker, used or employed by
+him at the date of the vesting order for the
+purposes of the undertaking, anything contained
+in section 22 of the Immovable Property
+(Tenure, Registration or Valuation) Law or cap. 224.
+any contract or agreement notwithstanding;
+and
+
+(6) so as to transfer to and vest in the Authority all
+book debts and other moneys owing to the
+former undertaker on account of the under-
+taking at the date of the vesting order and the
+right to sue for, recover and give receipts for
+such debts and moneys; and
+
+(c) so as to transfer to the Authority the rights and
+liabilities of the former undertaker under any
+contract in respect of a work in connection with
+the undertaking which is in course of con-
+struction, extension or repair at the date of the
+vesting order; and
+
+@ (d) so as to impose on the Authority the liability for,
+and obligation to indemnify the former under-
+taker against, such of the debts and liabilities
+of the former undertaker at the date of the
+vesting order as may be transferred to the
+Authority by or in pursuance of section 29:
+
+Provided that no contract entered into by the undertaker
+on or after the 5th day of December, 1951, and no debt or
+liability incurred on or after that date by such undertaker
+shall be binding on the Authority, unless entered into or
+incurred with the prior approval of the Governor,
+
+[SAYFA 18]
+18 CAP. 171.) ELECTRICITY DEVELOPMENT.
+
+(4) For the purposes of sections 28 to 30, both inclusive—
+“the undertaking ” means all or any portion of the
+works necessary for generating electric power either
+by fuel or by head of water or by any other means
+whatsoever, and for the transmission, transformation,
+distribution and sale of energy.
+
+Compensa- 29. Where the former authorized undertaker of an under-
+respectof taking acquired by the Authority under section 28 is a
+sequined 5 local authority the acquisition shall be on the following
+from a local terms :—
+
+authority. (a) no purchase price shall be payable to the local
+authority ;
+
+(0) the debts and liabilities of the local authority as
+former undertaker shall be transferred to the
+Authority by virtue of the vesting order;
+
+(co) if the local authority so requires, the Authority
+shall pay to such authority any sums which
+before the date of acquisition have been raised
+for the purpose of the undertaking by means
+of any local rate and have not been made good
+to the general funds of the local authority out
+
+_ of the revenues of the undertaking ;
+
+(d) nothing in the foregoing provisions shall affect the
+security for any loan borrowed by a local
+authority as former undertaker.
+
+Meg 30. (1) Where the authorized undertaker of an under-
+respect of o taking acquired by the Authority under section 28 is not a
+noquied 8 local authority, the compensation payable by the Authority
+fromany Oo to such owners in respect of the acquisition of such under-
+her than (taking shall, in default of agreement, which shall be subject
+a local to the approval of the Governor, be determined by
+authority. arbitration upon the basis set out in subsection (2).
+
+(2) In determining the compensation to be paid under
+subsection (1) the arbitrators or the Court, as the case
+may be, shall have regard to the following :—
+
+(a) the fair market value at the date of acquisition
+by the Authority of any immovable property,
+machinery, plant, apparatus, materials and
+works belonging to the authorized undertaker
+suitable to and used by him for the purpose
+of the undertaking due regard being had to the
+nature and condition of such immovable pro-
+perty, machinery, plant, apparatus, materials
+
+[SAYFA 19]
+© _ ELECTRICITY DEVELOPMENT. [CAP. 171. 19
+
+and works, and to the state of repair thereof,
+and to the circumstance that they are in such a
+position as to be ready for immediate working
+and to the suitability of the same for the
+purposes of the undertaking ;
+
+(0) the value, as assessed by the arbitrators or the
+Court, of any book debts and other moneys and
+of any rights and liabilities transferred to the
+
+. Authority by operation of paragraphs (b) and (c)
+@ of subsection (3) of section 28;
+
+(c) the excess over the amounts assessed under para-
+graphs (a) and (b) of this subsection of the sum
+that, in the opinion of the arbitrators or the
+Court, represents the reasonable capital value
+of the net maintainable income that would, in
+the opinion of the arbitrators or the Court,
+accrue to the acquired undertaking were it not
+acquired, after deduction from such net main-
+tainable income of the estimated net income
+from any assets not acquired and interest
+derived from the investment of depreciation,
+renewal, reserve and other surplus. revenue
+funds. ;
+
+(3) For the purposes of subsection (2) the net maintain-
+able income of the acquired undertaking shall mean the
+annual income that, in the opinion of the arbitrators or the
+Court, would be available for distribution among the owners
+of the undertaking after payment of all charges thereon
+(including any tax, other than income tax, to which the
+undertaking may have been liable) and in computing the
+net maintainable income of the acquired undertaking the
+arbitrators or the Court shall take into account—
+
+“(a) the past profits of the undertaking to the extent
+@ that they are shown in the audited accounts
+of such undertaking in respect of the last five
+complete financial years preceding acquisition
+or such shorter period as may have elapsed
+since the undertaking commenced trading and
+to the extent that they are, in the opinion of
+the arbitrators or the Court, not excessive
+having regard to the following :—
+
+; (i) the suitability of the amount of the
+ee charges for maintenance in relation to the
+physical condition of the assets; |
+
+[SAYFA 20]
+CAP.:171.) ELECTRICITY DEVELOPMENT.
+
+Transfer to
+the Autho-
+rity of
+rights of
+
+local autho-
+
+rities to
+acquire or
+purchase
+under-
+takings.
+Cap. 170,
+
+(ii) the sufficiency of the provision made for
+depreciation of assets;
+
+(iii) the adequacy of the provision made
+whether by way of sinking fund or otherwise in
+order to preserve the capital invested in the
+undertaking where the ability of the under-
+taking to carry on business is restricted by the
+terms of any agreement or concession, whether
+by way of a condition that all or any of the
+assets shall be surrendered, by a restriction
+upon the duration of the agreement or con-
+cession, or by any other means;
+
+(iv) the appropriateness of the sums charged
+in respect of fees or other emoluments or re-
+muneration of directors or partners;
+
+(v) the adequacy of any other'charges;
+
+(vi) the reasonableness of the rates of charge
+made by the undertaker for the supply of
+electricity to consumers provided that a maxi-
+mum charge laid down by statutory authority
+shall not be regarded as any criterion;
+
+(0) the fact that if the undertaking had not been
+acquired, it would have been subject to statutory
+provisions relating to the fixing of maximum
+prices and the limitation of profits;
+
+(c) the terms of any agreement or concession affecting
+the acquired undertaking.
+
+(4) For the purposes of subsection (2) the reasonable
+capital value of the net maintainable income shall be the
+capital sum which would, in the opinion of the arbitrators
+or the Court, yield an annual sum equivalent to the net
+maintainable income if invested in a business concern or
+otherwise in Cyprus at such rate of interest (not being less
+than six per cent. nor more than fourteen per cent. per
+annum) as, in the opinion of the arbitrators or the Court,
+is reasonable.
+
+General.
+
+31. Where under the Electricity Law or any Order made
+thereunder or where under any contract or agreement any
+right to acquire or purchase the whole or any part of the
+undertaking of an authorized undertaker is vested in any
+local authority, the right shall, by virtue of this Law, be
+transferred to, and vest in, the Authority as if, instead of
+
+[SAYFA 21]
+ELECTRICITY DEVELOPMENT. [CAP. 171.
+
+21
+
+the local authority or any person acting on behalf of such
+authority, the Authority had been named therein or had
+been a party thereto.
+
+32. (1) Where a vesting order is made by the Authority
+as respects any undertaking, every person who, immediately
+before the date of acquisition, was in the regular employment
+of the former undertakers in relation to the undertaking
+and was in such employment before the 5th day of
+December, 1951, shall on the date of acquisition (unless
+such person otherwise elects) become an officer or servant
+of the Authority upon the same terms as on the 5th day
+of December, 1951, applied to the employment of such
+person by the former undertakers, with such increase of
+salary and other benefits as may before the date of acquisi-
+tion have accrued to him from those terms by effluxion
+of time, and such further increases of salary and other
+benefits as may have been conferred upon him by the
+former undertakers after the 5th day of December, 1951,
+and been approved by the Director of Public Works.
+
+(2) Where a vesting order is made as aforesaid, a person
+who, immediately before the date of acquisition was in the
+regular employment of the former undertakers in relation
+to the undertaking and was first so employed on or after
+the 5th day of December, 1951, shall, on the date of
+
+acquisition (unless such person otherwise elects) become —
+
+an officer or servant of the Authority upon the same terms
+and conditions as immediately before the date of acquisition
+applied to the employment of such person by the former
+undertakers:
+
+Provided that this subsection shall not apply to any
+person unless his employment by the former undertakers
+in relation to the undertaking, and the terms and conditions
+upon which he was so employed immediately before the
+date of acquisition have been approved by the Director of
+Public Works.
+
+(3) If any question arises under this section as to whether
+any person—
+
+(a) was at any date in the regular employment of the
+
+former undertakers; or
+(6) was employed in relation to the undertaking of the
+former undertakers,
+that question shall be determined by the Commissioner of
+Labour, whose decision thereon shall be final.
+
+Provisions as
+to transfer of
+officers and
+servants
+
+to the
+Authority.
+
+[SAYFA 22]
+22
+
+GAP. 171.) ELECTRICITY DEVELOPMENT.
+
+Compensa-
+tion for
+alteration
+of terms of
+
+employment.
+
+3 of 9/54.
+
+(4) In this section, the expression “ conditions ” includes
+conditions as to the grant of any pension or superannuation
+allowance.
+
+(5) This section applies to any person whose whole time
+was devoted to the duties of his office or service under the
+former undertakers in relation to the undertaking.
+
+33. (1) If, after the 5th day of December, 1951, and
+within three years from the date of acquisition of the under-
+taking of any authorized undertaker by the Authority,
+any officer or servant of the authorized undertaker who has,
+before the 5th day of December, 1951, been regularly
+employed in or about the undertaking proves to the satis-
+faction of a referee or a board of referees appointed by the
+Governor (hereinafter in this section referred to as “the
+referee ”), that, in consequence of the event aforesaid, such
+officer or servant—
+
+(a) has suffered loss of employment, or diminution
+of salary, wages or emoluments, otherwise than
+on the grounds of misconduct, incapacity, or
+superannuation; or
+
+(6) has relinquished his employment in consequence
+of being required to perform duties such as
+were not analogous, or were an unreasonable
+addition to those which before the 5th day of
+December, 1951, such officer or servant had
+been required to perform; or
+
+(c) has been placed in any worse position, as compared
+with his position on the 5th day of December,
+1951, in respect to the conditions of his service,
+
+and the Authority does not show to the satisfaction of the
+referee that equivalent employment on the like conditions
+as those obtaining with respect to such aforesaid officer or
+servant on the 5th day of December, 1951, was available,
+then there shall be paid to him by the Authority such
+compensation as may be determined by the referee, pro-
+vided that such compensation shall not exceed one-twelfth
+of the annual sum of the emoluments received, subject
+to subsection (1) of section 32, by the person immediately
+before the date of acquisition for each completed year of his
+service in the undertaking.
+
+(2) Any decision of the referee under subsection (1) shall
+be subject to appeal to the Governor in Council ws
+decision thereon: shall be final and conclusive.
+
+[SAYFA 23]
+ELECTRICITY DEVELOPMENT. [CAP. 171.
+
+23
+
+34. (1) The Governor in Council at the reguest of the
+Authority may declare any lake, river or waterway not
+privately owned to be a prescribed source of water for the
+purposes of this Law and in any such declaration he may
+ımpose suchconditionsandrestrictions as to him may seem fit.
+
+(2) Notwithstanding the provisions of any Law, no
+person shall dam up or otherwise interfere with any such
+prescribed source of water without first serving on the
+Authority a three months’ notice in writing specifying the
+works he proposes to undertake. If, in the opinion of the
+Authority, any dam or works will materially affect the
+
+functions of the Authority under this Law, the Authority
+
+may—
+(a) require such person to desist from undertaking such
+dam or work; or
+
+(6) consent to such undertaking either conditionally or
+otherwise :
+Provided that any person dissatisfied with the action
+taken by the Authority may appeal to the Governor in
+Council, whose decision thereon shall be final.
+
+(3) Any person who—
+
+(a) dams up or otherwise interferes with any source of
+water prescribed under subsection (1) without
+serving the notice required by subsection (2);
+or
+
+(0) undertakes any work prohibited under this section;
+or
+
+(c) fails to comply with any condition imposed under
+this section, ,
+shall be guilty of an offence and shall be liable, on conviction,
+to a fine not exceeding one hundred pounds and, if the
+offence be continued, to a fine not exceeding five pounds
+for every day or part of a day during which the offence is
+continued after the first day on which a conviction is had.
+
+35. The Chairman or any person authorized by him in
+that behalf may, at all reasonable times, enter upon any
+land and, subject to twenty-four hours’ prior notice in
+writing to its occupier, enter upon any premises, and there
+to do such acts or things as may be reasonably necessary
+for the purpose of survey, examination or investigation,
+preliminary or incidental to the exercise of any of the
+functions. of the Authority under this Law, or connected
+with the Scheme:
+
+Power to
+prescribe
+sources of
+water.
+
+Entry of
+land for
+surveys and
+other pre-
+liminary
+purposes.
+
+[SAYFA 24]
+24
+
+GAP. 171.) ELECTRICI TY DEVELOPMENT.
+
+Power to
+enter on
+land for
+purposes of
+authority
+undertaking.
+
+Compen-
+sation pay-
+able under
+sections
+
+35 and 36.
+
+Payment of
+compen-
+sation, etc.,
+by the
+Authority.
+4 of 9/54.
+
+Provided that the Authority shal] pay compensation for
+any injury caused by such entry or by doing the aforesaid
+acts or things in accordance with the provisions of section 37.
+
+36. For the purpose of constructing a supply line, or
+maintaining or repairing any authority undertaking, the
+Chairman or any person authorized by him in that behalf
+may, at all reasonable times, enter upon any land and may
+carry out all necessary works and repairs, and may, in the
+course thereof, fell or lop trees, remove vegetation and do
+all other things necessary to such purpose:
+
+Provided that the Authority shall pay compensation for
+any injury caused by such entry or by doing the aforesaid
+acts or things in accordance with the provisions of section 37.
+
+37. The amount of compensation, if any, payable under
+the provisions of sections 35 and 36 shall be assessed by a
+person appointed by the Governor:
+
+Provided that no further compensation shall be allowed
+for the felling or lopping of trees or removal of vegetation
+where such action is necessary for the maintenance of the
+supply line and such trees or vegetation have grown or
+been allowed to grow since the payment of compensation
+under section 38 in such a manner as to obstruct or interfere
+with the electric supply lines or posts or apparatus:
+
+Provided further that no compensation shall be payable
+by the Authority in respect of any tree within ten feet of
+the centre line of any road constructed or maintained by.
+by the Public Works Department or by any local authority,
+unless it is proved that such tree was in existence prior to
+the construction of the road.
+
+38. (1) Compensation or other moneys payable under
+the provisions of this Part in respect of any property or
+undertaking acquired by the Authority under the provisions
+of this Part shall be discharged as soon as the amount has
+been agreed or otherwise finally determined under the
+provisions of this Law together with interest thereon at the
+rate of four per cent. per annum as from the date of the
+acquisition to the date of final payment:
+
+Provided that where any sum is paid or offered for
+payment by the Authority on account of such compensation
+or other moneys such interest shall be payable on the
+amount of such compensation or other moneys from the
+date of the acquisition to the date of such payment or offer
+and thereafter on any balance to the date of final payment:
+
+[SAYFA 25]
+ELECTRICITY DEVELOPMENT. (CAP. 171.
+
+25
+
+Provided further that in the case of any property or
+undertaking acquired by the Authority under the provisions
+of this Part on or before the first day of January, 1954,
+no such interest shall be payable in respect of any com-
+pensation or other moneys agreed to and paid in full
+settlement thereof.
+
+(2) Where any property or undertaking acquired as
+aforesaid is subject to any mortgage or any other legal
+charge whatsoever, the compensation or such part thereof
+as may be sufficient to discharge the mortgage or other
+charge, shall be paid to the mortgagee or person in whose
+favour the charge operates, in satisfaction in whole or in
+part of the sum secured by the mortgage or which is subject
+to the charge.
+
+39. The Authority may, with the consent of the persons
+entitled thereto, discharge the whole or any part of any
+compensation or other moneys payable under this Part in
+respect of any undertaking, generating station, or trans-
+mission line, or any other property, acquired by the
+Authority under this Part by the issue to or creation in
+favour of the persons entitled thereto of such amount of
+securities as are equivalent in value to the whole or part,
+as the case may be, of the compensation or other moneys
+in respect of which the securities are issued or created.
+
+40. Except as otherwise provided in this Law, in all cases
+where compensation is payable under this Law, the amount
+of such compensation shall, in default of agreement, be
+determined by arbitration under the provisions of the
+Arbitration Law or any Law amending or substituted for
+the same, as modified by the provisions of the Third
+Schedule.
+
+PART V.
+
+MISCELLANEOUS.
+
+41. (1) Notwithstanding anything in this Law or the
+Electricity Law contained, a person shall not be entitled
+to demand or continue to receive, for the purposes of
+stand-by supply only, from the Authority a supply of
+electricity for any premises having a separate supply of
+electricity or a supply (in use or ready for use for the
+purpose for which the stand-by supply of electricity is
+
+Discharge of
+compensa-
+tion, etc.,
+by issue of
+securities.
+
+Determina-
+tion of
+compensa-
+tion by
+arbitration.
+Cap. 4.
+Third
+Schedule.
+
+Stand-by
+supplies.
+Cap. 170.
+
+[SAYFA 26]
+“CAP. 171.) ELECTRICITY DEVELOPMENT:
+
+iz
+
+Reduction
+or cessation
+
+of supply;
+liability.
+
+Restriction
+on the grant
+of Orders
+under the
+Electricity
+Law.
+
+Cap. 170.
+
+required) of gas, steam or other form of energy unless he
+has agreed with the Authority to pay such minimum
+annual sum as the Authority may require.
+
+(2) In this section, “ stand-by supply ” means a supply
+appertaining to an agreed period made for the availability
+of a supply of electricity whether a supply is actually taken
+or not. ;
+
+42. (1) The Authority may reduce, as it may think fit,
+the quantity of electricity supplied to any consumer if, by
+reason of any unforeseen circumstances beyond its control,
+it appears to the Authority that the supply of electricity
+generated is insufficient to enable the full quantity to be
+conveniently supplied.
+
+(2) Where the quantity of electricity has been reduced
+as aforesaid—
+
+(a) no liability shall be incurred by the Authority in
+respect of any loss or damage caused by such
+reduction; and
+
+(6) in appropriate cases, an abatement in the charges
+for the supply of energy shall be made in
+proportion to the reduction made.
+
+(3) The Authority shall not be liable for any damage to
+person or property or for any cessation of the supply of
+energy which may be due to any accident, fair wear and
+tear, or overloading due to unauthorized connection of
+apparatus, or to the reasonable requirements of the system,
+or to defects in any installation not provided by the
+Authority, but shall be liable only when such damage or
+cessation is shown to have resulted from negligence on the
+part of persons employed by the Authority, its agents or
+servants, as the case may be, or from faulty construction
+of the Authority installation or Authority undertaking.
+
+43. On and after the date of the coming into operation
+of this Law and notwithstanding anything contained in the
+Electricity Law—
+
+(a) no Order shall be granted under the provisions of
+the said Law to any person, unless notice of the
+particulars of the application for such Order
+has been given to the Authority and unless the
+
+_ Authority has either expressed to the Governor
+its inability to undertake the function in respect
+of which such application is made or, within
+
+[SAYFA 27]
+O ELECTRICITY DEVELOPMENT. [CAP. 171. 27
+
+such time after the giving of such notice as the
+
+Governor may deem reasonable, failed to satisfy
+
+the Governor of its ability to undertake such
+functions ;.
+
+(6) no Order shall be capable of being transferred
+unless the consent of the Authority to the
+transfer be evidenced by writing under the hand
+of the Chairman.
+
+PART VI.
+REGULATIONS, Etc.
+
+44. The Authority may, with the approval of the Regulations,
+Governor, make regulations, not inconsistent with the
+provisions of this Law, or any other Law in force for the
+time being, to be published in the Gazette, for the better
+carrying of this Law into effect and, without prejudice to
+the generality of the powers hereby conferred, regulations
+shall be made in respect of all or any of the following
+matters :—
+
+(a) to provide for the establishment and constitution
+of a scheme for the payment, of such super-
+annuation allowances and gratuities to such of
+the members, officers and servants of the
+Authority and, upon such terms and conditions
+as may be specified in the regulations;
+
+(0) to prescribe the rate of charges to be made in
+respect of energy supplied and apparatus hired,
+and the fees payable in respect of the inspection,
+testing and maintenance of consumer’s installa-
+tions and apparatus, and in respect of the fixing
+and testing of meters, and in respect of any
+other services properly rendered on account of
+
+© consumers ;
+
+(c) to prescribe the forms of applications for the supply
+of electricity, the manner of effecting the supply
+of electricity and the incidence of the charges
+in respect of the cost of connecting the con-
+sumer’s premises with the mains;
+
+(d) to prescribe the methods to be adopted for the
+supply and use of electricity, the security to be
+furnished by consumers and the condition for
+the discontinuance of the supply in cases where
+the consumer fails to observe the requirements
+
+C.—IIl. . 1
+
+[SAYFA 28]
+28 o CAP. 171.] ELECTRICITY DEVELOPMENT. : sy)
+
+Cap. 170. of this Law, or of the Electricity Law, or of any
+regulations made thereunder or is in arrears
+with his payments of any proper charges or
+uses defective fittings, and also in cases where
+such discontinuance may be deemed necessary
+or advisable;
+
+(e) to regulate the methods of wiring of premises, the
+types of apparatus that may be used, and such
+other matters as may appear expedient ;
+
+(f) to perform all acts necessary for the proper
+management of the supply of electricity.
+
+FIRST SCHEDULE.
+(Section 13.)
+
+1. A Scheme to provide for the construction of a Power Station at
+Dhekelia, in the Larnaca District, and for the installation of a trans-
+mission and distribution system for giving supplies of electric current
+throughout the Colony.
+
+The Power Station building will be of the semi-outdoor type and will
+accommodate the following plant :—
+
+two 7,000 kw. turbo-alternators generating at 11,000 volts, 3 phase,
+50 periods; .
+
+one 14,000 kw. turbo-alternator generating at 11,000 volts, 3 phase,
+50 periods;
+
+one 750 kw. oil engine alternator.generating at 415 volts, 3 phase,
+50 periods; _
+
+three 90,000 lbs. oil fired boilers,
+together with associated plant, control gear, offices and quarters.
+
+The supply from the main 11,000 volt switchboard will be taken to
+out-door type step-up transformers with secondary output at 66,000 volts.
+An out-door switching station will control the incoming supply from the
+transformers and the outgoing supply feeders.
+
+In the first instance a central primary 66,000 volt transmission ring with
+a spur line will provide supplies to Larnaca, Limassol, Lefka, Morphou,
+Nicosia, Famagusta and such other consumers situated along the route
+of the primary transmission lines as may be approved by the Authority.
+Subsequently a second primary transmission ring will be completed east
+of the central ring.
+
+A secondary distribution system, supplied from points on the primary
+transmission system, will operate at 11,000 volts to give supplies to local
+low voltage networks.
+
+The estimated cost of the Scheme is £3,701 ,000.
+
+2. The Scheme will be operated by the Authority as a commercial
+corporation.
+
+[SAYFA 29]
+ELECTRICITY DEVELOPMENT [CAP. 171.
+
+29
+
+SECOND SCHEDULE.
+(Section 27.)
+
+The Electricity Development Law, Cap. 171.
+
+Notice is hereby given that the following immovable property [describe
+immovable property, giving measurements and showing boundaries whenever
+practicable] is required by the Authority for , within the power
+of the said Authority.
+
+Any person claiming to have any right or interest in the said im-
+movable property is required within six weeks from the date of this
+notice to send to me a statement of his right and interest and of the
+evidence thereof, and of any claim made by him in respect of such right
+or interest.
+
+The Authority is willing to treat for the acquisition of the said
+immovable property.
+
+A plan showing the immovable property described above is available
+for inspection at .
+
+The day of ,19 ..
+Chairman of the Electricity Authority of
+Cyprus.
+THIRD SCHEDULE.
+(Section 40.)
+
+1. In this Schedule—
+
+“the Law” means the Arbitration Law (Cap. 4) or any Law
+amending or substituted for the same; . :
+
+“the Court ” means the District Court of the district where the
+property acquired or the head office of the undertaking acquired is
+situate, consisting of the President of such Court and one or two
+members thereof. -
+
+2. The arbitration shall be by reference to two arbitrators, to be one
+appointed by each party and every such reference shall be deemed to
+constitute an agreement within the meaning of the Law.
+
+3. If the arbitrators fail to agree the Court shall be an umpire co
+
+decide between them.
+
+4. (1) When acting as an umpire, the Court shall have the same powers -
+
+and shall conduct the inquiry as nearly as may be as if sitting as a Court
+for the hearing of a civil action.
+(2) At any such inquiry, the Court may receive in evidence without
+further proof— ,
+(a) the award or the awards of the arbitrators;
+(0) any statement made before the arbitrators by any person who
+had appeared before them;
+(c) any document produced before the arbitrators.
+. 5. Any person interested may be represented before the Court or the
+arbitrators by an advocate.
+
+6. Any order of the Court made in an inquiry when acting as an
+umpire shall be deemed to be a judgment of a Court in a civil action and
+shall be subject to appeal as any such judgment.
+
+Note: This Law came into operation on the 30th October, 1952 (52 Vol. TI, 482).
+1 (2)
