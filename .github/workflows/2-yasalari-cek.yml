@@ -1,0 +1,37 @@
+name: 2 - Yasaları çek
+on:
+  workflow_dispatch:
+    inputs:
+      dalga:
+        description: "Hangi grup? 1 = ilk dalga, 2 = ikinci dalga, 0 = diğerleri, hepsi = tümü"
+        type: choice
+        options: ["1", "2", "0", "hepsi"]
+        default: "1"
+      adet:
+        description: "Bu çalıştırmada en fazla kaç belge"
+        default: "400"
+permissions:
+  contents: write
+concurrency:
+  group: yasalari-cek
+  cancel-in-progress: false
+jobs:
+  cek:
+    runs-on: ubuntu-latest
+    timeout-minutes: 340
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: npm install --no-audit --no-fund
+      - run: node scripts/cek.js "${{ inputs.dalga }}" "${{ inputs.adet }}"
+      - name: Sonuçları kaydet
+        if: always()
+        run: |
+          git config user.name "mevzuat-botu"
+          git config user.email "mevzuat-botu@users.noreply.github.com"
+          git add veri
+          git commit -m "Yasa metinleri: dalga ${{ inputs.dalga }}" || echo "Değişiklik yok"
+          git pull --rebase
+          git push

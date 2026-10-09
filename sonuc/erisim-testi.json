@@ -1,0 +1,40 @@
+{
+ "zaman": "2026-10-09T13:50:10.537Z",
+ "kimlik": "KKTC-Mevzuat-Arastirma-Botu/0.1 (kamuya acik yasa arsivi; yavas tarama, istekler arasi 2 sn)",
+ "testler": [
+  {
+   "ad": "Yasalar sayfası",
+   "url": "http://cm.gov.ct.tr/Yasalarr.aspx",
+   "ok": false,
+   "durum": 0,
+   "sure_ms": 10493,
+   "hata": "UND_ERR_CONNECT_TIMEOUT"
+  },
+  {
+   "ad": "Örnek .doc (Kira Denetim 17/1981)",
+   "url": "http://cm.gov.ct.tr/Yasalar/17-1981.doc",
+   "ok": false,
+   "durum": 0,
+   "sure_ms": 10493,
+   "hata": "UND_ERR_CONNECT_TIMEOUT"
+  },
+  {
+   "ad": "Örnek .docx (Aile Yasası değişikliği 46/2023)",
+   "url": "http://cm.gov.ct.tr/Yasalar/3661982_Aile%20Yasas%C4%B1%2019-2-2023.docx",
+   "ok": false,
+   "durum": 0,
+   "sure_ms": 10492,
+   "hata": "UND_ERR_CONNECT_TIMEOUT"
+  },
+  {
+   "ad": "mahkemeler.net mevzuat sistemi",
+   "yasa_sayisi": 1339,
+   "dosya_durum": 200,
+   "bayt": 133120,
+   "karakter": 20428,
+   "ilk_300": "Kıbrıs Türk Federe Meclisi'nin 14 Nisan,1981 tarihli birleşiminde kabuİ olunan \" Kira (Denetim) Yasası \", Anayasanın 74'üncü maddesi gereğince, Kıbrıs Türk Felere Devleti Başkanı tarafından Resmi Gazete'de yayınlanmak suretiyle ilan olunur.\t\n\nSayı : 17/1981\n\t\nKİRA (DENETİM) YASASI\n(22/1981, 35/1982;",
+   "ok": true
+  }
+ ],
+ "ozet": "KISMİ ERİŞİM"
+}

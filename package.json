@@ -1,0 +1,15 @@
+{
+  "name": "kktc-mevzuat-botu",
+  "version": "0.1.0",
+  "private": true,
+  "description": "KKTC Cumhuriyet Meclisi yasa arşivinden kamuya açık yasa metinlerini yavaşça indirip metne çeviren araştırma botu.",
+  "scripts": {
+    "test-erisim": "node scripts/erisim-testi.js",
+    "cek": "node scripts/cek.js"
+  },
+  "dependencies": {
+    "mammoth": "1.8.0",
+    "pdf-parse": "1.1.1",
+    "word-extractor": "1.0.4"
+  }
+}

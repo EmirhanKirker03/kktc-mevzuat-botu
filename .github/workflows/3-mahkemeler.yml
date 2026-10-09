@@ -1,0 +1,42 @@
+name: 3 - Mahkemeler sitesi (birleştirilmiş yasalar, tüzükler, kararlar)
+on:
+  workflow_dispatch:
+    inputs:
+      islem:
+        description: "liste = yasa/tüzük/karar listeleri + tüm karar metinleri, yasa = yasa dosyaları, tuzuk = tüzük dosyaları"
+        type: choice
+        options: ["liste", "yasa", "tuzuk"]
+        default: "liste"
+      adet:
+        description: "yasa/tuzuk için bu çalıştırmada en fazla kaç dosya"
+        default: "1500"
+permissions:
+  contents: write
+concurrency:
+  group: mahkemeler
+  cancel-in-progress: false
+jobs:
+  calis:
+    runs-on: ubuntu-latest
+    timeout-minutes: 340
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: npm install --no-audit --no-fund
+      - name: Listeyi güncelle
+        if: inputs.islem == 'liste'
+        run: node scripts/mahkemeler.js liste
+      - name: Dosyaları indir
+        if: inputs.islem != 'liste'
+        run: node scripts/mahkemeler.js indir "${{ inputs.islem }}" "${{ inputs.adet }}"
+      - name: Sonuçları kaydet
+        if: always()
+        run: |
+          git config user.name "mevzuat-botu"
+          git config user.email "mevzuat-botu@users.noreply.github.com"
+          git add liste veri
+          git commit -m "Mahkemeler: ${{ inputs.islem }}" || echo "Değişiklik yok"
+          git pull --rebase
+          git push
