@@ -1,0 +1,604 @@
+[SAYFA 1]
+881
+Sayı : 340
+İş Sağlığı Ve Güvenliği Yasası
+(35/2008 sayılı Yasa)
+44'üncü Madde Altında Yapılan Tüzük
+
+Kuzey Kıbrıs Türk Cumhuriyeti Bakanlar Kurulu İş Sağlığı ve Güvenliği Yasası'nın 44'üncü
+maddesinin kendisine verdiği yetkiye dayanarak aşağıdaki Tüzüğü yapar:
+
+Kısa İsim 1, o Bu Tüzük "Çalışanların Maruz Kaldıkları Gürültü Riskine Karşı Asgari Sağlık ve
+Güvenlik Koşulları Tüzüğü” olarak isimlendirilir.
+
+BİRİNCİ KISIM
+Genel Kurallar
+
+Tefsir 2. Bu Tüzükte metin başka türlü gerektirmedikçe;
+
+“Bakanlık”, Çalışma işleri ile görevli Bakanlığı anlatır.
+
+“Çalışan”, kendi özel yasalarındaki statülerine bakılmaksızın İş Sağlığı ve
+
+Güvenliği Yasası kapsamındaki kamu ve özel işyerlerinde, herhangi bir iş
+
+ilişkisine bağlı olarak ücret, maaş, gündelik vb. karşılığı çalışan (istihdam
+
+edilmiş) gerçek kişileri anlatır.
+
+“En Düşük Maruz Kalma Etkin Değeri”, ulaşılması veya aşılması durumlarında
+
+oluşan riskin azaltılması amacıyla özel olarak tedbir alınması gereken, çalışanın
+
+maruz kaldığı günlük veya haftalık gürültü maruziyet seviyesinin (LEX, 8h) veya
+en yüksek ses basıncının (Ppeak) en düşük değerini anlatır.
+
+“En Üst Maruziyet Etkin Değeri”, ulaşılması veya aşılması durumlarında oluşan
+
+riskin azaltılması amacıyla özel olarak tedbir alınması gereken, çalışanın maruz
+
+kaldığı günlük veya haftalık gürültü maruziyet seviyesinin (LEX, 8h) veya en
+yüksek ses basıncının (Ppeak) en üst değerini anlatır.
+
+“En Yüksek Ses Basıncı (Ppeak)’, bu Tüzüğe ekli II’nci Cetvel'de anlatıldığı
+
+şekilde hesaplanan ve bir çalışanın maruz kaldığı "C"-frekans ağırlıklı anlık
+
+gürültü basıncının maksimum değerini anlatır.
+
+1. Cetvel “Günlük Gürültü Maruziyet Seviyesi (LEX, 8h)’, bu Tüzüğe ekli l'inci Cetvelin
+Vinci Kısım'da anlatıldığı şekilde hesaplanan ve bir çalışanın sekiz saatlik is
+günü içinde maruz kaldığı, anlık darbeli gürültünün de dahil olduğu bütün gürültü
+maruziyet seviyelerinin zaman ağırlıklı ortalamasını anlatır.
+
+“Gürültü”, duyulabilen herhangi bir sesi anlatır.
+
+“Haftalık Gürültü Maruziyet Seviyesi”, bu Tüzüğe ekli l'inci Cetvelin İl'nci
+Kisim'da anlatıldığı şekilde hesaplanan ve bir çalışanın maruz kaldığı günlük
+gürültü maruziyet seviyelerinin sekiz saatlik beş iş gününden oluşan bir hafta için
+zaman ağırlıklı ortalamasını anlatır,
+
+“İş Sağlığı ve Güvenliği”, çalışanları mesleki risklerden korumak veya bu riskleri
+en aza indirmek amacıyla işyerinde veya işte yürütülen faaliyetlerin tüm
+aşamalarında planlanan ve uygulanan, çalışanların (o çalışma kapasiteleri,
+yaşamları ve sağlıklarını korumak amacıyla alınmış tüm koruyucu önlemleri
+anlatır.
+
+“İşveren”, İş Sağlığı ve Güvenliği Yasası'nda Ana İşveren veya Alt İşveren olarak
+tefsiri yapılan, çalışanlarla istihdam ilişkisi olan ve kuruluşun veya işyerinin
+sorumluluğunu taşıyan gerçek veya tüzel kişileri anlatır.
+
+"İşyeri", işin yapıldığı yeri anlatır ve işin niteliği ve yürütümü bakımından işyerine
+
+35/2008
+
+If, Cetvel
+
+[SAYFA 2]
+Amaç
+
+Kapsam
+35/2008
+
+Maruziyet
+Sınır
+Değerleri
+ve
+Maruziyet
+Etkin
+Değerleri
+
+5.
+
+882
+
+bağlı bulunan yerlerle, dinlenme, çocuk emzirme, yeme, uyku, yıkanma,
+muayene ve bakım, beden ve mesleki eğitim yerleri ve avlu gibi sair eklentiler ve
+araçlar da işyerinden sayılır.
+
+“Maruziyet”, bu Tüzük amaçları bakımından gürültüye maruz kalmayı, gürültüden
+etkilenmeyi anlatır.
+
+“Maruziyet Sınır Değeri", bu Tüzüğün 5'inci maddesinde aşılamayacağı belirtilen
+günlük ve haftalık maruziyet seviyeleri ile en yüksek ses basıncını anlatır.
+
+İş Sağlığı ve Güvenliği”, Çalışanları mesleki risklerden korumak veya bu riskleri
+en aza indirmek amacıyla işyerinde veya işte yürütülen faaliyetlerin tüm
+aşamalarında planlanan ve uygulanan, çalışanların (o çalışma kapasiteleri,
+yaşamları ve sağlıklarını korumak amacıyla alınmış tüm koruyucu önlemleri
+anlatır.
+
+“İşveren”, İş Sağlığı ve Güvenliği Yasası'nda Ana İşveren veya Alt İşveren olarak
+tefsiri yapılan, çalışanlarla istihdam ilişkisi olan ve kuruluşun veya işyerinin
+sorumluluğunu taşıyan gerçek veya tüzel kişileri anlatır.
+
+“İşyeri”, işin yapıldığı yeri anlatır ve işin niteliği ve yürütümü bakımından işyerine
+bağlı bulunan yerlerle, dinlenme, çocuk emzirme, yeme, uyku, yıkanma,
+muayene ve bakım, beden ve mesleki eğitim yerleri ve avlu gibi sair eklentiler ve
+araçlar da işyerinden sayılır.
+
+“Maruz Kalan Çalışan”, tümüyle veya kısmen tehlikeli bölgede bulunan çalışanı
+anlatır.
+
+“Operatör”, iş ekipmanını kullanma görevi verilen çalışan veya çalışanları anlatır.
+“Tehlike”, çalışanların sağlık ve yaşamı için olası tehlikeyi anlatır
+
+“Tehlike Bölgesi”, iş ekipmanının içinde ve/veya çevresinde, çalışanın sağlık ve
+güvenlik yönünden riske maruz kalacağı bölgeyi anlatır.
+
+Bu Tüzüğün amacı, çalışanların işyerlerindeki gürültüye maruz kalmaları sonucu
+sağlık ve güvenlik yönünden oluşabilecek risklerden, özellikle işitme ile ilgili
+risklerden korunmaları için alınması gerekli önlemleri belirlemektir.
+
+Bu Tüzük, İş Sağlığı ve Güvenliği Yasası kapsamına giren tüm işyerlerini kapsar.
+
+Maruziyet sınır değerleri ve maruziyet etkin değerleri ile ilgili hususlar aşağıda
+
+belirtilmiştir:
+
+(1) Bu Tüzüğün uygulanması bakımından belirlenmiş günlük gürültü etkilenme
+seviyeleri ile en yüksek ses basıncı yönünden etkilenme sınır değerleri ve
+etkilenme etkin değerleri aşağıda verilmiştir;
+
+(A) Maruziyet Sınır Değerleri :
+(a) Günlük Gürültü Seviyesi (LEX, 8h) 87 dB (A- frekans ağırlıklı) ve
+(b) En Yüksek Ses Basıncı (Ppeak) 200 Pa (140 dB (C- frekans
+ağırlıklı).
+(B) En Düşük Maruziyet Etkin Değerleri:
+(a) Günlük Gürültü Seviyesi (LEX, 8h) 80 dB (A- frekans ağırlıklı) ve
+(b) En Yüksek Ses Basıncı (Ppeak) 112 Pa (135 dB (C- frekans
+ağırlıklı).
+(C) En Üst Maruziyet Etkin Değerleri:
+
+[SAYFA 3]
+Risklerin 6.
+
+Belirlenme-
+si ve
+Değerlen-
+dirilmesi
+35/2008
+
+(2)
+
+883
+
+(a) Günlük Gürültü Seviyesi (LEX, 8h) 85 dB (A- frekans ağırlıklı) ve
+(b) En Yüksek Ses Basıncı (Ppeak) 140 Pa (137 dB (C- frekans
+ağırlıklı).
+Çalışanı etkileyen maruziyetin belirlenmesinde, çalışanın kullandığı kişisel
+kulak koruyucularının koruyucu etkisi de dikkate alınarak maruziyet sınır
+değer uygulanacaktır. Maruziyet etkin değerlerinde kulak koruyucularının
+etkisi dikkate alınmayacaktır.
+Günlük gürültü maruziyetinin günden güne belirgin şekilde farklılık
+gösterdiğinin kesin olarak tespit edildiği işlerde ve aşağıdaki şartlara
+uyulmak kaydı ile maruziyet sınır değerleri ve maruziyet etkin değerlerinin
+uygulanmasında günlük maruziyet değerleri yerine haftalık maruziyet
+değerleri kullanılabilir:
+(A) Yeterli ölçümle tespit edilen haftalık gürültü maruziyet seviyesi 87 dB
+(A- frekans ağırlıklı) maruziyet sınır değerini aşmayacaktır.
+(B) Bu işlerdeki riskleri en aza indirmek için yeterli önlemler alınmış
+olacaktır.
+
+va
+
+o İKİNGİKISIM
+İşverenlerin Yükümlülükleri
+
+İşyerlerinde (o gürültüden © kaynaklanan (risklerin (o belirlenmesi (o ve
+değerlendirilmesinde:
+
+(1)
+
+İşveren, İş Sağlığı ve Güvenliği Yasası'nın 6'ncı maddesinin 4'üncü
+
+fıkrasında ve 9'uncu maddesinde belirtilen yükümlülükleri yerine getirirken,
+
+çalışanların maruz kaldığı gürültü seviyesini değerlendirecek ve gerekiyor
+
+ise gürültü ölçümü yapacaktır.
+
+Kullanılan yöntemler ve aygıtlar, mevcut koşullara, özellikle de ölçülecek
+
+olan gürültünün özelliklerine, maruziyet süresine ve çevresel faktörlere
+
+uygun olacaktır.
+
+Bu yöntemler ve aygıtlar bu Tüzüğün 2'nci maddesinde tefsiri yapılan
+
+parametrelerin belirlenmesine ve 5'inci maddesinde belirtilen değerlerin
+
+aşılıp aşılmadığına karar verilebilmesine olanak sağlayacaktır.
+
+Kullanılan gürültü ölçme yöntemi, bir çalışanın kişisel maruziyetini
+
+gösterecek şekilde olacaktır.
+
+Yukarıda 1'inci fıkrada belirtilen değerlendirme ve ölçümler İş Sağlığı ve
+
+Güvenliği Yasası'nın 7'nci maddesinin 5'inci fıkrasın kuralları uyarınca
+
+yetkilendirilmiş kişilerce planlanacak ve uygun aralıklarla yapılacaktır.
+
+Gürültü maruziyet seviyesinin değerlendirilmesi ve ölçüm sonuçları, daha
+
+sonraki zamanlarda tekrar değerlendirilebilmesi için uygun bir şekilde
+
+saklanacaktır.
+
+Olçüm sonuçları değerlendirilirken, ölçme uygulamalarına bağlı olan ölçüm
+
+hataları dikkate alınacaktır.
+
+İşveren, İş Sağlığı ve Güvenliği Yasası'nın 6'ncı maddesinin 4'üncü fıkrası
+
+gereğince yapacağı risk değerlendirmesinde aşağıda belirtilen hususlara
+
+özel önem verecektir:
+
+(A) Darbeli gürültüye maruziyet de dahil maruziyetin seviyesine, türü ve
+süresine,
+
+(8) Bu Tüzüğün 5'inci maddesinde belirtilen maruziyet sınır değerlerine
+
+[SAYFA 4]
+Maruziyetin 7,
+Önlenmesi
+
+veya
+Azaltılması
+
+35/2008
+
+(1)
+
+884
+
+ve maruziyet etkin değerlerine,
+
+Özellikle hassas risk gruplarına dahil çalışanların sağlık ve
+güvenliklerine olan etkilerine,
+
+Teknik olarak mümkünse, gürültü ile işe bağlı ototoksik maddelerin
+etkileşimlerine veya gürültü ile titreşim arasındaki etkileşimlerin
+çalışanın sağlık ve güvenliğine olan etkisine,
+
+Kaza riskini azaltmak için kullanılan ve çalışanlar tarafından
+algılanması gereken uyarı sinyalleri ve diğer sesler ile gürültünün
+etkileşmesinin çalışanların sağlık ve güvenlikleri yönünden dolaylı
+etkisine,
+
+İş ekipmanlarının gürültü emisyonları hakkında ilgili mevzuat uyarınca
+imalatçılardan sağlanan bilgilere,
+
+Gürültü emisyonu daha az olan alternatif bir iş ekipmanının bulunup
+bulunmadığına,
+
+Gürültüye maruziyetin, işverenin sorumluluğundaki normal çalışma
+Saatleri dışında da devam edip etmediğine,
+
+Sağlık gözetiminden elde edilen ve mümkünse en son yayınlanmış
+olanları da içeren tüm bilgilere,
+
+Yeterli korumayı sağlayabilecek kulak koruyucularının bulunup
+bulunmadığına,
+
+İşveren, İş Sağlığı ve Güvenliği Yasası'nın 8'inci maddesinin (1)'inci
+fıkrası uyarınca risk değerlendirmesini yaptırmış olacak ve bu
+Tüzüğün 7'nci, 8'inci, 9'uncu ve 10'uncu maddelerine uygun olarak
+hangi önlemlerin alınması gerektiğini tanimlayacaktir, Risk
+değerlendirmesi ile ilgili, yürürlükteki mevzuata uygun olarak kayıt
+tutulacak ve saklanacaktır. Risk değerlendirmesi, düzenli olarak ve
+önemli bir değişiklik olduğunda veya sağlık gözetimi sonuçlarının
+gerektirdiğinde yeniden yapılacaktır.
+
+İşverenler, gürültüden kaynaklanan maruziyetin önlenmesi veya azaltılması
+için aşağıdaki kurallara uyacaklardır:
+
+Teknik gelişmelere uygun önlemler alınarak gürültüye maruziyetten
+kaynaklanan riskler kaynağında yok edilecek veya en aza indirilecektir.
+Gürültüden kaynaklanan risklerin azaltılmasında, İş Sağlığı ve Güvenliği
+Yasası'nın 6'ncı maddesinin (3)'üncü fıkrasında belirtilen genel prensiplere
+uyulacak ve özellikle;
+
+(A)
+
+Gürültüye maruziyetin daha az olduğu başka çalışma yöntemleri
+
+seçmek,
+
+Yapılan işi göz önünde bulundurarak, mümkün olan en düşük
+
+seviyede gürültü yayan uygun iş ekipmanını seçmek,
+
+İşyerinin ve çalışılan yerlerin tasarımı ve düzenlenmesi,
+
+Gürültüyü teknik yollarla azaltmak için;
+
+(a) Hava yoluyla yayılan gürültüyü, perdeleme, kapatma, gürültü emici
+örtülerle ve benzeri yöntemlerle azaltmak,
+
+(b) Yapıdan kaynaklanan gürültüyü, yalıtım ve benzeri yöntemlerle
+azaltmak,
+
+İşyeri, çalışma sistemleri ve iş ekipmanları için uygun bakım
+
+programlarının uygulanması,
+
+[SAYFA 5]
+885
+
+(E) Gürültüyü azaltacak bir iş organizasyonu ile:
+(a) Maruziyet süresini ve gürültü seviyesini sınırlamak,
+(b)Yeterli dinlenme araları verilerek çalışma sürelerinin düzenlenmesi,
+gibi önlemler alınacaktır.
+
+(2) Bu Tüzüğün 6'ncı maddesine göre yapılan risk değerlendirmesinde,
+en yüksek maruziyet etkin değerlerinin aşıldığının tespiti halinde,
+işveren, özellikle yukarıdaki (1)'inci fıkrada belirtilen önlemleri de
+dikkate alarak, gürültüye maruziyeti azaltmak için teknik ve/veya
+organizasyona yönelik bir önlem programı oluşturacak ve
+uygulayacaktır.
+
+(3) Bu Tüzüğün 6'ncı maddesi uyarınca yapılan risk değerlendirmesine
+göre, çalışanların en yüksek maruziyet etkin değerlerini aşan
+gürültüye maruz kalabileceği çalışma yerleri uygun şekilde
+işaretlenecektir. Ayrıca, bu alanların sınırları belirlenecek ve teknik
+olarak mümkün ise, bu alanlara girişler kontrollü olacaktır.
+
+(4) çalışanlarındinlenmesi için ayrılan yerlerdeki gürültü seviyesi, bu
+yerlerin kullanım amacına uygun olacaktır.
+(5) işveren, İş Sağlığı ve Güvenliği Yasası'nın 22'nci maddesi uyarınca
+
+kadınlar, gençler, yaşlılar, özürlüler gibi hassas risk gruplarının
+korunması için gerekli önlemleri alacaktır.
+
+Kişisel 8. Gürültüye maruziyetten kaynaklanan riskler başka yollarla önlenemiyor ise:
+
+Korunma (1) İş Sağlığı ve Güvenliği Yasası'nın 17'nci maddesinin (2)'inci fıkrasında ve
+
+35 Kişisel Koruyucu Donanımların İşyerlerinde Kullanımı Tüzüğü hükümlerine
+3/2008 M e hel
+
+uygun olarak ve aşağıda belirtilen koşullarda, çalışanlara, kişiye tam olarak
+
+uyan kulak koruyucuları verilecek ve bu koruyucular çalışanlar tarafından
+
+kullanılacaktır:
+
+(A) Gürültü maruziyeti en düşük maruziyet etkin değerleri aştığında,
+işveren kulak koruyucuları sağlayarak çalışanların Kullanımına hazır
+halde bulunduracaktır,
+
+(8) Gürültü maruziyeti en yüksek maruziyet etkin değerlerine ulaştığında
+ya da bu değerleri aştığında, kulak koruyucuları kullanılacaktır,
+
+(C) Kulak koruyucuları işitme ile ilgili riski ortadan kaldıracak veya en aza
+indirecek bir biçimde seçilecektir.
+
+(2) İşveren, kulak koruyucularının kullanılmasını sağlamak için her türlü çabayı
+gösterecek ve alınan önlemlerin etkililiğini denetlemekten sorumlu olacaktır.
+
+Maruziyetin 9. o Çalışanların maruziyeti, hiçbir koşulda bu Tüzüğün 5'inci maddesinin (0'inci
+Sınırlan- fıkrasında belirtildiği şekilde maruziyet sınır değerlerini aşmayacaktır.
+mast Bu Tüzükte belirtilen tüm önlemlerin alınmasına rağmen, maruziyet sınır
+değerlerinin aşıldığının tespit edildiği durumlarda, işveren;
+(1) Maruziyeti, maruziyet sınır değerlerinin altına indirmek üzere gerekli olanı
+derhal yapacak,
+(2) Maruziyet sınır değerlerinin aşılması nedenlerini belirleyecek, ve
+(3) Bunun tekrarını önlemek amacıyla, koruma ve önlemeye yönelik tedbirleri
+alacaktır.
+
+Çalışanların 10, İşveren, İş Sağlığı ve Güvenliği Yasası'nın 14'üncü ve 16'ncı maddelerinde
+Bilgilendi- belirtilen hususlarla birlikte, işyerinde en düşük maruziyet etkin değerindeki veya
+
+[SAYFA 6]
+rilmesi ve
+Eğitimi
+
+35/2008
+
+Çalışanlara 11,
+
+Danışılma
+ve
+Katılımın
+Sağlanması
+35/2008
+
+Sağlık 12,
+
+Gözetimi
+
+886
+
+üzerindeki gürültüye maruz kalan çalışanların ve/veya temsilcilerinin gürültü
+
+maruziyeti ile ilgili olarak ve özellikle de aşağıdaki konularda bilgilendirilmelerini
+
+ve eğitilmelerini sağlayacaktır:
+
+(1) Gürültüye maruziyetten kaynaklanan riskler,
+
+(2) Gürültüden kaynaklanan riskleri önlemek veya en aza indirmek amacıyla
+bu Tüzük kurallarını uygulamak için alınan önlemler ve bu önlemlerin
+uygulanacağı koşullar,
+
+(3) Bu Tüzüğün 5'inci maddesinde belirtilen maruziyet sınır değerleri ve
+maruziyet etkin değerleri,
+
+(4) Bu Tüzüğün 6'ncı maddesine uygun olarak yapılan değerlendirme ve
+gürültü ölçümünün sonuçları ve bunların önemi ve potansiyel risklerinin
+açıklanması,
+
+(5) Kulak koruyucularının doğru kullanılması,
+
+(6) İşitme kaybı belirtilerinin niçin ve nasil tespit edileceği ve bildirileceği,
+
+(7) Bu Tüzüğün 12'nci maddesine göre, çalışanların hangi şartlarda sağlık
+gözetimine tabi tutulacağı ve sağlık gözetiminin amacı,
+
+(8) Gürültü maruziyetini en aza indirecek güvenli çalışma uygulamaları.
+
+İş Sağlığı ve Güvenliği Yasası'nın 15'inci maddesine uygun olarak çalışanlar
+ve/veya temsilcilerine bu Tüzüğün kapsadığı konular ile özellikle aşağıdaki
+konularda danışılacak ve katılımları sağlanacaktır:
+
+(1) Bu Tüzüğün 6'nci maddesinde belirtildiği sekilde (risklerin
+değerlendirilmesinde ve alınacak önlemlerin tanımlanmasında,
+
+(2) Bu Tüzüğün 7'nci maddesinde belirtilen, gürültüden kaynaklanan risklerin
+ortadan kaldırılmasını veya azaltılmasını amaçlayan önlemlerin
+alınmasında,
+
+(3) Bu Tüzüğün 8'inci maddesinin (1)'inci fıkrasının (C) bendinde belirtildiği
+şekilde kulak koruyucularının seçilmesinde,
+
+ÜÇÜNCÜ KISIM
+Çeşitli Kurallar
+
+Çalışanlar aşağıdaki hususlar gözönünde bulundurularak sağlık gözetimine tabi
+
+tutulacaktır;
+
+(1) is Sağlığı ve Güvenliği Yasası'nın 21'inci ve 32'nci maddelerine halel
+gelmeksizin, bu Tüzüğün 6'ncı maddesinin (1)'inci fıkrası gereğince
+yapılan risk değerlendirmesi sonucunda sağlık riski olduğunun
+anlaşılması halinde çalışanlar uygun sağlık gözetimine tabi
+tutulacaktır.
+
+(2) En yüksek maruziyet etkin değerlerini aşan gürültüye maruz kalan bir
+çalışan, bir hekim veya hekimin sorumluluğu altındaki uzman bir
+başka kişi tarafından kendisine işitme testi yapılmasını isteme hakkına
+sahiptir. Bu Tüzüğün 6'ncı maddesinde hükme bağlanan
+değerlendirme ve ölçüm sonuçlarına göre bir sağlık riski olduğunun
+tespit edildiği yerlerde, en düşük maruziyet etkin değerlerini aşan
+gürültüye maruz kalan çalışanlar için de işitme testleri yapılacaktır. Bu
+testlerin amacı gürültüye bağlı olan herhangi bir işitme kaybında erken
+tanı koymak ve işitme işlevini koruma altına almaktır.
+
+(3) Yukarıdaki (1)'inci ve (2)'nci fıkrala kurallarına uygun olarak yapılan
+
+[SAYFA 7]
+887
+
+|, Getvel
+(2'nci Madde)
+
+KISIM |
+
+Günlük Gürültü Maruziyet Seviyesi
+
+1. Çalışanın Günlük Gürültü Maruziyet Seviyesi LEPa; LEX, 8h karşılığı olup uluslararası standart
+olan ISO 1999:1990, madde 3.6'da desibel olarak tanımlanır ve aşağıdaki formül kullanılarak
+hesaplanır;
+
+Lipa HL oa te + 10log.0 [tt |
+
+Te, çalışanın saniye olarak iş günü içerisindeki gürültüye maruz kaldığı çalışma süresidir.
+To, 28,800 saniyedir (8 saat) ve,
+
+L Aeg,Te sürekli olan A- frekans ağırlıklı ses basınç seviyesine eşittir. Uluslararası standart olan
+ISO 1999:1990, madde 3.5'de desibel olarak tanımlanır ve çalışanın iş günü içerisinde maruz kaldığı
+sesi simgeler.
+
+2. Eğer bir iş gününde maruz kalınan süreler iki veya daha fazla periyotta farklı ses seviyelerinden
+oluşuyorsa periyotların birleşimi (kombinasyonu) için Günlük Gürültü Maruziyet Seviyesi aşağıdaki
+formül kullanılarak hesaplanır;
+
+epi —10logu | 1/7 du (T:10""¢ Aeg,T Di )İ
+
+i=]
+n, bir iş günü içerisindeki
+
+periyotların sayısıdır.
+Ti, | periyodunun süresidir.
+(L Aeg,T ) i periyodu süresince çalışanın maruz kaldığı sesi gösterir ve A- frekans ağırlıklı sürekli
+ses basıncına eşittir ve,
+
+izn
+
+2 Tj Te'ye eşittir ve çalışanın saniye olarak iş günüdeki çalışma süresini ifade eder,
+ii
+
+[SAYFA 8]
+888
+
+sağlık gözetimi ile ilgili olarak her çalışanın kişisel sağlık kaydı
+
+tutulacak ve bu kayıt güncelleştirilecektir. Sağlık kayıtları, sağlık
+
+gözetiminin bir özetini içerecektir. Bu kayıtlar gizlilik esasına uygun
+olarak ve gerektiğinde incelenebilecek şekilde saklanacaktır,
+
+Bu kayıtların kopyaları, yetkili makamların istemesi halinde
+
+verilecektir. Her çalışan, istediğinde kendisiyle ilgili kayıtlara
+
+ulaşabilecektir.
+
+(4) İşitme ile ilgili sağlık gözetimi sonucunda, çalışanda işitme kaybı
+saptandığında, işitme kaybının gürültü maruziyetine bağlı olup
+olmadığını bir hekim veya hekimin uygun gördüğü bir uzman
+değerlendirecektir. İşitme kaybı gürültüye bağlı ise;
+
+(A) Çalışan, hekim veya uygun nitelikli diğer bir kişi tarafından, kendisi ile
+ilgili sonuçlar hakkında bilgilendirilecektir.
+(B) İşveren;
+
+(a) Tüzüğün 6'ncı maddesi uyarınca yapılan risk değerlendirmesini
+gözden geçirecektir.
+
+(b) Riskleri önlemek veya azaltmak için bu Tüzüğün 7'inci ve 8'inci
+maddeleri uyarınca alınan önlemleri gözden geçirecektir.
+
+(c) Riskleri önlemek veya azaltmak için bu Tüzüğün 7'inci ve 8'inci
+maddeleri uyarınca gerekli görülen ve çalışanın gürültüye maruz
+kalmayacağı başka bir işte görevlendirilmesinin de aralarında
+olduğu önlemleri uygularken, is sağlığı uzmanları veya diğer uygun
+vasıflı kişilerin veya yetkili makamın önerilerini dikkate alacaktır.
+
+(ç) Benzer biçimde maruz kalan çalışanların sağlık durumunun
+gözden geçirilmesi için de düzenli (sistematik) bir sağlık gözetimi
+uygulayacaktır.
+
+DÖRDÜNCÜ KISIM
+Son Kurallar
+
+Yürütme 13. Bu Tüzük Çalışma İşleriyle Görevli Bakanlık tarafından yürütülür,
+Yetkisi
+
+Yürürlüğe o 14, Bu Tüzük, Resmi Gazete'de yayımlandığı tarihten itibaren yürürlüğe girer,
+Giriş
+
+[SAYFA 9]
+889
+KISIM Il
+
+Haftalık Gürültü Maruziyet Seviyesi
+
+Çalışanın Haftalık Gürültü Maruziyet Seviyesi LEP w: LEX, 8h karşılığı olup uluslararası standart olan
+ISO 1999:1990, madde 3.6 (2'nci fikra)'da desibel olarak tanımlanır ve beş iş gününden oluşan
+çalışma haftası için aşağıdaki formül kullanılarak hesaplanır;
+
+ızm
+
+Lop =10log»[ 15 X1091 Lerah)
+
+i=]
+
+m, çalışma haftası boyunca çalışanın sese maruz kaldığı iş günü sayısıdır; ve i, işgünü için (LEP dl,
+LEP d'ye eşittir.
+
+il. Cetvel
+(2'nci Madde)
+En Yüksek Ses Basıncı Seviyesi
+
+En Yüsek Ses Basıncı Seviyesi Lcpeak desibel olarak ifade edilir ve aşağıdaki formül kullanılarak
+hesaplanır;
+
+L cpeak= 201080 | Pope /Po |
+
+Pcpeak, çalışanın iş günü içerisinde maruz kaldığı ve Paskal'da (Pa), C-frekans ağırlıklı ses
+basıncının azami değeridir.
+Po, 20 yPa'dır.

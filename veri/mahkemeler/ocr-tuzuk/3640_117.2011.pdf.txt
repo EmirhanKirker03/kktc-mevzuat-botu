@@ -1,0 +1,455 @@
+[SAYFA 1]
+240
+
+Sayı: 117
+KAMU VE ÖZEL RADYO VE TELEVİZYONLARIN
+KURULUŞ VE YAYINLARI YASASI
+(39/1997, 34/2003 ve 36/2010 Sayılı Yasalar)
+26(2) Madde Altında Yapılan Tüzük
+
+Kuzey Kıbrıs Türk Cumhuriyeti Bakanlar Kurulu, Kamu ve Özel Radyo ve
+Televizyonların Kuruluş ve Yayınları Yasası'nın 26. Maddesinin (2)'nci Fıkrasının
+kendisine verdiği yetkiye dayanarak aşağıdaki Tüzüğü yapar: i
+
+Kısa İsim ok Bu Tüzük, “Yayın Yüksek Kurulu IPTV Lisans ve Yayın İzni Tüzüğü" olarak
+” isimlendirilir. ~
+
+BİRİNCİ KISIM
+Genel Kurallar
+Tefsir 2. Bu Tüzük'te metin başka türlü gerektirmedikçe;
+
+“Eş Zamanlı Yayın”, bir radyo veya televizyon programının IPTV
+ortamı yanında diğer iletim ortamlarında da aynı anda iletimini anlatır.
+“ETSI”, Avrupa Telekomünikasyon Standartları Enstitüsü'nü anlatır.
+“IPTV Altyapı İşletmecisi”, genişbant iletim ve erişim teknolojileri
+üzerinden, IPTV platform işletmecilerine altyapı hizmeti sağlayan ve bu
+altyapıyı işleten kuruluşu anlatır.
+
+“IPTV, Ek Yayın Hizmetleri”, isteğe bağlı yayın hizmetleri haricindeki,
+elektronik program rehberi, teleteks, uygulama arayüz programı vb.
+etkileşimli hizmetler ve benzeri veri iletimini anlatır.
+
+“IPTV Lisans ve Yayın İzni”, IPTV yayınını, genişbant iletim ve erişim
+altyapıları Üzerinden kamuya yönelik olarak yapmak isteyen yayıncı
+kuruluşlara, gerekli ön şartları sağlamaları halinde, IPTV ortamından
+yayın yapabilmelerini teminen verilen lisans ve yayın izin belgesini
+anlatır. o - -
+“IPTV Platform İşletmecisi”, Yayın Yüksek Kurulu'ndan IPTV lisans ve
+yayın izni almış olan yayıncı kuruluşların yayınları ile platform üzerinden
+sunacağı isteğe bağlı yayın hizmetleri ve IPTV ek yayın hizmetlerini,
+belli bir hizmet seviyesi taahhüt edilerek ve gereken yazılım ve cihazları
+kurup işleterek, doğrudan: abonelere iletilmesini sağlayan ve
+abonelerine karşı sorumlu olan kuruluşu anlatır.
+
+“IPTV Yayını”, radyo, televizyon yayınları ile isteğe bağlı yayın
+hizmetleri ve IPTV ek yayın hizmetlerinin, genişbant iletim ve erişim
+teknolojileri -kullanarak belli bir hizmet seviyesi taahhüt edilerek, özel
+yönetilen bir ağ üzerinden, aboneler veya izleyicilere, internet
+protokolü uygulanarak set üstü cihaz veya bütünleşik TV alıcıları ile
+alınmasına imkân tanıyan sistemi anlatır.
+
+“İsteğe Bağlı Yayın Hizmetleri”, programların kullanıcının seçtiği bir
+zamanda ve münferit isteği üzerine IPTV platform işletmecisi tarafından
+düzenlenmiş bir program kataloğuna bağlı olarak izlendiği veya
+dinlendiği yayın hizmetini anlatır. i
+
+[SAYFA 2]
+39/1997
+
+34/2003
+36/2010
+
+39/1997
+34/2003
+36/2010
+
+Amaç
+
+Kapsam
+
+IPTV Lisans
+ve
+Yayın İzni
+
+Yayıncı
+
+- Kuruluşların
+
+Yükümlülükleri
+
+3.
+
+241
+
+“Kurul”, Kamu-ve Özel Radyo ve Televizyonlârın Kuruluş ve Yayınları
+Yasası'nın 6 nel maddesi ile kurulan Yayın Yüksek Kurulu'nu anlatır.
+“Program Kataloğu”, isteğe bağlı hizmetler kapsamındaki içeriği
+gösteren listeyi anlatır.
+
+"Set Üstü Cihaz”, şifreli veya şifresiz IPTV yayınlarının televizyon
+alıcıları tarafından alınmasını ve izlenmesini sağlayan cihazı anlatır.
+“Yayıncı Kuruluş”, radyo, televizyon yayınını IPTV platformu üzerinden
+kamuya yönelik olarak iletilmek üzere tertip eden ve yayının
+içeriğinden sorumlu olan Kurul'dan IPTV lisans ve yayın izni almış
+kuruluşu anlatır.
+
+“Yasa”, Kamu ve Özel Radyo ve Televizyonların Kuruluş ve Yayınları
+Yasasını anlatır.
+
+Bu Tüzüğün amacı, yayıncı kuruluşların, IPTV lisans ve yayın izni almaları için
+yerine getirmeleri gereken yükümlülüklerle, IPTV lisans ve yayın izni verilme
+esas ve usullerini ve IPTV platform işletmecilerinin yükümlülüklerini
+belirlemektir.
+
+Bu Tüzük, kamuya yönelik IPTV yayın hizmeti vermek isteyen yayıncı
+kuruluşlar ile IPTV platform işletmecilerine uygulanacak usul ve esasları
+kapsar.
+
+İKİNCİ KISIM
+IPTV Lisans ve Yayın İzni,
+Platform İşletme İzni,
+Yükümlülükler ve Diğer Teknolojiler
+
+Kurul, bu Tüzüğün 7'nci maddesindeki kurallara uygun olarak gerekli
+belgeleri sunan yayıncı kuruluşlara IPTV Lisans ve Yayın İzni verebilir.
+
+(1)
+
+(2)
+
+(3)
+
+IPTV ortamından yayın yapmak isteyen yayıncı kuruluşlar; .
+
+(A) Kuruldan, IPTV yayını yapmak üzere lisans ve yayın İzni
+almakla,
+(B) © Şirket yapılarına, programlarına, yayınlarını ilettirdikleri IPTV
+
+platform işletmecilerine ilişkin Kurul tarafından istenilen her
+türlü bilgi ve belgeleri belirtilen süre içerisinde bildirmekle,
+
+(G IPTV ortamı yanında bir-baska ortamdan da yayın yapmaları
+halinde, diğer ortamlardan eş zamanlı olarak yayın yapmakla,
+
+yükümlüdürler.
+IPTV lisans ve yayın izni ilgili yayıncı kuruluşa başka ortamlarda yayın
+yapma hakkı tanımaz.
+
+Yayıncı kuruluşlara Kurul tarafından verilen cezalar, yayıncı kuruluşun
+yayın yaptığı bütün iletim ortamlarını kapsar.
+
+[SAYFA 3]
+Yayıncı
+Kurulüşların
+
+“IPTV
+
+" Lisans
+
+ve Yayın
+
+İzni Başvuru
+
+Şekli ve
+
+Gerekli Belgeler
+
+Değerlendirme,
+
+IPTV Lisans
+ve
+
+© Yayın
+
+İzni
+Verilmesi
+
+IPTV Platform.
+İşletme İzni
+
+IPTV
+
+Platform
+İşletmecilerinin.
+Yükümlülükleri
+
+10.
+
+242
+
+(1) Önceden başka bir lisansa ve izne sahip yayıncı kuruluşlar, IPTV
+platforumundan yayın yapmak, üzere IPTV için Yasa'nın Birinci
+Cetvel'inde yer alan ödemeyi yaptığını gösteren dekontla, IP Radyo için
+ise aynı Cetveldeki IPTV başvuru ücretinin 7640'ının (Wüzde kırk)
+yatırıldığını gösteren dekontla birlikte Kurul'a yazılı olarak başvuruda
+bulunurlar.
+
+(2) o Önceden başka bir lisans ve izne sahip olmayıp doğrudan IPTV yayını
+yapmak isteyenler, Yasa'nın 36'ncı maddesine uygun olarak şirket
+kurup Yayın Yüksek Kurulu Lisans ve Yayın İzni Tüzüğü'nde belirlenen
+şekilde başvuru yaparlar. '
+
+Yasaya ve Yasa kurallarına uygun olarak çıkarılan bu Tüzük kuralları
+gereğince Kurul başvuruda bulunan yayıncı kuruluşun, IPTV lisans ve yayın
+izni talebini değerlendirir. Değerlendirme sonucunun olumlu olması
+durumunda yayıncı kuruluşa, IPTV lisansı ve lisans tarihini takip eden ilk altı
+ay içerisinde de Yasada, bu Tüzük ve Yayın Yüksek Kurulu Lisans ve Yayın İzni
+Tüzüğünde belirlenmiş koşulları yerine getirmesi halinde, bu Tüzüğün 12'nci
+
+madde kuralları gözönünde bulundurularak yayın izni verilir.
+
+Kurul, IPTV yayınlarının, IPTV platformu üzerinden iletimini sağlamak üzere
+müracaat eden ve başvuru için gerekli bilgi ve belgeleri sunarak bu Tüzükte
+belirtilen şartları yerine getiren işletmecilere, IPTV platform işletme izni
+verebilir.
+
+(1) IPTV platform işletmecileri;
+(A) IPTV platform işletme izni temin etmekle,
+
+(B) Platform üzerinden sunduğu isteğe bağlı yayın hizmetlerinin,
+
+Yasaya, ilgili diğer mevzüata, izin veya lisans koşullarına ve
+
+” Kurul kararlarına uygun olmasını sağlamakla, i
+
+(© Yasaya, ilgili diğer mevzuata ve izin veya lisans koşullarına ve
+
+Kurul kararlarına uygun olmayan isteğe bağlı yayın hizmetlerini
+program kataloğundan çıkarmakla,
+
+(© İsteğe bağlı yayınlar için program kataloğlarını ve bu
+kataloğlarda zaman zaman yapacağı tüm değişiklik veya
+
+ilaveleri Kurula bildirmekle,
+
+(O) (o Kurulun, Yasayı ve ilgili diğer mevzuatı dikkate alarak
+belirleyeceği içerikte veya şekilde sunulacak olan isteğe bağlı
+yayın hizmetlerinin, çocukların veya gençlerin normal şartlar
+altında O duymayacakları veya  gdrmeyecekleri (o veya
+erişemeyecekleri şekilde sunulmasını sağlamakla,
+
+(E) Lisans ve yayın izni olmayan veya lisans ve yayın izin hakkını
+kaybeden yayıncı kuruluşların yayınlarını iletmemekle,
+
+[SAYFA 4]
+©)
+
+(6)
+
+(H)
+
+0
+
+©)
+
+(P)
+
+243
+
+IPTV yayinlarinin ETSI tarafindan belirlenen standartlara gore
+yapılmasını ve iletilmesini sağlamakla,
+
+Yayınların, televizyon alıcıları tarafindan alınmasını ve
+izlenmesini sağlayacak şekilde set üstü alıcı cihazların
+abonelerine teminini sağlamakla,
+
+© Yayınların denetimi ve izlenmesi amacıyla Kurul tarafından
+
+belirlenecek yayınları en az bir ay süreyle saklamakla,
+
+Yayınların, Kurulda kaydedilebilmesi için gerekli teknik altyapı
+ve cihazların teminini sağlamak ve yayınların .Kurula iletimini
+
+. sağlayacak yeterli kapasitede. iletim hatlarının kesintisiz ve
+
+ücretsiz olarak Kurula tahsis edilmesini sağlamakla,
+
+Kurulca uygun bulunmayan yuridış: kaynaklı yayınları
+iletmemekle,
+
+Kuruldan geçici yayın durdurma ve benzeri ceza alan yayıncı
+kuruluşun yayınının durdurulduğu süre içinde, sadece ilgili
+yayının durdurulması ile ilgili Kurul kararının duyurulmasına
+ilişkin yayınları iletmekle, i
+
+IPTV Platformu üzerinden yayınlarını ilettiği yayıncı kuruluşları,
+her yıl en geç Eylül ayının ilk haftası içerisinde ve bu yayıncı
+kuruluşlarla ilgili her türlü değişikliği de, bu değişikliğin
+
+“, gerçekleştiği tarihten itibaren en geç bir ay içerisinde Kurula
+
+bildirmekle,
+
+IPTV altyapı işletmecisiyle yaptığı sözleşmenin aslına uygun
+olduğuna dair tasdikli bir suretini Kurula sunmakla,
+
+* Yayıncı kuruluşlar arasındaki rekabete taraf olmamakla, ve IPTV
+
+platformunda kamu yayınlarına öncelik vermekle,
+
+IPTV platform hizmetinin sunulduğu yerleşim yerlerini ve bu
+yerlerde meydana gelecek tüm değişiklikleri Kurula bildirmekle,
+
+IPTV platformunun teknik altyapısı ile ilgili bilgileri ve bu
+
+altyapıda meydana gelecek geliştirme ve iyileştirmeleri veya
+değişiklikleri Kurula vermekle,
+
+Teknolojideki gelişim veya yeniliklere dayanarak Kurulun zaman
+zaman talep edeceği geliştirmeleri veya iyileştirmeleri, Kurulun
+öngöreceği zaman içerisinde yapmakla,
+
+IPTV platformunda. yayınlanan tüm yayınların istatistiki
+ölçümleri ile izlenme oranları ölçümlerini her ayın başında
+Kurula ulaştırmakla,
+
+[SAYFA 5]
+IPTV
+Platform
+
+İşletme N
+
+İzni
+
+Başvurusu İçin
+Gereken
+Belgeler
+
+IPTV Platform
+Lisans
+
+ve
+
+Yayın
+
+İzni
+
+Verme
+Yöntemi
+27.12.2002
+RG 127
+EKM
+
+AE 774
+
+11.
+
+12.
+
+(2)
+
+0
+
+©)
+
+0
+
+(2)
+
+(3)
+
+244
+
+(R) İstatistiki ölçümleri, izleme oranları ölçümlerini herhangi. bir ~
+şekilde yayınlamamakla veya yayınlanmak üzere veya başka
+herhangi bir amaçla Kuruldan başka bir kuruma veya kişiye
+vermemekle
+
+yükümlüdürler.
+
+IPTV platform işletmecileri isteğe bağlı yayın hizmetlerinin sunumunda
+ve program kataloğunda reklama yer veremezler.
+
+İsteğe bağlı yayın hizmetlerini sunacak IPTV platform işletmecileri bu
+hizmetler açısından yayıncı kuruluşların uyması gereken tüm kurallara
+uymak zorundadırlar.
+
+IPTV platform işletmecileri Yasa'nın 36'ncı maddesine uygun olarak
+kurulmuş ve Yayın Yüksek Kurulu, Lisans ve Yayın İzni Tüzüğü'nde
+belirtilen başvuruda sunulacak belgelere ek olarak aşağıdaki belge ve
+
+bilgileri Kurula sunarlar:
+
+(A) o Platformda yayınlarına yer verilecek olan yayıncı kuruluşlara
+ilişkin bilgiler ve platform tarafından sunulan isteğe bağlı
+hizmetlerin listesi ve adeti,
+
+(B) Planlanan en az ve en çok abone sayısı,
+
+(C)- Sistemin tam blok şeması ile ana istasyon (head end) teçhizatı
+ve düzeninin tam tanımları, '
+
+(© Dağıtım sisteminin tam tanımı,
+
+(D) Oo Abone erişim ve hizmet sisteminin tanımı,
+
+(E) Kurul tarafindan istenebilecek diger bilgiler.
+
+Sunulan belge ve bilgilerde gerçeğe aykırı beyanda bulunulduğu tespit
+edilen IPTV platform işletmecisinin başvurusu değerlendirmeye
+alınmaz. Bunların başvuruları kabul edilmiş olsa dahi iptal edilir.
+
+Kurul, IPTV platform işletmecisi olmak üzere bu Tüzüğün 9'uncu
+maddesine uygun şekilde, IPTV platform işletme lisansı ve yayın izni
+almak isteyen kuruluşlara, Yayın Yüksek Kurulu Satın Alma Tüzüğü
+Kuralları uyarınca oluşturulan Satın Alma Komisyonu tarafından
+gerçekleştirilecek ihale yöntemiyle izin verir.
+İhale kriterleri, Kurula ödenecek aylık, yıllık ve beş yıllık ücretlerin
+kriterleri, Kurul tarafından bu Tüzüğe uygun olarak hazırlanacak bir
+Yönetmelik ile belirlenir.
+
+Kurul, IPTV platform işletmesi lisansı ve yayın iznini sayı olarak
+sınırlandırma hakkına sahiptir.
+
+[SAYFA 6]
+“IPTV.
+Platform
+İşletmecilerin-
+den Alınacak
+Ücretler
+
+Diğer
+Teknolojilerin
+Kullanılması
+
+Diğer Lisans ve *
+Yayın
+
+İzni Sahiplerinin ©
+
+Durumu
+
+Yürütme Yetkisi
+
+Yürürlüğe Giriş
+
+245
+
+(4) Kurul, IPTV platform lisans ve yayın izni verilmesi yöntemine ilişkin
+“ kuralların uygulanmasını kolaylaştırmak amacıyla Yönetmelik yapabilir.
+
+13. Bu Tüzüğün 12'nci maddesi kuralları uyarınca yapılacak ihalede Kurul, IPTV
+platform isletmeciliginden alacağı aylık, yıllık, beş yıllık ücretleri ve diğer gelir payları
+konusunu belirleme yetkisine sahiptir.
+
+14. IPTV platform işletmecileri, ilgili makamlardan gerekli izinleri alıp Kurul
+tarafından onaylanmadan IP üzerinden internet, görüntü ve ses, telefon, alışveriş ve
+
+. bu Tüzükte düzenlenmemiş veya Kurulca uygun görülmemiş hiçbir benzeri hizmeti N
+
+sunamazlar.
+ÜÇÜNCÜ KISIM
+Son Kurallar
+5 (1) Yayıncı kuruluşların daha önce Kuruldan almış olduğu diğer ortamlara
+
+(karasal, uydu, kablo vb.) ilişkin lisans ve yayın izinleri, IPTV lisans ve
+yayın İzni için yapacakları başvurular açısından ek bir hak kazandırmaz.
+
+Kuruldan diğer ortamlara (karasal, uydu, kablo vb.) ilişkin lisans ve yayın
+izni alan kuruluşlar IPTV platform işletmesi için başvuru yapamazlar,
+: ihaleye katılamazlar.
+
+©)
+16. Bu Tüzük, Yayın Yüksek Kurulu tarafından yürütülür.
+
+17. Bu Tüzük, Resmi Gazete'de yayımlandığı tarihten başlayarak yürürlüğe girer.

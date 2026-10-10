@@ -1,0 +1,658 @@
+[SAYFA 1]
+Sayı: 760
+
+1895
+
+ELEKTRONİK İMZA YASASI
+(93/2007 Sayılı Yasa)
+Madde (20) Altında Yapılan Tüzük
+
+Kuzey Kıbrıs Türk Cumhuriyeti Bakanlar Kurulu, Elektronik İmza Yasası'nın 20. Maddesinin
+kendisine verdiği yetkiyi kullanarak aşağıdaki Tüzüğü yapar:
+
+Kısa İsim
+
+Tefsir
+
+1. Bu Tüzük, “Elektronik İmza Yasasının Uygulanmasına İlişkin Usul ve
+Esaslar Tüzüğü” olarak isimlendirilir.
+
+BİRİNCİ KISIM
+Genel Kurallar
+
+2. Bu Tüzükte metin başka türlü gerektirmedikçe:
+
+“Arşiv“, Bu tüzüğün 14'üncü maddesinde belirtilen ve ESHS’nin
+saklamakla yükümlü olduğu bilgi, belge ve elektronik verileri anlatır.
+“Bildirim Şartları“, Yasanın 9uncu maddesinin 3'üncü fıkrasında
+belirtilen şartları anlatır.
+
+“Denetim, ESHS'nin her türlü faaliyet ve işleyişinin ilgili yasa, yasa
+altında çıkacak Tüzük ve Yönetmeliklerin hükümlerine uygunluğunun
+incelenerek; muhtemel hata, noksanlık, usulsüzlük ve/veya suistimallerin
+tesbit edilmesi ve ilgili Yasa ve Yasa altında çıkacak Tüzük ve
+Yönetmeliklerde öngörülen yaptırımların uygulanması amacı ile yapılan
+çalışmaların bütününü anlatır.
+
+“Dizin“, Geçerli sertifikaları içinde bulunduran elektronik depoyu
+anlatır.
+
+“Erişim Verisi”, Güvenli elektronik imza oluşturma araçlarına erişim
+için kullanılan parola, biyometrik değer gibi verileri anlatır.
+
+“ESHS“, Yasanın 9'uncu maddesinin birinci fikrasinda belirtilen
+Elektronik Sertifika Hizmet Sağlayıcısını (ESHS) anlatır.
+
+“Inceleme“, Kuruma yapılan bildirimin gerekli şartları sağlayıp
+sağlamadığını tesbit etmek amacı ile yapılan çalışmaların bütününü
+anlatır.
+
+“İptal Durum Kaydı”, Kullanım süresi dolmamış sertifikaların iptal
+bilgilerinin yeraldığı, iptal zamanının tam olarak tesbit edilmesine imkan
+veren ve üçüncü kişilerin hızlı ve güvenli bir biçimde ulaşılabileceği
+kaydı anlatır.
+
+“Kurul, Telekomünikasyon Üst Kurulunu anlatır.
+
+“Kurum”, Telekomünikasyon Düzenleme Kurumunu anlatır.
+“Kurumsal Başvuru”, Bir tüzel kişiliğin çalışanları veya müşterileri
+veya üyeleri veya hissedarları adına yaptığı nitelikli elektronik sertifika
+başvurusunu anlatır.
+
+“Nitelikli Elektronik Sertifika“, Yasanın 10 uncu maddesinde sayılan
+niteliklere haiz elektronik sertifikayı anlatır.
+
+“Özetleme Algoritması”, İmzalanacak elektronik verilerin sabit
+uzunlukta bir özetinin çıkarılmasında kullanilan algoritmayı anlatır.
+“Sertifika Özet Değeri", Sertifikanın, özetleme algoritması ile elde
+edilen çıktısını anlatır.
+
+“Sertifika İlkeleri", ESHS'nin işleyişi ile ilgili genel kuralları içeren
+belgeyi anlatır.
+
+“Sertifika Uygulama Esasları“, Sertifika ilkelerinde yer alan hususların
+nasıl uygulanacağını detaylı olarak anlatan belgeyi anlatır.
+
+“Sertifika Mali Sorumluluk Sigortası“, ESHS’nin Yasadan doğan
+yükümlülüklerini yerine getirmemesi sonucu doğacak zararların
+
+[SAYFA 2]
+Amaç
+
+Kapsam
+
+Hkeler
+
+Bildirimin
+Yapılması
+
+Bildirimin
+Inceleamesi ve
+Sonuçları
+
+1896
+
+karşılanması amacı ile yaptırmakla yükümlü olduğu sigortayı anlatır.
+“Yasa”, 93/2007 sayılı Elektronik İmza Yasasını anlatır.
+
+“Zaman Damgası İlkeleri”, Zaman damgası ve hizmetleri ile ilgili
+genel kuralları içeren belgeyi anlatır.
+
+“Zaman Damgası Uygulama Esasları“, Zaman damgası ilkelerinde yer
+alan hususların nasıl uygulanacağını detaylı olarak anlatan belgeyi
+anlatır.
+
+Bu tüzükte yer almayan tanımlar için Yasada yer alan tanımlar geçerlidir.
+
+3. Bu Tüzüğün amacı, elektronik imzanın hukuki ve teknik yönleri ile
+uygulanmasına ilişkin usul ve esasları düzenlemektir.
+
+4. Bu Tüzük; bildirim ve sertifikasyon süreçlerine, güvenli elektronik
+imza oluşturma ve doğrulama verileri ile araçlarına, elektronik imza
+hizmet sağlayıcısı, Kurum, nitelikli elektronik sertifika sahibi ve üçüncü
+kişilerin o yükümlülüklerine, denetimine, faaliyetin sona erme
+
+© durumlarına, Zaman damgasına, yabancı elektronik sertifikalara,
+
+güvenliğe, teknik ve mali hususlara ilişkin usul ve esasları kapsar.
+
+5. Bu Tüzüğün uygulanmasında aşağıdaki temel ilkeler göz önüne alınır.
+
+(1) Objektif nedenler aksini gerektirmedikçe, niceliksel ve niteliksel
+devamlılık, güvenilirlik, ayrımcı olmama, düzenlilik, verimlilik,
+açıklık, şeffaflık ve kaynakların etkin kullanılması,
+
+(2) Tüketici haklarının korunması,
+
+(3) Hizmet kalitesinin sağlanması,
+
+(4) Etkin ve sürdürülebilir rekabet ortamının sağlanması ve devamına
+yönelik uygulamaların teşvik edilmesi,
+
+(5) Uluslararası standartların dikkate alınması,
+
+(6) Elektronik imza kullanımının yaygınlaştırılması için yeni
+yatırımların ve uygulamaların özendirilmesi,
+
+(7) Elektronik sertifika sahibinin, talep ettiği hizmet ya da ürünler
+dışında herhangi bir hizmeti ya da ürünü satın almak zorunda
+bırakılmaması,
+
+(8) Bir hizmetin ya da ürünün diğer bir hizmetin ya da ürünün ücreti
+yoluyla desteklenmesinden veya karşılanmasından kaçınılması.
+
+İKİNCİ KISIM
+Bildirim Süreci
+
+6. Kamu kurum ve kuruluşları ile gerçek veya özel hukuk tüzel kişileri, ESHS
+olma talebini içeren dilekçeyi ve Ek-1’de yer alan bilgi ve belgeleri eksiksiz
+olarak Kuruma ibraz etmek suretiyle bildirimde bulunur. ESHS yapmış
+olduğu bildirimde, bildirim şartlarını sağladığını ayrıntılı bir biçimde gösterir.
+
+7. (1) Kurul, yapılan bildirimi derhal incelemeye alır ve incelemeyi iki (2) ay
+içinde sonuçlandırır. Bildirim şartlarını eksiksiz olarak yerine getiren ESHS,
+Kurul kararı ile bildirim yaptığı tarihten iki (2) ay sonra faaliyete geçer.
+
+(2) Kurul, inceleme sonucunda bildirim şartlarından bir veya birkaçının
+eksikliğini veya yerine getirilmediğini tespit ederse, bu eksikliklerin
+giderilmesi için ESHS’ye bir (1) ayı geçmemek üzere bir süre verir. ESHS bu
+sürenin sonuna kadar faaliyette bulunamaz. ESHS, Kurul tarafından verilen
+süre içinde bildirim şartlarındaki eksiklikleri giderdiğini ispatlayan bilgi ve
+belgeleri Kurula sunar. Bu şartları sağladığı Kurul tarafından tespit edilen
+ESHS, bildirim yaptığı tarihten itibaren iki (2) aylık sürenin tamamlanmış
+
+[SAYFA 3]
+1897
+
+olması halinde faaliyete geçer. Kurul, vermiş olduğu sürenin sonuna kadar
+bildirim şartlarındaki eksiklikleri gidermeyen ESHS’nin ESHS olma vasfinı
+kaybettiğine karar verir.
+
+Bildirimdeki 8. ESHS, faaliyete geçtikten sonra, yapmış olduğu bildirimde herhangi bir
+Değişiklikler değişiklik meydana gelmesi halinde, bu değişiklikleri yedi (7) gün içinde
+Kurula bildirir.
+
+ÜÇÜNCÜ KISIM
+Sertifikasyon Süreci
+
+Nitelikli Elektronik 9. (1) ESHS, nitelikli elektronik sertifika vereceği kişilerin kimliğini; nüfus
+
+Sertifika Başvurusu belgesi, pasaport, sürücü belgesi gibi fotoğraflı ve geçerli resmi belgelere
+göre tespit eder. Nitelikli elektronik sertifika verilecek kişi kimlik tespiti
+esnasında bizzat hazır bulunur.
+
+(2) ESHS, nitelikli elektronik sertifika verilecek kişinin kimliğinin birinci
+fikra hükümlerine göre önceden tespit edilmiş olduğu hallerde veya
+kurumsal başvurularda kimlik tespiti için bizzat hazır bulunma şartını
+aramayabilir. Kurumsal başvuru sabibi, adına başvuruda bulunduğu
+kişilerin nitelikli elektronik sertifika taleplerini yazılı olarak belgelendirir.
+Nitelikli elektronik sertifika başvurusu sırasında sertifika verilecek kişiye
+ait kimliğin doğru ve güvenilir biçimde tespit edilmesinden ESHS
+sorumludur.
+
+(3) ESHS, nitelikli elektronik sertifika sahibinin diğer bir kişi adına
+hareket edebilme yetkisinin, mesleki veya diğer kişisel bilgilerinin
+sertifikada yer alması durumunda, bu bilgileri resmi belgelere dayanarak
+eksiksiz, doğru ve güvenilir biçimde tespit eder; sertifika verilecek
+kişiden, sertifika vermek için gerekli olan bilgiler hariç bilgi talep
+edemez. ESHS, bu bilgileri nitelikli elektronik sertifika sahibinin onayı
+olmaksızın üçüncü kişilere iletemez ve başka amaçlarla kullanamaz.
+
+Nitelikli Elektronik 10. ESHS, nitelikli elektronik sertifika başvurusundan sonra sertifikayı
+
+Sertifikanın oluşturur ve sertifika sahibine teslim eder. Nitelikli elektronik
+
+Oluşturulması sertifikanın geçerlilik süresi sözleşme ve/veya taahhütnameler ile
+belirlenir.
+
+Nitelikli Elektronik 14. ESHS, sertifika sahibinin onayını almak kaydıyla nitelikli elektronik
+Sertifikanin sertifikayı kamuya açık bir dizinde yayımlar. ESHS, dizin hizmetinin
+Yayımlanması kesintisiz olarak verilmesini sağlar.
+
+Nitelildi Elektronik 12. Nitelikli elektronik sertifika, geçerlilik süresinin sona ermesinden once
+Sertifikanın sertifika sahibinin veya sertifika sahibinin onayını almak koşuluyla
+Yenilenmesi kurumsal başvuru sahibinin talebi doğrultusunda ESHS tarafından
+
+yenilenebilir, ESHS nitelikli elektronik sertifikayı, sertifika sahibine ait
+bilgilerin geçerliliğini doğrulayarak yeniler.
+
+Nitelikli Elektronik 13. (1) Nitelikli elektronik sertifikanın iptaline ilişkin talepler; ESHS, sertifika
+
+Sertifikanın İptal sahibi ve sözleşme ile belirlenen kişiler tarafından yapılabilir. ESHS; bu
+
+Edilmesi duruma ilişkin taleplerin yapılabilmesini, asgari olarak telefonla ve
+kesintisiz sağlar. ESHS nitelikli elektronik sertifika sahibini söz konusu
+durum hakkında bilgilendirir. Kurumsal başvurularda başvuru sahibi de
+bilgilendirilir.
+
+[SAYFA 4]
+1898
+
+(2) İptal talebinin alınmasından sonra nitelikli elektronik sertifika derhal
+iptal edilir. İptal edilen nitelikli elektronik sertifika, geçerlilik süresi
+sonuna kadar iptal durum kayıtlarında yer alır. ESHS, nitelikli elektronik
+sertifikalara ilişkin iptal durum kaydını herhangi bir kimlik doğrulamasına
+gerek olmaksızın ücretsiz ve kesintisiz olarak kamu erişimine açık tutar.
+Kayıtların bir sonraki güncelleme zamanı söz konusu kayıtlarda açıkça
+gösterilir. ESHS, nitelikli elektronik sertifikayı geçmişe yönelik olarak
+iptal edemez.
+
+(3) ESHS’nin imza oluşturma verisinin çalınması, kaybolması, gizliliğinin
+veya güvenilirliğinin ortadan kalkması ya da sertifika (ilkelerinin
+değişmesi gibi sertifika sahibinin kusurunun bulunmadığı (durumların
+sonucunda nitelikli elektronik sertifikaların ESHS tarafından iptal edilmesi
+ve yenilenmesi halinde, bu işlemler için hiçbir < ücret talep edilemez.
+
+DÖRDÜNCÜ KISIM
+
+Yükümlülükler
+ESHS'nin 14. (1) ESHS; nitelikli elektronik sertifika verilecek kişiyi, nitelikli elektronik
+Yükümlülükleri sertifika vermeden önce asgari olarak;
+
+(A) Yasada öngörülen sınırlamalar saklı kalmak üzere, güvenli
+Elektronik imzanın elle atılan imza ile eşdeğer olduğuna,
+
+(B) İmza oluşturma verisini ve aracını başkasına kullandırmamasına,
+
+(C) Nitelikli elektronik sertifikanın kullanımı ile ilgili usul ve
+sınırlamaların kapsamına,
+
+(D) Nitelikli elektronik sertifikanın iptal durumuna,
+
+(E) Nitelikli elektronik sertifika sahibi ile arasında çıkacak
+uyuşmazlıklarda başvurulabilecek alternatif uyuşmazlık çözüm
+yollarına,
+
+(F) Sözleşmenin ve/veya taahhütnamelerin hüküm ve şartlarında
+meydana gelecek değişikliklere,
+
+ilişkin yazılı olarak bilgilendirir.
+
+(2) ESHS;
+
+(A) Geçerlilik süresi sona eren nitelikli elektronik sertifikaları,
+
+(B) Nitelikli elektronik sertifika başvurusunda talep edilen bilgi, belge ve
+elektronik verileri,
+
+(C) Sertifika ilkelerini ve sertifika uygulama esaslarını,
+
+(D) Zaman damgası ilkelerini ve zaman damgası uygulama esaslarını,
+
+(E) Geçerlilik süresinin sona ermesinden itibaren kendi sertifikasını,
+
+(F) Nitelikli elektronik sertifika yönetimine ilişkin tüm işlemlere, bu
+işlemlerin yapıldığı zamana ve işlemleri yapan kişiye veya kişilere ait
+bilgileri içeren kaydı,
+
+en az yirmi (20) yıl süreyle saklar.
+
+(3) ESHS;
+
+(A) Sertifika uygulama esaslarının sertifika sahibini veya üçüncü kişileri
+ilgilendiren bölümlerini ve sertifika ilkelerini internet sayfasında
+yayimlamakla,
+
+(B) Nitelikli elektronik sertifika, zaman damgası ve elektronik imza ile
+ilgili hizmetlere ait ücretleri, bunları uygulamaya koyduktan sonra en
+geç onbeş (15) gün içinde Kuruma bildirmekle,
+
+(O) Sertifika mali sorumluluk sigortası yaptırmakla,
+
+(D) Nitelikli elektronik sertifika sahibine imza oluşturma aracı vermesi
+
+durumunda, bu aracın güvenli imza oluşturma aracı olmasını
+
+[SAYFA 5]
+witelikli
+Elektronik
+Sertifika
+Sahibinin
+Yükümlülükleri
+
+Üçüncü Kişilerin
+Yükümlülükleri
+
+Kurulun
+Yükümlülükleri
+
+İmza Oluşturma ve
+Doğrulama Verileri
+
+1899
+
+sağlamakla, yükümlüdür.
+
+15. Nitelikli elektronik sertifika sahibi;
+
+(1) Nitelikli elektronik sertifika almak için gerekli tüm bilgi ve belgeleri
+eksiksiz ve doğru olarak sağlamakla,
+
+(2) ESHS'ye vermiş olduğu bilgilerde değişiklik meydana gelmesi
+
+halinde ESHS’yi derhal bilgilendirmekle,
+
+(3) İmza oluşturma verisini kendisi üretmesi durumunda Elektronik
+İmza ile İlgili Süreçlere ve Teknik Kriterlere İlişkin Yönetmelik ile
+belirlenen algoritmaları ve parametreleri kullanmakla,
+
+(4) İmza oluşturma ve doğrulama verilerini sadece elektronik imza
+oluşturma ve doğrulama amaçlı olarak ve nitelikli elektronik
+sertifikanın içerdiği kullanıma ve maddi kapsama ilişkin
+sınırlamalar dahilinde kullanmakla,
+
+(5) İmza oluşturma verisini başkalarına kullandırmamakla ve bu konuda
+gerekli tedbirleri almakla,
+
+(6) İmza oluşturma verisinin gizliliğinden veya güvenliğinden şüphe
+etmesi durumunda ESHS’yi derhal bilgilendirmekle,
+
+(7) Güvenli elektronik imza oluşturma aracını kullanmakla,
+
+(8) İmza oluşturma ve doğrulama verilerinin ESHS’ ye ait olmayan
+yerlerde ve araçlarla üretilmesi durumunda gerekli güvenliği
+sağlamakla,
+
+(9)İmza oluşturma aracının veya erişim verisinin kaybolması,
+çalınması, güvenilirliğinden şüphe edilmesi durumunda ESHS’yi
+derhal bilgilendirmekle,
+
+yükümlüdür.
+
+16. Üçüncü kişiler;
+
+(1) Sertifikanın “nitelikli elektronik sertifika” olup olmadığını kontrol
+etmekle,
+
+(2) Nitelikli elektronik sertifikanın iptal ve geçerlilik durumunu kontrol
+etmekle veya güvenli elektronik imza doğrulama aracı kullanmakla,
+
+(3) Nitelikli elektronik sertifikanın kullanımına yönelik herhangi bir
+kısıtlamanın olup olmadığını kontrol etmekle,
+
+yükümlüdür.
+
+17. Kurul, ESHS'lerin bildirim sürecine ve faaliyet durumuna ilişkin bilgileri
+internette yayımlar,
+Kurul, elektronik imzaya ilişkin yaptığı çalışmalarla ve sektörün durumuyla
+ilgili yıllık durum raporu hazırlar ve internette yayımlar.
+
+BEŞİNCİ KISIM
+Teknik Hususlar ve Güvenlik
+
+18.(1) ESHS, kendi imza oluşturma ve doğrulama verileri ile sertifikasını Kuzey
+Kıbrıs Türk-Cumhuriyeti sınırları içerisinde oluşturur ve imza oluşturma
+verisini hiçbir şekilde bu sınırların dışına çıkaramaz.
+
+(2) ESHS'ye ait imza oluşturma ve doğrulama verilerinin geçerlilik süresi on
+(10) yılı aşamaz.
+
+(3) ESHS, faaliyete geçmesine müteakip yedi (7) gün içinde; sertifikasının
+Sertifika özet değerini ve özetleme algoritmasını kendi internet sayfasında
+yayımlar, ulusal yayın yapan en yüksek tirajlı iki (2) gazetede ilan vermek
+suretiyle Kamuoyuna duyurur ve gazete ilanlarının bir örneğini Kuruma iletir,
+
+[SAYFA 6]
+Giivenlil. Kriterleri
+
+Nitelikli Elektronik
+Sertifika, Zaman
+Damgası ve İlgili
+Hizmetlerin
+Ücretleri
+
+İdari Ücret
+
+Kurum Tarafından
+Faaliyete Son
+Verilmesi
+
+1900
+
+19. (1) ESHS özel hukuk tüzel kişisi ise, kurucu ortakları, tüze) kişiliği temsile
+
+yetkili yöneticileri ve istihdam ettiği veya ettirdiği personeli; gerçek kişi ise
+
+: kendisi, temsile yetkili yöneticileri ve istihdam ettirdiği personeli, affa uğramış
+
+olsalar bile ağır hapis veya altı (6) aydan fazla hapis cezasına çarptırılmamış
+
+olmak,affa uğramış olsalar dahi rüşvet, hırsızlık,
+dolandırıcılık;sahtekarlık.irtikap,ırza geçme ve benzeri yüzkızartıcı suçlardan
+ve bilişim alanındaki suçlardan mahkum olmamış olmalıdır.
+
+(2) ESHS; bilgi güvenliği, elektronik imza teknolojileri ve veri tabanı yönetimi
+alanlarında yeteri kadar teknik personel istihdam eder (veya ettirir. Teknik
+personel, konusunda yeterli mesleki deneyime sahip yada ilgili alanlarda
+eğitim almış olmalıdır. ESHS organizasyon şemasında istihdam ettiği veya
+ettirdiği tüm personelinin görev tanımını ve dağılımını belirler. ESHS;
+güvenli sistem ve cihazlar kullanır, bu sistem ve cihazlar ile bunların
+bulunduğu bina veya alanın korunmasını sağlar.
+
+ALTINCI KISIM
+Mali Hususlar
+
+20. Nitelikli elektronik sertifika, zaman damgası ve ilgili hizmetlere ait
+
+ESHS’lerin uymakla yükümlü olduğu ücretlerin alt ve üst sınırlarının
+belirlenmesine ilişkin usul ve esaslar Kurum tarafından tespit edilir.
+
+21.(1)Kurum ESHS’den nitelikli elektronik sertifika, zaman damgası ve elektronik
+
+imzalarla ilgili tüm hizmetlerin net satışlarının % 0,5'i (binde beş) kadar idari
+ücret alır. ESHS, bu ücretin tespit edilebilmesini teminen sunmuş olduğu
+hizmetler ile bu hizmetlere ilişkin hesapları ayrıştırır.
+
+(2)Bu ücretin ödenme zamanı faaliyet gösterilen takvim yılının birer aylık
+dönemleridir ve ESHS’nin yazılı beyanı üzerinden alınır. ESHS sözkonusu
+ücretle ilgili beyannamelerini,ücretin alınacağı dönemi izleyen ayın onbeşinci
+günü çalışma saati sonuna kadar Telekomünikasyon Üst Kurulu'na vermekle
+yükümlüdür.
+
+YEDİNCİ KISIM
+Faaliyetin Sona Ermesi
+
+22. (1) Kurum, yaptığı denetim sonucunda, ESHS'nin faaliyetinin devamı sırasında
+
+bildirim şartlarından bitini veya birkaçını kaybettiğini tespit etmesi halinde
+ESHS’ye bu eksikliğin giderilmesi için bir (1) aya kadar süre verir ve bu sure
+içinde ESHS'nin faaliyetini durdurur. Kurum, vermiş olduğu sürenin sonunda
+eksikliğin giderilmemesi veya Yasanın 19 uncu maddesindeki suçların üçüncü
+kez işlenmiş olması halinde ESHS'nin faaliyetine son verir.
+
+(2) Faaliyetine son verilen ESHS, faaliyete son verme kararının tebliği
+Tarihinden: itibaren onbeş (15) gün içinde faaliyette bulunan herhangi bir
+ESHS ile nitelikli elektronik sertifikaların devri konusunda anlaşabilir.
+Kurum, taraflar arasında anlaşma sağlanması durumunda, son verilen
+ESHS’nin oluşturduğu nitelikli elektronik sertifikaların anlaşma sağlanan
+ESHS’ye devredilmesine karar verir.Faaliyetine son verilen ESHS ile faaliyette
+bulunan herhangi bir ESHS arasında onbeş (15) gün içinde nitelikli elektronik
+sertifikaların devrine ilişkin anlaşma sağlanamaması durumunda Kurum,
+sertifikaların herhangi bir ESHS”ye . devrine re'sen karar verir. Nitelikli
+elektronik sertifikaları devralan ESHS sertifika yenileme işlemlerini başlatır ve
+devir kararının tebliği tarihinden itibaren bir (1) ay içinde bu işlemleri
+
+[SAYFA 7]
+ESHS'nin Faaliyetine
+Son Vermesi
+
+1901
+
+tamamlar. Kurum, uygun görmesi: halinde, bir (1) ayı geçmemek üzere ek
+süre verebilir.
+
+(3) ESHS, Kurumun faaliyete son verme kararının tebliğinden itibaren
+elektronik sertifika, zaman damgası ve elektronik imzalarla ilgili hizmetleri
+sağlayamaz. Ancak, sertifika yenileme işlemleri tamamlanıncaya kadar iptal
+durum kaydı hizmetini devam ettirir.
+
+(4) Faaliyetine son verilen ESHS nitelikli elektronik sertifikaları devralan
+ESHS’ye kimlik doğrulamada kullanılan belgeleri, dizini, arşivi ve sertifika
+yenileme işlemlerinin tamamlanmasından sonraiptal durum kaydını devreder
+ve kendi imza oluşturma verisi ile yedeklerini imha eder.
+
+Kurum, nitelikli elektronik sertifikaları re'sen devredebileceği herhangi bir
+ESHS’nin bulunmaması durumunda, faaliyetine son verdiği ESHS’nin
+oluşturduğu nitelikli elektronik sertifikaların iptal edilmesine karar verir.
+Faaliyetine son verilen ESHS son iptal durum kaydını oluşturduktan sonra
+kendi imza oluşturma verisi ile yedeklerini imha eder, geçerlilik süresi en geç
+sona eren nitelikli elektronik sertifikanın geçerlilik süresi sonuna kadar iptal
+durum kaydı hizmetini devam ettirir ve arşivi en az yirmi (20) yıl süreyle
+saklar. © ©
+
+(5) Kurum, nitelikli elektronik sertifikaların devrine ilişkin kararları internette
+yayımlar. Faaliyetine son verilen ESHS devire ilişkin kararları
+nitelikli elektronik sertifika sahiplerine elektronik posta ile duyurur ve
+internette yayımlar. ©
+
+23.(1) ESHS faaliyetine son vereceği tarihten en az üç (3) ay önce durumu Kuruma
+
+yazılı olarak bildirir. ESHS, faaliyetine son verme kararının Kuruma
+bildirilmesinden itibaren nitelikli elektronik sertifika başvurusu kabul edemez
+ve yeni nitelikli elektronik sertifika oluşturamaz.
+
+(2) ESHS faaliyetine son vereceği tarihten en az üç (3) ay önce faaliyetine son
+verme kararını internet sayfasında yayımlar, sertifika sahiplerine elektronik
+posta ile bildirir ve ulusal yayın yapan en yüksek tirajlı iki (2) gazetede ilan
+vermek suretiyle kamuoyuna duyurur.
+
+(3) ESHS; faaliyetine son verme tarihine kadar geçerlilik süresi sona ermeyecek
+ve kullanımı faaliyette bulunan herhangi bir ESHS tarafından sağlanabilecek
+nitelikli elektronik sertifikaları, faaliyete son verme tarihinden bir (1) ay
+öncesine-kadar faaliyette bulunan herhangi bir ESHS?ye devredebilir.
+Faaliyetine son veren ESHS devir hususunda sertifika sahiplerini elektronik
+posta ile bilgilendirir. Nitelikli elektronik sertifikaların devredilmesi halinde
+sertifikaları devralan ESHS sertifika yenileme işlemlerini başlatır ve bir (1) ay
+içinde bu işlemleri tamamlar. Kurum, uygun görmesi halinde, bir (1) ayı
+geçmemek üzere ek süre verebilir.
+
+(4) Nitelikli elektronik sertifikaları devreden ESHS sertifikaları devralan
+ESHS'ye kimlik doğrulamada kullanılan belgeleri, dizini, arşivi ve sertifika
+yenileme işlemlerinin tamamlanmasından sonra iptal durum kaydını devreder
+ve kendi imza oluşturma verisi ile yedeklerini imha eder.
+
+(5) Faaliyetine son verme tarihinden bir (1) ay öncesine kadar nitelikli
+elektronik sertifikaların devredilememesi veya nitelikli elektronik sertifikaların
+kullanımının faaliyette bulunan herhangi bir ESHS tarafından sağlanamaması
+durumunda, faaliyetine son vermek isteyen ESHS nitelikli elektronik
+sertifikaları faaliyete son verme tarihinde iptal eder. Faaliyetine son veren
+ESHS son iptal durum kaydını oluşturduktan sonra kendi imza oluşturma
+verisi ile yedeklerini imha eder, geçerlilik süresi eri geç sona eren nitelikli
+elektronik sertifikanın geçerlilik süresi sonuna kadar iptal durum kaydı
+hizmetini devam ettirir ve arşivi en az yirmi (20) yıl süreyle saklar.
+
+[SAYFA 8]
+1902
+
+SEKİZİNCİ KISIM
+Diğer Hükümler
+
+Zaman Damgası ve < 24. ESHS, zaman damgası ve hizmetlerini sağlamakla yükümlüdür. Nitelikli
+
+Hizmetleri elektronik sertifika sahibi, bu hizmeti talep etmesi halinde alır.
+
+Yabancı Elektronik . 25.(1) Yabancı elektronik sertifikaların hukuki sonuçlarına ve kabul edilmesine
+Sertifikaların Kabul ilişkin şartlar uluslararası anlaşmalarla belirlenir.
+
+Edilmesi Uluslararası anlaşma bulunmaması halinde, yabancı bir ülkede kurulu
+
+bir ESHS tarafından verilen elektronik sertifikaların Kuzey Kıbrıs Türk
+Cumhuriyeti'nde kurulu bir ESHS tarafından kabul edilmesi için asgari olarak;
+(A) Yabancı elektronik sertifikanın, Yasada ve bu Tüzükte yer alan
+nitelikli elektronik sertifikanın teknik şartlarını taşıması,
+(B) Yabancı ESHS'nin kurulu bulunduğu ülkede ESHS olarak faaliyet
+göstermesi,
+gerekir.
+(2)Kuzey Kıbrıs Türk Cumburiyeti’nde kurulu bir ESHS, kabul edeceği yabancı
+elektronik sertifika ile ilgili aşağıdaki belgeleri, sertifikaların kullanımına
+başlanmadan bir (1) ay önce Kuruma verir;
+
+(A) Elektronik sertifikalarim kabul edeceği yabancı ESHS'nin kendi
+sertifikasının örneği, i
+
+(B) Yabancı ESHS’nin kurulu bulunduğu ülkede ESHS olduğuna dair
+yetkili merciden alınmış belge,
+
+(C) Yabancı elektronik sertifikanın, Yasa ve bu Tüzükte yer alan
+nitelikli elektronik sertifikanın teknik şartlarını taşıdığına dair bilgi ve
+belgeler.
+
+(3) Kurum, yabancı ESHS'ye ait bilgileri internette yayımlar.
+
+Kabul edilen yabancı elektronik sertifikaların kullanılması sonucunda
+doğacak her türlü zarardan sertifikaları kabul eden Kuzey Kıbrıs Türk
+Cumhuriyeti’ndeki ESHS de sorumludur.
+
+Faaliyet Raporu 26. ESHS, Kuruma her yıl Mart ayi sonuna kadar bir önceki yıla ilişkin rapor
+verir. Rapor asgari aşağıdaki unsurları içerir;
+
+(1) Oluşturulan sertifika türleri ve sayıları,
+(2) Her bir sertifika türüne göre iptal edilen sertifika sayısı,
+(3) ESHS’nin geçmiş yıla ait mali durumunu gösterir bilgi ve belgeler,
+(4) Varsa kendisine devredilen sertifikaların durumuna ilişkin bilgiler,
+(5) ESHS'nin bir sonraki yıla ait pazar öngörüleri,
+(6) Kurum tarafından istenecek diğer bilgi ve belgeler.
+
+Teknik Hususlara (o 27. Nitelikli elektronik sertifika başvurusu, sertifikanın oluşturulması,
+
+İlişkin Yönetmelik yayımlanması, yenilenmesi, iptali ve arşivleme süreçleri dahil olmak üzere
+ESHS'nin işleyişine, imza oluşturma ve doğrulama verilerine, sertifika
+ilkelerine ve sertifika uygulama esaslarına, imza oluşturma ve doğrulama
+araçlarına, ESHS”nin faaliyetleri için kullandığı sistem, cihaz ile fiziki
+güvenliğine, personeline, zaman damgasına ve hizmetlerine ilişkin uyulması
+gereken kıstaslar, Kurum tarafından hazırlanacak teknik kriterler Yönetmeliği
+ile belirlenir. Kurum gerekli görülen hallerde Yönetmeliği günceller.
+
+Kural 28. Elektronik imzayla ilgili bu Tüzükte düzenlenmeyen ve/veya kural
+Bulunmayan bulunmayan haller için Kurul Kararı ile düzenleme yapılır.
+Haller
+
+[SAYFA 9]
+1903
+
+DOKUZUNCU KISIM
+Geçici ve Son Kurallar
+
+Geçici Madde 1. ESHS, Kurum tarafından nitelikli elektronik sertifika, zaman
+damgası ve ilgili hizmetlere ait ücretlerin alt ve üst sınırları
+belirleninceye kadar, bu Tüzüğün 5'inci maddesinde yer alan
+genel ilkeler çerçevesinde nitelikli elektronik sertifika, zaman
+damgası ve ilgili hizmetlere ilişkin ücretleri belirleyebilir.
+
+Yürütme yetkisi 29. Bu Tüzük Bayındırlık ve Ulaştırma işleri ile görevli Bakanlık
+Yürürlüğe Giriş 30. Bu Tüzük, Resmi Gazete'de yayımlandığı tarihten başlayarak
+yürürlüğe girer.
+(Madde 6)
+EK -1
+
+Bildirimde ESHS olmak isteyen kamu kurum ve kuruluşları ile gerçek veya özel hukuk tüzel
+Sunulacak Bilgi ve o kişileri, yapacakları bildirimde aşağıdaki bilgi ve belgeleri Kuruma sunar:
+Belgeler 1) İletişim Bilgileri: Adi/unvan ve tüm birimlerine ait iletişim bilgileri (adres,
+
+telefon, faks, e-posta adresi, internet adresi),
+
+2) Şirket ile İlgili Belgeler; Ticari şirket ise; şirketin kuruluş Ticaret Sicil
+Gazetesi, vergi levhası, şirketin imza sirküleri, ticaret sicil belgesi ve şirketi
+temsile yetkili kişi/kişilerin adli sicil kayıtları ve iletişim bilgileri,
+
+3) Personel: Organizasyon şeması, istihdam ettiği kişilerin ESHS personeli
+olduğunu. gösterir sosyal güvenlik kuruluşundan alınmış belge, istihdam
+ettiği ve ettirdiği tüm personelin adli sicil kayıtları ile teknik personelin
+özgeçmişi ve uzmanlığını ispatlayan belgeleri,
+
+4) Sertifika İlkeleri ve Sertifika Uygulama Esasları,
+
+5) Zaman Damgası İlkeleri ve Zaman Damgası Uygulama Esasları,
+
+6) Kendi Sertifikasınin Örneği,
+
+7) Sertifika Mali Sorumluluk Sigortası: Sertifika mali sorumluluk sigortası
+için sigorta şirketi ile yaptığı sözleşmenin bir örneği,
+
+8) Sözleşme ve/veya Taahhütnameler Örneği: Taahhütnamelerin ve/veya
+nitelikli elektronik sertifika sahipleri ile yapacağı sözleşmenin birer örneği,
+
+9) Hizmet Sözleşmesi: Hizmet alması durumunda, hizmet aldığı taraf ile
+imzaladığı sözleşmenin bir örneği,
+
+10) Yönetmelik ile İstenilen Bilgi ve Belgeler.

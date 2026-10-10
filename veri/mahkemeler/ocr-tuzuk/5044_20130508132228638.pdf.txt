@@ -1,0 +1,1631 @@
+[SAYFA 1]
+Sayı : 867
+
+Kısa İsim 1.
+
+Amaç
+
+Kapsam 3.
+
+Hukuki 4,
+
+Dayanak
+Tefsir
+
+2103
+
+HAVAALANLARI YASASI
+(Fasıl 300 )
+Madde (4) Altında Yapılan Tüzük
+
+Bakarlar Kurulu, Havaalanları Yasası'nın 4'üncü maddesinin kendisine verdiği yetkiyi kullanarak
+aşağıdaki Tüzüğü yapar.
+
+2.
+
+5.
+
+Bu Tüzük, “Hava Alanı Yapım, Geliştirme, Lisanslandırma © ve Çalıştırma
+Sertifikalandırılma Tüzüğü” olarak isimlendirilir.
+
+BİRİNCİ KISIM
+Genel Kurallar
+Bu tüzüğün amacı, KKTC'deki sivil hava alanlarının, Uluslararası Sivil Havacılık Teşkilatı
+(ICAO) tarafından yayımlanan EK-2, 3, 9, 10, 11, 14, 15, 17 ve Avrupa Sivil Havacılık
+Konferansı (ECAC) tarafından yayımlanan Döküman 30 ve yerel mevzuatta da belirlenen
+standartlarda yapımı, geliştirilmesi, lisanslandırılması ve çalıştırma sertifikalandırılması ile
+ilgili esasları belirlemektir.
+
+Bu Tüzük kamu kurum ve kuruluşları ile gerçek ve özel tüzel kişilerin hava alanı yapımı,
+işletimi ve sertifikalandırılması ile ilgili kuralları ve standartları kapsar.
+
+Bu Tüzük, 1949 Hava Trafiği Emniyeti Sivil Havaalanlarına Lisans Verilmesi hakkındaki
+48'inci maddesi ve Bak. Kur. Kararı No 5 (K-11) 1 175-2007 ye dayanılarak hazırlanmıştır.
+
+Bu Tüzükte metin başka türlü gerektirmedikçe;
+
+Apron: Bir hava alanında hava araçlarının parklandırılmaları, akaryakıt ikmalleri, yolcu, ,
+yük, posta, kargo, indirme-bindirmeleri ve bakımlarının yapılabilmesi için belirlenmiş
+sahayı anlatır ,
+
+Apron yönetim servisi: Apronlarda hava araçlarının ve diğer vasıtaların hareket ve
+faaliyetlerini düzenlemek için temin edilmiş servisi anlatır ,
+
+Aşma sahası (clearway): Karada veya suda uçakların muayyen bir yüksekliğe kadar ilk
+tırmanışlarını yapabilmelerine elverişli şekilde hazırlanmış veya seçilmiş, ilgili otoritelerin
+kontrolü altında tutulan dikdörtgen biçimde belirlenmiş sahayı anlatır ,
+
+ATC Personeli, Havaalanlarında hava trafik kontrol hizmeti sağlayacak Sivil Havacılık
+Dairesi lisanslı personeli anlatır, .
+
+Bakan: Ulaştırma Bakanını anlatır ,
+
+Bakanlık: Ulaştırma Bakanlığını anlatır ,
+
+Durma uzantısı (Stopway): Kalkıştan vazgeçme halinde uçağın durabilmesine elverişli
+şekilde hazırlanmış, kalkış için mevcut koşu mesafesinin sonunda ve yer üzerinde
+belirlenmiş bir sahayı anlatır ,
+
+ECAC: Avrupa Sivil Havacılık Konferansını anlatır,
+
+Eşik: Pistin iniş için kullanılabilen bölümünün başlangıcını anlatır ,
+
+Hava alanı: Karada ve su üzerinde, içerisindeki bina, tesis ve donatımlar dahil hava
+araçlarının kalkması, inmesi ve yer manevraları için hazırlanmış, hava araçlarının bakım ve
+diğer ihtiyaçlarının karşılanmasına, yük ve yolcu indirilip bindirilmesine elverişli tesisleri
+bulunan yerleri anlatır ,
+
+Hava alanı yapımcısı: Hava alanı yapımından sorumlu kamu kurum ve kuruluşları ile
+gerçek ve özel tüzel kişileri anlatır ,
+
+Hava alanı işletmecisi:Havaalanı çalıştırma sertifikası sahibi ve Hava alanı işletiminden
+sorumlu kamu kurum ve kuruluşları ile gerçek ve özel tüzel kişileri anlatır ,
+
+Hava alanı kullanıcılar; Hizmet üretmek için hava alanı tesis ve kolaylıkları ile altyapısını
+kullanan kamu kurum ve kuruluşları ile gerçek ve özel tüzel kişileri anlatır,
+
+Hava alanı çalıştırma sertifikası: Bu Tüzükte istenen koşulları sağlayan bir hava alanı için
+bu Tüzüğün EK-6 bölümünde bulunan ve Bakanlık tarafından hava alanı işletmecisine
+verilen belgeyi anlatır,
+
+Havaalanı lisansi,Bu Tüzükle istediği koşulları sağladığı için bu Tüzüğün Ek-3 bölümünde
+bulunan belgeye sahip havaalanını anlatır,
+
+Hava alanı rakımı: İniş sahasının en yüksek noktasının deniz seviyesinden yüksekliğini
+
+anlatır,
+
+[SAYFA 2]
+Hava 6.
+Alanlarının
+Yapımı ve
+İşletimi
+
+İnşaat... 7.
+Sınırlamaları
+
+2104
+
+Hareket sahası - PAT (Pist-Apron-Taksiyolu) sahası: Bir hava alanında uçakların kalkış,
+iniş ve taksi yapması için kullanılan manevra ve park sahalarını anlatır ,
+
+Hareket: Her bir iniş veya kalkışı anlatır,
+
+ICAO: Uluslararası Sivil Havacılık Teşkilatını anlatır,
+
+İniş sahası: Hareket sahasının, uçakların iniş ve kalkışları için kullanılması amaçlanan
+bölümünü anlatır ,
+
+Kamu Havaalanı: Tüm kişilerin kullanımına eşit şart ve koşullarda açık olan havaalanını
+anlatır, Havaalanı'nın tesis ve kolaylıklarından faydalanma çalıştırıcısının ve/veya
+yönetiminin onayına bağlıdır.
+
+Kontrolsüz hava alanı: Aydınlatma ve seyrüsefer kolaylıklarının bulunmadığı, pilotların
+aletsiz ve görerek (VFR) iniş-kalkış yapabildikleri hava alanlarını anlatır,
+
+Kaplama Sınıflandırma Numarası (PCN): Bir kaplamanın tahditsiz faaliyetler için taşıma
+mukavemetini ifade eden bir sayıyı anlatır ,
+
+Kargo, yük ve posta” yı anlatır,
+
+Kargo Birimi, 200 Kg’yi anlatır.
+
+Meydan referans noktası: Hava alanınm coğrafi pozisyonu belirlenmiş bir noktasını anlatır ,
+Meydan tanıtma işareti: Hava alanının havadan tanınmasına yardımcı olmak üzere meydana
+yerleştirilmiş bir işareti anlatır,
+
+Mania: Uçakların yer hareketleri için kullanılan yüzeylerde bulunan veya uçuştaki uçağın
+korunması için belirlenmiş yüzeyleri aşan bütün geçici, sabit ya da seyyar cisimler veya
+bunların bir kısmını anlatir,
+
+Maniadan arındırılmış bölge: İç yaklaşma yüzeyi, iç geçiş yüzeyi, temkinli iniş yüzeyi, ve
+şerit sahanın, bu yüzeylerle sınırlanmış bölümü üzerinde, seyrüsefer amacıyla monte
+edilmiş, Kırılabilir hafif kitlelerin dışındaki sabit maniaların ihlal etmediği hava sahasını
+anlatır ,
+
+Pist Bir kara meydanında uçakların iniş ve kalkışları için hazırlanmış dikdörtgen biçimde
+belirlenmiş sahayı anlatır ,
+
+* SÖU: Uluslararası Sivil Havacılık Teşkilatı (ICAO) tarafından yayımlanan eklerin son
+
+şeklinde yer alan standartlar ve önerilen uygulamaları anlatır.
+
+Özel Havaalanı: Havaalanı çalıştırma sertifikası sahibi ve/veya sahibinin izin vereceği
+kişiler tarafından kullanılabilirler anlatır.
+
+Uçak park sahası: Apronlarda bekleme yapan uçakların parklandırılmaları için belirlenmiş
+sahayı anlatır.
+
+Bu Tüzükte belirtilmeyen tanımlar için uluslararası sivil havacılık kuruluşları tarafından
+yayımlanan dokümanlarda belirtilen tanımlar geçerlidir.
+
+İKİNCİ KISIM
+Havaalanlarının Yapımı İşletimi, Geliştirilmesi ve Bakımı
+
+Hava alanları, devlet veya kamu tüzel kişileri ile gerçek ve özel tüzel kişiler tarafından
+yapılır ve işletilir.
+
+Yapım ve geliştirme izni, havaalanı lisansı ve hava alanı çalıştırma sertifikası süreye ve
+yükümlülüklere bağlanabilir., kamu düzeninin ve sağlığının tehlikeye girebileceği Kanaatini
+haklı kılacak nedenlerin varlığı halinde. izin verilmez; verilen iznin kapsamı dışında bir
+kullanım durumunda havaalanı lisans ve çalıştırma sertifikası iptal edilir. Gerektiğinde
+hava alanı veya iniş şeridi kamulaştırılır.
+
+Hava alanlarının ve ilgili tesis ve teçhizatın çevresinde, Bakanlıkça belirlenecek esaslar
+içinde ve saptanacak bir alan dahilinde izin alınmadıkça hava trafiği, uçuş güvenliği ve
+haberleşmeyi engelleyecek, seyrüseferi ve meydan güvenliğini tehlikeye düşürecek nitelikte
+ve yükseklikte bina, yapı, inşaat yapılması, ağaç ve direk dikilmesi, tesis kurulması yasaktır.
+Bakanlık, hava alanları ve uçuş emniyeti tesisleri etrafında uçuş emniyetini tehlikeye
+düşürebilecek yapı, bina, ağaç, direk gibi tesisleri kaldırtabilir.
+
+Bakanlık, belirli manialara veya yerlere, hava seyrüseferi yapan kişilerce görülebilmesi ve
+tanınabilmesi için gözle görülebilir işaretler veya radyo veya elektrik işaretlerinin
+konulmasını istemeye yetkilidir. - İlgililer de istem doğrultusunda işlem yapmakla
+yükümlüdür.Bakanlık; ilgili kuruluşların da görüşünü alarak hava alanları için yukarıda
+değinilen hususları kapsayan planları ve kuralları hazırlar ve yayımlar.
+
+Yukarıdaki fikralarda belirlenen hususlar için fasıl 96 “Yollar , Binalar Yasası” ve 55/89
+Sayılı “İmar Yasası ve Fasıl 300 Havaalanları Yasası Madde 5 ve Madde 6'da belirlenen
+yasaklama ve cezai hükümler uygulanır.Konulan sınırlamalar, ICAO tarafından yayımlanan
+EK-14 ün ve bu eke ilişkin olarak yayımlanan dokümanların son şeklinde belirlenen
+
+[SAYFA 3]
+Güvenlik . 8.
+Tedbirleri
+
+Minimum 9,
+
+Gereklilikler
+
+Master Plan 10.
+
+Kalite il.
+Güvence Sistemi
+
+Sigorta 12.
+
+Hava 13.
+Alanının
+Uluslararası
+Trafiğe Açılması
+
+2105
+standart ve tavsiyelerin altında olamaz.
+
+Bakanlık, kamu ve özel haya alanlarında can ve mal güvenliğinin sağlanması, yolcu ve eşya
+trafiğinin güvenlik içinde yürütülmesi, yangın ve benzeri tehlikelere karşı korunması amacı
+ile gereken önlemleri alır, aldırır ve denetler.
+
+Sivil trafiğe açık hava alanlarındaki güvenlik önlemlerinin, ICAO EK-17 ile Doküman
+8973, ECAC Doküman 30 ve Milli Sivil Havacılık Güvenlik Programı ve 1999 Sivil
+Havaalanlarında Kontrol ,Güvenlik ve Denetimin Sağlanması Tüzüğünde ( belirtilen
+standartlarda alınması zorunludur.
+
+Hava. alanlarının yapımı, işletimi ve sertifikalandırılması işlemlerinde ICAO tarafından
+yayımlanan EK-2, 3, 9, 10, 11, 14, 15 ile 17 nin ve bunlara ilişkin yayımlanan
+dokümanların son şeklinde belirtilen standart ve tavsiyeler ile ECAC tarafından yayımlanan
+Doküman 30 da ve yerel mevzuatta belirtilen standartların altında bir uygulama yapılamaz.
+
+Havaalanı lisansı ve havaalanı çalıştırma sertifikası alacak olanlar, hava ve kara tarafındaki
+tüm sistem ve donanımlar, ekonometrik modele dayalı olarak trafik tahminleri, hava ve kara
+tarafındaki kapasite açısından kritik tesisleri olan pist, apron, otopark ve erişim hattı
+kapasiteleri, mevcut kapasitelerin trafik tahminlerine göre hesaplanan gerekli kapasitelerle
+karşılaştırılması ile yıllara göre gerekli ek kapasitelerin belirlendiği ve hava alanı arazisinin
+ihtiyaçlar doğrultusunda daha gerçekçi değerlendirilmesi için 5 er yıllık periyotlar halinde
+gözden geçirilmek üzere 20. yılı kapsayacak Gelişim Master Planlarını hazırlamak
+zorundadır.
+
+GKK tarafından kullanılan hava alanlarındaki askeri tesislerin gelişimini
+planlamak üzere GKK tarafından hazırlanacak Gelişim Master Planları Bakanlık ile
+koordine edilerek hazırlanacaktır.
+
+Havaalanı lisansına sahip tüm sivil havaalanları için kalite güvence sistemi oluşturulması
+ihtiyaridir, ancak bakanlığın talep etmesi üzerine talep tarihinden itibaren en geç 3 yıl
+içerisinde bahse konu kalite güvence sistemi TSE, ISO veya CEN veya Bakanlığın uygun
+göreceği herhangi bir başka standart sistemi kapsamında hazırlanıp sunulması zorunludur.
+Kalite güvence sistemini istenilen süre içerisinde oluşturamayan havaalanı çalışma
+sertifikası iptal edilir.
+
+Tüzükte istenen standartları sağlayamamasından kaynaklanan kusur veya eksikliklerinden
+dolayı 3 üncü şahıslara verebileceği zararların tazmini için, hava alanı çalıştırma sertifikası
+sahibi tarafından 3 üncü Şahıslar Mali Mesuliyet Sigortası yaptırılması zorunludur.
+
+Hava alanı çalıştırma. sertifikası sahibi, ilgili kurum ve kuruluşlar ile gerekli
+koordinasyonu sağlayarak ve uluslararası standartları da dikkate alarak sigorta alt limitlerini
+belirlemek ve bunu Bakanlığa bildirmek zorundadır.
+
+Uygun teknik ve özelliklere sahip, gümrük, pasaport, güvenlik hizmeti ve donanımı,
+haberleşme, sağlık, yakıt, ikram, yer hizmetleri ve bunlara benzer işlemlerin yapılması için
+kolaylıkları bulunan hava alanları uluslararası trafiğe açılabilir.
+Bir hava alanının uluslararası trafiğe açılabilmesi için aiagidaki kurallara uygun
+olması gerekir;
+1)Bir Havaalanının Uluslar arası yolcu trafiğine açılabilmesi için Bakanlar
+Kurulu onayı gereklidir.
+2)Özel Havaalanları Uluslar arası trafiğe açılamaz.
+3)Bu tüzükte istenen şartların sağlanarak havaalanı yapım ve geliştirme,
+havaalanı lisanslandırma ve havaalanı çalıştırma sertifikalandırma işlemlerinin
+tamamlanması,
+4)ICAO EK-2, 3,9, 10, 11, 14, 15, 17 ve bu eklere ilişkin olarak yayımlanan
+dokümanlarda belirtilen standartlar ve önerilen uygulamaların hava alanında
+sağlandığının ilgili kuruluşlar tarafından tespit ve teyit edilmesi zorunludur.
+5)Havaalanmin Uluslar arası yolcu trafiğine açılabilmesi için aşağıdaki kriterleri
+sağlaması gereklidir:
+
+(A) Enaz | adet 3000x45 m. veya daha büyük ebatta piste sahip olası,
+(B)Seyrüsefer Yardımcı Cihazlarının (ILS, VOR. DME, NDB, v.b.)
+bulunması,
+
+(C)En az CAT | veya CAT 2 kategorisinde pist aydınlatma ve yaklaşma
+
+[SAYFA 4]
+Havaalanı
+
+14.
+
+Çalıştırılma
+Sertifikasından
+
+Feragat
+
+Eğitim
+
+Ücret
+Tarifeleri
+
+15.
+
+16.
+
+2106
+
+ışıklarına sahip olması,
+(D)Terminal yolcu kapasitesinin yıllık en az 3,000,000 olması,
+(E)Terminal konforuna  (asitma,sogutma,havalandirma,internet,oturma
+grupları,atık işleme tesisi,v.b.) sahip olması,
+(F)Havaalanına inecek en büyük gövdeli uçak tipi için kaza kırım ve
+kurtarma olanaklarına sahip olması,
+(G)Uçuş Emniyetinin sağlanması için kullanılan özel maksatlı araç,gereç
+ve teçhizata (pist sürtünme katsayısını ölçen teçhizat , pist süpürme aracı
+v.b.) sahip olması,
+(H)Kargo ve antrepo kolaylıklarına sahip olması,
+(DSahip olduğu pist veya pistler için havaalanına inecek en büyük gövdeli
+uçak tipine göre bakanlıkça belirlenecek Kaplama Sınıflandırma
+Numarası'na (PCN) sahip olması,
+(İ)Havaalanına inecek en büyük gövdeli uçak tipine göre belirlenecek en
+az 10 uçak kapasiteli aprona sahip olması,
+(Aşağıdaki kolaylıkların kesintisiz olarak sağlanması;
+
+(a)Gümrük ve Pasaport Kontrol Hizmeti,
+
+(b)Meteoroloji Hizmeti,
+
+(c) Yangın Söndürme Hizmeti,
+
+(d)Posta ve Telefon Hizmeti,
+
+(e)Sağlık Hizmeti,
+
+(Yakıt Hizmeti (Hidrant)
+
+(g)Yer Hizmeti,
+
+(h)ikram Hizmeti,
+
+(0Güvenlik Hizmeti,
+
+()Araba Parkı Hizmeti,
+(K)Havaalanı ile Lefkoşa, Gime ve Mağusa şehir merkezleri arasında
+toplu taşımacılık kolaylıklarının olması.
+
+Hava alani çalıştırıcısı, işletim faaliyetine son vermek isterse 3 ay önceden bunu Bakanlığa
+ve hava alanı kullanıcılarına bildirmesi gerekmektedir. Bakanlığın sertifikanın iptalini
+uygun görmesi halinde, başka bir işletmeciye sertifika verilinceye kadar, Bakanlık hava
+alanını operasyonlara kapatabilir.
+
+Bakanlik tarafından bir hava alanının operasyonlara kapatılması söz konusu
+olduğunda GKK ihtiyaçları göz önünde bulundurulur.
+
+Hava alanı çalıştırma sertifikası sahibi, hava alanı hizmetlerinin uluslararası seviyede
+yapılmasını sağlamak amacıyla, hava alanı organizasyon şeması içinde yer alan tüm
+personelin sürekli eğitimlerini sağlamak ve bunu teminen tüm personelin işbaşı ve tazeleme
+eğitimlerini yaptırarak sertifikalandırmak için yıllık periyodik kurslar düzenlemek ve
+hazırlayacağı eğitim programının bir suretini Bakanlığa göndermek zorundadır.
+
+Hava alanı güvenlik hizmetlerinde çalışan tüm personelin yetkilendirilmiş bir
+eğitim kurumunda işbaşı ve tazeleme eğitimlerinin yaptırılarak sertifikalandırılması
+zorunludur.
+
+(1) Hava alanlarının kullanılması, tesislerinden faydalanılması ve verilen hizmetler
+karşılığında alınacak ücretler Havaalanı Çalıştırma Sertifikası sahibi tarafından hazırlanacak
+tarifelerle saptanır.
+
+A) Ücret tarifeleri, Bakanlığın onayını almadan ve en az 15 gün önceden 3 üncü
+şahıslara duyurulmadan yürürlüğe konamaz.
+
+B) Hava alanı işletmecisi, bu maddede belirtilen ücretleri belirlemeden önce, hava
+alanı ücretleri konusunda ICAO Doküman 9082 ve Doküman 9161 gereğince hava alanı
+
+kullanıcılarını bilgilendirir.
+C) Kullanıcılar, ilgili hava alanındaki trafik öngörüleri, filo yapısı ve ihtiyaçları
+hakkında hava alanı işletmecisine gerekli bilgileri sunmak zorundadır.,
+
+(2)Bu Tüzük uyarınca alınması gereken ücretler, “Sivil Havacılık Ücretler Tüzüğü Ek-14”
+kapsamında ücretlendirilir.
+
+[SAYFA 5]
+Yapım 17.
+ve/veya
+Gelistirme {zai
+Talebi ve Onayı
+
+Yapım 18.
+İzni ve/veya
+Geliştirme
+Talebinin
+İncelenmesi
+
+Hava 19.
+Alanı Yapım
+ve/veya
+Geliştirme
+Taleplerini
+İnceleme
+Komisyonu
+
+Hava 20.
+Alanı Yapımı
+ve/veya
+Geliştirilmesi
+İşlemlerinin
+Denetimi
+
+ve Sonuçlandı-
+rılması
+
+Hava 21.
+Alanı
+Lisanslandı-
+Rılmasi
+
+ve
+
+Çalıştırma
+Sertifikaland:-
+rılması Talebi
+
+2107
+
+ÜÇÜNCÜ KISIM
+Hava Alanlarının Sınıflandırılması, Yapımı, Geliştirilmesi, Lisansı Çalıştırma
+Sertifikalandırılması ve Teknik Uygulamalar
+
+Havaalanlarının sınıflandırılması ICAO Ek 14 Tablo 1.1'de olduğu gibidir.
+
+Yeni bir havaalanı yapımı için Bakanlar Kurulu onayı gereklidir. Bir havaalanının
+geliştirilmesi için Bakan'ın onayı gereklidir. Bakanlar Kurulu'nun yazılı onayını müteakip
+Havaalanı yapımcısı çalıştırıcı ile birlikle, EK-1 de belirtilen Hava Alanı Yapımı Başvuru
+Formunda istenen bilgi ve belgeleri eksiksiz olarak hazırlayıp Bakanlığa sunar.
+
+Havaalanı yapımcısı tarafından sunulan ve bu Tüzüğün 17 inci maddesinde belirtilen yapım
+izin talebi, bu Tüzüğün 19'uncu maddesinde belirtilen komisyon tarafından değerlendirilir.
+Bakanlık gerek gördüğü hallerde diğer Bakanlık, kamu kurum ve kuruluşlarının ve/veya
+kamu dışından uzmanların görüşünü alır.
+
+Hava alanı yapım talepleri Bakan onayı ile oluşturulan inceleme komisyonunca incelenir.
+Bu komisyon Bayındırlık-Ulaştırma Bakanlığı müsteşarı başkanlığında Maliye Bakanlığı ,
+Turizmden sorumlu Bakanlık, Sivil Havacılık Dairesi, DPO, Planlama-İnşaat Dairesi, KIB-
+TEK, ilgili yerel yönetim, Su İşleri Dairesi, Çevre Dairesi ve Şehir Planlama Dairesi
+temsilcilerinden oluşur. Komisyon başkanı uygun göreceği başka yerli veya yabancı
+uzmanları komisyona dahil edebilir.
+
+Komisyon, hava alanı yapım taleplerini bu tüzük , ICAO tarafindan yayımlanan ekler ve bu
+eklere ilişkin olarak yayımlanan dokümanların son şeklinde belirtilen tüm standart ve
+tavsiyelerde belirtilen hususlar ile ECAC tarafından yayımlanan Doküman 30'da belirtilen
+standartları ve yerel mevzuat gerekliliklerini dikkate alarak en geç 30 gün içerisinde
+değerlendirir. ;
+
+Kurum temsilcileri kurumlarının görüşlerini komisyon başkanlığına yazılı sunarlar. Karar
+oybirliği ile alınır ve yazılı gerekçeleri ile birlikte başkan tarafından ön izin için bakan görüş
+ve onayına sunulur.
+
+Yapım ön izninin alınmasını müteakip, işe başlamadan önce izin sahibi hava alanına ait
+proje ve şartnameleri Komisyon Başkanlığının onayına sunacaktır. Proje ve şartnamelerin
+inceleme süresi başvuru tarihinden itibaren 30 gündür. Komisyondan onay alan projeye
+bakan tarafından yapım izni verilir. e
+
+Havaalanı yapımının; gerek görülen süre ve periyotlarla onaylanan projeye, teknik
+şarmameye, ICAO ve ECAC standartlarina ve yerel mevzuata uygunluğu Komisyon
+Başkanlığınca denetlettirilir. Yapım süreye tabiidir. Kamu arazisi üzerinde yapılacak yapım
+ve/veya geliştirmeler söz konusu ise Proje bedelinin % 30 kadarı süre sonunda taahhüt
+edilen işin proje gerekliliklerine göre belirtilen sürede tamamlanmaması halinde Maliye
+Bakanlığı hesabına aktarılmak üzere yapımcı tarafından Merkez Bankası'na yatırılır. Bu
+süre yazılı gerekçeler sunulması ve bu gerekçelerin uygun görülmesi halinde Bakan
+tarafından bir defaya mahsus uzatılabilir. Bu teminat Komisyon Başkanlığına yazılı olarak
+sunulmadığı müddetçe inşaat başlayamaz.
+
+(I) Hava alanının inşaatının ve/veya geliştirilmesinin tamamlanmasına en az 3 ay kala
+havaalanını çalıştırmaya talip olan, Hava Alanı Lisansı Başvuru Formunu (EK-2), formda
+belirtilen bilgi ve belgeleri ve ICAO Doküman 9774 AN/969 öngörülen standartlarda
+hazırlayacağı Havaalanı Kılavuzunu tamamlayarak eksiksiz olarak Bakanlığa sunar.
+
+(2) Talepler, bu Tüzüğün 23'üncü maddesinde belirtilen inceleme komisyonu tarafından
+değerlendirilir ve değerlendirme sonucu en geç 60 gün içinde talep sahibine bildirilir.
+
+(3) Hava-alanı yapımını. müteakip, Hava. Alanı Lisansı Başvuru Formundaki hususlar
+Bakanlık tarafından. mahallinde denetlenir. Denetleme sonucunun olumlu olması
+durumunda, işletmeciye Hava Alanı Lisansı (EK-3) Bakanın imzasıyla verilir.
+
+Hazırlanacak havaalanı klavuzu aşağıdaki içerikte olmalıdır;
+
+[SAYFA 6]
+2108
+
+Havaalanı Kılavuzu
+A) Genel Bilgiler
+
+a) Kılavuzun kapsam ve amacı,
+
+b) Ulusal mevzuatta yer aldığı üzere, hava alanı lisansı ve kılavuz için hukuki
+dayanaklar,
+
+c) Hava alam kullanım koşulları - hava alanının her zaman uçak iniş ve
+kalkışlarına hizmet için açık olduğu zamanlarda ayrımsız herkes için eşit şart ve koşullarda
+açık olacağına dair beyan,
+
+ç) Son havacılık bilgileri ve bunların yayımlanmasına ilişkin prosedürler,
+
+d) Uçak bilgileri kayıt sistemi,
+
+e) Hava alanı işletmecisinin yükümlülükleri.
+
+B) Hava Alanı Sahasının Özellikleri
+
+a) Özellikle rüzgar yönü göstergelerinin yerini belirten, hava alanı operasyonuna
+ait ana hava alanı tesislerinin yer aldığı hava alanı planı,
+
+b) Hava alanı sınırlarını gösteren hava alanı planı,
+
+c) Hava alanının en yakın şehir veya başka yerleşim yerlerinden olan uzaklığı ile
+hava alanı sınırları dışında bulunan ancak hava alanına ait tesisler ve ekipmanın yeri,
+
+ç) Aşağıdakilere ilişkin mülkiyet bilgileri:
+
+aa) Hava alanı sahası,
+
+bb) Mülkiyet belgelerinde hava alanı sınırları belirtilmemişse hava alanının kurulu
+bulunduğu mülkiyetin tapu bilgileri, hava alanı sınırları ile konumunu gösteren plan.
+
+C) Havacılık Bilgi Servisine Rapor Edilmesi Gereken Hava Alanı Özellikleri
+
+a) Genel Bilgiler:
+
+aâ) Hava alanının adı,
+
+bb) Hava alanının yeri,
+
+cc) Dünya Geodetik Sistemi - 1984 (WGS-84) referans bilgilerine göre belirlenen
+hava alanı referans noktası coğrafi koordinatları,
+
+dd) Pist başı, pist sonu, pist boyunca yüksek ve düşük noktalardaki kod değerleri,
+
+ee) Hava alanı referans sıcaklığı,
+
+ff) Hava alanı yer ışıkları detayı,
+
+ge) Hava alanı işletmecisinin adı, adresi ve temas kurulacak iletişim bilgileri.
+
+b) Hava Alanı Fiziksel Bilgileri:
+
+aa) Gerçek pist yönü, pist tanım numarası, uzunluğu, genişliği, ötelenmiş eşik yeri,
+eğimi, yüzey tipi, pist tipi ve hassas yaklaşma pisti için maniadan arındırılmış bölgenin
+varlığı,
+
+bb) Şerit sahanın, aşma sahasının (clearway) ve durma uzantısının (stopway)
+uzunluğu, genişliği ve kaplama cinsi,
+
+cc) Taksiyolunun uzunluğu, genişliği ve yüzey tipi,
+
+dd) Apron yüzey tipi ve uçak park yerleri,
+
+ee) Yaklaşma prosedürlerine ait elemanlar, yaklaşma ışığı tipi ile görsel yaklaşma
+eğim gösterge sistemi (PAPI/APAPI ve VASIS/AT-VASIS); pist, apron ve taksiyolu
+işaretlemesi ve ışıklandırması, taksiyollarındaki diğer görsel yardımcılar,
+
+ff) VOR cihazının hava alanındaki kontrol noktasının yeri ve radyo frekansı,
+
+gg) Standart taksiyollarının yerleri ve özellikleri,
+
+hh) Her bir eşiğin coğrafi koordinatları,
+
+1) Taksiyolu merkez hatti noktalarının coğrafi Koordinatları,
+
+ii) Her bir uçak park yerinin coğrafi koordinatları,
+
+jj) Yaklaşma ve kalkış alanlarında iç yatay düzlemde ve hava alanı çevresinde
+önemli maniaların EK-14 ve EK-15'de belirtildiği şekliyle yüksekliği ile coğrafi
+koordinatları,
+
+kk) Uçak sınıflandırma numarası (ACN), kaplama sınıflandırma numarası (PCN)
+yöntemine göre kaplama yüzeyi tipi ve taşıma gücü,
+
+1) Apronda belirlenmiş bir veya daha fazla uçuş öncesi altimetre kontrol yeri ve
+rakımı,
+
+mm) İlan edilen mesafeler: Kalkış koşusu için mevcut mesafe (TORA), mevcut
+kalkış mesafesi (TODA), mevcut hizlanma-durma mesafesi (ASDA), mevcut iniş mesafesi
+(LDA),
+
+nn) Hareket kabiliyetini Kaybetmiş uçakların kaldırılma planı, kaldırma işlemini
+koordine edecek Yetkili kişinin: telefon/teleks/faks/e-mail numaraları ve hava alanına
+inebilecek en büyük uçağın kaldırılması için gerekli teçhizat listesi,
+
+00) Kurtarma ve yangınla mücadele: Hava alanını kullanan en uzun uçağa göre
+belirlenen ICAO EK-14 ve bu eke ilişkin olarak yayımlanan dokümanlarda belirtilen
+
+[SAYFA 7]
+2109
+
+standartlarda yangın kategorisi ve bu kategoriye uygun ekipman ve araçların tip ve sayısı,
+pp) Dış çevre kontrol noktaları, hava alanına giriş kontrol noktaları, teknik blok,
+
+Kargo ve posta terminali, ikram tesisleri, uçak bakım hangarları, yakıt kuruluşları, itfaiye,
+
+otopark yerleri, kayıp bagaj; bomba imha çukuru, terminal ve apron giriş kontrol noktaları,
+
+kriz merkezi ve benzeri işaretlendiği hava alanı haritası.
+
+D) Hava Alani İşletme Prosedürlerinin ve Emniyet Tedbirlerinin Özellikleri
+
+a) Hava Alanı Raporlama İşlemleri:
+
+Havacılık Bilgi Servisindeki (AIS) hava alanı bilgilerinde olan değişikliklerinin ve
+NOTAM taleplerinin raporlanması ile ilgili prosedürlerin özellikleri aşağıdakileri
+içermelidir;
+
+aa) Bakanlığa her türlü değişikliğin rapor edilmesi, hava alanı operasyonlarının
+normal saatleri içinde veya dışında her türlü değişikliğin kayda geçirilmesine ilişkin
+düzenleme,
+
+bb) Değişikliklerin bildiriminden sorumlu kişilerin isimleri ve görevleri, hava alanı
+operasyonlarının normal saatleri içinde veya dışında bulundukları telefon numaraları,
+
+cc) Değişikliklerin rapor edileceği yerin adresi ve telefon numaraları.
+
+b) Hava Alanı Hareket Sahasına Erişim:
+
+Hava alanı, sivil havacılığa karşı oluşabilecek yasadışı müdahalelerin önlenmesi,
+hareket alanına insan, araç, ekipman, hayvan veya başka şeylerin izinsiz girişinin önlenmesi
+gibi işlerden sorumlu kurumla işbirliği içerisinde geliştirilmiş ve takibi yapılması gereken
+prosedürlerin özellikleri aşağıdakileri içermelidir;
+
+aa) Hava alanı işletmecisi, hava alanının herhangi bir veya birkaç ünitesini işleten
+işletmeci, uçak işletmecisi, hava alanı emniyet birimi, Bakanlık ve diğer resmi dairelerin
+rolü,
+
+bb) Hava alanına erişimin kontrolünden sorumlu personelin isimleri ve görevleri
+ayrıca normal mesai saatleri içinde ve dışında bu personel ile temas kurulabilecek telefon
+numaraları.
+
+c) Hava Alanı Acil Durum Planı:
+
+Hava Alanı Acil Durum Planı, ICAO EK-17, Doküman 8973, ECAC Doküman 30
+ve Milli Sivil Havacılık Güvenlik Programında belirtilen standartlarda olmalı ve aşağıdaki
+bilgileri içermelidir;
+
+aa) Uçuş halindeki uçağın arızalanması, yapılardaki yangınlar, bomba tehlikesi
+dahil uçak veya binalara yapılacak sabotajlar gibi hava alanında veya yakınlarında meydana
+gelen acil durum hallerine ilişkin planlar ile uçağın yasadışı müdahale ile ele geçirilmesi ve
+“acil durum anında” ve "acil durum sonrasında" mevcut mülahazaları içeren hava alanı
+olaylarını içeren planlar,
+
+bb) Acil durum hallerinde kullanılacak olan tesis ve ekipmana ilişkin olarak
+yapılan tetkiklerin detayları ve bu tetkiklerin yapılma sıklığı,
+
+cc) Acil durum planlarını tetkik etmek için yapılan tatbikatların detayları ve bu
+tatbikatların yapılma sıklığı,
+
+dd) Saha görevleri için hava alanı içinde ve dışında yetkili organizasyon, kurum ve
+kişilerin listesi, onların telefon ve faks numaraları, e-mail ve SITA adresleri ile ofislerinin
+telsiz frekansları,
+
+ee) Acil durumlarda görevli olacak personelin eğitimlerini ve diğer hazırlıkları
+organize edecek bir acil durum komitesinin oluşturulması,
+
+f) Tüm acil durum çalışmaları için bir saha amirinin tayini.
+
+d) Kurtarma ve Yangınla Mücadele:
+
+ICAO EK-14 ve bu eke ilişkin olarak yayımlanan dokümanların son şeklinde
+istenen standartlarda kurtarma ve yangınla mücadele şartlarına uygun olarak gerekli tesisler,
+ekipman, personel ve bunlara ilişkin prosedürler ile hava alanı kurtarma ve yangınla
+mücadele hizmetlerinden sorumlu kişilerin isim ve görevleri.
+
+e) Hava Alanı Hareket Sahasının Hava Alanı İşleticisi Tarafından Kontrolü:
+
+Hava alanı hareket sahasının hava alanı işleticisi tarafından kontrolüne ilişkin
+prosedürlerin özellikleri aşağıdakileri içermelidir;
+
+aa) Hava alanı operasyonlarının normal saatleri içinde ve dışında pist ile
+taksiyollarında pist sürtünme ve su derinliği ölçümlerini içeren denetlemelere ilişkin
+düzenlemeler,
+
+bb) Bir denetleme yapılırken hava trafik kontol servisi ile görüşebilme
+imkanlarının sağlanmasına ilişkin düzenlemeler,
+
+cc) Denetleme kayıt defterinin tutulmasını sağlama ve kayıt defterinin yeri,
+
+dd) Denetleme aralıkları ve zamanlarına ilişkin detaylar,
+
+ce) Denetleme formu,
+
+[SAYFA 8]
+2110
+
+ff) Denetleme sonuçlarının rapor edilmesi ve emniyetsiz koşulların giderilmesini
+sağlamak için takip edilecek işlemlere ait prosedürler,
+
+gg) Denetleme yapmakla sorumlu kişilerin isimleri ve görevleri ile bu kişilere
+mesai saatleri içinde ve dışında ulaşılması mümkün telefon numaraları.
+
+f) Görsel Yardımcılar ve Hava Alanı Elektrik Sistemleri:
+
+Mania aydınlatmaları dahil havaalanı aydınlatmaları, işaretlemeler ve hava alanı
+elektrik sisteminin denetlenmesi ve bakımına ilişkin prosedürlerin özellikleri aşağıdakileri
+içermelidir;
+
+aa) Hava alanı operasyonları normal mesai saatleri içinde ve dışında
+denetlemelerinin yapılması için gerekli düzenlemeler ve denetlenmesi sırasında kullanılacak
+denetleme formu,
+
+bb) Denetlemelerin sonuçlarını kayda geçirme ve eksikliklerin giderilmesi için
+yapılacak müteakip işlere ilişkin düzenlemeler,
+
+cc) Periyodik bakım ve acil bakım işlerinin yapılabilmesi için gerekli
+düzenlemeler,
+
+dd) Varsa yedek güç kaynaklarına ilişkin düzenlemeler ve sistemin kısmen veya
+tamamen arızaya uğradığı hallerde yapılacak diğer işlemlere ilişkin yöntemler,
+
+ee) Aydınlatma denetleme ve bakımından sorumlu kişilerin isim ve görevleri ile
+mesai saatleri içinde ve dışında bu kişilere ulaşılabilecek telefon numaraları.
+
+g) Hareket Alanının Bakımı:
+
+Hareket alanının bakımı için gerekli tesis ve prosedürlere ilişkin özellikler
+aşağıdakileri içermelidir;
+
+aa) Kaplamalı alanların bakımına ilişkin düzenlemeler,
+
+bb) Kaplamasız pist ve taksiyollarının bakımına ilişkin düzenlemeler,
+
+cc) Pist ve taksi yolu çizgilerinin bakımına ilişkin düzenlemeler,
+
+dd) Hava alanı drenaj bakımına ilişkin düzenlemeler.
+
+h) Hava Alanı Çalışmalarının Emniyeti:
+
+Mania limit yüzeyinin üstüne taşabilecek hareket alanında ve yakınlarında yapım
+ve onarım çalışmalarının planlanması ve güvenle yürütülmesine ilişkin prosedürlerin
+özellikleri aşağıdakileri içermelidir;
+
+aa) Bu işlerin yerine getirilmesi sırasında hava trafik kontrol sistemi ile iletişim
+için gerekli düzenlemeler,
+
+bb) İşlerin planlanması ve yürütülmesinden sorumlu kişi ve kurumların isim ve
+görevleri ile bu kişilere her zaman ulaşılabilecek telefon numaraları,
+
+cc) Hava alanı işletmecisi, hava alanının herhangi bir veya birkaç ünitesini işleten
+işletmeciler, yer hizmetleri kuruluşları ve uçak işletmecilerinin adı ve onlara mesai saatleri
+içinde ve dışında ulaşılabilecek telefon numaraları,
+
+dd) Gerek duyulduğunda iş planları dağıtım listesi.
+
+1) Apron Yönetimi:
+
+Apron yönetim prosedürlerinin özellikleri aşağıdakileri içermelidir;
+
+aa) Hava trafik kontrol servisi ile apron yönetim birimi arasındaki düzenlemeler,
+
+bb) Uçak park konumları ayarlanması için düzenlemeler,
+
+cc) Motorun çalıştırılması ve geri-geri itilmesi ile ilgili düzenlemeler,
+
+dd) Marshalling hizmeti,
+
+ee) Follow-me hizmeti.
+
+j) Apron Emniyet Yönetimi:
+
+Apron emniyetinin sağlanması için gerekli prosedürler aşağıdakileri içermelidir;
+
+aa) Jet itislerinden korunma,
+
+bb) Uçak yakıt dolumu sırasındâ emniyet tedbirlerinin uygulanması,
+
+cc) Apronun süpürülmesi,
+
+dd) Apronun temizlenmesi,
+
+ee) Apron üzerindeki olayların ve kazaların raporlanması için düzenlemeler,
+
+ff) Apronda çalışan tüm personelin emniyet uygunluğunun kontrolü için
+düzenlemeler.
+
+k) Hava Tarafı Araç Kontrolü:
+
+Hareket alanında veya yakınlarında kullanılan yer araçlarının kontrolüne ilişkin
+prosedürün özellikleri aşağıdakileri içermelidir;
+
+aa) Hız limitleri ve kuralları uygulama yöntemleri dahil, uygulanan trafik
+kurallarının detayları,
+
+bb) Hareket alanında işleyen araçların kullanımı için izin verilme yöntemi.
+
+I) Vahşi Hayatla Mücadele Yönetimi:
+
+Hava alanı uçuş bölgesinde veya hareket alanlarında kuş veya memeli
+
+[SAYFA 9]
+2111
+
+hayvanlardan dolayı uçak operasyonları için ortaya çıkabilecek tehlikelere karşı
+uygulanacak yöntemlerin özellikleri aşağıdakileri içermelidir;
+
+aa) Vahşi hayatla mücadele ve kontrol programlarının uygulanmasına ilişkin
+düzenlemeler,
+
+bb) Vahşi hayatla mücadeleden sorumlu kişilerin isim ve görevleri ile mesai
+saatleri içinde ve dışında bu kişilere ulaşılabilecek telefon numaraları.
+
+m) Mania Kontrolü:
+
+Mania kontrolü ile ilgili yöntemler aşağıdakileri içermelidir,
+
+aa) Mania limit yüzeylerinin takibi ve A tipi haritalarda belirlenen kriterlere göre
+kalkış yüzeyindeki maniaların takibi,
+
+bb) Maniaların işletmeci tarafından kontrolü,
+
+cc) Mania limit yüzeyleri sınırları içerindeki yapılaşmaların yüksekliğinin takibi,
+
+dd) Hava alanı yakınındaki yeni yapılaşmaların kontrolü,
+
+ee) Gerekirse Havacılık Bilgi Yayınlarındaki (AIP) değişiklikler de dahil olmak
+üzere, manialarin yeri ve nitelikleri ile bu manialardaki yeni gelişmelerin Bakanlığa
+bildirilmesi.
+
+n) Hareket Kabiliyetini Kaybetmiş Uçakların Kaldırılması için ICAO EK-14 e
+İlişkin Olarak Yayımlanan Doküman 9137-AN/898 Kısım 8 in 14 üncü Bölümünde
+Belirtilen Görev, Yetki ve Sorumluklar:
+
+Hareket alanlarında veya yakınında bulunan hareket kabiliyetini kaybetmiş
+uçakların kaldırılmasına ilişkin yöntemlerin özellikleri aşağıdakileri içermelidir;
+
+aa) Hava alanı işletmecisi ve uçak işletmecisinin görev ve sorumlulukları,
+
+bb) Uçak işletmecisine bildirim yapılmasına ilişkin düzenlemeler,
+
+cc) Hava trafik kontrol sistemi ile bağlantı kurulmasına ilişkin düzenlemeler,
+
+dd) Hareket kabiliyetini kaybetmiş uçakların kaldırılması için ekipman ve
+personelin teminine ilişkin düzenlemeler,
+
+ee) Hareket kabiliyetini kaybetmiş uçakların kaldırılmasından sorumlu kişilerin
+isimleri, görevleri ve telefon numaraları.
+
+0) Tehlikeli Maddelerde Yöntemler:
+
+Hava alanında tehlikeli maddelere güvenli bir şekilde müdahale edilmesi ve
+depolanmasına ilişkin yöntemlerin özellikleri aşağıdakileri içermelidir;
+
+aa) Uçak yakıtları dahil yanıcı sıvıların ve diğer tehlikeli maddelerin depolanması
+için hava alanındaki özel yerler için düzenlemeler,
+
+bb) Tehlikeli maddelerin teslimatı, depolanması, dağıtımı ve müdahalesine ilişkin
+yöntemler.
+
+ö) Düşük Görüş Şartlarındaki Operasyonlar:
+
+Gerek duyulduğunda pist görüş mesafesinin ölçümü ve raporlanması dahil düşük
+görüş şarilarındaki operasyonlarda uygulanacak yöntemlerin özellikleri ve pist görüş
+mesafesinin ölçümünden sorumlu kişilerin isimleri ve çalışma saatleri içinde ve dışında bu
+kişilere ulaşılabilecek telefon numaraları.
+
+p) Radar ve Seyrüsefer Yardımcılarının Bulunduğu Alanların Korunması:
+
+Hava alanında tesis edilen radar ve telsiz seyrüsefer yardımcılarının performans ve
+işlevlerinin devamlılığının sağlanabilmesine ilişkin yöntemlerin özellikleri aşağıdakileri
+içermelidir;
+
+aa) Radar ve seyrüsefer yardımcılarının yakınındaki faaliyetlerin kontrolüne ilişkin
+düzenlemeler,
+
+bb) Bu cihazların yakınlarındaki yer bakımlarına ilişkin düzenlemeler,
+
+cc) Tehlikeli mikrodalga radyasyonu uyarı işaretlerinin temini ve kurulmasına
+ilişkin düzenlemeler.
+
+Bu bölümde belirtilen yöntemler aşağıdaki açık ve kesin bilgileri içermelidir.
+Ancak, söz konusu yöntemler konu ile ilgili olmadığında veya uygulanamaz nitelikte
+olduğunda bunun nedeni belirtilmelidir;
+
+1) İşletme yönteminin ne zaman ve hangi şartlarda devreye sokulacağı,
+
+n) İşletme yönteminin nasıl devreye sokulacağı,
+
+ut) Hangi işlemlerin yapılacağı,
+
+tv) İşlemleri yapacak olan kişiler,
+
+v) Çalışmaların yapılmasında gerekli ekipman ile bu ekipmanların bulunduğu
+yerler.
+
+E) Hava Alanı İdaresi ve Emniyet Yönetim Sistemi
+
+a) Hava Alanı İdaresi:
+
+Hava alanı idaresinin özellikleri aşağıdakileri içermelidir;
+
+aa) Kilit personelin adları ve ünvanları ile bunların sorumluluklarını gösteren hava
+
+[SAYFA 10]
+Havaalanı 22.
+Çalıştırma
+Sertifikası
+
+Havaalanı 23.
+Lisansı ve
+Havaalanı
+Çalıştırma
+Sertifikası
+İnceleme
+Komisyonu
+
+2112
+
+alanı organizasyon şeması,
+
+bb) Hava alanı emniyetinden tam sorumlu kişinin isim, unvan ve telefon numarası,
+
+cc) Hava alanı komiteleri.
+
+b) Emniyet yönetim Sistemi:
+
+Tüm emniyet şartlarına uygunluğun sağlanması ve emniyet performansında
+kesintisiz gelişimin gerçekleştirilebilmesi igin kurulan emniyet yönetim sisteminin temel
+özellikleri aşağıdakileri içermelidir;
+
+aa) Emniyet yönetim süreci ve bunun operasyonel bakım süreci uygulanana kadar
+olan emniyet politikası,
+
+bb) Emniyet hususlarında ferdi ve grup sorumluklarıyla birlikte personelin
+belirtildiği Emniyet Yönetim Sistemi yapısı ve organizasyonu,
+
+cc) ICAO tarafindan yayımlanan EK-14 de yer alan standartlar ve önerilen
+uygulamalar, ulusal mevzuat, standartlar, kurallar ve emirlerde yer alan şartlara her zaman
+için uygunluğun sağlanması bakımından, pratikte tüm risklere karşı kontrol mekanizmasının
+oluşturulması ve emniyet inisiyatiflerine öncelik verilmesi gibi emniyet performans
+hedeflerine ait Emniyet Yönetim Sistemi stratejisi ve planlaması,
+
+dd) Emniyet mesajlarının etkili biçimde iletilmesi ile emniyet şartlarının
+uygulanmasına ilişkin tesis ve yöntemleri kapsayan Emniyet Yönetim Sistemi uygulaması,
+
+ee) Daha yüksek emniyet yönetim seviyesi (emniyet tedbirleri programı) gerektiren
+kritik emniyet alanlarının uygulanması ve gerçekleştirilmesine ilişkin sistem,
+
+ff) Emniyetin geliştirilmesi, kaza önleme ve kesintisiz emniyet takibi ile kaza, olay,
+şikayet, sorun, hata, aykırılıklar ve arızaların değerlendirilerek giderilmesi ve analizini
+kapsayan risk kontrolü için bir sistem için alınan tedbirler,
+
+gg) Emniyet kalite kontrolü sistem ve programlarının ayrıntısını içeren iç emniyet
+denetim ve tetkik sistemi,
+
+hh) Hareket alanı kaplaması ve havaalanı aydınlatmasının tasarım ve yapımına
+ilişkin bilgileri içeren hava alanı işletme ve bakım kayıtları ile tüm emniyetle ilgili hava
+alanı tesislerine ait dokümantasyon sistemi. Bu sistem, tabloları da içeren kayıtların kolayca
+erişilmesini sağlamalıdır,
+
+n) Emniyet konusundaki görevler için personele sağlanan eğitimdeki yeterliliğin
+gözden geçirilmesi ve değerlendirilmesini içeren personelin eğitim ve yeterliliği ve ayrıca
+personelin yeterliliğini ölçmeye yönelik sertifika sistemi,
+
+jj) Hava alanındaki yapım işleri ile ilgili sözleşmelerdeki emniyet ile ilgili
+hükümlerin birleştirilmesi ve uygulanması.
+
+Sadece havaalanı lisansına sahip havaalanları için-havaalanı çalıştırma sertifikası alınabilir.
+Havaalanı çalıştırıcısı çalıştıracağı havaalanı için Havaalanı Çalıştırma Sertifikası'nı kendi
+adına tescil ettirmek zorundadır.
+Tescil işlemleri'için Havaalanı Çalıştırma Sertifikası Başvuru Formunu (Ek-5) ve formda
+istenen bilgi ve belgeleri eksiksiz tamamlayarak bakanlığa sunar.
+
+Havaalanı Calisurma Sertifikaları ,
+
+1.Kamu Havaalanı Çalıştırma Sertifikası
+
+2.Özel Havaalanı Çalıştırma Sertifikası olarak düzenlenirler.
+Kamu Havaalanlarının kullanımı tüm kişilere eşit şartlar ve koşullarda açık olmalıdır.
+Havaalanı çalışma saatleri ve koşulları KKTC AJP'de yayınlanır.
+Özel Havaalanları sadece özel havaalanı çalıştırma sertifikası sahibi ve/veya sertifika
+sahibinin onaylayacağı kişiler tarafından kullanılabilirler.
+Havaalanı çalıştırma sertifikası devredilemez. Sadece Bayındırlık ve Ulaştırma Bakanlığı
+önayı ile ana faaliyet merkezi KKTC'de yerleşik KKTC'de tescilli özel ve tüzel kişiler ve
+kurumlarla ortaklık kurulabilir .
+Ortak alınması dürumunda KKTC Ticaret Hukuku kural ve koşulları geçerlidir ve tüm
+hukuki ve diğer işlemler Bayındırlık ve Ulaştırma Bakanlığı'na ve diğer ilgili kurumlara
+tüm gerekli bilgi ve belgeleri ile beraber onay alınmak üzere sunulmalıdır.
+
+Hava havaalanı lisansı ve havaalanı çalıştırma sertifikası talepleri, bu iş için Bakan onayı ile
+oluşturulan inceleme komisyonunca incelenir. Bu komisyon Sivil Havacılık Dairesi
+Müdürlüğü teknik ve uzman personeli ve/veya gerektiğinde diğer uzmanlardan oluşur.
+
+1) Kömisyona: ilgili kurum ve kuruluşlardan görüş almak üzere temsilciler
+çağınılabilir.
+
+2) Hava Alanı Çalıştırma Sertifikası Bakanın yazılı onayı ile verilir.
+
+3) Komisyon, hava alanı işletme ruhsatı ve hava alanı sertifikası taleplerini bu
+
+[SAYFA 11]
+Teknik 24.
+Talimatlar
+
+Sorumlu- 25.
+luklar
+
+Denetleme 26.
+ve cezai
+müeyyideler
+
+2113
+
+Tüzük, ICAO tarafından yayımlanan ekler ve bu eklere ilişkin olarak yayımlanan
+dokümanların son şeklinde belirtilen. tüm standart ve tavsiyelerde belirtilen hususlar ile
+ECAC tarafından yayımlanan Döküman 30 da belirtilen standartların sağlanıp
+sağlanmadığını tespit etmek amacıyla yerinde yapacağı denetime müteakip en geç 60 gün
+içerisinde değerlendirir.
+
+Bu Tüzükte yer almayan hava alanı yapımı, işletimi ve sertifikalandırılması kapsamına
+giren ve/veya istisnai özellik arz eden’ konulara ilişkin uygulamalar ile bu Tüzükte hüküm
+bulunmayan haller Bakanlıkça düzenlenir ve bu düzenlemeler tüzüğün eki olarak yürürlüğe
+girer.
+
+Bu Tüzüğün amaç maddesi çerçevesinde, teknik uygulamalar için Bakanlık gerek
+gördüğünde çeşitli talimatlar hazırlar ve bu talimatlar tüzüğün eki olarak yürürlülüğe girer.
+Hazırlanan talimatlar Bakanının. onayı ile yürürlüğe girer. Gerekli görülenler Havacılık
+Bilgi Yayınları (AIP)'de yayımlanır.
+
+Hava alanı işletmecisi tarafından yayımlanan teknik talimatların bir suretinin Bakanlığa
+gönderilmesi zorunludur.
+
+DÖRDÜNCÜ KISIM
+Sorumluluklar, Denetleme ve Cezai Müeyyideler
+
+Hava alanı işletmecisi, faaliyetlerini bu Tüzük ve ICAO ve ECAC tarafından belirlenen
+uluslararası standartlarda ve yerel mevzuat dahilinde yürütmek. için her türlü tedbiri almak
+hususunda Bakanlığa karşı sorumludur.
+
+1) Hava alanı; işletmecisi, hizmetlerinin uluslararası standartlarda yürütülmesini
+teminen her türlü tedbiri alır ve aldırır.
+
+2) Hava alanı işletmecisi, hizmetlerinin uluslararası standartlarda yürütülmesi için
+gerekli işletme talimatlarını yayımlamak zorundadır.
+
+3) Hava alanı işletmecisinin, işlettiği her hava alanı için, organizasyon yapısında ve
+bu Tüzüğün 21 inci maddesinde belirtilen Hava Alanı Kılavuzunda görevlendireceği
+personelin görev, yetki ve sorumlulukları belirtilerek ICAO Doküman 9774 AN/969'da
+öngörülen standartlarda bir Emniyet Yönetim Sistemi oluşturması zorunludur.
+
+4) Hava alanı çalıştırma sertifikası sahibi, işlettiği her hava alanı için ICAO
+Doküman 9774 AN/969'da öngörülen standartlarda bir iç denetim organizasyonu
+oluşturması zorunludur.
+
+5) Hava alanı işletmecisi, hava alanında uçuş veya uçak işlemleri yürüten
+işletmeciler ile diğer tüm hava alanı kullanıcılarını hava alanına ait uçuş ve yer emniyeti ile
+hava alanı düzenine ilişkin kurallara uymaya zorlayıcı tedbirleri almak zorundadır.
+
+6) Hava alanında uçuş ve yer emniyeti ile hava alanı düzeninin sağlanabilmesi için,
+hava alanında uçuş veya uçak işlemleri yürüten işletmeciler ile diğer tüm hava alanı
+kultanıcıları, uçuş ve yer emniyeti konusuyla ilgili kaza-kırım, vaka, kusur ve hataları hava
+alanı işletmecisine en kısa süre içerisinde bildirmek ve işletmeci ile işbirliği yapmak
+zorundadır.
+
+Lisanslı (Havaalanları ve Havaalanları Çalıştırma Sertifikası Sahiplerinin Faaliyetleri
+Bayındırlık ve Ulaştırma Bakanlığı tarafından denetlenir veya denetlettirilir. Yapılan
+denetimlerde yayımlanan tüzükler ile ICAO ve ECAC tarafından belirlenen uluslararası
+standartlara aykırı davranışlar tespit edilmesi halinde hava alanı geçici veya devamlı olarak
+kapatılır.
+
+1) Hava alanlarında yapılacak denetimlerde görülecek kusur ve eksiklikler ve bu Tüzük ile
+ICAO ve ECAC kurallarına aykırı durumlar uçuş emniyetini tehlikeye düşürücü olarak
+bulunur ise eksikliğin söz konusu olduğu faaliyet ve buna bağlı tüm faaliyetler derhal
+durdurularak bu eksikliklerin giderilmesi için işletmeciye Bakanlıkça belirlenecek yeterli
+bir süre verilir.
+
+2) Yapılan denetleme sirasında uçuş emniyetini tehlikeye sokmayan ancak, hizmette
+aksamalara neden olan kusur ve eksiklikler ve yayımlanan tüzükler ile ICAO ve ECAC
+standartlarına aykırı durumların tespit edilmesi halinde eksiklikler işletmeciye yazılı olarak
+bildirilir ve bu eksikliklerin giderilmesi için yeterli bir süre verilerek bu eksikliklerin
+giderilmesi istenir. İşletmeci, verilen bu süre içinde eksiklikleri gidererek Bakanlığa bilgi
+vermek zorundadır.
+
+3) Hava alanı Çalıştırma Sertifikası Sahibi, hava alanlarında görevli kamu kurum ve
+
+[SAYFA 12]
+Ek Kurallar 27.
+
+Yürürlüğe 28.
+Giriş
+
+2114
+
+kuruluşlarının görevli memurları hakkında, bu tüzükte belirtilen kural ve kaidelere uçuş ve
+yer emniyeti ile hava alanı düzenine ilişkin kurallara aykin davranışlarını tespit etmesi
+halinde tabi oldukları disiplin mevzuatına, işçi ve diğer personel hakkında ise tâbi oldukları
+mevzuata göre işlem yapılmasını ilgili kamu kurum ve kuruluşlarına bildirir. Kuruluşlar
+yapılan kovuşturma sonucunda tanzim edilen raporu ve yapılan işlem sonucunu en kısa
+zamanda hava alanı işletmecisine bildirmek zorundadır.
+
+4) Hava alanı çalıştırma sertifikası sahibi ile gerçek ve özel tüzel kişilerden oluşan hava
+alanı kullanıcıları arasında; hava alanı. işletmecisi ile kullanıcılar arasindaki karşılıklı
+ilişkiler, hak ve yükümlülükler ile bu Tüzükte ve Bakanlık veya hava alanı işletmecisi
+tarafından yayımlanan işletme talimatınlarda “belirtilen kural ve kaidelere aykırı
+davranışların cezai müeyyidelerinin düzenlendiği bir "Hizmet Sözleşmesi"nin imzalanması
+zorunludur. Hizmet Sözleşmesi 3 yıl sürelidir. Sözleşmenin yenilenmesi veya uzatılması
+şartları hava alanı işletmecisi tarafından belirlenir. Hizmet Sözleşmesi bu Tüzük hükümleri
+ve ilgili diğer mevzuata aykırı olamaz.
+
+BEŞİNCİ KISIM
+Son Kurallar
+
+Havaalanı yapimi, (geliştirilmesi, — lisanslandimlmasi ve havaalanı (o çalıştırma
+sertifikalandırılması kapsamında yaptırılan tüm etüd, test, analiz, raporlama, v.b. işlemler ile
+hizmet satın alınan uzmanlık gerektiren tüm mali yükümlülükler ve denetlemelere ait her
+türlü masraf havaalanı yapım, geliştirme, lisanslandırma, ve havaalanı çalıştırma
+sertifikalandırılması taleplilerince karşılanır.
+
+Bu Tüzük, Resmi Gazete'de yayımlandığı tarihten başlayarak yürürlüğe girer.
+
+[SAYFA 13]
+2115
+
+EK-1
+HAVA ALANI YAPIMI ve GELİŞTİRİLMESİ BAŞVURU FORMU
+
+I- GENEL BİLGİLER
+
+HAVA ALANI BİLGİLERİ:
+
+HAVA ALANI ADI REFERANS KODU*
+MÜLKİYETİ
+
+İLÇESİ
+RAKIMI
+ŞEHİR
+
+ADRESİ MERKEZİNE
+UZAKLIK
+
+HABERLEŞME BİLGİLERİ:
+
+ADI ADRES
+
+| soyaDı
+TELEFON FAKS
+TELEKS E-MAIL
+
+* Uluslararası Sivil Havacılık Teşkilatı (ICAO) tarafından yayımlanan EK-14'ün son versiyonunda belirtildiği
+şekilde Kod Harfi ve Kod No'su belirlenecektir.
+
+1 - BAŞVURU BİLGİ DOSYASI
+
+Başvuru dosyasına aşağıdaki bilgilerin eklenmesi gereklidir;
+
+1) AMAÇ,
+2) “ÇEVRESEL ETKİ DEĞERLENDİRMESİ (ÇED)” RAPORU veya “ÇEVRESEL ETKİLERİ
+ÖNEMSİZDİR” KARARI,
+
+3) SERMAYE DURUMU - KAYNAK DURUMU,
+4) MASTER PLANI,
+ni 5) HAVA ALANI YAPIMI FİZİBİLİTE RAPORU,
+beri a) Yatırım bedeli,
+e b) Başlama ve bitiş tarihi,
+c) Ekonomik ömrü,
+d) Projenin gerekçesi,
+e) Hava alanın yapılacağı bölge ile kent merkezi arasındaki ulaşım bağlantıları,
+f) Bu havaalanından hangi noktalara uçuş yapılacağı,
+g) Yolcu sayısı tespiti,
+h) Diğer ulaşım türleriyle olan mukayesesi,
+i) Şehir merkezi-hava alanı, hava alanı-diğer hava alanları, hava alanı-en yakın hava alanı için ulaşım
+zaman analizi,
+
+Jj) Ağırlıklı olarak ne tür bir hava yolu ulaşımının düşünüldüğü (ticari, turistik, kargo, eğitim, sportif gibi),
+k) Milli ekonomi yönünden değerlendirilmesi,
+İ) Finansman temini ve analizi,
+
+6) HAVA ALANIİŞLETİMİ FİZİBİLİTE RAPORU,
+a) İç hat-dış hat çalışma statüsü,
+b) Çalışma süreleri,
+c) Hangi havaalanları ile bağlantılı ulaşım için kullanılacağı,
+d) Kurulacak işletme teşkilatı kadrosu tanımı ve eğitim planı,
+e) İşletmeyle ilgili araç, gereç ve teçhizat planlaması,
+f) Kuruluş aşamasındaki maliyet,
+g) Finansman türü ve analizi,
+h) Yolcu sayısı tespiti,
+
+7) HAVA ALANININ KİM TARAFINDAN VE NASIL İŞLETİLECEĞİNİN BİLGİ VE BELGELERİ,
+a) Havaalanı işletme teşkilat şeması,
+b) İşletim için gerekli personelin temin ve eğitim şekli,
+c) İşletim için gerekli araç, gereç ve teçhizatın temin şekli,
+d) Hava trafik hizmetlerinin temin şekli,
+
+8) HAVA TRAFİK ETÜD VE DEĞERLENDİRME SONUÇ RAPORU,
+
+9) BÖLGENİN 1/25000 VE 1/5000 ÖLÇEKLİ TOPOĞRAFİK HARİTASI VE VAZİYET PLANI İLE İMAR DURUMU,
+
+10) HAVA ALANI YAPILACAK OLAN TAŞINMAZIN 3° LIK VEYA 6° LİK ÜLKE KOORDİNATLARI (UTM
+KOORDİNATLARI),
+
+11) METEOROLOJİK RAPORLAR (SON 15 YILLIK).
+
+[SAYFA 14]
+2116
+EK-2
+
+HAVA ALANI LİSANSI BAŞVURU FORMU
+
+i- GENEL BİLGİLER
+
+ÖNEMLİ — LÜTFEN BU FORMU BÜYÜK HARFLER VE SİYAH VEYA MAVİ MÜREKKEP
+KULLANARAK DOLDURUNUZ.
+
+1. LİSANS SAHİBİ HAKKINDA DETAYLAR (lisansta olması gerektiği şekilde)
+
+NOT: (1) Lisans sahibi tüzel kişilik olmalıdır.
+Lisans sahibi bir grup veya birlik ise ve şirketleşmiş değilse lisansın şartlarım
+yerine getirecek kişi veya kişiler belirtilmelidir. Bahse konu kişi veya kişiler
+ayni zamanda lisans sahibidirler.
+(2) Müracaat eden birey ise CV sunmalıdır.
+
+Lisans Sahibinin Tam İsmi.:
+
+Lisans Sahibinin Adresi:
+
+TelefonNumarası........................ Fax Numarast:. .......ccccssccscsccsenecesessssserensesecseaesnessenueneee
+
+E-mail Adresi: .....
+
+2. HAVAALANININ DETAYLARI (lisansta belirtildiği şekilde)
+
+Havaalanının Adı:
+
+TelefonNumarası:.......................................................FaxNumarası........................... meme emeeemensereene
+
+WebsSitesiAdresi:..................... deseetees .E-mailAdresi:........................... eee
+
+En Yakın Şehir Referans Alınarak Havaalanının Pozisyonu:
+
+[SAYFA 15]
+2117
+
+NOT: 1:25,000 ölçekli topoğrafik harita üzerine kesik koyu çizgilerle işlenmiş havaalanının tam sınırları,
+Bu harita lisansa ek olacaktır.
+
+3. KİLİT YÖNETİCİ PERSONEL BİLGİLERİ: (mümkün olduğu kadar detaylı)
+MÜRACAATÇI ŞİRKET İSE DOLDURULACAKTIR.
+
+Emniyetten Sorumlu Kişi veya Yönetim Kurulu Üyesi: (CV Eklenecektir.)
+
+Adı-Soyadı: . seamen sseesescsaeasanencaseqesassestescoressnencogustaessesseassssassncensencatstensetassenseensenece
+
+Telefon Numarası: E-mailAdresi............................. ........
+
+Yönetici Müdür:
+
+Adı-Soyadı:
+
+Telefon Nummarast: 0.0... ceececcsssssscsessssssesssenesseceseessesesenseess E-mail Adresi: ........
+
+TÜM MÜRACAATÇILAR TARAFINDAN DOLDURULACAKTIR.
+Havaalanının Günlük Çalıştırılmasından Sorumlu Kişi: (CV Eklenecektir.)
+
+Adı-Soyadı:
+
+Görevi:
+
+TelefonNumarası:............... E-mailAdresi...............
+
+Havaalanı Emniyetinden Sorumlu Kişi (CV Eklenecektir.)
+Adı-Soyadı:
+
+Görevi:
+
+Telefon Numarası: ..... Mi Ni E-mail Aâdresi:...........................eeeeeaeeerennezm
+
+Kurtarma ve Yangınla Mücadelenin Sağlanmasından Sorumlu Kişi:
+
+Adı-Soyadı:
+
+Görevi:
+
+teen dene seater eet menn mene n EEE YARAK teens re A Ahem Ee Ene T ERAS HORS OT HEME ETA SEES BOR
+
+TelefonNumarası..................................... E-mail Adresi:........... eee
+
+Hava Trafik Kontrol Hizmeti Sağlayıcısı:
+
+Adı-Soyadı:
+
+[SAYFA 16]
+2118
+
+4. HAVAALANI AKTİVİTELERİ
+
+Talep Edilen Lisans Türü;
+
+Kamuya Açık Havaalanı EVET LL) HAYIR LJ
+Özel Havaalanı EVET Lİ © HAYIR LI
+Havaalanı gece uçuşları için kullanılacak mı? EVET LI HAYIR (7
+
+Lisanslı Havaalanını kullanacak diğer havacılık aktiviteleri (Paraşütle atlama, mikrolight v.s.)
+
+Havaalanim kullanacak en ağır uçak tipi maksimum kalkış ağırlığı ve kanat genişliği :
+
+YOLCU TAŞIMA AMAÇLI
+
+UÇAK TİPİ:
+
+AĞIRLIK (kg):
+
+UZUNLUK: 5
+KANAT GENİŞLİĞİ: KN
+HAREKET SAYISI: : ,
+İTFAİYE KATEGORİSİ:
+
+En yoğun 3 ay içerisinde beklenen ortalama aylık hareket sayısı: (Bir hareket bir iniş veya bir kalkıştır.)
+
+KARGO VE UÇAK BAKIM AMAÇLI
+UÇAK TİPİ:
+
+AĞIRLIK (kg):
+
+UZUNLUK:
+
+KANAT GENİŞLİĞİ:
+
+HAREKET SAYISI:
+
+İTFAİYE KATEGORİSİ:
+
+EĞİTİM AMAÇLI UÇUŞ
+UÇAK TİPİ:
+
+AĞIRLIK (kg):
+UZUNLUK:
+
+KANAT GENİŞLİĞİ:
+HAREKET SAYISI:
+İTFAİYE KATEGORİSİ:
+
+HELİPORTS
+
+TİPİ:
+
+AĞIRLIK (kg):
+HAREKET SAYISI:
+İTFAİYE KATEGORİSİ:
+
+5. HAVAALANI HAVACILIK HİZMETLERİ:
+Herhangi bir Telsiz Haberleşme Sistemi tesisi için Sivil Havacılık Dairesi'nin onayı alınacaktır.
+Aşağıdakilerden hangileri sağlanacaktır?
+
+(a) Lisanslı Hava Trafik Kontrol Hizmeti EVET HAYIR
+(b) Havaalanı Uçuş Bilgi Sistemi Hizmeti EVET HAYIR
+(c) Hava/Yer Telsiz Hizmeti EVET HAYIR
+
+Eğer Havaalanı Kontrol Zone isteniyorsa Sivil Havacılık Dairesi'ne başvurulmalıdır.
+(d) Havaalanı Kontrol Zone EVET (| | HAYR Lİ
+
+6. HAVAALANP'NIN MÜLKİYETİ VE KONTROLÜ:
+Havaalanı'nın sahibi misiniz? EVET | | HAYIR LL)
+
+[SAYFA 17]
+2119
+SAHİBİ DEĞİLSENİZ:
+
+Havaalanı Üzerindeki Haklarınızın Detayı:
+
+bea veare ese ceeeeeeeseeeeeeeee 'DEN.................................  E KADAR.
+
+Yer mahallini havaalanı olarak kullanmak için izin veren yer sahibinin
+
+Adı-Soyadı:
+LED
+
+Yer Sahibi Kamu Kurumu ise;
+Kurum Adı:
+
+EEE EKE nem nnanenn ene enne near ean eewEeGs OYE OH ETO OND OSES Aaaa enn nasemeee teeta saan asean ree neteesseneeranes,
+
+Adresi:
+
+Kurum En yüksek ita amirinin:
+Adı-Soyadı:
+
+STA eee ronan ree eteaseeneeee sansa seem een surest eaae eres KE ERA SA BASG OED AE HENDON EES ERIN LERE NEN TOT EREL EEAEEEAKERN ER EDE OREM STOR ESEN ORE ES CHOSE rere Len tenn sceaes Sew tanenemnasanneeaene
+
+Havaalaninin =e veya üzerinde kamusal veya özel geçit hakkı var mı?
+
+EVET HAYIR
+Geçit hakkı sahibiyle anlaşma yapılmış mıdır?
+EVET | | HAYIR
+
+Anlaşma yapılmışsa anlaşmanın detayları:
+
+Havaalanındaki Havaaracı hareketleri ile ilgili tek yetkili siz misiniz?
+EVET | | HAYIR _
+
+Eğer değilseniz kontrolünüz dışındaki havaaracı hareketlerinin detayı :
+
+Böylesi havaaracı hareketlerini kontrol eden kişinin:
+Adı-Soyadı:
+
+ee ee ee er eee ee eee eee ee ee ee ee ee ern re err anne
+
+I a A
+
+7. HAVAALANI LİSANS ÜCRETLERİ
+30/1975 Sayılı Havaalanları ve Limanlar (Ücretleri) Yasası Madde (3) tahtında yapılan Havaalanları (Yer
+Hizmetleri ve Terminal Hizmetleri Ücretleri) Tüzüğü'nde belirlenen ücretler tahakkuk ettirilecektir.
+
+8. HAVAALANI KILAVUZU
+
+[SAYFA 18]
+2120
+
+Havaalanı Kılavuzu Sivil Havacılık Dairesine ibraz edilip onaylanmadan Havaalanı Lisansı verilmez.
+
+9. TEYİT
+
+Bu formda verdiğim bilgilerin tam, eksiksiz ve doğru olduğunu herhangi bir bilgiyi otoriteyi yanıltacak şekilde
+yanlış ya da eksik vermenin suç olduğunu bildiğimi teyit ederim.
+
+Başvuranın İmzası;
+
+er eer enna enter nnn reerrenererrerrirretrterttitititttrtttrttittititer eit it rere iis
+
+(veya yasal temsilcisi)
+
+Tarih
+
+Pozisyonu:
+
+10. MÜRACAAT ADRESİ:
+
+Müracaatlar Sivil Havacılık Dairesi'nin aşağıdaki adresine yapılacaktır. Söz konusu müracaatlar MS Word-
+formatında elektronik ortamda da sunulacaktır. Okunamayan, tahrifat yapılmış ve üzeri çizilmiş müracaatlar
+dikkate alınmayacaktır.
+
+Sivil Havacılık Dairesi Müdürlüğü,
+Bayındırlık ve Ulaştırma Bakanlığı
+Gelibolu-Lefkoşa
+
+KKTC
+
+Hi - BAŞVURU BİLGİ DOSYASI
+
+Başvuru dosyasına aşağıdaki bilgilerin [CAO EK-2, 3, 9, 10, 11, 14, 15, 17 ve bu eklere ilişkin olarak
+yayımlanan dokümanlar ile ECAC Doküman 30'da belirtilen tüm standart ve tavsiyelere uygun olarak eklenmesi
+gereklidir;
+
+1) İŞLETME TALİMATI,
+
+2) YANGINLA MÜCADELE TALİMATI,
+
+3) PİST YÜZEY ŞARTLARI TALİMATI,
+
+4) KUŞLA MÜCADELE TALİMATI,
+
+5) KURTARMA HİZMETLERİ TALİMATI,
+
+6) MANİALARIN KONTROLÜ TALİMATI,
+
+7) PAT SAHALARDA ARAÇ KULLANMA TALİMATI,
+
+8) GÜVENLİK PLANI VE ACİL DURUM PLANI,
+
+9) BAKIM-ONARIM TALİMATI,
+
+10) TERMİNAL ÖZELLİKLERİ,
+
+11) HAVA SEYRÜSEFER KOLAYLIKLARI VE TALİMATI,
+
+12) İŞLETMECİ TARAFINDAN YAYIMLANAN DİĞER TALİMATLAR,
+13) HAVA ALANINA AİT ALTYAPI BİLGİLERİ,
+
+14) PERSONEL LİSTESİ,
+
+15) GENEL ARAÇ, GEREÇ, TEÇHİZAT LİSTESİ,
+
+16) ÖZEL ARAÇ, GEREÇ, TEÇHİZAT LİSTESİ,
+
+17) KALİTE SİSTEMİ KİTABI,
+
+18) HAVA ALANI MASTER PLANI,
+
+19) HAVA ALANINA SEFER YAPACAK OLAN HAVA YOLU İŞLETMELERİ LİSTESİ,
+20) YER HİZMETLERİ, İKRAM, YAKIT KURULUŞLARI LİSTESİ,
+21) HAVAALANI KILAVUZU.
+
+[SAYFA 19]
+2121
+
+EK-3
+
+cep e yeğ ,
+BAYINDIRLIK VE ULAŞTIRMA BAKANLIĞI
+KAMUYA AÇIK HAVA ALANI LİSANSI
+
+LİSANS NO,
+
+HAVA ALANI ADI
+
+İŞLETMECİNİN ADI
+
+Bu lisans, bu tüzük, Uluslararasi Sivil Havacılık Teşkilatı (ICAO) tarafından yayımlanan EK'ler ve bu
+eklere ilişkin olarak yayımlanan dokümanlarda belirtilen standartlar ve önerilen uygulamalar ile Avrupa Sivil
+Havacılık Konferansı (ECAC) tarafından yayımlanan Döküman 30'da belirtilen standartları sağladığı için
+işletmeciye verilmiştir.
+
+Bubelgeyle................................... yukarıda adı geçen havaalanı için belirtilen havaalanı lisans
+türüne bağlı kalmak kaydıyla havaalanı lisansı verilir,
+
+Bu işletme ruhsatı başkasına devredilemez; iade edilmediği, geri alınmadığı veya iptal edilmediği
+sürece geçerlidir.
+
+eml ral soe
+
+BAYINDIRLIK VE
+ULAŞTIRMA BAKANI
+
+[SAYFA 20]
+2122
+
+EK-4
+
+K.K.T.C.
+BAYINDIRLIK VE ULAŞTIRMA BAKANLIĞI
+ÖZEL HAVA ALANI LİSANSI
+
+LİSANS NO.
+
+HAVA ALANI ADI
+
+İŞLETMECİNİN ADI
+
+Bu lisans, bu tüzük, Uluslararası Sivil Havacılık Teşkilatı (ICAO) tarafından yayımlanan EK’ler ve bu a
+eklere ilişkin olarak yayımlanan dokümanlarda belirtilen standartlar ve önerilen uygulamalar ile Avrupa Sivil
+Havacilik Konferansı (ECAC) tarafından yayımlanan Döküman 30'da belirtilen standartları sağladığı için
+
+işletmeciye verilmiştir.
+
+Bu belgeyle .................................... yukarıda adı geçen havaalanı için belirtilen havaalanı lisans
+türüne bağlı kalmak kaydıyla havaalanı lisansı verilir.
+
+Bu işletme ruhsatı başkasına devredilemez; iade edilmediği, geri alınmadığı veya iptal edilmediği
+sürece geçerlidir. .
+
+ele coe
+
+BAYINDIRLIK VE
+ULAŞTIRMA BAKANI
+
+[SAYFA 21]
+2123
+
+EK-5
+HAVA ALANI CALISTIRMA SERTIFIKASI BASVURU FORMU
+
+1) Başvuru Sahibinin Kimlik Bilgileri
+
+Tam Adı:
+Adresi:
+Posta Kodu:
+Görevi:
+Telefon:
+Faks:
+E-mail:
+
+2) Hava Alanı Özellikleri:
+
+Adı:
+Coğrafi Koordinatları:
+En yakın şehir veya yerleşim yerine olan mesafesi:
+
+3) Hava Alanı Sahasının Mülkiyeti
+
+Başvuru sahibi hava alanı sahasının mal sahibi midir?
+
+( )EVET ( )HAYIR
+
+Hayır ise, şu bilgileri bildiriniz:
+
+a) Sahaya ilişkin sahip olunan hakların detayı,
+
+b) Sahanın mal sahibinin isim ve adresi dışında sahip olunan hakkın söz konusu sahanın bir hava alanı olarak
+başvuru sahibi tarafından kullanılmasına izin verildiğine ilişkin resmi belge,
+
+c) Havaalanının kullanması beklenen en büyük uçak tipi;
+
+d) Hava alanının düzenli toplu taşımacılık operasyonlarında kullanılıp kullanılmayacağı,
+
+e) Hava Alanı Çalıştırma Sertifikasında yer alacak detaylar
+
+Hava Alanı Adı;
+Hava Alanı Çalıştırma Sertifikası Sahibi:
+
+Yukarıda yazılı hava alanı işletmecisi adına, işbu yazıyla hava alanını işletmek üzere sertifika için başvuruda
+bulunuyorum.
+
+İmzalayan:
+
+Ek Bilgiler:
+
+I. Hava Alam Lisansının iki suretinin başvuru formu ile birlikte gönderilmesi gerekmektedir.
+
+2. ICAO tarafından yayımlanan Doküman 9774 AN/969 ‘a uygun olarak hazırlanan Hava Alanı Kılavuzu'nun
+iki suretinin başvuru formu ile birlikte gönderilmesi gerekmektedir.
+
+3. Başvurunun Ulaştırma Bakanlığı Sivil Havacılık Dairesi Müdürlüğü'ne teslim edilmesi gerekmektedir.
+
+4. - Bu başvurudaki bütün hususlar için sunulacak belgelerin aslı veya onaylı suretlerinin olması ve eksiksiz
+olarak sunulması gerekmektedir.
+
+[SAYFA 22]
+2124
+
+EK-6
+
+KK.T.C.
+BAYINDIRLIK VE ULAŞTIRMA BAKANLIĞI
+HAVA ALANI ÇALIŞTIRMA SERTİFİKASI
+
+SERTİFİKA NO.
+
+HAVA ALANI ADI
+
+ÇALIŞTIRICININ ADI
+
+Bu sertifika, Uluslararası Sivil Havacılık Teşkilatı (CAO) tarafından yayımlanan EK’ler ve bu eklere
+ilişkin olarak yayımlanan dokümanlarda belirtilen standartlar ve önerilen uygulamalar ile ICAO Doküman 9774
+AN/969 ve Avrupa Sivil Havacılık Konferansı (ECAC) tarafından yayımlanan Döküman 30'da belirtilen
+standartları sağladığı için hava alanı işletmecisine verilmiştir.
+
+Bu sertifika yukarıda belirtilen, bu Tüzük, ICAO ve ECAC kuralları ile Hava Alanı lisansında belirtilen
+esaslara uyulması kaydıyla geçerlidir.
+
+Bu sertifika başkasına devredilemez; iade edilmediği, geri alınmadığı veya iptal edilmediği sürece
+geçerlidir.
+
+vam İİ lana
+
+BAYINDIRLIK VE ULAŞTIRMA BAKANI

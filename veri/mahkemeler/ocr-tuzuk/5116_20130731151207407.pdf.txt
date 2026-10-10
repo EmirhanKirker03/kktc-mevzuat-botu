@@ -1,0 +1,667 @@
+[SAYFA 1]
+Sayı : 393
+
+947
+
+İŞ SAĞLIĞI VE GÜVENLİĞİ YASASI
+(35/2008 Sayılı Yasa)
+Madde 44 Altında Yapılan Tüzük
+
+Kuzey Kıbrıs Türk Cumhuriyeti Bakanlar Kurulu, iş Sağlığı ve Güvenliğ
+
+Yasası'nın 44'üncü Maddesinin kendisine verdiği yetkiye day
+
+yapar:
+
+Kısa İsim
+
+Tefsir
+
+35/2008
+
+35/2008
+
+1.
+
+2.
+
+Bu Tüzük, “Patlayıcı Ortamda Çalışanların Sağlık ve Güvenlik Koşulları
+Tüzüğü” olarak isimlendirilir.
+
+BİRİNCİ KISIM
+Genel Kurallar
+
+Bu Tüzükte metin başka türlü gerektirmedikçe;
+
+“Bakanlık”, Çalışma İşleri ile görevli Bakanlığı anlatır.
+
+“Çalışan”, kendi özel yasalarındaki statülerine bakılmaksızın İş Sağlığı
+ve Güvenliği Yasası kapsamındaki kamu ve özel işyerlerinde, herhangi
+bir iş ilişkisine bağlı olarak ücret, maaş, gündelik vb. karşılığı çalışan
+(istihdam edilmiş) gerçek kişileri anlatır.
+
+“Daire”, Çalışma Dairesini anlatır.
+
+“Ekipman”, ayrı ayrı veya birleşik olarak üretme, transfer, saklama,
+ölçme, kontrol ve malzeme işlemesi için enerji dönüşümünü amaçlayan
+ve kendi potansiyel ateşleme kaynakları sayesinde patlamaya sebep
+olabilen makine, alet, sabit veya mobil cihaz, kontrol bileşeni ve
+teçhizatlar ile algılama veya önleme sistemlerini anlatır.
+
+“İşveren”, İş Sağlığı ve Güvenliği Yasası'nda Ana İşveren veya Alt
+İşveren olarak tefsiri yapılan, çalışanlarla istihdam ilişkisi olan ve
+kuruluşun veya işyerinin sorumluluğunu taşıyan gerçek veya tüzel
+kişileri anlatır.
+
+“İşyeri”, işin yapıldığı yeri anlatır ve işin niteliği ve yürütümü bakımından
+işyerine bağlı bulunan yerlerle, dinlenme, çocuk emzirme, yeme, uyku,
+yıkanma, muayene ve bakım, beden ve mesleki eğitim yerleri ve avlu
+gibi çalışanların girip çıkabilecekleri sair eklentiler ve araçlar da
+işyerinden sayılır.
+
+“Koruma Sistemleri”, başlangıç patlamalarını anında durdurmayı
+ve/veya patlama alevleri ve patlama basınçlarının etkili menzilini
+sınırlamayı amaçlayan tasarım ünitelerini anlatır. Koruma sistemleri,
+ekipman içine entegre edilebilir veya otonom sistemler olarak
+kullanılabilir.
+
+"Normal Faaliyet", ekipman ve kurulumların, tasarım parametreleri
+içerisinde kullanıldığı durumları anlatır.
+
+“Patlama”, sıcaklık, basınç veya her ikisinin birden artışına yol açan ani
+yanma veya bozulma reaksiyonunu anlatır.
+
+*Patlayıcı Ortam", yanıcı maddelerin gaz, buhar, sis veya tozlarının
+atmosferik koşullar altında hava ile karışması ve bu karışımın bir
+kıvılcımla tutuşması halinde meydana gelen alevin yanmamış karışıma
+da yayılarak tüm. karışımın şiddetli bir şekilde yanabileceği ortamı
+anlatır.
+
+anarak aşağıdaki Tüzüğü
+
+G
+
+[SAYFA 2]
+Amaç. 3.
+35/2008
+
+948
+
+“Patlayıcı Ortamların Bulunabileceği Yer”, ilgili çalışanların sağlığını ve
+güvenliğini korumak için özel önlemler alınmasını gerektirecek miktarda
+patlayıcı ortamın bulunabileceği ve tehlikeli sayılan yeri anlatır.
+
+“Yanıcı va/veya Tutuşabilir Maddeler”, özelliklerinin araştırılması
+sonucunda, hava ile karıştığında bağımsız olarak patlama üretebilmeye
+yetersiz olduğu gösterilmedikçe, patlayıcı oram oluşturabilecek
+maddeleri anlatır.
+
+Bu Tüzüğün amacı, patlayıcı ortamlar nedeniyle potansiyel olarak risk
+
+altında bulunan çalışanların sağlığının ve güvenliğinin korunması şartlarını,
+
+İş Sağlığı ve Güvenliği Yasası'nın 44'ncü maddesinin anlamı içerisinde ve
+ilgili yasa ve tüzüklerin patlama riski ile çalışma şartlarını düzenleyen
+kuralları saklı kalmak koşuluyla, detaylı olarak ortaya koymaktır.
+
+Kapsam 4.
+
+35/2008
+
+Patlamalara 5,
+Kars!
+
+Önlem ve
+Koruma
+
+35/2008
+
+(1) Bu Tüzük, İş Sağlığı ve Güvenliği Yasası kapsamına giren tüm
+işyerleri ve faaliyetleri kapsar.
+
+(2) Bu Tüzük aşağıdakiler için uygulanmaz.
+
+(A) Belirli bir mevzuatta şart koşulmadığı sürece, hastaların
+doğrudan tıbbi muayenesi veya tedavisi için kullanılan alanlar,
+
+(B) Gazlı yakıtla çalışan cihazların kullanımı,
+
+(C) Patlayıcı ve kimyasal olarak kararsız maddelerin üretimi,
+işlenmesi, kullanımı, depolanması ve taşınması,
+
+(Ç) Mineral çıkarma faaliyetleri,
+
+(D) Uluslararası andlaşmalar aksini belirimediği sürece, kara
+taşımacılığı, deniz ve hava taşımacılığı araçlarının kullanımı.
+Ancak, potansiyel patlayıcı ortamlarda kullanılacak her türlü
+nakil (taşıma) aracı bu Tüzük kapsamındadır.
+
+(3) Bu Tüzük kapsamındaki işyerlerinde bu Tüzükte belirtileri daha sıkı
+ve/veya özel önlemler saklı kalmak koşulu ile İş Sağlığı ve
+Güvenliği Yasası ve bu Yasa tahdında çıkarılmış tüzüklerin
+hükümleri de uygulanır.
+
+, İKİNCİ KISIM
+Işverenlerin Yükümlülükleri
+
+(1) İşveren, risk önleme prensiplerinin İş Sağlığı ve Güvenliği
+Yasası'nın 6'ncı maddesinin (3)'üncü fıkrası kuralları içerisinde
+uygulanması ve patlamaya karşı korumanın sağlanması için aşağıdaki
+sıralamayla uygulayacağı temel prensiplere göre faaliyetin doğasına
+uygun teknik ve/veya idari önlemleri almakla yükümlüdür.
+
+(A) Patlayıcı ortamların oluşumunun engellenmesi veya faaliyetin
+doğasının buna izin vermediği durumlarda, patlayıcı ortamların
+tutuşmasının (ateş almasının) önlenmesi, ve
+
+(B) Çalışanların . sağlığını ve. güvenliğini sağlamak amacıyla
+patlamanın zararlı etkilerinin hafifletilmesi,
+
+[SAYFA 3]
+Patlama
+Riskinin
+Değerlen-
+dirmesi
+
+Patlayıcı
+Ortamların
+Bulunabi-
+leceği
+Yerler
+
+1. Cetvel
+il. Cetvel
+ill. Cetve!
+
+İşverenin
+Genel
+Sorumluluğu
+
+949
+
+(2) İşveren, gerekli olduğu durumlarda patlamanın yayılmasına karşı
+teknik ve/veya idari önlemleri birleştirmek veya başka önlemlerle
+desteklemekle yükümlüdür.
+
+(3) İşveren, yukarıdaki (1Yiici ve (2)'nci fıkra kuralları uyarınca
+patlamaya karşı önlem ve korunma için alınan teknik ve idari
+önlemleri düzenli aralıklarla veya iş sağlığı ve güvenliği açısından
+önemli bir değişiklik meydana geldiğinde anında gözden geçirmekle
+yükümlüdür.
+
+(1) İşveren, patlayıcı ortamlardan kaynaklanan belirli riskleri, özellikle
+aşağıdaki bendierde düzenlenen hususları değerlendirmekle
+yükümlüdür:
+
+(A) Patlayıcı ortamların oluşma ihtimali ve devamlılığı, -
+
+(B) Elektrostatik boşalma dahil ateşleme kaynaklarının ortamda
+bulunma ve aktif ve etkili olma ihtimali,
+
+(C) Tesisat, kullanılan maddeler, işlemler, iş prosedürleri ile bunların
+olası etkileşimleri,
+
+(Ç) Olabilecek patlamanın etkisinin büyüklüğü.
+
+(2) İşveren, patlama riskini, işyerindeki tüm iş koşulları açısından genel
+olarak değerlendirmekle yükümlüdür.
+
+(3) İşveren, patlama risklerini değerlendirirken aynı zamanda patlayıcı
+ortamların açıklık veya başka bir yolla sızabileceği bitişik yerleri de
+değerlendirmekle yükümlüdür.
+
+(1) İşveren, patlayıcı ortamların bulunabileceği yerleri, bu Tüzüğe ekli
+Vinci Cetvelde düzenlenen bölgelere göre sınıflandırır.
+
+(2) İşveren, bu Tüzüğe ekli 1'nci Cetvelde belirtilen asgari şartların
+yukarıdaki (1'inci fıkranın kapsadığı yerlere uygulanmasını sağlar.
+
+(3) İşveren gerekli olduğu durumlarda, patlayıcı ortamların çalışanların
+sağıığın ve güvenliğini tehlikeye atabilecek (miktarlarda
+bulunabileceği yerlerin giriş noktalarını, bu Tüzüğe ekli Il'üncü
+Cetvele uygun olarak işaretler,
+
+İşveren risk değerlendirmesi ile ilgili temel prensiplere ve yukarıdaki
+5'inci maddede düzenlenen kurallara uygun olarak çalışanların
+sağlığını ve güvenliğini korumak için:
+
+(1) Çalışanların ve diğer kişilerin sağlık ve güvenliklerini tehlikeye
+atacak miktarda patlayıcı ortamların oluşma ihtimali olan İş
+ortamlarında işin güvenli bir şekilde yapılabilmesini sağlayacak, ve
+
+(2) Çalışanların sağlık ve güvenliklerini tehlikeye atacak miktarda
+patlayıcı ortamların oluşma ihtimali olan iş ortamlarında, risk
+değerlendirmesine uygun  teknik araçların kullanımı ile gerekli
+gözetim ve denetimin yapılabilmesi için tüm önlemleri almacaktır.
+
+[SAYFA 4]
+Koordi-
+nasyon
+Görevi
+
+35/2008
+
+Patlamaya
+Karşı
+Korunma
+Dökümanı
+
+950
+
+9. (1) İki veya daha fazla işverenin çalışanları aynı işyerinde görev
+yürütüyor ise, bu Tüzük kuralları, her işveren tarafından kontrolü
+altındaki konular kapsamında uygulanır. Bu yapılırken işverenler,
+yukarıdaki 6'ncı maddenin (3)'üncü fikrasi Oo gereğince ortak
+kullanım/çalışma yerlerini de dikkate alırlar.
+
+(2) İşverenlerin İş Sağlığı ve Güvenliği Yasası'nda belirtilen
+sorumlulukları saklı kalmak kaydı ile yasal olarak işyerinin
+tümünden sorumlu olan işveren, çalışanların sağlığı ve güvenliği ile
+ilgili tüm önlemlerin alınmasını koordine eder ve aşağıdaki 10'uncu
+maddede belirtilen patlamaya karşı korunma dokümanında bu
+koordinasyonun amacını ve uygulanması için alınan önlem ve
+prosedürleri belirtir. İşyerinden alt işverenin sorumlu olduğu
+durumlarda ise bu durum sözleşmede belirtilir.
+
+10. (1) İşveren, yukarıdaki 6'ncı maddede belirtilen sorumlulukları yerine
+getirirken, “Patlamaya Karşı Korunma Dokümanı"nın
+hazırlanmasını ve güncel tutulmasını sağlar. Patlamaya karşı
+korunma dokümanında özellikle aşağıdaki hususlar yer almalıdır:
+
+(A) Riskin tanımlanması, tehlikenin belirtilmesi ve patlama riskinin
+değerlendirilmesi saptanmış ve alınacak önlemler öngörülmüş
+olacaktır,
+
+(B) Bu Tüzükte belirtilen yükümlülüklerin yerine getirilmesi için
+alınan yeterli önleyici ve koruyucu tedbirleri belirtilecektir,
+
+(C) Patlayıcı ortamların bulunabileceği yerlerin bu Tüzüğe ekli Vinci
+Cetvele göre bölgeler olarak sınıflandırılması yapılmış olacaktır,
+
+(Ç) Bu Tüzüğe ekli Ifnci Cetvelin gerektirdiği o şartların
+uygulanabileceği yerler ve ekipmanların tanımlanması yapılmış
+olacaktır,
+
+(D) Çalışma yerleri ile uyarı cihazları da dahil iş ekipmanının
+tasarımı, işlenmesi, kontrol ve bakımının yapıldığı, güvenli bir
+şekilde kurulduğu ve işletilip devam ettirildiği belirtilmiş olacaktır,
+
+(E) 9'uncu maddenin uygulandığı durumlarda, işbirliğinin amaç ve
+kurallarının belirlenmesinin yanı sıra, uygulamalarının tedbir ve
+prosedürleri belirtilmiş olacaktır.
+
+(2)İşveren, O patlamaya kaşı korunma dokümanını, işin
+başlangıcından önce hazırlanacak, işyeri, ekipman veya İş
+idaresinde iş sağlığının ve iş güvenliğinin sağlanması açısından
+önemli (o değişiklik (o durumunda (o yrniden (gözden geçirip
+güncelleştirilecektir.
+
+(3) İşveren, patlamaya karşı korunma dökümanını hazırlarken belirli
+başka mevzuatlar gereğince oluşturulan döküman ve eşdeğer
+raporları mevcut risk değerlendirmesi ile birleştirebilir.
+
+(4) İşveren, patlamaya karşı korunma dokümanında yalnızca işverenin
+yazılı izni uyarınca sağlığın. ve güvenliğin korunmasını sağlayan
+faaliyetlerin yürütülebileceği yerleri ve işin başlangıcından önce
+yalnızca yazılı izin bazında yürütülebilecek faaliyetleri ve bu izni
+verebilme yetkisine sahip çalışanları belirtir.
+
+[SAYFA 5]
+Geçici
+Madde
+İşverenin
+Tüzük
+Şartlarına
+Uyma
+Zorunluluğu
+
+Yürütme
+Yetkisi
+
+Yürürlüğe
+Giriş
+
+11.
+
+12.
+
+951
+
+ÜÇÜNCÜ KISIM
+Son Kurallar
+
+İşverenler, bu Tüzüğün yürürlüğe girdiği tarihten önce fealiyette olan
+patlama riskli işyerlerini, bu Tüzüğün yürürlüğe gırdiği tarihten
+başlayarak en geç 30 ay içinde bu Tüzüğün tüm şartlarına uydurmak
+zorundadır.
+
++
+
+Bu Tüzük, Bakanlar Kurulu adına Çalışma İşleriyle görevli Bakanlık
+tarafından yürütülür.
+
+Bu Tüzük, 01 Ocak 2014 tarihinden itibaren yürürlüğe girer.
+
+[SAYFA 6]
+932
+
+1. Cetvel
+(7'nci Madde)
+
+PATLAYICI ORTAMLARIN BULUNABİLECEĞİ YERLERİN SINIFLANDIRILMASI
+
+Aşağıdaki sınıflandırma sistemi, bu Tüzüğün 8'ncı, 7'nci, 8'inci ve 9'uncu maddeleri uyarınca
+önlemlerin alınacağı yerler için uygulanmalıdır:
+
+2.1.1
+
+2.2
+
+2.2.1
+
+2.2.2
+
+2.2.4
+
+Tehlikeli Yerlerin Sınıflandırılması
+
+İşveren yerleri, bu Tüzüğün 6'ncı maddesi uyarınca yapılan patlama riski
+değerlendirmesi sonucuna dayanarak patlama riski olan yerler ile patlama riski olmayan
+yerler olarak sınıflandıracaktır.
+
+Patlama Riski Olan Yerlerin Sınıflandırılması
+Patlama riski olan yerler, bölgeler açısından patlayıcı ortamın bulunma sıklığı ve süresi
+bazında sınıflandırılır.
+
+Gaz, buhar veya sis şeklinde yanıcı maddelerin hava ile karışımının oluşturduğu
+patlayıcı ortamların bulunduğu yerler, aşağıda belirtilen bölgelere göre sınıflandırılır:
+
+Bölge 0
+Gaz, buhar veya sis şeklinde yanıcı maddelerin hava ile karışımının oluşturduğu
+patlayıcı ortamın sürekli veya uzun süre boyunca veya sıkça bulunduğu bir yer.
+
+Bölge 1
+Gaz, buhar veya sis şeklinde yanıcı maddelerin hava ile karışımının oluşturduğu
+patlayıcı ortamın ara sıra bulunması muhtemel bir yer.
+
+Bölge 2
+
+Gaz, buhar veya sis şeklinde yanıcı maddelerin hava ile karışımının oluşturduğu
+patlayıcı ortamın bulunması muhtemel olmayan veya eğer bulunursa, yalnızca sıra dışı
+ve kısa süreli olacağı bir yer.
+
+Patlayıcı ortamın , havada duran tutuşabilir toz bulutu şeklinde bulunduğu yerler,
+aşağıda belirtilen bölgelere göre sınıflandırılır:
+
+Bölge 20
+Havada duran tutuşabilir toz bulutu şeklinde patlayıcı ortamın sürekli veya uzun süre
+boyunca veya sıkça bulunduğu bir yer.
+
+Bölge 21
+Havada duran tutuşabilir toz bulutu şeklinde patlayıcı ortamın normal faaliyet sırasında
+ara sıra bulunması muhtemel bir yer.
+
+Bölge 22
+
+Havada duran tutuşabilir toz bulutu şeklinde patlayıcı ortamın normal faaliyet sırasında
+bulunması muhtemel olmayan veya eğer bulunursa, yalnızca sıra dışı ve kısa süreli
+olacağı bir yer.
+
+Tutuşabilir tozun katman, tortu ve birikintileri de patlayıcı ortam oluşturabilecek herhangi
+bir diğer kaynak olarak görülmelidir. :
+
+[SAYFA 7]
+2.1
+2.1.1
+
+2.2
+2.2.1
+
+2.2.2
+
+2.2.3
+
+2.2.4
+
+2.2.5
+
+953
+
+Il. Cetvel
+(7'nci Madde)
+
+PATLAMA RİSKİ OLAN İŞ YERLERİNDE İŞÇİLERİN SAĞLIĞINI VE GÜVENLİĞİNİ
+KORUMAK İÇİN GEREKEN ASGARİ ŞARTLAR
+
+Giriş
+Bu Cetvelin kuralları, işyeri, iş istasyonları, kullanılan ekipman ve maddeler veya
+patlayıcı ortamdan kaynaklanan risk ile ilgili faaliyetin sebep olduğu tehlikenin
+
+gerektirdiği ve T'inci Cetvelin 2'nci maddesi uyarınca. patlama riski olan yerler olarak
+sınıflandırılan yerler için geçerlidir.
+
+Bu Cetvelin kuralları, patlama riski olan yerlerde bulunan ekipmanın güvenli bir şekilde
+çalışması için gerekli olan veya bu ekipmanların çalışmasına yardımcı olan ancak
+kendisi patlama riski olan bölgede bulunmayan ekipmanlara da uygulanır.
+
+İdari Tedbirler
+
+işçilerin eğitilmesi:
+
+İşveren, patlayıcı ortamların bulunabileceği yerlerde sağlık ve güvenliğin korunması için
+uygun eğitimin çalışanlara verilmesini sağlayacaktır. Bu eğitim onları özellikle patlamaya
+karşı korunma dokümanının içeriği, önleyici ve korunma tedbirleri, Madde 2.2 gereğince
+
+işyeri için düzenlenmiş yazılı talimatlar ve kişisel korunma ekipmanların doğru kullanımı
+ile tanıştıracaktır.
+
+Patlama riski olan yerlerde çalışmak için gereken yazılı talimatlar ve izinler:
+
+Patlayama karşı korunma dokümanında belirtildiyse, patlama riski olan yerlerde
+çalışma, yalnızca işveren tarafindan düzenlenen yazılı talimatlar uyarınca
+gerçekleştirilebilecektir.
+
+Patlamaya karşı korunma dokümanında belirtildiği üzere, patlayıcı ortamın oluşabileceği
+veya patlayıcı ortamın ateşlenmesine yol açabilecek tehlikeli faaliyetlerin yanı sıra,
+başka faaliyetlerle etkileşime geçerek patlama riski oluşturabilecek faaliyetler, yalnızca
+patlama riski olan yerlerde, bundan böyle “Patlayıcı Ortamlarda Çalışma İzni” olarak
+adlandırılacak yazılı çalışma izni bazında gerçekleştirilebilir. İşveren, çalışma
+başlangıcından önce kendisi tarafından görevlendirilen kişi tarafından düzenlenen
+“Patlayıcı Ortamlarda Çalışma İzni” için bir sistem uygulayacaktır.
+
+“Patlayıcı Ortamlarda Çalışma İzni” patlama riski olan işyerlerinde çalışma
+organizasyonunun ve çalışma ve teknik prosedürlerin şeklini, makinelerin, teknolojik
+ekipmanın, taşıt, cihaz ve araçların güvenli çalıştırılması ve kullanımı için karşılanması
+gereken detaylı şartları ortaya koymaktadır.
+
+İşlerin yapılması için “Patlayıcı Ortamlarda Çalışma İzni” ile atanan çalışanlar, “Patlayıcı
+Ortamlarda Çalışma İzni" nin içeriklerinden ve işyerinde Madde 3.6 uyarınca patlama
+riskine karşı uyarı için kullanılacak sinyallerden açık bir şekilde önceden haberdar
+olmalıdır.
+
+İşveren, “Patlayıcı Ortamlarda Çalışma İzni" nin özellikle aşağıdakileri içermesini
+sağlayacaktır:
+
+a) “Patlayıcı Ortamlarda Çalışma İzni" nin düzenlenme tarihi ve geçerlilik süresi;
+
+b) Çalışma başlarıgıcı veya gerektiğinde çalışmanın kesilmesi dönemi (tarih, saat);
+
+[SAYFA 8]
+3.2.1
+
+954
+
+c) Ustabaşı ve işyerinden sorumlu kişinin imzalariyla tasdik edilmiş çalışmanın
+tamamlanma dönemi (tarih, saat);
+d) Çalışmanın adı ve çeşidi ile çalışmanın yapılacağı alanın sınırlaması;
+
+, @) Patlayıcı atmosferin oluşmasına karşı korunma için işyerinin cuvence altına alınması
+
+ve/veya onarılması; ;
+
+f) İş sağlığı ve güvenliğinin korunmasını sağlamak için is başlangıcından önce
+gercéklestirilmesi gereken tedbirlerin belirtilmesi;
+
+g) Acil durumla mücadele durumunda korunma ve acil durum araçlarının, örneğin
+yangından korunma için malzeme araçlarının listesi ve tanımlanması;
+
+h) “Patlayıcı Ortamlarda Çalışma İzni” ne uyacak ve/veya onu düzenleyecek yetkili
+kişinin adı, soyadı ve imzası;
+
+i) İş performansından sorumlu olup “Patlayıcı Ortamlarda Çalışma İzni" ni onaylayan
+ustabaşının adi, soyadı ve İmzası;
+
+İ) İşi yapacak kişilerin adları, soyadları ve gerektiği gibi bilgilendirilip eğitildiklerine,
+işyerini güvence altına alma yönteminden haberdar olup çalışma yöntemini
+anladıklarına ve onayladıklarına dair imzaları;
+
+k) Çalışmanın gözetim veya denetim altında yürütüldüğü beyanı ve/veya iş
+performansının gözetimi veya denetimi için atanan kişinin kimlik bilgileri veya
+işyerinin el değiştirmesi kaydı gibi, istenen diğer bilgiler.
+
+Patlamadan Korunma Tedbirleri
+
+İşveren, patlamaya yol açabilecek yanıcı gaz, buhar, sis veya tutuşabilir tozun kasıtlı
+veya kasıtlı olmayan kaçağı veya salınması, çalışanların sağlığını ve güvenliğini
+tehlikeye atmayacağı güvenli bir alana uygun bir şekilde çevrilmiş, aktarılmış ve eğer bu
+elverişli değilse, güvenli bir şekilde saklanmış veya başka bir uygun yöntemle güvenli
+kılınmış olmalıdır.
+
+İşveren, ekipmanları çalışmaya koyduğu her seferde veya yanıcı gaz veya sıvıların
+ekipmanlardan sızdığı veya tutuşabilir tozun ekipman üstüne veya yakınına çöktüğü
+şüphesi oluştuğunda patlayıcı atmosferlerin mevcudiyetini kontrol etmelidir. Bina
+içerisindeki yerlerde bu tür kontroller, ayda en az bir kez yapılmalıdır.
+
+Patlayıcı ortam yanıcı gaz, buhar, sis veya tozun çok sayıda çeşidini içeriyor ise,
+korunma tedbirleri en yüksek potansiyel riske tekabül etmelidir.
+
+Patlayıcı ortamların bulunduğu işyerinde çalışırken çalışanlar, sağlık için zararlı olarak
+görülen kimyasal maddelerin ve kimyasal hazırlıkların veya tozun etkilerine veya
+biyolojik faktörlerin etkilerine maruz kaldığında işveren, ilgili yasa ve/veya tüzüğe uygun
+davranmalıdır. Kişisel korunma ekipmanını seçerken işveren, Madde 3.3.1 uyarınca
+patlayıcı ortamın ateşlenmesi riskini dikkate alacaktır.
+
+İşveren bu Tüzüğün 6'ncı maddesinin (i)'inci fıkrasının (B) bendi uyarınca patlayıcı
+ortam ateşlenmesini engellemek için alınan tedbirleri uygularken, çalışanların veya olası
+diğer kişilerin veya çalışma ortamının yük taşıyıcısı veya yük üreticisi olması durumunda
+elektrostatik boşalma dahil patlayıcı ortamların ateşlenmesi için potansiyel kaynakların
+mevcudiyetini dikkate alacaktır.
+
+İşveren, patlayıcı ortam ateşlenmesinin tehlikesi bakımından, patlama riski olan
+işyerlerinde bulunan belirtilen tüzük uyarınca patlayıcı ortamların ateşlenmesine yol
+açacak elektrostatik boşalmayı engelleyen malzemelerden yapılmış korunma giysileri ve
+ayakkabılarını sağlayacaktır. İşveren, patlama riski olan işyerlerine girerken diğer
+kişilerin eşit özellikte giysi ve ayakkabılarla donatılmış olmasını sağlayacaktır.
+
+[SAYFA 9]
+le)
+3.4
+
+3.6
+
+3.9.2
+
+3.10
+
+W
+
+955
+Ekipman, koruma sistemleri veya kurulumlarının hizmete açılabimesi ancak, işverenin
+patlamaya karşı korunma dokümanında bu hususu belirtmesi ve onların kullanılmasının
+patlama riski olan ortamlarda güvenli olacağını göstermesi halinde mümkündür. Bu şart
+ayrıca belirli ti'tük gereği ekipman veya koruma sistemi olarak görülmeyen ancak
+işyerinde birleştirilmesi ve kullanımının e patlayıcı ortamların ateslenmesine yol
+açabilecek ekipman ve ilgili bağlantı cihazları için de geçerlidir.
+
+İşveren, bağlantı cihazları arasinda karışıklığın o engellenmesi için gereken
+
+tedbirleri alacaktır.
+
+İşçilerin ulaşabileceği işyeri, ekipman, kurulum ve herhangi ilgili bağlantı cihazları,
+patlama riskini en aza indirecek şekilde bulunmalı, kurulmalı, monte edilmeli, bakımı
+sağlanmalı ve çalıştırılmalıdır. Patlamanın gerçekleşmesi halinde patlamanın işyerinde
+ve ekipmanlarda dağılımı sınırlanmalı ve patlamanın fiziksel etkilerinden kaynaklanan
+tehlikelerin çalışanlar için risklerin azaltılması için gerekli tedbirler alınmalıdır.
+
+Gerekli durumlarda çalışanlar, patlamanın onları tehlikeye atmasından önce işyerini:
+terk edebilmeleri için görsel sinyal, işitsel sinyal veya her ikisinin birleşimi ile tehlikeler
+hakkında uyarılmalıdır.
+
+Patlamaya karşı korunma dokümanında belirtildiği gibi çalışanlar, patlamanın tehlikeye
+sokluğu yerleri hızla ve güvenli bir şekilde acil çıkışları kullanarak terk etme şansına
+sahip olmalıdır. Bu amaçlar için acil çıkışlar sürekli olarak boş tutulmalıdır.
+
+Potansiyel patlayıcı ortamı bulunan bir işyeri ilk kez faaliyete geçirilmeden önce, söz
+konusu işyerinin patlama riski açısından toplam güvenliği onaylanmalıdır. Patlamaya
+karşı korunmayı sağlayan tüm şartlar yerine getirilmelidir. Bu onay, patlamaya karşı
+korunma alanında tecrübeleri sayesinde yetkili olan kişiler tarafından verilmelidir.
+
+Bu Tüzüğün 6'ncı maddesi Uyarınca yapılan patlama riski değerlendirilmesine
+dayanarak:
+
+Güç kesilmesi patlama riskinin artması ile sonuçlanırsa, ekipman ve koruma
+sisteminin güvenlik ve işlevselliği, gerektiğinde diğer ekipmanlardan bağımsız
+olarak idame ettirilmelidir;
+
+Otomatik teknolojik işlem içerisinde birleştirilmiş ekipman veya koruma
+sistemlerinin norma! faaliyetin dışına çıkıp kapatılması iş sağlığı ve güvenliğinin |
+korunma seviyesini düşürmediğinde, gerektiğinde elle kapatılma olanağı
+sağlanmalıdır. Elle kapatılma, yalnızca işverenin atadığı yetkili kişi tarafından -
+gerçekleştirilebilir.
+
+Acil durum kapatılması gerçekleştiğinde birikmiş enerji, risk oluşturmaması için
+
+mümkün olduğu kadar hızlı bir şekilde dağıtılmalıdır.
+
+EKİPMAN VE KORUNMA SİSTEMLERİNİN SEÇİLMESİ İÇİN KRİTERLER
+
+Patlamaya karşı korunma dokümanı aksini belirtmiyorsa, patlama riski olan tüm yerler
+için ekipman ve korunma sistemleri, kategoriler bazında seçilmelidir.
+
+I. Cetvelin 2'nci maddesi uyarınca sınıflandırılan bölgelerde, aşağıdaki kategorilerde
+ekipman kullanılmalıdır:
+
+a) Bölge 0 veya Bölge 20, — Kategori 1 Ekipmanı,
+
+b) Bölge 1 veya Bölge21, — Kategori 1 veya 2 Ekipmanı,
+
+[SAYFA 10]
+956
+
+c) Bölge 2 veya Bölge 22, — Kategori 1, 2 veya 3 Ekipmanı.
+
+Kategori 1, üretici tarafından oluşturulan faaliyet parametreleri ile uyumlu çalışabilmek
+üzere tasarlanan ve çok yüksek korum seviyesi sağlayan ekipmandan oluşmaktadır.
+Bu kategorideki ekipmanın, gaz, buhar, sis vaya toz şeklinde yanıcı maddelerin hava ile
+karışımının oluşturduğu patlayıcı ortamın sürekli veya uzun süre boyunca veya sıkça
+bulunduğu yerlerde kullanılması amaçlanmaktadır.
+
+©
+
+,
+
+4. Kategori 2, üretici tarafından oluşturulan faaliyet parametreleri ile uyumlu çalışabilmek
+üzere tasarlanan ve çok yüksek koruma seviyesi sağlayan ekipmandan oluşmaktadır.
+Bu kategorideki ekipmanın, gaz, buhar, sis veya toz şeklinde yanıcı maddelerin hava ile
+karışımının oluşturduğu patlayıcı ortamın normal faaliyette ara sıra bulunması muhtemel
+yerlerde kullanılması amaçlanmaktadır.
+
+5. Kategori 3, üretici tarafından oluşturulan faaliyet parametreleri ile uyumlu çalışabilmek ia
+üzere tasarlanan ve normal koruma seviyesi sağlayan ekipmandan oluşmaktadır. Bu 4
+kategorideki ekipmanın, gaz, buhar, sis veya toz şeklinde yanıcı maddelerin hava ile
+karışımının oluşturduğu patlayıcı ortamın bulunması muhtemel olmadığı veya eğer
+bulunursa, yalnızca sıra dışı ve kısa süreli olacağı yerlerde kullanılması
+amaçlanmaktadır.
+
+Ill. Cetvel
+(7'nci Madde)
+
+(1) Bu Tüzüğün 7'nci maddesinin (3)'üncü fıkrası uyarınca patlayıcı ortamların bulunabileceği
+işyerleri için uyarı işareti.
+
+Tehlike — Patlayıcı Ortam
+
+Ayırıcı özellikler:
+- Üçgen şekil
+- Siyah kenarlı sarı zeminde siyah harfler (sarı kısım, işaret alanının en az 950'sini
+oluşturacak şekilde)

@@ -1,0 +1,183 @@
+[SAYFA 1]
+(
+
+ce?
+
+2) Q
+
+Wy 1089
+
+f
+{Gy
+
+ye
+
+pi
+a:
+
+N
+
+NN
+
+KUZEY KIBRIS TÜRK CUMHURİYETİ
+RESMI GAZETE
+
+Sayı : 109 EKTİ 26 Ağustos, 2016
+TEBLİĞ VE İLANLAR
+
+La
+ho
+
+Sayı : 526
+
+ÇEVRE YASASI
+(18/2012 ve 30/2014 Sayılı Yasa)
+
+Madde 36 (1) (B) Altında Yapılan Tüzük
+Kuzey Kıbrıs Türk Cumhuriyeti Bakanlar Kurulu, Çevre Yasası'nın 36'ıncı
+
+maddesinin (1)'inci fıkrasının (B) bendinin kendisine verdiği yetkiye dayanarak
+aşağıdaki Tüzüğü yapar:
+
+Kısa İsim 1. Bu Tüzük “Büyük Yakma Tesislerinden Kaynaklanan
+17.02.2014 Hava Kirletici Emisyonlarının Sınırlandırılması
+R.G.36 (Değişiklik) Tüzüğü" olarak isimlendirilir.
+
+EKİN
+
+AE 124
+
+Esas 2. Esas Tüzük, 8'inci maddesine bağlı EK Il kaldırılmak ve
+Tüzüğün yerine bu Tüzüğe ekli yeni EK Il konmak suretiyle değiştirilir.
+8'inci
+
+Maddesinin
+
+Değiştirilmesi
+
+Yürürlüğe 3. Bu Tüzük, Resmi Gazete'de yayımlandığı tarihten başlayarak
+Giriş yürürlüğe girer.
+
+ine)
+tad
+oe
+
+[SAYFA 2]
+1124
+
+Ek-H Bu Tüzüğün 8'nci maddesinin (1 )'nci fıkrası kurallarında belirtilen yakma tesisleri için
+emisyon sınır değerleri:
+
+i- Bütün emisyon sınır değerleri 273.15 K sıcaklıkta, 101.3 kPa basınçta, atık gazların su
+buharı içeriği yönünden düzeltme yapıldıktan sonra ve katı yakıtlar için % 6 (yüzde
+altı), sıvı ve gaz yakıt kullanan yakma tesislerinden dizel motorlar, gaz türbinleri ve
+gaz motorları dışında % 3 (yüzde üç). dizel motorlar, gaz türbinleri ve gaz motorları
+
+ps “
+
+için % 15 (yüzde on beş) oksijen (Oz) içeriğinde hesaplanır.
+
+Destek ateşlemesi bulunan kombine çevrimli gaz türbinlerinde standart oksijen (O2)
+içeriği ilgili tesisin özellikleri dikkate alınarak Daire tarafından belirlenebilir.
+
+2- Gaz türbinleri ve gaz motorları dışında katı veya sıvı yakıtlar kullanan yakma
+tesislerinde kükürt dioksit (SO) emisyon sınır değerleri (mg Nm):
+| Ölçülmüş toplam Kömür, inyii ve | Biyokütle Turba Sıvı yakıtlar
+termal girdi (MW) | diğer katı yakıtlar
+50-100 400 200 300 350
+100-300 200 200 300 200
+250 (akışkan yataklı
+yanma halinde)
+> 300 150 150 150 150°
+200 (dolasan veya 200 (akışkan yataklı
+basınçlı akışkan yanma halinde)
+yataklı yanma
+halinde)
+
+3- Gaz türbinleri ve gaz motorları dışında gaz yakıtlar kullanan yakma tesislerinde kükürt
+dioksit (SO2) emisyon sınır değerleri (mg/Nro°):
+
+| Genel 35 |
+| Sıvılaştırılmış gaz 5
+
+Kok fırınından düşük kalorifik değerli gazlar 400
+
+Ateşleme firmindan düşük kalorifik değerli gazlar 200
+| __
+
+[SAYFA 3]
+1125
+
+4- Gaz türbinleri ve gaz motorları dışında katı ve sıvı yakıtlar kullanan yakma
+tesislerinde azot oksitler (NOx) emisyon sınır değerleri (mg/Nm”):
+
+Ölçülmüş toplam Kömür, linyit ve diğer | Biyokütle ve turba | Sıvı yakıtlar
+termal girdi MW) katı yakıtlar
+50-100 300 250 300
+400 (pulverize linyit
+yakilmasi halinde)
+100-300 200 200 150
+>300 150 150 100
+200 (pulverize linyit
+yakılması halinde)
+
+Hafif ve orta distilatlarını sıvı yakıt olarak kullanan gaz türbinleri (kombine çevrimli
+gaz türbinleri (CCGT) dahil) NO, için 30 mg/Nm? ve CO için 100 mg/Nm? emisyon
+
+en
+?
+
+sınır değerine tabi olur.
+Her yıl başına 500 faaliyet saatinden daha az süre işletilen acil durum gaz türbinleri bu
+
+paragrafta belirlenen emisyon sınır değerleri kapsamında değildir. Bu tesislerin
+işletmecisi harcanan faaliyet saatlerini kayıt altına alır.
+
+6- Gazla ateşlenen yakma tesislerinde azot oksitler (NO,) ve karbon monoksit (CO) için
+
+emisyon sınır değerleri (mg/Nm°):
+
+NO, CO
+Gaz türbinleri ve gaz motorları dışındaki 100 100
+yakma tesisleri
+Gaz türbinleri (kombine çevrimli gaz 50() 100
+türbinleri (CCGT) dahil)
+Gaz motorları 75 100
+
+(1) ISO temel yükleme koşullarınca % 35 (yüzde otuz beş) üzeri verimliliğe sahip
+olan tek çevrimli gaz türbinleri için NO, emisyon sınır değeri 50 xg/35 olur veg
+değeri ISO temel yükleme koşullarında gaz türbine verimliliğinin yüzde olarak
+ifadesidir.
+
+Gaz türbinlerinde (kombine çevrimli gaz türbinleri (CCGT) dahil), bu tabloda
+belirülen NO, ve CO emisyon sınır değerleri yükün % 70 (yüzde yetmiş) üzeri için
+
+geçerli olur.
+
+Her yıl başına 500 faaliyet saatinden daha az süre işletilen acil durum gaz
+türbinleri bu paragrafta belirlenen emisyon sınır değerleri kapsamında değildir. Bu
+tesislerin işletmecisi harcanan faaliyet saatlerini kayıt altına alır.
+
+[SAYFA 4]
+1126
+
+7- Gaz türbinleri ve gaz motorları dışında katı veya sıvı yakıt kullanan yakma tesisleri
+
+için toz emisyon Sınır değerleri (ng Nm” )
+
+50-300 20
+| > 300 10
+
+— Ölçülmüş toplam termal girdi (MW)
+
+20 (biyokütle ve turba için)
+
+g- Gaz türbinleri ve gaz motorları dışında gaz yakıtlar kullanan yakma tesisleri için toz
+
+. « 7 3
+emisyon sınır değerleri (mg/Nm’)
+
+(Genel 5
+Ateşleme firini gazi 10
+| Çelik endüstrisince üretilen ve başka yerlerde de 30
+kullanılabilen gazler |
