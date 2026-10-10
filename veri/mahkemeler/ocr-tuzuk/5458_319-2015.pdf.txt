@@ -1,0 +1,637 @@
+[SAYFA 1]
+Sayı: 319
+
+Kısa İsim
+
+Tefsir
+
+Amaç
+
+893
+
+YEM YASASI
+(32/1990 ve 46/1995 Sayılı Yasalar)
+
+Madde 22(5) ve (6) Altında Yapılan Tüzük
+
+Kuzey Kıbrıs Türk Cumhuriyeti Bakanlar Kurulu Yem Yasası'nın 22'inci
+maddesinin (5Y'inci ve (6)'ncı fıkralarının kendisine verdiği yetkiye dayanarak
+aşağıdaki Tüzüğü yapar:
+
+1. Bu Tüzük, “Yemlerin Kontrolü İçin Numune Alma ve Analiz Metotlarına
+Hişkin Kurallar Tüzüğü” olarak isimlendirilir.
+
+BİRİNCİ KISIM
+Genel Kurallar
+
+2. Bu Tüzükte metin başka türlü gerektirmedikçe:
+
+“Ayırıcı”, birincil numune, azaltılmış numune ve laboratuvar numunelerinin
+hazırlanması sırasında numuneyi yaklaşık eşit parçalara ayırmak için kullanılan
+aletleri anlatır.
+« Azaltılmış Numune”, Paçal numuneden azaltma yöntemiyle elde edilen ve paçal
+numuneyi temsil eden numuneyi anlatır.
+
+“Bakanlık”, hayvancılık işlerinden sorumlu Bakanlığı anlatır.
+
+“Birincil Numune”, numune alınan partinin bir noktasından alınan miktarı, anlatır,
+“Daire”, hayvancılık Dairesini anlatır.
+
+“El Aletleri”, el ile numune alınırken kullanılan kürek, numune alma sondası ve
+benzeri aletleri anlatır.
+
+“Kör Test”, markası veya üretici adı gizli tutulan iki ürün arasında karşılaştırma
+yapılmasına dayanan ve görüşülen tüketici tipinin gereksinimlerine en uygun
+geleni saptamaya olanak veren testi anlatır.
+
+“Laboratuvar Numunesi”, homojenize edilen paçal numuneden veya azaltılmış
+numuneden alınan numuneyi anlatır.
+
+“Mekanik Aletler”, hareket halindeki yemlerden numune alınırken kullanılan aleti
+anlatır.
+
+“Numune Alınan Parti”, özelliği itibarıyla bir örnek ve bir birim oluşturan yemi
+anlatır.
+
+“Numune Alma Alet ve Cihazları”, numune alınan yemde bulaşmaya sebep
+olmayacak materyallerden yapılmış, Daire tarafından kullanımı uygun görülen
+alet ve cihazları anlatır.
+
+“Numune Alma Sondası”, uzun yarıkları veya bölmeleri olan numune alınan
+partinin ve yemin partikül büyüklüğüne uygun, değişik boyutlardaki numune alma
+aletini anlatır.
+
+“Paçal Numune”,numune alınan partiden alınan birincil numunelerin
+birleştirilmesi ve homojen olarak karıştırılması ile elde edilen numuneyi anlatır.
+
+3. Bu Tüzüğün amacı; yemlerin kontrolünde mikroorganizmalar hariç yemin
+bileşiminin, katkı maddelerinin ve istenmeyen maddelerin tespiti için numune
+almayı, numunelerin analiz için hazırlanması ve sonuçların açıklanmasını,
+yemlerin kontrolünde uygulanacak analiz metotlarını, yemlerin kontrolünde
+hayvansal kökenli bileşenlerin tespitinde kullanılacak analiz metotlarını, kanatlı
+karma yemlerinin enerji değerinin hesaplanmasını, kullanımı yasaklanan yem
+katkı maddelerinin yasal olmayan bir şekilde bulunmasının kontrolünde
+kullanılacak analiz metotlarını belirlemektir.
+
+[SAYFA 2]
+Kapsam
+
+Yem Numunesi
+Alımıyla İlgili
+Genel Kurallar
+
+Birincil Yem
+Numunelerin
+Alınması
+
+5.
+
+894
+
+Bu Tüzük; yem numunelerinin alınması, hazırlanması, kaydı, paketlenmesi
+ve gönderilmesi ile yem analizlerde kullanılan alet ve kimyasallar, analiz
+metotları ve analiz sonuçların açıklanmasına ilişkin kuralları kapsar.
+
+(1)
+(2)
+
+(3)
+
+(1)
+
+(2)
+
+IKINCI KISIM
+Yem Numunelerinin Alınmasına İlişkin Kurallar
+
+Katı yemlerden numune alınırken el aletleri, mekanik aletler ve
+ayırıcılar kullanılır.
+
+Numune alınacak partinin özelliğine ve büyüklüğüne göre, alınması
+gereken numune sayıları ve miktarları bu Tüzüğe ekli EK-1’de
+belirtilmiştir.
+Numune alma alet ve cihazları, numune hazırlanacak yüzeyler ve
+numune kaplarının temiz ve kuru olması gerekir. Yemin özelliğinin
+değişmemesi ve olası bulaşmanın engellenmesi amacıyla numuneler,
+mümkün olan en kısa zamanda alınır ve hazırlanır ve bunun için
+gerekli tedbirler alınır.
+
+Yem içerisinde homojen dağılım gösteren maddelerin veya ürünlerin
+kontrolü için alınacak birincil numuneler, numune alınan partiden
+rastgele ve yaklaşık eşit miktarlarda alınır.
+
+(A) Dökme yemlerde numune alınan parti, tahmini ve göz kararı
+olarak yaklaşık eşit parçalara bölünür ve her bir parçadan olmak
+üzere bu Tüzüğe ekli EK-l’in A.2'deki A2.1 satırında
+belirtildiği gibi, gerekli birincil numune sayısı kadar rastgele
+numune alınır. Gerektiğinde numune alma işlemi yükleme veya
+boşaltma esnasında da yapılabilir.
+
+(B) Paketlenmiş yemlerde, bu Tüzüğe ekli EK-1’in A.2'deki A.2.2
+satırında belirtilen sayıda gerekli paketler seçildikten sonra, her
+bir paketin içeriğinin bir kısmı numune olarak kürek ve benzeri
+el aletleri kullanılarak alınır. Gerektiğinde, paketler ayrı ayrı
+boşaltıldıktan sonra da numune alınabilir. Şayet alınan
+numunenin içerisinde kalıplaşmış parçalar varsa bunlar
+parçalanır ve karıştırılır.
+
+(C) Homojenize veya homojenize edilebilir sıvı veya yarı sıvı
+yemlerde, bu Tüzüğe ekli EK-('in A.2’deki A.23 satırında
+belirtilen kap sayısı dikkate alınır. Gerekli ise içerik homojenize
+edilir, her bir kaptan gerekli miktar numune alınır. İçerik
+boşaltılırken de numune alınabilir,
+
+(¢) Homojenize edilemeyen sıvı veya yarı sıvı yemlerde, bu Tüzüğe
+ekli EK-l’in A.2'deki A.23 satırında belirtilen kap sayısı
+dikkate alınarak, farklı seviyelerden numuneler alınır.
+Numuneler içerik boşaltılırken de alınabilir, ancak baştaki ilk
+kısımları atılarak alınır. Her durumda, alınan numunenin toplam
+hacmi on litreden az olamaz.
+
+(D) Yem blokları ve mineral yalama taşlarında, bu Tüzüğe ekli EK-
+Vin A.2'deki A.2.4 satırında belirtilen sayıda blok veya yalama
+taşları seçilerek her bir blok veya yalama taşının bir parçası
+numune olarak alınır.
+
+Yem içerisinde homojen bir şekilde dağılmayan aflatoksin,
+
+çavdarmahmuzu, hint yağı bitkisi ve baklagil cinsi olan crotalaria gibi
+
+istenmeyen maddelerin veya ürünlerin kontrolüyle ilgili alınacak
+birincil numuneler için; numune alınacak parti, bu Tüzüğe ekli EK-1’in
+
+B.3 satırında belirtilen paçal numune sayısına göre, tahmini ve göz
+
+kararı olarak yaklaşık eşit bölümlere ayrılır. Tahmini ayrılan bölüm
+
+sayısı birden fazla ise, her bir bölümden bu Tüzüğe ekli EK-I'in B.2
+
+satırında belirtilen sayıda farklı yerlerden yaklaşık eşit miktarlarda
+
+birincil numune alınır. Her bir bölümden paçal numuneler için alınan
+birincil numunelerin toplam miktarı dört kilogramdan az olamaz. Farklı
+
+[SAYFA 3]
+Paçal
+Numunelerin
+Hazırlanması
+
+Laboratuvar
+Numunelerinin
+Hazırlanması
+
+Laboratuvar
+Numunelerinin
+Paketlenmesi
+
+Numune
+Kayıtları
+
+Numunelerin
+Laboratuvara
+Gönderilmesi
+
+Analiz İçin
+Numunelerin
+Hazırlanması
+
+7. (1)
+(2)
+8. (1)
+(2)
+
+895
+
+bölümlerden alınan birincil numuneler pagal numune haline getirilmez.
+
+ÜÇÜNCÜ KIŞIM
+Yem Numunelerinin Hazırlanması, Kaydı, Paketlenmesi
+ve Gönderilmesine İlişkin Kurallar
+
+Yem içerisinde homojen dağılım gösteren maddelerin veya ürünlerin
+kontrolü için alınan birincil numuneler, paçal numune oluşturmak için
+birleştirilerek karıştırılır.
+
+Yem içerisinde homojen bir şekilde dağılmayan aflatoksin,
+çavdarmahmuzu, hint yağı bitkisi ve baklagil cinsi olan crotalaria gibi
+istenmeyen maddelerin veya ürünlerin kontrolü için, bu Tüzüğe ekli
+EK-1’in B.3 satırında belirtilen sayıda, pagal numune oluşturmak
+üzere, her bir bölümden alınan birincil numuneler birleştirilerek
+karıştırılır. Tahmini ve göz kararı oluşturulan her bölümden alınan
+paçal numune, alındığı bölüme göre kodlanır.
+
+Homojen bir numune elde edebilmek için, her bir paçal numune
+dikkatli ve özenli bir şekilde karıştırılır. Gerekirse paçal numune
+mekanik veya otomatik ayırıcı kullanılarak veya çeyrekleme metodu ile
+iki kilogram veya iki litreye azaltılarak azaltılmış numune oluşturulur.
+Laboratuvara gönderilmek üzere, bu Tüzüğe ekli EK-1’in A.4 satırında
+veya bu Tüzüğe ekli EK-1’in B.4 satırında belirtilen miktarda eşit ve
+aynı özellikleri taşıyacak şekilde en az üç numune oluşturulur. Her bir
+numune uygun kaplara ayrı ayrı konulur. Muhafaza ve nakliye
+sırasında oluşabilecek bulaşmanın önlenmesi veya numunenin
+bozularak bileşiminin değişmesine neden olabilecek olumsuzlukların
+engellenmesi için gereken bütün önlemler alınır.
+
+9. Kontroller için alınan numuneler, mühürlenir ve etiketlenir. Mühürleme
+işlemi, numune güvenliğini temin amacıyla mühür bozulmadan paket
+açılamayacak şekilde yapılır.
+
+10. Numunenin ait olduğu parça ve numuneyle ilgili kayıtlar, karışıklığa ve
+tereddüde meydan vermeyecek şekilde tutulur.
+
+11. Analiz yapılmak üzere, her bir pagal numuneden alınan numunelerden en az
+biri yapılması istenen analizlerle ilgili gerekli bilgiler ile birlikte mümkün olan en
+kısa sürede fiziksel, kimyasal, biyolojik muayene ve analizlerin türüne göre Daire
+laboratuvarına veya Daire tarafından öngörülen yetkili laboratuvara gönderilir.
+
+12. (0)
+
+©)
+
+Bu Tüzüğe göre alınan ve bu Tüzüğün 11'inci madde kurallarına uygun
+
+olarak gönderilen yem numunesinden, analiz metodunda belirtilen
+
+miktar kadar, numune tartılarak alınır. Alınan bu miktarın homojen ve
+numuneyi temsil eder nitelikte olması gerekir.
+
+Analiz için numuneler hazırlanırken dikkat edilecek hususlar aşağıda
+
+belirtilmiştir:
+
+(A) Numuneler, uygulanan analiz metotlarında belirtilen yönteme
+göre hazırlanır...
+
+(B) Uygulanan tüm işlemler, olası bulaşmayı ve bileşiminde
+oluşabilecek degismeyi olabildiğince önleyecek şekilde
+gerçekleştirilir.
+
+(C) Numunenin, hava ve ışığa en az düzeyde maruz kalmasını
+sağlamak için, yapılacak öğütme, karıştırma ve eleme işlemleri
+olabildiğince çabuk gerçekleştirilir. Belirgin şekilde numunede
+ısınmaya neden olan değirmenler ve öğütücüler kullanılmaz.
+
+(C) Özelikle ısıya hassas olan yemler elle öğütülür. Kullanılan
+aletlerin, numunede iz elementler bakımından bir kontaminasyon
+
+[SAYFA 4]
+(3)
+4)
+Analizlerde 13. (1)
+Kullanılan Alet
+Ve Kimyasallara
+İlişkin Kurallar
+2)
+(3)
+
+896
+
+kaynağı olmamasına dikkat edilir.
+
+(D) Numune hazırlanırken, numunenin nem içeriği muhafaza
+edilemiyor ve nem içeriğinde değişiklik meydana geliyorsa
+rutubet tayini; hazırlık öncesi ve sonrasında olmak üzere bu
+Tüzüğün 14'üncü maddenin (1)’inci fıkrasının (A) bendinde
+belirtilen (O uyarınca çıkarılması öngörülen Ooyönetmelikle
+düzenlenen metoda göre yapılır.
+
+Numune, analiz için hazırlanırken uygun ayırma teknikleri kullanılarak
+
+analiz ve referans için yeterli alt numunelere bölünür. Alt numunelere
+
+bölünürken konileme ve çeyrekleme metotları kullanılmaz. Referans
+numune; temiz, kuru ve hava sızdırmaz uygun bir kapta saklanır.
+
+Yemlerin özelliğine göre en az yüz gramlık alt numuneler, analiz için
+
+aşağıda belirtilen şekilde hazırlanır:
+
+(A) oÖğütülebilen yemlerde; analiz metodunda farklı bir şekil
+belirtilmemiş ise, gerektiğinde öğütülür, ancak bu öğütme işlemi
+yapılırken aşırı öğütmeden sakınılır. Öğütülen numunenin
+tamamı bir milimetrekare gözlü elekten geçirilir (ISO R565’a
+göre). Elenen numune karıştırılır, temiz, kuru, hava sızdırmaz
+uygun bir kaba alınır. Analiz yapılmak üzere numune alınacağı
+zaman, numune tartılmadan hemen önce tekrar karıştırılır.
+
+(B) Kurutulduktan sonra öğütülebilen yemlerde; analiz metodunda
+farklı bir şekil belirtilmemiş ise numune, bu Tüzüğün 14'üncü
+maddenin (1)’inci fıkrasının (A) bendinde belirtilen çıkarılması
+öngörülen yönetmelikte düzenlenen metotdaki ön kurutma
+işlemine uygun olarak, nem içeriği % 12 — % 8 (yüzde oniki-
+yüzde sekiz) aralığına düşünceye kadar kurutulur. Bundan
+sonraki işlemler, yukarıdaki (A) bendinde belirtildiği şekilde
+yapılır.
+
+(C) Sıvı veya yarı sıvı yemlerde; numune temiz, kuru ve hava
+sızdırmaz uygun bir kaba alınır. Analiz yapılmak üzere numune
+alınacağı zaman, numune tarttimadan hemen önce karıştırılır.
+
+(Ç) Diger yemlerde; yemlerin özelliğine göre, yukarıdaki fıkralarda
+belirtilen şekillerde hazırlanması mümkün olmayan diğer
+yemlerin hazırlanmasında farklı diğer yöntemler uygulanabilir.
+Ancak, analiz için alınan miktar, homojen ve analiz edilecek
+numuneyi temsil eder şekilde olur.
+
+Numunelerin depolanmasında; numuneler bileşimlerinde herhangi bir
+
+değişikliğe neden olmayacak uygun bir sıcaklıkta depolanır. Özellikle
+
+vitaminler veya ışığa duyarlılığı olan maddelerin analizleri için alınan
+numuneler, kahverengi cam kaplarda saklanır,
+
+DÖRDÜNCÜ KISIM
+Analizlerde Kullanılan Alet ve Kimyasallar, Analiz Metotları
+ve Sonuçların Açıklanmasına İlişkin Kurallar
+
+Analiz metodunda farklı bir şekil belirtilmemiş ise, kullanılan
+kimyasalların analitik olarak saf olması gerekir. Eser (az) miktardaki
+maddelerin analizinde kullanılan kimyasalların saflığı, kör test ile
+kontrol edilir. Elde edilen sonuçlara göre kimyasalların daha da
+saflaştırılması gerekebilir.
+
+Analiz metodunda özel bir çözücü, seyreltici veya herhangi bir madde
+belirtilmemiş ise çözeliilerin, seyrelticilerin, durulama ve yıkama
+solüsyonlarının hazirlanmasinda su kullanılır. Bu işlemlerde
+kullanılacak su damıtılır veya demineralize edilir. Kullanılan suyla
+ilgili, analiz metodunda özel bir saflaştırma isteniyor ise belirtilen
+analiz metoduna göre saflaştırma işlemi yapılır.
+
+Laboratuvarda kullanılan alet ve malzemelerin, analiz metotlarında
+belirtilen alet ve malzemeler olması ve bu alet ve malzemelerin temiz
+olması gerekir.
+
+[SAYFA 5]
+Analiz Metotları
+
+Analiz
+Sonuçlarının
+Açıklanması
+
+14.
+
+15.
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+(1)
+
+(2)
+3)
+
+(4)
+
+897
+
+(A) Yem maddeleri ve karma yemlerin bileşimlerinin kontrolü,
+
+(B) Yemlerde katkı maddelerinin düzeylerinin kontrolü,
+
+(C) Yemlerde istenmeyen maddelerin kontrolü,
+
+(Ç) Yemlerde hayvansal kökenli bileşenlerin tespitinin resmi
+kontrolü,
+
+(D) Kullanımına izin verilmeyen yem katkı maddelerinin kontrolü,
+
+(E) O Kanatlı karma yemlerinin enerji değerinin hesaplanması,
+
+ile ilgili analiz metotlarına ilişkin ayrıntılı kurallar Bakanlıkça
+
+hazırlanıp Bakanlar Kurulunca onaylanacak ve Resmi Gazete'de
+
+yayımlanacak bir Yönetmelikle düzenlenir.
+
+Ekstraksiyon (ayırma) işleminde değişik metotlar uygulanabilir. Analiz
+
+metodunda belirtilenden başka bir ekstraksiyon metodu uygulanması
+
+halinde, uygulanan bu metot, o ürün için analiz metodunda belirtilen
+
+metoda eşdeğerde ekstraksiyon etkinliği sağlanır.
+
+Temizleme işlemi değişik metotlarla yapılabilir. Analiz metodunda
+
+belirtilenden başka bir metot uygulanması halinde, uygulanan bu metot,
+
+o ürün için analiz metodunda belirtilen metoda eşdeğerde temizleme
+
+etkinliği sağlanır.
+
+Gerekli hallerde, bu Tüzükte belirtilen metotlar dışında, bilimsel kabul
+
+gören ve Dairece izin verilen farklı diğer metotlar da uygulanabilir.
+
+Analiz sonucu, analiz metodunda belirtildiği şekilde anlamlı rakamlarla
+
+yazılır. Laboratuvara gelen numunenin nem içeriğinde meydana gelen
+
+değişime göre, gerektiğinde hazırlık öncesi nem içeriğine göre sonuçta
+düzeltme yapılır.
+
+Uygulanan metot raporda belirtilir.
+
+Analiz raporunda verilen sonuç değerin elde edildiği çalışılan örnek ve
+
+tekrarlama sayıları raporda belirtilir. Sonuç değeri, çalışılan örnek ve
+
+tekrarlama sayılarının ortalaması alınarak belirlenir.
+
+Paralel çalışma en az iki örnekle yapılır. Ancak;
+
+(A) İstenmeyen maddeler yönünden analiz yapılıyor ise kalite
+prosedürlerine uyulmuş olması koşuluyla, çalışılan ilk Sémekte
+belirlenen analiz sonucu elde edilen değer, spesifikasyonunda
+belirtilen değerin yarısından, düşük bir değer ise ikinci bir
+çalışmaya gerek yoktur.
+
+(B) Bir maddenin içeriğinin veya beyan edilen değerin kontrolünde,
+kalite prosedürlerine uyulmuş olması koşuluyla, çalışılan ilk
+örnekte belirlenen analiz sonucu, beyan edilen değeri ve içeriği
+doğruluyor ve kabul edilebilir varyasyon aralığında bulunuyor
+ise ikinci bir çalışmaya gerek yoktur.
+
+Dioksinler ve dioksin benzeri Polychlorinated biphenyller (PCB’ler)
+gibi (o istenmeyen Oo maddelerin yemlerde (o belirlenmesi ve
+değerlendirilmesi, genişletilmiş ölçüm belirsizliği ve geri kazanım
+düzeltmesi hesaba katılarak yapılır. İstenmeyen maddelerin analiz
+sonucu, belirlenen maksimum düzeyi aşıyor ise bu yem uygun olmayan
+yem olarak değerlendirilir. Bu değerlendirme ölçüm belirsizliği ve geri
+kazanım düzeltmesinin analiz metoduna göre hesaplanınasının
+mümkün olduğu durumlarda yapılır. Bu şekildeki değerlendirme
+mikroskobik analizler için uygun olmadığından yapılmaz. Analiz
+sonucunun raporlanmasında ölçüm belirsizliği ve geri kazanım oranı
+aşağıdaki şekilde belirtilir: ;
+
+(A) Geri kazanım için yapılan düzeltmede, geri kazanım seviyesi
+belirlenir. Geri kazanım için yapılan düzeltme % 90 ile % 110
+(yüzde doksan ile yüzon) arasında olduğu durumlarda gerekli
+değildir.
+
+(B) ‘x Y/— U' eşitliğinde, “x” analiz sonucunu, “U” genişletilmiş
+ölçüm belirsizliğini ifade eder. Yaklaşık % 95 (yüzde doksan
+beş) güven aralığı için, kapsam faktörü 2 kullanılır.
+
+[SAYFA 6]
+Yürütme Yetkisi
+
+Yürürlüğe Giriş
+
+898
+
+Ancak, kalite prosedürlerine uyulmuş olması koşuluyla,
+belirlenen analiz sonucu elde edilen değer, spesifikasyonunda
+belirtilen değerin yarısından, düşük bir değer ise analiz sonuç
+raporunda ölçüm belirsizliği ve geri kazanım düzeltmesinin
+belirtilmesine gerek yoktur,
+
+BEŞİNCİ KISIM
+Son Kurallar
+
+16. Bu Tüzük, hayvancılık Dairesi tarafından yürütülür.
+
+17. Bu Tüzük, Resmi Gazete'de yayımlandığı tarihten başlayarak altı ay sonra
+yürürlüğe girer.
+
+[SAYFA 7]
+899
+
+oununu (eded | “eV
+nurla ISE) tureje BoA Yoja WOp 30d u_ “MUTE .
+ISE) EULEJEK 114 BAIA YO] IQ UIST HAE 191) ue$njo uapaylun $Z
+(x.q)1STABS Lae]$e} e1uejek BAIA YOJg ZE UD yeouUTTE auNWINy uej|Sej euueyed [RIOUIUL 9A Lepyporg wa, | pz Vv
+“Hue UZ) OZ B]zey ug (e) 1epey
+MQ Joey ururstAes unejdey uBmsnyo 141y1ed uvurje oununN asi BjzBy üzldey oy ‘Hred uvuye oununnN | Eze zy
+ueydey b asi epurstlz dey 9 1-ç ‘tied ueuiye ountunN | TEV
+ueplejdey ung ast eputsvie dey p-[ ‘ed ueuyje sunwny İ TZ7EZ'V
+uepieldey UzJo E|ZEJ uepanty ug | *7EZV 7
+$ ueplejdey ueketi$e Konu ig) Pee Vv
+(e) Istdes dey ze us yeoeurye dUNUMN wad TAS ed BADA AIS | EZ
+“Mure uajjoyed 07 Byzey uy “(,)
+JLpey MyQYaIey uruistAvs uLpoyed Lyopred ueurpe suntan, ast ejzej uayoyed g] aed ueurye sunuiny | *€777'v
+$ os! yoyed 9 f-ç Hied ucuna ounumN | '77'77'V
+uapoyed 191) ast yoyed  -| qaed ucuz ounwny [OTT V
+Jopjayed uefo ezej uep By. | “CCTV
+b 1909)ed uvdeurse 1,3) | İZEV
+(gı) ISAS SUNIUNU Ze UD yeoRUTTy wo Stluuapayed | “TT W
+“murye ounuinu
+JULITG Op ejzej UT *(,.)sepey es uojıpo opyo yRleurype
+IQ wy Ulu QZ (uo) uTUVPYIW Ted ueMTE sunun | ast JOATSe nuoj ç'z We} Ned ucu oUNUNN | “7 EZV
+ZL | 98t JoAituse nuo} ç'z wep ted weuye sunuing | TT Vv
+IsIAeS ounumu [IOULIIG ZE Us ywoCUlyy wok ouryog | 1'7'V
+Jopunumu Jouuig'İ cy
+“IIpyeUljO apy hjas 174091931 Loyappeul uning Hopurgiedi ululped ueurpe ounumu “ounumu ueuyy | “DV
+
+DONU OY UnspUNIN BAYA ULOJOPPELİ Ua191S98 wIT[IBep ualoMoY OPUISUJĞ! ws X
+
+RIYTAY.LAJN HA TAVS SNCUNAN SIVOVNITV
+‘AYO ANNONTAQAAE TA ANIOITTIZO NINLLUVd NVNITV ANNAN
+
+(Oz (29 2) (0S “(Zr appen)
+
+“IE
+
+[SAYFA 8]
+900
+
+Ua udyored IsvUITe SION CUTIE [LUE UNUNTİ uvulye suNWNN (401) rage uluTed UeUTTe ouNtUTY
+
+wed sued | “Ped
+
+“UIPI[PUIBL[O ZE ULp By
+p “Iğilağe urejdoy unspounwnu oun uvinjsnfo Téaunuinu jeded ng sop] undılujuaa vpriBese isıkes ounumu jesed ze uo uayaied
+ISCUMUTTY “USE ed LUTTE gununu 1g JOP “11191597 yusySigop istAes uafaunumu Je3td “9193 sunsnpNAng uunaed URUJE suNuINN,
+
+ela
+Jojaunuinu Jedtd | “eg
+
+‘“MUT[E TEPE ojayud Op E|ZEJ UT “(,,) Jepey nyoyoey
+UIUISTAUS UNOpAYLA ueMsnjo ed uvuyye oUNLUNN ost e|zej uayayed 9 | aed uewye sunny | *€77g
+b asi jayed 9 |-ç red üzüre sunum | TTT A
+uayjayed Jay asl yoyed p -[ Ted ueuye aunumMyy | “Toca
+Gey) IstAvs gunumu Ze Ue yeoRtTy wo Siumuapjoyed | 274
+Iqts DOP TV wa aunjog | 17'İ
+
+Jajauntunu Jung | 7g
+
+“AIPI [Euro ap[Pyas xyaa1931 LopOppewr unng Hepulsiiesr ürüyied uzurye onumu ounumu UZUV | 'Td
+
+(ex) Donuoy ulojun.n
+vAdA ULAJoppuLU UokolUU9JSI 113 VIULTLIOIO 9A IsDpıg MeAjuny ‘nznwuyeuuepars ‘uisyoyeye uakoutiajsos unjifep uofouroy apursizadt WU,
+
+rar gos | ULA TATS WBA BADA TALS —
+
+700s | was ye —
+
+Peel o Ze Uvpaeplepjinu UaTHIT}aq eprgvse WEP] UŞUSOUNUNU IZANJELOGE”T “I[Lapug”d BILANŞLIOĞUJ oiozy yeurpided ANIK Ni
+“Hig Ze Ud UopLapounumu UEUEJNZEY OLOZN YOUN[Lepugs weANyeIOge’] *1JLINO3 Oley OUULNU $IUMJEZE OUNLUNU Jesed opuığuyaları :
+
+Mojounumu IZATLIOYU | yi
+BY p ueplejuejo eJzej Ue oy | ĞINI | Srey nen
+Jepey Iğıpiğe ULUS) eweped 2434 yorq Jeurliz0 OC] ueplejuzkeLujo vyzey UEp,İN J IBILDy TREW r ~
+Melsej BuILyeA BAA LepO]q tua, [PEW |
+Ue ueprejdey eyo Bizey uopanıj ng] EEE
+Jepey twoey Yurdu! dey yeurltio p ueplejdey uvxeuse faa] zig TEV
+luag Tats EA RADA TALS İÇE
+BY p uapaopjayed ezel uep İİİ EV Ni
+Jepey Vinge ulurğuodı jaye Jeuiluo p uapropoyed ze uep By T | prey
+ULA StuUapayeg | TEV
+dp wad suo |r ey
+“UplPwiEuyO Ze UEpIEpE PIU Ug[HTPEq |”
+epigese ‘wept wejdoj urrapounuinu prounig uemysnjo ounuinu jeseg “uprpyero8 ounumu jeded 119 Yay ‘urSt 1stözed ounumu lq Ry
+
+oe me ot. wr VE A
+
+[SAYFA 9]
+901
+
+“ATpIpe JoyaIel] 9108 SUId,UOA Uo|HMTTaq Ep, V OPUNJONUON
+
+opwed iorkepueue) oA we) Ulojunun ASA UHoJoppeui uafatuUayst Igığ eLlujeyoz9 9A IsEPTG Wed Try İNZNLUYLULEPABİ ‘uIsyoreV (444)
+“TuUIBUTE) UTUISP}] BITEyRA BADA YOJg “UIST LE[SE}
+
+eejek BAIA Tepjojg UBkEUUse 13x | UB “Tureure) urqey eA uNayed .uq [eurfiio uid! 1e[dey BAA joyud uekevuse Tharp | BAA 1,3 | (44)
+
+“nuyjureurej BATARS LUL] 1YBIUOS JQ VST T[IISay KES Us|IPa apiz (4)
+
+“TIpTeMVEUypo ZE URp,İ OOS WEP Uudunumu UOJHOPUYİ BILANLIOGEJ
+
+TOpUYİ Ureanıelogej sunumu 144 ze Ue 'uLğı oununu yeded 114 JOH “PLO ourjey sunumu Sturpyjeze ounLUNU jeded opulğnyalag
+UojaunLunu 12AN2Og?TJ | “bg
+
+tizuj UOP.T08
+
+002 “LE —
+
+m
+£ 008 -10¢ —
+4
+I
+
+Yı
+
+Isikes ounumu jeded ze Ud Usya198
+ISBLUUT[Y 9103 vuLEpiur yoyed ulurjaed URULJE OUNLUNN, Olerejo tstAes Joxyed) wey urunsed uve SUNLUNN,
+
+wat sruuapaye,] | 7 EL
+
+BIZey URP,UOJ Op —
+
+Uo 01-1 —
+
+v
+£ UO 01-00 ——
+4
+I
+
+Tepey 2,Uol| —
+
+zsı4es ounumu jeded ze
+
+oe

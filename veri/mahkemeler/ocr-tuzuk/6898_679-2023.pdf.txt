@@ -1,0 +1,2182 @@
+[SAYFA 1]
+Sayı: 679
+
+1729
+
+İSTATİSTİK KURUMU (KURULUŞ GÖREV VE ÇALIŞMA ESASLARI) YASASI
+
+(32/2019 ve 9/2020 Sayılı Yasalar)
+
+Madde 27 Altında Yapılan Tüzük
+
+Kuzey Kıbrıs Türk Cumhuriyeti Bakanlar Kurulu İstatistik Kurumu (Kuruluş, Görev ve
+Çalışma Esasları) Yasası'nın 27’nci maddesinin (4Y'üncü fıkrasının kendisine verdiği yetkiye
+dayanarak aşağıdaki Tüzüğü yapar:
+
+Kısa İsim |1. [Bu Tüzük, Sınıflama Sisteminin Uygulanması Tüzüğü olarak isimlendirilir.
+
+BİRİNCİ KISIM
+Genel Kurallar
+
+Tefsir
+
+u Tüzük'te metin başka türlü gerektirmedikçe;
+
+“Birim”, Hakkında veri toplanacak gerçek ve tüzel kişiler ile mekânlar
+gibi sabit bir nesne sınıfını anlatır.
+
+“COFOG (Classification of the Functions of Government) Kodu”,
+Birleşmiş Milletler İstatistik Bölümü tarafından tanımlanan ve Devlet
+fonksiyonlarının sınıflamasını anlatır.
+
+“COICOP HBS (Classification of Individual Consumption by
+Purpose) Kodu”, Amaca göre bireysel tüketim sınıflamasını anlatır.
+
+“CPA (Classification of Products by Activity) Kodu”, Avrupa Birliği
+tarafından tanımlanan ve faaliyete göre ürünlerin istatistiki sınıflamasını
+anlatır.
+
+“Çalışma Alanı”, Bir eğitim programı, ders veya modülde kapsanan
+içeriğin konusu, disiplini ve branşını anlatır.
+
+“Diğer Kurum ve Kuruluşlar”, Genel bütçeye dahil kamu kurum ve
+kuruluşları ile ayrı kamu tüzel kişiliğe sahip tüm kamu kurum ve
+kuruluşlarını anlatır.
+
+“EBOPS (Extended Balance of Payments Services Classification)
+Kodu”, genişletilmiş ödemeler dengesi hizmetler sınıflamasını anlatır.
+
+“Eğitim Seviyeleri”, Tasarlanan her bir programda vetilen bilgi, beceri ve
+yetkinlikler de dâhil, öğrenme tecrübelerinin derecelerine bağlı olarak
+
+eğitim programlarını gruplayan bir sıralı seti anlatır.
+“Eğitim ve Öğretim Programı”, Daha önceden belirlenmiş öğrenme
+amaçlarını getçekleştirmeye veya kesintisiz bir dönemde belirli bir eğitsel
+görev setini başarmaya yönelik olarak tasarlanmış ve düzenlenmiş eğitim
+faaliyetlerinin uyumlu bir setini veya sırasını anlatır.
+
+“Ekonomik Faaliyet”, Ekipman, işgücü, imalat teknikleri, bilgi ağı veya
+ürünler gibi kaynakların bazılarının ya da tamamının belirli mal ya da
+hizmetleri ortaya çıkaracak şekilde bir araya getirilmesini anlatır.
+
+“Hanehalkı”, Tek başına yaşayan kişiler ile aralarında akrabalık bağı
+bulunsun ya da bulunmasın aynı konutta yaşayan, barınma, gıda ve benzeri
+ihtiyaçlarını ortaklaşa karşılayan, hanehalkı hizmet veya yönetimine
+katılan kişilerden oluşan topluluğu anlatır.
+
+“İdari Kayıt”, Kurum ve kuruluşların gerek mevzuat çerçevesinde
+tutmakla zorunlu oldukları gerekse kurumsal hizmetlerin yürütülmesinde
+ihtiyaç duydukları konularda kişi, işletme veya olay bazında düzenlenen
+doğum raporu, ölüm raporu, işyeri tescil belgesi, vergi mahsubu gibi rapor,
+belge ve benzeri dokümanları anlatır. İ
+
+“ISCED (International Standard Classification of Education) Kodu”,
+
+UNESCO tarafından tanımlanan standart eğitim sınıflamasında; eğitim
+seviyelerine göre eğitim programlarının ve ilgili yeterliliklerin
+sınıflamasını anlatır.
+
+“ISCED-F (International Standard Classification of Education:
+Fields of Education and Training) Kodu”, UNESCO tarafından
+tanımlanan eğitim ve öğretim alanlarının sınıflamasını anlatır.
+
+“ISCO (İnternational Standard Classification of Occupations)
+Kodu”, Birleşmiş Milletler tarafından tanımlanan standart meslek
+sınıflamasını anlatır.
+
+[SAYFA 2]
+1730
+
+“Kayıt Sistemi”, Çoğunlukla istatistiksel bilgi üretmek amacıyla bir ya
+da birden fazla veri setinin birleştirilmesinden oluşan, sistematize edilmiş
+veri sistemlerini anlatır.
+
+“Kurum”, İstatistik Kurumunu anlatır,
+
+“Meslek”, Ana görev ve sorumluluklar açısından büyük oranda benzer
+özellikleri olan iş kümesini anlatır.
+
+“NACE (Nomenclature statistigue des Activites economigues dans la
+Communaute Eüropeenne) Kodu,” Avrupa Birliği tarafından
+tanımlanan ekonomik faaliyetler kodunun standart
+sınıflamasını anlatır.
+
+“PRODCOM (Production Communautaire) Kodu”, Avrupa Birliği
+üretim istatistiklerinin dayandığı sanayi ürünlerini sınıflamasını anlatır.
+
+“Sınıflama”, İstatistiki gözlemler evrenini, istatistik amaçlı araştırmanın
+niteliklerine göre olabildiğince homojen gruplara ayıran, verilerin uyumlu
+bir şekilde toplanmasında, işlenmesinde ve sunulmasında kullanılan ortak
+dili anlatır.
+
+“Sınıflama Komisyonu”, Sınıflamadan sorumlu kurum tarafından
+oluşturulan ve sınıflamaya ilişkin teknik çalışmaları yürüten komisyonu
+anlatır. Sınıflama komisyonu başkanlığını Kurum Başkanı yürütür.
+
+“Sınıflama Sunucusu”, Ulusal ve uluslararası istatistiki sınıflamaların ve
+ilgili teknik dokümanların yer aldığı portalı anlatır.
+
+“Sorumlu Kurum”, İlgili sin:flamanin güncellenmesi, ulusal düzeyde
+kullanılmasına yönelik kaynakların hazırlanması, kurumlar arası
+koordinasyonun sağlanması ve benzeri çalışmaları yürüten kurum ve
+kuruluşu anlatır.
+
+“TAORBA (Ulusal Tarım, Ormancılık ve Balıkçılık Ürünleri
+Sınıflaması) Kodu”, Türkiye İstatistik Kurumu tarafından tanımlanan
+tarım, ormancılık ve balıkçılık ürünleri sınıflamasını anlatır.
+
+“Ürün”, Ekonomik faaliyetler sonucunda ortaya çıkan mal ve hizmetleri
+anlatır.
+
+“Yeterlilik”, Bireyin öğrenme kazanımlarını belirli ölçütlere göre
+edindiğinin bir değerlendirme ve geçerlilik kazandırma sürecinin sonunda
+tanınması halinde elde edilen resmi belgeyi anlatır.
+
+(Amaç
+
+Bu Tüzüğün amacı; tüm kurum ve kuruluşların toplayacağı, paylaşacağı
+ve yayımlayacağı bilgilerde, idari kayıt veya kayıt sistemlerinde; ortak
+sınıflamaların (o kullanılmasıyla  ulusal ve uluslararası (düzeyde
+karşılaştırılabilir, uygun ve güvenilir bilgi üretilmesine katkı sağlayacak
+usul ve esasların belirlenmesidir.
+
+Kapsam
+
+Bu Tüzük, Bu Tüzüğe Ek’ li
+
+Ek P’de yer alan COICOP HBS’ye göre uyarlanmış olan Amaca Göre
+Bireysel Tüketim Sınıflamasının; hanehalkı tüketim harcamalarına,
+
+Ek I'de yer alan COFOG’a göre uyarlanmış olan Devlet Fonksiyonları
+Sınıflamasının; devlet tarafından yapılan harcamalara,
+
+Ek lPte yer alan ISCED-F'e göre uyarlanmış olan Eğitim ve Öğretim
+Alanları Sınıflamasının; çalışma alanlarına göre eğitim programları ile
+ilgili yeterliliklere,
+
+Ek IV’te yer alan NACE’e göre uyarlanmış olan Ekonomik Faaliyetlerin
+İstatistiki Sınıflamasının; ekonomik faaliyetlere,
+
+Ek V’te yer alan CPA’ya göre uyarlanmış olan Faaliyete Göre Ürünlerin
+İstatistiki Sınıflamasının; ürünlere,
+
+Ek VI’da yer alan EBOPS’a göre uyarlanmış olan Genişletilmiş Ödemeler
+Dengesi Hizmetler Sınıflamasının; uluslararası hizmet ticaretine,
+
+Ek VII’de yer alan Kamu Sektörü Siniflamasina göre uyarlanmış olan
+Kamu Sektörü Sınıflamasının; kamu sektörüne,
+
+Ek Vide yer alan PRODCOM'a göre uyarlanmış olan Sanayi Ürünleri
+Sınıflamasının; sanayi ürünlerine,
+
+[SAYFA 3]
+1731
+
+Ek IX'da yer alan ISCED’e göre uyarlanmış olan Standart Eğitim
+Sınıflamasının; eğitim seviyelerine göre eğitim programları ve ilgili
+yeterliliklere,
+
+Ek X'da yer alan ISCO’ya göre uyarlanmış olan Standart Meslek
+Sınıflamasının; iş ve mesleğe,
+
+Ek XPde yer alan TAORBA’ya göre uyarlanmış olan Tarım, Ormancılık
+ve Balıkçılık Ürünleri Sınıflamasının; tarım, ormancılık ve balıkçılık
+ürünlerine,
+
+ilişkin toplanacak, paylaşılacak ve yayımlanacak bilgilerde, idari kayıt
+veya kayıt sistemlerinde kullanılacak ortak sınıflamaları kapsamaktadır.
+
+İKİNCİ KISIM
+Sınıflama Kuralları
+
+Bağlayıcılık Diğer kurum ve kuruluşlar, Kurum tarafından belirlenen sınıflamaları
+kullanmakla yükümlüdürler. Kendi ihtiyaçlarını karşılamak üzere
+belirledikleri sınıflamaları kullanmaları durumunda bu sınıflamaları
+Kurumun kullandığı sınıflamalara dönüştürülmesini sağlayacak tedbirleri
+almakla yükümlüdür.
+
+Kurumun Bu Tüzüğe ekli Ek I, Ek I], Ek II, Ek IV, Ek V, Ek Vİ, Ek VI, Ek VU,
+Sorumlu Kurum Ek IX, Ek X ve Ek XI’de yer alan sınıflamalar Kurumun
+Olduğu sorumluluğundadır.
+
+Sınıflandırmalar
+
+Sorumlu (1) | Sınıflamadan sorumlu kurumun yükümlülükleri şunlardır:
+Kurumun
+
+Yükümlülükleri
+
+(A) | Uluslararası sınıflamalara ilişkin metodoloji ve gelişmeleri
+takip etmek ve sınıflamanın güncelliğini sağlamak.
+
+(B) | Kurum ile diğer kurum ve kuruluşlar arasında koordinasyonu
+sağlamak.
+
+(C) | İlgili sınıflamanın ulusal düzeyde kullanılmasına yönelik
+teknik çalışmaları (çeviri, dönüşüm tablosu, sözlük ve
+benzeri) yürütmek.
+
+(Ç) | Ulusal ihtiyaç olması durumunda uluslararası sınıflamalar
+
+temel alinarak  ulusal (o sınıflamaların © oluşturulması
+çalışmalarını yürütmek.
+
+(D) | İlgili sınıflamayı kullanan diğer kurum ve kuruluşları
+sınıflamadaki Oo değişiklik (o ve Oo gelişmeler (o hakkında
+bilgilendirmek, bunların uygulanmasına yönelik çalışmaları
+yürütmek ve güncel sınıflamaya geçiş takvimini oluşturmak.
+
+(E) | İlgili sınıflamanın doğru kullanılmasına yönelik teknik
+altyapı, eğitim ve benzeri tedbirleri almak, teknik destek
+sağlamak.
+
+(F) | İhtiyaç dâhilinde sınıflamaların konusuna özgü sınıflama
+komisyonu kurmak, sekretarya hizmetlerini yürütmek ve
+alınan kararları üyelere bildirmek.
+
+(2) | Sorumlu kurum, sınıflamalara ilişkin yürüttükleri metodolojik,
+teknik ve benzeri çalışmalarda Kurumun uygun görüşünü alır.
+
+[SAYFA 4]
+1732
+
+ÜÇÜNCÜ KISIM
+
+Sınıflama Komisyonları, Sınıflamaların Kullanımı ve Sınıflama Sunucusu
+
+Sınıflama
+Komisyonlarının
+Oluşumu
+
+8.
+
+(1)
+
+Sınıflamaların güncelleme ve dönüştürme gibi benzeri durumlarda
+revize edilmesine gerek olması durumunda sınıflama komisyonları
+sorumlu kurumun sorumluluğu altında oluşturulur.
+
+(2)
+
+Sınıflamaların yapısına göre sınıflama komisyonlarında yer alacak
+diğer kurum ve kuruluşlar ile üye sayısı sorumlu kurum tarafından
+belirlenir.
+
+6)
+
+Sınıflama komisyonunda  gérevlendirilecek personelin | ilgili
+
+sınıflama hakkında bilgi sahibi olması gerekmektedir.
+
+(4)
+
+Sınıflama komisyonlarında görevlendirilecek personel bağlı olduğu
+kurum ve kuruluş tarafından belirlenir. Sınıflama komisyonu
+üyelerinin kurum ve kuruluşlardaki asli görevleri sona erdiğinde,
+sınıflama komisyonu üyelikleri de kendiliğinden son bulur.
+
+6)
+
+Kurum Başkanı, sınıflama komisyonlarının başkanı olup, gerek
+duyması halinde sınıflama komisyonunu toplantıya çağırabilir.
+
+(6)
+
+İhtiyaç halinde, toplantılarda görüşülecek konuların niteliğine göre
+sınıflama komisyonu üyesi haricinde farklı temsilciler toplantılara
+çağrılabilir.
+
+Sınıflama
+Komisyonlarının
+Görevleri ve
+Çalışma İlkeleri
+
+(1)
+
+Sınıflama komisyonlarının görevleri şunlardır:
+
+(A) | Sınıflamaların kullanılmasına ilişkin teknik çalışmaları
+(çeviri, güncellenmesi, dönüşüm tablosu, sözlük ve benzeri)
+
+yürütmek.
+
+(B) | Sınıflamaların okullanılmasına ilişkin üyeler tarafından
+bildirilen kurumsal görüşleri değerlendirmek ve karar almak.
+
+(C) | Sınıflama komisyonları belirlenen üye sayısının tam katılımı
+ile toplanır ve üyelerin salt çoğunluğunun oyları ile karar
+alınır. Eşitlik durumunda Başkan'ın ayırt edici oyu vardır.
+
+(2)
+
+Sınıflama komisyonu çalışmalarını sorumlu kurum yürütür.
+
+Sınıflamaların
+Kullanımı
+
+10.
+
+(1)
+
+Diğer kurum ve kuruluşlar, bu Tüzükte yer alan sınıflamalar
+arasından hakkında bilgi toplanan birime uygun sınıflamaya ya da
+
+sınıflamalara Sınıflama Komisyonunun belirleyeceği süre içerisinde
+geçişi sağlar. Güncel sınıflamayı veya sınıflamaları istatistik üretim
+süreçlerine veya idari kayıtlarına yansıtırlar.
+
+(2)
+
+Sınıflama Komisyonu Başkanı, sınıflama komisyonlarında karara
+bağlanamayan konuları ve sınıflamaların kullanımında karşılaşılan
+sorunları değerlendirir. Gerek duyduğunda re'sen sınıflama
+komisyonları kurabilir.
+
+İstisna
+
+11.
+
+İstatistik üretiminde, verilerin uluslararası karşılaştırılabilirliğini sağlamak
+koşuluyla bu Tüzüğün ekinde yer alan sınıflama versiyonuna geçiş, bu
+Tüzüğün yayımını takip eden ilk baz yılı değişimi ve/veya ana revizyon
+ile birlikte sağlanır.
+
+Sınıflama
+Sunucusu
+
+12.
+
+(1)
+
+Sınıflama sunucusunun yönetiminden Kurum sorumludur.
+
+(2)
+
+Kurum ve sorumlu kurum tarafından hazırlanan sınıflamaların tümü
+ve ilgili teknik dokümanları sınıflama sunucusunda yayımlanır.
+
+[SAYFA 5]
+1733
+
+DÖRDÜNCÜ KISIM
+Son Kurallar
+
+Yürütme Yetkisi | 13. | Bu Tüzük, Başbakanlık tarafından yürütülür,
+
+Yürürlüğe Giriş 14. | Bu Tüzük, Resmi Gazete ’de yayımlandığı tarihten başlayarak yürürlüğe
+girer.
+
+EKİ
+(Madde 4)
+Amaca Göre Bireysel Tüketim Sınıflaması
+(COICOP HBS)
+
+01- GİDA VE ALKOLSÜZ İÇECEKLER
+
+02- ALKOLLÜ İÇECEKLER VE TÜTÜN
+
+03- GİYİM VE AYAKKABI
+
+04- KONUT, SU, ELEKTRİK, GAZ VE DİĞER YAKITLAR
+05- MOBİLYA, EV ALETLERİ VE EV BAKIMI
+
+06- SAĞLIK
+
+07- ULAŞTIRMA
+
+08- HABERLEŞME
+
+09- EĞLENCE VE KÜLTÜR
+
+10- EĞİTİM HİZMETLERİ
+
+11- LOKANTALAR, YEMEK HİZMETLERİ VE OTELLER
+
+12- ÇEŞİTLİ MAL VE HİZMETLER
+
+MADDE KODU MADDE TANIMLARI
+
+99- TÜKETİM DIŞI HARCAMALAR VE NAKDİ GİRİŞLER
+
+99,1- TÜKETİM DIŞI HARCAMALAR
+
+99 100 Vergiler
+
+99 100 KKTC İçinde Başka Kurum ve Kuruluşlara Yapılan Düzenli Nakdi Bağış ve Yardımlar
+99 100 Başka Haneye veya Kişilere Düzenli Olarak Verilen Paralar (Harçlıklar)
+
+99 100 Nafaka
+
+99 100 Fitre
+
+99 100 Zekat
+
+99 100 Başka Hanedeki Öğrencilere Düzenli Olarak Verilen Paralar (Harçlıklar)
+
+99 100 İsteğe Bağlı Sigorta Primleri
+
+99 100 KKTC İçinde Başka Kurum ve Kuruluşlara Yapılan Düzenli Ayni Bağış ve Yardımlar
+
+KKTC İçinde Başka Haneye veya Kişilere Düzenli Olarak Verilen Paralar (Başka Hanedeki
+Öğrencilere Gönderilen Para, Harçlık, Nafaka vb.)
+99 100 Tüketim Dışı Harcamalar Diğer
+
+99. 100
+
+99.2- DIGER TUKETIM DISI HARCAMALAR
+
+99.3 -SAHİP OLUNAN VARLIKLARDAN SATIŞLAR VE DİĞER NAKDİ GIRISLER
+
+[SAYFA 6]
+Kod
+01
+
+01.1
+01.2
+01.3
+01.4
+01.5
+01.6
+01.7
+01.8
+02
+
+02.1
+02.2
+02.3
+02.4
+02.5
+03
+
+03.1
+03.2
+03.3
+03.4
+03.5
+03.6
+04
+
+04.1
+04.2
+04.3
+04.4
+04.5
+04.6
+04.7
+04.8
+04.9
+05
+
+05.1
+05.2
+05.3
+05.4
+05.5
+05.6
+06
+
+06.1
+06.2
+06.3
+06.4
+06.5
+06.6
+07
+
+07.1
+07.2
+07.3
+07.4
+07.5
+
+1734
+
+EK li
+(Madde 4)
+Devlet Fonksiyonları Sınıflaması
+(COFOG)
+
+Tanim
+
+GENEL KAMUSAL HİZMETLER
+
+YÖNETİCİ VE KANUN KOYAN ORGANLAR, FİNANSAL VE MALİ İŞLER, DIŞİŞLERİ
+DIŞ EKONOMİK YARDIM
+
+GENEL HİZMETLER
+
+TEMEL ARAŞTIRMA
+
+AR-GE GENEL KAMU HİZMETLERİ
+
+GENEL KAMU HİZMETLERİ - BAŞKA YERDE SINIFLANDIRILMAMIŞ
+KAMUSAL BORÇ İŞLEMLERİ
+
+DEVLETİN DEĞİŞİK KADENELERİ ARASINDAKİ GENEL BİR NİTELİĞİN TRANSFERLERİ
+SAVUNMA
+
+ASKERİ SAVUNMA
+
+SİVİL SAVUNMA
+
+DIŞ ASKERİ YARDIM
+
+AR-GE SAVUNMA
+
+SAVUNMA - BAŞKA YERDE SINIFLANDIRILMAMIS
+
+KAMU DÜZENİ VE GÜVENLİĞİ
+
+POLİS HİZMETLERİ
+
+YANGINDAN KORUNMA HİZMETLERİ
+
+ADLİYE
+
+HAPİSHANELER
+
+AR-GE KAMU DÜZENİ VE GÜVENLİĞİ
+
+KAMU DÜZENİ VE GÜVENLİĞİ - BAŞKA YERDE SINIFLANDIRILMAMIŞ
+EKONOMİK İŞLER
+
+GENEL EKONOMİK VE TİCARİ İŞLER
+
+TARIM, ORMANCILIK, BALIKÇILIK VE AVLANMA
+
+YAKIT VE ENERJİ
+
+MADENCİLİK, İMALAT VE İNŞAAT
+
+TAŞIMACILIK (TH)
+
+HABERLEŞME
+
+DİĞER SANAYİLER
+
+AR-GE EKONOMİK İŞLER
+
+EKONOMİK İŞLER - BAŞKA YERDE SINIFLANDIRILMAMIŞ
+ÇEVRESEL KORUMA
+
+ATIK YÖNETİMİ
+
+ATIK SU YÖNETİMİ
+
+KİRLİLİK AZALTIMI
+
+BİYOLOJİK ÇEŞİTLİLİĞİN VE PEYZAJIN KORUNMASI
+AR-GE ÇEVRESEL KORUMA
+
+ÇEVRESEL KORUMA- BAŞKA YERDE SINIFLANDIRILMAMIŞ
+BARINMA VE TOPLUM REFAHI
+
+KONUT GELİŞİMİ
+
+TOPLUM GELİŞİMİ
+
+SU TEMİNİ
+
+SOKAK AYDINLATMASI
+
+AR-GE BARINMA VE TOPLUM REFAHI
+
+BARINMA VE TOPLUM REFAHI- BAŞKA YERDE SINIFLANDIRILMAMIS
+SAĞLIK
+
+TIBBİ ÜRÜNLER, ALETLER VE MALZEMELER
+
+AYAKTA TEDAVİ HİZMETLERİ
+
+YATAKLI TEDAVİ HİZMETLERİ
+
+KAMUSAL SAĞLIK HİZMETLERİ
+
+AR-GE SAĞLIK
+
+[SAYFA 7]
+07.6
+08
+
+08.1
+08.2
+08.3
+08.4
+08.5
+08.6
+09
+
+09.1
+09.2
+09.3
+09.4
+09.5
+09.6
+09.7
+09.8
+10
+
+10.1
+10.2
+10.3
+10.4
+10.5
+10.6
+10.7
+10.8
+10.9
+
+1735
+
+SAĞLIK - BAŞKA YERDE SINIFLANDIRILMAMIŞ
+EĞLENCE, KÜLTÜR VE DİN
+
+EĞLENCE VE SPOR HİZMETLERİ
+
+KÜLTÜREL HİZMETLER
+
+RADYO TV VE YAYIM HİZMETLERİ
+
+DİNİ VE DİĞER TOPLUM HİZMETLERİ
+
+AR-GE EĞLENCE, KÜLTÜR VE DİN
+
+EĞLENCE, KÜLTÜR VE DİN - BAŞKA YERDE SINIFLANDIRILMAMIŞ.
+EĞİTİM
+
+OKUL ÖNCESİ EĞİTİMİ VE İLKÖĞRETİM
+ORTAÖĞRETİM
+
+ORTAÖĞRETİM SONRASI ÜNİVERSİTE ÖNCESİ EĞİTİMİ
+ÜNİVERSİTE EĞİTİMİ
+
+DÜZEYİ BELİRLENEMEYEN EĞİTİM PROGRAMLARI
+EĞİTİME YARDIMCI HİZMETLER
+
+AR-GE EĞİTİM
+
+EĞİTİM - BAŞKA YERDE SINIFLANDIRILMAMIŞ
+SOSYAL KORUMA
+
+HASTALIK VE SAKATLIK
+
+YAŞLILIK
+
+HAYATTA KALANLAR
+
+AİLE VE ÇOCUKLAR
+
+İŞSİZLİK
+
+BARINDIRMA
+
+SOSYAL İHRAÇ - BAŞKA YERDE SINIFLANDIRILMAMIŞ
+AR-GE SOSYAL KORUMA
+
+SOSYAL KORUMA - BAŞKA YERDE SINIFLANDIRILMAMIŞ
+
+[SAYFA 8]
+Kod
+00
+001
+002
+003
+01
+011
+018
+02
+021
+022
+023
+028
+
+031
+032
+038
+04
+
+041
+042
+048
+05
+
+051
+052
+053
+054
+058
+06
+
+061
+068
+07
+
+071
+072
+073
+078
+
+081
+082
+083
+084
+088
+
+091
+092
+098
+
+101
+102
+103
+104
+108
+
+1736
+
+EK Ill
+(Madde 4)
+Eğitim ve Öğretim Alanları Sınıflaması
+(ISCED-F)
+
+Tanim
+
+Genel programlar ve yeterlilikler
+
+Temel programlar ve yeterlilikler
+
+Okuryazarlık ve rakamsal beceriler
+
+Kişisel beceriler
+
+Eğitim
+
+Eğitim
+
+Eğitimle ilgili disiplinler arası programlar ve yeterlilikler
+
+Sanat ve beşeri bilimler
+
+Sanat
+
+Beşeri bilimler (diller hariç)
+
+Diller
+
+Sanat ve beşeri bilimlerle ilgili disiplinler arası programlar ve yeterlilikler
+Sosyal bilimler, gazetecilik ve enformasyon
+
+Sosyal bilimler ve davranış bilimleri
+
+Gazetecilik ve enformasyon
+
+Sosyal bilimler, gazetecilik ve enformasyon ile ilgili disiplinler arası programlar ve yeterlilikler
+İş, yönetim ve hukuk
+
+İş ve yönetim
+
+Hukuk
+
+İş, yönetim ve hukuk ile ilgili disiplinler arası programlar ve yeterlilikler
+Doğa bilimleri, matematik ve istatistik
+
+Biyoloji ve ilgili bilimler
+
+Çevre
+
+Fiziki bilimler
+
+Matematik ve İstatistik
+
+Doğa bilimleri, matematik ve istatistik ile ilgili disiplinler arası programlar ve yeterlilikler
+Bilişim ve iletişim teknolojileri (BİT)
+
+Bilişim ve iletişim teknolojileri (BİT)
+
+Bilişim ve iletişim teknolojileri (BİT) ile ilgili disiplinler arası programlar ve yeterlilikler
+Mühendislik, imalat ve inşaat
+
+Mühendisiik ve mühendislik işleri
+
+İmalat ve işleme
+
+Mimarlık ve inşaat
+
+Mühendislik, imalat ve inşaat ile ilgili disiplinler arası programlar ve yeterlilikler
+Tarım, ormancılık, balıkçılık ve veterinerlik
+
+Tarım
+
+Ormancılık
+
+Balıkçılık
+
+Veterinerlik
+
+Tarım, ormancılık, balıkçılık ve veterinerlik ile ilgili disiplinler arası programlar ve yeterlilikler
+Sağlık ve refah
+
+Sağlık
+
+Refah
+
+Sağlık ve refah ile ilgili disiplinler arası programlar ve yeterlilikler
+Hizmetler
+
+Kişisel Hizmetler
+
+Hijyen ve iş sağlığı hizmetleri
+
+Güvenlik hizmetleri
+
+Ulaştırma hizmetleri
+
+Hizmetler ile ilgili disiplinler arası programlar ve yeterlilikler
+
+[SAYFA 9]
+1737
+
+EK IV
+(Madde 4)
+Ekonomik Faaliyetlerin İstatistiki Sınıflaması
+(NACE)
+Mod NACE Rev.2. İkili Tanım
+A TARIM, ORMANCILIK VE BALIKÇILIK
+01 Bitkisel ve hayvansal üretim ile avcılık ve ilgili hizmet faaliyetleri
+02 Ormancılık ile endüstriyel ve yakacak odun üretimi
+03 Balıkçılık ve su ürünleri yetiştiriciliği
+B MADENCİLİK VE TAŞ OCAKÇILIĞI
+05 Kömür ve linyit çıkartılması
+06 Ham petrolün çıkarılması
+07 Metal cevherleri madenciliği
+08 Diğer madencilik ve taş ocakçılığı
+09 Madenciliği destekleyici hizmet faaliyetleri
+c İMALAT
+10 Gıda ürünlerinin imalatı
+11 İçeceklerin imalatı
+12 Tütün ürünleri imalatı
+13 Tekstil ürünlerinin imalatı
+14 Giyim eşyalarının imalatı
+15 Deri ve ilgili ürünlerin imalatı
+16 Ağaç, ağaç ürünleri ve mantar ürünleri imalatı (mobilya hariç); saz, saman ve benzeri
+malzemelerden örülerek yapılan eşyaların imalatı
+17 Kağıt ve kağıt ürünlerinin imalatı
+18 Kayıtlı medyanın basılması ve çoğaltılması
+19 Kok kömürü ve rafine edilmiş petrol ürünleri imalatı
+20 Kimyasalların ve kimyasal ürünlerin imalatı
+21 Temel eczacılık ürünlerinin ve eczacılığa ilişkin malzemelerin imalatı
+22 Kauçuk ve plastik ürünlerin imalatı
+23 Diğer metalik olmayan mineral ürünlerin imalatı
+24 Ana metal sanayii
+25 Fabrikasyon metal ürünleri imalatı (makine ve teçhizat hariç)
+26 Bilgisayarların, elektronik ve optik ürünlerin imalatı
+27 Elektrikli teçhizat imalatı
+28 Başka yerde sınıflandırılmamış makine ve ekipman imalatı
+29 Motorlu kara taşıtı, treyler (römork) ve yarı treyler (yarı römork) imalatı
+30 Diğer ulaşım araçlarının imalati
+31 Mobilya imalatı
+32 Diğer imalatlar
+33 Makine ve ekipmanların kurulumu ve onarımı
+D ELEKTRİK, GAZ, BUHAR VE İKLİMLENDİRME ÜRETİMİ VE DAĞITIMI
+35 Elektrik, gaz, buhar ve havalandırma sistemi üretim ve dağıtımı
+E SU TEMİNİ; KANALİZASYON, ATIK YÖNETİMİ VE İYİLEŞTİRME FAALİYETLERİ
+36 Suyun toplanması, arıtılması ve dağıtılması
+37 Kanalizasyon
+38 Atığın toplanması, ıslahı ve bertarafı faaliyetleri; maddelerin geri kazanımı
+39 İyileştirme faaliyetleri ve diğer atık yönetimi hizmetleri
+F İNŞAAT
+41 Bina inşaatı
+42 Bina dışı yapıların inşaatı
+
+43 Özel inşaat faaliyetleri
+
+[SAYFA 10]
+45
+46
+47
+
+49
+50
+51
+52
+53
+
+55
+56
+
+58
+59
+
+60
+61
+62
+63
+
+64
+65
+66
+
+68
+
+69
+70
+71
+72
+73
+74
+75
+
+77
+78
+79
+80
+81
+82
+
+84
+85
+86
+87
+
+90
+$1
+92
+93
+
+1738
+
+TOPTAN VE PERAKENDE TICARET; MOTORLU KARA TASITLARININ VE
+MOTOSIKLETLERIN ONARIMI
+
+Motorlu kara taşıtlarının ve motosikletlerin toptan ve perakende ticareti ile onarımı
+Toptan ticaret (Motorlu kara taşıtları ve motosikletler hariç)
+Perakende ticaret (Motorlu kara taşıtları ve motosikletler hariç)
+ULAŞTIRMA VE DEPOLAMA
+
+Kara taşımacılığı ve boru hattı taşımacılığı
+
+Su yolu taşımacılığı
+
+Hava yolu taşımacılığı
+
+Taşımacılık için depolama ve destekleyici faaliyetler
+
+Posta ve kurye faaliyetleri
+
+KONAKLAMA VE YİYECEK HİZMETİ FAALİYETLERİ
+Konaklama
+
+Yiyecek ve içecek hizmeti faaliyetleri
+
+BİLGİ VE İLETİŞİM
+
+Yayımcılık faaliyetleri
+
+Sinema filmi, video ve televizyon programları yapımcılığı, ses kaydı ve müzik
+yayımlama faaliyetleri
+
+Programcılık ve yayıncılık faaliyetleri
+
+Telekomünikasyon
+
+Bilgisayar programlama, danışmanlık ve ilgili faaliyetler
+
+Bilgi hizmet faaliyetleri
+
+FİNANS VE SİGORTA FAALİYETLERİ
+
+Finansal hizmet faaliyetleri (Sigorta ve emeklilik fonları hariç)
+Sigorta, reasürans ve emeklilik fonları (Zorunlu sosyal güvenlik hariç)
+Finansal hizmetler ile sigorta faaliyetleri için yardımcı faaliyetler
+GAYRİMENKUL FAALİYETLERİ
+
+Gayrimenkul faaliyetleri
+
+MESLEKİ, BİLİMSEL VE TEKNİK FAALİYETLER
+
+Hukuk ve muhasebe faaliyetleri
+
+İdare merkezi faaliyetleri; idari danışmanlık faaliyetleri
+
+Mimarlık ve mühendislik faaliyetleri; teknik test ve analiz faaliyetleri
+Bilimsel araştırma ve gelistirme faaliyetleri
+
+Reklamcılık ve piyasa araştırması
+
+Diğer mesleki, bilimsel ve teknik faaliyetler
+
+Veterinerlik hizmetleri
+
+İDARİ VE DESTEK HİZMET FAALİYETLERİ
+
+Kiralama ve leasing faaliyetleri
+
+İstihdam faaliyetleri
+
+Seyahat acentesi, tur operatörü ve diğer rezervasyon hizmetleri ve ilgili faaliyetler
+Güvenlik ve soruşturma faaliyetleri
+
+Binalar ile ilgili hizmetler ve çevre düzenlemesi faaliyetleri
+
+Büro yönetimi, büro destek ve iş destek faaliyetleri
+
+KAMU YÖNETİMİ VE SAVUNMA; ZORUNLU SOSYAL GÜVENLİK
+Kamu yönetimi ve savunma; zorunlu sosyal güvenlik
+
+EĞİTİM
+
+Eğitim
+
+İNSAN SAĞLIĞI VE SOSYAL HİZMET FAALİYETLERİ
+
+İnsan sağlığı hizmetleri
+
+Yatılı bakım faaliyetleri
+
+Barınacak yer sağlanmaksizın verilen sosyal hizmetler
+
+KÜLTÜR, SANAT, EĞLENCE, DİNLENCE VE SPOR
+
+Yaratıcı sanatlar, gösteri sanatları ve eğlence faaliyetleri
+Kütüphaneler, arşivler, müzeler ve diğer kültürel faaliyetler
+
+Kumar ve müşterek bahis faaliyetleri
+
+Spor faaliyetleri, eğlence ve dinlence faaliyetleri
+
+[SAYFA 11]
+94
+95
+96
+
+97
+98
+
+99
+
+1739
+
+DİĞER HİZMET FAALİYETLERİ
+
+Üye olunan kuruluşların faaliyetleri
+
+Bilgisayarların, kişisel eşyaların ve ev eşyalarının onarımı
+
+Diğer hizmet faaliyetleri
+
+HANEHALKLARININ İŞVERENLER OLARAK FAALİYETLERİ; HANEHALKLARI
+TARAFINDAN KENDİ KULLANIMLARINA YÖNELİK OLARAK AYRIM
+YAPILMAMIŞ MAL VE HİZMET ÜRETİM FAALİYETLERİ
+
+Ev içi çalışan personelin işverenleri olarak hanehalklarının faaliyetleri
+Hanehalkları tarafından kendi kullanımlarına yönelik olarak üretilen ayrım
+yapılmamış mal ve hizmetler
+
+ULUSLARARASI ÖRGÜTLER VE TEMSİLCİLİKLERİNİN FAALİYETLERİ
+Uluslararası örgütler ve temsilciliklerinin faaliyetleri
+
+KENDİ ADINA MENKUL SERMAYE İRADI FAALİYETLERİ (TEMETTÜ, BANKA
+FAİZİ, İŞTİRAK KAZANÇLARI VB.)
+
+[SAYFA 12]
+Kod
+
+01
+02
+03
+
+05
+
+07
+08
+09
+
+10
+
+12
+13
+14
+15
+
+16
+17
+
+19
+20
+21
+22
+23
+
+25
+26
+27
+28
+29
+30
+
+32
+33
+
+35
+
+36
+37
+
+39
+41
+
+42
+43
+
+1740
+
+EK V
+(Madde 4)
+Faaliyete Göre Ürünlerin İstatistiki Sınıflaması
+(CPA)
+
+Tanım
+
+TARIM, ORMANCILIK VE BALIKÇILIK ÜRÜNLERİ
+Tarım ve avcılık ürünleri ve ilgili hizmetler
+
+Orman ürünleri ve ilgili hizmetler
+
+Balık ve diğer balıkçılık ürünleri; su ürünleri; balıkçılık için destekleyici hizmetler
+MADENCİLİK VE TAŞOCAKÇILIĞI
+
+Kömür ve linyit
+
+Ham petrol ve doğal gaz
+
+Metal cevherleri
+
+Diğer madencilik ve taşocakçılığı ürünleri
+Madencilik için destekleyici hizmetler
+
+İMALAT ÜRÜNLERİ
+
+Gıda ürünleri
+
+İçecekler
+
+Tütün ürünleri
+
+Tekstil
+
+Giyim eşyası
+
+Deri ve ilgili ürünler
+
+Kereste, ağaç ürünleri ve mantar ürünleri (mobilya hariç); hasır ve örme malzemesinden (saz,
+saman vb.) ürünler
+
+Kağıt ve kağıt ürünleri
+
+Basım ve kayıtlı medyanın çoğaltılması hizmetleri
+
+Kok ve rafine petrol ürünleri
+
+Kimyasallar ve kimyasal ürünler
+
+Temel eczacılık ürünleri ve müstahzarları
+
+Kauçuk ve plastik ürünler
+
+Diğer metalik olmayan mineral ürünler
+
+Ana metaller
+
+Fabrikasyon metal ürünler, makine ve ekipmanlar hariç
+
+Bilgisayarlar ile elektronik ve optik ürünler
+
+Elektrikli teçhizat
+
+Başka yerde sınıflandırılmamış makine ve ekipmanlar
+
+Motorlu kara taşıtları, treyler (römork) ve yarı treyler (yarı römork)
+
+Diğer ulaşım araçları
+
+Mobilya
+
+Diğer mamul eşyalar
+
+Makine ve ekipmanların kurulumu ve onarımı
+
+ELEKTRİK, GAZ, BUHAR VE İKLİMLENDİRME
+
+Elektrik, gaz, buhar ve iklimlendirme
+
+SU TEMİNİ; KANALİZASYON, ATIK YÖNETİMİ VE İYİLEŞTİRME FAALİYETLERİ
+Doğal su; suyun arıtılması ve temini hizmetleri
+
+Kanalizasyon hizmetleri; kanalizasyon çamuru
+
+Atığın toplanması, işlenmesi ve bertarafı hizmetleri; maddelerin geri kazanımı hizmetleri
+İyileştirme hizmetleri ve diğer atık yönetimi hizmetleri
+
+İNŞAATLAR VE İNŞAAT İŞLERİ
+
+Binalar ve bina inşaat işleri
+
+Bina dışı yapılar için inşaat ve inşaat işleri
+
+Uzmanlaşmış inşaat işleri
+
+[SAYFA 13]
+1741
+
+TOPTAN VE PERAKENDE TİCARET; MOTORLU KARA TAŞITLARININ VE
+MOTOSİKLETLERİN ONARIM HİZMETLERİ
+
+Toptan ve perakende ticaret ile motorlu kara taşıtlarının ve motosikletlerin onarım hizmetleri
+Toptan ticaret, motorlu kara taşıtları ve motosikletler hariç
+
+Perakende ticaret (motorlu kara taşıtları ve motosikletler hariç)
+
+ULAŞTIRMA VE DEPOLAMA HİZMETLERİ
+
+Kara taşımacılığı ve boru hattı taşımacılığı hizmetleri
+
+Su yolu taşımacılığı hizmetleri
+
+Hava yolu taşımacılığı hizmetleri
+
+Depolama ve destek hizmetleri, taşımacılık için
+
+Posta ve kurye hizmetleri
+
+KONAKLAMA VE YİYECEK HİZMETLERİ
+
+Konaklama hizmetleri
+
+Yiyecek ve içecek sunum hizmetleri
+
+BİLGİ VE İLETİŞİM HİZMETLERİ
+
+Yayımcılık hizmetleri
+
+Sinema filmi, video ve televizyon programi yapımcılık hizmetleri, ses kaydı ve müzik yayımlama
+Programcılık ve yayıncılık hizmetleri
+
+Telekomünikasyon hizmetleri
+
+Bilgisayar programlama, danışmanlık ve ilgili hizmetler
+
+Bilgi hizmetleri
+
+FİNANS VE SİGORTA HİZMETLERİ
+
+Finansal hizmetler (sigorta ve bireysel emeklilik hariç)
+
+Sigorta, reasürans ve emeklilik fonları hizmetleri, zorunlu sosyal güvenlik hariç
+Finansal hizmetler ile sigorta hizmetlerine yardımcı hizmetler
+GAYRİMENKUL HİZMETLERİ
+
+Gayrimenkul hizmetleri
+
+MESLEKİ, BİLİMSEL VE TEKNİK HİZMETLER
+
+Hukuk ve muhasebe hizmetleri
+
+İdare merkezi hizmetleri; idari danışmanlık hizmetleri
+
+Mimarlık ve mühendislik hizmetleri; teknik test ve analiz hizmetleri
+
+Bilimsel araştırma ve geliştirme hizmetleri
+
+Reklamcılık ve piyasa araştırması hizmetleri
+
+Diğer mesleki, bilimsel ve teknik hizmetler
+
+Veterinerlik hizmetleri
+
+İDARİ VE DESTEK HİZMETLER
+
+Kiralama ve leasing hizmetleri
+
+İstihdam hizmetleri
+
+Seyahat acentesi, tur operatörü, diğer rezervasyon hizmetleri ve ilgili hizmetler
+Güvenlik ve soruşturma hizmetleri
+
+Bina ve çevre düzenleme (peyzaj) hizmetleri
+
+Büro yönetimi, büro destek ve diğer iş destek hizmetleri
+
+KAMU YÖNETİMİ VE SAVUNMA HİZMETLERİ; ZORUNLU SOSYAL GÜVENLİK HİZMETLERİ
+
+Kamu yönetimi ve savunma hizmetleri; zorunlu sosyal güvenlik hizmetleri
+EĞİTİM HİZMETLERİ
+
+Eğitim hizmetleri
+
+İNSAN SAĞLIĞI VE SOSYAL HİZMETLER
+
+İnsan sağlığı hizmetleri
+
+Yatılı bakım hizmetleri
+
+Barınacak yer sağlanmaksızın verilen sosyal hizmetler
+
+KÜLTÜR, SANAT, EĞLENCE, DİNLENCE VE SPOR HİZMETLERİ
+Yaratıcı sanatlar, gösteri sanatları ve eğlence hizmetleri
+
+Kütüphane, arşiv, müze ve diğer kültürel hizmetler
+
+Kumar ve müşterek bahis hizmetleri
+
+Spor hizmetleri, eğlence ve dinlence hizmetleri
+
+[SAYFA 14]
+94
+95
+96
+
+97
+98
+
+99
+
+Kod
+
+SA
+SB
+Sc
+SD
+SE
+SF
+SG
+
+SH
+
+SI
+
+SJ
+SK
+SL
+
+Kod
+
+1.1
+1.2
+1.3
+
+2.1
+2.2
+9,9
+
+1742
+
+DİĞER HİZMETLER
+
+Üye olunan kuruluşlar tarafından verilen hizmetler
+
+Bilgisayarların, kişisel eşyaların ve ev eşyalarının onarımı hizmetleri
+
+Diğer hizmetler
+
+HANEHALKLARININ İŞVERENLER OLARAK HİZMETLERİ; HANEHALKLARI TARAFINDAN
+KENDİ KULLANIMLARINA YÖNELİK OLARAK ÜRETİLEN AYRIM YAPILMAMIŞ MAL VE
+HİZMETLER
+
+Ev içi çalışan personelin işverenleri olarak hanehalklarının hizmetleri
+
+Hanehalkları tarafından kendi kullanımlarına yönelik olarak üretilen ayrım yapılmamış mal ve
+
+hizmetler
+ULUSLARARASI ÖRGÜTLER VE TEMSİLCİLİKLER TARAFINDAN SAĞLANAN HİZMETLER
+Uluslararası örgütler ve temsilcilikler tarafından sağlanan hizmetler
+
+EK VI
+(Madde 4)
+Genişletilmiş Ödemeler Dengesi Hizmetler Sınıflaması, 2010
+(EBOPS)
+
+Tanım
+
+Toplam EBOPS Hizmetleri
+
+İşlem gören mallar
+
+Bakım ve tamir hizmetleri, başka yerde sınıflandırılmamış
+Taşımacılık
+
+Seyahat
+
+İnşaat hizmetleri
+
+Sigorta ve emeklilik hizmetleri
+
+Finansal hizmetler
+
+Fikri mülkiyet hakları kullanım ücretleri, başka yerde
+sınıflandırılmamış
+
+Telekomünikasyon, bilgisayar ve bilgi hizmetleri
+Diğer ticari hizmetler
+
+Kişisel, kültürel ve eğlence ve dinlenme hizmetleri
+Resmi hizmetler (Devlet hizmetleri)
+
+EK VII
+(Madde 4)
+Kamu Sektörü Sınıflaması
+
+Tanım
+
+GENEL YÖNETİM
+
+MERKEZİ YÖNETİM
+
+YEREL YÖNETİM (MAHALLİ İDARELER)
+SOSYAL GÜVENLİK KURUMLARI
+KAMU ŞİRKETLERİ
+
+KAMU MALİ ŞİRKETLERİ
+
+KAMU MALİ OLMAYAN ŞİRKETLERİ
+DIGER KURUM, KURULUŞ, KURULLAR
+
+[SAYFA 15]
+1743
+
+EK Vill
+(Madde 4)
+Sanayi Ürünleri Sınıflaması
+(PRODCOM)
+Kod Tanım
+05.10 Taş kömürü madenciliği
+05.20 Linyit madenciliği
+06.10 Ham petrol çıkarımı
+06.20 Doğal gaz çıkarımı
+07.10 Demir cevherleri madenciliği
+07.29 Diğer demir dışi metal cevherleri madenciliği
+08.11 Süsleme ve yapı taşları ile kireç taşı, alçı taşı, tebeşir ve kayağantaşı (arduvaz-kayraktaşı)
+' ocakçılığı
+
+08.12 Çakıl ve kum ocaklarının faaliyetleri; kil ve kaolin çıkarımı
+08.91 Kimyasal ve gübreleme amaçlı mineral madenciliği
+08.92 Turba çıkarımı
+08.93 Tuz çıkarımı
+08.99 Başka yerde sınıflandırılmamış diğer madencilik ve taş ocakçılığı
+10.11 Etin işlenmesi ve saklanması
+10.12 Kümes hayvanları etlerinin işlenmesi ve saklanması
+10.13 Et ve kümes hayvanları etlerinden üretilen ürünlerin imalatı
+10.20 Balık, kabuklu deniz hayvanları ve yumuşakçaların işlenmesi ve saklanması
+10.31 Patatesin işlenmesi ve saklanması
+10.32 Sebze ve meyve suyu imalatı
+10.39 Başka yerde sınıflandırılmamış meyve ve sebzelerin işlenmesi ve saklanması
+10.41 Sıvı ve katı yağ imalatı
+10.42 Margarin ve benzeri yenilebilir katı yağların imalatı
+10.51 Süthane işletmeciliği ve peynir imalatı
+10.52 Dondurma imalatı
+10.61 Öğütülmüş hububat ve sebze ürünleri imalatı
+10.62 Nişasta ve nişastalı ürünlerin imalatı
+10.71 Ekmek, taze pastane ürünleri ve taze kek imalatı
+10.72 Peksimet ve bisküvi imalatı; dayanıklı pastane ürünleri ve dayanıklı kek imalatı
+10.73 Makarna, şehriye, kuskus ve benzeri unlu mamullerin imalatı
+10.81 Şeker imalati
+10.82 Kakao, çikolata ve şekerleme imalatı
+10.83 Kahve ve çayın işlenmesi
+10.84 Baharat, sos, sirke ve diğer çeşni maddelerinin imalatı
+10.85 Hazır yemeklerin imalatı
+10.86 Homojenize gıda müstahzarları ve diyetetik gıda imalatı
+10.89 Başka yerde sınıflandırılmamış diğer gıda maddelerinin imalatı
+
+10.91 Çiftlik hayvanları için hazır yem imalatı
+10.92 Ev hayvanları için hazır gıda imalatı
+
+11.01 Alkollü içeceklerin damıtılması, arıtılması ve harmanlanması
+11.02 Üzümden şarap imalatı
+
+11.03 Elma şarabı ve diğer meyve şaraplarının imalatı
+
+11.04 Diğer damıtılmamış mayalı içeceklerin imalatı
+
+11.05 Bira imalatı
+11.06 Malt imalatı
+
+11.07 Alkolsüz içeceklerin imalatı; maden sularının ve diğer şişelenmiş suların üretimi
+12.00 Tütün ürünleri imalatı
+
+13.10 Tekstil elyafının hazırlanması ve bükülmesi
+
+13.20 Dokuma
+
+13.30 Tekstil ürünlerinin bitirilmesi
+
+13.91 Örgü (triko) veya tig işi (kroşe) kumaşların imalatı
+
+13.92 Giyim eşyası dışındaki tamamlanmış tekstil ürünlerinin imalatı
+
+13.93 Halı ve kilim imalatı
+
+[SAYFA 16]
+13.94
+13.95
+13.96
+13.99
+14.11
+14.12
+14.13
+14.14
+14.19
+14.20
+14.31
+14.39
+15.11
+
+15.12
+
+15.20
+16.10
+16.21
+16.22
+16.23
+16.24
+
+16.29
+
+17.11
+17.12
+17.21
+17.22
+17.23
+17.24
+17.29
+18.11
+18.12
+18.13
+18.14
+18.20
+19.10
+19.20
+20.11
+20.12
+20.13
+20.14
+20.15
+20.16
+20.17
+20.20
+20.30
+20.41
+20.42
+20.51
+20.52
+20.53
+20.59
+20.60
+21.10
+21.20
+22.11
+22.19
+22.21
+
+1744
+
+Halat, urgan, kınnap ve ağ imalatı
+
+Dokusuz kumaşların ve dokusuz kumaştan yapılan ürünlerin imalatı, giyim eşyası hariç
+Diğer teknik ve endüstriyel tekstillerin imalatı
+
+Başka yerde sınıflandırılmamış diğer tekstillerin imalatı
+
+Deri giyim eşyası imalatı
+
+İş giysisi imalatı
+
+Diğer dış giyim eşyaları imalatı
+
+İç giyim eşyası imalatı
+
+Diğer giyim eşyalarının ve giysi aksesuarlarının imalatı
+
+Kürkten eşya imalatı
+
+Örme (trikotaj) ve tığ işi (kroşe) çorap imalatı
+
+Örme (trikotaj) ve tığ işi (kroşe) diğer giyim eşyası imalatı
+
+Derinin tabaklanması ve işlenmesi; kürkün işlenmesi ve boyanması
+
+Bavul, el çantası ve benzerleri ile saraçlık ve koşum takımı imalatı (deri giyim eşyası hariç)
+
+Ayakkabı, bot, terlik vb. imalatı
+
+Ağaçların biçilmesi ve planyalanması
+
+Ahşap kaplama paneli ve ağaç esaslı panel imalatı
+Birleştirilmiş parke yer döşemelerinin imalatı
+
+Diğer bina doğramacılığı ve marangozluk ürünlerinin imalatı
+Ahşap konteyner imalatı
+
+Diğer ağaç ürünleri imalatı; mantardan, saz, saman ve benzeri örme malzemelerinden
+yapılmış ürünlerin imalati
+
+Kağıt hamuru imalatı
+
+Kağıt ve mukavva imalatı
+
+Oluklu kağıt ve mukavva imalatı ile kağıt ve mukavvadan yapılan muhafazalarin imalatı
+Kağıttan yapılan ev eşyası, sıhhi malzemeler ve tuvalet malzemeleri imalatı
+Kağıt kırtasiye ürünleri imalatı
+
+Duvar kağıdı imalatı
+
+Kağıt ve mukavvadan diğer ürünlerin imalatı
+
+Gazetelerin basımı
+
+Diğer matbaacılık
+
+Basım ve yayım öncesi hizmetler
+
+Ciltgilik ve ilgili hizmetler
+
+Kayıtlı medyanin çoğaltılması
+
+Kok fırını ürünlerinin imalatı
+
+Rafine edilmiş petrol ürünleri imalatı
+
+Sanayi gazları imalatı
+
+Boya maddeleri ve pigment imalatı
+
+Diğer inorganik temel kimyasal maddelerin imalatı
+
+Diğer organik temel kimyasalların imalatı
+
+Kimyasal gübre ve azot bileşiklerinin imalatı
+
+Birincil formda plastik hammaddelerin imalatı
+
+Birincil formda sentetik kauçuk imalatı
+
+Haşere ilaçları ve diğer zirai-kimyasal ürünlerin imalatı
+
+Boya, vernik ve benzeri kaplayıcı maddeler ile matbaa mürekkebi ve macun imalatı
+Sabun ve deterjan ile temizlik ve parlatıcı maddeler imalatı
+Parfümlerin, kozmetiklerin ve kişisel bakım ürünlerinin imalatı
+Patlayıcı madde imalatı
+
+Tutkal imalatı
+
+Uçucu yağların imalatı
+
+Başka yerde sınıflandırılmamış diğer kimyasal ürünlerin imalatı
+Suni veya sentetik elyaf imalati
+
+Temel eczacılık ürünleri imalatı
+
+Eczacılığa ilişkin ilaçların imalatı
+
+İç ve dış lastik imalatı; lastiğe sırt geçirilmesi ve yeniden işlenmesi
+Diğer kauçuk ürünleri imalati
+
+Plastik tabaka, levha, tüp ve profil imalati
+
+[SAYFA 17]
+1745
+
+Plastik torba, çanta, poşet, çuval, kutu, damacana, şişe, makara vb. paketleme
+
+22.22 malzemelerinin imalatı
+
+22.23 Plastik inşaat malzemesi imalatı
+
+22.29 Diğer plastik ürünlerin imalatı
+
+23.11 Düz cam imalatı
+
+23.12 Düz camın şekillendirilmesi ve işlenmesi
+
+23.13 Çukur cam imalatı
+
+23.14 Cam elyafı imalatı
+
+23.19 Diğer camların imalatı ve işlenmesi (teknik amaçlı cam eşyalar dahil)
+23.20 Ateşe dayanıklı (refrakter) ürünlerin imalatı
+
+23.31 Seramik karo ve kaldırım taşları imalatı
+
+23.32 Fırınlanmış kilden tuğla, karo ve inşaat malzemeleri imalatı
+
+23.41 Seramik ev ve süs eşyaları imalatı
+
+23.42 Seramik sıhhi ürünlerin imalatı
+
+23.43 Seramik yalıtkanların (izolatörlerin) ve yalıtkan bağlantı parçalarının imalatı
+23.44 Diğer teknik seramik ürünlerin imalatı
+
+23.49 Başka yerde sınıflandırılmamış diğer seramik ürünlerin imalatı
+
+23.51 Çimento imalatı
+
+23.52 Kireç ve alçı imalatı
+
+23.61 İnşaat amaçlı beton ürünlerin imalatı
+23.62 İnşaat amaçlı alçı ürünlerin imalatı
+23.63 Hazır beton imalati
+
+23.64 Toz harç imalatı
+
+23.65 Lif ve çimento karışımlı ürünlerin imalatı
+
+23.69 Beton, alçı ve çimentodan yapılmış diğer ürünlerin imalatı
+
+23.70 Taş ve mermerin kesilmesi, şekil verilmesi ve bitirilmesi
+
+23.91 Aşındırıcı ürünlerin imalatı
+
+23.99 Başka yerde sınıflandırılmamış metalik olmayan diğer mineral ürünlerin imalatı
+24.10 Ana demir ve çelik ürünleri ile ferro alaşımların imalatı
+
+24.20 Çelikten tüpler, borular, içi boş profiller ve benzeri bağlantı parçalarının imalatı
+24.31 Barların soğuk çekilmesi
+
+24.32 Dar seritlerin soguk haddelenmesi
+
+24.33 Soğuk şekillendirme veya katlama
+24.34 Tellerin soğuk çekilmesi
+
+24.41 Değerli metal üretimi
+
+24.42 Alüminyum üretimi
+
+24.43 Kurşun, çinko ve kalay üretimi
+24,44 Bakır üretimi
+
+24,45 Demir dışı diğer metallerin üretimi
+24.51 Demir döküm
+
+24.52 Çelik dökümü
+
+24.53 Hafif metallerin dökümü
+
+24,54 Diğer demir dışı metallerin dökümü
+25.11 Metal yapı ve yapı parçaları imalatı
+
+25.12 Metalden kapı ve pencere imalatı
+
+2521 Merkezi ısıtma radyatörleri (elektrikli radyatörler hariç) ve sıcak su kazanları (boylerleri)
+i imalatı
+
+25.29 Metalden diğer tank, rezervuar ve konteynerler imalatı
+
+25.30 Buhar jeneratörü imalatı, merkezi ısıtma sıcak su kazanları (boylerleri) hariç
+
+25.40 Silah ve mühimmat (cephane) imalatı
+
+25.50 Metallerin dövülmesi, preslenmesi, baskılanması ve yuvarlanması; toz metalürjisi
+
+25.61 Metallerin işlenmesi ve kaplanması
+
+25.62 Metallerin makinede işlenmesi ve şekil verilmesi
+
+25.71 Çatal-bıçak takımları ve diğer kesici aletlerin imalatı
+
+25.72 Kilit ve menteşe imalatı
+
+25.73 El aletleri, takım tezgahı uçları, testere ağızları vb. imalatı
+
+25.91 Çelik varil ve benzer muhafazaların imalatı
+
+[SAYFA 18]
+25.92
+25.93
+25.94
+25.99
+26.11
+26.12
+26.20
+26.30
+26.40
+26.51
+26.52
+26.60
+26.70
+26.80
+27.11
+27.12
+27.20
+27.31
+27,32
+27.33
+27.40
+27.51
+27.52
+27.90
+28.11
+28.12
+28.13
+28.14
+28.15
+28.21
+28.22
+28.23
+28.24
+28.25
+28.29
+28.30
+28.41
+28.49
+28.91
+28.92
+28.93
+28.94
+28.95
+28.96
+28.99
+29.10
+
+29.20
+
+29.31
+29.32
+30.11
+30.12
+30.20
+30.30
+30.40
+30.91
+30.92
+30.99
+
+31.00
+31.01
+
+1746
+
+Metalden hafif paketleme malzemeleri imalatı
+
+Tel ürünleri, zincir ve yayların imalatı
+
+Bağlantı malzemelerinin ve vida makinesi ürünlerinin imalatı
+
+Başka yerde sınıflandırılmamış diğer fabrikasyon metal ürünlerin imalatı
+Elektronik bileşenlerin imalati
+
+Yüklü elektronik kart imalatı
+
+Bilgisayar ve bilgisayar çevre birimleri imalatı
+
+İletişim ekipmanlarının imalatı
+
+Tüketici elektroniği ürünlerinin imalatı
+
+Ölçme, test ve seyrüsefer amaçlı alet ve cihazların imalatı
+
+Kol saatlerinin, masa ve duvar saatlerinin ve benzerlerinin imalatı
+Işınlama, elektro medikal ve elektro terapi ile ilgili cihazların imalatı
+Optik aletlerin ve fotografik ekipmanların imalatı
+
+Manyetik ve optik kaset, bant, CD, vb. ortamların imalatı
+
+Elektrik motorlarının, jeneratörlerin ve transformatörlerin imalatı
+Elektrik dağıtım ve kontrol cihazları imalatı
+
+Akümülatör ve pil imalatı
+
+Fiber optik kabloların imalatı
+
+Diğer elektronik ve elektrik telleri ve kablolarının imalatı
+
+Kablolamada kullanılan gereçlerin imalatı
+
+Elektrikli aydınlatma ekipmanlarının imalatı
+
+Elektrikli ev aletlerinin imalatı
+
+Elektriksiz ev aletlerinin imalatı
+
+Diğer elektrikli ekipmanların imalatı
+
+Motor ve türbin imalatı (hava taşıtı, motorlu taşıt ve motosiklet motorları hariç)
+Akışkan gücü ile çalışan ekipmanların imalatı
+
+Diğer pompaların ve kompresörlerin imalatı
+
+Diğer musluk ve valf/vana imalatı
+
+Rulman, dişli/dişli takımı, şanzıman ve tahrik elemanlarının imalatı
+Fırın, ocak (sanayi ocakları) ve brülör (ocak ateşleyicileri) imalatı
+Kaldırma ve taşıma ekipmanları imalatı
+
+Büro makineleri ve ekipmanları imalatı (bilgisayarlar ve çevre birimleri hariç)
+Motorlu veya pnömatik (hava basınçlı) el aletlerinin imalatı
+
+Soğutma ve havalandırma donanımlarının imalatı, evde kullanılanlar hariç
+Başka yerde sınıflandırılmamış diğer genel amaçlı makinelerin imalatı
+Tarım ve ormancılık makinelerinin imalatı
+
+Metal işleme makinelerinin imalatı
+
+Diğer takım tezgahlarının imalatı
+
+Metalürji makineleri imalatı
+
+Maden, taş ocağı ve inşaat makineleri imalatı
+
+Gıda, içecek ve tütün işleme makineleri imalatı
+
+Tekstil, giyim eşyası ve deri üretiminde kullanılan makinelerin imalatı
+Kağıt ve mukavva üretiminde kullanılan makinelerin imalatı
+
+Plastik ve kauçuk makinelerinin imalatı
+
+Başka yerde sınıflandırılmamış diğer özel amaçlı makinelerin imalatı
+Motorlu kara taşıtlarının imalatı
+
+Motorlu kara taşıtları karoseri (kaporta) imalatı, treyler (römork) ve yarı treyler (yarı römork)
+imalatı
+
+Motorlu kara taşıtları için elektrik ve elektronik donanımların imalatı
+Motorlu kara taşıtları için diğer parça ve aksesuarların imalatı
+Gemilerin ve yüzen yapıların inşasi
+
+Eğlence ve spor amaçlı teknelerin yapımı
+
+Demir yolu lokomotifleri ve vagonlarının imalatı
+
+Hava taşıtları ve uzay araçları ile bunlarla ilgili makinelerin imalatı
+Askeri savaş araçlarının imalatı
+
+Motosiklet imalatı
+
+Bisiklet ve engelli aracı imalatı
+
+Başka yerde sınıflandırılmamış diğer ulaşım ekipmanlarının imalatı
+
+Koltuk, sandalye, tabure, bank ve benzeri oturaklar (takımlar hariç) ile bunların parçaları ve
+mobilya parçaları (CPA 31.00)
+Büro ve mağaza mobilyaları imalatı
+
+[SAYFA 19]
+1747
+
+31.02 Mutfak mobilyalarının imalatı
+31.03 Yatak imalatı
+
+31.09 Diğer mobilyaların imalati
+
+32.11 Madeni para basımı
+
+32.12 Mücevher ve benzeri eşyaların imalatı
+
+32.13 İmitasyon (taklit) takılar ve ilgili eşyaların imalatı
+32.20 Müzik aletleri imalatı
+
+32.30 Spor malzemeleri imalatı
+
+32.40 Oyun ve oyuncak imalatı
+
+32.50 Tıbbi ve dişçilik ile ilgili araç ve gereçlerin imalatı
+32.91 Süpürge ve fırça imalatı
+
+32.99 Başka yerde sınıflandırılmamış diğer imalatlar
+33.11 Fabrikasyon metal ürünlerin onarımı
+33.12 Makinelerin onarımı
+33.13 Elektronik veya optik ekipmanların onarımı
+33.14 Elektrikli ekipmanların onarımı
+33.15 Gemilerin ve teknelerin bakım ve onarımı
+33.16 Hava taşıtlarının ve uzay araçlarının bakım ve onarımı
+33.17 Diğer ulaşım ekipmanlarının bakım ve onarımı
+33.19 Diğer ekipmanların onarımı
+33.20 Sanayi makine ve ekipmanlarının kurulumu
+35.11 Elektrik enerjisi üretimi
+35.21 Gaz imalatı
+35.30 Buhar ve iklimlendirme temini
+99.tt KODT
+99.22 KOD 2
+EK IX
+(Madde 4)
+Standart Eğitim Sınıflaması
+
+(ISCED)
+0 Erken çocukluk dönemi eğitimi
+01 Erken çocukluk dönemi eğitsel gelişim
+02 Temel eğitim öncesi eğitim
+1 Temel eğitim
+10 Temel eğitim
+2 Alt düzey ortaöğretim eğitimi
+24 Alt düzey ortaöğretim, genel eğitim
+25 Alt düzey ortaöğretim, mesleki eğitim
+3 Üst düzey ortaöğretim eğitimi
+34 Üst düzey ortaöğretim, genel eğitim
+35 Üst düzey ortaöğretim, mesleki eğitim
+4 Ortaöğretim sonrası yükseköğretim derecesinde olmayan eğitim
+44 Ortaöğretim sonrası yükseköğretim derecesinde olmayan genel eğitim
+45 Ortaöğretim sonrası yükseköğretim derecesinde olmayan mesleki eğitim
+5 Kısa dönem yükseköğretim eğitimi
+54 Kısa dönem yükseköğretim genel eğitimi
+55 Kısa dönem yükseköğretim mesleki eğitimi
+6 Lisans veya eşdeğeri seviye
+64 Lisans veya eşdeğeri seviye, akademik
+65 Lisans veya eşdeğeri seviye, profesyonel
+66 Lisans veya eşdeğeri seviye, oryantasyonu belirlenmemiş
+7 Yüksek lisans veya eşdeğeri seviye
+74 Yüksek lisans veya eşdeğeri seviye, akademik
+75 Yüksek lisans veya eşdeğeri seviye, profesyonel
+76 Yüksek lisans veya eşdeğeri seviye, oryantasyonu belirlenmemiş
+8 Doktora veya eşdeğeri seviye
+84 Doktora veya eşdeğeri seviye, akademik
+85 Doktora veya eşdeğeri seviye, profesyonel
+86 Doktora veya eşdeğeri seviye, oryantasyonu belirlenmemiş
+9 Başka yerde sınıflandırılmamış
+
+99 Başka yerde sınıflandırılmamış
+
+[SAYFA 20]
+1748
+
+EK X
+(Madde 4)
+Standart Meslek Sınıflaması
+(ISCO)
+Kod Tanim
+0 Silahlı kuvvetlerle ilgili meslekler
+
+01
+02
+03
+1
+
+11
+12
+13
+14
+2
+
+21
+22
+23
+24
+25
+26
+3
+
+31
+32
+33
+34
+35
+
+Subaylar
+
+Subay olmayan silahlı kuvvetlerin daimi mensupları
+
+Silahlı kuvvetlerde diğer rütbelerdeki meslekler
+
+Yöneticiler
+
+Başkanlar, üst düzey yöneticiler ve kanun yapıcılar
+
+Ticari ve idari müdürler
+
+Üretim ve uzmanlaşmış hizmet müdürleri
+
+Ağırlama, perakende ve diğer hizmet müdürleri
+
+Profesyonel meslek mensupları
+
+Bilim ve mühendislik alanlarındaki profesyonel meslek mensupları
+
+Sağlık profesyonelieri
+
+Eğitim ile ilgili profesyonel meslek mensupları
+
+İş ve yönetim ile ilgili profesyonel meslek mensupları
+
+Bilgi ve iletişim teknolojisi ile ilgili profesyonel meslek mensupları
+
+Hukuk, sosyal ve kültür ile ilgili profesyonel meslek mensupları
+Teknisyenler, teknikerler ve yardımcı profesyonel mesiek mensupları
+Bilim ve mühendislik ile ilgili yardımcı profesyonel meslek mensupları
+Yardımcı sağlık profesyonelleri
+
+İş ve idare ile ilgili yardımcı profesyonel meslek mensupları
+
+Hukuk, sosyal, kültür ve benzeri alanlar ile ilgili yardımcı profesyonel meslek mensupları
+Bilgi ve iletişim teknisyenleri
+
+Büro hizmetlerinde çalışan elemanlar
+
+Genel büro elemanları ile klavye kullanan büro elemanları
+
+Müşteri hizmetlerinde çalışan elemanlar
+
+Sayısal işlemler yapan ve malzeme kayıtları tutan büro elemanları
+
+Diğer büro hizmetlerinde çalışan elemanlar
+
+Hizmet ve satış elemanları
+
+Kişisel hizmetler veren elemanlar
+
+Satış hizmetleri veren elemanlar
+
+Kişisel bakım hizmetleri veren elemanlar
+
+Koruma hizmetleri veren elemanlar
+
+Nitelikli tarım, ormancılık ve su ürünleri çalışanları
+
+Pazara yönelik nitelikli tarım çalışanları
+
+Pazara yönelik nitelikli ormancılık, su ürünleri ve avcılık çalışanları
+
+Kendi geçimine yönelik çiftçiler, balıkçılar, avcılar ve toplayıcılar
+Sanatkarlar ve ilgili işlerde çalışanlar
+
+İnşaat ve ilgili işlerde çalışan sanatkarlar (elektrikçiler hariç)
+
+Metal işleme, makine ve ilgili işlerde çalışan sanatkarlar
+
+El sanatları ve basım ile ilgili işlerde çalışanlar
+
+Elektrik ve elektronik işlerde çalışan sanatkarlar
+
+Gıda işleme, ağaç işleri, giyim eşyası ve diğer sanatkarlar ve ilgili işlerde çalışanlar
+Tesis ve makine operatörleri ve montajcılar
+
+Sabit tesis ve makine operatörleri
+
+Montajcılar
+
+Sürücüler ve hareketli makine ve teçhizat operatörleri
+
+Nitelik gerektirmeyen işlerde çalışanlar
+
+Temizlikçiler ve yardımcılar
+
+Tarım, ormancılık ve balıkçılık sektörlerinde nitelik gerektirmeyen işlerde çalışanlar
+Madencilik, inşaat, imalat ve ulaştırma sektörlerinde nitelik gerektirmeyen işlerde çalışanlar
+Yiyecek hazırlama yardımcıları
+
+Cadde ve sokaklarda satış ve hizmet işlerinde çalışanlar
+
+Çöpçüler, atık toplayıcılar ve diğer nitelik gerektirmeyen işlerde çalışanlar
+
+[SAYFA 21]
+1749
+
+EK XI
+(Madde 4)
+Tarım, Ormancılık ve Balıkçılık Ürünleri Sınıflaması
+
+(TAORBA)
+Kod Tanım
+A TARIM, ORMANCILIK VE BALIKÇILIK ÜRÜNLERİ
+01 Tarım ve avcılık ürünleri ve ilgili hizmetler
+02 Orman ürünleri ve ilgili hizmetler
+03 Balık ve diğer balıkçılık ürünleri; su ürünleri; balıkçılık için destekleyici hizmetler
+c İMALAT ÜRÜNLERİ
+10 Gıda ürünleri
+
+12 Tütün ürünleri

@@ -1,0 +1,761 @@
+[SAYFA 1]
+Sayı : 770
+
+1888
+
+TÜKETİCİ KREDİLERİ YASASI
+(31/2020 Sayılı Yasa)
+Madde 22 Altında Tebliğ
+
+Kuzey Kıbrıs Türk Cumhuriyeti Merkez Bankası, 31/2020 sayılı Tüketici Kredileri Yasasının
+22'nci maddesinin kendisine verdiği yetkiye dayanarak aşağıdaki Tebliği yapar:
+
+Kısa İsim
+
+“Tefsir
+
+62/2017
+
+62/2017
+
+Bu Tebliğ, “Tüketici Kredileri Tebliği” olarak isimlendirilir.
+
+BİRİNCİ KISIM
+Genel Kurallar
+
+Bu Tebliğde metin başka türlü gerektirmedikçe;
+
+“Bağlı Kredi Sözleşmesi”, tüketici kredisinin münhasıran belirli bir
+konutun, malın veya hizmetin alımına ilişkin bir sözleşmenin
+finansmanı için verildiği ve bu iki sözleşmenin objektif açıdan
+ekonomik birlik oluşturduğu sözleşmeyi anlatır.
+
+“Banka”, Kuzey Kıbrıs Türk Cumhuriyeti Bankacılık Yasası altında
+izin alarak faaliyet gösteren bankaları anlatır.
+
+“Belirli Süreli Tüketici Kredisi”, tüketici kredi sözleşmesinin
+imzalandığı tarihte, kredi ilişkisinin sona erme tarihinin taraflarca
+sözleşmede açıkça kararlaştırıldığı tüketici kredilerini anlatır.
+
+“Belirsiz Süreli Tüketici Kredisi”, tüketici kredi sözleşmesinin
+
+imzalandığı tarihte, kredi ilişkisinin sona erme tarihinin taraflarca
+
+sözleşmede kararlaştırılmadığı tüketici kredilerini anlatır.
+
+“Dayanıklı Ortam”, tüketicinin gönderdiği veya kendisine
+gönderilen bilgiyi, gelecekte yeterli bir zaman içinde kolayca
+ulaşabilecek şekilde bilgi saklama yeteneği veren ve saklanan
+bilginin, değişmeden erişimine izin veren kısa mesaj (SMS),
+elektronik posta, internet, hafıza kartı, dijital disk, DVD ve benzeri
+herhangi bir araç ve/veya ortamı anlatır.
+
+“Değişken Faiz”, tüketici kredi sözleşmesi süresince referans faize,
+kuruluşlar tarafından uygulanacak marj oranı eklenerek bulunan
+kredi faiz oranını anlatır.
+
+"Donuk Alacak", bankalarda, Kuzey Kıbrıs Türk Cumhuriyeti
+Bankacılık Yasasının 74'üncü maddesinin (2)'nci fıkrası uyarınca
+yürürlükte bulunan Bankaların Kredileri ile Diğer Alacaklarının
+Nitelikleri ve Karşılıklar Tebliğindeki ifadeyi, kredi sağlayıcılarında
+ise anaparanın veya faizin vadesinden veya ödenmesi gereken
+tarihlerden itibaren tahsilinin 90 (doksan) günden fazla gecikmiş
+olduğu alacağı anlatır.
+
+[SAYFA 2]
+Fasıl 149
+
+31/2020
+
+1889
+
+“Kefil”, Sözleşmeler Yasası tahtında, tüketicinin kredisi ile ilgili
+vaadini veya yükümlülüğünü yerine getirme garantisini veren
+gerçek ve/veya tüzel kişiyi anlatır.
+
+“Kredi Faiz Oranı”, tüketici kredi sözleşmesinde yer alan ve ödeme
+planı oluşturulmasına esas teşkil eden, kredi miktarına yıllık olarak
+
+uygulanan sabit veya değişken bir yüzde olarak ifade edilen oranı
+anlatır.
+
+"Kredi Sağlayıcısı", banka hariç, devamlı ve mutad meslek halinde
+ödünç para verme işleri ile uğraşan tüzel kişileri anlatır.
+
+“Kredinin Toplam Maliyeti”, tasdik ücreti hariç olmak üzere, faiz,
+vergi, harç, komisyon, sigorta ve benzeri yasal yükümlülükler ile
+varsa değişik isimler altında alınan her türlü ücretin dâhil olduğu
+ödenmesi gereken toplam tutarı anlatır.
+
+"Kuruluş", bankaları ve kredi sağlayıcılarını anlatır.
+
+“Merkez Bankası”, Kuzey Kıbrıs Türk Cumhuriyeti Merkez
+Bankası'nı anlatır.
+
+“Ödeme Planı”, tüketici kredi sözleşmesinde tüketicinin geri
+ödemesinde esas alınacak taksit ve vadeleriyle birlikte anapara,
+faiz, vergi, harç ve benzeri yasal yükümlülükler ve varsa ücretlerin
+ayrı ayrı belirtildiği ve sözleşmenin ayrlmaz bir parçası olan tabloyu
+anlatır.
+
+“Sabit Faiz”, tüketici kredi sözleşmesinde yer alan ve sözleşme
+süresince tüketici aleyhine değiştirilemeyen faiz oranını anlatır.
+
+“Taksit”, ödeme planında her bir vade için hesaplanan anapara,
+faiz, vergi, harç ve benzeri yasal yükümlülükler toplamından
+oluşan, her bir ödeme tutarını anlatır.
+
+“Taksit Vadesi”, ödeme planında belirtilmiş olan taksitlerin
+ödeneceği tarihi anlatır.
+
+“Tüketici”, ticari veya meslek. olmayan amaçlarla hareket eden
+gerçek kişiyi anlatır.
+
+“Tüketici Kredisi”, gerçek kişilerin, ticari veya mesleki olmayan
+amaçlarla kullandığı kredileri anlatır.
+
+“Tüketici Kredi Sözleşmesi”, kuruluşun tüketiciye, faiz veya benzeri
+bir menfaat karşılığında ödemenin ertelenmesi, ödünç veya
+benzeri finansman şekilleri aracılığıyla kredi verdiği veya kredi
+vermeyi taahhüt ettiği sözleşmeyi anlatır.
+
+“Ücret”, faiz, vergi, fon ve benzeri yasal giderler dışında kalan, harç,
+komisyon, masraf ve benzeri her ne ad altında olursa olsun
+tüketiciden talep edilen her türlü parasal tutarı anlatır.
+
+“Yasa”, Tüketici Kredileri Yasasını anlatır.
+
+[SAYFA 3]
+Amaç 3;
+
+Kapsam 4.
+
+1890
+
+“Yıllık Maliyet Oranı”, tasdik ücreti hariç olmak üzere, faiz, vergi,
+harç, komisyon, sigorta ve benzeri yasal yükümlülükler ilé varsa
+değişik isimler altında alınan her türlü ücretlerin dâhil olduğu
+toplamın, kredi tutarına olan yıllık yüzdesel oranını anlatır.
+
+Bu Tebliğin amacı, Yasanın uygulanmasına ilişkin esas ve usulleri
+belirlemektir.
+
+Kuzey Kıbrıs Türk Cumhuriyetinde faaliyet gösteren kuruluşlar ile
+tüketici kredi sözleşmelerine taraf olanlar, bu Tebliğ kuralları
+kapsamındadır.
+
+İKİNCİ KISIM
+
+Ön Bilgilendirme Formları ve Tüketici Kredi Sözleşmelerindeki Müşterek Hükümler
+
+Ön Bilgilendirme _ 5.
+
+Formları ve
+Tüketici Kredi
+Sözleşmelerindeki
+Müşterek
+Hükümler
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+Ön bilgilendirme formları ve tüketici kredi sözleşmelerinin
+en az on iki punto büyüklüğünde, arial/times new
+roman/calibri gibi sık tercih edilen ve okunaklı yazı tipi ile
+yazılmış, anlaşılabilir bir dilde, sade ve okunabilir bir şekilde
+düzenlenmesi gerekmektedir. Taraflarca imzalanmış, ön
+bilgilendirme formlarının tüketiciye, tüketici kredi
+sözleşmelerinin ise tüketiciye ve varsa kefil veya kefillerine
+birer nüshasının yazılı ve/veya dayanıklı ortam yolu ile
+verilmesi zorunlu olup, verildiğine dair ispat yükümlülüğü
+krediyi kullandıran kuruluşa aittir.
+
+Düzenlenen ön bilgilendirme formları ve tüketici kredi
+sözleşmelerine istinaden tüketiciden talep edilecek her
+türlü ücrete ilişkin bilgilerin ve bunların değiştirilmesine
+ilişkin kuralların ön bilgilendirme formu ve tüketici kredi
+sözleşmesinin eki olarak yazılı ve/veya dayanıklı ortam
+yoluyla tüketiciye verilmesi zorunludur. Bu bilgilerin
+tüketiciye verildiğine dair ispat yükümlülüğü kuruluşa aittir.
+
+Ön bilgilendirme formları ve tüketici kredi sözleşmelerinde
+kullanılan dil Türkçedir. Ana dili Türkçe olmayan yabancı
+tüketicilerin talep etmesi halinde, imzaladıkları ön
+bilgilendirme formu ve tüketici kredi sözleşmesinin aslına
+uygun olarak yapılmış İngilizce çevirisi, imza karşılığı
+kendilerine verilir. Kuruluş tarafından, tüketiciye
+imzalatılmış olan çevirinin aslına uygun bir kopyası,
+tüketicinin kredi dosyasında saklanır.
+
+Ön bilgilendirme formları ve tüketici kredi sözleşmelerinin
+işlem ve ürünün niteliğine ve bulunması halinde tabi olduğu
+mevzuata uygun olarak hazırlanması gerekmektedir.
+
+[SAYFA 4]
+Ön Bilgilendirme
+Zorunluluğu
+
+Ön Bilgilendirme
+Formlarının
+Unsurları
+
+Tüketici Kredi
+Sözleşmelerinin
+Unsurları
+
+6.
+
+1891
+ÜÇÜNCÜ KISIM
+
+Ön Bilgilendirme Formları ile İlgili Esas ve Usuller
+
+Tüketici kredi sözleşmesi imzalanmadan önce, kuruluşun sunduğu
+
+koşullar ve şartlara bağlı olarak, - farklı teklifleri karşılaştırmak ve
+bilinçli bir karar almak için tüketicinin belirttiği tercihler ve verdiği
+bilgiler çerçevesinde, kendisine gerekli ön bilgilendirmenin yazılı
+ve/veya başka bir dayanıklı ortamda sunulması gerekmektedir.
+
+(2) (A)
+
+(8)
+
+(1) On bilgilendirme formları Ek-1 deki şekilde düzenlenir.
+
+Ek-1 formunda yer alan bilgiler dışında özel şartlar
+bulunması halinde, bu bilgiler ön bilgilendirme
+formunun eki olarak verilir.
+
+Özel şart olarak kabul edilen bağlı kredi
+sözleşmelerinin, içeriği ile ilgili bilginin tüketiciye
+verilmesi şarttır.
+
+(3) Kuruluş tarafından tüketicilere verilecek Ek-1 formu,
+kuruluşun adını, adresini ve iletişim bilgilerini içerecek
+şekilde hazırlanır.
+
+DÖRDÜNCÜ KISIM
+
+Tüketici Kredi Sözleşmeleri ile İlgili Esas ve Usuller
+
+8.
+
+(1) o Tüketici kredi sözleşmelerinde bulunması gereken asgari
+
+unsurlar aşağıdaki gibidir.
+
+(A)
+
+(8)
+
+(C)
+(©)
+
+(0)
+
+(E)
+
+Tüketicinin ve varsa kefil veya kefillerinin adi-
+soyadı/unvanı, kimlik ve adres bilgileri ile kuruluşun
+unvanı, açık adresi, telefon numarası, varsa diğer
+iletişim bilgileri,
+
+Adres deği; ‘iklerinin bildirimine ilişkin esas ve
+usuller,
+
+Kredinin türü ve tutarı,
+
+Tüketici kredi faiz oranının türü ve yıllık maliyet
+oranının yanı sıra;
+
+(a) Sabit faizli tüketici kredilerinde faiz oranı,
+
+(b) Değişken faizli tüketici kredilerinde, faize esas
+teşkil eden referans (faiz, kuruluşun
+uygulayacağı marj, faiz değişikliğinin hangi
+tarihlerde olacağı ve referans faizin tüketici
+tarafından nasıl takip edilebileceği,
+
+Tüketiciden talep edilecek her türlü ücrete ilişkin
+bilgiler ve bunların değiştirilmesine ilişkin kurallar,
+
+Belirli süreli tüketici kredi sözleşmelerinde, kredi
+sözleşmesinin süresi,
+
+[SAYFA 5]
+(2)
+
+(F)
+
+(6)
+
+(H)
+
+(I)
+
+(i)
+
+())
+
+(K)
+
+(L)
+
+(M)
+
+1892
+
+Belirli süreli tüketici kredi sözleşmelerinde kredinin
+toplam maliyeti, ödeme planı ve/veya geri ödeme
+tutarı,
+
+Belirsiz süreli tüketici kredilerinde, kredi limitinin
+bildirim zamanı ve yöntemi, kredi limitinin artırılması
+veya azaltılması koşulları,
+
+Alınacak teminatların türü, teminat alınmasıyla ilgili
+usül ve esaslar ile kredinin kapanması ile teminatın
+serbest kalacağına ilişkin hüküm,
+
+Belirli süreli tüketici kredilerinde tüketicinin erken
+ödemede bulunma hakkı, ödenen tutara göre
+kuruluşun indirim yapma yükümlülüğü ve erken
+ödeme tazminatı,
+
+Tüketicinin, ödemelerini ödeme tarihinde yapmaması
+halinde, varsa gecikme faiz oranı da dâhil hukuki
+sonuçları,
+
+Tüketici (o kredisinin (o sigortalanması gerektiği
+durumlarda tüketicinin, kuruluşun sunduğu sigorta
+hizmeti dışında başka bir sigorta şirketinden, kredi
+süresi boyunca, kredinin konusu ve tutarıyla uyumlu,
+kuruluşun dain-i mürtehin olacağı ve ihbara ilişkin
+kuruluşun istediği şartları taşıyan poliçeyi sunması
+durumunda, bu poliçenin kabul edileceği ile
+tüketicinin en geç poliçe süresinin bitim tarihinde
+yeni poliçeyi sunmaktan imtina ettiği ve/veya
+taksitlendirdiği poliçe için gerekli ödemeyi yapmayıp
+poliçenin iptalinin söz konusu olduğu hallerde,
+kuruluşun poliçeyi resen yapma ve poliçe bedelini
+talep ve tahsil etme hakkı olacağına yönelik esas ve
+usuller,
+
+Tüketici kredi sözleşmesinin feshedilmesi ve/veya
+cayılmasına ilişkin esas ve usuller,
+
+Tüketici kredilerinde, taksit vadesinin tatil gününe
+rastlaması durumunda ödeme vadesinin bu günü
+izleyen, tatil olmayan ilk gün olacağına ilişkin hüküm,
+
+Tüketici kredi sözleşmesi süresince, kuruluşun
+kredinin geri ödenmesini isteyebileceği haller,
+
+Düzenlenen borç senetleri, tüketici kredi sözleşmesine
+paralel ve farklılık içermeyecek şekilde düzenlenir. Sadece
+borç senedi düzenlenmesi durumunda, borç senedinin
+tüketici kredi sözleşmesinde yer alması gereken tüm
+unsurları içermesi zorunludur.
+
+[SAYFA 6]
+Erken Ödeme
+
+(3)
+
+1893
+
+Belirli süreli tüketici kredi sözleşmelerinde, ödeme planının
+taraflarca el yazısı ile imzalanması ve tüketici kredi
+sözleşmesinin eki olarak, kredi evrakları ile birlikte
+kuruluşta muhafaza edilmesi ve bir nüshasının da tüketiciye
+ve/veya kefillerine verilmesi gerekmektedir. Değişken faizli
+belirli süreli kredi sözleşmesine dayalı olarak ödeme
+planında yapılacak değişiklikler, yürürlüğe girmeden otuz
+gün önce kuruluş tarafından tüketicinin ve/veya kefillerinin
+iletişim adresine yazılı ve/veya dayanıklı ortam yoluyla
+bildirilir. Tüketiciye bildirim yapıldığına dair ispat
+yükümlülüğü kuruluşa aittir.
+
+BEŞİNCİ KISIM
+
+Tüketici Kredi Sözleşmeleri ile İlgili Özel Kurallar
+
+9.
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+Tüketici, tüketici kredi sözleşmesine istinaden kullandığı
+kredinin vadesi gelmemiş bir veya birden çok taksit
+ödemesinde bulunabilir veya kredi borcunun tamamını
+erken ödeyebilir. Bu hallerde kuruluş, erken ödenen
+miktara göre gerekli tüm faiz ve diğer maliyet unsurlarına
+ilişkin indirim yapmakla yükümlüdür.
+
+Kuruluş, değişken faizli belirli süreli kredilerin ilk on iki aylık
+dönemi ile sabit faizli kredilerde erken ödeme talebinin
+olması durumunda, kredinin erken geri ödenmesi ile
+doğrudan bağlantı! olan muhtemel maliyetler için tazminat
+alma hakkına sahip: ~. Ancak, her on iki aylık süre içinde
+tüketici tarafından yapılan erken geri ödeme tutarlarının,
+aylık asgari ücretin yirmi (20) katını aşmayan kısmından
+tazminat alınamaz.
+
+Tüketici tarafından yapılan erken geri ödeme tutarlarının
+
+asgari ücretin yirmi (20) katını aşan kısmından, kuruluşun
+alabileceği tazminat;
+
+(A) Erken geri ödeme tarihi ile kredi sözleşmesinde yazılı
+olan vade bitim tarihi arasındaki sürenin bir yılı
+aşması halinde erken geri ödenen kredi tutarının en
+fazla % 1 (yüzde bir)'idir.
+
+(B) Erken geri ödeme tarihi ile kredi sözleşmesinde yazılı
+olan vade bitim tarihi arasındaki sürenin bir yılı
+aşmaması durumunda ise erken geri ödenen kredi
+tutarının en fazla % 0.5 (binde bes)’idir.
+
+Tazminat tutarı, herhalükarda erken geri ödeme tarihi ve
+kredi sözleşmesinde yazılı olan vade bitim tarihi arasındaki
+dönemde ödenmesi öngörülen faiz tutarını aşamaz.
+
+[SAYFA 7]
+Ödeme Gücü
+
+Tüketici
+
+Kredilerine İlişkin
+
+Sınırlamalar
+
+10. (1)
+
+(2)
+
+(3)
+
+1894
+
+ALTINCI KISIM
+Tüketicinin Ödeme Gücü
+
+Kuruluşlar, tüketici kredisini kullandırmadan ve/veya bir
+limit tahsis etmeden önce, tüketicinin ve varsa kefil ve/veya
+kefillerinin ödeme gücünü araştırmak zorundadır.
+
+Kuruluş tarafından, tüketiciden ve varsa kefil ve/veya
+kefillerinden gelir belgelerinin alınması ve gerekli
+araştırmanın yapılması zorunludur.
+
+Kuruluşlar belirsiz süreli kredinin ilk tahsisi esnasında ve ilk
+tahsisten sonraki yaplacak limit O artırımlarında
+tüketicilerden gelir belgesi almakla yükümlüdürler.
+
+11. Kuruluşlar tüketici kredisi kullandırırken aşağıdaki hususlara
+uymakla yükümlüdür.
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+Konut edinimleri ile konut teminath kredilerde veya
+finansal kiralama islemlerinde kredi tutarinin teminat
+olarak alınan konutun değerine oranı yüzde seksen (% 80)'i
+aşamaz. Sınırlamaya konu krediler için teminat olarak
+alınan gayrimenkullerin değerlemesinin Merkez Bankası
+tarafından (yetkilendirilmiş (değerleme şirketlerine
+yaptırılması ve sinirlamada bu değerlerin kullanılması
+zorunludur.
+
+Tüketiciler lehine binek araç edinimi amacıyla alınacak olan
+taşıt kredilerinde ve/veya taşıt teminatlı kredilerde veya
+finansal kiralama işlemlerinde, kredi tutarının taşıtın
+değerine oranı, taşıtın nihai fatura değerinin yüzde yetmiş
+beş (% 75)’ini aşamaz. İkinci el binek araçlarda taşıtın
+değerinin tespitinde kasko değeri esas alınır.
+
+Konut alımı, konut tadilatı ve diğer gayrimenkul alımı amaçlı
+alınacak kredilerde veya finansal kiralama işlemleri ile bu
+kredilerin yeniden finansmanı amacıyla alınacak krediler
+hariç olmak üzere, tüketici kredilerinin vadesi yetmiş iki (72)
+ayı aşamaz. Maaş karşılığı alınacak krediler de bu fıkra
+çerçevesinde değerlendirilir.
+
+Tüketicilerin lehine alınacak kredilerin yabancı para cinsi
+olması durumunda, yabancı para cinsinden
+belgeleyebildikleri (o gelirlerinin (ve/veya varlıklarının
+bulunması ve konu ile ilgili Ek-2 de yer alan beyannamenin
+tüketiciden alınması şarttır. Gelire göre alınacak kredi için
+belgelenen gelirin, dönemsel ödeme taksit tutarının en az
+yüzde yetmiş beş (% 75)’ini karşılayabilecek düzeyde olması
+gerekir.
+
+[SAYFA 8]
+Referans Faiz 12;
+
+Belirli Süreli 13.
+
+Tüketici
+Kredilerinde
+Gecikme Faizi
+Uygulanmayacak
+Süre
+
+Tüketici 14.
+
+Kredilerine İlişkin
+Ücretler
+
+1895
+
+YEDİNCİ KISIM
+
+Faiz ve Ücretler ile İlgili Yükümlülükler
+
+(1)
+
+(2)
+
+(3)
+
+Referans faiz, kuruluşlar tarafından kullandırılan değişken
+faizli tüketici kredilerinin faiz hesaplanmasında baz alınacak
+faizi anlatır. &
+
+Değişken faizli tüketici kredilerinde baz alınacak olan
+referans faizler aşağıdaki gibidir;
+
+(A) TürkLirası için kullanılacak olan referans faiz, “ Türk
+Lirası Gecelik Referans Faiz Oranı”, kısa ismi ile TLREF
+oranıdır.
+
+(B) ABD Doları (USD) için kullanılacak olan referans faiz,
+“Secured Overnight Financing Rate”, kısa ismi ile
+SOFR oranıdır.
+
+(C) Euro (EUR) için kullanılacak olan referans faiz, “Euro
+Short-Term Rate”, kısa ismi ile €STR oranıdır.
+
+(Ç) İngiliz Sterlini (GBP) için kullanılacak olan referans
+faiz, “Sterling Overnight Index Average”, kısa ismi ile
+SONIA oranıdır.
+
+Kuruluşlar tarafından değişken faizli kredilerde, referans
+faiz olarak baz alınacak olan oran, kredinin kullandırıldığı
+veya kredi faiz değişikliğinin yapılacağı tarihten önceki en
+son yayımlanan oran olmalıdır.
+
+Belirli süreli tüketici kredi sözleşmelerinde, taksitler için gecikme
+faizi uygulanmayacak süre taksit tarihinden itibaren on beş günden
+az olmamak üzere, tüketici kredi sözleşmesinde açıkça yazılmalıdır.
+Taksitler için gecikme faizi uygulanmayacak süre için akdi faiz,
+bunu geçen süreler için ise gecikme faizi uygulanacaktır.
+
+(1)
+
+(2)
+
+(3)
+
+Ön bilgilendirme formları ekinde, tutar ve/veya oran olarak
+açıkca yer almaya her ne ad altında olursa olsun, herhangi
+bir ücret alınamaz.
+
+Reddedilen tüketici kredi taleplerinde, tüketicilerden ön
+bilgilendirmede bahsi geçen, kamu kurum ve kuruluşlarına
+ve/veya üçüncü kişilere yapılan ve belge ile ispatlanabilen
+ödemeler hariç olmak üzere, herhangi bir ücret alınamaz.
+
+Tüketicilerin (o borçlarının (o bulunmadığına dair ilgili
+
+kuruluşlardan talep ettikleri yazılar için kuruluş tarafından
+ücret alınamaz.
+
+[SAYFA 9]
+Fazladan Tahsil 15.
+
+EdilenTutarların
+İadesi
+
+Bilgilendirme 16.
+
+Yükümlülüğü
+
+Belirsiz Süreli 17.
+
+Tüketici
+Kredilerinde
+Hesap Özeti
+
+1896
+
+(4) Tüketici kredi sözleşmesinin vadesi boyunca, tüketiciye
+dayanıklı ortam yoluyla verilecekler ile basılı olarak yılda
+dört defaya kadar verilecek hesap dökümleri için gerçek
+posta ücreti hariç herhangi bir ücret alınamaz.
+
+Kuruluşlar tarafından, tüketici kredisine bağlı olarak tüketiciden
+fazladan alındığı tespit edilen tutarlar, tüketicinin bildireceği
+hesaba ücretsiz olarak gönderilir veya tüketicinin talep etmesi
+durumunda nakden ödenir.
+
+(1) o Kuruluşlar yıllık maliyet oranı ile krediyle ilişkili ücretlerin
+güncel halini açık, anlaşılır ve kolay erişilebilir bir şekilde
+tüm şubelerinde ve varsa internet sayfalarında
+yayımlamakla yükümlüdürler,
+
+(2) o Kuruluşlar;
+
+(A) Yasanın 9’uncu maddesinin (2Y'nci fıkrası gereği
+referans faiz oranlarını,
+
+(8) Bu Tebliğ uyarınca düzenlenen ön bilgilendirme
+formları ve tüketici kredi sözleşmelerinin içeriklerinin
+bir örneğini,
+
+varsa internet sayfalarında yayımlamakla yükümlüdürler.
+
+Belirsiz süreli tüketici kredilerinde tüketicinin aksine talebi
+olmadığı sürece, tüketicinin bildirdiği iletişim adresine yazılı
+ve/veya dayanıklı ortam yoluyla asgari üç ayda bir bilgilendirme
+yapılır. Bilgilendirmede yer alması gereken asgari unsurlar
+aşağıdaki gibidir;
+
+(1) Hesap özetinin ilgili olduğu dönem,
+
+(2) Kredi kullandırım tutarları ve tarihleri,
+
+(3) Bir önceki hesap özeti bakiyesi ve bunun tarihi,
+
+(4) Limitbilgisi,
+
+(5) o Güncel bakiye,
+
+(6) o Tüketicitarafından yapılan ödemelerin tarihleri ve tutarları,
+(7) o Uygulanan kredi faiz oranı ve tutarı,
+
+(8) o Gecikme faiz oranı ve tutarı,
+
+(9) o Uygulanmış olan her türlü ücret,
+
+(10) Gerektiği taktirde ödenecek asgari oran ve tutar.
+
+[SAYFA 10]
+Tüketici Kredileri
+ile İlgili İlan ve
+Reklamlar
+
+Yıllık Maliyet
+Oranı
+
+Kuruluşların
+Şikâyetler ile İlgili
+Yükümlülüğü
+
+Ceza Kuralları
+
+Geçici Madde
+Yasanın Yürürlüğe
+Girdiği Tarihten
+Önce
+Akdolunmuş
+Tüketici Kredi
+Sözleşmeleri
+
+18.
+
+19.
+
+20.
+
+21.
+
+1897
+
+SEKİZİNCİ KISIM
+Çeşitli Hükümler
+
+(1) Herhangi bir kredi faiz oranı ve/veya ücret içeren tüketici
+kredilerine yönelik yazılı ilan ve reklamlar bu maddenin
+(2)'nci fıkrasında belirlenen asgari ve standart bilgileri
+içermelidir. Bu standart bilgiler açık, kesin, özlü ve göze
+çarpan nitelikte düzenlenmeli ve örneklerle açıklanmış
+şekilde olmalıdır.
+
+(2) Yazılı ilan ve reklamlarda
+oranının yanı sira eğer varsa;
+(A) Toplam kredi aralığı,
+
+uygulanacak yıllık maliyet
+
+(B) Tüketici kredi sözleşmesi süresi,
+(C) Ödenecek toplam tutar ve taksit tutarı,
+
+(Ç) Sigorta ve benzeri yan hizmet sözleşmesi,
+
+yer almalıdır.
+
+Kuzey Kıbrıs Bankalar Birliği, Ek-3 de yer alan yıllık maliyet oranının
+hesaplanabilmesini sağlayan sistem ile referans faizlerin orijinal
+sitelerinin linklerini internet sayfasında yayımlamakla yükümlüdür.
+
+Yasanın 20'nci maddesi kapsamında kuruluşlar, tüketiciden gelen
+şikâyetlerle ilgili çözüme ulaşıp ulaşılmamasına bakılmaksızın, her
+bir şikâyet için izlenen tüm prosedürü içeren dosyayı genel/ülke
+müdürlüklerinde (O denetime hazır (oşekilde (o saklamakla
+yükümlüdürler.
+
+Bu Tebliğ kuralları, Tebliğin çıkarılmasına yetki veren Yasa kuralları
+ile birlikte okunur ve bu Tebliğ kurallarına aykırı hareket edenlere,
+Yasanın ilgili ceza kuralları uygulanır. ,
+
+DOKUZUNCU KISIM
+Geçici Kuralla.
+
+Yasanın yürürlüğe girdiği tarihten itibaren 6 (altı) ay içerisinde,
+donuk alacak niteliğinde olmayan ve/veya dava konusu yapılmamış
+mevcut tüketici kredi sözleşmeleri hakkında da, tüketiciler
+tarafından ilgili kuruluştan yazılı ve/veya dayanıklı ortam yoluyla
+talep edilmesi halinde, sözleşmelerde değişiklik yapılmak kaydıyla,
+cayma hakkı, bağlı kredi sözleşmeleri, ön bilgilendirme ve ödeme
+gücüne ilişkin kurallar hariç olmak üzere, Yasanın ilgili kuralları
+uygulanır.
+
+[SAYFA 11]
+Geçici Madde
+Gayrimenkul
+Değerlemelerine
+İlişkin Hükümler
+
+Yürürlüğe Giriş
+
+22.
+
+1898
+
+Bu Tebliğde yer alan gayrimenkul değerlemeleri ile ilgili kuralların
+uygulanmasına, Merkez Bankası tarafından © çıkarılacak
+gayrimenkul değerlemelerine ilişkin tebliğin yürürlüğe girmesiyle
+birlikte başlanır.
+
+ONUNCU KISIM
+Son Kurallar
+
+Bu Tebliğ, Resmi Gazetede yayımlandığı tarihten başlayarak
+yürürlüğe girer.

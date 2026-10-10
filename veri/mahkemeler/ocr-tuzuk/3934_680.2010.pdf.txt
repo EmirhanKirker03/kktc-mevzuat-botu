@@ -1,0 +1,695 @@
+[SAYFA 1]
+Sayı : 680
+
+2395
+
+İŞ SAĞLIĞI VE GÜVENLİĞİ YASASI
+(35/2008 Sayılı Yasa)
+Madde 8/6) Altında Yapılan Tüzük
+
+Kuzey Kıbrıs Türk Cumhuriyeti Bakanlar Kurulu, İş Sağlığı ve Güvenliği
+Yasası'nın 8'inci Maddesinin (6)'ıncı Fıkrasının kendisine verdiği yetkiye dayanarak
+aşağıdaki Tüzüğü yapar:
+
+Kısa İsim 1.
+
+Bu Tüzük, “İşyerlerinde Risk Değerlendirmesi Esasları Tüzüğü” olarak
+
+İsimlendirilir.
+
+Tefsir 2.
+
+35/2008
+
+35/2008
+
+35/2008
+
+BİRİNCİ KISIM
+Genel Kurallar
+
+Bu Tüzükte metin başka türlü gerektirmedik¢e;
+
+“Bakanlık”, Çalışma İşleri ile görevli Bakanlığı anlatır. ;
+
+“Çalışan”, kendi özel yasalarindaki statülerine bakılmaksızın İş Sağlığı ve
+Güvenliği Yasası kapsamındaki kamu ve özel işyerlerinde, herhangi bir iş
+ilişkisine bağlı olarak ücret, maaş, gündelik vb. karşılığı çalışan (istihdam
+edilmiş) gerçek kişileri anlatır.
+
+“Çalışma Ortamı”, işin gerçekleştirildiği koşulları oluşturan tüm fiziksel ve
+ruhsal faktörleri anlatır. İşyerleri, teknolojiler, makineler, iş ekipmanları,
+mikro iklim koşulları ve işyerinde veya isle ilgili olarak ortaya çıkan,
+çalışanların güvenliğini, sağlığını ve refahını etkileyebilecek tüm faktörleri
+anlatır.
+
+“Daire”, Çalışma Dairesini anlatır.
+
+“İşveren”, İş Sağlığı ve Güvenliği Yasası'nda Ana İşveren veya Alt İşveren
+olarak tefsiri yapılan, çalışanlarla istihdam ilişkisi olan ve kuruluşun veya
+işyerinin sorumluluğunu taşıyan gerçek veya tüzel kişileri anlatır.
+
+“İşyeri”, işin yapıldığı yeri anlatır ve işin niteliği ve yürütümü bakımından
+işyerine bağlı bulunan yerlerle, dinlenme, çocuk emzirme, yeme, uyku,
+yıkanma, muayene ve bakım, beden ve mesleki eğitim yerleri ve avlu gibi
+çalışanların girip çıkabilecekleri sair eklentiler ve araçlar da işyerinden
+sayılır.
+
+“Koruyucu Tedbirler”, işyerindeki risklerin ortadan kaldırılmasına veya
+azaltılmasına ve risk faktörlerinin etkilerinin azaltılmasına odaklı olan
+faaliyetleri anlatır. Koruyucu tedbir genellikle bir tehlike ile o tehlikeden
+zarar görebilecek kişi arasındaki bir engel anlamına gelir.
+
+“Müfettiş”, Çalışma Dairesinin tayinli müfettşlerini anlatır ve İş Sağlığı ve
+Güvenliği Yasasının 25'inci maddesi uyarınca görevlendirilen kamu
+görevlilerini de içerir.
+
+“Önleyici Tedbirler”, İş Sağlığı ve Güvenliği Yasasının 6'ncı maddesinin
+(3'üncü fıkrasında düzenlenen genel prensipleri dikkate alarak, işyerindeki
+risklerin ortadan kaldırılmasına veya azaltılmasına, risk faktörlerinin
+etkisinin azaltılmasına, iş kazalarının, meslek hastalıklarının, mesleki
+zehirlenmelerin ve işten kaynaklanan diğer zararların ortaya çıkmasının
+sınırlandırılmasına odaklı olarak, önceden planlanan ve benimsenen
+faaliyetleri anlatır.
+
+“Risk”, bir kişinin tehlikeden zarar görebilme ihtimalinin veya tehlikenin
+hasara yol açma ihtimalinin ve sonuçlarının bileşimini anlatır.
+
+“Risk Değerlendirmesi”, işyerlerinde var olan veya dışarıdan gelebilecek
+tehlikelerin çalışanlara, işyerine ve çevresine verebileceği zararların ve
+bunlara karşı alınacak önlemlerin belirlenmesi amacıyla yapılması gereken
+
+[SAYFA 2]
+Amaç
+
+Kapsam
+35/2008
+
+Risk
+Değerlendir-
+mesi Süreci
+İçin Temel
+Kurallar
+
+2396
+
+çalışmaları anlatır.
+
+“Risk Faktörü", maruz kalmaları halinde işçilerin sağlığı için olumsuz
+etkilere sebep olabilecek maddeleri veya ortamın bir özelliğini anlatır.
+“Sertifikalı İş Sağlığı ve Güvenliği Uzmanı”, İş sağlığı ve iş güvenliği
+konusunda hizmet verecek olan kişilerin sertifikalandırılması amacı ile
+Daire tarafından düzenlenen ve yapılan sınavlarda başarılı bulunarak Daire
+
+tarafından sertifika verilen nitelikli bir kişiyi anlatır. \
+“Tehlike”, çalışanların ve diğer kişilerin sağlıklarının bozulması,
+yaralanmaları veya ölümlerine sebep olabilecek potansiyel risk kaynağını
+anlatır. Tehlike, iş ekipmanları, faaliyetler, çalışma ortamı ve maddeler gibi
+herhangi bir şeyin zarar veya hasar verme potansiyelidir.
+
+“Yetkili İş Sağlığı ve Güvenliği Hizmeti Veren Kuruluş”, İş sağlığı ve İş
+güvenliği konusunda hizmet verecek olan kuruluşların  yetkilendirilmesi
+amacı ile Daire tarafından düzenlenen bir yetkilendirme belgesi sahibi olan
+kuruluşu anlatır.
+
+3. Bu Tüzüğün amacı , üretim hatlarını, çalışanların sayısını, faaliyetlerle
+ilişkili tehlikeler ve riskleri, işyerinin büyüklüğünü, kullanılan İş ekipmanlarını,
+makineleri, aletleri, kimyasal maddeleri ve bunların parçalarını, fiziksel ve
+biyolojik etken maddeleri dikkate alarak yapılacak risk değerlendirmelerinde
+izlenecek kuralları, risk değerlendirmesinin biçim ve kapsamını, analizler ve
+değerlendirmelerin nasıl yapılması gerektiğini ve işyerindeki iş kazası ve meslek
+hastalığı ile ilgili risk ve tehlikelere karşı alınacak tedbirleri açıklamak,
+hazırlanacak raporların içeriğini belirlemektir.
+
+4. Bu Tüzük, İş Sağlığı ve Güvenliği Yasası kapsamına giren şirketler,
+işyerleri, faaliyetler, işverenler, çalışanlar ve diğer kişileri kapsar.
+
+İKİNCİ KISIM
+Risk Değerlendirmesi Süreci
+
+5. (1) İşverenler, çalışma şartlarının yanı sıra İşte gerçekleştirilen tüm
+faaliyetlerin ve kullanılan ekipmanların, işyerlerinin, teknolojilerin,
+maddelerin ve malzemelerin risk değerlendirmesi prosedürüyle yeterli
+ve sistematik bir biçimde analizini sağlar. Bu amaçla işveren, işyerinde
+risk değerlendirmesini yürütecek bir veya birden fazla çalışanı
+görevlendirir.
+
+(2) Eğer işyerinde risk değerlendirmesini yapabilecek hiçbir Sertifikalı İş
+Sağlığı ve Güvenliği Uzmanı niteliklerine sahip (o çalışan yoksa,
+dışarıdan Sertifikalı İş Sağlığı ve Güvenliği Uzmanları veya Yetkili İş
+Sağlığı ve Güvenliği Hizmeti Veren Kuruluşlar bu işi yürütmek üzere
+görevlendirilebilir. Bu gibi durumlarda işyerinden bir kişi, risk
+değerlendirmesi süreci boyunca dışardan gelen İş Sağlığı ve Güvenliği
+Uzmanı'na refakat eder.
+
+(3) İşverenler, özel mevzuatta aksine bir düzenleme olmaması koşuluyla
+eğer dört veya daha az sayıda çalışan istihdam ediyorlarsa yukarıdaki
+(2)'inci fıkrada belirtilen Sertifika olmaksızın risk değerlendirmesini
+kendileri yürütebilirler veya bunu yürütebilecek gerekli niteliklere sahip
+bir çalışanı görevlendirebilirler.
+
+[SAYFA 3]
+Risk
+Değerlen-
+dirmesinin
+Temel
+İlkeleri
+
+(4) İşveren, çalışanların risk değerlendirmesi sürecine katılımı ve sonuçları
+
+hakkında uygulanacak koruyucu ve/veya önleyici tedbirlerden haberdar
+olmaları için gerekli prosedürleri oluşturur, uygular ve uygulanmasını
+sürdürür.
+
+(5)(A) Risk değerlendirmesi, devamlı bir süreç olup , tehlikelerin ve risklerin
+gözlemlenmesi sistemli olarak yapılmalı ve mevcut risk
+değerlendirmesi, gerekiyorsa güncellenmelidir.
+
+(B) İşveren, risk değerlendirmesini en az iki yılda bir düzenli olarak
+tekrarlamalıdır. ,
+
+(C) Risk değerlendirmesinin gerekli yasal düzenlemelere uygun olarak
+doğru bir biçimde gerçekleştirilmemiş olduğunun müfettiş raporu ile
+tespiti halinde risk değerlendirmesi yasal kurallara uygun olarak
+yeniden yapılmalıdır.
+
+(6) İşverenler, aşağıdaki durumlarda risk değerlendirmesinin tümünü
+ve/veya ilgili bölümünü tekrarlamalıdırlar.
+
+(A) İş kazası, tehlikeli olay veya meslek hastalığının ortaya çıkması
+halinde,
+
+(B) Yeni bir tehlike veya riskin ortaya çıkması halinde,
+
+(C) Yeni bir makine, iş ekipmanı, teknoloji veya işyerinin tesis edilmesi
+halinde,
+
+(Ç) Yeni bir meslek veya iş kadrosunun oluşturulması halinde,
+(D) Çalışma koşullarının veya çalışma işlemlerinin değiştirilmesi halinde,
+
+(E) Risk değerlendirmesinin gerekli yasal düzenlemelere uygun olarak
+doğru bir biçimde gerçekleştirilmemiş olduğunun müfettiş tarafından
+tespiti halinde.
+
+(1) Risk değerlendirmesinin amaçları aşağıdaki gibidir:
+
+(A) İşyerinde insanlara zarar verebilecek veya istenmeyen bir olaya
+sebep olabilecek faktörleri ortaya çıkarmak,
+
+(B) Riskin ne kadar ciddi olduğunu değerlendirmek,
+
+(C) Riskin kabul edilebilir olup olmadığına karar vermek,
+
+(Ç) Mevcut tedbirlerin insanları ve mülkleri korumaya yeterli olup
+olmadığını değerlendirmek,
+
+(D) Gerektiğinde önleyici ve koruyucu tedbirler belirlemek ve
+benimsemek,
+
+(E) Çalışanların ve/veya onların temsilcilerinin güvenli bir biçimde
+hareket etmeleri ve yöneticilerin kendi sorumlulukları altındaki
+işleri yönetebilmeleri için, riskler ve bu risklere karşı korunma
+hakkında onlara bilgiler sağlamak.
+
+(2)Risk değerlendirmesi, teknik ve teknolojik ekipmanlar, çalışma faaliyetleri,
+işyeri düzenlemeleri, kullanılan maddeler ve malzemeler, kimyasal
+faktörler, fiziksel faktörler, biyolojik faktörler, duyusal zihinsel işyükünü
+etkileyen faktörler ve sosyal faktörler, çalışma koşulları, iş ilişkileri, hijyen,
+iyilik ve refah, insan fakförü, psiko-sosyal faktörler, stres, işyerinde taciz
+gibi işle ilgili tüm durumlar dikkate alarak sistematik bir biçimde
+gerçekleştirilir.
+
+[SAYFA 4]
+35/2008
+
+35/2008
+
+Risk
+Degerlen-
+dirmesinin
+Organizasyo
+nu ve
+Prosedürü
+
+i. Cetvel
+il. Cetvel
+ii. Cetvel
+
+(3) Risk değerlendirmesi, bakım personeli, servis elemanları, dış hizmet
+sağlayıcılar ve ziyaretçiler gibi işyerinde bulunması muhtemel tüm
+kişilere odaklı olur. Risk değerlendirmesi, İş Sağlığı ve Güvenliği
+Yasası'nın 22'inci maddesinin (1Y'inci fıkrasında tanımlanan hassas risk
+gruplarının koşulları ve kabiliyetlerine özel önem verilerek yürütülür.
+Önleyici ve koruyucu tedbirler, hassas risk gruplarının koşulları ve
+yetenekleri için gereklilikler dikkate alınarak uyarlanır ve benimsenir.
+
+(4) Risk değerlendirmesi yapılırken, aynı zamanda, çevresel boyutlar,
+işyerinin çevresi ve civardaki diğer işletmeler, nesneler ve toplum,
+bunların mevcut riskler üzerindeki muhtemel etkileri ve bunların yanı
+sıra olası dış risklerin olası artırıcı etkileri dikkate alınır,
+
+(5) Risk değerlendirmesi, İş Sağlığı ve Güvenliği Yasasının 6'ıncı
+maddesinin (3)'üncü fıkrasında düzenlenen genel prensipler dikkate
+alınarak gerçekleştirilir.
+
+(6) Risk düzeyinin kabulü, İş Sağlığı ve Güvenliği Yasası kuralları,
+uluslararası standartlar, teknik şartnameler ve normlar, kıyaslanabilir
+güvenlik kuralları, kılavuz ilkeler ve iyi uygulama örnekleri temel alınarak
+kararlaştırılır.
+
+7. Risk değerlendirmesinin organizasyonu, aşağıdaki aşamalardan meydana
+gelir:
+
+(0) Hazırlık; risk değerlendirmesi için hazırlık, özellikle aşağıdaki hususları
+kapsar:
+
+(A) Risk değerlendirmesi eylem planının oluşturulmasını,
+
+(B) Değerlendirmeyi yapacak kişilerin seçimi ve tayinini,
+
+(C) Tehlike tanımlama ve diğer risk değerlendirme faaliyetlerine dahil
+olacak işçilerin ve yöneticilerin ön bilgilendirmesini,
+
+(©)Gerekli belgelerin, formların ve yasal mevzuatın bir arada
+toplanmasını.
+
+(2) (A) Risk değerlendirme prosedürü, seçilen yönteme bağlıdır. En uygun
+yöntem seçimi özellikle, tehlikenin türüne, olası sonuçların
+ciddiyetine, işyerinin büyüklüğüne, risk değerlendirmesinin amacına
+bağlıdır. Belirli alanlardaki yasalar ve/veya tüzükler, özel risk
+değerlendirmesi prosedürleri gerektirebilirler. Risk değerlendirmesi
+prosedürü aşağıdaki unsurları içerir:
+
+(a) Değerlendirilen nesnelerin ön verilerinin tanımlanmasını,
+
+(b) Tehlikelerin tanımlanmasını,
+
+(c) Risk altindaki insanların tanımlanmasını,
+
+(ç) Risklerin değerlendirilmesi, riskin meydana gelme olasılığı ve
+meydana gelmesi halinde vereceği zararlar ile alınan ve alınacak
+tedbirler arasında denge sağlanmasını,
+
+(d) Riskin kabul edilebilirliğine dair kararı,
+
+(e) Mevcut tedbirlerin değerlendirilmesi ve koruyucu tedbirleri.
+
+(B) Önemli tehlikelerin gösterge listesi bu Tüzüğe ekli inci Cetvelde
+belirtilmiştir. Bu madde uyarınca mesleklere göre risk değerlendirme
+biçimlerinin örnekleri, bu Tüzüğe ekli Ih'inci Cetvelde ve çalışma
+
+[SAYFA 5]
+Risk
+Değerlendir
+-mesi
+Raporunun
+içeriği
+
+Genel
+Veriler
+
+Mevcut
+Durumun
+Ön Verileri
+
+8.
+
+© ortamının tamamlayıcı risk değerlendirme biçimlerinin örnekleri de
+bu Tüzüğe ekli 1'inci Cetvelde belirtilmiştir. Risk değerlendirmesi
+yapacak olan kişiler inci Cetvel ve If'üncü Cetvel de yer alan
+örnek formları kullanacaklardır. Bu formlardan farklı formlar
+kullanmaları ancak kendi örnek formlarının bu Tüzüğe uygun olarak
+düzenlenmesi ve bu formların Daire tarafından onaylanması halinde
+mümkün olacaktır.
+
+(3) Risk değerlendirmesi raporlarının uygulanması aşağıdakileri amaçlar:
+
+(A) Güçlü ve acil tedbirlerin alınmasını,
+
+(B) Önleyici ve koruyucu tedbirlerin uygulanması icin belirli
+görevler,sorumluluklar, zaman tablosu ve izlemeyi içeren bir eylem
+planının benimsenmesini,
+
+(C) Tüm işçiler ve yöneticilerin risk değerlendirmesi bulguları hakkında
+eğitilmesi ve risklerin önlenmesi için talimatları,
+
+(Ç) İşle ilgili olarak ortaya çıkan tehlikelerin sürekli izlenmesini
+sağlayacak sistemin benimsenmesini,
+
+(4) Risk değerlendirmesi organizasyonu ve prosedürü yazılı olarak
+kaydedilir. İşverenler, risk değerlendirmesi raporunun
+detaylandırılmasını sağlarlar. Risk değerlendirmesi ile ilgili belgeler,
+çalışma denetimi için hazır bulundurulur ve güncel tutulur.
+
+Risk değerlendirmesi raporu aşağıdaki hususları içerir:
+
+(1) Genel verileri,
+
+(2) Mevcut durumun ön verilerini,
+
+(3) Risk değerlendirmesi hazırlığının eylem planını,
+
+(4) Risk değerlendirme prosedürünü,
+
+(5) Önleyici ve koruyucu tedbirlerin uygulanması için eylem planını,
+(6) Gözden geçirme ve izleme belgelerini.
+
+Genel veriler, özellikle aşağıdaki hususları içerir:
+
+(1) İşverenin adını, pozisyonunu ve tescilli adresini,
+
+(2) İşletmenin ana faaliyetini,
+
+(3) Çalışan sayısını (erkek çalışan, kadın çalışan, onsekiz yaş altı genç
+çalışan, engelli çalışan şeklinde),
+
+(4) Sertifikalı İş Sağlığı ve Güvenliği Uzmanı veya Yetkili İş Sağlığı ve
+Güvenliği Hizmeti Veren Kuruluş / tayin edilen kişinin adını,
+
+(5) Varsa iş sağlığı hizmeti sağlayıcısının adını,
+
+(6) Detaylandırma tarihini,
+
+(7) İşyeri yöneticisinin/sorumlu kişinin adını ve imzasını,
+
+10. Mevcut durumun ön verileri, genelde üretim ve diğer kapasitelerin durum ve
+
+halinin açıklamasını kapsar. Özellikle aşağıdaki hususları içerir:
+
+(1) Meslekler listesini (iş pozisyonlarını) ve bunların her birindeki kişi
+sayısını,
+(2) Her bir meslek için iş tanımı ve ilgili faaliyetleri,
+) İşte kullanılan makineler, ekipmanlar ve aletlerin listesini,
+) İşte kullanılan maddeler ve malzemelerin listesini,
+) İş faaliyetleri için kullanılan dağıtım çerçevesini de (güç, medya) içeren,
+binalar, nesneler ve işyerlerinin açıklamasını,
+(6) İşverenin o üretimiyle ilişkili teknoloji süreçleri ve faaliyetlerinin
+açıklamasını,
+
+(3
+(4
+(5
+
+[SAYFA 6]
+2400
+
+(7) Kişisel koruyucu ekipmanların ve her bir meslek için koruyucu
+ekipmanların listesini,
+(8) Dış kaynak kullanımıyla sağlanan faaliyetlerin listesini.
+
+Risk 11. Risk değerlendirmesi hazırlığının eylem planı, özellikle aşağıdaki hususları
+Degerien- içerir:
+
+dimesi . . - . ; enin
+
+Hazırlığının (1) Önerilen risk değerlendirmesi prosedürü ve metodunun açıklaması,
+
+Eylem Planı
+
+Risk Değer- 12.
+
+lendirme
+Prosedürü
+
+Önleyici ve 13.
+
+bunun organizasyonu ve zaman çizelgesini,
+
+(2) Risk değerlendirmesini gerçekleştirecek kişilerin tayinini,
+
+(3) İşçiler ve yöneticilerin ön bilgilendirilmesinin kaydını, i
+
+(4) Risk değerlendirmesine temel teşkil eden belgelendirmenin ve diğer
+belgelerinin listesini.
+
+Risk değerlendirme prosedürü özellikle aşağıdaki hususları içerir:
+
+(1) Risk değerlendirme prosedürünün gerçekleştirilmesinin açıklanmasını,
+
+(2) Tüm meslekler ve/veya işyerleri ve/veya çalışma tesisleri bazında
+tehlikelerin tanımlanmasını, risklerin değerlendirilmesini ve önerilen
+tedbirler hakkındaki risk değerlendirme formlarının dosyasını,
+
+(3) Değerlendirme toplantılarının kayıtları ve eğer uygunsa diğer kayıtları.
+
+Önleyici ve koruyucu tedbirler için eylem planı özellikle aşağıdaki hususları
+
+Koruyucu içerir:
+
+Tedbirlerin
+Eylem Plani
+
+Gözden 44,
+
+Geçirme ve
+izleme
+Belgeleri
+
+Geçici 1.
+Madde
+
+Risk
+
+Değerlen-
+dirmesinin
+Yenilenmesi
+
+Yürütme 15.
+
+Yetkisi
+
+Yürürlüğe 16.
+
+Giriş
+
+(1) Önceliklerini dikkate alarak, önleyici ve koruyucu tedbirlerin
+uygulanması için belirlenen görevlerin listesini,
+
+(2) Alınacak herbir tedbirden sorumlu olacak kişilerin ve tedbirin uygulanma
+zamanının tanımlanmasını,
+
+(3) Eğitim, izleme gibi diğer uygulama faaliyetlerinin programını.
+
+Gözden geçirme ve izleme belgeleri özellikle aşağıdaki hususları içerir;
+
+(1) Çalışanlar ve yöneticilerin risk değerlendirmesi sonuçları hakkında
+eğitilmesinin kayıtlarını,
+
+(2) Tüm çalışanlar tarafından, ortaya çıkan risklerin sürekli olarak
+izlenmesini, bunların (toplanmasını, odeğerlendirilmesini,  alinan
+tedbirlerin benzer durumlarda uygulanmasını ve dağıtımı sistemini,
+
+(3) Benimsenen tedbirlerin kayıtlarını.
+
+ÜÇÜNCÜ KISIM
+Son Kurallar
+
+İşverenler, bu Tüzüğün yürürlüğe girmesinden önce işyerlerinde risk
+değerlendirmesi yapmışlarsa, mevcut risk değerlendirmesini, işyerinin risk
+değerlendirmesinin yapıldığı tarihten itibaren en geç sonraki iki yıl zarfında
+bu Tüzükte belirlenen kurallara uygun olarak yeniden tekrarlamalidiriar.
+
+Bu Tüzük, Bakanlar Kurulu adına Çalışma İşleriyle görevli Bakanlık
+tarafından. yürütülür.
+
+Bu Tüzük, Resmi Gazete'de yayımlandığı tarihten başlayarak altı ay sonra
+yürürlüğe girer.
+
+[SAYFA 7]
+2401
+
+I.Cetvel
+(7'inci Madde)
+
+Başlıca Tehlikelerin Gösterge Listesi
+
+bh
+
+Engebeli veya kaygan yüzeyler (kaymalara, tökezlemelere, düşmelere, vb. sebep olabilecek)
+
+2 Hareketli araçlar ve makineler
+
+3 Makinelerin hareketli parçaları
+
+4 Tehlikeli yüzeylere (keskin, pürüzlü, vb.) sahip nesneler ve parçalar
+
+5 Sıcak veya soğuk yüzeyler, malzemeler, vb.
+
+6 Yüksek işyerleri ve tırmanma noktaları (yüksekten düşmeye sebep olabilecek)
+7 El aletleri (elektirikli ve elektiriksiz)
+
+8 Yüksek basınç
+
+9 Elekirikli donanımlar ve ekipmanlar
+
+10 Yangın
+
+11 Patlama
+
+12 Kimyasal maddeler ve tehlikeli malzemeler
+
+13 Toz
+
+14 Gürültü
+
+15 Titreşim
+
+16 Fiziksel, zihinsel ve psikolojik yük
+
+17 Yildirim
+
+18 Mikroklima
+
+—
+©
+
+UV, IR, lazer ve mikrodalga radyasyonu
+
+N
+©
+
+Elektromanyetik alanlar
+
+N
+—
+
+Sıcak veya soğuk iklim
+
+N
+ho
+
+Yüklerin kaldırılması ve taşınması
+
+N
+w
+
+Uygunsuz vücut duruşu içeren iş
+
+m
+fe
+
+Biyolojik tehlikeler (virüsler, parazitler, küfler, bakteriler)
+
+nN
+Oo
+
+Karsinojenler, mutajenler
+
+N
+oO
+
+Yetersiz ig organizasyonu
+
+IN}
+~
+
+Stres, taciz, usandirma (mobbing)
+
+N
+©
+
+Kapalı yerlerde çalışma
+
+v1
+
+©
+
+i.
+
+Yainiz calisma
+
+[SAYFA 8]
+2402
+
+ISEZUI) Uluslipuguağed
+
+DE pesos -ipy uluslıpuay/aBag
+
+yue 4 iBipjide,
+
+J9}1Iqpa}
+Ua]L1oug ULİJ setup ]EZe UDISTY
+
+(s-1)
+ASIN
+
+(uejo star
+Huaswiiueg OJAruopou o11Yo))
+Jd. Gps} NINAN.LOY JNJAJAJ
+
+(AIga.19A
+ALLEZ [ISEU 9A oUt 34180)
+
+LOPYNYAL
+
+Iseuturjunut) UYULMASI)
+umuoy
+
+(svulo) Wg öğloyuAlojeu
+dA Utuldpj9 tpUtUUZ 1uAy)
+yoAyeuy U9JLL1)$0)Y9İ.131)
+
+HUHUEJNY SUZJE ‘jaye 'URLUĞYI
+
+usewueEpyise UJlUUOSAÂyBEJ BUSE
+
+IPIUNSe/yo5196 uupsjeAyee ewSiyed
+
+yajseyy
+
+ISAWYJQNATHIOZG NSP HUD AYITDITISIN
+
+apy UlUNSA$|
+
+ON BJACS
+
+(eppeWn Mu,2)
+AALSO ‘ll
+
+[SAYFA 9]
+1SEZUJ| uluaspuspebeg
+eee apekoş -Ipy Uluelpueyeğag
+
+syue) Hippded
+
+2403
+
+(1916 'ga sajugalpıalu Yejok
+‘Weyey niog) Hajpouazjei EÂsA
+uejueLudye 'IUENO ewsyed,
+$weLiuejunuej a|Aninpesoid
+
+(uejo SIWUSS
+
+ulug ojÂluapau (1seLuuejunuej
+
+Jejdni6 sn (IJIGO19A 1eleZ
+
+Jal11gpoj U9JUBUO
+UlÖ! YELMNEZE YS
+
+(g-4)
+ysl
+
+ay 4O}) J9]1Gp9}
+nonAnsoy Nady
+
+Joys Yeoajigeley
+ZNJEW 919j9YIJY9L
+
+jiseu 9A au SAIS)
+JOPOHNYSL
+
+ululupje BUUĞIJEİ)
+WNNOY
+
+SauUIpUaLeBbap SH [aswel
+
+ISIMAJINI 103920 MSJY M3 MERE Era 3A UYINYAdIM3 MAVLUO VAĞIIYİ
+
+ap ules}
+
+eee ‘ON ByAeS
+
+(@ppey PU.)
+TALIO I
