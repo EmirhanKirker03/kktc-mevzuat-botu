@@ -1,0 +1,848 @@
+[SAYFA 1]
+775
+Sayı : 329 ;
+ELEKTRONIK HABERLESME YASASI
+(6/2012 ve 21/2014 Sayılı Yasalar)
+Madde 46 Altında Yapılan Tüzük
+
+Kuzey Kibns Türk Cumhuriyeti Bakanlar Kurulu, Elektronik Haberleşme
+Yasası'nın 46'ncı Maddesinin kendisine verdiği yetkiye dayanarak aşağıdaki Tüzüğü
+yapar:
+
+Kısa İsim 1. Bu Tüzük, “Numara Taşınabilirliği Tüzüğü” olarak isimlendirilir.
+> ©
+
+BİRİNCİ KISIM
+
+Genel Kurallar
+
+Tefsir 2. Bu Tüzükte metin başka türlü gerektirmedikçe:
+“Abone”, Bir haberleşme sağlayıcı ile elektronik haberleşme
+hizmetinin sunumuna yönelik olarak yapılan bir sözleşmeye
+taraf olan gerçek veya tüzel kişiyi anlatır.
+“Alıcı o Haberleşme (o Sağlayıcı”, Verici (o haberleşme
+sağlayıcıdan kendisine numara taşınan veya taşınma sürecinde
+olunan haberleşme sağlayıcıyı anlatır.
+“Bakanlık”, Elektronik haberleşmeden sorumlu Bakanlığı
+anlatır.
+“Elektronik Haberleşme Sağlayıcı/Haberleşme Sağlayıcı”,
+Bir elektronik haberleşme şebekesinin operatörü veya
+elektronik haberleşme hizmetleri sağlayan tüzel kişiyi anlatır
+ve Telekomünikasyon Dairesini de kapsar.
+“İlave | İletim Maliyeti”, Tasman numaraya yapılan
+çağrılarda, çağrının kurulumu için gerekli olan ve taşınmamış
+bir numaraya yapılan çağrı için kullanılanlara ilave olarak
+kullanılan anahtarlama ve diğer ilgili sistemler ile transmisyon
+kapasitesi dolayısıyla oluşan numaranın tahsisli olduğu
+haberleşme sağlayıcının arabağlantı kapsamındaki giderlerini
+anlatır.
+“Kullanıcı”, Aboneliği olup olmamasına bakılmaksızın
+elektronik haberleşme hizmetlerinden yararlanan gerçek veya
+tüzel kişiyi anlatır.
+“Kurul”, Yasa tahtında kurulan Bilgi Teknolojileri ve
+Haberleşme Kurumunun Yönetim Kurulunu anlatır.
+“Kurum”, Bilgi Teknolojileri ve Haberleşme Kurumunu
+anlatır.
+“Mobil Numara Taşınabilirliği”, GMPCS (Global Mobile
+Personal Communications by Satellite) dışındaki mobil
+numaralarda gerçekleşen numara taşınabilirliğini anlatır.
+
+[SAYFA 2]
+776
+
+“Numara”, Şebeke sonlanma noktasını tanımlayan ve ses,
+veriler ve görüntülerin o noktaya yönlendirilmesini sağlayan,
+(uygun olduğunda) abone, uygulama, operatör veya hizmet
+sağlayıcıya ait bilgiler içerebilen, harfler ve/veya rakamlar
+veya sembollerden oluşan bir dizi veya kombinasyonu anlatır.
+“Numara Kullanım Haklı Ücreti”, Numara türüne göre
+Yasa'ya ekli Sekizinci Cetvelle belirlenen ve numara kullanım
+hakkı tahsislerinde ödenen tahsis ve kullanım ücretini anlatır.
+
+“Numara Tasmma Duyuru Zamani”, Haberleşme
+sağlayıcıların şebekelerinde, taşınan numara ile ilişkili
+düzenlemeleri yapmalarını teminen, taşınmakta olan numara,
+alıcı şebeke bilgisi ve taşınmanın gerçekleşeceği tarih ve
+saatin duyurulduğu zamanı anlatır.
+
+“Numara Taşınabilirliği”, Abonenin numarasını
+değiştirmeden (o hizmet (aldığı haberleşme O sağlayıcıyı
+değiştirebilmesine imkan veren hizmeti anlatır.
+
+“NTS”, “(Numara Tasmabilirligi Sistemi)”, Taşınmış
+numaralar, bu numaralara ilişkin yönlendirme ve haberleşme
+sağlayıcı bilgileri ile diğer ilgili bilgilerin tutulduğu ve
+numaranın taşınması sırasında haberleşme sağlayıcılar
+arasında bilgi alışverişinde de kullanılabilen ortak referans
+veri tabanını anlatır.
+
+“Numara Taşımabilirliği Yönlendirme Kodu”, Taşınmış bir
+numara için alıcı şebeke bilgisini gösteren ve Kurum
+tarafından haberleşme sağlayıcılara tahsis edilen yönlendirme
+kodunu anlatır.
+
+“Numaranın Tahsisli Olduğu Haberleşme Sağlayıcı”,
+Numara taşınabilirliği o kapsamındaki Kurum tarafından
+numara kullanım hakkının tahsis edildiği haberleşme
+sağlayıcısını anlatır.
+
+“Sistem Kurulum Maliyeti”, Haberleşme sağlayıcının,
+numara taşınabilirliği hizmeti vermek ve/veya taşınmış
+numaralara cag gönderebilmek (üzere, şebeke ve
+sistemlerinde yapacağı yenileme, değişiklik, yazılım ve
+donanım güncellemeleri ve benzeri giderler ile haberleşme
+sağlayıcılar arasindaki test işlemlerinden o kaynaklanan
+giderleri anlatır.
+
+“Tarife Şeffaflığı”, Taşınmış bir numarayı arayan tarafın,
+aradığı numaranın taşındığına ilişkin uyarılması ve/veya
+bilgilendirilmesini anlatır.
+
+“Taşıma Talebi Kontrol Süresi”, Verici o haberleşme
+sağlayıcının alıcı (o haberleşme sağlayıcıdan o numaranın
+taşınması talebini alması ile taşınması istenen numaraya ait
+abonelik ( bilgilerini kontrol ederek alıcı haberleşme
+sağlayıcıya taleple ilgili cevabını bildirmesi arasında geçen
+süreyi anlatır.
+
+[SAYFA 3]
+777
+
+“Taşıma Talebinin İletim Süresi”, Abonenin numarasının
+taşınması için alıcı haberleşme sağlayıcıya başvurusu ile alıcı
+haberleşme sağlayıcının bu talebi gerekli bilgilerle birlikte
+verici haberleşme sağlayıcıya iletmesi arasında geçen süreyi
+anlatır.
+
+“Taşınan Numara Başma İdari Maliyet”, Taşınan numara
+başına verici haberleşme sağlayıcı ve alıcı haberleşme
+sağlayıcının idari giderleri ile ilgili haberleşme sağlayıcıların
+taşınan Oo numara (o kapsamında (Oo yönlendirme bilgileri
+değişikliklerine ilişkin giderlerini anlatır.
+
+“Ulusal Numaralandırma Planı”, Yönlendirme, adresleme,
+fiyatlama veya hizmet türü hakkında bilgi vermek amacıyla
+numaralar için yapıları tanımlayan, numaralandırma planını
+anlatır.
+
+“Verici o Haberleşme (o Sağlayıcı”, (Kendisinden alıcı
+haberleşme o sağlayıcıya numara taşınan veya taşınma
+sürecinde olunan haberleşme sağlayıcıyı anlatır.
+
+6/2012 “Yasa”, Elektronik Haberleşme Yasasını anlatır.
+21/2014
+Amaç 3. Bu Tüzüğün amacı, mobil numara taşınabilirliğinin uygulanmasına ve
+
+ücretlendirilmesine ilişkin usul ve esasları düzenlemektir.
+
+Kapsam 4. Bu Tüzük; mobil numaraların numara taşınabilirliğini kapsar ve
+aboneye tahsisli bir mobil numaraya ilişkin abonelik devam ettiği sürece
+ilgili numara, taşınabilirlik kapsamında yer alır.
+
+İlkeler 5. Bu Tüzüğün uygulanmasında aşağıdaki temel ilkeler göz önüne alınır.
+(1) Serbest, etkin ve sürdürülebilir bir rekabet ortamının sağlanması
+ve korunması,
+
+(2) Ülkenin her yerinde, makul bir ücret karşılığında geniş kapsamlı
+elektronik haberleşme şebeke ve hizmetlerinden
+yararlanılmasının sağlanması,
+
+(3) Tüketici hak ve menfaatlerinin korunması ve gözetilmesi,
+kullanıcı memmnuniyetini artırıcı ve şikâyetleri giderici
+uygulamaların teşvik edilmesi,
+
+(4) Herkesin makul bir ücret karşılığında elektronik haberleşme
+şebeke ve hizmetlerinden eşit bir şekilde aynı hizmeti kalitesinde
+yararlanmasını sağlayacak uygulamaların teşvik edilmesi,
+
+(5) Şebeke ve hizmetlerin birlikte çalışabilirliğinin teşvik edilmesi ve
+şebeke erişiminin kolaylaştırılması.
+
+[SAYFA 4]
+Numara
+Taşıma Talebinin
+Yapılması
+
+778
+İKİNCİ KISIM
+Numara Taşınabilirliğine İlişkin Usul ve Esasları Düzenleyen
+
+Kurallar
+
+6. (1) (A) Numara taşıma işlemiyle ilgili süreç, numarasını taşımak
+isteyen abonenin, abonesi olmak istediği alıcı haberleşme
+sağlayıcıya yazılı olarak veya bu Tüzük uyarınca
+çıkarılması öngörülen yönetmelik ve/veya tebliğler ile
+belirlenecek diğer talep yöntemleri ile talepte bulunmasıyla
+başlar.
+
+(B) Abone yukarıdaki (A) bendinde belirtilen usullerle alıcı
+haberleşme sağlayıcısına talepte bulunulmaması durumunda
+numara taşıma süreci başlatılamaz.
+
+(9) (A) Numarasını taşımak isteyen abone, numara taşınabilirliğine
+ilişkin alıcı haberleşme sağlayıcıya yapacağı yazılı talepte,
+taşınacak numarayı, kimlik ve iletişim bilgilerini, verici
+haberleşme sağlayıcı bilgisini ve tercih ettiği taşıma zamanını
+belirtip imzalar.
+
+(B) Yukarıdaki (A) bendi uyarınca yapılan başvuru, abonenin verici
+hizmet sağlayıcı ile olan abonelik ilişkisine istinaden fesih talebi
+anlamına gelir. Taşınma sürecinde olan numaranın fiilen alıcı
+haberleşme sağlayıcı şebekesine taşınması, abone ile verici
+haberleşme sağlayıcı arasındaki abonelik sözleşmesinin feshi
+anlamına gelecektir.
+
+(3) Abone, alıcı haberleşme sağlayıcı ile taşıma işleminin
+gerçekleşmesinden itibaren geçerli olacak şekilde abonelik
+sözleşmesi yapar. Bu abonelik sözleşmesi, numaranın fiilen
+taşınması ile yürürlüğe girer ve bu tarih itibarı ile hüküm ve
+sonuçlarını doğurmaya başlar.
+
+(4) (A) Abone, Yukarıdaki (2)’nci fıkra uyarınca yapılan talep ile
+numara taşıma işleminin gerektirdiği bilgilerin verilmesine ve bu
+işlemin kendi adına alıcı haberleşme sağlayıcı tarafından
+yürütülmesine onay vermiş sayılır.
+
+(B) Alıcı haberleşme sağlayıcı, abonenin numarasının taşınmasına
+ilişkin yazılı ve imzalı talep suretini, taşıma talebinin iletim
+süresi içerisinde verici haberleşme sağlayıcıya gönderilmek üzere
+NTS'ye iletir.
+
+(5) Alıcı haberleşme sağlayıcı, abonenin numara taşıma talebinde
+doldurulacağı formda;
+(A) Numara taşınması işleminin tamamlanmasını takiben elde edeceği
+hakları,
+
+[SAYFA 5]
+Numara Taşıma
+Talebinin Verici
+Haberleşme
+Sağlayıcı Tarafından
+Alınması
+
+Numara Taşıma
+Talebinin Reddilme
+Koşulları
+
+8)
+(C)
+
+779
+
+Numara (taşınabilirliği isleminin kapsamında üstleneceği
+yükümlülükleri ve
+
+Abonenin verici haberleşme sağlayıcısına karşı olan mali
+yükümlülüklerinin numarasını taşıması ile sona ermediği ile ilgili
+açık ve anlaşılır bir bilgilendirme yapmak zorundadır.
+
+7. (1) Numara taşıma talebininin ulaştığı verici haberleşme sağlayıcı,
+
+aboneye ait numara ve kimlik bilgilerinin doğruluğunu kendi
+kayıtlarıyla karşılaştırarak talep edilen taşıma tarihi ve zamanını
+kontrol eder. Verici haberleşme sağlayıcı taşıma talebi cevabını bu
+Tüzüğün İlinci maddesinin (1)’inci fikrasının (B) bendinde
+belirtilen kontrol süresi içinde taleple ilgili cevabını NTS
+üzerinden alıcı haberleşme sağlayıcıya bildirir.
+
+(2) Verici haberleşme sağlayıcı tarafından yapılacak doğrulama
+
+işlemi, talep sahibi ile taşınması talep edilen numaranın
+doğrulanmasına yöneliktir ve bu kapsamın dışında abone veya
+alıcı (o haberleşme saglayicidan numara taşıma işlemini
+zorlaştırmaya yönelik olarak bilgi ve belge talep edilemez.
+
+(3) Verici haberleşme sağlayıcı, bu Tüzüğün 8'inci maddesinde
+
+4)
+
+(5)
+
+(6)
+
+belirtilen hususlardan biri mevcut ise, taşıma talebinin kontrol
+süresi içinde numaranın taşınmasına yönelik talebi reddeder ve red
+kararını gerekçeleri ile birlikte alıcı haberleşme sağlayıcıya
+gönderir.
+
+Alıcı haberleşme sağlayıcı ret kararını, kararın verici haberleşme
+sağlayıcıdan alınmasını takip eden 24 (yirmidört) saat içerisinde,
+gerekçeleri ile birlikte aboneye, abonenin kendisine sunmuş
+olduğu iletişim bilgileri üzerinden bildirir. Söz konusu gerekçede
+belirtilen (o eksikliklerin (o giderilmesi (o durumunda (o başvuru
+yinelenebilir. o Ancak alict1 (Oo haberleşme Oo sağlayıcısından
+kaynaklanmayan sebeplerden aboneye ulaşılamaması durumunda
+alıcı haberleşme sağlayıcısı sorumlu tutulmayacaktır.
+
+Numara taşınabilirliği kapsamında haberleşme sağlayıcılar
+tarafından edinilen abonelere ait bilgiler, ilgili numaranın
+taşınması amaçlarından farklı amaçlar için kullanılamaz.
+
+Haberleşme sağlayıcılar, numara taşınabilirliği işlemleri sırasında
+abonelere ait elde ettiği kişisel bilgilerin gizliliği konusunda Yasa,
+Yasa uyarınca çıkartılan mevzuat ve diğer düzenleyici işlemler ve
+diğer Yasa kurallarına uygun olarak hareket eder.
+
+8. Verici haberleşme sağlayıcı aşağıdaki fıkralarda belirtilen durumlarda,
+
+numaranın taşınmasına ilişkin talebi reddeder ve bu durumu
+gerekçeleri ile birlikte alıcı haberleşme sağlayıcıya bildirir:
+
+[SAYFA 6]
+780
+
+(1) Numarasını taşımak isteyen abonenin kimlik bilgilerinin,
+abonenin kimliğini ispat edemeyecek derecede yanlış veya eksik
+olması,
+
+(2) Taşınması talep edilen numaranın, numara taşıma talebinde
+bulunan abone adına kayıtlı olmaması.
+
+(3) Numara taşıma talebinde bulunan abonenin, taşımak istediği
+numarasına ilişkin verici haberleşme sağlayıcısında numarasının
+
+değiştirilmesine dair talebinin bulunması,
+
+4
+
+wa
+
+Taşınması talep edilen numara hakkında daha önce başlatılmış ve
+devam eden taşıma işleminin bulunması,
+
+ni
+Nn
+wm
+
+Numara taşıma talebinde bulunan abonenin, verici haberleşme
+sağlayıcısı ile olan abonelik sözleşmesinin devrine veya iptaline
+ilişkin yazılı talebinin bulunması,
+
+(6) Numara taşıma talebinde bulunan abonenin, numaranın tahsisli
+olduğu haberleşme sağlayıcısı ile yapmış olduğu ilk abonelik
+sözleşmesinin imza tarihinden veya haberleşme hizmetlerinin
+aktif hale getirildiği tarihten hangisi daha önce ise bu tarih
+üzerinden üç ay geçmemiş olması,
+
+(7) Numara taşıma talebinde bulunan abonenin en son gerçekleştirdiği
+numara taşıma işleminden itibaren dört ay geçmemiş olması.
+
+Numara Taşıma 9. (1) (A) Verici haberleşme sağlayıcı, alıcı haberleşme sağlayıcı
+İşleminin tarafından gönderilen abone bilgilerinin doğrulamasını
+Gerçekleştirilmesi yaptıktan sonra numara taşıma işleminin gerçekleşme tarih
+
+ve zamanını (gün / saat / dakika), mümkün olduğunca
+abonenin tercihini de dikkate alarak belirler.
+
+(B) Verici haberleşme sağlayıcı tarafından belirlenen taşıma
+tarihi, verici haberleşme sağlayıcının numaranın taşınması
+talebine ilişkin cevabını gönderdiği tarihten itibaren en az
+1(bir) iş günü ve en fazla 2 (iki) iş günü sonrası içerisinde
+kalmak zorundadır.
+
+(C) Numara taşıma tarih ve saati numara taşıma duyuru zamanı
+içerisinde alıcı haberleşme sağlayıcı tarafından aboneye,
+NTS tarafından da ilgili haberleşme sağlayıcılara duyurulur.
+
+(2) (A) Taşıma işleminin gerçekleşmesine kadar, haberleşme
+sağlayıcılar taşımanın gerçekleşeceği zaman ve yönlendirme
+bilgilerini alarak taşımanın gerçekleşeceği tarih ve saatte
+hazır olacak şekilde sistemlerinde gerekli değişiklikleri
+yaparlar.
+
+[SAYFA 7]
+781
+(B) Taşıma işlemi belirlenen zaman aralığında abonenin
+haberleşme kesintisinden en az etkileneceği ve numarasının
+da aynı anda sadece bir haberleşme sağlayıcıda aktif olacağı
+şekilde gerçekleştirilir.
+
+(3) Verici haberleşme sağlayıcı, abonenin son faturalama döneminde
+ve numaranın taşınmasına kadar olan süre içinde gerçekleşen
+borcunu içeren faturasını aboneye gönderir ve konu fatura,
+abonenin depozito, ön ödeme veya avans gibi alacakları düşülerek
+düzenlenir.
+
+(4) Aboneye numarasının taşınacağını hatırlatan kısa mesaj, NTS
+üzerinden, numaranın taşınmasından 3 (üç) iş günü önce aboneye
+gönderilerek hatırlatma yapılır.
+
+Abonenin 10. (1) Abone, taşıma zamanından 2 (iki) iş günü öncesine kadar alıcı
+Vazgeçme haberleşme sağlayıcısına başvurarak numara taşıma talebinden
+Hakla vazgeçebilir.
+
+(2) Abonenin numara taşıma talebinden vazgeçmesi durumunda alıcı
+haberleşme Oo sağlayıcı, abonenin numarasını taşımaktan
+vazgeçtiği bilgisini abonenin alıcı haberleşme sağlayıcıya
+iletmesini takip eden en fazla 6 (altı) saat içinde ancak her
+halükarda talep tarihi ile aynı gün içinde ve bir sonraki güne
+geçmeden verici haberleşme sağlayıcıya bildirerek taşıma
+sürecinin sonlanmasını sağlar.
+
+(3) Abonenin numarasını taşıma talebinden vazgeçtiği bilgisi alıcı
+haberleşme sağlayıcı tarafından NTS üzerinden ilgili haberleşme
+sağlayıcılara duyurulur.
+
+Numara Taşıma 11. (1) Numara taşınabilirliği kapsamında, haberleşme sağlayıcıların
+Kapsamında uymakla yükümlü olduğu süreler aşağıdaki bentlerde belirtildiği
+Uygulanacak Süreler gibidir;
+
+(A) Alıcı haberleşme sağlayıcının abonenin numara taşıma
+talebini verici haberleşme sağlayıcıya iletim süresi en
+fazla 2 (iki) iş gündür.
+
+(B) Verici haberleşme sağlayıcı tarafından yapılacak bilgilerin
+doğruluğunun kontrol süresi en fazla ? (iki) iş gündür.
+
+(C) Numaranın taşıma işleminin gerçekleşme zamanı, verici
+haberleşme sağlayıcının numaranın taşınması talebine
+ilişkin gönderdiği olumlu cevabın tarihinden itibaren en az
+I(bir) iş günü ve en fazla 2 (iki) iş günü içerisinde
+olmalıdır.
+
+[SAYFA 8]
+Taşınmış
+Numaraların
+Kullanım Koşulları
+
+782
+
+(Ç) Abonenin numarasını taşımaktan vazgeçme hakkı,
+bildirimi yapılan taşıma zamanından 2 (iki) iş günü
+öncesine kadardır.
+
+(D) Abonenin numara taşıma talebinden vazgeçmesi durumda
+alıcı haberleşme sağlayıcı, iptal talebininin kendisine
+iletilmesinden itibaren en fazla 6 (altı) saat içinde ancak
+her halükarda talep tarihi ile aynı gün içinde ve bir sonraki
+güne geçmeden, verici haberleşme sağlayıcıya bildirir.
+
+ÜÇÜNCÜ KISIM
+
+Taşınmış Numaralara İlişkin Koşullar
+
+12. Taşınmış numaralar aşağıdaki fıkralarda belirtilen koşullara uygun
+
+olarak kullanılır;
+
+(1) Taşınmış numaralar, Yasa, Yasa uyarınca çıkartılan mevzuat ve
+diğer düzenleyici işlemler ve diğer Yasa kurallarına ve bu
+kurallarla belirlenmiş numara kategorisine uygun olarak
+kullanılır.
+
+(2)(A) Taşınmış numaralara ilişkin numara kullanım hakkı ücreti,
+Yasa ve/veya Yasa uyarınca çıkartılan mevzuat ve diğer
+düzenleyici işlemlerde aksi belirtilmemesi durumunda verici
+haberleşme sağlayıcı tarafından Kurum'a ödenir.
+
+(B) Verici haberleşme sağlayıcı her ayın son günü, taşınmış
+numaraların alıcı haberleşme sağlayıcıda kaldığı gün sayısını
+ve ödediği numara kullanım hakkı bedelinin günlük
+karşılığını alıcı haberleşme sağlayıcıya bildirir. Bildirimi alan
+alıcı haberleşme sağlayıcı 5 (beş) iş günü içerisinde verici
+haberleşme sağlayıcıya ilgili bedelleri öder.
+
+(C) Alıcı haberleşme sağlayıcılar ve verici haberleşme sağlayıcılar,
+her ayın en geç 10'uncu (onuncu) iş gününe kadar taşınmış
+numaralara ilişkin raporlarını Kuruma gönderirler.
+
+(G3) Numaranın ilk tahsis edildiği haberleşme sağlayıcı, alıcı
+haberleşme sağlayıcıya taşınmış olan numarayı, numarayı taşıma
+talebinde bulunan abonenin alıcı haberleşme sağlayıcı ile
+aboneliği sona erip taşınan numara alıcı haberleşme sağlayıcı
+tarafından kendisine iade edilene kadar, bir başka abonesinin
+kullanımına veremez.
+
+(4) Taşınan numara, alıcı haberleşme sağlayıcı nezdinde başka birine
+devredilmez.
+
+[SAYFA 9]
+Numaranın Tekrar
+Taşınması ve İadesi
+
+Numara
+Taşınabilirliği
+Sağlama
+Yükümlülüğü
+
+Çağrıların
+Yönlendirilmesi
+Yükümlülüğü
+
+783
+
+13. (1) Taşınmış bir numaranın tekrar taşınmasında veya numaranın ilk
+tahsis edildiği haberleşme sağlayıcıya geri taşınmasında, bu
+Tüzükte belirtilen numara taşıma sürecine ilişkin kurallar
+uygulanır.
+
+Pi
+Nh
+—
+
+Numarasını taşımış bir abone ile alıcı haberleşme sağlayıcı
+arasındaki abonelik sözleşmesinin sona ermesi ve abonenin diğer
+bir haberleşme sağlayıcıya numarasının taşınması talebinde
+bulunmaması durumunda, alıcı haberleşme sağlayıcı, en geç 30
+(otuz) iş günü içerisinde söz konusu numarayı numaranın ilk
+tahsis edildiği haberleşme sağlayıcıya iade eder ve bu durumu
+iadeyi takip eden 30 (otuz) iş gün içerisinde ilgili diğer
+haberleşme sağlayıcılara duyurur.
+
+DÖRDÜNCÜ KISIM
+
+Haberleşme Sağlayıcıların Yükümlülülderi
+
+14. Bu Tüzüğün 4'üncü maddesinde belirtilen ve kendilerine tahsis edilen
+numaraları haberleşme sağlayıcılar, abonelerine tahsis etmesi
+durumunda bu Tüzük kuralları uyarınca, numara taşmabilirliğini
+sağlamakla yükümlüdür.
+
+15. (1) Haberleşme sağlayıcılar, taşınmış bir numaraya doğru başlattıkları
+veya taşıdıkları çağrıların, alıcı haberleşme sağlayıcıya işbu
+Tüzük ve bu Tüzük altında çıkartılan mevzuat ve düzenleyici
+işlem kuralları uyarınca doğru bir şekilde vönlendirilmesinden
+sorumludurlar.
+
+(2) Taşınmış numaralara yapılan çağrılar, uluslararası standartlarla
+belirlenen çağrı kurulma sürelerine uygun olarak yönlendirilir.
+
+(3) Taşınmış numaraya doğru yurt dışından başlatılan çağrıları yurt
+içinde ilgili haberleşme sağlayıcıya taşıyan haberleşme sağlayıcı,
+çağrıyı başlatan haberleşme sağlayıcı gibi değerlendirilir ve işbu
+Tüzük ve bu Tüzük altında çıkartılan mevzuat ve/veya diğer
+düzenleyici işlem kuralları ve/veya ilgili mevzuat uyarınca bu
+madde kurallarında belirtilen çağrı yönlendirme
+yükümlülüklerine tabidir.
+
+[SAYFA 10]
+784
+
+(4) Yurt içindeki bir sabit telefon şebekesinden taşınmış numaraya
+doğru çağrı başlatan haberleşme sağlayıcı Tüzük ve bu Tüzük
+altında çıkartılan mevzuat ve/veya diğer düzenleyici işlem
+kuralları ve/veya ilgili mevzuat uyarınca bu madde kurallarında
+belirtilen çağrı yönlendirme yükümlülüklerine tabidir.
+
+Tarife 16. (1) İlgili haberleşme sağlayıcı, tarife şeffaflığına ilişkin Kurum
+Şeffaflığı tarafından belirlenen kurallara uymak ve önlemleri almakla
+yükümlüdür.
+
+(2) (A) Haberleşme sağlayıcı, arayan abone için aradığı mobil
+numaranın taşınmış olduğunu belirtmek üzere ve ayırt edici
+olacak şekilde Kurum tarafından belirlenen uyarı tonunu
+verir.
+
+(B) Uyarı tonunu almak istemeyen abone, haberleşme
+sağlayıcısına başvurarak bu hizmeti almayabilirler.
+
+(CO) Yukarıdaki (B) bendi uyarınca numaranın taşındığına dair
+uyarı tonu hizmetini almak istemeyen abonenin ilgili
+hizmeti tekrar alma hakları saklıdır.
+
+(3) Kurum, tüketicilerin korunması amacıyla alacağı bir karar ile,
+tarife şeffaflığına yönelik olarak, haberleşme sağlayıcılara uyarı
+tonu yükümlülüğü yerine veya uyarı tonu yükümlülüğüne ek
+olarak başka yükümlülükler de getirebilir.
+
+(4) Haberleşme sağlayıcı, abonelerine, şebekesinden veya şebekesine
+taşınan numaralar ve bu numaralara uygulanan tarifeler ile ilgili
+olarak telefonla, internet üzerinden veya kısa mesaj yoluyla
+duyuru göndermek suretiyle de bilgilendirme hizmeti verebilir.
+
+Kuruma 17. o Haberleşme sağlayıcılar, şebekelerinden başka bir şebekeye veya
+
+Bilgi başka bir şebekeden kendi şebekelerine taşınan numaralarla ilgili
+
+Verme Yükümlülüğü olarak Ocak ve Temmuz aylarının sonuna kadar geriye dönük altı
+aylık olacak şekilde bilgileri içeren raporlarını Kuruma
+gönderirler;
+
+(1) Sebekesinden taşınan numara sayısı,
+
+(2) Şebekesine taşınan numara sayısı,
+
+(3) Şebekesinden taşınma talebinde bulunan abone sayısı,
+
+(4) Şebekesine taşınma talebinde bulunan abone sayısı,
+
+(5) Reddedilen taşıma taleplerinin sayıları ve gerekçeleri,
+
+(6) Şebekesinden ve şebekesine doğru gerçekleşen ortalama
+taşınma süresi, ve
+
+(7) Kurum tarafından talep edilen diğer bilgiler.
+
+[SAYFA 11]
+Numara
+Taşınabilirliği
+Sisteminin
+Kurulması
+
+Ve İşletilmesi
+
+(NTS)
+
+Numara
+Taşınabilirliği
+Sisteminin (NTS)
+
+Kullanılması
+
+785
+
+BEŞİNCİ KISIM
+Numara Taşınabilirliği Sistemi (NTS)
+
+18. (1) (A) Kurum mobil numara taşınabilirliğinin uygulanmasına ve
+“ ücretlendirilmesine ilişkin numara taşınabilirliği sistemini ©
+(NTS) kurar veya ihale yoluyla üçüncü kişilere de
+kurdurabilir.
+
+(B) Yukarıdaki (A) bendi uyarınca kurulan NTS, Kurum
+düzenlemeleri uyarınca kurulur ve Kurum tarafından
+işletilir.
+
+(2) NTS, ilgili haberleşme sağlayıcıların sistemleri ile bağlantılı olur
+ve taşıma taleplerinin girilmesi, kontrol edilmesi, taşınan
+numaraya ilişkin bilgilerin diğer haberleşme sağlayıcılara
+duyurulması, taşınmış numaralar ve bu numaralara ait
+yönlendirme bilgilerinin tutulması ile numara taşınabilirliğine
+ilişkin olarak haberleşme sağlayıcılar arası bilgi alışverişi ve
+benzeri işlemler amacıyla kullanılır. Ancak NTS, haberleşme
+sağlayıcılar tarafından çağrı kurulumu sırasında aranan
+numaranın sorgulanması amacıyla kullanılamaz.
+
+(3) NTS kurulum maliyetleri Kurum tarafından karşılanır.
+
+19. (1) Haberleşme sağlayıcı, NTS'nin kopyasının veya kopyalarının
+kendi şebekesinde kurmakla, düzenli olarak güncellemekle,
+işletmekle ve bu hizmeti kesintisiz sağlamakla
+yükümlüdür. Sorgulama işlemleri, haberleşme sağlayıcının kendi
+sisteminde bulunan veri tabanlarıyla gerçekleştirilir.
+
+olarak
+
+(2) Haberleşme sağlayıcı, numara taşınabilirliği kapsamında kendi
+sisteminde oluşabilecek arıza durumunda, arızanın giderilmesine
+yönelik gereken tüm tedbirleri almakla yükümlü olup kayıtlarında
+arıza oluşması durumunda, taşınmış numaralara ilişkin bilgileri
+diğer haberleşme sağlayıcılardan veya NTS’den temin edebilir. ©
+
+(3) Kurum, NTS ve haberleşme sağlayıcılarının kendi şebekesinde
+kurulu kopyası veya kopyalarındaki sistem güncelleme süreleri
+ve/veya arıza durumlarında arızanın giderilmesine yönelik
+uyulması gereken süreler ve süreçler ile ilgili Yönetmelikler
+çıkarabilir veya Tebliğler yayımlayabilir.
+
+[SAYFA 12]
+Genel İlkeler
+
+Numara
+4 AŞMA kana saya
+
+Maliyet Kalemleri
+
+Sistem
+Kurulum
+Maliyeti
+
+Taşman
+Numara Başına
+İdari Maliyet
+
+786
+ALTINCI KISIM
+
+Numara Taşınabilirliğine Yönelik Maliyetler ve
+
+Uygulanacak Ücretlere İlişkin Esaslar
+
+20. Numara taşınabilirliğine ilişkin ücretlerde, aşağıdaki ilkelere uyulur;
+
+(1)Numara ( taşınabilirliği (o kapsamında, (aboneye doğrudan
+yansıyabilecek ücretler, abonelerin bu hizmeti almalarını
+engelleyici nitelikte olamaz.
+
+(O) Numara taşınabilirliği kapsamında verici haberleşme sağlayıcı,
+numarasını taşıyan aboneden herhangi bir ad altında bir defalık
+veya dönemsel olarak ücret talep edemez.
+
+(G) Numara taşınabilirliğine ilişkin haberleşme sağlayıcılar arası
+ücretler Yasa, Yasa uyarınca çıkartılan ilgili mevzuat ve/veya
+Kurul kararlarına ve 23'üncü Maddede belirtilen kurallara aykırı
+olmayacak şekilde kendi aralarında karşılıklı müzakere edilerek
+serbestçe belirlenir.
+
+21. Numara taşınabilirliğine yönelik maliyet kalemleri,
+(1) Sistem kurulum maliyeti,
+
+(2) Taşınan numara başına idari maliyet, ve
+
+(3) İlave iletim maliyetinden oluşur.
+
+22. (1) NTS kurulum maliyeti Kurum tarafından karşılanır.
+
+(2) Haberleşme sağlayıcı, numara taşınabilirliği hizmeti vermek veya
+taşınmış numaralara çağrı göndermek üzere kuracağı yazılım ve
+donanım sistemleri ile mevcut sistemlerinde yapacağı değişiklikler
+ve sistem testlerinden doğan maliyeti ve NTS'nin kopyasının
+kendi şebekesinde kurulmasına dair giderleri kendisi karşılar.
+
+23. (1) (A) Verici haberleşme sağlayıcı, şebekesinden taşınan her bir
+numara için oluşan idari maliyetini alıcı haberleşme
+sağlayıcıdan alacağı bir defalık ücret ile karşılayabilir.
+
+(B) Yukarıda (A) bendinde belirtilen ücret maliyet esaslı
+belirlenir. Kurumun, ücretlerin maliyet esaslı
+belirlenmediğine karar vermesi durumunda, söz konusu ücret
+Kurum tarafından Türkiye ve Avrupa Birliği üyesi ülkelerin
+uygulamaları uygun olduğu ölçüde dikkate alınarak belirlenir.
+Kurumun belirlediği ücretler bağlayıcıdır.
+
+[SAYFA 13]
+İlave İletim
+Maliyeti
+
+Numara
+Taşınabilirliği
+Yönlendirme
+Kodları
+
+Tüketici Hakları
+Ve Tüketicilerin
+Bilgilendirilmesi
+
+787
+
+(2) Alıcı haberleşme sağlayıcı, şebekesine numarasını taşıyan
+aboneden, abonenin bu hizmetten yararlanmasını engellemeyecek
+ücreti bir defalık talep edebilir ve konu ücret taşınan numara için
+alıcı haberleşme sağlayıcının karşılamak zorunda kaldığı
+maliyetin üzerinde olamaz.
+
+(3) Kurum gerekli görmesi durumunda, yukarıdaki (2)’nci fıkrada
+belirtilen ve alıcı haberleşme sağlayıcının aboneden alacağı söz
+konusu ücreti belirlemek için tebliğ yayımlayabilir ve/veya
+yönetmelik çıkarabilir.
+
+(4) Haberleşme sağlayıcılar, taşınan numaralara ait yönlendirme
+bilgilerinde yapacakları değişikliğin maliyetini kendileri karşılar,
+
+(5) Abonenin numara taşınabilirliği dışında, aboneliğini iptal ettirmesi
+durumunda oluşan maliyetler, verici haberleşme sağlayıcının alıcı
+haberleşme sağlayıcıdan karşılayabileceği idari maliyet içerisinde
+yer almaz.
+
+24. Taşınmış bir numaraya çağrı başlatan haberleşme sağlayıcı,
+oluşabilecek ilave iletim maliyetini karşılar.
+
+YEDİNCİ KISIM
+Çeşitli Kurallar
+
+25. Numara taşınabilirliği yönlendirme kodları Kurum tarafından
+belirlenir ve ilgili haberleşme sağlayıcılara tahsis edilir. Haberleşme
+sağlayıcılar, tahsis edilen yönlendirme kodlarını şebekelerinde
+tanımlamak ve çağrıların doğru bir şekilde yönlendirilmesini temin
+etmek için gerekli düzenlemeleri yapmakla yükümlüdürler,
+
+26. (1) Haberleşme sağlayıcılar numara taşınabilirliği kapsamında,
+tüketicilerin menfaatlerinin korunmasını, numara taşınabilirliği
+hizmetinden en iyi koşullarda faydalanabilmelerini ve hizmet
+hakkındaki bilgilere kolayca ulaşabilmelerini sağlamak amacıyla
+gerekli her türlü tedbiri alırlar.
+
+(2) Haberleşme sağlayıcılar, numara taşıma konusundaki taleplerin
+yapılma usulünü, talep esnasında verilmesi gereken bilgi ve
+belgeleri, numara taşıma işleminin gerçekleşme süresi, numara
+taşıma karşılığında herhangi bir ücret ödenip ödenmeyeceği ve
+benzeri konularda tüketicileri bilgilendirir ve bu bilgileri asgari
+olarak internet sitelerinde yayımlarlar.
+
+[SAYFA 14]
+Hizmet Kalitesi
+09.05.2014
+R.G. 111
+
+EK DI
+
+A.E. 295
+
+Uzlaştırma
+04.03.2014
+R.G. 51
+EK HI
+A.E.157
+
+İdari Yaptırımlar
+
+Usul ve Esaslar
+
+788
+
+27. Taşınmamış numaralara uygulanan Yasa ve Yetkilendirme,
+Numaralandırma ve Spektrum Tüzüğü ile belirlenen hizmet kalitesi
+koşulları, taşınmış numaralar için de uygulanır.
+
+28. (1) Kurum, numara taşınabilirliğinin erişim veya arabağlantı
+ücretleriyle ilişkili uyuşmazlıklarda, Erişim, Arabağlantı, Piyasa
+Analizi ve Tarifler Tüzüğünün 8'inci maddesi kuralları uyarınca
+hareket eder.
+
+(2) Bu Tüzükte yer alan diğer ücretlerle ilgili uyuşmazlıklarda ve
+haberleşme sağlayıcıların 30 (otuz) iş günü içinde aralarında bir
+uzlaşmaya varamadıklarını Kuruma bildirilmesi durumunda;
+
+(A) Kurum, ilgili tarafların ücretler konusundaki talepleri ve
+tekliflerinin gerekçeleri ile birlikte 15 (onbeş) iş gün içinde
+Kuruma gönderilmesini talep eder.
+
+(B) Ücretlerle ilgili talep ve tekliflerin Kuruma ulaşmasının
+ardından Kurul, söz konusu talepler ve teklifler ile
+uluslararası (ouygulamalar ve öngörülebilen maliyet
+unsurlarını göz önünde bulundurarak ücretlerin üst
+sınırlarını belirler.
+
+29. Haberleşme sağlayıcının faaliyetlerinin veya fiillerinin Yasa, bu
+Tüzük ve ilgili mevzuatla belirlenen kural ve koşullara aykırı olması
+durumunda, haberleşme sağlayıcıya Yasa ve ilgili diğer mevzuat
+uyarınca idari para cezası veya diğer yaptırımlar ile tedbirler uygulanır.
+
+30. Kurum, bu Tüzük kapsamındaki elektronik haberleşme şebekelerinde
+numara taşınabilirliği hizmet sürecine, talep ve/veya başvuru ve/veya
+iptal yöntemlerine, NTS sistemi ve NTS sistemine bağlı sistemlerde
+sistem güncelleme süreleri ve/veya arızanın giderilmesine yönelik
+uyulması gereken süreler ve süreçlere ve numara taşınabilirliği
+hizmetinin ücretlendirilmesine yönelik Yönetmelikler çıkarabilir veya
+Tebliğler yayimlayabilir.
+
+[SAYFA 15]
+Geçici Madde
+Numara Taşınabilirliği
+Hizmetinin Başlangıç
+Tarihi
+
+Yürütme Yetkisi
+
+Yürürlüğe Giriş
+
+789
+
+SEKİZİNCİ KISIM
+
+Geçici ve Son Kurallar
+
+1. Kurum, numara taşınabilirliği uygulamasını bu Tüzüğün yürürlüğe
+girmesi ve numara taşınabilirliği sisteminin devreye alınmasından
+itibaren başlatır. Ancak, haberleşme sağlayıcılar Kurum tarafından
+kurulacak Numara taşınabilirliği sisteminin devreye alınmasını
+beklemeksizin bu Tüzük kuralları uyarınca gerekli düzenlemeleri
+yapmakla ve numara taşınabilirliğini Kurum ile eşzamanlı olarak
+uygulamaya geçirmekle yükümlüdürler.
+
+31. Bu Tüzük elektronik haberleşmeden sorumlu Bakanlık tarafından
+yürütülür.
+
+32. Bu Tüzük, Resmi Gazetede yayımlandığı tarihten başlayarak
+yürürlüğe girer.

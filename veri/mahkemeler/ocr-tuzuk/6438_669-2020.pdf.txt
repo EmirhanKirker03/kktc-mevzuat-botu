@@ -1,0 +1,436 @@
+[SAYFA 1]
+1003
+
+KUZEY KIBRIS TÜRK CUMHURİYETİ
+RESMİ GAZETE
+
+Sayı: 179 EK III 16 Eyliil, 2020
+TEBLİĞ VE İLANLAR
+
+Sayı : 669
+
+TRAFİK HİZMETLERİNİN PLANLANMASI,
+KOORDİNASYONU VE DENETİM YASASI
+
+(27/2016 Sayılı Yasa)
+
+Madde 8 Altında Yapılan Tüzük.
+
+Kuzey Kıbrıs Türk Cumhuriyeti Bakanlar Kurulu, Trafik Hizmetlerinin Planlanması,
+
+Koordinasyonu ve Denetimi Yasası'nın 8'inci maddesinin (4'üncü fıkrasının kendisine verdiği
+yetkiye dayanarak aşağıdaki Tüzüğü yapar:
+
+(1743)
+
+[SAYFA 2]
+Tefsir
+
+1744
+
+Kısa İsim 1. Bu Tüzük Akaryakıt İstasyonlarının Niteliklerini Düzenleme Tüzüğü
+
+2.
+
+olarak isimlendirilir.
+
+Birinci Kisim
+Genel Kurallar
+
+Bu Tüzükte metin başka türlü gerektirmedikce;
+
+“Akaryakıt İstasyonu”, Esas itibarıyla karayolunda seyreden araçların
+akaryakıt, yağ, basınçlı hava gibi ihtiyaçlarının sağlandığı ve taşıtlarla ilgili basit
+teçhizat parçaları ile hizmetlerin verildiği bakım-onarım, yağlama ve yıkama gibi
+işlerin yapılabildiği tesisleri anlatır.
+
+“Ana Yol”, Ana trafiğe açık olan ve bunu kesen karayolundaki trafiğin, bu yolu
+geçerken veya bu yola girerken, ilk geçiş hakkını vermesi gerektiği işaretlerle
+belirlenmiş karayolunu anlatır.
+
+“Ayrılma şeridi (Yavaşlama şeridi)”, Bir platformdan ayrılacak olan bir taşıtın
+hızlı trafik akımından ayrıldıktan sonra ilerideki kurba güvenle girmek için
+yavaşlamasını sağlayan bir hız değiştirme şeridini anlatır,
+
+“Bölünmüş yol”, Bir yöndeki trafiğe ait taşıt yolunun bir ayırıcı ile belirli şekilde
+diğer taşıt yolundan ayrılması ile meydana gelen karayolunu anlatır.
+
+“Birinci sınıf yol”, Platform genişliği 10 metre olan yolu anlatır.
+
+“Dever”, Yatay kurplarda merkez! > kuvveti nedeniyle taşıtların dışarıya
+savrulmalarını önlemek için yol platforn 'na uygulanan enine eğimini anlatır.
+“Dördüncü sınıf yollar”, Platform genişliği 6 metreden az olan yolları anlatır.
+“Duruş görüş mesafesi (DGM)”, Sürücülerin bir tehlikeyi fark edip durabilmeleri
+için gerekli mesafeyi anlatır.
+
+“Geometrik standart”, Yolun; genişlik, eğim, kurp yarıçapları, proje hızı ve
+trafik sayısı gibi ölçülerini anlatır.
+
+“Görüş Mesafesi”, Karayolu güvenliği açısından sürücülerin, kendi şeridinde
+seyir halinde iken ilerisinde beklenmedik bir obje ile karşılaştıklarında kontrollü
+manevra yapabilmelerini sağlayacak mesafeyi anlatır.
+
+“Güzergâh (Geçki)”, Karayolunun harita üzerinde takip etmiş olduğu yatay hattı
+anlatır.
+
+“İkinci sınıf yollar”, Platform genişliği 8 metre olan yolları anlatır.
+
+“İşletme hızı”, Serbest akım koşullarında sürücülerin yaptıkları hızı anlatır.
+
+“İzin veren yetkili merci”,Trafik ve Ulaştırma Hizmetleri Komisyonu'nun
+önerisi doğrultusunda karar veren Kaymakamı anlatır.
+
+“Katılma şeridi (Hızlanma şeridi)”, Bir platforma giren bir taşıtın üzerinde
+seyredeceği ve hızını, transit trafiğe daha güvenle katılacak düzeye çıkarmasına
+
+[SAYFA 3]
+14/1959
+67/1963
+16/1971
+31/1976
+18/1979
+47/1984
+48/1989
+6/1992
+
+Amaç 3.
+
+Akaryakıt
+
+İstasyonlarının
+Kurulmasına
+İzin Veren
+Yetkili Merci
+
+1745
+
+olanak vermek, gerekli katılma mesafesini sağlamak ve nihayet ana platformdaki
+trafiğe de gerekli olabilecek manevra ve davranışları yapabilmek için gerekli
+zaman ve mesafeyi bırakmak amacıyla tesis edilmiş şeridi anlatır.
+
+“Kavşak”, İki veya daha fazla karayolunun kesişmesi, birleşmesi ve ayrılması ile
+oluşan ortak alanları anlatır.
+
+“Kavşak başlangıcı”, Kavşak kollarından kavşağa yaklaşırken bulunulan
+kesimde geometrik değişikliğin başladığı kesittir. Bu kesit Karayolları Dairesi
+tarafından tespit edilir.
+
+“Kurp (Yatay ve düşey kurp)”, Proje yatay ve düşey hattındaki doğrusal
+kesimleri birleştiren eğrisel veya dairesel karayolu kesimini anlatır.
+
+“Parsel”: tapu ve imar yasalarına göre üzerinde tek bir yapı kurulabilecek
+biçimde bölümlenmiş toprak parçasını anlatır.
+
+“Sayısal arazi modeli”, Arazi yüzeyinin X,Y, Z koordinatları ile sayısal olarak
+temsil edilmesini anlatır.
+
+“Şerit”, Taşıtların bir dizi halinde güvenli seyredebilmeleri için taşıt yolunun
+ayrılmış bölümünü anlatır.
+
+“Tali yol”, Genel olarak üzerindeki trafik yoğunluğu bakımından, bağlandığı
+yoldan daha az önemde olan yolu anlatır.
+
+“Üçüncü sınıf yollar”, Platform genişliği 6 metre olan yolları anlatır.
+
+“Yaya kaldırımı”, Karayolunun taşıt yolu kenarı ile gerçek ve tüzel kişilere ait
+mülkler arasında kalan ve yalnız yayaların kullanımına ayrılmış olan kısmını
+anlatır.
+
+“Yollar”, Yollar ve Binalar Düzenleme Yasası'nın ona verdiği anlamı anlatır.
+
+Yol güvenliğini ve trafik akışını olumsuz etkileyebilecek, maddi ve manevi
+kayıplara sebep olabilecek yerlerde akaryakıt istasyonlarının açılmasının
+engellenmesi ve akaryakıt istasyonlarının, kurulurken belli bir standart ve kaliteye
+uygunluğunun sağlanmasıdır.
+
+İkinci Kısım
+Akaryakıt İstasyonlarının Kurulması
+
+4. (1) Akaryakıt İstasyonlarının kurulması Trafik ve Ulaştırma Hizmetleri
+Komisyonu'nun olumlu görüşü ile Kaymakamın iznine bağlıdır.
+
+(2) Bu izin verilirken Trafik akışının ve yol güvenliğinin kurulacak
+Akaryakıt İstasyon binasından olumsuz etkilenip etkilenmeyeceği,
+Kaymakam tarafından bu tüzüğün bağlı olduğu Yasa ve bu tüzüğün
+kurallarına göre değerlendirilir.
+
+[SAYFA 4]
+Akaryakıt 5.
+
+İstasyonlarının
+Yer Standartları
+
+Görüş Mesafesi 9.
+
+Tespiti
+
+Kavşak 7.
+
+Mesafesinin
+Tespiti
+
+İki Akaryakıt 8.
+
+İstasyonu
+Arasındaki
+Mesafe
+
+1746
+
+Akaryakıt istasyonlarının yerlerinin belirlenmesinde kabul edilebilecek olan
+minimum standartlar aşağıdaki gibidir;
+
+(1) Minimum Parsel Büyüklüğü
+Akaryakıt İstasyonunun kurulacağı alanının parsel büyüklüğü tüm yollar için
+en az 3000 metre kare olmalıdır.
+
+2) Anayola Minimum Cephe
+Akaryakıt İstasyonunun anayola olan cephe genişliği en az 60 metre
+olmalıdır. :
+
+(3) Kavşak Mesafesi
+Akaryakıt İstasyonuna ait geçiş yolu ekseninin taşıt yolu dış kenarı ile
+
+kesiştiği noktanın kavşak başlangıcına mesafesi;
+(A) Bölünmüş yollarda 200 metre;
+
+(B) Birinci sınıf yollarda 200 metre;
+(C) İkinci sınıf yollarda 125 metre;
+(Ç) Üçüncü sınıf yollarda 65 metre olmalıdır.
+
+(4) Görüş Mesafesi
+(A) Bölünmüş yollarda düşeyde ve yatayda 200 metre;
+
+(B) Birinci sınıf yollarda düşeyde ve yatayda 200 metre;
+(C) İkinci sınıf yollarda düşeyde ve yatayda 125 metre;
+
+(¢) Üçüncü sınıf yollarda düşeyde ve yatayda 65 metre
+
+olmalıdır.
+(5) Akaryakıt İstasyonu. a Anayoldan Giriş — Çıkış yapılması
+
+(A) Birinci, ikinci ve üçüncü sınıf yollarda Akaryakıt
+İstasyonuna giriş-çıkışların düzenlenmesi için Karayolları
+Dairesinin görüş ve onayının alınması zorunludur.
+
+(B) Bölünmüş yollarda Akaryakıt İstasyonuna giriş çıkış,
+Karayolları Dairesinin görüş ve onayında ayrılma ve
+katılma şeritli olarak yapılacaktır.
+
+(1) Görüş mesafesinin tahkikinde, tesisin giriş ve çıkış yolu
+eksenlerinin, ayrı ayrı taşıt yolu kenar çizgisi (kaplama kenarı) ile
+kesiştiği nokta kotunun | (Bir) metre yukarısından bakıldığı zaman
+taşıt yolunun her iki yönünde ve aranacak mesafe içinde, taşıt
+yolunun her noktasının 1 (Bir) metre yukarisinin açık olarak
+görülmesi şartı aranır.
+
+(2) Görüş Mesafesi belirlenirken görüşün açık olması şarttır.
+
+İzin talep edilen Akaryakıt İstasyonunun kavşağa olan mesafesi kavşak
+başlangıcı esas alınarak ölçülür. Bu kesit Karayolları Dairesi tarafından tespit
+edilir.
+
+(1) Karayolları Dairesi tarafindan sınıflandırılan Birinci, İkinci ve Üçüncü
+sınıf yollarda, iki Akaryakıt İstasyonu arasındaki en az mesafe motorlu
+araç ile birinci, ikinci ve üçüncü sınıf anayollar kullanılarak gidilen 7
+km olmalıdır.
+
+[SAYFA 5]
+Akaryakıt
+İstasyonlarının
+Kurulamayacağı
+Yerler
+
+Görüş Talep
+Edilecek olan
+Dairelerin
+Bakacakları
+Konular
+
+Akaryakıt
+İstasyonu
+Sahibinin Sigorta
+Yapma
+Zorunluluğu
+Fasıl 333
+711960
+38/1989
+17/1996
+8/1997
+48/2002
+54/2005
+19/2008
+44/2018
+
+10.
+
+Ld.
+
+(2)
+
+(3)
+
+(4)
+
+1747
+
+Birinci, İkinci ve Üçüncü sınıf yollarda, mesafe tetkikinde, parsel
+sınırları baz alınarak ve iki istasyonu birbirine bağlayacak taşıt yolu dış
+kenarını takip ederek ölçülür, eğer iki istasyonun cepheleri yolun farklı
+tarafından ise mevcut istasyonun yapılacak olan benzin istasyonuna
+yakın olan parsel sınırının izdüşümünün karşı taraf taşıt yolu dış
+kenarını kestiği nokta başlangıç noktası alınarak, yapılan benzin
+istasyonunun, mevcut benzin istasyonuna yakın olan parsel çizginin
+taşıt yolu dış kenarını kestiği noktaya kadar olan mesafe ölçülür ve iki
+istasyon arasındaki mesafe bulunur.
+
+Karayolları Dairesi tarafından sınıflandırılan Bölünmüş anayollarda
+kurulacak olan iki Akaryakıt İstasyonu arasındaki en az mesafe trafik
+akış yönü baz alınarak en az 7 km olmalıdır.
+
+Karayolları Dairesi tarafından sınıflandırılan Bölünmüş anayollarda
+güvenlik açısından karşılıklı kurulacak akaryakıt istasyonlarında,
+parseller arasındaki mesafe, taşıt yolu gözetmeksizin bir (1) km den az
+olamaz.
+
+Akaryakıt istasyonlarının aşağıda belirtilen yerlerde kurulmasına izin
+
+verilemez:
+
+(1) Yol koruma şeridi olan ilan edilmiş anayolları.
+
+(2) Eski eserler, ibadet yerleri, eğitim kurumları ve kamu binalarına, çarşı,
+pazar yeri, turistik tesis, tiyatro, sinema ve benzeri toplumsal hizmet
+binalarına 200 metreden daha az mesafede,
+
+(3) Konut Alanları
+
+(1) Tüzüğün 5'inci maddesinin (1)’inci ve (O2Yici fıkrası ile 9’uncu
+maddesi ve talep edilen yerin imara açık olması ile ilgili görüşler Şehir
+Planlama Dairesi tarafından verilir.
+
+(2) Tüzüğün 5'inci maddesinin (3'üncü, (4y'üncü ve (5)’inci fıkraları ile
+
+6'ncı, 7'nci ve 8'inci maddeleri ile ilgili görüşler Karayolları Dairesi
+tarafından verilir.
+
+Akaryakıt İstasyonu sahiplerinin, üçüncü kişileri koruması amacı ile sigorta
+yapması zorunludur. Sigorta bedelleri için Motorlu Araçlar Üçüncü Şahıs
+Sigortası Yasası'nda düzenlenen miktarlar kabul edilir.
+
+[SAYFA 6]
+Akaryakıt
+İstasyonlarının
+Faaliyete
+Başlama Süresi
+
+Akaryakıt
+İstasyonlarının
+Aktarılması
+
+Amaç Dışı
+Kullanım
+
+Bilgi
+Verme
+Yükümlülüğü
+
+Sayısal Harita
+
+Trafik ve Yol
+Güvenliğinin
+Tehdit Edilmesi
+Fasıl 83
+2/1960
+46/1991
+10/1997
+68/2002
+57/2005
+
+9/2014
+
+Gegici Madde
+
+12.
+
+13.
+
+14.
+
+15.
+
+16.
+
+ive
+
+1748
+
+Akaryakit istasyonu Kurulma izni sahibi, iznini aldığı tarihten itibaren on
+sekiz ay içerisinde olağanüstü haller dışında (tabii afet, tehlikeli salgın
+hastalıklar, ağır ekonomik bunalım ve anayasa ile kurulan hür demoktasi
+düzenini veya temel hak ve hürriyetleri ortadan kaldırmaya yönelik yaygın
+şiddet hareketlerine ait ciddi belirtilerin ortaya çıkması veya şiddet olayları
+sebebiyle kamu düzeninin ciddi şekilde bozulması) herhangi bir sebepten
+ötürü Akaryakıt İstasyonunu faaliyete geçirmediği takdirde izni iptal edilir.
+
+İzin verilen Akaryakıt İstasyonu, herhangi başka bir bölge veya parsele
+aktarılamaz veya taşınamaz.
+
+Akaryakıt İstasyonu İzni alındıktan sonra, bu Tüzüğün 2'nci maddesinde
+belirtilen “Akaryakıt İstasyonu” tanımına uymayan izinleri denetleme ve
+izinleri hakkında görüş vermeye Komisyon yetkilidir. Bu görüşlerini
+Kaymakamlığa bildirmekle yükümlüdür.
+
+Akaryakıt İstasyonu Kurulma İzninin ilgili Kaymakamlık tarafından izine
+başvuran kişiye tebliğ edilmesinden itibaren on beş gün içerisinde, ilgili
+Kaymakamlık tarafından Trafik ve Ulaştırma Hizmetleri Komisyonu
+üyelerine ve görüş veren kurum ve kuruluşlara da bilgi verilmesi
+gerekmektedir.
+
+Bu Tüzüğün yürürlüğe girdiği tarihten itibaren bir yıl içerisinde Trafik ve
+Ulaştırma Hizmetleri Komisy. 11, Kaymakamlıklar tarafından izin verilmiş
+olan tüm akaryakıt istasyonların: ait sayısal bir harita çıkartır.
+
+Anayola giriş-çıkış yapılması, trafik ve yol güvenliğini tehlikeye sokacak
+herhangi bir yapısal oluşumda veya Karayolları Dairesi Müdürlüğü'nün
+olumsuz raporuna karşı verilen herhangi bir izinle kurulan istasyonun
+anayola giriş çıkış yapması halinde yürürlükteki herhangi bir yasaya
+bakılmaksızın Kamu Yolları (Koruma) Yasası (Fasıl 83)’iin Karayolları
+Dairesi'nin müdürüne verdiği yetkiye dayanarak istasyondan anayola giriş
+çıkış yapmasını iptal etme ve/veya geçici süre ile engelleme yetkisine
+sahiptir. Anayola giriş-çıkışı iptal edilen istasyonun Anayola giriş-çıkış talebi
+güncel kurallara göre değerlendirilir.
+
+Üçüncü Kısım
+Geçici ve Son Kurallar
+
+27 Mayıs 2016 tarihinde yürürlüğe giren Trafik Hizmetlerinin
+Planlanması, Koordinasyonu ve Denetimi Yasası kapsamında başvuru
+yapan kişilerin, 27 Mayıs 2016 tarihinden sonra yapmış oldukları
+başvuruları bu tüzük kapsamında değerlendirilecektir.
+
+[SAYFA 7]
+Geçici Madde
+
+Geçici Madde
+
+Yürütme Yetkisi
+
+Yürürlüğe Giriş
+
+19.
+
+1749
+
+27 Mayıs 2016 tarihinden önce Akaryakıt İstasyonu kurmak amacı ile
+Kaymakamlıktan izin alan ve faaliyete başlamayan bir akaryakıt istasyonu
+işbu tüzüğün yürürlüğe girmesinden itibaren on sekiz (18) ay içerisinde
+faaliyete geçmemesi halinde izni iptal olacaktır.
+
+1974 öncesi Akaryakıt İstasyonu Koçanı olan mal sahiplerinin bu Tüzüğün
+kurallarına uymaları koşulu ile Komisyona başvurmaları gerekmektedir.
+
+Bu Tüzük Ulaştırma işleri ile görevli Bakanlık tarafından yürütülür.
+
+Bu Tüzük Resmi Gazete'de yayımlandığı tarihten başlayarak yürürlüğe
+girer.

@@ -1,0 +1,1390 @@
+[SAYFA 1]
+KUZEY KIBRIS TÜRK CUMHURİYETİ
+RESMI GAZETE
+
+Sayı : 22 EKM | 2 Şubat. 2006
+TEBLIG VE ILANLAR
+
+Sayı : 58
+
+GENEL MUHASEBE YASASI
+(17/1999 Sayılı Yasa)
+Madde 20 Altında Yapılan Tüzük
+
+Kuzey Kıbrıs Türk Cumhuriyeti Bakanlar Kurulu Genel Muhasebe Yasası'nın 20'nci
+maddesinin kendisine verdiği yetkiyi kullanarak asağıdaki Tüzüğü vaar.
+
+(115)
+
+[SAYFA 2]
+Kısa İsim
+
+Tefsir
+
+‘Yasuler ve Kararlar
+
+116
+
+—_—
+Bu Tüzük, “Genel Bütçeye Dahil Daireler Muhasebe Tüzüğü
+olarak isimlendirilir.
+
+BİRİNCİ KISIM
+Genel Kurallar
+
+Bu Tüzükte metin başka türlü gerektirmedikçe;
+“Bakanlık”, Maliye Bakanlığını anlatır;
+
+“Bütçe Geliri”, Bütçe kanunlarında yada diğer mevzuatla gelir olarak
+tanımlanan her türlü işlemi anlatır.
+
+“Bürçe Gideri”, Bütçe kanunlarında yada diğer mevzuatla gider olarak
+tanımlanan her türlü işlemi anlatır.
+
+“Defter Değeri”, Bir varlık veya yükümlülüğün muhasebe kayıtlarındaki
+değerini anlatır.
+
+“Ekonomik sınıflandırma", Genel bütçeye dahil dairelerin gelir ve
+giderlerinin türleri itibanyle sınıflandırılmasını anlatır,
+
+“Faaliyet Dönemi”, Bakanlıkça aksi kararlaştırılmadıkça mali yıl
+anlatır.
+
+“Gelir”, İlk defa hesaplara alınacak varlıklar ile yeniden değerleme
+farkları dışında, öz kaynakta artışa neden olan her türlü işlemi anlatır.
+
+“Genel bülçe dışı daireler”,Genel bütçeye dahil daireler dışında
+yönetilen daireleri anlatır,
+
+“Genel Bütçeye Dahil Daireler”, Kuzey Kıbrıs Türk Cumhuriyeti
+Cumhurbaşkanlığı, Kuzey Kıbrıs Türk Oumbhuriyeti Cumhuriyet
+Meclisi, Kuzey Kıbrıs Türk Cumhuriyeti Başbakanlığı ve Başbakanlığa
+Bağlı o Daireler, Bakanlıklar, Bakanlıklara Bağlı Daireler ile
+Mahkemeler, Hukuk Dairesi, Kamu Hizmeti Komisyonu Başkanlığı,
+Sayıştay Başkanlığı ve Yüksek Yönetim Denetçisinden (Ombudsman)
+oluşan Müstakil Kuruluşları anlatır.
+
+“Gider”, İlk defa hesaplara alınacak varlıklar yeniden değerleme farkları
+dışında, öz kaynakta azalışa neden olan her türlü işlemi anlatır,
+
+“Hesap Dönemi”, Bakanlıkça-aksi kararlaştırılmadıkça mali yılı anlatır.
+“Mali Yı)”, Takvim yılını anlatır.
+
+“Maliyet Bedeli”, Bir varlığın satın alınması, üretilmesi veya değerinin
+artırılması için yapılan harcamaların veya verilen kiymetlerin toplamını
+anlatir.
+
+“Muhasebe Birimi Sorumlusu”, Devlet gelirlerini tahsil, nakit, ve
+benzeri varlıkları ve ayniyatı saklama, giderleri hak sahiplerine ödeme
+ve teslim ile bu isierie ilgili hertürlü yazışma yanında buna bağlı mali
+işlemleri yapmak ve yetkili kılınmış mercilere hesap vermekle yükümlü
+olanları anlatır. o *
+
+[SAYFA 3]
+Amaç ve Kapsam
+
+Temel Kavramlar
+
+117
+
+“Muhasebe Birimi” Genel bütçeye dahil dairelerinin gelir ve gider
+hesaplarını tutan, bütçede yer alan harcamaları, yasalara ve diğer
+mevzuata uygun olarak konirol edip ödeyen, devletin tüm vergi ve
+gelirleri ile bütçe dışı gelirlerinin mali ve idari yönden takip, denctim ve
+tahsilatını gerçekleştiren ve muhasebe işlemlerinin yürütüldüğü birimi
+aratır,
+
+“Muhasebe politikaları”, Muhasebe işlemlerinin kaydı, mali raporların
+hazırlanması ve sunulmasında kabul edilen ilke, kural, standart ve
+uygulamaları anlatır,
+
+“Muhasebe Sistemi”, Mali işlemlerin yürütülmesinde, kaydedilmesinde
+ve raporlamasında kullanılan hesap planları, defterler ve
+muhasebeleştirme süreçlerinin tamarum #nlatır,
+
+"Nakit Esası”, Gelirlerin nakden veya mahsuben tahsil edildiğinde,
+giderlerin ise nakden veya mahsuben ödendiğinde
+muhasebeleştirilmesini anlatır.
+
+“Nominal Değer”, Her çeşit senetlerle, hisse senetleri, tahviller ve pullar
+üzerinde yazılı olan değerleri anlatır.
+
+“Özkaynak”, Genel bütçeye dahil dairelerin varlıkları ile yükümlülükleri
+arasındaki farkı anlatır.
+
+“Rayiç Değer”, Varlık ve yükümlülüklerin değerleme günündeki normal
+alım satım değerini anlatır.
+
+“Tahakkuk Esasi”, Bir ekonomik değerin yaratıldığında, başka bir şekle
+dönüştürüldüğünde, mübadeleye konu edildiğinde, el değiştirdiğinde
+veya yok olduğunda muhasebeleştirilmesini anlatır.
+
+“Tüzük”, Genel bütçeye Dahil Daireler Muhasebe Tüzüğünü anlatir.
+
+Bu Tüzüğün amacı, genel bütçeye dahil dairelerin hesap ve kayıt
+düzeninde saydamlık, hesap verilebilirlik ve tekdüzenin sağlanması;
+faaliyetlerinin gerçek mahiyetlerine uygun olarak sağlıklı ve güvenilir
+bir biçimde muhasebeleştirilmesi; mali tablolarının zamanında, doğru,
+muhasebenin temel kavramları ve genel kabul görmüş muhasebe ilkeleri
+çerçevesinde, uluslararası standartlara uygun, yönetimin ve ilgili diğer
+kişilerin bilgi ibtiyaçlarını karşılayacak şekilde hazırlanması ve
+yayımlanmasına ilişkin esas, usul, ilke ve standartların belirlenmesidir.
+Bu Tüzük, genel bütçeye dahil dairelerin muhasebe kayıt ve işlemlerini
+kapsar,
+
+İKİNCİ KISIM
+Temel Muhasebe Kavramları ve İlkeleri
+
+Genel bütçeye dahil dairelerin muhasebe işlemleri bu esaslara göre
+yürütülür.
+
+(1) Süreklilik: Genel bütçeye dahil dairelerin faaliyetleri, herhangi
+bir zaman sınırlamasına tabi olmaksızın sürdürülür.
+
+(2) Dönemsellik: Genel bütçeye dahil dairelerin faaliyetleri, belirli
+
+[SAYFA 4]
+Muhasebenin Genel
+likeleri
+
+Faliyet ve Bütçe
+Uygulama Sonuçları
+Tabloları İlke ve
+Teknikleri
+
+115
+
+dönemlerde raporlanır ve her dönemin faaliyet sonuçları diğer
+dönemlerden bağımsız olarak saptanır,
+
+(3) Parayla ölçülme: Parayla ölçülebilen ekonomik olay ve
+işlemlere ilişkin muhasebe kayıtları, ortak ölçü olarak tedavüldeki
+para birimi ile yapılır.
+
+(4) Maliyet esası: Para mevcudu, alacaklar ve maliyetinin
+belirlenmesi mümkün veya uygun olmayan kalemler hariç, daire
+tarafından edinilen varlık ve hizmetler, bunların elde edilme
+maliyet bedelleriyle muhasebeleştirilir.
+
+Maliyet bedeli tespit edilemeyen varlık ve kaynakların değerleme
+işlemi, Bakanlıkça belirlenen esas ve usullere göre gerçekleştirilir.
+(5) Belgelendirme: Muhasebe kayıtları, gerçek durumu yansıtan
+ve usulüne uygun olarak düzenlenmiş belgelere dayandırılır.
+
+(6) Tutarlılık: Muhasebe uygulamalarının, faaliyet ve bütçe
+uygulama sonuçlarının ve bunlara ilişkin yorumların birbirini
+izleyen dönemlerde tutarlı bir şekilde karşılaştırılabilirliğinin
+sağlanması esastır. Uygulanan muhasebe politikalarının değişmesi
+durumunda, değişikliklerin ve mali cikilerinin mali tablo
+dipnotlarında açıklanması zoruniudur.
+
+(7) Tam açıklama: Mali tablolar, bu tablolardan yararlanacak
+olanların doğru karar vermelerine yardımcı olacak ölçüde yeterli,
+açık ve anlaşılır şekilde düzenlenir.
+
+(8) Önemlilik: Bir hesap kalemi veya mali bir olayın nispi ağırlık
+ve değerinin, mali tablolarda yer verilecek önemde olması esastır.
+
+(9) İhtiyatlılık: Muhasebe uygulamasında muhtemel risklere ve
+olaylara karşı bu Tüzükte belirtilen durumlarda karşılık ayrılır.
+Faaliyet sonucunu değiştirmeye yönelik olarak gereğinden fazla
+karşılık ayrılamaz.
+
+Genel Bütçeye dahil dairelerin muhasebe uygulanmasında bu Tüzükte
+belirtilen esas, usul, ilke, kural ve standartlara uyulur.
+
+Faaliyet sonuçları tablosu ve bütçe uygulama sonuçları tablosu
+ilkeleri şunlardır.
+
+(1) Genel Bütçeye dahil dairelerin faaliyetlerine ilişkin gelir-gider
+işlemleri, tahakkuk esasına dayalı olarık gelir ve gider
+hesaplarında izlenir. Gelir ve gider hesapları, bütçe ile ilgili olsun
+veya olmasın, genel kabul görmüş muhasebe ilkeleri gereği
+tahakkuk eden her türlü gelir ve giderin kaydına mahsustur.
+
+(2) Gerçekleşmemiş gelir veya giderler gerçekleşmiş gibi ya da
+gerçekleşenler gerçek tutarından farklı gösterilemez. Belli bir
+dönem ya da dönemlerin gerçeğe uygun faaliyet sonuçlarını
+göstermek için, dönem ya da dönemlerin başında ve sonunda
+hesap kesimi işlemleri yapılır,
+
+(3) Maddi ve maddi olmayan duran varlıklar ve diğer duran
+varlıklar için amortisman payı ayrılır,
+
+(4) Arızi ve olağanüstü niteliğe sahip gelir ve giderler meydana
+geldikleri dönemde tahakkuk ettirilir. Ancak, normal faaliyet
+sonuçlarından ayrı olarak gösterilir.
+
+(59) Dönem sonuçlarının tespitiyle ilgili olarak uygulanmakta olan
+değerleme esasları ve maliyet yöntemlerinde bir değişiklik
+yapıldığı takdirde, bu değişikliğin etkileri açıkça belirtilir.
+
+(6) Bilanço tarihinde var olan ve sonucu belirsiz bir ya da birkaç
+olayın gelecekte ortaya çıkıp çıkmamasına bağlı durumları ifade
+
+[SAYFA 5]
+Bilanco İlkeleri
+
+Varlıklara İlişkin
+ilkeler
+
+.
+
+119
+
+eden, muhtemel olaylar ve yükümlülüklerden kaynaklanan,
+gerçeğe yakın olarak tahmin ve hesap edilebilen giderler tahakkuk
+ettirilerek faaliyet sonuçları tablosuna yansıtılır. Şarta bağlı
+gelirler için ise gerçekleşme ihtimali yüksek olsa da herhangi bir
+tahakkuk işlemi yapılmaz, dipnotlarda açıklama yapılır.
+
+(7) Genel bütçeye dahil dairelerin bütçe gelir ve bütçe gider
+hesapları, ilgili yıl bütçe düzenlemesi ve diğer mevzuatla bütçe
+geliri ve bütçe gideri olarak tanımlanan ve kesin hesabın
+çıkarılmasına esas teşkil eden işlemlerinin kaydına mahsustur.
+
+(8) Genel bütçeye dahil daire işlemlerinin, nakit esasında kayıt ve
+taporlunmasinda bütçe geliri ve bülçe gideri hesaplanna
+kaydedilen tutarların, ilgisine göre faaliyet hesapları veya bilanço
+hesaplarıyla ilişkilendirilmesinde yansıtma hesapları kullanılır.
+
+Bilanço ilkelerinin amacı, genel bütçeye dahil dairelerin tasarrufundaki
+kaynaklar ile bunlarla elde cdilen varlıkların muhasebe kayıtlarının
+yapılması, mali tablolarının hazırlanması ve raporlanması yoluyla, belli
+bir tarihteki mali durumunun ilgililer için saydam ve gerçeğe uygun
+olarak yansıtılmasıdır.
+
+Genel bütçeye dahil dairelere ait bilanço Maliye ile İlgili Bakanlık
+tarafından çıkarılacak yönetmelikte belirtilen şekil ve esaslara göre
+hazırlanıp sunulur. Bilançolar hesap tipinde hazırlanır Hesap tipi
+bilançonun sol tarafında varlıklar, sağ tarafında ise yabancı kaynaklar ve
+öz kaynaklar yer alır.
+
+Bütün varlıklar, yabancı kaynaklar ve öz kaynaklar bilançoda gayrisafi
+değerleriyle gösterilir. Bu ilke, bilançonun net değer esasına göre
+düzenlenmesine bir engel oluşturmaz. Bu doğrultuda net değer esasında
+bilanço düzenlenmesinin gereği olarak, indirim Kalemlerinin ilgili
+hesapların altında açıkça göslerilmesi esastır.
+
+Bu amaç doğrultusunda benimsenen bilanço İlkeleri; varlıklar, yabancı
+kaynaklar ve öz kaynaklara ilişkin ilkelerden oluşur.
+
+Varlıklara İlişkin İlkeler Şunlardır.
+
+(1) Varlıklar, likidite durumlarına göre dönen ve duran varlıklar ana
+hesap gruplarına ayniir, Dönen varlıklar ana hesap grubu; hâzır değerler,
+menkul kiymet ve varlıklar, faaliyet alacakları, kurum alacakları, diğer
+alacaklar, avanslar, gelecek aylara ait giderler ve gelir tahakkukları ile
+diğer dönen varlıklar hesap gruplarına, duran varlıklar ana hesap grubu
+ise; faaliyet alacakları, kurum alacakları, mali duran varlıklar, maddi
+duran varlıklar, maddi olmayan duran varlıklar, gelecek yıllara ait
+giderler ve gelir tahakkukları ile diğer duran varlıklar hesap gruplarına
+ayrılır,
+
+(2) Faaliyel dönemi içinde paraya dönüştürülebilecek veya kullanılarak
+(üketilecek varlık ve alacaklar bilançoda dönen varlıklar ana hesap
+grubu içinde göslerilir.
+
+(3) Faaliyet dönemi içinde paraya dönüştürülmesi öngörülmeyen ve
+hizmetlerinden bir faaliyet döneminde daha uzun süre yararlanılacak
+varlıklar ve vadesi faaliyet dönemini asan alacaklar bilançoda duran
+varlıklar ana hesâp grubu içinde gösterilir, Dönem sonunda, vadeleri bir
+yılın altında kalan alacaklar, bu grupta yer alan hesaplardan dönen
+varlıklar ana hesap grubundaki ilgili hesaplara aktarılır,
+
+(4) Bu Tüzükte belirtilen durumlarda varlıkların, bilanço tarihindeki
+gerçeğe uygun değerleriyle gösterilebilmesi için, varlıklardaki değer
+düşüklükleri gösterilerek karşılıkları ayrılır. Dönen varlıklar ana hesap
+
+[SAYFA 6]
+Yabancı Kaynaklara
+İlişkin İlkeler
+
+120
+grubu içimde yer alan ilgili kalemler için yapılacak değerlendirme
+sonucunda, gerekli durumlarda uygun karşılıklar ayrılır.
+
+(5) Bilangoda duran varlıklar ana hesap grubu içinde yer ülan maddi ve
+maddi olmayan duran varlıklar ile diğer duran varlıkların maliyetlerini,
+bunlardan yararlanılan dönemlere dağıtmak amacıyla, her dönem ayrılan
+#mortismanların birikmiş tutarları bilançoda ayrıca gösterilir
+
+(6) Maddi ve maddi olmayan duran varlıklar ile diğer duran varlıkların,
+taporlama tarihinde gerçek değerleriyle gösterilmesi amacıyla, bu
+Tüzüğün ilgili hükümleri uyarınca yeniden değerlemeye tabi tutulması
+gerekir. Dönem sonu bilanço gününde varlık hesaplarında kayıtlı olup
+yabancı para cinsinden takip cdilen varlıklar da değerlemeye tabi
+tutulur.
+
+(7) Gelecek dönemlere âit olarak önceden ödenen giderler ile cari
+dönemde tahakkuk eden ancak, gelecek dönemlerde taksi! edilecek olan
+gelirler muhasebelestirilir ve bilangoda gösterilir. Varlıklar arasında yer
+alan alacaklara ilişkin olarak tahakkuk eden ancak, tahsil zaman:
+gelmeyen faiz alacakları ilgili hesaplarda gösterilir.
+
+(8) Tutatlan net olarak hesaplanamayan alacaklar için herhangi bir
+tahakkuk kaydı yapılmaz: Bu tür alacaklar bilanço diprotlarında veya
+eklerinde gösterilir.
+
+(9) Mai ve hizmet karşılığı teminat veya depozito olarak verilen tutarlar,
+varlıklar içinde gösterilir.
+
+Yabancı kaynaklara ilişkin ilkeler şunlardır.
+
+(1) Yabancı kaynaklar vade yapılarına göre kisa vadeli yabancr
+kaynaklar ve uzun vadeli yabancı kaynaklar ana hesap gruplarına ayrılır.
+Kısa vadeli yabancı kaynaklar ana hesap grubu; kısa vadeli iç mali
+borçlar, kısa vadeli dış mali borçlar, faaliyet borçları, emanet yabancı
+kaynaklar, ödenecek yükümlülükler, borç ve gider karşılıkları, gelecek
+aylara ait gelirler ve gider tahakkukları ve diğer kısa vadeli yabancı
+kaynaklar hesap gruplarına, uzun vadeli yabancı kaynaklar ana hesap
+grubu ise; uzun vadeli iç mali borçlar, uzun vadeli dış mali borçlar, borç
+ve gider karşılıkları, gelecek yıllara ait gelirler ve gider tahakkukları
+hesap gruplarını ayrılır,
+
+(2) Vadesi faaliyet dönemiyle strurlt olan yükümlülükler, bilançoda kısa
+vadeli yabanci kaynaklar ana hesap grubu içinde gösterilir.
+
+(3) Vadesi fanliyet dönemini aşan yükümlülükler, bilançoda uzun vadeli
+yabancı kaynaklar ana hesap grubu içinde gösterilir. Dönem Sonu
+bilanço gününde bu grupta yer alan yükümlülüklerden vadeleri bir yılın
+altuna inenler, kısa vadeli yabancı kaynaklar ana hesap grubundaki ilgili
+hesaplara aktarılır,
+
+(4) Gelecek dönemlere ait olarak önceden tahsil çdilen gelirler ile cari
+dönemde tahakkuk eden ancak, gelecek dönemlerde ödenecek olan
+giderler tahakkuk tarihinde muhasebeleştirilir ve bilançoda gösterilir.
+Yabancı kaynaklar arasında yer alan borçlara ilişkin olarak tahakkuk
+eden ancak, ödeme zamanı gelmeyen faiz borçları ilgili hesaplarda
+gösterilir,
+
+(5) İdarelerin bilinen ve tutarlar tahmin ve hesap edilebilen bütün
+
+[SAYFA 7]
+Öz Kaynaklara İlişkin
+İlkeler
+
+Nazım Hesaplara
+İlişkin İlkeler
+
+Muhasebe İşlemi
+
+10.
+
+11,
+
+121
+yabancı kaynakları kaydedilir ve bilançoda gösterilir,
+
+(6) Dönem sonu bilanço gününde yabancı kaynak hesaplarında kayıtlı
+ülüp, yabancı para cinsinden takip ve ödemesi yapılan tutarlar
+değerlemeye tabi tutulur ve raporlama tarihindeki değerleriyle mali
+raporlarda gösterilir.
+
+(7) Mal ve hizmet karşılığı teminat veya depozito olarak alınan tutarlar
+yabancı kaynaklar içinde gösterilir.
+
+Öz kaynaklara ilişkin ilkeler şunlardır:
+
+(0) Öz kaynaklar ana hesap grubu; net değer, değer hareketleri, yeniden
+değerleme farkları, geçmiş yıllar olumlu faaliyet sonuçları ve geçmiş
+yıllar olumsuz faaliyet sonuçları ile dönem faaliyet sonuçlar hesap
+gruplarına ayrılır.
+
+(2) lik açılış bilançosuna dahil edilememiş bulunan varlık ve yabancı
+
+kaynakların envanteri yapıldıkça belirlenen değeri ilgili varlık veya
+yabancı kaynak hesabına ve net değere ilave çdilir.
+
+(3) Dönem faaliyet sonucu ile önceki yıl/yıllar faaliyet sonuçlan bu
+grupta yer alir.
+
+(4) Öz kaynakların bilançoda net olarak gösterilmesi için öz kaynak
+kalemlerinden negatif değer taşıyanlar indirim kalemleri olarak yer âlır.
+
+Nazır hesaplara ilişkin ilkeler şunlardır;
+
+(1) Varlık, kaynak, gelir ve gider hesaplarının dışında, muhasebenin
+bilgi verme ve izleme görevi yüklediği işlemleri, muhasebe disiplini
+altında toplanması istenen işlemleri ile gelecekte doğması muhtemel hak
+ye yükümlülüklerine ilişkin işlemlerini izlemek üzere nazım hesaplar
+kullanılır.
+
+(2) Nazım hesaplar, yalnızca ilgili olduğu diğer nazım hesaplarla
+karşılıklı olarak borç ve alacak çalışan besaplardan oluşur. Bu
+hesaplar mizanda ve bilançonun dipnotunda gösterilir.
+
+ÜÇÜNCÜ KISIM
+Muhasebe Standartları, Kuralları ve Uygulanması
+
+Genel bütçeye dahil dairelerin, genel bütçe dışı dairelerle ve diğer
+üçüncü kişilerle olan karşılıklı ekonomik ilişkileri veya genel bütçeye
+dahil dairelerin kendi içinde muhasebe işlemi olarak değerlendirilmesi
+ve raporlanması gereken ve para cinsinden ifade edilebilen her türlü
+işlemi muhasebe işlemidir.
+
+Muhasebe işlemi;
+
+(1) Karşılıklı yükümlülük doğuran mübadele ilişkisi,
+
+(2) Bir mal veya hizmetin karşılıksız olarak başka bir daireye veya diğer
+üçüncü kişilere devri,
+
+(3) Genel bütçeye dahil dairelerin kendi içinde muhasebe işlemi olarak
+
+değerlendirilmesi gereken ve para cinsinden ifade edilebilen amortisman
+hesaplanması, yeniden değerleme yapılması v.b.,
+
+şekillerde gerçekleşir.
+
+[SAYFA 8]
+İşlemlerin Belgeye
+Dayanmasi ve Belge
+Düzeni
+
+Kayıt Zamanı, Kamu
+Gelir ve Giderleri ile
+Bütçe Gelir ve
+Giderlerinin Yılı
+
+Çift Taraflı Kayıt
+Sistemi
+
+Yabancı Para Cinsinden"
+
+Yapılan İşlemler ve Kur
+Değişiklikleri
+
+İş İmkanlarla Uretilen
+Maddi Duran Varlıklar
+
+Yaralar ve Kararlar
+
+13.
+
+14,
+
+15.
+
+16:
+
+17.
+
+122
+Bütün muhasebeleştirme işlemlerinin kanıtlayıcı belgelere
+dayandırılması zorunludur, Kanıtlayıcı belgeler, muhasebeleştirme
+belgesinin hazırlanmasını gerektiren ve ilgili mevzuatında belirtilen
+belgelerden oluşur,
+
+Bit ekonomik değer; yaratıldığında; başka bir şekle dönüştürüldüğünde,
+mübadeleye konu edildiğinde, el değiştirdiğinde veya yok olduğunda
+muhasebelestirilir. ,
+
+Genci bütçeye dahil dairelerin hesapları mali yıl esasına göre tutulur,
+
+Kamu gelir ve giderleri tahakkuk ettirildikleri mali yılın hesaplarında
+gösterilir,
+
+Bütçe gelirleri tahsil edildiği, bütçe giderleri ise ödendiği yılda
+muhasebeleştirilir.
+
+Her türlü muhasebe işlemi çift taraflı kayıt sistemine göre kaydedilir. Bir
+hesaba borç veya alacak kaydedilen tutar, başka hesap ya da hesaplara
+alacak veya borç kaydedilir.
+
+Yabancı para cinsinden yapılan işlemler, fiyalı yabancı para cinsinden
+belirlenen mal ve hizmetlerin alım ve satımları, yabancı para cinsinden
+borg temin edilmesi ve borç verilmesi, yabancı para birimine dayalı bir
+anlaşmaya taraf olunması, yabancı para cinsinden bir varlığın elde
+edilmesi veya elden çıkarılması ve yabancı para cinsinden bir
+yükümlülüğün oluşması veya yerine getirilmesi gibi işlemlerdir.
+
+Yabancı para cinsinden yapılan işlemler ve faaliyetler tedavüldeki para
+birimi cinsinden kaydedilebilir. Tedavüldeki para dışında yabancı bir
+para cinsinden raporlama yapılması halinde yabancı paranın cinsi ve
+yabancı para cinsinden raporlama yapılmasının nedenlerinin dipnotlarda
+belirtilmesi gerekir,
+
+Yabancı paralar ve yabancı para cinsinden izlenen varlıklar ve yabancı
+kaynaklar, raporlama tarihinde K.K-T.C. Merkez Bankasınca belirlenen
+ilgili döviz kuru üzerinden değerlemeye tabi tutulur ve değerleme
+günündeki kur üzerinden muhasebe kayıtlarında gösterilir.
+
+Yabancı para cinsinden yapılan işlemlerde uygulanacak kur, özel
+mevzuatında yada-sözleşmesinde belirlenen yada özel mevzutinda veya
+sözleşmesinde belirlenmemişse, Bakanlıkça belirlenen kurdur.
+
+Yabancı para cinsinden yapılan parasal bir işlemin ilk kayda alındığı
+gün ile değerleme günü ya da ödeme günü veya tahsilat yoluyla
+kayıtlardan çıkarıldığı gün arasındaki kurlarda değişme olduğunda
+ortaya çıkan kur farklar oluştukları dönemlerde gelir, gider veya emanet
+olarak kaydedilir. Öz kaynaklarda meydana gelen değişmenin ne
+kadarının kur farklarından kaynaklandığı ve kur farklılıklarının raporlara
+etkileri raporların dipnotlannda belirtilir.
+
+Genel bütçeye dahil dairelerin kendi imkanlarıyla: ürettikleri maddi
+duran varlıkların üretimi için yapılan giderler, işlem tarihindeki maliyet
+bedeli üzerinden ilgili varlık hesaplarına kaydedilir.
+
+[SAYFA 9]
+Yatırım Amaçlı Varlık
+Edinimleri
+
+Mali Varlıklar ve
+Suuflandinimasi
+
+Mali Olmayan Varlıklar 20,
+
+ve Sınıflandırılması
+
+Maddi Duran
+Varlıkların Kayıt
+Değerleri .
+
+Maddi Duran Varlıklar
+İçin Yapılan Değer
+Artırıcı Harcamalar
+
+18.
+
+19,
+
+21,
+
+22,
+
+123
+
+Kira veya sermaye geliri veya bunların her ikisini elde etmek amacıyla
+edinilen ve kısa dönemde satış veya diğet işlemlere konu edilmesi
+düşünülmeyen yatırım araçlı varlıklar, maliyet bedeliyle kaydedilir.
+
+Mali varlıklar; kasadaki naki, banka hesaplarındaki mevcutlar, verilen
+borçlardan doğan alacaklar, senet, tahvil ve benzeri menkul varlıklar,
+sermaye payları, bir sözleşmeden doğan alacağı ifade eden heklar ve
+hesaplarda kayıtlı alacaklar gibi maddi ve maddi olmayan varlıklar
+dışındaki her türlü değerleri kapsar. Meli varlıklar, kaynaklarına ve
+türlerine göre sınıflara ayrılarak kaydedilir ve raporlatır.
+
+Mati almayan varlıklar; bir üretim süreci sonunda ortaya çıkan ve zaman
+içinde tekrarlanarak bir yıldan fazla kullanılabilen binalar ve yapılar,
+yeraltı ve yerüstü düzenleri, makine ve teçhizatlar, taşıtlar, demirbaşlar
+ve diğer maddi duran varlıkları kapsayan maddi duran varlıkları; değerli
+taşlar ve metaller, sanat eserleri, antikalar ve mücevherat gibi öncelikli
+amacı üretim sürecinde kullanılmak veya tüketilmek olmayan taşimr
+yarlıkları; arsa, arazi, yeraltı varlıkları, diğer doğal olarak ortaya çıkan
+üretilmemiş maddi duran varlıklar ile pateni hakkı gibi üretilmemiş
+maddi olmayan duran varlıkları ifade eder.
+
+Savunma ihtiyaçları için alınacak her türlü silahlar ve ekipman dogrudan
+mal ve hizmet satin alma gideri olarak kaydedilir. Savunma bütçesinden
+sivil amaçlarda kullamimak üzere alınan varlıklar ilgili varlık
+hesaplarına kaydedilir.
+
+Gerek yaunm ve gerekse kullarım amacıyla edinilen maddi duran
+varlıklar maliyet bedeliyle muhasebeleştirilir. Maddi duran varlıkların
+maliyet bedeli, alış bedeline, vergi, resim ve harçlar ile diğer doğrudan
+giderlerin ilave edilmesi suretiyle bulunur,
+
+Alım işlemlerinde yapılan indirimler veya herhangi bir nedenle alış
+bedeli üzerinden yapılan iadeler, alış bedelinden düşülür, Genel yönetim
+giderleri ve varlığın elde edilmesi vey kullanılabilir duruma
+getirilmesiyle doğrudan ilişkilendirilmeyen giderler, maliyet bedeline
+ilave edilmez,
+
+Maddi duran varlıkların bütünleyici parçaları ve eklentileri, ilgili maddi
+duran varlıkla birlikte değerlendirilir.
+
+Herhangi bir maliyet yüklenilmeksizin edinilen maddi duran yarlıklar,
+rayiç değeriyle muhasebeleştirilir. Varlığın rayiç değeri bilinemiyorsa
+Bakanlıkça tespit edilen değeri esas alınır.
+
+Sanat eserlerinden hesaplara alınmasina karar verilenler, sigorta
+değerleri veya takdir edilen değerleriyle, sigortalanmamaları veya değer
+takdir edilememesi durumunda ise iz bedeliyle muhasebeleştirilir.
+Kullanım değeri kalmayan ve kullanımı veya satışından herhangi bir
+ekonomik fayda beklenilmeyen maddi duran varlıklar, kayıtlı
+bulundukları maddi duran varlık hesabından çıkarılarak, elden
+çıkarılacak stoklar ve maddi duran varlıklar hesabına alınır.
+
+Maddi duran varlıklar için sonradan yapılan ve o varlığın değerini,
+kullanım süresini, ürün ve hizmet kalitesini, sağlanan faydayı artıran
+veya üretilen mal veya hizmetlerin üretim maliyetini azaltan her türlü
+maliyet, ilgili maddi duran varlığın kayıtlı değerine ilave edilir ve
+amortisman hesaplamasında dikkate alınır. Bunların dışında maddi
+duran varlıklar için yapılan her türlü normal bakım ve onanm
+
+[SAYFA 10]
+»
+
+Maddi Olmayan Duran
+Varlıklar ve Kayıt
+Değerleri
+
+Amortisman
+Uygulaması
+
+Amortismana Tabi
+Varlıkların Kullanım
+Sürelerinin Değişmesi
+
+Ödenemeyen Giderler
+ve Emanet Hesapları
+
+Değer ve Miktar
+Değişimleri
+
+23,
+
+24,
+
+25.
+
+26,
+
+27,
+
+124
+harcamaları gider olarak kaydedilir.
+
+Maddi olmayan duran varlık, mal veya hizmet üretiminde veya
+ediniminde kulfamlmak, üçüncü kişilere kiraya verilmek veya idari
+amaçlar için kullanılmak Üzere elde tutulan marka, isim, bilgisayar
+yazılımı, telif, patent, sinai ve işletme hakları gibi kalemlerdir. Maddi
+olmayan bir duran varlığın maliyeti, © varlığın satın alındığı veya
+üretildiği sırada yapılan nakil veya nakit benzeri harcama veya varlığın
+elde edilmesi için verilen kıymetlerin rayiç değerdir. Maddi olmayan
+bir duran varlık elden çıkarıldığı, kullanımı veya satışından hiçbir
+ekonomik fayda beklenmediği zaman hesaplardan çıkarılır.
+
+Muhasebe sistemine dahil edilen duran varlıklardan; arazi ve arsalar,
+yapım aşamasındaki sabit varlıklar, varlıkların elde edilmesi için verilen
+avanslar ile sanat eserleri dışındakilerden hangilerinin amortismana tabi
+tutulacağı ve bunlara ilişkin esas ve usuller ile uygulanacak amortisman
+süresi, yöntem ve oranları duran varlık çeşitlerine göre Bakanlıkça
+çıkarılacak bir tebliğle belirlenir.
+
+Bir duran varlığın amortismana tabi değeri, varlığın yararlanma ya da
+itfa süresine Sistemli bir biçimde dağıtılır. Amortisman tutar gider
+olarak muhasebeleştirilir. Duran varlıkların ilk defa amortisman ve
+yeniden değerlemeye esas alınacak değeri maliyet bedelidir. Ancak,
+yeniden değerlemeye tabi tutulmuş olan varlıklar için amortisman
+hesuplamasima esas alınacak değer, yeniden değerleme sonucu ortaya
+çıkan değerdir. Bir varlık için yapılan harcamaların, varlığın
+iyileştirilmesi, ömrünün uzatılması veya veriminin arttinİması sonucunu
+doğurması durumunda, amortisman hesaplaması varlığın yeni degen
+üzerinden yapılır.
+
+Bir varlığın kullanımından cide edilebilecek ekonomik fayda
+tüketildikçe, bu tüketimi Oo yansıtabilmek (amacıyla  aynilan
+amortismanların birikmiş tutan, varlığın defter değeri altında eksi değer
+olarak gösterilir.
+
+Amortismana tabi varlıkların ekonomik ömürleri belli aralıklarla
+yeniden gözden geçirilir ve eğer kullanım süreleri başlangıçta yapılan
+tahrninden kayda değer şekilde farklı ise, amortisman hesaplama süresi
+mevcut ve gelecek dönemleri içerecek şekilde yeniden belirlenir,
+
+Genel bütçeye duhii dairelerde nakit mevcudunun tüm ödemeleri
+karşılayamaması halinde giderler, muhasebe kayıtlarına alınma sırasına
+göre ödenir,
+
+Mali yil içinde harcama belgesine bağlandığı halde, hak sahibinin talep
+etmemesi veya başka nedenlerle ödenemeyen tutarlar, bütçeye gider
+yazılarak emanet hesaplarına alınır ve buradan ödenir. İlgili olduğu mali
+yılın sonundan başlayarak beş yıl içinde alacaklıları tarafından geçerli
+bir mazerete dayanmaksızın, yazılı talep edilmediğinden veya belgeleri
+verilmediğinden dolayı ödenemeyen borçların pelir kaydedilmesine ve
+gelir kaydedilmiş tutarların hak sahiplerine geri ödenmesi konusunda
+Bakanlık yetkilidir.
+
+Varlık ve yabancı kaynakların değerlemeye tabi tutulmaları sonucunda,
+fiyat değişmelerinden dolayı ortaya çıkan artış ve azalışlar değer
+değişimi; borçların, alacakların veya varlıkların hacim, sayı gibi
+miktarlarında meydana gelen ve beklenmeksizin ortaya çıkan artış ve
+azalisiar ise miktar değişimidir. Bu şekilde örtaya çıkan kazanç ve
+kayıplar ilgisine göre öz kaynaklar ana hesap grubunda açılan hesaplara
+veya gelir ve gider hesaplarına kaydedilir. Bu şekillerde ortaya çikan
+kazanç ve kayıpların öz kaynaklan nasıl etkilediği bilançonun
+dipnotlarında açıklanır
+
+[SAYFA 11]
+Mübadele 28.
+İşlemlerinden Sağlanan
+Gelirler
+
+Borçlanma ve 29.
+
+Börçlanma Maliyetlen
+
+Faiz Giderleri ve Faiz 30.
+Gelirleri
+
+Sübvansiyonlar ve al.
+Transferler
+
+Sosyal Yardımlar Li
+Gayri Safilik İlkesi 33,
+Taahhütlerin Kaydı ve o 34,
+Değerlemesi
+
+125
+
+Mal ve hizmetlerin takas yoluyla satışı işlemlerinden sağlanan tutarlar,
+işlem günündeki rayiç değerleriyle kaydedilir. Bu işlemler sırasında
+mübadeleye konu mal ve hizmetler arasında parayla ölçülebilen
+farklılıklardan doğan kazanç ve kayıplar da işlem günündeki rayiç
+değerleriyle kaydedilir,
+
+Borçlar muhascbe sistemi içinde izlenir. Borçlanma maliyetleri ilgili
+oldukları dönemde gider, nakden veya mahsuben ödendikleri zaman
+bütçe gideri olarak kaydedilir. Borçlanmanın direkt olarak bir varlığın
+satın alınması karşılığı yapılması ve borçlanma suretiyle alınan varlığın
+bedelinin düzenli taksitler halinde ödenmesi durumunda, tahakkuk
+ettirilen faizler ilgili döneme faiz gideri olarak kaydedilir. Bu halde
+alınan varlık, taksit faizlerinden arındırılmış olarak kayda alınma
+tarihindeki gerçek maliyet değeriyle varlık hesaplarına kaydedilir.
+
+Borçlanma sözleşmelerinde yapılan değişiklikler, borçların vadelerinin
+değiştirilmesi, başka bir alacaklıya devri gibi değişikliklerin ekonomik
+sonuçları da kaydedilir. Borçlara ilişkin yükümlülüğün, slacaklıların
+alacağından vazgeçmesi gibi tek yanlı tasarruflaria ortadan kalkmasına
+veya azalmasına neden olan işlemlerden kaynaklanan kazanç ve kayıplar
+miktar değişimleri olarak hesaplara yansıtılır.
+
+Genel bütçeye dahil dairelerin, genel bütçe dig: dairelerden, yurt içindeki
+veya yurt dışındaki mali kuruluşlardan veya devletlerden yaptıkları
+borçlanmalar dolayısıyla tahakkuk eden faizler, ilgili olduklan
+dönemlere gider yazılır. Gene} bütçeye dahil dairelerin, genel bütçe diss
+dajrelerine, yurt içinde veya yurt dışındaki mali kuruluşlara veya
+devletlere verdikleri borçlar dolayısıyla tahakkuk eden faizler, ilgili
+olduklar: dönemlere gelir kaydedilir.
+
+Sübvansiyon, genel bülçeye dahil daireler tarafından mal ve hizmet
+üreten işletmelere yapılan karşılıksız cari ödemelerdir. Transfer isc,
+genel bütçeye dahil dairelerce, genel bütçe dışı dairelere veya diğer
+kişilere nakit, mal, hizmet veya diğer bir varlık şeklinde karşılıksız
+olarak yapılan ödemelerdir.
+
+Genel bütçeye dahil dairelerince mal ve hizmet üreten işletmelere
+üretim, satış, İthalat, ihracat veya üretim uşumalarında yapılan
+sübvansiyonlar ile doğrudan hane halkına veya kar amacı olmayan
+kuruluşlara, genel bütçe dışı daireler, başka devletlere veya uluslararası
+kuruluşları yapılan cari transfer veya sermaye transferleri, bu
+transferlerden yararlanan kişi veya kuruluşları gösterecek şekilde
+faaliyet hesapları içinde bu amaçla açılacak hesaplara kaydedilir ve
+raporlanır, '
+
+Genel bütçeye dahil daireler tarafından nüfusun tamamını veya belli bir
+kesimini sosyal risklerden korumak amacıyla yapılan sağlık hizmetleri
+ödemesi, hastalık ve malullük yardımları, emeklilik aylığı vb, belli bir
+sosyal güvenlik şemsiyesi altında veya dışında yapılan nakdi ve ayni
+yardımlar faaliyet hesaplarına kaydedilir ve raporlanır.
+
+Gelir ve giderler, herhangi bir düzenleme veya standart ilc aksi
+Kararlaştınılmadıkça netlestiriimeden kaydedilir.
+
+Genel bütçeye dahil dairelerin taahhütleri nazım hesaplarda izlenir ve
+bunlara ilişkin kayıt sistemi oluşturulur.
+
+[SAYFA 12]
+“Şartlı Bağış ve
+Yardımlar
+
+Hesap Vetme
+Sorumluluğu
+
+Yevmiye Sistemi,
+
+Muhasebeleştirme
+Belgeleri ve Açılış
+Kayıtları
+
+Kullanılacak Defterler
+ve Kayıt Düzeni
+
+33;
+
+36.
+
+37,
+
+38.
+
+126
+
+Şartlı bağış ve yardımlar alındıklarında, tahsis amacına uygun olarak
+kullanılmak üzere ilgili hesaplara Kaydedilir. Bunların kullanılması
+sonucu genel bütçeye dahil daireler adına kaydı gereken bir varlık
+üretilmiş ise söz konusu varlık maliyet bedeliyle muhascbeleştirilir.
+Bağış ve yardımlar, kullanılmadığı veya amaç dışı kullanıldığı için geri
+istenildiği takdirde, bütçeye gider kaydıyla ilgisine geri verilir,
+
+Her türlü kamu Kaynağıtun elde edilmesi ve kullanılmasında görevli ve
+yetkili olanlar, kaynakların etkili, ekonomik, verimli ve hukuka uygun
+olarak elde edilmesinden, kullanılmasından, muhasebeleştirilmesinden,
+raporlanmasından ve kötüye kullanılmaması için gerekli önlemlerin
+alınmasından sorumludur ve yetkili kılınmış mercilere hesap vermek
+zorundadır.
+
+DÖRDÜNCÜ KISIM
+Yevmiye Sistemi ve Defter Kayıtlar
+
+İşlemler, yevmiye tarih ve numara sırasına göre ve maddeler halinde
+yevmiye deflerinç günlük olarak kaydedilir; buradan da usulüne göre
+büyük defter hesaplarına ve yardımcı defterlere sistemli bir şekilde
+dağıtılır.
+
+Gerçekleşen işlemler muhasebeleştirme belgeleriyle kaydedilir. Belge
+olmadan kayıt yapılmaz. Gerçekleşen işlemler, hesaplara ait “hesabın
+işleyişi” bölümlerinde belirtilmiş olup olmadığına bakılmaksızın, bu
+Tüzükte belirtilen hesapların niteliğine uygun bir biçimde kaydedilir.
+Bir hesabın borcuna kaydedilen tutar mutlaka başka bir hesap ya da
+hesapların alacağına kaydedilir. Yevmiye defterinde her zaman borç
+alacak eşitliği bulunur,
+
+Hazine Muhasebe Dairesince nakden yapılan ödemeler (o “Harcama
+Belgesi” , mahsuben yapılan ödemeler ve diğer işlemler ise “Muhasebe
+İşlem Fişi ” ile muhasebeleştirilir.
+
+Muhasebeleştirme belgelerinin yevmiye tarih ve numarası sütunlarına,
+gerçekleşen işlemlerin kayda geçirildikleri tarih ile hesap döneminin
+başında “1” den başlayıp, hesap döneminin sonuna kadar devam eden
+birer numara verilir. Gerek yevmiye defteri ve gerekse büyük defter ve
+yardımcı defter kayıtlarında bu yevmiye numaraları esastır.
+
+Mali yılın başinda bir önceki hesap döneminden devreden hesaplar için
+açılış mizanı düzenlenir Açılış mizanına dayanılarak, açılış
+yevmiyesinin (kayıtların sağlamak üzere mizandaki tutarlar
+düzenlenecek “1" yevmiye numaralı muhasebe işlem fisiyle ilgili
+hesaplara borç ve alacak kaydedilir. Açılış kaydına ilişkin muhasebe
+işlem fişine, açılış mizanının bir nüshası eklenir. Açılış kaydına esas
+tutarlar, ilgili hesap için açılacak büyük defter ve yardımcı defterlere
+aktarıldıktan; sonra işlemlerin kaydına başlanır.
+
+Bu Tüzüğün uygulanmasında aşağıdaki defterler kullanılır.
+(1) Yevmiye Defteri, i
+
+(2) Büyük Defter,
+
+(3) Kasa Defteri,
+
+(4) Yardımcı Hesaplar Defteri,
+
+(1) Yevmiye Defteri
+
+Yevmiye defteri, kayda geçirilmesi gereken işlemlerin yevmiye
+tarih ve numarasıyla ve maddeler halinde düzenli olarak yazıldığı
+müteselsil sıra numaralı defterdir. Yevmiye defterine açılış kaydı
+
+[SAYFA 13]
+Çerçeve hesap plarının
+gene! yapısı
+
+Hesap Planı
+
+39.
+
+127
+
+yapıldıktan sonra, günlük işlemler muhasebeleştirme belgelerine
+dayanılarak kaydedilir.
+
+(2) Büyük Defter
+
+Büyük defter, yevmiye defterinde kayda geçirilmiş olan iştemleri
+usulüne göre hesaplara dağıtan ve tasnifli olarak bu hesaplarda toplayan
+defterdir. İşlemler yevmiye tarih ve numarasına göre yevmiye deflerine
+kaydedildikten sonra, aynı yevmiye tarih ve numurusi ile her bir hesap
+için açılmış büyük defterde ilgili sayfalara tasnifli olarak kaydedilir.
+
+(3) Kasa Defteri
+
+Kasa işlemlerine ait büyük defter, diğer büyük deferlerde yer alan
+bilgilere ilaveten, günlük kasa sayımına ilişkin bilgileri ve muhasebe
+birimi yöneticisi ve veznedar tarafından durumun tespitine ilişkin
+açıklamaları ihtiva edecek tarzda düzenlenir.
+
+(4) Yardımcı Hesaplar Defterleri
+
+Yardımcı defterler, hesap planını oluşturan hesaplara ait bilgilerin
+sytınlı bazında kaydına mahsus olarak tutulan defterlerdir.
+
+Bu defterlerde hangi bilgilerin yer alacağı Bakanlıkça belirlenir.
+i BEŞİNCİ KISIM
+Çerçeve Hesap Planı
+
+Çerçeve hesap plans; bilanço hesapları, faaliyet hesapları, bütçe
+hesapları ve nazım hesaplar ana bölümlerine ayrılır. Bilanço hesapları
+bölümü, | numaradan 5 numaraya kadar olan ana hesap gruplarından;
+faaliyet hesapları bölümü, 6 numaralı ana hesap grubundan; biltge
+hesapları bölümü, 8 numaralı ana hesap grubundan; nazım hesaplar
+bölümü ise, 9 numaralı ana hesap grubundan oluşur. Ana hesap gruplan
+aşağıda gösterildiği gibi isimlendirilir.
+
+(1) Dönen Varlıklar,
+
+42) Duran Varlıklar,
+
+(3) Kısa Vadeli Yabancı Kaynaklar,
+
+(4) Uzun Vadeli Yabancı Kaynaklar,
+
+(5) Öz Kaynaklar,
+
+(6) Faaliyet Hesapları,
+
+(8) Bütçe Hesapları,
+
+(9) Nazım Hesaplar,
+
+Ana hesap gruplarından 1-5 numaralı gruplar bilanço hesapları olup,
+kendi içinde aşağıdaki maddelerde gösterildiği gibi hesap gruplarına
+ayrılır ve her bir ana hesap grubunu ilgilendiren işlemler âit oldukları
+hesap grubu içinde açılacak ilgili bilanço hesaplarına kaydedilir. Her
+bilanço hesabi ayrıca ihtiyaca göre yeteri kadar yardımcı hesaplara
+ayrılabilir,
+
+Faaliyet hesapları ana hesap grubunun hesap gruplarına, hesap
+gruplarının hesaplara ve hesapların yardımcı hesaplara ayrılması; gelir
+ve giderlerin ekonomik syrimina uygun olarak Tüzüğün ilgili
+maddelerinde belirtilen bilgileri verecek şekilde yapılır.
+
+Bütçe besapları ana hesap grubunun hesap gruplarına, hesap gruplarının
+hesaplara ve hesapların yardımcı hesaplara ayrılması, bütçe gelir ve
+giderlerinin ekonomik ayrımına uygun olarak Tüzüğün ilgili
+maddelerinde belirtilen bilgileri verecek şekilde yapılır.
+
+Genel bütçeye dahil dairelere âit hesap planı aşağıdaki ana hesap
+grupları, hesap grupları ve hesaplardan oluşur,
+
+[SAYFA 14]
+128
+
+Aktıf Hesaplar
+
+{-Dénen Varlıklar
+
+10 Hazır Değerler
+
+100 Kasa Hesabı
+
+101 Alınan Çekler Hesabı
+
+102 Banka Hesabı,
+
+103 Verilen Cekler ve Gönderme Emirleri Hesabı (-),
+105 Döviz Hesabı,
+
+106 Döviz Gönderme Emirleri Hesabı (-),
+
+107 Elçilik ve Konsolosluk Nezdindeki Paralar Hesabi,
+108 Diğer Hazır Değerler Hesabı,
+
+109 Banka Kredi Kartlarından Alacaklar Hesabı,
+
+1] Menku! Kıymet ve Varlıklar;
+
+117 Menkul Varlıklar Hesabı,
+
+118 Diğer Menkul Kıymet ve Varlıklar Hesabı,
+
+12 Faaliyet Alacakları;
+
+120 Gelirlerden Alacaklar Hesabı ,
+
+121 Gelitlerden Takipli Alacaklar Hesabı,
+
+122 Gelirlerden Tecilli ve Tehirli Alacaklar Hesatn,
+126 Verilen Depozito ve Teminatlar Hesabi,
+
+13 Kurum Alacakları;
+
+130 Dış Boreun İkrazından Doğan Alacaklar Hesabı,
+13) Para Piyasası Nakit İşlemleri Alacakları Hesabı,
+132 Kurumca Verilen Borçlardan Alacaklar Hesabı,
+137 Takipteki Kurum Alacakları Hesabı,
+
+14 Diğer Alacaklar ;
+
+140 Kişilerden Alaçaklar Hesabı ,
+
+16 Avanslar;
+
+160 is Avansian Hesabi,
+
+161 Persone! Avansları Hesabı,
+
+162 Bütçe Dışı Avanslar Hesabı,
+
+164 Akreditifler Hesabı,
+
+165 Mahsup Dönemine Aktarılan Avanslar Hesabi,
+18 Gelecek Aylura Ait Giderler ve Gelir Tahakkukları;
+180 Gelecek Aylara Ait Giderler Hesabı,
+
+1$1 Gelir Tahakkukları Hesabı,
+
+19 Diğer Dönen Varlıklar;
+
+197 Sayım Noksanları Hesabı,
+
+198 Diğer Çeşitli Dönen Varlıklar Hesabı,
+
+2-Duran Varlıklar;
+
+22 Faaliyet Alacakları;
+
+220 Gelirlerden Alacaklar Hesabı,
+
+222 Gelirlerden Tecilli ve Tehirli Alacaklar Hesabı,
+23 Kurum Alacakları;
+
+230 Dış Borcun İkrazından Doğan Alacaklar Hesabı,
+232 Kurumca Verilen Borçlardan Alacaklar Hesabi,
+24 Mali Duran Varlıklar;
+
+240 Mali Kuruluşlara Yatınlan Sermayeler Hesabı,
+
+241 Mal ve Hizmet Üreten Kuruluşlara Yatırılan Sermayeler Hesabi,
+
+25 Maddi Duran Varlıklar;
+
+250 Arazi ve Arsalar Hesabı,
+
+251 Yeraltı ve Yerüstü Düzenleri Hesabı,
+252 Binalar Hesabı,
+
+253 Tesis, Makine ve Cihazlar Hesabı,
+254 Taşıtlar Hesabı,
+
+255 Demirbaşlar Hesabı,
+
+256 Diğer Maddi Duran Varlıklar Hesabı,
+257 Birikmiş Amortismanlar Hesabı (9),
+258 Yapılmakta Olan Yatırımlar Hesabı,
+259 Yatırım Avansları Hesabı,
+
+[SAYFA 15]
+Yasalar ve Kararlar
+
+129
+
+26 Maddi Olmayan Duran Varlıklar;
+
+260 Haklar Hesabı,
+
+264 Özel Maliyetler Hesabı,
+
+267 Diğer Maddi Olmayan Duran Varlıklar Hesabi,
+26% Birikmiş Amurtismanlar Hesabı (4),
+
+28 Gelecek Yıllara Ait Giderler ve Gelir Tahakkukları;
+280 Gelecek Yıllara Ait Giderler Hesabı,
+
+281 Gelir Tahakkukları Hesabı,
+
+29- Diğer Duran Varlıklar;
+
+294 Elden Çıkarılacak Stoklar ve Maddi Duran Varlıklar Hesabı,
+297 Diğer Çeşitli Duran Varlıklar Hesabı,
+
+299 Birikmiş Amortismanlar Hesatn (-),
+
+Pasif Hesaplar;
+
+3-Kisa Vadeli Yabancı Kaynaklar;
+
+30 Kısa Vadeli İç Mali Borçlar ;
+
+302 Para Piyasası Nakit İşlemleri Borçları Hesabı,
+303 Kamu İdarelerine Mali Borçlar Hesabı,
+
+309 Kısa Vadeli Diğer İç Mali Borçlar Hesabı,
+
+3) Kısa Vadeli Dış Mali Borçlar ;
+
+310 Cari Yılda Ödenecek Dış Mali Borçlar Hesabı
+
+32 Fasliyet Borçları;
+
+320 Bütçe Emanetleri Hesabı,
+(322 Bütçeleştirilecek Barçlar Hesabı,
+
+33 Emanet Yabancı Kaynaklar;
+
+339 Alınan Depozito ve Teminatlar Hesabı,
+
+333 Emanetler Hesabı ,
+
+36 Ödenecek Yükümlülükler
+
+160 Ödenecek Vergi ve Diğer Yükümlülükler Hesabi
+361 Ödenecek Sosyal Güvenlik Kesintileri Hesabı
+362 Fonlar ve Genel Bütçe Dışı Daireler Adına Yapılan Tahsilat Hesabı
+37 Borç ve Gider Karşılıkları
+
+372 Kıdem Tazminatı Karşılığı Hesabı
+
+38 Gelecek Aylara Ait Gelirler ve Gider Tahakkukları
+380 Gelecek Aylara Ait Gelirler Hesabı
+
+381 Gider Tahakkukları Hesabı
+
+39 Diğer Kısa Vadeli Yabancı Kaynaklar
+
+397 Sayım Fazlatarı Hesabı
+
+359 Diğer Çeşitli Kısa Vadeli Yabancı Kaynaklar Hesabi
+4-Uzun Vadeli Yabancı Kaynaklar
+
+40 Uzun Vadeli İç Mali Borçlar
+
+403 Kamu İdarelerine Mali Borçlar Hesabi
+
+409 Uzun Vadeli Diğer İç Mahi Borçlar Hesabı
+
+41 Uzum Vadeli Dış Mali Borçlar
+
+410 Dış Mali Borçlar Hesabı
+
+47 Borç ve Gider Karşılıkları
+
+472 Kıdem Tazminatı Karşılığı Hesabı
+
+48 Gelecek Yıllara Ait Gelirler ve Gider Tahakkukları
+480 Gelecek Yıllara Ait Gelirler Hesabı
+
+431 Gider Tahakkukları Hesabı
+
+$-Oz Kaynaklar
+
+50 Net Değer
+
+500 Net Değer Hesabi
+
+51 Değer Hareketleri
+
+510 Nakit Hareketleri Hesabı,
+
+511 Muhasebe Birimleri Arası İşlemler Hesabi
+
+519 Değer Hareketleri Sonuç Hesabı
+
+52 Yeniden Değerleme Farkları
+
+522 Yeniden Değerleme Farkları Hesabı
+
+57 Geçmiş Yıllar Olumlu Faaliyet Sonuçları
+
+$70 Geçmiş Yıllar Olumlu Faaliyet Sonuçları Hesabı
+
+[SAYFA 16]
+Defter, Rapor ve Aylık 41,
+Hesap Belgelerinin
+
+Gönderilmesi
+—
+
+Yastlar ve Kararlar
+
+130
+
+58 Geçmiş Yıllar Olumsuz Faaliyet Sonuçları
+
+580 Geçmiş Yıllar Olumsuz Faaliyet Sonuçları Hesabı (-)
+$9 Dönem Faaliyet Sonuçları
+
+590 Dönem Olumlu Faaliyet Sonucu Hesabi
+
+591 Dönem Olumsuz Faaliyet Sonucu Hesabi (-)
+
+6 Faaliyet Hesapları
+
+60 Gelir Hesaplar
+
+600 Gelirler Hesabı
+
+63 Gider Hesapları
+
+630 Giderler Hesabı
+
+69 Faaliyet Sonuçları
+
+690-Faaliyet Sonuçları Hesabı
+
+8 Bütçe Hesapları
+
+80 Bütçe Gelir Hesapları
+
+800 Bütçe Gelirleri Hesabı
+
+$05 Gelir Yansıtma Hesabı
+
+81 Bütçe Gelirlerinden Ret ve İade Hesapları
+
+810 Bütçe Gelirlerinden Ret ve İadeler Hesabı
+
+83 Bütçe Gider Hesapları
+
+830 Bütçe Giderleri Hesabı
+
+834 Geçen Yil Bütçe Mahsuplan Hesabi is
+835 Gider Yansıtma Hesabı
+
+89 Bütçe Uygulama Sonuçları
+
+$95 Biitce Uygulama Sonuçları Hesabi
+
+9 Nazım Hesaplar
+
+90 Ödenek Hesapları
+
+900 Gönderilecek Bütçe Ödenekleri Hesabı
+
+901 Bütçe Odenekleri Hesabı
+
+902 Ödenekli Giderler Hesabı :
+
+906 Mahsup Dönemine Aktarılan Kullanılacak Odenekler Hesabı
+907 Mahsup Dönemine Aktarılan Bütçe Ödenekleri Hesabı
+91 Nakit Dışı Teminat ve Kişilere Ait Menkul Kıymet Hesapları
+910 Teminat Mektupları Hesabı
+
+911 Teminat Mektupları Emanetleri Hesabı
+
+912 Kişilere Ait Menkul Kıymetler Hesabı
+
+913 Kişilere Ait Menkul Kıymet Emanetleri Hesabı
+
+92 Taahhüt Hesapları
+
+920 Gider Taahhütleri Hesabı
+
+921 Gider Taahhütleri Karşılığı Hesabi
+
+93 Verilen Garantiler
+
+930 Verilen Garantiler Hesabi
+
+931 Verilen Garantiler Karşılığı Hesabı
+
+94 Pul Hesapları
+
+940 Pul Stokları Hesabı
+
+941 Pul İşlemleri Hesabi
+
+95 Özel Tahakkuk Hesapları
+
+950 Özel Tahakkuklurdan Alacaklar Hesabı
+
+951 Özel Tahakkuklar Hesabı
+
+Ayrıntılı bilgiler elde etmek veya rapor hazırlamada kullanılmak üzere,
+ihtiyes duyulduğunda yeni hesaplar açmaya, hesapların adlarını ve
+kodlarını belirlemeye Bakanlık yetkilidir.
+
+ALTINCI KISIM
+Kesin Hesap ve Düzenlenecek Kesin Hesap Cetvetleri
+
+Hesap ve işlemleri Sayıştay denetimine giren genel bütçeye dahil
+dairelerin, bir bütçe veya hesap yılı içindeki bütün gelirlerinin,
+giderlerinin ve mullannin hesapları muhasebe yetkilileri tarafından
+
+[SAYFA 17]
+Kesin Hesap Yasa
+Tasanları ve Raporlar
+
+Kayıt Yanlışlıklarının
+Düzeltilmesi
+
+Defter ve Belgelerin
+Bilgisayarla
+Düzenlenmesi
+
+Geçici Madde
+
+Geçici Madde
+
+Geçici Madde
+
+Yönetmelik Yapma
+Yetkisi
+
+Yürütme
+
+Yürürlüğe Giriş
+
+Yasalar ve Kararlar
+
+42.
+
+43.
+
+45.
+
+47,
+
+131
+
+mevzuatinda öngörülen siire içinde Sayıştay Başkanlığı'na verilir.
+
+Hesap ve işlemlere ait belge, kayıt, defter ve cetvellerin yıl veya hesap
+devreleri içinde bir aydan fazla olmamak üzere belirtilecek müddetler
+sonunda (gönderilmesine veya yerinde (İncelemeye hazır
+bulundurulmasına Sayıştay Başkanlığınca katar verilmesi durumunda
+belge, kayıt, defter ve cetveller muhasebe biriminde muhafaza edilir.
+
+Uygulama ve denetim sonuçları, bakanlığın üç &yda bir düzenleyeceği
+raporlarda gösterilir, Bu raporlar, en geç üç aylık dönemi izleyen ayın
+sonuna kadar; Bütçe Kesin Hesap Cetvel ve Raporları ise mali yılın sono
+ermesinden başlayarak üç ay içinde Bakanlar Kuruluna sunulur,
+
+Üç ayda bir düzenlenen ve Bakanlar Kuruluna sunulan raporlar
+Cumhuriyet Meclisine gönderilir.
+
+Kesin Hesap Yasa Tasarıları ve ekli Hesap Cetvelleri, ilgili oldukları
+Mali Yılın sonundan başlayarak en geç bir yıl içinde Bakanlar
+Kurulunca Cumhuriyet Meclisince sunulur. Sayıştay genci uygunluk
+bildirimini ilişkin olduğu Kesin Hesap Yasa Tasansimn verilmesinden
+başlayarak iki ay içinde Cumhuriyet Meclisine sunar.
+
+Kesin Hesap Yasa Yasa Tasarıları ait oldukları Bütçe Yasalarındaki
+şekii ve bölümleme düzenine paralel olarak hazırlanır.
+
+YEDİNCİ KISIM
+
+Çeşitli Hükümler
+Kurumsal, fonksiyonel ve finansal kodlarda yapılan kayıt hatalarının
+düzeltilmesi durumu hariç olmak üzere, yevmiye kayıtlarında meydana
+gelebilecek her türlü yanlışlık ancak muhasebe kaydıyla düzeltilir.
+Muhasebeleştirme belgesinde düzeltme işleminin gerekçesine yer verilir,
+
+Bu Tüzükte düzenlenen defter ve belgeler, belirtilen bilgileri kapsamak
+kaydıyla adedine bağlı kalınmaksızın bilgisayarla düzenlenebilir.
+Defterler bilgisayarla düzenlendiğinde, Bakanlıkça alınması belirtilen
+bilgisayar çıkışları dosya içerisinde muhafaza edilir
+
+Bu Tüzüğün yürürlük tarihinden önce edinilen ve muhasebe dışında
+izlenilen varlıklardan envanteri yapılanlar ilgili varlık hesabına borç,
+$00-Net Değer Hesabına alacak kaydedilir.
+
+Kayıtlarda yer almayan varlıklardan herhangi bir nedenle elden
+çıkarılanlar, öncelikle elden çıkarma değeriyle, ilgili varlık hesabına
+borç, net değer hesabına alacak kaydedilir.
+
+Bu *Tüzüğün yürürlük tarihinden önce doğmuş olmasını rağmen
+hesaplarda yer almayan yükümlülüklerden envanteri yapılanlar ilgili
+hesaba alacak, 500-Net Değer Hesabına bore kaydedilir.
+
+Maliye işleri ile ilgili Bakanlık çerçeve hesap planında yer alan
+
+plarla ilgili tanım ve işleyişleri ile bu tüzük uyarınca kullanılacak
+her türlü defter, belge, evrak dökümünın şekil ve içeriğini belirlemek
+üzere bir yönetmelik yapmaya yetkilidir.
+
+Bu Tüzük hükümlerini Bakanlar Kurulu yürütür.
+
+Bu Tüzük, 1/1/2006 tarihinden geçerli olmak üzere Resmi Gazete'de
+yayımlandığı terihten başlayarak yürürlüğe girer.

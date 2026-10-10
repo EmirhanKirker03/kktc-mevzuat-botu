@@ -1,0 +1,2517 @@
+[SAYFA 1]
+617
+
+Sayı: 250
+ÇEVRE YASASI
+
+(18/2012 Sayılı Yasa)
+Madde 30(1) Altında Yapılan Tüzük
+
+Kuzey Kıbrıs Türk Cumhuriyeti Bakanlar Kurulu, Çevre Yasasının 30'uncu maddesinin
+(1)inci fıkrasının (A),(B),(C),(¢),(F) ve (H) bentlerinin kendisine verdiği yetkiye
+dayanarak aşağıdaki Tüzüğü yapar:
+
+po
+
+Kısa İsim 1. Bu Tüzük, “Hava Kalitesinin Değerlendirilmesi ve Yönetimi Tüzüğü
+olarak isimlendirilir.
+
+BİRİNCİ KISIM
+Genel Kurallar
+
+Tefsir 2. Bu Tüzükte metin başka türlü gerektirmedikçe;
+
+“Alarm -eşiği”, Bir bütün olarak nüfus için hava kirliliğine kısa süreyle
+maruz kalma nedeniyle insan sağlığına tehlike oluşturan ve yetkili
+makam tarafından acil tedbirler alınmasını gerektiren bir seviyeyi
+anlatır.
+“Alt Değerlendirme Eşiği”, Dış ortam hava kalitesini değerlendirmek
+için sadece modelleme veya objektif tahmin tekniklerinin
+kullanılabileceği bir seviyeyi anlatır.
+“Arsenik, Kadmiyum, Nikel ve Benzo(a)piren”, PM10 kesri içinde
+elementler ve bileşiklerin toplam içeriğini anlatır.
+“Azot Oksitleri”, Azot dioksit kitle yoğunlaşması birimleriyle (494/m3)
+ifade edilen azot monoksit (nitrik oksit) ve azot dioksit hacim karışım
+oranının (ppbv) toplamını anlatır.
+“Bakanlık”, Çevre Koruma Dairesinin bağlı olduğu Bakanlığı anlatır.
+“Bilgilendirme Eşiği”, Nüfusun özellikle hassas kesimleri için hava
+kirliliğine kısa süreyle maruz kalma nedeniyle insan sağlığına tehlike
+oluşturan, acil ve uygun bilgilendirme gerektiren bir seviyeyi anlatır.
+“Bölge”, Hava kalitesi değerlendirmesi ve yönetimi amacıyla yetkili
+makam tarafından sınırları belirlenen alanı anlatır.
+“Çok Halkalı Aromatik Hidrokarbonlar”, Tamamıyla karbon ve
+hidrojenden yapılmış en az iki kaynaşmış-aromatik halkadan oluşan
+organik bileşikleri anlatır.
+“Daire”, Çevre Koruma Dairesi'ni anlatır.
+“Değerlendirme”, Bir kirleticinin dış ortam havasındaki seviyesini
+ölçmek, hesaplamak veya tahmin etmek için kullanılan herhangi bir
+metodu anlatır.
+“DIş Ortam Havası”, Çalışma mekanları haricinde troposferde
+bulunan havayı anlatır.
+
+: “Doğal Kaynaklardan Katkılar”, Volkanik patlamalar, sismik
+
+. faaliyetler, jeotermal faaliyetler, orman yangınları, kuru alanlardan
+
+gelen veya güçlü rüzgarlardan oluşan, havada asılı olan veya taşınan
+doğal parçacıklar gibi doğal olaylar dahil, insan faaliyetlerinin
+dolaysız veya dolaylı olarak sebep olmadığı kirletici emisyonlarını
+anlatır.
+“Emisyon Sınır Değerleri”, Bir veya daha fazla zaman aralığında
+aşılmayacak olan bir emisyonunun belirli özel parametreler,
+konsantrasyon ve/veya seviye olarak tanımlanan miktarını anlatir.
+Emisyon sınır değerleri, belirli grup, aile ve kategorideki maddeler
+için de ortava konabilir. i
+
+[SAYFA 2]
+618
+
+“Gösterge Ölçümler”, Sabit ölçümler için gerekli olan hava kalitesi
+hedefleri kadar sıkı olmayan hedefleri karşılayan ölçümleri anlatır.
+“Hava Kalitesi Hedefleri”, İnsan sağlığı veya bir bütün olarak çevre
+üzerinde zararlı etkileri önlemek, engellemek veya azaltmak için dış
+ortam havasında kirleticilerin yoğunlaşmasının uygun olması gereken
+limit değerler, hedef değerler, uzun vadeli hedefler ve kritik
+seviyeleri anlatır.
+
+“Hava Kalitesi İndeksi (HKİ)”, Kirlilik seviyeleri ile ilişkili olan ve bu
+Tüzüğe ekli Ek VIII’de belirtildiği şekilde kamuoyunun hava kalitesi
+hakkında kolay ve anlaşılır bilgi edinmesini sağlayan kodları anlatır.
+“Hava Kalitesi Planları”, Limit değerler veya hedef değerlere ulaşmak
+için tedbirleri ortaya koyan planları anlatır. .
+“Hedef Değer”, İnsan sağlığı ve/veya bir bütün olarak çevre üzerinde
+zararlı etkileri önlemek, engellemek veya azaltmak amacıyla tespit
+edilen, mümkün olduğunda belirli bir dönem içinde ulaşılacak olan bir
+seviyeyi anlatir,
+
+“işletmeci”, Bir tesisi işleten veya kontrol eden veya tesisin teknik
+olarak işlemesiyle ilgili ekonomik karar verme gücünün verildiği
+gerçek veya tüzel kişileri anlatır.
+
+“Kamu”, Bir veya daha fazla gerçek veya tüzel kişi veya kişileri ve
+onların oluşturdukları birlikleri, kuruluşları veya gruplarını anlatır.
+“Kentsel Gösterge (fon)(arka-plan) Yerleri”, Kentsel alanlarda genel
+kentsel nüfusun maruz olma derecesini temsil eden seviyelerin
+bulunduğu yerleri anlatır.
+
+“Kirletici”, Dış ortam havası toprak ve suda bulunan ve insan sağlığı
+ve/veya bir bütün olarak çevre üzerinde zararlı etkileri olabilecek
+maddeleri anlatır. i
+
+“Kritik Seviye”, Üzerine çıkıldığında, insanlar hariç, ağaçlar, başka
+bitkiler veya doğal ekosistemler gibi bazı alıcılar üzerinde direkt
+olumsuz etkilerin doğabileceği bir seviyeyi anlatır.
+
+“Limit (Sınır) Değer”, İnsan sağlığı ve/veya bir bütün olarak çevre
+üzerinde zararlı etkileri önlemek, engellemek veya azaltmak
+amacıyla tespit edilen, belirli bir dönem içinde ulaşılacak olan ve
+ulaşıldıktan sonra bir daha aşılmayacak olan bir seviyeyi anlatır.
+“MEİT”, Mevcut en iyi teknikler, emisyonları ve bir bütün olarak
+çevre üzerindeki etkiyi önlemek ve bunun uygulanabilir olmaması
+halinde genel olarak azaltmak amacıyla tasarlanmış emisyon limit
+değerlerinin temelini prensip olarak oluşturmak için belirli tekniklerin
+pratikte uygunluklarını gösteren, faaliyetlerin geliştirilmesinde en
+etkili ve ileri aşama ve bunların işletim metotlarını anlatır,
+
+“Ozon Haberciler”, Zemin seviyesinde ozon oluşumuna katkı yapan
+maddeleri anlatır. i
+
+“PM10”, 10 um aerodinamik çapta 950 (yüzde elliYlik bir verimlilik
+kesintisiyle büyüklüğe göre seçilmiş bir ağızdan geçen partikül
+maddeyi anlatır.
+
+“PM2,5”, 2,5 um aerodinamik çapta 9650 (yüzde elli)lik bir verimlilik
+kesintisiyle büyüklüğe göre seçilmiş bir ağızdan geçen partikül
+maddeyi anlatır. ,
+
+“Sabit Ölçümler”, İlgili veri kalitesi hedeflerine uygun olarak
+seviyeleri belirlemek için, sürekli olarak veya tesadüfi örnekleme
+yoluyla, sabit mekanlarda alınan ölçümleri anlatır.
+
+“Seviye”, Bir kirleticinin dış ortam havasındaki yoğunluğunu aniatir.
+“Tolerans Payı”, Bu Tüzükte belirtilen kurallara uygun olarak limit
+değerin hangi oranda aşılabileceğini gösteren yüzdeyi anlatır.
+“Toplam Gaz Halinde Civa”, Elementsel civa buhan(Hg0) ve reaktif
+gaz halindeki civayı, diğer bir deyişle gaz evresinde mevcut yeteri
+kadar yüksek buhar basıncına sahip suda çözünebilen civa türlerini,
+
+[SAYFA 3]
+Amaç 3.
+
+Kapsam 4.
+
+Yetkili
+Makamlar,
+Sorumluluklar
+ve
+İşletmecilerin
+Yükümlülükleri
+
+18/2012
+
+619
+
+anlatir.
+
+“Toplam Çökelme” Atmosferden yer yüzündeki yüzeylere ( toprak,
+vejetasyon, su, binalar vs) belirli bir süre zarfında ve belirlenen bir
+alana aktarılan toplam kirletici kütlesini anlatır.
+
+“Uçucu Organik Bileşikler (UOB)”, Güneş ışığında azot oksitler ile
+reaksiyon yoluyla fotokimyasal oksitleyiciler üretebilen antropojenik.
+ve biyojenik kökenli organik bileşenleri (metan hariç) anlatır.
+
+“Uzun. Vadeli Hedef”, İnsan sağlığı ve çevrenin etkili olarak
+korunması amacıyla, aşırı maliyet getirmeyen tedbirler yoluyla
+ulaşılabilir olmadığı durumlar. hariç, uzun vadede ulaşılacak bir
+seviyeyi anlatır.
+
+“Üst Değerlendirme Eşiği”, Dış ortam hava kalitesini değerlendirmek
+için sabit ölçümler: ve modelleme teknikleri ve/veya gösterge
+niteliğinde ölçümlerin kombinasyonunun kullanılabileceği bir. seviyeyi
+anlatır.
+
+Bu Tüzüğün amacı, hava kirlenmesinin insan sağlığı ve bir bütün olarak
+çevre üzerindeki zararlı etkilerini önlemek veya azaltmak icin dis ortam
+hava kalitesi hedefleri tanımlanması ve konulması, tanımlanmış metotlar
+ve kriterler temelinde hava kalitesinin değerlendirilmesi, dış ortam hava
+kalitesi üzerine bilgiler elde edilmesi, iyi durumda olduğu yerlerde hava
+kalitesinin korunması ve ihtiyaç olduğunda iyileştirilmesi, hava kalitesi
+bilgilerine toplumun erişiminin sağlanması ve yetkili makamlara rapor
+edilmesini düzenlemektir.
+
+Bu Tüzük, hava kalitesi hedeflerini, dış ortam hava kalitesinin kükürt
+dioksit, azot dioksit, azot oksitler, partiküler madde(PM1O ve PM2.5),
+kurşun, benzen, karbon monoksit, ozon, arsenik, kadmiyum, nikel, civa,
+benzo(a)piren açısından izlenmesi ve degerlendirilmesi kriterleri ve
+metotlarını, hava kalitesinin yönetimiyle, hava kalitesi planlarının
+geliştirilmesiyle; toplumun bilgilendirilmesi ve raporlama ile ilgili kurallar
+ve usulleri kapsar. ;
+
+Ancak; bu Tüzük kuralları, 35/2008 sayılı İşçi. Sağlığı ve Güvenliği Yasası
+ve/veya bu Yasaya dayanılarak yapılan tüzüklerle düzenlenen kapalı
+çalışma alanlarına uygulanmaz.
+
+5. (1) Hava kalitesinin değerlendirilmesi ve yönetimiyle ilgili yetkili
+makamlar, Daire, Devlet Laboratuvarı, Belediyeler ve ilgili kamu
+makamlarıdır. Bu Tüzük kapsamında herhangi bir mükellefiyetin
+uygulanması bakımından yetkili makam Daire’dir.
+
+(2) Dairenin yetki ve sorumlulukları aşağıdaki gibidir.
+
+(A) Bu Tüzük ve bu Tüzüğün bağlı olduğu Çevre Yasasının
+kurallarının uygulanmasını koordine eder,
+
+(B) Hava kalitesini değerlendirmede kullanılacak kriterlerin
+uluslararası teknik ve bilimsel standartlar ile prosedürlere
+uygun olmasını Sağlar,
+
+(C) Değerlendirme yöntemlerini inceleme ve bu Tüzük
+amaçları bakımından kullanılan ölçme sistemlerini
+(ekipman, yöntem, laboratuvar gibi) onaylar,
+
+(Ç) Otomatik ve otomatik olmayan (manuel) izleme icin
+numune alma noktalarının sayısını, tipini ve yerini belirler
+ve her nokta için ölçülecek olan kirleticiyi, numune alma
+süresini ve ölçme yöntemini santar,
+
+[SAYFA 4]
+18/2012
+
+(3)
+
+(4)
+
+(5)
+
+(D)
+(E)
+(F)
+
+(G)
+
+(H)
+(09)
+
+(i)
+
+620
+Hava kalitesi izleme sisteminin çalışıyor durumda olmasını
+sağlar,
+Hava kalitesinin değerlendirilmesi için bölgeleri tespit
+eder,
+Hava kalitesini bu Tüzük kurallarına göre değerlendirir,
+hava kalitesi verilerinin geçerliliğini ve muhafazasını temin
+eder, hava kalitesi için raporlar hazırlar ve kamunun
+bilgilendirilmesini sağlar,
+Kirliliğe (meden olabilecek emisyon kaynaklarında
+denetimler. yapar ve hava kalitesi limit değerlerinin aşımı
+veya aşım riskinin bulunduğu durumlarda uyumsuzlukları
+rapor eder ve bu uyumsuzlukların giderilmesi için gerekli
+girişimlerde bulunur,
+Hava kalitesi planları ve kısa dönemli eylem planlarının
+hazırlanmasını koordine eder,
+Hava kalitesi planları veya kısa dönemli eylem planlarında
+belirtilen tedbirlerin uygulanmasını kontrol eder ve bu
+amaçla denetimler gerçekleştirir,
+Bu-Tüzüğün kendisine verdiği görevleri yerine getirir.
+
+Devlet Laboratuvarı, kirletici seviyelerini değerlendirmek için dış
+ortam havası örneklerini analiz eder ve analizinin doğruluğunu
+sağlar.
+
+Hava kirliliğine sebep olan faaliyetlerin işletmecisi:
+
+(A)
+
+(B)
+(©)
+
+(Ç)
+
+(A)
+
+(B)
+
+(©)
+
+(©)
+
+Hava kalitesi planlarının ve/veya kısa. dönemli eylem
+planlarının hazırlanmasında, ilgili kurumlarla işbirliği
+yapar, .
+
+Hava kalitesi planlarında ve/veya kısa dönemli eylem
+planlarında öngörülen tedbirleri alır,
+
+Emisyon sınır değerlerinin aşımı: halinde o Daireyi
+bilgilendirir ve sınır değerlerin aşım nedenlerini ortadan
+kaldırmak için gerekli önlemleri derhal alır,
+
+Emisyon ölçüm sonuçlarının kayıtlarını tutar ve Dairenin
+talep etmesi halinde bu kayıtları ve işletmede kullanılan
+yakıtlarla ve kirlilik kontrol tedbirleri ile ilgili bilgileri temin
+eder.
+Çevre Yasası'nın 29'uncu maddesinin (3Yüncü fikrası
+uyarınca, Belediyeler ve diğer ilgili kamu makaraları, hava
+kalitesi planlarının hazırlanmasında, bu Tüzüğün 21'inci
+maddesi kapsamında yapılacak olan protokol veya
+protokoller uyarınca, Daire ile işbirliği yaparlar ve bu
+planlarda belirtilen önlemlerin uygulanmasından
+sorumludurlar.
+
+Kurumlar, makamlar ve işletmeciler, Daire'nin emisyon
+envanteri oluşturma da dahil olmak üzere hava kalitesi
+değerlendirme kapsamında talep edeceği ve ayni
+zamanda hava kalitesi planları veya kısa dönemli eylem
+planlarının hazırlanması ve uygulanması için gerekli olari
+bilgiyi ücretsiz olarak sağlarlar.
+
+Sağlayıcının o teslim (ettiği (o bilginin gizli olarak
+değerlendirilebilmesi icin bu bilgi. “gizli olarak
+gösterilmelidir” ibaresinin olması gerekir. Bu gibi bilgiler
+kamuya açık bilgi olmayacaktır.
+
+Diğer ilgili kamu makamları şunlardır:
+
+(a) Meteoroloji Dairesi:
+
+(i) Emisyon kaynaklarının belirlenmesi ve hava
+- kirliliği yayılım modellemesi için gerekli olan
+
+[SAYFA 5]
+(b)
+
+(©)
+
+(¢)
+
+(d)
+
+(e)
+
+(f)
+
+(g)
+
+621
+
+anlık veya geçmiş meteorolojik verileri,
+
+analizleri ve. iklimsel istatistikleri Daireye
+sağlar,
+
+(ii) Meteorolojik şartlardan dolayı toz fırtınaları
+veya yüksek ozon seviyeleri konusunda
+öngörüde bulunmak ve kamuyu bilgilendirmek
+için Daire ile işbirliği yapar.
+
+Karayolları Dairesi:
+
+(i) Daireye, araç emisyonlarının hesaplanması ve
+yol trafiğinin çevresel etkilerinin. izlenmesi için
+gerekli olan karayolları altyapısı ve trafik
+hacmi hakkında bilgi, veri ve öngörü Sağlar,
+
+(ii) Yol trafiğinin hava kalitesi üzerindeki etkilerini
+azaltmak icin gerekli önlemlerin alınması. ve
+uygulanması konusunda Daire ile işbirliği
+yapar.
+
+Akaryakıt işleri ile görevli Bakanlığa bağlı Akaryakıt
+
+Birimi:
+
+(i) o Yakıt kalitesi ve tüketimi konusunda Daireye
+bilgi ve veri sağlar,
+
+(ii) Düşük yakıt kalitesinden veya yakıtın
+depolanması ve dağıtımından dolayı havaya
+verilen emisyonları azaltmak için gerekli tüm
+önlemleri alır.
+
+Elektrik enerjisi işleri ile görevli Kurum:
+
+(i) Elektrik enerjisinin üretiminden, dağıtımından
+ve tüketiminden kaynaklanan emisyonları
+değerlendirmekle ilgili gerekli olan bilgi, veri ve
+öngörü sağlamak için Daire ile işbirliği yapar,
+
+(ii) Eneni sektöründeki emisyonları en aza
+indirgemek için tedbirlerin ve politikaların
+geliştirilmesinde Daire ile işbirliği yapar.
+
+Şehir Planlama Dairesi:
+
+() Hava kirletici emisyonlarının envanteri Ve
+hesaplanması ile ilişkili olan: bilgi, harita, veri
+ve arazi kullanımı, yerleşim ve nüfus öngörüsü
+hakkında bilgi termin etmek için Daire ile
+işbirliği. yapar, .
+
+(ii) Kentsel kalkınma ile ilişkili olan kirletici
+emisyonlarını: azaltmak için önlemlerin
+planlanmasında Daire ile işbirliği yapar.
+
+Tarim Dairesi:
+
+(i) Tarım sektöründen kaynaklanan. emisyonların
+hesaplanması ile ilgili ihtiyaç duyulan tarımsal
+uygulamalar ve üretim hakkında bilgi, veri ve
+öngörü sağlamak için Daire ile işbirliği yapar,
+
+(ii) Hava kalitesi üzerindeki etkileri en aza
+indirgemek için, tarımsal uygulamalar
+hakkında düzenleme, eğitim ve .kontrol
+konularında Daire ile işbirliği yapar.
+
+Orman Dairesi, ormanlardaki hava kirliliğinin
+
+etkilerinin izlenmesi ve raporlanması konularında
+
+Daire ile işbirliği yapar.
+
+Motorlu Araçlar Mukayyitliği, motorlu araçlardan
+
+kaynaklanan yıllık hava kirletici o emisyonlarının
+
+[SAYFA 6]
+Hava
+Kalitesini
+Değerlendirme
+Kriterleri
+
+(1)
+
+(2)
+
+(3)
+
+622
+
+hesaplanmasıyla ilgili gerekli olan kayıtlı araçların
+sayısı, türü, yaşı ve kaç kilometre katettiği hakkında
+istatistiksel bilgi temin etmek için Daire ile işbirliği
+yapar.
+
+(h) Sanayi Dairesi:
+
+(i) Hava kirliliği emisyonlarının hesaplanmasında
+ihtiyaç duyulan, Sanayi tesisleri, üretim
+süreçleri ve üretim konularında istatistiksel
+bilgi toplama ve bu bilgiye erişimi sağlama
+konularında Daire ile işbirliği yapar,
+
+(ii) Hava kalitesi planlarına dahil edilen sanayi
+tesislerinin kontrolu, denetimi ve yönetimi
+konusunda Daire ile işbirliği yapar.
+
+(1) Polis Genel Müdürlüğü, motorlu (taşıtlardan
+kaynaklanan (o emisyonların kontrolu, emisyon
+standartlarını yakalayamayan taşıtların tespiti ve bu
+taşıtlara yaptırım uygulamaları ve hava kirliliğini
+azaltmayı hedefleyen trafik yönetimi için alınan
+önlemlerin uygulanması konularında Daire ve
+Belediyelerle işbirliği yapar.
+
+(i) Kaymakamlıklar ve Belediyeler, Daireye, hava
+kirliliği emisyonlarının hesaplanmasıyla ilişkili olan
+kentsel alanlardaki yollar ve trafik hacmi hakkında
+haritalar ve veriler, nüfus, yerleşim, inşaat izinleri ve
+diğer ilgili faaliyetler hakkında istatistiksel bilgileri
+sağlar.
+
+G) Jeolojive Maden Dairesi:
+
+(i) Daireye, toz emisyonlarının hesaplanması,
+kontrolu ve yönetimi ile ilişkili olan taş ocakları
+ve madenlerdeki prosesler ve üretim
+konularında bilgi ve veri sağlar,
+
+(di) Tag ocaklarından ve madenlerden kaynaklanan
+toz emisyonlarını en aza indirgemek için
+önlemler geliştirme, uygulama ve yürütme
+konularında Daire ile işbirliği yapar.
+
+İKİNCİ KISIM
+Hava Kalitesinin Değerlendirilmesi
+
+Bu Tüzükte belirlenen hava kalitesi hedefleri ile ilgili olarak,
+
+değerlendirme kriterleri, ölçüm metotları ve veri kalitesi
+
+hedefleri temelinde. ülke topraklarının tamamında dış ortam
+
+hava kalitesi değerlendirilmesi yapılır.
+
+Dış ortam hava kalitesi, kükürt dioksit, azot dioksit, azot
+
+oksitleri, partikül maddeler (PM10 ve. PM2:5), kurşun, benzen,
+
+karbon. monoksit, ozon, nikel, arsenik, kadmiyum ile
+
+benzo(a)piren dahil olmak üzere çok halkalı aromatik
+
+hidrokarbonlar kirleticileri ile ilgili olarak değerlendirilir.
+
+Hava kalitesi hedefleri bu Tüzüğe ekli Ek Vdeki Bölüm B'de
+
+düzenlenmiştir. Bu düzenlemede aşağıdaki konular tablolar
+
+halinde belirtilmiştir:
+
+(a) SO2 ve NOZ icin limit değer, değerlendirme ve alarm eşik
+değerleri, NOx için değerlendirme eşik değerleri, SOZ ve
+NOX için kritik seviye,
+
+(b) PMi0, PM2.5, kurşun, benzen ve karbon monoksit için
+
+[SAYFA 7]
+623
+
+limit değeri ve değerlendirme eşik değerleri,
+(c) Arsenik, kadmiyum, nikel ve benzo(a)piren için hedef
+değerleri ve değerlendirme eşik değerleri,
+(¢) Ozon için hedef değerleri ve uzun vadeli hedefler,
+(d) Ozon için bilgi ve alarm eşikleri,
+(4) Veri kalitesi hedefleri bu Tüzüğe ekli Ek 11'de düzenlenmiştir.
+(5) Örnekleme noktaları sınıflaması ve yerleşme kriterleri bu
+Tüzüğe ekli Ek III’te düzenlenmiştir.
+(6) Referans ölçüm metotları bu Tüzüğe ekli Ek Iv‘te
+düzenlenmiştir.
+
+Hava Kalite 7. (1) (A) Ülke topraklarının tamamında hava kalitesi
+Değerlendirmesi değerlendirmesi için bölgeleri Daire tespit eder.
+
+ve Yönetimi İçin
+
+Bölgelerin
+
+Tespiti
+
+(B) Hava kalitesinin değerlendirilmesi ve yönetimi bütün
+bölgelerde yürütülür. Bölgeler hakkındaki bilgiler;
+bölgenin adını, coğrafi ve idari haritasını,izlenen
+kirleticileri, km? olarak alani ve bölge nüfusunu içerir.
+
+(2) Her bölge; bu Tüzüğün 8'inci, 9'uncu ve 10'uncu
+maddelerinde Oo belirlenen Oo değerlendirme Oo gereklerinin
+tespitiyle ilgili, kükürt dioksit, azot dioksit, azot oksitleri,
+partikül maddeler (PM10 ve PM2.5), kurşun, benzen,
+karbon monoksit, arsenik, nikel, kadmiyum, benzo(a)piren
+kirleticiler için bu Tüzüğe ekli Ek I’deki Bölüm B'de
+belirlenen değerlendirme eşikleri yönünden, ozon için ise
+uzun vadeli hedefleri yönünden sınıflandırılır.
+
+(3) Bölgelerin tespitibu Tüzüğe ekli Ek I’deki Bölüm Cde
+öngörülen prosedür uyarınca, her beş yılda bir kere veya dış
+ortam (o kirletici (miktarlarında veya bunlarla ilişkili
+aktivitelerde önemli değişmeler var ise daha erken bir
+tarihte gözden geçirilir.
+
+Kükürt Dioksit, 8. Daire, aşağıdaki fıkralar ve bu Tüzüğe ekli Ek 1'te belirtilen
+
+Azot Dioksit ve kriterler uyarınca, kükürt dioksit, azot dioksit ve azot oksitleri,
+Azot Oksitleri, partikül madde (PM10 ve PM2.5), kurşun, benzen ve karbon
+Partikül Madde monoksit kirleticiler bakımından hava kalitesini değerlendirir:
+
+(PM10 ve PM2.5),
+
+Kurşun, Benzen,
+
+Karbon Monoksit
+
+Bakımından Hava
+
+Kalitesinin
+
+Değerlendirilmesi
+
+(1) Yukarıda belirtilen herhangi bir kirletici ile ilgili olarak,
+
+kirletici seviyesinin © kirletici için belirlenen üst
+değerlendirme eşiğini aştığı tüm bölgelerde sabit ölçümler
+kullanılması zorunludur. Bu ölçümler, kirletici seviyelerinin
+mekansal dağılımı üzerine yeterli bilgi sağlamak üzere,
+modelleme teknikleriyle veya gösterge ölçümlerle
+tamamlanabilir.
+
+[SAYFA 8]
+(2)
+
+(3)
+
+(4)
+
+(5)
+
+(6)
+
+(7)
+
+(8)
+
+(9)
+
+(10)
+
+624
+
+Yukaridaki paragrafta belirtilen kirleticilerin seviyesinin bu
+kirleticiler için belirlenen üst değerlendirme eşiğinin altında
+olduğu tüm bölgelerde, dış ortam hava kalitesini
+değerlendirmek için sabit ölçümler ve modelleme teknikleri
+ve/veya (o gösterge ölçümlerin bir (o kombinasyonu
+kullanılabilir.
+
+Yukarıdaki paragrafta belirtilen kirleticilerin seviyesinin bu
+kirleticiler için belirlenen alt değerlendirme eşiğinin altında
+olduğu tüm bölgelerde, modelleme teknikleri veya objektif
+tahmin teknikleri veya her ikisi birden dış ortam hava
+kalitesini değerlendirmek için yeterli olur.
+
+Sabit ölçümlere ek olarak,bu Tüzüğe ekli Ek Vte belirtilen,
+önemli hava kirliliği kaynaklarından uzakta, kırsal gösterge
+(fon) yerlerinde PM2.5'i ölçmek için en az bir örnekleme
+noktası tesis edilir.
+
+Yukarıdaki (4)'üncü fıkrada SÖZÜ edilen Kırsal gösterge
+(fon) yerlerinde PM2.5 ölçümleri için, partikül madde kütle
+yoğunlaşma ( ölçümlerine ait veri kalitesi hedefleri
+bakımından bu Tüzüğe ekli Ek II’deki Bölüm A ve Bölüm C
+geçerli olur. Numune alma noktaları kriterleri bakımından
+ise bu Tüzüğe ekli Ek III Bölüm A, Bölüm B ve Bölüm D
+bölümleri geçerli olur.
+
+Yayılmış kaynaktan oluşan kirliliği değerlendirmede, sabit
+ölçümler için minimum numune alma noktalarının sayısı bu
+Tüzüğe ekli Ek 111'deki Bölüm E'de belirtildiği gibi olur.
+
+Son üç yıl içerisinde PM10 limit değerinde aşım görülen
+numune alma noktaları, özellikle mekansal gelişme olmak
+üzere özel durumlardan dolayı yeniden yerleştirme gerekli
+olmadıkça, sürdürülür.
+
+PM2,5 ve PM10 parametrelerinin ayni izleme istasyonunda
+ölçüldüğü yerlerde, bunlar iki ayrı numune alma noktası
+olarak kabul edilir. .
+
+Nokta kaynakların civarındaki kirliliğin
+değerlendirilmesinde , sabit ölçümler için numune alma
+noktalarının sayısı; emisyon yoğunluğu, dış ortam
+havasının muhtemel yayılım izleri ve maruz kalacak
+potansiyel nüfus dikkate alınarak hesaplanır.
+
+Tüm bölgelerdeki istasyonların en az biri, bitki örtüsünün
+korunması için saptanan kritik seviyeye uyumluluğun
+değerlendirmesi için kullanılır.
+
+Ozon 9. Daire, aşağıda fıkralar uyarınca, ozon bakımından hava kalitesini
+Bakımından değerlendirir.
+
+Hava Kalitesinin
+Değerlendirilmesi
+
+(1) (A) Ozon yoğunlaşmalarının, önceki beş ölçüm yılından
+
+herhangi birinde,bu Tüzüğe ekli Ek I’deki Bölüm B'nin
+(d) bendinde belirlenen uzun vadeli hedefleri aşmış
+olduğu bölgelerde, sabit ölçümler alınır.
+
+(B) Beş yıldan daha kısa bir dönem için verilerin mevcut
+
+olduğu hallerde, uzun vadeli hedeflerin aşılmış olup
+olmadığını tespit etmek amacıyla, seviyelerin en
+yüksek noktada bulunmalarının muhtemel olduğu
+zaman ve yerlerde gerçekleştirilen kısa süreli ölçüm
+kampanyalarıyla birlikte, emisyon envanterleri ve
+modelleme çalışmalarından elde edilen sonuçlar
+
+[SAYFA 9]
+Arsenik, 10.
+
+Kadmiyum,
+Nikel, Civa ve
+Benzo(a)piren
+Bakimindan
+Hava Kalitesinin
+Değerlendirilmesi
+
+625
+
+kullanılabilir.
+
+(2) Sabit ölçümler için numune alma (örnekleme) noktalarının
+
+(3)
+
+(4)
+
+asgari sayısı aşağıdaki gibidir.
+
+(A) Iki yüz elli bin'den az nüfusa sahip olan her bölgede
+sürekli ölçümler için en az bir istasyon ve iki yüz elli
+bin veya daha fazla nüfusa sahip olan her bölge için
+en az iki istasyon,
+
+(B) Her bölgede, en fazla kirliliğe maruz kalma ihtimali
+olan nüfusun bulunduğu en az bir varoş istasyonu,
+
+(C) Ulkenin tamami için en az bir kentsel istasyon,
+
+(¢) Ülkenin tamamı için en az bir kırsal fon istasyonu,
+
+(D) Azot dioksit her bölgedeki ozon numune alma
+noktalarının en az yüzde elli (%50)’sinde ölçülecektir.
+Bu ölçüm, başka ölçüm metotlarının kullanılabileceği
+kırsal fon istasyonları dışında, sürekli olur.
+
+Önceki beş ölçüm yılından her birinde, yoğunlaşmaların
+
+uzun vadeli hedeflerin altında olduğu bölgelerde,yukarıdaki
+
+(2Yinci fıkrada belirtilen sabit ölçümler için örnekleme
+
+noktalarının sayisi, aşağıdaki kayıtlara tabi olarak
+
+azaltılabilir:
+
+(A) Sabit ölçüm istasyonlarından elde edilen bilgilerin tek
+bilgi kaynağı olduğu bölgelerde, en az bir adet izleme
+istasyonu bulundurulur. Tamamlayıcı
+değerlendirmenin olduğu bölgelerde, bunun sonucu
+olarak bir bölgede hiçbir istasyon olmaması halinde,
+komşu bölgelerdeki istasyonlar ile koordinasyon
+yapılarak uzun vadeli hedefler yönünden ozon
+yoğunlaşmalarının yeterince değerlendirilmesi .
+sağlanır.
+
+(B) Modelleme ve/veya gösterge ölçümlerden sağlanan
+tamamlayıcı değerlendirmeyle birlikte olan ölçümlerin
+Sayısı, ozon trendini ve uzun vadeli hedeflere
+uyulmasını değerlendirmek için yeterli olmalıdır.
+
+(CO) Ülkenin tamamı için en az bir adet kırsal fon
+istasyonu bulundurulur.
+
+(A) Ozon habercisi maddeler ülkede en az bir istasyonda
+ölçülür. Bu istasyon kentsel veya varoş istasyonudur.
+Ozon habercilerine yönelik istasyonların sayısı ve
+yerleşimi, emisyon kaynaklarının gözlenen kirlilik
+yoğunlaşmalarına bağlanmasını kolaylaştıracak, ozon
+habercilerinde herhangi bir trendi analiz edecek,
+emisyon azaltma stratejilerinin etkililiğini ve emisyon
+envanterlerinin tutarlılığını kontrol edecek şekilde
+seçilir,
+
+(B) Ozon habercisi maddelerin ölçümü, en azından azot
+oksitleri (NO ve NO2) ve bir uçucu organik bileşik
+(UOB) olarak benzeni kapsar.
+
+Daire, aşağıdaki kurallar uyarınca arsenik (as), kadmiyum (cd),
+nikel (ni) ve benzo(a)piren (B(a)P) bakımından hava kalitesinin
+değerlendirilmesini sağlar:
+
+[SAYFA 10]
+626
+
+(1) Seviyenin üst değerlendirme eşiğini aştığı tüm bölgelerde
+ölçüm zorunludur. Bu ölçümler, yeterli bilgi temin etmek
+için, modelleme teknikleriyle tamamlanabilir.
+
+(2) Seviyenin üst değerlendirme eşiğinin altında olduğu tüm
+bölgelerde, dış ortam hava kalitesini değerlendirmek için
+ölçümler ve modelleme teknikleri ve/veya gösterge
+ölçümlerin bir kombinasyonu kullanılabilir.
+
+(3) Seviyenin alt değerlendirme eşiğinin altında olduğu tüm
+bölgelerde, dış ortam hava kalitesini değerlendirmek için,
+sadece modelleme teknikleri veya objektif tahmin teknikleri
+veya her ikisinin kullanımı yeterli olur.
+
+(4) Kirleticilerin ölçülmesi gerekli olduğunda, ölçümler sabit
+mekanlarda sürekli olarak veya tesadüfi örnekleme yoluyla
+alınır. Ölçümlerin sayısı, seviyelerin tespit edilebilmesi için
+yeterli olur.
+
+(5) Ölçümler ve diğer tamamlayıcı metotlar yoluyla sağlanan
+bilgi, bu Tüzüğe ekli Ek III’teki numune alma noktası
+kriterlerine ve bu Tüzüğe ekli Ek II’deki veri kalitesi
+hedeflerine uymak için yeterli olur.
+
+(6) Sabit ölçümlerin tek bilgi kaynağı olduğu bölgelerde,
+arsenik(As), kadmiyum(Cd), nikel(Ni) ölçümü ve
+benzo(a)piren (B(a)P) için en az bir adet örnekleme noktası
+tesis edilir.
+
+(7) Azami yoğunlaşmanın üst değerlendirme eşiğini aştığı
+bölgelerde, arsenik(As), kadmiyum(Cd), nikel(Ni) ölçümü
+ve benzo(a)piren (B(a)P) kirleticilerinden herhangi biri için
+en az bir adet kentsel fon istasyonu bulunur.
+
+(8) Yoğunlaşma seviyelerinden bağımsız olarak, dış ortam
+havasında arsenik, kadmiyum, nikel, toplam gaz halinde
+civa, benzo(a)piren ve diğer çok halkalı aromatik
+hidrokarbonlar, yani benzo(a)antrasen,
+benzo(b)fluoranten,benzo(j)fluoranten, benzo(k)fluoranten
+ve indeno(1,2,3-cd)piren
+yoğunlaşmasının(konsantrasyonunun) ve arsenik,
+kadmiyum, civa, nikel ve benzo(a) pirenin toplam
+çökelmesinin gösterge ölçümü için ülkenin tamamına ait
+tek bir kırsal fon örnekleme noktası oluşturulur.
+
+Referans Ölçüm 11. Referans ölçümlerin metotları ve kriterleri bu Tüzüğe ekli Ek IVTe
+Metotları düzenlenmiştir.Bu Tüzüğe ekli Ek IV Bölüm B'deki şartlara tabi
+olarak başka ölçüm metotları da kullanılabilir.
+
+ÜÇÜNCÜ KISIM
+Dış Ortam Hava Kalitesinin Yönetimi
+
+Kükürt Dioksit, 12. (1) (A) Ülkenin her yerinde, SO2, NO2, PM10, CO, benzen ve
+
+Azot Dioksit ve kurşun seviyelerinin bu Tüzüğe ekli Ek de
+Azot Oksitler, düzenlenen dis ortam havası limit değerlerini
+Partikül Madde aşmaması zorunludur.
+
+(PM10 ve
+
+PM2.5),
+
+Kursun,
+
+Benzen,
+
+Karbon
+
+Monoksit icin
+
+[SAYFA 11]
+Dış Ortam
+Hava Kalitesi
+Hedeflerine
+Uyulması
+Yükümlülüğü
+
+Ozona
+Dış Ortam
+Hava Kalitesi
+Hedeflerine
+Uyulması
+Yükümlülüğü
+
+ilişkin
+
+Arsenik,
+Kadmiyum,
+Nikel ve
+Benzo(a)piren
+için Dış Ortam
+Hava Kalitesi
+Hedeflerine
+Uyulması
+Yükümlülüğü
+
+18/2012
+
+Hava Kalitesi
+Değerlendirme
+Sonuçlarının
+Yıllık
+İncelemesi
+
+13.
+
+14.
+
+15.
+
+(2)
+(1)
+
+(2)
+
+(1)
+
+(2)
+
+(1)
+
+627
+
+Daire, hava kalitesinin yukarıdaki (A) bendinde
+belirtilen kirleticilerin sınır değerlerine uygun olduğu
+alanlarda, belirli sınırların altındaki konsantrasyonların
+muhafaza edilmesi ve sürdürülebilir kalkınmaya uygun
+olarak en iyi dış ortam hava kalitesinin korunması için
+gerekli tedbirlerin alınmasını sağlar.
+
+Daire, yukarıdaki (A) bendinde belirtilen kirleticilerin
+herhangi birinin seviyesinin bir limit değeri veya bir
+ilgili tolerans payını geçtiği durumlarda, bu Tüzüğün
+16'ncı maddesi uyarınca hava kalitesi planlarının
+hazırlanmasını sağlar.
+
+Bitki örtüsünü korumak amacıyla Daire, bu Tüzüğe ekli Ek
+I’de düzenlenen kritik seviyelere uyulmasını sağlar.
+
+Daire, Ozon seviyelerinin uzun vadeli hedefleri karşıladığı
+bölgelerde, bu seviyeleri uzun vadeli hedeflerin altında
+tutmak için, sınır ötesi kirlilik ve meteorolojik şartlar gibi
+faktörler imkan verdiği ölçüde, aşırı maliyet getirmeyen
+gereken tedbirlerin alınmasını sağlar.
+
+(8)
+
+(C)
+
+Daire, Ozon hedef değerinin aşıldığı alanlarda, hedef
+değerlere ve daha uzun vadede uzun vadeli hedeflere
+ulaşmak için aşırı maliyet getirmeyen tedbirleri içeren bir
+hava kalitesi planı hazırlayabilir veya bu planın hazırlanmasını
+
+sağlayabilir.
+Daire, arsenik, kadmiyum, nikel ve benzo(a)piren
+seviyelerinin hedef değerleri karşıladığı bölgelerde, bu
+
+seviyeleri hedef değerlerin altında tutmak için, aşırı maliyet
+getirmeyen gereken tedbirlerin alınmasını sağlar.
+
+(A) Daire, yukardaki (1Yinci fıkrada belirtilen kirleticilerin
+herhangi birinin hedef değerinin aşıldığı bölgelerde,
+hedef değerlere ulaşmak için aşırı maliyet getirmeyen
+tüm gerekli tedbirlerin, özellikle temel emisyon
+kaynaklarına yönelik olanların, alınmasını sağlar.
+
+Çevre Yasasının 36'ncı maddesinin (1)'inci fıkrasının (A)
+bendi kapsamına giren endüstriyel tesisler, Çevre
+Yasasının 36'ncı maddesi uyarınca çıkarılacak olan
+Tüzük veya Tüzüklerce belirlenecek izin koşullarını ve
+kriterlerini karşılar. İşletmeci için makul şekilde
+erişilebilir olmaları ve aşın maliyet getirmedikleri
+sürece, mevcut en iyi teknikler uygulanır.
+
+Daire, kükürt dioksit, azot dioksit ve azot oksitleri, partikül
+madde (PM10 ve PM2.5), kurşun, benzen, karbon monoksit
+için bu Tüzüğün 8'inci maddesi uyarinca yapılan hava
+kalitesi değerlendirmesi temelinde, her kirletici için, aşağıda
+gösterildiği gibi yıllık listeler hazırlar;
+
+(A) Seviyenin limit değeri veya (uygulanabilir ise) tolerans
+
+(8)
+
+[SAYFA 12]
+dava
+Planları
+
+18/2012 |
+
+(2)
+
+(3)
+
+(4)
+
+(5)
+
+Kalitesi 16.
+
+628
+
+payıyla birlikte limit değeri aştığı bölgelerin listesi;
+
+(B) Seviyenin limit değer ile (uygulanabilir ise) tolerans
+payıyla birlikte limit değer arasında olduğu bölgelerin
+listesi;
+
+(C) Seviyenin limit değerin altında olduğu bölgelerin listesi.
+
+Yukarıdaki (1)'inci fıkranın (A) bendinde belirtilen listelerin
+
+içerisinde, belirli bir kirleticiye ait aşımların doğal kaynaklara
+
+bağlanabilir oldukları açıkça belirtilmelidir. Doğal olaylara
+bağlanabilir o oldukları gösterilen agimlar bu Tüzük
+bakımından aşım olarak mütalaa edilmez.
+
+Daire,bu Tüzüğün 9’uncu maddesi uyarınca ozon için yapılan
+
+hava kalitesi değerlendirmesi temelinde, her kirletici için,
+
+aşağıda gösterildiği gibi yıllık listeler hazırlar:
+
+(A) Seviyenin uzun vadeli hedefi aştığı bölgelerin listesi;
+
+(B) Seviyenin uzun vadeli hedefin altında olduğu bölgelerin
+listesi.
+
+Daire, arsenik, kadmiyum, nikel ölçümü ve benzo(a)piren
+
+ile ilgili olarak bu Tüzüğün 10'uncu maddesi uyarınca yapılan
+
+hava kalitesi değerlendirmesi temelinde, her kirletici için,
+aşağıda gösterildiği gibi yıllık listeler hazırlar:
+
+(A) Seviyenin hedef değeri aştığı bölgelerin listesi; bu
+bölgeler için, aşım yerleri, maruz kalan nüfus ve kirlilik
+kaynakları dahil edilir,
+
+(B) Seviyenin hedef değerin altında olduğu bölgelerin
+listesi.
+
+Daire, yukarıdaki (1)‘inci fıkranın (A) bendi, (3Yüncü fıkranın
+
+(A) bendi ve (4)'üncü fıkranın (A) bendinde belirtilen hava
+
+kalitesi hedeflerinin aşıldığı her bölge için, bu Tüzüğün
+
+20'nci maddesi uyarınca rapor hazırlanmasına yönelik talep
+edilen bilgileri hazırlar.
+
+(1) Daire, dış ortam havasındetd kirleticilerin seviyelerinin
+Kükürt dioksit, azot dioksit, parçacıklı madde (PM10
+veya PM2.5), kurşun, benzen, karbon meroksit için
+herhangi bir “sınır değeri” veya “limit değeri artı
+tolerans payını” aşarsa, Daire bu Tüzüğe ekii Ek I'de
+belirtilen ilgili sınır değerlere ulaşmak için, aşımın SÖZ
+konusu olduğu bölgeler için gerekli -tedbirleri gösteren
+hava kalitesi planlarının hazırlanma işlemini bsplatır ve
+koordine eder.
+
+(2) Daire çeşitli kirleticiler açısından hava kalitesi planlarının
+hazırlanması veya gerçekleştirilmesi gereken
+durumlarda , müsait yerlerde, ilgili tüm kirleticileri
+kapsayan entegre hava kalitesi planlarını hazırltar ve
+gerçekleştirir.
+
+(3) Hava kalitesi planları en az, vu Tüzüğe ekli Ek YVi'daki
+Bölüm A'da listelenen bilgileri kapsar ve bu Tüzüğün
+17'nci maddesinde düzenlenen önlemleri içerir.
+
+(4) Daire, gerekli olduğu durumlarda, bu medde veya bu
+Tüzük'ün 17'inci maddesi uyarınca istenen tedbirleri
+dahil edebilmek için, Çevre Yasasının 36'ıncı maddesinin
+(1)'inci fıkrasının (A) bendi kapsamındaki bir erdüstriyel
+faaliyeti gerçekleştirecek bir tesis için verilan iznin
+incelemesini talep edebilir.
+
+(5) Hava kalitesi planları; çocuklar da dahil olmak üzere
+özel popülasyon gruplarını hedefleyen özel önlemler de
+
+[SAYFA 13]
+Kısa Dönemli
+Planları
+
+Kamuoyunun
+Bilgilendirilmesi
+
+Eylem 17.
+
+18. (1)
+
+629
+
+içerebilir.
+
+(6) Yukarıdaki (1)‘inci fıkra uyarınca hazırlanacak olan hava
+kalitesi planlar, bu Tüzüğün 21'inci maddesinde
+belirtilen protokol veya protokollerin yapılması şartıyla,
+ilk aşımın gerçekleştiğin yılın sona ermesinden itibaren
+iki yıl içerisinde hazırlanır.
+
+(1) Daire, bu Tüzüğün 8'inci maddesine uygun olarak
+yapılan hava kalitesi değerlendirmesine dayanarak,
+SO2 ve/veya NO2 kirletici seviyelerinin alarm eşiğini
+geçebileceğinin tespit edildiği durumlarda, böylesi bir
+aşımın risklerini veya süresini azaltmak için kısa
+vadede alınabilecek tedbirleri içeren bir eylem planının
+hazırlanmasını sağlar,
+
+(2) Yukarıdaki (1)'inci fıkrada belirtilen riskin bu Tüzüğe
+ekli Ek 1'de (kükürt dioksit, azot dioksit, PM10, PM2.5,
+kurşun, benzen, karbon monoksit için) düzenlenen
+limit değerlerin bir veya daha fazlasına uygulandığı
+yerlerde, kısa dönemli eylem planları hazırlanabilir.
+
+(3) Yukarıdaki (1)'inci ve (2)'nci fıkralardaki düzenleme ile
+birlikte, ozon için alarm eşik değerinin aşılma riskinin
+olduğu yerlerde, kısa dönemli eylem planı sadece,
+yetkili makamın coğrafi, meteorolojik ve ekonomik
+koşulları dikkate alarak böyle bir eylem planının riski,
+böyle bir aşımın süresini ve şiddetini azaltmada önemli
+bir potansiyele sahip olduğuna karar vermesi halinde
+hazırlanır.
+
+(4) Yukarıdaki (1'inci fıkrada belirtilen kısa dönemli
+eylem planları farklı olaylara bağlı olarak, ilgili limit
+değerlerin veya alarm eşik değerlerinin aşılması
+riskine katkıda bulunan faaliyetleri kontrol etmek ve
+gerekirse askıya almak için gereken etkili önlemleri
+sağlar. Bu eylem planları motorlu trafik araçlarıyla,
+inşaat işleriyle, demir atmış gemilerle ve endüstriyel
+tesislerin veya ürünlerin kullanılmasıyla ve dahili
+ısıtmayla ilgili önlemleri de kapsayabilir. Çocuklar dahil
+hassas popülasyon gruplarının korunmasını hedefleyen
+özel eylemler de bu planların çerçevesi içinde kabul
+edilebilir.
+
+(5) Daire, kamuoyunu ve uygun kurum ve kuruluşları kısa
+dönemli eylem planlarının içeriği ve gerçekleştirilmesi
+hakkında bilgilendirir.
+
+DÖRDÜNCÜ KISIM
+Bilgilerin Aktarılması ve Raporlama
+
+Daire kamuoyunu aşağıdaki hususlarda uygun şekilde ve
+tam zamanında bilgilendirir:
+
+(A) Dış ortam havasında izlenen kirleticilerin miktarları
+(konsantrasyonları).
+
+(a) Dış ortam havasında izlenen kirleticilerin miktarı
+hakkındaki bilgiler bu Tüzüğe ekli EK 1'de
+belirtildiği gibi uygun ortalama süreye göre
+ortalama değerler olarak temsil edilir.
+
+[SAYFA 14]
+(2)
+
+(3)
+(4)
+
+(5)
+
+(6)
+
+630
+
+(b) Bilgiler en az; kirleticinin limit değerleri, hedef
+değerleri, alarm eşikleri, bilgi eşikleri veya kontrol
+altına almacak kirleticinin uzun vadeli hedefleri
+dahil hava kalitesi hedeflerini aşan herhangi bir
+seviyeyi gösterir. Bilgiler aynı zamanda hava
+kalitesi hedefleriyle ilgili kısa bir değerlendirmeyi
+ve sağlık üzerine veya uygun olduğu hallerde bitki
+örtüsü üzerine uygun bilgileri içerir. Aşım olan
+yerler, maruz kalan nüfus ve aşımın nedeni ile
+ilgili bilgileri de içerir.
+
+(c) Otomatik olarak izlenen kirletici seviyeleri ile ilgili
+bilgiler internet sayfası vasıtasıyla sunulur ve en
+az günlük bazda ve mümkün olan yerlerde saatlik
+bazda güncellenir.
+
+(ç) İnternet sayfası üzerinden yayınlanan kirletici
+konsantrasyonlanna yönelik bilgiler doğrulamaya
+tabi tutulmamış geçici bilgilerdir. Doğrulamaya
+tabi tutulmuş bilgiler, aşağıdaki (2)'nci fıkra
+kapsamında hazırlanacak olan raporlarda yer alır.
+
+(B) Toz fırtınaları olması halinde PM10 günlük limit
+değerlerinin aşımı, bu aşımın yeri, süresi, en yüksek
+günlük PM10 yoğunlaşması(Miktarı) ve halk için
+önerileri,
+
+(C) Herhangi bir gerçek veya tahmin edilen alarm eşik
+aşımı. Bu konudaki detaylar bu Tüzüğe ekli Ek Vii'de
+listelenen konuların tümünü kapsamalıdır.
+
+(C) Bu Tüzüğün 16'ncı ve 17'nci maddelerinde belirtilen
+hava kalitesi planları
+
+(D) Ağır metallerin hedef değerleri aştığı yerlerdeki
+önlemler.
+
+(A) Daire; bu Tüzüğün kapsadığı tüm kirleticiler için yıllık
+raporları ve bunların yanı sıra (hava kirleticilerinin
+sağlık ve çevre üzerindeki etkileri hakkındaki bilgileri
+yıllık raporlar halinde kamuoyuna sunar.
+
+(B) Yukarıdaki (A) bendinde belirtilen raporlar kirleticilerin
+yıl içerisindeki seviyelerinin yanısıra ilgili ortalama
+süreler için limit değerlerini, hedef değerlerini, uzun-
+vadeli hedefleri, bilgi eşiklerini ve alarm eşiklerini aşan
+seviyeleri özetler.
+
+Daire, kamuoyunu, hava kalitesi değerlendirmesinden ve
+yönetiminden sorumlu yetkili otoriteler hakkında bilgilendirir.
+Kamuoyuna sunulan bilgiler açık, anlaşılabilir ve erişilebilir
+olmalıdır. Detaylı bilgilerin yanısıra, bu Tüzüğe ekli Ek
+VIll'de belirtilen hava kalitesi indeksleri kullanılmak suretiyle
+anlaşılması kolay bilgiler de sağlanır.
+Yukarıdaki (1Yinci fıkrada belirtilen bilgiler, internet veya
+diğer uygun telekomünikasyon ortamları dahil kolay
+erişilebilir medya vasıtasıyla ücretsiz olarak sunulur.
+Daire, hava kalitesinin değerlendirilmesi sonuçları ile ilgili
+bilgi ve verileri yukarıdaki (5)’inci fıkrada belirtilenden farklı
+düzen ve içerik olarak talep eden gerçek veya tüzel kişilere
+söz konusu bilgi veya verileri talep edilen her bir izleme
+istasyonu için yürürlükteki aylık asgari ücretin %2 (yüzde
+iki)'si oranında bir harç karşılığı verir.
+
+[SAYFA 15]
+Hava Kalitesi
+Belirli o Limitleri
+Geçtiği Zaman
+Verilecek
+Raporlar
+
+Periyodik:
+Raporlama
+
+19.
+
+20.
+
+(1)
+
+(2)
+
+(1)
+
+(2)
+
+(3)
+
+631
+
+Hava kalitesi belirli limitleri geçtiği zaman daire, Bakanlığa
+aşağıdaki raporları sunar:
+
+(A) SO2,NO2 veya ozon için eşik değerlerinin aşılması
+halinde veya toz fırtınaları halinde bir iş günü içinde
+kirletici olayların seviyesi ve süresiyle ilgili bilgiler
+hakkında rapor,
+
+(B) Bir alarm eşik değerinin aşılması riski öngörülmesi
+halinde veya toz fırtınası meydana gelmesi halinde, bir
+iş günü içinde bilgiler hakkında rapor,
+
+Bu Tüzüğe ekli Ek de belirtildiği gibi SO2, NO2, ozon veya
+
+PM10 kirleticileri için saatlik veya günlük limitlerin veya hedef
+
+değerlerinin izin verilen aşılma değerleri bir istasyonda
+
+kaydedildiği zaman, bu Tüzüğün 16'nc ve 17'nci
+maddelerine göre planları hazırlamak için prosedürleri
+harekete geçirmek üzere Bakanlık bir ay içinde bilgilendirilir.
+
+Daire, yıllık bazda, yıl sonunu takiben altı ayı geçmemek
+
+kaydıyla, kükürt dioksit, azot dioksit ve azot oksitleri, partikül
+
+madde (PM10 ve PM2.5), kurşun, benzen, karbon monoksit
+arsenik, kadmiyum, nikel, ve benzo(a)piren için bilgileri
+
+Bakanlığa aşağıdaki gibi iletecektir:
+
+(A) Bu Tüzüğün 7'nci maddesi gereğince oluşturulan liste
+ve bölgelerin sınırlanması; bir önceki yıla nazaran cari
+yılda yapılan değişiklikler ve gerekirse değişiklik
+önerileri;
+
+(B) Bir veya daha fazla kirletici seviyesinin limit değeri artı
+tolerans payından (uygulanabilir kirleticiler için) daha
+yüksek olduğu veya hedef değerlerinden veya kritik
+seviyelerden daha yüksek olduğu bölgelerin listesi ve
+bu bölgeler için:
+
+(a) Değerlendirilen seviyeler ve ilgili ise, bu tip
+seviyelerin gözlemlendiği tarihler ve saatler,
+
+(b) Mumkiinse, doğal kaynaklardan yapılan katkılar
+hakkında bir değerlendirme,
+
+(c) Agim olan yerler, maruz kalan nüfus ve kirlilik
+kaynakları hakkında bilgi,
+
+(GO) Bu Tüzüğün 16'nci ve 17'nci maddelerinde
+belirtilen hava kalitesi planları veya önlemler ve
+bunların uygulama safhaları hakkında bilgi.
+
+Her yıl 31 Ekimi geçmemek kaydıyla, yaz dönemi periyodu
+
+için (Nisan ayından Eylül ayına) aşağıdaki gibi geçici ozon
+
+değerlendirmesi yapılır:
+
+(A) Özen bilgi veya alarm eşiğini geçtiği zaman her gün için
+istasyon, tarih ve saat, kirlenme aşımı saat sayısı,
+maksimum saatlik seviye,
+
+(B) Hedef değerin veya uzun vadeli hedef değerinin her
+aşımı icin istasyon, tarih ve günlük maksimum sekiz
+saatlik ortalama.
+
+Her yıl 31 Ekimi geçmemek kaydıyla, bir önceki tüm yıl icin
+
+ozonun aşağıdaki gibi nihai geçerli bilgileri:
+
+(A) Ozon bilgi veya alarm eşiğini geçtiği zaman her gün için
+istasyon, tarih ve saat, kirlenme aşımı saat Sayısı,
+maksimum saatlik seviye,
+
+(B) Hedef değerin veya uzun vadeli hedef değerinin her
+
+[SAYFA 16]
+Hava Kalitesi
+Planlarının
+Hazırlanması
+Konusunda
+Yapılacak Olan
+Protokoller
+18/2012
+
+Hava Kalitesi
+Planlarının
+Onaylanması
+Yürürlüğe Giriş
+
+21.
+
+22.
+
+23.
+
+632
+
+aşılmasında istasyon, tarih, saat ve günlük maksimum
+sekiz saatlik ortalama,
+
+(C) Ozon habercisi maddelerinin yıllık ortalama miktarları
+(yoğunlaşmaları),
+
+(Ç) Bitki örtüsünün korunması için AOT40 değeri.
+
+BEŞİNCİ KISIM
+Son Kurallar
+
+(1) Daire, hava kalitesi planlarının hazırlanması ve uygulanması
+amacıyla, Çevre Yasası'nın 29'uncu maddesinin (3Y'üncü
+fıkrası uyarınca Belediyeler ve diğer ilgili kamu makamları
+ile protokol veya protokoller yapar.
+
+(2) (A) Sınır değerlerin ve alarm eşiklerinin aşıldığı veya
+aşılabileceğine dair risk bulunan yerlerde, bu
+Tüzüğün 5'inci maddesinin (5'inci fıkrasının (Ç)
+bendinde belirtilen kamu kurumları, bu Tüzüğün
+(16)‘na ve (17)'nci maddelerinde belirtilen planların
+hazırlanmasında, yukarıdaki (1'inci fıkra uyarınca
+yapılacak olan protokol veya protokollerle, Daire ile
+işbirliği yaparlar ve bu planlarda belirtilen ve kendi
+faaliyet alanlarına giren konulardaki tedbirlerin
+uygulanmasından sorumlu olurlar.
+
+(B) Yapılacak protokolün amacı bu Tüzük kapsamında
+hazırlanacak olan hava Kalitesi (planlarının
+hazırlanması ve uygulanması sürecini desteklemek
+ve gerekli olan bilgi alış verişini hizlandirmaktir.
+
+(3) Yukarıdaki (1)‘inci ve (2)'nci fıkralarda belirtilen protokoller
+en az aşağıdaki hususları kapsayacaktır:
+
+(A) Kapsam, .
+
+(B) Protokolün amaçları,
+
+(C) Protokoldeki tarafların belirtilmesi ve tarafların
+sorumlulukları, .
+Protokolun süresi ve gözden geçirilmesi.
+
+Bu Tüzük kapsamında hazırlanan hava kalitesi planları, Bakanlığın
+önerisi üzerine Bakanlar Kurulu tarafından onaylanır.
+
+Bu Tüzük, Resmi Gazete yayımlandığı tarihten itibaren 3 (üç) ay
+sonra yürürlüğe girer.
+
+[SAYFA 17]
+633
+
+Ek-I
+
+LİMİT DEĞERLERİ, HEDEF DEĞERLERİ, UZUN VADELİ HEDEFLER, DEĞERLENDİRME
+EŞİKLERİ, BİLGİ VE ALARM EŞİKLERİ
+
+Bölüm A: Kriter
+Veriler toplandığı ve istatistiksel parametreler hesaplandığı zaman bu Tüzüğe ekli Ek 11'ye
+halel gelmeksizin, geçerliliğin kontrolü için aşağıdaki kriter kullanılacaktır:
+
+PARAMETRE Geçerli Veriler İçin Gereken Oranlar
+
+1 saatlik değerler % 75 (örneğin: 45 dakika)
+
+8 saatlik değerler Değerlerin 75'i (örneğin: 6 saat)
+
+8 saatlik dinamik çalışma üzerinden | sekiz saatlik ortalama çalışmanın %75%
+
+maksimum günlük 8 saatlik ortalama (örneğin: her gün 18 saat ortalaması )
+
+24 saatlik değer saatlik ortalamaların 9675'i (örneğin: en az
+18 saat değerler)
+
+Yıllık değer Bir yıl üzerinden (2) saatlik değerin (*) veya
+
+(bu mümkün değilse) 24-saatlik değerin
+96901 (SO2, NO2/NOx, PM10/2.5, kurşun
+ve benzen için uygulanır)
+
+Yaz dönemi (Nisan ayından Eylül ayına
+kadar) üzerinden ve ayrı ayrı kış dönemleri
+(Ocak ayından Mart ayına kadar, Ekim
+ayından Aralık ayına kadar) üzerinden bir
+saatlik değerlerin “75'i (Ö) ( Ozon icin
+
+uygulanır)
+Aşımların sayısı ve maksimum aylık | Günlük maksimum sekiz saatlik ortalama
+değerler (3) değerlerin Y090'ı i
+
+(Her ay 27 mevcut gün) 8.00 ve 20.00
+saatleri arasında bir saatlik değerin 9o90'ı
+
+Aşım sayısı ve maksimum Yaz dönemi (Nisan ayından Eylül ayına
+yıllık değerler (7) kadar) altı ayın beş ayı
+AOT40 (9) ‘AOT40 = degerinin (hesaplanması için
+
+tanımlanan zaman periyodu üzerinden bir
+saatlik değerin 90690'ı
+
+(0) Yillik ortalamanın hesaplanması için gereksinimler düzenli kalibrasyona veya
+enstrümanların bakımına bağlı olan veri kayıplarını kapsamaz.
+
+(2) SOZ, NO2/NOx, PM10/2.5, kurşun, benzen için
+
+() Ozon için
+
+(*) AOT40 ( (ug/m3) - saat cinsinden ifade edilir), her gün Merkezi Avrupa saat
+sisteminde 8.00 ve 20.00 saatleri arasında ölçülen sadece bir saatlik değerleri kullanarak
+verilen bir periyot icin 80 pg/m3 (= 40 parça/milyar) dan büyük olan saatlik
+yoğunlaşmalar ve 80 yg/mn3 yoğunlaşma arasındaki fark toplamı anlamına gelir.
+
+Tüm olası ölçülen veriler mevcut olmadığı durumlarda, AOT40 değerlerini hesaplamak için
+aşağıdaki faktör kullanılacaktır:
+
+AOT40yaklaşık = AOT40 ölçülen x (toplam olası saat sayısı (*) / ölçülen saatlik değerler
+sayısı)
+
+(*) AOT40 tanımının zaman periyodu içinde saat sayısı olarak (örneğin: her yıl 1 Mayıs —
+31 Temmuz arası bitki örtüsü koruması için ve her yıl 1 Nisan — 30 Eylül arası orman
+koruması için 08:00 - 20:00 ).
+
+[SAYFA 18]
+634
+
+Bölüm B: Hava Kalitesi Hedefieri
+
+(a) SO2 ve NOZ için limit değerleri, değerlendirme ve alarm eşik değerleri, NOX için değerlendirme
+eşik değerleri, SO2 ve NOx için kritik seviye
+
+KirleticiOrtalama periyot [Limit değeri (Kritik Üst AN Alarm Uyum
+eviyeğdeğerlendirme jdegerlendirme (değerlendirme tarihi
+iği eşiği eşiği
+SO, İBirsaat 350  ug/mi 500 po/m? (9) | Tüzüğün
+- insan sağlığının(bir o takvim yürürlüğe
+korunması-için - yıında 24 girdiği
+kereyi tarih
+şmamalıdır.
+)
+Bir gün 125 g/m 24-saatlik 24-saatlik Tüzüğün
+(bir o takvimi limit değerinin | limit yürürlüğe
+- insan sağlığınınıyılında üg % 60% (75l|değerinin “e girdiği
+korunmasi-icin - (o İkereyi ug/m? ,| 404 (50 tarih
+jasmamalidir) herhangi bir | ug/m? ,
+
+takvim yılında | herhangi bir
+üç kereyi | takvim
+aşmamalıdır) | yılında üç
+kereyi
+aşmamalıdır)
+
+Takvim yılı ve kig 20 kis Kis Tüzüğün
+dönemi 1 Ekimderi g/m? | dönemindeki | dönemindeki yürürlüğe
+, 31 Marta) limit değerinin | limit girdiği
+~ bitki örtüsünün 601 değerinin % tarih
+korunması içini (12 ug/m3) 40%
+(8 ug/m3)
+NO) Bir saat 200 pg/m3 140  ug/ml100 g/m? [400 yg/m” (*)| Tüzüğün
+(bir (o takvimi (limit (limit yürürlüğe
+- insan sağlığınınyılında 18 değerinin değerinin girdiği
+İkorunması-için kereyi b70'i) 50'si) tarih
+aşmamalıdır) * herhangi bir |: O herhangi
+
+takvim yılında | bir o takvim
+18 kereyi | yılında 18
+aşmamalıdır kereyi
+
+aşmamalıdır
+Takvim yılı İ40ug/mi 32 ug/m | 264g/m? Tüzüğün
+(limit (limit yürürlüğe
+- insan sağlığının değerinin değerin girdiği
+korunması-için 5801) % 6571) tarih
+NOx Takvim Yılı 30 (24 g/m3) [19,5 ug/m Tüzüğün
+- bitki örtüsünün! g/m? | (kritik (kritik yürürlüğe
+korunması için seviyenin seviyenin girdiği
+80'i) %651) tarih
+
+i Hava kalitesi temsil eden yerleşimlerde üç ardışık saatte ölçülmelidir
+2 Ek-III Bölüm B'nin 2'nci maddesindeki kritere göre bitki örtüsünün korunması icin
+oluşturulan istasyonlarda değerlendirilir.
+
+[SAYFA 19]
+635
+
+(b) PM10, PM2.5, kurşun, benzen ve karbon manoksit limit değerleri ve değerlendirme eşik değerleri
+
+Kirletici
+
+Ortalama
+periyot
+
+Limit değeri
+
+Tolerans payı
+
+Üst
+değerlendirme
+iği
+
+Alt
+degerlendirme
+eşiği
+
+Uyum
+
+tarihi
+
+PM1O
+
+Bir gün
+
+- insan
+sağlığının
+korunması
+için -
+
+50 ug/mi
+
+takvim
+35
+
+(bir
+
+yılında
+kereyi
+aşmamalıdır)
+
+Limit değerin
+50'si. 1
+Ocak 2013
+tarihinden bir
+sonraki yılın 1
+Ocak tarihine
+kadar
+azalmaya
+başlayacaktır
+ve bu tarihi
+takiben 1
+Ocak 2015
+tarihine kadar
+“0 değerine
+inecek şekilde
+eşit
+miktarlarda
+azalacaktır.
+
+35 ug/m?
+(herhangi
+takvim
+35
+aşmamalıdır)
+
+bir
+yılında
+kereyi
+
+25 ug/m?
+(herhangi bir
+takvim ( yılında
+35 kereyi
+aşmamalıdır)
+
+1
+2015
+
+Ocak
+
+Takvim yılı
+
+- insan
+sağlığının
+korunması-
+için
+
+40yg/m?
+
+Limit değerin
+%20'si 1
+Ocak .2013
+tarihinden bir
+sonraki yılın 1
+Ocak tarihine
+kadar
+azalmaya
+başlayacaktır
+ve bu tarihi
+takiben 1
+Ocak 2015
+tarihine kadar
+“0 değerine
+inecek şekilde
+eşit
+miktarlarda
+azalacaktır.
+
+28 g/m?
+
+(limit değerinin
+
+% 70'i)
+
+20 yg/m”
+(limit değerinin
+% 501)
+
+1
+2015
+
+Ocak
+
+[SAYFA 20]
+636
+
+Takvim yılı | 25 pa/mi Limit değerin | 17 pg/m? (limit | 12 ug/m (limit 1 Oo Ocak
+%20'si 1 | degerinin % | degerinin % | 2015
+- insan Ocak 2013 | 709 50’)
+sağlığının tarihinden bir
+korunması sonraki yılın 1
+için - Ocak tarihine
+kadar
+azalmaya
+başlayacaktır
+PM2.5 ve bu tarihi
+takiben 1
+Ocak 2015
+tarihine kadar
+“0 değerine
+inecek şekilde
+eşit
+miktarlarda
+azalacaktır.
+Kurşun Takvim yılı | 0,5ug/m3 0.35 ug/m? | 0.25 ug/r | Tüzüğün
+(*) (limit değerinin | (limit değerinin | yürürlüğe
+% 50'i) % 50'i) girdiği
+- insan tarih
+sağlığının
+korunması
+için -
+Benzen Takvim yılı | 5 g/m? 3 5 wg/m | Zug/m Tüzüğün
+(limit değerinin | yürürlüğe
+- insan (limit değerinin | % 40'ı) girdiği
+sağlığının 70'i) tarih
+korunması
+için -
+Karbon maksimum | 10 mg/m? (limit değerinin | (limit değerinin | Tüzüğün
+Imonoksit günlük 8 % 707i) | % 507) | yürürlüğe
+saat girdiği
+ortalaması tarih
+- insan (7 mg/m") (5 mg/m?)
+sağlığının :
+korunması
+için -
+
+() Onlarca yıl süren endüstriyel faaliyetler tarafından kirletilmiş sahalarda yer alan özel
+endüstriyel kaynakların hemen yakınında. Bu tip durumlarda, 2015 yılına kadar limit
+değer 1,0 ug/m3 olacaktır. Daha yüksek limit değerlerinin uygulandığı alanlar bu tip özel
+kaynaklardan 1000 metreden daha fazla uzaklığa genişletilmemelidir.
+
+(c) Arsenik, kadmiyum, nikel ve benzo(a)piren için hedef değerleri ve değerlendirme eşik ©
+
+değerleri +
+Kirletici Hedef Hedef değerin | Hedef değerin | Uygunluğun
+değer (1) | yüzdesi olarak ust | yüzdesi olarak alt | sağlanacağı son
+
+eşik değeri eşik değeri tarih
+
+Arsenik 6 ng/m* % 60 % 40 31 .12. 2015
+(3,6 ng/mi) (2,4 ng/m?)
+
+Kadmiyum 5 ng/m” % 60 ~ % 40 31.12.2015
+(3,0 ng/m?) (2,0 ng/m?)
+
+[SAYFA 21]
+637
+
+Nikel 20 ng/m? % 70 % 50 31.12. 2015
+(14 ng/mi) (10 ng/m?)
+
+Benzo(a)piren | 1 ng/m? % 60 % 40 31 .12. 2015
+(0,6 na/mi) (0,4 ng/m?)
+
+(}) Bir takvim yılı içinde ortalaması alınan toplam PM10 fraksiyonu içindeki oran
+
+(d)Ozon için hedef değerleri ve uzun vadeli hedefler
+
+Hedef Ortalaması Hedef değer Hedef Uzun vadeliluzun vadeli
+alınan değere hedefler hedeflere
+periyot uygunluğun uygunluğun
+
+sağlanacağı sağlanacağı son
+son tarih karin
+Ki)
+
+insan Maksimum 120 pug/m3, bu (Tüzüğün 120 ug/m3,
+
+sağlığının | günlük 8 | değer üç yılık yürürlüğe (takvim yılı
+
+korunması- | saat periyotta girdiği tarih süresince
+
+için ortalama (2) | ortalaması —
+
+alinan her
+takvim yılında
+25 günü
+aşmamalıdır.
+O
+
+Bitki 1 Mayıstan | AOT40 (1 Tüzüğün AOT40 (1
+
+örtüsünün | 31 saatlik yürürlüğe saatlik
+
+korunması | Temmuza değerden girdiği tarih değerden ----
+
+icin (4 kadar hesaplanmistir) hesaplanmıştır)
+
+beş yıllık 6 000 pg/m3 -
+dönemin aat
+ortalaması 18 P
+
+000 ug/m3
+
+saat (3) ;
+
+(*) Hedef değerlerine uygunluk bu tarih itibarıyla değerlendirilecektir. Aşağıdaki üç yıl
+süresince (insan sağlığının korunması için) veya beş yıl süresince (bitki örtüsünün
+korunması için) uygunluğun hesaplanmasında verilerin kullanılacağı ilk yıl olacaktır.
+
+(©) Maksimum günlük.saat sayısı; yoğunlaşmanın, saatlik verilerden ve güncellenmiş her
+saatten hesaplanan sekiz saatlik dinamik ortalamaları incelenerek seçileceği anlamına
+gelir. Bu şekilde hesaplanan her sekiz saatlik ortalama sona erdiği güne atanacaktır.
+“Örneğin: herhangi bir gün için ilk hesaplama periyodu bir önceki gün saat 17:00 den
+mevcut gün saat 01:00’e kadar; herhangi bir gün için son hesaplama periyodu mevcut
+gün saat 16:00 dan 24:00'e kadar olacaktır.
+
+3) Üç veya beş yıl ortalamaları bir tam ve ardışık yıllık veri seti bazında belirlenemiyorsa,
+hedef değerleri ile uygunluğu kontrol etmek için gereken minimum yıllık veriler aşağıdaki
+gibi olacaktır:
+
+—İnsan sağlığının korunması için gereken hedef değeri : Bir yıl için geçerli veriler,
+
+— Bitki örtüsünün korunması için gereken hedef değeri: Üç yıl için geçerli veriler.
+
+(9 Sadece Ek III Bölüm B'nin 2'nci maddesindeki kritere göre bitki örtüsünün/ormanın
+korunması için tanımlanan istasyonlar için uygulanır.
+
+[SAYFA 22]
+638
+
+(e) Ozon için bilgi ve alarm eşikleri
+
+Eşik periyot Eşik Değeri
+Bilgilendirme 1 saatlik ortalama 180 ug/m3
+Alarm 1 saatlik ortalama (+) 240 ug/m3
+
+(*) Bu Tüzüğün 17'nci maddesinin (3)'üncü fıkrasının gerçekleştirilmesi ile ilgili eşik
+değerinin aşılması için üç saatlik ardışık saat için ölçülmeli veya tahmin edilmelidir.
+
+Bölüm C: Üst ve Alt Eşik Değerlerinin Aşımlarının Belirlenmesi
+
+Üst ve alt eşik değerlerinin aşılması, yeterli verilerin mevcut olduğu yerlerde önceki beş
+yılın yoğunlaşmaları temel alınarak belirlenir. Söz konusu geçmiş beş yılın en az üç yılında
+üst ve alt eşik değerleri aşılmışsa, bir değerlendirme eşiği aşılmış kabul edilecektir.
+
+Beş yıllık verilerden daha az yıla ait verilerin mevcut olduğu yerlerde, üst ve alt eşik
+değerlerinin aşılmalarını belirlemek için yıl boyunca ve tipik en yüksek kirlilik seviyelerinin
+muhtemel olduğu yerlerde yapılan kısa süreli ölçüm sonuçları "emisyon envanterlerinden”
+elde edilen sonuçlarla ve modellemelerle kombine edilebilir.
+
+[SAYFA 23]
+639
+
+Ek- II
+
+Bölüm A: Veri Kalitesi Hedefleri
+
+Aşağıdaki veri kalitesi hedefleri hava kalitesi değerlendirmesi için gerçekleştirilen
+ölçümler hakkındaki kalite güvencesi programlarında yol göstermek için tesis edilmiştir:
+(a) Kükürt dioksit, azot dioksit, azot oksitleri, karbon monoksit, partikül madde
+(PM10/PM2.5) kurşun, ozon için veri kalitesi hedefleri
+
+Kükürt dioksit, | Partikül madde | Benzen Ozon ve
+Azot (o dioksit | (PM10/PM2.5) ve ilgili NO ve
+azot oksitleri, | Kurşun NO2 .
+karbon
+monoksit
+Sürekli (*) sabit
+ölçüm
+Belirsizlik % 15 “25 25 %15
+Minimum veri | “590 “490 %90 yaz
+yakalanması döneminde
+“490 —
+kış
+döneminde
+%75 ~
+Minimum süre
+kapsamı
+- kentsel arka-plan 359)
+ve trafik sahaları
+- endüstriyel
+bölgeler “490
+Gösterge ölçüm
+Belirsizlik 25 “550 “030 430
+Minimum veri | %90 “590 “90 “90
+yakalama
+minimum süre | 14“ 41409) 14 © > %10 yaz
+kapsamı döneminde
+Modelleme
+belirsizliği
+Saatlik ortalama 9050 “050
+8 saat için ortalama | %50 %50
+Günlük ortalamalar | %50
+Yıllık ortalamalar 030 “50 %50
+Hedef tahmin | %75 %100 %100 %75
+belirsizliği
+
+(1) Rastgele numune almaya bağlı belirsizlik dahil belirsizlik 25 kalite hedefini
+karşılarsa ve zaman kapsamı hala gösterge ölçümler izin minimum zaman kapsamından
+büyükse, benzen, kurşun ve partiküllü madde için sürekli ölçümlerin yerine rastgele
+ölçümler kullanılabilir. Sonuçların sapmasını önlemek için rastgele numune alma Yıl
+boyunca düzgün dağılmalıdır.
+
+(2) İklim ve trafik için çeşitli koşulları temsil edecek şekilde yıla dağıtılmıştır.
+
+(3) Bir yıl boyunca yıla dağıtılmış olacak şekilde her haftanın rastgele bir gününde yapılan
+bir günlük ölçüm (bir yıl boyunca toplam 52 ölçüm) veya bir yıl boyunca düzgün dağılmış
+sekiz haftalık ölçüm ( bir yıl boyunca toplam 56 ölçüm)
+
+[SAYFA 24]
+640
+
+(4) Bir yıl boyunca yıla dağıtılmış olacak şekilde her haftanın rastgele bir gününde yapılan
+bir günlük ölçüm (bir yıl boyunca toplam 52 ölçüm) veya bir yıl boyunca düzgün dağılmış
+sekiz haftalık ölçüm ( bir yıl boyunca toplam 56 ölçüm)
+
+(b) Benzo(a)piren, arsenik, kadmiyum ve nikel için veri kalitesi hedefleri
+
+Benzo(a)piren | Arsenik, kadmiyum (Toplam gaziToplam çökelme
+ve nikel halinde civa
+Belirsizlik:
+-Sabit ve gösterge ölçüm %50 %40 50 70
+-Modelleme 9460 %60 P60 60
+Minimum veri yakalama 90 9690 90 90
+Minimum zaman kapsamı:
+-Sabit ölçüm “433 650
+-Gösterge ölçüm 414 %14 0014 33
+
+Yukarıdaki (a) ve (b) tablolarında belirsizlik oranları; bir %95'lik güven aralığı için limit
+değer veya hedef değer tarafından dikkate alınan sürede ortalaması alınan farklı ölçümler
+için verilmiştir. Sabit ölçümler için belirsizlik, uygun limit değerin veya hedef değerin
+bölgede uygulanabilir olduğu şeklinde yorumlanacaktır.
+
+Değerlendirme metotlarının belirsizliği (bir %95'lik güven seviyesinde ifade edilir)
+Ölçümde Belirsizliğin ifade edilmesi (ENV 13005-1999) için CEN Kılavuzunun
+prensiplerine, ISO 5725:1994'n metodolojisine ve CEN raporu ‘Hava kalitesi —Çevre
+Havası Referans Ölçümü” Metotları için Belirsizlik tahmini yaklaşımı (CR 14377:2002E)
+içinde temin edilen kılavuza uygun olarak değerlendirilecektir.
+
+Modelleme için belirsizlik; olayların zamanlaması dikkate alınmaksızın, limit değere veya
+hedef değere göre dikkate alınan süre boyunca farklı izleme noktalarının %90'1 için
+ölçülen ve hesaplanan yoğunlaşma seviyelerinden maksimum sapma olarak tanımlanır.
+Modelleme için belirsizlik uygun limit değerin veya hedef değerin bölgesinde uygulanabilir
+olarak yorumlanacaktır. Modelleme sonuçlarını karşılaştırmak için seçilmesi gereken sabit
+ölçümler model tarafından kapsanan ölçeği temsil edecektir. Sabit veya belirtici ölçümler,
+sonuçların saçılmasını önlemek üzere yıl boyunca düzgün dağıtılmalıdır
+
+Hedef tahminin belirsizliği; olayların zamanlaması dikkate alınmaksızın dikkate alınan
+periyotta, limit değer veya hedef değer tarafından ölçülen ve hesaplanan yoğunlaşma
+seviyelerinin maksimum sapması olarak tanımlanır.
+
+Minimum veri ele geçirilmesi ve zaman kapsama: için gereksinimler, -enstrümanların
+düzenli kalibrasyonuna ve normal bakımına bağlı olarak oluşan veri kayıplarını kapsamaz.
+
+Benzo(a)piren ve diğer çok halkalı aromatik hidrokarbonların ölçümü için 24 saat numune
+almak gerekir. Bir aya kadar bir süre boyunca özenle alınan farklı numuneler, metodun
+bu süre boyunca numunelerin kararlı kalmasını sağlaması koşuluyla bir kompozit numune
+olarak kombine edilebilir ve analiz edilebilir, 24 saatlik numune alma aynı zamanda
+arsenik, kadmiyum ve nikel yoğunlaşmalarının ölçümü içinde önerilir.
+
+Minimum veri ele geçirilmesi ve zaman kapsama için gereksinimler, enstrümanların
+düzenli kalibrasyonuna ve normal bakımına bağlı olarak oluşan veri kayıplarını kapsamaz.
+Çökelme oranlarının ölçümü için yıl boyunca aylık veya haftalık numune alımı önerilir.
+Çökelme oranları (kirletici akışı) genellikle, günlük yg/m2 olarak verilir (4g/m2/gün).
+
+Bölüm B: Hava Kalitesi Değerlendirmesinin Sonuçları
+Aşağıdaki bilgiler; içinde ölçüm dışındaki kaynakların ölçümünden bilgi elde etmek için
+
+veya hava kalitesi değerlendirmesinin tek aracı olarak kullanılan diğer kaynakların
+kullanıldığı bölgeler için derlenecektir:
+
+[SAYFA 25]
+641
+
+— Gerçekleştirilen değerlendirme faaliyetlerinin açıklaması, kullanılan metodun referansı
+ile birlikte kullanılan metodun açıklaması,
+
+— Verilerin ve bilgilerin kaynakları,
+
+— Belirsizlikler ve özellikle herhangi bir alanın derecesi veya gerekli ise yoğunlaşmaların
+herhangi bir limit değeri, hedef değeri veya uzun vadeli hedefler artı tolerans payını aştığı
+bölge içindeki yolun veya kümenin uzunluğu, mümkünse içinde yoğunlaşmaların üst eşik
+değerini veya alt eşik değerini aştığı herhangi bir alanın derecesi veya uzunluğu dahil
+sonuçların bir açıklaması,
+
+—Insan sağlığının korunması açısından potansiyel olarak herhangi bir limit değeri aşan
+“seviyelere maruz kalan popülasyon .
+
+Bölüm C: Çevre Hava Kalitesi Değerlendirilmesi İçin Kalite Güvencesi: Veri Geçerliliği
+
+1. Ölçümlerin doğruluğunu ve Bölüm A'da belirtilen veri kalitesi hedeflerine uygunluğunu
+sağlamak için Daire aşağıdakileri sağlamalıdır:
+
+- Bu Tüzüğün 8'inci, 9'uncu ve 10'uncu maddeleri uyarınca dış ortam hava kalitesinin
+değerlendirilmesine ilişkin yapılan ölçümlerin, ISO/IEC 17025:2005 standardının 5.6.2.2
+bölümünde belirtilen gerekliliklere göre izlenebilirliği sağlanmalıdır.
+
+- İstasyonların işletimi için bir kalite güvence ve kalite kontrol sistemi oluşturmalıdır.
+
+- Veri toplama ve raporlama prosesi için bir kalite/güvence/kalite kontrol prosesi
+oluşturulmalıdır.
+
+2. Bu Tüzüğün 20'nci maddesi altında raporlanan veriler doğrulanmış verilerdir. Bu
+Tüzüğün 18'inci ve 19'uncu maddeleri altındaki veriler ise geçici verilerdir.
+
+[SAYFA 26]
+642 Ek- HI
+
+Dış Ortam Hava Kalitesini Değerlendirme ve Çevre Havasında Kükürt Dioksit, Azot Dioksit
+ve Azot Oksitleri,-Partikül Madde (PM10 Ve PM2,5), Kurşun, Benzen, Karbon Monoksit,
+Ozon, Arsenik, Kadmiyum, Nikel ve Benzo(A)Piren Ölçümü İçin Numune Alma
+Noktalarının Yerleri
+
+Bölüm A: Genel
+
+Dış ortam hava kalitesi aşağıdaki kriterlere uygun olarak tüm bölgelerde
+değerlendirilecektir: i
+
+1. Dış ortam hava kalitesi aşağıdaki 2'nci maddede listelenenler dışında tüm
+yerleşimlerde, sabit ölçüm için Bölüm B ve Bölüm C'de oluşturulan kriterlere uygun olarak
+değerlendirilecektir.
+
+Bölüm B ve Bölüm C'de oluşturulan prensipler; bu prensiplerin, dış ortam hava kalitesinin
+gösterge ölçüm veya modelleme ile değerlendirildiği ve içinde ilgili kirleticilerin
+yoğunlaşmasının oluşturulduğu = yerleri (o tanımlamadaki (ilişkileri (o derecesinde
+uygulanacaktır.
+
+2. Insan sağlığına yönelik limit değerlerinin uygunluğu aşağıdaki mahallerde
+değerlendirilmeyecektir:
+
+(a) halkın erişiminin veya sürekli yerleşiminin olmadığı alanlarda yer alan herhangi bir
+yerde;
+
+(b) Bu Tüzüğün üncü maddesine uygun olarak, işte sağlık ve güvenlikle ilgili tüm ilgili
+kuralların uygulandığı fabrika tesislerinde veya endüstriyel tesislerde;
+
+(c) Karayollarının araç geçiş yollarında ve normal olarak merkezi koruma alanına yaya
+erişiminin olduğu yerler dışında, yolların merkezi koruma alanlarında,
+
+3. Bitki örtüsüne ve ulusal ekosistemlere yönelik limit değerlerine uygunluk Bölüm B'nin
+2'inci maddesine uygun olarak konumlanmış yerleşimlerde değerlendirilecektir.
+
+Bölüm B: Kükürt Dioksit, Azot Dioksit ve Azot Oksitleri, Partikül Madde (PM10 ve PM2 =)
+Kurşun, Benzen, Karbon Monoksit, Arsenik, Kadmiyum, Nikel ve Benzo(a)piren İçin
+Numune Alma Noktalarının Makro Ölçekli Konumlanması:
+
+1. İnsan sağlığının korunması:
+
+(a) İnsan sağlığının korunmasına yönelik numune alma noktaları aşağıdaki alanlarda
+bulunan verileri temin edecek şekilde konumlandırılacaktır:
+
+— İçinde, limit değerinin (değerlerinin) ortalama süresi açısından önemli olan bir süre
+boyunca popülasyonun muhtemelen dolaylı veya dolaysız olarak maruz kaldığı en yüksek
+yoğunlaşmaların rneydana geldiği bölgelerin yer aldığı alanlar,
+
+— Genel popülasyonun maruz kaldığı bölgelerin ve kümelerin içindeki diğer alanlarda yer
+alan seviyeler,
+
+— Gıda zinciri yoluyla nüfusun dolaylı yoldan maruz kalması yönünde bilgi veren çökelme
+oranları
+
+(b) Numune alma noktaları; onların çok yakınındaki çok küçük mikro-çevrelerde ölçüm
+yapılmayacak şekilde konumlandırılacaktır; bunun anlamı bir numune alma noktasının,
+numunesi alınan havanın mümkün olan yerlerde, trafik uyarlamalı sahalarda 100 metre
+mesafeden az olmayan ve endüstriyel sahalarda en az 250 m x 250 m ölçülerinde bir
+sokak segmentini temsil edeceği şekilde konumlandırılması gerektiğidir;
+
+(c) Kentsel arka-plan yerleşimleri, bunların kirlilik seviyeleri istasyon yönündeki tüm
+kaynaklardan gelen entegre katkıdan etkilenecek şekilde konumlandırılmalıdır.. Kirlilik
+seviyesi, tek bir kaynak bir kentsel alan için standart olmadığı sürece bu tip tek kaynak
+tarafından domine edilmemelidir. Bu numune alma noktaları genel bir kural olarak, çeşitli
+kilometrekareleri temsil edecektir;
+
+(d) Hedefin kırsal arkaplan seviyelerini değerlendirmesi gereken yerlerde, numune
+toplama noktası yakınındaki kümelerden veya endüstri sahalarından; örneğin: beş
+kilometreden daha yakın sahalar etkilenmeyecektir.
+
+[SAYFA 27]
+643
+
+(e) Endüstriyel kaynaklardan gelen katkıların değerlendirilmesi gereken yerlerde, en
+yakın konut alanındaki kaynağın rüzgar çıkışına en az bir numune toplama noktası tesis
+edilecektir. Arkaplan yoğunlaşmasının bilinmediği yerlerde, ilave bir toplama noktası ana
+rüzgar yönünde konumlandırılacaktır.
+
+Özellikle Arsenik, kadmiyum, nikel veya benzo(a)piren için hedef değerlerinin aşıldığı
+yerlerde, numune alma noktaları (MET uygulamaları izlenebilecek şekilde
+konumlandırılmalıdır.
+
+(f) Numune alma noktaları mümkün olan yerlerde, bunların çok yakınında olmayan
+benzer mahalleri de temsil edecektir.
+
+2. Bitkilerin ve doğal eko-sistemlerin korunması:
+
+Bitki örtüsünün ve doğal eko-sistemlerin korunmasını hedefleyen numune alma noktaları
+konut alanlarından, endüstriyel tesislerden veya karayollarından veya günlük trafik akışı
+ellibinin üzerinde olan büyük yollardan beş km'den daha uzak mesafede
+konumlandirilacaktir; bunun anlamı numunesi alınan havanın en az 1000 km2'lik çevre
+alanı temsil etmesidir. Daha az mesafede konumlandırılacak veya daha dar bir alani
+temsil edecek numune toplama noktası için özel coğrafi koşullar veya özellikle etkilenen
+alanları korumak için fırsatlar dikkate alınabilir. >
+
+3. İstasyonların Sınıflandırılması:
+
+İstasyon tipi | Ölçüm hedefleri Yerleşim
+
+Arkaplan
+
+(Fon)
+
+(gösterge) Kirlenme seviyesi herhangi tek bir
+
+kaynaktan veya trafikten önemli ölçüde
+
+; etkilenmeyen, fakat daha ziyade
+~ Kentsel İnsan sağlığının korunması istasyonun bulunduğu yöne doğru gelen
+
+İnsan sağlığının ve bitki e varia entegre katkısından
+
+- Kırsal örtüsünün/ekosistemin”
+korunması
+Endüstriyel Kirlenme (seviyesinin (ağırlıklı olarak
+İnsan sağlığının korunması yakınlardaki (endüstriyel kaynaklardan
+veya birçok kaynağa sahip endüstriyel
+alanlardan yayılan emisyonlardan
+etkilendiği yerler.
+Trafik ; Kirlenme (o seviyesinin (o ağırlıklı olarak
+İnsan sağlığının korunması yakınındaki trafik (yollar, karayolları,
+
+otobanlar).
+
+© Tablo 2'de yer alan koşulların uygulanması şartı ile.
+
+[SAYFA 28]
+644
+
+Bölüm C. Ozon İçin Numune Alma Noktalarının Sınıflandırılması ve Makro Ölçekte
+Konumlandırılması:
+
+İstasyon Ölçümün hedefleri Temsilcilik” Makroölçek yerleştirme kriteri
+
+Tipi
+
+Kentsel İnsan sağlığının | Birkaç km -Trafik, petrol istasyonları vs.
+korunması: gibi yerel emisyonların
+Popülasyon yoğunluğunun etkisinden uzak yerler;
+ve ozon yoğunlaşmasının -İyi karışmış Oo seviyelerin
+oldukça yüksek olduğu ve ölçülebildiği (o havalandırılmış
+
+| genel popülasyonun yerleşimler;
+maruz kalma oranının -Şehirlerin, parkların
+yüksek olduğu yerlerde (ağaçlardan uzak), çok az
+kentsel popülasyonun trafiğe sahip veya hiç trafiği
+ozona maruz kalmasını olmayan büyük caddeler ve
+değerlendirme meydanlar;
+-Eğitim, spor veya dinlenme
+tesisleriyle karakterize edilen
+açık alanların konut veya
+ticari alanları gibi yerleşimler.
+
+Varoş İnsan sağlığının ve bitki | Onluk -Bir kent alanının dış sınırları
+örtüsünün korunması: basamakların dışında yerleşmiş
+Nüfusun kümelendiği | üzerinde km2. | popülasyonun, hassas
+bölgenin dışında yer alan tahılların veya ulusal eko-
+ve en yüksek ozon sistemlerin Oo yüksek (ozon
+seviyelerine doğrudan seviyelerine maruz Kaldığı
+veya dolaylı olarak ozon oluşumuna uygun
+maruziyetin muhtemel koşullar sırasında ana rüzgar
+olduğu alanlarda bulunan yönünü veya yönlerini
+nüfusun ve bitki takiben maksimum emisyon
+örtüsünün maruziyetini alanından belirli bir uzaklıkta;
+değerlendirmek uygun olan yerlerde, bazı
+
+varoş istasyonları, bölgesel
+arka-plan ozon seviyelerini
+belirlemek üzere aynı şekle
+maksimum emisyon alanını
+rüzgarı yönünde.
+
+Kırsal. insan sağlığının ve bitki | Alt-bölge -İstasyona küçük
+örtüsünün korunması: | seviyeleri yerleşimlerde ve/veya doğal
+Popülasyonun, ekinlerin | (birkaç yüz | eko-sistemlerin, ormanların
+ve doğa! eko-sistemlerin km?) veya ekinlerin olduğu
+alt-bölge ölçeğinde ozon alanlarda konumlandırılabilir;
+yoğunlaşmasına maruz -Ozon temsili için endüstriyel
+kalmasını değerlendirmek tesisler ve yollar gibi anında
+için yerel emisyonların etkisinden
+
+uzakta;
+
+-Açık alanlı sahalarda, fakat
+yüksek dağların zirvelerinde
+değil.
+
+Kırsal arka- | İnsan sağlığının ve bitki | Bölgesel/ulusal | Düşük nüfus yoğunluğuna
+
+plan örtüsünün korunması: /kitasal sahip alanlarda, doğal eko-
+
+ekinlerin ve ulusal | seviyeler sistemli, ormanlık, kentten ve
+ekosistemlerin obölgesel- | (1.000 - | endüstriyel alanlardan en az
+ölçekte ve aynı zamanda | 10.000 km?) 20 km uzaklıktaki alanlar ve
+popülasyonun ozon yerel emisyonlardan uzak
+konsantrasyonuna maruz alanlar; -Yerel _ olarak
+
+[SAYFA 29]
+645
+
+kalmasını değerlendirmek genişleyen ters koşullara
+yakın toprak
+formasyonlarından, Oo yüksek
+dağların zirvelerinden
+
+kaçınılır; -Yerel karakterde
+günlük rüzgar çevrimlerinin
+görüldüğü kıyısal (alanlar
+önerilmez.
+
+© Numune alma noktaları mümkün olan yerlerde bunların hemen yakınında olmayan
+* benzer yerleşimlerin temsilcisi olmalıdır.
+
+Bölüm D: Kükürt Dioksit, Azot Dioksit ve Azot Oksitleri, Partikül Madde (PM10 ve PM2,5),
+Kurşun, Benzen, Karbon Monoksit, Ozon, Arsenik, Kadmiyum, Nikel ve Benzo(a)Piren için
+Numune Alma Noktalarının Mikro-Olcekte Konumlandırılması
+
+Pratikte mümkün olduğu derecede aşağıdakiler uygulanır:
+
+—Giriş numune alma probunun çevresindeki akış; numune toplayıcının yakınında hava
+akışını etkileyen herhangi bir engel olmaksızın kısıtlamasız olmalıdır (En az 2709 lik
+serbest bir ark) (Numune alma noktalarının bina hattındaki hava kalitesini temsil etmesi
+halinde, binalardan, balkonlardan, ağaçlardan ve diğer engellerden ve en yakın binadan
+en az 0,5 metre uzakta olması gerekir).
+
+— Genel olarak, giriş numune alma noktası zeminden itibaren 1,5 metre (havalandırma
+zonu) ve 4 metre arasında olmalıdır. Bazı durumlarda daha yüksek pozisyonlar (8
+metreye kadar) gerekli olabilir. İstasyon büyük bir alanı temsil ediyorsa daha yüksek
+konumlandırma uygun olabilir.
+
+— Giriş probu, çevre havası ile karışmamış emisyonları doğrudan emmekten kaçınmak
+üzere kaynakların hemen yakınına konumlandırılmayacaktır.
+
+— Numune toplayıcının eğzoz çıkışı egzoz havasının numune alıcı girişine sirkülasyonunu
+önleyecek şekilde konumlandırılacaktır.
+
+— Tüm kirleticiler için, trafik uyurlamalı numune alma proplan ana kavşaklardan en az 25
+metre uzaklıkta olacaktır; bordür taşlarına 10 metreden yakın olmayacak ve en yakın
+trafik şeridinin merkezinden en az 4 metre uzaklıkta olacaktır.
+
+Yukarıdaki düzenlemelere ek olarak aşağıdaki faktörler de dikkate alınabilir:
+
+— Kaynaklara müdahale,
+
+— Güvenlik,
+
+— Erişim, ;
+
+— Elektrik enerjisinin ve teiefon iletisimlerinin mevcudiyeti,
+
+— Çevresiyle ilgili olarak sahanın görünürlüğü,
+
+—Kamunun ve operatörlerin güvenliği,
+
+— Farklı kirleticiler için ortak-konumlu numune alma noktaları isteği,
+
+— Planlama gereksinimleri.
+
+Ozon örneklemesi yapılırken, numune alma probu yanma firini ve çok yüksek sıcaklıkta
+çalışan yakrna tesisleri gibi emisyon kaynaklarından yeterli uzaklıkta ve en yakın yoldan
+trafik yoğunluğunun fonksiyonu olarak 10 metre uzaklıkta olmalıdır.
+
+Bölüm E: Yayılmış Kaynaklardan Kaynaklanan Kükürt Dioksit, Azot Dioksit ve Azot
+Oksitler, Partiküler Madde (PM10, PM2.5), Kurşun, Benzen ve Karbon Monoksit
+Konsantrasyonlarının Sabit Ölçümleri için En Az Numune Alme Noktası Sayısı:
+
+Nüfus Maksimum konsantrasyonun üst | Maksimum konsantrasyonun alt ve Ust
+(x1000) değerlendirme eşiğini geçmesi halinde | değerlendirme eşiğinin arasında
+olması halinde
+
+Partiküler madde | Partiküler madde | Partiküler madde | Partiküler
+haricindeki ( PM10 ve PM2,5 | haricindeki | madde ( PM10
+kirleticiler 'un toplamı) kirleticiler ve PM2,5 ‘un
+toplamı)
+0-249 1 2 1 1
+250-499 2 3 1 2
+
+[SAYFA 30]
+646
+
+Bölüm F: Dokümanlar ve Saha Seçiminin Gözden Geçirilmesi:
+
+Saha seçimi prosedürleri detaylı haritalar. dahil sınıflandırma safhasında tamamen
+dokümanlaştırılacaktır. Sahalar; seçme kriterinin uzun süre geçerli kalması için düzenli
+aralıklarla gözden geçirilecektir.
+
+Bölüm G: Nokta kaynaklar:
+
+Nokta kaynakların yakınında kirlenmeyi değerlendirmek ve sabit ölçümler için numune
+alma noktalarının sayısı; emisyon yoğunlukları, çevre havasının olası kirlenme örnekleri '
+ve potansiyel popülasyonun kirliliğe maruz kalma potansiyeli dikkate alınarak
+belirlenmelidir.
+
+Arsenik, kadmiyum, nikel, benzo(a)piren için numune alma noktaları MEIT’nin
+izlenebileceği şekilde konumlandırılmalıdır.
+
+EK-IV
+
+Kükürt Dioksit, Azot Dioksit ve Azot Oksitleri, Partikül Madde (PM10 Ve PM2,5), Kurşun,
+Benzen, Karbon Monoksit, Ozon, Arsenik, Kadmiyum, Nikel, Civa ve Benzo(A) Pirin
+Yoğunlaşmalarının ( Konsantrasyonlarının) Değerlendirmesi İçin Referans Metotları:
+
+Bölüm A: Referans Ölçüm Metotları:
+
+1. Kükürt dioksitin ölçümü için referans metodu:
+
+EN 14212:2005 “Dış ortam hava kalitesi —kükürt dioksit yoğunlaşmasının ultraviyole
+ışınlaması vasıtasıyla ölçümü için standart metot” içinde açıklanan kükürt dioksitin ölçümü
+için referans metodu .
+
+2. Azot dioksit ve azot oksitlerin ölçümü için referans metodu:
+Azot dioksit ve azot oksitlerinin ölçümü için öngörülen metot EN 14211:2005 'Dış ortam
+hava kalitesi —azot dioksit ve azot monoksit yoğunlaşmasının kimyasal ışınım vasıtasıyla
+ölçümü için standart metot” içinde açıklanan azot dioksit ve azot oksitleri referans
+metodudur.
+
+3. Kurşun, arsenik, kadmiyum nikel, civa ve benzo(a) piren'den numune alınması ve
+ölçülmesi için referans metodu:
+
+Kurşun, arsenik, kadmiyum, nikel ve benzo(a) piren'den numune alınması için öngörülen
+metot aşağıdaki 4'üncü maddede açıklanan metottur. Kurşun, arsenik, kadmiyum, nikelin
+ölçümü için referans metot EN 14902:2005 ‘Stispanse partikül maddenin PM10 fraksiyonu
+içindeki Pb/Cd/As/Ni'nin ölçümü için Standart metot” içinde açıklanan metottur. Dış ortam
+havasındaki benzo(a)piren konsantrasyonu ölçümü için referans metod EN
+15549:2008'de tanımlanan metotdur. Ölçüm metodu floresans. dedektörlü yüksek
+performanslı sıvı kromatografi veya kütle spektrometri tesbitli gaz kromatografi temeline
+dayanmaktadır.
+
+Dış ortamdaki toplam gaz halindeki civayı tespit etmek için kullanılacak referans yöntem
+Dış ortam kalitesi- toplam gaz halindeki civa tespiti için standart yöntem 96/62/EC isimli
+EN 15852:2010 standardında verilmektedir. Ölçüm yöntemi soğuk buhar atomik emilim
+spektrometresi veya soğuk buhar atomik floresan spektrometresine dayanır. Çökelme için
+referans yöntem, Dış ortam hava kalitesi- arsenik, kadmiyum, kurşun ve nikelin atmosfer
+çökelmesinin tespit edilmesi için standart yöntem isimli, EN 15841:2009 standardında
+belirtilmektedir.
+
+[SAYFA 31]
+647
+
+4. PM10'dan numune alma ve ölçüm için referans metodu:
+
+PM10'dan numune alma ve ölçüm için referans metodu EN 12341:1999 'Süspanse
+partikül maddenin PM10 fraksiyonunun hava kalitesini belirleme — Referans metodu ve
+ölçüm metotlarının referans eşdeğerlerini göstermek için saha test prosedürü' içinde
+açıklanan metottur.
+
+5. PM2,5'dan numune alma ve ölçüm için referans metodu:
+
+PM2,5'dan numune alma ve ölçüm için referans metodu referans metodu EN 14907:2005
+“Süspanse partikül maddenin PM2,5 fraksiyonunun belirlenmesi için standart gravimetrik
+ölçüm metodu' içinde açıklanan metottur.
+
+6. Benzenden numune alma ve ölçüm için referans metodu:
+
+Benzenin ölçümü için referans metodu EN 14662:2005, kısım 1, 2 ve 3 ‘Dis ortam hava
+kalitesi benzen yoğunlaşmalarının ölçümü için standart metot içinde açıklanan metottur.
+
+7. Karbon monoksit ölçümü için referans metodu:
+
+Karbon monoksit ölçümü için referans metodu EN 14626:2005 'Dış ortam hava kalitesi —
+karbon monoksit yoğunlaşmasının non-dispersif infraruj spektrometrik yöntem vasıtasıyla
+ölçümü için standart metot” içinde açıklanan metottur.
+
+8. Ozonun ölçümü için referans metodu:
+
+Ozonun ölçümü için referans metodu EN 14625:2005 'Dış ortam hava kalitesi —ozon
+yoğunlaşmasının ultraviyole fotometri vasıtasıyla ölçümü için standart metot” içinde
+açıklanan metottur.
+
+9. Dış ortam havasında çok halkalı aromatik hidrokarbonlardan numune alınması ve
+ölçülmesi için metot:
+
+Dış ortam havasında benzo(a)piren yoğunlaşmalarının ölçülmesi için referans metodu
+ölçümü EN 15549:2008 içinde açımlanan metottur. Ölçüm metodu yüksek performanslı
+flöerasant detektörlü yüksek performanslı kromatografiyi veya kütle spektrometrik
+belirleme ile gaz kromatografiyi temel alır. -
+
+Bölüm B: Eşdeğerliğin Gösterilmesi:
+
+PM10 için eşdeğer sonuç bir kararlı ilişkide olmak üzere referans metoduna eşdeğer
+sonuçları gösterebilen bir diğer metot kullanılabilir. Bu olayda bu metot tarafından
+bulunan sonuçlar, referans metodu kullanılarak elde edilen sonuçlara eşdeğer sonuçlar
+üretmek üzere düzeltilmelidir.
+
+Bölüm C: Standartlaştırma:
+
+Gaz haldeki kirleticiler için hacim 293 K sıcaklıkta ve 101,3 kPa atmosfer basıncında
+standartlaştırılmalıdır. Partikül madde ve partikül madde içinde analiz edilecek madde
+(örneğin: kurşun) için numune alma hacmi ölçüm tarihindeki sıcaklık ve atmosfer basıncı
+cinsinden çevre koşullarını gösterir.
+
+Bölüm D: Yeni Ekipmanların Tanıtımı: i
+Bu Tüzüğün gerçekleştirilmesi için satın alınan tüm yeni ekipman referans metoduna veya
+eşdeğerine uygun olmalıdır.
+
+[SAYFA 32]
+648
+EK- V
+
+YOĞUNLAŞMA DİKKATE ALINMAKSIZIN KIRSAL ARKA-PLAN YERLEŞİMLERİNDEKİ
+ÖLÇÜMLER
+
+Kırsal arka-plan yerlesimlerinde PM2.5 için bilgiler yıllık ortalama bazında toplam kütle
+yoğunlaşması olarak sağlanır. .
+
+Bu yoğunlaşmanın kimyasal kompozisyonunu karakterize etmek için uygun bileşeğin
+yoğunlaşması aşağıdaki listede gösterilen şekilde ölçülür.
+
+(a) NHg*
+(0) SO”
+Cc Na*
+d) Ca**
+e) NO;
+KU) Kİ
+(9) cr
+Ğ Mg**
+(h) saf karbon (EC)
+(i) organik karbon (OC)
+
+EK- VI
+
+DIŞ ORTAM HAVA KALİTESİNDE İYİLEŞTİRME İÇİN HAVA KALİTESİ PLANLARINA DAHİL
+EDİLECEK BİLGİLER
+
+Bölüm A: Bu Tüzüğün 16'nci Maddesi Gereğince Temin Edilecek Bilgiler(Hava kalitesi
+planları); ,
+
+1. Aşırı Kirlenmenin Yerinin Tesbiti:
+
+(a) Bölge;
+
+(b) Şehir (harita);
+
+(c) Ölçüm istasyonu (harita, coğrafi koordinatlar).
+
+2. Genel Bilgiler:
+
+(a) Bölge tipi (şehir, endüstriyel veya kırsal alan); .
+
+(b) Kirlenmiş alanın (km?) ve kirlenmeye maruz kalmış popülasyonun tahmini miktarı;
+(c) Faydalı iklim verileri;
+
+(d) Topografya hakkında ilgili veriler;
+
+(e) Bölge içinde koruma gerektiren hedef tipi hakkında yeterli bilgiler.
+
+3. Sorumlu Kurumlar:
+
+iyileştirme planlarının geliştirilmesinden ve gerçekleştirilmesinden sorumlu personelin adı
+ve adresi,
+
+4. Kirlenmenin Doğası ve Değerlendirilmesi:
+
+(a) Geçmiş yıllar boyunca gözlemlenen yoğunlaşmalar (iyileştirme önlemleri
+gerçekleştirilmeden önce);
+
+(b) Projenin başlangıcından itibaren ölçülen yoğunlaşmalar;
+
+(c) Değerlendirme için kullanılan teknikler.
+
+5. Kirlenmenin Menşei
+
+(a) Kirlenmeden sorumlu ana emisyon kaynaklarının listesi (harita);
+
+(b) Bu kaynaklardan toplam emisyon miktarı (ton/yıl);
+
+(c) Diğer bölgelerden taşınan kirlenme hakkında bilgiler.
+
+6. Durum Analizi:
+
+(a) Kirlenme aşımından sorumlu olan bu faktörlerin detayları (örneğin: sınır ötesi taşınım
+dahil taşınım, atmosferdeki ikincil kirleticilerin formasyonu);
+
+(b) Hava kalitesinin iyileştirilmesi için olası önlemlerin detayları .
+
+7. Bu Tüzüğün Yürürlüğe Girmesini Takiben Kirliliği Azaltma Açısından Uyarlanan Bu
+Önlemlerin Veya Projelerin Detayları:
+
+(a) Projede tesis edilen tüm önlemlerin listesi ve açıklarnası;
+
+(b) Gerçekleştirme işleminin zaman çizelgesi;
+
+(c) Planlanan hava kalitesinin ve bu hedeflere ulaşmak için beklenen sürenin iyileştirme
+tahmini.
+
+8. Uzun vadeli olarak planlanan veya araştırılan önlemlerin veya projelerin detayları.
+
+9. Bu Ek altında bilgi temin etmek amacıyla kullanılan yayınların, dokümanların, işleri vs.
+listesi.
+
+[SAYFA 33]
+649
+
+EK- VII
+
+ALARM EŞİKLERİNİN ve BİLGİ EŞİĞİNİN GERÇEK VEYA TAHMİNİ OLARAK AŞILMASI
+HALİNDE KAMUNUN BİLGİLENDİRİLMESİ
+Kamuya temin edilen detaylar en az aşağıdaki bilgileri kapsayacaktır:
+
+(a) Gözlemlenen Aşım (aşımlar) Hakkında Bilgiler:
+
+— Aşım alanının mahalli,
+
+— Aşılan eşiğin tipi (Bilgilendirme eşiği veya alarm eşiği),
+
+— Aşımın başlangıç zamanı ve süresi,
+
+— Ozon durumunda en yüksek bir saatlik yoğunluk ve ek olarak en yüksek sekiz saatlik
+yoğunluk.
+
+(b) Kirlenmedeki Beklenen Değişiklikler (İyileşme, Kararlılık veya Kötüleşme), Mümkün
+Olduğu Takdirde İleriki Saatlerde Beklenen Aşımlarının Coğrafi Alanı ve Bu Değişikliklerin
+Nedenleri
+
+(9 İlgili Popülasyonun Tipi Hakkında Bilgi, Olası Sağlık Etkileri ve Önerilen Davranışlar:
+— Risk altındaki popülasyon grupları hakkında bilgiler ,
+
+— Olası semptomların açıklaması,
+
+— İlgili popülasyon tarafından alınacak önlemler,
+
+— İlave bilgilerin bulunacağı yerler.
+
+(d) Kirlenmeyi ve/veya Kirlenmeye Maruz Kalmayı Önleyici İşlemler Hakkında Bilgiler:
+
+- Ana kaynak sektörlerinin gösterimi;
+- Emisyonları azaltmak için öneriler;
+
+[SAYFA 34]
+650
+
+EK- VIII
+
+HAVA KALİTESİ İNDEKSİ
+(a) Hava Kalitesi İndeksinin Tanımı:
+
+Hava kalitesinin durumu hakkında kamuoyuna kolay ve anlaşılır bilgi sağlamak
+amacıyla, ölçüm istasyonlarında kaydedilen veriler, konsantrasyon aralığına ve ortalama
+periyoduna göre renk kodları ve indekslerle aşağıda düzenlenen tablodaki gibi
+gösterilecektir. Hava kalitesi indeksi, bu Tüzüğün 18'inci maddesinde öngörülen detaylı
+bilgilerin yanı sıra internet sayfasında yer alacaktır. Altı seviye kullanılır: Düşük 1,
+Düşük 2, Orta 3, Orta 4, Yüksek 5, Çok yüksek 6.
+
+Kirlilik |, |PM10[ug/m3] |O3[ug/m?] |NO2[ug/m3] İColma/m31 SO2[ug/m?]
+Seviyesi (İndeks 24 saat ort. 1 saat ort. 1 saat ort. 18 Saat ort. | 1 saat ort.
+Düşük | 4 <15 <40 <50 <2 <50
+
+2 >15; <30 |>40;<80 |>50; <100 |>2; <4 >50; <100
+Orta 3 >30; <40 >80; <120 |>100;<150 |>4; <7 >100;<200
+
+4 >40; <50 >120;<180 |>150;<200 |>7; <10 >200;<350
+Yüksek İp >50; <100 /(>180;<240 |>200;<400 |>10; <20 |>350;<500
+Cok 6 >100 >240 >400 >20 >500
+yüksek
+
+Kirleticiler için aşağıdaki ortalama alma periyotları kullanılır:
+
+- 03, NO2 ve SO2 için 1 saatlik ortalama.
+- PM10 için 24 saatlik ortalama
+- CO için 8 saatlik ortalama
+
+(b) Sağlık Etkileri:
+
+Düşük (Seviye1-2): Hava kirleticilerine hassas olan kişileri dahi etkilemeyecek “olan
+seviyedir.
+
+Orta ( Seviye 3-4) : Hafif bir etkisi var, herhangi bir önlem almayı genellikle gerektirmez,
+hassas kişileri etkileme ihtimali olan seviyedir.
+
+Yüksek (Seviye 5) : Hassas kişiler üzerinde önemli etkileri olan ve bunların etkisini
+azaltmak veya kaçınmak için önlem almayı gerektiren seviyedir.
+
+Çok yüksek (Seviye 6) : Hassas kişiler üzerindeki etkisinin daha yüksek olduğu ve
+insanların zorunlu olmadan dışarıya çıkmamaları tavsiye edilen seviyedir.

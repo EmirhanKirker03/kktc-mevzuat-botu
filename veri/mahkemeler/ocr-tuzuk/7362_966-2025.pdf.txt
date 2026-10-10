@@ -1,0 +1,886 @@
+[SAYFA 1]
+Sayı : 966
+
+3801
+
+SİGORTA HİZMETLERİ (DÜZENLEME VE DENETİM) YASASI
+
+(60/2010, 11/2014, 27/2020 ve 36/2025 Sayılı Yasalar)
+
+Madde 60 Altında Yapılan Tüzük
+
+Kuzey Kıbrıs Türk Cumhuriyeti Bakanlar Kurulu, Sigorta Hizmetleri (Düzenleme ve Denetim)
+Yasası'nın 60'ıncı maddesinin (13)’iincii fıkrasının kendisine verdiği yetkiye dayanarak aşağıdaki
+
+Tüzüğü yapar:
+
+“Kısa İsim 1.
+
+Tefsir
+
+Bu Tüzük, Sigorta Aktüerlerinin Çalışma Esaslarına İlişkin Tüzük olarak
+isimlendirilir.
+
+BİRİNCİ KISIM
+Genel Kurallar
+
+Bu Tüzük'te metin başka türlü gerektirmedikçe;
+
+“Aktüer”, sigortacılık tekniği ile buna ilişkin yatırım, finansman ve demografi
+konularında olasılık ve istatistik teorilerini uygulayarak yasal düzenlemelere
+uygun prim, rezerv ve kar paylarını hesaplayan ve tarife ve teknik esasları
+hazırlayan kişiyi anlatır.
+
+“Aktüerlik Mesleği”, Aktüerin yaptığı işleri meslek edinenleri anlatır.
+“Aktüerlik”, Aktüerlik, sigorta, finans ve emeklilik gibi sektörlerde matematiksel
+ve istatistiksel yöntemler kullanarak finansal riskleri değerlendiren ve yöneten
+bir bilim dalını anlatır.
+
+“Aktüerlik Ruhsatı” Sigorta Yöneticisi tarafından bir defaya mahsusu olarak
+Aktüerlere verilen, Aktüerlik mesleğini icra edebilmeleri için gerekli olan izin
+belgesini anlatır.
+
+"Bakanlık", Daire'nin bağlı olduğu Bakanlığı anlatır.
+
+"Birlik", Kuzey Kıbrıs Türk Cumhuriyeti Sigorta ve Reasürans Şirketler Birliğini
+anlatır.
+
+"Daire", Para, Kambiyo ve İnkişaf Sandığı İşleri Dairesini anlatır.
+
+“Lisanslı Aktüer”, Sigorta Yöneticisi tarafından gerekli nitelik ve şartları taşıyıp
+Lisans Belgesi alan Aktüerleri anlatır.
+
+“Ofis", işyeri adına kayıtlı elektrik faturası veya su faturası veya telefon faturası
+ve belediye işyeri izin onay belgesi olan, fiziksel, teknik ve idari alt yapı ile insan
+kaynakları bakımından yeterli donanıma sahip işyerini anlatır.
+
+“Serbest Çalışan Aktüer”, Herhangi bir sigorta ve reasürans şirketinde bordrolu
+personel olarak çalışmayan, dışarıdan serbestçe sigorta ve raeasiirans şirketlerine
+aktüerlik hizmeti veren ve Sigorta Yöneticisinden ruhsat ve lisans almış
+Aktüerleri anlatır.
+
+“Sicil”, Daire nezdinde aktüerler için tutulan aktüerlik sicilini anlatır.
+
+“Sigorta Şirketi”, Kuzey Kıbrıs Türk Cumhuriyeti'nde kurulmuş sigorta
+şirketleri ile yabancı ülkelerdeki sigorta şirketlerinin Kuzey Kıbrıs Türk
+Cumhuriyeti”ndeki şubelerini anlatır.
+
+“Sigorta Yöneticisi”, Daire Müdürünü anlatır.
+
+“Stajer Aktüer”, Bu Tüzüğün 5'inci maddesinin (1)’inci fıkrasının (C) bendi hariç
+olmak üzere, Sinci maddenin (1)’inci fıkrasında belirtilen nitelikleri taşımaları
+kaydıyla, bu Tüzüğün 9'uncu maddesinde öngörülen birinci seviye sınavlarını
+başarıyla tamamlayan kişileri anlatır.
+
+[SAYFA 2]
+60/2010
+11/2014
+27/2020
+
+36/2025
+
+Amaç
+
+Kapsam
+
+3802
+
+“Yardımcı Aktüer”, Bu Tüzüğün Sinci maddesinin (1)’inci fıkrasının (C) bendi
+hariç olmak üzere ve bu Tüzüğün 9uncu maddesinde öngörülen birinci seviye
+sınavları ve ikinci seviye sınavlarını başarıyla tamamlayan kişileri anlatır.
+“Yasa”, Sigorta Hizmetleri (Düzenleme ve Denetim) Yasası'nı anlatır.
+
+“Yeterli Donanım”, Resmi Kabz Memurluğu ve Mukayyitlik Dairesinde kayıtlı
+işyeri isim levhası, bilgisayar düzeni ve bu görevin yürütülmesine uygun masa,
+sandalye ve gerekli diğer donanımları içeren ofis düzeninin olması ve Bakanlığın
+buna benzer uygun göreceği diğer gereklilikler dahil olmak üzere uygun fiziki
+çalışma ortamını anlatır.
+
+Bu Tüzüğün amacı, aktüerlik mesleğine girişe, aktüerlik mesleğinin çalışma usul
+ve esaslarına, aktiierlerin görev, yetki, sorumluluk ve yükümlülükleri ile
+
+niteliklerine ilişkin kuralları düzenlemektir..
+
+Bu Tüzük, aktüerliğe ve aktüerlerin görev, yetki, sorumluluk ve yükümlülükleri
+ile niteliklerine ilişkin kuralları kapsar.
+
+İKİNCİ KISIM
+
+Aktüerlik Mesleğini Yapacak Olan Kişilerin Sahip Olması Gereken Niteliklere ve İzne İlişkin
+
+Aktüerlik
+Mesleğini
+Yapacak
+Kişilerin
+
+Sahip Olması
+
+Gereken
+Nitelikler
+
+41/2019
+27/2022
+59/2023
+
+Kurallar
+(1) Aktiierlik mesleğini yapacak olan kişilerin aşağıda belirtilen niteliklere sahip
+olması gerekmektedir:
+
+(A) Bir üniversitenin aktüerlik, bankacılık, finans, sigorta, istatistik,
+matematik veya mühendislik bölümlerinin herhangi birinden lisans
+diplomasına sahip olmak,
+
+(B) Yasa'nın 13’ncii maddesinin (2)’nci fıkrasının (A) bendinde belirtilen
+niteliklere sahip olmak,
+
+(C) Aktüerlik alanında, en az üç (3) yıl mesleki deneyime sahip olmak;
+yurt içi ve yurt dışında çalışan lisanslı aktüerler refakatinde, sigorta ve
+reasürans şirketlerinin aktüerya bölümünde ve/veya uluslararası
+reasürans brokerlerinin aktüerya birimlerinde fiilen prim belirleme,
+ürün tasarlama ve zarar tahminleri yapmanın yanı sıra riskleri analiz
+etmeyi, maliyetleri tahmin etmeyi ve finansal planlama yapma
+alanında çalışmak suretiyle edinilen deneyimler mesleki deneyim
+olarak kabul edilir. Söz konusu deneyimin, bu bentte belirtilen ilgili
+yerlerden alınacak resmi evrak, sosyal sigorta dökümü veya kayıtlarla
+belgelenmesi zorunludur.
+
+(©) Kuzey Kıbrıs Türk Cumhuriyeti yurttaşı olmak,
+
+(D) Sigorta Yöneticisinin talebi üzerine, Kamu Mali Yönetimi ve Kontrol
+Yasası'nda özel bütçeli idareler arasında yer alan üniversiteler
+tarafından yapılacak olan aktüerlik sınavında başarılı olmak.
+
+Ancak uluslararası kabul görmüş sınavlar sonucunda aktüer
+ünvanını alanlar bunu Sigorta Yöneticisine belgelemek koşuluyla
+aktüerlik sınavlarından muaftırlar.
+
+(2) Stajyer aktüer veya yardımcı aktüer olarak görev yapacak olanlar için bu
+maddenin yukarıdaki (1)’inci fıkrasının (C) bendinde belirtilen şartlar
+aranmaz.
+
+[SAYFA 3]
+Aktüerlik
+Faaliyeti için
+Sigorta
+Yöneticisinden
+İzin Alma
+Zorunluluğu
+
+Aktüerlik _
+Faaliyet (o İzni
+Verilmesine
+İlişkin Kurallar
+
+Aktüerlik
+Sınavlarına
+İlişkin Kurallar
+
+41/2019
+27/2022
+59/2023
+
+6.
+
+7.
+
+8.
+
+(1)
+
+(2)
+
+(1)
+
+(2)
+
+3803
+
+Kuzey Kıbrıs Türk Cumhuriyeti’nde Aktiierlik faaliyeti yürütmek isteyen
+kişilerin öncelikle Sigorta Yöneticisinden izin almaları gerekmektedir.
+
+Sigorta Yöneticisi başvuru tarihinden itibaren en geç otuz (30) gün
+içerisinde başvuruyla ilgili kararını başvuru sahibine yazılı olarak
+gerekçeleriyle birlikte bildirir.
+
+Aktüerlik faaliyeti yürütmek isteyenler Sigorta Yöneticisine başvuru
+dilekçesi ile aşağıda belirtilen belgeleri sunmak suretiyle izin başvurusunda
+
+bulunur;
+(A) Kuzey Kıbrıs Türk Cumhuriyeti Kimlik Kartının bir sureti,
+
+(B) Sabıka kayıt belgesi,
+(C) Vergi güvenlik belgesi,
+
+(Ç) Kuzey Kıbrıs Türk Cumhuriyeti'nde eğitim işleriyle görevli
+Bakanlık tarafından denkliği onaylanmış lisans diplomasının bir
+sureti,
+
+(D) Aktüerlik sınavlarında başarılı olduğuna dair belge,
+Ancak uluslararası kabul görmüş sınavlar sonucunda aktüer
+ünvanı alınmışsa belgenin ilgili ülkenin sigortacılıkla ilgili yetkili
+makamlarınca aslına uygunluğunun onaylanmış olması zorunludur.
+
+(E) Bu Tüzüğün nci maddesinin (1)’inci fıkrasının (C) bendi uyarınca
+aktüerlik alanında en az üç (3) yıl mesleki deneyimi olduğunu
+gösteren resmi belgeler,
+
+(F) Bu Tüzüğe Ek’li Ek Vde düzenlenen Beyanname Formu.
+
+Sigorta Yöneticisi, gerekli gördüğü hallerde bu maddenin yukarıdaki
+(1)’inci fıkrasında belirtilenlere ek bilgi ve belge talep edebilir.
+
+ÜÇÜNCÜ KISIM
+
+Aktüerlik Sınavlarına ve Sınav Muafiyetlerine İlişkin Kurallar
+
+(1)
+
+(2)
+(3)
+
+(4)
+
+(5)
+
+Aktüerlik Sınavlarına; giriş, değerlendirme ve sınav sonuçlarına itirazlara
+ilişkin esaslar, Sigorta Yöneticisi tarafından, her sınavdan en az iki (2) ay
+önce Kuzey Kıbrıs Türk Cumhuriyeti'nde basım ve dağıtımı yapılan en
+yüksek tirajlı iki (2) gazetede ilan edilir. Ayrıca söz konusu esaslar Dairenin
+internet sitelerinde duyurulur.
+
+Bu Tüzüğün aşağıdaki 9 uncu maddesinde belirtilen yazılı sınavlar bir
+takvim yılında en az bir (1) kez yapılır.
+
+Sınavlar Türkçe yapılır. Sınavlarla ilgili tüm bilgi ve belgeler yazılı olarak
+ve elektronik ortamda Daire tarafından muhafaza edilir.
+
+Sınavların Sigorta Yöneticisinin talebi üzerine Kamu Mali Yönetimi ve
+Kontrol Yasası'nda özel bütçeli idareler arasında yer alan Üniversiteler
+tarafından yapılması esastır.
+
+Sigorta Yöneticisi, gerekli gördüğü hallerde, sınavların uygulanmasına ve
+değerlendirilmesine ilişkin olarak yurt içindeki veya yurt dışındaki kurum,
+
+[SAYFA 4]
+Aktüerlik
+Sınavları
+
+41/2019
+27/2022
+59/2023
+
+9.
+
+(6)
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+3804
+
+kuruluş, meslek örgütleri veya üniversitelerden teknik destek, danışmanlık
+
+ve benzeri hizmetler alabilir.
+
+(A) Birinci ve ikinci seviye sınavlarında toplam 50 adet çoktan seçmeli
+soru sorulur. Üçüncü seviye sınavlarında ise toplam 25 adet klasik soru
+sorulacaktır. Birinci ve ikinci seviye sınavlarında sınav süresi 180
+dakika olacaktır. Üçüncü seviye sınavlarında sınav süresi ise 150
+dakika olacaktır.
+
+(B)  Aktüerlik sınavından 100 puan üzerinden 50 ve üzeri puan alan adaylar
+başarılı olurlar.
+
+(C) Sınav sonucunun yeniden incelenmesini isteyen adayların, bu
+sonuçların açıklanmasından itibaren en geç 5 gün içinde Sigorta
+Yöneticisi”ne başvurmaları gerekmektedir.
+
+Aktüerlikle ilgili olarak aşağıda belirtilen yazılı sınavlar yapılır:
+(A) Birinci Seviye Sınavları;
+
+(a) Temel Sigortacılık ve Ekonomi
+(b) Matematik
+
+(©) (İstatistik ve Olasılık
+
+(¢) Finansal Matematik
+
+(B) İkinci Seviye Sınavları;
+
+(a) Muhasebe ve Finansal Raporlama
+
+(b) Sigorta Matematiği (Hayat ve Hayat Dışı)
+(c) Risk Analizi ve Aktiieryal Modelleme
+
+(¢) Finans Teorisi ve Uygulamaları
+
+(C) Üçüncü Seviye Sınavları;
+
+(a) Finans, Yatırım ve Risk Yönetimi
+(b) O Hayat Dışı Sigortalar
+
+(c) Hayat Sigortaları
+
+(¢) Sağlık Sigortaları
+
+Her seviye için belirlenen sınavların kapsamı Sigorta Yöneticisinin talebi
+üzerine Kamu Mali Yönetimi ve Kontrol Yasası'nda özel bütçeli idareler
+arasında yer alan Üniversiteler tarafından belirlenir.
+
+Bu Tüzüğün Sinci maddesinin (1)’inci fıkrasının (C) bendi hariç olmak
+üzere, Sinci maddenin (1)’inci fıkrasında belirtilen nitelikleri taşımaları
+kaydıyla; Birinci Seviye Sınavlarını başarıyla tamamlayanlar Stajyer Aktüer;
+Birinci Seviye Sınavları ve İkinci Seviye Sınavlarını başarıyla
+tamamlayanlar ise Yardımcı Aktüer ünvanını alır. Birinci Seviye Sınavları
+başarıyla tamamlanmadan İkinci Seviye Sınavlarına girilemez. Her seviye
+sınavı bir takvim yılı içerisinde en az bir (1) kez yapılır. Bir takvim yılı
+geçmeden diğer seviye sınavına girilmez.
+
+Yardımcı Aktüer ünvanına sahip olanlar, Üçüncü Seviye Sınavlarında
+başarılı olmaları ve bu Tüzüğün 5'inci maddesinde belirtilen niteliklere sahip
+olmaları halinde Aktüer ünvanını alırlar.
+
+[SAYFA 5]
+Muafiyetlere
+İlişkin Kurallar
+
+10.
+
+(1)
+
+(2)
+
+(3)
+
+3805
+
+Uluslararası kabul görmüş sınavlarla Aktüer ünvanını alanlar bu Tüzüğün
+yukarıdaki 9’uncu maddesinde düzenlenen Oo aktüerlik sınavlarından
+muaftırlar.
+
+Üniversitelerin Aktüerlik ile ilgili bölümlerinden lisans diplomasına sahip
+olanlar bu Tüzüğün 9’uncu maddesinde düzenlenen Birinci Seviye Aktüerlik
+sınavlarından muaftır.
+
+Uluslararası kabul görmüş sınavlarla Aktüer ünvanını alanlar, bu Tüzüğün
+nci maddesinin (1 Y'inci fıkrasının (D) bendi hariç, 7’nci maddenin (1 inci
+fıkrasında belirtilen nitelikleri taşımaları halinde Sicile kaydedilirler.
+
+DÖRDÜNCÜ KISIM
+
+Aktüerlere Ruhsat ve Lisans Verilmesi ile ve Aktüerlerin Aktüerlik Siciline Kaydedilmesine
+
+Ruhsat
+Verilmesine
+İlişkin Kurallar
+
+Lisans
+Verilmesine
+İlişkin Kurallar
+
+48/1977
+28/1985
+31/1988
+31/1991
+23/1997
+54/1999
+35/2005
+59/2010
+13/2017
+
+11.
+
+12.
+
+(1)
+
+(2)
+
+(1)
+
+(2)
+
+(3)
+
+İlişkin Kurallar
+
+(A) Bu Tüzüğün 6’nci ve 7'nci maddelerinde düzenlenen izni alan
+aktüerlerin, aktüerlik mesleğini icra edebilmeleri için gerekli olan
+ruhsatı alabilmek amacıyla Sigorta Yöneticisi'ne başvuru yapmaları
+zorunludur.
+
+(B) Ruhsat başvuru dilekçesine Gelir ve Vergi Dairesi veznelerine
+yürürlükteki aylık brüt asgari ücretin iki (2) katı tutarındaki ruhsat
+ücretinin yatırıldığını gösteren makbuzun eklenmesi zorunludur.
+
+(C) Aktüerlik ruhsatı bir defaya mahsus olmak üzere verilir.
+
+Aktüerlik ruhsatı,Sigorta Yöneticisi tarafından bir defaya mahsusu olarak
+Aktüerlere verilen, aktüerlik mesleğini icra edebilmeleri için gerekli olan
+izin belgesini anlatır. Sigorta ve Reasürans Şirketinde bordrolu personel
+olarak çalışan Aktüerler, bu maddenin yukarıdaki (1)’inci fıkrasında
+düzenlenen ruhsat ücretinden muaftırlar.
+
+(A) Bu Tüzüğün 6'nci ve 7’nci maddelerinde düzenlenen izni alan serbest
+çalışan aktüerlerin, Lisans almak için Sigorta Yöneticicisi'ne
+başvurması zorunludur.
+
+(B) Yapılacak başvuru dilekçesine, Gelir ve Vergi Dairesi veznelerine
+yürürlükteki aylık brüt asgari ücretin bir (1) katı tutarındaki lisans
+ücretinin yatırıldığını gösteren makbuzun eklenmesi zorunludur.
+
+(C) Serbest çalışan aktüerler, her yıl en geç Ocak ayı sonuna kadar lisans
+ücretini yatırmak ve yatırdıklarını gösteren makbuzu Daireye sunarak
+Lisans Belgesi almak zorundadırlar.
+
+(Ç) Lisans bedeli yatırımları, Kamu Alacaklarının Tahsili Usulu
+Hakkındaki Yasa kurallarına tabidir.
+
+(D) Serbest çalışan aktürelerin fiziksel, teknik ve idari alt yapı ile insan
+kaynakları bakımından yeterli donanıma sahip ofislerinin olması ve
+lisans belgesini işyerlerinde herkesin görebileceği bir şekilde asılı
+bulundurmaları zorunludur.
+
+Sigorta ve Reasürans Şirketinde bordrolu personel olarak çalışan Aktüerler,
+
+yukarıdaki (1)’inci fıkra kapsamındaki lisans ücretinden muaftırlar.
+
+Aktüerlik ruhsat veya lisansının iptal edilmesi veya serbest çalışan aktüerin
+herhangi bir sigorta ve reasürans şirketine aktüer olarak istihdam edilip resmi
+
+[SAYFA 6]
+Aktüerlik
+Siciline Kayıt
+
+13.
+
+(1)
+(2)
+
+(3)
+
+3806
+
+personeli olarak çalışması veya Yasa uyarınca bir ceza alması veya herhangi
+bir sebeple ruhsat veya lisansını kullanamaması durumunda, bu Yasa'nın
+yukarıdaki 11'inci ve 12'nci maddeleri uyarınca yatırılan ruhsat ve lisans
+ücreti hiçbir surette iade edilmez.
+
+Aktüerlik sicil kayıtları Daire tarafından tutulur.
+
+Sınavlarda başarı gösterenler, bu Tüzüğün 7'nci maddesinin (1)’inci
+fıkrasının (D) bendi hariç, 7’nci maddenin (1)’inci fıkrasında belirtilen
+nitelikleri taşıdıklarını gösteren belgelerle birlikte (o aktüerlik siciline
+kaydedilmek üzere Daireye başvurur.
+
+Sigorta Yöneticisi, başvuru sahibinin durumunu inceledikten sonra gerekli
+nitelik ve şartları taşıyanları aktüerlik siciline kaydederek Aktüerlik Belgesi
+verir.
+
+BEŞİNCİ KISIM
+
+Aktüerlerin Görev, Yetki ve Sorumlulukları ile Yükümlülüklerine İlişkin Kurallar
+
+Aktüerlerin
+Görev, Yetki ve
+Sorumluluklarına
+İlişkin Kurallar
+
+14.
+
+(1)
+(2)
+
+(3)
+(4)
+
+(5)
+
+(6)
+
+(7)
+
+(8)
+
+Aktüer, sigorta ve reasürans şirketlerinin Yasa'nın 45'inci maddesinin
+(2)’nci fıkrasında belirtilen belgelerini onaylar.
+
+Aktüer, mali bünyeleri açısından şirket veya diğer kurum ve kuruluşa ilişkin
+öngörülerde bulunur.
+Aktüer, hesap tahminleri ve tarifeler ile ilgili raporlar hazırlar.
+
+Aktüer, Sigorta Yöneticisi tarafından belirlenen belgeleri onaylamak, mali
+bünyeleri açısından şirket veya diğer kurum ve kuruluşlara ilişkin
+öngörülerde bulunmak ve yükümlülüklerini karşılama durumunu sürekli
+olarak izler.
+
+Aktüer, yaptığı işlemlere ilişkin kullandığı hesap tahminlerini bir raporla
+adına iş yaptığı şirket veya diğer kurum ve kuruluşun yönetim kuruluna
+açıklar.
+
+Aktüer, görevi itibarıyla tespit etmiş olduğu yanlış uygulamalarla birlikte,
+onaylamayacağı veya kısmen ya da şerhli onaylayacağı belgeleri, gerekçeli
+olarak adına iş yaptığı şirket veya diğer kurum ve kuruluşun yönetim kurulu
+başkanlığı ile Sigorta Yöneticisine yazılı olarak bildirmek zorundadır.
+
+Aktüer, görevi itibarıyla tespit etmiş olduğu yanlış uygulamalarla birlikte,
+onaylamayacağı veya kısmen ya da şerhli onaylayacağı belgeleri, gerekçeli
+olarak adına iş yaptığı şirket veya diğer kurum ve kuruluşların yönetim
+kurulu başkanlığı ile Sigorta Yöneticisine yazılı olarak bildirir.
+
+(A) Aktüer, kapsamı Sigorta Yöneticisi tarafından belirlenen aktüerya
+raporunu onayladıktan sonra şirket genel müdürü tarafından
+imzalanmış yazı ekinde her yılın Nisan ayı sonuna kadar Sigorta
+Yöneticisine gönderir,
+
+(B) Birden fazla aktüerle çalışılması halinde, aktüerya raporunun ve
+Sigorta Yöneticisi tarafından talep edilecek diğer rapor ve bildirimlerin
+hazırlanması için, aktüerlerden biri şirket tarafından görevlendirilir ve
+en geç iki (2) iş gün içerisinde hangi aktüerin sorumlu imza yetkisinde
+olduğu Sigorta Yöneticisine yazılı olarak bildirilir.
+
+[SAYFA 7]
+Onaya Tabi 15.
+İşlemlere
+İlişkin Kurallar
+
+Aktüerlerin 16.
+Çalışma
+
+Esaslarına
+
+İlişkin Kurallar
+
+Bilgi 17.
+Verilmesine,
+
+Belge İbrazına
+
+ve Sır Saklama
+Yükümlülüğüne
+İlişkin Kurallar
+
+Diğer 18.
+Yükümlülükler
+
+ve Uyulması
+Gereken
+
+Kurallar
+
+Sicil Kaydının 19,
+Silinmesine
+İlişkin Kurallar
+
+3807
+
+Sigorta Yöneticisi, aktüerler tarafından onaylanarak Daireye gönderilen belgelerin,
+raporların ve diğer bildirimlerin şekil ve içeriğini düzenleyebilir, Aktüerler buna
+göre bildirimlerini yapmak zorundadırlar.
+
+Aktüerler, mevzuata, mesleğin icaplarına ve iyi niyet kurallarına uygun hareket
+etmek, şirket veya diğer kurum ve kuruluşlar ile ilgili kişilerin hak ve menfaatlerini
+korumak zorundadırlar.
+
+(1)
+
+(2)
+
+(1)
+(2)
+
+(3)
+
+(4)
+©)
+
+(6)
+
+(7)
+
+(1)
+
+(2)
+
+Aktüer, yapmış olduğu iş ve işlemlere ilişkin olarak ilgili mevzuata göre
+yetkili kılınmış kişi ve mercilerin isteyebilecekleri bilgileri vermek ve
+belgeleri ibraz etmek zorundadır.
+
+Aktüer, sıfat ve görevi dolayısıyla öğrendiği sırları, bu konuda ilgili
+mevzuatta açıkça yetkili kılınmış kişi ve mercilerden başkasına açıklayamaz.
+
+Aktüerler yaptıkları işlemlere ilişkin yaptıkları her türlü yazışmalarında ve
+onayladıkları belgelerde imzaları ile birlikte sicil numaralarını da belirtir.
+Sigorta Yöneticisi, sicile kayıtlı aktüerler için aynı dönemde çalışabilecekleri
+azami şirket sayısını sicile kayıtlı toplam aktüer sayısı ile lisanslı sigorta
+şirketi sayısını esas alarak ihtiyaca göre değerlendirip belirlemeye yetkilidir.
+Aktüerler, çalışmakta oldukları şirketler listesini her yıl Ocak ayının son iş
+gününe kadar Sigorta Yöneticisine gönderir. Söz konusu listedeki
+değişiklikler, değişiklik tarihinden itibaren on (10) iş günü içinde Aktüer
+tarafından Sigorta Yöneticisine bildirilir.
+
+Aktüerler, üç (3) yılda bir olmak ve toplam beş (5) günden az olmamak
+üzere, meslekle ilgili son gelişmeleri içeren, Birlik nezdinde düzenlenecek
+ve içeriği Sigorta Yöneticisi tarafından uygun görülecek eğitim faaliyetlerine
+katılır.
+
+Aktüerler acente, broker veya sigorta eksperi olarak çalışamaz.
+
+Sigorta ve rcasürans şirketlerinde yönetim kurulu üyesi, denetçi, genel
+müdür veya genel müdür yardımcısı olarak çalışan Aktüer, aktüer ünvanı adı
+altında, ilgili şirket adına iş yapamayacağı gibi başka bir şirket adına da
+aktüerlik yapamaz.
+
+Herhangi bir sigorta ve reasürans şirketine aktüer olarak istihdam edilip
+resmi personeli olarak çalışan aktüerler, başka bir sigorta ve reasürans şirketi
+adına aktüerlik yapamazlar.
+
+Sicile kayıtlı olmadan veya sicildeki kayıtlara aykırı olarak Stajyer Aktiier,
+Yardımcı Aktüer veya Aktüer ünvanı kullanılamaz.
+
+Sicile kayıt için bu Tüzüğün aradığı şartların gerçekleşmediğinin veya
+sonradan kaybedildiğinin anlaşılması, kişinin kendi isteği ile kaydının
+silinmesini istemesi durumunda sicil kayıtları Sigorta Yöneticisi tarafından
+silinir. Bu durum, kaydı silinen kişinin bildirdiği adrese Sigorta Yöneticisi
+tarafından gönderilecek yazıyla bildirilir.
+
+Kendi isteğiyle sicil kaydı silinenler, kayıt yenileme talep tarihinden önceki
+bir (1) yıl içinde Sigorta Yöneticisinin belirleyeceği eğitim faaliyetine
+
+[SAYFA 8]
+_ Geçici Madde |,
+Yabancı
+Aktüerlerin
+Sabıka Kayıt
+Belgesine
+
+İlişkin Kural
+
+Geçici Madde 2.
+Yabancı
+Aktüerlerin
+
+Vergi
+
+Güvenlik
+Belgesine
+
+İlişkin Kural
+
+Geçici Madde 3,
+Yabancı
+Aktüerlerin
+
+Lisans
+Diplomasına
+İlişkin Kural
+
+Geçici Madde 4,
+Yabancı
+Aktüerlerin
+Aktüerlik
+Belgesine
+
+İlişkin Kural
+
+Yürütme 20.
+
+Yetkisi
+
+Yürürlüğe 21.
+
+Giriş
+
+3808
+
+devam etmiş olduklarını belgelendirmeleri hâlinde yeniden (o Sicile
+
+kaydedilirler.
+
+ALTINCI KISIM
+Geçici Kurallar
+
+Aktüerlik mesleğini yürütecek olan yabancı kişilerin Sigorta Yöneticicisinden izin
+almak için yapacakları başvurularda, Yasanın yürürlüğe girişini düzenleyen
+maddesi uyarınca Kuzey Kıbrıs Türk Cumhuriyeti yurttaşı olma koşulunun beş (5)
+yıl sonra başlayacağı öngörüldüğünden, yabancı kişilerin bu Tüzüğün 7'nci
+maddesinin (1)’inci fıkrasının (B) bendi tahtında talep edilen Sabıka Kayıt
+Belgesinin sunulmasında, belgenin son beş (5) yıldır sürekli yaşadığı ülke
+makamlarından alınmış olması ve belgelerin noter onaylı tercümelerinin eklenmesi
+zorunludur.
+
+Aktüerlik mesleğini yürütecek olan yabancı kişilerin Sigorta Yöneticicisinden izin
+almak için yapacakları başvurularda, Yasanın yürürlüğe girişini düzenleyen
+maddesi uyarınca Kuzey Kıbrıs Türk Cumhuriyeti yurttaşı olma koşulunun beş (5)
+yıl sonra başlayacağı öngörüldüğünden, yabancı kişilerin bu Tüzüğün 7'nci
+maddesinin (1'inci fıkrasının (C) bendi tahtında talep edilen Vergi Güvenlik
+Belgesinin sunulmasında, belgenin son beş (5) yıldır sürekli yaşadığı ülke
+makamlarından alınmış olması ve belgelerin noter onaylı tercümelerinin eklenmesi
+zorunludur.
+
+Aktüerlik mesleğini yürütecek olan yabancı kişilerin Sigorta Yöneticicisinden izin
+almak için yapacakları başvurularda, Yasanın yürürlüğe girişini düzenleyen
+maddesi uyarınca Kuzey Kıbrıs Türk Cumhuriyeti yurttaşı olma koşulunun beş (5)
+yıl sonra başlayacağı öngörüldüğünden, yabancı kişilerin bu Tüzüğün 7'nci
+maddesinin (1)’inci fıkrasının (Ç) bendi tahtında talep edilen Lisans Diplomasının
+sunulmasında, belgenin ilgili ülkenin yetkili makamlarınca aslına uygunluğunu
+ve Kuzey Kıbrıs Türk Cumhuriyeti eğitim işleriyle görevli Bakanlık tarafından
+denkliğinin onaylanmış olması zorunludur.
+
+Aktüerlik mesleğini yürütecek olan yabancı kişilerin Sigorta Yöneticicisinden izin
+almak için yapacakları başvurularda, Yasanın yürürlüğe girişini düzenleyen
+maddesi uyarınca Kuzey Kıbrıs Türk Cumhuriyeti yurttaşı olma koşulunun beş (5)
+yıl sonra başlayacağı öngörüldüğünden, yabancı kişilerin bu Tüzüğün 7'nci
+maddesinin (1'inci fıkrasının (D) bendi tahtında talep edilen Aktüerlik Belgesinin
+sunulmasında, belgenin ilgili ülkenin Sigortacılıkla ilgili yetkili makamlarınca
+aslına uygunluğunun onaylanmış olması zorunludur
+
+YEDİNCİ KISIM
+Son Kurallar
+
+Bu Tüzük, Para, Kambiyo ve İnkişaf Sandığı İşleri Dairesi'nin bağlı olduğu
+Bakanlık tarafından yürütülür.
+
+Bu Tüzük, Resmi Gazete'de yayımlandığı tarihten başlayarak yürürlüğe girer.
+
+[SAYFA 9]
+EKI
+
+3809
+
+SIGORTA AKTUERLERINE ILISKIN BEYANNAME FORMU
+(Sigorta Aktüerlerinin Çalışma Esaslarına İlişkin Tüzüğünün 7(1)(F) Maddesi uyarınca)
+
+A. KİŞİSEL BİLGİLER
+
+ADI-SOYADI
+
+DOĞUM YERİ VE TARİHİ
+
+FOTOĞRAF
+
+UYRUĞU
+ANA ADI
+
+BABA ADI
+
+ÖĞRENİM DURUMU
+
+A AD aS — m ss
+
+KİMLİK NO:
+
+B. MESLEKİ BİLGİLER
+
+HALEN ÇALIŞTIĞI İŞYERİNİN ÜNVANI VE ADRESİ :
+
+MESLEĞİ VE GÖREV ÜNVANI:
+
+DAHA ÖNCE ÇALIŞTIĞI İŞYERLERİ
+
+İŞYERİ ÜNVANI ©
+
+GİRİŞ-AYRILIŞ
+TARİHİ
+
+GÖREV ÜNVANI
+
+Wi BiwWiN
+
+C. MALİ BİLGİLER
+
+1. ORTAĞI OLDUĞU ŞİRKETLER ©
+
+FAALİYET (© HİSSE
+ALANI | TUTARI(TL)
+
+İŞTİRA | İMTİYAZL
+K IPAY
+ORANI | SAHİPLİĞİ
+(%) si
+
+ŞİRKET ÜNVANI
+
+[SAYFA 10]
+3810
+
+ai: ni BER
+
+2. SAHİP OLDUĞU FİNANSAL VARLIKLAR ©
+
+| BULUNDUĞU FİNANSAL a
+
+TURU KURULUS PİYASA DEĞERİ
+1
+2
+3
+4
+5
+6
+7
+
+3. SAHİP OLDUĞU GAYRİMENKULLER ©)
+| SINIRLAMALAR
+YERİ CINSI PAFTA | ADA. PARSEL (5)
+1
+7
+3
+4
+5
+6
+7
+4. SAHİP OLDUĞU DİĞER VARLIKLAR ©
+VARLIĞIN CİNSİ PİYASA DEĞERİ
+
+Din PW iNnie
+
+[SAYFA 11]
+3811
+
+5. SON BEŞ YILA AİT GELİR VE VERGİ DAİRESİNE BEYAN EDİLEN GELİR VE
+TAHAKKUK EDEN GELİR VERGİSİ
+
+YILI
+
+BEYAN EDİLEN GELİR
+
+TAHAKKUK EDEN GELİR
+VERGİSİ
+
+6. GERÇEK VE TÜZEL KİŞİLERE BORÇLARI
+
+ALACAKLININ ADVÜNVANI TÜRÜ
+
+ALACAĞIN
+
+MİKTARI VADESİ
+
+SED ENB WINES
+
+OLMADIGI:
+
+D. SON BEŞ YIL İÇİNDE YURT İÇİ VEYA YURTDIŞI BANKALARDAN VEYA
+DİĞER MALİ KURUMLARDAN KULLANDIĞI KREDİLER VEYA BAŞKA
+FİNANSMAN KAYNAKLARI DOLAYISIYLA İCRA TAKİBİNE UĞRAMIŞ OLUP
+
+E. HAKKINDA AÇILMIŞ BİR KAMU DAVASININ BULUNUP BULUNMADIĞI;
+VARSA DAVANIN KONUSU:
+
+Aşağıda imzası bulunan ben
+
+beyan ederim.
+vermen İlan
+
+a sa A, ever oe , bu beyannamede yer alan
+tüm bilgilerin gerçek ve doğru olduğunu ve Değiştirilmiş Şekliyle 60/2010 sayılı Sigorta Hizmetleri
+(Düzenleme ve Denetim) Yasası'na istinaden çıkarılmış bulunan Tüzüğe göre uygun olduğunu
+
+AdıSoyadı...........
+Kimlik Kartı no:...
+
+İmza:...............ei catsestsvaverseees

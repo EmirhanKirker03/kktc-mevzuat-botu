@@ -1,0 +1,559 @@
+[SAYFA 1]
+——
+
+235
+
+KUZEY KIBRIS TÜRK CUMHURİYETİ
+MERKEZ BANKASI YASASI
+
+(41/2001 Sayılı Yasa)
+Madde 5. (1) (E) ve Madde 38. (i) Altında Tebliğ
+
+KURUMSAL ELEKTRONİK ÖDEME SİSTEMİ (KEÖS)
+HAKKINDA TEBLİĞ
+
+BİRİNCİ BÖLÜM
+Amaç, Kapsam ve Tanımlar
+
+Madde İ - Amaç
+
+Bu Tebliğin amacı Kurumsal Elektronik Ödeme Sisteminin işleyişine ilişkin genel kurallar ile
+Sistemin taraflarının hak ve yükümlülüklerini belirlemektir.
+
+Madde 2- Kapsam
+
+Kurumsal Elektronik Ödeme Sistemi (KEÖS) Tebliği, kamu kuruluşları, belediyeler,
+bankalar ve Merkez Bankası'nı kapsar.
+
+Madde 3 - Tanımlar
+
+Bu Tebliğ ve eklerinde geçen;
+
+Alacaklı: Kendisine ödeme yapılacak hesap sahibi gerçek veya tüzel kişiyi,
+
+Alacaklı Banka: Kendisine ödeme yapılacak Alacaklı hesap sahibine ait hesabın
+bulunduğu bankayı,
+
+Banka: 39/2001 Sayılı Bankalar Yasası kapsamındaki bankalar ile 45/1992 Sayılı
+Yasa kapsamındaki Kuzey Kıbrıs Türk Cumhuriyeti Kalkınma Bankası'nı,
+
+Belediye: 51/1995 Sayılı Belediyeler Yasası kapsamındaki belediyeleri,
+
+Belge: Sistem dâhilinde, katılımcılar arasında hesap takibine ve/veya ödemelere ilişkin
+kullanılan elektronik dokümanları,
+
+Borçlu: Ödemelere ilişkin yükümlülüklerini yerine getiren Muhatap Banka nezdindeki
+hesap sahibi katılımcıyı,
+
+Fon Aktarımı: Muhatap Bankanın, Ödeme Dağıtım Listesindeki toplam tutara göre
+Alacaklı Bankaya gerçekleştirdiği para transferini,
+
+Hesap Listesi: Borçlunun, Muhatap Banka nezdinde işlem göreceği hesaplarını,
+IBAN: Uluslararası Banka Hesap Numarasını,
+
+İzahname: Mesaj ve belge türlerinin katılımcı tarafından nasıl kullanılması
+gerektiğini, belirli kurallara göre açıklayan KEÖS Kullanım Kuralları İzahnamesi'ni,
+Kurumsal Elektronik Transfer Sistemi (KEÖS): Katılımcının hesaplarını takip
+etmesini ve/veya ödemelerini gerçekleştirmesini sağlamak amacıyla belirli kurallarez
+
+[SAYFA 2]
+anlatır.
+
+236
+
+göre elekironik ortamda katılımcılar arasında mesajların iletimini sağlayan bilişim
+sistemini,
+
+Kamu Kuruluşları: Bakanlıkların Kuruluş İlkeleri Yasası'na göre belirlenen kurum
+ve kuruluşları,
+
+Katılımcı: Kamu kuruluşlatı, belediyeler, bankalar ve Merkez Bankası'nı,
+
+Katılımcı Taahhütnamesi: Katılımcının Sistemde gerçekleştireceği tüm işlemler için
+uyması gerekli tüm şartları peşinen kabul etmiş olduğunu belgeleyen KEÖS Katılımcı
+Taahhiitnamesi’ni,
+
+Katılımcı Uygulaması: Katılımcı tarafından geliştirilen ve katılımcının bilişim
+sistemi ile Sistem arasında mesaj iletimine olanak sağlayan uygulamayı,
+
+Kaynak Hesap: Borçlunun ödemelerini gerçekleştirmek üzere Muhatap Banka
+nezdinde her bir para birimine göre açılmış fon aktarım hesaplarını,
+
+KEÖS Katılımcı Web Servisi Kılavuzu: Sistemde, katılımcılar arasında mesajların
+güvenli bir şekilde iletilmesi ile mesaj yapılarını açıklayan KEÖS Katılımcı Web
+Servis Kılavuzunu,
+
+Merkez Bankası: Kuzey Kıbrıs Türk Cumhuriyeti Merkez Bankası'nı,
+
+Muhatap Banka: Borçlunun, Banka nezdinde adına açılmış hesaplara ilişkin
+Sözleşmede belirlenen işlemleri yapmaya yetkili kıldığı bankayı,
+
+Mesaj: Katılımcı ile Sistem arasında bilgi aktarımını gerçekleştirmek üzere kullanılan
+yapıyı,
+
+Ödeme Emri: Borçlunun, Muhatap Banka nezdindeki kaynak hesaplarından alacaklı
+kişilerin hesaplarına aktarılacak kesin: ödeme bilgilerini gösteren talimata ilişkin
+belgeyi,
+
+Ödeme Dağıtım Listesi: Muhatap Bankanın, Ödeme Emri belgesindeki Alacaklı
+hesaplarına göre, Alacaklı Banka bazında ayrıştırarak oluşturulan ödeme emirlerine
+ilişkin belgeyi,
+
+Sistem: Kurumsal Elektronik Ödeme Sistemini,
+
+Sözleşme: Borçlu ile Muhatap Banka arasında, KEÖS kapsamında sunulan
+hizmetlerin çerçevesini belirleyen KEÖS Hizmetleri Sözleşmesi'ni,
+
+Tarife Cetveli: Merkez Bankası Tarifeler Talimatı ekindeki Tarife Cetveli’ni
+
+Teknik Katılım Koşulları: Sisteme katılacak olan Katılımcının yerine getirmesi
+gereken teknik koşulları açıklayan KEÖS Teknik Katılım Koşulları belgesini,
+UBAN (Ulusal Banka Hesap Numarası): 26.02.2016 Tarih 27 Sayılı Resmi
+Gazetede yayımlanan Tebliğ kapsamında, uluslararası standartlara uygun olarak
+oluşturulmuş ulusal banka hesap numarasını,
+
+Yetkili Kişiler Formu: Katılımcının, Sistemle ilgili olarak belirlemiş olduğu yetkili
+personelini, Merkez Bankası'na bildirdiği, KEÖS Yetkili Kişiler Formu'nu, - fom
+
+Ge
+
+[SAYFA 3]
+237
+İKİNCİ BÖLÜM
+
+Sisteme İlişkin Hükümler
+
+Madde 4 - Sişteme Katılma
+
+a) Sistemde faaliyette bulunan katılımcı işlem yapabilir.
+b) Sisteme, katılmak isteyen katılımcının,
+(1) Merkez Bankası'na yazılı başvurması,
+(2) KEÖS Hizmetleri Sözleşmesi'nin bir suretini Merkez Bankası'na sunması,
+(3) KEÖS Teknik Katılım Koşulları belgesinde yer alan koşulları yerine getirmesi
+ve yerine getirildiğinin Merkez Bankası tarafından onaylanması,
+(4) KEÖS Katılımcı Taabhtitnamesi’ni imzalaması,
+(5) Merkez Bankası tarafından belirlenen altyapı hazırlıkları takvimi ile katılım
+tarihine uyması ve hazırlıklarını aksatmadan tamamlaması,
+
+gerekmektedir.
+
+Madde § - Sistemden Ayrılma
+
+Katılımcı en az otuz takvim günü öncesinden Merkez Bankası'na yazılı olarak bildirmek
+koşulu ile Sistemden ayrılabilir. Ayrılma talebinde bulunan katılımcının Sistemden
+ayrılabileceği tarih Merkez Bankası tarafindan belirlenir ve Sistem ile ilişkisi kesilir.
+Katılımcı bu tarihten sonra Sistem âracılığıyla mesaj gönderemez; diğer katılımcı tarafından
+gönderilen mesajları alamaz.
+
+Madde 6 - Sistemin Çalışma Günleri ve Saatleri
+
+a) Sistemin çalışma günleri ve saatleri Merkez Bankası tarafından belirlenir ve
+katılımcıya duyurulur.
+
+b) Sistemde gerçekleştirilen tüm işlemlerde Sistem saati esas alınır.
+
+Madde 7 - Ücretlendirme
+
+Merkez Bankası tarafından Sisteme ilişkin verilen hizmetlerin ücretleri Tarife Cetveli;
+kapsamında belirlenir.
+
+[SAYFA 4]
+Pe pad tee, eyi Pax ema
+UÇUNCU BOLUM
+
+Bankası'nın Yetkileri,
+
+KİLL
+Merkex
+
+si
+
+şı:
+
+ab vit, B55 855 8.8 zel rn Gi erernama mas ear İL Mame
+kiwaltifikleri ve Soramauxink Halleri
+
+Madde 8 - Merkez Bankası'nın Yetkileri
+
+Merkez Bankası,
+
+a)
+b)
+e)
+qd)
+
+Sistemde gerçekleştirilecek işlemlerde her türlü düzenleyici yetkiye sahiptir.
+
+Sistem dâhilinde her türlü gözetim yetkisine sahiptir.
+
+Sistemle ilgili olarak her türlü kısıtlamaların uygulanmasında yetkilidir. *
+
+Hukuksal, yönetsel veya teknik gereklilik durumlarında katılımcı ya, aşağıda sıralanan
+kısıtlamaları sırasıyla uygulayabilir;
+
+(1) Katılımcının mesaj göndermesi engellenebilir. Ancak bu durumda, katılımcı
+Sistemden mesaj almaya devam edebilir.
+
+(2) Katılımcı geçici olarak Sistem dışına çıkarılabilir. Bu durumda, 23. Madde
+hükmü saklı kalmak üzere, katılımcının mesaj gönderimi ve alımı işleme
+kapatılır.
+
+(3) Yükümlülüklerini yerine getiremeyen katılımcıyı 23. Madde hükmü saklı
+kalmak üzere belirlenen bir tarihten itibaren Sistem dışına çıkarılabilir.
+
+Madde 9 - Merkez Bankasi’ nin Operasyonel Yükün
+
+Merkez Bankası;
+
+ii...
+
+a)
+
+b)
+
+d)
+
+©)
+
+f)
+
+Katılımcının Sisteme katılımı
+koordinasyonunu gerçekleştirmek.
+Sistemin sunduğu olanakların katılımcılar tarafından nasıl kullanılacağına ilişkin belge
+ve dokümanlar hazırlamak,
+
+Katılımcı operasyonel ekiplerine kullanım kuralları konularında eğitim ve destek
+vermek,
+
+Sistemden geçen mesajları ve işlemlere ilişkin bilgileri yasalarda belirtilen süre .
+boyunca arşivinde saklamak, uyuşmazlık durumlarında kayıtları taraflara ve yasada
+yetkili kılınan mercilere sunmak,
+
+Sistemin iş sürekliliği çalışmalarını yürütmek ve katılımcı nezdinde eş güdüm
+sağlamak,
+Katılımcının
+
+öncesinde idari ve operasyonel hazırlıklarının
+
+operasyonel (o taleplerini (o değerlendirerek Oo mevzuata uygunluğu
+çerçevesinde Sistemin işleyiş esaslarında yapılacak değişiklikleri belirlemek
+
+ile yükümlüdür.
+
+[SAYFA 5]
+hiadde 10 - Merkez
+Merkez Bankası;
+
+a) Sistemin altyapısını oluşturmak, geliştirmek, işletmek ve yönetmek,
+
+b) Sisteme erişim altyapısını kurmak, güvenlik uygulamalarını oluşturmak ve
+denetlemek.
+
+c) Katılımcı uygulamalarının geliştirilmesine ilişkin teknik kılavuzları hazırlamak,
+
+d) Katılımcı teknik ekiplerine, geliştirme. iyileştirme ve işletim konularında eğitim ve
+
+destek vermek,
+e) Sistemin kesintisiz çalışmasını sağlayacak teknik araç ve altyapıları çalışır halde
+tutmak,
+
+ile yükümlüdür.
+
+Madde 11 - Sorumsuzluk Halleri
+
+Merkez Bankası personelinin kasıt veya ihmalinden dolayı uğranılacak zararlar dışında
+Sistemden kaynaklanan teknik hatalardan, beklenmeyen durumlardan, mücbir sebep
+hailerinden kaynaklanan zararlardan sorumlu tutulamaz ve bu zararların karşılanması için
+Merkez Bankası'ndan herhangi bir talepte bulunulamaz.
+
+Katılımcının Sorumlulukları ve Yükümlü
+
+Madde 17 - Kathmemin Sorumlulukları
+
+ai
+
+Katılımcı;
+
+a) Yetkili Kişiler Formunda yer alan sorumluların iletişim bilgilerini güncel tutmak ve
+değişiklikleri ivedilikle Merkez Bankası bildirmekle,
+
+b) Yükümlülüklerini yerine getirmemesi durumunda Sisteme ve diğer katılımcıya
+vereceği zararlardan,
+
+c) Sistemden geçen ödemelere ilişkin belge mesajlarının hatalı düzenlenmesi nedeniyle
+katılımcının ve/veya kişilerin zarara uğraması durumunda bu zarardan,
+
+d) Sisteme iletilen mesajları ve işlemlere ilişkin bilgileri yasalarda belirtilen sürece
+arşivinde saklamak, uyuşmazlık durumlarında kayıtları taraflara ve yasada yetkili
+kılınan mercilere sunmakla,
+
+sorumludur.
+
+[SAYFA 6]
+240
+
+Madde 13 - Yazılım, Donanımı ve Altyapı
+
+Katılımcı;
+
+a) Sistem altyapısının güvenlik, süreklilik, performans ve kapasite takibini yapmak ve
+gerekmesi halinde önlemler almak,
+
+b) Merkez Bankası tarafından talep edilen yazılım ve altyapı değişikliklerini zamanında
+gerçekleştirmek,
+
+c) Sistemin işleyişiyle ilgili Merkez Bankası tarafından yapılan her türlü değişikliğe
+paralel olarak Katılımcı Uygulamasında gerekli değişlikleri belirlenen sürede yapmak
+ve test etmek,
+
+d) Merkez Bankası'nın gözetim sorumluluğu kapsamında her türlü kolaylığı göstermek
+ve Sistemin işleyişi konusunda istenen her türlü bilgi ve belgeyi sunmak,
+
+e) Sistemde yapılan tüm işlemlerin arşiv kayıtlarını ilgili mevzuatın öngördüğü süre
+boyunca muhafaza etmek,
+
+ile yükümlüdür.
+
+Madde 14 - Güvenlik
+
+Katılımcı;
+
+a) Sistemin güvenliğine ilişkin tüm önlemleri almak,
+
+b) Katılımcı uygulamasının erişim ve uygulama güvenliğini sağlamak,
+
+c) Merkez Bankası tarafından verilen “KEÖS Katılımcı Web Servis Kılavuzu” ve
+“KEÖS Elektronik Belge Türleri Kılavuzu” dokümanlarını Merkez Bankası'nın izni
+alınmaksızın üçüncü taraflara açmamak. ticari amaçla kullanmamak,
+
+d) Herhangi bir suç girişiminde bulunuldugundan şüphe edilmesi halitide durumu derhal
+Merkez Bankası'na bildirmek,
+
+ile yükümlüdür.
+
+Madde 15 - Katılımcı Uygulamasının İşlerliği
+
+Katılımcı;
+
+a) Günlük iş akışında ilan edilen şekilde Sistem ile bağlantısını ve gün boyu işlerliğini
+denetlemek; Merkez Bankası tarafından bildirilen olaylara anında müdahale etmek ve
+sonucundan haberdar etmek,
+
+b) Sistemin kapanışından sonra gün sonu işlemlerini en kısa sürede tamamlamak ve
+uyuşmazlık durumunda Merkez Bankası?na anında haber vermek,
+
+c) Sisteme erişim için kullanılacak iletişim altyapısını ve veri iletişim hatlarını sürekli
+çalışır durumda tutmak, arıza durumlarında Merkez Bankası'nı anında bilgilendirmek;
+
+ile yükümlüdür.
+
+7
+
+[SAYFA 7]
+241
+
+Madde 16 - Kurallara Uygunluk ve İşbirliği
+
+Katılımcı,
+
+a) Mesaj ve belgeleri İzahname'de belirtildiği gibi amacına, yapısına ve kurallarına
+uygun bir biçimde eksiksiz ve doğru olarak .göndermek, gelen mesajları
+bekletmeksizin işlemek,
+
+b) Merkez Bankası'nın duyurduğu planlar doğrultusunda yürüttüğü ya da eş güdümlediği
+çalışmalarda planlara uymak ve gerekli desteği sağlamak,
+
+ile yükümlüdür.
+
+Madde 17 - KEÖS Hizmetleri Sözleşmesi
+
+Borçlu ile Muhatap Banka arasında, KEÖS kapsamında sunulan hizmetlerin çerçevesini
+
+belirleyen asgari maddeleri kapsayacak şekilde bir “KEÖS Hizmetleri Sözleşmesi”
+imzalamakla yükümlüdür.
+
+Madde 18 - Katılımcının, Borelu Olarak Y üktnaliiiileri
+
+Borçlu;
+
+a) Gönderdiği belgelere ilişkin mesajlardaki kimlik/sicil bilgilerini kontrol etmek ve
+doğrulamak, i
+
+b) Gönderdiği belgelere ilişkin mesajlarda var olan hesap numaralarının yalnızca UBAN
+veya IBAN formatında olduğunu kontrol etmek ve doğrulamak,
+
+c) Gönderdiği “belgelere ilişkin mesajlarda kendisine ait hesap numaralarının .Muhatap
+Banka ile yapılan Sözleşme ekinde düzenlenen Hesap Listesinde var olup/olmadığını
+kontrol etmek ve yok ise güncellenmesi için Muhatap Bankayı anında bilgilendirmek,
+
+d) Muhatap Bankaya gönderdiği Ödeme Emrini, tek bir Kaynak Hesap ve tek bir para
+birimi ile Alacaklı Banka nezdindeki Alacaklı hesaplarına göre düzenlemek,
+
+e) Gönderdiği Ödeme Emrinde yer alan Alacaklı Bankalar nezdindeki Alacaklı
+hesaplarını kontrol etmek; hatalı veya noksan, olması halinde Alacaklı Banka ile
+iletişime geçerek gerekli düzeltmeleri yapmal/
+
+ile yükümlüdür.
+
+[SAYFA 8]
+242
+
+Madde 19 - Kanhinnemm, Muhatap Banke Olarak Yükümlülükleri
+
+hi ei ek elan e AL
+
+Muhatap Banka;
+
+a)
+
+b)
+c)
+d)
+
+8)
+
+Ödeme Emrini, Sözleşme'de aksine bir kural yoksa aktarılma sırası ve Ödeme
+Emrindeki bakiye tutarı dikkate alınarak ilgili Alacaklı Bankaya fon aktarımını
+gerçekleştirmek,
+
+Ödeme Emrinde birden fazla Alacaklı Banka olması halinde, ödeme kayıt bilgilerine
+müdahale etmeden Alacaklı Banka bazında Ödeme Dağıtım Listelerini oluşturmak,
+Ödeme Dağıtım Listelerinin toplam tutarı ve toplam hesap âdetinin, Ödeme Emrindeki
+toplam tutar ve toplam âdeti ile mutabakatını yapmak,
+
+Sisteme aktarılan bir Ödeme Emrini, ödenmesine engel bir sorunu sonradan tespit
+etmesi halinde nedenleriyle birlikte Borçluya mesaj ile durumu bildirmek,
+
+Ödemelere ve hesap takibine ilişkin işlemlerle ilgili olarak Sistemin öngördüğü ve
+Borçlunun talep ettiği bilgileri sağlamak,
+
+ile yükümlüdür.
+
+Madde 20 - Katılımcının, Alacaklı Banka Olarak Yükümüllükleri
+
+Alacaklı Banka;
+
+a)
+
+b)
+
+Nezdindeki Alacaklıya ait hesapların Ödeme Emrindeki Alacaklıya ait hesaplar ile
+karşılaştırarak, hatalı veya noksan bilgi olup/olmadığını kontrol ederek hatasız sonuç
+alıncaya kadar Borçluyu mesajla bilgilendirmek,
+
+Fon Aktarımı ile ilgili Muhatap Bankadan gelen Ödeme Emrindeki Alacaklıya ait
+kimlik/sicil bilgileri ile hesap bilgilerini nezdindeki bilgilerle karşılaştırarak birebir
+tutması halinde kabubetinek ve Alacaklının hesabına anında aktarmak, aksi durumda
+iade etmek,
+
+ile yükümlüdür.
+
+[SAYFA 9]
+kA
+
+Sistem;
+
+4
+7
+
+Madde 21 - Sistemin işlevsel Yükümlülükleri
+
+a) Katılımcıya sistemin açılışı, kapanışı ile ilgili mesaj göndermek,
+b) Katılımcılar arasında mesaj iletimine olanak sağlamak,
+c) Katılımcı mesajlarına ilişkin belge türlerinin temel bileşenleriyle ilgili kontrolleri
+
+yapmak,
+
+d) Katılımcı mesajlarına ilişkin belge türlerinin geçerli olması halinde mesajı
+
+kaydetmek ve ilgili katılımcıya iletmek,
+
+©) Katılımcı mesajlarına ilişkin belge türlerinin geçerli olmaması halinde ise gönderen
+
+f)
+
+katılımcıya hata mesajı iletmek,
+Katılımcı mesajlarına ilişkin belgelerde kullanılan hesap numaralarının yalnızca
+UBAN veya IBAN formatında olduğunu kontrol etmek ve doğrulamak,
+
+ile işlevsel olarak yükümlüdür.
+
+ALTINCI BÖLÜM
+
+Düzenleyici Önlemler ve Uyuşmazlıkların Çözümü
+
+Madde 22 - Düzenleyici Önlemler
+
+Merkez Bankası Başkanlığı, katılımcıya uyarma veya Sistemden süreli çıkarma, Merkez
+Bankası Yönetim Kurulu ise Sistemden süreşiz çıkarma önlemlerini uygulayabilir.
+
+Katılımcı;
+
+a) İşbu Tebliğde yer alan kurallara ve talimatlara uymaması durumunda sözlü veya yazıl
+
+b)
+<)
+
+d)
+
+olarak uyarılabilir,
+
+Bir yıl içinde üç (3) kez yazılı olarak uyarılması veya yükümlülüklerini yerine
+getirmemesi durumlarında Sistemden süreli çıkarılabilir. /
+Daha önce iki (2) kez Sistemden süreli çıkarılmış ise, tekrar etmesi halinde Sistemden
+süresiz çıkarılabilir.
+
+Sistemden süreli çıkarılma, olayın niteliğine bağlı olarak en fazla üç (3) ay ile
+sınırlıdır. Sistemden süreli çıkarılan katılımcı bu süre boyunca İşbu Tebliğ'de yer alan
+
+kurallara uymak zorundadır. Bw
+
+[SAYFA 10]
+244
+
+Madde 23 - Uyuşmazlıkların Çözümü
+
+a) Sistemde gerçekleştirilen işlemlerle ilgili uyuşmazlık durumunda, 41/2001 Sayılı
+
+b)
+
+Merkez Bankası Yasası'nın 47. Maddesi gereğince, Merkez Bankası'nın resmi belge
+niteliğindeki kayıt ve defterleri esas ve delil olarak kabul edilecek olup, mesajlarla
+ilgili hata, hile, tehdit veya ekonomik güçlük iddiaları geçerlilik taşımaz.
+Katılımcılar arasında Sistemin işleyişine ilişkin olarak çıkabilecek her türlü
+uyuşmazlık, Sözleşmeye uygun olarak öncelikle karşılıklı anlaşma yoluyla
+çözümlenmeye çalışılır.
+
+(1) Katılımcı arasında anlaşma sağlanamaması durumunda, zarara uğradığını ileri
+
+süren taraf uyuşmazlığın çözümü amacıyla, uyuşmazlık konusu olayın
+gerçekleştiği tarihten itibaren yedi (7) iş günü içinde, hakem adı da belirterek
+tüm iddia, savunma ve belgelerle Merkez Bankası'na başvurur. Bu başvuru
+üzerine Merkez Bankası, hakemini seçmesi ve yanıt vermesi için istemin bir
+örneği ile ekli belgeleri karşı tarafa iletir. Karşı taraf bu bildirimi alış tarihinden
+itibaren yedi (7) iş günü içinde delilleriyle birlikte savunmasını ve belirleyeceği
+hakemin adını Merkez Bankası'na gönderir. Merkez Bankası'nın belirleyeceği
+bir hakemin başkanlığında tarafların seçtiği birer hakemle birlikte üç (3) kişilik
+Uyuşmazlıkları oOÇözüm Kurulu oluşturulur. Karşı tarafin hakemini
+belirlememesi durumunda Kurulun oluşturulabilmesi için eksik olan hakem
+Merkez Bankası tarafından seçilir.
+
+(2) Sistemin işleyişine ilişkin olarak katılımcı ile Merkez Bankası arasında bir
+
+uyuşmazlık çıkması durumunda, zarara uğradığını ileri süren taraf veya taraflar
+uyuşmazlık konusu olayın gerçekleştiği tarihten itibaren yedi (7) iş günü içinde,
+hakem adı da belirterek tüm iddia, savunma ve belgeleri karşı tarafa bildirir.
+Karşı taraf veya taraflar bu bildirimi alış tarihinden itibaren yedi (7) iş günü
+içinde hakemini belirleyerek, delilleriyle birlikte savunmasını ve hakemin adını
+diğer tarafa veya taraflara bildirir.
+
+(3) Hakemler bankacılık uygulamaları konusunda uzman kişiler arasından seçilir.
+
+Hakem ücreti, taraflar ve hakemler arasında yapılan sözleşmeyle belirlenir,
+
+YEDİNCİ BÖLÜM
+Yürürlük
+
+Madde 24 - Yürürlük .
+
+Bu Tebliğ Resmi Gazete'de yayımlandığı tarihten itibaren yürürlüğe gire”

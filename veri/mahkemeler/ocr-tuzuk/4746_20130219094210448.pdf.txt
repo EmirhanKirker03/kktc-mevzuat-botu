@@ -1,0 +1,318 @@
+[SAYFA 1]
+664
+
+Nn
+ao
+
+Sayı:2
+
+TELEKOMÜNİKASYON SERVİSİ YASASI
+(Fasıl 302, 20/1960, 34/1962 ve 25/1963 Sayılı Yasalar)
+43'üncü Madde altında Yapılan Tüzük
+
+Kuzey Kıbrıs Türk Cumhuriyeti Bakanlar Kurulu, Fasıl 302 sayılı Telekomünikasyon Servisi
+Yasası'nın 43'üncü maddesinini verdiği yetkiyi kullanarak aşağıdaki Tüzüğü yapar:
+
+Kısa İsim !. Bu Tüzük, “Telekomünikasyon Hizmetleri Ücretleri ve Uygulama (Değişiklik) Tüzüğü” olarak
+isimlendirilir ve aşağıda “Esas Tüzük” olarak anılan Telekomüni kasyon Hizmetleri Ücretleri
+
+R.G2I ve Uygulama Tüzüğü ile birlikte okunur.
+31.01.2008
+EK II
+
+AE 104
+R.G 58
+01.04.2008
+EK Ul
+
+AE 247
+R.G 133
+17.07.2008
+EK MI
+
+AE 561
+R.G 148
+07.08.2008
+EK It
+
+A.E 592
+RG 178
+07.10.2008
+EKM
+
+A.E 740
+R.G 191
+30.10.2008
+EK I]
+AE 787
+R.G 207
+26.11.2008
+EK Ul
+
+ALE 847
+R.G8
+14.01.2009
+EK Il
+
+AE 33
+R.G 45
+27.02.2009
+EK HI
+A.E 178
+R.G 57
+25.03.2009
+EKM
+
+A.E 230
+
+[SAYFA 2]
+665
+
+Esas Tüzüğe 2. Esas Tüzüğe ekli Cetvel'de Kısım fl “Tesis, Kira ve Maktu Ücretler” Bölümü'nün 6'nci maddesi
+
+Ekli Cetvel kaldırılmak ve yerine aşağıdaki yeni 6'nci madde konmak ve 9’uncu maddeden hemen sonra
+Kısım [nin aşağıdaki yeni 10'uncu madde eklenerek mevcut l0'uncu ve 1l’inci maddeler ise sırasıyla
+Değiştirilmesi madde 11’inci ve 12'nci madde olarak yeniden sayılandırılmak suretiyle değiştirilir :
+
+“ec
+
+6 Özel Devre Tarifesi (Private
+
+Wire)
+I devre Hızı ve Bölge
+Katsavışı Lokal isi A gele: 1
+Hat Hat Kanal Hat Kanal
+Tesis Kira Tesis Kira Kira Tesis Kira Kira
+Ücreti Ücreti Ücreti Ücreti Ücrezi Ücreti Ücreti Ücreti
+YIL YIMAy YTL YILAY YILAy YIL YILAy YTLAy
+< 64 kbit/s
+{64 kbivs dahil) 1.$ 68.25 20.09 79.50 20.00 4509 9300 2009 $0.00
+- 64-128 kbit/sn
+(128 kbivsn
+dahil) 6 237.00 48.00 282,00 48.00 102.00 336.00 Oo 48.00 204.00
+- 128-256 kbit/sn
+(256 kbit/sn
+dahii) 8,0 31200 64.00 372.00 64,00 136.00 444.00 64.09 272.00
++ 256-512 kbivsn
+(512 kbivsn
+dahil) 11,0 424.50 88.00 $07.00 88.00 {87.00 606.00 88.00 374.00
+- 512-1024 kbit/sn
+(1024 kbit/sn
+dahil) 150 $74.50 120.00 687.00 120.09 255.00 $22.00 12000 510.00
+- 1024-2048
+kbit/sn
+(2048 kbit/sn
+dahil) 20,0 762.00 16100 91200 161.00 340.09 1092.00 16100 680.00
+vn -2048kbiysn-8MbiVsn
+(8 Mbit/sn dahil) 40,0 1,512.00 321.00 1,812.00 321.00 680.00 2,172.00 32100 1,360.00
+- 8-34 Mbivsn
+(34 Mbivsn
+dahil) 80,0 3,032.00 64300 3,61200 643.00 136000 4,332.00 643.00 2,720.00
+~ 34-155 Mbit/sn
+(1553 Mbit/sn :
+dahil) 160,0 6,012.00 1,285.00 7,212.00 1,285.00 2,720.00 8652.00 1,285.00 $5,440.00
+- 155-622 Mbivsn
+(622 Mbit/sn
+dahil) 320,0 12,012.00 2,570.00 14,424.00 2,570.00 5,440.00 1730400 2,570.00 10,880.00
+422-1000
+Mbivsn
+(1000 Mbit/sn
+dahil) 400,0 15,015.00 3,212.50 18,030.00 3,212.50 6,800.00 21,630.00 321250 13,600.00
+~1000-2500
+
+Mbit/sn
+
+[SAYFA 3]
+666
+
+(2500 Mbit/sn
+
+dahil) 640,0 2401200 5,140.00 28,848.00 5,140.00 10,880.00 34,608.00 5,140.0 21,760.00
+
+a)
+is
+©
+
+©
+
+NOT: 1-Ozel devre, 4 tel üzerinden tesis edilecekse aylık hat kira ücretlerinin 2 kat alınır
+2- Tesis ücreti içerisinde hat ölçüm ücreti
+dahildir.
+3- Hat ölçüm ücreti 12.00
+YTLidevre'dir.
+
+10- INTERNET TARİFESİ
+10.1 - FRAME RELAY İNTERNET ÜCRETLERİ
+10.1.1 - Tesis Ücreti
+
+. Hızına göre Kısım ll, madde (6) Özel Devre Tarifesinde belirtilen
+me Lokal Tesis Ücreti kadardır.
+
+10.1.2 - Aylık Ücretler
+
+128 93,13
+256 149,41
+512 245,22
+1024 408,03
+2048 686,08
+
+-10.2 ATMİNTERNET ÜCRETLERİ
+
+10.2.1 - Tesis Ücreti
+Port hızına göre Kısım II, madde (6) Özel Devre Tarifesinde belirtilen
+
+Lokal Tesis Ücreti alınır.
+
+[SAYFA 4]
+667
+
+10.2.2 - Aylık Ücretler
+
+PORT AYLIK ÜCRETLERİ
+
+2 145.39
+
+34 1247.54
+
+155 3985,16
+622 11544,77
+
+PVC AYLIK ÜCRETLERİ
+
+i ad 873,50
+2 1.176,52
+: 4 1.719,22
+6 2.176,83
+8 2.586,87
+10 2.965,42
+
+12 3.319,85
+
+14 . 3.655,52
+
+16 3.976,45
+
+18 4.283,98
+
+20 4.581,46
+
+22 4.868.89
+
+24 5.148,28
+
+26 5.420,30
+
+28 5,685.30
+
+30 5.944,91
+
+32 6.198,84
+
+34 6.447,41
+
+38 6.931,15
+
+42 7.398,81
+
+46 7.852,40
+
+50 8.293,26
+
+54 8.723,40
+
+58 9.142.827
+
+62 9552.86
+
+[SAYFA 5]
+668
+
+66 9.95486
+70 10.348,82
+74 10.736,08
+78 11.116,64
+82 11.490,50
+86 11.858,33
+90 12.221.47
+94 12.578,58
+98 12.93 1,67
+102 13.279,40
+106 13.623.78
+110 13.962,80
+114 14.298,47
+118 14.630,79
+122 14.959,09
+126 15.283.37
+130 15.604.97
+134 15.923,22
+138 16.238,79
+142 16.551,01
+146 16.860,55
+150 17.167,41
+155 15.547,30
+166 18.369,39
+182 19.534,52
+198 20.667,49
+234 21.770,98
+230 22.48.34
+246 23.901,58
+300 27.305,18
+310 27.912,87
+354 30.515,82
+408 33.571,69
+465 36.659,72
+516 39.320,29
+570 42.046,52
+622 44.593 86
+
+[SAYFA 6]
+069
+
+10.3 METRO ETHERNET İNTERNET ÜCRETLERİ
+10.3.1 - Tesis Ücreti
+Kısım II, Madde (6) Özel Devre Tarifesinde belirtilen 1000 Mb/s
+
+devre hızının Lokal Tesis Ücreti kadardır.
+
+10.3.2 - Aylık Ücretler
+
+5 891,77
+6 983,56
+7 1.069,99
+8 1.153,07
+9 1.232,13
+10 1.309,18
+15 1.660,93
+20 1.975,83
+30 2.538,63
+40 3.042,47
+50 3.507,45
+60 3.942,95
+70 4.355,67
+80 4.750,30
+90 5.128,85
+100 5.494,00
+150 7.169,67
+200 8.671,14
+250 10.056,03
+300 11.353,15
+350 12.581,93
+400 13.755,77
+450 14.883,38
+500 15.970,79
+600 18.046,45
+700 20.012,90
+800 21.890,91
+900 23.694,55
+1000 25.434,54
+
+[SAYFA 7]
+670
+
+NOT: Aylık ücretlerde Üniversite ve Yüksek Öğretim Kurumlarına
+
+9450, İnternet Servis Sağlayıcılara 920 indirim uygulanır.
+>
+
+Yürürlüğe 3. Bu Tüzük, | Nisan 2009 tarihinden başlayarak yürürlüğe girer.
+Giriş

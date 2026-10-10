@@ -1,0 +1,655 @@
+[SAYFA 1]
+Sayı : 210
+
+426
+
+AMBALAJLANMIS KAYNAK SUYU VE ICME SUYU YASASI
+
+(88/2009 Sayılı Yasa)
+
+Madde 27 Altında Yapılan Tüzük
+
+Kuzey Kıbrıs Türk Cumhuriyeti Bakanlar Kurulu, Ambalajlanmış Kaynak Suyu ve İçme
+Suyu Yasası'nın 27'nci maddesinin (8)’inci fıkrasının kendisine verdiği yetkiye dayanarak
+
+aşağıdaki Tüzüğü yapar:
+
+Kısa İsim 1.
+
+Tefsir 2.
+
+Bu Tüzük, “Ambalajlanmış Kaynak Suyunun ve İçme Suyunun
+Risk Analizi İle İlgili Kurallar Ve Risk Değerlendirme Kurulunun
+Çalışma Usul Ve Esasları Tüzüğü” olarak isimlendirilir.
+
+BİRİNCİ KISIM
+Genel Kurallar
+
+Bu Tüzükte metin başka türlü gerektirmedikçe;
+
+“Ambalajlanmış İçme Suyu”, jeolojik koşulları uygun jeolojik
+birimlerin içinde doğal olarak oluşan, bir çıkış noktasından sürekli
+akan veya teknik usullerle çıkartılıp, işlenip ambalajlanarak, ilgili
+tüzükle belirlenen nitelikleri taşıyan suyu anlatır.
+
+“Bakanlık” sağlık işleriyle görevli Bakanlığı anlatır.
+
+“Başkan”, Risk Değerlendirme Kurulu başkanını anlatır.
+
+“İçme Suyu”, jeolojik koşulları uygun jeolojik birimlerin içinde
+doğal olarak oluşan, bir çıkış noktasından sürekli akan veya teknik
+usullerle çıkartılan ve ilgili tüzükle belirlenen nitelikleri taşıyan
+suyu anlatır ve yerine göre ambalajlanmış içme suyu anlamında da
+okunur ve yorumlanır.
+
+“Kaynak Suyu”, jeolojik koşulları uygun jeolojik birimlerin içinde
+doğal olarak oluşan, bir çıkış noktasından sürekli akan veya teknik
+usullerle çıkartılan ve ilgili tüzükte belirlenecek nitelikleri taşıyan
+suyu anlatır.
+
+“Kurul”, Risk Değerlendirme Kurulunu anlatır.
+
+“Risk”, insan sağlığı üzerinde olumsuz etki yaratma ihtimali ve bu
+etkinin tehlike ile sonuçlanabilecek şiddeti arasındaki fonksiyonel
+ilişkiyi anlatır.
+
+“Risk Analizi”, olağanüstü durumlarda insan sağlığı ve içme suyu
+güvenliğini sağlamak amacı ile risk değerlendirmesi, risk yönetimi
+ve risk iletişimi olarak birbirlerine bağlantılı üç ayrı süreçten oluşan
+sistemi anlatır.
+
+“Risk Değerlendirmesi”, bilimsel olarak tehlikenin tanımlanması,
+tehlikenin niteliklerinin belirlenmesi, tehlikeye maruz kalmanın
+değerlendirilmesi ve risk unsurlarınn belirlenmesini kapsayan
+süreci anlatır.
+
+[SAYFA 2]
+88/2009
+
+Amaç
+
+Risk Analizi ile
+İlgili Kurallar
+
+bo
+
+4,
+
+427
+
+“Risk İletişimi”, risk analizi sürecinde risk değerlendiricileri, risk
+yöneticileri ve diğer ilgili tarafların, tehlike, risk, riskle ilgili
+faktörler ve riskin algılanmasına ilişkin bilgi ve görüşler ile risk
+değerlendirmesi bulgulan ve risk yönetimi kararlarının
+açıklamalarını da kapsayan bilgi ve düşüncelerin paylaşımını
+anlatır.
+
+“Risk Yönetimi”, risk değerlendirmesi ve yasal faktörler göz
+önünde tutularak ilgili taraflarla istişare ile uygun olabilecek
+kontrol tedbirlerine ilişkin alternatiflerin değerlendirilmesi, tercih
+edilmesi ve uygulanması sürecini anlatır.
+
+“Sekretarya”, Bakanlığa bağlı Gıda ve Su Güvenliği Birimini
+anlatır.
+
+“Sorumlu Birim”, Bakanlığa bağlı Gıda ve Su Güvenliği Birimini
+anlatır.
+
+“Su İşletmecisi”, kontrolü altında gerçekleşen içme suyu işinin bu
+Yasada belirtilen şartlara uygunluğunu sağlamaktan sorumlu gerçek
+veya tüzel kişiyi anlatır,
+
+“Tehlike”, sağlık bakımından olumsuz etki yaratma potansiyeli
+bulunan, sudaki biyolojik, kimyasal veya fiziksel etmenler ile suyun
+durumunu anlatır.
+
+“Ürün”, işlenmiş ve ambalajlanmış satışa hazır hale getirilmiş
+kaynak ve içme suyunu anlatır.
+
+“Yasa”, Ambalajlanmış Kaynak Suyu ve İçme Suvu Yasası'nı
+anlatır.
+
+Bu Tüzüğün amacı, .risk analizine ilişkin kurallar ve risk
+değerlendirmesi için oluşturulan Risk Değerlendirme Kurulunun
+çalışma usul ve esaslarını belirlemektir.
+
+İKİNCİ KISIM
+Risk Analizi
+
+(1) İnsan sağlığını korumak ve su güvenilirliğini sağlamak
+amacıyla, doğrudan veya dolaylı bir riskin bildirimine ilişkin
+sistemler Sorumlu Birim tarafından kurulur. Sorumlu Birim
+temas noktası olarak ulusal ve uluslararası kuruluşlarla
+işbirliği yapar.
+
+©) Sorumlu Birim, içme suyu ve kaynak suyu ile ilgili, doğrudan
+veya dolaylı risk bulunduğuna ilişkin bir bildirim aldığında,
+gerekli tedbirleri alır veya alınmasını sağlar. Su işletmecisi
+Sorumlu Birim tarafından alırfan tedbirleri ve verilen kararları
+uygulamak zorundadır. e
+
+(3) Sorumlu Birim, ambalajlanmış kaynak suyu ve içme suyu ile
+ilgili, insan sağlığı ile çevre için ciddi bir riskin ortaya
+çıkması ve mevcut tedbirlerin yetersiz kalması durumunda,
+insan sağlığı ve çevre için riskli olan ürünün piyasaya arzı,
+kullanımı ve ülkeye girişini kısıtlayıcı veya yasaklayıcı her
+türlü idari tedbiri almaya ve uygulamaya yetkilidir. Bu gibi
+durumlarda, su işletmecisi bu idari tedbirlere uymakla
+yükümlüdür.
+
+[SAYFA 3]
+Risk Analizi
+
+Kamuoyunun
+Bilgilendirilmesi
+
+İhtiyati Tedbirler
+
+7.
+
+a)
+
+(2)
+
+(3)
+(4)
+
+(1)
+
+©)
+
+a)
+
+428
+
+Ambalajlanmış kaynak suyu ve içme suyu ile ilgili
+işlemlerde, insan sağlığı ve yaşamının azami düzeyde
+korunmasının sağlanabilmesi için, tedbirin mahiyeti ve
+koşulların uygun olmaması durumları dışında, risk analizine
+dayanılması zorunludur.
+
+Bağımsız, tarafsız, şeffaf ve bilimsel esaslara göre risk
+değerlendirmesi yapmak üzere; araştırma kurumları, araştırma
+enstitüleri, üniversitelerin konu ile ilgili fakültelerinin
+temsilcileri ile gerektiğinde diğer uzman kişilerin
+katılabileceği, Oo konularına (Oogöre alisma (o grupları
+oluşturulabilir.
+
+Çalışma grubunun yapacağı risk değerlendirme sonuçları
+tavsiye niteliğindedir.
+
+Risk yönetimi ve risk iletişimi; risk değerlendirme sonuçları
+ve bilimsel veriler, tartışılan konu ile ilgili diğer faktörler ve
+ihtiyatlılık ilkesi dikkate alınarak Sorumlu Birim tarafından
+yapılır.
+
+Sorumlu Birim, belgelere erişim konusundaki kurallar saklı
+kalmak koşuluyla, ambalajlanmış kaynak suyunun ve içme
+suyunun insan sağlığı acısından risk oluşturabileceğinden
+şüphe duyulması üzerine, riskin mahiyeti, ciddiyeti ve
+büyüklüğüne göre, riski önlemek, azaltmak veya yok etmek
+için alınan veya alınması öngörülen tedbirleri belirler; riskin
+mahiyeti ve alınan tedbirler hakkında web sayfası ve/veya
+yazılı ve/veya görsel basın aracılığıyla kamuoyunu
+bilgilendirir.
+
+Sorumlu Birimin uygun gördüğü durumlarda, tisk
+değerlendirmesi yapılan konuya ilişkin kamuoyuna Sorumlu
+Birim adına bilimsel açıklama yapmaya Başkan veya Başkan
+tarafından görevlendirilen Kurul üyesi yetkilidir.
+
+Risk değerlendirmesi sonucunda, ambalajlanmış kaynak
+suyunun veya içme suyunun insan sağlığı üzerinde zararlı bir
+etkisinin olması ihtimali belirmesine rağmen, bilimsel
+belirsizliklerin devam etmesi durumunda, kapsamlı bir risk
+değerlendirmesine imkan sağlayacak daba fazla bilimsel veri
+elde edilinceye kadar, Sorumlu Birim geçici olarak üretimin
+durdurulması, piyasaya arzın durdurulması, tüketimi
+engelleme, toplatma ve benzeri ihtiyati tedbirlere başvurabilir.
+Su işletmecisi, Sorumlu Birimin belirlediği ihtiyati tedbirlere
+uymak zorundadır.
+
+İhtiyati tedbirlerin uygulanması sonucu Sorumlu Birime
+herhangi bir sorumluluk yüklenemez, Sorumlu Birimden
+herhangi bir tazminat talep edilemez.
+
+[SAYFA 4]
+Kriz Durumunda
+Acil Görüş
+Oluşturulması
+
+Risk
+Değerlendirme
+Kurulu Ve
+Çalışma Grubuna
+İlişkin Genel
+Kurallar
+
+Risk
+Değerlendirme
+Kurulunun
+Çalışma Usul ve
+Esasları
+
+Toplantı Yeter
+Sayısı ve Karar
+Yeter Sayısı
+
+Kurul Üyelerin
+Görev Süresi
+
+8.
+
+10.
+
+ll.
+
+429
+
+Su güvenliğini doğrudan veya dolaylı olarak tehdit eden, aniden
+ortaya çıkan, kamuoyunda olumsuz tepki yaratan ve acilen bilimsel
+görüş Oluşturulması gereken kriz durumlarında veya Risk
+Değerlendirme Kurulu üyelerinin bir araya gelerek toplantı
+gerceklestirmesinin mümkün olmadığı durumlarda, riske ilişkin
+olarak Risk Değerlendirme Kurulu üyelerinin görüşleri sekretarya
+aracılığı ile elektronik ortamda alınarak üyelerin salt çoğunluğunun
+uygun bulması ile son görüş oluşturulabilir.
+
+ÜÇÜNCÜ KISIM
+Risk Değerlendirme Kurulunun Çalışma Usul ve Esasları
+
+(1) Risk değerlendirmesi yapılmak üzere Risk Değerlendirme
+Kuruluna iletilmesi talep edilen konulann başvuruları
+Sorumlu Birime yapılır.
+
+(2) Risk Değerlendirme Kurulu ve çalışma grubu üyeleri bu
+Tüzük kapsamındaki görevlerini yaparken bağımsızdır ve
+hiçbir makam, merci ve kişiden talimat almazlar.
+
+(1) Risk Değerlendirme Kurulu, ulusal ve/veya uluslar arası
+kurum ve kuruluşlarla su güvenliğini doğrudan veya dolaylı
+olarak etkileyen konularda ortaya çıkmış veya çıkabilecek
+potansiyel riskler ile ilgili bilgi ve görüş alışverişinde
+bulunur.
+
+(2) Risk Değerlendirme Kurulu su güvenliğini doğrudan veya
+dolaylı olarak etkileyen konularda risk değerlendirmesine
+ilişkin talep ve önerilerde bulunması durumunda, bu talep ve
+öneriler sekretarya aracılığı ile Sorumlu Birime veya çalışma
+grubuna iletilir.
+
+(3) Risk Değerlendirme Kurulu, Sorumlu Birimin daveti üzerine
+yılda en az iki defa toplanır.
+
+(4) Risk Değerlendirme Kurulu gerekli gördüğü durumlarda,
+ortaya çıkan risk ile ilgili bilimsel araştırmalar yapacak
+çalışma grupları oluşturabilir.
+
+Kurul, üye tam sayısının salt çoğunluğuyla toplanır ve toplantıya
+katılanların basit çoğunluğu ile karar verir. Oyların eşit olması
+durumunda Başkanın ayırt edici oyu vardır.
+
+(1) Üyeler üç yıllık görev süresi için atanır.
+(2) Uyeliklerde boşalma olması durumunda yeni atanacak olan
+
+kişi, yerine atandığı üyenin geriye kalan görev süresini
+tamamlar.
+
+[SAYFA 5]
+430
+
+Kurul Üyeliğinin (o 13. Kurul üyeliği;
+Sona Ermesi
+711979 (1) Kamu görevlisi olan üye için, Kamu Görevlileri Yasası'nın
+3/1982 89'uncu maddesi uyarınca sona erer.
+12/1982
+44/1982
+42/1983
+5/1984
+29/1984
+50/1984
+2/1985
+10/1986
+13/1986
+30/1986
+31/1987
+11/1988
+33/1988
+13/1989
+34/1989
+73/1989
+8/1990
+19/1990
+42/1990
+49/1990
+11/1991
+85/1991
+11/1992
+35/1992
+3/1993
+62/1993
+10/1994
+15/1994
+53/1994
+18/1995
+12/1996
+19/1996
+32/1996
+16/1997
+24/1997
+13/1998
+40/1998
+6/1999
+48/1999
+4/2000
+15/2000
+20/2001
+43/2001
+25/2002
+60/2002
+3/2003
+
+[SAYFA 6]
+43/2003
+63/2003
+69/2003
+5/2004
+
+35/2004
+20/2005
+32/2005
+59/2005
+10/2006
+44/2006
+72/2006
+3/2007
+
+57/2007
+97/2007
+11/2008
+23/2008
+34/2008
+54/2008
+82/2009
+48/2010
+3/2011
+
+13/2011
+20/2013
+34/2013
+19/2014
+
+Ulusal ve 14,
+
+Uluslararası
+Kuruluşlarla
+İşbirliği
+
+Çalışma 15.
+
+Gruplarının
+Oluşturulması
+
+431
+
+(2) Kamu görevlisi olmayan üye için aşağıdaki durumlarda sona
+
+erer;
+(A)
+(B)
+(C)
+
+(Ç)
+D)
+
+Ölüm,
+
+Kurul üyeliğinden yazılı istifası,
+
+Kurul toplantılarına, kurulca kabul edilebilir bir mazeret
+olmaksızın üç kez katılmaması,
+
+Temsilcisi olduğu kurum veya kuruluş tarafından
+görevlendirmesinin sona ermesi halinde,
+
+Rüşvet, hırsızlık, sahtekârlık, dolandırıcılık, görevini
+kötüye kullanma gibi mesleği ile bağdaşmayan yüz
+kızartıcı bir suç işlemek ve hukukun yüz kızartıcı suç
+saydığı diğer suçlardan birini işlediği mahkemece
+saptanmış olması,
+
+Risk Değerlendirme Kurulu, bu Tüzük kapsamındaki konularda risk
+değerlendirmesi yapan ulusal ve uluslararası benzer kuruluşlar ile
+işbirliği yapabilir,
+
+G) Risk Değerlendirme Kurulu, su güvenliğini doğrudan veya
+dolaylı olarak etkileyen konularda bağımsız, tarafsız, şeffaf
+ve bilimsel esaslara göre risk değerlendirmesi yapmak üzere
+teknik ve bilimsel gelişmeler doğrultusunda oluşturulacak
+çalışma grupları için adaylara açık çağrı yapar.
+
+[SAYFA 7]
+Bağımsızlık Ve
+Tarafsızlıklarını
+Beyanı
+
+Yasaklar ve
+Gizlilik
+
+Sekretarya
+
+16.
+
+17,
+
+18.
+
+(3)
+
+(4)
+
+(5)
+
+432
+
+Çalışma grubu üyeleri araştırma kurumları, araştırma
+enstitüleri, üniversitelerin konu ile ilgili fakültelerinin
+temsilcileri ile gerektiğinde diğer uzman kişilerden oluşur.
+Çalışma grubu, açık çağrı ile toplanan adaylar arasından Risk
+Değerlendirme Kurulu tarafından seçilerek Başkan tarafından
+onaylanan en az beş üyeden oluşur.
+
+Çalışma (grubunun Ooüyelerinin görev Süresi, risk
+değerlendirmesi ile ilgili bilimsel görüşün Kurula sunulması
+ile sona erer.
+
+Çalışma grubunun toplantı ve karar alması ile ilgili usul ve
+esaslar Kurul tarafından belirlenir.
+
+Çalışma grubu üyeleri bu Tüzük kapsamındaki görevlerinde
+bağımsızlık ve tarafsızlıklarını beyan eden bu Tüzüğe ekli Ek-1’de
+yer alan genel taahhütnameyi çalışmaya başlamadan önce Sorumlu
+Birime verir.
+
+(1)
+
+(2)
+
+3)
+
+Çalışma grubu üyeleri ile çalışma grubu toplantılarına
+katılan tüm uzmanlar Ek-2’de yer alan gizlilik
+taahhütnamesini Sorumlu Birime verir.
+Çalışma grubu üyeleri ile toplantılara katılan uzmanlar
+görevleri gereği edindikleri bilgileri, belgeleri ve görevleri
+sırasında öğrendikleri kurum ve kuruluşların ticari, bilimsel
+ve teknik sırlarını, görevlerinden ayrılmış olsalar bile
+açıklayamaz, kendilerinin veya üçüncü şahısların lehine
+veya aleyhine kullanamaz ve kullandıramazlar.
+Sorumlu Birim, risk değerlendirme sürecinde gizlilik işlemi
+istenen ve gerekçelendirilen üçüncü taraflara ait bilgileri
+açıklayamaz.
+
+Ancak halk sağlığını tehdit eden veya tehdit etmesi
+muhtemel haller bu kapsamın dışındadır.
+
+DÖRDÜNCÜ KISIM
+Sekretarya
+
+Sekretaryanın görevleri şunlardır;
+
+d)
+(2)
+(3)
+(4)
+©)
+
+Risk Değerlendirme Kurulu ve çalışma grubunun
+sekretaryasını yapar.
+
+Çalışma grubundan gelen görüş ve öneriler ile Sorumlu
+Birimden gelen talepleri, iş planlarının hazırlanması
+amacıyla Risk Değerlendirme Kuruluna iletir.
+
+Çalışma grubu üyelerinden Ek-1’deki taahhütnameyi alır.
+Risk Değerlendirme Kurulu ile çalışma grubuna toplantı
+çağrısını yapar.
+
+Risk değerlendirmesi yapılması istenen konularda Bakanlığa
+gelen talepleri Risk Değerlendirme Kuruluna bildirir ve bu
+konulara ilişkin mevzuat hakkında bilgi sağlar.
+
+[SAYFA 8]
+Yürütme Yetkisi
+
+Yürürlüğe Giriş
+
+19.
+
+20.
+
+(6)
+
+(7)
+(8)
+
+(9)
+
+433
+
+Sorumlu Birimden gelen talepler ile Risk Degerlendirme
+Kurulundan gelen görüş ve öneriler doğrultusunda, çalışma
+grubunun görüşlerini alarak toplantı gündemini hazırlar ve
+toplantıdan en az bir hafta önce yazılı ve elektronik ortamda
+üyelere bildirir.
+
+Risk Değerlendirme Kurulunun toplantılarına ilişkin
+tutanakları hazırlar.
+
+Risk Değerlendirme Kurulunun talep ettiği bilgi ve
+belgelerin ilgili kamu kurum ve kuruluşlarından temini için
+gerekli iletişim ve koordinasyonu sağlar.
+
+Risk Değerlendirme Kurulu ve çalışma grubu arasında
+iletişim ve koordinasyonu sağlar.
+
+BEŞİNCİ KISIM
+Son Kurallar
+
+Bu Tüzük, Bakanlık tarafından yürütülür.
+
+Bu Tüzük, Resmi Gazete'de yayımlandığı tarihten başlayarak
+yürürlüğe girer.
+
+[SAYFA 9]
+434
+
+EK-1
+
+TAAHHÜTNAME
+
+Unvan (Dr., Yrd. Doç. Dr., Doç. Dr., Prof., Diğer):
+
+Adı
+
+Soyadı :
+
+Görevi:
+
+Toplantı Gündem Maddesi;
+
+BEN, sessrersscvessreessereeseseeees .., İşbu belgeyle; toplantılarda her türlü dış etkiden bağımsız olarak hareket
+edeceğimi ve toplantı gündemindeki konulara ilişkin çıkar ilişkim olmadığını taahhüt ederim.
+
+ÜYELİĞE İLİŞKİN DURUM BEYANI
+
+Faaliyetlerin Mahiyeti Dönem Kurum/Kuruluş Açıklamalar
+
+1. Mülkiyet veya diğer yatırımlar, hisse senetleri
+dahil
+
+il, Bir Yönetim Organı veya Denk bir
+Yapılanmada Üyelik
+
+Ni. Bilimsel Tavsiye Kuruluşunda Üyelik
+
+IV. İstihdam
+
+V. Sektör Danışmanlığı
+
+VI. Araştırma Fonları
+
+VIL Fikri Malkiyetler
+
+VII. Diğer Üyelikler veya Bağlantılar
+
+IX. Yakın Aile Bireylerinin Çıkar İlişkileri
+
+X. Diğer
+
+TOPLANTININ YAPILDIĞI
+
+YER TARİH :
+
+İMZA
+
+[SAYFA 10]
+435
+
+EK-2
+
+GİZLİLİK TAAHHÜTNAMESİ
+
+Unvan (Dr., Yrd. Doç. Dr., Doç. Dr., Prof., Diğer):
+
+Adı
+
+Soyadı
+
+Görevi
+
+[] Bilimsel Komisyon Üyesi
+
+{] Dış Uzman
+
+(1 Gözlemci
+
+{] Diger
+
+BEN, secsevsscsssssssecsereessnenenees seveseeennee , işbu belgeyle:
+
+1. Yukarıda belirttiğim görevim sırasında edindiğim bilgileri, belgeleri, diğer üyelerin sözlü ve yazılı
+görüşlerini ifşa etmeyeceğimi,
+
+2. Yukarıda belirttiğim görevim sırasında edindiğim kurum ve kuruluşların ticari, bilimsel ve teknik
+sırlarını açıklamayacağımı, kendim veya üçüncü şahısların lehine veya aleyhine kullanmayacağımı ve
+kullandırmayacağımı,
+
+3. Birinci ve ikinci maddelerdeki beyanlarımın, görevimden ayrılmış olsam bile herhangi bir zaman
+sınırlandırmasına tabi olmadan geçerli olacağını,
+
+taahhüt ederim.
+
+TOPLANTININ YAPILDIĞI:
+
+YER : TARIH
