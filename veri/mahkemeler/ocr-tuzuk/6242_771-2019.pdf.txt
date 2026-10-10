@@ -1,0 +1,362 @@
+[SAYFA 1]
+2509
+
+Sayı : 771
+
+KUZEY KIBRIS TÜRK CUMHURİYETİ BANKACILIK YASASI
+(62/2017 Sayılı Yasa)
+
+Madde 32, 33, 34, 35, 36 ve 37 Altında Tebliğ
+Kuzey Kıbrıs Türk Cumhuriyeti Merkez Bankası, 62/2017 sayılı Bankacılık Yasasının 32, 33, 34, 35, 36 ve
+37'nci maddesinin kendisine verdiği yetkiye dayanarak aşağıdaki Tebliği yapar:
+
+Kısa İsim 1. Bu Tebliğ, “Mevduat ve Zamanaşımına İlişkin Tebliğ” olarak isimlendirilir.
+BİRİNCİ KISIM
+Genel Kurallar
+
+Tefsir 2. Bu Tebliğdemetin başka türlü gerektirmedikçe;
+
+“Banka”, Yasa altında izin alarak faaliyet gösteren Kuzey Kıbrıs Türk
+Cumhuriyetinde kurulu mevduat bankaları, katılım bankaları, kalkınma ve
+Yatırım bankaları ile yurt dışında kurulu olup, Kuzey Kıbrıs Türk Cumhuriyetinde
+şube açmak suretiyle faaliyet gösteren şube bankalarını anlatır.
+
+“Emanet ve Alacaklar”, bankaların emanetinde bulunan kiralık kasa, hisse
+senetleri, tahviller, teslim edilmemiş dahi olsa çek karnesi tanzim ettikleri
+müşterileri adınâ hesaplarda bulunan tutarlar, havale bedelleri ile bunun gibi
+emanet ve alacakları anlatır.
+
+“Fon”, Tasarruf Mevduatı Sigortası ve Finansal İstikrar Fonunu anlatır.
+“Kişi”, gerçek veya tüzel kişileri anlatır.
+
+“Kredi”, Yasanın 38'inci maddesinin (1)’inci fıkrası uyarınca risk sayılan işlemleri
+anlatır.
+
+“Mevduat”, herhangi bir getiri olmadan veya önceden belirlenmiş bir getiri
+karşılığında, İstendiğinde veya belli bir vadede geri ödenmek üzere kabul edilen
+ve menkul kıymete konu olmayan parasal kıymetleri anlatır.
+
+“Mevduat Bankası”, Yasa uyarınca kendi nam ve hesabına mevduat kabul etmek
+ve kredi kullandırmak esas olmak üzere faaliyet gösteren kuruluşları anlatır.
+
+“Merkez Bankası”, Kuzey Kıbrıs Türk Cumhuriyeti Merkez Bankasını anlatır,
+
+“Şube”, elektronik işlem cihazlarından ibaret birimleri hariç, bankaların bağımlı
+bir parçasını oluşturan ve bu kuruluşların faaliyetlerinin tamamını veya bir
+kısmını kendi başına Yapan, sabit veya seyyar bürolar gibi her türlü işyerini
+anlatır.
+
+62/2017 “Yasa”, Bankacılık Yasasını anlatır,
+
+[SAYFA 2]
+Amaç Bi
+
+Kapsam 4,
+
+Mevduatin Kabulü 5.
+4/2008
+
+Mevduatın Türleri 6.
+ve Kapsamı
+
+” 2510
+
+Bu Tebliğin amacı, mevduatın kabulden başlayarak uygulanması gereken
+kuralları, sınırları, raporlamaları, muhasebeleştirmeyi, ilânı ve bildirimleri ile
+emanet ve alacakları da içeren zamanaşımı sürecinde, bankaların
+yükümlülükleriyle ilgili esas ve usullerini düzenlemektir.
+
+: Kuzey Kıbrıs Türk Cumhuriyetinde faaliyet gösteren bankalar, bu Tebliğ kuralları
+
+kapsamındadır.
+
+İKİNCİ KISIM
+Mevduatın Kabulü
+
+(1) Mevduat bankaları, müşterilerinin kimliklerini tespit etmeden müşteri
+adına mevduat kabul edemezler, Mevduat bankaları, kimlik tespiti yanında,
+müşterilerinin adreslerini belgeleyen evrakların kopyalarını almak,
+kayıtlarını “Muhasebe Sistemleri ve Belgelerin Saklanması Tebliği'nde
+öngörülen şekilde tutmak ve her hâlükârda “Suç Gelirlerinin Aklanmasının
+Önlenmesi gasası” ve altında yapılan düzenlemelerde yer alan
+yükümlülükleri yerine getirmek zorundadır.
+
+(2) Mevduat bankaları düzenledikleri hesap cüzdanını hesap sahibinin tercihi
+doğrultusunda basılı veya elektronik ortamda hesap sahibine vermekle ya
+da hesap sahibinin hesap cüzdanını almayı istemediğini ispatlamakla
+yükümlüdür. Hesap cüzdanlarında, hesap sahibinin açık ismi ve unvanı,
+banka mührü ve mührün üzerine bankada imza atmaya yetkili iki kişinin
+imzası, hesap açılan şubeyi tanımlayan kod numarası ve şube adı, hesabın
+açılış tarihi, hesap numarası, hesabın tutarı, para biriminin bulunması
+gereklidir. Vadeli mevduat hesabı cüzdanlarında hesabın türüne göre
+uygulanacak faiz oranı ile vadenin yer alması zorunludur.
+
+(3) Hesap sahibinin talebi ve ek bir kredi sözleşmesi olmadan, otomatik olarak
+— kişinin mevduat hesabına kredi ve/veya kredi limiti tahsis edilemez. Bu tür
+hesaplarda mevduat bakiyesi ile kredi hesabındaki bakiye, ayrı ayrı müşteri
+bilgisine gelecek şekilde sunulmalıdır. Hem mevduat hem kredi limiti olan
+hesap türlerinde müşterinin, mevduatının haricinde kredi limitinden çekiliş
+yapacağı durumlarda, müşterinin kredi kullanmakta olduğunun bilgisine ve
+onayına getirilmesi gerekir.
+
+ÜÇÜNCÜ KISIM
+Mevduatın İzlenmesi ile Faiz Oranlarının Bildirimi
+
+BİRİNCİ BÖLÜM
+Mevduatın Türleri, Kapsamı ve Vade Dilimleri
+
+Mevduatın türleri ve kapsamı aşağıdaki şekilde belirlenmiştir.
+
+(1) Tasarruf Mevduatı: Gerçek kişiler tarafından bu nam altında açtırılan ve
+münhasıran çek keşide edilmesi dışında ticari işlemlere konu olmayan
+
+[SAYFA 3]
+41/2008
+
+Mevduatın
+Vadeleri
+
+(2)
+
+(3)
+
+(4)
+
+(5)
+
+2511
+
+mevduattır. Döviz hesaplarında, hesap adının döviz tevdiat ve/veya döviz
+mevduat hesabı olması, hesabın tasarruf mevduatı niteliğini değiştirmez.
+
+Ticari Mevduat: Gerçek kişilerin ticari işletmelerine, her çeşit şirketlere veya
+ortaklıklara, kamu iktisadi teşebbüsleri ile bunlara bağlı müessese ve
+şirketlere, yerel yönetimlerin ticari işletmelerine, döner. sermayeli
+
+kuruluşlara, vakıfların, derneklerin, sendikaların, birliklerin ve mesleki ..
+
+kuruluşların kurdukları veya katıldıkları ticari işletmelere, kooperatiflere,
+sigorta şirketlerine, emeklilik şirketlerine ve banka dışı diğer mali kesime ait
+mevduattır.
+
+Resmi Mevduat: Genel bütçe kapsamındaki daire ve kurumlara, katma °
+
+bütçeli .idarelere, yerel yönetimlere, mahkemelere ve savcılıklara ait
+mevduattır.
+
+Bankalar Mevduatı: Merkez Bankası, bankalar, yurtdışındaki bankalar ile
+Uluslararası Bankacılık Birimleri Yasasının 12'nci maddesinin (3'üncü fıkrası
+dâhilinde uluslararası bankacılık birimleri tarafindan açılan mevduattir.
+
+Diğer Mevduat: Tasarruf, Ticari, Resmi ve Bankalar mevduatı dışında kalan
+tüm mevduattır.
+
+Mevduat vadelerine göre aşağıdaki şekilde sınıflandırılıp raporlanır.
+
+(1)
+
+(2)
+
+(3)
+
+Vadesiz Mevduat: Bankanın izni aranmaksızın hesap sahibi tarafından,
+istenildiği zaman kısmen veya tamamen geri çekilebilen, herhangi bir ihbar
+veya vade koşulu taşımayan ve faiz tahakkukları yilsonunda veya hesabın
+kapatılmasında yapılan mevduattır.
+
+İhbarlı Mevduat: Çekileceği tarihten yedi gün önce yazılı bir ihbar verilmek
+suretiyle çekilebilen mevduattir,
+
+Vadeli Mevduat: Mevduat sahipleri ile banka arasında belirlenecek vade ve
+koşullara göre çekilebilen, faiz tahakkukları bu vade sonunda yapılan
+mevduattır. Vadeli mevduat süresine göre aşağıdaki şekilde
+sınıflandırılırlar:
+
+(A) Jaya kadar vadeli ( 1 ay dâhil )
+
+(B) 3 aya kadar vadeli (3 ay dâhil )
+
+(C) 6 aya kadar vadeli (6 ay dahil )
+
+(Ç) 1 yıla kadar vadeli
+
+(D) 1yilve daha uzun vadeli (1 ay, 3 ay, 6 ay ve yıllık faiz ödemeli)
+
+[SAYFA 4]
+Bildirim ve İlân
+
+Zamanaşımı
+
+8.
+
+me
+
+(1)
+
+(2)
+
+(3)
+
+(1)
+
+(2)
+
+(3)
+
+2512
+
+İKİNCİ BÖLÜM
+Bildirim ve İlân
+
+Mevduat bankaları tarafından mevduata uygulanacak azami faiz oranları
+uygulamaya konulmadan önce ve her halükarda Merkez Bankası tarafından
+belirlenen format ve sürelerde Merkez Bankasına bildirilir.
+
+Mevduat Bankaları, Merkez Bankasına bildirdikleri azami faiz oranlarını
+aşmamak kaydıyla, mevduata uygulayacakları faiz oranlarını vade ve para
+birimi bazında tüm şubelerinde halkın görebileceği şekilde ilân eder ve eş
+zamanlı olarak bu faiz oranlarını internet sayfalarında yayımlar.
+
+Bankalar, Yasanın 34'üncü maddesindeki yasağı, şubelerinde halkın
+görebileceği şekilde düzenleyecekleri ilânlarla müşterilerinin bilgisine
+getirmek ve eş zamanlı olarak internet sayfalarında mevduat faizlerinin
+ve/veya ücretlendirilecek ürün ve/veya hizmet sınıflandırılmalarının ilân
+edildiği alanda yayımlamak zorundadır. Mevduat bankalarının tüm
+şubelerinde ve internet sayfalarında müşterileri tarafından görülebilecek
+şekilde, Fon'un sigortası kapsamında bulunan mevduat ile ilgili bilgiler yer
+almalıdır.
+
+DÖRDÜNCÜ KISIM
+Zamanaşımı
+
+Bankaların nezdinde bulunan her türlü mevduat, emanet ve alacaklardan,
+zamanaşımı süresi sonuna kadar işleyecek faizleri de dâhil olmak üzere, hak
+sahibinin en son talebi, işlemi, herhangi bir yazılı talimatı tarihinden
+başlayarak on yıl içinde aranmayanlar zamanaşımına uğrar.
+
+Bankalar bir takvim yılı içinde zamanaşımına uğrayan ve tutarı bir önceki
+yılsonu Aralık ayı itibarı ile yürürlükte bulunan aylık asgari ücretin 9610
+(yüzde on)'unu aşan her türlü mevduat, emanet ve alacakların hak
+sahiplerini, başvuruda bulunmadıkları takdirde hesaplarının Merkez
+Bankasına devredileceği hususunda, zamanaşımı süresinin dolmasından
+sonra on beş gün içerisinde mevcut adresine iadeli taahhütlü mektupla
+uyarmak zorundadır. Döviz cinsindeki mevduat, emanet ve alacakların, Türk
+Lirası karşılıkları, zamanaşımının gerçekleştiği tarihteki Merkez Bankasının
+ilgili döviz alış kuru ile hesaplanır.
+
+Tutarına bakılmaksızın bankanın nezdinde bulunan zamanaşımına uğramış
+her türlü mevduat, emanet ve alacaklara ait listeler, zamanaşımı süresinin
+bitimini izleyen takvim yılının Ocak ayının başından itibaren bankanın kendi
+internet sayfasında düzenleyeceği sorgu ekranı vasıtası ile Haziran ayının on
+beşine kadar müşterilerinin sorgulamasına açılır.
+
+[SAYFA 5]
+Uyumsuzluklar
+
+10,
+
+(4)
+
+(5)
+
+(6)
+
+(7)
+
+(8)
+
+(9)
+
+(1
+
+(2)
+
+. 2513
+
+Zamanaşımına uğramış her türlü mevduat, emanet ve alacaklardan Haziran
+ayının on beşinci gününe kadar hak sahibi veya mirasçıları tarafından
+aranmayanlar, faiz ve kâr payları ile birlikte Haziran ayı sonuna kadar,
+Merkez Bankası tarafından düzenlenecek cetvellerin usulüne uygun
+doldurulmuş kopyaları ile birlikte bankalar tarafından Merkez Bankasına
+devredilir. Vadeli mevduat için düzenlenmiş sözleşmeler, bu mevduat
+zamanaşımına uğramış olsa bile Merkez Bankasına devredilinceye kadar
+geçerliliğini korur. Vadeli mevduat, zamanaşımına uğramış olması sebebi ile
+vadesiz mevduata döndürülemez, faiz oranlarında indirime gidilemez.
+
+Merkez Bankasına devredilen rnevduat, emanet ve alacaklardan, Aralık ayı
+itibarı ile yürürlükte bulunan aylık asgari ücretin, faiz ve kar payları ile 9410
+(yüzde on)'unu aşmayanlar Merkez Bankası tarafından, Haziran ayı
+sonunda Fon'a devredilir ve Fon tarafından gelir kaydedilir. Aralık ayı itibarı
+ile yürürlükte bulunan aylık asgari ücretin 9410 (yüzde on)’unu aşanlar ise
+Merkez Bankası tarafından Resmi Gazetede ilân edilir ve Merkez Bankasının
+internet sayfasında bir yıl süre ile yayınlanmaya devam edilir.
+
+Bu maddenin (5)'inci fıkrası uyarınca Resmi Gazete’ de yayımlandığı
+tarihten itibaren bir yıl içinde sahibi veya mirasçıları tarafından aranmayan
+mevduat, emanet ve alacaklar Merkez Bankası tarafından Fona devredilir
+ve Fon tarafından gelir kaydedilir.
+
+Kiralık kasalardaki kıymetler için zamanaşımı, kasa kira bedelinin en son
+tahsil edildiği ya da kasanın en son açıldığı tarihten itibaren başlar,
+
+Reşit olmayanlar adına ve yalnızca bu kişiler adına ödeme yapılmak kaydıyla
+açtırılan hesaplarda, zamanaşımı süresi kişinin reşit olduğu tarihte işlemeye
+başlar.
+
+Yetkili merciler tarafından üzerine bloke ve/veya engel konulan hesaplarda
+zamanaşımı süresi blokenin konduğu tarihte durur. Zamanaşımı süresi,
+hesaptaki blokenin kaldırıldığı tarihten itibaren işlemeye devam eder.
+Sürelerin durması için yetkili mercilerden alınmış, kanıtlayıcı belgelerin
+ispatı şarttır.
+
+BEŞİNCİ KISIM
+Uyumsuzluklara İlişkin Hükümler
+
+Bankalar nezdlerinde bulunan her türlü mevduatı bu Tebiiğ kurallarına göre
+tasnif etmekle ve “Muhasebe Sistemleri ile Belgelerin Saklanması Tebliği”
+altında çıkarılan Tek Düzen Hesap Planı ile izahnamesine ve gerçek
+niteliklerine uygun olarak muhasebeleştirmekle mükelleftir. Yapılan
+incelemelerde tasnif ve muhasebeleştirmelerde hatalar bulunduğunun
+tespit edilmesi halinde, bu işlemlere karşılık gelen tutarlar geriye yönelik
+olarak düzettilir.
+
+Bankalar zamanaşımına uğrayan hesaplarını istendiği an raporlayabilecek
+şekilde bir sistem kurmakla mükelleftirler.
+
+[SAYFA 6]
+48/1977
+
+Ceza Kuralları
+
+Yürürlükten
+Kaldırma '
+R.G. 40
+15.04.2002
+
+Yürürlüğe Giriş
+
+2514
+
+(3) Yapılan incelemelerde, bu Tebliğ kapsamında zamanaşımına tabi olan
+
+mevduat, emanet ve alacakların banka tarafından Merkez Bankasına
+devredilmemesi, geç devredilmesi ve/veya eksik devredilmesinin tespit
+edilmesi durumunda, uygulanabilecek idari ve/veya cezai hükümler saklı
+kalmak kaydıyla, devredilmesi gereken dönem itibariyle olması gereken
+rakamlar, Kamu Alacaklarının Tahsili Usulü Yasasına göre “kamu alacağı”
+olarak işlem görür.
+
+11. Bu Tebliğ kuralları, Tebliğin çıkarılmasına yetki veren Yasa kuralları ile birlikte
+okunur ve bu Tebliğ kurallarına aykırı hareket edenlere Yasanın ilgili ceza
+kuralları uygulanır.
+
+ALTINCI KISIM
+Son Hükümler
+
+12. Bu Tebliğ yürürlüğe girdiği tarihten itibaren, 39/2001 sayılı yasanın 19/2)
+maddesi altında yayınlanan tebliğ, ilgili madde kuralları altında yapılan işlemlere
+halel gelmeksizin yürürlükten kaldırılır.
+
+13. Bu Tebliğ 1 Kasım 2019 tarihinden itibaren yürürlüğe girer.
+
+.

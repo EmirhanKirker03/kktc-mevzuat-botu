@@ -1,0 +1,406 @@
+[SAYFA 1]
+Sayı: 788
+
+2677
+
+MİLLİ ARŞİV VE ARAŞTIRMA DAİRESİ (KURULUŞ, GÖREV ve
+
+ÇALIŞMA ESASLARI) YASASI
+(15/1990, 22/1994 ve 84/2007 Sayılı Yasalar)
+
+Madde 10 Altında Yapılan Milli Arşiv ve Araştırma Dairesi,
+Milk Arşiv Kurulu Çalışma Esasları ve İşlemleri Tüzüğü
+
+Madde 8 (1) (E) Altında Yapılan Yönetmelik
+
+, Kuzey Kıbrıs Türk. Cumhuriyeti Bakanlar Kurulu, Milli Arşiv ve Araştırma Dairesi
+(Kuruluş, Görev. ve Çalışma Esasları) Yasası'nın 10'uncu maddesi altında yapılan, Milli
+Arşiv ve Araştırma Dairesi, Milli Arşiv Kurulu Çalışma Esasları ve İşlemleri Tüzüğünün
+8’inci maddesinin (1)’inci fikrasının (E) bendinin kendisine verdiği yetkiye dayanarak,
+aşağıdaki yönetmeliği yapar:
+
+Kısa İsim
+
+Tefsir
+
+Bu Yönetmelik, “Belge Sayı Sistemi Yönetmeliği ” olarak isimlendirilir.
+
+BİRİNCİ KISIM
+GENEL KURALLAR
+
+Bu Yönetmelikte, metin başka türlü gerektirmedikçe;
+“Ayıklama”, arşivlik belgelerin, arşiv belgeleri ve muhafazasına gerek
+görülmeyen belgeler olarak ayrımı işlemini anlatır.
+
+“Arşiv Belgesi”, arşivlik belgeler içinden, belge ömrünü doldurmuş olan ve
+üretildiği kurum veya kuruluşça hizmetin yürütülmesi açısından elde
+bulundurulmasına ve muhafazasına gerek görülmeyen belgelerin
+ayrılmasından sonra kalan belgeyi anlatır. ii
+“Arşivlik Belge”, Devlet Arşivleri açısından; bağlı kurumlarıyla,
+yurttaşlarıyla ve diğer devletlerle olan ilişkisini belgeleyen, sivil toplum
+örgütleri açısından; örgütlerin resmi kurum ve kuruluşlarla, diğer örgütlerle
+ve üyeleriyle ilişkilerini belgeleyen, şahıslar açısından; resmi kurum ve
+kuruluşlarla, sivil toplum örgütleriyle, ve diğer şahıslarla ilişkileri sonucu
+oluşan belgeleri anlatır.
+
+“ATVT”, arşiv teşkilatı veri tabanim anlatır.
+
+“Belge”, üretim biçimleri ve: donanım ortamlari ne şekilde olursa olsun,
+bilgi içeren, yazılmış, çizilmiş, resmedilmiş, görüntülü, sesli veya
+elektronik ortamlarda üretilmiş malzemeyi anlatır.
+
+“Belge Ömür Tespiti”, belgelerin nerede ve ne kadar süre ile muhafaza
+edileceklerine, bu süreler sonunda hangi işlemlere tabi tutulacaklarına dair
+değerlendirmeleri ifade eden ve Milli Arşiv Kurulu tarafindan onaylanan
+planları e anlatır.
+
+“Belge Sayı Sistemi”, belgelere kuram-kurulus, bölge, alt birim ve konu
+kodu ile yıl ve sayı verilerek bir belge kimliği yaratarak hızlı, kolav, etkin
+belge erişimini hedefleyen sistemi anlatır.
+
+“Belge Yönetimi”, belgenin üretiminden son düzenlenmesine kadar geçen
+süreçteki sistematik kontrolü anlatır.
+“Birim Arşivi”; kurum ve kuruluşların görev, işlev ve etkinlikleri sonucu
+kendiliğinden oluşan ve bu kuruluşların çeşitli birimlerinde, güncelliğini
+kaybetmemiş olarak etkin bir biçimde ve günlük iş akımı içinde kullanılan
+arşivlik malzemenin belirli bir süre saklandığı arşiv birimlerini anlatır ve
+mükelleflerin bölge ve yurt dışı kuruluşlarında bulunan arşivlerini de
+kapsar.
+
+[SAYFA 2]
+Amaç
+
+Belge Sayı .
+
+Sistemi
+Formati
+
+2678
+
+“Daire”, Milli Arşiv ve Araştırma Dairesi'ni anlatır.
+
+“Dosya”, aynı konuyu ihtiva eden yazılar grubunu anlatır.
+
+“Elektronik Belge”, elektronik ortamda oluşturulan, gönderilen ve
+saklanan, kurum ve kuruluşların görev ve faaliyetleri sonucu kendiliğinden
+teşekkül eden her.türlü belgeyi anlatır.
+
+“Elektronik Belge Yönetim Sistemi (EBYS””, elektronik ortamlarda
+üretilecek, kayıt altına almacak, başka birimlere veya kurumlara iletilecek, .
+muhafaza veya gerektiğinde imha edilecek elektronik bilgi ve belgelerin
+tabi olacaklar usul ve esaslar ile birlikte Elektronik Belge Yönetim
+Sistemlerinin birbirleriyle uyumlü ve etkin bir biçimde yöneülmesine
+ilişkin standartların belirlenmesini amâçlayan sistemi anlatır.
+
+“Elektronik Belge Yönetimi”, kurumlarca yasal kurallar çerçevesinde i is VE |
+işlemler yerine getirilirken üretilen her türlü bilgi ve belgenin orijinal
+özelliklerinin ve içeriklerinin korunarak, delil sayılabilecek ve hesap
+vermeye temel olacak biçimde, elektronik ortamda yönetilmelerinin
+sağlanması süreçletinin bütününü anlatır.
+
+“İmha”, muhafazasına gerek görülmeyen belgenin imhası işlemini anlatır.
+“Kurum Arşivi”, kurum ve kuruluşların, merkez teşkilâtları içinde yer alan
+ve arşiv malzemesi ile arşivlik malzemenin, birim arşivlerine nazaran daha
+uzun süreli saklandığı merkezi arşivleri anlatır.
+
+. “Muhafazasma Gerek Görülmeyen Belge”, cari işlemleri devresinde bir
+
+değere sahip olduğu halde, ileride kullanılmasına gerek görülmeyen, arsiv
+belgesi disinda kalan; bukuki Kıymetini ve > delil olma vasfim kaybetmiş
+
+“ belgeyi anlatır.
+
+“Standart Dosya Plânı (SDP) 7 kurum ve kuruluşların. - iş ve işlemleri
+sonucunda teşekkül eden belgelerin, sistemli bir şekilde dosyalanmasını
+sağlamak üzere önceden hazırlanmış, standartlaştırılmış konu ve alt konu |
+numaraları envanterini anlatır. .
+
+Bu Yönetmeliğin amacı, kamu kurum ve kuruluşlarının görev ve
+faaliyetleri sonucu çoğunlukla kâğıt olmak üzere elektronik ortam dâhil,
+değişik ortamlarda ürettikleri bilgi ve belgelerin sağlıklı muhafazasını, en
+isabetli konu adı verilerek etkin, hızlı ve yararlı erişimini, kamu kurum ve
+kuruluşlarının sürekliliğini, güvenirliliğini ve kullanışlılığını sağlamaktır.
+
+Daire, bu Yönetmelik ile tamamlanan Belge Sayı Sistemi'nin tüm kamu |
+kurum ve kuruluşları tarafindan uygulanmasim, . sürekliliğinin
+sağlanmasını, ulusal standart olarak belirleyip buna rehberlik etmeyi,
+
+© elektronik belge yönetimine geçildiğinde ise programm bütünlüğüne uygun
+
+ve yardımcı olacak şekilde uygulanmasını sağlayacaktır.
+
+İKİNCİ KISIM
+_ Belge Sayı Sistemi
+
+(1) Belge Sayı Sisteminin amacı, belgelere daha çabuk ulaşım sağlamak,
+
+“ yazışmalara etkinlik ve hız kazandırmak, elektronik. ortamda .
+yapılacak iletişimde ise; belge kaydının yanı sıra, evrakın geldiği ve
+
+“gittiği birimini belirlenmesi suretiyle işbirliği ve bilgi iletişimine
+kolaylık sağlamaktır.
+
+(2) Belge Sayı Sistemi, belgelere kimlik verebilmek amacıyla bu
+
+Yönetmeliğe ekli EK-I’de düzenlenen formata göre üç ana
+
+[SAYFA 3]
+Arşiv
+Teşkilatı
+
+Veri Tabanı
+
+Konu Alanı
+
+6.
+
+2679
+
+bölümden oluşur.
+(A) Her bölüm “-” isareti ile birbirinden ayrılır. Birinci Bölüm
+kendi içinde “.” ve diğer bölümler “/” işareti ile alt bölümlere
+ayrılır.
+(B) Belge Sayı Sisteminde Birinci Bölüm belgenin oluştuğu,
+ikinci kopyasının korunduğu ve keydedildiği yer, yani kurum
+veya birim arşivinin kodu yer alır. Bu bölüm ©.” işareti ile üç alt
+bölüme ayrılır,
+
+Kurum veya kuruluş veya birim arşivi kodu yani Arşiv Teşkilatı Veri
+Tabanı Kodu, kurum ve kuruluşların talebi üzerine, Daire tarafından
+aşağıdaki koşullara uyularak verilir ve Dairenin resmi web sayfasında
+güncel olarak erişilebilinecek şekilde yayınlanır.
+
+(1)
+
+(2)
+
+“AAA” KURUM-KURULUS KODU:
+Birinci alt bölümde (AAA) Kurum — Kuruluş Kodu yer alır. Bu alt
+
+bölümde Bakanlıklar ve bağlı kurum ve kuruluşların her birine üç
+harflik bir kod verilir.
+
+- Kodlar verilirken mümkün olduğunca Kurumların kullandıkları
+
+karakterlere yakın karakterler kullanılmasına ve Kurum adlarını
+çağyıştırabilecek kısaltmalara gidilmeye özen gösterilir. Herhangi bir
+karışıklık olmaması için kodlar Daire tarafından verilir. Tüm Kodlar
+ATVT listesi olarak Dairenin resmi web sayfasında güncel olarak
+erişilebilinecek şekilde yayınlanır.
+
+“B” BÖLGE KODU:
+
+Kurum-Kuruluş Kodunu takiben nokta “.” karakteri kullanılarak
+ikinci alt bölüm olan ve bir karakter ile ifade edilen Bölge Koduna
+geçilir. Bölge kodu olarak aşağıdaki tabloda belirtilen kodlar
+kullanılır:
+
+0 Merkez
+
+I Lefkoşa
+
+2 Gazimağusa
+3 Gime
+
+4 Güzelyurt
+
+5 İskele
+
+9 Yurtdışı
+
+“CC” ALT BİRİM KODU:
+
+Bölge Kodundan sonra yine nokta “.” işareti kullanılarak üçüncü alt
+bölüm olan ve iki sayısal karakter ile Alt Birim Kodu verilir. Alt
+Birim Kodu olarak, aynı bölgede iki veya daha fazla alt birimi olan
+kurumlar iki karakter (numeri) ile alt birim kodu kullanırlar. *
+Bakanlık, kurum ve dairelerin merkezleri “00” karakterini kullanırlar.
+Bu konuyla ilgili örnek bu Yönetmeliğe ekli EK Ide
+düzenlermektedir.
+
+a
+
+Kurum-Kuruluş kodundan sonra tire “-“ karakteri kullanılarak İkinci
+Bölüm olan Konu Koduna geçilir. Her belgenin bir konusu vardır ve
+arşivlerde bu konu ile ilgili olan fiziksel veya elektronik ortamdaki dosyaya
+yerleştirilir. |
+
+[SAYFA 4]
+Y: il ve Sayı |
+
+Standart
+Dosya Planı
+
+Standart
+
+7.
+
+8.
+
+9.
+
+2680
+
+Konu kodları kurum ve kuruluş temsilcileriyle istişare halinde oluşturulan
+Standart Dosya Planı içerisinden, faaliyetin adı altında ana konular, ana
+konuyla ilgili alt/tali konular birbirleri ile olan ilişkileri dikkate alınarak,
+bir araya getirilmiş ve numaralandırılmış rakamlarla belirlenir.
+
+Standart Dosya Planı, kurum ve kuruluşların talebi üzerine Daire tarafından
+belirlenir ve Dairenin resimi web sayfasında güncel olarak erişilebilinecek.
+
+Şekilde yayınlanır.
+
+(1) “DDD” ANA KONU KODU: Her ana konuya Standart Dosya
+Planında 000’dan 999’e kadar sayısal karakter kullanılarak
+oluşturulur.
+
+(2). “EE” ALT KONU KODU: Ana konu kodundan sonra bölüm “/”
+karakteri kullanılarak Alt Konu Kodu verilir. Alt Konu Kodu,
+konularda detaya inmek için kullanılır. Planda alt konular için
+00'dan 99'a kadar alt konu başlıkları belirlenir.
+
+Her ana konu kodundan sonra “00” alt konu kodu “Genel” başlığını
+
+“ taşır ve ilgili ana konunun alt başlıklarından en az iki tanesini
+kapsayan konular için kullanılır. Her ana konu kodundan sonra “99”
+alt konu kodu “Diğer” başlığını taşır ve ilgili ana konuya ait olmakla
+beraber alt konulardan hiç birisine dâhil edilemeyen alt konular için
+kullanılır.
+
+2
+
+Alt konu kodundan sonra tire “-” işareti kullanılarak Üçüncü Bölüme
+
+geçilir ve bu bölümde Yıl Kodu ile Giden Evrak Kayıt Numarası yer alır.
+(1) “EF” YIL KODU: Birinci alt bölümde yıl kodu aşağıdaki örnekte
+
+gösterildiği gibi, yılın son iki Karakteri yazılmak sureti ile
+verilecektir.
+
+Örnek: 2015 yılını gösteren 15 rakamı gibi.
+
+2) “GGG” SAYI KODU (Giden Evrak Kayt Numarası); EBYS
+kullanmayan kurum ve kuruluşlar bu bölüme o yıl içinde arşivden
+çıkan belge numarasını yâzarlar. EBYS kullanan kurum ve
+kuruluşlarda ise bu bölüm sistem tarafından otomatik eklenecektir,
+
+“ ÜÇÜNCÜ KISIM
+Standart Dosya Planı
+
+Gerek etkili bir yönetim için ihtiyaç duyulan bilginin zamanında temini,
+gerekse toplumun bilgi edinme gereksinimi doğrultusunda talep
+edebileceği her türlü bilgi ve belgeye anında erişimi ve paylaşımı; bilginin
+kayıtlı bulunduğu ortamların teşekkülü safhasında disiplin altına alınması
+ile mümkündür. Bu ise, kuralları önceden belirlenmiş bir dosyalama
+sisteminin uygulanması ile sağlanabilecektir.
+
+Dosyalama sistemlerinde standarılaşma, kurum içinde birlikteliğin.
+sağlanmasına imkân vereceği <ibi bunun tüm kurum ve kıwuluşlara
+yaygınlaştırılması, ülke çapında etkili ve verimli bir haberleşme sisteminin
+kurulmasına zemin oluşturacaktır. Bu amaç doğrultusunda, 2006 Belge
+Sayı Sisteminin devamı olarak Daire’ce Standart Dosya Planı hazırlanıp
+dairenin weh sitesinde güncel olarak sunulmuştur. (bttp://arsiv.gov.ct.tr/)
+
+Standart Dosya Planında ver almayan konular için değişiklik önerileri
+
+[SAYFA 5]
+Dosya Planı
+Değişikliği
+
+Belge Ömür
+Tespiti
+
+Belge Ömür
+Tespiti
+Onayı
+
+Geçici
+Madde
+İmha.
+Kısıtlaması
+
+Geçici
+Madde Test
+Süresi
+
+Yürütme
+Yetkisi
+
+Yürürlüğe
+Giriş
+
+10.
+
+11.
+
+to
+
+12.
+
+2681]
+
+Daireye yapılır.
+
+DÖRDÜNCÜ KISIM
+Belge Ömür Tespiti
+
+Belge ömür tespiti ile kamu kurum ve kuruluşları elinde bulunan arşiv
+malzemesi ve ileride arşiv malzemesi hâline gelecek arşivlik malzemenin
+muhafaza sürelerini ve süre sonunda imhası gerekenlerin imhasına dair
+usul ve esasların bir standarda bağlanması hedeflenmektedir.
+
+Belge ömür tespitleri konu ve gerektiğinde alt konu bazında
+saptandığından dolayı Standart Dosya Planına eklenen sütunda gösterilir.
+Birinci sütunda dosyanın kurumda muhafaza edileceği süre, ikinci
+sütunda, süre sonunda göreceği işlem ve üçüncü sütunda erişim yetkisi
+belirtilir.
+
+Belge ömür tespiti çalışması, Daire personeli tarafından kurumlarda
+belgeyi üreten ile birlikte yürütülür. Bu çalışma ilgili kurum yöneticisi ve
+çalışmayı yapanlar tarafından imzalanır. Çalışması tamamlanan listeler
+Milli Arşiv Kurulu onayına sunulur, - i
+
+BEŞİNCİ KISIM
+Geçici ve Son Kurallar
+
+Belge Ömür Tespiti çalışması süresince, ömrü tespit edilmemiş konularda
+imha yapılamaz.
+
+Belge sayı sisteminde 2015 yılı deneme yılı olarak belirlenmiş olup, kalan
+sürede tüm belgelere mevcut sayı sistemi yanında bu sistem de
+uygulanarak sistemin test işlemleri gerçekleştirilir. Sistem, 1 Ocak 2016
+tarihi itibarıyla uygulamaya girecektir.
+
+Bu Yönetmelik, Milli Arşiv ve Araştırma Dairesi tarafından yürütülür.
+
+Bu Yönetmelik, Resmi Gazete'de yayımlandığı tarihten başlayarak
+yürürlüğe girer.
+
+EK -I
+
+Sayı Formatı: AAA, ‘CO-DDD/EE-FF/GGG ->Giden Evrak Kayıt Numarası _
+
+> Yıl Kodu
+
+>Alt Konu Kodu
+
+= Konu Kodu
+
+> Alt Birim Kodu
+
+& Bölge Kodu
+
+= Kurum-Kurulus Kodu
+
+x
+
+EK U
+
+MTO.0.00 Merkez (Müdürlük. Arşivi)
+
+MTO.1.01 Sedat Simavi Endüstri Meslek Lisesi LEFKOŞA
+MTO.1.02 Haydarpaşa Ticaret Lisesi
+
+MTO.2.01 Dr. Fazıl K. Endüstri Meslek Lisesi GAZİMAĞUSA
+MTO.2.02 Gazimağusa Ticaret Lisesi

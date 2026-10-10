@@ -1,0 +1,224 @@
+[SAYFA 1]
+KUZEY KIBRIS TÜRK CUMHURİYETİ
+RESMİ GAZETE
+
+Sayı:2 EK Ill 8 Ocak, 2019
+TEBLIG VE ILANLAR
+Say : 7
+a
+KENT GÜVENLİK YÖNETİM SİSTEMİ YASASI
+(31/2018 Sayılı Yasa)
+
+Madde 16 Altında Yapılan Tüzük
+
+Kuzey Kıbrıs Türk Cumhuri
+
+yeti Bakanlar Kurulu Kent Güvenlik Yönetim Sistemi Yasası'nın
+16'ncı maddesinin (4'üncü fikrasının k
+
+endisine verdiği yetkiye dayanarak aşağıdaki Tüzüğü yapar:
+Kısa İsim 1, Bu Tüzük, Kent Güvenlik Yönetim Sistemleri Bilişim Verilerinin Kaydedilmesi,
+Muhafazası, Kullanılması, Verilmesi, Talep Edilmesi, Silinmesi Ve İmha
+Yöntemine İlişkin Yöntemler Tüzüğü olarak isimlendirilir.
+
+(17)
+
+[SAYFA 2]
+Tefsir.
+
+31/2018
+
+Amaç
+
+Kapsam
+
+18
+
+BİRİNCİ KISIM
+GENEL KURALLAR
+
+Bu Tüzük metni başka türlü gerektirmedikçe;
+
+“Bilişim Sistemi”, Yasa'nın 2'nci maddesinde düzenlenen tanımı anlatır.
+
+“Bilişim Verisi”, Yasa'nın 2'nci maddesinde düzenlenen tanımı anlatır.
+
+“KGYS” Yasa'nın 2'nci maddesinde tanımlanan “Kent Güvenlik Yönetim
+Sistemleri”ni anlatır.
+
+“Yasa”, Kent Güvenlik Yönetim Sistemi Yasası'nı anlatır.
+
+Bu Tuziik,Bilisim (Sistemlerine kayıt: olan o verilerin kaydedihnesi,
+muhafazası,kullanılması,verilmesi,talep edilmesi.silinmesi ve imha yoniem)zririn
+belirlenmesini amaçlamaktadır.
+
+Bu Tüzük, Polis Genel Müdürlüğü bünyesinde kurulan Kent Güvenlik Yönetim
+Sistemi Şube Amirliğinin yürüteceği görevleri kapsamaktadır.
+
+İKİNCİ KISIM
+
+KENT GÜVENLİK YÖNETİM SİSTEMİ BİLİŞİM VERİLERİNİN İZLENMESİ
+
+Bilişim
+Verilerini
+İzlemeye
+Yetkili Olan
+Kişiler
+
+Canlı
+Görüntülerin
+İzlenmesi
+
+5.
+
+KGYS Bilişim Sistemlerini izlemeye yetkili olan kişiler;
+
+(1) Kent Güvenlik Yönetim Sistemi Şube Amirliğinde görevli versonel
+haricinde hiç kimse bilişim verilerini izleyemez ve bilişim verilerine
+erişemez. ;
+
+Ancak soruşturma memurlarının bilişim verilerine erişimi, sorust ma
+memurunun yazılı ve gerekçeli talebi üzerine Şube Amirinin yazılı onayı ile
+sağlanır.
+
+(2) (o Yasa uyarınca kaydedilen, muhafaza edilen veya izlenen bilişim verileri,
+yukarıdaki koşul bendi kuralları haricinde, mahkeme kararı olmadıkça
+hiçbir şekilde hiç kimseye verilemez ve verilmesi talep edilemez.
+
+(1) Kent Güvenlik Yönetim Sistemi, Şube Amirliğine yetkisiz giriş yapılmaz,
+. bina dışında görüntülerin görünmesini önleyecek kapı, pencere perde ve
+diğer güvenlik sistemleri bulunur.
+(2) — Bilişim verileri, Kent Güvenlik Yönetim Sistemi Şube Amirliğinde görevli
+personel tarafından;
+(A) Kamuya açık alanlarda güvenliğin sağlanması ve korunması,
+
+[SAYFA 3]
+(3)
+
+19
+
+(B) Trafik akışının ve düzenin sağlanması,
+
+(C) Soruşturmada kullanılabilmesi,
+
+(Ç) Doğrudan suça ilişkin konularda, suçun takip edilmesi ve delillerin
+tespit edilerek faillerin yakalanması
+
+amacıyla gizlilik çerçevesinde yapılır.
+
+Kent Güvenlik Yönetim Sistemi Şube Amirliğinde görevli personelin
+
+. sistem üzerinden yapmış olduğu her türlü işlemin kaydı tutulur.
+
+ÜÇÜNCÜ KISIM
+
+KENT GÜVENLİK YÖNETİM $İSTEMİ SİCİŞİM VERİLERİNİN KAYDEDİLMESİ,SİLİNMESİ
+
+YE İMHASI
+
+Kent Güvenlik 7. o Kent Giivenfix Yönelim Sistemine ait her türlü canlı: görüntü, izleme verileri ve
+Yönetim bunlara bağlı diğer sistemlerin saklanacağı odalar şube amirliği içerisinde yer alır.
+Sistemi Şube Bu odalar;
+
+Amirliği Kayıt, (1)
+İzleme ve
+Sistem Odaları (2)
+
+(3)
+
+(4)
+
+Kent Güvenlik Yönetim Sistemi Şube Amirinin yetki ve sorumluluğu
+altıada olur,
+
+Odalar sistemlerin düzenli çalışmasını sağlayacak yeterli alt ve üst yapılara
+sahiv olur,
+
+Odalara, Kent Güvenlik Yönetim Sistemi Şube Amirinin bilgisi ve yetkisi
+dışında girişin önlenmesi için odalar kilit altında tutulur ve ihtiyaç duyulan
+ber türlü alarm, kamera ve güvenlik sistemleri kurulur.
+
+Sistem odalarına yapılacak tüm fiziksel girişler ile herhangi bir program.
+sistem veya cihaz ile girişler kayıt altında tutulur,
+
+Bilişim 8. Kent Güvenlik Yénetitn Sistemi Kayıt Odasında yapılacak kayıtlar;
+
+Verilerinin (1)
+Kayit edilmesi,
+
+Silinmesi ve (2)
+İmhası
+
+6)
+
+(4)
+
+6)
+
+Bilişim sistemlerinin kurulu olduğu yerlerden gelen tüm kayıtlar yirmi dört
+Saat esasına göre kayıt edilir ve tutulur,
+
+Suçla ilgili olan kayıtlar dışındaki canlı görüntü kayıtları en fazla 3 ay
+süreyle saklayabilecek sistem oluşturulur. Bu sistem üzerindeki verilerin
+kronofojik olarak silmesi sağlanır.
+
+Suçla ilgili olan kayıtlar, sorusturina memuruna sunulduktan sonra Kent
+Güvenlik Yönetim Sistemi Şube Amirinin belirleyeceği (şekilde
+yedeklenerek saklanır.
+
+Verilerin silinmesinde izlenilecek yol aşağıdaki gibidir.
+
+(A) — Suçla ilgili soruşturına memuruna teslim edilen bilişim verilerinin
+yedeği mabkeme sonuçlanana kadar KGYS Şube Amirliği
+tarafından tutulur,
+
+(B) o Yukarıda (A) bendinde yazan veriler dışındaki veriler, soruşturma
+weouruna verildikten sonra yasal süresi içerisinde silinir.
+
+(C) o Yasa'nnı l#'üneü raaddesinin üncü fıkrasında belirtilen verilerin
+dir sureti KGYS amirinin uygun göreceği yolla en az beş yıl süreyle
+Aamir.
+
+Kent Güvenlik Yönetim Sisterninde kullanılan hiçbir cihaz, Hek’e ayrılmış
+
+olsa da elden ¢ixarsiinaz, başka bir birimde kullanılmaz. Kullanılmayacak
+
+duruma gelen tim Sistem ve cihazlar KGYS Şube Amirinin belirieyeceği
+şekilde izaha edilir.
+
+[SAYFA 4]
+20
+
+DÖRDÜNCÜ KISIM
+
+KENT GÜVENLİK YÖNETİM SİSTEMİ BİLİŞİM VERİLERİNİN TALEP EDİLMESİ VE
+
+Kent Güvenlik 9.
+
+Yönetim
+Sistemi Bilişim
+Sistemleri
+Verilerinin
+Talep Edilmesi
+Ve Verilmesi
+
+Yürütme
+Yetkisi
+
+Yürürlüğe Giriş
+
+i,
+
+VERİLMESİ
+Kent Güvenlik Yönetim Sistemi bilişim verileri, herhangi bir soruşturma ile ilgili
+olarak, soruşturma memurunun yazılı ve gerekçeli talebi üzerine veya mahkeme
+
+emri ile talep edilmesi üzerine verilir. Bunun dışında yapılan talepler
+değerlendirilmez.
+
+BEŞİNCİ KISIM
+SON KURALLAR
+
+Bu Tüzük, Bakanlar Kurulu adına Başbakanlık tarafından yürütülür.
+
+Bu Tüzük, Resmi Gazete'de yayımlandığı tarihten başlayarak yürürlüğe girer.

@@ -1,0 +1,741 @@
+[SAYFA 1]
+Tüzük metni aşağıdadır.
+
+[SAYFA 2]
+Sayı:518
+
+1584
+
+ELEKTRONİK HABERLEŞME YASASI
+(6/2012 ve 21/2014 Sayıl Yasalar)
+Madde 86, 87 ve 89 Altında Yapılan Tüzük
+
+Kuzey Kıbrıs Türk Cumhuriyeti Bakanlar Kurulu, Elektronik Haberleşme Yasası'nın
+86'ncı, 87” ncive 89'uncu maddelerinin kendisine verdi ği yetkiye dayanarak aşağıdaki Tüzüğü
+
+yapar:
+
+Kasaİsim
+
+Tefsir
+
+Bu Tüzük,“Elektronik Kimlik Bilgisini Haiz Cihazlara Dair Tüzük”
+olarak isimlendirilir.
+
+BİRİNCİ KISIM
+Genel Kurallar
+
+Bu Tüzükte metin başka türlü gerektirmedikçe:
+“Basamak Kontrolü”, Onbeş basamaklı IMEI numarasının son
+basamağının doğruluğunun kontrolünü anlatır.
+“Başvuru Merci”, Haberleşme Sağlayıcı abone kayıt merkezleri ile
+Kurumun belirleyeceği yerleri anlatır.
+“BİM”, Bilgi ve İhbar Çağrı Merkezini anlatır. .
+“Bireysel İthalat”, Transit yolcular hariç olmak üzere yurt dışından
+yolcu beraberi ve/veya posta yoluyla getirilen elektronik kimlik
+bilgisini haiz cihazların ticari nitelikte olmayan ithalatını anlatır.
+“CEIR, (Central Equipment Identity Register)” ,Merkezi mobil cihaz
+kimlik tanımı veri tabanını anlatır.
+“Cihaz”, Mobil iletişim şebekesinden hizmet alan elektronik kimlik
+bilgisini haiz cihazı anlatır.
+“Devlet İhale Tüzüğü”, 32/1983 sayılı Hazine Malları Yasası uyarınca
+hazırlanan tüzüğü anlatır.
+“Elektronik Kimlik Bilgisi”, Elektronik haberleşme cihazlarına tek ve
+benzersiz olarak tahsis edilmiş kimlik tanımın anlatır.
+“Elektronik Kimlik Bilgisi Değiştirilmiş Cihaz”, Elektronik kimlik
+bilgisinin tamamının ya da bir kısmının değiştirildiği tespit ediler
+cihazı anlatır. i
+“Elektronik Kimlik Bilgisini Haiz Cihaz”, Tek ve benzersiz olarak
+tahsis edilmiş kimlik tanımına sahip cihazları anlatır.
+
+“Elektronik Haberleşme  Sağlayıcı/Haberleşme Sağlayıcı”, Bir
+elektronik o haberleşme şebekesinin operatörü veya elektronik
+haberleşme Oo hizmetleri (o sağlayan (tüzel kişiyi anlatir ve
+Telekomünikasyon Dairesini de kapsar.
+“Gün”, Takvim gününü anlatır.
+“TIME Numarası”, Mobil cihazlara ait uluslararası elektronik kimlik
+bilgisini gösteren numarayı anlatır.“Kaçak Cihaz”, Kurum kayıtlarında
+yer almadığı halde kullanımda olduğu tespit edilen cihazı anlatır.
+“Kurul”, Yasa tahtında kurulan Bilgi Teknolojileri ve Haberleşme
+“oruszu'nun Yönetim Kurulunu anlatır.
+
+“aw”, Bilgi Teknolojileri ve Haberleşme Kurumunu anlatır.
+
+iw.. .5,(Mobil Cihaz Kayıt Sistemi)”, Merkezi mobil cihaz kimlik
+
+[SAYFA 3]
+6/2012
+21/2014
+
+Amaç
+
+Kapsam
+
+MCKS
+Sisteminin
+Kurulması
+
+1585
+tanımı veri tabanı sistemini anlatır.
+“MCKT, (Mobil Cihaz Kimlik Tanımı)”, Mobil cihaz kimlik tanımı
+veri tabanını anlatır.
+“MSISDN”, Mobil abone numarası veya cep telefonu numarasını
+anlatır.
+“TAC (Type Approval Code), Tip onay kodunu anlatır.
+“Test Cihazı”, Terminal donanımlarında aranan uygunluğu sağlamayan
+ancak belli bir amaç için ve belirlenen süre dahilinde kullanımı
+öngörülen cihazları anlatır.
+“Toplu İthalat”, İthalatçıların ilgili mevzuat çerçevesinde yaptıkları
+elektronik kimlik bilgisini haiz cihaz ithalatını anlatır.
+“Uluslararası Dolaşım” ,Bir mobil ağın veya şebeke operatörünün
+abonesi olan bir kullanıcının bu aboneliğini diğer ağlarda da
+kullanabilmesine olanak tanıyan teknolojiyi anlatır.
+“Yasa”, Elektronik Haberleşme Yasasını anlatır.
+“Yedek Parça (Modül)”, İthalatı veya imalatı yapılan cihaza teknik
+servis hizmeti verilmesi amacıyla yedek parça olarak ithal/imal edilen
+elektronik kimlik bilgisini haiz anakartı, takas amaçlı ithal veya imal
+edilen cihazı veya elektronik kimlik bilgisini haiz modülü anlatır.
+
+Bu Tüzüğün amacı, elektronik kimlik bilgisini haiz cihazların kayıt
+alına alınması,kayıp, kaçak veya çalıntı cihazlara elektronik
+haberleşme hizmeti verilmesinin engellenmesi,bilgi ve ihbar çağrı
+merkezinin kurulması ihbarların yapılmasında izlenecek yöntem ve
+elektronık kimlik bilgisi değiştirilen cihazlara ilişkin usul ve esasları
+düzenlemektir.
+
+Uluslararası dolaşım abonelerine ait elektronik kimlik bilgisini haiz
+cihazlar hariç olmak üzere, yurt içinde yetkilendirilenbir mobil ağ veya
+şebekeyikullanılan abonelere ait elektronik kimlik bilgisini haiz
+cihazlar bu Tüzük kapsamındadır.
+
+İKİNCİ KISIM
+MCKS Sisteminin Temini, Kurulması ve İşletilmesi
+
+Kurum, elektronik kimlik bilgisini haiz cihazların kayıt altma
+alınması.kayıp, kaçak veya çalıntı cihazlara elektronik haberleşme
+hizmeti verilmesinin engellenmesi ve elektronik kimlik bilgisi
+değiştirilen cihazların tespit ve düzeltilmesine yönelik sistemin temini,
+bu sistemin kurulması ve işletilmesi için MCKS sistemini kurar veya
+ihale yoluyla üçüncü kişilere de kurdurabilir.
+
+[SAYFA 4]
+Beyaz Liste
+
+Siyah Liste
+
+Eşleştirilmiş
+Beyaz Liste
+
+6.
+
+7.
+
+8.
+
+1586,
+UCUNCUKISIM
+Listelerin Olusumu
+
+Beyaz Liste;
+
+(1) Toplu veya bireysel olarak mevzuata uygun bir sekilde ithal
+edilerek veya yurt içinde üretilerek Kuruma bildirilen,
+
+(2) Elektronik kimlik bilgisi değiştirilmemiş ve kopyalanmamış,
+cihazlara ait IMEI numaralarından oluşur.
+
+Siyah liste;
+
+(1) Kayıp,kaçak, çalıntı veya elektronik kimlik bilgisi değiştirilmiş
+cihazlara ait IMEI numaralarından oluşur.
+
+(2) Haberleşme sağlayıcılar, siyah listede yer alan cihazların
+kullanıcılarına IMEI numaralarının siyah listede olduğuna dair kısa
+mesaj gönderirler.
+
+(3) Haberleşme sağlayıcılar, abone numaraları ile eşleştirme yapılarak
+kullanıma açılanlar hariç olmak üzere siyah listeye giren;
+
+(A)Kayıp ve çalıntı ihbarı yapılmış cihazların elektronik
+haberleşme bağlantısını yirmi dört saat içerisinde,
+
+(B) Kayıt işlemleri tamamlanmayan ve kaçak olduğu tespit
+edilencihazların elektronik haberleşme bağlantısını, aboneye
+kısa mesaj gönderilen tarihten itibarendoksan günün sonunda,
+
+(C) Elektronik kimlik bilgisi değiştirilmiş cihazların elektronik
+haberleşme bağlantısını otuz gün içerisinde,
+
+keser.
+
+(4) Kurum, gerek duyması halinde haberleşme sağlayıcılardan Kurum
+kayıtlarında bulunmayan fakat kullanımda olduğu tespit edilen kaçak
+cihazlara ait IMEI numaralarının tespit edilerek bildirilmesini
+isteyebilir.
+
+(5) Siyah listedeki IMEI numaraları;
+
+(A)Kayıp ve çalıntı ihbarının iptali ile,
+
+(B)Kaçak cihazlara ait kayıt işlemlerinin mevzuata uygun olarak
+tamamlanması ile,
+
+(O)Mahkemenin emri veya Polis Genel Müdürlüğünün yazılı talebi
+
+ile,
+siyah listeden çıkarılarak beyaz listeye alınırlar.
+
+(DEŞşleştirilmiş beyaz liste;
+
+(A) Elektronik kimlik bilgisi değiştirilmiş olarak tespit edilen ancak bu
+Tüzüğün Geçici 1'inci maddesi uyarınca kayıt altına alınmış olan
+IMEI numaraları ile kayıt ücretini yatıran kullanıcılara ait abone
+numaraları,
+
+(B) Elektronik kimlik bilgisi değiştirilmiş olarak tespit edilen IMEI
+numaraları ile bu Tüzüğün 15'inc maddesi uyarınca belirlenen
+abone numaraları,
+
+(C) Haberleşme sağlayıcılar tarafından bildirilen test cihazlarına ait
+IMEI numaraları ile abone numaralarının,
+
+[SAYFA 5]
+Toplu Olarak o 9.
+
+İthal Edilen
+Cihazların Kayıt
+Altına Alınması
+
+Yurt İçinde 10.
+
+Üretilen
+Cihazların Kayıt
+Altına Alınması
+
+Bireysel 11.
+Olarak
+
+İthal Edilen
+Cihazların Kayıt
+Altına Alınması
+
+1587
+eşleştirilmesi ile oluşur.
+(2) Eşleştirilmiş beyaz listede bulunan bütün IMEI numaraları aynı
+zamanda siyah listede de bulunur.
+(3)(A)Eslestirilmisbeyaz listede bulunan cihazlara ait IMEI
+numaralarisadece eşleştirildikleri ve en fazla üç abone numarası ile
+kullanılabilir.
+(B)Bu madde uyarınca eşleştirilmek istenen abone numaralarının aynı
+aboneye ait olması gerekmektedir.
+
+DORDUNCUKISIM
+Cihazların Kayıt Altına Alınması
+
+(1) İthalatçılar, Gümrük ve İstihsal Yasası ve ilgili diğer mevzuatlar
+çerçevesinde yurt dışından toplu olarak ithal ettikleri cihazlara ve IMEI
+numarasına sahip yedek parçalara ait IMEI numaralarını Kuruma
+bildirir.
+
+(2) Kurum;
+
+(A) Marka ve model kontrolünü,
+
+(B) Gümrük belgesi kontrolünü,
+
+(C) Basamak kontrolünü,
+
+(Ç) IMEI numarasının daha önce beyaz listede olup olmadığına
+ilişkin kontrolü,
+
+(D) IMEI numarasının kayıp, çalıntı veya elektronik kimlik
+bilgisi değiştirilmiş olarak belirlenip belirlenmediğine ilişkin kontrolü
+yapar ve bu kontrollerden geçen cihazların IMEI numaralarını beyaz
+listeye yedek parçalara ait IMEI numaralarını ise siyah listeye alır.
+
+(1) Üreticiler, yurt içinde ürettikleri cihazlarave IMEI numarasına sahip
+yedek parçalara ait IMEI numaralarını Kuruma bildirirler.
+(2) Kurum;
+
+(A) Marka ve model kontrolünü,
+
+(B) Üreticifirma kapasite raporu kontrolünü,
+
+(C) Basamak kontrolünü,
+
+(Ç) IMEI numarasının daha önce beyaz listede olup olmadığına
+ilişkin kontrolü, i
+
+(D) IMEI numarasının kayıp, çalıntı veya elektronik kimlik
+bilgisi değiştirilmiş olarak belirlenip belirlenmediğine ilişkin kontrolü
+yapar ve bu kontrollerden geçen cihazların IMEI numaralarını beyaz
+listeye, yedek parçalara ait IMEI numaralarını ise siyah listeye alır.
+
+(1) Bireysel ithalat yoluyla ithal edilencihazların sahipleri, Gümrük ve
+İstihsal Yasası ve ilgili diğer mevzuatlar çerçevesinde gerekli belgeleri
+tamamlayarak başvuru merciine müracaat eder.
+
+(2) Başvuru merci, kendisine yapılan başvurulara ilişkin bilgi ve
+belgeleri onaylayarak birer kopyasıüzerine "Aslı Görülmüştür" ve
+
+[SAYFA 6]
+37/1983
+
+Yurtdismdan 12.
+
+Getirilen Bir
+Cihazın
+Faturasız
+
+Bir Hat ile
+Kullanılması ve
+Kayıt Edilmesi
+
+Yurtdışından 13.
+
+Getirilen bir
+Cihazın
+Faturalı Bir
+Hat ile
+Kullanılması ve
+Kayıt Edilmesi
+
+1588
+
+başvuru merci kaşesi basarak Kuruma gönderir.
+
+(3) Kurum, beyaz listeye kayıt koşullarını taşıyan cihazlara ait IMEI
+numaralarını beyaz listeye alır, bu tüzük ve ilgili usul ve esaslara uygun
+olarak ithal edilip edilmediğinin tespiti için ise bilgi ve belgeler
+üzerinde gerekli kontrolleri yapar.
+
+(4) Yapılan kontroller sonucunda bilgi veya belgelerinde uygunsuzluk
+tespit edilen cihazlara ait IMEI numaraları beyaz listeden çıkarılır.
+
+(5) Yukarıdaki 2'nci fıkrada geçen kaşeler, Elektronik İmza Yasasının
+Sinci Maddesi uyarınca güvenli elektronik imza kullanlarak
+elektronik ortamda gönderilen belgelerde aranmaz.
+
+Yurtdışından getirilen bir cihaza faturasız hat takılarak kullanılmak
+istenmesi halinde;
+
+(1) İlgili cihaza ait IMEI numarasısiyah listeye alınır.
+
+(©) Bu cihazın sisteme kayıt için başvuru süresi en fazla doksan
+gündür.
+
+(3) Doksan günün sonunda kayıt edilmeyen cihazın elektronik
+haberleşme bağlantısını kapatılır.
+
+(4) Doksan gün içinde kayıt edilmek istenen IMEI numaralı cihazlar
+Kurumca değerlendirilerek, ilgili cihaz ;
+
+(A) Kopyalanmamış, kaçak, kayıp veya çalıntı değil ise beyaz listeye
+alınır ve bu Tüzüğün (15Y'inci madde kuralları uygulanır.
+
+(B) MCKS sisteminde kayıtlı ve beyaz listede bulunan bir gerçek IMEI
+numarası ile aynı ise, yani kopyalanmış ise, ilgili IMEI siyah listeye ve
+gerçek IMEI numarası da MSISDN numarası ile eşleştirilerek
+eşleştirilmiş beyaz listeye alınır.
+
+(1) Yurtdışından getirilen bir cihazın yeni faturalı bir hat ile
+kullanılmak istenmesi halinde; haberleşme sağlayıcıların abonelik
+merkezlerinde abonelik sözleşmesi yapılması esnasında alınacak
+olunan kimlik bilgileri ve evraklarla beraber abonenin cihazına ait
+IMEI numarası MCKS ekranından kontrol edilir. Yapılan sorgulama
+ile IMEI numarası,
+
+(A)MCKS sisteminde kayıtlı ve beyaz listede bulunan bir gerçek
+IME] numarası ile aynı yani kopyalanmış ise, ilgili IMEI siyah
+listeye ve gerçek IMEI numarası da MSISDN numarası ile
+eşleştirilerek eşleştirilmiş beyazlisteye alınır.
+
+(B) MCKS sisteminde bulunmuyor ise ekrana IMEI kayıt edilerek
+kullanılabilir bilgisi verilir ve bu Tüzüğün (15Yinci Madde
+kuralları uygulanır.
+
+(2) Yurtdışından getirilen bir cihazın mevcut faturalı bir hat ile
+kullanılmak istenmesi halinde;
+
+(A) ilgili cihaza ait IMEI numarası siyah listeye alınır.
+
+(B) Bu cihazın sisteme kayıt için başvuru süresi en fazla doksan
+gündür.
+
+(O) Doksan günün sonunda kayıt edilmeyen cihazın elektronik
+haberleşme bağlantısını kapatılır.
+
+(©) Doksan gün içinde kayıt edilmek istenen IMEI numaralı cihazlar
+
+[SAYFA 7]
+Tamir Bakım 14.
+
+Onarım İşlemleri
+
+Kayıt Dışı 15.
+Cihazların
+Kayıt Edilmesi
+
+Elektronik 16.
+Kimlik Bilgisi
+Değiştirilmiş
+Cihazlara Ait
+IMEI
+Numaralarının
+Tespiti
+
+Elektronik 17.
+
+1589
+Kurumca değerlendirilerek, ilgili cihaz ;
+(a) Kopyalanmamış, kaçak, kayıp veya çalıntı değil ise beyaz listeye
+alınır ve bu Tüzüğün (15Y'inci madde kuralları uygulanır.
+(b) MCKS sisteminde kayıtlı ve beyaz listede bulunan bir gerçek IMEI
+numarası ile aynı ise, yani kopyalanmış ise, ilgili IMEI siyah listeye ve
+gerçek IMEI numarası da MSISDN numarası ile eşleştirilerek
+eşleştirilmiş beyaz listeye alınır.
+
+(1) Elektronik kimlik bilgisini sahip cihazların tamir, bakım ve onarım
+işlemlerinde IME] numarasına sahip yedek parçaların kullanılması
+durumunda, Kuruma önceden yedek parça olarak bildirilmiş olan ve
+siyah listede yer alan IMEI numaraları tamir işleminden sonra Kuruma
+yapılacak bildirim ile beyaz listeye, tamiri yapılan cihaza ait eski IMEI
+numaraları ise siyah listeye alınır.
+
+(2) Tamir, bakım ve/veya onarım işlemlerinden sonraKurum tarafınan
+yapılan TAC kontrolü neticesinde cihazın tamir, bakım ve/veya
+onarımöncesinde sahip olduğu IMEI bilgisine sahip olması ve eski
+IMEI numarasının da siyah listeye alınması halinde kayıt ücreti
+alınmaz ancak aksinin tespiti halinde bu Tüzüğün (15)’inci madde
+kuralları uygulanır.
+
+(1) IMEI numarasına sahip yedek parçalar hariç olmak üzere,her bir
+kayıt dışı cihazın kayıt edilmesi için Kurum'a kayıt ücretini ödenir.
+
+(2) Yasa'ya ekli 7'nci Cetvel ile alt ve üst limitleri belirlenen kayıt
+ücretleri ile ilgili ve bu ücretlere ait tahsilatın ne şekilde yapılacağı
+hakkında Kurumca hazırlanacak, Bakanlıkça sunulacak ve Bakanlar
+Kuruluncaonaylanarak Resmi Gazete'de yayımlanacak usul ve esaslar
+yapılır. '
+
+Ancak, bu tüzüğün Geçici 1'inci maddesi uyarınca, aksi belirtilmediği
+takdirde belirlenen süre içerisinde kayıt altına alınacak IMEI
+numaraları için kayıt ücreti alınmaz.
+
+BEŞİNCİ KISIM
+Elektronik Kimlik Bilgisi Değiştirilen Cihazlar
+
+(1) Elektronik kimlik bilgisi değiştirilen cihazlara ait IMEI numaraları
+haberleşme sağlayıcılardan alınan detaylı bağlantı kayıtları üzerinde
+yapılacak analizlerle Kurum tarafından tespit edilir.
+
+(2) Elektronik kimlik bilgisi değiştirildiği tespit edilen cihazlara ait
+IMEI numaraları siyah listeye alınır.
+
+(3) Kurum, gerek duyması halinde haberleşme sağlayıcılardan
+elektronik kimlik bilgisi değiştirilmiş cihazlara ait IMEI numaralarının
+tespit edilerek bildirilmesini isteyebilir.
+
+(1) Kurum, elektronik kimlik bilgisinin başka cihazlara kopyalandığını
+
+[SAYFA 8]
+Kimlik Bilgisi
+Başka Cihazlara
+Kopyalanmış
+Gerçek Cihazın
+Tespiti
+
+Bilgi ve İhbar 18.
+
+Çağrı Merkezinin
+Kurulması
+
+1590
+
+tespit ettiği gerçek cihazın ilk olarak kullanıldığı abone numarasının
+belirlenmesi için; cihaza ait IMEI numarasının siyah listeye girdiği
+tarihtenitibaren doksan gün öncesine kadar olan tüm haberleşme
+sağlayıcılara ait detaylı bağlantı kayıtları üzerinde inceleme yapar ve
+ilk kullanıcının abone numarasını tespit eder.
+
+(2)(A)Kurum, elektronik kimlik bilgisinin başka cihazlara
+kopyalandığını tespit ettiği gerçek cihazın tespiti için ilgili cihazın
+ithalatçısı veya üreticisindenkullanıcıya ait cihaz fatura bilgileri ve
+IMEI numarasınıbildirmesini talep eder.
+
+(B) Kurum, ithalatçı veya üretici tarafından bildirilen kullanıcıya ait
+cihaz Ofatura O bilgilerine dayanarakesas (kullanıcının o abone
+numarasinitespit eder.
+
+(C) Abone numarasının tespit edilemediği hallerde ithalatçı veya üretici
+tarafından bildirilen fatura bilgileri esas alınarak kullanıcı tarafından
+ilgili cihaz ile kullanılacak MSISDN numarası alınır.
+
+(3) Elektronik kimlik bilgisinin başka cihazlara kopyalandığı tespit
+edilmiş gerçek cihaza ait IMEI numarası için yukarıdaki (1)’incifikrada
+tespit edilen abone numarası ile yukarıdaki (2)’ncifikrada
+belirlenenabone numarası arasında farklılık olması halinde ithalatçı
+bildirimi ile tespit edilenabone numarası dikkatealınır.
+
+(4) Kurum; elektronik kimlik bilgisi kopyalandığı tespit edilmiş cihaza
+ait IMEI numarası ile yukarıdaki (1)’inci, (2)’nci ve (3)'üncü fikralan
+çerçevesinde tespit edilen abone numarasını eşleştirir.
+
+(5) Elektronik kimlik bilgisi kopyalandığı tespit edilmiş cihaza ait
+IMEI numarası eşleştirme yapılan abone numarası ile kullanılmak
+üzere eşleştirilmiş beyaz listeye alınır.
+
+(6)Kurum gerek duyması halinde haberleşme sağlayıcılardan
+yukarıdaki /1Y'inci fıkrada geçen abone numarasının tespit edilmesini
+isteyebilir.
+
+ALTINCI KISIM
+Bilgi ve İhbar Çağrı MerkezininKurulması,İhbarların
+Yapılmasındaİzlenecek Yöntem ve Mahkeme veya Polis Genel
+Müdürlüğü Talepleri
+
+(1) Kurum, elektronik kimlik bilgisini haiz cihazlar ve Yasa ile
+belirlenen görevlerini yerine getirmek için bilgi ve ihbar merkezini
+kurar veya ihale yoluyla üçüncü kişilere de kurdurabilir.
+
+(2) Kurum, bilgi ve ihbar merkezinin kurulması ve işletilmesine
+yönelik her türlü yazılım, donanım ve yardımcı gereçlerin teminini ve
+bu konuda görev yapacak personelin istihdamını sağlarveya ihale
+yoluyla üçüncü kişilere de yaptırabilir.
+
+(3)(A)Kurum, bilgi ve ihbar merkezinin kurulması ve işletilmesine
+yönelik her türlü yazılım, donanım ve yardımcı gereçlerin teminini ve
+bu konuda görev yapacak personelin istihdamını ihale yoluyla
+yaptırmaya karar vermesi halinde konu ile ilgili teknik ve idari
+
+[SAYFA 9]
+Kayıp veya 19.
+
+Çalıntı
+İhbarlarının
+Yapılmasıve
+İzlenecek Yöntem
+
+1591
+
+şartname hazırlar.
+
+(B) İhale ilanı, ihale tarihinden en az 10 gün önce ve en az iki yerli
+gazetede duyurulur.
+
+(C) Teklifler, gazete ilanında belirtilen gün ve saate kadarve üzerinde
+talibin ismi, iletişim bilgileri ve teklif konusunun yazılı olarak
+bulunduğu kapalı zarf içerisinde Kurumda bulunan teklif kutusuna
+atılır.
+
+(Ç) Teklif sahipleri, ihale şartnamesinde geçici teminat tutarı
+belirlenmiş ise, ihaleye başvurmadan önce Kurum tarafından belirlenen
+ve şartnamede belirtilen banka hesaplarına nakit veya banka çeki
+yatırarak karşılığında alınacak makbuzu veya banka garanti mektubunu
+teklif mektubuna ekler.
+
+(D) Teklif sunanlara tekliflerin açılacağı gün ve saat, elektronik posta
+veya telefon yolu ile bildirilir.
+
+(E)ihale Komisyonu, yönetim kurulu başkanı, başkan yardımcısı ve
+kurulun atayacağı bir üyeden oluşur.
+
+(F) Teklif zarfları, hazır olan teklif sahiplerinin huzurunda ihale
+komisyonu huzurunda açılır ve teklifler ihale komisyonu tarafından
+değerlendirilir.
+
+(G) İhale Komisyonu, teklifleri değerlendirirken aşağıdaki hususları
+dikkate alır;
+
+(a)En düşük fiyat veya en yüksek fiyat, fiyatların keşif bedeli veya
+geçer fiyatla ilgisi,
+
+(b)Teklifin ihale şartnamesine uygunluğu,
+
+(c) Gerekli görülmesi halinde uzman değerlendirmesi ve tavsiyesi
+kıstas olarak kabul edilir ve bu kıstaslar çerçevesinde uygun teklifi
+kabul eder ve ihale defterine kabul gerekçesini yazar. Komisyon en
+düşük veya en yüksek teklifi kabul etmek zorunda değildir.
+
+(H) Tekliflerin uygun bulunmaması halinde ihale iptal edilip otuz gün
+içinde yeniden ihaleye çıkılır ve açık artırma usulu ile pazarlık
+yapılarak karara bağlanır.
+
+(4) Bu madde ve/veya ihale şartnamesinde belirtilmeyen hususlarda
+Devlet İhale Tüzüğü kuralları uygulanır.
+
+(1) Cihazları beyaz listede yer alan kullanıcılarçalınma,kaybolma veya
+her ne suretle olursa olsun rızası dışında elden çıkma durumlarında
+öncelikle cihazının elektronik haberleşme şebekesinden hizmet
+almasını engellemek için telefon yoluyla Kurumun bilgi ve ihbar
+merkezine ihbarda bulunurlar.
+
+(2) Cihaz kullanıcısı; adını ve soyadını, kimlik numarasını, yabancı
+uyruklu olması halinde pasaport numarasını, doğum tarihini, anne
+kızlık soyadını, abone numarasını ve bilmesi halinde cihazın IMEI
+numarasını içeren bilgileri ihbarda bulunması sırasındabilgi ve ihbar
+merkezi görevlisine vermekle yükümlüdür.
+
+(3) İhbar sahibine ait cihaz ve kimlik bilgilerinin ilgili haberleşme
+sağlayıcı tarafından kendi kayıtlarında yer alan bilgiler çerçevesinde
+doğrulanmasını müteakip, cihaza ait IMEI numarası Kurum tarafından
+siyah listeye alınır.
+
+(4) İhbar edilmiş ve elektronik haberleşme bağlantısı kesilmiş olan
+
+[SAYFA 10]
+Mahkeme 20.
+
+Emri veya
+Polis Genel
+Müdürlüğü
+Talepleri
+
+Geçici Madde 1.
+
+Bu Tüzüğün
+Yürürlülüğe Girdiği
+Tarihten Önceki
+Döneme İlişkin
+Cihazlar
+
+1592
+
+cihazın bulunması halinde kullanıcı, cihazın elektronik haberleşme
+bağlantısını açtırmak üzere telefon yoluyla BIM’e başvurur.
+
+(5) BİM, açılma başvurusunu Kurumda yer alan bilgiler çerçevesinde
+doğrular ve cihaza ilişkin ihbar iptal edilir.
+
+(1)Bir cihazın elektronik haberleşme bağlantısının açılmasına veya
+kesilmesine ilişkinMahkeme emri veya Polis Genel Müdürlüğü
+tarafından talepte bulunulması halinde, cihaza ait JMEI numarası siyah
+listeye alınır veya siyah listeden çıkarılır.
+
+(2)Kurum, şüpheliye isnat edilen suça ilfşkin bilgi elde ettiğinde Polis
+Genel Müdürliğüne bildirir.
+
+YEDİNCİ KISIM
+Geçici ve Son Kurallar
+
+(1) Haberleşme Sağlayıcılar tarafından gönderilecek bilgiler:
+Haberleşme Sağlayıcılar bu Tüzüğün yürürlüğe girdiği tarihten ve
+MCKS'nin devreye alınmasından itibaren en geç beş gün içinde ve
+ayrıca Kurumun talep ettiği tarihlerde sistemlerine kayıtlı tüm
+abonelere ait MSISDN veIMEI numaralarından oluşan listeyi Kuruma
+gönderirler.
+
+(Dİthalatçılar tarafından gönderilecek bilgiler:
+
+(A) Bu Tüzüğün yürürlüğe girdiği tarihten ve MCKS'nin devreye
+alınmasından itibaren en geç beş ay içerisinde ithalatçılar yurt dışından
+ithal ettikleri ve mağazalarında bulunan ve/veya Kurum kayıtlarında
+bulunmayan cihazlara ait Marka,Model veIMEI gibi bilgileri Kuruma
+iletirler.
+
+(B) Kurum, ithalatçılar tarafından gönderilen IMEI numaralarının
+sistemde olup olmadığına dair tüm kontrollerden geçen IMEI
+numaralarını beyaz listeye alır.
+
+(3) Kullanıcılar tarafından yapılacak kayıt işlemi:
+
+(A) Bu Tüzüğün yürürlüğe girdiği tarihtenve MCKS’nin devreye
+alınmasından itibaren en geç beş ay içerisinde elektronik kimlik
+bilgisini haiz cihaz kullanıcıları,yukarıdaki 1'nci maddede belirtilen
+cihazları hariç olmak üzere, kimlik belgeleri ve cihazları ile birlikte
+başvuru mercilerine başvurarak ellerindeki cihazlarını kayıt ettirirler.
+(B)Bu Tüzüğün yürürlüğe girdiği tarihten ve MCKS'nin devreye
+alınmasından itibaren beş ayınsonunda yukarıdaki Geçici (1)'inci
+ve(2)’ncimaddeleri ile (3)’tinciti maddenin (A) fikrası doğrultusunda
+oluşturulan ve Kurum kayıtlarında yer almayan cihazlar bir daha
+kullanıma alınmamaküzere, elektronik haberleşme şebekesi bağlantıları
+kesilmek suretiyle devre dışı bırakılırlar.
+
+(C) Yukarıdaki(3)'üncü fıkrada belirtilen başvuru süresinden itibaren
+üç ay içinde yurtdışında bulunmaları, tedavi görmeleri, cezaevinde
+bulunmaları gibi mücbir sebeplerle kayıtlarını yaptiramanus
+bulunanlar, durumlarını belgelendirerek, Kurum'a doğrudan veya posta
+yoluyla başvuru yapmak suretiyle Kurum tarafından belirlenecek kayıt
+
+[SAYFA 11]
+Geçici Madde 2.
+
+Mahkeme
+
+veya Polis
+
+Genel Müdürlüğü
+Kararı ile
+
+Siyah Listeye
+Alınan Cihazlar
+
+Geçici Madde 3.
+
+Kayıt İşlemlerinin
+Başlatılması
+
+Usul ve Esaslar 21.
+
+Yürütme 22.
+Yetkisi
+
+Yürürlüğe 23.
+Giriş
+
+1593
+
+ücreti karsiliZimda cihazlarının beyaz listeye kaydedilmesini
+
+sağlayabilirler.
+
+(4) Kurum, yukarıdaki (1)’inci ve (3)'üncü maddeler uyarınca sisteme
+kayıt edilen ;
+
+(A) Değiştirilmemiş veya kopyalanmamış cihazlarıbeyaz listeye
+alır.
+
+(B) Elektronik kimlik bilgisi değiştirilmiş veya kopyalanmış olarak
+tespit edilen cihazlar Kurum tarafından eşleştirilmiş beyaz
+listeye alınırlar.
+
+(C) Haberleşme o sağlayıcılar,bu madde uyannca oluşturulan
+listelerdeki kullanıcılara, kullanılmakta olunan telefona ait
+IMEI numarasının kayıt edildiğine dair ilgili bilgilendirme
+
+mesajını gönderirler.
+
+Geçici 1'inci Maddede belirlenen başvuru süresi dahilinde;
+
+(1) Mahkemeden veya Polis Genel Müdürlüğünden gelen yazılı
+kararlarla siyah listeye alınan cihazlar, bu maddenin (1)’inci , (2)’nci
+ve (3Y'ncü fıkralarındaki koşullardan yararlanamazlar.
+
+(2) İlgili Kurum ve kuruluşların yasal takip istem ve kararları ile siyah
+listede yer alan elektronik kimlik bilgilerinin çakışması hallerinde,
+haberleşme sağlayıcı siyah listedeki IMEI numarasına sahip cihazın
+haberleşme şebekesinden bağlantısını kesmeyip yasal takibinin
+sonlanmasını müteakip cihazın haberleşme bağlantısı kesilir.
+
+Kurum,IMEI numaralarının MCKS sistemine kayıt işlemlerini bu
+Tüzüğün yürürlüğe girmesi ve MCKS sisteminin devreye alınmasını
+takiben başlatır. Ancak, haberleşme sağlayıcılar kayıt işlemlerinin
+başlatılmasını beklemeksizin Yasanın 88'inci maddesi uyarınca,
+MCKT sistemlerini Kurumdaki MCKS ile birlikte uyumlu olarak
+çalışır hale getirmek, bununla ilgili teknik alt yapı ve sisteminin
+güvenliği ve güvenilirliğini sağlamak ve aksamaksızın işletmekle
+yükümlüdürler.
+
+Kurum, Bu Tüzük kapsamındaki listelerin oluşumuna, listeye alınma
+veya çıkarılmasına, ilgili listelerdeki kullahıcıların bilgilendirilmesine,
+cihazin bağlantısının kapatılmasına, toplu ve/veya bireysel ithalata,
+tamir bakım ve onarım işlemlerine, yurt içinde üretilen cihaz
+kayıtlarına, kayıt dışı cihazların kayıt edilmesine, elektronik kimlik
+bilgisi değiştirilen cihazlara, bilgi güvenliğinin sağlanması amacıyla
+alacağı tedbirlere, bilgi ve ihbar çağrı merkezine ve bu Tüzükte geçen
+diğer konulara ilişkin Yönetmelik veya Tebliğler yayımlayabilir.
+
+Bu Tüzük, elektronik haberleşmeden sorumlu Bakanlık tarafından
+yürütülür.
+
+Bu Tüzük Resmi Gazetede yayımlandığı tarihteyürürlüğe girer.
