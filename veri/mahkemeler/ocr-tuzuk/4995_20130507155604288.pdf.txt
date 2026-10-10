@@ -1,0 +1,238 @@
+[SAYFA 1]
+Sayı: 592
+
+1385
+
+TELEKOMÜNİKASYON SERVİSİ YASASI
+(Fasıl 302, 20/1960, 34/1962 ve 25/1963 Sayılı Yasalar)
+4'üncü Madde altında Yapılan Tüzük
+
+Kuzey Kıbrıs türk Cumhuriyeti Bakanlar Kurulu, Fasıl 302 sayılı Telekomünikasyon Servisi Yasası'nın
+43'üncü maddesinini verdiği yetkiyi kullanarak aşağıdaki Tüzüğü yapar:
+
+Kısa İsim
+
+R.G21
+31.01.2008
+EKM
+A.E 104
+
+R.G 58
+01.04.2008
+EK MI
+A.E 247
+
+R.G 133
+17.07.2008
+EKM
+A.E 561
+
+Esas Tüzüğe
+Ek’li Cetvel
+Kısım [Pnin
+Değiştirilme-
+si
+
+1. Bu Tüzük, “Telekomünikasyon Hizmetleri Ücretleri ve Uygulama (Değişiklik) Tüzüğü
+olarak isimlendirilir ve aşağıda “Esas Tüzük” olarak anılan Telekomünikasyon Hizmetleri
+Ücretleri ve Uygulama Tüzüğü ile birlikte okunur.
+
+2. Esas Tüzüğe ek’li Cetvel'de Kısım II “Tesis,Kira ve Maktu Ücretler” Bölümü'nün 9'inci
+maddesi kaldırılmak ve yerine aşağıdaki yeni 5'inci madde eklenmek O suretiyle
+değiştirilir:
+
+“3- ADSL ve G.SHDSL Tarifeleri :
+
+50.00
+5.1 ADSL intemet erişimi YTL 128Kb/s 15.00 YTL/Ay
+
+256Kb/s Oo 20.00 YTL/Ay
+
+Si2kbis 25.00 YTL/Ay
+
+2 1024Khb/s 30.00 YTL/Ay
+
+50.00
+5.2- G.SHDSL internet erişimi YTL 50.00 YTL/Ay
+
+[SAYFA 2]
+1386
+
+5.3- G.SHDSL noktadan noktaya erişim ücretleri:
+
+Bölgeler
+Lokal Bölge İçi arası
+Devre Hızı Tesis Kira Kira Kira
+Ücreti Ücreti Ücreti Ücreti
+128-256 kbit/sn YIL YTLUay YTU/ay Yay
+(256 kbit/sn dahil)
+150.00 64.00 136.00 272.00
+256-512 kbit/sn
+(512 kbit/sn dahil)
+150.00 88.00 187.00 374.00
+§12-1024 kbit/sn
+(1024 kbit/sn dahil)
+150.00 120.00 255.00 510.00
+1024-2048 kbit/sn
+(2048 kbit/sn dahil
+150.00 161.00 340.00 680.00
+5.4- ADSL noktadan noktaya erişim ücretleri:
+Bölgeler
+Lokal Bölge İçi arası
+Tesis Kira Kira Kira
+Devre Hizt Ücreti Ücreti Ücreti Ücreti
+YTL YTU/ay YT ay YTL lay
+128/32 50.00 34.00 74.00 148.09
+256/64 50.00 42.00 90.00 180.00
+512/128 50.00 54.00 116.00 232.00
+1024/256 50.00 70.00 150.00 300.00
+2048/512 50.00 90.00 192.00 384.00
+
+5.5- ADSL sisteminin mesai saatleri dışında bağlantılarının sağlanıp monitör edilebilmesi amacı ile
+Bayındırlık ve Ulaştırma Bakanlığının onayı ile en çok beş Telekomünikasyon Dairesi personeline
+ücretsiz olarak (tamamen servis amaçlı ADSL bağlantısı verilebilir.
+
+5.6- Abonelerin İnternet Servis Sağlayıcılarına, ADSL kullanımı ile ilgili ödeyeceği ücretler için
+
+taban fiyatları:
+
+Devre Hızı
+128 Kbis
+256 Kb/s
+512 Kb/s
+1024 Kb/s
+2048 Kb/s
+4096 Kb/s
+
+Ucret
+6 YIL
+13.50 YTL
+26.8 YTL
+52.5 YTL
+105 YIL
+210 YTL
+
+[SAYFA 3]
+Esas Tüzüğe
+EK'li Cetvel
+Kısım IP tin
+Değiştirilme-
+si
+
+Yürürlüğe
+Giriş
+
+1387
+
+3. Esas Tüzüğe ek'li Cetvel'de Kısım Hi “Telefon Konuşma
+maddesi kaldırılmak ve yerine aşağıdaki yeni 1’inci
+
+değiştirilir:
+
+“4) KKTC Hudutlan içerisinde yapılan
+
+otomatik görüşmeler:
+kontér atış periyodu (sn)
+Normal
+1.1 Ada içi sabit konuşmalar 70
+1.2a- PSTN'den Vodafone'a 12
+1.2 b- PSTN'den KMT'ye 12
+1.3- Özel Servis numaralarına erişim ücreti
+a= 444.0006 60
+t- 900 XXX 1,5
+C- 900 SXXXXAX 1
+d- 900 500000¢ 2
+e- 900 OO 0.6
+f- 800'IG hatlar
+
+g- 112, 155, 177, 199, 161, 153, 157,
+124, 156, 158, 144, 151, 197, 111
+
+h- 185, 186, 116,
+166,184,188,196,163,
+
+178, 150,123 150
+1-192 10
+i- 133 12
+j- 11811, 11832,
+
+11842,11855 2
+k- 1133, 1136,
+
+1144,1100,1130 60
+b 179 150
+Me 4XX (internet erişim
+
+servisi) 600
+
+4, Bu Tüzük, 01.08.2008 tarihinden itibaren yürürlüğe girer.
+
+İndirimli
+
+150
+
+10
+15
+
+60
+150
+
+600
+
+Ücretleri” Bölümü'nün Vinci
+madde eklenmek (suretiyle
+
+Konuşma Ücretleri
+
+Normal
+0.0257 YTL/dk
+20 Ykrş/dk
+
+20 Ykrş/dk
+
+0.03 YTUdk
+1.20 YTUdk
+1.80 YTUdk
+0.90 YTL/dk
+3.00 YTUdk
+Ücretsiz
+
+Ücretsiz
+
+0.0257 YTL/dk
+
+0.18 YTLidk
+0.15 YTL/dk
+
+0.90 YTUdk
+
+0.03 YTL/dk
+0.0257 YTU/dk
+
+0.003 YTL/dk
+
+İndirimli
+0.0257 YTLidk
+20 Yrş/dk
+20 Ykrs/dk
+
+0.03 YTL/dk
+1.20 YTL/dk
+1.80 YTU/dk
+0.90 YTUdk
+3.00 YTL/dk
+Ücretsiz.
+
+Ücretsiz
+
+0.0257YTLdl
+
+0.18 YTL/dk
+0.12 YTLdk
+
+0.90 YTL/dk
+
+0.03 YTLidk
+0.0257YTL/dk
+
+0.003YTL/dk”

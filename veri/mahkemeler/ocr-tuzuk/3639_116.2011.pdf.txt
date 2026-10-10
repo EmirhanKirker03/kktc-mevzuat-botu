@@ -1,0 +1,944 @@
+[SAYFA 1]
+Sayı: 116
+
+Kısa İsim
+
+Tefsir
+
+39/1997
+34/2003
+36/2010
+
+226
+
+KAMU VE ÖZEL RADYO VE TELEVİZYONLARIN
+KURULUŞ VE YAYINLARI YASASI
+(39/1997, 34/2003 VE 30/2010 Sayılı Yasalar)
+14 (5) Madde Altında Yapılan Tüzük
+
+Kuzey Kıbrıs Türk Cumhuriyeti Bakanlar Kurulu Kamu ve Özel Radyo ve
+
+Televizyonların Kuruluş ve Yayınları Yasası'nın 14'üncü Maddesi'nin (5)'indi
+fıkrasının kendisine verdiği yetkiye dayanarak aşağıdaki Tüzüğü yapar:
+
+Bu Tüzük, “Yayın Yüksek Kurulu Lisans ve Yayın İzni Tüzüğü” olarak
+isimlendirilir.
+
+BİRİNCİ KISIM
+Genel Kurallar
+
+Bu Tüzükte metin başka türlü gerektirmedikçe;
+
+“AM”, Genlik Modülasyonu (Amplitude Modulation), bir elektiriksel işaretin
+veya elektromagnetik dalganın frekansının gönderilmek istenen işaretin
+genliği ile değişmesi durumunu anlatır.
+
+“Başkan”, Yayın Yüksek Kurulu Başkanı'nı anlatır.
+
+“Bölgesel Yayın”, Kuzey Kıbrıs Türk Cumhuriyetini dikey olarak ikiye ayıran
+hayali çizginin doğu ve batısındaki iki yayın bölgesine yapılan yayınları
+anlatır.
+
+“DVB-S”, Uydudan Doğrudan Yayın (Digital Video Broadcasting Satellite),
+uydudan yapılan ve bireyler tarafından uygun anten ve alıcılar kullanılarak
+doğrudan alınabilen radyo ve televizyon yayınlarını anlatır.
+
+“DVB-T”, (Digital Broadcasting Teresstrial) sayısal teknik kullanılarak
+yapılan karasal TV yayınını anlatır. i
+
+“FM”, Frekans Modülasyonu (Freguency Modulation), bir elektriksel
+işaretin veya elektromagnetik dalganın frekansının, gönderilmek istenen
+işaretin genliği ile değişmesi durumunu anlatır.
+
+“ITU”, oOUluslararası (o Telekomünikasyon (o Birliği'ni ( (international
+Telecommunnication Union) anlatır.
+
+“İstasyon”, (Radyo, Televizyon, Verici, Aktarıcı, Röle, Radyolink ve
+benzerleri) radyo veya televizyon yayını yapmak amacıyla program
+üretmek, nakletmek, yayınlamak veya dağıtmak için gerekli sistem, cihaz ve
+donanım topluluğunun bulunduğu yeri anlatır. ;
+
+“Kablolu Kablosuz Radyo ve/veya TV Yayınları”, 121 ile 12.5 GHZ.
+frekans aralığında yayın yapan ve gerek yerli gerekse yabancı yayınlar ile
+kendi üreteceği yayınları kablosuz olarak dağıtan sistemi anlatır.
+
+“Kurul” Kamu ve Özel Radyo ve Televizyonların Kuruluş ve Yayınları
+Yasası'nın 6'ncı maddesi ile kurulan Yayın Yüksek Kurulu'nu anlatır.
+
+“LF”, Uzun Dalga (Low Frequencies), 30 kHz- 300 kHz arası frekans
+
+[SAYFA 2]
+39/1997
+34/2003
+36/2010
+
+227
+
+bölgesini anlatır.
+“ME”, Orta Dalga (Medium Frequencies) 300 kHz — 3 Mhz arası frekans
+
+bölgesini anlatır.
+
+“MMDS”, Mikrodalga Çoklu Dağrtım Sistemi (Multipoint Multichannel
+Distribution System), birden fazla noktada radyo veya televizyon
+yayınlarının alınabilmesini sağlayan bir mikrodalga iletim ve dağıtım
+sistemini anlatır.
+
+“RDS”, (Radio Data System), radyo sinyalleri üzerinden sayısal (digital) bilgi
+aktarma sistemini anlatır.
+
+“Set-Üstü Cihaz”, çoklayıcı (Multipleks) edilmiş veya edilmemiş yayınların .
+şifreli veya şifresiz, sayısal veya analog olmaları durumunda anolog
+televizyon alıcıları tarafından alınmasını, izlenmesini sağlayan dönüştürücü
+cihazı anlatır.
+
+"T-DAB”, (Terrestrial Digital Audio Broadcasting) sayısal teknik kullanılarak
+yapılan karasal TV yayınını anlatır. .
+“Teleteks”, teleteks şebekesi üzerinden yurt içi ve yurt dışındaki teleks ve
+teleteks abonelerine önceden hazırlanan mesajı gönderme işlemini anlatır.
+“Tematik Yayın”, haber, belgesel, spor, müzik ve benzeri türlerde olmak
+üzere yalnızca bir tek konuda yapılan yayın türü anlatır. ,
+
+*UHE”, (Ultra High Frequencies), 300 MHz-1,000 MHz arası frekans
+bölgesini anlatır.
+
+“Ulusal Yayın”, doğu ve batı yayın bölgelerinin her ikisinde de aynı anda
+yapılan ve tüm Kuzey Kıbrıs Türk Cümhuriyeti alanına yayılan karasal radyo
+veya televizyon yayınlarını anlatır.
+
+*“VHF”, Çok Kısa Dalga (Very High Frepuencies), 30 MHz-300 MHZ arası
+frekans bölgesini anlatır.
+
+“Yasa”, Kamu ve Özel Radyo ve Televizyonların Kuruluş ve Yayınları
+Yasası'nı anlatır.
+
+“Yayın Hizmeti”, elektromagnetik dalgalar, uydu sistemleri, kablolar veya
+IP vasıtasıyla yayınlanan işaret veya bilgilerin geniş kitleler tarafından
+alınabilmesi amaçlanan bir haberleşme hizmetini anlatır.
+
+“Yayın İstasyonu”, bir yayın hizmetini yürütmek amacıyla gereken bir veya
+daha çok sayıda anten, verici, alıcı ve diğer destek teçhizatından oluşan
+düzeneğin çalıştırıldığı yeri anlatır.
+
+"Yayın Kanalı”, radyo veya televizyon yayını yapmak üzere bir verici veya
+aktaricinin işgal ettiği frekans alanını anlatır.
+
+“Yayın Şebekesi”, farklı noktalarda bulunan ve aynı programı yayınlayan
+birden fazla verici ve aktarıcıdan oluşan bir yayın İstasyonları topluluğunu
+
+anlatır.
+“Yayın Tipi”, Kuruldan alınabilecek yayın lisans modellerini veya çeşitlerini
+
+anlatır.
+
+“Yayıncı”, kamu tarafından izlenmesi için radyo ve televizyon programı
+hizmetleri düzenleyen ve ileten veya değişiklik yapılmadan ve tam olarak
+bir üçüncü tarafa iletilmesini sağlayan gerçek veya tüzel kişileri anlatır.
+“Yeniden İletim”, yetkili yayın kuruluşu tarafından, izlenmesi amacıyla her
+türlü teknik araç ile yayınlanan radyo ve televizyon program hizmetlerinin,
+değişiklik yapılmaksızın bütününün veya bir bölümünün bir başka yayın
+
+[SAYFA 3]
+Amaç
+
+Kapsam ..
+
+Yayın
+Tipleri
+
+5.
+
+228
+
+kuruluşu tarafından alınması ve aynı anda veya daha sonra iletilmesini
+
+anlatır.
+
+Bu Tüzüğün amacı, elektromagnetik dalgalar, kablolar, optik kablolar, fiber
+uydu sinyalleri ve benzeri yolla radyo ve televizyon yayını yapmak için
+
+gereken
+
+her türlü iznin verilmesi ve düzenlenmesiyle ilgili kuralları
+
+belirlemektir.
+
+Bu Tüzük,
+
+()) Esasitibariyle yurt içine yönelik olmak üzere;
+
+A)
+
+(6)
+
+(E)
+
+(F)
+
+Genlik Modülasyonlu (AM), Uzun Dalga (LF) ve Orta Dalga (MF)
+radyo yayınlarıni,
+
+Frekans Modülasyonlu (FM), Çok Kısa Dalga (VHF) radyo
+yayınlarını,
+
+. VHF ve UHF bantlarındaki televizyon yayınlarını,
+
+Uydulardan doğrudan yapılan radyo ve televizyon yayınlarını,
+
+Uydular, MMDS, kablo sistemleri ve bunların birleşiminden ©
+oluşan sistemler aracılığıyla dağıtımı yapılan radyo ve televizyon
+yayınlarını
+
+Şifreli olarak (encrypted) yapılan ve şifre çözücü (decoder)
+cihazlarla izlenebilen yayınları,
+
+İnternet Protokolü (IP). üzerinden yapılan ve set üstü alıcı
+cihazlarla izlenilen yayınları,
+
+kapsar.
+
+2) Bu
+
+Tüzükte yer alan kurallar yurt dışına yönelik radyo ve televizyon
+
+yayınlarına da uygulanır.
+
+İKİNCİ KISIM _
+
+Lisans Verilmesi ile İlgili Kurallar
+
+(2)
+
+Kurul, Yasaya ve bu Tüzüğe uygun olmak koşulu ile aşağıda
+tanımlanan yayın tiplerinin kurulabilmesi için lisans verebilir.
+
+(A) Yayın Tipi RI: Ulusal bir radyo yayın şebekesi icin (LF, MF,
+VHF), .
+(B) Yayın Tipi R2: Bölgesel bir radyo yayın şebekesi veya -
+istasyonu için (LF, MF, VHF),
+
+[SAYFA 4]
+(D)
+
+(E)
+
+(F)
+
+(0)
+
+0
+
+O)
+
+229
+
+Yayın Tipi R3: Yerel bir radyo istasyonu için (MF,VHF),
+
+Yayın Tipi UR: Sadece uydudan yapılan ve 90 cm veya
+daha küçük çaplı parabolik antenlerle bireysel olarak
+alınabilen bir radyo yayını için,
+
+Yayın Tipi TE: Ulusal bir televizyon yayın şebekesi için,
+
+Yayın Tipi T2: Bölgesel bir televizyon yayın şebekesi veya
+istasyonu için,
+
+Yayın Tipi T3: Yerel bir televizyon istasyonu için,
+
+Yayın.Tipi UT: Sadece uydudan yapılan ve 90 cm veya -
+daha küçük çaplı parabolik antenlerle bireysel olarak
+alınabilen bir televizyon yayını DVB-S için,
+
+Kablolu dağıtım sistemleri için abone kapasitesine göre
+yayın türleri:
+
+(a) Yayın Tipi KI: 3000'den fazla abone için,
+
+(b) Yayın Tipi K2: 1001 ile 3000 arası abone icin,
+
+(9 Yayın Tipi K3:301 ile 1000 arası abone için,
+
+(9 Yayın Tipi K4: 101 ile 300 arası abone için,
+
+(d) Yayın Tipi K5: 100 (dahil) abone sayısına kadar.
+MMDS5 sistemleri için abone kapasitesine göre yayın
+türleri:
+
+(a) Yayın Tipi M1:3000'den fazla abone için,
+
+(b) Yayın Tipi M2: 1001 ile 3000 arası abone icin,
+
+(c) Yayın Tipi M3:301 ile 1000 arası abone için,
+
+(9 Yayın Tipi M4 :101 ile 300 arası abone için,
+
+(d) Yayın Tipi M5: 100 (dahil) abone sayısına kadar.
+
+Yayın Tipi YİRL:Yeniden iletim yapmak amacıyla kurulan .
+Ulusal bir radyo yayın şebekesi için (LF, MF, VHF),
+
+Yayın Tipi YIR2: Yeniden iletim yapmak amacıyla kurulan
+Bölgesel bir radyo yayın şebekesi veya istasyonu için (LE,
+
+[SAYFA 5]
+Lisans
+Başvuru
+Şekli
+
+(2)
+
+(3)
+
+(1)
+
+(2)
+
+230
+
+MF, VHF),
+
+(Kk) Yayın Tipi YIR3: Yeniden iletim yapmak amacıyla kurulan
+Yerel bir radyo istasyonu için (MF, VHF), ;
+
+() Yayın Tipi YiT1:Yenider iletim yapmak amacıyla kurulan
+Ulusal bir televizyon yayın şebekesi için,
+
+(M) — Yayın Tipi YİTZ: Yeniden iletim yapmak amacıyla kurulan
+Bölgesel bir televizyon yayın şebekesi veya istasyonu için.
+
+(N) — Yayın Tipi YİT3: Yeniden iletim yapmak amacıyla kurulan
+Yerel bir televizyon istasyonu için,
+
+(O) — Yayın Tipi IPTV: İnternet protokolü kullanılarak yapılan tek
+bir televizyon ve tek bir radyo yayını için,
+
+(Ö) © Yayın Tipi TRY: Tematik içeriğe sahip televizyon yayını için,
+
+(P) Yayın Tipi KKY: 12.1-12.5 GHZ. frekans aralığını kullanarak
+yayın yapan kablolu kablosuz yayın/dağıtımı şebekesi için,
+
+(R) — Yayın Tipi DVB-T: Sayısal teknik kullanılarak yapılan karasal,
+televizyon yayını için, :
+
+(S) Yayın Tipi T-DAB: Sayısal teknik kullanılarak yapılan karasal
+televizyon yayını için,
+
+Lisans ve Yayın İzninin süresi, lisansın verildiği tarihten başlayarak
+en çok beş yıldır. Bu süre lisans verilmesi aşamasında Kurulca
+belirlenir ve Lisans Belgesi'nde gösterilir.
+
+Radyo ve televizyon yayınında RDS, teletekst veya başka ek yayın
+hizmetleri sunulması Kurul'un iznine tabidir.
+
+Yayın hizmeti vermek isteyen ve Yasa'da ve bu Tüzük'te belirtilen
+özelliklere sahip olan kuruluşlar, yayın şebekesi veya istasyonu
+kurmak ve işletmek için bu Tüzük'te belirtilen şekilde Kurul'a yazılı
+olarak başvurur.
+
+Birden fazla yayın tipine başvurulması durumunda, bu başvurular
+ayrı ayrı yapılır ve’ Kurulca birbirinden bağımsız olarak
+değerlendirilir.
+
+[SAYFA 6]
+231
+
+Başvuruda - 7. o Başvuruda bulunacaklar aşağıdaki belge ve bilgileri Kurula sunarlar.
+
+Sunulacak
+Belgeler (1) Bu Tüzüğe bağlı Ek-I'de düzenlenen Lisans Başvuru Formunu,
+
+2) Lisans ücretinin yatırılmış olduğunu belgeleyen banka dekontunu,
+
+(3) Yayın kuruluşunun Şirketler Mukayyitliği'nden aldığı tescil ve onay
+belgelerini, şirket anasözleşme ve tüzüğünü, direktörler, hissedarlar
+ve adres onay belgesi ile yayında kullanılacak kısa isim ve logoyu,
+
+(4) Hissedarların Yasaya aykırı akrabalık ilişkileri olmadığına dair
+Direktörler Kurulu beyanını,
+
+(5) Yasanın 36'ıncı maddesine aykırı herhangi bir ortaklık ilişkisinin
+olmadığına ilişkin Direktörler Kurulu beyanını,
+
+(6) Yasa'nın 37'inci maddesine uygun olarak planlanan yayın türü, yayın
+süresi ve içeriği hakkında detaylı bilgiyi,
+
+0) MMDS veya Kablolu Dağıtım Sistemi başvuruları için, yukarıdaki
+fıkralarda o belirtilenlere ek olarak aşağıdaki belge ve bilgiler de ~
+sunulur: ”
+
+(A) — Dağıtımı yapılacak program kanalı sayısı ve her bir program
+kanalının içeriği koriusunda ayrıntılı bilgi,
+
+(B) Dağıtımı yapılacak programların kaynağı olan kuruluşlardan
+alınmış, söz konusu programların kısmen veya tamamen
+kullanılmasına veya dağıtımına izin verildiğini kanıtlayan
+belgeler,
+
+(C) Sistemin aboneleri için kayıt, izleme, ücret tahsili ve benzeri -
+, tüm işlemlerle ilgili ayrıntılı bilgiler.
+
+(8) Şifreli yayın sistemi talep edilmesi durumunda planlanan abone
+kayıt, izleme ve ücretlendirme yöntemleri hakkında ayrıntılı bilgileri,
+
+(9) (A). DaGitimi- yapılacak ve/veya üretilerek yayınlanacak kanal
+sayısı ve her bir kanalının içeriği konusunda bilgiyi,
+
+(B) Dağıtımı yapılacak ve/veya üretilerek yayınlanacak kanalların
+kaynağı o olan kuruluşlardan alınmış söz konusu
+programların İasmen veya tamamen kullanılmasına veya
+dağıtımına izin verildiğini kanıtlayan belgeleri,
+
+[SAYFA 7]
+(10)
+
+(11)
+
+(12)
+
+(13)
+
+(14)
+
+232
+(O O Sistemin aboneleri için gerçekleştirilecek ücretlendirme ve
+benzeri tüm işlemlerle ilgili ayrıntılı bilgileri,
+Yayının yapılacağı binaya ait inşaat planını,
+
+Yayında kullanılacak verici ve radyo link cihazları ile stüdyo içi teknik
+teçhizat ve anten sistemlerini, i
+
+MMDS, Kablolu Yayın, IPTV ve benzeri yayınlar için gerekli teknik
+altyapı ve dağıtım sisteminin bilgilerini,
+
+(A) MMDS veya Kablo Dağıtım Sistemi için, yukardaki (12)‘nci
+fıkrada belirtilenlere ek olarak aşağıdaki bilgiler de sunulur:
+
+(a) Planlanan en çok abone sayısı,
+(b) Yayınlanacak veya dağıtımı yapılacak program sayısı,
+(0) Sistemin tam blok şeması,
+
+(¢) Ana istasyon (head-end) teçhizatı ve düzeninin tam
+tanıtımı,
+
+(d) Dağıtım sisteminin tam tanıtımı,
+
+(B) Kablolu kablosuz radyo ve/veya TV yayınları için, yukardaki
+(12)'nci fıkrada belirtenlere ek olarak aşağıdaki bilgiler de
+sunulur:
+
+(a) Planlanan en çok abone sayısı,
+(b) Yayınlanacak veya dağıtımı yapılacak program sayısı,
+
+(c) Sistemin tam blok şeması,
+
+(9 Ana istasyon (head-end) teçhizatı ve düzeninin tam
+tanıtımı,
+
+(d) Dağıtım sisteminin tam tanıtımı,
+(e) Abone erişim ve hizmet sisteminin tanıtımı,
+(C) Kurul tarafindan istenebilecek diger bilgiler,
+
+IPTV Platform başvurusu için Yayın Yüksek Kurulu IPTV Lisans ve
+Yayın İzni Tüzüğünde belirtilen bilgiler ve belgeler sunulur.
+
+[SAYFA 8]
+Tematik
+Yayınların »
+Yayınlanması
+Esasları
+
+Değerlendirme
+ve Tahsis
+
+Genel
+Teknik
+Kurallar
+
+8. (1)
+
+(2)
+(3)
+(4)
+9. (1)
+(2)
+(3)
+(4)
+
+10:~ (1)
+
+(2)
+
+233
+
+Kuruldan tematik yayın lisansı alan yayın kuruluşu izin aldığı yayın
+teması dışında sadece reklam ve yarışma türü yayın yapabilir.
+
+Tema değişikliği yapmak isteyen yayın kuruluşu bu değişikliği
+Kurulun onayı ile yapabilir.
+
+Tematik yayın lisansı için başvuran kuruluş, bir tek tema üzerine
+lisans alabilir.
+
+Tematik. yayınlarda uygulanacak reklamlar, genel reklam ilkelerine
+
+. tabidir.
+
+Kurul başvurusunu herhangi bir yayın tipi için bu Tüzüğe uygun
+olarak sunan kuruluşun belgelerini incelemeye alır. Başvurunun
+uygun olması durumunda karasal yayınlar için, yayın frekansına
+uygunluk denetimi yapılır. Uygun bulunması durumunda kanal
+
+- tahsisi yapılır ve lisans verilir.
+
+Karasal yayınlar dışında kalan yayın tiplerine yapılan başvurularda
+yayın frekans planlaması dikkate alınmaz.
+
+Yayın frekans planındaki bir frekans ve/veya kanal için usulüne
+uygun birden çok başvuru olması durumunda, Kurul ul başvuru sırasını ,
+gözeterek başvuruyu sonuçlandırır.
+
+Yayıncı, lisans aldığı tarihi izleyen en geç altı ay içinde test yayına
+başlamış ve bir yıl içerisinde de lisansında belirtilen yayın alanına
+ulaşmış olmak ve yayın izni için başvuruda bulunmak zorundadır.
+Aksi taktirde lisansı Kurul tarafından iptal edilerek, o güne kadar
+tahsil edilmiş olan lisans ücretleri Kurula gelir kaydedilir. Buna
+rağmen yayın yapmaya devam eden kuruluş hakkında Yasa'nın
+44'üncü maddesinin (4) “üncü fıkrası uygulanır.
+
+Yayıncının, ithal edeceği cihazların ülkeye girişi Kurulun yazılı onayı
+ile gerçekleştirilebilir. Bu konuda Kurulun talep edebileceği belgeleri
+yayıncı sunmak zorundadır.
+
+ÜÇÜNCÜ KISIM '
+
+Teknik Kurallar
+Yayınlar, lisanslarda belirtilen frekanslarda ve ulusal yayın planında
+tahsis edilen kanal için öngörülen koşullara uygun olarak yapılır.
+
+Yayın teçhizatı, daha önce çalışmasına izin verilmiş ve tescil edilmiş
+bulunan diğer haberleşme ve/veya yayın sistemleri üzerinde
+enterferans yaratmamalidir. Yayıncı, oluşabilecek herhengi bir
+enterferansın giderilmesi için Kurulla işbirliği yapmak ve bu
+kuruluşların gerekli gördüğü ek düzenlemelere uymak zorundadır.
+
+[SAYFA 9]
+Yayın Sistemleri = 11.
+
+Genlik 12.
+
+Modülasyonlu
+Uzun Ve Orta
+Dalga (AM/LF-
+MEF) Vericilerinin
+Teknik Özellikleri
+
+(3)
+
+6)
+
+234
+
+Enterferansın saptanmasında yürürlükteki ulusal standartlar ve
+aşağıda belirtilen ITU Tavsiyeleri kullanılır:
+
+(A) AM (LF ve MF) Radyo yayınları için BS.559 ve BS.560,
+
+(B) FM (VHF) Radyo yayınları için ITU-R BS.641, IS.851 ve
+1S.1009, . ”
+
+O VHF/UHF Televizyon yayınları için ITU-R BT.565, BT.654,
+BT.655 ve 1S.851.
+
+Bu Tüzükte başkaca belirtilmedikçe, kullanılacak yayın teçhizatının
+teknik karakteristikleri, yürürlükteki ulusal standartlara ve özellikle
+aşağıda belirtilenler başta olmak üzere yürürlükte bulunan ilgili ITU
+Tavsiyelerinde ve raporlarında verilen değerlere uygun olmalıdır.
+
+(A) AM/(LF ve MF) Radyo yayınları için ITU-R BS.639, ITU-R
+
+Rapor 458 ve Rapor 1063 (AMDS Radyo Data sistemleri için
+ayrıca ITU-R BS.706 uygulanın).
+
+(B) FM (VHF) Radyo yayınları için ITU-R BS,412, BS,450, BS,642
+ve ITU-R BS.64,3 uygulanır.
+
+(O VHF/UHF Televizyon yayınları için ITU-R BT.266, BT.470 ve
+BT.472.
+
+Anten taşıyıcı yapıların (direk, kule ve benzeri) yükseklik uyarı
+ışıklandırması ICAO standartlarına, ilgili mevzuata ve ilgili
+makamlarca belirlenen kurallara uygun olmalıdır.
+
+Bütün yayın cihazları ile ilgili teknik donanım, kullanılma süreleri
+boyunca ilgili Yasalara, tüzüklere, standartlara, uluslararası ITU Yayın
+Kurallarına (Radio Regulations), ITU Tavsiye ve Raporlarına ve
+belirlenen diğer kurallara uygun olmalıdır. Ayrıca yukarıda belirtilen
+kurallara uygun şekilde işletilir ve bakımı yapılır.
+
+Yayınlarda, bu madde altında çıkarılacak, Yayın Sistemleri Yönetmeliği'nde
+belirtilecek sistemler kullanılmalıdır.
+
+Uzun ve Orta Dalga bandlarından yayın yapan verici cihaz ve istasyonlarıda,
+bu madde altında çıkarılacak, Genlik Modülasyonlu Uzun ve Orta Dalga |
+(AM/LE-MP) Vericilerinin Teknik Özellikleri Yönetmeliği'nde belirtilen teknik”
+
+şartlar aranır.
+
+[SAYFA 10]
+VHE/FM ©
+Vericileri
+
+” ve
+
+Kanal
+Aktarıcılarının
+Teknik
+Özellikleri" ”
+
+VHF-UHF
+‘Televizyon
+
+Verici
+
+ve
+
+Kanal
+Aktarıcılarının
+Teknik Özellikleri
+
+Vericiler
+Ölçü
+Bakım
+Birimi
+
+Radyo
+
+ve
+Televizyon
+Stüdyoları
+
+MMDS
+
+ve
+
+Kablolu
+
+Dağıtım Sistemleri
+
+Yeniden İletim
+17.7.1998
+RG.75
+
+Ek I
+
+AE.379
+
+13.
+
+14.
+
+15.
+
+16.
+
+17.
+
+18.
+
+235
+
+VHF/FM vericilerinde ve kanal aktarıcılarında bulunması. gereken teknik
+özellikler, bu madde altında çıkarılacak: VHF/ FM Vericileri ve Kanal
+Aktarıcılarının Teknik Özellikleri Yönetmeliği ile düzenlenir.
+
+VHF-UHF Televizyon vericileri ve kanal aktarıcılarının teknik özellikleri, bu
+madde altında çıkarılacak VHF-UHF Televizyon Verici ve Kanal
+Aktarıcılarının Teknik Özellikleri Yönetmeliği ile düzenlenir.
+
+Yayın kuruluşları, verici istasyonlarında yukarıdaki maddelere göre
+bulundurulması gereken teknik donanım dışında, yayın sistemleri içinde
+bulunan vericilerin her türlü ölçme, ayar, test ve bakım hizmetlerinin sağlıklı
+bir biçimde yürütülebilmesi için, bünyeleri içinde bir Vericiler Ölçü-Bakım
+Birimi'ne sahip olabilir veya bu hizmeti satın alabilir. Bu birim, bu madde
+altında çıkarılacak Vericiler Ölçü-Bakım Birimi Yönetmeliğinde belirtilecek
+teçhizatı tam ve çalışır durumda hazır bulundurmalıdır.
+
+Radyo ve televizyon stüdyolarında kullanılan teçhizat genel olarak yeni
+teknolojiye, ilgili ulusal ve uluslararası standartlara uygun olmalıdır. Bu
+madde altında çıkarılacak Radyo Stüdyoları Cihaz ve Donanım Yönetmeliği
+ve Televizyon Stüdyoları Cihaz ve Donanım Yönetmeliğinde belirtilen
+cihazlar ve donanım yerine, amaçlanan işlevleri yerine getirmek ve
+teknolojik gelişmeye uygun olmak şartıyla ayrı veya birleşik olarak en az
+bunlara eşdeğer teknik kalitede başka cihaz ve sistemler kullanılabilir.
+
+MMDS ve kablolu dağıtım sistemleri ile bu tür sistemlerde kullanılacak ek
+cihazlarda aranacak asgari koşulların ne olacagı, bu madde altında
+çıkarılacak olan MMDS' ve Kablolu Dağıtım Sistemleri Yönetmeliği ile
+
+düzenlenir.
+
+Yeniden iletim sistemlerinin kuruluş koşulları ile bu sistemlerde aranacak
+genel teknik özellikler Yayın Yüksek Kurulu Yeniden İletim Tüzüğü'nde
+düzenlenen şekilde olur.
+
+[SAYFA 11]
+Güvenlik Kuralları
+
+İçerik .
+Sınıflandırma
+
+Yayın
+İzni
+Başvuru
+Şekli
+
+Lisans
+
+ve
+
+Yayın
+
+İzni Ücretleri
+
+19.
+
+20.
+
+236
+
+Yayın ve dağıtım sistemlerinin tüm teçhizatı, hizmet personeline ve
+abonelerine herhangi bir.nedenle elekirik şoku riski taşımayacak biçimde
+imal edilmiş ve IEE Nizamnamelerine, Kıbrıs Türk Elektrik Kurumu (Kıb-Tek)
+kurallarına ve Kıbrıs Türk Mühendis ve Mimar Odaları Birliği Elektrik
+Mühendisleri Odası tarafından aranan koşullara uygun olmalıdır.
+
+Yayın içeriklerinin izleyici özellikleri ve yaş gruplarına göre sınıflandırılması;
+yayınların bu sınıflandırmalara uygun olarak işaretlendirilmesi için Kurul bu
+madde altında çıkarılacak Yayın Sınıflandırma ve İşaretleme Yönetmeliğini
+hazırlar.
+
+DÖRDÜNCÜ KISIM
+
+Yayın İzni Başvuru Şekli ve Lisans ve Yayın İzni Ücretleri
+
+21.
+
+22.
+
+(1)
+
+(1)
+
+(2)
+
+(3)
+
+Yayın lisansı aldıktan sonra, bu Tüzüğün 9'uncu maddesinin (3Yüncü
+fıkrasındaki . düzenlemeye uygun olarak yayınlarını sürdüren
+kuruluşlar, lisans verilme tarihi esas alınarak en geç sekiz.ay içerisinde
+yayın izni başvurusunda bulunmakla yükümlüdürler. Gerekli
+başvuruda bulunmayan kuruluşlar izinsiz yayın yapmış addedilirler ve
+haklarında Yasa'nın 44'üncü maddesinin (4'üncü fıkrası uygulanır.
+
+: Kurul, yayın izni başvurusunda bulunan yayıncı kuruluşu teknik ve
+
+idari bakımdan denetledikten sonra yayın iznini verir. Denetleme
+işlemi yayın izni başvuru tarihinden itibaren otuz gün içerisinde
+gerçekleştirilir. i
+
+Yayıncıların lisans başvurusu için ödeyecekleri başvuru ücreti Yasa'ya
+ekli Birinci Cetvel'de belirlendiği gibidir ve ilk beş yıllık lisans ücreti
+anlamı taşır.
+
+Yayın izninin alındığı tarihten itibaren her yıl için Yasa'ya ekli Birinci
+Cetvel'de belirlenen yayın izni ücreti ödenir.
+
+12.1-12.5 GHz. frekans aralığı kullanarak yayın yapacak olan, kablolu
+kablosuz radyo ve/veya TV yayınları ve/veya dağıtım şebekeleri, bu
+frekans. bandında yayın. izni ve lisansı alabilmek için Yayın Yüksek
+Kurulu'nun belirleyeceği koşullarla gerçekleştirilecek ihale ile ve bu
+ihalede frekansların beş yıllık kullanımı için kazanan firma ve yıllık
+olarak alacağı frekans kira bedelini kazanan firma ile sistemin
+işletilmesi konusundaki koşulları belirleyen bir protokol yapma
+yetkisine de sahiptir.
+
+IPTV Platform İşletmecilerinin Lisans ve Yayın İzni Ücretleri Yayın
+Yüksek Kurulu IPTV Lisans ve Yayın İzni Tüzüğü'ne göre uygulanır.
+
+[SAYFA 12]
+Yayın
+
+İzni
+Ücretlerinin
+Ödenmesi
+
+Teknik
+Personel
+
+Şifreli
+Yayınlar
+
+237
+
+23. (1) Yayın izni ücretleri her yıl için yılın ilk üç ayında ödenir. İlk yayın izni
+ücreti ödemesi yılın 31 Aralık tarihi esas alınarak tahsil edilir.
+
+(2) Herhangi bir nedenle bir yıl içinde lisansın iptal edilmesi halinde
+lisans ve yayın izni olarak ödenen herhangi bir ücret iade edilmez.
+
+3) Yıl içinde lisansın değişmesi durumunda bir önceki lisansın
+kullanılmayan süresine oranlanan miktar yeni lisans ücretine mahsup
+edilir.
+
+Ancak lisansın süresi kalan süre kadardır.
+
+BEŞİNCİ KISIM
+Çeşitli Kurallar
+
+24. (1) Yayıncı, stüdyolarda ve verici/aktarıcı istasyonlarda bulunan her türlü
+cihazların ve donanımın işletme ve bakım hizmetleri için aşağıdaki
+(2)'nci .fıkrada özellikleri belirtilen teknik personelden yaralanmak
+zorundadır.
+
+Ancak, bu istasyonlarda sorumlu teknik personel tarafından cihaz
+ve sistemlerin bütün ayar ve kontrolleri yapıldıktan sonra, yine teknik
+personelin kontrolu altında olmak kaydıyla, cihaz ve sistemler diğer
+
+* kişiler tarafından da kullanılabilir.
+
+(2) Teknik personel, en az, meslek teknik okulları ve teknik liselerin
+- elektrik, elektronik veya haberleşme bölümü mezunu, temel elektrik,
+elektronik, elektromagnetik dalgalar ve radyo-televizyon yayınlarının
+temel teknik özellikleri konularında teorik ve pratik bilgi sahibi ve
+yayıncının kullandığı cihaz ve sistemlerin işletme, ayar ve. bakımı
+konularında özel bilgi ve deneyim sahibi olmalıdır.
+
+(3) Yayıncıların bünyeleri içinde devamlı bulunduracağı teknik personelin
+asgari osayısı ve nitelikleri lisans  basvurusu (sırasındaki
+değerlendirmeyle belirlenir. Yayıncı, bu asgari sayının dışında
+dışarıdan hizmet kiralamak yoluyla teknik personel desteği
+sağlayabilir.
+
+25. Şifreli o yayınlarda görüntüyle birlikte sesin de normal alıcılarla
+anlaşılamayacak biçimde şifrelenmesi esastır. Görüntü ve sesin şifreli olarak
+yayınlanması, yayın sisteminin kullandığı kanal ve frekans bandı içinde ve dışında
+bu Tüzük'de belirlenen teknik kriterlerde herhangi bir bozulma veya
+
+farklılaşmaya neden olmamalı, eş-kanal veya komşu kanal enterferansını artırıcı
+
+bir etki yaratmamalıdır.
+
+[SAYFA 13]
+4
+
+Lisans
+Devir
+ve
+Temliki
+
+Kurulun
+Denetleme -
+Hakkı
+
+Müeyyideler
+
+Geçici Madde
+
+Yürülükten
+Kaldırma ve
+Geçerli Sayma
+6.5.1998
+RG.50
+
+EK I
+AE.251
+10.11.2005
+RG.195
+EK
+AE.675
+14.1.2009
+
+238
+
+26. Yayın lisansı kısmen veya tamamen başka bir kişi veya kuruluşlara devir veya
+temlik edilemez. Lisans ve yayın izni alan herhangi bir yayın kuruluşunun,
+herhangi bir zamanda toplam 96 40'ı (yüzde kırk) aşan miktardaki hissesi
+devredilemez. Kurul 96 40'ın (yüzde kırk) üzerinde yapılacak bir devir nedeniyle
+yayıncı kuruluşun Yasa'nın 44'üncü maddesinin (7)'nci fıkrasına göre işlem
+görmesini sağlar. i
+
+27. Kurul, yetkilendirdiği elemanlar aracılığıyla yayıncının stüdyolarını veya
+verici/aktarıcı istasyonlarını denetleyebilir. Denetleme süresince, kuruluş talep
+edilecek evrak ve bilgileri sunmak zorundadır.
+
+28.
+
+1.
+
+29.
+
+(1)
+
+(2)
+
+İlgili yasalar ve tüzüklerde belirlenen yükümlülükleri yerine
+getirmeyen, yayın lisansinda belirtilen şartlara uymayan yayıncılara
+Yasa'nın ilgili kuralları uygulanır.
+
+Yerinde yapılan teknik denetim sonunda aldığı lisansa ve bu Tüzük
+
+kurallarına aykırı davrandığı saptanan yayıncıya gerekli düzeltmeyi
+yapabilmesi için onbeş günlük süre tanınır. Bu sürenin sonunda
+aykırılığın giderilmediği belirlenirse gerekli düzeltme yapılana kadar
+ve en çok üç ay için söz konusu istasyonun yayını durdurulur.
+Ancak, bu süre sonunda gerekli düzeltmeyi yapmadığı saptanan
+yayıncının söz konusu istasyonla ilgili yayın izni iptal edilir.
+
+Yayın izni iptal edilen istasyonlardan dolayı yayıncının lisansında
+belirtilen Yayın Tipinin tanımında yer alan koşulların ortadan
+kalkması durumunda yayıncının lisansı iptal edilebilir.
+
+ALTINCI KISIM
+Geçici ve Son Kurallar
+
+Kurul, sayısal yayıncılığa geçiş sürecinde gerekli Tüzükler, hazırlanıncaya
+kadar sayısal yayıncılığa yönelik deneme yayın izni verebilir.
+
+Bu Tüzüğün yürürlüğe girdiği tarihten başlayarak, “1997 Yayın Yüksek
+Kurulu Yayın İzni ve Lisans Tüzüğü” bu tüzük altında yapılan işlemlere halel
+gelmeksizin yürürlükten kalkar. Bu Tüzük altında yapılan yönetmelikler de
+yenisi yapılıncaya kadar geçerli sayılır.
+
+[SAYFA 14]
+239
+
+Yayın Yüksek Kurulu
+Lisans Başvuru Formu
+
+EKİ
+
+Yayın Şirketinin Adı
+
+Yayında Kullanılan İsim
+
+Şirket Adresi
+Başvuruda Bulunduğu Lisans Tipi
+Yayın Süresi Günde saat, haftada saat
+Kullandığı Frekans/Kanal | Doğu _, Batı _, Uydu
+
+Tam zamanlı personel adeti
+Personel Adeti
+
+Yarı zamanlı personel adeti
+Kullanılan Verici Adeti
+Verici/Vericilerin Gücü ve Bulunduğu Adresler:
+Kullanılan Radyo Link Doğu Bölgesi sy __
+Frekansları :
+
+Batı Bölgesi e —
+RDS Sistemi Var. ,Yok, RDS PI Kodu:
+Teleteks Sistemi Var. ,Yok....
+
+İsim Soyisim:
+
+İmza, mühür: |,| <<

@@ -1,0 +1,1242 @@
+[SAYFA 1]
+463
+
+Sayı: 213
+YENİLENEBİLİR ENERJİ YASASI
+(47/2011, 14/2016 Sayılı Yasalar)
+
+Madde 6, 7, 14 ve 15 Altında Yapılan Tüzük
+
+Kuzey Kıbrıs Türk Cumhuriyeti Bakanlar Kurulu, Yenilenebilir Enerji Yasasının 6'nci
+maddesinin (4)'üncü fıkrasının, 7'nci maddesinin (5)’inci fıkrasının, 14'üncü maddesinin
+(4Yüncü fikrasının ve 15'inci maddesinin (5)’inci fıkrasının kendisine verdiği yetkiye
+dayanarak aşağıdaki Tüzüğü yapar:
+
+Kısa İsim 1. Bu Tüzük, Yenilenebilir Enerji (Uygulama ve Denetim) Tüzüğü olarak
+isimlendirilir.
+
+BİRİNCİ KISIM
+Genel Kurallar
+
+Tefsir 2. Bu Tüzükte, metin başka türlü gerektirmedikçe;
+“Abone”; Kurum şebekesinden elektrik enerjisini temin eden gerçek
+ve/veya tüzel kişiyi anlatır.
+“Bakan”, Enerji işleriyle görevli Bakanı anlatır.
+“Bakanlık”, Enerji işleriyle görevli Bakanlığı anlatır.
+“Elektrik Şebeke Kuralları”, Kuzey Kıbrıs Türk Cumhuriyeti'nde Kıbrıs
+Türk Elektrik Kurumunun yürüttüğü mevzuat ve ilgili meslek odalarının
+tabi olduğu mevzuat çerçevesinde oluşturulan, pratikte ve uygulamada
+
+yürütülen kuralları anlatır.
+
+35/2008 “Emniyet Tedbirleri” İş Sağlığı ve Güvenliği Yasası ile bu Yasa altında
+düzenlenen Tüzük”lerde belirtilen emniyet tedbirlerini anlatır.
+“Hibrid Tesis”, Enerji üretiminde birden fazla yenilenebilir enerji
+kaynağının kullanıldığı tesisi anlatır.
+“İzin Belgesi”, Yenilenebilir enerji kaynağı üretim tesisinin
+kurulumunun başlatılabilmesi için verilen belgeyi anlatır.
+“Kamusal Şebeke”, Kamuya ait her türlü enerji üretim iletim dağıtım
+hatlarını anlatır. ,
+“Kontrol Formu”, Kurum tarafından yapılan kontrolden sonra imzalı ve
+mühürlü halde tanzim edilen formu anlatır.
+“Kurul”, Yasanın 9*uncu maddesi uyarınca oluşturulan Kurulu anlatır.
+“Kurum”, Kıbrıs Türk Elektrik Kurumu'nu anlatır.
+“Kurum Tüketicileri”, Kurumun elektrik enerjisi sağladığı tüm aboneleri
+anlatır. '
+“Mahsuplasma”, Bu Tüzüğün 18'inci maddesinin (1)’inci fıkrasının (B) ©
+bendinde belirtilen teşvik türünü anlatır.
+“Oda”, Kıbrıs Türk Mühendis ve Mimar Odaları Birliğine bağlı ilgili
+odaları anlatır.
+“Şebeke” veya “Kurum Şebekesi”, İşletmeler tarafından elektrik enerjisi
+ile genel besleme amaçları için gerek yer altına gerek yer üstüne
+döşenmiş ve işletmelerce enerji üretiminde kullanılan elektrik hatlarını
+anlatır.
+“Tarifeler”, Kurum tarafından yayınlanan abonelik türlerine göre
+elektrik enerjisi satış listelerini anlatır.
+
+[SAYFA 2]
+47/2011
+14/2016
+
+Amaç 3.
+
+Kapsam 4.
+
+47/2011
+14/2016
+
+Temel İlkeler 5.
+
+Fasıl 170
+21/1990
+66/1993
+
+464
+
+“Ülke”, Kuzey Kıbrıs Türk Cumhuriyetini anlatır.
+
+“Yasa”, Yenilenebilir Eferji Yasası'nı anlatır.
+
+“YEK”, “Yenilenebilir Enerji Kaynakları”, Hidrolik, rüzgar, güneş,
+biyokütle, jeotermal, dalga, akıntı enerjisi gibi fosil olmayan enerji
+kaynaklarını anlatır ve rezervuar alanı on beş kilometrekarenin altında
+olan hidroelektrik üretim tesisi kurulmasına uygun elektrik veya ısı
+enerjisi üretim kaynaklarını da kapsar.
+
+“YEK Belgesi”, Yenilenebilir enerji kaynağı üretim tesisinde enerji
+üretimine başlanabilmesi için verilen belgeyi anlatır.
+
+“Yetkili Mühendis”, Kuzey Kıbrıs Türk Cumhuriyetindeki mevzuata
+
+“göre alanlarına göre yetkili olan mühendisleri anlatır.
+
+Bu Tüzüğün amacı, yenilenebilir enerji kaynaklarından elektrik üretimi
+veya ısıtmanın ve ticaretinin izinlendirilmesi, YEK Belgesi verilmesi,
+yenilenebilir enerji kaynaklarından elektrik üretimi, ısıtması veya
+ticaretine ilişkin usül ve esaslar ile dikkate alınacak standartları, bu
+konularda Bakanlığın yapacağı denetimlerin, alınacak emniyet
+tedbirlerin usul ve esasları, Kurumun ana dağıtım şebekelerine üretilen
+elektriğin aktarılmasına ilişkin kuralları, teşvikleri, kurulun görev ve
+çalışmasına ilişkin kuralları ve idari müeyyidelere ilişkin usul ve esasları
+belirlemektir.
+
+Bu Tüzük,Yasanın uygulanmasına yönelik olarak, yenilenebilir enerji
+kaynaklarından enerji üretilmesine ilişkin usul ve esasları, uygulama ve
+denetim kurallarını kapsar.
+
+İKİNCİ KISIM
+Yenilenebilir Enerji Kaynaklarından Enerji Üretilmesine İlişkin Temel
+İlkeler ve Kurallar
+
+(1) Yenilenebilir enerji kaynaklarından elektrik enerjisi üretimi
+Bakanlığın iznine tabidir.
+
+(2) (A) Yenilenebilir enerji kaynaklarından ticari amaçla elektrik
+enerjisi üretimi yapılabilmesi için, Bakanlar Kurulu'nun
+Elektrik Yasası'nın 4'üncü maddesi uyarınca bir emirname
+ısdar etmesi ve Bakanlık tarafından izin verilmesi
+gereklidir.
+
+(B) Bakanlar Kurulu, ticari amaçlı olarak yenilenebilir enerji
+kaynaklarından elektrik enerjisi üretecek olan gerçek veya
+tüzel kişi lehine, yukarıdaki (A) bendi uyarınca Elektrik
+Yasası'nın 4'üncü maddesi tahtında bir emirname ısdar
+ederken, bu emirname ile belirlenecek kapsam ve amaç,
+Bakanlığın görüşü uyarınca değerlendirilerek
+sınırlandırılabilir.
+
+(C) Alçak Gerilim seviyesinin üzerinde olup ortalama yıllık
+toplam elektrik enerjisi tüketiminin (kWh) 1,2 katından ve
+irafo kapasitesinden daha fazla üreim yapabilecek
+kapasitede bir tesis kurulmasının tasarlanması, bu tesisin
+ticari amaçla elektrik üretilmesi olarak değerlendirilir ve bu
+tesise yukarıdaki (A) ve (B) bendi kuralları uygulanır,
+
+(5) (A) Ticari amaç haricindeki Yenilenebilir enerji kaynaklarından
+
+[SAYFA 3]
+20/2016
+
+(4)
+(5)
+
+(6)
+
+(7)
+
+(8)
+
+465
+
+ısı enerjisi üretimi ilgili odanın belirlediği standartlarda
+yapılır.
+
+(B) Ticari amaçla Yenilenebilir enerji kaynaklarından 1sı enerjisi
+üretimi ise Bakanlığın iznine tabidir.
+
+Ticari amaçlı yenilenebilir enerji kaynaklarından enerji üretim
+
+faaliyetini gerçek veya tüzel kişiler yapabilir.
+
+Yenilenebilir enerji kaynaklarından üretilen elektrik ve ısı
+
+enerjisinin ticaretinin yapılabilmesi igin,: üretim ve ticaret
+
+hususunda izinlendirilmiş bulunan gerçek veya tüzel kişilerin
+
+YEK Belgesi almaları zorunludur. YEK Belgesi alınmaması
+
+durumunda üretilen enerjinin ticareti yapılamaz.
+
+Ticari amaçla yenilenebilir enerji kaynaklarına dayalı olarak
+
+izinlendirilecek elektrik üretim tesis tipleri ve kurulu güçleri,
+
+Kurul'un ve ilgili kurum ve kuruluşların görüşleri alınarak
+
+Bakanlık tarafından belirlenir. Ancak, elektrik ihtiyacında açık
+
+olmasa bile, ileride doğması muhtemel açığı dikkate alarak
+
+Bakanlık, ticari amaçla yenilenebilir enerji kaynaklarından
+
+elektrik üretilmesine, Kurul'un ve ilgili kurum ve kuruluşların
+
+görüşleri alınarak yatırım süresi dikkate alınarak uygunluk görüşü
+verebilir.
+
+(A) Bakanlık Yenilenebilir Enerji Kaynaklarından ısı veya
+elektrik enerjisi üretilip ticari faliyet veya garantili alım
+yöntemi ile Kamu İhale Yasası kapsamında ihale açabilir ve
+bu ihale sonucunda çıkacak tavan fiyat esas alınarak üretim
+yapılacak bölgeleri tespit eder ve tavan fiyat baz alınmak
+süreti ile teklif isteyebilir. Tekliflerin değerlendirilmesinde
+tavan fiyat veya altında olması ayrıca birim kWp bazında
+üretim garantisi esas alınarak değerlendirilir ve izinlendirilir,
+
+(B) Bakanlık, ticari amaçlı yenilenebilir enerji kaynaklarından
+enerji üretmek hususunda izin vermek üzere Kamu İhale
+Yasası kapsamında ihale açılmış olması durumunda, bu
+ihale neticesinde izin almış olan gerçek veya tüzel kişiler
+üreteceği enerjinin tamamına veya bir kısmına alım garantisi
+imtiyazı sağlayabilir. 5
+
+Ancak, böyle bir imtiyazın şartları ve süresi ihale
+şarinamesinde belirtilir.
+
+Kurum tüketicisi;
+
+(A) Bakanlığın iznini almak koşuluyla kendi ihtiyaçları için
+yenilenebilir enerji Okaynaklarından elektrik enerjisi
+üretebilir.
+
+(B) Kurum ile aylık mahsuplaşma yaptıktan sonra geriye kalan
+fazla elektrik enerjisini Kurum şebekesine o vermesi
+durumunda Kurum tüketicisinin Şubat ayı içerisinde, en geç
+Şubat ayı sonu itibari ile yazılı talebi üzerine tüketim
+fazlasının ortaya çıktığı aydaki Kurumun yürürlükteki en
+düşük tarifesi üzerinden her yılın Mart ayı içerisinde Kurum
+tüketicisine ödeme yapılır.
+
+(C) Yukardaki (B) bendi uyarınca talepte bulunmaması
+durumunda üretüği ve Kurum şebekesine verdiği fazla
+elektrik enerjisi bir sonraki aya aktarılmak suretiyle Kurum
+
+[SAYFA 4]
+©)
+
+(10)
+
+ay
+
+(A)
+
+&
+
+466
+
+ile Kurum tüketicisi arasındaki mahsuplaşma kWh olarak
+devam eder.
+
+Kurum tüketicisi olmayan ve yenilenebilir enerji
+kaynaklarından elektrik veya ısı enerjisi üretmek için İzin
+Belgesi isteyen gerçek veya tüzel kişiler, ilgili belediye ve
+kaymakamlık ile varsa diğer kamu kurum ve kuruluşundan
+gerekli izinleri aldıktan sonra inşaatlarının herhangi bir
+safhasında başvuru yapabilirler.
+
+Yukarıdaki (A) bendi uyarınca verilecek İzin Belgesi her
+halükarda bir yılı aşamaz ve bu tür başvurularda Kurum
+kontrolüne bağlı olarak YEK Belgesi alınabilir.
+
+Geçici akım tarifesinde olan Kurum tüketicileri;
+
+(A)
+
+(B)
+
+(C)
+
+(A)
+
+(B)
+
+(C)
+
+(Ç)
+(D)
+
+CE)
+
+(F)
+
+Yenilenebilir enerji kaynaklarından elektrik enerjisi üretmek
+için ilgili belediye ve kaymakamlık ile varsa diğer kamu
+kurum ve kuruluşundan gerekli inşaat izinlerini aldıktan
+sonra inşaatlarının herhangi bir safhasında başvuru
+yapabilirler,
+Kurul tarafından onaylanan başvurulara yazılan İzin
+Belgeleri ile tesis kurulumuna başlanabilir ancak kurulumun
+sonlanıp henüz YEK belgesi alınmadan ürettikleri elektrik
+enerjisini, öz tüketim olarak sadece. inşaat işlerinde
+kullanabilirler ve bu üretimden dolayı mahsuplaşma
+yapılmaz.
+Kalıcı tarifeye geçtikleri taktirde YEK Belgesi alabilirler ve
+mahsuplaşmaya başlarlar.
+Kurum tüketicisinin tüketim noktasından belin bir yerdeki
+tesiste/parselde yenilenebilir enerji kaynaklarından ürettiği
+elektrik enerjisini Kurum o şebekesine (o aktarması,
+mahsuplaşmaya engel değildir.
+Birden çok Kurum tüketicisi (ayni aboneye ayni kişiye ait
+olsa bile), farklı yerlerdeki tüketimleri/abonelikleri için tek
+bir tesiste/parselde üretim yapabilir.
+
+Ancak, herbir abonelik için ayni tesjste/parselde ayrı
+sistem kurulması zorunludur.
+Herbir aboneliğin üretimini saptamak için ise ayrı sayaç
+takılması zorunludur.
+Birden fazla ayni tesiste/parselde kurulan tüm üretimler,
+Kurum şebekesine tek noktadan bağlantı yapılarak aktarılır.
+Aboneliklerin mahsuplaşması; ait olunan aboneliğe Kurul
+tarafından verilen izinle kurulan üretim arasında müstakil
+mahsuplaşma yapılır.
+Kurum tüketicilerinin farklı yerlerde birden fazla tüketim
+yapan aboneliklerinin, aynı tesiste/parselde şebeke sayacı
+üzerinden mahsuplaşabilmesi için aboneliklerinin tarifesinin
+aynı olması gerekmektedir.
+Yukarıdaki (E) bendi uyarınca farklı tarifelerdeki
+aboneliklerin “*mahsuplaşma (yapabilmesi için Kurum
+aboneliği sayısı kadar ayrı sistemlerin olması ve her
+üretimin izin aldığı aboneliği ile ayrı ayrı mahsuplaşması
+gerekmektedir.
+
+[SAYFA 5]
+20/2016
+
+İzin İçin
+Başvuruda
+Usul
+
+zin Belgesi
+
+467
+
+Ancak abone kendi adına başka yerlerdeki abonelikleri
+farklı tarifelerde olması durumunda ve tüketicinin tek
+kurulum yapmak istemesi halinde mahsuplaşma en düşük
+tarifeli aboneliğinden başlayarak yapılır.
+
+(12) Yenilenebilir enerji kaynaklarına dayalı olarak aynı alana ve trafo
+
+(13
+
+(1)
+
+(2)
+
+(3)
+
+(1)
+
+)
+
+merkezine birden fazla clektrik enerjisi üretim tesisi başvurusu
+
+olması halinde;
+
+(A) Başvuru ticari amaçlı değilse; Bakanlığa birim MW kurulu
+güç başına en fazla üretim garantisi veren yatırımcı
+izinlendirilir.
+
+(B) Başvuru ticari amaçlı ise;
+
+(a) Kamu İhale Yasasına göre, yapılan veya yapılacak
+ihale neticesinde ortaya çıkan daha düşük maliyetle
+üretim yapan veya tavan kWh birim fiyatın altında en
+düşük fiyatı teklif eden ve,
+
+(b) Personelinin en az yarısı Kuzey Kıbus Türk
+Cumhuriyeti yurttaşı olan veya uluslararası muteber
+yabancı bir şirketle yerli bir şirketin veya bir Kuzey
+Kıbrıs Türk Cumhuriyeti yurttaşının oluşturduğu bir
+konsorsiyum veya şirkete izin verilir.
+
+Bakanlık, her yılın Aralık ayı içerisinde Kurul tarafından önerilen,
+
+bir sonraki yılda izinlendirilebilecek yenilenebilir enerji kaynağı -
+
+kapasitesini belirler ve Bakanlığın resmi intemet sitesinde
+yayımlar.
+
+Yenilenebilir enerji kaynaklarından elektrik veya ısı enerjisi
+üretmek için izin alınması amacıyla yapılacak başvurular, Kurul
+tarafından hazırlanıp Bakanlık tarafından önerilen ve Bakanlar
+Kurulu tarafindan onaylanarak Resmi Gazete'de yayımlanacak
+Yönetmelik uyarınca, Bakanlığa yazılı şekilde olur.
+
+Başvurular, en erken zamanda ve her durumda başvuru tarihinden
+
+itibaren en geç iki ay içerisinde karara bağlanır. Olumsuz kararlar
+
+gerekçeli olur ve en geç iki ay içerisinde başvuru sahibine yazılı
+olarak bildirilir.
+
+(A) Başvurular, yetkili mühendislerce hazırlanan ve Kuzey
+Kıbrıs Türk Cumhuriyeti elektrik şebeke kuralları yönünden
+Alçak Gerilim seviyesinde ise Oda tarafından, Orta
+Gerilim/Yüksek Gerilim seviyesinde ise Kurum tarafından
+onaylanan şebeke ve elektrik bağlantılarına ait plan ve
+projelerle ve kullanılması tasarlanan ekipman veya
+donanımın listesi ile bu ekipmanın veya donanımın nereden
+ve ne şekilde tedarik edileceğine ilişkin değerlendirme veya
+raporlarla da desteklenmelidir.
+
+(B) Kurulun gerekli görmesi halinde, mekanik ve/veya inşaat
+işlerinin de yer aldığı durumlarda, Odadan vizeli projeler
+talep edilebilir,
+
+Bakanlık tarafından yenilenebilir enerji kaynaklarından elektrik
+veya isi enerjisi  tiretilebilmek için tesis kurulumuna
+başlanabilmesine ilişkin düzenlenecek İzin Belgesi nin şekli ve
+
+[SAYFA 6]
+©
+
+MO)
+
+(0)
+(6)
+
+(7)
+
+(8)
+
+(9)
+
+(10)
+
+468
+
+içeriği, Kurul tarafından hazırlanıp, Bakanlık tarafından önerilen
+ve Bakanlar Kurulu tarafından onaylanarak Resmi Gazetede
+yayımlanacak Yönetmelik uyarınca belirlenir.
+Bakanlık, kendisine yapılan başvuruları derhal Kurula sevk ederek
+Kurulun değerlendirmesini talep eder. Kurul değerlendirme
+yaparken, Bakanlık vasıtasıyla başvuru sahibinden ilave bilgi ve
+belge talep edebilir veya başvuru sahibini ilave izahat vermek
+üzere huzuruna çağırabilir.
+Kurul, bu Tüzüğün 6'ncı maddesi uyarınca belirlenecek ve yine
+Kurul tarafından hazırlanarak Bakanlık tarafından önetilen ve
+Bakanlar Kurulu tarafından onaylanarak Resmi Gazete'de
+yayımlanacak yönetmeliğe göre başvurular değerlendirildikten
+sonra, tesisin Kurum sistemine bağlanmasında sakınca olmadığı
+teyidini Kurumdan alır ve İzin Belgesi verilmesi için Bakanlığa
+görüşünü sunar,
+Bakanlık, uygun olmayan ve/veya eksik olan başvuruyu reddeder
+ve başvuru sahibine gerekçeleri ile birlikte yazılı bildirimde
+bulunur.
+Kurulun başvuruda aykırılıklar tespit etmesi durumunda, Bakanlık
+bu aykırılıklar giderilmeden İzin Belgesi ısdar edemez.
+İzin Belgesinin süresi, verildiği tarihten itibaren altı aydan az
+olmamak kaydı ile Kurulun önerisi ile Bakanlık tarafından proje
+çeşidi ve büyüklüğüne bağlı olarak belirlenir.
+
+Ancak geçici akım tarifesinde olan Kurum tüketicileri İzin
+
+Belgelerini bir yıl olarak alır. -
+
+Bu maddenin (6)'ıncı fikrasındaki sürelerin bitiminde aşağıda
+belirtilen (o hususlar (dikkate (alınarak Kurul © tarafından
+değerlendirilir.
+
+(A) İzin Belgesi süresi içerisinde kuruluma fiilen başlamayan
+başvuru sahibinin izni iptal edilir. Bu durumda başvuru
+sahibi yeni başvuru yapma hakkına sahiptir.
+
+Ancak yapılacak olan başvuru güncel koşullara göre
+Kurul tarafından tekrardan değerlendirilir. N
+
+(B) İzin süresi dolmasına rağmen tesisin kurulumunu
+tamamlamayan, ancak tesisin kurulumuna başlamış başvuru
+sahiplerine, kurulumuna devam eden tesisin geri kalan
+işlerinde fiili kurulum süresi Kurul tarafından Bakanlığa
+önerilir ve belirlenen ek süre Bakanlık tarafından verilir,
+
+İzin belgesi üç kopya olarak düzenlenir ve herhangi bir vergi, pul
+
+vergisi, harç veya ücret talep edilmeden başvuru sahibine teslim
+
+edilir.
+
+İzin belgesi, izin belgesi sahibi tarafından muhafaza edilir ve
+
+denetimler esnasında, denetimi yapmakla görevlendirilen kişilere
+
+ibraz edilir.
+
+Kurum şebekesine bağlanmayacak, kurum tüketicisi olmayacak
+
+yenilenebilir enerji kaynaklı elektrik enerjisi üretim tesisleri,
+
+Kurul tarafından hazırlanarak Bakanlık tarafından önerilen ve
+
+Bakanlar Kurulu tarafından onaylanarak Resmi Gazete'de
+
+yayımlanacak yönetmeliğe göre değerlendirilir ve Bakanlık
+
+tarafından izinlendirilir.
+
+[SAYFA 7]
+YEK Belgesi
+
+8.
+
+ee.
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+469
+
+Yenilenebilir enerji kaynaklarından elektrik veya Isı enerjisinin
+üretiminde ve/voya iç piyasada ve uluslararası piyasalarda alım
+satımında kaynak türünün belirlenmesi ve takibi için İzin Belgesi
+sahibi gerçek ve/veya tüzel kişiye, Bakanlık tarafından, Kurumun
+tesisi kontrol ettiğine dair imzalı ve mühürlü kontrol formunun
+Bakanlığa sunulmasından itibaren bir takvim ayı içerisinde
+yenilenebilir enerji kaynaklarından enerji üretim kapasitesini
+gösteren bir Yenilenebilir Enerji Kaynakları Üretim Belgesi (YEK
+Belgesi) verilir,
+YEK Belgesnin şekli ve içeriği, Kurul tarafından hazırlanıp,
+Bakanlık tarafından önerilen ve Bakanlar Kurulu tarafından
+onaylanarak Resmi Gazetede yayımlanacak Yönetmelik uyarınca
+belirlenir.
+YEK belgesi üç kopya halinde düzenlenir ve herhangi bir vergi,
+pul vergisi, harç veya ücret talep edilmeden başvuru sahibine
+teslim edilir.
+YEK Belgesi süresi;
+(A) Yenilenebilir enerji kaynağından elektrik veya ısı enerjisi
+üretmek için tesis kurulan mülk:
+
+(a) Kurum tüketicisinin mülkiyetinde ise en fazla yirmi
+yıldır.
+
+(b) Kurum tüketicisi tarafından kiralanmış ise, mülkün
+kira sözleşmesi süresi kadardır.
+
+(B) Ticari maksatlı verilen YEK Belgesi, yukarıdaki (A)
+bendinde belirtilen şartlar saklı kalmak kaydı ile kurulacak
+olan tesisin ihale/yarışma şartnamesinde belirtilen şartlar ve
+süre dikkate alınarak düzenlenir.
+
+(C) YEK Belgesinin süresinin bitimine bir yıl kala, Kurum
+tüketicisi, Kurulun önereceği, Bakanlığın belirleyeceği ve
+Bakanlığın resmi internet sitesinde yayımlayacağı biçimde
+Bakanlığa: yazılı “şekilde, belgesinin yenilenmesi için
+başvuruda bulunabilir.
+
+(Ç) Bakanlık YEK Belgesini yenilemeden * önce Bakanlık
+tarafından gérevlendirilen ve/veya talep edilen ilgili kamu
+personeline (gerekli o incelemeyi (o yenilenebilir enerji
+kaynağının üretim tesisinin kurulduğu yerde yaptırır.
+
+(a) İlgili tesisin incelenmesine binaen tesisi teknik açıdan
+işlevine devam etmesi uygun görülen tesis sahiplerine
+süre uzatılması yapılırken mahsuplaşma veya satış
+şekli bu Yasa altında çıkarılan Emimame, Tüzük ve
+Yönetmelik kurallarına göre yeniden düzenlenir ve
+güncellenir. |
+
+(b) YEK Belgesi izni sona ererek bu maddenin (C)
+bendinde belirtilen stire zarfinda Bakanh ğa başvuruda
+bulunmayan veya tesisi teknik açıdan işlevine devam
+etmesi mümkün olmayan tesis sahipleri, yürürlükteki
+mevzuata uygun olarak, izin almak için yeniden
+başvuru yapma hakkına sahiptir.
+
+[SAYFA 8]
+Elektrik 9:
+Enerjisi
+
+Uretimi
+Bakımından
+
+YEK
+
+Belgelerinin
+Sınıflandırı!-
+
+ması
+
+Elektrik 10.
+
+Üretiminde
+Kullanılacak
+Ekipmanın
+Standartları
+
+Isı le
+
+Üretiminde
+
+470
+
+Yenilenebilir enerji kaynaklarından elektrik enerjisi üretilmesi ve/veya
+bu surette üretilen elektrik enerjisinin ticareti ile ilgili verilecek YEK
+Belgeleri güç miktarı bakımından aşağıdakı şekilde sınıflandırılır:
+
+(0) Alçak Gerilim YEK Belgesi;
+
+(A) Sadece kendi ihtiyaç duyduğu elektriği veya kendi
+ihtiyacının bir kısmını karşılamak için yenilenebilir enerji
+kaynaklarından elektrik üretmek üzere izinlendirilmiş
+bulunan gerçek veya tüzel kişi olan Kurum tüketicilerine
+verilen YEK Belgesidir.
+
+(B) Alçak Gerilim YEK Belgesi verilebilmesi için kurulu güç
+miktarı;
+
+(a) Tek fazlı konutlar için 7 kW’ dan,
+
+(b) Üçfazlı konutlar için 15 kW’dan,
+
+(c) Müstakil (Özel) trafolu su motorları ve özel tesisler
+trafo gücünden,
+
+(9) Alçak Gerilimden beslenen konut tarifesi dışındaki
+tüketiciler yıllık toplam tüketimlerinin (kWh) 1,2
+katından
+
+fazla olamaz.
+
+(2) Orta Gerilim YEK Belgesi; ji
+
+(A) Sadece kendi ihtiyaç duyduğu elektriği veya kendi
+ihtiyacının bir kısmını karşılamak için yenilenebilir enerji
+kaynaklarından elektrik üretmek üzere izinlendirilmiş
+bulunan Kurum Tüketicileri ile ticari maksatla yenilenebilir
+enerji kaynaklarından elektrik üretmek üzere izinlendirilmiş
+bulunan gerçek ve tüzel kişilere verilen YEK Belgesidir.
+
+(B) Orta Gerilim YEK Belgesi verilebilmesi için kurulu güç
+miktarı, Kurumun üretim planlamasına uygun olarak, Kurul
+tarafından belirlenir.
+
+(3) Yüksek Gerilim YEK Belgesi
+
+(A) Sadece kendi ihtiyaç duyduğu elektiriği veya kendi
+ihtiyacının bir kısmını karşılamak için yenilenebilir enerji
+kaynaklarından elekirik üretmek üzere izinlendirilmiş
+bulunan Kurum Tüketicileri ile ticari maksatla yenilenebilir
+enerji kaynaklarından elektrik üretmek üzere izinlendirilmiş
+bulunan gerçek veya tüzel kişilere verilen YEK Belgesidir.
+
+(B) Yüksek Gerilim YEK Belgesi verilebilmesi için kurulu güç
+miktarı, Kurumun üretim planlamasına uygun olarak, Kurul
+tarafından belirlenir.
+
+Yenilenebilir enerji kaynaklarından elektrik üretimi için kullanılması
+tasarlanan araç, gereç, malzeme, ekipman ve donanımlara ait hertürlü ön
+izin, standart ve kurallar, güncel koşullar göz önünde bulundurularak
+Kurul tarafından belirlenir ve Bakanlık tarafından Bakanlığın resmi
+internet sitesinde yayımlanır. =
+
+Yenilenebilir enerji kaynaklarından ısı enerjisi üretmek amacıyla
+kullanılması tasarlanan araç, gereç, malzeme, ekipman ve donanımlara
+
+[SAYFA 9]
+Kullanılacak
+Ekipmanın
+Standartları
+
+Emniyet 12.
+
+Tedbirleri
+
+Yenilenebilir 13.
+
+Enerji
+Kaynakların-
+dan Elektrik
+Üreten
+Tesislerin
+Kuruluşuna
+İlişkin
+Kurallar
+
+471
+
+ait her türlü ön izin, standart ve kurallar, güncel koşullar göz önünde
+bulundurularak Kurul tarafından belirlenir ve Bakanlık tarafından
+Bakanlığın resmi internet sitesinde yayımlanır,
+
+(1)
+
+(2)
+
+Yenilenebilir enerji kaynaklarından elektrik veya isi üretilmesi
+esnasında karşılaşılması muhtemel yangın, patlama, su baskını ve
+sair risklere karşı tüm emniyet tedbirleri alınmalıdır.
+
+Emniyet tedbirleri, bu Tüzüğün 7'nci maddesi uyarınca
+düzenlenen İzin Belgesi ve 8'inci maddesi uyarınça düzenlenen
+YEK Belgesinde de belirtilir ve iznin koşullarından birini teşkil
+eder.
+
+Emniyet tedbirleri ve bunların uygulamasına ilişkin planlar, açık
+ve anlaşılır bir biçimde, yenilenebilir enerji kaynaklarından
+elektrik veya 181 üretilen yerlerde çalışan veya bulunan herkesin
+görebileceği biçimde teşhir edilir.
+
+ÜÇÜNCÜ KISIM
+
+Yenilenebilir Enerji Kaynaklarından Enerji Üretilmesinin Uygulanması
+
+ve Denetimi
+
+Yenilenebilir enerji kaynaklarından elekirik üretilmesi tasarlanan
+tesislerde uygulanması gereken kurallar aşağıdaki fıkralarda belirtildiği
+gibidir:
+
+(1)
+©
+(3)
+
+(4)
+
+(5)
+
+Yenilenebilir enerji kaynaklarından elektrik üretilmesi tasarlanan
+tesislerde kullanılacak tüm araç, gereç, donanım ve aksamlar,
+Kurulun ön izni ile ülkeye ithal edilebilir veya bunlar Kurul'un
+onay vereceği şartlarda ülkede üretilebilir.
+
+Kurul, yukarıdaki (1)’inci fikra uyarınca kendisine verilen yetkiyi
+
+kullanırken gerekmesi durumunda Odadan yardım alır.
+
+Yenilenebilir enerji kaynaklarından elektrik üretmek amacıyla
+
+kurulacak tesislerin Kurum şebekesine bağlantısı, Kurumun
+
+güncel uygulamaları uyarınca yapılır.
+
+(A) Yenilenebilir enerji kaynaklarından Orta Gerilim veya
+Yüksek Gerilim seviyesinde elektrik üretmek amacıyla
+kurulacak tesislerin elektrik sisteminin müteahhitliğini
+yapmak veya bu tesislerin Kurum şebekesine bağlanmasını
+sağlamak için gerekli faaliyetleri yapmak isteyen
+müteahhitler, Kurum Elektrifikasyon Uygulamaları I. Sınıf
+Yetki Belgesine sahip olmadıkça ve Alçak Gerilim
+seviyesinde kurulacak sistemin elektrik bağlantı işleri
+miteaahiitligini yapanların ise, elektriksel gücüne uygun
+diğer sınıflardaki Yetki Belgesine sahip olmadıkça Kurum
+şebekesine bağlantılarını yapamaz.
+
+(B) Orta Gerilim / Yüksek Gerilim seviyesinde elekirik
+üretecek tesisle inşaat ve mekanik işlerine ait projeler
+yetkili mühendislerce hazırlanır ve ilgili meslek odaları
+tarafından onaylanır. *
+
+Bu madde kapsamında ithal edilecek veya ülkede üretilecek araç—
+
+gereç, aksam ve sair donanım ile yenilenebilir enerji
+
+kaynaklarından elektrik üretmek amacıyla ve bu surette üretilecek
+
+[SAYFA 10]
+40/2003
+55/2010
+
+Yenilenebilir
+Enerji
+Kaynakların-
+dan Isı
+Üreten
+Tesislerin
+Kuruluşuna
+İlişkin
+Kurallar
+40/2003
+55/2010
+
+Üretilen
+Enerjinin
+Şebekeye
+Aktarılması
+
+14,
+
+15.
+
+0
+
+(2)
+
+©)
+
+(4)
+
+472
+
+elektriğin Kurum şebekesine aktarılması için tesis kurulması
+hizmetleri, Tüketicileri Koruma Yasasında belirtilen yasal garanti
+olmaması durumunda bu araç-gereç, aksam ve donanım, bu
+Tüzük kuralları kapsamında kullanılamaz, üretilemez, ithal
+edilemez veya böylesi bir müteahhitlik hizmeti bu Tüzük kuralları
+kapsamında ifa edilemez.
+
+Yenilenebilir enerji kaynaklarından ticari amaçlı ısı üretilmesi
+amaçlanan tesislerde kullanılacak tüm araç-gereç, donanım ve
+aksamlar, Kurulun ön izin vermesi şartıyla alınacak ithal
+izinleriyle ülkeye ithal edilebilir veya bunlar Kurul'un onay
+vereceği şartlarda ülkede üretilebilir.
+
+Bu madde kapsamında ithal edilecek veya ülkede üretilecek arac—
+gereç, aksam ve sair donanım ile yenilenebilir enerji
+kaynaklarından ısı üretmek amacıyla tesis kurulması ve bu surette
+üretilecek ısının herhangi bir kamusal şebekeye aktarılması için
+tesis kurulması hizmetleri, Tüketicileri (o Koruma Yasasında
+belirtilen yasal garanti süresinden daha az olmayan bir süre
+garantisi olmaması: durumunda o böylesi araç—gereç, aksam ve
+donanım, bu Tüzük kuralları kapsamında kullanılamaz,
+üretilemez, ithal edilemez. veya böylesi bir müteahhitlik hizmeti
+bu Tüzük kuralları kapsamında ifa edilemez.
+
+Kurul, yukarıdaki (1)’inci fıkra uyarınca kendisine verilen yetkiyi
+kullanırken gerekmesi durumunda Odanın güncel uygulamalarını
+dikkate alır, i
+
+Yenilenebilir enerji kaynaklarından üretilen elektriğin Kurum
+şebekesine aktarılması, Kurum'un güncel kurallarına uygun
+teknik alt yapının sağlanmış olduğunu onaylayan Kurum
+kontrolüne dayanarak Bakanlık tarafından verilen YEK Belgesi
+ile mümkün hale gelir, i
+Yenilenebilir enerji kaynaklarından üretilen elektriğin Kurum
+şebekesine aktarılması için Kurum sistemine herhangi bir ek
+yatırım yapılması gerekirse, söz konusu ek yatırım, Kurum
+tarafından projelendirilir ve maliyeti müracaatçı tarafından
+karşılanması kaydıyla Kurum tarafından yapılır veya müracaatçı
+bu ek yatırımı Kurumdan izin alması durumunda Kurum
+tarafından yetkilendirilmiş 14*üncü maddenin (4)'üncü fıkrasında
+belirtilen niteliğe haiz gerçek veya tüzel kişilere yaptırabilir.
+
+Yenilenebilir enerji kaynaklarından üretilen elektriğin Kurum
+şebekesine aktarılması esnasında, üretim tesisinden veya aktarım
+veya bağlantı sisteminden kaynaklanan herhangi bir nedenle
+Kurum sistemine herhangi bir zarar verilmesi veya böyle bir
+riskin tespit edilmesi durumunda, Kurum derhal ve önceden
+herhangi bir bildirim yapmaksızın veya izin almaksızın ilgili
+bağlantıyı kesecek her türlü işlemi yapabilir ve bu işlemi üç iş
+günü içerisinde ilgili kişiye yazılı olarak bildirilir. Riskin
+giderilmesi halinde Kurum tarafından bağlantı tekrar yapılır.
+
+Yenilenebilir enerji kaynaklarından üretilen elektriğin Kurum
+
+[SAYFA 11]
+Denetimler
+
+16.
+
+(5)
+
+(6)
+
+(1)
+
+(2)
+
+(6)
+
+473
+
+şebekesine: aktarılması için kurulması amaçlanan bağlantılar,
+Kurumun kontrol ve onayına tabi olarak imal edilir ve ihtiyaç
+durumunda Kurumun tek taraflı müdahalesiyle Kurum
+sisteminden ayrılabilecek durumda tasarlanıp imal edilir.
+
+Bu madde kurallarına uygun olarak Kurum şebekesine
+aktarılmayan elektrik enerjisi için herhangi bir bedel ödenmez
+veya bu surette elektrik aktarımı neticesinde herhangi bir
+mahsuplaşma yapılmaz.
+
+Yenilenebilir enerji kaynaklarmdan üretülen elektriğin Kurum
+şebekesine aktarılmasına ilişkin bu maddede belirlenen kurallar,
+gerekli değişiklikler yapıldıktan sonra (mutatis ‘mutandis),
+yenilenebilir enerji kaynaklarından üretilen isımın herhangi bir
+kamusal şebekeye aktarılmasına ilişkin olarak da uygulanır.
+
+Ticari amaçlı olsun veya olmasın, Yenilenebilir enerji
+kaynaklarından elektrik ve isi enerjisi üretilmesi, Kurumun
+güncel kurallarına, emniyet tedbirlerine, ilgili tim mevzuata, izin
+koşullarına ve YEK Belgelerinde belirlenmiş kayıt ve şartlara
+uygun olarak yapılıp yapılmadığını; emniyet tedbirlerinin
+gerektiği gibi alınıp alınmadığını ve bu tedbirlerin uygulamasına
+ilişkin planların hazırlanıp hazırlanmadığını ve usulüne uygun
+teşhir edilip edilmediğini; bu Tüzük kuralları uyarınca belirlenmiş
+garanti sürelerine uyulup uyulmadığını ve Yasa ve bu Tüzük
+kurallarının iblal edilip edilmediğini denetlemek Bakanlığın
+görevidir.
+
+Bakanlık, denetleme görevini Polis Genel - Müdürlüğü,
+yenilenebilir enerji kaynağı üretim tesisinin bulunduğu Belediye,
+Bakanlığa bağlı daire, kurum ve/veya kuruluşlar veya diğer -
+gerekli gördüğü herhangi bir Bakanlık, daire, kurum ve/veya
+kuruluşlar ile istişare ve işbirliği içinde yapar ve denetimlerin
+gerektiği gibi ve emniyet içinde yürütülmesini sağlar.
+
+Bu madde kapsamında yapılacak denetimler, önceden bildirilerek
+veya bildirimsiz olarak; şikayet üzerine veya re'sen; günün veya
+gecenin herhangi bir saatinde yapılabilir. >
+Yenilenebilir enerji kaynaklarından eneyi üretilmesini ve
+ticaretini veya buna ilişkin her türlü müteahhitlik hizmetlerini ifa
+eden gerçek veya tüzel kişiler ile YEK Belgesi sahibi gerçek veya
+tüzel kişiler, bu madde uyarınca denetim yapmakla
+görevlendirilmiş tüm kamu görevlilerine veya yetkililerine,
+denetimlerin layıkıyla yapılabilmesi için yardım etmekle ve
+gereken kolaylığı ve işbirliğini sağlamakla mükelleftir.
+
+Bu madde kapsamında yapılacak denetimlerin, gerektiği gibi ve
+emniyet içinde yürütülmesinde Polis Genel Müdürlüğü,
+Bakanlığa gerekli desteği verir ve denetimlere Polis Memurlarının
+da nezaret etmesini sağlar.
+
+Denetime başlanmadan önce, denetimi yapmakla görevli kişilerin
+kimliklerini açıklamaları ve bu görevlerini tevsik eden resmi bir
+belgeyi denetleyecekleri kişilere veya tesislerin sorumlularına
+ibraz etmeleri zorunludur.
+
+Denetimlere ilişkin olarak, denetimlerin yapılması esnasında
+
+[SAYFA 12]
+İdari
+Müeyyide
+Uygulanması
+na İlişkin
+Usul ve
+Esaslar
+
+1,
+
+. (8)
+
+(10)
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+6)
+
+474
+
+teferruatlı tutanak tutulur ve bu tutanaklarda; denetim tarihi,
+başlangıç ve bitiş saatleri, denetlenen tesisle ilgili tafsilat, denetim
+esnasında hazırda bulunan tüm kişiler (ve mümkün olduğu kadar
+kimlik bilgileri ve oradaki görevleri); denetimde göze çarpan
+hususlar ve kanaatler yer alır.
+
+Tutanakların sonu tüm ilgili taraflarca imzalanır ve tutanağın bir
+sureti de tesis sahibine veya tesisten sorumlu olduğu anlaşılan
+birisine verilir.
+
+Ancak, taraflardan herhangi birinin tutanağı almaması
+ve/veya imzalamaması dutumunda, tutanağı almayan ve/veya
+imzalamayan tarafların tutanağı almama ve/veya imzalamama
+sebepleri şerh düşülür ve tutanağın bir sureti tesise bırakılır.
+Denetimlerde tespit edilen aksaklıkların giderilmesi için denetimi
+yapan görevliler, Yasanın 15'inci, 16'ncı ve 17'nci madde
+
+© kurallarını uygulamak ve gözetmek hususunda yetkili ve
+
+görevlidir.
+Denetimlere ilişkin tüm belge ve sair evraklar Bakanlığa teslim
+edilir ve Bakanlık tarafından muhafaza edilir.
+
+Yasanın 15'inci maddesinin (1)’inci fikrası uyarınca verilecek
+yazılı ihtar, bu Yasa ve bu Tüzük kurallarına aykırı davranılan
+ilgili maddelerin ve bu aykırı eylemlerin tafsilatını içerir.
+Muhatap, aykırılıkların giderilmesi hususunda da, açık ve anlaşılır
+bir dille ihtar edilir.
+
+(A) Yasanın 15'inci maddesinin (2)'nci fıkrası uyarınca İzin
+Belgesinin veya YEK Belgesinin (geçici olarak iptal
+edildiği hususu, açık ve anlaşılır bir şekilde ve gerekçeli
+olarak ilgili gerçek veya tüzel kişiye yazılı olarak bildirilir.
+
+(B) Yukarıdaki (A) bendi uyarınca yazılı bildirimi alan gerçek
+veya tüzel kişi aykırılıkları ve/veya eksiklikleri
+gidermediği ve faaliyetlerine devam ettiği takdirde
+aleyhine uygulanacak yasal müeyyide hakkında açıkça
+yazılı bildirimde ikaz edilir.
+
+Yasanın 15'inci maddesinin (3)'üncü fikrası uyarınca YEK
+
+Belgesinin nihai olarak iptal edildiği açık ve anlaşılır bir şekilde
+
+ve gerekçeli olarak ilgili gerçek veya tüzel kişiye yazılı olarak
+
+bildirilir.
+
+Yasanın 15’inci maddesinin (3Y'üncü fikrası uyarınca ilgili
+
+tesisteki araç, gerecin müsaderesi veya mühürlenmesi esnasında
+
+tutanak tutulur ve tutanak bu Tüzüğün 16'ncı maddesinin (2)’nci
+fıkrasında belirtilen görevliler ve/veya yetkililer ile tesis sahibi
+veya tesisten sorumlu kişiler tarafından imzalanır; taraflardan
+herhangi birinin tutanağı almaması ve/veya imzalamaması
+durumunda, tutanağı almayan ve/veya imzalamayan tarafların
+tutanağı almama ve/veya imzalamama sebebleri şerh düşülür ve
+
+ilgili tutanağın bir süreti tesise bırakılır. ,
+
+Bu madde uyarınca yapılacak tüm tebligatlar, tesisin bulunduğu
+
+yere, denetime yetkili kişi tarafından, tesis sahibine veya
+
+sorumlusuna imza mukabili teslim edilmek veya tesis sahibi veya
+
+[SAYFA 13]
+Teşvikler
+
+Mahsuplaşma
+
+(Net-
+Metering)
+
+18.
+
+191
+
+d)
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+475
+
+tesis sorumlusunun tebligatı almayı ve/veya imzalamayı kabul
+etmediği durumlarda ise ilgili tebligat tesise bırakılmak suretiyle
+yapılır.
+
+Teşvik çeşitleri ve bunların uygulanması aşağıdaki bentlerde
+
+belirtildiği gibidir:
+
+(A) Tesis Yatırımının Finansmanı; Bakanlık, yenilenebilir
+enerji kaynaklarından enerji üretebilmek ve bu enerjinin
+kamusal bir şebekeye aktarımını sağlamak amacıyla ticari
+amaçla kurulacak olan tesislerin dışındaki tesislere
+maliyetinin %25’ine (yüzde yirmi beş) kadar olan kısmını
+geri ödemesiz yardımlar yoluyla her yıl içerisinde Bakanlık
+bütçesinde oluşturulacak bir kalemden teşvik olarak
+ödeyebilir. Bu teşviğin usul ve esasları Kurul tarafından
+hazırlanıp Bakanlık tarafından önerilen ve Bakanlar Kurulu
+tarafından onaylanarak Resmi Gazete'de yayımlanacak
+Yönetmelik uyarınca verilir.
+
+(B) Mahsuplasma; Kurum tüketicisinin, yenilenebilir enerji
+kaynaklarından ürettiği ve kamusal bir şebekeye aktardığı
+elektrik enerjisinin kWh olarak belirlenen miktarının,
+tükettiği enerjinin kWh olarak belirlenen miktarından (veya
+tam tersi) mahsup edilmesi yoluyla sağlanan ve bu
+Tüzüğün 19'uncu maddesinde belirtilen teşviği anlatır.
+
+Bakanlık, tesis yatırımını finanse edip etmeyeceğini, her yıl sonu
+
+bir sonraki yılın bütçesinin durumuna göre belirler ve ilan eder.
+
+Yukarıdaki (1)’inci fıkrasının (A) bendinde belirtilen -Tesis
+
+Yatıyımının Finansmanı adı altında yapılacak olan teşviklere
+
+ilişkin ödemeler hak ediş usulüne göre yapılır. Bakanlık, hak
+
+edişleri serbest bırakmadan önce, imalat sürecinin gerektiği gibi
+yürütüldüğüne ilişkin Kurulun onayını alır; aksi takdirde, gerekli
+ilerleme sağlanıncaya değin hak edişleri kullandıramaz.
+
+YEK belgesi sahibi Kurum tüketicilerinin, aylık tüketim fazlası
+
+“olarak kurum şebekesine aktardıkları elektrik enerjisi, bir sonraki
+
+aya kWh kredi olarak aktarılır, Kurum şebekesinden fazla elektrik
+enerjisi çekilmesi durumunda fazla çekilen elektrik enerjisi
+faturalanir ve ödenir.
+
+Kurum tüketicisinin, bu madde kuralları kapsamında tüketim
+fazlası olup kredi olarak bir sonraki aya aktardığı kWh fazlası
+oluşursa, Kurum tüketicisinin Şubat ayı içerisinde, en geç Şubat
+ayı sonu itibari ile yazılı talep etmesi durumunda bu fazlalık her
+yılın Mart ayı içerisinde Kurum tüketicisinin tüketim fazlasının
+ortaya çıktığı aydaki yürürlükteki en düşük kurum tarifesinden
+ödenebilir.
+
+Kurum .tüketicisinin yukarıdaki (2)’nci fıkra uyarınca talebi
+olmaması durumunda ürettiği fazla elektrik enerjisi kWh olarak
+bir sonraki aya aktarılmak suretiyle tüketicinin mahsuplaşması
+kWh olarak devam eder. i
+
+Şebekenin mahsuplaşma şeklinde kullanım bedeli Kurumun
+
+[SAYFA 14]
+476
+
+önerisi ile Kurul tarafından belirlenir ve Bakanlığın onayı ile
+
+yürürlüğe girer.
+
+(5) Kurum tüketicisinin tüketim noktasından başka bir yerdeki tesiste
+yenilenebilir enerji kaynaklarından ürettiği elektriği Kurum
+şebekesine aktarması, mahsuplaşmaya engel değildir.
+
+Ancak, böyle bir durumda, tüketicinin Kurum şebekesine
+aktardığı elektrik enerji miktarı üzerinden % 10 (yüzde on)
+nispetinde, iletim ve şebeke kaybı için kesinti yapılır ve bu surette
+ortaya çıkan kWh cinsinden elektik enerjisi Omiktarı-
+mahsuplaşmada esas alınır.
+
+(6) o Mahsuplaşmanın sonlandırılması;
+
+(A) (a) Üretim noktasında yapılan tüketimlerde mahsuplaşma
+abonelik  sonlandırılacağında kWh olarak aylık
+mahsuplaşma yapıldıktan sonra, kurum şebekesinden
+fazla eneji çekilmesi durumunda bu enerji
+faturalandırılarak tüketici tarafından ödendikten sonra
+mahsuplaşma sonlandırılır.
+
+Ancak mahsuplaşma sonrası tüketicinin üretim
+fazlası olması durumunda, bu fazlalık, tüketim
+fazlasının ortaya (oçıktığı aydaki Kurumun
+tüketicilerine uyguladığı en düşük tarife üzerinden
+ücretlendirilerek Kurum tarafından tüketiciye ödeme
+yapılır ve mahsuplaşma sonlandırılır.
+
+(b) Yukarıdaki (a) alt bendi uyarınca yapılacak olan
+sonlandırmada sistem farklı bir aboneye aktarılarak
+YEK Belgesi başvurusu yapılabilir. Aksi halde kurulu
+olan sistem hiçbir şekilde kullanılamaz.
+
+(B) (a) Üretim noktasından başka yerde yapılan tüketimde
+mahsuplaşma; abonelik sonlandırılacağında kWh
+olarak aylık mahsuplaşma yapıldıktan sonra, kurum
+şebekesinden fazla enerji çekilmesi durumunda bu
+enerji O faturalandınılarak tüketici Ooo tarafından
+ödendikten sonra mahsuplaşma sonlandırılır.
+
+Ancak mahsuplaşma sonrası tüketicinin üretim
+fazlası olması durumunda, bu fazlalık, Kurum
+tüketicisinin tüketim fazlasının ortaya çıktığı aydaki
+yürürlükteki Kurumun tüketicilerine uyguladığı en
+düşük tarife üzerinden, ücretlendirilerek, Kurum
+tarafından tüketiciye ödeme yapılır ve mahsuplaşma
+sonlandırılır.
+
+(b) Yukarıdaki (a) alt bendi uyarınca yapılacak olan
+sonlandırmada sistem ayni aboneye ait başka bir
+tüketim noktasına veya sistemi farklı bir aboneye
+aktararak YEK Belgesi başvurusu yapılabilir. Aksi
+halde kurulu olan sistem hiçbir şekilde kullanılamaz.
+
+(C) o Yukardaki (A) ve (B) bentlerinde belirtilen Kurum
+
+tüketicisinin ilgili aboneliği borçsuz olarak sona ermedikçe
+
+veya sona erdirilmedikçe, kredi olarak birikmiş elektrik
+enerjisi karşılığı ilgili Kurum tüketicisine ödenmez.
+
+[SAYFA 15]
+Kurulun. 20.
+
+Çalışma
+Usulleri
+
+Yürürlükten 21.
+
+Kaldırma
+30.11.2015
+R.G.174
+EKM
+A.E.761
+
+Geçici 1.
+Madde
+Yürürlükten
+Kaldırılan
+Tüzükte
+Konut Dışı
+Yapılarda
+Kendi
+İhityacı İçin
+YEK
+Belgesine
+Sahip
+Olanlara
+İlşikin
+Mahsuplaşma
+
+Yürütme 22,
+
+Yetkisi
+
+Yürürlüğe 23;
+
+Giriş
+
+> 477
+
+(1) Kurul, Başkanın yazılı çağrısı üzerine ve en az ayda bir kez
+toplanır. Başkanın yokluğunda Başkanın görevlendireceği bir üye
+toplantıya başkanlık eder.
+
+(2) o Toplantı yeter sayısı üye tamsayısının salt çoğunluğudur. Kurul,
+kararlarını toplantıya katılan üyelerinin basit çoğunluğu ile alır.
+Oyların eşitliği halinde görüşülen konu reddedilmiş sayılır.
+
+(3) Toplantı yer, saat ve gündemi, Bakanlık tarafından üyelere
+önceden bildirilir.
+
+(4) Kurul toplantılarına ilişkin tutanaklar, Kurul sekreleryası
+tarafından tutulur ve her tutanağın ve kararın altı, toplantıya
+katılan Kurul üyeleri tarafından imzalanır.
+
+(59 Kurul kararlarına katılmayan üyenin, karara katılmama
+gerekçeleri tutanaklara geçirilir.
+
+DÖRDÜNCÜ KISIM
+Geçici ve Son Kurallar
+
+Bu Tüzüğün yürürlüğe girdiği tarihten başlayarak Yenilenebilir Enerji
+(Uygulama ve Denetim) Tüzüğü konu Tüzük uyarınca yapılan
+işlemlerin geçerliliği saklı kalmak koşuluyla yürürlükten kaldırılır.
+
+Bu Tüzüğün yürürlüğe girdiği tarihten başlanarak konut dışı yapılarda
+kendi ihtiyacı için YEK Belgesi almış olan gerçek ve/veya tüzel
+kişilerin Bakanlığa bir yıl içerisinde başvuru yapmaları durumunda
+YEK Belgelerinin mahsuplaşma olarak düzenlenmesi ile bu Tüzüğün
+yürürlüğe girdiği tarihten başlayarak mahsuplaşma yapabileccklerdir.
+Bu süre içerisinde başvuru yapmayan YEK Belgesi sahibi olan gerçek
+ve/veya tüzel kişilerin daha sonra başvuru yapmaları durumunda
+başvuru yaptıkları tarihten itibaren mahsuplaşmaları başlayabilecektir.
+
+Bu Tüzük, Bakanlık tarafından yürütülür.
+
+”
+
+Bu Tüzük, Resmi Gazete'de yayımlandığı tarihten başlayarak yürürlüğe
+girer.

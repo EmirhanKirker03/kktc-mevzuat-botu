@@ -1,0 +1,227 @@
+[SAYFA 1]
+Sayı:8
+
+KENT GÜVENLİK YÖNETİM SİSTEMİ YASASI
+(31/2018 Sayılı Yasa)
+
+Madde 16 Altmda Yapılan Tüzük
+
+Kuzey Kıbrıs Türk Cumhuriyeti Bakanlar Kurulu Kent Güvenlik Yönetim Sistemi Yasası'nın 16'ncı
+maddesinin (2)'nci fıkrasının kendisine verdiği yetkiye dayanarak aşağıdaki Tüzüğü yapar:
+
+Kısa İsim it
+Tefsir 2
+31/2018
+
+Amaç 35
+Kapsam 4.
+
+Bu Tüzük, Kent Güvenlik Yönetim SistemleriBilgi Levhalarının Ebatları,Şekli ve
+İçeriği Tüzüğü olarak isimlendirilir.
+
+BİRİNCİ KISIM
+GENEL KURALLAR
+
+Bu Tüzük metni başka türlü gerektirmedikçe;
+
+“Bilişim Sistemi”, Yasa'nın 2'nci maddesinde düzenlenen tanımı anlatır.
+“KGYS”,Yasa'nın 2'nci maddesinde tanımlanan “Kent Güvenlik Yönetim
+Sistemleri”ni anlatır.
+
+“Yasa”, Kent Güvenlik Yönetim Sistemi Yasası'nı anlatır.
+
+Bu Tüzüğün amacı, Kent Güvenlik Sistemi’nde kurulacak olan Bilişim Sistemlerini
+gösteren Bilgi Levhalarının konulacağı yerleri ileikaz, yazı, işaret ve/veya tabela
+standartları ile bu levhaların ebatları, şekil, renk, imalat malzemesi ve içeriği ile
+ilgili kuralların belirlenmesidir.
+
+Bu Tüzük, Kent Güvenlik Sistemi'nde kurulacak olan Bilişim Sistemlerini gösteren
+
+Bilgi Levhalarının konulacağı yerleri ileebatlarını, şeklini, rengini, imalat
+malzemesini ve içeriğini kapsamaktadır.
+
+İKİNCİ KISIM
+
+İKAZ,İŞARET VE/VEYA TABELALARIN MONTE EDİLECEĞİ YERLER İLE ÖLÇÜ, TİP VE
+
+İkaz, Yazı, Şi
+
+İşaret ve/veya
+Tabelaların
+Konulacağı
+Yerler
+
+MODELLERİ
+
+KGYS kapsamında ada genelinde kurulacak olan izleme, kontrol, sabit ve/veya
+seyyar radar sistemleri iletrafik ışık ihlal sistemlerinin bulunduğu noktaları gösteren
+İkaz, yazı, işaret ve/veya tabela yerleri aşağıda belirtildiği gibi olacaktır:
+
+(1) ikaz, yazı, işaret ve/veya tabelalar, taşıt, yaya ve trafik güvenliğini riske
+sokmayacak şekilde, uygun noktalara konur.
+
+(2) o KG?S'nin kurulduğu her ilçenin sınırının başlangıç noktalarına bu Tüzüğe
+ekli “Cetvel A” Tip I'deki ikaz işareti konur.
+
+(3) o KGYS ile izlemesi yapılacak anayol ve/veya bölünmüş yol, araç geçişi olan
+yol ile araç geçişlerinin olmadığı yerlerdeki kamera yaklaşımlarında, yol ve
+trafiğin uygunluk durumuna göre, 0 metre ile 150 metre aralığına bu Tüzüğe
+ekli “Cetvel A” Tip 2’deki ikaz işareti konur.
+
+(4) — Sabit Radar uygulaması, yol ve trafiğin uygunluk durumuna göre, sabit radar
+
+[SAYFA 2]
+İkaz, Yazı,
+İşaret ve/veya
+Tabelaların
+Renk, Ebat,
+Yazı, İşaret,
+Şekil ve
+İçerikleri
+
+6.
+
+6)
+
+(6)
+
+(7)
+
+(8)
+
+22
+
+-yaklaşımlarına 50 metre ile 150 metre aralığına, bu Tüzüğe ekli “Cetvel B”
+de belirtilen Tip 1 veya Tip 2'deki ikaz işareti konur.
+Yol boyu hareketli (seyyar) radar kontrolü uygulaması yapılan tüm yollarda,
+radar uygulamasının yapıldığı yolu tarif eden tabela yolun başladığı yerden
+veya trafik güvenliğini riske sokmayacak mesafeden itibarenbu Tüzüğe
+ekli"“Cetvel B” de belirtilen Tip 3?deki ikaz işareti konur.
+Araç geçişinin az veya hiç olmadığı, sadece yaya geçişlerinin olduğu
+noktalara bu Tüzüğe ekli “Cetvel A”, Tip 3? deki ikaz işareti kamera direği
+zerine konur.
+Noktadan noktaya ortalama hız kontrolü yapılan tüm yollarda deretimin
+başlangıç noktasındaki kamera direği üzerinebu Tüzüğe ekli “Cetvei R”, Tip
+4'deki ikaz işareti konur. :
+sane sa açık alanı görüntüleyen sabit kamera sistemlerinin kurulu olğuğa
+éxxaya bu Tüzüğe ekli Cetvel C, Tip 1*deki ikaz işareti konur. ,
+
+KGYS kapsamında ada genelinde kurulacak olan izleme, kontrol, sabit vefveya ”
+seyyar radar sistemleri ile, trafik ışık ihlal sistemlerinin bulunduğu noktaları
+gösteren ikaz, yazı, işaret ve/veya tabelaların renk, ebat, yazı, işaret, pel ve
+içerikleri aşağıda belirtildiği gibi olur:
+
+(1)
+
+(2)
+
+Bu Tüzüğe ekli “Cetvel A” da belirtilen ikaz işareti ölçü ve içeriği aşağıdaki
+gibidir;
+
+(A) Tip Vdeki ikaz işareti, yansıtıcı özellikli, 100x200 cm. ebatlarında,
+alüminyum kompozitten imal edilmiş olup, beyaz zemin üzerine siyah
+renkli fosforlu, levhaya uyumlu yazı boyutuyla “Kent Güvenlik
+Yönetim Sistemi ile İzlenmekte ve Kayıt Altına Alınmaktadır” ibaresi
+yazılır.
+
+(B) Tip 2'deki ikaz işareti, yansıtıcı özellikli, 60x80 cm. ebatlarında,
+alüminyum kompozitten imal edilir, beyaz zemin üzerine siyah ve sarı
+renkli levhaya uyumlu yazı boyutu kullanılır.
+
+(C) Tip 3'deki ikaz işareti yansıtıcı özellikli, 60x60 cm ebatlarında,
+alüminyum kompozitten imal edilmiş olup, beyaz zemin üzerine siyah
+fosforlu, levhaya uyumlu yazı boyutu kullanılır.
+
+Bu Tüzüğe ekli “Cetvel B”de belirtilen ikaz işareti ölçü ve içeriği aşağılaki
+gibidir;
+
+(A) . Tip deki ikaz işareti, yansıtıcı özellikli, alüminyum kompoxiven imal
+edilmiş olup, 80x140 cm, ebatlarında, levhaya uyumlu yarı boyutu ve
+nız sınırı belirtilerek konur.
+
+(B) Tip 2'deki ikaz işareti yansıtıcı özellikli, sabit görüntülü radar kamera
+ikaz işareti, 60x60 cm, ebatlarında, alüminyum kompoziifen isi edilir
+ve mavi çerçeve üzerine, beyaz zemin ve siyah renkte uluslars"ısı radar
+simsesi konur.
+
+(C) Tip 3'deki ikaz işareti hareketli (seyyar) radar uygulaması yapılan
+yerlerde -yansıtıcı özellikli 80x140 cm. ebatlarında alüminyunı
+kompozitten imal edilir.
+
+[SAYFA 3]
+Geçici Madde
+.Msvcut
+Tebelalar
+
+Yürütme .
+Yetkisi
+
+Yürürlüğe Giriş
+
+dl,
+
+a EN er ey
+
+(D) Tip 4’deki ikaz işareti, yansıtıcı özellikli, 80x140 cm. ebatlarında,
+alüminyum kompozitten imal edilir ve beyaz zemin üzerine mavi
+renkli, levhaya uyumlu yazı boyutu kullanılır.
+
+(3) Bu Tüzüğe ekii “Cetvel C Tip 1”de belirtilen ikaz işareti 15x15 cm ebatlarında
+beyaz zemin üzerine siyah renkli levhaya uyumlu boyutla Uluslararası Kamere
+işareti konur.
+
+_ ÜÇÜNCÜ KISIM
+GEÇİCİ VE SON KURALLAR
+
+Bu Tüzüğün yürürlüğe girdiği #ihten önce konulan ve bu T üzük altında belirtilen
+tabela ve uyarı isaretieri değiştirilmeden, mevcut olduğu yerlerde kalır.
+
+Bu'Tüzüğü Bakanlar Kurulu adına Başbakanlık yürütür,
+
+Bu Tüzük, Resmi Gazete'de yayımlandığı tarihten başlayarak yürürlüğe girer.
+
+[SAYFA 4]
+24
+CETVELA
+
+Kent Güvenlik Yönetim Sistemi ile
+
+izlenmekte ve Kayıt Altına Alınmaktadır
+
+2. TİP 2:
+
+KGYS
+>
+
+Ad DİKKAT:
+
+) Saat izleme ©
+ve kayıt.
+
+[SAYFA 5]
+25
+
+Saat izleme 4
+ve kayıt. 4
+
+[SAYFA 6]
+26
+
+CETVELB
+
+2. TİP2:
+
+[SAYFA 7]
+217
+
+# 2asaaryoL İİ
+İİ BOYU RADAR |
+| KONTROL [@
+
+NOKTADAN
+NOKTAYA
+RADAR >
+| _KONTROL fae
+
+[SAYFA 8]
+CETVEL C

@@ -1,0 +1,90 @@
+[SAYFA 1]
+1387
+Sayı: 595
+
+TELEKOMÜNİKASYON SERVİSİ YASASI
+(Fasıl 302, 20/1960, 34/1962 ve 25/1963 Sayılı Yasalar
+49'üncü Madde Altında Tüzük
+
+Bakanlar Kurulu, Fasıl 302 sayılı Telekomünikasyon Servisi Yasası'nın
+43'üncü maddesinin verdiği yetkiye dayanarak aşağıdaki Tüzüğü yapar:
+
+Kısa İsim 1. Bu Tüzük, “Telekomünikasyon Hizmetleri Ücretleri ve
+
+R.G31 Uygulama (Değişiklik) Tüzüğü” olarak isimlendirilir ve aşağıda
+wees “Esas Tüzük” olarak anılan Telekomünikasyon Hizmetleri
+AE 9$ Ücretleri ve Uygulama Tüzüğü ile birlikte okunur.
+
+Esas 2. Esas Tüzüğe ekli cetvelde yer alan Kısım II ve Kısım İN
+Tüzüğün kaldırılmak ve yerlerine bu Tüzüğe ekli Kısım II ve Kısım İH
+2'nci konmak suretiyle değiştirilir.
+
+Maddesinin.
+
+Değiştirilmesi
+
+CETVEL
+
+Yürürlüğe 3. Bu Tüzük, Resmi Gazete'de yayımlandığı tarihten başlayarak
+Giriş yürürlüğe girer.
+
+a
+TESİS, KİRA VE SABİT ÜCRETLER
+
+Tesis
+Servisler Ücreti | KiraÜcreti | Açıklama
+1 | Telefon tarifesi 26.50 TL | 10.00 TL/Ay
+2 ISDN TAfdRİFESİ
+İz BA tarifesi(Basic Access) §3.00 TL | 20.00 TL/Ay
+2 |PRA Tarifesi(Primary Rate
+2| Access)
+
+Ada içi lokal görüşmeler (PSTN>PSTN)
+
+a- | Ses amaçlı PRA 795.00 TL | 300.00 TL/Ay | 1500 kontör muaf.
+b- | Dial-up internet amaçlı PRA | 795.00 TL| 100.00 TL/Ay
+3) Trank modülü tarifesi ~ (795.00TL| 300,00 TL/Ay
+4 | Teleks tarifesi 72 00TL| 96.00 TLYYI
+5|ADSL ve G.SHDSL tarifeleri
+5. | ADSL internet erişimi
+1 | tarifesi 25.00 TL | 15.00 TL/Ay
+5 |G.SHDSL intemet erişimi
+2 | tarifesi 50.00 TL | 50.00 TUAy
+
+[SAYFA 2]
+1388
+
+KISIM I |
+TELEFON KONUŞMA ÜCRETLERİ
+
+1.KONUŞMA ÜCRETLERİ
+
+Kontör atış süresi Konuşma ücretleri
+Aranılan yön ve Numaralar (sn) (TL/dk)
+Normal | İndirimli Normal İndirimli
+1.1} Ada içi sabit konuşmalar
+O-| PSTN'den PSTN'e 80 0 0.03 TLidk | ücretsiz
+b- | PSTN'den Vodafon'a 12 12 0.20 TU/dk | 0.20 TL/dk
+c-| PSTN’den:- KMT'ye 412 12 0.20 TL/idk | 0.20 TL/dk
+1,2 | Özel servis numaralarına erişim ücreti
+a- | 444XXXX 60 6a 0.04 TU/dk | 9.04 TL/dk
+b- | 900 OXXXXXXK 15 1,5 1.60 Ti/dk | 1.60 TL/dk
+c- | 900 8XXXXXX 1 1 2.40 TUdk | 2.40 T/dk
+d- | 900 SXXXXXX 2 2 1.20 TLidk | 1.20 TL/dk
+@- | 900 3XXXXXX 06 06 4.00 Tijdk | 400 TL/dk
+f-| 800'lü hatlar ücretsiz | ücretsiz
+g- 101,112,117,121,123,124,141,144,151,155, ücretsiz ücretsiz
+156,177.157,158,161,163,171,181,197,199
+h-|116,140,150,165,165,168,178,184,185,186,188,196| 80 80 0.03 TL/dk | 0.03 TLidk
+t- | 192 12 12 0.20 Ti/dk | 0.20 TUdk
+i- | (11XX)'li numaralar ve 153 60 60 0.04 TL/dk | 0.04 TL/dk
+j- | 4XX (internet erişim servisi) 600 600 0.004TL/dk | 0.004 TU/dk
+
+Not:
+Kot.
+İndirimli ücretler;
+
+Pazartesi, Salı, Çarşamba, Perşembe,Cuma,ve Cumartesi günleri, 19 00-07.00 saatleri arası gerçekleşen tüm
+lokal görüşmeler (PSTN>PSTN) ücretsiz olarak uygulanır. .
+
+Pazar günleri gerçekleşen tüm fokal görüşmeler (PSTN>PSTN) ücretsiz olarak uygulanır.

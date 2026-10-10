@@ -1,0 +1,1051 @@
+[SAYFA 1]
+KUZEY KIBRIS TÜRK CUMHURİYETİ
+RESMI GAZETE
+
+Sayı: 36 _EK HI 17 Şubat, 2014
+TEBLİĞ VE İLANLAR
+
+Sayı: 124
+
+Çevre Yasası
+(18/2012 Sayılı Yasa)
+36.1.B Madde altında Tüzük
+
+Kuzey Kıbrıs Türk Cumhuriyeti Bakanlar Kurulu, Çevre Yasası'nın 36'ıncı maddesinin
+(1) inci Fıkrasının (B) bendinin kendisine verdiği yetkiye dayanarak aşağıdaki Tüzüğü yapar:
+
+Kısa 1. Bu Tüzük, “Büyük Yakma Tesislerinden Kaynaklanan Hava Kirletici
+İsim Emisyonlarının Sınırlandırılması Tüzüğü” olarak isimlendirilir.
+
+(349)
+
+[SAYFA 2]
+Tefsir
+
+350
+BİRİNCİ KISIM
+
+Genel Kurallar
+
+Bu Tüzükte metin başka türlü gerektirmedikçe;
+
+“Atık Gazlar ”, katı, sıvı veya gaz emisyonlar içeren gaz halinde salınımları
+( hacimsel debileri, su buharı düzeltmeleri yapıldıktan sonra standart
+sıcaklıkta (273.15 K) ve basınçta (101.3 kPa) metreküp bölü saat olarak
+ifade edilecek ve bundan böyle (Nm3/h) olarak anılacaktır) anlatır.
+
+“Baca”, atık gazların havaya verilmesi için bir veya birden fazla boru ile
+çıkış sağlayan yapıyı anlatır.
+
+“Bakanlık”, Çevre işleri ile görevli Bakanlığı anlatır.
+
+“Biyokütle”,
+(1) Tarım veya ormancılıktan elde edilmiş olup enerji içeriğinden
+yararlanmak için yakıt olarak kullanılan herhangi bir bitkisel
+materyal içeren ürünleri veya
+
+(2) Tarım ve ormancılıktan gelen bitkisel atıklar veya
+
+(3) Oluşan ısı elde edilmişse besin işleme endüstrisinden gelen bitkisel
+atıklar veya
+
+(4) Üretim yerinde birlikte yakılmış ve oluşan 1s1 elde edilmişse, ham
+selüloz üretiminden ve hamurdan kâğıt üretiminden gelen lifli
+bitkisel atıklar veya
+
+(5) Mantar atıkları veya
+
+(6) Ağaç koruyucu maddeleri veya kaplamalarla işlemden geçirme
+nedeniyle halojenli organik bileşikler veya ağır metaller
+içerebilecek ağaç atıkları dışında ağaç atıkları (özellikle inşaat veya
+yıkım atıklarından kaynaklı ağaç atıkları haricindeki ağaç atıkları)
+anlatır.
+
+[SAYFA 3]
+18/2012
+
+351
+
+“CEN”, Avrupa Standardizasyon Komitesini anlatır.
+
+“Çift veya Çoklu Yakıt Yakan Tesisler” aynı anda veya değişimli olarak iki
+veya daha fazla yakıt ile ateşlenebilen yakma tesislerini anlatır.
+“Daire”, Çevre Koruma Dairesini anlatır.
+
+“Dizel Motor”, dizel çevrimine göre çalışan ve yakıtı yakmak için
+sıkıştırma ateşlemesi kullanan içten yanmalı motoru anlatır.
+
+“Doğal Gaz”, asal gazlar ve diğer içeriği hacimsel olarak % 20'sinden
+(yüzde yirmi) fazla olmayan, doğal yollardan oluşan metan gazını anlatır.
+
+“Emisyon”, maddelerin yakma tesisinden havaya salınmasını anlatır.
+
+“Emisyon Sınır Değeri”, bu Tüzüğün 14'üncü maddesinde belirtilen süreler
+içerisinde yakma tesisinde havaya boşaltılan atık gazların içinde bir
+maddenin bulunmasına izin verilen konsantrasyonu; sıvı ve gaz yakıtlarda
+% 3 (yüzde üç), katı yakıtlarda % 6 (yüzde altı), gaz türbinlerinde ve dizel
+motorlarda % 15 (yüzde onbeş) oranında oksijen olduğu varsayılarak,
+mg/Nm3 olarak ifade edilen kütle bölü atık gazın hacmi olarak hesaplanan
+değeri anlatır.
+
+“EN 14181 Standardı”, sabit kaynak emisyonları - otomatik ölçme
+sistemlerinin kalite güvencesi standardını anlatır.
+
+“Gaz Motoru”, Otto çevrimine göre işleyen ve kıvılcım ateşlemesi veya çift
+yakıtlı motor ise sıkıştırma ateşlemesi kullanan içten yanmalı motoru
+anlatır.
+
+“Gaz Türbini”, termik enerjiyi mekanik işe çeviren, çoğunlukla bir
+kompresör, yakıtın okside edilerek çalışan sıvıyı ısıttığı termik bir cihaz ve
+bir türbinden oluşan dönen makinelerin tümünü anlatır.
+
+“ISO”, Uluslararası Standardizasyon Teşkilatını anlatır.
+
+“İşletim Saatleri (ömrü)”, açılış ve kapanış süreleri hariç, yakma tesisinin
+tamamen veya kısmen çalışarak havaya emisyon biraktığı zamanın saat
+olarak ifade edilmesini anlatır.
+
+“İşletmeci”, yakma tesisini veya dizel motoru işleten gerçek veya tüzel kişi,
+veya yakma tesisi veya dizel motor üzerinde ekonomik karar verme gücü
+olan kişiyi anlatır.
+
+“İzin”, Çevre Yasası altında alınan her türlü izni anlatır.
+
+“Kükürt Giderme Oranı”, bu Tüzüğün 14'üncü maddesinde belirtilen
+süreler içerisinde yakma tesisinde havaya salınmayan kükürt miktarının
+aynı süre içerisinde yakma tesisine sunulan ve kullanılan yakıtın içinde
+bulunan kükürt miktarına olan oranını anlatır.
+
+“Mevcut Tesis”, Bu Tüzük yürürlüğe girmeden önce işletme ruhsatı alan
+veya faaliyetlerine başlayan yakma tesisini ve dizel motorunu anlatır.
+“Reaktör”, Bir katalizör yardımıyla kimyasal tepkime yaparak üretim elde
+edilen endüstri kuruluşunu anlatır.
+
+“Yakıt”, yakma tesisini ateşlemeye yarayan katı, sıvı veya gaz halindeki
+yanıcı maddeleri anlatır.
+
+“Yakıt Isıl Gücü (Termal Girdi)”, bir yakma tesisinde birim zamanda
+yakılan yakıt miktarının yakıt alt ısıl değeriyle çarpılması sonucu bulunan
+asıl güç değerini anlatır.
+
+“Yakma Tesisi”, yakıtları okside ederek oluşan ısının kullanıldığı teknik
+
+[SAYFA 4]
+Amaç
+
+Kapsam
+
+3.
+
+4.
+
+352
+
+cihazları ve bu Tüzük amaçları bakımından ayni zamanda dizel motorları
+
+anlatır.
+
+“Yeni Tesis”, Bu Tüzük yürürlüğe girdiği tarihte veya sonrasında işletme
+ruhsatı alan veya faaliyetlerine başlayan yakma tesisini ve dizel motorunu
+
+anlatır.
+
+Bu Tüzüğün amacı; büyük yakma tesislerinden havaya salınan kirletici
+emisyonlara sınırlamalar getirmektir.
+
+(1) Bu Tüzük, hangi tür yakıt kullanıldığına bakılmaksızın, ölçülmüş
+toplam termal girdisi en az 50 MW (mega watt) olan yakma
+tesisleri ve dizel motorları kapsar. ;
+
+2) (A)
+
+B)
+
+Yukarıdaki (1)’inci fikrada belirtilen tesisin birden fazla
+olması halinde, bu tesislerin birleşiminin ölçülmüş toplam
+termal girdisi hesaplanırken her bir bireysel tesisin ölçülmüş
+toplam termal girdisi en az 15 MW (mega watt) olmalıdır.
+
+Birden fazla tesisin birleşmiş toplam termal girdisi
+hesaplanırken ölçülmüş toplam termal girdisi 15 MW altında
+olan bireysel yakma tesisleri ve dizel motorları dikkate
+alınmaz.
+
+(3) Bu Tüzük, sadece enerji üretimi için inşa edilen yakma tesisleri ve
+dizel motorları kapsamakta olup yakma ürünlerini doğrudan
+üretimde kullanan tesisler ile aşağıda belirtilenleri kapsamaz:
+
+(A)
+
+(B)
+
+(C)
+
+(©)
+
+(D)
+()
+®)
+
+Yakma ürünlerinin doğrudan ısıtma, kurutma veya başka
+maddeler ve malzemelerin elden geçirilmesi için kullanılan
+tesisler.
+
+Atık gazların yakılarak arındırılması için tasarlanan ancak
+bağımsız yakma tesisleri olarak işletilmeyen tesisler gibi
+yakma sonrası tesisler.
+
+Katalitik parçalayıcı katalizörlerinin rejenerasyonu için
+kullanılan tesisler.
+
+Hidrojen kükürtün, kükürte dönüştürülmesi için kullanılan
+tesisler.
+
+Kimya endüstrisinde kullanılan reaktörler.
+Kok batarya fırını.
+
+Herhangi bir araç, gemi veya uçağın çalıştırılması için
+kullanılan teknik cihaz.
+
+[SAYFA 5]
+353
+yopama 5. (1) İki veya daha fazla bağımsız yakma tesisinin atık gazları ortak bir
+bacadan salınıyorsa bu tesisler tek bir yakma tesisi gibi
+kabul edilir ve ölçülmüş toplam termal girdi hesaplamasında
+kapasiteleri birbirine eklenir.
+
+(2) Iki veya daha fazla bağımsız dizel motorun atık gazları ortak bir
+bacadan salınıyorsa bu motorlar tek bir yakma tesisi gibi
+kabul edilir ve ölçülmüş toplam termal girdi hesaplamasında
+kapasiteleri birbirine eklenir.
+
+(3) İki veya daha fazla bağımsız tesisin ve/veya bağımsız dizel motorun,
+teknik ve ekonomik faktörlerin göz önüne alınması sonucunda
+Dairenin değerlendirmesi ışığında atık gazların aynı bacadan
+atmosfere verilmesi halinde, bu tesisler ve dizel motorlar tek bir
+yakma tesisi olarak kabul edilir ve ölçülmüş toplam termal girdi
+
+hesaplamasında kapasiteleri birbirine eklenir.
+
+(4) Yukarıdaki (1'inci, (2)’nei ve (3)'üncü fikralarda belirtilen
+ayrı tesislerin ölçülmüş toplam termal girdisi hesaplarurken
+her bir ayrı tesis veya dizel motor için ölçülmüş toplam termal
+girdisi 15 MW altında olan yakma tesisleri veya dizel motoru
+
+dikkate alınmaz.
+
+İKİNCİ KISIM
+
+Yakma Tesislerinin Faaliyetlerine ve Emisyon Sınır Değerlerine İlişkin Düzenlemeler
+
+Mevcut 6. (1) Bu Tüzük yürürlüğe girmeden önce işletme ruhsatı alan veya
+
+Tesislere faaliyetlerine başlayan yakma tesisleri ile dizel motorları mevcut tesis
+İlişkin kapsamındadır.
+
+Düzenle
+
+meler
+
+(2) Yukarıdaki (1)'inci fıkra kapsamında olan bir mevcut tesisin bu Tüzük
+yürürlüğe girdikten sonra kapasitesini ölçülmüş toplam termal girdi
+olarak enaz 15 MW artırması halinde, kapasite artırımına neden olan
+
+[SAYFA 6]
+(3)
+
+Sıw Yakıt 7. (1)
+Kullanan
+
+Mevcut
+
+Tesislere
+
+Ait
+
+Emisyon
+
+Sınırları
+
+2)
+
+Yeni 8. qd)
+Tesislere
+
+Ait
+
+Emisyon
+
+Sınırları
+
+354
+bu kısım yeni tesis sınıfına girmekte olup, bu Tüzükteki yeni tesislerle
+ilgili kurallara tabi olur ve kapasite artırımına neden olan bu kısımla
+ilgili emisyon sınır değeri tesisin tamamının ölçülmüş toplam
+girdisine(yakit ısıl güç kapasitesine) göre belirlenir.
+Yukarıdaki (2'nci fıkrada belirtilen ve kapasite artırımına neden olan
+kısmın atık gazlarının, yakma tesisinin mevcut bacasima bağlanıp
+salınması halinde; sözkonusu bacadan salınan gazlar için bu Tüzüğe
+ekli Ek-II’deki sınır değerler geçerli olup emisyon sınır değeri ortak
+bacaya bağlı olan unitelerin tamamının ölçülmüş toplam girdisine göre
+belirlenir.
+Dizel motorlar dahil sıvı yakıt kullanan mevcut yakma tesisleri bu
+Tüzüğe ekli Ek-I’de yer alan emisyon sınır değerlerini sağlamak
+zorundadır.
+
+Yukarıdaki (1)’inci fikrada belirtilen emisyon sınır değerleri, sıvı yakıt
+kullanan mevcut yakma tesisinin tamamındaki toplam termal girdi
+üzerinden her bir ortak bacadan yapılan emisyon salınımları için
+geçerlidir.
+
+Bu Tüzük yürürlüğe girdiği tarihte veya sonrasında işletme ruhsatı alan
+veya faaliyetlerine başlayan yakma tesisleri bu Tüzüğe ekli Ek-H’de yer
+alan emisyon sınır değerlerini sağlamak zorundadır.
+
+Yukarıdaki (1Y'inci fikrada belirtilen emisyon sınır değerleri, yakma
+tesisinin tamamındaki toplam termal girdi üzerinden her bir ortak
+bacadan yapılan emisyon salınımları için geçerlidir.
+
+ÜÇÜNCÜ KISIM
+
+Tesislerin Kapasitelerinin Artırılması ve/veya Önemli Ölçüde Değiştirilmesi ve Diğer
+
+Yakma Tesisinin 9.
+Kapasitesinin
+Artırılması
+
+Gereklilikler
+
+() Bir yakma tesisinin kapasitesinin termal girdi olarak en az 15
+MW artırılması halinde, bu Tüzüğe ekli Ek-2'de belirtilen
+emisyon sınır değerleri tesisin yeni bölümüne uygulanır ve tesisin
+tamamının ısıl kapasitesine göre belirlenir.
+
+(0) Yukarıdaki (1)’nci fıkrada belirtilen ve kapasite artırımına neden
+olan kısmın atık gazlarının, yakma tesisinin mevcut bacasına
+bağlanıp salınması halinde; sözkonusu bacadan salınan gazlar için
+bu Tüzüğe ekli Ek-II’deki sınır değerler geçerli olup emisyon
+sınır değeri ortak bacaya bağlı olan unitelerin tamamının ölçülmüş
+toplam girdisine göre belirlenir.
+
+(3) İşletmecinin, Dairenin çevre ve insanlar üzerinde önemli ölçüde
+olumsuz etkileri olabileceği görüşünde olduğu bir değişiklik
+
+[SAYFA 7]
+Atık Gazın
+Bacadan Atılma
+Koşulları
+
+Baca Gazı
+Arıtma
+Donanımının
+Arızası veya
+Devre dışı
+Kalması
+
+Çift veya Çoklu
+Yakıt Yakan
+Tesisler
+
+10. (1)
+
+2)
+11. (1)
+
+12. (1)
+
+355
+
+planlaması halinde, bu Tüzüğe ekli Ek-II’de belirtilen emisyon
+sınır değerleri uygulanır.
+
+Yakma tesislerinin atık gazları bir baca yardımı ile kontrollü bir
+şekilde bertaraf edilerek sağlık ve çevreyi koruyacak şekilde
+salınır.
+
+Yukarıdaki (1)’inci fıkrada belirtilen bacanın yüksekliği, Dairenin
+talep edeceği kurallara göre hesaplanır.
+
+Baca gazı arıtma donanımının arızası veya devre dışı kalması
+halinde, eğer 24 (yirmi dört) saat içinde normal çalışma şartlarına
+dönüş sağlanmazsa işletmeci kapasiteyi düşürmek veya işletmeyi
+durdurmak veya tesisi düşük kirlilik yayan yakıtlar kullanarak
+işletmek zorundadır.
+
+İşletmeci yukarıda (1'nci fıkrada belirtilen her durumda Daireyi
+48 (kirksekiz) saat içinde bilgilendirmek zorundadır.
+
+Daire baca gazı amtma donanımının arızası veya devre dışı
+
+kalması halinde gerekli işlemleri izinde belirtir.
+
+Hiç bir şart altında 12 (on iki) aylık bir süreç içinde arıtmasız
+çalışma süresi 120 (yüz yirmi) saati geçemez.
+
+Daire aşağıda belirtilen durumları göz önüne alarak, yukarıdaki
+(1)’nci ve (4)’tincti fıkralarda belirülen 24 (yirmi dört) saat ve 120
+(yüz yirmi) saatlik sınırlar için istisnalara izin verebilir:
+
+(A) Enerji kaynaklarının sürdürülmesi için yüksek derecede
+ihtiyaç bulunması veya
+
+(B) Arızanın yaşandığı tesisin yerine kısıtlı bir süre faaliyet
+gösterecek olan tesisin genel emisyonlarda bir artışa yol
+açacak olması,
+
+Eş zamanlı olarak iki veya daha fazla yakıt kullanan tesisler için
+Daire, emisyon sınır değerlerini aşağıda belirtildiği şekilde
+belirler:
+
+(A) İlk olarak, bu Tüzüğün ikinci ve üçüncü Kısımlarında
+belirtildiği gibi her bir yakıt ve yakma tesisinin yakıt ısıl
+gücüne göre ilgili kirletici madde için emisyon sınır
+değerleri alınır.
+
+(B) İkinci olarak, yakıt-ağırlıklı emisyon sınır değerleri
+belirlenir, bu da yakıtın yukarıda (A) bendine göre bulunan
+kendi emisyon sınır değerlerinin her bir yakıtın sağladığı ısıl
+güç ile çarpılarak ve sonra bu sonucun bütün yakıtlar
+
+[SAYFA 8]
+(C)
+(2) (A)
+
+(B)
+
+356
+
+tarafından sağlanan toplam ısıl güç toplamına bölünmesi
+sonucu elde edilir.
+
+Son olarak yakıt-ağırlıklı sınır değerler toplanır.
+
+Çoklu ateşleme birimlerinde ham petrol rafinerilerinin
+damıtma ve dönüşüm atıklarının kendi tüketimleri için tek
+başına veya başka yakıtlarla kullanıldığı hallerde, en yüksek
+emisyon sınır değerine sahip olan belirleyici yakıtın
+sağladığı ısıl güç tüm yakıtların sağladığı toplam ısıl gücün
+enaz % 50'si (yüzde elli) kadar ise, sınır değerleri
+yukarıdaki (1) fıkraya bakılmaksızın esas alınır.
+
+Yukarıdaki (A) bendinde belirtilen hallerde belirleyici
+yakıtın sağladığı ısıl güç, tüm yakıtların sağladığı toplam ısıl
+gücün %50’sinin (yüzde elli) altında olduğu hallerde
+emisyon sınır değeri, tek tek yakıtların sağladıkları isi!
+güçlerin yakıtların tümünün sağladığı toplam ısıl güce göre
+oransal olarak aşağıda belirtildiği şekilde belirlenir:
+
+(a) İlk olarak, bu Tüzüğün ikinci ve üçüncü kısımlarında
+belirtildiği gibi her bir yakıt ve yakma tesisinin yakıt
+ısıl gücüne göre ilgili kirletici madde için emisyon
+sınır değerleri alınır.
+
+(b) İkinci olarak belirleyici yakıtın ( bu Tüzüğün ikinci ve
+üçüncü kısmına göre emisyon sınır değeri en yüksek
+olan yakıt; eğer iki yakıtın emisyon sınır değerleri aynı
+ise daha yüksek ısıl gücü olan yakıt kabul edilir)
+emisyon sınır değeri bu Tüzüğün ikinci ve üçüncü
+kısmında anlatıldığı şekilde hesaplanır; bu değer ikinci
+ve üçüncü kısımlarda belirtilen yakıta ait emisyon sınır
+değeri iki ile çarpılarak ve bulunan emisyon
+değerinden en düşük emisyon sınır değerine sahip
+yakıtın emisyon sınır değeri çıkartılarak bulunur.
+
+(c) Üçüncü olarak belirleyici yakıtın hesaplanan yakıt
+emisyon sınır değerini ısıl gücü ile çarparak, her bir
+yakıtın bireysel emisyon sınır değeri ile sağladığı ısıl
+gücü çarparak, çarpımı da tüm yakıtların sağladığı
+toplam ısıl girdiye bölerek, © yakıt-ağırlıklı emisyon
+sınır değerleri bulunur.
+
+(©) Son olarak yakıt-ağırlıklı emisyon sınır değerleri
+toplanır.
+
+[SAYFA 9]
+Ölçüm
+Zorunluluğu
+Ölçüm
+Yöntemleri
+
+ve
+
+13. ()
+
+2
+
+6)
+
+4)
+
+357
+
+DORDUNCU KISIM
+
+Ölçüm ve İzleme Gereklilikleri
+
+A)
+
+(B)
+
+(©)
+
+(©)
+
+(A)
+
+(B)
+
+(C)
+(A)
+
+(B)
+
+İşletmeci her yakma tesisinin atık gazlarmda
+Kükürtdioksit (SO2), Azotoksitler (NOx), Karbon
+Monoksit (CO) ve toz seviyesi konsantrasyonlarını,
+emisyon sınır değerleri belirlenmiş parametreler için
+sürekli emisyon izleme sistemi (SEİs) kurarak ve sürekli
+olarak ölçerek izlemek zorundadır.
+Yapılacak olan ölçümler, bu Tüzükteki izieme şartlarına
+ve emisyon Sınır değerlerine uyumun kontrol
+edilebileceği şekilde yapılır, kaydedilir, raporlanır ve
+Daireye sunulur.
+Ölçümlerde kullanılacak olan cihazların taşıması gereken
+özellikler ve cihazların çalışma usulu Daire tarafından
+belirlenir.
+İşletmeci sürekli emisyon izleme sisteminin doğru bir
+şekilde çalışmasını sağlamak, bu sistemde meydana
+gelen arızaları gidermek ve bu sistemin çalıştırılmasını
+bu Tüzüğün 13'üncü maddesinin (8)’inci, (9)’uncu ve
+(OYuncu (o fıkralarındaki kurallara göre yapmak
+zorundadır.
+Yukarıdaki (1)'nci fıkranın (A) bendinde belirtilen kurala
+istisna olarak aşağıdaki hallerde sürekli ölçüm
+gerekmeyebilir:
+(a) İşletim ömrü 10,000 çalışma saatinden az olan
+yakma tesisleri için
+
+(b) Doğal gaz kullanan kazanlarda SO2 (Kükürtdioksit)
+ve toz için
+
+(c) Kükürt giderme ekipmanlarının bulunmadığı ancak
+bilinen kükürt değerlerine sahip sıvı yakıt kullanan
+gaz türbinleri veya kazanlarda SO2 (Kükürtdioksit)
+için
+
+Yukarıdaki (A) bendinde belirtilen sürekli ölçümün
+
+gerekli olmadığı hallerde, Daire tarafından belirleneceği
+
+şekilde en az altı ayda bir aralıklı ölçümler yapılır.
+
+Kömür yakan yakma tesislerinde en az yılda bir kez
+
+toplam civa emisyonu ölçülmelidir.
+
+Tesiste kullanılan yakıtın tipinde veya tesisin işletme
+koşullarında önemli bir değişim olması halinde bu
+durum Daireye derhal bildirilir.
+
+Daire yukarıdaki (A) bendi uyarınca yapılan bildirimden
+sonra yukarıdaki (1)’aci ve (2)'ınci fikralarda belirtilen
+izleme yükümlülüklerinin yeterliliğine veya uyarlama
+gerektirip gerektirmediğine karar verir.
+
+Sürekli ölçüm sistemleri yılda en az bir kez referans metodlar ile
+
+[SAYFA 10]
+(5)
+
+(6)
+
+(7)
+
+(8)
+
+358
+yapılan paralel ölçümler yoluyla kontrole tabi olur.
+(A) — Her bir tek ölçüm sonucunun % 95 (yüzde doksanbes)
+güven aralığı değerleri, emisyon sınır değerlerinin
+aşağıda belirtilen yüzdelerini aşmaz:
+
+Kükürtdioksit (SO2) 9020 (yüzde yirmi)
+Azotoksitler (NOx) 9620 (yüzde yirmi)
+Toz “030 (yüzde otuz)
+Karbon Monoksit (CO) %10 (yüzde on)
+
+(B) Geçerli kılınan saatlik ve günlük ortalama değerler,
+ölçülen geçerli saatlik ortalama değerlerden yukarıdaki
+(A) bendinde belirtilen güven aralığı değerinin
+çıkarılması ile elde edilir.
+
+© İçerisinde üç adetten fazla saatlik ortalama değerin
+sürekli ölçüm sistemindeki arıza veya bakım sebebi ile
+geçersiz olduğu her bir gün geçersiz sayılır. Bir yıl
+içerisinde ondan fazla gün benzer koşullardan dolayı
+geçersiz sayılması halinde Daire işietmeciden sistemin
+güvenirliğini artırması konusunda gerekli önlemleri
+almasını talep eder.
+
+(A) Bu madde kapsamında yapılan ölçümlerin, Dairenin
+talep etmesi halinde Daireye gerçek zamanlı (ölçümlerin
+anlık değerleri) olarak ve Dairenin istediği şekilde
+iletilmesi sağlanacaktır.
+
+(B) Dairenin talep etmesi halinde, Dairenin gerçek zamanlı
+ölçüm sonuçlarına elektronik ortamda uzaktan erişimi
+sağlanır.
+
+Yukarıdaki (1)’inci fikrada belirtilen sürekli ölçümler atık
+gazlardaki oksijen içeriği, sıcaklık, basınç ve su buharı ölçümünü
+de içerir. Ayrıca baca gazı çıkış hızı, kütlesel debi parametreleri
+de ölçülür.
+
+CEN standartları yürürlüğe girdiği tarihten itibaren bu maddede
+belirtilen tüm ölçümler, ilgili kirletici maddelerin örnekleme ve
+analizleri ve otomatik ölçüm
+sistemlerinin kalibrasyonuna yönelik referans ölçüm yöntemleri
+gibi, bu standarda uygun olarak yürütülür.
+
+[SAYFA 11]
+Emisyonların
+
+Değerlendirilmesi
+
+©
+
+(10)
+
+14. (1)
+
+(2)
+
+359
+
+Ancak CEN standartları hazır değilse, bu maddede belirtilen
+ölçümlerle ilgili ISO standartları veya Daire tarafından kabul
+edilen bunlara eşdeğer bilimsel kaliteye sahip veri sağlayan
+ulusal veya uluslararası standartlar uygulanır.
+
+(A) Otomatik Sürekli Emisyon İzleme sistemini (SEİS)
+oluşturan cihaz ve bağlantı ekipmanlarının kurulması ve
+çalıştırılması bu Tüzük kuralları ile EN 14181 standardı
+doğrultusunda gerçekleştirilir.
+
+(8) Emisyonlarin izlenmesinde kullanılacak örnekleme veya
+ölçüm noktalarının yerleri Daire tarafından tespit edilir.
+
+Yukarıdaki O(IYinci fikra kapsamında yapılan izleme
+sonuçlarının tamamı kaydedilir, işlenir ve Daire tarafından
+verilen izinde yer alan faaliyet koşulları ile emisyon sınır
+değerlerine uygunluk konularında karar verebilmesine olanak
+tanıyacak şekilde Daireye sunulur.
+
+(A) o Sürekli ölçümler sonucu elde edilen verilerin Daire
+tarafından incelenmesi neticesinde bir takvim yılı içinde
+aşağıdaki koşulların tamamının yerine geldiğine kanaat
+oluşursa , bu Tüzükte yer alan emisyon sınır değerlerine
+uyum sağlanmış kabul edilir:
+
+(a) Doğrulanmış aylık ortalamaların hiçbirinin bu
+Tüzükte yer alan ilgili emisyon sınır değerlerini
+aşmaması,
+
+(b) Doğrulanmış günlük ortalamaların hiçbirinin bu
+Tüzükte yer alan ilgili emisyon sınır değerlerinin %
+110°unu (yüzde yüz on)aşmaması
+
+(c) Yalnızca ölçülmüş toplam termal girdisi 530 MW
+değerinin altında olan kömür kazanlarından
+kurulmuş yakma tesislerinde doğrulanmış günlük
+ortalama değerlerden hiçbirinin bu Tüzükte yer alan
+ilgili emisyon sınır değerlerinin % 150’sini (yüzde  *
+yüzelli) aşmaması
+
+(9) Bir yl içinde doğrulanmış saatlik ortalama
+değerlerin W 95'inin (yüzde doksanbeş) bu
+Tüzükte yer alan ilgili emisyon sınır değerlerinin %
+200’ tinii (yüzde iki yüz) aşmaması,
+
+(B) (a) “Geçerli ortalama değerler” bu Tüzüğün 13'ncü
+maddesinin (5)’nci fıkrasında belirtildiği şekilde
+belirlenir.
+
+(b) Yukarıdaki (a) alt bendi uyarınca geçerli ortalama
+değerler belirlenirken bu Tüzüğün 11’nci
+maddesinde belirtilen süreler ve başlatma ve sistem
+durdurma süreçleri dikkate alınmaz
+
+Sürekli ölçümlerin gerekmediği hallerde ölçüm dizilerinden her
+
+biri veya Daire tarafından belirlenmiş kurallar çerçevesinde
+
+[SAYFA 12]
+Raporlama
+Gereklilikleri
+Geçici Madde
+Sıvı Yakıt
+Kullanan Mevcut
+Tesisler için 1
+Ocak 2017
+tarihine kadar
+geçerli olan
+
+Emisyon Sınırları
+
+15. (1)
+
+i.
+
+(2)
+
+(1)
+
+360
+
+tanımlanan ve belirlenen diğer usuller neticesinde ortaya çıkan
+
+sonuçlar emisyon sınır değerlerinin aşılmadığını gösteriyorsa bu
+
+Tüzükte (belirtilen ilgili emisyon sınır değerleriyle uyum
+
+sağlandığı kabul edilir.
+
+(A) İşletmeci her bir tesis için sürekli ölçümlerden elde edilen
+SO2 (kükürt dioksit), NOx (azot oksitler), CO (karbon
+monoksit) ve toz (Toplam askıya alınmış zerre olarak)
+için toplam yıllık emisyonlara ilişkin verileri Daireye
+rapor etmek zorundadır.
+
+(B) Oo Yukarıdaki (A) bendinde belirtilen rapor, her takvim
+yılının sonunda bir sonraki yılın 31 Mart tarihine kadar
+Daireye gönderilir.
+
+İşletmeci; yukarıdaki (1'inci fıkrada yer alan yükümlülüğüne ek
+
+olarak, tesisin baca gazı ölçüm sisteminin bakım, onarım,
+
+kalibrasyon ve EN 14181 standardı kapsamında yapılan kalite
+güvence-kalite kontrol programları ile ilgili rapor ve belgeleri
+yıllık olarak her takvim yılının sonunda bir sonraki yılın 31 Mart
+tarihine kadar Daireye sunmak zorundadır.
+
+BEŞİNCİ KISIM
+Geçici Kurallar
+
+Dizel motorlar dahil sıvı yakıt kullanan mevcut yakma tesisleri
+için | Ocak 2017 tarihine kadar geçerli olan emisyon sınır
+değerleri aşağıdaki gibidir:
+
+İşletmeci aşağıda mg/ Nm ve % 3(yüzde üç) oksijen (O2) (dizel
+
+motorlar için %15 (yüzde onbeş) içeriği olarak ifade edilen
+emisyon değerlerinin aşılmamasını sağlamakla yükümlüdür:
+
+Toz
+Bütün tesisler : 50
+
+Kükürt dioksit (SO2)
+
+50 MW < Yakıt ısıl gücü <300 MW 1700
+
+300 MW < Yakıt ısıl gücü <500 MW
+azalma)
+
+1700 — 400 (lineer
+
+Yakıt ısıl gücü 500 MW veya daha fazla 400
+
+Azat dioksit (NO2) olarak ölçülen azotoksitler (Azot oksit (NO)
+ve Azot dioksit (NO2))
+
+50 MW < Yakıt ısıl gücü <500 MW 450
+
+Yakıt ısıl gücü 500 MW veya daha fazla 400
+
+Karbonmonoksit (CO)
+Bütün tesisler 150
+
+[SAYFA 13]
+361
+
+Yukarıdaki (1)’inci fıkrada belirtilen ve 1 Ocak 2017 tarihine
+kadar geçerli olan emisyon sınır değerleri, sıvı yakıt kullanan
+mevcut yakma tesisinin tamamındaki toplam termal girdi
+üzerinden her bir ortak bacadan yapılan emisyon salınımları için
+geçerlidir.
+
+ALTINCI KISIM.
+
+Emisyon Sınır Değerine Uyma Zorunluluğunun Askıya Alınması ve Muafiyet Tanınması İle
+
+Emisyon Sınır 16.
+
+Değerine Uyma
+Zorunluluğunun
+Askıya Alınması
+ve
+
+Muafiyet
+Tanınması
+
+İzin Süreci 17.
+
+18/2012
+18/2012
+
+18/2012
+
+18/2012
+
+Yürütme Yetkisi 18.
+Yürürlüğe Giriş 19.
+
+(1)
+
+(2)
+
+d)
+
+2)
+
+(3)
+
+(4)
+
+İzin Süreci
+
+Daire, normal şartlar altında düşük kükürtlü yakıt kullanan bir
+tesisin ciddi bir düşük kükürtlü yakıt açığı oluşması sebebiyle
+bunlara uyamaması halinde, kükürtdioksit (SO, emisyon sınır
+değerlerine uyma zorunluluğunu en fazla altı ay süresince askıya
+alabilir.
+
+Daire, normal şartlar altında gaz yakıtlar kullanan ancak gaz
+stoklarında meydana gelen ani bir kıtlık yüzünden başka yakıtlar
+kullanmak zorunda kalan ve emisyon değerlerine uyabilmek için
+bir baca gazı arıtma tesisine ihtiyaç duyan tesislere, enerji arzını
+korumak için önemli bir gereksinim olması dışında on günü
+aşmamak kaydı ile emisyon sınır değerlerine uyma
+zorunluluğundan muafiyet tanıyabilir.
+
+Yukarıdaki (1)’nci ve (2)’nci fikralardaki durumların ortaya
+çıkması halinde Daire her bir durum hakkında derhal
+bilgilendirilir.
+
+İzin başvurusu ve izin süreci konularında Çevre Yasası kuralları
+uygulanır.
+
+İşletmeci, faaliyetlerini izin koşullarına, bu Tüzük kurallarına ve
+Çevre Yasası kurallarına uygun olarak yerine getirmek
+zorundadır.
+
+İşletmecinin, yukarıdaki (2)’nci fikraya aykırı davrandığının
+tespiti halinde, bu aykırılık ile ilgili olarak işletmeciye Daire
+tarafından Çevre Yasası uyarınca idari para cezası verilebilir.
+İşletmecinin, yukarıdaki (2)’nci fikraya aykırı davrandığının
+tespiti halinde yukarıdaki (3'üncü fikra kapsamında idari para
+cezası verilip verilmediğine bakılmaksızın, yukardaki (2)’nci
+fıkraya olan aykırılığı gidermesi için işletmeciye Daire tarafından
+Çevre Yasası uyarınca otuz güne kadar süre verilir. Verilen süre
+sonunda yükümlülüğünü yerine getirmeyen işletmecinin sahip
+olduğu yakma tesisi süreli veya süresiz olarak, kısmen veya
+tamamen faaliyetten men edilir.
+
+Bu Tüzük, Çevre işleri ile görevli Bakanlık tarafından yürütülür.
+
+Bu Tüzüğün 7'nci maddesi 1 Ocak 2017 tarihinden başlayarak, geriye
+kalan maddeleri ise Resmi Gazete'de yayımlandığı tarihten başlayarak
+yürürlüğe girer.
+
+[SAYFA 14]
+362
+
+Ek-I Bu Tüzüğün 7'nci maddesinin (1)’nci fikrası kurallarında belirtilen yakma tesisleri için
+
+emisyon sınır değerleri:
+
+1. Bütün emisyon sınır değerleri 273.15 K sıcaklıkta, 101.3 kPa basınçta, atık gazların su
+buharı içeriği yönünden düzeltme yapıldıktan sonra ve katı yakıtlar için % 6 (yüzde
+altı), sıvı ve gaz yakıt kullanan yakına tesislerinden dizel motorlar, gaz türbinleri ve
+gaz motorları dışında % 3 (yüzde üç), dizel motorlar, gaz türbinleri ve gaz motorları
+için % 15 (yüzde on beş) oksijen (Oz) içeriğinde hesaplanır.
+
+2. Gaz türbinleri ve gaz motorları dışında sıvı yakıt kullanan yakma tesisleri için kükürt
+dioksit (SO2) emisyon sınır değerleri (mg/Nm):
+
+Ölçülmüş (o toplam | Sıvı yakıt kullanan yakma tesisleri için
+termal girdi (MW) SO; emisyon sınır değerleri (mg/Nmi)
+50-100 350
+100-300 250
+>300 200
+
+Sıvı yakıt kullanan ve bu Tüzük yürürlüğe girmeden önce işletme ruhsatı almış veya
+işletmecisi bu Tüzük yürürlüğe girmeden önce işletme ruhsatı başvurusu yapmış yakına
+tesisleri yıllık 1500 faaliyet saatinden daha uzun süre işletilmemesi şartıyla, ölçülmüş toplam
+termal girdileri 300 MW değerini aşmıyorsa 850 mg/Nm’, 300 MW değerini aşıyorsa 400
+mg/Nm? SO; emisyon sınır değerlerine tabi olur,
+
+Atık gazları ortak bir baca üzerinden bir veya birkaç boruyla bırakan ve yıllık 1500 faaliyet
+saatinden daha uzun süre işletilmeyen yakma tesisi kısımları yukarıdaki paragrafta belirtilen
+emisyon sınır değerlerine yakma tesisinin tamamının ölçülmüş toplam termal girdisiyle
+bağlantılı şekilde tabi olabilir. Bu durumda boruların her birinden yapılan salınımlar ayrı ayn
+
+izlenir.
+
+3. Gaz türbinleri ve gaz motorları dışında sıvı yakıt kullanan yakma tesisleri için azot
+oksitler (NO,) emisyon sınır değerleri (mg/ Nm”):
+
+Ölçülmüş (oo toplam | Sıvı yakıt kullanan yakma tesisleri için
+termal girdi (MW) NO, emisyon sınır değerleri (mg/Nm”)
+50-100 450
+100-300 200 (1)
+>300 150 (1)
+
+(1) Ham petrolün kendi kullanımı için rafine edilmesinde ortaya çıkan damıtma ve
+dönüştürme artıklarının yakıldığı ve ölçülmüş toplam termal girdisi 500 MW değerini
+aşmayan yakma tesisinde emisyon sınır değeri 450 nıg/Nm? olur.
+
+[SAYFA 15]
+en
+
+363
+
+Sıvı yakıt kullanan ve bu Tüzük yürürlüğe girmeden önce işletme ruhsatı almış veya
+işletmecisi bu Tüzük yürürlüğe girmeden önce işletme ruhsatı başvurusu yapmış
+yakma tesisleri yıllık 1500 faaliyet saatinden daha uzun süre işletilmemesi şartıyla,
+ölçülmüş toplam termal girdileri 500 MW değerini aşmıyorsa 450 mg/Nm?, 500 MW
+değerini aşıyorsa 400 mg/Nm? NO, emisyon sınır değerlerine tabi olur.
+
+Atık gazları ortak bir baca üzerinden bir veya birkaç boruyla bırakan ve yıllık 1500
+faaliyet saatinden daha uzun süre işletilmeyen yakma tesisi kısımları yukarıdaki
+paragrafta belirtilen emisyon sınır değerlerine yakma tesisinin tamamının ölçülmüş
+toplam termal girdisiyle bağlantılı şekilde tabi olabilir. Bu durumda boruların her
+birinden yapılan salınımlar ayrı ayrı izlenir.
+
+Hafif ve orta distilatları yakıt olarak kullanan gaz türbinleri (kombine çevrimli gaz
+türbinleri (CCGT) dahil) NO, için 90 mg/Nm? ve CO için 100 mg/Nm” emisyon sınır.
+değe-ine tabi olur. Yıllık 500 faaliyet saatinden daha az süre işletilen acil durum gaz
+türbinieri bu paragrafta belirlenen emisyon sınır değerleri kapsamında değildir. Bu
+tesisin işletmecisi harcanan faaliyet saatlerini kayıt altına alır.
+
+Gaz türbinleri ve gaz motorları dışında sıvı yakıtlar kullanan yakma tesislerinde toz
+için emisyon sınır değerleri (mg/Nm”):
+
+Ölçülmüş Oo toplam| Sıvı yakıt kullanan yakma tesisleri için
+termal girdi (MW) Toz emisyon sınır değerleri (mg/Nm”) (1)
+
+50-100 30
+100-300 25
+>300 20
+
+(1) Ham petrolün kendi kullanımı için rafine edilmesinde ortaya çıkan damıtma ve
+
+dönüştürme artıklarının yakıldığı yakma tesisinde tesis bu Tüzük yürürlüğe girdiği
+tarihten önce faaliyete geçmişse yakma tesisinde emisyon sınır değeri 50 mg/Nm’ olur.
+
+[SAYFA 16]
+364
+
+Ek-II Bu Tüzüğün 8'nci maddesinin (1'nci fıkrası kurallarında belirtilen yakma tesisleri için
+emisyon sınır değerleri:
+
+1- Bütün emisyon sınır değerleri 273.15 K sıcaklıkta, 101.3 kPa basınçta, atık gazların su
+buharı içeriği yönünden düzeltme yapıldıktan sonra ve katı yakıtlar için % 6 (yüzde
+altı), sıvı ve gaz yakıt kullanan yakma tesislerinden dizel motorlar, gaz türbinleri ve
+gaz motorları dışında % 3 (yüzde üç), dizel motorlar, gaz türbinleri ve gaz motorları
+için % 15 (yüzde on beş) oksijen (O2) içeriğinde hesaplanır.
+
+Destek ateşlemesi bulunan kombine çevrimli gaz türbinlerinde standart oksijen (O2)
+içeriği ilgili tesisin özellikleri dikkate almarak Daire tarafından belirlenebilir.
+
+2- Gaz türbinleri ve gaz motorları dışında katı ve sıvı yakıtlar kullanan yakma
+tesislerinde kükürt dioksit (SOz) emisyon sınır değerleri (mg/ Nm):
+
+Ölçülmüş toplam | Kömür,linyitve | Biyokütle Turba Sıvı yakıtlar
+termal girdi (MW) | diğer katı yakıtlar
+50-100 400 200 300 350
+100-300 200 200 300 200
+250 (akışkan yataklı
+yanma halinde)
+>300 150 150 150 150
+200 (dolaşan veya 200 (akışkan yataklı
+basınçlı akışkan yanma halinde)
+yataklı yanma
+halinde)
+
+3- Gaz türbinleri ve gaz motorları dışında gaz yakıtlar kullanan yakma tesislerinde kükürt
+
+dioksit (SO2) emisyon sınır değerleri (mg Nm? ):
+
+Genel 35
+Sıvılaştırılmış gaz 5
+
+Kok firınından düşük kalorifik değerli gazlar 400
+Ateşleme firmindan düşük kalorifik değerli gazlar 200
+
+[SAYFA 17]
+365
+
+4- Gaz türbinleri ve gaz motorları dışında katı ve sıvı yakıtlar kullanan yakma
+tesislerinde kükürt dioksit (SO) emisyon sınır değerleri (mg/Nm”):
+
+Ölçülmüş toplam | Kömür, linyit ve diğer | Biyokütle veturba | Sıvı yakıtlar
+termal girdi (MW) katı yakıtlar
+50-100 300 250 300
+400 (pulverize linyit
+yakılması halinde)
+100-300 200 200 150
+>300 150 150 100
+200 (pulverize linyit
+yakilmasi halinde)
+
+5- Hafif ve orta distilatlarını sıvı yakıt olarak kullanan gaz türbinleri (kombine çevrimli
+gaz türbinleri (CCGT) dahil) NO, için 50 mg/Nm? ve CO için 100 mg/Nır” emisyon
+
+sınır değerine tabi olur.
+
+Her yıl başına 500 faaliyet saatinden daha az süre işletilen acil durum gaz türbinleri bu
+paragrafta belirlenen emisyon sınır değerleri kapsamında değildir. Bu tesislerin
+
+işletmecisi harcanan faaliyet saatlerini kayıt altına alır.
+
+6- Gazla ateşlenen yakma tesislerinde azot oksitler (NO,) ve karbon monoksit (CO) için
+
+emisyon sınır değerleri (mg/Nm’):
+
+NOx CO
+Gaz türbinleri ve gaz motorları dışındaki 100 100
+yama tesisleri
+Gaz türbinleri (kombine çevrimli gaz 50(1) 100
+türbinleri (CCGT) dahil)
+Gaz motorları 75 100
+
+(1) ISO temel yükleme koşullarınca Yo 35 (yüzde otuz bes) üzeri verimliliğe sahip
+olan tek çevrimli gaz türbinleri için NO, emisyon sınır değeri 50 x q/ 35 olur veg
+değeri ISO temel yükleme koşullarında gaz türbine verimliliğinin yüzde olarak
+ifadesidir.
+
+Gaz türbinlerinde (kombine çevrimli gaz türbinleri (CCGT) dahil), bu tabloda
+belirtilen NO, ve CO emisyon sınır değerleri yükün % 70 (yüzde yetmiş) üzeri için
+
+geçerli olur.
+
+Her yıl başına 500 faaliyet saatinden daha az süre işletilen acil durum gaz
+
+türbinleri bu paragrafta belirlenen emisyon sınır değerleri kapsamında değildir. Bu
+
+tesislerin işletmecisi harcanan faaliyet saatlerini kayıt altına alır.
+
+[SAYFA 18]
+366
+
+Gaz türbinleri ve gaz motorları dışında gaz yakıtlar kullanan yakma tesisleri için toz
+
+emisyon sınır değerleri (mg Nm):
+
+Genel 5
+Ateşleme fırını gazı 10
+Çelik endüstrisince üretilen ve başka yerlerde de 30
+
+kullanılabilen gazlar

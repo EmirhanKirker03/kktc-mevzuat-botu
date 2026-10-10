@@ -1,0 +1,981 @@
+[SAYFA 1]
+Sayı : 675
+
+1730
+
+İŞ SAĞLIĞI VE GÜVENLİĞİ YASASI
+(35/2008 Sayılı Yasa)
+
+Madde & Altında Yapılan Tüzük
+
+Kuzey Kıbrıs Türk Cumhuriyeti Bakanlar Kurulu, İş Sağlığı ve Güvenliği Yasası'nın 8'inci maddesinin (6)'ncı fıkrasının
+kendisine verdiği yetkiye dayanarak aşağıdaki Tüzüğü yapar:
+
+Kısa İsim
+
+Tefsir
+
+22/1952
+30/1993
+25/2000
+51/2002
+15/2004
+50/2030
+23/2015
+
+35/2008
+
+09.08.2019
+R.G.114
+EKM
+A.E.595
+
+L
+
+Bu Tüzük, İşyerlerinde Risk Değerlendirmesi Esasları Tüzüğü olarak isimlendirilir.
+
+BİRİNCİ KISINA
+Genel Kurallar
+
+Bu Tüzükte metin başka türlü gerektirmedikçe;
+“Bakanlık”, Çalışma İşleri ile görevli Bakanlığı anlatır.
+
+“Çalışan”, İş Yasası ve İş Sağlığı ve Güvenliği Yasası kapsamındaki işyerlerinde veya
+işlerde, yazılı veya sözlü bir hizmet akdine dayanarak veya herhangi bir istihdam
+ilişkisine bağlı olarak ücret, maaş, gündelik vb. karşılığı çalışan gerçek kişileri anlatır.
+
+“Çalışma Ortamı”, İşin yapıldığı ve çalışanların güvenliğini, sağlığını ve refahını
+etkileyebilecek teknoloji, makine, iş ekipmanı ve mikro iklimlendirme dahil olmak
+üzere şartları oluşturan tüm fiziksel ve psikolojik faktörleri ifade eder.
+
+“Daire”, Çalışma Dairesini anlatır.
+
+“İnşaat Sertifikalı İş Sağlığı ve Güvenliği Uzmanı”, İş Sağlığı ve Güvenliği Hizmeti
+Veren Kişilerin Sertifikalandırılması ve Kuruluşların Yetkilendirilmesi Tüzüğü
+kuralları uyarınca kişilerin sertifikalandırılması kapsamında Daire tarafından
+düzenlenen Sertifikaya sahip olan ve inşaat sektöründe iş sağlığ: ve güvenliği
+hizmeti sağlayan nitelikli kişiyi anlatır,
+
+“İşveren”, Çalışanlarla istihdam ilişkisi olan ve kuruluşun veya İşyerinin
+sorumluluğunu taşıyan gerçek veya tüzel kişileri anlatır.
+
+“İşyeri”, İşin yapıldığı ve işyerine bağlı, dinlenme, emzirme, yemek yeme, uyuma,
+banyo, muayene ve bakım, fiziksel ve mesleki eğitim ve çalışanların giriş ve çıkış gibi
+faaliyetlerinin yapıldığı yerleri içerir ve yeri ifade eder.
+
+“Koruyucu önlemler”, İşteki risklerin ortadan kaldırılması veya azaltılması ve risk
+faktörlerinin etkisinin azaltılması üzerine odaklanan faaliyetleri ifade eder.
+Koruyucu önlem genellikle, potansiyel bir tehlike ile zarara maruz kalan kişi
+arasında var olan bir engel anlamına gelir.
+
+“Mevcut ve Olası Ciddi Tehlike” Çalışanların ve diğer kişilerin ölümüne, uzuv
+ve/veya organ kaybına neden olabilecek olan tehlikeyi anlatır.
+
+“Müfettiş”, Çalışma Dairesinin tayinli müfettişlerini anlatır ve İş Yasası'nın 62'nci
+maddesi ve İş Sağlığı ve Güvenliği Yasası'nın 25'inci maddesi uyarınca
+görevlendirilen kamu görevlilerini de kapsar.
+
+“Önleyici Tedbir”, İş Sağlığı ve Güvenliği Yasasının 6'ncı maddesinin (3)'üncü
+fıkrasında düzenlenen genel prensipleri dikkate alarak, işyerindeki risklerin ortadan
+kaldırılmasına veya azaltılmasına, risk faktörlerinin etkisinin azaltılmasına, iş
+kazalarının, meslek hastalıklarının, mesleki zehirlenmelerin ve işten kaynaklanan
+diğer zararların ortaya çıkmasının sınırlandırılmasına odaklı olarak, önceden
+planianan ve benimsenen faaliyeti anlatır. :
+
+“Ramak kala olay” İşyerinde meydana gelen, çalışan, işyeri ya da ekipmanını zarara
+uğratma potansiyeli olduğu halde zarara uğratmayan olaydır.
+
+“Risk”, Çalışan ve diğer kişilerin tehlikeden zarar görebilme ihtimalinin veya
+tehlikenin hasara yol açma ihtimalinin ve sonuçlarının bileşimini anlatır.
+
+“Risk Değerlendirmesi”, İşyerlerinde var olan veya dışarıdan gelebilecek
+tehlikelerin çalışanlara, işyerine ve çevresine verebileceği zararların ve bunlara karşı
+alınacak önlemlerin belirlenmesi amacıyla yapılması gereken çalışmaları anlatır.
+
+1
+
+[SAYFA 2]
+1731
+
+“Risk Faktörü”, Çalışan ve diğer kişilerin maruz kalması halinde sağlığı üzerinde
+olumsuz bir etkiye neden olabilen bir madde veya ortam niteliğini ifade eder.
+“Sağlık ve Güvenlik Dosyası”, İşyeri organizasyon şeması, is sağlığı ve güvenliği ile
+ilgili görevlendirilen kişilerin yazıları, güncel çalışan listesi, risk değerlendirme
+formları, yasal uyum tablosu, eylem planı, acil durum planı, eğitim kayıtları, çalışma
+prosedürleri ve talimatları, işyeri ziyaret formları, iş sağlığı ve güvenliği ile ilgili
+işyerinin iç ve dış yazışmaları, periyodik olarak yapılan kontrol ve denetim kayıtları,
+hizmet alım sözleşmeleri gibi dokiimaniardan oluşan dosyayı anlatır.
+
+“Sertifikalı İş Sağlığı ve Güvenliği Uzmanı”, İş Sağlığı ve Güvenliği Hizmeti Veren
+Kişilerin Sertifikalandırılması ve Kuruluşların Yetkilendirilmesi Tüzüğü kuralları
+uyarınca kişilerin sertifikalandırılması kapsamında Daire tarafından düzenlenen
+Sertifikaya sahip olan, inşaat hariç olmak üzere diğer sektörlerde İş sağlığı ve
+güvenliği hizmetleri sağlayan nitelikli kişiyi anlatır.
+
+“Tehlike”, Çalışan ve diğer kişilerin sağlığı ve yaşamları için olası risklerin kaynağını
+ifade eder. Tehlike, herhangi bir şeyin (is ekipmanları, faaliyetler, çalışma alanı,
+maddeler vh.) zarara veya başka bir hasara neden olma potansiyelidir.
+
+“Yasal Uyum Tablosu”, İşyeri faaliyetlerinin, İş Sağlığı ve Güvenliği Yasası ve bu
+yasanın verdiği yetkiye dayanarak yapılmış olan tüzüklerindeki düzenlemelere
+uyumlu olup olmadığının saptanması ve yasal düzenlemelerdeki değişikliklerin
+izlenmesi için kullanılan tablodur.
+
+“Yetkili İş Sağlığı ve Güvenliği Hizmeti Veren Kuruluş”, is Sağlığı ve Güvenliği
+Hizmeti Veren Kişilerin Sertifikalandırılması ve Kuruluşların Yetkilendirilmesi Tüzüğü
+kuraliarı uyarınca kuruluşların yetkilendirilmesi kapsamında iş sağlığı ve güvenliği
+hizmeti veren ve Daire tarafından düzenlenen bir yetkilendirme belgesi sahibi olan
+kuruluşu anlatır.
+
+Amaç 35 Bu Tüzüğün amacı, üretim hatlarını, çalışanların sayısını, faaliyetlerle ilişkili
+tehlikeler ve riskleri, işyerinin büyüklüğünü, kullanılan iş ekipmanlarını, makineleri,
+aletleri, kimyasal maddeleri ve bunların parçalarını, fiziksel ve biyolojik etken
+maddeleri dikkate alarak yapılacak risk değerlendirmelerinde izlenecek kuralları,
+risk değerlendirmesinin biçim ve kapsamını, analizler ve değerlendirmelerin nasıl
+yapılması gerektiğini ve işyerindeki iş kazası ve meslek hastalığı ile ilgili risk ve
+tehlikelere karşı alınacak tedbirleri açıklamak, hazırlanacak raporların içeriğini
+beliriemektir.
+
+Kapsam 4. Bu Tüzük, İş Sağlığı ve Güvenliği Yasası kapsamına giren işverleri, faaliyetler,
+35/2008 işverenler, çalışanlar ve diğer kişileri kapsar.
+İKİNCİ KISIM
+Risk Değerlendirme ile ilgili Kurallar
+Risk Değerlendirme 5. (1) İşveren, çalışma şartlarının yanı sıra işte gerçekleştirilen tüm faaliyetlerin ve
+Süreci İçin Temel Kurallar kullanılan o ekipmanların, işyerlerinin, teknolojilerin, maddelerin ve
+
+malzemelerin risk değerlendirmesi prosedürüyle yeterli ve sistematik bir
+biçimde analizini sağlar. Bu amaçla işveren, işyerinde risk değerlendirmesini
+yürütecek bir veya birden fazla çalışanı görevlendirir. e Görevlendirilen
+çalışan, sertifikalı ve/veya inşaat sertifikalı iş sağlığı ve güvenliği uzmanı
+almalıdır.
+
+(2) Eğer işyerinde risk değerlendirmesini yapabilecek Sertifikalı ve/veya inşaat
+sertifikalı iş sağlığı ve güvenliği uzmanı niteliklerine sahip çalışan yoksa,
+dışarıdan sertifikalı iş sağlığı ve güvenliği uzmanı veya yetkili iş sağlığı ve
+güvenliği hizmeti veren kuruluş, bu işi yürütmek üzere görevlendirilir.
+Disaridan hizmet alınması durumunda, İşveren tarafından iş sağlığı ve
+güvenliği konusunda yazılı olarak görevlendirlen çalışan risk değerlendirmesi
+süreci boyunca dışarıdan gelen Sertifikalı ve/veya inşaat sertifikalı iş sağlığı
+ve güvenliği uzmanına refakat eder, Sertifikalı ve/veya inşaat sertifikalı iş
+sağlığı ve güvenliği uzmanı veya yetkili iş sağlığı ve güvenliği hizmeti veren
+kuruluşların yükümlülükleri bu Tüzüğün ÜÇÜNCÜ KISIM”ında belirtilir.
+
+(3) İşveren, yukarıda (1)'inci ve (2)'nci fıkralarda belirtilen sertifika ve/veya
+inşaat sertifikası olmaksızın İş Sağlığı Ve Güvenliği (o Yasas'nın 7'nci
+maddesinin (7)'nci fıkrası uyarınca sağlık ve güvenlik risklerini önieme
+
+[SAYFA 3]
+09.08.2019
+R.G.114
+EKN
+
+A.E, 595
+
+35/2008
+
+(4)
+
+(5)
+
+(6)
+
+(7)
+
+(8)
+
+(9)
+
+(10)
+(11)
+
+(12)
+
+1732
+
+görevlerini yerine getirme sorumluluğunu üstlenebilir. Dört veya daha az
+çalışanı olan işyerlerinde, işveren kendisi veya görevlendirdiği çalışan, İş
+Sağlığı ve Güvenliği Hizmeti Veren Kişilerin Sertifikalandırılması ve
+Kuruluşların Yetkilendirilmesi Tüzüğü uyarınca eğitim kurumu tarafından
+sağlanan temel iş sağlığı ve güvenliği eğitimini almış olmalıdır.
+
+Ancak işyerinde ilk yapıfacak olan risk değerlendirmesinin bir sertifikalı
+ve/veya inşaat sertifikalı iş sağlığı ve güvenliği uzmanı tarafından yapılması,
+temel iş sağlığı ve güvenliği eğitimi almış kişinin bunu gözlemlemesi ve bu
+durumun risk değerlendirme raporunda belirtilmesi zorunludur.
+
+İşveren, çalışanların risk değerlendirmesi sürecine katılımı ve sonuçları
+hakkında uygulanacak koruyucu ve/veya önleyici tedbirlerden haberdar
+olmaları için gerekli prosedürleri oluşturur ve uygulanmasını sağlar.
+
+Her işyeri iş sağlığı ve güvenliği ile ilgili çalışmaların devamlılığını sağlamak
+için en az ayda bir defa Sertifikalı ve/veya İnşaat Sertifikalı İş Sağlığı ve
+Güvenliği Uzmanı tarafından ziyaret edilir. Her ziyaret sonucunda ziyareti
+gerçekleştiren kişi tarafından bu Tüzüğe ekli EK-I’de yer alan “İşyeri Ziyaret
+Formu"doldurulur ve bir kopyası Sağlık ve Güvenlik Dosyası'nda
+bulundurulur.
+
+Risk değerlendirmesinin araçları aşağıdaki gibidir:
+
+(A) isyerinde insanlara zarar verebilecek veya istenmeyen bir olaya
+sebep olabilecek faktörleri ortaya çıkarmak,
+(B) (o Riskin ne kadar ciddi olduğunu değerlendirmek,
+
+(6) Riskin kabul edilebilir olup olmadığına karar vermek,
+
+(¢) Mevcut önlemlerin insaniari ve mülkleri korumaya yeterli olup
+olmadığını değerlendirmek,
+
+(D) o Gerektiğinde önleyici ve koruyucu tedbirleri belirlemek ve
+uygulanmasını sağlamak,
+
+(E) Çalışanların ve/veya onların temsilcilerinin güvenli bir biçimde
+hareket etmeleri ve yöneticilerin kendi sorumlulukları altındaki işleri
+yönetebilmeleri için, riskler ve bu risklere karşı korunma hakkında
+onlara bilgi sağlamak.
+
+Risk değerlendirmesi, teknik ve teknolojik ekipmanlar, çalışma faaliyetleri,
+işyeri düzenlemeleri, kullanılan maddeler ve malzemeler, kimyasal faktörler,
+fiziksel faktörler, biyolojik faktörler, duyusal zihinsel iş yükünü etkileyen
+faktörler ve sosyal faktörler, çalışma koşulları, iş ilişkileri, hijyen, iyilik ve
+refah, insan faktörü, psiko-sosyal faktörler, stres, işyerinde taciz, mobbing
+gibi işle ilgili tüm durumları dikkate alarak sistematik bir biçimde
+gerçekleştirilir.
+
+Risk değerlendirmesi, bakım personeli, servis elemanı, dış hizmet sağlayıcısı
+ve ziyaretçi gibi işyerinde bulunması muhtemel tüm kişilere odaklı olur. İş
+Sağlığı ve Güvenliği Yasası'nın 22'nci maddesinin (1Yinci fıkrasında
+tanımlanan hassas risk gruplarının koşulları ve kabiliyetlerine özel önem
+verilerek yürütülür. Önleyici ve koruyucu tedbirler, hassas risk gruplarının
+koşulları ve yetenekleri için gereklilikler dikkate alınarak uyarlanır ve
+benimsenir.
+
+Risk değerlendirmesi yapılırken, aynı zamanda, çevresel boyutlar, işyerinin
+çevresi ve civardaki diğer işletmeler, nesneler ve toplum, bunların mevcut
+riskler üzerindeki muhtemel etkileri ve bunların yanı sıra olası dış risklerin
+olası artırıcı etkileri dikkate alınır.
+
+Risk değerlendirmesi, İş Sağlığı ve Güvenliği Yasasının S'ncı maddesinin
+(3)'üncü fıkra kurallar uyarınca gerçekleştirilir.
+
+Risk düzeyinin kabulü, İş Sağlığı ve Güvenliği Yasası ve bu yasa altında
+düzenlenen tüzükler uyarınca kararlaştırılır.
+
+İşveren, elektronik ortamda veri sağlama kapsamında, risk değerlendirme
+raporu, iş kazası bildirimi, vb. tüm iş sağlığı ve güvenliğiyle ilgili veri
+girişlerini Bakanlığın belirlediği ilgili yazılım programina yüklenmesini sağlar.
+
+[SAYFA 4]
+Risk ve Yasal Uyum
+Değerlendirme
+Organizasyonu ve
+Prosedürü
+
+Risk Değerlendirmesi
+Raporunun İçeriği
+
+7.
+
+1733
+
+Risk değerlendirmesi, aşağıdaki aşamalardan meydana gelir:
+
+(2)
+
+(2)
+
+(3)
+
+(4)
+
+Hazırlık;
+
+(A) Risk değerlendirmesi prosedürünün oluşturulması,
+
+(B) o Değerlendirmeyi yapacak kişilerin seçimi ve tayini,
+
+(C) Sertifikalı ve/veya inşaat sertifikalı iş sağlığı ve güvenliği uzmanı
+tarafından tehlikelerin tanımlanması ve risk değerlendirme faaliyetleri
+ile ilgili, yönetici ve çalışanlara bilgi vermek,
+
+(Ç() Gerekli belgelerin, formların ve yasal mevzuatın bir arada toplanması
+
+Yöntem;
+
+(A) Risk değerlendirme prosedürü yöntemi oluşturulurken, işyerinin
+ekonomik faaliyet türü, isin niteliği, işyerinin çalışma koşulları,
+tehlikenin türü, olası sonuçların ciddiyeti, işyerinin büyüklüğü, Daire
+tarafından verilen yasal uyarılar dikkate alınır. Belirli alanlardaki
+yasalar ve/veya tüzükler, özel risk değerlendirmesi prosedürleri
+gerektirebilirler. Risk değerlendirmesi prosedürü aşağıdaki unsurları
+içerir.
+
+(a) Yürütülen faaliyetlerin tanımı
+
+(b) — İşyerinin tanımı, tehlikelerin ve risk faktörüne maruz kalmanın
+neden olabileceği sonuçların belirlenmesi,
+
+(c} Risk altindaki kisilerin tanimlanmasini,
+
+(e) Riskin meydana gelme olasılığı ve meydana gelmesi halinde
+vereceği zararlar ile alınan ve alınacak tedbirler arasındaki ilişki,
+risk o seviyesinin (| belirlenmesi o ve mevcut risklerin
+değerlendirilmesi sırasında dikkate alınmalıdır.
+
+(d) o Riskin kabul edilebilirliğine dair kararı,
+
+(e) Mevcut tedbirlerin değerlendirilerek, koruyucu önlemlerin
+tanımlanması, önlemlerin uygulanması için sorumlu kişinin ve
+önlemin uygulanma tarihinin belirlenmesi
+
+(8) Risk değerlendirme, bu Tüzüğe ekli EK-li'de yer alan Önemli Tehlikeler
+
+Listesi göznünde bulundurularak mesleklere, çalışma ortamı, ekipman
+ve malzemeler kapsamında yapılır. o Mesleklere Göre Risk
+Değerlendirme Formu bu Tüzüğe ekli EK-IlI’de, Çalışma Ortamı,
+Ekipmanlar ve Malzemelerin Risk Değerlendirmesi Formu EK-IV’de yer
+alır. Risk değerlendirmesi için kullanılacak formlar, en az EK-Ill ve EK-
+IV'de yer alan formların içeriğine sahip olmalıdır.
+
+Yasal Uyum ve Eylem planı;
+
+(A)
+
+(8)
+
+İşveren yasal uyum değerlendirmesi için bu Tüzüğe ekli EK-V'de yer
+alan Yasal Uyum Tablosunu oluşturur ve yasal mevzuatta değişiklik
+olması halinde ve/veya yılda en az bir defa bu tabloyu gözden geçirir.
+Yasal Uyum Tablosu bu Tüzüğe ekli EK-V’de düzenlenmiş olup
+kullanılacak olan tablo en az bu örneğin içeriğine sahip olmalıdır.
+İşveren tarafından, risk (değerlendirmesi ve yasal o uyum
+değerlendirmesine dayanarak önleyici ve koruyucu önlemleri içeren
+eylem planı hazırlanır ve onaylanır. Eylem planı bu Tüzüğe ekli
+EK-VI'de yer alır,
+
+Risk değerlendirme, yasal uyum değerlendirme ve eylem planı “ile ilgili
+dökümanlar güncel olmalı ve yetkili makamlara sunulmak üzere hazır
+bulundurulmalıdır.
+
+Risk değerlendirmesi raporu aşağıdaki hususları içerir:
+
+(1)
+
+Genel veriler en az aşağıdaki hususları içerir;
+
+(A)
+(8)
+
+İşverenin adı ve işyerinin kayıtlı adresi,
+
+İşletmenin yürüttüğü faaliyetler,
+
+[SAYFA 5]
+Risk değerlendirmesi ve
+Yasal Uyum
+Değerlendirme
+Prosedürü
+Dokümantasyonu
+
+Risk Degerlendirmenin
+Gözden Geçirilmesi
+
+Raporun Kalitesi ve
+Yeterliliği
+
+8.
+
+9.
+
+10.
+
+(2)
+(3)
+
+(4)
+
+1734
+
+(C) Raporlama günü çalışan sayısı (kadın, erkek, 18 yaş altı genç, engelli
+çalışan),
+
+(D) Sertifikalı ve/veya inşaat sertifikalı iş sağlığı ve güvenliği uzmanı veya
+yetkili iş sağlığı ve güvenliği hizmeti veren kuruluşun ve
+görevlendirdiği kişilerin adları,
+
+(E) Raporlamatarihi.
+
+Bu Tüzüğün 8'inci maddesi uyarınca oluşturulan işyeri risk değerlendirme
+dokümantasyonu,
+
+Bu Tüzüğün 6'ncı maddesinin (3Yüncü fıkrası uyarınca oluşturulan Yasal
+Uyum Tablosu,
+
+Önleyici ve koruyucu önlemlerin uygulanması için bu Tüzüğün 6'ncı
+maddesinin (3'üncü fıkrası, 12'nci ve 13'üncü maddesi uyarınca oluşturulan
+eylem planı.
+
+Risk değerlendirme dokümantasyonu özellikle aşağıdakilerini içerir:
+
+(1)
+(2)
+
+(3)
+(4)
+(5)
+(6)
+
+(7)
+(8)
+
+(9)
+(0)
+
+(2)
+
+(3)
+
+Risk değerlendirme prosedürünün açıklanması,
+
+Mesleklere göre ve çalışma ortamı, ekipmanlar ve malzemelerin risk
+değerlendirmesinin EK-IIl ve EK-IV ‘de verilen örnek formlara göre eksiksiz
+yapılması,
+
+EK-V'de verilen örnek forma göre Yasal Uyum Tablosunun yapılması,
+
+İşte kullanılan makinelerin, ekipmanların ve aletlerin listesi,
+İşte kullanılan kimyasal maddelerin ve malzemelerin listesi,
+
+İş faaliyetleri için kullanılan dağıtım çerçevesini de (güç, medya) içeren,
+binalar, nesneler ve işyerierinin açıklaması,
+İşverenin üretimiyle ilişkili teknoloji süreçleri ve faaliyetlerinin açıklaması,
+
+Her bir meslek için kullanılması gereken kişisel koruyucu ekipmanların
+listesi,
+Dış kaynak kullanımıyla sağlanan faaliyetlerin listesi,
+
+Risk değerlendirmesi, devamlı bir süreç olup, tehlikelerin ve risklerin
+gözlemlenmesi sistemli olarak yapılmalı ve mevcut risk değerlendirmesi,
+gerekiyorsa güncellenmelidir.
+İşveren, risk ceğerlendirmesini en az yılda bir defa düzenli olarak
+tekrarlamalı ve gerekli dokümanları hazırlamalıdır. Risk değerlendirme
+dokümanlarının sayfaları numaralandırılarak; gerçekleştiren kişi ve/veya
+yetkili kuruluş tarafından her sayfası paraflanıp, son sayfası imzalanır ve
+işyerinde muhafaza edilir.
+Tekrarlanan yıllık risk değerlendirmesi sırasında görevlendiren kişi önceki
+risk değerlendirmesinin sonuçlarını gözden geçirmek zorundadır. Mevcut
+durumda ve yasal düzenlemelerde herhangi bir değişiklik yoksa ve önceki
+risk değerlendirmesinin sonuçları mevcut duruma uyuyorsa, risk
+degerlendirmesi raporu ve diğer belgeler geçerlidir.
+
+Ancak raporda, mevcut risk değerlendirmesinde herhangi bir değişiklik
+olmadığı, gözden geçirildiği tarih ve gözden geçirenin imzası olmalıdır.
+
+Aşağıda belirtilen durumların tespit edilmesi, yapılan risk ve yasal uyum
+değerlendirmesinin yetersiz olduğunu gösterir.
+
+(1)
+
+(2)
+
+(3)
+(4)
+
+Bu Tüzüğe ekli EK-II'de yer alan ve işyerinde mevcut olan tehlike
+kaynaklarının, risk değerlendirrne dokümantasyonunda tanımlanmaması ve
+değerlendirilmemesi,
+
+İşyerinin uymakla yükümlü olduğu yasal zorunlulukların Yasal Uyum
+Tablosunda tanımlanmaması, uyumsuzluk olması veya uyumsuzluğun
+belirtilmemesi,
+
+Önleyici ve koruyucu önlemlerin eylem planına dahil edilmemesi
+
+Risk değerlendirmesi, yasal uyum değerlendirmesi, eylem planı
+
+[SAYFA 6]
+Risk Değerlendirme
+Raporu ve Yasal Uyum
+Tablosunun Tekrarı
+
+Önleyici ve Koruyucu
+Örlemlerin Uygulanması
+için Eylem Planı
+
+Tedbirlerin Uygulanması,
+Belgelerin İncelenmesi ve
+İzlenmesi
+
+Sağlık ve Güvenlik
+Dosyası
+
+Mik
+
+12.
+
+13.
+
+14,
+
+1735
+
+haziriamasinin bu Tüzük kuralları uyarınca yapılmaması,
+
+İşveren, aşağıdaki durumlarda risk değerlendirme raporunun ve yasal uyum
+tablosunun tümünü ve/veya ilgili bölümünü yeniden düzenler;
+
+(0 İş kazası, ramak kala olay, tehlikeli olay veya meslek hastalığının ortaya
+çıkması halinde derhal,
+(2) Yeni bir tehlike veya riskin ortaya çıkması halinde derhal,
+
+(3) Yeni bir makine, iş ekipmanı, teçhizat ve/veya teknoloji kullanılmaya
+başlanmadan önce,
+
+(4) Yeni bir meslek veya iş kadrosunun oluşturulması durumunda, göreve
+başlamadan önce,
+
+(5) Çalışma koşullarının veya çalışma işlemlerinin değiştirilmesi durumunda,
+değişiklikler uygulanmaya başlamadan önce,
+
+(6) İşyerinin taşınması veya binalarda değişiklik yapılması halinde derhal,
+
+(7) Çalışma ortamı ölçümü ve sağlık gözetim sonuçlarına göre gerekli görülmesi
+halinde derhal,
+
+(8) Risk değerlendirmesi ve yasal uyum tablosu, bu Tüzük uyarınca yapılmamış
+olduğunun müfettiş tarafından tespit edilmesi halinde derhal,
+
+Önleyici ve koruyucu önlemlerin uygulanması için eylem planı aşağıdakileri içerir;
+
+(1) Önleyici ve koruyucu önlemlerin uygulanmasına yönelik görevlerin listesi,
+öncelik sirasina göre alınacak teknik önlemler, uygulanacak örgütsel
+önlemler, kullanılacak kişisel koruyucu donanım, yerleştirilecek güvenlik
+işaretleri, kimyasal maddelerin malzeme güvenlik formları konusunda
+verilecek eğitimler, acil durum tatbikatı, yangınla mücadele, yürütülecek
+olan tüm iş faaliyetleri, bulaşıcı hastalıklara karşı yapılacak olan aşılar,
+yapılacak tıbbi gözetim ve ilkyardım, çalışanların denetlenmesi ve izlenmesi
+vb.,
+
+(2) Sorumlu kişinin tespiti ve her önlemin uygulanma süresi,
+
+(3) Her bir önleyici faaliyet için planlanan bütçe.
+
+İşveren, onaylanan eylem planına göre önleyici ve koruyucu önlemlerin
+
+uygulanmasını sağlar. Uygulama sürecinde, eylem planının gerektirdiği belgeler
+
+incelenmeli, izlenmeli, arşivlenmeli ve talep edilmesi durumunda müfettişlere
+
+sunulmalıdır. Eylem planı uygulaması sırasında aşağıdaki belgeler oluşturulmalıdır:
+
+(1) Yönetici ve çalışanların risk değerlendirme sonuçları ile ilgili bilinçlendirme
+eğitimlerinin kaydı,
+
+(2) Risklerin, izlenmesi sisteminin tanımlanması ve değerlendirme kaydı,
+
+(3) Uygulanan önlemlerin kaydı.
+Her işyerinde İş Sağlığı ve Güvenliği ile ilgili verilerin bulundurulduğu Sağlık ve
+
+Güvenlik Dosyası oluşturulur, Sağlık ve Güvenlik Dosyası aşağıdaki bilgileri içerir;
+(1) Risk değerlendirme raporu,
+
+(2) Yasal uyum tablosu,
+
+(3) Eylem planı,
+
+(4) — İşyeriziyaretformu,
+
+(5) Eğitim notu ve kayıtları,
+
+(6) Risk değerlendirme raporu yenilemesi ile ilgili gözden geçirme kayıtları,
+(7) İş akışı ve/veya iş planı,
+
+(8) İş kazası, ramak kala olay ve/veya tehlikeli olay kayıtları ve değerlendirme
+raporları,
+(9) İş sağlığı ve güvenliği ile ilgili görevlendirilen kişilerin detayları,
+
+[SAYFA 7]
+Bilgi Sağlanması
+
+15.
+
+1736
+
+Tüm yöneticiler, çalışanlar ve temsilcileri, başka işyerlerinden çalışmak üzere gelen
+çalışanlar, bağımsız çalışanlar ve tedarikçiler; ana işveren tarafından
+görevlendirilen sertifikalı ve/veya inşaat sertifikalı iş sağlığı ve güvenliği uzmanı
+tarafından, sağlık ve güvenlik riskleri ile risk değerlendirme sonuçları konusunda
+bilgilendirilir ve eğtilir.
+
+ÜÇÜNCÜ KISIM
+
+İşveren ve Sertifikalı ve/veya İnşaat Sertifikalı İş Sağlığı ve Güvenliği Uzmanı veya Yetkili İş Sağlığı ve Güvenliği Hizmeti
+
+Yazılı Sözleşme
+
+Özel Yükümlülükler
+
+03.08.2019
+R.G.114
+
+EK Nİ
+
+A.E. 595
+
+Yenileme için Bilgi Verme
+
+Yükümlülük
+
+Görsel Bilgi Sağlama
+
+Eylem Plani Hazırlığı
+
+İnşaat İşlerinde
+Sorumluluk
+
+İnşaat Alanı Ziyaretleri
+
+16.
+
+18.
+
+19.
+
+20.
+
+Veren Kuruluşların Yükümlülükleri
+
+İşveren İş Sağlığı ve Güvenliği hizmeti almak istediği durumlarda Sertifikalı ve/veya
+İnşaat Sertifikalı İş Sağlığı ve Güvenliği Uzmanı veya Yetkili İş Sağlığı ve Güvenliği
+Hizmeti Veren Kuruluşla yazıl bir sözleşme yapmalıdır. Sözleşme verilecek
+hizmetleri ve süreleri içermelidir. Müfettişin talep etmesi durumunda işveren bu
+sözleşmeyi sunmalıdır.
+
+Sertifikalı ve/veya İnşaat Sertifikalı İş Sağlığı ve Güvenliği Uzmanı veya Yetkili İş
+Sağlığı ve Güvenliği Hizmeti Veren Kuruluşun yükümlülükleri:
+(1) Risk değerlendirme saha çalışması,
+
+(2) Yasal uyum değerlendirmesi,
+(3) Eylem planı hazırlığı,
+(4) Risk değerlendirme raporunun hazırlanması.
+
+(5) İş Sağlığı ve Güvenliği ile ilgili yapılacak olan eğitimler, sektöre uygun olarak,
+İş Sağlığı ve Güvenliği Hizmeti Veren Kişilerin Sertifikalandırılması ve
+Kuruluşların Yetkilendirilmesi Tüzüğünün 6'ncı maddesinde belirtilen
+eğitmenler tarafından verilmesi sağlanır.
+
+(6) Mevcut ve olası ciddi tehlikeler konusunda bu Tüzüğün 23'üncü maddesi
+uyarınca gerekli işlemleri yapar.
+
+İşveren, risk değerlendirmesinin yenilenmesi için bu Tüzüğün S'uncu maddesinin
+(2/'nci ve (3'üncü fıkraları uyarınca sertifikalı ve/veya inşaat sertifikalı iş sağlığı ve
+güvenliği uzmanı veya yetkili iş sağlığı ve güvenliği hizmeti veren kuruluşu
+bilgitendirir.
+
+Tehlikelerin neden olabileceği risklerin daha iyi açıklanması/anlaşılması amacıyla
+tehlikelerin tespit edildiği tarihteki ve önlem alındıktan sonraki görüntüleri Risk
+Değerlendirme Raporu içeriğine yansıtılır.
+
+Eylem planı hazırlanırken, Sertifikalı ve/veya İnşaat Sertifikalı İş Sağlığı ve Güvenliği
+Uzmanı veya Yetkili iş Sağlığı ve Güvenliği Hizmeti Veren Kuruluş, işverenle birlikte
+3 ici ve koruyucu Gniemlerin ouygulanması için eylem listesini
+turmalıfgeliştirmeli, önceliklerini dikkate alarak sorumlu kişiyi ve eylemin
+amlanacağı süreyi belirtmelidir. Eylemin gerçekleştirilmesi için gerekli olan
+finansman işveren tarafından sağlanmalıdır.
+
+DÖRDÜNCÜ KISIM
+
+İnşaat İşlerinde Risk Değerlendirme ile ilgili Kurallar
+
+İnşaatta risk değeriendirmesi, yasal uyum değerlendirmesi ve eylem planının
+hazırlanması inşaat sertifikalı iş sağlığı ve güvenliği uzmanı tarafından yapılır.
+
+(1) İnşaat alanı ziyaretleri İnşaat Sertifikalı İş Sağlığı ve Güvenliği Uzmanı
+tarafından gerçekleştirilir. Tespit edilen güvenli olmayan durum ve
+uygunsuzlukların kayıtları, önleyici ve koruyucu önlemlerin uygulanması
+amacıyla bu Tüzüğün 6'ncı maddesinin (5'üncü fıkrası, 12'nci ve 13'üncü
+maddeleri uyarınca oluşturulan eylem planı ve İnşaat İşlerinde İş Sağlığı Ve
+Güvenliği Tüzüğü'nün 9’uncu maddesinin (4)'üncü fıkrası uyarınca sağlık ve
+
+[SAYFA 8]
+Mevcut ve Olası Cicldi
+Tehlike
+
+Daireye Bilgi Verme
+Zorunluluğu
+
+Sertifikanın Geri Alınması
+09.08.2019
+R.G.114
+EKN
+A.E. 595
+
+Yetkili İş Sağlığı ve
+Güvenliği Hizmeti Veren
+Kuruluşun Yetkilendirme
+belgesinin geri alınması
+
+09.08.2019
+R.G.114
+EK IN
+
+A.E. 595
+
+Geçici Madde Mevcut
+Risk Değerlendirme
+Raporları Hakkında
+
+Yürürlükten Kaldırma
+09.11.2010
+R.G.181
+EK Ill
+A.E. 680
+
+Yürütme Yetkisi o '
+
+Yürürlüğe Giriş
+
+1737
+
+güvenlik dosyasında bulundurulur. İnşaat işlerinin büyüklüğüne göre aşağıda
+belirtilen periyodiarda inşaat alanı ziyaretleri yapılır:
+(A) 300 m?'ye kadar olan inşaat işlerinde haftada en az bir kez,
+
+(8) 301 m”den 1000 m? ‘ye kadar olan inşaat işlerinde haftada en az İki
+kez,
+(C) 1001 m'den 3995 m? 'ye kadar olan inşaat işlerinde her iş günü,
+
+(Ç) 4000 mm? ve üzeri olan inşaat işlerinde tam zamanlı,
+
+(0) Bu maddenin (A), (B) ve (C) bentlerinde belirtilen inşaat alanlarına
+gerçekleştirilecek olan ziyaret süreleri iş programı göz önünde
+bulundurularak belirlenir.
+
+(2) Her ziyaret sonucunda ziyareti gerçekleştiren kişi tarafından bu Tüzüğe ekli
+
+EK4'de yer alar verilen İşyeri Ziyaret Formu doldurulur. Bu formun bir
+
+kopyası Sağlık ve Güvenlik Dosyası'nda bulundurulur.
+
+BEŞİNCİ KISIM
+
+Mevcut ve Olası Ciddi Tehlike Durumunda Özel Hükümler
+
+23;
+
+24.
+
+m
+ur
+
+27.
+
+28.
+
+20.
+
+Sertifikalı ve/veya inşsat sertifikalı iş sağlığı ve güvenliği uzmanının ziyaret ettiği
+işyerinde mevcut ve olası ciddi tehlike tespit etmesi durumunda, işverene tespit
+edilen durumu yazılı olarak derhal imza karşılığı bildirmekle yükümlüdür. Bildirim,
+işyerinde belirlenan mevcut ve olas: ciddi tehlikenin açıklamasını, alınacak
+önlemleri ve alınacak önlemlerin tamamlanacağı tarihi içermelidir.
+
+İşyerinde tespit edilen mevcut ve olası ciddi tehlike ile ilgili gerekli önlem, işveren
+tarafından verilen süre içerisinde alınmamışsa, verilen süre sonunda, Sertifikalı
+ve/veya İnşaat Sertifikalı İş Sağlığı ve Güvenliği uzmanı alınmayan önlemleri yazılı
+olarak Daire'ye bildirmek zorundadır. Bu bildirimin ekine işverene verilen bildirimin
+bir kopyası da eklenmelidir.
+
+Sertifikalı ve/veya İnşaat Sertifikalı İş Sağlığı ve Güvenliği Uzmanı, Daire'yi bu
+Tüzüğün 24'üncü maddesi uyarınca bilgilendirmezse, İş Sağlığı ve Güvenliği Hizmeti
+Veren Kişilerin Sertifikalandırılmas: ve Kuruluşların Yetkilendirilmesi Tüzüğü'nün
+13'üncü maddesi uyarınca Daire tarafından Sertifikası ve/veya İnşaat Sertifikası
+geri alınır.
+
+Yetkili İş Sağlığı ve Güvenliği Hizmeti Veren Kuruluşu temsil eden Sertifikalı ve/veya
+İnşaat Sertifikalı İş Sağlığı ve Güvenliği Uzmanı Daire'yi bu Tüzüğün 24'üncü
+maddesi uyarınca bilgilendirmezse, Daire İş Sağlığı ve Güvenliği Hizmeti Veren
+Kişilerin Sertifikalandırılması ve Kuruluşların Yetkilendirilmesi Tüzüğü'nün 18'inci
+maddesi uyarınca yetkisini geri alır,
+
+ALTINCI KISIM
+Son Kurallar
+
+Bu Tüzük yürürlüğe girmeden önce hazırlanmış olan ve geçerliliği devam eden risk
+değerlendirmesi raporu, bu Tüzüğün yürürlüğe girdiği tarihten itibaren üç ay
+içerisinde Tüzük kurallarına uygun hale getirilmelidir.
+
+Bu Tüzüğün yürürlüğe girdiği tarihten başlayarak İş Sağlığı ve Güvenliği Yasası
+
+altında yapılmış olan İşyerlerinde Risk Değerlendirmesi Esasları Tüzüğü yürürlükten
+kalkar.
+
+Bu Tüzük, Bakanlar Kurulu adına Çalışma İşleriyle görevli Bakanlık tarafından
+yürütülür.
+
+Bu Tüzük, Resmi Gazete'de yayımlandığı tarihten itibaren yürürlüğe girer.
+
+[SAYFA 9]
+1738
+
+“atpyeLupnmpunıng epuiseAsog Yıluaan9 yes IseAdoy 14 UNO} ng :LON
+
+(s appew)
+a
+
+ezu} pedoggpy ZU} pehaggpy
+ngreulpscay Yıluaann /yıdes eASA/aA Nsnywunsos sÂnueğ eAaAJaA nsnjnloş was} a) ediz i
+ques iZesepde, 18D}
+ujusunjezng njuinsos uapanjaznd awyazng yeaeyide, 181 uain$nlg9 avenging usypy udsay ON'S
+mees Sig ysedlz pees İ1ğueydeg 3318417
+i(ztunuyag Se Ujâj ası yeesuş)iseyes yaAyers HeAs| |
+usaupy eds)
+“yuel ee py weds
+NIAWOS LAYVAIZ [HSAS!
+
+[SAYFA 10]
+1759
+
+EKİ
+(Madde 7)
+ÖNEMLİ TEHLİKELER LİSTESİ
+
+1 | Düzensiz veya kaygan yüzeyler (bu 16 | Fiziksel, zihinsel ve duyusal yük
+
+kaymalara, düşmelere, düşmelere vb.
+
+Neden olabilir) |
+2 | Hareketli araç ve makineler 17 | Aydınlatma
+3 Makinelerin hareketli parçaları 18 | Mikroiklim
+4 | Tehlikeli yüzeye sahip nesneler ve parçalar | 19 | UV, IR, iazer ve mikrodalga radyasyonu
+
+(keskin, sert vb.) |
+5 | Sicak veya soğuk yüzeyler, malzemeler vb. 20 | Elektromanyetik alanlar İyonlaştırıcı radyasyon
+6 | Yüksekişyerleri ve tırmanma noktaları 21 | Sıcak veya soğuk iklim
+
+(yükseklikten düşmelere neden olabilir) |
+7 | Elaletleri 22 | Yükleri kaldırma ve taşıma
+8 | Yüksekbasınç 23 | Kötü duruş ve tekrarlayarı hareketleri içeren
+
+İ çalışmalar
+
+9 | Elektrik tesisatı ve donanımları 24 | Biyalojik tehlikeler (virüs, parazit, küf, bakteri)
+10 | Ateş ; 25 | Kanserojenler, mutajenler
+11 | Patlama 26 | Yetersiz is organizasyonu
+12 | Kimyasal maddeler ve tehlikeli maddeler 27 | Stres, şiddet, taciz (mobbing)
+13 | Toz 28 | Kapalı alanlarda çalışmak
+14 | Ses 29 | Yalnız çalışmak
+15 | Titreme 30 | Kazıçalışmaları
+
+[SAYFA 11]
+1740
+
+ez]
+
+upeAgs-ipy Uluapuaj ağa
+
+#YMEL aulujpuauağan
+
+“apıjetjnunpınp £4 /4pyeuuye Wajug sey UaLUaH -Ys1y laoala0 Yasına YO -5
+uuipijewuejued wajug 1183 PLA ESİY - ASIY HaIIsIg YASINA “b
+
+“Apıgevejuejd wajug sey yapen eG - yS1y 1/9343 EVO -£
+
+“Hyqeuejuesd wejug Srey apea unzn - YSIN 4llgajıpa 81aJ01 /ayıaajıpa INqey -2
+
+zswaUug -T suend 4s1y
+
+mi lili pe 7 ham (souiay
+
+npoAvag bi Jade uya (S-1) Sıuuasuyuag {éatiqasaa (eamqasen {ispuusjuiupy 419 apsoypoAsaqpUL
+nywinsos jsauujpysapjasied JeJez Jajau/au 3A upLudya
+lonuoj luend | ajAjuapau ayiyjys)) | 12122 pseu) ONn’s ujuriaAss)
+1yığıı ud! 241504) ppununz uy)
+fens ay] wayu 1seuyjnjezy UDIST ASRİ sallgpal ASIM dapayılya m aAyee.
+
+1 Wajug Pyezy UDISIN nonAnsoyy andaajAj Fey qaayeey
+
+uajlnsapjasiay
+
+iseuepise ue JaAyery Njajsayy
+
+auluejny aozjeLi aye “ueudpj3
+
+BYTE TT]
+
+py uruadsy
+
+AWHOS SIANIGNATYADI ASH IYOD TATIYIISIM
+
+10N ejAeg
+
+(Z appew)
+
+1a
+
+[SAYFA 12]
+1741
+
+: ezuj
+
+uIpyewWNinpinp Sf/uipyewuye wajug Suey UaLuaH -4S1Y 4303130 YASYNA 4o5 5
+
+upeAds-ipy Ujuauşpuajıağag tye} aılpuzjlağad
+“pyewmuejuerd Ulajug 1SJey yapeA ESİY - YSIy Yoda YOSYNA -p
+“yigeuejuejd weaug Sey yaped EO - YsIy 4930130 EMO -£
+“ayiqeuejuesd Wajug Suey iyapEAa Unzr - Yt 4fığajıpa 2d2J0L /ayiqayipy jnqey -Z
+zsuaug -1 ituend YSIY
+(ıgığ
+“QA JajUBAIpPsBLU Jeyjok
+“deney nog) Hajauazjei ON
+yadyeey uayaied {uejo Sıuasunuag (ayıgasaa (ısewueşunueı | ekan uejueuudıya 1WENO J
+npoAllag Isaupnsoepjassed sjAuapau yarayiqeyey 4ese2 fiseu ULUUEJe etuSyed Sturewuejwuiuey a
+(ou Isıyı njuunuoş ust (5-1) BY) 43l41gpaj zmewi BA au 2A1$IY) ew$yjej) ajAnınpasold
+/aans Sf! af] Wafug | iseujajezy urysIy | ASIM nonAnsoy INsaajyy 24J0YYAL 49/24 YOL tunuoy 3Wuupuajadap SU away
+py ujuadsy
+
+(zappzın )
+ALI
+
+[SAYFA 13]
+1742
+
+İHJAYL AWNUJON1143930
+
+1SEZLUJ 148499 IpeAos W ipy ON’s
+NWdVA ATIN MI AN31143930
+— sa verve
+. dAey | uss, | Wag
+ye om
+ünik 151) Njuinsag yaAyjees ON
+UEUEJUEjd MİŞ nşun3An pese, ynyunsAn ZN SA Ese HIST] MNUEL YY SBS JESEA Ss
+Bip GAS)
+NSOWVLIANAN IWSWA
+(4 sppew)
+Aa
+
+“ON BjAes
+
+[SAYFA 14]
+1743
+
+iSEzLU| 148199 ipedos 2 ıpy
+IHIHWL AVNO ’ NVAVIAVNO
+
+mii enik e yetujminpanp § apjeq isyejeyieq 5 O
+
+depeyede tT -p
+
+tseueAep-z -£
+
+sele AB 271-9 -7
+
+“2811132153 Wajug YI -T
+7O4NS UBpLJOU U5! Yele sajuajug 2493 BUIseAtAas YSIy
+
+ie (et
+yey UEWUSUCU' dojuajla is@Aines
+|oJjuoy euejüee| By nyuinaas {pases yedejidek ul ısewejndAn wajuğ YSIYy Mulue| UUOYNYGl ON 'S
+
+NSOT8VL INVId W3TA3
+(Z appe)
+NE
