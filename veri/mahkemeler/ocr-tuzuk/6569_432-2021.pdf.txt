@@ -1,0 +1,860 @@
+[SAYFA 1]
+KUZEY KIBRIS TÜRK CUMHURİYETİ
+RESMİ GAZETE
+
+Sayı: 131 EKTİ 14 Haziran, 2021
+TEBLİĞ VE İLANLAR
+Sayı : 432
+VERGİ USUL YASASI
+
+(2771977, 13/1980, 24/2015 ve 50/2017 Sayılı Yasalar)
+Madde 167 ve 172A Altında Yapılan Tüzük
+
+Kuzey Kıbrıs Türk Cumhuriyeti Bakanlar Kurulu, Vergi Usul Yasası'nın 167’nci maddesinin
+
+(4'üncü fıkrası ile 172A maddesinin (1)’inci fıkrasının kendisine verdiği yetkiye dayanarak
+aşağıdaki Tüzüğü yapar:
+
+Kısa İsim he Bu Tüzük, Elektronik Fatura Düzenlenmesine İlişkin Kurallar
+Tüzüğü olarak isimlendirilir.
+
+BİRİNCİ KISIM
+Genel Kurallar
+Tefsir 9. Bu Tüzükte metin başka türlü gerektirmedikçe;
+“Bakanlık”, Maliye işleri ile görevli Bakanlığı anlatır.
+“Bilgi İşlem Sistemi”, Yükümlülerin elektronik ortamda belgeleri
+oluşturmak, kaydetmek, muhafaza etmek ve ilgili diğer işlemleri
+gerçekleştirmek amacıyla doğrudan ya da dolaylı olarak
+kullandıkları her türlü yazılım ve donanım ile saklama ortamlarını
+anlatır.
+“Daire”, Gelir ve Vergi Dairesini anlatır.
+“e-Belge”, Elektronik belgeyi anlatır.
+“e-Fatura”, Elektronik faturayı anlatır.
+“e-Fatura Numarası”, Daire tarafından düzenlenen her bir e-
+Fatura üzerinde bulunan; tek kullanımlık, sıralı ve seri haldeki harf,
+sayı ve “.”dan oluşan numaraları anlatır.
+“e-Fatura Portal”, e-Fatura uygulamasına ait temel
+fonksiyonların internet üzerinden genel kullanımını sağlamak
+amacıyla Bakanlık tarafından geliştirilen portalı anlatır.
+“e-Fatura Web Servis”, e-Fatura uygulamasına ait temel
+fonksiyonların doğrudan entegrasyon yönteminin web servis
+aracılığıyla kullanılabilmesini sağlayan sistemi anlatır.
+“Elektronik Belge”, Şekil kurallarından bağımsız olarak Yasaya
+uygun olarak düzenlenmesi zorunlu olan belgelerde yer alan
+bilgileri içeren elektronik kayıtlar bütününü anlatır.
+“Elektronik Fatura”, Yasa ve bu Tüzük kuralları uyarınca
+düzenlenen elektronik belge biçiminde oluşturulmuş faturayı
+
+anlatır. ( 049)
+
+[SAYFA 2]
+93/2007
+10/2010
+2/2011
+43/2011
+
+27/1977
+13/1980
+24/2015
+50/2017
+
+Amaç
+
+Kapsam
+
+E-Faturanın
+Özellikleri ve
+Düzenlenmesine
+İlişkin Kurallar
+
+1050
+
+“El Terminali”, e-Fatura düzenlenebilmesine ve/veya kâğıt
+çıktısının verilmesine imkân sağlayacak şekilde yazıcı tertibatı
+barındıran ve bilgi işlem sistemi ile internet üzerinden iletişim
+sağlayabilen mobil cihazları anlatır.
+
+“e-Tebliğ” İnternet vergi dairesi aracılığıyla elektronik ortamda
+Dairece yapılacak tebliği anlatır.
+
+“NES”, Nitelikli elektronik sertifikayı anlatır.
+
+“Nitelikli Elektronik Sertifika”, Elektronik İmza Yasasının
+10’uncu maddesinde yer alan kurallara uygun olarak düzenlenen ve
+sahibine ait elektronik imza doğrulama verisi ile kimlik bilgilerini
+birbirine bağlayan elektronik kaydı anlatır.
+
+“Resmi e-Fatura İnternet Adresi”, Daire tarafından belirlenip
+İnternet Vergi Dairesinin sayfasında yayımlanacak adresi anlatır.
+“Vergi Sicil Numarası”, Vergi sicil numarası, gerçek kişilerde
+Kuzey Kıbrıs Türk Cumhuriyeti Kimlik Kartı numarası, tüzel
+kişilerde ise Resmi Kabz Memurluğu ve Mukayyitlik Dairesi veya
+kayıtlı bulunduğu kurum tarafından verilen kayıt numarasını
+anlatır.
+
+“VKN”, Dairenin, İnternet vergi dairesi aracılığıyla sunacağı
+şifreli hizmetler için yükümlü olsun ya da olmasın başvuranlara
+verilen kişiye özgü vergi kimlik numarasını anlatır.
+
+“Yasa”, Vergi Usul Yasasını anlatır.
+
+“Yükümlü”, Yasaya göre vergi ödemekle borçlu gerçek veya tüzel
+kişileri anlatır.
+
+Bu Tüzüğün amacı gelişen teknolojiye uygun olarak belge ve kayıt
+tutulması ile ilgili işlemleri kâğıt ortamında yürütmek zorunda olan
+yükümlüler (açısından (o e-Faturanın; (elektronik (o ortamda
+muhafazasının ibrazının ve raporlamasının sağlanması ve
+elektronik ortamda oluşturulup kullanılacak e-Faturaya ilişkin usul
+ve esasları düzenlemektir.
+
+Bu Tüzük Dairede yükümlü sıfatıyla kayıtlı bulunan gerçek ve tüzel
+kişiler tarafından Yasa uyarınca düzenlenmesi zorunlu olan yazılı
+faturanın elektronik belge olarak düzenlenmesi, müşteriye
+elektronik ortamda iletilmesi ve elektronik ortamda muhafaza ve
+ibraz edilmesine ilişkin kuralları kapsar.
+
+İKİNCİ KISIM
+e-Faturaya İlişkin Usul ve Esaslar
+
+(1) e-Fatura, Daire tarafından Yasa ve bu Tüzük kurallarına
+uygun olarak elektronik ortamda düzenlenen ve kağıt
+ortamında oluşturulan fatura belgesi ile aynı hukuki
+niteliklere sahip bir belgedir.
+
+(2) e-Fatura düzenlenmesine ilişkin tüm süreç elektronik ortam
+üzerinden yürütülür,
+
+(3) o Yükümlüler Yasa'da belirlenen kurallar saklı kalmak koşulu
+ile e-Fatura veya kağıt ortamında oluşturulan fatura
+düzenleme yöntemlerinden istediğine başvurabilir.
+
+(4) Aynı mal satış veya hizmet satış işlemi için hem kâğıt
+ortamında hem de elektronik ortamda iki ayrı fatura
+düzenlenemez.
+
+[SAYFA 3]
+e-Fatura
+Düzenleyebilecek
+Yükümlüler
+
+6.
+
+©)
+
+(6)
+
+(7)
+
+(8)
+
+(9)
+
+(10)
+
+(11)
+
+1051
+
+Elektronik ortamda oluşturulan e- Faturanın kağıt olarak
+teslimi halinde baskı işlemi yükümlünün bizzat kendisi
+tarafından yapılabilir.
+Faturanın e-Fatura olarak oluşturulması ve gönderilmesinde
+uyulması gereken format ve standartlar resmi e-Fatura
+internet adresindeki kılavuzlarda belirtilenlere uygun olur.
+e-Fatura uygulaması yoluyla elektronik ortamda oluştutulan
+faturanın, kâğıt olarak verilen veya elektronik ortamda
+iletilen nüshası belgenin aslı, düzenleyen tarafından
+muhafaza edilen elektronik hali ise ikinci nüsha
+hükmündedir.
+e-Fatura, elektronik ortamda oluşturulduktan ve/veya basılı
+hale getirildikten sonra üzerinde herhangi bir nedenle
+değişiklik yapılamaz.
+Bu Tüzük'te belirlenen usul ve esaslar ile internet vergi
+dairesi adresinde yayımlanan teknik kılavuzlardaki e-Fatura
+format ve standartlara uygun olarak düzenlenmeyen,
+düzenlense dahi e-Fatura uygulaması aracılığıyla
+gönderilmeyen ve/veya alınmayan herhangi bir fatura, Yasa
+ve bu Tüzük kapsamında düzenlenmiş e-Fatura hükmünde
+değildir.
+
+(A) e-Fatura uygulamaları kapsamında düzenlenen e-
+Faturalar Daireye bildirilen bilgi işlem sisteminde
+veya e-Fatura Portalında oluşturulur.
+
+(B) e-Faturalar; üzerinde NES taşımaya, belge üzerinde
+doğrulamaya, görüntülemeye ve kâğıt baskı almaya
+imkan veren genel tanınırlığa sahip bir formatta olmak
+ve internet vergi dairesi adresinde yayımlanan teknik
+kılavuzlardaki e-Fatura format ve standartlara uygun
+olmak zorundadır.
+
+(C) Daire gerekli görmesi halinde, yükümlülerin
+kullandıkları e-Fatura formatının değiştirilmesini
+isteyebilir.
+
+(Ç) Uygulamayı kendi sistemi üzerinden kullanan gerçek
+kişiler ise NES ile onaylar.
+
+Tarafların tümünün e-Fatura uygulaması kullanıcısı olduğu
+
+durumlarda yükümlülerin, birbirleri için düzenledikleri
+
+faturaların, bu Tüzükte belirlenen usul ve esaslara uygun
+olarak düzenlenmesi, gönderme veya alma işlemlerinin de
+
+Daire (tarafından oluşturulan e-Fatura uygulamasi
+
+aracılığıyla gerçekleştirilmesi zorunludur.
+
+Yükümlülerin e-Fatura düzenleyebilmesi için;
+
+(1)
+(2)
+
+İnternet Vergi Dairesi Kullanıcısı olması,
+Daire tarafından Yasa kuralları uyarınca mal veya hizmet
+satışı dolayısıyla fatura düzenlemeye uygun bulunması,
+
+[SAYFA 4]
+e-Faturanın
+Şeklini
+Belirlemeye
+Yetkili Makam
+
+e-Faturanın Şekli
+ve İçeriği
+
+8.
+
+(3)
+
+(4)
+
+(1)
+
+(2)
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+1052
+
+e-Fatura düzenleyebilme ve iletebilme konusunda elektronik
+ortamda hazırlıklarını tamamlaması ve bu Tüzük kurallarının
+gerekliliklerini yerine getirmesi,
+
+Dairenin internet sitesinde yayımlanan koşullara uygun
+olarak e-Fatura düzenlemek için yaptıkları başvuruların
+Daire tarafından onaylanması şarttır.
+
+Bu Tüzük kurallarına uygun olarak e-Faturanın şeklini
+düzenlemeye yetkili makam Daire'dir.
+
+Daire, teknolojinin gelişmesi ve/veya başka nedenlerle
+yürürlükte bulunan e-Faturanın yetersiz kalması durumunda
+e-Fatura kullanıcılarına e-Tebliğ aracılığıyla on beş iş günü
+önceden bilgi vermek kaydıyla e-Faturanın şeklini
+değiştirebilir.
+
+e-Faturada en az aşağıdaki bilgilerin bulunması gerekir:
+
+(A) | e-Faturanin düzenlenme tarihi ve fatura numarası,
+
+(B) e-Faturayı düzenleyenin adi/soyadi, varsa ticaret
+unvanı, iş adresi, Dairede kayıtlı olduğu şube, vergi
+sicil numarası ve vergi kimlik numarası,
+
+(C) Müşterinin adı/soyadı, ticaret unvanı, varsa Dairede
+kayıtlı olduğu şube, sicil numarası ve vergi kimlik
+numarası (VKN),
+
+(Ç) Malın veya işin nevi, miktarı, fiyatı ve tutarı,
+
+(D). Satılan malların irsaliye tarihi ve varsa irsaliye
+numarası,
+
+(E) Daire sistemlerinden elektronik ortamda
+sorgulanması, doğrulanması ve görüntülenmesine
+imkân vermek üzere Daire tarafından içeriği
+belirlenen barkod veya karekod.
+
+İhtiyaç duyulması halinde Dairenin talebi üzerine veya
+
+yükümlülerin kendi ihtiyaçları doğrultusunda e-Faturada
+
+yukarıdaki (1'inci fıkrada yer alan zorunlu bilgilere ilave
+farklı bilgilere de yer verilebilir.
+
+e-Fatura uygulaması kapsamında düzenlenen faturalarda,
+
+düzenleme tarihi yanında düzenleme zamanının saat ve
+
+dakika olarak gösterilmesi zorunludur.
+
+İnternet satışı üzerine düzenlenecek e-Faturanın üzerinde
+
+yukarıdaki (1)’inci fıkrada yer alan bilgilere ilave olarak
+
+açıklama kısmına;
+
+(A) “Bu satış internet üzerinden yapılmıştır.” ifadesinin,
+
+(B) Satis işleminin yapıldığı web adresi, ödeme şekli ve
+tarihi, satışa konu malın gönderildiği veya hizmetin ifa
+edildiği tarih ve mal satışı söz konusu olduğunda
+gönderiyi taşıyanın; adı soyadı/unvanı, VEN ve sicil
+numarası bilgilerinin yer alması zorunludur.
+
+[SAYFA 5]
+e-Fatura 9.
+Düzenleyenlerin
+Kağıt Ortamında
+Oluşturulan
+
+Fatura
+
+Bulundurma
+Zorunluluğu
+
+e-Fatura 10.
+
+Uygulaması
+
+e-Fatura II
+
+Uygulamasından
+Yararlanma
+Yöntemleri
+
+e-Fatura Portal 12,
+
+Yöntemi
+
+(1)
+
+(2)
+
+1053
+
+Bu Tüzüğe konu e-Fatura uygulamalarına dahil olan
+yükümlüler, e-Fatura yanında kâğıt ortamında da fatura
+düzenleyebilirler.
+
+Ancak, her bir mal satış veya hizmet satış işlemi için
+seçecekleri yönteme bağlı olarak tek bir fatura düzenlenir.
+Bu Tüzük uyarınca e-Fatura düzenleme yetkisi bulunan
+yükümlülerin, sadece e-Fatura düzenlemeyi seçmeleri
+halinde de Yasa tarafından zorunlu tutulan fatura düzenleme
+yükümlülüğünün aksamaması amacıyla sistemde arıza veya
+kesinti meydana gelmesi veya diğer mücbir sebep
+durumlarında kagit ortamında oluşturulan (fatura
+düzenlemeleri ve bu amaçla tüm yükümlülerin yeterli
+miktarda, Daire tarafından onaylı kâğıt ortamında fatura
+bulundurmaları zorunludur.
+
+ÜÇÜNCÜ KISIM
+e-Fatura Uygulaması ile İlgili Kurallar
+
+e-Fatura uygulaması, e-Belge olarak düzenlenen faturaların
+tarafları arasında dolaşımı ile ilgili oluşturma, gönderme ve alma
+zamanı gibi önemli kayıtların tarafsız bir biçimde tutulmasını
+sağlamak ve bu Tüzük kurallarına uygunluğunu, göndericinin
+kimliğini ve doğruluğunu, e-Faturanın geçerliliğini ve içeriğinin
+bütünlüğünü ve usulüne uygunluğunu denetlemek ve arşivlemek
+amacı ile Daire tarafından oluşturulan uygulamanın genel adıdır.
+
+e-Fatura uygulamasından yararlanma yöntemleri şunlardır;
+
+(1)
+
+(2)
+
+(1)
+
+Dairenin resmi e-Fatura internet adresindeki e-Fatura Portal
+yöntemi veya
+
+Doğrudan entegrasyon yöntemi olan kendi bilgi işlem
+sistemlerinin e-Fatura web servisine entegre edilmesi
+yöntemi.
+
+e-Fatura portal yöntemi, Daire tarafından geliştirilen ve e-
+
+Fatura uygulamasına ait temel fonksiyonları bünyesinde
+
+barındıran internet portalleri aracılığıyla yükümlülere, e-
+
+Faturanın oluşturulması imkânını tanıyan yöntemdir.
+
+e-Fatura portal yöntemiyle fatura oluşturabilmek için;
+
+(A) İnternet vergi dairesi hesabının aktif olması,
+
+(B) Başvuru şartlarını içerecek Daire tarafından resmi
+internet vergi dairesi adresinde yayımlanan “Başvuru
+Kilavuzu”’ndaki şartlara uyulması,
+
+(C) Bu Tüzüğün 14'üncü maddesine uygun olarak yetki
+verilen yükümlülere, Daire tarafından kullanıcı
+hesaplarının tanımlanması
+
+gerekir.
+
+[SAYFA 6]
+Doğrudan
+Entegrasyon
+Yöntemi
+
+13.
+
+(2)
+
+(3)
+
+(4)
+
+1054
+
+Kullanıcı hesapları tanımlananlar, e-Fatura gönderme
+ve/veya alma işlemlerini e-Fatura portalında yer alan ara
+yüzleri kullanarak yaparlar.
+
+Daire e-Fatura Portal Yöntemi ile düzenlenecek e-Faturanın,
+düzenlendiği sektör ve fatura düzenlenmesine ilişkin
+uygulamaların özelliklerini göz önünde bulundurarak
+belirlemeye, faaliyet alanlarına göre sınırlandırmaya ve bu
+durumları Daireye ait resmi internet vergi dairesi ya da e-
+Fatura Portallerinde duyurmaya yetkilidir.
+
+Daire tarafından e-Fatura Portalleri üzerinde tanımlanmamış
+ve/veya uygulamaya konulmamış e-Faturanın düzenlenmesi
+ve/veya iletilmesi mümkün değildir.
+
+Doğrudan Entegrasyon Yöntemi; e-Fatura uygulamalarını
+kullanma konusunda yeterli alt yapıya sahip olan yükümlülerin
+bilgi işlem sistemlerini Daire'nin e-Fatura portaline entegre etmek
+suretiyle e-Fatura uygulamalarını doğrudan kendilerine ait bilgi
+işlem sistemleri aracılığıyla kullanarak belgeleri oluşturmalarını
+sağlayan yöntemdir.
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+Doğrudan Entegrasyon Yöntemi ile uygulamayı kullanacak
+yükümlülerin başvuru şartlarını içerecek “Başvuru
+Kılavuzları” Daire tarafından internet vergi dairesi adresinde
+yayımlanır.
+
+Başvuru sahiplerinin bilgi işlem sisteminin e-Fatura
+portalına entegrasyonunu yapabilmesi için uymak zorunda
+oldukları kurallar ve sağlanması gereken standartlar ile
+yapılması gereken işlemleri içeren kılavuzlar Daire
+tarafından resmi internet vergi dairesi adresinde yayımlanır.
+Uygulamaları kendi bilgi işlem sistemini doğrudan entegre
+etmek suretiyle kullanmak isteyen yükümlüler, e-Fatura
+portalı uygulamasına başvurduktan sonra, kendi bilgi işlem
+sistemlerinin e-Fatura portalına entegrasyonu için de
+Daireye başvuruda bulunurlar. Başvurular, yükümlüye ait
+sistemin yapısının, işleyişinin ve bu sistemde düzenlenecek
+belge ve raporların, bu Tüzükte ve internet vergi dairesi
+adresinde yayımlanan “e-Fatura Teknik Kılavuzları” nda
+belirlenen usul ve esaslara uygun olup olmadığı Daire
+tarafından değerlendirilip ilgili yükümlüye bildirilir.
+Başvurusu uygun bulunan yükümlülere Daire tarafından test
+kullanıcısı ve yetki tanımları verilir. Doğrudan entegrasyon
+çalışmaları, başvuru tarihinden itibaren en geç iki ay
+içerisinde tamamlanmak zorundadır.
+
+Entegrasyon sürecini başarı ile tamamlayan yükümlüler,
+başvuru ve onay sürecini başarı ile tamamladıktan sonra e-
+Fatura uygulamalarını kendi bilgi işlem sistemleri
+aracılığıyla kullanmaya başlar.
+
+[SAYFA 7]
+e-Fatura
+Uygulamasına
+Başvuru :
+Koşulları
+
+14,
+
+6)
+
+(6)
+
+(7)
+
+(8)
+
+1055
+
+Değerlendirme aşamasında eksiklikleri tespit edilen
+yükümlülere, söz konusu eksiklikleri gidermeleri için yazı
+ile iki ay süre verilir. Bu süre zarfında tespit edilen
+eksiklikleri gideren yükümlülerin kullanıcı hesaplarını Daire
+tanımlar ve aktive edilir. Bu işlemlerin tamamlanmasının
+ardından kullanıcı hesabı aracılığıyla e-Fatura gönderme ve
+alma işlemleri gerçekleştirilir.
+
+Bu süre içerisinde eksikliklerini gidermeyen yükümlülerin
+başvuruları reddedilir. Bu fıkra uyarınca başvuruları
+reddedilen yükümlülerin, ret tarihini izleyen bir ay içerisinde
+yapacakları başvurular kabul edilmez. Ancak e-Fatura Portal
+yöntemini kullanmak üzere başvuruda bulunabilirler ve bu
+Tüzüğün 12'nci maddesinde düzenlenen e-Fatura Portal
+yöntemi aracılığıyla e-Fatura uygulamasından
+yararlanabilirler.
+
+Yükümlüler, başvuru ve onay sürecini başarı ile
+tamamladıkları e-Fatura uygulamalarını kendi bilgi işlem
+sistemleri aracılığıyla kullanırlar.
+
+Bilgi işlem sistemi yurt dışından yönetilen yükümlülerin e-
+Fatura uygulamasından doğrudan entegrasyon yöntemiyle
+yararlanma konusundaki talepleri, yapacakları başvuru
+üzerine Daire tarafından değerlendirilerek onaylanması
+koşulu ile e-Fatura gönderip almalarına izin verilir.
+
+Daire gerek görmesi halinde ilave bilgiler isteyebileceği gibi,
+yükümlüye ait bilgi işlem sisteminde yerinde incelemeler yapabilir.
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+e-Fatura uygulamasından yararlanmak isteyen yükümlülerin
+Daire'nin resmi e- Fatura internet adresinde yayımlanan
+başvuru kılavuzuna uygun olarak gerekli işlemleri yapmaları
+gerekir.
+
+e- Fatura uygulamalarına ait temel fonksiyonları doğrudan
+entegrasyon yöntemi ile kullanacak yükümlülerin şifre
+almaları, portal kullanıcılarının ise yetki almaları gerekir.
+e-Fatura Uygulamasına ait temel fonksiyonların internet
+üzerinden genel kullanımını sağlamak amacı ile şifre almak
+için ilk başvuruyu tüzel kişi yükümlüsünün Direktörü veya
+Yönetim Kurulunun yazılı olarak yetki verdiği kayıtlı iş yeri
+çalışanı, gerçek kişi yükümlüsünün ise işyeri sahibi veya
+yetki verdiği kayıtlı iş yeri çalışanının bizzat Daireye
+yapması gerekir. İlk başvuru esnasında yükümlü yetki ve
+sorumluluklarını içeren bir taahhütname imzalar.
+
+Daire tarafından başvuruları uygun bulunan yükümlülere
+kullanıcı hesapları tanımlanarak e-Fatura düzenleme yetkisi
+verilir
+
+[SAYFA 8]
+e-Fatura
+Uygulamasında
+Borç Fişi veya
+Alacak Fişi
+
+e-Faturanin İptal
+
+15.
+
+16.
+
+(1)
+
+(2)
+(3)
+
+(4)
+
+(5)
+
+(1)
+
+(2)
+
+1056
+
+Kağıt ortamında oluşturulan fatura veya e-Fatura karşılığı
+yapılan satış işlemi sonrasında herhangi bir sebeple iade
+işlemine gerek duyulması halinde e-Fatura uygulamasından
+yararlanan yükümlüler, e-Fatura Uygulamasında elektronik
+belge olarak bulunan borç veveya alacak fişi
+düzenleyebilirler. Borç fişi, iade işlemini gerçekleştirmek
+isteyen alıcı tarafından, alacak fişi ise satıcı tarafından
+düzenlenir.
+Borç ve/veya alacak fişleri üzerinde iade edenin adı soyadı,
+adresi, imzası; iade edilen mala ilişkin cins, miktar, birim
+fiyat ve tutarı ile iade konusunun düzenlendiği fatura veya e-
+Fatura numarası bulunması zorunludur.
+e-Fatura düzenlenerek gerçekleştirilen işlemler için iade söz
+konusu olduğunda e-Fatura uygulaması üzerinden elektronik
+ortamda ayrı ayr borç fişi ve/veya alacak fişi
+düzenlenebileceği gibi kâğıt ortamında da borç fişi ve/veya
+alacak fişi düzenlenebilir.
+Aynı iade konusu için doldurulacak borç ve/veya alacak fişi
+elektronik veya kâğıt ortamlarından biri seçilerek farklı
+yöntemlerle düzenlenebilir.
+İade konusu için kâğıt ortamında birden fazla oluşturulan
+fatura veya e-Fatura düzenlenmiş olması halinde, tüm fatura
+veya e-Fatura numaralarının alacak ve/veya borç fişi
+üzerinde ayrı ayrı referans olarak gösterilmesi zorunludur.
+Birden fazla iadeye konu olacak tek bir faturanın olması
+halinde ise, aynı fatura numarası birden fazla borç veya
+alacak fişi üzerinde yer alabilir.
+
+DÖRDÜNCÜ KISIM
+
+Çeşitli Kurallar
+
+e-Faturalar hatalı düzenlenmesi gibi geçerli herhangi bir
+sebeple iptal edilebilir.
+
+Elektronik ortamda iptal işleminin koşulları şunlardır:
+
+(A) Bu Tüzük kuralları uyarınca usulüne uygun olarak
+düzenlenen e-Faturaların iptali sadece e-Fatura
+uygulamasında yer alan “iptal” kısmında yapılır.
+
+(B) İptal, satıcı tarafından ve e-Faturanın düzenlendiği ay
+için öngörülen katma değer vergisi beyannamesinin
+verilme süresi içerisinde yapılır.
+
+(C) İptal edilen e-Fatura yok hükmünde sayılır ve herhangi
+bir hukuki sonuç doğurmaz.
+
+(Ç) Hem alıcının hem de satıcının e-Fatura uygulaması
+kullanıcısı olduğu durumlarda iptal, satıcının iptal
+kısmını Oo doldurması, Oo alıcının da e-Fatura
+uygulamasında iptal işlemine onay vermesiyle
+gerçekleşir.
+
+[SAYFA 9]
+Muhafaza ve
+İbraz
+Yükümlülüğü
+
+e-Fatura
+Numarası
+
+Wu
+
+18.
+
+(1)
+
+(2)
+
+1057
+
+(D) Haksız iptal yaparak Daireyi ve/veya üçüncü kişiyi
+zarara uğratan, vergi kaybına sebep olan ve/veya iptal
+edilmiş bir e-Faturayı geçerli bir belge gibi kullanarak
+haksız bir kazanç sağlayanlar hakkında Yasa'da
+düzenlenen vergi suç ve cezalar uygulanır.
+
+Yükümlüler, düzenledikleri ve adlarına düzenlenen bu
+Tüzüğe konu e-F. ıraları kendilerine iletim/teslim şekline
+uygun olarak yasal . üreler dâhilinde muhafaza etmekle ve
+Daire tarafından talep edildiğinde ibraz etmekle
+yükümlüdürler.
+
+Muhafaza ve ibraz yükümlülüğü, arşivlenen faturaların
+doğruluğuna, bütünlüğüne ve değişmezliğine ilişkin olan her
+türlü elektronik kayıt ve veri, veri tabanı dosyası, saklama
+ortamı ile doğrulama ve görüntüleme araçlarının tümünü
+kapsamakta olup, e-Faturalara kolaylıkla erişebilmeyi,
+anlaşılabilir ve eksiksiz bir biçimde görüntüleyebilmeyi ve
+belgelerin okunabilir kâğıt baskılarını — tiretebilmeyi
+sağlayacak şekilde olur.
+
+e-Faturalarda;
+
+(1)
+
+(2)
+
+(3)
+
+(A) Seri-sra numarası yerine otuz bir karakter
+uzunluğunda vergi kimlik numarası, belge türü kodu,
+yıl, seri ve sıra numaraları formatındaki e-Fatura
+numarası kullanılır. Vergi kimlik numarası dokuz
+karakter, belge tür kodu iki karakter, yıl dört karakter,
+seri iki karakter ve sıra numarası on karakter
+uzunluğunda olmalıdır.
+
+(B) Belge tür kodu resmi e-Fatura internet adresindeki
+kılavuzlarda belirtilmiştir.
+
+(C) Seri sıra numaraları yılsonunda sıfırlanmazlar.
+Kullanılacak seri ve sıra numaralarının tafsilatları
+yapılmalı ve internet vergi dairesi sitesi üzerinden
+tanımlanmalıdır. Tanımı yapılmayan seri ve sıra
+numaraları kullanılamaz. Birden fazla serinin
+kullanılmak istenmesi durumunda her seri internet
+vergi dairesi sitesi üzerinden tanımlanmalıdır ve her
+seri için sıra satın alınmalıdır.
+
+e-Faturalar üzerinde yer alan e-Fatura numaraları
+
+düzenlenme sırasına göre birbirini izleyecek biçimde verilir.
+
+Ayni kuruluşun muhtelif şube ve kısımlarında e-Fatura
+
+düzenlenmesi halinde, e-Faturalara ilişkin belge numaraları
+
+Daire tarafından sağlanan sıralı e-Fatura numarasına sahip
+
+olur.
+
+Aynı e-Fatura numarası ile birden fazla e-Fatura
+
+oluşturulamaz.
+
+[SAYFA 10]
+e-Fatura 19.
+
+Üzerinde Yer
+Alacak Gelir ve
+Vergi Dairesi
+Amblemi
+
+Sorumluluk ve 20.
+
+Cezai
+Müeyyideler
+
+Dairenin Yetki ve 21.
+
+Sorumlulukları
+
+e-Fatura 22.
+
+Kullanıcılarının
+Sorumlulukları
+
+(4)
+
+(1)
+
+(2)
+
+(1)
+
+(2)
+
+(1)
+
+(2)
+
+(3)
+(4)
+
+(1)
+
+1058
+
+Aynı e-Fatura numarasına sahip birden fazla e-Faturanın
+sisteme gönderilmesi durumunda gönderilen ilk belge
+kaydedilerek e-Fatura oluşturulur. Diğer belgeler ise sistem
+tarafından otomatik olarak geçersiz sayılır ve e-Fatura
+niteliği kazanamaz.
+
+e-Fatura uygulamaları kapsamında elekironik ortamda
+düzenlenen e-Faturaların alıcısına kağıt olarak verilen veya
+elektronik ortamda iletilen aslı ile düzenleyen tarafından
+muhafaza edilen elektronik hali üzerinde, “Gelir ve Vergi
+Dairesi amblemi”, “Maliye Bakanlığı” ibaresi ve e-Faturaya
+ilişkin ibarenin renkli olarak yer alması esastır. Ancak
+düzenleyen tarafından muhafaza edilen elektronik hali
+üzerinde bulunan amblem ve ibarelerin renkli olarak yer
+alması koşuluyla, alıcısına kâğıt olarak iletilen asıl nüshaları
+üzerine siyah-beyaz olarak da basılması mümkündür, Kâğıt
+çıktı üzerinde satıcı veya yetkilisine ait ıslak imza veya hazır
+imza ile kaşe veya damgasının bulunması zorunludur.
+
+Bu Tüzük uyarınca kendilerine el terminalleri vasıtası ile e-
+Fatura uygulaması kapsamında e-Fatura düzenleme ve
+müşterilere kâğıt olarak veya elektronik ortamda iletme izni
+verilen yükümlülerde ıslak imza veya hazır imza ile kaşe
+veya damga zorunluluğu aranmaz.
+
+Bu Tüzüğe konu uygulamalar kapsamında izin alan
+yükümlülerden bu Tüzükte ve bu Tüzüğe konu
+uygulamaların açıklandığı kılavuzlarda yer alan usul ve
+esaslara aykırı biçimde e-Fatura düzenleyenler hakkında,
+işledikleri fiilin türüne göre Yasada öngörülen cezalar
+uygulanır.
+
+e-Fatura ile ilgili kurallara uymayan kullanıcılar hakkında
+Yasada düzenlenen cezalar uygulanır.
+
+Daire, e-Faturaya ilişkin yürütmekle yükümlü olduğu
+görevlerin gerektirdiği kararları alır ve alacağı yeni karar
+ve/veya değişikliklerin duyurusu için e-tebliğ yöntemini
+kullanabilir.
+
+Yasalarda öngörülen süreler içerisinde usulüne uygun
+bildirimleri e-Fatura düzenleyecek yükümlülere yapar
+Yasada düzenlenen kurallar uyarınca belirlenen süreler için
+e-Faturaları muhafaza eder.
+
+Bilgi güvenliğinin sağlanmasından ve Yasa kuralları
+uyarınca kişisel verilerin korunmasından sorumludur.
+
+e-Fatura uygulamalarına dahil olanlar, e-Faturalara ilişkin
+elektronik kayıtların bozulması, silinmesi, zarar görmesi,
+işlem görememesi veya olağanüstü durumlarda durumu üç iş
+
+[SAYFA 11]
+Yürütme Yetkisi
+
+Yürürlüğe Giriş
+
+23.
+
+24.
+
+(2)
+
+(3)
+
+1059
+
+günü içinde Daireye bildirerek bu kayıtları nasıl
+tamamlayacaklarına ilişkin ayrıntılı bir plan sunmak
+zorundadırlar.
+
+Bu Tüzüğe konu uygulamaları kendi sistemi üzerinden
+kullananlar, bilgi işlem sistemlerini oluşturan donanımların
+bir kısmının veya tamamının haczedilmesi veya yetkili
+merciler tarafından el konulması halinde, durumu en geç üç
+iş günü içerisinde Daireye bildirmek ve kayıtlarını nasıl
+tamamlayacaklarına ilişkin ayrıntılı bir plan sunmak
+zorundadırlar.
+
+e-Fatura uygulamasını kendi sistemi üzerinden kullananlar,
+bilgi işlem sistemini oluşturan yazılım, donanım, dosya,
+dokümantasyon ve benzeri unsurları, kısmen veya tamamen
+vergi incelemesi yapanların veya Daire tarafından
+görevlendirilen personelin erişiminin ve denetlemesinin
+engellenmesine dair sözleşme veya lisans yapılamaz.
+
+BEŞİNCİ KURALLAR
+Son Kurallar
+
+Bu Tüzük, Maliye işleri ile görevli Bakanlık tarafından yürütülür,
+
+Bu Tüzük, Resmi Gazete'de yayımlandığı tarihi izleyen ayın
+başından başlayarak yürürlüğe girer.

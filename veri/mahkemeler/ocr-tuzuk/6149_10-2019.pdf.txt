@@ -1,0 +1,106 @@
+[SAYFA 1]
+Sayı: 10
+
+35
+
+KENT GUVENLIKYONETIM SİSTEMİ YASASI
+(31/2018 Sayılı Yasa)
+
+Madde 16 Altında Yapılan Tüzük
+
+Kuzey Kıbrıs Türk Cumhuriyeti Bakanlar Kurulu, Kent Güvenlik Yönetim Sistemi Yasası'nın 16'ncı
+maddesinin (3)*üncü fıkrasının kendisine verdiği yetkiye dayanarak aşağıdaki Tüzüğü yapar:
+
+Kısa İsim İ;
+Tefsir 2
+31/2018
+
+Bu Tüzük, Bilişim Sistemlerinin Kurulabileceği Kamusal Alanların Kriterleri Ve
+Özellikleri Tüzüğü olarak isimlendirilir.
+
+BİRİNCİ KISIM
+GENEL KURALLAR
+
+Bu Tüzük metni başka türlü gerektirmedikçe;
+
+“Bilişim Sistemi”, Bir veya birden fazlası, belirli bir yazılım çerçevesinde otomatik
+olarak veri işleyebilen bir cihazı veya birbirine bağlı veya birbirleriyle ilişkili bir
+dizi cihazı anlatır.
+
+“Konut”, İlgili zamanda sahibinin veya zilyedinin kendisinin, ailesinin veya
+müstahdemlerinin veya onlardan herhangi birinin içinde ikamet amacıyla
+bulundurulan herhangi bir binayı veya yapıyı veya bir bina veya yapının bir
+kısmını içerir, ve böyle bir yerde zaman zaman ikamet edilmemesine bakılmaz;
+konuta bitişik olan veya konut ile ilgili herhangi bir amaç için zilyet edilen veya
+kullanılan bir bina veya yapı, konut ile aralarında gerek doğrudan doğruya gerekse
+kapalı ve etrafı çevrili birinden ötekine bir geçitle bağlantı varsa konutun bir
+parçası sayılır.
+
+“Kamusal Alan” Kamuya ait, kamu ile ilgili işlerin yapıldığı yeri anlatır.
+
+“Kamuya Açık Alan”, Kamunun tamamına açık olan, kamunun siyasi ya da sosyal
+taleplerini ortaya koyabildiği, herkese açık alanları ve kişilerin kendilerine özgü
+yaşayış biçimlerini içermeyen ve özel olmayan alanları anlatır.
+
+“Kamu Yolu”, Herhangi başka bir idare veya kurumun denetimi altında
+bulunmasına ve onarım ve bakım giderlerinin bu gibi idare veya kurumca
+karşılanmasına bakılmaksızın, ilgili zamanda yürürlükte bulunan herhangi bir Yasa
+ile halkın kullanması için aidiyeti Devlete intikal etmiş olan herhangi bir sokağı,
+meydanı, patikayı, açık yeri veya açık alanı anlatır ve üzerinde halkın geçit hakkı
+olan herhangi bir patikayı, açık yeri veya alanı ve üstünden bir kamu yolu geçen
+herhangi bir köprüyü veya menfezi veya bu gibi köprü veya menfezin korkuluğunu
+veya köprü kenarındaki duvarları ve bir kamu yolu ile birlikte kullanılan herhangi
+bir hendeği, seti, banketi, kanalı, istinat duvarını, veya ıslak ve bozuk yerlerde
+yayalar için yapılan geçici geçit veya yolu veya herhangi bir kamu yolunun
+korunması veya yararlanması için ayrılmış olan ve o yolun bitişiğinde bulunan
+herhangi bir araziyi de kapsar.
+
+“KGYS”, Yasa'nın 2'nci maddesinde tanımlanan “Kent Güvenlik Yönetim
+Sistemleri”ni anlatır.
+
+“Kritik Tesis”, Toplumun ihtiyaçlarını sürdürmesi için gerekli olan birincil öneme
+sahip yapı ve sistemi anlatır.
+
+“Kurul”, Yasanın 5'inci maddesi altında oluşturulan Kent Güvenlik Sistemleri
+Kurulunu anlatır.
+
+“Yasa”, Kent Güvenlik Yönetim Sistemi Yasası'nı anlatır.
+
+[SAYFA 2]
+36
+
+Amaç 3. — Bu Tüzük, Kent Güvenlik Yönetim Sisteminin kurulacağı kamusal alanların kriter
+
+ve özelliklerinin belirlenmesini amaçlamaktadır.
+Kapsam. 4. Bu Tüzük, kurula yetki veren Bilişim Sistemlerinin kurulacağı kamusal alanların
+
+kriter ve özelliklerini kapsamaktadır.
+
+İKİNCİ KISIM
+KAMUSAL ALANLARIN KRİTERLERİ VE ÖZELLİKLERİ
+Bilişim 5. KGYS Bilişim sistemi kurulacak katünssl alanların kriterleri ve özellikleri;
+Sistemlerinin (1) Polis Genel Müdümdügü tarafından istatistiki verilere dayanilarak
+Kurulacağı hazırlanacak olan suçun yoğun olduğu bölgeler,
+Kamusal (2) Kamu binalarının kamuya açık dış alanları,
+Alanların (3) Polis Genel Müdürlüğü tarafından tespit edilen bölgelerde suç işlenme |
+Kriterleri oo ve ihtimalinin yüksek olduğu meydan, karayolları, cadde, park gibi yerlere ve
+Özellikleri ticaret, finans, eğlence, eğitim ve konaklama faaliyetlerinin olduğu kamuya
+açık alanları,
+
+(4) Nüfusun yoğun olduğu bölgeler,
+
+(5) Kritik tesislerin kamuya açık alanları,
+
+(6) Trafik yoğunluğuna sahip kamu yolları, kavşaklar ve bölgeler,
+
+(7) Yol ve Trafik güvenliğinin sağlanması, trafik kazaları ile can ve kayıplarının
+
+önlenmesi için belirlenen bölgeleri ve
+(8) Konutların kamuya açık alanlarıdır.
+ÜÇÜNCÜ KISIM
+SON KURALLAR
+
+Yürütme 6. Bu TüzükBakanlar Kurulu adına Başbakanlık tarafından yürütülür.
+Yetkisi
+
+Yürürlüğe Giriş 7. Bu Tüzük Resmi Gazete'de yayımlandığı tarihten başlayarak yürürlüğe girer.

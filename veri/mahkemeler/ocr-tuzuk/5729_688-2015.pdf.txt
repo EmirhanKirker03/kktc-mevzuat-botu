@@ -1,0 +1,3325 @@
+[SAYFA 1]
+Tüzük metni aşağıdadır.
+
+[SAYFA 2]
+Sayı : 688
+
+2068
+
+ELEKTRONİK HABERLEŞME YASASI
+
+(6/2012 ve 21/2014 Sayılı Yasa)
+Madde 62 Altında Yapılan Tüzük
+
+Kuzey Kıbrıs Türk Cumhuriyeti Bakanlar Kurulu, Elektronik Haberleşme Yasası'nın
+
+© 62'nci Maddesinin kendisine verdiği yetkiye dayanarak aşağıdaki Tüzüğü yapar.
+
+Kısa İsim
+
+Tefsir
+
+1. Bu Tüzük, “Telsiz Tüzüğü” olarak isimlendirilir.
+
+BİRİNCİ KISIM
+Genel Kurallar
+
+2. Bu Tüzükte metin başka türlü gerektirmedikçe,
+
+“Abone”, Bir haberleşme sağlayıcı ile bu hizmetlerin verilmesi için
+yapılmış bir sözleşmeye taraf olan herhangi bir gerçek veya tüzel kişiyi
+
+. anlatır.
+
+“Acil Durum ve Afet Haberleşmesi”, Afetlerde, beklenmedik olaylarda
+veya can ve mal emniyeti ve milli güvenlik ile ilgili durumlar veya
+
+- bunların tatbikatlarında mahalli, bölgesel veya yurt çapında olağanüstü
+
+hal ve acil durum haberleşmesini koordine eden ilgili kuruluşlara
+yardımcı olmak üzere, amatör telsizcilerin ilgili kuruluşlarla veya kendi
+aralarında yaptıkları telsiz haberleşmesini anlatır. ;
+“AFA (Adaptive Frequency Agility)”, Cihazın kendi kullanım özelliğine
+göre tanımlı bir aralıkta boş olan bandı bularak yayım frekansını o banda
+değiştirme kabiliyetini anlatır. ;
+“AM (Amplitude Modulation)”, Genlik modülasyonunu anlatır.
+“Amatör Telsizei”, Hiçbir maddi, kişisel veya siyasi çıkar gözetmeden,
+kendi istek ve çabası ile telsiz iletişim teknikleri alanında kendini
+yetiştirmek amacıyla ulusal ve uluslararası amatör telsizcilik faaliyetinde
+bulunmak isteyen ve amatör telsizcilik belgesine sahip olan gerçek kişiyi
+anlatır.
+“Amatör Telsizcilik Belgesi”, Türkiye veya Avrupa Birliği üyesi
+ülkelerde ilgili yetkili kurumdan amatör telsizcilik sınavını kazanarak
+verilen, amatör telsizcinin sınıfı, yetkileri ve çağrı işaretini belirleyen ve
+Kurum tarafından onaylanan belgeyi anlatır.
+“AMPR (Amateur Packet Radio)”, Amatör Paket Radyo Sistemini
+anlatır.
+“Anten”, Bir sistemden aldığı sinyali; ortama elektromanyetik dalga
+şeklinde yayan ve ortamdaki elektromanyetik dalgaları alıp, sisteme
+aktarmaya yarayan elemanı anlatır,
+“Anten Tesisi”, Elektronik haberleşme hizmeti sunumu için kullanılan
+arazi ve bina gibi yerler dâhil, oda, konteyner, kabinet, kule, direk, kanal
+ve borular, anten ve anten elemanları, iletim hat ve donanımı, *
+iklimlendirme ve enerji kaynakları gibi bileşenlerden oluşan tesisi anlatır. -
+“Auten Yayın Paterni”, Antenden yayılan elektromanyetik dalganın
+yayın hüzmesini anlatır.
+“APRS (Automatic Position/Packet Reporting System)”, Otomatik
+Pozisyon Belirlerne/Paket Haberleşme Sistemini anlatır.
+“ARQ -Automatic Repeat Request)", Kayıplı bir servis üzerinden
+güvenli veri iletimini sağlamak için bildirimleri ve zaman aşım sürelerini
+kullanan bir hata kontrol yöntemini anlatır.
+“Bakanlık”, Elekironik haberleşmeden sorumlu Bakanlığı anlatır.
+
+"Birden Fazla Alt Taşıyıcı Kullanan Faz Kaydırmalı
+Anahtarlama”, İkiden fazla frekans kullanan ve PSK'nın bir
+
+[SAYFA 3]
+2069
+
+çeşidi olan sayısal modülasyon düzenini anlatır.
+
+“Bireysel Kullanım Hakla”, Haberleşme sağlayıcısına 9 kHz ile 3000
+GHZ frekansı arasında elektromanyetik enerji ve numara kullanımına
+ilişkin spesifik haklar tanıyan veya söz konusu hakları Kurulun onayını
+almaksızın kullanma yetkisi bulunmadığı durumlarda, haberleşme
+sağlayıcısının faaliyetlerini, ilgili hallerde, bir genel yetkiyi tamamlayan
+spesifik yükümlülüklere tabi tutan, yetkiyi anlatır.
+
+“CB (Citizen Band)”, Halk Bandını anlatır.
+
+“CEPT (Muropean Conference of Postal and Telecommunications
+Administraions)”, Avrupa ülkelerinin Posta ve Telekomünikasyon
+idareleri arasında ticari, operasyonel, yasal ve teknik işbirliği ve
+koordinasyorunu sağlamak amacı ile kurulan yönetimi anlatır.
+
+“Çift Yönlü Çağrı”, Bir vericinin alicilanna doğru olan çağrısının
+yanında alıcılardan da vericiye doğru gönderilen çağrıyı anlatır.
+
+“DSSS (Direct Seguence Spread Spectrum)”, Dar bandlı bir sinyalin
+yüksek veri hızlı bir kod dizisi ile çarpılarak sinyalin spektrumunun
+genişletilmesi tekniği olan doğrudan ardışık spektrum yayılımınıanlatır.
+“EXR.P.», Etkin izotropik çıkış gücünü anlatır.
+
+“Elektrik Alan Şiddeti (E)”, Uzayda herhangi bir noktada; bir birimlik
+pozitif elektrik yüküne etki eden kuvvetin, vektörel büyüklüğünü (V/m)
+anlatır.
+
+“Elektromanyetik Alan” Elektrik ve manyetik alan bileşenleri olan
+dalgaların oluşturduğu alanı anlatır. i
+
+“Elektromanyetik Enterferans”, İlgili mevzuat kurallarına uygun
+olarak yapılan her türlü elektronik haberleşmeyi engelleyen, kesinti
+doğuran veya kalitesini bozan her türlü yayın veya elektromanyetik etkiyi
+anlatır.
+
+“Elektronik Haberleşme”, Elektriksel işaretlere dönüştürülebilen her
+türlü işaret, sernbol, ses, görüntü ve verinin kablo, telsiz, optik, elektrik,
+manyetik, elektromanyetik, elektrokimyasal, elektromekanik ve diğer
+iletim sistemleri vasıtasıyla iletilmesini, gönderilmesini ve alınmasını
+anlatır.
+
+“Elektronik Haberleşme Hizmeti”, Telekomünikasyon hizmetleri ve
+yayıncılık için kullanılan şebekelerdeki iletim hizmetleri dâhil (elektronik
+haberleşme şebekeleri üzerinden iletilen içeriğin sağlanmasından veya
+bunun üzerinde editoryal kontrol icra edilmesinden oluşan hizmetler ile
+bilgi toplumu hizmetleri hariç) elektronik haberleşme şebekeleri üzerinde
+sinyaller iletilmesinden tamamen veya kısmen oluşan ve normal olarak
+bir bedel karşılığında verilen bir hizmeti anlatır.
+
+“Elektronik Haberleşme o Sağlayıcı/Haberleşme Sağlayıcı”, Bir
+elektronik haberleşme şebekesinin operatörü veya elektronik haberleşme
+hizmetleri sağlayan tüzel kişiyi anlatır ve Telekomünikasyon Dairesini de
+kapsar,
+
+“Elektronik Haberlesme Sebekesi”, Tletilen bilgi cesidine
+bakılmaksızın uydu şebekeleri, sabit (intemet dâhil, devre ve paket
+
+anahtarlı) ve mobil karasal şebekeler, sinyal gönderme amacıyla | —
+
+kullanıldıkları ölçüye kadar elektrik kablo sistemleri, radyo ve televizyon.
+
+yayıncılığı için kullanılan şebekeler ve kablolu televizyon şebekeleri *“
+
+dâhil, kablo, telsiz, optik veya başka elektromanyetik araçlar yoluyla
+sinyaller gönderilmesine imkân veren bir iletim sistemi ve söz konusu
+olduğunda, anahtarlama veya yönlendirme donanımı ve diğer kaynakları
+anlatır.
+
+“FHSS (Frequency Hopping Spread Spectrum)”, Alıcı ve vericinin es
+
+[SAYFA 4]
+2070
+
+zamanlı olarak bir frekanstan diğerine atlayabilmesi kabiliyetini anlatır.
+
+“EM (Frequency Modulation)”, Frekans modülasyonunu anlatır.
+
+“Frekans Aralığı (Frequency Range)”, Bir frekanstan diğer frekansa
+
+kadar olan frekans aralığı veya bir radyo ekipmanının ayarlanabileceği
+
+frekans aralığını anlatır.
+
+“Frekans Bandı (Frequency Band)”, Frekans planlarında tanımlanan
+
+frekans aralığını anlatır. .
+
+“Frekans Tahsisi”, Ulusal Frekans Planına uygun “olarak Kurum
+
+tarafından bir telsiz istasyonuna frekans veya İrekans kanalları, çıkış
+
+gücü, yayın süreleri de dâhil belirli şartlar altında kullanmak üzere izin
+verilmesini anlatır.
+
+“RSTV (Fast Sean TV)”, Hızlı Taramalı Televizyon Sistemini anlatır.
+
+“Genel Frekans Planı (Allocation)”, Belirli bir frekans bandının bir
+
+veya daha çok sayıda: karasal ve uzay telsiz haberleşme hizmetleri ile
+
+radyoastronomi hizmetleri tarafından belli şartlar dâhilinde kullanılması
+amacıyla Frekans Planma işlenmesini anlatır. aoe
+
+“Genel Yetkilendirme”, Elektronik haberleşme şebeke : ve hizmetleri
+
+sağlanmasına dair hakları veren ve Yasaya uygun olarak tüm veya özel
+
+elektronik. haberleşme şebeke ve hizmetleri türlerine uygulanabilecek
+
+sektöre özgü yükümlülükleri belirleyen hukuki bir çerçeveyi anlatır. N
+
+"GSM (Global Sistem for Mobile Communications)", Mobil iletişim
+
+için kurulan küresel sistemi anlatır.
+
+“Güç Ala’ Yoğunluğu”. Elektromanyetik dalganın hareket doğrultusuna
+
+dik, birim alana düşen güç miktarını (W/m*) anlatır.
+
+“Güvenlik Mesafesi”, Antenden itibaren ve antenlerin yayın yönü ile
+
+cihaz çıkış gücü, anten kazancı, elektrik alan limit değeri dikkate alınarak
+
+hesap edilen metre cinsinden değeri anlatır. ;
+
+“OP”, İki ayrı noktaya kurulu, alıcı ile vericiden oluşan çevrimi anlatır.
+
+“FARU” .(İntermational Amateur Radio Union). Uluslararası Amatör
+
+Telsizciler Birliğini anlatır. ;
+
+“ICAO” (Intemational Civil Aviation Organization), Uluslararası Sivil
+
+Havacılık.Örgütünü anlatır.
+
+“TCNIRP' (international Commission for Non-lIonising Radiation
+
+Protection)”, Uluslararasi İyonlaştırncı Olmayan Radyasyondan
+
+Korunma Komisyonu'nu anlatır.
+
+“TEC (international Electrotechnical Commission)”, Uluslararası
+
+Elektroteknik Komisyonu'nu anlatır.
+
+“IMO (İnternational Maritime Organization)”, Uluslararası
+
+Denizcilik Örgütünü anlatır.
+
+“İnternet-Telsiz Arayüzü (Gateway)”, Bir arabirim kullanımı ile
+
+haberleşme sistemleri arasında veri, görüntü veya Ses aktarma sistemini
+
+anlatır.
+
+“IRPA (international Radiation Protection Association)”,
+_ Uluslararası Radyasyondan Koruma Kurulu'nu anlatır. mİ
+“ “ISO (International Organisation for Standardization)”, Yi Rİ
+“ Standartlar Birliği Örgütünü anlatır... : a
+
+| {TU — (nternational Teecormmumication Union)”, Ulüslarârâsı
+Telekomünikasyon Birliğini anlatır... . os ÖMER wo .
+© #Kamusal'Elektronik Haberleşme: Şebekesi”, Herkesçe 'kullanıİâbilen ©
+“bir elektronik haberleşme şebekesini anlatır. . a
+“Kamusal. Haberleşme Sağlayıcı”, Kamusal haberleşme. şebekesi”
+
+© üzerinden kamuya elekirdnik -haberlégme- hizmetleri veren. haberleşme
+
+[SAYFA 5]
+2071
+
+sağlayıcısını anlatır ve Telekomünikasyon Dairesini de kapsar.
+
+“Kamusal Telefon Şebekesi”, Herkes tarafından kullanılabilen telefon
+hizmetleri sunmak için kullanılan bir elektronik haberleşme şebekesini
+anlatır, bu şebeke, konuşmaların ve ayrıca faks ve data gibi başka
+haberleşme biçimlerinin şebeke sonlanma noktaları arasında transferini
+destekler.
+
+“Kodlu Haberleşme”, Haberleşmenin üçüncü şahıslar tarafından
+anlaşılmaması için mesajların önceden üzerinde anlaşılmış bir kod
+kitabına göre değiştirilerek iletilmesini anlatır.
+
+“Kullanıcı”, Bir abone olsun veya olmasın. elektronik haberleşme
+hizmetleri kullanan herhangi bir gerçek veya tüzel kişiyi anlatır.
+
+“Kurul”, Yasa tahtında kurulan Bilgi Teknolojileri ve Haberleşme
+Kurumunun Yönetim Kurulunu anlatır.
+
+“Kurum”, Bilgi Teknolojileri ve Haberleşme Kurumunu anlatır.
+
+“LBT (Listen Before Talk)”, Bir telsiz cihazmın, kullandığı banddaki
+doluluğu algılayarak band boşalana kadar veya boş bir banda geçiş
+yapılana kadar beklemesi kabiliyetini anlatır.
+
+“LPR (Level Probing Radar)”, Seviye ölçüm radarını anlatır.
+
+“Meskun Mahal”, İnsanların sürekli veya geçici olarak ikamet ettiği
+yaşam alanlarını anlatır.
+
+“Mobil Telsiz. İstasyonu”, Karasal mobil telsiz sistemlerini işleten gerçek
+veya tüzel kişiler tarafından geçici bir süre için kurulan telsiz sistemlerini
+anlatır.
+
+“Mobil Telsiz İstasyon İzni”. Karasal mobil telsiz sistemlerini işleten
+gerçek veya tüzel kişiler tarafından geçici bir süre için kurulan telsiz
+sistemlerine verilen geçici izni anlatır.
+
+“Numara”, Şebeke sonlanma noktasını tanımlayan ve ses, veriler ve
+görüntülerin o noktaya yönlendirilmesini sağlayan, (uygun olduğunda)
+abone, uygulama, operatör veya hizmet sağlayıcıya ait bilgiler içerebilen,
+harfler ve/veya rakamlar veya sembollerden oluşan bir dizi veya
+kombinasyonu anlatır.
+
+“Ortam Limit Değeri”, Belli bir coğrafi alana hizmet verecek şekilde
+elektromanyetik dalga yayan sistemlerin oluşturduğu kapsama alanları
+içerisinde ölçülen toplam elekirik alan şiddetinin limit değerini anlatır.
+“Özel Telsiz Sistemleri”, İşletilmesi için frekans tahsisine ihtiyaç
+duyulmayan özel amaçlar için tahsis edilmiş frekans bandlarında ve çıkış
+gücünde çalışan kamu kurum ve kuruluşları ile gerçek ve tüzel kişiler
+tarafından kullanılacak Kurumca belirl enen teknik düzenlemelere uygun
+telsiz cihaz ve sistemlerini anlatır.
+
+“PACTOR”, Destekleyen Terminal Düğüm Kontrolörleri (Terminal
+Node Controller (TNC)) yardımıyla k kullanılabilen, birden fazla alt
+taşıyıcı kullanan Faz Kaydırmalı Anahtarlama ( Multi-sub-carrier-
+PhaseShift Keyi ing (PSK)) ve ARQ (Automatic Repeat Request)
+temeline dayanan sayısal haberleşme modunu anlatır.
+
+“pay (Phase Modulation)”, Faz Modiilasyonunu anlatir.
+
+“Portatif Ahcı”, Veri veya konuşma mesajlarını almada kullanılan
+dâhili antenli alıcı cihazları anlatır. ;
+“Portatif Verici”, Dar bölge telsiz çağrı sistemlerinde portatif alıcı
+cihazları ile birlikte veya ayrı olarak bulunan ve mesajın alındığını
+onaylamak maksadıyla kullanılan verici cihazları anlatır.
+
+“Portatif Verici-Alier”, Üzerinde bem alıcı hem de verici bulunan
+portatif cihazları anlatır,
+
+“Pro-Rata’’, Oransal esasa göre yapılan hesaplamayı anlatır.
+
+"PSK (Phase Shift Keying)” , bir referans sinyalinin fazmı değiştirerek
+veya modüle ederek verileri taşıyan bir sayısal modülasyon düzenini
+anlatır.
+
+[SAYFA 6]
+“© “Tüketici”, Tizâri veya mesleki olmayaiı * -emeglar
+
+2072
+
+“RF ”, Radyo frekansını anlatır.
+“RE Algılâyıcılar (Dedektörler) ve İkaz Cihazları”, Herhangi bir
+durum veya nesneyi tespit ederek sinyal veren telsiz cihazlarını anlatır.
+“RFID (Radio Frequency Identification)”, Radyo frekansı kullanarak
+nesveleri tekil ve otomatik olarak tanıma yöntemini anlatır.
+
+“RTTY (Radio Teletype)”, Radyo Teleks’i anlatır.
+
+“Sabit Alıcı”, Dar bölge telsiz çağrı sistemlerindeki sabit
+
+- istasyonlarda onaylama mesajlarını almak amacıyla kullanılan sabit
+alıcı cihazları anlatır.
+
+“Sabit Verici”, Telsiz çağrı sisteminin o sabit istasyonlarında
+bulunan ve veri veya konuşma mesajlarının iletiminde “kullanılan
+sabit verici cihazları anlatır.
+
+“Sabit Verici-Alıcı”, Üzerinde hem alıcı hem de verici bulunan sabit
+cihazları anlatır.
+
+“Sabit Telefion Hizmetleri” Teknoloji sınırlaması olmaksızın sabit
+kamusal telefon şebekesi üzerinden kullanıcılara/abonelere temel ve
+katma değerli herkesçe kullanılabilir telefon hizmetlerinin sunulmasını
+anlatır.
+
+“SBT Cihazları”, Sanayi bilimsel ve ubbi cihazları anlatır.
+
+“Sinyal”, Konuşma, müzik, sesler, görsel imajlar veya iletiler veya
+
+“herhangi bir türdeki verilerin iletilmesine veya cihazların işletilmesi veya
+kontrol edilmesine hizmet eden sinyalleri anlatır.
+
+© “Site”, Kurumun internet sitesini anlatır.
+
+““Son Kullamer”, Bir kamusal elektronik haberleşme şebekesini
+
+. işletmeyen ve kamusal elektronik haberleşme hizmetleri sunmayan
+herhangi bir gerçek veya tüzel kişiyi anlatır.
+
+“Sorumlu Operatör”, Amatör telsiz demekleri, egitim ve öğrelim
+kurumları, acıl durum ve afet haberleşmesinde görev alan kuruluşlar,
+izcilik kuruluşları ve araştırma kurumlarınca kurulan istasyonda yapılan
+çalışmalardan sorumlu olan amatör telsizciyi anlatır.
+
+“Spektrum”, Elekironik haberleşme için kullanılan ve frekansı 9 kHz-
+
+.3000 GHz arasında değişen elektronik dalgaların frekans aralığı ve
+uluslararası düzenlemeler kapsamında elektronik haberleşmeye tahsis
+edilen 3000 GHz üzerindeki frekansları anlatır.
+
+“STV (Slow Scan TV)”, Yavaş Taramalı Televizyon sistemini anlatır.
+“Şebeke Sonlanma Noktası”, Bir abonenin bir elektronik haberleşme
+
+“ şebekesine eriştiği fiziksel noktayı anlatır.
+
+- “Tahsisli (Dedicated) Anten”, Cihazın ayrılabilir (kablo-konnektör veya
+dalga kılavuzu- konnektör ile bağlanabilen) bir parçası olarak üretilmiş
+ve sadece bu ve/veya benzer.cihazlar ile kullanılmak üzere üretilmiş ve
+
+cihazla birlikte kullanılan anteni anlatır.
+
+“TCP/IP (Transmision Control Protecol/Internet Protocol)”, Internet
+
+Haberlesme Protokolunu anlatir.
+
+“Tek Yön Çağrı”, Bir vericinin sadece alıcı cihazlarına doğru olan
+
+çağrıyı anlatır.
+
+“Telsiz”, o Aralarında herfiangi bir fiziki baglanti olmaksızın
+
+élektromanyetik dalgalar yoluyla açık, kodlu veya kriptolu ses ve veri '
+vermeye, almaya veya yalnızca vermeye veya almaya yarayan sistemleri
+
+anlatır. e
+
+"Toplu İzin: Başvurusu”,
+
+. başvuruları anlatır: :
+
+ENC (Terim “Node “Controlier)", “Amator: telsiz operatörü
+
+Ee tarafından. paket. radyo. «şebekelerine katılmak” için. kullanılan cihazı
+
+“anlatır. ğ
+
+Bir hafta içerisinde 0 or e adetten fala yapilan
+
+. çin. celektr onik
+haberlesme hizmetleri k kullanan, veya talep « eden. Her hangi bir, gerçek veya -
+
+[SAYFA 7]
+6/2012
+21/2014
+
+Amaç
+
+Kapsam
+
+İlkeler
+
+2073
+
+tüzel kişiyi anlatır.
+
+“Uzak Alam”, Elektromanyetik dalganın, düzlem dalga özelliği
+gösterdiği ve antenden 2D/Xdan (D anten boyu) daha uzak olduğu
+mesafeyi anlatır.
+
+“Yakın Alan”, Yayın yapan kaynağa 2D7/A’a kadar olan uzaklığını ifade
+eder.
+
+“Veri”, Sistematik erişim imkânı olan, yönetilebilir, güncellenebilir,
+taşınabilir, birbirleri arasında tanımlı ilişkiler bulunabilen bilgiler
+kümesini anlatır.
+
+“TPC (Transmiter Power Control)”, Bir telsiz cihazının, çıkış gücünü
+enterferans oluşturmamak amacıyla azaltabilme kabiliyetini anlatır.
+“Yaşa” Elektronik Haberleşme Yasası'nı anlatır.
+
+“Yetkisiz Erişim”, Yerkisiz kişinin ve/veya kişilerin anten tesisine
+
+ait herhangi bir antene veya donanma erişilebilir veya
+kullamlabilir olması durumunu anlatır. ;
+
+Bu tüzükte yer almayan tanımlar icin Yasada yer alan tanımlar geçerlidir.
+
+3. Bu Tüzüğün amacı, telsiz kurma (ruhsat) ve kullanma izni verilmesine,
+
+telsiz kurma ve kullanma izninin süresine, yenilenmesine, değişikliğine
+
+- ve iptaline ve bu çerçevede öngörülen telsiz cihaz ve sistemlerinin
+kurulmasına, kullanılmasına, nakline, işleme üpinin değiştirilmesine,
+devrine ve hizmet dışı bırakılmasında kullanıcıların tabi olacağı
+koşullara, telsiz kurma (ruhsat) ve kullanma iznine ilişkin muatiyetlere
+yönelik usul ve esasları düzenlemektir.
+
+. Bu Tüzük; telsiz kurma (ruhsat) ve kullanma izni verilmesine, telsiz
+kurma ve kullanma izninin süresine, yenilenmesine, değişikliğine ve
+iptaline ve bu çerçevede öngörülen telsiz cibaz ve sistemlerinin
+kurulmasına, kullanılmasına, nakline, işletme tipinin değiştirilmesine,
+devrine ve hizmet dışı bırakılmasında kullanıcıların tabi olacağı
+koşullara, telsiz kurma (ruhsat) ve kullanma iznine ilişkin muafiyetlere
+yönelik usul ve esasları kapsar.
+
+Ancak Kuzey Kıbrıs Türk Cumhuriyeti Güvenlik Kuvvetleri
+Komutanlığının, Kuzey Kıbrıs Türk Barış Kuvvetleri Komutanlığının,
+Sahil Güvenlik Komutanlığının ve Polis Genel Müdürlüğünün kamuya.
+açık olanlar hariç olmak üzere kuracakları, işletecekleri ve
+kullanacakları telsiz cihazları ile Cumhurbaşkanlığının ve Dışişleri
+Bakanlığının sadece kendi amaçları için kuracakları, işletecekleri ve
+kullanacakları telsiz cihazları bu Tüzük kapsamı dışındadır. Bu
+kurumların ihtiyaç duydukları frekanslar, Spektrum Planına ve
+numaralar, Ulusal Numaralandırma Planına uygun bir şekilde Kurum
+tarafından, herhangi bir ücret alınmadan ve öncelikli olarak tahsis edilir.
+
+5. Bu Tüzüğün uygulanmasında aşağıdaki temel ilkeler göz önünc alınır
+
+(1) Ülkenin her yerinde, makul bir ücret karşılığında geniş kapsamlı
+
+elektronik haberleşme şebeke ve hizmetlerinden yararlanılmasının
+sağlanması,
+
+(2) Tüketici hak ve menfaatlerinin korunması ve gözetilmesi,
+(5) Herkesin makul bir ücret karşılığında elektronik haberleşme şebeke ve
+
+hizmetlerinden eşit bir şekilde aynı hizmet kalitesinde yararlanmasını
+sağlayacak uygulamaların teşvik edilmesi,
+
+[SAYFA 8]
+İzin Kapsamı
+
+İzin Gerekmeyen
+Haller
+
+2074
+
+(4) Özürlü, yaşlı ve sosyal açıdan korunmaya muhtaç kesimlerin
+teknolojik yeniliklerin kullanılması da dahil olmak üzere özel
+ihtiyaçlarının dikkate alınması,
+
+(5) Bilgi güvenliği, haberleşme ve kişisel veri gizliliğinin gözetilmesi.
+
+(6) Eiektronik haberleşme cihaz ve sistemlerin kurulması ve
+işletilmesinde insan sağlığı, can ve mal güvenliği, çevre ve tüketicinin
+korunması açısından asgari uluslararası normların dikkate alınması,
+
+(7) İlgili uluslararası kuruluşların düzenlemelerine uyulması.
+
+İKİNCİ KISIM
+Telsiz Kurma (Ruhsat) ve Kullanma İzinleri, Güvenlik
+Sertifikası ve Telsizler ile İlgili Denetim
+
+6. Telsiz kurmak ve işletmek isteyen gerçek veya tüzel kişiler Kurum
+tarafından telsiz kurma (ruhsat) ve kullanma iznin verilmesinden sonra
+verilen izin kapsamında, işbu Tüzüğe ekli Cetvellerde belirtilen teknik
+kriterler dikkate alınarak izinde belirtilen teknik değerlere ve Kurum
+teknik düzenlemelerine uygun olmak üzere telsiz kurulum ve işletimini
+gerçekleştirebilirler. Ancak, telsizin çalıştırılmasında kullanılan frekans
+bandının bireysel kullanım hakkına tabi olması halinde Kurum
+tarafından öncelikle frekans tahsisi gerçekleştirilir.
+
+7. (1) Bu Tüzüğe ekli Birinci Cetvel'de yer alan ve bireysel kullanım
+hakkına tabi olmayan frekans bandlarmda çalışan telsizler için
+Birinci Cetvel'de belirlenen koşullara uyulması şartıyla ayrica
+Kurum'dan kurulum ve işletim izni alınmasına gerek yoktur.
+
+Ancak, elektronik haberleşme hizmetlerinin sunulması
+amacıyla bu madde kapsamındaki telsizlerin Kamusal Haberleşme
+Sağlayıcılar tarafından kullanılması halinde; ilgili Kamusal
+Haberleşme Sağlayıcılar kullanımlarında bulundurdukları bireysel
+kullanım hakkına tabi olmayan frekans bandlarında çalışan telsizler
+ile ilgili bilgileri siteden yayımlanan bildirim formunu doldurarak
+üç aylık periyodlarla Kurum'a bildirimde bulunurlar.
+
+(2) Bireysel kullanım hakkına tabi olmayan ve bu Tüzüğe ekli Birinci
+Cetvel'de yer alan frekans bandları veya koşullar dışında çalışan
+telsizler Kurum tarafından telsiz kurma (ruhsat) ve kullanma izni
+verilmesi halinde kurulup kullanılabilirler.
+
+(3) (A) Bu Tüzüğe ekli İkinci Cetvel'de belirtilen özelliklere sahip özel
+telsizler, İkinci Cetvel'de belirtilen şartlara uygun olmak
+koşuluyla ve telsiz cihazlarının veveya sistemlerin
+kurulumundan en az on iş günü önce siteden yayımlanan
+bildirime formunu doldurarak Kurum'a bildirimde bulunulması
+halinde kurulup işletilebilirler.
+
+(B) Kurum, yukarda (A) fıkrasında belirtilen özel telsizler ile ilgili
+telsiz kurma (ruhsat) ve kullanma başvurusunda bulunan kişilere
+ilişkin olarak özel telsiz sicili tutar.
+
+(4) Haberleşme sağlayıcıların, yukarıda (1)‘inci fikra uyarınca telsiz
+
+[SAYFA 9]
+2075
+
+09.05.2014 kurması ve işletmesi durumu haricinde bu madde kapsamında kurulup
+“RGA işletilecek telsizler, Yetkilendirme, Numaralandirma ve Spektrum
+EK Ti Tüzüğü kapsamında yetkilendirme gerekecek şekilde elektronik
+A.E.295 haberleşme hizmeti sunmak veya elektironik haberleşme şebekesi
+
+kurmak veya işletmek amacıyla kurulup işletilemezler.
+
+(5) Mobil Terminal Telsiz Ücretlerine Dair Tüzük kapsamındaki telsiz
+
+20.12.2012 cihazları için telsiz ruhsat ve kullanım ücretlerinin ödenmesi suretiyle
+R.G.210 bu Tüzük ile belirlenen şekilde Kurum’dan kurulum ve işletim izni
+EKİ i alınmasına gerek yoktur.
+A.E.670
+İzin Başvurusu 8. (1) (A) Telsiz kurmak ve işletmek isteyen haberleşme sağlayıcılar
+
+dışındaki gerçek ve tüzel kişilerin izin başvurularında
+öncelikle izne konu telsizin kurulmasının ve işletilmesi
+faaliyetlerinin yetkilendirilmiş haberleşme sağlayıcıların
+faaliyet kapsamları dahilinde olup olmadığı değerlendirilir.
+
+(B) Kurumun yapacağı değerlendirme sonucunda, yapılmak istenen
+faaliyet o haberleşme O sağlayıcıların sundukları hizmetler
+kapsamında ise, izin talep edilen telsizin kurulup işletilmesine
+gerek bulunmadan öncelikli olarak ilgili haberlesme
+sağlayıcıdan hizmet temin edilebilir ve/veya Kurumun
+yapacağı değerlendirme sonucunda başvurunun uygun
+bulunması ile gerçek ve tüzel kişilere de Kurum tarafından
+İrekans kaynaklarının öncelikle haberleşme sağlayıcılara tahsis
+edilmesi ilkesi gözeülerek telsiz kurma (ruhsat) ve kullanma
+izni verilebilir.
+
+(O) Kurumun yapacağı değerlendirme sonucunda, yapılmak istenen
+faaliyet o haberleşme sağlayıcıların sundukları hizmetler
+kapsamında değil ise Kurum, Ulusal Frekans Planı'ndaki
+düzenlemeleri gözeterek, deniz taşıtlarında bulunan telsiz
+sistemleri de dahil olmak üzere izin talep edilen telsizin
+kurulup işletilmesine izin verebilir.
+
+(2) (A) Telsiz kurmak ve işletmek isteyen gerçek ve tüzel kişiler,
+Kurum sitesinden yayımlanan kurulup işletilmek istenen telsiz
+üpine uygun izin başvuru formunu doldurarak formda belirtilen
+belgeler ve telsizi kuracağı bina, arsa ve/veya araziye ait Gelir
+ve Vergi Dairesi tarafından onaylı kira sözleşmesi ve/veya
+arazi, bina ve arsanın kendisine ait olması durumunda tapu
+belgesi ile Kurum'a başvuruda bulunurlar.
+
+(B) Kurum, başvuru formunun Kurum kayıtlarına alınmasından
+itibaren beş iş günü içerisinde sunulan bilgi ve belgelere ilişkin
+ön değerlendirmeyi gerçekleştirir. Başvuruda, eksik bilgi ve
+
+[SAYFA 10]
+2076
+
+belgelerin bulunması halinde izin başvurusunda bulunan
+kişinin başvuru formunda belirttiği iletişim adresine eksik bilgi
+ve belgelerin en fazla beş iş günü içerisinde giderilmesine
+yönelik bildirimde bulunulur. Bu sürenin sonuna kadar
+eksikliklerin giderilmemesi halinde izin başvurusu yapılmamış
+sayılır.
+
+(3) (A) Kurum yukandaki (2)inci fıkra uyarınca ön değerlendirme
+
+(B)
+
+sürecinin olumlu tamamlanmasından sonra, on iş günü içerisinde
+aşağıdaki konularda teknik değerlendirme gerçekleştirir:
+
+(a) Ulusal Frekans Planı,
+
+(b) Elektromanyetik enterferans riskleri,
+(c) İlgili uluslararası standartlar,
+
+(ç) Kurum teknik düzenlemeleri.
+
+(a) Teknik değerlendirme sırasında telsiz cihazında kullanılacak
+frekans için bireysel kullanım hakkı tahsisinin gerekli olup
+olmadığı incelenir ve gerekli olması halinde öncelikle
+bireysel kullanım hakkı tahsisinin gerçekleştirilmiş olması
+aranır.
+
+(0) Kurum, yapacağı teknik değerlendirmede izinlendirilmesi
+talep edilen telsiz için gerekmesi halinde telsiz türü ve
+kullanım yeri gibi sınırlandırmalar getirebilir.
+
+(e) Kurum, teknik değerlendirme sonucunda izin başvurusunda
+bulunan gerçek ve/veya tüzel kişinin başvuru formunda
+belirttiği iletişim adresine izin başvurusunun olumlu veya
+olumsuz değerlendirildiğine ilişkin gerekçeli bildirimde
+bulunur. Değerlendirmenin olumlu olması halinde, telsizin
+faaliyet alana göre aşağıda belirtilen ücret bilgilerinden
+gerekli olanlar Kurum tarafından başvuru sahibine bildirilir:
+(i) Hesaplanan telsiz kurma (ruhsat) ve kullanım ücreti
+
+bilgisi,
+(ii) Güvenlik mesafesinin belirlenmesine yönelik yapılacak
+elektromanyetik alan şiddetinin ölçüm ücreti bilgisi,
+
+(iii) Güvenlik sertifikasının ücreti bilgisi ve
+
+(iv) Ücretlerin yatırılacağı Kurum banka hesap bilgisi;
+
+(c) Yapılan bildirimden itibaren yirmi iş günü içerisinde
+
+[SAYFA 11]
+2077
+
+belirtilen tüm ücretlerin yatırılmaması halinde izin başvurusu
+yapılmamış sayılır.
+
+(4) Başvuru sahibinin, bildirimde belirtilen tüm ücretleri Kurum banka
+hesabına yatırdığını belgeleyen dekontun aslını veya banka onaylı
+suretini Kuruma sunmasını müteakip on iş günü içerisinde Kurum
+telsiz kurma (ruhsat) ve kullanma izin belgesini düzenler. Kurum
+tarafından düzenlenen telsiz kurma (ruhsat) ve kullanma izin belgesi
+yirmi iş günü içerisinde başvuru sahibi tarafından Kurumdan teslim
+alınmaması durumunda, verilen izin kurum tarafından iptal edilir.
+
+(5) Telsiz kurma (ruhsat) ve kullanma izni alan gerçek veya tüzel kişiler,
+verilen izne uygun olan telsizi, izin belgesini Kurum'dan teslim
+almasından itibaren üç ay içinde kurmak, işletmeye başlamak ve
+işletmeye başladığı günden itibaren üç iş günü içerisinde durumu
+Kuruma yazılı olarak bildirmekle yükümlüdür. İzin alan gerçek veya
+tüzel kişiler gerekçelerini belirtmek suretiyle kurulum için Kurumdan
+ek süre talep edebilir; Kurum, gerekçelerin makul olması halinde üç
+ayı geçmemek üzere bir kez ek süre verebilir. Bu süre içerisinde telsizi
+kurup işletmeye başlamayan gerçek veya tüzel kişilerin telsiz kurma
+(ruhsat) ve kullanma izinleri Kurum tarafından iptal edilir. Telsiz
+kurma (ruhsat) ve kullanma izninin iptali durumunda, iznin alınması
+için ödenen herhangi bir ücret iade edilmez.
+
+(6) (A) Karasal mobil telsiz sistemlerini işleten gerçek veya tüzel kişiler,
+Mobil telsiz istasyon kurulumu ve işletilmesi için bu madde
+kapsamında Kurum sitesinden yayımlanan izin başvuru formunu
+doldurarak formda belirtilen belgeler ile Kurum'a başvuruda
+bulunulur. Kurum tarafından yapılan teknik değerlendirme
+sonucunda, izin başvurusunun olumlu olması halinde, mobil telsiz
+istasyonu için güvenlik tedbirlerini ve ülke genelinde mobil olarak
+kullanılabilceğini belirten telsiz kurma (ruhsat) ve kullanma izni
+ile birlikte "Mobil Telsiz İstasyon İzni" verilir. Mobil Telsiz
+İstasyon İzni geçici süre ile verilen telsiz kurma ve kullanma izni
+olup, her alt) ayda bir ücreti ödenerek iznin yenilenmesi
+gerekmektedir. Telsiz kurma (ruhsat) ve kullanma izni almış
+mobil telsiz istasyonları, Mobil Telsiz İstasyon Izni olsa bile
+kullanılacağı her ay için telsiz kullanma ücreti ödenmeden kurulup
+kullanılamazlar.
+
+(B) Mobil telsiz istasyonunun kurulum ve kullanımı için izin *
+başvurusunda bulunan gerçek veya tüzel kişiler, mobil telsiz
+istasyonunun faaliyet göstereceği bölgede konumlandırılmasından
+beş iş günü öncesinde Kurum sitesinden yayımlanan ve sektörlere
+ait çıkış gücü, amen modeli, anten yüksekliği, anten kazancı ve
+istasyonda kullanılacak frekans bandları bilgilerini içeren formu
+
+[SAYFA 12]
+2078
+
+doldurarak Kurum'a yazılı başvuruda bulunurlar.
+
+(C) Mobil telsiz istasyonunun kurulumu için yapılan değerlendirme
+
+()
+
+sonucunda, izin başvurusu olumlu olması ve telsiz kullanım
+ücretinin ödenmiş olması halinde, Kurum tarafından iki iş günü
+içerisinde mobil telsiz istasyonunun kurulumu için izin verilir.
+
+Telsiz kullanma ücreti ödenmiş olan mobil telsiz istasyonları,
+kullanım ücretini artırmayacak bir teknik yapılandırma sonucunda,
+önceden planlanamayan ve/veya saati ve zamanı önceden
+belirlenemeyen ve/veya ani meydana gelen ve/veya hizmet
+kalitesinin düşmesine neden olacak haberleşme trafiğinin oluşması
+durumunda mobil telsiz istasyonunun faaliyet göstereceği bölgede
+konumlandırılmasından en az bir iş günü öncesinden Kuruma
+yazılı başvuruda bulunmaksızın, Kurum sitesinden yayımlanan ve
+sektörlere ait çıkış gücü, anten modeli, anten yüksekliği, anten
+kazancı ve istasyonda kullanılacak, frekans bandları bilgilerini
+içeren formu doldurup elektronik ortamda Kuruma müracaat ederek
+ve Kurumun onayıyla mobil telsiz istasyonu kurulabilir. Bu fıkra
+kapsamında kurulup işletilen mobil telsiz istasyonuna ait ve
+elektronik ortamda Kuruma bildirilmiş olan başvuru formu yazılı
+olarak Kuruma beş iş günü içerisinde bildirilir.
+
+(D) Telsiz kullanma ücreti ödenmemiş ancak Mobil Telsiz İstasyon İzni
+
+(E)
+
+(F)
+
+.bulunması ger ekir.
+
+Mobil telsiz i istasyonunun. aynı bölgede bir yıl içinde i
+
+bulunan mobil telsiz istasyonları, doğal afet, savaş, ölümler,
+yaralanmalar, altyapının hasar görmesi veya kaybedilmesi, azalmış
+kamu emniyeti ve güvenliği durumlarının oluşması halinde, daha
+sonra ödenmek koşuluyla, Kurumun onayı ile mobil telsiz istasyonu
+kurabilirler.
+
+İzinde bélistilen teknik değerlerin : veya Kurum teknik
+düzenlemelerinin değişmesi halinde Kurum yapılan değişiklikleri
+izin alan gerçek veydi tüzel kişiyebildirir. İzin. alan gerçek veya tüzel
+kişi, Kurum tarafından kendisine bilgi verilmesinden itibaren beş iş
+günü içerisinde iznin; yenilenmesi için ,Kurüma.. başvuruda
+
+fazla kalacak olması halinde bü Tüzüğün 10'uncu'ma addesi üy anında
+güverlik sertifikasi alınması gerekli olup: aynı bölgede daha. az Süre ©
+faaliyet gösterecek olması halinde ayrıca "güvenlik sertifikası
+
+alınmasına gerek yoktur. Gi i
+
+(G) Mobil telsiz istasyonları, sistemin: faaliyete geçmesini müteakip
+
+aynı yerde , en fazla kırk iş günü. hizmet “verebilir. İşletmeci
+tarafından aynı yer için.süre uzatımı talep edilmesi halinde bir kez
+yirmi işgünü ilave süre verilebilir. .
+
+[SAYFA 13]
+2079
+
+Telsiz Ruhsat 9. Telsiz kurma (ruhsat) izni Kurum tarafından bir defaya mahsus olmak
+Süresi üzere süresiz verilir.
+
+Güvenlik 10. (1) Hücresel mobil sistemlerinin verici, verici ve/veya alıcı cihazları ile
+Sertifikası Radyo-TV vericileri dahil olmak üzere, 10 kHz-60 GHz frekans
+
+bandında sabit olarak kurulup çalıştırılan verici, verici ve/veya alıcı
+cihazları ile bu Tüzüğün 8'inci maddesinin (6)'ıncı fıkrasında
+belirtildiği şekilde meskun bir mahalde elektronik haberleşme
+hizmetini geçici bir süre sunmak için kullanlan mobil telsiz
+istasyonları için bu maddede belirtilen usuller uyarınca güvenlik
+sertifikası alınması zorunludur.
+
+(2) Bu Tüzüğün 8’inci maddesinin (2)'nci fıkrası uyarınca bu Tüzüğün
+Sinci maddesinin (3)'üncü fıkrasının (B) bendi belirtilen ücretler
+Kurum banka hesabına yatırılır ve banka dekontu Kuruma teslim
+edilir.
+
+(3) (A) Bu Tüzüğün 8'inci maddesinin (5)’inci fıkrası uyarınca, izin
+sahibi tarafından telsizin işletilmeye başlandığına ilişkin
+Kuruma bildirim yapılmasından itibaren otuz iş günü
+içerisinde, Kurum bu Tüzüğe ekli Üçüncü Cetvel'de belirtilen
+usul uyarınca güvenlik mesafesinin belirlenmesine yönelik
+elektromanyetik alan şiddetinin ölçülmesi faaliyetlerini
+gerçekleştirir.
+
+8) Ölçümler sonunda tespit edilen değerlerin bu Tüzüğün Üçüncü
+Cetvel'de belirtilen değerlere uygun olmaması halinde, izin
+sahibinin başvuru formunda belirttiği adresine yazılı bildirimde
+bulunulur ve Kurum tarafından uygunsuzluğun giderilmesi için
+
+on iş günü süre verilir.
+
+(C) Yukarıdaki (B) bendinde belirtilen süre içerisinde uygunsuzluk
+giderilerek Kurum'a bildirimde bulunulur ve Kuruma yapılan
+bildirimden itibaren otuz iş günü içerisinde Kurum tarafından
+ikinci ölçüm ve değerlendirme yapılır.
+
+(Ç) Yukaridaki O(B) bendinde belirtilen süre içerisinde
+uygunsuzluğun giderilerek Kurum'a bildirimde
+bulunulmaması veya yıkarıdaki (C) bendi uyarınca ikinci
+ölçüm ve değerlendirme sonucunda yine uygunsuzluk tespit
+edilmesi halinde tahsil edilen ücretler iade edilmeksizin telsiz
+izmi Kurum tarafından iptal edilir.
+
+(4) Yukarıda (GY'üncü fıkra uyarınca yapılan ölçümler sonunda tespit
+
+[SAYFA 14]
+İzin Kapsamında
+
+Değişiklik
+
+2080
+
+edilen değerlerin bu Tüzüğe ekli Üçüncü Cetvel’de belirtilen
+değerlere uygun olduğunun tespit edilmesi halinde ölçümden
+itibaren beş iş günü içerisinde Kurum tarafından güvenlik sertifikasi
+düzenlenir ve başvuruda bulunan gerçek veya tüzel kişi güvenlik
+sertifikasını Kurumdan teslim alır.
+
+(5) Bu Tüzüğün 11'inci maddesi uyarınca telsizde, güvenlik mesafesini
+ve/veya güvenlik raesafesi konumunu etkileyen bir değişiklik
+yapılması halinde bu madde kuralları uyarınca yeniden güvenlik
+sertifikası alınır. Güvenlik sertifikasının yenilenmesi durumunda,
+güvenlik sertifika ücreti kadar, güvenlik sertifikası yenileme ücreti
+alınır.
+
+(6) GSM baz istasyonları hariç olmak üzere, çıkış gücü 5 Watt ve altında
+olan telsiz cihazları. deniz taşıtlarında kurulu bulunan telsiz cihazları
+ve bu Tüzüğün 8'inci maddedesinde belirtilen koşullar uyarınca
+mobil telsiz istasvonları için güvenlik sertifikası alınmasına gerek
+yoktur.
+
+(7) Yukardaki (3)'üncü fıkrada belirtilen süreler toplu izin başvuruları
+olınası halinde Kurul kararı ile uzatılabilir.
+
+(8) Güvenlik sertifikaları, güvenlik sertifikası veriliş tarihinden itibaren
+en geç on iş günü içerisinde herkes tarafından görülebilecek bir
+konumda telsiz iştasyonu üzerine yipranmaya dayanıklı olacak
+şekilde asılmalıdır.
+
+11. (1)A)Telsiz kurulumu ve işletilmesi için izin alan gerçek veya tüzel
+kişiler, izin kapsamında değişiklik yapılması için Kurum
+sitesinden yayımlanan izin başvuru formunu doldurarak formda
+belirtilen belgeler ile Kurum'a başvuruda bulunabilirler.
+Başvuru üzerine Kurum tarafından bu Tüzüğün 8'inci
+maddesinde belirtilen usuller uyarınca değerlendirme ve
+bildirimler gerçekleştirilir.
+
+(B) İzin değişiklik başvurusunda, telsiz sistemine ait coğrafi
+koordinatın ve/veya bulunduğu yerin değişeceğinin Kurum
+tarafından tespit edilmesi halinde; değişiklik başvurusu Kurum
+tarafından reddedilir. Ancak izin değişiklik başvurusunda
+yapılmak istenen değişiklik telsiz sisteminin bulunduğu bina
+ve/veya parsel içinde ise değişiklik başvurusu olarak
+değerlendirilir. Yapılmak istenen değişikliğin Kurum
+tarafından redddedilmesi halinde yukarda 8'inci Madde
+kapsamında = yeni. bir izin başvurusu (okapsamında
+değerlendirilebileceği başvuru sahibine bildirilir.
+
+(C) Telsiz istasyonunda yapılacak değişiklik sonucunda istasyon
+başına ödenen telsiz yıllık kullanım ücretinde fark oluşması
+
+19
+
+[SAYFA 15]
+2081
+
+halinde, bu ücret farkı, değişiklik izninin verildiği ay dahil
+olmak üzere, değişiklik izninin verildiği aydan başlayarak
+aylık pro-rata olarak tahsil edilir. Telsiz yıllık kullanım
+ücretinin yapılan değişiklik sonucunda düşmesi halinde
+herhangi bir ücret iadesi yapılmaz.
+
+(2) İzin değişiklik başvurularında, Kurum tarafından yapılan
+değerlendirmede, elektromanyetik alan şiddeti ölçümü ve/veya
+güvenlik sertifikası değişikliği yapılması gerektiğinin tespit
+edilmesi halinde; 8'inci madde uyannca elektromanyetik alan
+şiddeti ölçümü ve/veya güvenlik sertifikası değişikliği için ücret
+tahsil edilir.
+
+İznin Devri 12. (1) Gerçek veya tüzel kişiler, Kurumdan almış oldukları telsiz kurma
+(ruhsat) ve kullanma iznini Kurum tarafından izin verilmesi
+halinde devredebilirler.
+
+(2) Telsiz kurma (ruhsat) ve kullanma iznini devralacak olan gerçek
+veya tüzel kişiler, Kurum tarafından belirlenen devir formunun
+yanı sıra Kurumca istenecek diğer bilgi ve belgelerle birlikte devir
+için Kuruma başvurur. Başvuru üzerine Kurum tarafından bu
+Tüzüğün 8'inci maddesinde belirlen usuller uyarınca
+değerlendirme yapılır ve bildirimler gerçekleştirilir. Devir
+işlemleri kapsamında telsiz ruhsat ücreti 11'inci madde kuralları
+saklı kalmak koşulu ile tahsil edilmez, ancak devir tarihinden
+itibaren geçerli olacak şekilde telsiz kullanım ücreti pro-rata
+olarak peşin tahsıl edilir.
+
+(3) Kurumun Telsiz kurma (ruhsat) ve kullanma izni devrini uygun
+bulması ve yukarıdaki 2'nci fıkra çerçevesinde yapılan
+değerlendirme kapsamında bildirilen ücretlerin ödenmiş olması
+halinde devralan gerçek veya tüzel kişi adına Kurum tarafından
+Telsiz kurma (ruhsat) ve kullanma iznini belgeleri düzenlenir.
+
+(4) Bu madde kapsamında 8'inci maddede belirtilen süreler toplu
+devir izni başvuruları olması halinde Kurul kararı ile uzatılabilir.
+
+“İznin İptali. - 43, (1) Kurumdan telsiz kurma (ruhsat) ve kullanma izni alınış kişinin
+cihazını tamamen kullanımdan kaldırması ve bunu bir yazı ile
+Kuruma bildirmesi veya telsiz cihazının ve/veya sisteminin
+kaldırıldığı Kurum tarafından tespiti halinde; telsiz kurma(ruhsat)
+
+ve kullanma izni Kurum tarafından iptal edilir.
+
+(2) Telsiz cihazının ve/veya sisteminin, işbu tüzük kurallarına, Kurum
+teknik düzenlemelerine ve verilen telsiz iznine uygun olmayan bir
+
+14
+
+[SAYFA 16]
+şekilde kurulması ve işletilmesi halinde, Kurum tarafından telsiz
+kurulum ve işletim izni verilen kişiye en az bir en fazla on iş günü
+içerisinde ilgili uygunsuzluğu gidermesi için süre verilir ve verilen
+süre sonunda uygunsuzluğu gidermeyen kişinin telsiz kurulum ve
+işletim izni Kurum tarafından iptal edilir.
+
+(3) Bu Tüzük kapsamında izin başvurusu yapılmamış kabül edilen
+veya iznin iptal edildiği durumlarda tahsil edilen ücretler iade
+edilmez. :
+
+(4) Telsiz kullanım ücretleri, Ücretler Tüzüğü uyarınca en geç her
+
+30.03.2015 yılım Ocak ayı sonuna kadar ödenir. Ancak verilen telsiz kurma ve
+
+Ke a kullanma iznine ilişkin sürenin yıl içerisinde sonlanması halinde, o
+
+AE.244 izne ait telsiz kullanım ücreti telsiz kurma ve kullanma izninin
+sonlandığı süre sonuna kadar aylık pro-rata olarak ödenir. Telsiz
+kuran ve işleten kişiler kullanım ücretlerini, Kurum tarafından
+bildirilen Kurum banka hesabına yatırmak ve banka dekontunu
+Kurum'a göndermekle yükümlüdürler. Şubat ayı sonuna kadar
+telsiz kullanım ücreti ödenmeyen telsiz sistemlerinin ruhsatları
+Kurum tarafından iptal edilir.
+
+Deneme İzni 14. Yetkilendirme, Numaralandırma ve Spektrum Tüzüğü kapsamındaki
+
+Kapsamında deneme izni uyarınca kullanılacak telsizler için bu Tüzük ile
+
+Kullanılacak belirlenen telsiz izni kuralları uygulanır. Deneme izni uyarınca
+
+Telsizler kullanılacak telsizlere ilişkin izin, deneme izninin sona ermesi halinde
+
+69.05.2014 kendiliğinden sonra erer.
+
+R.G.111
+
+EK Hİ
+
+A.E.295
+
+Telsiz Anten 15. (1) Telsiz kurma (ruhsat) ve kullanma izni sahibi Kişiler, telsize ait
+
+Tesisleri anten tesislerinin kurulumunda; yetkilendirmeleri kapsamında
+
+ayrıca sınırlandırılmamış olması kaydıyla; kapsama alanı ve
+hizmet kalitesi gibi kriterleri içerdiği takdirde aynı veya farklı
+teknolojideki yeni sistemini mevcut anten tesisine kurmakla ve
+anten tesisini yeni anten tesisi kuracak diğer izin almış ger;ek
+veya tüzel kişilerle maliyet esasına göre belirlenecek makul ücret
+karşılığında paylaşmakla yükümlüdür.
+
+(2) Mevcut anten tesislerine yeni anten tesisi veya sistemini kuracak
+diğer gerçek veya tüzel kişiler, mevcut anten tesisi sahibine bu
+taleplerini yazılı olarak yapar. Mevcut anten tesisi sahibi yazılı
+o.arak gelen bu talebi on iş günü içerisinde değerlendirir ve
+olumlu veya olumsuz yanıunı gerekçeleri ile birlikte başvuru
+sahibine yazılı bildirir. Telsiz anten tesisi paylaşım talebinin
+olumlu sonuçlanması durumunda, telsiz anten tesisi sahibi kişiler
+başvuru sahibinin bilgilendirildiği tarihten itibaren on iş günü
+içerisinde telsiz anten tesisini yeni telsizin kurulumu için hazır
+hale getirmek zorundadır. Teisiz anten tesisi paylaşım talebi
+sadeve telsiz anten tesisinde fiziksel olarak yeni kurulum yapma
+imkanının bulunmaması halinde reddedilebilir. Ayrıca mevcut
+
+[SAYFA 17]
+2083
+
+anten tesisi Sahipleri tarafından sonuçlandırılan taleplere ait
+cevapların bir kopyası, başvuru sahibinin bilgilendirildiği tarihte
+Kuruma da yazılı olarak iletilir.
+
+(3) Paylaşılan telsiz anten tesisinden ayrılma taleplerinde; telsiz anten
+tesisi sahibi ayrılma talebinden itibaren on iş günü içerisinde telsiz
+anten tesisini telsizin sökülmesi için hazır hale getirmek
+zorundadır.
+
+(4) Telsiz anten tesislerinin temini, yerleştirilmesi, barındırılması ve
+işletilmesiyle ilgili üçüncü taraflarla yapılacak sözleşmelerde,
+anten tesislerinin paylaşılmasını engelleyecek kurallara yer
+verilemez.
+
+(5) Telsiz anten tesisini ortak kullanan gerçek veya tüzel kişiler Hop
+veya transmisyon cihazları hariç aşağıdaki muafiyetleri kullanır:
+
+(A) Her bir gerçek veya tüzel kişi tarafından telsiz istasyonu için
+Kuruma ödenmesi gereken telsiz yıllık kullanım ücreti, telsiz
+anten tesisini paylaşan gerçek veya tüzel kişi sayısına
+bölünerek tahsil edilir.
+
+(B) Yıl içerisinde telsiz anten tesisini ortak kullanmaya başlayan
+gerçek veya tüzel kişilerden telsiz yıllık kullanım ücreti aylık
+pro-rata olarak belirlenir ve peşin tahsil edilir. Telsiz yıllık
+kullanım ücretini önceden ödeyenlere herhangi bir ücret
+iadesi yapılmaz.
+
+(6) Telsiz anten tesislerinde asgari olarak aşağıdaki özelliklere ve
+donanımlara yer verilir;
+
+(A) Kulenin veya kurulan anten sisteminin yüksekliğine göre;
+(a) Sivil havacılık tedbirleri,
+(b) Yıldırım koruma sistemi,
+(B) Topraklama sistemi,
+(C) Yetkisiz kişilerin müdahalesini engelleyecek tedbirler ve
+35/2008 (Ç) İş Sağlığı ve Güvenliği Yasa'sı kuralları uyarınca gerekli
+tedbirler alınır.
+
+Telsiz İle İlgili 16. (1) Gerçek veya tüzel kişi, kurulup işletilen telsizin, Yasa ve
+Şikâyetler ve yürürlükte bulunan ilgili mevzuat ile belirilen teknik
+Denetim düzenlemelere aykırı bir şekilde elektromanyetik enterferans
+
+yarattığı, bu Tüzük kuralları ile belirlenen elektromanyetik alan
+şiddeti sınırlarına uymadığı ve/veya diğe Kurum teknik
+düzenlemelerine uymadifi iddiasıyla Kurum'a şikayette
+bulunulabilir ve/veya elektromanyetik alan şiddeti ölçümü talep'
+edebilir.
+
+(2) (A) Şikayet başvurusunda elektromanyetik alan şiddeti ölçümü,
+elektromanyetik enterferans tespiti ve ölçümü talep edilmesi
+halinde ölçüm talebine ilişkin ücret, ölçüm talebinde bulunan
+tarafından, ölçüm talebi dilekçesinin Kurum'a verilmesinden
+
+[SAYFA 18]
+30.03.2015
+R.G.50
+EK Ii
+A.E.244
+
+3
+ww
+
+©
+
+—
+nt
+
+(63
+
+G)
+
+2084
+
+önce Kurum tarafından bildirilen Kurum banka hesabına
+yatırılır ve banka dekontu talep dilekçesi ile birlikte Kurum'a
+teslim edilir.
+
+(B) Kurum tarafından o gerçekleştirilecek (o Ölçüm işlemleri,
+elektromanyetik enterferansın tespiti ve ölçülmesi işlemine
+ilişkin ücretin ödenmesinden ve başvuru evraklarının eksiksiz
+teslim edilmesinden sonra başlatılır.
+
+(A) Şikayet. başvurusunda elektromanyetik alan şiddeti ölçümü
+talep edilmesi durumunda Kurum, şikayet başvurusunda
+öncelikli olarak şikayet dilekçesini inceler ve elektromanyetik
+alan şiddeti ölçümü yapılması talep edilen telsizde şikayet
+tarihinden en fazla üç ay öncesine kadar Kurum tarafından
+gerçekleştirilmiş ve uygun bulunmuş. bir ölçüm sonucunun
+olup olmadığını kontrol eder. ;
+
+(B) Kurum yaptığı kontrolde elektromanyetik alan şiddeti ölçümü
+yapılması talep edilen telsizle ilgili şikayet tarihinden en fazla
+üç ay öncesine kadar bir ölçüm gergeklestirilmis ve ölçüm
+sonuçları uygun bulunmuş ise tekrar ölçüm yapmaz ve
+mevcut ölçüm sonuçları ile başvuru sahibi on iş günü
+içerisinde bilgilendirilir.
+
+(O) Elektromanyetik alan şiddeti ölçümü yapılması talep edilen
+telsizle ilgili şikayet tarihinden üç ay öncesine kadar Kurum
+tarafından gerçekleştirilmiş ölçüm olmaması durumunda
+ölçüm işlemleri başlatılır.
+
+Kurum, telsiz ile ilgili şikayetin alınmasından itibaren on iş günü
+içerisinde denetim ve gerekmesi halinde elektromanyetik alan
+şiddeti ölçüm işlemleri gerçekleştirir ve rapor hazırlanır. Denetim
+ve/veya ölçüm sonuçlarmı içeren rapor, şikayette bulunan gerçek
+veya tüzel kişi tarafından Kurumdan teslim alınır.
+
+) Üçüncü şahısların talebi üzerine yapılan ölçüm sonucunda, limit
+
+değerlerinin aşıldığının Kurum tarafından tespiti durumunda limit
+değerlerini aşan ilgili telsiz cihazı telsiz cihazı kuran ve işleten
+kişilere bildirilir, telsiz cihazı kuran ve işleten kişiler Ucretler
+Tüzüğü uyannca ölçüm ücretini, bildirim tarihinden itberen
+yirmi iş günü içinde ölçüm talebinde bulunan kişiye öder.
+
+Kurum şikayetler dışında telsiz kurma (ruhsat) ve kullanma izni
+verilen telsiz sistemlerini her zaman ve görülen ihtiyaç üzerine
+denetleyebilir. Kurum denetimlerde telsiz ruhsatında veriler teknik
+bilgilere göre telsiz sisteminin kurulup kurulmadığını ve telsiz
+kurma (ruhsat) ve kullanma izninde belirtilen teknik bilgilere göre
+işletilip işletilmediğini kontrol eder.
+
+Elektromanyetik alan şiddeti ölçümü Kurum tarafından
+gerçekleştirilirken, bu ölçümleri yapan personelin ve ölçümlerde
+
+[SAYFA 19]
+2085
+
+kullanılan ölçüm cihazının asgari olarak aşağıdaki bentlerde
+belirtilen kriterleri taşıması gerekmektedir:
+
+(A) Ölçümü yapan personel üniversitelerin; elektrik-elektronik
+mühendisliği, haberleşme mühendisliği, fizik
+mühendisliği, fizik lisansı veya elektromanyetik dalgalar
+ile ilgili dersleri alarak teknik bölümlerin birinden veya
+meslek yüksek okulu ile liselerinin elektrik, elektronik
+haberleşme teknolojisi (telekomünikasyon, haberleşme,
+haberleşme teknolojisi, elektronik haberleşme), elektronik
+teknoloji (elektrik (elektronik, elekirik (o elektronik
+teknikerliği, elektronik, endüstriyel elektronik)
+bölümlerinden mezun olan ve bu konuda özel eğitim
+sertifikası almış personel tarafından yapılır.
+
+(B) Ölçümde kullanılan cihazın özellikleri aşağıdaki bentlerde
+belirtildiği gibi olmalıdır;
+
+(a) Kullanılan ölçüm cihazı; ortalama güç yoğunluğunu
+(Wim, mW/em2), ortalama E alanını (V/m) veya E
+alanının karesel ortalamasını, ortalama H alanını
+(A/m veya H alanının karesel ortalamasını
+ölçebilecek veya bu parametrelerden bir veya birkaçını
+gösterebilmelidir.
+
+(b) Kullanılan ölçüm cihazı Prob/anten boyutları, ideal
+olarak kararlı frekans tepki eğrisi gösterecek ve
+frekans sınırı dışındaki frekanslara karşı tepkisi zayıf
+olmalıdır.
+
+(c) Kullanılan ölçüm cihazı zamana göre ortalama
+alabilme yeteneğine sahip olmalıdır.
+
+(ç) Kullamlacak ölçüm cihazının teknik dokümanlarında
+önerilen (o kalibrasyon (aralıklarında - kalibrasyonu
+yaptırılır, ölçüm cihazı dokümanlarında kalibrasyon
+süresi yok ise en az iki yılda bir kalibrasyonu yapılır.
+
+(8) Elektronik haberleşme cihazında; bu Tüzüğe ekli Üçüncü Cetvelde
+yer alan Tablo-l’de belirtilen elekirik alan şiddeti, manyetik alan
+şiddeti, manyetik akı yoğunluğu ve eşdeğer düzlem dalga
+yoğunluğu;
+
+(A) Ortam için, ICNIRP'nin belirlediği toplam limit değerlerini,
+
+(B) Çevre ve insan sağlığı dikkate alınarak; ihtiyati tedbir
+açısından, tek bir cihaz için ICNIRP'nin belirlediği limit
+değerin dörtte birini (4),
+aşamaz.
+
+(9) Yapılacak olan ölçümler; temel olarak elektromanyetik alan şiddeti
+veya güç akı yoğunluğu ölçümlerinden ibarettir. Ölçümler geniş
+
+[SAYFA 20]
+2086
+
+bantlı cihaz ile yapıldığında, yakın alanda elektrik alan ve manyetik
+alan karmaşık bir yapı gösterdiğinden, elektrik alan ve/veya
+manyetik alan probları ayrı ayrı kullanılarak ölçüm yapılır. Uzak
+alanda ise ölçümler sadece elektrik alan probu kullanılarak yapılır.
+
+(A) Ölçümlerde aşağıdaki bentlerde belirtilen hususlar dikkate alınır;
+
+(a) Ölçümde görevli olan personel, üzerinde bulundurduğu her
+türlü elektronik cihazı ölçüm sonuçlarını etkilememesi için
+kapalı tutar.
+
+(b) Cihazın ilk çalıştınlmasından sonra cihazın teknik
+dokümanında belirtilen süre kadar cihaz kararlı duruma
+geçene kadar beklenir.
+
+(c) Her ölçüme başlamadan önce ölçüm cihazının varsa
+sıfırlama tuşuna basılır.
+
+(ç) Ölçümler, telsiz sistemi çalışır durumda iken yapılır.
+
+(d) Ölçümler, verici antenin yayın patemi dikkate alınarak
+
+yapılır.
+
+(B) Hücresel baz istasyonları ölçümleri için bu maddede belirtilen
+ölçüm yöntemlerine ek olarak aşağıdaki bentlerde düzenlenen
+hususlara da dikkat edilir;
+
+(a) Ölçümler, antenin yayın yaptığı yönden başlamak üzere
+yatayda sağa ve sola doğru en az üç değişik noktadan yapılır.
+
+(b) Hücresel baz istasyonları için her ölçüm ile uluslararası
+standart dikkate alınarak, alı dakikalık ortalamaya göre
+yapılır.
+
+(c) Ölçümler; antenin yayın patemi dikkate alınarak, yayına
+doğrudan maruz kalan bölgede en az üç noktadan yapılır.
+
+(10) Kurum tarefindan yapılan ölçümlerde bu Tüzeğe ekli Üçüncü
+Cervelde yer alan Tablo-1’de belirtilen limit değerlerin;
+
+(A) Tek bir cihaz için izin verilen limit değerin üzerinde olduğunun
+tespit edilmesi halinde bu Tüzüğün 10'uncu maddesinin
+3'üncü fıkrası kuralları uygulanır.
+
+(B) Ortamın toplam limit değerini tek bir cihazın aştığının tespit
+edilmesi halinde, düzeltme için herhangi bir süre verilmeksizin
+limit aşımına neden olan telsizin izni iptal edilir. Yeniden
+yapılacak başvuru üzerine Kurum, 8'inci madde uyarınca
+değerlendirmelerini yaptıktan sonra telsiz sahibinin aynı yerde
+bu Tüzüğe ekli Üçüncü Cetvelde yer alan Tablo-|'de belirtileri
+limit değerlerini aşmayan yeni bir cihaz kurmasına izin
+verebilir.
+
+(C) Tek bir cihaz için izin verilen limit değerlerine uygun
+olduğunun tespit edilmesine rağmen ortamın limit değerinin
+aşılması halinde, Kurum koordinasyonunda telsiz sahibi
+tarafından aynı yerde kurulu tüm cihazlar için ortam normal
+değerlere gelinceye kadar gerekli teknik düzenleme yapılır. Bu
+
+[SAYFA 21]
+2087
+
+teknik düzenlemeler için telsiz sahibine bu Tüzüğün 10'uncu
+maddesinin (3)‘tincii fıkrasında belirtilen süreler uygulanır.
+Yapılan teknik düzenlemelere rağmen ortamın limit değeri
+aşımının giderilememesi halinde en son kurulan cihazdan
+başlamak üzere telsiz kurma (ruhsat)ve kullanma izinleri iptal
+edilir.
+
+(Ç) Ölçüm yapılan cihazın izne tabi olmayan telsiz olması ve limit
+değerlerin asilmasi veya elektromanyetik (o enterferans
+oluştuğunun tespit edilmesi halinde, Kurum tarafından ihlalin
+giderilmesi sağlanır. Yapılan ihlalin giderilmediği veya
+herhangi bir teknik düzenleme ile çözülemeyeceği Kurum
+tarafından tespit edilmesi halinde, söz konusu telsiz cihazının
+faaliyeti durdurulur ve telsiz sahibi tarafından bulunduğu
+yerden kaldırılır.
+
+ÜÇÜNCÜ KISIM
+Çeşitli ve Son Kurallar
+
+Geçici Madde * 1. (1) (A) Bu Tüzüğün yürürlüğe girdiği tarihinten önce telsiz kurulumu ve
+Mevcut Telsiz işletimi gerçekleştiren gerçek veya tüzel kişiler bu Tüzüğün yayım
+Cihazlan ve tarihinden başlayarak altı ay içinde; Kuruma bildirimi yapılmış ve
+Sistemleri Kurum tarafından izinlendirilmiş olan sistemler haricinde, mevcut
+sistemlerinde kullanılan her türlü;
+
+(a) Uydu uplink,
+
+b) Radyolink,
+
+(c) Tekrarlayıcı,
+
+(©) Sabit ve araç,
+
+(d) El ve benzeri telsiz cihaz ve sistemlerinin sayıları,
+
+(e) Frekansları,
+
+(f) Çıkış güçleri,
+
+(8) Kullanıldığı yerin coğrafi koordinat ve adresleri, ve
+
+talep edilen kullanım süresini belirten dilekçe ile birlikte Kuruma
+başvurarak mevcut telsiz cihazları ile ilgili bilgilendirmede
+bulunurlar ve telsiz cihazlarını bu Tüzük ile belirlenen kurallara
+uygun hale getirirler.
+
+(B) Kurum, yukarıda (A) bendinde belirtilen süre içerisinde bu
+Tüzük kurallarına uygun hale getirilmeyen telsizlerin
+kullanımına son verir.
+
+(2) Bu Tüzüğün yürürlüğe girdiği tarihten on iş günü öncesine kadar
+Kuruma yapılan ve değerlendirmeye alınmayan başvurular, bu -
+Tüzüğün yürürlüğe girdiği tarihten başlayarak beş iş günü
+içerisinde başvuru sahibine iade edilir. İade edilen başvurular, iade
+tarihinden itibaren yirmi iş günü içerisinde bu Tüzük kurallarına
+uygun hale getirilerek yeniden Kuruma verilir. Yirmi iş günü
+içerisinde başvurularını yenileyerek tekrar başvuru yapmayanların
+başvuruları yapılmamış kabul edilir.
+
+[SAYFA 22]
+Ücretlerin
+Ödenmesi
+30.03.2015
+R.G.50
+RK WI
+A.E.244
+
+Y önetmelik ve
+Tebliğlere İlişkin
+Usul ve Esaslar
+
+Yürütme Yetkisi
+
+Yürürlüğe Giriş
+
+2088
+
+17. Bu Tüzükte belirtilen ücretler; “Ücretler Tüzüğü” uyarınca hesaplanır
+
+ve ödenir.
+
+18. Kurum, bu Tüzük kapsamındaki telsiz kurma (ruhsat) ve kullanım izni
+
+süreçlerine, Kurum tarafından telsiz sistemleri için yapılacak teknik
+değerlendirme ve denetimlere, izin gerektirmeyen telsiz sistemlerine,
+telsiz sistemleri için verilecek güvenlik sertifikasına, deneme izni
+kapsamında kullanılacak telsiz sistemlerine, telsiz anten tesislerine,
+telsiz sistemlerine yönelik şikâyetlere ve denetimlerine ilişkin
+yönetmelik veya tebliğler yayımlayabilir.
+
+19. Bu Tüzük elektronik haberleşmeden sorumlu Bakanlık tarafından
+
+yürütülür.
+
+20. Bu Tüzük, Resmi Gazete'de yayımlandığı tarihten başlayarak
+
+yürürlüğe girer.
+
+[SAYFA 23]
+2089
+
+BİRİNCİ CETVEL
+(Madde 7)
+
+KET
+(Kısa Mesafe Erişimli Telsiz Cihazları)
+
+Kurum tarafından izin verilmiş işletmeci veya kullanıcıların elektronik haberleşme cihaz ve
+sistemleri üzerinde herhangi bir elektromanyetik enterferansa neden olmadan ve anılan
+sistemlerin kullanımından kaynaklanan elektromanyetik enterferansi kabul ederek
+kullanılmak zorundadır.
+
+Bu Tüzük kapsamındaki cihaz ve sistemlerin; Kurum tarafından tahsis ve tescil edilmiş
+frekanslarda çalışan elektronik haberleşme cihazları ve sistemleri ile radyo ve televizyon alıcıları
+üzerinde elektromanyetik enterferansa neden olduğunun tespiti halinde, elektromanyetik
+enterferansa neden olan sistem ve cihazların faaliyetleri derhal durdurulur ve sebep olduğu
+elektromanyetik enterferans giderilinceye kadar faaliyete başlamasına izin verilmez.
+
+Aksi belirtilmedikçe, KET cihazlarının; tahsisli veya tümleşik anten kullanmaları
+gerekmektedir. KET cihazları ile anten birleşiminin bu Tüzükte belirtilen teknik kriterlere
+uygun olması gerekmektedir.
+
+Haberleşme sağlayıcılar bu Cetvelde yer alan Tablo 3'de belirtilen genişband veri iletim
+sistemleri teknik kriterleri dahilinde kullanarak erişim sistemlerini birbirleri ile
+irtibatlayabilir. Ancak;
+
+a) Hop başlangıç ve bitiş adresi aynı semt-bucak (Kuzey Kıbrıs Türk Cumhuriyeti Posta
+Kodları Tüzüğü'nde tanımlandığı şekilde) sınırları içinde olacaktır.
+
+b) Erişim sistemlerini birbirleri ile irtibatlamak için kullanılan sistemlerdeki antenlerin ana
+lobunun azimuth düzleminde bulunan yayılım açısı otuz dereceden fazla olmayacaktır. otuz
+derecelik açı anten kazancının yarıya düştüğü (-3 dB'deki değeri) değer dikkate alınarak
+belirlenecektir.
+
+Haberleşme sağlayıcılar bu Cetvelde yer alan Tablo 3'de belirtilen genisband veri iletim
+sistemleri teknik kriterleri dahilinde kullanacaklar ve açık alanda kurulan erişim telsiz
+sistemlerindeki her bir sektör anteni için, antenin merkezinden dik olacak şekilde en az dört
+metrelik güvenlik mesafesi (bu mesafe içerisinde yaşam alan bulunmayacaktır.) uygulayarak
+
+telsiz cihazlarını kurup işletmek zorundadırlar.
+*
+
+A) Genel Amaçlı KET cihazları
+
+Uzaktan kumanda, uzaktan ölçüm, alarm, oyuncak telsiz ve araçları, video-kamera, eş zamanlı
+tercüme ve benzeri uygulamalarda kullanılan sayısal veya analog her türlü ses ve veri
+ileimini sağlayan cihazlar; Bu Cetvelde yer alan Tablo-i’de belirtilen. teknik kriterlere
+uygun olmak kaydıyla kullarılır. :
+
+[SAYFA 24]
+2090
+
+Table 1: Genel amaçlı KET cihazlarının teknik kriterleri
+
+Maksimum Spektrum i
+Çıkış Gücü, Güç Erişim ve KN i
+Frekans Bandı Yoğunluğu Girişimi Kanal Referans Açıklama
+ei 7 Aralığı Standart
+Limiti ve/veya Önleme
+Manyetik Alan Gerekleri
+a | 6765-6795 Ha | O meted
+dBUM
+m TSEN
+, 300330
+b | 13.553-13.567 | Dre
+Miz ' “, Not |
+dBUA
+m
+Ni , TS EN
+| regsrezn2zes | NO mareee 300220
+MHz > TS EN
+. dBuA/m veya pi
+300330
+10
+mWerp
+40.660-40.700 ;
+ç MHz 10 mWerp, TS EN
+300220
+<0 Srey
+13820-13845 | 10 metrede <del görev
+“| Miz a2 neues
+dByA/nı (Not 2)
+Eğitim ve araştırma
+kurumları tarafindan
+e 148-152 16 mWersp 12,5/25 kHz hayvan takip ve İzleme
+MHz amaçlı kullanılacaktır.
+<%10
+görev
+433.050- 10mW çevrimi Not 1
+f 434.790 MHz orp (Not 2)
+(Not 5)
+Im,
+-13 dBnv10
+kHz
+433.050- 250 kHiz'den
+fl | 434.790 MHz | daha büyük band Not |
+(Not 6) genişliğindeki
+geniş band
+modülasyonlar
+için güç
+yoğunluğu -13 TSEN
+dBm/10kHz dir. 300220
+434.040- 25 kire
+2 | 434.790 MHz 10 mWexp Ke 2 Not!
+(Not 6) made
+pa ! axe Ga FHSS Modülasyon
+25 mWers görev. ve tekniği kullanacaktır.
+çevrimi için
+veya LBT <l00kHz
+(Not 2 ve 7) (Not 3)
+
+[SAYFA 25]
+2091
+
+menzil açısında
+
+-48 dBm/MHz
+
+<0)
+863-870 MHZ 25 görev FHSS hariç DSSS ve
+z {Not 4.5 ve 8) mW erp çevrimi diğer genişband
+. ‘ (Not veya modülasyon teknikleri
+9 LBT+AFA kullanılacaktır.
+Güç (Not 2, 7 ve
+yoğunluğu: 8)
+-4.5 dBm/100
+ktiz
+<100 kHz, |
+3900.1 veya daha
+görev fazla kanal
+25 mMWerp çevrimi modülasyon .
+veya band Dar ve geniş band
+LBT+AFA genişliği modülasyonlar
+(Not 2 ve7) için $300 kullanilacakur.
+kHz (Not 3)
+S%ol görev
+$68.000- çevrimi 1 veya daha
+gi 868.600 MHZ 25 mWerpy veya fazla kanal
+(Not 5) LBT+AFA | işin (Not 3)
+(Not 2)
+<a.
+| 868.700- görev. | | veya daha
+| ¢2 | $69.200 MHz 25 mWerp ŞEYE | fazla kanal
+(Not 5) veya için (Not 3)
+. LBT+AFA
+(Not 2)
+Dar ve geniş band
+<0 modülasyonlar
+görev 25 kHz (1 kullandacakor,
+3 869.400- 500 MWerp gevrimi veya daha Tüm frekans bandı
+& 869.650 MHz veya fazla kanai yüksek nızdaki veri
+LBT+AFA için) aktarımlarında tek kanal
+(Not 2) olarak
+kullanılabilecektir.
+Dar ve geniş band
+869,700- SmWerg TSEN modiilasyonlar
+g4 870.000 MHz 300220 kullanılacaktır. Kanal
+(Not 6) aralığı belirtilmemiştir.
+<0) Ancak. tüm frekans
+25 MW erp görev bandı kullanılabilir.
+çevrimi
+veya
+LBT+AFA
+(Not 2)
+4 2483 5
+é rial 10 mWeinp Not | |
+h 5725-5875 MHz dim, TSEN Not i !
+, 58 300440 i
+oe 169 mW ize Not !
+4 nord
+i |, 610-615 GHz 160 mMWeare Not |
+10 dBm Nor) ve i
+. CİLEp/230 Not 10 |
+id MHz ve 30” |
+
+[SAYFA 26]
+2092
+
+| 100 mW e.i.r.p,
+Not |
+|
+
+k | 244.246 GHz 100 mW, Not |
+
+Not 1: Bu band SBT cihazları için de tahsislidir.
+
+Not 2: Görev çevrimi kısıtlaması, LBT veya eşdeğer tekniklerin uygulandığı durumda cihazın bu fonksiyonları kullamcı
+tarafindan kapatılmamalıdır. AFA veya eşdeğer özelliklere sahip olmayan LBT cihazları için görev çevrimi limiti
+
+uygulanır, Frekans çevikliğine sahip herhangi bir cihaz için, LBT ve eya eşdeğer bir özelliği yok ise, görev çevrimi
+sınırlaması iletişimin tamam! üzerinden uygulanır,
+
+Not3: o Tercih edilen kanal aralığı 50 kHz veya 25 kHz'lik alt bölmelere ayrılabilen 100 kHz band genişliğidir.
+
+Not4: o Alarmlar için alt bandlar hariç, (bu Cetvcide ver alan Tablo-5'e bakınız)
+
+Not 5; Maksimum 300 kHz band genişliğine sahip (o sayısal modülasyon metodu sağlanırsa Scs ve video
+uygulamalarına izin verilir. Maksimum 25 kHz band genişliğine kadar analog ve sayısal ses uygulamalarına izin
+verilir. 863-865 MHz alt bandında bu Cetvelde yer alan Tablo-8 ve Tablo-10'da veril cn söz konusu band ile ilgili şartlar”
+
+uygulanır,
+
+Not6: o Ses ve video sinyalleri hariç. Maksimum 25 kHz band genişliğine kadar LBT veya eşdeğer spekirum erişim teknikleri
+ile ses ve video uygulamalarına izin verilir. Verici her iletim için maksimum iletim periyodunun 1 dakika olmasını
+kontrol edecek bir “çıkış gücü sensörü” içermelidir.
+
+Not 7: o Eğer band 865-868 MHz ile sınırlandırılırsa görev çevrimi 91'e (yüzde bir) kadar arttırılabilir.
+
+Not 8: 200 kHz - 300 MHz band genişliğine sahip FHSS ve DSSS modülasyonlarından başka geniş band
+modülasyonları için, eğer 10 mW e.r.p güce kadar band 863-865 MHz ile sınırlandırılırsa görev çevrimi 91'e (yüzde bir)
+kadar arttirilabilir.
+
+Not9: o Eğer çalışma bandı 865-868 MHz ve 865-870 MHz ile sınırlandırılırsa güç yoğunluğu 6.2 dBm/100 kHz ve -
+0.8dBm/100 kHz'e çıkartılabilir.
+
+Not:10: Bu limitler | ms veya daha az ortalama zamanla ve rms dedektörü ile ölçülmelidir.
+
+B)Arama-kurtarma cihazları
+KET cihazları arama-kurtarma çalışmaları esnasında kullanılan, bu Cetvelde yer alan Tablo-?'de
+belirtilen teknik kriterlere uygun olmak kaydıyla kullanılır.
+
+Tablo 2: Arama-kurtarma cihazları teknik kriterleri
+
+. Spektrum
+Maksimum Erişim ve
+. Çıkış Gücü veya eee Kanal Referans
+Çalışma Frekansi Tanvetik Ale, Girisimi > or Açıklama
+Manyetik Alan Önleme Aralığı Standart
+iddeti Gerekleri
+| Heyelanda arama
+; 10 metrede 7 Sürekli dalga TS EN kurtarma
+a 456.9 — 457.1 dBA: (modülasyon 300718 amacıyla
+| kHz yok) N kullanılacaktır.
+|
+. Sadece afet
+b 40.6625- Durumunda
+40.6875 MHz; o l00mW,,, 25 kHz arama kurtarma
+amacıyla |
+kullanılacaktır. |
+<%10 görev Uzaktan ölçüm
+çevrimi En fazla 50 to amacıyla
+169.4-169.475 < , TS EN kullanılacaktır.
+c 500 mW çep kHz anne in
+MHz Ni <%1 görev 300220 Takip ve yer
+çevrimi tespit amacıyla
+| ği i kullanılacaktır.
+
+[SAYFA 27]
+2093
+
+C)Genisband veri iletim sistemleri
+Geniş band veri iletim sistemleri, bilgi işlem. kayıt, çevirme, dosyalama, depolama, aktarma
+amacıyla bu Cetverlde yer alan Tablo-3'te belirtilen teknik kriterlere uygun olmak kaydıyla
+kullanılır.
+
+Tablo 3: Genişband veri iletim sistemleri teknik kriterleri
+
+Maksimum Snekt
+Çıkış Gücü Pe mm
+> ve/veya Erişim Ve | Kanal | Referans
+Frekans Bandı m Girişimi > N N Açıklamalar
+Güç M Aralığı | Standart
+ray Onleme *
+Yoğunluğu Gerekleri
+Limiti
+: FHSS modülasyon teknigi haricindeki
+a 2400-2483.5 100 Not 3 TS EN geniş band modülasyonlarda
+MHz MWE inp . 300328 maksimum e.i.r.p yoğunluğu 10 mW
+cing MHz’ dir.
+200 mW
+ortalama
+e.i.r.p Hava alanlarının pisti merkez olmak
+b 3150-5350 Maksimum Not 1,2,3 üzere 1 km mesafe dışındaki kapalı
+ortalama alanlarda kullanılabilir.
+MHz . ve 4 N al ini .
+c.i.r.p Sadece bina içi ve benzeri kapalı
+yoğunluğu alanlarda kullanılacaktır.
+10 mW/}
+MHz dir.
+ıW TSEN
+orcalama 301893
+erp
+Maksimum
+ortalama Bina içi ve dışı alanlarda
+c 5470-5725 gl.r.p Not 1, 2,3 kullanılabilir.
+MEZ yoğunluğu ve 4 il .
+50
+mW/MHz
+değeri ile
+sınırlı
+olacaktır.
+2W
+ortalama
+erp
+Maksimum
+ortalama Bina içi ve dışı alanlarda
+ei.r.p kullanılabilir.
+yoğunluğu
++ 5725-5875 100 Not 1, 2,3 TS EN 01 Ocak 2019 tarihinden
+g MHz mW/MHz ve 4 302502 sonra bu sistemler
+degeri bu band içerisinden
+ile kaldırılacak ve
+sınırlı kullanılmayacaktır.
+olacaklır
+100 Sadece Sabit ve
+d 17.1-17.3 mWeito Not 3 ve 4 transmisyon amaçlı
+GHz olarak
+: kullanılacaktır.
+Bu band içerisindeki
+diğer sistemlere
+enterferenas
+yaralmayacaktır.
+Çapı 70 cm'den büyük
+olan antenler
+kullanılamaz.
+
+[SAYFA 28]
+2094
+
+40
+€ 57-66 GHz dBm Not 3 TS EN
+(Ortal —_ 302567
+
+ama
+
+e. iLp.
+
+)
+
+Maksi
+
+mum
+
+ortala
+
+ma
+
+e.i.r.p
+yoğunluğu
+13 dBm/
+MHz dir.
+
+Açık alanlarda sabit olarak
+kullanılmayacaktır.
+
+Not 1: 5150-5350 MHz, 5470-5725 MHz ve 5725-5875 MHz bandlarında çalışan cihazların TS EN 301893, TS EN 302502
+standardlarında tanımlanan RE algılayıcı (radar) sistemleri ile uyumlu çalışması ve bu bandlarda çalışan tadar
+sistemlerini olumsuz etkilememek için gerekli önlemleri alması gerekmektedir.
+
+Not 2: — 5250-5350 MHz, 5470-5725 MHz ve 5725-5875 MHz bandlarında bulunan cihazlar TPC kabiliyetine sahip
+olmalıdır.
+
+Not3: © Sadece tümleşik veya tahsisli anten kullanılacaktır.
+
+Not 4: Bu bandlarda çalışan cihazlarda radar sistemlerini olumsuz etkilememek için gerekli önlemlerin alınması
+zorunludur.
+
+D) Karayolları taşımacılık ve ulaşın telematik sistemleri
+
+Otomatik para toplama, park yeri düzenleme ve park yeri ücretlendirme, trafik bilgi
+aktarımı ve acil uyarı sistemleri, trafik kontrol ve trafik öncelikleri gibi karayolları
+taşımacılığı ve ulaşımda yol emmiyeti. kaza sayılarının azaltılması, ulaşım verimliliği
+ve çevresel kalitenin geliştirilmesi oamacıyla akıllı taşımacılık sistemlerinde: araç
+sistemleri için yol başlangıçlarında, çok şeritli yol bağlantılarının gereksinimlerini
+karşılayacak şekilde ulusal buzda, araçtan araca linkler olarak, araca monteli radar
+sistemlerinde ve benzeri şekilde kullanılan karayolları taşımacılık ve ulaşım telematik
+sistemleri bu Cetvelde ver alan Tablo-4'de belirtilen çıkış gücünü geçmemek kaydıyla
+kullanılır. :
+
+Tablo 4: Karayolları taşımacılık ve ulaşım telematik sistemleri teknik
+
+kriterleri
+m Spektrum
+Maksimum Cikis Erisim ve Kanal Referans
+Frekans Bandi Gücü ve/veya Güç Girişimi — Açıklamalar
+O Mi yi Aralığı | Standart
+Yoğunluğu Limiti Önleme ii
+Gerekleri
+Yoldan araca sistemler için
+kullanılacak.
+Kanal merkez frekansları;
+3797.5 MHz ve 5802.5
+MHZ için 5 MHz kanal | |
+aralığı, 5809 MHz için ise |
+5795 -5805 kanal aralığı 10 MHz j
+a Miz olacaktır, |
+
+1 Mbivs'lik veri hızında $
+Weirp ve 500 kbit/s
+gönderme, 250 kbit/s alma
+| veya düşük hızlarda (31
+kbit/s) 2 W,.;,, ye izin
+
+TSEN verilmektedir,
+
+2 Wep veya 8 300674 (Not 1)
+
+sip
+W
+
+e.i.r.p
+
+[SAYFA 29]
+2095
+
+Cok şeritli yolların
+birleşimindeki sistemler için
+kullanılacak. Kanal merkez
+frekansları; 5807.5 MHz ve
+
+3812.5 MHz için kanal
+aralığı 5 MHz, 5810 MHz
+b 5805 -5815 için ise kanal aralığı 10
+MHz MHz.
+1 Mbits'lik veri hızında 8
+Weirp ve 500 kbit/s
+gönderme,
+250 kbit/s alma veya 31
+. kbit/s’ hk düşük hızlarda 2
+Wep, a İzin
+verilmektedir.
+(Not 1)
+SEN Araçtan araca ve yoldan
+¢ | 63-64 GHz 40 dBmeirp. - a ay araca sistemlerde
+oN kullanılacaktır,
+55dBmöig, © -,
+(maksimum güç) ve
+23.5 döm (sadece N Araç ve alt yapı radar
+puls radar, ortalama TSEN . lerind
+oe güç) 301091 sistemlerinde
+¢ 76 -77 GHz -50 dBm (ortalama kullanılacaktır.
+güç)
+Maksimum güç
+yoğunluğu 0
+dBm/50 MHz. eirp
+ve maksimum
+ortalama e.i.r.p
+yoğunluğu -43,3
+d 21.65-26.65 dBml MHz, jp TS EN
+GHz olmalıdır. 302288
+22 GHz'in altında
+maksimum ortalama
+e.i.r.p. yoğunluğu
+61.3 dBm/MHZze isp
+olmalıdır.
+55 dBmcisy Ve
+e Maksimum ortalama TSEN
+77-81 GHz | c.i.r.p. yoğunluğu -3 302264
+dBm/MHz'dir.
+fl 24.05- 100 Woinp Not 2
+24.075 Giz . ——— Arac radar sistemlerinde
+0.1L mWiien Not 3 1 ay
+p 24.075. - kullanılacaktır.
+24.150 Giz 100 MWe ep Not 3 (Not 1)
+8 24.150- 100 mW,
+24.250 GHZ
+24.250- © . TSE EN
+Nİ 94.495 GHz | 7!) dBmeinp 302858
+* 24,495- :
+& | 94.500 GHz 8 dBm c.i.r.p i. .
+: Araç radar sistemlerinde
+<5.6Y05/25 kullanılacaktır.
+20 dBm e.i.r.p MHZ görev
+3 24,250- çevrimi
+8” | 94.500 GHz <2. 3%/5/25
+lé6dBmeinp | MHzgörev
+İ çevrimi
+Notl: Bu band SBT cihazları için de tahsislidir.
+Not 2: Bu bandlarda çalışan cihazlarda radar sistemlerini olumsuz etkilememek için gerekli önlemlerin alınması
+
+[SAYFA 30]
+2096
+
+zorunludur,
+
+Not3: Bir tamponun arkasına monteli cihazlar için ışınlama süresi her 3 ms’de 4 pıs/40 kHz'in alında, tamponsuz monteli
+cihazlar için her 3 ms'de 3 115/40 kHz'in altında olmalıdır. Ayrıca, tüm cihazlar için ışınlama süresi her
+40 ms'de 1 ms/40 kHz'in altında olınalıdır. Minimum frekans modülasyon aralığı veya 250kHz'lik minimum anlık
+band genişliği kısıtları maksimum ışınlama süresi kisitile birlikte uygulanır,
+
+E)RF algılayıcı (dedektör) ve ikaz cihazları
+Kaybolması, çalınması veya belirli bir bölgeden geçişin önlemesi amacıyla, önceden etiketlenmiş
+nesneleri tespit etmeye yarayan RF algılayıcı (dedektör) ve ikaz cihazları, bu Cetvelde yer alan
+Tablo-5’te belirtilen teknik kriterlere uygun olmak kaydıyla kullanılır.
+
+Tablo 5: RF algılayıcı (dedektör) ve ikaz cihazları teknik kriterleri
+
+Spektrum Referans
+Erişim ve - Standart
+. Maksimum we Kanal e ,
+Frekans Bandı Çıkış Gücü Girişimi Aralığı Açıklamalar
+> Önleme
+Gerekleri
+a 2400-2483.5
+Miz
+b 9200-9500 25 mW cite
+MHz
+9500-9975 TS EN
+N MHz 300440
+ç | 13.4-14.0 GHz
+24.05-24.25 :
+d GHz 100 MW cirp
+€ 45-7 GHz
+f | 85-106 GHz 413 TS EN 302372 Tank/Depo seviyesi
+, | 24.05 27.00 dBm/MHz belirlenmesi amacıyla
+g GHz cip kullanılacaktır
+E 57-64 GHz
+h 75-85 GHz
+- . TS EN 302 Sanayi seviye ölçüm
+1] 60-85 Giz 729 radarı (LPR)
+i 24.05-26.5 TS EN 302 Sanayi seviye ölçüm
+GHz 729 radarı (LPR)
+, a4 TS EN 302 Sanayi seviye ölçüm
+J 57-64 GHz 7 radarı (LPR)
+. ne . TS EN 302 Sanayi seviye ölçüm
+K | 75-85 GHa 729 radarı (LPR)
+
+[SAYFA 31]
+2097
+
+Radar anten
+örüntüsü ve DAA
+tekniğinin
+gerçekleştirilmesi
+amacıyla yer
+temelli senletik
+diyafram radar
+sistemleri için TS
+EN 300440
+standardında
+tanımlanan özel
+26 dBm gereklilikler TSEN Yer temelli sentetik
+einp uygulanır. 300440 diyafram radar
+Bu bandlarda
+çalışan
+cihazlarda radar
+sistemlerini
+olumsuz
+etkilememek için
+gerekli
+önlemlerin
+alınması
+zorunludur.
+
+17.1-17.3 GHz
+
+F) Alarm sistemleri
+Güvenlik. sağlık ve acil yardım amaçlı kullanılmak üzere tasarlanmış genel alarm sistemleri
+ile hareket yeteneği sınırlı insanlara tehlike durumunda sinyal göndererek yardım almalarını temin
+edecek telefon hattına bağlantılı lokal bir birim ve bunun aracılığıyla otomatik çevirme
+sağlayan sosyal alarm sistemleri, bu Cetvelde yer alan Tablo-6'da belirtilen teknik kriterlere
+uygun olmak kaydıyla kullanılır.
+
+Tablo 6: Alarm sistemleri teknik kriterleri
+
+‘ Spektrum
+Krisim ve
+Maksimum aa Kanal Referans
+Frekans Bandı m Girişimi UZ | Açıklamalar
+Cilas Gücü Önleme Aralığı Standart
+Gerekleri
+<%) görev Tüm frekans bandı bir kanal
+a | 868.6-868.7 MHz evimi olarak yüksek hızdaki veri
+, ? iletiminde de kullanılabilir.
+10 MW orp EN
+b 869,25-869,30 görev
+MEZ çevrimi TS EN 300220
+8 03 <0 4 y
+69.65-869,70 ; “ 25 kHz
+c MHZ 25 MW ere görev
+we çevrimi
+<a . so
+N 869.20-869.25 | are Sosyal alarm sistemlerinde
+MHz İon np çevrimi kullamlacaktır.
+| Aİ görev
+d | 869,3-869.4 MHz cove
+vri
+169.4750- <M. 1 12.3 Sosyal alarm (kigisel
+e “Agate görev a, kullanim) sistemlerinde
+169.4875 Milz es kHz eliz ,
+çevrimi | kullanılacaktır.
+169.5875 edi | |
+hones mW ory | görev 5 EN 30022
+Fl 199.6000 Maz | LOmWenn | enn | TS EN 300
+
+[SAYFA 32]
+2098
+
+G) Model araç uzaktan kumanda cihazları
+
+Model araçların uzaktan kontrolünde kullanılacak mode! araç uzaktan kumanda cihazları, bu
+Cetvelde yer alan Tabio-7*de belirtilen teknik kriterlere uygun olmak kaydıyla kullanılır.
+
+Table 7: Model araç uzaktan kumanda cihazları teknik kriterleri
+
+MHZ
+
+40.665 MHz,
+40.675 MHZ,
+40.685 MHZ,
+40.695 MHZ
+
+Spektrum
+Kana) NM Erişim ve Di |
+Frekans/Frekans | Cilaş Gücü Girişimi pana Referans Açıklama
+Bandı > Önleme ue °
+Gerekleri
+26.995 MHz,
+27.045 MHz,
+a 27.095 MHz,
+27.145 MHz,
+27,195 MHz
+TSEN Sadece model uçak ve
+34,995-35.225 100 MW ers 10 kHz 300220 helikopterler için izin
+
+verilebilir.
+
+H
+
+Endüktif sistemler
+
+Bina içinde veya dışında ve dar bir alanda kullanılan, araç güvenlik sistemi, hayvan
+
+tanımlama, hırsız alarm sistemleri, çevre atık kontrolü, kablo dedektörü,
+
+kimi
+
+ik tanmlama,
+
+kablosuz ses linkleri, giriş kontrolü, süreç kontrolü, sensörler, güvenlik sistemleri, otomatik
+madde tanımlama, kablosuz kontrol sistemleri, otomatik
+uygulamaları kapsayan endüktif sistemler, bu Cetvelde yer alan Tablo-8’de ve bu Tüzükte yer
+alan diğer tablolarda belirtilen teknik kriterlere uygun olmak kaydıyla kullanılır.
+
+oto
+
+yol
+
+Tablo 8: Endüktif sistemler teknik kriterleri
+
+ücret toplama ve benzeri
+
+d 140-148.5 kHz
+
+dBuA/m
+
+e 6765-6795 kHz
+
+10 metrede 42
+dBaA‘m
+
+Spektru Referans
+. m Erişim - Standart
+da ; 1
+Frekans Bandı Mae ve Aralığı Açıklama
+Girişimi
+Önleme
+Çerçeve (Loop) anten
+kullanılması durumunda 0.
+05 m? ve 0.16 m? arasındaki
+YY >
+10 moire 72 alanda alan şiddeti 10xlog
+9-90 kHz pa YS EN | (alan/0.16 m” ) olacak
+a S z (30 kHz ‘de 3 Not | 300330 | şekilde azalır. Anten alanı
+dB/octave) 0.05 m den küçük ise, alan
+i şiddeti 10 dB azalır,
+Çıkış gücü seviyesi 30
+kHz'te 3dByoktay düşer.
+10 metrede 42
+b 90 -119 kHz dBuA/m
+10 metrede 66
+. dBuA/ın (119 Çıkış gücü seviyesi 119
+s 119-135kHz kHz’ de 3 kHz'te 3dB/oktav düşer,
+dB/octave)
+5 KI, 10 metrede 42 Not l
+ç 135-140 KHz dBuA/m TSEN
+10 metrede 37.7 300330
+
+[SAYFA 33]
+2099
+
+f | 7400-8800 kHz | 10 metrede 9
+
+dBuA/m
+TSEN
+13.533-13.567 | 10 metrede 42 300330
+g MHz dBLA/m TSEN
+302291
+
+Sadece RFID-radyo
+frekanslı tanımlama
+
+13.553-13.567 10 metrede 60 sistemleri ve elektronik
+
+7 MHz dBpAfm takip sistemlerinde
+kullanılacaktır.
+h 26.957-27.283 10 metrede 42
+MHz dBuA/m
+Vİ 10.2411 MHz 10 ‘Pann 9
+, = 94 10 metrede 13.5
+i 3155-3400 kHz dBuA/m
+İzin verilen maksimum alan
+şiddeti, 10 kHz band
+genişliği için belirtilmiştir.
+Eğer band genişliği 10
+kHz'den fazla ise,
+4 148.5 KHz-5 10 metrede -15 maksimum izin verilen
+J MHz dBuA/m toplam alan şiddeti (10
+metrede) -5 dBuA/m
+olacaktır ancak, 10 kHz
+band genişliğindeki (10
+metrede) -15 dByA/m alan
+şiddeti korunacaktır.
+İzin verilen maksimum alan
+TSEN | şiddeti, 10 kHz band
+300330 | genişliği için belirtilmiştir... |
+N Eğer band genişliği 10
+Not kHz’den fazla ise,
+ty 5-30 MHz 10 metrede -20 maksimum izin verilen
+Je PON NEE dBuA‘m toplam alan siddeti (10
+
+metrede) -5 dBuA/m
+olacaktır ancak, 10 kHz
+metrede) -20 dBpA/m alan
+şiddeti korunacaktır.
+Sadece RFID-radyo
+frekanslı tanımlama
+sistemleri tarafından
+kullanılacaktır.
+10 metrede -8 İzin verilen maksimum alan
+3 400-600 kHz dBuA!m siddeti, 10 KHz band
+
+. genişliği için belirtilmiştir.
+Eğer band genişliği 10
+kHz'den fazla ise, maksimum!
+izin verilen topları alan
+şiddeti (10 metrede) -3
+dBuA/m
+olacak ancak, 10 kHz band
+genişliğindeki (10 metrede)
+. -8 dBuA/m alan şiddeti
+korunacaktır.
+Bu sistemler minimum 30
+Kriz band genişliğinde
+çalışuırılmalıdır.
+
+Not I: Harici anten olarak sadece çerçeve (Loop) bobin anten kullanılabilir.
+
+[SAYFA 34]
+2100
+
+I) Kablosuz mikrofon sistemleri ve işitmeye yardımcı cihazlar
+Kablosuz mikrofonlar. vücutta takılı olarak veya elde tutularak yakın ve özel kullanıma göre tasarlanmış
+vericiler ile alıcılardan oluşan sistemler ve işitmeye yardımcı cihazlar, bu Cetvelde yer alan Tablo-9'da
+belirtilen teknik kriterlere uygun olmak kaydıyla kullanılır.
+
+Table 9: Kablosuz mikrofon sistemleri ve işitmeye yardımcı cihazlar teknik
+
+kriterleri
+Spektrum |
+. Erisim ve rane
+Frekans Bandı Maksimum Girişimi Kanal Referans Açıklama
+Çıkış Gücü a Aralığı | Standart
+Önleme
+Gerekleri
+, 173.965- Nez TSEN
+2) 174,01SMHz 2mWerp 300422 Not |
+TS EN
+, , 300422 oe
+b 863-865 MHZ lI0mW,., TSEN Not I ve2
+301357
+e 169,490-169.4750
+‘ ME Not
+Müz 10 mWesp. En fazla | TSEN oul
+2 169.4875~ 30 KH, | 300422
+| Ni 169.5875 MHZ eee
+Not]: — lsitmeye yardımcı cihazlarda kullanılacaktır.
+
+Not2: Oo Kablosuz mikrofonlarda kullanılabilir.
+
+J) Alçak güçlü aktif tbbi gereçler
+
+Etkin olarak canlıların vücuduna yerleştirilen tıbbi cihazlardan oluşan alçak güçlü cihazlar, bu
+Cetvelde yer alan Tablo-10'da belirtilen teknik kriterlere uygun olmak kaydıyla kullanılır.
+
+Tablo 10: Alçak güçlü aktif tıbbi gereçler teknik kriterleri
+
+; Spektrum |
+Maksimum Erişim ve .
+cane Be Cis Gücü Selen Kanal Referans .
+Frekans Bandı veya Manyetik Girsin Aralığı | Standart Açıklama
+Alan Şiddeti Gerekleri
+Çok düşük güçlü, vücuda
+yerlestirilebilir aktif tibbi
+a 9.315 kHz 10 metrede 30 <e10 görev TS EN gereçlerin telemetri amaçlı
+. ii ° dBhA/m çevsimi 302195 kullanılması halinde
+endüküf çevrim (loop)
+tekniği kullanılır,
+< 02 M ii Hayvanların vücuduna
+. <9, ey 5
+b | 315-600 kei | Sözeri | veled soca | takılabilen thbi cihazlarda
+he şe one kullanılır.
+
+, Kan basıncı ölçme amaçlı
+
+az <%10 görev TSEN olarak çok düşük güçlü,
+
+e 30.37 5 ie Her; Ber ! PUK geri,
+
+© 30-37.5 kHz imWerp çevrimi j 302510 vücuda yerlestirilebilir
+İ ubbi gereclerde kullanılır.
+
+[SAYFA 35]
+2101
+
+o
+2
+
+¢ q
+
+5-20 MHz
+
+10 metrede -7
+dBuA/m
+
+<%10 görev
+çevrimi
+
+TSEN
+360330
+
+Cok düşük güçlü,
+hayvanların vücuduna
+takılabilen aktiftibbi
+gereçler sadece kapalı
+alanlarda kullanılacaktır.
+Maksimum alan şiddeti 10
+kHzband genişliği için
+belirtilmiştir.
+
+Çok düşük güçlü,
+hayvanların vücuduna
+
+takılabilen aktif ubbi
+
+gereçlerin iletim mask
+
+300 kHz band genişliğ
+3 dB,
+
+800 kHz band genişliğinde
+
+10 dB,
+
+2 MHz band genişliğinde
+
+20 dB olarak
+tanimlanmaktadir.
+
+24835-2500
+MHz
+
+10 dBm cir.p
+
+LBT+AFA ve
+<%10 görev
+çevrimi
+(Not 1)
+
+1 MHz
+
+Cok düşük güçlü, vücuda
+yerleştirilebilir aktif tibbi
+gereçler ve yardımcı
+gereçleri içindir.
+Bireysel vericiler bitişik
+kanalları birleştirerek band
+genişliğini 1 MHZz'den
+
+artırabilir.
+Yardımcı birimler sadece
+kapalı alanda kullanılır.
+
+Ekipmanlar uygulanabilir harmonize standartlarda tarif edilen veya eşdeğeri spcktrum erişim mekanizmalarına sahip
+
+Not |:
+olmalidir.
+
+K) Kablosuz ses sistemleri
+Radyo, kaset. CD çalar, mobil telefon, radyo-TV ve benzeri verici ve alıcı cihazlardan oluşan
+kablosuz ses sistemleri, bu Cetvelde yer alan Tablo-11 “de belirtilen teknik kriterlere uygun olmak
+
+kaydıyla kullanılır.
+
+Tablo 11: Kablosuz ses sistemleri teknik kriterleri
+
+Spektrum
+. Erişim ve -
+Ni Maksimum mi Kanal Referans
+Frekans Bandı Cilas Gücü Girişimi Aralığı Standart Açıklama |
+Önleme ğ
+Gerekieri ,
+43-863
+al Me TS EN 301357
+10 mW ery
+' Dar band analog ses
+48-865
+b aie 50 kHz | TS EN 300220 | sistemleri sadece bu bandda
+2 kullanılacaktır.
+785-1800
+e ie 20 mW çirp
+TR 3g İİ 78 EN 301357
+ç O 50nW,, ii
+MHz p Kiz
+
+UL) Radyo frekanslı tanumlama sistemleri ;
+Veri iletimi, dosyalama, depolama, yer belirleme, kişi tanımlama, giriş kontrolü, kablosuz kontrol,
+depo arşivleme, yakınlık sensörü, el cihazlarına data transferi. kablosuz etiket, alarm, atık
+yönetimi ve benzeri işlemleri yapan radyo frekanslı tanımlama sistemleri, bu Cetvelde ver alan
+Tablo-12'de belirtilen teknik kriterlere uygun olmak kaydıyla kullanılır.
+
+[SAYFA 36]
+2102
+
+Tablo 12: Radyo frekanslı tanımlama sistemleri teknik kriterleri
+
+Spektrum |
+at | Erişim ve anı
+Frekans Bandı Maksimum , Girişimi Kanal Referans Açıklama
+Çılaş Gücü Önleme Aralığı Standart
+Gerekleri
+i . 500 MW airy çıkış gücünün
+üzerindeki güçlerdeki
+cihazlar sadece bina
+içlerinde kullanılacaktır ve
+bu durumda görev çevrimi
+herhangi bir 200ms için
+<%15 olmalıdır (30 ms açık,
+170ins kapalı).
+2446-2454 500 mW cing . TS EN Çıkış gücünün 500 mW sip
+a MEZ veya Not3 - 300440 ‘nin üzerinde olması
+° 4 Wep Ni durumunda bina dışından |
+itibaren 10 uncu metrede
+ölçülen. alan şiddeti; bina
+dışına kurulu ve 500 mW
+cinp çıkışgücündeki cihazın
+aynı mesafedeki eşdeğer
+alan şiddetini
+geçmeyecektir.
+1 865.0-865.6 ;
+bi MHz 100 MW erp
+$65.6-867.6 Ni
+b2 Ni 2W ee, Notl.2 ve | aon ayy TS EN
+MHz p 3 200 kHz 302208
+63 867.6-868.0 500 mW orp
+| MHz
+
+Not |; Kanal numaraları 1°den 15'e kadar olmak üzere, kanal merkez frekanslan 864.9 MHz * (0,2 MHz » kanal numarası)
+formülüyle bulunur.
+
+Not 2: Frekans atlama veya diğer spektrum! yayılım teknikleri kullanılmayacaklır.
+
+Not3: Crkis gücünün 500 mW çı, ‘in üzerinde olma ihtimali olan cihazlar, otomatik güç kontrol özelliğine sahip olmalıdır.
+
+M) Özel mobil telsiz 446 (PMR 446)
+Ses ve veri haberleşmesine açık, çok sayıda kullanıcının frekans bandını ortak kullanımına
+yönelik kısa mesafe erişimli telsiz haberleşmesinde kullanılan cihazlar, bu Cetvelde yer alan
+Tablo-13'te belirtilen teknik kriterlere uygun olmak kaydıyla kullanılır.
+
+Tablo 13: Özel mobil telsiz 446 teknik kriterleri
+
+Spektrum |
+. | Erişim ve , :
+Frekans Bandi Maksimum | Girişimi Kanal Referans Standart Açıklama
+Cilus Gücü | Öneme Aralığı
+Gerekleri | ||| İN
+a 446,000- 500 mW .,, 12.5 kHz
+" 446.100
+MHz
+
+446.100- 625125
+
+4 446.200 500 MW gep İZ Sadece sayısal kullanım.
+|. MHz ği
+
+[SAYFA 37]
+2103
+
+N) Geliştirilmiş sayısal kablosuz telekomünikasyon sistemleri (DECT)
+Geliştirilmiş sayısai kablosuz telekomünikasyon sistemleri, bu Cetvelde yer alan Tablol4'te
+belirtilen teknik kriterlere uygun olmak kaydıyla kullanılır.
+
+Tablo 14: Geliştirilmiş sayısal kablosuz telekomünikasyon sistemleri teknik
+
+kriterleri
+[ Spektrum
+vet Erişim ve men
+Frekans Bandı Maksimum Girişimi Kanal Referans Standart Açıklama
+: Çıkış Gücü Önleme Aralığı
+
+Gerekleri
+
+1880-1900 - Ye 1728 Gm -
+
+a MHZ 250 mW erp. KHL. TSEN 301406
+
+O) Genel amaçlı ultra genişband cihazlar
+Açık alanlarda sabit olarak bulunmayan ve model uçaklarda, uçaklarda veya diğer hava
+araçlarında kullanılmayan ultra genişband cihazlar; bu Cetvelde yer alan Tablo-15'te belirtilen
+teknik kriterlere uygun olmak kaydıyla kullanılır.
+
+Tablo 15: Genel amaçlı ultra genişband cihazların teknik kriterleri
+
+Spektrum
+Erişim ve
+Girişimi
+Önleme
+Gerekleri
+
+Maksimum Çıkış
+Frekans Bandı Gücü ve Güç
+Yoğunluğu
+Limiti
+| -50 dBm
+| Maksimum
+a 1.6 GHz ve altı ortalama e.i.r.p.
+yoğunluğu -90
+dBm/MHz'dir,
+-15 dBm
+Maksimum
+b 1.6- 2,7 GHz orlalama é.i.rp.
+yoğunluğu -85
+dBm/MHz dir,
+-36 dBm j
+2.7-34 GHz Maksimum
+c ortalama e.İ.r.p.
+yoğunluğu -70
+dBım/MHZz'dir.
+-40 dBm
+4 , Maksimum
+ç 3.4 - 3.8 GHz ortalama e.İ.r.p.
+yoğunluğu -80
+dBm/MHz'dir.
+3.8 - 4,2 GHz -30 Bin
+Maksimum
+
+Kanal Referans
+
+Aralığı Standart Açıklama
+
+4.2-4.8 GHz
+
+rp
+
+Not 1, 2,3
+
+f 4.8 - 6 GHz
+
+j - eer Maksimum
+6-85 GHe ortalama e.İ.r.p. Nor3
+yoğunluğu -413
+dBm/MHz dir,
+-25 dBm
+Maksimum
+ortalama &.i.r.p. Not2
+yoğunluğu -65 |
+dBm/MHz' dir.
+
+9
+
+8.5 ~ 10.6 GHz
+
+113
+
+tad
+
+[SAYFA 38]
+2104
+
+-45 d8m |
+Maksimum
+h 10.6 GHz üstü ortalama e.i.r.p. |
+yoğunluğu -85
+dBmMHz'dir. !
+Not 1: LDC özelliğine sahip cihazlar için 3.1-4.8 GHz #rekans bandında maksimum ortalama e.i.r.p. yoğunluğu -41.3
+dBm/MHz ve maksimum tepe c.i.r.p. (50 MHzband genişliğinde ölçülecek) 0 dBm'dir.
+Not 2: DDA özelliğine sahip cihazlar için 3.1-4.8 GHz ve 8,5-9.0 GHz frekans bandında maksimum ortalama e.ir.p.
+yoğunluğu -41.3 dBm/MHz ve maksimum tepe e.i.r.p. (50 MHz band genişliğinde ölçülecek) 0 dBm'dir, 3.1-4.8
+GHz bandında çalışan DDA özelliğine sahip cihazların bu band içerisinde çalışma frekansı seçme yeleneğine sahip olması
+gerekmektedir.
+Not 3: Demiryolu ve karayolu araçlarına monte edilecek verici güç kontrol özelliği taşımayan cihazlar için, maksimum ortalama
+c.i.r.p. yoğunluğu -53.3 dBmMHz'dir.
+
+P) Yer ve duvar tetkiklerinde kullanılan ultra geniş band radar sistemleri
+Yer ve duvar tetkiklerinde kullanılan ultra geniş band radar sistemleri; bu Cetvelde yer
+alan Tablo-16'da belirtilen teknik kriterlere uygun olmak kaydıyla kullanılır.
+
+Tablo 16: Yer ve duvar tetkiklerinde kullanılan ultra geniş band radar
+sistemlerinin teknik kriterleri
+
+Spektrum
+Frekans Bandı Paani Çıkış Erişim ve Kanal Referans Ni
+ücü ve/veya Güç Girişimi ~ N Açıklama
+ni eT tes 5 Aralığı Standart
+Yoğunluğu Limiti Önleme
+Gerekleri
+-44,5dBm/120kHz T
+(er.p.)
+Maksimum
+a | 230 MHz ve alti ortalama e.i.r.p.
+yoğunluğu -65
+dBmMHZz'dir.
+-37,5dBm/120kHz
+{orp )
+Ni N Maksimum
+bj 230-1000 MHz | öealamneli rp. . TSEN
+yoğuriluğu -60 302066
+dBm/MHz’dir.
+Maksimum
+e 1- 1.6 GHz ortalama eLnp.
+yoğunluğu -65
+-30dBımMEZz N JBm/MHZ'dir,
+, ol N
+e.i.r.p.) Maksimum
+nae ortalama e.i.r.p.
+$ 16-34 GHz yoğunluğu -5 13
+dBm/MHz'dir.
+d Maksimum
+3.4-5 GHz ortalama e.i.r.p.
+yoğunluğu -41.
+dBmwMHz'dir.
+| Maksimum
+1 i TSEN ortalama e.i.r.p.
+s 5-6 GHz “ je | 302066 | yoğunluğu -51.3
+| (g.i.npa dBm/MH2z' dir.
+| Maksirmum
+f 6 Giz üstü ortalama chnp. |
+yoğunluğu -63 |
+| dBnyMHz‘dir, |
+
+Not 1: 1164-1215 MHz ve 1559-1610 MHz bandlarında maksimum ortalama e.i.r.p. yoğunluğu -75 dBm/MHZz'dir.
+
+[SAYFA 39]
+©) Yapı malzeme analizi için kullanılan ultra geniş band cihazlar
+Yapı malzeme analiz sistemlerinde yer alan ultra geniş band cihazlar; bu Cetvelde yer alan
+
+210
+
+CA
+
+Tablo-17'de belirtilen teknik kriterlere uygun olmak kaydıyla kullanılır.
+
+Tablo 17: Yapı malzeme analizi için kullanılan ultra geniş band cihazların
+
+teknik kriterleri
+
+Frekans Bandı
+
+Maksimum Çılaş
+Gücü ve Güç
+Yoğunluğu
+Limiti
+
+Spektrum
+Erişim ve
+Girişimi
+Önleme
+Gerekleri
+
+Kanal
+Aralığı
+
+Referans
+Standart
+
+Açıklama
+
+a 1.73 GHz ve alti
+
+-45 dBm
+Maksimum
+ortalama e.i.r.p,
+yoğunluğu -B5
+dBuvMHz'dir
+
+Not 1
+
+-25 dBm
+Maksimum
+ortalama e.i.r.p.
+yoğunluğu -65
+dBm/MHz' dir.
+
+-10 dBm
+Maksimum
+ortalama e.i.r.p.
+yoğunluğu -50
+dBmMHx'dir.
+
+ç 2.5-2.69 GHz
+
+-25 dBm
+Maksimum
+ortalama e.i.r.p,
+yoğunluğu -65
+dBm/MHz’ dir.
+
+Not 2
+
+d 2.69 -
+
+to
+~t
+
+GHz
+
+-15 dBm
+Maksimum
+ortalama e.İ.r.p.
+yoğunluğu -55
+dBm/MHz' dir,
+
+Not 3
+
+e 2.7-3.4 GHz
+
+42 dBm
+Maksimum
+ortalama &.i.r.p,
+yoğunluğu -$2
+dBmMHz'dir,
+
+Not2
+
+f 3.4 -4.$ GHz
+
+-10 dBm
+Maksimum
+ortalama e.i.r.p.
+yoğunluğu -50
+dBnv/MHz' dir.
+
+4.8 —5 GHz
+
+19
+
+-15 dBm
+Maksimum
+ortalama c.i.r.p.
+yoğunluğu -55
+dBnvMHz ‘dir.
+
+Not 3
+
+5-8 GHz
+
+tex
+
+-16d8m
+Maksimum
+ortalama c.i.r.p.
+
+-50
+
+h 8—8.5 GHz
+
+J8m/MHz'dir.
+
+[SAYFA 40]
+2106
+
+-45 dBm
+Maksimum
+1 8.5 GHz üstü ortalama e.i.r.p.
+yoğunluğu -85
+
+dBmwMHz'dir.
+
+Not 1: 1.215-1.73 GHz bandında çalışan, TS EN 302435 standardında tanımlanan LBT özelliğine sahip cihazlar için
+
+maksimum ortalama e.i.r.p. voguningu -70 dBm/MHz dir.
+
+Not 2: 2.5-2.69 GHz ve 2.7-3.4 GHz bandlarında çalışan, TS EN 302435 standardında tanımlanan LBT özelliğine sahir
+
+cihazlar için maksimum ortaiama e.İ.r.p. yoğunluğu -50 dBm/MHz’ dir.
+
+Not 3: 2.69-2.7GHz ve 4.8-5 GHz bandında çalışan radyoastronomi hizmetlerini korumak amacıyla. bu bandda çalışan cihazlarda
+
+toplam yayılan güç yoğunluğu -65 dBm/MHz’i geçmeyecektir.
+
+R) Sanayi, Bilimsel ve Tıbbi (SBT) cihazlar
+
+Sanayi, Bilimsel ve Tıbbi cihazlar; bu Cetvelde yer alan Tablo-18’de belirtilen teknik kriterlere
+uygun olmak kaydıyla kullanılır. Bu maddede anılan tüm cihazlar; TS EN 55011 standardı ve ilgili
+diğer düzenlemelerde yer alan teknik kriterlere uygun olmalıdır. Teknik özelliklerin ölçülmesinde TS
+
+EN 55011'de belirlenen ölçme metotları kullanılır.
+
+Tablo 18: Sanayi, Bilimsel ve Tıbbi cihazlar için teknik kriterler
+
+Sıra No Frekans Bandı Merkez Frekansı
+1 6765 - 6795 kHz 6780 kHz
+2 13553 - 13567 kHz 13560 kHz
+3 26957 - 27283 kHz 27120 kHz
+4 40.66 - 40.70 MHz 40.68 MHz
+5 433.05 - 434.79 MHz 433.92 MHz
+6 2400 - 2500 MHz 2450 MHz
+7 5725 - 58675 MHz 5800 MHz
+8 24 - 24.25 GHz 24.125 GHz
+9 61 - 61.50 GHz i 61.25 GHz
+10 122 - 123 GHz i 122.5 GHz
+11 244 - 246 GHz | 245 GHz
+
+[SAYFA 41]
+2107
+
+İKİNCİ CETVEL
+(Madde 7)
+
+ÖZEL TELSİZ SİSTEMLERİ
+
+Bu Tüzükte belirülen telsiz sistemleri veya cihazları Kurum tarafından izin verilmiş işletmeci veya
+kullanıcıların telsiz sistemi üzerinde herhangi bir elektromanyetik enterferansa neden olmadan
+kullanılır. Özel telsiz sistem kullanıcıları, telsiz cihaz ve sistemlerini bu Tüzüğe ekli Cetvellerde
+belirtilen teknik kriterlere uygun olarak kullanmaları kaydıyla, yine bu tüzüğe ekli tanımlı frekans
+bandlarındaki kullanımdan kaynaklanan elektromanyetik enterferansı kabul etmek zorundadırlar.
+Ancak, tanımlı bandların dışındaki kullanımdan veya kullanıcılardan kaynaklanan elektromanyetik
+enterferans olması halinde, bu girişimin kaldırılması için Kurum gerekli çalışmaları yapar.
+
+A) DAR BÖLGE TELSİZ ÇAĞRI (PAGING) SİSTEMLERİ
+
+Telsiz cihaz ve sistemlerinin tanımı
+
+MADDE 1 —Dar bölge telsiz çağrı (paging) sistemi, herhangi bir kuruluşun faaliyet
+gösterdiği hastane, otel, fabrika, depo gibi bina içlerinde veya bir kampüs gibi taşınmaz
+sınırları içerisindeki münhasıran kendi faaliyetine yönelik olarak kurulacak sabit verici veya
+sabit verici-alıcı ile portatif alıcı, portatif verici veya portatif verici - alıcı cihazlarından
+meydana gelen bir telsiz sistemidir.
+
+Kullanım esasları
+
+MADDE 2 -Dar bölee telsiz çağrı sistemlerinin, genellikle iş yeri, hastane, fabrika,
+depo, antrepo ve büyük alışveriş merkezleri gibi kapalı lokal alanlarda veya kampüs
+veya açık alanlarda kullanım amacına göre belirlenen frekans bandlarında ve çıkış
+gücünde kullanılması gerekmektedir. Çağrı sistemi uygulamaları için sadece bu Cetvelin A)
+maddesinde yer alan Tablo-1*de belirtilen kanal frekanslarının kullanılması gerekmektedir.
+Telsiz cihaz ve sistemlerinin teknik kriterleri
+
+MADDE 3-Dar bölge telsiz çağrı sistemlerinde kullanılacak frekans kanallar ve diğer
+teknik kriterler bu Cetvelin A) maddesinde yer alan Tablo-lde yer almaktadır.
+
+Table—1: Dar Bölge Telsiz Çağrı Sistemleri Teknik Kriterleri
+
+1 ahsis Edilen Kanal | Frekanslar B and e Maksimum Al .
+
+Frekans No (MHz) Genişliği Çıkış Açıklamalar
+Bandı (MHZ) (kHz) a
+Gücü
+
+1 27.750 25 4 Tek yön çağrı
+
+2 27.775 25 4 Tek yön çağrı
+
+3 27.800 25 4 Tek yön çağrı
+
+27.750 4 27.825 25 4 Tek vön çağrı
+
+7475 5 27.850 25 4 Tek yön çağrı
+
+6 27.875 25 4 Tek vön çağrı
+
+7 27.900 25 4 Tek vön çağrı
+
+8 27.925 25 4 Tek yon çağrı
+
+| 9 27.950 25 4 Tek yön çağrı
+
+10 27.975 25 4 Tek yon çağri
+
+11 167.0000 | 12.5 veva 25 4 Tek vön çağrı
+
+167.000- 12 167.0125 12.5 4 Tek yön çağrı
+
+167.100 13 167.0500 | 12.5 veya 25 4 Tek yön çağrı
+
+i 14 167.0625 12.5 N 4 i Tek vön çağrı
+
+[SAYFA 42]
+2108
+
+. ece cif
+15 | 1671000 | 125 veya 25 0.0 Sadece cif |
+1 yönlü çağrılar
+içindir
+ae 1000— 16 468.1000 12.5 4 Tek vön çağrı |
+468.1125 Sadece ci
+17 | 4681125 125 4 Sadece çift,
+vönlü çağrılar, . |
+
+B) HALK BANDI (CB) TELSİZ CİHAZLARI
+
+Telsiz cihaz ve sisteminin tanımı
+MADDE 1 —Halk Bandı (CB) Telsiz Cihazı; 26.960-27.410 MHz frekans bandı içinde bu
+Cetvelin B) maddesinde yer alan Tablo-Ide belirtilen kanal irekansl arına ayarlı olarak
+sınırlı güçlerde kullanılan sabit, mobil ve el telsizlerinden meydana gelen telsiz cihazıdır.
+Kullanım esasları
+MADDE 2 — (1) Halk Bandı (CB) telsiz sisteminde ver alan cihazlar; maksimum 4 Watt
+çıkış gücünde, açısal modülasyon (frekans veya faz modülasyonu FM/PM) veya genlik
+modülasyonu (çift van bant AM) veya bir modülasy von seçme anahtarı ile ayırmak
+suretiyle her iki modülasyon türü birlikte olmak üzere kullanılabilir.
+(2) Halk Bandı telsiz kullanıcılarının, aşağıda belirtilen sınırlamalara uy ması gerekmektedir:
+a) Müzik, ıslık ve benzeri sesler çıkaran diğer aletlerin sesleri yaymlanamaz.
+b) Açık lisan yerine kodlu haberleşme yapılamaz.
+
+c) Televizyon ve radyo programları canlı olarak veya banttan yayınlanamaz.
+ç) Bir başka halk bandı telsiz kullanıcısının haberleşmesi engellenemez.
+d) Cihazın teknik özelliklerinde hiçbir şekilde değişiklik yapılamaz.
+e) Cihazlara dışarıdan güç vükseltici ilave edilemez.
+f) Dokuzuncu kanal acil yardım çağrı ve onbirinci kanal buluşma kanalı olup, başka
+amaçlar için kullanılamaz.
+Telsiz cihaz ve sistemlerinin teknik kriterleri
+MADDE 3 —(1) Her kanal band genişliği 10 kHz dir.
+(2) Sabit, araç ve el cihazların çıkış gücü maksimum 4 Watt tır.
+(3) Kanal merkez frekansları bu Cetvelin B) maddesinde yer alan Tablo-Ide
+belirtilmektedir.
+
+Table—i: Halk Bandı Telsizlerinin Kanal Frekansları
+
+Tahsis Edilen Frekans Bandı Kanal No! Frekans Kanal No| Frekans
+1 26.965 21 27.215
+2 26.975 22 27.225
+3 26,985 23 27,235
+4 27.005 24 27.245
+5 27.015 25 27.255
+6 27.025 26 27.265
+7 27.035 27 27.2
+8 27.055 28 27.2
+5 9 27.065 2 27.25
+26.960-27.410 10 27.075 30 27.3
+11 27.085 3 27.3
+12 27.105 32 27.3
+13 27.115 33 27.33
+4 27.125 34 27.3
+| 15 27,135 35 27,
+i 27.155 36 27.
+17 | 27.165 37 27.375
+18 27.175 38 27.385
+19 27.185 39 27.395
+20 27.205 40 27,405
+
+[SAYFA 43]
+2109
+
+C) AMATÖR TELSİZ İSTASYONLARI
+
+Telsiz cihaz ve sisteminin tanımı
+
+MADDE 1 —Hiçbir maddi, kişisel veya siyasi çıkar gözetmeden, sadece kendi istek ve
+çabası ile telsiz iletişim teknikleri alanında kendini yetistirmek amacıyla, amatör
+telsizcilik belgesine sahip gerçek kişilerin bu Tüzükte belirtilen frekans ve güç
+smırlarında kullandığı sabit, araç ve el telsiz cihazlarının her biri veya birkaçından oluşan
+amatör telsiz istasyonudur.
+
+Kullanım kısıtlamaları
+
+MADDE 2 — (1) Yabancı bir ülkeden ülkemize gelen yabancı amatör telsizcileri dahil
+olmak üzere, Türkiyede veya Avrupa Birliği üyesi ülkelerde ilgili yetkili kurumdan amatör
+telsizcilik sınavı kazanılarak alınan amatör telsizcilik belgesinin onaylanması için belgenin
+yeminli tercüman tarafından Türkçe'ye çevrilmiş noter onaylı nüshası ve siteden yayınlanan
+form ile Kurum'a bildirimde bulunulur. Bildirim formu ve bildirim formunda belirtilen bilgi
+ve belgelerin eksiksiz ve doğru olduğu 10 (on) iş günü içerisinde Kurum tarafindan kontrol.
+edilir. Bildirimindeki, eksikliklerin giderilmesi için Kurum tarafından en fazla on iş güne
+kadar süre verilir. Bu sürenin sonuna kadar eksikliğin giderilmemesi halinde bildirim
+gerçekleştirilmemiş sayılır. Bildirimin Kurum kayıtlarına girmesinden itibaren on iş günü
+içinde Kurum, amatör telsizcilik belgesinin onaylandığını gösteren bir belgeyi başvuru
+sahibine gönderir.
+
+Amatör Telsizcilik Belgesine sahip kişiler tarafından kullanılacak el, araç ve sabit
+merkez telsiz cihazları bu Cetvelin C) maddesinde yer alan Tablo-Ide belirtilen frekans,
+band genişliği, çıkış güç limit değerleri ve diğer şartlarda olmak kaydıyla, frekans
+tahsisine, telsiz ruhsaına gerek olmaksızın ve Kurumdan herhangi bir izin
+alınmaksızın kullanılır.
+
+(2) Amatör telsizclik belgesine sahip gerçek kişiler ile sorumlu operatörün
+mesuliyetinde olmak kaydıyla amatör telsiz dernekleri, eğitim ve öğretim kurumları, acil
+durum ve afet haberleşmesinde görev alan kuruluşlar, izcilik kuruluşları ve araştırma
+kurumları amatör telsiz Istasyonu Kurabilirler.
+
+(3) Amatör telsizcilik belgesine sahip gerçek kişiler, doğal afetlerde, beklenmedik
+olaylarda ve bunların tatbikatlarında can ve mal emniyeti ve milli güvenlik ile ilgili olarak
+mahalli, bölgesel veya yurt çapında acil durum ve afet haberleşmesini koordine eden ilgili
+kuruluşlara yardım faaliyetlerinde bulunabilirler.
+
+(4) Kurumdan, telsiz cıhaz ve sistemi kurma ve kullanma izni almış kamu kurum ve
+kuruluşlarının izni olmak kaydıyla acil durum ve afet tatbikatları ile acil durum ve afet
+esnasında amatör telsizciler bu kurumlara tahsisli frekansları kullanabilirler. Bu amaçla
+kamu kurum ve kuruluşlarının izni olmak kaydıyla amatör telsiz sistem ve
+cihazlarında gerekli değişiklik ve eklentileri önceden yapabilir veya yaptırabilirler.
+
+(5) Amatör telsizcilik belgesi sahibi gerçek kişiler, ülkede birden fazla istasyon
+kurabilirler.
+
+(6) Amatör telsizcilerin kullanacakları anten çeşitleri; cihazın gücüne, frekans
+bandına ve kullanılacak mahallin olanaklarına göre amatör telsizciler tarafından
+belirlenir,
+
+(7) Amatör telsizciler, antenlerin monte edileceği yüksek kule veya yapılarda
+ışıklandırma ve benzeri tedbirleri alırlar.
+
+(8) Amatör telsizciler, trafiğe açık hava alanlarının civarında kurulacak anten
+tesislerinden kaynaklanan elektromanyetik enterferansı giderici her türlü önlemi alırlar.
+
+(9) Amatör telsiz istasyonundaki vericilerin ayarları ve ölçümleri sırasında suni yük
+(dummy load) kullanılır.
+
+(0) Yurt dışından gelen yabancı amarör telsizcilerin kullandıkları telsiz cihaz ve
+sistemleri bu Tüzük kurallarına uymak kaydıyla telsiz cihaz ve sistemi kurma izni ve
+ruhsattan muaftır.
+
+(11) A sınıfı amatör telsizcilik belgesi sahipleri: tüm amatör telsiz istasyonlarında bu sınıfa
+izin verilen ve bu Cetvelin C) maddesinde yer alan Tablo-1’de belirtilen frekansları vine
+aynı tabloda belirtilen teknik kriterlere uymak kaydıyla kullanırlar.
+
+(12) B ve C simfi amatör telsizcilik belgesi sahipleri; amatör telsiz dernekleri, eğitim ve
+öğretim kurumları,. acil durum ve afet haberleşmesinde görev alan kuruluşlar, izcilik
+kuruluşları ve araştırma kurumlarında kumlu istasyonlarda veya bir A sınıfı amatör
+telsizciye ait istasyonda, istasyonun sorumlu operatörü gözetiminde ve sorumluluğunda,
+bu Cetvelin C) maddesinde yer alan Tablo-lde belirilen bütün amatör frekans
+bandlarını. ve emisyon tiplerini kullanabilirler. İstasyondan sorumlu amatör telsizcinin
+gözetimi dışında veya kendi adlarına kayıtlı istasyonlarda ise ancak belge sınıflarının
+müsaade ettiği ırekanslarda faaliyetlerde bulunabilirler. ii
+(13) A sınıfı belge sahibi amatör telsizcilere ait istasyonlarda, amatör telsiz dernekleri.
+
+[SAYFA 44]
+2110
+
+eğitim ve öğretim kurumları, acil durum ve afet haberleşmesinde görev alan
+kuruluşlar, izcilik kuruluşları ve araştırma kurumlarında bulunan istasyonlarda, bir
+sorumlu operatörün hazır bulunması halinde; belge sahibi olmayan üçüncü şahısların,
+eğitim ve özendirilmesi amacıyla, amatör telsiz haberleşmesine katılmalarına izin verilir.
+(14) Amatör telsizciler, amatör telsiz demekleri tarafından kurulan tekrarlayıcı (role)
+sistemleri aracılığı ile amatör faaliyetlerde bulunabilirler. Amatör Telsizciler, deneysel
+veya (o inlemet-ielsiz arayüzü kullanan diğer amatör telsizcilik faaliyetlerinde de
+bulunabilir; bu durumlarda Kurum tarafından yapılan frekans planlamasına uyulur.
+
+(15) Amatör telsizciler tarafından:
+
+a) Amatör telsiz istasyonunun bir bedel, herhangi bir maddi çıkar, doğrudan veya
+dolaylı yolla yapılan bir vaad karşılığı kullanılması,
+
+b) Amatör telsizcilere ayrılan frekans bandlarmda ticari amaçlı radyo ve televizyon
+yayınlarının naklen veya banttan yayınlanması veya bu tür bir yayın yapılması,
+
+c) Acil durum ve afet haberleşmesi haricinde, Amatör Telsizcilik Belgesi sahibi olmayan
+kişilerle haberleşme yapılması veya yaptırılması,
+
+ç) Üçüncü şahısların mesajlarının ücret veya maddi çıkar karşılığında aktarılması,
+
+d) Herhangi bir amaçla amatör telsiz istasyonları aracılığıyla müzik yayını yapılması,
+
+e) Kanunlara aykırı olan herhangi bir amaçla veya faaliyetle ilgili haberleşmenin yapılması,
+f) Yurt içi veya uluslararası amatör haberleşme mesajlarının, (O) kodları, mors kodu,
+RITY, SSTV, FSTV. PSK, PACTOR, AMPR. APRS. TCP/IP ve benzerleri gibi
+uluslararası amatör haberlesmelerde ve uygulamalarda kullanılan yöntemler dışında;
+üçüncü şahısların yapılan haberleşmeyi çeşitli cihazlar ve yazılımlar kullanarak
+dinlemelerini engelleyecek şekilde, özel sistemler kullanarak, kriptolu olarak alınması
+veya gönderilmesi,
+
+¢) Haberleşmelerde toplumun genel ahlak anlayışına ters düşen söz ve ifadelerin
+kullanılması, işletme kurallarına uyulmaması,
+
+&) Yanlış veya yanıltıcı haberleşme yapılması, kendilerme ait çağrı işaretlerinin veya
+belgelerin bu Tüzükte belirtilen ayrıcalıklar dışında üçüncü şahıslara kullandırılması.
+
+h) Amatör telsizcilerin kendilerini tanıtmadan haberleşme yapmaları,
+
+UÜ Tesadüfen kaydedilen veya dinlenen amatör telsiz serisi o haricindeki
+haberleşmelerin çoğaltılması, üçüncü şahıslara verilmesi, kullanılması veya gizliliğin
+ihlaline neden olunması,
+
+yasaktır.
+
+(16) Amatör Telsizcilikle ilgili olarak ITU, CEPT ve IARU gibi uluslararası
+organizasyonların frekans planlama ve koordinasyonu ile cihazlara ilişkin teknik
+düzenlemeleri, Kurum tarafından uygun görülmesi halinde sitede yayınlanarak uygulanır.
+Telsiz cihaz ve sistemlerinin teknik Kriterleri
+
+MADDE 3 — (1) Amatör telsizcilerin amatör telsiz istasyonlarında kullanmalarına izin
+verilen frekans, band genişliği, çıkış güç limit değerleri ve diğer şartları bu Cetvelin C)
+maddesinde yer alan Tablo-1’de belirtilmektedir.
+
+(2) Bu Ek’e ait bu Cetvelin C) maddesinde yer alan Tablo-ideki frekans bandlarının
+karşılarında belirtilen açıklama rakamlarının ifade ettiği anlamlar bu Cetvelin C)
+maddesinde yer alan Tablo-2'de yer belirtilmektedir.
+
+(3) İzin verilen emisyon tüplerini gösteren sınırlamaların ifade ettiği anlamlar ve
+emisyon tiplerinde müsaade edilen maksimum band genişlikleri bu Cetvelin C)
+maddesinde yer alan Tablo-3'te yer belirtilmektedir.
+
+[SAYFA 45]
+2111
+
+Table-1: Amatör Radyo Band Planları
+
+Frekans Verici | Verici İzin İzin
+Band | Dalga Frekans Tahsis | Bandların Çıkış PEP Verilen Verilen
+(Miz) | Boyu Bandı Durumu) a İlişkin Gücü Gücü Belge Emisyon
+Açıklama * Sın Tipi
+Rakamları
+2200 135.7- AlA
+13 3 1W SW e ,
+0,136 m 137.8 kHz 8 iw Wop AveB Y ap
+1,8 _ 160m 1816 P i] SW 30 W AIA. BE
+1840 kHz
+1840- S$
+1880 kHz
+3,5 $0 m 3500- P 2 ALA
+3610 kHz 9 A1B
+3610- S WW AZA
+3800 kHz A3C
+FIA
+7 40m 7000- P 2,14 POR
+7200 kHz F2A
+10 30m 10100-- N 2.4, 5 100 W H3E
+10156 JA
+Kriz 2B
+14 20 m 14000- P 2,3 33C, SE.
+14250 3 RSE
+kHz P
+14250—
+14350 A
+kia 78 W
+18 \7 m i8068- Ss 1,3
+18168
+kHz
+21 15m 21000- P 23 400 W
+kHz P
+24 12m 24890— Ss 12,5
+24990 kHz
+30 10m 28000-- P 2,3, 6,10,
+29700 14
+kHz
+< N 50-57 “ $
+SU 6m MZ $ 1, 10,15
+144--]146 2m [44-146 P 2,3, 7, 8 73 W .
+8, 00 W Ree
+MEZ 10, 13,16 400 W A-B-C
+430.200 5
+430.700
+MHz
+S
+430-440 70cm 5 3.7, 8 10,16
+Ni
+
+[SAYFA 46]
+2112
+
+435.000—
+437.975
+MHZ
+
+4359,150-
+439,475
+MHz
+
+1240—
+1300 MHz
+
+5650-
+5670 MHz
+5820—
+5850 MHz
+
+10000
+
+3cm
+
+10450—
+10452
+MHz
+
+we
+
+24000
+
+24000—
+24050
+MHZ
+
+to
+
+47000
+
+6 mm
+
+47000—
+47200
+MHz
+
+75000
+
+d mm
+
+75500—
+78000
+MHz
+
+acl
+
+iva)
+
+142000
+
+2 mm
+
+134000-
+136000
+MHz
+136000-
+141000
+MHz
+
+w
+
+A-B
+
+RC
+J3E
+J3F
+R3E
+
+[SAYFA 47]
+2113
+
+Tablo~2: Frekans Bandlarma İlişkin Açıklama Rakamları
+
+| Karakter
+
+Açıklama
+
+(1) Bir . Türkiye'de öncelikle sabit hizmet istasyonları için uygun band temin edildiğinde amatör
+hizmeti için bu bandda birinci öncelikli tahsis edilebilecektir.
+
+(2) Iki 3.55 MHz, 7.0 MHz, 10.1 MHz, 14.0 MHz, 21.0 MHz, 24.89 MHz, ve 144 MHz nokta
+frekansları olağanüstü hallerde normal haberleşme için resmi makamlarca kullanılır, ancak
+bu makamlarla iş birliği içinde haberleşmenin idamesine yardımcı olmak süretiyle
+kullanılabilecektir.
+
+(5) Üç Bu band amatör ve amutör uydu haberlesmesinde de kullan:labilecektir,
+
+(4) Dön Bu band Türkiye'de birinci öncelikle sabit hizmetelere ayrılmışur, ancak olağanüstü
+hallerde 10100 kHz nokta frekansı resmi makamlarla işbirliği içinde olağanüstü hal
+telsiz haberleşmesinin idamesine yardımcı olmak amacıyla amatör telsiz istasyonları
+tarafından da kullamılabilecektir.
+
+(5) Beş i Bu bandda vanlız mors kodu ve dijital modlarda haberleşme vapılabilecektir.
+
+(6) Altı F3E ve G3E emisyonları 28.000 — 29.500 MHz arasında kullanılmayacaktır.
+
+(7) Yedi El telsizlerinin FM modunda azami çıkış gücünün. 5 W' geçemeyecektir.
+
+(8) Sekiz Diinya-Ay-Dtinya haberlesmesinde de kullanılabilecektir.
+
+(9) Dokuz Uluslararası Amatör DX kullanımıdır.
+
+(10) On Bu bandda yapılacak çalışmalar, LARU | inci Bölge ve Milli frekans tahsis planına
+uygun olarak, Kurum tarafindan Milli Frekans Planı ekinde düzenlenen band planına
+göre yapılacaktır.
+
+(11) Onbir J3E emisyonu sadece 1832 — 1835 kHz band aralığında kullanılabilir.
+
+(12) Öniki
+
+Bu bandda SBT (Sanayi, Bilimsel ve Tıbbi) cihazlarının ve KET (Kısa Mesafe Erişimli
+Telsiz) cihazlarının çalıştırılmalarından doğan elektromanyetik enterferansların kabul
+edilmesi zorunludur.
+
+(13) Önüç
+
+Bu bandda amatör telsiz dernekleri tarafından kurulacak olan role cihazlarının azami
+çıkış gücü 25 Wı geçemeyecektir,
+
+(14) Ondört
+
+Eğitim ve özendirme “macı ile B sınıfı amatör telsizcilik belgesi sahibi olan telsizciler,
+kendi imalatları olan ve en fazla 5 Watt çıkış gücündeki bir cihaz ile HF bandında
+7.000-7.100 MHz ve 28.000-29.700 MHz frekans bandında haberleşme yapabilecektir.
+
+(15) Önbeş
+
+50-52 MHz bandı Kurumdan İzin alınmak suretüyvle kullanilabilecektir.
+
+(16) Onaltı
+
+C Sinifi amatör telsizciler tarafından 144-146 MHz ve 430-440 MHz bandlarinda
+verici çıkış gücü 35 Wi geçmiyecek şekilde haberleşme yapılabilecektir.
+
+(P) Birinci Öncelikli Servis (Primary Service):Frekans bandında birinci öncelikli çalışan
+servistir.
+(5) İkinci Öncelikli Servis (Secondary Service): Frekans bandında ikinci öncelikli çalışan
+
+ve birinci öncelikli servisten gelen elektromanyetik enterferansı kabul etmesi zorunlu olan
+servistir.
+
+[SAYFA 48]
+2114
+
+Tablo—3: Emisyon Tipleri
+
+y |
+> N i Band |
+Kısaltmalar Emisyon | sews |
+Çeşidi Genişliği
+Genlik modülasyonlu. çifi kenar band. modüle edici alt taşıyıcı kullanmayan, 100 He
+AIA sayısal bilgi ihtiva eden tek Kanallı, (açık-kapalı  seklinde anahtarlama Z
+sistemiyle çalışan ve kulakla alınabilen telgraf yayını.
+AB Genlik modülasyonlu, çift kenar band, modüle edici alt taşıyıcı 100 H
+kullanmayan, sayısal bilgi ihtiva cden tek kanallı, otomatik telgraf yayını. z
+Genlik modülasyonlu. gift kenar band, modüle edici alt taşıyıcı kullanan sayısal
+AZA bilgi ihtiva eden tek kanallı, açık - kapalı şeklinde anahtarlama sistemiyle çalışan.! 2.) kHz
+| kulakla alınabilen telgraf yayını.
+ADB | Genlik modülasyonlu, çift kenar band, modüle edici alt taşıyıcı kullanan, sayısal ak
+“ i bilgi ihtiva eden, tek kanallı otomatik telgraf yayımı. vi KEZ
+aps Genlik modülasyonlu, çifi kenar band, analog bilgi ihtiva eden tek kanallı a,
+A3C elemi 3 kHz
+faicsimil.
+ASE Genlik modülasvonlu, çift kenar band. analog bilgi, ihtiva eden tek kanallı 10.5 MHz
+a televizyon yayını,
+GE Genlik modülasyonlu, ark yan band analog bilgi ihtiva eden tek kanallı 725 MH
+. televizyon yayını. feo NE
+FLA Frekans modülasyonlu. modüle edici ait taşıyıcı kullanmayan sayısal bilgi 304 Hz
+” ihtiva eden tek kanallı, kulakla alınabilen telgraf yayını. ” mi
+FIB Frekans modülesyonlu, modüle edici alt taşıyıcı kullanmayan, sayısal bilgi 3044
+ihtiva eden tek kanallı otomatik telgraf yayını. ou NE
+POA Frekans modülasyonlu, modüle edici alt taşıyıcı kullanan. sayısal bilgi ihtiva 1.42 kH ;
+ei eden tek kanallı, kulakla alınabilen telgraf yayım. me KZ |
+F2B Frekans modülasyonlu, modüle edici alt taşıyıcı kullanan, sayisal bilgi ihtiva | 1.42 kHz
+eden tek kanallı, otomatik telgraf yayını.
+Frekans moğülasyonlu. analog bilgi ihtiva eden tek kanallı telefon yayını (29.7
+F3E MHz'in altındaki frekans bandlarında maksimum band genişliği 6 kHz'dir.) 16 kHz
+an | Frekans modülasyonlu, analog bilgi ihtiva eden tek kanallı televizyon yayını. ae
+F3F ; 6 MHz
+ı
+Faz modülasyonlu, analog bilgi ihtiva eden tek kanallı telefon yayımı. (29.7 16 KH
+> . , ; toes: O EZ
+G3E MHz'in altindaki frekans bandlarında maksimum band genişliği :
+6 kHz'dir.)
+ME Genlik modülasyonlu, tek konar band, tam taşıyıcılı analog bilgi ihtivaeden | ki
+>. tek kanallı telefon yayını. [| a Kite
+Genlik modülusyonlu, tek kenar band, taşıyıcısı bastimimis modüle edici alt 134 He
+DA taşıyıcı kullanan, sayısal bilgi ihtiva öden tek kanallı, kulakla alınabilen 7
+teleraf yayını,
+Genlik modülasyonlu, tek kenar band. taşıyıcı basurılmış. modüle edici alt
+J2B taşıyıcı kullanan, sayısal bilgi ihtiva eden tek kanallı otomatik telgraf yayını. 134 Hz
+BE Genlik modülasyonlu, tek kenar band, taşıyıcısı bestirilmiş analog bilgi ihtiva |
+a eden, tek kanallı faksimil. !
+BE Genlik modülasvoniu, tek kenar band, laşıyıcısı bastırılmış analog bilgi ihtiva Sl i
+: . KHE i
+? eden kanallı telefon yayını. a ‘
+| 3F Genlik modülasyonlu, tek kenar band. taşıyıcısı bastırılmış analog bilgi ihtiva 6 Müz i
+| ei eden tek kanallı televizyon yayını. iene
+| RSE Genlik modiilzs,onlu, tek kenar band, azalılmış veya değişken seviyeli | 3 kHz |
+İ vi taşıyıcılı analog, bilgi ihtiva eden tek karajlı telefon y '
+
+[SAYFA 49]
+2115
+ÜÇÜNCÜ CETVEL
+(Madde 8 ve 10)
+GÜVENLİK MESAFESİNİN BELİRLENMESİ
+
+Güvenlik mesafesi; antenden itibaren ve antenlerin yayın yönü dikkate almarak uluslararası IRPA
+kuruluşunun belirlemiş olduğu. aşağıdaki formülle (formül 1) hesaplanır.
+
+d= ¥30.P..0G/20
+
+E (formiil 1)
+Bu formülde;
+P: Cihaz çıkış gücü (Wart)
+G: Anten kazancı (dBi)
+E: Elektrik alan limit değeri (Volt/metre)
+(bu Cetvelin yer alan Tablo-1 deki tek bir cihaz için limit değeri
+kullanılacaktır.)
+D: Güvenlik mesafesi (Metre)
+
+a) Sabit elektronik haberleşme cihazlarının meskun mahal içinde montajının yapılmasında, asgari olarak
+yukarıdaki formül) 1'de hesaplanan güvenlik mesafesi dikkate alınır.
+
+biTelsiz cihazlarında güvenlik mesafesine göre alınacak tedbirler kullanılan antene ait anten yayın
+paternine göre değerlendirilmektedir. Yönlü antenlerde ana hüzmeye göre hesaplanan güvenlik
+mesafesi dikkate alınır.
+
+c)Bina yüzeylerine kurulacak olan antenlerin, arka yüzlerine gelen duvara, en az anten boyutlarında
+yansıtıcı levhalar monte edilir.
+
+d) Okul öncesi eğitim ile temel eğitim kuruluşlarının bulunduğu mahallerde güvenlik mesafesi hesabı
+yapılırken, bahçe sınırları dikkate alınır. Ayrıca söz konusu okul öncesi eğitim ile temel eğitim
+kuruluşlarına ait alanlarda yapılan ölçümlerde elde edilen elektrik alan şiddeti değerleri 3 Vim'yi
+geçemez.
+
+e) Sağlık kuruluşlarında kurulacak elektronik haberleşme cihazlarının; tibbi cihazların etkilenmemesi
+amacıyla ortamda oluşturacağı elektrik alan şiddet değeri, E= 3 V/m'yi geçemez.
+
+Hücresel baz istasvonlarinda cüyenlik mesafesinin uvsulanması:
+
+Hücresel baz istasyonlarında kullanılan sektör antenleri için güvenlik mesafesinin değerlendirilmesinde
+sektör anteninin yayılım patemi dikkate alınmaktadır. Aşağıdaki şekil 1'de belirtilen üst görünümde sektör
+antenin yatay yayılım açısı (©). yan görünümde ise dikey yayılım açısı (a) dikkate alınarak güvenlik
+mesafesinin yaşam alanları içerisinde kalmayacak şekilde tedbirler alınmaktadır. Özelikle bina üzeri
+kurulumlarda sektör anten merkezinin ne kadar yükseklikte olacağı veya bina üzerinde hangi noktaya
+kurulacağı ile ilgili olarak Y (metre) değeri formül 2'de belirtildiği şekilde hesaplanarak. antenin kurulum
+noktası ve yüksekliği degerlendirilmektedir.
+Her BAR Aten Yan GArtintirg
+
+Pi tpt rey
+
+AM eter
+
+ikaniraj
+
+Şekil 1. Baz istasyonlarında kullanılan telsiz sistemleri işin belirlenen ek güvenlik tedbirleri.
+
+[SAYFA 50]
+Bu formülde;
+
+ORTAM VE TEK CİHAZ İÇİN LİMİT DEĞE;
+
+2116
+
+Y—tanax D (formiil 2)
+
+o Antenin taplam d
+
+Ortam ve tek bir cihaz için belirlenen limit değerler aşağıdaki Tablo 1'de verilmiştir.
+
+Tablo-|
+
+YY: Sektör antenin yaşam alanından yüksekliği (Metre)
+yayılım açısı / 2 (Derece)
+D: Güvenlik mesafesi (Metre)
+
+E-alan şiddeti (V/m)
+
+Hs-dAlan şiddeti (A/m)
+
+B - Manyetik Akı
+Yoğunluğu (pT)
+
+Eşdeğer Düzlem
+Dalga Güç
+Yoğunluğu (W/m)
+
+Frekans
+N Orta rta v
+Aralığı (MHZ) | yek cihaz | OFF! | tek cihaz MİN | yek cihaz | OİAMIN | sek cihaz| OTM
+ame toplam A, toplam MN, toplam MN toplam
+için limit Wi için limit we, için limit a için limit van
+değeri limit değeri limit degeri limit degeri limit
+| 3 değeri değeri değeri değeri
+| _0,010-0.15 22 87 18 5 15 6,25 - -
+| O48-1 22 87 0.18 0,73/f O23 0.924 z
+i 4-10 22K" ari? 0,154 0,734 0,234 0,924 - -
+40-400 7 28 0.02 0,073 0,023 0,082 0,125 2
+400-2 000 | 034114“ | 1375 f | 0.oo0g # | 0.0037 £%| 0,001 f (donas (“| 3 200 {200
+2 000-60 000 15 61 0,04 0,16 0.05 02 0,625 10
+
+f= frekans (MHz)

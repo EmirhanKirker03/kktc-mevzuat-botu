@@ -1,0 +1,560 @@
+[SAYFA 1]
+KUZEY KIBRIS TÜRK CUMHURİYETİ
+RESMİ GAZETE
+
+Sayı : 47 EK Il 5 Mart, 2012
+TEBLİĞ VE İLANLAR
+
+Sayı: 142
+
+SİGORTA HİZMETLERİ (DÜZENLEME VE DENETİM) YASASI
+( 60/2010 SAYILI YASA)
+
+Madde 68 Altında Yapılan Tüzük
+
+Kuzey Kıbrıs Türk Cumhuriyeti Bakanlar Kurulu, Sigorta Hizmetleri (Düzenleme ve Denetim)
+Yasasının 68'inci maddesinin kendisine verdiği yetkiye dayanarak aşağıdaki Tüzüğü yapar.
+
+(273)
+
+[SAYFA 2]
+Kısa İsim
+
+Tefsir
+
+Fasıl 113
+
+28/1974 .
+
+711977
+30/1983
+
+- 28/1987
+65/1989
+56/1991
+
+42/1997
+
+39/2001
+5972002
+
+274
+Bu Tüzük, Sigorta Bilgi Merkezi Tüzüğü olarak isimlendirilir.
+
+Bu Tüzükte metin başka türlü gerektirmedikçe;
+
+"Bakan", Daire'nin bağlı olduğu Bakanı anlatır.
+
+"Bakanlık", Daire'nin bağlı olduğu Bakanlığı anlatır.
+
+“Banka”, Şirketler Yasası ve KKTC Bankalar Yasası altında kurulan
+bankalar ile yabancı bankaların Kuzey Kıbrıs Türk Cumhuriyetinde
+
+açılan şubelerini anlatır.
+
+"Birlik", Kuzey Kıbrıs Türk Cumhuriyeti Sigorta ve Reasürans Şirketler
+Birliğini anlatır.
+
+“Broker”, herhangi bir sigorta ve reasürans şirketine bağlı olmaksızın,
+sigorta ve reasürans sözleşmesi yapmak isteyen müşterileri temsil
+etmek suretiyle, bunları sigorta veya reasürans şirketiyle bir araya
+getiren, sigorta ve reasürans sözleşmelerinin sonuçlandırılmasına
+yönelik koşulları hazırlayan, müzakere eden ve sözleşmelerin
+sonuçlandırılmasını sağlayan ve özellikle hasar meydana geldiğinde
+gerekli ise sigortalıya yardımcı olan ve bu hizmetler karşılığında sigorta
+veya reasürans şirketinden komisyon alan gerçek veya tüzel kişiyi
+anlatır. Ni
+
+"Daire" Para, Kambiyo ve İnkişaf Sandığı İşleri Dairesini anlatır.
+“Merkez,” Birlik bünyesinde kurulan Sigorta Bilgi Merkezini anlatır.
+“Sigorta Acentesi”, Sigorta şirketi ile acente arasında akdedilen
+Acentelik Sözleşmesi çerçevesinde, bir sigorta şirketi adına veya
+hesabına, sigorta ürünlerini sigorta müşterilerine tanıtan, teklif eden,
+sigorta sözleşmesini hazırlayan, sonuçlandıran, prim tahsil eden,
+sigorta sözleşmesi süresince ve hasar meydana geldiğinde sigortalıya
+gereken yardımı sağlayan ve bu hizmetleri karşılığında sigorta
+
+şirketinden komisyon alan gerçek veya tüzel kişileri anlatır.
+
+“Sigorta Eksperi”, Sigorta sözleşmelerindeki risklerin gerçekleşmesi
+
+sonucunda ortaya çıkan kayıp ve hasarların miktarını, nedenlerini ve
+niteliklerini belirleyen ve mutabakatlı kıymet tespiti, ön ekspertiz ve
+gözetim gibi işleri sürekli meslek olarak yapan gerçek veya tüzel kişiyi
+anlatır.
+
+“Sigorta Şirketi”, Kuzey Kıbrıs Türk Cumhuriyeti'nde kurulmuş
+sigorta şirketleri ile yabancı ülkelerdeki sigorta şirketlerinin Kuzey
+
+[SAYFA 3]
+60/2010
+
+o Amaç
+
+Merkezin
+Görevleri
+
+275
+
+Kıbrıs Türk Cumhuriyeti'ndeki şubelerini anlatır.
+
+“Sigorta Yöneticisi”, Daire Müdürünü anlatır.
+
+“Trafik sigortaları”, İhtiyari Trafik Sigortası, Kasko. Sigortası, Ferdi
+Kaza Sigortası, Taşımacılık Sigortası ve Zorunlu Trafik Sigortasını,
+“Üye sigorta şirketleri”, Sigortacılık sektöründe faaliyet gösteren ve
+Merkez kapsamına giren sigorta sınıflarında faaliyet ruhsatı bulunan
+sigorta şirketlerini anlatır.
+
+“Yetkili kullanıcılar”, Merkezin bilgi kayıtlarına çeşitli düzeylerde
+erişim yetkisi bulunan sistem kullanıcılarını anlatır.
+
+“Yönetim Komitesi”, Merkez Yönetim Komitesini anlatır.
+
+“Yasa”, Sigorta Hizmetleri (Düzenleme ve Denetim) Yasasını anlatır.
+
+Bu Tüzüğün amacı, sigorta uygulamalarında uygulama birliğinin.
+sağlanması, sigorta sahtekarlıklarının önlenmesi ve sigorta sistemine
+olan güvenin artırılması için, Birlik bünyesinde kurulan Merkezle ilgili
+usul ve esasları düzenlemektir.
+
+(1) Merkez aşağıda sayılan görevleri yerine getirir:
+
+(A) Sigorta şirketlerinin ruhsatlı olduğu tüm sınıflarda
+düzenlediği poliçeler ile ilgili olarak veri tabanı oluşturmak.
+
+(B) Bilişim sisteminin kurulması ve ihtiyaçlara göre
+geliştirilmesini sağlamak ve ilgili Devlet Kurumları ile
+işbirliği yapmak ve bu işbirliği çerçevesinde elektronik
+ortamda bilgi alış verişinde bulunmak
+
+(C) Hasarsızlık indirimine veya artışlı prim uygulamasına esas .
+teşkil etmek üzere hasar durum belgesi düzenlemek, bu
+belgeyi üye sigorta şirketlerinin, sigorta acentesinin veya
+sigorta ettirenin talebi halinde vermek.
+
+(Ç) Hasarsızlık indirimine veya artışlı prim uygulamasına esas
+teskil edecek primlerin belirlenmesi ile ilgili çalışmalar
+yapmak ve Sigorta Yöneticisinin onayı alınması koşuluyla
+yürürlüğe koymak.
+
+(D) İstatistiki bilgiler sağlamak.
+
+(E) Toplu sigorta verilerini, sigortalılık oranlarını, kaza ve hasar
+verilerini ve benzeri İstatistikleri raporlara dönüştürmek ve
+ilgililerin bilgisine sunmak.
+
+(F) Sigorta sahtekarlıklarını önlemek.
+
+(G) Tazminat ödemeleri ve muallak hasarlarla ilgili düzenli ve
+doğru verilerin elde edilmesini sağlamak.
+
+(G) Zorunlu sigortalarını yaptırmamış motorlu araç kullanan
+veya işletenleri tespit ederek, sigortasız araç kullanılmasının
+engellenmesine yardımcı olmak.
+
+(4) Gelir ve Vergi Dairesi Araç Kayıt ve Ruhsatlandırma
+Şubesinden, motorlu araç kayıtlarını elektronik ortamda
+almak ve bu kayıtları sigorta poliçeleriyle ilişkilendirmek ve
+
+[SAYFA 4]
+Yönetim
+Komitesi
+
+(2)
+
+(1)
+
+(©)
+(6)
+
+(7)
+(8)
+
+276
+gerekli raporlamayı yapmak.
+(I) o Görev alanıma giren konularda Sigorta Yöneticisi tarafından
+talep edilebilecek çalışmaları yapmak.
+
+'() Sigorta Yöneticisinin ve Bakanlığın tüm verilerden, Birliğe
+
+üye şirketlerin ise kendilerine tanınacak eşit yetkiler
+çerçevesinde verilerden yararlanmasını sağlamak.
+(J) Polis Genel Müdürlüğünün yürürlükte olan yasalar
+“ çerçevesinde, gerek trafik gerekse adli konular maksadı ile
+belirlenen kriterlere göre merkez verilerinden yararlanmasını
+sağlamak.
+Merkez, yukanda tanımlanan görevleri yerine getirmek üzere
+istenen yeteneklere sahip güvenli ve yedekli bir bilişim sistemi
+kurar ve gerek duyulduğu takdirde bu amaçla dışarıdan hizmet
+satın alır.
+
+Yönetim Komitesi aşağıda belirlenen şekilde biri başkan olmak
+
+üzere toplam beş üyeden oluşur:
+
+(A) Bakanlık temsilcisi (1 Üye),
+
+(B) Birliğin belirleyeceği temsilci (3 Üye),
+
+(C) Polis Trafik Müdürü veya görevlendireceği temsilci (1 Üye).
+
+Sigorta Bilgi Merkezi Yönetim Komitesi ilk toplantıda kendi
+
+aralarından bir başkan seçer.
+
+Yönetim Komitesi üyelerinin, temsil ettikleri kuruluşların görev
+
+alanına giren konularda veya seçildikleri uzınanlık dallarında,
+
+görevlerini yürütebilmeleri için gerekli bilgiye ve mesleki
+deneyime sahip olmaları zorunludur.
+
+Yönetim Komitesi, gündem belirtilmek suretiyle Komite: Başkanı
+
+tarafından doğrudan doğruya veya komite üyelerinin en az üçünün
+
+yazılı önerisi ile toplanır. Ayda en az bir toplantı yapılır
+
+Yönetim Komitesinin toplantı ve karar yeter sayısı üye tam
+
+sayısının salt çoğunluğudur.
+
+Yönetim Komitesi Kararları üyeler tarafindan imzalanması
+
+koşuluyla, doğrudan doğruya deftere yazılabileceği gibi ayn
+
+olarak yazılıp, Yönetim Komitesi karar defterine yapıştırılmak
+suretiyle düzenlenebilir..
+
+Yönetim Komitesi üyelerine, bu görevlerinden dolayı hiç bir ad
+
+altında ücret ödenmez.
+
+Aşağıdaki hallerde Sigorta Bilgi Merkezi Yönetin Komitesi
+
+üyeliği sona erer:
+
+(A) Üyenin ölümü veya yazılı istifası halinde;
+
+(B) Komitenin üst üste üç toplantısına izinsiz veya özürsüz
+katılmaması halinde;
+
+(C) Bu Yasanın 13'üncü maddesinin (2)’inci fıkrasının (A)
+bendinde öngörülen niteliklerin herhangi birinin yitirilmesi
+veya var olmadığının sonradan tespit edilmesi halinde.
+
+(Ç) Kamu görevlisi olan üyelerin bu fıkrada öngörülen kurallar
+
+[SAYFA 5]
+53/1977
+12/1980
+7/1981
+51/1982
+24/1983
+43/1983
+2/1984
+20/1986
+4/1987
+49/1987
+50/1987
+33/1989
+61/1989
+2/1990
+41/1990
+30/1991.
+31/1992
+16/1994
+5/1995
+6/1998
+21/1999
+- 19/2001
+23/2005
+22/2006
+66/2006
+75/2007
+8/2010
+
+Yönetim
+Komitesinin
+Görevleri
+
+6.
+
+277
+
+sakh kalmak kosuluyla;
+
+(a) Üyenin ölümü veya yazılı istifası halinde;
+
+(b) Komitenin üst üste üç toplantısına izinsiz veya özürsüz
+katılmaması halinde;
+
+(6) Kamu görevlisi olan üyelerin!
+
+(i) Üst Kademe Yöneticiliği o Yapan Kamu
+Görevlilerinin Atanması Hakkında Yasa kuralları
+uyarınca görevden alınması halinde;
+
+(ii) Kamu görevliliğinin sona ermesi halinde; veya
+
+(iii) Atayan tarafından yazılı ve gerekçeli olarak
+görevden alınması halinde,
+
+(1) Yönetim Komitesi aşağıdaki görevleri yerine getirir:
+
+(A)
+
+B)
+©)
+©)
+©)
+
+(E)
+
+Merkez kapsamına girecek sigorta sınıflarını, Birliğin önerisi
+Sigorta Yöneticisinin onayı ile belirlemek,
+
+Bilişim (sisteminin (o kurulması ( ve ihtiyaçlara  gdre
+geliştirilmesi için gereken donanım, yazılım, hizmet alımı ve
+benzeri satin alma kararlarını vermek,
+
+Üye sigorta şirketlerinden ve ilgili diğer kuruluşlardan
+istenen bilgilerin kapsamına, gönderme sürelerine ve şekline
+karar vermek,
+
+Yetkili (“kullanıcılar (o tanmlamak, bu kullanıcıların
+erişebilecekleri kayıtların içeriğine ve erişim şekline karar
+vermek,
+
+İlgili o tarafları ve kamuoyunu bilgilendirmek icin
+hazırlanacak raporların ve istatistiklerin içeriğine ve
+yayımına karar vermek,
+
+Bilişim sistemindeki verilerin güvenliği için gereken
+
+[SAYFA 6]
+Merkez Müdürü 7.
+
+Üyelerin Bilgi
+Verme
+Yükümlülüğü
+
+8.
+
+()
+
+(2)
+
+(3)
+
+278
+
+tedbirleri almak,
+
+(FP) Merkezin kendinden beklenen işleri yerine getirebilmesi icin
+alınması gereken tedbirler hakkında Sigorta Yöneticisine
+bilgi vermek, :
+
+(G) Trafik sigortası ile ilgili uygulamada görülen aksaklıklar
+hakkında Sigorta Yöneticisine bilgi vermek,
+
+(G) Trafik sigortası tarifesi ile ilgili yapılan çalışmaların
+sonucundan Sigorta Yöneticisine bilgi vermek, .
+
+(H) Aldığı hizmet karşılığı ödeyeceği ücreti süresi içinde
+ödemeyen üye sigorta şirketleri bakkında gerekli işlemleri
+yürütmek,
+
+(I) Oo Merkezde istihdam edilecek personelin atamalarını yapmak,
+özlük haklarını ve ücretlerini belirlemek,
+
+() Merkez adına kullanılacak yetkilerin, kimler tarafından ve
+nasıl kullanılacağını belirlemek,
+
+(J) Görev alanına giren konularda Sigorta Yöneticisi tarafından
+talep edilebilecek çalışmaları yapmak.
+
+Merkez müdürü, Birlikçe teklif edilecek en az üç aday arasından
+Bakanın onayı ile belirlenir. Müdür, Merkezin hesaplarının ve
+kayıtlarının düzenli olarak tutulmasından, Merkezin işlerinin bu
+Tüzükte amaçlanan hususlara ve Yönetim Komitesi kararlarına
+uygun şekilde yürütülmesinden sorumludur.
+
+Merkez müdüründe aşağıdaki nitelikler aranır:
+
+(A) Yüksekokul veya üniversite mezunu olması;
+
+(B) Bilgisayar konusunda en az beş yıllık tecrübe sahibi olması;
+(C) Yasa'nın 13'üncü maddesinin 2'nci fikrasinın (A) bendinde
+öngörülen niteliklere sahip olması.
+Merkez Müdürünün görevleri şunlardır:
+(A) Merkez hesaplarını tutmak;
+(B) Kayıtların düzenli olarak tutulmasını sağlamak,
+
+“(C) Verilerin üye sigorta şirketleri tarafindan o sürekli
+
+güncellenmesini sağlamak,
+(ÇO) Görev alanına giren konularda, Merkez Yönetim Komitesi,
+_ve Sigorta Yöneticisi tarafından istenilecek çalışmaları
+yapmak,
+(D) Yasa veya Yasa tahtında çıkarılacak tüzüklerde kendisine
+verilen görevleri yapmak.
+
+Sigortacılık sektöründe faaliyet gösteren ve merkez kapsamına giren
+sigorta sınıflarında ruhsat almış sigorta şirketleri Merkeze üye olmak
+ve en fazla bir gün gecikme ile bilgi akışında bulunmak zorundadırlar.
+
+(1)
+
+Üye sigorta şirketleri Yasa'nın yürürlüğe girdiği tarih itibarı ile
+tüm yürürlükte olan poliçe bilgilerini ve bu poliçelere ilişkin
+hasar ve muallak hasar bilgilerini Merkeze vermekle
+yükümlüdürler.
+
+[SAYFA 7]
+Bilgi
+Kayıtlarına
+Erişim
+
+3)
+
+(4)
+
+(5)
+
+(6)
+
+279
+
+Üye sigorta şirketleri Merkez kapsamında olan sigorta
+sözleşmelerine ait bilgileri ile güncellenmiş ve günlük muallak ve
+ödenmiş hasar bilgilerini merkez tarafından hazırlanarak Sigorta
+Yöneticisi tarafından onaylanan veri yapısında ve en fazla bir
+günlük gecikmeyle merkeze iletmek zorundadırlar.
+
+Üye sigorta şirketleri, yönetim komitesi tarafindan kendilerinden
+istenen tüm bilgileri, doğru ve eksiksiz olarak, belirlenen
+formatla, belirlenen iletişim kanailarını kullanarak düzenli bir
+şekilde Merkeze iletmekle yükümlüdür.
+
+Üye sigorta şirketleri, Merkez tarafindan hatalı olarak
+gönderildiği tespit edilen bilgileri gecikmeksizin düzeltmek ve
+düzeltme kayıtlarını en fazla bir günlük gecikmeyle Merkeze
+göndermek zorundadırlar.
+
+Poliçe üretiminde yeknesaklık sağlanması amacıyla Merkezin
+kapsamında olan sigorta sınıflarına merkez tarafından poliçe
+üretim ekranları yaratılması halinde şirketlerin ve acentelerinin bu
+ekranları kullanarak poliçe üretmeleri zorunludur.
+Yükümlülüklerini yerine getirmeyen üye sigorta şirketleri,
+yükümlülüğünü yerine getirene kadar Sigorta Yöneticisinin onayı
+ile Yönetim Komitesi tarafından sistemden yararlanmaktan
+menedilir. Bu sigorta şirketleri hakkında Sigorta Yöneticisi
+gerekli tedbirleri alır.
+
+Merkezin bilişim sistemi, farklı türdeki kullanıcılar arasında bilgi
+kayıtlarına erişim yetkisi bakımından ayrım yapacak ve gerekli
+güvenlik önlemlerini içerecek şekilde kurulur.
+
+(1) Sigorta ettirenlerin, işleteni bulundukları motorlu araçlarla ilgili
+
+2
+
+6)
+
+(4)
+
+özel sigorta ve hasar kayıtlarına internet ortamında erişimine
+olanak sağlanır.
+
+Münhasıran çalışma konuları ile ilgili olmak üzere daha detaylı
+bilgilere dışarıdan erişebilecek yetkili kullanıcılar Bakanlık,
+Daire, Polis Genel Müdürlüğü, Birlik, Zorunlu Sigortalar Garanti
+Fonu, Gelir ve Vergi Dairesine bağlı Araç Kayıt ve
+Ruhsatlandırma Şubesi, üye sigorta şirketleri, sigorta acenteleri,
+sigorta eksperleri ve brokerler olup, bu kapsam Sigorta
+Yöneticisinin onayı alınması koşuluyla Yönetim Komitesi
+tarafından genişletilebilir. Yetkili kullanıcıların erişebilecekleri
+kayıtların içeriği ve erişim şekli Yönetim Komitesince saptanır ve
+Sigorta Yöneticisinin onayı ile ilgililere duyurulur
+
+Münhasıran çalışma koşulları ile ilgili olmak üzere Merkez
+nezdinde tutulan bilgi ve verilere dışarıdan erişim tanınacak
+yetkili kullanıcılar ve erişebilecekleri kayıt ve raporların içeriği ile
+erişim şekilleri Sigorta Yöneticisinin onayı alınması koşulu ile
+Merkez Yönetim Komitesi tarafından belirlenir.
+
+Merkez nezdinde tutulan bilgileri talep eden yetkili kullanıcılar
+dışındaki diğer isteklilerin talepleri Yönetim Komitesi tarafından
+karara bağlanır. Bu fikra kapsamında verilecek bilgilerin içeriği
+
+[SAYFA 8]
+280
+
+Sigorta Yöneticisinin onayına bağlıdır.
+
+(5) Yönetim Komitesi, yetkili kullanıcılar dışındaki diğer isteklilerin
+sahip (olacağı bilgileri belirlenen amaç doğrultusunda
+kullanmalarını temin için (ogerekli her türlü tedbiri almakla
+yükümlüdür.
+
+(6) İkinci ve üçüncü fikralar kapsamında tanınacak erişimin ve/veya
+verilecek bilgilerin ücretinin belirlenmesine veya ücretsiz olarak
+sağlanmasına , sigorta Yöneticisinin onayı almması koşulu ile
+Yönetim Komitesi karar vermeye yetkilidir. Kamu kurum ve
+kuruluşlarına sağlanan hizmetler ücrete tabi değildir.
+
+(7) Yönetim Komitesince belirlenen kurallara uymayan yetkili
+kullanıcıların sisteme erişimleri ve bilgi (kayıtlarından
+yararlanmaları, Sigorta Yöneticisinin onayı alınmak koşulu ile
+Merkez tarafından (sınırlandırılır. Bu durumun süreklilik
+göstermesi halinde, bu kişilerin sisteme erişim ve bilgi
+kayıtlarından yararlanma hakları Sigorta Yöneticisi tarafindan
+tamamen kaldırılır.
+
+Merkezin 10. (1) Merkezin gelirleri;
+
+Gelirleri (A) Verdiği hizmetlerden alacağı ücretlerden ,
+(B) Birliğin yapacağı katkılardan,
+oluşur.
+
+(2) Merkez gelirleri, Merkez adına Yönetim Komitesinin uygun
+gördüğü, Bankada açılacak hesapta muhafaza edilir.
+
+(3) Merkez tarafından verilecek hizmet karşılığı alınacak ücretler ile
+ilgili tarifeler Yönetim Komitesi tarafından hazırlanıp Sigorta
+Yöneticisi tarafından onaylandıktan sonra uygulanır.
+
+48/1977 (4) Kamu kurum ve kuruluşları dışında kalan erişim yetkisine sahip
+28/1985 yetkili kullanıcılar, almış oldukları hizmetler karşılığı ödemek
+31/1988 zorunda oldukları ücretleri, hizmetin alındığını takip eden ayn
+31/1991 ' 15'ine kadar (Merkeze ödemek (zorundadırlar. Zamanında
+2211000 ödenmeyen ücretler, Kamu Alacaklarının Tahsili Usulü Hakkında
+35/2005 Yasa kuralları uyarınca tahsil edilir.
+
+59/2010
+(5) Aldığı hizmet karşılığı ücreti süresi içerisinde ödemeyen ve bunu
+süreklilik haline getiren, kamu kurum ve kuruluşları dışında kalan
+yetkili kullanıcılarm, sisteme erişiminin durdurulmasına Sigorta
+Yöneticisinin onayı alınması koşulu ile Yönetim Komitesi karar
+verir.
+Merkezin 1l (1) Merkezin giderleri;
+Giderleri (A) Cari giderler,
+
+B) Yatırım giderleri.
+(2) Merkez giderleri ile ilgili ödemeler, Yönetim Komitesinin kararı
+
+ile. cekle ve Yönetim Komitesi Başkanı ve Bakanlık temsilcisi
+olan üyenin imzaları ile yapılır.
+
+Hesap Dönemi 12. Merkezin hesap dönemi mali yıldır.
+
+Denetim 13. Sigorta Bilgi Merkezi, Sigorta Yöneticisi tarafından görevlendirilecek
+Bakanlık personelince yılda en az bir kez olmak üzere denetlenir.
+
+Yürütme 14. Bu Tüzüğü, Daire'nin bağlı olduğu Bakanlık yürütür.
+Yetkisi ,
+Yürürlüğe 15. Bu Tüzük, Resmi Gazete'de yayımlandığı (o tarihten başlayarak
+
+Giriş ; yürürlüğe girer.
