@@ -343,7 +343,7 @@ function search(q){
 
 /* ---------- Yüksek Mahkeme kararları (alan alan, gerektiğinde yüklenir) ---------- */
 const KMETAINFO = JSON.parse(document.getElementById('kararlar').textContent); // {alanlar:{KIRA:{adet,..}}, alindi, baslangic}
-const ALAN_AD = {KIRA:'Kira', AILE:'Aile', IS:'İş', TUKETICI:'Tüketici', TRAFIK:'Trafik', KAT:'Kat Mülkiyeti', CEZA:'Ceza', BORCLAR:'Sözleşme ve haksız fiil', USUL:'Hukuk usulü', MIRAS:'Miras', SIRKET:'Şirketler'};
+const ALAN_AD = {KIRA:'Kira', AILE:'Aile', IS:'İş', TUKETICI:'Tüketici', TRAFIK:'Trafik', KAT:'Kat Mülkiyeti', CEZA:'Ceza', BORCLAR:'Sözleşme ve haksız fiil', USUL:'Hukuk usulü', MIRAS:'Miras', SIRKET:'Şirketler', IDARE:'İdare (YİM)', ANAYASA:'Anayasa Mahkemesi', SECIM:'Seçim (YSK)', AIHM:'AİHM', DIGER:'Diğer davalar'};
 const LAW2ALAN = {KIRA:'KIRA', AILE:'AILE', IS:'IS', TUKETICI:'TUKETICI', TRAFIK:'TRAFIK', CEZAPUANI:'TRAFIK', KAT:'KAT', CEZA:'CEZA', CMUK:'CEZA', SOZLESME:'BORCLAR', HAKSIZ:'BORCLAR', HMUK:'USUL', MIRAS:'MIRAS', SIRKET:'SIRKET'};
 const KBY = {};
 const KSTORE = {};
@@ -356,21 +356,24 @@ function bm25Index(docs){
     qt.forEach(w=>{ if(!tf[w]) return; const idf=Math.log(1+(n-df[w]+.5)/(df[w]+.5)); s+=idf*(tf[w]*2.2)/(tf[w]+1.2*(.25+.75*d.t.length/av)); });
     return s; });
 }
-function loadArea(a){
-  if(KSTORE[a]) return KSTORE[a];
-  const np=(KMETAINFO.alanlar[a]||{}).parca||1, urls=np>1?Array.from({length:np},(_,i)=>'kararlar-'+a+'-'+(i+1)+'.json'):['kararlar-'+a+'.json'];
-  KSTORE[a] = Promise.all(urls.map(u=>fetch(u).then(r=>{ if(!r.ok) throw new Error('HTTP '+r.status); return r.json(); }))).then(js=>{
-    const kar=js.flatMap(j=>j.kararlar); kar.forEach(k=>{ if(!KBY[k.id]) KBY[k.id]=k; });
-    const ch=[];
-    kar.forEach(k=>{ const paras=k.metin.split(/\n\s*\n/); let buf='';
-      const push=()=>{ if(buf.trim().length>60) ch.push({k, text:buf.trim()}); buf=''; };
-      paras.forEach(p=>{ if((buf+'\n\n'+p).length>900 && buf) push(); buf += (buf?'\n\n':'')+p; if(buf.length>1400) push(); }); push(); });
-    ch.forEach(c=>c.t=toks(c.text));
-    const meta=kar.map(k=>({k, t:toks([k.konu,k.konu,k.yasa,k.ozet].join(' '))}));
-    return {alan:a, kar, ch, chScore:bm25Index(ch), metaScore:bm25Index(meta)};
-  }).catch(e=>{ delete KSTORE[a]; throw e; });
-  return KSTORE[a];
+// kararlar iki parça hâlinde: küçük künye dizini (her şey için) + metin paketleri (yalnızca gerekenler indirilir)
+let KD=null; const KP={};
+function kDizin(){
+  if(!KD) KD=fetch('karar-dizin.json').then(r=>{ if(!r.ok) throw new Error('HTTP '+r.status); return r.json(); }).then(j=>{
+    const kar=j.kararlar; kar.forEach(k=>{ KBY[k.id]=k; k.t=toks([k.konu,k.konu,k.yasa,k.ozet,k.taraflar].join(' ')); });
+    return {kar, meta:bm25Index(kar)};
+  }).catch(e=>{ KD=null; throw e; });
+  return KD;
 }
+async function kMetin(ids){
+  const bs=[...new Set(ids.map(id=>KBY[id]&&KBY[id].b).filter(b=>b!==undefined))];
+  await Promise.all(bs.map(b=>{ if(!KP[b]) KP[b]=fetch('karar-p'+b+'.json').then(r=>{ if(!r.ok) throw new Error('HTTP '+r.status); return r.json(); })
+    .then(j=>{ Object.entries(j).forEach(([id,m])=>{ if(KBY[id]) KBY[id].metin=m; }); }).catch(e=>{ delete KP[b]; throw e; }); return KP[b]; }));
+}
+function parcala(k){ const ch=[]; const paras=(k.metin||'').split(/\n\s*\n/); let buf='';
+  const push=()=>{ if(buf.trim().length>60) ch.push({k, text:buf.trim()}); buf=''; };
+  paras.forEach(p=>{ if((buf+'\n\n'+p).length>900 && buf) push(); buf += (buf?'\n\n':'')+p; if(buf.length>1400) push(); }); push(); return ch; }
+async function loadArea(a){ const D=await kDizin(); return {alan:a, kar:D.kar.filter(k=>k.alanlar.includes(a))}; }
 function queryToks(q){ const f=fold(q); let extra=''; SYN.forEach(([re,add])=>{ if(re.test(f)) extra+=' '+add; });
   return [...new Set([...toks(q), ...extra.split(/\s+/).filter(Boolean).map(w=>w.slice(0,5))])]; }
 function kWeight(k, alan){
@@ -379,25 +382,29 @@ function kWeight(k, alan){
   return (k.tarih||'')>='2015' ? 1.15 : 1;
 }
 // kararları puanla: en iyi parça + künye eşleşmesi, dönem ağırlığı, bulunan kira maddeleriyle örtüşme
-async function searchCases(q, arts, limit, donem, alanlar){
-  const qt=queryToks(q); if(!qt.length || !alanlar.length) return [];
+// kararları puanla: önce künye (konu, anılan mevzuat, özet) ile aday seç, sonra adayların metnini indirip
+// en iyi paragrafla puanla; dönem ağırlığı ve bulunan kira maddeleriyle örtüşme
+async function searchCases(q, arts, limit, donem, alanlar, metinsiz){
+  const qt=queryToks(q); if(!qt.length) return [];
+  const D=await kDizin(); const ms=D.meta(qt);
   const artNos=new Set((arts||[]).filter(a=>a.law==='KIRA').map(a=>a.no));
-  const seen={}, res=[];
-  for(const a of alanlar){
-    const S=await loadArea(a); const cs=S.chScore(qt), ms=S.metaScore(qt), best={};
-    cs.forEach((s,i)=>{ const id=S.ch[i].k.id; if(!best[id]) best[id]={s:0,chunks:[]}; if(s>best[id].s) best[id].s=s; if(s>0) best[id].chunks.push({s,text:S.ch[i].text}); });
-    S.kar.forEach((k,i)=>{
-      const b=best[k.id]||{s:0,chunks:[]};
-      let sc=(b.s + 1.6*ms[i]) * kWeight(k,a);
-      if(a==='KIRA' && k.maddeler.some(m=>artNos.has(m))) sc*=1.3;
-      if(sc>3 && (donem==='all'||k.donem===donem) && !(seen[k.id]>=sc)){ seen[k.id]=sc; res.push({k, s:sc, alan:a, chunks:b.chunks.sort((x,y)=>y.s-x.s).slice(0,2).map(c=>c.text)}); }
-    });
-  }
-  const uniq={}; res.forEach(x=>{ if(!uniq[x.k.id]||uniq[x.k.id].s<x.s) uniq[x.k.id]=x; });
-  return Object.values(uniq).sort((x,y)=>y.s-x.s).slice(0,limit);
+  const hepsi=!alanlar||!alanlar.length;
+  let ad=D.kar.map((k,i)=>{ const a=hepsi?k.alanlar[0]:alanlar.find(x=>k.alanlar.includes(x)); if(!a) return null;
+      let sc=ms[i]*kWeight(k,a); if(a==='KIRA' && k.maddeler.some(m=>artNos.has(m))) sc*=1.3;
+      return sc>0 && (donem==='all'||k.donem===donem) ? {k, s:sc, alan:a} : null; }).filter(Boolean).sort((x,y)=>y.s-x.s);
+  if(metinsiz) return ad.slice(0,limit).map(x=>({...x, chunks:[]}));
+  // en fazla 6 metin paketi indir: önce en iyi adaylar, sonra zaten indirilecek paketlerdeki adaylar
+  { const sec=[], pak=new Set(); for(const x of ad){ if(sec.length>=Math.max(20,limit*5)) break; const b=x.k.b;
+      if(pak.has(b) || pak.size<6 || KBY[x.k.id].metin){ pak.add(b); sec.push(x); } } ad=sec; }
+  try{ await kMetin(ad.map(x=>x.k.id)); }catch(e){ return ad.slice(0,limit).map(x=>({...x, chunks:[]})); }
+  const ch=ad.flatMap(x=>parcala(x.k).map(c=>({...c, x}))); ch.forEach(c=>c.t=toks(c.text));
+  const cs=ch.length?bm25Index(ch)(qt):[]; const best=new Map();
+  ch.forEach((c,i)=>{ const b=best.get(c.x)||{s:0,chunks:[]}; if(cs[i]>b.s) b.s=cs[i]; if(cs[i]>0) b.chunks.push({s:cs[i],text:c.text}); best.set(c.x,b); });
+  return ad.map(x=>{ const b=best.get(x)||{s:0,chunks:[]}; return {k:x.k, alan:x.alan, s:(b.s*kWeight(x.k,x.alan)+1.6*x.s), chunks:b.chunks.sort((p,q)=>q.s-p.s).slice(0,2).map(c=>c.text)}; })
+    .filter(x=>x.s>3).sort((x,y)=>y.s-x.s).slice(0,limit);
 }
 const trDate = s=>s? s.split('-').reverse().join('.') : 'tarih yok';
-const BASLANGIC_AD = {KIRA:'1981 öncesi · eski kira mevzuatı', AILE:'1998 öncesi · eski aile mevzuatı', IS:'1992 öncesi · eski iş mevzuatı', TUKETICI:'2003 öncesi', TRAFIK:'1974 öncesi', KAT:'2010 öncesi · eski Kat Mülkiyeti Yasası (63/1987)', CEZA:'eski dönem', BORCLAR:'eski dönem', USUL:'eski dönem', MIRAS:'eski dönem', SIRKET:'eski dönem'};
+const BASLANGIC_AD = {KIRA:'1981 öncesi · eski kira mevzuatı', AILE:'1998 öncesi · eski aile mevzuatı', IS:'1992 öncesi · eski iş mevzuatı', TUKETICI:'2003 öncesi', TRAFIK:'1974 öncesi', KAT:'2010 öncesi · eski Kat Mülkiyeti Yasası (63/1987)', CEZA:'eski dönem', BORCLAR:'eski dönem', USUL:'eski dönem', MIRAS:'eski dönem', SIRKET:'eski dönem', IDARE:'eski dönem', ANAYASA:'eski dönem', SECIM:'eski dönem', AIHM:'eski dönem', DIGER:'eski dönem'};
 function sonrakiDegisiklikler(k, alan){
   const yil=+(k.tarih||'0').slice(0,4); if(!yil) return [];
   return LAWS.filter(l=>LAW2ALAN[l.kod]===alan && !l.kira).flatMap(l=>(l.kontrol||[]).filter(c=>+c.yasa.split('/')[1]>yil).map(c=>c.yasa));
@@ -445,12 +452,13 @@ function kararCard(k, excerpt, id, alan){
     rvBar('karar:'+k.id,'karar',k.tur+' '+trDate(k.tarih)+' — '+(k.taraflar||''))+
   '</article>';
 }
-document.addEventListener('toggle',e=>{ const d=e.target; if(!d.classList||!d.classList.contains('kfull')||!d.open) return;
-  const p=d.querySelector('[data-k]'); if(p && !p.textContent && KBY[p.dataset.k]) p.textContent=KBY[p.dataset.k].metin; },true);
+document.addEventListener('toggle',async e=>{ const d=e.target; if(!d.classList||!d.classList.contains('kfull')||!d.open) return;
+  const p=d.querySelector('[data-k]'); if(!p || p.textContent || !KBY[p.dataset.k]) return;
+  if(!KBY[p.dataset.k].metin){ p.textContent='Yükleniyor…'; try{ await kMetin([p.dataset.k]); }catch(err){ p.textContent='Karar metni yüklenemedi.'; return; } }
+  p.textContent=KBY[p.dataset.k].metin; },true);
 function showCases(found, alanlar){
-  if(!alanlar || !alanlar.length){ $('#cases').innerHTML='<p class="muted small" style="margin:0">Bu soru için karar alanı belirlenemedi.</p>'; return; }
   $('#cases').innerHTML = found.length ? found.map(x=>kararCard(x.k, x.chunks[0], 'k-'+x.k.id, x.alan)).join('')
-    : '<p class="muted small" style="margin:0">Bu soruyla eşleşen karar bulunamadı ('+esc(alanlar.map(a=>ALAN_AD[a]).join(', '))+' kararları arandı).</p>'; rvStats();
+    : '<p class="muted small" style="margin:0">Bu soruyla eşleşen karar bulunamadı ('+(alanlar&&alanlar.length?esc(alanlar.map(a=>ALAN_AD[a]).join(', '))+' kararları':'tüm kararlar')+' arandı).</p>'; rvStats();
 }
 
 /* ---------- avukat incelemesi (paylaşılan kayıt: db) ---------- */
@@ -537,7 +545,7 @@ function lawLink(no){ const f=LAWFILE[no]; return f?'<a href="http://cm.gov.ct.t
 function sheet(a, tag){
   const am = a.amendments.map(m=>'<div class="amd"><div class="who">'+esc(m.law)+'</div><div class="what">'+esc(m.change)+'</div>'+(m.new_text?'<p class="txt">'+esc(m.new_text)+'</p>':'')+'</div>').join('');
   const L=LAWBY[a.law];
-  const src = L.otomatik ? 'Kaynak: <a href="'+esc(L.url)+'" target="_blank" rel="noopener">Yüksek Mahkeme birleştirilmiş resmî metni</a> · '+(L.parca?'madde numaraları okunamadı, sıralı parça':'madde sınırları otomatik belirlendi')+(L.ocr?' · taranmış belgeden yazı tanıma ile okundu, kelime hataları olabilir':'')+(L.en?' · metin İngilizce (1959 öncesi sömürge dönemi baskısı olabilir; güncel Türkçe metni ayrıca kontrol edin)':'')+' · avukat incelemesinden geçmedi'
+  const src = L.otomatik ? 'Kaynak: <a href="'+esc(L.url)+'" target="_blank" rel="noopener">Yüksek Mahkeme birleştirilmiş resmî metni</a> · '+(L.parca?'madde numaraları okunamadı, sıralı parça':'madde sınırları otomatik belirlendi')+(L.ocr?' · taranmış belgeden yazı tanıma ile okundu, kelime hataları olabilir':'')+(L.en?' · metin İngilizce (1959 öncesi sömürge dönemi baskısı olabilir; güncel Türkçe metni ayrıca kontrol edin)':'')+(L.gy&&L.gy.length?' · <b>dikkat: Meclis kataloğunda bu yasanın '+esc(L.gy.join(', '))+' sayılı değişikliği görünüyor ama metinde geçmiyor; metin eski olabilir</b>':'')+' · avukat incelemesinden geçmedi'
     : L.kira ? 'Kaynak: '+lawLink('17/1981')+(a.amendments.length?' · '+a.amendments.map(m=>lawLink(m.law.split(' ')[0])).join(' · '):'')+' · resmî birleştirilmiş metinle karşılaştırıldı'
     : L.ayri ? 'Kaynak: <a href="'+esc(L.url)+'" target="_blank" rel="noopener">Meclis arşivi esas metin</a> + değişiklik yasaları ('+esc((L.kontrol||[]).map(c=>c.yasa).join(', '))+'); resmî birleştirilmiş metin bulunamadı'
     : 'Kaynak: <a href="'+esc(L.url)+'" target="_blank" rel="noopener">Yüksek Mahkeme birleştirilmiş resmî metni</a> · Meclis\'teki son değişiklik ('+esc(L.son||'-')+') metne işlenmiş';
@@ -560,7 +568,7 @@ function promptFor(q, list, cases){
   const blocks = list.map(a=>{
     const L=LAWBY[a.law];
     let b = '### '+a.cid+' — '+L.ad+' ('+L.no+') '+mLabel(a)+' ('+a.title+') [durum: '+a.status+']\n';
-    if(L.otomatik){ b+='METİN (Yüksek Mahkeme birleştirilmiş resmî metni; madde sınırları otomatik belirlendi'+(L.parca?', bu bir sıralı parçadır, madde numarası okunamadı':'')+(L.ocr?'; taranmış belgeden yazı tanıma ile okundu, kelime hataları olabilir':'')+(L.en?'; metin İngilizce, eski baskı olabilir':'')+'):\n'+(a.text.length>5000?a.text.slice(0,5000)+' [...]':a.text); }
+    if(L.otomatik){ b+='METİN (Yüksek Mahkeme birleştirilmiş resmî metni; madde sınırları otomatik belirlendi'+(L.parca?', bu bir sıralı parçadır, madde numarası okunamadı':'')+(L.ocr?'; taranmış belgeden yazı tanıma ile okundu, kelime hataları olabilir':'')+(L.en?'; metin İngilizce, eski baskı olabilir':'')+(L.gy&&L.gy.length?'; UYARI: Meclis kataloğunda '+L.gy.join(', ')+' sayılı değişiklik(ler) var ama bu metinde geçmiyor, metin güncel olmayabilir':'')+'):\n'+(a.text.length>5000?a.text.slice(0,5000)+' [...]':a.text); }
     else if(L.kira || L.ayri){ b+='ESAS METİN:\n'+a.text; a.amendments.forEach(m=>{ b+='\n\nDEĞİŞİKLİK ('+m.law+'): '+m.change+(m.new_text?'\nYENİ METİN: '+m.new_text:''); }); }
     else b+='GÜNCEL METİN (değişikliklerle birleştirilmiş resmî metin; satır başlarındaki "34/2015" gibi notlar o kısmı değiştiren yasayı gösterir):\n'+(a.text.length>6000?a.text.slice(0,6000)+' [...]':a.text);
     return b;
@@ -670,7 +678,7 @@ async function tumYasa(y){
   const kod='Y'+y.p;
   if(!LAWBY[kod]){
     const P=await tumPaket(y.b); const ms=P[String(y.p)]||[];
-    const L={kod,no:(y.tz?'Tüzük ':'')+y.n,ad:y.a,kisa:kisaAd(y.a),alan:'',url:y.u,otomatik:true,ocr:!!y.o,en:!!y.en,tuzuk:!!y.tz,parca:y.y==='parca',kontrol:[]};
+    const L={kod,no:(y.tz?'Tüzük ':'')+y.n,ad:y.a,kisa:kisaAd(y.a),alan:'',url:y.u,otomatik:true,ocr:!!y.o,en:!!y.en,tuzuk:!!y.tz,gy:y.gy||[],parca:y.y==='parca',kontrol:[]};
     LAWBY[kod]=L;
     L.arts=ms.map(m=>{ const a={law:kod, cid:cidOf(kod,m.no), no:m.no, title:m.baslik||(y.y==='parca'?'(metin parçası)':'(başlıksız madde)'), text:m.metin, amendments:[], notes:[], status:m.kaldirildi?'kaldırıldı':'metin (otomatik)'};
       if(!BYCID[a.cid]){ BYCID[a.cid]=a; ARTS.push(a); } return a; });
@@ -808,7 +816,7 @@ async function renderKar(){
   const q=$('#kq').value.trim();
   $('#kstats').textContent='Yükleniyor…';
   let S; try{ S=await loadArea(kAlan); }catch(e){ $('#kstats').textContent='Karar dosyası yüklenemedi.'; return; }
-  const list = q ? (await searchCases(q, [], 400, 'all', [kAlan])).map(x=>({k:x.k, ex:x.chunks[0]})) : S.kar.map(k=>({k, ex:''}));
+  const list = q ? (await searchCases(q, [], 400, 'all', [kAlan], true)).map(x=>({k:x.k, ex:x.k.ozet||''})) : S.kar.slice().sort((a,b)=>(b.tarih||'').localeCompare(a.tarih||'')).map(k=>({k, ex:''}));
   $('#kstats').textContent=list.length+' karar gösteriliyor · '+ALAN_AD[kAlan]+' alanında toplam '+S.kar.length+' · kaynak: Yüksek Mahkeme, alındı '+trDate(KMETAINFO.alindi);
   $('#klist').innerHTML = list.length ? list.slice(0,kLimit).map(x=>kararCard(x.k, x.ex, '', kAlan)).join('') : '<p class="state">Eşleşen karar yok.</p>';
   $('#kmore').hidden = list.length<=kLimit; rvStats();

@@ -30,10 +30,17 @@ ALANLAR = {
     'SIRKET': (r'Fasıl\s*113\b|Şirketler Yasası', r'Şirketler Yasası|Fasıl\s*113\b', 2),
 }
 # yasanın yürürlük başlangıcı: daha önceki kararlar "eski mevzuat dönemi"
-BASLANGIC = {'KAT': '2010-07-12', 'KIRA': '1981-04-14', 'AILE': '1998-01-01', 'IS': '1992-05-12', 'TUKETICI': '2003-06-03', 'TRAFIK': '1974-10-25', 'CEZA': '1900-01-01', 'BORCLAR': '1900-01-01', 'USUL': '1900-01-01', 'MIRAS': '1900-01-01', 'SIRKET': '1900-01-01'}
+BASLANGIC = {'KAT': '2010-07-12', 'KIRA': '1981-04-14', 'AILE': '1998-01-01', 'IS': '1992-05-12', 'TUKETICI': '2003-06-03', 'TRAFIK': '1974-10-25', 'CEZA': '1900-01-01', 'BORCLAR': '1900-01-01', 'USUL': '1900-01-01', 'MIRAS': '1900-01-01', 'SIRKET': '1900-01-01', 'IDARE': '1900-01-01', 'ANAYASA': '1900-01-01', 'SECIM': '1900-01-01', 'AIHM': '1900-01-01', 'DIGER': '1900-01-01'}
 
+DOSYA = {}
+_dd = os.path.join(REPO, 'veri/mahkemeler/karar-dosya-kayit')
+if os.path.isdir(_dd):
+    for _f in os.listdir(_dd): DOSYA.update(json.load(open(os.path.join(_dd, _f))))
 def oku(k):
     p = k.get('metin_dosyasi')
+    if not p:
+        d = DOSYA.get(str(k['Pkey']))
+        if d and d.get('durum') == 'tamam': p = d['metin_dosyasi']; k['_yontem'] = d.get('yontem')
     return open(os.path.join(REPO, p), encoding='utf-8').read() if p else ''
 
 def sade(t):
@@ -80,7 +87,9 @@ for k in liste['kayitlar']:
             continue
         if re.search(mp, meta, re.I) or len(re.findall(tp, metin, re.I)) >= en_az:
             alanlar.append(a)
-    if not alanlar: continue
+    TUR_ALAN = {'Yim': 'IDARE', 'Yim İstinaf': 'IDARE', 'Anayasa Mahkemesi': 'ANAYASA', 'Yüksek Seçim Kurulu': 'SECIM', 'Avrupa İnsan Hakları Mahkemesi': 'AIHM'}
+    if tur in TUR_ALAN: alanlar.append(TUR_ALAN[tur])
+    if not alanlar: alanlar.append('DIGER')
     tarih = (k.get('Tarih') or '')[:10]
     out.append({
         'id': 'K' + str(k['Pkey']), 'tarih': tarih, 'tur': tur,
@@ -92,7 +101,7 @@ for k in liste['kayitlar']:
         'eski': [a for a in alanlar if tarih and tarih < BASLANGIC[a]],
         'donem': kira_donem(tarih) if 'KIRA' in alanlar else ('bilinmiyor' if not tarih else 'yasa'),
         'maddeler': kira_maddeleri(k.get('YasaMadde'), metin) if 'KIRA' in alanlar else [],
-        'metin': sade(metin),
+        'metin': sade(metin), **({'ocr': True} if str(k.get('_yontem') or '').startswith('ocr') else {}),
     })
 
 out.sort(key=lambda x: x['tarih'] or '0', reverse=True)

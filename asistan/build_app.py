@@ -10,15 +10,24 @@ import os
 os.makedirs('app/pub',exist_ok=True)
 alanlar={}
 import glob
-for f in glob.glob('app/pub/kararlar-*.json'): os.remove(f)
-for a in ['KIRA','AILE','IS','TUKETICI','TRAFIK','KAT','CEZA','BORCLAR','USUL','MIRAS','SIRKET']:
-    xs=[x for x in kar['kararlar'] if a in x['alanlar']]
-    top=sum(len(x['metin'].encode()) for x in xs); np_=max(1,-(-top//6_000_000))
-    parcalar=[xs[i::np_] for i in range(np_)]
-    adlar=[f'kararlar-{a}.json'] if np_==1 else [f'kararlar-{a}-{i+1}.json' for i in range(np_)]
-    for ad,ps in zip(adlar,parcalar):
-        json.dump({'alan':a,'kaynak':kar['kaynak'],'alindi':kar['alindi'],'kararlar':ps},open('app/pub/'+ad,'w',encoding='utf-8'),ensure_ascii=False)
-    alanlar[a]={'adet':len(xs),'parca':np_,'bayt':sum(os.path.getsize('app/pub/'+ad) for ad in adlar)}
+for f in glob.glob('app/pub/kararlar-*.json')+glob.glob('app/pub/karar-*.json'): os.remove(f)
+# kararlar: küçük künye dizini + metin paketleri (yalnızca gereken paketler indirilir)
+SIRA = ['KIRA','AILE','IS','TUKETICI','TRAFIK','KAT','CEZA','BORCLAR','USUL','MIRAS','SIRKET','IDARE','ANAYASA','SECIM','AIHM','DIGER']
+ks = sorted(kar['kararlar'], key=lambda k: (SIRA.index(k['alanlar'][0]) if k['alanlar'][0] in SIRA else 99, k['tarih'] or ''))
+paketler, pk, boy = [], {}, 0
+dizin = []
+for k in ks:
+    b = len(k['metin'].encode())
+    if boy + b > 1_500_000 and pk: paketler.append(pk); pk, boy = {}, 0
+    pk[k['id']] = k['metin']; boy += b
+    m = {x: v for x, v in k.items() if x != 'metin'}
+    if m.get('ozet') and len(m['ozet']) > 700: m['ozet'] = m['ozet'][:700] + ' …'
+    m['b'] = len(paketler); dizin.append(m)
+if pk: paketler.append(pk)
+for i_, p_ in enumerate(paketler): json.dump(p_, open(f'app/pub/karar-p{i_}.json','w',encoding='utf-8'), ensure_ascii=False)
+json.dump({'kaynak':kar['kaynak'],'alindi':kar['alindi'],'kararlar':dizin}, open('app/pub/karar-dizin.json','w',encoding='utf-8'), ensure_ascii=False)
+alanlar={a:{'adet':sum(1 for k in ks if a in k['alanlar'])} for a in SIRA}
+print('karar paketi', len(paketler), 'dizin MB', round(os.path.getsize('app/pub/karar-dizin.json')/1e6,2))
 meta={'alindi':kar['alindi'],'baslangic':kar['baslangic'],'alanlar':alanlar}
 for k,v in [('__DATA__',d),('__EXAMPLE__',ex),('__CATALOG__',cat),('__KARARLAR__',meta),('__MEVZUAT__',mv)]: html=html.replace(k,enc(v))
 print(alanlar)

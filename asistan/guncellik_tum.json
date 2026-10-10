@@ -1,0 +1,9247 @@
+[
+{
+"pkey": 3,
+"numara": "27/1987",
+"ad": "1963-1974 Döneminde YapılanTaşınmaz Mal Satış Ve Devir İşlemlerini Düzenleyen Yasa",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 4,
+"numara": "59/1999",
+"ad": "1966 Gemilerin Yükleme Sınırlarıını Belirleyen Uluslararası Kurallar Sözleşmesi (ONAY) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 5,
+"numara": "63/1999",
+"ad": "1969 Gemilerin Tonilatolarını Ölçme Uluslararası Sözleşme (ONAY) Yasas",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 6,
+"numara": "34/1970",
+"ad": "1970 İvazsız Kazançlar Vergi  Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 7,
+"numara": "31/1970",
+"ad": "1970 Vakıflar ve Din İşleri Dairesi Teşkilat Kuralı (73/1991 ile yürürlükten kaldırıldı)",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 8,
+"numara": "53/2008",
+"ad": "1974 Uluslararası Denizde Can Emniyeti Sözleşmesi ve Değişiklikleri ile Uluslararası Denizde Can Emniyeti Sözleşmesine Ait 1978 ve 1988 Protokolleri ve Değişikliklerinin Onaylanmasının Uygun Bulunmasına İlişkin Yasa",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 10,
+"numara": "17/2010",
+"ad": "2009 Yılında Yasalaşan Bazı Yasaların Yürürlükten Kaldırılmasına İlişkin Yasa",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 11,
+"numara": "55/2015",
+"ad": "2016 Mali Yılı Bütçe Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 12,
+"numara": "34/2017",
+"ad": "2017 Haziran Ara Seçimlerinin İptal Edilmesi (Geçici Kurallar) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 13,
+"numara": "51/2020",
+"ad": "2020 Mali Yılı Bütçe Yasası Hakkında Yasa Gücünde Kararname (No.3)ün Yürürlükten Kaldırılmasına İlişkin Yasa",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 14,
+"numara": "51/2020",
+"ad": "2020 Mali Yılı Bütçe Yasası Hakkında Yasa Gücünde Kararname (No:3)ün Yürürlükten Kaldırılmasına İlişkin Yasa",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 15,
+"numara": "42/2020",
+"ad": "2020 Mali Yılı Ek Bütçe Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 16,
+"numara": "4/2022",
+"ad": "2022 Mali Yılı Ek Bütçe Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 17,
+"numara": "51/2023",
+"ad": "2023 Mali Yılı Ek Bütçe Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 18,
+"numara": "16/2010",
+"ad": "31 Aralık 2009 Tarihinden önce ve 31 Aralık 2009 Tarihinde Sona Eren Av Ruhsatı Sahibi KKTC Yurttaşlarının 1 Ocak 2010 Tarihinden 5 Mart 2010 Tarihine Kadar Alacakları Av Ruhsatı Karşılığı Ödenmesi Gerekli Harç Miktarları Hk Yasa",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 19,
+"numara": "59/2018.pdf",
+"ad": "59/2018 sayılı yasanın ek protokolü",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 20,
+"numara": "29/2009",
+"ad": "65/2005 Sayılı KKTC Yükseköğretim Yasası Tahtında Faaliyet Gösteren Yükseköğretim Kurumlarından İlişiği Kesilenlere Öğrenimlerine Devam Edebilme Hakkı Verilmesine İlişkin (Geçici Kurallar) Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"40/2011",
+"42/2015",
+"30/2018",
+"30/2022"
+],
+"metinde_yok": []
+},
+{
+"pkey": 22,
+"numara": "Fasıl 87",
+"ad": "Adaçayı Yaprakları ( Koruma ) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 23,
+"numara": "Fasıl 100",
+"ad": "Ağaç Dikilmesi ( Köy Bölgeleri) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 24,
+"numara": "1/1998",
+"ad": "Aile (Evlenme ve Boşanma) Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"34/2015",
+"5/2019",
+"46/2023"
+],
+"metinde_yok": []
+},
+{
+"pkey": 25,
+"numara": "33/1977",
+"ad": "Akaryakıt (Depolama, Nakliye Ve Satış) Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"34/2025"
+],
+"metinde_yok": []
+},
+{
+"pkey": 26,
+"numara": "Fasıl 252",
+"ad": "Akıl Hastaları Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 27,
+"numara": "4/1969",
+"ad": "Alacaklıların Haklarına Halel Getirebilecek  Mal Yürütmelerine Engel Olan Kural",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 28,
+"numara": "19/2003",
+"ad": "Alçak Orman Arazilerinin Devri ve İcarı Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"31/2026"
+],
+"metinde_yok": []
+},
+{
+"pkey": 29,
+"numara": "Fasıl 144",
+"ad": "Alkollü  İçkiler Satış Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"3/2005",
+"90/2007"
+],
+"metinde_yok": []
+},
+{
+"pkey": 30,
+"numara": "88/2009",
+"ad": "Ambalajlanmış Kaynak Suyu ve İçme Suyu Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 31,
+"numara": "88/2009",
+"ad": "Ambalajlanmış Kaynak Suyu ve İçme Suyu Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 32,
+"numara": "Fasıl 208",
+"ad": "Amme İkrazları Yasası",
+"durum": "tamam",
+"degisiklikler": [],
+"metinde_yok": []
+},
+{
+"pkey": 33,
+"numara": "21/1962",
+"ad": "Âmme Menfaati Yararına Maksatlar İçin Mala Elkoyma Hakkında Kanun",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 34,
+"numara": "28/2020",
+"ad": "Anayasa Değişikliğine İlişkin Halkoylaması (Geçici ve Özel Kurallar) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 38,
+"numara": "23/2010",
+"ad": "Anayasa Değişikliğine İlişkin Yasa",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 39,
+"numara": "33/2020",
+"ad": "Anayasa Değişikliğine İlişkin Yasa",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 40,
+"numara": "13/2008",
+"ad": "Anayasanın 159'uncu Maddesinin (1)'inci Fıkrasının (b) bendi kapsamına Giren, Kuzey Kıbrıs Türk Cumhuriyeti Hukukuna Göre Mülkiyet Hakkı Herhangi Bir Gerçek veya Devlet Dışındaki Tüzel Kişiye Ait Olmayan ve Tasarruf Hakkı Halen Bir Gerçek veya Tüzel Kişiy",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 41,
+"numara": "47/2014",
+"ad": "Anayasanın Değişikliğine İlişkin Yasa",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 42,
+"numara": "47/2014",
+"ad": "Anayasanın Değişikliğine İlişkin Yasa",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 44,
+"numara": "Fasıl 336",
+"ad": "Araç Işıkları Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"56/2005",
+"6/2014"
+],
+"metinde_yok": []
+},
+{
+"pkey": 45,
+"numara": "Fasıl 335",
+"ad": "Araçlar  ve  Trafik  Dûzenleme  Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"55/2005",
+"8/2014"
+],
+"metinde_yok": []
+},
+{
+"pkey": 46,
+"numara": "16/2019",
+"ad": "Araştırma Geliştirme ve Tasarım Faaliyetlerinin Desteklenmesi Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 47,
+"numara": "Fasıl 232",
+"ad": "Arazi Satışı (Aynen İfa) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 48,
+"numara": "6/1979",
+"ad": "Arazi Yangınları  İle  Mücadele Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"88/2007"
+],
+"metinde_yok": []
+},
+{
+"pkey": 50,
+"numara": "22/1975",
+"ad": "Asgari Ücretler Yasası",
+"durum": "tamam",
+"degisiklikler": [],
+"metinde_yok": []
+},
+{
+"pkey": 51,
+"numara": "29/1983",
+"ad": "Askeri Suç Ve Cezalar Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"50/2006",
+"8/2009"
+],
+"metinde_yok": []
+},
+{
+"pkey": 52,
+"numara": "5/1979",
+"ad": "Askeri Yasak Bölgeler Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 53,
+"numara": "59/2000",
+"ad": "Askerlik Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"5/2005",
+"22/2008",
+"28/2008",
+"35/2009",
+"13/2012",
+"64/2014",
+"6/2015",
+"64/2017",
+"65/2017",
+"46/2020",
+"12/2021",
+"16/2024",
+"52/2025",
+"12/2026"
+],
+"metinde_yok": []
+},
+{
+"pkey": 54,
+"numara": "Fasıl 69",
+"ad": "At Üretimi Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 55,
+"numara": "60/2000",
+"ad": "Atatürk Öğretmen Akademisi Kuruluş Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"81/2009",
+"32/2013",
+"5/2015",
+"44/2015",
+"21/2020",
+"25/2024",
+"37/2024"
+],
+"metinde_yok": []
+},
+{
+"pkey": 56,
+"numara": "19/2011",
+"ad": "Atatürk Öğretmen Akademisi Kuruluş Yasasında Hayat Pahalılığı Ödeneği Hakkını Düzenleyen 36 ıncı Maddenin Uygulanmasının Durdurulmasına İlişkin (Geçici Kurallar) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 57,
+"numara": "10/2015",
+"ad": "Atatürk Öğretmen Akademisi Kuruluş Yasasında Hayat Pahalılığı Ödeneği Hakkını Düzenleyen 36ncı Maddenin Uygulanmasının Durdurulmasına İlişkin (Geçici Kurallar) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 58,
+"numara": "Fasıl 57",
+"ad": "Ateşli Silahlar Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"1/2010"
+],
+"metinde_yok": []
+},
+{
+"pkey": 59,
+"numara": "Fasıl 213",
+"ad": "Atış Poligonu Alanları Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 60,
+"numara": "18/2009",
+"ad": "Av ve Avla İlgili Yaban Hayatını Düzenleme Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"10/2020",
+"16/2026"
+],
+"metinde_yok": []
+},
+{
+"pkey": 61,
+"numara": "27/1996",
+"ad": "Avrasya Ülkeleri Kadınlar İşbirliği Grubu Kurulmasına İlişkin Protokol (Onay) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 63,
+"numara": "59/2011",
+"ad": "Avrupa Konseyi Çocukların Cinsel Sömürü ve İstismara Karşı Korunması Sözleşmesi (Onay) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 64,
+"numara": "Fasıl 3",
+"ad": "Avukat Katipleri Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 65,
+"numara": "Fasıl 2",
+"ad": "Avukatlar Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"6/2006",
+"56/2010",
+"60/2023"
+],
+"metinde_yok": []
+},
+{
+"pkey": 66,
+"numara": "36/1986",
+"ad": "Bakanlar Kurulu Genel Sekreterliği Kuruluş, Görev Ve Çalışma Esasları Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 67,
+"numara": "29/2010",
+"ad": "Bakanlar Kurulu Tarafından Kabul Edilen SelYangınDeprem Gibi Doğal Afet Yaşayan Bölgelerde İş Yapan Gerçek Veya Tüzel Kişilere Poliçeler Yasasının 74B ve 74C Maddelerindeki Sürelerin Geçici Olarak Farklı Uygulanması Hakkında Yasa",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 68,
+"numara": "23/1962",
+"ad": "Bakanlar Kuruluna Veya Bir Bakana Veya Cumhuriyet Dahilinde Bağımsız Bir Memur Veya Başka Bir Makama Ait Olan Yasal Görevlerin Bir Bakana Veya  Cumhuriyet  Dahilinde  Başka  Uygun  Bir Makama  Devredilmesine Yetki Veren Yasa",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 69,
+"numara": "57/1977",
+"ad": "Bakanlıkların Kuruluş İlkeleri Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"23/2006",
+"35/2006",
+"61/2006",
+"25/2009",
+"54/2011",
+"26/2016"
+],
+"metinde_yok": []
+},
+{
+"pkey": 70,
+"numara": "34/1975",
+"ad": "Balıkçı Gemileri(Tescil, Satış, Devir Ve İpotek) Yasası",
+"durum": "tamam",
+"degisiklikler": [],
+"metinde_yok": []
+},
+{
+"pkey": 71,
+"numara": "58/2014",
+"ad": "Banka Kartları ve Kredi Kartları Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"5/2016"
+],
+"metinde_yok": []
+},
+{
+"pkey": 72,
+"numara": "Fasıl 123",
+"ad": "Banka Tatilleri Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 73,
+"numara": "21/1992",
+"ad": "Banka Ve Sigorta İşlemleri Vergisi Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"72/2007",
+"47/2008"
+],
+"metinde_yok": []
+},
+{
+"pkey": 74,
+"numara": "44/1993",
+"ad": "Bankalarca, Bugüne Kadar Tamamlanmış Yada Tamamlanmamış Projelere Verilmiş Olup Dönüşünde Zorluk Bulunan Kredilerin, Kalkınma Bankası Yönetim Kurulunca Uygun Görülmesi Halinde Devralınması Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 76,
+"numara": "44/2007",
+"ad": "Basın İş Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"32/2011"
+],
+"metinde_yok": []
+},
+{
+"pkey": 77,
+"numara": "Fasıl 79",
+"ad": "Basın Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"48/2006"
+],
+"metinde_yok": []
+},
+{
+"pkey": 78,
+"numara": "7/2010",
+"ad": "Başbakanlık Denetleme Kurulu (Kuruluş Görev ve Yetkileri) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 79,
+"numara": "49/2024",
+"ad": "Başbakanlık ve Merkez Kuruluşu (Kuruluş Görev ve Çalışma Esasları) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 80,
+"numara": "Fasıl 258",
+"ad": "Bataklık Alanların Tarımsal Ve Diğer Amaçlar  İçin Kamulaştırılarak Tarıma Elverişli  Bir Duruma Getirilmeleri Yoluyla Kamu Sağlığının Geliştirilmesini Öngören Yasa",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 81,
+"numara": "50/1983",
+"ad": "Bayrak Radyo – Televizyon Kurumu Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"40/2023",
+"51/2026"
+],
+"metinde_yok": []
+},
+{
+"pkey": 82,
+"numara": "39/1975",
+"ad": "Bazı İsim Ve Deyimlerin Kullanılmasını Kısıtlayan Yasa",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 84,
+"numara": "25/1998",
+"ad": "Bazı Yasalarda  Yer Alan Tefsir Ve Yürütme Yetkisi Maddeleri İle İlgili Özel Kural Ve Yetki Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 85,
+"numara": "45/2001",
+"ad": "Bazı Yasaların Yürürlükten Kaldırılmasına İlişkin Yasa",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 86,
+"numara": "67/1999",
+"ad": "Beden Eğitimi Ve Spor Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"12/2011"
+],
+"metinde_yok": []
+},
+{
+"pkey": 87,
+"numara": "65/2007",
+"ad": "Belediye Personel Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"27/2009",
+"26/2010"
+],
+"metinde_yok": []
+},
+{
+"pkey": 89,
+"numara": "15/2022",
+"ad": "Belediyelerin Birleştirilmesine İlişkin (Özel) Yasa",
+"durum": "tamam",
+"degisiklikler": [
+"48/2023",
+"68/2023",
+"12/2024"
+],
+"metinde_yok": []
+},
+{
+"pkey": 90,
+"numara": "44/1995",
+"ad": "Beşparmak Dağları Yangını Özel Fon Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 91,
+"numara": "12/2006",
+"ad": "Bilgi Edinme Hakkı Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"27/2014"
+],
+"metinde_yok": []
+},
+{
+"pkey": 92,
+"numara": "4/2016",
+"ad": "Bilgi Teknolojileri ve Haberleşme Kurumu 2016 Mali Yılı Bütçe Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 93,
+"numara": "32/2020",
+"ad": "Bilişim Suçları Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 94,
+"numara": "18/2022",
+"ad": "Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi (Onay) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 95,
+"numara": "6/1961",
+"ad": "Birlikler Ve Dernekler Yasası",
+"durum": "tamam",
+"degisiklikler": [],
+"metinde_yok": []
+},
+{
+"pkey": 96,
+"numara": "20/2015",
+"ad": "Bitki Sağlığı Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 97,
+"numara": "20/2015",
+"ad": "Bitki Sağlığı Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 98,
+"numara": "12/2013",
+"ad": "Borç İlişkilerinden Kaynaklanıp Tahsili Geciken ve/veya Tahsil Edilemez Hale Gelen Borçların Ekonomik İyileştirme Kapsamında Yeniden Yapılandırılması Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 99,
+"numara": "29/2013",
+"ad": "Borç İlişkilerinden Kaynaklanıp Tahsili Geciken ve/veya Tahsil Edilemez Hale Gelen Borçların Yapılandırılması Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"48/2014"
+],
+"metinde_yok": []
+},
+{
+"pkey": 100,
+"numara": "4/2013",
+"ad": "Boşalan Lefkoşa Türk Belediyesi Başkanlığı İçin Haziran 2013 Tarihinde Yapılması Gereken Ara Seçimin 7 Nisan 2013 Tarihinde Yapılmasına Olanak Veren Lefkoşa Türk Belediyesi Başkanı Seçim (Özel) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 101,
+"numara": "34/1981",
+"ad": "Bölge Koruma Birlikleri Yasası",
+"durum": "tamam",
+"degisiklikler": [],
+"metinde_yok": []
+},
+{
+"pkey": 102,
+"numara": "45/2018",
+"ad": "Bulaşıcı Hastalıklar Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"53/2020",
+"8/2021"
+],
+"metinde_yok": []
+},
+{
+"pkey": 103,
+"numara": "45/1987",
+"ad": "Bütçe Dairesi (Kuruluş, Görev Ve Çalışma Esasları) Yasası",
+"durum": "tamam",
+"degisiklikler": [],
+"metinde_yok": []
+},
+{
+"pkey": 104,
+"numara": "40/2016",
+"ad": "Casino İşletmecileri Birliği Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 106,
+"numara": "Fasıl 154",
+"ad": "Ceza  Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"41/2007",
+"20/2014",
+"45/2014",
+"26/2018",
+"14/2020",
+"65/2024",
+"17/2025",
+"24/2026"
+],
+"metinde_yok": []
+},
+{
+"pkey": 107,
+"numara": "Fasıl 155",
+"ad": "Ceza Muhakemeleri Usulü Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"68/2007",
+"26/2020",
+"32/2026"
+],
+"metinde_yok": []
+},
+{
+"pkey": 108,
+"numara": "Fasıl 286",
+"ad": "Cezaevi Disiplin Yasası",
+"durum": "tamam",
+"degisiklikler": [],
+"metinde_yok": []
+},
+{
+"pkey": 109,
+"numara": "100/2007",
+"ad": "Coğrafi İşaretlerin ve Geleneksel Özellikli Ürün Adlarının Korunması Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 110,
+"numara": "28/1978",
+"ad": "Coğrafya İsimlerinin Standartlaştırılması Yasası",
+"durum": "tamam",
+"degisiklikler": [],
+"metinde_yok": []
+},
+{
+"pkey": 112,
+"numara": "41/2014",
+"ad": "Cumhurbaşkanlığı Senfoni Orkestrası (Kuruluş Görev ve Çalışma Esasları) Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"51/2017"
+],
+"metinde_yok": []
+},
+{
+"pkey": 113,
+"numara": "46/1997",
+"ad": "Cumhuriyet Meclisi Genel Sekreterliği Örgütü (Kuruluş, Görev Ve Yonetim İlkeleri) Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"27/2012",
+"6/2013",
+"45/2023",
+"75/2023"
+],
+"metinde_yok": []
+},
+{
+"pkey": 114,
+"numara": "35/2000",
+"ad": "Çalışma Dairesi (Kuruluş, Görev ve Çalışma Esasları) Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"32/2017"
+],
+"metinde_yok": []
+},
+{
+"pkey": 116,
+"numara": "Fasıl 33",
+"ad": "Çanlar (Düzenleme) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 118,
+"numara": "64/1994",
+"ad": "Çevre Alanında  İşbirliği Antlaşması (Onay) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 119,
+"numara": "10/1989",
+"ad": "Çevre Koruma Dairesi (Kuruluş Görev ve Çalışma Esasları) Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"20/2008"
+],
+"metinde_yok": []
+},
+{
+"pkey": 120,
+"numara": "18/2012",
+"ad": "Çevre Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"30/2014",
+"34/2020",
+"8/2025"
+],
+"metinde_yok": []
+},
+{
+"pkey": 121,
+"numara": "28/1988",
+"ad": "Çıraklık Ve Meslek Eğitimi Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"9/2007",
+"34/2012",
+"29/2014",
+"17/2020"
+],
+"metinde_yok": []
+},
+{
+"pkey": 122,
+"numara": "Fasıl 130",
+"ad": "Çimento Sanayi (Teşvik ve Denetim Yasası)",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 123,
+"numara": "6/1996",
+"ad": "Çocuk Haklarına Dair Sözleşme (Onay) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 124,
+"numara": "f_157.doc",
+"ad": "Çocuk Suçluları Yasası",
+"durum": "tamam",
+"degisiklikler": [],
+"metinde_yok": []
+},
+{
+"pkey": 125,
+"numara": "Fasıl 352",
+"ad": "Çocuklar Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"4/2005",
+"65/2006"
+],
+"metinde_yok": []
+},
+{
+"pkey": 126,
+"numara": "19/2012",
+"ad": "Çukurova Üniversitesinin Kuzey Kıbrıs Türk Cumhuriyetinde Kampus Kurmasına İlişkin Çerçeve Protokolünün Uygun Bulunmasına İlişkin (Onay) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 127,
+"numara": "51/2015",
+"ad": "Daimi İkamet İzni Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"41/2026"
+],
+"metinde_yok": []
+},
+{
+"pkey": 129,
+"numara": "Fasıl 19",
+"ad": "Davacıların Korunması Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 130,
+"numara": "Fasıl 15",
+"ad": "Davalarda Zamanaşımı Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 131,
+"numara": "Fasıl 343",
+"ad": "Değirmenlik Başpınarı İçme  Suyu İslâh Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 132,
+"numara": "Fasıl 344",
+"ad": "Değirmenlik İçme  Suyu Islâh Yasası",
+"durum": "tamam",
+"degisiklikler": [],
+"metinde_yok": []
+},
+{
+"pkey": 133,
+"numara": "Fasıl 289",
+"ad": "Deniz Araçları  İle  Ulaşım Ve Haberleşme Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 134,
+"numara": "45/1963",
+"ad": "Deniz Ticaret (Gemilerin Kaydı,Satış ve İpotekler) Yasası",
+"durum": "tamam",
+"degisiklikler": [],
+"metinde_yok": []
+},
+{
+"pkey": 135,
+"numara": "Fasıl 292",
+"ad": "Deniz Ticaret (Güvenlik Ve Gemiciler) Yasası",
+"durum": "tamam",
+"degisiklikler": [],
+"metinde_yok": []
+},
+{
+"pkey": 136,
+"numara": "46/1963",
+"ad": "Deniz Ticaret (Kaptan ve Gemiciler) Kanunu",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 137,
+"numara": "Fasıl 293",
+"ad": "Deniz Ticaret (Telsiz Telgraf) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 138,
+"numara": "47/1963",
+"ad": "Deniz Ticaret (Vergi Yükleme Hükümleri) Kanunu",
+"durum": "tamam",
+"degisiklikler": [],
+"metinde_yok": []
+},
+{
+"pkey": 139,
+"numara": "63/2005",
+"ad": "Deniz Yetki Alanları Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 140,
+"numara": "Fasıl 304",
+"ad": "Denizaltı Telgraf Kabloları Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 141,
+"numara": "62/1999",
+"ad": "Denizde Arama ve Kurtarma Uluslararası Sözleşmesi 1979 (ONAY) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 142,
+"numara": "57/1999",
+"ad": "Denizde Çatışmayı Önleme Uluslararası Kuralları 1972  (ONAY) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 143,
+"numara": "15/2023",
+"ad": "Deprem ve Diğer Doğal Afetlere Yönelik Mali Yardım ve Hazırlık Yasası",
+"durum": "tamam",
+"degisiklikler": [],
+"metinde_yok": []
+},
+{
+"pkey": 144,
+"numara": "23/2016",
+"ad": "Dernekler Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"37/2017",
+"28/2018"
+],
+"metinde_yok": []
+},
+{
+"pkey": 145,
+"numara": "Fasıl 287",
+"ad": "Destebanlar Yasası",
+"durum": "tamam",
+"degisiklikler": [],
+"metinde_yok": []
+},
+{
+"pkey": 146,
+"numara": "26/1981",
+"ad": "Devlet  Hastahaneleri  (İsimlendirme) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 147,
+"numara": "Fasıl 341",
+"ad": "Devlet  Su  İşleri  Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 148,
+"numara": "11/1990",
+"ad": "Devlet  Üretme Çiftlikleri Dairesi (Kuruluş, Görev Ve Çalışma Esasları) Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"73/2005"
+],
+"metinde_yok": []
+},
+{
+"pkey": 149,
+"numara": "19/1978",
+"ad": "Devlet Basımevi Kuruluş, Görev Ve Çalışma Esasları Yasası",
+"durum": "tamam",
+"degisiklikler": [],
+"metinde_yok": []
+},
+{
+"pkey": 150,
+"numara": "15/1987",
+"ad": "Devlet Emlak Ve Malzeme Dairesi (Kuruluş, Görev Ve  Çalışma Esasları) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 151,
+"numara": "17/1977",
+"ad": "Devlet Kefalet (Teminat) Yasası",
+"durum": "tamam",
+"degisiklikler": [],
+"metinde_yok": []
+},
+{
+"pkey": 152,
+"numara": "31/2014",
+"ad": "Devlet Kurumsal Şehit ve Kayıp Şehit Cenaze Törenlerine İlişkin Kuralları Düzenleyen Yasa",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 153,
+"numara": "82/1991",
+"ad": "Devlet Laboratuvarı (Kuruluş, Görev Ve Çalışma Esasları) Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"85/2009",
+"42/2025"
+],
+"metinde_yok": []
+},
+{
+"pkey": 154,
+"numara": "33/1976",
+"ad": "Devlet Planlama Örgütünün Kurulması Hakkında Yasa",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 155,
+"numara": "33/1976",
+"ad": "Devlet Planlama Örgütünün Kurulması Hakkında Yasa",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 157,
+"numara": "Fasıl 163",
+"ad": "Devlete Ait Mallar (Çalma Ve Tasarruf) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 158,
+"numara": "12/1983",
+"ad": "Dış Ticaret (Düzenleme ve Denetim) Yasası",
+"durum": "tamam",
+"degisiklikler": [],
+"metinde_yok": []
+},
+{
+"pkey": 159,
+"numara": "15/2013",
+"ad": "Dışişleri Dairesi (Kuruluş Görev ve Çalışma Esasları) Yasası",
+"durum": "tamam",
+"degisiklikler": [],
+"metinde_yok": []
+},
+{
+"pkey": 160,
+"numara": "76/2023",
+"ad": "Dijital Dönüşüm ve Elektronik Devlet Kurumu Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 161,
+"numara": "29/1993",
+"ad": "Din İşleri Dairesi (Kuruluş, Görev Ve Çalışma Esasları) Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"55/2017"
+],
+"metinde_yok": []
+},
+{
+"pkey": 162,
+"numara": "28/1983",
+"ad": "Diplomatik Hak, Dokunulmazlık Ve Ayrıcalıklar Yasası",
+"durum": "tamam",
+"degisiklikler": [],
+"metinde_yok": []
+},
+{
+"pkey": 163,
+"numara": "Fasıl 238",
+"ad": "Diplomatik İmtiyazlar (Avrupa İnsan Hakları Komisyonu) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 165,
+"numara": "13/1979",
+"ad": "Disiplin Mahkemeleri Kuruluşu Disiplin  Kabahat ve Cezaları ve Yargılama Usulü Yasası",
+"durum": "tamam",
+"degisiklikler": [],
+"metinde_yok": []
+},
+{
+"pkey": 166,
+"numara": "33/1983",
+"ad": "Diş Teknisyenlerinin Görev Ve  Çalışma Esasları Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"17/2005"
+],
+"metinde_yok": []
+},
+{
+"pkey": 167,
+"numara": "18/1986",
+"ad": "Doğu Akdeniz Üniversitesi Kuruluş Yasası",
+"durum": "tamam",
+"degisiklikler": [],
+"metinde_yok": []
+},
+{
+"pkey": 168,
+"numara": "2/1975",
+"ad": "Doğum ve Ölümleri Kayıt Kanunu",
+"durum": "tamam",
+"degisiklikler": [],
+"metinde_yok": []
+},
+{
+"pkey": 169,
+"numara": "47/1997",
+"ad": "Dr. Fazıl Küçük (Anısını Yaşatma) Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"12/2017"
+],
+"metinde_yok": []
+},
+{
+"pkey": 170,
+"numara": "Fasıl 126",
+"ad": "Düşük Fiyatla Mal  Satışını Önleme Vergisi ve Katma Vergiler Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 171,
+"numara": "32/2000",
+"ad": "Düşün ve Sanat Ürünlerini Derleme Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 172,
+"numara": "Fasıl 254",
+"ad": "Eczacılık Ve Zehirler Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"16/2014",
+"17/2014"
+],
+"metinde_yok": []
+},
+{
+"pkey": 173,
+"numara": "Fasıl 254",
+"ad": "Eczacılık Ve Zehirler Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"16/2014",
+"17/2014"
+],
+"metinde_yok": []
+},
+{
+"pkey": 174,
+"numara": "5/1991",
+"ad": "Eğitim Bilim ve Kültür Alanındaki İşbirliği Protokolü (Onay) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 175,
+"numara": "56/1993",
+"ad": "Eğitim Ortak Hizmetler Dairesi (Kuruluş, Görev Ve Çalışma Esasları) Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"78/2007"
+],
+"metinde_yok": []
+},
+{
+"pkey": 176,
+"numara": "55/1995",
+"ad": "Eğitim, Bilim, Kültür Ve Teknik Alanda İşbirliği Protokolü (Onay) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 177,
+"numara": "27/2004",
+"ad": "Ekonomik,Toplumsal ve Kültürel Haklar Uluslararası Sözleşmesi(Onay) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 178,
+"numara": "Fasıl 171",
+"ad": "Elektrik İnkişaf Yasası",
+"durum": "tamam",
+"degisiklikler": [],
+"metinde_yok": []
+},
+{
+"pkey": 180,
+"numara": "Fasıl 170",
+"ad": "Elektrik Yasası",
+"durum": "tamam",
+"degisiklikler": [],
+"metinde_yok": []
+},
+{
+"pkey": 181,
+"numara": "6/2012",
+"ad": "Elektronik Haberleşme Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"21/2014",
+"39/2016",
+"27/2019",
+"31/2019",
+"11/2022",
+"23/2025"
+],
+"metinde_yok": []
+},
+{
+"pkey": 182,
+"numara": "93/2007",
+"ad": "Elektronik İmza Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"10/2010",
+"2/2011",
+"43/2011"
+],
+"metinde_yok": []
+},
+{
+"pkey": 184,
+"numara": "39/1987",
+"ad": "Emekli  Sandığı  Fonu Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"64/2007"
+],
+"metinde_yok": []
+},
+{
+"pkey": 185,
+"numara": "1/1971",
+"ad": "Emekli Maaşlarına Zam Kuralı",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 186,
+"numara": "26/1977",
+"ad": "Emeklilik  Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"30/2005",
+"61/2005",
+"64/2006",
+"98/2007",
+"49/2008",
+"69/2009",
+"40/2010",
+"25/2013",
+"48/2017",
+"48/2020",
+"13/2021",
+"19/2021",
+"53/2023",
+"6/2024",
+"20/2024",
+"63/2026"
+],
+"metinde_yok": []
+},
+{
+"pkey": 187,
+"numara": "30/2002",
+"ad": "Emeklilik (Geçici Kurallar) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 188,
+"numara": "5/2018",
+"ad": "Emeklilik Maaşlarından Yapılan Vergi Kesintilerinin İadesine İlişkin (Geçici Kurallar) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 189,
+"numara": "18/2011",
+"ad": "Emeklilik Yasasında Hayat Pahalılığı Ödeneği Hakkını Düzenleyen 31 inci Maddenin Uygulanmasının Durdurulmasına İlişkin (Geçici Kurallar) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 190,
+"numara": "17/2015",
+"ad": "Emeklilik Yasasında Hayat Pahalılığı Ödeneği Hakkını Düzenleyen 31inci Maddenin Uygulanmasının Durdurulmasına İlişkin (Geçici Kurallar) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 191,
+"numara": "38/2007",
+"ad": "Emlakçıların Kayıt ve İşlemleri Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"42/2024"
+],
+"metinde_yok": []
+},
+{
+"pkey": 192,
+"numara": "29/2012",
+"ad": "Emniyet Kemeri Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"11/2017"
+],
+"metinde_yok": []
+},
+{
+"pkey": 193,
+"numara": "Fasıl 267",
+"ad": "Emtia Satışı Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 194,
+"numara": "Fasıl 175 A",
+"ad": "Emtia ve Hizmetler (Geçici Yetkiler)  (Devam) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 195,
+"numara": "37/1998",
+"ad": "Enflasyon Ortamında Temel Finansal Tabloları Düzenleme Esasları Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 196,
+"numara": "46/1988",
+"ad": "Enformasyon   Dairesi (Kuruluş, Görev Ve  Çalışma Esasları) Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"49/2006",
+"8/2007"
+],
+"metinde_yok": []
+},
+{
+"pkey": 197,
+"numara": "64/1993",
+"ad": "Engellileri Koruma , Rehabilite Ve İstihdam Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"39/2014",
+"50/2020",
+"47/2023"
+],
+"metinde_yok": []
+},
+{
+"pkey": 198,
+"numara": "38/2010",
+"ad": "Engellilerin Haklarına İlişkin Sözleşmenin Onaylanmasının Uygun Bulunmasına İlişkin (Onay) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 199,
+"numara": "17/2018",
+"ad": "Ercan Havaalanı Yer Hizmetleri Hakkında Yasa Gücünde Kararnamenin Yürülükten Kaldırılmasına İlişkin Yasa",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 200,
+"numara": "23/1989",
+"ad": "Eski Eserler Ve Müzeler Dairesi(Kuruluş, Görev Ve Çalışma Esasları) Yasası",
+"durum": "tamam",
+"degisiklikler": [],
+"metinde_yok": []
+},
+{
+"pkey": 201,
+"numara": "60/1994",
+"ad": "Eski Eserler Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"14/2017"
+],
+"metinde_yok": []
+},
+{
+"pkey": 202,
+"numara": "Fasıl 75",
+"ad": "Eski Madeni Eşyalar (Tüccarlar) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 203,
+"numara": "1/2002",
+"ad": "Euro nun Hukuki Araçlara Etkisi Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"95/2007"
+],
+"metinde_yok": []
+},
+{
+"pkey": 204,
+"numara": "Fasıl 337",
+"ad": "Evkaf ve Vakıflar Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 205,
+"numara": "Fasıl 274",
+"ad": "Evlât Edinme Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 206,
+"numara": "Fasıl 279",
+"ad": "Evlenme Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 207,
+"numara": "Fasıl 280",
+"ad": "Evlilik (Geçerlilik Kazandırma) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 208,
+"numara": "22/2021",
+"ad": "Evlilik Dışında Doğan Çocuklar Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 209,
+"numara": "28/2003",
+"ad": "Faiz Farkı Fonu Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 210,
+"numara": "53/2009",
+"ad": "Faiz Farkı Fonu Yasası Uyarınca Fondan Yapılacak Faiz İadesi Uygulama Alanlarının Yeniden Düzenlenmesine İlişkin Yasa",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 212,
+"numara": "43/2020",
+"ad": "Finansal Kiralama Faktoring ve Finansman Şirketleri ile Tefeciliğin Önlenmesine İlişkin Yasa",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 213,
+"numara": "26/1978",
+"ad": "Fiyat  İstikrar  Fonu  Yasası",
+"durum": "tamam",
+"degisiklikler": [],
+"metinde_yok": []
+},
+{
+"pkey": 214,
+"numara": "43/1992",
+"ad": "Fon Kaynaklarının Kullanımına Yetki Veren Yasa",
+"durum": "tamam",
+"degisiklikler": [
+"68/2005"
+],
+"metinde_yok": []
+},
+{
+"pkey": 215,
+"numara": "7/2000",
+"ad": "Gece Kulüpleri Ve Benzeri Eğlence Yerleri Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"30/2007"
+],
+"metinde_yok": []
+},
+{
+"pkey": 216,
+"numara": "50/2011",
+"ad": "Gecikmiş Sosyal Güvenlik Prim Borçları ve Gecikme Zamlarının Ödeme Planı İle İlgili Kuralların Düzenlenmesine İlişkin (Geçici Kurallar) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 217,
+"numara": "22/2012",
+"ad": "Gecikmiş Sosyal Güvenlik Prim Borçları ve Gecikme Zamlarının Ödeme Planı ile İlgili Kuralların Düzenlenmesine İlişkin Yasa",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 218,
+"numara": "51/2011",
+"ad": "Gecikmiş Sosyal Sigorta Prim Borçları ve Gecikme Zamlarının Ödeme Planı İle İlgili Kuralların Düzenlenmesine İlişkin (Geçici Kurallar) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 219,
+"numara": "23/2012",
+"ad": "Gecikmiş Sosyal Sigorta Prim Borçları ve Gecikme Zamlarının Ödeme Planı ile İlgili Kuralların Düzenlenmesine İlişkin Yasa",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 220,
+"numara": "50/2009",
+"ad": "Gecikmiş Sosyal Sigorta Prim Borçları ve Gecikme Zamlarının Ödeme Planı ile İlgili Kuralların Düzenlenmesine İlişkin Yasa",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 221,
+"numara": "22/1984",
+"ad": "GEÇİCİ PERSONELİN KADROLANMASI (ÖZEL KURALLAR) YASASI",
+"durum": "tamam",
+"degisiklikler": [],
+"metinde_yok": []
+},
+{
+"pkey": 222,
+"numara": "65/1988",
+"ad": "Gelir Ve Vergi Dairesi (Kuruluş, Görev Ve Çalışma Esasları) Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"25/2016"
+],
+"metinde_yok": []
+},
+{
+"pkey": 223,
+"numara": "24/1982",
+"ad": "Gelir Vergisi Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"13/2005",
+"34/2005",
+"56/2006",
+"15/2007",
+"53/2007",
+"67/2007",
+"3/2010",
+"39/2010",
+"45/2010",
+"33/2011",
+"53/2011",
+"50/2014",
+"14/2019",
+"34/2024",
+"31/2025",
+"25/2026"
+],
+"metinde_yok": []
+},
+{
+"pkey": 224,
+"numara": "64/1999",
+"ad": "Gemi Adamlarının Eğitim, Belgelendirme ve Vardiya Standartları Hakkında Uluslararası Sözleşme 1978 (ONAY) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 225,
+"numara": "Fasıl 298",
+"ad": "Gemi Enkazı Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 226,
+"numara": "60/1999",
+"ad": "Gemilerden Denizlerin Kirlenmesinin Önlenmesi Hakkında Uluslararası Sözleşme (ONAY) Yasas",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 227,
+"numara": "83/2007",
+"ad": "Gemilerle İlgili Harçlar ve Ücretler Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"21/2010",
+"32/2012",
+"43/2019"
+],
+"metinde_yok": []
+},
+{
+"pkey": 228,
+"numara": "4/1988",
+"ad": "Gençlik Dairesi (Kuruluş, Görev Ve Çalışma Esasları) Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"39/2005",
+"23/2022"
+],
+"metinde_yok": []
+},
+{
+"pkey": 229,
+"numara": "56/2014",
+"ad": "Genel Gıda ve Yem Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 231,
+"numara": "16/1981",
+"ad": "Genel Kadro Yasası",
+"durum": "tamam",
+"degisiklikler": [],
+"metinde_yok": []
+},
+{
+"pkey": 232,
+"numara": "16/1981",
+"ad": "Genel Kadro Yasası",
+"durum": "tamam",
+"degisiklikler": [],
+"metinde_yok": []
+},
+{
+"pkey": 233,
+"numara": "50/1989",
+"ad": "Genel Ortaöğretim Dairesi(Kuruluş, Görev Ve Çalışma Esasları) Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"81/2007",
+"12/2009",
+"38/2026"
+],
+"metinde_yok": []
+},
+{
+"pkey": 234,
+"numara": "40/1982",
+"ad": "Genel Tarım Sigortası Yasası",
+"durum": "tamam",
+"degisiklikler": [],
+"metinde_yok": []
+},
+{
+"pkey": 235,
+"numara": "Fasıl 158",
+"ad": "Genelevlerin Neden Olduğu Rahatsızlıklara İlişkin Yasayı Değiştiren Yasa",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 236,
+"numara": "Fasıl 261",
+"ad": "Gıda Maddeleri ve İlaçların Satışı Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 237,
+"numara": "27/2010",
+"ad": "Girne ve Güzelyurt Bölgelerinde Sel Felaketinden Etkilenenlerden Sosyal Güvenlik Yasası Kuralları Uyarınca Kaynaklanan Gecikme Zamlarının Tahsili ile İlgili Kuralların Düzenlenmesine İlişkin Yasa",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 238,
+"numara": "28/2010",
+"ad": "Girne ve Lefkoşa Bölgelerinde Sel felaketinden Etkilenenlerden K.T. Sosyal Sigortalar Yasası Kuralları Uyarınca Kaynaklanan Gecikme Zamlarının Tahsili ile İlgili Kuralların Düzenlenmesine İlişkin Yasa",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 239,
+"numara": "37/1983",
+"ad": "Gümrük Ve İstihsal Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"14/2006",
+"35/2011",
+"37/2025"
+],
+"metinde_yok": []
+},
+{
+"pkey": 240,
+"numara": "46/1982",
+"ad": "Gümrük Ve Rüsumat Dairesi, Kuruluş, Görev Ve Çalışma Esasları Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"46/2024"
+],
+"metinde_yok": []
+},
+{
+"pkey": 241,
+"numara": "44/1996",
+"ad": "Gümrük Vergileri Tarife Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"15/2024"
+],
+"metinde_yok": []
+},
+{
+"pkey": 242,
+"numara": "15/1979",
+"ad": "Güvenlik Kamu Görevlileri Yasası",
+"durum": "eksik",
+"degisiklikler": [
+"31/2005",
+"33/2005",
+"43/2006",
+"58/2007",
+"87/2007",
+"76/2009",
+"83/2009",
+"30/2012",
+"35/2013",
+"7/2015",
+"45/2015",
+"32/2016",
+"42/2017",
+"17/2019",
+"4/2020",
+"24/2024",
+"3/2025",
+"9/2026"
+],
+"metinde_yok": [
+"76/2009",
+"3/2025"
+]
+},
+{
+"pkey": 243,
+"numara": "22/2011",
+"ad": "Güvenlik Kamu Görevlileri Yasasının Hayat Pahalılığı Ödeneği Hakkını Düzenleyen 28 inci Maddesinin Uygulanmasının Durdurulmasına İlişkin (Geçici Kurallar) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 244,
+"numara": "13/2015",
+"ad": "Güvenlik Kamu Görevlileri Yasasının Hayat Pahalılığı Ödeneği Hakkını Düzenleyen 28inci Maddesinin Uygulanmasının Durdurulmasına İlişkin (Geçici Kurallar) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 245,
+"numara": "34/1983",
+"ad": "Güvenlik Kuvvetleri Mahkemesi İle Güvenlik Kuvvetleri Yargıtayının Kuruluşu Ve Yargılama Usulü Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"7/2009",
+"22/2026"
+],
+"metinde_yok": []
+},
+{
+"pkey": 246,
+"numara": "45/1983",
+"ad": "Güzel Sanatlarda Olağanüstü Yetenekli Çocukların Devlet Tarafından Yetiştirilmesi Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 247,
+"numara": "15/2010",
+"ad": "Güzelyurt Bölgesinde Sel Felaketinden Etkilenenlerin KT Sosyal Sigortalar Yasası Kuralları Uyarınca Ödenecek Gecikme Zammından Muaf Tutulacağı ile İlgili Kuralların Düzenlenmesine İlişkin Yasa",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 248,
+"numara": "31/2010",
+"ad": "Güzelyurt Bölgesinde Sel felaketinden Etkilenenlerin Sosyal Güvenlik Yasası Kuralları Uyarınca Ödenecek Gecikme Zammından Muaf Tutulacağı İle İlgili Kuralların Düzenlenmesine İlişkin Yasa",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 249,
+"numara": "30/2020",
+"ad": "Hak Düşümü ve Zamanaşımı Sürelerinin Durdurulması (Geçici Kurallar) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 250,
+"numara": "Fasıl 148",
+"ad": "Haksız Fiiler Yasası",
+"durum": "tamam",
+"degisiklikler": [],
+"metinde_yok": []
+},
+{
+"pkey": 251,
+"numara": "9/2023",
+"ad": "Hal Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 252,
+"numara": "53/1989",
+"ad": "Hali Araziler (İcarlama Ve Yönetim) Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"29/2006",
+"39/2011"
+],
+"metinde_yok": []
+},
+{
+"pkey": 253,
+"numara": "Fasıl 128",
+"ad": "Ham Amyantın İşlendikten Sonra Tekrar İhraç Edilmek Amacıyla Kuzey Kıbrıs Türk Cumhuriyetine Serbestçe İthalini Düzenleyen Yasa",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 254,
+"numara": "Fasıl 320",
+"ad": "Harç Ve Ücretler (Ödeme Yöntemi) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 255,
+"numara": "3/2002",
+"ad": "Harita Dairesi (Kuruluş, Görev Ve Çalışma Esasları) Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"24/2017"
+],
+"metinde_yok": []
+},
+{
+"pkey": 256,
+"numara": "Fasıl 37",
+"ad": "Harup Dara Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 257,
+"numara": "12/1969",
+"ad": "Hastahaneleri Kontrol Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 259,
+"numara": "Fasıl 300",
+"ad": "Hava Alanları Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"39/2008"
+],
+"metinde_yok": []
+},
+{
+"pkey": 260,
+"numara": "5/2013",
+"ad": "Hava Limanları Hizmetler ve Limanlar (Ücretleri) Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"11/2020"
+],
+"metinde_yok": []
+},
+{
+"pkey": 261,
+"numara": "Fasıl 41",
+"ad": "Hayır Kurumları Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 262,
+"numara": "8/2013",
+"ad": "Hayvan Refahı Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 263,
+"numara": "41/2012",
+"ad": "Hayvan Sağlığı Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 265,
+"numara": "40/1990",
+"ad": "Hayvancılık Dairesi (Kuruluş, Görev Ve Çalışma Esasları) Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"6/2007"
+],
+"metinde_yok": []
+},
+{
+"pkey": 268,
+"numara": "7/2008",
+"ad": "Hayvanların ve İşletmelerin Tanımlanması ve Kaydı Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"6/2019"
+],
+"metinde_yok": []
+},
+{
+"pkey": 269,
+"numara": "32/1983",
+"ad": "Hazine Malları Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"40/2012"
+],
+"metinde_yok": []
+},
+{
+"pkey": 270,
+"numara": "32/1983",
+"ad": "Hazine Malları Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"40/2012"
+],
+"metinde_yok": []
+},
+{
+"pkey": 271,
+"numara": "47/1987",
+"ad": "Hazine Ve Muhasebe Dairesi (Kuruluş, Görev Ve Çalışma Esasları) Yasası",
+"durum": "eksik",
+"degisiklikler": [
+"3/2009",
+"10/2024"
+],
+"metinde_yok": [
+"3/2009",
+"10/2024"
+]
+},
+{
+"pkey": 272,
+"numara": "63/1994",
+"ad": "Hemşirelik Meslek Yüksek Okulu (Kuruluş, Görev Ve Çalışma Esasları) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 273,
+"numara": "26/2004",
+"ad": "Her Çeşit Irk Ayrımcılığının Kaldırılmasına İlişkin Uluslararası Sözleşme (Onay) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 274,
+"numara": "31/1961",
+"ad": "Hudud Komisyonu Kanunu",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 275,
+"numara": "72/1991",
+"ad": "Hukuk Dairesi Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"27/2006",
+"2/2024"
+],
+"metinde_yok": []
+},
+{
+"pkey": 276,
+"numara": "43/2012",
+"ad": "Hukuk Muhakemeleri Usulü (Geçici Kurallar) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 277,
+"numara": "Fasıl 6",
+"ad": "Hukuk Muhakemeleri Usulü Yasası",
+"durum": "eksik",
+"degisiklikler": [
+"86/2007",
+"13/2013",
+"12/2014",
+"37/2019"
+],
+"metinde_yok": [
+"13/2013"
+]
+},
+{
+"pkey": 278,
+"numara": "Fasıl 160",
+"ad": "Huzur ve Düzen (Koruma) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 279,
+"numara": "71/1989",
+"ad": "Huzurevi Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 280,
+"numara": "17/1977",
+"ad": "Hükümetin Kefalet Teminatı Vermesi ile ilgili kuralları düzenleyen Yasa",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 283,
+"numara": "Fasıl 350",
+"ad": "İçme Suyu (Belediye Bölgeleri Ve Diğer Bölgeler) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 284,
+"numara": "Fasıl 5",
+"ad": "İflas Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 285,
+"numara": "34/1993",
+"ad": "İhtiyat Sandığı Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"74/2007",
+"27/2008",
+"6/2010",
+"4/2012"
+],
+"metinde_yok": []
+},
+{
+"pkey": 287,
+"numara": "24/2014",
+"ad": "İktisadi Kalkınma Teşvik Fonu Tesis Kuralının Yürürlükten Kaldırılması Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 288,
+"numara": "58/1987",
+"ad": "İlaç Ve Eczacılık Dairesi  (Kuruluş, Görev Ve Çalışma Esasları)  Yasası",
+"durum": "tamam",
+"degisiklikler": [],
+"metinde_yok": []
+},
+{
+"pkey": 289,
+"numara": "68/1989",
+"ad": "İlköğretim Dairesi (Kuruluş, Görev Ve Çalışma Esasları) Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"79/2007",
+"9/2009",
+"39/2026"
+],
+"metinde_yok": []
+},
+{
+"pkey": 290,
+"numara": "55/1989",
+"ad": "İmar Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 291,
+"numara": "58-2017",
+"ad": "İndirimli Tahsilata İlişkin (Geçici Kurallar) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 292,
+"numara": "Fasıl 284",
+"ad": "İnfeksiyöz Hastalıklar (Mahpuslar) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 294,
+"numara": "39/1962",
+"ad": "İnsan Haklarını Ve Ana Hürriyetleri Korumaya Dair Avrupa Sözleşmesi Ve  Buna Ek Protokolün Tasdiki Hakkında Yasa",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 295,
+"numara": "57/2014",
+"ad": "İnsan Hücre Doku ve Organ Nakli İle İlgili Kuralları Düzenleyen Yasa",
+"durum": "tamam",
+"degisiklikler": [
+"49/2025"
+],
+"metinde_yok": []
+},
+{
+"pkey": 296,
+"numara": "Fasıl 145",
+"ad": "İpekböceği Endüstrisi Koruma Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 297,
+"numara": "43/1989",
+"ad": "İskan Ve Rehabilitasyon Dairesi (Kuruluş Görev Ve Çalışma Esasları) Yasası",
+"durum": "tamam",
+"degisiklikler": [],
+"metinde_yok": []
+},
+{
+"pkey": 298,
+"numara": "41/1977",
+"ad": "İskan, Topraklandırma Ve Eşdeğer Mal Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"28/2014",
+"55/2014",
+"24/2018",
+"40/2025",
+"47/2025"
+],
+"metinde_yok": []
+},
+{
+"pkey": 299,
+"numara": "Fasıl 78",
+"ad": "İskeleler Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"43/2017"
+],
+"metinde_yok": []
+},
+{
+"pkey": 300,
+"numara": "38/2009",
+"ad": "İstanbul Teknik Üniversitesi İTÜ-KKTC Eğitim-Araştırma Yerleşkeleri (Kuruluş, Görev, Çalışma ve Denetleme) Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"25/2015"
+],
+"metinde_yok": []
+},
+{
+"pkey": 301,
+"numara": "17/2008",
+"ad": "İstanbul Teknik Üniversitesinin Kuzey Kıbrıs Türk Cumhuriyetinde Eğitim-Araştırma Yerleşkeleri (İTÜ-KKTC) Kurmasına İlişkin Çerçeve Protokolü (Onay) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 302,
+"numara": "32/2019",
+"ad": "İstatistik Kurumu (KuruluşGörev ve Çalışma Esasları) Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"9/2020",
+"20/2026"
+],
+"metinde_yok": []
+},
+{
+"pkey": 303,
+"numara": "35/2008",
+"ad": "İş Sağlığı ve Güvenliği Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"5/2026"
+],
+"metinde_yok": []
+},
+{
+"pkey": 304,
+"numara": "22/1992",
+"ad": "İş Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"50/2010",
+"23/2015",
+"1/2026"
+],
+"metinde_yok": []
+},
+{
+"pkey": 305,
+"numara": "28/2004",
+"ad": "İşkence ve Diğer Zalimce, İnsanlıkdışı veya Onur Kırıcı Davranış veya Cezalandırmalara Karşı Sözleşme (Onay) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 306,
+"numara": "66/1999",
+"ad": "İşletmelerin Sermaye Ve Ekonomik Varlıklarının Yeniden Değerlendirilmesi Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 307,
+"numara": "55/2007",
+"ad": "İşletmelerin Sermaye ve Ekonomik Varlıklarının Yeniden Değerlendirilmesi Yasasını Yürürlükten Kaldıran Yasa",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 308,
+"numara": "27/2013",
+"ad": "İyi İdare Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 309,
+"numara": "60/1989",
+"ad": "Jeoloji Ve Maden Dairesi (Kuruluş, Görev Ve Çalışma Esasları) Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"22/2009"
+],
+"metinde_yok": []
+},
+{
+"pkey": 310,
+"numara": "4/1969",
+"ad": "K.G.T.Y. Hileli Mal Yürütmelerini Önleme (Geçici Hükümler) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 311,
+"numara": "12/2002",
+"ad": "Kadın Çalışmaları Dairesi (Kuruluş, Görev Ve Çalışma Esasları)  Yasası",
+"durum": "eksik",
+"degisiklikler": [
+"55/2017"
+],
+"metinde_yok": [
+"55/2017"
+]
+},
+{
+"pkey": 312,
+"numara": "5/1996",
+"ad": "Kadınlara Karşı Her Türlü Ayırımcılığın Önlenmesi Uluslararası Sözleşmesinin Onaylanmasının Uygun Bulunmasına İlişkin Yasa",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 313,
+"numara": "58/2011",
+"ad": "Kadınlara Yönelik Şiddet ve Ev İçi Şiddetin Önlenmesi ve Bunlarla Mücadeleye Dair Avrupa Konseyi Sözleşmesi (Onay) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 314,
+"numara": "53/1983",
+"ad": "Kamu  Hizmeti  Komisyonu Ve Dairesi  Kuruluş, Görev Ve Çalışma Esasları Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"4/2007",
+"66/2023"
+],
+"metinde_yok": []
+},
+{
+"pkey": 315,
+"numara": "92/2009",
+"ad": "Kamu Alacaklarının İndirimli Tahsili İle İlgili Mali Düzenlemeye İlişkin Yasa",
+"durum": "tamam",
+"degisiklikler": [
+"13/2010"
+],
+"metinde_yok": []
+},
+{
+"pkey": 316,
+"numara": "54/2009",
+"ad": "Kamu Alacaklarının Tahsili Usulü Hakkında Yasanın 44. maddesinde Düzenlenen Gecikme Zamlarının ve 46. maddesinde Düzenlenen Kamu Alacaklarında Devletin Önceliğinin Yeniden Düzenlenmesine İlişkin Yasa",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 317,
+"numara": "48/1977",
+"ad": "Kamu Alacaklarının Tahsili Usulü Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"59/2010",
+"13/2017"
+],
+"metinde_yok": []
+},
+{
+"pkey": 318,
+"numara": "Fasıl 81",
+"ad": "Kamu Binaları (Güvenlik) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 319,
+"numara": "47/2010",
+"ad": "Kamu Çalışanlarının Aylık (Maaş-Ücret) ve Diğer Ödeneklerinin Düzenlenmesi Yasası",
+"durum": "eksik",
+"degisiklikler": [
+"33/2013",
+"18/2014",
+"4/2015",
+"46/2015",
+"45/2017",
+"66/2017",
+"4/2018",
+"36/2018",
+"12/2020",
+"8/2023",
+"50/2023",
+"57/2023",
+"67/2023",
+"5/2024",
+"9/2024",
+"2/2025",
+"20/2025",
+"4/2026",
+"50/2026",
+"67/2026"
+],
+"metinde_yok": [
+"2/2025"
+]
+},
+{
+"pkey": 321,
+"numara": "Fasıl 82",
+"ad": "Kamu Derelerinin Korunması Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 322,
+"numara": "Fasıl 310",
+"ad": "Kamu Görevlileri Güvence (Taşınmaz Mal)  Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 323,
+"numara": "7/1979",
+"ad": "Kamu Görevlileri Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"20/2005",
+"32/2005",
+"59/2005",
+"10/2006",
+"44/2006",
+"72/2006",
+"3/2007",
+"57/2007",
+"97/2007",
+"11/2008",
+"23/2008",
+"34/2008",
+"54/2008",
+"82/2009",
+"3/2011",
+"13/2011",
+"20/2013",
+"34/2013",
+"19/2014",
+"3/2015",
+"48/2015",
+"17/2017",
+"46/2017",
+"12/2018",
+"19/2018",
+"39/2023",
+"69/2023",
+"28/2024",
+"10/2026",
+"65/2026",
+"66/2026"
+],
+"metinde_yok": []
+},
+{
+"pkey": 325,
+"numara": "17/2011",
+"ad": "Kamu Görevlileri Yasasının Hayat Pahalılığı Ödeneği Hakkını Düzenleyen 25inci Maddesinin Uygulanmasının Durdurulmasına ilişkin (Geçici Kurallar) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 326,
+"numara": "9/2015",
+"ad": "Kamu Görevlileri Yasasının Hayat Pahalılığı Ödeneği Hakkını Düzenleyen 25inci Maddesinin Uygulanmasının Durdurulmasına İlişkin (Geçici Kurallar) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 328,
+"numara": "20/2016",
+"ad": "Kamu İhale Yasası",
+"durum": "eksik",
+"degisiklikler": [
+"16/2023",
+"63/2024"
+],
+"metinde_yok": [
+"16/2023",
+"63/2024"
+]
+},
+{
+"pkey": 329,
+"numara": "37/1975",
+"ad": "Kamu İktisadi Teşebbüsleri (Yönetim, Denetim Ve Gözetim) Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"15/2005"
+],
+"metinde_yok": []
+},
+{
+"pkey": 330,
+"numara": "41/2019",
+"ad": "Kamu Mali Yönetimi ve Kontrol Yasası",
+"durum": "eksik",
+"degisiklikler": [
+"27/2022",
+"59/2023",
+"55/2025",
+"48/2026"
+],
+"metinde_yok": [
+"55/2025"
+]
+},
+{
+"pkey": 331,
+"numara": "Fasıl 257",
+"ad": "Kamu Sağlığı (Defin Ve Mezardan Çıkarma) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 332,
+"numara": "Fasıl 259",
+"ad": "Kamu Sağlığı (Köyler) Yasası",
+"durum": "tamam",
+"degisiklikler": [],
+"metinde_yok": []
+},
+{
+"pkey": 333,
+"numara": "Fasıl 256",
+"ad": "Kamu Sağlığı (Sıtma Mücadelesi) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 334,
+"numara": "6/2009",
+"ad": "Kamu Sağlık Çalışanları Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"37/2010",
+"49/2010",
+"18/2017",
+"47/2017",
+"1/2018",
+"7/2018",
+"37/2018",
+"36/2019",
+"7/2023",
+"43/2023",
+"70/2023",
+"21/2024"
+],
+"metinde_yok": []
+},
+{
+"pkey": 335,
+"numara": "20/2011",
+"ad": "Kamu Sağlık Çalışanları Yasasında Hayat Pahalılığı Ödeneği Hakkını Düzenleyen 23 üncü Maddenin Uygulanmasının Durdurulmasına İlişkin (Geçici Kurallar) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 336,
+"numara": "14/2015",
+"ad": "Kamu Sağlık Çalışanları Yasasında Hayat Pahalılığı Ödeneği Hakkını Düzenleyen 23üncü Maddenin Uygulanmasının Durdurulmasına İlişkin (Geçici Kurallar) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 337,
+"numara": "39/1997",
+"ad": "Kamu Ve Özel Radyo Ve Televizyonların Kuruluş Ve Yayınları Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"36/2010",
+"42/2011",
+"19/2022"
+],
+"metinde_yok": []
+},
+{
+"pkey": 338,
+"numara": "Fasıl 83",
+"ad": "Kamu Yolları (Koruma) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 339,
+"numara": "55-2024",
+"ad": "Kamu Yönetimi ve İnsan Kaynakları Başkanlığı (Kuruluş Görev ve Çalışma Esasları) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 340,
+"numara": "23/2021",
+"ad": "Kan ve Kan Bileşenlerinin Kalite ve Güvenliği Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 343,
+"numara": "2/1987",
+"ad": "Kanalizasyon  Sularının Tarımsal Amaçlarla Kullanılmasını Yasaklayan Yasa",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 344,
+"numara": "38/2018",
+"ad": "Kanser Hasalığı Bildirim Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 345,
+"numara": "38/2018",
+"ad": "Kanser Hastalığı Bildirim Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 346,
+"numara": "2/1977",
+"ad": "Kanun Ve Kural İsimleri Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 347,
+"numara": "Fasıl 295",
+"ad": "Karantina Ve Gümrükler Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 349,
+"numara": "45/1989",
+"ad": "Karayolları Dairesi  (Kuruluş, Görev Ve Çalışma Esasları) Yasası",
+"durum": "tamam",
+"degisiklikler": [],
+"metinde_yok": []
+},
+{
+"pkey": 350,
+"numara": "27/1983",
+"ad": "Karma Şirketlere Ait Taşınmaz Mallar (Denetim Ve Yönetim) Yasası",
+"durum": "tamam",
+"degisiklikler": [],
+"metinde_yok": []
+},
+{
+"pkey": 351,
+"numara": "35/2010",
+"ad": "Kat Mülkiyeti ve Kat İrtifakı Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"40/2024",
+"49/2026"
+],
+"metinde_yok": []
+},
+{
+"pkey": 352,
+"numara": "31/1996",
+"ad": "Katma Değer Vergisi İadesi Yasası",
+"durum": "eksik",
+"degisiklikler": [
+"36/2006",
+"17/2007",
+"70/2007",
+"45/2008",
+"41/2010",
+"33/2012",
+"40/2014",
+"44/2017",
+"13/2023"
+],
+"metinde_yok": [
+"36/2006",
+"17/2007",
+"70/2007",
+"45/2008",
+"41/2010",
+"33/2012",
+"40/2014",
+"44/2017",
+"13/2023"
+]
+},
+{
+"pkey": 353,
+"numara": "61/2007",
+"ad": "Katma Değer Vergisi İadesi Yasasının Yürürlükten Kaldırılması Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 354,
+"numara": "47/1992",
+"ad": "Katma Değer Vergisi Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"36/2006",
+"17/2007",
+"70/2007",
+"45/2008",
+"41/2010",
+"33/2012",
+"40/2014",
+"44/2017",
+"13/2023"
+],
+"metinde_yok": []
+},
+{
+"pkey": 355,
+"numara": "Fasıl 288",
+"ad": "Kayıklar (Düzenleme) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 356,
+"numara": "9/2018",
+"ad": "Kayıtları İptal Edilen Araçlar ile Kayıtları İptal Edilmeyip Geçmiş Yıllara Ait Seyrüsefer Borcu Bulunan Araçlar Hakkında Yasa Gücünde Kararnamenin Yürürlükten Kaldırılmasına İlişkin Yasa",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 357,
+"numara": "Fasıl 297",
+"ad": "Kazazede Gemi Yolcuları Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 358,
+"numara": "Fasıl 66",
+"ad": "Keçiler  Yasası",
+"durum": "tamam",
+"degisiklikler": [],
+"metinde_yok": []
+},
+{
+"pkey": 359,
+"numara": "31/2018",
+"ad": "Kent Güvenlik Yönetim Sistemi Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 363,
+"numara": "27/1991",
+"ad": "Kıbrıs Lirasının Yürürlükten Kaldırılması ve Kıbrıs Lirası ile İfade Edilen Meblağların Türk Lirasına Dönüştürülmesi Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 365,
+"numara": "2/2004",
+"ad": "Kıbrıs Sorununun Çözümüne İlişkin Halkoylaması (Özel ve Geçici Kurallar) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 366,
+"numara": "Fasıl 127",
+"ad": "Kıbrıs Şaraplarının İsimlerinin Korunmasını Öngören Yasa",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 367,
+"numara": "18/1998",
+"ad": "Kıbrıs Turk İnşaat Müteahhitleri Birliği Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"54/2006",
+"30/2025"
+],
+"metinde_yok": []
+},
+{
+"pkey": 369,
+"numara": "39/2003",
+"ad": "Kıbrıs Türk Belediyeler Birliği Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 370,
+"numara": "6/1969",
+"ad": "Kıbrıs Türk Cemaatine Mensup Olmayan Şahıslara Gayri Menkul Mal Satışını Men Eden Kural",
+"durum": "tamam",
+"degisiklikler": [],
+"metinde_yok": []
+},
+{
+"pkey": 371,
+"numara": "69/2017",
+"ad": "Kıbrıs Türk Çiftçiler Birliği Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 372,
+"numara": "10/1990",
+"ad": "Kıbrıs Türk Devlet Tiyatroları (Kuruluş, Görev ve Çalışma Esasları) Yasası",
+"durum": "tamam",
+"degisiklikler": [],
+"metinde_yok": []
+},
+{
+"pkey": 373,
+"numara": "27/2017",
+"ad": "Kıbrıs Türk Diyetisyenler Birliği Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 374,
+"numara": "18/1999",
+"ad": "Kıbrıs Türk Eczacılar Birliği Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"37/2009",
+"5/2023"
+],
+"metinde_yok": []
+},
+{
+"pkey": 375,
+"numara": "18/1999",
+"ad": "Kıbrıs Türk Eczacılar Birliği Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"37/2009",
+"5/2023"
+],
+"metinde_yok": []
+},
+{
+"pkey": 376,
+"numara": "34/2010",
+"ad": "Kıbrıs Türk Elektrik Kurumu Kamu Alacaklarının Tahsili ile İlgili Mali Düzenlemeye İlişkin Yasanın İç Düzeni",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 377,
+"numara": "8/2022",
+"ad": "Kıbrıs Türk Elektrik Kurumunun Aksa Enerji Üretim Anonim Şirketine Olan Borçlarının Devlet Borcu Olarak Devralınması Hakkında Yasa",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 378,
+"numara": "14-2023",
+"ad": "Kıbrıs Türk Elektrik Kurumunun Aksa Enerji Üretim Anonim Şirketine Olan Borçlarının Devlet Borcu Olarak Devralınmasına İlişkin Yasa",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 379,
+"numara": "51/2006",
+"ad": "Kıbrıs Türk Elektrik Müteahhitleri Birliği Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 380,
+"numara": "62/2024",
+"ad": "Kıbrıs Türk Emlakçılar Birliği Yasası",
+"durum": "tamam",
+"degisiklikler": [],
+"metinde_yok": []
+},
+{
+"pkey": 381,
+"numara": "29/2019",
+"ad": "Kıbrıs Türk Esnaf ve Zanaatkarlar Odası Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"29/2025"
+],
+"metinde_yok": []
+},
+{
+"pkey": 383,
+"numara": "17/1977",
+"ad": "Kıbrıs Türk Federe Devleti  Hükümetinin Kefalet Teminatı Verilmesi ile ilgili kuralları düzenleyen Yasa",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 384,
+"numara": "1/1979",
+"ad": "Kıbrıs Türk Federe Devleti Birinci Beş Yıllık Kalkınma Planı (1978-1982) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 385,
+"numara": "29/1976",
+"ad": "Kıbrıs Türk Federe Devleti Güvenlik Kuvvetlerinin Kuruluşu, Görev Ve Yetkileri Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 386,
+"numara": "21/1975",
+"ad": "Kıbrıs Türk Federe Devleti Kolcular Teşkilatı Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 387,
+"numara": "09/1976",
+"ad": "Kıbrıs Türk Federe Devletinde Yargı Yetkisi Kullanan Bağımsız Mahkemelerin Kuruluşu, İşleyişi, Görev Ve Yetkileri Ve Yargıçların Nitelikleri, Atanmaları, Hakları, Ödevleri Ve Diğer Hususlar İle İlgili Yasa",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 388,
+"numara": "35/2017",
+"ad": "Kıbrıs Türk Hemşireler ve Ebeler Birliği Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 389,
+"numara": "52/2017",
+"ad": "Kıbrıs Türk İnşaat Taşeronları Birliği Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"27/2025"
+],
+"metinde_yok": []
+},
+{
+"pkey": 390,
+"numara": "6/1976",
+"ad": "Kıbrıs Türk Liman İşçileri Şirketi Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"3/2020"
+],
+"metinde_yok": []
+},
+{
+"pkey": 391,
+"numara": "9/1969",
+"ad": "Kıbrıs Türk Mücahidini Kalkındırma Fonu Tesis Kuralı",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 392,
+"numara": "21/2005",
+"ad": "Kıbrıs Türk Mühendis ve Mimar Odaları Birliği Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"52/2015"
+],
+"metinde_yok": []
+},
+{
+"pkey": 393,
+"numara": "39/2012",
+"ad": "Kıbrıs Türk Otelciler Birliği Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 394,
+"numara": "1/2008",
+"ad": "Kıbrıs Türk Rehberler Birliği Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 395,
+"numara": "29/1992",
+"ad": "Kıbrıs Türk Sanayi Odası Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"16/2018",
+"28/2025"
+],
+"metinde_yok": []
+},
+{
+"pkey": 396,
+"numara": "18/2003",
+"ad": "Kıbrıs Türk Sosyal Sigortalar (Geçici Kurallar) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 397,
+"numara": "16/1976",
+"ad": "Kıbrıs Türk Sosyal Sigortalar Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"12/2005",
+"29/2007",
+"42/2008",
+"79/2009",
+"2/2010",
+"2/2012",
+"37/2015",
+"29/2017",
+"30/2017",
+"11/2019",
+"8/2020",
+"24/2023",
+"8/2024",
+"29/2024",
+"5/2025",
+"58/2026"
+],
+"metinde_yok": []
+},
+{
+"pkey": 398,
+"numara": "21/2011",
+"ad": "Kıbrıs Türk Sosyal Sigortalar Yasasında Gelir ve Aylıkların Artırılmasını Düzenleyen Geçici 8 inci Maddenin (4)üncü fıkrasının Uygulanmasının Durdurulmasına İlişkin (Geçici Kurallar) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 399,
+"numara": "51/2009",
+"ad": "Kıbrıs Türk Sosyal Sigortalar Yasasının Geçici 8.inci Maddesinin (4)üncü Fıkrasında Düzenlenmiş Olan Aylık ve Gelirlerin Yükseltilmesinin Yeniden Düzenlenmesine İlişkin Yasa",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 400,
+"numara": "1/1977",
+"ad": "Kıbrıs Türk Süt Endüstrisi  Kurumu Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"26/2011",
+"36/2016"
+],
+"metinde_yok": []
+},
+{
+"pkey": 401,
+"numara": "13/1976",
+"ad": "Kıbrıs Türk Tabipleri Birliği Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"70/2006",
+"41/2016"
+],
+"metinde_yok": []
+},
+{
+"pkey": 402,
+"numara": "21/1981",
+"ad": "Kıbrıs Türk Ticaret Odası Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 403,
+"numara": "66/1989",
+"ad": "Kıbrıs Türk Turizm ve Seyahat Acenteleri Birliği (KITSAB) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 404,
+"numara": "4/1977",
+"ad": "Kıbrıs Türk Veteriner Hekimler Birliği Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 405,
+"numara": "37/2008",
+"ad": "Kıbrıs Türk Yatırım Geliştirme Ajansı (YAGA) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 406,
+"numara": "5/2021",
+"ad": "Kıbrıs Vakıflar İdaresi Kiracılarının Birikmiş Kira ve Gecikme Zammı Borçlarının Tahsili İle İlgili Kuralların Düzenlenmesi (Geçici Kurallar) Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"37/2023"
+],
+"metinde_yok": []
+},
+{
+"pkey": 407,
+"numara": "60-2017",
+"ad": "Kıbrıs Vakıflar İdaresi Kiracılarının Birikmiş Kira ve Gecikme Zammı Borçlarının Tahsili İle İlgili Kuralların Düzenlenmesine İlişkin  (Geçici Kurallar) Yasası",
+"durum": "eksik",
+"degisiklikler": [
+"37/2023"
+],
+"metinde_yok": [
+"37/2023"
+]
+},
+{
+"pkey": 408,
+"numara": "14/2010",
+"ad": "Kıbrıs Vakıflar İdaresinin Birikmiş Kiralardan Kaynaklanan Gecikme Zamlarının Tahsili ile ilgili Kuralların Düzenlenmesine İlişkin Yasa",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 409,
+"numara": "24/1959",
+"ad": "Kıbrıs Yasalarınınn Gözden Geçirilmiş Bir Baskısının Hazırlanması Ve Yayımlanmasını Öngören Yasa",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 410,
+"numara": "Fasıl 122",
+"ad": "Kıbrıs Ziraat Bankası Limited (Özel İmtiyazlar) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 411,
+"numara": "14/1970",
+"ad": "Kıbrısı İzinsiz Terkedenler Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 412,
+"numara": "35/1970",
+"ad": "Kıbrıs'lı Türkleri'in Türkiye'de Çalışma İmkanlarını Düzenleyen Yasa",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 413,
+"numara": "53/2024",
+"ad": "Kimyasallar Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 414,
+"numara": "Fasıl 26",
+"ad": "Kimyevi Gübreler Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 416,
+"numara": "17/1981",
+"ad": "Kira (Denetim) Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"27/2011"
+],
+"metinde_yok": []
+},
+{
+"pkey": 417,
+"numara": "29/2004",
+"ad": "Kişisel ve Siyasal Haklar Sözleşmesi (Onay) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 418,
+"numara": "25/2004",
+"ad": "Kişisel ve Siyasal Haklar Uluslararası Sözleşmesine, Ölüm Cezasının Kaldırılmasını Amaçlayan İkinci Seçmeli Protokol (Onay) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 419,
+"numara": "41/2020",
+"ad": "Kişisel Verileri Koruma Kurulu 2020 Mali Yılı Bütçe Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 420,
+"numara": "89/2007",
+"ad": "Kişisel Verilerin Korunması Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 421,
+"numara": "7/2021",
+"ad": "KKTC Hükümeti ile TC Hükümeti Arasında 19 Eylül 2002 tarihinde İmzalanmış Sivil Havacılık İşbirliği Anlaşmasını Tadil Etmek Üzere KKTC Hükümeti ile TC Hükümeti Arasında Protokol (Onay) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 422,
+"numara": "39/2020",
+"ad": "KKTC Hükümeti ile TC Hükümeti Arasında Haritacılık Alanında Yapılan İşbirliği Protokolünün Onaylanmasının Uygun Bulunmasına İlişkin Onay Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 423,
+"numara": "33/2018",
+"ad": "KKTC Hükümeti ile TC Hükümeti Arasında KKTC de Kurulacak Kent Güvenlik Yönetim Sistemi Ve Sınır Kapılarında Yapılacak Güvenlik Arttırıcı Çalışmalara İlişkin İşbirliği Protokolünün Onaylanmasının Uygun Bulunmasına İlişkin Onay Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 424,
+"numara": "43/2004",
+"ad": "KKTC Hükümeti ile TC Hükümeti Arasında KKTC'nde Bulunan Türk Vatandaşlarının İkamet, Çalışma ve Sosyal Güvenlik Haklarını Düzenlemeye İlişkin Protokol Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 425,
+"numara": "59/2018",
+"ad": "KKTC Hükümeti ile TC Hükümeti Arasında Posta Süreçlerinde Kullanılan Elektronik Hizmetlerinin Geliştirilmesine İlişkin Protokol Onay Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 426,
+"numara": "29/2008",
+"ad": "KKTC Hükümeti ile TC Hükümeti Arasında Sağlık Alanında İşbirliği Anlaşması (Onay) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 427,
+"numara": "14/2022",
+"ad": "KKTC Hükümeti ile TC Hükümeti Arasındas E-Devlet Hizmetlerinin Gerçekleştirilmesine İlişkin İşbirliği Protokolü (Onay) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 428,
+"numara": "3/1992",
+"ad": "KKTC ile TC Arasında 24 Ekim 1990 Tarihinde İmzalanan Güvenlik, Asayiş, Narkotik ve Psikotrop Maddeler Kaçakçılığı, Terörizmle Mücadele ile Mesleki Eğitim ve Sosyal İlişkiler Alanında İşbirliği Protokolü (Onay) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 429,
+"numara": "5/1991",
+"ad": "KKTC ile TC Arasında imzalanan Eğitim, Bilim ve Kültür Alanında İşbirliği Protokolü (Onay) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 430,
+"numara": "32/2007",
+"ad": "KKTC Resmi Amblem Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 431,
+"numara": "44/2001",
+"ad": "KKTC Sigorta ve Reasürans Şirketler Birliği Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 432,
+"numara": "Fasıl 331",
+"ad": "Klâkson ve Düdük Yasaklama Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"7/2014"
+],
+"metinde_yok": []
+},
+{
+"pkey": 433,
+"numara": "Fasıl 116",
+"ad": "Kollektif ve Komandit Şirketler ve Ticari Ünvanlar Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"36/2007"
+],
+"metinde_yok": []
+},
+{
+"pkey": 434,
+"numara": "10/1961",
+"ad": "Konsolide Fonu (İnkişaf Sandığı) Yasası",
+"durum": "tamam",
+"degisiklikler": [],
+"metinde_yok": []
+},
+{
+"pkey": 435,
+"numara": "Fasıl 236",
+"ad": "Konsolosluk Andlaşmaları Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 436,
+"numara": "63/2007",
+"ad": "Konut Edindirme Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"5/2010",
+"3/2016",
+"22/2018",
+"47/2020",
+"57/2024",
+"38/2025",
+"46/2026"
+],
+"metinde_yok": []
+},
+{
+"pkey": 437,
+"numara": "94/2007",
+"ad": "Kooperatif Şirketler Mukayyitliği (Kuruluş, Görev ve Çalışma Esasları) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 438,
+"numara": "Fasıl 114",
+"ad": "Kooperatif Şirketler Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"46/2007"
+],
+"metinde_yok": []
+},
+{
+"pkey": 439,
+"numara": "55/2009",
+"ad": "Kooperatif Tasarruf Mevduatı Sigorta Fonu Uygulamalarına İlişkin Yasa",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 440,
+"numara": "26/2000",
+"ad": "Kooperatif Tasarruf Mevduatı Sigorta Fonu Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"11/2005",
+"53/2025"
+],
+"metinde_yok": []
+},
+{
+"pkey": 441,
+"numara": "Fasıl 91",
+"ad": "Koyun ve Keçiler (Çobanların Ruhsatlandırılması ve Kontrolü) Yasası",
+"durum": "tamam",
+"degisiklikler": [],
+"metinde_yok": []
+},
+{
+"pkey": 442,
+"numara": "Fasıl 92",
+"ad": "Koyun, Keçi Ve Domuzların Sayımı Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 443,
+"numara": "23/2001",
+"ad": "Kozmetik Ürünleri Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"29/2022",
+"7/2026"
+],
+"metinde_yok": []
+},
+{
+"pkey": 444,
+"numara": "Fasıl 52",
+"ad": "Köpekler Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"43/2007"
+],
+"metinde_yok": []
+},
+{
+"pkey": 445,
+"numara": "Fasıl 349",
+"ad": "Köy (Ev Maksatları) Suları Yasası",
+"durum": "tamam",
+"degisiklikler": [],
+"metinde_yok": []
+},
+{
+"pkey": 446,
+"numara": "Fasıl 245",
+"ad": "Köy İhtiyar Heyetleri (Ücretlerin Düzenlenmesi)  Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 447,
+"numara": "43/2009",
+"ad": "Köy ve Mahalle İhtiyar Heyetleri Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"25/2010",
+"9/2012",
+"29/2015",
+"37/2020",
+"7/2024"
+],
+"metinde_yok": []
+},
+{
+"pkey": 448,
+"numara": "Fasıl 246",
+"ad": "Köy Yükümlülükleri Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 449,
+"numara": "42/2009",
+"ad": "Kredi Garanti Fonu Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"5/2011",
+"35/2026"
+],
+"metinde_yok": []
+},
+{
+"pkey": 450,
+"numara": "33/2019",
+"ad": "Kredi Kartı ve Banka Kartı ile Yapılan Perakende Mal ve Hizmet Alımlarına İade Yapılması Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"56/2023"
+],
+"metinde_yok": []
+},
+{
+"pkey": 451,
+"numara": "86/1991",
+"ad": "Kronik Hastalıklar Hastanesi Ve Özel Dal Hastaneleri Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"10/2017"
+],
+"metinde_yok": []
+},
+{
+"pkey": 453,
+"numara": "41/1976",
+"ad": "Kurumlar Vergisi Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"16/2007",
+"18/2013",
+"37/2014",
+"15/2019"
+],
+"metinde_yok": []
+},
+{
+"pkey": 454,
+"numara": "41/1976",
+"ad": "Kurumlar Vergisi Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"16/2007",
+"18/2013",
+"37/2014",
+"15/2019"
+],
+"metinde_yok": []
+},
+{
+"pkey": 455,
+"numara": "Fasıl 351",
+"ad": "Kuyular Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"86/2009"
+],
+"metinde_yok": []
+},
+{
+"pkey": 456,
+"numara": "10/2003",
+"ad": "Kuzey Kıbrıs Türk Cumhuriyet ile Türkiye Cumhuriyeti Arasında Sahil Güvenlik Alanında İşbirliği Anlaşması (Onay) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 457,
+"numara": "23/1990",
+"ad": "Kuzey Kıbrıs Türk Cumhuriyeti Adına Yabancı Devletlerle Veya Uluslararası Kuruluşlarla Yapılacak Andlaşmaların Halkoylamasına Sunulması (Geçici Kurallar) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 458,
+"numara": "18/1985",
+"ad": "Kuzey Kıbrıs Türk Cumhuriyeti Anayasasının  Halkoylamasına Sunulması (Geçici Kurallar)Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 459,
+"numara": "62/2017",
+"ad": "Kuzey Kıbrıs Türk Cumhuriyeti Bankacılık Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"22/2020"
+],
+"metinde_yok": []
+},
+{
+"pkey": 460,
+"numara": "40/2022",
+"ad": "Kuzey Kıbrıs Türk Cumhuriyeti Başbakanlığı ile Türkiye Cumhuriyeti Enerji ve Tabii Kaynaklar Bakanlığı Arasında Petrol Ürünleri Ticaretine İlişkin İşbirliği Protokolü (Onay) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 461,
+"numara": "2-2022",
+"ad": "Kuzey Kıbrıs Türk Cumhuriyeti Bayındırlık ve Ulaştırma Bakanlığı ile Türkiye Cumhuriyeti Ulaştırma ve Altyapı Bakanlığı Arasında Karayolu Master Planı 2021-2022 Uygulama Protokolü (Onay) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 462,
+"numara": "15/1984",
+"ad": "Kuzey Kıbrıs Türk Cumhuriyeti Bayrak Yasası",
+"durum": "tamam",
+"degisiklikler": [],
+"metinde_yok": []
+},
+{
+"pkey": 463,
+"numara": "11/1981",
+"ad": "Kuzey Kıbrıs Türk Cumhuriyeti Cumhurbaşkanlığı Dairesi Kuruluş, Görev Ve Çalışma Esasları Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 464,
+"numara": "13/2000",
+"ad": "Kuzey Kıbrıs Türk Cumhuriyeti Cumhurbaşkanlığı Seçimlerinin15 NİSAN 2000 Tarihinde Yapılması Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 465,
+"numara": "63/2005",
+"ad": "Kuzey Kıbrıs Türk Cumhuriyeti Deniz Yetki Alanları Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 466,
+"numara": "6/2017",
+"ad": "Kuzey Kıbrıs Türk Cumhuriyeti Ekonomi Sanayi ve Ticaret Bakanlığı ile Türkiye Cumhuriyeti Gümrük ve Ticaret Bakanlığı Arasında Tüketicilerin Korunması Konusunda İşbirliği Protokolü (Onay) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 467,
+"numara": "32/2018",
+"ad": "Kuzey Kıbrıs Türk Cumhuriyeti Ekonomi ve Enerji Bakanlığı İle Türkiye Cumhuriyeti Türk Standartları Enstitüsü (TSE) Arasında Standardizasyon ve Uygunluk Değerlendirmesi Alanında İşbirliği Protokolü (Onay) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 468,
+"numara": "26/1984",
+"ad": "Kuzey Kıbrıs Türk Cumhuriyeti Fuarlar Yasası",
+"durum": "tamam",
+"degisiklikler": [],
+"metinde_yok": []
+},
+{
+"pkey": 469,
+"numara": "35/1986",
+"ad": "Kuzey Kıbrıs Türk Cumhuriyeti Güvenlik Kuvvetleri İç Hizmet Yasası",
+"durum": "eksik",
+"degisiklikler": [
+"21/2025"
+],
+"metinde_yok": [
+"21/2025"
+]
+},
+{
+"pkey": 470,
+"numara": "3/1998",
+"ad": "Kuzey Kıbrıs Türk Cumhuriyeti Hükümeti İle Türkiye Cumhuriyeti Hükümeti Arasında  7 Ocak 1997 Tarihinde İmzalanan Spor Alanında İşbirliği  Ek Protokolun Onaylanmasının Uygun Bulunmasına  İlişkin Yasa",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 471,
+"numara": "20/2023",
+"ad": "Kuzey Kıbrıs Türk Cumhuriyeti Hükümeti ile Türkiye Cumhuriyeti Hükümeti Arasında 20 Aralık 2022 Tarihinde İmzalanan Sağlık ve Tıp Bilimleri Alanlarında İş Birliğine Dair Anlaşma (Onay) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 472,
+"numara": "20/2023",
+"ad": "Kuzey Kıbrıs Türk Cumhuriyeti Hükümeti ile Türkiye Cumhuriyeti Hükümeti Arasında 20 Aralık 2022 Tarihinde İmzalanan Sağlık ve Tıp Bilimleri Alanlarında İş Birliğine Dair Anlaşma (Onay) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 473,
+"numara": "3/2017",
+"ad": "Kuzey Kıbrıs Türk Cumhuriyeti Hükümeti ile Türkiye Cumhuriyeti Hükümeti Arasında Enerji Alanında İşbirliğine İlişkin Anlaşma (Onay) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 475,
+"numara": "39/2017",
+"ad": "Kuzey Kıbrıs Türk Cumhuriyeti Hükümeti ile Türkiye Cumhuriyeti Hükümeti Arasında İşgücü Anlaşmasının Onaylanmasının Uygun Bulunmasına İlişkin (Onay) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 476,
+"numara": "38/2020",
+"ad": "Kuzey Kıbrıs Türk Cumhuriyeti Hükümeti İle Türkiye Cumhuriyeti Hükümeti Arasında İz Aktarma Sisteminin Tesisine İlişkin Uygulama Protokolünün Onaylanmasının Uygun Bulunmasına İlişkin Onay Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 477,
+"numara": "46/2016",
+"ad": "Kuzey Kıbrıs Türk Cumhuriyeti Hükümeti ile Türkiye Cumhuriyeti Hükümeti Arasında KKTC’de Bulunan Vakıf Kültür Varlıklarının Restorasyon İşlerinin Yürütülmesine İlişkin Anlaşmanın Onaylanmasının Uygun Bulunmasına İlişkin (Onay) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 480,
+"numara": "7/2020",
+"ad": "Kuzey Kıbrıs Türk Cumhuriyeti Hükümeti ile Türkiye Cumhuriyeti Hükümeti Arasında Sahil Güvenlik Alanında Destek ve İşbirliği Protokolünün Onaylanmasının Uygun Bulunmasına İlişkin Onay Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 481,
+"numara": "38/2017",
+"ad": "Kuzey Kıbrıs Türk Cumhuriyeti Hükümeti ile Türkiye Cumhuriyeti Hükümeti Arasında Sosyal Güvenlik Anlaşmasının Onaylanmasının Uygun Bulunmasına İlişkin (Onay) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 482,
+"numara": "12/2019",
+"ad": "Kuzey Kıbrıs Türk Cumhuriyeti Hükümeti ile Türkiye Cumhuriyeti Hükümeti Arasında Ulusal Sürücü Belgelerinin/Sürüş Ehliyetlerinin Karşılıklı Olarak Tanınması ve Değişimi Anlaşmasına İlişkin (Onay)Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 483,
+"numara": "12/2019",
+"ad": "Kuzey Kıbrıs Türk Cumhuriyeti Hükümeti ile Türkiye Cumhuriyeti Hükümeti Arasında Ulusal Sürücü Belgelerinin/Sürüş Ehliyetlerinin Karşılıklı Olarak Tanınması ve Değişimi Anlaşmasına İlişkin (Onay)Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 484,
+"numara": "7/2017",
+"ad": "Kuzey Kıbrıs Türk Cumhuriyeti Hükümeti ile Türkiye Cumhuriyeti Hükümeti Arasında Ürün Güvenliği Konusunda İşbirliği Protokolü (Onay) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 485,
+"numara": "55/2023",
+"ad": "Kuzey Kıbrıs Türk Cumhuriyeti Hükümeti ile Türkiye Cumhuriyeti Hümkümeti Arasında Ulusal Sürücü Belgelerinin/Sürüş Ehliyetlerinin Karşılıklı Olarak Tanınması ve Değişimi Anlaşmasında Değişiklik Yapılmasına Dair Anlaşma (Onay) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 486,
+"numara": "49/1993",
+"ad": "Kuzey Kıbrıs Türk Cumhuriyeti İle Acaristan  Özerk Cumhuriyeti Arasında İmzalanan Eğitim Ve  Kültür Protokolünün Onaylanmasının Uygun  Bulunmasına İlişkin Yasa",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 487,
+"numara": "51/1993",
+"ad": "Kuzey Kıbrıs Türk Cumhuriyeti İle Azerbaycan Cumhuriyeti Arasında Eğitim, Bilim, Spor Ve  Kültür Alanında İşbirliği Protokolünün Onaylanmasına İlişkin Yasa",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 488,
+"numara": "51/1993",
+"ad": "Kuzey Kıbrıs Türk Cumhuriyeti İle Azerbaycan Cumhuriyeti Arasında Eğitim, Bilim, Spor Ve Kültür Alanında İşbirliği Protokolünün Onaylanmasına İlişkin Yasa",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 489,
+"numara": "50/1993",
+"ad": "Kuzey Kıbrıs Türk Cumhuriyeti İle Kırgızistan Cumhuriyeti  arasında İmzalanan Eğitim  ve Kültür Protokolünün Onaylanmasının Uygun  Bulunmasına İlişkin Yasa",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 490,
+"numara": "50/1993",
+"ad": "Kuzey Kıbrıs Türk Cumhuriyeti İle Kırgızistan Cumhuriyeti  Arasında İmzalanan Eğitim  Ve Kültür Protokolünün Onaylanmasının Uygun  Bulunmasına İlişkin Yasa",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 491,
+"numara": "23/2003",
+"ad": "Kuzey Kıbrıs Türk Cumhuriyeti İle Türkiye Cumhuriyeti  Arasında Karma Parlamento Komisyonu Kurulmasına İlişkin Anlaşma (Onay) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 492,
+"numara": "49/1988",
+"ad": "Kuzey Kıbrıs Türk Cumhuriyeti İle Türkiye Cumhuriyeti Arasında 22 Aralık, 1987 Tarihinde İmzalanan Gelir Üzerinden Alınan  Vergilerde Çifte Vergilendirmeyi Ve Vergi Kaybını Önleme Andlaşmasının Uygun Bulunmasına İlişkin Yasa",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 494,
+"numara": "11/2003",
+"ad": "Kuzey Kıbrıs Türk Cumhuriyeti İle Türkiye Cumhuriyeti Arasında Adalet Ve İçişleri Alanında İşbirliği  Anlaşması (Onay) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 495,
+"numara": "7/2012",
+"ad": "Kuzey Kıbrıs Türk Cumhuriyeti İle Türkiye Cumhuriyeti Arasında Akdenizde Kıta Sahanlığı Sınırlandırılması Hakkında Anlaşmanın Uygun Bulunmasına İlişkin (Onay) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 496,
+"numara": "41/1996",
+"ad": "Kuzey Kıbrıs Türk Cumhuriyeti İle Türkiye Cumhuriyeti Arasında Denizde Arama Ve Kurtarma Yapma Koınusunda Anlaşma (Onay) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 497,
+"numara": "22/2003",
+"ad": "Kuzey Kıbrıs Türk Cumhuriyeti İle Türkiye Cumhuriyeti Arasında Hava Arama Kurtarma Alanında İşbirliği Anlaşması (Onay) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 498,
+"numara": "34/2000",
+"ad": "Kuzey Kıbrıs Türk Cumhuriyeti İle Türkiye Cumhuriyeti Arasında İki Ülke  Vatandaşlarına  İlave Kolaylık Tanınmasına İlişkin Anlaşam (Onay) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 499,
+"numara": "80/2007",
+"ad": "Kuzey Kıbrıs Türk Cumhuriyeti ile Türkiye Cumhuriyeti Arasında İmzalanan Gümrük Konularında İşbirliği ve Kaçakçılığın Tespiti ve Önlenmesine İlişkin Protokol (Onay) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 500,
+"numara": "17/2012",
+"ad": "Kuzey Kıbrıs Türk Cumhuriyeti ile Türkiye Cumhuriyeti Arasında Kuzey Kıbrıs Türk Cumhuriyetinin Su İhtiyacının Karşılanmasına İlişkin Hükümetler arası Çerçeve Andlaşmasının Uygun Bulunmasına İlişkin (Onay) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 501,
+"numara": "25/2003",
+"ad": "Kuzey Kıbrıs Türk Cumhuriyeti İle Türkiye Cumhuriyeti Arasında Sivil Havacılık  İşbirliği Anlaşması (Onay)  Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 502,
+"numara": "43/2015",
+"ad": "Kuzey Kıbrıs Türk Cumhuriyeti ile Türkiye Cumhuriyeti Arasında Sivil Havacılık İşbirliği (Değişiklik) Protokolü (ONAY) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 503,
+"numara": "31/1998",
+"ad": "Kuzey Kıbrıs Türk Cumhuriyeti İle Türkiye Cumhuriyeti Arasında Ticaret Ve Ekonomik İşbirliği Anlaşması (Onay) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 504,
+"numara": "29/1998",
+"ad": "Kuzey Kıbrıs Türk Cumhuriyeti İle Türkiye Cumhuriyeti Arasında Yatırımlarda Devlet Yardımları Anlaşması (Onay) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 505,
+"numara": "22/1988",
+"ad": "Kuzey Kıbrıs Türk Cumhuriyeti ile Türkiye Cumhuriyeti Hukukî, Ticarî ve Cezaî Konularda Adlî Yardımlaşma, Tanıma ve Tenfiz, Suçluların Geri Verilmesi ve Nakli Sözleşmesi (Onay) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 508,
+"numara": "63/2014",
+"ad": "Kuzey Kıbrıs Türk Cumhuriyeti ile Türkiye Hükümeti Arasında 24 Mart 2008 Tarihinde İmzalanan Sağlık Alanında İşbirliğine İlişkin Anlaşmanın Bazı Maddelerinde Değişiklik Yapılmasına Dair Protokolün Uygun Bulunmasına İlişkin (Onay) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 509,
+"numara": "45/2011",
+"ad": "Kuzey Kıbrıs Türk Cumhuriyeti Kamu Finansmanı ve Borç Yönetimi Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"28/2026"
+],
+"metinde_yok": []
+},
+{
+"pkey": 510,
+"numara": "42/2002",
+"ad": "Kuzey Kıbrıs Türk Cumhuriyeti Karasuları Yasası",
+"durum": "tamam",
+"degisiklikler": [],
+"metinde_yok": []
+},
+{
+"pkey": 511,
+"numara": "43/2016",
+"ad": "Kuzey Kıbrıs Türk Cumhuriyeti Maliye Bakanlığı ile Türkiye Cumhuriyeti Gümrük ve Ticaret Bakanlığı Arasında Ortak Gümrük Komitesi Kurulmasına İlişkin Mutabakat Zaptı (Onay) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 512,
+"numara": "43/2016",
+"ad": "Kuzey Kıbrıs Türk Cumhuriyeti Maliye Bakanlığı ile Türkiye Cumhuriyeti Gümrük ve Ticaret Bakanlığı Arasında Ortak Gümrük Komitesi Kurulmasına İlişkin Mutabakat Zaptı (Onay) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 513,
+"numara": "43/2016",
+"ad": "Kuzey Kıbrıs Türk Cumhuriyeti Maliye Bakanlığı ile Türkiye Cumhuriyeti Gümrük ve Ticaret Bakanlığı Arasında Ortak Gümrük Komitesi Kurulmasına İlişkin Mutabakat Zaptı (Onay) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 514,
+"numara": "43/2016",
+"ad": "Kuzey Kıbrıs Türk Cumhuriyeti Maliye Bakanlığı ile Türkiye Cumhuriyeti Gümrük ve Ticaret Bakanlığı Arasında Ortak Gümrük Komitesi Kurulmasına İlişkin Mutabakat Zaptı (Onay) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 515,
+"numara": "57/1987",
+"ad": "Kuzey Kıbrıs Türk Cumhuriyeti Merkez Bankası Teşkilat Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"45/2016",
+"9/2017",
+"26/2017",
+"48/2024"
+],
+"metinde_yok": []
+},
+{
+"pkey": 516,
+"numara": "41/2001",
+"ad": "Kuzey Kıbrıs Türk Cumhuriyeti Merkez Bankası Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"8/2017"
+],
+"metinde_yok": []
+},
+{
+"pkey": 517,
+"numara": "17/1986",
+"ad": "Kuzey Kıbrıs Türk Cumhuriyeti Milli Eğitim Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"26/2022"
+],
+"metinde_yok": []
+},
+{
+"pkey": 518,
+"numara": "11/2013",
+"ad": "Kuzey Kıbrıs Türk Cumhuriyeti Pasaport Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"15/2026"
+],
+"metinde_yok": []
+},
+{
+"pkey": 519,
+"numara": "40/2017",
+"ad": "Kuzey Kıbrıs Türk Cumhuriyeti Tarım ve Doğal Kaynaklar Bakanlığı ile Türkiye Cumhuriyeti Tarım ve Köyişleri Bakanlığı Arasında Tarımsal Araştırma Alanında İşbirliği Protokolü (Onay) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 520,
+"numara": "Fasıl 107",
+"ad": "Kuzey Kıbrıs Türk Cumhuriyeti Yurttaşlarının Yurt Dışına Çıkışları (Düzenleme) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 521,
+"numara": "35/1985",
+"ad": "Kuzey Kıbrıs Türk Cumhuriyeti Yüksek Adliye Kurulu Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 522,
+"numara": "39/2004",
+"ad": "Kuzey Kıbrıs Türk Cumhuriyetinde Tedavülde Bulunan Türk Lirasının Yeni Türk Lirasına Dönüştürülmesi Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 524,
+"numara": "39/2022",
+"ad": "Kuzey Kıbrıs Türk Elektrik Kurumunun Aksa Enerji Üretim Anonim Şirketine Olan Borçlarının Devlet Borcu Olarak Devralınmasına İlişkin Yasa",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 525,
+"numara": "25/2005",
+"ad": "Kuzey Kıbrıs Türk Hava Kurumu Yasasını Yürürlükten Kaldıran Yasa",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 526,
+"numara": "30/1998",
+"ad": "Kuzey KıbrısTürk Cumhuriyeti İle Türkiye Cumhuriyeti Arasında Sağlık Alanında İşbirliği Anlaşması (Onay) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 527,
+"numara": "13/1981",
+"ad": "Kuzey KıbrıusTürk Cumhuriyeti Güvenlik Kuvvetlerini Güçlendirme Kurumu Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"21/2025"
+],
+"metinde_yok": []
+},
+{
+"pkey": 528,
+"numara": "45/1992",
+"ad": "Kuzey Kırbıs Türk Cumhuriyeti Kalkınma Bankası Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"38/2019"
+],
+"metinde_yok": []
+},
+{
+"pkey": 529,
+"numara": "Fasıl 277",
+"ad": "Küçükler ve Mahcurlar Vesayet   Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 531,
+"numara": "277",
+"ad": "Küçükler ve Mahcurların Vesayeti Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 532,
+"numara": "19/1986",
+"ad": "Kültür Dairesi(Kuruluş, Görev Ve Çalışma Esasları) Yasası",
+"durum": "tamam",
+"degisiklikler": [],
+"metinde_yok": []
+},
+{
+"pkey": 533,
+"numara": "67/2005",
+"ad": "LAW FOR THE COMPENSATION, EXCHANGE AND RESTITUTION OF IMMOVABLE PROPERTIES WHICH ARE WITHIN THE SCOPE OF SUB-PARAGRAPH (B) OF PARAGRAPH 1 OF ARTICLE 159 OF THE CONSTITUTION",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 534,
+"numara": "43/1998",
+"ad": "Lefkoşa Belediyesine Ait Taşınmaz Malların Lefkoşa Türk Belediyesi Adına Kaydı (Geçici Kurallar) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 535,
+"numara": "Fasıl 345",
+"ad": "Lefkoşa İçme Suyu (Arab Ahmet ve Silikdar Vakıfları) İdare Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 536,
+"numara": "Fasıl 346",
+"ad": "Lefkoşa İçme Suyu (Özel Yetkiler) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 537,
+"numara": "7/2001",
+"ad": "Likidite Sorunu Olan Bankaların Faaliyetlerinin Kısıtlanması Ve Mükellefiyetlerinin Ertelenmesi Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 538,
+"numara": "23/1976",
+"ad": "Lilmanlar Dairesi Ve Müdürüne  Bazı Yasal Yetkilerin Devrini İçeren Yasa",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 539,
+"numara": "Fasıl 294",
+"ad": "Liman Düzenleme Yasası",
+"durum": "tamam",
+"degisiklikler": [],
+"metinde_yok": []
+},
+{
+"pkey": 540,
+"numara": "Fasıl 184",
+"ad": "Liman İşçileri (Hizmet Düzenleme) Yasası",
+"durum": "tamam",
+"degisiklikler": [],
+"metinde_yok": []
+},
+{
+"pkey": 541,
+"numara": "9/1987",
+"ad": "Limanlar Dairesi (Kuruluş, Görev Ve Çalışma  Esasları) Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"22/2007",
+"58/2010"
+],
+"metinde_yok": []
+},
+{
+"pkey": 542,
+"numara": "58/2006",
+"ad": "Lisanslı Harita Kadastro Büroları ve Şirketleri Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 543,
+"numara": "56/2000",
+"ad": "Madalya Ve Nişanlar Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"60/2024"
+],
+"metinde_yok": []
+},
+{
+"pkey": 544,
+"numara": "Fasıl 271",
+"ad": "Maden Ocakları Düzenleme Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 545,
+"numara": "Fasıl 270",
+"ad": "Maden ve Taş Ocakları (Düzenleme) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 546,
+"numara": "Fasıl 196",
+"ad": "Madeni Para (Koruma) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 547,
+"numara": "Fasıl 56",
+"ad": "Mağusa’nın Geliştirilmesi Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 552,
+"numara": "Fasıl 282",
+"ad": "Mahkum Malları Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 553,
+"numara": "25/2008",
+"ad": "Mal Bildiriminde Bulunulması Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 554,
+"numara": "21/1977",
+"ad": "Mal Ve Hizmetler (Düzenleme Ve Denetim) Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"30/2008"
+],
+"metinde_yok": []
+},
+{
+"pkey": 555,
+"numara": "57/1962",
+"ad": "Mala Yapılan Hasar İçin Tazminat Alınmasına Dair Yasa",
+"durum": "tamam",
+"degisiklikler": [],
+"metinde_yok": []
+},
+{
+"pkey": 556,
+"numara": "60/2014",
+"ad": "Mali Düzenleme ve Kamu Alacaklarının İndirimli Tahsiline İlişkin (Geçici Kurallar) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 557,
+"numara": "27/2003",
+"ad": "Mali Düzenleme Ve Tahsilatın Hızlandırılması (Geçici Kurallar) Yasası",
+"durum": "tamam",
+"degisiklikler": [],
+"metinde_yok": []
+},
+{
+"pkey": 558,
+"numara": "7/2005",
+"ad": "Mali Yılı Zorunlu Harcamalarda ve Gelir Tahsilinde Yetkilendirme Yasası (2005)",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 559,
+"numara": "53/1982",
+"ad": "Maliye,Teftiş Ve İnceleme Kurulu Kuruluş Görev Ve Çalışma Esasları Yasası",
+"durum": "tamam",
+"degisiklikler": [],
+"metinde_yok": []
+},
+{
+"pkey": 560,
+"numara": "Fasıl 263",
+"ad": "Malların Denizden Taşınması Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 561,
+"numara": "Fasıl 62",
+"ad": "Malların Hileli Devrini Önleme Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 562,
+"numara": "40/1996",
+"ad": "Menkul Kıymetler Borsası Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 563,
+"numara": "45/1988",
+"ad": "Merkezi Cezaevi (Kuruluş, Görev Ve Çalışma Esasları) Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"50/2015",
+"13/2022",
+"45/2026"
+],
+"metinde_yok": []
+},
+{
+"pkey": 564,
+"numara": "4/1995",
+"ad": "Merkezi Mevzuat Dairesi (Kuruluş Görev Ve Çalışma Esasları) Yasası",
+"durum": "eksik",
+"degisiklikler": [
+"3/2009",
+"10/2024"
+],
+"metinde_yok": [
+"3/2009",
+"10/2024"
+]
+},
+{
+"pkey": 565,
+"numara": "Fasıl 141",
+"ad": "Mermer İmalâtı (Düzenleme) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 566,
+"numara": "Fasıl 229",
+"ad": "Mesarya Devlet Arazileri Sınırlarının Saptanması Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 567,
+"numara": "69/1989",
+"ad": "Mesleki Teknik Öğretim Dairesi  (Kuruluş, Görev Ve Çalışma Esasları) Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"13/2009",
+"40/2026"
+],
+"metinde_yok": []
+},
+{
+"pkey": 568,
+"numara": "35/2020",
+"ad": "Mesleki Yeterlilik Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 569,
+"numara": "42/1992",
+"ad": "Meteoroloji Dairesi (Kuruluş, Görev Ve Çalışma Esasları) Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"31/2006",
+"24/2009"
+],
+"metinde_yok": []
+},
+{
+"pkey": 570,
+"numara": "34/2014",
+"ad": "Metroloji (Ölçü ve Ölçü Aletleri) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 571,
+"numara": "Fasıl 63",
+"ad": "Meyve Ağaçlarını Koruma Yasası",
+"durum": "tamam",
+"degisiklikler": [],
+"metinde_yok": []
+},
+{
+"pkey": 572,
+"numara": "Fasıl 247",
+"ad": "Mezarlıklar Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 573,
+"numara": "15/1990",
+"ad": "Milli Arşiv Ve Araştırma Dairesi (Kuruluş, Görev Ve Çalışma Esasları) Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"84/2007"
+],
+"metinde_yok": []
+},
+{
+"pkey": 574,
+"numara": "41/2006",
+"ad": "Milli Eğitim, Denetleme,Değerlendirme ve Yönlendirme Kurulu (Kuruluş, Görev ve Çalışma Esasları) Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"2/2008"
+],
+"metinde_yok": []
+},
+{
+"pkey": 575,
+"numara": "Fasıl 110",
+"ad": "Misyonerlerin Eğitsel ve Tıbbi Faaliyetleri (Yabancılar Düzenleme) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 576,
+"numara": "Fasıl 333",
+"ad": "Motorlu Araçlar (Üçüncü Şahıs Sigortası) Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"54/2005",
+"19/2008",
+"44/2018"
+],
+"metinde_yok": []
+},
+{
+"pkey": 577,
+"numara": "21/1974",
+"ad": "Motorlu Araçlar Ve Yol Trafiği Yasalarını Tadil Eden Ve Birleştiren Yasa",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 579,
+"numara": "50/2000",
+"ad": "Motorlu Araçlarla Yolcu Ve Eşya Taşınması (Denetim)   Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"51/2005",
+"10/2007",
+"43/2010",
+"20/2012",
+"14/2014",
+"57/2017",
+"26/2023",
+"10/2025",
+"29/2026"
+],
+"metinde_yok": []
+},
+{
+"pkey": 580,
+"numara": "61/1988",
+"ad": "Muhaceret Dairesi (Kuruluş, Görev Ve Çalışma Esasları) Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"3/2009",
+"10/2024"
+],
+"metinde_yok": []
+},
+{
+"pkey": 583,
+"numara": "16/1980",
+"ad": "Mücahitlerin Tazmini ile Gazilerin Hak ve Menfaatlerinin Belirlenmesi Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"64/2024",
+"19/2025",
+"17/2026"
+],
+"metinde_yok": []
+},
+{
+"pkey": 584,
+"numara": "15/1985",
+"ad": "Mücahitlik Hizmetini Belgelendirme Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 585,
+"numara": "Fasıl 164",
+"ad": "Müfsidane Yayınlar Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 586,
+"numara": "33/1998",
+"ad": "Mülki Yönetim Ve Bölümleri Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"2/2017"
+],
+"metinde_yok": []
+},
+{
+"pkey": 588,
+"numara": "35/1963",
+"ad": "Müstehcen Konuların Yayınlanması Ve Edebi Yazıların Korunması İle İlgili Yasayı Tadil Eden Yasa",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 589,
+"numara": "Fasıl 193",
+"ad": "Mütevelliler Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 590,
+"numara": "Fasıl 131",
+"ad": "Narenciyeciliğe  (Yardım) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 591,
+"numara": "6/1988",
+"ad": "Nüfus  Kayıt   Dairesi (Kuruluş, Görev Ve Çalışma Esasları) Yasası",
+"durum": "tamam",
+"degisiklikler": [],
+"metinde_yok": []
+},
+{
+"pkey": 592,
+"numara": "16/1970",
+"ad": "Nüfus  Sayımı  Bilgi Toplama Tahkikatı Ve İstatistik  Araştırma Yapılmasını Öngören Yasa",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 593,
+"numara": "6/1969",
+"ad": "Olağanüstü Durum Süresince, Türk Cemaatına Mensup Olmayan Şahıslara Gayrimenkul  Mal Satışını Önleyen Yasa",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 594,
+"numara": "56/1983",
+"ad": "Olağanüstü Durum Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 596,
+"numara": "20/2018",
+"ad": "Organik Tarım Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 597,
+"numara": "20/2022",
+"ad": "Organize Sanayi Bölgeleri Yasası",
+"durum": "tamam",
+"degisiklikler": [],
+"metinde_yok": []
+},
+{
+"pkey": 598,
+"numara": "Fasıl 61",
+"ad": "Orman (Kundakçılığa Karşı Koruma) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 599,
+"numara": "53/1993",
+"ad": "Orman Arazisi (İcarlama  Ve Yönetim) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 600,
+"numara": "53/1993",
+"ad": "Orman Arazisi (İcarlama  ve Yönetim) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 601,
+"numara": "59/1989",
+"ad": "Orman Dairesi (Kuruluş, Görev Ve Çalışma Esasları) Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"70/2005",
+"23/2009",
+"34/2023"
+],
+"metinde_yok": []
+},
+{
+"pkey": 602,
+"numara": "Fasıl 60",
+"ad": "Orman Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"20/2021",
+"10/2023"
+],
+"metinde_yok": []
+},
+{
+"pkey": 603,
+"numara": "60/2003",
+"ad": "Orta Doğu Teknik Üniversitesi Kuzey Kıbrıs Kampusu (Kuruluş,Görev,Çalışma ve Denetleme) Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"26/2015"
+],
+"metinde_yok": []
+},
+{
+"pkey": 604,
+"numara": "6/2002",
+"ad": "Orta Doğu Teknik Üniversitesinin Kuzey Kıbrıs Türk Cumhuriyetinde bir Kampüs Kurmasına İlişkin Çerçeve Protokolü (Onay) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 605,
+"numara": "Fasıl 116",
+"ad": "Ortaklıklara İlişkin Yasayı Değiştiren  Ve Ticari Ünvanların Kaydını Düzenleyen Yasa",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 606,
+"numara": "Fasıl 139",
+"ad": "Oteller, Yatıevleri Ve Halka Açık Binalardaki Sağlık Koşullarını Ve Öteki Konuları Düzenleyen Ve Yatıevlerinin Ruhsatlandırılmasını Öngören Yasa",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 607,
+"numara": "Fasıl 138",
+"ad": "Otellerin Ruhsatlandırılmasına İlişkin Yasayı Birleştiren Ve Değiştiren Yasa",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 608,
+"numara": "Fasıl 325",
+"ad": "Oyun Kağıdı (Tüketim Vergisi) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 609,
+"numara": "25/1985",
+"ad": "Öğretmenler Yasası",
+"durum": "eksik",
+"degisiklikler": [
+"29/2005",
+"60/2005",
+"45/2006",
+"60/2006",
+"33/2007",
+"56/2007",
+"6/2008",
+"33/2008",
+"38/2008",
+"71/2009",
+"49/2011",
+"31/2013",
+"8/2015",
+"47/2015",
+"49/2017",
+"34/2019",
+"12/2022",
+"31/2023",
+"26/2024",
+"33/2024"
+],
+"metinde_yok": [
+"33/2007"
+]
+},
+{
+"pkey": 610,
+"numara": "14/2011",
+"ad": "Öğretmenler Yasasının Hayat Pahalılığı Ödeneği Hakkını Düzenleyen 53 üncü Maddesinin Uygulanmasının Durdurulmasına İlişkin (Geçici Kurallar) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 612,
+"numara": "Fasıl 153",
+"ad": "Ölüm Sorgu Yargıçları Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 613,
+"numara": "6/1961",
+"ad": "Özel  Mali Hükümler Kanunu",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 616,
+"numara": "24/2022",
+"ad": "Özel Gereksinimli Bireylerin Eğitimi Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 617,
+"numara": "33/2017",
+"ad": "Özel Güvenlik Hizmetleri Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 620,
+"numara": "37/2012",
+"ad": "Özel Hastane Özel Dal Hastanesi Özel Klinik Özel Dispanser ve Özel Muayenehaneler (Denetim) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 621,
+"numara": "32/2014",
+"ad": "Özel Hayatın ve Hayatın Gizli Alanının Korunması Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 622,
+"numara": "32/2006",
+"ad": "Özel Huzurevleri Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 623,
+"numara": "62/2007",
+"ad": "Özel İletişim Hizmetleri Vergisi Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 624,
+"numara": "24/2012",
+"ad": "Özelleştirme Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"1/2015",
+"1/2017"
+],
+"metinde_yok": []
+},
+{
+"pkey": 625,
+"numara": "24/2012",
+"ad": "Özelleştirme Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"1/2015",
+"1/2017"
+],
+"metinde_yok": []
+},
+{
+"pkey": 626,
+"numara": "46",
+"ad": "Pamuk  Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 627,
+"numara": "Fasıl 46",
+"ad": "Pamuk Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 628,
+"numara": "38/1997",
+"ad": "Para Ve Kambiyo Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"18/2025"
+],
+"metinde_yok": []
+},
+{
+"pkey": 630,
+"numara": "33/2025",
+"ad": "Para, Kambiyo Ve İnkişaf Sandığı İşleri Dairesi (Kuruluş, Görev Ve Çalışma Esasları) Yasası",
+"durum": "tamam",
+"degisiklikler": [],
+"metinde_yok": []
+},
+{
+"pkey": 631,
+"numara": "6/2023",
+"ad": "Paris Anlaşması (Onay) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 633,
+"numara": "Fasıl 266",
+"ad": "Patentalar Yasası",
+"durum": "tamam",
+"degisiklikler": [],
+"metinde_yok": []
+},
+{
+"pkey": 634,
+"numara": "Fasıl 54",
+"ad": "Patlayıcı Maddeler Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"37/2005"
+],
+"metinde_yok": []
+},
+{
+"pkey": 636,
+"numara": "58/1999",
+"ad": "Petrol Kirliliğinden Doğan Hasarlar İçin Hukuki Sorumluluk Sözleşmesi (ONAY) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 637,
+"numara": "Fasıl 74",
+"ad": "Piyangolar Yasası",
+"durum": "tamam",
+"degisiklikler": [],
+"metinde_yok": []
+},
+{
+"pkey": 638,
+"numara": "26/1993",
+"ad": "Plajların Kullanım ve Denetim Yasası",
+"durum": "tamam",
+"degisiklikler": [],
+"metinde_yok": []
+},
+{
+"pkey": 639,
+"numara": "79/1991",
+"ad": "Planlama Ve İnşaat Dairesi (Kuruluş, Görev Ve Çalışma Esasları) Yasası",
+"durum": "tamam",
+"degisiklikler": [],
+"metinde_yok": []
+},
+{
+"pkey": 640,
+"numara": "11/1960",
+"ad": "Pnömokonyazis'in Sebep Olduğu Sakatlık veya Ölüm Hallerinde Tazminat Ödenmesini Derpiş Eden Yasa",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 641,
+"numara": "Fasıl 262",
+"ad": "Poliçeler Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"34/2006",
+"20/2010",
+"46/2011",
+"21/2013",
+"32/2024"
+],
+"metinde_yok": []
+},
+{
+"pkey": 642,
+"numara": "51/1984",
+"ad": "Polis Örgütü (Kuruluş, Görev Ve Yetkileri) Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"19/2005",
+"50/2005",
+"46/2006",
+"55/2008",
+"70/2009",
+"87/2009",
+"36/2011",
+"14/2012",
+"1/2013",
+"2/2013",
+"38/2014",
+"68/2017",
+"2/2020",
+"31/2022",
+"11/2024",
+"27/2024",
+"64/2026"
+],
+"metinde_yok": []
+},
+{
+"pkey": 643,
+"numara": "15/2015",
+"ad": "Polis Örgütü (KuruluşGörev ve Yetkileri) Yasasının Hayat Pahalılığı Ödeneği Hakkını Düzenleyen 40ıncı Maddesinin Uygulanmasının Durdurulmasına İlişkin (Geçici Kurallar) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 644,
+"numara": "15/2011",
+"ad": "Polis Örgütü(KuruluşGörev ve Yetkileri) Yasasının Hayat Pahalılığı Ödeneği Hakkını Düzenleyen 40 ıncı Maddesinin Uygulanmasının Durdurulmasına İlişkin (Geçici Kurallar) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 645,
+"numara": "28/1984",
+"ad": "Posta Dairesi Kuruluş, Görev Ve Çalışma Esasları Yasası",
+"durum": "tamam",
+"degisiklikler": [],
+"metinde_yok": []
+},
+{
+"pkey": 646,
+"numara": "Fasıl 303",
+"ad": "Posta Dairesi Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 647,
+"numara": "17/1973",
+"ad": "Pul Kanununu Tadil Eden Kural",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 648,
+"numara": "19/1963",
+"ad": "Pul Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"11/2006",
+"2/2026"
+],
+"metinde_yok": []
+},
+{
+"pkey": 649,
+"numara": "Fasıl 158",
+"ad": "Rahatsızlıklar (Genelevler) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 650,
+"numara": "36/2009",
+"ad": "Rekabet Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"3/2012",
+"12/2023"
+],
+"metinde_yok": []
+},
+{
+"pkey": 651,
+"numara": "Fasıl 50",
+"ad": "Reklamların Teşhiri (Denetim) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 652,
+"numara": "6/1987",
+"ad": "Resmi Kabz Memurluğu Ve Mukayyitlik Dairesi (Kuruluş, Görev Ve Çalışma Esasları) Yasası",
+"durum": "tamam",
+"degisiklikler": [],
+"metinde_yok": []
+},
+{
+"pkey": 653,
+"numara": "Fasıl 191",
+"ad": "Resmi Mütevelliler Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 654,
+"numara": "49/1984",
+"ad": "Resmi Tatil Ve Anma Günleri Yasası",
+"durum": "tamam",
+"degisiklikler": [],
+"metinde_yok": []
+},
+{
+"pkey": 655,
+"numara": "46/2008",
+"ad": "Restorancılar Birliği Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 656,
+"numara": "22/1978",
+"ad": "RlıhtımHarçları Yasası",
+"durum": "tamam",
+"degisiklikler": [],
+"metinde_yok": []
+},
+{
+"pkey": 657,
+"numara": "50/2025",
+"ad": "Sabıka Kaydının Silinmesi Yasası",
+"durum": "tamam",
+"degisiklikler": [],
+"metinde_yok": []
+},
+{
+"pkey": 658,
+"numara": "15/2020",
+"ad": "Sabit Kıymetlerin Güncellenmesi ve Birikmiş Kamu Alacaklarının Tahsiline İlişkin İndirimli Mali Düzenleme Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 659,
+"numara": "57/1991",
+"ad": "Sağlık Alanında  İşbirliğine İlişkin Andlaşmaya Ek Protokol (Onay) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 660,
+"numara": "54/1992",
+"ad": "Sağlık Alanında İşbirliği Antlaşması (Onay) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 661,
+"numara": "6/1991",
+"ad": "Sağlık Alanında İşbirliği Antlaşması (Onay) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 662,
+"numara": "2/1992",
+"ad": "Sağlık Alanında İşbirliğine anlaşmaya Ek Protokol (Onay) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 663,
+"numara": "8/2012",
+"ad": "Sağlık Fonu Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 664,
+"numara": "1/1992",
+"ad": "Sahil Güvenlik Komutanlığı (Birliği) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 665,
+"numara": "1/1992",
+"ad": "Sahil Güvenlik Komutanlığı(Birliği)",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 666,
+"numara": "Fasıl 59",
+"ad": "Sahilleri Koruma Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"32/2008"
+],
+"metinde_yok": []
+},
+{
+"pkey": 667,
+"numara": "17/1975",
+"ad": "Sahipsiz Taşınır Mallar (Derleme ve Kontrol) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 668,
+"numara": "Fasıl 85",
+"ad": "Sakinlerin Kaydı Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"41/2025"
+],
+"metinde_yok": []
+},
+{
+"pkey": 669,
+"numara": "Fasıl 159",
+"ad": "Saldırı  Silahları  (Yasaklama) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 670,
+"numara": "32/1989",
+"ad": "Sanayi Dairesi (Kuruluş ,Görev Ve  Çalışma Esasları) Yasası",
+"durum": "tamam",
+"degisiklikler": [],
+"metinde_yok": []
+},
+{
+"pkey": 671,
+"numara": "32/1989",
+"ad": "Sanayi Dairesi (Kuruluş, Görev ve Çalışma Esasları) Yasası",
+"durum": "tamam",
+"degisiklikler": [],
+"metinde_yok": []
+},
+{
+"pkey": 672,
+"numara": "46/2019",
+"ad": "Sanayi Sicil Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"13/2024"
+],
+"metinde_yok": []
+},
+{
+"pkey": 673,
+"numara": "18/1978",
+"ad": "Sayıştay  Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"49/2007",
+"56/2008",
+"45/2009",
+"37/2016",
+"22/2023"
+],
+"metinde_yok": []
+},
+{
+"pkey": 675,
+"numara": "45/2024",
+"ad": "Seçim ve Halkoylaması (Geçici Kurallar No.2) Yasası",
+"durum": "eksik",
+"degisiklikler": [
+"55/2026",
+"70/2026"
+],
+"metinde_yok": [
+"55/2026",
+"70/2026"
+]
+},
+{
+"pkey": 676,
+"numara": "44/2024",
+"ad": "Seçim ve Halkoylaması (Geçici Kurallar) Yasası",
+"durum": "eksik",
+"degisiklikler": [
+"55/2026",
+"70/2026"
+],
+"metinde_yok": [
+"55/2026",
+"70/2026"
+]
+},
+{
+"pkey": 677,
+"numara": "41/2022",
+"ad": "Seçim ve Halkoylaması (Geçici Kurallar) Yasası",
+"durum": "eksik",
+"degisiklikler": [
+"23/2023",
+"55/2026",
+"70/2026"
+],
+"metinde_yok": [
+"23/2023",
+"55/2026",
+"70/2026"
+]
+},
+{
+"pkey": 678,
+"numara": "17/2023",
+"ad": "Seçim ve Halkoylaması (Geçici Kurallar) Yasası",
+"durum": "eksik",
+"degisiklikler": [
+"55/2026",
+"70/2026"
+],
+"metinde_yok": [
+"55/2026",
+"70/2026"
+]
+},
+{
+"pkey": 679,
+"numara": "21/2022",
+"ad": "Seçim ve Halkoylaması (Geçici Kurallar) Yasası",
+"durum": "eksik",
+"degisiklikler": [
+"23/2023",
+"55/2026",
+"70/2026"
+],
+"metinde_yok": [
+"23/2023",
+"55/2026",
+"70/2026"
+]
+},
+{
+"pkey": 680,
+"numara": "11/2018",
+"ad": "Seçim ve Halkoylaması (Geçici Kurallar) Yasası",
+"durum": "eksik",
+"degisiklikler": [
+"27/2021",
+"7/2022",
+"23/2023",
+"55/2026",
+"70/2026"
+],
+"metinde_yok": [
+"27/2021",
+"7/2022",
+"23/2023",
+"55/2026",
+"70/2026"
+]
+},
+{
+"pkey": 681,
+"numara": "5/1976",
+"ad": "Seçim Ve Halkoylaması Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"24/2010"
+],
+"metinde_yok": []
+},
+{
+"pkey": 683,
+"numara": "2/1965",
+"ad": "Seçimler (Türk Cemaat Meclisi) (Geçici Hükümler) Kanunu",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 684,
+"numara": "17/1980",
+"ad": "Seferberlik Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"47/2006"
+],
+"metinde_yok": []
+},
+{
+"pkey": 685,
+"numara": "13/1971",
+"ad": "Sendikalar Yasası",
+"durum": "tamam",
+"degisiklikler": [],
+"metinde_yok": []
+},
+{
+"pkey": 686,
+"numara": "26/1983",
+"ad": "Serbest Liman Ve Bölge Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"28/2011",
+"52/2024",
+"7/2025"
+],
+"metinde_yok": []
+},
+{
+"pkey": 687,
+"numara": "44/2000",
+"ad": "Sığınak Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"14/2005",
+"17/2009",
+"23/2014"
+],
+"metinde_yok": []
+},
+{
+"pkey": 689,
+"numara": "8/2018",
+"ad": "Sınıraşan Örgütlü Suçlara Karşı Birleşmiş Milletler Sözleşmesi ve Bu Sözleşmeye Ek İnsan Ticaretinin Özellikle Kadın ve Çocuk Ticaretinin Önlenmesine Durdurulmasına ve Cezalandırılmasına İlişkin Protokol (Onay) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 690,
+"numara": "60/2010",
+"ad": "Sigorta Hizmetleri (Düzenleme ve Denetim) Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"11/2014",
+"27/2020",
+"36/2025"
+],
+"metinde_yok": []
+},
+{
+"pkey": 691,
+"numara": "Fasıl 55",
+"ad": "Silah İhracatı ( Yasaklama ) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 692,
+"numara": "Fasıl 163",
+"ad": "Silahlı Kuvvetlere Ait Mallar (Çalma ve Tasarrufta Bulundurma) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 693,
+"numara": "Fasıl 43",
+"ad": "Sinematografik Filmler Yasası",
+"durum": "tamam",
+"degisiklikler": [],
+"metinde_yok": []
+},
+{
+"pkey": 694,
+"numara": "41/1989",
+"ad": "Sivil  Havacılık Dairesi (Kuruluş, Görev  Ve Çalışma  Esasları) Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"28/2006",
+"43/2008",
+"2/2016",
+"42/2019",
+"71/2023",
+"56/2026"
+],
+"metinde_yok": []
+},
+{
+"pkey": 695,
+"numara": "58/2023",
+"ad": "Sivil Havacılık Güvenlik Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 696,
+"numara": "3/1972",
+"ad": "Sivil Savunma Kuralı",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 697,
+"numara": "2/1980",
+"ad": "Sivil Savunma Teşkilatı Personel Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"16/2005",
+"77/2009",
+"52/2010",
+"4/2011",
+"31/2011",
+"20/2017",
+"5/2020",
+"42/2023",
+"23/2024"
+],
+"metinde_yok": []
+},
+{
+"pkey": 698,
+"numara": "16/2011",
+"ad": "Sivil Savunma Teşkilatı Personel Yasasının Hayat Pahalılığı Ödeneği Hakkını Düzenleyen 24üncü Maddesinin Uygulanmasının Durdurulmasına İlişkin (Geçici Kurallar) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 699,
+"numara": "18/2015",
+"ad": "Sivil Savunma Teşkilatı Personel Yasasının Hayat Pahalılığı Ödeneği Hakkını Düzenleyen 24üncü Maddesinin Uygulanmasının Durdurulmasına İlişkin (Geçici Kurallar) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 700,
+"numara": "47/1999",
+"ad": "Siyasal Kamu Gögrevlileri Emeklilik (Geçici Kurallar) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 701,
+"numara": "52/1987",
+"ad": "Siyasal Kamu Görevlileri Yasası",
+"durum": "tamam",
+"degisiklikler": [],
+"metinde_yok": []
+},
+{
+"pkey": 702,
+"numara": "49/2015",
+"ad": "Siyasal Partiler Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"33/2023",
+"24/2025"
+],
+"metinde_yok": []
+},
+{
+"pkey": 704,
+"numara": "Fasıl 156",
+"ad": "Sokağa Çıkma Yasağı Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"16/2020"
+],
+"metinde_yok": []
+},
+{
+"pkey": 705,
+"numara": "Fasıl 95",
+"ad": "Sokaklarda ve Evden Eve Yardım Toplama Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 706,
+"numara": "Fasıl 44",
+"ad": "Soruşturma Komisyonları Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 707,
+"numara": "30/1996",
+"ad": "Sosyal Güvenlik  Kurumlarına Tabi Hizmetlerin Hesaplanması Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"96/2007",
+"16/2012"
+],
+"metinde_yok": []
+},
+{
+"pkey": 708,
+"numara": "37/2001",
+"ad": "Sosyal Güvenlik Kurumlarına Tabi Hizmetlerin Hesaplanması (Geçici Kurallar) Yasası",
+"durum": "eksik",
+"degisiklikler": [
+"96/2007",
+"16/2012"
+],
+"metinde_yok": [
+"96/2007",
+"16/2012"
+]
+},
+{
+"pkey": 710,
+"numara": "73/2007",
+"ad": "Sosyal Güvenlik Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"80/2009",
+"4/2010",
+"5/2012",
+"26/2013",
+"36/2015",
+"28/2017",
+"31/2017",
+"10/2019",
+"6/2020",
+"25/2023",
+"22/2024",
+"53/2026",
+"54/2026"
+],
+"metinde_yok": []
+},
+{
+"pkey": 711,
+"numara": "24/2011",
+"ad": "Sosyal Güvenlik Yasasında Aylık ve Gelirlerin Yükseltilmesini Düzenleyen 110 uncu Maddenin Uygulanmasının Durdurulmasına İlişkin (Geçici Kurallar) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 713,
+"numara": "48/2009",
+"ad": "Sosyal Sigorta Gecikme Zammı Oranlarının Yeniden Düzenlenmesine İlişkin Yasa",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 714,
+"numara": "48/2009",
+"ad": "Sosyal Sigorta Gecikme Zammı Oranlarının Yeniden Düzenlenmesine İlişkin Yasa",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 715,
+"numara": "58/1989",
+"ad": "Sosyal Sigortalar Dairesi(Kuruluş, Görev Ve Çalışma Esasları) Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"2/2019"
+],
+"metinde_yok": []
+},
+{
+"pkey": 716,
+"numara": "72/1989",
+"ad": "Sosyal Yardımlar Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 717,
+"numara": "Fasıl 149",
+"ad": "Sözleşmeler Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"41/2024"
+],
+"metinde_yok": []
+},
+{
+"pkey": 718,
+"numara": "8/1996",
+"ad": "Spor Alanında İşbirliği Protokolü (Onay) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 719,
+"numara": "65/1987",
+"ad": "Spor Dairesi (Kuruluş, Görev Ve Çalışma Esasları) Yasası",
+"durum": "tamam",
+"degisiklikler": [],
+"metinde_yok": []
+},
+{
+"pkey": 721,
+"numara": "39/1988",
+"ad": "Su İşleri Dairesi (Kuruluş, Görev Ve Çalışma Esasları) Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"21/2009"
+],
+"metinde_yok": []
+},
+{
+"pkey": 722,
+"numara": "46/1977",
+"ad": "Su Temini (Özel Tedbirler ) Yasası",
+"durum": "tamam",
+"degisiklikler": [],
+"metinde_yok": []
+},
+{
+"pkey": 723,
+"numara": "27/2000",
+"ad": "Su Ürünleri Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"52/2020"
+],
+"metinde_yok": []
+},
+{
+"pkey": 724,
+"numara": "1/2024",
+"ad": "Suç Gelirlerinin Aklanmasının Terörizmin Finansmanının ve Kitle İmha Silahlarının Yaygınlaşmasının Finansmanının Önlenmesi Yasası",
+"durum": "eksik",
+"degisiklikler": [
+"22/2025"
+],
+"metinde_yok": [
+"22/2025"
+]
+},
+{
+"pkey": 725,
+"numara": "Fasıl 157",
+"ad": "Suç İşleyen Çocuklar Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 726,
+"numara": "Fasıl 162",
+"ad": "Suç İşleyenlerin  Gözetim Altında Bulundurulması Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 727,
+"numara": "Fasıl 152",
+"ad": "Suçların Davasız Halli Yasası",
+"durum": "tamam",
+"degisiklikler": [],
+"metinde_yok": []
+},
+{
+"pkey": 728,
+"numara": "43/1988",
+"ad": "Suçluların Geri Verilmesi, Mahkeme İlamlarının Karşılıklı Tenfizi Ve Adli Yardımlaşma Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 729,
+"numara": "Fasıl 115",
+"ad": "Sulama (Özel Sular) Birlikleri  Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 730,
+"numara": "Fasıl 342",
+"ad": "Sulama Bölgeleri (Köyler) Yasası",
+"durum": "tamam",
+"degisiklikler": [],
+"metinde_yok": []
+},
+{
+"pkey": 731,
+"numara": "22/1977",
+"ad": "Sulama Örgütleri (Kuruluş Ve Görevleri) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 732,
+"numara": "34/2002",
+"ad": "Sulama Örgütleri ve Tarımsal Amaçlı Su Kullanım Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 733,
+"numara": "1/1977",
+"ad": "Süt Endüstrisi Kurumu Yasası",
+"durum": "tamam",
+"degisiklikler": [],
+"metinde_yok": []
+},
+{
+"pkey": 734,
+"numara": "Fasıl 9",
+"ad": "Şahadet Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"33/2006"
+],
+"metinde_yok": []
+},
+{
+"pkey": 735,
+"numara": "71/2007",
+"ad": "Şans Oyunları Hizmetleri Vergisi Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"44/2010",
+"35/2024"
+],
+"metinde_yok": []
+},
+{
+"pkey": 736,
+"numara": "31/2009",
+"ad": "Şans Oyunları Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"57/2011",
+"1/2012",
+"38/2015",
+"26/2025"
+],
+"metinde_yok": []
+},
+{
+"pkey": 737,
+"numara": "47/1988",
+"ad": "Şehir Planlama Dairesi (Kuruluş, Görev Ve Çalışma Esasları) Yasası",
+"durum": "eksik",
+"degisiklikler": [
+"22/2007",
+"58/2010"
+],
+"metinde_yok": [
+"22/2007",
+"58/2010"
+]
+},
+{
+"pkey": 738,
+"numara": "21/1985",
+"ad": "Şehit  Ve Hadise  Kurbanı Çocuklarına  Arsa Verilmesini Düzenleyen Yasa",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 739,
+"numara": "7/1974",
+"ad": "Şehit ve Hadise Kurbanı Ailelere ve Malûllere Yardım Yasası",
+"durum": "tamam",
+"degisiklikler": [],
+"metinde_yok": []
+},
+{
+"pkey": 740,
+"numara": "19/1991",
+"ad": "Şehitlikler Ve Anıtlar Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 741,
+"numara": "Fasıl 113",
+"ad": "Şirketler Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"35/2007"
+],
+"metinde_yok": []
+},
+{
+"pkey": 742,
+"numara": "Fasıl 4",
+"ad": "Tahkim Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 743,
+"numara": "42/2012",
+"ad": "Taksit Emrine Uymayanların Affedilmesine İlişkin Yasa",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 744,
+"numara": "31/2000",
+"ad": "Talim ve Terbiye Dairesi (Kuruluş, Görev ve Çalışma Esasları) Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"14/2009"
+],
+"metinde_yok": []
+},
+{
+"pkey": 745,
+"numara": "19/1988",
+"ad": "Tanıtma Dairesi (Kuruluş Görev Ve Çalışma Esasları) Yasası",
+"durum": "eksik",
+"degisiklikler": [
+"74/2005",
+"19/2009",
+"8/2019"
+],
+"metinde_yok": [
+"74/2005",
+"19/2009",
+"8/2019"
+]
+},
+{
+"pkey": 746,
+"numara": "19/1975",
+"ad": "Tapu Ve Kadastro (Özel Kurallar) Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"46/2014"
+],
+"metinde_yok": []
+},
+{
+"pkey": 747,
+"numara": "Fasıl 219",
+"ad": "Tapu Ve Kadastro Dairesi (Harç Ve Ücretler) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 748,
+"numara": "36/2014",
+"ad": "Tapu ve Kadastro Dairesi (Harçlar ve Ücretler) (Geçici Kurallar) Yasası",
+"durum": "tamam",
+"degisiklikler": [],
+"metinde_yok": []
+},
+{
+"pkey": 750,
+"numara": "52/2009",
+"ad": "Tapu ve Kadastro Dairesi(Harçlar ve Ücretler) Yasasının (3)üncü Maddesine Bağlı Ek Cetvelin Değiştirilmesine İlişkin Yasa",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 751,
+"numara": "Fasıl 27",
+"ad": "Tarım Aletleri (İcar Satış) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 752,
+"numara": "48/1988",
+"ad": "Tarım Dairesi  (Kuruluş, Görev Ve Çalışma Esasları) Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"74/2005",
+"19/2009",
+"8/2019"
+],
+"metinde_yok": []
+},
+{
+"pkey": 753,
+"numara": "Fasıl 28",
+"ad": "Tarım Ürünleri (İhracat) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 754,
+"numara": "Fasıl 24",
+"ad": "Tarım Ürünlerine Hile Katma Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 755,
+"numara": "62/1988",
+"ad": "Tarımsal Araştırma Enstitüsü (Kuruluş, Görev Ve Çalışma Esasları) Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"72/2005",
+"7/2019"
+],
+"metinde_yok": []
+},
+{
+"pkey": 756,
+"numara": "64/1987",
+"ad": "Tarımsal İlaçların Denetimi  Hakkında Yasa",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 757,
+"numara": "Fasıl 209",
+"ad": "Tasarruf İstikrazları Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 758,
+"numara": "21/2000",
+"ad": "Tasarruf Mevduatı Sigorta Fonu Yasası",
+"durum": "tamam",
+"degisiklikler": [],
+"metinde_yok": []
+},
+{
+"pkey": 759,
+"numara": "32/2009",
+"ad": "Tasarruf Mevduatı Sigortası ve Finansal İstikrar Fonu Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"61/2023"
+],
+"metinde_yok": []
+},
+{
+"pkey": 760,
+"numara": "54/2024",
+"ad": "Tasdik Memurları Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 761,
+"numara": "46/1998",
+"ad": "Tasfiye Edilmiş Ve Edilecek Olan Halen Mevcut Kamu İktisadi Teşebbüsleri, Döner Sermayeli  Kuruluşlar Ve Devletin Sermayelerine İştirak Etmiş Olduğu Kamu Kuruluşlarının Ve Diğer Kamu Kurumlarının Borçlarının Ödenmesi Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"10/2014"
+],
+"metinde_yok": []
+},
+{
+"pkey": 762,
+"numara": "62/2002",
+"ad": "Tasfiye Halindeki Bankalar İle Yönetimi Ve Denetimi Fona Devredilen Bankalara Ait Alacakların Tasarruf Mevduatı Sigorta  Fonuna Devri Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 763,
+"numara": "36/2002",
+"ad": "Tasfiye Halindeki Bankaların Alacaklarına İlişkin Yasa",
+"durum": "tamam",
+"degisiklikler": [
+"69/2005"
+],
+"metinde_yok": []
+},
+{
+"pkey": 764,
+"numara": "Fasıl 223",
+"ad": "Taşınmaz  Mal  Satışlarının Kısıtlanması Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 765,
+"numara": "63/1993",
+"ad": "Taşınmaz Hazine Malları (Kiralama Ve Değerlendirme) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 766,
+"numara": "11/1978",
+"ad": "Taşınmaz Mal (Devir ve İpotek) Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"37/2006",
+"37/2007"
+],
+"metinde_yok": []
+},
+{
+"pkey": 767,
+"numara": "Fasıl 225",
+"ad": "Taşınmaz Mal (Dönüştürme) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 768,
+"numara": "Fasıl 224",
+"ad": "Taşınmaz Mal (Tasarruf, Kayıt Ve Kıymet Takdiri) Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"18/2006",
+"56/2017",
+"23/2018",
+"29/2020"
+],
+"metinde_yok": []
+},
+{
+"pkey": 769,
+"numara": "52/2008",
+"ad": "Taşınmaz Mal Edinme ve Uzun Vadeli Kiralama (Yabancılar) Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"39/2024"
+],
+"metinde_yok": []
+},
+{
+"pkey": 770,
+"numara": "14/2018",
+"ad": "Taşınmaz Mal Kira Stopajı Oranlarının Yeniden Düzenlenmesine İlişkin (Geçici Kurallar) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 771,
+"numara": "50/1995",
+"ad": "Taşınmaz Mal Vergileri Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"15/2006",
+"39/2006",
+"42/2007",
+"18/2008",
+"2/2021"
+],
+"metinde_yok": []
+},
+{
+"pkey": 772,
+"numara": "50/1995",
+"ad": "Taşınmaz Mal Vergisi Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"15/2006",
+"39/2006",
+"42/2007",
+"18/2008",
+"2/2021"
+],
+"metinde_yok": []
+},
+{
+"pkey": 773,
+"numara": "67/2005",
+"ad": "Taşınmaz Malların Tazmini, Takası ve İadesi Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 774,
+"numara": "5/2022",
+"ad": "TC Hükümeti ile KKTC Hükümeti Arasında Ankara Sosyal Bilimler Üniversitesinin Kuzey Kıbrıs Türk Cumhuriyetinde Eğitim Araştırma Yerleşkeleri ASBÜ KKTC Kurmasına İlişkin Anlaşmanın Onaylanmasının Uygun Bulunmasına İlişkin Onay Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 775,
+"numara": "22/2016",
+"ad": "TC Hükümeti ile KKTC Hükümeti arasında Su Temini ve Yönetimine İlişkin Anlaşmanın Onaylanmasının Uygun Bulunmasına İlişkin (Onay) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 776,
+"numara": "9/2022",
+"ad": "TC ile KKTC Arasında E-Devlet Projesinin Yürütülmesine İlişkin Protokolün Onaylanmasının Uygun Bulunmasına İlişkin (Onay) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 777,
+"numara": "Fasıl 101",
+"ad": "Tefecilik (Çiftçiler) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 778,
+"numara": "Fasıl 159",
+"ad": "Tehlikeli Silahlar (Yasaklama) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 780,
+"numara": "42/2018",
+"ad": "Teknoloji Geliştirme Bölgeleri Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"19/2023",
+"18/2026"
+],
+"metinde_yok": []
+},
+{
+"pkey": 781,
+"numara": "20/1988",
+"ad": "Telekomünikasyon Dairesi (Kuruluş, Görev Ve Çalışma Esasları) Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"52/2006",
+"73/2006",
+"21/2007",
+"20/2009"
+],
+"metinde_yok": []
+},
+{
+"pkey": 782,
+"numara": "Fasıl 302",
+"ad": "Telekomünikasyon Servisi Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 783,
+"numara": "Fasıl 305",
+"ad": "Telgraf Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"15/2008"
+],
+"metinde_yok": []
+},
+{
+"pkey": 784,
+"numara": "Fasıl 264",
+"ad": "Telif Hakkı Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 785,
+"numara": "11/1970",
+"ad": "Telsiz Telgraf (Geçici  Hükümler)  Yasası",
+"durum": "tamam",
+"degisiklikler": [],
+"metinde_yok": []
+},
+{
+"pkey": 786,
+"numara": "Fasıl 307",
+"ad": "Telsiz Telgraf Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 787,
+"numara": "57/1989",
+"ad": "Temel Sağlık Hizmetleri Dairesi  (Kuruluş, Görev Ve Çalışma Esasları) Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"34/2026"
+],
+"metinde_yok": []
+},
+{
+"pkey": 788,
+"numara": "Fasıl 189",
+"ad": "Terekelerin İdaresi Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 789,
+"numara": "Fasıl 190",
+"ad": "Terekelerin Konsolosluk Memurlarınca  İdaresi Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 790,
+"numara": "47/2000",
+"ad": "Teşvik Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"13/2014",
+"26/2014"
+],
+"metinde_yok": []
+},
+{
+"pkey": 791,
+"numara": "Fasıl 251",
+"ad": "Tıbbi Yardım Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 792,
+"numara": "37/1987",
+"ad": "Tıp ve Kimya Laboratuarları Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 793,
+"numara": "26/1990",
+"ad": "Ticaret Dairesi ( Kuruluş, Görev Ve Çalışma Esasları) Yasası",
+"durum": "eksik",
+"degisiklikler": [
+"74/2005",
+"19/2009",
+"8/2019"
+],
+"metinde_yok": [
+"74/2005",
+"19/2009",
+"8/2019"
+]
+},
+{
+"pkey": 794,
+"numara": "Fasıl 268",
+"ad": "Ticaret Markaları Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"4/2024"
+],
+"metinde_yok": []
+},
+{
+"pkey": 795,
+"numara": "21/1981",
+"ad": "Ticaret Odası Yasası",
+"durum": "tamam",
+"degisiklikler": [],
+"metinde_yok": []
+},
+{
+"pkey": 797,
+"numara": "Fasıl 265",
+"ad": "Ticari Mal Markaları Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 798,
+"numara": "43/2018",
+"ad": "Tohum ve Üretim Materyalleri Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 800,
+"numara": "Fasıl 32",
+"ad": "Toplantı ve Gösteri Yürüyüşleri Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 801,
+"numara": "42/1996",
+"ad": "Toplu İş Sözleşmesi, Grev Ve Referandum Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 802,
+"numara": "61/2014",
+"ad": "Toplumsal Cinsiyet Eşitliği Dairesi (Kuruluş Görev ve Çalışma Esasları) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 803,
+"numara": "Fasıl 94",
+"ad": "Toprak Koruma Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 804,
+"numara": "32/1992",
+"ad": "Toprak Ürunleri Kurumu (Kuruluş, Görev Ve Yetkileri) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 805,
+"numara": "17/2016",
+"ad": "Trafik Dairesi (Kuruluş Görev ve Çalışma Esasları) Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"32/2025",
+"11/2026"
+],
+"metinde_yok": []
+},
+{
+"pkey": 806,
+"numara": "27/2016",
+"ad": "Trafik Hizmetlerinin Planlanması Koordinasyonu ve Denetimi Yasası",
+"durum": "tamam",
+"degisiklikler": [],
+"metinde_yok": []
+},
+{
+"pkey": 809,
+"numara": "52/1999",
+"ad": "Trap-Skeet Atış Alanı ile Tabanca ve Tüfek Atış Poligonu Kurma ve İşletme Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 810,
+"numara": "16/1987",
+"ad": "Turizm Endüstri Teşvik Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"9/2008",
+"31/2012"
+],
+"metinde_yok": []
+},
+{
+"pkey": 811,
+"numara": "52/2011",
+"ad": "Turizm Gelişim Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 812,
+"numara": "25/1990",
+"ad": "Turizm Planlama Dairesi  ( Kuruluş Görev Ve Çalışma Esasları) Yasası",
+"durum": "eksik",
+"degisiklikler": [
+"74/2005",
+"19/2009",
+"8/2019"
+],
+"metinde_yok": [
+"74/2005",
+"19/2009",
+"8/2019"
+]
+},
+{
+"pkey": 813,
+"numara": "28/1990",
+"ad": "Turizm Tanıtma Ve Pazarlama Dairesi (Kuruluş Görev Ve Çalışma Esasları) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 814,
+"numara": "25/1978",
+"ad": "Turizm Ve Seyahat Acenteleri Yasası",
+"durum": "tamam",
+"degisiklikler": [],
+"metinde_yok": []
+},
+{
+"pkey": 815,
+"numara": "Fasıl 88",
+"ad": "Tuz Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 816,
+"numara": "Fasıl 132",
+"ad": "Tüccarlarla Çiftçiler Arasındaki İşlemler Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 817,
+"numara": "31/2020",
+"ad": "Tüketici Kredileri Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 818,
+"numara": "31/2020",
+"ad": "Tüketici Kredileri Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 819,
+"numara": "40/2003",
+"ad": "Tüketicileri Koruma Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"55/2010",
+"59/2026"
+],
+"metinde_yok": []
+},
+{
+"pkey": 820,
+"numara": "1/2020",
+"ad": "Tüketicilerin Korunmasına İlişkin Gıdaların Resmi Kontrolü ve Hijyen Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 821,
+"numara": "Fasıl 338",
+"ad": "Türk Aile  Mahkemeleri  Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 823,
+"numara": "41/2011",
+"ad": "Türk Ajansı Kıbrıs (Kuruluş Görev ve Çalışma Esasları) Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"16/2016"
+],
+"metinde_yok": []
+},
+{
+"pkey": 824,
+"numara": "10/2021",
+"ad": "Türk Ajansı Kıbrıs TAK 2021 Mali Yılı Bütçe Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 826,
+"numara": "4/1962",
+"ad": "Türk Cemaat Meclisi  Evlenme İle İlgili Resimler Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"4/2006"
+],
+"metinde_yok": []
+},
+{
+"pkey": 828,
+"numara": "10/1961",
+"ad": "Türk Cemaat Meclisi Konsolide Fonu (İnkişaf Sandığı) Yasası",
+"durum": "eksik",
+"degisiklikler": [
+"36/2012"
+],
+"metinde_yok": [
+"36/2012"
+]
+},
+{
+"pkey": 830,
+"numara": "16/1974",
+"ad": "Türk Cemaatı Soyadı Kuralı",
+"durum": "tamam",
+"degisiklikler": [],
+"metinde_yok": []
+},
+{
+"pkey": 832,
+"numara": "Fasıl 340",
+"ad": "Türk Din Reisi (Müftü) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 833,
+"numara": "8/1971",
+"ad": "Türk Göçmenlere Yardım Kuralı",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 836,
+"numara": "25/1987",
+"ad": "Türkiye Cumhuriyeti  ile  Kuzey Kıbrıs Türk Cumhuriyeti  İşgücü  Antlaşması  (onay) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 837,
+"numara": "53/1992",
+"ad": "Türkiye Cumhuriyeti Çalışma ve Sosyal Güvenlik Bakanlığı ile Kuzey Kıbrıs Türk Cumhuriyeti Çalışma ve Sağlık Bakanlığı arasında Çalışma ve Sosyal Güvenlik Alanında İşbirliği Protokolü (Onay) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 838,
+"numara": "264/2022",
+"ad": "Türkiye Cumhuriyeti Hükümeti ile Kuzey Kıbrıs Türk Cumhuriyeti Hükümeti Arasında 14 Nisan 2022 Tarihinde İmzalanan İktisadi ve Mali İşbirliği Antlaşması – Ek Anlaşma",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 839,
+"numara": "58/2024",
+"ad": "Türkiye Cumhuriyeti Hükümeti ile Kuzey Kıbrıs Türk Cumhuriyeti Hükümeti Arasında Akıllı Ulaşım Sistemleri Projesine Yönelik Uygulama Protokolü (Onay) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 840,
+"numara": "3/2023",
+"ad": "Türkiye Cumhuriyeti Hükümeti ile Kuzey Kıbrıs Türk Cumhuriyeti Hükümeti Arasında Askeri Sağlık Alanında İşbirliği Protokolünün Onaylanmasının Uygun Bulunmasına İlişkin (Onay) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 841,
+"numara": "9/1998",
+"ad": "Türkiye Cumhuriyeti Hükümeti ile Kuzey Kıbrıs Türk Cumhuriyeti Hükümeti Arasında Bir Ortaklık Konseyi Kurulmasına İlişkin Anlaşma (Onay) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 842,
+"numara": "1/2022",
+"ad": "Türkiye Cumhuriyeti Hükümeti ile Kuzey Kıbrıs Türk Cumhuriyeti Hükümeti Arasında Gemi Trafik Hizmetleri Sistemi Kurulumuna İlişkin Protokol (Onay) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 843,
+"numara": "35/2016",
+"ad": "Türkiye Cumhuriyeti Hükümeti İle Kuzey Kıbrıs Türk Cumhuriyeti Hükümeti Arasında İktisadi ve Mali İşbirliği Anlaşmasının Onaylanmasının Uygun Bulunmasına İlişkin (Onay) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 844,
+"numara": "35/2016",
+"ad": "Türkiye Cumhuriyeti Hükümeti İle Kuzey Kıbrıs Türk Cumhuriyeti Hükümeti Arasında İktisadi Ve Mali İşbirliği Anlaşmasının Onaylanmasının Uygun Bulunmasına İlişkin (Onay) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 845,
+"numara": "22/2016",
+"ad": "Türkiye Cumhuriyeti Hükümeti ile Kuzey Kıbrıs Türk Cumhuriyeti Hükümeti Arasında Su Temini ve Yönetimine İlişkin Anlaşmanın Onaylanmasının Uygun Bulunmasına İlişkin (Onay) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 846,
+"numara": "34/2018",
+"ad": "Türkiye Cumhuriyeti Hükümeti ile Kuzey Kıbrıs Türk Cumhuriyeti Hükümeti Arasında Tarım Alanında Teknik Bilimsel ve Ekonomik İşbirliği Mutabakat Zaptı (Onay) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 847,
+"numara": "59/2024",
+"ad": "Türkiye Cumhuriyeti Hükümeti ile Kuzey Kıbrıs Türk Cumhuriyeti Hükümeti Arasında Yapı İşleri Alanında Mutabakat Zaptı (Onay) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 848,
+"numara": "17/2024",
+"ad": "Türkiye Cumhuriyeti İçişleri Bakanlığı Afet ve Acil Durum Yönetimi Başkanlığı ile KKTC Başbakan Yardımcılığı Turizm Kültür Gençlik ve Çevre Bakanlığı Jeoloji ve Maden Dairesi Müdürlüğü Arasında İşbirliği Protokolü (Onay) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 849,
+"numara": "23/1987",
+"ad": "Türkiye Cumhuriyeti ile Kuzey Kıbrıs Türk Cumhuriyeti Sosyal Güvenlik Antlaşması (Onay) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 850,
+"numara": "34/2016",
+"ad": "Türkiye Cumhuriyeti ve Kuzey Kıbrıs Türk Cumhuriyeti Hukukuna Göre Kurulmuş Olan Üniversitelerin Karşılıklı Tanınmasına Dair Milletlerarası Anlaşmanın Uygun Bulunmasına İlişkin (Onay) (Değişiklik) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 851,
+"numara": "41/2009",
+"ad": "Türkiye Cumhuriyeti ve Kuzey Kıbrıs Türk Cumhuriyeti Hukukuna Göre Kurulmuş Olan Üniversitelerin Karşılıklı Tanınmasına Dair Milletlerarası Anlaşmanın Uygun Bulunmasına İlişkin (Onay) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 852,
+"numara": "40/2020",
+"ad": "Türkiye Cumhuriyeti Yükseköğretim Kurulu ile KKTC Milli Eğitim ve Kültür Bakanlığı Arasında Yükseköğretim Alanında İşbirliğine Yönelik Mutabakat Zaptının Onaylanmasının Uygun Bulunmasına İlişkin Onay Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 853,
+"numara": "16/1995",
+"ad": "Türksoy Kuruluş ve  Faaliyet  İlkeleri Hakkında  Antlaşma (Onay) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 854,
+"numara": "44/2008",
+"ad": "Tütün Ürünlerinin Zararlarından Korunma ve Denetim Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"34/2009"
+],
+"metinde_yok": []
+},
+{
+"pkey": 855,
+"numara": "Fasıl 218",
+"ad": "Tüzel Kişiler (Taşınmaz Mal Kayıt) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 856,
+"numara": "Fasıl 299",
+"ad": "Uçak Trafiği Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 857,
+"numara": "54/2015",
+"ad": "Uçucu Maddelerin Zararlarından İnsan Sağlığının Korunmasına Dair Yasa",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 858,
+"numara": "41/2008.doc",
+"ad": "Uluslararası Bankacılık Birimleri Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"33/2009",
+"44/2011"
+],
+"metinde_yok": []
+},
+{
+"pkey": 860,
+"numara": "65/1994",
+"ad": "Uluslararası Çalışma Örgütü (ILO)'nün Sosyal Güvenliğin Asgari  Normları Hakkında 102 Sayılı Sözleşmesi (Onay) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 861,
+"numara": "19/1993",
+"ad": "Uluslararası Çalışma Örgütü (İL0)’nun Tarım İşçileri Örgütleri ile ilgili 141 sayılı Sözleşmesi (Onay) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 862,
+"numara": "19/1993",
+"ad": "Uluslararası Çalışma Örgütü (İL0)’nun Tarım İşçileri Örgütleri ile ilgili 141 sayılı Sözleşmesi (Onay) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 863,
+"numara": "22/1993",
+"ad": "Uluslararası Çalışma Örgütü (İL0)'nün Eşit Değerde İş İçin Erkek ve Kadın İşçiler Arasında Ücret Eşitliği Hakkındaki 100 Sayılı Sözleşmesi (Onay) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 864,
+"numara": "21/1993",
+"ad": "Uluslararası Çalışma Örgütü (İL0)'nün İş ve Meslek Bakımından Ayırım Hakkında III Sayılı Sözleşmesi (Onay) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 865,
+"numara": "18/1993",
+"ad": "Uluslararası Çalışma Örgütü (İLO) Makinelerin Gerekli Korunma Tertibatı ile ilgili 1963 tarihli 119 sayılı sözleşmesinin (Onay) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 866,
+"numara": "20/1993",
+"ad": "Uluslararası Çalışma Örgütü (İLO)'nun İstihdam Politikası İle İlgili 122 Sayılı Sözleşmesi (Onay) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 867,
+"numara": "16/1993",
+"ad": "Uluslararası Çalışma Örgütü (İLO)'nün Çalışma  İlişkileri (Kamu Hizmetleri) İlkelerinin Uygulanmasına İlişkin   151 Sayılı Sözleşmesi (Onay) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 868,
+"numara": "17/1993",
+"ad": "Uluslararası Çalışma Örgütü (İLO)'nün İşveren Tarafından İşe Son Verme Hakkında 158 Sayılı Sözleşmesi (Onay) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 869,
+"numara": "17/1993",
+"ad": "Uluslararası Çalışma Örgütü (İLO)'nün İşveren Tarafından İşe Son Verme Hakkında 158 Sayılı Sözleşmesi (Onay) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 870,
+"numara": "18/1993",
+"ad": "Uluslararası Çalışma Örgütü (İLO)'nün Makinelerin Gerekli Korunma Tertibatı ile Teçhizine ilişkin 119 Sayılı Sözleşmesi (Onay) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 871,
+"numara": "14/1993",
+"ad": "Uluslararası Çalışma Örgütü'nün  (İLO) Sınai  Kuruluşlarda Hafta Tatili Hakkında  14 Sayılı Sözleşmesi   (Onay) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 872,
+"numara": "11/1993",
+"ad": "Uluslararası Çalışma Örgütü'nün (ILO) Örgüt  Kısa isimlenme ve Toplu Pazarlık Hakkı İlkelerinin Uygulanmasına İlişkin 98 Numaralı Sözleşmesi  (Onay) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 873,
+"numara": "91/2007",
+"ad": "Uluslararası Çalışma Örgütünün (İLO) Asgari Yaş Hakkında 1973 tarihli 138 Sayılı Sözleşmesinin Onaylanmasının Uygun Bulunmasına İlişkin (Onay) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 874,
+"numara": "92/2007",
+"ad": "Uluslararası Çalışma Örgütünün (İLO) En Kötü Biçimlerdeki Çocuk İşçiliği Hakkında 1999 Tarihli 182 Sayılı Sözleşmesinin Onaylanmasının Uygun Bulunmasına İlişkin (Onay) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 875,
+"numara": "13/1993",
+"ad": "Uluslararası Çalışma Örgütü'nün (İLO) Sendika  Özgürlüğü ve Örgütlenme Hakkının Korunmasına İlişkin 87 Numaralı Sözleşmesi (Onay) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 876,
+"numara": "12/1993",
+"ad": "Uluslararası Çalışma Örgütünün (İLO), Ücretli İş Bulma Bürolarına (1949 Değişiklik)  İlişkin 96 Sayılı Sözleşmesi (Onay) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 877,
+"numara": "15/1993",
+"ad": "Uluslararası Çalışma. Örgütü'nün (İL0) İşsizlik Hakkındaki 2 Numaralı Sözleşmesi (Onay) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 878,
+"numara": "61/1999",
+"ad": "Uluslararası Denizde Can Güvenliği Sözleşmesi 1974 ile Uluslararası Denizde Can Emniyeti Protokolü 1978 (ONAY) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 879,
+"numara": "38/2005",
+"ad": "Uluslararası İşletme Şirketleri Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"27/2007",
+"48/2011"
+],
+"metinde_yok": []
+},
+{
+"pkey": 880,
+"numara": "7/2013",
+"ad": "Uluslararası Sağlık Tüzüğünün Onaylanmasının Uygun Bulunmasına İlişkin (Onay) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 881,
+"numara": "Fasıl 40",
+"ad": "Unvan Değiştirme Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 882,
+"numara": "28/2016",
+"ad": "Uyuşturucu Madde Bağımlıları ve Kullanıcıları Hakkında Denetimli Serbestlik Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 883,
+"numara": "4/1972",
+"ad": "Uyuşturucu Maddeler İle İlgili  Yasaları Tadil Eden Ve Düzenleyen Yasa",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 884,
+"numara": "34/1976",
+"ad": "Uzun Vadeli Kalkınma Planının Yürürlüğe Konması Ve Bütünlüğünün Korunması  Hakkında Yasa",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 885,
+"numara": "34/1976",
+"ad": "Uzun Vadeli Kalkınma Plânının Yürürlüğü ve Bütünlüğünün Korunması Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 886,
+"numara": "50/2008",
+"ad": "Uzun Vadeli Kira Yöntemiyle Taşınmaz Mal Edinme Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 887,
+"numara": "4/2019",
+"ad": "Ülkede Yaşanan Ekonomik Kriz Nedeniyle Sosyal Güvenlik Yasasına Tabi Sigortalıların Ödemesi Gereken Prim Miktarında %1.5 İndirim Yapılması ve Ödenmemiş Prim Borçlarına Ait Gecikme Zamlarının İndirilmesine İlişkin (Geçici Kurallar) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 888,
+"numara": "3/2019",
+"ad": "Ülkede Yaşanan Ekonomik Kriz Nedeniyle Sosyal Sigortalar Yasasına Tabi Sigortalıların Ödemesi Gereken Prim Miktarında %1.5 İndirim Yapılması ve Ödenmemiş Prim Borçlarına Ait Gecikme Zamlarının İndirilmesine İlişkin (Geçici Kurallar) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 889,
+"numara": "42/2014",
+"ad": "Ürün Güvenliği Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 890,
+"numara": "53/1977",
+"ad": "Üst Kademe Yöneticiliği Yapan Kamu Görevlilerinin Atanması Hakkında Yasa",
+"durum": "tamam",
+"degisiklikler": [
+"22/2006",
+"66/2006",
+"75/2007",
+"13/2018",
+"1/2019",
+"35/2019",
+"14/2024",
+"11/2025"
+],
+"metinde_yok": []
+},
+{
+"pkey": 892,
+"numara": "23/2011",
+"ad": "Vakıflar Örgütü ve Din İşleri Dairesi (Kuruluş Görev ve Çalışma Esasları) Yasasında Hayat Pahalılığı Ödeneği Hakkını Düzenleyen 51 inci Maddenin Uygulanmasının Durdurulmasına İlişkin (Geçici Kurallar) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 893,
+"numara": "16/2015",
+"ad": "Vakıflar Örgütü ve Din İşleri Dairesi (Kuruluş Görev ve Çalışma Esasları) Yasasında Hayat Pahalılığı Ödeneği Hakkını Düzenleyen 51inci Maddenin Uygulanmasının Durdurulmasına İlişkin (Geçici Kurallar) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 894,
+"numara": "73/1991",
+"ad": "Vakıflar Örgütü ve Din İşleri Dairesi (Kuruluş, Görev ve Çalışma Esasları) Yasası",
+"durum": "eksik",
+"degisiklikler": [
+"78/2009",
+"53/2010",
+"19/2017",
+"41/2023",
+"19/2024"
+],
+"metinde_yok": [
+"41/2023"
+]
+},
+{
+"pkey": 895,
+"numara": "56/1987",
+"ad": "Vakıflar Ve Din İşleri Dairesi (Evkaf Ve Müftülük Daireleri) Memurları Emeklilik Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"59/2007"
+],
+"metinde_yok": []
+},
+{
+"pkey": 897,
+"numara": "Fasıl 192",
+"ad": "Vasiyeti Tenfiz ve Tereke İdare Belgeleri (Tekrar Mühürleme)   Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 898,
+"numara": "Fasıl 195",
+"ad": "Vasiyetnameler ve Veraset Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"21/2021"
+],
+"metinde_yok": []
+},
+{
+"pkey": 900,
+"numara": "Fasıl 327",
+"ad": "Vergi  Kadastro  Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 901,
+"numara": "27/1977",
+"ad": "Vergi Usul Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"24/2015",
+"50/2017"
+],
+"metinde_yok": []
+},
+{
+"pkey": 902,
+"numara": "19/2020",
+"ad": "Vergi Yükümlülerinin Vergi Mevzuatı Uyarınca Kazanılmış İndirim Haklarının Devam Etmesine İlişkin (Geçici Kurallar) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 903,
+"numara": "18/2020",
+"ad": "Vergisini Zamanında Ödeyen Yükümlülere Yüzde On İndirim Yapılmasını Sağlayan (Geçici Kurallar) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 904,
+"numara": "18/2020",
+"ad": "Vergisini Zamanında Ödeyen Yükümlülere Yüzde On İndirim Yapılmasını Sağlayan (Geçici Kurallar) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 905,
+"numara": "18/2020",
+"ad": "Vergisini Zamanında Ödeyen Yükümlülere Yüzde On İndirim Yapılmasını Sağlayan (Geçici Kurallar) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 907,
+"numara": "7/1992",
+"ad": "Veteriner Dairesi (Kuruluş, Görev Ve Çalışma Esasları) Yasası",
+"durum": "tamam",
+"degisiklikler": [],
+"metinde_yok": []
+},
+{
+"pkey": 908,
+"numara": "5/2017",
+"ad": "Veteriner Hizmetleri Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"44/2020"
+],
+"metinde_yok": []
+},
+{
+"pkey": 909,
+"numara": "21/2019",
+"ad": "Veteriner Tıbbi Ürünler Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 910,
+"numara": "46/1984",
+"ad": "Video Filmleri Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 911,
+"numara": "Fasıl 290",
+"ad": "Yabancı Firariler Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 912,
+"numara": "Fasıl 10",
+"ad": "Yabancı Mahkeme Kararları Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 913,
+"numara": "Fasıl 12",
+"ad": "Yabancı Mahkemeler Şahadet Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 914,
+"numara": "33/1975",
+"ad": "Yabancı Malların Tahsis ve Değerlendirilmesi Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 915,
+"numara": "Fasıl 301",
+"ad": "Yabancı Savaş Gemileri ( Telsizle Haberleşme) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 916,
+"numara": "Fasıl 301",
+"ad": "Yabancı Savaş Gemileri ( Telsizle Haberleşme) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 917,
+"numara": "69/2002",
+"ad": "Yabancı Sermaye Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 918,
+"numara": "32/1975",
+"ad": "Yabancı Taşınmaz Malları (Kontrol ve Yönetim) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 920,
+"numara": "7/1980",
+"ad": "Yabancıdan Satın Alınan Taşınmaz Malların Kaydı Yasası",
+"durum": "tamam",
+"degisiklikler": [],
+"metinde_yok": []
+},
+{
+"pkey": 921,
+"numara": "Fasıl 105",
+"ad": "Yabancılar ve Muhaceret Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"38/2006",
+"28/2007",
+"50/2007",
+"31/2008",
+"55/2011",
+"62/2014",
+"44/2016",
+"58/2018",
+"39/2019",
+"18/2021",
+"25/2022",
+"61/2024",
+"27/2026",
+"44/2026"
+],
+"metinde_yok": []
+},
+{
+"pkey": 923,
+"numara": "Fasıl 276",
+"ad": "Yabancıların  Evlenmesi Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 924,
+"numara": "63/2006",
+"ad": "Yabancıların Çalışma İzinleri Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"25/2012",
+"22/2015",
+"6/2016",
+"42/2016",
+"25/2025"
+],
+"metinde_yok": []
+},
+{
+"pkey": 925,
+"numara": "Fasıl 64",
+"ad": "Yakacak Odun Sahaları Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 926,
+"numara": "19/1998",
+"ad": "Yapı İnşaaatı ve Teknik İşler Müteahhitleri Kayıt ve Denetim Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"68/2006",
+"35/2023"
+],
+"metinde_yok": []
+},
+{
+"pkey": 927,
+"numara": "19/1977",
+"ad": "Yasaların Türkçeleştirilmesi Ve Birleştirilmesi Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 928,
+"numara": "34/2007",
+"ad": "Yataklı Tedavi Kurumları Dairesi (Kuruluş Görev ve Çalışma Esasları Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"19/2016",
+"2/2018",
+"27/2018",
+"13/2019",
+"49/2023",
+"36/2024",
+"12/2025",
+"48/2025"
+],
+"metinde_yok": []
+},
+{
+"pkey": 929,
+"numara": "63/1988",
+"ad": "Yatırımların Garantisi Antlaşması (Onay) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 930,
+"numara": "Fasıl 98",
+"ad": "Yaz Saati  Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 931,
+"numara": "32/1990",
+"ad": "Yem Yasası",
+"durum": "tamam",
+"degisiklikler": [],
+"metinde_yok": []
+},
+{
+"pkey": 932,
+"numara": "Fasıl 18",
+"ad": "Yeminler Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 933,
+"numara": "31/1990",
+"ad": "Yeniden Değerleme Ve Mali Düzenleme Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 934,
+"numara": "47/2011",
+"ad": "Yenilenebilir Enerji Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"14/2016"
+],
+"metinde_yok": []
+},
+{
+"pkey": 936,
+"numara": "7/2004",
+"ad": "Yerel Kuruluş Organları Ara Seçimler (Özel ve Geçici Kurallar) Yasası (2004 yılı)",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 940,
+"numara": "Fasıl 165",
+"ad": "Yetkisiz Üniformalar Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 941,
+"numara": "10/2022",
+"ad": "Yol Güvenliği Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"14/2025"
+],
+"metinde_yok": []
+},
+{
+"pkey": 942,
+"numara": "Fasıl 334",
+"ad": "Yol Kuralları Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"53/2005",
+"5/2014"
+],
+"metinde_yok": []
+},
+{
+"pkey": 943,
+"numara": "43/1991",
+"ad": "Yol Ve Trafik Suçlarının Davasız Halli Ve Ceza Puanı Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"58/2005",
+"42/2006",
+"66/2007",
+"2/2014",
+"25/2014",
+"51/2014",
+"22/2017",
+"16/2025",
+"44/2025"
+],
+"metinde_yok": []
+},
+{
+"pkey": 944,
+"numara": "Fasıl 96",
+"ad": "Yollar ve Binalar Düzenleme Yasası",
+"durum": "tamam",
+"degisiklikler": [],
+"metinde_yok": []
+},
+{
+"pkey": 945,
+"numara": "Fasıl 161",
+"ad": "Yolsuzlukların Önlenmesi Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 946,
+"numara": "Fasıl1",
+"ad": "Yorum Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 947,
+"numara": "55/2002",
+"ad": "Yurt  Dışında Görev Yapan Personelin Kadroları Ve Dış Görev   Ödenekleri Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"7/2007",
+"4/2009",
+"89/2009",
+"18/2024"
+],
+"metinde_yok": []
+},
+{
+"pkey": 948,
+"numara": "30/1976",
+"ad": "Yurttaşların Kuzey Kıbrıs Türk Cumhuriyeti Meclisine Dilekçeyle Başvurmaları Ve Dilekçelerin İncelenmesi ile Karara Bağlanmasını Düzenleyen Yasa",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 949,
+"numara": "25/1993",
+"ad": "Yurttaşlık Yasası",
+"durum": "eksik",
+"degisiklikler": [
+"5/2006",
+"21/2015",
+"3/2022",
+"42/2026",
+"52/2026"
+],
+"metinde_yok": [
+"3/2022"
+]
+},
+{
+"pkey": 950,
+"numara": "Fasıl 291",
+"ad": "Yükleme ve Boşaltma Ücretleri Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 951,
+"numara": "35/1985",
+"ad": "Yüksek Adliye Kurulu Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 952,
+"numara": "60/1990",
+"ad": "Yüksek İdare Mahkemesi Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"50/2024"
+],
+"metinde_yok": []
+},
+{
+"pkey": 953,
+"numara": "12/1990",
+"ad": "Yüksek Öğrenim Ve Dışilişkiler Dairesi (Kuruluş, Görev Ve Çalışma Esasları) Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"77/2007",
+"11/2009"
+],
+"metinde_yok": []
+},
+{
+"pkey": 954,
+"numara": "2/1995",
+"ad": "Yüksek Seçim Kurulu Genel Sekreterliği Ve Daimi Seçmen Kütükleri Bürolarının (Kuruluş, Görev Ve Çalışma Esasları) Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"27/2005"
+],
+"metinde_yok": []
+},
+{
+"pkey": 956,
+"numara": "38/1996",
+"ad": "Yüksek Yönetim Denetçisi (Ombudsman) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 957,
+"numara": "39/2009",
+"ad": "YüksekÖğretim Kurumları Mali Düzenleme Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"30/2010",
+"27/2015"
+],
+"metinde_yok": []
+},
+{
+"pkey": 958,
+"numara": "65/2005",
+"ad": "Yükseköğretim Yasası YÖDAK",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 959,
+"numara": "27/1991",
+"ad": "Yürürlükten Kaldırılması ve Kıbrıs Lirası İle İfade Edilen Meblağların Türk Lirasına Dönüştürülmesi Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 960,
+"numara": "Fasıl 15",
+"ad": "Zamanaşımı Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 961,
+"numara": "38/2023",
+"ad": "Zeytin ve Zeytin Ürünleri Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 963,
+"numara": "Fasıl 76",
+"ad": "Zeytinler ve Başka Ürünler (Koruma ) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 965,
+"numara": "15/1962",
+"ad": "Zorla Mal İktisabı Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 966,
+"numara": "Fasıl 71",
+"ad": "Zorla ve İstem Dışı Olarak Çalıştırma Deklarasyonu Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 967,
+"numara": "7",
+"ad": "Civil Procedure (Reciprocal Enforcement of Judgement)",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 968,
+"numara": "8",
+"ad": "Courts of Justice Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 969,
+"numara": "9",
+"ad": "Evidence Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 970,
+"numara": "10",
+"ad": "Foreign Judgments (Reciprocal Enforcement) Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 971,
+"numara": "11",
+"ad": "Foreign Tribunal Citation Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 972,
+"numara": "12",
+"ad": "Foreign Tribunal Evidence Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 973,
+"numara": "13",
+"ad": "Legal Representation of Members of Her Majestys Forces Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 974,
+"numara": "14",
+"ad": "Limitation (Enemies and War Prisoners) Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 975,
+"numara": "15",
+"ad": "Limitation of Actions Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 976,
+"numara": "16",
+"ad": "Maintenance Orders (Facilities for Enforcement) Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 977,
+"numara": "17",
+"ad": "Mandamus Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 978,
+"numara": "18",
+"ad": "Oaths Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 979,
+"numara": "19",
+"ad": "Suitors Protection Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 980,
+"numara": "20",
+"ad": "Troödos Camp Magistrate Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 981,
+"numara": "21",
+"ad": "War Marriages (Matrimonial Causes) Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 982,
+"numara": "22",
+"ad": "Additional Powers Rights and Duties Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 983,
+"numara": "23",
+"ad": "Administrative Divisions Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 984,
+"numara": "24",
+"ad": "Adulteration of Agricultural Produce Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 985,
+"numara": "25",
+"ad": "Agricultural Debtors Relief Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 986,
+"numara": "26",
+"ad": "Agricultural Fertillzers Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 987,
+"numara": "27",
+"ad": "Agricultural Instruments (Hire-Purchase) Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 988,
+"numara": "28",
+"ad": "Agricultural Produce (Export) Low",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 989,
+"numara": "29",
+"ad": "Animals Certificates Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 990,
+"numara": "30",
+"ad": "Animal Feeding Stuffs (Control) Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 991,
+"numara": "31",
+"ad": "Antiquities Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 992,
+"numara": "32",
+"ad": "Assemblies and Processions Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 993,
+"numara": "33",
+"ad": "Bells (Regulation) Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 994,
+"numara": "34",
+"ad": "Boy Scouts Association Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 995,
+"numara": "35",
+"ad": "Building (Paphos Earthquake) Prohibition Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 996,
+"numara": "36",
+"ad": "Building (Paphos Resited Villages) Prohibition Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 997,
+"numara": "37",
+"ad": "Carob Ta-re Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 998,
+"numara": "38",
+"ad": "Census Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 999,
+"numara": "39",
+"ad": "Certifying Officers Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1000,
+"numara": "40",
+"ad": "Change of Titles Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1001,
+"numara": "41",
+"ad": "Charities Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1002,
+"numara": "42",
+"ad": "Churches and Monasteries of the Autocephalous Greek Orthodox Church of",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1003,
+"numara": "43",
+"ad": "Cinematograph Films Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1004,
+"numara": "44",
+"ad": "Commissions of InquiryLaw",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1005,
+"numara": "45",
+"ad": "Contagious Diseases (Animals) Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1006,
+"numara": "46",
+"ad": "Cotton Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1007,
+"numara": "47",
+"ad": "Cruelty to Animals Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1008,
+"numara": "48",
+"ad": "Cyprus Public Library Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1009,
+"numara": "49",
+"ad": "Diseases of Plants (Prevention) Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1010,
+"numara": "1",
+"ad": "Interpretation Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1011,
+"numara": "2",
+"ad": "Advocates Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1012,
+"numara": "3",
+"ad": "Advocates Clerks Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1013,
+"numara": "4",
+"ad": "Arbitration Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1014,
+"numara": "5",
+"ad": "Bankruptcy Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1015,
+"numara": "6",
+"ad": "Civil Procedure Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1016,
+"numara": "50",
+"ad": "Display of Advertisements (Control) Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1017,
+"numara": "51",
+"ad": "Distribution of German Enemy Property Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1018,
+"numara": "52",
+"ad": "Dogs Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1019,
+"numara": "53",
+"ad": "Enemy Property Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1020,
+"numara": "54",
+"ad": "Explosive Substances Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1021,
+"numara": "55",
+"ad": "Exportation of Arms (Prohibition) Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1022,
+"numara": "56",
+"ad": "Famagusta Improvement Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1023,
+"numara": "57",
+"ad": "Firearms Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1024,
+"numara": "58",
+"ad": "Fish Preservation Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1025,
+"numara": "59",
+"ad": "Foreshore Protection Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1026,
+"numara": "60",
+"ad": "Forest Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1027,
+"numara": "61",
+"ad": "Forest (Protection against Incendiarismj Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1028,
+"numara": "62",
+"ad": "Fraudulent Transfers Avoidance Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1029,
+"numara": "63",
+"ad": "Froit Trees Protection Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1030,
+"numara": "64",
+"ad": "Fuel Grounds Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1031,
+"numara": "65",
+"ad": "Game and Wild Birds Protection Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1032,
+"numara": "66",
+"ad": "Goats Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1033,
+"numara": "67",
+"ad": "Govemment Seed Loan Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1034,
+"numara": "68",
+"ad": "Grain Control Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1035,
+"numara": "69",
+"ad": "Horse Breeding Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1036,
+"numara": "70",
+"ad": "Importation of Textiles (Quotas) Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1037,
+"numara": "71",
+"ad": "Involuntary Servitude Declaration Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1038,
+"numara": "72",
+"ad": "Locust Destruction Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1039,
+"numara": "73",
+"ad": "Ldcust Destruction Fund Part Appropriation Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1040,
+"numara": "74",
+"ad": "Lotteries Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1041,
+"numara": "75",
+"ad": "Old Metals (Dealers) Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1042,
+"numara": "76",
+"ad": "Olives and Other Crops (Protection) Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1043,
+"numara": "77",
+"ad": "Phylloxera Prevention Law A",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1044,
+"numara": "78",
+"ad": "Piers Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1045,
+"numara": "79",
+"ad": "Press Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1046,
+"numara": "80",
+"ad": "Public Bodies and Public Offices (Appointment) Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1047,
+"numara": "81",
+"ad": "Public Buildings Security Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1048,
+"numara": "82",
+"ad": "Public Rivers Protection Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1049,
+"numara": "83",
+"ad": "Public Roaas Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1050,
+"numara": "84",
+"ad": "Recovery of Compensation for Injury to Property Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1051,
+"numara": "85",
+"ad": "Registration of Residents Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1052,
+"numara": "86",
+"ad": "Rent (Control) Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1053,
+"numara": "87",
+"ad": "Sage Leaves (Protection) Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1054,
+"numara": "88",
+"ad": "Salt Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1055,
+"numara": "89",
+"ad": "Security for Advances and Public WorksLaw",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1056,
+"numara": "90",
+"ad": "Seeds Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1057,
+"numara": "91",
+"ad": "Sheep and Goats (Shepherds Licensingand Control) Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1058,
+"numara": "92",
+"ad": "Sheep Goats and Pigs (Enumeration) Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1059,
+"numara": "93",
+"ad": "Sirividhi Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1060,
+"numara": "94",
+"ad": "Soil Conservation Law.",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1061,
+"numara": "95",
+"ad": "Street and House to House Collection Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1062,
+"numara": "96",
+"ad": "Streets and Bui!dings Regulation Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1063,
+"numara": "97",
+"ad": "Sumach Leaves (Protection) Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1064,
+"numara": "98",
+"ad": "Summer Time Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1065,
+"numara": "99",
+"ad": "Trading with the Enemy Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1066,
+"numara": "100",
+"ad": "Tree Planting (Village Areas) Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1067,
+"numara": "101",
+"ad": "Usury (Farmers) Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1068,
+"numara": "102",
+"ad": "VegetabIe and FIower Seed Production Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1069,
+"numara": "103",
+"ad": "Veterinary Surgeons Registration Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1070,
+"numara": "104",
+"ad": "Weights and Measures Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1071,
+"numara": "105",
+"ad": "Aliens and Immigration Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1072,
+"numara": "106",
+"ad": "British Nationality (Offences and Fees) Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1073,
+"numara": "107",
+"ad": "Departure from the CoIony of Natives of the Colony (Regulation) Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1074,
+"numara": "108",
+"ad": "Deportation (British Subjects) Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1075,
+"numara": "109",
+"ad": "Immovable Property Acquisition (Aliens) Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1076,
+"numara": "110",
+"ad": "Missionary Educational and Medical (Alien Regulation) Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1077,
+"numara": "111",
+"ad": "Passports (FaIse Representations) Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1078,
+"numara": "112",
+"ad": "CIubs (Registration) Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1080,
+"numara": "114",
+"ad": "Co-operative Societies Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1081,
+"numara": "115",
+"ad": "Irrigation (Private Water) Associations Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1082,
+"numara": "116",
+"ad": "Partnership and Business Names Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1083,
+"numara": "117",
+"ad": "Trade Unions Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1084,
+"numara": "118",
+"ad": "AgricuItural Bank Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1085,
+"numara": "119",
+"ad": "Agricultural Bank of Cyprus Limited Agreement (Ratification) Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1086,
+"numara": "120",
+"ad": "Agricultural Bank of Cyprus Limited Guarantee Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1088,
+"numara": "122",
+"ad": "Agricultural Bank of Cyprus Limited (Special Privileges) Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1089,
+"numara": "123",
+"ad": "Bank Holidays Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1090,
+"numara": "124",
+"ad": "Banking Business (Temporary Restrictions) Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1091,
+"numara": "125",
+"ad": "Anonyme Hellenic Company of Chemical Products and Manures (Railway and Aerial Ropeway) Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1092,
+"numara": "126",
+"ad": "Anti-dumping and Countervailing Duties Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1093,
+"numara": "127",
+"ad": "Appellation (Cyprus Wines) Protection Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1094,
+"numara": "128",
+"ad": "Asbestos (Processing and Exportation) Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1096,
+"numara": "130",
+"ad": "Cement Industry (Encouragement and Control) Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1097,
+"numara": "131",
+"ad": "Citrus Industry Aid Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1098,
+"numara": "132",
+"ad": "Dealings between Merchants and Farmers Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1099,
+"numara": "133",
+"ad": "Department of Commerce  Industry (Transfer of Powers)",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1100,
+"numara": "134",
+"ad": "Factories Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1101,
+"numara": "135",
+"ad": "Fisheries Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1102,
+"numara": "136",
+"ad": "Gypsum and Plasterboard Company Limited (Gypsum Mining) Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1103,
+"numara": "137",
+"ad": "Hellenic Mining Company Limited (Roadandjetty) Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1104,
+"numara": "138",
+"ad": "Hotels Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1105,
+"numara": "139",
+"ad": "Hotels, Lodging Houses and Public Buildings (Regulatioİl! Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1106,
+"numara": "140",
+"ad": "Intoxicating Liquor (Manufacture) Licensing Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1107,
+"numara": "141",
+"ad": "Marble Manufacture (Regulation) Law.",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1108,
+"numara": "142",
+"ad": "Money Lenders Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1109,
+"numara": "143",
+"ad": "Oyster Fisheries Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1110,
+"numara": "144",
+"ad": "Sale of Intoxicating Liquors Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1111,
+"numara": "145",
+"ad": "Silkworm Industry Protection Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1112,
+"numara": "146",
+"ad": "Sponge Fishery Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1113,
+"numara": "147",
+"ad": "Tobacco Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1114,
+"numara": "148",
+"ad": "Civil Wrongs Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1115,
+"numara": "149",
+"ad": "Contract Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1116,
+"numara": "150",
+"ad": "Interest Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1117,
+"numara": "151",
+"ad": "Betting Houses, Gaming Houses and Gambling Prevention Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1118,
+"numara": "152",
+"ad": "Compounding of Offences Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1119,
+"numara": "153",
+"ad": "Coroners Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1120,
+"numara": "154",
+"ad": "Criminal Code",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1121,
+"numara": "155",
+"ad": "Criminal Procedure Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1122,
+"numara": "156",
+"ad": "Curfews Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1123,
+"numara": "157",
+"ad": "juveniIe Offenders Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1124,
+"numara": "158",
+"ad": "Nuisances (Brothels) Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1125,
+"numara": "159",
+"ad": "Offensive Weapons (Prohibition) Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1126,
+"numara": "160",
+"ad": "Peace and Order (Preservatiôiı) Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1127,
+"numara": "161",
+"ad": "Prevention of Corruption Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1128,
+"numara": "162",
+"ad": "Probation ofOffenders Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1129,
+"numara": "163",
+"ad": "Property of Her Majesty (Theft and Possession) Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1130,
+"numara": "164",
+"ad": "Seditious Publications Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1131,
+"numara": "165",
+"ad": "Unauthorised Uniforms Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1132,
+"numara": "166",
+"ad": "Elementary Education law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1133,
+"numara": "167",
+"ad": "English School(Management and Control) Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1134,
+"numara": "168",
+"ad": "St. Barnabas School for the Blind (Transfer) Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1135,
+"numara": "169",
+"ad": "Secondary Education Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1136,
+"numara": "170",
+"ad": "Electricity Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1137,
+"numara": "171",
+"ad": "Electricity Development Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1138,
+"numara": "172",
+"ad": "Civil Defence Organization (Emergency Provision) Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1139,
+"numara": "173",
+"ad": "Compensation (Defence) Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1140,
+"numara": "174",
+"ad": "Cyprus Volunteer Force Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1141,
+"numara": "175",
+"ad": "Lighting Control Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1142,
+"numara": "176",
+"ad": "Accidents and Occupational Diseases (Notification) Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1143,
+"numara": "177",
+"ad": "Bakeries (Night Work) Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1144,
+"numara": "178",
+"ad": "Children and Young Persons (Employment) Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1145,
+"numara": "179",
+"ad": "Domestic Servants (Employment of Children and Young Persons) Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1146,
+"numara": "180",
+"ad": "Employment of Women (During the Night) Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1147,
+"numara": "181",
+"ad": "Employment of Women (in Mines) Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1148,
+"numara": "182",
+"ad": "Hours of Employment Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1149,
+"numara": "183",
+"ad": "Minimum Wage Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1150,
+"numara": "184",
+"ad": "Port Workers (Regulation of Employment) Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1151,
+"numara": "185",
+"ad": "Shop Assistants Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1152,
+"numara": "186",
+"ad": "Summer Afternoon Recess Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1153,
+"numara": "187",
+"ad": "Trade Disputes (Conciliation, Arbitration and Inquiry) Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1154,
+"numara": "188",
+"ad": "Work Men's Compensation Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1155,
+"numara": "189",
+"ad": "Administration of Estates Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1156,
+"numara": "190",
+"ad": "Administration of Estates by Consular Officers Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1157,
+"numara": "191",
+"ad": "Official Trustees Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1158,
+"numara": "192",
+"ad": "Probate (Re-seaIing) Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1159,
+"numara": "193",
+"ad": "Trustee Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1160,
+"numara": "194",
+"ad": "Trustee Investment in Cyprus Government Securities Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1161,
+"numara": "195",
+"ad": "Wills and Succession Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1162,
+"numara": "196",
+"ad": "Coinage (Protection) Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1163,
+"numara": "197",
+"ad": "Currency Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1164,
+"numara": "198",
+"ad": "Cyprus Treasury Bills Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1165,
+"numara": "199",
+"ad": "Exchange Control Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1166,
+"numara": "200",
+"ad": "General Loan and Stock Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1167,
+"numara": "201",
+"ad": "Loan Law, 1930",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1168,
+"numara": "202",
+"ad": "Loan Law, 1945",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1169,
+"numara": "203",
+"ad": "Loan Law, 1949",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1170,
+"numara": "204",
+"ad": "Loan (Development and Welfare) Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1171,
+"numara": "205",
+"ad": "Loan (Electricity Scheme) Law, 1950.",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1172,
+"numara": "206",
+"ad": "Loan (Electricity Scheme) Law, 1952.",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1173,
+"numara": "207",
+"ad": "Loan (Inland Telecommunications Services) Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1174,
+"numara": "208",
+"ad": "Public Loans Law.",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1175,
+"numara": "209",
+"ad": "Savings Loan Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1176,
+"numara": "210",
+"ad": "War Loan Law, 1943",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1177,
+"numara": "211",
+"ad": "War Loan Law, 1944",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1178,
+"numara": "212",
+"ad": "Army Acts Application Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1179,
+"numara": "213",
+"ad": "Bombardment Range Areas Law.",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1180,
+"numara": "214",
+"ad": "British Military Administration Police Force Disciplin Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1181,
+"numara": "215",
+"ad": "Her Majestys Forces (Performance of Police Duties) Law.",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1182,
+"numara": "216",
+"ad": "Compensation Assessment Tribunal Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1183,
+"numara": "217",
+"ad": "Confiscation of Public Lands Law.",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1184,
+"numara": "218",
+"ad": "Corporate Bodies (Immovable Property Registration) Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1185,
+"numara": "219",
+"ad": "Department of Lands and Surveys (Fees and Charges) Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1186,
+"numara": "220",
+"ad": "Ecclesiastical Properties Law,",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1187,
+"numara": "221",
+"ad": "Government Lands Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1188,
+"numara": "222",
+"ad": "Housing Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1189,
+"numara": "223",
+"ad": "Immovable Property (Restriction on Sales) Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1190,
+"numara": "224",
+"ad": "Immovable Property (Tenure, Registration and Valuation) Law.",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1191,
+"numara": "225",
+"ad": "Immovable Property",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1192,
+"numara": "226",
+"ad": "Land Acquisitlon Law.",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1193,
+"numara": "227",
+"ad": "Land Acquisition (Paphos Earthquake) Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1194,
+"numara": "228",
+"ad": "Land Transfer Amendment Law.",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1195,
+"numara": "229",
+"ad": "Mesaoria State Lands Delimitation Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1196,
+"numara": "230",
+"ad": "Public Lands (Leases) Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1197,
+"numara": "231",
+"ad": "Recovery of Possession of SmaIl Holdings Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1198,
+"numara": "232",
+"ad": "Sale of Land (Specific Performance) Law.",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1199,
+"numara": "233",
+"ad": "Sale of Mortgaged Property Law.",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1200,
+"numara": "234",
+"ad": "Securities for Debts (Offences and Protection) Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1201,
+"numara": "235",
+"ad": "Securities for Debts (Offences and Protection) Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1202,
+"numara": "236",
+"ad": "Consular Conventions Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1203,
+"numara": "237",
+"ad": "Diplomatic Privileges (Extension) Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1204,
+"numara": "238",
+"ad": "Diplomatic Privileges (European Commission of Human Rights) Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1205,
+"numara": "239",
+"ad": "District Councils (Mejlisses Idare) Law. A.",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1206,
+"numara": "240",
+"ad": "Municipal Corporations Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1207,
+"numara": "241",
+"ad": "Municipal Corporations (Slaughter Houses) Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1208,
+"numara": "242",
+"ad": "Municipal Motor Omnibuses Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1209,
+"numara": "243",
+"ad": "Villages (Administration and Improvement) Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1210,
+"numara": "244",
+"ad": "Village Authorities Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1211,
+"numara": "245",
+"ad": "Village Authorities (Fees Regulation) Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1212,
+"numara": "246",
+"ad": "Village Obligations Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1213,
+"numara": "247",
+"ad": "Burials Law.",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1214,
+"numara": "248",
+"ad": "Dangerous Drugs Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1215,
+"numara": "249",
+"ad": "Dentists Registration Law.",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1216,
+"numara": "250",
+"ad": "Medical Registrationİ",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1217,
+"numara": "251",
+"ad": "Medical Relief Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1218,
+"numara": "252",
+"ad": "Mental Patients Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1219,
+"numara": "253",
+"ad": "Nursing and Midwifery Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1220,
+"numara": "254",
+"ad": "Pharmacyand Poisons Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1221,
+"numara": "255",
+"ad": "Private Hospitals (Control) Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1222,
+"numara": "256",
+"ad": "Public Health (Anti-Malaria) Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1223,
+"numara": "257",
+"ad": "Public Health (Burial and Exhumation) Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1224,
+"numara": "258",
+"ad": "Public Health (Marsh Areas) Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1225,
+"numara": "259",
+"ad": "Public Health (Villeges) Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1226,
+"numara": "260",
+"ad": "Quarantine Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1227,
+"numara": "261",
+"ad": "Sale of Food and Drugs Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1228,
+"numara": "262",
+"ad": "Bills of Exchange Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1229,
+"numara": "263",
+"ad": "Carriage of Goods by Sea Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1230,
+"numara": "264",
+"ad": "Copyright Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1231,
+"numara": "265",
+"ad": "Merchandise Marks Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1232,
+"numara": "266",
+"ad": "Patents Law.",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1233,
+"numara": "267",
+"ad": "Sale of Goods Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1234,
+"numara": "268",
+"ad": "Trade Marks Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1235,
+"numara": "269",
+"ad": "United Kingdom Designs (Protection) Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1236,
+"numara": "270",
+"ad": "Mines and Quarries (Regulation) Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1237,
+"numara": "271",
+"ad": "Mines Regulation Amendment Law.",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1238,
+"numara": "272",
+"ad": "Petroleum Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1239,
+"numara": "273",
+"ad": "Petroleuro (Pipe-lines) Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1240,
+"numara": "274",
+"ad": "Adoption Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1241,
+"numara": "275",
+"ad": "Births and Deaths Registration Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1242,
+"numara": "276",
+"ad": "Foreing Marriage Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1243,
+"numara": "277",
+"ad": "Guardianship of Infants and Prodigals Law.",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1244,
+"numara": "278",
+"ad": "llegitimate Children Law.",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1245,
+"numara": "279",
+"ad": "Marriage Law.",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1246,
+"numara": "280",
+"ad": "Marriage (Validation) Law, 1937",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1247,
+"numara": "281",
+"ad": "Convict Guards Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1248,
+"numara": "282",
+"ad": "Convicts Property Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1249,
+"numara": "283",
+"ad": "Foreign Imprisonment (Expeuses) Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1250,
+"numara": "284",
+"ad": "Infectious Diseases (Prisoners) Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1251,
+"numara": "285",
+"ad": "Police Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1252,
+"numara": "286",
+"ad": "Prison Discipline Law.",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1253,
+"numara": "287",
+"ad": "Rural Constables Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1254,
+"numara": "288",
+"ad": "Boats Regulation Law.",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1255,
+"numara": "289",
+"ad": "Communication with Vessels Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1256,
+"numara": "290",
+"ad": "Foreign Deserters Law.",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1257,
+"numara": "291",
+"ad": "Laniling and Shipping Charges Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1258,
+"numara": "292",
+"ad": "Merchant Shipping (Safety Regulation and Seamen) Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1259,
+"numara": "293",
+"ad": "Merchant Shipping (Wireless Telegraphy) Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1260,
+"numara": "294",
+"ad": "Port Regulation Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1261,
+"numara": "295",
+"ad": "Quarantine and Customs Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1262,
+"numara": "296",
+"ad": "Shipping Dues Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1263,
+"numara": "297",
+"ad": "Shipwrecked Passengers Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1264,
+"numara": "298",
+"ad": "Wrecks Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1265,
+"numara": "299",
+"ad": "Aerial Navigation Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1266,
+"numara": "300",
+"ad": "Aerodromes Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1267,
+"numara": "301",
+"ad": "Foreign Warships (Wireless Telegraphy) Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1268,
+"numara": "302",
+"ad": "Inland Telecommunication Service Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1269,
+"numara": "303",
+"ad": "Post Office Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1270,
+"numara": "304",
+"ad": "Submarine Telegraph Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1271,
+"numara": "305",
+"ad": "Telegraphs Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1272,
+"numara": "306",
+"ad": "Telephone (Agreement) Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1273,
+"numara": "307",
+"ad": "Wireless Telegraphy Law.",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1274,
+"numara": "308",
+"ad": "Government Employees Provident Fund Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1275,
+"numara": "309",
+"ad": "Nursing Sisters (Preservation of Rights) Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1276,
+"numara": "310",
+"ad": "Official Security (Immovable Property) Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1277,
+"numara": "311",
+"ad": "Pensions Law.",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1278,
+"numara": "312",
+"ad": "Public Officers Guarantee Fund (Refund) Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1279,
+"numara": "313",
+"ad": "Public Officers Protection Law.",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1280,
+"numara": "314",
+"ad": "Widows and Orphans Pensions Law.",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1281,
+"numara": "315",
+"ad": "Customs Management Law.",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1282,
+"numara": "316",
+"ad": "Customs Tariff Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1283,
+"numara": "317",
+"ad": "Customs (Wharfage Dues) Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1284,
+"numara": "318",
+"ad": "Documents (Special Duty) Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1285,
+"numara": "319",
+"ad": "Estate Duty Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1286,
+"numara": "320",
+"ad": "Fees and Charges (Manner of Payment) Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1287,
+"numara": "321",
+"ad": "Goats (Free Ranging) Tax Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1288,
+"numara": "322",
+"ad": "Immovable Property Tax Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1289,
+"numara": "323",
+"ad": "Income Tax Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1290,
+"numara": "324",
+"ad": "Matches (Excise Duty) Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1291,
+"numara": "325",
+"ad": "Playing Cards Excise Law.",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1292,
+"numara": "326",
+"ad": "Public Revenue Protection Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1293,
+"numara": "327",
+"ad": "Revenue Survey Law.",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1294,
+"numara": "328",
+"ad": "Stamp Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1295,
+"numara": "329",
+"ad": "Tax Collection Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1296,
+"numara": "330",
+"ad": "Wheat and Flour (Import Duties of Customs Variation) Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1297,
+"numara": "331",
+"ad": "Bulb Homs and Whistles Prohibition Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1298,
+"numara": "332",
+"ad": "Motor Vehicles and Road Traffic Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1299,
+"numara": "333",
+"ad": "Motor Vehicles (Third Party Insurance) Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1300,
+"numara": "334",
+"ad": "Rule of the Road Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1301,
+"numara": "335",
+"ad": "Vehicles and Traffic Regulation",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1302,
+"numara": "336",
+"ad": "Vehicles Lights Law.",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1303,
+"numara": "337",
+"ad": "Evcaf and Vakfs Law.",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1304,
+"numara": "338",
+"ad": "Turkish Family Courts Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1305,
+"numara": "339",
+"ad": "Turkish Family (Marriage and Divorce) Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1306,
+"numara": "340",
+"ad": "Turkish Religious Head (Mufti) Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1307,
+"numara": "341",
+"ad": "Govemment Waterworks Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1308,
+"numara": "342",
+"ad": "Irrigation Divisions (Villages) Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1309,
+"numara": "343",
+"ad": "Kefalovriso Water Supply Improvement Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1310,
+"numara": "344",
+"ad": "Kythrea Water Supply Improvement Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1311,
+"numara": "345",
+"ad": "Nicosia Water Supply (Arab Ahmet and Silikdar Vakfs) Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1312,
+"numara": "346",
+"ad": "Nicosia Water Supply (Special Powers) Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1313,
+"numara": "347",
+"ad": "Polis tes Khrysokhou Water Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1314,
+"numara": "348",
+"ad": "Water (Development and Distribution) Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1315,
+"numara": "349",
+"ad": "Water (Development and Distribution) Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1316,
+"numara": "350",
+"ad": "Water Supply (Municipal and Other Areas) Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1317,
+"numara": "351",
+"ad": "Wells Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1318,
+"numara": "352",
+"ad": "Children Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1319,
+"numara": "353",
+"ad": "Orphanage and Training School (Demetrakis G. Dianellos of Larnaca) Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1320,
+"numara": "354",
+"ad": "Social Insurance Law",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1321,
+"numara": "113B",
+"ad": "Companies Law (CONTINUE)",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1329,
+"numara": "33/1993",
+"ad": "Kuzey Kıbrıs Türk Cumhuriyeti Kalkınma Bankası Teşkilat Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"15/2021"
+],
+"metinde_yok": []
+},
+{
+"pkey": 1330,
+"numara": "348",
+"ad": "Su Kaynaklarının Korunması ve Kullanılması Suların Daha İyi  Bir Şekilde Dağıtımı ve Bu Amaçlarla İlgili Kural Öngören Yasa",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1331,
+"numara": "51/1995",
+"ad": "Belediyeler Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"9/2006",
+"40/2007",
+"14/2008",
+"2/2009",
+"91/2009",
+"3/2013",
+"33/2014",
+"53/2015",
+"21/2017",
+"3/2018",
+"2/2023",
+"44/2023"
+],
+"metinde_yok": []
+},
+{
+"pkey": 1332,
+"numara": "20/81988",
+"ad": "Telekomünikasyon Dairesi (Kuruluş Görev ve Çalışma Esasları) Yasası",
+"durum": "tamam",
+"degisiklikler": [],
+"metinde_yok": []
+},
+{
+"pkey": 1333,
+"numara": "39/2007",
+"ad": "Vefat Edenlerin Beyan Edilmeyen Gelirleri İle Vefat İle Devreden Malların Vergilendirilmesi Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"4/2025"
+],
+"metinde_yok": []
+},
+{
+"pkey": 1334,
+"numara": "6/2025",
+"ad": "Kuzey Kıbrıs Türk Cumhuriyeti Hükümeti ile Türkiye Cumhuriyeti Hükümeti Arasında KKTC vatandaşlarına Konsolosluk Yardımı Sunulması Hakkında Anlaşmanın Onaylanmasının Uygun Bulunmasına İlişkin (Onay) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1335,
+"numara": "13/2025",
+"ad": "Kuzey Kıbrıs Türk Cumhuriyeti Hükümeti ile Türkiye Cumhuriyeti Hükümeti Arasında Cumhurbaşkanlığı ve Cumhuriyet Meclisi Hizmet Binaları Yapılmasına Dair Protokol (Onay) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1336,
+"numara": "51/2024",
+"ad": "Kuzey Kıbrıs Muhasebe ve Denetim Meslek Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"47/2026"
+],
+"metinde_yok": []
+},
+{
+"pkey": 1337,
+"numara": "35/2025",
+"ad": "Sosyal Hizmetler Dairesi (Kuruluş Görev ve Çalışma Esasları) Yasası",
+"durum": "tamam",
+"degisiklikler": [],
+"metinde_yok": []
+},
+{
+"pkey": 1338,
+"numara": "39/2025",
+"ad": "Emeklilik Geliri Elde Edenlerin Başka Herhangibir Gelir Elde Etmeleri Halinde Kişisel İndirim ve Çocuk İndiriminden Yararlanamayacağına İlişkin Yasa",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1339,
+"numara": "43/2025",
+"ad": "Türkiye Cumhuriyeti Sağlık Bakanlığı İle KKTC Sağlık Bakanlığı Arasında KKTC 'nde Yapılacak Lefkoşa Yeni Devlet Hastanesi Yapımına ve Dr Burhan Nalbantoğlu Sağlık Kampüsü İçerisinde Bulunan Sağlık Yapılarının Renovasyonuna İlişkin Protokol (Onay) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1340,
+"numara": "45/2025",
+"ad": "Tapu Ve Kadastro Dairesi (Kuruluş, Görev Ve Çalışma Esasları) Yasası",
+"durum": "tamam",
+"degisiklikler": [],
+"metinde_yok": []
+},
+{
+"pkey": 1341,
+"numara": "54/2025",
+"ad": "Tatil Evleri Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1342,
+"numara": "4-1962",
+"ad": "Türk Cemaat Meclisi Evlenme ile İlgili Resimler Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"4/2006"
+],
+"metinde_yok": []
+},
+{
+"pkey": 1343,
+"numara": "42/2025",
+"ad": "YABANCILARIN TAŞINMAZ MAL EDİNİMİNE İLİŞKİN KURALLARI DÜZENLEYEN YASA GÜCÜNDE KARARNAME",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1345,
+"numara": "9/1976",
+"ad": "Mahkemeler Yasası",
+"durum": "tamam",
+"degisiklikler": [
+"43/2005",
+"51/2008",
+"15/2009",
+"17/2013",
+"54/2017",
+"47/2024",
+"6/2026",
+"23/2026"
+],
+"metinde_yok": []
+},
+{
+"pkey": 1346,
+"numara": "3/2026",
+"ad": "TÜRKİYE CUMHURİYETİ ÇEVRE, ŞEHİRCİLİK VE İKLİM DEĞİŞİKLİĞİ BAKANLIĞI İLE KUZEY KIBRIS TÜRK CUMHURİYETİ BAŞBAKAN YARDIMCILIĞI, TURİZM, KÜLTÜR, GENÇLİK VE ÇEVRE BAKANLIĞI ARASINDA KUZEY KIBRIS TÜRK CUMHURİYETİ ULUSAL COĞRAFİ VERİ ALTYAPISININ (KKTC-UCVA) KURULMASINA İLİŞKİN PROTOKOL (ONAY) YASASI",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1347,
+"numara": "13/2026",
+"ad": "KUZEY KIBRIS TÜRK CUMHURİYETİ HÜKÜMETİ İLE TÜRKİYE CUMHURİYETİ HÜKÜMETİ ARASINDA GAZİMAĞUSA İLAHİYAT KOLEJİ YAPIM PROJESİ PROTOKOLÜNÜN ONAYLANMASININ UYGUN BULUNMASINA İLİŞKİN(ONAY) YASASI",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1348,
+"numara": "26/2026",
+"ad": "KUZEY KIBRIS TÜRK CUMHURİYETİ HÜKÜMETİ İLE TÜRKİYE CUMHURİYETİ HÜKÜMETİ ARASINDA ÇALIŞMA, İSTİHDAM VE SOSYAL GÜVENLİK ALANLARINDA İŞ BİRLİĞİ ANLAŞMASI(ONAY )YASASI",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1349,
+"numara": "19/2026",
+"ad": "KUZEY KIBRIS TÜRK CUMHURİYETİ HÜKÜMETİ İLE TÜRKİYE CUMHURİYETİ HÜKÜMETİ ARASINDA ULUSAL SÜRÜCÜ BELGELERİNİN/SÜRÜŞ EHLİYETLERİNİN KARŞILIKLI OLARAK TANINMASI VE DEĞİŞİMİ ANLAŞMASINDA DEĞİŞİKLİK YAPILMASINA DAİR ANLAŞMA(ONAY)YASASI",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1350,
+"numara": "21/2026",
+"ad": "Deprem ve Diğer Doğal Afetlere Yönelik Mali Yardım Kapsamında Kamu Okul ve Hastanelerinin Güçlendirilmesi veya Yeniden Yapılmasında Uygulanacak Yöntemler Hakkında (Geçici Kurallar) Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1351,
+"numara": "30/2026",
+"ad": "Yurt Dışındaki Finansal Varlıkların Ekonomiye Kazandırılması Hakkında Yasa",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1352,
+"numara": "33/2026",
+"ad": "KUZEY KIBRIS TÜRK CUMHURİYETİ HÜKÜMETİ İLE TÜRKİYE CUMHURİYETİ  HÜKÜMETİ ARASINDA SAĞLIK HİZMET DESTEĞİ PROTOKOLÜNÜN UYGUN  BULUNMASINA İLİŞKİN (ONAY) YASASI",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1353,
+"numara": "37/2026",
+"ad": "BÜTÇE DAİRESİ (KURULUŞ, GÖREV VE ÇALIŞMA ESASLARI) YASASI",
+"durum": "tamam",
+"degisiklikler": [],
+"metinde_yok": []
+},
+{
+"pkey": 1354,
+"numara": "36/2026",
+"ad": "KREDİ FAİZ DESTEK FONU YASASI",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1355,
+"numara": "57/2026",
+"ad": "Kıbrıs Türk Polisini Güçlendirme Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1356,
+"numara": "61/2026",
+"ad": "Kamuda Görev Yapan Geçici Personele İlişkin Yasa",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1357,
+"numara": "62/2026",
+"ad": "Finansal İşlemler Vergisi Yasası",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1358,
+"numara": "60/2026",
+"ad": "Sağlık Hizmetleri Dairesi (Kuruluş, Görev ve Çalışma Esasları) Yasası",
+"durum": "tamam",
+"degisiklikler": [],
+"metinde_yok": []
+},
+{
+"pkey": 1359,
+"numara": "68/2026",
+"ad": "TÜRKİYE CUMHURİYETİ HÜKÜMETİ İLE KUZEY KIBRIS TÜRK CUMHURİYETİ HÜKÜMETİ ARASINDA KKTC FİBER OPTİK ALTYAPISININ GELİŞTİRİLMESİ VE FİBER OPTİK KABLOLAR ÜZERİNDEN SUNULAN HİZMETLERİN HANELERE VE İŞLETMELERE GÖTÜRÜLMESİ KAPSAMINDA YAPILACAK ÇALIŞMALARA İLİŞKİN İŞBİRLİĞİ PROTOKOLÜNÜN ONAYLANMASININ UYGUN BULUNMASINA İLİŞKİN (ONAY)YASASI",
+"durum": "eşleşmedi"
+},
+{
+"pkey": 1360,
+"numara": "69/2026",
+"ad": "TÜRKİYE CUMHURİYETİ HÜKÜMETİ İLE KUZEY KIBRIS TÜRK CUMHURİYETİ HÜKÜMETİ ARASINDA 24 EYLÜL 2025 TARİHİNDE İMZALANAN KKTC FİBER OPTİK ALTYAPISININ GELİŞTİRİLMESİ VE FİBER OPTİK KABLOLAR ÜZERİNDEN SUNULAN HİZMETLERİN HANELERE VE İŞLETMELERE GÖTRÜLMESİ KAPSAMINA YAPILACAK ÇALIŞMALARA İLİŞKİN İŞBİRLİĞİ PROTOKOLÜNDE DEĞİŞİKLİK YAPILMASINA İLİŞKİN EK PROTOKOL(ONAY)YASASI",
+"durum": "eşleşmedi"
+}
+]

@@ -33,6 +33,8 @@ def parcala(metin, boy=1800):
     if buf.strip(): out.append(buf)
     return [{'no': f'Parça {i + 1}', 'baslik': '', 'metin': re.sub(r'[ \t]+', ' ', t).strip(), 'parca': True} for i, t in enumerate(out)]
 
+# güncellik_tum.py sonucu: Meclis kataloğunda olup metinde geçmeyen 2005 sonrası değişiklikler (olası eskilik uyarısı)
+GY = {x['pkey']: x['metinde_yok'] for x in (json.load(open(os.path.join(D, 'guncellik_tum.json'), encoding='utf-8')) if os.path.exists(os.path.join(D, 'guncellik_tum.json')) else []) if x.get('durum') == 'eksik'}
 yasalar, istat = [], collections.Counter()
 for tur in ('yasa', 'tuzuk'):
   ek = '' if tur == 'yasa' else '-' + tur
@@ -76,7 +78,7 @@ for tur in ('yasa', 'tuzuk'):
     ingilizce = ornek.count(' the ') + ornek.count(' of ') > 3 * (ornek.count(' ve ') + ornek.count(' bir ') + 1)
     ad = re.sub(r'\s+', ' ', k['ad']).strip()
     yasalar.append({'p': pk if tur == 'yasa' else 'T' + str(pk), 'tz': tur == 'tuzuk', 'n': re.sub(r'\s+', ' ', str(k['numara'])), 'a': ad, 'u': k['url'], 'k': kaynak, 'o': ocrmu,
-                    'y': ayirma, 'en': ingilizce, 'kd': bool(re.search(r'yürürlükten\s+kaldır|ilga edil', ad, re.I)), 'm': maddeler})
+                    'y': ayirma, 'en': ingilizce, 'gy': GY.get(pk, []) if tur == 'yasa' else [], 'kd': bool(re.search(r'yürürlükten\s+kaldır|ilga edil', ad, re.I)), 'm': maddeler})
 
 # elle doğrulanmış yasalar da dizine girer (metinleri sayfanın içinde; burada yalnızca arama anahtarları)
 elle = []
@@ -103,7 +105,7 @@ for y, tf in zip(yasalar, tfs):
     if boy + len(j.encode()) > PAKET_BAYT and paket:
         paketler.append(paket); paket, boy = {}, 0
     paket[str(y['p'])] = y['m']; boy += len(j.encode())
-    dizin.append({x: y[x] for x in ('p', 'n', 'a', 'u', 'k', 'o', 'y', 'kd', 'en', 'tz') if x in y and y[x] is not False} | {'mc': len(y['m']), 'b': len(paketler), 'kw': ' '.join(top), 'bs': basliklar})
+    dizin.append({x: y[x] for x in ('p', 'n', 'a', 'u', 'k', 'o', 'y', 'kd', 'en', 'tz', 'gy') if x in y and y[x] not in (False, [])} | {'mc': len(y['m']), 'b': len(paketler), 'kw': ' '.join(top), 'bs': basliklar})
 if paket: paketler.append(paket)
 os.makedirs(os.path.join(D, 'app/pub'), exist_ok=True)
 for f in os.listdir(os.path.join(D, 'app/pub')):
