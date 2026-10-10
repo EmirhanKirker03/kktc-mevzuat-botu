@@ -101,13 +101,14 @@ function pdfOcr(dosya) {
   return { sayfa, metin: parcalar.join('\n\n') };
 }
 
-async function ocr(parca, toplam) {
-  const kayit = oku('veri/mahkemeler/yasa-kayit.json');
-  const ODIR = 'veri/mahkemeler/ocr';
-  const OKAYIT = 'veri/mahkemeler/ocr-kayit/parca-' + parca + '.json';
+async function ocr(parca, toplam, tur = 'yasa') {
+  const kayit = oku('veri/mahkemeler/' + tur + '-kayit.json');
+  const ek = tur === 'yasa' ? '' : '-' + tur;
+  const ODIR = 'veri/mahkemeler/ocr' + ek;
+  const OKAYIT = 'veri/mahkemeler/ocr' + ek + '-kayit/parca-' + parca + '.json';
   const okayit = fs.existsSync(OKAYIT) ? oku(OKAYIT) : {};
   fs.mkdirSync(ODIR, { recursive: true });
-  const L = oku('liste/mahkemeler-yasa.json').kayitlar.filter(s => kayit[s.Pkey] && kayit[s.Pkey].durum === 'metin-cok-kisa')
+  const L = oku('liste/mahkemeler-' + tur + '.json').kayitlar.filter(s => kayit[s.Pkey] && kayit[s.Pkey].durum === 'metin-cok-kisa')
     .filter(s => s.Pkey % toplam === parca && !(okayit[s.Pkey] && okayit[s.Pkey].durum === 'tamam'));
   console.log('Parça ' + parca + '/' + toplam + ': ' + L.length + ' dosya');
   await oturumAc();
@@ -170,6 +171,6 @@ async function lo(tur) {
 
 if (require.main === module) {
   const [komut, a, b] = process.argv.slice(2);
-  const is = komut === 'onar' ? onar() : komut === 'ocr' ? ocr(Number(a), Number(b)) : komut === 'lo' ? lo(a || 'yasa') : Promise.reject(new Error('komut: onar | ocr <parça> <toplam> | lo [yasa|tuzuk]'));
+  const is = komut === 'onar' ? onar() : komut === 'ocr' ? ocr(Number(a), Number(b), process.argv[5] || 'yasa') : komut === 'lo' ? lo(a || 'yasa') : Promise.reject(new Error('komut: onar | ocr <parça> <toplam> | lo [yasa|tuzuk]'));
   is.then(() => fs.rmSync(TMP, { recursive: true, force: true })).catch(e => { console.error('HATA: ' + (e.message || e)); process.exit(1); });
 }

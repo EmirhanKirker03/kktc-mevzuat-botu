@@ -5,7 +5,7 @@ on:
       islem:
         description: "hepsi = sorunlu dosyaları onar + Word metinlerini LibreOffice ile yeniden çıkar + taranmış PDF'lere OCR"
         type: choice
-        options: ["hepsi", "onar-lo", "ocr", "lo-tuzuk"]
+        options: ["hepsi", "onar-lo", "ocr", "lo-tuzuk", "ocr-tuzuk"]
         default: "hepsi"
 permissions:
   contents: write
@@ -69,3 +69,25 @@ jobs:
           git config user.name "mevzuat-botu"; git config user.email "mevzuat-botu@users.noreply.github.com"
           git add veri; git commit -qm "Tüzükler: LibreOffice metinleri" || exit 0
           for i in 1 2 3 4 5 6; do git pull -q --rebase && git push -q && break; sleep $((i*10)); done
+  ocr-tuzuk:
+    if: inputs.islem == 'ocr-tuzuk'
+    runs-on: ubuntu-latest
+    timeout-minutes: 345
+    strategy:
+      fail-fast: false
+      matrix:
+        parca: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 20 }
+      - run: sudo apt-get update -q && sudo apt-get install -y -q --no-install-recommends tesseract-ocr tesseract-ocr-tur tesseract-ocr-eng poppler-utils libreoffice-writer
+      - run: npm install --no-audit --no-fund
+      - run: node scripts/onarim.js ocr ${{ matrix.parca }} 12 tuzuk
+        env: { BEKLE_MS: "4000" }
+      - name: Sonuçları kaydet
+        if: always()
+        run: |
+          git config user.name "mevzuat-botu"; git config user.email "mevzuat-botu@users.noreply.github.com"
+          git add veri/mahkemeler/ocr-tuzuk veri/mahkemeler/ocr-tuzuk-kayit; git commit -qm "Tüzük OCR parça ${{ matrix.parca }}" || exit 0
+          for i in 1 2 3 4 5 6 7 8 9 10; do git pull -q --rebase && git push -q && break; sleep $((i*15)); done
