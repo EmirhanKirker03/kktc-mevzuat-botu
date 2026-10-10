@@ -1,0 +1,809 @@
+[SAYFA 1]
+948
+Sayı : 446
+
+ÖZEL HASTANE, ÖZEL DAL HASTANESİ, ÖZEL KLİNİK, ÖZEL DİSPANSER
+VE ÖZEL MUAYENEHANELER (DENETİM) YASASI
+(37/2012 Sayılı Yasa)
+Madde 6 Altında Yapılan Tüzük
+
+Kuzey Kıbrıs Türk Cumhuriyeti Bakanlar Kurulu Özel Hastane, Özel Dal Hastanesi, Özel Klinik,
+Özel Dispanser ve Özej Muayenehaneler (Denetim) Yasası'nın 6'ncı maddesinin (1 Y'inci
+fıkrasının (C) bendinin ve (2)'nci fikrasının (Ç) bendinin kendisine verdiği yetkiye dayanarak
+aşağıdaki Tüzüğü yapar:
+
+Kısa İsim 9 Bu Tüzük, Özel Sağlık Kuruluşlarının Fiziki Yapı ve Teknik
+Özellikleri Tüzüğü olarak isimlendirilir.
+
+BİRİNCİ KISIM
+Genel Kurallar
+
+Tefsir 2. Bu Tüzükte metin başka türlü gerektirmedikçe;
+“Bakanlık”, Sağlık işleriyle görevli Bakanlığı anlatır.
+“Daire”, Yataklı Tedavi Kurumları Dairesini anlatır.
+
+13/1976 “Diş Tabibi”, Kıbrıs Türk Tabipleri Birliği Yasası'nın #üncü maddesi
+55/1972 uyarınca denkliği onaylanmış, diş tabipliği eğitimi veren bir
+74/1989 kurumdan diploma almış kişiyi anlatır,
+
+9/1992 “Ebe”, Ebelik alanında Jisans veya önlisans diplomasına sahip
+13/2004 hemşireler ve ebeler birliğine kayıtlı ve çalışmaya onay almış kişileri
+10/2006 anlatır,
+
+“Hasta yatağı”, hastaların yirmi dört saatten az olmamak üzere bakım
+ve tedavilerinin sağlanması amacıyla yatırıldığı, hasta odalarına veya
+hastalara devamlı tıbbi bakım hizmeti verilen birimlere yerleştirilen
+yatakları anlatır.
+“Hemşire”, hemşirelik alanında lisans veya önlisans diplomasına
+sahip olan kişileri anlatır,
+“Özel Dal Hastanesi”, tek bir uzmanlık dalında günün yirmi dört
+Saatinde sürekli sağlık hizmeti veren tam teşekküllü bir sağlık
+kuruluşunu anlatır.
+“Özel Dispanser”, birden fazla uzmanlık dalında poliklinik hizmeti
+veren sağlık kuruluşunu anlatır.
+“Özel Hastane”, birden fazla uzmanlık dalında günün yirmi dört
+saatinde sürekli sağlık hizmeti veren tam teşekküllü bir sağlık
+kuruluşunu anlatır,
+“Özel Klinik”, en fazla beş hasta yatağı bulunan, gerektiğinde yirmi
+dört saat kesintisiz hizmet verebilecek donanımı olan, tek bir
+uzmanlık dalında yatılı ve poliklinik hizmeti veren, küçük ameliyatlar
+dışında ameliyat yapılmayan ve doğum hizmeti vermeyen sağlık
+N kuruluşunu anlatır,
+7 “Özel Muayenehane”, en fazla bir hasta yatağı bulunan, günün belirli
+3 saatlerinde ve faaliyette bulunacakları alana göre tabip, uzman tabip,
+diş tabibi veya uzman diş tabibi tarafından sadece poliklinik hizmeti
+veren bir sağlık kuruluşunu anlatır,
+
+[SAYFA 2]
+949
+
+“Özel Sağlık Kuruluslan’*, gerçek veya tüzel kişilerce açılan ve
+işletilen Özel Hastane, Özel Dal Hastanesi, Özel Klinik. Özel
+Dispanser ve Özel Muayenehaneleri anlatır.
+
+“Sağlık Personeli”, Özel Sağlık Kuruluşlarında sağlık hizm»tlerinin
+yürütülmesinde fiilen görev alan personeli anlatır.
+
+“Tabip”, Kıbrıs Türk Tabipleri Birliği Yasası kuralları uyarınca kaydı
+yapılarak Kuzey Kıbrıs Türk Cumhuriyetinde tabiplik yapmaya hak
+kazanmış tabipleri, uzman tabipleri, diş tabiplerini ve uzman diş
+tabiplerini anlatır.
+
+“Uzman Tabip”, Kıbrıs Türk Tabipleri Birliği Yasası kuralları
+uyarınca kaydı yapılarak Kuzey Kıbrıs Türk Cumhuriyetinde tabiplik
+yapmaya hak kazanmış ve ilgili tip dalında gerekli eğitimi görerek
+uzmanlaşmış ve bunu da bir belgeyle belgelemiş kişiyi anlatır.
+
+Amaç 3. Bu Tüzüğün amacı, Özel Hastane, Özel Dal Hastanesi, Özel Klinik,
+Özel Dispanser ve Özel Muayenehanelerin faaliyette bulunacakları
+binaların niteliklerini ve teknik özelliklerini düzenlemektir.
+
+Kapsam 4. Bu Tüzük, Özel Sağlık Kuruluşlarını kapsar.
+
+İKİNCİ KISIM .
+Özel Sağlık Kuruluşlarının Bina Altyapı Standartları, Hizmet Üniteleri ve
+Nitelikleri ile İlgili Kurallar
+
+Yer Seçimi ve 5. (1) Bu Tüzük kapsamına giren Özel Sağlık Kuruluşlarının faaliyet
+Bina Durumu gösterecekleri binaların yeri seçilirken aşağıdaki faktörlerin
+dikkate alınması gereklidir:
+
+(A) Jeolojik Faktörler: Hizmet binasının yeri sel yatağında
+veya yeraltı sularma yakın bir yerde olmamalıdır.
+
+(B) Meteorolojik Faktörler: Seçilen arazi, o bölgenin
+devamlı temiz havasına açık olmalıdır. Fazla rüzgara ve
+soğuğa maruz kalmamalıdır. Güneş durumu da dikkate
+alınmalıdır.
+
+(C) Diğer Faktörler Hizmet binasının konumu fazla
+gürültülü ve/veya fazla dumanlı ve/veya pis kokulu veya
+hijyenik olmayan faaliyet gösteren işletme, çöplük,
+mezbaha, fabrika, kanalizasyon arıtma tesisi gibi yerlere
+beş yüz metre yakın mesafede olamaz.
+
+(2) Özel Sağlık Kuruluşlarının;
+
+(A) Binaların tetkik ve tedavi gören hastaların rahat
+edebileceği şekilde havadar, ferah ve bahçeli yerlerde
+olması gerekmektedir.
+
+(B) Binalarının esas duvarları ve bölümleri ahşap veya
+yangına karşı dayanaksız malzemeden yapılmış
+olmamalıdır.
+
+(C) Yeterli sayıda park yerine sahip olması gerekmektedir.
+
+(3) Özel Hastane ve Özel Dal Hastanelerinin birden çok binası
+bulunabilir.
+Ancak. bu binalar bir bütünlük arz edecek şekilde üstü ve
+kenarları kapalı geçiş yolları ile bağlanmak zorundadır.
+
+[SAYFA 3]
+Oda, Duvar ve
+Zemin
+
+Hasta Başına
+Ayrılacak Alanlar
+
+6.
+
+7
+
+4)
+
+950
+
+Özel Hastane ve Özel Dal Hastanelerinin binalarında hastane
+personeline, hasta ve hasta yakınlarına hizmet vermek üzere
+kurulan kafeterya, kantin, çiçekçi, berber, lostra gibi birimler
+işletilebilir veya bunların işletilmesi için hizmet satın alınabilir
+veya bu hizmetler başkalarına gördürülebilir. Bu birimlere ait
+kısımlar, tıbbi hizmet birimlerinin bulunduğu yerler ile hasta
+tedavi ve istirahatini engelleyecek yerlerde kurulamaz.
+
+Özel Hastane, Özel Dal Hastanesi ve Özel Kliniklerin:
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+(6)
+(7)
+
+Hasta odaları, doğrudan ve yeterli gün ışığı ile aydınlanabilecek
+konumda, taban ve duvarları düzgün ve kolay temizlenebilecek
+nitelikte ve dezenfeksiyona elverişli o olmalıdır. Bodrum
+katlarında hasta odası bulunamaz.
+
+Hasta odalarının kapı genişliği, en az bir metre on santimetre
+veya hasta yatağının geçişi için yeteri boyutta olmalıdır. Hasta
+odalarındaki tuvalet ve banyo kapıları dışa açılacak şekilde
+düzenlenmek zorundadır.
+
+Hasta odalarında ikiden fazla hasta yatağı bulunamaz ve her
+yatak için ayrı olmak üzere, merkezi oksijen ve vakum tesisatı
+bulunur,
+
+Hasta yatak sayısı otuz ve altında olanlar için en az bir oda ve
+ilave her otuz hasta yatağına bir oda eklenmek suretiyle engelli
+hasta odası bulundurması zorunludur, Engelli hasta odasındaki
+lavabo, tuvalet ve banyolar, engellilerin kullanımına imkan
+verecek şekilde düzenlenmelidir.
+
+Tabipler ve diğer sağlık personeline gerektiği kadar soyunma,
+giyinme ve çalışma odaları tahsis etmesi gerekmektedir. Gece
+nöbetine kalacak sağlık personel için dinlenme yerleri tahsis
+edilir.
+
+Hastalara ayrılan bölümlerde, hasta ve hasta yakını haricinde
+herhangi birinin geçici veya sürekli olarak yatması yasaktır.
+Geçici veya sürekli olacak şekilde ikamet edilmek üzere yerler
+ayrılamaz ve ikamet edilemez,
+
+Özel Hastane, Özel Dal Hastanesi ve Özel Kliniklerin;
+
+(1)
+
+Hasta odalarında yatacak hastalar için hasta yatağı başına
+ayrılması gereken asgari alan ölçüleri, tuvalet ve banyo hariç
+olmak üzere;
+(A) Tek yataklı hasta odaları en az dokuz metrekare
+olmalıdır.
+(B) İki yataklı odalarda hasta yatağı başına en az yedi
+metrekare olmalıdır.
+(C) Çocuk hastalar için ayrılmış olan odalarda hasta yatağı
+başına en az altı metrekare olmalıdır.
+(Ç) Çocuğu ile yatan lohusalar için tek yataklı odalar en az
+on metrekare olmalıdır,
+(D) Çocuğu ile yatan lohusalar için iki yataklı odalar yatak
+başına en az dokuz metrekare olmalıdır.
+
+[SAYFA 4]
+Hemşire
+İstasyonları
+
+Poliklinik
+Muayene Odaları
+
+Ameliyathane
+
+10.
+
+951
+
+(2) Yoğun bakım ünitelerinde, yoğun bakım yatağı başına en az
+sekiz metrekare alan olmalıdır.
+
+(3) Yeni doğan yoğun bakım ünitelerinde, yoğun bakım yatağı
+başına en az altı metrekare alan olmalıdır.
+
+(4) Gözlem ünitesinde, gözlem yatağı başına en az altı metrekare
+alan olmalıdır.
+
+Özel Hastane ve Özel Dal Hastanelerinde hastalara anında
+
+ulaşabilmek ve hasta bakımını sağlamak üzere;
+
+(1) Yataklı hasta katlarında, koridor ve hasta odalarına hakim bir
+konumda lavabosu ve ilaç hazırlama alanı bulunan ve koridorun
+genişliğini etkilemeyecek şekilde, en az bir hemşire istasyonu
+kurulması şarttır,
+
+(2) Hemşire istasyonunda, her hasta odası ile bağlantısı olan hasta
+çağrı sistemi bulunmalıdır.
+
+Özel Sağlık Kuruluşlarında;
+
+(1) Özel Sağlık Kuruluşu Çalıştırma Yetki Belgesinde kayıtlı klinik
+uzmanlık dalları için yeterli şekilde (aydınlatılan ve
+havalandırılan poliklinik muayene odası ayrılır.
+
+(2) Poliklinik muayene odalarında uzmanlık dalına uygun araç,
+gereç ve donanım ile hasta muayene masası, soyunma bölümü
+ve lavabo bulunur.
+
+(3) Uroloji ve Kadin doğum muayene odalarında tuvalet bulunur,
+
+Özel Hastane ve Özel Dal Hastanelerinde;
+
+(1) Cerrahi uzmanlık dallarının gerektirdiği en az iki adet ameliyat
+salonu ile uyandırma bölümü bulunur,
+
+Ancak, hasta yatak sayısı otuz ve altında olan ağız ve diş
+sağlığı dal hastaneleri ile göz hastalıkları dal hastanelerinde bir
+adet ameliyat salonu olabilir,
+
+(2) Septik ve aseptik müdahalelerde kullanılacak ameliyathaneler
+ayrı ayrı olmalıdır.
+
+(3) Ameliyat salonlarının her birinde sadece bir ameliyat masası
+bulunmalıdır.
+
+(4) Ameliyathane sterilizasyon şartlarını taşımalı ve ameliyathane
+salonlarında toz ve mikrop barındıracak girinti çıkıntılar
+olmamalıdır.
+
+(5) Ameliyathanenin duvar, tavan ve zeminleri dezenfeksiyon ve
+temizlemeye uygun anti bakteriyel malzemeler kullanılarak
+yapılır.
+
+(6) Ameliyathane salonlarınm ölü alan oluşturacak girinti, çıkıntı
+ve bunlardan oluşan boşluklar ile keskin köşeler haricinde kalan
+net kübik kullanım alanı en az otuz metrekare, kardiyovasküler
+cerrahi ve organ nakli ile ilgili ameliyathaneler için en az
+kırkbeş metre kare olur. Net kullanım alanı içinde, kolon ve
+benzeri hareket kısıtlılığına sebep verecek yapılaşma ile
+ameliyat ekibinin hareket kısıtlılığına ve sirkülasyonuna engel
+bir durum olmaması gerekir,
+
+[SAYFA 5]
+Yoğun Bakım
+Ünitesi
+
+EL,
+
+(7)
+
+(8)
+
+(9)
+
+(10)
+
+dı)
+
+952
+Ameliyathane salonlarının taban ve tavan arası net
+yüksekliğinin havalandırma kanalları, asma tavan, hepafiltreler
+hariç ameliyat salonunun her noktasında en az iki metre yetmiş
+santim ve ameliyathane kısmında bulunan koridor genişliğinin
+en az iki metre olması gerekir.
+
+Ameliyathanelerde yarı ve tam steril alanlar oluşturulur.
+Ameliyathane salonu ve yan hacimlerinin bulunduğu tam steril
+alanlarında, pencere ve kapılar dış ortama açılmaz ve bu
+alanlarda tuvalet bulunmaz. Yarı steril alanda, personel
+dinlenme yeri, kadın ve erkek personel için ayrı ayrı
+düzenlenmiş giyinme ve soyunma ile tuvalet ve duş odaları
+bulunur.
+
+Ameliyathane alanının, hepa filtreli hijyenik klima sistemi veya
+muadili bir sistem ile iklimlendirilmesi ve havalandırılması
+gerekir.
+
+Dahili uzmanlık dallarında hizmet verecek olan özel dal
+hastanelerinde ameliyathane bulunması zorunlu değildir. Bu
+şekilde açılan özel dal hastanelerinde, cerrahi uzmanlık dalı
+ilavesi, bu Tüzükte belirtilen ameliyathane ve yoğun bakım ile
+diğer şartların sağlanması durumunda yapılır.
+
+Ameliyathanenin yénetimi, Oo hizmete (devamlı (o hazır
+bulundurulması, alet ve malzemenin sağlanması, bakım, onarım
+ihtiyaçlarının saptanarak yaptırılmak üzere ilgililere bildirilmesi
+ve burada çalışan personelin yönetimi ve eğitimlerinin
+yapılması amacıyla ilgili cerrahi dallarından bir uzman tabip
+ameliyathane sorumlusu olarak görevlendirilir.
+
+Özel Hastane ve Özel Dal Hastanelerinde;
+
+(1)
+
+(2)
+
+(4)
+
+Yatak sayısı otuz ile elli arasında ise bir yatak cerrahi, bir yatak
+dahili uzmanlık dalları için ayrılmak şartıyla en az iki yataklı
+yoğun bakım ünitesi kurulması zorunludur, Yatak sayısı ellinin
+üstünde ise, her otuz yatak için bir cerrahi ve bir dahili yoğun
+bakım yatağı ilave edilir.
+
+Kardiyoloji uzmanlık dalı için en az bir yatağı bulunan koroner
+yoğun bakım ünitesi; kardiyovasküler cerrahi uzmanlık dalı için
+en az iki yatağı bulunan kardiyovasküler cerrahi yoğun bakım
+ünitesi; çocuk sağlığı ve hastalıkları uzmanlık dalı için en az iki
+kuvözü bulunan yenidoğan yoğun bakım ünitesi olması gerekir.
+Özel dal hastanelerinde ilgili uzmanlık dalının gerektirdiği
+yoğun bakım üniteleri kurulur. Ağız ve diş sağlığı özel dal
+hastaneleri ile göz hastalıkları özel dal hastanelerinde yoğun
+bakım ünitesi bulunması zorunlu değildir.
+
+Yeni doğan yoğun bakım ünitesi ile diğer yoğun bakım
+ünitelerinin birbiriyle irtibatlı olmaması gerekir. Yeni doğan
+yoğun bakım ünitesi ile diğer yoğun bakım ünitelerinin ön geçiş
+alanları ortak olabilir.
+
+Kardiyovasküler cerrahi yoğun bakım ünitesi ameliyathanenin
+tam steril alanında olmayabilir. Ancak, ameliyathane ile irtibatlı
+olması zorunludur.
+
+[SAYFA 6]
+Gözlem Ünitesi
+
+Acil Ünitesi
+
+(6)
+
+(7)
+
+(8)
+
+(9)
+
+(10)
+
+(11)
+
+953
+
+Koroner yoğun bakım üniteleri, diğer yoğun bakım ünitelerinden
+ayrı düzenlenebilir. Diğer yoğun bakım üniteleri gibi tam steril
+alan olması gerekmez ve içinde tuvalet bulunabilir,
+
+Yoğun bakım ünitelerinde, görevli sağlık personeli tarafından
+hastaların sürekli gözetim ve izlenmesine uygun nitelikte bir
+mekan oluşturulur. Yoğun bakım üniteleri içinde lavabo
+bulunur.
+
+Yoğun bakım ünitelerinde, yatak aralarında gerektiğinde
+kullanılmak üzere uygun biçimde ayrılabilir düzenleme yapılır,
+Hastabaşı monitörizasyon ve merkezi tibbi gaz sistemi bulunur.
+Yoğun bakım ünitelerinin, hasta, ziyaretçi ve hastane
+personelinin genel kullanım alanları ile doğrudan bağlantısı
+olmaması gerekir.
+
+Yoğun bakım ünitesinin dışında ve yoğun bakım ünitesinin
+bulunduğu katta, sürgü ve idrar kapları temizleme ve muhafaza
+alanı ile tek kullanımlık malzeme kullanılıyor ise, kullanım
+öncesi muhafaza ve imha alanı ayrılır. Koroner yoğun bakım
+ünitesi haricinde, yoğun bakım ünitesinin steril alanları
+içerisinde tuvalet bulunmaz.
+
+Koroner yoğun bakım üniteleri hariç diğer yoğun bakım
+üniteleri, ameliyathanelerde olduğu gibi sterilizasyon şartlarını
+sağlayacak şekilde havalandırılırlar ve zemin ile duvar
+kaplamalarının anti bakteriyel olması şarttır.
+
+12. Özel Hastane ve Özel Dal Hastanelerinde;
+
+13,
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+(1)
+
+İlgili dal uzmanı tabibin kısa süreli olarak hastayı gözlem altına
+alarak takip edebileceği, yatak başına en az altı metrekare alanı
+olan, yataklar arası uygun biçimde ayrılabilen, içinde lavabosu
+ile hemşire istasyonu bulunan ve belirlenen asgari tıbbi
+malzeme, donanım ve ilaçların bulunduğu hasta gözlem ünitesi
+oluşturulabilir.
+
+Gözlem ünitesinde kullanılacak hasta yataklarının, pozisyon
+alabilen, koruma barları olan ve her yöne hareketli tekerlekli
+özellikte olması gerekir. Gözlem odasında hasta başı
+monitörizasyon ve merkezi tıbbi gaz sistemi bulunur,
+
+Gözlem ünitesi hasta yatak sayısının, özel hastane ve özel dal
+hastanelerinin hastane toplam yatak sayısının 9625 (yüzde yirmi
+beş)'ini geçmemesi gerekir.
+
+Hasta yatak sayısı otuz ve altında ise, gözlem ünitesi yatak
+sayısı en fazla beş olur. Hasta yatak sayısı otuz ile yüz arasında
+ise, gözlem ünitesinde en fazla on hasta yatağı, yatak sayısı yüz
+ve üzerinde ise, gözlem ünitesinde en fazla on beş hasta yatağı
+bulunabilir.
+
+Özel Hastane ve Özel Dal Hastanelerinde;
+
+(A) Acil ünitesinin; binanın ana girişinden ayrı, kolay
+ulaşılabilir, ambulans ulaşımı ile araç giriş ve çıkısına
+elverişli ve uygun eğimli sedye rampası bulunan bir
+girişinin olması gerekir,
+
+[SAYFA 7]
+Eczane
+
+Laboratuvar ve
+Radyoloji
+Hizmetleri
+
+14,
+
+15.
+
+2)
+
+(4)
+
+954
+
+(B) Acil ünitesi; personel ve ubbi cihaz donanımı, gerekli
+ilaç, serum, sarf malzemesi ve ambulans hizmetleri
+yönünden hiç bir aksaklığa meydan verilmeyecek ve
+hizmetin yirmi dört saat kesintisiz sunulmasını
+sağlanacak şekilde yapılandırılır.
+
+(C) Acil ünitesinin, en az bir adet ilk muayene odası, bir adet
+müdahale odası ile bir adet müşahede odası, güvenlik
+hizmetinin verilebileceği bir mekan ve bekleme yeriyle
+bağlantılı erkek, kadın ve engelliler için birer tuvalet ve
+lavabo bulunur.
+
+(©) Acil durumlarda veya gerektiğinde hasta naklinde
+kullanılmak Ooüzere, tam donanımlı (ambulans
+bulundurulması zorunludur.
+
+Ancak, bu amaçlar için hizmet alınıyorsa bu kural
+
+uygulanmaz.
+
+Ortopedi ve travmatoloji uzmanlık dalında hasta kabul eden özel
+hastanelerde, acil müdahale odası veya ortopedi polikliniği
+muayene odası ile bağlantılı veya yakınında olmak üzere en az
+bir alçı odası ayrıca düzenlenir.
+Özel hastanelerde kompleks şekildeki yapılaşmalarda acil
+ünitesi, ortak hizmet verecek şekilde tek olarak planlanmış ise;
+ameliyathane, yoğun bakım ve radyoloji ünitesi ile fiziki
+bağlantısının olması gerekir. Özel Hastane komplekslerinde acil
+ünitesinde ambulans girişi ve bu girişe yakın bir canlandırma
+odası düzenlenir.
+Özel Dal hastanelerinde sadece ilgili dalların gerektirdiği acil
+hizmetini verecek şekilde ve donanımda acil ünitesi bulunur.
+
+Özel Hastane ve Özel Dal Hastaneleri yatarak tedavi görmekte olan
+hastaların ilaç ihtiyaçlarının temini amacıyla, ayaktan tedavi gören
+hastalara ilaç satışı yapmamak kaydı ile sadece kendi ihtiyaçları için
+Bakanlığın izni ile ilaç bulundurabilir.
+
+Özel Hastane ve Özel Dal Hastanelerinde;
+
+(1)
+
+(2)
+
+(3)
+
+Bir adet seyyar röntgen cihazı bulunması ve en az 500 mA
+gücünde röntgen cihazının bulunduğu bir radyoloji ünitesi
+kurulması zorunludur,
+
+Ancak, ağız ve diş sağlığı ile göz hastalıkları özel dal
+hastaneleri için bu kural uygulanmaz.
+Hasta kabul ve tedavi ettiği uzmanlık dallarının gerektirdiği
+biyokimya veya mikrobiyoloji (laboratuvarı (o bulunması
+zorunludur.
+
+Ancak, ağız ve diş sağlığı ile göz hastalıkları özel dal
+hastaneleri için bu kural uygulanmaz.
+Hizmet vereceği uzmanlık alanının gerektirdiği genetik
+laboratuvarı, bağımsız olarak veya biyokimya veya
+mikrobiyoloji laboratuvarı ile aynı alanda olacak şekilde
+kurulabilir.
+
+[SAYFA 8]
+Numune Alma
+Odası
+
+Merkezi
+Sterilizasyon
+Unitesi
+
+Merdiven,
+Koridor, Asansör
+ve Jeneratör
+
+16.
+
+17,
+
+18.
+
+655
+
+(4) Hizmet vereceği uzmanlık alanının gerektirdiği patoloji
+
+laboratuvarı kurulabilir,
+
+(5) (A) Özel hastanelerin bünyesinde o bulunması zorunlu
+laboratuvarların dışında olan ve faaliyet gü..“ilon
+uzmanlık dalları için gerekli olan laboratuvar ve
+radyoloji hizmetleri hizmet satın alma yoluyla,
+müstakilen faaliyet göstermek üzere ilgili mevzuat
+uyarınca ruhsatlandırılan veya diğer özel hastaneler
+bünyesinde ruhsatlı olan veya kamu kurum ve
+kuruluşları o bünyesinde kurulan ( laboratuvarlardan
+karşılanabilir,
+
+(B) Yukarıdaki (A) bendinde belirtilen hizmet satın alınması
+durumunda hizmet veren ile ilgili belgeler, özel sağlık
+kuruluşu çalıştırma yetki belgesinin alınması için gerekli
+olan belgeler ile birlikte sunulur,
+
+Özel Hastane ve Özel Dal Hastanelerinde tabip tarafından istenilen
+tetkik ve tahliller için hastanın kan, gaita veya idrarının alınmasına
+uygun poliklinik ve laboratuvarlara yakın, hijyen şartlarına sahip
+lavabo ve tuvaleti olan en az bir numune alma odası bulunur,
+
+Özel Hastane ve Özel Dal Hastanelerinde;
+
+(1) Yeniden kullanım özelliğine sahip olan malzemelerin
+sterilizasyon ve dezenfeksiyon işlemlerinin yapılmasına özel bir
+merkezi sterilizasyon ünitesi bulunması şarttır.
+
+(2) Merkezi sterilizasyon ünitesi mümkünse, ameliyathane ile
+bağlantılı olur.
+
+Ancak, merkezi sterilizasyon ünitesi; steril malzeme
+transferinin o steriliteyi (o bozmayacak şekilde o planlanması
+durumunda ameliyathaneden bağlantısız olabilir.
+
+(3) Merkezi sterilizasyon ünitesi; kirli malzeme girişi ve yıkama, ön
+hazırlık ve paketleme ile sterilizasyon ve steril malzeme çıkış
+bölümlerinden oluşur.
+
+(4) Hizmet satın alınabilir,
+
+Özel Hastane, Özel Dal Hastanesi ve Özel Klinikler için;
+
+(1) Katlar arasındaki merdivenlerin, sedye ile hasta çıkarabilecek
+nitelikte en az bir metre elli santimetre genişlikte olması şarttır.
+Basamakların yüksekliği en az on altı santimetre, en çok on
+sekiz santimetre olabilir,
+
+(2) Birden fazla katı olan binalarda ilgili mevzuata uygun olarak
+yangın merdiveni yapılması zorunludur,
+
+(3) Bütün katların koridor genişlikleri en az iki metre olmalıdır.
+Koridorlarda, hastaların kolay hareketine imkan verecek şekilde
+tutunma yerleri bulunur. Yapının taşıyıcı sistemi itibari ile kolon
+ve benzeri çıkıntılar sebebiyle koridorlardaki genişliğin iki
+metrenin altına düşmesi durumunda, sedye trafiğinin rahat
+sağlanması şartı ile iki metre genişlik kuralı bu bölümlerde
+aranmayabilir,
+
+[SAYFA 9]
+Lavabo, Duş,
+Banyo ve Tuvalet
+
+Isıtma,
+Havalandırma ve
+Aydınlatma
+
+Tıbbı ve Evsel
+Atıklar Ünitesi
+
+19,
+
+20.
+
+yak
+
+(4)
+
+(5)
+
+(6)
+
+956
+
+Birden fazla katı olan binalarda en az bir asansör bulunması
+zorunludur. Bulunan asansörlerden en az bir tanesinin en az bir
+personel ile beraber hasta yatağı veya sedye ile hasta taşımaya
+elverişli olması şarttır.
+
+Otomatik olarak devreye giren ve elektrik projesinde hesaplanan
+kurulu gücün en az % 70'i (yüzde yetmiş) oranında uygun
+
+güç ve nitelikte olan bir jeneratör bulunması zorunludur.
+
+Bina girişlerine engelliler için uygun eğimli rampa yapılması
+zorunludur.
+
+Özel Hastane, Özel Dal Hastanesi ve Özel Kliniklerde;
+
+(1)
+
+(2)
+
+Hastalar ve personel için erkeklere, kadınlara ve engellilere ayrı
+ayrı olmak üzere yeterli sayıda lavabo, tuvalet ve banyo
+bulundurulur.
+
+Tuvalet ve banyo kapılarının dışa doğru açılması zorunludur.
+
+Özel Hastane ve Özel Dal Hastanelerinin;
+
+(1)
+
+(2)
+
+(3)
+
+Binalarmda ısıtma ve soğutma sistemlerinin bulunması
+zorunludur. Hasta odaları yanında, hasta ziyaretçisi ve personel
+tarafından kullanılan bütün yerlerin uygun sıcaklıkta tutulması
+için binalarında ısıtma ve soğutma sistemlerinin bulunması
+zorunludur.
+
+Ancak, saç, odun sobası, mangal ve bunlar gibi ısıtma
+araçları kullanılamaz.
+Binalarında hastaların ve personelin kullandığı bütün alanlar
+uygun bir şekilde havalandırılır ve yeterli güneş ışığı ile enerji
+kaynaklarından yararlanılarak aydınlanmaları sağlanır.
+Ameliyathane, yoğun bakım ünitesi ve steril şartları gerektiren
+diğer alanlarında, yeterli havalandırma ve sterilizasyon için
+hepafiltreli klima santralı yaptırılması zorunludur.
+
+Özel Hastane ve Özel Dal Hastanelerinde;
+
+(1)
+
+(2)
+
+(3)
+(4)
+
+6)
+
+Tibbi atıklar başta tabip, hemşire, ebe, diş tabipi, laboratuvar
+teknik elemanı olmak üzere ilgili sağlık personeli tarafından
+oluşumları sırasında kaynağında diğer atıklar ile karıştırılmadan
+ayrı olarak biriktirilmesi şarttır.
+
+Tıbbi atıkların toplanmasında; yırtılmaya, delinmeye, patlamaya
+ve taşımaya dayanıklı, üzerinde görülebilecek büyüklükte ve her
+iki yüzünde “Uluslararası Biyotehlike” amblemi ile “DİKKAT
+TIBBİ ATIK” ibaresini taşıyan kırmızı renkli plastik torbalar
+kullanılmalıdır.
+
+Tıbbi atıklar ve çöpler için gerekli tedbirler alınarak tıbbi ve
+evsel atıklar için çöp ünitesi tesis edilmesi şarttır.
+
+Yatak sayısı elli ve üzerinde ise tıbbi atık odalarının soğutma
+sisteminin olması ve yemekhaneden kaynaklanan sıvı atıkların,
+kanalizasyona verilmeden önce filtrasyona tabi tutulması şarttır.
+Tıbbi atıkların toplanması, taşınması ve saklanması Tıbbi
+Atıkların Kontrolü ve İmhası Tüzüğünün ilgili hükümlerine göre
+yapılmalıdır.
+
+[SAYFA 10]
+Mutfak ve 9
+Çamaşırhane
+
+Ölü Muhafaza 23.
+
+Dolabı ve Morg
+
+Yürürlükten 24,
+
+Kaldırma
+11.8.2017
+R.G.134
+EKM
+A.E.527
+
+Geçici Madde 1.
+Yayim Tarihi
+
+İtibariyle Faaliyet
+
+İzin Belgesine
+
+Sahip Özel Sağlık
+Kuruluşları İle
+
+İlgili Kurallar
+
+Yürütme Yetkisi 25.
+
+Yürürlüğe Giriş 26.
+
+b
+
+957
+
+Özel Hastane ve Özel Dal Hastanelerinin;
+
+(1) Mutfak ve çamaşırhanenin taban ve duvarlarının, hijyenik
+şartlarda yıkamaya ve dezenfeksiyona elverişli olması gerekir.
+
+(2) Mutfağında yiyecek ve içeceklerin ayıklanma, yıkanma ve
+hazırlanma yerlerinin ayrı olması ve yeterli miktarda çe". ~vye
+bulundurulması şarttır.
+
+(3) Camasirhanesinin; kirli çamaşır depolama, kirli çamaşır tasnifi,
+çamaşır basma ve yıkama, santrifüj ve kurutma, ütüleme, temiz
+çamaşır depolama ve çamaşırhanede çalışacak personel için duş
+yerleri bulunacak genişlikte olması gerekir.
+
+(4) Mutfak ve çamaşırhane hizmetlerinin dışarıdan satın alınması
+durumunda, hasta yatak katlarında yemek dağıtımının yapıldığı
+ve temiz ile kirli çamaşırların toplandığı ayrı ayrı kat ofis odaları
+oluşturulur. Kapalı servis tepsilerinde yemek arabaları ile servis
+yapılan hastanelerde kat ofis odaları oluşturulmayabilir.
+
+Özel Hastane ve Özel Dal Hastanelerinin;
+
+(1) Yatak sayısı otuza kadar olanlarda en az bir, otuz ve elli arası
+olanlarda ise soğuk hava düzeni bulunan ve en az iki kapasiteli
+çelik paket tipi ölü muhafaza dolabı bulunur ve artırılan her elli
+yatak için bir ölü muhafaza dolabı eklenir.
+
+(2) Morg; hastaların olmadığı, genel kullanım alanlarından uzak
+yerde yapılır ve morgun çıkışı, hastanenin ana ve acil girişi ile
+bağlantılı olmayacak şekilde ayrı olarak düzenlenir.
+
+Bu Tüzüğün yürürlüğe girdiği tarihten başlayarak “Özel Sağlık
+Kuruluşlarının Fiziki Yapı ve Teknik Özellikleri Tüzüğü” bugüne
+kadar yapılan uygulamalara halel gelmemek koşuluyla yürürlükten
+kaldırılır.
+
+ÜÇÜNCÜ KISIM
+Geçici ve Son Kurallar
+
+Bu Tüzüğün Resmi Gazete'de yayımlandığı tarih itibariyle Faaliyet
+İzin Belgesine sahip Özel Sağlık Kuruluşlarının mevcutta faaliyet
+gösterdiği binaları için bu Tüzükteki kurallar aranmaz.
+
+Ancak, mevcut faaliyet binalarında herhangi bir değişiklik
+yapmak istemeleri halinde, tadil edilecek kısımlar bu Tüzüğün
+kurallarına tamamen uygun olmalıdır.
+
+Bu Tüzük, Bakanlık tarafından yürütülür.
+
+Bu Tüzük, Resmi Gazete'de yayımlandığı tarihten
+
+başlayarak
+yürürlüğe girer,

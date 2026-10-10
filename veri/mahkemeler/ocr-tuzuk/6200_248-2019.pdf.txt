@@ -1,0 +1,1001 @@
+[SAYFA 1]
+801
+Numara Taşınabilirliği Uygulama Usullerine İlişkin Tebliğ
+
+Elektronik Haberleşme Yasası
+6/2012, 21/2014 ve 39/2016 Sayılı Yasalar
+
+Bilgi Teknolojileri ve Haberleşme Kurumu Yönetim Kurulu, 6/2012 sayılı Elektronik
+Haberleşme Yasası uyarınca hazırlanan ve 20.05.2016 tarihli ve R.G 64 ile Resmi Gazete'de
+yayımlanarak yürürlüğe giren Numara Taşınabilirliği Tüzüğü'nün 30'uncu Maddesinin
+kendisine verdiği yetkiyi kullanarak aşağıdaki Tebliği yapar:
+
+Kısa İsim
+Madde —1
+
+Bu Tebliğ “Numara Taşınabilirliği Uygulama Usullerine İlişkin Tebliğ” olarak
+isimlendirilir.
+
+Amaç ve Kapsam
+Madde —2
+
+Bu Tebliğ, Elektronik Haberleşme Yasası'nın 46'ncı Maddesi uyarınca hazırlanan ve
+20.05.2016 tarihli ve R.G 64 ile Resmi Gazete'de yayımlanarak yürürlüğe giren Numara
+Taşınabilirliği Tüzüğü kapsamındaki numara taşınabilirliği hizmet sürecine, talep ve/veya
+başvuru ve/veya iptal süreçlerine ve sistem güncelleme ve/veya arızanın giderlimesine yönelik
+sürelerin uygulanmasına ilişkin usullerinin belirlenmesi amacıyla Kurul kararı ile
+yayımlanmıştır. :
+
+Tefsir
+Madde—3
+
+(1) “AKM”, Mobil haberleşme sağlayıcıları adına işlem yapmaya yetkili Abone Kayıt
+Merkezleri'ni anlatır.
+“Alıcı Haberleşme Sağlayıcı”, Verici haberleşme sağlayıcıdan kendisine numara
+taşınan veya taşınma sürecinde olunan haberleşme sağlayıcıyı anlatır.
+“Alıcı”, Alıcı Haberleşme Sağlayıcıyı anlatır.
+“Anahtar Performans Göstergesi”, Key Performance Indicator (KPI) Bir organizasyon
+veya belirli bir faaliyetin başarısını değerlendirmede kullanılan performans ölçütlerini
+anlatır.
+“Kayıt Numarası”, ticaret sicil numarasını ve/veya yürürlükteki mevzuat uyarınca
+KKTC Şirketler Mukayyitliği nezdinde kayıt ve tescil edilmiş olan tüzel kişilere
+ve/veya şahıs işletmelerine verilen kayıt numarasını anlatır.
+
+[SAYFA 2]
+802
+
+“Kimlik Bilgileri”, Kimlik Türü, Kimlik Numarası, Ad, Soyadı, Doğum Tarihi ve
+Önceki Soyad bilgileri gibi numara taşıma sürecinde kullanılan abonenin kimliğini ispat
+etmeye yarayan bilgileri anlatır.
+
+“NTS”, “(Numara Taşınabilirliği Sistemi)”, Taşınmış numaralar, bu numaralara ilişkin
+yönlendirme ve haberleşme sağlayıcı bilgileri ile diğer ilgili bilgilerin tutulduğu ve
+numaranın taşınması sırasında haberleşme sağlayıcılar arasında bilgi alışverişinde de
+kullanılabilen ortak referans veri tabanını anlatır.
+
+“Sistem”, Numara Taşınabilirliği Sistemi'ni (NTS) anlatır.
+
+“Toplu Başvuru”, 10 adet mobil numaradan daha fazla sayıda mobil numaranın
+taşınması için yapılan başvuruyu anlatır.
+
+“Tüzük”; Numara Taşınabilirliği Tüzüğü'nü anlatır.
+
+“Verici Haberleşme Sağlayıcı”, Kendisinden alıcı haberleşme sağlayıcıya numara
+taşınan veya taşınma sürecinde olunan haberleşme sağlayıcıyı anlatır.
+
+“Verici”, Verici Haberleşme Sağlayıcıyı anlatır.
+
+“Yasa”, 6/2012 sayılı Elektronik Haberleşme Yasası'nı anlatır.
+
+“Yetki Belgesi”, Numara taşıma işlemi için bir kişinin yetkili olduğunu gösteren birden
+fazla yöneticisi olan şirket veya kuruluşlarda yönetim kurulu karar yazısı veya numara
+taşıma talebini gerçekleştirecek kişiye imza sirkülerinde belirtilmiş kişi ve/veya
+kişilerce imzalanmış kurumsal işlem yetki belgesi veya kurum ve kuruluşlarda yetkili
+kişiyi gösteren atanma yazısını anlatır.
+
+(2) Bu dokümanda geçen ve yukarıda yer almayan tanım ve kısaltmalar için Yasa ve
+Tüzükte yer alan tanım ve kısaltmalar geçerlidir.
+
+Bireysel Abonelerden Alınacak Belgeler, Belgelerin İşlenmesi ve Saklanması
+Madde —4
+
+(1) Alıcı, numara taşıma için gerekli tüm kimlik bilgi ve belgeleri numara taşıma talebinde
+bulunan aboneden veya vekilinden alır ve bilgileri elektronik form üzerine yazar veya
+yazdırır.
+
+(2) Alıcı tarafından aboneden alınması gereken, abonenin kimliğini ispat etmeye yarayacak
+tüm belgelerin doğruluğuna ilişkin sorumluluk yine alıcıya aittir.
+
+(3) Bireysel aboneliklerde, alıcı tarafından asgari olarak aşağıdaki belgeler talep edilir:
+(A) Aboneye ait kimlik belgesi.
+(B) Vekil tarafından başvuru yapılmış ise;
+(a) Tasdik Memurundan onaylı ve numara taşıma işlemine özgü verilmiş
+_ vekaletname,
+(b) Vekile ait kimlik belgesi,
+(e) Numarasını taşıyacak aboneye ait kimlik belgesi.
+
+(4) Alıcı, bu maddenin 3'üncü fıkrasında belirtilen belgeleri ve abone veya vekili tarafından
+imzalanmış elektronik başvuru formunu elektronik tarayıcı kullanarak tarar.
+
+[SAYFA 3]
+803
+
+(5) Alıcı, yukarıda taranan belgeleri elektronik form birinci sayfa olacak şekilde elektronik
+imza ile imzalar ve taşıma talebinin iletim süresi içerisinde vericiye iletilmek üzere
+NTS’e gönderir.
+
+(6) Numara taşınabilirliği sürecinde alıcı tarafından abonelerden temin edilen evrakların
+aslının muhafaza edilmesi ve arşivlenmesi sorumluluğu, abonenin numara taşıma talep
+tarihinden itibaren 2 (İki) yıl süre ile alıcıya aittir.
+
+(7) Alıcının numara taşımaya ilişkin süreci başlatabilmesi için, numara taşıma talebinde
+bulunan abone veya abone adına işlem yapmaya yetkili kişinin Numara Taşıma Talep
+Formunda imzasının bulunması zorunludur. İmza bulunmamasına rağmen sisteme
+yüklenen başvurular geçersizdir.
+
+Bireysel Abonelerden Alınacak Kimlik Türleri ve Bunların Sisteme İşlenmesi
+Madde-5
+
+(1) Numara taşıma işlemlerinde alıcı tarafından talep edilecek ve abone tarafından temin
+edilecek kimlik türleri:
+(A) KKTC vatandaşları: KKTC Kimliği, KKTC Pasaportu, KKTC Sürüş Ehliyeti,
+(B) TC vatandaşları: TC Nüfus Cüzdanı ve TC Pasaportu,
+(C) o Diğerülke vatandaşları: Vatandaşlığının bulunduğu Pasaport,
+(Ç) AB vatandaşları: Vatandaşlığının bulunduğu pasaport veya kimlik,
+(D) Bu maddenin 3'ncü fikrasinda belirtilen asker, polis ve benzeri hususi görev
+
+kimlikleri.
+
+©) (A) Alıcı, elektronik formda abone tarafından sunulan kimlik türünün işaretlendiğini
+ve öncelikli olarak kimlik numarası var ise kimlik numarasının, olmaması halinde
+ise sunulan kimlik türüne ait numaranın form üzerine kayıt edildiğini gerçekleştirir
+veya kontrol eder.
+
+(B) Pasaport ile yapılan başvurularda pasaportta kimlik numarası var ise sisteme giriş
+yapılırken kimlik numarası kullanılacak ve kimlik kumarasının bulunmaması
+halinde sisteme giriş yapılırken pasaport numarası kullanılacaktır.
+
+(C) KKTC Sürüş Ehliyeti ile yapılan başvurularda sisteme giriş yapılırken ehliyet
+üzerinde yer alan kimlik numarası kullanılacaktır.
+
+(3) Polis veya askerlik hizmetleri gibi hususi görev nedenleri ile kimlik kartı, nüfus cüzdanı
+veya passport belgesinin bulunmadığı hallerde belirtilen görev kapsamında ilgili kişilere
+tahsis edilen resmi belge kimlik belgesi olarak kabul edilir ve bu belge üzerinde kimlik
+
+[SAYFA 4]
+804
+
+kartı numarasının var olması halinde sisteme giriş yapılırken kimlik numarası, olmaması
+halinde ise konu resmi belge üzerindeki numara kullanılacaktır.
+
+(4) Yukarıda yer verilen kimlik türleri dışında bir kimlik türü ile başvuruda bulunulması
+veya farklı süreç gerektiren bir başvuruya konu olunması halinde alınacak belge ve
+yöntem Kurul tarafından ayrıca belirlenir.
+
+Bireysel Abone Kimlik Bilgilerinin Verici Tarafından Kontrol Edilmesi
+Madde-6
+
+(1) Verici, taşıma talebi kontrol süresi içerisinde işbu Tebliğin 5'inci Maddesi uyarınca
+alıcı tarafından kendisine iletilen kimlik numarasının kendi kayıtlarındaki numara ile
+eşleşmesi durumunda talebi doğrudan ve diğer bilgilere bakmaksızın kabul eder.
+
+(2) (A) Alıcı tarafından kendisine iletilen kimlik numarasının kendi kayıtlarındaki numara
+ile eşleşmemesi halinde verici, elektronik formda yer alan “Adı” ,“Soyadi” ve “Doğum
+Tarihi” alanlarını işbu Tebliğin 11'inci Maddesinde yer alan tereddüt yaratmayan kayıt
+farklılıkları çerçevesinde kontrol eder ve eşleşme sağlanır ise talebi onaylar.
+
+(B) “Soyadı” alanının vericide yer alan kayıtlarla eşleşmemesi durumunda elektronik
+formda yer alan “Önceki soyadı” alanı kontrol edilir. “Önceki soyadı” alanı,
+tereddüt yaratmayan kayıt farklılıkları çerçevesinde değerlendirilir ve yapılan
+kontrol ve değerlendirmeler sonucunda eşleşmesi sağlanır ise talep onaylanır.
+
+(3) Numara taşıma talebinde bulunan bireysel aboneye ilişkin kimlik bilgilerinin tereddüt
+yaratmayan kayıt farklılıkları çerçevesinde kendisinde yer alan bilgilerle eşleşmemesi
+durumunda verici, Tüzüğün 8'inci maddesindeki ret gerekçelerinden hangisi olduğunu
+belirterek taşıma talebini kontrol süresi içerisinde reddeder.
+
+(4) KKTC kimlik kartlarının yenilenme süreci dikkatte alındığında; KKTC kimlik kartı
+numarasının kaç hane olduğuna bakılmaksızın her zaman son 6 hanesi dikkate alınarak
+değerlendirme ve eşleşme yapılır.
+
+(5) Verici, kendi şebekesinden taşınacak bir numara talebine ilişkin olumlu cevabını
+NTS’ye gönderirken, bu cevap abonenin her bir numarasının faturalı veya faturasız
+şeklinde hat türünü de içerecektir.
+
+NTS’ye İletilecek Bireysel Abone Belgeleri
+Madde—7
+
+(1) “Bireysel Aboneler İçin Mobil Numara Taşıma Talep Formu”
+(2) Kimlik Belgesinin Taranmış Kopyası
+
+[SAYFA 5]
+805
+(3) Tasdik Memurundan Onaylı ve Numara Taşıma İşlemine Özgü Verilmiş
+
+Vekaletnamenin Taranmış Kopyası (vekil ile başvuru halinde)
+(4) Vekile Ait Kimlik Belgesinin Taranmış Kopyası (vekil ile başvuru halinde)
+
+Kurumsal Abonelerden Almacak Belgeler, Belgelerin İşlenmesi ve Saklanması
+Madde — 8
+
+(1) Alıcı, numara taşıma için gerekli tüm kimlik bilgi ve belgelerini, numara taşıma
+talebinde bulunan kurumsal aboneyi temsil eden yetkili kişiden alır ve bilgileri
+elektronik form üzerine yazar veya yazdırır.
+
+(2) Alıcı tarafından aboneden alınması gereken, abonenin kimliğini ispat etmeye yarayacak
+tüm belgelerin doğruluğuna ilişkin sorumluluk yine alıcıya aittir.
+
+(3) Kurumsal aboneliklerde, alıcı tarafından asgari olarak aşağıdaki belgeler talep edilir:
+
+(â) Yürürlükteki mevzuat uyarınca, Şirketler Mukayyitliği nezdinde kayıt ve tescil
+edilmiş şirketler, ortaklıklar veya diğer tüzel kişiler ile tescil edilmiş olan veya
+olmayan şahıs işletmeleri için:
+(a) Numara taşıma talebinde bulunacak kişinin yetki belgesi,
+(b)Onay Belgeleri,
+(c)Başvuru yapan kişiye ait kimlik belgesi,
+(d)Tasdik Memurundan onaylı İmza Sirküleri.
+
+Ancak tescil edilmiş olan veya olmayan şahıs işletmeleri için sadece (c) bendindeki
+belge talep edilir.
+
+(B) Şirket olmayan Diğer Kurum, Kuruluş veya Kamu Tüzel Kişiler için:
+(a) Numara taşıma talebinde bulunacak kişinin yetki belgesi,
+(b) Kamu tüzel kişinin ita amirini gösterir resmi belge veya yönetim kurulu veya
+benzer yönetim organlarının oluşumu veya atanmasını gösterir belge,
+(c) Ita amiri, yönetim kurulu veya benzer yönetim organları tarafından numara
+taşıma talebine ilişkin alınan karar yazısı,
+(ç) Başvuru yapan kişiye ait kimlik belgesi.
+
+(4) Alıcı, kayıt numarasına sahip olmayan Kurum, Kuruluş veya Kamu Tüzel Kişiler için
+dolduracağı “Kurumsal Aboneler İçin Mobil Numara Taşıma Talep Formu’’nda
+bulunan kayıt numarası alanını boş bırakacaktır.
+
+(5) Alıcı, bu maddenin 3'üncü fıkrasında belirtilen belgeleri ve şirket yetkilisi tarafından
+imzalanmış ve kaşelenmiş elektronik başvuru formunu elektronik tarayıcı kullanarak
+tarar,
+
+[SAYFA 6]
+806
+
+(6) Birden fazla yöneticisi veya direktörü olan kurum, kuruluş ve şirketlerde numaranın
+taşınması için verilecek yetki belgesi direktörler onay belgesinde görülen ve imza
+sirkülerinde imzası bulunan kişi ve/veya kişilerce imzalanmış veya yönetim kurulu -
+kararı şeklinde olmalıdır.
+
+(7) Alıcı, yukarıda taranan belgeleri elektronik form birinci sayfa olacak şekilde elektronik
+imza ile imzalar ve taşıma talebinin iletim süresi içerisinde vericiye iletilmek üzere
+NTS’e gönderir.
+
+(8) Numara taşınabilirliği sürecinde alıcı tarafindan abonelerden temin edilen belge ve
+evrakların aslının muhafaza edilmesi ve arşivlenmesi sorumluluğu, abonenin numara
+taşıma talep tarihinden itibaren 2 (iki) yıl süre ile alıcıya aittir.
+
+(9) Alıcının numara taşımaya ilişkin süreci başlatabilmesi için, numara taşıma talebinde
+bulunan abone veya abone adına işlem yapmaya yetkili kişinin Numara Taşıma Talep
+Formunda imzasının bulunması zorunludur. İmza bulunmamasına rağmen sisteme
+yüklenen başvurular geçersizdir.
+
+Kurumsal Abone Kimlik Bilgilerinin Verici Tarafından Kontrol Edilmesi
+Madde—9
+
+(1) Verici, taşıma talebi kontrol süresi içerisinde işbu Tebliğin 8'inci Maddesi uyarınca alıcı
+tarafından kendisine iletilen Kayıt Numarasınının kendi kayıtlarındaki numara ile
+eşleşmesi durumunda talebi doğrudan ve diğer bilgilere bakmaksızın kabul eder.
+
+(2) Alıcı tarafından kendisine iletilen Kayıt Numarasının kendi kayıtlarındaki numara ile
+eşleşmemesi veya bu numaranın var olmaması halinde verici, elektronik formda yer
+alan “Ticaret Ünvanı/Kurum Adı” alanlarını işbu Tebliğin 11'inci Maddesinde yer alan
+tereddüt yaratmayan kayıt farklılıkları çerçevesinde kontrol eder ve eşleşme sağlanır ise
+talebi onaylar.
+
+(3) Numara taşıma talebinde bulunan kurumsal aboneye ilişkin bilgilerin tereddüt
+yaratmayan kayıt farklılıkları çerçevesinde kendisinde yer alan bilgilerle eşleşmemesi
+durumunda verici, Tüzüğün 8'inci maddesindeki ret gerekçelerinden hangisi olduğunu
+belirterek taşıma talebini kontrol süresi içerisinde ret eder.
+
+(4) Verici, kendi şebekesinden taşınacak bir numara talebine ilişkin olumlu cevabını
+NTS'ye gönderirken, bu cevap abonenin her bir numarasının faturalı veya faturasız
+şeklinde hat türünü de içerecektir.
+
+(5) (A) Kurumsal aboneler, her bir numara taşıma talep formu ile en fazla 10 (On) adet
+numara için taşıma talebinde bulunabilirler.
+
+(B) Ancak kurumsal bir abonenin toplu başvuru talep etmesi halinde alıcı, talep formuna
+ek yapmak sureti ile tüm numaraların sisteme girilebileceği bir arayüzü tasarlar
+veya kullanır.
+
+[SAYFA 7]
+807
+
+(C) Bu maddede belirtilen toplu başvurular için alt referans numaraların verilmesi
+alıcının sorumluluğundadır.
+
+NTS’ye İletilecek Kürumsal Abone Belgeleri
+Madde — 10
+
+(1) Yürürlükteki mevzuat uyarınca, Şirketler Mukayyitliği nezdinde kayıt ve tescil
+edilmiş şirketler, ortaklıklar veya diğer tüzel kişiler ile tescil edilmiş olan veya
+olmayan şahıs işletmeleri için:
+
+(A) “Kurumsal Aboneler İçin Mobil Numara Taşıma Talep Formu”
+(B) Numara Taşıma Talebinde Bulunacak Kişinin Kimlik Belgesinin Taranmış Kopyası,
+(C) Yetki Belgesinin Taranmış Kopyası,
+(Ç) Onay Belgelerinin Taranmış Kopyaları,
+(D) Tasdik Memurundan onaylı İmza Sirkülerinin taranmış Kopyası.
+Ancak tescil edilmiş olan veya olmayan şahıs işletmeleri için sadece (A) ve (B)
+bendindeki belgenin taranmış kopyası.
+
+(2) Şirket olmayan Diğer Kurum, Kuruluş veya Kamu Tüzel Kişiler için:
+(A) “Kurumsal Aboneler İçin Mobil Numara Taşıma Talep Formu”
+(B) Kamu tüzel kişinin ita amirini gösterir resmi belge veya Yönetim Kurulu veya benzer
+yönetim organlarının oluşumu veya atanmasını gösterir belgenin taranmış kopyası,
+(C) ita amiri, yönetim kurulu veya benzer yönetim organları tarafından numara taşıma
+talebine ilişkin alınan Karar Yazısı veya Yetki Belgesinin taranmış kopyası,
+(Ç) Yetki Belgesi ile Yetkilendirilmiş Kişiye Ait Kimlik Belgesinin Taranmış Kopyası.
+
+Tereddüt Yaratmayan Kayıt Farklılıkları
+Madde —11
+
+(1) Bireysel Aboneler İçin Tereddüt Yaratmayan Kayıt Farklılıkları:
+
+Aşağıda belirtilmiş olan kuralların uygulanmasında vericideki veriler ve bilgiler
+referans olarak alınmalıdır.
+
+(A) Vericide herhangi bir kimlik numarasının bulunmaması ve/veya kimlik
+numaralarının eşleşmemesi durumunda kontrol edilecek olan “Adı” ,“Soyadı” ,
+“Doğum Tarihi” ve mevcut olması halinde “Önceki Soyadı” bilgilerinin
+bulunduğu alanlarda;
+
+e Sharfekadar| harf hatası,
+
+[SAYFA 8]
+808
+
+e 6-10 harf arasi icin 2 harf hatası,
+e ll harfve yukarsi icin 3 harf hatası,
+
+göz ardı edilerek doğru kabul edilir.
+
+(B) “Adı” ve “Soyadı” alanında birden fazla isim olması halinde en az | (Bir) “Ad”
+ve enaz | (Bir) “Soyadı” eşleşiyor ise alan doğru kabul edilir.
+
+Alıcının gönderdiği:
+“ İ|EİJLİİJF M|E[R
+“İGJÖJRİMİÜİŞ U
+
+YIE|JM| |JA|S|LJI
+Ss U
+
+i L
+
+Vericideki:
+a TE). Mi. A.| SL
+eli Ge UISILIU
+
+(C) “Adı”, “Soyadı” ve mevcut olması halinde “Önceki Soyadı” alanlarında
+aşağıdaki çizelgede yer alan farklılıklar hata kabul edilmeyerek, göz ardı edilir ve
+bu maddenin (A) bendinde yer alan harf hatası sınırları kapsamında
+
+değerlendirilmez.
+Başvurudaki Kayıttaki harf Başvurudaki Kayıttaki harf
+harf harf
+
+a â Ş s
+a a s $
+c ç u a
+ç c ü u
+g ğ u ü
+E 2 a u
+1 1 w v
+1 i v w
+i i w vw
+i i vw w
+o 6 q
+
+6 o K g
+
+(Ç) Kontrol edilmesi zorunlu her bir alan kendi içinde değerlendirilerek yukarıda
+belirtilmiş olan kuralların dışında olan bir hatanın tespit edilmesi halinde başvuru
+reddedilir.
+
+(2) Kurumsal Aboneler İçin Tereddüt Yaratmayan Kayıt Farklılıkları:
+Aşağıda belirtilmiş olan kuralların uygulanmasında vericideki veriler ve bilgiler
+referans olarak alınmalıdır.
+
+(A) Vericide herhangi bir kayıt numarasının bulunmaması veya eşleşmemesi
+durumunda kontrol edilecek olan “Ticaret Ünvanı/Kurum Adı” ,
+e 5 harfe kadar 1 harf hatası,
+e 6-10 harf arasi icin 2 harf hatası,
+
+[SAYFA 9]
+809
+e ll harf ve yukarısı için 3 harf hatası,
+
+göz ardı edilerek doğru kabul edilir.
+
+(B) “Ticaret Unvanı/Kurum Adı” alanında yer alan genel kabul görmüş kısaltmalar (&,
+ve, AND, LTD, ŞTİ ve bunlar gibi diğer kısaltmalar) doğru kabul edilir ve bu
+hususlarda olabilecek farklılıklar başvurunun reddedilmesi için gerekçe olamaz.
+
+(C) “Kayıt Numarasi”’nda yer alan alfabetik kısaltmalar için kullanılan harflerin
+başında, arasında veya sonunda (M.Ş., Y.Ş., M.Ş, Y:Ş, ve benzeri) nokta veya
+noktalama işareti olup olmadığına bakılmaksızın abone bilgilerinin bulunduğu
+evraktaki bilgiler ile uyuşması durumunda başvuru doğru kabul edilir.
+
+(Ç) Kayıt numarasında bulunan alfabetik karakterler ile ardından gelen sayılar arasında
+boşluk bırakılmamalı ve alfanümerik bir küme oluşturulmalıdır. Örneğin: MŞ1234
+
+(D) Kayıt numarasında, yer alan rakamlar her iki rakam dahil 0-9 arasında
+(1,2,3,4,5,6,7,8,9,0) olmalıdır.
+
+(E) Kayıt numarasında yer alan rakamlarda, sıfırdan farklı olan ilk rakamdan önceki
+sıfırlar dikkate alınmadan eşleştirme yapılmalıdır. Örneğin; 000012, 00012, 0012
+veya 012 sadece 12 olarak değerlendirilmelidir.
+
+NTS’de Kullanılacak Formlar
+Madde—12
+
+(1) NTS’de kullanılacak olan formlar, bireysel ve kurumsal abonelerin numara taşıma
+taleplerinin, numara taşıma iptal taleplerinin ve sahtecilik (fraud) bildirimlerinin NTS
+sistemine iletilmesinde kullanılacak olan elektronik formlar olup işbu formlar Tebliğ'e
+eklidir:
+
+(A) Bireysel Aboneler İçin Mobil Numara Taşıma Talep Formu (EK-1)
+
+(B) Bireysel Aboneler İptal Formları
+(a) Bireysel Aboneler İçin Mobil Numara Taşıma İptal Formu (Abone İsteği)
+(EK-2)
+(b) Bireysel Aboneler İçin Mobil Numara Taşıma Sahtecilik Formu (Sahtecilik-
+Fraud) (EK-3)
+(c) Hatalı işlem için başvuru formu kullanılmayacaktır. Web servisi üzerinden
+işlem gerçekleştirilecektir.
+
+(C) Kurumsal Aboneler İçin Mobil Numara Taşıma Talep Formu (EK-4)
+(Ç) Kurumsal Aboneler İptal Formları
+
+(a) Kurumsal Aboneler İçin Mobil Numara Taşıma İptal Formu (Abone İsteği)
+(EK-5)
+
+[SAYFA 10]
+810
+(b) Kurumsal Aboneler İçin Mobil Numara Taşıma Sahtecilik (Sahtecilik- -
+Fraud) (EK-6)
+(c) Hatalı işlem için başvuru formu kullanılmayacaktır. Web servisi üzerinden
+işlem gerçekleştirilecektir.
+
+(D) Mobil Numara İade Formu (Haberleşme Sağlayıcıları tarafından Numara iade
+edilmesinde kullanılacaktır.) (EK-7)
+
+(2) Mobil numaralara sahip haberleşme sağlayıcıları bu maddeye konu formların
+benzerlerini kendi sistemlerinde ve elektronik ortamda aynen tasarlamakla
+
+yükümlüdürler,
+
+Formların Doldurulmasına İlişkin Alıcı Tarafından Uyulacak Kurallar ve Vericinin
+Reddetme Hakkı
+
+Madde —13
+
+Formların doğru bir şekilde doldurulması alıcının sorumluluğunda olup, alıcılar aşağıda
+belirtilen konulara azami hassasiyeti gösterir ve uyarlar ancak aşağıda verici tarafından red
+gerekçesi sayılacağı belirtilen durumlar reddedilebilecek olup belirtilmeyenler red gerekçesi
+sayılmayacaktır.
+
+(1) Elektronik formlar doldurulurken büyük harfler kullanılmalı ve hiçbir şekilde küçük
+harf kullanılmamalıdır.
+
+©) Elektronik formlardaki abone bilgileri mümkün olduğunca harf ve/veya sayı hatası
+yapılmadan girilmelidir.
+
+(3) Abonenin birden fazla “Ad” ve/veya “Soyad”*a sahip olması halinde alıcı, “Bireysel
+Aboneler İçin Mobil Numara Taşıma Talep Formu”na tüm ad ve soyadları açık bir
+şekilde ve her biri arasında | (Bir ) boşluk bırakılacak şekilde yazar veya yazdırır.
+
+Örnek:
+
+E i
+
+M/E YİEJM Als lr. İm
+$ s [Ely
+
+L de R
+™“[¢ [6 [R[M[tU U
+
+(4) Alıcı, tereddüt yaratmayan kayıt farklılıklarının doğum tarihi bilgisine uygulanmaması
+nedeni ile “Bireysel Aboneler İçin Mobil Numara Taşıma Talep Formu”na işlenecek
+doğum tarihi bilgisini DD/MM/YYYY formatında ve doğru şekilde yazmak veya
+yazdırmakla yükümlüdür.
+
+(5) (A) Abonelerin başvurusu sırasında, elektronik. formlardaki abone tarafından
+doldurulması belirtilen kısımlar haricindeki diğer tüm kısımlar haberleşme sağlayıcılar
+veya AKM çalışanları tarafindan öncelikle elektronik ortamda doldurulacak ve
+yazıcıdan A4 kağıdı üzerine siyah beyaz olarak yeterli koyulukta formun çıktısı
+alınacaktır.
+
+(B) Yukarıda belirtilen çıktının alınmasını müteakip abone tarafından doldurulması
+belirtilen kısımlar abonenin el yazısı ile tamamlanacaktır.
+
+-
+.
+
+[SAYFA 11]
+811
+
+(6) Elektronik ortamda ve abonenin el yazısı ile tamamlanan form alıcı tarafından
+elektronik imza ile imzalanarak sisteme iletilecektir.
+
+(7) Bireysel veya kurumsal abonelerden işbu Tebliğ'in 4'üncü ve 7'nci Maddeleri uyarınca
+alınacak tüm evraklar ve belgeler elektronik tarayıcı kullanılarak taranır ve taranan
+evraklar tek doküman şeklinde ancak elektronik mi birinci sayfa olacak şekilde
+sisteme yüklenir.
+
+(8) Abonenin imzasının bulunduğu bölümdeki tarih el yazısı ile doldurmuş olmalı bu tarih
+formun sağ üst köşesindeki tarih ile bire bir aynı olmalıdır.
+
+(9) Elektronik formlarda işaretlenen kimlik türü ile aboneden veya vekilinden alınıp
+sisteme gönderilmek için taranan kimlik belgesi aynı olmalı; olmaması halinde işbu
+durum verici tarafından red gerekçesi sayılacaktır.
+
+(10) (A) Bireysel aboneliklerde, vekil tarafından yapılacak işlemlerde kullanılacak
+formlardaki “Abone Bilgiler” kısmına ilaveten “Başvuruyu Yapan Vekil İse”
+kısmı da doldurulmalı ve onay alanındaki “İmza” ve “Adı, Soyadı” kısmına
+vekilin bilgileri girilmeli ve vekilin imzası alınmalıdır.
+
+(B) Ancak, “Başvuruyu Yapan Vekil İse” kısmı ile onay alanındaki “Adı, Soyadı”
+kısımlarının belirtildiği şekilde ve doğru olarak doldurulması gerekliliği alıcının
+yükümlülüğü olduğundan verici tarafında bu alanların doğruluğuna ilişkin
+herhangi bir kontrol yapılmayacak ve ret gerekçesi sayılmazken, “İmza”
+alanının boş olması ret gerekçesi olacaktır.
+
+(11) (A) Abonenin kendisi tarafından yapılacak işlemlerde kullanılacak formların onay
+alanındaki “İmza” ve “Adı, Soyadı” kısımlarının abonenin el yazısı ile birtamam
+doldurmuş olması gerekliliği alıcının yükümlülüğüdür.
+
+(B) Ancak “Adı, Soyadı” alanının doldurulmadığı haller verici tarafında ret gerekçesi
+sayılmazken, “İmza” alanının boş olması ret gerekçesi olacaktır.
+
+(12) Taşınmak istenen abone numaraları 10 hane olarak yazılır.
+
+(13) Form üzerinde taşınacak numara bilgileri kısmında bulunan verici ve alıcı haberleşme
+sağlayıcı alanları doldurulurken;
+
+(A) Verici Haberleşme Sağlayıcı ve Alıcı Haberleşme Sağlayıcı alanlarına
+öncelikle yönlendirme kodları yazılır; yönlendirme kodundan sonra yine
+aynı satıra “-” konularak ilgili haberleşme sağlayıcının şirket ismi yazılır.
+
+(B) Şirket isimleri yazılırken Kıbrıs Mobile Operations Ltd. KKTCELL olarak
+ve Vodafone Mobile Operations Ltd. VODAFONE olarak yazılacaktır.
+
+Ms Veen), Boe) | KİK. T.G EE İİ L xlY|)zji(3(-)vlolnblalrlolnlE
+
+[SAYFA 12]
+812
+
+(14) (A) AKM tarafından, başvuru yapan aboneye başvuru türüne bakılmaksızın
+başvurusunun alındığına dair “Alındı Belgesi” verilmesi zorunludur.
+
+(B) Bu belge aboneye ait başvurunun birebir kopyası olup; bu kopya üzerinde;
+(a)AKM şirket ismi,
+(b)AKM tarafından yetkili imza,
+(c)AKM’ye ait kaşe,
+(ç) Teslim tarihi,
+(JJAKM'nin başvuruyu teslim aldığına dair açık bir ibaresinin bulunması
+gerekmektedir.
+Örnek: “Başvuru tarafımızdan teslim alınmıştır.”
+
+(15) Abone tarafından talep edilen taşıma tarihi ve taşıma zamanı NTS zaman planına
+uyumlu olmalıdır.
+
+Sistem Anahtar Performans Göstergeleri ve Sistemin Kesintisiz İşletilmesinde Uyulacak
+Süreler
+
+Madde — 14
+
+(1) Numara Taşınabilirliği sürecinde aşağıda belirtilen Anahtar Performans Göstergesi
+(KPI- Key Performance Indicator) kriterleri kullanılacaktır;
+
+(A) Taşıma Tarihi ve Zamanı Belirlenmiş Numaraların Taşınabilirlik Başarı Oranı:
+Taşıma tarihi ve zamanı belirlenmiş olan numaraların numara taşıma işlemleri için
+belirlenmiş zaman kriterleri dahilinde, alıcı ve verici haberleşme sağlayıcıların aylık
+“099 oranında başarılı numara taşıma işlemi elde etmesi gerekmektedir.
+
+(B) Ancak, haberleşme sağlayıcısının Kuruma sunacağı mücbir sebeplerin Kurum
+tarafından kabul edilmesi halinde; taşıma tarihi ve zamanı belirlenmiş olan
+numaraların, numara taşıma işlemleri için alıcı ve verici haberleşme sağlayıcıların
+belirlenmiş zaman kriterleri dahilinde en az aylık 9498.50 (9098.49 ve altındaki
+değerler kabul edilmeyecektir.) oranında başarılı numara taşıma işlemi elde etmesi
+gerekmektedir.
+
+(2) Sistemin Kesintisiz İşletilmesinde Uyulacak Süreler:
+
+(A) Haberleşme sağlayıcılar sistemi kesintisiz olarak 7 (Yedi) gün 24 (Yirmidört) saat
+ve aylık %97.5 kullanılabilir durumda olacak şekilde çalıştırmakla yükümlüdürler.
+
+, (B) Sistem güncelleme yapılacağı zaman 3 (Üç) İş Günü öncesinde Kuruma bildirmekle
+yükümlü olup yapılacak işin ne kadar süreceği ve hangi zaman aralığında
+yapılacağına ilişkin ve ayrıca Kurum tarafından ek bilgi istenmesi halinde temin
+etmekle yükümlüdürler. Ancak, sistem güncellemesinden kaynaklı oluşabilecek
+
+[SAYFA 13]
+813
+
+kesintiler yukarıda belirtilen fikradaki aylık %97.5 kesintisiz hizmet oranının içinde
+bulunmalıdır.
+
+(C) Haberleşme sağlayıcılar numara taşıma sistemlerinde, sistemin fonksiyonlarını
+yerine getirememesinden kaynaklı herhangi bir arıza oluşumundan itibaren en fazla
+3 (Üç) saat içinde Kuruma elektronik posta yolu ve sistem arıza bildirim
+numaralarına ulaşarak bilgi vermekle yükümlüdürler. Ancak, sistem kesintisi veya
+sistemin fonksiyonlarının devre dışı kalması yukarıdaki fıkrada belirtilen aylık
+“097.5 oranındaki kesintisiz hizmet oranının hesaplanmasına dahil edilir.
+
+(Ç) Sistem kesintisinin haberleşme sağlayıcı kaynaklı olmaması halinde, yukarıdaki
+fıkrada belirtilen sistemin aylık 9697.55 oranındaki kesintisiz çalışma süresi
+hesaplanmasına dahil edilmez.
+
+Kurul Kararları
+Madde — 15
+
+Bu Tebliğ'in uygulanmasında gerekli görülmesi halinde Kurul kararı ile düzenleme yapılır.
+
+Yürürlükten Kaldırma
+Madde — 16
+
+İşbu dokümanın yürürlüğe girdiği tarihten başlayarak, 16.11.2018 tarihli ve 2018 — K/BTHK -
+30.86 sayılı Yönetim Kurulu kararı ile 05.12.2018 tarihli ve 180 sayılı Resmi Gazete'nin Ek
+UP itinde yayınlanarak yürürlükte bulunan “Numara Taşınabilirliği Uygulama Usullerine İlişkin
+Tebliğ” altında yapılan işlemlere halel gelmeksizin “Numara Taşınabilirliği Uygulama
+Usullerine İlişkin Tebliğ” yürürlükten kalkar.
+
+Yürürlüğe Giriş
+Madde —17
+İşbu doküman, Resmi Gazete'de yayımlandığı tarihtdn başlayarak yürürlüğe girer.
+
+[SAYFA 14]
+814
+EK-1
+
+Şirket Logosu 1s No:
+
+Tarih: | [T/T | 1111)
+
+BİREYSEL ABONELER İÇİN MOBİL NUMARA TAŞIMA TALEP FORMU
+
+ABONE BİLGİLERİ
+
+Kimlik Türü Ljk«re ()rc | Jpasaport [Jrotis [Jasker |(Jbiğer
+
+Kimlik/Pasaport No
+Adı
+
+Soyadı
+
+Doğum Tarihi / /
+Önceki Soyadı ES ER e |
+İletişim Numarası 1
+İletişim Numarası 2
+
+Başvuruyu yapan vekil ise:
+
+Kimlik Türü Dikkre [re Urasaport (polis [Jasker |(Jbiğer
+
+Kimlik/Pasaport No
+Adı
+
+Soyadı
+“Doğum Tarihi / /
+İrtibat Telefonu
+
+Talep edilen (tet EE EE ER ÇE
+taşıma tarihi
+
+Talep edilen 00:30-07:53 08:00-15:59 16:00-23:30
+taşıma zamanı = fea)
+
+Taşınacak Numara Bilgileri
+
+Verici Haberleşme Sağlayıcı | | | | | | | | JJ Ia
+Alıcı Haberleşme Sağlayıcı | GE ANS NI NE EN ER
+Numara(lar)
+
+Çoklu numara taşıma talebinde, bir veya birden fazla numaranın herhangi bir nedenden Evet Hayır
+
+dolayı tasinamamas: durumunda, geriye kalan numaralar taşınsın mı?
+
+Bu Formda belirtilen numaranın/numaraların yukarıda adı geçen alıcı haberleşme sağlayıcısına
+taşınmasına ilişkin bilgilerin, alıcı haberleşme sağlayıcısı tarafından numara taşıma sürecinde
+gerekli birimlere verilmesine ve bu işlemin kendi adıma alıcı haberleş sağlay tarafınd
+yürütülmesine onay veriyorum.
+
+imza :
+
+Adı, Soyadı ;
+
+Tarih ;
+
+Bu form ile yapılan numara taşıma talebi, verici haberleşme sağlayıcısı ile olan abonelik sözleşmesini fesih talebi anlamını taşır.
+
+Abonenin alıcı haberleşme sağlayıcısı ile olan abonelik sözleşmesi r fiilen lie yürürlüğe girer. Abonenin verici
+haberleşme Blay ile olan ab if 6 I de aynı tarih itibar ile fest sayılır. Ab in mevcut haberleşme
+ğI karşı olan h i mall yükümlülükleri numaranın taşınması ile sona ermez. Abone 6/2012 Elektronik Haberleşme
+
+es
+Yasası uyarınca hak ve vükümlülüklere tabidir.
+
+[SAYFA 15]
+Şirket Logusu
+
+815
+EK-2
+
+Referans No:
+
+Tarih:| | Ty] | 17] | | | |
+
+BİREYSEL ABONELER İÇİN MOBİL NUMARA TAŞIMA İPTAL FORMU
+
+Kimlik Türü
+
+Kimlik/Pasaport No
+Adı
+
+Soyadı
+
+Doğum Tarihi
+Önceki Soyadı
+İletişim Numarası 1
+İletişim Numarası 2
+
+ABONE BİLGİLERİ
+
+L İkkrc Le | pasaport L İpolis | Asker | Diğer
+
+NE iğ b li AG MV
+
+Başvuruyu yapa
+Kimlik Türü
+
+Kimlik/Pasaport No
+Adı
+
+Soyadı
+
+Doğum Tarihi
+İrtibat telefonu
+
+n vekil ise:
+
+| İkkrc [_]tc | )Pasaport L İpolis L Jâsker | İDiğer
+
+Verici Haberleşme Sağlayıcı
+Alıcı Haberleşme Sağlayıcı
+
+Numaraflar)
+
+Taşıma İşlemi İptal Edilecek Numara Bilgileri
+
+imefensf ems tarihinde yapılmış olan, bu formda yer alan numaranın/numaraların taşınmasına
+ilişkin talebimden vazgeçiyorum.
+
+İmza :
+
+Adı, Soyadı :
+
+Tarih :
+
+[SAYFA 16]
+816
+EK-3
+
+Şirket Logosu Referans No:
+
+Tarte! | T/T | VT TTT
+BİREYSEL ABONELER İÇİN MOBİL NUMARA TAŞIMA SAHTECİLİK FORMU
+
+ABONE BİLGİLERİ
+
+Kimlik Türü Lİkxrc (| rc | Jpasaport | Jpolis [Jasker []oiger
+
+Kimlik/Pasaport No
+Adı
+
+Soyadı
+
+Doğum Tarihi / /
+Önceki Soyadı se eee
+İletişim Numarası 1 :
+
+İletişim Numarası 2
+
+Başvuruyu yapan vekil ise:
+Kimlik Türü (| KKTC L Trc LI Pasaport LI Polis msi Asker LI Diğer
+
+Kimlik/Pasaport No
+Adı
+
+Soyadı
+
+Doğum Tarihi / if
+irtibat Telefonu
+
+Numara Bilgileri
+
+Numara(lar)
+
+Bu Formda belirtilen numaranın/numaraların ilgili haberleşme sağlayıcısına taşınma süreci bilgim
+ve iznim olmadan başlatılmıştır. Bu işlem ile ilgili gerekli yasal işlemlerin yapılmasını talep
+ediyorum.
+
+İmza :
+
+Adı, Soyadı :
+
+Tarih :
+
+[SAYFA 17]
+817
+EK-4
+
+Şirket Logosu No:.
+rants EA EE sata) a fis]
+KURUMSAL ABONELER İÇİN MOBİL NUMARA TAŞIMA TALEP FORMU
+
+Başvuruda Bulunan Kişi
+
+Kimlik Türü Diekre (je L pasaport | Jpolis | Jasker | JDiğer
+
+Kimlik/Pasaport No
+Adı
+Soyadı
+
+ABONE BİLGİLERİ
+
+esretsislne; || El EE ete İİ
+
+Ticaret Ünvanı/
+Kurum Adı heee eek halki LE
+İrtibat telefonu 1 4
+
+İrtibat telefonu 2
+
+Talep edilen EPRI NELER
+taşıma tarihi
+
+Talep edilen 00:30-07:59 08:00-15:59 16:00-23:30
+taşıma zamanı
+
+T ati ilgileri
+
+Verici Haberleşme Sağlayıcı
+Alıcı Haberleşme Sağlayıcı
+
+Numaraflar)
+
+Numara Bloğu ||| III) - (III
+
+Çoklu numara taşıma talebinde, bir veya birden fazla numaranın herhangi bir Evet Hayır
+dolayı geriye kalan numaralar taşınsın mı? Lİ
+
+Bu Formda belirtilen numaranın/numaraların yukarıda adı geçen alıcı haberleşme sağlayıcısına
+t in, alıcı haberleşme sağlayıcısı tarafından numara taşıma sürecinde
+
+t ilişkin
+gerekli birimlere veril ine ve bu işlemin kendi adıma alıcı haberleşme sağlayıcısı tarafından
+yürütülmesine onay veriyorum.
+
+imza :
+
+Adı, Soyadı :
+
+Tarih :
+
+Su form ile yapılan numara taşıma talebi, verici haberleşme sağlayıcısı Ike olan abonelik sözleşmesini fesih talebi anlamını taşır.
+alcı haberi ğlay ile olan abonelik fiilen ile yürürlüğe girer. Abonenin verici
+lay ile olan ik sé de aynı tarih itiban ile sayılır. Ab in mevcut haberi,
+
+sağlayıcısına karşı olan halihazırdaki mati yükümlülükleri numaranın taşınması ile sona ermez. Abone 6/2012 Elektronik Haberleşme
+Yasası hak ve ü tabidir.
+
+[SAYFA 18]
+818
+EK-5
+
+Şirket Logosu Referans No:.
+
+Tarih: | (7) | |/) | | | |
+KURUMSAL ABONELER İCİN MOBİL NUMARA TASIMA İPTAL FORMU
+
+Başvuruda Bulunan Kişi
+
+Kimlik Türü [Jere [-Jre (pasaport | Jpois OL Jasker | JDiğer
+
+Kimlik/Pasaport No
+Adı
+Soyadı
+
+ABONE BİLGİLERİ
+
+Tereskine LLİİ kk Lİ LL LİLLE LI
+
+Ticaret Ünvanı/
+
+Kurum Adı KV A KR
+
+irtibat telefonu 1
+İrtibat telefonu 2
+
+Talep edilen LI dit İİİ
+
+taşıma tarihi
+
+Talep edilen 00:00-07:59 08:00-15:59 16:00-23:59
+taşıma zamanı
+
+Taşıma İşlemi İptal Edilecek Numara Bilgileri
+
+Verici Haberleşme Sağlayıcı | | | | | | | | | | | | | | | TT) 1111
+Alıcı Haberleşme Sağlayıcı | | | | | | | | | | | | | | (İİİ İİ
+
+Numarajlar)
+
+Numara Bloğu = | | | | | | | | | | | - Litt i tt tty)
+
+masal weeef sama. tarihinde yapılmış olan, Şirketimiz/Kurumumuz adına kayıtlı bu formda belirtilen
+numaranın/numaraların, yukarıda adı geçen alıcı işletmeciye taşınmasına ilişkin talebimizden
+vazgeçiyoruz.
+
+imza :
+
+Adı, Soyadı ;
+
+Tarih :
+
+[SAYFA 19]
+819
+EK-6
+
+Şirket Logosu Referans No:
+
+Tarih: | |/) | 17) (| | |
+KURUMSAL ABONELER İÇİN MOBİL NUMARA‘TASIMA SAHTECİLİK FORMU
+
+Başvuruda Bulunan Kişi
+
+Kimlik Türü LI KKTC L he : (Iİ Pasaport (I Polis | İAsker cy Diger
+
+Kimlik/Pasaport No
+Adi
+Soyadı
+
+ABONE BİLGİLERİ
+
+tiaretsictNo [[[TTTTITTITITTI TIT I Titi titi tt |
+
+Ticaret Ünvanı/
+
+Kurum Adı KE tt
+
+İrtibat telefonu 1
+İrtibat telefonu 2
+
+Numara Bilgileri
+
+Numarajlar)
+
+Numara Bloğu ||| (| 11111) - (111111111)
+
+Bu Formda belirtilen numaranın/numaraların ilgili haberleşme sağlayıcısına taşınma süreci bilgim
+ve iznim olmadan başlatılmıştır. Bu işlem ile ilgili gerekli yasal işlemlerin yapılmasını talep
+ediyorum.
+
+imza :
+
+Adı, Soyadı ;
+
+Tarih ;
+
+[SAYFA 20]
+820
+
+EK-7
+Şirket Logosu
+
+Tarih: | [7] | TT IT 4]
+MOBİL NUMARA İADE FORMU
+
+İade Edilen Numara ve Haberleşme Sağlayıcı Bilgileri
+
+Haberleşme Sağlayıcı LK LTIIITTELTIiscTititih
+
+İlgili Numaraların Sözleşme Bitiş Tarihi BA Pİ a
+
+İade Edilen Mobil Numaralar
+
+NOT: İade edilmek istenen numaralar 10 adetten fazla ise bu dökümana ek yapılacaktır. Ancak sadece sözleşme bitiş tarihleri aynı olan
+numaralar toplu olarak iade edilebilir.
+
+Bu Formda belirtilen numaraların tahsisli olduğu haberleşme sağlayıcıya iade edilmesi, ilgili diğer
+haberleşme sağlayıcılarına yapılan bu iade işleminin duyurulması ve bu işlemin kendi adıma
+Kurumdaki NTS sistemi tarafından yürütülmesine onay veriyorum.
+
+E-İmza :

@@ -1,0 +1,1087 @@
+[SAYFA 1]
+KUZEY KIBRIS TÜRK CUMHURİYETİ
+RESMI GAZETE
+
+Savi: 21 EK Ill 31 Ocak. 2008
+TEBLİĞ VE İLANLAR
+
+Sayı: 104
+TELEKOMÜNİKASYON HİZMETLERİ YASASI
+(Fasıl 302 ve 20/1960 ve 25/1963 Sayılı Yasalar)
+43. Madde Altında Yapılan Tüzük
+
+Kuzey Kıbrıs Türk Cumhuriyeti Bakanlar Kurulu, Fasıl302 sayılı
+Telekomünikasyon Hizmetleri Yasası'nın 43. maddesinin kendisine verdiği yetkiyi
+
+kullanarak aşağıdaki Tüzüğü yapar:
+
+Kısa 1. Bu Tüzük, “Telekomünikasyon Hizmetleri Ücretleri ve Uygulama
+İsim Tüzüğü” olarak isimlendirilir.
+
+Ücretler 2. Telekomünikasyon Dairesi Müdürlüğü , bu Tüzüğe ek'li Cetvelde
+CETVEL öngörülen Telekomünikasyon hizmetleri ücretlerini tahsil eder.
+
+Yürürlükten 3. Bu Tüzüğün yürürlüğe girdiği tarihten başlayarak Telekomünikasyon
+Kaldırma Hizmetleri (Genel Telefon , Telgraf , Teleks ve Teleteks) Ücretleri
+
+ve Telefon/Teleks Tesis ve Nakil Ücretleri Tüzüğü” Tüzük altında yapı.
+
+işlemlere halel gelmeksizin yürürlükten kalkar.
+
+R.G
+
+Ek Ill °
+1.10.2007
+A.E 691
+
+R.G.
+
+Ek Ill
+6.11.2007
+A.E 767
+
+Yürürlüğe 4. Bu Tüzük, 1 Şubat 2008 tarihinden başlayarak yürürlüğe girer.
+Giriş
+
+(235)
+
+[SAYFA 2]
+236
+
+CETVEL
+
+KISIM I
+
+TANIMLAR, KISALTMALAR ve AGIKLAMALAR
+
+1- TANIMLAR
+
+1.1- Roaming : GSM Şebekeleri arasında serbest dolaşım.
+
+1.2- Mark Up : Roaming' deki yurt dışı hizmet bedeli.
+
+1.3- Cost : Görüşmenin yapıldığı yöne doğru uygulanan normal PSTN
+
+ücret tarifesi. Cost gelir paylaşımına dahil değildir.
+
+1.4- GSM Cost : Görüşmenin yapıldığı yöne doğru uygulanan GSM ücret tarifesi
+2- KISALTMALAR
+
+TD : Telekomünikasyon Dairesi
+
+KMT : Kıbrıs Mobile Telekomünikasyon A.Ş.
+
+PSTN : Kamu Telefon Şebekesi
+
+GSM : Global System of Mobile (Cep Telefonu) Şebekesi
+
+MTC : GSM Abonelerine doğru yapılan aramalar.
+
+NMT : NMT-450 Mobil Telefon (Araç Telefonu) Şebekesi
+
+ISDN :Temel servisleri sayısal ortamda birteştiren tümleşik şebekedir.
+
+ADSL : Asimetrik sayısal abone hattı
+
+G.SHDSL : Simetrik yüksek hızlı sayısal abone hattı
+
+CLIP : Calling line identification presentation (Arayanı görme)
+
+CLIR : Calling line identification restriction (Arayanın görülmemesi)
+
+DDI : Direct dialling in (Dogrudan arama)
+
+AOC : Advice of charge (Ücret tesbiti)
+
+3- AGIKLAMALAR
+3.1 Otomatik telefon görüşmelerinde beher kontör ücreti PSTN, Türkiye ve Uluslararası aramalar 0,03 YTL‘dir.
+Konuşma ücreti = Kontör sayısı x 0,03 YTL olarak hesaplanır.
+
+3.2- İlk kontör telefon görüşmesi başlayınca, diğer kontörler ise periyod sonlarında yazılır.
+
+3.3- KKTC hudutları içerisinde ve Türkiye ile yapılan otomatik görüşmelerde 07.00 - 22.00 saatleri arasında
+normal tarife, 22.00 - 07.00 saatleri arasında, Pazar ve tüm resmi tatil günlerinde indirimli tarife uygulanır.
+
+3.4- BA (Basic Access-Temel Erişim): Herbiri 64 kbit/s' lik olan 2 adet B-Kanalı ve bir adet 16 kbit/s'lik D-Kanalı
+içermektedir.
+
+3.5- PRA (Primary Random Access-Çoklu Erişim): Herbiri 64 kbit/s' lik olan 30 adet B-Kanalı ve bir adet 64 kbit/s'lik
+D- Kanalı içermektedir.
+
+3.6- Terminal Adaptörü - TA : Mevcut terminallerin ISDN hattına bağlanabilmesi için kullanılan arabirim cihazıdır.
+
+3.7- Transit Telefon Ücretleri: Bu ücretler KKTC telefon santralları ile sistemleri kullanılarak yapılan transit
+telefon görüşmelerini (Türkiye ve üçüncü ülkelere) ve bu sistemler yardımı ile KKTC'de sonlanacak
+telefon görüşmelerini kapsamaktadır.
+
+3.8- Network Terminator - NT (Şebeke Sonlandırıcı): Tüm ISDN terminallerin tek bir ISDN hattına bağlantısını sağlayan
+arabirim cihazıdır.Bir NT cihazına 8 adet terminal (Telefon, PC, Faks vb.) bağlanabilmektedir.
+
+[SAYFA 3]
+237
+
+KISIM Il ,
+TESİS, KİRA VE MAKTU ÜCRETLER
+HatTesis ücreti Hat kira ücreti Maktu Ücret
+
+1-Telefon Tarifesi 26.50 YTL - 250 Kontör ücreti/Ay
+2- ISDN Tarifesi
+
+(Abone tarafındaki her türlü terminal
+
+ve cihaz aboneye aittir).
+
+2.1- BA (Basıc Access) 53.00 YTL - 500 Kontör ücreti/Ay
+
+2.2- PRA (Prımary Random Access) 795.00 YTL - ) Kontör ücreti/Ay
+3- Trank modülü Tarifesi 795.00 YTL - " Kontör ücreti/Ay
+4- TELEKS Tarifesi
+
+(Cihaz aboneye ait) 72.00 YTL/YI 46.25 YTL/YIl
+
+5-ADSL ve G.SHDSL Tarifeleri
+5.1- ADSL internet erişimi 50.00 YTL 128 Kbis (o 15 YTL/Ay
+256 Kb/s (o 20 YTL/Ay
+512 Kb/s 25 YTL/Ay
+21024 Kb/s 30 YTL/Ay
+
+5.2- G.SHDSL internet erişimi 50.00 YTL 50.00 YTL/Ay
+5.3- G.SHDSL noktadan noktaya erişim ücretleri:
+Lokal Bölge İçi (o Bölgelerarası
+Devre Hızı Tesis Kira Kira Kira
+Ücreti Ücreti Ücreti Ücreti
+128-256 kbit/sn YIL YTL/ay YTL/ay YTL/ay
+(256 kbit/sn dahil)
+; 150.00 64.00 136.00 272.00
+256-512 kbit/sn
+(512 kbit/sn dahil)
+150.00 88.00 187.00 374.00
+512-1024 kbit/sn ,
+(1024 kbit/sn dahil) .
+150.00 120.00 255.00 510.00
+1024-2048 kbit/sn
+(2048 kbit/sn dahil
+150.00 161.00 340.00 680.00
+5.4- ADSL noktadan noktaya erişim ücretleri:
+Lokal Bölge İçi (o Bölgelerarası
+Tesis Kira Kira Kira
+Devre Hızı Ücreti Ücreti Ücreti Ücreti
+YTL YTL/ay YIL/ay YTL/ay
+128/32 50.00 34.00 74.00 148.00
+256/64 50.00 42.00 90.00 180.00
+512/128 50.00 54.00 116 00 232.00
+1024/256 , 50.00 70.00 150.00 300.00
+2048/512 50.00 90.00 192 00 384.00
+
+5.5- ADSL sisteminin mesai saatleri dışında bağlantılarının sağlanıp monitör edilebilmesi amacı ile Bayındırlık
+ve Ulaştırma Bakanlığının onayı ile en çok beş Telekomünikasyon Dairesi personeline ücretsiz olarak
+tamamen servis amaçlı ADSL bağlantısı verilebilir.
+
+[SAYFA 4]
+6- Özel Devre Tarifesi (Private Wire)
+
+Devre Hızı ve Katsayısı Lokal Bölge içi Bölgelerarası
+Hat Hat Kanal Hat Kanal
+Tesis Kira Tesis Kira Kira Tesis Kira Kira
+Ücreti Ücreti (o Ücreti (o Ücreti (Ücreti (o Ücreti (o Ücreti Ücreti
+
+YTL YTU/Ay YTL YIUAY YTL/Ay YTL YTL/Ay YTLAy
+
+S 64 kbit/s
+
+(64 kbit/s dahil) 1.5 68.25 20.00 79.50 20.00 45.00 93.00 20.00 90.00
+- 64-128 kbit/sn
+
+(128 kbit/sn dahil) 6 237.00 48 00 282.00 48.00 102.00 336.00 48.00 204.00
+- 128-256 kbit/sn
+
+(256 kbit/sn dahil) 8,0 312.00 64.00 372.00 64.00 136.00 44400 64.00 272.00
+
+- 256-512 kbit/sn
+(512 kbit/sn dahil) 11,0 424.50 88.00 507.00 88.00 187.00 606.00 88.00 374.00
+
+- 512-1024 kbit/sn
+(1024 kbit/sn dahil) 15,0 574.50 120.00 687.00 120.00 255.00 82200 120.00 510.00
+
+- 1024-2048 kbit/sn
+(2048 kbit/sn dahil) 20,0 762.00 161.00 912.00 161.00 340.00 1,092.00 16100 680.00
+-2048kbit/sn-8Mbit/sn
+(8 Mbit/sn dahil) 40,0 1,512.00 321.00 1,812.00 321.00 680.00 2,172.00 321.00 1,360.00
+- 8-34 Mbit/sn
+(34 Mbisn dahil) 80,0 3,012.00 643.00 3,612.00 643.00 1,360.00 4,332.00 643.00 2,720.00
+- 34-155 Mbit/sn
+(155 Mbit/sn dahil) 160,0 6,012.00 1,285.00 7,212.00 1,285.00 2,720.00 8,652.00 1,285.00 5,440.00
+- 155-622 Mbil/sn
+
+(622 Mbit/sn dahil) 320,0 12,012.00 2,570.00 14,424.00 2,570.00 5,440.00 17,304.00 2,570.00 10,880.00
+
+NOT: 1-Ozel devre, 4 tel üzerinden tesis edilecekse aylık hat kira ücretlerinin 2 katı alınır.
+2- Tesis ücreti içerisinde hat ölçüm ücreti dahildir
+3- Hat ölçüm ücreti 12.00 YTL/devre'dir.
+
+[SAYFA 5]
+7.Özel Servis Numaraları:
+7.1-(444XXXX'li numaralar ile ulaşılabilen devrelerde)
+a.Tesis Ücreti (yönlendirme ücreti) 60.00 YTL
+
+7.2- 444XXXX'li numara kira ücreli
+a- Son 4 rakam ayni ise 200 YTL/Ay
+b- Son 3 rakam ayni ise (Ör.4441222)
+veya son dört rakamdan ardarda üçü ayni ise 150 YTL/Ay
+(Ör. 4440001 - 4441000)
+c- Son 4 rakam 2'li 2'li simetrik ise 100 YTL/Ay
+(Ör. 4440202 - 4442233)
+50 YTL/Ay
+
+d- Yukarıdaki sınıflar dışında olan numaralar
+
+7.3- 444XXXX'li bir sanal numaranın bir PSTN ve PRA numarasından başka bir
+PSTN ve PRA numaraya yönlendirilmesinde ise ücret alınmaz.
+(Numaralar ayni şahsa ait olmak kaydıyla)
+
+7.4- 444XXXX'li numara birden fazla numarada (bölgede) sonlanacaksa her farklı
+sonlanma için ayrı tesis ücreti alınır. Ancak maktu ücret sadece bir tek
+numaraya işlenir. Bu numara abonenin tercihine bırakılmıştır.
+
+8.Özel Tarifeli Mesaj Servisleri
+a.Numara Tahsis Ücreti (900'lü hatlar) 26.50 YTL
+
+9.Ücretsiz Aranan Telefonlar (800' lü hatlar):
+Ücreti aranan tarafından ödenir. :
+a.Bağlantı Ücreti , 53.00 YTL
+b.Aylık Abonman Ücreti 2.00 YTL
+
+10- Açıklamalar
+10.1- 444XXXX'lü numaranın devri mümkün değildir.
+
+10.2.- Gerçek ve/veya tüzel kişiler kendi işlerinin daha süratli yapılabilmesi amacı ile, bedelleri firma veya kurumlar
+tarafından ödenmek koşulu ile Telekomünikasyon santralları ve sistemleri üzerine yapacakları yatırımlarda (PRA,
+trank modülü gibi), firmalardan Telekomünikasyon Ücretler Tüzüğü gereği alınması gereken tesis ücreti bedeli
+
+alınmaz.
+10.3- Boş PRA'ların dağıtımında, müracaat sahiplerinin sırası da gözönünde bulundurularak, müracaat tarihinden
+itibaren eşit şekilde dağıtım yapılacaktır
+
+11. Resmi olmayan 3 veya 4 rakamlı özel servis numaralarında
+60 YTL
+
+a) Tesis ücreti
+b) Numara kira ücreti 30 YTL
+
+[SAYFA 6]
+240
+
+KISIM III
+TELEFON KONUŞMA ÜCRETLERİ
+1) KKTC Hudutları içerisinde yapılan
+otomatik görüşmeler:
+
+Kontör atış periyodu (sn) Konuşma Ücretleri
+Normal İndirimli Normal Indirimli
+1.1 Lokal (şehiriçi) konuşmal o 150 150 0.012 YTL /dk 0.012 YTL/dk
+1.2.Bölge içi konuşmalar 72 144 o 0.025 YTL/dk 0.0125 YTL/dk
+1.3 Bölgelerarası konusmalz 48 96 0.0375YTL/dk 0.01875 YTL/dk
+1.4 a- PSTN'den Vodafone'z 12 12 20 Ykrş/dk 20 Ykrş/dk
+1.4 b- PSTN'den KMT'ye 12 12 20 Ykrs/dk 20 Ykrş/dk
+1.5- Özel Servis numaralarına erişim ücreti
+a- 444XXXX 60 60 0.03 YTL/dk 0.03 YTL/dk
+b- 900 9XXXXXX 1,5 1,5 1.20 YTL/dk 1.20 YTUdk
+c- 900 8BXXXXXX 1 1 1.80 YTU/dk 1.80 YTL/dk
+d- 900 5XXXXXX 2 2 0.90 YTL/dk 0.90 YTL/dk
+e- 900 3XXXXXX 0.6 0.6 3.00 YTL/dk 3.00 YTL/dk
+f- 800'lü hatlar Ücretsiz Ücretsiz
+g- 112, 155, 177, 199, 161, 153, 157,
+124, 156, 158, 144, 151, 197, 111 Ücretsiz Ücretsiz
+h- 185, 186, 116, 166,18 150 150 0.012 YTL/dk 0.012 YTL/dk
+163, 178, 150
+1-192 10 10 0.18 YTL/dk 0.18 YTL/dk
+i- 133 12 15 0.15 YTL/dk 0.12 YTU/dk
+je 11811, 11832, 11842 2 2 0.90 YTL/dk 0.90 YTL/dk
+k- 1133, 1136, 1144 60 60 0.03 YTL/dk 0.03 YTL/dk
+- 179 150 150 0.012 YTL/dk 0.012 YTL/dk
+m- 4XX (internet erisims 600 600 0.003 YTL/dk 0.003 YTL/dk
+2- Türkiye ile yapılan otomatik konuşmalar:
+2.1-. Türkiye PSTN numarala 12 15 0.15 YTL/dk 0.12 YTL /dk
+2.2- Türkiye GSM numaraları 5 6,25 0.36 YTL/dk 0.288 YTL/dk
+
+3- Uluslararası görüşmeler için uluslararası sözleşmelere göre uygulama yapılır. (Ek 1) - (Ek 2)
+
+4- Transii telefon ücretleri
+
+4.1-KKTC'de kurulacak uydu yer istasyonları ve fiber optik kablolarla KKTC TD Telekomünikasyon sistemleri
+kullanılmadan yapılan ve üçüncü ülkelerde sonlanacak transit telefon ve data görüşmelerinin dakika başı ücreti
+0.03 Amerikan Doları" dır (3 cent/dk).
+
+4.2-KKTC'de kurulacak uydu yer istasyonları ve fiber optik kablolar kanalı ile KKTC TD Telekomünikasyon sistemleri
+kullanılarak üçüncü ülkelerde sonlanacak telefon ve data trafiği için Telekomünikasyon Dairesi dakika başı ücreti;
+KKTC'nin yapmış olduğu trafik sonlandırma anlaşmaları çerçevesinde o ülkeye ödeyeceği trafik sonlandırma
+ücreti artı 0.04 Amerikan Doları'dır. (4 cent/dk)
+
+4.3-KKTC'de kurulacak uydu yer istasyonları ve fiber optik kabloları ile KKTC PSTN'de sonlanacak telefon ve data
+trafiğinin dakika başı ücreti 0.035 Amerikan Dolarıdır. (3.5 cent/dk.) KKTC GSM şebekelerinin herhangi birinde
+sonlanacak telefon ve data trafiğinin dakika başı ücre 0.120 Amerikan Doları'dır (12 Cent/dk).
+
+4.4-KKTC'de kurulacak uydu yer istasyonları ve fiber optik kablolarla TD Telekomünikasyon sistemleri kullanılarak
+Türkiye PSTN'de sonlanacak telefon ve data trafiğinin dakika başı ücreti 0.06 Amerikan Dolarıdır (6 cent/dk).
+
+4.5- Transit telefon trafigi Ucretlendirmelerinde tum gün boyunca "Normal" ücret tarifesi uygulanır.
+
+4.6-Transit telefon ve data trafiğinin faturalaması aylık devreler şeklinde yapılır. SDR ve Dolar kurları ilgili fatura
+devresini müteakip ayın ilk mesai günündeki kurları kullanılır. SDR kuru, TC Merkez Bankası'nın SDR/US Doları,
+Dolar kuru ise KKTC Merkez Bankasının dolar efektif satış kurudu Faturalar YTL (Yeni Türk Lırası) cinsinden
+hesaplanır.
+
+[SAYFA 7]
+24]
+4.7-Transit trafik operatörleri aylık tahakkukları kadar banka teminat mektubunu Telekomünikasyon Dairesi'ne
+vermeleri gerekmektedir.
+
+4.8-KKTC'de kurulacak uydu yer istasyonları ve fiber optik kablolarla TD Telekomünikasyon sistemleri kullanılarak,
+Türkiye GSM'de sonlanacak telefon ve data trafiğinin dakika başı ücreti 0.140 Amerikan Dolarıdır (14 Cent/dk).
+
+4.9-KKTC sınırları içerisinde faaliyet gösteren, Bayındırlık ve Ulaştırma Bakanlığı ile transit telefon ve data trafiği
+
+ile internet üzeri ses ve veri trafiği için Lisans Anlaşması imzalamış olan firmaların bu amaç için kullandıkları
+PRA (Primary Random Access) devrelerinin Maktu Aylık Haberleşme Ücretlerine %50 oranında indirim uygulanır.
+
+KISIM IV .
+TELGRAF ve TELEFAKS ÜCRETLERİ
+
+1- DAHİLİ TELGRAF ÜCRETLERİ
+
+1.1- Normal Telgraf: Ücret/YTL
+(1) Asgari ücret (10 kelimeye kadar) 4.00
+(2) Her fazla kelime ücreti (asgari ücrete ilaveten alınır) 0.40
+1.2- Acele Telgraf:
+(1) Asgari ücret (10 kelimeye kadar) 8.00
+(2) Her fazla kelime ücreti (asgari ücrete ilaveten alınır) 0.80
+1.3- Yıldırım Telgraf:
+a) Asgari ücret (10 kelimeye kadar) 20.00
+b) Her fazla kelime ücreti (asgari ücrete ilaveten alınır) 2.00
+
+1.4- Birden fazla(müteaddit) Adresli Telgraflar:
+Bu kategoriye dahil telgraflarda evvela bütün adresler kelime
+sayımına dahil edilerek bir tek telgraf imiş gibi ücreti hesaplanır.
+Ayrıca telgrafın nevi ne olursa olsun beher adres için metin ve
+adresin kelime sayımına göre ücret alınır.
+a) İlk 50 kelimeye kadar (elli kelime dahil) 3.60
+b) Sonraki beher 50 kelime ve kesri için 1.20
+
+1.5- Abone Ücretleri
+a) Kısa adres abone ücreti (Ticari amaçlı bir defaya mahsus olmak üzere alınır). o 45.00
+
+b) Kısa adres abonesi olanlardan alınacak aylık ücret 3.50
+c) Kısa süreli (en çok 1 aylık) kısa adres abonesi olanlardan
+bir defaya mahsus olmak üzere alınır. 7.00
+
+1.6- Fono Telgraf:
+a) Telefon ile alınacak telgraflardan, telgraf ücretine ilaveten %10
+eklenerek alınır.
+b) Faksia alınacak telgraflardan telgraf ücretine ilaveten 9010 ve her sayfa için
+1.20 YTL telefaks sayfa ücreti alınır.
+
+1.7- Müteferrik Maddeler:
+a) Gönderilen şahıs tarafından keşideden evvel durdurulması istenen
+telgraflardan hesaplanan ücretin 1/3'u iade edilir. 0.60
+b) Yanlışlıkla fazla alınan dahili telgraf ücretlerinden 1.3 (b) maddede
+belirtilen ücretden fazla olanlara göndericiye resen, az olanlara talep üzerine
+iade edilir.
+c) Gönderici veya alıcı tarafından ilk merkezden bilahare
+sureti talep edilen bir telgraftan ücret olarak müteaddıt adresli
+telgraf ücreti alınır
+
+[SAYFA 8]
+to
+ao
+NO
+
+2- YURTDIŞI TELGRAF ÜCRETLERİ
+2.1- Türkiye Telgraf Ücretleri (Dahili Telgraf Ücretleri alınır).
+
+2.2- |. Kademeye dahil ülkelerden kelime ücreti , 1.00
+2.3- Il.Kademeye dahil ülkelerden kelime ücreti 1.60
+2.4- li. Kademeye dahil ülkelerden kelime ücreti 3.00
+
+Acele işaretli telgraflardan 2, Yıldırım işaretli telgraflardan 5 katı
+ücret alınır.
+Kademelere dahil ülkeleri gösterir liste (EK 3)
+
+3- GİŞELERDEN YAPILAN TELEFAKS ÜCRETLERİ
+3.1- Yurtiçi telefaks ücretleri
+3.1.1-1.nci sayfa iletim ücreti
+
+a) Lokal gönderi ücreti 0.50
+
+b) Bölgeiçi gönderi ücreti 1.00
+
+c) Bölgelerarası gönderi ücreti 1.50
+3.1.2- Takip eden herbir sayfa iletim ücreti
+
+a) Lokal gönderi ücreti 0.25
+
+b) Bölgeiçi gönderi ücreti 0.50
+
+c) Bölgelerarası gönderi ücreti 0.75
+
+3.2- Yurtdışı telefaks ücretleri
+a) 1.nci sayfa iletim ücreti telefaksın gönderileceği ülkeye
+yapılan 4dk.lık otomatik telefon ücreti alınır.
+b) Takip eden herbir sayfa için 2dk.lık otomatik telefon
+ücreti alınır.
+3.3- Teiefaks alma ücretleri (Alıcıdan talep edilir).
+a)llk sayfa ücreti 1.20
+b) Sonraki her sayfa ücreti 0.60
+
+[SAYFA 9]
+243
+KISIM V
+ÇEŞİTLİ ÜCRETLER
+1- NAKİL İŞLEMLERİ ÜcreYTL
+1.1- Telefon nakilleri (Tesis ücretinin %50'si alınır). 13.25
+1.2- Teleks nakilleri
+a.Şehiriçi 18.50
+b.Bölge içi 18.50
+c.Bölgelerarası 39.00
+1.3- ISDN nakilleri
+a- BA nakli (Tesis ücretlerinin %50'si alınır). 26.50
+b- PRA nakli (Tesis ücretlerinin %50'si alınır). 397.50
+1.4- ADSL ve G.SHDSL nakilleri Tesis ücretinin %50'si alınır.
+(Adres ve/veya telefon numarası değişikliğinde)
+1.5- Özel devre (Private wire) ve trunk nakilleri Tesis ücretinin %50'si alınır.
+\
+2- DEVİR İŞLEMLERİ
+2.1- Telefon, ISDN (BA) ve özel devre (PW) devirlerinde
+(Ayni aile efradı arasında veya tüzel kişi isim değişikliğinde) Tesis ücretinin 25'i alınır.
+2.2- Telefon, ISDN (BA) ve özel devre (PW) devirlerinde
+(Ayni aile efradı olmayan gerçek ve/veya tüzel kişiler arasında) Tesis ücretinin %50'si alınır.
+2.3- PRA ve Trunk devri 795.00
+
+2.4- ADSL, G.SHDSL, teleks hatları ve özel servis numaralarının devri yapılamaz.
+3. Telefon ve ISDN (BA) numara değiştirme 8.60
+Not: PSTN numarası ISDN olarak değiştirilecekse tesis Ücreti farkı da alınır
+ISDN numarası PSTN olarak değiştirilecekse ücret alınmaz.
+
+4. Kapatma ve tekrar bağlama (arzu üzerine veya borcundan dolayı)
+
+4.1- Telefon ve ISDN (BA) için 3.00
+4.2- PRA ve Trunk modülü için ( Modül başına) 15.00
+4.3- ADSL ve G.SHDSL için (Hat başına) Tesis ücretinin % 10'u alınır.
+4.4- Özel devre (PW) için (Hat başına) Tesis ücretinin % 25'i alınır.
+4.5- Özel servis numaraları, özel tarifeli mesaj servisleri ve ücretsiz aranan ;
+
+telefonlar için Tesis ücretinin % 10'u alınır.
+5. Abonenin arzusu üzerine uluslararası görüşmeye kapama ve açma 3.00
+
+6- EMANETE ALMA
+
+6.1- Abonenin arzusu üzerine emanete alma ücreti (yıllık) 12.00
+(emanet süresi kadar aylık maktu ücretleri yıllık ücrete eklenerek peşin alınır)
+
+7. Rahatsız edici aramaların takibi (1 ay süreli) 1.80
+
+8. Diğer aboneleri rahatsız ettiği tesbit edilen ve irtibatları kesilen abonelerin 26.50
+yeniden irtibatlandırılması
+
+9. Çeşitli Teleks Ücretleri:
+
+9.1- Çağrı işareti değişikliği 30.00
+9.2- Haberleşme ücretinin öğrenilmesi 3.00
+9.3- Kapama veya kapalı bir teleks hattını açma ücreti 5.00
+
+10.Detaylı faturalandırma:
+
+10.1- İlk sayfa 1.20
+10.2- Müteakip sayfalar (sayfası) 0.60
+10.3-Manyetik ortama kopyalama 30.00
+
+(Ücret, 1.44 MB başına alınır).
+
+[SAYFA 10]
+244
+
+11.Abonelere santrallardan 12KHz veya 16KHz sinyal gönderilmesi:
+11.1- Aylık (peşin alınır) 9.60
+11.2- Yıllık (peşin alınır) 115.25
+
+12- ISDN Kullanım Kolaylıkları
+a) Doğrudan Arama (DDI):
+
+Her 10 numara için 5.25 YIL/ay
+b- Alt Adresleme (Sub Addressing):
+BA (Basic Access) için 1.00 YTLiay
+c) Ucret Tesbiti (AOC)
+Her PRA kanalı için 75.00 YTLiay
+KISIM VI
+
+TESİSAT UYGULAMALARI İLE İLGİLİ ÜCRETLER
+
+1-Dağıtım kutusundan dört menzil (220m, 3 direk)mesafeye kadar tesis ücreti alınır.
+1.1- Dört menzil (220m, 3 direk)'e kadar olan mesafelerde ilave havai hat için güzergâhlara konulacak
+her yeni direk maliyetinin 1/10' u alınır.
+1.2- Yalnız aboneye hizmet edecek olursa her yeni direk maliyetinin tümü alınır.
+1.3- Mevcut çekilmiş ana güzergahtan direk ücreti alınmaz.
+
+2- Dört menzil (220m, 3 direk) dışındaki telefon tesis ücretinin belirlenmesinde KISIM VIII Madde 2 uygulanır.
+
+3- Toplu dilekçeler ve özel sözleşmeye tabi uygulamalarda ücretlerin belirlenmesinde Genel Uygulamalar
+KISIM Vili Madde 2 uygulanır.
+
+KISIM Vil
+EFON/TELEKS TESİS, NAKİL İŞLEMLERİNİN UYGULANMASINA AİT ESASLAR
+UYGULANMASI
+1- Telefon/Teleks tesis ve nakil taleplerinin sıraya konması:
+Telefon/Teleks tesis ve nakil talepleri prensip itibarıyle müracaat tarihine göre sıraya konularak yerine getirilir.
+Fakat imkanların kısıtlı olduğu hallerde ;
+a. Devlet güvenliği ve kamu yararı görülen durumlarda resmi kurum ve kişilere ilgili Bakanlığın onayı ile
+Telefon/Teleks tesisinde öncelik tanınır.
+b. Telefon, Teleks tesis talepleri talep edenin ekonomik ve sosyal yönden ihtiyaç durumu gözönüne alınarak
+Müdürlük tarafından tesbitle ilgili Bakanın onayı ile Telefon/Teleks takılır.
+2- Talepden sonra adres değişikliği:
+Telefon/Teleks tesis ve nakil talebinde bulunan bir kimse talepden sonra adres değiştirir ve bu değişiklik ayni santal
+sahası dahilinde kalırsa yeni müracaat olarak düşünülmeyerek, ilk müracaat tarihi esas tutulur. Santral sahası
+değiştiği takdirde son müracaat tarihine göre yeniden sıraya konur
+
+[SAYFA 11]
+245
+
+KISIM VIII
+GENEL UYGULAMALAR
+
+1- Resmi hizmetler için tesis edilecek tüm haberleşme hat tesis ve diğer işlemleri için alınacak ücretler
+işlemi yapıldıktan sonra işlemi yapılan hattın ilk faturasına dahil edilir.
+
+2- Ücret listeleri dışında kalan özel durumlar için işin ifası ve ücretlendirilmesi hususunda Bakanın onayı ile
+Telekomünikasyon Dairesi Müdürü yetkilidir.
+
+3- Tenzilat Uygulamaları:
+3.1- Personel indirimleri
+
+a) Telekomünikasyon Dairesi'nde bilfiil çalışan personele görüşme ücretlerine ayda 1250 kontöre kadar 9560 indirim
+uygulanır.1250 kontörün üzerindeki konuşmalara tam ücret uygulanır.
+
+b) Telekomünikasyon Dairesi Müdürlüğünde ve Telekomünikasyon Dairesi Müdürlüğü bünyesinde 10 yıl süreli
+görev yapan personelefişçiler dahil) emekliye çıkması halinde Telekomünikasyon Hizmetlerinin konuşma
+
+ücretlerinde 1250 kontöre kadar %30 oranında indirim uygulanır. 1250 kontörün üzerindeki konuşmalardan
+tam ücret alınır.
+
+€) Telekomünikasyon Dairesi Müdürlüğünde bilfiil çalışan personele çalıştığı süre içerisinde ADSL internet
+erişim ücretlerinde 9650 indirim uygulanır.
+
+d) Telekomünikasyon Dairesi Müdürünün tavsiyesi üzerine gerekli hallerde ilgili personele bakanın
+onayı ile servis telefonu tahsis edilebilir.
+
+3.2- Basın indirimleri:
+Ajans, yazılı basın, radyo ve televizyon stüdyoları, telefon ve teleks indirimleri:
+a) Radyo ve televizyon kurumları stüdyolarında kullanılan telefonlara, ajans ve yazılı basın amacıyla kullanılan,
+
+ajans ve yazılı basın kuruluşlarının adlarına kayıdlı, telefonlar üzerinden yapılan ada içi PSTN görüşmelerin
+
+5000 kontöre kadar olan kısmına %60 indirim uygulanır. 5000 kontörün üzerinde olan görüşmelerin ücreti
+tümüyle tahsil edilir.
+
+b) Sürekli, sarı ve mavi basın kartı sahibi kişilerin isimlerine kayıtlı bir ev telefonu üzerinden yapılan ada içi PSTN
+görüşmelerin 1250 kontörüne kadar olan kısmına %50 indirim uygulanır. 1250 kontörün üzerinde olan görüşmelerin
+ücreti tümüyle tahsil edilir. Beyaz basın kartı sahibi kişilerin isimlerine kayıtlı bir ev telefonu üzerinden yapılan
+ada içi PSTN görüşmelerin 625 kontöre kadar olan kısmına %50 indirim uygulanır. 625 kontörün üzerinde
+olan görüşmelerin ücreti tümüyle tahsil edilir.
+
+©) Ajans ve yazılı basına ait teleks yıllık kiraları %40 ve teleks haberleşme ücretleri ise 425 indirime tabiidir.
+
+3.3- Seyahat Acente İndirimleri
+
+KKTC seyahat acentelerinin bürolarında seyahat acentesi adına kayıtlı toplam telefonların ada içi PSTN görüşmelerine
+A sınıfı seyahat acenteleri için 5000 kontörlük kısmına, B sınıfı seyahat acenteleri için 1250 kontörlük kısmına
+“625 indirim uygulanır. Bu ücreti aşan kısımların tümü tahsil edilir.
+
+3.4- Resmi Makam İndirimleri
+a) KKTC Cumhurbaşkanlığı ve Başbakanlık ikametgahlarına servis telefonu tahsis edilir.
+
+b)Meclis Başkanı, Meclis Başkan Yardımcısı, Bakanların, TC Büyükelçisi,KTBK Komutanı ve Güvenlik Kuwvetleri
+Komutanı ikametgâhlarına servis telefonu tahsis edilir,
+
+6) KKTC Meclis üyelerinin daimi ikametgahlarında isimlerine kayıtlı bir telefonun, “2000 kontörüne kadar olan
+kısmına %50 indirim uygulanır ve bu ücreti aşan miktarlar tümüyle tahsil edilir.
+
+d) KKTC Parlamenterler Birliği'nin KKTC'de görevleri sona ermiş eski parlamenterlerin ikâmetgahlarındaki
+isimlerine kayıtlı bir telefonun "2000 kontöre" kadar olan kısmına 9450 indirim uygulanır
+Bu ücreti aşan kısımlar tümüyle tahsil edilir.
+
+[SAYFA 12]
+246
+
+e) KTBKK'lığı ve GKK' ligt bünyesindeki telefonlardan Komutanlık kontenjan sınırları içinde kalan aylık görüşmeler
+için herhangi bir ücret alınmaz. Kontenjanlar KTBKK'lığı ve GKK'lığı tarafından önerilir. Telekomünikasyon
+
+Dairesi Müdürü tarafından uygun görüldüğü şekilde onaylanır.
+
+f Her muhtarlık adına kayıtlı bir telefonun ada içi PSTN görüşmelerinin 1250 kontörlük kısmına %25 indirim uygulanır.
+1250 kontörün üzerinde olan görüşmelerin ücreti tümüyle tahsil edilir.
+
+4- Özel Devre indirimleri
+(a) KKTC'de kayıtlı olarak faaliyet gösteren ve sözleşme gereği "Best Customer" hakkına sahip olan GSM
+
+operatörlerinin Telekomünikasyon Dairesi'nden kiralayacakları ülke içi Özel Devrelerin aylık kira
+ücretlerine %50 oranında indirim uygulanır.
+(6) KKTC sınırları içerisinde faaliyet gösteren ve Bayındırlık ve Ulaştırma Bakanlığı'na bağlı Telekomünikasyon
+Dairesi ile "KKTC Ulusal İnternet Ağı Oluşturulması Sözleşmesi" imzalamış İnternet Access Sağlayıcıları
+(IAP), İnternet Servis Sağlayıcıları (ISP) ve İnternet Sağlayıcılarının (1P)(arasina tesis edilecek) Telekomünikas-
+yon Dairesi'nden kiralayacakları ülke içi Özel Devrelerin aylık kira ücretlerine %50 oranında indirim uygulanır.
+(c) Yukarıda tarifi yapılan İnternet Access Sağlayıcıları (IAP), İnternet Servis Sağlayıcıları (ISP) ve İnternet
+Sağlayıcıları (IP)' nın Telekomünikasyon Dairesi'nden alınmış PBX hatlarına (XXX) erişilecek telefon konuşma
+ücretlerine 10 dakikada 1 kontör ücreti uygulanır.
+
+5- Uygulanacak birden fazla telefon ve/veya teleks bağlantısı olan abonelerin her türlü haberleşme ve bunlarla ilgili
+her türlü ücretleri bir tek şahsi hesapta toplanır. Sözleşme hükümlerine göre faturada belirtilen sürede ödenmeyen
+hesapların tahsil edilmesine kadar şahsa mahsus irtibatlardan herhangi biri ve/veya hepsi geçici bir süre için
+kesilebilir. Bağlantı veya bağlantıların yeniden yapılması için bu tüzükte öngörülen ücret alınır. Belirtilen
+süre içinde ödenmeyen ve ödenmesi için taahhütlü mektupla uyarılan abonelerin 1 ay içinde hesaplarını kapatma-
+maları halinde irtibatları kesilir. Cihazları sökülür ve abonelikleri iptal edilir. Abonenin borçlarının tahsili için gerekli
+yasal işlem yapılır. Yeniden abone olabilmesi için “Yeni hat ve tesis ücreti" alınır.
+
+6- Bu Tüzük kapsamında Telekomünikasyon hizmeti sağlanacak tüm müstkil ev birleşik bina ve apartman dairelerine
+gerekli iç tesisat mal sahibi tarafından yaptırılır. Yapılan işin proje, malzeme ve işçilik yönünden "Telekomünikasyon
+Dairesi İç Tesisat Kuralları"na uygunluğu Telekomünikasyon Dairesi'nce denetlenir. Yapılan tesisatın aranan
+asgari teknik ve hizmet yönünden uygunluğu saptandıktan sonra onay verilerek hizmet bağlantıları yapılır.
+
+7- Arsa parselasyonunda kaldırım altı borular ve rögarlar arsayı açan tarafından kendi masrafı ile yapılır. Bu işlemler
+yapılırken Şebeke projesi “Telekomünikasyon Dairesi Dış Tesisat Kuralları'na uygun olarak hazırlanıp uygulanır.
+Çekilecek yeraltı kablo kapasiteleri ile dağıtım kutularının yer ve kapasiteleri Telekomünikasyon Dairesi
+projelerine uygun olmalıdır.
+
+8- Mevcut ana dağıtım dolabı veya ana dağıtım kutusu ile bina ana dağıtım kutusu arasına döşenecek kablonun
+100 metrelik kısmına tekabül eden bedelin mal sahibi tarafından ödenmesi koşulu ile kablonun çekilmesi
+Telekomünikasyon Dairesi tarafından yapılır.
+
+KISIM Vill Madde 6'ya göre iç tesisatı onaylanmamış olan binalara ve/veya KISIM VIli Madde 7'ye göre alt yapısı
+arsa veya arazi içine yapılmış binalara bağlantı kablosu döşenmez. Uygulama ile ilgili olarak Telekomünikasyon
+Dairesi tarafından yönetmelikler hazırlanarak ilgili Bakanın onayına sunulur.
+
+Ancak, büyük şehir belediye sınırları dışında kalan kırsal alan ve küçük şehir belediye sınırları içerisindeki
+yerleşim birimlerinde Telekomünikasyon dairesi şebeke alt yapısı yoksa ve Telekomünikasyon Dairesi altyapısı
+havai şebekeden oluşuyorsa bu durumda abonelerden telefon yeraltı şebeke alt yapısı aranmaz. Abonelerin
+bölgelerdeki talepleri mevcut Telekomünikasyon şebeke yapısına uygun olarak havai çoklu kablo ile karşılanır.
+Ücretlerin belirlenmesinde KISIM Vil! Genel Uygulamalar Madde 2 uygulanır.
+
+9- Arsa parselasyonunda açılacak olan arsaların şebeke dağıtım kablolarının tesisi ile parselasyon işleminden dolayı
+alınacak ücretlerin belirlenmesinde KISIM VII! Genel Uygulamalar Madde 2 uygulanır.
+Parselasyon altyapısı tamamlanmış arsalar için hesaplanan ücretin 50.000 YTL ve daha üzeri olması
+halinde ise yükümlünün isteği üzerine 6 ay geçerli banka teminat mektubu karşılığında 5 ay içinde
+5 eşit taksitle ödenebilecektir.
+
+10-Telekomünikasyon Dairesi yaptığı kontrolluk hizmetlerine karşılık yapacağı harcamaları işi yaptıran özel ve tüzel
+kışilerden ödenir
+
+[SAYFA 13]
+247
+
+1i-Araç telefonları, çağrı (pager) . Turpak, Özel Devre, TDM, Frame Relay ve TTNet sistemlerine ait ücretlendirmelerde
+Türk Telekom'la yapılan protokoller ve bu çerçevede oluşan ücret yönetmelikleri uygulanır.
+
+12-Emanete alma ücrete tabidir. Emanete alınacak telefon/faks/teleks ISDN (BA, PRA)ve trunk abonesinin borcu varsa
+önce borcu kapatılır, sonra emanete alınır.Emanete alma en fazla iki yıl süre ile olur. Emanet süresi sonunda
+KISIM VIII Madde 5 uygulanır.
+
+13- Nakil yapılacak herhangi bir haberleşme hattının bütün borcu ve nakil işlemi ücreti ödendikten sonra
+işlemi yapılır.
+
+14- Herhangi bir haberleşme hattının devri, devredilecek hattın bütün borcu ile devir ücreti ödendikten sonra yapılır.
+
+15-Herhangi bir haberleşme hattına izinsiz ve/veya kaçak olarak girmek ve/veya ilgili hatları kötü amaçlı olarak
+kullanmaktan kesin suçlu bulunan şahıs ve/veya şahıslardan bu süre içerisinde yaptıkları görüşme ücretlerinin
+tesbit edilmesi halinde bu miktar 90100 cezalı olarak tahakkuk ettirilir. Sirkat edilen ücretin belirlenememesi
+halinde tahakkuk ettirilecek ceza ücreti, belirlenen süreyle Uluslararası görüşme ücretlerinin en üst kademesi
+uygulanarak hesaplanır. Böyle bir cezaya çarptırılan şahıs veya şahısların abonelikleri veya abone olma
+hakları bir yıl süre ile askıya alınır.
+
+16-Rahatsız edici arama yaptığı ve bunu tekrarladığı tesbit olunan şahısların abonelikleri en fazla bir ay süre
+ile askıya alınır. Suçun devamı halinde abonelik iptal edilir.
+
+17-PBX özelliği verilmesi 60 YTL
+-PBX'e eklenecek her hat için 5 YTL
+
+18- Arızalı bir telefon/teleks, ISDN (BA, PRA) ve trank hattı, elde olmayan bir nedenden dolayı arızalı kaldığı süre bir
+ayı geçtiği takdirdeTD. Maktu ve aylık sabit kira ücretlerine abone faturasından düşüp düşmemeye yetkilidir.
+
+19- KKTC uyruğu dışındaki gerçek veya tüzel kişilerin haberleşme hattı taleplerinin (Teminat
+karşılanması durumunda bu kişilerin taahhuk edecek borçlarına karşılık teminat ücreti ücreti) YTL
+alınır. Gerçek taahhukun teminat miktarını aşması halinde bu kişilerin, teminatları gerçek 200.00
+
+taahhuk miktarına yükseltilebilir. Bu kişilerin abonelikten ayrılma isteği halinde hesaplarının
+kapalılması durumunda, teminat ücreti bu kişilere iade edilir. Din Görevlileri, Eğitim Görevlileri,
+TC Elçilik Mensupları ve Askeri personelden teminat ücreti alınmaz.
+
+20- Kesme ve iptal işlemleri
+
+20.1- Herhangi bir haberleşme hattının Daireye olan borçlarının gününde ödenmemesi ve/veya borçlarının 2 fatura
+dönemi üzerine çıkması halinde (KKTC uyruğu dışındaki abonelerin bir fatura dönemi) abonelere borçlarını
+kapatmaları için basın ve yayın yoluyla genel çağrı yapılır. Borçlarını yine ödemeyen abonelerin irtibatları
+çağrı tarihinden 15 gün sonra kesilir.
+
+20.2- Borçlarından dolayı servis dışı bırakılan herhangi bir haberleşme hattının yeniden açılması için (iptale)
+gitmedi ise) Kısım V madde 4'de belirtilen bağlama ücretleri alınır.
+
+20.3- Her türlü iptal işleminde, iptal gününe kadar olan dönemin hesaplanmasında gün/ay hesabi uygulanır.
+(Maktu ücret x gün/ay)
+
+21-Telekomünikasyon Dairesi Müdürü, Bakanlar Kurulu tarafından onaylanmış birim fiyatlar üzerinden,
+acil ve ivedilik arzeden işler için Bakanlığın onayını aldıktan sonra müteahhitlere Telefon Şebeke Tesis işlerini
+yaptırmakla yetkilidir.
+
+22- Bakanlığın onayı ite Telekomünikasyon Dairesi Müdürlüğü, belirleyeceği dönemlerde bir ayı aşmayacak sureler
+için düzenleyeceği kampanyalarla bu Tüzükte belirlenen ücret ve/veya tarifeleri azaltarak değişiklik yapabilir
+
+[SAYFA 14]
+24s
+KISIM IX
+RADYOLINK FREKANS TAHSİS VE KULLANIM
+ÜCRETLERİ
+1- Frekans Tahsis Ücreti
+Bir defaya mahsus, tahsis esnasında
+ödenecek ücret YTL
+
+Bir Çift Frekans İçin 500.00
+
+2- Aylık Frekans Kullanım Ücreti (Bir Çift Frekans İçin)
+
+Farklı Frekans Çiftlerinin Ayni Frekans Çiftinin
+Radyo Kapasitesi Kullanıldığı Herbir Kullanıldığı Herbir
+Atlama İçin Aylık Ücret Atlama İçin Aylık Ücret
+(YTL) (YTL)
+Servis Alanı Servis Alanı Servis Servis
+Dışı * ** İçi*** Alanı Dışı (| Alanı İçi
+30 Kanal'a
+veya 68 340 54 272
+2 Mbps'a kadar
+120 Kanal'a
+veya 136 680 108 544
+8 Mbps'a kadar
+480 Kanal'a
+veya , © 272 1,360 216 1,088
+34 Mbps'a kadar
+1920 Kanal'a
+veya 544 2,720 432 2,176
+155 Mbps'a kadar
+7680 Kanal'a
+veya 1,088 5,440 864 4,332
+
+622 Mbps'a kadar
+
+30720 Kanal'a
+veya 2,176 10,880 1,728 8,704
+2.5 Gbps'a kadar
+
+30720 Kanal'dan
+veya 4,352 21,760 3,456 17,408
+2.5 Gbps'dan büyük
+* Servis Alan Dışı: Talep edilen kapasitenin Daire imkânları ile sağlanamadığı alan
+** Önceleri Servis alan dışı olup da daha sonra servis alan içine dönüştürülen alanlarda
+kullanılan frekansların ücretleri, kullanıcıya bilgi verilerek ‘Servis Alan İçi' tarifesine göre
+
+yeniden düzenlenecektir.
+
+*** Servis Alan İçi: Talep edilen kapasitenin Daire imkanları ile sağlanabildiği alan.
+
+[SAYFA 15]
+244
+
+KISIM X
+KKTC TELEKOMÜNİKASYON DAİRESİ- KKTC VODAFONE
+GSM ŞEBEKESİ ÜCRET TARİFESİ
+
+1- TESİS ÜCRETLERİ
+
+1 1- Hat tesis ücreti : 15,00 YTL
+1.2- Aylık sabit ücret : 2,00 YTL
+1.3- Sim Kart ücreti (Tümü TD' nindir.Gelir : 12,00 YTL
+
+paylaşımına dahil değildir.)
+
+2- Depozito (Depozitolar müşterek
+
+TD - Vodafone ve TD - KMT hesabına yatırılır.)
+2.1- Lokal : 12,50 YTL
+
+2.2- Lokal + Uluslararası : 25,00 YTL
+
+3-Görüşme Ücretleri:
+
+3.1- Vodafone'dan PSTN'e
+
+3.2- Vodafone'dan Vodafone'a
+3.3- Vodafone'dan Türkiye PSTN'e
+3.4- Vodafone'dan Türkiye GSM'e
+3.5- Vodafone'dan International
+3.6- Vodafone'dan NMT' ye
+
+3.7- Vodafone'dan KMT'yi arama
+3.8 - SMS ücreti
+
+3.9- GSM'den kendi şebekesinin Müşteri
+
+20 Ykrş/dk
+
+20 Ykrş/dk
+
+Cost +(Cost x 0.95) YTL/dak
+
+Cost +(Cost x 0.75) YTL/dak
+
+Cost+(Cost x 0.35) YTL/dak Yutdışı hizmet bedeli
+Cost +(Cost x 0.95) YTL/dak
+
+20 Ykrs/dk
+
+12 Ykrş/mesaj
+
+(max 160 karakter)
+
+4 Ykrs/arama
+
+hizmetlerini arama
+
+4.Roaming Görüşme Ücretleri: ,
+4.1- MTC's : GSM Cost+( GSM Cost x %15)mark up uygulanır.
+4.2- Yabancı bir GSM abonesinin aramaları : GSM Cost + ( GSM Cost x %15)* '
+yabancı şebekelere uygulanan hizmet bedeli.
+5. Çeşitli ücretler
+
+5.1- Devir veya ünvan değişikliği : 4,50 o YTL
+5.2- Adres değişikliği  - : — Ücretsiz
+5.3- Numara değişikliği _ 24,00 YTL
+5.4- SIM Kart değişik (Telefon numarası ayni kalır)
+a) Kullanıcı hatası ise : 850 o YTL
+b) Kart hatası ise : Ucretsiz
+5.5- Agma-Kapama Ucreti : 3,00 YTL
+5 6- Ayrıntılı fatura ücreti"
+a) İlk sayfa . 0,15 YTL
+b) Diğer sayfalar : 0,075 YTL
+5.7- Ek hizmetlerin açma-kapama ücretleri : 180 YTL
+
+(Telesekreter (VMS), kisa mesaj servisi (SMS)
+çağrı bekletme, çağrı tutma, çağrı engelleme,
+çağrı yönlendirme, clip/clir, döviz kurları ve
+altın fiyatları v b.)
+
+Bu hizmetler peyderpey devreye girecektir. Bu
+hizmetlerin ücretlendirilmesi KISIM VII
+
+Madde 2' ye göre yapılır
+
+[SAYFA 16]
+bo
+Nn
+©
+
+6- Faks Hizmeti ile ilgili ücretler:
+6.1- Tesis ücreti : 6,00 YTL
+6.2- Minimum kullanma ücreti : 120 YTL
+İlk 1,00 YTL'lik faks gönderimi bedeli
+olarak tahsis edilecek fazla kullanımlar
+ayrıca faturalandırılacaktır.
+
+7- Data hizmetleri ile ilgili ücretler:
+7.1- Tesis ücreti : 6,00 YTL
+7.2- Minimum kullanım ücreti : 1,20 YTL
+İlk 1,00 YTL'lik data haberleşmesi bedeli
+olarak tahsis edilecek. Fazla kullanımlar ise
+ayrıca faturalandırılacaktır.
+
+8- Vodafone'nun Uyguladığı Prepaid (Hazır Kart) Ücret Tarifesi;
+
+8.1- Kontör Ücreti : 0,05 YTL
+
+8.2- Hat Tesis Ucreti : 15,00 YTL
+
+8.3- Sim Kart ücreti (Tümü TD' nindir.Gelir : 12,00 YTL
+paylaşımına dahil değildir.)
+
+8.4- SIM Kart Değişim Ücreti : 850 YTL
+
+8.5- Ek Servis Açma Ücreti : 180 YTL
+
+8.6- Hat Açma-Kapama Ücreti : 1,80 YTL
+
+8.7- Aylik Sabit Ucret : Yok
+
+8.8- SMS Ucreti : 15 Ykrş /mesaj
+
+(Maksimum 160 karakter)
+8.9- VAS Ücretleri Prepaid VAS ücretlerizPostpaid VAS ücretleri x 1.25
+AÇIKLAMA
+
+1-YTL dışındaki fiyatlar, Döviz bazında tesbit edilmiş olup faturalar KKTC Merkez Bankası Resmi Kuru
+üzerinden, uygulamaya gireceği ay başı Yeni Türk Lirasına çevrilerek Yeni Türk Lirası cinsinden fatura çıkarılacaktır.
+Yeni Türk Lirası cinsinden tesbit edilen fiyatlar 2 ay boyunca geçerli olacaktır. 2 ayın sonunda Bakanlar Kurulu
+tarafından döviz cinsinden tesbit edilen dakika başı konuşma ücretleri, KKTC Merkez Bankası'nın
+yayınlamış olduğu Resmi Döviz Kurları dikkate alınarak Telekomünikasyon Dairesi tarafından yeniden tesbit
+edilerek GSM firmalarına bildirilecek ve uygulamaya konulacaktır.
+
+2-3.1,3.2, 3.5 ve 3.7 maddelerine bağlı görüşme ücretlerinde 1 kontér=0,04YTL olarak
+
+hesaplanmistir.
+
+[SAYFA 17]
+to
+Ji
+
+EK 1
+
+ULUSLARARASI ÜCRET TARİFESİ
+
+KONTÖR ATIŞ GÖRÜŞME ÜCRETLERİ
+ARANILAN YÖN NORM.(sn) | İND.(sn) | NORM. (YTL/dk) | | İND. (YTL/dk )
+TÜRKİYE 12 15 0,150000 0,120000
+TÜRKİYE GSM 5 6,25 0,360000 0,288000
+KADEME 1 7 7 0,257143 0,257 143
+KADEME 1 GSM 2 2 0,900000 0,900000
+KADEME 2 3,5 3,5 0,514286 0,514286
+KADEME 2 GSM 2 2 0,900000 0,900000
+KADEME 3 PSTN+GSM 2 2 0,900000 0,900000
+KADEME 4 PSTN+GSM 1,2 1,2 1,500000 1,500000
+11811 2 2 0,900000 0,900000
+
+[SAYFA 18]
+tO
+un
+i)
+
+EKZ
+
+KADEME PSTN
+ARS i ' BELCIKA 32 ISRAIL i 972 YUNANISTAN 30
+AHDIALASKA) : 1907 CEK CUM. 420 ISVEC | 46 GUNEY KIBRIS 357
+ALLIAHAVAİ) ' 1808 DANIMARKA AS İSVİCRE a i
+
+| PORTO RICO) I ie FRANSA 3 İTALYA i 39 ‘
+ABD VIRJIN ADASİ 1 4340 HOLLANDA M NORVEC | 47 '
+ALMANYA 49 İRLANDA 353 RUSYA 17 İ
+AVUSTURYA 43 ISPANYA 34 SLOVAK CUM bal !
+KANADA | İNGİLTERE 44 PORTEKIZ. 351 NI
+
+NOT ABD ve Kanada hariç, "Kademe | PSTN” adı alında yer alan ülkelerin GSM operatörlerine doğru yapılacak olan her türlü srama, “Kedeme İli PSTN” tarıfesiyle aynı olacaktır
+
+KADEME II PSTN
+ARNAVUTLUK İl 355 GURCISTAN 995 OZBEKISTAN 998 TURKMENISTAN 993
+AZERBAYCAN | 994 KAZAKİSTAN 7 POLONYA 48 UKRAYNA 380
+BOSNA HERSEK 387 LÜKSEMBURG 352 ROMANYA 40 AVUSTRALYA 61
+BULGARISTAN 359 MACARİSTAN 36 SIRBISTAN 381 KARADAĞ 381-382)
+CEZAYIR 2103 MAKEDONYA aR SUUDİ ARARISTAN 966
+FİNLANDIYA 358 MULDUVA 373 TUNUS 216 ~
+
+NOT: “Kademe IH PSTN” adı allında yer alan Ülkelerin GSM operatörlerine doğru yapılacak olan her türlü arama, “Kademe It] PSTN" tarifesiyle aynı olacaktır
+
+KADEME UE PSTN
+ANDORRA | 375 GUNEY AFRIKA CUM. 27 LIBYA 218 SLOVENYA i 386
+BAE 971 HINDISTAN gı LİTVANYA 370 SURİYE | 963
+BAHREYN 973 HIRVATISTAN 385 LUBNAN 961 TAJIKISTAN 992
+BEYAZ RUSYA , 375 HONGKONG 852 MALEZYA 60 TAYLAND 65
+CEBELİTARIK | 350 IRAN 98 MALTA 356 TAYVAN | 386
+ÇİN HALK CUM 86 IZLANDA 354 MISIR 20 UMMAN 968
+ENDONEZYA 62 JAPONYA 81 MONAKO 377 SRİLANKA 94
+ESTONYA 372 KATAR 974 NİJERYA 234
+FAS 212 KIRGIZISTAN “96 PAKİSTAN ! 92
+FİLİPİNLER 6) KUVEYT 965 SAN MARİNO | 378
+FİLİSTİN 970 LETONYA 371 SINGAPUR 65
+URDUN 962 GUNEY KORE 52 LİHTENSTAYN 423
+
+NOT “Kademe tll PSTH™ adı altında yer alan ülkelerin GSM operaldelerine doğru yapılacak olan her türlü arama, “Kademe U1 PSTN” tansfesiyle aynı olacaktır
+
+[SAYFA 19]
+in)
+rt
+(4)
+
+SADEME İV PSTN
+
+ALUAHİSYAN ay GAMI YA 10 MAILSAL ADALARI (oe svasit AD
+AMERİKAN SAMOA | 168d GANA 233 MARTINIK ' 596 TANZANYA
+ANGOLA 244 GINE 224 MAYOTTE ADL | 26? TOGO 228
+ANGUILA 1264 BURMA (MYANMAR) 95 KAP VERD j 238 NIUE ADALARI 683
+“ANTIGUA 1 1268 BURUND! 257 KENYA 254 NORFOLK ADL 672
+ARJANTIN s4 GİNE DISSAU 245 MEKSİKA 1 se TONGA 676
+ARUBA 297 GRONLAND 299 MERKEZİ AFRIKA CUM. | 236 TUVALU 68R
+ASENSIYON 247 GUADELUP 590 MIKRONEZYA | 691 UGANDA 256
+BAHAMA 1742 BUTAN 975 KIRİRATI | 686 PANAMA 507
+BANGLADES 880 GUATEMALA 502 MOGOLISTAN | 97% URUGUAY 598
+BARBADOS 1246 CAD 235 KOLOMBIYA 57 PAPUA YENİ GİNE 675
+BATI SAMOA 685 GUYANA 592 MORİS ADALARI | 230 VALLIS FUTUNA ADL. 68t
+BELIZE sol ZIMBABVE 263 MORITANYA 222 VENEZUELA 58
+BENIN 229 HAİTİ 509 MOZAMBIK 258 VIETNAM 84
+BERMUDA 144) İ | ciputi 253 KOMOR ADALARI 269 PARAGUAY 595
+BOLIVYA 591 HOLLANDA ANTILLERI 599 NAMIBYA 264 YEMEN | 967
+BOTSVANA 267 HONDURAS 504 NAURU ADASI 674 YENİ HEBRİTLER (VANUATU) | 678
+BREZİLYA 55 IRAK 964 NEPAL 9n YENİ KALEDONYA 687
+BRUNEY 673 KAMBOCYA 855 NUER 227 YENI ZELANDA 1 64
+BURKINA FASO 226 KAMERUN 237 NIKARAGUA 505 ZAMBİYA ij 280
+DOMİNİK 1767 DİEGO GARSİYA 246 KONGO CUM. 242 PERU sı
+DOMINIK CUM. toe EKVATOR 593 KONGO DEMOKRATIK CUM 243 REUNYON İzea
+GRENADA 1413 EKVATOR OİNESİ 240 KOSTA RİKA , sos RUANDA Mem
+GUAM 1671 EL SALVADOR 503 KUK ADASI 1 682 SAO TOME & PRINCIPE 29
+INGILIZ VİRJİN ADL. 1284 ERİTRE 291 KUZEY KORE 850 SENEGAL 221
+JAMAIKA 1876 ERMENISTAN 374 KUBA $3 SEYSEL ADL. 248
+KAYMAN ADALARI 1345 ETİYOPYA 251 LAO DEM HALK CUM. 856 SIERRA LEONE 222
+MARIAN ADALARI (SAIPAN) | 1670 FALKLAND ADL, s00 LESOTHO 266 stu 186
+MONSERRAT 1664 FAROE ADALARI 298 LIBERYA 31 SOLOMON ADL 677
+ST.KITIS & NEVIS 1869 Fil 679 MADAGASKAR 261 SOMALI 1 23
+ST.LUCIA 1758 FİLDİSİ SAHİLİ 225 MAKAO 853 ST.HELENA 290
+ST.VINCENT&GRENADA 1784 FRANSIZ GUY. 594 MALAVİ | 265 ST PİYER&MIKELON ses
+IRIMIDADR LUBA 1868 FILANSIZ POLİNEZYASI GAY MALDİV ADALARI i you SUDAN ae
+TÜRK&KAİKOS ADL. 1649 | | GABON 241 MALI ; 223 SURINAM | 597
+
+NOT. "Kademe IV PSTN” adı alında yer alan Olkelcrin GSM operatdilerine doğru yapılacak olan her türlü arama, “Kademe İV PSTN" tarifesiyle uynu olacaktır
+
+[SAYFA 20]
+tr
+mn
+pan
+
+EK 3
+
+KADEMELERE DAHIL ULKELER
+
+LKADEMEYE DAHIL ULKELER
+Iran, Pakistan, Suriye, Urdiin.
+
+IL KADEMEYE DAHİL ÜLKELER
+
+Afganistan, Alaska, Amerika Birleşik Devletleri, Amerikan Samoa, Andora,
+Angola, Anguilla Antigua, Arjantin, Arnavutluk, Aruba, Asansiyon,
+Avustralya, Azerbaycan, Azor Adaları, Bahama, Bahreyn, BangladeşBarbodos,
+Batı Sahra, Batı Samoa, Belçika, Belize, Benin ,Bermuda, Butan, Birleşik Arap
+Emirlikleri(Abu Dhabi, Ajman, Alain Jemel Dhana, Dubai, Fujairah, Khor
+Fakkam, Rasal Kaimah, Sharjah, Um El Kaivan) Birmanya (Myanmar) ,
+Boluvya, Botsvana, Brezilya, Brunei Darussalam, Bulgaristan, Burkine Faso,
+Burindi, Carriacau, Cebelitarık, Cezayir, Cibuti, Çad, Çek Cumhuriyeti, Çin
+Halk Cum., Danimarka, Diego Garsia, Dominik, Donimik Halk Cumh., Ekvator,
+Ekvator Ginesi, El Salvador, Endonezya, Ermenistan, Etyopya , Falkland
+Adaları, Fas, Ferve, Fiji, Fildişi Sahili, , Filipinler, Fransa , Fransız Guyamı,
+Fransız Güney Antartik Bölgesi (Taaf) Fransız Polinezyası, Gabon, Gana, Gine
+Bissau, Gine Cumhuriyeti, Grenada, Gronland, Guadelup, Guan, Guatemala,
+Güney Afrika, Gürcistan, Guyana, Hadramut, Haiti, Hindistan, Hırvatistan,
+Hollanda Antilleri, Honduras, Hong Kong, İngiliz Virjin Adaları, Irak , İrlanda,
+İspanya, İsrail, İsveç, İtalya, İzlanda, Jamaika, Kamboçya (Khemer Cum.)
+Kanada, Kanarya Adalari, Kamaran, Kamerun Kap Vert, Karolin, Katar,
+Kayman Adaları, Kazakistan, Kenya, Kıbrıs Rum Kesimi, Kırgızistan, Kiribati,
+Kokos- Kiling, Kolombiya, Komor Adası, Kongo Halk Cumhuriyeti, Kore
+Demokratik Halk Cumhuriyeti (Güney) , Kosta Rika , Kristmas , Kuk Adası,
+Kuveyt , Kuba, Laos, Lesoto, Letonya, Liberya, Lihtenştayn, Litvanya, Lübnan ,
+Lüksemburg, Maca ristan, Madagaskar, Mader Adası, Makao, Makedonya,
+Malavi, Maldiv Adaları, Mali, Malta, Marian Adası, Marşal Adası, Martinik,
+Mayotte, Meksika, Merkezi Afrika Cumh. Mikronezya, Mısır, Moğolistan,
+Moldova, Monako, Monsera, Moris, Moritanya, Mozambik, Namibya, Nauru,
+Nepal, Nijer, Nijerya, Nikaragua, Niue, Norfolk, Norveç, Özbekistan, Palau,
+Panama, Papua Yeni Gine, Paraguay, Perim , Peru, Pitkeim, Polonya, Portekiz,
+Reünyon, Rodrigez, Romanya, Ruanda, Rusya Fed..Sabah, San Marino,
+Saravak, Senegal, Siera Leone, Slovakya, Slovenya, Salomon Adaları, Somali, Sri
+Lanka, St.Helen, St.Kits, St Lusi, Sen Piyer ve Mikölon, Sao Tome ve Prensip,
+Sen Vensan, Sudan, Surinam, Suudi Arabistan, Svaziland, Şili, Tacikistan,
+Tayvan, Tanzanya, Tayland, Timor, Togo, Tokelau, Tonga, Trinidad ve Tobago,
+Tunus, Tuvalu, Türk ve Kaik Adaları, Türkmenistan, Uganda, Ukrayna,
+Umman, Uruguay, Valis ve Futuna, Vanuatu, Vatikan, Venezuela, Vietnam,
+Yemen Arap Cumhuriyeti, Yeni Kaledonya, Yeni Zelanda, Sırbistan ve Karadağ
+(Yugoslavya), Yunanistan, Zaire, Zambia, Zimbabve,
+
+HI. KADEMEYE DAHİL ÜLKELER
+Amerika Virjin Adaları, Gambiya, Havai, Japonya, Midvey, Porto Riko, Ryu
+Kyu, Seyşel Adaları, Veyk Adası.

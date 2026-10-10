@@ -1,0 +1,1703 @@
+[SAYFA 1]
+526
+
+Sayı : 155 ÇEVRE YASASI
+
+(18/2012 Sayılı Yasa)
+36(1)(C) Madde Altında yapılan Tüzük
+
+Kuzey Kibns Türk Cumhuriyeti Bakanlar Kurulu, Çevre Yasası'nın 36'ncı maddesinin
+(1)’inci fikrasının (C) bendinin kendisine verdiği yetkiye dayanarak aşağıdaki Tüzüğü yapar:
+
+Kısa İsim 1. Bu Tüzük, “Atık Yakma Tüzüğü” olarak isimlendirilir.
+
+BİRİNCİ KISIM
+Genel Kurallar
+
+Tefsir 2. Bu Tüzükte metin başka türlü gerektirmedikçe;
+
+“Akreditasyon”, uygunluk değerlendirme kuruluşlarınca gerçekleştirilen
+çalışmaların ve bu çalışmalar sonucunda düzenlenen uygunluk teyit
+belgelerinin güvenilirliğini ve geçerliliğini desteklemek amacıyla
+oluşturulmuş bir kalite altyapısını anlatır,
+
+18/2012 “Atık”, Çevre Yasası'nda atık olarak tanımlanan, sahibinin bertaraf ettiği
+veya bertaraf etmek niyetinde olduğu veya bertaraf etmesi gereken herhangi
+bir madde veya cismi anlatır,
+
+“Atk Beraber Yakma Tesisi”, Esas amacı enerji üretimi veya ürün imal
+etmek olan, atıkları olağan veya ek yakıt olarak kullanan veya atığı ısıl
+olarak bertaraf eden, atık kabul ünitesi, geçici depolama birimi, ön işlem
+ünitesi, atık besleme ve hava ikmal sistemleri, kazan, baca gazı antım
+üniteleri, yakma sonucu oluşan kalıntıların geçici depolama ve atıksuların
+arıtılması için tesis içinde yer alan üniteler, baca, yakma işlemlerini kontrol
+etmek, yakma şartlarını kaydetmek, izlemek için kullanılan ölçüm cihazları
+ve sistemler de dahil olmak üzere, beraber yakma tesisinde yer alan bütün
+üniteleri kapsayan her türlü tesisi anlatır,
+
+Ancak beraber yakma işlemi ürün veya enerji üretimi değil de atıkların ısıl
+olarak bertarafını amaçlıyorsa atık yakma tesisi olarak kabul edilir.
+
+“Atık Yakma Tesisi”, Atık kabul birimi, geçici depolama birimi, ön işlem
+birimi, atık besleme ve hava besleme sistemleri, kazan, baca gazı arıtım
+sistemleri, yakma sonucu oluşan kalıntıların düzenli depolanması ve
+atıksuların arıtılması için tesis içinde yer alan birimler, baca, yakma
+işlemlerini kontrol etmek ve yakma şartlarını izlemek ve kaydetmek için
+kullanılan ölçüm cihazları ve sistemler de dahil olmak üzere tesiste yer alan
+bütün birimleri kapsayan, ortaya çıkan yanma ısısını geri kazanabilen veya
+kazanamayan, atıkların oksitlenme yoluyla yakılması, piroliz, gazlaştırma
+veya plazma işlemleri gibi diğer ısıl bertaraf işlemleri de dahil olmak üzere
+ısıl yolla bertarafına yönelik her türlü sistemi içeren tesisi anlatır,
+
+“Bakanlık”, Çevre işleri ile görevli Bakanlığı anlatır,
+
+Brülör, Yakıtın hava ile karıştırılmasını ve yakılmasını sağlayan cihazları
+atır,
+
+“Cüruf”, Metallerin işlenmesi sonucu ortaya çıkan atıkları anlatır,
+
+“Daire”, Çevre Koruma Dairesini anlatır,
+
+[SAYFA 2]
+18/2012
+
+18/2012
+
+18/2012
+
+18/2012
+
+527
+
+“Dioksinler ve Furanlar”, Bu Tüzüğe ekli Ek-I’de listelenmiş olan bütün
+
+poliklorlu dibenzo-p-dioksinler ve dibenzofuranlardan oluşan gazları
+aur,
+
+“Emisyon”, Maddelerin, titresimlerin, ısının veya gürültünün bireysel veya
+yayih kaynaklardan hava, su ve toprağa doğrudan veya dolaylı olarak
+yayılmasını anlatır,
+
+“Emisyon Sınır Değerleri”, Belirli zaman aralıklarında aşılmaması gereken
+ve belirli parametreler ile ifade edilen kütle, konsantrasyon ve/veya bir
+emisyonun seviyesini anlatır,
+
+“EN 14181 Standardı”, sabit kaynak emisyonları — otomatik ölçme
+sistemlerinin kalite güvencesi standardını anlatır.
+
+“ISO”, Uluslararası Standardizasyon Teşkilatı'nı anlatır.
+
+“İşletmeci”, Atık yakma veya atık beraber yakma tesisini işleten veya
+kontrol eden gerçek veya tüzel kişi ile teknik faaliyetlerin yürütülmesi için
+ekonomik yetkinin verildiği kişiyi anlatır,
+
+“İzin”, Çevre Yasası'nın Sanayi Kirliliğinin Kontrolü kısmı altında verilen
+izni anlatır,
+
+“Kalıntı”, Yakma veya beraber yakma işlemi, baca gazı veya atıksu arıtımı
+ile yakma veya beraber yakma tesisi içindeki diğer işlemler sonucu ortaya
+çıkan ve Çevre Yasası'nda atık olarak tanımlanan; yakma fırınlarından
+kaynaklanan taban külü, cüruf, uçucu kül ve kazan tozu, gaz arıtımından
+kaynaklanan katı reaksiyon ürünleri, atık suların arıtılmasından çıkan arıtma
+çamuru, kullanılmış katalizörler veya kullanılmış aktif karbon dâhil olmak
+üzere her türlü sıvı veya katı maddeyi anlatır,
+
+“Kalorifik Değer”, Bir yakıtın veya atığın birim kütlesinin tam olarak
+yakılması sonucu açığa çıkan ısı miktarını anlatır,
+
+“Karışık Evsel Atık”, Çevre Yasası'nda atık olan tanımlanan atıkların yanı
+sıra, yapısı ve bileşimi açısından evsel atıklara benzer ticari, endüstriyel ve
+kurumsal atıkları anlatır,
+
+“Kütlesel Debi”, Birim zamanda yayılan hava kirleticinin kütlesini anlatır,
+
+“Mevcut Atık Yakma veya Atık Beraber Yakma Tesisi”, Bu Tüzüğün
+yürürlüğe girdiği tarihten önce faaliyette bulunan ve izin almış tesisler veya
+izin başvuru dosyasını eksiksiz olarak sunmuş olan bir yakma veya beraber
+yakma tesisini anlatır,
+
+“Nominal Kapasite”, Yakma tesisini meydana getiren fırınların saat başına
+yakılan atığın kalorifik değerine göre hesaplanan yakma kapasitelerinin
+toplamını anlatır,
+
+“PCB”, Poliklorlu bifenilleri anlatır,
+
+“PCP”, Pentakloro fenolları anlatır,
+
+“Piroliz”, Atığın oksijensiz ortamda sıcaklık etkisiyle bozunması işlemini
+anlatır.
+“Tehlikeli Atık”, Çevre Yasası'nda tanımlanan tehlikeli atıkları anlatır,
+
+“Yeni Atık Yakma veya Atık Beraber Yakma Tesisi”, bu Tüzüğün
+yürürlüğe girdiği tarihten sonra izin alan ve faaliyete geçen tesisler veya
+izin başvuru dosyasını eksiksiz olarak sunmuş olan bir yakma veya beraber
+yakma tesisini anlatır.
+
+[SAYFA 3]
+Amaç 3.
+
+Kapsam 4.
+
+Genel Esaslar
+
+528
+
+Bu Tüzüğün amacı; atıkların yakılmasının çevre üzerine olabilecek olumsuz
+etkilerini, özellikle hava, toprak, yüzey suları ve yeraltı sularında
+emisyonlar sonucu oluşan kirliliği ve insan sağlığı için ortaya çıkabilecek
+riskleri uygulanabilir yöntemlerle önlemek ve sınırlandırmaktır.
+
+(1) Bu Tüzük; katı veya sıvı atık yakan atık yakma ve atık beraber yakma
+tesislerine uygulanacak olup, atık yakma ve atık beraber yakma
+tesislerinin uyması gereken asgari şartları kapsar.
+
+(2) Aşağıda belirtilen atıkları bertaraf eden atık yakma ve atık beraber
+yakma tesisleri bu Tüzüğün kapsamı dışındadır:
+
+(A) Tarım ve ormancılık kaynaklı bitkisel atıklar,
+
+(B) Isı geri kazanımı amacıyla tesisin kendi bünyesinde yakılan gıda
+sanayi kaynaklı bitkisel atıklar,
+
+(C) Ham kâğıt hamuru ve kâğıt üretiminden kaynaklanan Isı geri
+kazanımının yapıldığı lifli bitkisel veya organik atıklar,
+
+(Ç) Özellikle inşaat ve yıkım atıklarından çıkan halojenli organik
+bileşiklerin kullanıldığı tahta atıklar,
+
+(D) Cam şişeler ve benzeri yerlerde kullanılan mantar tıpalar,
+
+(E) Radyoaktif atıklar,
+(F) Hayvan kadavraları ve hayvan atıkları,
+
+(G) Petrol ve gaz kaynaklarının aranmasından, işletilmesinden
+kaynaklanan ve tesis içinde yakılan atıklar,
+
+(H) Yakma işlemini iyileştirmek amacı ile araştırma, geliştirme, test
+amaçlı kullanılan ve yılda elli tondan az atık bertaraf eden pilot
+tesisler.
+
+İKİNCİ KISIM
+Genel Esaslar, İzinlendirme, Denetim ve Deneme Yakması
+
+5. (1) Atık yakma ve atık beraber yakma işlemi sırasında üretilen
+ısının, elektrik enerjisine dönüştürme, üretim sürecinde
+kullanma veya bölgesel ısıtmada kullanma gibi yöntemlerle en
+elverişli biçimde geri kazanılması esastır.
+
+(2) (A) Atık yakma ve atık beraber yakma tesisleri, bu Tüzükte
+belirtilen o işletme koşullarını sağlamak amacıyla atık
+kabul ünitesi, laboratuvar, geçici depolama alanları ve atık
+besleme sistemine sahip olmak zorundadır.
+
+(B) Yukarıdaki (A) bendinde belirtilen yerlerde yapılan tüm
+işlemler kayıt altına alınır.
+
+(C) Atıkların yakıldığı tesisler, tam yanmanın sağlanabileceği
+şekilde kurulur ve işletilir.
+
+(3) Atık kullanımından kaynaklanabilecek kazalara karşı acil durum
+ve müdahale planları hazırlanır, bu konuda yeterli sayı ve
+nitelikte eğitilmiş personel ve ekipman bulundurulur.
+
+[SAYFA 4]
+18/2012
+
+18/2012
+
+İzinlendirme
+18/2012
+
+18/2012
+
+18/2012
+
+18/2012
+
+(4)
+
+(6)
+
+529
+
+(A) Yakma veya beraber yakma işlemine tabi tutulmadan önce
+atığın tehlikeli atık olup olmadığı, atık içeriğinde
+radyoaktif madde bulunup bulunmadığı belirlenir.
+
+(B) Tehlikeli ve tehlikesiz atıkların yakılmasına veya beraber
+yakılmasına ilişkin aynı emisyon limit değerleri uygulanır.
+
+Atıkların taşınması; Çevre Yasası kurallarına uygun olarak atık
+taşıma için lisans almış kişi ve kuruluşlar tarafından atığın
+özelliğine uygun araçlarla yapılır. Taşıma ile ilgili Çevre Yasası
+ve/veya Çevre Yasası altında yapılan tüzüklerin kurallarına
+uyulması zorunludur.
+
+Tesislerden kaynaklanan cüruf ve baca gazı partiküllerinin ayrı
+ayrı toplanması ve çevreye duyarlı bertarafının Çevre Yasası
+ve/veya Çevre Yasası altında yapılan tüzüklerin kurallarına
+uygun olarak yapılması zorunludur.
+
+Bir atık yakma veya atık beraber yakma tesisinin kurulup işletilmesi
+için Çevre Yasası kurallarına göre izin alınması zorunludur. İzin
+başvurusunun değerlendirilmesinde aşağıda belirtilen hususlar dikkate
+alınır: -
+
+(1)
+(2)
+
+(3)
+
+(4)
+
+(5)
+
+(6)
+
+Tesis, bertaraf edilecek atıkların türüne ve sınıfına göre
+tasarlanır, donatılır ve işletilir.
+
+Yakma ve beraber yakma işlemi sırasında üretilen ısının,
+elektrik enerjisine dönüştürme, üretim sürecinde kullanma veya
+bölgesel ısıtmada kullanma gibi yöntemlerle en elverişli biçimde
+geri kazanılmasına öncelik verilir.
+
+Kalıntıların miktarı, bunların çevreye verecekleri zararlar Çevre
+Yasası kuralları çerçevesinde asgari düzeye indirilir ve uygun
+olan hallerde geri dönüşümü yapılır,
+
+Yakma ve beraber yakma tesisinde oluşumu engellenemeyen,
+azaltılamayan veya geri dönüşümü mümkün olmayan kalıntılar,
+Çevre Yasası kurallarına göre bertaraf edilir.
+
+Baca gazı emisyonları için başvuruda önerilen ölçüm teknikleri
+bu Tüzüğe ekli Ek-III’e, su kirleticileri için önerilen ölçüm
+teknikleri bu Tüzüğe ekli Ek-1'ün 1’inci ve 2'inci maddelerine
+uygun olmalıdır.
+
+Bir yakma veya beraber yakma tesisine izin alınabilmesi için,
+
+Çevre Yasası kuralları ile aşağıda belirtilen kurallara uyulması
+
+zorunludur:
+
+(A) Tesis yetkilisi tarafından yakma işlemi ile bertaraf
+edilecek atıkların sınıfları , miktarları ve yakıldıklarında
+ortama verilecek kirletici emisyonlar açık bir biçimde
+listelenir.
+
+(B) (a) Tesisin toplam atık yakma veya beraber yakma
+
+kapasitesi belirtilir.
+
+(b) Evsel atık yakma tesislerinde Dairenin onayı
+olmadan tehlikeli atık yakılamaz.
+
+(C) Hava ve su kirliliği yaratan kirleticilerin her biri için
+düzenli ölçüm yükümlülüğünü yerine getirmek için
+kullanılan örnekleme ve ölçüm teknikleri belirtilir ve her
+bir kirletici için teorik hesaplamalar yapılır.
+
+(Ç) Atıkların yakılması veya beraber yakılması durumunda
+asgari ve azami kütle akışı, en düşük ve en yüksek
+kalorifik değerleriyle, bu atıklardaki PCB, PCP, klor, flor,
+kükürt, ağır metaller gibi kirleticilerin, azami içeriği
+belirtilir.
+
+[SAYFA 5]
+Denetim 7.
+18/2012
+
+Deneme Yakması 8.
+
+(D)
+
+CE)
+
+(F)
+
+530
+
+(a) Baca gazı emisyon ölçüm sistemi kurma ve verimli
+bir şekilde çalıştırma sağlanır.
+
+(b) Kurulacak olan ölçüm sistemi günde yirmi dört saat
+sürekli oçalışıp, verileri kaydedecek şekilde
+tasarlanır.
+
+(c) Kurulacak olan baca gazı emisyon ölçüm sistemi,
+cihaz ve ekipmanlarının taşıması gereken özellikler
+Daire tarafından belirlenir.
+
+(a) Dairenin mevcut hava kalitesi merkezi veri
+sistemine sürekli ve kesintisiz (günde yirmi dört saat
+süreyle) baca gazı emisyonları ile ilgili veri
+aktarımının yapılması zorunludur.
+
+(b) Yukarıdaki (a) bendinde belirtilen veri aktarımı ile
+ilgili teknik altyapının kurulumu ve Dairenin mevcut
+sistemine uyumun Sağlanması tesis işletmecisi
+tarafından yapılır.
+
+Atık kabul dahil tüm verilerin Daire tarafından anlık
+olarak görülebilmesi, isletmeci tarafından kurulacak olan
+bir sistemle sağlanır.
+
+Bir atık yakma ve atık beraber yakma tesisi Çevre Yasası kurallarına
+göre denetlenir. Yapılan denetimlerde, tesisin izin koşullarına uygun
+olarak çalıştırılmadığı ve/veya bu Tüzük kurallarına ve/veya bu
+Tüzüğün 11’inci ve 12'nci maddelerinde belirtilen emisyon
+standartlarına uyulmadığının tespit edilmesi halinde işletmeciye Çevre
+Yasası”nın 34”üncü ve/veya 80’inci maddesi kuralları uygulanır.
+
+Bir atık yakma tesisinin işletmecisi, işletme izni alıp tesis
+faaliyete geçmeden önce, tesiste yakılacak atığı analiz etmek,
+atık besleme hızına bağlı olarak ortaya çıkacak emisyon ve atık
+sularla ilgili standartları sağladığını ispat etmek amacıyla sürekli
+ölçüm cihazı ile üç ay süreyle deneme yakması yapmakla
+yükümlüdür.
+
+0
+
+(2)
+
+(3)
+
+(A)
+
+(B)
+
+(A)
+
+(B)
+
+Bir atık yakma tesisinde Daire tarafından onaylanan
+deneme atık yakması planı doğrultusunda, bu Tüzükte yer
+alan standartlar ve esasların sağlandığının ispatı amacıyla
+Daire temsilcilerinin gözetiminde üç ay sürc ile deneme
+yakması o gerçekleştirilir. Yapılan deneme yakması
+sonunda deneme yakması raporu (hazırlanarak
+onaylanmak üzere Daire'ye gönderilir.
+
+Farklı özelliklerdeki atıkların bertarafının yapılacağı
+yakma tesisleri için deneme yakmasında, en yüksek klor
+içeriği ve kül bileşeni, en düşük yanma ısısı gibi en
+olumsuz koşullar esas alınarak ölçümlerin yapılması
+zorunludur.
+
+Bir beraber yakma tesisinde yakılması planlanan atık için
+deneme yakması yapılması zorunludur. Tesis işletmecisi,
+bir deneme atık yakması planını hazırlayarak Daire'nin
+onayına sunar. Deneme atık yakması planında atık cins ve
+miktarı açık olarak belirtilir.
+
+Ölçüm sonuçları kütlesel debilerinde yer aldığı her bir
+parametreyi temsil edecek şekilde, uluslararası standart
+metodlara uygun olarak en yüksek klor içeriği bileşeni, en
+düşük yanma ısısı gibi en olumsuz koşullar esas alınarak
+ölçümlerin yapılması zorunludur.
+
+[SAYFA 6]
+(4)
+
+(5)
+
+(6)
+
+531
+
+(C) Atık beslenmesi yapılmadan önce baca gazı emisyon
+ölçümü, atık beslemeye başlandıktan sonra baca gazı
+emisyon ölçümü ile atık beslemesi başladıktan iki tam gün
+sonra baca gazı emisyon ölçümü yapılması zorunludur.
+
+(Ç) Onaylanan deneme atık yakma planı doğrultusunda Daire
+yetkililerinin gözetiminde yapılan deneme yakması
+sonunda deneme yakması raporu hazırlanarak Dairenin
+onayına sunulur ve Daire tarafından raporun uygun
+bulunması durumunda izinlendirme süreci devam eder.
+
+Tesis işletmecisi deneme atık yakmasına başlamadan önce,
+
+deneme atık yakması planını hazırlar ve Dairenin onayına sunar.
+
+Deneme atık yakması planı Daire tarafından onaylanmadan
+
+deneme yakması başlatılamaz.
+
+İzin almış olup faaliyette olan yakma veya beraber yakma
+
+tesislerinde kapasite artırılması veya izin alınan atıkların dışında
+
+atık yakılmak istenmesi durumunda yeni bir deneme atık yakma
+planı hazırlanarak yukarıdaki (3)’iincii ve (4)'üncü fıkralarda
+belirtilen koşulların tekrarlanması zorunludur.
+
+Bu maddede belirtilen deneme yakması raporunun Daire
+
+tarafından uygun bulunması halinde tesis atık kabulüne ve
+
+faaliyetlerine devam eder,
+
+ÜÇÜNCÜ KISIM
+
+Atık Yakma ve Atık Beraber Yakma Tesislerinin İşletilmesi
+
+Atıkların Oo Teslim 9, (1)
+Edilmesi ve Kabulü
+
+18/2012
+
+Atık yakma veya atık beraber yakma tesisinin işletmecisi,
+özellikle havanın, toprağın, yüzey ve yeraltı sularının
+kirlenmesi ile koku ve gürültü gibi çevre üzerindeki olası
+olumsuz etkileri ve insan sağlığı açısından doğrudan risk
+oluşturan kirlilik kaynaklarını önlemek veya azaltmak
+zorundadır. Bu amaçla, yakma veya beraber yakma tesisinin
+işletmecisi atığın tesise girişi ile birlikte alınması gereken
+tedbirleri alır. Bu tedbirler, aşağıda belirtilen şartları içerir:
+
+(A) İşletmeci, atığı yakma veya beraber yakma tesisine
+kabul etmeden önce, Daire tarafından düzenlenen atık
+listesine göre her bir atık sınıfının kütlesi belirlenir.
+
+(B) O İşletmeci, tehlikeli atığı atık yakma veya atık beraber
+yakma tesisine kabul etmeden önce bu Tüzük ve/veya
+Çevre Yasası'nda belirtilen izin şartlarına uygun
+olduğunu teyit eder ve atık hakkında mevcut duruma
+ilişkin bilgi edinir. Bu bilgiler;
+
+(a)  Uretim süreci konusunda bütün belgeleri ve
+idari bilgileri,
+
+(b) O Atığın planlanan yakma işlemine uygunluğunu
+değerlendirebilmek için gerekli olan fiziksel
+hali ve kimyasal yapısına ilişkin bilgileri,
+
+(c) © Atığın tehlikeli özellikleri ve bunlara karşı
+
+[SAYFA 7]
+İşletme Koşulları
+
+©
+
+10. (1)
+
+(2)
+
+(3)
+
+(4)
+
+(5)
+
+532
+
+alınması gereken önlemleri,
+
+(¢) (o Uluslararası Atom Enerjisi Kurumuna veya söz
+konusu kurum tarafından uygunluk belgesi
+verilen firmalara yaptırılan radyoaktivite ölçüm
+sonuçlarını,
+
+kapsar.
+
+Tehlikeli atığı yakma veya beraber yakma tesisine kabul
+etmeden önce, işletmeci tarafından aşağıdaki işlemlerin
+yapılması zorunludur:
+
+(4) (o Tehlikeli Atıklar ile ilgili taşıma yöntemi ve taşıma
+formu, atık beyan formu ve diğer belgelerin kontrol
+edilmesi,
+
+(B) (o Tıbbi atıklar gibi numune alımına uygun olmayan
+atıklar hariç olmak üzere Dairenin yakma işlemi ile
+bertaraf edilen atıkların niteliğini kontrol edebilmesi
+için, atık kabulünden önce atığı temsil eden örneklerin
+alınması, bu örnekleri yakma işleminden sonra en az
+altı ay saklamaları.
+
+Yakma tesisleri, cüruf ve taban küllerinin toplam organik
+karbon (TOK) içeriğinin Yo3'ünden(yüzde üç) veya tutuşma
+sırasındaki kaybın materyalin kuru ağırlığının %5’inden(yiizde
+beş) az olacağı bir yakma seviyesine ulaşacak şekilde işletilir.
+
+(A) Yakma tesislerinde işlemden kaynaklanan gazın, ikinci
+yanma odasında 850 “C sıcaklıkta en az iki saniye
+kalması zorunludur.
+
+(B) Yedek brülör ile donatılan ikinci yanma odası
+brülörlerinin otomatik olarak devreye girmesi sağlanır.
+
+Yakma tesisinin her bir hattı en az bir yedek brülör ile
+
+donatılır. Yanma havasının en son enjeksiyonundan sonra
+
+yanma gazlarının sıcaklığı 850 santigrat veya duruma göre
+
+1100 santigratın altma düşerse, bu brülör otomatik olarak
+
+devreye girer. Başlama ve kapatma faaliyetleri sırasında ve
+
+yanmamış atığın yanma odasında bulunduğu süre boyunca
+
+sıcaklığı 850 santigrat veya halojenli bileşikler için 1100
+
+santigrat da muhafaza edilmesini temin etmek amacıyla, bu
+
+brülör, tesisin başlama ve kapatma faaliyetlerinde de kullanılır.
+
+Başlangıç veya kapatma sırasında veya yanma gazının sıcaklığı
+
+850 santigrat veya duruma göre 1100 santigratın altına düştüğü
+
+zaman, yedek brülörün, doğal gazın yanmasından kaynaklanan
+
+emisyondan daha yüksek emisyona neden olacak yakıtlar ile
+beslenmesi yasaktır.
+
+A) Beraber yakma tesisleri, atığın beraber yakılmasından
+kaynaklanan gazın en elverişsiz koşullarda bile
+kontrollü ve homojen bir şekilde en az iki saniye için
+850 santigrat sıcaklığa yükselmesine müsaade edecek
+şekilde tasarlanır, donatılır, inşa edilir ve işletilir.
+
+(B) İçeriğinde %1’den (yüzde bir) fazla halojenli organik
+bileşikler bulunan tehlikeli atıklar beraber yakılırsa,
+
+[SAYFA 8]
+Baca Gazı Emisyon
+Limit Değerleri
+
+11.
+
+(6)
+
+(7)
+
+(8)
+
+(9)
+
+(10)
+
+(11)
+
+(1)
+
+533
+
+sıcaklığın 1100 santigrata yükseltilmesi zorunludur.
+
+Atık yakma ve atık beraber yakma tesisleri, atık beslemesini
+
+aşağıdaki durumlarda engelleyecek bir otomatik sisteme sahip
+
+olur ve bu sistemi:
+
+(A) Başlangıçta, durum itibariyle minimum 850 santigrat
+veya 1100 santigrat sıcaklığa ulaşılana Kadar,
+
+(B) Durum itibariyle minimum 850 santigrat ve 1100
+santigrat sıcaklığın muhafaza edilemediği zaman,
+
+(CO) Bu Tüzük gereğince yapılması gereken sürekli
+ölçümlerde, arıtma cihazlarının arıza yapması veya
+bozulması gibi nedenlerle herhangi bir kirletici
+parametrenin emisyon limit değerinin aşıldığının
+belirlenmesi durumunda,
+
+kullanır.
+
+İşletme koşullarındaki değişim, daha fazla kalıntıya veya
+yukardaki birinci fikrada belirtilen koşullarda beklenen
+kalıntılardan daha yüksek miktarda organik kirletici madde
+ihtiva eden kalıntılara neden olmayacak biçimde tasarlanır.
+
+Daire, kâğıt endüstrisi gibi kendi atığını, atığın üretildiği yerde
+
+mevcut ağaç kabuğu kazanlarında beraber yakması durumunda
+
+bu Tüzük kurallarına uyulması koşulu ile, yukarıdaki (2)’nci ve
+
+(3'üncü fıkralarda yer alan hususlarda bu tesise muafiyet tanır.
+
+Ancak muafiyet tanınması için tesis,bu Tüzüğe ekli Ek-V'te
+
+toplam organik karbon (TOK) ve karbon monoksit (CO) için
+
+belirlenen emisyon limit değerlere ilişkin hükümleri sağlamak
+zorundadır.
+
+(A) Atık yakma ve atık beraber yakma tesisleri, havaya
+yapılan emisyonlar zemin seviyesinde hava kirliliğine
+mahal vermeyecek şekilde tasarlanır, donatılır, inşa edilir
+ve işletilir.
+
+(B) Baca gazı emisyonlar kontrollü bir şekilde salınmasını
+sağlayacak şekilde bir baca yüksekliğine sahip olur.
+
+Ön işlem görmemiş tıbbi atıklar öncelikle ve diğer atık sınıfları
+ile karıştırılmaksızın otomatik besleme ile doğrudan firma
+beslenir.
+
+Atık yakma ve atık beraber yakma tesislerinin sisteminde bir
+çökme yaşanması halinde işletmeci, yakma faaliyetini
+uygulanabilirlik ölçüsünde en kısa sürede azaltacak veya
+durduracak, bu durum olağan faaliyet koşulları geri getirilene
+kadar korunacaktır.
+
+Atık yakına tesisleri, baca gazı emisyonları bu Tüzüğe ekli Ek-
+VWite belirlenen hava emisyonu limit değerlerini aşmayacak
+şekilde tasarlanır, donatılır, inşa edilir ve işletilir. İşletmeci bu
+Tüzüğe ekli Ek-Wte belirlenen emisyon limit değerlerinin
+aşılmamasını sağlamak zorundadır.
+
+[SAYFA 9]
+(2)
+
+(3)
+
+(4)
+
+(5)
+
+(6)
+
+Baca Gazlarmmn 12. (1)
+
+Temizlenmesinden
+Gelen Atık Suların
+
+Deşarjı
+
+534
+
+(A) Atık beraber yakma tesisleri, baca gazı emisyonları bu
+Tüzüğe ekli Ek-II’de belirlenen emisyon limit değerlerini
+aşmayacak şekilde tasarlanır, donatılır, inşa edilir ve
+işletilir. İşletmeci bu Tüzüğe ekli Ek-I/'de belirlenen
+emisyon limit değerlerinin aşılmamasını sağlamak
+zorundadır.
+
+(B) Bir atık beraber yakma tesisi ortaya çıkan yakıt anma ısıl
+güç değerinin %40 (yüzde kırk) veya daha azını atıktan
+sağlıyorsa,bu Tüzüğe ekli Ek-II’de belirlenen emisyon
+limit değerleri uygulanır. Yakıt anma ısıl güç değerinin
+“40'dan (yüzde kırk) fazlasını atıktan karşılıyor ise, bu
+tesis yakma tesisi olarak değerlendinlir. Ancak
+biyokütleyi katı yakıt olarak kullanan tesisler için bu
+sınırlama uygulanmaz.
+
+Tesisin emisyon limit değerlerine uygunluk gösterdiğinin
+belgelenmesi için yapılan ölçüm sonuçları bu Tüzüğün
+15” inci maddesinde belirtilen ölçüm koşullarına göre standart
+hale getirilir.
+
+İşlenmemiş ve karışık belediye atıklarının beraber yakılması
+durumunda, limit değerler bu Tüzüğe ekli Ek-V'e göre
+belirlenir.
+
+Yakılan atıkların tür ve miktarlarına (tesisin kapasitesine) bağlı
+olmaksızın, baca gazından çıkan dioksin ve furanların
+
+konsantrasyonlan 0,1 ng/Nm3 TE (toksisite eşdeğeri) sınır
+değerini aşamaz.
+
+Beraber yakma tesislerinde kükürt dioksit (SO,) ve toplam
+organik karbon (TOK) emisyon konsantrasyonlarının
+belirlenen sınır değerleri aşmasının, atık yakmadan değil de
+kullanılan yakıttan kaynaklandığı emisyon ölçümleri ile
+belgelenir ise Daire tarafından tesise SO; ve TOK emisyon
+konsantrasyonları açısından muafiyet tanınır. Bu durumda,
+emisyonların karşılaştırılması amacıyla yakıt ve yakıttatık
+besleme durumları için ayrı ayrı emisyon ölçümü yapılır.
+
+(A) Baca gazlarının temizlenmesinden kaynaklanan atık
+suların alıcı ortama deşarjı ile ilgili değerler bu Tüzüğe
+ekli Ek-IV’te verilen emisyon sınır (limit) değerleri
+aşamaz. İşletmeci bu Tüzüğe ekli Ek-İW'te belirlenen
+emisyon sınır değerlerin aşılmamasını sağlamak
+zorundadır.
+
+(B) Baca (gazlarının O temizlenmesinden O kaynaklanan
+atıksuların, tesisin mevkii kaynaklı diğer atık sularla
+beraber arıtılması halinde işletmeci, bu Tüzüğün 15'inci
+maddesinde belirtilen koşullara uyar.
+
+[SAYFA 10]
+(2)
+
+(3)
+
+535
+
+(A) İşletmeci tarafından, atık yakma veya atık beraber yakma
+
+tesisinden çıkan atıksuyun depolanması için depo
+oluşturulur.
+
+(B) (a) Baca gazlarının temizlenmesinden kaynaklanan
+
+atıksular, tesiste bulunan diğer atık su hath veya
+hatlarına, arıtma işlemi tamamlandıktan sonra verilir
+ve bu sular deşarj öncesi de test edilir.
+
+(b) Nihai degarjm yapılmasında bu Tüzüğe ekli
+
+Ek-IWte belirlenen limit değerlere Ouyulup
+uyulmadığı kontrol edilir ve kayıt altına alınır.
+
+Bu Tüzüğe ekli Ek-IV’te belirtilen kirletici maddeleri ihtiva
+eden baca gazlarının temizlenmesinden kaynaklanan atıksular,
+atık yakma veya atık beraber yakma tesisinin dışında, sadece
+bu tip atık suların arıtılması amacına hizmet eden bir arıtma
+tesisinde arıtılacaksa;
+
+(A)
+
+@)
+
+(0)
+
+(©)
+
+(D)
+
+Bu Tüzüğe ekli Ek-TV’teki limit değerler, atık suların
+arıtma tesisini terk ettiği noktada uygulanır.
+
+Bu arıtma tesisi, sadece yakmadan kaynaklanan atık
+suların arıtılması için veya tesisten kaynaklanan tüm
+atıksuların arıtımı için tasarlanmış ise, baca gazı
+temizleme işleminden gelen atıksu, bu Tüzüğe ekli
+Ek-IV’te belirlenen limit değerleri sağlar ve atık suyun
+nihai deşarjı ile baca gazlarının temizlenmesi sonucunda
+oluşan atık suya geçebilecek kirlilik seviyeleri bu
+Tüzüğün 15° inci maddesine göre saptanır.
+
+Baca gazlarının temizlenme işlemlerinden kaynaklanan
+atıksularda; tesiste bulunan diğer atık su hattı veya
+hatlarında; kirletici konsantrasyonları arıtmadan sonra
+uygun kütle dengesi uygulanarak kayıt altına alınır.
+
+Bu Tüzüğe ekli Ek-IW'te belirtilen olan emisyon limit
+değerlerine uymak amacıyla atıksuların hangi koşul ve
+şart altında olursa olsun seyreltilmesi yasaktır.
+
+(a) Atıklar için ara depolama alanları dahil olmak
+üzere atık yakma ve atık beraber yakma
+tesislerinin tasarımı, kirletici maddelerin toprağa,
+yüzey ve yeraltı sularına izinsiz veya kaza ile
+yayılmasını engelleyecek şekilde inşa edilir.
+
+[SAYFA 11]
+Kalıntılar
+
+13.
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+536
+
+(b) Atık yakma veya atık beraber yakma tesisinde
+oluşan kirlenmiş yağmur suları veya yangın
+söndürme faaliyetlerinden kaynaklanan kirlenmiş
+sular için depolama kapasitesi oluşturulur ve bu
+tür suların desarj öncesinde test edilerek
+arıtılmalarının sağlanması için gerekli
+boyutlandırmaya sahip olur.
+
+(a) Atk yakma veya atık beraber yakma tesisinin
+faaliyetinden kaynaklanan kalıntıların miktarları ve
+zararları asgari düzeye indirilir.
+
+(6) O Uygun olan hallerde kalıntıların doğrudan tesisin içinde
+veya dışında geri dönüşümleri yapılır.
+
+Halojen içeren atığın yakılması, tehlikeli özellikte baca gazı
+kalıntıları ortaya çıkaracağı için bu kalıntıların miktarları ve
+zararları asgari düzeye indirilecek şekilde yakma işlemi
+tasarlanır.
+
+Baca gazı külü, kazan tozu, yanma gazlarının arıtımından çıkan
+kuru kalıntılar ve toz halindeki kuru kalıntıların taşınması ile
+ara depolaması, çevreye yayılmalarını engelleyecek şekilde
+kapalı sistemle yapılır.
+
+Atık yakma veya atık beraber yakma tesislerinden kaynaklanan
+kalıntıların uzaklaştırılması veya geri dönüşümleri için yanma
+kalıntılarının fiziksel ve kimyasal özellikleri ile kirletme
+potansiyellerini belirlemek amacıyla kullanılacak yöntemlerle
+ilgili standart referans metodlar (SRM) Daire tarafından
+belirlenir. Ancak denenmiş referans malzemeleri bazında
+çalışan ve aynı özelliklere sahip olan yöntemler onaylandıktan
+sonra kullanılabilir.
+
+DÖRDÜNCÜ KISIM
+
+Denetim, İzleme, Ölçüm ve Olağandışı İşletme Koşulları
+
+Denetim ve İzleme
+
+14,
+
+(1)
+
+(2)
+(3)
+
+Atık yakma veya atık beraber yakma işleminde
+
+parametrelerin, koşulların ve kütle konsantrasyonlarının
+
+izlenebilmesi amacıyla işletmeci tarafından ölçüm sistemi
+
+kurulur.
+
+Ölçüm şartları, deneme yakması sonuçlarına istinaden Daire
+
+tarafından verilen izinde belirtilir.
+
+(A) İşletmeci, atıkların yakılması sonucunda havaya ve
+suya verilen emisyon ve kirletici parametreler için
+sürekli emisyon izleme sistemi kurar ve bu sistemin
+
+[SAYFA 12]
+Ölçüm Koşulları
+
+(4)
+
+©)
+(6)
+
+(7)
+
+(8)
+
+15. (1)
+
+537
+
+işletilmesi, yıllık gözetim testleri ile denetlenir.
+
+(B) Yukandaki (A) , bendinde (belirtilen O sistemin
+kalibrasyonu, akredite bir kuruluş tarafından Dairenin
+koyacağı koşullar çerçevesinde yapılır.
+
+i (©) İşletmeci, yukarıdaki (A) bendinde belirtilen sürekli
+
+emisyon izleme sisteminin doğru bir şekilde
+çalışmasını sağlamak, bu sistemde meydana gelen
+arızaları gidermek ve bu sistemin çalıştırılmasını bu
+Tüzük kurallarına göre yapmak zorundadır.
+
+(Ç) Baca gazı sürekli emisyon izleme sistemini oluşturan
+cihaz ve bağlantı ekipmanlarının kurulması ve
+çalıştırılması EN 14181 standardı doğrultusunda
+gerçekleştirilir.
+
+(D) Havaya ve suya verilen emisyonların izlenmesi ile elde
+edilen sonuçların tamamı kaydedilir, işlenir ve Daire
+tarafından verilen izinde yer alan faaliyet koşulları ile
+emisyon sınır değerlerine uygunluk konularında Karar
+verebilmesine olanak tanıyacak şekilde Daireye
+sunulur.
+
+Baca gazı sürekli emisyon izleme sistemleri yılda en az bir
+kez akredite olmuş ölçüm kuruluşlarınca yapıları paralel
+ölçümler yoluyla kontrole tabi olur.
+Örnekleme veya ölçüm noktaları, akredite olmuş ölçüm
+kuruluşlarınca deneme yakması aşamasında belirlenir.
+Hava veya suya verilen kirletici parametrelerin düzenli
+ölçümleri, bu Tüzüğe ekli Ek-III’teki l’inci ve 2'nci
+maddelere uygun olarak yapılır.
+İzin alan tesis, izin aldığı tarihten itibaren, tesise kabul edilen
+atık türü, miktarı, kimden alındığı, kullanım miktarı, bakiye
+atık oluşuyor ise bertaraf amacıyla nereye verileceği gibi
+bilgileri içeren kütle denge tablosu ve atık temin edilen kişi
+veya kuruluştan alınan atığa ilişkin bilgileri ve faturaları her
+ay Daireye gönderir.
+
+Atık yakma ve atık beraber yakma tesisi işletmecisi, baca
+
+gazı emisyon değerlerinin Daire tarafından izlenmesini
+
+teminen gerekli sistemi kurar.
+
+Atık yakma ve atık beraber yakma tesislerinde hava
+
+kirleticilerine ilişkin ölçümler bu Tüzüğe ekli Ek-IT]’e ve
+
+aşağıdaki kurallara uygun olarak yapılır:
+
+(A) Sürekli ölçüm cihazı ile belirlenen azot oksitler (NOx),
+karbon monoksit (CO), toplam toz, toplam organik
+karbon (TOK), hidroklorik asit (HCl), hidrojen florür
+
+, kükürt dioksit (SO2) maddelerine ilişkin bu
+Tüzüğe ekli Ek-V’te belirlenen emisyon limit değerleri
+sağlanmak zorundadır.
+
+(B) İşletme kirlilik parametrelerinin sürekli ölçümlerinde,
+deneme yakması aşamasında belirlenen yakma
+odasının içinde, başka bir örnek noktadaki sıcaklık,
+oksijen konsantrasyonu, basınç, baca gazı sıcaklığı ve
+su buharı içeriğine göre yapılır.
+
+(C) Sürekli ölçümlerin kontrol ve teyidi amacıyla, NOx,
+CO, toplam toz, TOK, HCl, HF, SO2’nin ölçümü yılda
+en az dört kez, ayrıca ağır metallerin, çok halkalı
+aromatik hidrokarbonların, dioksinlerin ve furanların
+ölçümü yılda en az iki kez; dioksinlerin ve furanların
+ölçümü tesisin ilk işletmeye alınmasından itibaren on
+iki ay boyunca en az her üç ayda birkez olmak üzere
+
+[SAYFA 13]
+(2)
+
+6)
+
+(4)
+
+(©)
+
+()
+
+(E)
+
+(F)
+
+(G)
+
+538
+
+yapılır.
+
+Farklı özelliklerdeki atıkların bertarafının yapılacağı
+yakma tesisleri için deneme yakmasında, yüksek klor
+ve kül bileşeni, en düşük yanma ısısı gibi en uygun
+koşullar esas alınarak ölçümlerin yapılması zorunludur.
+HCl için emisyon limit değerlerin aşılmadığını
+belgeleyen gaz arıtım üniteleri kullanılmış ise, HF’nin
+sürekli ölçümüne muafiyet tanınabilir. Bu durumda,
+HF emisyonu yukandaki (C) bendinde öngörülen
+düzenli ölçümlere tabi olur.
+
+Örneklenen baca gazı emisyonlarının analizinden önce
+kurutuluyorsa, su buharı içeriğinin sürekli ölçümü
+gerekmez.
+
+Atık yakma veya atık beraber yakma tesisinde
+işletmeci, hidroklorik asit (HCI), hidrojen florür (HF)
+ve kükürt dioksit (SO2) maddelerinin emisyonlarının
+belirtilen emisyon limit değerlerinden hiçbir şart
+altında daha yüksek olmayacağını kanıtlaması halinde,
+Daire tarafından, sürekli ölçüm yerine yukardaki (C)
+bendinde belirtilen şekilde düzenli ölçümlere izin
+verilir.
+
+Ağır metal konsantrasyonlarının düzenli ölçümleri her
+yıl iki kez yapılmak zorundadır. Ancak yakmadan veya
+beraber yakmadan kaynaklanan emisyonların sırasıyla
+bu Tüzüğe ekli Ek-Il veya Ek- Wte belirlenen emisyon
+limit değerlerinin 9650 (yüzde elli) altında olması
+halinde, bu sürenin iki yılda bir kez yapılması ve
+dioksinler ile furanlar için ise her yıl iki kez yapılan
+emisyon ölçümlerinin yılda bir kez yapılması
+yeterlidir.
+
+Emisyon limit değerlerine uygunluk gösterdiğinin tasdik
+edilmesi için yapılan ölçümlerin sonuçları, aşağıdaki
+koşullarda ve oksijen igin,bu Tüzüğe ekli Ek-VI'da belirtilen
+formüle göre standart hale getirilir:
+
+(A)
+(B)
+
+(C)
+
+(A)
+
+(B)
+
+(A)
+
+Yakma tesislerinin, baca gazı sıcaklığı 273 K, basınç
+101,3 kPa, % 11 (yüzde onbir) oksijen kuru bazda,
+Atık yağlar ile ilgili mevzuatta tanımlanan, atık yağın
+yakılmasından kaynaklanan baca gazında, 273 K
+sıcaklıkta, 101,3 kPa basınçta, 963 oksijen kuru bazda,
+Beraber yakma durumunda, ölçüm sonuçları,bu
+Tüzüğe ekli Ek-II’deki gibi hesaplanan toplam oksijen
+içeriğinde.
+
+Tehlikeli atık yakma veya atık beraber yakma tesisinde
+oluşan kirletici emisyonların baca gazı artımı ile
+kontrol altına alındığı durumlarda, bu Tüzüğün 11° inci
+maddesinin (2)'nci fıkrasında belirtilen hükümler
+uygulanır.
+
+Oksijen içeriklerini standart hale getirme işlemi, sadece
+ilgili kirletici madde için, aynı sürede ölçülen oksijen
+içeriğinin ilgili standart oksijen içeriğini aşması halinde
+yapılır.
+
+Baca gazındaki emisyonlar ve kütlesel debi tayini için
+yapılan ölçümler bütünü temsil edecek ve emisyon
+ölçüm sonuçlarının birbiri ile karşılaştırılmasına olanak
+verecek şekilde en az üç ardışık zamanda, dioksinler ve
+furanlar için numune alma ve ölçümler ISO 1948-1,2,3
+te belirtilen yöntemle yapılır.
+
+[SAYFA 14]
+gi.
+
+(5)
+
+(6)
+
+(7)
+
+(8)
+
+(9)
+
+(10)
+
+539
+
+(B) Dioksinler ve furanlar da dahil olmak üzere tüm
+kirleticilerin örnekleme ve analiz işlemleri ile otomatik
+ölçüm sistemlerini kalibre etmek için kullanılan
+referans ölçme yöntemleri öncelikle CEN (Avrupa
+Birliği Standartları), bunun mümkün olmaması
+durumunda diğer uluslararası standartlar
+doğrultusunda yapılır.
+
+(A) Atık yakma ve atık beraber yakma tesisi, bu Tüzükte
+öngörülen emisyon limit değerlerini sağladığının, izin
+verilen işletme koşullarına uygun çalıştığının takip
+edilmesi amacıyla bütün ölçüm sonuçlarını kayıt altına
+alır ve Daireye ibraz eder.
+
+(B) Bu Tüzüğe ekli Ek-Vil'de belirtilen (o koşulların
+sağlanması durumunda bu Tüzükte yer alan hava ve su
+ile ilgili emisyon sınır değerlerine uyum sağlanmış
+kabul edilir.
+
+Yarım saatlik ve on dakikalık ortalama değerler, ölçülen
+değerlerden bu Tüzüğe ekli Ek-IIP’iin 3’ üncü maddesinde
+belirtilen güvenlik aralığının değeri çıkarıldıktan sonra, etkin
+işletme zamanı içerisinde saptanır. Ancak tesiste herhangi bir
+atık yakılmıyor ise başlama ve kapatma safhaları hariç
+tutulur.
+
+(A) Sürekli ölçüm sistemindeki arızalar veya bakım
+hizmetleri nedeniyle herhangi bir günde beş adet yarım
+saatlik ortalama değeri aşmayacak şekilde çıkartma
+yapılarak geçerli bir günlük ortalama değeri elde edilir.
+
+(B) Sürekli ölçüm sistemindeki arızalar veya bakım
+hizmetleri nedeniyle geçersiz sayılan günlük ortalama
+
+. değerler yılda on adetten fazla olamaz.
+
+Örnekleme süresi boyunca ortalama değerler ve HF, HCl ve
+
+SOŞ'nin düzenli ölçülmesi durumunda alınan ortalama
+
+değerler, izin koşulları ve bu Tüzüğe ekli Ek-IIPte belirtilen
+
+şartlara uygun olarak belirlenir.
+
+Atıksuların deşarj edildiği son noktada;
+
+(A) PH, sıcaklık ve debinin ölçümleri sürekli olarak,
+
+(B) Toplam askıdaki katı maddelerin yerinde örnekleme ile
+yapılan ölçümleri günlük olarak,
+
+(C) Bu Tüzüğe ekli Ek-IV’te ağır metallere bağlantılı
+olarak, bu Tüzükte belirtilen kirletici maddelerin
+yirmidért saatlik debi orantılı temsili örneklemesinin
+ölçümleri en az ayda bir,
+
+(Ç) Dioksinlerin ve furanların ölçümleri en az her altı ayda
+bir, ancak işletmenin ilk on iki ayı için en az her üç
+ayda bir
+
+yapılır.
+
+Arıtılan atıksu içindeki kirletici maddelerin kütlelerinin
+
+izlenmesi, ölçümlerin sıklığı ile birlikte, izin koşullarında yer
+
+alır. Ancak;
+
+(A) Toplam askıdaki katı maddelerin ölçülen değerlerin
+%95°i (yüzde doksan beş) ve %100°ti(ytizde yüz),bu
+Tüzüğe ekli Ek-IV’te belirtilmiş olan ilgili emisyon
+limit değerlerini aşmıyor ise,
+
+(B) Agu metaller (Hg, Cd, TI, As, Pb, Cr, Cu, Ni ve Zn)
+için yılda birden fazla ölçüm bu Tüzüğe ekli Ek-IV’te
+belirtilen emisyon sınır (limit) değerlerini aşmıyor ise
+veya yirmi taneden fazla örnek temin ediliyorsa, temin
+edilen bu örneklerden %5’inden( yüzde beş) fazlası,
+
+[SAYFA 15]
+Olağandışı
+Koşulları
+
+dı)
+
+(©)
+
+540
+
+bu Tüzüğe ekli Ek-IV’te belirtilen emisyon limit
+değerlerini aşmıyor ise,
+
+Dioksinler ve furanlar için yapılan ölçümler bu Tüzüğe
+ekli Ek-[V’te belirtilen emisyon limit değerlerini
+aşmıyor ise,
+
+Daire tarafından, su için emisyon limit değerlerine uyulduğu
+kabul edilir.
+
+Alınan ölçümler, bu Tüzük kuralları uyarınca uyulması
+gereken hava ve su için belirtilen emisyon limit değerlerinin
+aşıldığını gösterirse, derhal Daire’ ye bildirilir.
+
+(12) (A) Tesiste, bu Tüzük kurallar uyarınca yapılacak tüm
+
+(B)
+
+ölçümler uluslararası Akreditasyon Kurumlarınca
+akredite edilmiş laboratuvarlara sahip olan özel veya
+kamu kurum ve kuruluşları tarafından yapılır. Daire
+daha sık aralıklarla ölçüm ve/veya analiz talebinde
+bulunabilir. ;
+
+Analiz ve ölçüm ücreti tesis sahibi tarafından
+karşılanır.
+
+İşletme 16. (1) Daire, teknik olarak engellenemeyen arıtma veya ölçüm
+cihazlarında meydana gelen her türlü ara verme, bozulma veya
+arıza için izin verilen azami süreyi izin belgesinde belirtir.
+Daire, bu gibi durumlarda normal faaliyete tekrar
+başlananacağı tarihe kadar, işletme faaliyetlerini azaltma veya
+durdurma yetkisine sahiptir.
+
+©
+
+(A)
+
+(B)
+
+(C)
+
+Emisyon limit değerlerin aşılması halinde, yakma veya
+beraber yakma tesisi veya yakma hattı hiçbir şart
+altında aralıksız dört saatten uzun süre atık yakmaya
+devam edemez.
+
+Emisyon limit değerlerinin aşılması halinde, bu şartlar
+altında toplam işletme süresi bir yıl boyunca altmış
+saatten az olmak zorundadır. Altmış saatlik süre, tek
+bir baca gazı temizleme cihazına bağlı olan tesiste
+bulunan bütün hatlar için geçerlidir.
+
+Yukarıdaki (A) fıkrası ile bu Tüzüğün 10'uncu
+maddesinin (11)’inci fıkrasındaki koşulların oluşması
+halinde; Ooyakma (tesisinin O havaya (o verdiği
+emisyonlardaki toplam toz içeriği, hiçbir şart altında,
+yarım saatlik ortalama olan 150 mg/Nm” miktarını
+geçemez, karbon monoksit (CO) yarım saatlik ortalama
+olan 100 mg/Nm? miktarını geçemez ve toplam
+organik karbon (TOK) için bu Tüzüğe ekli Ek-V (2'de
+belirtilen limit değerler aşılamaz.
+
+BEŞİNCİ KISIM
+
+Son Kurallar
+
+Yürütme Yetkisi 17. Bu Tüzük, Çevre işleri ile görevli Bakanlık tarafından yürütülür.
+
+Yürürlüğe Giriş 18. Bu Tüzük, Resmi Gazetede yayımlandığı tarihten başlayarak
+yürürlüğe girer.
+
+[SAYFA 16]
+541
+
+Ek-I Dibenzo-P-Dioksinler Ve Dibenzofuranlar İçin Eşdeğerlik Faktörleri
+
+Dioksin ve furanların toplam konsantrasyonlarını (TE) saptamak için, aşağıdaki dibenzo-p-
+dioksinlerin ve dibenzofuranların kütle konsantrasyonları toplanmadan önce aşağıdaki
+eşdeğerlik faktörleri ile çarpılır:
+
+Toksisite eşdeğerlik faktörü
+
+2,3,7,8 — Tetraklorodibenzodioksin (TCDD) 1
+1,2,3,7,8 — Pentaklorodibenzodioksin (PeCDD) 0,5
+1,2,3,4,7,8 — Heksaklorodibenzodioksin (HxCDD) 0,1
+1,2,3,6,7,8 — Heksaklorodibenzodioksin (HxCDD) 0,1
+1,2,3,7,8,9 — Heksaklorodibenzodioksin (HxCDD) — 0,1
+1,2,3,4,6,7,8 — Heptaklorodibenzodioksin (HpCDD) 0,01
+
+— Oktaklorodibenzodioksin (OCDD) 0,001
+2,3,7,8 — Tetraklorodibenzofuran (TCDF) 0,1
+2,3,4,7,8 — Pentaklorodibenzofuran (PeCDF) 0,5
+1,2,3,7,8 — Pentaklorodibenzofuran (PeCDF) 0,05
+1,2,3,4,7,8 — Heksaklorodibenzofuran (HxCDF) 0,1
+1,2,3,6,7,8 — Heksaklorodibenzofuran (HxCDF) 0,1
+1,2,3,7,8,9 — Heksaklorodibenzofuran (HxCDF) 0,1
+2,3,4,6,7,8 — Heksaklorodibenzofuran (HxCDF) 0,1
+1,2,3,4,6,7,8 — Heptaklorodibenzofuran (HpCDF) 0,01
+1,2,3,4,7,8,9 — Heptaklorodibenzofuran (HpCDF) 0,01
+
+— Oktaklorodibenzofuran (OCDF) 0,001
+
+[SAYFA 17]
+542
+
+Ek-II Atıkların Beraber Yakılması İçin Hava Emisyon Limit Değerlerinin Saptanması
+
+Bu Ekteki bir tabloda belirli bir toplam emisyon limiti ‘C’ belirlenmemişse, aşağıdaki formül
+
+uygulanır.
+
+Atığın beraber yakılmasından doğan baca gazı emisyonundaki her ilgili kirletici madde ve
+karbon monoksitin limit değeri aşağıdaki gibi hesaplanır:
+
+Vank x Carık + Vistem x Cistem = C mg/Nm?
+
+Vank!
+
+Catık!
+
+Vistem:
+
+Ciştem:
+
+Vatık + Viştemi
+
+Sadece izinde belirtilen en düşük kalorifik değere sahip atık kullanılarak saptanan ve
+
+bu Tüzükte verilen koşullarda standart hale getirilen ve atığın yakılmasından
+kaynaklanan atıkgazın hacmi.
+
+Şayet tehlikeli atığın yakılması sonucunda yayılan ısı, tesiste yayılan toplam ısının
+“olO”undan (yüzde on) daha azına tekabül ediyor ise, Vu, toplam yayılan ısı sabit
+kalmak kaydıyla, yakılacak olsa yayacağı ısı %10’a (yüzde on) eşit olacak (teorik) bir
+miktar atıktan hesap edilmelidir.
+
+İlgili kirletici maddelere ve karbon monoksite ilişkin olarak bu Tüzüğe ekli Ek-V’teki
+yakma tesisleri için belirlenen emisyon limit değerleri.
+
+Tesiste müsaade edilmiş ve normalde kullamlan yakıtların (atıklar hariç) yanmasından
+ve tesisin uyguladığı işlemden kaynaklanan ve Hava Kirliliğinin Kontrolü Tüzüğünde
+belirtilen şekilde emisyonu standart hale getirilmiş oksijen içeriğine dayanarak
+saptanan baca gazı hacmi. i
+
+Belirli endüstriyel sektörler için bu ekin tablolarında belirtildiği şekilde emisyon limit
+değerleri ve tabloda bu değerlerin mevcut olmaması halinde, normalde müsaade edilen
+yakıtları (atıklar hariç) yakarken Hava Kirliliğinin Kontrolü Tüzüğünde uygunluk
+
+gösteren tesislerden çıkan baca gazındaki ilgili kirletici maddelerin ve karbon
+monoksitin emisyon limit değerleri.
+
+Belirli endüstriyel sektörler ve kirletici maddeler için bu ekin tablolarında belirtildiği
+şekilde toplam emisyon limit değerleri ve oksijen içeriği veya bu değerlerin mevcut
+olmaması halinde, bu Tüzüğün eklerinde belirtilen emisyon limit değerlerinin yerine
+kullanılacak olan CO ve ilgili kirletici maddeler için toplam emisyon limit değerleri.
+Oksijen içeriğinin yerine, standart hale getirmek amacıyla kullanılacak toplam oksijen
+içeriği, kısmi hacimleri de göz önünde tutarak yukarıdaki içeriğe dayanarak
+hesaplanır.
+
+[SAYFA 18]
+543
+
+1. Atıkları beraber yakan çimento fabrikaları için özel hükümler
+
+(1) Dioksinler ve furanlar bütün değerleri mg/Nm' olarak belirtilir ve yarım saatlik ortalama
+değerler ise sadece günlük ortalama değerlerin hesaplanması için kullanılır.
+
+Emisyon limit değerlerine uygunluk göstermesi gereken ölçüm sonuçları, aşağıdakı
+koşullarda standart hale getirilir: Sıcaklık 273 °K, basınç 101,3 kPa, %10 (yüzde on) oksijen,
+kuru bazdaki toplam emisyon limit değerleri aşağıdaki tablodaki değerleri sağlamalıdır.
+
+Kirletici Madde C mg/Nm?
+Toplam toz 30
+HCI 10
+HF 1
+Mevcut tesisler için NO, 800
+!
+Yeni tesisler için NO, 500 ()
+Kirletici Madde Cc
+Cd+ TI 0,05
+Hg 0,05
+Sb+As+Pb+Cr+Co+Cu+Mn+Ni+V 0,5
+Dioksinler ve Furanlar 0,1
+) NO, emisyon limit değerlerinin uygulanması için, bu Tüzük yürürlüğe girmeden önce
+ilgili mevzuatlar uyarınca izni olupta faaliyette olan çimento fırınları, yeni tesisler olarak
+kabul edilmez.
+
+(2) SOz ve TOK için toplam emisyon limit değerleri
+
+Kirletici Madde Cc
+TOK 10
+
+SOz ve TOK’nin emisyon değerinin atıkların yakılmasından değil, kullanılan yakıttan
+kaynaklandığının ispat edilmesi durumunda sınır değer olarak Hava Kirliliğinin Kontrolü
+Tüzüğü'ndeki yakıt kullanımından kaynaklanan emisyon sınır değeri alınır.
+
+[SAYFA 19]
+544
+
+(3) Karbon monoksit (CO) için emisyon limit değeri
+CO için emisyon limit değeri Hava Kirliliğinin Kontrolü Tüzüğünde verilen limit değerdir.
+
+2. Atıkları beraber yakan yakma tesisleri için özel hükümler
+
+2.1. Günlük ortalama değerler
+
+Sadece günlük ortalama değerlerin hesaplanması amacıyla, yarım saatlik ortalama değerler
+
+gereklidir.
+
+Ciştem:
+
+Katı yakıtlar için Ciştem mg/Nm? olarak ifade edilmiştir (Oz içeriği %6):
+
+Kirletici 100 ila 300
+< —
+Maddeler 50 MWth | 50—100 MWh MWh >300 MWth
+SO,
+genel durum 850 200 200
+NO, 400 200 200
+Toz 50 50 30 30
+
+(3) Biyokütle için Cişem mg/Nm? olarak ifade edilmiştir (O2 içeriği %6):
+
+“Biyokütle”; tarım veya ormancılık kaynaklı sebze atıklarının tamamından veya bir kısmından
+meydana gelen ve içindeki enerji içeriğini yeniden kazanmak amacı ile kullanılabilecek
+ürünler anlamına gelir. Bu kapsamda aşağıdaki tabloda verilen kirleticiler belirtilen sınır
+
+değerleri aşamaz.
+
+[SAYFA 20]
+545
+
+Kirletici 100 ila 300
+Maddeler <50MWth | 50-100 MWth MWth > 300 MWth
+SO.
+? 200 200 200
+NOx 350 300 300
+Toz 50 50 30 30
+(4) Sıvı yakıtlar için Cistem mg/Nm” olarak ifade edilmiştir (O; içeriği %3):
+Kirletici 100 ila 300
+Maddeler <50MWth | 50-100 MWth MWh >300 MWth
+850 10200 200
+S02 400 ila 2
+(100 ila 300
+MWth arasında
+lineer azalma)
+NO, 400 200 200
+Toz 50 50 30 30
+
+(4).1 C— toplam emisyon limit değerleri
+
+C, mg/Nm? olarak ifade edilmiştir (Oz içeriği %6). Asgari 30 dakika ve azami 8 saatlik bir
+örnekleme süresi boyunca bütün ortalama değerler:
+
+Kirletici Madde Cc
+Cd 4 0,05
+Hg 0,05
+
+Sb + As + Pb+Cr+Co+Cu+Mn+Ni+V
+
+0,5
+
+[SAYFA 21]
+546
+
+C, ng/Nm? olarak ifade edilmiştir (Oz içeriği 966). Asgari 6 saat ve azami 8 saatlik bir
+örnekleme süresi boyunca ölçülen bütün ortalama değerler:
+
+Kirletici Madde Cc
+
+Dioksinler ve Furanlar 0,1
+
+3. Atıkları beraber yakan ve 2'nci paragrafı kapsamayan endüstriyel sektörler için özel
+hükümler
+
+5.1. C — toplam emisyon değerleri:
+
+C, ng/Nm? olarak ifade edilmiştir. Asgari 6 saat ve azami 8 saatlik bir örnekleme süresi
+boyunca ölçülen bütün ortalama değerler:
+
+Kirletici Madde Cc
+
+Dioksinler ve Furanlar 0,1
+
+C, mg/Nm? olarak ifade'edilmiştir. Asgari 30 dakika ve azami 8 saatlik bir örnekleme süresi
+boyunca bütün ortalama değerler:
+
+Kirletici Madde C
+
+Cd*TI 0,05
+Hg 0,05
+
+[SAYFA 22]
+547
+
+Ek-III Ölçüm teknikleri
+
+1.
+
+Hava ve suyu kirleten maddelerin konsantrasyonlarının saptanması için yapılan ölçümler,
+temsil edici nitelikte olmalıdır.
+
+Dioksinler ve furanlar da dahil olmak üzere bütün kirletici maddelerin örneklemesi ve
+analizi ile otomatikleşmiş ölçüm sistemlerini ayarlamak için kullanılan referans ölçüm
+yöntemleri, CEN-standartları tarafından belirtildiği şekilde yürütülür. Şayet CEN
+standartları mevcut değil ise, eşdeğer bilimsel kalitede verilerin sağlanmasını temin
+edecek ISO,EPA,DIN ve benzeri uluslararası standartlar da kullanılabilir.
+
+Günlük emisyon limit değeri seviyesinde ölçülen, tek bir sonucun 695 (yüzde doksan
+beş) güvenirlik aralığının değerleri, emisyon limit değerlerinin aşağıdaki yüzdelerini
+aşmamalıdır:
+
+Karbon monoksit: % 10 (yüzde on)
+Kükürt dioksit: % 20 (yüzde yirmi)
+Azot dioksit: % 20 (yüzde yirmi)
+Toplam toz: % 30 (yüzde otuz)
+Toplam organik karbon: % 30 (yüzde otuz)
+Hidrojen klorür: % 40 (yüzde kırk)
+
+Hidrojen florür: % 40 (yüzde kırk)
+
+em şar et
+
+[SAYFA 23]
+EE
+
+548
+
+Ek-IV Baca gazı emisyonlarının temizlenmesinden gelen atıksuların deşarjı için emisyon limit
+değerleri
+
+Filtre edilmemiş örnekler için
+kütle konsantrasyonları şeklinde
+
+Kirletici maddeler ifade edilen emisyon limit
+değerleri
+0
+222 % 100
+(yüzde doksan N .
+1. Toplam askidaki katı maddeler beş) (yüzde yüz)
+30 mg/l 45 me/l
+2. Cıva ve bileşikleri, cıva olarak belirtilir (Hg) 0,03 mg/l
+3. Kadmiyum ve bileşikleri, kadmiyum olarak belirtilir 0,05 mg/l
+(Cd)
+4. Talyum ve bileşikleri, talyum olarak belirtilir (TI) 0,05 mg/l
+5. Arsenik ve bileşikleri, arsenik olarak belirtilir (As) 0,15 mg/l
+6. Kurşun ve bileşikleri, kurşun olarak belirtilir (Pb) 0,2 mg/l
+7. Krom ve bileşikleri, krom olarak belirtilir (Cr) 0,5 mg/l
+8. Bakır ve bileşikleri, bakır olarak belirtilir (Cu) 0,5 mg/l
+9. Nikel ve bileşikleri, nikel olarak belirtilir (Ni) 0,5 mg/l
+10.Çinko ve bileşikleri, çinko olarak belirtilir (Zn) 1,5 mg/l
+11.Dioksinler ve furanlar, Ek -1 uyarınca değerlendirilen 03 nel
+bireysel dioksinlerin ve furanların toplamı olarak ,3 DE
+
+tanımlanmıştır
+
+[SAYFA 24]
+549
+
+Ek-V Emisyon Limit Değerleri
+
+Bütün emisyon sınır değerleri 273,15 K sıcaklıkta, 101,3 kPa basınçta ve atık gazlardaki su
+buharı içeriği yönünden düzeltildikten sonra hesaplanacaktır.
+
+Madeni atık yağ yakılmadığı sürece (bu durumda % 3 oksijen değeri alınır) ve bu Tüzüğe ekli
+Ek-II’de belirtilen haller dışında atık gazda standart % 11 oksijen içeriği kabul edilir.
+
+(1) Günlük ortalama değerler (mg/Nm°)
+
+Toplam toz 10
+Gaz ve buhar halindeki organik maddeler, toplam organik 10
+karbon olarak ifade edilir
+
+Hidrojen klorür (HCD 10
+Hidrojen florür (HE) 1
+Kükürt dioksit (SO2) 50
+
+Azot monoksit (NO) ve azot dioksit (NO2), nominal
+kapasitesi saatte 6 tonu aşan mevcut yakma tesisleri veya 200
+yeni yakma tesisleri için azot dioksit olarak ifade edilir
+
+Azot monoksit (NO) ve azot dioksit (NO3), nominal
+kapasitesi saatte 6 ton veya daha az olan mevcut yakma oo 400
+tesisleri için azot dioksit olarak ifade edilir
+
+(2) Yarım saatlik ortalama değerler (ng Nm)
+
+A (95100) B (% 97)
+Toplam toz 30 10
+Gaz ve buhar halindeki organik maddeler, 20 10
+toplam organik karbon olarak ifade edilir
+Hidrojen klorür (ACI) 6 10
+Hidrojen florür (HF) 4 2
+Kükürt dioksit (SO2) 200 50
+Azot monoksit (NO) ve azot dioksit (NO2),
+nominal kapasitesi saatte 6 tonu aşan mevcut 400 200
+yakma tesisleri için veya yeni yakma tesisleri
+için azot dioksit olarak ifade edilir
+
+[SAYFA 25]
+550
+
+(3) Asgari otuz dakika ve azami sekiz saatlik bir örnekleme süresi boyunca bütün ortalama
+değerler
+
+Kadmiyum ve bileşikleri, kadmiyum olarak belirtilir
+
+(Cd) toplam 0,05 mg/Nm?
+Talyum ve bileşikleri, talyum olarak belirtilir (TD)
+
+3
+Cıva ve bileşikleri, cıva olarak belirtilir (Hg) 0,05 mg/Nm
+
+Antimon ve bileşikleri, antimon olarak belirtilir (Sb)
+Arsenik ve bileşikleri, arsenik olarak belirtilir (As)
+Kurşun ve bileşikleri, kurşun olarak belirtilir (Pb)
+Krom ve bileşikleri, krom olarak belirtilir (Cr)
+Kobalt ve bileşikleri, kobalt olarak belirtilir (Co) toplam 0,5 mg/Nm’
+Bakır ve bileşikleri, bakır olarak belirtilir (Cu)
+
+Mangan ve bileşikleri, mangan olarak belirtilir (Mn)
+Nikel ve bileşikleri, nikel olarak belirtilir (Ni)
+Vanadyum ve bileşikleri, vanadyum olarak belirtilir (V)
+
+Bu ortalama değerler aynı zamanda ilgili ağır metal emisyonlarının gaz ve buhar hallerini ve
+bileşiklerini de kapsar.
+
+(4) Ortalama değerler, asgari altı saatlik ve azami sekiz saatlik bir örnekleme süresi boyunca
+ölçülür. Emisyon limit değeri, dioksinlerin ve furanların bu Tüzüğe ekli Ek-I uyarınca
+toksisite eşdeğerlik kavramı kullanılarak hesaplanan toplam yoğunluğuna ilişkindir.
+
+3
+Dioksinler ve Furanlar 0,1 ng/Nm
+
+(5) Yanma gazlannda karbon monoksit (CO) konsantrasyonlan için aşağıdaki emisyon limit
+değerleri aşılmamalıdır (devreye alma ve devreden çıkarma safhaları hariçtir):
+(a) Günlük ortalama değer olarak 50 mg/Nm?
+(b) 30 dakikalık ortalama değer olarak 100 mg/Nm?
+(c) 10 dakikalık ortalama değer olarak 150 mg/Nm?
+Daire; saatlik ortalama değer olarak karbon monoksit (CO) konsantrasyonunun 100 mg/Nm?
+
+emisyon sınır değerini aşmaması şartıyla yukarıda belirtilen emisyon sınır değerleri yönünden
+akışkan yatak teknolojisi kullanan yakma tesislerine muafiyet getirebilir.
+
+Bütün ölçümlerin en az %95’i (yüzde doksan beş) on dakikalık ortalama değerler olarak
+saptanan 150 miligram/m? yanma gazı veya ölçümlerin hepsi herhangi bir yirmi dört saatlik
+
+süreçte yarım saatlik ortalama değerler olarak saptanan 100 miligram/m? yanma gazı ;
+
+[SAYFA 26]
+551
+
+Ek-V1 Standart Oksijen Konsantrasyonu Yüzdesinde Emisyon Konsantrasyonunu
+Hesaplamak İçin Formül
+
+Es = 21—Os x Em
+21— Om
+Eş = standart oksijen konsantrasyonu yüzdesinde hesaplanan
+konsantrasyonu .
+EM = ölçülmüş olan emisyon konsantrasyonu
+Os = standart oksijen konsantrasyonu
+Om = ölçülmüş olan oksijen konsantrasyonu
+
+emisyon
+
+[SAYFA 27]
+552
+
+EK- V0 Emisyon sınır değerlerine uyumun değerlendirilmesi
+1. o Havaya emisyon sınır değerleri
+
+1.1. Aşağıdaki hallerde havaya salınan emisyon sınır değerlerine uygunluk sağlandığı kabul
+edilir:
+
+(A) Günlük ortalama değerlerden hiçbiri bu Tüzüğe ekli Ek-V (1)’de veya bu Tüzüğe ekli
+Ek I'de belirtilen veya bu Tüzüğe ekli Ek Il uyarınca hesaplanan emisyon sınır
+değerlerinden hiçbirini aşmaması,
+
+(B) Yarım saatlik ortalama değerlerin bu Tüzüğe ekli Ek-V (2)’deki tabloda A sütununda yer
+alan emisyon sınır değerlerinden hiçbirini aşmaması veya geçerli hallerde yıl boyunca yarım
+saatlik ortalama değerlerin 96 97'si bu Tüzüğe ekli Ek-V (2)’deki tabloda B sütununda yer
+alan emisyon sınır değerlerinden hiçbirini aşmaması,
+
+(C) Ağır metaller ile dioksinler ve furanlar için belirlenmiş numune alma süresindeki
+ortalama değerlerin hiçbiri bu Tüzüğe ekli Ek-V (3) ve Ek-V(4)’de veya bu Tüzüğe ekli
+Ek de belirülen veya bu Tüzüğe ekli Ek-II uyarınca hesaplanan emisyon sınır
+değerlerinden hiçbirini aşmaması,
+
+(Ç) Karbon monoksit (CO) için:
+(a) Atık yakma tesislerinde:
+
+- Yıl boyunca günlük ortalama değerlerin en az % 97'si bu Tüzüğe ekli Ek-V (5) (a)'da
+belirtilen değerini aşmaması ve
+
+- Herhangi 24 saatlik dönemde alınan 10 dakikalık ortalama değerlerin en az % 95’i veya
+aynı dönemde alınan yarım saatlik ortalama değerlerin hiçbiri bu Tüzüğe ekli Ek-V (5) (b) ve
+Ek-V (5) (c)'de belirtilen emisyon sınır değerlerini aşmaması. Gazların en az iki saniye
+süreyle asgari 1100 °C sıcaklığa yükseldiği yakma işleminden kaynaklanan gazların olduğu
+atık yakma tesislerinde Daire, 10 dakikalık ortalama değerler için 7 günlük bir değerlendirme
+
+süresi öngörebilir.
+
+[SAYFA 28]
+553
+
+(b) Atk birlikte yakma tesislerinde bu Tüzüğe ekli Ek-I’de yer alan hükümlerin yerine
+getirilmesi gerekir.
+
+1.2. | Yarım saatlik ortalama değerler ve 10 dakikalık ortalama değerler etkin faaliyet
+saatlerinde (atık yakılmıyorsa açma ve kapama sürelerini gözönünde bulundurmadan) ve bu
+Tüzüğe ekli Ek-II[Pde belirtilen güven aralığı değeri hesaplanan değerden çıkarıldıktan sonra
+belirlenir. Günlük ortalama değerler bu doğrulanmış ortalama değerler üzerinden belirlenir.
+
+Sürekli ölçüm sistemindeki arızalar veya bakım hizmetleri nedeniyle herhangi bir günde beş
+adet yarım saatlik ortalama değeri aşmayacak şekilde çıkartma yapılarak geçerli bir günlük
+ortalama değeri elde edilir. Sürekli ölçüm sistemindeki arızalar veya bakım hizmetleri
+nedeniyle geçersiz sayılan günlük ortalama değerler yılda on adetten fazla olmayacaktır.
+
+1.3. Veri toplama (bacadan numune alma) süresindeki ortalama değerler ve HF, HCl ve S02
+periyodik (düzenli) ölçümlerindeki ortalama değerler bu Tüzüğe ekli Ek-III’de belirtilen
+kurallara ve bu Tüzük kurallarına göre belirlenir.
+
+2. o Suya emisyon sımır değerleri
+Aşağıdaki hallerde suya verilen emisyon sınır değerlerine uygunluk sağlandığı kabul edilir;
+
+(A) Toplam asılı katı maddeler için ölçülmüş değerlerin % 95'i ve % 100'ü bu Tüzüğe
+ekli Ek-IV’te belirtilen emisyon sınır değerlerini aşmaması,
+
+(B) Ağır metaller (Hg, Cd, TI, As, Pb, Cr, Cu, Ni ve Zn) için yılda birden fazla ölçümün
+bu Tüzüğe ekli Ek-IV’te belirtilen emisyon sınır değerlerini aşmaması. Eğer işletmeci
+yılda 20'den fazla numune topluyorsa bu numunelerin en fazla % 5'i bu Tüzüğe ekli
+
+Ek-IV’te belirtilen emisyon sınır değerlerini aşabilir.
+
+(C) Dioksinler ve furanlar için ölçüm değerlerinin bu Tüzüğe ekli Ek-IV’te belirtilen
+
+emisyon sınır değerini aşmaması.

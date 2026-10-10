@@ -1,0 +1,687 @@
+[SAYFA 1]
+Se
+KUZEY KIBRIS TÜRK CUMHURİYETİ
+RESMİ GAZETE
+Sayı : 89 EK Hİ 28 Haziran, 2019
+TEBLİĞ VE İLANLAR
+
+Sayı : 475
+
+ELEKTRONİK HABERLEŞME YASASI
+(6/2012, 21/2014, 39/2016, 27/2019 ve 31/2019 Sayılı Yasalar)
+Madde 84, 85 ve 94 Altında Yapılan Tüzük
+
+Kuzey Kıbrıs Türk Cumhuriyeti Bakanlar Kurulu, Elektronik Haberleşme Yasası'nın
+
+84tüncü, 85'inci ve 94'üncü maddelerinin kendisine verdiği yetkiye dayanarak aşağıdaki
+Tüzüğü yapar:
+
+Kısa İsim 1. Bu Tüzük, “Elektronik Haberleşme Sektöründe Kişisel Verilerin
+
+İşlenmesi ve Gizliliğinin Korunması Hakkında Tüzük” olarak
+isimlendirilir.
+
+(1231)
+
+[SAYFA 2]
+Tefsir
+
+1257
+
+BİRİNCİ KISIM
+Genel Kurallar
+
+Bu Tüzükte metin başka türlü gerektirmedikce:
+
+“Abone”, bir elektronik haberleşme sağlayıcı ile elektronik
+haberleşme hizmetinin sunumuna yönelik olarak yapılan bir
+sözleşmeye taraf olan gerçek ya da tüzel kişiyi anlatır.
+
+“Acil yardım çağrıları”, ulusal ve uluslararası düzenlemelerde kabul
+görmüş yangın, sağlık, doğal afetler ve güvenlik gibi acil durumlarla
+ilgili olarak itfaiye, polis, sağlık ve benzeri kuruluşlara yardım
+talebiyle yapılan çağrıları anlatır.
+
+“Anonim hâle getirme”, kişisel verilerin, başka verilerle
+eşleştirilerek dahil hiçbir surette kimliği belirli veya belirlenebilir bir
+gerçek kişiyle ilişkilendirilemeyecek hâle getirilmesini anlatır.
+“Elektronik Haberleşme Sağlayıcı/Haberleşme Sağlayıcı”, bir
+elektronik haberleşme * şebekesinin operatörü veya elektronik
+haberleşme (o hizmetleri saglayan © tüzel kişiyi anlatir ve
+Telekomünikasyon Dairesini de kapsar.
+
+“Gerçekleşmeyen arama”, başarılı bir şekilde bağlantı kurulmasına
+rağmen haberleşmenin gerçekleşmemesini anlatır.
+
+“Hücre kimliği”, mobil telefon çağrısının başladığı ya da sona erdiği
+hücrenin kimliğini anlatır.
+
+“TMEX”, mobil cihazlara ait uluslararası elektronik kimliğini anlatır.
+“TMSF”, mobil abonelere ait uluslararası mobil abone kimliğini
+anlatır.
+
+“İnternet Telefonu Hizmeti”, ses sinyallerinin IP üzerinden
+taşınması sureti ile yapılan telefon görüşmesini anlatır.
+
+“IP (İnternet Protokolü)”, belirli bir ağa bağlı cihazların birbirini
+tanımak ve birbirleriyle iletişim kurmak için kullandıkları protokolü
+anlatır.
+
+“İşlem kaydı”, kişisel verilere erişen kişiler tarafından yapılan
+işlemin, işlemin gerçekleştiği tarihten sonra
+tanımlanabilmesini teminen tutulan ve asgari olarak işlem, işlemin
+detayı, işlemi yapan kişi, işlemin yapıldığı tarih ve zaman ile işlemi
+yapan kişinin bağlandığı nokta bilgilerini içeren elektronik kayıtları
+anlatır.
+
+[SAYFA 3]
+6/2012
+21/2014
+39/2016
+27/2019
+31/2019
+
+Amac
+
+Kapsam
+
+tw
+
+“Kisisel veri”, kimligi belirli veya kimligi belirlenebilir bir gercek
+kişiye ilişkin tüm bilgileri anlatır.
+
+“Kişisel veri ihlali”, yasa dışı, yetki dışı ya da istem dışı olarak; kişisel
+verilerin tahrip edilmesine, silinmesine, kaybolmasına, iletilmesine,
+değiştirilmesine, o depolanmasına veya başka bir ortama
+kaydedilmesine, işlenmesine, ifşa edilmesine ve söz konusu verilere
+erişilmesine neden olan güvenlik ihlalini anlatır.
+
+“Kişisel verilerin işlenmesi” veya “İşleme”, kişiye ilişkin tim
+verilerin, toplanması, kaydedilmesi, işlenmesi, saklanması, silinmesi,
+değerlendirilmesi, kullanılması, uyarlanması veya değiştirilmesi,
+durdurulması, yok edilmesi gibi işlevlerden herhangi birisinin,
+birkaçının veya hepsinin, herhangi bir yöntem ve araç kullanılarak
+uygulanmasını anlatır.
+
+“Konum verisi”, elektronik haberleşme hizıneti kullanıcısına ait bir
+cihazm coğrafi konumunu belirleyen ve elektronik haberleşme
+şebekesinde veya elektronik haberleşme hizmeti aracılığıyla işlenen
+belirli veriyi anlatır,
+
+“Kullanıcı”, bir abone olsun veya olmasın, elektronik haberleşme
+hizmetleri kullanan herhangi bir gerçek veya tüzel kişiyi anlatır.
+“Kullanıcı kimliği”, internet erişim hizmetlerine ya da internet
+haberleşme hizmetlerine abonelik ya da kayıt esnasında tahsis edilen
+tek ve kişiye özel tanımlamayı anlatır.
+
+“Kurul”, Bilgi Teknolojileri ve Haberleşme Kurumunun Yönetim
+Kurulunu anlatır.
+
+“Kurum”, Bilgi Teknolojileri ve Haberleşme Kurumunu anlatır,
+“NAT (Ağ Adresi Dönüştürme)”, şebekede taşınan IP paketlerindeki
+gerçek IP adreslerini farklı tekniklerle yerel şebekede farklı IP
+adreslerine ve portlara dönüştürerek gerçek IP adres havuzunun
+verimli bir şekilde kullanılmasını sağlayan teknolojiyi anlatır.
+“Trafik verisi”, bir elektronik haberleşme şebekesinde veri iletimi
+veya faturalama amacıyla işlenen her türlü veriyi anlatır.
+
+“Veri”, abone ya da kullanıcıyı teşhis etmek için yararlanılan trafik
+verisi, konum verisi ya da ilgili diğer bilgileri anlatır.
+
+“Yasa”, Elektronik Haberleşme Yasası'nı anlatır,
+
+“Zaman Damgası”, bir elektronik verinin, üretildiği, değiştirildiği,
+gönderildiği, alındığı veya kaydedildiği zamanın tespit edilmesi
+amacıyla, elektronik sertifika hizmet sağlayıcısı tarafından elektronik
+imzayla doğrulanan kaydı anlatır.
+
+Bu Tüzüğün amacı, elektronik haberleşme sektöründe kişisel verilerin
+işlenmesi, saklanması ve gizliliğinin korunması için elektronik
+haberleşme sektöründe faaliyet gösteren haberleşme sağlayıcıların
+uyacakları usul ve esasları düzenlemektir.
+
+(1) Elektronik haberleşme sektöründe kişisel verilerin işlenmesi,
+saklanması ve gizliliğinin korunması için elektronik haberleşme
+sektöründe faaliyet gösteren elektronik haberleşme sağlayıcıların
+uyacakları usul ve esaslar bu Tüzük kapsamındadır.
+
+[SAYFA 4]
+Kişisel
+Verilerin
+İşlenmesine
+İlişkin İlkeler
+
+89/2007
+
+Güvenlik
+
+89/2007
+
+1234
+
+(2) Haberleşmenin içeriğine ilişkin verilerin saklanması bu Tüzüğün
+kapsamma dâhil değildir.
+
+İKİNCİ KISIM
+Uygulama Esasları
+
+Elektronik o haberleşme (hizmetlerinin (sunulması kapsamında
+gerçekleştirilen kişisel veri işleme faaliyetleri bakımından Kişisel
+Verilerin Korunması Yasası'nın (5)inci ve (6)'ncı maddelerinde
+düzenlenmiş ilkeler ve yasal işleme şartları esas alınır,
+
+(1) Haberleşme sağlayıcılar, bu Tüzüğün (5'inci maddesinde
+belirtilen ilkeler çerçevesinde kişisel verilerin işlenmesine ilişkin
+olarak güvenlik politikalarını belirler. Elektronik haberleşme
+sağlayıcılar, ilgili güvenlik sistemlerini uygulamanın maliyetini
+ve en yeni teknik olanaklar dikkate alınarak muhtemel risklere
+uygun bir düzeyde, kendi şebeke ve hizmetlerinin güvenliğini
+korumak için gerekli olan bütün teknik ve idari tedbirleri alır,
+
+(2) Haberleşme sağlayıcılar, kişisel -verilere sadece yetkili kişiler
+tarafindan  erişilebilmesini ve kişisel verilerin saklandığı
+sistemlerin ve kişisel verilere erişim sağlamak için kullanılan
+yazılım ve donanımların güvenliğini sağlamakla yükümlüdür.
+
+(3) Haberleşme sağlayıcılar, kişisel verilere ve kişisel verilerin
+işlendiği sistemlere yapılan erişimlere ilişkin işlem kayıtlarını
+zaman damgalı olarak saklamakla yükümlüdür.
+
+(4) Kurum, kişisel verilerin gizliliğinin ve güvenliğinin korunması
+amacıyla gerekli gördüğü hallerde haberleşme sağlayıcılardan,
+kişisel verilerin işlendiği sistemlere ve bu sistemlerde alınan
+güvenlik tedbirlerine ilişkin tüm bilgi ve belgeleri isteyebilir,
+ayrıca söz konusu güvenlik tedbirlerinde değişiklik talep edebilir,
+
+6) Yürülükteki mevzuat ve bu tüzük kapsamında kişisel verilerin
+gizliliği, güvenliği, bütünlüğünün sağlanmasından ve amaci
+doğrultusunda (o kullanılmasının O temininden haberleşme
+sağlayıcılar sorumludur.
+
+(6) Haberleşme sağlayıcılar, kişisel verilerin toplanması aşamasında,
+bilgiye konu kişi eğer gerekli bilgiye halihazırda sahip değilse,
+Kişisel Verilerin Korunması Yasasının (13)üncü maddesi
+uyarınca gerekli bilgilendirmeyi yapmakla yükümlüdür.
+
+[SAYFA 5]
+Riskin ve 7,
+Kişisel Veri
+İhlalinin
+Bildirilmesi
+
+Gizlilik ve 8.
+Veri Koruma
+
+1235
+
+(7) Haberleşme sağlayıcılar, web siteleri üzerinde asgari olarak (6)'ncı
+fıkradaki hususları içeren bir gizlilik politikası yayımlamakla
+yükümlüdür.
+
+(1) Haberleşme sağlayıcılar, şebekenin ve kişisel verilerin güvenliğini
+ihlal eden belirli bir risk olması durumunda bu risk hakkında
+Kurumu ve etkilenen abone ve kullanıcıları, Kurum tarafından
+gerekli görülmesi halinde ise diğer abonelerini ve kullanıcılarını
+etkin ve hızlı bir şekilde bilgilendirmekle yükümlüdür.
+
+(2) Bu riskin haberleşme sağlayıcıların tarafından alınan tedbirlerin
+dışında kalması halinde, söz konusu riskin kapsamı ve giderilme
+yöntemleri hakkında riskten etkilenmesi muhtemel abone veya
+kullanıcı ve/veya tim abonelerin veya kullanıcıların etkin ve hızlı
+bir şekilde bilgilendirilmesi sağlanır.
+
+(3) Kişisel veri ihlali bulunması halinde haberleşme sağlayıcıları,
+kişisel veri ihlalinin niteliğine, daha fazla bilginin elde
+edilebileceği iletişim noktalarına ve ihlalin olumsuz etkilerini
+azaltmak için aboneler veya kullanıcılar tarafindan almabilecek
+önlemlere ve maliyetlerine ilişkin olarak aboneleri ve/veya
+kullanıcıları ücretsiz bir şekilde bil gilendirir.
+
+(4) Haberleşme sağlayıcıları, kişisel veri ihlali olması durumunda söz
+konusu ihlalin niteliği ve sonuçları hakkında abonelere ve/veya
+kullanıcılara yapılacak bilgilendirmenin detayları ve ihlalin
+giderilmesi için alınan tedbirlere ilişkin olarak Kurumu
+bilgilendirir.
+
+(5) Haberleşme sağlayıcıları, gerçekleşen kişisel veri ihlallerine ilişkin
+olarak söz konusu ihlalin sebeplerini, etkilerini ve çözüme yönelik
+tedbirleri içeren bilgileri gizliliğini ve bütünlüğünü sağlayarak
+kaydeimekle yükümlüdür.
+
+ÜÇÜNCÜ KISIM
+Verilerin İşlenmesi ve Saklanması
+
+(1) Elektronik haberleşme ve ilgili trafik verisinin gizliliği esas olup
+bu maddenin (2)'nci fıkrasında öngörülen istisnai durum hariç
+olmak üzere haberleşmeye taraf olan kullanıcıların tamamının
+şüpheye sebebiyet vermeyecek şekilde onay vermesi dışında
+aralarındaki haberleşme dinlenemez, depolanamaz, kesilemez ve
+takip edilemez.
+
+(2) Yasa'nın 84'üncü maddesinde yer alan şartlar dışında kendi
+aralarında haberleşme yapan kullanıcılardan başka hiç kimse,
+onların rızası olmadan aralarındaki haberleşmeyi dinleyemez,
+depolayamaz veya engelleyemez,
+
+[SAYFA 6]
+Trafik
+Verisinin
+İşlenmesi
+
+89/2007
+
+ay
+bo
+62
+ON
+
+(3) Elektronik haberleşme şebekeleri, abonelerin veya kullanıcıların
+
+(1)
+
+terminal donanımında bilgi saklamak veya saklanan bilgilere
+erişim sağlamak amacıyla elektronik haberleşme sağlayıcılar
+tarafından ancak ilgili abonelerin veveya kullanıcıların
+verilerinin işlenmesi hakkında açık ve kapsamlı olarak
+bilgilendirilmeleri ve rızalarının alınması kaydıyla kullanılabilir.
+
+Ancak bir elektronik haberleşme şebekesi üzerinden bir
+haberleşmenin gerçekleştirilmesi veya kolaylaştırılması amacıyla
+veya abone ve/veya kullanıcı tarafından açıkça talep edilen bir
+bilgi toplumu hizmetini sunmak için gerekli olan herhangi bir
+teknik depolama veya erişim bu kapsama girmez.
+
+Trafik verileri, bu Tüzüğün 19'nci maddesinde belirtilen
+yükümlülüklere halel gelmeksizin aramanm bitimiyle birlikte
+silinir veya anonim hale getirilir. Trafik verileri, trafiğin
+yönetimi, arabağlantı, Oo faturalama, _usulsiizliik ve/veya
+dolandırıcılık tespitleri ve benzeri işlemleri gerçekleştirmek veya
+tüketici şikâyetleri ile arabağlantı ve faturalama anlaşmazlıkları
+başta olmak üzere, uzlaşmazlıkların çözümü amacıyla sadece
+haberleşme sağlayıcı tarafından yetkilendirilen kişilerle sınırlı
+kalmak kaydıyla işlenir ve bu uzlaşmazlıkların çözüm süreci
+tamamlanıncaya kadar gizliliği ve bütünlüğü sağlanarak saklanır.
+
+(2) Elektronik haberleşme hizmetlerini pazarlamak veya katma değerli
+
+(3)
+
+(4)
+
+(5)
+
+elektronik haberleşme hizmetleri sunmak amacıyla ihtiyaç
+duyulan trafik verileri, anonim hale getirilerek veya ilgili
+abonelerin ve/veya kullanıcıların işlenecek trafik verileri, işleme
+amacı ve süresi hakkında Kişisel Verilerin Korunması Yasası'nın
+13'üncü maddesi uyannca bilsilendirilmelerinden sonra
+onaylarının alınması ve sadece elekironik haberleşme sağlayıcı
+tarafından yetkilendirilen kişilerle sınırlı kalmak kaydıyla,
+belirtilen faaliyetlerin gerektirdiği ölçü ve sürede işlenebilir.
+
+Abone ve/veya kullanıcı, kabul ettiği trafik verilerinin işlenmesinin
+durdurulmasını ve silinmesini işbu tüzük ve yürürlükteki mevzuat
+kuralları saklı kalmak kaydıyla herhangi bir zamanda talep
+edebilir.
+
+Kurum ve Kişisel Verileri Koruma Kurulu, elektronik haberleşme
+sağlayıcılarından yukarıdaki (1)'inci fıkrada öngörülen kurallara
+uygunluğunu denetlemek amacıyla ellerinde bulunan ilgili
+herhangi bir bilgiyi vermelerini talep edebilir. Elektronik
+haberleşme sağlayıcısı, talep edilen bilgiyi verdikten sonra konuyla
+ilgili herhangi başka bir bilgi elde ederse bu bilgiyi de Kuruma
+vermekle yükümlüdür.
+
+Elektronik haberleşme sağlayıcılar abonelerin veya kullanıcıların,
+kısa mesaj, çağrı merkezleri, intemet ve benzeri yöntemlerle
+
+[SAYFA 7]
+Konum
+Verisinin
+İşlenmesi
+
+Trafik ve
+Konum
+Verilerinin
+Diğer
+Ülkelere
+Aktarılması
+89/2007
+
+1237
+
+vermiş oldukları onayı aynı yöntem ya da basit bir yöntem ile her
+zaman ücretsiz olarak geri almalarına imkân sağlar.
+
+10. (1) (A) Elektronik haberleşme şebekelerinin veya elektronik
+
+haberleşme hizmetlerinin kullanıcıları veya abonelerine
+ait trafik verileri hariç olmak üzere, konum verilerinin
+işlenebileceği hallerde, bu veriler ancak anonim hale
+getirildikten sonra veya bir katma değerli hizmetin
+sağlanması için gerekli olan ölçüde ve gerekli olan süreyle
+kullanıcılar veya abonelerin onayıyla işlenebilir.
+
+(B) İlgili haberleşme sağlayıcı, kullanıcılara veya abonelere,
+onların rızasını almadan önce, trafik verileri hariç olmak
+üzere, işlenecek konum verilerinin türü, işlenme amacı ve
+süresi, katma değerli hizmetin sağlanması için verilerin
+üçüncü bir tarafa iletilip iletilmeyeceği hakkında bilgi verir.
+
+(C) Kullanıcılar veya aboneler, trafik verileri hariç, konum
+verilerinin işlenmesini, istedikleri zaman engelleyebilir,
+
+Trafik verileri hariç konum verilerinin işlenmesi için kullanıcılar
+veya abonelerin oluru alındığı takdirde, kullanıcı veya abone,
+basit bir yöntemle ve ücretsiz olarak, şebekeye her bağlantı için
+veya bir haberleşmenin her iletimi için bu verilerin işlenmesini
+geçici olarak reddetme olanağına sahip olmaya devam eder,
+
+Bu madde kuralları uyarınca trafik verileri hariç konum
+verilerinin işlenmesi, elektronik haberleşme şebekesi veya
+elektronik haberleşme hizmetini sağlayan kurumun veya katma
+değerli hizmeti sağlayan üçüncü tarafin yetkisiyle hareket
+etmekte olan kişilerle sınırlı tutulur ve katma değerli hizmeti
+sağlamak için gerekli olan ölçüyle kısıtlanır.
+
+Elektronik haberleşme (sağlayıcılar abonelerin ve/veya
+kullanıcıların, konum verilerinin işlenmesi için kısa mesaj, çağrı
+merkezleri, intemet ve benzeri yöntemlerle vermiş oldukları
+onayı aynı yöntem ya da basit bir yöntem ile her zaman ücretsiz
+olarak geri almalarına imkân sağlar.
+
+(1) Kişisel Verilerin Korunması Yasasının ilgili hükümleri saklı
+
+kalmak kaydıyla, trafik ve konum verileri ile bu Tüzüğün (12)'nci
+maddesinde yer alan veriler, ancak Kuruma bildirim yapılması
+koşuluyla yurt dışına aktarılabilir. Kurum, milli güvenlik ve kamu
+düzeni açısından anılan bilgilerin yurt dışına aktarılmasının geçici
+ya da sürekli olarak durdurulmasını talep edebilir.
+
+) Bu Tüzüğün (12)'nci maddesi uyarınca elektronik haberleşme
+
+sağlayıcıları tarafından saklanması öngörülen verilerin gerçek
+zamanlı olarak güncellenen güncel bir kopyası daima yurtiçinde
+saklanır.
+
+[SAYFA 8]
+sy
+
+(3) Uluslararası çağrılara ilişkin bilgiler ile bazı elektronik haberleşme
+hizmetlerinin sunulabilmesi için gerekli olan mobil telefon numara
+(MSISDN) bilgisi teknik zorunluluk kapsamında Kuruma bildirim
+gerekmeksizin yurt dışına çıkarılabilir.
+
+Saklanacak 12. (1) Bu Tüzük kapsamında elektronik haberleşme sağlayıcılar
+Veri tarafından aşağıda belirtilen kategorilerdeki veriler saklanır.
+Kategorileri
+(A) Abone, hizmet türüne göre, faturalama ve ara bağlantı
+ödemeleri amacıyla faturaya itiraz edilmesi veya bir
+ödemenin takip-edilmesi için:
+Abone istasyonunun tanımlama numarası; abonenin adresleri
+ve istasyon tipi; muhasebe dönemi için fatura edilecek
+birimlerin toplam sayısı; aranan abone numarası; yapılan
+aramaların tipi, başlama zamanı ve süresi veya iletilen veri
+hacmi; internet hizmetine ait erişimin başlama zamanı, süresi
+ve iletilen veri hacmi; arama veya hizmet tarihi; ve peşin
+ödemeler, taksitle yapılan ödemeler, bağlantı kesme ve
+uyarılar gibi diğer bilgiler.
+
+(B) Haberleşmenin takibi ve kaynağının tanımlanması için:
+
+(a) Sabit ve mobil telefon hizmetleriyle ilgili olarak;
+gerçekleşmeyen aramalar da dâhil olmak üzere
+haberleşmenin başlatıldığı hatta ait telefon numarası,
+abonenin adı ve adresi, hattın hangi tarihte hangi
+aboneye tahsis edildiğine ait bilgi.
+
+(b) İnternet ortamına erişim ve internet telefon hizmeti ile
+ilgili olarak; tahsis edilmiş kullanıcı kimliği ve/veya
+telefon numarası, haberleşmenin gerçekleştiği andaki
+intemet protokol adresi, abonenin/kullanıcının adı ve
+adresi.
+
+(C) Haberleşmenin sonlandırılacağı noktayı belirlemek için:
+
+(a) Sabit ve mobil telefon hizmetleriyle ilgili olarak;
+haberleşmenin sonlandırıldığı ve/veya sonlandırılacağı
+numara veya numaralar ve şebeke içi sonlandırmalarda
+abonenin adı ve adresi, şebeke içindeki çağrı iletme ve
+çağrı transferi gibi ek hizmetlerin olması durumunda
+çağrmın yönlendirildiği numara veya numaralar ve
+ayrıca âbonelerin adı ve adresi.
+
+(b) Internet telefon hizmeti ile ilgili olarak; internet telefon
+hizmeti ile aranan alıcılara ait kullanıcı kimliği veya
+telefon numarası, intemet telefonu alıcılarının adı ve
+adresi,
+
+[SAYFA 9]
+1239
+
+(c) Internet hizmetine erişim ile ilgili olarak; haberleşmenin
+sonlandığı her noktaya ait IP adresi.
+
+(Ç) Haberleşmenin tarihi, zamanı ve süresini belirlemek için:
+
+(a) Sabit ve mobil telefon hizmetleriyle ilgili olarak;
+haberleşmenin başlangıç ile bitiş tarih ve zamanı.
+
+(b) İnternet erişimi ve internet telefonu ile ilgili olarak;
+internet erişimi ile ilgili oturum açma, kapatma tarihi
+ve zamanı, tahsis edilen dinamik veya statik IP adresi,
+NAT kullanılan şebekelerde IP adresi yanında port
+bilgisi, abone/kullanıcı kimliği veya internet telefonu
+ile ilgili oturum açma ile kapatma tarihi ve zamanı.
+
+(D) Haberleşmenin türünü tanımlamak için:
+
+(a) Sabit ve mobil telefon hizmetleriyle ilgili olarak
+kullanılan elektronik haberleşme hizmeti.
+
+(b) İnternet telefonu ile ilgili olarak kullanılan internet
+hizmeti.
+
+(e) İnternet hizmeti ile ilgili olarak; kullanılan hizmetin türü.
+
+(E) Kullanıcıların haberleşme cihazlarını veya bunların
+ekipmanlarını tanımlamak için:
+
+(a) Sabit telefon hizmetiyle ilgili olarak haberleşmenin
+başlatıldığı ve sonlandırıldığı telefon numaraları,
+
+(b) Mobil telefon hizmetiyle ilgili olarak; haberleşmenin
+başlatıldığı ve sonlandırıldığı telefon numaraları,
+haberleşmenin — başlatıldığı © ve/veya haberleşme
+sağlayıcının kendi abonesi oOolması (halinde
+sonlandırıldığı tarafa ait IMSI ve IMEI numaraları;
+abone kaydı olmayan arama kartlı hizmetlerin olması
+durumunda hizmetin aktif hale getirildiği tarih ve
+zaman ile hizmetin aktif hale getirildiği hücre kimli ği.
+
+(c) Internet ortamına erişim ve internet telefonu ile ilgili
+olarak; çevirmeli ağ erişimi için arayan telefon
+numarası, Sayısal abone hattı numarası ya da
+haberleşmenin kaynaklandığı diğer nokta.
+
+(F) İlgili mevzuatın öngördüğü hallerde mobil haberleşme
+cihazının konumunu tespit etmek için; haberleşmenin
+başladığı hücre kimliği, haberleşme verilerinin saklandığı
+sürede hücre kimlikleri ile ilgili olarak hücrelerin coğrafi
+
+[SAYFA 10]
+1240
+
+konumlarını tanımlayan veri, hücre adresi ve hücre
+kimliğinin o adrese atanma ve kaldırılma tarihleri.
+
+(2) Bu Tüzük kapsamında intemet telefonu ile ilgili olarak
+verilerin saklanmasına ilişkin getirilen yükümlülükler,
+sadece elektronik haberleşme sağlayıcıların kendilerinin
+sundukları hizmetler ile sınırlıdır.
+
+(3) Elektronik haberleşme sağlayıcılar tarafından toplu kısa
+
+> mesaj gönderimlerinde gerçek veya tüzel kişiye ait abone
+bilgileri saklanır.
+
+Elektronik 13. (1) Bu Tüzüğün 12'nci maddesinin (1 Yinci fıkrasının (A) bendinde yer
+
+Haberleşme alan veriler, ilgili yükümlülüklere ilişkin öngörülen yasal sürenin
+Sağlayıcıların bitimine kadar saklanır.
+
+Veri Saklama
+
+Süreleri (2) İlgili mevzuatta geçen hukuki zaman aşımı hükümleri saklı kalmak
+
+kaydıyla bu Tüzüğün 12'nci maddesi kapsamında tanımlanan veri
+kategorileri, haberleşmenin yapıldığı tarihten itibaren en az 2 (iki)
+yıl süre ile gerçekleşmeyen aramalara ilişkin kayıtlar ise 6 (altı)
+ay süre ile saklanır. '
+
+(3) Soruşturma, inceleme, denetleme veya uzlaşmazlığa konu olan
+kişisel veriler, kendilerine bildirildiği tarihten itibaren ilgili süreç
+tamamlanıncaya kadar saklanır.
+
+(4) Kişisel verilere ve kişisel verilerin işlendiği sistemlere yapılan
+erişimlere ilişkin işlem kayıtları iki yıl saklanır.
+
+(5) Kişisel verilerin işlenmesine yönelik abonelerin/kullanıcıların
+rızalarını gösteren kayıtlar asgari olarak abonelik süresince
+
+saklanır.
+Saklanan 14. (1) Bu Tüzük kapsamında saklanması öngörülen veriler için elektronik
+Verilerin haberleşme sağlayıcılar asgari olarak;
+Korunması
+ve Güvenliği (A) Saklanan veriler ile şebekedeki diğer verilerin aynı kalite,
+
+güvenlik ve koruma özelliklerine tabi olmasını,
+
+(B) Saklanan verilerin, yasa dışı, yetki dışı ya da istem dışı,
+erişim, tahrip, kayıp, silinme değişiklik, depolama, işleme
+ve ifşasına karşı uygun teknik ve idari tedbirlerin
+alınmasını, :
+
+(C) Verilerin yalnızca yetkilendirilmiş kişiler tarafından
+erişilebilir olmasının sağlanması için uygun teknik ve idari
+tedbirlerin alınmasını,
+
+[SAYFA 11]
+(2)
+
+1241
+
+(Ç) İşlenen ve saklanan verinin, saklama süresinin bitiminden
+İtibaren en geç bir ay içinde geri döndürülemeyecek şekilde
+silinmesi veya anonim hale getirilmesi ve bu işlemlerin
+tutanakla veya elektronik ortamda zaman damgalı olarak
+kayıt altına alınmasını sağlamakla yükümlüdür,
+
+Elektronik haberleşme sağlayıcılar sundukları hizmetler
+kapsamında elde ettikleri verilerin bütünlüğünü, gizliliğini ve
+erişilebilirliğini her aşamada sağlamakla yükümlüdür. Bu
+yükümlülük elektronik haberleşme sağlayıcılar tarafından
+yetkilendirilmiş taraflar marifetiyle yapılan işlemleri de kapsar.
+
+Elektronik haberleşme sağlayıcılar, yasaların yetkili kıldığı
+mercilerce talep edilmesi halinde, saklanan veri ve söz konusu
+veriye ilişkin gerekli tüm bilgileri gecikmeksizin sağlamakla
+yükümlüdür.
+
+DÖRDÜNCÜ KISIM
+Sağlanan İmkanlar
+
+Numaranın 15. (1) Elektronik haberleşme sağlayıcı, arayan numaranın görünmesine
+
+Gizlenmesi
+
+(2)
+
+(3)
+
+imkân sağladığı durumlarda;
+
+(A) Arayan kullanıcıya basit bir yöntemle ve ücretsiz olarak
+numarasını gizleme imkânı sağlamakla,
+
+(B) Aranan aboneye basit bir yöntemle ve ücretsiz olarak, gelen
+aramalarda arayan numaranın gösterilmesini engelleme
+imkânı sağlamakla,
+
+(C) Arayan kişinin numarasını eizlemesi halind., aranan
+abonenin/kullanıcınm isteğine bağlı ve ücretsiz olarak,
+gelen aramaların abone/kullanıcı tarafından reddedilmesine
+imkân sağlamakla yükümlüdür.
+
+Elektronik haberlegme o sağlayıcı, bağlantılı numaranin
+görünmesine imkân sağladığı durumlarda, bağlanılan aboneye
+basit bir yöntemle ve ücretsiz olarak, bağlantılı numaranın
+arayan kullanıcıya gösterilmesini engelleme imkânı sağlamakla
+yükümiüdür.
+
+Elektronik haberleşme sağlayıcı, bu maddenin birinci ve ikinci
+fıkrasında belirtilen hizmet imkânları hakkında
+abonelerini/kullanıcılarını kısa mesaj, intemet, basın, yayın
+organları, posta veya 'benzeri araçlarla ücretsiz olarak
+bilgilendirmekle yükümlüdür.
+
+[SAYFA 12]
+Ayrıntılı
+Faturalarda
+Gizlilik
+
+Abonenin
+Diğer
+Hakları
+89/2007
+
+Geçici Madde
+Güvenlik
+
+İdari Para
+Cezaları ve
+Diğer
+Yaptırımlar
+
+Yürütme
+
+Yürürlük
+
+16.
+
+He
+
+4
+
+19,
+
+1242
+
+(4) Arayan numaranın gizlenmesi imkânı, acil yardım çağrıları için
+geçerli değildir.
+
+Elektronik haberleşme sağlayıcılar, ayrıntılı fatura gönderdikleri
+abonelerin talep etmeleri halinde, fatura ayrıntısmda yer alan telefon
+numaralarının bazı rakamlarının gizlenmesini sağlar,
+
+Abone ve Kullanıcıların Kişisel Verilerin Korunması Yasası'nın 14,
+15, 16 ve 17'inci maddesinde yer alan hakları saklıdır.
+
+BEŞİNCİ KISIM
+Geçici ve Son Kurallar
+
+Elektronik Haberleşme sağlayıcılar, işbu Tüzüğün 6'nci maddesinin
+belirtilen ve güvenlik sistemleri için gerekli olan bütün teknik ve idari
+tedbirleri, bu Tüzüğün yürürlülüğe girdiği tarihten başlayarak 18 (on
+sekiz) ay içerisinde gerçekleştirmekle yükümlüdür,
+
+Elektronik haberleşme sağlayıcılara, bu Tüzük ile belirlenen
+yükümlülükleri yerine getirmemeleri halinde Yasa'nın ilgili
+maddeleri uyarınca Kurum, idari para cezaları ve diğer yaptırımlar
+koyar.
+
+Bu Tüzük elektronik haberleşmeden sorumlu Bakanlık tarafından
+yürütülür,
+
+Bu Tüzük, Resmi Gazetede yayımlandığı tarihten başlayarak
+yürürlüğe girer,

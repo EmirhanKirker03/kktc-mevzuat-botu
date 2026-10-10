@@ -1,0 +1,587 @@
+[SAYFA 1]
+Sayı : 397
+
+1315
+
+ELEKTRONİK HABERLEŞME YASASI
+(6/2012 ve 21/2014 Sayılı Yasalar)
+
+© Madde 8, 18, 28 Altında Yapılan Tüzük
+
+Kuzey Kıbrıs Türk Cumhuriyeti Bakanlar Kurulu, Elektronik Haberleşme Yasası'nın 8'inci,
+18'inci, 28'inci maddelerinin kendisine verdiği yetkiye dayanarak aşağıdaki Tüzüğü yapar:
+
+Kısa İsim
+
+Tefsir
+
+6/2012
+21/2014
+Amaç
+
+Kapsam
+
+İlkeler
+
+1. Bu Tüzük, “Bilgi Teknolojileri ve Haberleşme Kurumu ile Bilgi
+Teknolojileri ve Haberleşme Kurumu Yönetim Kurulu Çalışma ve
+Denetim Usul ve Esasları Tüzüğü” olarak isimlendirilir.
+
+BİRİNCİ KISIM
+Genel Kurallar
+
+2. Bu Tüzükte metin başka türlü gerektirmedikçe:
+
+“Bakanlık”, Elektronik haberleşmeden sorumlu Bakanlığı anlatır.
+“Başkan”, Bilgi Teknolojileri ve Haberleşme Kurulu Başkanı'nı anlatır.
+“Başkan Yardımcısı”, Bilgi Teknolojileri ve Haberleşme Kurulu Başkan
+Yardımcısı”nı anlatır.
+
+“Denetçi”, Yasa ve diğer yasa kuralları uyarınca Kurumun denetimine
+tabi olan gerçek veya tüzel kişileri denetlemekle görevlendirilen Hizmet
+Birimi personelini veya mevzuat kuralları uyarınca Kurum tarafından
+yetkilendirilen teknik bilgi ve/veya mühendislik bilgisi, ekonomi, hukuk,
+muhasebe veya finans alanlarında uzman üçüncü kişileri anlatır.
+“Soruşturma Raporu”, Bu Tüzük ile belirlenen inceleme veya soruşturma
+süreçleri sonunda denetçi tarafından hazırlanan raporu anlatır.
+
+“Denetime Tabi Olanlar”; Bu Tüzük kapsamında Kurum tarafından
+denetim faaliyetlerine tabi tutulan gerçek ve tüzel kişi ve kurum ve
+kuruluşları anlatır.
+
+“Elektronik Haberleşme Sağlayıcı/Haberleşme Sağlayıcı”, bir elektronik
+haberleşme şebekesinin operatörü veya elektronik haberleşme hizmetleri
+sağlayan tüzel kişiyi anlatır ve Telekomünikasyon Dairesini de kapsar.
+“Hizmet Birimi”, Yasanın 12'nci maddesi ile oluşturulan birimi anlatır.
+“Kurul”, Yasa tahtında kurulan Bilgi Teknolojileri ve Haberleşme
+Kurumunun Yönetim Kurulunu anlatır.
+
+“Kurum”, Bilgi Teknolojileri ve Haberleşme Kurumunu anlatır.
+
+“Üye”, Kurul Üyelerini anlatır.
+
+“Yasa” Elektronik Haberleşme Yasası'nı anlatır.
+
+3. Bu Tüzüğün amacı, Kurul'un çalışma usul ve esasları ile Kurum
+tarafından gerceklestirilecek denetim çalışmalarına ve Kurum'un
+haberleşme sağlayıcılardan ve Yasa ile belirlenen kişi ve kurumlardan
+bilgi ve belge talep etmesine ilişkin usul ve esasları belirlemektir.
+
+4. Bu Tüzük; Kurul'un görev ve yetkileri kapsamında gerçekleştireceği
+faaliyetlere ve alacağı kararlara ilişkin çalışma usul ve esaslarını, Kurum
+tarafından gerceklestirilecek denetim çalışmaları ile haberleşme
+sağlayıcılardan ve Yasa ile belirlenen kişi ve kurumlardan bilgi ve belge
+talep edilmesinde uygulanacak süreçleri ve denetlenen tarafın hak ve
+yükümlülükleri ile ilgili usul ve esasları kapsar.
+
+5. Bu Tüzüğün uygulanmasında aşağıdaki temel ilkeler göz önüne alınır.
+
+[SAYFA 2]
+Kurulun Görev
+
+ve Yetkileri
+
+Stratejik Plan
+
+1316
+
+(1) Elektronik haberleşme hizmetlerinin düzenlenmesi ile ilgili olarak
+karar almada şeffaflık, tarafsızlık ve nesnelliğin sağlanması ve
+karar almadan önce geniş ölçüde danışma yapılması,
+
+(2) Serbest, etkin ve sürdürülebilir bir rekabet ortamının sağlanması ve
+korunması,
+
+(3) Ülkenin her yerinde, makul bir ücret karşılığında geniş kapsamlı
+elektronik haberleşme şebeke ve hizmetlerinden yararlanılmasının
+sağlanması,
+
+(4) Tüketici hak ve menfaatlerinin korunması ve gözetilmesi, kullanıcı
+memnuniyetini artırıcı ve şikâyetleri giderici uygulamaların teşvik
+edilmesi,
+
+(5) Yeni teknolojilerin geliştirilmesi ve kullanılması ve yatırımların
+teşvik edilmesi,
+
+(6) İlgili uluslararası kuruluşların düzenlemelerine uyulması.
+
+İKİNCİ KISIM
+Bilgi Teknolojileri ve Haberleşme Kurumu'nun Yönetim
+Kurulu
+
+6. (1) Kurulun görev ve yetkileri şunlardır;
+
+(A) Kurum adına karar almak;
+
+(B)Kurumun stratejik planını, performans ölçülerini, hedeflerini ve
+hizmet kalitesi standartlarını tespit etmek;
+
+(OkKurum için bir yıllık bütçe hazırlamak ve yayımlamak; bütçenin
+uygulanmasını gözlemek ve Kurumun kesin hesaplarını hazırlamak
+ve yayımlamak;
+
+(©) Yıllık çalışma planları ve yıllık raporlar hazırlamak ve yayımlamak,
+performans kriterleri ve hedeflerine göre Kurumun faaliyetlerini
+değerlendirmek;
+
+(D) Hizmet birimini yönetmek; ve
+
+. (E)Yasanın ve diğer yasaların kendisine verdiği diğer görevleri
+yapmak.
+
+(2) Kurul, Kurumun olağan idari işleri ile ilgili karar almak üzere Başkanı
+görevlendirebilir.
+
+7. (1) Kurumun stratejik hedeflerini, performans ölçütlerini ve hizmet
+kalitesi standartlarını içeren Kurum stratejik plan taslağı; Başkan
+tarafından görevlendirilen Hizmet Birimi personeli tarafından doksan
+günden fazla olmayacak bir sürede hazırlanarak Kurula sunulur.
+
+(2) Kurul, Kurum'un Yasa ile belirlenen görevlerini, Bakanlık
+politikalarını, elektronik haberleşme ile ilgili ülke içi ve yurtdışındaki
+ihtiyaçları, gelişmeleri ve öngörüleri de dikkate alarak stratejik plan
+taslağını otuz günden fazla olmayacak bir sürede değerlendirir ve gerek
+görmesi halinde gerekli değişikliklerin yapılmasından sonra, kamuoyu
+görüşüne açılmasına karar verir.
+
+(3) Kurum stratejik plan taslağı, en az otuz en fazla altmış gün olmak üzere
+Kurul tarafından belirlenecek uygun sürede kamuoyu görüşüne açılmak
+üzere Kurum resmi internet sitesinden yayınlanır.
+
+(4) Kamuoyu görüşleri kamuoyuna açılan ilgili dokümanda belirtildiği
+
+[SAYFA 3]
+Bütçe
+
+İş Planı
+
+1317
+
+şekilde (| iletilir. | Kamuoyu (o görüşlerinin (o alınması (o sürecinin
+tamamlanmasından sonra, Kurul kamuoyu görüşlerini değerlendirerek,
+stratejik plan taslağının nihai halini onaylar ve onaylanan stratejik plan
+Kurum resmi internet sitesinde yayınlanır,
+
+(5) Kurum stratejik planları üç yıllık dönemler için hazırlanır.
+
+8. (1) Uluslararası işbirliği, uyumlulaştırma ve standartlaştırma, piyasa
+analizi, uzman istihdam etme, uyumu izleme ve diğer piyasa kontrol
+çalışmaları, Yasa tahtında çıkarılacak mevzuat ve Kurumun alacağı
+kararların hazırlanması ve uygulanmasını içine alan düzenleme
+çalışmalarının maliyetleri dahil, Kurumun bütün tahmini gelir ve
+giderlerini içeren bütçe taslağı; Başkan tarafından görevlendirilen Hizmet
+Birimi personeli tarafından en geç her yılın Eylül ayının ilk haftası
+içerisinde hazırlanarak Kurula sunulur.
+
+(2) Kurul, Kurum'un Yasa ile belirlenen görevlerini ve ihtiyaçlarını göz
+önünde bulundurarak bütçe taslağını değerlendirir ve gerek görmesi
+halinde gerekli (değişikliklerin yapilmasmdan soma Bakanlığa
+gönderilmesine karar verir.
+
+(3) Kurumun bütçesi, Devletin yıllık mali bütçesinden bağımsız olur ve
+Yasada ve ilgili diğer yasalar veya tüzüklerde öngörülen muhasebe,
+raporlama ve diğer mali kurallara uygun olmak şartıyla Kurulun kontrolü
+altında Başkan tarafından yönetilir.
+
+(4) Başkan, Kurulun talebi üzerine kesin olmayan bütçe harcamaları
+konusunda Kurulu bilgilendirir.
+
+(5 Başkan, Kurulun talebi üzerine ve her durumda her yılın ilk ayı
+içerisinde, bir önceki yılın bütçesi ve harcamalara ilişkin Kurulu
+bilgilendirir.
+
+9, (1) Kurum'un bir sonraki yıl için planlanan faaliyetlerini, bunlarla ilgili
+performans kriterleri ve hedeflerini içeren Kurum iş planı taslağı, Başkan
+tarafından görevlendirilen Hizmet Birimi personeli tarafından en geç her
+yılın Eylül ayı sonuna kadar hazırlanarak Kurula sunulur.
+
+(2) Kurul, Kurum'un Yasa ile belirlenen görevlerini, Kurum stratejik
+planlarını, elektronik haberleşme ile ilgili ülke içi ve yurtdışındaki
+ihtiyaçları, gelişmeleri ve öngörüleri de dikkate alarak iş planı taslağını
+otuz gün içinde değerlendirir ve gerek görmesi halinde gerekli
+değişikliklerin yapılmasından sonra, kamuoyu görüşüne açılmasına karar
+verir.
+
+(3) Kurum iş planı taslağı, en az otuz gün olmak üzere Kurul tarafından
+belirlenecek uygun sürede kamuoyu görüşüne açılmak üzere Kurum
+internet sitesinden yayınlanır.
+
+(4) Kamuoyu görüşleri kamuoyuna açılan ilgili dokümanda belirtildiği
+şekilde ( iletilir. & Kamuoyu (o görüşlerinin alınması Oo sürecinin
+tamamlanmasından sonra, Kurul kamuoyu görüşlerini en geç otuz gün
+içinde değerlendirerek, iş planı taslağının nihai halini onaylar ve onaylanan
+iş planı Kurum resmi internet sitesinde yayınlanır.
+
+[SAYFA 4]
+Hizmet Birimi
+
+Kurul
+Toplantıları ve
+Kararları
+
+1318
+(5) Kurum iş planları yıllık olarak hazırlanır.
+
+(6) Başkan, her yılın Mart ayı sonuna kadar bir önceki yılın iş planı ile
+Kurum tarafından gerçekleştirilen faaliyetlerin değerlendirildiği taslak
+değerlendirme raporunu Kurul'a sunar. Kurul, değerlendirmeleri sonunda
+nihai faaliyet değerlendirme raporunu onaylayarak Kurum resmi internet
+sitesinde yayımlar.
+
+10. (1) Hizmet biriminin personeli Kurul tarafından işe alınır ve personelin
+hizmet şartları Kurul tarafından hazırlanacak sözleşmelerde belirlenir.
+
+(2) Hizmet birimi personeli, Kurul, Başkan ve Başkan Yardımcısı
+tarafından verilen görevleri yerine getirir.
+
+(3) Kurul, alacağı kararla Kurum'un görev ve yetkileri doğrultusunda,
+Hizmet Birimi'nin organizasyon yapısı, işe alma koşulları, personelin
+görev kapsamları ve tanımları ile iş kurallarına ilişkin usul ve esasları
+belirler ve Kurum resmi internet sitesinde yayınlar.
+
+11. (1) Kurul, olağan olarak Başkan tarafından toplantıya çağrılır. İvedi
+durumlarda ise Başkan veya en az dört üyenin imzasıyla da Kurul
+toplantıya çağrılabilir.
+
+(2) Olağan toplantılar için, Kurul toplantılarının tarihi, yeri, saati ve
+gündemi Başkan veya görevlendirdiği ilgili Hizmet Birimi Personeli
+tarafından kırksekiz saat önceden üyelere yazılı olarak veya elektronik
+ortamda duyurulur.
+
+Ancak olağanüstü toplantılar için çağrı, kırksekiz saatlik süreye
+bakılmaksızın daha kısa bir süre içinde de yapılabilir.
+
+(3) Kurul toplantıları en az ayda bir kere yapılır. Ancak her halükarda iki
+toplantı arası bir ayı aşamaz.
+
+(4) Kurul toplantılarına Başkan, yokluğunda ise Başkan Yardımcısı
+başkanlık eder.
+
+(5) Kurul, üye tamsayısının salt çoğunluğu ile toplanır. Toplantıya katılan
+üye sayısı beş veya besten az ise, karar yeter sayısı en az tig üyenin kabul
+oyudur, diğer hallerde ise karar yeter sayısı salt ço gunluktur. Kabul ve ret
+oyların eşit olması halinde Başkanın ayırt edici oyu vardır. Kurul
+toplantılarında çekimser oy karar yeter sayısı açısından dikkate alınmaz.
+
+(6) Kurul kararı tutanakla tespit edilir.
+
+(7) Kurul toplantıları gizlidir.
+
+(8) İhtiyaç duyulması hâlinde görüşlerinden yararlanmak üzere uzman
+kişiler, Kurum danışmanları, ilgili Hizmet Birimi Personeli, ilgili kamu
+kurumu ve kuruluşlarının yetkilileri ile il gili haberleşme sağlayıcıları
+yetkilileri Kurul toplantılarına davet edilebilir.
+
+(9) Kurul düzenleyici nitelikte karar almadan önce kararda yer alacak
+hususları kamuoyu görüşüne açar.
+
+(10) Kararda yer alacak hususlara ilişkin taslak metin, en az onbeş gün
+
+[SAYFA 5]
+Bilgi ve Belge
+Talebi
+
+Gizli Bilgilerin
+Korunması ve
+Kamuoyuna
+Açıklanması
+
+1319
+
+olmak üzere Kurul tarafından belirlenecek uygun sürede kamuoyu görüşü
+alınmak üzere Kurum resmi intemet sitesinden yayınlanır. Kamuoyu
+görüşü alınması süresinin tamamlanmasından sonra, Kurul kamuoyu
+görüşlerini değerlendirerek, nihai kararı alır.
+
+(11) Kurul tarafından onaylanan ikincil mevzuat taslakları ile düzenleyici
+nitelikteki kararlar Kurum resmi internet sitesinde yayımlanır; düzenleyici
+nitelikteki kararlar ayrıca Resmi Gazete'de yayımlanarak yürürlüğe girer.
+
+ÜÇÜNCÜ KISIM
+Bilgi ve Belge Toplama
+
+12. (1) Kurul, Yasa ile kendisine verilen, görevlerinin yerine getirilmesi
+için gerekli olan bilgi ve belgelerle sınırlı olmak üzere;
+
+(A) Haberleşme sağlayıcılar veya telsiz frekansı kullanıcılarından;
+
+(B) Geçmişte bir haberleşme sağlayıcısı olmuş kişilerden;
+
+(C) Yasa kuralları uyarınca yetkilerini kullanabilmesi için ihtiyaç
+duyulan bilgilere sahip olan kişilerden;
+
+(Ç) Kamu kurum ve kuruluşlar ile gerçek veya tüzel kişilerden,
+
+ihtiyaç duyacağı her türlü bilgi ve belgeyi gerekçelerini belirterek
+isteyebilir.
+
+(2) Gerçek veya tüzel kişi, kamu kurum ve kuruluşları Yasa ve Yasa'ya
+bağlı olarak hazırlanan düzenleyici işlemlerde ayrıca belirtilmediği sürece
+Kurul tarafından talep edilen bilgileri Kurul tarafından belirlenen makul
+süre içerisinde Kurula göndermekle yükümlüdür. Kurul tarafından
+belirlenen süre içerisinde gerekli bilgi ve belgelerin gönderilmesinin
+mümkün olmaması veya önemli ölçüde maliyet veya işgücü gerektirmesi
+halinde, Gerçek veya tüzel kişi, kamu kurum ve kuruluşu bilgi talebinden
+itibaren üç gün içerisinde Kurul'dan ek süre talebinde bulunabilirler. Kurul
+söz konusu talebi değerlendirip uygun bulması halinde ek süre verebilir.
+
+13. (1) Aşağıdaki bentlerde belirtilenlerin kapsamındaki bilgi, belge ve
+ticari sırlar; daha önceden kamuya açıklanmamış olmaları ve sektördeki
+diğer haberleşme sağlayıcılar tarafından öğrenilmeleri halinde zarar
+yaratma ihtimali bulunması şartıyla gizli bilgi olarak kabul edilirler.
+
+(A) Yatırım planları,
+
+(B)İş planları ve faaliyet stratejileri,
+
+(C)Pazarlama ve fiyatlandırma politikaları,
+
+(Ç) Araştırma ve geliştirme projeleri,
+
+(D)İlgili pazarda etkin piyasa gücüne sahip ve muhasebe bilgileri ile
+şeffaflık yükümlülüğü getirilmiş işletmeciler hariç olmak üzere
+bilanço ve gelir tablosu bilgileri.
+
+(2) Kurum'a, bu Tüzük uyarınca gizli bilgi kapsamındaki bilgi ve belge
+verilmesi sırasında; bilgi ve belgeyi veren gerçek veya tüzel kişi, kamu
+kurum ve kuruluşu, söz konusu bilgi ve belgelerin gizli bilgi kapsamında
+olduklarını yazılı olarak ayrıca belirterek ve diğer bilgi ve belgelerden
+ayırarak verirler.
+
+(3) Bilgi ve/veya belgelerin yazılı olarak gizli bilgi kapsamında olduğunun
+
+[SAYFA 6]
+1320
+
+belirtilmemesi halinde Kurum tarafından bu bilgi ve belgeler gizli bilgi
+olarak kabul edilmez. Söz konusu bilgi ve belgelerin gizli bilgi olarak
+belirtilmelerine rağmen bu kapsamda olup olmadıkları, bu madde kuralları
+uyarınca Kurum tarafından değerlendirilir. Kurum bilgi ve belgelerin, gizli
+bilgi olduklarının belirtilmesine rağmen, gizli bilgi kapsamında
+olmadıklarına karar vermeden önce bilgi ve belgeyi veren gerçek veya
+tüzel kişi veya kamu kurum ve kuruluşlarından konuyla ilgili yazılı görüş
+alır.
+
+(4) Kurum gizli bilgileri, Yasa, Yasa'ya bağlı olarak çıkartılacak diğer
+düzenleyici işlemler ve diğer Yasa kuralları uyarınca ve sadece gerektiği
+ölçüde bilgi verilmek suretiyle yetkili olan kamu kurumları ve/veya Kurum
+tarafından yetkilendirilen denetçiler ile paylaşır, bunun dışında üçüncü
+kişiler ve kamuoyu ile paylaşmaz. Kurum gizli bilgilerin saklanması,
+işlenmesi ve üçüncü kişilere iletilmemesi süreçlerinde gerekli güvenlik ve
+gizlilik önlemlerini alır.
+
+(5) Kurum, yukarıdaki 13'üncü Maddenin inci fıkrası ile belirlenen
+bilgiler dışındaki ve özellikle aşağıdaki bentlerde belirtilen bilgileri,
+doğrudan veya farklı sınıflandırmalar yaparak belirlenen yayın araçları ile
+uygun görülen ölçüde yayımlayabilir.
+
+(A) Mevcut ve haberleşme sağlayıcı değiştiren abone sayıları,
+(B)Trafik miktarı,
+
+(C)Net satış gelirleri,
+
+(Ç) Trafik bilgileri ve pazar payları,
+
+(D) Yapılan yatırım miktarları,
+
+(E)Personel sayısı ve bölgesel dağılımı,
+
+(F) Abone başına gelir, trafik, yatırım ve personel sayısı,
+
+(G) Hizmet kalitesi ve kapsama alanı verileri,
+
+(ED Saha ölçüm sonuçları.
+
+DÖRDÜNCÜ KISIM
+
+Bilgi Teknolojileri ve Haberleşme Kurumu Tarafından Gerçekleştirilecek Denetim
+
+İzleme ve
+Denetim
+
+Çalışmaları
+
+14. (1) Kurum re'sen veya kendisine intikal eden ihbar veya şikayet
+üzerine veya yayınlayacağı yıllık iş planı kapsamında; Yasada belirlenen
+görevleri ile ilgili olarak ön araştırma ve soruşturma safhalarında
+haberleşme sağlayıcıların izleyebilir, denetleyebilir ve denetlettirebilir.
+Kurum ilgili mevzuat kuralları ve Yasa ile belirlenen görevleri uyarınca
+farklı denetim faaliyetlerini de yürütebilir.
+
+(2) İzleme ve denetleme faaliyetleri, izleme ve denetimle görevlendirilen
+ve en az iki kişiden oluşan denetçiler tarafından gerçekleştirilebilir.
+Kurum, Yasanın kendisine verdiği görevleri yerine getirirken gerekli
+gördüğü hallerde, mahallinde de izleme, inceleme ve denetim yapabilir
+ve/veya yaptırabilir. Mülki amirler, Polis Örgütü mensupları ve diğer kamu
+kurumlarının amir ve memurlar, inceleme veya denetimle
+görevlendirilenlere, her türlü kolaylığı göstermek ve yardımda bulunmakla
+
+yükümlüdürler.
+
+(3) Denetçiler, inceleme veya denetime giderken yanlarında denetçilerin
+isimlerini, denetimin konusunu, amacını ve yanlış bilgi verilmesi halinde
+
+[SAYFA 7]
+Ön
+Araştırma
+
+Soruşturma
+
+1321
+
+idari para cezası uygulanacağını gösteren bir yetki belgesi bulundururlar.
+
+(4) Denetim süresi iki ayı geçemez ancak bu süre Kurul kararı ile toplamda
+dört aydan fazla olmayacak şekilde uzatılabilir.
+
+(5) Denetçiler, denetime tabi olanlar veya tesisleri nezdinde, her türlü
+evrak ve emtianın, elektronik ortamdaki bilgilerin, elektronik haberleşme
+alt yapısının, cihaz, sistem, yazılım ve donanımlarının incelenmesi, suret
+veya numune alınması, konuyla ilgili yazılı veya sözlü açıklama istenmesi,
+gerekli tutanakların düzenlenmesi, tesislerin ve işletiminin incelenmesi
+konularında yetkilidir.
+
+(6) Denetime tabi tutulanlar, denetçilere her türlü kolaylığı göstermek,
+yukarıda (5)'inci fıkrada belirtilen konularla ilgili taleplerini Kurul
+tarafından belirlenen süre içinde yerine getirmek, cihaz, sistem, yazılım ve
+donanımları denetlemeye açık tutmak, denetim için gerekli alt yapıyı temin
+etmek ve çalışır vaziyette tutmak için gerekli önlemleri almak zorundadır.
+
+(7) Bu madde kurallarına aykırı davrananlara Yasa ile belirlenen idari ceza
+ve/veya cezalar uygulanır.
+(8) Denetçiler, denetim sürecinde;
+
+(A)İncelenen belge ve kayıtlar üzerinde şerh, ilave veya değişiklik
+yapmamak, '
+
+(B)Donanım ve cihazı olduğu gibi muhafaza etmek,
+
+(C)Denetime tabi tutulanın yönetim ve yürütme işlerine müdahale
+etmemek,
+
+(Ç)Denetim sürecinde edindikleri bilgi ve belgelerin gizliliğini
+sağlamak,
+
+(D)Gizli bilgileri Yasa ile yetkili kılınanlardan başkasına
+açıklamamak, doğrudan veya dolaylı şekilde kendisi veya üçüncü
+kişilerin yararına kullanmamakla,
+
+yükümlüdürler.
+
+15. (1) Başkan, ihbar ve şikayet üzerine veya re'sen, gerek görmesi halinde
+ön araştırma yapılması için denetçi görevlendirebilir.
+
+(2) Görevlendirilen denetçi, görevlendirmeden itibaren on gün içerisinde
+konuyla ilgili ön araştırmaları içeren raporunu hazırlar ve yazılı
+savunmasını sunması için denetime tabi olana gönderir.
+
+(3) Denetime tabi olan, raporu almasından itibaren beş gün içerisinde yazılı
+savunmasını sunar, Süresi içinde gönderilmeyen yazılı savunma dikkate
+alınmaz.
+
+(4) Denetime tabi olanın yazılı savunmasının alınmasını müteakip, beş gün
+içerisinde denetçi ön araştırma raporunu hazırlar ve Kurul'a sunar.
+
+(5) Yukarıdaki 2'nci, 3'üncü ve 4'üncü fikralardaki sürelerin her biri,
+Başkan tarafından iki katına kadar uzatılabilir.
+
+(6) Kurul, ön araştırma raporunu otuz gün içerisinde inceleyerek,
+soruşturma açılması veya açılmaması yönünde kararını alır.
+
+16. (1) Kurum, ön araştırma sonucunda soruşturma açılmasına karar
+verilmesi durumunda veya ihlalin doğuracağı zararın yüksek olması veya
+
+[SAYFA 8]
+1322
+
+aciliyet durumunda re'sen; soruşturma açılması için yeterli sayıda denetçi
+görevlendirir.
+
+(2) Kurum soruşturmalarını açık ve şeffaf bir şekilde yürütür.
+
+(3) Soruşturma açılması kararı, denetime tabi olanlara ve şikayette
+bulunanlara yedi gün içinde bildirilir. Bildirimde, karar tarihi, soruşturma
+konusu, soruşturmanın amacı, soruşturma açılmasına yetki veren Yasa
+kuralları ve soruşturma ile ilgili talimatların yerine getirilmemesi halinde
+Yasanın öngördüğü yaptırımlar tam ve eksiksiz olarak belirtilir. Kurum
+aynca soruşturmanın kapsamını ve denetime tabi olana ilişkin bilgileri
+içeren soruşturmaya ilişkin kısa bir beyanı Kurumun resmi intenet
+sitesinde yayımlayabilir.
+
+(4) Denetçiler, soruşturma kararının alındığı tarihten başlayarak doksan
+gün içinde, soruşturma raporunu hazırlayıp Kurul üyelerine sunar. Doksan
+günlük süre, Kurul karan ile en fazla altmış gün daha uzatılabilir. Kurul,
+soruşturma raporu ile ilgili.ön değerlendirmesini yedi gün içinde yaparak,
+soruşturma konusu iddiaların tamamı veya bir kısmı bakımından
+denetçilerin önerisi üzerine soruşturmaya son verebilir veya soruşturmanın
+ilerletilmesine karar verebilir.
+
+(5) Soruşturmanın ilerletilmesine karar verildiği takdirde soruşturma
+raporu yeniden düzenlenerek yedi gün içinde Kurula sunulur ve denetime
+tabi olanlara yazılı savunmalarını yapmaları için tebliğ edilir. Aynı süre
+içinde şikayetçi de soruşturma raporunda ulaşılan sonuçlarla ilgili
+bilgilendirilir.
+
+(6) Denetime tabi olanlar, soruşturma raporunun kendilerine iletildiği
+tarihten itibaren on gün içinde savunmalarını yapabilirler. Denetime tabi
+olanlara, talep etmeleri halinde savunma süresi içerisinde sözlü savunma
+hakkı verilir. Denetçiler ilk yazılı savunma ile ilgili ek yazılı görüş
+verebilirler, denetime tabi olanlar da ek görüşle ilgili ek yazılı savunma
+yapabilirler. Denetçiler savunmada sunulan bütün belgeleri ve kendi ek
+görüşlerini Kuruma iletirler. Bu fıkrada belirtilen işlemler için toplam süre
+altmış günü geçemez.
+
+(7) Denetime tabi olanların bilgilendirilmediği ve savunma hakkı
+verilmediği konular, Kurum kararına dayanak yapılamaz.
+
+(8) Denetime tabi olanlar ve ilgili kişiler, soruşturmanın yürütülmesine
+yardımcı olmak ve gerekli defterleri veya tüm kayıtları eksiksiz bir
+biçimde ibraz etmek zorundadır. Denetime tabi olanlar, gizli bilgi ve ticari
+sır niteliği taşıyan belgeler dışında, toplanan diğer delilleri ve düzenlenmiş
+evrakları inceleyebilir, bu arada Kuruma iletilmesinde fayda gördükleri her
+türlü bilgi ve belgeyi görevlilere sunabilirler.
+
+(9) Soruşturma sonucunda Kurum tarafından alınan karar ilgililere
+bildirilir. Soruşturma konusu iddiaların Kurum tarafından haklı bulunması
+halinde; ilgili kararda aşağıdaki (A),(B),(C),(¢),(D) ve (E) bentlerinde
+belirtilen hususlara yer verilerek Yasada öngörülen yaptırımlar uygulanır.
+Kurum kararı Kurumun resmi internet sitesinde yayınlanır.
+
+(A) Gerekçeleri ile birlikte Kurum tarafından verilen karar,
+
+(B)Verilen kararın dayandığı yasal mevzuat kural veya kuralları,
+(C)thlalin giderilmesi için söz konusu gerçek veya tüzel kişi veya
+
+[SAYFA 9]
+Usul ve Esaslar
+
+Yürütme Yetkisi
+
+Yürürlüğe Giriş
+
+1323
+
+kurum veya kuruluşun alması gereken tedbirler,
+(Ç) Bu tedbirlerin hangi süre içerisinde alınması gerektiği,
+(D) Verilen cezanın miktarı,
+(E)Karara karşı itiraz yollarına ilişkin detaylar.
+
+(10) Soruşturma konusu iddiaların Kurum tarafından kısmen veya
+tamamen reddedilmesi halinde, şikayetçiler gizli bilgi veya ticari sır
+niteliği taşıyan belgeler dışındaki diğer delilleri ve düzenlenmiş evrakları
+inceleyebilir ve bunları ancak yargı yoluna başvurdukları takdirde
+kullanabilir.
+
+BEŞİNCİ KISIM
+Çeşitli ve Son Kurallar
+
+17. Kurum, Hizmet Birimi'nin organizasyon yapısına, işe alma koşullarına,
+personelin görev kapsamları ve tanımlarına, iş kurallarına, bu Tüzük
+kapsamındaki bilgi ve belge talebine, gizli bilgi ve gizli olmayan bilgi
+tanım ve kapsamlarına yönelik Yönetmelik çıkarabilir ve Tebliğler
+yayımlayabilir.
+
+18. Bu Tüzük elektronik haberleşmeden sorumlu Bakanlık tarafından
+
+19. Bu Tüzük Resmi Gazetede yayımlandığı tarihten başlayarak yürürlüğe
+girer.

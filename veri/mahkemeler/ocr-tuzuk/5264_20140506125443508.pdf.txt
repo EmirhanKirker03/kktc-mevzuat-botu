@@ -1,0 +1,110 @@
+[SAYFA 1]
+KUZEY KIBRIS TÜRK CUMHURİYETİ
+RESMI GAZETE
+
+Sayı : 98 EK Il 21 Nisan, 2014
+TEBLİĞ VE İLANLAR
+
+e Sayı :258
+ELEKTRONİK İMZA YASASI
+(93/2007 Sayılı Yasa)
+Madde (20) Altında Yapılan “Elektronik İmza Yasasının Uygulanmasına İlişkin Usul
+ve Esaslar Tüzüğü” ne bağlı Yönetmelik'te Değişiklik Yapılmasına İlişkin
+Yönetmelik
+
+Kuzey Kıbrıs Bilgi Teknolojileri ve Haberleşme Kurulu, Elektronik İmza Yasasının
+Uygulanmasına İlişkin Usul ve Esaslar Tüzüğü'nün 27'nci maddesinin kendisine verdiği
+yetkiyi kullanarak aşağıdaki Yönetmeliği yapar:
+
+Kısa İsim 1. Bu Yönetmelik, “Elektronik İmza ile İlgili Süreçlere ve Teknik
+25.12.2008 Kriterlere İlişkin (Değişiklik) Yönetmeliği” olarak isimlendirilir ve
+R.G.223 aşağıda “Esas Yönetmelik” olarak anılan “Elektronik İmza ile İlgili
+EKM _ Süreçlere ve Teknik Kriterlere İlişkin Yönetmelik” ile birlikte okunur.
+A.E.945
+
+Yönetmeliğin 6'ncı 2. Esas Yönetmelik, 6'ncı maddes: kaldırılmak ve yerine aşağıdaki
+Maddesinin yeni ©'ncı madde konmak suretiyle değiştirilir:
+
+Değiştirilmesi
+
+(673)
+
+[SAYFA 2]
+Yönetmeliğin
+J uncu
+Maddesinin
+Değiştirilmesi
+
+Yönetmeliğin
+12'nci Maddesinin
+Değiştirilmesi
+
+Yönetmeliğe Yeni
+Geçici Maddenin
+Eklenmesi
+
+Yürütme Yetkisi
+
+Yürürlüğe Giriş
+
+674
+
+6. İmza oluşturma ve doğrulama verileri ile
+özetleme algoritmalarının, ETSI TS 102 176-1
+standardına ve aşağıda yer alan şartlara uygun
+olması gerekir.
+(1) İmza sahibinin imza oluşturma ve doğrulama
+verileri:
+
+(A)RSA için en az 2048 bit veya
+
+(B)DSA için en az 3072 bit veya
+
+(C)DSA Eliptik Eğrisi için en az 256 bit
+(0) ESHS'nin imza oluşturma ve doğrulama
+verileri:
+
+(A)RSA için en az 2048 bit veya
+
+(B) DSA için en az 3072 bit veya
+
+(C) DSA Eliptik Eğrisi için en az 256 bit
+(3) Özetleme algoritması:
+
+(A)SHA-256 veya
+
+(B) SHA-384 veya
+
+(C)SHA-512 veya
+
+(C) WHIRLPOOL”
+
+“Algoritmalar ve
+Parametreler
+
+3. Esas Yönetmelik, 9’uncu maddesinin 3'üncü fıkrası kaldırılmak \
+yerine aşağıdaki yeni 3'üncü fıkra konmak suretiyle değiştirilir:
+
+“(3) TS ISO/IEC 27001 veya ISO/IEC 27001”
+
+4, Esas Yönetmeliğin 12'nci maddesinin 2'nci fikrasının (B) bendi
+kaldırılmak ve yerine aşağıdaki yeni (B) bendi konmak suretiyle
+değiştirilir:
+
+“B) CWA 14167-2, CWA 1416753 veya CWA 14167-4’te belirtilen
+kriterlere uygunluğunu veya”
+
+5. Esas Yönetmelik, Üçüncü Kısım Geçici Kurallar Bölümü aşağıdaki yeni
+“Geçici Madde” eklenmek sureti ile değiştirilir:
+
+Geçici Madde “Algoritmalar ve Parametreler” başlıklı 6’nc1
+maddedeki koşullar 31.12.2016 tarihine kadar
+
+geçerlidir.”
+
+6. Bu Yönetmelik, Bilgi Teknolojileri ve Haberleşme Kurumu tarafından
+
+yürütülür.
+
+7. Bu Yönetmelik, Resmi Gazetede yayımlandığı tarihten başlayarak
+yürürlüğe girer.

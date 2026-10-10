@@ -1,0 +1,1742 @@
+[SAYFA 1]
+Sayı : 416
+
+809
+
+KUZEY KIBRIS TÜRK CUMHURİYETİ BANKACILIK YASASI
+
+(62/2017 Sayılı Yasa)
+Madde 38, 39, 40, 41 ve 44 Altında Tebliğ
+
+Kuzey Kıbrıs Türk Cumhuriyeti Merkez Bankası, 62/2017 sayılı Bankacılık Yasasının 38'inci,
+39'uncu, 40’inci, 4'inci ve 44'üncü maddelerinin kendisine verdiği yetkiye dayanarak
+
+Kısa İsim
+
+Tefsir
+
+aşağıdaki Tebliği yapar:
+
+Bu Tebliğ, “Üstlenilen Risklere İlişkin Tebliğ” olarak isimlendirilir.
+
+BİRİNCİ KISIM
+Genel Kurallar
+
+Bu Tebliğde metin başka türlü gerektirmedikçe;
+
+“Bakanlık”, Gelir ve Vergi Dairesinin bağlı olduğu bakanlığı anlatır,
+“Banka”, Yasa altında izin alarak faaliyet gösteren Kuzey Kıbrıs Türk
+Cumhuriyetinde kurulu mevduat bankaları, katılım bankaları,
+kalkınma ve yatırım bankaları ile yurt dışında kurulu olup, Kuzey
+
+Kıbrıs Türk Cumhuriyetinde şube açmak suretiyle faaliyet gösteren
+şube bankalarını anlatır.
+
+“Finansal Kuruluş”, Yasanın 23'üncü maddesinin (2)'nci fıkrasında yer
+alan faaliyet konularından en az birini yürütmek için kurulan ve finans
+sektöründe faaliyet gösteren kuruluşları anlatır.
+
+“Kişi”, gerçek ve tüzel kişileri anlatır.
+
+“Komite”, bu Tebliğ amaçları bakımından, risk üstlenme/kredi
+komitesini anlatır,
+
+“Konsolide Özkaynak”, “Bankaların Özkaynaklarına İlişkin Tebliğ”
+uyarınca hesaplanan konsolide özkaynağı anlatır.
+
+“Kontrol”, bir tüzel kişiliğin sermayesinin veya oy haklarının
+doğrudan veya dolaylı olarak yarıdan fazlasına veya yönetiminde
+çoğunluğu sağlayacak etkiye sahip olma durumunu anlatır,
+
+“Merkez Bankası”, Kuzey Kıbrıs Türk Cumhuriyeti Merkez Bankasını
+anlatır.
+
+“Özkaynak”, “Bankaların Özkaynaklarına İlişkin Tebliğ” uyarınca
+hesaplanan özkaynağı anlatır,
+
+“Risk Grubu”, Yasanın 40’nci maddesinde tanımlanan risk grubunu
+anlatır,
+
+“Risk”, Yasanın 38'inci maddesinin (1)’inci fıkrası uyarınca risk sayılan
+işlemleri anlatır.”
+
+“Tüketici”, kendi zanaatı, İşletmesi veya mesleği dışındaki amaçlara
+yönelik bankayla risk sözleşmesine giren kişiyi anlatır.
+
+[SAYFA 2]
+62/2017
+Amaç 3.
+Kapsam 4.
+
+810
+
+“Yasa”, Bankacılık Yasasını anlatır.
+
+“Yönetim Kurulu”, bu Tebliğ amaçları bakımından Kuzey Kıbrıs Türk
+Cumhuriyetinde kurulu bankalar için yönetim kurulunu, şube
+bankaları için ise müdürler kurulunu anlatır.
+
+Bu Tebliğin amacı, bankaların riskleri tanımlaması ile başlayan risk
+üstlenme sürecini oluşturmak, oluşabilecek risklere karşı sınır ve
+kuralları belirleyerek, gerekli süreçleri oluşturabilmelerine ilişkin
+esas ve usulleri düzenlemektir.
+
+Kuzey Kıbrıs Türk Cumhuriyetinde faaliyet gösteren bankalar, bu
+Tebliğ kuralları kapsamındadır.
+
+İKİNCİ KISIM
+
+Risk Gruplarının Oluşumu ile Risk Üstlenme Yetkisinin Devri
+
+Risk Gruplarının o 5,
+
+Belirlenmesi
+
+(1) Birden fazla ortaklıkta genel müdür, yönetim kurulu üyesi veya
+yönetim kurulu başkanı olarak görev alan kişilerle ilgili risk
+gruplarını oluştururken, aynı risk grubuna dâhil edilecek
+kişilerin tespitinde aşağıdaki hususlar dikkate alınmalıdır;
+
+(A) Bu kişilerin görev aldıkları ortaklıklarda, bu ortaklıkların
+yükümlü bulundukları — bir mevzuatın o bulunması
+durumunda, bu mevzuat Uyarınca (o edinmeleri
+gerekenden fazla miktarda hisseye sahip olmaları,
+
+(B) Bu kişilerin görev aldıkları ortaklıklar arasında kontrol
+ilişkisinin bulunması veya birinin ödeme güçlüğüne
+düşmesinin diğer bir veya birkaçını ödeme güçlüğüne
+düşürebilecek kefalet, garanti veya benzeri bir ekonomik
+ilişkinin varlığı,
+
+(C) Bu kişilerin görev aldıkları ortaklıklarda kontrolü elinde
+bulunduran gerçek kişi ortaklar ile üçüncü dereceye
+kadar kan veya ikinci dereceye kadar sıhri hısım
+derecesinde akrabalık ilişkisinin bulunması.
+
+(Ç) Bu kişilere, mesleki eğitim, deneyim ve yeterliliklerinin
+üzerinde özlük haklarının tanınması,
+
+(2) Bu maddenin (1'inci fıkrasında belirtilen hususların herhangi
+birinin varlığı halinde, yönetim kurulu başkan veya üyesi olarak
+görev yapanlar, bahse konu ortaklıklar ile aynı risk grubuna
+dâhil edilir.
+
+[SAYFA 3]
+Risk Üstlenme
+Yetkisinin Devri
+
+Komitenin
+Oluşumu
+
+Komitenin
+Çalışma Esasları
+
+6.
+
+811
+
+(1) Bankalarda risk üstlenme yetkisi yönetim kuruluna âittir.
+Yönetim kurulu risk üstlenme, onay verme ve ilgili diğer
+politikaları oluşturmak, bunların uygulanmasını ve izlenmesini
+sağlamak ve gerekli tedbirleri almakla yükümlüdür. Yönetim
+kurulu risk üstlenme yetkisini oluşturacağı komiteye ve/veya
+genel .müdürlüğe devredebilir. Yönetim kurulu tarafından
+üstlenilen risklerde, genel müdürlüğün bunlarla ilgili yazılı
+teklifleri olmalıdır. Hesap durumu belgesi alınması zorunluluğu
+bulunan riskler için, genel müdürlüğün risk üstlenilmesine
+ilişkin önerilerinde, lehlerine bankanın risk üstlenmesi talebi
+bulunanların mali tahlil ve istihbarat raporlarının ekli olması
+zorunludur.
+
+(2) Yönetim kurulu, risk üstlenme yetkisini devretmeden önce, en
+azından riskin türünü, tutarını, vadesini, alınacak teminatın
+niceliği ile niteliğini, üstlenme sınırları ile kapsamını açıkça ve
+yazılı bir şekilde belirlemeli ve yetkisini bu sürecin ardından
+devretmelidir.
+
+(3) (A) Risk üstlenme yetkisini haiz olanlar, kendileri ile eş ve
+velâyeti altındaki çocuklarının veya bunlarla risk grubu
+oluşturan diğer kişilerin taraf olduğu risklere ilişkin
+değerlendirme ve karar verme aşamalarında yer
+alamazlar.
+
+(B) Ancak banka ve/veya bankanın dâhil olduğu risk grubu
+içinde yer alan ortaklıkların yönetim kurulu üyeleri ve
+genel müdürlerinden yalnızca bu sıfatları dolayısıyla,
+Yasanın 40'ncı maddesinin (2)'nci fıkrası uyarınca
+bankanın dâhil olduğu risk grubu içinde yer alanlar, bu
+maddenin (A) fıkrası kapsamının dışındadırlar.
+
+Banka yönetim kurulunun, risklerle ilgili olarak devredebileceği
+yetkiyi kullanmak üzere, Yasanın 19'uncu maddesinin (3Yüncü
+fıkrasına göre gereken eğitim şartlarını taşıyan üyeleri arasından
+seçeceği, iç sistemler üyesi hariç, en az iki üye ile banka genel
+müdüründen oluşan bir komite görevlendirilebilir. Herhangi bir
+toplantıya katılamayacak komite üyesi yerine görev yapmak üzere,
+yine aynı şartları taşıyan yönetim kurulu üyeleri arasından yedek üye
+seçilebilir. Komitenin üye ve yedeklerinin seçiminde, yönetim kurulu
+üyelerinin en az dörtte üçünün olumlu oyu aranır.
+
+(1) Komite, tüm üyelerin katılımı ile toplanır ve oybirliği ile verdiği
+kararlar doğrudan, oyçokluğu ile verdiği kararlar yönetim
+kurulunun onayından sonra uygulanır.
+
+(2) Komitenin gündemi, genel müdür veya genel müdürün izinli
+olması halinde genel müdür vekili tarafından belirlenir ve diğer
+üyelere duyurulur.
+
+[SAYFA 4]
+Hesap Durumu
+Belgesi Alınması
+
+9.
+
+(3)
+
+(4)
+
+(1)
+(2)
+
+812
+
+Komite tarafından üstlenilen riskler için genel müdürlüğün
+yazılı önerisi aranır. Hesap durumu belgesi alınması zorunluluğu
+bulunan risklere ilişkin yapılacak önerilerde, lehlerine bankanın
+risk üstlenmesi talebi bulunanların mali tahlil ve istihbarat
+raporlarının ekli olması zorunludur.
+
+Yönetim kurulu, komitenin faaliyetlerini (o denetlemekle
+yükümlüdür. Yönetim kurulu üyelerinden her biri, komiteden,
+komitenin faaliyetleri hakkında her türlü bilgi ve/veya belgeyi
+
+istemeye ve gerekli göreceği her türlü kontrolü yaptırmaya
+yetkilidir.
+
+ÜÇÜNCÜ KISIM
+Hesap Durumu Belgesi
+
+Risk ilişkisinin devam ettiği süre boyunca, her yıl hesap
+dönemini izleyen altı ay içerisinde hesap durumu belgesi alınır.
+Bankaların üstlenecekleri riskler için, aşağıda sayılan işlemler
+hariç, hesap durumu belgesi almaları zorunludur.
+
+(A) 150.000 TL’yi (Yüz elli bin Türk Lirası) geçmeyen işlemler.
+
+(8) Kamuya ait risk olarak Merkez Bankasına raporlanan,
+“devlet kefaletine haiz olan riskler (AAA2)” ile “diğer
+kamu niteliğinde olan riskler (AAA3)”.
+
+(C) Yabancı ülkelerin merkezi idareleri, merkez bankaları ile
+veya bu kuruluşlar tarafından çıkarılan veya ödemesi
+garanti edilen bono ve tahviller karşılığı yapılan işlemler.
+
+(Ç) Merkez Bankası ve/veya nezdindeki piyasalarda yapılan
+işlemler.
+
+(D) Teşkilatlanmış borsalardan alınan veya alacaklardan
+dolayı elde edilen hisse senetleri,
+
+(E) Yurtiçi ve yurt dışı bankaların kendi aralarındaki vadesiz
+veya vadesi üç ayı aşmayan işlemler ile bu bankaların
+mukabil kefaletine dayanılarak verilecek teminat ve
+garantiler.
+
+(F) Yasanın 4/'inci maddesinin risklerin dikkate alınma
+oranlarına ilişkin hükümleri saklı kalmak kaydıyla — Ek-
+de asgari ikinci sınıf olarak tasnif o edilen
+derecelendirme notlarına haiz yabancı ülkelerde
+bulunan bankalarla yapılan işlemler ile bunların
+kefaletine dayanılarak verilecek gayrinakdi riskler.
+
+(G) Banka nezdinde tutulan nakit bloke karşılığı işlemler.
+
+[SAYFA 5]
+Hesap Durumu
+
+Olarak Kabul
+Edilecek
+Belgeler
+
+Hesap Durumu |
+
+Belgelerinin
+Denetlenmesi
+
+24/82
+
+10.
+
+i.
+
+(1)
+
+(2)
+
+(3)
+
+(1)
+
+813
+
+Bankalar, bu Tebligin 9’uncu maddesinin (1)’inci fıkrası uyarınca
+
+hesap durumu belgesi olarak,
+
+(A) Şirketlerden tabi oldukları mevzuat veya muhasebe
+sistemleri uyarınca düzenleyecekleri dipnotlarını da
+içeren bilanço, kâr ve zarar cetvelleri ile bunlara ek mali
+tabloları ve Ek 2'de yer alan örneğe uygun düzenlenecek
+tanıtıcı bilgiler formu hesap durum belgesi olarak kabul
+edilir.
+
+(B) Bilanço esasına göre defter tutmayan gerçek kişiler
+lehine üstlenilecek riskler için, bu kişilerin faaliyetlerinin
+niteliğine uygun olarak düzenlenecek belgeleri ve Ek 2'de
+yer alan örneğe uygun düzenlenecek tanıtıcı bilgiler
+formu hesap durum belgesi olarak kabul edilir.
+
+(C) Ticari risk niteliği taşımayan işlemler için gerçek
+kişilerden Ek 3'te yer alan örneğe uygun olarak alınacak
+hesap durumu belgesinin ekinde kişinin kimliği ve gelirini
+gösterir belgeler alınır.
+
+Kuzey Kıbrıs Türk Cumhuriyetinde yerleşik kişilerden alınacak
+
+hesap durumu belgelerinin yetkili ve sorumlu şahıslarca imza
+
+edilmiş olmalıdır.
+
+Yasanın 41'inci maddesinin 10'uncu fıkrası uyarınca risklerin
+dikkate alınma oranlarına ilişkin yapılacak hesaplamalara göre
+banka nezdindeki toplam riskleri yüz bin Amerikan Dolarını
+(100.000 USD) aşan yurt dışında yerleşik kişilerden, kredi notları
+Ek 1’de asgari ikinci sınıf olarak tasnif edilenlerden daha düşük
+olanlardan alınacak mali tabloların, ilgili ülkelerin mevzuatına
+göre yetkilendirilen veya uluslararası düzeyde faaliyet gösteren
+bağımsız denetim firmaları tarafından onaylanmış olması
+şarttır.
+
+Üstlenilecek risklerin ve verilecek kefalet ve teminatların bir
+milyon Türk Lirasını (1.000.000 TL) geçmesi halinde;
+
+(A) Hesap durumu belgesi ile ekli bilanço ve kâr ve zarar
+cetvellerinin mevzuat (o hükümlerine, uygulanan
+muhasebe ilkeleri ve muhasebe standartlarına
+uygunluğunun, Gelir Vergi Yasasının 60'ıncı maddesine
+göre Bakanlıktan asgari “Halka açık şirketler hariç olmak
+üzere vergi yükümlülüklerinin hesaplarını tutma, teftiş
+veya kontrol etme, mali tablo ve beyanlarını hazırlayıp
+sunma” yetkisine sahip kişilerce denetlenmesi şarttır.
+
+(B) Ek 4'te yer alan esaslara uygun raporun düzenlenmesi
+ve raporun uygun görüş içermesi gerekir.
+
+[SAYFA 6]
+Gayrinakdi
+Risklerin
+Dikkate Alınma
+Oranları
+
+gerekir,
+
+DÖRDÜNCÜ KISIM
+
+Risk Üstlenme Sınırlarında Dikkate Alınma Oranları
+
+BİRİNCİ BÖLÜM
+
+Gayrinakdi Riskler ile Teminata Göre Risk Üstlenme Sınırları
+
+12,
+
+(1)
+
+(2)
+
+(3)
+
+Yasanın 38’inci maddesinde sayılan işlemler ve bu işlemlere
+
+İlişkin olarak bankalar tarafından kabul edilen aval, garanti ve
+
+kefaletler risk üstlenme sınırlamalarına dâhil edilir.
+
+Risk üstlenme sınırlarının uygulamasında;
+
+(A) Nakit temini amacıyla verilen teminat mektupları, kabul
+kredileri, menkul kıymet ihracında satın alma garantileri,
+kredi kartları harcama limiti ile çekler için ödeme
+taahhütleri yüzde yüz (% 100) oranında,
+
+(B) Bankalar tarafından ihraç olunan veya ödemesi garanti
+edilen menkul kıymetler karşılığında veya bu bankaların
+mukabil kefaletlerine dayanılarak verilen ve (A) bendi
+kapsamına girmeyen gayrinakdi krediler yüzde yirmi beş
+(% 25) oranında,
+
+(C) Diğer gayrinakdi krediler yüzde elli (94 50) oranında,
+
+(Ç) (1Yincifıkra kapsamındaki aval, garanti ve kefaletler aval
+
+dikkate alınır,
+
+Yasanın 4'inci maddesinde belirlenen risk üstlenme sınırlarının
+
+uygulamasında;
+
+(A) Döviz, faiz oranı ve altına dayalı vadeli, futures ve swap
+alım satım sözleşmeleri ile satın alınan alım ve satım
+opsiyonlarının nominal değerlerinin, sözleşmelerin
+başlangıç” vadelerine göre, ekteki Tablo 1'de belirtilen
+oranlarla çarpılması,
+
+(B) Hisse senedine, altın dışındaki kıymetli madenlere ve
+
+toplanması,
+suretiyle dikkate alınır, N
+
+[SAYFA 7]
+Konut, Taşıt ve 13.
+
+Tüketici
+Risklerine İlişkin
+Sınırlamalar
+
+Şube Bankaların 14.
+
+Merkezleri
+Ve/veya Yurt
+Dışında Kurulu
+Diğer Şubeleri
+İle Yaptıkları
+İşlemler
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+(5)
+
+(6)
+
+(1)
+
+(2)
+
+815
+
+Konut edinimleri ile konut teminatlı risklerde, risk tutarının
+
+© teminat olarak alınan konutun değerine oranı yüzde seksen (%
+
+80)’i aşamaz. Sınırlamaya konu riskler için teminat olarak alınan
+gayrimenkullerin değerlemesinin Merkez Bankası tarafından
+yetkilendirilmiş değerleme şirketlerine yaptırılması ve
+sinirlamada bu değerlerin kullanılması zorunludur.
+
+Tüketiciler lehine binek araç edinimi amacıyla üstlenilecek taşıt
+risklerinde ve taşıt teminatlı risklerde veya yapılacak icar satış
+işlemlerinde veya katılım bankaları için finansal kiralama
+işlemlerinde, risk tutarının taşıtın değerine oranı, taşıtın nihai
+
+— fatura değerinin yüzde yetmiş beş (% 75)’ini aşamaz. İkinci el
+
+binek araçlarda taşıtın değerinin tespitinde kasko değeri esas
+alınır.
+
+Konut alımı, konut tadilatı ve diğer gayrimenkul alımı amaçlı
+üstlenilecek riskler ve bu risklerin yeniden finansmanı amacıyla
+üstlenilen riskler hariç olmak üzere, tüketici risklerinin vadesi
+yetmiş iki (72) ayı aşamaz. Maaş karşılığı üstlenilen riskler de bu
+fıkra çerçevesinde değerlendirilir.
+
+Bu Tebliğin yayımı tarihinden önce üstlenilen risklerin yeniden
+yapılandırılması halinde, tahsis edilen vadenin uzatılmaması
+şartıyla, bu madde hükümleri uygulanmaz.
+
+Bu maddede belirtilen: sınırların aşılması halinde, aşan risk
+tutarı, (1Y'inci fıkraya konu riskler için teminat olarak alınan
+gayrimenkullerin değerlemesinin Merkez Bankası tarafından
+yetkilendirilmiş değerleme şirketlerine yaptırılmaması halinde
+ise risk tutarının tamamı, bankaların özkaynaklarının
+hesaplanmasında sermayeden indirilen değer olarak dikkate
+alınır.
+
+Tüketicilerin lehine üstlenilecek riskin yabancı para cinsi olması
+durumunda, yabancı para cinsinden belgeleyebildikleri
+gelirlerinin ve/veya varlıklarının bulunması ve Ek-6'daki
+beyannamenin müşteriden alınması şarttır. Gelire göre
+üstlenilecek riskler için belgelenen gelirin, dönemsel ödeme
+taksit tutarının en az yüzde yetmiş beş (X 75'ini
+karşılayabilecek düzeyde olması gerekir. ‘
+
+Şube bankaların merkezlerine ve/veya yurt dışında kurulu diğer
+şubelerine yaptıkları tevdiat, Yasanın 38'inci maddesinin (1Y'inci
+fıkrasının (A) bendi kapsamında risk sayılır ve Yasanın 4'inci
+maddesinin (1)’inci fıkrasında yer alan "Bankanın dâhil olduğu
+risk grubu" hesaplamasına dâhil edilir.
+
+Bu madde uygulamasında, yapılan tevdiatın vadesinden kısa
+olmamak kaydıyla, merkez ve yurt dışında kurulu diğer
+şubelerden sağlanan fonlar, Yasanın 4Vinci maddesi
+kapsamında nakit karşılık olarak değerlendirilir.
+
+[SAYFA 8]
+Risk Üstlenme
+Sınırlarının
+Konsolide Bazda
+Hesaplanması
+
+aS:
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+(5)
+
+(6)
+
+(7)
+
+816
+İKİNCİ BÖLÜM
+Konsolide Bazda Risk Üstlenme
+
+Yasa uyarınca yürürlüğe konulan düzenlemelere göre, ana
+ortaklık tarafından Yasanın 41’incj maddesinde yer alan risk
+üstlenme sınırları, bu madde uyarınca konsolide bazda
+hesaplanır ve uygulanır,
+
+Konsolide risk üstlenme sınırları, ana ortaklık ile konsolidasyona
+tabi tutulan finansal kuruluşlar topluluğuna dâhil her ortaklığın
+
+“Bankaların Özkaynaklarına İlişkin Tebliğ” uyarınca hesaplanan
+konsolide özkaynak tutarı dikkate alınarak, konsolide mali
+tabloların hazırlandığı dönemler itibariyle hesaplanır.
+Konsolidasyona tabi tutulan finansal kuruluşların faktoring
+alacakları ile çeşitli ikrazlarına ve vermiş oldukları Odiinclere
+iliskin kalemler nakdi risk niteliğindedir.
+
+Bir risk grubu lehine üstlenilebilecek risk üstlenme sınırının
+konsolide ( bazda hesaplanmasında, risk grubu tanımı
+kapsamındaki kişilerin, konsolidasyona tabi tutulan finansal
+kuruluşlar topluluğuna dâhil tüm ortaklıklara olan ve (2Y'nci
+fıkrada belirtilen nitelikteki tüm borç ve yükümlülükleri dikkate
+alınır.
+
+Bir risk grubu lehine üstlenilebilecek risk üstlenme sınırının
+konsolide bazda hesaplanmasında, risk grubu tanımı, ana
+ortaklık ve konsolidasyona tabi tutulan finansal kuruluşlar
+topluluğuna dâhil her bir ortaklık dikkate alınmak suretiyle,
+"finansal kuruluşlar topluluğunun da dâhil olduğu risk grubu"
+şeklinde uygulanır.
+
+Yasanın 41'inci maddesinde yer alan risk üstlenme sınırları, solo
+bazda da hesaplanır ve uygulanır.
+
+Yasa hükümlerinin uygulanmasında aşım tutarı olarak, solo ve
+konsolide bazda hesaplanan sınırlardan hangisinde aşım varsa
+O tutar, her ikisinde birden aşım varsa yüksek olan tutar dikkate
+alınır.
+
+Bankalar tarafından, bu bankaların yabancı ülkelerde bankacılık
+faaliyetlerinde _ bulunan - ortaklıklardan konsolide
+edilmeyenlerin yükümlülüklerine karşılık, yabancı ülkelerin
+yetkili mercilerine ilgili ülke mevzuatı gereğince verilen sınırsız
+garanti niteliğini taşıyan taahhütler yüzde otuz (26 30) oranında
+dikkate alınır ve risk üstlenme sınırlarının hesaplanmasında
+esas alınacak tutar, ortaklığın yükümlülüklerinden, ortaklık
+tarafından bankaya verilen riskler ile ortaklığın ilgili ülke
+mevzuatına göre hesapladığı ana sermayenin indirilmesiyle
+bulunur.
+
+[SAYFA 9]
+Risk Üstlenme
+Sınırlamalarında
+Farklı Oranlar
+Kullanılan
+İşlemler
+
+Fasıl 149
+
+817
+
+(8) Bu Tebliğin 12'nci maddesinde belirlenen dikkate alınma
+
+oranları ile sınırlamalara tabi olmayacak işlemlere ilişkin
+hükümler saklıdır.
+
+ÜÇÜNCÜ BÖLÜM
+
+Farklı Sınırlamalara Tabii İşlemler ile Risklerin İzlenmesi
+
+16. Yasanın 41’inci maddesinin (9)’uncu fıkrasına göre Merkez Bankası
+tarafından belirlenen yasal sınırlamalara tabi olmayan işlemler ile
+bunların oran, süre, usul ve esasları aşağıdaki gibidir:
+
+(1) Yasanın 4Vinci maddesinin (9)'uncu fıkrasının (A) bendi
+
+e)
+
+uyarınca karşılığı banka nezdinde nakit olarak bloke edilen
+
+işlemlerde dikkat edilmesi gereken asgari hususlar aşağıdaki
+
+gibidir:
+
+(A) Oransalsınırlar; .
+
+(a) Bir kişi veya bir risk grubu lehine, teminat olarak
+alınan nakit bloke rakamına bakılmaksızın, banka
+özkaynağının % 100'ü üzerinde risk tistlenilemez.
+
+(b) oTeminat olarak alınan nakit bloke ile üstlenilen risk
+aynı para cinsi olmaması halinde teminat rakamının
+üstlenilen risk tutarından en az yüzde on (% 10)
+daha yüksek olması gereklidir.
+
+(8) Nakit blokenin üstlenilen risk dönemi boyunca var
+olmasının tesis edilmesi:
+
+(a) Banka nezdindeki nakit blokenin, hem sistemsel
+girişinin yapılmış hem de ıslak imzalı ve pullanmış
+halde, şüpheye yer vermeyecek şekilde üstlenilen
+risk ile ilişkisi kurulmalıdır.
+
+(b) o Nakit bloke Sözleşmeler Yasasının gerektirdiği tüm
+unsurları taşımalıdır.
+
+(C) Ustlenilen risk tutarı düşerken, blokenin bir kısmının ~
+müşteriye ödenmesi durumunda:
+
+(a) Yeniden (B) fıkrasının (a) alt bendinde izah ettiği
+şekli ile düzenlenmelidir.
+
+(b) Bloke konusu nakdin, risk süresince müşterinin
+serbest kullanımına bırakılmamalıdır.
+
+(Ç) Ustlenilen riskin sona ermesi veya ilişkinin sona
+erdirilmesini (o takiben, müşteri (otalimatına (gerek
+duyulmaksızın teminat olarak tutulan nakit bloke serbest
+bırakılır,
+
+Yasanın 4V'inci maddesinin (9)’uncu fıkrasının (D) bendi
+
+uyarınca Merkez Bankasınca belirlenen diğer işlemler aşağıdaki
+
+gibidir:
+
+(A) Ozkaynagin yüzde otuzuna (% 30) kadar yasal sınırlar
+içinde olan işlemler:
+
+[SAYFA 10]
+Risk Üstlenme
+Sınırlarının
+İzlenmesi
+
+Lai
+
+(1)
+
+(2)
+
+818
+
+(a) Kuzey Kıbrıs Türk Cumhuriyetinde veya Türkiye'de
+kurulu herhangi bir banka nezdinde bulundurulan
+tamamı üç aya kadar vadeli hesaplar ile bu
+bankalarca ihraç edilen ve vadesine azami üç ay
+kalan banka finansman bonoları.
+
+(b) Vadesine bir yıldan az kalan Türkiye Cumhuriyeti
+devlet iç borçlanma senetleri,
+
+(B) Bu Tebliğin 1'üncü maddesinin (1Yinci fıkrası
+kapsamında merkezi yurt dışında kurulu bankaların Kuzey
+Kıbrıs Türk Cumhuriyetindeki şubeleri, merkezleri ve yurt
+dışında kurulu diğer şubeleri ile borç-alacak kayıtlarının
+mutabakatsızlığından kaynaklanan günlük farklar ile
+bankaların muhabirlerine, yurt dışında kurulu
+merkezlerine ve/veya herhangi bir şubelerine yapmış
+olduğu hesaplar,
+
+(a) Takip eden ilk iş günü içerisinde hesapların yasal
+
+sınıra çekilmesi ve
+
+(b) Takip eden iki iş günü içerisinde Merkez Bankasına
+
+belgelenip istisna talep edilmesi şartıyla,
+
+Yasanın 4'inci maddesinin (1)'nci fıkrası gereği bir risk
+grubu lehine üstlenebileceği özkaynağın yüzde yirmi beşi
+(% 25) ve/veya bankanın dâhil olduğu risk grubu için
+yüzde yirmisi (96 20) sınırlarıyla ilgili Merkez Bankası
+istisna tanıyabilir.
+
+Bankalar tarafından risk üstlenme sınırlarının hesabında, banka
+bakımından nihai riskin kimden doğduğu ve yükümlülüğünün
+kime ait olduğu dikkate alınarak, bankanın üstlendiği riski fiilen
+kullanan kişiler ile lehine risk üstlenilen kişilerin farklı
+olabileceği ya da birden fazla kişi lehine risk üstlenilmiş
+sayılabileceği hususlarının göz önünde bulundurulması ve
+bireysel risk üstlenme sınırlarının her bir kişi bazında ayrı ayrı
+izlenmesi gerekir.
+
+Yasanın 41'inci maddesinin (2)’nci fıkrası gereği özkaynağın
+yüzde onunu (% 10) aşan riskler büyük risk sayılır ve toplamları
+özkaynağın sekiz katını aşamaz. Söz konusu büyük risk sınırının
+hesaplanmasında riskler için bankanın aldığı teminatlar ile
+gayrinakdi risklerde dikkate alınma oranlarına bakılmaz. Ancak,
+12'nci maddenin Yüncü fıkrası kapsamına giren işlemler ilgili
+dikkate alınma oranıyla değerlendirilerek hesaplamaya dâhil
+edilir.
+
+[SAYFA 11]
+Katılım
+Bankaları
+Tarafından
+Finansman
+Sağlama
+Yöntemleri
+
+18.
+
+819
+
+BEŞİNCİ KISIM
+Risk Sayılacak Finansman Yöntemleri
+
+(1) Yasanın 38’inci maddesinin (1)’inci fıkrasının (B) bendinde risk
+sayılacağı belirtilen finansman yöntemlerine ilişkin usul ve
+esaslar aşağıda belirtilmiştir.
+
+(A) Kurumsal Finansman Desteği:
+Katılım bankası ile fonu kullanacak işletme arasında
+akdedilecek sözleşme dâhilinde, işletmenin ihtiyaç
+duyduğu her türlü emtia, menkul kıymet, gayrimenkul,
+hak ve hizmet bedelinin satıcıya ödenmesi koşuluyla
+işletmenin borçlandırılması işlemidir. Bu yöntemle
+kullandırılacak fonlarla ilgili alım satıma ilişkin belgenin
+bir suretinin katılım bankasınca muhafazası zorunludur,
+
+(B) Bireysel Finansman Desteği:
+Bireysel ihtiyaçlar için, gerçek kişi alıcıların doğrudan
+satıcılardan aldıkları mal veya hizmet bedelinin, katılım
+bankası tarafından satıcıya ödenmesi koşuluyla alıcının
+borçlandırılması işlemidir. Bu yöntemle kullandırılacak
+fonlarla ilgili alım satıma ilişkin belgenin bir suretinin
+muhafazası zorunludur,
+
+(C) Kâr-Zarar Ortaklığı Yatırımı:
+Katılım bankalarınca kişilerin tüm faaliyetlerinden veya
+belirli bir faaliyetinden veya belirli bir parti malın alım
+satimindan doğacak kâr ve zarara katılmak üzere bu
+kişilere fon kullandırılması işlemidir. Bu yöntem ile fon
+kullandırmak için, fonu kullanacak olan kişilerle Ek “te
+yer alan örneğe uygun "Kar-Zarar Ortaklığı Yatırım
+Sözleşmesi" düzenlenir. Bankalar, fon kullandırdığı
+kişilerin kâr ve zararına, sözleşmede belirlenen oranlarda
+katılır. "Kâr-Zarar Ortaklığı o Yatırım Sözleşmesinde,
+bankaların kâr ve zarardan alacağı pay ve varsa alacağı
+teminatlar açıkça gösterilir. Bu sözleşmede, projenin
+kârlılığından bağımsız olarak önceden belirlenmiş tutarda
+kâr garanti edilmesine dair hükümler yer alamaz,
+
+(Ç) Finansal Kiralama:
+Taşınır ve taşınmaz malların geçerli finansal kiralama
+yasasının ilgili hükümleri çerçevesinde, katılım bankası ile
+kalkınma ve yatırım bankası tarafından temin edilerek
+kiraya verilmesidir.
+
+(D) Mal Karşılığı Vesaikin Finansmanı:
+
+© Katılım bankası ile fon kullanan arasında düzenlenecek
+
+yazılı bir sözleşme dâhilinde, mal karşılığı vesaik
+mukabilinde fon kullandırılması işlemidir.
+
+[SAYFA 12]
+Oransal 19. (1)
+Sınırlara
+Uyumsuzluk
+
+(2)
+
+820
+(E) Ortak Yatırımlar:
+
+Yasanın 4Vinci maddesindeki sınırlamalar dikkate
+alınmak kaydıyla, gelişme potansiyeli taşıyan ve kaynak
+ihtiyacı olan şirketlerin sermayelerine, taraflar arasında
+düzenlenecek sözleşme (o hükümleri çerçevesinde
+edinilecek ortaklık paylarının en fazla yedi yıl içinde halka
+arz yoluyla elden çıkarılması şartıyla, katılım bankalarınca
+iştirak edilmesi veya belirli bir yatırımın finansmanı
+amacıyla oluşturulacak fonlara katılınmasıdır. Sermayeye
+iştirak o şeklindeki yatırımlar için düzenlenecek
+sözleşmelerde, sermayesine iştirak edilen şirketin
+yönetimi hususu başta olmak üzere tarafların hak ve
+yükümlülükleri ile Sermayenin halka arz edilmesi sürecine
+ilişkin hükümlere yer verilmesi zorunludur,
+
+ALTINCI KISIM
+Oransal Sınırlara Uyumsuzluk
+
+Risk üstlenme sınırlarının hesaplamasında, “Bankaların
+Özkaynaklarına İlişkin Tebliğ” uyarınca hesaplanan son dönem
+özkaynaklar ile konsolide özkaynakları dikkate alınır. Özkaynak
+ve konsolide özkaynaklarda olabilecek düşüşler nedeniyle
+Yasanın 4”inci maddesinde yer alan sınırlamaların hesabında
+aşım oluşması halinde, sözkonusu aşımların, özkaynak veya
+konsolide özkaynakların oluşan aşımları giderecek tutarda
+artırılması veya asima neden olan işlemlerin azaltılması
+suretiyle, ve her halükarda Yasanın 45'inci maddesi ve Yasanın
+onuncu kısmında belirtilen süreler ile gerekli tedbirlerin
+alınarak risk üstlenme sınırlarına uyum sağlanması zorunludur.
+Özkaynak veya konsolide özkaynak artışının sermaye artırımı
+yoluyla sağlanması halinde, artırılan bedelden özkaynak veya
+konsolide özkaynağın eksik kısmına eşit olan tutarın sözkonusu
+sürelerde nakden tahsil edilmesi şarttır, Oluşan aşımın,
+özkaynak ve konsolide özkaynak artışı gerektirmesi halinde,
+artırım, en yüksek artış tutarını gerektiren özkaynak dikkate
+alınarak gerçekleştirilir,
+
+Yasal sınırlar üzerinde ve/veya aykırı bir şekilde risk üstlenilmesi
+halinde, bankalar bu durumu en geç takip eden ilk İş gününde
+bildirmek zorundadır, Bu durumun nedenlerini, söz konusu
+durumun giderilmesine ilişkin alınması planlanan önlemler ile
+birlikte Merkez Bankasına raporlama süresi içinde bildirilmesi
+şarttır.
+
+[SAYFA 13]
+Ceza Kuralları
+
+Geçici Madde
+Konsolide
+Esaslara Uyum
+
+Geçici Madde
+Gayrimenkul
+Değerlemelerine
+İlişkin Hükümler
+
+Geçici Madde
+Yasal Sınırlara
+Uyumsuzluk
+
+Geçici Madde
+Kredi Kartı
+Harcama Limiti
+ve Çekler İçin
+Ödeme
+Taahhütlerine
+İlişkin Hükümler
+Geçici Madde
+Muhabir
+İşlemleri için
+Tanınan
+İstisnaya İlişkin
+Hükümler
+
+821
+
+(3) Yapılacak incelemelerde, bu Tebliğle düzenlenen sınırların
+tutturulmasına yönelik fiktif işlem yapıldığının tespit edilmesi
+halinde, bu işlemlere karşılık gelen tutarlar geriye yönelik olarak
+düzeltilmek suretiyle ilgili döneme ilişkin riskler yeniden
+hesaplanır ve raporlanır,
+
+Bu Tebliğ kuralları Tebliğin çıkarılmasına yetki veren Yasa kuralları ile
+birlikte okunur ve bu Tebliğ kurallarına aykırı hareket edenlere
+Yasanın ilgili ceza kuralları uygulanır.
+
+YEDİNCİ KISIM
+Geçici Kurallar
+
+Bu Tebliğde yer alan “Risk Üstlenme Sınırlarının Konsolide Esasa
+Göre Hesaplanması” ile ilgili kuralların uygulanmasına Merkez
+Bankası tarafından çıkarılacak “Konsolide Denetime İlişkin Tebliğ”in
+yürürlüğe girmesiyle birlikte başlanır.
+
+Bu Tebliğde yer alan Gayrimenkul Değerleme Şirketlerine Ait
+Değerlemeler ile ilgili kuralların uygulanmasına Merkez Bankası
+tarafından çıkarılacak “Gayrimenkul Değerleme Şirketlerine Ait
+Tebliğ”in yürürlüğe girmesiyle birlikte başlanır.
+
+Bu Tebliğ ile getirilen hükümler nedeniyle bir kişi veya risk grubu
+lehine bankaların üstlendiği riskler toplamı, Yasada veya bu Tebliğde
+yer alan sınırlamaları aşan bankalar, bu kişi veya risk grubu lehine hiç
+bir şekil ve surette yeni risk üstlenemezler, Bankalar bu Tebliğde
+getirilen yeni düzenlemeler dolayısıyla oluşmuş olan sınırlamalara
+Aralık 2018'e dek uyumlu hale gelmek zorundadırlar, ,
+
+Bu Teblig’in 12’nci maddesinin (2)’nci fikrasinin (A) bendindeki kredi
+kartı harcama limiti ile çekler için ödeme taahhütlerinin yüzde yüz (%
+100) oraninda dikkate alinmasina 1 Ocak 2019 tarihi itibarıyla
+başlanır.
+
+Bu Tebliğ'in 16'nci maddesinin (2)'nci fıkrasının (A) bendinin (a) alt
+bendi 1 Ocak 2019 tarihinden itibaren yüzde otuz (% 30) olarak
+uygulanır. 31 Aralık 2018 tarihine kadar bu oran yüzde elli (% 50)
+olarak uygulanabilir,
+
+[SAYFA 14]
+Yürürlükten
+Kaldırma
+
+39/2001
+
+14.11.2003
+
+RG.148
+20.06.2002
+RG.67
+25.04.2016
+RG. 52
+
+Yürürlüğe Giriş
+
+215
+
+22,
+
+822
+
+SEKİZİNCİ KISIM
+Son Kurallar
+
+Bu Tebliğin yürürlüğe girdiği tarihten itibaren, 39/2001 sayılı
+Bankalar Yasasının 15'inci maddesinin (2)’inci fıkrası altında çıkarılan
+“Bankalarda Kredi Komitesinin Oluşumu ve Çalışma Esasları Tebliği”,
+Yasanın 23'üncü maddesinin (2)’nci fıkrasının (B) ve (Ç) bendleri ile
+(5)’inci fıkrası altında çıkarılan “Kredilerle İlgili Esas ve Usuller Tebliği”
+ve Yasanın 33'üncü maddesi altında çıkarılan “Bankaların Sermaye
+Yeterliliği Standart Oranı ile Kaldıraç Standart Oranının Ölçülmesine,
+Değerlendirilmesine ve Diğer Yükümlülüklerine İlişkin Usul ve Esaslar
+Hakkında Tebliğin” 8'inci maddesinin (2)'inci fıkrası ve 2'üncü
+
+maddesi, bunların altında yapılan işlemlere halel gelmeksizin,
+yürürlükten kaldırılır.
+
+Bu Tebliğ Resmi Gazete'de yayımlandığı tarihte yürürlüğe girer.
+
+[SAYFA 15]
+EK I/1
+
+Uluslararası Örgütler, Kredi Kuruluşları ve Kredi Notlarının Tasnifi
+
+Bu Tebliğ uygulamasında;
+
+Kredi Kurumları; Yabancı ülkelerin yetkili mercilerince faaliyet ve mevduat toplama izni verilen
+bankaları,
+
+Uluslararası Kredi Derecelendirme Kuruluşları; Genelde ülkelerin merkezi yönetimlerinin ve
+merkez bankalarının kredi değerliliklerini, özelde ise borçluların veya borçların, menkul kıymetlerin
+veya ihraççı kurum ve kuruluşların geri ödeme veya ödenme güçlerini, yatırım yapılabilirlik
+derecelerini veya banka ve finansal kurumların mali bünyelerinin sağlamlığı ve borç ödeme
+güçlerini periyodik olarak değerlendirip verdikleri notları uluslararası kamuoyuna duyuran ve
+verdikleri kredi notları uluslararası piyasalarda kabul gören; “Moody's”, “Standart&Poor’s”, “Fitch
+IBCA” derecelendirme kuruluşlarından en az birisini,
+
+Çoktaraflı Banka ve Mali Kurumlar; Ülkeler arasında aktedilen çok taraflı andlaşmalar ile
+kurulan banka ve mali kurumlardan; “Uluslararası Para Fonu (International Monetary Fund-IMF)”,
+“Dünya Bankası (International Bank for Reconstruction and Development-IBRD)”, “Uluslararası
+Finans Kurumu (International Finance Cooperation-IFC)”, “Uluslararası Kalkınma Birliği
+(Intemational Development Association-IDA)”, “Çok Taraflı Yatırım Garanti Ajansı (Multilateral
+İnvestment Guarantee Agency-MIGA)”, “Avrupa Merkez Bankası (European Central Bank-ECB)”,
+“Avrupa Yatırım Bankası (European Investment Bank-EIB)”, “Avrupa İmar ve Kalkınma Bankası
+(European Bank for Reconstruction and Development-EBRD)”, “Amerikalararası Kalkınma
+Bankası (Inter-American Development Bank - IDB)”, “Asya Kalkınma Bankası (Asian
+Development Bank - AsDB)”, “Afrika Kalkinma Bankası (African Development Bank - AfDB)”,
+“İslam Kalkınma Bankası (Islamic Development Bank — IsDB)” ve “Karadeniz Ticaret ve
+Kalkınma Bankası'nı (Black Sea Trade and Development Bank - BSTDB)” ifade eder.
+
+[SAYFA 16]
+EK 12
+
+Uluslararası Kredi Notları
+
+itibariyle aşağıdadır.
+
+1) Yabancı Para Taahhütler İçin Ülke
+İhraç Edilen Menkul Kıymetler veya
+
+824
+
+ve Uluslararası Uzun Vadeli Kre
+Diğer Borçlanmalar İtibariyle):
+
+di Notları (Borçlular veya
+
+Birinci Sınıf İkinci Sınıf Üçüncü Sınıf Dördüncü Sınıf
+Moody's Aaa, Aal, Aa2 | Aa3, A(1,2,3) Baal, Baa? Baa3, Ba(1,2,3)
+S&P's AAA, AA(+), AA | AAÇ,A ,-) BBB (+), BBB BBB(-), BB(-+,-)
+Fitch BCA | AAA,AA(+),AA| AA(),A(+) | BBB (),BBB | BBBC), |
+2) Yabancı Para Taahhütler İçin Uluslararası Kısa Vadeli Kredi Notları (Borçlular veya İhraç
+
+Edilen Menkul Kiymetler veya Diğer Borçl
+
+anmalar İtibariyle):
+
+m Birinci Sınıf İkinci Sınıf Üçüncü Sınıf beri
+Moody’s Prime-1 Prime -2 Prime-3
+S&P’s A-1(+), A-1 A-2 A-3
+Fitch IBCA F1(+), FI F3
+
+3) Bankalara Verilen Yabancı Para Taahh
+
+(UVKD) veya Finansal Güç (FG) Notları;
+
+ütler İçin Uluslararası Uzun Vadeli Kredi Değerliliği
+
+Birinci Smıf İkinci Sınıf Üçüncü Sınıf | Dördüncü Sınıf |
+
+Moody's B*,B
+
+G A Aa(1.2,3), CC D*,D
+UVKD Aaa A(1,2,3) Baal, Baa2 Baa3, Ba(1,2,3)
+( ) “9 5
+S&P’s
+(UVKD) AAA AACG,-), AG-) | BBB(), BBB BBB(-), BB(+,-)
+a eA A AB ,B BIC,C CID, D
+(UVKD) AAA AA(t,-), A(+,-) | BBB(),BBB BBB(-), BB(1--)
+
+Aynı ülke, borçlu, borçlanma, menkul kı
+derecelendirme kuruluşu tarafindan veri
+farkı doğiması halinde notlardan daha
+
+ymet veya banka hakkında birden fazla uluslararası kredi
+len notlar arasında yukarıdaki tasn:
+yüksek olanı esas alınır.
+
+ifler bakımından sınıf
+
+[SAYFA 17]
+825
+EK 2/1
+
+Bankaların Üstlenecekleri Riskler için, Talepte Bulunanlardan
+Alacakları Hesap Durumu Belgesi
+
+Tanıtıcı Bilgiler
+
+I-Firmanın;
+
+Ticaret unvanı
+
+Kuruluş tarihi/ticaret sicil no.
+
+Ticaret merkezi, adresi, telefon, mail ve
+faks numaraları
+
+Yurt dışında şirketi varsa firmanın
+unvanı
+
+Yurt dışında şirketi varsa faaliyet konusu
+
+Yurt dışında şirketi varsa şirketin adresi
+ve merkezi
+
+Bağlı olduğu vergi dairesi
+
+Faaliyette bulunduğu sektördeki faaliyet
+ağırlığı (%)
+
+Esas faaliyet konusu
+
+Yan faaliyet konuları
+
+Dâhil olduğu sermaye grubunun bilinen
+adı ve bu grubun sermayedeki pay oranı
+
+[SAYFA 18]
+826
+EK 2/2
+
+U-Tiizel Kişiliği Olmayan Firmalarda;
+
+Firma sahibinin (sahiplerinin), €ş ve çocukları ile bunların sınırsız sorumlulukla
+
+| katıldıkları ortaklıkların;
+
+Adresleri
+
+Bu ortaklıklardaki toplam pay
+sahiplikleri (%)
+
+Firma sahibi (sahipleri) ile es ve çocuklarının ve bunların sınırsız sorumlulukla
+katıldıkları ortaklıkların ayrı ayrı veya birlikte sermayesini veya yönetimini kontrol
+ettikleri ortaklıkların;
+
+Adları
+
+Adresleri
+
+Bu ortaklıklardaki toplam pay
+sahiplikleri (%)
+
+Firma sahibi (sahipleri) ile es ve çocuklarının, sınırsız sorumlulukla katıldıkları
+ortaklıklar ile bunların ayrı ayrı veya birlikte sermayelerini veya yönetimini kontrol
+ettikleri ortaklıkların ayrı ayrı veya birlikte, doğrudan veya dolaylı olarak sermaye,
+yönetim ve denetimleri bakımından kontrol altında bulundurdukları ortaklıkların;
+
+—
+Adları
+
+Adresleri
+
+Bu ortaklıklardaki doğrudan ve dolaylı
+pay sahiplikleri (94)
+
+[SAYFA 19]
+EK 2/3
+
+827
+
+Il-Tiizel Kişiliği Olan Firmalarda;
+
+Yönetici ve denetçilerin adları ve varsa
+sermaye payları
+
+Yönetim kurulu başkanı
+
+Yönetim kurulu üyeleri
+
+Denetçiler
+
+Yetkili kılınan müdürler
+
+Ortaklardan sermayede nitelikli paya
+sahip olanların adları ve sermayedeki pay
+oranları
+
+Ortaklardan hâkim sermaye grubuna
+dâhil olanların adları ve sermayedeki pay
+oranları
+
+Hâkim sermayedar grup dışında diğer
+sermaye gruplarının ortaklığı söz konusu
+ise bu grupların bilinen adı ve
+sermayedeki pay oranları
+
+Halka açık şirket olunup olunmadığı
+
+Yurt dışında yerleşik gerçek ve tüzel
+kişilere ait sermayenin oranı
+
+Firma sermayesinde doğrudan veya dolaylı
+
+hâkimiyeti söz konusu sermaye grubuna dâhil
+
+diğer firma ve şahıslarla birlikte veya ayrı ayrı, doğrudan veya dolaylı olarak sermaye,
+yönetim ve denetimleri bakımından kontrol altında bulundurulan ortaklıkların;
+
+.
+Adları
+
+Adresleri
+
+Bu ortaklıklardaki doğrudan ve dolaylı
+pay sahiplikleri (96)
+
+Ödeme güçlüğüne düşmesi halinde, firmanın ödeme güçlüğüne düşmesi sonucunu
+doğuracak boyutta, ilişki bulunan gerçek ve tüzel kişilerin;
+
+Adları
+
+Adresleri
+
+[SAYFA 20]
+828
+EK 2/4
+
+IV-Mali Bilgiler (Son Üç Yıla Ait)
+
+1. Yıl
+
+2. Yıl
+
+3. Yul
+
+Toplam aktifler
+
+Hazır (likit) değerler
+
+Toplam dönen değerler
+
+Uzun vadeli ve duran değerler
+
+Vadesiz ve vadesi geçmiş yabancı kaynaklar
+
+Kısa vadeli yabancı kaynaklar
+
+Uzun vadeli yabancı kaynaklar
+
+Özkaynaklar;
+
+Dönem kârı veya(zararı);
+
+Stoklar;
+
+İhracat Tutarı (ABD Doları)
+
+İthalat Tutarı (ABD Doları )
+
+Üretimden satışları
+
+Katma Değer Bilgileri
+
+Ödenen Maaş ve Ücretler
+
+Ödenen Kiralar
+
+Dolaylı Vergiler
+
+Katma Değer Vergisi
+
+Diğer Vergiler
+
+Sübvansiyonlar (-)
+
+Süb. ve vergi iadesi
+
+İhracat için iade KDV
+
+[SAYFA 21]
+829
+EK 2/5
+
+V- Diğer Bilgiler
+
+Çalışan sayısı (yıllık ortalama)
+
+Özel hesap dönemine tabi olup
+olmadığı
+
+Firmayı denetleyen bağımsız denetim
+kuruluşunun unvanı
+
+Uluslararası kredi notuna sahip olup olmadığı,
+varsa kredi notunun türü, derecesi ve alındığı
+tarih ile hangi uluslararası kredi
+derecelendirme kuruluşunca verildiği
+
+Devam eden yatırımlar;
+
+Türü
+
+Başlangıç tarihi
+
+Planlanan bitiş tarihi
+
+Yatırımın toplam tutarı
+
+Gerçekleşen yatırım tutarı
+
+VI- Yüklenici Firmalar için (Devam eden her iş
+
+doldurulacaktır);
+
+için ayrı ayrı
+
+İşveren kuruluş
+
+İşe başlama tarihi
+
+Süre uzatımı (varsa)
+
+İşin ihale bedeli
+
+Eskalasyon ve fiyat farkı
+
+Yıl sonu hak edişler
+
+Kesilen stopajlar (-)
+
+Toplam gelirler
+
+Toplam harcamalar
+
+Not: Bankalar formlara uygun gördükleri artı eklemeleri yapabilecekleri gibi satırların yetmemesi
+
+durumunda yeni satırlar açabileceklerdir.
+
+[SAYFA 22]
+EK 3/1
+
+830
+
+Ticari Kredi Niteliği Taşımayan İşlemler İçin Gerçek Kişilerden
+
+Bankalar formlara uygun gördükleri artı eklemeleri
+
+satırlar açabileceklerdir.
+
+Soyadı
+
+Adı
+
+Cinsiyeti
+
+Doğum Yeri, Tarihi
+Medeni Durumu
+
+Kimlik Kartı No.
+
+Sürüş ehliyeti (V. arsa) No
+
+Öğrenim Durumu
+
+Birlikte Oturduğu Aile
+Fertlerinin
+
+Alınacak Hesap Durumu Belgesi
+
+Baba Adı :
+
+Uyruğu
+
+Verildiği Tarih ve Yer
+
+Verildiği Tarih ve Yer:
+
+yapabilecekleri gibi satırların yetmemesi durumunda yeni
+
+Adı Soyadı
+
+Akrabalık
+Derecesi
+
+Doğum
+Tarihi
+
+Çalışıyorsa
+Mesleği
+
+Öğrenim
+Görüyorsa
+Okul Adı
+
+5.
+
+İkametgâh Adresi
+Telefonu
+
+E-Posta Adresi
+
+Sabit :
+
+Kaç Yıldır Aynı Adreste Oturduğu :
+
+Oturduğu Ev
+
+Kendi Evi (|)
+
+Mobil :
+
+Kira
+
+O
+
+Aile Fertlerinden Birine Ajt () Lojman ()
+
+[SAYFA 23]
+831
+EK 3/2
+Oturduğu Ev Kira İse
+Aylık Kira Tutarı
+Oturduğu Ev Kendisine Ya Da Aile Fertlerinden Birine Ait İse
+Üzerinde İpotek Var Mı?
+Evin Borcu Var Mı?
+İpotek Ya Da Borcu Varsa Tutarı :
+Aylık Borç Ödeme Tutarı
+İpoteğin Lehdarı
+Bağlı Olduğu Sosyal Güvenlik Kurumu
+(() Emekli Sandığı
+7 SSD Sigorta No
+(_) Diğer (Belirtiniz) No
+Mesleği
+Herhangi Bir İşyerinde Çalışıyorsa
+İşyerinin Unvanı
+Adresi
+Telefonu
+Görevi-Unvanı
+Kaç Yıldır Bu İşyerinde Çahştığı :
+Mevcut İşyerinde Çahşılan Süre İki Yıldan AZ İse
+Daha Önceki İşyerinin Unvanı
+Adresi
+Telefonu
+Çalıştığı Süre
+
+Ayrılma Nedeni
+
+[SAYFA 24]
+EK 3/3
+
+Serbest Çalışıyorsa
+İşinin Türü
+İşyeri Unvanı
+Ticaret Sicil No
+Vergi Sicil No
+Adresi
+
+Telefonu
+
+Kaç Yıldır Serbest Çalıştığı
+Sahip Olduğu Gayrimenkullerin
+
+832
+
+Plakası:
+
+. ‘ | ipotekli
+Cinsi Külü Ada | Parsel Alam | Hisse lee İpotek Lehdar
+No: No: Oram ve Derecesi
+Tutarı
+1
+2
+3
+4
+5
+Otomobili Varsa
+Markası Yılı
+Kullanım Şekli Hisse Oranı
+
+Ödemekle Yükümlü Olduğu Kredi ve Diğer Borçların
+
+Toplam Tutarı
+
+Aylık Ödeme Tutarı
+
+Kredi ve Borcun
+
+Türü
+
+Tutarı
+
+Borçlu Olunan Kurum
+
+yi Al b) el m
+
+[SAYFA 25]
+EK 3/4
+
+Banka Bilgileri
+
+833
+
+Banka Adı
+
+Şubesi
+
+Hesap Türü
+
+Bakiyesi
+
+PERE şe İl
+
+Kredi Kartı Bilgileri
+
+Kart Adı
+
+Kartı Veren Kurum
+
+Kart Numarası
+
+ilmi m
+
+Talep Edilen Kredinin
+
+Türü Tutarı Ödeme Vadesi
+1.
+2:
+KR
+4.
+5;
+Gelir Bilgileri
+
+Gelirin Türü Tutarı (Aylık Net)
+Ücret, Maaş, Kira vs. Kendisinin Diğer Aile Fertlerinin
+
+1.
+2.
+3.
+4.
+5:
+Hakkında Bilgi Alınabilecek Akraba Dışında İki Kişi Ya Da Kurumun:
+
+Türü Tutarı Ödeme Vadesi
+1s
+2.
+
+Tarih:
+
+Başvuru Sahibinin İmzası;
+
+[SAYFA 26]
+834
+EK 4
+
+Bankaların Üstlenilen Riskler için Talepte Bulunanlardan Alınacak Hesap
+Durumu Belgesi ve Eki Bilanço ve Kâr ve Zarar Cetveli ile Mali Açıklayıcı
+Notların Denetlenmesine İlişkin Raporun Düzenlenme Esasları
+
+Denetim Raporu Ek 4-A'da yer alan "Rapor Kapağı" ile Ek 4-B'de yer alan "Rapor Düzeni”ne uygun
+olarak hazırlanacaktır.
+
+1. İSTENİLECEK BELGELER
+Denetim raporunun düzenlenmesinde son üç yıllık döneme ilişkin aşağıdaki belgelerden
+
+yararlanılır;
+
+(1) Bilanço ve gelir tabloları (vergi dairesince tasdikli),
+
+(2) Bankalara verilen Hesap Durum Belgeleri,
+
+(3) Dönem sonu kesin mizanları,
+
+(4) Yasal tutulması gerekli defterler,
+
+(5) Genel Kurul Belgeleri,
+
+(6) Mali tabloların dipnotları ile ilgili bilgileri içeren yazı,
+
+(7) Kredi sözleşmeleri,
+
+(8) Kuruluşun, değişiklik ve sermaye artırımına ait Resmi Kabz Memurluğu ve Mukayyitlik
+Dairesinden alınan belge,
+
+(9) Son yıla ait tüm vergiyle ilgili Beyannameleri ve tahakkuk fişleri,
+
+(10) Varsa onay dönemleri ile ilgili denetim ve tasdik raporları ve ekleri,
+(11) İmza sirküleri aslı ve faaliyet belgesi
+
+2. YAPILACAK ÇALIŞMALAR
+
+Raporun Genel Bilgiler bölümünde yer alması gereken bilgiler, yukarıda sıralanan belgelerden
+alınabilecektir. Bu çalışmalar sırasında mümkün olduğunca belgelere sadık kalınması zorunludur.
+
+Hesap Durumu Belgesi mali açıklayıcı notları formu, belgelere ve kuruluşun yazılı ve imzalı
+beyanlarına dayanılarak hazırlanmalıdır.
+
+Aynı şekilde mali tablo dipnotları da kuruluşun yazılı ve imzalı beyanına dayanılarak
+hazırlanmalıdır,
+
+[SAYFA 27]
+835
+
+Usul incelemeleri bölümünde yer alacak hususlar yukarıdaki belgeler incelenmek suretiyle
+tespit edilecektir.
+
+Hesap incelemelerinde kuruluşun mali tablolarının mizan kayıtlarıyla mutabık olup olmadıkları
+kontrol edilmelidir. Mali tabloların denetimi esas itibariyle bir muhasebe denetimini içermekle birlikte
+son üç yıllık döneme ilişkin olarak özkaynaklardaki değişim, gelir gider yapısı, borçlar ve mali
+mükellefiyetler ayrıntılı olarak incelenecek ve değerlendirilecektir. Yapılacak çalışmalar denetim
+standartlarına uygun olacaktır.
+
+3. RAPORUN SONUÇ KISMINDA YER ALACAK BİLGİLER
+
+Raporun sonuç bölümünde, şirketçe düzenlenen ve denetlenen bilanço, kâr-zarar tablosu (gelir
+tablosu) ve hesap durumu belgesinin muhasebe ilke ve kurallarına uygun olduğu veya şartlı olarak
+uygun olduğu veya uygun olmadığı belirtilecektir,
+
+[SAYFA 28]
+836
+EK 4-A
+
+..le120...
+Rapor Sayısı :
+
+Rapor Ekleri :
+
+HESAP DURUMU BELGESİ VE EKİ BİLANÇO VE KÂR VE ZARAR
+CETVELİ DENETİM RAPORU KAPAĞI
+
+Denetimi Yapan Meslek Mensubunun
+ADI SOYADI
+BAĞLI OLDUĞU ODA
+BÜRO ADRESİ
+TEL. NUMARASI
+Dayanak Sözleşmenin
+TARİHİ
+SAYISI
+Kredi Müşterisinin
+ADI SOYADI (ÜNVANI)
+ADRESİ
+VERGİ DAİRESİ ve
+VERGİ HESAP NO
+TEL.NUMARASI
+MUHASEBECİSİ
+
+İNCELEME DÖNEMİ :
+
+İNCELEME KONUSU :
+
+SONUÇ :
+
+[SAYFA 29]
+837
+
+EK 4 -B
+
+RAPOR DÜZENİ
+
+I GENEL BİLGİ
+
+Bu bölümde en az aşağıdaki bilgiler yer alacaktır.
+
+Kredi müşterisinin adı, soyadı, unvanı, nitelikli paya sahip ortaklarının adları ve adresleri,
+Kredi müşterisinin faaliyet konusu ile faaliyette bulunduğu sektör veya sektörlere ilişkin
+değerlendirmeler, firmanın sektördeki konumu,
+
+Kredi müşterisinin yönetim kurulu başkanı, yönetim kurulu üyeleri, genel müdürü ve genel
+müdür yardımcılarının ad ve soyadları,
+
+Kredi müşterisinin ticaret sicil numarası,
+
+Kredi müşterisinin muhasebesinden ve muhasebe denetiminden sorumlu olanların adları ile
+bulunması halinde Maliye Bakanlığından alınan yetki belgesi veya diğer uluslararası nitelikteki
+unvanı alıp almadıkları,
+
+Kredi müşterisinin organizasyon yapısı, iç kontrol sistemi ve varsa risk yönetimi ile ilgili
+düzenlemeleri,
+
+Kredi müşterisinin muhasebe sistemine ilişkin değerlendirme,
+
+Varsa kredi müşterisinin iştirakleri, bunlardaki pay oranları ve bunların faaliyet gösterdiği
+
+sektörlere ilişkin bilgiler,
+
+Il. USUL İNCELEMELERİ
+
+Bu bölümde en az aşağıdaki hususlar tespit edilecektir.
+
+Yasal defterlerin tasdikine ilişkin bilgiler,
+Defter kayıtlarının kayıt nizamına, muhasebe ilkelerine uygun olup olmadığı,
+
+Kayıtların belgelere göre yapılıp yapılmadığı.
+
+[SAYFA 30]
+838
+UL. HESAP İNCELEMELERİ
+
+Bu bölümde bilanço ve kâr ve zarar cetvelinin, mali tabloların çıkarılmasına ilişkin usul ve esaslara
+uygun olarak düzenlendiğine ilişkin açıklamalar ile birlikte son üç yıllık döneme ilişkin olarak
+özkaynak değişim tablosuna ve ayrıntılı bir gelir gider analizine, ayrıca kredi müşterisinin borçları ve
+
+mali mükellefiyetlerine ilişkin olarak yapılacak ayrıntılı değerlendirmelere yer verilecektir.
+
+IV. DENETLENEN MALİ TABLOLAR
+
+Hesap Durumu Belgesi ile eki bilanço, kâr ve zarar cetveli ile mali açıklayıcı notlar,
+
+V. SONUÇ
+
+EKLER:
+1, Meslek Mensubu tarafindan denetlenmiş Bilanço,
+2. Meslek Mensubu tarafından denetlenmiş Gelir Tablosu,
+3. Meslek Mensubu tarafindan denetlenmiş Hesap Durumu Belgesi,
+
+4. Mali Açıklayıcı Notlar.
+
+[SAYFA 31]
+EK S
+
+pi
+
+4-
+
+839
+
+“KAR-ZARAR ORTAKLIĞI YATIRIM SÖZLEŞMESİ”NDE
+BULUNMASI GEREKEN ASGARİ UNSURLAR
+
+Katılım bankası ve fon kullananın açık unvanları ve anlaşmayı yapan yetkililerin
+
+isimleri ve imzaları,
+Tarafların adresleri,
+Kullandırılan fonun tutarı;
+TL;
+Döviz :
+Varsa Alınacak Teminatlar:
+Katılım bankası ile fon kullananın kâr ve zararına iştirak oranları:
+Kara iştirak oranı o :X..
+Zarara iştirak oranı :W...
+
+Kurum'un zarar halinde ödeyeceği tutarın kullandırdığı fonla sınırlı olduğu,
+
+Fon kullananın kâr-zarar ortaklığı sözleşmesine esas faaliyetinin kapsamı ve
+
+açıklaması,
+
+Kâr-zarar ortaklığının süresi.
+
+[SAYFA 32]
+840
+EK 6
+
+DÖVİZ KREDİLER İLE İLGİLİ MÜŞTERİ BİLGİLENDİRMESİ
+
+Yabancı para cinsinden borçlanılan bir kredinin faiz oranı, Türk
+Lirası kredi faiz oranlarına göre daha avantajlı görülmekle birlikte, döviz
+kurundaki muhtemel artışlar sebebiyle, ödenecek kredi taksitlerinin Türk
+Lirası cinsinden karşılığı doğrudan etkilenmektedir. Bunun sebebi ise
+döviz kredilerin barındırdığı kur riskinden kaynaklanmaktadır.
+
+Kur riski ise müşterinin gelirini sağladığı para birimi dışında yabancı
+bir para birimi üzerinden borç alması durumunda ortaya çıkan risktir.
+Döviz kurlarındaki artıştan ötürü kur farkının ortaya çıkması durumunda
+kullanılan kredinin maliyeti artacaktır.
+
+Bu sebeple müşterilerin gelecekteki taksit ödemelerinde döviz
+kurlarındaki muhtemel artışlar sebebiyle ödeme zorluğu çekmemeleri için
+gelirlerini elde ettikleri para cinsinden borçlanması tavsiye edilir.
+
+Yukarıda açıklanan bilgilerin tarafıma banka yetkilisi tarafından
+sözlü olarak okunduğunu ve konu hakkında gerekli bilgilendirmenin
+yapıldığını, yabancı para cinsinden kredi kullanmanın kur riski
+barındırdığını ve döviz kurunda meydana gelebilecek dalgalanmalardan
+ötürü ödenecek kredi taksitlerinin Türk Lirası cinsinden karşılığının sabit
+olmayacağını ve kurdaki hareketin yönüne göre azalabileceği gibi
+artabileceğinin farkında olarak ve tüm riski göze alarak döviz kredisi
+borçlanmayı kabul ettiğimi beyan ederim.
+
+Müşteri Adı: Banka Yetkilisi Adı:
+İmza: İmza
+
+[SAYFA 33]
+841
+
+Tablo-1
+BASLANGIC VADESi Faiz Oranına İlişkin Döviz Kuruna ve Altına
+(Sözleşme Üzerindeki Vade) Sözleşmeler (%) İlişkin Sözleşmeler (95)
+İki Haftaya Kadar Vadeli 0 0
+Bir Yil ve Daha Az Vadeli 0,5
+Bir Yıldan İki Yıla Kadar 4. 5
+iki Yil ve iki Yildan Sonraki Her a 3
+İlave Yıl İçin
+Tablo-2
+Diğer
+VABEYE miri Hisse Senedine Altın Dışındaki Varlıklara
+SÜRE in Fi İlişkin
+(once Ürünğeki İlişkin Kıymetli Madenlere ae
+Sözleşmeler (4) _| İlişkin Sözleşmeler (%) Sözleşmeler
+Vade) (%)
+Vadesine Bir Yil veya
+Daha Az Kalmış Olanlar 6 10
+Vadesine Bir Yıldan
+Fazla, Beş Yıldan Az
+Kalmış Olanlar 8 2
+Vadesine Beş Yıl ve Daha 10 15
+Fazla Kalmış Olanlar

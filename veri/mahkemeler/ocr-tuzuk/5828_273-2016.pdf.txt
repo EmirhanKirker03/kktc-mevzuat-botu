@@ -1,0 +1,5027 @@
+[SAYFA 1]
+KUZEY KIBRIS TÜRK CUMHURİYETİ
+RESMI GAZETE
+
+Sayı: 49 ERK Ui 18 Nisan, 2016
+TEBLİĞ VE İLANLAR
+
+Sayı: 273
+
+METROLOJİ (ÖLÇÜ VE ÖLÇÜ ALETLERİ)
+YASASI
+(34/2014 sayılı Yasa)
+
+Madde 7 (1) ve 14 Altında Yapılan Tüzük
+Kuzey Kobus Türk Cumhuriyeti Bakanlar Kurulu, Metroloji (Ölçü ve Ölçü Aletleri)
+
+Yasası'nın 7?nci maddesinin (1 Y'inci fıkrasının ve 14*üncü maddesinin kendisine verdiği yetkiye
+dayanarak Bakanlıkça hazırlanan aşağıdaki Tüzüğü yapar:
+
+(529)
+
+[SAYFA 2]
+Kısa İsim
+
+Tefsir
+
+530
+
+1. Bu Tüzük, Ölçü Aletleri Tüzüğü olarak isimlendirilir.
+
+BİRİNCİ KISIM
+Genel Kurallar
+
+2. Bu Tüzükte metin başka türlü gerektirmedikçe;
+
+“AB”, Avrupa Birliğini anlatır.
+
+“AB Tip Onayı”, ölçü aletinin Avrupa Birliğindeki ilgili teknik
+düzenlemelere göre üretildiğinin test edilmesi, muayene edilmesi ve/veya
+belgelendirilmesine ilişkin her türlü işlemi anlatır.
+
+“Alt Montaj Cihazı”, Ölçü aletine özgü eklerde tanımlanan bir ölçü aletini,
+uyumlu olduğu diğer alt/ara montajlar veya bir başka ölçü aleti ile bir araya
+getiren ve bağımsız olarak fonksiyon ifa eden donanım cihazını anlatır.
+“Bakanlık”, Ticaret Dairesinin bağlı olduğu Bakanlığı anlatır.
+
+“CE İşareti”, Avrupa Birliğinin, bir ürün veya ürün grubu için oluşturmuş
+olduğu ürün mevzuatı olarak bilinen temel gereklere, ürünün uyumlu
+olduğunu gösteren bir uygunluk işaretidir. Bu işaret, kalite güvencesine
+ilişkin bir işaret değildir. Ürünün, insan sağlığı, can ve mal güvenliği, hayvan
+ve bitki yaşamı ile sağlığı ve çevre ile tüketicinin korunması açısından asgari
+güvenlik koşullarına uygun olduğunu gösteren bir işaret olup, bu işarete
+sahip ürünlerin, Avrupa Birliği üyesi ülkelerde serbest dolaşım hakkının
+varlığını anlatır.
+
+“Kullanıma Sunma”, Ölçü aletinin, kullanım amaçları doğrultusunda
+kullanıcı için ilk kullanımını anlatır.
+
+“Metrolojik Kontrol”, Kamu menfaati, kamu sağlığı, kamu güvenliği, kamu
+düzeni, tüketicilerin ve çevrenin korunması, vergi ve harçların toplanması,
+adil ticaret gibi sebeplerle bir ölçü aletinin ölçme işlemlerinin kontrolünü
+anlatır. i
+
+“Norm Doküman”, Uluslararası Yasal Metroloji Organizasyonunu (OIML)
+tarafından kabul edilen teknik özellikleri içeren dokümanı anlatır.
+
+“Ölçü Aleti”,
+
+(A) Ağırlık ölçüleri, uzunluk, alan, hacim, basınç, hız, yoğunluk, zaman,
+sıcaklık ve ısı ölçüm aletleri, alkolmetre ve alkol hidrometreleri, alkol
+tabloları, tartı aletleri, hazır ambalajlama işlemleri, hububat muayene aletleri,
+sıkıştırılmış ve sıvılaştırılmış gaz sayaçları ile sıvıların veya gazların kütlesel
+ölçümünü yapan sistemler, su haricindeki sıvıların ölçüm sistemleri, trafikte
+hız ölçümünde kullanılan aletler, taşıtlarda kullanılan hızölçerler ve hiz
+sınırlayıcıları, takograf cihazları, motorlu taşıt lastiklerinin hava basıncı
+ölçümünde kullanılan cihazlar, sağlık, güvenlik ve çevrenin korunması
+hizmetlerinde kullanılan ölçüm cihazları, gemi tankları, ölçü şişeleri ile ölçü
+
+[SAYFA 3]
+34/2014
+
+Amaç
+
+Kapsam
+
+Temel Gerekler
+Ek 1
+
+531
+
+olarak kullanılan ecza kaplarını,
+(B) Ölçü aletinin parçaları, ilave cihaz ve donanımlarından oluşan ve ölçü ve
+ölçü aleti olarak nitelenen ürünlerini, ve
+(O) Ölçü aletlerine ait yardımcı donanımlarını
+anlatır.
+“Piyasaya Arz”, Kullanıcı için amaçlanan bir ölçü aletinin bedelli veya
+bedelsiz olarak piyasada yer alması için yapılan ilk faaliyeti anlatır.
+“Uygunluk Değerlendirme Kuruluşu”, bu Tüzük kapsamındaki ölçü
+aletlerinin, bu tüzük ve ilgili tüzüklere uygunluğunun test edilmesi, muayene
+edilmesi ve/veya belgelendirilmesi ile ilgili tüzükte geçen işaret ve damga
+işlemlerine ilişkin faaliyette bulunan özel kuruluşu veya kamu kuruluşunu
+anlatır.
+“Uygunluk Değerlendirmesi”, ürünün, ilgili teknik mevzuata uygunluğunun
+test edilmesi, muayene edilmesi ve/veya belgelendirilmesine ilişkin her türlü
+faaliyeti anlatr.
+“Uyumlaştırılmış Standard”, Avrupa Birliği Komisyonunun talimatı üzerine
+Avrupa Parlamentosunun 98/34/EC Direktifine uygun olarak Avrupa
+Standardizasyon Komitesi (CEN), Avrupa Elektroteknik Standardizasyon
+Komitesi (CENELEC) ve Avrupa Telekomünikasyon Standartları
+Ensütüsünün (ETSI) ikisi veya üçünün birlikte çalışarak uyumlaştırdıkları
+bir teknik dokümanı anlatır.
+“Yasa”, Metroloji (Ölçü ve Ölçü Aletleri) Yasasını anlatır.
+“Yetkili Daire”, Ticaret Dairesini anlatır.
+“Yetkili Temsilci”, Bu Tüzüğün (o kapsamındaki işler için bir üretici
+tarafından kendi adına hareket etmek amacıyla yazılı olarak yetkilendirilen
+gerçek veya tüzel kişiyi anlatır.
+Bu Tüzükte kullanılan ve Yasada tanımlanan diğer herhangi bir
+sözcük, tanım veya deyim, metin başka türlü gerektirmedikçe söz konusu
+Yasada ona verilen anlamı taşır,
+
+3. Bu Tüzüğün amacı, bu Tüzüğün 4'üncü maddesinde belirtilen cihaz ve
+sistemlerin piyasaya arz edilmesi ve/veya kullanıma sunulması halinde
+metrolojik kontrollerini ve taşıması gereken şartları düzenlemektir.
+
+4. o Bu Tüzük, su sayaçları (MI-001), gaz sayaçları ve hacim dönüştürme
+cihazları (MI-002), aktif elektrik enerji sayaçları (MI-003), ısı sayaçları
+(MI-004), su haricindeki sıvıların miktarlarını sürekli ve dinamik ölçen
+ölçme sistemleri (MI-005), otomatik tart: aletleri (MI-006),
+taksimetreler (MI-007), malzeme ölçerler (MI-008), boyutsal ölçüm
+cihazları (MI-009) ve egzoz gazı analiz cihazları (MI-010) ile ilgili
+olarak bu Tüzüğün ölçü aletine özgü eklerinde tanımlanan ölçüm
+fonksiyonu olan cihazları ve sistemleri kapsar.
+
+ğ İKİNCİ KISIM
+Ölçü Aletlerinin Taşıması Gereken Şartlar ve Metrolojik Kontrolleri
+
+5» G) Birölçüaleti, bu Tüzüğe bağlı Ek 1'de yer alan temel gerekler ve
+ilgili ölçü aletine özgü ekte yer alan temel gerekleri karşılamak
+zorundadır.
+
+[SAYFA 4]
+Uygunluk İşareti
+
+Piyasaya Arz ve
+Kullanıma Sunma
+
+6.
+
+7.
+
+(4)
+
+(1)
+
+(4)
+
+532
+
+Bakanlık, ölçü aletinin doğru kullanımı için ihtiyaç duyulması
+halinde bu Tüzüğe bağlı Ek 1'de veya ilgili ölçü aletine özgü
+eklerde atıfta bulunulan bilgiyi Türkçe isteyebilir.
+
+Bir ölçü aletinin temel gereklere uygunluğu bu Tüzüğün 9 uncu
+maddesine göre değerlendirilir.
+
+Bir ölçü aletinin bu Tüzükte belirtilen kuralların tamamına
+uygunluğu, bu Tüzüğün 13'üncü maddesinde belirtilen "CE"
+işareti ve ona ek olarak metroloji işaretinin aletin üzerindeki
+varlığı ile gösterilir.
+
+"CE" işareti ve ek metroloji işareti, ölçü aletine üretici tarafından
+veya onun sorumluluğu altında konulur. Bu işaretler gerektiğinde
+üretim sürecinde konulabilir.
+
+Bir ölçü aleti üzerine, "CE" işareti ve ek metroloji işaretinin
+anlamı ve/veya şekli konusunda üçüncü tarafları yanıltacak
+işaretlerin konulması yasaktır. Bir ölçü aleti üzerine, "CE"
+işareti ve ek metroloji işaretinin görünürlüğü ve okunabilirliği
+engellenmeyecek şekilde başka bir işaret konulabilir.
+
+Ölçü aletinin, "CE" işaretinin konulmasını gerektiren bu Tüzük
+dışındaki başka Tüzükler kapsamında tedbirlere de tabi olması
+durumunda, işaret söz konusu ölçü aletinin diğer Tüzük
+gereklerine de uygun olduğunu gösterir. Bu durumda, ölçü
+aletinin beraberinde verilen doküman, uyarı ve talimatlarda, söz
+konusu Tüzüklerin Resmi Gazete'de yayımlanması ile ilgili
+referanslara yer verilir.
+
+Bakanlık, bu Tüzüğün 6’nci maddesine uygun olarak "CE"
+işareti ve ek metroloji işaretini taşıyan herhangi bir ölçü aletinin
+piyasaya arz edilmesini ve/veya kullanıma sunulmasını bu Tüzük
+kapsamındaki nedenlerden dolayı engelleyemez.
+
+Bakanlık, ölçü aletlerinin bu Tüzüğün gereklerini karşılaması
+halinde piyasaya arz edilmesi ve/veya kullanıma sunulmasını
+temin etmek üzere gerekli tüm tedbirleri alır.
+
+Bakanlık, bir ölçü aletinin, yerel iklim koşullarının gerekli kıldığı
+kullanıma sunma koşullarını karşılamasını talep edebilir. Bu gibi
+durumlarda Bakanlık, bu Tüzüğe bağlı Ek 1'de yer alan
+Tablo-l’deki uygun üst ve alt sıcaklık limitlerini seçer ve
+amaçlanan kullanım yerinin açık veya kapalı olup olmayacağını
+ve yoğunlaşan veya yoğunlaşmayan nem koşullarını belirler.
+Bir ölçü aleti için farklı doğruluk sınıfları tanımlandığında:
+
+(A) Kullanıma sunma başlığı altındaki ölçü aletine özgü ekler
+belirli uygulamalar için kullanılacak olan doğruluk
+sınıflarını gösterir.
+
+(B) Diğer tüm durumlarda Bakanlık, ülke içindeki tüm
+doğruluk sınıflarının kullanımına imkan sağlamak üzere,
+belirli durumlardaki uygulamalar için kullamlacak olan
+doğruluk sınıflarım, tanımlanan sınıflar içinden tespit
+eder.
+
+[SAYFA 5]
+Uygunluk
+Değerlendirmesi
+
+Teknik
+Dokümantasyon
+
+533
+
+(C) Yukardaki (A) ve (B) bentlerinde belirülen her iki
+durumda da, bir üst doğruluk sınıfındaki ölçü aletleri
+kullanıcının tercih etmesi halinde kullanılabilir.
+
+Bakanlık, bu Tüzüğe uygun olmayan ölçü aletinin,
+uygunsuzluğunun görünür bir işaret ile açıkça gösterilmesi ve
+uygunsuzluk giderilinceye kadar ölçü aletinin piyasaya arz
+edilmeyeceğinin ve kullanıma sunulmayacağının belirülmesi
+halinde, ticari fuarlarda, sergilerde, gösterimlerde sergilenmesine
+engel olamaz.
+
+Bir ölçü aletinin temel gereklere ilişkin uygunluk
+değerlendirmesi, üreticinin ölçü aletine özgü ekte listelenen
+uygunluk değerlendirmesi prosedürleri arasından seçeceği birinin
+uygulanması ile yerine getirilir. Üretici gerektiğinde ölçü aletleri
+veya ölçü aletleri grupları için bu Tüzüğün 9’uncu maddesinde
+belirlenen teknik dokümantasyonu sağlamak zorundadır.
+Prosedürler ile ilgili uygunluk değerlendirme modülleri bu
+Tüzüğe bağlı Ek-A ile Ek-HI arasında tanımlanmıştır.
+
+Uygunluk değerlendirmesi ile ilgili kayıt ve yazışmalar, Türkçe
+veya Bakanlığın uygun göreceği dilde yapılır.
+
+Teknik dokümantasyon, bir ölçü aletinin tasarım, üretim ve
+çalışmasını anlaşılır ve bu Tüzüğün gereklerine uygunluğunun
+değerlendirilmesini sağlayacak şekilde düzenlenir.
+
+Teknik dokümantasyon, aşağıdaki hususları sağlayacak şekilde
+
+yeterince detaylandırılmak zorundadır:
+
+(A) Metrolojik karakteristiklerin tanımlanması,
+
+(B) Uygun yöntemler kullanılarak doğru ayarlandığında
+üreilen ölçü aletlerinin metrolojik performansının
+yeniden üretilebilirliği,
+
+(©) — Ölçüaletinin doğruluğu.
+
+Teknik dokümantasyonun mümkün olduğunca ölçü aletinin tipi
+
+ve/veya tanımı ile uygunluk değerlendirmesi için aşağıdaki
+
+hususları içermesi gerekir:
+
+(A) — Ölçü aletinin genel tanımı,
+
+(B) Oo Tasarım ve imalat çizimleri, bileşenler, alt montaj
+cihazları ve elektrik devreleri gibi unsurların planları,
+
+(C)  Uygun üretimi sağlamak için imalat prosedürleri,
+
+(Ç) Oo Uygulanabildiği durumlarda, elektronik cihazların
+özelliklerini ve çalışmasını açıklamak üzere, çizim,
+diyagram, mantık akış diyagram: ve genel yazılım
+bilgilerini içeren tanımı,
+
+(D) o Ölçü aletinin çalışmasını da içeren, yukarıdaki (B), (O)
+ve (Ç) bentlerinin anlaşılması için gerekli tanımlamaları
+ve açıklamaları,
+
+(E) Bu Tüzüğün |Il'inci maddesinde atıfta bulunulan,
+tamamen veya kısmen uygulanan standart ve/veya norm
+dokümanların listesi, s
+
+[SAYFA 6]
+Onaylanmış
+Kuruluş Kriterleri
+
+10.
+
+4)
+(5)
+
+(1)
+
+(F)
+
+(3)
+
+(G)
+
+(1)
+
+534
+
+Bu Tüzüğün Ilinci maddesinde atıfta bulunulan
+standartların ve/veya norm dokümanların uygulanmadığı
+durumlarda, temel o gereklerinin karşılanması için
+benimsenen çözümlerin açıklamaları,
+
+Tasarım hesaplamaları ve muayenelerinin sonuçları,
+Gerekmesi halinde AB tip onayı ve/veya ölçü aletlerinin
+nominal çalışma şartları ve belirlenmiş çevresel
+bozukluklar altında bu Tüzüğün gerekleri ile gaz, su, Isı
+ve su haricindeki sıvı sayaçlarının dayanıklılık
+özelliklerini karşıladığını gösteren test sonuçları,
+Tasarımdakiler ile benzer olan parçalar içeren Ölçü
+aletleri ile ilgili AB tip onayı inceleme sertifikaları veya
+AB tip onayı tasarım inceleme sertifikaları.
+
+Üretici tarafından mühürlerin ve işaretlerin yerleri belirtilir.
+Üretici, gerekmesi halinde ölçü aletinin arabirimlere ve alt
+montaj cihazlarına uygunluk şartlarını göstermek zorundadır.
+
+Bakanlık, onaylanmış kuruluş olarak yetkilendireceği uygunluk
+değerlendirme kuruluşlarında aşağıda yer alan hususları göz
+önünde bulundurur:
+
+(A)
+
+(B)
+
+(C)
+
+©)
+
+(D)
+
+Üretici ile kuruluş arasında uygunluk değerlendirmesi
+
+amacıyla yapılacak olan teknik bilgi alış verişi hariç,
+
+uygunluk değerlendirmesi yapan kuruluş, kuruluşun
+yöneticisi veya personeli;
+
+(a) (o Değerlendirecekleri ölçü aletinin tasarımcısı,
+üreticisi, tedarikçisi, montajcısı, kullanıcısı veya
+bunlardan her hangi birinin yetkili temsilcisi,
+
+(0) O Ölçü aletinin tasarım, imalat, pazarlama veya
+bakım işleri ile doğrudan ilişkili ve bu tür
+faaliyetlere giren tarafların temsilcisi
+
+olamaz
+Uygunluk değerlendirmesi yapan kuruluş, kuruluşun
+yöneticisi ve personeli, değerlendirmelerin sonuçları ile
+ilgili çıkarları olan kişiler veya gruplardan gelebilecek
+ve (kararlarını veya uygunluk (değerlendirmesi
+sonuçlarını etkileyebilecek olan özellikle mali baskı
+olmak üzere her türlü baskı ve etkiden uzak olmak
+zorundadır.
+Uygunluk değerlendirmesi yapan kuruluş metroloji
+alanında en üst düzeyde mesleki doğruluk ve yeterliliğe
+sahip olmak zorundadır.
+Uygunluk değerlendirmesi yapan kuruluşun; kendisi
+tarafından veya kendi adına ve sorumluluğu altında
+yapılmış olan tüm uygunluk değerlendirme görevlerini
+yerine Oo getirebilme O yeteneğine (o ve uygunluk
+değerlendirmesinin (gerektirdiği idari ve teknik
+faaliyetleri doğru olarak yerine getirmek için gereken
+personel ve imkanlara sahip olması gerekir.
+
+Uygunluk değerlendirmesi yapan kuruluş personeli;
+
+[SAYFA 7]
+Uyumlaştırılınış
+Standartlar ve
+Norm
+Dokümanlar
+
+11.
+
+0)
+
+(2)
+
+535
+
+(a) Kuruluşun sorumluluğundaki tüm uygunluk
+değerlendirmesi faaliyetlerini kapsayan teknik
+ve mesleki eğitime,
+
+(b) Yapacağı işlerle ilgili yeterli bilgi ve deneyime,
+(c) Görevlerin yerine (o getirildiğini (o gösteren
+sertifikaları, kayıtları ve raporları düzenleyecek
+niteliğe
+sahip olmak zorundadır.
+(E) Kuruluşun, kuruluş yöneticisi ve personelinin alacakları
+
+ücret yapılan işlerin sayısına ve bu işlerin sonuçlarına
+bağlı olamaz.
+
+(F) Devlet tarafından karşılanan sorumluluk sigortası
+bulunmadığı takdirde kuruluş, Özel sorumluluk
+sigortasına sahip olmak zorundadır.
+
+(G) Kuruluşun yönetici ve personeli, bu Tüzüğe göre
+belirlenen gdrevlerin yerine getirilmesinde elde
+edecekleri tüm bilgilerle ilgili olarak, Bakanlık
+yetkilileri ile yapacakları bilgi alışverişi dışında,
+mesleki gizlilik kurallarına bağlı kalmak ve bunları
+uygulamak zorundadır.
+
+Bakanlık, Bu Tüzüğün gerektirdiği uygunluk değerlendirme
+işlemlerini Oo gerçekleştirmek Oo üzere, Yasanin Oo 14'üncü
+maddesindeki koşullara göre, yukarıdaki (1)'inci fıkrada yer alan
+kriterleri karşılayan ve uygunluk değerlendirme kuruluşlarını,
+Onaylanmış Kuruluş olarak yetkilendirir.
+
+Bakanlık, bir ölçü aletinin AB Resmi Gazetesi'nin C serisinde
+referans oOnumarası yayimlanan uyumlaştırılmış Avrupa
+standardının veya ulusal standardın ilgili bölümlerine uygun
+olması halinde bu Tüzüğe bağlı EK 1'de ve ölçü aletine özgü
+eklerde belirtilen temel gereklere uygun olduğunu kabul eder.
+Ölçü aletinin yukarıdaki (IYinci fıkrada belirtilen ulusal
+standartların ilgili bölümleri ile kısmen uyumlu olması halinde
+Bakanlık, ölçü aletinin ulusal standardın uygun olduğu
+bölümlerine karşılık gelen temel gereklere uygun olduğunu
+kabul eder.
+
+Bakanlık, yukarıdaki (1)'inci fıkrada belirtilen AB standartların
+referans numaralarını yayımlar.
+
+Bakanlık, ölçü aletinin, AB Resmi Gazetesi'nin C Serisinde
+referans numarası yayımlanan ve bu Tüzüğün 10'uncu
+maddesinde belirtilen kuruluşun hazırladığı norm dokümanlar ile
+listelerin ilgili bölümlerine uygun olması halinde, bu Tüzüğe
+bağlı EK 1'de ve ölçü aletine özgü eklerde belirtilen temel
+gereklere uygun olduğunu kabul eder.
+
+Bakanlık, ölçü aletinin yukarıdaki (4)'üncü fikrada belirtilen
+norm dokümana kısmen uyumlu olması halinde, ölçü aletinin
+ilgili kısmına karşılık gelen temel gereklere uygun olduğunu
+kabul eder,
+
+[SAYFA 8]
+Bilgilendirme
+
+İşaretleme
+Ek2
+
+Piyasa Denetimi
+
+(6)
+
+(7)
+
+(8)
+
+536
+
+Bakanlık, yukarıdaki (4)'üncü fıkrada belirtilen norm dokümanın
+referans numaralarını yayımlar.
+
+Üretici, bu Tüzüğe bağlı Ek 1’de ve ilgili ölçü aletlerine özgü
+eklerde belirtilen temel gerekler ile uyum sağlayan herhangi bir
+yöntemi seçebilir. Ayrıca üretici, uygunluk varsayımından
+yararlanmak için, ilgili uyumlaştırılmış Avrupa standartlarını
+veya bu maddede atıfta bulunulan norm dokümanlar ile listelerde
+belirtilen yöntemleri doğru olarak uygular.
+
+Bakanlığın, bu Tüzüğün 9’uncu maddesinin (3 Yüncü fıkrasının
+(Ğ) bendinde yer alan testlere uygunluğu kabul etmesi için, test
+programı bu maddede belirtilen dokümanlara göre yapılır ve test
+sonuçları temel gerekleri karşılamak zorundadır.
+
+12. Bakanlık, bu Tüzük kapsamındaki konular ile ilgili olarak Uluslararası
+Yasal Metroloji Teşkilatı'nın (OTML) çalışmaları hakkında ilgili tarafların
+bilgilendirilmesi için gerekli tedbirleri alır.
+
+3. (0
+
+(2)
+
+(5)
+
+14. (1)
+
+(2)
+
+Bu Tüzüğün 6’inc1 maddesinde belirtilen “CE” işareti “CE”
+sembolünden oluşur ve bu Tüzüğe bağlı Ek 2'de belirtilen örnek
+çizime göre en az 5 mm yüksekliğinde konulur.
+
+Ek metroloji işareti, büyük "M" harfini ve konulduğu yılın son
+iki rakamını içerecek şekilde bir dikdörtgen ile çevrelenir.
+Dikdörtgenin yüksekliğinin "CE" işaretinin yükseldiğine eşit
+olması ve ek metroloji işaretinin "CE" işaretinin hemen yanında
+bulunması gerekir.
+
+Uygunluk değerlendirme prosedürü gerektiriyorsa onaylanmış
+kuruluşun kimlik numarası, "CE" işaretini ve ek metroloji
+işaretini takip eder.
+
+Ölçü aleti, alt montaj cihazı olmayan bir grup cihazla birlikte
+çalışıyorsa, işaretler ana cihaza; çok küçük veya çok hassas ise,
+bu Tüzüğün gerektirdiği dokümanlara ve varsa ambalajına
+konulur.
+
+"CE" işareti, ek metroloji işareti ve onaylanmış kuruluşun kimlik
+numarası, silinemez, çıkarılamaz, açıkça görülebilecek veya
+kolayca erişilebilecek şekilde konulur.
+
+Bakanlık, "CE" işareti ve ek metroloji işaretlerini taşıyan,
+kullanım talimatlarına göre çalıştırlan bir ölçü aletinin
+tamamının veya bir parçasının bu Tüzükte belirtilen metrolojik
+performansla ilgili temel gerekleri karşılamadığını tespit ederse;
+bu ölçü aletlerinin piyasadan toplatılması, piyasaya arz
+edilmesinin veya kullanıma sunulmasının yasaklanması veya
+sınırlandırılması için yasada belirtilen gerekli tedbirleri alır.
+Bakanlığın, "CE" işareti ve ek metroloji işaretinin uygun
+olmayan şekilde konulduğunu tespit etmesi durumunda, üretici
+veya onun yetkili temsilcisi aşağıdaki hususları yerine
+getirmekle yükümlüdür:
+
+VA) Vwlemdali (TYinci fikrada belirtilen hususların dışındaki
+
+[SAYFA 9]
+(4)
+
+537
+
+(B) Bakanlık tarafından belirlenen şartlar dahilinde ihlale son
+vermek.
+Yukarıdaki (2'nci fıkradaki ihlalinin devam etmesi halinde,
+Bakanlık, yukarıdaki (l)inci fikra uyarınca ölçü aletinin
+toplatılması, piyasaya arz edilmesi veya kullanıma sunulmasının
+yasaklanması veya sınırlandırılması için Yasa uyarınca
+öngörülen gerekli tedbirleri alır.
+Bu Tüzük uyarınca, bir ölçü aletinin toplatılması, piyasaya arz
+edilmesinin veya kullanıma sunulmasının yasaklanması veya
+sınırlandırılması yönünde alınan karar, doğru ve somut
+gerekçelere dayanmak zorundadır. Bu karar; ilgili tarafa, sahip
+olunan yasal haklar ve bu haklarla ilgili süre kısıtlamalarını da
+içerecek şekilde gecikmeksizin bildirilir.
+
+ÜÇÜNCÜ KISIM
+Son Kurallar
+
+Ceza Kuralları 15. Bu Tüzük kurallarına aykırılık halinde, Yasadaki 16'ncı ve 17'inci
+maddedeki kurallar uygulanır.
+
+Yürütme Yetkisi 16. Bu Tüzük Bakanlık tarafından yürütülür.
+
+Yürürlüğe Giriş 17. Bu Tüzük, Resmi Gazete'de yayımlandığı tarihten başlayarak yürürlüğe
+
+girer.
+
+[SAYFA 10]
+538
+
+Ekler
+EK 1
+TEMEL GEREKLER
+Ölçüm sonucundan etkilenebilecek tarafların sonuçtan güven duyabilmesi için ölçü aletinin
+yüksek düzeyde bir metrolojik koruma sağlaması ve ölçüm teknolojisi ile ölçüm verilerinin güvenliği
+açısından da yüksek düzeyde bir kalite sağlayacak şekilde tasarımlanıp imal edilmesi gerekir.
+
+Ölçü aletlerinin sağlayacağı gerekler aşağıda belirtilmekte olup, uygun yerlerde, genel
+gereklerin belirli durumları hakkında daha çok ayrıntıya yer veren ve Mİ-001'den MI-010'a kadarki
+eklerde yer alan belirli ölçü aletleri için verilmiş gerekler de uygulanır.
+
+Gereklerin yerine getirilmesi için kullanılacak yöntemlerde, ölçü aletinin amaçlanan kullanımı
+
+ve öngörülebilen yanlış kullanımı da dikkate alınır.
+
+TANIMLAR
+
+Ölçülen büyüklük: Ölçülen büyüklük, ölçüme tabi olan belirli miktardır.
+
+Etki büyüklüğü: Etki büyüklüğü, ölçülen büyüklük olmayan, ancak ölçüm sonucunu etkileyen
+miktardır.
+
+Nominal çalışma şartları: Nominal çalışma şartları, bir ölçü aletinin normal çalışma şartlarını
+oluşturan ölçülen büyüklük ve etki büyüklüğü için belirlenen değerlerdir.
+
+Bozukluk: Uygun şartlarda tanımlanan sınırlar dahilinde bir değere sahip olmakla birlikte bir
+ölçü aletinin nominal çalışma şartları dışında olan etki büyüklüğüdür. Nominal çalışma şartları
+belirlenmemiş etki büyüklüğü bir bozukluktur.
+
+Kritik değişim değeri: Kritik değişim değeri, ölçüm sonuçlarındaki değişikliğin kabul
+edilemez olduğu değerdir.
+
+Malzeme ölçer: Malzeme ölçer, kullanımı esnasında verilen miktarın bir veya daha fazla
+değerlerinin, daimi olarak aynı şekilde üretilmesini ya da temin edilmesini amaçlayan cihazdır.
+
+Doğrudan satışlar: Bir ticari işlem aşağıdaki durumlarda doğrudan satış sayılır:
+
+- Ölçüm sonucu, ödenecek ücrete temel teşkil ediyorsa ve,
+
+- Ticari işlemle ilgili olan taraflardan en az birisi tüketici ya da aynı düzeyde koruma
+gerektiren diğer her hangi bir taraf ise ve,
+
+- Ticari işlemle ilgili tarafların tamamı ölçümün yapıldığı zaman ve yerdeki ölçüm sonucunu
+kabul ediyorsa.
+
+İklimsel koşullar: İklimsel koşullar, ölçü aletlerinin kullanılabileceği koşullardır. Üye Ülkeler
+arasındaki iklimsel farklılıklara uyum sağlanması için, sıcaklık sınırları aralığı belirlenmiştir.
+
+Kamu hizmeti yapan kuruluş: Kamu hizmeti yapan kuruluş elektirik, gaz, su ya da ısı temin
+eden kuruluştur.
+
+[SAYFA 11]
+539
+GEREKLER
+
+1. İzin verilebilir hata
+1.1 Nominal çalışma şartlarında ve bir bozukluğun olmadığı durumlarda ölçüm hatası, ilgili
+ölçü aletine özgü gereklerde belirtilen maksimum izin verilebilir hata (MİH) değerini geçemez.
+
+Ölçü aletine özgü eklerde başka türlü belirtilmedikçe MİH, doğru ölçüm değerinden artı ya da
+eksi sapma değeri olarak ifade edilir.
+
+1.2 Nominal çalışma şartlarında ve bir bozukluğun olduğu durumda, performans gereksinimi,
+ilgili ölçü aletine özgü gereklerde belirtildiği gibi olmalıdır.
+
+Ölçü aletinin sürekli kalıcı elektromanyetik alan içinde kullanılması amaçlanıyor ise,
+elektromanyetik alan genlik modülasyonu testi sırasında izin verilen performans, MİH değeri içinde
+olmalıdır.
+
+13 Üretici, ölçü aletine özgü eklerde belirtilen gerekleri dikkate alarak, ölçü aletinin,
+kullanılması amaçlanan iklimsel, mekanik ve elektromanyetik çevreleri, güç kaynağını ve doğruluğu
+üzerinde muhtemelen etkisi olacak diğer etki büyüklüğünü tanımlamalıdır.
+
+1.3.1 İklimsel koşullar
+
+MI-001?'den MI-010'a kadarki eklerde aksi belirtilmedikçe, üretici, üst ve alt sıcaklık
+limitlerini, Tablo 1'e göre belirler ve ölçü aletinin amaçlanan kullanım yerinin; açık yada Kapalı
+olmasının yanı sıra yoğunlaşan ya da yoğunlaşmayan nemli ortamlar için tasarımlanıp
+tasarımlanmadığını gösterir,
+
+Tablo 1
+
+Sıcaklık Limitleri
+Üst sıcaklık 30°C 40'"C ss’c | 70'c
+Alt sıcaklık 53°C - 10°C -25'C | -40°C
+
+1.5.2. (a) Mekanik çevreler, aşağıda tarif edildiği gibi MI ila M3 arası sınıflara ayrılmıştır.
+MI sınıfı: Hafif destekleyici yapılara tutturulan ve yerel hava akımları, kazık çakma faaliyetleri veya
+kapı çarpmaları gibi nedenlerden kaynaklanan ihmal edilebilir titreşimlere ya da şoklara maruz kalan
+yerlerde kullanılan ölçü aletlerine uygulanır.
+
+M2 sınıf: Ağır makineler, konveyör bantlar, civardaki makineler ve çevreden geçen
+araçlardan kaynaklanan, önemli ve yüksek düzeyli titreşim ve şoklara maruz kalan yerlerde kullanılan
+
+ölçü aletlerine uygulanır.
+
+M3 sınıfı: Makineler, konveyör bantlar gibi aletler üzerine doğrudan monte edilen, yüksek ve
+çok yüksek seviyede titreşimlere ve şoklara maruz kalan yerlerde kullanılan ölçü aletlerine uygulanır.
+
+(b) Aşağıdaki etki büyüklükleri, mekanik çevreler ile olan bağlantısı dahilinde dikkate
+alınmalıdır;
+
+- Titreşim
+
+- Mekanik şok
+
+[SAYFA 12]
+540
+
+1.3.3. (a) Elektro manyetik çevreler, ölçü aletine özgü eklerde aksi belirtilmedikçe, El, E2 ve
+£3 olarak aşağıdaki gibi sınıflandırılır.
+
+El sınıf; Konut, ticari ve hafif sanayi binaları gibi alanlarda karşılaşılabilecek
+elektromanyetik etki olan yerlerde kullanılan ölçü aletlerine uygulanır.
+
+E2 sınıfı: Diğer sanayi binalarında karşılaşılabilecek elektromanyetik etki olan yerlerde
+kullanılan ölçü aletlerine uygulanır.
+
+E3 sınıfı: Bir araç bataryasından beslenen ölçü aletlerine uygulanır. Bu şekildeki ölçü aletleri,
+E2'nin gereklerine ve aşağıdaki ek gereklere uygun olmak zorundadır.
+
+- İçten yanmalı motorların marş motoru enerji yüklemelerinden kaynaklanan gerilim düşüşleri,
+- Motor çalışırken sökülen bir batarvanın deşarj olması durumundaki yük boşalması,
+
+(b) Aşağıdaki etki büyüklükleri, elektromanyetik çevreler ile olan bağlantısı dahilinde dikkate
+alınır;
+
+- Gerilim kesilmesi,
+
+- Kısa süreli gerilim düşüşleri,
+
+- Besleme ve/veya sinyal hatlarındaki gerilim geçişleri,
+
+- Elektrostatik deşarj,
+
+- Radyo frekansı elektro manyetik alanları,
+
+- Besleme ve/veya sinyal hatlarındaki radyo frekansı elektromanyetik alanları,
+
+- Besleme ve /veya sinyal hatlarındaki gerilim dalgalanmaları,
+
+1.3.4. Gerektiğinde dikkate alınacak olan diğer etki miktarları şunlardır;
+
+- Gerilim değişiklikleri,
+
+- Ana elektrik şebekesi frekans değişiklikleri,
+
+- Güç frekansı manyetik alanları,
+
+- Ölçü aletinin hassasiyetini önemli şekilde etkileyebilecek olan diğer büyüklükler.
+
+1.4. Bu Tüzükte öngörülen testler yapılırken aşağıdaki hususlar uygulanır:
+
+1.4.1. Testin yapılması ve hataların tespit edilmesinde temel kurallar,
+
+Madde 1.1 ve madde 1.2 de tanımlanan temel gerekler, ilgili her bir etki büyüklüğü için
+doğrulanacaktır. Ölçü aletine özgü eklerde aksi belirtilmedikçe, diğer tüm etki büyüklükleri göreceli
+
+olarak referans değerlerinde sabit tutulurken her bir etki büyüklüğü için temel gerekler uygulanır ve
+bunların etkileri ayrı ayrı değerlendirilir.
+
+[SAYFA 13]
+541
+
+Metrolojik testler, etki büyüklüğünün oluşmasına bağlı olarak ölçü aletinin normal çalışma
+şartlarında, etki büyüklüğü uygulanırken veya sonrasında yapılır.
+
+1.4.2. Ortam nemi
+
+- Ölçü aletinin kullanılacağı iklimsel şartlara göre, nemli ısı çevrimli (yoğunlaşan) ya da
+nemli sabit ısılı (yoğunlaşmayan) nemli ortam testlerinden her hangi biri uygulanabilir.
+
+- Yoğunlaşmanın önemli olduğu ya da buharın nüfuz etmesinin nefes alma etkisi ile
+hızlanacağı zaman, nemli ısı çevrimli test uygundur. Yoğunlaşmayan nemin bir faktör olduğu
+koşullarda, nemli sabit ısılıdurum testi yapmak uygundur.
+
+2. Yeniden üretilebilirlik
+
+Diğer bütün koşullar aynı olduğunda, aynı ölçülen büyüklüğün farklı bir yerde ya da farklı bir
+kullanıcı tarafından uygulanması halinde, ölçüm sonuçları birbirine yakın olmalıdır. Ölçüm sonuçları
+arasındaki fark, MİH ile kıyaslandığında daha küçük olmalıdır.
+
+3. Tekrarlanabilirlik
+
+Aynı ölçme şartları altında, aynı ölçülen büyüklüğün uygulanması halinde ölçüm sonuçları
+birbirine yakın olmalıdır. Ölçüm sonuçları arasındaki fark, MİH ile kıyaslandığında daha küçük
+olmalıdır.
+
+4. Ayrım ve hassasiyet
+
+Bir ölçü aleti, amaçlanan ölçme işi için yeterli hassasiyete sahip olmalı ve ayırım eşik değeri
+yeterli derecede düşük olmalıdır.
+
+5. Dayanıklılık
+
+Bir ölçü aleti, kullanılacağı çevresel koşullarda, üreticisinin talimatlarına göre uygun şekilde
+monte edilmesi, bakımının yapılması ve kullanılması kaydıyla, üretici tarafından belirlenen süre
+içerisinde metrolojik özellikleri değişmeyecek şekilde tasarımlanmalıdır.
+
+6. Güvenilirlik
+
+Bir ölçü aleti, bozuk olduğu açık bir şekilde belli olmadıkça, yanlış bir ölçüm sonucuna yol
+açabilecek hataların etkisini mümkün olduğunca en aza indirecek şekilde tasarımlanmalıdır.
+
+7. Uygunluk
+
+7.1 Bir ölçü aleti, kasıt olmaksızın hatalı kullanım ihtimalini en az seviyede tutmalı ve hileli
+kullanımı kolaylaştıracak özelliklere sahip olmamalıdır.
+
+7.2 Bir ölçü aleti pratik çalışma şartları dikkate alınarak amaçlanan kullanımı için uygun
+olmalı ve doğru ölçüm sonucunu elde etmek için makul olmayan kullanıcı istekleri gerektirmemelidir.
+
+7.3 Kamu hizmeti yapan kuruluşların kullandığı ölçü aletlerinde konirol sınırları dışındaki
+akış veya akımdan kaynaklanan hatalar önyargılı olarak değerlendirilmemelidir.
+
+[SAYFA 14]
+542
+7.4 Bir ölçü aleti, belirli bir zaman içinde sabit bir ölçme büyüklüğünün değerinin ölçülmesi
+için tasarımlandığında, ölçülen büyüklük değerinin küçük dalgalanmalarına karşı duyarsız olmalı ya
+
+da gerekli önlemi almalıdır.
+
+7.5 Ölçü aleti sağlam olmalıdır ve onu oluşturan malzemeler amaçlanan kullanım şartlarına
+uygun olmalıdır.
+
+7.6 Ölçü aleti, kullanıma sunulması ya da piyasaya arz edilmesinden sonra ölçüm işlerinin
+kontrolüne izin verebilecek şekilde tasarımlanmalıdır. Kontrol için gerekliyse özel ekipman veya
+yazılım, ölçü aleti ile birlikte verilmelidir. Deney prosedürü işletim elkitabında açıklanmalıdır.
+
+Bir ölçü aleti ölçme fonksiyonu dışında diğer fonksiyonları da sağlayan bir birleşik yazılıma
+sahipse, metrolojik özellikler bakımından kritik olan yazılım tanımlanabilir olmalı ve birleşik
+yazılımdan olumsuz şekilde etkilenmemelidir.
+
+8. Bozulmaya karşı koruma
+
+8.1 Bir ölçü aletinin metrolojik özellikleri, başka bir cihazla olan bağlantısından, bağlı olduğu
+cihazın özelliklerinden yahut iletişim içinde olduğu herhangi bir uzak cihazdan olumsuz şekilde
+
+etkilenmemelidir.
+
+8.2 Metrolojik özellikler açısından kritik niteliğe sahip bir donanım bileşeni, güvenli olacak
+şekilde tasarımlanmalıdır. Müdahale belirtisi için güvenlik önlemleri öngörülmelidir.
+
+8.3 Metrolojik özellikler bakımından kritik olan bir yazılım tanımlanmış ve güvence altına
+alınmış olmalıdır.
+
+Bu yazılım tanımlaması, ölçü aleti ile birlikte kolayca temin edilebilmelidir. Dışarıdan bir
+müdahale kanıtı makul bir süre muhafaza edilebilir olmalıdır.
+
+8.4 Ölçüm verileri, metrolojik özellikler için kritik olan yazılım ve metrolojik olarak önemli
+olan depolanmış ve iletilmiş parametreler, tüm kazaen veya bilinçli bozulmalara karşı yeterli
+seviyede korunmalıdır.
+
+8.5 Kamu hizmeti yapan kuruluş tarafından kullanılan ölçü aletlerinde, tamamen veya kısmen
+atıfta bulunularak ödeme için temel teşkil eden ve arz edilen toplam miktardan ortaya çıkan
+göstergeler veya arz edilen toplam miktarın çıkarıldığı göstergeler kullanım sırasında silinememeli ve
+
+değiştirilememelidir.
+
+9. Ölçü aletine eşlik eden ve çıkarılamayacak şekilde üzerinde bulunması gereken
+bilgiler
+
+9.1 Bir ölçü aleti aşağıdaki bilgileri taşımalıdır:
+- Üreticisinin adı veya markası,
+
+- Doğruluğu ile ilgili bilgi,
+
+ayrıca mümkün olan hallerde;
+
+- Kullanım şartlarına yönelik bilgi,
+
+- Ölçme kapasitesi,
+
+[SAYFA 15]
+- Ölçme aralığı,
+- Tanıtım işareti,
+- AB tip inceleme belgesinin ya da AB tasarım inceleme belgesinin numarası,
+
+- Yasal metrolojik kontrolle ilgili bu Tüzük kurallarıyla uyumlu metrolojik sonuçlar veren
+ilave cihazların olup olmadığına dair bilgi.
+
+9.2 Çok küçük ya da çok hassas olan ölçü aletleri için söz konusu bilgiler ambalajına ve
+varsa bu Tüzük kurallarının gerektirdiği ölçü aleti ile birlikte verilen dokümana uygun olarak
+
+işaretlenir.
+
+9.3 Ölçü aletinin işletimiyle ilgili bilgiler, basit ölçü aletleri hariç olmak üzere, ölçü aleti ile
+birlikte verilir. Bu bilgiler kolay anlaşılabilir olmalı ve gerektiğinde aşağıdaki hususları içermelidir:
+
+- Nominal çalışma şartları,
+- Mekanik ve elektromanyetik çevre sınıfları,
+
+- Yoğunlaşmanın mümkün olup olmaması, açık ya da kapalı yerde olması, alt ve üst sıcaklık
+sınırları,
+
+- Montaj, bakım, onarım ve izin verilebilir ayarlarla ilgili talimatlar,
+- Özel kullanım şartları ile doğru çalışmasına dair talimatlar,
+- Ara birimlere, alt montaj cihazlarına veya ölçü aletlerine uyumluluk koşulları.
+
+9.4, Aynı mekanda kullanılan ya da kamu hizmeti yapan kuruluşlar tarafından kullanılan
+benzer ölçü aleti grupları için ayrı ayrı kullanım talimatı gerekmez.
+
+9.5. Ölçü aletine özgü ekte aksi belirtilmedikçe, n sıfır veya tamsayı olduğunda, ölçülen
+değerin taksimat aralığı 1x10n, 2x10n, ya da 5x10n şeklinde olmalı, bu ölçüm birimi ya da sembolü
+nümerik değere yakın gösterilmelidir.
+
+9.6. Bir malzeme ölçeri kullanılan ölçü birimi ile birlikte, nominal bir değer ya da bir skala
+(taksimat) ile işaretlenmelidir.
+
+9.7. Kullanılan ölçüm birimleri ve sembolleri AB ölçüm birimleri ve sembolleri ile ilgili
+mevzuat kurallarıyla uygun olmalıdır.
+
+9.8. Öngörülen tüm işaretler ve bilgiler açık, net, silinemez ve değiştirilemez nitelikte
+olmalıdır.
+
+10. Sonuçların gösterilmesi
+
+10.1. Sonuçlar göstergede görünebilmeli veya yazılı çıktı olarak alınabilmelidir.
+
+10.2. Sonucun gösterimi açık ve net olmalı, kullanıcıyı bilgilendiren gerekli işaretler ve
+bilgiler sonucun gösteriminde yer almalıdır. Sonuçlar, normal kullanım şartlarında kolay okunur
+
+olmalıdır. Metrolojik kontrol bilgileri ve işaretleri ile karışıklık oluşturmamak kaydıyla ek bilgiler ve
+işaretler kullanılabilir.
+
+[SAYFA 16]
+544
+
+10.3. Yazılı çıktı olması durumunda çıktular veya kayıtlar kolaylıkla okunabilmeli ve
+silinemez olmalıdır.
+
+10.4. Doğrudan satış yapılan ticari işlemlerde kullanılan bir ölçü aleti, amaçlandığı şekilde
+yerleştirilmesi durumunda, işlem sırasındaki ölçüm sonuçlarını her iki tarafa da sunacak şekilde
+tasarımlanmalıdır. Doğrudan satışta kritik bir durum söz konusu olduğunda yardımcı cihaz tarafından
+tüketiciye verilen etiket bu Tüzüğün koşulları ile uyumlu değilse uygun sınırlamalar getirilmelidir.
+
+10.5. Bir ölçü aleti kamu hizmeti yapan kuruluş tarafından kullanılsın veya kullanılmasın,
+tüketicinin herhangi bir alete ihtiyaç duymaksızın erişebileceği, metrolojik olarak kontrol edilmiş bir
+
+göstergeye sahip olmalı ve bu gösterge uzaktan okunabilmelidir. Göstergede, fiyata baz teşkil eden
+ölçüm sonucu yer almalıdır.
+
+11. Ticari işlemleri tamamlamak için ilave veri işlemleri
+11.1. Kamu hizmeti yapan kuruluş tarafından kullanılan ölçü aleti dışındaki bir ölçü aleti,
+
+- Ölçüm tekrarlanabilir değilse ve
+
+- Ölçü aletinin ticaret yapan taraflardan herhangi birinin olmadığı durumlarda kullanılması
+amaçlanıyorsa,
+
+özel bir işlemi tanımlamak için, gerekli bilgilerle birlikte ölçüm sonucunu sürekli yöntemlerle
+kaydetmelidir.
+
+11.2. Ayrıca, ölçüm sonuçlandığında, istenmesi halinde işlemi tanımlayan bilgi ve ölçüm
+sonuçlarının kalıcı kanıtlarına ulaşılabilmelidir.
+
+12. Uygunluk değerlendirmesi
+
+Bir ölçü aleti bu Tüzüğün gereklerine uygunluğunun değerlendirmesine izin verebilecek
+şekilde tasarımlanmalıdır.
+
+EK-A
+İÇ ÜRETİM KONTROLÜNÜ ESAS ALAN UYGUNLUK BEYANI
+
+1. "İç üretim kontrolünü esas alan uygunluk beyanı" üreticinin bu Ekte belirtilen
+yükümlülükleri yerine getirdiğini, ilgili ölçü aletlerinin bu Tüzükte belirtilen gerekleri karşıladığını
+beyan ettiği uygunluk değerlendirme prosedürüdür.
+
+Teknik dokümantasyon
+
+2. Üretici bu Tüzüğün 9uncu maddesinde belirtildiği gibi teknik dokümantasyonu
+oluşturmalıdır. . Dokümantasyon, Ölçü aletinin bu Tüzüğün gereklerine uygunlugunun
+değerlendirmesini sağlamalıdır. Bu dokümantasyon böyle bir değerlendirme için ölçü aletinin
+tasarımını, imalatını ve çalışmasını kapsamalıdır. .
+
+3. Üretici, teknik dokümantasyonu son ölçü aletinin imalatından sonra on yıl süre ile
+Bakanlığın denetimine sunulmak üzere muhafaza etmelidir.
+
+[SAYFA 17]
+545
+
+Üretim
+
+4. Üretici, imal edilen ölçü aletlerinin bu Tüzüğün gereklerine uygunluğunu sağlamak üzere
+tüm önlemleri almalıdır.
+
+Yazılı uygunluk beyanı
+
+5.1. Üretici bu Tüzüğün gereklerini karşılayan her ölçü aletine "CE" işaretini ve ek metroloji
+işaretini koymalıdır.
+
+5.2. Ölçü aletinin her modeli için, bir uygunluk beyanı düzenlenmeli ve bu beyan son ölçü
+aletinin imalatından sonra Bakanlığın denetimine sunulmak üzere on yıl muhafaza edilmelidir. Bu
+beyan düzenlendiği ölçü aletini tanımlamalıdır.
+
+Beyanın bir nüshası piyasaya arz edilen her bir ölçü aleti ile birlikte sunulmalıdır. Ancak, bu
+gerek, tek bir kullanıcıya oüyük miktarda ölçü aletinin teslim edildiği durumlarda, ayrı ayrı her bir
+ölçü aleti yerine gruba veya irsaliyeye uygulanması şeklinde olabilir.
+
+Yetkili temsilci
+
+6. Bu Ek’in 3 üncü ve 5.2 nci maddelerinde belirtilen üretici yükümlülükleri, onun adına ve
+onun sorumluluğunda yetkili temsilcisi tarafından yerine getirilebilir.
+
+Üreticinin Kuzey Kıbrıs Türk Cumhuriyeti'nde yerleşik olmadığı ve yetkili bir temsilcisinin
+bulunmadığı hallerde bu yükümlülükler, ölçü aletini piyasaya arz edenin sorumluluğu altındadır.
+
+EK-A1
+İÇ ÜRETİM KONTROLÜNÜN YANI SIRA BİR ONAYLANMIŞ KURULUŞ
+TARAFINDAN YAPILAN ÜRÜN TESTİNİ DE ESAS ALAN UYGUNLUK BEYANI
+1. "İç üretim kontrolünün yanı sıra bir onaylanmış kuruluş tarafından yapılan ürün testini de
+esas alan uygunluk beyanı" üreticinin bu Ek'te belirtilen yükümlülükleri yerine getirdiği ve ilgili ölçü
+aletlerinin bu Tüzüğün gereklerine uygun olduğunu beyan ettiği uygunluk değerlendirme
+prosedürüdür.
+Teknik dokümantasyon
+2. Üretici bu Tüzüğün 9’uncu maddesinde belirtildiği gibi bir teknik dokümantasyonu
+oluşturmalıdır. . Dokümantasyon, ölçü aletinin bu Tüzüğün gereklerine (o uygunluğunun
+değerlendirmesini yapabilmeyi sağlamalıdır. Bu dokümantasyon böyle bir değerlendirme için ölçü
+
+aletinin tasarımını, üretimini ve çalışmasını kapsamalıdır.
+
+3. Üretici, teknik dokümantasyonu son ölçü aletinin üretiminden sonra on yıl süreyle
+Bakanlığın denetimine sunulmak üzere muhafaza etmelidir.
+
+Üretim
+
+4, Üretici, üretilen ölçü aletlerinin bu Tüzüğün gereklerine uygunluğunu sağlamak üzere tüm
+önlemleri almalıdır.
+
+[SAYFA 18]
+546
+
+Ürün kontrolleri
+
+3. Üretici tarafından seçilen onaylanmış kuruluş, imalat miktarını ve ölçü aletinin teknolojik
+yapısını da göz önünde bulundurarak, ürünün iç kontrollerinin kalitesini doğrulamak amacıyla kendisi
+tarafından belirlenen uygun aralıklarla ürün kontrollerini yapmalı veya yaptırmalıdır. Ölçü aleti
+piyasaya arz edilmeden önce onaylanmış kuruluş tarafından alınan yeterli sayıdaki nihai ürün
+numunesi, bu Tüzüğün gereklerine uygunluğunu kontrol etmek amacıyla incelenmelidir. Bu Tüzüğün
+1'inci maddesinde belirtilen ilgili dokümanlarda tanımlanan uygun testlere veya eşdeğer testlere tabi
+tutulmalıdır. İlgili dokümanm olmaması durumunda hangi testin uygulanacağına onaylanmış kuruluş
+
+karar vermelidir.
+
+Numune alınan ölçü aletlerinin belli bir miktarı kabul edilebilir bir kalite seviyesini
+sağlamıyorsa onaylanmış kuruluş gerekli önlemleri almalıdır.
+
+Yazılı uygunluk beyanı
+
+6.1. Üretici, bu Tüzüğün gereklerini karşılayan her bir ölçü aletine; "CE" işaretini, ek
+metroloji işaretini ve bu Ek’in 5 inci maddesinde atıfta bulunulan onaylanmış kuruluşun sorumluluğu
+altında, onaylanmış kuruluşun kimlik kayıt numarasını koymalıdır.
+
+6.2. Ölçü aletinin her modeli için, bir uygunluk beyanı düzenlenmeli ve bu beyan son ölçü
+aletinin imalatından sonra Bakanlığın denetimine sunulmak üzere on yıl muhafaza edilmelidir. Bu
+beyan düzenlendiği ölçü aletini tanımlamalıdır.
+
+Beyanın bir nüshası piyasaya arz edilen her bir ölçü aleti ile birlikte sunulmalıdır. Ancak bu
+gerek, tek bir kullanıcıya büyük miktarda ölçü aletinin teslim edildiği durumlarda, ayrı ayrı her bir
+ölçü aleti yerine gruba veya irsaliyeye uygulanması şeklinde olabilir,
+
+Yetkili temsilci
+
+7. Bu Ek’in 3 üncü ve 6.2 nci maddelerinde belirtilen üretici yükümlülükleri, onun adına ve
+onun sorumluluğunda yetkili temsilcisi tarafından yerine getirilebilir.
+
+Üreticinin Kuzey Kıbrıs Türk Cumhuriyetinde yerleşik olmadığı ve yetkili bir temsilcisinin
+bulunmadığı hallerde bu yükümlülükler, ölçü aletini piyasaya arz edenin sorumluluğu altındadır.
+
+EK-B
+TİP İNCELEMESİ
+
+1. "AB Tip incelemesi" bir onaylanmış kuruluşun ölçü aletinin teknik tasarımını incelediği ve
+teknik tasarımın bu Tüzüğün gereklerine uygun olduğunu beyan ettiği uygunluk değerlendirme
+prosedürünün bir bölümüdür.
+
+2. AB Tip incelemesi, aşağıdaki yöntemlerden herhangi biriyle yapılabilir. Onaylanmış
+kuruluş, uygun yöntem ve gereken numuneler konusunda karar verir;
+
+(a) Ölçü aletinin bütününün öngörülen üretimi temsil eden bir numunesinin incelenmesi,
+
+(b) Ölçü aletinin bir ya da bir kaç önemli parçasının, öngörülen üretimi temsil eden bir
+numunesinin incelenmesinin yanı sıra, ölçü aletinin diğer parçalarının teknik tasarımının yeterliliğinin
+bu Ek’in 3 üncü maddesinde atıfta bulunulan teknik dokümantasyonun ve destekleyici kanıtların
+incelenmesi yoluyla değerlendirilmesi,
+
+[SAYFA 19]
+547
+
+(c) Ölçü aletinin teknik tasarımının yeterliliğinin, numune incelemesi yapılmaksızın bu Ek'in
+3 üncü maddesinde atıfta bulunulan teknik dokümantasyonun ve destekleyici kanıtların incelenmesi
+yoluyla değerlendirilmesi.
+
+3. Tip inceleme başvurusu, üretici tarafından seçilen bir onaylanmış kuruluşa yapılır.
+Başvuru aşağıdakileri içermelidir:
+
+- Üreticinin adı ve adresi ve eğer başvuru yetkili temsilcisi tarafından yapılmışsa ek olarak
+temsilcinin adı ve adresi,
+
+- Aynı başvurunun başka bir onaylanmış kuruluşa yapılmadığına dair yazılı beyan,
+
+- Bu Tüzüğün uncu maddesinde tanımlandığı şekilde teknik dokümantasyon.
+Dokümantasyon, ölçü aletinin bu Tüzüğün gereklerine uygunluğunun değerlendirmesini yapabilmeyi
+sağlamalıdır. Bu dokümantasyon böyle bir değerlendirme için ölçü aletinin tasarımını, imalatını ve
+çalıştırılmasını kapsamalıdır.
+
+- Onaylanmış kuruluş tarafından istendiği şekilde, öngörülen üretimi temsil eden numuneler,
+
+- Ölçü aletinin hiç bir numune gerektirmeyen parçalarının teknik tasarımının yeterliliği ile
+ilgili destekleyici kanıtlar. Bu destekleyici kanıtlar, özellikle bu Tüzüğün 11'inci maddesinde atıfta
+bulunulan ilgili dokümanların tam olarak uygulanmadığı durumlarda uygulanan ilgili dokümanları
+belirtmeli ve gerekli hallerde üreticinin uygun laboratuarları ya da diğer bir test laboratuarı tarafından
+onun adına ve sorumluluğu altında yapılan test sonuçlarını içermelidir.
+
+4. Onaylanmış kuruluş, numunelere ilgili olarak aşağıdaki işlemleri yapmalıdır:
+
+4.1.Teknik dokümantasyonu incelemeli, onunla uyumlu olarak imal edilmiş olan numuneleri
+doğrulamalı ve bu Tüzüğün 11'inci maddesinde atıfta bulunulan dokümanların ilgili hükümlerine
+uygun olarak tasarımlanmış olan unsurların yanı sıra söz konusu dokümanların hükümleri
+uygulanmaksızın tasarımlanmış olan unsurları tanımlamalıdır.
+
+4.2. Bu Tüzüğün 11’inci maddesinde atıfta bulunulan dokümanlardaki çözümlerin üretici
+tarafından uygulanmak üzere seçildiği durumlarda, bunların doğru şekilde uygulanıp uygulanmadığını
+kontrol etmek için uygun incelemeleri ve testleri yapmalı veya yaptırmalıdır.
+
+4.3. Bu Tüzüğün 11'inci maddesinde atıfta bulunulan ilgili dokümanlardaki çözümlerin
+üretici tarafından uygulanmak üzere seçilmediği durumlarda, üretici tarafından uyarlanan çözümlerin
+bu Tüzüğün temel gereklerini karşılayıp karşılamadığını kontrol etmek için uygun incelemeleri ve
+testleri yapmalı veya yaptırmalıdır.
+
+4.4. İncelemelerin ve testlerin yapılacağı yer konusunda başvuru sahibi ile mutabakat
+sağlamalıdır.
+
+Ölçü aletinin diğer parçaları ile ilgili olarak aşağıdaki işlemleri yapmalıdır:
+
+4.5, Ölçü aletinin diğer parçalarının teknik tasarımının yeterliliğini değerlendirmek için teknik
+dokümantasyonu ve destekleyici kanıtları incelemelidir.
+
+İmalat süreci ile ilgili olarak aşağıdaki işlemleri yapmalıdır:
+
+[SAYFA 20]
+548
+
+4.6. Üreticinin istikrarlı üretim yapabileceğinden emin olmak için yeterli araçlara sahip olup
+olmadığına dair teknik dokümantasyonu incelemelidir.
+
+5.1. Onaylanmış kuruluş, bu Ek'in 4 üncü maddesine ve onun sonuçlarına uygun olarak
+yürütülen faaliyetlerin kaydedildiği bir değerlendirme raporu düzenlemelidir. Onaylanmış kuruluş,
+üretici ile mutabık kalarak, bu Tüzüğün 10'uncu maddesinin (1)'inci fıkrasının (G) bendindeki haklar
+saklı kalmak kaydıyla bu raporun içeriğinin tamamını ya da bir kısmını yayınlayabilir.
+
+5.2. Teknik tasarımın, bu Tüzüğün gereklerini karşıladığı hallerde onaylanmış kuruluş,
+üreticiye bir AB tip inceleme belgesi vermelidir. Bu belge; üreticinin adı ve adresini, gerekirse yetkili
+temsilcisinin adını, adresini, incelemenin sonuçlarını, eğer varsa geçerliliği ile ilgili şartları ve ölçü
+aletinin tanımlanabilmesi için gerekli olan bilgileri içermelidir. Belgeye bir veya daha çok ek
+koyabilir.
+
+Belge ve ekleri, uygunluk değerlendirmesi ile kullanım sırasındaki kontrollerle ilgili tüm
+bilgileri içermelidir. Özellikle, ölçü aletlerinin uygun şekilde ayarlarının yapıldığı hallerde, metrolojik
+performanslarının yeniden üretilebilirliliği ile ilgili olarak, incelenmiş olan tip ile birlikte
+değerlendirilecek olan imal edilmiş ölçü aletlerinin uygunluğunun değerlendirilmesi için aşağıdaki
+bilgileri içermelidir:
+
+- Ölçü aleti tipinin metrolojik özellikleri,
+
+- Ölçü aletinin güvenilirliğini sağlamak için gerekli önlemleri (damgalama, yazılım tanımı
+vb.),
+
+- Ölçü aletinin tanımlanması ve dış görünümünün tüpe olan uygunluğunu kontrol etmek için
+gerekli olan diğer unsurlar hakkında bilgi,
+
+- Gerekliyse, imal edilmiş ölçü aletinin özelliklerini doğrulamak için herhangi bir özel bilgi,
+
+- Alt montaj cihazı kullanılması durumunda, diğer alt montaj cihazları veya ölçü aletleriyle
+uygunluğu sağlayacak gerekli tüm bilgi.
+
+Belge, verildiği tarihten itibaren on yıllık bir geçerliliğe sahip olup her on yılda bir
+yenilenmelidir.
+
+5.3. Onaylanmış kuruluş bu bağlamda bir değerlendirme raporu hazırlamalı ve kendisini
+atayan Bakanlığa sunulmak üzere muhafaza etmelidir.
+
+6. Üretici, ölçü aletinin temel gereklere ya da belgenin geçerliliği ile ilgili koşullara
+uygunluğunu etkileyebilecek her türlü değişikliği AB tip inceleme belgesine ait teknik
+dokümantasyonu muhafaza eden onaylanmış kuruluşa bildirmelidir. Söz konusu değişiklikler, AB tip
+
+inceleme belgesi aslıma ilave onay ile yapılmalıdır.
+
+7. Onaylanmış kuruluş kendisini atayan Bakanlığı aşağıdaki hususlarda derhal
+bilgilendirmelidir:
+
+- Verilen AB tip inceleme belgeleri ve ekleri,
+- Daha önce verilmiş olan belgelere yapılan ilaveler ve değişiklikler.
+
+Onaylanmış kuruluş, bir AB tip inceleme belgesinin geri alınması durumunda, Bakanlığı
+derhal konuyla ilgili olarak bilgilendirmelidir.
+
+[SAYFA 21]
+549
+
+Onaylanmış kuruluş, belgenin geçerlilik süresi sona erinceye kadar üretici tarafından
+sunulmuş olan dokümantasyon da dahil olmak üzere teknik dosyayı muhafaza etmelidir.
+
+8. Üretici, son ölçü aletinin imalatını takiben on yıl süresince teknik dokümantasyon ile
+birlikte Ab tip inceleme belgesini, eklerini ve yapılan ilavelerin bir nüshasını muhafaza etmelidir.
+
+9. Üreticinin yetkili temsilcisi, bu Ek’in 3 üncü maddesinde atıfta bulunulan başvuruyu
+yapabilir ve bu Ek'in 6'ncı ve 8'inci maddelerinde belirtilen yükümlülükleri yerine getirebilir,
+Üreticinin Kuzey Kıbrıs Türk Cumhuriyeti'nde yerleşik olmadığı ve yetkili bir temsilcisinin
+bulunmadığı durumlarda, talep edilen teknik dokümantasyonun sağlanması yükümlülüğü üretici
+tarafından atanan kişiye aittir.
+
+EK-C
+İÇ ÜRETİM KONTROLÜNÜ ESAS ALAN TİPE UYGUNLUK BEYANI
+1. "İç üretim kontrolünü esas alan tipe uygunluk beyanı", üreticinin, bu Ekte belirtilen
+yükümlülükleri yerine getirdiğini, ilgili ölçü aletlerinin AB tip inceleme belgesinde tanımlanan tipe
+uygun olduğunu ve bu Tüzük gereklerini karşıladığını beyan ettiği uygunluk değerlendirme
+prosedürünün bir bölümüdür.
+
+Üretim
+
+2. Üretici, imal edilen ölçü aletlerinin AB tip inceleme belgesinde tanımlanan tipe ve bu
+Tüzüğün gereklerine uygunluğunu sağlamak için tüm önlemleri almalıdır.
+
+Yazılı uygunluk beyanı
+
+3.1. Üretici, bu Tüzüğün gereklerini karşılayan ve AB tip inceleme belgesinde tanımlanan tipe
+uygun olan her ölçü aletine "CE" işaretini ve ek metroloji işaretini koymalıdır.
+
+3.2. Ölçü aletinin her modeli için bir uygunluk beyanı düzenlenmeli ve bu beyan son ölçü
+aletinin imalatından sonra Bakanlığın denetimine sunulmak üzere on yıl muhafaza edilmelidir. Bu
+beyan düzenlendiği ölçü aletini tanımlamalıdır.
+
+Beyanın bir nüshası piyasaya arz edilen her bir ölçü aleti ile birlikte sunulmalıdır. Ancak, bu
+gerek, tek bir kullanıcıya büyük miktarda ölçü aletinin teslim edildiği durumlarda, ayrı ayrı her bir
+ölçü aleti yerine gruba veya irsaliyeye uygulanması şeklinde olabilir.
+
+Yetkili temsilci
+
+4. Bu Ek'in 3.2 nci maddesinde belirtilen üretici yükümlülükleri, onun adına ve onun
+sorumluluğunda yetkili temsilcisi tarafından yerine getirilebilir.
+
+Üreticinin Kuzey Kıbrıs Türk Cumhuriyeti'nde yerleşik olmadığı ve yetkili bir temsilcisinin
+bulunmadığı hallerde bu yükümlülükler, ölçü aletini piyasaya arz edenin sorumluluğu altındadır.
+
+[SAYFA 22]
+550
+EK-C1
+
+İÇ ÜRETİM KONTROLÜNÜN YANI SIRA BİR ONAYLANMIŞ KURULUŞ
+TARAFINDAN YAPILAN ÜRÜN TESTİNİ DE ESAS ALAN TİPE
+UYGUNLUK BEYANI
+
+1. "İç üretim kontrolünün yanı sıra bir onaylanmış kuruluş tarafından yapılan ürün testini de
+esas alan tipe uygunluk beyanı" üreticinin, bu Ekte belirtilen yükümlülükleri yerine getirdiğini ve ilgili
+ölçü aletlerinin AB tip inceleme belgesinde tanımlanan tipe uygun olduğunu ve bu Tüzükte belirtilen
+gerekleri karşıladığını beyan ettiği uygunluk değerlendirme prosedürünün bir bölümüdür.
+
+Üretim
+
+2. Üretici , imal edilen ölçü aletlerinin AB tip inceleme belgesinde tanımlanan tipe ve bu
+
+?
+
+Tüzüğün gereklerine uygunluğunu sağlamak için tüm önlemleri almalıdır.
+Ürün kontrolü
+
+3. Üretici tarafından seçilen onaylanmış kuruluş, üretim miktarmı ve ölçü aletinin teknolojik
+yapısını da göz önünde bulundurarak, ürünün iç kontrollerinin kalitesini doğrulamak amacıyla kendisi
+tarafından belirlenen uygun aralıklarla ürün kontrollerini yapmalı veya yaptırmalıdır. Ölçü aleti
+piyasaya arz edilmeden önce onaylanmış kuruluş tarafından alınan yeterli sayıdaki nihai ürün
+numunesi, bu Tüzüğün gereklerine uygunluğunu kontrol etmek amacıyla incelenmelidir. Bu Tüzüğün
+1]’inci maddesinde belirtilen ilgili dokümanlarda tanımlanan uygun testlere veya eşdeğer testlere tabi
+tutulmalıdır. İlgili dokümanın olmaması durumunda hangi testin uygulanacağına onaylanmış kuruluş
+karar vermelidir.
+
+Numune alınan ölçü aletlerinin belli bir miktarı, kabul edilebilir bir kalite seviyesini
+sağlamıyorsa onaylanmış kuruluş gerekli önlemleri almalıdır.
+
+Yazılı uygunluk beyanı
+
+4.1, Üretici, bu Tüzüğün gereklerini karşılayan ve AB tip inceleme belgesinde tanımlanan tipe
+uygun olan her bir ölçü aletine "CE" işaretini, ek metroloji işaretini ve bu Ek’in 3 üncü maddesinde
+atıfta bulunulan onaylanmış kuruluşun sorumluluğu altında onaylanmış kuruluşun kimlik kayıt
+numarasını koymalıdır.
+
+4.2. Ölçü aletinin her modeli için, bir uygunluk beyanı düzenlenmeli ve bu beyan son ölçü
+aletinin imalatından sonra Bakanlığın denetimine sunulmak üzere on yıl muhafaza edilmelidir. Bu
+beyan düzenlendiği ölçü aletini tanımlamalıdır.
+
+Beyanın bir nüshası piyasaya arz edilen her bir ölçü aleti ile birlikte sunulmalıdır. Ancak, bu
+gerek, tek bir kullanıcıya büyük miktarda ölçü aletinin teslim edildiği durumlarda, ayrı ayrı her bir
+ölçü aleti yerine gruba veya irsaliyeye uygulanması şeklinde olabilir.
+
+Yetkili temsilci
+5. Bu Ekin 4.2 nci maddesinde belirtilen üretici yükümlülükleri, onun adına ve onun
+sorumluluğunda yetkili temsilcisi tarafından yerine getirilebilir. Üreticinin Kuzey Kıbrıs Türk
+
+Cumhuriyeti'nde yerleşik olmadığı ve yetkili bir temsilcisinin bulunmadığı hallerde bu yükümlülükler,
+ölçü aletini piyasaya arz edenin sorumluluğu altındadır.
+
+[SAYFA 23]
+551
+EK-D
+ÜRETİM KALİTE GÜVENCESİNİ ESAS ALAN TİPE UYGUNLUK BEYANI
+
+I. "Üretim kalite güvencesini esas alan tipe uygunluk beyanı" üreticinin bu Ekte belirtilen
+yükümlülükleri yerine getirdiğini, ilgili ölçü aletlerinin AB tip inceleme belgesinde tanımlanan tipe
+uygun olduğunu ve bu Tüzükte belirtilen gerekleri karşıladığını beyan ettiği uygunluk değerlendirme
+prosedürünün bir bölümüdür.
+
+Üretim
+
+2. Üretici, bu Ek’in 3 üncü maddesinde belirtildiği şekilde; üretim, nihai ürün denetimi ve
+ilgili ölçü aletinin testi için onaylı bir kalite sistemi işletmeli ve bu Ek'in 4 üncü maddesinde
+belirtildiği şekilde bir gözetime tabi tutulmalıdır.
+
+Kalite sistemi
+
+3.1. Üretici, kalite sisteminin değerlendirilmesi için seçeceği bir onaylanmış kuruluşa
+başvuruda bulunmalıdır.
+
+Başvuru aşağıdaki hususları içermelidir;
+
+- Ölçü aletinin kategorisi ile ilgili tüm bilgileri,
+
+- Kalite sistemi ile ilgili dokümantasyonu,
+
+- Onaylı tipin teknik dokümantasyonunu ve AB tip inceleme belgesinin bir nüshasını,
+
+3.2. Kalite sistemi, ölçü aletlerinin AB tip inceleme belgesinde tanımlanan tipe ve bu Tüzüğün
+gereklerine uygun olmasını sağlamalıdır.
+
+Üretici tarafından uygulanan tüm unsurlar, gerekler ve hükümler, politikalar, prosedürler ve
+talimatlar şeklinde yazılı olarak sistematik ve düzenli bir şekilde dokümante edilmelidir. Kalite
+sistemi dokümanları; kalite programları, planları, el kitapları ve kayıtlarının doğru olarak
+yorumlanmasını sağlamalıdır.
+
+yu su a,
+
+Özellikle aşağıdaki Mususlârı içermelidir:
+\
+
+- Kalite hedefleri, kurulugsuh organizasyon yapısı ve ürün kalitesi ile ilgili yönetimin
+
+sorumluluk ve yetkileri,
+
+- Kullanılacak olan imalat, kalite kontrol ve kalite güvence teknikleri ile süreçler ve sistematik
+faaliyetler,
+
+- İmalattan önce, imalat sırasında ve sonrasında uygulanacak inceleme ve deneyler ile bunların
+uygulama sıklıkları,
+
+- Denetim raporları, test ve kalibrasyon verileri, ilgili personelin niteliklerine ilişkin raporlar
+gibi kalite kayıtları,
+
+- Gerekli ürün kalitesinin ve kalite sisteminin etkin olarak işleyişinin izlenmesini sağlayan
+araçlar.
+
+[SAYFA 24]
+552
+
+3.3. Onaylanmış kuruluş, bu Ek'in 3.2 nci maddesinde belirtilen gereklerin karşılanıp
+karşılanmadığını belirlemek için kalite sisteminin değerlendirmesini yapmalıdır. Referans
+numaralarının yayımlandığı tarihten itibaren, ilgili uyumlaştırılmış standarda karşılık gelen ulusal
+standardın eşdeğer özellikleriyle uyumlu olan kalite sisteminin bu gereklere uygun olduğu kabul
+edilmelidir.
+
+Denetimi yapan ekip, kalite yönetim sistemi, metrolojinin ilgili alanı ve cihaz teknolojisi
+konusunda yeterli deneyim ile bu Tüzüğün gerekleri ile ilgili bilgiye sahip olmalıdır. Değerlendirme
+prosedürü, üreticinin tesislerine bir denetim ziyareti yapılmasını içermelidir.
+
+Onaylanmış kuruluşun inceleme sonuçları ve gerekçeli değerlendirme kararı üreticiye
+bildirilmelidir.
+
+3.4. Üretici, onaylandığı şekildeki kalite sisteminden kaynaklanan yükümlülükleri yerine
+getirmeli ve bu sistemin yeterli ve etkin bir şekilde sürdürülmesini sağlamalıdır.
+
+3.5. Üretici, kalite sisteminde yapacağı her türlü değişiklikten, kalite sistemini onaylayan
+onaylanmış kuruluşu haberdar etmelidir.
+
+Onaylanmış kuruluş, önerilen değişiklikleri değerlendirerek değişen kalite sisteminin bu Ek'in
+3.2 nci maddesindeki gerekleri karşılayıp karşılamadığına ya da yeniden değerlendirmenin gerekli
+olup olmadığına karar vermelidir.
+
+Onaylanmış kuruluş, inceleme sonuçlarını ve gerekçeli değerlendirme kararını üreticiye
+bildirmelidir.
+
+Onaylanmış kuruluşun sorumluluğunda yapılan gözetim
+
+4.1. Gözetimin amacı, üreticinin onaylanmış olan kalite sisteminden kaynaklanan
+yükümlülüklerini yerine getirdiğinden emin olmaktır.
+
+4.2. Üretici, onaylanmış kuruluşun denetim amacıyla; imalat, muayene, test ve depolama
+yerlerine girmesine izin vermeli ve gerekli tüm bilgilerle birlikte özellikle aşağıdakileri sağlamalıdır.
+
+- Kalite sistemi dokümantasyonu,
+
+- Muayene raporları, test ve kalibrasyon verileri, ilgili personelin niteliklerine ilişkin raporlar
+gibi kalite kayıtları.
+
+4.3. Onaylanmış kuruluş, üreticinin kalite sistemini sürdürdüğünden ve uyguladığından emin
+olmak için, periyodik denetimler yapmalı ve üreticiye bir denetim raporu vermelidir.
+
+4.4. Bunun yanı sıra; onaylanmış kuruluş, üreticiye ani ziyaretler de yapabilir. Bu ziyaretler
+sırasında onaylanmış kuruluş, kalite sisteminin düzgün işleyip işlemediğini doğrulamak amacıyla
+gerekirse ürün testleri yapmalı ya da yaptırmalıdır. Onaylanmış kuruluş üreticiye, bir ziyaret raporu ve
+testler yapılınışsa bir test raporu vermelidir.
+
+Yazılı uygunluk beyanı
+
+5.1, Üretici, bu Tüzüğün gereklerini karşılayan ve AB tip inceleme belgesinde tanımlanan tipe
+uygun olan her bir ölçü aletine; "CE" işaretini, ek metroloji işaretini ve bu Ek’in 3.1 inci maddesinde
+belirtilen onaylanmış kuruluşun sorumluluğu altında onaylanmış kuruluşun kimlik kayıt numarasını
+koymalıdır.
+
+[SAYFA 25]
+553
+
+5.2. Ölçü aletinin her modeli için, bir uygunluk beyanı düzenlenmeli ve bu beyan son ölçü
+aletinin imalatından sonra Bakanlığın denetimine sunulmak üzere on yıl muhafaza edilmelidir, Bu
+beyan düzenlendiği ölçü aletini tanımlamalıdır.
+
+Beyanın bir nüshası piyasaya arz edilen her bir ölçü aleti ile birlikte sunulmalıdır. Ancak, bu
+gerek, tek bir kullanıcıya büyük miktarda ölçü aletinin teslim edildiği durumlarda, ayrı ayrı her bir
+ölçü aleti yerine gruba veya irsaliyeye uygulanması şeklinde olabilir.
+
+6. Üretici, aşağıdaki belgeleri son ölçü aleti imal edildikten sonra, on yıl süre ile Bakanlığın
+denetimine sunulmak üzere muhafaza etmelidir:
+
+- Bu Ek’in 3.1 inci maddesinde belirtilen kalite sistemi ile ilgili dokümantasyon,
+- Bu Ek'in 3.5 inci maddesinde belirtilen ve onaylanan değişiklik,
+
+- Bu Ek'in 3.5 inci, 4.3 üncü ve 4.4 üncü maddelerinde belirtilen, onaylanmış kuruluş
+tarafından verilen kararlar ve raporlar.
+
+7. Her bir onaylanmış kuruluş, verilen ve reddedilen kalite sistemi onaylarının listesini
+periyodik olarak Bakanlığa sunmalı ve geri çekilen bir kalite sistemi onayını derhal Bakanlığa ve
+belgenin verildiği ülkeye bildirmelidir.
+
+Yetkili temsilci
+
+8. Bu Ek'in 3.1 inci, 3.5 inci, 5.2 nci ve 6 ncı maddelerinde belirtilen üreticinin
+yükümlülükleri, onun adına ve sorumluluğunda yetkili temsilcisi tarafından yerine getirilebilir.
+
+EK-Dİ
+ÜRETİM KALİTE GÜVENCESİNİ ESAS ALAN UYGUNLUK BEYANI
+
+I. "Üretim kalite güvencesini esas alan uygunluk beyanı" üreticinin bu Ekte belirtilen
+yükümlülükleri yerine getirdiğini ve ilgili ölçü aletlerinin bu Tüzükte belirtilen gerekleri karşıladığını
+beyan ettiği uygunluk değerlendirme prosedürüdür.
+
+Teknik dokümantasyon
+
+2. Üretici bu Tüzüğün 9uncu maddesinde belirtildiği gibi teknik dokümantasyonu
+oluşturmalıdır. . Dokümantasyon, Ölçü aletinin bu Tüzüğün gereklerine uygunlugunun
+değerlendirmesini yapabilmeyi sağlamalıdır. Bu dokümantasyon böyle bir değerlendirme için ölçü
+
+aletinin tasarımını ve çalışmasını kapsamalıdır.
+
+3. Üretici, son ölçü aletinin imalatından sonra on yıl teknik dokümantasyonu Bakanlığın
+denetimine sunulmak üzere muhafaza etmelidir.
+
+Üretim
+
+4, Üretici, bu Ek’in 5 inci maddesinde belirtildiği şekilde; üretim, nihai ürün denetimi ve
+ilgili ölçü aletinin testi için onaylı bir kalite sistemini işletmeli ve bu Ek’in 6 ncı maddesinde
+belirtildiği şekilde bir gözetime tabi tutulmalıdır.
+
+[SAYFA 26]
+554
+
+Kalite sistemi
+
+5.1. Üretici kalite sisteminin değerlendirilmesi için seçeceği bir onaylanmış kuruluşa
+başvuruda bulunmalıdır.
+
+Başvuru aşağıdaki hususları içermelidir:
+
+- Ölçü aletinin kategorisiyle ilgili bilgileri,
+
+- Kalite sistemi ile ilgili dokümantasyonu,
+
+- Bu Ek’in 2 nci maddesinde belirtilen teknik dokümantasyonu.
+
+5.2. Kalite sistemi, ölçü aletlerinin bu Tüzüğün gereklerine uygun olmasını sağlamalıdır.
+Üretici tarafından uygulanan tüm unsurlar, gerekler ve hükümler; politikalar, prosedürler ve talimatlar
+şeklinde yazılı olarak sistematik ve düzenli bir şekilde dokümante edilmelidir. Kalite sistemi
+dokümanları; kalite programları, planları, el kitapları ve kayıtlarının doğru olarak yorumlanmasina izin
+vermelidir.
+
+Özellikle aşağıdaki açıklamaları içermelidir:
+
+- Kalite hedefleri, kuruluşun organizasyon yapısı ve ürün kalitesi ile ilgili yönetimin
+sorumluluk ve yetkileri,
+
+- Kullanılacak olan imalat, kalite kontrol ve kalite güvence teknikleri ile süreçler ve sistematik
+faaliyetler,
+
+- İmalattan önce, imalat sırasında ve sonrasında uygulanacak inceleme ve deneyler ile bunların
+uygulama sıklıkları,
+
+- Denetim raporları, test ve kalibrasyon verileri, ilgili personelin niteliğine ilişkin raporlar gibi
+kalite kayıtları,
+
+- İstenilen ürün Kalitesi ve kalite sisteminin etkin işleyişinin izlenmesini sağlayan araçlar.
+
+5.3. Onaylanmış kuruluş, bu Ekin 5.2 nci maddesinde belirtilen gerekleri karşılayıp
+karşılamadığını belirlemek için kalite sisteminin değerlendirmesini yapmalıdır.
+
+Referans numaralarının yayımlandığı tarihten itibaren, ilgili uyumlaştırılmış standarda karşılık
+gelen ulusal standardın eşdeğer hükümleriyle uyumlu olan kalite sisteminin bu gereklere uygun olduğu
+kabul edilmelidir.
+
+Denetimi yapan ekip, kalite yönetim sistemi deneyimine ek olarak metrolojinin ilgili alanı ve
+cihaz teknolojisi konusunda yeterli deneyim ile bu Tüzüğün gerekleriyle ilgili bilgiye sahip olmalıdır.
+Değerlendirme prosedürü, üreticinin tesislerine bir denetim ziyareti yapılmasını içermelidir.
+
+İnceleme sonuçları ve gerekçeli değerlendirme kararı üreticiye bildirilmelidir.
+
+5.4. Üretici, onaylandığı şekildeki kalite sisteminden kaynaklanan yükümlülükleri yerine
+getirmeli ve bu sistemin yeterli ve etkin bir şekilde sürdürülmesini sağlamalıdır.
+
+5.5. Üretici, kalite sistemini onaylayan onaylanmış kuruluşu, kalite sisteminde yapacağı her
+türlü değişiklikten haberdar etmelidir.
+
+[SAYFA 27]
+555
+
+Onaylanmış kuruluş, önerilen değişiklikleri değerlendirerek kalite sisteminin bu Ek’in 5.2 nei
+maddesindeki gerekleri karşılayıp karşılamadığına ya da yeniden değerlendirmenin gerekli olup
+olmadığına karar vermelidir.
+
+Onaylanmış kuruluş, inceleme sonuçlarını ve gerekçeli değerlendirme kararını üreticiye
+bildirmelidir.
+
+Onaylanmış kuruluşun sorumluluğunda yapılan gözetim
+
+6.1. Gözetimin amacı, üreticinin onaylanmış olan kalite sisteminden kaynaklanan
+yükümlülüklerini yerine getirdiğinden emin olmaktır.
+
+6.2. Üreticiye, onaylanınış kuruluşun denetim amacıyla; imalat, muayene, test ve depolama
+yerlerine girmesine izin vermeli ve gerekli tüm bilgilerle birlikte özellikle aşağıdakileri sağlamalıdır.
+
+- Kalite sistemi dokümantasyonu,
+- Bu Ek’in 2 nci maddesinde belirtilen teknik dokümantasyon,
+
+- Muayene raporları, test ve kalibrasyon verileri, ilgili personelin niteliklerine ilişkin raporlar
+gibi kalite kayıtları.
+
+6.3. Onaylanmış kuruluş, üreticinin kalite sistemini sürdürdüğünden ve uyguladığından emin
+> on > > o
+olmak için, periyodik denetimler yapmalı ve Üreticiye bir denetim raporu vermelidir.
+
+6.4. Bunun yanı sıra onaylanmış kuruluş, üreticiye ani ziyaretler de yapabilir. Bu ziyaretler
+sırasında onaylanmış kuruluş, kalite sisteminin düzgün işleyip işlemediğini doğrulamak amacıyla
+gerekirse ürün testleri yapmalı ya da yaptırmalıdır. Onaylanmış kuruluş üreticiye, bir ziyaret raporu
+ve testler yapılmışsa bir test raporu vermelidir.
+
+Yazılı uygunluk beyanı
+
+7.1. Üretici, bu Tüzüğün gereklerini karşılayan her bir ölçü aletine; "CE" işaretini, ek
+metroloji işaretini ve bu Ek’in 5.1 inci maddesinde belirtilen onaylanmış kuruluşun sorumluluğu
+altında onaylanmış kuruluşun kimlik kayıt numarasını koymalıdır.
+
+7.2. Ölçü aletinin her modeli için, bir uygunluk beyanı düzenlenmeli ve bu beyan son ölçü
+aletinin imalatından sonra Bakanlığın denetimine sunulmak üzere on yıl muhafaza edilmelidir. Bu
+beyan düzenlendiği ölçü aletini tanımlamalıdır.
+
+Beyanın bir nüshası piyasaya arz edilen her bir ölçü aleti ile birlikte sunulmalıdır. Ancak, bu
+gerek, tek bir kullanıcıya büyük miktarda ölçü aletinin teslim edildiği durumlarda, ayrı ayrı her bir
+
+ölçü aleti yerine gruba veya irsaliyeye uygulanması şeklinde olabilir.
+
+8. Üretici, aşağıdaki belgeleri son ölçü aletinin imalatından sonra, on yıl süre ile Bakanlığın
+denetimine sunulmak üzere muhafaza etmelidir.
+
+- Bu Ek’in 5.1 inci maddesinde belirtilen kalite sistemi ile ilgili dokümantasyon,
+- Bu Ek’in 5.5 inci maddesinde belirtilen ve onaylanan değişiklik,
+
+- Bu Ek'in 5.5 inci, 6.3 üncü ve 6.4 üncü maddelerinde belirtilen onaylanmış kuruluş
+tarafından verilen kararlar ve raporlar.
+
+[SAYFA 28]
+9. Her bir onaylanmış kuruluş, verilen ve reddedilen kalite sistemi onaylarmın listesini
+periyodik olarak Bakanlığa sunmalı ve geri çekilen bir kalite sistemi onayını derhal Bakanlığa ve
+belgenin verildiği ülkeye bildirmelidir.
+
+Yetkili temsilci
+
+10. Bu Ek'in 3 üncü, 5.1 inci, 5.5 inci, 7.2 nci ve 8 inci maddelerinde belirtilen üreticinin
+yükümlülükleri, onun adına ve sorumluluğunda yetkili temsilcisi tarafından yerine getirilebilir.
+
+EK-E
+NİHAİ ÜRÜNÜN MUAYENE VE TESTİNE DAİR KALİTE GÜVENCE
+SİSTEMİNİ ESAS ALAN TİPE UYGUNLUK BEYANI
+i. "Nihai ürünün muayene ve testine dair kalite güvence sistemini esas alan tipe uygunluk
+
+beyanı”, üreticinin bu Ekte belirtilen yükümlülükleri yerine getirdiğini ve ilgili ölçü aletlerinin, AB tip
+inceleme belgesinde tanımlanan tipe uygun olduğunu ve bu Tüzükte belirtilen gerekleri karşıladığını
+beyan ettiği uygunluk değerlendirme prosedürünün bir bölümüdür.
+
+Üretim
+
+2. Üretici, bu Ek’in 3 üncü maddesinde belirtildiği şekilde, nihai ürün muayenesi ve testi için
+onaylı bir kalite sistemi işletmeli ve bu Ek'in 4 üncü maddesinde belirtildiği şekilde bir gözetime tabi
+tutulmalıdır.
+
+Kalite sistemi
+
+3.1. Üretici, kalite sisteminin değerlendirilmesi için seçeceği bir onaylanmış kuruluşa
+başvuruda bulunmalıdır.
+
+Başvuru aşağıdaki hususları içermelidir:
+- Ölçü aleti kategorisi ile ilgili bilgileri,
+- Kalite sistemi ile ilgili dokümantasyonu,
+
+- Onaylı tipin teknik dokümantasyonunu ve AB tip inceleme belgesinin bir nüshasını.
+
+3.2. Kalite sistemi, ölçü aletlerinin AB tip inceleme belgesinde tanımlanan tipe ve bu Tüzüğün
+gereklerine uygun olmasını sağlamalıdır.
+
+Üretici tarafından uygulanan tüm unsurlar, gerekler ve hükümler; politikalar, prosedürler ve
+talimatlar şeklinde yazılı olarak sistematik ve düzenli bir şekilde dokümante edilmelidir. Kalite sistemi
+dokümanları; kalite programları, planları, el kitapları ve kayıtlarının doğru olarak yorumlanmasına izin
+vermelidir.
+
+Dokümanlar özellikle aşağıdakileri içermelidir:
+
+- Kalite hedefleri, kuruluşun organizasyon yapısı ve ürün kalitesi ile ilgili yönetimin
+sorumluluk ve yetkileri, ;
+
+[SAYFA 29]
+557
+
+- İmalat sonrasında uygulanacak inceleme ve testler,
+
+- Muayene raporları, test ve kalibrasyon verileri, personelin niteliğine ilişkin raporlar gibi
+kalite kayıtları,
+
+- Kalite sisteminin işleyişinin izlenmesini sağlayan araçlar.
+
+3.3. Onaylanmış kuruluş, bu Ek'in 3.2 nei maddesinde belirtilen gereklerin karşılanıp
+karşılanmadığını belirlemek için kalite sisteminin değerlendirmesini yapmalıdır. Referans
+numaralarının yayımlandığı tarihten itibaren, ilgili uyumlaştırılınış standarda karşılık gelen ulusal
+standardın eşdeğer hükümleriyle uyumlu olan kalite sisteminin bu gereklere uygun olduğu kabul
+edilmelidir.
+
+Denetimi yapan ekip, kalite yönetim sistemi deneyimine ek olarak, metrolojinin ilgili alanı ve
+cihaz teknolojisi konusunda yeterli deneyim ile bu Tüzüğün gerekleriyle ilgili bilgiye sahip olmalıdır.
+
+Değerlendirme prosedürü, üreticinin tesislerine bir denetim ziyareti yapılmasını içermelidir.
+
+Onaylanmış kuruluş, inceleme sonuçlarını ve gerekçeli değerlendirme kararını üreticiye
+bildirmelidir.
+
+3.4. Üretici, onaylandığı şekildeki kalite sisteminden kaynaklanan yükümlülükleri yerine
+getirmeli ve bu sistemin yeterli ve etkin şekilde sürdürülmesini sağlamalıdır.
+
+3.5. Üretici, kalite sistemini onaylayan onaylanmış kuruluşu, kalite sisteminde yapacağı her
+türlü değişiklikten haberdar etmelidir.
+
+Onaylanmış kuruluş, önerilen değişiklikleri değerlendirerek kalite sisteminin bu Ek'in 3.2 nci
+maddesindeki gerekleri karşılayıp karşılamadığına ya da yeniden değerlendirmenin gerekli olup
+
+olmadığına karar vermelidir.
+
+Onaylanmış kuruluş, inceleme sonuçlarını ve gerekçeli değerlendirme kararını üreticiye
+bildirmelidir.
+
+Onaylanmış kuruluşun sorumluluğunda yapılan gözetim
+
+4,1. Gözetimin amacı, üreticinin onaylanmış olan Kalite sisteminden kaynaklanan
+yükümlülüklerini yerine getirdiğinden emin olmaktır.
+
+4.2. Üretici, onaylanmış kuruluşun denetim amacıyla; muayene, test ve depolama yerlerine
+girmesine izin vermeli ve gerekli tüm bilgilerle birlikte özellikle aşağıdakileri sağlamalıdır.
+
+- Kalite sistemi dokümantasyonu;
+
+- Muayene raporları, test ve kalibrasyon verileri, ilgili personelin niteliklerine ilişkin raporları
+gibi kalite kayıtları.
+
+4.3. Onaylanmış kuruluş, üreticinin kalite sistemini sürdürdüğünden ve uyguladığından emin
+olmak için periyodik denetimler yapmalı ve üreticiye bir denetim raporu vermelidir.
+
+4.4. Bunun yanı sıra, onaylanmış kuruluş, üreticiye ani ziyaretler de yapabilir. Bu ziyaretler
+sırasında onaylanmış kuruluş, kalite sisteminin düzgün işleyip işlemediğini doğrulamak amacıyla
+gerekirse ürün testleri yapmalı ya da yaptırmalıdır. Onaylanmış kuruluş üreticiye, bir ziyaret raporu ve
+testler yapılmışsa bir test raporu vermelidir.
+
+[SAYFA 30]
+558
+
+Yazılı uygunluk beyanı
+
+5.1, Üretici, bu Tüzüğün gereklerini karşılayan ve AB tip inceleme belgesinde tanımlanan tipe
+uygun olan her bir ölçü aletine; "CB" işaretini, ek metroloji işaretini ve bu Elin 3.1 inci maddesinde
+belirtilen onaylanmış kuruluşun sorumluluğu altında onaylanmış kuruluşun kimlik kayıt numarasını
+koymalıdır.
+
+5.2. Ölçü aletinin her modeli için bir uygunluk beyanı düzenlenmeli ve bu beyan son ölçü
+aletinin imalatından sonra Bakanlığın denetimine sunulmak üzere on yıl muhafaza edilmelidir. Bu
+beyan düzenlendiği ölçü aletini tanımlamalıdır. Beyanın bir nüshası piyasaya arz edilen her bir ölçü
+aleti ile birlikte sunulmalıdır. Ancak bu gerek, tek bir kullanıcıya büyük miktarda ölçü aletinin teslim
+edildiği durumlarda, ayrı ayrı her bir ölçü aleti yerine gruba veya irsaliyeye uygulanması şeklinde
+olabilir.
+
+6. Üretici, aşağıdaki belgeleri son ölçü aleti imal edildikten sonra, on yıl süre ile Bakanlığın
+denetimine sunulmak üzere muhafaza etmelidir:
+
+- Bu Ekin 3.1 inci maddesinde belirtilen kalite sistemi ile ilgili dokümantasyon,
+- Bu Ek’in 3.5 inci maddesinde belirtilen ve onaylanan değişiklik,
+
+- Bu Ekin 3.5 inci, 4.3 üncü ve 4.4 üncü maddelerinde belirtilen onaylanmış kuruluş
+tarafından verilen kararlar ve raporlar.
+
+7. Her bir onaylanmış kuruluş, verilen ve reddedilen kalite sistemi onaylarının listesini
+periyodik olarak Bakanlığa sunmalı ve geri çekilen bir kalite sistemi onayını derhal Bakanlığa ve
+belgenin verildiği ülkeye bildirmelidir.
+
+Yetkili temsilci
+
+8. Bu Ekin 3.Vinci, 3.5’inci, 5.2'nci ve 6'ncı maddelerinde belirtilen üreticinin
+yükümlülükleri, onun adına ve sorumluluğunda yetkili temsilcisi tarafından yerine getirilebilir.
+
+EK-E 1
+NİHAİ ÜRÜNÜN MUAYENE VE TESTİNE DAİR KALİTE GÜVENCE
+SİSTEMİNİ ESAS ALAN UYGUNLUK BEYANI
+
+1. " Nihai ürünün muayene ve testine dair kalite güvence sistemini esas alan uygunluk
+beyanı" üreticinin bu Ekte belirtilen yükümlülükleri yerine getirdiğini ve ilgili ölçü aletlerinin, bu
+Tüzükte belirtilen gerekleri karşıladığını beyan ettiği uygunluk değerlendirme prosedürüdür.
+
+Teknik dokümantasyon
+
+2. Üretici bu Tüzüğün 9’uncu maddesinde belirtildiği gibi teknik dokümantasyonu
+oluşturmalıdır. e Dokümantasyon, ölçü aletinin, bu Tüzüğün gereklerine (o uygunluğunun
+değerlendirmesini yapabilmeyi sağlamalıdır. Bu dokümantasyon böyle bir değerlendirme için ölçü
+
+aletinin tasarımını, imalatını ve çalışmasını kapsamalıdır.
+
+3. Üretici, son ölçü aletinin imalatından sonra on yıl süre ile teknik dokümantasyonu
+Bakanlığın denetimine sunulmak üzere muhafaza etmelidir.
+
+[SAYFA 31]
+559
+Üretim
+4. Üretici, bu Ekin 5 inci maddesinde belirtildiği şekilde; nihai ürün muayenesi ve testi için
+onaylı bir kalite sistemi işletmeli ve bu Ek’in 6 ncı maddesinde belirtildiği şekilde bir gözetime tabi
+tutulmalıdır.
+Kalite sistemi
+
+5.1. Üretici, kalite sisteminin değerlendirilmesi için seçeceği bir onaylanmış kuruluşa
+başvuruda bulunmalıdır.
+
+Başvuru aşağıdaki hususları içermelidir:
+
+- Ölçü aletinin kategorisi ile ilgili bilgileri,
+
+- Kalite sistemi ile ilgili dokümantasyonu,
+
+- Bu Ek’in 2 nci maddesinde belirtilen teknik dokümantasyonu.
+
+5.2. Kalite sistemi, ölçü aletlerinin bu Tüzüğün gereklerine uygun olmasını sağlamalıdır.
+Üretici tarafından uygulanan tüm unsurlar, gerekler ve hükümler, politikalar, prosedürler ve talimatlar
+şeklinde yazılı olarak sistematik ve düzenli bir şekilde dokümante edilmelidir. Kalite sistemi
+dokümanları; kalite programları, planları, el kitapları ve kayıtlarının doğru olarak yorumlanmasına izin
+vermelidir.
+
+Dokümanlar özellikle aşağıdakileri içermelidir:
+
+- Kalite hedefleri, kuruluşun organizasyon yapısı, ürün kalitesi ile ilgili yönetimin sorumluluk
+ve yetkileri,
+
+- İmalat sonrasında uygulanacak muayene ve testler,
+
+- Muayene raporları, test ve kalibrasyon verileri, ilgili personelin niteliğine ilişkin raporlar
+gibi kalite kayıtları,
+
+- Kalite sisteminin işleyişinin izlenmesini sağlayan araçlar.
+
+5.3. Onaylanmış kuruluş, bu Ek’in 5.2 nci maddesinde belirtilen gereklerin karşılanıp
+karşılanmadığını belirlemek için kalite sisteminin değerlendirmesini yapmalıdır. Referans
+numaralarının yayımlandığı tarihten itibaren, ilgili uyumlaştırılmış standarda karşılık gelen ulusal
+standardın eşdeğer hükümleriyle uyumlu olan kalite sisteminin bu gereklere uygun olduğu kabul
+edilmelidir.
+
+Denetimi yapan ekip, kalite yönetim sistemindeki deneyime ek olarak, metrolojinin ilgili
+alanı ve cihaz teknolojisinde yeterli deneyim ile bu Tüzüğün gerekleri konusunda bilgiye sahip
+olmalıdır. Değerlendirme prosedürü, üreticinin tesislerine bir denetim ziyareti yapılmasını içermelidir.
+
+Onaylanmış kuruluş, inceleme sonuçlarını ve gerekçeli değerlendirme kararını üreticiye
+bildirmelidir.
+
+5.4. Üretici, onaylandığı şekildeki kalite sisteminden kaynaklanan yükümlülükleri yerine
+getirmeli ve bu sistemin yeterli ve etkin bir şekilde sürdürülmesini sağlamalıdır.
+
+[SAYFA 32]
+560
+
+5.5. Üretici, kalite sistemini onaylayan onaylanmış kuruluşu, kalite sisteminde yapacağı her
+türlü değişiklikten haberdar etmelidir.
+
+Onaylanmış kuruluş, önerilen değişiklikleri değerlendirerek kalite sisteminin bu Ek’in 5.2 nei
+maddesindeki gerekleri karşılayıp karşılamadığına ya da yeniden değerlendirmenin gerekli olup
+olmadığına karar vermelidir.
+
+Onaylanmış kuruluş, inceleme sonuçlarını ve gerekçeli değerlendirme kararını üreticiye
+bildirmelidir.
+
+Onaylanmış kuruluşun sorumluluğunda yapılan gözetim
+
+6.1. Gözetimin amacı, üreticinin onaylanmış olan kalite sisteminden kaynaklanan
+yükümlülüklerini yerine getirdiğinden emin olmaktır.
+
+6.2. Üretici, onaylanmış kuruluşun denetim amacıyla; test, muayene ve depolama yerlerine
+girmesine izin vermeli ve gerekli tüm bilgilerle birlikte özellikle aşağıdakileri sağlamalıdır.
+
+- Kalite sistemi dokümantasyonu,
+- Bu Ek’in 2 nci maddesinde belirtilen teknik dokümantasyon,
+
+- Muayene raporları, test ve kalibrasyon verileri, ilgili personelin niteliğine ilişkin raporlar
+gibi kalite kayıtları,
+
+6.3. Onaylanmış kuruluş, üreticinin kalite sistemini sürdürdüğünden ve uyguladığından emin
+olmak için periyodik denetimler yapmalı ve üreticiye bir denetim raporu vermelidir. 6.4. Bunun yanı
+sıra; onaylanmış kuruluş, üreticiye ani ziyaretler de yapabilir. Bu ziyaretler sırasında onaylanmış
+kuruluş, kalite sisteminin düzgün işleyip işlemediğini doğrulamak amacıyla gerekirse ürün testleri
+yapmalı ya da yaptırmalıdır. Onaylanmış kuruluş üreticiye, bir ziyaret raporu ve testler yapılmışsa bir
+test raporu vermelidir.
+
+Yazılı uygunluk beyanı
+
+7.1. Üretici, bu Tüzüğün gereklerini karşılayan her bir ölçü aletine; "CE" işaretini, ek
+metroloji işaretini ve bu Ek'in 5.1 inci maddesinde belirtilen onaylanmış kuruluşun sorumluluğu
+altında onaylanmış kuruluşun kimlik kayıt numarasını koymalıdır.
+
+7.2. Ölçü aletinin her modeli için, bir uygunluk beyanı düzenlenmeli ve bu beyan son ölçü
+aletinin imalatından sonra Bakanlığın denetimine sunulmak üzere on yıl muhafaza edilmelidir. Bu
+beyan düzenlendiği ölçü aletini tanımlamalıdır.
+
+Beyanın bir nüshası piyasaya arz edilen her bir ölçü aleti ile birlikte sunulmalıdır. Ancak, bu
+gerek, tek bir kullanıcıya büyük miktarda ölçü aletinin teslim edildiği durumlarda, ayrı ayrı her bir
+
+ölçü aleti yerine gruba veya irsaliyeye uygulanması şeklinde olabilir,
+
+8. Üretici, aşağıdaki belgeleri son ölçü aleti imal edildikten sonra, on yıl süre ile Bakanlığın
+denetimine sunulmak üzere muhafaza etmelidir.
+
+-Bu Ek’in 5.1 inci maddesinde belirtilen kalite sistemi ile ilgili dokümantasyon,
+
+- Bu Ekin 3.5 inci maddesinde belirtilen ve onaylanan değişiklik,
+
+[SAYFA 33]
+561
+
+- Bu Ek’in 5.5 inci, 6.3 üncü ve 6.4 üncü maddelerinde belirtilen onaylanmış kuruluş
+tarafından verilen kararlar ve raporlar.
+
+9. Her bir onaylanmış kuruluş, verilen ve reddedilen kalite sistemi onaylarının listesini
+periyodik olarak Bakanlığa sunmalı ve geri çekilen bir kalite sistemi onayını derhal Bakanlığa ve
+belgenin verildiği ülkeye bildirmelidir.
+
+Yetkili temsilci
+
+10. Bu Ek’in 3 üncü, 5.1 inci, 5.5 inci, 7.2 nci ve 8 inci maddelerinde belirtilen üreticinin
+yükümlülükleri, onun adına ve sorumluluğunda yetkili temsilcisi tarafından yerine getirilebilir.
+
+EK-F
+URUN DOGRULAMASINI ESAS ALAN TIPE UYGUNLUK BEYANI
+
+1. "Ürün doğrulamasını esas alan tipe uygunluk beyanı" üreticinin bu Ekte belirtilen
+yükümlülükleri yerine getirdiğini ve bu Ek’in 3 üncü maddesinin kurallarına tabi olan ölçü aletlerinin,
+AB tip inceleme belgesinde tanımlanan tipe uygun olduğunu ve bu Tüzükte belirtilen gerekleri
+karşıladığını beyan ettiği uygunluk değerlendirme prosedürünün bir bölümüdür.
+
+Üretim
+
+2. Üretici, imal edilen ölçü aletlerinin, AB tip inceleme belgesinde tanımlanan onaylı tipe ve
+bu Tüzüğün gereklerine uygunluğunun sağlanması için her türlü tedbiri almalıdır.
+
+Doğrulama
+
+3. Üretici tarafından seçilen onaylanınış kuruluş, ölçü aletlerinin, AB tip inceleme belgesinde
+tanımlanan tipe ve bu Tüzüğün gereklerine uygunluğunu kontrol etmek için uygun incelemeleri ve
+testleri yapmalı ya da yaptırmalıdır.
+
+Metrolojik gereklere uygunluğun kontrol edilmesi için yapılacak incelemeler ve testler,
+üreticinin tercihine bağlı olarak, ya bu Ek'in 4 üncü maddesinde belirtildiği gibi her ölçü aletinin
+incelenmesi ve test edilmesi şeklinde ya da 5 inci maddesinde belirtildiği şekilde inceleme ve test
+işlemlerinin bir istatistiksel esasa bağlı olarak yapılması şeklinde olmalıdır.
+
+4. Her bir ölçü aletinin incelenmesi ve test edilmesi yoluyla metrolojik gereklere
+uygunluğunun doğrulanması;
+
+4.1. Ölçü aletlerinin tamamı, metrolojik gereklere uygunluklarının doğrulanması için ayrı ayrı
+incelenmeli ve bu Yönetmeliğin 11'inci maddesindeki dokümanlarda belirtilen uygun testlere ya da
+eşdeğer testlere tabi tutulmalıdır. İlgili bir dokümanın olmaması durumunda, hangi testlerin
+yapılacağına onaylanmış kuruluş karar vermelidir.
+
+4,2. Onaylanmış kuruluş, yapılan incelemeler ve testlerle ilgili olarak bir uygunluk belgesi
+düzenlemeli ve onaylanan her bir ölçü aletine kimlik kayıt numarasını koymalıdır veya
+sorumluluğunda konulmasını sağlamalıdır.
+
+Üretici uygunluk belgelerini, ölçü aletinin belgelendirilmesinden sonra on yıl süre ile
+Bakanlığın denetimine sunulmak üzere muhafaza etmelidir.
+
+5. Metrolojik gereklere uygunluğun istatistiksel doğrulanması;
+
+[SAYFA 34]
+562
+
+5.1. Üretilen her bir partideki homojenliğin sağlanması için üretici, imalat sürecinde her türlü
+tedbiri almalı ve doğrulanmaları için ölçü aletlerini homojen partiler halinde sunmalıdır,
+
+5.2. Bu Ek’in 5.3 üncü maddesinde belirtilen gereklere uygun olarak her bir partiden rastgele
+bir numune alınmalıdır. Söz konusu partinin kabul ya da reddine karar verilebilmesi icin ahnan
+numuneler, bu Tüzüğün 11'inci maddesinde belirtilen dokümanlarda yer alan metrolojik gereklere
+uygunluğu gösteren testlere ya da eşdeğer testlere ayrı ayrı tabi tutulmalıdır. İlgili bir dokümanın
+olmaması durumunda, hangi testlerin yapılacağına onaylanmış kuruluş karar vermelidir.
+
+5.3. İstatistiksel prosedür aşağıdaki gerekleri karşılamalıdır:
+İstatistiksel kontrol varsayımlara dayanmalı ve numune alma yöntemi:
+
+- Ye 1'in altındaki uygunsuzluk durumunda, % 95 oranında bir kabul olasılığına karşılık gelen
+kalite düzeyini,
+
+- % 7'nin altındaki bir uygunsuzluk durumunda % 5 oranında bir kabul olasılığına karşılık
+gelen smur Kalitesini,
+
+sağlamalıdır.
+
+5.4. Bir parti kabul edilmiş ise, numunelerden testleri geçemeyen ölçü aletleri haricindeki
+partideki tüm ölçü aletleri onaylanmalıdır.
+
+Onaylanmış kuruluş, yapılan incelemeler ve testlerle ilgili olarak bir uygunluk belgesi
+düzenlemeli ve onaylanan her bir ölçü aletine kimlik kayıt numarasını koymalı veya sorumluluğu
+altında konulmasını sağlamalıdır.
+
+Üretici uygunluk belgelerini, ölçü aletinin belgelendirilmesinden sonra on yıl süre ile
+Bakanlığın denetimine sunulmak üzere muhafaza etmelidir.
+
+5.5. Bir parti reddedilmiş ise, onaylanmış kuruluş söz konusu partinin piyasaya arz
+edilmesinin önlenmesi için uygun tedbirleri almalıdır. Partilerin sık sık reddedilmeleri durumunda,
+onaylanmış kuruluş, istatistiksel doğrulamayı askıya alabilir ve gereken tedbirleri uygulayabilir,
+
+Yazılı uygunluk beyanı
+
+6.1. Üretici, bu Tüzüğün gereklerini karşılayan ve onaylanan tipe uygun olan her bir ölçü
+aletine, "CE" işaretini ve ek metroloji işaretini koymalıdır.
+
+6.2. Ölçü aletinin her modeli için bir uygunluk beyanı düzenlenmeli ve bu beyan son ölçü
+aletinin imalatından sonra Bakanlığın denetimine sunulmak üzere on yıl muhafaza edilmelidir. Bu
+beyan düzenlendiği ölçü aletini tanımlamalıdır.
+
+Beyanın bir nüshası piyasaya arz edilen her ölçü aleti ile birlikte sunulmalıdır. Ancak bu
+gerek, tek bir kullanıcıya büyük miktarda ölçü aletinin teslim edildiği durumlarda, ayrı ayrı her bir
+ölçü aleti yerine gruba veya irsaliyeye uygulanması şeklinde olabilir.
+
+Bu Ek’in 3 üncü maddesinde belirtilen onaylanmış kuruluşla mutabakat sağlanması halinde
+
+üretici onaylanmış kuruluşun sorumluluğunda onaylanmış kuruluşun kimlik kayıt numarasını da ölçü
+aletlerine koymalıdır.
+
+[SAYFA 35]
+563
+
+7. Üretici, onaylanmış kuruluşla mutabakat sağlaması halinde onun sorumluluğu altında,
+onaylanmış kuruluşun kimlik kayıt numarasını imalat sürecinde de ölçü aletine koyabilir..
+
+Yetkili temsilci
+
+8. Bu Ekin 2 nci ve 5.1 inci maddelerinde belirtilen yükümlülükler hariç olmak üzere
+üreticinin yükümlülükleri, onun adına ve sorumluluğu altında yetkili temsilcisi tarafından yerine
+getirilebilir
+
+EK-FI
+URUN DOGRULAMASINI ESAS ALAN UYGUNLUK BEYANI
+1. "Ürün doğrulamasını esas alan uygunluk beyanı" üreticinin bu Ekte belirtilen
+
+yükümlülükleri yerine getirdiğini ve bu Ek’in 5 inci maddesinin kurallarına tabi olan ölçü aletlerinin,
+bu Tüzüğün gereklerini karşıladığını beyan ettiği uygunluk değerlendirme prosedürüdür.
+
+Teknik dokümantasyon
+
+2. Üretici, bu Tüzüğün uncu maddesinde belirtildiği şekilde bir teknik dokümantasyonu
+oluşturmalıdır. . Dokümantasyon, ölçü aletinin bu Tüzüğün (o gereklerine © uygunluğunun
+değerlendirmesini yapabilmeyi sağlamalıdır. Bu dokümantasyon böyle bir değerlendirme için, ölçü
+aletinin tasarımını, imalatını ve çalışmasını kapsamalıdır.
+
+3. Üretici, son ölçü aletinin imalatmdan sonra on yıl süre ile teknik dokümantasyonu
+Bakanlığın denetimine sunulmak üzere muhafaza etmelidir.
+
+Üretim
+
+4. Üretici, imal edilen ölçü aletlerinin, bu Tüzük kurallarına uygunluğunun sağlanması için
+gerekli her türlü tedbiri almalıdır.
+
+Doğrulama
+
+5. Üretici tarafından seçilen onaylanmış kuruluş, ölçü aletlerinin, bu Tüzüğün gereklerine
+uygunluğunu kontrol etmek için uygun incelemeleri ve testleri yapmalı yada yaptırmalıdır.
+
+Metrolojik gereklere uygunluğun kontrol edilmesi için yapılacak incelemeler ve testler,
+üreticinin tercihine bağlı olarak, ya bu Ekin 6 ncı maddesinde belirtildiği gibi her ölçü aletinin
+incelenmesi ve test edilmesi şeklinde ya da 7 nci maddesinde belirtildiği şekilde inceleme ve test
+işlemlerinin bir istatistiksel esasa bağlı olarak yapılması şeklinde olmalıdır.
+
+6. Her bir ölçü aletinin incelenmesi ve test edilmesi yoluyla, metrolojik gereklere
+uygunluğunun doğrulanması,
+
+6.1. Ölçü aletlerinin tamamı, metrolojik gereklere uygunluklarını doğrulanması için ayrı ayrı
+incelenmeli ve bu Tüzüğün | Dinci maddesindeki dokümanlarda belirtilen uygun testlere ya da eşdeğer
+testlere tabi tutulmalıdır. İlgili bir dokümanın olmaması durumunda, hangi testlerin yapılacağına
+onaylanmış kuruluş karar vermelidir.
+
+[SAYFA 36]
+564
+
+6.2. Onaylanmış kuruluş, yapılan incelemeler ve testlerle ilgili olarak bir uygunluk belgesi
+düzenlemeli ve onaylanan her bir ölçü aletine kimlik kayıt numarasını koymalı veya sorumluluğunda
+konulmasını sağlamalıdır.
+
+Üretici uygunluk belgelerini, ölçü aletinin belgelendirilmesinden sonra on yıl süre ile Bakanlık
+denetimine sunulmak üzere muhafaza etmelidir.
+
+7. Metrolojik gereklere uygunluğun istatistiksel doğrulanması,
+
+7.1. Üretilen her bir partideki homojenliğin sağlanması için üretici, imalat sürecinde her türlü
+tedbiri almalı ve doğrulanmaları için ölçü aletlerini homojen partiler halinde sunmalıdır.
+
+7.2. Bu Ek’in 7.3 üncü maddesinde belirtilen gereklere uygun olarak her bir partiden rastgele
+bir numune alınmalıdır. Söz konusu partinin kabul ya da reddine karar verilebilmesi için alınan
+numuneler, bu Tüzüğün 9’uncu üncü maddesinde belirtilen dokümanlarda yer alan metrolojik
+gereklere uygunluğu gösteren testlere ya da eşdeğer testlere ayrı ayrı tabi tutulmalıdır. İlgili bir
+dokümanın olmaması durumunda, hangi testlerin yapılacağına onaylanmış kuruluş karar vermelidir.
+
+7.3. İstatistiksel prosedürler aşağıdaki gerekleri karşılamalıdır:
+İstatistik kontrol varsayımlara dayanmalı ve numune alma yöntemi;
+
+- % I'in altındaki uygunsuzluk durumunda % 95 oranında bir kabul olasılığına karşılık gelen
+kalite düzeyini,
+
+- 94 7'nin altındaki bir uygunsuzluk durumunda % 5 oranında bir kabul olasılığına karşılık
+gelen sınır kalitesini,
+
+sağlamalıdır.
+
+7.4. Bir parti kabul edilmiş ise, numunelerden testleri geçemeyen ölçü aletleri haricindeki
+partideki tüm ölçü aletleri onaylanmalıdır.
+
+Onaylanmış kuruluş, yapılan incelemeler ve testlerle ilgili olarak bir uygunluk belgesi
+düzenlemeli ve onaylanan her ölçü aletine kimlik kayıt numarasını koymalı sorumluluğu altında
+konulmasını sağlamalıdır.
+
+Üretici uygunluk belgelerini, ölçü aletinin belgelendirilmesinden sonra on yıl süre ile
+Bakanlığın denetimine sunulmak üzere muhafaza etmelidir.
+
+7.5. Bir parti reddedilmiş ise, onaylanmış kuruluş söz konusu partinin piyasaya arz
+edilmesinin önlenmesi için uygun tedbirleri almalıdır. Partilerin sık sık reddedilmeleri durumunda,
+onaylanmış kuruluş, istatistiksel doğrulamayı askıya alabilir ve gereken tedbirleri uygulayabilir.
+
+Yazılı uygunluk beyanı
+
+8.1. Üretici, bu Tüzüğün gereklerini karşılayan her bir ölçü aletine, "CE" işaretini ve ek
+metroloji işaretini koymalıdır.
+
+8.2. Ölçü aletinin her modeli için, bir uygunluk beyanı düzenlenmeli ve bu beyan son ölçü
+aletinin imalatından sonra Bakanlığın denetimine sunulmak üzere on yıl muhafaza edilmelidir. Bu
+beyan düzenlendiği ölçü aletini tanımlamalıdır.
+
+[SAYFA 37]
+565
+Beyanin bir nüshası piyasaya arz edilen her bir ölçü aleti ile birlikte sunulmalıdır. Ancak bu
+gerek, tek bir kullanıcıya büyük miktarda ölçü aletinin teslim edildiği durumlarda, ayrı ayrı her bir
+ölçü aleti yerine gruba veya irsaliyeye uygulanması şeklinde olabilir.
+
+Bu Ek’in 5 inci maddesinde belirtilen onaylanmış kuruluşla mutabakat sağlanması halinde
+üretici onaylanmış kuruluşun sorumluluğunda onaylanmış kuruluşun kimlik kayıt numarasını da ölçü
+aletlerine konulmalıdır.
+
+9. Üretici, onaylanmış kuruluşla mutabakat sağlaması halinde onun sorumluluğu altında,
+onaylanmış kuruluşun kimlik kayıt numarasını imalat sürecinde de ölçü aletine koyabilir.
+
+Yetkili temsilci
+
+10. Bu EK'in 4 üncü ve 7.1 inci maddelerinde belirtilen yükümlülükler hariç olmak üzere
+üreticinin yükümlülükleri, onun adıma ve sorumluluğu altında yetkili temsilcisi tarafından yerine
+getirilebilir.
+
+EK-G
+BİRİM DOĞRULAMASINI ESAS ALAN UYGUNLUK BEYANI
+
+|. "Birim doğrulamasını esas alan uygunluk beyanı" üreticinin bu Ekte belirtilen
+yükümlülükleri yerine getirdiğini ve bu Ek’in 4 üncü maddesinin kurallarına tabi olan ölçü aletlerinin,
+bu Tüzükte belirtilen gerekleri karşıladığını beyan ettiği uygunluk değerlendirme prosedürüdür.
+
+Teknik dokümantasyon
+
+2. Üretici, bu Tüzüğün 9'uncu maddesinde belirtildiği şekilde teknik dokümantasyonu
+oluşturmalı ve bu Ek'in 4 üncü maddesinde belirtilen onaylanmış kuruluş tarafından ulaşılabilir
+olmasını sağlamalıdır. Dokümantasyon, ölçü aletinin bu Tüzüğün gereklerine uygunluğunun
+değerlendirmesini yapabilmeyi sağlamalıdır. Bu dokümantasyon böyle bir değerlendirme için ölçü
+aletinin, tasarımını, imalatını ve çalışmasını kapsamalıdır,
+
+Üretici, teknik dokümantasyonu Bakanlığın denetimine sunulmak üzere on yıl süre ile
+muhafaza etmelidir.
+
+Üretim
+
+3. Üretici, imal edilen ölçü aletlerinin, bu Tüzüğün gereklerine uygunluğunun sağlanması için
+gerekli her türlü tedbiri almalıdır.
+
+Doğrulama
+
+4. Üretici tarafından seçilen onaylanmış kuruluş, ölçü aletlerinin bu Tüzüğün gereklerine
+uygunluğunu kontrol etmek için bu Tüzüğün 11'inci maddesinde atıfta bulunulan dokümanlarda
+belirtilen incelemeleri ve testleri yapmalı yada yaptırmalıdır. İlgili dokümanın olmaması durumunda
+hangi testin yapılacağına onaylanmış kuruluş karar vermelidir.
+
+Onaylanmış kuruluş, yapılan incelemeler ve testlerle ilgili olarak bir uygunluk belgesi
+düzenlemeli ve onaylanan her ölçü aletine kimlik kayıt numarasını koymalı ya da sorumluluğunda
+konulmasını sağlamalıdır. Üretici uygunluk belgelerini, ölçü aletinin belgelendirilmesinden sonra on
+yıl süre ile Bakanlığın denetimine sunulmak üzere muhafaza etmelidir.
+
+[SAYFA 38]
+566
+
+Yazılı uygunluk beyanı
+
+5.1, Üretici, bu Tüzüğün gereklerini karşılayan her bir ölçü aletine; "CE" işaretini, ek
+metroloji işaretini ve bu Ek'in 4 üncü maddesinde belirtilen onaylanmış kuruluşun sorumluluğu
+altında onaylanmış kuruluşun kimlik kayıt numarasını koymalıdır. :
+
+5.2. Bir uygunluk beyanı düzenlenmeli ve bu beyan son ölçü aletinin imalatından sonra,
+
+Bakanlığın denetimine sunulmak üzere 10 yıl muhafaza edilmelidir. Bu beyan, düzenlendiği ölçü
+aletini tanımlamalıdır. Beyanin bir nüshası ölçü aleti ile birlikte sunulmalıdır.
+
+Yetkili temsilci
+
+6. Bu Elvin 2 nci ve 4.2 nci maddelerinde belirtilen üreticinin yükümlülükleri onun adına ve
+sorumluluğunda yetkili temsilcisi tarafından yerine getirilebilir.
+
+EK-H
+TAM KALİTE GÜVENCESİNİ ESAS ALAN UYGUNLUK BEYANI
+1. "Tam kalite güvencesini esas alan uygunluk beyanı" üreticinin bu Ekte belirtilen
+yükümlülükleri yerine getirdiğini ve ilgili ölçü aletlerinin, bu Tüzüğün gereklerini karşıladığını beyan
+
+ettiği uygunluk değerlendirme prosedürüdür.
+
+Üretim
+
+2. Üretici, bu Ek'in 3 üncü maddesinde belirtildiği şekilde; ilgili ölçü aletinin tasarımı,
+imalatı, nihai ürün denetimi ve testi için onaylı bir kalite sistemi işletmeli ve bu Ek'in 4 üncü
+maddesinde belirtildiği şekilde gözetime tabi tutulmalıdır.
+
+Kalite sistemi
+
+3.1 Üretici, kalite sisteminin değerlendirilmesi için seçeceği bir onaylanmış kuruluşa
+başvuruda bulunmalıdır.
+
+Başvuru;
+
+- Ölçü aleti kategorisi ile ilgili tüm bilgileri,
+
+- Kalite sistemi ile ilgili dokümantasyonu
+
+içermelidir.
+
+3.2. Kalite sistemi, ölçü aletlerinin bu Tüzüğün gereklerine uygun olmasını sağlamalıdır.
+Üretici tarafından uygulanan tüm unsurlar, gerekler ve hükümler politikalar, prosedürler ve talimatlar
+şeklinde yazılı olarak sistematik ve düzenli bir şekilde dokümante edilmelidir. Kalite sistemi
+dokümanları; kalite programları, planları, el kitapları ve kayıtlarının doğru olarak yorumlanmasına izin
+vermelidir.
+
+Dokümanlar özellikle aşağıdaki hususları içermelidir:
+
+[SAYFA 39]
+567
+
+- Kalite hedefleri , kuruluşun organizasyon yapısı, yönetimin ürün kalitesi ve tasarımı ile
+ilgili sorumluluk ve yetkileri,
+
+- Uygulanacak olan standartlar ve bu Tüzüğün |l'inci maddesinde atıfta bulunulan
+dokümanların tam olarak uygulanmayacağı durumlarda, ölçü aletlerinin bu Tüzüğün temel gereklerine
+uygunluğunun sağlanması amacıyla kullanılacak yöntemler de dahil olmak üzere teknik tasarım
+özellikleri,
+
+- Ölçü aletinin kategorisi ile ilgili olarak, ölçü aletinin tasarımlanması esnasında kullanılan
+tasarım kontrolü ve doğrulama teknikleri, süreçleri ve sistematik işlemler,
+
+- Kullanılacak olan imalat, kalite kontrol ve kalite güvence teknikleri ile süreçler ve sistematik
+faaliyetler,
+
+- İmalattan önce, imalat sırasında ve sonrasında uygulanacak inceleme ve testler ile bunların
+uygulama sıklıkları,
+
+- Muayene raporları test ve kalibrasyon verileri, ilgili personelin niteliğine ilişkin raporlar gibi
+kalite kayıtları,
+
+- Gerekli tasarım ve ürün kalitesi ile kalite sisteminin işleyişinin izlenmesini sağlayan araçlar.
+
+3.3. Onaylanmış kuruluş, bu Ek'in 3.2 nci maddesinde belirtilen gereklerin karşılanıp
+karşılanmadığını belirlemek için Kalite sisteminin değerlendirmesini yapmalıdır. Referans
+numaralarının yayımlandığı tarihten itibaren, ilgili uyumlaştırmış standarda karşılık gelen ulusal
+standardın eşdeğer hükümleri ile uyumlu olan kalite sisteminin bu gereklere uygun olduğu kabul
+edilmelidir.
+
+Denetimi yapan ekip, kalite yönetim sistemindeki deneyime ek olarak, metrolojinin ilgili alanı
+ve cihaz teknolojisinde yeterli deneyim ile bu Tüzüğün gerekleri konusunda bilgiye sahip olmalıdır.
+Değerlendirme prosedürü, üreticinin tesislerine bir denetim ziyareti yapılmasını içermelidir.
+
+Onaylanmış kuruluş, inceleme sonuçlarını ve gerekçeli değerlendirme kararını üreticiye
+bildirmelidir.
+
+3.4. Üretici, onaylandığı şekildeki kalite sisteminden kaynaklanan yükümlülükleri yerine
+getirmeli ve bu sistemin yeterli ve etkin şekilde sürdürülmesini sağlamalıdır.
+
+3.5. Üretici kalite sistemini onaylayan onaylanmış kuruluşu, kalite sisteminde yapılması
+düşünülen her türlü değişiklikten haberdar etmelidir.
+
+Onaylanmış kuruluş, önerilen değişiklikleri değerlendirerek kalite sisteminin bu Ek’in 3.2 nci
+maddesindeki gerekleri karşılayıp karşılamadığına ya da yeniden değerlendirmenin gerekli olup
+
+olmadığına karar vermelidir.
+
+Onaylanmış kuruluş, inceleme sonuçlarını ve gerekçeli değerlendirme kararını üreticiye
+bildirmelidir.
+
+Onaylanmış kuruluşun sorumluluğunda yapılan gözetim
+
+4.1. Gözetimin amacı, üreticinin onaylanmış olan kalite sisteminden kaynaklanan
+yükümlülüklerini yerine getirdiğinden emin olmaktır.
+
+[SAYFA 40]
+568
+
+4.2. Üretici, onaylanmış kuruluşun denetim amacıyla; imalat, muayene, test ve depolama
+yerlerine girmesine izin vermeli ve gerekli tüm bilgilerle birlikte özellikle aşağıdakileri sağlamalıdır;
+
+- Kalite sistemi dokümantasyonu,
+
+-Analiz sonuçları, hesaplamalar, testler v.s. gibi kalite sisteminin tasarım bölümünde
+öngörülen kalite kayıtları,
+
+- Muayene raporları, test ve kalibrasyon verileri, ilgili personelin niteliğine ilişkin raporlar
+gibi kalite sisteminin imalat bölümünde öngörülen kalite kayıtları.
+
+4.3. Onaylanmış kuruluş, üreticinin Kalite sistemini sürdürdüğünden ve uyguladığından emin
+olmak için, periyodik denetimler yapmalı ve üreticiye bir denetim raporu vermelidir.
+
+4.4. Bunun yanı sıra onaylanmış kuruluş, üreticiye ani ziyaretler de yapabilir. Bu ziyaretler
+sırasında onaylanmış kuruluş, kalite sisteminin düzgün işleyip işlemediğini doğrulamak amacıyla
+gerekirse, ürün testleri yapmalı ya da yaptırmalıdır. Onaylanmış kuruluş, üreticiye bir ziyaret raporu
+ve testler yapılmışsa bir test raporu vermelidir.
+
+Yazıl uygunluk beyanı
+
+5.1. Uretici, bu Tüzüğün gereklerini karşılayan her bir ölçü aletine; "CE" işaretini, ek
+metroloji işaretini ve bu Ek'in 3.1 inci maddesinde belirtilen onaylanmış kuruluşun sorumluluğu
+altında onaylanmış kuruluşun kimlik kayıt numarasını koymalıdır.
+
+5.2, Ölçü aletinin her modeli için bir uygunluk beyanı düzenlenmeli ve bu beyan son ölçü
+aletinin imalatından sonra Bakanlığın denetimine sunulmak üzere on yıl muhafaza edilmelidir. Bu
+beyan, düzenlendiği ölçü aletini tanımlamalıdır.
+
+Beyanın bir nüshası piyasaya arz edilen her bir ölçü aleti ile birlikte sunulmalıdır. Ancak bu
+gerek, tek bir kullanıcıya büyük miktarda ölçü aletinin teslim edildiği durumlarda, ayrı ayrı her bir
+
+ölçü aleti yerine gruba veya irsaliyeye uygulanması şeklinde olabilir.
+
+6. Üretici, aşağıdaki belgeleri son ölçü aleti imal edildikten sonra, on yıl süre ile Bakanlığın
+denetimine sunulmak üzere muhafaza etmelidir.
+
+- Bu Ek’in 3.1 inci maddesinde belirtilen kalite sistemi ile ilgili dokümantasyon,
+- Bu Ek’in 3.5 inci maddesinde belirtilen ve onaylanan değişiklik,
+
+- Bu Ek'in 3.5 inci, 4.3 üncü ve 4.4 üncü maddelerinde belirtilen, onaylanmış kuruluş
+tarafından verilen kararlar ve raporlar.
+
+7. Her bir onaylanmış kurulus, verilen ve reddedilen kalite sistemi onaylarının listesini
+periyodik olarak Bakanlığa sunmalı ve geri çekilen bir kalite sistemi onayını derhal Bakanlığa ve
+belgenin verildiği ülkeye bildirmelidir.
+
+Yetkili temsilci
+
+8. Bu Ek’in 3.1 inci, 3.5 inci, 5.2 nci ve 6 ncı maddelerinde belirtilen üreticinin
+yükümlülükleri, onun adına ve sorumluluğu altında yetkili temsilcisi tarafından yerine getirilebilir.
+
+[SAYFA 41]
+569
+EK-H1
+
+TAM KALİTE GÜVENCESİNİ VE TASARIM İNCELEMESİNİ ESAS ALAN UYGUNLUK
+BEYANI
+
+I. "Tam kalite güvencesini ve tasarım incelemesini esas alan uygunluk beyanı" üreticinin bu
+Ekte belirtilen yükümlülükleri yerine getirdiğini ve ilgili ölçü aletlerinin, bu Tüzüğün gereklerini
+karşıladığını beyan ettiği uygunluk değerlendirme prosedürüdür.
+
+Üretim
+
+2. Üretici, bu Ek’in 3 üncü maddesinde belirtildiği şekilde; ilgili ölçü aletinin tasarımı, imalatı,
+nihai ürün denetimi ve testi için onaylı bir kalite sistemi isletmeli ve bu Ek’in 5 inci maddesinde
+
+belirtildiği şekilde gözetime tabi tutulmalıdır. Ölçü aletinin teknik tasarımının yeterliliği, bu Ek'in 4
+üncü maddesinin kurallarına göre incelenmelidir.
+
+Kalite sistemi
+
+3.1. Üretici, kalite sisteminin değerlendirilmesi için seçeceği bir onaylanmış kuruluşa
+başvuruda bulunmalıdır.
+
+Başvuru;
+
+- Ölçü aleti kategorisi ile ilgili tüm bilgiyi,
+- Kalite sistemi ile ilgili dokümantasyonu
+içermelidir.
+
+3.2. Kalite sistemi, ölçü aletlerinin bu Tüzüğün gereklerine uygun olmasını sağlamalıdır.
+Üretici tarafından uygulanan tüm unsurlar, gerekler ve hükümler; politikalar, prosedürler ve talimatlar
+şeklinde yazılı olarak sistematik ve düzenli bir şekilde dokümante edilmelidir. Kalite sistemi
+dokümanları; kalite programları, planları, el kitapları ve kayıtlarının doğru olarak yorumlanmasına izin
+vermelidir.
+
+Dokümanlar, özellikle aşağıdaki hususları içermelidir:
+
+- Kalite hedefleri, kuruluşun organizasyon yapısı, yönetimin ürün kalitesi ve tasarımı ile ilgili
+sorumluluk ve yetkileri,
+
+- Uygulanacak olan standartlar ve bu Tüzüğün 10'inci maddesinde atıfta bulunulan
+dokümanların tam olarak uygulanmayacağı durumlarda, ölçü aletlerinin bu Tüzüğün temel gereklerine
+uygunluğunun sağlanması amacıyla kullanılacak yöntemler de dahil olmak üzere teknik tasarım
+özellikleri,
+
+- Ölçü aletinin kategorisi ile ilgili olarak, ölçü aletinin tasarımlanması esnasında kullanılan
+tasarım kontrolü ve doğrulama teknikleri, süreçleri ve sistematik işlemler,
+
+- Kullanılacak olan imalat, kalite kontrol ve kalite güvence teknikleri ile süreçler ve sistematik
+faaliyetler,
+
+- İmalattan önce, imalat sırasında ve sonrasında uygulanacak inceleme ve ile bunların
+uygulama sıklıkları,
+
+[SAYFA 42]
+570
+
+- Muayene raporları, test ve kalibrasyon verileri, ilgili personel niteliğine ilişkin raporlar gibi
+kalite kayıtları,
+
+- İstenilen tasarım ve ürün kalitesi ile kalite sisteminin işleyişinin izlenmesini sağlayan araçlar,
+
+3.3. Onaylanmış kuruluş, bu Ek’in 3.2 nci maddesinde belirtilen gereklerin karşılanıp
+karşılanmadığını belirlemek için kalite sisteminin değerlendirmesini yapmalıdır. Referans
+numaralarının yayımlandığı tarihten itibaren, ilgili uyumlaştırmış standarda karşılık gelen ulusal
+standardın eşdeğer hükümleri ile uyumlu olan kalite sisteminin bu gereklere uygun olduğu kabul
+edilmelidir.
+
+Denetimi yapan ekip, kalite yönetim sistemi, metrolojinin ilgili alanı ve cihaz teknolojisinde
+yeterli deneyim ile bu Tüzüğün gerekleri ile ilgili bilgiye sahip olmalıdır. Değerlendirme prosedürü,
+üreticinin tesislerine bir denetim ziyareti yapılmasını içermelidir.
+
+Onaylanmış kuruluş, inceleme sonuçlarını ve gerekçeli değerlendirme kararını üreticiye
+bildirmelidir.
+
+3.4. Üretici, onaylandığı şekildeki kalite sisteminden kaynaklanan yükümlülükleri yerine
+getirmeli ve bu sistemin yeterli ve etkin şekilde sürdürülmesini sağlamalıdır.
+
+3.5. Üretici kalite sistemini onaylayan onaylanmış kuruluşu, kalite sisteminde yapılması
+düşünülen her türlü değişiklikten haberdar etmelidir.
+
+Onaylanmış kuruluş, önerilen değişiklikleri değerlendirerek değişen kalite sisteminin bu Ek’in
+3.2 nci maddesindeki gerekleri karşılayıp karşılamadığına ya da yeniden değerlendirmenin gerekli
+olup olmadığına karar vermelidir.
+
+Onaylanmış kuruluş, inceleme sonuçlarını ve gerekçeli değerlendirme kararını üreticiye
+bildirmelidir.
+
+3.6. Her bir onaylanmış kuruluş, verilen ve reddedilen kalite sistemi onaylarının listesini
+periyodik olarak Bakanlığa sunmalı ve geri çekilen bir kalite sistemi onayını derhal Bakanlığa ve
+belgenin verildiği ülkeye bildirmelidir.
+
+Tasarım incelemesi
+
+4.1. Üretici, bu Ekin 3.1 inci maddesinde belirtilen onaylanmış kuruluşa tasarımın
+incelenmesi için başvuruda bulunmalıdır.
+
+4.2. Başvuru; tasarımın, imalatın ve ölçü aletinin çalıştırılmasının anlaşılmasını mümkün
+kılmalı ve bu Tüzüğün gerekleri ile uygunluğunun değerlendirmesine olanak sağlamalıdır. Bu başvuru
+aşağıdakileri içermelidir:
+
+- Üreticinin adı ve adresi,
+
+- Aynı başvurunun diğer bir onaylanmış kuruluşa yapılmadığına dair yazılı beyan,
+
+- Bu Tüzüğün uncu maddesinde tanımlandığı şekilde teknik dokümantasyon.
+
+Dokümantasyon, ölçü aletinin bu Tüzüğün gereklerine uygunluğunun değerlendirmesini mümkün
+kılmalıdır. Değerlendirme ölçü aletinin tasarımını ve çalıştırılmasını kapsamalıdır.
+
+[SAYFA 43]
+571
+
+- Teknik tasarımın yeterliliğini destekleyici kanıtlar. Bu kanıtlar, özellikle Tüzüğün 1'inci
+maddesinde atifta bulunulan dokümanların tam olarak uygulanmadığı durumlarda, uygulanan
+dokümanları belirtmeli ve gerekli hallerde üreticinin laboratuarlarında ya da diğer bir test
+laboratuarında adına ve sorumluluğunda yapılan test sonuçlarını içermelidir.
+
+4.3. Onaylanmış kuruluş, başvuruyu inceleyerek tasarımın bu Tüzüğün hükümlerini
+karşıladığı hallerde, üreticiye bir AB tasarım inceleme belgesi vermelidir. Söz konusu belge,
+üreticinin adını, adresini, incelemenin sonuçlarını, geçerliliği ile ilgili koşulu ve onaylanan ölçü
+aletinin tanımlanması için gerekli verileri içermelidir.
+
+4.3.1. Teknik dokümantasyonun ilgili kısımları belgeye eklenmelidir.
+
+4.3.2. Belge veya ekleri, uygunluk değerlendirmesi ve kullanım sırasındaki kontrol ile ilgili
+tüm bilgileri içermelidir. Özellikle, üretilen ölçü aletlerinin uygun şekilde ayarlarının yapıldığı
+hallerde, metrolojik performanslarının yeniden üretilebilirliliği ile ilgili olarak, imal edilmiş ölçü
+aletlerinin incelenmiş tasarımla değerlendirilmesi için aşağıdaki bilgileri içermelidir;
+
+- Ölçü aletinin tasarımının metrolojik özellikleri,
+
+- Ölçü aletinin güvenilirliğini sağlamak için gerekli önlemler (damgalama, mühürleme,
+yazılım tanımı vb.),
+
+- Ölçü aletinin tanımlanması ve dış görünümünün tipe olan uygunluğunu kontrol etmek için
+gerekli olan diğer unsurlar hakkında bilgi,
+
+- Gerekliyse, imal edilmiş ölçü aletinin özelliklerini doğrulamak için herhangi bir özel bilgi,
+
+- Alt montaj cihazı kullanılması durumunda, diğer alt montaj cihazları veya ölçü aletleriyle
+uygunluğu sağlayacak gerekli tüm bilgi.
+
+4.3.3. Onaylanmış kuruluş bir değerlendirme raporu hazırlamalı ve kendisini atayan
+Bakanlığın tasarrufunda muhafaza etmelidir. Onaylanmış kuruluş, ancak üretici ile mutabık kalmak
+kaydıyla, bu Tüzüğün 10'uncu maddesinin (I1)inci fıkrasının (G) bendindeki haklar saklı kalmak
+kaydı ile bu raporun içeriğinin tamamını ya da bir kısmını yayınlayabilir.
+
+Belge, verildiği tarihten itibaren on yıllık bir geçerliliğe sahip olmalı ve her on yılda bir
+yenilenebilmelidir.
+
+Üreticiye tasarım inceleme belgesi verilmezse, onaylanmış kuruluş verilmeme nedenlerini
+detaylı olarak açıklamalıdır.
+
+4.4. Üretici, AB tasarım inceleme belgesini veren onaylanmış kuruluşu, onaylanmış tasarım
+üzerindeki temel değişiklikten haberdar etmelidir. Onaylanmış tasarımda yapılacak değişikliklerin bu
+Tüzüğün temel gereklerine olan uygunluk, belgenin geçerlilik şartları ya da ölçü aletinin kullanımı için
+önceden belirlenmiş koşullar üzerinde etkili olabilecek olan değişiklikler olması halinde, AB tasarım
+inceleme belgesini veren onaylanmış kuruluştan ilave onay alınması gereklidir. Bu ek onay, asıl AB
+tasarım inceleme belgesine bir ek olarak verilmelidir.
+
+4.5. Onaylanmış kuruluş kendisini atayan Bakanlığı periyodik olarak aşağıdaki hususlarda
+bilgilendirmelidir.
+
+- Verilen AB tasarım inceleme belgeleri ve ekleri,
+
+[SAYFA 44]
+572
+- Verilmiş belgeler ile ilgili ekler ve değişiklikler.
+
+Onaylanmış kuruluş, AB tasarım inceleme belgesinin geri çekilmesi durumunda, konuyla ilgili
+olarak kendisini atayan Bakanlığı derhal bilgilendirmelidir.
+
+4.6. Üretici veya onun yetkili temsilcisi son ölçü aleti imal edildikten sonra on yıl süre ile
+Bakanlığın denetimine sunulmak üzere teknik dokümantasyon ile birlikte AB tasarım inceleme
+belgesinin, eklerinin ve ilavelerinin bir nüshasını muhafaza etmelidir.
+
+Üreticinin ve yetkili temsilcisinin Kuzey Kıbrıs Türk Cumhuriyeti'nde yerleşik olmadığı
+durumlarda, talep edilmesi halinde teknik dokümantasyonun verilmesi sorumluluğu üretici tarafından
+atanan kişiye ait olmalıdır.
+
+Onaylanmış kuruluşun sorumluluğunda yapılan gözetim
+
+5.1. Gözetimin amacı üreticinin onaylanmış olan kalite sisteminden kaynaklanan
+yükümlülüklerini yerine getirdiğinden emin olmaktır.
+
+5.2. Üretici, onaylanmış kuruluşun denetim amacıyla tasarım, üretim, muayene, test ve
+depolama yerlerine girmesine izin vermeli ve gerekli tüm bilgilerle birlikte özellikle aşağıdakileri
+sağlamalıdır;
+
+- Kalite sistemi dokümantasyonu,
+
+- Analiz sonuçları, hesaplamalar, testler v.s. gibi kalite sisteminin tasarım bölümünde
+öngörülen kalite kayıtları,
+
+- Muayene raporları, test ve kalibrasyon verileri, ilgili personelin niteliğine ilişkin raporlar
+gibi kalite sisteminin imalat bölümünde öngörülen kalite kayıtları.
+
+5.3. Onaylanmış kuruluş, üreticinin kalite sistemini sürdürdüğünden ve uyguladığından emin
+olmak için periyodik denetimler yapmalı ve üreticiye bir denetim raporu vermelidir.
+
+5.4, Bunun yanı sıra; Onaylanmış kuruluş, üreticiye ani ziyaretler de yapabilir. Bu ziyaretler
+sırasında onaylanmış kuruluş, kalite sisteminin düzgün işleyip işlemediğini doğrulamak amacıyla
+gerekirse, ürün testleri yapmalı ya da yaptırmalıdır. Onaylanmış kuruluş, üreticiye, bir ziyaret raporu
+ve testler yapılmışsa bir test raporu vermelidir.
+
+Yazılı uygunluk beyanı
+
+6.1. Üretici, bu Tüzüğün gereklerini karşılayan her bir ölçü aletine; "CE" işaretini, ek
+metroloji işaretini ve bu Ek’in 3.1 inci maddesinde belirtilen onaylanmış kuruluşun sorumluluğu
+altında onaylanmış kuruluşun kimlik kayıt numarasını koymalıdır.
+
+6.2. Ölçü aletinin her modeli için bir uygunluk beyanı düzenlenmeli ve bu beyan son ölçü
+aletinin imalatından sonra Bakanlığın denetimine sunulmak üzere on yıl süre ile muhafaza edilmelidir,
+Bu beyan, düzenlendiği ölçü aletini tanımlamalı ve tasarım inceleme belgesinin numarasını
+içermelidir.
+
+Beyanın bir nüshası piyasaya arz edilen her bir ölçü aleti ile birlikte sunulmalıdır. Ancak bu
+gerek, tek bir kullanıcıya büyük miktarda ölçü aletinin teslim edildiği durumlarda, ayrı ayrı her bir
+ölçü aleti yerine gruba veya irsaliyeye uygulanması şeklinde olabilir.
+
+[SAYFA 45]
+573
+
+7. Üretici, aşağıdaki belgeleri son ölçü aleti imal edildikten sonra, on yıl süre ile Bakanlığın
+denetimine sunulmak üzere muhafaza etmelidir.
+
+- Bu Ek’in 3.1 inci maddesinde belirtilen kalite sistemi ile ilgili dokümantasyon,
+-Bu Ek’in 3.5 inci maddesinde belirtilen ve onaylanan değişiklik,
+
+- Bu Ek’in 3.5 inci, 5.3 üncü ve 5.4 üncü maddelerinde belirtilen onaylanmış kuruluş
+tarafından verilen kararlar ve raporlar.
+
+Yetkili temsilci
+
+8. Bu Ek'in 3.1 inci, 3.5 inci, 6.2 nci ve 7 nci maddelerinde belirtilen üreticinin
+yükümlülükleri, onun adına ve sorumluluğu altında yetkili temsilcisi tarafından yerine getirilebilir.
+
+EK MI -001
+SU SAYAÇLARI
+Ek (in ilgili gerekleri, bu Ek’in özel gerekleri ve bu Ek’te listelenen uygunluk değerlendirme
+prosedürleri; konutlar, işyerleri ve hafif sanayide kullanılan temiz, soğuk ya da sıcak su hacimlerinin
+ölçülmesi amacıyla kullanılan su sayaçlarına uygulanır.
+TANIMLAR
+Su sayacı
+
+Ölçme şartlarında, ölçüm çeviricisinden geçen suyun hacminin ölçülmesi, hafızaya alınması ve
+görüntülenmesi için tasarımlanan ölçü aletidir.
+
+Minimum debi (Q,)
+
+Su sayacının, maksimum izin verilebilir hatalar (MIH’ler) dahilinde çalışması için gerekli olan en
+düşük debidir.
+
+Geçiş debisi (Q)
+
+Geçiş debisi, debi aralığının "üst bölge" ve "alt bölge" olarak iki bölgeye ayrıldığı daimi ve minimum
+debiler arasında oluşan debidir. Her bir bölge bir karakteristik MİH değerine sahiptir.
+
+Daimi debi (Q3)
+
+Daimi debi, normal kullanım şartları altında (Örneğin daimi ya da fasılalı akış şartlarında) su sayacının
+uygun ve isteniler şartlarda çalıştığı en yüksek debidir.
+
+Aşırı debi (Qy)
+
+Aşırı debi, su sayacının bozulmadan kısa bir süre için uygun ve istenilen şartlarda çalıştığı en yüksek
+debidir.
+
+[SAYFA 46]
+574
+
+ÖZEL GEREKLER
+
+Nominal çalışma şartları
+
+Üretici, özellikle aşağıdaki hususlar olmak üzere ölçü aleti için nominal çalışma şartlarını
+
+belirtmelidir;
+
+1. Suyun debi aralığı.
+
+Debi aralığı değerleri aşağıda belirtildiği gibi olmalıdır:
+93/0, 210
+
+9/01 1,6
+
+Oş/O5 1,25
+
+Bu Tüzüğün yürürlüğe girdiği tarihten itibaren 5 yıl için Oz / O, oranı; 1,5; 2,5; 4 yada 6,3 olabilir.
+2. Suyun sıcaklık aralığı.
+
+Sıcaklık aralığı değerleri, aşağıdaki koşulları karşılamalıdır:
+0,1 C'den 30 °C’a kadar, veya
+
+30 °C’den 90 °C’a kadar.
+
+Sayaç her iki aralıkta da çalışacak şekilde tasarımlanabilir.
+
+3. Suyun nispi basınç aralığı, O; değerinde 0,3 bar'dan 10 bar'a kadardır.
+
+4. Güç kaynağı için, AC gerilim kaynağının verdiği nominal değer ve/veya DC kaynağının sınır
+
+değerleri.
+
+MUM?’ ler
+
+5. Aşırı debi (Qs) ile geçiş debisi (Oz) (dahil) arasındaki debilerdeki hacimler için pozitif veya
+
+negatif olarak MIH:
+<30 °Cide su icin % 2
+
+> 30° Cide su için % 3? dir.
+
+6. Minimum debi (Q;) ile geçiş debisi (Q2) (O hariç) arasındaki debilerdeki hacimler için pozitif veya
+
+negatif olarak MIH, her sıcaklıktaki su için % 5'dir.
+
+İzin verilebilir bozukluk etkisi
+
+7.1.Elektromanyetik bağışıklık
+
+[SAYFA 47]
+575
+
+7.1.1. Su sayacında elektromanyetik bozukluğun etkisi aşağıdaki şekillerde olabilir:
+
+- Ölçüm sonucundaki değişiklik 7.1.3. üncü maddede tanımlanan kritik değişim değerinden büyük
+değildir veya,
+
+- Ölçüm sonucunun gösterimi, bir ölçüm sonucu olarak iletilemeyen, hafızaya alınamayan ya da
+yorumlanamayan anlık değişikler gibi geçerli bir sonuç olarak değerlendirilemez niteliktedir.
+
+7.1.2. Su sayacı, elektromanyetik bozukluktan sonra;
+
+- MİH limitleri içerisinde yeniden çalışabilmelidir,
+
+- Bütün ölçüm fonksiyonlarını güvence altına almalıdır ve
+
+- Bozukluktan hemen önceki tüm ölçüm verilerinin kurtarılmasına izin vermelidir,
+
+7.1.3. Kritik değişim değeri, aşağıdaki iki değerden küçük olanıdır:
+
+- Ölçülen değerin üst bölgesindeki MİH'in mutlak değerinin yarısına karşılık gelen hacim;
+- O; debisinde bir dakikaya karşılık gelen değerdeki MİH'e karşılık gelen hacim,
+
+7.2. Dayanıklılık
+
+Üretici tarafından öngörülen bir zaman süresi dikkate alınarak yapılan uygun bir testten sonra
+aşağıdaki kriterler sağlanmalıdır;
+
+7.2.1. Dayanıklılık testinden sonra ölçüm sonucundaki değişiklik, ilk ölçüm sonucu ile
+kıyaslandığında aşağıdaki değerleri geçmemelidir:
+
+- Or (dahil) ile O; (hariç) arasında ölçülen hacmin % 3'ü;
+- Oz (dahil) ile Q; (dahil) arasında ölçülen hacmin 941,591.
+
+7.2.2. Dayanıklılık testinden sonra ölçülen hacim için gösterim hatası, aşağıdaki değerleri
+geçmemelidir;
+
+- O, (dahil) ile O; (hariç) arasında ölçülen hacmin + % 6 sı;
+
+- 0,1°C ile 30°C arasındaki bir sıcaklıkta su hacminin ölçülmesi amacıyla kullanılan su sayaçları için,
+Q: (dahil) ile Q, (dahil) arasında ölçülen hacmin % *2,5'i,
+
+-30 İC ile 90 °C arasındaki bir sıcaklıkta su hacminin ölçülmesi amacıyla kullanılan su sayaçları için,
+Q (dahil) ile O, (dahil) arasında ölçülen hacmin % *3,5'i,
+
+Uygunluk
+
+8.1. Açıkça başka türlü ifade edilmedikçe sayaç, her türlü konumda çalışabilir şekilde monte
+edilebilmelidir.
+
+8.2. Üretici, sayacın ters akışı ölçmek için İasarımlanıp tasarımlanmadığını belirtmelidir. Sayacın bu
+şekilde bir tasarıma sahip olması durumunda ters akış hacmi, ya toplam hacim değerinden çıkarılmalı
+ya da ayrıca kaydedilmelidir. Aynı MİR değeri hem do ru akış hem de ters akış için uygulanmalıdır.
+
+[SAYFA 48]
+576
+Ters akışı ölçmek için tasarımlanmayan su sayaçları, ya ters akışı engellemeli ya da metrolojik
+özelliklerdeki herhangi bir bozukluk veya değişiklik olmaksızın kazaen meydana gelen bir ters akışa
+karşı dayanıklı olmalıdır.
+Ölçü birimleri
+9, Ölçülen hacim metreküp olarak gösterilmelidir.
+Kullanıma sunma
+10. Bakanlık, öngörülen ya da öngörülebilir tüketimde kullanılacak sayacın doğru ölçüm yapabilmesi
+amacıyla, bu Ek'in 1 inci, 2 nci ve 3 üncü maddelerindeki gereklerin, dağıtıcı ya da sayacın montajı
+için yasal olarak görevlendirilen kişiler tarafından belirlenmesini temin etmelidir.
+
+UYGUNLUK DEĞERLENDİRMESİ
+
+Bu Tüzüğün 8'inci maddesinde atıfta bulunulan ve üreticinin aralarından seçim yapabileceği uygunluk
+değerlendirme prosedürleri B + F veya B + D veya HI'dir.
+
+EK MJ — 002
+GAZ SAYAÇLARI VE HACİM DÖNÜŞTÜRME CİHAZLARI
+Ek J'in ilgili gerekleri, bu Ek'in özel gerekleri ve bu Ek'te listelenen uygunluk değerlendirme
+prosedürleri, aşağıda tanımlanan, konutlar, işyerleri ve hafif sanayide kullanılan gaz sayaçlarına ve
+hacim dönüştürme cihazlarına uygulanır.
+TANIMLAR
+
+Gaz sayacı
+
+İçinden geçen yanıcı gazın (hacim ya da kütle) miktarının ölçülmesi, hafızaya alınması ve gösterimi
+için tasarımlanmış olan ölçü aletidir.
+
+Dönüştürme cihazı
+
+Gaz sayacına takılan ve ölçme şartları altında, ölçülen miktarı temel şartlardaki miktara otomatik
+olarak dönüştüren cihazdır.
+
+Minimum debi (Qnin)
+
+Gaz sayacının, maksimum izin verilebilir hatalar (MİH'ler) dahilinde çalışması için gerekli olan en
+düşük debidir.
+
+Maksimum debi (Omar)
+Gaz sayacının, MİH'ler dahilinde çalışması için gerekli olan en yüksek debidir.
+
+Geçiş debisi (O)
+
+[SAYFA 49]
+577
+
+Debi aralığının "üst bölge" ve “alt bölge" olarak iki bölgeye ayrıldığı maksimum ve minimum debiler
+arasında oluşan debi değeridir. Her bir bölge karakteristik bir MİH değerine sahiptir.
+
+Aşırı debi (O)
+
+Gaz sayacının bozulmadan kısa bir süre için çalıştığı en yüksek debi değeridir.
+Temel şartlar
+
+Ölçülen akışkan miktarının dönüşümü için belirlenen şartlar.
+
+BÖLÜM 1 - GAZ SAYAÇLARI İÇİN ÖZEL GEREKLER
+
+1. Nominal çalışma sartları
+
+Üretici, aşağıdaki hususları dikkate alarak gaz sayacı için nominal çalışma şartlarını belirtmelidir:
+
+1.1. Gazın debi aralığı aşağıda belirtildiği gibi olmalıdır.
+
+Sınıfı Omak / Qunin | OÖmak / O, | Or / Omak
+50 | 210 | 1,2
+5 |
+
+1,5 z= Zz
+1,0 >20 | 25 | 1,2
+
+1.2. Gaz sıcaklık aralığı, en az 40 °C olmalıdır.
+1.3. Yakıt / gaz ile ilgili şartlar
+
+Gaz sayacı, kullanılacağı ülkenin gaz tipleri ve besleme basınç değerlerine göre tasarımlanmalıdır.
+Üretici özellikle aşağıdaki değerleri göstermelidir:
+
+- Gaz ailesi ya da grubu;
+
+- Maksimum çalışma basıncı.
+
+1.4. İklimsel koşullar için en düşük sıcaklık aralığı 50 9 C'dir.
+
+1.5. AC gerilim kaynağının nominal değeri ve / veya DC kaynağının sınırları.
+2. Maksimum izin verilebilir hatalar (Miler)
+
+2.1. Ölçme şartlarındaki hacmi veya kütleyi gösteren gaz sayacı
+
+Tablo |
+
+[SAYFA 50]
+578
+
+Q, ile Qmak arasındaki hataların tümü aynı işaretli olduğunda, 1,5 sınıfı için % 1'i ve 1,0 sınıfı için
+% 0,5'i geçmemelidir.
+
+1 Sn ae ge teat an yas $ Mı e 0 _
+2.2. Sadece hacmi dönüştüren sıcaklık dönüşümlü gaz sayacının MİH değeri, 1590-25 °C arasında yer
+alan ve üretici tarafından belirlenen sıcaklıklar etrafında simetrik olarak genişletilen bir aralık
+N oe . - Mi 0 : oo
+içerisinde 30 °C sıcaklık aralığında % 0,5 artırılır. Bu aralığın dışında, her 10 “C'lik aralık için %
+0,5'lik ek bir artışa izin verilir.
+3. İzin verilebilir bozukluk etkisi
+
+3.1.Elektromanyetik bağışıklık
+
+3.1.1. Bir gaz sayacında ya da hacim dönüştürme cihazında elektromanyetik bozukluğun etkisi
+aşağıdaki şekillerde olabilir:
+
+-Ölçüm sonucundaki değişiklik 3.1.3 üncü maddede tanımlanan kritik değişim değerinden büyük
+değildir. veya,
+
+- Ölçüm sonucunun gösterimi, bir ölçüm sonucu olarak iletilemeyen, hafızaya alınamayan yada
+yorumlanamayan anlık değişikler gibi geçerli bir sonuç olarak değerlendirilemez niteliktedir.
+
+3.1.2. Bozukluğun meydana gelmesinden sonra gaz sayacı;
+
+- MİH limitleri içerisinde yeniden calisabilmelidir,
+
+- Bütün ölçüm fonksiyonlarını güvence altına almalıdır ve
+
+- Bozukluktan hemen önceki tüm ölçüm verilerinin kurtarılmasına izin vermelidir.
+
+3.1.3. Kritik değişim değeri, aşağıdaki iki değerden küçük olanıdır:
+
+- Ölçülen hacmin üst bölgesindeki MİH'in mutlak değerinin yarısına karşılık gelen miktar,
+
+- Maksimum debide bir dakikaya karşılık gelen miktarda MİH'e karşılık gelen miktar,
+
+.2. Akıntıya karşı- akıntı yönünde akış bozukluklarının etkisi
+
+Gs
+
+Uretici tarafindan tanımlanmış olan montaj şartları altında, akış bozukluklarının etkisi MİH'nm üçte
+birini aşmamalıdır.
+
+4. Dayanıklılık
+
+Üretici tarafından öngörülen bir zaman Süresi dikkate alınarak yapılan uygun bir testten sonra
+aşağıdaki kriterler sağlanmalıdır:
+
+4.1. 1,5 sınıfi sayaçlar
+
+4.1.1. Dayanıklılık testinden sonraki ölçüm sonucundaki değişim, O, ila Qmax aralığındaki debilerde
+başlangıç ölçüm sonuçları ile kıyaslandığında ölçüm sonucunun 2'den fazlasını aşmamalıdır,
+
+4.12. Dayanıklılık testinden sonra hata gösterimi, 2 nci maddede belirtilen MİH değerinin iki katını
+aşmamalıdır.
+
+[SAYFA 51]
+579
+
+42. 1,0 sıf sayaçlar oe
+
+4.2.1. Dayanıklılık testinden . sonraki -ölçüm sonucundaki değişim, başlangıç ölçüm sonucu ile
+kıyaslandığında 2 nci maddâde' belirtilen MIH değerinin üçte birini aşmamalıdır.
+
+4.2.2. Dayanıklılık testinden sonra hata gösterimi, 2 nci maddede belirtilen MİH değerini aşmamalıdır.
+
+5. Uygunluk
+
+5.1. Ana şebekeden beslenen (AC veğa â DOE gaz. saya; simler güç kaynağı arızası sırasında tüm ölçme
+fonksiyonlarının güvence altina alinma: amacıyla, .bir acik durum güç kaynağı cihazı veya diğer
+cihazlarla donatılmalıdır. YAN
+
+5.2. Güç kaynağının ömrü en az beş yıl olmalıdır. Kullanım ömrünün 9490'1na ulaştıktan sonra bu
+durum uygun bir uyarı ile gösterilmelidir; +:
+
+5.3. Gösterge cihazının, Qmax değerinde; 8000 saat boyunca gazın geçmesi durumunda, basamakların
+ilk değerine dönmemesini sağlayacak yeterli rakam hanesi olmalıdır.
+
+5.4. Gaz sayacı, üreticisinin montaj talimatında belirttiği herhangi bir konumda çalışabilecek şekilde
+monte edilebilir olmalıdır.
+
+5.5. Gaz sayacının testlerinin makul bir süre işinde yapılabilmesini mümkün kılacak bir test ünitesi
+olmalıdır.
+
+5.6. Gaz sayacı, açıkça işaretlenen her hangi bir akış yönünde veya sadece bir akış yönünde, MİH
+değerini karşılamalıdır.
+
+6. Birimler
+
+Ölçülen miktar metreküp ya da kilogram olarak gösterilmelidir.
+
+BÖLÜM II - HACİM DÖNÜŞTÜRME CİHAZLARI İÇİN ÖZEL GEREKLER
+Hacim dönüştürme cihazı, bu Tüzüğün 2'inci maddesinde tanımlanan alt montaj cihazıdır.
+
+Gaz sayacina uygulanan temel gerekler, hacim dönüştürme cihazı için de uygulanmalıdır. Ayrıca
+aşağıdaki gerekler de yalama dır.
+
+7. Dönüştürülen miktarlar için temel şartlar
+Üretici, dönüştürülen miktarlar için teme! şartları belirtmelidir.
+8. MİH
+
+- 20°C+ 3°Cortam sıcaklığında, % 60+ % 15 ortam nem miktarında, güç kaynağı için nominal
+değerlerde % 0,5,
+
+- Nominal çalışma şartları altındaki sıcaklık dönüştürme cihazları için % 0,7,
+- Nominal çalışma şartları altındaki diğer dönüştürme cihazları için % |
+
+Not: Gaz sayacının hatası dikkate alınmaz.
+
+[SAYFA 52]
+580
+
+9. Uygunluk
+
+9.1. Elektronik dönüştürme cihazı, ölçümün doğruluğu ile ilgili parametreler için üretici tarafından
+belirtilen çalışma aralığı (aralıkları) dışında çalışıyorsa, bunu algılama yeteneğine sahip olmalıdır.
+Böyle bir durumda dönüştürme cihazı, dönüştürülen miktarın tamamlanmasını durdurmalı ve çalışma
+
+aralığı (aralıkları) dışında çalıştığı süre için dönüştürülen miktarı ayrıca toplayabilmelidir.
+
+9.2, Elektronik dönüştürme cihazı, ilave bir ekipman olmaksızın ölçüm ile ilgili tüm verileri
+görüntüleyebilmelidir.
+
+BÖLÜM TÜ - KULLANIMA SUNMA VE UYG UNLUK DEĞERLENDİRMESİ
+Kullanıma sunma
+
+10. (a) Bakanlık, konutlarda 150'den büyük veya 150'ye eşit Oymak / Omin oranlarını içeren herhangi bir
+1,5 sınıfı sayaç ve 1,0 sınıfı sayaçla ölçüm yapılmasına izin verir.
+
+(b) Bakanlık, işyeri ve/veya hafif sanayide 1,5 sınıfı sayaçla ölçüm yapılmasına izin verir,
+
+(c) Bakanlık, 1.2 nei ve 1.3 üncü maddelerdeki gereklere ilişkin olarak öngörülen ya da öngörülebilir
+tüketimde kullanılacak sayacın doğru ölçüm için uygun olımasını sağlamak amacıyla, sayacın
+özelliklerinin dağıtıcı ya da sayacın montajı için yasal olarak görevlendirilen kişiler tarafından
+belirlenmesini sağlar.
+
+UYGUNLUK DEĞERLENDİRMESİ
+
+Bu Tüzüğün 8’inci maddesinde atıfta bulunulan ve üreticinin aralarından seçim yapabileceği uygunluk
+değerlendirme prosedürleri B + F veya B + D veya HI dir.
+
+EK MI - 003
+AKTİF ELEKTRİK ENERJİ SAYAÇLARI
+
+Ek 0 in ilgili gerekleri, bu Ek'in özel gerekleri ve bu Ek'te listelenen uygunluk değerlendirme
+prosedürleri; konutlar, işyerleri ve hafif sanayide kullanılan aktif elektrik enerji sayaçlarına uygulanır.
+
+Not: Uygulanan ölçme tekniğine bağlı olarak, elektrik enerji sayaçları ölçü transformatörleri ile
+birleştirilerek kullanılabilir. Bununla birlikte bu Ek sadece elektrik enerji sayaçlarını kapsamakta olup
+ölçü transformatörlerini kapsamamaktadır.
+
+TANIMLAR
+
+Aktif elektrik enerji sayacı, devrede harcanan aktif elektrik enerjisini ölçen bir cihazdır.
+
+1 = Sayaçtan geçen elektrik akımı,
+
+I, = Tasarımlanan sayacı çalıştıran transformatör için belirlenen referans akımı,
+
+İş = Aktif elektrik enerjisini kaydeden sayaçlarda birim güç faktöründe beyan edilen en düşük T değeri
+(dengeli yükte çok fazlı sayaçlar için),
+
+[SAYFA 53]
+581
+
+I, > Sayacın sınıf indeksine bağlı olarak, akım değeri üzerindeki hataların en küçük MİH değeri içinde
+kaldığı I değeridir
+
+Lin = MİH sınırları içinde kalan hatalar için en küçük 1 değeri(dengeli yükte çok fazlı sayaçlar için),
+Tmax = MYA sınırları içinde kalan hatalar için en büyük I değeri,
+U = Sayaca uygulanan elektrik gerilimi,
+
+U, = Nominal referans gerilim,
+
+f = Savaca uygulanan gerilimin frekansı,
+
+f, = Nominal referans frekans,
+
+PF = Güç faktörüz cos p =] ile U arasındaki faz farkının kosinüsü
+
+ÖZEL GEREKLER
+
+1. Doğruluk
+
+Üretici sayacın sınıfını belirtmelidir. Bu sınıflar A, B ve C olarak ifade edilir,
+2. Nominal çalışma şartları
+
+Üretici özellikle, sayaca uygulanan £,, Un, İn, İse Imins Ltr VE Imax değerleri olmak üzere nominal çalışma
+şartlarını belirtmelidir. Belirlenen akım değerleri için sayaç Tablo I’deki şartları sağlamalıdır.
+
+Tablo 1
+
+| ASınfı | BSınfi | CSınfı
+
+Doğrudan bağlantılı sayaçlar için
+
+İş <0,05.1,) <004.1, | <0,04. I,
+İmin <0,5 ‘ if <0,5 + ly <0,3 . [ye
+İmax >50.1. 250.1, 250. ly
+
+Transformatör ile çalışan sayaçlar için
+
+İs <0,06 In} 0,041, | <0,02. I,
+
+<0.2 (
+
+Tnin 0,4 . Ty. S02 ' b <0,2 , Ty
+
+Ih = 20. Ty = 20.1, =20 1,
+
+Las 21,2 1, >1,2.1, 21.2.1,
+
+“) B Sınıfı elektromekanik sayaçlar için Imig < 0,4. le uygulanır.
+
+Sayacın gerilim, frekans ve güç faktörü aralıkları, Tablo 2'de gösterilen MİH gereklerini sağlamalıdır.
+Bu aralıklar, kamu dağıtım sistemi tarafından tedarik edilen elektriğin tipik özelliklerine uymalıdır.
+
+Gerilim ve frekans aralıkları en az aşağıdaki değerlerde olmalıdır.
+
+0,9°U,SUS1,1°U,
+
+[SAYFA 54]
+582
+0,98 -f,<f<1,02-f,
+güç faktör aralığı en az cos © = 0,5 endüktif”den cos © = 0,8 kapasitife kadar olmalıdır. ,
+3. MİH'ler
+Farklı büyüklükler ve etki miktarlarının (a, b, c, ...) etkileri ayrı ayrı yn değerlehdirili lir, diğer düm
+
+büyüklükler ve etki miktarları kendi referans değerlerinde göreceli olarak sabit tutulur. Tablo 2'de
+belirtilen MİH değerini geçmemesi gereken ölçüm hâtası. aşağıdâki şekilde: hesaplanır :
+
+Ölçüm hatası = 12.
+
+Sayaç, değişken yük akımı altında çâlişırkeh hata ytizdesi Tabla >de'verilen sınırları aşmamalıdır.
+
+Tablo 2 - LL
+
+Nominal çalışma şartlarında, tanımlanan yük akım seviyelerinde ve çalışma sıcak liğinda yüze olarak
+MİH'ler “. ; : vt ae
+
+Calisma Çalışma Çalışma. De Çalişma
+sıcaklıkları... sıcaklıkları el sıcaklık! arı
+
+ee İs e Tİ sıcaklıkları * joe ;
+0C | “35 Ja MET ©
+
+*3'C..*30'C “TOC FETC Y- - 25° C2:
+
+© yâ'da
+
+Sayaç sınıfı A | BI Cc A [| B|ec
+Tek fazlı sayaç; dengeli yükte çalıştırılıyorsa çok fazlı sayaç . i ,
+Tmin <1 <I, 3,5 2 1 5 25 41,3] 7 3,5 1,7 9. 4 2.
+Tr SİS İnak 3,5 2 0,7 | 4,5 | 2,5 | 1 7 4035 3
+Tek fazlı yük ile çalıştırılıyorsa çok fazlı sayaç
+Kisa 2 2,5 i 5 [3 1317 [4 Ta [9 [45
+aşağıdaki Poe fe ee
+istisnaya bkz. wf.
+Elektromekanik çok fazlı sayaçlarda akım aralığı tek fazlı yük igin 5 İyi < 1S Ink olarak | ©
+sınırlandırılır. i e
+
+Sl.
+
+Sayaç farklı sıcaklık aralıklarında çalışırken; “ilgili MİH değerlerini sağlamalıdır. |
+4. İzin verilebilir bozukluk etkisi
+4.1. Genel
+
+Elektrik enerji sayaçları doğrudan ana elektrik şebekesine bağlandığı ve ana akım değeri de ölçülen bir
+büyüklük olduğu için elektrik sayaçları için özel bir elektromanyetik ortam kullanılır.
+
+[SAYFA 55]
+583
+
+Sayaç, E2 elektromanyetik ortamına ve bu EK'in 4.2 nci ve 4.3 üncü maddelerindeki gereklere uygun
+olmalıdır.
+
+Elektromanyetik ortam ve izin verilebilir hatalardan kaynaklanan uzun süreli bozulmalar; performans
+veya işlev kaybı veya geçici bir bozulmaya sebebiyet verebilir ancak bu durum geçiş bozulmaları ve
+kritik değerlere kadar değişmelerin dışında doğruluğu etkilememeli ve sayaç doğruluğunu koruyarak
+
+kayıtlarını muhafaza etmelidir.
+
+Yıldırım veya yüksek enerji hatlarından kaynaklanan bir risk söz konusu ise, sayacın metrolojik
+özellikleri korunmalıdır.
+
+4.2. Uzun süreli bozukluk etkisi
+* Tablo3
+
+Uzun süreli bozukluklar için kritik değişim değerleri
+
+Bozukluk Sayaç sınıflarına göre yüzde olarak
+| kritik değişim değerleri «|
+| | A B Cc |
+Ters faz sırası 1,5 L5 03 |
+Gerilim dengesizliği (sadece çok fazlı sayaçlara 4 5 1 |
+uygulanabilir) ~
+| Akım devrelerinde harmonik bileşenler *) 1 0,8 0,5
+| Akim devrelerinde DC ve harmonikler *) 6 3 1,5
+Ani patlamalar 6 4 2
+Manyetik alanlar, HF (Yayılan RF)
+elektromanyetik alanlar, Radyo frekans 9
+alanlarının yol açtığı bozukluk ve titreşimli dalga 3 Ni
+| bağışıklığı
+
+© Elektromekanik elektrik sayaçlarında, akım devrelerindeki harmonik bileşenler ve akım
+devrelerindeki DC ve harmonikler için herhangi bir kritik değişim değeri tanımlanmamıştır.
+
+4.3. İzin verilebilir geçici elektromanyetik etki
+
+4.3.1. Elektromanyetik bozukluğun bir elektrik sayacına etkisi, bozulmadan hemen sonra yada
+bozulma sırasında aşağıdaki şekilde olur.
+
+- Sayacın doğruluğunu test etmeyi amaçlayan herhangi bir çıktı, kritik değişim değerinden fazla bir
+enerji değerine karşılık gelen darbe veya sinyal üretmez ve bozulmadan sonra uygun bir süre içinde
+sayaç;
+
+- MİH limitleri içerisinde yeniden çalışabilmelidir,
+
+- Bütün ölçme fonksiyonlarını güvence altına almalıdır,
+
+- Bozulmadan önceki tüm ölçüm bilgilerinin kurtarılmasına izin vermelidir,
+
+- Kaydedilen enerjide kritik değişim değerinden büyük bir değişim göstermemelidir,
+
+[SAYFA 56]
+584
+
+kWh cinsinden kritik değişim değeri: om Uy *İmax * 10“
+
+(m sayacın ölçme elemanlarının sayısıdır, U, Volt cinsinden ve Ima, Amper cinsinden ).
+
+4.3.2. Aşım akım için kritik değişim değeri |) ,5'dir.
+
+5. Uygunluk
+
+5.1. Nominal çalışma geriliminin altında sayacın pozitif hatası %10’u geçmemelidir.
+
+5.2. Sayaç 4000 saat süre ile tam yükle çalıştırıldığında (I = Inq, U =U, ve PF = 1) göstergenin
+başlangıç değerlerine geri dönmemesini ve kullanım süresince sıfırlanmamasını sağlamak amacıyla,
+
+toplam enerji göstergesi yeterli sayıda rakam hanesine sahip olmalıdır.
+
+5.3. Devrede elektrik kaybı durumunda ölçülen elektrik enerjisi miktarı en az 4 ay süresince okunabilir
+nitelikte olmalıdır.
+
+5.4. Yüksüz çalıştırma
+
+Mevcut akım devresinde bir akım geçmeksizin gerilim uygulandığında (akım devresi açık devre
+olmalıdır) sayaç, 0,8.U, ila 1,1.U, arasında herhangi bir gerilimde enerji kaydetmemelidir.
+
+5.5. Başlatına
+
+Sayaç, U, , PF = Ide (dengeli yükte çok fazlı sayaç) ve I,'ye eşdeğer bir akımda çalıştırılmaya
+başlanmalı ve kayda devam etmelidir.
+
+6. Birimler
+Ölçülen elektrik enerjisi kilowatt - saat yada megawatt -saat olarak gösterilmelidir.
+
+7. Kullanıma sunma
+
+(a) Bakanlık, konutlarda A Sınıfı sayaçla ölçüm yapılmasına izin verir, Bakanlık özel amaçlar
+doğrultusunda herhangi bir B sınıfı sayacı talep etmeye yetkilidir.
+
+(b) Bakanlık, işyeri ve/veya hafif sanayide B Sınıfı sayaçla ölçüm yapılmasına izin verir. Bakanlık
+özel amaçlar doğrultusunda herhangi bir C sınıfı sayacı talep etmeye yetkilidir.
+
+(c) Bakanlık, öngörülen ya da öngörülebilir tüketimde kullanılacak sayacın doğru ölçüm için uygun
+
+olmasını sağlamak ve akım aralıklarının, dağıtıcı ya da sayacın montajı için yasal olarak
+görevlendirilen kişiler tarafından belirlenmesini sağlar.
+
+UYGUNLUK DEĞERLENDİRMESİ
+
+Bu Tüzüğün &'inci maddesinde atıfta bulunulan ve üreticinin aralarından seçim yapabileceği uygunluk
+değerlendirme prosedürleri B + F veya B + D veya HI'dir.
+
+[SAYFA 57]
+585
+EK MI — 004
+ISI ÖLÇERLER
+
+Ek Vin ilgili gerekleri, bu Ek’in özel gerekleri ve bu Ek'te listelenen uygunluk değerlendirme
+prosedürleri; konutlar, işyerleri ve hafif sanayide kullanılan ısı ölçerlere uygulanır.
+
+TANIMLAR
+
+Isı ölçer; 181 iletici olarak adlandırılan bir sıvı vasıtasıyla ısı değiştirme devresindeki ısının ölçülmesi
+için tasarımlanan ölçü aletidir.
+
+Isı ölçer, komple bir ölçü aleti olabileceği gibi, bu Tüzüğün >'inci maddesinde tanımlandığı üzere alt
+montaj cihazları, akış sensörü, ikili sıcaklık sensörleri ve hesaplayıcı kombinasyonundan oluşan
+kombine bir ölçü aleti olabilir.
+
+© = Isı iletici sıvının sıcaklığı,
+
+Osiris = Isı değiştirme devresinin girişindeki © değeri,
+
+Oçıkış = [si değiştirme devresinin çıkışındaki © değeri,
+
+AO = Sicaklik farkı AG > 0 için Ogiris - Seki
+
+İnak = Isı ölçerin MİH' ler dahilinde doğru çalışması için belirlenen 9'nin üst sınırı,
+
+Onin = [si ölçerin MİH' ler dahilinde doğru çalışması için belirlenen ©'nin alt sınırı,
+
+AG max = Ist ölçerin MİH' ler dahilinde doğru çalışması için belirlenen AG'nin üst sınırı,
+
+AO min = İsi ölçerin MİH' ler dahilinde doğru çalışması için belirlenen A9'nin alt sınırı,
+
+g  Jsı iletici sıvının debisi,
+
+qs = Isı ölçerin doğru çalışması amacıyla kısa süreler için izin verilen q'nun en yüksek
+değeri,
+
+dp — Isı ölçerin doğru çalışması amacıyla devamlı olarak izin verilen g'nun en yüksek değeri,
+
+Gi Isı ölçerin doğru çalışması amacıyla izin verilen g'nun en düşük değeri,
+
+P = Jsı değiştiricinin ısıl gücü,
+
+P, = Isı ölçerin doğru çalışması amacıyla izin verilen p'nin en yüksek sınırı.
+
+ÖZEL GEREKLER
+
+1. Nominal çalışma şartları
+
+Üretici tarafından nominal çalışma şartları ile ilgili değerler aşağıdaki şekilde tespit edilmelidir:
+
+1.1. Sıvının sıcaklığı: Oma, » 9 min,
+
+[SAYFA 58]
+586
+
+- Sıcaklık farkları: A9 nak, AO min, aşağıdaki sınırlamalara tabidir:
+(A9 rak / AG min) 210; AC min= 3 K veya 5 K veya 10K
+
+1.2. Sıvının basıncı: Üst sıcaklık sınırında ısı ölçerin daimi olarak dayanabileceği maksimum pozitif iç
+basınç.
+
+1.3. Sıvının debisi; gp, ve gı değerleri; (g, / gi) > 10 sınırlamasına tabi iken, sıvının debileri : Gs» Ips di
+1.4, Isıl güç: P,
+
+2. Doğruluk sınıfları
+
+Isı ölçerler için belirlenen doğruluk sınıfları; 1, 2, 3'tür,
+
+3. Komple ısı ölçerlere uygulanabilir MİH'ler
+
+Her bir doğruluk sınıfı için komple ısı ölçere uygulanan, doğru değer yüzdesi olarak ifade edilen
+maksimum izin verilebilir göreceli hatalar,
+
+- Sınıf 1 için, bu Ek’in 7.1 inci maddesi ila 7.3 üncü maddelerine göre;
+Er, E,, E,igin E= E;+E, +E.
+
+- Sınıf 2 için, bu Ek’in 7.1 inci maddesi ila 7.3 üncü maddelerine göre;
+Er, E,, E,igin E=E;+E,+E,.
+
+- Sintf 3 için, bu Ek’in 7.1 inci maddesi ila 7.3 üncü maddelerine göre;
+Er, E,, E,igin E=E;+E,+E,
+
+4. İzin verilebilir elektromanyetik bozukluk etkileri
+
+4.1. Isı ölçer statik manyetik alanlardan ve şebekelerde oluşan elektromanyetik alanlardan
+etkilenmemelidir.
+
+4.2. Elektromanyetik bozukluk etkisi altında; ölçüm sonucundaki değişiklik bu Ek’in 4.3 üncü
+maddesinde belirtilen kritik değişim değerinden büyük değildir veya ölçüm sonucunun gösterimi
+
+geçerli bir sonuç olarak yorumlanamayacak şekilde olmalıdır.
+
+4.3. Komple ısı ölçer için kritik değişim değeri; söz konusu ısı ölçere uygulanabilir MİH'nın mutlak
+değerine eşittir. (Bu Ek'in 3 üncü maddesi)
+
+5. Dayanıklılık
+
+Üretici tarafından öngörülen bir zaman süresi dikkate alınarak yapılan uygun bir testten sonra
+aşağıdaki kriterler sağlanmalıdır:
+
+5.1. Akış sensörleri: Dayanıklılık testinden sonra ölçüm sonucundaki değişiklik, ilk ölçüm sonucu ile
+kıyaslandığında, kritik değişim değerinden büyük olmamalıdır.
+
+[SAYFA 59]
+587
+
+5.2. Sıcaklık sensörleri: Dayanıklılık testinden sonra ölçüm sonucundaki değişiklik, ilk ölçüm sonucu
+ile kıyaslandığında, 0,1 °C'dan büyük olmamalıdır.
+
+6. Isı ölçer üzerindeki açıklamalar
+
+- Doğruluk sınıfı,
+
+- Debi sınırları,
+
+- Sıcaklık sınırları,
+
+- Sıcaklık farkı sınırları,
+
+- Isı sensörünün monte edildiği yer: gidiş veya dönüş,
+
+- Gidiş istikametinin gösterimi.
+
+7. Alt düzenekler
+
+Alt düzenekler için uygulanan hükümler, aynı ya da farklı üreticiler tarafından imal edilen alt
+düzeneklere uygulanabilir. Isı ölçer alt düzeneklerden oluşuyorsa, ısı ölçerin temel gerekleri ilgili alt
+düzeneklere de uygulanır. Bunun yanı sıra, aşağıdaki hususlar da uygulanır:
+
+7.1. Akış sensörünün nispi MİH değeri, doğruluk sınıfları için % olarak ifade edilir:
+
+- Sınıf 1: % 5 den fazla olmamak üzere Er= (1 + 0,01 gp/ q),
+
+- Sınıf 2: % 5 den fazla olmamak üzere Ey = (2+ 0,02 q,/ q),
+
+- Smif 3: % 5 den fazla olmamak üzere Er = (3+ 0,05 gy/ 9).
+
+Burada E; hatası; akış sensörü çıkış sinyali ve kütle ya da hacim arasındaki ilişkinin gerçek değeri ile
+gösterilen değeri arasındaki ilişkidir.
+
+7.2. İkili sıcaklık sensörünün nispi MİH değeri % olarak ifade edilir:
+E, = (0,5 +3 . AO min/ AO)
+
+Burada E, hatası; ikili sıcaklık sensörünün çıkışı ile sıcaklık farkı arasındaki ilişkinin gerçek değeri ve
+gösterilen değeri arasındaki ilişkidir.
+
+7.3. Hesaplayıcının nispi MİH değeri % olarak ifade edilir.
+EB, = (0,5 + A© yi, / AO)
+Burada E, hatası; gösterilen ısı değeri ile gerçek ısı değeri arasındaki ilişkidir.
+
+7.4, Isı ölçerin alt düzeneğinin kritik değişim değeri; alt düzeneğe uygulanan MİH'in mutlak değerine
+eşittir. (Bu Ek’in 7.1 inci, 7.2 nci veya 7.3 üncü maddeleri)
+
+7.5 Alt düzeneklerin üzerindeki açıklamalar
+
+[SAYFA 60]
+568
+Akış sensörü; - Doğruluk sinifi,
+- Debi sınırları,
+- Sıcaklık sınırları,
+
+- Nominal sayaç faktörü (örneğin; litre/darbc) veya karşılık gelen çıkış
+sinyali,
+
+- Gidiş istikametinin gösterimi.
+Sıcaklık sensörü çifti: - Tip tanımlaması, (ömeğin; P, 100)
+- Sıcaklık sınırları,
+
+- Sıcaklık farkı sınırları.
+
+Hesaplayıcı: - Sıcaklık sensörlerinin tipi,
+- Sıcaklık sınırları,
+- Sıcaklık farkı smırları,
+
+-Gerekli nominal sayaç faktörü (örneğin litre/ darbe) veya akış
+
+Taki
+sensöründen gelen giriş sinyali,
+- Akış sensörünün monte edildiği yer: gidiş veya dönüş
+
+KULLANIMA SUNMA
+
+8. (a) Bakanlık, konutlarda kullanım için ölçüm zorunluluğu getirmesi durumunda, söz konusu
+ölçümün, 3
+
+üncü sınıf sayaç vasıtasıyla yapılmasına izin verir.
+(b) Ticari ve/veya hafif sanayide kullanım için ölçüm zorunluluğu getirmesi durumunda Bakanlık, 2
+nci Sınıf sayaç talep etmeye yetkilidir.
+
+(c) Bakanlık, öngörülen ya da öngörülebilir tüketimde kullanılacak sayacın doğru ölçüm yapabilmesi
+amacıyla, bu Ek’in 1.1 inci maddesi ila 1.4 üncü maddelerindeki gereklerin, dağıtıcı veya sayacın
+montajı için yasal olarak görevlendirilen kişiler tarafından belirlenmesini temin eder,
+
+UYGUNLUK DEĞERLENDİRMESİ
+
+Bu Tüzüğün 8$'inci maddesinde atıfta bulunulan ve üreticinin aralarından seçim yapabileceği uygunluk
+değerlendirme prosedürleri B + F veya B+ D veya HI'dir.
+
+[SAYFA 61]
+569
+EK MI — 005
+
+SU DIŞINDAKİ SIVILARIN MİKTARLARININ SÜREKLİ VE DİNAMİK ÖLÇÜMÜ İÇİN
+ÖLÇME SİSTEMLERİ
+
+Ek I'in ilgili temel gerekleri, bu Ek'in özel gerekleri ve bu Ek'te listelenen uygunluk değerlendirme
+prosedürleri, su dışındaki sıvı miktarlarının (hacimsel veya kütlesel) sürekli ve dinamik ölçümü için
+ölçüm sistemlerine uygulanır. Uygun hallerde, bu Ek içindeki terimler "hacim ve L", "kütle ve kg"
+olarak yorumlanabilir.
+
+TANIMLAR
+
+Sayac
+
+Kapalı ve tamamen sıvı dolu bir borudan ölçüm çeviricisine akan sıvı miktarını ölçme şartlarında
+sürekli olarak ölçmek, hafızaya almak ve görüntülemek amacıyla tasarımlanan ölçü aletidir.
+
+Hesaplayıcı
+
+Ölçüm çeviricisinden (çeviricilerinden) ve birleştirilmiş ölçü aletlerinden gelen çıkış sinyallerini alan
+ve ölçüm sonuçlarını görüntüleyen sayacın bir bölümüdür.
+
+Birleştirilmiş ölçü aleti
+
+Düzeltme ve/veya dönüştürme yapmak amacıyla sıvının belirli karakteristik miktarlarını ölçmek için
+hesaplayıcıya bağlanan ölçü aletidir.
+
+Dönüştürme cihazı
+
+Birleştirilmiş ölçü aletleri kullanılarak ölçülen veya hafızaya alınan sıvı karakteristiklerini (sıcaklık,
+yoğunluk v.b.) dikkate alarak, otomatik olarak aşağıdaki şekilde dönüştüren, hesaplayıcının bir
+bölümüdür:
+
+- Ölçme şartlarında ölçülen sıvı hacmini, temel şartlardaki hacme ve/veya kütleye, veya
+
+- Ölçme şartlarında ölçülen sıvı kütlesini, ölçme şartlarında hacme ve/veya temel şartlardaki hacme.
+Not: Bir dönüştürme cihazı ilgili birleştirilmiş ölçü aletlerini içerir.
+
+Temel şartlar
+
+Ölçme şartlarında ölçülen sıvı miktarının dönüştürüldüğü belirlenmiş şartlardır.
+
+Ölçme sistemi
+
+Doğru ölçümün yapılması ya da ölçme işlemlerinin kolaylaştırılması için gerekli olan, sayacın kendisi
+de dahil olmak üzere tüm cihazları içeren sistemdir.
+
+Yakıt dağıtıcısı
+Motorlu araçlara, küçük teknelere ve küçük uçaklara yakıt ikmali için kullanılan ölçme sistemidir.
+
+Self servis düzenlemesi (hizmeti)
+
+[SAYFA 62]
+590
+
+Müşterinin kendi kullanımına yönelik sıvı temin etmek amacıyla bir ölçme sistemi kullanmasına
+olanak sağlayan düzenlemedir.
+
+Self servis cihazı
+
+Self servis düzenlemesinin bir bölümü olan ve söz konusu self servis hizmetinin gerçekleştirilmesi
+için bir veya daha çok ölçme sisteminden oluşan özel cihazdır.
+
+Ölçülen minimum miktar
+Ölçme sistemi için ölçümün metroloj ik olarak kabul edilebilir olduğu sıvının en düşük miktarıdır.
+Doğrudan gösterge
+
+Hacim veya kütle olarak ölçüme karşılık gelen ve sayacın fiziksel olarak ölçüm yapabileceğini
+gösteren göstergedir.
+
+Not: Doğrudan gösterge, bir dönüştürme cihazı kullanılarak diğer bir miktara dönüştürülebilir.
+Kesintili / kesintisiz
+
+Sıvı akışı kolayca ve hızla durdurulabilirse kesintili, durdurulamaz ise kesintisiz bir ölçme sistemi
+olarak anlaşılır.
+
+Debi aralığı
+
+Minimum debi (Omn) ile maksimum debi (Omar) arasındaki aralıktır.
+
+ÖZEL GEREKLER
+
+1. Nominal çalışma şartları
+
+Üretici ölçü aleti için nominal çalışma şartlarını belirtmelidir, özellikle;
+
+1.1 Debi aralığı
+
+Debi aralığı, aşağıdaki şartlara tabidir:
+
+(i) Bir ölçme sisteminin debi aralığı, her bir unsurunun, özellikle sayacının debi aralığında olmalıdır.
+
+(ii) Sayaç ve ölçme sistemi:
+
+[SAYFA 63]
+591
+
+Tablo |
+Özel ölçme sistemi Sıvının özellikleri Özmak : Omin “© ait minimum
+oran
+Yakıt dağıtıcıları Sıvılaştırılmamış 10:1
+gazlar
+Sıvılaştırılmış gazlar 5:1
+Ölçme sistemi Kriyojenik sıvılar 5:1
+Boru hattı ve gemi Tüm sıvılar Kullanıma uygun
+yükleme sistemlerine
+ilişkin ölçme sistemleri
+Diğer tüm ölçme sistemleri | Tüm sıvılar 4:1
+
+1.2. Ölçü aleti ile ölçülecek sıvının nitelikleri, sıvının adi veya tipi veya ilgili özelliklerinin
+belirtilmesini içerir. Örneğin:
+
+- Sıcaklık aralığı,
+ei - Basınç aralığı,
+- Yoğunluk aralığı,
+- Viskozite aralığı.
+
+1.3. AC gerilim kaynağı ve/ veya DC gerilim kaynağı sınırlarının nominal değeri.
+
+1.4. Dönüştürülen değerler için temel şartlar.
+
+2. Doğruluk sınıflandırması ve izin verilebilir maksimum hatalar (MIH’ ler)
+
+2.1. İki litreye eşit veya daha fazla miktarlar için sayaç göstergelerindeki MİH değerleri aşağıda
+
+verilmiştir:
+Tablo 2
+Doğruluk sinifi
+0,3 0,5 1,0 1,5 2.5
+Ölçme sistemleri (A) 403 |W05 1%1,0 (41,5 | 42,5
+Sayaçlar (B) 402 (403 |40,6 | 1,0 | %1,5
+
+2.2. İki litreden az miktarlar için sayaç göstergelerindeki MİH değerleri aşağıda verilmiştir:
+
+[SAYFA 64]
+592
+Tablo3
+
+Ölçülen hacim V MİH
+
+V<Q1L Tablo 2 deki değerin 4 katı , 0,1 L’ye kadar
+uygulanır
+
+0IL<V<02L Tablo 2 deki değerin 4 katı
+
+02L <V<04L Tablo 2 deki değerin 2 katı, 0,4 L’ye kadar
+uygulanır
+
+04L<V<IL Tablo 2 deki değerin 2 katı
+
+ILS<V <2. Tablo 2 deki değerin 2 katı, 2 L’ye kadar
+uygulanır
+
+2.3. Ancak, ölçülen miktarm ne olabileceğine bakılmaksızın, MİH değeri aşağıdaki iki değerden
+büyük olanı ile verilir:
+
+- Tablo 2 veya Tablo 3*de verilen MİH'nin mutlak değeri
+
+- Ölçülen minimum miktar (Emin) için MİH'nin mutlak değeri.
+
+2.4.1. İki litreye eşit ya da daha büyük ölçülen minimum miktarlar için aşağıdaki şartlar uygulanır:
+Sart 1
+
+Emin, Emin > 2R şartını yerine getirmelidir, burada R, gösterge aygıtının en küçük taksimat aralığıdır.
+Şart2
+
+Emin , Emin = (2 OMM) x ( A / 100) formülü ile verilmektedir, burada:
+
+- ÖMM; ölçülen minimum miktardır.
+
+- A; Tablo 2'nin A satırında belirtilen sayısal değerdir.
+
+2.4.2. İki litreden az ölçülen minimum miktarlar için, yukarıda belirtilen şart | uygulanır ve Emin,
+Tablo 3 de belirtilen değerin iki mislidir ve Tablo 2'nin A satırı ile ilgilidir.
+
+2.5. Dönüştürülen gösterge
+Dönüştürülen gösterge durumunda MİH' ler, Tablo 2'nin A satırındaki gibidir.
+2.6.Dönüştürme cihazları
+
+Bir dönüştürme cihazından dolayı dönüştürülmüş göstergeler üzerindeki MİH'ler + (A -B)'ye eşit
+olup, A ve B Tablo 2'de belirtilen değerlerdir.
+
+Dönüştürme cihazlarının parçaları ayrıca test edilebilir.
+
+(a) Hesaplayıcı
+
+[SAYFA 65]
+593
+
+Hesaplanabilir sıvı gösterim miktarları üzerindeki MİH'ler pozitif veya negatif olarak Tablo 2'nin A
+satırında tanımlanan MJH’lerin 10'da birine eşittir.
+
+(b) Birleştirilmiş ölçü aletleri
+
+Birleştirilmiş ölçü aletleri, en az Tablo 4'deki değerler kadar doğruluğa sahip olmalıdır;
+
+Tablo 4
+Ölçümlerdeki MİH Ölçme sisteminin doğruluk sınıfları
+0,3 0.5] 1,0 [1,5 2,5
+Sıcaklık *03'C £=0,5°C £1,0'C
+Basınç | MPa'dan az: + 50 kPa
+
+Iden 4 MPa'ya kadar: + % 5
+
+4 MPa'nin üzerinde: + 200 kPa
+Yoğunluk £ | kg fm *2 kg &5 kg/m
+/m?
+
+Bu değerler, dönüştürme cihazı tarafından görüntülenen karakteristik sıvı miktarlarının göstergelerine
+uygulanır.
+
+c) Hesaplama fonksiyonunun doğruluğu
+
+Her bir karakteristik sıvı miktarının hesaplanması için MİH değeri, pozitif veya negatif olarak,
+yukarıda (b)'de belirlenen değerin beşte ikisine eşittir,
+
+2.7. Bu Elin 2.6 ncı maddesindeki (a) şartı, sadece dönüştürmeye değil herhangi bir hesaplamaya da
+uygulanır,
+
+3. İzin verilebilir maksimum bozulduk etkisi
+3.1. Ölçme sistemine ilişkin elektromanyetik bozukluk etkisi aşağıda belirtilenlerden biri olabilir:
+
+- Ölçüm sonucundaki değişiklik, 3.2. nci maddede tanımlanan kritik değişim değerinden daha büyük
+değildir, veya
+
+- Ölçüm sonucunun gösterimi, bir ölçüm sonucu olarak iletilemeyen, hafızaya alınamayan ya da
+yorumlanamayan anlık değişikler gibi geçerli bir sonuç olarak değerlendirilemez niteliktedir.. Bunun
+yanı sıra, kesintisiz sistemlerde, bu aynı zamanda her hangi bir ölçüm yapılmasının imkansız olması
+anlamına gelir, veya
+
+- Ölçme sisteminin kritik değişim değerinin meydana gelmesinden ve akımın kesilmesinden hemen
+önce, ölçüm sonucunun düzeltilmesine izin vermesi durumunda, ölçüm sonucundaki değişiklik kritik
+
+değişim değerinden daha büyüktür.
+
+3.2. Ölçülen özel bir miktar ya da Emin için kritik değişim değeri MİH /5'den büyüktür.
+
+[SAYFA 66]
+594
+
+4. Dayanıklılık
+
+Üretici tarafından öngörülen bir zaman süresi dikkate alınarak yapılan uygun bir testten sonra
+aşağıdaki kriterler sağlanmalıdır:
+
+Dayanıklılık testinden sonra ölçüm sonucundaki değişiklik, ilk ölçüm sonucu ile kıyaslandığında,
+Tablo 2'nin B satırında sayaç için tanımlanan değeri ölçüm değerlerini aşmamalıdır.
+
+5. Uygunluk
+
+5.1 Aynı ölçümle ile ilgili ölçülen herhangi bir miktar için, aynı taksimat aralığına sahip farklı
+cihazların göstergeleri, bir taksimat aralığından fazla sapmamalıdır. Farklı taksimat aralığına sahip
+cihazlarda sapma, en büyük taksimat aralığından fazla olmamalıdır.
+
+Ancak, self servis düzenlemesi durumunda, ölçme sistemi üzerindeki ana gösterim cihazının ve self
+servis cihazının taksimat aralıkları aynı olmalı ve ölçüm sonuçları birinden diğerine değişiklilik
+
+göstermemelidir.
+
+5.2. Açıkça belli olmadığı sürece, normal şartlardaki kullanımda, ölçülen miktardan sapılması
+mümkün değildir.
+
+5.3. Sıvı içinde kolayca tespit edilemeyen hava veya gazın yüzde oranı, aşağıdaki değerlerden daha
+büyük sapma hatalarına yol agmamalidir:
+
+- İçilebilir sıvılar dışındaki sıvılar ve viskozitesi | mPa.s'ı geçmeyen sıvılar için % 0,5 veya,
+- İçilebilir sıvılar ve viskozitesi | mPa.s'ı geçen sıvılar için % 1.
+
+Ancak, izin verilen değişiklik hiçbir halde ÖMM değerinin %l'inden daha küçük olmamalıdır. Bu
+değer, hava veya gaz kabarcıkları olmasi durumunda uygulanır.
+
+5.4. Doğrudan satışlar için ölçü aletleri
+
+54.1. Doğrudan satışlar için ölçme sistemi, göstergedeki gösterimin sıfırlanmasını mümkün kılan
+araçlar ile donatılmalıdır. Ölçülen miktardan sapma mümkün olmamalıdır.
+
+5.4.2. İşleme dayanak teşkil eden miktarın gösterimi, işlem içindeki tüm taraflar ölçüm sonucunu
+kabul edinceye kadar sabit kalmalıdır.
+
+5.4.3. Doğrudan satış amaçlı ölçme sistemleri, kesintili olmalıdır.
+
+5.4.4, Sıvı içindeki herhangi bir hava veya gaz miktarı, 5.3 üncü maddede tanımlanan değerden büyük
+bir hata sapmasına yol açmamalıdır.
+
+5.5. Yakıt dağıtıcıları
+
+5.5.1. Yakıt dağıtıcıları üzerindeki görüntüler ölçme sırasında sıfırlanamaz özelliğe sahip olmalıdır.
+5.5.2. Gösterge sıfırlanana kadar yeni bir ölçümün başlanması engellenmelidir.
+
+5.5.3. Ölçme sistemine fiyat göstergesi takılması durumunda, gösterilen fiyat ile birim fiyat ve
+
+gösterilen miktar üzerinden hesaplanan fiyat arasındaki fark, Emna karşılık gelen fiyatı aşmamalıdır.
+Ancak bu fark, en küçük parasal değerden daha düşük olmamalıdır.
+
+[SAYFA 67]
+595
+6. Güç kaynağı arızası
+
+Ölçme sistemi, ana güç kaynağı cihazının arızalanması sırasında tüm ölçme fonksiyonlarını koruyacak
+bir acil durum güç kaynağı cihazı ile veya ana güç kaynağı cihazının arızası anında akışı durduran
+cihazlar ve devam eden işlemin tamamlanmasına izin vermek amacıyla mevcut verileri kaydeden ve
+
+görüntüleyen cihazlar ile donatılmalıdır.
+
+7. Kullanıma sunma
+
+Tablo 5
+Doğruluk Ölçme sisteminin tipi
+sınıfı
+0,3 Boru hatlarındaki ölçme sistemleri
+0,5 Tüm ölçme sistemleri, bu tablonun başka bir yerinde farklı şekilde
+
+belirtilmemiş ise, özellikle:
+- Yakıt dağıtıcıları ( sıvılaştırılmış gazlar dışında)
+
+- Düşük viskoziteli ( < 20 mPa.s) sıvılar için karayolu tankerlerine
+ilişkin ölçme sistemleri
+
+- Gemilerin, demiryolu ve karayolu tankerlerinin “9 boşaltılması ve
+yüklenmesi için ölçme sistemleri
+
+- Süt ölçme sistemleri
+
+- Uçakların yakıt ikmali için ölçme sistemleri
+
+1,0 Basınç altındaki -10 °C veya üzerindeki bir sıcaklıkta ölçülen
+sıvılaştırılmış gazlara ait ölçme sistemleri
+
+Normalde 0,3 veya 0,5 sınıfında olan ancak sıvılar için &*'lanılan
+ölçme sistemleri;
+
+- Sıcaklıkları -10 °C'dan az veya 50 “C'dan büyük olan,
+- Dinamik viskozitesi 1000 mPa,s’ nin üzerinde olan,
+- Maksimum hacimsel debisi 20 L /h'dan büyük olmayan,
+
+sıvılar.
+
+1,5 Sıvılaştırılmış karbondioksit için ölçme sistemleri
+
+Basınç altında - 10 "C'nin altındaki bir sıcaklıkta sıvılaştırılmış
+gazlara (kriyojenik sıvılar dışında) ait ölçme sistemleri
+
+2,5 Kriyojenik sıvılara ait ölçme sistemleri ( sıcaklık -153 °C'm altında)
+
+© Ancak Bakanlık, gemilerin, demiryolu ve karayolu tankerlerinin boşaltılması ve
+yüklenmesi sırasında mineral yağlardan vergi alınması için 0,3 veya 0.5 doğruluk
+sınıfı ölçme sistemlerine gerek duyabilir.
+
+Not: Ancak, üretici belirli bir tür ölçme sistemi için daha hassas doğruluk
+belirleyebilir.
+
+[SAYFA 68]
+596
+
+8. Ölçü birimleri
+Ölçülen miktar, mililitre, santimeireküp, litre, metreküp, gram, kilogram veya ton olarak
+gösterilmelidir.
+
+UYGUNLUK DEĞERLENDİRMESİ
+
+Bu Tüzüğün 8'inci maddesinde atıfta bulunulan ve üreticinin aralarından seçim yapabileceği uygunluk
+değerlendirme prosedürleri:
+
+B *F veya B+D veya HI veyaGdir,
+EK MI — 006
+OTOMATİK TARTI ALETLERİ
+Ek I'in temel gerekleri, bu Ek’in özel gerekleri ve bu Ek’in 1. Bölümünde listelenen uygunluk
+değerlendirme yöntemleri, bir cismin kütlesini yerçekimi etkisi kullanılarak tespit etmeyi amaçlayan
+aşağıda belirtilen otomatik tartı aletlerine uygulanır.
+TANIMLAR
+
+Otomatik tartı aleti
+
+Cihazın otomatik işlem özelliklerine ilişkin önceden belirlenmiş bir programı takip ederek ve bir
+operatör müdahalesi olmaksızın bir ürünün kütleşini belirleyen ölçü aletidir,
+
+Otomatik kütle belirleme terazisi
+
+Önceden bir araya getirilmiş ayrık yüklerin (örneğin hazır ambalajlı paketler) ya da parçalardan oluşan
+malzeme yüklerinin tek tek kütlelerini belirleyen otomatik tartı aletidir.
+
+Otomatik kontrol terazisi
+
+Kütle değerlerindeki fark ve nominal bir ayar noktasına göre farklı kütlelerdeki nesneleri iki veya daha
+fazla alt gruba ayıran otomatik kütle belirleme terazisidir.
+
+Ağırlık etiketleyici
+
+Farklı nesnelerin, ağırlık değeri ile eüketlendiği kütle belirleme terazisidir
+Ağırlık/fiyat etiketleyici
+
+Farklı nesnelerin, ağırlık ve fiyat değeri ile etiketlendiği kütle belirleme terazisidir.
+Otomatik gravimetrik dolum terazisi
+
+Dökme üründen, sabit kütle olarak farz edilen ürünü önceden belirlenmiş kaplara dolduran otomatik
+tartı aletidir.
+
+Kesintili toplayıcı
+
+Dökme bir ürünün kütlesini ayrık yüklere bölerek tespit eden otomatik tartı aletidir.
+
+[SAYFA 69]
+597
+
+Her bir ayrık yükün kütlesi sırayla belirlenir ve toplanır, Her bir ayrık yük daha sonra toplama dahil
+edilir.
+
+Sürekli toplayıcı
+
+Dökme bir ürünün kütlesini, ürünü sistematik olarak bölmeden ve konveyör bandın hareketi
+kesilmeden, bir konveyör bant üzerinde sürekli olarak ölçen otomatik tartı aletidir.
+
+Ray kantarı (Demiryolu ağırlık köprüsü
+) N g :
+
+Demiryolu araçlarını taşımaya yarayan raylar da dahil olmak üzere bir yük algılayıcısına sahip
+otomatik tartı aletidir.
+
+ÖZEL GEREKLER
+
+BÖLÜM I - Otomatik tartı aletlerinin tüm tipleri için ortak gerelder
+
+1. Nominal çalışma şartları
+
+Üretici, otomatik tartı aletinin nominal çalışma şartlarını aşağıdaki şekilde belirlemelidir.
+
+1.1, Ölçülen büyüklük için;
+
+Maksimum ve minimum kapasitesi cinsinden ölçme aralığı,
+
+1.2. Elektriksel besleme etki büyüklükleri için;
+
+AC gerilim beslemesi durumunda; nominal AC gerilim beslemesi, ya da AC gerilim sınırları,
+
+DC gerilim beslemesi durumunda; nominal ve minimum DC gerilim beslemesi yada DC gerilim
+sınırları.
+
+1.3. Mekanik ve iklimsel etki büyüklükleri için;
+
+Bu Ek’in aşağıdaki bölümlerinde aksi belirtilmedikçe, alt ve üst değerler arasındaki minimum sıcaklık
+farkı 30 “C'dir.
+
+Ek Vin 1.3.2 nci maddesine göre, mekanik ortam sınıfları uygulanamaz. Özel bir mekanik gerilme
+(zorlama) altında kullanılan, örneğin taşıtlara yerleştirilmiş otomatik tartı aletleri için, üretici
+kullanımdaki mekanik şartları tanımlamalıdır.
+
+14. Diğer etki büyüklükleri için (varsa);
+
+İşlem hızı veya hızları,
+
+Tartılacak olan ürün veya ürünlerin özellikleri.
+
+2. İzin verilebilir bozukluk etkisi - Elektromanyetik ortam
+
+Bu Ek'in ilgili bölümünde her bir otomatik tartı aleti tipi için gerekli performans ve kritik değişim
+değerleri verilmiştir.
+
+[SAYFA 70]
+598
+
+3. Uygunluk
+
+3.1. Eğim etkilerini, yüklemeyi ve işlem hızını sınırlamak amacıyla, normal işleyişte maksimum izin
+verilebilir hataları (MİH' leri) aşmayacak şekilde araçlar temin edilmelidir.
+
+3.2. Normal çalışma süresince, ölçü aletinin MİH'lere uyabilmesi için uygun malzeme taşıma üniteleri
+sağlanmalıdır.
+
+3.3. Herhangi bir operatör kontrol ara birimi belirgin ve etkin olmalıdır.
+3.4, Varsa, göstergenin doğruluğu operatör tarafından doğrulanabilmelidir.
+
+3.5. Normal çalışma sırasında MİH'lere uyacak aletin temin edilebilmesi için uygun sıfır ayar yeteneği
+sağlamalıdır,
+
+3.6. Ölçüm aralığı dışındaki herhangi bir sonuç, yazılı bir çıktı alınmasının mümkün olduğu
+durumlarda bu şekilde tanımlanmalıdır.
+
+4. Uygunluk değerlendirmesi
+
+Bu Tüzüğün S'inci maddesinde belirtilen ve üreticinin seçebileceği uygunluk değerlendirme
+prosedürleri;
+
+Mekanik sistemler için:
+
+B+D veya B + E veya B + F veya DI veya Fl veyaG veya HI.
+Elektromekanik otomatik tartı aletleri için:
+
+B*D veyaB+E veya B+F veyaG veya HI.
+
+Elektronik sistemler veya yazılım içeren sistemler için:
+
+B+D veyaB *F veya G veya HI.
+
+BOLUM II - Otomatik kütle belirleme terazileri
+
+1. Doğruluk sınıfları
+
+1.1. Otomatik tartı aletleri üretici tarafından belirlenen ve X veya Y olarak gösterilen ana kategorilere
+ayrılır.
+
+1.2. Bu ana kategoriler daha sonra üretici tarafından belirlenen dört doğruluk sınıfına ayrılır:
+XI, XI, XIII ve XIV
+
+ve Y(I), YAN), Y(a) ve Y(b)
+
+2. X kategorisi otomatik tartı aletleri; -
+
+2.1. X Kategorisi; Hazır ambalajlı mamullerin ağırlık ve hacim esasına göre net miktar tespitine göre
+hazır ambalajları kontrol etmek için kullanılan otomatik tartı aletlerine uygulanır.
+
+[SAYFA 71]
+599
+
+22. Bu Bölümün 4.2 nci maddesinde belirtilen maksimum izin verilebilir standart sapmayı
+belirlemek için, doğruluk sınıflarına bir (x) faktörü eklenir.
+
+Üretici, Gx) faktörünü k negatif bir tamsayı veya sıfır olmak üzere, (x) 2 velx 10* veya 2x 1 of
+veya 5x 10” “şeklinde belirlemelidir.
+
+3. Y kategorisi otomatik tartı aletleri;
+Y Kategorisi; diğer tüm otomatık kütle belirleme terazilerine uygulanır.
+4. MİH
+
+4.1. X kategorisi otomatik tartı aletleri için ortalama hata / Y kategorisi otomatik tartı aletleri için
+MIH’ ler
+
+Tablo |
+Maksimum | Maksimum izin
+Muayene sabiti (e) cinsinden net yük (m) izin verilebilir hata
+verilebilir
+ortalama
+hata
+XI | yd (xi | yap [xii | Yal XIV | yo) X Y
+0<m<50000|0<m<5000(/0<m<500 0<m 50 + 0,5e + le
+50000<m< |5000<ms 500<m< 50 <ms + 1,0e + L5e
+200 000 20 000 2000 200
+200 000 <m 20 000<m 2000<m< 200<m< «x l,5e * 2e
+<100 000 10 000 1000
+
+4.2. Standart sapma
+
+X (x) sınıfı otomatik tartı aletinin standard sapması için maksimum izin verilebilir değer, (x) faktörü
+ile Tablo 2'de verilen değerin çarpımıyla elde edilir.
+
+Tablo2
+Net Yük (m) X (1) sınıfı için maksimum izin verilebilir standart sapma
+m < 50g %0,48
+50 g<m<100¢ 0,24 g
+100 g<m<200 g %0,24
+200 g<m<300¢ 0,48 g
+300 g<m<500¢g %0,16
+500 g<m<1000¢ 0,8 ¢
+1000 g<m<l10 000 ¢ %0,08
+10 000 g<m<15 000g 8g
+15000g<m % 0,053
+
+XI ve XII (x) sınıfı için 1’den küçük olmalıdır.
+
+XII (x) sınıfı için 1'den büyük olmamalıdır.
+
+XIV (x) sınıfı için 1’den büyük olmalıdır.
+
+[SAYFA 72]
+600
+
+4.3. Muayene sabiti (e) — Tek bölüntülü otomatik tartı aletleri
+
+Tablo3
+
+Doğruluk sınıfları
+
+Muayene sabiti
+
+Muayene sabiti sayısı n = Max/e
+
+Minimum Maksimum
+
+XI Y (2) 0,001 <e 50 000 -
+XIU Y dD 0,001 g <e<0,05 100 100 000
+
+g
+
+O,.lg<e 5 000 100 000
+XII Y(a) OQilg<e<2¢ 100 10 000
+
+Sg<e 500 10 000
+XIV Y(b) Sese 100 1000
+
+4.4. Muayene sabiti (e) — Çok bölüntülü otomatik tartı aletleri
+
+Tablo 4
+
+Doğruluk sınıfları
+
+Muayene sabiti
+
+Muayene sabiti sayısı n= Max/e
+
+Minumum değer
+
+Maksimum değer
+
+Ön Max; / Eğin
+n= Max; / &;
+XI YQ 0,001 g Se; 50 000 -
+XI Y dp 0,001 ¢ <e,<0,05 | 5 000 100 000
+O.lg<e; 5 000 100 000
+
+XII Y(a) ÜlgSE 500 10 000
+
+XIV Y(b) Sg<e; 50 1 000
+Burada:
+1=1,2,...1
+
+i = Kısmi tartım aralığı
+
+r = Kısmi aralıkların toplam sayısı
+
+© i—r için Tablo 3'ün karşılık gelen sütununda e, e, ile yer değiştirilerek uygulanır.
+
+5. Ölçüm aralığı
+
+Üretici, Y sınıfı otomatik tartı aletlerinin ölçüm aralığını belirlerken, minimum kapasitenin aşağıdaki
+
+değerlerden düşük olamayacağını dikkate almalıdır;
+
+YO) sınıfı :100e€e
+
+YD sınıfı:
+
+0,001 g<e
+
+<0,05 giçin20e ve 0,1 g¢ Se için50c
+
+[SAYFA 73]
+601
+Y(a) snf :20e
+Y(b) sınıfı :10e
+Sınıflama için kullanılan terazilerde;
+ör. posta terazileri ve çöp tartıları : Se
+6. Dinamik ayar
+6.1. Dinamik ayar düzeneği, üretici tarafından belirlenen bir yük aralığında çalıştırılmalıdır.
+
+6.2. Hareket halindeki yükün dinamik etkilerini dengeleyen dinamik ayar düzeneği takıldığında, yük
+aralığı dışındaki kullanım engellenmeli ve emniyetli olmalıdır.
+
+7. Etki faktörleri ve elektromanyetik bozukluk altında performans
+
+7.1. Etki faktörleri nedeniyle oluşan MIH’ler:
+
+7.1.1. X Kategorisi otomatik tartı aletleri için;
+
+- Otomatik çalışma için; Tablo 1 ve Tablo ?'de tanımlandığı gibi,
+
+- Otomatik olmayan çalışmada statik tartım için; Tablo I’de tanımlandığı gibi.
+7.1.2. Y Kategorisi otomatik tartı aletleri için;
+
+- Otomatik işlemde her bir yükleme için; Tabla 1’de tanımlandığı gibi.
+
+- Otomatik olmayan işlemde statik tartım için; Tablo 1 de X kategorisi için tanımlandığı gibi.
+7.2. Bir bozukluktan kaynaklanan kritik değişim değeri bir muayene sabiti kadardır.
+7.3. Sıcaklık aralığı;
+
+- XI ve Y(I) sınıfı için minimum aralık 5 “C'dir,
+
+- XII ve Y(IN) sınıfı için minimum aralık 15 °C’dir,
+
+BÖLÜM HI - Otomatik gravimetrik dolum terazileri
+
+1. Doğruluk sınıfları
+
+1.1. Üretici hem referans doğruluk sınıfını Ref(x)’i, hem de çalıştırma doğruluk sınıfını (sınıflarını)
+X(xYi belirtmelidir.
+
+1.2. Referans doğruluk sınıfı Refx) ile belirlenmiş bir otomatik tartı aleti, o tip için mümkün olan en
+iyi doğruluğu sağlayan otomatik tartı aletine karşılık gelir. Kurulum sonrası tartılacak özel ürünler göz
+önünde bulundurularak, her bir otomatik tartı aleti için bir ya da daha fazla çalıştırma doğruluk sınıfı,
+X(x) belirlenir. k negatif bir tamsayı veya sıfır olmak üzere, sınıf belirleme faktörü (x), (0) <2 ve 1 x
+10 veya 2x 10* veya 5 x 10* şeklinde olmalıdır.
+
+[SAYFA 74]
+602
+
+1.3. Referans doğruluk sınıfı Ref(x) statik yükler için uygulanabilir.
+
+1.4 Çalıştırma doğruluk sınıfı X(x) için X, yük ağırlığının doğruluğu ile ilgili bir değerdir ve (x) bu
+Bölümün 2.2 nci maddesinde X(1) sınıfı için belirtilen hata sınırlarının çarpanıdır.
+
+2. MIM ler
+
+2.1. Statik tartım hatası
+
+2.1.1, Belirlenen çalışma şartları altında bulunan statik yüklerde, referans doğruluk sınıfı Ref(x) için
+maksimum izin verilebilir hata (MİH), Tablo 5'te belirtilen sınıf tanım faktörü (x) ile çarpılmış olarak,
+her bir dolumun ortalamadan maksimum izin verilebilir sapmasının 0,312'si kadar olmalıdır.
+
+2.1.2. Dolumun birden fazla yük ile yapılabileceği otomatik tartı aletlerinde (örneğin, toplamalı veya
+seçimli kombinasyona sahip otomatik tartılar) statik yüklerin maksimum izin verilebilir hatası (MIH),
+bu bölümün 2.2. nci maddesinde belirtilen dolum için gerekli doğrulukta olmalıdır (örneğin, ayrık
+
+yükler için maksimum izin verilebilir sapmanın toplamı kadar olmamalıdır).
+
+2.2. Ortalama dolumdan sapma
+
+Tablo 5
+X( 1) sınıfı için, her bir dolumun ortalamadan
+Dolumların kütle değeri m(g)
+maksimum izin verilebilir sapması
+ms 50 7,2
+50<m<109 _ 3,6 ¢
+100 <m<200 a. % 3,6
+200 <m < 300 728
+300 <m < 500 % 2,4
+500 <m < 1000 I2¢
+1 000 <m< 10 000 % 1,2
+10 000 <m < 15 000 120 ¢
+15000 <m % 0,8
+Not: Her bir dolumun ortalamadan hesaplanmis sapmasi malzeme parca boyutunun
+etkisi göz önünde bulundurularak düzeltilebilir.
+
+2.3. Önceden ayarlama değerine ilişkin hata (ayarlama hatası)
+
+Bir dolum ağırlığının önceden ayarlanmasının mümkün olduğu otomatik tartı aletlerinde önceden
+ayarlanmış değer ile dolumların ortalama kütlesi arasındaki maksimum fark, Tablo 5'te belirtildiği
+gibi, her bir dolumun ortalamadan maksimum izin verilebilir sapmasının 0,3 12'sini aşmamalıdır.
+
+3. Etki faktörü ve elektromanyetik bozukluk altında performans
+
+3.1. Etki faktörlerinden kaynaklanan MİH'ler bu bölümün 2.1 inci maddesinde belirtildiği gibi
+olmalıdır.
+
+[SAYFA 75]
+603
+
+3.2. Bozukluktan kaynaklanan kritik değişim değeri, bu bölümün 2.1 inci maddesinde belirtilen
+ölçülmüş minimum dolum hızı için hesaplanan MIH’e eşit statik ağırlık gösterimindeki değişim
+kadardır veya dolumun çoklu yüklerden oluştuğu otomatik tartı aletlerinde, dolum üzerinde eşit etkiyi
+birakan bir değişim kadardır. Hesaplanan kritik değişim değeri bir sonraki yüksek taksimat aralığına
+(d) tamamlanmalıdır.
+
+3.3 Üretici, tespit edilmiş minimum dolum değerini belirtmelidir.
+
+BÖLÜM IV -Kesintili toplayıcılar
+
+1. Doğruluk sınıfları
+
+Otomatik tartı aletleri 0,2, 0.5, 1 ve 2 olmak üzeredört doğruluk sınıfına ayrılmıştır.
+
+2. MIB? ler
+
+Tablo 6
+Doğruluk sınıfı Toplam yükün MIE’:
+0,2 + Ye 0,10
+0,5 + % 0.25
+l + % 0,50
+2 + % 1,00
+
+3. Toplamın taksimat aralığı
+Toplamın taksimat aralığı (d,): % 0,01 Max <d, <4 0,2 Max aralığında olmalıdır.
+4. Minimum toplam yük (fsa)
+
+Minimum toplam yük (Xu), MİHOin toplamın taksimat aralığı olan dv» esit olduğu yükten ve
+üretici tarafından belirtilen minimum yükten az olmamalıdır.
+
+5. Sıfırlama
+
+Her boşaltmadan sonra dara almayan otomatik tartı aletleri, sıfır ayar tertibatına sahip olmalıdır. Sifir
+göstergesindeki değer aşağıdaki durumlarda olması halinde otomatik çalışma engellenmelidir;
+
+- Ötomatik sıfır ayar tertibatı olan otomatik tartı aletlerinde 1d,
+
+- Yarı otomatik veya otomatik olmayan sıfır ayar tertibatı olan otomatik tartı aletlerinde 0,5 d,
+
+6. Operatör ara birimi
+
+Operator ayarlamaları ve sıfırlama (reset) fonksiyonu, otomatik çalışma sırasında engellenmelidir.
+7. Çıktı alma
+
+Bir yazıcıyla donatılan otomatik tartı aletlerinde, toplam yazılı olarak alınıncaya kadar, toplamın
+sıfırlanması engellenmelidir. Otomatik çalışma kesintiye uğrasa da toplamın çıktısı alınabilmelidir.
+
+[SAYFA 76]
+604
+8. Etki faktörleri ve elektromanyetik bozukluk altında performans
+
+8.1. Etki faktörlerinden kaynaklanan MTH’ler Tablo 7'de belirtildiği gibi olmalıdır.
+
+Tablo 7
+Toplamın taksimat aralığı (d,) cinsinden yük F
+MI
+(m)
+0<m<500 +£0,5 d,
+$00 <m < 2 000 + 1,0 d,
+2 000 <m < 10 000 +1,5 d,
+
+8.2. Bozukluktan kaynaklanan kritik değişim değeri, herhangi bir tartımda göstergedeki değer ve
+herhangi bir saklanmış toplam için bir toplamın taksimat aralığıdır.
+
+BÖLÜM V -Kesintisiz toplayıcılar
+1. Doğruluk Sınıfları
+
+Otomatik tartı aletleri 0,5, | ve 2 olmak üzere üç doğruluk sınıfına ayrılmıştır.
+
+hw
+
+. Glçüm aralığı
+
+arasındaki oranı ve minimum toplam yükü belirtmelidir.
+
+2.1. Üretici, ölçüm aralığını, tartım ünitesi üzerindeki minimum net yük ile maksimum kapasite
+
+2.2. Minimum toplam yük (Lain),
+Sınıf 0,5 için 800 d,
+
+Sınıf 1 için 400 d,
+
+Sınıf 2 için 200 d,
+
+değerlerinden az olmamalıdır.
+
+Burada d, genel toplama tertibatının toplam taksimat aralığıdır.
+
+3.MİH
+Tablo 8
+Doğruluk sınıfı Toplam yük için MİH
+0,5 +z 0,25
+| + % 0,5
+2 +% 1,0
+
+4, Bant hızı
+
+Bant hızı üretici tarafından belirtilmelidir. El ile hız ayar kontrollü tek hızlı bant tartıları ve değişken
+hızlı bant tartıları için hız, nominal değerin % 5'inden fazla farklılık göstermemelidir. Ürün, bandın
+hızından farklı bir hızla hareket etmemelidir.
+
+[SAYFA 77]
+605
+
+5. Genel toplama tertibatı
+
+Genel toplama tertibatının sıfırlanması mümkün olmamalıdır.
+
+6. Etki faktörü ve elektromanyetik bozukluk altında performans
+
+6.1, Minimum toplam yük (Aş, ) den az olmayan yük için etki faktöründen kaynaklanan MİH, en
+yakın taksimat aralığı toplamına (d) yuvarlanan ve Tablo 8'de belirtilen uygun değerin 0.7 katı
+
+olmalıdır.
+
+6.2. İyiye eşit yük için bozukluktan kaynaklanan kritik değişim değeri, bir sonraki daha yüksek
+
+taksimat aralığı toplamına (s) yuvarlanan ve Tablo 8'de belirtilen uygun değerin 0,7 kau olmalıdır.
+BÖLÜM VI- Otomatik ray kantarı
+1. Doğruluk Suufları
+
+Otomatık tartı aletleri aşağıda gösterildiği şekilde dört doğruluk sınıfına ayrılmıştır:
+
+to
+S
+am
+
+2.1. Tek bir vagonun ya da bütün tenin hareket halindeki tartımı için MİH'ler Tablo 9'da
+gösterilmektedir.
+
+Tablo 9
+Doğruluk sınıfı MİFH
+0,2 «z% 0,)
+0,5 *W 0,25
+1 +=% 0,5
+2 + % 1,0
+
+2.2. Hareket halinde tartilmakta olan birleştirilmiş ya da birleştirilmemiş vagonların ağırlığı için MİH,
+en büyük olanı seçilmek kaydı ile aşağıdaki değerlerden biri olmalıdır.
+
+- Tablo 9'a göre hesaplanmış olan ve en yakın taksimat aralığına yuvarlanan değer,
+
+Tablo 9'a göre hesaplanmış olan ve maksimum vagon ağırlığının (açıklayıcı işaretlerde belirtildiği
+gibi) % 33'ine eşit bir ağırlık için en yakın taksimat aralığına yuvarlanan değer.
+
+- Bir taksimat aralığı (d).
+
+2.3. Hareket halinde tartılmakta olan trenlerin ağırlığı için MİH'ler, en büyük olanı seçilmek kaydı ile,
+aşağıdaki değerlerden biri olmalıdır.
+
+- Tablo 9'a göre hesaplanmış olan en yakın taksimat aralığına yuvarlanan değer.
+-Maksimum vagon ağırlığının (açıklayıcı işaretlerde belirtildiği gibi) % 35'ine eşit tek bir vagonun
+
+ağırlığı için Tablo 9'a göre hesaplanan trendeki referans vagon sayısı (10'u geçmeyecektir) ile çarpılan
+ve en yakın taksimat araligma yuvarlanan değer;
+
+[SAYFA 78]
+606
+
+-10 d'yi geçmemek koşulu ile trendeki her bir vagon için bir taksimat aralığı (d )
+
+2.4. Birleştirilmiş vagonların tartımı yapılırken; trenin bir ya da daha fazla geçişi esnasında alınan
+tartım sonuçlarının % 10'undan fazla olmayan hatalar bu bölümün 2.2 nci maddesinde verilen uygun
+MIH değerini aşabilir ancak MİH'in iki katını aşmamalıdır.
+
+3. Taksimat aralığı (d)
+
+Doğruluk sınıfı ile taksimat aralığı arasındaki ilişki Tablo 10'da belirtildiği gibi olmalıdır.
+
+Tablo 10
+Doğruluk sınıfı Taksimat aralığı (d)
+0,2 d<50 kg
+0,5 d<100 kg
+| d< 200 ke
+2 ds 500 kg
+
+4. Ölçüm aralığı
+
+4.1, Minimum kapasite 1 t'den az ve kısmi tartım işlemlerinin sayısı ile bölünen minimum vagon
+ağırlığının sonuç değerinden büyük olmamalıdır.
+
+4.2. Minimum vagon ağırlığı 50 d'den az olmamalıdır.
+5. Etki faktörü ve elektromanyetik bozukluk altında performans
+
+5.1. Etki faktörlerinden kaynaklanan MİH'ler Tablo 11'de belirtildiği gibi olmalıdır.
+
+Tablo 11
+Taksimat aralığı (d) cinsinden yük (m) MİH
+O0<m < 500 £0,5d
+500<m< 2 000 +1,0d
+2000<m< 10 000 =1,5d
+
+5.2. Bozukluktan kaynaklanan kritik değişim değeri bir taksimat aralığıdır.
+
+[SAYFA 79]
+607
+EK MI - 007
+
+TAKSİMETRELER
+
+Ek Jin ilgili gerekleri, bu Ek'in özel gerekleri ve bu Ek'te listelenen uygunluk değerlendirme
+yöntemleri taksimetrelere uygulanır.
+
+TANIMLAR
+Taksimetre
+
+Ölçü aletini oluşturmak üzere bir mesafe sinyal üreteci ile birlikte çalıştırılan bir cihazdır. Mesafe sinyal
+üreteci bu Tüzüğün kapsamı dışındadır
+
+Bu cihaz, mesafe sinyali üreteci tarafından üretilen bir sinyal esasına bağlı olarak süreyi ölçer,
+mesafeyi hesaplar. Bunun yanı sıra, hesaplanan mesafe ve/veya yolculuğun ölçülen süresine bağlı
+olarak yolculuk için ödenmesi gereken ücreti hesaplar ve göstergede gösterir.
+
+Ücret
+
+Yolculuğun sabit bir başlangıç ücretine ve/veya uzunluğuna ve/veya süresine bağlı olarak bir yolculuk
+için ödenmesi gereken toplam para miktarıdır. Ücret, ekstra hizmetler için ek bir bedel içermez.
+
+Dönüşüm biz
+Zaman tarifesi değerinin mesafe tarifesi değerine bölünmesi ile bulunan hız değeridir.
+Normal hesaplama S modu (tek tarife uygulaması)
+
+Dönüşüm hızının altında olan zaman tarifesi uygulaması ve dönüşüm hızının üstünde olan mesafe
+tarifesi uygulamasına dayanan ücret hesaplanmasıdır.
+
+Normal hesaplama D modu (çift tarife uygulaması)
+
+Bütün yolculuk süresince zaman tarifesi ve mesafe tarifesinin eş zamanlı olarak uygulanmasına
+dayanan ücret hesaplanmasıdır.
+
+Çalışma konumu
+
+Bir taksimetrenin işlevlerini karşılayan farklı modlar vardır. Çalışma konumları aşağıdaki göstergeler
+> J > 3 5 & >
+ile ayrılmıştır:
+
+"Kiralık": Hesaplamanın devre dışı bırakıldığı çalışma konumudur.
+
+"Kiralanmış": Yolculuğun zamanı ve/veya yolculuk edilen mesafeye göre tarife ve olası bir başlangıç
+ücreti esasına dayanan ücret hesaplamasının olduğu çalışma konumudur.
+
+"Durma": Yolculuk için tespit edilen ücretin, göstergede gösterildiği ve en azından zamana dayanan
+ücret hesaplanmasının devre dışı bırakıldığı çalışma konumudur.
+
+TASARIM GEREKLERİ
+
+1. Taksimetre, mesafenin hesaplanması ve yolculuk süresinin ölçülmesi için tasarımlanmalıdır.
+
+[SAYFA 80]
+608
+
+2. Taksimetre, "Kiralanmış" çalışma konumunda, kararlaştırılan sabit miktara ilaveten eşit artışlar
+kaydederek ücretin hesaplanması ve gösterilmesi için tasarımlanmalıdır. Taksimetre ayrıca "Durma"
+çalışma konumunda yolculuğun son ücret değerinin gösterilmesi için tasarımlanmalıdır.
+
+3. Taksimetre S ve D normal hesaplama modlarını uygulayabilmelidir. Güvenli bir ayarlama yoluyla,
+bu hesaplama modları arasında seçim yapma imkanı olmalıdır.
+
+4, Taksimetre, uygun güvenli bir ara birim (ara birimler) aracılığıyla aşağıdaki verileri
+sağlayabilmelidir:
+
+- Çalışma konumu: "Kiralık(Boş)", "Kiralanmış(Dolu)", "Durma",
+- Bu Ek'in 15.1 inci maddesine uygun olarak veri toplayıcı,
+
+- Genel bilgiler: mesafe sinyal üreteç sabiti, şifreleme tarihi, taksi kimliği, gerçek zaman ve tarifenin
+tanımlanması,
+
+- Yolculuk için ücret bilgisi: toplam ücret, ücret, ücretin hesaplanması, ilave ücret, tarih, başlangıç
+zamanı, bitiş zamanı ve kat edilen mesafe,
+
+- Tarife (tarifeler) bilgisi: tarife (tarifeler) parametreleri.
+
+Diğer mevzuat, taksimetrenin ara birim veya ara birimlerine belirli cihazların bağlanması şartını
+getirebilir. Bu tip bir cihazın öngörüldüğü durumlarda; öngörülen cihazın mevcut olmaması veya
+uygun olmayan işlev göstermesi nedenleriyle güvenli ayarlama yoluyla taksimetrenin otomatik
+
+çalışmasını engellemek mümkün olmalıdır.
+
+5. İlgili durumlarda, bağlandığı ve ayarlarının güvence altına alındığı mesafe sinyal üreteci sabiti için
+
+taksimetre ayarlanabilmelidir.
+NOMİNAL ÇALIŞMA ŞARTLARI
+
+6.1. Uvgulanan mekanik ortam sınıfı M3'tür.
+
+6.2. Üretici, taksimetre için tespit edilen nominal çalışma şartlarını belirtmelidir, özellikle;
+- İklimsel çevre için minimum sıcaklık aralığı 80 °C,
+
+- Tasarımlanmış taksimetre için DC güç kaynağının limitleri.
+
+MAKSİMUM İZİN VERİLEBİLİR HATALAR (MİH)
+
+7. Bir takside taksimetrenin kullanılmasından kaynaklanan herhangi bir hatanın dışındaki MIH’ler
+şunlardır:
+
+- Geçen zaman için: + 960,1
+Minimum MİH değeri: 0,25,
+- Kat edilen mesafe için: + 6 0,2
+
+Minimum MİH değeri: 4 m,
+
+[SAYFA 81]
+609
+
+- Ücretin hesaplanması için: + % 0,1
+
+Minimum, yuvarlama dahil: ücret göstergesinin en küçük basamağına karşılık gelen.
+
+BOZULMALARIN İZİN VERİLEBİLİR ETKİLERİ
+8. Elektromanyetik bağışıklık
+8.1. Uygulanan elektromanyetik sınıfı E3'tür.
+
+8.2. Bu Ek’in 7 nci maddesinde söz edilen MİH, elektromanyetik bozukluk olması durumunda da dikkate
+alınmalıdır.
+
+GÜÇ KAYNAĞI ARIZASI
+
+9. Gerilim kaynağının, üreticinin belirtmiş olduğu alt çalışma limitinin altında bir değere düşmesi
+durumunda, taksimetre;
+
+- Doğru olarak çalışmaya devam edecek veya gerilimin düşmesinin geçici olması halinde gerilim
+düşmeden önce mevcut olan veriler kaybolmaksızın işlevini sürdürmeye devam etmelidir (örneğin
+motorun yeniden çalışması).
+
+- Gerilimin düşmesi uzun sürerse, mevcut ölçümü durdurmalı ve "Kiralık (Boş)" konumuna geri
+dönmelidir.
+
+DİĞER GEREKLER
+
+10. Taksimetrenin üreticisi tarafından, taksimetre ve mesafe sinyal üreteci arasındaki uyumluluk şartları
+belirtilmelidir.
+
+11. Fazladan verilen bir hizmet için ilave ücret olması halinde, sürücü tarafından elle girilen ücret,
+göstergede gösterilen ücretten hariç tutulmalıdır. Ancak bu durumda taksimetre, ilave ücreti de içeren
+toplam ücreti geçici olarak gösterebilir,
+
+12. Ücretin D hesaplama moduna göre hesaplanmış olması halinde, taksimetre sadece yolculuğun
+toplam mesafesini ve süresini gerçek zamanlı olarak gösteren ilave bir gösterge moduna sahip olabilir.
+
+13. Yolcu için göstergede gösterilen bütün değerler uygun şekilde tanımlanmalıdır. Bu değerler ve
+tanımlamalar gece ve gündüz şartlarında net bir şekilde okunabilir olmalıdır.
+
+14.1. Sahte kullanıma karşı alınacak önlemler veya ödenecek olan ücret ön program ayarı veya serbest
+veri girişi işlevleri ile etkileniyor ise , cihaz ayarının ve veri girilmesinin güven altına alınması mümkün
+
+olmalıdır.
+
+14.2. Bir taksimetrede mevcut güvenlik olanakları, ayarların ayrı ayrı güvenliğini sağlayacak şekilde
+olmalıdır.
+
+14.3. Ek 1’ in 8.3” üncü maddesine söz edilen hükümler tarifelere de uygulanır.
+
+15.1. Aşağıdaki değerlerin tümü için, taksimetreye sıfırlanamayan hesaplayıcılar monte edilmelidir:
+
+[SAYFA 82]
+610
+
+- Taksi tarafından kat edilen toplam mesafe,
+
+- Kiralık (Dolu) iken kat edilen toplam mesafe,
+
+- Toplam kiralama sayısı,
+
+- İlave olarak alınan paraların toplam miktarı,
+
+- Taksi ücreti olarak alınan paraların toplam miktarı,
+
+Toplam değerler; güç kaynağının kesilmesi halinde bu Ek’in 9 uncu maddesine göre kaydedilen
+değerleri içermelidir.
+
+15.2.Taksimetrenin enerji ile bağlantısının kesilmesi durumunda, değerlerin taksimetreden başka bir
+
+ortamda okunması amacıyla taksimetre, bir yıl süreyle hesaplanan değerlerin kaydedilmesine uygun
+
+olmalıdır.
+
+15.3. Toplam değerler göstergesinin, yolcuları yanıltmak amacıyla kullanılmasını önleyecek yeterli
+önlemler alınmalıdır.
+
+16. Otomatik tarife değişimine aşağıdaki durumlara göre izin verilir;
+- Yolculuğun mesafesi,
+- Yolculuğun süresi,
+- Gün içindeki zaman ,
+- Tarih,
+- Haftanın günü.
+
+17. Taksinin özelliklerinin taksimetrenin doğruluğu için önemli olduğu durumlarda, taksimetrenin
+İçine monte edildiği taksi ile bağlantı güvenliğini temin edecek araçlarla donatılmalıdır.
+
+18. Taksimetre; montajdan sonra mesafe ve zaman ölçüm doğruluğu ve hesaplama doğruluğunun ayrı
+ayrı test edilmesi için gerekli ekipmanla donatılmalıdır.
+
+19. Üretici tarafından belirtilen taksimetre ve montaj talimatları; taksimetrenin üreticinin talimatlarına
+uygun olarak monte edilmesi halinde, kat edilen mesafeyi temsil eden ölçüm sinyallerinin yanıltıcı
+şekilde değiştirilmelerini önleyecek şekilde olmalıdır.
+
+20. Hileli kullanımla ilgili genel temel gereklilik; müşterinin, sürücünün, sürücü işvereninin ve yasal
+yükümlülerin haklarını koruyacak şekilde olmalıdır,
+
+21. Bir taksimetre, normal kullanın şartlarında bir yıl süresince herhangi bir ayarlamaya gerek
+kalmaksızın MİH”lere uygun olarak tasarımlanmalıdır.
+
+22. Bir taksimetre, tarifelerin otomatik değişmesi için beraber ya da ayrı ayrı kullanabilecek olan ve
+gün içindeki zamanı ve tarihi muhafaza edebilecek gerçek zamanlı bir saat ile teçhiz edilmelidir.
+
+Gerçek zamanlı saat için öngörülen gereklilikler:
+
+- Zaman göstergesi % 0,02 doğrulukta olmalıdır,
+
+[SAYFA 83]
+611
+
+- Saatin düzeltilme olasılığı her hafta için 2 dakikadan fazla olmamalıdır. Yaz ve kış saat
+uygulamalarına göre düzeltme otomatik olarak yapılmalıdır,
+
+- Yolculuk süresince otomatik ya da elle düzeltme yapılması önlenmelidir.
+
+23. Kat edilen mesafe değerleri ve geçen zaman, bu Tüzükte gösterildiğinde veya bunların çıktısı
+alındığında aşağıdaki hususlar kullanılmalıdır:
+
+Kat edilen mesafe:
+
+- İngiltere ve İrlanda'da: Kilometre veya mil,
+
+- Diğer tüm Avrupa Birliği Üyesi Ülkeler ve Türkiye'de: Kilometre
+Geçen zaman:
+
+- Yanlış anlamaları önleyecek şekilde gerekli çözümü göz önünde bulundurarak saniye, dakika veya
+saatten uygun olanı kullanılabilir.
+
+UYGUNLUK DEĞERLENDİRMESİ
+
+Bu Tüzüğün 8'inci maddesinde atıfta bulunulan ve üreticinin aralarından seçim yapabileceği uygunluk
+değerlendirme prosedürleri B + F veya B+ D veya HI'dir.
+
+EK MI - 008
+MALZEME ÖLÇERLER
+BÖLÜM I - Malzeme uzunluk ölçerler
+Ek Vin ilgili gerekleri, bu Ek'in özel gerekleri ve bu Ek’te listelenen uygunluk değerlendirme
+prosedürleri, aşağıda açıklanan malzeme uzunluk ölçerlerine uygulanır. Ancak, uygunluk beyanının
+bir nüshasının sunulma gereği, ayrı ayrı her bir ölçü aleti yerine gruba veya irsaliyeye uygulanması
+şeklinde yorumlanabilir.
+TANIMLAR
+Malzeme uzunluk ölçer
+Mesafeleri, yasal uzunluk birimleri olan taksimat işaretlerini ihtiva eden, bir ölçü aletidir.
+1. ÖZEL GEREKLER
+Referans şartlar
+1.1. Beş metreye eşit ya da beş metreden daha uzun şerit metreler, 50 Newton çekme gücü veya üretici
+tarafından belirtilen ve şerit metre üzerinde işaretli olan çekme gücü uygulandığında veya çekme
+
+gücünün uygulanmasına gerek olmayan bükülmez veya yarı bükülmez uzunluk ölçerler maksimum
+izin verilebilir hataları (MIH’leri) karşılamalıdır.
+
+[SAYFA 84]
+612
+
+1.2. Üretici tarafından aksi belirtilmediği sürece referans sıcaklık 20 * C olup uygun bir şekilde uzunluk
+ölçerler üzerine işaretlenir.
+
+MI’ ler
+
+2, MİK, iki ardışık olmayan taksimat işareti arasında (a + bL) mm cinsinden pozitif ya da negatiftir,
+burada:
+
+- L, bir sonraki tam metreye yuvarlanmış uzunluk değeridir ve
+- a ve b aşağıda Tablo 1'de verilmiştir.
+
+Ölçme aralığının bir yüzey tarafından sınırlandığı durumlarda, bu noktada başlayan herhangi bir
+mesafe icin MİH, Tablo |'de verilen e değeri ile artırılır.
+
+Tablo 1
+Doğruluk sınıfı a (mm) b c (mm)
+I 0,1 0,1 0,1
+ie 0,3 0,2 0,2
+TM 0.6 0,4 0,3
+
+D -Daldırma tip şerit
+metreler için özel sınıf
+
+1,5 stfir sıfır
+30m'ye kadar ve 30m dahil
+(2)
+S — Hazneye sarılan şerit
+metreler için özel sınıf.
+1,5 sıfır sıfır
+
+her bir 30m uzunluk için,
+şerit metre düz bir yüzeyle
+desteklendiğinde
+
+" Şerit metre/ daldırma ucu ağırlığı kombinasyonlarına uygulanır.
+
+? , . . A . :
+© Nominal şerit metre uzunluğunun 30 metreyi aşması durumunda, her 30 metrelik
+uzunluk için 0,75mm ilave MİH'e izin verilmiştir.
+
+Formülün uygulanmasından çıkan değer 0,6mm'den düşük ise MİH + 0,6mm'dir. Bu durumda
+daldırma tip şerit metreler, birisi, daldırma ucu, diğeri ise şerit metre üzerinde bulunan iki taksimat
+işareti arasındaki herhangi bir uzunluğun ölçümü için, sınıf I veya sınıf II olabilir.
+
+Ardışık taksimat işaretleri arasındaki uzunluk için MİH ve ardışık iki aralık arasındaki maksimum izin
+verilebilir fark aşağıda Tablo 2'de gösterilmiştir.
+
+Tablo 2
+ean İ Doğruluk sınıflarına göre MİH veya
+¥ oO Ss co >
+Aralığın i uzunluğu milimetre olarak fark
+I I i
+isimm 0,1 0,2 0,3
+Imm <i<lem 0,2 0,4 0,6
+
+[SAYFA 85]
+613
+
+Katlanır tip uzunluk ölçerlerde bağlantı hiçbir hataya sebep olmayacak biçimde olmalıdır. Yukarıda
+verilenlere ek olarak, Sınıf I] için: O,3ram, Sınıf II için 0,45mm ilave yapılabilir.
+
+Malzemeler
+
+3.1. Referans sıcaklıktan yaklaşık  89C sıcaklık sapmalarından kaynaklanan uzunluk değişmelerinde,
+malzeme ölçerler için kullanılan malzemeler, MİH'yı aşmayacak şekilde olmalıdır. Üreticinin, ısıl
+genleşme düzeltmeleri uyguladığı okumaların gerekli olduğu durumlarda bu durum sınıf S ve sınıf D
+
+için uygulanmaz.
+
+3.2. Geniş çapta nispi neme maruz kaldığında boyutları değişebilen malzemelerden yapılan malzeme
+uzunluk ölçerleri, sadece sınıf 1 veya sınıf HI olarak sınıflandırılabilir.
+
+İşaretler
+
+4. Malzeme ölçer üzerine nominal değer işaretlenmelidir. Milimetre taksimatlarından oluşan her
+santimetre ve 2 cm'den büyük taksimat aralığı olanlarda bütün taksimat işaretleri
+numaralandırılmalıdır.
+
+UYGUNLUK DEĞERLENDİRMESİ
+
+Bu Tüzüğün 8'inci uncu maddesinde atıfta bulunulan ve üreticinin aralarından seçim yapabileceği
+uygunluk değerlendirmesi prosedürleri F 1 veya D 1 veya B + D veya H veya G'dir.
+
+BÖLÜM II — Hacim ölçerler
+Ek Lin ilgili temel gerekleri, bu bölümde listelenen özel gerekler ve uygunluk değerlendirme
+prosedürleri aşağıda tanımlanmış olan hacim ölçerlere uygulanır. Ancak, uygunluk beyanının bir
+nüshasınm sunulma gereği, ayrı ayrı her bir ölçü aleti yerine gruba veya irsaliyeye uygulanması
+şeklinde yorumlanabilir. Aynı zamanda hacim ölçerin doğruluğuna ilişkin taşıması gereken bilgi
+içinde bu durum geçerlidir.
+TANIMLAR
+
+Hacim ölçer
+
+Hemen tüketilmek üzere satılan sıvıların (eozacılık ürünleri hariç belirlenmiş hacimleri için
+tasarımlanmış hacim ölçeridir (su bardağı, sürahi veya kavanoz gibi).
+
+Çizgili ölçer
+
+Nominal hacmi göstermek için bir çizgi ile işaretlenmiş hacim ölçerdir.
+Birini (Kenar) ölçer
+
+İç hacmi nominal hacme eşit olan hacim ölçerdir.
+
+Transfer ölçer
+
+Tüketim öncesinde sıvının başka bir kaba aktarıldığı hacim ölçerdir.
+
+[SAYFA 86]
+614
+
+Hacim
+
+Birim ölçerlerin iç hacmi veya çizgili ölçerlerin dolum işaretine kadar olan iç hacimdir.
+ÖZEL GEREKLER
+
+1. Referans şartlar
+
+1.1. Sıcaklık: Hacim ölçümü için belirlenen referans sıcaklık 20 ° C'dir.
+
+1.2. Doğru gösterim pozisyonu: yüzey seviyesindeki serbest duruş.
+
+2. MİH'ler
+Tablo |
+Çizgi Birim (Kenar)
+Transfer ölçerler
+< 100 mi -0
++2ml
++4ml
+> 100 mi -0
+* 3
++% 6
+Hacim ölçerler
+< 200 ml -0
+* 5
++%10
+> 200 ml -0
++5 ml+%2,5
++10mit+%5
+
+3. Malzemeler
+
+Hacim ölçerler, hacmin MIH sınırları içerisinde kalmasını sağlamak için boyutu değişmeyecek ve
+yeterli sertlikteki malzemelerden yapılmalıdır.
+
+4. Şekil
+
+4.1, Transfer ölçerler, kenar veya dolum işaretinden en az 2 mm'lik bir seviye değişikliğine yol
+açabilecek MIH’e eşit içerik değişikliklerine göre tasarımlanmalıdır.
+
+4.2. Transfer ölçerler, ölçülen sıvının tamamen boşaltılmasını sağlayacak şekilde tasarımlanmalıdır.
+5. İşaretleme
+5.1. Beyan edilen nominal hacim, hacim ölçer üzerinde açık ve silinmez bir şekilde işaretlenmelidir.
+
+5.2. Hacim ölçerleri, birbirleriyle karışıklığa yol açmayacak şekilde açıkça ayırt edilebilir üç ayrı
+hacim değeri ile de işaretlenebilir.
+
+[SAYFA 87]
+615
+
+5.3. Bütün dolum işaretleri, kullanım esnasında MİH'lerin aşılmamasını sağlamak için net ve kalıcı
+olmalıdır.
+
+UYGUNLUK DEĞERLENDİRMESİ
+
+Bu Tüzüğün 8'inci maddesinde atıfta bulunulan ve üreticinin aralarından seçim yapabileceği uygunluk
+değerlendirmesi prosedürleri Al veya FI veya Dİ veya El veya B + E veya B + D veya H'dir.
+
+EK MI - 009
+BOYUTSAL OLCU ALETLERI
+
+EK 1'in ilgili temel gerekleri, bu Ek'in özel gerekleri ve bu ekte listelenen uygunluk değerlendirme
+prosedürleri aşağıda tanımlanan tiplerdeki boyutsal ölçü aletlerine uygulanır.
+
+TANIMLAR
+Uzunluk ölçü aleti
+
+Ölçülecek ürünün besleme hareketi süresince ip, kumaş, bant ve kablo gibi malzemelerin uzunluğunun
+belirlenmesi için kullanılan ölçü aletidir.
+
+Alan ölçü aletleri
+Deri gibi düzensiz şekilli objelerin, alanlarının belirlenmesi için kullanılan ölçü aletidir.
+Çok boyutlu ölçü aletleri
+
+Ürüne paralel olarak bir dikdörtgen yerleştirilmek suretiyle boy yükseklik genişlik gibi kenar
+uzunluğunun en küçük olanının ölçülmesi için kullanılan ölçü aletidir.
+
+BOLUM I- Boyutsal ölçü aletleri için ortak gerekler
+Elektromanyetik bağışıklık
+1, Elektromanyetik bozukluğun boyutsal ölçü aleti üzerindeki etkisi aşağıdaki şekillerde olabilir;
+
+- Ölçüm sonucundaki değişiklik, bu bölümün 2 inci maddesinde tanımlanan kritik değişim değerinden
+büyük değildir, veya
+
+- Herhangi bir ölçümü gerçekleştirmek mümkün değildir, veya
+
+- Ölçüm sonucu olarak yorumlanamayan, kaydedilemeyen ya da iletilemeyen ölçüm sonuçları
+üzerinde anlık değişiklikler vardır, veya
+
+- Ölçüm sonucunda tüm ilgililer tarafından fark edilebilecek kadar anormal değişiklikler olur.
+
+2. Kritik değişim değeri, bir ölçek aralığına eşittir.
+
+[SAYFA 88]
+616
+
+UYGUNLUK DEĞERLENDİRMESİ
+
+Bu Tüzüğün $'inci maddesinde atıfta bulunulan v e üreticinin aralarından seçim yapabileceği uygunluk
+değerlendirmesi prosedürleri şunlardır:
+
+Mekanik veya elektromekanik boyutsal ölçü aletleri için:
+
+FI veya El veya DI veya B+ F veya B + E veya B+ D veya H veya HI veya G.
+Elektronik boyutsal ölçü aletleri veya yazılım içeren boyutsal ölçü aletleri için:
+B*F veya B + D veya Hi veyaG.
+
+BOLUM II - Uzunluk ölçü aletleri
+
+Ölçülecek olan ürünün karakteristikleri:
+
+1. Tekstil ürünleri “KR” faktörü ile karakterize edilir. Bu faktör, ölçülen ürünün birim alan başına
+gerilebilirliğini ve ağırlık kuvvetini dikkate alır, aşağıdaki formül ile hesaplanır.
+
+K=e.(Gat2,2N/m, burada
+
+e : İON gerilme kuvvetinde | m genişlikte kumaş numunesinin nispi uzaması,
+
+Ga: Nim cinsinden kumaş numunesinin birim alan başına düşen ağırlık kuvveti.
+Çalışma şartları:
+
+2.1. Aralık
+
+Uygun durumlarda, boyutlar ve K faktörü, ölçü aleti için üretici tarafından belirtilen aralık dahilindedir. K
+faktörünün aralıkları Tablo I'de verilmiştir:
+
+Tablo |
+Grup K'nin aralığı Ürün
+I 0<K<2x10°N/m düşük gerilebilirlik
+iit 2x10°N/m?<K<8x10°N/m* orta gerilebilirlik
+HI 8x10“N/m<K<24x10“N/m | yüksek gerilebilirlik
+Iv 24x 10° N/m <K cok yiiksek gerilebilirlik
+
+2.2. Ölçülen nesne ölçü aleti tarafından taşınmıyorsa; hızı, üreticinin ölçü aleti icin belirlediği aralık
+içinde olmalıdır.
+
+2.3. Ölçüm sonucunun; kalınlığa, yüzey koşuluna ve teslimat türüne (büyük bir makaradan ya da
+tomardan) bağlı olması durumunda üretici tarafından uygun sınırlamalar tanımlanır.
+
+MIH’ ler
+
+3.Uzunluk ölçü aleti
+
+[SAYFA 89]
+617
+
+Tablo 2
+Doğruluk sınıfı MİH
+I 0,005 L,,'den az olmamak kaydıyla %
+0,125
+I 0,01 Ly 'den az olmamak kaydıyla % 0,25
+Tl 0,02 L,,'den az olmamak kaydıyla “e 0,5
+
+Lanin minimum ölçülebilir uzunluk olduğunda bu değer kullanılacak ölçü aleti ile ilgili olarak üretici
+tarafından belirtilen en küçük uzunluktur.
+
+Farklı malzeme tiplerinin doğru uzunluk değeri, uygun ölçü aletleri kullanılarak (uzunluk şeritleri)
+ölçülmelidir. Bunun için, ölçülecek malzeme uygun bir satha düz ve bükülmeden koyulmalıdır.
+
+Diğer gerekler:
+
+4, Ölçü aletleri, tasarımlandığı gerilebilirlik değerine göre ürünün gerilmeden ölçülebilmesini
+sağlamalıdır.
+
+BÖLÜM HI - Alan ölçü aletleri
+Çalışma şartları:
+1.1. Aralık
+Boyutlar, üretici tarafından belirlenen aralıklar içindedir.
+1.2. Ürünün durumu
+
+Üretici, gerekli olması halinde, ölçü aletine hız, yüzey koşulları ve kalınlığa göre getirdiği
+sınırlamaları belirtmelidir.
+
+MIA’ ler
+
+2.Alan ölçü aleti
+
+MİH, 1 dn”den az olmamak kaydıyla % 1,0'dir.
+Diğer gerekler
+
+3. Ürünün gösterimi:
+
+Ürünün geri çekilmesi ya da durdurulması durumunda, herhangi bir ölçüm hatasına meydan
+verilmemeli ya da gösterge boş olmalıdır.
+
+4. Taksimat aralığı
+
+Alan ölçü aletleri, 1,0 dm? taksimat aralığına sahip olmalıdır. Buna ek olarak, test amacıyla, 0,1 dna?
+ölçek aralığına sahip olmak da mümkün olmalıdır.
+
+[SAYFA 90]
+618
+BÖLÜM IV - Çok boyutlu ölçü aletleri
+Çalışma şartları
+1.1, Aralık
+Boyutlar, üretici tarafından belirlenen aralık dahilindedir.
+1.2. Minimum boyut
+
+Taksimat aralığının bütün değerleri için minimum boyutun alt sınırı Tablo 1'de verilmiştir.
+
+Tablo 1
+Taksimat aralığı (d) Minimum boyut (min)
+(alt sınır)
+d<2cm 10d
+2cem<d<10cm 20d
+10cm<d 50d
+
+1.3. Ürünün hızı
+Hız, çok boyutlu ölçü aleti için üretici tarafından belirlenen aralık dahilinde olmalıdır.
+Min
+2. Çok boyutlu ölçü aleti:
+MİH, + 1,0 d'dir.
+EK MI - 010
+
+EGZOZ GAZI ANALİZ CİHAZLARI
+Ek 1'in ilgili gerekleri, bu Ek'in özel gerekleri ve bu Ek'te listelenen uygunluk değerlendirme
+prosedürleri, kullanılmakta olan motorlu taşıtların bakımı ve muayenesi amacıyla imal edilen ve
+aşağıda belirtilen egzoz gazı analiz cihazlarına uygulanır.
+TANIMLAR
+
+Egzoz gazı analiz cihazı
+
+Egzoz gazı analiz cihazı, analiz edilen numunenin nemi seviyesinde kıvılcım ateşlemeli motorlu taşıt
+egzoz gazının belirli bileşenlerinin hacimsel oranlarını belirleyen ölçü aletidir
+
+Bu gaz bileşenleri karbonmonoksit (CO), karbondioksit (CO), oksijen (O,) ve hidrokarbonlardır
+(HC),
+
+Hidrokarbonların içeriği, yakın kızıl ötesi emme teknikleri ile ölçülen n - hegzan (CçHıj)
+konsantrasyonu olarak tanımlanmalıdır,
+
+[SAYFA 91]
+y
+
+619
+
+Gaz bileşenlerinin hacim oranları, CO, CO, ve O; için yüzde (Yohacim) ve milyonda bir (ppm hacim)
+olarak tanımlanır.
+
+Bunun yanı sıra, bir egzoz gazı analiz cihazı, egzoz gazı bileşenlerinin hacim oranlarından lambda
+değerini de hesaplamaktadır.
+
+Lambda
+
+Lambda; egzoz gazındaki hava/yakıt oranı bakımından motorun yakma verimliliğini temsil eden
+boyutsuz bir değerdir. Lambda standartlaşmış referans bir formül ile tanımlanır.
+
+ÖZEL GEREKLER
+Ölçü aleti sınıfları
+
+1. Egzoz gazı analiz cihazları için iki sınıf tanımlanmıştır (0 ve D. Bu sınıflar için ilgili minimum
+ölçme aralıkları Tablo 1'de gösterilmektedir.
+
+Tablo |
+
+Sınıflar ve ölçme aralıkları
+
+Parametre 0 ve I Sınıfları
+CO oranı Hacimsel olarak 0'dan 955'e kadar
+CO, oranı Hacimsel olarak 0'dan %16’ya kadar
+HC oranı Hacimsel olarak 0'dan 2000’a kadar ppm
+Oz oranı Hacimsel olarak 0'dan %21’e kadar
+A 0,8'den 1,2'ye kadar
+
+Nominal çalışma şartları
+
+bo
+
+. Çalışma şartları değerleri üretici tarafından aşağıdaki gibi belirlenmelidir:
+
+.1. İklimsel ve mekanik etki miktarları için:
+
+to
+
+1
+
+İklimsel çevre için minimum 35 ° C’ hk bir sıcaklık aralığı,
+
+Uygulanan mekanik ortam sınıfının M1 olması
+2.2. Elektrik gücü etki miktarları için:
+- AC gerilim kaynağı için gerilim ve frekans aralığı,
+- DC gerilim kaynağı limitleri,
+2.3. Çevre basıncı için:
+
+- Her iki sınıf için de minimum ve maksimum çevre basınç değerleri:
+
+Prin 860 hPa, Pmax = 1 060 hPa.
+
+[SAYFA 92]
+620
+
+Maksimum izin verilebilir hatalar (MIH’ler)
+3. MİH”ler aşağıdaki şekilde tanımlanmıştır:
+
+3.1. Ölçülen her bir gaz türü için, bu Tüzüğün Ek Din 1.linci maddesi uyarınca tespit edilen nominal
+çalışma şartları altında izin verilen maksimum hata değeri Tablo 2'de belirtilen iki değerden en büyük
+olanıdır. Mutlak değerler, W hacim veya ppm hacim olarak tanımlanmıştır. Yüzdelik değerler gerçek
+değerin yüzde oranıdır.
+
+MI’ ler
+Tablo 2
+Parametre 0 sintfi I sınıfı
+CO oranı + % 0,03 + % 0,06
+hacim hacim
+£%5 +%5
+CO, oranı +% 0,5 +z % 0,5
+hacim hacim
+£%5 5
+HC orani +10 ppm +12 ppm
+hacim hacim
+£%5 + % 5
+Oz oranı =% 0,1 +% 0,1
+hacim hacim
+£% 5 =z%5
+
+3.2. Lambda hesaplamasında MİH % 0,3'tür. Lambda,
+bu amaçla, ölçü aleti tarafından görüntülenen değerler hesaplama için kullanılır.
+İzin verilebilir bozukluk etkisi
+
+4, Ölçü aleti tarafından ölçülen her hacim oranı için, kritik değişim değeri ölçülen gaz bileşenin hacim
+oranına ait MİH değerine eşittir.
+
+3. Elektromanyetik bozukluğun etkisi aşağıdaki şekillerde olabilir:
+
+- Ölçüm sonuçlarındaki değişim, 4 üncü maddede tanımlanan kritik değişim değerinden büyük
+değildir,
+
+- Ölçüm sonucunun gösterimi geçerli bir sonuç olarak değerlendirilemez niteliktedir.
+
+[SAYFA 93]
+621
+
+Diğer gerekler
+6. Çözünürlük, Tablo 3'de verilen değerlere eşit veya bu değerlerden daha büyük olmalıdır.
+
+Tablo3
+
+Çözünürlük
+
+CO CO, O, HC
+Sınıf 0 ve I % 0,01 hacim | % 0,1 hacim ü 1 ppm
+hacim
+
+44'e eşit veya altındaki ölçülen değerler için hacimsel olarak 96 0,01, aksi
+takdirde %0,1
+
+Lambda değeri, 0,001 çözünürlülüğüyle gösterilmelidir.
+
+7, 20 ölçüm için standart sapma, her bir uygulanabilir gaz hacim oranı için MİH'in üçte birinden fazla
+olmamalıdır.
+
+8. CO, CO, , HC ölçümleri için, özel gaz taşıma sistemini içeren ölçü aleti, örneğin temiz hava gibi
+sıfır içerikli bir gazdan değişmesinden itibaren 15 saniye içinde kalibrasyon gazları ile belirlenen son
+değerinin W 95'ini göstermelidir. O, ölçümü için, ölçü aleti benzer şartlar altında, temiz havadan
+oksijensiz gaza olan değişimden sonra 60 saniye içinde, sıfırdan hacimsel olarak % 0,1 daha az farklı
+olan değeri göstermelidir.
+
+9. Egzoz gazı içindeki ölçüme tabi olan bileşenlerin haricindeki diğer bileşenler, aşağıdaki maksimum
+hacim oranında bulunmaları halinde ölçüm sonuçlarını MIH’in yarısından fazla etkilememelidir.
+
+Hacimsel olarak;
+
+% 6 CO,
+
+%16 COQd,
+
+% 10 Oo,
+
+% 5 Hb,
+
+% 0,3 NO,
+
+2000 ppm HC (n - hegzan olarak),
+
+Doyma noktasına ulaşana kadar su buharı.
+
+10. Egzoz gazı analiz cihazı, sıfırlama tertibatı, gaz kalibrasyonu ve dahili ayar için işlem yapılmasını
+sağlayan bir ayar düzeneğine sahip olmalıdır. Sıfırlama tertibatı ve dahili ayar için kullanılan ayar
+düzeneği otomatik olmalıdır.
+
+11. Ölçü aleti, otomatik veya yarı otomatik ayar düzeneklerinin ayarları yapılmadığı sürece ölçüm
+yapmamalıdır.
+
+[SAYFA 94]
+622
+
+12. Egzoz gazı analiz cihazı, gaz taşıma sistemindeki hidrokarbon kalıntılarını tespit etmelidir.
+Herhangi bir ölçümden önce, 20 ppm hacim değerini aşan hidrokarbon kalıntısı bulunması durumunda
+ölçüm işleminin yapılması mümkün olmamalıdır.
+
+13. Egzoz gazı analiz cihazı, oksijen kanal sensöründe bağlantı hattındaki eskime veya arızadan
+kaynaklanan herhangi bir işlev bozukluğunu otomatik olarak algılayan bir aygıta sahip olmalıdır.
+
+14. Egzoz gazı analiz cihazı, petrol, sıvılaştırılmış gaz gibi farklı yakıt türleri ile çalışabiliyor ise,
+uygun formülle ilgili herhangi bir belirsizlik olmaksızın Lambda hesaplaması için uygun katsayıyı
+seçme imkanı olmalıdır.
+
+UYGUNLUK DEĞERLENDİRMESİ
+
+Bu Tüzüğün 8'inci maddesinde atıfta bulunulan ve üreticinin aralarından seçim yapabileceği uygunluk
+değerlendirmesi prosedürleri B + F veya B + D veya HI'dir.
+
+EK2
+
+CE İŞARETİ
+
+CE işareti, aşağıdaki yazı formuna sahip “CE” harflerinden oluşur.
+
+20
+z N
+a
+at
+a Z
+10 3
+Z aS
+A
+
+- CE işaretinin küçültülmesi veya büyütülmesi esnasında yukarıda resmedilmiş olan tasarımdan elde
+edilen oranlara uyulması gerekir.
+
+- CE işaretinin çeşitli öğeleri, aynı dikey boyuta sahip olmalıdır ve bu boyut da 5 mm.'den az olamaz.

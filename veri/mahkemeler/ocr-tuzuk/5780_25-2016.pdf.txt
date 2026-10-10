@@ -1,0 +1,1140 @@
+[SAYFA 1]
+Tüzük metni aşağıdadır.
+
+iz
+
+[SAYFA 2]
+i)
+ay
+
+Sayı :
+
+34
+
+CEVRE YASASI
+
+( 18/2012 ve 30/2014 Sayılı Yasa)
+
+Madde 32 Altinda’Yapilan Tüzük
+
+Kuzey Kıbrıs Türk Cumhuriyeti Bakanlar Kurulu, Çevre Yasası'nın 3'inci maddesinin
+kendisine verdiği yetkiye dayanarak aşağıdaki Tüzüğü yapar:
+
+Kısa İsim 1.
+
+Tefsir 2.
+
+Bu Tüzük, “Isınmadan Kaynaklanan Hava Kirliliğinin Önlenmesi Tüzüğü”
+olarak isimlendirilir.
+
+BİRİNCİ KISIM
+
+Genel Kurallar
+
+Bu Tüzükte metin başka türlü gerektirmedikçe;
+
+“Atık Gaz Akımı Merkezi”, Atık gaz borusunun kesitinde, atık gazın en
+yüksek sıcaklığa ulaştığı bölgeyi anlatır.
+
+“ Atık Gaz ile Isı Kaybı”, Yakıtın ısıl değeri açısından yakma havası ile
+atık gazın 1st içeriği arasındaki farkı anlatır.
+
+“Bakanlık”, Çevre Koruma Dairesi'nin bağlı olduğu Bakanlığı anlatır.
+
+“Benzen Türevleri”, İslilik derecesi tespit edilirken filtre kâğıdında tutulan
+ağır uçucu ve organik maddeleri anlatır.
+
+“CE Uygunluk İşareti” Üreticinin, ilgili teknik düzenlemelerden
+kaynaklanan bütün yükümlülüklerini yerine getirdiğini ve ürünün ilgili tüm
+uygunluk değerlendirme işlemlerine tabi tutulduğunu gösteren işareti
+
+anlatır.
+
+“Daire”, Çevre Koruma Dairesini anlatır.
+
+“Emisyon”, Yakma tesisinden (yakma mekanizmasından) dış havaya atılan
+atık gaz içindeki kirleticinin debisini (kg/saat, m /saat) anlatır.
+
+“Emisyon Değeri”, Atık gaz konsantrasyonu (mg/Nm) içindeki nem
+miktarı düşüldükten sonra (273 K, 1013 hPa) kuru bazda elde edilen
+kirletici konsantrasyonu (mg/Nm?) anlatır.
+
+“Emisyon Ölçüm Yetkilisi”, Yakma tesisinde gerekli bakım, onarım ve
+baca gazı ölçümünü yapan gerçek ve tüzel kişileri anlatır.
+
+“Isıl Güç (IG)”, Sürekli yanma rejiminde çalışan yakma tesisinden birim
+zamanda alınan kullanılabilir en yüksek ısı miktarını anlatır. Yakma
+tesisinin ısıl gücü ayarlanabilir özelliğe sahip olması durumunda, ısıl güç
+ayarının sabitleştirilmiş değeri ısıl güç olarak kabul edilir. Isıl gücü
+ayarlanabilir olmasına rağmen ısıl güç ayarı sabitleştirilmemiş ise ısıl güç
+ayarının en yüksek değerini anlatır.
+
+[SAYFA 3]
+Amaç 3.
+
+Kapsam ve 4.
+Muafiyet
+
+nh
+
+a
+2
+
+“İslilik Derecesi”, Ringelmann Skalasında atık gaz içindeki partikül
+emisyonunun meydana getirdiği sayıyı anlatır.(İslilik ölçütü, optik
+refleksiyon yeteneğidir. Refleksiyon yeteneğinin %20 (yüzde yirmi)
+oranında azalması, islilik derecesinin bir birim artması anlamındadır)
+
+“Konsantrasyon”, Yakma tesisindeki dış havaya atılan atık gaz içindeki,
+kuru bazda ve normal şartlardaki (273 K, 101,3 kPa) kirletici miktarını
+(mg/Nm?) anlatır.
+
+“Odun Koruyucu Madde”, Odunun tutuşma ısısını korumak amacıyla
+odunun işlenmesi ve terbiye edilmesinde kullanılan maddeleri, odunu tahrip
+eden böcek ve mantarlar ile odunun rengini değiştiren mantarlara karşı
+biyosit (haşere öldürücü) etkiye sahip olan maddeleri anlatır.
+
+“Ölçüm Noktası”, Ölçüm yapmak amacıyla yakma tesisi ile baca arasındaki
+bağlantıyı sağlayan boru üzerinde açılan deliği anlatır.
+
+“Ringelmann Skalası”, Duman yoğunluğunu ölçmede kullanılan ölçeği
+anlatır.
+
+“Verimlilik”, Yakma tesisinden elde edilen kullanılabilir ısı miktarının
+(ısıtma ısısı) yakma tesisine yüklenen yakıtın toplam ısı miktarına oranını
+anlatır.
+
+“Yakma Tesisleri (Yakma Mekanizması)”, Yakıtların yakılmasıyla ısı elde
+edilen soba, kombi, kat kaloriferi, kazan ve brölür ünitesi gibi tesisleri
+anlatır. Yakıtın yandığı yer ile bu yere bağlı parçalar ve atık gaz tertibatları
+yakma tesisine dahildir.
+
+“Yoğuşmalı Yakma Tesisi”, Atık gaz içindeki su buharının ısısın!
+konstrüksiyona bağlı olarak yoğuşturma yoluyla kullanabilen ısı üretim
+cihazlarını anlatır.
+
+Bu Tüzüğün amacı; ısınma için yakıt olarak yakılabilecek maddeleri ve
+evlerde, okullarda, hastanelerde, kamu kurum ve kuruluşlarında.
+işletmelerde, otellerde, turizm tesislerinde ve diğer yerlerde ısınma amaçlı
+kullanılan yakma mekanizmalarının hava kalitesi üzerinde yaratabilecekleri
+olumsuz etkiyi engellemek için gerekli usul ve esasları düzenlemektir.
+
+(1) Bu Tüzük, ısınmada kullanılacak yakma özelliklerini ve işletilme
+esaslarını, ısınma amaçlı yakma mekanizmalarında kullanılacak katı,
+sıvı ve gaz yakıtların kalite kriterlerini ve uyulması gerekli emisyon
+sınırlarını kapsar.
+
+[SAYFA 4]
+18/2012
+30/2014
+04.09.2015
+
+R.G, 132
+EK Ul
+A.E 560
+
+Yakma
+Mekaniz
+malarında
+Kullanila
+bilecek
+Yakıtlar
+
+(2)
+
+Bu Tüzük;
+
+A)
+
+(B)
+
+(C)
+
+Kızılötesi ışınımla ısıtma yapan yakma tesisleri basta olmak
+üzere mevcut teknik gelişmeler sonucunda atık gaz atma tertibatı
+olmadan çalışan yakma tesislerini,
+
+İçindekini sıcak atık gaza doğrudan temas etmek suretiyle
+kurutmak, yiyecekleri sıcak atık gaza doğrudan temas etmek
+suretiyle pişirmek ve benzer yollarla hazırlamak üzere düşünülüp
+tasarlanmış yakma tesislerini,
+
+Çevre Yasası altında düzenlenen Hava Kirliliğinin Kontrolu ile
+ilgili Tüzüğün kapsamına giren ve ısınma amacı ile kullanılan ve
+ısıl gücü >1000 kW olan yakma tesislerini,
+
+kapsamaz.
+
+İKİNCİ KISIM
+
+Yakıtlar
+
+Yakma mekanizmalarında sadece aşağıda belirtilen maddeler yakıt
+olarak kullanılabilir:
+
+(A)
+
+(B)
+
+Bu tüzüğün 20'nci maddesinde belirtilen özellikleri taşıyan
+
+aşağıdaki kömürler:
+
+(a) Taş kömürü, taş kömürü briketleri, taş kömürü koku,
+(b) Linyit kömürü, linyit kömürü briketi,
+
+(c) Antrasit (Kükürt içeriği %1°t geçmemesi koşulu ile)
+
+Odun, Odun Türevi ve Diğer Biokütle Yakıtları:
+
+(a) Mangal-odun kömürü, mangal-odun kömürü briketi,
+
+(b)
+
+Boya, cila veya benzeri kimyasal ürün içermeyen ve nemli ,
+ıslak olmayan parça odun, yarılmış odun, kıyılmış odun ,
+tahta ile çalı, çırpı ve takoz şeklindeki odun,
+
+Boya, cila veya benzeri kimyasal ürün içermeyen ve nemli,
+ıslak olmayan odun, testere unu, talaş, zımpara tozu v.s ,
+Boya, cila veya benzeri kimyasal ürün içermeyen odun
+briketi şeklinde odundan elde edilen preslenmiş odun veya
+eşdeğer odun peleti veya topağı veya eşdeğer kalitede
+odundan elde edilmiş diğer preslenmiş odun,
+
+[SAYFA 5]
+4)
+
+37
+
+(d) Odun koruyucu madde sürülmemiş veya odun koruyucu
+madde ile boya, cila içermeyen odun.
+
+(e) Odun koruyucu madde sürülmemiş veya odun koruyucu
+madde ile boya, cila veya benzeri kimyasal ürün içermeyen
+kaplamasız tahtalar,
+
+(f) Saman, prina, mısır koçanları, pamuk sapları, sebze sapları,
+fındık kabuğu, ayçiçek ve pirinç kabukları ve sapları,
+meyve çekirdeği kabukları gibi maddelerden elde edilmiş
+briketler.
+
+(C) Sıvı Yakıtlar:
+
+Fuel-oil, motorin, gaz yağı ve etanol sıvı yakıtları.
+
+Isınma amaçlı kullanılan fuel-oilin kükürt içeriği en fazla %1,0
+(+0,1 tolerans)'dir.
+(Ç) Gaz Yakıtlar:
+
+Hava gazı, doğalgaz, sıvılaştırılmış petrol gazı (LPG), hidroien,
+
+biyogaz yakıtları.
+
+Gaz yakıtların içindeki kükürdün hacimsel oranı % 0. Vi geçemez.
+Yakma mekanizmalarında yukarıdaki (1)’inci fıkrada belirtilen yakıtların
+dışındaki yakıtlar yakılamaz.
+
+Yukarıdaki (1)’inci ve (2)’nci fıkraların dışında kalan herhangi bir
+alternatif maddenin yakılıp yakılamayacağı Daire tarafından belirlenir.
+Daire tarafından yakılması uygun bulunan alternatif maddeler sadece
+ısınma amacıyla yakılabilir ve bunun dışında farklı bir amaç için
+yakılamaz.
+
+Yukarıdaki (1)’inci fikrada belirtilen yakıtların taşıması gereken özellik
+ve standartlar Daire tarafından tespit edilir ve sadece Dairenin tespit
+ettiği özellik ve standardı taşıyan yakıtlar yakma mekanizmalarında
+kullanılabilir.
+
+ÜÇÜNCÜ KISIM
+
+Katı Yakıtlı Yakına Tesisleri
+
+Katı Yakıtlı Yakma 6. Kati yakıtlı yakma tesislerinde aşağıda belirtilen kural ve koşullara
+
+Tesislerinde
+Uyulması Zorunlu
+Genel Kurallar ve
+Koşullar
+
+uyulması zorunludur:
+
+(1) Katt yakıtlı yakma tesislerine ait atık gaz isliliği, bu Tüzüğe
+ekli Ek-I’?de gösterilen islilik derecesi (Ringelmann Skalasina)
+1 (Gri-%20 (yüzde yirmi)) değerinden daha yüksek olamaz.
+
+(2) Kati yakıtlı yakma tesisleri Dairenin onayladığı katı yakıta
+uygun yakıtlar kullanılarak çalıştırılır.
+
+[SAYFA 6]
+Isıl Gücü <15 kW 7.
+
+Olan Yakma
+Tesisleri
+
+Isıl Gücü >15 kW
+Olan Katı Yakıtlı
+Yakma Tesisleri
+
+8.
+
+38
+
+(3) Şöminelerde sadece bu Tüzüğün 9'inci maddesinin (1)’inci
+fıkrasının (B) bendinin (b) ve (ç) alt bendlerinde belirtilen
+yakıtlar kullanılır.
+
+(4) Bu Tüzük kapsamındaki katı yakıtlı yakma tesislerinde
+kullanılan yakıta bağlı olarak açığa çıkan kirletici
+konsantrasyonu ölçümü, akredite olmuş veya Daire tarafından
+uygun görülen laboratuvarlarda yapılır.
+
+Isıl gücü <15 kW olan katı yakıtlı yakma tesisleri; yakıt besleme
+yeri ve yakıt yanma yeri ayrı yerlerde olup, kademeli yakıt
+beslemeli, birincil ve ikincil yanmayı sağlayacak şekilde tasarlanır.
+Bu tesislerde yalnızca bu Tüzüğün Sinci maddesinin (1)’inci
+fıkrasının (A) bendinde belirtilen katı yakıtların veya (B) bendinin
+(6),(c) ve (ç) alt bendlerinde belirtilen katı yakıtların kullanılması
+halinde tüm işletme şartlarında bacadan atılan partikül madde
+konsantrasyonu ve islilik derecesi aşağıdaki Tablo-I’de verilen sınır
+değerlerini aşamaz.
+
+Tablo-1 Partikül Madde Konsantrasyonu ve İslilik Derecesi
+
+Yakma | Ölçüm Oksijen | Partikül İslilik ]
+
+Tesisinin ; Yöntemi İçeriği Madde Derecesi
+
+Isıl Gücü Hacimce | Konsantras (Ringelmann
+
+(KW) (4) yonu Skalası)
+(mg Nm?)
+
+IGS1S EKHLA.2 | 13 150 |
+
+Isıl gücü 15< IG <1000 kW olan katı yakıtlı yakma tesislerine
+ilişkin emisyon sınır değerleri aşağıda tablolar halinde verilmiştir:
+
+(1) Isil gücü 15< IG <1000 kW olan katı yakıtlı yakma tesisleri;
+yakıt besleme yeri ve yakıt yanma yeri ayrı yerlerde olup,
+kademeli yakıt beslemeli, birincil ve ikincil yanmayı
+sağlayacak şekilde tasarlanır.
+
+(A) Isl gücü 15<1G<1000 kW olan katı yakıtlı yakma
+tesislerinde, bu Tüzüğün 5 inci maddesinin (1)’ inci
+fıkrasının (A) bendinde belirtilenler ile (B) bendinin
+(a) alt bendinde belirtilen yakıtların kullanılması
+halinde bacadan atılan partikül madde konsantrasyonu
+ve islilik derecesi, tüm işletme şartlarında, aşağıdaki
+Tablo-2'de verilen sınır değerlerini aşamaz.
+
+[SAYFA 7]
+Tablo-? Partikül Madde Konsantrasyonu ve İslilik Derecesi
+
+Yakma Ölçüm | Oksijen Partikül Madde | Islilik
+Tesisinin Isıl | Yöntemi | İçeriği Konsantrasyonu | Derecesi
+Gücü (kW) Hacimce (mg/ Nm?) (Ringelmann
+(%) Skalası)
+15<1G<1000 | Ek- 8 150 1
+ULA.2
+(B) Isıl gücü 15<IG<1000 kW olan katı yakıtlı yakma
+
+tesislerinde, bu Tüzüğün Sinci maddesinin (1)’inci
+fıkrasının (B) bendinin (b),(c) ve (ç) alt bendlerinde
+belirtilen yakıtların kullanılması halinde bacadan
+atılan kirletici konsantrasyonlan, tüm işletme
+şartlarında, aşağıdaki Tablo-3’de belirlenen sınır
+değerlerini aşamaz.
+
+Tablo-3 Partikül Madde, Karbonmonoksit Konsantrasyonu ve
+İslilik Derecesi
+
+Yakma Ölçüm | Oksijen | Partikül CO İslilik
+Tesisinin Isıl Yöntemi | İçeriği Madde (mg/ | Derecesi
+Gücü (KW) Hacim Konsantrasyo | Nm?) | (Ringelmann
+
+ce (%) nu (mg/ Nm?) Skalası)
+15<1G<50 4000
+50<1G<i150 Ek- 2000
+
+HLA.2 13 150 1
+150<1G<500 1090
+500<1G<1000 500
+(C) Isıl gücü 15<1G<1000 kW olan katı yakıtlı yakma
+
+tesislerinde bu Tüzüğün S'inci maddesinin (1)’ inci
+fıkrasının (B) bendinin (f) alt bendinde belirtilen
+yakıtların kullanılması halinde bacadan atılan kirletici
+konsantrasyonları, tüm işletme şartlarında aşağıdaki
+
+Tablo-4'de belirlenen sınır değerlerini aşamaz.
+
+[SAYFA 8]
+Sıvı ve Gaz
+Yakıtlı Yakma
+Tesislerinde
+Uyulması
+Zorunlu Genel
+Kurallar ve
+Koşullar
+
+40
+
+Tablo-4 Partikül Madde, Karbonmonoksit Konsantrasyonu ve
+
+İslilik Derecesi
+
+Yakma Ölçüm | Oksijen | Partikül CO | İslilik
+Tesisinin Isıl | Yönle | İçeriği | Madde Derecesi
+Gücü (kW) mi | Hacim | Konsantras | (mg/ | (Ringelmann
+| yonu Nm: | Skalası)
+| ce(%) | (mg/Nm*) |)
+|
+|
+| 15<1GS1000 | Ek- | 15 150 4000 | |
+i HLA |
+| |
+
+DORDUNCU KISIM
+
+Sıvı ve Gaz Yakıtlı Yakma Tesisleri
+
+Sıvı ve gaz yakıtlı yakma tesisleri aşağıda belirtilen genel kurallara
+uymak zorundadırlar. Bu amaçla;
+
+(1) Sıvı ve gaz yakıtlı yakma tesisleri, mevcut teknik gelişmeler
+ışığında yakma tekniği konusunda alınacak önlemler ile azotoksit
+(NOx) konsantrasyonunu azaltıcı özellikler taşır.
+
+(2) 1 Ocak 2016 tarihinden önce kurulan, binaların veya odaların
+ısıtılmasında kullanılan, ısıl gücü (1G)<120 kW ve ısı taşıyıcısı sıvı
+olan, sıvı ve gaz yakıtlı yakma tesislerinde yalnızca kullanılan
+kazan-brülör birimi, kazan ve brülör için üreticinin verdiği bir
+belge ve bu Tüzüğe ekli Ek-IMl'ün B bendinin 2'nci maddesindeki
+yöntemi uyarınca yapılan test koşullarında elde edilen atık gaz
+miktarı içindeki azotoksit (NOx) aşağıdaki Tablo-5'te verilen sınır
+değerlerini sağlayacak şekilde kurulup çalıştırılır.
+
+[SAYFA 9]
+Buharlaştırma 10.
+Brülörlü Sıvı
+Yakıtlı o Yakma
+Tesisleri
+
+Püskürtme LI
+Brülörlü Sıvı
+Yakıtlı o Yakma
+Tesisleri
+
+4]
+
+Tablo- 5 Azotoksit (NOx) için Sınır Değerleri
+
+Yakıt Isıl Güç Test Esasları | Azotoksit
+(NOx) (NO2
+(kW) olarak)
+(mg/k Wh)
+Fucl-oil | tween Ek-.B.2 250
+Motorin 1G<120 Ek-[11.B,2 120
+Doğalgaz. 1G<120 Ek-İL.B.2 80
+
+(3) | Ocak 2016 tarihinde veya sonrasında kurulan veya eskisinin
+yerine yeni bir yakma tesisi konularak değiştirilen, binaların,
+odaların ısıtılmasında kullanılan, ısı taşıyıcısı sıvı olan ve ısıl gücü
+(IG)>400 kW olan sıvı ve gaz yakıtlı yakma tesisleri, yalnızca
+üreticinin vereceği bir belge ile, bu Tüzüğe ekli Ek-[IPiin B
+bendinin I'inci maddesinde tanımlanan yöntem uyarınca yapılan
+test sonucunda elde edilen verimlilik değeri % 91 (yüzde doksan
+
+bir)’i aşmadığı teyit edildiğinde kullanılır.
+
+Buharlaştırma brülörlü sıvı yakıtlı yakma tesisleri aşağıdaki şekilde
+
+kurulup çalıştırılır:
+
+(1) Bu Tüzüğe ekli Ek-lIVün A bendinin 3.Xinci maddesindeki
+
+yönteme göre elde edilen islilik derecesi 2’yi aşamaz,
+
+(2) Bu Tüzüğe ekli Ek-Pün A bendinin 3.3tüncü maddesindeki
+yönteme göre yapılan testlere göre atık gazlarda benzen türevleri
+
+bulunamaz,
+
+(3) Bu Tüzüğün 13'üncü maddesinde belirtilen atık gaz kaybı sınır
+
+değerlerine uyar.
+
+Püskürtme brülörlü sıvı yakıtlı yakma tesisleri, aşağıda belirtilen esaslar
+
+uyarınca Tablo-6’daki sınırlamalara uyması zorunludur. Bu amaçla;
+
+(1) Bu Tüzüğe ekli Ek-IIPitin A bendinin 3.3.inci maddesindeki
+
+yönteme göre elde edilen islilik derecesi Vi aşamaz,
+
+(2) Bu Tüzüğe ekli Ek-[I’tin A bendinin 3.3.3'üncü maddesindeki
+yönteme göre yapılan testlere göre atık gazlarda benzen türevleri
+
+bulunamaz,
+
+[SAYFA 10]
+Gaz Yakıtlı
+Yakma Tesisleri
+
+Atık Gaz ile Isı
+
+Kaybı
+Sınırlaması
+
+12
+
+ae
+
+13.
+
+42
+
+(3) Bu Tüzüğün 13'üncü maddesinde belirtilen atık gaz kaybı sinır
+değerlerine uyacak şekilde kurulup çalıştırılır.
+
+Tablo-6 Azotoksit (NOx), Karbonmonoksit (CO) ve Hidrokarbon
+(CxHy) için Sınır Değerleri
+
+Isıl Güç Azotoksit | Karbonmonoksit | Hidrokarbon | İslilik Atık
+(NOx) (CO) (CxHy) Derecesi Gaz
+° (mg/kWh) (Ringelmann ee by
+(ppm) Skalası) v
+(mg/kWh)
+(4)
+70<1G<1009 | 250 110 20 1 11
+15<IGS70 | 185 110 | 10 1 i
+Sınıf 1**
+15<1GS70 120 80 10 1 11
+Sınıf 2**
+15<1G<70 | 125 60 10 1 un |
+Sınıf 3** _
+
+(Sınıf)** Türk Standartları Enstitüsü veya EN Avrupa Birliği'nin ilgili standartlarında
+belirtilen sınıflar
+
+Gaz yakıtlı yakma tesisleri, bu Tüzüğe ekli Ek-ll’in A bendinin
+3.4tincti maddesindeki ölçüm yöntemine göre bu Tüzüğün 13° üncü
+maddesindeki atık gaz ile ısı kaybı sınır değerlerine ve aşağıdaki Tablo-
+7'de verilen sınırlamalara uyacak şekilde kurulup çalıştırılır.
+
+Tablo- 7 Azotoksit (NOx), Karbonmonoksit (CO), Hidrokarbon (CxHy)
+Konsantrasyonu ve İslilik Derecesi
+
+Isil Güç Azotoksit | Karbonmonoksit | Hidrokarbon | İslilik Atık Gaz
+(NOx) (CO) (CxHy) Derecesi ile
+
+(kw) NO (CH4) Isı Kaybı
+olarak) (mg/kWwh) (Ringelmann
+
+(ppm) Skalası) (%)
+
+img/kVvh)
+
+70<1G<1000 | 260 1070 20 1 9
+
+30<1G<70 26C - 20 1 9
+
+Sınıf 1**
+
+30<1G<70 200 - 20 1 9
+
+Sınıf 2**
+
+30<1GS70 | 150 - 20 1 9
+
+Sınıf 3**
+
+30<1G<70 100 - 20 1 9
+
+Sınıf 4** !
+
+(Sinif)** Türk Standartları Enstitüsü veya EN Avrupa Birliği'nin ilgili
+standartlarında belirtilen sınıflar.
+
+Sıvı ve gaz yakıtlı yakma tesislerinde, atık gaz ile 1s) kayıpları aşağıdaki
+sınırları aşamaz. Bu amaçla;
+
+(1) (A) Sıvı ve gaz yakıtlı yakma tesislerinde bu Tüzüğe ekli Ek-
+Hiün A bendinin 3.4*üncü maddesindeki ölçüm yöntemi ile
+
+[SAYFA 11]
+Ölçüm Noktası
+
+Ölçüm Cihazları
+
+15.
+
+43
+
+yapılan testlerden elde edilen atık gaz ile ısı kayıpları
+değerleri aşağıdaki Tablo-$'de verilen sınır değerlerini
+aşamaz.
+
+(B) Avrupa Birliği CE uygunluk işareti taşıyan ve Avrupa Birliği
+Uygynluk Beyanında, Avrupa Birliği'nin ilgili yönergesi
+bağlamında standart kazanla donatılmış bulunan sıvı veya
+gaz yakıtlı yakma tesisinde, aşağıdaki atık gaz ile ısı kaybı
+sınır degerine yakma tesisinin modelinden dolayı
+uyularnazsa, atık gaz ile ısı kaybı sınır değerine +1 tolerans
+verilir.
+
+Tablo- 8 Atık Gaz ile Isı Kaybı Sınırlamasına İlişkin Sınır
+
+Değerler
+
+Isıl Güç I Ani Gaz ile, ABCE Uygunluk Işareti Taşıyan
+Isı Kaybı İçin Standart Kazanlar İçin Auk Gaz ile Isı Kaybı
+
+(kw) İçin Sınır Değerler
+Sınır Değerleri
+15<IG<25 11 12
+25<1G<50 10 11
+{
+30 IG 19 10
+
+Yukarıdaki (1)’inci fıkradaki Tablo-8'de belirtilen hususlar ısıl
+gücü IG<15 kW olup, tek bir mekanın ısıtılmasında kullanılan
+veya ısıl gücü 1Gx28 kW olup, yalnızca kullanım suyu
+ısıtılmasında kullanılan yakma tesisleri için geçerli değildir.
+
+BEŞİNCİ KISIM
+Ölçüm ve Kontrol
+
+(1) Bu Tüzüğün 16'nci ve 17’nci maddeleri uyarınca yapılması
+gereken ölçüm için Daire, vakma tesisinin işletmecisi veya
+sahibinden yakma tesisinde bir ölçüm noktası açmasını talep
+eder. Bu ölçüm noktası, bu Tüzüğe ekli Ek-I/de belirtilen
+koşullara uygun olur.
+
+(2) Bir yakma tesisinde birden çok sayıda baca kanalı varsa her
+baca kanal: için birer ölçüm noktası açılır.
+
+Ölçüm cihazlarının kalibrasyonlu olması esastır. Bu amaçla;
+
+(1) Bu Tüzüğün 16'nci ve 17'nci maddeleri uyarınca ölçümler,
+uygun ölçüm cihazlarıyla yapılır. İslilik derecesinin
+belirlemesinde kullanılan ölçüm cihazlarında filtre kâğıdı
+bir uygunluk testine dahil edilir. Yakma havası sıcaklığının
+iespili için uygunluğu kontrol edilmiş bir ölçüm cihazı
+yerine ayarı yapılmış bir cıvalı termometre de kullanılabilir.
+
+[SAYFA 12]
+Tesislerde Ölçüm ve 16.
+
+Kontrol
+
+Periyodik o Ölçümler 17.
+
+ve Kontroller
+
+Ölçüm Sonuçlarının 18.
+
+Bildirimi
+
+44
+
+(2) Kullanılan ölçüm cihazlarının kontrolü, muayenesi ve
+ayarları yılda en az bir kere akredite edilmiş veya Daire
+tarafından uygun görülen laboratuvarlarda yapılır.
+
+Yakma tesislerinde ölçüm ve kontrole ilişkin koşullar aşağıda
+
+düzenlenmiştir:
+
+(1) İsi gücü (G)>!5 kW olan, kurallar ve koşulları bu Tüzüğün
+& inci maddesinin (I)inci fıkrası veya 10°’uncu, | inci,
+IZ2'nci ve I'üncü maddelerine göre düzenlenmiş olan bir
+yakma tesisinin sahibi veya işletmecisi, bu Tüzükte
+düzenlenen ilgili kural ve koşullara uygunluğunu ilk
+çalıştırma sonrasındaki dört hafta içinde emisyon ölçüm
+yetkilisine ölçümleri yaptırır.
+
+(2) Yukarıdaki (1Y'inci fıkrada belirtilen hususlar;
+
+(A) İsil gücü <15 kW olan ve tek bir mekanın ısıtılmasında
+veya kullanım suyu ısıtılmasında kullanılan yakma
+tesisleri,
+
+(8) o Metanol, etanol, hidrojen, kerosen, gazyağı, biyogaz,
+arıtma gazı, grizu, kok çelik gazı, yüksek fırın gezi
+veya rafineri gazı kullanılan yakma tesisleri ile
+doğalgaz veya petrol gazı ısısının elde edildiği yerde
+Kullanılan yakma tesisleri,
+
+(C) Su Tüzüğün 13'üncü maddesi uyarınca atık gaz ile isi
+kayoı sınırlamaları ile ilgili kural ve koşullara
+uyulduğunun tespit edilmesi halinde yoğuşmalı yakma
+tesisi olarak kurulmuş bulunan yakma tesisleri,
+
+için geçerli değildir.
+
+(3) Olctimier, bu Tüzüğe ekli Ek-Il] uyarınca yakma tesisinin
+normai çölişma koşullarında yapılır. Emisyon ölçüm yetkilisi
+ölçümlerin sonuçlarını, bir belge tanzim ederek yakma
+tesisinin sahibine veya işletmecisine verir, Ölçüm sonuçları
+bu Tüzükte belirtilen sınır değerlerini aşamaz.
+
+Isıl gücü (IG)>15 kW olan katı ve srvi ile ısıl gücü (IG)>30 kW
+olan gaz yakıtlı yakma tesislerinin sahibi veya işleticisi, bu
+Tüzükteki koşullar ve kurallar uyai ınca yakma tesisinin bakımını,
+onarımını, bacanın temizlenmesini ve baca gazı ölçümlerini
+bakım, owarirn, baca ternizleme ve emisyon ölçüm yetkisine sahip
+gerçek ve üüzel kişijere yaptırır. Bakım, onarım, baca temizleme
+ve baca gazı ölçümleri yılda bir kere yapılır.
+
+Emisyon öiçüm yetki belgesine sahip gerçek ve tüzel kişiler,
+ölçüm sonuçuarını her yıl Daireye bildirir.
+
+[SAYFA 13]
+Atık Gazların 19,
+
+Bacadan Dışarı
+Atılma Koşulları
+
+18/2012
+30/2014
+04.09.2015
+R.G. 132
+
+EK Hİ
+A.E 580
+
+Isınma Amaçlı Kömür 20.
+İthali
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+45
+
+ALTINCI KISIM
+Son Kurallar
+
+(A) Yakma tesisi sahibi, ısınma sezonu öncesi yılda en az
+bir kere. yakma tesisinin bakım, onarım ve baca
+temizliğini yapar veya yaptırır. Isıl gücü (1G)>15 kW
+olan katı ve sıvı ile ısıl gücü (1G)>30 kW olan gaz
+yakıtlı yakma tesislerinin bakım, onarım ve baca
+temizliği yapıldıktan sonra durum Daireye bildirilir.
+
+(B) Yakma tesisinin ısıl gücü (G)<Ii MW olan yakma
+tesislerinde atık gaz bacasının yüksekliği;
+
+(a) (Eğik çatı olması durumunda, çatının en yüksek
+noktasından en az 0,5 metre daha yüksek, baca
+çatının tepe noktasına çok yakın değilse, çatı
+tabanından en az Im yüksekliğinde,
+
+(oy o Düz çatı olması durumunda, otuz derecelik çatı
+varsayıarak, baca yüksekliği çatının en yüksek
+noktasından itibaren en az 1,5 metre
+yüksekliğinde,
+
+olmalıdır.
+
+Isıl gücü IG)>1 MW olan yakına tesislerinde atık gaz çıkış
+
+bacasının yüksekliği için Çevre Yasası altında düzenlenen
+
+Hava Kirliliğinin Kontrolu ile ilgili Tüzüğün kuralları
+
+geçerliüir.
+
+Yakma mekanizmalarının baca yüksekliği ve konumu
+komşu (o taşınmazı veya faaliyeti veya kişileri rahatsız
+elmeyecek ve hava kirliliğine maruz bırakmayacak şekilde
+olur. Bu amaçla Daire, yakma mekanizmasının sahibi veya
+işletenindeni gerekli tedbirleri almasını ve Dairenin
+belirleyeceği koşullara uymasını ister. Bu tedbirler ve
+koşullar yukarıdaki (1Y'inci fıkrada belirtilenlerden farklı
+ve/veya daha katı olabilir.
+
+Dâire; yakına mekanizmalarının bacasından veya herhangi
+oir Ünitesinden kaynaklanan etkilerin komşu bir taşınmaza
+veya laaliyete veya kişilere zarar venmemesi için Dairenin
+öngördüğü gerekli tedbirlerin alınmasını bu mekanizmanın
+sahib: veya işleteninden ister.
+
+Yakma mekanizmasının sahibi veya işleteni Dairenin
+yukarıdaki (3)üncü ve (4)'üncü fikralardaki isteklerini
+yerine getirmek zorundadır.
+
+Bu Tüzüğün Sinci maddesinin (1 Y'inci fikrasinm (A) bendinde
+
+belirtilen, ısınma amaç kuilanilacak olan kömürün aşağıdaki
+Tablo-$*da düzenlenen özellikleri taşıması zorunludur.
+
+[SAYFA 14]
+Biyokütle
+
+46
+
+Tablo-9 Isınma Amaçlı İthal Taş ve Linyit Kömürün Özellikleri ve
+Sınırları
+
+Özellikler Sınırlar
+
+Toplam Kükürt (kuru bazda) | Ençok % 0,9 (+0,1 tolerans)
+
+Alt Isıl Değer (orijinalde) En az 6400 Keal/kg  (-200
+i tolerans)
+Uçucu Madde (kuru bazda) | % 12-31 (+ | tolerans)
+|
+| Toplam Nem (orijinalde) | Ençok % 10 (+ | tolerans)
+| |
+Kül (Kuru bazdaj “Ençok %16 (<2 tolerans)
+| Boyut | 18-150 mm (en çok 494 10|
+| : tolerans)
+
+|
+
+Bu Tüzüğün Sinci maddesinin (1)’inci fıkrasının (B) bendinin Çİ)
+alt bendinde belirtilen prina briketi özellikleri aşağıdaki
+Tablo-10’da verilen sınır değerleri sağlamalıdır. Prina dışındaki
+diğer biyokütlelerden elde edilen briketlerin analiz sonuçları,
+Daire tarafından değerlendirilerek kullanılıp kullanılmayacağına
+karar verilir.
+Tablo-10 Prina Briketi Özellikleri (kuru bazda) ve Sınırlar:
+
+Özellikleri | Sınırlar
+| |
+
+Alt Isıl Değer 1 3700 Kcal/ke (min.)
+
+Nem (orijinaide) il 19415 (max.)
+
+Yağ , %1.5 (max.)
+
+Sodyum (Na) 300 ppm (max)
+
+Boyut !6 mm (min.) (6mm’den küçük
+i ağırlıkça %5’i geçemez, ancak
+
+| i mekanik beslemeli (o yakma
+tesisleri için “© 50'ye kadar
+
+| olabilir.)
+
+[SAYFA 15]
+Denetim ve Yaptırım 22.
+18/2012
+
+30/2014
+
+18/2012
+
+30/2014
+
+Yakıtların Analizi 23
+
+Yürütme Yetkisi 24.
+Yürürlüğe Giriş 25.
+
+47
+
+Yakma tesislerinin sahibi veya isleticisinin, faaliyetlerini bu
+Tüzük kuralları çerçevesinde yerine getirilip getirilmediğinin
+tespiti, hava kirliliğinin kontrol edilmesi ve komşu taşınmazın
+veya faaliyetin veya kişilerin bu kirlilikten etkilenmesinin
+önlenmesi amacıyla aşağıdaki esaslar çerçevesinde tesis Daire
+tarafından denetlenir:
+
+(1) Denetleme Çevre Yasası kurallarına göre yapılır.
+
+(0) Yakma tesislerinin sahibi veya işleticisi;
+
+(A) Daire'nin görevlendirdiği kişilerin yakma tesisinin
+bulunduğu yere girmesi için izin vermeye,
+
+(By Emisyon ve hava kalitesi değerlerinin belirlenmesi
+“© maksadı ile görevli kişiler tarafından testler
+yapılmasına izin vermeye ve kolaylık göstermeye,
+
+(C) Görevli kişilere Çevre Yasası kapsamında istenen ve
+
+gerekli olan doküman ve bilgileri vermeye,
+
+- (Ç) Denetimle ilgili görevli kişilerin örnek (numune)
+almasına, yakma tesisinde ve bacasında kontroller
+yapmasına izin vermeye,
+
+mecburdur.
+
+(5) Daire, bu Tüzükte belirlenen kurallara uygun olmayan
+yakıtları satışa sunanları denetlemek ve haklarında yaptırım
+uygulamakla yetkilidir.
+
+(1) Daire ; vapılacak denetimlerde kat yakıtın torbalandığı,
+depolandığı, taşındığı ve satışının yapıldığı yerlerden
+usulüne uygun yakıt numunelerini almak ve analizlerini
+akrediiz o olmuş eya Oavenin Ouygun Oogördüğü
+laboratuvarlarda yapmak veya yaptırmak ve belirlenen sınır
+değerleri sağlamayan yakıtlar için gerekli işlemi yapmakla
+yetkilidir.
+Daire; hava kirliliği açısından gerektiğinde sıvı yakıtlı
+yarma sistemier inin depolarından usulüne uygun numune
+alır ve analizlerini akredite olmuş veya Dairenin uygun
+gördüğü iab oratu varlarda yapar veya yaptırır ve belirlenen
+sh değerleri sağlamayan sıvı yakrlar için gerekli tutanağı
+tuiup Araryakıt Birimi'ne bildirir,
+
+eN
+No
+we
+
+Bu Tüzük. Bakanlık tarafından yürürülür.
+
+Bu Tüzük, Resmi Gazete'de yayırclandıkı teribten başlayarak
+yürürlüğe
+
+fog
+“OY D
+
+[SAYFA 16]
+48
+
+İSLİLİK DERECESİ (RINGELMANN SKALASI) EK-I
+
+Ringelmann Skalasında, Sıfır (0) ile beş alan içinde beyaz ile siyah arasındaki gri değerler
+bulunur. Gri renk oranı bu alanlarda şöyledir:
+
+Gri Değeri (9) 0 20 40 60 | 86 100
+| !
+| |
+İslilik Derecesi 0 1 2 3 | 4 5
+(Ringelmann Skalası)
+
+EK-H
+
+OLCUM NOKTASI
+
+1) Ölçüm noktası, yakma tesisi ile baca arasındaki bağlantıyı sağlayan boru üzerinde yapılır.
+Ölçüm noktası, yakma tesisi atık gaz çıkış borusundan itibaren boru çapının yaklaşık iki kati
+mesafede olur. Eğer yakma tesisi ile baca arasında, ısı değiştirici veya atık gaz arıtma tertibatı
+
+varsa ölçüm noktası bu tertibatlardan sonra yine boru çapının iki katı mesafede yapılır.
+
+2) Ölçüm noktasındaki atık gazın türbülanslı bir rejimde olması durumunda, atık gaz ısı
+kaybının olmaması koşuluyla ölçüm noktası yukarıdaki I’inci maddede belirtilen mesafeden
+biraz daha ileriye kaydırılabilir.
+
+3) Ölçüm noktasında, ölçümleri önemli ölçüde olumsuz etkileyecek toz veya kurum birikmesi
+olmamalıdır.
+
+[SAYFA 17]
+49
+EK-LUİ
+
+A) ISLETMEDEKI OLCUMLERIN YAPILIŞI HAKKINDA KOŞULLAR VE KURALLAR
+1) Genel Kurallar
+
+1.0 Ölçümler, ölçüm noktasındaki atık gaz akım (merkezinde) çekirdeğinde yapılır. Yakma
+tesisinde birden çok ölçüm noktası varsa, ölçümler her ölçüm noktasında yapılır.
+
+1.2) Ölçümlerden önce ölçüm cihazının çalışıp çalışmadığı kontrol ve kalibre edilir. Yakma
+tesisi üreticisinin kullanım kılavuzundaki talimatlarına uyulur.
+
+1.3) Ölçümler, ısıl gücünde, ayarlanabilir en yüksek ısıl gücünde, yakma hiç aksatılmadan ve
+yakma tesisi sürekli çalışma rejiminde iken, sonuçlar temsil niteliğine sahip olabilecek ve
+benzer yakma tesislerinde ve kullanım koşullarında birbirleriyle karşılaştırılabilecek şekilde
+yapılır.
+
+1.4) İşletme durumunun değerlendirilebilmesi için, atık gaz ve yanma havası arasındaki
+basınç farkı ile atık gazın sıcaklığı da ölçülmelidir. Aşağıdaki 3.4.1 maddesi gereğince
+yapılacak sıcaklık ölçümlerinin sonuçları kullanılabilir. Ölçüm işlemi devam ederken ölçüm
+cihazı üzerinde gözüken yakma tesisinin iç veya arkasındaki ısı akümülatörüne ait sıcaklık
+kayda geçirilir. Çok kademeli yakma tesislerinde veya kademesiz ayarlanabilen brülörlerde
+ölçüm sırasında elde edilen güç de kayda geçirilir.
+
+1.5) Ölçüm programı daime sonuna kadar yürütülüp tamamlanır. Negatif sonuçlar veren
+ölçümler çıksa da ölçümlere devam edilir.
+
+2) Katı Yakıtlı Yakma Tesislerinde Ölçümler
+
+2.1) Yukarıdaki A bendinin 1.3'üncü maddesindeki koşulların yerine getirilmesi samecıyla,
+elle beslenen ve yanma kaybi üsten olan yakma tesisierinde ölçümlere, yakma tesisi
+üreticisinin kullanım kılavuzunda belirttiği en büyük yakıt miktarı beslendikten ve bu yakıtın
+yanması için gerekli tutuşma ısısının akkor tabakasına ulaşmasından beş dakika sonra
+başlanır.
+
+[SAYFA 18]
+50
+
+2.2) Ölçüm noktasında, emisyon ölçümleri yapılırken €ş zamanlı olarak atık gaz içindeki
+oksijen içeriği tespit edilir. Bu ölçümler on beş dakikalık aralıklarla yapılır ve en az beş ölçüm
+alınır. Toz haldeki emisyonlar gravimetrik olarak belirlenir. Bunun için incelenecek atık
+gazdan özel bir numune alma cihazının yardımıyla yeterli miktarda atık gaz alınır ve bir cam
+elyaf filtreli kovan yardımıyla aktarılır. Ölçülen emisyonlar aşağıdaki formül ile referans
+oksijen miktarına göre emisyona dönüştürülür.
+
+[ EB= (01-0: B)/ 21-02) * EM
+
+Oksijen miktarı yerine atık gaz içindeki karbondioksit miktarı da ölçülebilir. Bu
+durumda, ölçülen emisyonlar aşağıdaki formül ile referans oksijen miktarına göre
+emisyona dönüştürülür:
+
+| EB= CO, max * ((21-O2B) / (21-O2)) * EM
+
+Birimlerin açıklamaları:
+
+EB= Standart oksijen miktarına göre emisyon (m g/m?)
+
+EM= Ölçülen emisyon (mg/m*)
+
+O2B= Standart oksijen iniktarı yüzdesi (%)
+
+Oz Kuru atık gaz içindeki oksijenin yüzdesi (%)
+
+CO Kuru atık gaz içindeki karbondioksit yüzdesi (94)
+
+CO2max= er bir vakıt işin kuru atık gaz içindeki maksimum karbondioksit
+
+yüzdesi (%)
+
+[SAYFA 19]
+(Yakıt İsmi CO) max
+(%)
+Antrasit, yağsız maden kömürü 19,2
+Diğer taş kömürleri 18,7
+Tas kömürü briketi 18,9
+Tas kömürü koku 20.5
+Linyit kömürü ürünleri ve turba ürünleri | 19.8
+Odun yakıtlar, bitkisel maddeler i 20,3
+
+3) Sıvı ve Gaz Yakıtlı Yakma Tesislerinde Ölçümler
+
+3.1) Yukarıdaki A bendinin 1.3tüncü maddesindeki koşulları yerine getirebilmek amacıyla
+püskürtme brülörlü sıvı ve gaz yakıtlı yakma tesislerinde ölçümlere en erken, brülör açıldıktan
+iki dakika sonra ve buharlaştırma brülörlü sıvı yakıtlı yakma tesislerinde ise ısıl güç
+ayarlandıktan iki dakika sonra başlanır. Ölçümlerde beş dakikalık ortalamalar alınır ve ölçüm
+süresi en az 1(bir) saat olur. Sıcak su ısıtma tesislerinde ölçümlere başlanırken kazandaki su
+sıcaklığı en az altmış derece olur. Bu, özellikler ve kurallar gereği kazanı altmış derecenin
+altında çalıştırılan su ısıtma tesisleri için geçerli değildir (kayan düzenlemeli düşük sıcaklıklı
+kazan, yoğuşmalı yakma tesisleri).
+
+3.2) İslilik derecesi, DIN 51402 (Sw Yakıt Yakma Sistemlerinin Baca Gazının Test
+Edilmesi; İslilik Derecesinin Görsel ve Fotometrik Olarak Tespit Edilmesi Alman Standardı)
+Kısım deki yönteme göre görsel olarak tespit edilmelidir. Üç ölçüm vapılır. Kullanılan
+filtre kâğıdının, kondenzasyon oluşumu nedeniyle belirgin bir şekilde nemlenmiş olması
+halinde veya dengesiz bir siyahlaşma arz etmesi halinde dördüncü bir ölçüm yapılır. Bu
+ölçümlerin aritmetik ortalaması alınır. En yakın tam sayıya yuvarlanan sonuç, bu Tüzükteki
+islilik derecesini aşmamışsa, bu Tüzüğe uygun demektir.
+
+3.3) Atık gazlarda benzen türevlerini bulunup bulunmadığını tespit amacıyla yapılacak
+testlerde, islilik derecesi tespit edilirken kullanılan filtre kâğıdından yararlanılır. Önce
+kullanılmış filtre kâğıdında çıplak gözle benzen türevi olup olmadığı incelenir. Bir renk
+
+değişikliği fark edilirse islilik derecesi tesnitinde kullanılan filtre kağıdı atılır. Kesin bir karara
+varmak mümkün gözükmezse islilik derezesi tespitinden sonra DIN 51402 (Sıvı Yakıt Yakma
+Sistemlerinin Baca Gazının Test Edilmesi; İslilik Derecesinin Görsel ve Fotometrik Olarak
+Tespit Edilmesi Alman Standardı) Kısım 2 uyarınca akıcı madde testi yapılır. Üç filtre
+numunesinin hiç birinde de benzen iürevine vastlanmazsa, vu Tüzük kurailarina uyulmuş
+sayılır.
+
+[SAYFA 20]
+Nn
+to
+
+3.4) Atık Gaz ile Isı Kayıplarının Tespiti
+
+3.4.1) Atık gazın oksijen miktarı ve atık gaz sıcaklığı ile yanma havası sıcaklığı arasındaki
+fark tetkik ve tespit edilir. Bu amaçla oksijen miktarı ve atık gaz sıcaklığı aynı zamanda ve tek
+bir noktada ölçülür. Oksijen miktarı yerine atık gazın karbondioksit miktarı da ölçülebilir.
+Yanma havasının sıcaklığı ısı üreticinin emiş noktası yakınında, oda sıcaklığından bağımsız
+yakma tesislerinde ise besleme borusunda herhangi uygun bir yerde ölçülür.
+
+3.4.2) Atık gaz kayıpları, oksijen miktarı ölçülürken şu formüle göre hesaplanır:
+
+| GAZA Si) * (A2/@1— 02) +B)
+
+Oksijen miktarı yerine karbondioksit miktarı ölçülürse hesaplama şu formüle göre
+yapılır:
+
+gA= (t4. -HA* (Al /CO2) +B)
+
+Birimlerin açıklamaları:
+
+qaA= Atık gaz kaybı (%)
+tA= Atık gaz sıcaklığı (°C)
+tL= Yanma havası s'zaklığı CC)
+CO2= Kuru atık gaz içindeki karbondioksitin oranı (%)
+025 Kuru atık gaz içindeki oksijenin oranı (%
+Fuel-oil Doğalgaz  Sebeke gazı (o (Kokhanecazı (Sıvı gaz ve sıvı
+(havagazı) gaz-hava
+karışımı
+Al (0,50 0,37 G.35 0,29 0,42
+A2 (0,68 pee 0,63 0,60 0,63
+B 0,007 0,609 eon U,011 0,008
+
+Auk gaz kaybı hesabının sonucu yuvarlanır. 6,56'ye kadar olar. ondalık değerler aşağı, daha
+büyük ondalık sayılar ise yukarı yuvarlanır. Yuvarlanmış sonuç, tespit edilmiş atık gaz kaybı
+sınır değerini +%oltoleransi, körüksüz brülörlü yakma tesisi tesislerinde ise +%2 toleransı
+aşmamıışsa, bu Tüzüğe uygun kabul! #dilir. Atık gaz içindeki oksijen miktarı “11'i aşarsa
+veya atık gaz içindeki karbondioksit miktarı her bir yakıtta aşağıdaki değerlerden daha düşük
+çıkarsa, tolerans değerler 1,5 katına çıkartılır.
+
+[SAYFA 21]
+Fuel-oil Doğalgaz : Şebeke gazı | Kokhane gazı |Sivi gaz ve sıvı
+(havagazı) gaz-hava
+karışımı
+CO2 ©) 7,3 5,6 5,5 4,8 6,7
+
+B) TEST KOSULLARINDA VERIMLILIGOS VE AZOTOKSIT (NOX) MİKTARININ
+BELIRLENMESI
+
+1) Verimliliğin Belirlenmesi
+
+1.1) Verimlilik, DIN 4702 (Merkezi Isıtma Sistemi; Standart Verimliliğin ve Standart
+Salıcılık Tespit Edilmesi Alman Standardı ) Kısım 8 uyarınca belirlenir.
+
+1.2) Verimlilik, kazan tipi için belli bir test düzeneğinde veya her vir kazan için kurulu
+durumdaki bir yakma tesisinde belirlenebilir. Verimlilik, kurulu durumdaki bir yakma
+tesisinde belirlenecekse, test düzeneğinde geçerli olan kurallar duruma özgü şekilde bunun
+için de geçerlidir.
+
+1.3) Belirleme yönteminin belirsizliği tetkik edilen verimlilik yüzdesi değerinin % 3 (yüzde
+üç)'ünü aşamaz. Tetkik edilen değerlere “3 (yüzde üç) belirsizlik de eklendiğinde tespit
+edilmiş sınır değerleri aşmıyorsa verimliiğir. voting getirilmiş olduğu kabul edilir.
+
+2) Azotoksit (NOx) Miktarının Belirlenmesi
+
+2.1) Emisyon testi bir brülör tipi için TS EN 267 (Brülörler-Sıvı Yakıtlar İçin-Otomatik Cebri
+Çekişli Türk Standardı)'ye göre veya bu zormun amacına uygun bir şekilde uygulanması
+koşuluyla test amaçlı alev borusu üzerinde yapılır. Üreticinin seçtiği ve test edilmiş bir
+brülörü bulunan kazanın tipi ile kazan-brülör birimi (ünitesi) test düzeneğinde bu normun
+amacına uygun bir şekilde uyarlanarak test edilir.
+
+2.2) Yukarıdaki B bendinin 2.1'inci madde uyarınca yapılacak testler her bir brülör veya
+brülör-kazan kombinasyonu için, kurulu bulunan mevcut bir yakma sisteminde TS EN 267
+(Brülörler-Sıvı Yakıtlar İçin-Otomatix Cebri Çekişli Türk StandardıYye uygun bir şekilde
+yapılabilir.
+
+2.3) Ölçüm cihazlarının kalibrasyonu için serliiikai kalibrasyon gazı kullanılır. Gaz yakıtlı
+brülörlerde ve gaz yakıtlı brülör-kazan-kombinasyonlarında test gazı olarak G20 (metan)
+kullanılır.
+
+2.4) Atık gazdaki azotoksit (NOx) konsantrasyonu, TS EN 267 (Brülörler-Sıvı Yakıtlar İçin-
+Otomatik Cebri Çekişli Türk Standardı)'deki ölçüm toleransları da dikkate alınmak suretiyle;
+
+2.4.1) Tek kademeli brülörlerde, çalısma alanındaki test noktasında elde edilen değerler, tespit
+edilmiş bulunan sınır değerleri agrntyorsa,
+
+[SAYFA 22]
+54
+2.4.2) Kazanlarda ve Pear briler birimlerinde DIN 4702 (Merkezi Isttma Sistemi; Standart
+Verimliliğin ve Standart Salıcılık Tespit Edilmesi Alman Standardı ) Kısım 8 uyarınca veya
+çok kademeli ve modülasyonlu brülörlerce bu norma dayanılarak elde edilen norm-emisyon
+faktörü EN tespit edilmiş bulunan sınır değeri aşmıyorsa,
+
+bu Tüzük kuralları yerine getirilmiş sayılır.
