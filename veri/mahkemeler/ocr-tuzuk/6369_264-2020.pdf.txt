@@ -1,0 +1,415 @@
+[SAYFA 1]
+ow 671
+Sayı : 264 si ii
+TELEKOMUNIKASYON SERVİSİ YASASI
+(Fasıl 302, 20/1960, 34/1962 ve 25/1963 Sayılı Yasalar)
+Madde 43 Altında Yapılan Tüzük
+
+Kuzey Kıbrıs Türk Cumhuriyeti Bakanlar Kurulu, Telekomünikasyon Servisi
+Yasası'nın 43'üncü maddesinin kendisine verdiği yetkiye dayanarak aşağıdaki
+Tüzüğü yapar:
+
+Kısa İsim 1. Bu Tüzük, Telekomünikasyon Hizmetleri Ücretleri ve
+Uygulama (Değişiklik) Tüzüğü olarak isimlendirilir ve aşağıda
+31.7.2018 “Esas Tüzük” olarak anılan Telekomünikasyon Hizmetleri
+
+li > Ücretleri ve Uygulama Tüzüğü ile birlikte okunur.
+
+A.E.724
+28.2.2019
+R.G.27
+EKN
+A.E.151
+14.3.2019
+R.G.34
+EKM
+A.E.180
+28.3.2019
+R.G.43
+EKM
+A.E.231
+30.4.2019
+R.G. 61
+EK I
+A.E.343
+31.10.2019
+R.G. 154
+EKM
+A.E. 831
+31.12.2019
+R.G.190
+EKM
+A.E.962
+
+Esas 2.Esas Tüzük 2'nci maddesine bağlı Cetvelde, “Tesis, Kira ve
+Tüzüğe Sabit Ücretler” başlıklı KISIM II’nin 2.11.7nci maddesinde
+Ekli Cetvel'in düzenlenen “DDOS Atak Önleme Hizmeti Ücretleri”
+Değiştirilmesi kaldırılmak ve yerine bu Tüzüğe ekli yeni “DDOS Atak
+Önleme Hizmeti Ücretleri” konmak suretiyle değiştirilir.
+
+Yürürlüğe 3. Bu Tüzük, 17.04.2020 tarihinden başlayarak yürürlüğe girer.
+Giriş
+
+[SAYFA 2]
+612
+
+2.11.7. DDOS ATAK ÖNLEME HİZMETİ ÜCRETLERİ
+
+A- EKONOMİK DDOS ATAK ÖNLEME PAKETİ YENİ ÜCRET
+
+EKONOMİK DDOS ATAK ÖNLEME
+
+PAKETİ 12 Ay Taahhütlü
+Erişim TAAHHÜTSÜZ TAAHHÜTLÜ
+Aralığı Hız giriş Aylık Tarife Fiyatı (TL)
+Bilgisi (Mbps)
+
+5 151 76
+
+6 165 83
+
+7 173 87
+
+8 182 91
+
+9 185 92
+
+10 193 96
+
+15 254 127
+
+20 304 152
+
+30 U 412 206
+40 i 516 258
+
+50 F 619 309
+
+60 E 743 371
+
+70 4 855 427
+
+80 j 985 493
+
+90 İ 1.081 541
+100 1 1.135 568
+
+4
+
+B- PREMIUM DDOS ATAK ÖNLEME PAKETİ YENİ ÜCRET
+
+PREMIUM DDOS ATAK ÖNLEME PAKETİ 12 Ay Taahhütlü
+Erişim | TAAHHÜTSÜZ TAAHHÜTLÜ
+Aralığı Hız dik Aylık Tarife Fiyatı (TL)
+Bilgisi (Mbps)
+5 i 216 108
+6 | 236 118
+7 : 247 124
+8 259 130
+9 264 132
+10 275 138
+15 363 181
+20 434 217
+30 588 294
+40 737 369
+50 885 442
+60 1.061 530
+70 1.221 611
+80 1.408 704
+90 1.545 772
+
+[SAYFA 3]
+673
+
+100 1.622 811
+125 1.996 ği 998
+150 2.313 1.156
+200 2.776 1.388
+250 3.224 1.612
+300 3.638 1.819
+350 3.998 1.999
+400 4.276 2.138
+450 4.620 2.310
+500 4.947 2.474
+600 5.416 2.708
+700 5.848 2.924
+800 6.262 3.131
+900 6.703 3.352
+1000 7.108 3.554
+1250 8.388 4.194
+1500 9.323 4.661
+2000 11.880 5.940
+2500 13.668 6.834
+3000 15.180 7.590
+4000 19.360 9.680
+5000 22.550 11.275
+7000 29.260 14.630
+10000 39.050 19.525
+12500 a 45.375” 22.688
+15000 51.150 25.575
+17500 55.825 27.913
+20000 59.400 29.700
+25000 70.125 35.063
+30000 80.190 40.095
+40000 99.000 49.500
+50000 117.700 58.850
+60000 132.000 66.000
+70000 143.990 71.995
+80000 147.840 73.920
+90000 158.400 79.200
+100000 165.000 82.500
+C- PREMIUM+ DDOS ATAK ÖNLEME PAKETİ YENİ ÜCRET
+PREMIUM+ DDOS ATAK ÖNLEME 12 Ay Taahhütlü
+PAKETİ
+Erişim TAAHHÜTSÜZ TAAHHÜTLÜ
+Aralığı Hız iat Aylık Tarife Fiyatı (TL)
+Bilgisi (Mbps)
+5 282 141
+307 153
+
+[SAYFA 4]
+674
+
+7 322 161
+8 337 168
+9 343 172
+10 358 179
+15 472 236
+20 565 282
+30 764 382
+40 958 479
+50 1150 575
+60 1379 689
+70 1588 794
+80 1830 915
+90 2008 1.004
+100 2109 1.054
+125 2594 1.297
+150 3006 1.503
+200 3609 1.804
+250 4190 2.095
+300 4730 2.365
+350 5198 2.599
+400 5559 2.779
+450 6006 3.003
+500 6431 3.216
+600 7041 3.520
+700 7602 3.801
+800 8140 4.070
+900 8714 4.357
+1000 9241 4.620
+1250 10904 5.452
+1500 12120 6.060
+2000 15444 7.722
+2500 17769 8.884
+3000 19734 9.867
+4000 25168 12.584
+5000 29315 14.658
+7000 38038 19.019
+10000 50765 25.383
+12500 58988 29.494
+15000 66495 33.248
+17500 72573 36.286
+20000 77220 38.610
+25000 91163 45.581
+30000 104247 52.124
+40000 128700 64.350
+50000 153010 76.505
+60000 171600 85.800
+70000 187187 93.594
+80000 192192 96.096
+
+[SAYFA 5]
+675
+
+90000 205920 102.960
+
+100000 214500 107.250
+
+DDOS paketi kapsamında;
+
+e (Ekonomik paket kapsamında;
+
+o Aylık raporlama ve yedek koruma hizmeti ücretsizdir.
+
+© Client to site VPN, IP Zone ve profosyonel raporlama hizmetleri ücretlidir.
+
+© Premium paket kapsamında;
+© Aylık raporlama, 1 adet Client to site VPN, Cloud Signalling ve yedek koruma
+hizmeti ücretsizdir. Bunların dışında eklenti olarak talep edilen tüm hizmetler ücretlidir.
+
+e Premium+ paket kapsamında;
+
+© Haftalık raporlama, 5 adet Client to site VPN, Cloud Signalling, Cloud DDOS ve yedek
+
+koruma hizmeti ücretsizdir. Bunların dışında eklenti olarak talep edilen hizmetler ücretlidir.
+
+Abonelik boyunca bir kez DDOS Atak Simülasyonu hizmetinden dilediği paketi ücretsiz kullanabilecekdir.
+
+DDOS Atak önleme kapsamında eklenti hizmet tarife fiyatları;
+
+se Client to site VPN ücreti client başına 125 tl dir.
+
+e (Profosyonel raporlama hizmetini tek seferlik olup adam/gün ücretinin 590
+
+TLileçarpımı faturalandırılır. Adam/Gün ücreti proje bazlı olarak aboneye
+
+iletilir ve uygun görülmesi halinde projelendirilerek aboneye faturalandırılır.
+
+e o CloudAnti-DDOS hizmeti, abonenin seçmiş olduğu aylık DDOS paket ücretinin 9630 u olarak faturlandırılır.
+s Cloud Signalling hizmeti aylık tarife ücreti 590 TL dir.
+
+e oGünlükraporlama hizmeti aylık tarife ücreti 118 TL dir.
+
+e İnline Koruma, abonenin seçmiş olduğu aylık DDOS paket ücretinin abonenin İlettiği IP Sayısı ile çarpımı
+olacak şekilde faturalandırılır.
+
+e — IP Zone hizmeti, 0-100Mbps için 2 adet, 101-1000Mbps için 3 adet, 1001 Mbps için 4 adet ücretsizdir.
+
+Abonenin bu adetlerin üzerinde IP Zone talebi olması halinde; her IP Zone başına DDOS Aylık Paket Ücretinin
+2010 u olarak ücretlendirme yapılır.
+
+[SAYFA 6]
+676
+
+YİYOR NAGNUS WATS ISVNLLIOd Vad
+
+Ola Oab'EL 10£ 2202066 [00'Rvs' 2ve'CLE
+Son WV1d01
+(00 ZEZE jco'ssz'svez O |oo'soz'lesese
+İoo'a 00992 529
+İoo'eom'evzbos joo'o
+(00'004'60e'vez'. İo0'oo0'o0z6tt1
+oo'ooe'zse'9z6 Joo
+joo'enz'seo'szz'e fo0'000"00z'ser”
+‘tsb is
+joo'ees'h2 [00°99L"6ezL
+joo'ses'vas'L
+00'460"1S0'450' İo0's0'6n'ez9
+İoo'swp9az'sıs'ı (0045242046
+İ00'250'
+joo'zue'vae's o İnaoeseor
+|00'940'968'»w. © joo'o
+|00'400'591'662'e |00'e0z'a/z'tib
+İoo'z0'unes o Joo'isssesez
+İ00'/ca'z00"905'E |00'114'6iv'ssr
+[COSY Ess wes zt
+İ00'404'8e6412
+Joo'zez ese Ze
+(00'000'000'0z
+OO WHE Tez 08s
+[eredoy psg i manjdor ri a u
+HH Çmaseşdoz sejdesay | wep seşdusapı | weymg sejdesaş;
+wud rungek | ism ying o | maediouogu, | öseyymi
+
+0ZL'0Z0'02PEL
+
+Gb S0»
+
+mares Eda MO £
+
+UTWSVE YAŞA (örer
+HVIOUORIVINVANN E MORST ES
+
+Mepiajij esekle yoy (9
+öpüşüp seedy wed (ç
+ejueg seyueg zaysayy (e
+
+4apuog sath (3
+sejuoy ye save (a
+Yefuaj iseyueg zaya (e
+uVvINOs
+
+USHVA TVSVA
+
+tenpasiy soğa (8
+Menpaaia siyes (p
+seed ayoja (9
+#yenpadu seyeyueg ( q
+Henpasw ney (e
+AVNGA3M
+
+“THY DWNAYNTONVAVA Z
+
+AYTAMUSUV
+YUVAŞLAİ
+BAVMMIS
+
+“EYDIVRAYIZÇ TF
+JSvd
+
+arin |
+TSAZVA ARV
+
+İDO'kb6'6Z2'VZE
+J00'095-$5v/6£'4
+|00'eei685'009
+İD0'Lva069 265
+(00'006'44€4
+
+|00'vS5'tEZ
+
+İ00'592 052'e
+
+00'si 62
+
+ea
+
+İ00'925'010'005
+
+00'o
+
+100"s66'E0L oes
+
+İ00'aL5'04w 529'e
+(000581 4Z'£0k
+foo'so"2b2't
+
+İ00'rasiszı-
+joo'ras'biszb
+
+Joo'L66'coL 08!
+
+pri
+maeydoz dedesi
+weg Inuegey
+
+uh ni u pri
+sepdesey 1SE41 Yan | Lue deşdesey | meyi deşdesaş
+Bld OUUGUA
+
+ea] VEL
+
+WL EŞİ 5İ
+
+WWW IWEVANR 5
+©) ğyöseyi geze proydye,
+sepeoeje Hayye |
+
+TENTEYDWSVW DELAL V
+sei weursipoury (-)
+UV TIVH İGOYMMAYI SA SVEYJW3O
+een emk (-)
+MATUDINIMINAVD
+
+EFTSŞSO AVAN £İ
+Mapua) CBA YİV -Q
+
+yapmayi isesediy ereg-e |
+
+BV DVIVIV AZININ TS] ISHII] Tod VAV
+qua RO AY Bay yueg 21) “a
+SUDA yOpeA ES OAoUIZEHY “E
+RVidVS3H SNYAV
+
+EMAY 2
+
+AIMJAVHNM PMALİRAVA
+AVNGASM Pİ AINJOZ3N une
+mvaz99 YAŞA ININ
+
+020Z'L0'SL
+
+ISVANVE ZIYUZN OLY
+
+S97 : Avg

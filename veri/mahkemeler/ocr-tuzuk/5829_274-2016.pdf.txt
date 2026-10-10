@@ -1,0 +1,953 @@
+[SAYFA 1]
+Sayı:274
+
+623
+
+METROLOJİ (ÖLÇÜ VE ÖLÇÜ ALETLERİ)
+YASASI
+(34/2014 sayılı Yasa)
+
+Madde 7 (1) ve 14 Altında Yapılan Tüzük
+
+Kuzey Kıbrıs Türk Cumhuriyeti Bakanlar Kurulu, Metroloji (Ölçü ve Ölçü Aletleri)
+Yasası'nın 7'inci maddesinin (1)’inci fıkrasının ve 14'üncü maddesinin kendisine verdiği
+yetkiye dayanarak Bakanlıkça hazırlanan aşağıdaki Tüzüğü yapar :
+
+Kısa İsim
+
+Tefsir
+
+34/2014
+
+1. Bu Tüzük, Otomatik Olmayan Tartı Aletleri Tüzüğü olarak isimlendirilir.
+
+BİRİNCİ KISIM
+Genel Kurallar
+
+2. Bu Tüzükte metin başka türlü gerektirmedikçe;
+
+“Bakanlık”, Ticaret Dairesinin bağlı olduğu Bakanlığı anlatır.
+
+“CE İşareti”, Avrupa Birliğinin, bir ürün veya ürün grubu için oluşturmuş
+olduğu ürün mevzuatı olarak bilinen temel gereklere, ürünün uyumlu
+olduğunu gösteren bir uygunluk işaretidir. Bu işaret, kalite güvencesine
+ilişkin bir işaret değildir. Ürünün, insan sağlığı, can ve mal güvenliği,
+hayvan ve bitki yaşamı ile sağlığı ve çevre ile tüketicinin korunması
+açısından asgari güvenlik koşullarına uygun olduğunu gösteren bir işaret
+olup, bu işarete sahip ürünlerin, Avrupa Birliği üyesi ülkelerde serbest
+dolaşımı hakkının varlığını anlatır.
+
+“Otomatik Olmayan Tartı Aleti”, Bu Tüzükte, “tartı aleti” olarak anılacak
+olan, yükün yük taşıyıcısı üzerine konulması, kaldırılması ve tartım
+sonucunun alınması gibi tartım işlemleri süresince bir kullanıcının
+müdahalesine ihtiyaç duyulan tartı aletini anlatır.
+
+“Onaylanmış Kuruluş”, Test, muayene ve/veya belgelendirme (yapan
+uygunluk değerlendirme kuruluslar. arasından, Yasa'nın 14'üncü
+maddesine göre ve bu Tüzük çerçevesinde uygunluk değerlendirme
+faaliyetinde o bulunmak  tizere Bakanlık otarafından (o belirlenerek
+yetkilendirilen ve Bakanlığa karşı sorumlu olan özel kuruluşları veya kamu
+kuruluşlarını anlatır.
+
+“Halka Açık Satış Yerleri”, Meslek grubu, gelir grubu, tahsil grubu gibi
+özel bir zümreye hitap etmeyen, market, süper market , pastane, lokanta,
+kafeterya, kasap, bakkal, manav gibi kamuya açık serbest satış yerlerini
+anlatır.
+
+“Piyasaya Arz”, Tartı aletinin tedarik ve/veya kullanım amacıyla bedelli
+veya bedelsiz olarak piyasada yer alması için yapılan ilk faaliyeti anlatır.
+“Tartı aleti”, yerçekiminin bir cisim üzerindeki etkisini kullanarak o cismin
+kütlesini belirleme işlevi gören bir ölçüm aracı anlatır. Tartı aleti ayrıca
+kütle ile ilgili diğer büyüklüklerin, miktarların, parametrelerin veya
+karakteristiklerin belirlenmesi işlevi de gören aracı anlatır.
+
+“Tip”, Üretilmesi planlanan tartı aletini temsil eden numuneyi anlatır.
+“Teknik Dosya”, Tartı aletinin, bu Tüzüğün gereklerine uygun olarak
+üretildiğini gösteren rapor ve belgelerin bulunduğu ve tasarım, üretim ve
+tartı aletinin işleyişi aşamalarından bir veya birkaçını içeren dosyayı anlatır.
+“Yasa”, Metroloji (Ölçü ve Ölçü Aletleri) Yasasını anlatır.
+
+[SAYFA 2]
+Amaç
+
+Kapsam
+
+Temel Gerekler
+Ek I
+
+Avrupa Birligi
+Teknik
+Düzenleme ve
+Standartlar
+
+624
+
+Bu Tüzükte kullanılan ve Yasada tanımlanan diğer herhangi bir sözcük,
+tanım veya deyim, metin başka türlü gerektirmedikçe söz konusu Yasa'da
+ona verilen anlamı taşır.
+
+3. Bu Tüzüğün amacı, otomatik olmayan tartı aletlerinin uyması gereken
+temel gerekler ve bu aletlerin piyasaya arzı için gereken AB Tip onayları,
+uygunluk değerlendirme prosedürleri ile ilgili usul ve esasları
+düzenlemektir.
+
+4, Bu Tüzük, aşağıdaki kategorilere ayrılmış işlemler için kullanılan
+otomatik olmayan tartı aletlerini kapsar:
+(1) Birinci Kategori:
+
+(A) Ticari işlemler için kütle tespiti,
+
+(B) Tarife, vergi ceza, ikramiye, tazminat veya benzeri tip
+ödemelerin hesaplanması amacıyla kütle tespiti
+
+(O) Yasaların uygulanması, mahkeme tutanaklarında verilen
+bilirkişi görüşü için kütle tespiti,
+
+(C)Tibbi amaçlı izleme, teşhis, tedavi amacıyla hastaların
+tartılması suretiyle kütle tespiti,
+
+(D)Recetede yer alan ilaçların eczanede hazırlanması
+amaçlı kütle tespiti ile tıbbi ve ilaç laboratuarlarında
+yürütülen analizlerde kütle tespiti,
+
+(E) Halka açık satış yerlerinde tüketiciye doğrudan satışların
+ve ön ambalajlı ürünlerin fiyat tespiti
+
+(©) İkinci kategori: Yukarıdaki (1)'inci fıkrada belirtilenler dışında
+kalan tüm işlemler için kütle tespiti.
+
+İKİNCİ KISIM
+Otomatik Olmayan Tartı Aletlerine İlişkin Esaslar
+
+5. (1) Bu Tüzüğün #üncü maddesinde belirtilen işlemler için
+kullanılan tartı aletleri bu Tüzüğe bağlı Ek | de belirtilen
+kurallara uymak zorundadır.
+
+(2) Tartı aletlerinin, bu Tüzüğün #'üncü maddesinde belirtilen
+işlemlerde kullanılmayan cihazlar içermesi veya bu tür
+cihazlara bağlı çalışması durumunda, söz konusu cihazların bu
+Tüzüğe bağlı Ek I’ de belirtilen kuralara uyması şartı aranmaz.
+
+6. (1) Avrupa Birliği Teknik Düzenlemelerine uygun olan tartı
+aletlerinin, bu Tüzüğün 9'inci maddesinde belirtilen kurallara
+uygun olduğu kabul edilir.
+
+(2) Bakanlık, bu Tüzükle ile ilgili olan standartların listesini Resmi
+Gazete'de yayımlar.
+
+[SAYFA 3]
+Piyasa Gözetimi oo 7.
+ve Denetimi
+
+Uygunluk 8.
+Değerlendirmesi
+
+Uygunluk 9.
+Değerlendirme
+Kuruluşlarının
+Yetkilendirilerek
+Onaylanmış
+
+Kuruluş Olmaları
+
+CE İşareti ve 10,
+
+Kayıtlar
+
+625
+
+Otomatik olmayan tart: aletlerinin piyasa gözetimi ve denetimi
+Bakanlıkça yapılır. Bakanlık, yaptığı denetimlerde Yasa ve bu Tüzük
+kurallarına uygunsuzluk tespit etmesi halinde, Yasadaki yetkilerine
+göre, bu tartı aletlerinin piyasadan toplatılması veya piyasaya arzının
+yasaklanması veya kısıtlanmasına yönelik bütün uygun önlemleri alır.
+
+Tartı aletlerinin bu Tüzüğe bağlı Ek I’ de belirtilen kurallara
+uygunluğu, başvuru sahibi tarafından seçilecek aşağıdaki işlemlerden
+birisiyle belgelendirilebilir:
+
+(1) Bu Tüzüğe bağlı Ek madde 1'de belirtilen AB Tip
+incelemesi ve Ek H madde 2'de belirtilen AB Tip
+uygunluk beyanı (Üretim Kalite Güvencesi) veya Ek I
+madde 3'te belirtilen AB doğrulaması,
+
+Ancak, bünyesinde elektronik tertibat bulundurmayan
+ve yükü dengelemek için yük tartım tertibatında yay
+kullanılmayan tartı aletleri için AB Tip İncelemesi
+zorunlu değildir.
+
+(2) Bu Tüzüğe bağlı Ek I madde 4'de belirtilen AB Birim
+Doğrulaması.
+
+Yukarıdaki işlemlerle ilgili belge ve yazışmalar
+Türkçe olarak hazırlanır ve yapılır.
+
+Bakanlık, bu Tüzüğün 8'inci maddesinde belirtilen uygunluk
+değerlendirme (o işlemlerini (o gerçekleştirmek  izere, uygunluk
+değerlendirme kuruluşlarını, Yasa ve Yasa altında çıkarılan ilgili
+tüzük kurallarını karşılamaları ve bu Tüzüğe bağlı Ek V'de belirtilen
+asgari kriterleri yerine getirmeleri koşuluyla, onaylanmış kuruluş
+olarak yetkilendirir.
+
+(1) CE işareti ve bu Tüzüğe bağlı Ek IV madde I'de belirtilen
+gerekli ek bilgiler AB normlarına uygunluğu tespit edilen tartı
+aletine, üretici tefsirinde yer verilen tartı aletini üreten, imal
+eden veya tartı aletine adını, ticari markasını veya ayırt edici
+işaretini koyarak kendini üretici olarak tanıtan kişi tarafından,
+açıkça görülebilir, kolayca okunabilir ve silinmeyecek bir
+şekilde konulur.
+
+(2) Bu Tüzüğe bağlı Ek IV madde 2'de belirtilen bilgiler söz
+konusu diğer bütün tartı aletlerine, açıkça görülebilir, kolayca
+okunabilir ve silinmez şekilde konulur.
+
+(5) CE İşareti ile karıştırılması muhtemel veya bu işareti
+çağrıştırabilecek işaret ve figürlerin tartı aletine konulması
+yasaktır. Diğer tanıtıcı işaretler, CE İşaretinin görünebilirliğini
+ve okunabilirliğini engellemeyecek şekilde tartı aletine konulur.
+
+(4) Tartı aleti, başka yönlerden CE İşaretinin konulmasını öngören
+diğer tüzüklere de tabi olması durumunda, CE İşareti tartı
+aleünin söz konusu tüzük kurallarına da uygun olduğunu
+gösterir. Bununla birlikte, bu Tüzüğün bir kuralının, bir geçiş
+dönemi boyunca, üreticiye uygulayacağı düzenlemeyi seçme
+
+[SAYFA 4]
+CE İşaretinin
+Haksız Olarak
+Konulması
+
+Sınırlı Kullanım
+İşareti
+
+Ceza Kuralları
+
+Yürütme Yetkisi
+
+Yürürlüğe Giriş
+
+12,
+
+626
+
+serbestliğini tanıdığı durumlarda CE İşareti sadece üreticinin
+uygulamayı seçtiği tüzüğün kuralları, Resmi Gazetede
+yayımlandıkları şekliyle, tartı aletinin beraberinde bulunan
+belgeler, uyarı veya kullanma kılavuzunda verilir.
+
+(1) Bu Tüzüğün 7'inci maddesi kuralları saklı kalmak kaydıyla; CE
+İşaretinin haksız olarak konulmuş olduğunun tespit edilmesi
+halinde, üretici , tart: aletinin CE İşaretiyle ilgili kurallara
+uygunluğunun sağlanması ve Bakanlık tarafından getirilen
+şartlar dahilinde ihlalin sona erdirilmesi ile yükümlüdür.
+
+(2) Bakanlık uygunsuzluğun devamı halinde, söz konusu tartı
+aletinin bu Tüzüğün 7'inci madde kurallarına uygun olarak
+piyasaya arzını yasaklayıcı veya kısıtlayıcı veya piyasadan
+toplatılmasına yönelik bütün uygun önlemleri alır.
+
+Bu Tüzüğün 4'üncü maddesinin (IYinci fıkrasında belirtilen
+Sinci maddesinde düzenlenen uygunluk değerlendirmesine tabi
+tutulmamış cihazlara bağlı olması veya onları içermesi durumunda bu
+cihazların her biri bu Tüzüğe bağlı Ek IV madde 3'te tanımlanan
+sınırlı kullanım işaretini taşır. Bu işaret tertibatlara, açıkça görülebilir,
+kolayca okunabilir ve silinmeyecek bir şekilde konulur.
+
+ÜÇÜNCÜ KISIM
+Son Kurallar
+
+Bu Tüzük kurallarına aykırılık halinde, Yasadaki 16'ncı ve 17/"inci
+maddedeki kurallar uygulanır.
+
+14. Bu Tüzük, Bakanlık tarafından yürütülür.
+
+15. Bu Tüzük, Resmi Gazete'de yayımlandığı tarihten başlayarak yürürlüğe
+
+girer.
+
+[SAYFA 5]
+Ekler EKİ
+
+ÖN NOT
+
+Tartı aleti, bu Tüzüğün 4'üncü maddesinin (1Y'inci fıkrasında belirtilen işlemleri yerine getirmek için birden
+fazla gösterge veya yazıcı tertibat içeriyorsa veya onlara bağlanıyorsa ve bu tertibatlar, tarum sonuçlarını tekrar ediyor
+ve tarı aletinin doğru şekilde çalışmasını etkilemiyorsa ve eğer tartım sonuçları, bu Tüzük kurallarını yerine getiren
+tartı aletinin bir parçası tarafından doğru ve silinmez bir şekilde yazılıyor veya kaydediliyor ve ölçümle ilgili taraflar
+ölçüm sonuçlarına ulaşabiliyorsa, bu tertibatların gerekli özellikleri sağlaması aranmaz. Bununla beraber, tartı aletinin
+halka doğrudan satış yerlerinde kullanılmaları halinde, satıcı vc alıcı için gösterge ve yazıcı tertibatlar gerekli
+özellikleri karşılamak durumundadır.
+
+METROLOJİK ŞARTLAR
+
+1-Kiitle birimleri
+
+Kullanılan kütle birimleri Uluslararası Temel Birimler Sistemi Tüzüğü kurallarına uygun olacaktır.
+Bu koşula uygun olmak üzere aşağıdaki birimlere müsaade edilir,
+
+- o SI Birimleri : Kilogram, mikrogram, miligram, gram ve ton.
+
+- — İmperyal ölçü birimleri : Paund, ons ve troy ons
+
+- — Solmayan diğer birimler : Kıymetli taşların tartılması halinde metrik karat.
+
+Yukarıda atıfla bulunulan İngiliz imperyal kütle birimlerini kullanan tartı aletleri için, aşağıdaki ilgili kurallar,
+basit eleme kullanılarak sözü edilen imperyal birimlerine dönüştürülecektir.
+
+2-Doğruluk sınıfları
+
+2.1-Aşağıda doğruluk sınıfları tanımlanmaktadır.
+| Özel,
+
+IL Yüksek,
+
+HI Orta,
+
+UU Basit
+
+Bu sınıflar Tablo 1'de tanımlanmışlardır.
+
+TABLO I
+Doğruluk Sınıfları
+Sınıf Muayene Sabiti (e) En küçük Kapasite Muayene sabiti sayısı (n)
+(Min) n=Max
+c
+
+Enaz Enaz En çok
+
+1 0,001 gsc 100 € 50 000 -
+u 0,001 gs ¢ < 005g 20¢€ 100 100 000
+Ol gse 50¢ 5 0090 100 000
+I Ol gses2g 20¢ 100 10 000
+5 gse 20c 500 10 000
+uu 5 gse Oe 100 1000
+
+Nakil tarifesinin belirlenmesinde II. ve IIL. Sınıf tartı aletlerinde minimum kapasite 5 e olarak alınacaktır
+
+2.2-Taksimat aralıkları
+
+2.2.1- Bölüntü değeri (d) ve muayene sabiti(e) kütle birimi cinsinden 1 x 10,2 Xx 10 ,35x 10" şeklinde
+olmalıdır. Burada “k” bir tam sayı veya sıfırdır.
+
+[SAYFA 6]
+2.2.2-Yardımcı gösterge tertibatı olmayan bütün tartı aletlerinde d=e dir..
+2.2.3-Yardımcı gösterge tertibatlı tartı aletleri için aşağıdaki şartlar geçerlidir;
+
+e=]x 10" g
+d<ezl0d
+e= 10° g ved< 10“ golan I, sınıf tartı aletleri için bu kural aranmaz.
+
+3.Sınıflandırma
+
+3.1-Tek tartım sahah tart: aletleri
+
+Yardımcı gösterme tertibatı ile donatılmış tartı aletleri 1 veya II. Sınıf olmalıdırlar. Bu tartı aletlerinde, minimum
+kapasitenin alt sınırları, Tablo I'in 3'üncü sütununda yer alan muayene sabiti (e)'nin yerine bölüntü değeri (d)'nin
+konulması ile elde edilir.
+
+Eğer d< 10 g ise, Lsinif tartı aletlerinde maksimum kapasite 50 000 e*den az olur.
+
+3.2-Çok tartım sahalı tartı aletleri
+
+Çok tartım sahasına, tart: aleti üzerinde açıkça göslerilmeleri halinde müsaade edilir, Her bir tartım kademesi
+madde 3.1.’e göre sınıflandırılır. Eğer tarum Kademeleri farklı doğruluk sınıflarında yer alıyorsa, tartı aleti tartım
+kademelerinin ait olduğu doğruluk sınıflarının en zor şartlarına uygun olmalıdır.
+
+3.3-Çok bölmeli tartı aletleri
+
+3.3.1-Tek tartım sahalı tartı aletleri, birden çok kısmi tartım sahasına sahip olabilirler.(çok bölmeli tartı aleti)
+Çok bölmeli tartı aletleri yardımcı gösterge tertibatına sahip olamazlar,
+
+3.3.2-Çok bölmeli tartı aletlerinin her bir kısmi tartım aralığı şu şekilde tanımlanır;
+
+Muayene sabiti e; Eğe > &
+Maksimum kapasitesi Maxi Maxr = Max
+Minimum kapasite Min; Min, = Max «15
+Min, = Min
+Burada;
+i= 1,2.
+
+i = Kısmi tartım sahası numarası
+r= Kısmi tartım sahalarının toplam sayısıdır.
+
+Tüm kapasiteler, kullanılan dara değerine bakılmaksızın, net yük kapasitesidir.
+
+3.3.3- Kısmi sahaları Tablo 2'ye göre sınıflandırılırlar. Bütün kısmi tartım sahaları aynı doğruluk sınıfındadırlar
+ve bu sınıf aynı zamanda tartı aletinin doğruluk sınıfıdır,
+
+TABLO 2
+Çok bölmeli tartı aletleri
+
+i=1,2
+j= Kısmi tartim sahası numarası
+> Kısmi tartım sahalarının toplam sayısı
+
+Sımf Muayene sabiti (e) Minimum kapasitesi (Min) Muayene sabiti sayısı
+Enaz En az(1) En çok “|
+x n= Max
+at
+I 0,001 Ese 100 e; 50 000 -
+H 0,001 gee, 5005g 20e, 5 000 109 000
+Ol giy 50 e; 5 000 100 000
+ul Ol gs We, 500 10 000
+; HH 5 gee 10 g; 50 1000
+{
+
+(1) i=rigin, eilee, yer değiştirerek Tablo (in ilgili sütunu uygulanır.
+
+[SAYFA 7]
+629
+
+4-Doğruluk
+
+4.1- Bu Tüzüğün 8° inci maddesinde yer alan prosedürlerin uygulanması konusunda, gösterge hatası, Tablo
+
+de gösterildiği gibi müsaade edilen maksimum gösterge hatasını aşamaz. Dijital gösterge durumunda, gösterge hatası
+
+3°
+yuvarlatilarak düzeltilecektir.
+On ayarlı dara değeri hariç olmak üzere müsaade edilen maksimum hatal
+
+değerler ve dara değerleri için geçerlidir.
+
+ar, mümkün olan bütün yüklerdeki net
+
+TABLO 3
+Miisaade edilen maksimum hatalar
+Yükleme Müsaade
+edilen
+
+Sinifi Sinif il Sınıf {If Sımf HU Max. hata
+
+0 £ms50000e 0 sms5000e 0 sms500c 6 sms i0e £0,5¢
+
+50 000 e<ms 200 000 §000e<ms 20 000 ¢ 500e<ms2000¢ 50c<ms200 e tle
+
+c
+
+200000e<m 20000c<m<100000c 2000ce<me 106000 e |200e<xms1000e| = 15e
+
+4.2-Kullanımda müsaade edilen maksimum hatalar, madde 4.1’de belirlenen hataların iki katıdır.
+
+5-Tartı aletinin tarım sonuçları , tekrarlanabilir ve diğer gösterme tertibatları ve dengeleme yöntemleri
+
+kullanılarak yeniden üretilebilir olmalıdır.
+Tartım sonuçları, yük taşıyıcısı üzerinde yükün pozisyon değişil kliklerine karşı yeterince duyarsız olmalıdır.
+
+6-Tartı aleti çok küçük miktarlardaki yük değişmelerine reaksiyon verebilmelidir.
+
+7-Tesir miktarları ve zaman ilişkileri
+7.1- Eğik bir pozisyonda kullanımı muhtemel IL, 111 ve HI. sınıf tartı aletleri normal yerleştirme koşullarında
+söz konusu olabilecek eğikliğe karşı yeterince duyarsız olmalıdır.
+
+7.2-Tartı aletleri üretici tarafından verilen sıcaklık aralığı içinde gerekli metrolojik koşulları sağlamalıdırlar. Bu
+sıcaklık aralığı aşağıdaki değerlerde olmalıdır.
+
+I. sınıf tartı aletleri içinenaz5 °C,
+
+IL, sınıf tartı aletleri için en az 15°C,
+HL ve ILİ. sınıf tartı aletleri için en az 30 °C
+
+Üreticinin belirlediği sıcaklık sınırları mevcut değilse -10“C +40 “C sıcaklık aralığı esas alınır.
+
+7.3-Elektrik şebekesine irtibatlı tartı aletleri, normal şebeke dalgalanma ıları dahilinde metrolojik özelliklerini
+
+koruyacaklardır.
+Pille çalışan tartı aletleri, voltaj gerekli minimum değerin altına düştüğünde bunu ikaz etmeli ve bu şartlarda ya
+
+doğru olarak çalışmaya devam cimeli yada otomatik o larak işletme dışı kalmalıdır.
+
+7.4- “e” değeri | gramdan az olan |. veli. sınıf tartı aletleri hariç olmak üzere diğer elektronik tartı aletleri,
+kendi sıcaklık aralıklarının üst sınırında yüksek relatif nem ortamlarında metrolojik şartları sağlamalıdırlar.
+
+7.5-11, HI ve LL. sınıf tartı aletlerinin uzun bir süre yüke maruz kalışı, bu yükteki tartım sonucu üzerinde vey
+yükün kaldırılmasını müteakip sıfır göstergesi üzerindeki etkisi önemsiz olmalıdır.
+
+7.6-Diğer şartlar alunda ya tartı aleti doğru olarak çalışmaya devam edecek veya otomatik olarak devre dışı
+kalacaktır.
+
+TASARIM VE YAPI
+
+8- Genel şartlar
+
+8.1-Tartı aletlerinin tasarım ve yapısı, uygun şekilde kullanıldıkları ve kuruldukları takdirde ve tasarlandıkları
+kullanım ortamlarında çalıştıklarında metrolojik özelliklerini koruyacak şekilde olmalı, ayrıca kütle değeri de
+
+gösterilmiş olmalıdır.
+
+[SAYFA 8]
+630
+
+8.2-Elektronik tart: aletleri, arıza etkilerine maruz kaldıklarında , anlamlı olmayan arızaları gösterebilirler. Ancak
+bu tartı aletleri anlamlı olan arızaları otomatik olarak tespit etmeli ve bildirmelidir.
+
+Otomatik olarak tespit edilen anlamlı arıza elektronik tartı aleti tarafından görsel veya sesli olarak ikaz edilecek
+ve bu sinyal kullanıcının müdahalesine kadar yada arıza ortadan kalkıncaya kadar devam edecektir.
+
+8.3- Madde 8.1 ve madde 8.2'de belirtilen şartlar, bu tür tartı aletlerinin öngörülen kullanımı göz önüne
+alındığında, normal sayılan bir zaman sürecinde sürekli olarak sağlanmış olmalıdır.
+
+Dijital elektronik tertibatiar, ölçüm işleminin doğru olarak seyrini , gösterim kolaylığını ve tüm veri depolama ve
+transfer işlemlerinin yeterli kontrolünü sürekli yerine getirmelidirler,
+
+Otomatik olarak tespit edilen anlamlı dayanıklılık hatasının otomatik olarak tespit edilmesi üzerine, elektronik
+tartı aletleri; kullanıcı müdahale edene kadar veya hata ortadan kalkana kadar sinyal verecek şekilde görsel ve işitsel
+olarak ikaz vermelidir.
+
+8.4-Harici tertibatlarin uygun ara bağlantılar vasıtasıyla elektronik tartı aletine bağlanması halinde, elektronik
+tartı aletinin metrolojik özellikleri üzerinde istenmeyen etkiler olmamalıdır.
+
+8.5-Tartı aletleri hileli kullanımı kolaylaştırması muhtemel özelliklere sahip olmamalı ve kasti olmayan hatalı
+kullanım ihtimalleri en az olmalıdır. Kullanıcı tarafından sökülmesine ve ayar edilmesine müsaade edilmeyen parçalar,
+
+bu lür olaylara karşı emniyet altına alınmalıdır.
+
+8.6-Tartı aletleri bu Tüzükte öngörülen muayenelerin yapılmasına zorluk teşkil edecek imal edilmemelidir.
+
+9-Tartım sonuçlarının ve diğer ağırlık değerlerinin gösterimi
+
+Tartım sonuçları ve diğer ağırlık değerleri, doğru ve açık olarak gösterilmeli ve yanlış anlamaya sebebiyet
+
+vermemelidir. Gösterge değerleri, normal kullanım şartları alında kolay okunabilir olmalıdır.
+
+Ek I madde de belirtilen birimlerin adları ve sembolleri, Uluslararası Birimler Sistemi Tüzüğüne uygun olmalı
+ve buna ek olarak metrik karat için “ct” sembolü kullanılmalıdır.
+
+Tartı aleti, Maksimum kapasite artı 9e ‘den daha fazlasını göstermemelidir.
+
+Yardımcı gösterge tertibatına yalnızca ondalık işaretinin sağ tarafı için müsaade edilir. Genişletilmiş gösterge
+tertibatı yalnızca geçici olarak kullanılabilir ve bu tertibat çalışırken sonuçların yazılması mümkün olmamalıdır.
+
+Ana göstergelerle karıştırılmadıkça, yan göstergeler gösterme yapabilir.
+
+10-Tartım sonuçlarının ve diğer ağırlık değerlerinin yazılması (basılması)
+
+Yazılmış /basılmış sonuçlar doğru, yeterince tanımlanmış ve açık olmalıdır. Yazılı çıktılar, açık, okunaklı,
+silinmez ve dayanıklı olmalıdır.
+
+H-Hizalama
+
+Tartı aletleri gerekli hallerde bir seviyelendirme tertibati ve eğim gösterge tertibatı ile donatılmalıdır. Bu
+tertibatlar, tartı alelinin uygun kurulumunu sağlayacak yeterli duyarlıkta olmalıdır.
+
+12-Sifir ayarı
+
+Tartı aletleri sıfırlama tertibatları ile donatılabilirler. Bunlar doğru bir sıfırlama yapmalılar ve yanlış ölçüm
+sonuçlarına sebebiyet vermemelidirler.Bu tertibatların çalışması kesin sıfırlama sağlamalı ve yanlış ölçüm
+sonuçlarına neden olmamalıdır.
+
+13-Dara ve ön ayarlamalı dara tertibatları
+Tartı aletleri bir veya daha fazla dara tertibatına ve aynı şekilde ön ayarlı dara tertibatlarına sahip olabilirler,
+
+Dara tertibatları, göstergede doğru bir sıfır ayarını ve net ağırlıkların doğru ölçümünü oluşturmalıdırlar. Ön ayarlı dara
+tertibatları ise, hesaplanmış net değerlerin hatasız olarak belirlenmesini temin etmelidirler.
+
+[SAYFA 9]
+631
+
+14-Maksimum kapasitesi 100 kg (100 kg dahil) ‘a kadar olan, halka açık satış yerlerinde kullanılan tartı
+aletleri için ilave şartlar;
+
+Halka açık satış yerlerinde kullanılan tartı aletleri, tartım işlemiyle ilgili bütün bilgileri göstermelidir. Fiyat
+
+göstermeli tartı aletleri ise, satın alınacak ürünün fiyat hesaplamasını müşteriye açıkça göstermelidir.
+
+Ödenecek fiyat gösteriliyorsa, bu doğru olmalıdır.
+Fiyat hesaplamalı tarti aletlerinin başlıca göstergeleri, müşterinin fiyatı doğru olarak okuyabileceği kadar
+
+yeterli bir süre göstermelidir.
+
+Fiyat hesaplamalı tartı aletleri , tüm işlemlerle ilgili bütün bilgileri açık, kesin ve uygun şekilde bir fiş veya
+etiket üzerine yazmak ve ürün başına tartma ve fiyat hesaplama benzeri işlevlerden başka işlevleri de yerine
+getirebilir.
+
+Tartı aletleri, doğrudan veya dolaylı göstergelerin, kolay ve basit anlaşılmasını engelleyici özellikler
+taşımamalıdır.
+
+Müşteriler, tartı aletlerinin arızalı çalışmasından dolayı doğru olmayan satışlara karşı korunmalıdır.
+
+Yardımcı gösterge tertibatları ve genişletilmiş gösterge tertibatlarına müsaade edilmez.
+
+Hileli kullanıma yol açmaması şartıyla ek donanımlara müsaade edilir,
+
+Bu bölümün gereklerine uymayan, ancak normal olarak halka açık satış yerlerinde kullanılan tartı aletlerine
+benzeyen tartı aletlerinin göstergesinin yakınına “Halka açık satış yerlerinde kullanılamaz” ibaresini taşıyan bir etiket
+silinmeyecek şekilde takılır.
+
+15-Fiyat etiketlemeli tartı aletleri
+
+Fiyat etiketlemeli tart: aletleri, halka açık satış yerlerinde kullanılan fiyat göstermeli tartı aletlerine uygulanan
+şartların bu tartı aletlerine tekabül edenlerini sağlamalıdır. Minimum kapasitenin altındaki değerleri fiyat etiketine
+yazmak mümkün olmamalıdır.
+
+EKH
+
+Uygunluk Değerlendirme Porsedürleri
+
+1-AB tip incelemesi
+
+1.1- AB Tip incelemesi prosedürü, üretimi planlanan tartı aletini temsil eden bir numunenin(tip), bu Tüzük
+gereklerini sağlayıp sağlamadığının onaylanmış kuruluş tarafından doğrulanmasını ve belgelenmesini
+kapsar.
+
+1.2- Tip inceleme başvurusu, üretici, yetkili temsilcisi tarafından sadece tek bir Onaylanmış Kuruluşa yapılır.
+Tip inceleme başvurusunda şunlar olmalıdır;
+
+- Üreticinin adı ve adresi
+-Başka bir onaylanmış kuruluşa daha önce başvurulmadığına dair yazılı beyanname,
+- EK Wide muhtevası belirlenen tasarım dosyası.
+Başvuru sahibi yukarıda sayılan belgelerle birlikte, bundan sonra “tip” olarak adlandırılacak olan tart aletini
+
+temsil eden bir numuneyi de onaylanmış kuruluşa teslim eder.
+
+[SAYFA 10]
+632
+
+1.3-Onaylanmış kuruluş;
+
+1.3.1-Tasarım dosyasını inceler ve tipin dosyaya uygun olarak imal edilip edilmediğini tespit eder.
+1.3.2-Başvuru sahibi ile muayene ve /veya deneylerin hangi mahalde yapılacağı konusunda mutabakata varır,
+
+1.3.3-Bu Tüzüğün 6'ncı maddesinde belirtilen standartların uygulanmadığı hallerde, üretici tarafından
+benimsenen çözümlerin tüzük kurallarını karşılayıp karşılamadığını kontrol etmek için gerekli muayene ve / veya
+
+deneyleri yapar veya yaptırır.
+
+1.3.4-Üretici ilgili standartları uygulamayı tercih etmesi durumunda, bunların etkin bir şekilde uygulanıp
+uygulanmadığını, bu suretle temel gereklere uygunluğun sağlanıp sağlanmadığını kontrol etmek icin gerekli muaycne
+
+ve deneyleri yapmak veya yapurmak görevleriyle yükümlüdür.
+
+1.4-Tipin bu Tüzük kurallarına uygun bulunması halinde, onaylanmış kuruluş başvuru sahibine “AB Tip Onayı
+Belgesi” verecektir. Bu sertifika, muayene ve deney sonuçlarını, gerekmesi halinde geçerlilik şartlarını, onay almış
+
+tart: aletine ait kimlik bilgilerini ve eğer varsa tartı aletinin çalışma prensibinin tanımını ihtiva edecektir. İlgili teknik
+belge, şema ve planlar bu sertifikaya ilistirilecektir.
+
+Tip onay sertifikası, verildiği tarihten itibaren on yıl süreyle geçerlidir ve müteakip her on yılda yenilenebilir.
+
+Yeni teknolojilerin uygulanması neticesinde, tartı aletinin tasarımında köklü değişiklikler olması halinde,
+sertifikanın geçerliliği iki yıl ile sınırlandırılıp üç yıla kadar uzatılabilir.
+
+1.5- Onaylanmış Kuruluş, aşağıda verilen listeyi diğer üye ülkelere bildirmelidir.
+
+- Alınan AB Tip İncelemesi başvuruları
+
+- Veriler AB Tip Onayı Belgeleri
+
+- Reddedilen AB Tip Onay Belgesi başvuruları
+
+- Verilmiş olan belgelerle ilgili düzeltmeler ve değişiklikler
+
+“inin bir
+
+1.6- Diğer onaylanmış kuruluşlar, herhangi bir onaylanmış kuruluştan tip onay sertifikalarının ve ekle
+kopyasını diledikleri zaman alabilirler.
+
+1.7- Başvuru sahibi, onaylı tipte yaptığı (yapacağı) herhangi bir değişiklikten tip onay sertifikası aldığı
+onaylanmış kuruluşu haberdar eder,
+
+Onaylı tipte yapılan değişiklikler , bu Tüzükteki temel gereklere uygunluğu elkiliyorsa, AB Tip Onay
+Belgesini veren Onaylanmış Kuruluştan ek onay almak gerekir. Bu ek onay , orijinal tip onay sertifikasına eklenerek
+verilir,
+
+2-AB tipe uygunluk beyanı (üretin kalite güvencesi)
+
+2.1-AB Tipe uygunluk beyanında, madde 2.2'nin yükümlülüklerini karşılayan üretici, ilgili tartı aletlerinin AB
+Tip Onay sertifikasında tanımlanan tip ile , onlara uygulanacak bu Tüzük kurallarını sağladıklarını beyan eder.
+
+Üretici, her bir tartı aleti üzerine CE işaretini ve EK [V’de öngörülen tanıtım yazılarını iliştirir ve yazılı bir
+uygunluk beyanı tanzim eder.
+
+CE işaretine, madde 2.4.'te atıfta bulunulan AB gözetiminden sorumlu Onaylanmış Kuruluşun kimlik kayıt
+numarası eşlik etmelidir.
+
+2.2-Üretici, madde 2.3'de belirtildiği gibi bir “Kalite Sistemi” ni yeterli bir şekilde uygular ve madde 2.4’ de
+belirtilen AB gözetimine tabidir.
+
+2.3-Kalite garanti sistemi
+
+2.3.1-Üretici, kendi Kalite Sistemini onaylaması için bir onaylanmış kuruluşa başvuracaktır. Başvuruda
+verilecek evraklar;
+
+[SAYFA 11]
+633
+
+- Onaylı kalite sisteminin uygunluk ve etkinliğinin sürekliliğini sağlayacağına dair taahhütname.
+
+- Uygunluk ve etkinliğin devamını sağlamak için onaylı kalite sistemini devam ettireceğine dair taahhütname
+
+Üretici, tüm ilgili bilgileri, özellikle de kalite sisteminin belgelerini ve taru aletine ait tasarım dosyasını
+
+onaylanmış kuruluşa verecektir.
+
+2.3.2- Kalite sistemi, tartı aletinin AB Tip onay belgesinde tanımlanan prototipe ve onlara uygulanacak bu
+Tüzük kurallarına uygunluğu temin etmelidir.
+
+Üretici tarafından benimsenen bütün kriterler ve kurallar, yazılı kurallar, prosedürler ve talimatlar şeklinde
+sistematik ve düzenli bir şekilde dosyalanacaktır. Bu kalite sistemi dosyası, kalite programlarının, planların,
+broşürlerin ve kayıtların doğru anlaşılmasını sağlar. Bu dosya özellikle aşağıdakilerin yeterli tanımını içermelidir;
+
+- Kalite hedefleri , örgütsel yapı, idarenin ürün kalitesi ile ilgili sorumlulukları ve yetkileri,
+
+- Uygulanan imalat prosesi, kalite kontrol ve kalite garanti teknikleri ile sistematik önlemler,
+
+- İmalattan önce , imalat sırasında ve sonrasında uygulanacak muayene ve deneyler ile bunların hangi sıklıkta
+yapıldığı,
+
+- Gerekli üretim kalitesinin elde edilmesini ve kalite sisteminin etkin olarak işlemesini denetleyecek araçlar.
+2.3.3-Onaylanmış Kuruluş, madde 2.3.2’de belirtilen koşulları karşılayıp karşılamadığına karar vermek için, kalite
+
+garanti sistemini inceleyecek ve değerlendirecektir.
+
+Kalite Sisteminin karşılık gelen uyumlaştırılmış standartları yerine getirmesi durumunda, bu gerekleri sağladığı
+kabul edilir. Onaylanmış Kuruluş kararını imalatçıya bildirecek ve bundan diğer onaylanmış kuruluşları haberdar
+edecektir. İmalatçıya yapılan bildirim muayene sonuçlarını ve ret halinde bu kararın gerekçelerini içerecektir.
+
+2.3.4-Üretici, kalite sistemini onaylayan onaylanmış kuruluşa yeni teknolojilerin ve yeni kalite anlayışlarının
+neden oldukları değişikliklerle ilişkin olarak kalite güvence sistemlerinin güncelleştirilmesi hakkında bilgilendirir.
+
+2.3.5-Kalite sisteminin onayını iptal eden herhangi bir onaylanmış kuruluş bundan diğer onaylanmış kuruluşları
+haberdar eder.
+
+2.4-AB gözetimi
+
+2.4.1-AB Gözetiminin amacı, imalatçının onaylanmış kalite sisteminden doğan yükümlülüklerini gereği gibi
+yerine getirmesini sağlamaktır.
+
+2.4.2-Üretici, onaylanmış kuruluşa denetim amacıyla üretim , muayene, deney ve stoklama mahallerine giriş
+konusunda gerekli izni vermek ve her türlü Kolaylığı göstermek zorundadır. Ayrıca özellikle aşağıdaki gerekli bütün
+bilgileri temin etmelidir.
+
+- Kalite sistemi hakkında dökümantasyonlar,
+
+- Tasarım dosyası,
+
+- Denetim raporları, deney ve kalibrasyon verileri, ilgili personelin nitelikleri hakkındaki raporlar vb. gibi kalile
+sistemine ait kayıtlar.
+
+Onaylanmış Kuruluş üreticinin , kalite sistemini devam ettirmesini ve uygulamasını teminen periyodik
+
+denetimlerde bulunur ve üreticiye bu denetimleri hakkında rapor verir. Ayrıca onaylanmış kuruluş ani denetim de
+
+[SAYFA 12]
+634
+
+yapabilir. Bu denetim sırasında onaylanmış kuruluş tam veya kısmi tetkikler yapabilir ve üreticiye denetimine
+
+ilişkin bir rapor ve lüzumu halinde denetim raporu sunar.
+
+2.4.3. Onaylanmış kuruluş, üreticinin onaylı kalite sistemini aynen devam eltirmesini ve uygulamasını
+sağlayacaktır.
+
+3.AB doğrulaması
+
+3.1-AB Doğrulaması, üreticinin madde 3.3'e uygun olarak kontrol edilen tartı eletlerinin, aynı zamanda AB
+Tip Onayı'nda tanımlanan tipe uygun olduklarını ve bu Tüzüğün kendileri için geçerli olan gereklerini yerine
+getirdiklerini garanti ve beyan ettiği yöntemdir.
+
+3.2-Üretici , üretim sürecinin, tartı aletlerinin AB Tip Onayı'nda tanımlanan tipe ve bu Tüzüğün kendileri için
+geçerli olan gereklerine uygun olması için gerekli tüm önlemleri alır, Üretici, her bir tartı aleti üzerine CE işaretini
+koyar ve yazılı bir uygunluk beyannamesi tanzim eder.
+
+3.3-Onaylanmış Kuruluş, tartı aletlerinin bu Tüzüğün taleplerine uygunluğunu denetlemek için, madde 3.5
+uyarınca tek tek her ürünü kontrol etmek ve denemek suretiyle ilgili kontrol ve deneyleri gerçekleştirir.
+
+3.4-AB Tip Onayına tabi olmayan tart: aletlerine yönelik olarak, talep etmesi halinde Ek Hide belirilen tartı
+aletinin tasarımına ilişkin belgeler onaylanmış kuruluşa ibraz edilecektir.
+
+3.5-Her bir tartı aletinin kontrol ve denenme yoluyla doğrulanması
+
+3.5.1-AB Tip Onayı Belgesi'nde tanımlanan tipe ve bu Tüzüğün gereklerine uygunluklarını doğrulamak için,
+bütün tart: aletleri tek tek muayene edilip, bu Tüzüğün 6'ncı maddede belirtilen standartlarda öngörülen deneylere
+veya bunların eşdeğeri olan deneylere tabi tutulurlar.
+
+3.5.2-Onaylanmış Kuruluş taleplere uygunluğu tespit edilen her tart: aletine kimlik kayıt numarasını iliştirir
+veya iliştirilmesini sağlar ve uygulanan deneylere dair bir uygunluk belgesi düzenler,
+
+3.5.3-Üretici, talep halinde, Onaylarımış Kuruluşun verdiği uygunluk belgesini ibraz edebilmelidir.
+4, AB birim doğrulaması
+
+4.1-AB Birim Doğrulaması, üreticinin genellikle belirli bir kullanım için tasarlanmış olan ve kendisi için
+Madde 4.2'de atıfta bulunulan belgenin tanzim edildiği tartı aletinin, bu Tüzüğün kendisi için gerekli olan şartlarını
+yerine getirildiğini garanti ve beyan ettiği yöntemdir. Üretici CE işaretini tartı aletlerine koyar ve yazılı bir uygunluk
+beyannamesi tanzim eder,
+
+4.2-Onaylanmış Kuruluş, tartı aletinin bu Tüzüğün ilgili gereklerine uygunfugunu kontrol etmek için, tartı
+aletini tetkik eder ve bu Tüzüğün 6’inc: maddesinde belirtilen ilgili standartlara uygun olarak gerekli deneyleri veya
+bunların eşdeğeri olan deneyleri yapar.
+
+Onaylanmış Kuruluş, şartlara uygunluğu tespit edilen tartı aletine kimlik kayıt numarasını iliştirir veya
+iliştirilmesini sağlar ve uygulanan testler hakkında yazılı bir uygunluk belgesi tanzim eder.
+
+4.3-Ek 1'de belirtilen teknik tasarım evrakları, tartı aletinin Tüzüğün gereklerine uygunluk sağladığını ve tartı
+aletinin tasarım, üretim ve işleyişini anlamayı sağlamaktır. Onaylanmış Kuruluş teknik dosyaya ulaşabilmelidir.
+
+4.4-Üretici, talep edildiği takdirde Onaylanmış Kuruluşun düzenlediği uygunluk belgesini sunabilmelidir.
+5- Ortak Kurallar
+
+5.1- Eğer kullanım yerine taşıma, tartı aletinin montajını gerektirmiyorsa, kullanım yerinde hizmete alma, tartı
+aletinin performansını etkilemesi muhtemel montajını veya teknik kurma işlerini gerektirmiyorsa ve kullanım yerinde
+yerçekimi etkisi göz önünde tutuluyorsa veya tartı aleti bu yerçekimi değişimlerine karşı duyarsız ise, AB Tipe
+Uygunluk Beyanı (üretim kalite güvencesi) , AB Doğrulaması ve AB Birim Doğrulaması üreticinin üretim tesislerinde
+veya herhangi başka bir yerde gerçekleştirilebilir. Diğer bütün hallerde bu işlemler tartı aletinin kullanım yerinde
+yapılacaktır.
+
+[SAYFA 13]
+A
+635
+5.2- Eger tartı aletinin performansı yer çekimi kuvveti değişmelerine karşı duyarlı ise, madde 5.|’de
+belirtilen prosedür iki aşamalı olarak icra edilir. Birinci aşamada tartı aletinin sonuçları yerçekiminden bağımsız,
+ikinci aşamada ise tartı aletinin sonuçları yerçekimine bağımlı muayene ve tesiler gerçekleştirilir.
+
+5.3.1-Bir üretici madde 5.1’de adı geçen yöntemlerden birini iki aşamalı olarak uygulamayı seçerse ve bu
+iki aşama iki ayrı birim tarafından uygulanacak olursa, bu durumda yöntemin birinci aşamasını geçen bir tartı
+aleti, bu birinci aşamaya katılmış olan Onaylanmış Kuruluşun kimlik kayıt numarasını taşımak zorundadır.
+
+5.3.2-Yöntemin birinci aşamasını uygulayan taraf, her bir tarts aleti için, tart: aletinin tanımlanması için gerekli
+bilgileri içeren ve uygulanan tetkik ve deneyleri belirten bir sertifika düzenler.
+
+Yöntemin ikinci aşamadaki tetkiklerini yapacak olan taraf, daha önce uygulanmamış olan tetkik ve deneyleri
+
+gerçekleştirir.
+Üretici , talep edildiği takdirde Onaylanmış Kuruluşun düzenlediği uygunluk belgesini sunabilmelidir.
+
+5.3.3-Birinci aşamada AB Tip Uygunluk Beyannamesi yöntemini tercih eden üretici, ikinci aşamada da aynı
+yöntemi yada AB doğrulaması yöntemini seçebilir.
+
+5.3.4-CE işareti, ikinci aşamanın bitiminden sonra, ikinci aşamaya katılan Onaylanmış Kuruluşun kimlik kayıt
+numarası ile beraber tartı aletine koyar.
+EKİ
+Teknik Tasarım Dosyası (Dokümanı)
+
+Teknik tasarım dosyası, tartı aletinin tasarımını, imalatını ve işleyişini açıkça göstermeli ve bu Tüzük kurallarına
+uygunluğunun değerlendirilmesine imkan sağlayacak içerikte olmalıdır.
+
+Teknik dosya tartı aletinin özelliklerine göre şunları içermelidir;
+- Tipin genel tanımı,
+- Planlanan tasarımlar ve bileşenlerin imalat çizimleri ve planları, montaj parçaları, devreler, vb.
+
+-Yukarıdakilerin ve tartı aletinin işleyişinin kolaylıkla anlaşılmasını teminen , gerekli tanımlama ve açıklamalar,
+
+- Bu Tüzüğün 6'ncı maddesinde belirtilen tam veya kısmen uygulanan standartlarını listesi ve bu Tüzüğün 6'nci
+
+maddesinde belirtilen standarllar uygulanmamışsa, temel gerekleri sağlamak üzere benimsenen çözümlerin tanımı ,
+
+- Yapılan tasarım hesaplamalarının ve deneylerin sonuçları,
+- Deney raporları,
+- AB Tip Onayı belgeleri ve tasarımda kullanılanlara benzer parçaları içeren cihazlar üzerinde yapılan ilgili deney
+
+sonuçları,
+
+EK IV
+
+1-AB uygunluk değerlendirmesi prosedürüne tabi tartı aletleri
+1.1- Bu tartı aletleri aşağıdaki tanıtıcı karakteristik bilgileri taşımak zorundadırlar;
+
+a) Ek Vida tanımlanan CE semboltinden oluşan CE işareti ile beraber bu işaretin tatbik edildiği yılı ifade
+eden rakamın son iki hanesi ;
+
+- OAB Gözetimini veya AB Doğrulamasını yapan Onaylanmış Kuruluşun ve kuruluşlarının kimlik kayıt
+numaraları. Burada değinilen işaret ve tanıtım yazıları, belirgin bir şekilde gruplanmış halde tartı aletine
+yerleştirilmelidir.
+
+[SAYFA 14]
+636
+b) o Yeşil zemin üzerinde siyah renkte “M” harfi olan 12,5 mm x 12.5 mm ebatlarında bir etiket.
+c) Aynca aşağıdaki bilgiler;
+J- Gerekli hallerde AB Tip Onay Belgesinin numarası,
+2- İmalatçının markası veya adı,
+
+3- Oval yada iki yarım dairenin üstten ve alttan birleştirilmesi suretiyle oluşmuş çerçeve içine alınmış
+doğruluk simfi,
+
+4- “Max” şeklinde maksimum kapasite,
+5- “Min” şeklinde minimum kapasite,
+6- “ez...” şeklinde doğruluk skala aralığı (muayene sabiti),
+7- CE işaretinin yerleştirildiği yılın son iki rakamı;
+Ayrıca bu bilgilerin dışında tartı aletinin özelliğine göre aşağıdaki bilgiler,
+- o Seri numarası
+- — Birbirinden ayrı ancak bağlantılı birimlerden oluşan tartı aletleri için, her birim
+üzerine tanıtım işareti,
+- — “e” değerinden farklı ise “d” şeklinde bölüntü değeri,
+
+- Tsm... şeklinde artırmalı maksimum dara yükü,
+
+- Te-,....... şeklinde eksiltmeli maksimum dara yükü, (T, Max? dan farklı ise)
+-  “d? den farklı ise “dT” şeklinde dara tertibatının aralığı,
+- — “Max” dan farklı ise “Lim” şeklinde maksimum taşıma kabiliyeti,
+- o Özelsicaklıksınırları....... OC fice °C seklinde,
+- — Yük taşıyıcı ve yük arasındaki oran.
+1.2-Tart aletleri CE işareti ve/veya tanıtma yazılarının konulması için uygun tertibatlara sahip olacaktır. Bunlar ,
+
+tartı aletinin normal kullanım pozisyonunda CE işaretinin ve diğer işaretlerin görülebilmesini sağlayacak şekilde
+olmalı ve işaret ve yazıların bu tertibatlar tahrip edilmeden çıkarılmasının mümkün olmayacağı şekilde yapılmış
+
+olmalıdır.
+
+1.3-Tahrip edilmeden çıkarılabilen bir veri plakası kullanılıyorsa, bu plakanın damgalanması mümkün olmalıdır.
+Tanıtım plaketi, damgalanabiliyorsa bir kontrol işareti uygulamak mümkün olmalıdır.
+
+1.4- Max, Min, e ve d ifadeleri, ayrıca göstergenin yakınında da bulunmalıdır.
+
+1.5- Bir veya daha çok yük taşıyıcısına bağlı veya bağlanabilir her bir denge tertibatı bu yük taşıyıcılarına tekabül
+eden ilgili bilgileri taşımalıdırlar.
+
+2- Diğer tarlı aletleri;
+Diğer tartı aletleri aşağıdaki bilgileri taşımalıdırlar:
+
+- — İmalatçının adı ve markası
+- oo Max....şeklinde maksimum Kapasite
+
+[SAYFA 15]
+637
+
+Bu tart: aletleri madde 1.1 b’deki işaretleri alamazlar.
+3- Bu Tüzüğün 12'nci maddesinde belirtilen sınırlı kullanım işareti
+
+Bu işaret kenar uzunluğu 25 mm olan kırmızı kare zemin üzerine siyah renkte büyük “M” harfine çarpı
+(çapraz) işaret konulmasıyla oluşur.
+
+EK V
+
+Bu Tüzüğün S'inci maddesinde belirtilen işlemlerle ilgili işleri yapacak kuruluşların yetkilendirilmesinde,
+Bakanlık aşağıda belirtilen asgari kriterleri uygular:
+
+1- Kuruluşlar gerekli araç, gereç ve personeli bulunduracaklardır.
+
+2- Personel teknik yeterliliğe ve mesleki dürüstlüğe sahip olacaklardır.
+
+3- Kuruluşlar bu Tüzükte istenen deneylerin icra edilmesi , raporların tanzim edilmesi , belgelerin verilmesi ve
+gözelimin yapılması için otomatik olmayan tartı aletleri ile ilgili doğrudan veya dolaylı olarak çıkarı olan tüm
+çevreler, kişiler veya gruplardan bağımsız olarak çalışacaklardır.
+
+4- Personel mesleki sırlara saygılı olacaktır.
+
+5- Mevzuatlarda kuruluşların sorumlulukları devlet tarafından üstlenilmiyorsa, kuruluşlar sorumluluk sigortası
+yaptıracaklardır.
+
+Bu ekin birinci fikrasinin 1. ve 2. bentlerinde belirtilen hususların yerine getirilmesi konusunda Bakanlıkça
+
+periyodik denetimler yapılır,
+EK VI
+
+CE İŞARETİ
+
+CE uygunluk işareti, aşağıdaki yazı formuna sahip “CE” harflerinden oluşur.
+
+20
+=
+NS
+$
+10 3
+7 NK
+7
+Val
+0
+0 10 17 27
+14 26 26
+
+- CE işaretinin küçültülmesi veya büyütülmesi esnasında yukarıda resmedilmiş olan tasarımdan elde edilen oranlara
+uyulması gerekir.
+
+- CE işaretinin çeşitli öğeleri, aynı dikey boyuta sahip olmalıdır ve bu boyut da 5 mm.'den az olamaz.
