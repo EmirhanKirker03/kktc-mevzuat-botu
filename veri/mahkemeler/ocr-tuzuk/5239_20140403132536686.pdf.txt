@@ -1,0 +1,1229 @@
+[SAYFA 1]
+KUZEY KIBRIS TÜRK CUMHURİYETİ
+RESMI GAZETE
+
+Sayi: 51 ‘ EK Ul 4 Mart, 2014
+TEBLİĞ VE İLANLAR
+
+Sayı: 157
+
+ELEKTRONİK HABERLEŞME YASASI
+(6/2012 Sayılı Yasa)
+Madde 33, 34, 36, 37, 38, 39, 40, 47 Altında Yapılan Tüzük
+
+Kuzey Kıbrıs Türk Cumhuriyeti Bakanlar Kurulu, Elektronik Haberleşme Yasası'nın 33,
+34, 36, 37, 38, 39, 40, 47 Maddelerinin kendisine verdiği yetkiye dayanarak aşağıdaki
+Tüzüğü yapar:
+
+Kısa İsim 1. Bu Tüzük, “Erişim, Ara Bağlantı, Piyasa Analizi ve Tarifeler
+Tüzüğü” olarak isimlendirilir.
+
+(413)
+
+[SAYFA 2]
+Tefsir
+
+414
+
+BİRİNCİ KISIM
+Genel Kurallar
+
+2. Bu Tüzükte metin başka türlü gerektirmedikçe:
+
+“Ara Bağlantı”, Bir haberleşme sağlayıcının kullanıcılarının aynı
+veya bir başka haberleşme sağlayıcının o kullanıcılarıyla
+haberleşmesini veya bir başka haberleşme sağlayıcının sağladığı
+hizmetlere erişmesini temin etmek için aynı veya farklı haberleşme
+sağlayıcılar (o tarafından (o kullanılan (o elektronik (o haberleşme
+şebekelerinin fiziksel ve mantıksal olarak birbirine bağlanmasını
+anlatır.
+
+“Ayrıştırma”, Bir haberleşme sağlayıcının, şebekesi üzerinden
+verdiği hizmetleri, taşıma, anahtarlama, arayüz de dâhil olmak
+üzere sadece talep edilen şebeke bileşenlerine ve talep edilen
+türden erişim sağlanmasına imkân verecek şekilde birbirinden ayrı
+olarak sunmasını anlatır.
+
+“Bağımsız Hesap Uzmanı”, Maliye ile ilgili Bakanlık tarafından
+yetkili muhasip ve denetçi olarak yetkilendirilen bir gerçek kişiyi
+veya muhasebe ve denetim firmasını anlatır.
+
+“Bakanlık”, Elektronik haberleşmeden sorumlu Bakanlığı anlatır.
+“Boru”, Kabloları taşımakta kullanılan yeraltı kanalları ve tesisi
+anlatır.
+
+“Direk”, Kabloları taşımakta kullanılan yer üstü tesislerini anlatır.
+“Elektronik Haberleşme Sağlayıcı/Haberleşme Sağlayıcı”, bir
+elektronik haberleşme şebekesinin operatörü veya elektronik
+haberleşme (o hizmetleri saglayan tüzel kişiyi anlatır ve
+Telekomünikasyon Dairesini de kapsar.
+
+“Erişim”, Yasa ve bu Tüzük'te belirtilen koşullarla elektronik
+haberleşme şebekesi, destekleyici altyapı ve/veya bağlantılı
+hizmetlerin baska (haberleşme O sağlayıcıların (kullanımına
+sunulmasını anlatır.
+
+“Etkin Piyasa Gücü”, Bir elektronik haberleşme şebekesinin bir
+operatörünün bireysel olarak veya başkalarıyla birlikte, ilgili
+elektronik haberleşme piyasasında rakipleri, müşterileri ve nihai
+olarak, O tüketicilerden belirgin ölçüde bağımsız hareket
+edebilmesine imkan veren ekonomik gücü anlatır.
+
+“Geçici Tarife Değişikliği”, Kampanya, promosyon vb. farklı adlar
+altında belirli bir süre için yapılan her türlü tarife değişikliğini
+anlatır.
+
+“İlgili Piyasa”, Herhangi bir türden elektronik haberleşme
+hizmetlerine ait veya bunların yerini tutabilecek başka elektronik
+
+[SAYFA 3]
+6/2012
+
+415
+
+haberleşme hizmetlerine ait bir piyasayı anlatır.
+
+“Kamusal Haberleşme Sağlayıcı”, Kamusal haberleşme şebekesi
+üzerinden kamuya elektronik haberleşme hizmetleri veren
+haberleşme sağlayıcısını anlatır ve Telekomünikasyon Dairesini de
+kapsar.
+
+“Koşullu Erişim Sistemi”, Radyo ve televizyon yayın sistemlerine
+abonelik veya başka bir yöntemle önceden izin verilmesi yoluyla
+koşullu olarak erişimi sağlayan her türlü teknik tedbir ve
+düzenlemeyi anlatır.
+
+“Kule”, Üzerine kablolu ve kablosuz iletişim için kullanılan anten
+ve diğer cihazların kurulduğu tesisleri anlatır. “Kullanıcı”, bir
+abone olsun veya olmasın, elektronik haberleşme hizmetleri
+kullanan herhangi bir gerçek veya tüzel kişiyi anlatır.
+
+“Kurul”, Yasa tahtında kurulan Bilgi Teknolojileri ve Haberleşme
+Kurumunun Yönetim Kurulunu anlatır.
+
+“Kurum”, Bilgi Teknolojileri ve Haberleşme Kurumunu anlatır.
+“Muhasebeyi Ayırma”, İşletme içi transferler de dâhil, her bir
+faaliyetle ve iş birimiyle ilgili gelir, gider ve maliyetlerin
+ayrılmasını anlatır.
+
+“Sabit Telefon Hizmetleri”, Teknoloji sınırlaması olmaksızın
+mevcut sabit kamusal telefon şebekesi veya aynı tarzda
+oluşturulabilecek diğer şebekeler üzerinden kullanicilara/abonelere
+temel telefon hizmetlerinin sunulmasını anla ır.
+
+“Şebeke Sonlanma Noktası”, Bir abonenin bir elektronik
+haberleşme şebekesine eriştiği fiziksel noktayı anlatır.
+
+“Tarife”, Bir haberleşme sağlayıcısının, elektronik haberleşme
+hizmetleri karşılığında veya bir elektronik haberleşme şebekesine
+erişim karşılığında kullanıcılara uyguladığı, herhangi değişik ücret
+kalemlerinden oluşan listeyi anlatır.
+
+“Taşıyıcı”, Çağrı başlatma, çağrı sonlandırma veya çağrı taşımayla
+ilgili hizmetlerin tamamı veya bir kısmını sunan bir elektronik
+haberleşme şebekesi sağlayıcısını anlatır.
+
+“Taşıyıcı Ön Seçimi”, Kullanıcıların, bir taşıyıcı seçim kodu
+çevirmeksizin bir taşıyıcıyı önceden seçmeleri için kullanılan bir
+yöntemi anlatır.
+
+“Taşıyıcı seçim kodu”, Taşıyıcılara, taşıyıcı seçimi amacıyla
+Kurumca tahsis edilen kodu anlatır.
+
+“Taşıyıcı Seçimi”, Kullanıcıların bir taşıyıcı seçim kodu çevirmek
+yoluyla bir taşıyıcı seçmelerinin yöntemini anlatır.
+
+“Tüketici”, Ticari veya mesleki olmayan amaçlar için elektronik
+haberleşme hizmetleri kullanan veya talep eden herhangi bir gerçek
+veya tüzel kişiyi anlatır.
+
+“Uzun Dönem Artan Maliyetler”, Etkin bir şekilde çalışan ara
+bağlantı veya erişim hizmetlerini sunan haberleşme sağlayıcının,
+doğrudan ileriye yönelik masrafları, ek olarak sağlanan hizmetin
+toplu ve ortak masrafları ve mevcut masraflar temelli muhasebe
+hesabı ile hesaplanan işletme sermayesinden gelen karşılığı anlatır.
+“Veri Akış Erişimi”, Abone tarafındaki şebeke sonlanma
+noktasını, veri iletimine imkân verecek şekilde, abonenin bağlı
+bulunduğu ana dağıtım çatısının bulunduğu tesise veya eşdeğer
+tesise yerleştirilen teçhizata bağlayan her türlü cihaza ve fiziksel
+devreye erişimi anlatır.
+
+“Yasa”, Elektronik Haberleşme Yasası'nı anlatır.
+
+“Yerel Ağ”, Bir sabit elektronik haberleşme şebekesinde, abonenin
+mekanlarındaki şebeke sonlanma noktasını ana dağıtım çatısına
+
+[SAYFA 4]
+Amaç
+
+Kapsam
+
+İlkeler
+
+416
+
+voya eşdeğer tesise bağlayan erişim devresini anlatır.
+
+“Yerel Ağa Ayrıştırılmış Erişim”, Yerel ağın mülkiyetinde bir
+değişiklik olmadan yerel ağa ayrıştırılmış tam erişimi ve yerel ağa
+paylaşımlı erişimi anlatır.
+
+3. Bu Tüzüğün amacı; elektronik haberleşme şebeke ve hizmetlerinde
+etkin ve adil rekabetin, teknolojik gelişimlerin, hizmet kalitesinin ve etkin
+yatırımların teşvik edilmesinin; kullanıcıların makul bir ücret karşılığında
+elektronik haberleşme hizmetlerinden ve şebekelerinden azami ölçüde
+yararlanmasını sağlayacak uygulamaların geliştirilmesinin; şebekelerin
+bütünlüğü ve birlikte çalışabilirliğinin sağlanması amaçlarıyla erişim, ara
+bağlantı, etkin piyasa gücüne sahip haberleşme sağlayıcıların tespiti ve
+yükümlülükleri ile tarifelerin düzenlenmesi, denetlenmesi, incelenmesi ve
+izlenmesine ilişkin usul ve esasları belirlemektir.
+
+4. Bu Tüzük; haberleşme sağlayıcılarının erişim ve ara bağlantıya ilişkin
+hak ve yükümlülüklerini, Kurum tarafindan gerçekleştirilecek piyasa
+analizlerini, etkin piyasa gücüne sahip haberleşme sağlayıcılarının tespit
+edilmesi ve bunlara ilişkin getirilecek ek yükümlülüklerin çerçevesini,
+tarifelerin düzenlenmesine ilişkin usul ve esasları kapsar.
+
+5. Bu Tüzüğün uygulanmasında aşağıdaki temel ilkeler göz önüne alınır.
+
+(1) Serbest, etkin ve sürdürülebilir bir rekabet ortamının sağlanması ve
+korunması,
+
+(2) Ülkenin her yerinde, makul bir ücret karşılığında geniş kapsamlı
+elektronik haberleşme şebeke ve hizmetlerinden yararlanılmasının
+sağlanması,
+
+(3) Eşit şartlardaki kullanıcılar ve haberleşme sağlayıcılar arasında
+ayrım gözetilmemesi, hizmetlerin benzer konumdaki kullanıcılar
+tarafından eşit şartlarla ulaşılabilir olması,
+
+(4) Tüketici hak ve menfaatlerinin gözetilmesi,
+
+(5) Yeni teknolojilerin geliştirilmesi ve kullanılması ve yatırımların
+teşvik edilmesi,
+
+(6) Şebeke ve hizmetlerin birlikte çalışabilirliğinin teşvik edilmesi ve
+şebeke erişiminin kolaylaştırılması,
+
+(7) Bir hizmetin maliyetinin diğer bir hizmetin ücreti yoluyla
+desteklenmesinden veya karşılanmasından kaçınılması,
+
+(8) Ücretlerin ve tarifelerin, rekabetin engellenmesine, bozulmasına
+veya kısıtlanmasına neden olacak şekilde belirlenmemesi,
+
+(9) Uluslararası uygulamalarını .ygun olduğu ölçüde dikkate alınması.
+
+(10) Niteliksel ve niceliksel devamlılık, düzenlilik, güvenilirlik,
+verimlilik, açıklık, şeffaflık ve kaynakların verimli kullanılmasının
+gözetilmesi.
+
+(11) Kullanıcıların talep ettikleri hizmetlerin dışında herhangi bir
+hizmeti satın almak zorunda bırakılmaması.
+
+(12) Elektronik haberleşme hizmetleri karşılığı alınacak ücretlerin
+mümkün olduğu ölçüde hizmetin etkin olarak sağlanması
+maliyetine dayalı olması.
+
+[SAYFA 5]
+Erişimin Kapsamı
+
+Ara Bağlantı ve
+Erişim Koşulları
+
+417
+
+İKİNCİ KISIM
+Lrişim ve Ara Bağlantı
+
+6. Erişim kapsamında aşağıdakiler yer alır:
+
+(1) Yerel ağa ayrıştırılmış erişim ve veri akış erişimini de içerecek
+şekilde elektronik haberleşme şebekesi bileşenlerine ve ilgili
+tesislerine her türlü yöntemle erişim,
+
+(2) Binalar, borular, direkler ve kuleleri de içerecek şekilde mevcut
+erişim seçeneklerini de dikkate alarak fiziksel alt yapıya erişim,
+
+(3) İşletim destek sistemlerini de içerecek şekilde ilgili yazılım
+sistemlerine erişim,
+
+(4) Numara dönüşümüne veya eşdeğer işlevselliğe sahip sistemlere
+erişim,
+
+(5) Sanal şebeke sistemlerine erişim,
+
+(6) İki elektronik haberleşme şebekesi arasındaki bağlantı,
+
+(7) Ulusal dolaşım da dahil olmak üzere sabit ve mobil şebekelere
+erişim,
+
+(8) Koşullu erişim sistemlerine erişim,
+
+(9) Yeniden satış amacıyla hizmetlerin toptan seviyede sunulması,
+
+(10) Kurum düzenlemeleri ile belirlenen diğer hallerdeki erişim.
+
+7. (1) Herhangi iki haberleşme sağlayıcı kendi aralarında erişim ve/veya
+ara bağlantı için teknik ve ticari anlaşma yapabilir. Erişim ve/veya ara
+bağlantı hizmetlerini sunan haberleşme sağlayıcı; kendisinden bu
+hizmetleri talep eden haberleşme sağlayıcılara aynı koşullarda hizmet
+sunacak; (o hizmetlere (o ilişkin (o ücretlerinin © belirlenmesinde o net
+maliyetlerinden bağımsız bir hesaplama yöntemi uygulamayacaktır.
+
+(2) Bir haberleşme sağlayıcı, ilgili hizmetlerin sunulması için gerekli
+fiziksel altyapı ve şebekeyi kontrolünde bulunduran kamusal haberleşme
+sağlayıcısından erişim talep edebilir. Talebi alan kamusal haberleşme
+sağlayıcısı, erişim sağlamak zorundadır. Talebi alan kamusal haberleşme
+sağlayıcısının, talep tarihinden itibaren 15 (Onbeş) iş günü içerisinde,
+Kurum'a başvurarak;
+
+(A) Fiziksel alt yapısı ve şebekesinin kapasite ve alanmın müsait
+olmadığını veya,
+
+(B) Ara bağlantı ve/veya erişim sebebiyle şebeke, veri veya iletişim
+güvenliğinin ve bütünlüğünün temin edilemeyeceğini veya,
+
+(C) Şebekelerin karşılıklı işlerliğinin mümkün olmadığını
+
+somut kriterlerle kanıtlaması halinde, Kurum tarafından erişimin
+sınırlandırılmasına ve sağlanacak erişimin kapsamına karar verilir, Kurum
+kendisi tarafından belirlenecek süre içerisinde, kamusal haberleşme
+sağlayıcısına erişimin sınırlandırılmasına sebep olan koşulların kaldırılması
+yükümlülüğü getirebilir.
+
+(3) Kamusal haberleşme sağlayıcılar taşıma, anahtarlama ve işletim ara
+yüzleri de dâhil olmak üzere kendilerinden talep edilen erişimi sağlayacak
+şekilde altyapı ve şebekelerinde gerekli ayrigtirmay: yapmakla
+yükümlüdürler.
+
+(4) Haberleşme sağlayıcılar erişim veya ara bağlantı sözleşmesinin
+akdinden itibaren beş iş günü içerisinde sözleşmeyi Kurum'a iletirler,
+Kurum kendisine iletilen sözleşmeyi Yasa, ilgili mevzuat ve referans teklif
+
+[SAYFA 6]
+Ara Bağlantı ve
+Erişime o İlişkin
+Uyuşmazlıklar
+
+418
+
+hazırlanması gereken hallerde ilgili referans teklif kapsamında inceler.
+Kurum sözleşmenin kendisine iletilmesinden itibaren 10 (On) iş günü
+içerisinde gerekmesi halinde ilgili haberleşme sağlayıcılara, sözleşme
+üzerinden yapılması gereken değişikliklere ilişkin bildirimde bulunur.
+Kurumun sözleşme üzerinde değişiklik yapılması gerektiğini tespit etmesi
+halinde haberleşme sağlayıcılar, 10 (On) iş günü içerisinde sözleşme akit
+tarihinden itibaren geçerli olacak şekilde sözleşme üzerinde Kurumun
+belirttiği değişiklikleri yaparak değişikliklerin işlendiği sözleşmeyi
+Kuruma iletirler.
+
+(5) Kurum, kamusal haberleşme sağlayıcılar arasında, ara bağlantı
+bulunmaması sebebiyle kullanıcıların iletişim imkanlarının azaltıldığı veya
+ortadan kaldırıldığı ve ekonomik ve teknik açıdan ara bağlantı
+yapılmasının uygun olduğu durumlarda, kamusal haberleşme sağlayıcılara
+resen ara bağlantı anlaşması yapma yükümlülüğü getirebilir.
+
+(6) Haberleşme sağlayıcılar ara bağlantıyı teknik ve ekonomik olarak
+uygun olacağı kanıtlanabilen herhangi bir ara bağlantı noktasından temin
+edebilirler. Ara bağlantı talebinde bulunan haberleşme sağlayıcının bu
+kapsamın dışında bir noktadan ara bağlantı talep elmesi hâlinde, talepte
+bulunan haberleşme sağlayıcı ortaya çıkacak ek maliyetleri karşılayacaktır.
+Kamusal haberleşme ( sağlayıcılar ara bağlanı ve/veya erişim
+gerçekleştirebilmek amacıyla, kamusal haberleşme şebekelerinin, ilgili
+uluslararası standardizasyon kuruluşlarının onayladığı ekipmanlar ve
+standartlar çerçevesinde birlikte çalışabilirliğini sağlamak zorundadırlar.
+
+(7) Kamusal haberleşme sağlayıcılar kendilerinden ara bağlantı ve/veya
+erişim talebinde bulunan haberleşme sağlayıcılara sunacakları ara bağlantı
+ve/veya crisim (hizmetlerinde; talep edilen dışında hizmetlerin
+sunulmaması amacıyla sadece gerekli ara bağlantı ve/veya erişim
+hizmetlerini sunacak ve talepte bulunan haberleşme sağlayıcının talep
+ettiği ara bağlantı için gerekli teknik koşullar dışında ek teknik koşul ve
+şartlar ortaya koymayacaktır.
+
+(8) Haberleşme sağlayıcılar, gerek erişim ve/veya arabağlantı koşullarının
+müzakereleri esnasında gerekse bu müzakerelerden önce veya sonra diğer
+haberleşme sağlayıcıdan elde ettikleri bilgileri, veriliş amacına uygun
+olarak kullanmak ve her hâlükârda gizli tutmakla yükümlüdür. Söz konusu
+bilgiler, Kurum haricinde, hiç bir şekilde, bu tür bilgileri kendilerine
+haksız rekabet avantajı sağlayacak şekilde kullanabilecek üçüncü şahıslara,
+işletmecilerin ortaklarına, iştiraklerine ve ortaklıklarına ifşa edilemez.”
+
+$. (1) Kamusal haberleşme şebeke sağlayıcıları, herhangi bir
+yetkilendirilmiş haberleşme sağlayıcı tarafından talep gelmesi halinde, bu
+Tüzüğün 7'nci Maddesi uyarınca , talep tarihinden itibaren cn geç 25
+(Yirmibeş) iş günü içerisinde herkesçe kullanılabilir elektronik haberleşme
+hizmetleri sağlamak amacıyla birbirleriyle ara bağlantı veya erişim
+anlaşmaları yapmakla yükümlüdürler. Bir kamusal haberleşme sağlayıcıya
+ara bağlantı ve/veya erişim görüşmesi talebinde bulunan haberleşme
+sağlayıcı, talepte bulunduğu günde, talebiyle ilgili Kurumu da bilgilendirir.
+
+(2) Talepte bulunulan kamusal haberleşme sağlayıcının 25 (Yirmibeş) iş
+günü sonunda, müzakerelerin sürdürülmesi için uygun sebepleri
+bulunduğunu ortaya koyarak Kurum'dan ek süre talep etmesi halinde
+
+[SAYFA 7]
+419
+
+Kurum tarafından 15 (Onbeş) iş gününü aşmamak üzere ek süre verilebilir.
+(3) Tarafların verilen sürelerde anlaşamamaları halinde talepte bulunan
+haberleşme sağlayıcı, talebinin kapsamı ve süresi, talebi çerçevesinde
+teklif edilen ücret ve gerekçeleri, taraflarca üzerinde anlaşma
+sağlanamayan hususlar ve talebinin geçerliliğiyle ilgili tüm bilgi ve
+belgeler ile birlikte uyuşmazlık hakkında karar verilmesi amacıyla Kuruma
+talepte bulunabilir. Kurum talebin değerlendirilmesi için gerekli bilgi ve
+belgelerin eksik olduğunu tespit ederse haberleşme sağlayıcıya
+eksikliklerin giderilmesi için 15 (Onbeş) iş günü ek süre verebilir, bu süre
+içerisinde eksiklerin giderilmemesi halinde başvuru yapılmamış kabul
+edilir.
+
+(4) Kurum talep bildiriminden itibaren 15 (Onbeş) iş günü içerisinde
+haberleşme sağlayıcıya, uyuşmazlığın Yasa ve ilgili mevzuat kapsamında
+Kurum tarafından değerlendirilmesi gereken bir durum olup olmadığı ile
+ilgili cevabını iletecektir. Kurumun uyuşmazlığın değerlendirilmesi
+gerektiğine karar vermesi halinde, durum Kurum tarafından diğer
+haberleşme sağlayıcıya bildirilecek ve haberleşme sağlayıcı uyuşmazlıkla
+ilgili tüm bilgi ve belgeleri 25 (Yirmibeş) iş günü içerisinde Kuruma
+gönderecektir.
+
+(5) Kurum, yukarıdaki 4’tineti Fıkrada belirlilen belgelerin kendisine
+iletilmesinden itibaren en geç 20 (Yirmi) iş günü içerisinde Yasa ve bu
+Tüzük kuralları doğrultusunda crisim veya ara bağlantı koşullarını
+belirleyen nihai kararı üretir. Talebin daha önce sunulmayan bir hizmete
+ilişkin olması, talebin içeriğinin kapsamlı bir çalışma ve bilgi toplama
+süreci gerektirmesi ve Kurumun gerekli gördüğü diğer istisnai hallerde bu
+süre en fazla 20 (Yirmi) iş günü daha uzatılabilir.
+
+(6) Kurum tarafından sürdürülen uyuşmazlık çözüm sürecinde Kurum
+haberleşme sağlayıcıları toplantıya davet ederek tarafların uzlaşması için
+görüşmeler yürütebilir.
+
+(7) Kurum karar alma sürecinde; haberleşme sağlayıcılardan gelen bilgi ve
+belgeler ile gerekmesi halinde haberleşme sağlayıcılar ile ilgili kurum ve
+kişilerden alınacak diğer bilgi, belge ve görüşleri değerlendirir. Kurum
+tarafından alınacak kararda; tüketicilerin o iletişim (imkanlarının
+sürdürülmesi ilkesi esas alınır. Kurum;
+
+(A) — Uyuşmazlığın sebepleri,
+
+(B) © Ara bağlantı ve erişime ilişkin teknik koşulları ve kapasite durumu,
+(CO) o Tüketicilere sunulacak hizmetlerin durumu,
+
+(Ç) Piyasa ve rekabet koşulları
+
+hususlarından ilgili olanları inceleyerek nihai kararını alır.
+
+(8) Kurum nihai kararında, ara bağlantı veya erişimin teknik kapsamı, ara
+bağlantı noktaları, yerel ağ da dâhil olmak üzere bütün şebeke
+bileşenlerine ayrıştırılmış erişim sağlama yükümlülüğünün kapsamı, ara
+bağlantı ve erişim hizmetlerinin ücretlerini, Karara ilişkin yükümlülüklerin
+başvuru tarihinden daha önce olmamak kaydı ile uygulanma tarihini
+belirtir.
+
+[SAYFA 8]
+Piyasa Analizi
+
+420
+
+ÜÇÜNCÜ KISIM
+Piyasa Analizi
+
+9. (1) Piyasa analizleri Kurum tarafından, en az 2 (İki) yılda bir veya
+ihtiyaç hissedildiğinde resen yapılır ya da en az bir işletmecinin gerekçeli
+talebi üzerine yapılabilir. Piyasa analizi kapsamında öncelikle bu Tüzük
+kapsamında ilgili piyasanın tespiti gerçekleştirilir.
+
+(2) Kurum belirlediği ilgili piyasalarda, aşağıda belirtilen;
+
+(A) Piyasaya giriş önünde yüksek ve geçici olmayan engel veya engellerin
+olması,
+
+(B) Piyasa yapısının belirli bir dönem içinde kendiliğinden rekabetçi
+yapıya kavuşacağının beklenmemesi,
+
+(C) Rekabet hukuku kurallarının tek başına uygulanmasının piyasa
+aksaklıklarını gidermede yetersiz olması halinde;
+
+hususlarının tespitine ilişkin değerlendirmelere ilgili piyasa analizi
+
+çalışmasında yer vererek; söz konusu hususların her üçünün de sağlanması
+
+durumunda, bu Tüzük ile belirlenen koşullarda etkin piyasa gücünün tespiti
+
+ve etkin piyasa gücüne sahip haberleşme sağlayıcılara ek yükümlülüklerin
+
+getirilmesi süreçlerini uygular.
+
+(3)Kurum (piyasa (analizleri (o çalışmaları (o sırasında, (o haberleşme
+sağlayıcılardan piyasa analizi ile ilgili her türlü bilgi ve belgeyi talep
+edebilir. Haberleşme sağlayıcılar talep edilen her türlü bilgi ve belgeyi
+belirtilen kapsam ve şekilde Kuruma sunmakla yükümlüdür.
+
+(4) Piyasa analizi sonucunda ilgili piyasanın yapısına göre, etkin piyasa
+gücüne sahip haberleşme sağlayıcılarına getirilmiş olan mevcut
+yükümlülükler değiştirilebilir veya kaldırılabilir. İlgili piyasada etkin
+piyasa gücüne sahip haberleşme sağlayıcı olmadığına karar verilmesi
+halinde; varsa önceden getirilmiş olan yükümlülükler kaldırılır.
+
+(5) Kurum, mevcut veya muhtemel bir rekabet sorununun çözümüne
+yönelik olarak ilgili piyasa analizini yenilemeksizin; uygulanacak ilave
+yükümlülüklerin ilgili rekabet sorununun çözümüne yönelik uygun ve
+orantılı tedbirler olduğunu objektif gerekçeleri ile belirtmek suretiyle ilgili
+piyasada etkin piyasa gücüne sahip olan işletmeciye bu Tüzük ile
+belirlenen ilave yükümlülük veya yükümlülükleri getirebilir veya
+kaldırabilir.
+
+(6) Kurum, yükümlülüklerin kaldırılmasının ve değiştirilmesinin yürürlüğe
+girmesinden önce, yükümlülüklerin kaldırılmasından veya
+değiştirilmesinden etkilenen taraflara, haberleşme sağlayıcı tarafından, en
+az 5 (Beş) iş günü olmak üzere Kurum tarafından belirlenen uygun ihbar
+süresi verilmesini sağlar.
+
+(7) Kurum piyasa analizlerine yönelik olarak, en az 30 (Otuz) iş günü süre
+vermek suretiyle Rekabet Kurumu ve kamuoyu görüşünü almak
+zorundadır. Kurum, piyasa analizlerine yönelik Rekabet Kurumu ve
+kamuoyu görüşü alınmasına ilişkin dokümanları, Rekabet Kurumu ve
+kamuoyu görüşleri sonrası değerlendirmeleri içeren dokümanları ve piyasa
+
+[SAYFA 9]
+İlgili o Piyasaların
+Tanımlanması
+
+Etkin Piyasa
+Gücüne Sahip
+İşletmecilerin
+Belirlenmesi
+
+421
+
+analizleri sonucunda getirilen yükümlülükleri ihtiva eden nihai piyasa
+analizi dokümanlarını internet silesinde yayımlar.
+
+10. (1) Kurum ilgili piyasaları, Avrupa Birliği'nin tavsiye kararlarını da
+göz önünde bulundurarak, düzenleme gereksinimine göre belirler. Kurum
+ilgili piyasaların tanımını haberleşme sağlayıcılar tarafından sunulan
+hizmetler kapsamında; (ikame edilebilirlik ve kullanıcı davranışları
+doğrultusunda) sunulan ürün ve hizmet grupları, hizmet sunulan müşteri
+grupları, ürün ve hizmetlerin sunulduğu coğtafi alan ile etkilenen alam
+dikkate alarak belirleyecektir. Kurum, arz ve talep yönlü özellikleri dikkate
+alarak ilgili piyasa kapsamındaki hizmet, şebeke ve benzeri hususları göz
+önünde bulundurmak suretiyle farklı alt piyasalar tanımlayabilir.
+
+(2) Yasa'nın 39'uncu maddesi doğrultusunda Kuzey Kıbrıs Türk
+Cumhuriyetinde sonlanan veya başlayan uluslararası kiralık hatlar dahil
+olmak üzere asgari kiralık hatlar seli Kurum tarafindan piyasa olarak
+tanımlanır.
+
+11. (1) Etkin piyasa gücüne sahip haberleşme sağlayıcının tespitinde,
+haberleşme sağlayıcının sahip olduğu pazar payı öncelikle göz önünde
+bulundurulur. Pazar paylarının tespitinde ilgili piyasanın özelliklerine göre;
+gelir, abone sayısı, kullanıcı sayısı, trafik miktarı, iletim kapasitesi, iletim
+hattı sayısı gibi veriler uygun ve mevcut olduğu ölçüde kullanılır. Etkin
+piyasa gücünün tespitinde pazar payının yanı sıra,
+
+(A) Kolayca tekrarlanamayan altyapıların kontrolü,
+
+(B) Teknolojik avantajlar veya teknolojik üstünlük,
+
+(C) Dengeleyici alıcı gücünün düşüklüğü veya olmaması,
+
+(Ç) Finansal kaynaklara veya sermaye piyasalarına kolay ve ayrıcalıklı
+erişim imkânı,
+
+(D) Ürün veya hizmet çeşitliliği,
+
+(BE) Ölçek ekonomisi,
+
+(F) Kapsam ekonomisi,
+
+(G) Dikey bütünleşme,
+
+(ED Gelişmiş dağıtım ve satis ağları,
+
+(i) Potansiyel rekabetin olmaması,
+
+(J) Genişleme önündeki engeller.
+
+gibi haberleşme sağlayıcının rakiplerine rekabet üstünlüğü sağlamasına
+yarayan özellikleri de dikkate alınır.
+
+(2) Haberleşme sağlayıcının ilgili piyasada diğer haberleşme sağlayıcılarla
+birlikte etkin piyasa gücüne sahip olduğunun belirlenmesinde aşağıdaki
+kriterler uygun olduğu ölçüde dikkate alınır:
+
+“(A) Düşük talep esnekliği,
+(B) Benzer pazar payları,
+(C) Yüksek yapısal ya da hukuki giriş engelleri,
+(C)Kolektif olarak anlaşma yapmayı reddeden dikey bütünleşme,
+(D) Dengeleyici alıcı gücü eksikliği,
+(E) Potansiyel rekabet eksikliği,
+(F) Piyasanın olgunluk seviyesi,
+(G) Talep yönünde durgun veya düşük büyüme,
+(H) Homojen ürün veya hizmetler,
+(İ) Maliyet yapılarındaki benzerlik,
+
+[SAYFA 10]
+Etkin Piyasa
+Gücüne Sahip
+Haberleşme
+Sağlayıcılara
+Yönelik Düzeltici
+Faaliyetler
+
+422
+
+(J) Teknolojik olgunluk ve yenilikçiliğin olmaması,
+
+(K) Ati] kapasitenin olmaması,
+
+(L) Haberleşme sağlayıcılar arasındaki resmi veya gayri-resmi
+bağlantılar,
+
+(M) Ticari davranışlara karşılık verme mekanizmaları ve fiyat
+paralellikleri,
+
+(N) Fiyat rekabetinin olmaması veya düşük olması.
+
+(3) Bir veya birden fazla haberleşme sağlayıcısının belirli bir piyasada
+etkin piyasa gücüne sahip olduğunun tespit edilmesi halinde, söz konusu
+piyasada sahip olunan piyasa gücü, yakından bağlantılı olan bir başka
+piyasada kullanılabilecek gibi ise ve bu durum ilgili haberleşme
+sağlayıcısının piyasa gücünü güçlendiriyorsa, haberleşme sağlayıcısının
+bağlantılı piyasada da cikin piyasa gücüne sahip olduğu kabul edilebilir.
+
+(4) Aynı veya farklı piyasalarda, etkin piyasa gücüne sahip olduğu tespit
+edilen haberleşme sağlayıcılar için, Yasa ve bu Tüzük ile belirlenen ilkeler
+doğrultusunda, ilgili durumda uygun rekabet ortamının tesis edilmesi
+amacıyla sınırlı olmak üzere farklı yükümlülükler tespit edilebilir. İlgili
+piyasanm farklı alt pazarlarında yer alan ürün, altyapı ve hizmetler
+bakımından etkin piyasa gücüne sahip olan işletmeci veya işletmecilere
+yönelik farklılaştırma da yapılabilir. Farklılaştırma, işletmecilere ilgili
+pazarda getirilebilecek yükümlülüklerin seçimi veya seçilmiş olan
+yükümlülüklerin uygulama detaylarının farklılığı şeklinde olabilir.
+
+(5) Etkin piyasa gücüne sahip haberleşme sağlayıcılar için belirlenecek tüm
+tedbir ve yükümlülükler, etkin piyasa gücünün kötüye kullanılmasının
+tüketicinin korunmasına ve rekabete zarar verecek nitelikte olması riskini
+azaltmak veya sona erdirmek amacıyla belirlenir.
+
+12. (1) Kurum ilgili bir piyasada etkin piyasa gücüne sahip olduğunu tespit
+ettiği herhangi bir haberleşme sağlayıcısına, bu Tüzüğün 7'nci Maddesinde
+belirtilen yükümlülüklere ek olarak bu maddede belirtilen düzeltici
+tedbirlerin birini veya birden fazlasını öngörebilir.
+
+(2) Şeffaflık: Kurum ilgili bir piyasada etkin piyasa gücüne sahip olduğunu
+tespit etiği herhangi bir haberleşme sağlayıcısına; muhasebe bilgileri,
+teknik özellikler, şebeke özellikleri, sağlama ve kullanım şartları ve fiyatlar
+gibi, belirlenmiş bilgileri kamuoyuna duyurmalarını talep eden, ara
+bağlantı ve/veya erişimle ilgili şeffaflık yükümlülükleri koyabilir, Kurum,
+sunulacak bilgileri, bunların gerekli detay seviyesi ile yayımlama şeklini
+belirler.
+
+(A) Kurum ilgili bir piyasada ctkin piyasa gücüne sahip olduğunu tespit
+ettiği herhangi bir haberleşme sağlayıcısına, verdiği bükümlü metalik
+gift yerel ağa ayrık erişim hizmetleri için en az bu Tüzüğe ekli Birinci
+Cetvel’de yer alan hususları içeren, diğer ara bağlantı veya erişim
+hizmetlerine yönelik olarak ise en az bu Tüzüğe ekli İkinci Cetvel’de
+yer alan hususları içeren ve verdiği hizmetlerin piyasa ihtiyaçlarına
+yönelik bileşenlerine ayrılmış bir referans teklifi yayımlaması
+yükümlülüğü getirebilir. Referans teklif, haberleşme sağlayıcıların
+aralarındaki erişim ve ara bağlantı sözleşmelerinde taslak teşkil eder.
+
+(B) Kurum tarafından referans teklif hazırlaması yükümlülüğü getirilen
+haberleşme sağlayıcı, o yükümlülüğün kendisine bildirilmesinden
+
+[SAYFA 11]
+423
+
+itibaren 35 (Otuzbeş) iş günü içerisinde referans teklifi hazırlayarak
+Kurum'un onayına sunar. Kurum kendisine sunulan teklifi Yasa, ilgili
+mevzuat ve uluslararası uygulamalar doğrultusunda 30 (Otuz) iş günü
+içerisinde değerlendirir. Kurum, değerlendirmesi neticesinde referans
+teklifte değişiklik yapılmasını öngörürse bu durumu haberleşme
+sağlayıcıya ( bildirir, haberleşme (sağlayıcı kendisine o bildirim
+yapılmasından itibaren 10 (On) iş günü içerisinde gerekli değişiklikleri
+yaparak Kurum'a bildirir.
+
+(©) Relerans teklifin Kurum tarafından onaylanması ve bu durumun
+haberleşme sağlayıcıya bildirilmesinden itibaren 2 (İki) gün içerisinde
+haberleşme sağlayıcı referans teklifini kendi internet sitesi üzerinden
+yayımlamak ve talep edilmesi. halinde diğer haberleşme sağlayıcılara
+sunmak Zorundadır. Onuylanan referans teklif ayıca Kurum internet
+sitesinden de yayımlanır.
+
+(Ç) Kurum tarafından aksi belirtilmedikçe, onaylanan referans teklifler her
+yıl yürürlükteki teklifler esas alınmak suretiyle yenilenerek Şubat ayı
+sonuna kadar Kuruma gönderilir. Bunun dışımda referans teklifi
+hazırlayan haberleşme sağlayıcı, Kurum'un iznini almak kaydı ile de
+referans teklifte değişiklik yapabilir.
+
+(D) Kurum yıllık değişiklikleri ve değişiklik taleplerini bu maddede
+açıklanan sürece paralel bir şekilde inceler ve karar verir.
+Değişikliklerin Kurum tarafından onaylanması ve kararın haberleşme
+sağlayıcıya bildirilmesinden itibaren 5 (Beş) iş günü içerisinde
+değişiklik referans teklife dahil edilir ve haberleşme sağlayıcı derhal
+değişiklikleri içeren referans teklifi, değişiklikleri öne çıkaracak
+şekilde yayımlar. Kurum tarafından onaylanan değişiklikler referans
+teklif baz alınarak hazırlanmış tüm erişim ve ara bağlantı
+sözleşmelerine ileriye etkili olacak şekilde uygulanır.
+
+(3) Ayrımcılık yapmama: Kurum ilgili bir piyasada etkin piyasa gücüne
+sahip olduğunu tespit ettiği herhangi bir haberleşme sağlayıcısına; başka
+haberleşme sağlayıcılarına hizmet vermesinin söz konusu olduğu
+durumlarda, kendi hizmetleri için veya bağlı kuruluşlarının veya
+ortaklarının hizmetleri için sağladığı şartlar ve kalileyle eşdeğer şarilar
+uygulaması, hizmet sunması ve bilgi sağlaması yükümlülüklerini
+getirebilir.
+
+(4) Muhasebeyi ayırma: Kurum ilgili bir piyasada cikin piyasa gücüne
+sahip olduğunu tespit ettiği herhangi bir haberleşme sağlayıcısına veya
+kamusal telefon şebekeleri veya herkesçe kullanılabilen telefon hizmetleri
+sağlayan haberleşme sağlayıcılara; Kurum tarafından belirlenecek hesap
+ayrımına ilişkin usul ve esaslar kapsamında faaliyet alanları ve iş birimleri
+için ayrı ayrı hesap tutma yükümlülüğü getirebilir,
+
+(A) Kurum muhasebeyi ayırma yükümlülüğü kapsamında, gerektiğinde
+adil olmayan çapraz sübvansiyonu engellemek için, haberleşme
+sağlayıcısından toptan fiyatlarını ve dahili transfer fiyatlarını
+ayrıştırarak Kurum'a ve diğer haberleşme sağlayıcılara bildirmesini
+isteyebilir.
+
+(B) Haberleşme — sağlayıcılar, Oo muhasebeyi (o ayırma (o yükümlülüğü
+kapsamında hazırladıkları raporları Kuruma, Kurum tarafından
+
+[SAYFA 12]
+424
+
+belirlenen biçim ve kapsam ve sürede yazılı ve elektronik ortamda
+gönderir. Kurum, Haberleşme sağlayıcılara; hesap ayrımı ve maliyet
+muhasebesi oyükümlülükleri kapsamında hazırladıkları bilgi ve
+belgeleri yayınlama yükümlülüğü getirebilir. Kurum, gerekli gördüğü
+takdirde bu bilgi ve belgeleri kendisi de yayımlayabilir. Yayımlanacak
+bilgi ve belgelerin kapsamı Kurum tarafından belirlenir,
+
+(C) Kurum, muhasebeyi ayırma yükümlülüğü kapsamında, haberleşme
+sağlayıcıların hesaplarını denetleyebilir veya denctim yetkisi vermek
+sureliyle denetletebilir veya haberleşme sağlayıcılara hesaplarını
+bağımsız hesap uzmanlarına denetletme yükümlülüğü getirebilir.
+Bağımsız hesap uzmanları bu Yasa ve hesap ayrımı ve maliyet
+muhasebesine ilişkin yürürlükteki mevzuat kuralları çerçevesinde
+inceleme ve denetimden sorumludurlar. Bağımsız hesap uzmanları
+tarafından yapılan denetime ilişkin giderler ilgili haberleşme
+sağlayıcılar tarafından karşılanır.
+
+(5) Belirli şebeke imkanlarına erişim ve kullanım: Kurum ilgili bir
+piyasada etkin piyasa gücüne sahip olduğunu tespit ettiği herhangi bir
+haberleşme sağlayıcısına; bu Tüzüğün 6'ncı Maddesi ile belirlenen erişim
+kapsamındaki (o bileşenlere 7'nci Madde ile belirlenen koşullar
+doğrultusunda erişim yükümlülüğü getirebilir. Kurum ayrıca etkin piyasa
+gücüne sahip olduğunu tespit ettiği haberleşme sağlayıcısının clekironik
+haberleşme sistem ve şebekelerinin bulunduğu arazi ve tesislerinde; diğer
+haberleşme sağlayıcıların donanımları ve ekipmanları için başla fiziksel
+ortak yerleşim olmak üzere her türlü ortak yerleşim sağlama yükümlülüğü
+getirebilir.
+
+(A) Haberleşme sağlayıcıların, herhangi bir yerde fiziksel ortak yerleşimin
+zaruri ve/veya imkân dahilinde olmadığını kanıtlamaları hâlinde,
+Kurum, bu yerlerde söz konusu haberleşme sağlayıcıları fiziksel ortak
+yerleşim yükümlülüğünden muaf tutabilir. Kurum, fiziksel ortak
+yerleşim yükümlülüğünden muaf tutulan haberleşme sağlayıcılara,
+uygulanabilir olduğu durumlarda, fizikscl ortak yerleşime eşdeğer
+ekonomik, teknik ve operasyonel koşullarla farklı bir yöntem
+kullanarak ortak yerleşim sağlama yükümlülüğü getirebilir.
+
+(B) Fiziksel ortak yerleşimden faydalanan haberleşme sağlayıcılar ve
+bunların yetkilendirdiği kişiler, kendi malzemelerine ve ekipmanlarına
+müdahale etmek üzere haberleşme sağlayıcılara önceden haber vermek
+şartıyla söz konusu hizmeti sağlayan haberleşme sağlayıcıların ilgili
+arazi ve tesislerine girebilir.
+
+(6) Fiyat kontrolü ve maliyet muhasebesi: Kurum ilgili bir piyasada ctkin
+piyasa gücüne sahip olduğunu tespit ettiği herhangi bir haberleşme
+sağlayıcısına; erişim ve ara bağlantı hizmetlerine ilişkin olarak, kullanıcılar
+aleyhine aşırı ölçüde yüksek fiyatlar uygulanmasının veya fiyat sıkıştırması
+yapılabilmesinin mümkün olduğu hallerde; maliyet muhasebesi, erişim ve
+ara bağlantı hizmetlerinin fiyatlarının maliyete yönelik olması ve fiyat
+kontrolü yükümlülükleri getirebilir.
+
+(A) Kurum fiyat kontrolü yükümlülüğü kapsamında; o haberleşme
+sağlayıcısının yapacağı yatırımı dikkate alarak, liyatlandırma
+yönteminin verimliliğe ve sürdürülebilir rekabete hizmet etmesini ve
+tüketiciye faydalarını en yüksek seviyeye çıkarmasını sağlayacak bir
+
+[SAYFA 13]
+425
+
+biçimde, haberleşme sağlayıcısının maliyetleri ve ilgili sermaye
+kaynakları üzerine makul bir getiri oranı tanıyarak fiyatların
+belirlenmesini sağlayacaktır. Belirlenecek fiyatların, yalırım ve
+maliyetler üzerinde makul bir getiri oranı ile birlikte belirlendiğini
+ispat yükü haberleşme sağlayıcısına ait olacaktır; hesaplama
+yönteminde Uzun Dönem Artan Maliyetler hesabı kullanılacaktır.
+
+(B) Kurum, maliyet muhasebesi yükümlülüğü kapsamında, haberleşme
+sağlayıcılara; maliyetlerin hangi ana kategorilerde gruplandırılmış
+olduğuna ve maliyetlerin tahsis edilmesi için hangi kuralların
+uygulandığına ilişkin bilgileri içeren kamuoyu açıklamaları yapma
+yükümlülüğü getirebilir.
+
+(O) Kurum tarafından, ara bağlantı ve erişim hizmetlerinde ücretlerin
+maliyet esaslı olarak belirlenmediğinin tespit edilmesi halinde söz
+konusu tarifeler Kurum tarafından Uzun Dönem Artan Maliyetler
+hesabı doğrultusunda maliyet esasına göre belirlenir. Hizmetlerin
+verimli sağlanma maliyetini hesaplamak amacıyla, Kurum, haberleşme
+sağlayıcısının kullandığı maliyet muhasebesi yöntemlerinden bağımsız
+yöntemler kullanabilir.
+
+(Ç) Kurum, Uzun Dönem Artan Maliyetler hesabı doğrultusunda fiyatları
+tespit edebilmesi için haberleşme sağlayıcılardan gerekli tüm bilgi ve
+belgeleri talep edebilir. Haberleşme sağlayıcılar Kurum tarafından
+talep edilen bilgi ve belgeleri kendilerine bildirim yapılmasından
+itibaren 15 (Onbeş) iş günü içerisinde Kuruma göndermek
+zorundadırlar. Kurum, haberleşme sağlayıcılardan gelen bilgilerin
+Uzun Dönem Artan Maliyetler hesabı doğrultusunda fiyatları tespit
+edebilmesi için yeterli olmadığına kanaat getirmesi halinde; Avrupa
+Birliği üyesi ülkelerin uygulamalarını, uygun olduğu ölçüde dikkate
+alarak fiyatları belirleyebilir ve/veya fiyatlara üst sınır koyabilir.
+Taraflar arasında anlaşma bulunmaması halinde Kurumun belirlediği
+fiyatlara uyulması zorunludur.
+
+(D) Haberleşme sağlayıcıların maliyet muhasebesi sistemine uygun olarak
+muhasebe sistemlerini oluşturdukları ve işlettikleri, Bağımsız Hesap
+Uzmanları tarafından her yılın Haziran ayı sonuna kadar tasdik
+edilmelidir. Mali Müşavir tasdik raporları, tasdik tarihinden itibaren 5
+(Beş) iş günü içerisinde Kurum'a iletilir ve haberleşme sağlayıcının
+internet sitesinden yayımlanır.
+
+(7) Taşıyıcı seçimi: Kurum ilgili bir piyasada etkin piyasa gücüne sahip
+olduğunu tespit ettiği herhangi bir haberleşme sağlayıcısına; kullanıcıların
+taşıyıcılarını serbestçe seçebilmelerini temin etme ve bu kapsamda taşıyıcı
+seçimi ve taşıyıcı ön seçimi uygulama yükümlülüğü getirebilir.
+
+(A) Taşıyıcı seçimi ve taşıyıcı ön seçimi yükümlülüğü getirilen haberleşme
+sağlayıcılar, taşıyıcı seçimi ve taşıyıcı ön seçimi kapsamında Kurum
+düzenlemelerine uygun olarak ve maliyetleri kendileri karşılamaları
+suretiyle şebekelerinde gerekli düzenlemeleri yaparlar ve uygularlar.
+
+(B) Taşıyıcı seçimi veya taşıyıcı ön seçimi dolayısıyla aboneye yansıyacak
+ücretler abonelerin bu hizmeti almalarını caydırıcı nitelikte olamaz.
+
+[SAYFA 14]
+Perakende
+Tarifelerin
+Düzenlenmesi
+
+Perakende
+Tarifelerin
+Bildirilmesi
+
+426
+
+DÖRDÜNCÜ KISIM
+Tarifeler
+
+13. (1) Bu Tüzük kuralları uyarınca gerçekleştirilen bir piyasa analizi
+sonucunda; ilgili perakende piyasada, etkin rekabetin tesis edilmediğinin
+ortaya konulması ve uygulanan diğer yükümlülük ve tedbirlerin Yasa ve bu
+Tüzük ile etkin rekabetin tesisi için belirlenen amaçların yerine
+getirilmesini tek başlarına sağlayacak mahiyette olmaması halinde; Kurum
+ilgili bir piyasada etkin piyasa gücüne sahip olduğunu tespit ettiği bir
+haberleşme sağlayıcısına perakende tarifelerin fiyat kontrolü ile ilgili
+yükümlülükler getirebilir.
+
+(2) Kurum tarafından belirlenen perakende tarifelerin fiyat kontrolüne
+ilişkin yükümlülükler; tespit edilen sorunun çözülmesine yönelik, orantılı,
+Yasa ve bu Tüzükte belirlenen amaçlar doğrultusunda geçerli nedenlere
+dayalı olmalıdır. Konulan yükümlülüklerle, yükümlülüğe tabi tutulan
+haberleşme sağlayıcısının; — aşırı fiyatlar uygulamasının, piyasaya girişi
+engellemesinin, rekabeti kısıtlayıcı fiyatlar uygulamasının, belirli
+kullanıcılara haksız öncelik göstermesinin veya hizmetleri makul olmayan
+bir tarzda tek bir paket içinde birleştirmesinin engellenmesi
+amaçlanmalıdır.
+
+(3) Tüketicinin korunması ve etkin rekabetin teşvik edilmesi ilkeleri
+doğrultusunda, bu madde kuralları uyarınca Kurum tarafından bu Tüzüğün
+1'üncü ve 19'inci Maddelerinde belirtilen tedbirler alınabilir.
+
+(4) Haberleşme sağlayıcıların, geçici tarife değişiklikleri istisna olmak
+üzere tarifelerinde, maliyetin altında olan veya fahiş kar neticesi doğuran
+bedeller belirlememesi esastır. Kurum, perakende tarifelere ilişkin
+yükümlülüklerin tesis edilmesi amacıyla gerekli araştırmaları yaparken
+fiyat sıkıştırması ve yıkıcı fiyatlandırma analizlerini kullanabilir; ilgili
+haberleşme sağlayıcılardan bu kapsamda gerekli tüm bilgi ve belgeleri
+talep edebilir. Haberleşme sağlayıcılar talep edilen her türlü bilgi ve
+belgeyi belirtilen kapsam ve şekilde Kuruma sunmakla yükümlüdür.
+
+14. (1) Kurum tarafından bu Tüzüğün 13'üncü Maddesi uyarınca tarifelerin
+fiyat kontrolü ile ilgili yükümlülük getirilen haberleşme sağlayıcılar;
+perakende piyasalarda sundukları hizmetler kapsamında, yeni bir tarifeyi
+yürürlüğe koymadan veya mevcut tarifelerinde değişiklik yapmadan önce
+Kurum'a bildirimde bulunmakla yükümlüdür. Haberleşme sağlayıcılar
+yeni tarifeleri ve tarife değişikliklerini yürürlüğe girmeden en az 5 (Beş) iş
+günü önce; geçici tarife değişikliklerini ise yürürlüğe girmeden on az 3
+(ÜÇ) iş günü önce Kurum'a bildirmekle yükümlüdür. Kurum tarafından
+tarife o bildirimlerinde eksiklik olduğunun tespit edilmesi halinde,
+haberleşme sağlayıcı durumun kendisine bildirilmesinden itibaren 3 (Üç)
+gün içerisinde eksik bilgileri Kuruma gönderir.
+
+(A) Haberleşme sağlayıcılar tarafından gerçekleştirilecek, yeni tarifelere
+ilişkin bildirimlerde aşağıdaki hususların yer alması zorunludur;
+
+(a) Hizmetin tanımı
+
+[SAYFA 15]
+Perakende
+Tarifelerde Azami
+Ücretlerin
+Belirlenmesi
+
+427
+
+(b) Planlanan perakende fiyatı
+
+(c) Maliyet verilerini ve kıyaslama bilgilerini içerecek şekilde belirlenen
+fiyatın gerekçesi
+
+(ç) Öngörülen hizmetten yararlanacak abonelerin sayısı
+
+(d) Yeni tarifenin yürürlüğe girmesi için planlanan tarih
+
+(e) Tarifenin düzenlemelere uygunluğu ile ilgili bilgiler
+
+(B) Haberleşme O sağlayıcılar (o tarafından (o gerçekleştirilecek, o tarife
+değişikliklerine ilişkin bildirimlerde aşağıdaki hususların yer alması
+zorunludur;
+
+(a) Hizmelin tanımı
+
+(b) Mevcut perakende fiyatı ve teklif edilen fiyat değişikliği
+
+(c) Maliyet verilerini ve kıyaslama bilgilerini içerecek şekilde fiyat
+değişikliği talebinin gerekçesi
+
+(ç) Hizmetten yararlanan abonelerin sayısı
+
+(d) Değişikliğin uygulanması için planlanan tarih
+
+(e) Tarife değişikliğinin düzenlemelere uygunluğu ile ilgili bilgiler
+
+(2) Kurum, haberleşme sağlayıcılar tarafından bildirilen yeni tarifeleri ve
+tarife değişikliklerini; Yasa ve bu Tüzük kurallarına uygunluk kapsamında
+değerlendirecektir. Kurum değerlendirme sırasında ayrıca aşağıdaki
+hususları da dikkate alacaktır;
+
+(A) Kurum tarafından belirlenen azami ücret tarifeleri
+(B) Tüketiciler ve piyasalar üzerindeki etki
+(O) Potansiyel rekabeti engelleyici uygulamaların ortaya çıkması
+
+(3) Kurum tarifeler üzerinde gerekli incelemeleri gergeklestirdikten sonra,
+tarifelerin yürürlüğe girmesini onaylayabilir, tarifelerde değişikliğe
+gidilmesine veya tarifenin reddine karar verebilir. Kuruma bildirimde
+bulunulmasından ve varsa en son eksik bilginin gönderilmesinden itibaren
+15. (Onbeşinci) iş gününün sonuna kadar Kurum tarafından tarifelerle ilgili
+haberleşme sağlayıcıya herhangi bir bilgi verilmemesi halinde tarifelerin
+onaylandığı kabul edilir.
+
+(4) Haberleşme sağlayıcılar tarife değişiklikleri sebebiyle fiyat artışı
+oluşması durumunda, ilgili değişikliğin yürürlüğe girmesinden en az 7
+(Yedi) iş günü öncesinde, değişikliği ilgili hizmeti sundukları abonelerine
+alınan elektronik haberleşme hizmeti üzerinden bildirmek zorundadırlar.
+Tarife değişikliği sonucu oluşacak fiyat artışı sebebiyle, hizmet alımına son
+vermek isteyen abone, fiyat artışına ilişkin bildirimi almasından itibaren 14
+(Ondört) iş günü içerisinde haberleşme sağlayıcıya bildirimde bulunarak;
+cihaz temin bedeline yönelik taahhütler istisna olmak üzere, hizmet alımını
+herhangi bir cezai şarta veya tazminat yükümlülüğüne tabi olmadan
+sonlandırabilir.
+
+15. (1) Kurum, tarifelerin fiyat kontrolü ile ilgili yükümlülük getirilen
+piyasalarda, ürün ve hizmetlere ilişkin olarak, alt ve üst sınırları belirleyen
+“azami ücret cetvelleri” belirleyebilir, piyasa koşulları ve güncel gelişmeler
+doğrultusunda bu cetveller üzerinde değişiklik yapabilir, “azami ücret
+cetvelleri”ni internet sitesinde yayımlayabilir. Tarifelerin fiyat kontrolü ile
+ilgili yükümlülük gelirilen haberleşme sağlayıcılar, tarifelerini “azami
+ücret ocetvelleri”nde belirlenen alt ve üst sınırlar dahilinde
+belirleyeceklerdir.
+
+[SAYFA 16]
+Perakende
+Tarifelerin
+Kamuoyuna
+Duyurulması
+
+Perakende
+Tarifelerin
+İncelenmesi ve
+Denetlenmesi
+
+Usul ve Esaslar
+
+Yürütme Yetkisi
+
+Yürürlüğe Giriş
+
+428
+
+(2) Kurum “azami ücret cetvelleri”ni belirlerken, haberleşme sağlayıcılar
+tarafından uygulanan ücretler, hizmetlere ilişkin maliyetler, ilgili yan ve alt
+piyasalardaki hizmetlerin ücretleri, Avrupa Birliği üyesi benzer ülkelerde
+belirlenen fiyatları dikkate alacaktır.
+
+(3) Kurum “azami ücret cetvelleri”nin o yayımlanmasından veya
+değiştirilmesinden önce, cn az 15 (Onbeş) iş günü süre vermek suretiyle
+“azami ücret cetvelleri” ile ilgili kamuoyu görüşünü almak zorundadır.
+
+(4) Kurum, “azami ücret cetvelleri”ni, enflasyon oranlarını dikkale alarak
+yenileyebilir. Enflasyon oranı sebebiyle “azami ücret cetvelleri”nde
+yapılan değişiklikler için ayrıca kamuoyu görüşü alınmaz.
+
+16. (1) Haberleşme sağlayıcılar, perakende tarifelerini yürürlüğe koymadan
+önce, ilgili tarifeyi kamuoyuna duyurmak ve internet sitelerinde
+yayımlamakla yükümlüdürler. Kurum tarifenin yürürlüğe girmesinden ne
+kadar süre önce kamuoyuna duyurulması gerektiğini ayrıca belirleyebilir.
+
+(2) Tarifeler, ilgili hizmetin özellikleri ve tarifelere ilişkin hükümler ile
+birlikte (kullanıcıların kolayca anlayabileceği şekilde ilan edilir.
+Kullanıcıları aldatıcı, yaniltic: veya tecrübe ve bilgi noksanlıklarını
+istismar edici bir şekilde tarifelerin duyurusu ve bunlarla | ilgili
+bilgilendirme yapılamaz.
+
+17. (1) Kurum, tarifelerin fiyat kontrolü ile ilgili yükümlülük getirilen
+piyasalarda her zaman, sikayct üzerine veya re'sen tarifeleri, Yasa ve il gili
+mevzuat koşulları uyarınca inceleyebilir. Haberleşme sağlayıcılar inceleme
+sırasında Kurum tarafından talep edilen tüm bilgi ve belgeleri Kuruma
+sağlamakla yükümlüdürler.
+
+(2) Kurum inceleme sonucunda, tarifelerin Yasa ve ilgili mevzuata uygun
+olmadığını tespit etmesi halinde; tarifelerin uygunluğunun sağlanması
+amacıyla değiştirilmesine, yürürlüğünün geçici olarak durdurulmasına,
+yürürlükten kaldırılmasına karar verebilir. Kurum tarafından tarifelerde
+değişiklik yapılmasına karar verilmesi halinde, haberleşme sağlayıcılar
+kendilerine bildirimde bulunulmasından itibaren 3 (Üç) gün içerisinde
+gerekli değişiklikleri yaparlar.
+
+BEŞİNCİ KISIM
+Çeşitli ve Son Kurallar
+
+18. Kurum, Bu Tüzük kapsamındaki oarabağlanlı ve erişimin
+sınırlandırılıması, kapsamının ve koşullarının belirlenmesi, altyapı ve
+şebekelerde ayrıştırma yapılması, piyasa analizlerinde ve perakende
+tarifelerin belirlenmesinde bilgilerin sağlanması, ilgili piyasaların ve alt
+piyasaların tanımlanması, şeffaflık yükümlülüğü kapsamında bilgilerin
+sunulması; hesap ayrımı, ortak yerleşim ve maliyet muhasebesine ilişkin
+usul ve esasların ve azami ücret cetvellerinin belirlenmesine yönelik
+Tebliğler yayımlayabilir.
+
+19. Bu Tüzük, elektronik haberleşmeden sorumlu Bakanlık tarafından
+yürütülür.
+
+20. Bu Tüzük Resmi Gazete'de yayımlandığı tarihlen başlayarak yürürlüğe
+girer.
+
+[SAYFA 17]
+429
+
+BİRİNCİ CETVEL
+(Madde 9)
+
+BÜKÜMLÜ METALİK UÇLU YEREL ÇEVİRME TEKLİ ERİŞİM İÇİN BİR REFERANS
+TEKLİFİNDE YER ALACAK MİNİMUM UNSURLARIN LİSTESİ
+
+Bu ek amaçları bakımından:
+(A) “Yerel Alt Çevrim”, Abonenin binasındaki şebekenin son noktasını sabit telefon
+şebekesindeki bir toplanma noktasına ya da belirli bir orta erişim noktasına bağlayan kısmi bir
+
+yerel çevrimi anlatır.
+
+(B) “Yerel Çevrime Tekli Erişim”, Yerel çevrime tam tekli erişim ve yerel çevrime
+paylaşımlı erişimi anlatır. Ancak yerel çevrim sahibinin değişmesini kapsamaz.
+
+(C) “Yerel Cevrime Tam Tekli Erişim”, Bir kişiye, bükülmüş metalik uçların tam frekans
+spektrumunun kullanılmasını sağlayan tebliğ edilmiş operatörlerin yerel alt çevrimine veya yerel
+çevrime erişim olanağının verilmesini anlatr.
+
+(©) “Yerel Çevrime Paylaşımlı Erişim”, Bir kişiye, bükülmüş metalik uçların ses bantlı
+olmayan frekans spektrumunun kullanılmasını sağlayan haberleşme sağlayıcısının yerel alt
+çevrimine veya yerel çevrime erişim olanağının verilmesini anlatır ve yerel çevrim, kamuya
+telefon hizmetinin sunulması için haberleşme sağlayıcısı tarafından kullanılmaya devam edilir.
+A. Lokal Çevrime Tekli Erişim Koşulları
+
+1. Erişimin teklif edildiği ağ elemanları özellikle aşağıdaki elemanları kapsar:
+
+(A) Yerel çevrimlere erişim;
+
+(B) Yerel çevrime paylaşımlı erişim durumunda lokal bir çevrimin ses dışı bant frekans
+spektrumuna erişim.
+
+2. Fiziksel erişim bölgelerine ve yerel çevrimlerinin erişim şebekesinin belirli kısımlarında
+kullanılmasına ilişkin bilgiler.
+
+3. Yerel çevrimdeki bükümlü metalik tel çiflinin teknik özellikleri dahil olmak üzere lokal
+çevrimlerin kullanımına ve erişimine ilişkin teknik şartlar.
+
+4. Sipariş, alım yöntemleri ve kullanım kısıtlamalarının düzenlenmesi ve hazırlanması.
+B. Ortak Konum Hizmetleri
+1. Haberleşme sağlayıcısının ilgili mekanlarına ilişkin bilgiler.
+
+2. Fiziksel ortak konum ve gerektiği taktirde uzak ortak konum ve sanal ortak konum dahil
+olmak üzere, yukarıdaki inci maddede belirtilen mekanlarda ortak konum seçenekleri.
+
+3. Ekipman özellikleri; ortak bir şekilde konumlandırılabilecek ekipmanlara uygulanan
+sınırlamalar.
+
+4. Güvenlik konuları; alanlarını korumak amacıyla haberleşme sağlayıcısının uyguladığı
+önlemler. i
+
+[SAYFA 18]
+430
+
+İKİNCİ CETVEL
+(Madde 9)
+
+ARA BAĞLANTI ve ERİŞİM HİZMETLERİNE İLİŞKİN BİR REFERANS TEKLİFİNDE
+YER ALACAK MİNİMUM UNSURLARIN LİSTESİ
+
+Referans Ara Bağlantı Teklifi
+
+1. Genel hükümler
+
+. Sözleşmenin tarafları
+
+° Sözleşmenin başlangıcı ve süresi
+
+° Ağları bağlama taahhüdü
+
+° Sözleşmede yer alan işlemler, teknik standartlar ve hizmet kalitesi taahhüdü
+. Ağların ve personelin güvenliği sağlama taahhütleri
+
+° Sözleşme yönetimine ilişkin düzenlemeler
+
+° Yeni hizmet tekliflerinin siparişi ve değerlendirilmesi
+
+. Ağ planlaması, ağ değişimleri ve veri yönetimi değişiklikleri
+. Şart ve koşulların ihlali
+
+. Hizmetlerin ve sözleşmenin askıya alınması ve feshi
+
+° Mücbir sebep hükümleri
+
+. İbtilaf çözüm yöntemleri
+
+° Sözleşmenin denetimi için süreçler ve zaman ölçütleri
+
+° Bilginin sağlanması ve gizliliği
+
+, Banka teminatı ve kredibiliteye ilişkin talepler
+
+. Operatörler arasındaki sorumluluğun smırlandırılması
+
+: Sözleşmenin devri
+
+:. Resmi bildirimleri gönderim usulü
+
+2. Hizmetlere uygulanabilir özel şart ve koşullar ile birlikte sözleşme altında sağlanacak
+hizmetleri tanımlanma (Çağrı sonlandırma, çağrı aktarma, kısa mesaj hizmeti sonlandırma,
+acil çağrılar, iletim kapasitesi, ara bağlantı noktaları ve bağlar dâhil olmak üzere).
+
+3. Hizmetleri sipariş etme süreçleri, hizmetler için taleplerin değerlendirilmesi, gelişmiş ve
+kesin sipariş taahhütleri, tedarik ve dağıtım işlemleri, zaman çizelgelem ve sipariş için
+iletişim noktaları, yeni ara bağlantı hizmetleri talep etme, değerlendirme ve sipariş vermeye
+ilişkin süreçler.
+
+4. Ara yüzler için teknik özellikler, sinyalleşme sistemleri ve ara bağlantı bağları, hat
+tanımlama kurallarını numaralandırma ve çağrı yapma, ara bağlantı test etme işlemleri ve ara
+bağlantı noktaları hakkında bilgi.
+
+5. Operasyonel ve koordinasyon mekanizmaları da dâhil olmak üzere operasyonel düzenlemeler
+ve bakım düzenlemeleri, dağıtım yoğunluğuna yönelik kurallar, arıza bildirimi ve onarım
+süreçleri ve zaman çizelgeleri, planlı ve plansız bakım koordinasyonu, ortak yerleşim
+bölgelerine personel erişimi için kurallar, ağ tadilatları için süreçler, ara bağlantı noktalarını
+servisten çıkarma, yazılım güncellemeleri, veri yönetim ıslahları.
+
+6. Trafik ölçümü de dâhil olmak üzere faturalama işlemleri, fatura işlemleri ve dönemleri, borç
+ödeme dönemleri, doğrulama düzenlemeleri, hata ve ihtilafları çözmek için işlemler.
+
+7. Fiyat çizelgesi, ara bağlantı hizmetleri için fiyatların açıklanması.
+
+[SAYFA 19]
+431
+8. Hizmet ölçümlerinin kalitesi ve yükümlülüklere uymama halinde para cezası.
+~ 9. Referans Teklifi’nde kullanılan terimlerin tanımları.
+
+10. İletişim bilgileri ile birlikte ilk iletişime geçilecek kişilerin listesi.
+
+Referans Erişim Teklifi
+
+1. Genel hükümler
+
+. Sözleşmenin tarafları
+° Sözleşmenin başlangıcı ve süresi
+. Sözleşmede yer alan işlemler, teknik standartlar ve hizmet kalitesi taahhüdü
+: Ağların ve personelin güvenliği sağlama taahhütleri
+° Sözleşme yönetimine ilişkin düzenlemeler
+° Yeni hizmet tekliflerinin siparişi ve degerlendirilmesi
+: Ağ planlaması, ağ değişimleri ve veri yönetimi değişiklikleri
+. Sart ve koşulların ihlali
+. Hizmetlerin ve sözleşmenin askıya alınması ve feshi
+. Mücbir sebep maddeleri
+* İhtilaf çözüm yöntemleri
+. Sözleşmenin denetimi için süreçler ve zaman ölçütleri
+. Bilgiler ve bunların gizliliğine ilişkin hüküm
+. Banka teminatı ve kredibiliteye ilişkin talepler
+
+. Operatörler arasında sorumluluğun sınırlanması
+
+en . Sözleşmenin devri
+: Resmi bildirimlerin gönderim usulü
+
+2. Teknik gereksinimler, mülkiyet hakları da dahil olmak üzere hizmetler için geçerli olan
+büküm ve koşullar ile sözleşme kapsamında sağlanacak olan hizmetlerin açıklaması.
+
+3. Hizmet taleplerinin değerlendirilmesi, ön sipariş ve kesin sipariş taahhütleri, anlaşmaların
+iptali, ön tedarik hazırlığı, devir ve teslim usulleri de dahil olmak üzere hizmetlerin sipariş
+süreçleri; sipariş için zaman ölçütleri ve iletişim noktaları; yeni erişim hizmetlerinin talep,
+değerlendirme ve sipariş süreçleri.
+
+4. Personelin sitelere erişimi, operasyonel mekanizmalar ve koordinasyon mekanizmaları,
+planlanmış ve planlanmamış bakım koordinasyonu, tesislerdeki değişiklik süreçleri, tesislerin
+hizmetten çıkarılması, donanımın zarar görmesi ve kaldırılması da dahil olmak üzere
+operasyonel ve bakıma ilişkin düzenlemeler.
+
+5. Faturalama usulleri ve dönemleri, borç ödeme dönemleri, doğrulama anlaşmaları, hata ve
+anlaşmazlıkların çözüm süreçleri.
+
+6. Fiyat çizelgesi, erişim hizmetleri için fiyatları gösteren.
+
+7. Hizmet kalitesi ölçütleri ve uyulmaması halinde cezalar.
+
+8. Referans Teklifte kullanılan terimlerin tanımları.
+
+9. İletişim kurulacak temel kişilerin listesi ve iletişim bilgileri.
+
+[SAYFA 20]
+432
+
+Ayrı Satılan Yerel Ağ, Ortak Hatlar ve Veri Akışı Hizmetleri için Referans Teklif
+
+Referans Erişim Teklifinde yer alan koşullara ek olarak aşağıda yer alan bilgiler de yer
+almalıdır.
+
+° Yerel ağ ve zayıflama karakteristikleri tanımları
+
+° Dar bant ve geniş bant frekansları planı
+
+° Ortak yerleşim ekipmanları seçenekleri
+
+. Konaklama ekipmanları seçenekleri
+
+. Ortak yerleşim sahası yeri ve kapasitesi
+
+° Ortak yerleşim sahaları hakkında bilgi sağlanması prosedürü
+
+: Ortak yerleşim sahalarını bölüşme esasları
+
+° Ortak yerleşim sahalarında alan talep etme prosedürü
+
+° Ortak yerleşim sahalarında bulunan ekipmanların standartları
+Ortak yerleşim sahalarına girebilecek personellerin belirlenmesi
+° Toplu talep, iptal ve hattın başka bir operatöre transferi prosedürlerinin
+
+belirlenmesi

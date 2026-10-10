@@ -1,0 +1,141 @@
+[SAYFA 1]
+2716
+
+TELEKOMÜNİKASYON SERVİSİ YASASI
+(Fasıl 302, 20/1966, 34/1962 ve 25/1963 Sayılı Yasalar)
+Madde 43 Altında Yapılan Tüzük
+
+Kuzey Kıbrıs Türk Cumhuriyeti Bakanlar Kurulu, Telekomünikasyon
+Servisi Yasası'nın 43'üncü maddesinin kendisine verdiği yetkiye dayanarak
+aşağıdaki Tüzüğü yapar:
+
+Kısa İsim 1. Bu Tüzük, Telekomünikasyon Hizmetleri Ücretleri ve
+Uygulama (Değişiklik) Tüzüğü olarak isimlendirilir ve
+aşağıda “Esas Tüzük” olarak adlandırılan
+
+a Telekomünikasyon Hizmetleri Ücretleri ve Uygulama
+
+AET Tüzüğü ile birlikte okunur.
+
+31.7.2018
+
+28.2.2019
+R.G.27
+EKM
+A.E.151
+
+14.3.2019
+R.G.34
+EKM
+A.E.180
+
+28.3.2019
+R.G.43
+EK MI
+A.E.231
+
+30.4.2019
+RG. 61
+EK TI
+A.E.343
+
+Esas 2. Esas Tüzük 2'nci maddesine bağlı Cetvelde, “Telefon
+Tüzüğe Konuşma Ücretleri” başlıklı KISIM III kaldırılmak ve
+Ekli Cetvel'in yerine bu Tüzüğe ekli yeni “Telefon Konuşma Ücretleri”
+Değiştirilmesi başlıklı KISIM MI konmak suretiyle değiştirilir.
+
+Yürürlüğe (3. Bu Tüzük, 1 Kasım 2019 tarihinden başlayarak yürürlüğe
+Giriş girer.
+
+[SAYFA 2]
+KISIM HI
+
+TELEFON KONUŞMA ÜCRETLERİ
+
+Telefon görüşmelerinde kontör ücreti | (bir) kış'dur. Konuşma ücreti = (Kontör sayısı x kontör ücreti)
+olarak hesaplanır. Kontörler periyot başlarında peşin olarak yazılır. Tüm görüşme ücretlerine ek olarak KDV
+uygulanır.
+
+3.1. ADA İÇİ SABİT KONUŞMA ÜCRETLERİ
+
+|
+Kontör atış süresi Konuşma ücretleri |
+| Aranılan yin ve Numaralar (sp) (TL/dk)
+
+mal | İndirimli Normal ! İndirimli
+PSTN'den PSTN'e 80 0 0.0075 ücretsiz
+a VODAFONE Mobile Operations LTD. (KKTC n 2 | 0.05 0.05
+
+sao = 2 — — ;
+
+mmm a | | ae | ee
+
+* Pazartesi, Sah, Çarsamba, Perşembe, Cuma ve Cumartesi günleri 19:00-07:00 saatleri arasında tüm
+şebeke içi görüşmeler (PSTN — PSTN) (indirimli) ücretsiz olarak uygulanır.
+“Pazar günleri gerçekleşen tüm şebeke içi (PSTN — PSTN) (indirimli ücretsiz olarak uygulanır.
+
+3.2. ADA İÇİ ÖZEL SERVİS NUMARALARINA ERİŞİM ÜCRETLERİ
+
+Kontör atış süresi Konuşma ücretleri
+Aranılan vön ve Numaralar sn TLidk
+Normal İndirimli Normal İndirimli
+444xxxx i 60 60 0.01 0.01
+900 Sxxxxxx mee 15 0.40 0.40
+900 Sivok i 1 1 0.60 0.60
+900 S5xxxxxx H 2 2 0.30 0.30 i
+900 3x000xxx | 06 0.6 1,00 100 |
+800'lü hatlar BS |
+Ixx - Resmi olan özel servis numaraları | < - | Ücretsiz
+Ixx - Resmi olmayan özel servis numaraları 80 80 0.0075 0.0075
+192 12 12 0.05 0.05
+İxxx - Resmi olan özel servis numaraları | > - İ Ücretsiz
+| xxx - Resmi olmayan özel servis numaraları 60 60 | 0.01 0.01
+(153 60 6 | 001 0.01
+NOT:
+
+“e
+
+*  BO0'lü hatlarda ödeme, aranan tarafından yapılması prensibi üzerine çalışır ve bu servislerin görüşme
+ücretleri sözleşme ile belirlenir.
+
+[SAYFA 3]
+3.3. ULUSLARARASI ÜCRET TARİFESİ
+
+| a KONTORATIS | KONUSMA ÜCRETLERİ! ,
+
+ARANAN YÖN SÜRESİ (sn) (TLidk) ACIKLAMALAR |
+
+j Normal | İndirimli | Normal İndirimli
+
+m b ORANA:
+
+| TÜRKİYE PSTN 2 | m 0.03 0,025 (| Indirim 20:00-07:00
+
+Saatieri arasında uygulanır
+
+| TÜRKİYE GSM 95 | 2 0.0648 | 0,05. | Indirim 20:00-07:00
+
+| | Saatleri arasında uygulanır
+
+| GLOBAL STAR (GMPCS) 5 | 0.12 |
+
+İÖZEL SERVİSLER - 1 i e
+
+(TÜRKİYE) 1.6 0.375 0444, 11811, 11842, 11855
+
+| ÖZEL SERVİSLER - 2 j a i
+(TÜRKİYE) 0.8 075 | 133, 11832 |
+KADEME I 15 0.04 | |
+KADEME II 75 0.08 |
+KADEME II 4 İ 0.15
+KADEME IV 2 i 030 |
+KADEME V 1.2 | 0.50 4
+KADEME VI 0.6 100 |
+DIGER 0.15 400 |
+UYDU 0.08 | 7.50
+ÖZEL SERVİSLER 0.6 | 1.00
+
+NOT:
+
+© Uluslararası görüşme ücret değişiklikleri, ilgili operatörlerle yapılan sözleşmelere bağlı olarak
+Telekomünikasyon Dairesi müdürü tarafından güncellenir ve Bakan'ın onayı ile yürürlüğe girer.

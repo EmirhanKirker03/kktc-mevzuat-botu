@@ -1,0 +1,2084 @@
+[SAYFA 1]
+1819
+Sayı : 732
+ÇEVRE YASASI
+(18/2012 Sayılı Yasa)
+Madde 59 Altında Yapılan Tüzük
+
+Kuzey Kıbrıs Türk Cumhuriyeti Bakanlar Kurulu Çevre Yasası'nın 59*uncu maddesinin
+(1)’nci fıkrasının kendisine verdiği yetkiyi kullanarak aşağıdaki Tüzüğü yapar:
+
+Kısa İsim 1. Bu Tüzük, “Çevresel Gürültü Değerlendirmesi ve Yönetimi Tüzüğü"
+olarak isimlendirilir.
+BİRİNCİ KISIM
+Genel Kurallar
+Tefsir 2. Bu Tüzükte metin başka türlü gerektirmedikçe;
+
+“Arka Plan Gürültüsü” belirli bir noktada ve ilgili gürültü kaynağı
+kullanımı veya kaynağın çalıştırılmasına bağlı olmayan gürültüyü
+anlatır. .
+
+"Açık Arazideki Sessiz Alan", Belediyeler veya Şehir Planlama
+Dairesi (o tarafından oluşturulan trafik, sanayi veya rekreasyon
+faaliyetlerinden kaynaklanan her türlü gürültü rahatsızlığına maruz
+kalmayacak şekilde ayrılan bir alanı anlatır.
+
+"Anayol", ulaşımdan sorumlu makamın belirlediği yolu veya yolun bir
+kısmını anlatır.
+
+"Ana havaalanı", ulaşımdan sorumlu makamın belirlediği, hafif uçakla
+yapılan sadece eğitim amaçlı uçuşlar hariç, yılda 50.000'den (iniş veya
+kalkış hareketleri) fazla hareket yapılan sivil havaalanını anlatır.
+"Akustik Planlama", Gelecekte var olabilecek gürültülerin arazi
+kullanım planlaması, trafik mühendisliği tedbirleri, trafik planlaması
+ile ses yalıtımı tedbirleri ve gürültü kaynaklarının konirolü gibi
+planlanmış tedbirler kullanılarak kontrol edilmesini anlatır.
+
+"Atölye", Zanaatçıların veya resim heykel sanatlarıyla uğraşanların
+çalıştığı iş yerleri ile dokuma, konfeksiyon, toma,demir,doğrama ve
+benzeri işyerlerini anlatır.
+
+“Bakanlık”, Çevre işleri ile görevli Bakanlığı anlatır.
+
+“Canlı Müzik”, Elektrikle ve/veya herhangi bir güç kaynağı ile
+yükseltilmiş cihaz kullanılarak müzik enstürmanı ve/veya seslerle
+ve/veya banttan yapılan müziği anlatır ve müzik izninin esasını teşkil
+eder.
+
+“CE Belgesi” Üzerine ilistirildigi ürünün insan, hayvan ve çevre
+açısından sağlıklı ve güvenli olduğunu gösteren uygunluk işaretini
+anlatır.
+
+“Çevresel Gürültü”, Ulaşım araçları, kara yolu trafiği, hava yolu
+trafiği, deniz yolu irafiği, sanayi tesisleri ve eğlence mekanlarından
+çevreye yayılan zararlı veya istenmeyen sesleri anlatır.
+
+“Çok hassas kullanım”, Konut, yataklı hizmet veren sağlık kurumları,
+
+[SAYFA 2]
+1820
+
+eğitim kurumları, çocuk ve yaşlı bakım evleri, canlı müzik izni almış
+
+oteller hariç diğer oteller, açık arazideki ve yerleşim alanı içindeki
+
+sessiz alanlar gibi kullanımları anlatır.
+
+“dB”, Desibel olarak okunan ses basınç seviyesi birimini anlatır,
+
+“dBA “ İnsan kulağının en duyarlı olduğu orta ve yüksek frekansların
+
+özellikle vurgulandığı bir ses değerlendirme birimini anlatır.
+
+“Darbe gürültüsü”, ses basıncının kısa zamanda aşırı yükselmesiyle
+
+nitelenen sesi anlatır.
+
+“Daire”, Çevre Koruma Dairesini anlatır.
+
+“Değerlendirme", Bir gürültü göstergesi veya ilgili zararlı etkilerin
+
+değerini hesaplamak, tayin etmek, öngörmek, tahmin etmek veya
+
+ölçmek için kullanılan her türlü yöntemi anlatır.
+
+"Doz-etki ilişkisi”, gürültü göstergesi ve zararlı etki arasındaki ilişkiyi
+
+anlatır. (
+
+“Eğlence Yeri” Bir konaklama tesisi bünyesinde veya müstakil olarak
+
+faaliyet gösteren müşterinin eğlence ihtiyacını karşılamaya yönelik
+
+canlı müzik hizmeti veren işyerini anlatır,
+
+"Eylem Planları", Gerektiğinde gürültü seviyesinin düşürülmesi de
+
+dahil olmak üzere gürültü ile ilgili sorunlar ve etkileriyle baş etmek
+
+için tasarlanan planları anlatır.
+
+"Genel Bağlayıcı Kurallar", faaliyetin doğası ve ölçeği açısından
+
+belirli kriterlere giren tüm tesisler, binalar ve faaliyetler için geçerli
+
+olan ve Çevre Koruma Dairesi tarafından yayınlanmış bir dizi çevre
+
+koşullarını anlatır.
+
+"Gürültü Göstergesi", Bir zararlı etki ile ilgili olarak çevresel
+
+gürültünün tanımlanmasında kullanılan fiziksel bir ölçeği anlatır.
+
+"Gürültü Göstergesi Sınır Değeri", ilgili mevzuat veya makam
+
+tarafından belirlenen gürültü göstergesi değerini anlatır,
+
+"Gürültüye Hassas Odalar",
+
+- Yemek odası olarak kullanılmayan mutfaklar, yıkama odaları ve
+depo olarak kullanılan odalar hariç konutlardaki odaları,
+
+- Binalarda öğretim, sağlık hizmeti, yaşlı ve çocuk bakımı amaçlı
+kullanılan odaları anlatır.
+
+"Gürültü Haritalama", her türlü sınır değerin aşılıp aşılmadığını
+
+gösteren, belirli bir alanda etkilenen kişi ve maruz kalan konut sayısı
+
+da dâhil olmak üzere, mevcut veya gelecekte ortaya çıkabilecek bir
+
+gürültü durumu hakkındaki verilerin sunumunu anlatır.
+
+"Gürültü Kaynağı" faaliyeti sebebiyle gürültüye sebep olan bir tesis
+
+veya işletinenin kendisi veya böyle bir tesis veya işletmenin
+
+bünyesinde bulunan ve çalışması sonucu ses çıkaran her türlü cihaz ve
+
+ekipmanı anlatır,
+
+“İşletme” canlı müzik izni olan veya olmayan eğlence yerini ve diğer
+
+yerleri anlatır.
+
+“İşletmeci” Bir tesisi veya işletme yerini işleten veya konirol eden
+
+gerçek veya tüzel kişileri anlatır.
+
+"Kamuoyu", bir veya daha fazla gerçek veya tüzel kişi ile bunların
+
+oluşturduğu dernek, örgüt veya grupları anlatır.
+
+"Stratejik - Gürültü Haritası" Belirli bir alan için farklı gürültü
+
+kaynaklarına bağlı gürültü maruziyetinin evrensel değerlendirmesini
+
+veya tahminlerini içeren haritayı anlatır,
+
+Amy” 4 . ; pr” e?
+
+[SAYFA 3]
+Amaç
+
+1821
+
+"Kapalı Alan" Sabit bir tavanı veya çatısı olan, kapıları, pencereleri ve
+giriş yolları dışında bütün yan yüzeyleri yapı malzemesi (branda ,çadır
+malzemesi vb. dışında) ile kalıcı olarak tamamen kapatılmış alanları
+anlatır.
+
+"LAreg" A frekans ağırlıklı ve F zaman ağırlıklı ölçülen ses basıncının
+sürekli seviye eşdeğeri göstergesini anlatır.
+
+"Lâlag" A frekans ağırlıklı ve I zaman ağırlıklı ölçülen ses basıncının
+sürekli seviye eşdeğeri göstergesini anlatır.
+
+"Leşiuik(Leg)" gürültü seviyesi değişimleri ve ses enerjisi miktarı aynı
+olan belirli bir süre içinde ses basıncının sürekli seviye eşdeğeri
+gürültü göstergesini anlatır.
+
+"Lmax" belirli bir süre içinde en yüksek ses basıncı seviyesinin gürültü
+göstergesini anlatır.
+
+"Li" belirli bir süre içinde i yüzdeliği olarak aşılan ses basıncı
+seviyesinin göstergesini anlatır.
+
+"Lı",belirli bir sürenin %1'i olarak aşılan ses basıncı seviyesinin
+
+göstergesini anlatır. :
+
+"Leap", (gündüz-akşam-gece gürültü göstergesi) Ek 2'de detaylı
+anlatılan, 24 saatlık gürültü göstergesini anlatır.
+
+"Leündüz", (gündüz gürültü göstergesi) Ek 2'de detaylı anlatılan,
+gündüz vakti rahatsızlık gürültü göstergesi anlatır.
+
+"Lakşam", (akşam gürültü göstergesi) Ek 2'de detaylı anlatılan, akşam
+vakti gürültü göstergesini anlatır.
+
+"Lecce", (gece gürültü göstergesi) Ek 2'de anlatılan, uyku bozukluğu
+yaratan gürültü göstergesini anlatır.
+
+“Mevcut Gürültü Kaynağı", bu tüzük yürürlüğe girdiğinde varolan
+gürültü kaynağını anlatır.
+
+“Müzik İzni” bu Tüzüğün 20. maddesi kapsamında verilen izni
+anlatır.
+
+“Tesis” Atmosfere emisyon veren her bir ünite veya üniteler
+bütününü, makineler, aletler ve diğer sabit düzenekleri, üzerinde
+madde depolanan, boşaltılan ve iş yapılan mülkleri aniauz.
+
+“Tonal Ses” toplam sesten isitebilecek şekilde ortaya çıkan tek
+frekanslı bileşen veya dar bant bileşenleri ile nitelenen sesi anlatır.
+"Yerleşim Yeri",stratejik gürültü haritalarının hazırlanmasında esas
+alınan ve 50.000'den fazla kişinin bulunduğu kara parçası”
+yuvarlaklaştırılmış kısmını anlatır.
+
+"Yerleşim Yerlerindeki Sessiz Alan", Yerel belediye veya planlama
+makamı tarafından insan sağlığını bozmayacak ses seviyesine sahip
+alanı anlatır.
+
+"Zararlı Etkiler", İnsan sağlığı üzerindeki olumsuz etkileri anlatır,
+
+Bu Tüzükte bir standarda yapılan atıf o standardın en güncel halinin
+kullanılması veya uygulanmasını veya 6 standart yerine geçen bir
+standardın uygulanmasını anlatır.
+
+Bu Tüzüğün amacı çevresel gürültü maruziyetine bağlı rahatsızlık
+dahil olmak üzere, zararlı etkilerden kaçınılması, bu etkilerin
+önlenmesi veya azaltılması için düzenlemeler, tedbirler, eylemler,
+
+[SAYFA 4]
+Kapsam
+
+4,
+
+1822
+
+gereklilikler ve prosedürler sistemini tanımlamaktır. Bu amaçla bu
+Tüzük aşağıdakileri kapsar/diizenler:
+
+(1)
+(2)
+(3)
+(4)
+6)
+(6)
+
+(7)
+
+(1)
+
+(2)
+
+(3)
+
+Çevresel gürültü kontrolüne ilişkin görev ve yetkiler,
+
+Çevresel gürültü göstergeleri ve bunların sınır değerleri,
+
+Gürültü göstergelerinin değerlendirilmesi,
+
+İdari gürültü kontrol tedbirleri,
+
+Gürültü kaynaklarının işletilmesi için gereklilikler,
+
+Stratejik gürültü haritaları ve gürültü eylem planlarının
+hazırlanması,
+
+Kamuoyunun çevresel gürültüye ilişkin konularda bilgiye
+erişimi ve kamuoyu ile istişare edilmesi.
+
+Bu Tüzük özellikle yerleşim yerlerindeki açık alanlarda, umumi
+
+parklarda veya sessiz alanlarda, okul ve hastanelere yakın açık.
+
+arazideki sessiz alanlarda ve diğer gürültüye hassas binalar ve bu
+alanlardaki insanların maruz kaldığı çevresel gürültüye
+uygulanır.
+
+Bu Tüzük aşağıdaki gürültü kaynaklarının kullanımı veya
+
+işletilmesi sonucu oluşan çevresel gürültüyü kapsar;
+
+(A) Etraftaki nüfusun yüksek gürültü seviyesine maruz kalma
+olasılığı bulunan sanayi, ticari ve zirai tesisler
+
+(B) atölyeler
+
+(C) şantiyeler,
+
+(© Bu Tüzük kapsamında müzik izni alan işletmeler;
+
+(D) Tesis, işletme veya atölyelerin faaliyetleri nedeni ile
+meydana gelen ısıtma-soğutma ve havalandırma için
+kullanılan sabit/hareketsiz teçhizatlar ve diğer gürültü
+çıkarması muhtemel teçhizatlar
+
+(\ Anayollar
+
+(F) Ana havaalanları
+
+(G) Yaptıkları faaliyet sonucu gürültü çıkaran diğer tesisler ve
+işletmeler
+
+Bu Tüzük aşağıdakilere uygulanmaz:
+
+(A) Komşuların neden olduğu gürültü(Ev içi veya bahçede
+yapılan her türlü faaliyet)
+
+(B) Hayvan sesleri,
+
+(C) Gürültüye marn Well, nisin neden olduğu gürültü,
+
+(Ç) İş yasası sağlık ve güvenlik kapsamındaki gürültü,
+
+(D) Ulaşım araçları içindeki gürültü,
+
+(E) Motorlu taşıtların motor ve egzoz gürültüsü
+
+(F) Askeri bölgelerde askeri faaliyetlere bağlı gürültü
+
+(G) Yürüyüş,gösteri-nümayiş, festival vb gibi açık hava
+faaliyetlerinden kaynaklanan gürültü
+
+(H) Dini veya anma törenleri veya milli bayram kutlamaları ile
+sportif başarı veya benzeri başarı kutlamalarından
+kaynaklanan gürültü
+
+() Siyasi partiler tarafından organize edilen etkinliklerden
+kaynaklanan gürültü
+
+(J) Polis,itfaiye ambulans gibi acil müdahale faaliyetleri
+
+[SAYFA 5]
+Alan Gürültü
+Hassasiyet
+Seviyeleri
+
+Daire'nin
+Yetki
+Sorumlulukları
+
+55/1989
+
+5. (1)
+
+(2)
+
+Görev 6.
+ve
+
+1823
+
+sonucu meydana gelen gürültü
+(K) Deniz araçlarından kaynaklanan gürültü
+(L) Yangın ve soygun alarmlarından kaynaklanan gürültü
+(M) Devlet kurumları tarafından yapılan tatbikatlardan
+kaynaklanan gürültü
+(N) Limanlardaki faaliyetlerden kaynaklanan gürültü
+
+(O) Havai fişek ve benzeri kutlama araçlarından kaynaklanan
+gürültü
+
+İmar, arazi kullanım veya gürültü kontrol tedbirleri
+
+planlanırken veya gürültü sınır değerleri uygulanırken
+
+aşağıdaki alan gürültü seviyeleri arazi kullanımlarına ilişkin
+alanlara uygulanır:
+
+(A) Hassasiyet seviyesi I; Çok hassas kullanımların
+bulunduğu bölgeler, hastane bölgeleri, yaşlı bakım
+evlerinin ve diğer bakım hizmetlerinin verildiği bölgeler
+ile açık arazideki sessiz alanlar gibi, yüksek düzeyde
+gürültü azaltma kurallarının bulunduğu alanlarauygulanır.
+
+(B) Hassasiyet seviyesi U; Yerleşim amaçlı olarak kullanılan
+yoğun konutların bulunduğu alanlar, kamuya ait binalar
+ve öğretim binaları bulunan bölgeler gibi alanlara
+uygulanır.
+
+(C) Hassasiyet seviyesi MI; Karışık kullanıma izin vetilen
+(yerleşim ve ticari) bölgelere uygulanır.
+
+(Ç) Hassasiyet seviyesi IV; Sanayi ve zirai bölgeleri gibi,
+yüksek seviyede gürültüye neden olan gürültü
+kaynaklarının işletilmesine izin verilen alanlara
+uygulanır.
+
+Arazi kullanımı planlamasından sorumlu makamlar teknik,
+
+ekonomik, sosyal veya kültürel gerekçelere dayalı olan
+
+durumlarda farklı arazi kullanımı olan bölgelere gürültü
+hassasiyet seviyesi belirlerken yukarıdaki (1)’inci fikrayı
+dikkate alır.
+
+İKİNCİ KISIM
+Görev Yetki ve Sorumluluklar
+
+(1) Daire; çevresel gürültü kontrolü politikasınm belirlenmesi
+ve uygulanmasında ve bu politikanın uygulanması için
+stratzji ve tedbirlerin tasarlanmasında öncülük yapan
+otoritedir.
+
+(2) Çevresel gürültü alanında çalışma yürüten tüm makamlar
+arasında işbirliği ve koordinasyonu teşvik eder.
+
+(3) o İmar Yasası uyarınca hassasiyet alanlarını belirler.
+
+(4) o Daire kurallar, kılavuzlar veya öneriler yayınlayarak ve
+uygun olduğu hallerde eğitim düzenleyerek bu tüzüğün
+uygulanmasını izler ve buna olanak sağlar.
+
+(5) Müzik ve ses yükseltici cihazların kullanılmasına ilişkin
+
+[SAYFA 6]
+Gürültü
+
+Göstergeleri
+
+(6)
+
+(7)
+
+(8)
+(9)
+(10)
+
+1824
+izinleri verir.
+Çevresel Gürültü Değerlendirme ve Gürültü İzleme
+Raporlarını inceler. Bu raporların incelenmesine
+dayanarak, bu Tüzük kurallarının ihlal edilmesi
+durumunda isletmecilerden ek veya farklı çevresel
+tedbirler almalarını ister.
+Proje izni veya inşaat izni veren makamlara çevresel
+gürültü açısından görüş verir. Görüş bildirmeden önce,
+yatırımcıdan bu Tüzüğe uyumu gösteren bir gürültü
+çalışması yapmasını talep eder.
+Stratejik Gürültü Haritalarının hazırlanması aşamasında
+görüş sunar.
+Bu Tüzüğün hükümlerinin uygulanmasına ilişkin
+kontrolu sağlamak üzere denetimler yapar.
+Stratejik oOgürülü haritaları yapilmasimdan sonra,
+gürültünün azaltılmasına yönelik eylem planları hazırlar
+veya hazırlatır.
+
+ÜÇÜNCÜ KISIM
+
+Çevresel Gürültünün Değerlendirilmesi
+
+(1) Gürültü göstergeleri Leşitik, Ugündüz» Laksams Lgece, Lgag ve Li çevresel
+gürültü seviyelerinin değerlendirilmesinde kullanılır.
+
+(2) Gürültü kontrol tedbirlerinin planlanması için Lmax ve diğerleri
+gibi destekleyici gürültü göstergeleri kullanılabilir.
+
+Değerlendirme 8. (1) Gürültü gösterge değerleri aşağıdakiler temelinde belirlenir:
+
+Yöntemleri
+
+(2)
+
+(A)
+(B)
+
+(C)
+
+Hesaplamalar,
+
+ISO 1996-2 uyarınca ve ISO 1996-1 veya diğer yöntemler
+ve standartlara bağlı yapılan ölçümler, bunların belirli
+gürültü kaynağı için daha uygun olduğu hallerde,
+
+Birarada yapılan ölçüm ve hesaplamalar,
+
+Gürültü göstergeleri için değerler belirlenirken, uygun olduğu
+şekilde aşağıdakiler dikkate alınır:
+
+(A)
+B)
+
+©
+
+(©)
+(D)
+(E)
+ÇE)
+
+Gürültü kaynağı ve gürültü salınımı özellikleri,
+
+Gürültünün yayılmasında zeminin etkisi,
+
+Gürültünün yayılmasında binaların ve doğal engellerin
+etkisi,
+
+Arka plan gürültüsünün etkisi,
+
+Gürültünün darbe özelliği,
+
+Gürültünün tonal özelliği,
+
+Gürültü salınımı olan saatler,
+
+Ölçüm ekipmanı EN 6167'de belirtildiği üzere sınıf | araç
+gerekliliklerine uyar.
+
+[SAYFA 7]
+Çevresel 9. (1)
+
+Gürültü
+
+Değerlendirme
+
+Noktaları
+2)
+(3)
+(4)
+(5)
+(6)
+
+Gürültü Gédsterge 10.
+
+Değerlerinin
+Belirlenmesi
+
+1825
+
+Çevresel gürültü seviyeleri gürültüye maruz kalma sonucu
+
+rahatsızlık veya zararlı etki ile sonuçlanması makul olarak
+beklenen noktalarda değerlendirilir.
+
+Mikrofon konumu ISO 1996-2’e göre belirlenir.
+
+Geliştirilmemiş bina bölgelerinde, çevresel gürültü seviyeleri
+
+gürültüye hassas odaları olan binaların inşaasına planlama
+
+mevzuatı uyarınca izin verilen noktalarda belirlenir.
+
+Çevresel gürültü seviyeleri binaların gürültüye hassas odaları
+
+bulunan cephelerinde belirlenir,
+
+Önceki fikralara bakılmaksızın, bu Tüzüğün 26. maddesi
+
+uyarınca stratejik gürültü haritalarının hazırlanması için gürültü
+
+gösterge değerleri aşağıdaki noktalarda belirlenir;
+
+(A) Binaların civarında gürültü maruziyetine ilişkin gürültü
+seviyelerinin (hesaplandığı (hallerde, O değerlendirme
+noktaları zeminden 4,0 + 0,2 m yüksekliğe ve
+maruziyetin en yüksek olduğu cephede; bu amaçla,
+maruziyeitn en yüksek olduğu cephe belirli gürültü
+kaynağına doğru bakan veya buna en yakın olan cephedir;
+
+(8) Binaların civarında gürültü maruziyetine ilişkin gürültü
+seviyelerinin hesaplandığı hallerde, diğer yükseklikler
+tercih edilebilir, ancak zeminden en az 1,5 metre
+yükseklikte olur, ve sonuçlar 4 metre eşdeğerine göre
+düzeltilmelidir.
+
+Yukarıdaki (I)Y'inci, (2)nci, (3)'üncü ve(4)'üncüfikralara
+
+bakılmaksızın, Daire belirli durumlarda gürültü seviye
+
+değerlendirmesi için farklı (bir sanayi tesisinin sınırı gibi)
+noktalar belirleyebilir.
+
+(1) Belirli bir değerlendirme noktasındaki gwrültü güzterge
+değerleri o alandaki ve degerlendirme noktasındaki tüm
+ilgili gürültü kaynaklarının gürültü salınımı sonucu
+belirlenir.
+
+(2) Belirli bir gürültü kaynağına ilişkin gürültü gösterge
+değerleri diğer gürültü kaynaklarından salınan gülünü
+haricinde belirlenir.
+
+(3) Gürültü gösterge değerleri ISO 1996- 2'e ve gürültünün
+tonal ve darbe özellikleri ve arka plan gürültüsü için
+ayarlamalara göre belirlenir.
+
+(4) Gürültünün tonal özelliğini dikkate almak için aşağıdaki
+K, değerleri ölçülen veya hesaplanan gürültü gösterge
+değerlerine eklenir:
+
+(A) Az isitilen tonal bileşen için: K, = 2 dB,
+
+(B) Net isitilen darbe bileşeni icin: Ky = 4 dB,
+
+(C) Cok isitilen darbe bileşeni için: Ky = 6 dB.
+Gürültünün tonal özelliği için ayarlamalar ISO 1996-2’e
+göre dikkate alınır.
+
+(5) Gürültü tonal bileşen içerdiği ve darbe özelliği olduğu
+hallerde, ölçülen veya hesaplanan gürültüye her iki
+
+[SAYFA 8]
+Gürültü
+Göstergeleri
+Sınır Değerleri
+
+VE
+
+(1)
+
+(2)
+6)
+
+(4)
+
+1826
+
+özelliği de dikkate almak amacıyla daha yüksek Kı, ve Ky
+değerleri eklenebilir.
+
+(6) Arka plan gürültüsünü dikkate almak için yapılan
+ayarlamalar ISO 1996-2’e göre yapılır.
+
+(7) Kural olarak insanların sadece gece veya sadece gündüz
+bulunduğu binalar veya bölgeler için, Leündüz VE Lgece Sınır
+değerleri sırasına göre uygulanır. Süreklilik arz eden
+gürültü kaynakları için Lys gürültü göstergesi kullanılır.
+
+Gürültü göstergeleri sınır değerleri Ek 1'de yer alır. Alan
+hassasiyet seviyesine göre belirlenmiştir.
+
+Bu Tüzüğe ekli Ek 1’in Tablo 1’inde genel çevresel gürültü
+için sınır değerler açıklanır.
+
+Bu Tüzüğe ekli E 1 Tablo 2'de bu Tüzüğün (15)'inci
+maddesinde yer alan tesis veya diğer tesislerin işletilmesi
+sonucu meydana gelen çevresel gürültüye ilişkin gürültü
+göstergeleri sınır değerleri verilmektedir.
+
+Bu Tüzüğe ekli Ek 1 Tablo 3'te anayolların veya ana
+havaalanlarının işletilmesi sonucu meydana gelen çevresel
+gürültüye ilişkin gürülü göstergeleri sınır değerleri
+verilmektedir.
+
+Bu Tüzüğe ekli Ek 1 Tablo 4’te L; gürültü göstergesi için
+sınır değerler tanımlanır. Anayolların neden olduğu çevresel
+gürültü ile ilişkili değildir.
+
+Planlama mevzuatına göre arazi kullanm planlarının
+bulunmadığı bölgeler içinDaire hassasiyet seviyesi ve gürültü.
+sınır değerini sırasıyla belirlemek için arazi kullanım türüne
+ilişkin karar alır.
+
+DÖRDÜNCÜ KISIM
+
+Gürültü Kaynakların İşletilmesi ve Kullanıma Ait Gereklilikler
+
+Gürültü
+Kaynaklarının
+İşletilmesi veya
+Kullanımına
+Yönelik Genel
+Gürültü Kontrol
+Gereklilikleri
+
+12.
+
+(1)
+
+(2)
+
+Gürültü kaynaklarının işletilmesi veya kullanımı, balkın
+rahatsız olması dahil olmak üzere zararlı etkilere neden
+olabilecek bir gürüllünün ortaya çıkmasına neden
+olmamalıdır.
+
+Çevre gürültüsüne maruz kalma oranını azaltmak adına,
+aşağıdaki konularda teknik, yapısal, mekânsal ve diğer
+tedbirler alınmalıdır:
+
+(A) oGürültü Oemisyonlarının oazalılması (o (gürültü
+kaynaklarının işletilmesi veya kullanılmasına bağlı
+tedbirler dahil),
+
+(B) Gürültünün yayılmasının sınırlandırılması,
+
+(©) Gürültü hassasiyetli odaları olan binaların korunması.
+
+[SAYFA 9]
+Çevresel _ BB Çi)
+Gürültünün İlk
+Değerlendirmesi
+18/2012
+(2)
+(3)
+(4)
+6)
+Çevresel 4 (M0
+Gürültünün
+İzlenmesi
+18/2012
+(2)
+
+1827
+
+Gürültü emisyonlarının azaltılması öncelikli bir tedbir olarak
+uygulanır.
+
+Çevre Yasası'nın 36(1)(A) maddesi uyarınca çıkarılacak
+
+olan tüzük kapsamında oizingerektiren (tesislerin
+
+işletmecileri, gürültü göstergelerini belirleyerek aşağıda
+belirtilenler sonrasında tesisin çalışması ile ortaya çıkan
+çevresel gürültüye dair bir ilk değerlendirme yapar:
+
+(A) İşletmeye başlanması sonrası,
+
+(B) Gürültü emisyonlarını etkileyen çalışma koşullarının
+değiştirilmesi sonrası,
+
+(C) Gürültü emisyonlarının azaltılması ve yayılmasının
+önlenmesi veya azaltılması için alınan tedbirler
+sonrası,
+
+İşletmeciler yaptıkları ilk değerlendirme sonrasında 3 (üç)
+ayı geçmeyecek bir süre içerisinde hazırladıkları raporu
+Daire’ye sunarlar.
+İşletmeciler (yaptıkları ilk değerlendirmenin tesisin
+maksimum çalışma kapasitesindeyken gerçekleştirilmesini
+sağlar. Maksimum çalışma kapasitesinin sağlanamadığı
+durumlarda, işletmeci bunun nedenlerini açıklar ve gerçekçi
+çalışma kapasitesi çerçevesinde gürültü göstergelerini
+değerlendirir.
+
+İşletmeciler, çevresel gürültüye dair yapacakları ilk
+
+değerlendirme kapsamında çevre gürültü göstergelerinin
+
+değerleri ile mevzu bahis gürültü kaynağının katkısının da
+değerlendirmesini sağlar.
+
+Çevresel gürültüye dair yapılan ilk değerlendirme, Daire
+
+tarafından verilen izinde belirtilen ve tesis çalışmaya
+
+başladıktan sonraki 12 (oniki) ayı geçmeyen bir sürede veya
+gürültü kontrol tedbirleri alındıktan sonra gerçekleştirilir.
+
+Çevre Yasası'nın 36(1)(A) maddesi uyarınca çıkarılacak
+olan tüzük kapsamında izin gerektiren
+tesislerinişletmecileri, en az üç yılda bir çevresel gürültü
+izleme gerçekleştirirler. İzleme gerçekleştirildikten sonraki
+üç ayı geçmeyecek süre içerisinde gürültü izleme raporu
+Daire’ye sunulur.
+
+Yukarıdaki (1)’inci fıkra kapsamında izin gerektiren bir
+tesisin çalışmasına bağlı zararlı bir etki veya sorunun
+beklenmeyeceği durumlarda Daire, çevre gürültüsüne
+yönelik yapılacak ilk değerlendirme ve/veya çevresel
+gürültünün izlenmesinin o gerçekleştirilmesine (o gerek
+olmadığına karar verebilir. Daire, ilgili tesisin gürültü
+ölçüm sonuçları veya teknolojik ya da işletme özelliklerine
+bakarak böyle bir karar verebilir. Daire aynı zamanda,
+değerlendirme noktasındaki bölge gürültü hassasiyet
+seviyesini de göz önünde bulundurarak, tesisin çalışmasına
+bağlı çevresel gürültü seviyesinin bu Tüzüğe ekli Ek 2
+
+[SAYFA 10]
+Tesisler ve 15:
+Diger Tesislerin
+Çalışmasına
+
+Yönelik
+Gereklilikler
+
+18/2012
+
+Anayol ve Ana 16.
+Havalimanlarının
+Çalışmasına
+
+Yönelik
+Gereklilikler
+
+Atölyelerin 17.
+
+ÇalışmasınaYönelik
+Gercnutlikler
+
+Insaat 18,
+Alanlarına
+
+Yönelik
+
+Gereklilikler
+
+1828
+
+Tablo 2'de tanımlanan tüm gürültü göstergelerinin sınır
+değerlerinin en az 5 dB(A) altında olduğu durumlarda da
+
+; benzer bir karar verebilir.
+
+(3) Daire'nin kararına bağlı olarak, yoğun nüfuslu alanlarda
+veya bu alanlara yakın çalışangürültü kaynaklarının
+işletmecileri tarafından belirli aralıklarla çevresel gürültü
+izleme gerçekleştirilir. Bu işletmeler Daire'nin ilgili
+kararında belirtilen süre içerisinde gürültü izleme raporunu
+Daire’ye sunar.
+
+(4) Daire, çevresel gürültüye ait ilk değerlendirme ve çevresel
+gürültü izleme ile ilgili raporların hazırlanması ile ilgili
+kılavuzlar hazırlayabilir.
+
+Bu Tüzük kapsamındaki tesis ve işletmeler (elektrikle ve/veya
+herhangi bir güç kaynağı ile yükseltilmiş cihaz kullanılmadan
+müzik yayını yapan tesis ve işletmeler dahil) ileÇevre Yasası'nın
+36(1)(A) maddesi uyarınca çıkarılacak olan tüzük kapsamında
+izin gerektiren tesisler bu Tüzüğe ekli Ek 1 Tablo 1, Tablo 2 ve
+
+Tablo 4’te tanımlanan gürültü göstergeleri sınır değerlerini
+aşmamalıdır.
+
+Anayol ve ana havalimanlarındaki çevresel gürültü emisyonları,
+bu Tüzüğe ekli Ek 1 Tablo 3 ve Tablo 4’te yer alan gürültü
+göstergelerinin sınır değerlerini aşmamalıdır.
+
+(1) Atélyelerden kaynaklanan çevresel gürültü
+emisyonlarıaşağıda belirtilen şekilde değerlendirilir.
+
+(A) Atölyelerin çalışmasına bağlı olarak gürültü
+emisyonuyla ortaya çıkan gürültü göstergelerinin
+değerleri bu Tüzüğe ekli Ek-1 Tablo 2 ve Tablo
+#'deki sınır değerlerini geçmez.
+
+(B) Yukardaki (1)’inci fikrada belirtilen atölyenin
+bulunduğu bölgedeki arka plan gürültüsü
+düzeyinin bu Tüzüğe ekli Ek-1’de yer alan Tablo-
+2'de venrtilen değerlere eşit veya daha yüksek
+olması halinde arka plan gürültüsünün 5 dBA
+
+— fazlasına kadar olan seviye esas alınır.
+
+(©) ( Atölyelerin çalışmasından kaynaklanan gürültünün
+değerlendirilmesinde yukarıdaki (A) veya (B) fikra
+koşulları arasında uygun olanı uygulanır.
+
+(1) İnşaat alanlarından (kaynaklanan çevresel (o gürültü
+emisyonları aşağıda belirtilen şekilde değerlendirilir:
+
+[SAYFA 11]
+(2)
+
+(3)
+
+(4)
+
+1829
+
+(A) İnşaat (o alanlarından = kaynaklanan _giiriiltti
+göstergelerinin değerleri bu Tüzüğe ekli Ek-1 Tablo
+3 ve Tablo 4'deki sınır değerlerini geçemez.
+
+(B) Yukarıdaki (A) bendinde belirtilen inşaat alanlarının
+bulunduğu bölgedeki arka plan gürültüsü düzeyinin
+bu Tüzüğe ekli Ek-1°de yer alan Tablo-3?de belirtilen
+değerlere eşit veya daha yüksek olması halinde arka
+plan gürültüsünün 10 dBA fazlasına kadar olan
+seviye esas alınır.
+
+Yukarıdaki (1)’inci fikrann (A) ve (B) bentlerinde
+
+tanımlanan inşaat alanlarında gürültü
+
+değerlendirmelerinden uygun olanı kullanılır.
+
+Bu maddenin (1)’nci ve (2)nci fikralarına bağlı
+
+olmaksızın, Daire (ve yerel halk ile uzlaşılmış bir şekilde)
+
+durumdan duruma (ve inşaat alanlarının süresinin en fazla
+
+i yılı) ve gürültü seviyelerinin teknik, operasyonel ya da
+
+ekonomik sebeplere bağlı olarak azaltılması mümkün
+
+olmadığı durumlarda bu maddenin 1. fıkrasındaki
+gerekliliklerinin inşaat alanının çalışmasına
+uygulanmayacağına karar verir.
+
+Yerleşim bölgesinde ve yakın çevresinde ve bu Tüzüğün
+
+(5'inci maddesi ile uyumlu olarak seviye I ve seviye IT
+
+hassasiyetindeki bölgelerde gerçekleşen inşaat faaliyet
+
+çalışmaları sadece gündüz saatlerinde yapılır.
+
+Canlı Müzik 19. (1)
+Yapan (Eğlence
+
+Yerlerinin
+
+İzinlendirmesine
+
+Yönelik
+
+Gereklilikler
+
+Müzik izin 20. (0
+Başvurunun
+
+Çewe (Koruma
+
+Dairesi tarafından
+Değerlendirilmesi
+
+ve Müzik İzni
+
+ian lecant
+
+Daire, kamuya açık bir yerde veya kuvvetlendirilmiş
+sesin kamuya açık bir yerde işitilebileceği biçimde
+müzik izni verir, Müzik izni almak isteyen gerçek veya
+tüzel kişiler aşağıdaki belgeler ile birlikte Daireye bir
+dilekçe ile başvurur:
+
+(A) İlgili belediyeden alınmış işletme izin belgesi,
+(B) Şehir Planlama Dairesinden alınacak planiama
+onayı belgesi
+
+Bu Tüzüğün (19)’uncu maddesi kapsamında yapılan
+müzik izin başvuruları Daire tarafından aşağıdaki
+esaslar çerçevesinde değerlendirilir:
+
+[SAYFA 12]
+18/2012
+
+(C)
+
+©)
+
+D)
+
+(E)
+
+®)
+
+1830
+
+alınmasını talep eder.
+
+Dairenin talep etmiş olduğu izolasyon
+önlemlerinin Oo işletme Oo tarafindan (O yerine
+getirilmesinden sonra, Daire gerekli gördüğü
+takdirde izolasyon tedbirlerinin yeterli olup
+olmadığını kontrol etmek için ikinci bir deneme
+gürültü ölçümü gerçekleştirilebilir. Müzik izni
+verilmeden önce iş yerinde alınan tedbirler ve
+raporlar incelenir, eğer ses izolasyon tedbirlerinin
+alındığı Daire tarafından tespit edilirse, bu
+Tüzüğe ekli Ek-6’da yer alan tabloda belirtilen
+gün ve saatlerde geçerli olacak şekilde İzin
+Belgesi düzenlenerek izin verilir.
+
+İzin Belgesi aylık asgari ücretin % ii kadar harç
+karşılığı düzenlenir. Söz konusu harç işletmeci
+tarafından Gelir ve Vergi Dairesi veznesine
+yatırılır.
+
+İşletmeci; Çevre Yasası kurallarına,bu Tüzük
+kurallarına ve İzin Belgesi'nde belirtilen
+koşullara uymak zorundâdır.
+
+Daire; gerekli görmesi halinde bu Tüzüğe ekli
+Ek-6’da yer alan eğlence o yerlerinden
+kaynaklanan çevresel gürültüye maruz kalan
+kişilerin ve yaşanan şikayetlerin yoğunluğu göz
+önünde bulundurularak herhangi bir işletmenin
+hassasiyet (seviyesini bir alt dereceye
+indirebilirve/veya bu Tüzüğe ekli Ek-I'de yer
+alan Tablo-1’de belirtilen değerlerden daha sıkı
+değerleri izin koşulu olarak belirleyebilir.
+Yukarıdaki (C) bendi kapsamında müzik izni
+verilmezden önce, ilgili başvuru Dairenin resmi
+internet sayfasında 5 (bes) iş günü halkın
+görüşlerinin bildirilmesi için bekletilir.
+
+Çevre Koruma Dairesi tarafından verilen müzik
+izinleri bir yıl süre ile geçerlidir. Bir yıllık süre
+içinde ilgili işletmeye ilgili Belediye tarafından
+verilen işletme izin belgesinin süresinin bitmesi
+halinde söz konusu işletme izin belgesini
+yenilemek işletmenin sorumluluğundadır. İşletme
+izin belgesinin yenilenmemesi halinde Daire
+tarafından verilen müzik izninin bir yıllık
+süresinin dolup dolmadığına bakılmaksızın,
+müzik izni geçerliliğini kaybetmiş sayılır. Bu
+durumda Belediye İşletme İzni yenilenmeden,
+işletme canlı müzik yapamaz.
+
+Müzik İzin Belgesi'nde işletmenin uyması
+gereken koşullar yer alır. İzin koşullan
+belirlenirken bu Tüzüğe ekli Ek-i’de yer alan
+Tablo-1’de belirtilen değerler esas alınır. Ancak
+izin başvurusunda bulunan işletmenin bulunduğu
+
+[SAYFA 13]
+2)
+
+(3)
+
+(4)
+
+6)
+
+(6)
+
+(7)
+
+1831
+
+bölgedeki arka plan gürültüsü düzeylerinin bu
+Tüzüğe ekli Ek-l’de yer alan Tablo-i'de
+belirtilen değerlere eşit veya daha yüksek olması
+halinde arka plan gürültüsünün en çok 5 dBA
+fazlasına kadar olan seviye izin koşulu olarak
+belirlenir. Bu Tüzüğün (20)'nci maddesinin
+(1)'inci fıkrasının (Ç) bendi kuralları saklıdır.
+
+(G Yukarıdaki (C) bendi kapsamında müzik izni
+alan bir işletmenin izin belgesinde yer alan gün
+ve saatlerin haricinde geçici bir etkinlik için ilave
+izin istemesi halinde, bu başvuru Daire tarafından
+değerlendirilerek uygun bulunması halinde izin
+verilebilir. Ancak bu tür ilave izin başvuruları
+süreklilik arz edemez ve | (bir) yıllık mevcut
+müzik izni periyodunda 24 (yirmidört) defayı
+geçemez.
+
+(MD Verilen müzik izni bir işletmeden diğer bir
+işletmeye devredilemez
+
+(0 O İşletmenin başka bir işletmeye devredilmesi
+halinde eski işletmenin müzik izni belgesi
+kendiliğinden sona erer. Yeni işletmenin müzik
+izni süreci bu Tüzüğün (19)’uncu ve (20)’nci
+maddelerinde belirtilen esaslar çerçevesinde
+yeniden başlar.
+
+Daire gerekli görmesi halinde müzik izni başvurusunun
+değerlendirilmesi aşamasında ilave bilgi ve/veya belge
+de talep edebilir.
+Restorant, bar, meyhane, taverna, pub, düğün salonu,
+gece kulübü ve bunlar gibi tanımlanmış yerlere bu
+Tüzüğe ekli Ek-6’daki esaslar çerçevesinde izin verilir.
+Bu Tüzüğün Sinci maddesinde tanımlanan seviye 1
+hasasiyetindeki bölgede açık ve yarı açık binalarda canlı
+müzik yapılması veya ses yükselüci cihazlar
+kullanılmasına izin verilmez.
+Birden fazla eğlence yerinin bulunduğu alanlarda Daire
+tarafından gerekli görülmesi halinde çevresel gürültü
+seviyesinin kontrol altına alınması amacıyla periyodik
+olarak veya gerekli görülmesi halinde gürültü
+seviyesinin osürekli ölçülmesine yönelik sistem
+kurulması söz konusu bölgede bulunan işletmelerden
+istenebilir.
+Dâire gerekli görmesi halinde müzik izni verilen
+işletmelerden ses seviyesi belirli bir değere ulaşması
+halinde gürültü kaynağını kendiliğinden kesen bir
+sistem kurmasını isteyebilir. Söz konusu sistemin
+kurulması, çalıştırılması, izlenmesi ve Daire tarafından
+çevrim içi takip edilmesiyle ilgili tüm masraflar
+işletmeci tarafından karşılanır. Böyle bir sistemi faal
+halde tutmak işletmecinin sorumluluğundadır
+
+Günü-birlik yapılan etkinlikler ile yılın belirli
+
+[SAYFA 14]
+1832
+
+dönemlerinde sınırlı sürede yapılan etkinlikler için
+Daireye izin başvurusunda bulunulmaz. Bu tür
+etkinlikler için ilgili (Kaymakamlıklara ve/veya
+Belediyelere müracaat edilir.
+
+Açık (o Alanda 21. (1) Açık alanda kullanılan araç ve makinelerin çevresel
+Kullanılan Araç gürültü emisyonları bu Tüzüğe ekli Ek-1 Tablo 2 ve
+ve Makinelerin Tablo 4’teki değerlendirmeleri aşağıdaki şekilde yapılır:
+Çalışmasına ve
+
+Kullanımına
+
+Yönelik
+
+Gereklilikler
+
+(A) Araç ve makinelerin çalışması sonucu ortaya
+çıkan gürültü göstergelerinin değerleri bu Tüzüğe
+ekli Ek-1 Tablo 2 ve Tablo 4’deki sınır değerlerini
+geçemez.
+
+(B) Oo Yukarıdaki (A) bendinde belirtilen bölgedeki arka
+plan gürültüsü düzeyinin bu Tüzüğe ekli Ek-I'de
+yer alan Tablo-2'de belirtilen değerlere eşit veya
+daha yüksek olması halinde arka plan
+gürültüsünün 5 dBA fazlasına kadar olan seviye
+esas alınır.
+
+(2) (o Araç ve makinelerin kullanımı için yukarıdaki (A) veya
+
+(B) fıkra koşulları arasında daha uygun olanı uygulanır.
+
+(3) Gürültü çıkaması muhtemel araç-gereç, makine,
+ekipman ve benzeri ürün ithali sırasında söz konusu
+ürünler ile ilgili “CE” veya “TSE” belgelerinin ithalat ile
+ilgili kuruma ibraz edilmesi halinde Daireden ithalatla
+ilgili görüş alınmaz.
+
+BEŞİNCİ KISIM
+İdari Gürültü Kontrol Tedbirleri ve Araçları
+Çevre İzinleri ve 22. (1) Çevre Yasası'nın 36(1)(A) maddesi kapsamında
+
+Genel Bağlayıcı çıkarılacak olan tüzük kapsamında izin gerektiren
+Kurallar tesislerin Oo izinlerinde (o çevresel  giiriiltiintin ilk
+18/2012 değerlendirmesine ve çevresel gürültü izlemeye ilişkin
+
+gereklilikler de yer alır.
+(2) Genel Bağlayıcı Kurallar içerisinde, çevresel gürültüye
+ilişkin gerekliliklerin yer alması sağlanır.
+
+18/2012 (4) Çevre Yasası'nın 36(1)(A) maddesi kapsamında
+
+çıkarılacak olan tüzük kapsamında izin gerektiren
+
+tesislerin isletmecileri,izin başvurularına ek olarak
+aşağıda belirtilenleri de yerine getirir:
+
+(A) Tesis ve tesisin harita üzerindeki temsili dahilinde
+çevresel gürültünün içsel kaynaklarının tanım ve
+tarifi,
+
+(B) Çevresel gürültünün kontrolü için planlanan
+tedbirler,
+
+[SAYFA 15]
+Çevresel Etki 23.
+Değerlendirmesi
+
+Gerçek ve Tüzel 24.
+Kişilere (o Yetki
+
+Verilmesi
+
+Yerleşim
+Bölgeleri,
+Anayollar
+Ana
+Havalimanları
+
+ve
+
+(1)
+
+(2)
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+1833
+
+(C) Çevresel gürültü ve/veya çevresel gürültü izleme
+sisteminin ilk değerlendirmesi için taslak program,
+
+(Ç) Bu tüzükle uyumlu © olarak çalışacağını
+göstermesiyle birlikte 9’uncu Madde ile uyumlu
+olarak ses göstergelerinin O değerlendirme
+noktalarındaki tahmini değeri,
+
+(D) Daire'nin talebi doğrultusunda diğer bilgiler.
+
+Çevresel Etki Değerlendirmesi raporu, yapılacak
+projelerde tahmini çevresel gürültü seviyelerini
+içermelidir. Gürültü emisyonları tahmini seviyeleri
+gürültü (göstergeleri değerlerinin (o hesaplanmasıyla
+değerlendirilir.
+
+Daire, bu tüzüğün gereklilikleri ile uyumlu olacak olan
+planlı gürültü kaynaklarının çalışmasının Çevresel Etki
+Degerlendirmesi’nde gösterildiği durumlarda çevresel
+iznin verilmesini sağlayacaktır. Daire aynı zamanda,
+gürültü emisyonlarının azaltılmasında ve gürültü
+yayılmasını kontrol etmek için gerekli olan çevresel izin
+tedbirlerinde uygun olarak belirlenmesini sağlar.
+
+Gürültü gösterge değerlerini hesaplayıp ölçecek,
+stratejik gürültü haritaları, gürülü -ylsm planı ve
+çevresel gürültü izleme sistemi raporları hazırlayacak
+gerçek ve tüzel kişiler, Daire’den yetki alır.
+
+Daire, kullanmayı düşündükleri gürültü ölçüm
+cihazlarının Oo ve/veya = hesaplama (metodlarının
+kullanımına ilişkin olarak uzmanlıklarını gösteren ve
+ISO 17020 ya da ISO 17025 ile uyumlu olarak gürültü
+ölçüm ve hesaplamaları için onaylanmış gerçek ve üzel
+kişilere bu şekildeki bir yetkı hakkı tanır.
+
+Daire, başka bir ülkenin yetkili makamında benzer bir
+yetki alan gerçek ve tüzel kişilere de yetki hakkı tanır.
+Daire, yetkiye oyönelik şartları daha fazla
+detaylanlandıran talimatları belirleyebilir.
+
+ALTINCI KISIM
+
+Stratejik Gürültü Haritası ve Gürültü Eylem Planı
+
+25.
+
+(1)
+
+Devlet Planlama Örgütü, yerleşim yerlerindeki nüfus
+yoğunluğunu belirledikten sonra Dairenin talebi üzetine
+Daire’yi bilgilendirir.
+
+Ulaşımdan sorumlu Bakanlık, anayol kriterlerini yerin®
+getiren yol bölümlerinin, statistiki sonuçlarını Daire'nin
+talebi üzerine Daire’ ye bildirir.
+
+Ulaşımdan sorumlu bakanlık, ana havalimanı kriterlerini
+
+[SAYFA 16]
+Stratejik Gürültü 26.
+Haritası
+
+Gürültü Eylem 27.
+Planı
+
+(4)
+
+(1)
+
+(2)
+
+(3)
+
+(6)
+
+(7)
+
+(8)
+
+1834
+
+yerine getiren havalimanlarının statistiki verilerini
+Daire'nin talebi üzerine Daire’ ye bildirir.
+
+Anayol ve ana havaliman işletmecileri, Daire'nin talebi
+üzerine anayol ve ana havalimanlarının tanımı için gereken
+trafik hacim verisini bildirir.
+
+Stratejik gürültü haritaları önceki takvim yılındaki çevresel
+gürültüye yönelik durumu sunar ve bu Tüzüğe ekli Ek te
+belirlenmiş minimum gereklilikleri yerine getirir.
+Belediyeler, Devlet Planlama Örgütünden ilgili bilginin
+kendilerine ulaşmasından sonra 24 (yirmidört) ayı
+geçmeyecek şekilde bu Tüzüğün25”inci maddesi ile
+uyumlu olarak tanımlanan bölgeleriyle birlikle yerleşim
+yerleri için Staratejik Gürültü Haritası hazırlanmasını
+sağlar.
+
+Ulaştırmadan sorumlu Bakanlık bu Tüzüğün 25'inci
+maddesi ile uyumlu olarak tanımlanmalarından sonra 18
+(onsekiz) ayı geçmeyecek şekilde anayolların tüm
+bölümleri için Stratejik Gürültü Haritası hazırlanmasını
+sağlar.
+
+Ulaştırmadan sorumlu bakanlık, bu Tüzüğün 25°inci
+maddesi ile uyumlu olarak tanımlanmalarından sonra 24
+(Yirmidört) ayı geçmeyecek şekilde tüm ana havalimanları
+için Stratejik Gürültü Haritası hazırlanmasını sağlar.
+Anayol ve ana havalimanları işletmecileri, stratejik gürültü
+haritası hazirliklarmdan sorumlu makamlara stratejik
+gürültü haritası hazırlıkları için gerekli olan anayol ve ana
+havalimanlarının trafik karakteristik bilgisini ve diğer
+bilgileri tedarik eder.
+
+Ulaştırmadan sorumlu bakanlık anayol ve ana havalimanı
+işletmecileri tarafından anayol ve ana havalimanı
+tanımlamaları ve stratejik gürültü haritalarının hazırlıkları
+için sağlanacak olan verileri belirtmek için kılavuz
+hazırlayabilir,
+
+Stratejik gürültü haritalarının hazırlanmasından sorumlu
+makamlar bu haritalar geliştirildikten sonra 3 ayı
+geçmeyecek şekilde Daire’ye haritaları gönderir.
+
+Stratejik gürültü haritalarının hazırlanmasından sorumlu
+makamlâr, stratejik (gürültü (haritalarının (gözden
+geçirildiğini ve gerekli (ogörüldüğü (durumlarda,
+
+hazırlandıktan sonra en azından her 5 yılda bir revize
+
+edilmesini sağlar.
+
+Gürültü eylem planı stratejik gürültü haritalarına bağlı
+olarak hazırlanacaktır. Gerekli görüldüğü durumlarda
+çevresel gürültünün ortaya çıkışını azaltması dahil, gürültü
+sorunlarını ve gürültü etkilerini yénetmek için
+tasarlanacaktır, Gürültü sorunlarını ve gürültü etkilerini
+yönetmek için tedbirler, herhangi bir ilgili sınır değerinin
+
+[SAYFA 17]
+1835
+
+ya da başka kriterlerin (belirli gürültü seviyesine maruz
+kalan kişi sayısı gibi) aşımına bağlı olarak tanımlanabilen
+öncelikleri adres gösterecektir. Bu tedbirler planlanırken,
+gürültü eylem planı hazırlıkları süresinde veriler mevcutsa,
+yerleşim yerlerinin gelişimi ve trafikteki değişiklikler için
+projeksiyonlar hesaplanır.
+
+(2) Belediyeler, stratejik gürültü haritaları geliştirildikten sonra
+1 (bir) yılı geçmeyecek şekilde Daire,Sağlık Bakanlığı ve
+ilgili diğer kurumlar ile işbirliği içinde yerleşim yerleri için
+gürültü eylem planının hazırlanmasını sağlayacaklardır.
+Bunun gibi planlar çevresel gürültünün artmasına karşı
+sessiz alanları korumayı da amaçlar.
+
+(3) Ulaştırmadan sorumlu bakanlık, ilgili stratejik gürültü
+haritası (o geliştirildikden sonra 24 (yirmidört) ayı
+geçmeyecek şekilde anayol ve ana havalimanları için
+hazırlanan gürültü eylem planının hazırlanmasını
+sağlayacaktır. Anayol ve ana havalimanları için gürültü
+eylem planı, Daire, sağlık bakanlığı ve bölgelerinde
+bulunan anayol ve ana havalimanlarıyla ilgili belediyelerle
+işbirliği içinde hazırlanır.
+
+(4) Gürültü eylem planı bu Tüzüğe ekli Ek 5'de düzenlenen
+asgari gereklilikleri yerine getirir
+
+(5) Gürültü eylem planının hazırlığından sorumlu makamlar,
+gürültü durumunu etkileyen bir gelişme fark ettikleri
+takdirde, stratejik gürültü haritalarını gözden geçirirler,
+Gerekli görüldüğü durumlarda eylem planları en az beş
+yılda bir gözden geçirilip revize edilir.
+
+(6) Anayollar ve ana havalimanları için gürültü eylem planı
+(revizyonları da dahil) Bakanlar Kurulu tarafından
+onaylanır ve ilgili makamlar tarafından uygulanır.
+
+YEDİNCİ KISIM
+Kamuoyuna Bilgi Verilmesi ve Kamuyonu Görüşünün Alması
+
+Kamuoyuna 28. (1) Stratejik gürültü haritaları ve gürültü eylem planından sorumlu
+
+Bilgi makamlar, bu harita ve planların, sorumlu makamlarca ~
+
+Verilmesi geliştirildikten ya da uygulandıktan sonra 3 ayı geçmeyecek
+şekilde kamuoyuna sunulmasını sağlarlar.
+
+(2) Sorumlu makamlar aynı Zamanda her bir stratejik gürültü haritası
+ve eylem planının önemli noktalarını net ve anlaşılabilir bir
+şekilde sergileyen bir özet sunacaklardır ve bu özetin kamuoyu
+tarafından erişilir olmasını sağlarlar,
+
+Kamuoyu 29. (1) Gürültü eylem planlarından sorumlu olan makamlar eylem
+
+Istisaresi planlarının hazırlık ve gözden geçirme aşamalarında görüş ve
+önerileri almak amacıyla kamuoyunun katılımını sağlarlar.
+
+(2) Gürültü eylem planının hazırlığından sorumlu makamlar
+
+[SAYFA 18]
+1836
+
+kamuoyu görüşü için en az 30 gün süre verilmesini sağlar.
+
+Eylem planının hazırlığından sorumlu makamlar genel duyuru ile
+
+(gerekli görüldüğü durumlarda internet yoluyla) halkı taslak
+
+eylem planı hakkında bilgilendireceklerdir ve onların bahsi geçen
+
+plana yönelik görüş, öneri ve yorumlarını öğrenmek için davet
+
+edeceklerdir. Genel duyuruda şunlar belirtilir:
+
+(A) o Ek bilginin sağlanabileceği makam,
+
+(B) Görüş, öneri ve yorumların önerilebileceği makam,
+
+(©) Görüş, öneri ve yorumları önermek için zaman programı,
+
+(3) o Eylem planının hazırlığından sorumlu makamlar kamuoyundan
+
+gelen görüş, öneri ve yorumların gözden geçirilmesini ve uygun
+
+görüldüğü durumlarda göz önünde tutulmasını sağlayacaktır,
+
+Makamlar, eylem planının hazırlığında kamuoyu görüş, öneri ve
+
+yorumlarını göz önünde bulundurup bulunduzmadıkları ile ilgili
+
+açıklama yapan bir rapor hazırlar.
+
+SEKİZİNCİ KISIM
+
+Geçici ve Son Hükümler
+Mevcut 30. (1) İşletmeciler, mevcut tesislerin ‘ve mevcut diğer tesislerin
+Tesislerin çalışmasını, bu Tüzüğün yürürlüğe girdiği tarihten başlayarak
+ve (oDiğer en 3 (üç) ay içinde bu Tüzük kurallarına uyumlaştırır.
+Tesislerin
+Çalışmasına
+Yönelik
+Gereklilikler
+
+(2) O Yukarıdaki (1)’inci fıkraya bağlı olarak; başvuruda bulunan
+işletmeci, gürültü emisyonlarının azaltılması ve yayılmasının
+indirgenmesi için tedbirlerin programımı belirleyecektir. Buna
+ek olarak, işletmeci başvurusunda tedbirleri yerine getirdikten
+sonra tesisin çalışmasının bu tüzükle uyumlu olacağını belirtir.
+
+Mevcut 31. Mevcut anayolların ve ana havalimanlarının işletmecileri,
+Anayolların ve çalışmalarının gürültü eylem planında tanımlanan süre sonunda
+Ana tüzük gereklilikleriyle uyumlu olarak çalışmalarını yürütürler,
+Havalimanlarının
+
+Çalışmasına
+
+Yönelik
+
+Gereklilikler
+
+Mevcut Açık ve 32. (1) Seviye I gürültü hassasiyeti olan alanlarda halkı etkileyen
+Yarı Açık mevcut açık ve yarı açık eğlence mekanlarının işletmecileri,
+Eğlence bu Tüzüğün yürürlüğe girmesinden sonra | (bir) ayı
+
+[SAYFA 19]
+Mekânlarına
+Yönelik
+Gereklilikler
+
+2)
+
+Mevcut Yerleşim 33.
+Yerleri,
+
+Anayollara ve
+Ana
+
+Havalimanlarına
+Yönelik Stratejik
+Gürültü Haritası
+
+ve Gürültü Eylem
+Planı
+
+Hazırlanması
+
+1837
+
+geçmeyecek şekilde, ya mekanlarını ses izolasyonuna sahip
+kapalı alanlara dönüştürerek yada farklı tedbirler
+uygulayarak işletmelerinden çıkan gürültü seviyesinin
+buTüzük ile uyumlu olmasını sağlarlar.
+
+Yukarıdaki (1)’inci fikrada belirtilen tedbirleri almayan
+işletmelerin izinleri Daire tarafından iptal edilir veya
+yenilenmez.
+
+(1) Belediyeler, 24 (yirmidört) ayıgeçmeyecek şekilde,
+
+stratejik gürültü haritalarının mevcut yerleşim yerleri için
+bu Tüzüğün (26)'ıncı maddesinin (1Yinci fikrası
+doğrultusunda hazırlanmasını sağlarlar,
+
+(2) Ulaştırmadan sorumlu bakanlık, 24 (yirmidört)
+
+ayıgeçmeyecek şekilde, stratejik gürültü haritalarının
+mevcut anayollar ve mevcut ana havalimanları için bu
+
+Tüzüğün (26)'ıncı maddesi doğrultusunda hazırlanmasını
+sağlar.
+
+(3) Belediyeler, stratejik gürültü harilatarı geliştirildikten
+
+sona 24 (yirmidért) ayı geçmeyecek şekilde,
+bölgelerinde bulunan mevcut yerleşim yerleri için eylem
+planını, Daire ve sağlıktan sorumlu bakanlık ile işbirliği
+içinde ve bu Tüzüğün (27)'nci maddesi doğrultusunda
+
+hazırlanmasını sağlarlar.
+
+(4) Ulaştırmadan sorumlu bakanlık, ilgili stratejik gürültü
+
+haritaları gelistirildikten sonra 24 (yirmidért) ayı
+geçmeyecek şekilde, mevcut anayollar ve mevcut ana
+havalimanları için gürültü eylem planı hazırlanmasını
+sağlarlar. Anayollar ve ana havalimanları için gürültü
+eylem planı, Daire, sağlıktan sorumlu bakanlık ve
+belediyerle iş birliği içinde ve bu Tüzüğün (27)'nci
+maddesi doğrultusunda hazırlar.
+
+DOKUZUNCU KISIM
+
+Son Kurallar
+
+Daha Önce 34. (1) BuTüzük yürürlüğe girmeden önce verilen müzik izinleri, bu
+
+Verilen müzik iznindeki koşullara uyulması şartıyla izin süresi sonuna
+
+İzinler kadar geçerlidir. İzin süresi sonunda yapılan başvurular bu
+Tüzük kuralları çerçevesinde değerlendirilir.
+
+(2) Bu Tüzük yürürlüğe girmeden önce veya yürürlüğe girdikten
+
+[SAYFA 20]
+Denetim ve (o 35,
+
+Yaptırım
+
+18/2012
+
+Yürürlükten 36.
+
+Kaldırma
+9/1990
+29.3.1991
+R.G, 29
+EK Ill
+A.E.155
+12.3.1993
+
+(1)
+
+(2)
+
+1838
+
+sonra izinlendirilen herhangi bir işletmenin mevcut izin
+koşullarında değişiklik talep etmesi halinde bahse konu talepleri
+bu Tüzük kuralları çerçevesinde değerlendirilir.
+
+Müzik izni alan veya almayan eğlence yerleri Daire tarafından
+
+denetlenir. İşletmeci; denetim sırasında süresi dolmamış Müzik
+
+İzin Belgesi'ni Daire yetkililerine ibraz etmek zorundadır.
+
+Yapılan denetimlerde Çevre Yasası veya bu Tüzük kurallarına
+
+veya İzin Belgesi koşullarına aykırılığın tesbiti halinde Çevre
+
+Yasası kapsamında yaptırım uygulanır. Bu yaptırımlar Süre
+
+Ihbarnamesi ve/veya Ceza İhbarnamesi verilmesi şeklinde
+
+yapılır. İlk aykınlığın tespiti halinde verilen ceza
+
+ihbarnamesindeki idari para cezası aylık asgari ücretin % 50
+
+(yüzde elli)’si oranındadır. Aykırılığa sebep olan ve Çevre
+
+Yasası uyarınca suç sayılan bir eylemin iki veya daha çok kez
+
+işlenmesi halinde, Çevre Yasasında yer alan idari para cezası
+
+miktarı iki kat artırılarak uygulanır,
+
+(a) Müzikizni alan bir işletmenin bu Tüzük veya Çevre Yasası
+kurallarını ihlal etmesi halinde işletmeye bir aylık asgari
+ücret tutarında ceza kesilir,
+
+(b) Bir yıllık müzik izni alan bir işletmenin, bu izin süresi
+içerisinde bu Tüzük veya Çevre Yasası kurallarını 3 (üç)
+kez ihlal etmesi halinde(süre ve ceza ihbarnameleri dahil),
+müzik izni 3(üç) hafta süreyle askıya alınır. Bu askı süresi
+zarfında canlı müzik yapılamaz. Üç haftalık sürenin
+sonunda işletmenin müzik izni kaldığı yerden devam eder.
+
+(©) Yukarıdaki (b) bendinde belirtilen üç haftalık izin askı
+süresi içinde veya izin askı süresi sonunda devam eden
+müzik izni süresi içinde bu Tüzük veya Çevre Yasası
+kurallarını 3 (üç) kez ihlal eden (süre ve ceza ihbarnameleri
+dahil) işletmenin müzik izni 6(altı) hafta süreyle askıya
+alınır. Bu süre zarfında canlı müzik yapılamaz. Altı haftalık
+sürenin sonunda işletmenin müzik izni kaldığı yerden
+devam eder.
+
+(d) Yukarıdaki (c) bendinde belirtilen altı haftalık izin askı
+süresi içinde veya izin askı süresi sonunda devam eden
+müzik izni süresi içinde bu Tüzük veya Çevre Yasası
+kurallarını 3 (üç) kez ihlal eden (süre ve ceza ihbarnameleri
+dahil) işletmenin müzik izni iptal edilir. Böyle bir işletmeye
+izin iptal tarihinden itibaren 3 (üç) ayı geçmeden yeni bir
+müzik izni verilmez,
+
+Bu Tüzüğün yürürlüğe girdiği tarihten başlayarak Çevre Yasası
+
+altında yapılan Çevre Koruma Dairesi Gürültü ve Ses Kontrol Tüzüğü
+
+yürürlükten kalkar.
+
+[SAYFA 21]
+R.G.25
+EKM
+A.E.99
+
+Yürütme
+Yetkisi
+
+Yürülüğe
+Giriş
+
+38.
+
+1839
+
+Bu Tüzük, Çevre Koruma Dairesi tarafından yürütülür.
+
+Bu Tüzük, Resmi Gazate'de yayımlandığı tarihten başlayarak yürülüğe
+girer.
+
+[SAYFA 22]
+1840
+
+Eki: i
+Gürültü Smır Değerleri
+
+Tablo 1: Tüm çevresel gürültüye yönelik gürültü göstergelerinin sınır değerleri
+
+| Hassasiyet seviyesi Landa akan Ligue | LigsgdB(A) |
+| (dB(A)) (dB(A)) (dB(A) |
+Hassasiyet seviyesi IV. 70 68 | 65 75
+Hassasiyet seviyesi II. | 60 57 | 55 65
+| Hassasiyet seviyesi I. 55 52 50 60
+| Hassasiyet seviyesi I. 50 47 | 45 55
+
+Tablo 2: Tesislerin ve diğer tesislerin çalışmasına yönelik gürültü göstergelerinin sınır
+değerleri
+
+| Hassasiyet seviyesi gündüz | İğne | Lgece (İBÇA)) | Leag
+(dB(A) (dB(A) (dB(A))
+Hassasiyet (o seviyesi | 73 68 63 73
+IV. 58 53 48 58
+Hassasiyet o seviyesi | 52 47 42 52
+TI. Hassasiyet | 47 42 37 47
+seviyesi II. | |
+Hassasiyet seviyesil. | |
+
+Tablo 3: Anayollarm, ana havalimanlarının ve inşaat alanlarına yönelik gürültü
+göstergelerinin sınır değerleri
+
+Hassasiyet Seviyesi Lgündüz Laksam (AB(A)) İL gece | Leng
+(dB(A) (dB(A)) _| (dB(A)
+Hasasiyet seviyesi IV. | 70 65 60 70
+Hassasiyet Seviyesi MI, | 65 60 55 65
+Hassasiyet Seviyesi IT. | 60 55 50 60
+Hassasiyet Seviyesi 1. | 55 __ 50 , 45 55
+Tablo 4: £7 Sımır değerleri
+Hassasiyet seviyesi | gündüz (İB(A)) | Laxsam (dB(A) ve L gece |
+| (dB(A) |
+Hassasiyet seviyesi IV. 90 90 |
+Hassasiyet (o seviyesi ‘IJ. | 85 70 |
+Hassasiyet seviyesi IL. | 75 65
+Hassasiyet seviyesi I, | 75 60
+
+[SAYFA 23]
+1841
+
+Ek 2:
+Gürültü cöstergeleri
+
+1. Lou gürültü göstergesinin gündüz-akşanı-gece tanımı
+
+esibeldeki (dB) gündüz-akşam-gece gürültü göstergeleri aşağıdaki formül ile tanımlanır:
+
+1 f aay Levarina BS) Lani “10 ,
+Lae = 101g57| 12*10 t4*l0 © +g¥1Q ”
+
+“den z Ligee
+Lay : Letindiz
+Levening : Lakşam
+
+night * Lecce
+buna göre:
+
+- Leondiz, ISO 1996-1 ve ISO 1996-2'de tanımlandığı gibi A ağırlıklı uzun vadeli ortalama
+ses düzeyidir, yıl içerisindeki tüm gündüz periyotları üzerinden belirlenmiştir.
+
+- Lakşam ISO 1996-1 ve ISO 1996-2'de tanımlandığı gibi JA ayunıklı uzun vadeli
+
+ortalama ses düzeyidir, yıl içerisindeki tüm akşam periyotları üzerinden belirlenmiştir, ’
+
+- Legere ISO 1996-1 ve ISO 1996-2’ de tanımlandığı gibi A ağırlıklı uzun vadeli ortalama
+
+ses düzeyidir, yıl içerisindeki tüm gece periyotları üzerinden belirlenmiştir.
+
+ve:
+> gündüz 07.00 ve 19.00 saatleri arasında, akşam 19.00 ve 23.00 saatleri arasında, gece
+ise 23.00 ve 07.00 saatleri arasındadır;
+
+- yıl, gürültü emisyonu konusunda ilgili yıl ve meteorolojik durumlar “konusunda
+ortalama yıldır;
+
+ve:
+- Gelen ses dikkate alınır, bu da incelenmekte olan konut cephesine yansıyan sesin
+
+hesaplanmadığı anlamındadır. (genel bir kural olarak, cephe © önündeki ölçün: durumunda
+bu a-3 dB doğrulamayı gösterir).
+
+2. Gece gürültü göstergesi tanımı
+
+ece gürültü göstergesi Lyece ISO 1996-1 ve ISO 1996-2'de tanımlandığı gibi A ağırlık uzun
+vadeli ortalama ses düzeyidir, yıl içerisindeki tüm gece periyotları üzerinden belirlenmiştir;
+buna göre;
+- Ek-2 de tanımlandığı gibi gece sekiz saattir,
+
+[SAYFA 24]
+1842
+
+Ek-2 I'de tanımlandığı gibi, yıl, ses emisyonu konusunda ilgili yıl ve meteorolojik
+durumlar konusunda ortalama yıldır;
+- Ek-1’de belirtildiği gibi, gelen ses dikkate alınır.
+
+3.Gürültü göstergeleri
+
+Bazı durumlarda, Leag and Leece “ye, uygun görüldüğü noktalarda da gündüz VE Lakşam ‘ye ek
+olarak, özel gürültü göstergeleri ve bununla ilişkin sınır değerlerini kullanmak avantajlı
+olabilir. Aşağıda bazı örnekler verilmiştir;
+
+- incelenmekte olan ses kaynağı sadece küçük bir zaman diliminde çalışır (ömeğin, yıl
+içerisindeki tüm gündüz, gece ya da akşam periyotları üzerinden zamanın %20’sinden azını
+kullanır),
+
+- bir ya da daha fazla periyotta gürültü etkinliklerinin ortma sayısı çok düşüktür
+(örneğin, saatte bir gürültü etkinliğinden daha azdır; gürültü etkinliği, beş dakikadan az süren
+bir ses olarak tanımlanabilir: geçmekte olan bir tren ya da uçak sesinden gelen ses gibi.)
+
+- düşük frekans içerikli ses güçlüdür,
+
+- Lamaks ya da SMS (ses maruziyet seviyesi) gürültü noktaları durumunda gece periyodu
+koruması içindir.
+
+- haftasonları ya da yılın belli zamanlarında ekstra koruma,
+
+- gündüz periyodunda ekstra koruma,
+
+- akşam periyodunda ekstra koruma,
+
+- farklı kaynaklardan ses kombinasyonu,
+
+- kırlıklarda sessiz alanlar,
+
+- yüksek perdeli bileşenleri içeren gürültü,
+
+- darbe özelliğine sahip gürültü.
+
+Ek3:
+Zararlı etkilere yönelik değerlendime vöntemleri
+
+Doz- etki ilişkileri nüfus üzerinde gürültünün etkisini değerlendirmek için kullanılmalıdır:
+
+- yol ve hava trafik gürültüsüne ve tesis ve diğer tesislerin çalışması sonucu oluşan
+gürültüye yönelik taciz ve Lg, arasındaki ilişki,
+
+- yol ve hava trafik gürültüsüne ve tesis ve diğer tesislerin çalışması sonucu oluşan
+gürültüye yönelik uyku bozukluğu ve Logce arasındaki ilişki,
+
+Gerekli görüldüğü durumlarda, belirli doz-etki ilişkileri şu şekilde sunulabilir;
+- Ek 4'de tanımlandığı şekilde gürültüye karşı özel izolasyonlu konutlar
+- Ek 4'de tanımlandığı şekilde sessiz cepheli konutlar
+
+- farklı iklimler/farkh kültürler,
+
+- nüfusun savunmasız grupları,
+
+- perdeli gürültü,
+
+- darbeli gürültü ve diğer özel durumlar.
+
+[SAYFA 25]
+1843
+
+Ek 4:
+Stratejik gürültü haritalamasına yönerlik asgari gereklilikler
+
+it, A stratejik gürültü haritası aşağıdaki konulardan biri ile ilgili veri sunumudur:
+- gürültü göstergeleri yönünden, mevcut,önceki ya da öngörülen gürültü durumları
+- tanımlanması ya da önerilmesi gereken sınır değerlerinin aşılması,
+
+- gürültü göstergelerinde belirtilen değerlere maruz kalmış bölgelerdeki tahmini konut,
+okul ve hastane sayısı
+
+- gürültüye maruz kalmış bölgelerde bulunan tahmini kişi sayısı.
+
+tv
+
+Stratejik gürültü haritaları kamuda şu şekilde temsil edilebilir;
+- grafik haritası,
+- tablolarda sayisal veri.
+
+3. yerleşim yerleri için stratejik gürültü haritaları trafik, havalimanları ve limanlar dahil
+endüstriyel faaliyet alanlarından yayılan gürültü üzerinde özellikle duracaktır.
+
+4. Stratejik gürültü haritalama aşağıdaki amaçlar için de kullanılabilir:
+- vatandaşlar için bilgi kaynağı,
+- eylem planı için bir temel.
+
+Bu uygulamalardan her biri farklı şekilde stratejik gürültü haritası gerektirebilir.
+
+5. stratejik gürültü haritalarında aşağıda verilen yerleşim yerlerine yönelik veriler asgari
+düzeyde sunulmalıdır: 3
+
+5.1 Yol ve gava trafigi ve endüstriyel kaynaklardan gelen gürültüden ayrı olarak, en
+korunmasız cephe üzerindeki zemin üzerindeki dB 4 metre'de Leg değerinin aşağıdaki her bir
+şeride maruz kaldığı konutlarda yaşayan tahmini kişi (yüzlerce) sayısı: 55-59, 60-64, 65-69,
+70-74, > 75*dir. Veriler en yakın şekliyle yüze yuvarlanmalıdır (ör 5 200 5 150 ve 5 249
+arasında; 100 = 50 ve 149 arasında; 0 = 50'den az),
+
+Buna ek olarak şu belirtilmelidir ki, uygun görüldüğü takdirde ve böyle bir bilginin mevcut
+olduğu durumlarda, yukardaki kategorideki insanların kaç tanesi aşağıdaki özelliklere sahip
+konutlarda yaşamaktadır;
+
+- çevresel gürültüye kaişı korunabilir yüksek değerli yalıtımlı havalandırma ve iklimlendirme
+tesisleri ile birlikte bir ya da daha fazla çevresel gürültüye karşı binanın özel yalıtımı
+anlamında, sözkonusu ses karşı özel bir yalıtım,
+
+- belli bir kaynaktan çıkan gürültünün 20 dB'den fazla, en yüksek Lyag değerine sahip
+cepheden düşük olan zemin üstünde Lgg 4 metre ve cephenin ön kısmında 2 metre
+değerindeki konutların cepheleri Anlamında, sessiz cephe
+
+Madde 3'de tanımlandığı gibi anayol ve ana havalimanlarının yukarıdaki durumlara nasil
+katkı sağlayacağı konusundada bilgi verilmelidir. :
+
+5.2 Yol ve hava trafigi ve endiistriyel kaynaklardan gelen gürültüden ayrı olarak, en
+korunmasız cephe üzerindeki zemin üzerindeki dB 4 metre'de Lecce değerinin aşağıdaki her
+bir şeride maruz kaldığı konutlarda yaşayan tahmini kişi (yüzlerce) sayısı; 50-54, 55-59, 60-
+64, 65-69, > 70,’ dir.
+
+[SAYFA 26]
+1844
+
+Buna ek olarak belirtilmelidir ki, uygun görüldüğü noklalarda ve buna benzer bilgierin
+
+mevcut olduğu durumlarda yukandaki kategorilerde bulunan kaç kişi aşağıdaki kriterlerin
+oulundugu konutlarda yaşar:
+
+- fikra 5.1'de tanımlandığı gibi bahsi geçen gürültüye karşı özel bir yalıtım
+
+- fıkra 5.1'de tanımlandığı gibi sessiz cepheler
+
+Anayol ve ana havalimanlarının yukarıdaki durumlara nasıl katkı sağlavacağı konusu de
+belritilmelidir.
+
+5.3 Oo Grafik sunum durumlarında, stratejik haritaler en az 60, 65, 70 ve 75 dB kontwlerini
+göstermelidir.
+
+6. Anayollar ve ana havalimanlarına yönelik stratejik gürültü haritalarında aşağıdaki veriler
+asgari düzeyde sunulmalıdır;
+
+6.1 Er korunmasız cephedeki zemin üzerindeki dB 4 metre’de ga, değerinin aşağıdaki her bir
+şeride maruz kaldığı konutların dış yerleşim yerinde yaşayan tahmini kişi (yüzlerce) sayısı:
+
+55-59, 60-64, 65-69, 70-74, > 75.'dir.
+
+Buna ek olarak belirtilmelidir ki, uygun görüldüğü noktalarda ve buna benzer bilgilerin
+mevcut olduğu durumlarda yukarıdaki kategorilerde bulunan kaç kişi aşağıdaki kriterlerin
+bulunduğu konutlarda yaşar:
+
+5 fikra 5.1'de tanımlandığı gibi bahsi geçen gürültüye karşı özel bir yalıtım
+
+- fikra 5.1’de tanımlandığı gibi sessiz cepheler
+
+6.2 En korunmasız cephe üzerindeki zemin üzerindeki dB 4 metre’de Leese değerinin
+aşağıdaki her bir şeride maruz kaldığı konutların dış yerleşim yerinde yaşayan tahmini kişi
+
+wre
+
+(yüzlerce) sayısı: 50-54, 55-59, 60-64, 65-69, > 70.'dir.
+
+Buna ek olarak belirtilm cu ki, uygun görüldüğü noktalarda ve buna benzer bilgilerin
+mevcut olduğu durumlarda yukarıdaki kategorilerde bulunan kaç “kişi aşağıdaki kriterlerin
+bulunduğu konutlarda yaşar:
+
+- ikra 5.1'de tanımlandığı gibi bahsi geçen gürültüye karşı özel bir yalıtım
+
+- fıkra 5.1’de tanımlandığı gibi sessiz cepheler
+
+6.3 Lgeşdeğerine maruz kalan toplam alan (km?) sırasıyla 55, 65 ve 75 dB’den yüksektir.bu
+alanların her birinde yaşayan tahmini konut sayısı (yüzlerce) ve tahrnini kişi sayısı (yüzlerce)
+verilmelidir. Bu veriler yerleşim yerlerini de kapsamalıdır. ;
+55 ve 65 dB konturleri, bu konturlerle birlikte köylerin, kasaba ve yerleşim yeri kouumu ile
+ilgili bilgi veren bir ya da daha fazla haritanın üzerinde gösterilmelidir,
+
+7. Vatandaşları bilgilendirmek ve eylem planının gelişimi amaçlarıyla ek ve detaylı bilgi -
+verilmelidir, örneğin:
+
+- grafik sunum,
+
+- aşkın sınır değerlerini ya da uygun görüldüğü takdirde diğer değerleri açıklayan
+haritalar,
+
+- mevcut durumun uygun görülen yerler için çeşitli olası gelecek durumlarla
+karşılaştırıldığı farklı haritalar,
+
+[SAYFA 27]
+1845
+
+- uygun görülen yerler için gürültü göstergelerinin 4 metreden daha yüksek değerlerini
+gösteren haritalar
+
+8. 4 metre yükseklik ve Leg Ve Leo aralıklarının 5 dB'sini değerlendirmek için stratejik
+gürültü haritaları yapılmalıdır.
+
+9. Yol-trafik gürültüsü, uçak gürültüsü ve endüstriyel gürültüler için yerleşim yerlerine
+yönelik ayrı ayrı stratejik gürültü haritaları yapılmalıdır. Diğer kaynaklar için haritalar da
+eklenebilir.
+
+[SAYFA 28]
+1846
+
+Ek5: _
+Eylem planı için asgari gereklilikler
+
+1. Bir eylem planı en azından aşağıdaki elementleri içermelidir;
+
+- yerleşim yerleri, anayollar ve ana havalimanları ve gözönüne alınan diğer gürültü
+kaynaklarının tanımı
+
+- sorumlu makam,
+
+- Oo yasalbağlam,
+
+- yürürlükte olan herhangi bir sınır değeri,
+
+- gürültü haritalamalarının sonuçlarının bir özeti,
+
+- gürültüye maruz kalan tahmini kişi sayısı, problemleri tanımlanması ve geliştirilmesi
+gereken durumların değerlendirilmesi
+
+- Bu Tüzüğün (29)’uncu maddesi ile uyumlu olarak organize edilen halk müzakeresinin
+bir kaydı
+
+- bali hazırda yürürlükte olan herhangi bir gürültü azaltma tedbirleri ve hazırlık
+aşamasında olan herhangi bir proje
+
+- yetkili makamların, sessiz alanları korumak için alınacak olan tedbirler de dahil,
+önümüzdeki beş sene içinde gerçekleştirmeyi planladıkları eylemler.
+
+- uzun vadeli stratejiler,
+
+- mali bilgi (mevcutsa): bütçe, maliyet etkinliği değerlendirmesi, maliyet kazanç
+değerlendirmesi,
+
+- eylem planının uygulanması ve sonuçlarını değerlendirmek için öngörülen hükümler,
+
+2. yetkili makamların yetkileri bünyesinde gerçekleştirmeyi planladıkları eylemler şu
+alanlarda olabilir:
+
+- trafik planlama,
+
+- arazi kullanımı planlaması,
+
+- gürültü kaynaklarında teknik tedbirler,
+
+- daha sessiz kaynakların seçimi,
+
+- ses iletiminin azaltılması,
+
+- düzenleyici ya da ekonomik tedbirler ya da teşvikler.
+
+3. Her bir eylem planı, etkilenen kişi (rahatsız olmuş, uykusu bölünmüş ya da diğer) sayısında
+azalma yönünden hesaplamalar içerecektir.
+
+[SAYFA 29]
+1847
+
+EK 6:
+Hassas bölgelere göre Makine veya Elektirikle kuyvetlendirilmis cibaz kullanan
+Hassasiy | Müzik Günler - Saatlar
+et Yayın
+Seviyesi | Yapıla | Bar-Kafe Disko | Restorant- Gece Düğün
+n Alan Meyhane Kulübü | Salonu
+L Çarşamba | 19:00 (ile | 19:00 ile! 19:00 ile|- 24:00'a
+Hassasiyet | Kapalı 01:00 arası | 03:00arası (o! 24:00 arası kadar
+Seviyesi (Alan [Cuma 19:00  ile| 19:00 ile | 19:00 ile | - (Her
+L 01:00 arası | 03:00arası 24:00 arası Gün)
+
+işletmelerin müzik izinlendirilmelerine yönelik gün ve saatler
+
+[SAYFA 30]
+1848
+
+| j Cumartesi | 19:00 ile | 19:00 ile | 19:00 ie | - |
+a fy] | 02:00 arası | 04:00 arası o; 24:06 arast | | !
+ii | Çarşamba } 19:00 ile 19:00 ile 19:00 ile. 24:00'a |
+| Hassasiyet | Kapalı | 01:00 arası | 04:00arası (o | 24:00 arası | ' kadar |
+| Seviyesi (Alan İCuma 1 19:00 ilet 19:00 ile 19:00 iler. Her |
+| i | 02:00 arası | 04:00arası | 24-00 arası iğ j Gün) |
+| Cumartesi | 19:00“ “ile 19:00 ile! 19:00 üz)”
+
+| | 02:00 arası | 04:00 arası | 24:00 arası | |
+
+| l
+
+1 OL Çarşamba | 19:00 ile| 19:00 ile} 19:00 ile) 19:00 24:00'a İ
+| Hassasiyet | Kapalı 61:00 arası | 04:00arası | 01:00 arası | ile | kadar
+Seviyesi Veya | | + 03:00 (Her
+Açık | | | | arası Gün) |
+
+Alan O; Cuma | 19:00 ile 19:00 ile | 19:00 ile! 19:00 “| |
+
+| 02:00 arası | 04:00 arası i 61:00 arası | ile i |
+
+| | 03:00 |
+
+! arası i
+
+| | Cumartesi | 19:00 ile | 19:00 ie | 19:00 ile | 19:00 | |
+
+| 02:00 arası | 04:00 arası 01:00 arası | ile | |
+
+03:00 |
+
+a | | i arası N 1
+iv. Hergün 19:00 ile | 19:00 ile | 19:00 ile | 19:00 2400'a |
+| Hassasiyet Kapalı 05:00 arası 01:00 arası | ile kadar |
+| Seviyesi o | Veya 02:00 arası 04:00 İ(Her |
+Açık i arası Gün) |
+
+Alan {
+
+—_ | |
+
+* Yukarıda belirtilen işletmeler disind
+
+uygun işletme baz alınarak belirler.
+
+* Bu Tüzüğün 20.maddenin (Ç) bendi
+indirilebilir ve/veya bu Tüzüğe ekli Ek-Ude
+
+a başvuru olması halinde Daire izin koşullarını en
+
+daha sıkı değerler izin koşulu olarak belirlenebilir.
+
+restorant veya restorant - bar gibi)
+yapacakları günler ile diğer faaliyet sahalarında ya
+
+ve/veya saatları ayrı
+
+*.
+>
+
+* Belediye işletme belgesinde sadece dü
+alan düğün salonlari bu izin
+etkinlikler yapabilir. Bu izin çer
+bulunulmaz. Belediye işletme be
+
+çerçevesinde sadece düğün,
+
+gereği hassasiyet seviyesi bir alt dereceye
+yer alan Tablo-1'de belirtilen değerlerden
+
+ün salonu olarak işletme izni olan ve wüzik izni
+rişan, siinnet ye benzeri
+çevesinde restorant-meyhane, bar-kafe gibi faaliyette
+Igesinde birden fazla faaliyet sahası (düğün salonu-
+olan işletmeler için düğün, bar ve benzeri etkinlikleri
+yapacakları faaliyetlerin günleri
+ayrı müzik izin belgesinde belirtilir.
+* Daire, gerekçesini belirterek, bu Tüzük |
+
+tapsamınrla verilen müzik izin koşullarında
+değişiklik yapabilir ve/ veya müzik izainii
+
+ptal edebilir

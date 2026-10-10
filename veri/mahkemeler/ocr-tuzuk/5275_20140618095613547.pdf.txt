@@ -1,0 +1,2503 @@
+[SAYFA 1]
+eQx
+
+ON
+Mİ
+
+KUZEY KIBRIS TÜRK CUMHURİYETİ
+RESMI GAZETE
+
+Sayı: lil EK [I 9 Mayis, 2014
+TEBLİĞ VE İLANLAR
+
+Sayı : 295
+
+ELEKTRONİK HABERLEŞME YASASI
+(6/2912 ve 21/2014 Sayılı Yasalar)
+Madde 23, 24, 25, 29, 30, 57, 65 Altında Yapılan Tüzük
+
+Kuzey Kıbns Türk Cumhuriyeti Bakanlar Kurulu, Elektronik Haberleşme Yasası'nın
+
+23'üncü, 24'üncü, 25'inci, 29'uncu, 30'uncu, 57'nci, 65'inci Maddelerinin kendisine
+verdiği yetkiye dayanarak aşağıdaki Tüzüğü yapar:
+
+(051)
+
+[SAYFA 2]
+Kısa İsim
+
+Tefsir
+
+752
+
+1. Bu Tüzük, “Yetkilendirme, Numaralandırma ve Spektrum
+Tüzüğü” olarak isimlendirilir.
+
+BİRİNCİ KISIM
+Genel Kurallar
+
+2. Bu Tüzükte metin başka türlü gerektirmedikçe:
+“Abone”, Bir haberleşme sağlayıcı ile bu hizmetlerin verilmesi için
+yapılmış bir sözleşmeye taraf olan herhangi bir gerçek veya tüzel kişiyi
+anlatır.
+“ACM”, Acil çağrı merkezini anlatır.
+“Adres Verisi”, kullanıcının acil yardım çağrı hizmetlerini aramakta
+kullandığı cihazın bulunduğu yere ilişkin posta adresi ve coğrafi
+koordinatlar cinsinden veriyi anlatır,
+
+. “Ara Bağlantı”, Bir haberleşme sağlayıcının kullanıcılarının aynı veya bir
+
+başka. haberleşme sağlayıcının kullanıcılarıyla haberleşmesini veya bir |
+
+başka haberleşme .sağlayıcının sağladığı hizmetlere erişmesini temin
+etmek i için
+
+aynı veya farklı haberleşme sağlayıcılar tarafından kullanılan elektronik
+haberleşme şebekelerinin fiziksel ve mantıksal olarak birbirine
+bağlanmasını anlatır.
+
+“Alfanümerik”, Alfabetik ve nümerik karakter düziliminin bileşiminden
+oluşan karakter dizisini anlatır.
+
+“Bakanlık”, Elektronik haberleşmeden sorumlu Bakanlığı anlatır.
+
+“Bilgi Toplumu Hizmetleri”, Veri işlenmesi (dijital sıkıştırma dahil) ve
+depolanması için elektironik donanım yoluyla bedel karşılığında uzaktan
+ve bir hizmetin alıcısının bireysel talebi üzerine sağlanan herhangi bir
+hizmeti anlatır.
+
+“Bireysel Kullanım Hakkı”, Haberleşme sağlayıcısına 9 kHz ile 3000
+GHz frekansı arasında elektromanyetik enerji ve numara kullanımına
+ilişkin spesifik haklar tanıyan veya söz konusu hakları Kurulun onayını
+almaksızın kullanma yetkisi bulunmadığı durumlarda, haberleşme
+sağlayıcısının faaliyetlerini, ilgili hallerde, bir genel yetkiyi tamamlayan
+spesifik yükümlülüklere tabi tutan, yetkiyi anlatır.
+
+“CEPT (The European Conference of Postal and Telecommunications
+Administrations”, Avrupa ülkelerinin Posta ve Telekomünikasyon
+
+idareleri arasında ticari, operasyonel, yasal and teknik işbirliği ve.
+
+koordinasyonunu sağlamak amacı ile kurulan yönetimi anlatır,
+
+“CLI”, Arayan hat bilgisini anlatır.
+
+“Ciro”, Haberleşme sağlayıcının brüt satışlarından satış indirimlerinin
+düşülmesi sonucu kalan tutarı anlatır.
+
+“DTMF”, Çift tonlu, çok frekanslı iletişimi anlatır.
+
+“Detay Frekans Planı, (Allotment) ”, Genel frekans planına uygun olarak
+belirli bir frekans aralığının ülke geneli veya bölgesel olarak belirli şartlar
+dâhilinde karasal ve uzay telsiz haberleşme hizmeti amacıyla kullanımını
+
+[SAYFA 3]
+753
+
+sağlamak üzere Ulusal Frekans Planına işlenmesini anlatır.
+“Elektromanyetik Enterferans”, ilgili diğer mevzuat kurallarına uygun
+olarak yapılan her türlü elektronik haberleşmeyi engelleyen, kesinti
+doğuran veya kalitesini bozan her türlü yayın veya elektromanyetik etkiyi
+anlatır.
+
+“Elektronik Haberleşme”, Elektriksel işaretlere dönüştürülebilen her türlü
+işaret, sembol, ses, görüntü ve verinin kablo, telsiz, optik, elektrik,
+manyetik, elektromanyetik, elektrokimyasal, elektromekanik ve diğer
+ileim sistemleri vasıtasıyla iletilmesini, gönderilmesini ve alınmasını
+anlatır.
+
+“Elektronik Haberleşme Hizmeti”, Telekomünikasyon hizmetleri ve
+yayıncılık için kullanılan şebekelerdeki iletim hizmetleri dahil (elektronik
+haberleşme şebekeleri üzerinden iletilen içeriğin sağlanmasından veya
+bunun üzerinde editoryal kontrol icra edilmesinden oluşan hizmetler ile
+bilgi toplumu hizmetleri hariç) elektronik, haberleşme şebekeleri üzerinde
+sinyaller iletilmesinden tamamen veya kısmen oluşan ve normal olarak
+bir bedel karşılığında verilen bir hizmeti anlatır.
+
+“Elektronik Haberleşme Sağlayıcı/Haberleşme Sağlayıcı”, Bir elektronik
+haberleşme şebekesinin operatörü veya elektronik haberleşme hizmetleri
+sağlayan tüzel kişiyi anlatır ve Telekomünikasyon Dairesini de kapsar.
+“Elektronik Haberleşme Sektörü”, Elektronik haberleşme hizmeti
+verilmesi, elektronik haberleşme şebekesi sağlanması, elektronik
+haberleşme cihaz ve sistemlerine yönelik üretim, ithal, satış ve bakım-
+onarım hizmetlerinin yürütülmesi ile ilgili sektörü anlatır. .
+“ “Elektronik Haberleşme Şebekesi”, İletilen bilgi çeşidine bakılmaksızın
+uydu şebekeleri, sabit (internet dahil, devre ve paket anahtarlı) ve mobil
+karasal şebekeler, sinyal gönderme amacıyla kullanıldıkları ölçüye kadar
+elekirik kablo sistemleri, radyo ve televizyon yayıncılığı için kullanılan
+şebekeler ve kablolu televizyon şebekeleri dahil, kablo, telsiz, optik veya
+başka elektromanyetik araçlar yoluyla sinyaller gönderilmesine imkan
+veren bir iletim sistemi ve söz konusu olduğunda, anahtarlama veya
+yönlendirme donanımı ve diğer kaynakları anlatır. i
+“Frişim”, Yasada belirtilen şartlar altında, elektronik haberleşme
+şebekesi, destekleyici altyapı ve/veyalibağlantılı hizmetlerin başka
+haberleşme sağlayıcıların kullanımına sunulmasını anlatır.
+
+“Evrensel Hizmet”, coğrafi konumlarından bağımsız olarak, bütün son
+kullanıcılara açık olan belirli kalitede, belirli ulusal coğrafi koşullar
+ışığında makul fiyatlı asgari hizmet dizinini anlatır.
+
+“Frekans Aralığı, (Frequency range) ”, Bir frekanstan diğer frekansa
+kadar olan frekans aralığı veya bir radyo ekipmanının ayarlanabileceği
+frekans aralığını anlatır.
+
+“Frekans Bandı, (Frequency band) ”, Frekans planlarında tanımlanan
+frekans aralığını anlatır.
+
+“Frekans Tahsisi”, Ulusal Frekans Planına uygun olarak Kurum
+tarafından bir telsiz istasyonuna frekans veya frekans kanalları, çıkış
+gücü, yayın süreleri de dâhil belirli şartlar altında kullanmak üzere izin
+verilmesini anlatır.
+
+“Genel Frekans Planı, (Allocation) ”, Belirli bir frekans bandının bir veya
+daha çok sayıda karasal ve uzay telsiz haberleşme hizmetleri ile
+radyoastronomi hizmetleri tarafından belli şartlar dâhilinde kullanılması
+amacıyla Ulusal Frekans Planına işlenmesini anlatır.
+
+“Genel Yetkilendirme”, Elektronik haberleşme şebeke ve hizmetleri
+sağlanmasına dair hakları veren ve Yasaya uygun olarak tüm veya özel
+elektronik haberleşme şebeke ve hizmetleri türlerine uygulanabilecek
+sektöre özgü yükümlülükleri belirleyen hukuki bir çerçeveyi anlatır.
+
+[SAYFA 4]
+754
+
+GHz (Giga Hertz)”, Elektromanyetik dalgaların bir saniyedeki bir milyar
+kez oluşan salınımını anlatır.
+
+“Girme Yetkisi”, Elekironik haberleşme şebekesi ve altyapısının inşa
+edilmesi, kaldırılması, bakımı, onarımı ve benzeri için kamusal ve özel
+mülkiyet alanları altından, içinden ve üzerinden geçmek üzere
+haberleşme sağlayıcılara verilen hakları anlatır.
+
+“Haberleşme Sağlayıcılar Sicili”, Genel yetkilendirme alan elekironik
+haberleşme sağlayıcılarının listesinin tutulduğu sicil defterini anlatır.
+“Herkesçe Kullanılabilir Telefon Hizmeti”, Ulusal veya uluslararası
+numaralandırma planındaki bir numara veya numaralar yoluyla ulusal ve
+uluslararası çağrılar başlatmak ve almak ve olağanüstü durum
+hizmetlerine erişmek için herkes tarafından kullanılabilen bir hizmet ve
+ayrıca, uygun olduğunda, haberleşme sağlayıcısı yardımı, rehber sorgu
+hizmetleri ve rehberler sağlanması, ödemeli genel telefonlar sağlanması,
+özel şartlar üzerinden hizmet sağlanması, fiziksel engelli veya özel sosyal
+ihtiyaçları olan müşteriler için özel kolaylıklar sağlanması ve/veya
+coğrafi olmayan hizmetlerin sunulmasını anlatır.
+“ICAO, (International Civil Aviation Organization) ”, Uluslararası Sivil
+Havacılık Örgütünü anlatır.
+
+“ICNIRP, (International Commission on Non-lonising Radiation
+Protection) ”, Uluslararasi İyonlaştırıcı Olmayan Radyasyondan
+Korunma Komisyonu'nu anlatır.
+
+“TEC, (international Electrotechnical Commission) ”, Uluslararası
+Elektroteknik Komisyonu'nu anlatır.
+
+“IMO, (international Maritime Organisation) ”, Uluslararası Denizcilik
+Örgütünü anlatır. j
+
+“ISO, (International Organisation for Standardization) ”, Uluslararası
+Standartlar Örgütü'nü anlatır.
+
+‘ITU, (international Telecommunication Union) ”, Uluslararası
+Telekomünikasyon Birliğini anlatır.
+
+“ITU-T E.161Tavsiye Kararı”, Bir telefon ağına erişimde kullanılabilecek
+telefonlar ve diğer cihazlar üzerindeki rakam, harf ve sembollerin
+düzenlemesini konu alan tavsiye kararını anlatır.
+
+“Kamusal Elektronik Haberleşme Şebekesi”, Herkesçe kullanılabilen bir
+elektronik haberleşme şebekesini anlatır.
+
+“Kamusal Haberleşme Sağlayıcı”, Kamusal haberleşme şebekesi
+üzerinden kamuya elektronik haberleşme hizmetleri veren haberleşme
+sağlayıcısını anlatır ve Telekomünikasyon Dairesini de kapsar.
+
+“Kamusal Telefon Şebekesi”, Herkes tarafından kullanılabilen telefon
+hizmetleri sunmak için kullanılan bir elektronik haberleşme şebekesini
+anlatır, bu şebeke, konuşmaların ve ayrıca faks ve data gibi başka
+haberleşme biçimlerinin şebeke sonlanma noktaları arasında transferini
+destekler. :
+
+“kHz (Kilo Heriz)”, Elektromanyetik dalgaların bir saniyedeki bin kez
+oluşan salınımını anlatır.
+
+“Kişisel Verileri Koruma Kurulu”, Kişisel Verilerin Korunması Yasası
+uyarınca kurulan Kurulu anlatır.
+
+“Konum Verisi”, Kullanıcının acil yardım çağrı hizmetlerini aramakta
+kullandığı cihazın yaklaşık olarak bulunduğu yere ilişkin koordinatlar ve
+ilgili diğer parametrelerle tanımlı alan verisini anlatır.
+
+“Kullanıcı”, Bir abone olsun veya olmasın, elektronik haberleşme
+hizmetleri kullanan herhangi bir gerçek veya tüzel kişiyi anlatır.
+
+“Kurul”, Yasa tahtında kurulan Bilgi Teknolojileri ve Haberleşme
+Kurumunun Yönetim Kurulunu anlatır.
+
+“Kurum”, Bilgi Teknolojileri ve Haberleşme Kurumunu anlatır.
+
+[SAYFA 5]
+755
+
+“Lisans”, Yasanın yürürlüğe girdiği tarihten önce verilen bireysel
+kullanım hakkını anlatır.
+
+“Numara”, Şebeke sonlanma noktasını tanımlayan ve ses, veriler ve
+görüntülerin o noktaya yönlendirilmesini sağlayan, (uygun olduğunda)
+abone, uygulama, operatör veya hizmet sağlayıcıya ait bilgiler içerebilen,
+harfler ve/veya rakamlar veya sembollerden oluşan bir dizi veya
+kombinasyonu anlatır.
+
+“Numara Taşınabilirliği”, Abonenin, abone numarasını değiştirmeden,
+operatörü, coğrafi konumu ve/veya hizmet çeşidini değiştirebilmesine
+imkan veren bir hizmeti anlatir.“Pro-Rata’’, Oransal esasa göre yapılan |
+hesaplamayı anlatır.
+
+“Sabit Telefon Hizmetleri” Teknoloji sınırlaması olmaksızın sabit
+kamusal telefon şebekesi üzerinden kullanıcılara ve/veya abonelere temel
+ve katma değerli herkesçe kullanılabilir telefon hizmetlerinin sunulmasını
+anlatır.
+
+“Sinyal”, Konuşma, müzik, sesler, görsel imajlar veya iletiler veya
+herhangi bir türdeki verilerin iletilmesine veya cihazların işletilmesi veya
+kontrol edilmesine hizmet eden sinyalleri anlatır.
+
+“Son Kullanıcı”, Bir kamusal elektronik haberleşme şebekesini
+işletmeyen ve kamusal elektronik haberleşme hizmetleri sunmayan
+herhangi bir gerçek veya tüzel kişiyi anlatır.
+
+“Spektrum”, Elektronik haberleşme için kullanılan ve frekansı 9 kfiz-
+3000 GHz arasında değişen elektronik dalgaların frekans aralığı ve
+uluslararası düzenlemeler kapsamında elektronik haberleşmeye tahsis
+edilen 3000 GHz üzerindeki frekansları anlatır.
+
+“Şebeke Sonlanma Noktası”, Bir abonenin bir elektronik haberleşme
+şebekesine eriştiği fiziksel noktayı anlatır.“Tarife”, bir haberleşme
+sağlayıcısının, elektronik haberleşme hizmetleri karşılığında veya bir
+elektronik haberleşme şebekesine erişim karşılığında kullanıcılara
+uyguladığı, herhangi değişik ücret kalemlerinden oluşan listeyi anlatır.
+“Taşıyıcı”, Çağrı başlatma, çağrı sonlandırma veya çağrı taşımayla ilgili
+hizmetlerin tamamı veya bir kısmını sunan bir elektronik haberleşme
+. şebekesi operatörünü anlatır.
+
+“Taşıyıcı Ön Seçimi”, Kullanıcıların, bir taşıyıcı seçim kodu
+çevirmeksizin bir taşıyıcıyı önceden seçmeleri için kullanılan bir yöntemi
+anlatır. :
+
+“Taşıyıcı Seçimi”, Kullamcıların bir taşıyıcı seçim kodu çevirmek
+yoluyla bir taşıyıcı seçmelerinin yöntemini anlatır.
+
+“Telsiz”, Aralarmda herhangi bir fiziki bağlantı olmaksızın
+elektromanyetik dalgalar yoluyla açık, kodlu veya kriptolu ses ve veri
+vermeye, almaya veya yalnızca vermeye veya almaya yarayan sistemleri
+anlatır.
+
+“Terminal Donanımı”, Bir kamusal elektronik haberleşme şebekesi
+üzerindeki bir şebeke sonlanma noktasında dolaylı veya dolaysız olarak
+herhangi bir yoldan bağlanmak için tasarlanmış olan ve sinyallerin
+iletilmesine olanak veren cihazı anlatır.
+
+“TS ISO/IEC 20000” (Bilgi Teknolojileri Hizmet Yönetim Sistemi) , Bilgi
+teknolojileri hizmeti sunan firmaların veya birimlerin iç ve dış müşterilerinin
+beklentilerini karşılayabilmeleri, durumlarını ve performanslarını sürekli
+iyileştirme ve geliştirmeleri, ilgili operasyonlarını yönetmelerinde ve hizmet
+vermelerinde hangi yöntemleri uygulayacakları, nasıl uygulayacakları
+konularında kılavuzluk eden standardı anlatır.
+
+“Tüketici”, Ticari veya mesleki olmayan amaçlar için elektronik
+haberleşme hizmetleri kullanan veya talep eden herhangi bir gerçek veya
+tüzel kişiyi anlatır.
+
+“Ulusal Frekans Planı”, Ülkede kullanılacak 9 kHz-3000 GHz frekans
+
+[SAYFA 6]
+62012
+21/2014
+
+Amaç
+
+Kapsam
+
+İlkeler
+
+756
+
+spektrumunun ilgili tüm mevzuat ve uluslararası standartlara uygun
+olarak tahsis edilebilmesi için yapılan ve genel frekans planı ve detay
+frekans planları da içeren ve Yasa'nın 14 (2) (B) maddesinde Bakanlar
+Kurulu tarafından hazırlanıp onaylanacağı belirtilen frekans planıdır.
+“Ulusal Numaralandırma Planı”, Yönlendirme, adresleme, fiyatlama veya
+hizmet türü hakkında bilgi vermek amacıyla numaralar için yapıları
+tanımlayan, numaralandırma planını anlatır.
+
+“Varlık Noktası, (PoP, Point of Presence) ”, Modem, transmisyon hatti,
+router (Yönlendirici) ve benzeri elektronik haberleşme ekipmanları
+üzerindeki çif yönlü trafiğin şebeke katmanları arasında
+yönlendirilmesini sağlayan merkezi anlatır.
+
+“Yasa” , Elektronik Haberleşme Yasası'nı anlatır.
+
+3. Bu Tüzüğün amacı, elektronik haberleşme hizmet, şebeke ve altyapılarına
+ilişkin genel yetkilendirmeye, bireysel kullanım hakkı tahsisine, elektronik
+haberleşme hizmet sağlayıcıları tarafından sunulacak hizmetlerin hizmet
+kalitesinin belirlenmesine, numaraların planlanmasına ve yapılan plana
+uygun olarak etkin ve verimli kullanılmasına, spektrumun planlanmasına ve
+yönetimine, frekansların tahsisine, koordinasyonuna ve tesciline yönelik usul
+ve esasları belirlemektir. .
+
+4, Bu Tüzük; elektronik haberleşme hizmeti sunmak ve/veya şebekesi
+işletmek isteyen elektronik haberleşme hizmet sağlayıcılara uygulanacak
+genel yetkilendirme şartlarına, bireysel kullanım hakkı tahsis edilmesine ve
+bireysel kullanım hakkı kapsamında uygulanacak ek şartlara, elektronik
+haberleşme hizmet sağlayıcıları tarafından sunulacak hizmetlerin hizmet
+kalitesinin belirlenmesine, Ulusal Numaralandırma Planı'nın hazırlanmasına,
+numaraların tahsisi ve geri alınmasına ilişkin kuralların belirlenmesine,
+spektrum yönetimi kapsamında temel ilke ve esasların belirlenmesine, Ulusal
+Frekans m Planı'nın hazırlanmasına ve güncellenmesine, frekansların tahsisi
+ve geri alınmasına ilişkin usul ve esasları kapsar.
+
+5. Bu Tüzüğün uygulanmasında aşağıdaki temel ilkeler göz önüne alınır.
+
+(1) Serbest, etkin ve sürdürülebilir bir rekabet ortamının sağlanması ve
+korunması,
+
+(2) Ülkenin her yerinde, makul bir ücret karşılığında geniş kapsamlı
+elektronik haberleşme şebeke ve hizmetlerinden yararlanılmasının
+sağlanması,
+
+(3) Tüketici hak ve menfaatlerinin korunması ve gözetilmesi, kullanıcı
+memnuniyetini artırıcı ve şikâyetleri giderici uygulamaların teşvik
+edilmesi,
+
+(4) Herkesin makul bir ücret karşılığında elektronik haberleşme şebeke ve
+hizmetlerinden eşit bir şekilde aynı hizmet kalitesinde yararlanmasını
+sağlayacak uygulamaların teşvik edilmesi,
+
+(5) Spektrumun &tkin ve verimli kullanımının gözetilmesi ve onu
+kullanmak isteyen kişilerin farklı ihtiyaç ve amaçlarının dikkate
+alınması, i
+
+(6) Frekans planlaması ve tahsisi yapılırken komşu ülkelerle sınırlarda
+oluşabilecek zararlı elektromanyetik girişim etkilerinin önlenmesi
+veya en aza indirilmesi ve spektrumun karşılıklı olarak etkin ve
+verimli bir şekilde kullanımının sağlanması
+
+(7) Hizmet kalitesi ölçütlerinin uluslararası standartlarda anlaşılabilir,
+uygulanabilir ve güncel olması, hizmet kalitesi ve çeşitliliğinin
+
+[SAYFA 7]
+Yetkilendirme
+Kapsamı
+
+Yetkilendirme
+Gerekmeyen Haller
+
+757
+
+artırılması
+
+(8) Elektronik haberleşme cihaz ve sistemlerin kurulması ve
+işletilmesinde insan sağlığı, can ve mal güvenliği, çevre ve tüketicinin
+korunması açısından asgari uluslararası normların dikkate alınması,
+
+(9) Yeni teknolojilerin geliştirilmesi ve kullanılması ve yatırımların teşvik
+edilmesi. ,
+
+(10) İlgili uluslararası kuruluşların düzenlemelerine uyulması,
+
+(11) Milk güvenlik ile kamu düzeni gereklerine ve doğal afetler ile
+olağanüstü haller gibi acil durum ihtiyaçlarına öncelik verilmesi,
+
+İKİNCİ KISIM
+Yetkilendirme
+
+6. (1)(A) Elektronik haberleşme hizmeti sunmak veya elektronik haberleşme
+şebekesi kurmak veya işletmek isteyen tüzel kişiler Kurum tarafından genel
+yetkilendirme ile yetkilendirilmelerini müteakip yetkilendirildikleri kapsamla
+sınırlı olmak üzere elektronik haberleşme hizmeti sunma veya elektronik
+haberleşme şebekesi kurma veya işletme faaliyetlerine başlayabilirler.
+
+(B)Sunulacak elekironik haberleşme hizmetinde veya kurulacak veya
+işletilecek elektronik haberleşme şebekesinde frekans veya numara gibi
+kaynak tahsisine ihtiyaç duyuluyorsa Kurum tarafından ayrıca bireysel
+kullanım hakkı tahsis edilir.
+
+(2) Yetkilendirilmiş haberleşme o sağlayıcılarının o yetkilendirildikleri
+kapsamdan farklı bir kapsamda elektronik haberleşme hizmeti sunmak veya
+elektronik haberleşme şebekesi kurmak veya işletmek istemeleri halinde
+Kurum'a ayrıca bu kapsamda genel yetkilendirme için bildirimde
+bulunmaları, numara ve frekans tahsisine ihtiyaç duymaları halinde ise
+bireysel kullanım hakkı talebinde bulunmaları gerekmektedir.
+
+(3) (A) Haberleşme sağlayıcıları Kuzey Kıbrıs Türk Cumhuriyeti mevzuatına
+göre yalnızca elektronik haberleşme hizmeti sunma ve/veya elektronik
+haberleşme şebekesi kurma ve/veya işletme faaliyetlerini yürütmek üzere
+Kuzey Kıbrıs Türk Cumhuriyeti sınırları içerisinde kurulmuş olmalı ve
+haberleşme sağlayıcı faaliyetlerini sürdürdükleri sürece sadece bu kapsam ile
+sınırlı olmak üzere faaliyetlerini sürdürmelidirler.
+
+(B) Haberleşme sağlayıcılar bu maddede belirtilen faaliyetlere ek olarak,
+talep etmeleri halinde, bilgi ve iletişim teknolojileri sektörü kapsamında mal,
+hizmet, bakım ve danışmanlık faaliyetlerini de sürdürebilecek olup, bu
+faaliyetleri sürdürmeleri halinde bunlara ilişkin muhasebe kayıtlarını da
+birbirinden ayırarak tutmalıdırlar.
+
+7.. (1) Bir gerçek veya tüzel kişinin, kendi kullanımındaki taşınmazların
+dâhilinde veya taşınmazların sınırı ile (bitişik veya aynı tesis içerisindeki
+taşınmazlar da dahil olmak üzere) gerçekleştirilen, (Ulusal Frekans Planında
+ve ilgili mevzuatta bireysel kullanım hakkı tahsisine ihtiyaç duyulmadan
+kullanılabileceği belirtilen frekans bandları da dahil olmak üzere) herhangi
+bir kaynak tahsisine ihtiyaç duyulmayan, özellikle şahsi veya kurumsal
+ihtiyaçları için kullanılan ve üçüncü şahıslara herhangi bir elektronik
+haberleşme hizmeti verilmesinde kullanılmayan, sağlanmasında herhangi bir
+ticari amaç güdülmeyen ve kamu kullanımına açık olarak sunulmayan
+elektronik haberlesme hizmeti ve/veya şebekesi veya altyapısı
+
+[SAYFA 8]
+Genel
+Yetkilendirme
+Bildirimi
+
+758
+yetkilendirmeye tabi değildir.
+
+(2) (A) Bu madde kapsamında yetkilendirmeye tabi olmamasına rağmen,
+Ulusal Frekans Planı'nda kaynak tahsisine tabi tutulmuş bir frekansın talep
+edilmesi halinde Kurum tarafından kaynakların öncelikle haberleşme
+sağlayıcılara tahsis edilmesi ilkesi gözetilerek; talep, Yasa, ilgili mevzuat ve
+Ulusal Frekans Planı doğrultusunda Kurum tarafından değerlendirilir.
+
+(B) Talebin Kurum tarafından olumlu bulunması halinde frekans tahsisinde;
+Yasa ve ilgili mevzuatla belirlenen kurallar kapsamında frekans tahsisi en
+fazla iki yıl ile sınırlı olmak üzere gerçekleştirilir.
+
+(3) Yayın Yüksek Kurulu tarafından lisans verilen yayıncılar, yayın
+hizmetlerinin sunulmasında kullandıkları telsiz cihazlarının arasındaki
+iletişimin sağlanması amacıyla Kurum’dan frekans talebinde bulunabilirler.
+Kurum frekans taleplerini Ulusal Frekans Planı doğrultusunda
+değerlendirecek ve olumlu bulması halinde tahsis gerçekleştirecektir. Bu
+kapsamdaki frekans tahsisi ve kullanımı bu Tüzük ve Ulusal Frekans Planı
+ile belirlenen kurallara uyulmak koşuluyla ayrıca yetkilendirmeye tabi
+değildir.
+
+(4) Tüzel kişiler tarafından sunulacak ücretsiz çağrı merkezi hizmetlerinde ve
+katma değerli servislerde kullanılacak numaralarda, numara tahsisi Ulusal
+Numaralandırma Planı doğrultusunda Kurum tarafından değerlendirilir.
+Talebin Kurum tarafından olumlu bulunması halinde tahsis gerçekleştirilecek
+olup, numara tahsisi ve kullanımı bu Tüzük ve Ulusal Numaralandırma Planı
+ile belirlenen kurallara uyulmak koşuluyla ayrıca yetkilendirmeye tabi
+değildir.
+
+(5) Bu madde kapsamındaki bireysel kullanın haklarının tahsisinde Tüzük
+ile belirlenen haberleşme sağlayıcıların bireysel kullanım hak tahsisine
+ilişkin kurallar ve Yasa ve ilgili mevzuat ile belirlenen ücretler uygulanır.
+
+8. (1)(A) Elektronik haberleşme hizmeti sunmak veya elektronik haberleşme
+şebekesi kurmak veya işletmek isteyen tüzel kişiler, faaliyetlerine
+başlamadan önce Kurum tarafından belirlenen bildirim formu ile Kuruma
+bildirimde bulunurlar.
+
+(B) Bildirim formu ve bildirim formunda belirtilen bilgi ve belgelerin
+eksiksiz ve doğru bir şekilde Kuruma iletilmesi ile ve form ve belgelerin
+Kurum evrak kayıtlarına girdiği tarihten başlayarak geçerli olacak şekilde,
+genel yetkilendirme kapsamında yetkilendirme gerçekleştirilir.
+
+(C) Yetkilendirme kapsamı bildirim formunda beyan edilen elektronik
+haberleşme hizmeti ve/veya şebekesinin detayları, teknik özellikleri, hizmet
+veya şebekenin sağlanacağı veya kurulacağı coğrafi bölge ile sınırlıdır.
+
+- (2) Haberleşme sağlayıcısının gerçekleştirdiği bildirimindeki, eksikliklerin
+
+giderilmesi için Kurum tarafından en fazla on beş güne kadar süre verilir. Bu
+sürenin sonuna kadar eksikliğin giderilmemesi halinde bildirim
+gerçekleştirilmemiş sayılır.
+
+(3) Bildirimin Kurum kayıtlarına girmesinden itibaren bir hafta içinde
+Kurum, bildirimin bu Tüzük hükümlerine uygun olarak yapıldığını teyit eden
+ve haberleşme sağlayıcısının Yasa ve bu Tüzük kapsamında kamusal veya
+özel mülkler üzerinde, yukarısında veya altında tesisler kurmak için haklar
+
+[SAYFA 9]
+Sayısı
+Sınırlandırılmış
+Bireysel Kullanım
+Hakları
+
+Bireysel Kullanım
+Hakkı Tahsisi
+
+759
+
+verilmesi amacıyla ilgililere müracaat edebileceğini, erişimi müzakere
+edebileceğini ve erişim veya ara bağlantı elde edebileceğini gösteren bir
+yetkilendirme belgesini haberleşme sağlayıcısına gönderir.
+
+(4) Başvurunun ilgili mevzuata uygun olmaması nedeniyle doğabilecek her
+türlü zarardan haberleşme sağlayıcı sorumludur.
+
+9. (1) Kurum, kaynakların etkin ve verimli kullanılması, rekabetin
+geliştirilmesi ve tüketici yararının arttırılması amaçlarıyla ve kaynakların,
+sınırlı sayıda haberleşme sağlayıcı tarafından yürütülmesinin gerektiği
+durumlarla sınırlı olmak üzere; kullanıcılar, haberleşme sağlayıcılar, ilgili
+kamu kuruluşları ve sivil toplum örgütlerinin görüşlerini alarak, hangi
+bireysel kullanm haklarının sayısının sınırlandırılacağına dair yazılı
+görüşünü Bakanlık eliyle Bakanlar Kurulu'na iletir. Kurumun yazılı görüşü
+
+"üzerine Bakanlar Kurulu hangi bireysel kullanım haklarının sayısının
+
+sınırlandırılacağına ve Yasa kapsamında ihale ile tahsis edileceğine ilişkin
+karar verir.
+
+(2) Sayısı sınırlandırılmış bireysel kullanım haklarının tahsisleri Yasa'nın 64.
+maddesi kapsamında yapılacak ihaleler ile gerçekleştirilir. Bu kapsamda
+yetkilendirmeye ilişkin süreç, tahsis edilen hakların yenilenmesi ve iptali,
+ücretler, kullanım hakkı başvuru formu, haberleşme sağlayıcıların hak ve
+yükümlülüklerinin yer aldığı hizmete özel olarak hazırlanacak sayısı
+sınırlandırılmış kullanım hakkı yetki belgesi ile yetkilendirme için Kuruma
+sunulacak diğer bilgi ve belgeler, ilgili ihale şartnamesinde düzenlenir.
+
+10. (1) Elektronik haberleşme hizmetinin sunulması veya elektronik
+haberleşme şebekesi kurulması veya işletilmesinde frekans ve numara
+tahsisine ihtiyaç duyulması halinde ve enterferansın engellenmesi, hizmet
+kalitesinin osağlanması ve spektrumun etkin kullanılması amaçları
+doğrultusunda, kaynak tahsisleri Kurum tarafından bireysel kullanım hakkı
+tahsisi yoluyla gerçekleştirilir. Bireysel kullanım hakkı kapsamındaki kaynak
+tahsisleri Kurum tarafından belirlenir ve yayımlanır.
+
+(2) (A) Haberleşme sağlayıcılar, elektronik haberleşme hizmetinin sunulması
+veya elektronik haberleşme şebekesi kurulması veya işletilmesinde bireysel
+kullanım hakkı kapsamındaki frekans ve numara tahsisine ihtiyaç duymaları
+halinde Kurum tarafından belirlenen bildirim formu ile Kuruma başvuruda
+bulunurlar.
+
+(B) Bireysel kullanım hakkı kapsamındaki frekans ve numaralar, Kurum
+tarafından bireysel kullanım hakkı tahsis edilmeden kullanılamazlar.
+
+(C) Bildirim formu ve bildirim formunda belirtilen bilgi ve belgelerin
+eksiksiz ve doğru bir şekilde Kuruma iletilmesini müteakip Kurum, Ulusal
+Numaralandırma Planı ve Ulusal Frekans Planı'na uygunluk ve aşağıda
+(a),(b),(c),(¢) ve (d) ali bentlerinde belirtilen şartların yerine getirilmesi
+şartıyla başvuru ile ilgili gerekli incelemeleri yaparak üç hafta içerisinde
+olumlu veya olumsuz kararını haberleşme sağlayıcısına bildirir
+
+(a) Talep edilen kaynaklara uygun yetkilendirmenin bulunması veya
+kaynak talebi ile birlikte uygun yetkilendirme bildiriminde de
+bulunulmuş olması, ;
+
+(b) Talep edilen kaynakların, tahsis edilebilir durumda ve ilgili olduğu
+hizmetin tanımı ve coğrafi kapsamıyla uyumlu olması,
+
+(9) Talep edilen kaynaklara uygun teknik kapasitenin yeterliliği, abone
+sayısını destekleyecek pazar tahminlerinin ve yatırım planının olması,
+
+[SAYFA 10]
+Frekans
+Tahsislerinde
+Uygulanacak Ek
+Kurallar
+
+760
+
+(ç) Ek kaymak taleplerinde Kurum tarafından belirlenen doluluk oranına
+erişilmiş olması
+(d) Kurum tarafından gerekli görülen diğer koşulların sağlanması.
+
+(3) Haberleşme sağlayıcısının başvurusunda bulunan, Yasa ve bu Tüzük ile
+belirlenen kurallara aykırılık teşkil etmeyen eksikliklerin giderilmesi için
+Kurum tarafından haberleşme sağlayıcıya on beş güne kadar süre verilebilir,
+bu sürenin sonuna kadar eksikliğin giderilmemesi halinde başvuru işlemden
+kaldırılır.
+
+(4) (A) Kurum tarafından başvurusu uygun bulunan haberleşme
+sağlayıcısına, başvuru tarihi esas alınarak haberleşme sağlayıcının
+başvurduğu yılın sonuna kadar pro-rata olarak hesaplanan ilgili bireysel
+kullanım hakkı ücretini toplam olarak Kuruma gelir kaydedilmek üzere ilgili
+
+© banka hesabına yatırması bildirilir.
+
+(B) Bireysel kullanım hakkı ücretleri Yasa ile belirlenen alt ve üst sınırlar
+içerisinde Tüzük ve ilgili mevzuat ile belirlenir. Kurum tarafından yazı ile
+bireysel kullanım hakkı ücretinin ödenmesine ilişkin başvuru sahibinin
+bilgilendirildiği tarihten itibaren bir ay içinde ödemenin yerine getirilmemesi
+halinde, başvuru işlemden kaldırılır.
+
+(5) Bireysel kullanım hakkı başvurusuna ilişkin tüm bilgi ve belgeleri
+eksiksiz olarak sunarak başvurusu uygun bulunan ve bireysel kullanım hakkı
+ücretini ödemesi gerektiği bildirilen haberleşme sağlayıcısının, ilgili ücreti
+Kurum tarafından bildirilen banka hesabına yatırdığını belgeleyen dekontun
+aslının veya banka onaylı suretinin Kuruma sunulmasını müteakip on beş
+gün içerisinde başvuru sahibine Kurum tarafından tahsis edilen kaynakların
+yer aldığı kullanım hakkı yetki belgesi düzenlenerek haberleşme
+sağlayıcısına teslim edilir. Haberleşme sağlayıcısı yetki belgesini aldığı
+tarihten başlayarak kendisine tahsis edilen kaynakları kullanmaya
+başlayabilir.
+
+(6) Kurum, bireysel kullanım hakkı verilmesi taleplerini, milli güvenlik,
+kamu düzeni, kamu sağlığı ve benzeri kamu yararı gerekleri, tahsis edilmesi
+gereken kaynakların yetersizliği sebepleriyle reddedebilir.
+
+11. (1) (A) Frekans tahsislerinde, telsiz haberleşme ihtiyacının yeterince
+karşılanmasını sağlamak üzere tahsis edilecek frekans sayısı veya miktarında
+asgari kısıtlayıcı tedbirler alınabilir.
+
+(B) Tahsis edilen frekanslar için sistemin kullanım yeri, verici gücü, anten
+tipi, anten yönü ve anten yüksekliği gibi teknik parametre değerlerine Kurum
+tarafından gerekli sınırlamalar getirilebilir.
+
+(2) Tahsis edilen frekanslarda haberleşme ortamının sağlanamaması veya
+teknik düzenlemelere rağmen elektromanyetik girişimin giderilememesi
+durumunda tahsis edilen frekans ve frekans bandları Kurum tarafından
+değiştirilebilir. Teknolojide meydana gelen gelişmeler, spektrumun etkin ve
+verimli kullanılmasına yönelik Kurumun yapacağı düzenlemeler veya ülgili
+uluslararası kuruluşların düzenlemeleri doğrultusunda yapılabilecek yeni
+planlamalar çerçevesinde Ulusal Frekans Planında yapılacak olan
+değişikliklere paralel olarak, haberleşme sağlayıcıya tahsis ve tescil edilmiş
+
+frekanslar mümkün olduğu ölçüde korunmak ve Kurumca gerekli görüldüğü
+
+takdirde ilgili kurumların görüşü alınmak suretiyle, haberleşme
+sağlayıcısına, Meteoroloji Dairesi Müdürlüğü'ne, Polis Genel Müdürlüğü'ne,
+
+[SAYFA 11]
+761
+
+Sivil Havacılık Dairesi'ne, Kuzey Kıbrıs Türk Cumhuriyeti Sahil Güvenlik
+Komutanlığı'na, Güvenlik Kuvvetleri Komutanlığı'na, Kıbrıs Türk Barış
+Kuvvetleri Komntanlığı'na ve Yayın Yüksek Kurulu'na tahsis ve tescil
+edilen frekansların bir kısmı veya tamamında geri alma dâhil her türlü
+değişiklik Kurum tarafından yapılabilir.
+
+(3) Kurum yayıncılık hizmetlerinin sağlanmasıyla ilgili olarak yürürlükteki
+mevzuat uyarınca frekans bandı ve kanal tahsisi bireysel kullanım haklarının
+
+- verilmesi yükümlülüğünü Yayın Yüksek Kuruluna devreder. Ancak; Kurum,
+Ulusal Frekans Planı dahilinde frekans bandı ve kanal tahsisi bireysel
+kullanım hakları ile ilgili yeni düzenlemeler yapabilir veya Yayın Yüksek
+Kuruluna devrettiği haklarını geri alabilir.
+
+(4) Herhangi bir zararlı elektromanyetik girişim halinde, öncelikle
+haberleşme sağlayıcılara tahsisli frekansların korunması esastır. Tahsisli
+frekanslarda herhangi bir zararlı elektromanyetik girişim olması halinde ise
+ilk frekans tahsis ve tescili yapılan haberleşme sağlayıcının ve/veya
+kullanıcının frekansları korunur.
+
+(5) (A) Sayısı sıhırlandırılmamış bireysel kullanım hakkı kapsamında
+yetkilendirilen haberleşme sağlayıcılar, yetkilendirme tarihinden başlayarak
+bir yıl içinde hizmet sunmaya başlamamaları durumunda, hizmet sunmaya
+başlamak için gerekçelerini belirtmek suretiyle Kurumdan ek süre talep
+edebilir. Kurum, bu haberleşme sağlayıcısına altı ayı geçmemek üzere ek bir
+süre verebilir.
+
+(B) (a) Kurum, tahsis edilen frekans kaynağını, haberleşme sağlayıcısının,
+yetkilendirme tarihinden başlayarak bir yıl içinde hizmet sunmaya
+başlamayıp berhangi bir ek süre talep etmemesi veya verilen ek süre içinde
+hizmeti sunmaya başlamaması durumunda aksini gerektiren objektif nedenler
+bulunmadıkça geri alır.
+
+(b) Kurum, tahsisli frekans kaynağının geri alınmasına yönelik kararını,
+gerekçesi ile birlikte, geri alıma kadar belli bir süre verilecek şekilde
+haberleşme sağlayıcısına bildirir.
+
+(c) Haberleşme sağlayıcısı, Kurum tarafından belirlenecek süre içerisinde, bu
+fikra kurallarına göre gerekli düzenlemeleri yapmakla yükümlüdür.
+
+(6) Sayısı sınırlandırılmış kullanım hakkı sahibi haberleşme sağlayıcının
+frekanslarının değiştirilmesinde ve geri alınmasında bu Tüzük ve Yasa
+kurallarına ilaveten ihale şartnamesi ve kullanım hakkı yetki belgesindeki
+hükümler dikkate alınır. Yasanın yürürlüğe girdiği tarihten önce Bakanlikça
+verilmiş olan GSM sayısal ve hücresel mobil telefon sistemi kurulması ve
+işletilmesi ile ilgili lisans sözleşmeleri bakımından, tahsis edilen frekans
+kaynağının geri alınması, değişiklik yapılması ve ilave frekans tahsisi
+konularında, ilgili ihale şartnamesi ve/veya sözleşmede belirtilen usul ve
+esaslar dâhilinde işlem yapılır.
+
+(7) Kurum, frekans değişikliklerinde ve geri alınmasında haberleşme
+sağlayıcıya makul bir süre verir. Haberleşme sağlayıcı, Ulusal Frekans
+Planında yapılacak değişikliklere uyum sürecinde veya frekansın geri
+alınması sürecinde doğacak gider kalemleri ve diğer maliyet ve zararları için
+Kurumdan veya abonelerden herhangi bir hak talebinde bulunamaz. Kurum,
+frekansların iptal edilmesi veya geri alınmasında herhangi bir yükümlülük
+altına girmez.
+
+[SAYFA 12]
+.Numara
+Tahsislerinde
+Uygulanacak Ek
+Kurallar
+
+762
+
+12. (1) Numara tahsisi içeren bireysel kullanım hakkı tahsisleri Kurum
+tarafından öncelikle Ulusal Numaralandırma Planı ve uluslararası anlaşmalar
+kapsamındaki düzenlemeler göz önünde bulundurularak gerçekleştirilir.
+
+(2) Numara tahsisi içeren bireysel kullanımı hakkı tahsislerinde aşağıdaki
+koşullar uygulanır;
+
+(A) Kurum, gerekli görmesi halinde, talep edilen numaraların belirli bir
+kısmını tahsis edebilir. :
+
+(B)Tahsis edilen numaralar Kurumun izni olmadan başka bir haberleşme
+sağlayıcısına devredilemez. Tahsis edilen numaraların başka bir
+haberleşme sağlayıcısına kullandırılması için on beş gün önceden
+Kuruma bildirimde bulunulması gereklidir.
+
+Tahsis edilen numaraların başka bir haberleşme sağlayıcısına
+kullandırılması ile ilgili bildirimin yapılmasını müteakip Kurum mali
+açıdan Maliyeden sorumlu Bakanlığın görüşünü de alarak karar verir.
+
+(C)(a)Herhangi bir nedenle kullanımına son verilmiş numara veya
+numara blokları, istisnai haller dışında, kullanımına son verildiği
+tarihten itibaren; faturalı hatlara ilişkin numaralarda en az altı ay
+sonra; ön ödemeli hatlara ilişkin numaralarda ise abonenin ilk iki ay
+içerisinde kontör yükleme yapmamış olması halinde en az iki ay
+sonra diğer durumlarda ise en az altı ay sonra farklı bir kişiye tekrar
+tahsis edilebilir.
+
+(b)Kullanimina son verilen numaranın aynı kişiye tahsisi söz konusu
+olduğunda bu süreler uygulanmaz.
+
+(Ç)Yasanın yürürlüğe girdiği tarihten önce Bakanlıkça verilmiş olan
+GSM sayısal ve hücresel mobil telefon sistemi kurulması ve
+işletilmesi ile ilgili lisans sözleşmeleri kapsamındaki haberleşme
+sağlayıcısına bu Tüzüğün yürürlüğe girdiği tarihten önce tahsis
+edilmiş olan numaralar hariç olmak üzere tahsis edilen numaralar,
+tahsis tarihinden başlayarak en geç bir yıl içinde hizmete sunulmaya
+hazır hale getirilir. Bu süre Kurum tarafından gerekli görülmesi
+halinde uzatılabilir. Haberleşme sağlayıcıların süre uzatım talepleri,
+bir yıllık sürenin dolmasından en az bir ay önce yapılır.
+
+(3) Kurum, yukarıdaki 1’inci fikradaki koşullara ek olarak, hizmet veya
+numara türüne özel koşullar getirebilir ve numara tahsisinden önce gerekli
+görmesi halinde haberleşme sağlayıcıdan üç yıllık numara kullanımına ilişkin
+planın sunulması şartını getirebilir. '
+
+(4) Kurumun gerekçeli talebi halinde, haberleşme sağlayıcı, kendisine tahsis
+edilmiş tüm numaralarla ilgili geçen üç yıla ilişkin yazılı rapor verir ve
+raporun en az aşağıdaki hususları içermesi zorunludur:
+
+(A)Her bir numara türündeki abone sayısı ile numara türüne göre
+düzenlenmiş şekilde abonelere tahsisli bulunan toplam numara sayısı,
+(B)Her bir numara türündeki tahsis edilebilir numara sayısı,
+(C)Gelecekte verilecek hizmetler için boş tutulan numaraların sayısı,
+(Ç)Abonelere tahsis edilenler dışında kullanılan numaralar ve kullanım
+amaçları,
+(D) Numara kullanımına ilişkin gelecek üç yılık plan,
+
+(5) Kurum aşağıdaki koşulların varlığı halinde ilgili tarafların da görüşlerini
+alarak, tahsis edilen numaraların değiştirilmesine, iadesine veya geri alımına
+karar verebilir, haberleşme sağlayıcılar abonelik sözleşmelerinde aşağıdaki
+koşullara yer verirler;
+
+[SAYFA 13]
+Bireysel Kullanım
+Hakkı Süreleri
+
+Haberleşme
+Sağlayıcılar Sicili
+
+Ulusal
+Numaralandırma
+Planı
+
+763
+
+(A)Mili güvenlik, kamu düzeni ve acil durum ihtiyaçlarının
+gerektirmesi,
+
+(B)İlgili uluslararası kuruluşların düzenlemelerinde ve/veya uluslararası
+anlaşmalar Oo kapsamındaki düzenlemelerde O gerçekleştirilen
+değişiklikler,
+
+(C)Numaralandırma planında yapılacak değişiklikler,
+
+(Ç) Haberleşme sağlayıcısının talep etmesi ve Kurumun bu talebi uygun
+
+bulması,
+
+(D)İlgili numara kaynağına yönelik yetkilendirmenin herhangi bir
+nedenle sona ermesi veya değişmesi,
+
+CE)Tahsis edilen tüm numaraların hizmet dışı bırakılması veya tahsis
+tarihinden itibaren bir yıl içerisinde hizmete verilmemesi,
+
+(F) İlave numara kapasitesi ihtiyacının zorunlu kılması,
+
+(G) Numara tahsisine dayanak teşkil eden koşulların geçerliliğini
+yitirmesi, başvuruda verilen bilgi veya belgelerin yanlış veya yanıltıcı
+olduğunun tespit edilmesi.
+
+(6) Tahsis edilen numaralar Kuruma iade edilebilir. İade edilen numaralar
+için Kurumdan numara tahsisi ve bireysel kullanım hakkı ücreti de dahil
+olmak üzere herhangi bir hak iddiasında bulunulamaz.
+
+13. (1) Bireysel kullanım hakları, Kurum tarafından ilgili başvuru
+formlarında aksi belirtilmediği sürece veya haberleşme sağlayıcı tarafından
+daha kısa bir süre talep edilmedikçe ve her halükarda en fazla on yıl süre ile
+tahsis edilir.
+
+(2) Bireysel kullanım hakkı süresinin sona erme tarihinden on iki ve altı aylık
+süreler arasında, Kurum tarafından belirlenen bildirim formu ve formda
+belirtilen bilgi ve belgeler ile bireysel kullanım hakkının yenilenmesi için
+Kuruma başvurulabilir.
+
+(3) Kurum, bu Tüzük ile belirlenen koşullar doğrultusunda başvuruyu
+değerlendirerek bireysel kullanım hakkını yenileyebilir
+
+(4) Sayısı sınırlandırılmış kullanım hakkı sahibi haberleşme sağlayıcının
+kullanım hakkı süresi ile ilgili olarak ihale şartnamesi ve kullanım hakkı yetki
+belgesindeki kurallar dikkate alınır.
+
+14. (1) Bu Tüzük kapsamında yetkilendirilen haberleşme sağlayıcılar Kurum
+tarafından haberleşme sağlayıcılar siciline kaydedilir.
+(2) Haberleşme sağlayıcılara bireysel kullanım hakkı tahsis edilmesi halinde,
+
+tahsis. edilen bireysel kullanım haklarına ilişkin detaylar da sicilde kayıt
+
+altına alınır.
+(3) Kurum'un internet sitesinin ilgili bölümünde Kurum tarafından belirlenen
+kapsamda sicil bilgilerine yer verilir.
+
+15. (1) Kurum, tahsis edilecek numaraların kullanım kapsamlarını ve
+kullanıma yönelik ek koşulları içeren Ulusal Numaralandırma Planını hazırlar
+ve Kurul kararı ile yayımlar. Ulusal Numaralandırma Planı ve tahsisli
+numaralar Kurum'un internet sitesinde de yayımlanır.
+
+(2) Tahsis edilen numaraların alfanümerik olarak gösteriminde ve
+kullanılmasında ITU-T E.161Tavsiye Kararı esas alınır.
+
+(3) Kurum, milli güvenlik, kamu düzeni veya acil durumların gerektirdiği
+haller, uluslararası anlaşmalar kapsamındaki düzenlemelerde gerçekleştirilen
+değişiklikler, ilgili uluslararası kuruluşların düzenlemeleri veya numara
+kapasitesi ihtiyacı nedeniyle Ulusal Numaralandırma Planında değişiklik
+yapabilir.
+
+[SAYFA 14]
+Ulusal Frekans
+Planı ve Yönetimi
+
+Genel
+Yetkilendirmeye
+Bağlı Haklar
+
+764
+
+16. (1) Kurum, 9 kHz den 3000 GHz ye kadar olan frekans aralığını içeren
+Ulusal Frekans Planı'nı hazırlar ve Bakanlık eliyle Bakanlar Kurulu'na iletir.
+Bakanlar Kurulu'nun Ulusal Frekans Planı'nı onaylamasının ve Ulusal
+Frekans Planı'nın Resmi Gazete'de yayımlanmasının ardından Kurum genel
+ve detay frekans planı, planlanan sistemler için kanal aralığı, çıkış gücü,
+yetkilendirme prosedürü, referans bilgiler, kısa notlar gibi açıklamalardan
+oluşan Ulusal Frekans Planı'nı resmi internet sitesinden yayımlar. Telsiz
+hizmetleri, telsiz istasyonları ve sistemleri, uygulama terimleri, frekansın
+ortak kullanımı ve uzay ile ilgili teknik terimler ve kısaltmalar Ulusal Frekans
+Planı'nı ile birlikte yayımlanır.
+
+(2) Kara, hava, deniz, uydu ile radyo ve televizyon yayın hizmetlerinde
+uluslararası frekans koordinasyon işlemleri, komşu ve ilgili ülkeler ile ikili
+veya çoklu anlaşmalar, anlaşma mevcut olmaması halinde ise ITU ve CEPT
+prosedürleri çerçevesinde frekans koordinasyonu Kurum tarafından yapılır;
+yayın hizmetlerine ilişkin koordinasyon işlemleri Yayın Yüksek Kurulu ile
+koordineli olarak sürdürülür. ICAO gözetiminde yapılan uluslararası frekans
+koordinasyonu Sivil Havacılık Dairesi ile koordineli olarak yürütülür.
+
+(3) Haberleşme sağlayıcılar veya kullanıcılar tarafından komşu ülkelerde
+kullanılan sistemlerden kaynaklanan bir zararlı elektromanyetik girişimin
+bildirilmesi veya böyle bir girişimin tespit edilmesi halinde komşu ülkeler ile
+
+birlikte sorunun çözülmesine yönelik işlemler Kurum tarafından yapılır.
+
+(4) Güvenlik Kuvvetleri Komutanlığı ve Kıbrıs Türk Bars Kuvvetleri
+Komutanlığı ile Yayın Yüksek Kurulu Ulusal Frekans Planı çerçevesinde
+Kurum tarafından kendilerine tahsis edilen frekans bandlarında frekans
+planlamasını yapar ve uygular. Sistem kurma, kurdurma ve kullanma izinleri
+ile ruhsatlandırma işlemleri Kuzey Kıbrıs Türk Cumhuriyeti Sahil Güvenlik
+Komutanlığı tarafından yürütülen her çeşit deniz ve hava bandı telsiz
+haberleşme ve seyir güvenliği cihaz ve sistemleri için tahsis edilecek
+frekanslar Kurum tarafından belirlenir.
+
+(5) Kurum, milli güvenlik, kamu düzeni, ilgili uluslararası kuruluşların
+düzenlemeleri, ikili anlaşmalar kuralları uyarınca Ulusal Frekans Planında
+değişiklik yapılması için hazırlık yapabilir, Kurum her halükarda en az üç
+yılda bir defa olmak üzere Spektrum Planı'nı gözden geçirir ve gerekirse
+güncellemelere ilişkin değişiklik taslağını hazırlar. Plan değişiklik taslağı
+Bakanlık eliyle Bakanlar Kurulu'na gönderilir, taslağın Bakanlar Kurulu
+tarafından onaylanmasından sonra değiştirilmiş Ulusal Frekans Planı Kurum
+tarafından yayımlanarak yürürlüğe girer.
+
+ÜÇÜNCÜ KISIM
+Haberleşme Sağlayıcıların Hakları
+
+17. (1) Elektronik haberleşme hizmeti sunmak veya elektronik haberleşme
+şebekesi kurmak veya işletmek isteyen tüzel kişiler bu Tüzüğün 8'inci
+maddesi ile belirlenen bildirimi gerçekleştirerek Kurum tarafından genel
+yetkilendirme ile yetkilendirilmelerini müteakip; bu Tüzük ile belirlenen
+kurallara uymak şartıyla, yetkilendirildikleri kapsamla sınırlı olmak üzere
+elektronik haberleşme hizmeti sunabilir veya elektironik haberleşme şebekesi
+
+[SAYFA 15]
+Frekans
+Kullanımına
+Yönelik Haklar
+
+Numara
+Kullanımma
+Yönelik Haklar
+
+765
+
+kurabilir veya isletebilirler.
+
+(2) Kamusal haberleşme sağlayıcılar, Yasa ile belirlenen koşullar
+doğrultusunda, genel yetkilendirme kapsamındaki faaliyetlerinin yürütülmesi
+ile ilgili olarak; ölçüm, inceleme, araştırma yapmak veya tesisat kurmak,
+tamir etmek veya benzeri çalışmalar yapmak amacıyla, girme yetkisi
+kapsamında
+
+(A) Taşınmaz mala girebilir ve gerekli işlemleri gerçekleştirebilirler veya
+
+(B) Herhangi bir sokağı açabilir, kırabilir ve/veya kazabilir ve herhangi bir
+elektronik haberleşme şebekesi tesisatını döşeyebilir, kullanıcılarına
+su getiren ana borular hariç herhangi bir borunun pozisyonunu
+değiştirebilirler.
+
+(3) Girme yetkisinin kullanılabilmesi için taşınmaz malın kullanıcısına 24
+saat önceden Yasa ile belirlenen ilgililere bildirim yapılması, yazılı rızasının
+alınması, kullanıcıya arazi kullanım ücretinin ödenmesi ve yürürlükteki
+mevzuat uyarınca ilgili tüm makamlardan gerekli izinlerin alınması
+gerekmektedir. Söz konusu çalışmalar ve tesisatın gerçekleştirilmesi
+esnasında herhangi bir mülke verilen herhangi bir hasar ve/veya tahribatla
+ilgili olarak, Yasa ile belirlenen kurallar uyarınca mülk sahibine tazminat
+ödenir.
+
+(4) Genel yetkilendirme ile yetkilendirilen haberleşme sağlayıcılar, Yasa ile
+belirlenen koşullar ve Kurum tarafından belirlenen kurallar ve Esas Yasa'nın
+37'nci Maddesi uyarınca diğer haberleşme sağlayıcılardan ara bağlantı ve
+
+- erişim talep edebilir, ara bağlantı müzakerelerinde bulunabilirler.
+
+(5) Genel yetkilendirme kapsamında elektronik haberleşme şebekesi kuran
+veya işleten haberleşme sağlayıcılar, diğer haberleşme sağlayıcıların Varlık
+Noktaları arasında bağlantı sağlayabilir, yürürlükteki mevzuat uyarınca ilgili
+tüm makamlardan gerekli izinleri almak koşuluyla, karasal ve/veya denizaltı
+transmisyon altyapısını ülke sınırları içerisindeki bir nokta ile ülke sınırları
+dışındaki bir nokta arasında kurup işletebilir.
+
+18. (1) Bireysel kullanım hakkı kapsamında kendisine frekans tahsis edilen
+haberleşme sağlayıcı, tahsis edilen frekansı, genel yetkilendirme ile
+yetkilendirildiği kapsamla sınırlı olmak üzere; bu Tüzük, Yasa ve Kurum
+düzenlemelerine uymak şartıyla elektronik haberleşme hizmeti sunulması
+veya elektronik haberleşme şebekesi kurulması veya işletilmesi amaçlarıyla
+kullanabilir.
+
+(2) Bireysel kullanım hakkı kapsamında kendisine frekans tahsis edilen
+haberleşme sağlayıcısı, frekansın kullanılacağı telsiz sistemlerinin kurulumu
+ve işletilmesi amacıyla Kurum’dan ayrıca izin alır.
+
+19. (1) Bireysel kullanım hakkı kapsamında kendilerine numara tahsis edilen
+haberleşme sağlayıcılar, tahsis edilen numaraları sadece bu Tüzük ve genel
+yetkilendirme kapsamları ile sınırlı olarak kullanabilirler.
+
+(2) Bireysel kullanım hakkı kapsamında kendisine numara tahsis edilen
+haberleşme sağlayıcıların tahsis edilen numara üzerindeki hakları, mülkiyet
+hakkı olmayıp kullanım hakkıdır.
+
+[SAYFA 16]
+Genel
+Yetkilendirmeye
+İlişkin
+Yükümlülükler
+
+766
+
+(3) Haberleşme sağlayıcısının ikincil tabsis yapma hakkı olan numaralar
+Ulusal Numaralandırma Planı'nda ve bireysel kullanım hakkı yetki
+Belgesi'nde aynca belirtilir.
+
+(4) Haberleşme sağlayıcısı, kendisine tahsisli numaraları Kuruma on beş gün
+önceden bildirimde bulunmak şartı ile veya ilgili mevzuatta belirlendiği
+şekilde, başka bir haberleşme sağlayıcıya kullandırabilir. Bu durumda, söz
+konusu numara ile hizmetin kullanıcılara sunumundan kaynaklanan
+sorumluluk numarayı kullanan haberleşme sağlayıcısına ait olmakla birlikte,
+bu durum numarasını kullandıran haberleşme sağlayıcısı, numara tahsisinden
+kaynaklanan yükümlülüklerini ortadan kaldırmaz.
+
+OXA) Sabit telefon hizmetlerinin sunulabilmesi için haberleşme
+sağlayıcıların Ulusal Numaralandırma Planı'na uygun bir şekilde ikincil
+tahsis yapabilecekleri uygun numara tahsislerini gerçekleştirmiş olmaları
+şarttır.
+
+(B) Yetkilendirme süreçlerini tamamlayarak Ulusal Numaralandırma Planı'na
+uygun numara tahsislerini gerçekleştiren haberleşme sağlayıcılar kullanıcılara
+sabit karasal telefon şebekesi üzerinden ve/veya internet üzerinden ilçeler
+arası ve uluslararası telefon hizmetleri de dâhil olmak üzere tüm temel telefon
+hizmetlerini ve sesli veya kısa mesaj, faks, görüntülü telefon ve benzeri tüm
+hizmetleri sunma hakkına sahiptir.
+
+(C) Haberleşme sağlayıcılar bizzat veya acenteleri aracılığı ile faturalı
+ve/veya her türlü ön ödemeli telefon terminallerini kullanarak hizmetlerini
+sunabilirler.
+
+DÖRDÜNCÜ KISIM
+
+Haberleşme Sağlayıcıların Yükümlülükleri ve Ek Koşullar
+
+20. (1) Evrensel hizmet yükümlüğü ve finansmanı: Haberleşme sağlayıcılar,
+Kurum tarafından belirlenen evrensel hizmet kapsamında, Kurum tarafından
+evrensel hizmet sağlayıcısı olarak belirlenmeleri durumunda Kurum
+tarafından belirlenen evrensel hizmet yükümlülüklerini yerine getirirler.
+Kurum tarafından evrensel hizmet maliyetlerinin paylaştırılmasına karar
+verilmesi durumunda haberleşme sağlayıcılar Kurum tarafından belirlenen
+kurallar çerçevesinde Kurum tarafından kendilerine bildirilen net maliyetleri
+Kurum'a öderler.
+
+(2) Ücretler: (A) Haberleşme sağlayıcıların ödeyecekleri ücretler, Yasa'ya
+ekli 8'inci Cetvelde belirtilen bireysel kullanım hakkı tahsislerinde ödenen
+tahsis ve kullanım ücreti ile Yasa'ya ekli 7'nci Cetvelde belirtilen telsiz
+kurulum ve kullanımında ödenen kurulum ve kullanım ücretinden oluşur.
+
+(B) Genel yetkilendirme kapsamındaki haberleşme sağlayıcılar ayrıca her yıl,
+Yasa ve bu Tüzük ile belirlenen koşullar uyarınca ilgili yıla ait Kurum idari
+ücretini öderler.
+
+(O) Kurum Yasa kapsamında danışmanlık hizmeti sunduğu kişilerden
+danışmanlık hizmeti karşılığında da ücret tahsil eder.
+
+(3) Hizmetlerin birlikte çalışabilirliği ve şebekelerin ara bağlantısı:
+
+(A) Haberleşme sağlayıcının kullandığı veya sahip olduğu haberleşme
+şebekesi, enterferansa yol açmayacak ve ilgili uluslararası standartlara
+uygun bir şekilde tasarlanır, kurulur, bakımı yapılır, işletilir ve
+kullanılır.
+
+[SAYFA 17]
+767
+
+(B)Herhangi iki haberleşme sağlayıcı kendi aralarında erişim ve/veya ara
+bağlantı için teknik ve ticari anlaşma yapabilir. Tüm kamusal
+elektronik haberlesme sebeke (sağlayıcıları, herhangi bir
+yetkilendirilmiş haberleşme sağlayıcı tarafindan talep gelmesi
+halinde, ara bağlantı anlaşmaları yapmak için görüşmekle
+yükümlüdürler; Yasa, ilgili mevzuat ve Kurum tarafından belirlenen
+sürelerde anlaşmanın sağlanamaması halinde Yasa, ilgili mevzuat ve
+Kurum tarafından belirlenen kurallar doğrultusunda Kurum erişim
+veya ara bağlantı koşullarını belirleyen nihai kararı üretir.
+
+(C)Bir erişim veya ara bağlantı anlaşmasına girmeden önce veya sonra bir
+başka haberleşme sağlayıcısından bilgi elde eden herhangi bir
+haberleşme sağlayıcı, bu bilgiyi sadece veriliş amacı için kullanmalı
+ve bundan bir rekabet avantajı elde edebilecek olan başka herhangi bir
+gerçek veya tüzel kişiye aktarmamalidir.
+
+(4) Ulusal (Numaralandırma Plamndaki numaraların (kullanıcılara
+erişebilirliği: Haberleşme sağlayıcı, Ulusal Numaralandırma Planı'na uygun
+bir şekilde ve Ulusal Numaralandırma Planı'nda belirtilen koşullar uyarınca
+kullanıcıların numaralara erişilebilirliğini sağlar.
+
+(5) Çevresel ve şehir ve bölge planlama gereksinimleri ile kamu ve özel alan
+kullanımı ve erişim hakkının verilmesine bağlı gereksinimler ve şartlar ile
+ortak yerleşim ve tesis paylaşımı ile bağlantılı şartlar ve varsa çalışma alt
+yapılarının düzgün bir şekilde gerçekleştirilmesi için gerekli tüm mali ve
+teknik garantiler ile ilgili şartlar:
+
+(A) Haberleşme sağlayıcı yetkilendirildiği kapsamda gereken yazılımları,
+cihazları ve diğer altyapıya ilişkin şebekeyi kendisi kurabilir veya
+ilgili mevzuata uygun olarak diğer haberleşme sağlayıcılardan temin
+edebilir. Haberleşme sağlayıcı sistemlerini ve şebekesini gelişen
+teknolojilere göre geliştirmek ve ilgili mevzuat çerçevesinde diğer
+haberleşme sağlayıcılara kullandırmak hakkına sahiptir.
+
+(B)Haberleşme sağlayıcılar, şebeke kurulması ve her türlü altyapının
+oluşturulması ile ilgili olarak aşağıdaki kurallara uyarlar;
+
+(a) Yeraltında kablolama gerektiren durumlarda; kablolama işlemi
+arazinin kullanımını engellemeyecek derinlikte yapılır.
+
+(b) Herhangi bir elektronik haberleşme aracının, sisteminin, şebekesinin,
+cihazının, ekipmanını kurulumu veya kablolama işlemi sırasında
+binaların görselliği üzerindeki etkiler, kurulum ile ilgili işler sırasında
+sebep olunabilecek veya kurulumdan sonra aracın kendisinin sebep
+olabileceği potansiyel tehlikeler ve enterferans azami ölçüde azaltılır.
+
+(c) Herhangi bir sokağın üstüne, yukarısına, altına, çaprazına veya sokak
+boyunca yerleştirilen veya kurulan bir kamusal elektronik haberleşme
+şebekesi tesisatı, sokak boyunca geçişe engel, kesinti ve/veya
+müdahale teşkil etmeyecek biçimde yerleştirilecek veya kurulacaktır.
+
+(6) Elektronik haberleşme sektörüne özgü kişisel veri ve özel hayatı koruma:
+Haberleşme sağlayıcılar, kişisel veriler ve özel hayatın korunması ile ilgili
+olarak; Yasa, Kurura ve Kişisel Verileri Koruma Kurulu tarafından belirlenen
+
+[SAYFA 18]
+768
+
+kurallar, Kişisel Verilerin Korunması Yasası ve diğer ilgili mevzuat ile
+belirlenen yükümlülüklere uyarlar.
+
+(7) Elektronik haberleşme sektörüne özgü tüketici koruma kuralları:
+Haberleşme sağlayıcılar, tüketicinin korunması ile ilgili olarak; Yasa ve bu
+Yasa'ya bağlı olarak hazırlanan Tüzükler ve Kurum tarafından belirlenen
+kurallara uyarlar.
+
+(8) Yasadışı içeriğin veya zararlı içeriğin iletilmesi konusunda kısıtlamalar:
+
+(A) Haberleşme sağlayıcılar, yasadışı içeriğin iletilmesinin engellenmesi
+ve söz konusu içeriklerin yayılması ve erişilmesinin suç oluşturması
+durumlarında gerekli yasal prosedürlerin uygulanabilmesi amacıyla
+bu Tüzüğün yürürlüğe girdiği tarihten başlayarak altı ay içerisinde,
+ilgili diğer mevzuat ile belirlenen yükümlülükler dışında; abonenin
+kimlik bilgileri, adresi, telefon numarası veya mevzuat ile belirlenen
+koşullar doğrultusunda aboneliğin başlangıcı sırasında alınan bilgileri;
+sisteme bağlantı tarih ve saat bilgisi, sistemden çıkış tarih ve saat
+bilgisi, varsa ilgili bağlantı için verilen IP adresi ve bağlantı noktaları
+bilgilerini altı aydan az ve iki yıldan fazla olmayacak şekilde Kurul
+tarafından belirlenen süre kadar muhafaza etmekle yükümlüdür.
+
+(B) Haberleşme sağlayıcılar, yasadışı içeriğin iletilmesinin engellenmesi
+amacıyla, kullanıcılarına erişim sağladıkları yasadışı içeriklere
+erişimin engellenmesi için gerekli tedbirleri alırlar.
+
+(9) Haberleşme sağlayıcılarının genel yetkilendirme kapsamında bildirimde
+bulunurken vereceği bilgiler: Elektronik haberleşme hizmeti ve/veya
+şebekesinin detayları, teknik özellikleri, hizmet veya şebekenin sağlanacağı
+veya kurulacağı coğrafi bölgeye ilişkin bilgi ve belgeler gönderirler. Bu bilgi
+ve belgeler ile birlikte haberleşme sağlayıcının unvanı, şirket tescil belgeleri,
+ikametgah adresi varsa merkez ve şubelerinin adreslerine ilişkin bilgileri,
+Kurum huzurunda idare ve temsile yetkili kişilerin yer aldığı imza örnekleri
+Kuruma gönderilir.
+
+(10) Olağanüstü durumlarda, acil yardım servisleri ve yetkili makamlar
+arasında haberleşmeyi ve halka yönelik yayınları sağlamak için kullanım
+şartları aşağıda belirtilenlerdir:
+
+(A) Haberleşme sağlayıcılar, kamusal elektronik haberleşme hizmetleri
+ve/veya şebekeleri arasındaki zararlı elektromanyetik girişimin
+önlenmesi, afet hallerinde, acil yardım çağrı hizmet numaralarına
+kesintisiz olarak ulaşılabilmesi dâhil elektronik haberleşme
+şebekelerinin bütünlüğünün devam ettirilmesi için gerekli önlemleri
+almakla yükümlüdür.
+
+(B) Haberleşme sağlayıcısı, yetkilendirildiği kapsamda sunduğu elektronik
+haberleşme hizmetini ve/veya kurduğu şebeke ve altyapısının
+işletimini durdurmadan veya hizmeti sunmakla yükümlü olduğu
+yetkilendirme (Oo alanından geri ¢ekmeden önce abonelik
+sözleşmelerindeki yükümlülüklerini ifa ettiğini Kuruma belgeleriyle
+bildirir. Haberleşme sağlayıcısı, hizmetin kesintisiz olarak sunulması
+için gereken tedbirleri almakla yükümlüdür.
+
+(1) Elektronik haberleşmenin sebep olduğu elektromanyetik alanlara
+toplumun maruz kalmasının sınırlanmasıyla ilgili tedbirler:
+
+[SAYFA 19]
+769
+
+(A) Haberleşme sağlayıcısı, ICNIRP veya halefi kurumlar tarafından
+yayımlanan iyonlaştırıcı olmayan radyasyon emisyonu standartları ve
+IEC’nin radyasyon emisyonu standartları doğrultusunda Kurum
+tarafından belirlenen değerlere uymakla yükümlüdür.
+
+(B)Haberleşme sağlayıcı, kendisi tarafından işletilen şebekelerden ve bu
+kapsamdaki cihazlardan kaynaklanan iyonlaştırıcı olmayan radyasyon
+emisyonlarının ICNIRP tarafından belirtilen sınır değerlerini
+aşmayacak şekilde Kurum tarafından belirlenen değerler içerisinde
+kalmasını sağlayacak ve bu değerleri aşmayacak şekilde kurulmasını
+ve işletilmesini sağlayacaktır.
+
+(12) Elektromanyetik uyumlulukla ilgili yürürlükteki mevzuat uyarınca
+elektronik haberleşme şebekeleri ve/veya hizmetleri arasında enterferansı
+önleme koşulları dahil, kamusal haberleşme şebekelerinin bütünlüğünün
+sürdürülmesi: Haberleşme sağlayıcılar elektronik haberleşme şebekesi ile
+bunun parçalarının ilgili mevzuata uygun şekilde kullanımı veya işletimi ile
+zararlı bir enterferansa sebep olacak şekilde tasarlanmamasını, inşa
+edilmemesini, kurulmamasim, kullanılmamasını ve işletilmemesini
+sağlamakla yükümlüdür.
+
+(13) Yetkilendirilmemiş erişime karşı kamusal şebekelerin güvenliği:
+
+(A) Haberleşme sağlayıcılar, haberleşme gizliliği ve güvenliği ile şebeke
+güvenliğinin sağlanması ve korunması için, her türlü tedbiri almakla,
+altyapı ve sistemlerinde teknolojik uyumu sağlamakla, elektronik
+haberleşmeye ilişkin bilgi, belge ve verilerin gerek korunmasında,
+gerekse iletilmesinde gizlilik hükümlerine uymak ve Yasayla
+yetkilendirilmiş merciler dışında başkasının bu bilgileri elde etmesini
+önlemekle yükümlüdür.
+
+(B)Haberleşme sağlayıcı, vereceği elektronik haberleşme hizmetinde
+ve/veya kuracağı veya işleteceği haberleşme şebekesinde kullanılacak
+cihazlara, yetkisiz kişilerin erişimini ve o bozucuw/değiştirici
+müdahalelerin önlemek amacıyla gerekli tedbirleri almakla
+yükümlüdür.
+
+(O)Haberleşme sağlayıcı, yetkilendirme kapsamındaki faaliyetlerini
+sürdürürken; fiziksel alan güvenliği, veri güvenliği, donanım-yazılım.
+güvenliği ve güvenilirliği ile personel güvenilirliğinin sağlanması için
+tehditlerden ve/veya zafiyetlerden kaynaklanan risklerin bertaraf
+edilmesi veya azaltılmasına ilişkin olarak gerekli tedbirleri alır.
+
+(Ç)Haberleşme sağlayıcı, TS ISO/IEC 20000 standardına uygunluğu
+sağlamakla ve belgelendirmekle yükümlüdür. Haberleşme sağlayıcılar
+bu Tüzüğün yürürlük tarihinden itibaren onsekiz ay içerisinde,
+faaliyetlerine yeni başlayan haberleşme sağlayıcılar ise yetkilendirme
+tarihinden itibaren on sekiz ay içerisinde söz konusu standartlara
+uygunluğu sağlarlar ve belgelendirirler. Belirtilen süre içerisinde söz
+konusu standarda uygunluğu sağlayamayan ve/veya bu maddede
+belirtilen hallerde belgelendiremeyen haberleşme sağlayıcılara Kurul
+tarafından gerekli görülmesi halinde altı aydan fazla olmamak koşulu
+ile bir kereliğine ilave süre verilebilir.
+
+[SAYFA 20]
+770
+
+(D) Haberleşme sağlayıcıları, elektronik haberleşme sistemleri üzerinden
+ulusal güvenlikle ilgili mevzuat ve yürürlükteki ilgili diğer mevzuat
+uyarınca getirilen düzenlemelerle ilgili taleplerin karşılanmasına
+yönelik teknik alt yapıyı, elektronik haberleşme sistemini hizmete
+sunmadan önce kurmakla yükümlüdür.
+
+(14) Bireysel kullanım hakları verilmesi kurallarına tabi olmasa bile telsiz
+frekanslarının kullanımı için şartlar. Haberleşme sağlayıcının Kurum
+tarafından belirlenen bireysel kullanım hakkına tabi olmayan frekanslar için
+ayrıca hak tahsisinde bulunmasına gerek bulunmamaktadır. Bireysel hak
+tahsisine ihtiyaç duyulmayan frekanslarda kullanılacak telsiz cihazları için de
+mevzuatla belirlenen sınırlara uyulmak ve Kurum tarafından belirlenecek
+bildirim formu ile Kuruma bildirimde bulunmak şartıyla ayrıca telsiz
+kurulum ve kullanım izni alınmaz. Haberleşme sağlayıcı bireysel kullanım
+hakkına tabi olmayan frekans kullanımında Kurum tarafından belirlenen
+kurallara uyarak, herhangi bir enterferansa sebebiyet vermeden ve Ulusal
+Frekans Planı doğrultusunda frekans kullanımını gerçekleştirir.
+
+(15) Standartlar ve/veya özelliklere uyumu temin etmeye yönelik tedbirler.
+
+(A) Haberleşme sağlayıcısı, öncelikle ITU, ISO, IEC, ICNIRP tarafından
+kabul edilen standartları, spesifikasyonları veya tavsiyeleri ve bunlar
+doğrultusunda Kurum tarafından yayımlanacak koşullara uyum
+sağlayacaktır.
+
+(B)Haberleşme sağlayıcısı, ilgili teknik düzenlemelere uygun olaa
+terminal cihazlarını kendi sistemine bağlamak veya bağlanmasına izin
+vermekle yükümlüdür.
+
+(16) Hizmet kalitesi:
+
+(A)(a) Kurul, kamusal haberleşme sağlayıcılara yönelik olarak hizmet
+kalitesi ölçütlerini ve hizmet seviyelerini Kurum internet sitesinden
+yayımlar.
+
+(b) Kamusal haberleşme sağlayıcılar, yetkilendirme kapsamında bu
+Tüzüğe ekli Birinci Cetvel'de belirtilen ve Kurum tarafından
+belirlenen hizmet kalitesine ilişkin ölçütlere ve hizmet seviyelerine
+uymakla, ilgili verileri Kuruma göndermekle ve hizmetin kesintisiz
+olarak sunulması için gereken özeni göstermekle yükümlüdür.
+
+(c) Haberleşme sağlayıcılar bu Tüzüğe ekli Birinci Cetvel'de
+belirtilen standartların yürürlüğe giren en son sürümlerini
+uygulamakla yükümlüdür.
+
+(c) Kurum Birinci Cetvel’de yer alan hizmet kalitesine ilişkin
+ölçütlerin ne şekilde hesaplanacağına ve bildirileceğine dair Tebliğler
+yayımlayabilir.
+
+(B)(a) Kurum haberleşme sağlayıcılardan yayımladığı hizmet seviyeleri
+doğrultusunda, hizmet seviyeleri taahhütlerinde değişiklik, iyileştirme
+ve düzeltme yapmasını talep edebilir.
+
+(b) Haberleşme sağlayıcısı, söz konusu değişiklik, iyileştirme ve
+düzeltmeleri altmış günden az olmamak üzere Kurum tarafından
+belirtilen sürede yerine getirmekle yükümlüdür.
+
+(CXa) Haberleşme sağlayıcılar sundukları elekironik haberleşme
+hizmetleri kapsamında Kurum tarafından belirlenen hizmet kalitesi
+
+[SAYFA 21]
+77\
+
+ölçütlerine ilişkin ölçümleri içeren ve aylık olarak verilmiş şekilde
+geriye dönük üç aylık bilgileri içeren raporları her yıl Ocak, Nisan,
+Temmuz ve Ekim ayının sonuna kadar Kuruma göndermekle
+yükümlüdür. ;
+
+(b) Kurum konuyla ilgili gerekli gördüğü her türlü bilgi ve belgeyi
+talep edebilir.
+
+(c) Haberleşme sağlayıcılar raporları Kuruma gönderirken müteakip
+iki raporlama dönemi arasındaki verilere ilişkin farklılıkları
+gerekçeleri ile birlikte Kuruma sunar.
+
+(Ç) Haberleşme sağlayıcılar hizmet kalitesi ölçütlerine ilişkin bütün veri
+ve ilgili kayıtları raporlama tarihlerinden itibaren en az iki yıl süreyle
+saklamakla yükümlüdür.
+
+(BD) Kurum, haberleşme sağlayıcılar tarafından gönderilen hizmet kalitesi
+ölçütlerine (o ilişkin (o bilgileri (o Kurumun rinternet (e sitesinden
+yayımlayabileceği gibi, (haberleşme sağlayıcılara (o yayımlama
+yükümlülüğü de getirebilir. A,
+
+(E)(a) Hizmet kalitesi kriterlerine uyum sağlanması kapsamında
+abonelerin şikayet, arıza ve hizmet taleplerini bildirebilmeleri
+amacıyla, herkesçe kullanılabilir telefon hizmeti sağlayan kamusal
+haberleşme sağlayıcılar 7 (Yedi) gün 24 (Yirmidört) saat, diğer
+kamusal haberleşme sağlayıcılar 7 (Yedi) gün 16 (Onaltı) saat (08:00
+— 24:00) erişilebilir ve Kuzey Kıbrıs Türk Cumhuriyeti sınırları
+içerisinde kurulmuş ve işletilen bir çağrı merkezi aracılığı ile çağrı
+merkezi hizmetini bu Tüzüğün yürürlülüğe girdiği tarihten başlayarak
+üç ay içerisinde abonelerine sunmak zorundadırlar.
+
+(b) Haberleşme sağlayıcılar çağrı merkezi hizmetini bu Tüzük ile
+belirlenen koşullara uyulmak şartı ile üçüncü bir kişiden dışkaynak
+hizmeti olarak temin edebilirler.
+
+(c) Haberleşme sağlayıcılar çağrı merkezi ana mentistinde, hizmet
+talep eden kullanıcının doğrudan çağrı merkezindeki gerçek kişiye
+bağlanabilmesi için gerekli imkanı sağlarlar.
+
+Frekans Tahsisi 21. (1) Frekans kullanım hakları verilmiş olan şebeke veya teknoloji tipi veya
+İçeren Bireysel hizmetin belirlenmesi: Haberleşme sağlayıcılar kendilerine tahsis edilen
+Kullanım Haklı ile frekansları, ayrıca belirtilmesi halinde; Ulusal Frekans Planı'nda veya Kurum
+İlgili tarafından belirlenen doğrultuda, belirtilen şebeke veya teknoloji tipi veya
+Yükümlülükler hizmet ile sınırlı olarak kullanmakla yükümlüdürler.
+
+(2) Frekanslarn etkih ve vetimli kullanımı: Haberleşme sağlayıcılar
+kendilerine tahsis edilen frekansları, herhangi bir enterferansa sebebiyet
+vermeden, Frekans Planı, Kurum düzenlemeleri ve politikaları doğrultusunda
+kullanmakla yükümlüdürler.
+
+(3) Enterferansın önlenmesi ve toplumun elektromanyetik alanlara maruz
+kalmasının sınırlanması için gereken teknik ve operasyonel şartlar:
+Haberleşme sağlayıcılar, kendilerine tahsis edilen frekansları, bu Tüzük ile
+belirlenen kurallar uyarınca ve Kurum'un telsiz kurulumu ve kullanımı ile
+ilgili düzenlemeleriyle uyumalu bir biçimde kullanmakla yükümlüdürler.
+
+(4) Ulusal frekans planında olabilecek değişiklere uyum için azami Süre:
+Haberleşme (sağlayıcılar, Ulusal Frekans Planı'nda gerçekleştirilecek
+
+[SAYFA 22]
+Numara Tahsisi
+İçeren Bireysel
+Kullanım Hakkı ile
+İlgili
+
+Yükümlülükler
+
+772
+
+—
+
+değişiklikler uyarınca kendi şebeke, hizmet ve sistemlerinde, kullanıcıların en
+az derecede etkilenmelerini sağlayacak şekilde en fazla on iki ay içerisinde,
+gerekli değişiklikleri yapmakla yükümlüdürler.
+
+(5) Tahsis edilen frekans kullanımına ilişkin bireysel hakların devri:
+Haberleşme sağlayıcılar kendilerine tahsis edilen frekansların üçüncü kişiye
+devrine ilişkin işlemlerde Yasa ve bu Tüzük kurallarına uyarlar, kullanıcıların
+söz konusu hak devri sebebiyle en az derecede etkilenmeleri için gerekli
+önlemleri alırlar. i
+
+(6) Kullanım ücretleri: Haberleşme sağlayıcılara frekans tahsis edilmesi ve
+tahsis edilen frekansın kullanımı için, haberleşme sağlayıcılar Yasa ve bu
+Tüzük ile belirlenen kurallar uyarınca frekans tahsis ve kullanım ücretlerini
+öderler.
+
+(7) Frekans kullanımıyla ilgili uluslararası anlaşmalar kapsamındaki
+yükümlülükler: Haberleşme sağlayıcılar, Yasa ve bu Tüzükte belirtilen ilgili
+uluslararası kuruluşların düzenlemelerine ve gerçekleştirilecek ilgili
+uluslararası anlaşmaların kurallarına uyum sağlamak için Kurum tarafından
+belirlenecek sürelerde şebeke ve hizmetlerinde gerekli değişiklik ve
+uyumlaştırma çalışmalarını gerçekleştirirler.
+
+22. (1) Numaranın kullanılacağı hizmetin belirlenmesi:
+
+(A) Kurum Ulusal Numaralandırma Planı'nda veya numara tahsisi ile ilgili
+belirleyeceği ek kurallarla, tahsis edilecek numaralar üzerinden sunulabilecek
+hizmetleri ve içerikleri kısıtlayabilir veya belirlenen hizmet ve içeriklerin
+belirlenen numara blokları üzerinden sunulmasına karar verebilir.
+
+(B) Kurum hizmet ve içeriklerin belirlenmesi kapsamında sınıflandırmayı,
+içerik ve/veya ücretlendirme bazında gerçekleştirebilir.
+
+(©) Haberleşme sağlayıcılar kendilerine tahsis edilen numaraları, belirlenen
+kapsam ve sımrlandınmalar dahilinde kullanmak, ikincil tahsisini
+gerçekleştirmek, hizmetleri sunmak veya sunulmasını sağlamak ile
+yükümlüdür.
+
+(2) Yasa kuralları uyarınca numaraların etkili ve verimli kullanımı:
+
+(A) Haberleşme sağlayıcılar kendilerine tahsis edilen numaraları, Ulusal
+Numaralandırma Planı'nda bulunan numaralarla karışıklığa neden olmayacak
+şekilde, Kurum düzenlemeleri ve politikaları doğrultusunda kullanmakla
+yükümlüdürler.
+
+(B) Haberleşme sağlayıcılar, bir numaraya yönelik olarak başlatılan
+çağrıların, çağrı yönlendirme ve benzeri durumlar hariç, bu numarada
+sonlanması için gerekli önlemleri alırlar.
+
+(3) Numara taşınabilirliği gerekleri: Numara tahsisi gerçekleştirilen
+haberleşme sağlayıcılar, Yasa ve Kurum düzenlemeleri ile belirlenen numara
+taşınabilirliğine ilişkin yükümlülüklere uymak zorundadırlar.
+
+(4) Kamuya açık rehber abone bilgileri sağlama yükümlülüğü: Kendilerine
+numara tahsis edilen haberleşme sağlayıcılar; Yasa, bu Tüzük ve evrensel
+erişim kapsamında Kurum tarafından belirlenen rehber bilgilerinin
+oluşturulmasına ilişkin yükümlülüklere uymak zorundadırlar.
+
+(5) Ulusal Numaralandırma Planı'nda olabilecek değişikliklerle ilgili azami
+süre: (Haberleşme (sağlayıcılar, Ulusal Numaralandırma Planı'nda
+gerçekleştirilecek değişiklikler doğrultusunda kendi şebeke ve hizmetlerinde
+
+[SAYFA 23]
+Kamusal Telefon
+Şebekelerine
+Yönelik
+Yükümlülükler
+
+773
+
+kullanıcıların en az derecede etkilenmelerini sağlayacak şekilde en fazla on
+iki ay içerisinde, gerekli değişiklikleri yapmakla yükümlüdürler.
+
+(6) Hakların devri ve hakların devrine ait şartlar: Haberleşme sağlayıcılar
+kendilerine tahsis edilen numaraların üçüncü kişiye devrine ilişkin işlemlerde
+Yasa ve bu Tüzük kurallarına uyarlar, kullanıcıların söz konusu hak devri
+sebebiyle en az derecede etkilenmeleri için gerekli önlemleri alırlar,
+
+(7) Kullanım ücretleri: Haberleşme sağlayıcılara numara tahsis edilmesi ve
+tahsis edilen numaranın kullanımı için, haberleşme sağlayıcılar Yasa ve bu
+Tüzük ile belirlenen kurallar uyarınca numara tahsis ve kullanım ücretlerini
+öderler.
+
+(8) Numara kullanımıyla ilgili uluslararası anlaşmalar kapsamındaki
+yükümlülükler: Haberleşme sağlayıcılar, Yasa ve bu Tüzük'te belirtilen ilgili
+uluslararası o kuruluşların düzenlemelerine ve gerçekleştirilecek ilgili
+uluslararası anlaşmaların kurallarına uyum sağlamak için Kurum tarafından
+belirlenecek sürelerde şebeke ve hizmetlerinde gerekli değişiklik ve
+uyumlaştırma çalışmalarını gerçekleştirirler.
+
+23. (1) Kamusal telefon şebekesi kuran ve işleten haberleşme sağlayıcılar ile
+herkesçe erişilebilir telefon hizmetlerini sunan haberleşme sağlayıcılar teknik
+fizibilitesi ve ekonomik karlılığı olmak şartıyla bu maddede belirtilen
+yükümlülükleri yerine getirmek zorundadırlar..
+
+(2) Dökümlü ve/veya Ayrıntılı Fatura: Haberleşme sağlayıcılar ilgili mevzuat
+ve Yasa uyarınca Kurum tarafından belirlenecek kurallar dahilinde, kişisel
+verilerin ve özel hayatın korunmasıyla ilgili yürürlükteki diğer mevzuatın
+gereklerine tabi olarak abonelerine yazılı veya abonenin aksi yönde talebi
+bulunmaması halinde elektronik ortamda ek bir ücret talep etmeden fatura
+göndermekle yükümlüdürler. Teknik olarak uygun olması halinde, makul
+tarifeler üzerinden veya bedelsiz olarak abonelere ilave seviyelerde ayrıntılı
+fatura sunulabilir. Yardım hatlarına yapılan çağrılar dahil, arayan abone için
+ücretsiz olan aramalar arayan abonenin dökümlü veya ayrıntılı faturasında
+yer almaz. Haberleşme sağlayıcılar diğer haberleşme sağlayıcılarla tüketiciye
+ek yük getirmeyecek şekilde faturalama hizmeti sağlama hususunda anlaşma
+yapabilir.
+
+(3) Giden aramalarda ücretsiz özel arama sınırlaması: Haberleşme
+sağlayıcılar abonenin talep etmesi halinde, Ulusal Numaralandırma Planı'nın
+yayımlanmasından itibaren en fazla bir ay içerisinde, Ulusal Numaralandırma
+Plani'nda belirtilen ve farklı ticretlendirmeye veya belirli hizmetlere veya
+içeriklere özgülenmiş numaralara yönelik yapılan çağrıları bedelsiz olarak
+engellerler.
+
+(4) Peşin ödemeli sistemler: Haberleşme sağlayıcılar, kamusal telefon
+şebekesine erişim ve herkesçe kullanılabilir telefon hizmetlerinin kullanımı
+için ön ödemeli ödeme araçlarını kullanıcılarına sunarlar. Ön ödemeli
+araçların fiziksel olarak sunulması durumunda fiziksel mecranın üzerinden
+haberleşme sağlayıcının ticari ünvanı, müşteri hizmetleri numarası, İnternet
+adresi, kartın geçerli son kullanma tarihi, TL-Kr (Türk Lirası-Kuruş) veya
+kontör tutarı, kartın kullanım talimatı ile seri numarası bilgilerinin açık ve
+anlaşılır biçimde belirtilmesi zorunludur. Ön ödemeli aracın elektironik
+ortamdan sunulması halinde, elektronik ortamda satış öncesinde bu bilgiler
+kullanıcıya verilir. POS cihazı aracılığı ile gerçekleştirilen ön ödemeli
+
+[SAYFA 24]
+774
+
+satışlarda ise bu bilgilerin yer aldığı çıktı satış sonrasında kullanıcıya verilir.
+
+(5) Faturalarm ödenmemesi: Haberleşme sağlayıcılar abonelerinin herkesçe
+kullamlabilir telefon hizmetlerine yönelik faturalarını Oödememeleri
+durumunda, çağrı başlatma hizmetinin kesilmesinden en az iki gün öncesine
+kadar hizmetin sonlandinlacagina ilişkin beyanı, alınan elektronik
+haberleşme hizmeti üzerinden aboneye bildirmekle yükümlüdür. Yapılacak
+bildirimde, ödenmeyen faturalara ilişkin olarak, dönem, bedel ve hizmet
+kesintisinin ne zaman başlayacağı ile ilgili gerekli bilgiler verilir. Haberleşme
+sağlayıcısı sahtecilik, ısrarlı geç ödeme veya hiç ödeme yapmama durumları
+hariç, teknik bakımdan mümkün olduğu kadar, herhangi bir hizmet
+kesintisinin yalnızca ilgili hizmetle sınırlı olmasını sağlar. Haberleşme
+sağlayıcısı çağrı başlatma hizmet kesintisinin başlama tarihinden itibaren en
+az bir ay boyunca, abonenin hizmeti kesilen hat üzerinden acil aramalara
+yönelik çağrı başlatmasına izin verir ve çağrı sonlandırma hizmetlerini
+sunmaya devam eder.
+
+(6) Tonlu arama (tone dialling) veya DTMF: Kamusal telefon şebekelerinin,
+bem ülke hem de teknik bakımdan mümkün olduğu ölçüde dünya genelinde,
+şebekenin her yerinde uçtan uca işaret verme (signalling) için DTMF
+tonlarını kullanması sağlanır.
+
+(7) Arayan hattın tanımlanması: Haberleşme sağlayıcılar arayan hattın
+tanımlanmasına ilişkin olarak bu Tüzüğün yürürlülüğe girdiği tarihten
+başlayarak üç ay içerisinde aşağıdaki koşulları sağlarlar;
+
+(A)Haberleşme sağlayıcılar, teknik bakımdan mümkün olduğu kadar,
+arayan hattı tanımlama ve tonlu arama olanaklarının uluslararası
+düzeyde sunulmasını kolaylaştırmak için veriler ve sinyaller
+sağlamalıdır.
+
+(B)Haberleşme sağlayıcı herkesçe kullanılabilir telefon hizmetlerinde
+çağrı başlatma hizmeti verdiği abonelerine numara tahsis etmekle
+yükümlüdür. Haberleşme (sağlayıcısının obaşlattığı (çağrılarda,
+abonesine tahsis ettiği numaranın CLI olarak kullanılması esastır.
+
+(C)Haberlesme sağlayıcı abonelerine numara tahsis etmekle birlikte,
+konuya ilişkin gerekli tüm hukuki ve teknik tedbirleri almak kaydıyla
+ve abonenin aboneliğini ispatlayıcı fatura vb. ilgili belgelerin veya
+abonenin yazılı beyanının ibrazı üzerine, aboneye bir başka
+haberleşme sağlayıcı tarafından tahsis edilmiş olan ve abonenin
+çağrıyı başlattığı adreste kullanmakta olduğu coğrafi numarayı veya
+bilgi ve danışma numarasını CLI olarak kullanabilir.
+
+(Ç) Haberleşme sağlayıcı arama yapan kullanıcıya, acil çağrı aramaları
+dışında, basit bir yöntemle ve ücretsiz olarak, arama yapılırken CLI
+özelliğini iptal edebilme olanağı sunulur. Arayan abone her arama
+hattı için bu olanağa sahip olacaktır.
+
+(D) Haberleşme sağlayıcı, CLI özelliği kapsamında aranan aboneye, basit
+bir yöntemle ve ücretsiz olarak, gelen aramaların CLI özelliğini
+engelleyebilme olanağını sunar.
+
+(E)Haberleşme sağlayıcısı CLI özelliği kapsamında ve aramanın
+kurulmasından önce arayan hat tanımlaması görüldüğünde, aranan
+
+[SAYFA 25]
+775
+
+aboneye, arayan hat tanımlamasının arayan kullanıcı veya abone
+larafından iptal edilmesi durumunda, basit bir yöntemle, gelen
+aramaları reddetme olanağı sunulur.
+
+(P) Haberleşme sağlayıcısı CLI özelliği kapsamında, aranan aboneye,
+basit bir yöntemle ve ücretsiz olarak, bağlantılı hattı tanımlama
+olanağının arayan kullanıcıya sunulmasını iptal etme olanağını sunar.
+
+(G) Teknik olarak mümkün olması halinde, uluslararası aramalarda da
+yukarıdaki (Ç), (D), (E) ve (F) fıkralarındaki kurallar uygulanır.
+
+(RM) Haberleşme sağlayıcılar, CLI özelliğinin engellenmesini aşağıda
+belirtilen kurallar uyarınca kaldırabilir:
+
+(a) Kötü niyetli veya rahatsız edici aramaların kaynağının belirlenmesini
+talep eden bir abonenin Polis Genel Müdürlüğünün ilgili şubesine
+başvurusu üzerine arayan abonenin kimlik tanımlaması haberleşme
+sağlayıcısı tarafından Polis Genel Müdürlüğü'nün belirleyeceği
+şekilde geçici olarak depolanır ve talep edilmesi halinde Polis Genel
+Müdürlüğünün ilgili şubesine verilir.
+
+©) CLI bilgileri, acil durum aramalarıyla yasal olarak ilgilenen Polis
+Genel Müdürlüğü, ambulans hizmetleri ve itfaiye hizmetleri gibi ilgili
+resmi kurumlara acil aramaları yanıtlamak amacıyla verilir.
+
+() Haberleşme sağlayıcılar, CLI özelliği ile ilgili resmi intemet
+sitelerinde kamuyu bilgilendirmek amacıyla açıklama yapar.
+
+(8) Acil yardım çağrıları: Haberleşme sağlayıcılar acil yardım çağrıları ile
+ilgili olarak bu Tüzüğün yürürlüğe girdiği tarihten başlayarak altı ay
+içerisinde aşağıdaki koşulları sağlarlar;
+
+(A) Haberleşme sağlayıcılar, Kurum tarafından belirlenen ve/veya Ulusal
+Numaralandırma Planı'nda yer alan ve ulusal ve uluslararası
+düzenlemelerde kabul görmüş yangın, sağlık, doğal afetler ve
+güvenlik gibi acil durumlarla ilgili olarak itfaiye, polis, jandarma,
+sağlık ve benzeri kuruluşlara ayrılmış acil yardım çağrı hizmetleri
+numaralarına, kullanıcılarının ücretsiz erişebilmesini sağlamakla
+yükümlüdür.
+
+(B) Haberleşme sağlayıcılar aşağıda belirtilen durum ve kapsamda,
+kullanıcılarının adres veya konum verisini, çağrı yapıldığı sırada veya
+Kurum tarafından belirlenecek bilgi paylaşım usulleri doğrultusunda,
+ACM?’ lere ücretsiz olarak sağlamakla ve bu bilgileri bir yıl süre ile
+saklamakla yükümlüdürler.
+
+(a) Coğrafi numaralardan başlatılan çağrılarda, söz konusu coğrafi
+numaraya ilişkin adres verisi,
+
+(6) GMPCS mobil telefon hizmeti dışında, mobil numaralardan başlatılan
+
+çağrılarda söz konusu aramaya ilişkin konum verisi,
+
+(c) Konumdan bağımsız numaralardan başlatılan çağrılarda, söz konusu
+numaranın tahsisli olduğu kullanıcının, acil yardım çağrı hizmetlerine
+erişimde kullanılmak üzere beyan ettiği adres verisi,
+
+(¢) GMPCS mobil telefon hizmeti için tahsisli numaralardan başlatılan
+çağrılarda, söz konusu aramaya ilişkin teknik imkanlar dahilinde
+
+[SAYFA 26]
+Kurum İdari Ücreti
+
+776
+
+. tespit edilebilen konum verisi.
+
+(C)Kurum, haberleşme sağlayıcıların adres veya konum verisi sağlama
+yükümlülükleri kapsamında sağlayacakları konum verisinin coğrafi
+açıdan hassasiyet oranlarını belirleyebilir, haberleşme sağlayıcılar
+Kurum tarafından belirlenen konum verisi hassasiyet oranlarının en
+fazla on iki ay içerisinde uygulanmasını sağlarlar,
+
+(Ç) Taşıyıcı seçimi, taşıyıcı ön seçimi, toptan hat kiralama ve diğer çağrı
+başlatma hizmeti türleri ile hizmet veren haberleşme sağlayıcıların
+kullanıcılarının başlatacakları acil yardım çağrılarında, bu maddede
+belirtilen ücretsiz erişim sağlama ve adres veya konum verisi sağlama
+yükümlülükleri ilgili çağrı başlatma hizmetini sağlayan haberleşme
+sağlayıcı tarafından yerine getirilir.
+
+(9) Haberleşme sağlayıcılar, abonelere, basit bir yöntemle ve ücretsiz olarak,
+üçüncü bir tarafça abonenin terminal donanımına otomatik arama aktarmasını
+durdurma olanağını sağlar.
+
+BEŞİNCİ KISIM
+İdari Ücretler
+
+24. (1) Haberleşme sağlayıcılar, bireysel kullanım hakkı tahsislerinde tahsis
+ve kullanım ücreti, telsiz kurulum ve kullanımına ilişkin olarak ise kurulum
+ve kullanım ücreti öderler. Haberleşme sağlayıcılar ayrıca her yıl, Kurum'un
+Yasa ile belirlenen görevlerini yerine getirmesinde oluşan giderlerinin
+karşılanması için tahsil edilen Kurum idari ücretini öderler. Kurum, her mali
+yıl için Resmi Gazete'de yayımlayacağı bir kararla belirleyeceği bir
+seviyenin altında cirosu olan haberleşme sağlayıcılarını Kurum idari ücreti
+ödemekten muaf tutabilir.
+
+(2) Kurum idari ücreti, haberleşme sağlayıcıların bir önceki yıl elektironik
+haberleşme hizmetlerinden, elektronik haberleşme şebekesi kurma ve işletme
+faaliyetlerinden elde ettiği cirolarının 961 (Yüzde Bir)’ini aşmamak üzere her
+yıl Kurum tarafından belirlenen oranda ödenir. Haberleşme sağlayıcılar, ilgili
+yıla ait Kurum idari ücretini aynı yılın Ocak ayı sonuna kadar Kurum
+tarafından bildirilen Kurum banka hesaplarına peşin olarak yatırmak ve
+banka dekontunu Kurum'a göndermekle yükümlüdürler.
+
+(3) Haberleşme sağlayıcılığı faaliyetlerine yeni başlayan firmaların kurum
+idari ücretlerinin hesaplanması için haberleşme sağlayıcı genel yetkilendirme
+bildirimi ile bilikte bildirimde bulunduğu sene için belirlediği ciro
+öngörüsünü de Kuruma bildirir. Ciro öngörüsü üzerinden mahsuplaşma
+yapılmak üzere Kurum idari ücreti ödenir. Bir sonraki yılın Ocak ayının
+sonunda gerçekleşen ciro ile ciro öngörüsü farkı üzerinden mahsuplaşma
+gerçekleştirilir.
+
+(4) Yetkilendirmesi ve/veya bireysel kullanım hakkı iptal edilen/ve/veya
+devredilen veya herhangi bir şeklinde sonlanan haberleşme sağlayıcılara
+peşin olarak ödemiş oldukları Kurum idari ücreti geri ödenmez.
+
+(5) Haberleşme sağlayıcıları, her yıl 1 Haziran tarihine kadar, önceki mali
+yıla ait yıllık cirolarım Kuruma bildirmek zorundadır. Haberleşme
+sağlayıcısının | Hazirana kadar yıllık cirosunu Kuruma bildirmemesi halinde,
+Kurul, Gelir ve Vergi Dairesi ile işbirliği yapmak suretiyle, haberleşme
+
+[SAYFA 27]
+Elektronik
+Haberleşme
+Şebekelerinin Devri
+
+Bireysel Kullanım
+Haklarının Devri
+
+Yetkilendirmenin
+İptali
+
+777
+
+sağlayıcısının yıllık ciro miktarını re’sen hesaplayabilir.
+
+(6) Kurum idari ücretinin Ocak ayının son gününe kadar ödenmemesi
+halinde, Kurum tarafından ödeme yapmayan haberleşme sağlayıcısının
+elektronik haberleşme şebekesi işletme veya elektronik haberleşme hizmetleri
+sunma hakkı Kurum tarafından askıya alınabilir veya iptal edilebilir. Ancak
+bu ücretlerin öngörülen süre içerisinde yatırılmamasının doğal afet, sağlık,
+iflas ve benzeri mücbir nedenlerden dolayı yerine getirilemediğinin
+belgelenmesi halinde Kurum tarafından en fazla 15 (Onbeş) günlük ek bir
+süre verilir.
+
+ALTINCI KISIM
+Devir ve İptal
+
+25. Haberleşme sağlayıcılar, mevcut hizmetlerinin aksamasına ve
+abonelerinin etkilenmesine izin vermeyecek şekilde, Kuruma gerekli
+bildirimi yaptıktan sonra elektronik haberleşme şebekelerinin tümünü veya
+belirli bir kısmını Yasa ve bu Tüzük kapsamında genel yetkilendirme için
+başvuruda bulunmuş ve haberleşme sağlayıcılar siciline kaydedilmiş başka
+
+. bir haberleşme sağlayıcıya devredebilirler.
+
+26. (1) Haberleşme sağlayıcılar, sayısı sınırlandırılmamış bireysel kullanım
+hakkı kapsamında kendilerine tahsis edilmiş numara ve frekans kaynaklarının
+tümünü veya bir kısmını Yasa ve bu Tüzük kapsamında genel yetkilendirme
+için başvuruda bulunmuş ve haberleşme sağlayıcılar siciline kaydedilmiş
+başka bir haberleşme sağlayıcıya Kurum tarafından izin verilmesi halinde
+devredebilirler.
+
+(2) Kaynakları devralacak olan haberleşme sağlayıcı Kurum tarafından
+belirlenen kullanım hakkı başvuru formunun yanı sıra Kurumca istenecek
+diğer bilgi ve belgelerle birlikte devir izni için Kuruma başvurur.
+
+(3) Kurumun kaynakların devrini uygun bulduğuna yönelik yazılı izin
+vermesi halinde, bu izni müteakip bir ay içerisinde devir alacak haberleşme
+sağlayıcı adına Kurum tarafından bireysel kullamm hakkı yetki belgesi
+düzenlenir. Kurum söz konusu devirlere ilişkin incelemelerinde, ilgili pazar
+koşullarını, rekabet şartlarını, haberleşme sağlayıcının pazar payını ve diğer
+ilgili hususları dikkate alır.
+
+27. (1) Haberleşme sağlayıcı, iptal ettirmek için talepte bulunduğu
+yetkilendirme kapsamında elektronik haberleşme altyapısı işletmediğini,
+hiçbir aboneye sahip olmadığını veya aboneleriyle ilişkisini kestiğini beyan
+ederek yetkilendirmenin iptal edilmesi için faaliyetlerini durduracağı tarihten
+en az üç ay önce Kuruma yazılı talepte bulunur. Üç ay önceden ancak
+Kuruma bildirilmesinin doğal afet, sağlık, iflas ve benzeri mücbir
+nedenlerden dolayı mümkün olmaması halinde, haberleşme sağlayıcısı
+faaliyetini durdurduğunu durdurma tarihinden başlayarak en geç 1 ay
+içerisinde Kuruma bildirmekle yükümlüdür.
+
+©) Kurum tarafından gerekli görülmesi durumunda iptal talebi beyanı ile
+birlikte haberleşme sağlayıcısından ek bilgi ve belge istenebilir ve/veya
+yerinde tespit yapılabilir. Kurum, uygun görmesi halinde söz konusu
+yetkilendirmeyi iptal edebilir.
+
+[SAYFA 28]
+Bireysel Kullanım
+Hakkının Kurum
+Tarafından İptali
+
+Değişiklikler
+
+Ek Koşullar
+
+Mevcut
+Yetkilendirmeler
+
+778
+
+(3) Kurum, Yasa uyarınca idari suç işlemiş bir haberleşme
+
+. sağlayıcısının,Yasa'nın -99’uncu maddesinin Vinci fıkrasının (Ç) bendine
+
+göre, bir elektronik haberleşme şebekesi işletme veya elektronik haberleşme
+hizmetleri sunma hakkının askıya alınmasına veya iptal edilmesine karar
+verebilir. Bu durumda haberleşme sağlayıcı Kurumun abone mağduriyetini
+gidermek için aldığı tedbirlere uymakla yükümlüdür.
+
+28. Kurum, aşağıda belirtilen gerekçeler doğrultusunda, haberleşme
+sağlayıcılara tahsis edilen bireysel kullanım haklarını makul bir süre
+verdikten sonra tadil veya iptal edilebilir:
+
+(1) Uluslararası gereklilikler,
+
+(2) Ulusal güvenlikle bağlantılı sebepler,
+
+(3) Uluslararası kuruluşların düzenlemeleri doğrultusunda spektrum
+verimliliğine ilişkin sebepler,
+
+(4) Kurumun verilen bireysel kullanım hakkının herhangi bir şartının
+kuralının veya sınırlanmasının ihlalini tespit etmesi ve ihlalin Kurum
+tarafından bildirilen makul süre içerisinde giderilmemesi
+
+YEDİNCİ KISIM
+Çeşitli ve Son Kurallar
+
+29. Haberleşme sağlayıcı, genel yetkilendirme bildirimi ve/veya bireysel
+kullanım hakkı başvurusu sırasında Kuruma bildirdiği veya teslim ettiği bilgi
+veya belgelerde herhangi bir değişiklik olması durumunda, değişikliğin
+yapıldığı tarihten başlayarak en fazla otuz gün içerisinde değişiklikle ilgili
+bilgi ve belgeler Kurum'a gönderilir.
+
+30. (1) Kurum, bireysel kullanım hakkı tahsislerine ilişkin olarak, Ulusal
+Numaralandırma Planı ve Frekans Planı ile birlikte veya ayrıca, genel olarak
+veya ilgili şebeke, hizmet, frekans veya numara bloğuna özel, Yasa ile
+belirlenen kapsamda ek kural ve koşullar belirleyebilir. Söz konusu kural ve
+koşullar, bu Tüzük kapsamındaki formlar, bireysel kullanım hakkı, genel
+yetkilendirme tahsis ve yetki belgeleri ve ilgili diğer metinler Kurul kararı ile
+belirlenir.
+
+(2) Haberleşme sağlayıcısı yetkilendirildiği tarihte öngörülemeyen ancak
+daha sonra ortaya çıkan şartlar çerçevesinde Kurum tarafından belirlenecek
+düzenlemelere uymakla yükümlüdür.
+
+31. (1) Bakanlıkça verilmiş olan GSM sayısal ve hücresel mobil telefon
+sistemi kurulması ve işletilmesi ile ilgili lisanslarm sahipleri olan haberleşme
+sağlayıcılar hariç olmak üzere, Yasa'nın yürürlüğe giriş tarihinden önce
+Bakanlık ile sözleşme akdederek herhangi bir elektronik haberleşme şebekesi
+kurma, işletme veya hizmeti sunma izni almış kişiler Yasa'nın yürürlüğe
+girdiği tarihten baslayarak kendilerine verilen izin kapsamında
+yetkilendirilmiş sayılırlar. Bu şekilde yetkilendirilen haberleşme sağlayıcılar
+ve Telekomünikasyon Dairesi; Kurul kararları, Yasa, bu Tüzük ve ilgili
+mevzuatla belirlenen yükümlülüklere uyarlar.
+
+(2) Bu madde kapsamındaki haberleşme sağlayıcılar Kurum tarafından bu
+Tüzük kapsamında tutulacak sicil bilgilerinin oluşturulması amacıyla bu
+Tüzüğün yürürlüğe girdiği tarihten başlayarak bir ay içerisinde Kurum
+
+[SAYFA 29]
+Mevcut GSM
+Sayısal ve Hücresel
+Mobil Telefon
+Sistemi Kurulması
+ve İşletilmesi İle
+İlgili Lisanslar
+
+Mevcut Haklara
+İlişkin Ücretler
+
+Deneme İzni
+
+779
+
+tarafından yayımlanan bilgilendirme formunu doldurarak Kuruma bildirimde
+bulunurlar.
+
+(3) Yasa'nın yürürlüğe giriş tarihinden önce halen bir yetkilendirme veya
+lisans uyarınca telsiz haberleşme cihazı kullanan veya kendisine frekans
+tahsis edilen herhangi bir gerçek veya tüzel kişi, bu Tüzüğün yürürlüğe
+girdiği tarihten başlayarak bir ay içinde bu kullanımla ilgili bütün detayları
+Kuruma verir ve Yasa kapsamında yeni bir bireysel kullanım kakkı için
+müracaat eder. Kurum, müracaatı inceledikten sonra, ilgili telsiz haberleşme
+cihazı kullanımının yasal olması, tahsis edilen frekansın Ulusal Frekans
+Planına uygun olması ve diğer yasal kullanıcılara enterferans yaratmaması
+şartıyla, daha önce yapılan yetkilendirme süresi ile sınırlı olmak üzere, yeni
+bir bireysel kullanım hakkı verir. Kurum, yeni bir kullanım hakkı vermeyi
+reddetmesi halinde, gerekçelerini başvuru sahibine yazılı olarak bildirmekle
+yükümlüdür.
+
+32. (1) Yasanın yürürlüğe girdiği tarihten önce Bakanlıkça verilmiş olan
+GSM sayısal ve hücresel mobil telefon sistemi kurulması ve işletilmesi ile
+ilgili lisanslarm, Yasaya ve bu Tüzüğe aykırı olmayan kuralları; süre bitimi,
+fesih, iptal veya başka herhangi bir nedenle lisansın sona ermesi gibi mevcut
+şartların geçerlilikleri lisans bitim tarihine kadar aynen devam eder,
+
+(2) Kurum GSM sayısal ve hücresel mobil telefon sistemi kurulması ve
+işletilmesi ile ilgili lisanslarda açıkça bir kural bulunsa dahi çağrı
+sonlandırma ücretlerinde Yasanın ilgili maddeleri uyannca gerekli
+düzenlemeleri yapma hakkına sahiptir.
+
+(3) GSM sayısal ve hücresel mobil telefon sistemi kurulması ve işletilmesi ile
+ilgili lisanslar Yasa ve bu Tüzük kurallarına aykırı olarak yorumlanamaz.
+
+(4) GSM sayısal ve hücresel mobil telefon sistemi kurulması ve işletilmesi ile
+ilgili lisanslar kapsamında tahsis edilen frekans ve numara kaynağının geri
+alınması, değişiklik yapılması ve ek kaynak tahsisi konularında, ilgili ihale
+şartnamesi ve/veya sözleşmesinde belirtilen usul ve esaslar dâhilinde işlem
+yapılır.
+
+33. (1) Yasanın yürürlüğe girdiği tarihten önce bir haberleşme sağlayıcısı,
+yürürlükteki yetkilendirme ile ilgili kurallar çerçevesinde telsiz frekans
+spektrumu verilmesi karşılığında bir ilk ödeme yapmışsa, Kuruma yeni bir
+bireysel kullanım hakkı tahsis edilmesi için, aynı kapsamda yeniden bir ilk
+ödeme yapmakla yükümlü olmaz. Ancak Yasa kuralları uyarınca Kurumun
+giderleri için öngörülecek yıllık idari ücretler, bireysel kullanım haklarının
+yıllık kullanıma haklarına ilişkin ücretler, telsiz kurulum ve kullanım ücretleri
+veya Yasa, bu Tüzük ve ilgili mevzuat kuralları uyarınca alınması öngörülen
+diğer ücret ve harçları ödemekle yükümlüdür.
+
+(2) Bakanlıkça verilmiş olan GSM sayısal ve hücresel mobil telefon sistemi
+kurulması ve işletilmesi ile ilgili lisansların sahipleri olan haberleşme
+sağlayıcılar lisans sözleşmeleri süresince, lisans sözleşmeleri ile kendilerine
+tahsis edilen frekanslar ve numaralar için tekrar tahsis ücreti ve lisans
+sözleşmeleri ile kendilerine tahsis edilen frekanslar için ayrıca yıllık kullanım
+ücreti ödemezler.
+
+34. (1) Kurum'a, yeni teknolojilerin geliştirilmesi, kullanılması ve/veya test
+edilmesi amacıyla, elektronik haberleşme şebekelerinin kurulup işletilmesi ve
+elektronik haberleşme hizmetlerinin sunulması için gerçek ve tüzel kişiler
+Kurum tarafından belirlenen başvuru formu ile deneme izin başvurusunda
+
+[SAYFA 30]
+İdari Yaptırımlar
+
+Yetkilendirme
+Kapsamı
+
+Geçici Madde
+Kamusal Haberleşme
+Sağlayıcıların
+Yükümlülükleri
+
+Geçici Madde
+Ayrı Bir Şirket
+Kurma Zorunluluğu
+
+780
+
+bulunabilir.
+
+(2) Deneme izni Kurum tarafından Bakanlık ile istişare edilerek aşağıdaki
+şartlarla verilir;
+
+(A)Deneme izni verilen elektronik haberleşme hizmeti, deneme izni
+kapsamında sınırlandırılan sayıda test kullanıcısı dışında kişilere
+sunulamaz,
+
+(B) Deneme izni kapsamında gerçekleştirilen faaliyetler ticari olamaz ve
+bu faaliyetlerden gelir elde edilemez,
+
+(3) Deneme izni verildiğinin talepte bulunan kişiye bildirilmesinden
+başlayarak en fazla 120 (Yüzyirmi) gün içinde fiilen testlere başlanılmalıdır.
+Belirtilen süre içinde testlere başlanmaması halinde, .deneme izni
+kendiliğinden iptal olur.
+
+(4) Deneme izni verilen kişiler deneme süresince elde ettikleri bulguları ve
+Kurum tarafından belirlenecek diğer hususları içeren sonuç raporunu, deneme
+izni süresinin sona ermesinden en fazla 60 (Altmış) gün içinde Kurum'a
+gönderirler. Deneme izni talebinde bulunan kişiler deneme izni
+başvurusunda, deneme süresi boyunca ve/veya sonuç raporunun hazırlanması
+sırasında kurum tarafından talep edilen konu ile ilgili her türlü belgeyi
+Kurum'a sunmak zorundadırlar.
+
+(5) Deneme izni talep eden kişiler, Yasa ve ilgili mevzuat ile belirlenen
+ücretleri Kurum'a öderler
+
+35. Haberleşme sağlayıcının faaliyetlerinin veya fiillerinin Yasa, bu Tüzük ve
+ilgili mevzuatla belirlenen kural ve koşullara aykırı olması durumunda,
+haberleşme sağlayıcıya Yasa ve ilgili diğer mevzuat uyarınca idari para
+cezası veya diğer yaptırımlar ile tedbirler uygulanır.
+
+36. Bu Tüzüğe göre yapılacak yetkilendirme, Kurum tarafından tahsis edilen
+frekans ve numara üzerinde haberleşme sağlayıcıya bu Tüzük ile belirlenen
+yetkilendirme kapsamı dışında bir hak doğurmaz.
+
+1. Kamusal haberleşme sağlayıcılar, işbu Tüzüğün 20'nci maddesinin 16'nci
+fıkrası ile belirlenen yükümlülüklerini bu Tüzüğün yürürlülüğe girdiği
+tarihten başlayarak altı ay içerisinde gerçekleştirmekle yükümlüdür.
+
+2. Bu Tüzüğün 6’ ncı maddesinin (3'üncü fikrası uyarınca, elektronik
+haberleşme hizmeti sunma ve/veya elektronik haberleşme şebekesi kurma
+ve/veya işletme faaliyetleri ile bilgi ve iletişim teknolojileri sektörü
+kapsamında mal, hizmet, bakım ve danışmanlık faaliyetleri dışında
+faaliyetlerde de bulunan haberleşme sağlayıcılar, bu Tüzüğün yürürlüğe
+girdiği tarihten itibaren altı ay içerisinde; yalnızca yetkilendirmeye tabi
+faaliyetlerini yürütmek üzere tüzüklerinde yer alan faaliyet alanında sadece
+“elektronik haberleşme hizmeti sunma, elektronik haberleşme şebekesi
+kurma ve işletme, bilgi ve iletişim teknolojileri sektörü kapsamında mal,
+
+hizmet, bakım ve danışmanlık faaliyetlerini sunma” ifadesinin veya
+vermekte oldukları elektronik haberleşme hizmetinin veya kurmakta veya
+işletmekte oldukları elektronik haberleşme şebekesinin türünün bulunduğu
+ayrı bir şirket kurarlar ve mevcut yetkilendirmelerinin yeni kurulacak
+
+[SAYFA 31]
+781
+
+şirkete devredilmesi için bu Tüzüğe uygun olarak gerekli bilgi ve
+belgelerle Kuruma başvururlar veya şirketlerini yalnızca yetkilendirmeye
+tabi faaliyetlerini yürütecek hale getirmek üzere tüzüklerinde yer alan
+faaliyet alanında gerekli değişiklikleri yaparak bu konuda Kurumu
+bilgilendirirler. Bu kurala uymayan haberleşme (sağlayıcıların
+yetkilendirmeleri başka bir işleme gerek kalmaksızın iptal olmuş sayılır.
+
+Geçici Madde 3. Yasanın yürürlüğe girdiği tarihten başlayarak 5 (Beş) yıl süreyle sabit
+Sabit Telefon telefon hizmetlerinde herhangi bir yetkilendirme verilmez. Beş yıldan
+Hizmetlerinde sonra sabit telefon hizmetlerinde bireysel kullanım hakkının verilmeye
+
+Yetkilendirme Yasağı başlanacağı tarih Bakanlar Kurulu tarafından belirlenir,
+
+Usut ve Esaslar 37. Kurum, Bu Tüzük kapsamındaki, haberleşme sağlayıcıların bilgi ve
+iletişim teknolojileri sektörü kapsamında sunabilecekleri hizmetler,
+elektronik haberleşme şebekelerinin bütünlüğünün devam ettirilmesi,
+haberleşme sağlayıcıların bilgi güvenliğinin sağlanması amacıyla alacağı
+tedbirler, hizmet kalitesi kriterlerinin ölçülmesi ve raporlanmasına yönelik
+Yönetmelikler çıkarabilir veya Tebliğler yayımlayabilir.
+
+Yürütme Yetkisi 38. Bu Tüzük elektronik haberleşmeden sorumlu Bakanlık tarafından
+Yürürlüğe Giriş 39. Bu Tüzük, Resmi Gazetede yayımlandığı tarihten başlayarak yürürlüğe
+
+girer.
+
+[SAYFA 32]
+782
+
+BİRİNCİ CETVEL
+(Madde 20)
+
+HİZMET KALİTESİ ÖLÇÜTLERİ
+
+ae - İlk Bağlantı Süresi ©...” ee
+Tanim Ölçüm Hedefler
+Hizmet sağlayıcının geçerli hizmet talebini | - Tüm taleplerin en hızlı Abonelik
+alması ile hizmetin kullanıma sunulması karşılanan %95’inin yerine sözleşmesinin
+arasındaki süredir. getirilmesinde geçen süre akdedilmesinden
+
+Yeni bir hattın kurulması, geçerli bir hattın
+
+itibaren <7 gün
+
+başka bir müşteriye devredilmiş olması ve “Kullanıcının talebi üzerine > 0495
+var olan erişim hattının yenilenmesi belirli bir gü ” ~
+Ni ar günde bağlantı yapıl
+durumları bu kapsama dahildir. ması kararlaştırılmış olduğu
+durumlarda, anlaşılan günde
+tamamlanan taleplerin yüzdesi
+Ölçüm ETSİ EG 201 769-1 standartlarına göre yapılacaktır.
+‘Arama Kurulum Süresi . m
+Tanım Ölçüm Hedefler
+Söz konusu süre arama kurulumu için Ulusal aramalarda arama <2 saniye
+gerekli olan adres bilgisinin şebeke kurulumunun sağlandığı süre
+tarafından edinilmesi ile başlar (örn. Arayan | ortalaması
+kullanıcının hat üzerinden tanımlanması) ve
+aranan tarafın çalma tonu, meşgul tonu veya
+cevaplama sinyali arayan tarafa ulaşınca Uluslararası aramalarda arama <3 saniye
+
+sona erer.
+
+kurulumunun sağlandığı süre
+
+ortalaması
+
+Ölçümler ETSI EG 201 769-1 standartlarına göre yapılacaktır.
+
+Arama Blokaj Orani &
+
+Tanım Olçüm Hedefler
+
+- Arama blokaj oranı; yapılan aramalarda, Ulusal aramalarda blokaja <%2
+
+radyo link, transmisyon, anahtarlama, ve uğrayan aramaların yüzdesi
+
+benzeri sistemlerdeki kaynak
+
+yetersizliğinden dolayı bağlantı
+
+kurulamayan arama girişimi sayısının
+
+toplam arama girişimi sayısına oranıdır.
+
+Çevir sesi alınmasından sonra geçerli bir Uluslararası aramalarda blokaja | <%5
+
+numaranın son rakamının girilmesini
+müteakiben 30 saniye içerisinde meşgul sesi,
+zil sesi veya cevaplama sinyalinin
+alınmadığı veya aramanın şebeke sebebiyle
+gerçekleştirilemediğine ilişkin cevabın
+yayımlandığı aramalar arama blokajdır.
+
+uğrayan aramaların yüzdesi
+
+[SAYFA 33]
+783
+
+Ölçümler ETSI EG 201 769-1 standartlarına göre yapılacaktır.
+
+Gönderim Gecikmeleri
+Tanım Ölçüm Hedefler
+ITU-T Rec. G.114 kapsamında Tüm aramalarda kaynaklanan < 150 ms
+
+ekipmanların isletiminden ve yayılmadan tek yönlü gecikmeler
+kaynaklanan gecikmeleri içerir.
+
+Ölçümler ITU-T Rec. G.114 standartlarına göre yapılacaktır.
+
+. Arıza Bildirme Oram © »
+
+Hedefler |
+
+Tanım Ölçüm
+Arıza bildirme oranı; kullanıcı tarafından Tüm arıza bildirimleri yüzdesi <%18
+işletmeciye bildirilen ve haberleşme (Tüm arıza bildirimleri sayısının
+sağlayıcıdan kaynaklanan bozulma veya abone toplam sayısına oranı)
+
+kalite seviyesindeki düşme gibi aksaklıklara
+ilişkin geçerli arıza sayısının toplam
+kullanılan abone hattı sayısına oranıdır.
+
+_Abone sorumluluğunda bulunan cihaz ve
+tesisat kaynaklı arıza bildirimleri ölçümlere
+dahil] değildir.
+
+Ölçümler ETSI EG 201 769-1 standartlarına göre yapılacaktır.
+
+_ | Anza Tamir Süresi ©. ©
+
+Tanım Ölçüm
+
+Hedefler |
+
+Abone tarafından arızanın hizmet Tüm geçerli arıza bildirimlerinin
+sağlayıcıya bildirilmesini takiben normal bir | en hızlı 9695'inin yerine
+
+şekilde çalışan hizmetin sağlanmasına kadar | getirilmesinde geçen süre
+
+geçen süredir.
+
+< 48 saat
+
+Ölçümler ETSI EG 201 769-1 standartlarına göre yapılacaktır.
+
+“yü ir, Fatura Şikayet Oranı"...
+
+~ Tanım Ölçüm
+
+~~ Hedeiler
+
+Fatura şikâyeti oranı; geçerli olup Abone şikayetine yol açmış
+olmamasına bakılmaksızın, konuşma süresi, | fatura yüzdesi <%2
+
+tarife, hizmet, indirimler, kampanyalar,
+vergi de dahil olmak tizere toplam tutar gibi
+hususların doğruluğu konularında bildirilen
+şikayetlere konu fatura sayısının toplam
+fatura sayısına oranı olarak hesaplanır.
+
+Ölçümler ETSI EG 201 769-1 standartlarına göre yapılacaktır.
+
+Rehber Sorgü Hizmetlerinde Yanıt Süresi ?.
+
+Tanım Ölçüm
+
+Hedefler
+
+Alt menüde çağrı merkezindeki gerçek Tüm taleplerin %9071
+kişiye bağlanma seçeneğinin sunulduğu ana
+kadar geçen azami süre.
+
+<30 saniye
+
+Ölçümler ETSI EG 201 769-1 standartlarına göre yapılacaktır.
+
+[SAYFA 34]
+784
+
+” Kamuya Açik Ödemeli Telefonların Çalışma Düzeni
+
+Tanım
+
+Ölçüm
+
+Hedefler
+
+Çalışır durumdaki kamuya açık ödemeli
+telefonların tüm kamuya açık ödemeli
+telefonlara oranı.
+
+Çalışır durumdaki kamuya açık
+ödemeli telefonların yüzdesi
+
+> 95
+
+Ölçümler ETSI EG 201 769-1 standartlarına göre yapılacaktır.
+
+“> Arama Kurulum Süresi
+
+Hedefler İ
+
+Tanım Ölçüm
+Söz konusu süre arama kurulumu için Ulusal veya uluslararası 10 < saniye
+gerekli olan adres bilgisinin sebeke aramalarda en kısa sürede
+tarafından edinilmesi ile başlar (örn. Arayan | kurulan %95’lik aramaların
+kullanıcının hat üzerinden tanımlanması) ve | kurulum süresi
+aranan tarafın çalma tonu, meşgul tonu veya
+cevaplama sinyali arayan tarafa ulaşınca
+sona erer.
+Ölçümler ETSI EG 201 769-1 standartlarına göre yapılacaktır.
+©... Arama Blokaj Oranı . a, oe
+Tanm Ölçüm Hedefler
+Arama blokaj oranı; kapsama alanı içinde Blokaja uğrayan aramaların <%2
+olmak şartıyla, yapılan aramalarda, radyo yüzdesi
+
+link, transmisyon, anahtarlama, ve benzeri
+sistemlerdeki kaynak yetersizliğinden dolayı
+bağlantı kurulamayan arama girişimi
+sayısının toplam arama girişimi
+
+sayısına oranıdır. Alıcı abonenin
+numarasının son rakamının şebeke
+tarafından alınmasının ardından 40 saniye
+içerisinde meşgul sesi, zil sesi veya
+cevaplama sinyalinin alınmadığı veya
+aramanın şebeke sebebiyle
+gerçekleştirilemediğine ilişkin cevabın
+yayınlandığı aramalar arama blokajdır.
+
+Ölçümler ETSI EG 202 057-3 standartlarına göre yapılacaktır.
+
+-£ Başarısız Arzma'Orâm © > *
+
+Tanım
+
+Ölçüm
+
+m Hedefler ©
+
+Doğru bir şekilde kurulmuş ve bunun
+sonucunda tanımlanmış bir trafik kanalı
+bulunan; şebekenin erken sonlandırması
+sonucu, kullanıcının normal olarak son
+vermesinden önce kesilen veya kesintiye
+uğrayan aramaların oranı.
+
+Doğru bir şekilde kurulup,
+kesilen aramaların yüzdesi
+
+<%3
+
+[SAYFA 35]
+785
+
+Ölçümler ETSI EG 202 057-3 standartlarına göre yapılacaktır.
+
+Ortalama Kanaat Değeri (MOS)
+
+Tanımı
+
+Ölçüm
+
+Hedefler
+
+Uçtan uca ses kalitesi ölçümlerinde
+kullanılanı ve ölçüm yöntemi ITU-T P.862
+tavsiye kararında tanımlanan ortalama
+kanaat değeri.
+
+Ortalama kanaat değeri
+
+>3,60
+
+Ölçümler ITU-T Rec. G.107E standartlarına g
+
+öre yapılacaktır.
+
+Fatura Şikayet Oranı e
+Tanım Ölçüm Hedefler
+Abone şikayetlerinin olduğu fatura sayısının | Abone şikayetine yol açmış <%2
+toplam fatura sayısına oranı. fatura yüzdesi
+
+Ölçümler ETSI EG 201 769-1 standartlarına göre yapılacaktır.
+
+“Ön Ödemeli Hatlarda Kredi Şikayeti Oranı ;
+
+Tanım Ölçüm Hedefler
+Kontör Yükleyememe ve Kontör Kaybı Şikayet eden ön ödemeli abone | <%2
+şikayetlerinin olduğu ön ödemeli abotie' - yüzdesi
+sayısının toplam ön ödemeli abone sayısına
+oranı.
+Ölçümler ETSI EG 202 057-1 standartlarına göre yapılacaktır.
+
+“© Kısa Mesaj Hizmeti ( ) Tamamlanma Oranı © me
+
+Tanım Ölçüm Hedefler
+Uçtan uca kısa mesaj teslim süresi içerisinde | Başarılı bir şekilde iletilen KMH | 2 %95
+başarılı bir şekilde iletilen KMH sayısının sayısının yüzdesi
+
+gönderilen toplam KMH sayısına oranı.
+
+Ölçümler E ETSI TS 102 250-2 standartlarına göre yapılacaktır.
+
+isini wi a KMH Teslim !*
+i “Süresi; o. Rİ
+Tanım “Giğim Hedefler
+Uçtan uca en kısa sürede gönderilen Uçtan uca en kısa sürede < 15 saniye
+
+%99’ luk KMH’nin teslim süresi.
+
+gönderilen W99'luk KMH’nin
+teslim süresi
+
+Ölçümler ETSI TS 102 250-2 standartlarına göre yapılacaktır.
+
+- Dk Bağlantı Şüresi | ki
+Ölçüm Hedefler
+Hizmet sağlayıcının geçerli hizmet talebini | - Tüm taleplerin en hızlı Abonelik
+alması ile hizmetin kullanıma sunulması karşılanan %95’inin yerine sözleşmesinin
+arasındaki süredir. Yeni bir hattin getirilmesinde geçen süre akdedilmesinden
+
+kurulması, geçerli bir hattın başka bir
+müşteriye devredilmiş olması ve var olan
+
+itibaren < 7 gün
+
+[SAYFA 36]
+786
+
+toplam fatura sayısına oranı.
+
+fatura yüzdesi
+
+erişim hattının yenilenmesi durumları bu - Kullanıcının talebi üzerine > %95
+kapsama dahildir. belirli bir günde bağlantı
+yapılması kararlaştırılmış olduğu
+durumlarda, anlaşılan günde
+tamamlanan taleplerin yüzdesi
+Ölçümler ETSI EG 201 769-1 standartlarına göre yapılacaktır.
+“Bekleme (Tek Yönlü Gönderim Süresi) “ERİ
+Tanım Ölçüm Hedefler
+Bekleme, geçerli bir IP adresine ICMP Beklemenin ortalama değeri Ulusal Şebeke * |
+yankı isteği/cevabı (Ping) için ihtiyaç olarak sağlanan ölçüm Bekleme Süresi
+duyulan milisaniyenin yarısıdır. (iki yönlü) <150
+Milisaniyenin yarısı, geçerli bir talebe ICMP milisaniye
+yankı isteği/cevabı (Ping) için ihtiyaç
+duyulan zamandır. Uluslararası bekleme Uluslararası
+süresi için, test noktasından faaliyetin ilk Şebeke Bekleme
+uluslararası noktasına bir ICMP yankı Süresi (iki
+isteği/cevabı (Ping) tın sesi göndererek yönlü)<400
+ölçüm yapılır. milisaniye
+Ölçümler E ETSİ EG 202 O57 4 standartlarına göre yapılacaktır.
+: _Kayip Oranı a
+Tanım Ölçüm Hedefler
+Belirlenen iki nokta arasında, kayıp Kayıp paket oranı Hizmetin her
+paketlerin, gönderilen paketlerin tümüne sınıfı için kayıp
+oranıdır. oranı N
+genellikle <10”
+Ölgimler. IrU- T Res ce X 1541 standartlarına göre yapılacaktır.
+an. Ee e #Ülaşilan Veriİleim Hızı o... Lİ
+“Tamm Ölçüm Hedefler
+Ulaşılan veri gönderim hızı, belirlenen test | -En hızlı ulaştırılan 9695'lik Hizmet sağlayıcı
+dosyanın uzaktan internet sitesi ile bir dilim içerisindeki veri gönderim | tarafından
+kullanıcının bilgisayarının arasındaki hızı (kbit/s olarak) duyurulan
+yükleme ve gönderme hızıdır. ~ En yavaş ulaştırılan %57lik bağlantı hızının
+dilim içerisindeki veri gönderim | enaz “75'i
+hızı (kbit/s olarak)
+-Ortalama değer ve ulaşılan geri
+gönderim hızının standart
+sapması (kbit/s olarak)
+Ölçümler E ETSI. EG 202 057-4 standartlarına göre yapılacaktır. i
+a ae AE, “Fatura Şikayet Oranı © “4 4
+Tanım Olçüm Hedefler
+Abone şikayetlerinin olduğu fatura sayısının | Abone şikayetine yol açmış <%2
+
+göre yapılarak.
+
+Ölçümler ETSI EG 201 769-1 standartlarına
+
+“ Hatalı Fatura Oranı © Ri.
+Tanım çün Hedefler
+Abone şikayetlerinin olduğu hatalı fatura Abone şikayetine yol açmış <%l
+sayısının ilgili toplam fatura sayısına oranı. hatalı fatura yüzdesi
+
+[SAYFA 37]
+787
+
+Arıza Tamir Süresi. © ©
+
+Tanım
+
+Sick Lİ
+
+l Hedefler ~
+
+Abone tarafından arızanın hizmet
+sağlayıcıya bildirilmesini takiben normal bir
+şekilde çalışan hizmetin sağlanmasına kadar
+geçen süredir.
+
+Tüm geçerli arıza bildirimlerinin
+en hızlı %95"inin yerine
+getirilmesinde geçen süre
+
+<48 saat
+
+Ölçümler ETSI EG 201 769-1 standartlarına göre yapılacaktır.
+
+TÜM KAMUSAL HABERLEŞME SAĞLAYICILARININ ÇAĞRI MERKEZLERİNE İLİŞKİN
+
+HİZMET KALİTESİ KRİTERLERİ
+
+saniye cinsinden ölçülen toplam süre.
+İşletmecinin müşteri hizmetlerini arayan son
+kullanıcıyı karşılayan sesli yanıt sisteminde
+temel seçeneklerin yer aldığı ilk menü ana
+
+; Ana Menüde Geçen Süre .
+Tanım Ölçüm Hedefler
+Sesli yanıt sisteminin ana menüsünde geçen | Ana menüde geçen süre < 50 saniye
+
+| meniidiir.
+
+“. “Sesli Yanıt Sistéminde Geçen Süre © ©
+
+Tanım
+
+Ölçüm
+
+Hedefler
+
+Ana menüde temel başlıklardan birini seçen
+son kullanıcının yaptığı tuşlama ile başlayan
+ve gerçek kişiye bağlanma seçeneğinin
+sunulduğu ana kadar sesli yanıt sisteminde
+geçen, saniye cinsinden ölçülen toplam süre.
+Son kullanıcıların müşteri hizmetlerine
+bağlandıktan sonra ana menü ve alt menüde
+işlem yapmak istediği konulara ait olarak
+bilgi alma, bilgi verme, talep ve şikâyetleri
+alma ve ilgili müşteri hizmetleri temsilcisine
+yönlendirme amacı ile oluşturulan otomatik
+
+Sesli yanıt sisteminde geçen süre
+
+< 40 saniye
+
+cevap sistemi sesli yanıt sistemidir.
+
+“--Belirlenen;Sürede:Cevap Verme Orani. > we
+
+cevapladığı ana kadar geçen ve saniye
+cinsinden ölçülen süre. :
+
+Tanım Ölçüm Hedefler
+Çağrı merkezindeki gerçek kişiye Yıllara göre 50 saniye içinde , Bu Tüzüğün
+bağlanmak üzere sesli yanıt sisteminde 40 saniye içinde ve 30 saniye yürürlüğe
+yapılan son tuşlamadan çağrı merkezindeki | içinde cevaplanan aramaların girdiği tarihten
+gerçek kişinin hizmet talep eden kullanıcıyı | yüzdesi başlayarak;
+
+6 ay içerisinde,
+%807i 50 saniye
+içinde,
+
+18 ay içerisinde,
+%807i 40 saniye
+içinde,
+
+18 ay sonrası ve
+devamında
+Y80'i 30 saniye
+içinde,
+
+[SAYFA 38]
+788
+
+TÜM KURUMSAL HABERLEŞME SAĞLAYICILARININ UYMALARI GEREKEN HİZMET
+KRİTERLERİ
+
+Ni Tüketici Şikayetleri Çözüm Süresi ae
+ma Tanım Ölçüm Hedefler
+
+| Son kullanıcı veya abone tarafından, Şikayetlerin çözüm süresi < 36 saat
+yararlanılan elektronik haberleşme ürün ortalaması
+
+veya hizmetleri için, düzeltici faaliyetlerin
+gerçekleştirilmesi beklentisi ile işletmecinin
+telefonla erişilebilen müşteri hizmetlerine
+iletilen problemin alındığı andan
+çözümlendiği ana kadar geçen, geçerli
+olmayan şikâyetlerin dâhil olmadığı ve saat
+cinsinden ölçülen süre.
+
+Sayı: 296
+
+KAMU SAĞLIĞI (DEFİN VE MEZARDAN ÇIKARMA) YASASI
+(FASIL 257)
+
+Madde 3. altında yapılan Emirname
+
+Bakanlar Kurulu, Kamu Sağlığı (Defin ve Mezardan Çıkarma) Yasası'nın 3. maddesinin kendine
+verdiği yetkiyi kullanarak aşağıdaki Emirnameyi yapar:
+
+Kısa İsim 1. Bu Emimame, Defin ve Mezardanj Çıkarma (Tatlısu, Yalı mahallesi 42
+nolu evin yanında bulunan alandaki cesedin mezardan çıkarılması)
+Emirnamesi olarak adlandırılır.
+
+Çıkarılacak Cesed 2. Tatlısu, Yah mahallesi 42 nolu evin yanında bulunan alandaki cesedin
+
+mezardan çıkarılması aşağıda belirtilen koşullara bağlı olarak Tathisu’da
+şimdi kullanılmakta olan Tatlısu Mezarlığı'na defnedilmesi emrolunur.
+
+a) Sözkonusu mezarla ilgilenen Tatlısu Belediye yetkililerinin
+bilir kişi olarak hazır bulunmaları, gerekli araç ve gereçleri
+tedarik etmeleri;
+
+b) Herhangi bir bulaşıcı hastalığı önlemek amacıyla dezenfekte
+maksadı için Sağlık Bakanlığı'nı temsilen sağlık ekibinin hazır
+bulunması.
+
+Yürürlüğe Giriş 3. Bu Emimame, Resmi Gazete'de yayınlandığı tarihten itibaren yürürlüğe
+girer.

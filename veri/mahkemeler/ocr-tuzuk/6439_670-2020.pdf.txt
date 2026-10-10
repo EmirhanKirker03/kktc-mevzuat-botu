@@ -1,0 +1,437 @@
+[SAYFA 1]
+Sayı: 670
+
+1750
+
+ELEKTRONİK HABERLEŞME YASASI
+(6/2012, 21/2014, 39/2016, 27/2019 ve 31/2019 Sayılı Yasalar)
+Madde 63 Altında Yapılan Tüzük
+
+Kuzey Kıbrıs Türk Cumhuriyeti Bakanlar Kurulu, Elektronik Haberleşme Yasası'nın 63”üncü
+maddesinin kendisine verdiği yetkiye dayanarak aşağıdaki Tüzüğü yapar:
+
+Kısa İsim
+
+Tefsir
+
+1. Bu Tüzük, “Mobil Terminal Telsiz Ücretleri Tüzüğü” olarak
+isimlendirilir.
+
+BİRİNCİ KISIM
+
+Genel Kurallar
+
+2. Bu Tüzükte metin başka türlü gerektirmedikçe:
+
+(1) “Abone”, Bir haberleşme sağlayıcı ile bu hizmetlerin
+verilmesi için yapılmış bir sözleşmeye taraf olan herhangi bir
+gerçek veya tüzel kişiyi anlatır.
+
+“Aktif Abone”, Bir ay içerisinde 1(bir) çağrı başlatmış, 1(bir)
+çağrı almış veya 1(bir) kısa mesaj göndermiş veya veri (data)
+hizmeti kimlik doğrula ası gerçekleştirmiş faturalı ve ön
+ödemeli (faturasız) abonele * anlatır.
+
+“Asgari Yükleme”, Birikmiş Borç ile haberleşme sağlayıcı
+tarafından belirlenen en az yükleme tutarı toplamından,
+abonenin mevcut bakiyesinin çıkarılması ile elde edilen tutarı
+anlatır.
+
+“Bakiye”, Abonenin hesabına yüklenen ve/veya bulunan
+kontör, TL veya benzeri varlıkları anlatır.
+
+“Birikmiş Borç”, Ön ödemeli abonenin önceki aylara ilişkin
+kesinleşen telsiz kullanım ücretleri ile içinde bulunulan aya ait
+telsiz kullanım ücreti toplamını anlatır.
+
+“Elektronik Haberleşme”, Elektriksel işaretlere
+dönüştürülebilen her türlü işaret, sembol, ses, görüntü ve verinin
+kablo, telsiz, optik, elektrik, manyetik, elektromanyetik,
+elektrokimyasal, elektromekanik ve diğer iletim sistemleri
+vasıtasıyla iletilmesini, gönderilmesini ve alınmasını anlatır.
+“Elektronik Haberlesme Hizmeti”, Telekomünikasyon
+hizmetleri ve yayıncılık için kullanılan şebekelerdeki iletim
+hizmetleri dahil (elektronik haberleşme şebekeleri üzerinden
+iletilen içeriğin sağlanmasından veya bunun üzerinde editoryal
+kontrol icra edilmesinden oluşan hizmetler ile bilgi toplumu
+hizmetleri hariç) elektronik haberleşme şebekeleri üzerinde
+sinyaller iletilmesinden tamamen veya kısmen oluşan ve normal
+olarak bir bedel karşılığında verilen bir hizmeti anlatır.
+“Elektronik Haberleşme Sağlayıcı/Haberleşme Sağlayıcı”,
+Bir elektronik haberleşme şebekesinin operatörü veya elektronik
+haberleşme hizmetleri sağlayan tüzel kişiyi anlatır.
+
+[SAYFA 2]
+6/2012
+21/2014
+39/2016
+27/2019
+31/2019
+
+Amaç
+
+Kapsam
+
+İlkeler
+
+1751
+
+“Hizmet Başlatma”, Herhangi bir yöne | (bir) çağrı
+başlatabileceği veya 1(bir) kısa mesajın gönderilebileceği veya
+belirlenmiş en küçük veri (data) boyutundaki hizmet veya
+hizmetleri anlatır.
+
+“Kamusal Elektronik Haberleşme Şebekesi”, herkesçe
+kullanılabilen bir elektronik haberleşme şebekesini anlatır.
+“Kamusal Haberleşme Sağlayıcı”, Kamusal haberleşme
+şebekesi üzerinden kamuya elektronik haberleşme hizmetleri
+veren haberleşme sağlayıcısını anlatır.
+
+“Kurul”, Bilgi Teknolojileri ve Haberleşme Kurulunu anlatır.
+“Kurum”, Bilgi Teknolojileri ve Haberleşme Kurumunu
+anlatır.
+
+“Telsiz”, Aralarında herhangi bir fiziki bağlantı olmaksızın
+elektromanyetik dalgalar yoluyla açık, kodlu veya kriptolu ses
+ve veri vermeye, almaya veya yalnızca vermeye veya almaya
+yarayan sistemleri anlatır.
+“Yasa”, Elektronik Haberleşme Yasası'nı anlatır.
+“Yaşam Döngüsü”, Ön ödemeli her abonenin haberleşme
+sağlayıcının sistemindeki toplam kullanım süresini anlatır.
+(2) Bu Tüzükte yer almayan tanımlar için Yasa'da yer alan
+tanımlar geçerlidir.
+
+3. Bu Tüzüğün amacı, kamusal haberleşme sağlayıcıların, mobil
+elektronik haberleşme hizmeti almak için kendi sistemlerinde kayıtlı olan
+her aktif aboneden Kurum adına telsiz ruhsat ve telsiz yıllık kullanım
+ücretlerinin tahsil edilmesine ilişkin usul ve esasları düzenlemektir.
+
+4. Bu Tüzük; mobil elektronik haberleşme hizmeti veren kamusal
+haberleşme sağlayıcılar ile bu haberleşme sağlayıcıların kendi
+sistemlerinde kayıtlı olan faturalı ve ön ödemeli tüm abonelerini kapsar.
+
+5. Bu Tüzüğün uygulanmasında aşağıdaki temel ilkeler göz önüne alınır.
+
+(1) Ülkenin her yerinde, makul bir ücret karşılığında geniş kapsamlı
+elektronik haberleşme şebeke ve hizmetlerinden
+yararlanılmasının sağlanması,
+
+(2) Tüketici hak ve menfaatlerinin korunması ve gözetilmesi,
+
+(3) Herkesin makul bir ücret karşılığında elektronik haberleşme
+şebeke ve hizmetlerinden eşit bir şekilde aynı hizmet kalitesinde
+yararlanmasını sağlayacak uygulamaların teşvik edilmesi,
+
+(4) Elektronik haberleşme hizmetlerinin düzenlenmesinde karar
+almada şeffaflık, tarafsızlık ve nesnelliğin sağlanması ve karar
+almadan önce geniş ölçüde danışma yapılması,
+
+(3) Elektronik haberleşme şebekeleri ve elektronik haberleşme
+hizmetlerinin düzenlenmesinin uluslararası normlara uygun
+olması.
+
+[SAYFA 3]
+Telsiz Ruhsat
+ve
+Kullanım
+Ücretlerinin
+Belirlenmesi
+
+30.03.2015
+R.G. 50
+EK III
+
+A.E. 244
+
+Faturali ve
+
+On Odemeli
+Abonelerden
+Telsiz Ruhsat
+Ucretinin
+
+Tahsil Edilmesine
+İlişkin Kurallar
+
+20.05.2016
+R.G. 64
+EK II
+
+A.E. 329
+
+On Odemeli
+Abonelerin
+
+Telsiz Kullanım
+Ücretlerinin
+Belirlenmesi ve
+Tahsil Edilmesine
+İlişkin Kurallar
+
+1752
+
+İKİNCİ KISIM
+Ücretlerin Belirlenmesi, Tahsilata İlişkin Kurallar ve
+
+Haberleşme Sağlayıcıların Yükümlülükleri
+
+6. (1) Telsiz ruhsat ve kullanım ücretleri, mobil elektronik haberleşme
+hizmeti veren kamusal haberleşme sağlayıcıların kendi
+sistemlerinde kayıtlı olan her bir faturalı ve ön ödemeli aktif hat
+abonesi tarafından, işbu Tüzük ve Ücretler Tüzüğü ile belirlenen
+kurallar uyarınca ödenir.
+
+(2) Ucretlerde değişiklik olması halinde kullanılacak yeni ücret,
+değişikliğinin yürürlüğe girdiği aydan sonraki 2'nci (İkinci)
+ayda uygulanmaya başlanır.
+
+7.(1) Telsiz Ruhsat Ücreti, haberleşme sağlayıcı tarafından abonelik
+
+sözleşmesinin imzalanması esnasında sisteme kaydı yapılan
+ve abonelik sözleşmesinde yer alan her bir ön ödemeli ve
+faturalı hat abonesinden bir defaya mahsus olmak üzere
+Kurum adına peşin ödenmek sureti ile tahsil edilir.
+
+(2) Haberleşme sağle cılar, Numara Taşınabilirliği Tüzüğü
+kapsamında numarası. * taşıyan aboneden tekrar Telsiz Ruhsat
+Ücreti tahsil etmezler.
+
+(3) Haberleşme sağlayıcılar, aboneliğin devir edilmesi, abonelik
+sözleşmesine taraf olan abonenin veya abonelik sözleşmesine
+konu hat türünün değişmesi de dahil her türlü yeni abonelik
+sözleşmesinin yapılmasını gerektiren hallerde aboneden tekrar
+telsiz ruhsat ücretini tahsil ederler,
+
+8. (1)(A) Haberleşme sağlayıcı tarafından ön ödemeli aboneden tahsil
+edilecek ilk Telsiz Kullanım Ücreti, yukarıda 7'inci maddede
+belirtilen abonelik sözleşmesinin imzalanması esnasında tahsil
+edilen telsiz ruhsat ücreti ile birlikte içinde bulunulan aya
+mahsuben peşin olarak alınır.
+
+(B) Haberleşme sağlayıcı tarafından ön ödemeli aboneden ilk kez
+tahsil edilecek telsiz kullanım ücreti için Aktif Abone koşulu
+aranmaz.
+
+(C) Haberleşme sağlayıcı tarafindan aboneden tahsil edilen Telsiz
+Kullanım ücreti, Kurum hesabına aktarıldıktan sonra iade
+edilmez.
+
+[SAYFA 4]
+1753
+
+(2) (A) Haberleşme sağlayıcılar, abonelik sözleşmesinin yapılmasını
+takip eden aylar için her ayın ilk günü, abonenin hesabına,
+içinde bulunulan aya ait Telsiz Kullanım Ücretini borç olarak
+yansıtır;
+
+(a) (i) Haberleşme sağlayıcı, abonenin hesabında birikmiş
+borcunu tahsil edecek kadar bakiye olması halinde
+öncelikli olarak ve her halükârda abonenin hizmet
+başlatmasını beklemeksizin birikmiş borcunu tahsil
+eder.
+
+(ii) Peşin olarak tahsil edilen birikmiş borç içinde yer alan
+telsiz kullanım ücreti, içinde bulunulan ayda abonenin
+Aktif Abonelik koşulunu oluşturmaması halinde bir
+sonraki ayın ilk günü haberleşme sağlayıcı tarafından
+abonenin hesabına iade edilir.
+
+(b) (i) Haberleşme sağlayıcılar, hesabında birikmiş borcunu
+tahsil edecek kadar bakiye bulunmayan abonelerin, her
+abone için belirlenen Asgari Yükleme tutarı kadar
+yükleme yapmasını sağlarlar,
+
+(ii) Abonenin asgari yükleme tutarını hesabına yüklemesi
+halinde haberleşme sağlayıcı, öncelikli olarak ve her
+halükârda abonenin hizmet başlatmasını beklemeksizin
+birikmiş borcunu tahsil eder.
+
+(iii) İçinde bulunulan ay için peşin olarak tahsil edilen
+telsiz kullanım ücreti, abonenin Aktif Abonelik
+koşulunu oluşturmaması halinde bir sonraki ayın ilk
+günü haberleşme sağlayıcı tarafından abonenin
+hesabına iade edilir.
+
+(c) Abonenin hesabında birikmiş borcunu tahsil edecek kadar
+bakiye olmaması ve abonenin içinde bulunulan ayda aktif
+abone koşulunu oluşturması halinde haberleşme sağlayıcı,
+birikmiş borç içerisinde yer alan içinde bulunulan aya ait
+telsiz kullanım ücretini kesinleştirir ve önceki aylara
+ilişkin kesinleşen telsiz kullanım ücretlerini günceller.
+
+(3) Haberleşme sağlayıcı, sistemine tanımlı ön ödemeli (faturasız)
+hatlara ilişkin yaşam döngüsü devam ettiği sürece bu maddede
+belirtilen tüm kuralları uygular. Haberleşme sağlayıcı, hattın
+sistemden silinmesi halinde Kurum adına peşin olarak tahsil
+ettiği ancak aboneye iade edilemeyen ücretleri, Kurum hesabına
+aktarır ve tahsil edilemeyen birikmiş borçlu aboneler ile birlikte
+Kuruma raporlar.
+
+[SAYFA 5]
+Faturalı Abonelerin
+Telsiz Kullanım
+Ücretlerinin
+Belirlenmesi ve
+Tahsil Edilmesine
+İlişkin Kurallar
+
+Telsiz Ruhsat ve
+Telsiz Kullanım
+Ücretlerinin
+Faturalarda
+Gösterilmesi
+
+Haberleşme
+Sağlayıcıların
+Yükümlülükleri
+
+1754
+
+9. Telsiz kullanım ücreti, aktif abone koşulunun oluşmasını takip eden
+ilk faturaya yansıtılır ve sadece aktif olma koşulunun sağlandığı aylar
+için tahsil edilir.
+
+10. (1) Haberleşme sağlayıcılar, faturalı aboneler için düzenledikleri
+aylık faturalarda telsiz kullanım ücretini ayrı kalem olarak
+açıkca belirtirler,
+
+(2) Telsiz ruhsat ve telsiz kullanım ücretinin yer aldığı faturalar,
+haberleşme sağlayıcıların herhangi bir mali yükümlülüğünün
+hesaplanmasında esas teşkil etmezler ve haberleşme
+sağlayıcıların geliri olarak kaydedilmezler.
+
+11. (1) Ücretlerin Tahsil Edilmesi Yükümlülüğü: Haberleşme
+sağlayıcılar, kendi sistemlerine dahil aktif abonelerin Yasa
+uyarınca Kuruma ödemek zorunda olduğu telsiz ruhsat ve telsiz
+kullanım ücretlerini, tif abonelerinden Kurum adına tahsil
+etmekle yükümlüdür.
+
+(2) Ücretlerin Hesaba Aktarılması Yükümlülüğü: Haberleşme
+sağlayıcılar, aktif abonelerden tahsil edilen telsiz ruhsat ve telsiz
+kullanım ücretini;
+
+(A) Faturalı hat aboneleri için, telsiz ruhsat ve telsiz kullanım
+ücretinin yer aldığı faturanın tahsil edilmesini takip eden ilk ayın
+Sinci (Beşinci) iş gününde,
+
+(B) Ön ödemeli hat aboneleri için ise, telsiz ruhsat ve telsiz
+kullanım ücretinin tahsil edilmesini müteakip ilk ayın Sinci
+(Beşinci) iş gününde Kurum tarafindan bildirilerek banka
+hesabına yatırmakla yükümlüdür.
+
+(3) Raporlama ve Raporların İletilmesi Yükümlülüğü: Haberleşme
+sağlayıcılar, telsiz ruhsat ve kullanım ücretinin tahsil edilmesini
+takip eden ilk ayın en geç 10'uncu (Onuncu) iş gününde Kurum
+tarafından belirlenen yöntem ve şekillere uygun olarak
+hazırladıkları aylık raporları talep edilen şekilde Kuruma
+iletmekle yükümlüdürler.
+
+(4) Aktif Abonelerin Tespit Edilmesi Yükümlülüğü: Haberleşme
+sağlayıcılar, işbu Tüzük kurallarının uygulanması amacı ile
+sistemlerindeki aktif abone sayılarını tespit etmekle
+yükümlüdürler,
+
+[SAYFA 6]
+1755
+
+(5) Verilerin Saklanması Yükümlülüğü: Haberleşme sağlayıcılar,
+aktif abone sayıları ve abonelik türü de dahil olmak üzere Kurum
+tarafından Tüzük kapsamında talep edilen her türlü bilgiyi en az 5
+yıl saklamakla yükümlüdürler,
+
+(6) Önlemlerin Alınması Yükümlülüğü: Haberleşme sağlayıcılar,
+asgari yükleme dahil işbu tüzük kurallarının çalışabilirliğini
+sağlamak ve önlemleri almakla yükümlüdürler,
+
+(7)En Az Yükleme Tutarının Belirlenmesi Yükümlülüğü:
+Haberleşme sağlayıcılar, en az yükleme tutarını belirlerken
+abonenin asgari olarak herhangi bir yöne 1 (Bir) çağrı
+başlatabileceği veya 1(Bir) kısa mesaj gönderebileceği veya
+belirlenmiş en küçük veri (data) boyutundaki hizmeti alabileceği
+miktarı dikkate almakla yükümlüdürler.
+
+ÜÇÜNCÜ KISIM
+Çeşitli Kurallar
+Muafiyet 12. (1) Kurum, Yasa kuralları uyarınca alacağı bir kararla özel durumda
+Hakkı bazı kullanıcı sınıflarını telsiz cihaz ve sistemleri için alınacak
+telsiz ruhsat ve telsiz yıllık kullanım ücretlerini ödemekten muaf
+
+tutabilir.
+
+(2) Kurum, yukarıdaki (1'inci fıkra uyarınca muafiyet hakkı tanınmış
+olanlara ilgili mali yıl için ödedikleri ücretlerin tamamını veya bir
+kısmını iade edebilir.
+
+(3) Herhangi bir muafiyet veya geri ödeme, şeffaf ve kullanıcılar
+arasında ayrımcılık yaratmayacak gerekçelere dayandırılmalıdır.
+
+(4) Kurum, haberleşme sağlayıcılardan yukarıdaki (1)’inci fıkra
+uyarınca muafiyet hakkı tanınmış olanlara ilgili Kurum tarafından
+belirlenen yöntem ve şekillere uygun olarak rapor isteme hakkına
+sahiptir.
+
+İdari Yaptırımlar 13. Haberleşme sağlayıcının faaliyetlerinin veya fiillerinin Yasa, bu
+Tüzük ve ilgili mevzuatla belirlenen kural ve koşullara aykırı olması
+durumunda, haberleşme sağlayıcıya Yasa ve ilgili diğer mevzuat
+uyarınca idari para cezası veya diğer yaptırımlar ile tedbirler uygulanır.
+
+Usul ve Esaslar 14. Kurum, bu Tüzük kapsamındaki kuralların uygulanabilmesi için aktif
+
+abonelerin tespiti, abonelerin bilgilendirilmesi, asgari yüklemenin
+belirlenmesi, sistemlerin oluşturulması, ücretlerin tahsilatı, raporlama ve
+Kurum'a iletim yöntemleri hakkında Yönetmelikler çıkarabilir veya
+Tebliğler yayımlayabilir.
+
+[SAYFA 7]
+Geçici Madde
+Mevcut Abonelerden
+Alınacak Telsiz
+Ruhsat Ücreti
+
+Geçici Madde
+Geçmiş Borçlara
+İlişkin Kurallar
+20.12.2012
+R.G. 210
+
+EK I
+
+A.E. 670
+
+Yürütme Yetkisi
+
+Yürürlükten
+Kaldırma
+
+20.12.2012
+
+R.G. 210
+
+EK III a
+A.E. 670
+
+Yürürlüğe Giriş
+
+1756
+
+SEKİZİNCİ KISIM
+
+Geçici ve Son Kurallar
+
+1. İşbu Tüzüğün yürürlüğe girmesinden önce haberleşme sağlayıcıların
+sistemlerinde kayıtlı olan mevcut abonelerinden telsiz ruhsat ücreti
+alınmaz.
+
+2. İşbu Tüzüğün yürürlüğe girmesinden önce yürürlükte bulunan Mobil
+Terminal Telsiz Ücretlerine Dair Tüzük uyarınca oluşan ve tahsil
+edilemeyen tüm borçlar İşbu Tüzüğün yürürlülük tarihinde birikmiş
+borca dahil edilir.
+
+15. Bu Tüzük elektronik haberleşmeden sorumlu Bakanlık tarafından
+
+16. İşbu Tüzüğün yürürlüğe girdiği tarihten başlayarak, yürürlükte
+bulunan “Mobil Terminal Telsiz Ücretlerine Dair Tüzük” altında yapılan
+işlemlere halel gelmeksizin “Mobil Terminal Telsiz Ücretlerine Dair
+Tüzük” yürürlükten kalkar.
+
+17. Bu Tüzük, 01 Ocak 2021 tarihinden başlayarak yürürlüğe girer.
