@@ -139,6 +139,39 @@ async function ocr(parca, toplam, tur = 'yasa') {
   }
 }
 
+// Metni sitede alan olarak gelmeyen kararlar: dosyayı indir, metni çıkar (taranmışsa OCR)
+async function kararDosya(parca, toplam) {
+  const ODIR = 'veri/mahkemeler/kararlar-dosya';
+  const OKAYIT = 'veri/mahkemeler/karar-dosya-kayit/parca-' + parca + '.json';
+  const okayit = fs.existsSync(OKAYIT) ? oku(OKAYIT) : {};
+  fs.mkdirSync(ODIR, { recursive: true });
+  const L = oku('liste/mahkemeler-karar.json').kayitlar.filter(k => !k.metin_dosyasi && k.url && k.Pkey % toplam === parca && !(okayit[k.Pkey] && okayit[k.Pkey].durum === 'tamam'));
+  console.log('Karar dosyaları, parça ' + parca + '/' + toplam + ': ' + L.length);
+  await oturumAc();
+  const t0 = Date.now();
+  for (const k of L) {
+    if (Date.now() - t0 > 5.3 * 3600 * 1000) break;
+    const o = { pkey: k.Pkey, url: k.url, alindi: new Date().toISOString() };
+    try {
+      const { r, buf } = await getir(k.url); await uyu(BEKLE_MS);
+      if (!r.ok) throw new Error('HTTP ' + r.status);
+      o.sha256 = sha256(buf); o.bayt = buf.length;
+      const b = bicim(buf, k.url); o.bicim = b;
+      let metin = '';
+      try { metin = (await metinCikar(buf, k.url)).metin; o.yontem = b; } catch (e) { /* aşağıda */ }
+      if (metin.trim().length < 200 && b === 'pdf') {
+        const f = path.join(TMP, 'k.pdf'); fs.writeFileSync(f, buf);
+        const m = pdfOcr(f); fs.rmSync(f, { force: true }); metin = m.metin; o.yontem = 'ocr (tesseract tur+eng, 300 dpi)'; o.sayfa = m.sayfa;
+      } else if (metin.trim().length < 200 && b !== 'html') { metin = loMetin(buf, ['doc', 'docx', 'rtf'].includes(b) ? b : 'doc'); o.yontem = 'libreoffice'; }
+      const ad = k.Pkey + '.txt';
+      fs.writeFileSync(path.join(ODIR, ad), metin);
+      Object.assign(o, { karakter: metin.length, metin_dosyasi: ODIR + '/' + ad, durum: metin.replace(/\[SAYFA \d+\]/g, '').trim().length < 200 ? 'metin-cok-kisa' : 'tamam' });
+    } catch (e) { o.durum = 'sorun'; o.hata = String(e.message || e).slice(0, 300); }
+    okayit[k.Pkey] = o; yaz(OKAYIT, okayit);
+    console.log((o.durum === 'tamam' ? '✓ ' : '✗ ') + k.Pkey + ' ' + (o.yontem || '') + ' ' + (o.karakter || 0) + ' krk' + (o.hata ? ' — ' + o.hata : ''));
+  }
+}
+
 async function lo(tur) {
   const KAYIT = 'veri/mahkemeler/' + tur + '-kayit.json';
   const kayit = oku(KAYIT);
@@ -171,6 +204,6 @@ async function lo(tur) {
 
 if (require.main === module) {
   const [komut, a, b] = process.argv.slice(2);
-  const is = komut === 'onar' ? onar() : komut === 'ocr' ? ocr(Number(a), Number(b), process.argv[5] || 'yasa') : komut === 'lo' ? lo(a || 'yasa') : Promise.reject(new Error('komut: onar | ocr <parça> <toplam> | lo [yasa|tuzuk]'));
+  const is = komut === 'onar' ? onar() : komut === 'ocr' ? ocr(Number(a), Number(b), process.argv[5] || 'yasa') : komut === 'karar' ? kararDosya(Number(a), Number(b)) : komut === 'lo' ? lo(a || 'yasa') : Promise.reject(new Error('komut: onar | ocr <parça> <toplam> | lo [yasa|tuzuk]'));
   is.then(() => fs.rmSync(TMP, { recursive: true, force: true })).catch(e => { console.error('HATA: ' + (e.message || e)); process.exit(1); });
 }
