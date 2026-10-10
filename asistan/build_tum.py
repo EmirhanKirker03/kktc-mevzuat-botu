@@ -18,13 +18,6 @@ PAKET_BAYT = 1_500_000
 def oku(p):
     return json.load(open(p, encoding='utf-8')) if os.path.exists(p) else {}
 
-kayit = oku(os.path.join(M, 'yasa-kayit.json'))
-lo = oku(os.path.join(M, 'yasa-lo-kayit.json'))
-ocr = {}
-od = os.path.join(M, 'ocr-kayit')
-if os.path.isdir(od):
-    for f in os.listdir(od): ocr.update(oku(os.path.join(od, f)))
-
 TR = str.maketrans('çğıöşüâîûÇĞİÖŞÜÂÎÛI', 'cgiosuaiuCGIOSUAIUI')
 STOP = set('ve veya ile bir bu da de ki mi icin gibi olan olarak ne nasil hangi ama ancak her herhangi daha cok en yasa madde'.split())
 def fold(s): return re.sub(r'[^a-z0-9 ]+', ' ', s.replace('I', 'ı').replace('İ', 'i').lower().translate(TR))
@@ -41,9 +34,17 @@ def parcala(metin, boy=1800):
     return [{'no': f'Parça {i + 1}', 'baslik': '', 'metin': re.sub(r'[ \t]+', ' ', t).strip(), 'parca': True} for i, t in enumerate(out)]
 
 yasalar, istat = [], collections.Counter()
-for pk, k in sorted(kayit.items(), key=lambda x: int(x[0])):
+for tur in ('yasa', 'tuzuk'):
+  ek = '' if tur == 'yasa' else '-' + tur
+  kayit = oku(os.path.join(M, tur + '-kayit.json'))
+  lo = oku(os.path.join(M, tur + '-lo-kayit.json'))
+  ocr = {}
+  od = os.path.join(M, 'ocr' + ek + '-kayit')
+  if os.path.isdir(od):
+      for f in os.listdir(od): ocr.update(oku(os.path.join(od, f)))
+  for pk, k in sorted(kayit.items(), key=lambda x: int(x[0])):
     pk = int(pk)
-    if pk in ELLE: continue
+    if tur == 'yasa' and pk in ELLE: continue
     kaynak, metin, ocrmu = None, None, False
     if str(pk) in lo and lo[str(pk)].get('durum') == 'tamam':
         kaynak = 'libreoffice'; metin = open(os.path.join(REPO, lo[str(pk)]['metin_dosyasi']), encoding='utf-8').read()
@@ -52,8 +53,8 @@ for pk, k in sorted(kayit.items(), key=lambda x: int(x[0])):
     elif str(pk) in ocr and ocr[str(pk)].get('durum') == 'tamam':
         o = ocr[str(pk)]; kaynak = o.get('yontem', 'ocr'); ocrmu = kaynak.startswith('ocr')
         metin = open(os.path.join(REPO, o['metin_dosyasi']), encoding='utf-8').read()
-    if not metin: istat['metin yok'] += 1; continue
-    metin = metin.replace('\r', '').replace('\f', '\n').replace('\xa0', ' ')
+    if not metin: istat[tur + ' metin yok'] += 1; continue
+    metin = metin.replace('\r', '').replace('\f', '\n').replace('\xa0', ' ').replace('\ufffd', '')  # okunamayan karakterler (kaynak dosyada da bozuk) çıkarılır
     if ocrmu: metin = re.sub(r'\[SAYFA \d+\]\n?', '\n', metin)
     b = govde_bas(metin)
     ms = []
@@ -68,13 +69,13 @@ for pk, k in sorted(kayit.items(), key=lambda x: int(x[0])):
         ayirma = 'madde'
     else:
         maddeler = parcala(metin); ayirma = 'parca'
-    istat[ayirma + (' (ocr)' if ocrmu else '')] += 1
+    istat[tur + ' ' + ayirma + (' (ocr)' if ocrmu else '')] += 1
     if ocrmu:  # yazı tanımada kenar başlıkları güvenilir okunamıyor; yanıltmasın diye boş bırakılır
         for m in maddeler: m['baslik'] = ''
     ornek = ' ' + metin[:20000].lower() + ' '
     ingilizce = ornek.count(' the ') + ornek.count(' of ') > 3 * (ornek.count(' ve ') + ornek.count(' bir ') + 1)
     ad = re.sub(r'\s+', ' ', k['ad']).strip()
-    yasalar.append({'p': pk, 'n': re.sub(r'\s+', ' ', str(k['numara'])), 'a': ad, 'u': k['url'], 'k': kaynak, 'o': ocrmu,
+    yasalar.append({'p': pk if tur == 'yasa' else 'T' + str(pk), 'tz': tur == 'tuzuk', 'n': re.sub(r'\s+', ' ', str(k['numara'])), 'a': ad, 'u': k['url'], 'k': kaynak, 'o': ocrmu,
                     'y': ayirma, 'en': ingilizce, 'kd': bool(re.search(r'yürürlükten\s+kaldır|ilga edil', ad, re.I)), 'm': maddeler})
 
 # elle doğrulanmış yasalar da dizine girer (metinleri sayfanın içinde; burada yalnızca arama anahtarları)
@@ -102,7 +103,7 @@ for y, tf in zip(yasalar, tfs):
     if boy + len(j.encode()) > PAKET_BAYT and paket:
         paketler.append(paket); paket, boy = {}, 0
     paket[str(y['p'])] = y['m']; boy += len(j.encode())
-    dizin.append({x: y[x] for x in ('p', 'n', 'a', 'u', 'k', 'o', 'y', 'kd', 'en') if x in y} | {'mc': len(y['m']), 'b': len(paketler), 'kw': ' '.join(top), 'bs': basliklar})
+    dizin.append({x: y[x] for x in ('p', 'n', 'a', 'u', 'k', 'o', 'y', 'kd', 'en', 'tz') if x in y and y[x] is not False} | {'mc': len(y['m']), 'b': len(paketler), 'kw': ' '.join(top), 'bs': basliklar})
 if paket: paketler.append(paket)
 os.makedirs(os.path.join(D, 'app/pub'), exist_ok=True)
 for f in os.listdir(os.path.join(D, 'app/pub')):

@@ -92,7 +92,7 @@ def ayir(text, bas_konum=0, son=None, en_fazla_atlama=4):
 def govde_bas(text):
     """Yasanın asıl metninin başladığı yer: "Bu Yasa ... olarak isimlendirilir" cümlesinden hemen önceki "1." numarası."""
     text = text.replace('\r', '').replace('\f', '\n').replace('\xa0', ' ')
-    m = re.search(r'Bu Yasa[^\n]{0,120}?(?:isimlendiril|anıl|adlandırıl|denir|olarak an)', text)
+    m = re.search(r'Bu (?:Yasa|Tüzük|Yönetmelik|Kural|Kanun)[^\n]{0,120}?(?:isimlendiril|anıl|adlandırıl|denir|olarak an)', text)
     if not m: return 0
     pencere = text[max(0, m.start() - 200):m.start()]
     k = [x.start() for x in re.finditer(r'(?<![\d/])[1l]\.', pencere)]
