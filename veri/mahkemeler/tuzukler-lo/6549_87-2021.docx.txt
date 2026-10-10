@@ -1,0 +1,224 @@
+﻿
+Sayı : 87
+182
+
+
+ÇEVRE YASASI
+(18/2012, 30/2014 ve 34/2020 Sayılı Yasalar) Madde 9 Altında Yapılan Tüzük
+Kuzey Kıbrıs Türk Cumhuriyeti Bakanlar Kurulu, Çevre Yasası'nın 9'uncu maddesinin kendisine verdiği yetkiye dayanarak aşağıdaki Tüzüğü yapar:
+Kısa İsim	ı.
+
+Tefsir	2.
+Bu Tüzük, Atık Yönetimi Tüzüğü olarak isimlendirilir.
+BİRİNCİ KISIM
+Genel Kurallar
+Bu Tüzük'te metin başka türlü gerektirmedikçe;
+"Acil Durum veya Ciddi Tehlike Durumu," Tehlikeli atık olan veya olduğuna inanılan bir madde veya nesneden kaynaklanan mevcut veya tehdit edici bir durumu ve/veya insan veya çevreye tehdit oluşturulan durumu anlatır.
+"Alıcı," Atığın geri kazanım veya bertarafına yönelik olarak taşıdığı ve taşınacağı kişiyi anlatır.
+"Arıtma," Geri kazanım veya bertaraf işlemleri öncesi işlemler de dahil olmak üzere, geri kazanım veya bertaraf işlemlerini anlatır.
+"Atık", Sahibinin bertaraf ettiği veya bertaraf etmek niyetinde olduğu veya bertaraf etmesi gereken herhangi bir madde veya cismi anlatır.
+"Atık Sahibi," Atık üreticisini veya atığı fiilen elinde bulunduran gerçek veya tüzel kişiyi anlatır.
+"Atık Taşıma Belgesi," Atığın bulunduğu yerden atık yönetimi tesisine kadar taşıma işlemlerinde kullanılan, kayıt ve beyanları içeren belgeyi anlatır.
+"Atık Üreticisi," Faaliyetleri sonucu atık oluşumuna neden olan asıl üretici kişi ve/veya atığın bileşiminde veya yapısında bir değişikliğe neden olacak ön işleme, karıştırma veya diğer işlemleri yapan gerçek veya tüzel kişiyi anlatır.
+"Atık Yönetimi," Atığın toplanması, taşınması, geri kazanımı ve bertaraf edilmesiyle birlikte bu tarz işlemlerin izlenmesi, denetlenmesi ve bertaraf alanlarının işlem sonrası bakımı ve aracıların gerçekleştirdikleri eylemleri anlatır
+"Atık Yönetimi Tesisi," Yeniden kullanıma hazırlık dahil olmak üzere, bertaraf, arıtma, geri kazanım veya geri dönüşüm işlemlerinin gerçekleştirildiği bir alan veya tesisi anlatır.
+"Ayrı Toplama," Bir atık türünün, tür ve kaynağına yönelik özel arıtımını kolaylaştırmak adına ayrı olarak toplanmasını anlatır.
+"Bakanlık," Çevre Koruma Dairesi'nin bağlı olduğu Bakanlığı anlatır. "Belediye Atığı", Evlerden kaynaklanan atıkları ve bileşim veya nitelik olarak evsel atıklara benzeyen diğer atıkları anlatır.
+"Bertaraf," İkincil amacı enerji geri kazanımı olsa dahi geri kazanım olarak kabul edilmeyen ve bu Tüzüğe ekli Ek I'de yer alan işlemlerden herhangi birini anlatır.
+"Biyo-atık," Biyobozunur bahçe ve park atıkları, gıda, evsel faaliyetler,
+183
+184
+185
+186
+187
+188
+189
+190
+191
+192
+193
+194
+195
+196
+197
+198
+199
+200
+201
+202
+203
+204
+205
+
+
+
+EkII
+Geri kazanım işlemleri (Madde 2)
+Aşağıdaki geri kazanım işlemlerinin ayrıntılandırılmamış listesidir.
+
+
+G 1
+Yakıt olarak veya diğer araçlar olarak enerji üretimine yönelik kullanım ve Belediye atığı işlenmesine yönelik yakma tesislerini ve enerji yeterliliği olan;
+    • Bu Tüzüğün yürürlüğe girmesinden önce ilgili mevzuat uyarınca faaliyet gösteren ve izinlendirilmiş tesislerde 0.60'a eşit veya 0.60'dan fazla olan, ve
+    • Bu Tüzüğün yürürlüğe girmesini takiben ise 0.65'e eşit veya 0.65'ten fazla olan tesisleri kapsar.
+Kullanılan formül Enerji Yeterliliği = (Ep -( Ef + Ei)) / (0.97 x (Ew + Ef))
+Formülün açıklaması:
+Ep Isı veya elektrik olarak üretilen yıllık enerji miktarını anlatır. Elektrik formunda üretilen enerjinin 2.6 ile çarpılması ve ticari kullanım amaçları doğrultusunda üretilen ısının 1. 1 ile çarpılması ile hesaplanır (Gj/yıl)
+Ef Buhar üretimi için kullanılan yakıttan sisteme giriş yapan yıllık enerji miktarını anlatır (Gj/yıl)
+Ew Atığın net kalorifık değerinin kullanılması ile hesaplanan arıtılmış atıkta bulunan yıllık enerji miktarını anlatır (Gj/yıl)
+Ei Yıllık Ew ve Ef değerleri hariç ithal edilen enerjiyi anlatır (Gj/yıl)
+0.97 Dip külü ve radyasyon kaynaklı enerji kayıplarını hesaplamada kullanılan bir faktördür.
+
+
+
+G2
+Çözücü iyileştirilmesi/rejenerasyonu
+
+
+
+G3
+Çözücü olarak kullanılmayan organik maddelerin geri dönüşümü/iyileştirilmesi (kompostlama ve diğer biyolojik değişim işlemleri de dahil olmak üzere) bu bileşenlerin kimyasallar olarak kullanıldığı gaz
+haline getirme ve piroliz işlemlerini de içerir.
+
+206
+207
+208
+209
+
+
+
+EkIV
+Atık Önleme Programları
+(Madde 11)
+
+1.
+Atık önleme programları atık önleme hedeflerini ve bu hedefleri karşılamak adına gerekli atık önleme tedbirlerini belirtir. Sözkonusu tedbir ve hedeflerin amacı ekonomik gelişim ile atıkların oluşumu ile ilgili çevresel etkiler arasındaki bağı
+ortadan kaldırmaktır.
+
+2.
+Atık önleme programları mevcut önleme tedbirlerinin etkinliğini tanımlar ve
+değerlendirir.
+
+3.
+Atık önleme programları önleyici tedbirlerin, kabul edilmiş niteliksel veya niceliksel lastas ve göstergelere kıyasla işlev ve etkinliğini değerlendirir.
+
+4.
+Atık Önleme Programları önleyici tedbirlerin veya diğer uygun tedbirlerin,
+aşağıdaki fıkralarda belirtilenlerde dahil, kullanışlılığını değerlendirir:
+
+
+(1)
+Atık üretimi ile ilgili çerçeve koşullarını etkileyebilecek tedbirler:
+
+
+
+(A)
+Kaynakların etkin kullanımını teşvik eden planlama tedbirleri veya
+diğer ekonomik araçların kullanımı.
+
+
+
+(B)
+Daha temiz ve daha az atık üreten ürünler oluşturmak adına alan
+üzerinde araştırma ve geliştirmenin, yaygınlaştırmanın, sözkonusu araştımaların sonuçlarının kullanımının ve gelişimin teşviki.
+
+
+
+(C)
+Yerel yetkililerin eylemleri aracılığı ile ürün karşılaştırmalarından ulusal tedbirlere kadar tüm seviyelerdeki atık oluşumunu önlemeye yardımcı olmayı amaçlayan atık üretimi ile ilgili çevresel tehditlere
+yönelik etldn ve anlamlı göstergelerin gelişimi.
+
+
+(2)
+Tasarı, üretim ve dağıtım aşamalarını etkileyebilecek tedbirler:
+
+
+
+(A)
+Eko-tasarımın teşviki (çevresel konuların ürünün tüm yaşam döngüsü dahilinde çevresel performansını artırmayı amaçlayan ürün
+tasarımına sistemli birleştirimi).
+
+
+
+(B)
+Sanayi tarafından mevcut en iyi tekniklerin uygulanınasını
+kolaylaştırma ile ilgili atık önleme telmikleri üzerine bilgiler.
+
+
+
+(C)
+Verilen izin ve/veya lisanslara atık önleme gerekliliklerinin dahil
+edilmesine dair yetkili makamlara yönelik eğitim düzenlenmesi.
+
+
+
+(Ç)
+İzin gerektiren tesislerde atık üretiminin engellenmesine yönelik
+tedbirler alınması. Sözkonusu tedbirler, uygun olduğu yerlerde, atık önleme değerlendirmeleri veya planlarını da içerebilir.
+
+
+
+(D)
+Farkındalık artırımı kampanyalarının veya mali hükmün kullanımı, karar alma veya işletmelere yönelik diğer destek. Sözkonusu tedbirler, fayda sağlamaları hedeflenen yerlerde özellikle etkili olur ve, küçük ve orta ölçekli işletmeler ile iş ağları aracılığıyla
+kurulmuş işlere uyarlanır.
+
+
+
+(E)
+İlgili iş veya sanayi sektörlerinin kendi atık önleme planları veya hedeflerini belirlemeleri veya ürün veya ambalajların gereksiz
+kullanımının	düzeltilmesi	adına	gönüllülük	anlaşmalarının kullanımı, tüketici/üretici panelleri veya sektörel uzlaşılar.
+
+
+
+(F)
+Güvenilir çevresel yönetim sistemlerinin, Eko-Yönetim ve Denetim
+Programı dahil olmak üzere teşviki.
+
+
+
+Tüketim ve kullanım aşamalarını etkileyebilecek tedbirler:
+
+
+
+(A)
+Temiz
+alıma
+yönelik
+teşvikler
+veya
+tüketicilerin
+verilen
+210
+211
+212
+213
+214
+215
+216
+217
+218
+219
+220
+221
+222
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
