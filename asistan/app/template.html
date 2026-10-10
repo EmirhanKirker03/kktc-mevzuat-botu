@@ -3,83 +3,147 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,500;8..60,650&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
 <style>
-/* Layout: a legal-registry desk — question and answer on the left, the statute sheets it rests on stacked on the right; one column on phones. */
+/* Layout: bir çalışma masası — solda sabit menü (telefonda altta gezinti çubuğu), ortada tek iş: sor → cevap → dayanaklar; kaynak kartları kapalı gelir, dokununca açılır. */
 :root{
-  --paper:#f6f7f5; --sheet:#ffffff; --ink:#1b2422; --muted:#5a6663; --rule:#d9dfdc;
-  --seal:#1f5c56; --seal-soft:#e2eeec; --warn:#8a5a00; --warn-soft:#fbf1dc; --bad:#9b2c2c; --bad-soft:#f8e4e4; --ok:#2e6b3a; --ok-soft:#e3f1e5;
+  --paper:#f4f6f5; --sheet:#ffffff; --ink:#18211f; --muted:#5b6865; --rule:#dde3e0; --rule-2:#c9d2ce;
+  --seal:#1f5c56; --seal-ink:#ffffff; --seal-soft:#e3efec; --side:#14302c; --side-ink:#e8f0ee; --side-muted:#9fb7b2;
+  --warn:#8a5a00; --warn-soft:#fbf1dc; --bad:#9b2c2c; --bad-soft:#f8e4e4; --ok:#2e6b3a; --ok-soft:#e3f1e5;
   --f-display:"Source Serif 4", Georgia, "Times New Roman", serif;
   --f-body:"IBM Plex Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
   --f-mono:"IBM Plex Mono", ui-monospace, Menlo, Consolas, monospace;
+  --r:8px; --navh:62px;
 }
 @media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
-  --paper:#111816; --sheet:#18211f; --ink:#e4ebe8; --muted:#9aa8a4; --rule:#2c3936;
-  --seal:#7cc4b8; --seal-soft:#1d3330; --warn:#e6b85c; --warn-soft:#2f2614; --bad:#ef9a9a; --bad-soft:#341c1c; --ok:#8fd19c; --ok-soft:#1b2e20; color-scheme:dark}}
+  --paper:#0f1614; --sheet:#17201e; --ink:#e4ebe8; --muted:#9aa8a4; --rule:#26332f; --rule-2:#34443f;
+  --seal:#7cc4b8; --seal-ink:#0f1614; --seal-soft:#1b302c; --side:#0b1311; --side-ink:#e4ebe8; --side-muted:#8fa49f;
+  --warn:#e6b85c; --warn-soft:#2f2614; --bad:#ef9a9a; --bad-soft:#341c1c; --ok:#8fd19c; --ok-soft:#1b2e20; color-scheme:dark}}
 :root[data-theme="dark"]{
-  --paper:#111816; --sheet:#18211f; --ink:#e4ebe8; --muted:#9aa8a4; --rule:#2c3936;
-  --seal:#7cc4b8; --seal-soft:#1d3330; --warn:#e6b85c; --warn-soft:#2f2614; --bad:#ef9a9a; --bad-soft:#341c1c; --ok:#8fd19c; --ok-soft:#1b2e20; color-scheme:dark}
+  --paper:#0f1614; --sheet:#17201e; --ink:#e4ebe8; --muted:#9aa8a4; --rule:#26332f; --rule-2:#34443f;
+  --seal:#7cc4b8; --seal-ink:#0f1614; --seal-soft:#1b302c; --side:#0b1311; --side-ink:#e4ebe8; --side-muted:#8fa49f;
+  --warn:#e6b85c; --warn-soft:#2f2614; --bad:#ef9a9a; --bad-soft:#341c1c; --ok:#8fd19c; --ok-soft:#1b2e20; color-scheme:dark}
 *{box-sizing:border-box}
+[hidden]{display:none!important}
 body{background:var(--paper);color:var(--ink);font-family:var(--f-body);font-size:15px;line-height:1.55}
-.wrap{max-width:1180px;margin:0 auto;padding-inline:20px;padding-block:20px 48px}
-header{display:flex;flex-wrap:wrap;align-items:flex-end;justify-content:space-between;gap:12px;border-bottom:2px solid var(--ink);padding-bottom:12px}
-h1{font-family:var(--f-display);font-weight:650;font-size:clamp(26px,4vw,34px);line-height:1.1;margin:0;text-wrap:balance}
-.sub{color:var(--muted);margin:4px 0 0;font-size:14px}
-.reg{font-family:var(--f-mono);font-size:12px;color:var(--muted);text-align:right;line-height:1.5}
-.notice{margin:14px 0 0;background:var(--warn-soft);color:var(--ink);border-left:3px solid var(--warn);padding:10px 14px;font-size:13.5px}
-.notice b{color:var(--warn)}
-nav.tabs{display:flex;gap:4px;margin:18px 0 0;border-bottom:1px solid var(--rule);overflow-x:auto;scrollbar-width:none}
-nav.tabs button{white-space:nowrap;flex:none;font:inherit;font-weight:500;background:none;border:0;border-bottom:2px solid transparent;color:var(--muted);padding:8px 12px;cursor:pointer;margin-bottom:-1px}
-nav.tabs button[aria-selected="true"]{color:var(--ink);border-bottom-color:var(--seal)}
-button:focus-visible,textarea:focus-visible,a:focus-visible,summary:focus-visible{outline:2px solid var(--seal);outline-offset:2px}
-.grid{display:grid;grid-template-columns:minmax(0,1.05fr) minmax(0,1fr);gap:28px;margin-top:20px}
-@media (max-width:860px){.grid{grid-template-columns:1fr}}
-.col{min-width:0;display:flex;flex-direction:column;gap:14px}
-label.lab{font-size:12px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);font-weight:600}
-textarea{width:100%;min-height:96px;resize:vertical;font:inherit;color:var(--ink);background:var(--sheet);border:1px solid var(--rule);border-radius:4px;padding:12px}
+button,input,textarea{font:inherit}
+button:focus-visible,textarea:focus-visible,input:focus-visible,a:focus-visible,summary:focus-visible{outline:2px solid var(--seal);outline-offset:2px}
+
+/* kabuk */
+.app{display:grid;grid-template-columns:248px minmax(0,1fr);min-height:100vh}
+.side{background:var(--side);color:var(--side-ink);position:sticky;top:0;height:100vh;display:flex;flex-direction:column;gap:18px;padding:22px 14px;overflow:auto}
+.brand{padding-inline:8px}
+.brand h1{font-family:var(--f-display);font-weight:650;font-size:21px;line-height:1.15;margin:0}
+.brand p{margin:4px 0 0;font-size:12.5px;color:var(--side-muted)}
+nav.nav{display:flex;flex-direction:column;gap:2px}
+nav.nav button{display:flex;align-items:center;gap:10px;width:100%;text-align:left;background:none;border:0;color:var(--side-ink);padding:9px 10px;border-radius:6px;cursor:pointer;font-weight:500;font-size:14.5px}
+nav.nav button svg{width:18px;height:18px;flex:none;stroke:currentColor;fill:none;stroke-width:1.7;stroke-linecap:round;stroke-linejoin:round;opacity:.85}
+nav.nav button:hover{background:rgba(255,255,255,.06)}
+nav.nav button[aria-selected="true"]{background:rgba(124,196,184,.18);color:#ffffff}
+nav.nav .grp{font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--side-muted);padding:14px 10px 4px}
+.sidefoot{margin-top:auto;font-size:12px;color:var(--side-muted);padding-inline:8px;display:flex;flex-direction:column;gap:8px}
+.sidefoot .stat{font-family:var(--f-mono);font-variant-numeric:tabular-nums;color:var(--side-ink);font-size:12px;line-height:1.6}
+.sidefoot .proto{border-left:2px solid #e6b85c;padding-left:8px}
+.morebtn{display:none!important}
+.main{min-width:0;padding-inline:clamp(16px,3.5vw,44px);padding-block:26px 60px}
+.pane-head{display:flex;flex-wrap:wrap;align-items:flex-end;justify-content:space-between;gap:8px 16px;margin-bottom:16px}
+.pane-head h2{font-family:var(--f-display);font-weight:650;font-size:clamp(22px,2.6vw,28px);line-height:1.15;margin:0;text-wrap:balance}
+.pane-head p{margin:4px 0 0;color:var(--muted);font-size:14px;max-width:75ch}
+.topbar{display:none}
+
+/* telefon: üstte ince başlık, altta gezinti */
+@media (max-width:820px){
+  .app{grid-template-columns:1fr}
+  .side{position:fixed;inset:auto 0 0 0;top:auto;height:auto;padding:0;padding-bottom:env(safe-area-inset-bottom,0px);flex-direction:row;z-index:20;border-top:1px solid var(--rule-2);overflow:visible}
+  .brand,.sidefoot,nav.nav .grp,nav.nav .sec{display:none}
+  nav.nav{flex-direction:row;width:100%;gap:0}
+  nav.nav button{flex:1;flex-direction:column;gap:3px;font-size:11px;padding:8px 2px;border-radius:0;justify-content:center;text-align:center;min-height:var(--navh)}
+  nav.nav button[aria-selected="true"]{background:transparent;color:#7cc4b8}
+  .morebtn{display:flex!important}
+  .menu{position:fixed;right:10px;bottom:calc(var(--navh) + 10px + env(safe-area-inset-bottom,0px));background:var(--sheet);color:var(--ink);border:1px solid var(--rule-2);border-radius:var(--r);box-shadow:0 10px 30px rgba(0,0,0,.18);padding:6px;display:flex;flex-direction:column;min-width:220px;z-index:30}
+  .menu button{background:none;border:0;text-align:left;padding:11px 12px;border-radius:6px;color:var(--ink);cursor:pointer}
+  .menu button:hover{background:var(--seal-soft)}
+  .main{padding-block:12px calc(var(--navh) + 28px + env(safe-area-inset-bottom,0px))}
+  .topbar{display:flex;align-items:center;justify-content:space-between;gap:10px;margin-bottom:12px}
+  .topbar b{font-family:var(--f-display);font-size:18px}
+  .topbar span{font-size:11.5px;color:var(--warn);background:var(--warn-soft);border-radius:999px;padding:2px 9px}
+}
+
+/* ortak bileşenler */
 .row{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
-.btn{font:inherit;font-weight:600;border-radius:4px;padding:9px 16px;cursor:pointer;border:1px solid var(--seal);background:var(--seal);color:var(--sheet)}
+.btn{font-weight:600;border-radius:6px;padding:9px 16px;cursor:pointer;border:1px solid var(--seal);background:var(--seal);color:var(--seal-ink)}
 .btn.ghost{background:transparent;color:var(--seal)}
 .btn:disabled{opacity:.55;cursor:default}
 .chips{display:flex;flex-wrap:wrap;gap:6px}
-.chip{font:inherit;font-size:13px;background:var(--sheet);color:var(--ink);border:1px solid var(--rule);border-radius:999px;padding:5px 11px;cursor:pointer;text-align:left}
+.chip{font-size:13px;background:var(--sheet);color:var(--ink);border:1px solid var(--rule-2);border-radius:999px;padding:5px 11px;cursor:pointer;text-align:left}
 .chip:hover{border-color:var(--seal)}
-.answer{background:var(--sheet);border:1px solid var(--rule);border-radius:4px;padding:16px 18px}
-.answer h2{font-family:var(--f-display);font-weight:650;font-size:19px;margin:0 0 8px}
-.answer p{margin:0 0 10px;max-width:68ch}
-.points{margin:0;padding-left:20px;display:flex;flex-direction:column;gap:8px}
-.points li{max-width:68ch}
-.cite{font-family:var(--f-mono);font-size:12px;background:var(--seal-soft);color:var(--seal);border:0;border-radius:3px;padding:1px 6px;margin-left:4px;cursor:pointer;white-space:nowrap}
-.check{display:flex;gap:8px;align-items:flex-start;font-size:13px;padding:8px 10px;border-radius:4px;margin-top:10px}
+.chip.on{background:var(--seal);border-color:var(--seal);color:var(--seal-ink)}
+.seg{display:inline-flex;background:var(--sheet);border:1px solid var(--rule-2);border-radius:999px;padding:3px;gap:2px;flex-wrap:wrap}
+.seg button{background:none;border:0;border-radius:999px;padding:6px 14px;cursor:pointer;color:var(--muted);font-weight:500;font-size:13.5px}
+.seg button[aria-pressed="true"]{background:var(--seal);color:var(--seal-ink)}
+.muted{color:var(--muted)} .small{font-size:13px}
+.state{font-size:14px;color:var(--muted);padding:6px 0}
+label.lab,.lab{font-size:11.5px;letter-spacing:.07em;text-transform:uppercase;color:var(--muted);font-weight:600}
+textarea{width:100%;min-height:96px;resize:vertical;color:var(--ink);background:var(--sheet);border:1px solid var(--rule-2);border-radius:var(--r);padding:12px}
+input[type=search],input[type=text]{color:var(--ink);background:var(--sheet);border:1px solid var(--rule-2);border-radius:var(--r);padding:11px 14px;width:100%;max-width:640px}
+
+/* sor ekranı */
+.ask{background:var(--sheet);border:1px solid var(--rule-2);border-radius:12px;padding:6px;display:flex;flex-direction:column;gap:6px;box-shadow:0 1px 2px rgba(0,0,0,.04)}
+.ask textarea{border:0;min-height:58px;font-size:16.5px;padding:12px 12px 4px;resize:none;background:transparent}
+.ask textarea:focus-visible{outline:none}
+.ask:focus-within{border-color:var(--seal);box-shadow:0 0 0 3px var(--seal-soft)}
+.askbar{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:8px;padding:2px 6px 4px 10px}
+.switch{display:inline-flex;align-items:center;gap:8px;font-size:13px;color:var(--muted);cursor:pointer}
+.switch input{appearance:none;width:34px;height:20px;border-radius:999px;background:var(--rule-2);position:relative;cursor:pointer;flex:none;margin:0}
+.switch input::after{content:"";position:absolute;top:3px;left:3px;width:14px;height:14px;border-radius:50%;background:var(--sheet);transition:left .15s}
+.switch input:checked{background:var(--seal)} .switch input:checked::after{left:17px}
+.examples{margin-top:12px;display:flex;flex-direction:column;gap:6px}
+.sorulmus .examples{display:none}
+@media (max-width:820px){.examples .chips{flex-wrap:nowrap;overflow-x:auto;scrollbar-width:none;padding-bottom:2px}.examples .chip{white-space:nowrap;flex:none}.askbar .row{width:100%;justify-content:flex-end}}
+.results{display:grid;grid-template-columns:minmax(0,1.15fr) minmax(0,1fr);gap:24px;margin-top:20px;align-items:start}
+@media (max-width:1100px){.results{grid-template-columns:1fr}}
+.col{min-width:0;display:flex;flex-direction:column;gap:12px}
+.sec-h{display:flex;align-items:baseline;justify-content:space-between;gap:8px;margin-top:4px}
+.sec-h h3{font-family:var(--f-display);font-weight:650;font-size:17px;margin:0}
+.answer{background:var(--sheet);border:1px solid var(--rule);border-radius:var(--r);padding:18px 20px}
+.answer h2{font-family:var(--f-display);font-weight:650;font-size:20px;margin:0 0 8px}
+.answer p{margin:0 0 10px;max-width:70ch}
+.points{margin:0;padding-left:20px;display:flex;flex-direction:column;gap:9px}
+.points li{max-width:70ch}
+.cite{font-family:var(--f-mono);font-size:12px;background:var(--seal-soft);color:var(--seal);border:0;border-radius:4px;padding:1px 6px;margin-left:4px;cursor:pointer;white-space:nowrap}
+.check{display:flex;gap:8px;align-items:flex-start;font-size:13px;padding:8px 10px;border-radius:6px;margin-top:10px}
 .check.ok{background:var(--ok-soft);color:var(--ink)} .check.ok b{color:var(--ok)}
 .check.warn{background:var(--warn-soft)} .check.warn b{color:var(--warn)}
 .check.bad{background:var(--bad-soft)} .check.bad b{color:var(--bad)}
-.muted{color:var(--muted)} .small{font-size:13px}
-.state{font-size:14px;color:var(--muted);padding:6px 0}
-.sheet{background:var(--sheet);border:1px solid var(--rule);border-radius:4px;padding:14px 16px;scroll-margin-top:16px}
+
+/* kaynak kartları: kapalı gelir, başlığa dokununca açılır */
+.sheet{background:var(--sheet);border:1px solid var(--rule);border-radius:var(--r);padding:12px 14px;scroll-margin-top:16px;position:relative}
 .sheet.flash{box-shadow:0 0 0 2px var(--seal)}
 .sheet header{all:unset;display:flex;flex-wrap:wrap;gap:6px 10px;align-items:baseline;justify-content:space-between}
-.mno{font-family:var(--f-mono);font-size:12.5px;color:var(--seal);font-weight:500}
-.sheet h3{font-family:var(--f-display);font-weight:650;font-size:17px;margin:2px 0 6px;text-wrap:balance}
-.badge{font-size:11.5px;font-weight:600;letter-spacing:.03em;border-radius:3px;padding:2px 7px;white-space:nowrap}
+.mno{font-family:var(--f-mono);font-size:12px;color:var(--seal);font-weight:500}
+.sheet h3{font-family:var(--f-display);font-weight:650;font-size:16.5px;margin:2px 0 6px;text-wrap:balance}
+.badge{font-size:11px;font-weight:600;letter-spacing:.03em;border-radius:4px;padding:2px 7px;white-space:nowrap}
 .badge.live{background:var(--ok-soft);color:var(--ok)} .badge.chg{background:var(--warn-soft);color:var(--warn)} .badge.gone{background:var(--bad-soft);color:var(--bad)}
-.txt{font-family:var(--f-display);font-size:14.5px;line-height:1.6;white-space:pre-wrap;overflow-wrap:anywhere;max-height:230px;overflow:auto;border-top:1px solid var(--rule);padding-top:8px;margin:0}
+.txt{font-family:var(--f-display);font-size:14.5px;line-height:1.6;white-space:pre-wrap;overflow-wrap:anywhere;max-height:260px;overflow:auto;border-top:1px solid var(--rule);padding-top:8px;margin:0}
+article.sheet > header, article.sheet > h3{cursor:pointer}
+article.sheet:not(.open) > .txt, .kcard:not(.open) > .txt{max-height:4.9em;overflow:hidden;-webkit-mask-image:linear-gradient(#000 55%,transparent);mask-image:linear-gradient(#000 55%,transparent)}
+article.sheet:not(.open) > .amd, article.sheet:not(.open) > .rv, .kcard:not(.open) > .kfull, .kcard:not(.open) > .rv{display:none!important}
+.ac{background:none;border:0;color:var(--seal);font-weight:600;font-size:13px;cursor:pointer;padding:6px 0 0}
 .amd{margin-top:10px;border-left:3px solid var(--warn);padding:6px 0 6px 12px}
 .amd .who{font-size:12.5px;font-weight:600;color:var(--warn)}
 .amd .what{font-size:13.5px;margin:2px 0 4px}
 .amd .txt{max-height:180px;border-top:0;padding-top:0;font-size:14px}
 .src{font-size:12.5px;color:var(--muted);margin-top:8px}
 .src a{color:var(--seal)}
-.list{display:flex;flex-direction:column;gap:10px;margin-top:18px}
+.list{display:flex;flex-direction:column;gap:8px;margin-top:14px}
 details.sheet summary{cursor:pointer;list-style:none;display:flex;gap:10px;align-items:baseline;flex-wrap:wrap}
 details.sheet summary::-webkit-details-marker{display:none}
 details.sheet summary .t{font-family:var(--f-display);font-weight:650;font-size:16px}
-footer{margin-top:36px;border-top:1px solid var(--rule);padding-top:12px;font-size:12.5px;color:var(--muted);display:flex;flex-direction:column;gap:4px}
+details.sheet[open]{border-color:var(--rule-2)}
+footer{margin-top:40px;border-top:1px solid var(--rule);padding-top:12px;font-size:12.5px;color:var(--muted);display:flex;flex-direction:column;gap:4px}
 table.laws{border-collapse:collapse;font-size:13px;width:100%}
-table.laws td,table.laws th{border-bottom:1px solid var(--rule);padding:6px 8px;text-align:left;vertical-align:top}
-table.laws th{font-weight:600;color:var(--muted);font-size:12px;letter-spacing:.04em;text-transform:uppercase}
+table.laws td,table.laws th{border-bottom:1px solid var(--rule);padding:7px 8px;text-align:left;vertical-align:top}
+table.laws th{font-weight:600;color:var(--muted);font-size:11.5px;letter-spacing:.05em;text-transform:uppercase}
 .tw{overflow-x:auto}
 .catbar{display:flex;flex-direction:column;gap:10px;margin-top:14px}
-#cq{font:inherit;color:var(--ink);background:var(--sheet);border:1px solid var(--rule);border-radius:4px;padding:10px 12px;width:100%;max-width:560px}
-.chip.on{background:var(--seal);border-color:var(--seal);color:var(--sheet)}
 .catstats{font-family:var(--f-mono);font-size:12px;color:var(--muted);margin-top:10px;font-variant-numeric:tabular-nums}
 .catlist{display:flex;flex-direction:column;margin-top:8px;border-top:1px solid var(--rule)}
 .crow{display:grid;grid-template-columns:minmax(0,1fr);gap:4px;padding:10px 2px;border-bottom:1px solid var(--rule)}
@@ -89,78 +153,92 @@ table.laws th{font-weight:600;color:var(--muted);font-size:12px;letter-spacing:.
 .docs{display:flex;flex-wrap:wrap;gap:4px 6px;font-family:var(--f-mono);font-size:12px;font-variant-numeric:tabular-nums}
 .docs a{color:var(--seal);text-decoration:none;border:1px solid var(--rule);border-radius:3px;padding:1px 6px;white-space:nowrap}
 .docs a.e{border-color:var(--seal);font-weight:500}
-.docs a:hover{border-color:var(--seal)}
 .docs .more{font:inherit;background:none;border:0;color:var(--muted);cursor:pointer;padding:1px 4px;text-decoration:underline}
+.catrow:hover{background:var(--seal-soft)!important}
 .rv{display:none;flex-wrap:wrap;gap:6px;align-items:center;margin-top:10px;padding-top:8px;border-top:1px dashed var(--rule)}
 body.rv-on .rv{display:flex}
-.rv .lbl{font-size:11.5px;letter-spacing:.05em;text-transform:uppercase;color:var(--muted);font-weight:600;margin-right:2px}
-.rv button.rvb{font:inherit;font-size:12.5px;background:var(--sheet);color:var(--ink);border:1px solid var(--rule);border-radius:999px;padding:3px 10px;cursor:pointer}
+.rv .lbl{font-size:11px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);font-weight:600;margin-right:2px}
+.rv button.rvb{font-size:12.5px;background:var(--sheet);color:var(--ink);border:1px solid var(--rule-2);border-radius:999px;padding:3px 10px;cursor:pointer}
 .rv button.rvb:hover{border-color:var(--seal)}
-.rv button.rvb.on{background:var(--seal);border-color:var(--seal);color:var(--sheet)}
+.rv button.rvb.on{background:var(--seal);border-color:var(--seal);color:var(--seal-ink)}
 .rvform{flex-basis:100%;display:flex;flex-direction:column;gap:6px;margin-top:4px}
 .rvform textarea{min-height:64px;font-size:13.5px}
 .rvstat{font-size:12px}
 .rvlist{display:flex;flex-direction:column;gap:8px;margin-top:12px}
-.rvrow{background:var(--sheet);border:1px solid var(--rule);border-radius:4px;padding:10px 12px;font-size:13.5px}
+.rvrow{background:var(--sheet);border:1px solid var(--rule);border-radius:var(--r);padding:10px 12px;font-size:13.5px}
 .rvrow .who{font-size:12px;color:var(--muted)}
 .tiles{display:flex;flex-wrap:wrap;gap:10px;margin-top:14px}
-.tile{background:var(--sheet);border:1px solid var(--rule);border-radius:4px;padding:10px 14px;min-width:140px}
+.tile{background:var(--sheet);border:1px solid var(--rule);border-radius:var(--r);padding:10px 14px;min-width:140px}
 .tile b{display:block;font-family:var(--f-display);font-size:22px;font-variant-numeric:tabular-nums}
 .tile span{font-size:12px;color:var(--muted)}
-@media (prefers-reduced-motion:reduce){*{scroll-behavior:auto!important}}
+.grid{display:grid;grid-template-columns:minmax(0,1.05fr) minmax(0,1fr);gap:24px}
+@media (max-width:1000px){.grid{grid-template-columns:1fr}}
+@media (prefers-reduced-motion:reduce){*{scroll-behavior:auto!important;transition:none!important}}
 </style>
 
-<div class="wrap">
-  <header>
-    <div>
+<div class="app">
+  <aside class="side">
+    <div class="brand">
       <h1>KKTC Hukuk Asistanı</h1>
-      <p class="sub">Kira, Aile, İş, Tüketici, Trafik, Kat Mülkiyeti, Ceza, Ceza Muhakemeleri, Sözleşmeler, Haksız Fiiller, Hukuk Muhakemeleri, Miras ve Şirketler mevzuatı ile Yüksek Mahkeme kararları üzerinde, her cevabı kaynağıyla gösteren araştırma aracı</p>
+      <p>Mevzuat ve içtihat araştırması · her cevap kaynağıyla</p>
     </div>
-    <div class="reg">__YASA__ yasa · __MADDE__ madde · __KARAR__ karar<br>Güncellik: Ekim 2026<br>Kaynak: Yüksek Mahkeme ve Meclis</div>
-  </header>
-  <p class="notice"><b>Prototip.</b> Hukuki tavsiye değildir; son kontrol avukattadır. Metinler Yüksek Mahkeme ve Meclis'in resmî dosyalarından birebir alınmıştır; tarama kaynaklı yazım hataları içerebilir. Birleştirilmiş metinlerin Meclis'teki son değişiklikleri içerdiği kontrol edildi. Madde ayrımı otomatik yapıldı; avukat incelemesi bekliyor.</p>
+    <nav class="nav" role="tablist" aria-label="Bölümler">
+      <button role="tab" id="tab-ask" data-pane="pane-ask" aria-selected="true"><svg viewBox="0 0 24 24"><path d="M21 12a8 8 0 0 1-11.6 7.1L4 20l1-4.6A8 8 0 1 1 21 12z"/><path d="M9.5 9.5a2.5 2.5 0 1 1 3.3 2.4c-.5.2-.8.6-.8 1.1v.5M12 16.5h.01"/></svg>Sor</button>
+      <button role="tab" id="tab-browse" data-pane="pane-browse" aria-selected="false"><svg viewBox="0 0 24 24"><path d="M4 5a2 2 0 0 1 2-2h12v18H6a2 2 0 0 1-2-2z"/><path d="M8 7h6M8 11h6"/></svg>Mevzuat</button>
+      <button role="tab" id="tab-kar" data-pane="pane-kar" aria-selected="false"><svg viewBox="0 0 24 24"><path d="M12 3v18M5 7h14M7 7l-3 7a3 3 0 0 0 6 0zM17 7l-3 7a3 3 0 0 0 6 0z"/></svg>Kararlar</button>
+      <button role="tab" id="tab-file" data-pane="pane-file" aria-selected="false"><svg viewBox="0 0 24 24"><path d="M14 3H7a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2V8z"/><path d="M14 3v5h5M9 13h6M9 17h4"/></svg>Dosya özeti</button>
+      <button role="tab" id="tab-rv" data-pane="pane-rv" aria-selected="false" class="sec"><svg viewBox="0 0 24 24"><path d="M9 11l3 3 8-8"/><path d="M20 12v7a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h9"/></svg>Avukat incelemesi</button>
+      <div class="grp">Kaynaklar</div>
+      <button role="tab" id="tab-laws" data-pane="pane-laws" aria-selected="false" class="sec"><svg viewBox="0 0 24 24"><path d="M4 6h16M4 12h16M4 18h10"/></svg>Kaynak listesi</button>
+      <button role="tab" id="tab-cat" data-pane="pane-cat" aria-selected="false" class="sec"><svg viewBox="0 0 24 24"><path d="M3 7l9-4 9 4-9 4z"/><path d="M3 12l9 4 9-4M3 17l9 4 9-4"/></svg>Meclis kataloğu</button>
+      <button class="morebtn" id="morebtn" aria-haspopup="true" aria-expanded="false"><svg viewBox="0 0 24 24"><circle cx="5" cy="12" r="1.3"/><circle cx="12" cy="12" r="1.3"/><circle cx="19" cy="12" r="1.3"/></svg>Daha</button>
+    </nav>
+    <div class="sidefoot">
+      <div class="stat">__YASA__ yasa ve tüzük<br>__MADDE__ doğrulanmış madde<br>__KARAR__ Yüksek Mahkeme kararı<br>güncellik: Ekim 2026</div>
+      <div class="proto">Prototip, hukuki tavsiye değildir. Son kontrol avukattadır.</div>
+    </div>
+  </aside>
+  <div class="menu" id="menu" hidden>
+    <button data-go="pane-rv">Avukat incelemesi</button>
+    <button data-go="pane-laws">Kaynak listesi</button>
+    <button data-go="pane-cat">Meclis kataloğu</button>
+  </div>
 
-  <nav class="tabs" role="tablist">
-    <button role="tab" id="tab-ask" aria-selected="true" aria-controls="pane-ask">Soru sor</button>
-    <button role="tab" id="tab-file" aria-selected="false" aria-controls="pane-file">Dosya özeti</button>
-    <button role="tab" id="tab-browse" aria-selected="false" aria-controls="pane-browse">Maddeler</button>
-    <button role="tab" id="tab-kar" aria-selected="false" aria-controls="pane-kar">Kararlar</button>
-    <button role="tab" id="tab-laws" aria-selected="false" aria-controls="pane-laws">Kaynak yasalar</button>
-    <button role="tab" id="tab-ym" aria-selected="false" aria-controls="pane-ym">Tüm yasalar (metin)</button>
-    <button role="tab" id="tab-cat" aria-selected="false" aria-controls="pane-cat">Meclis kataloğu</button>
-    <button role="tab" id="tab-rv" aria-selected="false" aria-controls="pane-rv">Avukat incelemesi</button>
-  </nav>
+  <main class="main">
+  <div class="topbar"><b>KKTC Hukuk Asistanı</b><span>prototip · tavsiye değildir</span></div>
 
-  <section id="pane-ask" role="tabpanel" aria-labelledby="tab-ask">
-    <div class="grid">
-      <div class="col">
-        <label class="lab" for="q">Sorunuz</label>
-        <textarea id="q" placeholder="Örn. Ev sahibi kirayı artırmak istiyor, anlaşamazsak ne olur?"></textarea>
+  <section id="pane-ask" role="tabpanel">
+    <div class="ask">
+      <textarea id="q" rows="2" placeholder="Sorunuzu yazın. Örn. Ev sahibi kirayı artırmak istiyor, anlaşamazsak ne olur?"></textarea>
+      <div class="askbar">
+        <label class="switch"><input type="checkbox" id="tumon" checked> Tüm yasa ve tüzüklerde ara</label>
         <div class="row">
-          <button class="btn" id="ask">Yasada ara ve cevapla</button>
-          <button class="btn ghost" id="stop" hidden>Durdur</button>
           <span class="state" id="state"></span>
+          <button class="btn ghost" id="stop" hidden>Durdur</button>
+          <button class="btn" id="ask">Ara ve cevapla</button>
         </div>
-        <label class="small muted" style="display:flex;gap:8px;align-items:center"><input type="checkbox" id="tumon" checked> Diğer tüm KKTC yasalarında da ara (otomatik metin; daha yavaş)</label>
-        <div>
-          <div class="lab" style="margin-bottom:6px">Örnek sorular</div>
-          <div class="chips" id="examples"></div>
-        </div>
-        <div id="answer"></div>
-      </div>
-      <div class="col">
-        <div class="lab">Dayanılan maddeler</div>
-        <div id="sources" class="col" style="gap:12px"></div>
-        <div class="lab" style="margin-top:10px">İlgili Yüksek Mahkeme kararları</div>
-        <div id="cases" class="col" style="gap:12px"><p class="muted small" style="margin:0">Soru sorulduğunda konuyla ilgili kararlar burada listelenir.</p></div>
       </div>
     </div>
+    <div class="examples"><span class="lab">Örnek sorular</span><div class="chips" id="examples"></div></div>
+    <div class="results">
+      <div class="col"><div id="answer"></div></div>
+      <div class="col">
+        <div class="sec-h"><h3>Dayanılan maddeler</h3><span class="muted small" id="srccount"></span></div>
+        <div id="sources" class="col" style="gap:8px"></div>
+        <div class="sec-h" style="margin-top:10px"><h3>İlgili Yüksek Mahkeme kararları</h3></div>
+        <div id="cases" class="col" style="gap:8px"><p class="muted small" style="margin:0">Soru sorulduğunda ilgili kararlar burada listelenir.</p></div>
+      </div>
+    </div>
+    <footer>
+      <span>Cevaplar yalnızca bu sayfadaki maddelere ve kararlara dayanır; kaynağı olmayan cümle ve karar metninde bulunmayan alıntı gösterilmez.</span>
+      <span>Kaynak: KKTC Yüksek Mahkeme mevzuat sistemi ve Cumhuriyet Meclisi arşivi, Ekim 2026. Her dosyanın parmak izi (SHA-256) saklanır.</span>
+    </footer>
   </section>
 
-  <section id="pane-file" role="tabpanel" aria-labelledby="tab-file" hidden>
+  <section id="pane-file" role="tabpanel" hidden>
+    <div class="pane-head"><div><h2>Dosya özeti</h2><p>Dava dosyasını yükleyin; kişisel bilgiler önce bu cihazda gizlenir, özet ve kronolojideki her cümle belgeden birebir alıntıyla doğrulanır.</p></div></div>
     <div class="grid">
       <div class="col">
-        <p class="muted small" style="margin:0">Belge önce bu tarayıcıda gizlenir; yapay zekâya yalnızca gizlenmiş metin gider. Gerçek adlar cihazınızdan çıkmaz.</p>
         <div class="row">
           <label class="btn ghost" for="file" style="display:inline-block">PDF veya metin dosyası seç</label>
           <input type="file" id="file" accept=".pdf,.txt,text/plain,application/pdf" hidden>
@@ -169,10 +247,10 @@ body.rv-on .rv{display:flex}
         <label class="lab" for="doc">Belge metni <span style="text-transform:none;letter-spacing:0;font-weight:400">· sayfaları [SAYFA 1] gibi işaretleyebilirsiniz</span></label>
         <textarea id="doc" style="min-height:160px"></textarea>
         <label class="lab" for="extra">Ayrıca gizlenecek ifadeler <span style="text-transform:none;letter-spacing:0;font-weight:400">· virgülle ayırın</span></label>
-        <input id="extra" type="text" style="font:inherit;color:var(--ink);background:var(--sheet);border:1px solid var(--rule);border-radius:4px;padding:9px 12px" placeholder="örn. Salamis Yolu, Mağusa">
+        <input id="extra" type="text" placeholder="örn. Salamis Yolu, Mağusa">
         <div class="row"><button class="btn ghost" id="mask">Gizlemeyi yenile</button></div>
         <div id="maskinfo"></div>
-        <details class="sheet"><summary><span class="t" style="font-family:var(--f-display);font-weight:650">Yapay zekâya gidecek metin</span><span class="muted small">gizlenmiş hali</span></summary><p class="txt" id="masked" style="max-height:320px;margin-top:8px"></p></details>
+        <details class="sheet"><summary><span class="t">Yapay zekâya gidecek metin</span><span class="muted small">gizlenmiş hali</span></summary><p class="txt" id="masked" style="max-height:320px;margin-top:8px"></p></details>
       </div>
       <div class="col">
         <div class="row">
@@ -186,70 +264,56 @@ body.rv-on .rv{display:flex}
     </div>
   </section>
 
-  <section id="pane-browse" role="tabpanel" aria-labelledby="tab-browse" hidden>
-    <div class="chips" id="lawf" role="group" aria-label="Yasa" style="margin-top:16px"></div>
+  <section id="pane-browse" role="tabpanel" hidden>
+    <div class="pane-head"><div><h2>Mevzuat</h2><p>Avukat incelemesine hazırlanmış, değişiklikleri kontrol edilmiş yasalar.</p></div>
+      <div class="seg" role="group" aria-label="Görünüm"><button aria-pressed="true">Doğrulanmış yasalar</button><button data-go="pane-ym" aria-pressed="false">Tüm yasa ve tüzükler</button></div></div>
+    <div class="chips" id="lawf" role="group" aria-label="Yasa"></div>
     <p class="muted small" id="lawinfo" style="margin:10px 0 0"></p>
     <div class="list" id="all"></div>
   </section>
 
-  <section id="pane-kar" role="tabpanel" aria-labelledby="tab-kar" hidden>
-    <p class="muted small" style="margin:16px 0 0;max-width:80ch">Yüksek Mahkeme'nin resmî mevzuat sisteminden alınan kararlar, alanlara göre. Bir karar birden fazla alanda görünebilir. Metinler resmî sistemdeki hâliyle, değiştirilmeden gösterilir.</p>
-    <div class="catbar">
-      <input id="kq" type="search" placeholder="Kararlarda ara (ör. ihtiyaç tahliye, nafaka, kıdem tazminatı)" aria-label="Kararlarda ara">
-      <div class="chips" id="kf" role="group" aria-label="Alan"></div>
-    </div>
-    <div class="catstats" id="kstats"></div>
-    <div class="col" id="klist" style="gap:10px;margin-top:10px"></div>
-    <div class="row" style="margin-top:12px"><button class="btn ghost" id="kmore" hidden>Daha fazla göster</button></div>
-  </section>
-
-  <section id="pane-laws" role="tabpanel" aria-labelledby="tab-laws" hidden>
-    <div class="tw" style="margin-top:16px"><table class="laws" id="laws"></table></div>
-    <p class="muted small">Değişiklik yasaları esas yasayla birlikte okunur. Resmî birleştirilmiş metin yoktur; aynı fıkra birden çok kez değişmişse son yasa geçerlidir (ör. 6(4): 48/1983'te “karar tarihi”, 27/2011'de “istida tarihi”).</p>
-  </section>
-
-  <section id="pane-ym" role="tabpanel" aria-labelledby="tab-ym" hidden>
-    <div class="catintro">
-      <p class="muted small" style="margin:16px 0 0;max-width:80ch">Yüksek Mahkeme mevzuat sistemindeki <b>diğer tüm yasaların ve tüzüklerin</b> metni. Bu yasalar avukat tarafından henüz gözden geçirilmedi: madde sınırları otomatik belirlendi; madde numarası okunamayan yasalar sıralı <b>parça</b>lar hâlinde gösterilir. <b>Yazı tanıma</b> işaretli yasalar taranmış belgeden makineyle okundu, kelime hataları olabilir — her zaman resmî dosyayla karşılaştırın.</p>
-      <div class="catbar">
-        <input id="yq" type="search" placeholder="Yasa adı, sayısı veya konu ara (ör. silah, 2/2016, Fasıl 3)" aria-label="Tüm yasalarda ara">
-      </div>
-      <div class="catstats" id="ystats">Liste yükleniyor…</div>
-    </div>
+  <section id="pane-ym" role="tabpanel" hidden>
+    <div class="pane-head"><div><h2>Mevzuat</h2><p>Yüksek Mahkeme sistemindeki diğer tüm yasa ve tüzükler. Madde sınırları otomatik belirlendi; <b>yazı tanıma</b> işaretliler taranmış belgeden okundu ve kelime hataları içerebilir. Her zaman resmî dosyayla karşılaştırın.</p></div>
+      <div class="seg" role="group" aria-label="Görünüm"><button data-go="pane-browse" aria-pressed="false">Doğrulanmış yasalar</button><button id="tab-ym" aria-pressed="true">Tüm yasa ve tüzükler</button></div></div>
+    <input id="yq" type="search" placeholder="Yasa adı, sayısı veya konu ara (ör. silah, 2/2016, Fasıl 3)" aria-label="Tüm yasalarda ara">
+    <div class="catstats" id="ystats">Liste yükleniyor…</div>
     <div class="catlist" id="ylist"></div>
     <div id="yview" style="margin-top:16px"></div>
   </section>
 
-  <section id="pane-cat" role="tabpanel" aria-labelledby="tab-cat" hidden>
-    <div class="catintro">
-      <p class="muted small" style="margin:16px 0 0;max-width:80ch">Meclis arşivindeki yasaların listesi. Burada yalnızca <b>katalog</b> var: adı, sayısı ve resmî dosyanın bağlantısı. Madde metinleri için “Tüm yasalar (metin)” sekmesine bakın; bu sekme Meclis'in yasa ve değişiklik arşivini gösterir. Diğerleri sırayla işlenecek. Bütçe, uluslararası anlaşma onayları ve tablolar listeden çıkarıldı.</p>
-      <div class="catbar">
-        <input id="cq" type="search" placeholder="Yasa adı veya sayı ara (ör. aile, 17/1981)" aria-label="Yasalarda ara">
-        <div class="chips" id="cf" role="group" aria-label="Süzgeç">
-          <button class="chip on" data-f="all">Tümü</button>
-          <button class="chip" data-f="w1">1. dalga</button>
-          <button class="chip" data-f="w2">2. dalga</button>
-          <button class="chip" data-f="ready">Uygulamada</button>
-          <button class="chip" data-f="nobase">Esas metni arşivde yok</button>
-        </div>
-      </div>
-      <div class="catstats" id="cstats"></div>
-    </div>
-    <div class="catlist" id="clist"></div>
-    <div class="row" style="margin-top:12px"><button class="btn ghost" id="cmore" hidden>Daha fazla göster</button></div>
-    <div class="answer" style="margin-top:20px">
-      <h2>İşleme sırası</h2>
-      <p><b>1. dalga:</b> Aile (boşanma), Kira, İş, Tüketicileri Koruma, Kat Mülkiyeti, Trafik. <b>2. dalga (asistanda):</b> Ceza ve Ceza Muhakemeleri Usulü, Sözleşmeler, Haksız Fiiller, Şirketler, Vasiyetnameler ve Veraset, Hukuk Muhakemeleri Usulü.</p>
-      <p class="small muted" style="margin:0">“Esas metni arşivde yok” işaretli başlıkların çoğu 1960 öncesi “Fasıl” yasalarıdır (ör. Ceza Yasası Fasıl 154). Meclis arşivinde yalnızca değişiklikleri var; bu yasaların birleştirilmiş metinleri Yüksek Mahkeme mevzuat sisteminde bulunuyor (2. dalga yasalar oradan alındı).</p>
-    </div>
+  <section id="pane-kar" role="tabpanel" hidden>
+    <div class="pane-head"><div><h2>Yüksek Mahkeme kararları</h2><p>Resmî mevzuat sisteminden, alanlara göre. Bir karar birden fazla alanda görünebilir; metinler değiştirilmeden gösterilir.</p></div></div>
+    <input id="kq" type="search" placeholder="Kararlarda ara (ör. ihtiyaç tahliye, nafaka, kıdem tazminatı)" aria-label="Kararlarda ara">
+    <div class="chips" id="kf" role="group" aria-label="Alan" style="margin-top:10px"></div>
+    <div class="catstats" id="kstats"></div>
+    <div class="col" id="klist" style="gap:8px;margin-top:10px"></div>
+    <div class="row" style="margin-top:12px"><button class="btn ghost" id="kmore" hidden>Daha fazla göster</button></div>
   </section>
 
-  <section id="pane-rv" role="tabpanel" aria-labelledby="tab-rv" hidden>
-    <div class="answer" style="margin-top:16px">
-      <h2>Avukat incelemesi</h2>
-      <p>Her madde, karar ve yapay zekâ cevabının altında <b>Doğru</b>, <b>Düzeltilmeli</b> ve <b>Eksik var</b> düğmeleri var. Seçiminiz ve notunuz buraya kaydedilir; geliştirici düzeltmeleri bu listeden yapar. Kararı verdiğiniz metin olduğu gibi kayda geçer.</p>
-      <p class="small muted" style="margin:0" id="rvaccess"></p>
+  <section id="pane-laws" role="tabpanel" hidden>
+    <div class="pane-head"><div><h2>Kaynak listesi</h2><p>Elle doğrulanan yasaların kaynakları ve güncellik kontrolü.</p></div></div>
+    <div class="tw"><table class="laws" id="laws"></table></div>
+    <p class="muted small">Kira Yasası'nda değişiklik yasaları esas yasayla birlikte okunur; aynı fıkra birden çok kez değişmişse son yasa geçerlidir (ör. 6(4): 48/1983'te “karar tarihi”, 27/2011'de “istida tarihi”).</p>
+  </section>
+
+  <section id="pane-cat" role="tabpanel" hidden>
+    <div class="pane-head"><div><h2>Meclis kataloğu</h2><p>Meclis arşivindeki yasa ve değişiklik yasalarının listesi ve resmî dosya bağlantıları. Madde metinleri için Mevzuat bölümüne bakın.</p></div></div>
+    <input id="cq" type="search" placeholder="Yasa adı veya sayı ara (ör. aile, 17/1981)" aria-label="Katalogda ara">
+    <div class="chips" id="cf" role="group" aria-label="Süzgeç" style="margin-top:10px">
+      <button class="chip on" data-f="all">Tümü</button>
+      <button class="chip" data-f="w1">1. dalga</button>
+      <button class="chip" data-f="w2">2. dalga</button>
+      <button class="chip" data-f="ready">Uygulamada</button>
+      <button class="chip" data-f="nobase">Esas metni arşivde yok</button>
     </div>
+    <div class="catstats" id="cstats"></div>
+    <div class="catlist" id="clist"></div>
+    <div class="row" style="margin-top:12px"><button class="btn ghost" id="cmore" hidden>Daha fazla göster</button></div>
+    <p class="small muted" style="margin-top:16px;max-width:75ch">“Esas metni arşivde yok” işaretli başlıkların çoğu 1960 öncesi “Fasıl” yasalarıdır (ör. Ceza Yasası Fasıl 154). Meclis arşivinde yalnızca değişiklikleri var; birleştirilmiş metinleri Yüksek Mahkeme sisteminden alındı.</p>
+  </section>
+
+  <section id="pane-rv" role="tabpanel" hidden>
+    <div class="pane-head"><div><h2>Avukat incelemesi</h2><p>Her madde, karar ve cevabın altında <b>Doğru</b>, <b>Düzeltilmeli</b> ve <b>Eksik var</b> düğmeleri var. Seçiminiz ve notunuz buraya kaydedilir; düzeltmeler bu listeden yapılır.</p><p class="small muted" id="rvaccess"></p></div></div>
     <div class="tiles" id="rvtiles"></div>
     <div class="chips" id="rvf" role="group" aria-label="Süzgeç" style="margin-top:14px">
       <button class="chip on" data-f="all">Tümü</button>
@@ -259,12 +323,7 @@ body.rv-on .rv{display:flex}
     </div>
     <div class="rvlist" id="rvlist"></div>
   </section>
-
-  <footer>
-    <span>Veri: KKTC Cumhuriyet Meclisi yasa arşivi, 9 Ekim 2026'da alındı. Her kaynak dosyanın SHA-256 parmak izi veri setinde saklanır.</span>
-    <span>Kararlar: KKTC Yüksek Mahkeme mevzuat sistemi (mevzuat.mahkemeler.net). Birleştirilmiş Kira Yasası metni bu sistemdeki resmî metinle karşılaştırıldı; tüm değişiklikler aynı.</span>
-    <span>Cevaplar yalnızca bu sayfadaki maddelere ve kararlara dayanır; kaynağı olmayan cümle ve karar metninde bulunmayan alıntı gösterilmez.</span>
-  </footer>
+  </main>
 </div>
 
 <script type="application/json" id="data">__DATA__</script>
@@ -445,7 +504,7 @@ function kararCard(k, excerpt, id, alan){
     '<h3>'+esc(k.taraflar||'Taraflar belirtilmemiş')+'</h3>'+
     (k.konu?'<p class="small" style="margin:0 0 6px">'+esc(k.konu)+'</p>':'')+
     (k.yasa?'<p class="small muted" style="margin:0 0 6px">Anılan mevzuat: '+esc(k.yasa)+'</p>':'')+
-    (excerpt?'<p class="txt" style="max-height:170px">'+esc(excerpt.length>700?excerpt.slice(0,700)+' …':excerpt)+'</p>':'')+
+    (excerpt?'<p class="txt" style="max-height:170px">'+esc(excerpt.length>700?excerpt.slice(0,700)+' …':excerpt)+'</p>':'')+'<button class="ac" type="button">Ayrıntıları göster</button>'+
     (not?'<p class="small" style="margin:8px 0 0;color:var(--warn)">'+esc(not)+'</p>':'')+
     '<details class="kfull"><summary class="small" style="cursor:pointer;color:var(--seal);margin-top:8px">Kararın tam metni</summary><p class="txt" data-k="'+esc(k.id)+'" style="max-height:420px;margin-top:6px"></p></details>'+
     '<div class="src">Kaynak: '+(k.url?'<a href="'+esc(k.url)+'" target="_blank" rel="noopener">Yüksek Mahkeme resmî karar dosyası</a>':'Yüksek Mahkeme mevzuat sistemi')+' · alan: '+esc(k.alanlar.map(x=>ALAN_AD[x]).join(', '))+'</div>'+
@@ -551,14 +610,20 @@ function sheet(a, tag){
     : 'Kaynak: <a href="'+esc(L.url)+'" target="_blank" rel="noopener">Yüksek Mahkeme birleştirilmiş resmî metni</a> · Meclis\'teki son değişiklik ('+esc(L.son||'-')+') metne işlenmiş';
   return '<'+tag+' class="sheet" id="m-'+esc(a.cid)+'">'+
     '<header><span class="mno">'+esc(mLabel(a))+' · '+esc(L.no)+' '+esc(L.kisa)+'</span>'+badge(a)+'</header>'+
-    '<h3>'+esc(a.title)+'</h3><p class="txt">'+esc(a.text)+'</p>'+am+
+    '<h3>'+esc(a.title)+'</h3><p class="txt">'+esc(a.text)+'</p>'+(tag==='article'?'<button class="ac" type="button">Tam metni göster</button>':'')+am+
     '<div class="src">'+src+'</div>'+rvBar('madde:'+a.cid,'madde',L.no+' '+L.ad+' — '+mLabel(a)+' '+a.title)+'</'+tag+'>';
 }
+// kaynak kartları kapalı gelir; başlığa veya düğmeye dokununca açılır
+document.addEventListener('click',e=>{ const t=e.target.closest('.ac, article.sheet > header, article.sheet > h3'); if(!t) return;
+  const c=t.closest('article.sheet'); if(!c) return; const o=c.classList.toggle('open');
+  const b=c.querySelector(':scope > .ac'); if(b) b.textContent=o?'Kapat':(c.classList.contains('kcard')?'Ayrıntıları göster':'Tam metni göster');
+  if(o && c.classList.contains('kcard')){ const d=c.querySelector('details.kfull'); if(d && !d.open) d.open=true; } });
 function showSources(list){
+  const sc=document.getElementById('srccount'); if(sc) sc.textContent=list.length?list.length+' madde':'';
   $('#sources').innerHTML = list.length? list.map(a=>sheet(a,'article')).join('') : '<p class="muted small">İlgili madde bulunamadı.</p>'; rvStats();
 }
 function flash(cid){
-  const el=document.getElementById('m-'+cid); if(!el) return;
+  const el=document.getElementById('m-'+cid); if(!el) return; el.classList.add('open'); const b=el.querySelector(':scope > .ac'); if(b) b.textContent='Kapat';
   el.scrollIntoView({behavior:matchMedia('(prefers-reduced-motion: reduce)').matches?'auto':'smooth',block:'start'});
   el.classList.add('flash'); setTimeout(()=>el.classList.remove('flash'),1400);
 }
@@ -650,8 +715,8 @@ function renderAnswer(q, res, v, vc){
   if(vc && vc.bad) h+='<div class="check warn"><b>'+vc.bad+' karar tespiti gösterilmedi.</b><span>Alıntısı karar metninde bulunamadı.</span></div>';
   const problems = v.dropped.length+v.unknown.length+v.repealed.length;
   const notFound = res.found===false || !v.kept.length;
-  if(notFound && !problems) h+='<div class="check ok"><b>Uydurma yok.</b><span>Yasada karşılığı olmayan bir kural yazılmadı; incelenen maddeler sağda.</span></div>';
-  else if(!problems) h+='<div class="check ok"><b>Kaynak kontrolü geçti.</b><span>'+v.kept.length+' tespitin hepsi sağdaki maddelere bağlı; metinde var olmayan madde numarası yok.</span></div>';
+  if(notFound && !problems) h+='<div class="check ok"><b>Uydurma yok.</b><span>Yasada karşılığı olmayan bir kural yazılmadı; incelenen maddeler “Dayanılan maddeler” bölümünde.</span></div>';
+  else if(!problems) h+='<div class="check ok"><b>Kaynak kontrolü geçti.</b><span>'+v.kept.length+' tespitin hepsi dayanılan maddelere bağlı; metinde var olmayan madde numarası yok.</span></div>';
   else {
     if(v.dropped.length) h+='<div class="check bad"><b>'+v.dropped.length+' kaynaksız cümle gösterilmedi.</b><span>Yapay zekâ bunlara geçerli bir madde gösteremedi.</span></div>';
     if(v.unknown.length) h+='<div class="check bad"><b>Var olmayan madde atfı: '+esc(v.unknown.join(', '))+'.</b><span>İlgili yasalarda böyle bir madde yok; cevabı dikkatle okuyun.</span></div>';
@@ -754,7 +819,7 @@ async function ymInit(){
 }
 window.__arama={search, searchTum, tumDizin, LAWBY, birlesik}; // yalnızca otomatik testler için
 let ymHazir=false;
-document.getElementById('tab-ym').addEventListener('click',()=>{ if(!ymHazir){ ymHazir=true; ymInit(); } });
+
 
 /* ---------- akış ---------- */
 let sampleFn = null, ctl = null;
@@ -767,6 +832,7 @@ $('#answer').addEventListener('click',e=>{ const b=e.target.closest('.cite'); if
 
 async function run(){
   const q=$('#q').value.trim(); if(!q) return;
+  $('#pane-ask').classList.add('sorulmus');
   let list;
   if($('#tumon').checked){ $('#state').textContent='Tüm yasalarda aranıyor…'; try{ list=await birlesik(q,7); }catch(e){ list=search(q); } $('#state').textContent=''; }
   else list=search(q);
@@ -776,13 +842,13 @@ async function run(){
   try{ cases=await searchCases(q, list, 3, 'all', alanlar); showCases(cases, alanlar); }
   catch(e){ $('#cases').innerHTML='<p class="muted small" style="margin:0">Karar dosyaları yüklenemedi.</p>'; }
   if(!list.length){ $('#answer').innerHTML='<div class="answer"><h2>İlgili madde bulunamadı</h2><p>Kapsanan yasalarda ('+esc(LAWS.map(l=>l.kisa).join(', '))+') bu konuda madde bulunamadı. Soru sözleşme hükümlerine veya henüz eklenmemiş bir yasaya bağlı olabilir.</p></div>'; $('#state').textContent=''; return; }
-  if(!sampleFn){ $('#answer').innerHTML='<div class="answer"><h2>İlgili maddeler bulundu</h2><p>Yapay zekâ cevabı bu görünümde kullanılamıyor. Sağdaki maddeleri okuyarak cevaba ulaşabilirsiniz.</p></div>'; return; }
+  if(!sampleFn){ $('#answer').innerHTML='<div class="answer"><h2>İlgili maddeler bulundu</h2><p>Yapay zekâ cevabı bu görünümde kullanılamıyor. Dayanılan maddeleri okuyarak cevaba ulaşabilirsiniz.</p></div>'; return; }
   ctl=new AbortController(); $('#ask').disabled=true; $('#stop').hidden=false; $('#state').textContent='Maddeler ve kararlar okunuyor…'; $('#answer').innerHTML='';
   try{
     const res = await sampleFn.json(promptFor(q,list,cases),{signal:ctl.signal, modelTier:'default'});
     renderAnswer(q, res||{}, verify(res||{}, list), verifyCases(res||{}, cases)); $('#state').textContent='';
   }catch(e){
-    const msg={not_granted:'Bu sayfanın Claude kullanmasına izin verilmedi. Maddeler sağda.',rate_limited:'Çok fazla istek yapıldı; biraz sonra tekrar deneyin.',cancelled:'',invalid_json:'Cevap okunamadı; tekrar deneyin.',sampling_disabled:'Bu hesapta Claude kullanılamıyor.'}[e&&e.code];
+    const msg={not_granted:'Bu sayfanın Claude kullanmasına izin verilmedi. Maddeler aşağıda.',rate_limited:'Çok fazla istek yapıldı; biraz sonra tekrar deneyin.',cancelled:'',invalid_json:'Cevap okunamadı; tekrar deneyin.',sampling_disabled:'Bu hesapta Claude kullanılamıyor.'}[e&&e.code];
     $('#state').textContent = msg===undefined?'Bağlantı sorunu; tekrar deneyin.':msg;
     if(e&&(e.code==='not_granted'||e.code==='sampling_disabled')) sampleFn=null;
   }finally{ $('#ask').disabled=false; $('#stop').hidden=true; }
@@ -792,10 +858,21 @@ $('#stop').addEventListener('click',()=>ctl&&ctl.abort());
 $('#q').addEventListener('keydown',e=>{ if(e.key==='Enter' && (e.metaKey||e.ctrlKey)) run(); });
 
 /* ---------- sekmeler ---------- */
-const tabs=[['tab-ask','pane-ask'],['tab-file','pane-file'],['tab-browse','pane-browse'],['tab-kar','pane-kar'],['tab-laws','pane-laws'],['tab-ym','pane-ym'],['tab-cat','pane-cat'],['tab-rv','pane-rv']];
-tabs.forEach(([t,p])=>document.getElementById(t).addEventListener('click',()=>{
-  tabs.forEach(([t2,p2])=>{ document.getElementById(t2).setAttribute('aria-selected',t2===t); document.getElementById(p2).hidden=(p2!==p); });
-}));
+const NAV={ 'pane-ask':'tab-ask','pane-browse':'tab-browse','pane-ym':'tab-browse','pane-kar':'tab-kar','pane-file':'tab-file','pane-rv':'tab-rv','pane-laws':'tab-laws','pane-cat':'tab-cat' };
+let ymHazir2=false;
+function show(pane){
+  document.querySelectorAll('main > section[role=tabpanel]').forEach(p=>p.hidden=(p.id!==pane));
+  document.querySelectorAll('nav.nav [role=tab]').forEach(b=>b.setAttribute('aria-selected', b.id===NAV[pane]));
+  const m=$('#menu'); m.hidden=true; $('#morebtn').setAttribute('aria-expanded','false');
+  $('#morebtn').setAttribute('aria-selected', ['pane-rv','pane-laws','pane-cat'].includes(pane));
+  if(pane==='pane-ym' && !ymHazir2){ ymHazir2=true; ymInit(); }
+  if(pane==='pane-kar' && !$('#klist').children.length) renderKar();
+  window.scrollTo(0,0);
+}
+document.querySelectorAll('nav.nav [role=tab]').forEach(b=>b.addEventListener('click',()=>show(b.dataset.pane)));
+document.addEventListener('click',e=>{ const g=e.target.closest('[data-go]'); if(g) show(g.dataset.go); });
+$('#morebtn').addEventListener('click',e=>{ e.stopPropagation(); const m=$('#menu'); m.hidden=!m.hidden; $('#morebtn').setAttribute('aria-expanded',String(!m.hidden)); });
+document.addEventListener('click',e=>{ if(!e.target.closest('#menu') && !e.target.closest('#morebtn')) $('#menu').hidden=true; });
 let lawSel='KIRA';
 function renderAll(){
   const L=LAWBY[lawSel], list=ARTS.filter(a=>a.law===lawSel);
@@ -826,7 +903,7 @@ $('#kq').addEventListener('input',()=>{kLimit=30; clearTimeout(kT); kT=setTimeou
 $('#kf').addEventListener('click',e=>{const b=e.target.closest('[data-f]'); if(!b) return; kAlan=b.dataset.f; kLimit=30;
   $('#kf').querySelectorAll('[data-f]').forEach(x=>x.classList.toggle('on',x===b)); renderKar();});
 $('#kmore').addEventListener('click',()=>{kLimit+=60;renderKar();});
-document.getElementById('tab-kar').addEventListener('click',()=>{ if(!$('#klist').children.length) renderKar(); });
+
 
 /* ---------- tüm yasalar kataloğu ---------- */
 const CAT=JSON.parse(document.getElementById('catalog').textContent);
@@ -1016,7 +1093,7 @@ $('#doc').value=JSON.parse(document.getElementById('example').textContent); doMa
 
 /* açılışta örnek: arama sonuçları dolu gelsin (yapay zekâ çağrısı yok) */
 $('#q').value = EX[0]; showSources(search(EX[0]));
-$('#answer').innerHTML = '<div class="answer"><h2>Örnek: ilgili maddeler bulundu</h2><p>“Yasada ara ve cevapla”ya basınca yapay zekâ yalnızca sağdaki maddeleri okuyarak kaynaklı bir cevap yazar ve her cümleyi kontrol eder.</p></div>';
+$('#answer').innerHTML = '<div class="answer"><h2>Örnek: ilgili maddeler bulundu</h2><p>“Ara ve cevapla”ya basınca yapay zekâ yalnızca dayanılan maddeleri okuyarak kaynaklı bir cevap yazar ve her cümleyi kontrol eder.</p></div>';
 
 rvInit();
 if(window.claude && window.claude.use){ window.claude.use('sample').then(fn=>{ sampleFn=fn; }).catch(()=>{}); }
