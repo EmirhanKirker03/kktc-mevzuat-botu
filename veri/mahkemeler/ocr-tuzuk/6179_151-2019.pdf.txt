@@ -1,0 +1,214 @@
+[SAYFA 1]
+TITS
+
+Sayı: 151
+
+TELEKOMUNIKASYON SERVİSİ YASASI
+(FASIL 302, 20/1960, 34/1962 ve 25/1963 Sayılı Yasalar)
+Madde 43 Altında Yapılan Tüzük ,
+Kuzey Kıbrıs Türk Cumhuriyeti Bakanlar Kurulu, Telekomünikasyon Servis Yasası'nın 43'üncü
+maddesinin kendisine verdiği yetkiye dayanarak aşağıdaki Tüzüğü yapar; |
+
+Kısa İsim 1. Bu Tüzük, Telekomünikasyon Hizmetleri Ücretleri ve Uygulama (Değişiklik)
+31.7.2018 Tüzüğü olarak isimlendirilir ve aşağıda “Esas Tüzük” olarak anılan,
+R.G.114 Telekomünikasyon Hizmetleri Ücretleri ve Uygulama Tüzüğü ile birlikte okunur.
+EKM
+
+A.E.724
+
+Esas Tüzüğün 2. (1) Esas Tüzük, 2’inci maddesine bağlı Cetvel’de yer alan KISIM MI kaldırılmak
+2'nci Maddesine ve yerine bu Tüzüğe ekli yeni KISIM III konmak sureti ile değiştirilir,
+
+Bağlı Cetvel'in (2) Esas Tüzük, 2'inci maddesine bağlı Cetvel’de yer alan KISIM V kaldırılmak
+Değiştirilmesi ve yerine bu Tüzüğe ekli yeni KISIM V konmak sureti ile değiştirilir.
+
+Yürürlüğe Giriş 3. Bu Tüzük, 1 Mart 2019 tarihinden başlayarak yürürlüğe girer,
+
+[SAYFA 2]
+a20
+
+KISIM WI ;
+TELEFON KONUŞMA ÜCRETLERİ
+
+Telefon görüşmelerinde kontör ücreti 4
+ücreti) olarak hesaplanır. Kontörler
+olarak KDV uygulanır.
+
+3.LADA İÇİ SABİT KONUŞMA ÜCRETLERİ
+
+(dört) krs'dur. Konuşma ücreti = (Kontör sayısı x kontör
+periyot başlarında peşin olarak yazılır. Tüm görüşme ücretlerine ek
+
+Kontör atış süresi Konuşma ücretleri
+Aranılan yön ve Numaralar sn (TL/dk)
+
+Normal | İndirimli Normal | İndirimli
+PSTN'den PSTN'e 80 0 0.03 ücretsiz
+PSTN'den VODAFONE Mobile Operations
+LTD. (KKTC Telsim) 12 12 0.20 0.20
+PSTN'den Kıbrıs Mobile Telekomünikasyon .
+LTD. (Kuzey Kıbrıs TURKCELL)'e 2 i on 2p
+
+NOT:
+
+* Pazartesi, Salı, Çarşamba, Perşembe, Cuma ve Cumartesi günleri 19:00-07:00 saatleri arasında
+
+tüm şebeke içi görüşmeler (PSTN — PSTN) (indirimli) ücretsiz olarak uygulanır,
+* Pazar günleri gerçekleşen tüm şebeke içi (PSTN — PSTN) (indirimli) ücretsiz olarak uygulanır.
+
+3.2.ADA İÇİ ÖZEL SERVİS NUMARALARINA ERİŞİM ÜCRETLERİ
+
+NOT:
+
+800'lü hatlarda ödeme, aranan tarafından
+görüşme ücretleri sözleşme ile belirlenir.
+
+Kontör atış süresi Konuşma ücretleri
+Aranılan yön ve Numaralar sn (TL/dk
+ormal | İndirimli | Normal | | İndirimli |
+444xxxx 60 60 0.04 0.04
+900 9xxxxxx 1.5 1.5 1,60 1.60
+900 8xxxxxx 1 1 2.40 2.40
+900 S5xxxxxx 2 2 1,20 1.20
+900 3xxxxxx 0.6 0.6 4,00 4.00
+,1800'lü hatlar ©
+
+İxx - Resmi olan özel servis numaraları - - Ücretsiz
+Ixx - Resmi olmayan özel servis numaraları 80 - 80 0.03 0.03
+192 12 12 0.20 0.20
+Ixxx - Resmi olan özel servis numaraları - - Ücretsiz
+İxxx - Resmi olmayan özel servis numaraları 60 60 0.04 0.04
+153 60 60 0.04 0.04
+
+yapılması prensibi üzerine çalışır ve bu servislerin
+
+[SAYFA 3]
+526.
+
+3.3 ULUSLAR ARASI ÜCRET TARİFESİ
+
+3.3.ULUSLARARASI ÜCRET TARİFESİ
+KONTÖR ATIS | öğe |
+ARANAN YON SÜRESİ (sn) rd AÇIKLAMALAR
+Normal gi a Normal | İndirimli
+: Indirim 20:00 -07:00
+TÜRKİYE PSTN, 20 24 0.12 0,1 saatleri arasinda
+; uygulanir
+m = Indirim 20:00 -07:00
+TÜRKİYE GSM 9.25 - 12 0.2594 0.2 saatleri arasinda
+uygulanir
+GLOBAL STAR
+(GMPCS) ; 5 0.48
+OZEL SERVISEER - 1 16 1.50 0444, 11811, 11842,
+(TÜRKİYE) a ‘ 11855
+ox Dee Mu > 21 oz 3.00 133, 11832
+“© * İKADEME! 15 0.16
+KADEME II 7.5 0.32
+KADEME III 4 | 0.60
+KADEME IV 2 1.20
+KADEME V 1.2 2.00
+KADEME VI 0.6 4.00
+DİĞER 0.15 16.00
+UYDU 0.08 30.00
+ÖZEL SERVİSLER 0.6 4.00
+NOT: “
+
+* Uluslararası görüşme ücret değişiklikleri, ilgili operatörlerle yapılan sözleşmelere bağlı olarak
+Telekomünikasyon Dairesi müdürü tarafından güntellenir ve Bakan'ın onayı ile yürürlüğe girer.
+
+,”
+
+A
+
+[SAYFA 4]
+527
+
+KISIM V
+ÇEŞİTLİ ÜCRETLER
+5.1  |Nakil İşlemleri
+5.1.1. | Telefon nakilleri 12.50 Tesis ücretinin 9650 (yüzde
+elli) 'si alınır.
+5.1.2. | Teleks nakilleri
+a.| Şehiriçi 18.50
+b.| Bölge İçi 18.50
+c.) Bölgelerarası 39.00
+5.1.3 | ISDN nakilleri
+a. BA nakili - Devir yapılmaz.
+= 375.00 Tesis ücretinin %50 (yüzde
+b.| PRA nakili elli) 'si alınır.
+” AMI Adres ve/veya telefon
+5.14 |xDSL nakilleri sald değişikliğin a
+. 12.50 Tesis ücretinin %50 (yüzde
+Gr eel pele ga elli) 'si alınır. >
+; 12.50 Tesis ücretinin %50 (yüzde
+b.) VDSL nakli elli) 'si alınır.
+, 25.00 Tesis ücretinin 9650 (yüzde
+c.| G.SHDSL nakli Kyme Giz
+5.1.5 | Trunk nakilleri 375.00
+5.1.6 | PW nakilleri 250.00
+Metro Ethernet Internet ve Metro
+5.1.7 | Ethernet Noktadan Noktaya Devre 250.00
+Nakilleri
+5.2  |Deviriİşlemleri
+521 beer ik kiralık devre PW 12.50
+evirleri
+5.2.2 |ISDNBA - Devri yapılmaz.
+5.23 | ISDN PRA ve Trunk devri 12.50
+5.2.4 | Teleks hatları,özel servis
+numaraları ve resmi olmayan özel Devri yapılmaz.
+- servis numaralarının devri.. i
+5.2.5 | Metro Ethernet İnternet ve Metro
+Ethernet Noktadan Noktaya 250.00
+Devirleri
+53 Telefon numara değiştirme 12.50
+5.4 Kapatma ve Tekrar Baglama Borcundan dolayı,
+5.4.1 |Telefon için (hat başına) 5.00
+5.4.2 |ISDN(BA) 5.00 Tekrar bağlama yapılmaz.
+ISDN PRA ve Trunk modülü için i
+mini (modül başına) ‘ 25.00
+5.4.4 |xDSL için (hat başına) 10.00
+5.4.5 | Kiralık devre (PW) için (hat
+hasta) 10.00
+
+[SAYFA 5]
+528
+
+5.4.6 |Özel servis numaraları, özel Tesis ücretinin
+tarifeli mesaj servisleri ve ücretsiz “010 (yüzde
+aranan telefonlar için on)'u alınır.
+5.5 Uluslararası görüşmeye veya
+mobil görüşmeye kapama ve
+açma 5.00 Abonenin arzusu üzerine,
+5.6 |Emanetealma Emanet süresi kadar aylık
+sabit ücretleri peşin alınır.
+36. : oe ;
+6.1 Abonenin arzusn üzerine emanete 5.00 ni İŞİ
+alma ücreti ahsu:
+5.7 o (Rahatsız edici aramaların takibi 25.00 Bir ay süreli.
+5.8 Diğer aboneleri rahatsız ettiği
+tesbit edilen ye irtibadarı kesilen 100.00
+-| abonelerin yeniden
+irtbadanması
+59 |Teleks Ücretleri
+5.9.1 | Çağrı işareti değişikliği 30.00
+5.9.2 | Haberleşme ücretinin öğrenilmesi 3.00
+5.93 Kapama ve kapalı bir teleks hattını 5.00
+agma iicreti
+5.10 | Detayh faturalandırma
+5.10.1 | Ik sayfa 1.20
+5.10.2 | Miiteakip sayfalar 0.60 Her sayfa icin.
+5.10.3 | Manyetik ortama kopyalama 30.00 Her bir Mb başına alınır.
+5.11 Abonelere santrallardan 12 KHz
+i veya 16 KHz sinyal gönderilmesi
+5.11.1 | Normal aboneler 5.00 Aylık alınır.
+5.11.2|PRA aboneleri (AOC) 150.00 caer EN He aye
+5.12 (ISDN Ek Ücretler
+5.12,1 | Doğrudan arama (DDI) her 10 5.25 Aylık alınır.
+numara için
+5.13 (PBX
+5.13.1 | PBX özelliği verilmesi 60.00
+5.13.2 | PBX'e eklenecek her hat için 5.00
+5.14 | Teminat ücreti 250.00 Yabancı uyruklular için.
+NOT:
+
+$* Tüm ücretlere ek olarak KDV uygulanır.

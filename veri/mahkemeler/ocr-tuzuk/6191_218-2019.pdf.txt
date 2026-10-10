@@ -1,0 +1,533 @@
+[SAYFA 1]
+a
+
+636
+Sayı : 218
+
+KUZEY KIBRIS TURK CUMHURİYETİ BANKACILIK YASASI
+(62/2017 Sayılı Yasa)
+Madde 26, 31, 50, 53 ve 60 Altında Tebliğ
+
+Kuzey Kıbrıs Türk Cumhuriyeti Merkez Bankası, 62/2017 sayılı Bankacılık Yasasının 26'ncı,
+31'inci, 50'nci, 53'üncü ve 60'ıncı maddelerinin kendisine verdiği yetkiye dayanarak
+aşağıdaki Tebliği yapar:
+
+Kısa İsim 1. Bu Tebliğ, “Muhasebe Sistemleri ile Belgelerin Saklanması Tebliği”
+olarak isimlendirilir.
+
+BİRİNCİ KISIM
+Genel Kurallar
+
+Tefsir 2. Bu Tebliğde metin başka türlü gerektirmedikçe;
+
+“Banka”, Yasa altında izin alarak faaliyet gösteren Kuzey Kıbrıs Türk
+Cumhuriyetinde kurulu mevduat bankaları, katılım bankaları, kalkınma
+ve yatırım bankaları ile yurt dışında kurulu olup, Kuzey Kıbrıs Türk
+Cumhuriyetinde şube açmak suretiyle faaliyet gösteren şube
+bankalarını anlatır.
+
+“Kuruluş”, Merkez Bankası tarafından faaliyet izni verilen ve/veya
+yetkilendirilen ve/veya denetlenen bankalar ile diğer kuruluşları
+anlatır.
+
+“Merkez Bankası”, Kuzey Kıbrıs Türk Cumhuriyeti Merkez Bankasını
+
+anlatır.
+62/2017 “Yasa”, Bankacılık Yasasını anlatır.
+Amaç 3. Bu Tebliğin amacı, kuruluşların muhasebe ve raporlama sisteminde
+
+şeffaflık ve tek düzenin sağlanması, faaliyetlerinin gerçek mahiyetlerine
+uygun olarak sağlıklı, güvenilir bir biçimde muhasebeleştirilmesi ile tüm
+işlemlerin kayıt altına alınması, solo ve konsolide bazda mali durum,
+mali performans ile yönetimlerinin etkinliği bilgilerini içeren finansal
+tablolarının zamanında, eksiksiz ve doğru bir şekilde düzenlenmesi,
+raporlanması, yayımlanması ile belgelerin saklanmasını da içeren tüm
+sürece ilişkin esas ve usulleri düzenlemektir.
+
+Kapsam 4. Kuzey Kıbrıs Türk Cumhuriyetinde faaliyet gösteren kuruluşlar bu Tebliğ
+kuralları kapsamındadır.
+
+[SAYFA 2]
+İşlemlerin
+Muhasebe-
+leştirilmesi
+
+Finansal
+Tablolar
+
+Bilanço
+
+637
+İKİNCİ KISIM
+
+İşlemlerin Muhasebeleştirilmesi, Finansal Tablolar ve Raporlar
+
+5.
+
+Kuruluşlar, faaliyetlerini bu Tebliğ ve Merkez Bankası Yönetim Kurulu
+tarafından çıkarılan alt düzenlemelere göre muhasebeleştirir. Tüm
+işlemlerin, muhasebe standartlarına, Tek Düzen Hesap Planı ile
+izahnamesine ve gerçek niteliklerine uygun olarak
+muhasebeleştirilmesi esastır.
+
+Finansal tablolar; bilanço, kâr ve zarar cetveli, özkaynak değişim
+tablosu, nakit akım tablosu ile kâr dağıtım tablosundan oluşur. Finansal
+tablo dipnotları, yayımlanan muhasebe standartlarında verilmesi
+öngörülen tüm diğer açıklayıcı rapor ve tablolar, finansal tabloların
+ayrılmaz parçalarıdır. Merkez Bankası gerektiğinde, kuruluşların
+özelliklerine göre belli hususlarda muafiyetler getirebileceği gibi bu
+tabloları ve raporları çoğaltabilir, ek açıklamalar veya uygun görmediği
+tüm öğeleri yeniden isteyebilir.
+
+(1) Bilanço, kuruluşun belirli bir tarihteki iktisadi ve mali durumunü
+yansıtan, varlıklarını, borçlarını ve özkaynaklarını, aktif ve pasif
+hesaplar şeklinde gerçeğe uygun ve doğru bir biçimde gösteren
+tablodur. Bilançonun aktif bölümü paraya dönüşüm
+çabukluğuna, pasif bölümü ise ödeme çabukluğuna göre
+düzenlenir.
+
+(2) - Bilanço net değer esasına göre hazırlanır. Bu nedenle, kuruluşun
+aktif ve pasif yapısını düzenleyici nitelikteki hesaplar ilgili
+bulundukları kalemlerin altında birer indirim kalemi olarak
+gösterilir. Bilançonun aktif ve pasif yapısını yansıtan hesaplar
+kendi aralarında mahsup edilemez ve aktif karakterli hesaplar
+alacak, pasif karakterli hesaplar borç bakiyesi veremez. Borç
+bakiyesi veren hesaplar bilançonun aktif bölümünde, alacak
+bakiyesi veren hesaplar pasif bölümünde yer alır.
+
+(3) Varlıklar, gelecekteki iktisadi faydaların kullanma hakkının
+kuruluşa ait olması ve güvenilir bir şekilde ölçülebilen değer veya
+maliyetin bulunması durumunda, bilançoda gösterilir. Tutarları
+kesin olarak saptanamayan alacaklar için herhangi bir tahakkuk
+işlemi yapılamaz. Bu tür alacaklar aktif kalemlere ilişkin açıklam$i
+ve dipnotlarda gösterilir.
+
+(4) Yükümlülükler, iktisadi faydaları içeren kaynakların kuruluş dışına
+çıkmasına yol açacak bir edime sahip olunması ve bu edimin
+yerine getirilmesi için gerekli tutarın güvenilir bir şekilde
+ölçülebilmesi durumunda, bilançoda gösterilir.
+
+[SAYFA 3]
+Kâr ve Zarar
+Cetveli
+
+8.
+
+(5)
+
+(6)
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+(5)
+
+(6)
+
+638
+
+Tutarı kesin olarak saptanamayanlar veya ihtilafa konu olanlar da
+dâhil olmak üzere, kuruluşun bilinen ve tutarı uygun olarak
+tahmin edilebilen bütün yabancı kaynakları tespit ve kayıt
+edilerek bilançoda gösterilmelidir.
+
+Bilanço dışı hesaplar, kuruluşun aktif ve pasifini birinci derecede
+ilgilendirmeyen, müşterilere sağlanan gayri nakdi krediler ile
+ileride borç veya alacak doğuracak hak ve yükümlülükleri, fer'i
+zilyetlik altındaki değerleri ve muhasebe disiplini altında takip
+edilmek istenen bilgileri izlemek amacıyla kullanılan hesapları
+ifade eder.
+
+Kâr ve zarar cetveli, kuruluşun belirli bir hesap döneminde elde
+ettiği tüm hasılat ve gelirler ile katlandığı tüm maliyet ve giderleri
+sınıflandırılmış olarak gösteren ve dönem faaliyet sonuçlarını kâr
+veya zarar olarak özetleyen tablodur.
+
+Bütün gelir ve giderler, tahakkuk tarihleri itibarıyla kayda alınır ve
+dönemsellik ilkesine uygun olarak hesaplanan ilgili dönem
+reeskontları kâr ve zarar cetvelinde gösterilir.
+
+Bütün gelir ve giderler, kaynakları itibarıyla sınıflandırılır, her gelir
+grubu ilgili olduğu gider grubu ile karşılaştırılır ve gayrisafi
+tutarları üzerinden gösterilir. Bir gelir kalemi, tamamen veya
+kismen bir gider kalemiyle netleştirilmek suretiyle kâr ve zarar
+cetveli kapsamından çıkarılamaz.
+
+Gelirler, varlıklardaki artışa veya yükümlülüklerdeki azalışa bağlı
+olarak elde edilebilir iktisadi faydalarda güvenilir bir şekilde
+ölçülebilen bir artış olduğunda, kâr ve zarar cetvelinde
+muhasebeleştirilir. Gelirlerin kayda alınması, varlıklardaki artış
+veya oyükümlülüklerdeki azalislarla es zamanlı olarak
+gerçekleştirilir.
+
+Giderler, varlıklardaki azalış veya yükümlülüklerdeki artışa bağlı
+olarak elde edilebilir iktisadi faydalarda güvenilir bir şekilde
+ölçülebilen bir azalış olduğunda, kâr ve zarar cetvelinde
+muhasebeleştirilir. Giderlerin muhasebeleştirilmesi,
+yükümlülüklerdeki artış veya varlıklardaki azalışlarla eş zamanlı
+olarak gerçekleştirilir.
+
+Gerçekleşmemiş gelir ve kârlar, gerçekleşmiş gibi veya
+gerçekleşenler gerçek tutarından fazla veya az gösterilemez.
+Belirli bir dönem veya dönemlerin, gerçeğe uygun faaliyet
+sonuçlarını göstermek için, ilgili dönem veya dönemlerin başında
+veya sonunda doğru hesap kesimi ve mutabakatı işlemleri
+yapılmalıdır.
+
+[SAYFA 4]
+Nakit Akım
+Tablosu
+
+Özkaynak
+Değişim
+Tablosu
+
+Kâr Dağıtım
+Tablosu
+
+Kamuya
+Açıklanacak
+Finansal
+Rapor
+
+Tekdüzen
+Hesap Planı,
+İzahnamesi
+ile
+Dönemsel
+Raporlar ve
+Muhasebe
+Standartları
+
+9:
+
+10.
+
+it.
+
+12.
+
+13.
+
+639
+
+Nakit akım tablosu, belirli bir muhasebe döneminde kuruluşların nakit
+ve nakit benzeri varlıklarında meydana gelen değişiklikleri ifade eden
+nakit akışlarını (nakit tahsilat ve ödemelerini); kaynakları ve kullanım
+yerleri bakımından kuruluşun ana faaliyetleri, yatırım faaliyetleri ve
+finansman faaliyetleri itibarıyla sınıflandırarak gösteren tablodur. Nakit
+akım tablosu, kuruluşun nakit ve nakde eşdeğer varlık yaratma
+kabiliyetinin, bunların tutarının, zamanlamasının ve kesinliğinin
+değerlendirilmesine yönelik finansal bilgiler içerir ve bu tablonun
+düzenlenmesinde nakit esası benimsenir.
+
+Özkaynak değişim tablosu, sermaye kalemlerinin her birinin dönem
+başı bakiyesini, dönem içinde söz konusu kalemlerde meydana gelen
+artışları veya azalışları ve dönem sonu kalanını ayrı ayrı gösterecek
+biçimde düzenlenir. Karşılaştırılabilirliği sağlamak bakımından, cari
+dönem hareketlerinin yanı sıra önceki dönem hareketleri ayrı bir bölüm
+şeklinde gösterilir.
+
+Kâr dağıtım tablosu, dönem kârından yapılan dağıtımı gösterir. Kâr
+dağıtım tablosunda, ödenecek Vergiler ve yasal yükümlülükler,
+ortaklara ödenecek temettüler ve ayrılan tüm yedekler açıkça
+gösterilir. Dönem kârının dağıtımında; imtiyazlı payların bulunması
+halinde, imtiyazlı ve adi hisse senetlerine ödenen kâr payları, tabloda
+belirtilen bölümlerinde ayrı ayri gösterilir.
+
+(1) Kuruluşlar tarafından hazırlanan finansal tablolar, denetçi
+görüşünü içeren bağımsız denetim raporu ve risk yönetimine
+ilişkin açıklamalar kamuya açıklanacak finansal raporu oluşturur.
+Kamuya açıklanacak finansal raporlar Merkez Bankası tarafından
+düzenlenir ve bu Tebliğ ile birlikte okunur,
+
+(2) Kuruluşların aktiflerinden sildiği hesaplarla ilgili bilgiler, kamuya
+açıklanacak finansal raporların dipnotlarında ayrıntılı olarak
+belirtilir.
+
+(3) Aktiften silme işleminin, kuruluşların yetkili organları tarafından
+alınan kararla yapılması zorunludur.
+
+(1) Kuruluşların uygulamaları zorunlu olan Tek Düzen Hesap Planı,
+izahnameleri ve muhasebe standartları Merkez Bankası
+tarafından düzenlenir ve bu Tebliğ ile birlikte okunur.
+
+(2) Merkez Bankası, kuruluşların mali bünyelerinin takibi amacıyla
+alınacak dönemsel raporları ve bunların gönderim sürelerini
+belirler.
+
+(3) Tek Düzen Hesap Planı uygulamasının ve dönemsel raporların
+manuel müdahale olmaksızın tamamen sistemsel ve otomatik
+olarak günlük raporlama yapmaya elverişli olması esastır.
+
+[SAYFA 5]
+640
+
+ÜÇÜNCÜ KISIM
+
+Yönetim Kurulunun Sorumluluğu, Kamuya Açıklanacak Finansal Raporların Yetkili Kişilerce
+
+Yönetim 14.
+Kurulunun
+Sorumluluğu
+
+Kamuya 15.
+Açıklanacak
+Finansal
+Raporların
+İmzalanması
+
+İmzalanması
+
+Bu Tebliğde belirlenen usul ve esaslara uygun olarak faaliyetlerin
+muhasebeleştirilmesi, finansal tabloların hazırlanması, onaylanması,
+denetlenmesi, yetkili mercilere sunulması ve yayımlanması dâhil
+finansal raporlama sistemini oluşturmak, görev, yetki ve sorumlulukları
+belirlemek, bilgi sistemlerini yeterli hale getirmek ve uygulamayı
+gözetmek, yönetim kurulunun yükümlülüğüdür. Bu yükümlülüğe bağlı
+olarak yönetim kurulu, muhasebe ve raporlama sistemiyle ilgili olarak;
+temel politikaların belirlenmesi, iş tanımlarının, görev, yetki ve
+sorumlulukların iş akış şemasına uygun olarak açık bir şekilde yapılması,
+iç ve dış bilgi akış sisteminin yeterli hale getirilmesi, yetki ve
+sorumlulukların açık bir şekilde belirlenmesi ve bununla ilgili
+uygulamanın gözetilmesi hususlarında gerekli tedbirleri almakla
+yükümlüdür. Şube bankalarında bu yükümlülük müdürler kuruluna
+aittir.
+
+(1) Bankaların yönetim kurulu başkanı/müdürler kurulu başkanı,
+genel omüdür/ülke müdürü, iç sistemlerden sorumlu
+üye/müdürler kurulu üyesi, finansal raporlamadan sorumlu
+genel/ülke müdür yardımcısı ve ilgili birim müdürü veya bu
+unvanlara eş değer kişiler tarafından ad, soyad ve unvan
+belirtilmek suretiyle, bağımsız denetim raporu hariç olmak üzere,
+kamuya açıklanacak finansal raporda yer alan finansal tablolar ile
+bunlara ilişkin açıklama ve dipnotlar, bu Tebliğ hükümlerine ve
+muhasebe kayıtlarına uygun olduğu belirtilerek imzalanır.
+
+(2) Bankalar haricindeki kuruluşlarda imza yükümlülüğü yönetim
+kurulu başkanı ve genel müdürün içinde bulunduğu en az üç
+yönetim kurulu üyesindedir. Genel müdürün yönetim kurulunda
+bulunmadığı kuruluşlarda, yönetim kurulundaki üç imzanın
+yanında dördüncü imza olarak genel müdür bulunmak
+zorundadır. Finansal raporlamadan sorumlu genel müdür
+yardımcısı ve ilgili birim müdürü veya bu unvanlara eş değer
+kişiler tarafından ad, soyad ve unvan belirtilmek suretiyle,
+bağımsız denetim raporu hariç olmak üzere, kamuya açıklanacak
+finansal raporu, bu raporun ekinde yer alan finansal tablolar ile
+bunlara ilişkin açıklama ve dipnotlar, bu Tebliğ hükümlerine ve
+muhasebe kayıtlarına uygun olduğu belirtilerek imzalanır.
+
+(3) Kuruluşlar bağımsız denetim kuruluşundan onaylı kamuya
+açıklanacak finansal raporlarını, genel kurul tarafından kabul
+tarihinden itibaren bir ay içerisinde ve her hâlükârda müteakip
+yılın ilk dört ayı içerisinde Merkez Bankasına göndermek
+zorundadır.
+
+[SAYFA 6]
+Yurt Dışı 16.
+
+Şubelerin
+Muhasebe-
+leştirilmesi
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+(5)
+
+(6)
+
+(7)
+
+641
+
+DORDUNCU KISIM
+Bankalara Özel Hükümler
+
+Kuzey Kıbrıs Türk Cumhuriyetinde kurulu bankaların yurt
+dışındaki şubelerine ait finansal tablolarının, bankanın yurt
+içindeki faaliyetlerine ilişkin finansal tabloları ile birleştirilmesi
+şarttır.
+
+Yurt dışındaki şubelerin finansal tabloları, bu Tebliğde yer alan
+esaslara uygun olarak düzenlenmemiş ise, birleştirilmiş finansal
+tabloların hazırlanması sırasında gerekli düzeltmeler yapılarak bu
+Tebliğde belirlenen usul ve esaslara uygunluk sağlanır.
+
+Yurt dışındaki şubelerin finansal tabloları farklı muhasebe
+politikaları (o benimsenerek düzenlenmiş ise, muhasebe
+politikalarının neden olduğu farklılıklar, bu Tebliğde belirtilen
+esaslar çerçevesinde ortak muhasebe politikaları uygulanarak,
+finansal tabloların birleştirilmesi sırasında giderilir. Muhasebe
+politikalarının oneden olduğu farklılıkların tam olarak
+hesaplanması imkânsız ise, düzeltme işlemi belli varsayım ve
+tahminlere göre yapılır ve bu varsayım ve tahminler dipnotlarda
+açıklanır.
+
+Yurt dışındaki şubelerin finansal tabloları, banka merkezinin
+finansal tablolarının düzenlendiği tarih esas alınarak birleştirilir.
+
+Yurt dışındaki şubelerin aktif ve pasif kalemleri, banka merkezinin
+finansal tabloları ile birleştirilerek bilançoya alınır. Banka merkezi
+ile yurt dışı şubelerin birbirlerinden olan alacak ve borçları
+karşılıklı indirilir.
+
+Yurt dışındaki şubelerin gelir ve giderleri, banka merkezinin
+finansal tabloları ile birleştirilerek kâr ve zarar cetveline alınır.
+Birleştirilme sonrası yurt içi ve/veya yurt dışı birimler arasındaki
+işlemlerden doğan gelir ve giderler karşılıklı olarak silinir.
+
+Banka ana merkez ve yurt dışı birimler arasındaki önemli
+uygulamalar birleştirilmiş finansal tablo dipnotlarında belirtilir ve
+bu uygulamaların varlık, kaynak, finansal durum ve kâr veya
+zarara olan (önemli etkileri açıklanır. Yurt dışı şubelerin
+bulundukları ülke ve şehirler, aktif ve mevduat büyüklükleri ve
+birleştirilmiş finansal tabloların farklı kalemlerinde kullanılan
+değerleme yöntemleri, değer düzeltmelerinde kullanılan
+yöntemler bilanço ile kâr ve zarar cetvelinin dipnotlarında
+açıklanmalıdır.
+
+[SAYFA 7]
+Kamuya
+Açıklanacak
+Finansal
+Raporların
+Sunumu ve
+Yayımı
+
+Belgelerin”
+Saklanması
+
+17.
+
+18.
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+(1)
+
+(2)
+
+642
+
+Bankalar, solo ve konsolide kamuya açıklanacak finansal
+raporlarını Merkez Bankasına, elektronik ortamda ve matbu
+olarak en geç Nisan ayı sonuna kadar tevdi etmek zorundadır.
+
+Şube bankaları, ana merkezlerinin kamuya açıklanan finansal
+raporlarını müteakip yılın Mayıs ayı sonuna kadar Merkez
+Bankasına tevdi etmek zorundadır.
+
+Bankalar yıl sonu solo ve konsolide bazda bilanço, kâr ve zarar
+cetveli ile denetçi görüşünü içeren bağımsız denetim raporunu
+dipnotsuz olarak Merkez Bankasına tevdi edildiği tarihten
+itibaren bir ay içinde en az iki yerel günlük gazetede ilan eder.
+Bankalar ilanın yapıldığı gazete tarihi ile yayımlanan bilgilerin
+bankalarının internet sayfasından ulaşılabileceğine ve ilan edilen
+bilgilerin Merkez Bankasına gönderilen bilgilerle aynı olduğuna
+ilişkin beyanlarını gazetelerdeki ilanları müteakip, yedi gün içinde
+Merkez Bankasına bildirir.
+
+Bankalar ıslak imzalı ve dipnotlu kamuya açıklanacak finansal
+raporlarını - gazetelerde yayım tarihi itibarıyla internet
+sayfalarında yayımlamak ve en az beş yıl süreyle kullanıcıların
+ulaşımına açık tutmak zorundadır.
+
+BEŞİNCİ KISIM
+“ Belgelerin Saklanması
+
+Kuruluşların; müşterilerinden ve resmi ya da özel kurum ve
+kuruluşlardan aldıkları mektup, telgraf, elektronik posta mesajı,
+ilam ve tebligatlar ile diğer yazıları ve iç sistemlere ilişkin tebliğ
+uyarınca hazırlayacakları raporlar da dâhil olmak üzere,
+faaliyetleri ile ilgili belgelerin asıllarını veya mümkün olmadığı
+hallerde sıhhatlerinden şüpheye mahal vermeyecek kopyalarını
+ve müşterilerine ve resmi ya da özel kurum ve kuruluşlara
+yazdıkları yazıların makine ile alınmış, tarih ve numara sırası
+verilerek (düzenlenecek suretlerini istenildiğinde O ibraz
+edilebilecek şekilde nezdlerinde on iki yıl süreyle saklamaları
+zorunludur.
+
+Bu maddenin (1/inci fıkrasında belirtilen belgelerin,
+oluşturulacak evrak kayıt sisteminde tarih, numara ve konusu
+belirtilmek suretiyle kaydının tutulması zorunludur. Kuruluşlar,
+diğer yasalar ile getirilen sınırlamalar saklı kalmak kaydıyla, yasal
+defterler dışındaki belgeleri, Merkez Bankası tarafından yapılacak
+denetimlerde veya istenmesi halinde ibraz edilebilecek şekilde
+mikrofilm, mikrofiş olarak veya elektronik, manyetik veya benzeri
+ortamlarda saklayabilirler.
+
+[SAYFA 8]
+Uyumsuzluk 19,
+
+Ceza
+Kuralları
+
+Geçici
+Madde
+Konsolide
+Esaslara
+Uyum
+
+Yürürlüğe
+Giriş
+
+20.
+
+21.
+
+643
+
+ALTINCI KISIM
+Uyumsuzluklar
+
+(1) Bankalar kamuya açıklanacak finansal raporlarını zamanında,
+eksiksiz sunmakla ve Merkez Bankası tarafından istenen
+düzeltmeleri yapmakla mükelleftir. İnternet sayfalarında
+yayımlanacak olan, kamuya açıklanacak finansal raporlara
+kolayca erişim sağlanabilmeli ve internet sayfalarında Merkez
+Bankası izni ile alınmış başka raporların bulunması durumunda
+bunların nitelik ve farklılıkları açıkça belirtilmelidir.
+
+(2) Yapılan incelemelerde hazırlanan raporların düzenlenmesinde
+hatalar bulunduğunun tespit edilmesi halinde, bu işlemlere
+karşılık gelen tutarlar geriye yönelik olarak düzeltilir. İlgili
+döneme ilişkin tüm hesaplamalar yenilenir ve tekrardan
+raporlanır. İlgili banka, Merkez Bankasının talimatı üzerine yedi iş
+günü içinde düzeltilmiş raporlarını yerel günlük gazetelerde ve
+internet sayfalarında aynı usul ile yeniden yayımlamak
+zorundadır.
+
+Bu Tebliğ kuralları Tebliğin çıkarılmasına yetki veren Yasa kuralları ile
+birlikte okunur ve bu Tebliğ kurallarına aykırı hareket edenlere Yasanın
+ilgili ceza kuralları uygulanır.
+
+YEDİNCİ KISIM
+Geçici Kurallar
+
+Bu Tebliğde yer alan konsolide bazda bildirim ve/veya yükümlülükler
+ile ilgili kuralların uygulanmasına Merkez Bankası tarafından çıkarılacak
+
+“Konsolide Denetime İlişkin Tebliğ”in yürürlüğe girmesiyle birlikte
+başlanır.
+
+SEKİZİNCİ KISIM
+Son Kurallar
+
+Bu Tebliğ Resmi Gazete'de yayımlandığı tarihte yürürlüğe girer.
