@@ -1,0 +1,1504 @@
+[SAYFA 1]
+Sayı : 938
+
+2876
+
+ELEKTRONİK HABERLEŞME YASASI
+(6/2012, 21/2014 ve 39/2016 Sayılı Yasalar)
+Madde 67, 68, 69,70, 71, 72, 73, 74, 75 ve 76 Altında
+
+ve
+
+ÜRÜN GÜVENLİĞİ YASASI
+(42/2014 Sayılı Yasa)
+Madde 18, 21, 23, 28 ve 30 Altında
+Yapılan Tüzük
+
+: Kuzey Kıbrıs Türk Cumhuriyeti Bakanlar Kurulu, Elektronik Haberleşme Yasası'nın
+67'nçi, 68'inci, 69'uncu, 70'inci, 71'inci, 72'nci, 73'üncü, 74'üncü, 75'inci ve 76'nci
+maddelerinin ve Ürün Güvenliği Yasası'nın 18'inci, 21'inci, 23'üncü, 28'inci ve 30'uncu
+maddelerinin kendisine verdiği yetkiyi kullanarak aşağıdaki Tüzüğü yapar.
+
+Kısa İsim
+a
+
+Tefsir
+
+1. Bu Tüzük, “Terminal Donanımları Tüzüğü” olarak
+isimlendirilir.
+
+BİRİNCİ KISIM
+Genel Kurallar
+
+2. (1) Bu Tüzükte metin başka türlü gerektirmedikçe:
+“Abone”, Bir haberleşme sağlayıcı ile bu hizmetlerin verilmesi için
+yapılmış bir sözleşmeye taraf olan herhangi bir gerçek veya tüzel kişiyi
+anlatır.
+“Amatör Telsizci”, Hiçbir maddi, kişisel veya siyasi çıkar gözetmeden,
+sadece kendi istek ve çabası ile telsiz iletişim teknikleri alanında kendini
+yetiştirmek amacıyla ulusal ve uluslararası amatör telsizcilik faaliyetinde
+bulunmak isteyen ve amatör telsizcilik belgesine sahip olan gerçek kişiyi
+anlatır.
+“Amatör Telsizcilik Belgesi”, Türkiye veya Avrupa Birliği üyesi
+ülkelerde ilgili yetkili kurumdan amatör telsizcilik sınavını kazanarak
+verilen, amatör telsizcinin sınıfı, yetkileri ve çağrı işaretini belirleyen ve
+Kurum tarafindan onaylanan belgeyi anlatır.
+
+“Arayüz”, Kullanıcının, elektronik habeilesme şebekesine erişimini
+sağlayan fiziksel bağlantı noktası ve/veya telsiz cihazları arasında
+erişira! sağlayan yayılım ortamını ve bunların teknik özelliklerini anlatır
+“Bakanlık”, Elektronik haberleşmeden sorumlu Bakanlığı anlatır.
+
+“CE” “Conformitee Europeene”, teknik mevzuat uyumu çerçevesinde
+malların serbest dolaşımının tam anlamıyla sağlanması amacıyla
+ürünlerin teknik yapılarına ilişkin mevzuatı daha basit ve genel hale
+getirmek ve bu kapsama giren ürünlerin ilgili Avrupa Birliği mevzuatına
+uygun olduğunu ve gerekli bütün uygunluk değerlendirme
+faaliyetlerinden geçtiğini sağlık, güvenlik ve tüketicinin ve çevrenin
+korunması gerekliliklerine uygunluğunu gösteren işareti anlatır.
+
+“Cihaz,” Telsiz ve/veya telekomünikasyon terminal ekipmanını anlatır.
+“Denetçi” Piyasa gözetimi ve denetimi yapmak üzere Kurum tarafından
+görevlendirilen işin niteliğine uygun uzmanı veya Kurum tarafından
+yetkilendirilen 3. Kişiyi anlatır.
+
+[SAYFA 2]
+2877
+
+“Elektromanyetik Enterferans”, İlgili mevzuat kurallarına uygun olarak
+yapılan her türlü elektronik haberleşmeyi engelleyen, kesinti doğuran
+veya kalitesini bozan her türlü yayın veya elektromanyetik etkiyi anlatır.
+“Elektronik Haberleşme”, Elektriksel işaretlere dönüştürülebilen her
+türlü işaret, sembol, ses, görüntü ve verinin kablo, telsiz, optik, elektrik,
+manyetik, elektromanyetik, elektrokimyasal, elektromekanik ve diğer
+iletim sistemleri vasıtasıyla iletilmesini, gönderilmesini ve alınmasını
+anlatır.
+
+“Elektronik Kimlik Bilgisini Haiz Terminal Donanımları”, elektronik
+haberleşme cihazlarına tek ve benzersiz olarak tahsis edilmiş kimliğe
+sahip terminal donanımlarını anlatır.
+
+“Elektronik (Haberleşme © Sağlayıcı/Haberleşme Sağlayıcı”, Bir
+elektronik haberleşme şebekesinin operatörü veya elektronik haberleşme
+hizmetleri sağlayan tüzel kişiyi anlatır ve Telekomünikasyon Dairesini
+de kapsar.
+
+“Elektronik Haberleşme Şebekesi”, İletilen bilgi çeşidine bakılmaksızın
+uydu şebekeleri, sabit (intemet dâhil, devre ve paket anahtarlı) ve mobil
+karasal şebekeler, sinyal gönderme amacıyla kullanıldıkları ölçüye
+kadar elektrik kablo sistemleri, radyo ve televizyon yayıncılığı için
+kullanılan şebekeler ve kablolu televizyon şebekeleri dâhil, kablo, telsiz,
+optik veya başka elektromanyetik araçlar yoluyla sinyaller
+gönderilmesine imkân veren bir iletim sistemi ve söz konusu olduğunda,
+anahtarlama veya yönlendirme donanımı ve diğer kaynakları anlatır.
+“GSMA”, GSM Birliğini anlatır.
+
+“IEC” (International Electrotechnical Commission), Uluslararası
+Elektroteknik Komisyonu'nu anlatır.
+
+“İmalatçı” Kuzey Kıbrıs Türk Cumhuriyetinde kurulmuş ise, bir ürünün
+üreticisi ve ürüne ismini, ticari markasını veya başka belirgin bir
+işaretini koymak sureti ile kendisini üretici olarak sunan herhangi bır
+kişiyi veya ürünü ıslah eden kişiyi; üreticinin temsilcisi veya üreticisi
+Kuzey Kıbrıs Türk Cumhuriyetinde kurulmuş değilse veya kurulmuş
+olan bir temsilcisi yoksa, ürünün ithalatgisim veya faaliyetleri bir
+ürünün güvenlik özelliklerini etkileyebilecek olması halinde ise arz
+zincirindeki diğer profesyonelleri anlatır.
+
+“IMEI”, Mobil cihazlara ait uluslararası elektronik kimlik numarasını
+anlatır.
+
+“ISO” (International Organisation for Standardization), Uluslararası
+Standartlar Birliği'ni anlatır,
+
+“ITU” (International Telecommunication Union), Uluslararas1
+Telekomünikasyon Birliğini anlatır.
+
+“İthalatçı”, İthal edilen mallarla ilgili olarak ithal edildikleri andan
+başlamak üzere gümrük kontrolünden tesliminin yapıldığı ana kadar bu
+mallarla ilgili herhangi bir mal sahibini anlatır.
+
+“İyi Uygulama Kodları”, İlgili sektördeki mevcut teknoloji düzeyi ve
+bilimsel kriterler çerçevesindeki sağlık ve güvenliğe ilişkin uygulama
+esaslarını anlatır.
+
+“Kamusal Elektronik Haberleşme Şebekesi”, Herkesçe kullanılabilen bir
+elektronik haberleşme şebekesini anlatır.
+
+“Kamusal Haberleşme Sağlayıcı”, Kamusal haberleşme şebekesi
+üzerinden kamuya elektronik haberleşme hizmetleri veren haberleşme
+sağlayıcısını anlatır ve Telekomünikasyon Dairesini de kapsar.
+“Kullanıcı”, Bir abone olsun veya olmasın, elektronik haberleşme
+hizmetleri kullanan herhangi bir gerçek veya tüzel kişiyi anlatır,
+“Kurul”, Elektronik Haberleşme Yasası tahtında kurulan Bilgi
+Teknolojileri ve Haberleşme Kurumunun Yönetim Kurulunu anlatır.
+
+[SAYFA 3]
+2878
+
+“Kurum”, Bilgi Teknolojileri ve Haberleşme Kurumunu anlatır.
+“Numara”, Şebeke sonlanma noktasını tanımlayan ve ses, veriler ve
+görüntülerin o noktaya yönlendirilmesini sağlayan, (uygun olduğunda)
+abone, uygulama, operatör veya hizmet sağlayıcıya ait bilgiler
+içerebilen, harfler ve/veya rakamlar veya sembollerden oluşan bir dizi
+veya kombinasyonu anlatır,
+“Onaylanmış Kuruluş”, Uygunluk Değerlendirme Kuruluşları arasından,
+bu Tüzüğün 12'nci maddesine göre onaylanarak, bir teknik düzenleme
+kapsamında uygunluk değerlendirme faaliyetinde bulunmak üzere,
+tüzükte belirtilen esaslara göre yetkilendirilen kuruluşu anlatır
+“Piyasaya Arz”, Tüzüğün Ek-1’inde belirtilen cihazlar hariç, İnternet
+- aracılığıyla yapılanlar da dâhil olmak üzere, cihazlara ilişkin yazılı,
+görsel ve benzeri ortamlarda reklam, promosyon, satış veya kiralama
+amacıyla yapılan her türlü faaliyet, montajı da dahil olmak üzere imalat
+süreci sona ermiş, tüketime veya kullanıma hazır veya gerekiyorsa
+kurulumunun tamamlanması ile birlikte kullanıma hazır olacak bir
+ürünün tedarik veya kullanım amacıyla bedelli veya bedelsiz olarak ilk
+defa piyasada yer alması için yapılan faaliyeti anlatır.
+“Şebeke Sonlanma Noktası”, Bir abonenin bir elektronik haberleşme
+şebekesine eriştiği fiziksel noktayı anlatır.
+“Sinyal”, konuşma, müzik, sesler, görsel imajlar veya iletiler veya
+herhangi bir türdeki verilerin iletilmesine veya cihazların işletilmesi
+veya kontrol edilmesine hizmet eden sinyalleri anlatır.
+“Site”, Kurum internet sitesini anlatır.
+“Son Kullanıcı”, Bir kamusal elektronik haberleşme şebekesini
+işletmeyen ve kamusal elektronik haberleşme hizmetleri sunmayan
+herhangi bir gerçek veya tüzel kişiyi anlatır.
+“Spektrum”, Elektronik haberleşme için kullanılan ve frekansı 9 kHz-
+3000 GHZ arasında değişen elektronik dalgaların frekans aralığı ve
+uluslararası düzenlemeler kapsamında elektronik haberleşmeye tahsis
+edilen 3000 GHz üzerindeki frekansları anlatır.
+“Standart”, Üzerinde mutabakat sağlanmış olan, kabul edilmiş bir
+kuruluş tarafından onaylanan, mevcut şartlar altında en uygun seviyede
+bir düzen kurulmasını amaçlayan, ortak ve tekrar eden kullanımlar için
+ürünün özellikleri, işleme ve üretim yöntemleri, bunlarla ilgili
+terminoloji, sembol, ambalajlama, işaretleme, etiketleme ve uygunluk
+. değerlendirmesi işlemleri hususlarindan biri veya birkaçını belirten ve
+.bu kapsamda uyulması ihtiyari olan düzenlemeyi anlatır.
+“Telekomünikasyon terminal ekipmanı”, Telekomünikasyon şebekesine
+doğrudan veya dolaylı olarak bağlanan cihaz veya cihazın ilgili
+parçasını anlatır,
+“Telsiz”, Aralarında herhangi bir fiziki bağlantı olmaksızın
+elektromanyetik dalgalar yoluyla açık, kodlu veya kriptolu ses ve veri
+vermeye, almaya veya yalnızca vermeye veya almaya yarayan sistemleri
+anlatır.
+“Terminal Donanımı”, bir kamusal elektronik haberleşme şebekesi
+üzerindeki bir şebeke sonlanma noktasında dolaylı veya dolaysız olarak
+herhangi bir yoldan bağlanmak için tasarlanmış olan ve sinyallerin
+iletilmesine olanak veren cihazı anlatır.
+“TSE” Türk Standartları Enstitüsü'nü anlatır,
+“Tüketici”, Ticari veya mesleki: olmayan amaçlar için elektronik
+haberleşme hizmetleri kullanan veya talep eden herhangi bir gerçek
+veya tüzel kişiyi anlatır.
+
+[SAYFA 4]
+62012
+21/2014
+39/2016
+
+Amac
+
+Kapsam
+
+İlkeler
+
+2879
+
+“Uluslararası Standartlar Teşkilatı (ISO- International Organization for
+Standardization)”, Uluslararası Elektroteknik Komisyonunun çalışma
+sahasına giren elektrik ve elektronik mühendisliği konuları dışında,
+bütün teknik ve teknik dışı dallardaki standartların belirlenmesi
+çalışmalarını yürütmek amacıyla, 1946'da Cenevre'de kurulan
+uluslararası teşkilatı anlatır.
+
+“Uygunluk Değerlendirmesi”, Bir ürüne, sürece, hizmete, sisteme,
+kişiye veya kuruluşa ilişkin belirli şartların yerine getirilip
+getirilmediğini gösteren süreci anlatır.
+
+“Uygunluk Değerlendirme Kuruluşu”, Kalibrasyon, test, belgelendirme
+ve muayene dâhil olmak üzere uygunluk değerlendirme faaliyeti
+gerçekleştiren kuruluşu anlatır,
+
+“Uyumlaştırılmış Standart”, Avrupa Birliği tarafından yayımlanan ortak
+standardı veya Avrupa standartlarına uygun olarak Türk Standartları
+Enstitüsü tarafından uyumlaştırılarak kabul edilen standartları anlatır.
+“Yasa” Elektronik Haberleşme Yasası'nı anlatır.
+
+(2) Bu tüzükte yer almayan tanımlar için Yasada yer alan tanımlar
+geçerlidir.
+
+3. Bu Tüzüğün amacı; terminal donanımları ile ilgili genel kurallara,
+uygunluğuna, öngörülen temel gereklere, teknik gerekliliklere,
+bağlantı hakkı ve bağlantı hakkının reddedilmesine, kullanıcının
+sağlık ve emniyetinin korunmasına ve elektromanyetik enterferans ile
+ilgili koruma ve temel gereklere, uygunluk değerlendirmesinin
+yapılmasına, uygunluk odeğerlemesini yapacak (kuruluşların
+yeterliliğine ilişkin kriterlere, piyasaya sürülen ürünlerin taşıdığı
+risklerin azaltılması için yapılacak işbirliğinin koşullarına, ciddi risk
+taşıyan ürünlerle ilgili alınacak önlemlerle ilgili kılavuz kurallara,
+terminal donanımında yer alacak ve kullanılacak “CE” uygunluk
+işaretine, uygunluk beyanına, haberleşme sağlayıcılarının bilgi
+yayımlamasına ve piyasa gözetimi ve denetimine ilişkin usul ve
+esasları düzenlemektir,
+
+4. Bu Tüzük; bir telsiz ara yüzü kullanan ve yürürlükteki diğer telsiz
+haberleşmesi ile ilgili mevzuata tabi olan terminal donanımlarını ve
+kamu kurum ve kuruluşları ile gerçek ve tüzel kişiler tarafından
+elektronik haberleşme dahilinde kullanılacak her türlü terminal
+donanımını kapsar.
+
+Ancak kamu güvenliği, savunma, ulusal güvenlik veya devletin
+hukuk alanındaki faaliyetleri için kullanılan terminal donanımları bu
+Tüzük kapsamı dışındadır,
+
+5. Bu Tüzüğün uygulanmasında aşağıdaki temel ilkeler göz önüne alınır,
+
+(1) Elektronik haberleşme cihazlarının insan sağlığı, can ve mal
+güvenliği, çevre ve tüketicinin korunması açısından asgari
+uluslararası normlarla ilgili kuralları karşılaması,
+
+(2) Telsiz ekipmanlarının, enterferansa sebep olmamak için, kara,
+deniz, hava ve uzay telsiz haberleşmesine tahsis edilen frekans
+spektrumunun etkin olarak kullanabilmesini temin edecek şekilde
+
+[SAYFA 5]
+Temel Gerekler
+
+89/2007
+
+09.05.2014
+RG. 111
+EK III
+A.E. 295
+
+2880
+
+üretilmesi ve hizmete sunulması,
+
+(3) Cihazın uygun ve etkin derecede elektromanyetik uygunluk ve
+koruma sağlaması,
+
+(4) Tüketici hak ve menfaatlerinin korunması ve gözetilmesi,
+(5) İlgili uluslararası kuruluşların düzenlemelerine uyulması,
+(6) Engelli, yaşlı ve sosyal açıdan korunmaya muhtaç kesimlerin
+
+teknolojik yeniliklerin kullanılması da dahil olmak üzere özel
+ihtiyaçlarının dikkate alınması.
+
+6. (1) Terminal donanımları için aşağıda öngörülen temel gerekler aranır:
+
+(A) Elektronik haberleşme cihazlarının insan sağlığı, can ve mal
+güvenliği, çevre ve tüketicinin korunması açısından asgari
+uluslararası normlarla ilgili kuralları karşılaması,
+
+(B) Terminal donanımlarının enterferansa sebep .olmaması için,
+kara, deniz, hava ve uzay telsiz haberlesmesine tahsis edilen
+frekans spektrumunun etkin olarak kullanabilmesini temin
+edecek şekilde imal edilmesi ve hizmete sunulması,
+
+(2) Kurum tarafından terminal donanımının asgari olarak aşağıdaki
+
+teknik gereklilikleri içerecektir;
+
+(A) Bu Tüzük ile belirlenen teknik kriterler doğrultusunda
+elektronik haberleşme şebekeleri yoluyla başka terminal
+donanımlarıyla bağlantılı olarak çalışabilecek ve uygun tipte
+arayüzlere ulusal veya uluslararası bağlantı yapılabilecek;
+
+(B) Bu Tüzük ile belirlenen teknik kriterler doğrultusunda
+bağlandığı elektronik haberleşme şebekesine ve/veya onun
+işleyişine zarar vermeyecek, hizmet kalitesini azaltmayacak
+veya şebeke kaynaklarının kötü kullanılmasına sebep
+olmayacak,
+
+(C) Yasa, Kişisel Veriler Yasası ve ilgili ikincil düzenlemeler
+doğrultusunda kullanıcının ve abonenin kişisel veri ve
+mahremiyetini koruyacak,
+
+(Ç) Sahtecilik riskini azaltacak,
+
+(D) Yasa ve Yetkilendirme, Numaralandırma ve Spektrum Tüzüğü
+ile belirlenen kriterler doğrultusunda acil ve güvenlik
+hizmetlerine erişimi temin edecek şekilde imal edilmeleri
+aranır.
+
+Ancak Kurum, bu tüzük kuralları uyarınca ve alacağı bir
+kararla belirleyeceği donanım kategorilerine giren terminal
+donanımları ve/veya belirli tiplerden oluşan terminal
+donanımlarının yukarıdaki (2)’nci fikrada belirtilen teknik
+gerekliliklerden bir veya birden fazlasını içerecek şekilde imal
+edilmeleri gerektiğine karar verebilir.
+
+[SAYFA 6]
+Standartlara
+
+Uyumluluk
+
+2881
+
+(3) Kurumun gerek görmesi halinde ve terminal donanımının kullanım
+
+emacı da göz önünde bulundurularak, alacağı bir kararla,
+yukarıdaki (2)’nci fıkrada belirtilen teknik gerekliliklere ek
+olarak, belirleyeceği donanım kategorilerine giren terminal
+donanımının fiziksel engelli kullanıcıların kullanımı için de
+uygun olacak şekilde imal edilmelerini arayabilir.
+
+(4) İthalatçı, imalatçı veya yetkili kıldığı temsilcisi piyasaya, teknik
+
+düzenlemelere uygun cihazları arz etmek zorundadır. İthalatçı,
+imalatçı veya yetkili kıldığı temsilcisi, kendi faaliyetleri ile sınırlı
+olmak üzere, cihazın öngörülen kullanım süresi içinde, yeterli
+uyarı olmaksızın fark edilemeyecek nitelikteki riskleri hakkında
+tüketicilere gerekli bilgiyi sağlamak, özelliklerini belirtecek
+şekilde cihazı işaretlemek, gerektiğinde piyasaya arz edilmiş
+cihazlardan numuneler alarak test etmek, şikâyetleri soruşturmak
+ve yapılan denetim sonuçlarından ilgilileri haberdar etmek,
+cihazların taşıdığı riskler ve bu risklerden korunmak için alınması
+gereken önlemler hakkında ilgililere bilgi vermek, riskleri
+önlemek amacı ile cihazların piyasaya arzının durdurulması,
+toplatılması ve bertarafı da dâhil olmak üzere gerekli önlemleri
+almakla yükümlüdür. İthalatçı, imalatçı veya yetkili kıldığı
+temsilcisi, teknik düzenlemede belirtilen tüm belgeleri; bu
+belgeler kapsamındaki nihai cihazın yurt içinde üretiliyor ise
+üretildiği, ithal ise ithal edildiği tarihten itibaren teknik
+düzenlemede belirtilen süre boyunca muhafaza etmek ve
+istenildiğinde Kuruma ibraz etmekle yükümlüdür.
+
+İKİNCİ KISIM
+Standartlara Uyumluluk
+
+7. (1) Kurum, uyumlaştırılmış standartları değerlendirerek uygun bulduğu
+
+standartlar doğrultusunda Ulusal Standartlar Listesi yayımlar.
+Ulusal Standartlar Listesi'nde yer alan standartlara ve/veya
+uyumlaştırılmış standartlara ve/veya Avrupa Birliğinde resmi
+yollarla yayımlanan teknik düzenlemelere uygun olarak imal
+edilmiş terminal donanımlarının, bu Tüzük'ün 6'ıncı maddesinde
+belirtilen temel gereklere uygun olduğu kabul edilir,
+
+(2) Bir terminal donanımının yukarıdaki (1)'inci fikrada beiirulen
+
+teknik düzenleme ve standartlara uygun bulunmadığı durumda
+Kurum, bu Tüzük'ün 6'ıncı maddesinde belirtilen temel gereklere
+uygun olduğunun belirlenmesinde aşağıdaki kriterleri sırasıyla
+gözönüne alarak değerlendirir;
+
+(A) Avrupa Standartları,
+
+(B) Uluslararası Standartlar Teşkilatı tarafından kabul edilen
+standartları,
+
+(C) Ürün güvenliği değerlendirmesi hakkında ilgili ülkenin ulusal
+standartları,
+
+(Ç) İlgili sektörde yürürlükte olan ürün güvenliğine ilişkin iyi
+uygulama kodları,
+
+[SAYFA 7]
+2882
+
+(D) Teknik bilgi ve teknoloji düzeyi,
+(E) Tüketicinin güvenliğe ilişkin makul beklentileri.
+
+Kurum, bu fikrada belirtilen kriterlerin ne şekilde
+uygulanacağına ilişkin usul ve esasları belirleyeceği tebliğler
+yayımlayabilir,
+
+ÜÇÜNCÜ KISIM
+
+Uygunluk Değerlendirmesi, İşaretleme, Terminal Donanımlarının Bağlantı Hakkı
+
+Kurum
+Tarafından
+Gerçekleştirilen
+Ön İzin Uygunluk
+Değerlendirmesi
+
+12/1883
+46/1990
+22/1996
+
+13.06.2013
+R.G. 105
+EK MI
+A.E.327
+23.07.2013
+R.G. 122
+EK II
+A.E.402
+22.08.2013
+R.G. 135
+EK II
+A.E.447
+
+30.03.2015
+R.G. 50
+EK Il
+A.E. 244
+
+ve Bağlantı Hakkının Reddedilmesi İle İlgili Kurallar
+
+8. (1) Kurum, bu Tüzük kurallarına tabi olan terminal donanımlarının
+
+piyasaya arz edilmesinden önce gerçekleştireceği ön izin
+uygunluk değerlendirmesinde aşağıdaki koşullara uygun olarak
+imal edilip edilmediğini kontrol eder ;
+
+(A) Bu Tüzüğün Sinci Maddesi ile belirlenen ilkeler
+doğrultusunda bu Tüzüğün 6'ncı maddesinde belirtilen temel
+gerekler,
+
+(B) Ulusal standartlar,
+
+(C) Kurum tarafından yayımlanan diğer teknik düzenlemeler,
+
+(Ç) Dış Ticaret (Düzenleme ve Denetim) Yasası uyarınca
+hazırlanıp Resmi Gazete'de yayımlanan İthalatı ve İhracatı
+(Düzenleme ve Denetim) Tüzüğü kuralları,
+
+Ancak, Kurum tarafından bir terminal donanımı için ön izin
+uygunluk — değerlendirilmeşi yapılması bu Tüzüğün 11 inej
+Maddesinde belirtilen uygunluk o değerlendirmesinin yapıldığı
+anlamına gelmeyip, bu Tüzüğün 11’inci Maddesinde belirtilen
+uygunluk değerlendirmesinin ayrıca yapılması gerekmektedir.
+
+(2) Ön izin uygunluk değerlendirmesi başvurusunda bulunacak gerçek ve
+
+tüzel kişiler, Kurum sitesinden yayımlanan başvuru formunu
+doldurarak formda belirtilen belgeler ve Ücretler Tüzüğü uyarınca
+uygunluk değerlendirme ücretinin ödendiğini gösteren belge ile
+birlikte Kurum'a başvuruda bulunurlar,
+
+[SAYFA 8]
+2883
+
+(3) Kurum, başvuru formunun Kurum kayıtlarına alınmasından itibaren
+beş iş günü içerisinde sunulan bilgi ve belgelere ilişkin ön
+değerlendirme gerçekleştirir. Başvuruda, eksik bilgi ve/veya belgelerin
+bulunması halinde başvuruda bulunan kişinin başvuru formunda
+belirttiği iletişim adresine eksik bilgi ve/veya belgelerin en fazla On
+beş iş günü içerisinde giderilmesine yönelik bildirimde bulunulur. Bu
+sürenin sonuna kadar eksikliklerin giderilmemesi halinde ön izin
+uygunluk değerlendirmesi başvurusu yapılmamış sayılır.
+
+(4) Tahsil edilen ön izin uygunluk değerlendirmesi ücreti Ücretler
+Tüzüğü'nde de belirtildiği şekilde iade edilmez.
+
+(5) Gerçekleştirilen ön değerlendirme sürecinde eksik bilgi ve/veya belge
+bulunmaması halinde Kurum, On iş günü içerisinde aşağıdaki
+hususları dikkate alarak ön izin uygunluk değerlendirme prosedürünü
+gerçekleştirir.
+
+Ancak Kurum tarafından numune talep edilmesi halinde, ön
+izin uygunluk değerlendirilmesi süre ve süreci (6)'ncı fikrada
+belirtilen şekilde uygulanır
+
+Kurum;
+(A) Ön izin uygunluk değerlendirme prosedürüne tabi tutulacak olan
+elektronik kimlik bilgisini haiz terminal donanımları ile il gili:
+
+(a) Kurum tarafından kabul edilen Ulusal Standartlara veya bu
+Tüzüğün 6’nci ve 7'nci maddeleri ile belirlenen koşullara
+uygunluğu,
+
+(b) Frekans kullanımı mevcut ise KKTC Ulusal Frekans Planı'na
+uygunluğu,
+
+(e) Sahip olduğu IMEI numaraları ile GSMA kayıtlarına
+uygunluğu,
+
+(ç) Kurum tarafından yayımlanan diğer teknik düzenlemelere
+uygunluğu,
+
+(d) Yukarıdaki (2)’nci fıkrada belirtilen ve başvuru formu ile
+birlikte temin edilecek belgelerden biri olan “CE”
+belgelerinde;
+
+(i) İmalatçının veya yetkili kıldığı temsilcisinin adını,
+
+(ii) İmalatçı tarafından terminal donanımına verilen tip ve
+
+parti veya seri numarasını,
+
+(iii) Donanımın tasarlanan kullanımı hakkında bil giyı,
+
+(iv) Donanımın ilgili temel gereklere uygunluğuna dair bir
+beyanı, ve
+
+(v) Donanımın bağlanması tasarlanan kamusal elektronik
+haberleşme şebekesinin sonlanma noktalarının
+arayüzlerini belirlemek için yeterli bilgileri içerdiği,
+
+kontrollerini yapar,
+
+(B) Ön izin uygunluk değerlendirme prosedürüne tabi tutulacak olan
+elektronik kimlik bilgisini haiz olmayan terminal donanımları;
+
+(a) Kurum tarafından kabul edilen Ulusal Standartlara veya bu
+Tüzüğün 6'ncı ve 7'nci Maddesi ile belirlenen koşullara
+uygunluğu,
+
+(b) Frekans kullanımı mevcut ise KKTC Ulusal Frekans Planı'na
+uygunluğu,
+
+[SAYFA 9]
+(6)
+
+283
+
+(c) Kurum tarafından yayımlanan diğer teknik düzenlemelere
+uygunluğu,
+
+(¢) Yukarıdaki (2)’nci fıkrada belirtilen ve başvuru formu ile
+birlikte temin edilecek belgelerden biri olan “CE”
+belgelerinde;
+
+(i) İmalatçının veya yetkili kıldığı temsilcisinin adını,
+
+(ii) İmalatçı tarafından terminal donanımına verilen tip ve
+
+parti veya seri numarasını,
+
+(iii) Donanımın tasarlanan kullanımı hakkında bilgiyi,
+
+(iv) Donanımın ilgili temel gereklere uygunluğuna dair bir
+beyanı, ve
+
+(v) Donanımın bağlanması tasarlanan kamusal elektronik
+haberleşme şebekesinin sonlanma noktalarının
+arayüzlerini belirlemek için yeterli bilgileri içerdiği,
+
+kontrollerini yapar.
+
+Kurum ön izin uygunluk değerlendirme O prosedürünü
+gerçekleştirebilmek için, herhangi bir safhada, gerek görmesi
+halinde, ithalatçı, imalatçı veya yetkili kıldığı temsilcisinden yazılı
+olarak numune talep edebilir. İthalatçı, imalatçı veya yetkili kıldığı
+temsilci, numune talebini içeren yazılı bildirimin kendisine Kurum
+tarafından teslim edilmesinden itibaren kırk iş günü içerisinde talep
+edilen numunenin Kuruma teslim edilmesini sağlar,
+
+(A) Kuruma teslim edilen numune terminal donanımının bu
+Tüzüğün 13'üncü maddesinin (3Yüncü fıkrasında belirtilen
+teste tabi tutulması halinde, test prosedürünün tamamlanması
+için ihtiyaç duyulan süre test süresinin uzunluğuna göre Kurum
+tarafından belirlenerek başvuru sahibi bilgilendirilir. Söz
+konusu testin tamamlanmasından sonra, (5)'inci fıkrada
+belirtilen işlemler beş iş günü içerisinde gerçekleştirilerek ön
+izin uygunluk değerlendirme prosedürü tamamlanır,
+
+(B) Kuruma teslim edilen numune terminal donanımının bu
+Tüzüğün 13'üncü maddesinin (3'üncü fıkrasında belirtilen
+teste tabi tutulmaması halinde, (5) inci fikrada belirtilen
+işlemler beş iş günü içerisinde gerçekleştirilerek ön izin
+uygunluk değerlendirmesi prosedürü tamanılanır.
+
+(7) Bu Tüzük kurallarına uymayan, ancak imalatçısı tarafından terminal
+
+donanımı üzerine tanıtım amaçlı olduğu ve satılamayacağıma dair bir
+uyarı bulunan terminal donanımı, satılmamak üzere teşhir ve tanıtım
+amaçlı olarak fuar, sergi ve benzeri yerlerde sergilenmek üzere ön izin
+uygunluk değerlendirilmesinden muaf tutulabilir. Bu durumda EK-
+3'de belirtildiği şekilde imalatçısı tarafından cıhaz üzerine cihazın
+tanıtım amaçlı olduğu ve satılamayacağına dair bir uyarı konulması
+zorunludur.
+
+(8) Bu tüzüğe ekli EK-1’de belirtilen terminal donanımları ve/veya
+
+terminal donanım sınıfları, bu tüzük kapsamı dışındadır ve ön izin
+uygunluk değerlendirmesi prosedürüne tabi tutulmaz,
+
+[SAYFA 10]
+Kullanım Bilgileri
+
+ve İşaretleme
+
+Terminal
+Donanımlarının
+Bağlantı Hakkı ve
+Bağlantı Hakkının
+Reddedilmesine
+İlişkin Usul ve
+Esaslar
+
+2885
+
+9. (1) Bu Tüzük ile belirlenen gereksinimlere uygun olarak imal edilmiş
+cihazı piyasaya arz eden imalatçının, ithalatçının veya yetkili
+kıldığı temsilcisinin;
+
+(A) Cihaz ile birlikte, ambalajını, tanıtım veya kullanım
+kılavuzunu, terminal donanımının kullanım amacına ilişkin
+bilgileri, güvenlik bilgilerini, varsa aksesuarlarına dair tanıtıcı
+bilgiler ile bu aksesuarların cihaz ile nasıl kullanılacağına dair
+bilgileri ve uygunluk beyanını Türkçe ve/veya İngilizce
+dilinde, kullanıcılar tarafından kolayca anlaşılabilecek şekilde
+sunması,
+
+(B) Arayüz bilgilerini, imalatçının veya yetkili kıldığı
+temsilcisinin adını, imalatçı tarafından terminal donanımına
+verilen tip ve parti veya seri numarasını; tanıtım veya kullanım
+kılavuzunda ve mümkünse cihaz ambalajı ve/veya cihaz
+üzerinde kullanıcıların dikkatine sunması,
+
+(C) Uyumlaştırılmamış frekans veya frekans bandlarını kullanan
+cihazın piyasaya arz edilmesinden en az dört hafta önce,
+Kuruma izin başvurusunda bulunması gerekmektedir,
+
+(2) Bir ürünün “CE” işareti taşıması, bu Tüzüğe göre aranılan teknik
+düzenlemelere ve gerekli tüm uygunluk o değerlendirmesi
+işlemlerine tabi tutulduğunun imalatçı veya ithalatçı tarafından
+beyan edildiğini gösterir. Bu Tüzük ile belirlenen gereksinimlere
+uygun olarak imal edilmiş cihazı piyasaya arz eden imalatçının,
+ithalatçının veya yetkili kıldığı temsilcisinin;
+
+(A) “CE” işaretini, terminal donanımının üzerinde, ambalajında,
+tanıtım veya kullanım kılavuzunda sunması,
+
+(B) Terminal donanımı üzerinde EK-3'e belirtilen “CE” işaretiyle
+birlikte, terminal donanımının hangi ülkede veya coğrafik
+bölgede kullanıldığına yönelik kısıtlama ve/veya müsade
+şartlarına dair bilgileri, terminal donanımının ambalajı
+üzerinde, tanıtım veya kullanım kılavuzunda kullanıcıların
+dikkatine sunması,
+
+(C) "CE" uygunluk işaretinin görülebilirliği ve okunabilirliğinin
+engellenmemesi koşuluyla, "CE" uygunluk işareti ve
+onaylanmış kuruluşun kimlik kayıt numarasından sonra
+resimli ayrıntı veya kullanım özelliklerini gösteren başka
+işaretler de yer alabilir, Cihaz üzerine, ambalajına, tanıtım ve
+kullanım kılavuzuna, "CE" uygunluk işaretinin anlamı ve
+şekli hakkında üçüncü şahısları yanıltacak başka işaretler
+iliştirilemez, ;
+
+10. (1) Kamusal haberleşme sağlayıcılar bu Tüzüğün 8'inci maddesi
+doğrultusunda OKurum tarafından ön izin uygunluk
+değerlendirmesi olumlu olarak tamamlanmış ve piyasaya arz
+edilmiş terminal donanımlarının uygun arayüzlerle şebekeye
+bağlanmasını reddedemez. Kurum ilgili terminal donanımının bu
+Tüzük ve ilgili mevzuat kurallarına aykırılığını tespit ederse her
+zaman terminal (odonanımının şebekeye (o bağlanmasını
+
+[SAYFA 11]
+Uygunluk
+Değerlendirme
+Yöntemleri
+
+2886
+
+kısıtlayabilir, kısıtlamanın gerçekleştirilmesi için haberleşme
+sağlayıcılara bu yönde bildirimde bulunabilir.
+
+(2) Kamusal haberleşme sağlayıcılar, bu Tüzük kurallarına uygun
+olan terminal donanımının şebekesine ya da işleyişine ciddi
+derecede zarar vermesi ya da enterferans oluşturması hallerinde
+Kurumu bilgilendirir. Kurum, bu durum hakkında ilgili
+değerlendirmeleri yaparak gerekli tedbirlerin alınmasını sağlar.
+Kamusal haberleşme sağlayıcı, ilgili zarar ve enterferans halleri
+dolayısıyla ortaya çıkan acil durumlarda şebekesinin korunması
+gerekliliği ortaya çıkarsa, ilave bir ücret almaksızın, kesintisiz
+alternatif hizmet vermek ve derhal Kurumu bilgilendirmek
+şartıyla terminal donanımının bağlantısını kesebilir.
+
+(3) (A) Haberleşme sağlayıcılar, elektronik haberleşme şebekelerine
+ilişkin arayüz teknik özelliklerini internet sitelerinin ilgili
+bölümünden yayımlarlar. Arayüz teknik bilgileri, imalatçının,
+telsiz ve telekomünikasyon terminal ekipmanlarını elektronik
+haberleşme şebekesiyle birlikte çalışabilecek ve bu şebeke
+üzerinden sunulan hizmetleri (kullanabilecek şekilde
+tasarlaması, imal, test ve piyasaya arz etmesine imkan
+tanıyacak bilgileri içerir. Arayüz teknik özellikleri, aşağıda
+belirtilen yayımlanmış standertları referans göstermelidir;
+
+(a)Avrupa (Birliği Resmi (Gazetesi'nde (referansı
+yayımlanmış olan standartları,
+
+(b)ETSI tarafından benimsenen Avrupa standartları veya
+özellikleri,
+
+(c)ITU ve ISO veya IEC tarafından kabul edilen
+uluslararası standartlar veya tavsiye kararları,
+
+(¢) Forum ve konsorsiyumlarca oluşturulmuş ve kabul
+görmüş endüstri standartları,
+
+(d) TSE tarafından yayımlanan ulusal standartlar veya
+özellikler.
+
+(B) Yukarıda yer alan standartlara referans verilmesinin
+mümkün olmaması durumunda arayüz özellikleri, ilgili
+ETSI rehber dokümanları dikkate alınarak yayımlanır.
+Referans verilen bir standart, seçenekler içeriyorsa arayüz
+teknik özelliklerinde, hangi seçeneklerin uygulanmış olduğu
+belirtilmelidir, Bu maddede yer almayan hususlarla arayüz
+teknik özelliklerinin yayımlanmasına ilişkin bilgiler içeren
+ETSI EG 201 730-1, ETSI EG 201 730-2, ETSI EG 201
+
+. 730-3, ETSI EG 201 730-4 sayılı rehber dokümanlarının
+güncel sürümleri dikkate alınır,
+
+11. (1). Telsiz ve/veya telekomünikasyon terminal ekipmanının bu
+Tüzüğün 6'ncı maddesi ile belirlenen temel gereklere uygun
+olduğunun belirlenmesi için uygunluk değerlendirmesi
+faaliyetinde bulunacak kuruluşlar, aşağıda belirtilen uygunluk
+değerlendirmesi yöntemlerini uygular.
+
+(A) Kara/uzay amaçlı iletişime tahsis edilmiş frekans bandını
+kullanmayan telekomünikasyon terminal ekipmanları ve
+telsiz ekipmanlarının alıcı kısımlarına, imalatçının seçimi
+
+[SAYFA 12]
+Onaylanmış
+Kuruluşlara
+İlişkin Esaslar
+
+2)
+
+2887
+
+doğrultusunda, Ek-2/A, Ek-2/C ya da Ek-2/D'de belirtilen
+prosedürlerden biri uygulanır.
+
+(B) Bu maddenin (A) bendinde belirtilen cihazların dışında yer
+alan telsiz ekipmanlarının imalatında uyumlaştırılmış
+Avrupa standardının veya bu standarda dayalı olarak
+yayımlanan uyumlaştırılmış ulusal standardın tamamen
+uygulandığı durumda, imalatçının seçimi doğrultusunda,
+Ek-2/B, Ek-2/C ya da Ek-2/D de belirtilen prosedürlerden
+biri uygulanır,
+
+(C) Bu maddenin (A) bendinde belirtilen cihazların dışında yer
+alan telsiz ekipmanlarının imalatında uyumlaştırılmış
+Avrupa standardının veya bu standarda dayalı olarak
+yayımlanan uyumlaştırılmış ulusal standardın kısmen
+uygulandığı ya da uygulanmadığı durumda, imalatçının
+seçimi doğrultusunda, Ek-2/C ya da Ek-2/D de belirtilen
+prosedürlerden biri uygulanır.
+
+Bu maddede belirtilmiş olan uygunluk (değerlendirme
+prosedürlerine ilişkin dokümanlar ve uygunluk beyanı Türkçe
+veya İngilizce olacaktır.
+DÖRDÜNCÜ KISIM
+
+Onaylanmış Kuruluşlara İlişkin Esaslar
+
+12. (1) Avrupa Birliği Komisyonu tarafından tahsis edilen kimlik kayıt
+
+2
+
+6)
+
+numarası Avrupa Birliği Resmi Gazetesi'nde veya Avrupa
+Birliği'nin kabul ettiği diğer resmi yollarla yayımlanan ve gerekli
+tim onaylanma süreci tamamlanan uygunluk değerlendirme
+kuruluşu, Kuzey Kıbrıs Türk Cumhuriyeti'nde de onaylanmış
+kuruluş olarak kabul edilir,
+
+Türk Akreditasyon Kurumu veya Kuzey Kıbrıs Türk
+Cumhuriyeti'nde Türk Akreditasyon Kurumu'nun faaliyeti ile eş
+faaliyette bulunmak için kurulacak yetkili kurum ile Avrupa
+Akreditasyon Kuruluşları'nın aralarında işbirliği ve eşgüdümün
+sağlanması amacıyla, oluşturduğu örgütlenme çerçevesinde ilgili
+bir alanda karşılıklı tanıma anlaşması imzalamış akreditasyon
+kuruluşları tarafından, onaylanmış kuruluş olarak faaliyette
+bulunacağı teknik düzenlemede öngörülen faaliyetlerle | ilgili
+olarak akredite edilmiş uygunluk değerlendirme kurüluşlarının, bir
+onaylanmış okutuluşta. aranan ve uyumlaştırılmış — ulusal
+standartlarda öngörülmüş kriterlere uygun oldukları varsayılır. Bu
+kuruluşlarca verilmiş uygunluk belgeleri ulusal onaylanmış
+kuruluşlarca verilen uygunluk değerlendirmesi belgeleriyle
+eşdeğer kabul edilir,
+
+Kurum tarafından bu Tüzük kapsamında onaylanmış kuruluş
+faaliyetinde bulunmak üzere yetkilendirilecek kuruluşlar, Ek-4'te
+belirtilen asgari kriterlere göre belirlenir. Kurum, öncelikli olarak
+Kuzey Kibris Türk Cumhuriyeti'nde yerleşik olan kuruluşlar
+arasından, uygun göreceği sayıda kuruluşu, bu Tüzük
+kapsamındaki uygunluk değerlendirme faaliyetlerini
+
+[SAYFA 13]
+2888
+
+gerçekleştirmeleri üzere değerlendirir ve uygun görmesi halinde
+yetkilendirir. e Yetkilendirilen onaylanmış kuruluşlar Resmi
+Gazete'de ilan edilir ve Kurumun internet sitesinden yayımlanır.
+
+(4) Yerli onaylanmış kuruluşlar;
+
+(A) Bu Tüzük, ilgili mevzuat ve ilgili teknik düzenlemelerde yer
+alan usul ve esaslara uygun olarak, ayrım gözetmeden, şeffaf,
+bağımsız ve tarafsız bir şekilde ve müşterilerine gereksiz
+ekonomik külfet yaratmaksızın uygunluk değerlendirmesi
+hizmeti vermekle,
+
+(B) Kurum tarafından talep edilen bilgileri sağlamak ve ilgili
+teknik düzenlemede öngörülen uygunluk değerlendirmesi
+işlemlerini yapabilmek için gerekli bilgi ve tecrübeye sahip
+yeterli sayıda personel istihdam etmekle,
+
+(C) Faaliyetleri ile ilgili her türlü bilgi, kayıt ve belgeleri, 10 yıl
+süre ile muhafaza etmekle ve Kurum tarafından talep edilmesi
+halinde Kuruma ibraz etmekle,
+
+(Ç) Yürüttükleri mesleki faaliyetleri kapsayacak (şekilde
+sigortalanmakla,
+
+(D) Belge vermiş olduğu imalatçının, ilgili teknik düzenlemede
+belirtilen koşullara uymadığını tespit ettiği takdirde;
+imalatçıya verdiği belgeleri, onayları ve diğer ilgili
+uygunluk değerlendirmesi sonuçlarını, bu uygunsuzluk hali
+imalatçı tarafından gerekli düzeltici önlemler uygulanarak
+giderilinceye kadar ve uygunsuzluk haliyle orantılı bir
+şekilde simirlandirmakla, askıya almakla veya geri
+çekmekle,
+
+(E) Verdikleri, askıya aldıkları, geri çektikleri veya vermeyi
+reddettikleri belgeleri, görevlendirildikleri alan kapsamında
+yürüttükleri uygunluk değerlendirmesi faaliyetlerini, faaliyet
+kapsamı ve koşullarında meydana gelen değişiklikleri,
+yurtdışı faaliyetleri, şubeleri ve sözleşme yaptıkları yüklenici
+firmalar hakkındaki gerekli bilgileri talep etmesi halinde,
+Kurum'a sunmakla, :
+
+(F) Telsiz ve terminal cihazlarina ilişkin aynı tür faaliyetleri
+- sürdüren diğer onaylanmış kuruluşlara, talep etmeleri halinde
+verdikleri, sınırladıkları, askıya aldıkları veya geri çektikleri
+
+belge, onay ve diğer ilgili uygunluk değerlendirmesi sonuçları
+hakkında bilgi sağlamakla,
+
+yükümlüdürler,
+
+(5) Kurum, Resmi Gazete'de yayımlanarak onaylanmış kuruluş statüsü
+kazanan kuruluşların Ek-4'te belirtilen kriterleri taşımadığını veya
+bu kriterlere uygunluğunu sonradan kaybettiğini tespit etmesi
+halinde, onaylanmış kuruluşların faaliyetlerinin geçici olarak
+durdurulmasına karar vererek ilgili kuruluşa kriterlere uygunluğun
+tekrar sağlanması adına süre verebilir. Verilen süre içerisinde
+
+[SAYFA 14]
+2889
+
+kriterlere tekrar uygunluk sağlayamayan kuruluşların onaylanmış
+ku uluş statüsü iptal edilir. Kurum, kriterlere uygunluğun tekrar
+sağlanmasının objektif olarak mümkün olmadığı hallerde doğrudan
+onaylanmış kuruluş statüsünün iptal edilmesine karar verebilir. Bu
+maddenin (1)’inci fıkrası uyarınca bir akreditasyonu olan Ulusal
+Uygunluk o Değerlendirme (O Kuruluşunun Obu akreditasyonu,
+akreditasyonu veren kuruluş tarafından askıya alınması veya geri
+çekilmesi halinde, bu kuruluşun bir onaylanmış kuruluşta aranan
+koşulları taşımadığı kabul edilir.
+
+(6) Kurum, onaylanmış kuruluşların yetkilendirilmesine dair EK-4'te
+
+belirlenenlere ek olarak yeni kriterler belirlemeye yetkilidir.
+
+BEŞİNCİ KISIM
+
+Piyasa Gözetimi ve Denetimi, Terminal Donanımlarının Piyasadan Çekilmesi,
+Piyasaya Sürülmesinin Yasaklanması, Toplatılması ve Serbest Dolaşımının
+
+Piyasa Gözetimi
+
+ve Denetimi
+
+Kısıtlanması
+
+13. (1) Kurum, cihazların bu Tüzük kurallarına uygun ve güvenli olup
+
+olmadığını tespit etmek üzere, cihazların bedelli veya bedelsiz
+piyasaya arz edildiği her yerde, satış, dağıtım ve gerekli
+durumlarda depolama yerlerinde ve cihazın üretim aracı olarak
+kullanıldığı işyerlerinde, nakil araçlarında ve bir uygunsuzluğun
+tespit edilmesi halinde, tasarım veya üretim aşamasındaki ürünü
+ilgili yerlerde, düzenli olarak veya ani ve habersiz bir şekılde
+denetçi eliyle denetleyebilir.
+
+(2) Denetçi denetimlerde ismini, ünvanını, çalıştığı kurumu ve birimi
+ve sicil numarasını belirten fotoğraflı ve onaylı resmi bir kimlik
+taşımak ve denetimden önce bu kimlik ile yetkilendirildiğine
+ilişkin yazıyı göstermek zorundadır.
+
+(3) Denetçi, denetim sırasında denetimi yapılan cihaza ait teknik
+belgeler, kullanım kılavuzu, garanti belgesi, fatura ve ihtiyaç
+duyulabilecek diğer gerekli belgeler ile cihazın bir numunesini
+isteyebilir, bunlardan bir nüshayı alabilir ve bunlar üzerinden
+inceleme yapabilir.
+
+” (4) Piyasa gözetimi ve denetimi sırasında, ithalatçı, imalatçı veya
+
+yetkili kıldığı temsilcisinden talep edilen bilgi, belge ve cihaz
+numunelerinin sağlanamaması veya eksik belge verilmesi veya
+Kurum tarafından ek bilgi, belge ve numune talep edilmesi
+halinde ithalatçı, imalatçı veya yetkili kıldığı temsilcisi yirmi
+işgünü içerisinde ilgili bilgi, belge veya numuneyi Kuruma
+teslim eder.
+
+(5) (A) Kurum gerekli gördüğü hallerde teknik düzenlemeye
+uygunluğu belgelenmiş olsa dahi ithalatçı, imalatçı veya
+
+yetkili kıldığı temsilcisinden yazılı olarak numune talep
+edebilir,
+
+[SAYFA 15]
+48/1977
+28/1985
+31/1988
+31/1991
+23/1997
+54/1999
+35/2005
+59/2010
+13/2017
+
+Terminal
+Donanımlarının
+Piyasadan
+Çekilmesi,
+Piyasaya
+Sürülmesinin
+Yasaklanması,
+Toplatılması ,
+ve
+Serbest
+Dolaşımının
+Kısıtlanması
+
+2890
+
+(B) İthalatçı, imalatçı veya yetkili kıldığı temsilci, numune
+talebini içeren yazılı bildirimin kendisine | teslim
+edilmesinden itibaren beş iş günü içerisinde talep edilen
+numunenin Kuruma teslim edilmesini sağlar. İthalatçı.
+imalatçı veya yetkili kıldığı temsilci numuneyi teslim
+edememesi halinde, teslim edememe nedenlerini Kuruma
+gerekçeleri ile yazılı olarak bildirmekle yükümlüdür.
+
+(6) Kurum numunelerin teknik düzenlemeye uygun ve güvenli olup
+
+(7)
+
+(8)
+
+olmadığının testini kendi kuracağı ve/veya hizmet alacağı bir
+piyasa gözetim laboratuarında ve/veya Türkiye Bilgi
+Teknolojileri ve İletişim Kurumu'nun piyasa gözetim
+laboratuarında yapar veya yaptırır.
+
+Piyasa gözetimi ve denetiminde cihazın teknik düzenlemesine
+uygun ve/veya güvenli olmadığının tespit edilmesi halinde; test,
+numune alma ve muayeneye ilişkin giderler, ithalatçı, imalatçı
+veya yetkili kıldığı temsilcisi tarafından karşılanır. Bu giderlerin
+tahsilinde, Kamu Alacaklarının Tahsili Usulü Yasası kuralları
+uygulanır. Kurum, laboratuvarda yapılan testlere bağlı olarak
+numune cihazlar üzerinde oluşabilecek hasarlardan sorumlu
+tutulamaz,
+
+Kurum cihazlara ilişkin uygunsuzluklar hakkında şikayet ve
+ihbarların yapılabileceği bir başvuru hattı kurar, Başvuru hattına
+gelen ihbar ve şikayetler derhal ilgili birimlere bildirilir. Şikayet
+ve ihbar sahibinin talep etmesi halinde, yapılan işlemlerin
+sonucu en geç otuz gün içinde bu kişilere bildirilir. Başvuru
+hattına ilişkin telefon ve faks numarası, internet adresi,
+uygulanacak ve takip edilecek prosedürler gibi diğer bilgiler
+Kurum tarafından OKurum'un _ internet sitesi o üzerinden
+kamuoyuna duyurulur.
+
+(9) Denetim sonucunda bu Tüzük kurallarına aykırılık tespit edilmesi
+
+14. (1)
+
+halinde, bu Tüzük'ün 14'üncü madde kuralları uygulanır.
+
+Kurum, bu Tüzük kapsamındaki cihazın, Tüzük kurallarına
+uygunluk göstermediğini tespit etmesi halinde, piyasaya arz
+edilmesinin veya hizmete sunulmasının engellenmesi, piyasadan
+veya hizmetten çekilmesi konularında imha edilmesi de dahil
+olmak üzere gerekli tedbirleri alır.
+
+Bu Tüzük kurallarına uygunluğu belgelenmiş olsa dahi, bir
+cihazın güvenli olmadığına dair kesin bulguların bulunması
+halinde Kurum, cihazın kontrol ve/veya revizyonu yapılıncaya
+kadar piyasaya sürülmesinin geçici olarak durdurulması kararını
+alır ve bu kararı ithalatç', imalatçı veya yetkili kıldığı
+temsilcisine bildirir,
+
+(3) Cihazın, bu Tüzük kurallarına uygunluğu belgelenmiş olsa dahi,
+
+piyasa gözetimi ve denetimi çerçevesinde yapılan kontroller
+sonucunda revizyona rağmen güvenli olmadığının tespit edilmesi
+halinde Kurum, masrafları imalatçı, ithalatçı veya yetkili kıldığı
+temsilcisi tarafından karşılanmak üzere imha da dahil olmak
+üzere gerekli tedbirleri alır.
+
+[SAYFA 16]
+2891
+
+(4) Kurum, ulusal frekans bandlarını halihazırda kullanan veya
+kullanması planlanan hizmetler ile enterferans üreterek
+karışıklığa sebep olan veya olacağı düşünülen ekipmanların;
+
+(A) Piyasaya arz edilmesini yasaklamak, kısıtlamak ve/veya,
+
+(B) Piyasadan toplatılması ve mümkünse ithalatçı, imalatçı veya
+yetkili kıldığı temsilcisi tarafından revize ettirilmesini
+sağlamak ve,
+
+(C) Revize edilemeyenlerin veya ithalatçı, imalatçı veya yetkili
+kıldığı temsilcisi tarafından revize edilmeyen cihazların
+tamamen ya da kısmen imhasını sağlamak üzere gerekli
+tedbirleri alır.
+
+(5) (A) İthalatçı, imalatçı veya yetkili kıldığı temsilcisi, sahip
+oldukları bilgi ve mesleki birikim çerçevesinde, piyasaya
+sürdükleri bir ürünün genel güvenlik gerekleri açısından
+tüketicilere yönelik riskler taşıdığını bildikleri veya
+bilmelerinin gerektiği durumlarda, bu riskler ve bu riskleri
+önlemek amacıyla aldıkları tedbirler hakkında Kurumu
+ayrıntılı bir şekilde bilgilendirir ve Kurum ile risklerin
+önlenmesine yönelik gerekli her türlü işbirliğini yaparlar.
+
+(B) Kurum, bilgilendirme üzerine söz konusu risklerin
+giderilmesine yönelik tüketicilerin Kurum tarafından
+belirlenecek mecralarda bilgilendirilmesi, Kurum tarafından
+gerekli duyuruların yapılması, ilgili mercilere durumun
+bildirilmesi ve cihazın kullanımın kısıtlanması da dahil
+olmak üzere gerekli önlemleri alır ve bu önlemlerin
+uygulanabilmesi için ithalatçı, imalatçı veya yetkili kıldığı
+temsilcisi tarafından yerine getirilmesi gereken faaliyetleri
+ithalatçı, imalatçı veya yetkili kıldığı temsilcisine bildirir.
+İthalatçı, imalatçı veya yetkili kıldığı temsilci, Kurum
+tarafından bildirilen tedbirlere ilişkin faaliyetleri derhal
+yerine getirirler,
+
+ALTINCI KISIM
+Çeşitli ve Son Kurallar
+
+Gizlilik . 15. (1) Kurum ve bu Tüzük'ün uygulanmasına katılan tüm taraflar,
+bi görevlerini yerine getirmeleri sırasında, temin ettikleri bütün
+bilgilerin gizliliğini sağlarlar:
+
+(2) Gizlilik mahiyetine haiz bilgiler ancak kamu sağlığının ve
+düzeninin gerektirdiği hallerde adli makamların talebi üzerine ve
+Kuruma bilgi verilmek suretiyle açıklanır.
+
+Ceza Kuralları 16. Bu Tüzük kurallarına aykırı davranan veya faaliyet gösterenler
+
+42/2014 hakkinda, Yasa ve Uriin Güvenliği Yasası ile belirlenen ceza
+kuralları uygulanır.
+
+[SAYFA 17]
+Usul ve Esaslar
+
+Yürütme Yetkisi
+
+Yürürlüğe Giriş
+
+2892
+
+17. Kurum, piyasa gözetimi ve denetimine ilişkin yöntem, numunelerin
+
+18.
+
+19.
+
+alınması, teknik belgelerin incelenmesi, teknik ve idari testler, test
+sonuçlarının degerlendirilmesi, test sonuçlarının bildirimi ve
+numunelerin iadesi, piyasa gözetimi ve denetimine ilişkin görev ve
+yetkiler ile ilgili yönetmelikler çıkartabilir veya tebliğler
+yayımlayabilir.
+
+Bu Tüzük elektronik haberleşmeden sorumlu Bakanlık tarafından
+yürütülür.
+
+Bu Tüzük, Resmi Gazete'de yayımlandığı tarihten başlayarak
+yürürlüğe girer,
+
+[SAYFA 18]
+2893
+EK-1
+
+TÜZÜK KAPSAMI DIŞINDAKİ ve PİYASAYA ARZ EDİLMİŞ SAYILMAYAN
+TERMİNAL DONANIMLARI
+
+1. Bu Tüzüğün kapsamı dışındaki terminal donanımları aşağıda belirtilmektedir;
+
+(1) Amatör radyo spektrumunda yer alan ve ticari olarak piyasada bulunmayan amatör telsiz teçhizatı
+veya devre kartları.
+
+(2) Kablo ve/veya teller.
+
+(3) Yalnızca Radyo, TV ve küresel konumlama sistemi yayın hizmetlerinin alımı için kullanılan alıcı
+terminal donanımları.
+
+(4) Kablolu kordonlu ahizeli telli telefonlar.
+
+(5) Fax cihazları.
+
+(6) Elektronik kimlik bilgisini haiz olmayan bilgisayar, taşınabilir bilgisayar ve tabletler.
+
+(7) Dahili hiçbir elektronik modülü bulunmayan anten ve/veya anten aksamları.
+
+(8) Kurumun alacağı kararlar ile yayımlayacağı diğer terminal donanımları.
+
+2. Aşağıda yer alan cihazlar piyasaya arz edilmiş sayılmazlar: :
+(1) Uygunluk değerlendirmesi işlemlerinin gerçekleştirilmesi amacıyla Kuzey Kıbrıs Türk Cumhuriyeti
+dışında yerleşik üreticisinden, Kuzey Kıbrıs Türk Cumhuriyetinde yerleşik yetkili temsilcisine veya
+
+Kuzey Kıbrıs Türk Cumhuriyetinde yerleşik üreticisinden yurtdışında yerleşik yetkili temsilcisine
+gönderilen cihazlar,
+
+(2) Montaj, paketleme, işleme veya etiketleme gibi ileri bir işlemi gerçekleştirmek amacıyla başka bir
+imalatçıya aktarılan ancak piyasaya arz edilmesi için hazır olmayan cihazlar,
+
+(3) Gümrük ve Rüsumat Dairesince serbest dolaşıma girmeSine henüz izin verilmemiş veya transit,
+
+depolama veya geçici ithalat gibi diğer bir gümrük prosedürüne tabi olan ürünler ile Serbest Liman
+ve Bölge Yasası kapsamındaki serbest bölgelerdeki cihazlar,
+
+(4) Bu Tüzük kurallarına uygun hale getirilmeden piyasaya arz edilmeyeceğine dair açık bir işaret
+taşıması şartıyla ticaret fuarlarında, sergilerde veya gösterilerde sergilenen cihazlar, .
+
+(5) İlgili yerlerde ve amaçlar doğrultusunda kullanılacağının belgelendirilmesi ve makul miktarlarda t
+
+olması koşuluyla inceleme, araştırma ve geliştirme gibi bilimsel amaçlarla kullanılacak ve
+tüketicilerin kullanmayacağı cihazlar.
+
+Bu cihazların piyasaya arz edilmesi veya hizmete sunulması halinde, bu Tüzük kuralları uygulanır.
+
+[SAYFA 19]
+Yı
+
+2894
+
+Ek-2/A
+
+UYGUNLUK DEGERLENDIRME PROSEDURU
+Modül A (İç Üretim Kontrolü)
+
+. A Modülüne göre imalatçı, cihazın bu Tüzüğün temel gereklerine uygunluğunu iç üretim kontrolü
+
+ile sağlar. Bu Ek'in 2 numaralı kısmında belirtilen yükümlülükleri yerine getiren imalatçı, cihazın
+bu Tüzüğün gereklerini yerine getirdiğini beyan ve garanti eder. İmalatçı, her cihaza "CE"
+uygunluk işaretini iliştirir ve yazılı bir uygunluk beyanı düzenler.
+
+İmalatçı, bu Ek'in 4 numaralı kısmında belirtilen teknik dosyayı hazırlar ve son cihazın imal
+edilmesinden itibaren en az on yıl süreyle Kurumun denetimine sunmak üzere muhafaza eder.
+
+İmalatçının veya yetkili temsilcinin KKTC'de yerleşik olmadığı durumda, teknik dosyanın
+muhafaza sorumluluğu cihazı piyasaya arz eden kişiye aittir.
+
+. Teknik dosya, cihazın bu Tüzüğün gereklerine uygunluğunun degerlendirilmesine imkan sağlayacak
+
+şekilde hazırlanır. Teknik dosya, yapılacak değerlendirmeler ile ilgili olması halinde cihazın
+
+tasarımı, imalatı ve/veya çalışmasına ilişkin bilgileri kapsar. Bu dosyanın muhteviyatı, aşağıdaki
+hususları içerir;
+
+e Cihazın genel tanımı,
+
+» Tasarım, imalat, parça gruplarının çizimleri ve devre şemaları,
+
+* Çizimlerin, şemaların ve ürünün çalışmasının anlaşılması için gerekli tanımlar ve açıklamaları,
+
+* Yayımlanacak olan uyumlaştırılmış ulusal standartların kısmen veya tamamen uygulanması
+durumunda bu standartların listesini ve uyumlaştırılmış ulusal standartların uygulanmaması veya
+mevcut olmaması durumunda, bu Tüzüğün temel gereklerini karşılamak üzere benimsenen
+çözümlerin açıklamaları,
+
+* Yapılan tasarım hesaplamalarının ve gerçekleştirilen incelemelerin sonuçları
+» Test raporları.
+
+İmalatçı veya onun KKTC'de yerleşik yetkili temsilcisi teknik dosya ile birlikte uygunluk beyanının
+bir kopyasını muhafaza eder,
+
+İmalatçı imalat sürecinde cihazların bu Ek’in 2 numaralı kısmında atıfta bulunulan teknik dosya ve
+gereklerle uygunluğunu temin etmek için gerekli tüm önlemleri alır.
+
+[SAYFA 20]
+2895
+
+Ek-2/B
+
+UYGUNLUK DEGERLENDIRME PROSEDÜRÜ
+İç Üretim Kontrolü ve Belirli Cihaz Testleri
+
+Bu prosedür, Ek-2/A’da belirtilen prosedür ile birlikte aşağıdaki ek gerekleri de içerir:
+
+1. Üretilen her cihaz için, cihazın özellikleri ile ilgili telsiz testleri, imalatçı tarafından yapılır veya
+yaptırılır. Bu testler, uyumlaştırılmış ulusal standartların olmaması durumunda, imalatçı tarafından
+seçilen bir onaylanmış kuruluşun sorumluluğu altında yapılır. Onaylanmış kuruluş testlerle ilgili
+
+post verirken, diğer onaylanmış kuruluşların daha önce vermiş oldukları kararları dikkate
+almalıdır. '
+
+2. İmalatçı veya onun KKTC'de yerleşik yetkili temsilcisi veya cihazın piyasaya arzından sorumlu
+kişi, bu testlerin yapıldığını ve cihazın temel gereklere uygunluk gösterdiğini beyan etmeli ve *
+
+onaylanmış kuruluşun kimlik kayıt numarasını, onaylanmış kuruluşun sorumluluğu altında ve
+imalat aşamasında cihaza iliştirmelidir.
+
+Ek-2/C
+
+UYGUNLUK DEGERLENDIRME PROSEDURU
+Teknik Dosya
+
+Bu prosedür, ek-2/B’de belirtilen prosedür ile birlikte aşağıdaki ek gerekleri de içerir:
+Ek->'nin 4 numaralı kısmında belirtilen teknik belgeler ve ek-3°te açıklanan telsiz testlerine ilişkin,
+uygunluk beyanı ile birlikte bir teknik dosya oluşturulur.
+
+İmalatçı, KKTC'de yerleşik onun yetkili temsilcisi veya cihazın piyasaya gşzından sorumlu kişi teknik
+dosyayı en az bir onaylanmış kuruluşa sunmalıdır. Teknik dosya, birden fazla onaylanmış kuruluşa
+sunulmuşsa bu onaylanmış kuruluşların her biri teknik dosyayı alan diğer onaylanmış kuruluşları
+bilgilendirmelidir.
+
+Onaylanmış kuruluş, dosyayı gözden geçirerek, prosedürün bu Tüzüğün gereklerine uygun olarak yerine
+getirildiğini tespit etmesi halinde, imalatçıya, KKTC'de yerleşik onun yetkili temsilcisine veya cihazın
+piyasaya arzından sorumlu kişiye görüşünü içeren belgeyi vererek, dosyayı almış olan diğer onaylanmış
+
+kuruluşları da bilgilendirir. Onaylanmış kuruluş, SÖZ konusu belgeyi, dosyanın alınmasından itibaren dört -
+
+hafta içinde verecektir. Onaylanmış kuruluş görüşünün alınması ya da dört haftalık sürenin
+tamamlanmasından sonra cihaz piyasaya arz edilebilecektir.
+
+İmalatçı, yetkili temsilci ya da cihazı piyasaya arz etmekle sorumlu olan kişi teknik dosyayı, son ürünün
+
+imalat tarihine müteakip 10 yıl süre ile muhafaza eder ve istendiğinde Kuruma sunar.
+
+[SAYFA 21]
+1.
+
+2896
+Ek-2/D
+
+UYGUNLUK DEGERLENDIRME PROSEDURU
+Tam Kalite Giivencesi
+
+Tam kalite güvencesi, bu Ek’in 2/A numaralı kısmındaki yükümlülüklerini yerine getiren
+imalatçının, cihazında bu Tüzüğün gereklerini sağlaması ve bunu beyan etmesi halinde uygulanan
+prosedürdür. İmalatçı, her bir cihaza bu Tüzüğün 9 uncu maddesinde belirtilen işaretleri iliştirmeli
+ve bir uygunluk beyanı hazırlamalıdır.
+
+İmalatçı, bu Ek'in 3 numaralı kısmında belirtilen tasarım, imalat aşaması, imalatın
+tamamlanmasından sonra cihazın kontrol ve testlerini kapsayan onaylı bir kalite sistemini uygular
+
+ve onaylanmış kuruluş tarafından bu Ek'in 4 numaralı kısmında belirtilen gözetim işlemine tabi
+tutulur.
+
+3. Kalite sisteminde;
+
+6.1
+
+6.3.
+
+. İmalatçı, kalite sisteminin değerlendirilmesi için bir onaylanmış kuruluşa başvurur. Başvuru
+
+aşağıdaki bilgileri içerir;
+* Tasarlanan cihazla ilgili tüm bilgiler,
+* Kalite sistemi ile ilgili dokümanlar,
+
+. Kalite sistemi, cihazın bu Tüzüğün gereklerine uygunluğunu temin etmelidir. İmalatçı tarafından
+
+benimsenen tüm unsurlar, gerekler ve hükümler; sistematik ve düzenli bir biçimde, yazılı kurallar,
+işlemler ve talimatlar şeklinde dosyalanarak muhafaza edilir. Kalite sistemi dokümantasyonu;
+kalite programları, planlar, el kitapları ve kayıtların aynı şekilde anlaşılmasını sağlar ve özellikle
+aşağıdaki maddelerin yeterli tanımını içerecek şekilde düzenlenir;
+
+* Kalite hedefleri ve organizasyon yapısı ile işletmenin tasarım ve ürün kalitesine ilişkin
+yükümlülükleri ve yetkileri,
+
+* Uyumlaştırılmış ulusal standartlar dahil olmak üzere uygulanacak teknik tasarım özellikleri, bu
+Tüzüğün 7'nci maddesinde belirtilen standartların tam olarak uygulanmaması durumunda temel
+gereklere uygunluğun sağlanması için kullanılacak araçları,
+
+* İlgili cihaz kategorisi kapsamındaki cihaz tasarımında kullanılacak tasarım kontrol ve tasarını
+doğrulaması teknikleri, yöntemleri ve sistematik faaliyetleri,
+
+* Kullanılacak imalat, kalite kontrol ve kalite güvence teknikleri, yöntemleri ve sistematik
+faaliyetleri,
+
+* İmalattan önce, imalat aşamasında ve imalattan sonra cihaz uygun oluncaya kadar
+gerçekleştirilecek ölçüm ve testler ile bunların gerçekleştirilme sıklıkları ve gerekli görüldüğünde
+imalattan önce gerçekleştirilen testlerin sonuçları,
+
+* Test ve inceleme hizmetleri ile temel gerekliliklere uygun testlerin yerine getirilebilmesini
+sağlayan yöntemleri,
+
+* Muayene raporları, test ve kalibrasyon verileri, ilgili personelin nitelik raporlarından müteşekkil
+kalite kayıtları,
+
+* İstenilen tasarım ve ürün kalitesinin sağlanması ve kalite sisteminin etkin bir şekilde işlemesinin
+gözetimi için kullârılan araçları,
+
+Onaylanmış kuruluş, bu Ek'in 3.2 numaralı kısmında belirtilen şartları karşılayıp karşılamadığını
+belirlemek üzere kalite sistemini değerlendirir. İlgili uyumlaştırılmış ulusal standartları uygulayan
+kalite sisteminin bu gereklilikleri karşıladığı varsayılır. :
+Onaylanmış kuruluş, kalite komrol sisteminin, özellikle de ilgili olması halinde imalatçı
+tarafından sağlanmış olan test sonuçlarını içeren bu Ek'in 3.1 ve 3.2 numaralı kısmında ilişkin
+olarak sağlanmış olan ilgili belgelere göre, cihazın bu Tüzüğün gereklerine uygunluğunu
+değerlendirir.
+
+Denetim grubu üyelerinden en az birisi, ilgili ürün teknolojisini değerlendirmek konusunda
+deneyimli olmalıdır. Değerlendirme işlemi, imalat yerine yapılacak bir değerlendirme ziyaretini
+de içerir.
+
+Onaylanmış kuruluş kararını, muayene sonuçları ve gerekçeleri ile birlikte imalatçıya bildirir.
+
+[SAYFA 22]
+as
+
+2897
+
+İmalatçı, onaylandığı şekli ile kalite sisteminden doğan yükümlülüklerini yerine getirir ve
+bunların yeterli ve etkin şekilde devamını sağlar.
+
+İmalatçı, kalite sisteminde yapmayı düşündüğü herhangi bir değişiklik hakkında kalite sistemini
+onaylayan onaylanmış kuruluşu bilgilendirir.
+
+Onaylanmış kuruluş, tasarlanan değişiklikleri değerlendirir ve değiştirilmiş kalite sisteminin bu
+Ek’in 3.2 numaralı kısmında belirtilen gerekleri yerine getirip getirmediğine ve yeniden bir
+değerlendirmenin gerekip gerekmediğine karar verir.
+
+Karar, muayene sonuçları ve gerekçeleri ile birlikte imalatçıya bildirilir.
+
+7. Bu prosedür kapsamında onaylanmış kuruluşun gözetim sorumluluğu;
+
+7.1. Onaylanmış kuruluş, imalatçının onaylanmış kalite sisteminden doğan yükümlülüklerini uygun
+bir şekilde yerine getirdiğinden emin olmak için gözetim faaliyetinde bulunur.
+
+7.2. İmalatçı, onaylanmış kuruluşun denetleme amacı ile tasarım, imalat, denetim, test ve depolama
+yerlerine girmesine izin verir ve onaylanmış kuruluşa gerekli her türlü bilgiyi özellikle;
+* Kalite sistemi ile ilgili dokümanları,
+* Analiz, hesaplama ve testlerin sonuçları gibi kalite sisteminin tasarım bölümünce öngörülen
+kalite kayıtlarını,
+
+* Muayene raporları, test ve kalibrasyon verileri ve ilgili personelin nitelik raporları gibi kalite
+- sisteminin imalat bölümünce öngörülen kalite kayıtlarını
+sağlar.
+7.3. Onaylanmış kuruluş, imalatçının kalite sistemini sürdürdüğü ve uyguladığından emin olmak için,
+periyodik olarak denetim yapar ve imalatçıya bir denetim raporu düzenler.
+7.4. İlave olarak onaylanmış kuruluş, imalatçının haberi olmadan ziyâretlerde bulunabilir. Bu
+ziyaretlerde onaylanmış kuruluş, eğer gerekiyorsa kalite sisteminin doğru işlediğini tetkik etmek
+
+için testler yapabilir veya yaptırabilir. Onaylanmış kuruluş, imalatçıya ziyaret raporuyla birlikte,
+yapılmışsa bir de test raporu düzenler.
+
+8. İmalatçı, aşağıdaki bilgileri, son ürünün üretildiği tarihten itibaren on yıl süreyle muhafaza eder ve
+istenildiğinde Kuruma sunar,
+a) Bu Ek’in 3.1 numaralı kısmında ikinci satırında belirtilen dokümanlar, o
+b) Bu Ek’in 3.4 numaralı kısmında ikinci paragrafında belirtilen değişiklik bildirimi,
+c) Bu Ek’in 3.4 numaralı kısmında son paragrafı ile bu Ek'in 4.3 ve 4.4 numaralı kısmında
+- belirtilen onaylanmış kuruluşa ait karar ve raporlar.
+
+9. Her onaylanmış kuruluş, verilen ve geri çekilen kalite sistemi onayları hakkında diğer onaylanmış
+kuruluşlara bilgi vermek zorundadır.
+
+[SAYFA 23]
+2898
+EK-3
+
+BU TÜZÜK KAPSAMINDAKİ TERMİNAL DONANIMLARINDA
+KULLANILACAK ETİKET VE İŞARETLER
+
+(1) "CE" uygunluk işareti
+
+1. "CE" uygunluk işareti aşağıda belirtilen formata uygun olarak, en az 5 mm yüksekliğinde
+olmalı ve boyutlandırılmasında da aşağıdaki taslak çizimdeki oranlar göz önünde
+
+bulundurulmalıdır.
+20 mi Jİ
+15 il
+= Dk:
+=" >.
+i
+Ji a
+40 =! İli
+Mi ae
+ba
++ ww
+gam ES TI
+a mik 17 27
+1 1G VR
+
+2. "CE" uygunluk işareti terminal donanımına veya bilgi plakasına yerleştirilmelidir. Ayrıca
+ambalajına ve cihazın beraberindeki belgelere de iliştirilmelidir.
+
+3. "CE" işareti okunabilecek boyutta ve silinmeyecek şekilde cihaza iliştirilmelidir.
+
+4. Bu Tüzük kapsamında benzer olarak değerlendirilen cihazlar özelliklerine göre aşağıda
+belirtildiği şekilde sınıflandırılır;
+a) Sınıf 1: Piyasada yer alabilen ve hiçbir kısıtlama olmaksızın işletime açılabilen cihazları,
+b) Sınıf 2: Kurum tarafından servis verilmesi ve piyasada yer alması hususunda kısıtlama
+
+uygulanan Telsiz Ekipmanları.
+
+5. 2'nci sınıf kapsamındaki cihazlara, aşağıda belirtilen forma uygun "Uyarı İşareti" ve "CE"
+
+uygunluk işareti ile aynı yükseklikte olacak şekilde iliştirilmelidir.
+
+fi Bt es Ye 2
+
+a
+
+Tır
+
+i ima!
+i Bl 1111
+EE EZ EE) eS isi e EL
+
+[SAYFA 24]
+2899
+
+(2) Satışı yapılmayacak ancak tanıtım amaçlı ve/veya teşhir edive olarak terminal donanımı,
+
+6. Bu Tüzük kurallarına uymayan cihaza, fuar, sergi ve benzeri yerlerde tanıtım amacıyla teşhir
+
+edilmeden önce, aşağıda gösterilen taslak çizimdeki oranlar göz önünde bulundurularak
+boyutlandırılan bir etiket, görülebilir ve silinmeyecek şekilde iliştirilmelidir.
+
+[SAYFA 25]
+2900
+
+Ek-4
+
+KURUM TARAFINDAN ONAYLANMIŞ KURULUŞLARIN BELİRLENMESİNDE
+DİKKATE ALINACAK ASGARİ KRİTERLER
+
+» Onaylanmış kuruluş, yöneticisi ve uygunluk değerlendirmesi yapmakla sorumlu personeli; cihazın
+
+tasarımcısı, imalatçısı, tedarikçisi, montajcısı, şebeke operatörü, hizmet sağlayıcısı veya bunlardan
+herhangi birinin yetkili temsilcisi olamaz ve bu hususlarda danışmanlık hizmeti veremez.
+Onaylanmış Kuruluş yetkilileri ve uygunluk değerlendirmesi yapmakla sorumlu personel bağımsız
+olmalı ve ürünün tasarımı, imalatı, piyasaya arzı veya bakım-onarımında doğrudan ya da dolaylı
+
+olarak yer almamalıdır. Bu hiiküm, imalatçı ile kuruluş arasında teknik bilgi alışverişine engel
+teşkil etmez.
+
+Bu kuruluşlar ve personelleri, uygunluk değerlendirmesini, mesleki ahlak kuralları çerçevesinde ve
+teknik yeterlilikle yürütmek ve bu işlemlerin sonuçlarından çıkarı bulunan kişilerden gelebilecek,
+
+test sonuçları veya kararlarını etkileyebilecek, özellikle mali olmak üzere tüm baskı ve etkilerden
+uzak kalmalıdırlar.
+
+Bu Kuruluşlar, uygunluk değerlendirmesine ilişkin idari ve teknik görevlerini yerine getirmelerini
+mümkün kılacak gerekli personel ve teknik donanıma sahip olmanın yanı sıra özel incelemelerin
+gerektirdiği teçhizata da erişebilmelidirler.
+
+Uygunluk değerlendirmesinden sorumlu personel;
+
+a) Yeterli teknik ve mesleki eğitime,
+
+b) Yapacakları testlerin gerektirdiği düzeyde yeterli bilgi ve tecrübeye,
+
+e) Belgeleri, kayıtları ve testlerin ifa edildiğini teyit eden raporları hazırlama hususunda beceriye
+sahip olmalıdır.
+
+Muayenelerin tarafsızlığı garanti edilmeli ve bu çerçevede personelin ücretleri, yapılan testlerin
+sayısına veya sonuçlarına bağlı olmamalıdır.
+
+Orzyıanmış kv»uluş, eğer sorumluluk ülkenin ulusal mevzuatına uyumlu olarak ön görülmüyorsa
+veya ülke doğrudan kendisi sorumlu değilse, mesleki sorumluluk sigortası edinmelidir.
+
+Bu kuruluşların personeli, bu Tüzüğün veya ulusal mevzuatların yaptırımları olan işlemler sırasında
+elde ettikleri her türlü bilgi konusunda mesleki gizlilik ilkesine riayet etmek zorundadır. Bu
+uygunluk değerlendirmesi sonucunda elde edilen bilgiler, Kurum hariç, üçüncü taraflara verilemez.
