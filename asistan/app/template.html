@@ -704,8 +704,11 @@ async function birlesik(q, n){
   const dfAd={}; own.forEach(w=>{ dfAd[w]=T.adt.filter(t=>t.has(w)).length; });
   const adBonus=i=>{ let b=0; own.forEach(w=>{ if(T.adt[i].has(w)) b+=2*Math.log(1+T.ys.length/(1+dfAd[w])); }); return b; };
   const goruldu=new Set();
-  const ls=T.ys.map((y,i)=>({y, s:(s1[i]+adBonus(i)+(s2?.3*s2[i]:0))*(y.kd?.4:1)*(y.elle?1.25:1)*(y.tz?.85:1)})).filter(x=>x.s>1.5).sort((a,b)=>b.s-a.s)
-    .filter(x=>{ const k=fold(x.y.a).replace(/\d+|\s+/g,''); if(goruldu.has(k)) return false; goruldu.add(k); return true; }).slice(0,6);
+  const ls0=T.ys.map((y,i)=>({y, s:(s1[i]+adBonus(i)+(s2?.3*s2[i]:0))*(y.kd?.4:1)*(y.elle?1.25:1)*(y.tz?.85:1)})).filter(x=>x.s>1.5).sort((a,b)=>b.s-a.s)
+    .filter(x=>{ const k=fold(x.y.a).replace(/\d+|\s+/g,''); if(goruldu.has(k)) return false; goruldu.add(k); return true; });
+  // yasalara 5, tüzüklere en fazla 2 yer: binlerce tüzük yasaların önünü kesmesin
+  const ylar=ls0.filter(x=>!x.y.tz).slice(0,5), tlar=ls0.filter(x=>x.y.tz).slice(0,2).filter(x=>!ylar.length||x.s>=.6*ylar[0].s);
+  const ls=[...ylar,...tlar].sort((a,b)=>b.s-a.s);
   if(!ls.length) return search(q);
   const top=ls[0].s;
   const groups=await Promise.all(ls.map(async x=>{
