@@ -1,0 +1,1042 @@
+[SAYFA 1]
+706
+Sayı : 244
+; ELEKTRONIK HABERLESME YASASI
+
+(6/2012 ve 21/2014 Sayılı Yasalar)
+Madde 29, 30, 59, 63, 75, 86 Altında Yapılan Tüzük
+
+Kuzey Kıbrıs Türk Cumhuriyeti Bakanlar Kurulu, Elektronik, Haberleşme Yasası'nın 29'uncu,
+30'uncu, 59'uncu, 63”üncü, 75'inci ve 86'ncı Maddelerinin kendisine verdiği yetkiye dayanarak
+aşağıdaki Tüzüğü yapar:
+
+Kısa İsim 1. Bu Tüzük, “Ücretler Tüzüğü” olarak isimlendirilir.
+
+BİRİNCİ KISIM
+Genel Kurallar
+
+Tefsir 2.Bu Tüzükte metin başka türlü gerektirmedikçe:
+
+“ASÜ (Asgari Ücret)”, Kuzey Kıbrıs Türk Cumhuriyeti Asgari Ücret
+Tespit Komisyonu tarafından belirlenen ve en güncel hali ile Resmi
+Gazetede yayımlanan asgari ücret miktarını anlatır. .
+“Bakanlık”, elektronik haberleşmeden sorumlu Bakanlığı anlatır.
+“Başvuru Merci”, haberleşme Sağlayıcı abone kayıt merkezleri ile
+Kurumun belirleyeceği yerleri anlatır.
+
+“Bireysel İthalat”, transit yolcular hariç olmak üzere yurt dışından
+yolcu beraberi ve/veya posta yoluyla getirilen elektronik kimlik
+bilgisini haiz cihazların ticari nitelikte olmayan ithalatını anlatır.
+“Bireysel Kullanım Hakkı”, haberleşme sağlayıcısına 9 kHz ile 3000
+GHz frekansı arasında elektromanyetik enerji ve numara kullanımına
+ilişkin spesifik haklar tanıyan veya söz konusu hakları Kurulun
+onayını almaksızın kullanma yetkisi bulunmadığı durumlarda,
+haberleşme sağlayıcısının faaliyetlerini, ilgili hallerde, bir genel
+yetkiyi tamamlayan spesifik yükümlülüklere tabi tutan, yetkiyi
+anlatır. ey
+
+“Elektromanyetik Enterferans/Enterferans”, ilgili diğer mevzuat
+kurallarına uygun olarak yapılan her türlü elektronik haberleşmeyi
+engelleyen, kesinti doğuran veya kalitesini bozan her türlü yayın
+veya elektromanyetik etkiyi anlatır
+
+“Elektronik Haberleşme Sağlayıcı/Haberleşme Sağlayıcı”, bir
+elektronik haberleşme şebekesinin operatörü veya elektronik
+haberleşme (o hizmetleri sağlayan tüzel kişiyi anlatır ve
+Telekomünikasyon Dairesini de kapsar.
+
+“Elektronik Kimlik Bilgisini Haiz Cihaz” , tek ve benzersiz olarak
+tahsis edilmiş kimlik tanımına sahip cihazları anlatır.
+
+“Genel Yetkilendirme”, elektronik haberleşme şebeke ve hizmetleri
+sağlanmasına dair hakları veren ve Yasaya uygun olarak tüm veya
+özel elektironik haberleşme şebeke ve hizmetleri türlerine
+uygulanabilecek sektöre özgü yükümlülükleri belirleyen hukuki bir
+çerçeveyi anlatır.
+
+[SAYFA 2]
++
+
+i re
+
+Amaç
+
+Kapsam
+
+İlkeler
+
+23/2014
+6/2012
+
+707
+
+“Güvenlik Mesafesi”, antenden itibaren ve antenlerin yayın yönü ile
+cihaz çıkış gücü, anten kazancı, elektrik alan limit değeri dikkate
+alınarak hesap edilen metre cinsihden değeri anlatır.
+
+“Güvenlik Sertifikası”, güvenlik mesafesine göre kurulan her bir
+sabit elektronik haberleşme cihazı için, telsiz cihazını işleten kişiye
+verilen belgeyi anlatır.
+
+“Kurul”, Yasa tahtında kurulan Bilgi Teknolojileri ve Haberleşme
+Kurumunun Yönetim Kurulunu anlatır.
+
+“Kurum”, Bilgi Teknolojileri ve Haberleşme Kurumunu anlatır,
+“Pro-Rata”, oransal esasa göre yapılan hesaplamayı anlatır.
+“Spektrum”, elektronik haberleşme için kullanılan ve frekansı 9 kEIz-
+3000 GHz arasında değişen elektronik dalgaların frekans aralığı ve
+uluslararası düzenlemeler kapsamında elektronik haberleşmeye
+tahsis edilen 3000 GHZ üzerindeki frekansları anlatır.
+
+“Telsiz”, aralarında herhangi bir fiziki bağlantı olmaksızın
+elektromanyetik dalgalar yoluyla açık, kodlu veya kriptolu ses ve
+veri vermeye, almaya veya yalnızca vermeye veya almaya yarayan
+sistemleri anlatır.
+
+“Terminal Donanımı”, bir kamusal elektronik haberleşme şebekesi
+üzerindeki bir şebeke sonlanma noktasında dolaylı veya dolaysız
+olarak herhangi bir yoldan bağlanmak için tasarlanmış olan ve
+sinyallerin iletilmesine olanak veren cihazı anlatır.
+
+“Yasa”, Elektronik Haberleşme Yasasını anlatır.
+
+3. Bu Tüzüğün amacı, Kurum tarafından tahsil edilecek olan Yasa ile alt ve
+üst sınırları belirlenen ücretleri ve bu ücretlerin tahsiline ilişkin usul ve
+esasları belirlemektir.
+
+4. Bu Tüzük; Yasa ile alt ve üst sınırları belirlenen bireysel kullanım hakkı
+tahsis ve kullanım ücretlerinin, geçici süreliler de dahil olmak üzere telsiz
+ruhsat ve kullanma ücretlerinin, terminal donanımlarının uygunluk
+değerlendirmesi ücretlerinin, güvenlik mesafesinin: belirlenmesine yönelik
+elektromanyetik alan şiddeti ölçümleri ve sertifikası ücretlerinin, elektronik
+kimlik bilgisini haiz cihazların kayıt ücretlerinin, danışmanlık ve yardım
+ücretlerinin belirlenmesine ve bu ücretlerin tahsilinde uygulanacak süreçlere
+ilişkin usul ve esasları kapsar.
+
+5. Bu Tüzüğün uygulanmasında aşağıdaki temel ilkeler göz önüne alınır.
+
+(1) Elektronik haberleşme hizmetlerinin düzenlenmesinde karar
+almada şeffaflık, tarafsızlık ve nesnelliğin sağlanması ve karar
+almadan önce geniş ölçüde danışma yapılması,
+
+(2) Serbest, etkin ve sürdürülebilir bir rekabet ortamının sağlanması
+ve korunması,
+
+(3) Ülkenin her yerinde, makul bir ücret karşılığında geniş kapsamlı
+elektronik Oo haberleşme Oo şebeke ve hizmetlerinden
+yararlanılmasının sağlanması.
+
+[SAYFA 3]
+n
+LA
+i
+an
+SU
+09.0
+>
+
+an
+
+ff
+
+asa
+apsa da
+agla arda
+5 anim
+> pa Fe
+[>
+a dala
+6 de g
+a N
+arak öde
+O
+a
+n
+a m
+CSaD!l d
+apsa
+ara
+ed
+> o O
+5
+a da
+a Up
+Bi Nabe
+dip be
+na
+i taratinda
+6 düzenle
+anın a
+aynakla
+ara
+Öde
+p b N
+de ald
+
+” marala
+a p ara a
+D Se e
+e Oncesi bir defaya n
+a e ara 5
+a . a çi o
+» a
+Öd a anıla avne
+a a alinde. g avnağa
+ayna a onland
+aberle e sağla ire
+dan bild a b
+Gi Cİ
+a gönde alrla :
+“ Cll Ode
+aatindan Iptal ed
+de yapila a a
+pro-rata o a
+arak'n 2 ec
+Ci Ci v o
+am ava
+da ara Ni j
+a ci
+a N sileri de
+2 a aleb
+onra ba a
+avded N Ni
+e sağla
+5 a bild Ni
+dia da
+velava
+5 deko
+oP On beş) e
+ah edile a
+q abe
+> Del ge .
+5 d a te
+a aya başlayah
+da a e bire
+a
+ba
+anıp
+CE Ödeme
+
+a ne
+de be e
+olma ere
+ekle diğ
+ve 6
+birevce
+C ada a
+- ci
+bina a
+Da a
+cl a a
+birevce
+O ala o
+a 0
+p ed e
+adde a
+Ci 0 di
+ci vsabına
+Ci a
+ene banka
+Da a ona
+de Da
+5
+avia a
+- de
+a
+cilend d
+” a de
+
+ö
+aberle
+alla
+e DO
+Ocak a
+2
+pro-ra
+banka
+a kada
+a
+alarında
+a
+da
+2 a
+o
+a
+esabina
+ahib
+D
+a ta
+a
+a
+ba
+
+[SAYFA 4]
+Telsiz Ruhsat ve
+Kullanma Ücreti
+
+709
+
+(6) Frekans spektrumundaki sayısı sınırlandırılmış frekans bantlarının
+kullanım hakları ve ücretleri Yasanın 64'üncü maddesi uyarınca
+gerçekleştirüccek ihale kapsamında belirlenir. Kurum, ihaleye başvuru
+yapacak kişilerce ödenmesi gereken ihale başvuru ücretini ve ihale teklif
+bedelini tahsil eder ve ihale teklif bedelini Maliye Bakanlığı'na yatırır.
+
+(7) Bireysel kullanım hakkı kapsamında tahsis edilen kaynakların bir
+kısmının veya tamamının Kuruma iade edilmesi veya Kurum tarafından geri
+alınması veya kullanım hakkının herhangi bir nedenle iptali veya feshi veya
+sona ermesi veya yetkilendirmenin iptali durumunda alınan bireysel
+kullanım hakkı tahsis ve kullanım ücretleri iade edilmez,
+
+(8) Yetkilendirme kapsamı dışındaki frekans ve numara tahsisleri ile deneme
+izni kapsamındaki tahsislerde, tahsis ve kullanım ücretleri bu madde
+kuralları uyarınca tahsil edilir,
+
+(9) Kurum tarafindan bireysel kullanım haklarının başka bir haberleşme
+sağlayıcıya devrinin uygun bulunmasından sonra, Söz konusu bireysel
+kullanım haklarını devralan haberleşme sağlayıcıdan devredilen haklara
+ilişkin olarak tahsis ücreti alınmaz, devir tarihinden itibaren geçerli olacak
+şekilde kullanım hakkı ücreti pro-rata olarak peşin tahsil edilir.
+
+(10) Yasa'nın 62'nci maddesinin (2)'nci fikrası kapsamındaki telsiz
+cihazlarının kullandığı frekans bantları için bireysel kullanım hakkı tahsis
+ve kullanım ücreti alınmaz.
+
+7. (1) Yasa kapsamında telsiz kurma (ruhsat) ve kullanma izni verilen
+kişilerden bu Tüzüğe ekli Birinci Cetvel'de belirtilen kurallar ve ücretler
+doğrultusunda; izin verilmesinden önce bir defaya mahsus olmak ÜZere
+ruhsat ücreti, telsiz kullanımının gerçekleştirildiği süre boyunca ise kullanım
+ücreti alınır. Telsiz kurma ve kullanma izni talebinde bulunan haberleşme
+sağlayıcılara da aynı kurallar uygulanır.
+
+(2) Telsiz kullanım ücretleri en geç her yılın Ocak ayı sonuna kadar ödenir,
+
+“© Ancak verilen telsiz kurma ve kullanma iznine ilişkin sürenin yıl içerisinde
+
+sonlanması halinde, o izne ait telsiz kullanım ücreti telsiz kurma ve kullanma
+izninin sonlandığı süre sonuna kadar aylık pro-rata olarak ödenir. Telsiz
+kuran ve işleten kişiler kullanım ücretlerini, Kurum tarafından bildirilen
+Kurum banka hesabına yatırmak ve banka dekontunu Kurum'a göndermekle
+yükümlüdürler, Şubat ayı sonuna kadar telsiz kullanım ücreti ödenmeyen
+telsiz sistemlerinin ruhsatları Kurum tarafından iptal edilir.
+
+(3) Yıl içerisinde ruhsatı verilen telsiz sistemlerinin kullanım ücreti, başvuru
+sırasında pro-rata ve peşin olarak tahsil edilir. Pro-rata uygulamalarında, ay
+hesabı dikkate alınır, ay kesirleri tam aya tamamlanır.
+
+(4) Telsiz kurma ve kullanma talebinin Kurum tarafından uygun
+bulunmasından sonra başvuruya ilişkin ruhsat ve kullanım ücreti Kuruma
+gelir kaydedilmek üzere Kurum banka hesabına yatırılması gerektiği
+
+[SAYFA 5]
+Terminal
+Donanımlarının
+Uygunluk
+Değerlendirmesi
+Ücreti
+
+710
+
+haberleşme sağlayıcıya bildirilir. Telsiz ruhsat ve kullanım ücretlerinin
+Kurum tarafından belirlenen banka hesabına yatırıldığını belgeleyen
+
+“dekontun aslının veya banka onaylı suretinin Kuruma sunulmasını müteakip
+
+10 (On) iş günü içerisinde başvuru sahibine Kurum tarafından telsiz kurulum
+izni (ruhsat) düzenlenerek teslim edilir. Telsiz ruhsatının başvuru sahibine
+teslim edilmesinden sonra ruhsata uygun olarak telsiz sistemlerini kurup
+işletebilir.
+
+(5) Kurum tarafından yazı ile telsiz ruhsat ve kullanım ücretinin ödenmesine
+
+ilişkin başvuru sahibinin bilgilendirildiği tarihten itibaren 20 (Yirmi) iş günü
+
+içinde ödemenin yerine getirilmemesi durumunda, başvuru işlemden
+kaldırılır.
+
+(6) Telsiz cihazlarının kurulmaması, kullanımına son verilmesi, ara
+verilmesi, telsiz ruhsatının Kurum tarafından iptal edilmesi, telsiz ruhsatı
+sahibinin haberleşme sağlayıcı olduğu durumlarda haberleşme sağlayıcının
+yetkilendirmesinin iptali durumlarında alınan ruhsat ve kullanım ücretleri
+iade edilmez.
+
+(7) Haberleşme sağlayıcılar, mevcut hizmetlerinin aksamasına ve
+abonelerinin etkilenmesine izin vermeyecek şekilde, Kuruma gerekli
+bildirimi yaptıktan sonra elektronik haberleşme şebekelerinin tümünü veya
+belirli bir kısmını genel yetkilendirme için başvuruda bulunmuş ve
+haberleşme sağlayıcılar siciline kaydedilmiş başka bir haberleşme
+sağlayıcıya devretmesi durumunda, devir işlemi yapılan telsiz sistemleri için
+ruhsat ücreti alınmaz, devir tarihinden itibaren geçerli olacak şekilde telsiz
+kullanım ücreti pro-rata olarak peşin tahsil edilir,
+
+(8) Telsiz istasyonunda yapılacak herhangi bir değişiklik sonucunda,
+değişikliğin yapıldığı yıl için ödenen ilgili istasyona ait telsiz yıllık kullanım
+ücretinde fark oluşması halinde, bu ücret farkı değişiklik izninin verildiği
+aydan başlayarak aylık pro-rata olarak tahsil edilir. Ancak, telsiz yıllık
+kullanım ücretinin yapılan değişiklik sonucunda, değişikliğin yapıldığı yıl
+için ödenen ilgili istasyona ait telsiz yıllık kullanım ücretinin altına düşmesi
+halinde herhangi bir ücret iadesi yapılmaz.
+
+(9) Yasa'nın 62'nci maddesinin (2)'nci fıkrası kapsamındaki telsiz cihazları
+için ruhsat ve kullanım ücreti alınmaz.
+
+8.(1)Yasa kapsamında;
+
+(A) Üreticilerden, yurt içinde ürettikleri terminal donanımlarını piyasaya
+sürmeden önce,
+
+(B)İthalatçılardan, yurtdışından ithal ettikleri terminal donanımlarının
+yurtiçine girişi yapılmadan önce,
+
+(C)Bireysel kullanım amacıyla ithal edilen cihazların sahiplerinden,
+Yurtdışından ithal edilen terminal donanımlarının yurtiçine girişi
+yapılmadan önce,
+
+Kurum tarafından gerçekleştirilecek uygunluk değerlendirmesi için bu
+Tüzüğe ekli Birinci Cetvel'de belirtilen ücretler alınır.
+
+[SAYFA 6]
+Güvenlik
+Mesafesinin
+Belirlenmesine
+Yönelik
+Elektromanyetik
+Alan Şiddeti
+Ölçümleri ve
+Sertifikası Ücreti
+
+MAŞ o
+
+711
+
+(2) Uygunluk değerlendirmesi ücretleri, uygunluk değerlendirilmesi
+başvurusunun gerçekleştirilmesinden önce Kurum tarafından bildirilen
+Kurum banka hesabına yatırılır ve banka dekontu başvuru evrakları ile
+birlikte Kurum'a teslim edilir.
+
+(3) Uygunluk değerlendirmesi başvurusunun Kuruma teslim edildikten
+sonra yapılan incelemede eksik bilgi veya evrak tespit edilmesi halinde
+eksiklerin tamamlanması için başvuru sahibine 15 (On beş) iş günü süre
+verilir. Eksikler tamamlanıncaya kadar uygunluk değerlendirilmesi
+yapılmaz. Verilen süre içerisinde eksikliklerin giderilmemesi durumunda
+başvuru işlemden kaldırılır.
+
+(4) Uygunluk değerlendirmesinin eksik bilgi veya evrak olmasından dolayı
+yapılamaması, uygunluk değerlendirmesi sonucunda terminal donanımının
+uygun bulunmaması, uygunluk değerlendirmesi sonrasında donanımın
+piyasa sürülmesinden veya yurt içine girişinin yapılmasından vazgeçilmesi,
+durumunda alınan uygunluk değerlendirmesi ücreti iade edilmez.
+
+(5) Bu Tüzüğe ekli Birinci Cetvelin 4'üncü maddesinin (C) ve (D)
+fıkralarında belirtilen ve bizzat kullanılmak maksadıyla imal ve ithal edilen
+cihazlardan alınan uygunluk değerlendirmesi test ücreti, her bir cihaz başına
+alınır ve Kurum tarafından yurt içinde ve/veya yurt dışında yapılan veya
+yaptırılan test sonucu ne olursa olsun alınan ücret iade edilmez.
+
+9. (1) Yasa kapsamında telsiz cihazı kuracak ve işletecek “kişilerden
+güvenlik mesafesinin belirlenmesine yönelik elektromanyetik alan
+şiddetinin ölçülmesi ve güvenlik sertifikası verilmesi işlemlerinde Kurum
+tarafından bu Tüzüğe ekli Birinci Cetvel’de belirtilen ücretler alınır.
+
+(2) Telsiz cihazının kurulması sonrasında gerçekleştirilecek güvenlik
+mesafesinin belirlenmesine yönelik elektromanyetik alan şiddetinin
+ölçülmesi ve güvenlik sertifikasının verilmesi işlemlerine ilişkin ücret, telsiz
+kurma ve kullanma talebinin Kurum tarafından uygun bulunmasından ve
+başvuruya ilişkin ücretlerin Kuruma gelir kaydedilmek üzere Kurum banka
+hesabına yatırılması gerektiği telsiz cihazı kuracak ve işletecek kişilere
+bildirilmesinden sonra telsiz cihazı kuracak ve işletecek kişilerden
+tarafından Kurum banka hesabına yatırılır ve banka dekontu başvuru
+evrakları ile birlikte Kurum'a teslim edilir. Güvenlik sertifikasının verilmesi
+işlemine ilişkin ücretin ödenmesinden ve başvuru evraklarının eksiksiz
+teslim edilmesinden sonra sertifika işlemleri başlatılır.
+
+(3)Kurum tarafından yazı ile güvenlik mesafesinin belirlenmesine yönelik
+elektromanyetik alan şiddetinin ölçülmesi ve güvenlik sertifikasının
+verilmesi işlemlerine ait ücretin ödenmesine ilişkin başvuru sahibinin
+bilgilendirildiği tarihten itibaren 20 (Yirmi) iş günü içinde ödemenin yerine
+getirilmemesi halinde, başvuru işlemden kaldırılır.
+
+|
+|
+
+[SAYFA 7]
+Elektronik
+Kimlik Bilgisini
+Haiz Cihazların
+Kayıt Ücreti
+15.08.2014
+
+R.G 173
+
+EK II
+
+A.E 518
+
+712
+
+(4) Üçüncü şahısların talebi üzerine gerceklestirilecek ihtiyati ölçümlerde:
+ölçüm talebinde bulunan kişiler tarafından bu Tüzüğe ekli Birinci Cetvel'de
+belirtilen ücretler Kurum'a ödenir. Ölçüm talebine ilişkin ücret ölçüm talebi
+dilekçesinin Kurum'a verilmesinden önce Kurum tarafindan bildirilen
+Kurum banka hesabına yatırılır ve banka dekontu talep dilekçesi ile birlikte
+Kurum'a teslim edilir. Elektromanyetik alan şiddetinin ölçülmesi işlemine
+ilişkin ücretin ödenmesinden ve başvuru evraklarının eksiksiz teslim
+edilmesinden sonra ölçüm işlemleri başlatılır. Üçüncü şahısların talebi
+üzerine yapılan ölçüm sonucunda, limit değetlerinin aşıldığının tespiti
+durumunda limit değerlerini aşan ilgili telsiz cihazı telsiz cihazı kuran ve
+işleten kişilere bildirilir, telsiz cihazı kuran ve işleten kişiler ölçüm ücretini,
+bildirim tarihinden itibaren 20 (yirmi) iş günü içinde ölçüm talebinde
+bulunan kişiye öder,
+
+(5) Güvenlik sertifikasının herhangi bir nedenle yenilenmesi durumunda,
+sertifika ücreti kadar, yenileme ücreti alınır.
+
+(6) Ölçümler sonucunda limit değerlerin aşıldığının tespit edilmesi veya
+edilmemesi, ölçüm yapılan telsiz cihazının kurulmasına izin verilmemesi
+veya kurulumdan vazgeçilmesi durumunda alınan ölçüm ücreti iade
+
+edilmez.
+
+10. (1) Yasa ve Elektronik Kimlik Bilgisini Haiz Cihazlara Dair Tüzük
+uyarınca, elektronik kimlik bilgisini haiz cihazların kayıt altına alınmasına
+ilişkin işlemlerde Kurum tarafından bu Tüzüğe ekli Birinci Cetvel'de
+belirtilen ücretler alınır.
+
+(2) Elektronik kimlik bilgisini haiz cihazın kayıt altına alınmasına yönelik
+başvuru, Kuzey Kıbrıs Türk Cumhuriyeti sınırları içerisinde üretilmesi
+durumunda cihazın piyasaya sürülmesinden önce imal eden firma
+tarafından; cihazın ithal edilmesi durumunda ise gümrük aşamasında ithal
+eden firma tarafından yapılır. Kayıt altına alınmasına yönelik başvuru
+öncesinde kayıt ücreti, Kurum tarafından bildirilen Kurum banka hesabına
+yatırılır ve banka dekontu başvuru evrakları ile birlikte Kurum'a teslim
+edilir. Cihazın kayıt altına alınması, ilgili başvurunun Kurum tarafından
+yapılacak olan terminal donanımlarına ait uygunluk değerlendirmesi
+tamamlandıktan sonra gerçekleştirilir.
+
+(3) Bireysel ithalatla yurtdışından elektronik kimlik bilgisini haiz cihaz
+getirilmesi durumunda, cihazı yurt dışından beraberinde getiren kişiler
+başvuru merciine cihaz kayıt başvurusunu yaparlar. Cihazın kayıt altına
+alınması başvurusunun gerçekleştirilmesinden önce kayıt ücreti Kurum
+tarafından bildirilen Kurum banka hesabına yatırılır ve banka dekontu
+başvuru evrakları ile birlikte başvuru merciine teslim edilir.
+
+(4) Elekironik kimlik bilgisini haiz cihazların kayıt işlemlerine ilişkin
+ücretin ödenmesinden ve başvuru evraklarının eksiksiz teslim edilmesinden
+sonra kayıt işlemleri başlatılır,
+
+[SAYFA 8]
+Danışmanlık ve
+Yardım .
+, Hizmetleri Ücreti
+
+Ücretlerin
+Hesaplama
+Yöntemi
+
+Yürütme Yetkisi
+
+Yürürlüğe Giriş
+
+713
+
+(5) Elektronik kimlik bilgisini haiz cihazların Yasa ve Elektronik Kimlik
+Bilgisini Haiz Cihazlara Dair Tüzük uyarınca (kayıtlarının
+gerçekleştirilmesinin mümkün olmaması veya bu mevzuat kapsamında
+belirlenen teknik kriterlere uygun olmadığının tespit edilmesi durumunda
+alınan kayıt ücreti iade edilmez.
+
+11.(1)Enterferans sebebiyle mağdur olan telsiz cihazı kuran ve işleten kişiler
+veveya gerçek ve tüzel kişilerin talebi üzerine gerçekleştirilecek
+enterferansın tespitine ve giderilmesine yönelik verilen hizmetlerde Kurum
+tarafından bu Tüzüğe ekli İkinci Cetvel’de belirtilen ücretler alınır.
+
+(2) Hizmet talebine ilişkin ücret enterferansın tespiti ve giderilmesi talep
+dilekçesinin Kurum'a verilmesinden önce Kurum tarafından bildirilen
+Kurum banka hesabına yatırılır ve banka dekontu talep dilekçesi ile birlikte
+Kurum'a teslim edilir. Hizmete ilişkin ücretlerin ödenmesinden ve başvuru
+evraklarının eksiksiz teslim edilmesinden sonra enterferansın tespiti ve
+giderilmesine yönelik işlemler başlatılır. Yapılan ölçüm sonucunda,
+enterferans (o gerçekleştirildiğinin tespiti durumunda enterferansı
+gerçekleştiren ilgili telsiz cihazı kuran ve işleten kişilere bildirilir ve
+enterferansı gerçekleştiren ilgili telsiz cihazı kuran ve işleten kişiler hizmet
+ücretini, bildirim tarihinden itibaren 20 (Yirmi) iş günü içinde hizmet
+talebinde bulunan telsiz cihazı kuran ve işleten kişilere öder ,
+
+(3) Ölçümler sonucunda enterferansın gerçekleştiğinin tespit edilmesi veya
+edilmemesi durumunda alınan hizmetücreti iade edilmez.
+
+..
+
+12. Bu Tüzük uyarınca alınacak herhangi bir ücretin belirlenmesinde, ekteki
+cetvellerde belirtilen ruhsat ve kullanma ücretinin tek olması halinde
+hesaplama uyarınca elde edilen meblağın kuruşu, noktadan sonraki
+hanelerin bir üste yuvarlanması ile tespit edilir. Ruhsat ve kullanım ücretinin
+birden fazla olması halinde kuruş, tümünün toplanarak genel toplamın
+noktadan sonraki hanelerinin bir üste yuvarlanması yöntemi ile tespit edilir. “
+
+ÜÇÜNCÜKİSIM
+Son Kurallar
+
+13. Bu Tüzük, elektronik haberleşmeden sorumlu Bakanlık tarafından
+yürütülür.
+
+14. Bu Tüzük, Resmi Gazetede yayımlandığı tarihten itibaren yürürlüğe
+girer.
+
+[SAYFA 9]
+714
+
+BİRİNCİ CETVEL
+(Madde 7,8,9 ve 10)
+TELSİZ ÜCRETLERİ Ücretler (TL)
+1. TELSİZ RUHSAT ÜCRETLERİ (Kayıt Başına)
+a. Telsiz verici-altcı cihazları (karada kullanılan, ruhsatta kayıtlı her cihaz için)
+1) Mobil telsiz (Araç/portatif/el) Kayıt Başına | 0.01657 x ASU
+2) Tekrarlayıcı (sabit/seyyar) telsiz Kayıt Başına | 0.08284xASÜ
+3) Sabittelsiz © ğin Kayıt Başına | 0.04142 x ASU
+b. Karasal mobil (cellular) telsiz telefon sistemi
+Kayıt Basına 0.08284 x ASU
+1) Her baz istasyonu için Y §
+c. Bir noktadan çok noktaya erişim sistemleri
+1) Her baz istasyonu için Kayıt Başına 0.08284 x ASÜ
+2) Sistemdeki her abone başına Kayıt Başına | 0.00829xASÜ
+d. Telsiz verici-alıcı cihazları (denizde kullanılan, ruhsatta kayıtlı her cihaz
+için)
+1) El telsizi
+a) Balıkçılık maksadı ile çalışan bir gemide kullanılan Kayıt Başına | 0.01657xASÜ
+b) Diğer gemile de kullanılan Kayıt Başına | 0.03148xASÜ
+2)Verici,alici ve seyrüsefer cihazları (Telefon, teleks, telgraf veya data —
+alıcıları/vericileri) Kayıt Başına | 0.00707 x ASU
+3)Her Çeşit Mobil Uydu Terminali Kayıt Başına 0.03148 x ASÜ
+4)Sabit telsiz
+a) Balıkçılık maksadı ile çalışan bir gemide kullanılan Kayıt Başına | 0.03110 x ASU
+b) Diğer gemilerde kullanılan Kayıt Başına | 0.08284xASÜ
+e. Ortak kullanımlı (trunking, community repeater ve benzeri) telsiz
+sistemleri (ruhsatta kayıtlı her cihaz için)
+1) Merkez istasyonu veya tekrarlayıcılar kanal adedi başına Kayıt Başına | 0.04142 x ASU
+2) Kullanıcı tetsiz cihazları (cihaz adedi başına)
+a) Sabit telsiz cihazı Kayıt Başına | 0.02071xASÜ
+b) Mobil telsizi (Araç/portatif/el) Kayıt Başına | 0.00829 x ASU
+f. Radyolink sistemleri .
+1) Sistemde bulunan her cihaz basina Kayıt Başına 0.08284 x ASÜ
+g. Uydu yayın ve haberleşme sistemleri (yüzer araç ve hava araçlarında
+monteli olarak kullanılanlar hariç)
+1) Uydu (uzay) istas i
+) Uy (uzay) yonu transponder adedi başına Kayıt Başına | 8.28428 x ASU
+2) Sabit uydu ana yer istasyonu Kayıt Ba 0.8 =
+3) Sabit uydu yer terminalleri 7 _ 82843 x ASU
+Kayıt Başına | 0.04142 x ASU
+4) Mobil uydu yer terminalleri Kayıt Başına | 0.03314 x ASU
+5) Mobil uydu abone terminalleri (alıcı/verici) Kayıt Başına | 0.02071xASÜ
+6) Data uydu alıcı Kayıt Başına | 0.00829 x ASU
+
+[SAYFA 10]
+715
+7) Uydu mobil (cellular) telsiz telefon abone cihazları (cihaz başına) Kayıt Başına 0.01243 x ASU
+2. TELSİZ KULLANMA ÜCRETLERİ ( HER YIL İÇİN)
+a. Kara telsiz sistemleri
+1) LF, MF ve HF telsiz sistemleri (ruhsatta kayıtlı her cihazda bulunan kanal Yıllık Ücret 0.08284 x ASÜ
+adedi başına)
+2) Kara VHF, UHF ve SHF telsiz sistemleri
+a) Frekans tahsisi yapılmış her kanal için ayrı ayrı olmak üzere, sistemdeki
+sabit ve mobil telsiz cihaz adedi başına (Her 12,5 kHz'lik band genişliği bir kanal
+olarak hesap edilir.)
+1) Her simpleks kanal için Yıllık Ücret 0.00829 x ASÜ
+2) Her simpleks role kanalı için Yıllık Ücret 0.01657 x ASÜ
+3) Her dupleks kanal için Yıllık Ücret 0.02485 x ASÜ
+4) Her dupleksrole kanalı için Yıllık Ücret 0.03314 x ASÜ
+b) Ruhsatta kayıtlı her tekrarlayıcı cihaz başına Yıllık Ücret 0.01657 x ASÜ
+b. Karasal mobil (cellular) telsiz telefon sistemleri
+1) Her sabit telsiz (baz) istasyonundan (sisteme tahsis edilen band genişliğine
+göre her yıl alınmak üzere)sistemde kurulu bulunan kanal adedi (istasyonda
+bulunan TRx) başına
+a) 200 kHz'e kadar (dahil) Yıllık Ücret 0.03314 x ASÜ
+b) 201 kHz-1.25 MHz arası (dahil) Yıllık Ücret 0.10355 x ASÜ
+c) 1.25-5 MHz arası (dahil) Yıllık Ücret 0.41421xASÜ
+d) 5 MHz'den yukarısı Yıllık Ücret 0.99411 x ASU
+c. Bir noktadan çok noktaya erişim sistemleri (her yıl için) sisteme tahsis
+edilen kanal frekansının band genişliğine göre
+1) Her sabit telsiz (baz) istasyonundan (sisteme tahsis edilen band genişliğine
+göre her yıl alınmak üzere) :
+a) F<2 MHz Yıllık Ücret 0.03314 x ASÜ
+b) 2 MHz<F<7 MHz Yıllık Ücret 0.06627 x ASÜ
+c) 7 MHz<F<28 MHz Yıllık Ücret 0.13255 x ASÜ
+d) 28 MHz<Fs56 MHz Yıllık Ücret 0.26509 x ASÜ
+e) 56 MHz<F<140 MHz Yıllık Ücret 0.53019 x ASÜ
+f) 140 MHz<F<250 MHz Yıllık Ücret 1.32549 x ASÜ
+g) F>250 MHz Yıllık Ücret 2.12078 x ASU
+2) Sistemdeki her abone basina Yıllık Ücret 0.00829 x ASÜ
+d. Denizde Kullanılan Telsiz verici-altci cihazları
+1)El telsizi
+a 0.03148 x ASU
+a) Balıkçılık maksadı ile çalışan gemiler haricinde kullanılan Yıllık Ücret
+2)Sabit telsiz
+. 0.08284 x ASU
+a) Balıkçılık maksadı ile çalışan gemiler haricinde kullandan Yıllık Ücret
+e. Ortak kullanımlı (trunking, community repeater ve benzeri) telsiz
+sistemleri
+Yıllık Ücret | 0.03314 x ASU
+
+1) Merkez istasyonu veya tekrarlayıcılar kanal adedi başına
+
+[SAYFA 11]
+716
+
+2) Kullanıcı telsiz cihazlarında (cihaz adedi başına)
+
+a) Her simpleks röle kanalı başına Yıllık Ücret | - 0.00829 x ASU
+b) Her simpleks kanal için (cihaz adedi başına) Yıllık Ücret 0.00414 x ASU
+f. Radyolink sistemleri, (her yıl için) sisteme tahsis edilen kanal frekansının
+band genişliğine göre cihaz adedi başına
+1) F<2 MHz Yıllık Ücret | 0.00663 x ASU
+2) 2 MHz<F<7 MHz Yıllık Ücret | 0.01989 x ASU
+3) 7 MHz<F<28 MHz ; oes Yıllık Ücret 0.03976 x ASÜ
+4) 28 MHz<F<56 MHz Yıllık Ücret 0.07953 x ASÜ
+5) 56 MHz<F<140 MHz Yıllık Ücret | 0.15906 x ASU
+6) 140 MHz<F<250 MHz Yıllık Ücret 0.53019 x ASÜ
+7) F>250 MHz Yıllık Ücret 1.06039 x ASÜ
+g. Uydu yayın ve haberleşme sistemleri (yüzer araç ve hava araçlarında
+monteli olarak kullanılanlar hariç)
+1) Uydu (uzay) istasyonu transponder adedi başına Yıllık Ücret 8.28428 x ASÜ
+2) Sabit uydu ana yer istasyonu Yıllık Ücret 0.82843 x ASÜ
+3) Sabit uydu yer terminalleri Yıllık Ücret 0.04142 x ASÜ
+4) Mobil uydu yer terminalleri Yılık Ücret 0.03314 x ASÜ
+5) Mobil uydu abone terminalleri (alıcı/verici) Yıllık Ücret | 0.02071 x ASU
+6) Data uydu alıcı Yıllık Ücret | 0.00829 x ASU
+7) Uydu mobil (cellular) telsiz telefon abone cihazları (cihaz başına) Yıllık Ücret 0.01243 x ASU
+3. GEÇİCİ SÜRE İLE VERİLEN TELSİZ KURMA VE KULLANMA İZİN ÜCRETLERİ
+a. İzin ücreti (6'şar aylık her bir izin için)
+a) Deneme Maksatlı Geçici İzin Ücreti Altı Aylık 0.41421 x ASU
+b) Geçici Organizasyonlarda/faaliyetlerde Kullanmak Maksatlı Geçici İzin Ücreti
+vb gibi). Yardımcı Sistemleri ( Kablosuz Kamera, Video Link, Ses Link, SNG, Altı Aylık 0.41421x ASÜ
+2) Diğer Telsiz Sistemleri Altı Aylık 0.20711 x ASÜ
+
+b. İzin verilen telsiz sisteminin bu tarifedeki ruhsat ve kullanma ücreti ayrıca
+
+tam aya iblag edilir.
+
+alınır. Ruhsat ücreti tam alınır. Kullanma ücreti kıst olarak alınır. Ay kesirleri
+
+a) Teknik uyumluluk belgesi (SIM kart kullanan terminal donanımları,
+
+kullanılan terminal donanımları)
+
+başına
+
+spektrumu kullanmayan sabit terminal donanımları, DECT standardını alem 5
+destekleyen terminal donanımları,PMR 446 el telsizleri) 5
+b) Teknik uyumluluk belgesi (4. (a) dışında kalan, telsiz haberlesmesinde Kalem 5
+
+[SAYFA 12]
+717
+
+c) Yurt dışından getirilen numuneler ve KKTC'de imal edilen prototip cihazlar
+ite imalat ve ithalattan numune alınarak yurt içinde ve/veya yurt dışında
+teste tabi tutulan cihazlardan, test sonucu ne olursa olsun (cihaz başına)
+
+1) Telsiz verici-alıcı cihazları Kayıt Başına | 0.08284xASU
+2) Telsiz verici cihazları Kayıt Başına | 0.04142 x ASU
+3) Telsiz alıcı cihazları Kayıt Başına 0.04142 x ASU
+d) Bizzat kullanılmak maksadıyla (bireysel kullanım amaçlı) imal ve ithal
+edilen cihazlardan,
+1) Telsiz verici-alıcı cihazları Kayıt Başına 0.03314 x ASÜ
+2) Telsiz verici cihazları Kayıt Başına 0.01657 x ASÜ
+3) Telsiz alıcı cihazları Kayıt Başına | 0.01657 x ASU
+5. GÜVENLİK MESAFESİNİN BELİRLENMESİNE YÖNELİK ELEKTROMANYETİK
+ALAN ŞİDDETİ ÖLÇÜMLERİ VE GÜVENLİK SERTİFİKASI
+Kayıt Başına 0.02071 x ASU
+a. Güvenlik Sertifikası
+0.41421 x ASU
+ml . non , LR (lan Kayıt Başına
+b. Güvenlik sertifikasına yönelik talep halinde yapılan ölçüm (ölçüm başına)
+6. ELEKTRONİK KİMLİK BİLGİSİNE HAİZ CİHAZLARA YÖNELİK ÜCRETLER
+(Madde 86)
+a. Mobil Cihaz Kayıt Sistemi Kayıt Ücreti (yeni kayıt) Cihaz Başına | 0.00353 x ASÜ
+b. Mobil Cihaz Kayıt Sistemi Kayıt Ücreti (mevcut) Cihaz Başına ae)
+
+[SAYFA 13]
+1) Sayısı
+
+718
+İKİNCİ CETVEL
+, Madde 6, ve 11
+KULLANIM HAKKI ve TAHSİS ÜCRETİ LİSTESİ
+
+Sınırlandırılmayan Frekans Kullanım Hakkı ve Tahsis Ücretlerine İlişkin Değerler
+
+1.1) Sayısı Sınırlandırılmayan Frekans Tahsis Ücretlerine İlişkin Formül ve Değerler
+
+SAYISI SINIRLANDIRILMAYAN FREKANS TAHSİS ÜCRETLERİNE İLİŞKİN FORMÜLLER
+
+1) Ortak Kullanımlı Telsiz Hizmeti (OKTH) için frekans tahsis ücreti değeri = SD1 x FKS1 x
+FKF x KBF
+
+SD1 (Sabit Değer) : Tablo-1’de verilmektedir.
+
+FKS1 (Frekans Kanal Sayısı) : Tahsis Edilen Toplam Frekans Kanal Sayısı x Bir Kanal için Tahsis Edilen
+Verici ve Alıcı Kanal Frekansı Band Genislikleri Toplamı (kHz)/6.25 kHz
+
+FKF (Frekans Kıymet Faktörü) : Tablo-2'de verilmektedir.
+
+KBF (Kullanım Bölgesi Faktörü): Tablo-4'de verilmektedir.
+
+2) R/L için frekans tahsis ücreti değeri = SD2 x FKS2 x FKF x KBF (R/L Frekans Tekrarı
+Kurum İznine Bağlıdır.)
+
+SDZ (Sabit Değer) : Tablo-1'de verilmektedir. (R/L Frekans Tekrarı Kurum İznine Bağlıdır.)
+
+FKS2 (Her Hop için Frekans Kanal Sayısı) : R/L Hop Sayısı x Bir Hop için Tahsis Edilen Verici ve Alıcı
+Kanal Frekansı Band Genişlikleri Toplamı (MHz)/1.75 MHz,
+
+FKF (Frekans Kıymet Faktörü) : Tablo-3'de verilmektedir.
+
+KBF (Kullanım Bölgesi Faktörü): Tablo-5'de verilmektedir.
+
+Hop: İki ayrı noktaya kurulu, alıcı ile vericiden oluşan çevrim.
+
+“ 3) R/L için frekans tahsis ücreti değeri = SD3 x FKS3 x FKF (R/L Frekans Tekrarı Serbest)
+
+SD3 (Sabit Değer) : Tablo-1'de verilmektedir (R/L Frekans Tekrarı Serbest)
+
+FKS3 (R/L Frekans Kanal Sayısı) : Tahsis Edilen Toplam Frekans Kanal Sayısı x Bir Kanal için Tahsis
+Edilen Verici ve Alıcı Kanal Frekansı Band Genişlikleri Toplamı (MHz)/1.75 MHz
+
+FKF (Frekans Kıymet Faktörü) : Tablo-3'de verilmektedir.
+
+[SAYFA 14]
+719
+
+4) RJL için frekans tahsis ücreti değeri = SD4 x FKS4 x FKF x KBF (Uluslararası)
+
+$D4 (Sabit Değer) : Tablo-1’de verilmektedir (R/L Uluslararası)
+
+FKS4 (R/L Frekans Kanal Sayısı) : R/L Hop Sayısı x Bir Hop için Tahsis Edilen Verici ve Alıcı Kanal
+Frekansı Band Genislikleri Toplamı (MHz)/1.75 MHz
+
+FKF (Frekans Kıymet Faktörü) : Tablo-3'de verilmektedir.
+
+KBF (Kullanım Bölgesi Faktörü): Tablo-5'de verilmektedir.
+
+Hop: İki ayrı noktaya kurulu, alıcı ile vericiden oluşan çevrim,
+
+Kanal sayısı tam sayı olmadığı hallerde bir üst değere yuvarlanır,
+
+Tabio-1: Sabit Değer (SD)
+SABİT DEĞERLER (TL)
+SDI 0.0277 x ASÜ
+sD2 0.0055 xASÜ
+SD3 0.75 x ASU
+SD4 1.3868 x ASU
+
+Tablo-2 : Frekans Kıymet Faktörü Değerleri
+Frekans Bandı FKE
+10 kkz< F <28 MHz - 0.3
+28 MHz< F $138 MHz 0.5
+138 MHz< F <174 MHz 1
+174 MHz< F $470 MHz 0.9
+470 MHz< F <960 MHz 0.8
+
+Tablo-3 : Frekans Kıymet Faktörü Değerleri
+Frekans Bandı FKE
+138 MHzs F <2700 MHz 1
+2700 MHz< F <10GHz 0.9
+10 GHz< F < 19,7 GHz 0.7
+19,7 GHz< F < 26.5 GHz 0.6
+26.5 GHz< F < 39.5 GHz 0.4
+39.5 GHz< F < 300 GHz 0.2
+
+[SAYFA 15]
+p
+
+720
+
+Tablo-4 : Kullanım Bölgesi Faktörü (OKTH)
+Bölge KBF
+Kaza sınırları içinde 0.5
+Ulusal 1.5
+
+Tablo-5 : Kullanım Bölgesi Faktörü (R/L)
+Bölge KBF
+Ulusal 1
+Uluslararası 0.5
+
+Not: Ücretlere KDV dahil değildir.
+
+.2) Sayısı Sınırlandırılmayan Frekans Kullanım Hakkı Ücretlerine İlişkin Formül ve Değerler
+
+SAYISI SINIRLANDIRILMAYAN FREKANS KULLANIM HAKKI ÜCRETLERİNE İLİŞKİN FORMÜLLER
+
+1) Ortak Kullanımlı Telsiz Hizmeti (OKTH) için frekans kullanım hakkı ücreti değeri = SD1
+x FKS1 x FKF x KBF
+
+SD1 (Sabit Değer) : Tablo-1'de verilmektedir.
+
+FKS1 (Frekans Kanal Sayısı) : Tahsis Edilen Toplam Frekans Kanal Sayısı x Bir Kanal için Tahsis Edilen
+Verici ve Alıcı Kanal Frekansı Band Genişlikleri Toplamı (kHz)/6.25 kHz
+
+EKE (Frekans Kıymet Faktörü) : Tablo-2'de verilmektedir.
+
+KBF (Kullanım Bölgesi Faktörü): Tablo-4'de verilmektedir.
+
+) R/L için frekans kullanım hakkı ücreti değeri = SD2 x FKS2 x FKE x KBF (R/L. Frekans
+Tekrarı Kurum İznine Bağlıdır.)
+
+SD2 (Sabit Değer) : Tablo-1'de verilmektedir. (R/L Frekans Tekrarı Kurum İznine Bağlıdır.)
+
+FKS2 (Her Hop için Frekans Kanal Sayısı) : R/L Hop Sayısı x Bir Hop için Tahsis Edilen Verici ve Alıcı
+Kanal Frekansı Band Genişlikleri Toplamı (MHz)/1.75 MHz,
+
+FKF (Frekans Kıymet Faktörü) : Tablo-3’de verilmektedir.
+
+KBF (Kullanım Bölgesi Faktörü): Tablo-5'de verilmektedir.
+
+Hop: İki ayrı noktaya kurulu, alıcı ile vericiden oluşan çevrim.
+
+[SAYFA 16]
+721
+
+3) R/L için frekans kullanım hakkı ücreti değeri = SD3 x FKS3 x FKF (R/L Frekans Tekrarı
+Serbest)
+
+SD3 (Sabit Değer) : Tablo-1'de verilmektedir (R/L Frekans Tekrarı Serbest)
+
+FKS3 (R/L Frekans Kanal Sayısı) : Tahsis Edilen Toplam Frekans Kanal Sayısı x Bir Kanal için Tahsis
+Edilen Verici ve Alıcı Kanal Frekansı Band Genişlikleri Toplamı (MHz)/1.75 MHz
+
+EKF (Frekans Kıymet Faktörü) : Tablo-3'de verilmektedir. *
+
+4) R/L için frekans kullanım hakkı ücreti değeri = SD4 x FKS4 x FKF x KBF (Uluslararası)
+
+SDA (Sabit Değer) : Tablo-1'de verilmektedir (R/L Uluslararası)
+
+FKS4 (R/L Frekans Kanal Sayısı) : R/L Hop Sayısı x Bir Hop için Tahsis Edilen Verici ve Alıcı Kanal
+Frekansı Band Genişlikleri Toplamı (MHz}/1.75 MHz
+
+FKF (Frekans Kıymet Faktörü) : Tablo-3'de verilmektedir.
+
+KBF (Kullanım Bölgesi Faktörü): Tablo-5'de verilmektedir.
+
+Hop: İki ayrı noktaya kurulu, alıcı ile vericiden oluşan çevrim.
+
+Kanal sayısı tam sayı olmadığı hallerde bir üst değere yuvarlanır.
+
+Tablo-2: Sabit Değer (SD)
+SABİT DEĞERLER (TL)
+SD1 0.0277 x ASU
+SD2 0.0055 x ASÜ
+SD3 0.75 xASÜ
+SD4 1.3868 x ASU
+
+Tablo-2 : Frekans Kıymet Faktörü Değerleri
+Frekans Bandı FKE
+10 kHz< F <28 MHz 0.3
+28 MHz< F <138 MHz 0.5
+138 MHz< F <174 MHz 1
+174 MHz< F <470MHz 0.9
+470 MHz< F <960 MHz 0.8
+
+[SAYFA 17]
+722
+
+Tabto-3 : Frekans Kıymet Faktörü Değerleri o, .
+Frekans Bandı FKE
+138 MHz F $2700 MHz 1
+2700 MHz< F <10 GHz 0.9
+10 GHz< F < 19,7 GHz 0.7
+19,7 GHz< F $ 26.5 GHz 0.6
+26.5 GHz< F < 39.5 GHz 0.4
+39.5 GHz< F < 300 GHz 0.2 °
+Tablo-4 : Kullanım Bölgesi Faktörü (OKTH)
+Bölge KBF
+Kaza sınırları içinde 0.5
+Ulusal 1.5
+Tablo-5 : Kull Bölgesi Faktörü (R/L)
+Bölge . KBF
+Ulusal 1
+Uluslararası 0.5
+Not: Ücretlere KDV dahil değildir.
+2) Numara Kullanım Hakkı veTahsis Ücretlerine İlişkin Değerler
+2.1) Numara Tahsis Ücretlerine İlişkin Değerler
+NUMARA TAHSİS ÜCRETLERİ
+“NUMARATÜRU oo. | Süer)
+- Kayıt a
+Cografi numara (100 Adet numara igin) B 0,00416 x ASU
+Ki
+Mobil numara (100 Adet numara için) mat 0,00416 x ASÜ
+Konumdan bağımsız numaralar için (100 adet Kayıt
+numara için) Başına 0,00416 x ASÜ
+Kayıt N
+Coğrafi olmayan numara (1 adet numara için) Basma 9.02774 x ASU
+K 4
+Mobil Şebeke Kodu (MNCJ (1 adet numara ıçin) Barina 0.55475 x ASÜ
+Uluslararası İşaretleşme Nokta Kodu(ISPc) (1 Kayıt
+adet numara için) Başına 2.21900 x ASÜ
+Ulusal İşaretleşme Nokta Kodü (NSPC) (1 adet Kayıt
+* numara için) Başına 0.41610 x ASÜ
+veri Şebekesi Tarımlama Kodu (DNIC) ae 1.66425 x ASÜ
+Alan kodiu numaralar kane
+(1 adet numara için) Bayne 0.13869 x ASÜ
+Rehberlik Hizmeti yapisinda kullanılanı Kayıt
+numaralar (1 adet numara için) Bena 5.54751 x ASU
+Taşıyıcı Seçim Kodu (1 adet ae
+numara icin) ney 4.16064,x ASÜ
+
+ki
+
+[SAYFA 18]
+723
+
+2.2) Numara Kullanım Hakkı Ücretlerine İlişkin Değerler
+
+NUMARA KULLANIM HAKKI ÜCRETLERİ
+
+Kayıt HA
+
+Coğrafi numara (100 Adet numara için) Başına 0,00416 x ASU
+
+Kayit a.
+
+Mobil numara (100 Adet numara için) Başına 0,00416 x ASU
+
+Konumdan bağımsız numaralar için (100 adet Kayıt 0,0416 x ASÜ
+numara için) Başına
+
+Kayıt “1
+
+Coğrafi olmayan numara (1 adet numara için) Başına 0.02774 x ASU
+
+Kayit m
+
+Mobil Şebeke Kodu (MNC) (1 adet numara için) Başına 0.55475 x ASU
+
+Uluslararası İşaretleşme Nokta Kodu{ISPC) (1 Kayıt 2.21900 x ASU
+adet numara icin) Basina
+
+Ulusal İşaretleşme Nokta Kodu (NSPC) (1 adet Kayıt 0.41610 x ASÜ
+numara için) Başına
+
+. Kayıt M
+
+Veri Şebekesi Tanımlama Kodu (DNIC) Başına 1.66425 x ASU
+
+Alan kodlu numaralar Kayit 0.13869 x ASU
+
+(1 adet numara İçin) Başına |
+
+Rehberlik Hizmeti yapısında kullanılan Kayıt 5.54751 x ASÜ
+numaralar (1 adet numara için) Başına
+
+Taşıyıcı Seçim Kodu (1 adet Cone . Kayıt 4.16064 x ASÜ
+numara için) Başına
+
+Not: Ücretlere KDV dahil değildir.
+
+3) Danışmanlık ve Yardım Hizmetleri
+
+DANIŞMANLIK VE YARDIM HİZMETLERİ ÜCRETLERİ
+
+Enterferansın tespitine Şikayette
+ve giderilmesine yönelik | bulunulan telsiz 0,2 x ASU
+verilen hizmetler sistemi başına
+
+Not: Ücretlere KDV dahil değildir.

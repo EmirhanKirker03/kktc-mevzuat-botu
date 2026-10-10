@@ -1,0 +1,1233 @@
+[SAYFA 1]
+1341
+Sayı : 588
+
+ÇEVRE YASASI
+(18/2012 Sayılı Yasa)
+Madde 31(1) Altında Yapılan Tüzük
+Kuzey Kıbrıs Türk Cumhuriyeti Bakanlar Kurulu, Çevre Yasası'nın 31'inci maddesinin
+
+(1)’inci fıkrasının kendisine verdiği yetkiye dayanarak aşağıdaki Tüzüğü yapar:
+
+Kısa İsim 1. Bu Tüzük, “Motorlu Taşıt Egzoz Emisyon Kontrolü Tüzüğü” olarak
+
+isimlendirilir.
+BİRİNCİ KISIM
+Genel Kurallar
+Tefsir 2. Bu Tüzükte metin başka türlü gerektirmedikçe;
+
+“Absorbsiyon Katsayısı”, duman koyuluğunu gösteren ve egzoz gazı
+içinden geçen ışığın soğurması ile ölçülen katsayıyı anlatır, -
+
+“Araç Muayene İstasyonu”, araçların niteliklerinin tespit ve kontrol
+edildiği, bunun için gerekli cihaz ve personeli bulunan, araç muayenesinin
+yapıldığı ve muayene kanallarının olduğu tesisleri anlatır,
+
+“Bakanlık”, Çevre Koruma Dairesi'nin bağlı olduğu Bakanlığı anlatır,
+“Daire”, Çevre Koruma Dairesini anlatır,
+
+“Duman” , taşıtın egzoz borusundan çıkan, tam yanmış veya yanmamış
+yakıt zerrelerinin meydana getirdiği siyah, gri-beyaz veya mavi
+renkli aerosolü anlatır,
+
+“Duman Koyulugu”, tam şeffaf gaz için duman koyuluğu % 0 (yüzde sıfır),
+Işığı tamamen absorbe eden, geçirgen olmayan gaz icin ise % 100 (yüzde
+yüz) olmak üzere egzoz gazı içerisinde bulunan, şeffaf olmayan
+parçacıkların, gazdan geçen ışığın aydınlatma şiddetini, yani aydınlanan
+birim yüzey için ışık akısını azaltma yüzdesini anlatır,
+
+“Egzoz Emisyon Ölçüm İstasyonu”, motorlu taşıtların egzoz gazı emisyon
+ölçümlerinin yapıldığı yeri anlatır,
+
+“Egzoz Emisyon Ölçüm Raporu”, bu Tüzüğe ekli Ek-I'de yer alan ve
+trafikte seyreden taşıtlar için yapılan egzoz gazı ölçümü sonunda, ölçüm
+sonucu uygun olan taşıtlara verilen raporu anlatır,
+
+“Egzoz Emisyon Ölçüm Raporu Hazırlama Lisansı”, €g7zoz gazı emisyon
+ölçüm istasyonlarına egzoz gazı emisyon ölçümü yapabilme yetkisi veren
+
+[SAYFA 2]
+Amaç
+
+Kapsam
+ve
+Muafiyet
+
+uo
+
+1342
+ve Daire tarafından düzenlenen Motorlu Taşıt Egzoz Emisyon Ölçümü
+Yapma ve Emisyon Ölçüm Raporu Hazırlama Lisansı belgesini anlatır,
+
+“Egzoz Gazı”, bir motorlu taşıtın egzoz borusundan çıkan gazı anlatır,
+
+“Eezoz Gazı Kirleticileri”, egzoz gazında bulunan ve çevreyi kirleten
+bileşenleri anlatır,
+
+“Katalitik Dönüştürücü”, egzoz gazındaki kirleticileri zararsız veya daha az
+zararlı bileşenlere dönüştürmek amacıyla bir taşıtın egzoz Sistemine
+yerleştirilen reaktörü anlatır,
+
+“Kit Car Araç”, farklı ve nisbeten daha yeni veya klasik değeri olmayan bir
+aracın şasesi üzerine klasik değeri yüksek bir aracın sonradan yapılmış
+fakat orijinali ile ayni görünümde bir karoserin monte edilmesi suretiyle
+yapılan araçları anlatır,
+
+“Lambda Değeri”, gerçek hava/yakıt oranının teorik hava/yakıt oranına
+bölünmesi ile bulunan değeri anlatır,
+
+“Lisans”, Motorlu Taşıt Egzoz Emisyon Ölçümü Yapma ve Emisyon
+Ölçüm Raporu Hazırlama Lisansı belgesini anlatır,
+
+“Motorlu Taşıt”, karayolunda insan, hayvan ve yük taşımaya yarayan ve
+makine gücüyle yürütülen aracı veya taşıtı anlatır,
+
+“Pozitif Ateşlemeli Benzin Motorlu Taşıt”, benzin ile çalışan, buji
+ateşlemeli motora sahip taşıtı anlatır,
+
+a5 . . ' : pm - ws we :
+“Protokol (Sözleşme)”, Daire ile egzoz emisyon ölçümünü gerçekleştiren
+istasyon işleteni arasında imzalanan sözleşmeyi anlatır,
+
+“Sıkıştırma Ateslemeli Dizel Motorlu Taşıt”, dizel yakıtı ile çalışan,
+sıkıştırma ile ateşlemeli motora sahip taşıtı anlatır,
+
+“Taşıt Sahibi”, motorlu taşıt için adına yetkili makam tarafından tescil
+belgesi (koçan) verilmiş kişiyi anlatır.
+
+Bu Tüzüğün amacı, trafikte seyreden motorlu taşıtlardan kaynaklanan €gzoz
+gazlarının neden olduğu hava kirliliğinden ve etkilerinden, canlıları ve
+çevreyi korumak amacıyla egzoz gazı kirleticilerinin azaltılmasını
+sağlamak, denetimler yapmak ve kirliliğe karşı gerekli yaptırımları
+uygulamak üzere gerekli usul ve esasları düzenlemektir.
+
+(1) Bu Tüzük, kamuya ait araçlar da dahil olmak üzere trafikte bulunan
+dört ve daha fazla tekerlekli yolcu ve yük taşımaya mahsus karayolu
+motorlu taşıtlarını kapsar.
+
+[SAYFA 3]
+2)
+
+1343
+
+Bu Tüzük, aşağıda belirtilen motorlu taşıtları kapsamaz;
+(A) Motosikletler ve motosiklet sınıfına giren taşıtları,
+
+(B) İş makineleri ile tarım araçlarını (silindir, dozer, forklift, greyder,
+uçak merdiveni, traktör, biçerdöver ve benzeri araçlar),
+(C) Klasik araçları,
+
+Bir klasik aracın egzoz emisyon ölçümünden muaf olabilmesi için,
+klasik araçların Kuzey Kıbrıs Türk Cumhuriyeti'ne ithali esnasında
+ithal uygunluk görüşü vermeye yetkili Kuzey Kıbrıs Türk
+Cumhuriyeti'nde kayıtlı herhangi bir klasik araç kulüp veya derneği
+tarafından klasik araç olarak nitelendirilen ve denetlenerek tanzim
+edilmiş Klasik Araç Kimlik Kartına sahip olması gerekir. Klasik
+araçlarla ilgili söz konusu kuruluşlar her araca Klasik Araç Kimlik
+Kartı veremez. Klasik araç kimlik kartı için müracaat edeh bir aracın
+aşağıda belirtilen niteliklere sahip olması gerekir:
+
+(A) Aracın üretim tarihinden itibaren 25 yaşını doldurmuş olması,
+
+(B) Aracın ticari maksatlarla kullanılmaması,
+
+(C) Aracın sadece klasik otomobillerle ilgili düzenlenen etkinliklere
+katılmak üzere irafiğe çıkması,
+
+(Ç) Aracın, klasik otomobillerle ilgili olan herhangi bir kuruluş
+tarafından düzenlenen etkinliklere bir takvim yılında en az bir
+kere katılmış olması,
+
+(D) Aracın üretildiği zamanki donanımlarına ek olarak ilave
+aksamlarla moderinize edilmemiş olması, (Emniyet kemeri,
+müzik seti, klima dış dikiz aynası vb. hariç)
+
+(E) Aracın motorunun orijinal olması veya aracın üreüldiği tarihle
+uyumlu bir motorunun bulunması,
+
+(F) Dış görünüşünde herhangi bir tadilat yapılmamış olması,
+
+(G) Kaporta ve boyasının yaşına göre temiz olması,
+
+(H) İç döşeme ve koltuklarının orijinal olması veya orijinaline sadık.
+kalınarak yeniden döşenmiş olması.
+Kit Car olarak anılan (o araçlara klasik araç kimlik kartı verilmez.
+Klasik araç kimlik karti bir takvim yılı (içinde bulunulan yılın 31
+Aralık tarihine kadar) için geçerlidir ve her yıl yenilenmesi gerekir.
+Yukandaki (3) tincti fıkrada belirtilen niteliklerin tamamını sağlamayan
+bir araca hiç bir şekilde klasik araç kimlik kart: verilmez. Klasik araç
+kimlik kartı verilmiş bir aracın yukarıda belirlen niteliklerden
+herhangi birini kaybetmesi halinde verilen kimlik kartı derhal iptal
+edilir ve hiç bir suretle klasik araç kimlik kartı yenilenmez. Yukarıdaki
+(Güncü fıkrada belirtilen klasik araçlarla ilgili kuruluşlar, klasik araç
+kimlik kartı tanzim ettiği aracın detaylı bilgilerini her yılın 30 Haziran
+tarihine kadar Daire'ye bildirir. Aynı şekilde klasik araç kimlik kartı
+iptal edilen veya yenilenmeyen klasik araçlarla ilgili bilgilerin de
+Daireye bildirilmesi zorunludur.
+
+[SAYFA 4]
+1344
+İKİNCİ KISIM
+
+Egzoz Gazı Emisyon Ölçüm Esasları ve Egzoz Emisyon Standartları
+
+Benzinle Çalışan 5.
+Motorlu
+
+Taşıtların Egzoz
+Emisyon
+
+Ölçümleri
+
+Dizel Yakıtla 6.
+Çalışan Motorlu
+Taşıtların Egzoz
+Emisyon
+
+Ölçümleri
+
+Pozitif ateşlemeli benzinli motorlara sahip motorlu taşıtların egzoz
+gazı emisyon ölçümünde aşağıdaki usul ve esaslar uygulanır:
+
+(1)
+
+Lambda sondası kontrollü üç yollu katalitik konvertör gibi
+bir emisyon kontrol sistemi ile kontrol edilmeyen egzoz gazı
+emisyonlarında ölçüm aşağıdaki gibi yapılır:
+
+(A)
+
+®)
+
+(C)
+
+Test öncesinde sistemde bir sızdırma kaçak olup
+olmadığının kontrolü için egzoz sisteminin gözle
+muayenesi yapılır,
+
+Üreticisi tarafından takılmış emisyon kontrol o aksamı
+varsa, bunların tam ve tatminkar bir durumda olduğunun,
+bir kaçak olmadığının tespiti için gözle muayene yapılır.
+Taşıtın üreticisinin tavsiyeleri dikkate alınarak, makul bir
+süre (Oo motorun Oo çalışurılmasından sonra motor
+yüksüz rölanti devrinde iken egzoz gazındaki karbon
+monoksit miktarı ölçülür. Egzoz gazındaki azami müsaade
+edilebilir karbon monoksit miktarı bu Tüzüğün 7'nci
+maddesinde düzenlenen sınır değeri geçemez.
+
+Lambda sondası kontrollü üç yollu katalitik konvertör gibi
+bir emisyon kontrol sistemi ile kontrol edilen egzoz gazı
+emisyonlarında ölçüm aşağıdaki gibi yapılır:
+
+(A)
+
+(B)
+
+(C)
+
+Test öncesinde sistemde bir sizdirma kaçak olup
+olmadığının kontrolü için egzoz sisteminin gözle
+muayenesi yapılır,
+Üreticisi tarafından takılmış emisyon kontrol aksamı
+varsa, bunların tam ve tatminkar bir durumda olduğunun,
+bir kaçak olmadığının tespiti için gözle muayene yapılır,
+Taşıtın emisyon kontrol sisteminin verimliliği için taşıt
+emisyon kontrol sistemindeki katalitik dönüştürücü
+veriminin tespiti için egzoz gazındalambda değeri ve
+karbon monoksit değeri ölçülür. Egzoz gazındaki azami
+müsaade edilebilir karbon monoksit miktarı ve lambda
+değeri bu Tüzüğün 7'nci maddesinde düzenlenen sınır
+değeri geçemez.
+
+Sıkıştırmalı ateşlemeli dizel motorlara sahip motorlu taşıtların egzoz
+gazı emisyon ölçümünde aşağıdaki usul ve esaslar uygulanır ve
+absorbsiyon katsayısı bu Tüzüğün 8. maddesinde düzenlenen sınır
+değeri geçemez:
+
+(1)
+
+Vites levyesi bosta ve debriyaj kavramadayken serbest ivme
+süresince yani yüksüz rölantiden kesme hızına kadar egzoz
+gazının duman koyuluğunun ölçülmesi yapılır. Mekanik
+
+[SAYFA 5]
+OP ate
+
+1345
+
+pompalı taşıtlarda, ölçümler öncesinde taşıtın püskürtme
+pompasında bulunması gereken mühür kontrol edilir.
+
+(2) Ölçüm ön hazırlık olmaksızın da yapılabilir. Ancak, güvenlik
+nedeniyle motorun ısınmış ve mekanik durumunun tatmin edici
+durumda olduğu kontrol edilmelidir. Taşıtn OÖn hazırlığı
+aşağıdaki gibi yapılır:
+
+(A)
+
+(B)
+
+Motor, tamamen ısınmış olmalıdır. Yağ seviyesi kontrol
+çubuğu tüpüne yerleştirilen bir sonda ile ölçülen en az
+80 °C’ lik yağ sıcaklığı veya normal çalışma sıcaklığı
+daha düşükse, normal çalıştırma sıcaklığı veya en azından
+kızıl ötesi radyasyon seviyesi ile ölçülen motor bloğu
+sıcaklığı eşdeğer bir seviyede olmalıdır. Taşıtın üretimine
+bağlı olarak bu ölçüm uygulanabilir görülmüyorsa,
+motorun normal çalışma sıcaklığına erişmesi beklenir. Bu
+motor soğutma fanı çalıştırılarak da sağlanabilir,
+
+Egzoz sistemi, en az üç serbest ivme çevrimi veya €ş
+değer bir yöntem ile temizlenmelidir.
+
+(5) Ölçümler aşağıdaki gibi yapılır:
+
+(A)
+
+(B)
+
+(C)
+
+©)
+
+(D)
+
+Sızdırma olup olmadığının kontrolü için motorlu taşıtın
+egzoz sisteminin ilgili parçalarının gözle muayenesi
+yapılır,
+
+Motorun ve takılmış herhangi bir turbo-beslenme (turbo-
+şarj) tertibatının, her bir serbest ivme devri başlatılmadan
+önce rölantide olması gerekir. Ağır tonajlı dizeller için ise
+bu durum, gaz pedalının serbest bırakılmasından sonra en
+az on saniyelik bir bekleme yapılmasını gerektirir,
+
+Her bir ivme çevrimini başlatmak için, püskürtme
+pompasından azami besleme sağlamak amacıyla gaz
+pedalına bir saniyeden az, tam ve devamlı olarak, fakat
+sert olmayacak bir şekilde basılır,
+
+Her bir serbest ivme çevrimi sırasında, gaz pedalı serbest
+bırakılmadan önce, motor, kesme hızına veya otomatik.
+
+- vitesli taşıtlarda, üretici tarafından belirlenmiş hıza veya
+
+böyle bir bilgi yoksa kesme hızının üçte ikisine erişmiş
+olmalıdır. Bu süre motor hızı gözlenerek veya gaz
+pedalına ilk basma ile serbest bırakma arasında yeterli bir
+süre geçmesine izin verilerek sağlanır,
+
+En son üç serbest ivme devrinin aritmetik ortalaması bu
+Tüzüğün 8'inci maddesinde düzenlenen sınır değeri
+aşıyorsa, taşıtlar başarısız kabul edilir.
+
+Benzinle Çalışan 7. o Trafikte kullanılmakta olan benzinle çalışan motorlu taşıtlarda karbon
+
+Motorlu monoksit ve lambda sınır değerleri aşağıdaki tabloda gösterildiği
+Taşıtların gibidir:
+Emisyon
+Standartları
+Motorlu Taşıta Ait Bilgi Karbon Monoksit
+( hacimce % )
+
+Egzoz sisteminde katalitik dönüştürücü
+ve (benzeri emisyon kontrol donanimi
+
+[SAYFA 6]
+Dizel Yakıtla 8.
+Çalışan Motorlu
+Taşıtların
+
+Emisyon
+
+Standartları
+
+Egzoz Emisyon 9.
+Olçüm Sonuçları
+
+Motorlu Taşıt 10.
+Egzoz Emisyon
+Ölçüm Raporu ve
+Harcı
+
+1346
+
+olmayan taşıtlar
+
+Rölantide
+
+1/10/1975” den öncekiler 6
+
+1/10/1975-1/10/1986 arasındakiler
+
+4.5
+1/10/1986'dan sonrakiler 3,5
+
+Egzoz sisteminde katalitik dönüştürücü
+ve
+olan taşıtlar
+
+benzeri emisyon kontrol donanimi
+
+Rölantide (<2000 min) En fazla 0.5
+
+Yüksek Rölantide (> 2000 min) En fazla 0.3
+
+Lambda değeri I1+/-0, 3
+
+Trafikte kullanılmakta olan dizelle çalışan motorlu
+taşıtlarda absorbsiyon katsayısı sınır değeri aşağıdaki tabloda
+gösterildiği gibidir:
+
+Motorlu Taşıta Ait Bilgi Absorbsiyon Katsayısı M7
+
+-Normal emişli dizel 2,5
+motorlarda
+-Aşın doldurmali  dizel , 3,0
+motorlarda
+
+( Turbo Şarjlı )
+
+(1)
+
+Egzoz gazı emisyon ölçüm yöntemleri ve sonuçları bu Tüzükte
+düzenlenen ve tanımlanan standartlara ve sınır değerlere uygun
+olmak zorundadır.
+
+Egzoz gazı emisyon ölçüm sonucu uygun olan taşıt sahibine,
+sadece Daire tarafından bastırılan Motorlu Taşıt Egzoz Emisyon
+Ölçüm Raporu verilir. Egzoz emisyon ölçümü yapılmayan veya
+ölçüm sonucu bu Tüzüğün 7'nci veya 8’inci maddelerindeki
+standartları sağlamayan hiçbir araca egzoz emisyon ölçüm
+raporu verilmez.
+
+Motorlu Taşıt Egzoz Emisyon Ölçüm Raporu trafiğe çıkacak
+araçların egzoz gazları emisyon değerlerinin, bu Tüzüğün 7'nci
+veya Sinci maddesinde belirlenen standartları sağladığını
+belirten bir belgedir. Bu Tüzüğe ekli Ek-I’de yer alan Motorlu
+Taşıt Egzoz Emisyon Ölçüm Raporu Daire tarafindan
+lisanslandırılmış kişi, kurum veya kuruluşlarca hazırlanır.
+Motorlu Taşıt Egzoz Emisyon Ölçüm Raporu için yapılacak
+ölçümlerden alınacak harç, yürürlükteki aylık asgari ücretin
+binde beşinden az ve yürürlükteki aylık asgari ücret miktarından
+fazla olmamak koşulu ile Bakanlar Kurulu tarafından belirlenir.
+Bakanlar Kurulu'nun saptayacağı ücret, ölçüm yapan kişi,
+kurum ve/veya kuruluşların alabileceği azami ücret olup, ölçüm
+yapan kişi, kurum ve/veya kuruluşlar bunun altında bir ücrel
+karşılığında ölçüm yapabilirler.
+
+[SAYFA 7]
+1347
+ÜÇÜNCÜ KISIM
+
+Egzoz Emisyon Ölçümü Yapma Konusunda Yetkilendirme, Yetkilendirme Harcı ve Egzoz
+Emisyon Ölçümü ile İlgili Esaslar
+
+Egzoz
+
+Ölçümü O Yapmak
+İsteyen Gerçek veya
+Tüzel Kişilerde
+Aranan Nitelikler
+Egzoz Emisyon
+Ölçüm Raporu
+Hazırlama Oo Lisansı
+Verilmesi ve
+Uyulması (o Gereken
+Esaslar
+
+12.
+
+(1)
+
+Emisyon ll. (1) Egzoz emisyon ölçümü yaparak Motorlu Taşıt Egzoz Emisyon
+
+Ölçüm Raporu hazırlamak isteyen gerçek veya tüzel kişilerin
+aşağıdaki koşullardan en az birini taşımaları gerekir:
+
+(A) (o Motorlu taşıt ithalatçısı olmak ve ithal edilen taşıtların
+yetkili servis istasyonu olunduğuna dair ithal edilen
+taşıtın üreticisi ile arasında süresi dolmamış bir
+
+sözleşmenin bulunması,
+
+(B) Oo Yukardaki (A) bendinde belirtilen koşula sahip olan
+motorlu taşıt ithalatçısı tarafından yetkilendirilen bir
+servis istasyonu olmak ve bu ithalatçıyla arasında süresi
+
+dolmamış yazılı bir yetki sözleşmesine sahip olması,
+
+Kıbrıs Türk Esnaf ve Zanaatkarlar Odası - Kıbns Türk
+Oto Tamircileri Birliği'ne üye olmak ve ana faaliyetinin
+oto tamiratı olması ve bu durumun Dairenin yapacağı
+kontrollerde tespit edilmiş olması.
+
+(C)
+
+Yukarıdaki (1)’inci fıkrada belirtilen koşula sahip olan ve egzoz
+emisyon ölçümü yaparak Motorlu Taşıt Egzoz Emisyon Ölçüm
+Raporu hazırlamak isteyen gerçek veya tüzel kişilerin daha önce
+sahip olduğu Motorlu Taşıt Egzoz Emisyon Ölçümü Yapma ve
+Emisyon Ölçüm Raporu Hazırlama Lisansı belgesinin Daire
+tarafından iptal edilmemiş olması gerekir.
+
+Bu Tüzüğün 11'inci maddesindeki koşulları taşıyan ve Motorlu
+Taşıt Egzoz Emisyon Ölçüm Raporu hazırlamak isteyen veya
+süresi dolmuş lisansını yenilemek isteyen gerçek veya tüzel
+kişiler aşağıdaki güncel belgeler ile birlikte Daireye
+başvururlar:
+
+(A) Bu Tüzüğün 11’inci maddesinde belirtilen koşulların
+sağlandığına dair gerekli belgeler,
+
+Bağlı bulunulan Belediyeden (bağlı bulunulan bir
+Belediye (o bulunmaması halinde, bağlı bulunulan
+Kaymakamlıktan) alınacak olan oto tamirhanesi işletme
+belgesi,
+
+Çalışma işleri ile görevli Daireden alınacak işyeri tescil
+belgesi,
+
+Gelir ve Vergi işleri ile görevli Daireden alınacak olan
+vergi güvenirlik belgesi,
+
+(B)
+
+(C)
+(©)
+
+[SAYFA 8]
+Lisans,
+Yetkilendirme Harcı
+ve Süresi
+
+13
+
+(2)
+
+(3)
+
+(4)
+
+©)
+
+(6)
+
+(1)
+
+1348
+
+(D) İlgili meslek veya ticaret odasından alınacak kayıt
+belgesi.
+Daire, gelen başvuruları bu Tüzüğün Il'inci ve 14'üncü
+maddelerinde belirtilen esaslar çerçevesinde yerinde inceleyip
+değerlendirdikten sonra tüm koşulları taşıyan gerçek veya tüzel
+kişi ile düzenlenen koşullara uyulacağına dair bir sözleşme
+(protokol) imzalayarak Motorlu Taşıt Egzoz Emisyon Ölçümü
+Yapma ve Emisyon Ölçüm Raporu Hazırlama Lisansı belgesini
+verir ve bu kişileri egzoz emisyon ölçümü yapma ve emisyon
+raporu hazırlama konusunda yetkilendirir.
+Egzoz emisyon ölçümü yapma ve emisyon ölçüm raporu
+hazırlama yetkisi veren lisansın geçerlilik süresi düzenlendiği
+tarihten itibaren iki yıldır. Talep halinde yeterlilik koşulları
+devam ediyorsa lisans yenilenir. Yeni lisans verilinceye kadar
+ilgili işletmenin egzoz emisyon ölçümleri Daire tarafından
+ihbar verilmesine gerek olmaksızın işletmeci tarafından
+durdurulur. Egzozemisyon ölçümü yapan işletmelerdeki
+faaliyetlerin sürekliliğinin sağlanması için yeni egzoz gazı
+emisyon ölçüm lisans yenileme talepleri iki yıllık
+yetkilendirilme dönemi bitmeden önce Daireye yapılır.
+Motorlu taşıt egzoz emisyon ölçümü yapma ve emisyon ölçüm
+raporu hazırlama lisansı, yalnızca lisans üzerinde belirtilen
+adresteki ölçüm istasyonu için geçerlidir ve egzoz emisyon
+ölçümleri sadece bu adreste gerçekleştirilir. Lisans verilmiş olan
+sabit istasyon (o işletenleri (oo mobil (o taşıtlarla (© egzoz
+gazı emisyon ölçümü yapamaz.
+Motorlu taşıt egzoz emisyon ölçümü yapma ve emisyon ölçüm
+raporu hazırlama lisansı sadece bir işletme için geçerlidir. Ayni
+gerçek veya tüzel kişiye ait birden fazla işletmede veya ayni
+işletmenin farklı adresteki bir şubesinde aynı lisans
+kullanılamaz. Gerçek veya tüzel kişiler sahip oldukları ber
+işletme veya şube için ayn ayn yetkilendirme başvurusunda
+bulunmak zorundadır. Her başvuru bir birinden bağımsız olarak
+bu Tüzük kuralları kapsamında değerlendirilir.
+Motorlu taşıt egzoz emisyon ölçümü yapma ve emisyon ölçüm
+raporu hazırlama lisansının, istasyondan ayrı olarak tek başına
+devredilmesi mümkün değildir. Ölçüm istasyonunun ancak satış
+veya kiralama yoluyla el değiştirmesi halinde, değişiklik en geç
+on beş gün içerisinde Daireye bildirilir. Yeni malik veya zilyet
+ile Daire arasında yeniden protokol yapılır. Eski malik veya
+zilyete ait lisans iptal edilerek yeni bir lisans düzenlenir ve eski
+lisansın geçerlilik tarihi yeni lisansa aktarılır. Gerekli işlemler
+tamamlandıktan sonra yeni işletmeci, eski işletmeciye ait egzoz
+emisyon ölçüm raporlarını kullanabilir.
+Bu Tüzükte belirlenen koşulları taşıyan gerçek veya tüzel
+
+kişilere bu Tüzüğün 12'nci maddesinin (2)'nci fikrasında
+belirtilen ve Daire tarafından düzenienen Motorlu Taşıt Egzoz
+Emisyon Ölçümü Yapma ve Emisyon Ölçüm Raporu Hazırlama
+Lisansı verilir.
+
+[SAYFA 9]
+Lisans Alanların 14.
+Sahip Oldukları
+İşletmelerde Aranan
+Koşullar
+
+(1)
+
+1349
+
+Yukarıdaki (1)’inci fikrada belirtilen Motorlu Taşıt Egzoz
+Emisyon Ölçümü Yapma ve Emisyon Ölçüm Raporu Hazırlama
+Lisansı yürürlükteki aylık asgari ücretin bir buçuk katına eşit
+harç karşılığı verilir. Sözkonusu harç yetkilendirilme dönemi
+olan iki yıl için geçerli olup her yetkilendirme dönemi için
+ayrıca talep edilir. Motorlu Taşıt Egzoz Emisyon Ölçümü
+Yapma ve Emisyon Ölçüm Raporu Hazırlama Lisansı almış
+olan gerçek veya tüzel kişiler lisansın geçerliliği devam ettiği
+sürece egzoz emisyon ölçüm lisansı bedeline ilişkin yapılan
+düzenlemelerden muaftır.
+
+Bu madde kapsamında Polis “Genel Müdürlüğünün egzoz
+emisyon ölçümü yapma konusunda yetkilendirilmesi halinde
+herhangi bir yetkilendirme harcı talep edilmez.
+
+Bu Tüzük kuralları kapsamında yetkilendirilip egzoz emisyon
+ölçümü yapma ve emisyon ölçüm raporu hazırlama lisansı
+verilen gerçek veya tüzel kişilerin sahip olduğu işletmelerde
+aşağıdaki koşullar aranır:
+
+(A) İşletmenin aynı anda en az iki taşıta hizmet verecek
+alansal büyüklükte olması,
+
+(B) İşletmenin içinde motorlu taşıtlardan kaynaklanan
+egzoz emisyonlarını emebilecek nitelikte ve yeterli
+kapasitede havalandırma sisteminin bulunması,
+
+[SAYFA 10]
+Lisans Alanların 15.
+Yükümlülükleri
+
+(2)
+
+(1)
+
+(C)
+
+(Ç)
+(D)
+
+(E)
+
+(F)
+
+1350
+
+İşletmenin girişinin ve eğer varsa çıkışının her cins taşıtın
+giriş ve çıkışına imkan verecek genişlik ve yükseklikte
+olması,
+
+İşletmenin iş alanı zemininin mermer, mozaik veya
+muadili bir malzeme ile kaplı olması,
+
+İşletmede en az idari büro, çalışma yeri, müşteri kabul
+yeri, yedek parça ve malzeme yeri, çalışanların dinlenme
+yeri ile müşterek veya münferit kullanma özelliğine sahip
+WC-lavabosunun bulunması,
+
+İşletmenin iş alanındaki duvarlarının yüz altmış cm
+yüksekliğinde su ile yıkanabilecek tarzda seramik veya
+muadili bir malzeme ile kaplı olması veya koyu renk
+yağlı boya ile boyalı olması,
+
+Bu Tüzüğün 15*inci maddesinde belirtilen kurallara
+uyulmuş olunması.
+
+İşletmede verilen servis hizmetini aksatmayacak şekilde
+yukarıdaki (1Y'inci fıkranın (D) bendinde belirtilen mekanlar
+aynı çatı altında olmayabilir.
+
+Bu Tüzük kuralları kapsamında yetkilendirilip egzoz emisyon
+ölçümü yapma ve emisyon ölçüm raporu hazırlama lisansı
+verilen gerçek veya tüzel kişilerin yükümlülükleri aşağıdaki
+gibidir:
+
+(A)
+(B)
+
+(C)
+
+(Ç)
+
+Egzoz emisyon ölçüm işlemlerini bu Tüzüğün 5'inci ve
+6'ncı maddelerinde düzenlenen kurallara göre yürütmek,
+Egzoz emisyonölçümünü yaptıktan sonra ölçüm
+sonuçları bu Tüzüğün 7'nci veya 8'inci maddelerinde
+düzenlenen standartlara uygun çıkan taşıt sahiplerine, bu
+Tüzüğe ekli Ek-de yer alan Motorlu Taşıt Egzoz
+Emisyon Ölçüm Raporunu düzenledikten sonra, egzoz
+gazı emisyon ölçüm cihazı çıktısı ile birlikte vermek.
+Ölçüm sonucu uygun çıkmayan ve/veya egzoz emisyon
+ölçümü yapılmayan taşıtlar için egzoz emisyonraporu
+düzenlenemez ve bir taşıta ait ölçüm sonuçları farklı bir
+taşıt için kullanılamaz.
+
+Egzoz gazı emisyon ölçüm cihazından iki çıktı alarak
+yazılı sonuçların bir nüshasını taşıt sahibine vermek.
+Ölçüm cihazlarından alınan çıktılarda ölçüm sonuçlarının
+yanı sıra ölçüm tarihi, ölçüm saati, aracın plakası, yaşı,
+ölçüm istasyonunun adı ve adresine ilişkin bilgilerin
+bulundurulması ve bu bilgilerin tamamının bilgisayar
+ortamında hazırlanmış olması zorunludur. Lisans sahibi
+egzoz gazı emisyon ölçüm cihazından aldığı çıktının
+diğer nüshasını ölçüm istasyonunda bilgisayar ve yazılı
+ortamda düzenlemek ve denetimlerde ibraz etmek için iki
+yıl süreyle saklamakla yükümlüdür.
+
+Egzoz emisyon ölçümü yaptığı taşıtlara ilişkin bilgileri
+aylık olarak veya Dairenin talep ettiği sıklıkta Daireye
+göndermek,
+
+[SAYFA 11]
+D)
+
+(E)
+(F)
+(G)
+
+(H)
+
+(1)
+
+()
+
+(J)
+
+(K)
+(L)
+(M)
+
+(N)
+
+Egzoz Sazı aliğiin ölçüm cihazlarının bu Tüzüğün
+18'ıncı maddesinde tanımlanan kriterlere uygun olmasını
+ve kalibrasyonunu sağlamak ve €2Z0z
+gazı emisyon ölçümünde kullandığı cihazların teknik
+özellikleri ile ilgili belgeleri ve cihazların periyodik
+bakım ve kalibrasyonlarının yaptırıldığına dair raporları
+yapılacak denetimlerde Daire yetkililerine ibraz etmek,
+On iki ayda bir ölçüm cihazlarının kalibrasyonunu
+yaptırmak,
+
+Daire yetkililerinin denetimlerine izin vermek ve istenilen
+her türlü dökümanı temin etmek,
+
+Kendisine ait egzoz emisyonu yapma ve emisyon ölçüm
+raporu hazırlama lisansını başka bir işletmeye vermemek,
+kullandırmamak veya başka bir işletmeye ait egzoz
+emisyon ölçüm raporlarını kullanmamak,
+
+Egzoz emisyon ölçümü yaptığı işletmesinin isim
+değişikliğini, devrini, adres değişikliğini veya yetkili
+servis firmasıyla anlaşmasının bittiğini, bu değişikliklerin
+yapılmasından en geç on beş gün içinde Daireye
+bildirmek,
+
+Motorlu Taşıt Egzoz Emisyon Ölçümü Yapma ve
+Emisyon Ölçüm Raporu Hazırlama Lisansını bina
+içerisinde gözle görülebilecek bir yere asmak,
+
+Dairenin belirleyeceği amblemi taşıyan ve lisanslı
+motorlu taşıt egzoz emisyon ölçüm yeri olduğunu belirten
+tabelayı yoldan görülebilecek şekilde bulundurmak,
+Egzoz emisyon ölçümü yapabilecek en az iki personele
+
+sahip olmak.
+
+Bu kişilerin aşağıda belirtilen niteliklere sahip olmaları
+gerekir:
+
+(a) Meslek lisesinin veya daha üst bir öğretim
+kurumunun otomotiv, motor, makine, elektrik,
+elektronik, bilgisayar ve benzeri bölümlerinden
+mezun olmak veya motorlu taşıt bakım ve onarımı
+konusunda geçerli bir sertifikaya sahip olmak veya
+bu konuda en az bir yıllık tecrübeye sahip olmak,
+
+(b) OBenzin ve dizel taşıtların egzoz emisyon
+ölçümlerinde kullanılacak ekipman ve cihazların
+teknik özellikleri ve kullanımları konusunda bilgi
+sahibi olmak,
+
+Egzoz emisyon ölçüm işlemlerini açık havada yapmamak,
+
+İşletmenin iş alanı zemininde kaymayı önleyici tedbirleri
+almak,
+
+İşletmenin sınırları içerisinde bulunan dış alanında çevre
+kirliliği ve çevre estetiği açısından Dairenin talep ettiği
+gerekli düzenlemeleri ve iyileştirmeleri yapmak,
+İşletmenin çalışma ortamını temiz tutmak,
+
+[SAYFA 12]
+18/2012
+
+(3)
+
+Polis Genel 16 (1)
+Müdürlüğü'ne Bağlı
+Araç Muayene
+İstasyonlarında
+Egzoz Emisyon
+Ölçümü Yapılması,
+Resmi Hizmet
+Araçlarının Egzoz
+Emisyon Ölçümleri
+ve Tahsil Edilecek
+Ücret
+
+(O) İşyeri çevresinde Çevre Yasası kuralları uyarınca çevre
+kirliliğini önleyici tedbirleri almak ve çevre kirliliğine
+sebep olacak faaliyetlerde bulunmamak.
+
+Egzoz emisyon ölçüm ücreti bu Tüzüğün 10'uncu maddesi
+kuralları çerçevesinde Bakanlar Kurulu tarafından belirlenir.
+Ölçüm yapacak işletmeler, ölçüm sonrası verecekleri, Daire
+tarafından hazırlanan ve bu Tüzüğe ekli ek Ek-I’de yer alan
+mühürlü matbu Motorlu Taşıt Egzoz Emisyon Ölçüm Raporunu
+boş olarak Daireden temin ederler. Bu belgelerin ücreti,
+Bakanlar Kurulu tarafından belirlenen ücretin % 50 (yüzde
+elli)’si oranındadır. Egzoz gazı emisyon ölçümü yapacak kişi,
+kurum ve/veya kuruluşlar Daireden alacakları Motorlu Taşıt
+
+Egzoz Emisyon Ölçüm Raporu boş belgelerinin ücretini peşin
+
+olarak Çevre Fonu hesabına veya Dairenin uygun göreceği bir
+hesaba yatırırlar.
+
+Gerçek veya tüzel kişilerin yukarıdaki (1Y'inci fikrada belirtilen
+yükümlülükleri yerine  getirmediklerinin tespiti (halinde
+haklarında bu Tüzüğün 21'inci maddesine göre işlem yapılır.
+Polis Genel Müdürlüğü'ne bağlı araç muayene istasyonlarında
+da motorlu taşıt egzoz emisyon ölçümü yapılabilir. Bu
+muayene istasyonlarında kullanılan egzoz emisyon ölçüm
+cihazları da bu Tüzüğün 18'inci maddesinde düzenlenen
+kriterleri taşımak zorundadır.
+
+Polis Genel Müdürlüğü'ne bağlı araç muayene istasyonlarına bu
+Tüzüğe ekli Ek-I’de yer alan mühürlü matbu Motorlu Taşıt
+Egzoz Emisyon Ölçüm Raporu verilmez ve herhangi bir ücret
+talep edilmez.
+
+Devlete ait Resmi Hizmet Araçlarının, Polis Genel
+Müdürlüğü'ne ait araçlar ile Sivil Savunma Teşkilat
+Başkanlığı”na ait araçların ve Güvenlik Kuvvetleri Komutanlığı
+ile Kıbrıs Türk Barış Kuvvetleri Komutanlığı adına kayıtlı sivil
+plakalı araçların egzoz emisyon ölçümleri Polis Genel
+Müdürlüğü'ne bağlı araç muayene istasyonlarında ücretsiz
+olarak yapılır. Ölçüm sonucu, bu Tüzüğün 7'inci veya 8’inci
+maddelerinde düzenlenen emisyon değerlerini saglayan bu
+araçlar egzoz emisyon ölçüm raporu almış sayılır.
+
+[SAYFA 13]
+1353
+
+Motorlu Taşıt 17 (1) Motorlu taşıt sahiplerinin yükümlülükleri aşağıda belirtildiği
+Sahiplerinin gibidir:
+Yükümlülükleri
+
+(A) Taşıtlarının fenni muayenesinden önce bu Tüzüğün
+Sinci ve ©'ncı maddelerinde yer alan ölçüm esaslarına
+uygun olarak egzoz emisyon ölçümü yaptırmak ve
+Motorlu Taşıt Egzoz Emisyon Ölçüm Raporu
+almak,
+
+Motorlu Taşıt Egzoz Emisyon Ölçüm Raporu'nun taşıtın
+muayene tarihinden en fazla üç ay
+öncesine ait olması gerekir.
+Bu Tüzüğün 19‘uncu ve 20‘nci madde kuralları saklıdır.
+
+(B) Bu Tüzüğün 19'uncu maddesi kapsamında yapılan
+
+denetimlerde taşıtının egzoz emisyon ölçüm sonucu Sınır
+
+değerlere uygun çıkmaması halinde, taşıtının gerekli
+bakımını yaptırmak ve bu Tüzükle belirlenen standartları
+sağlamak,
+
+(C) Egzoz gazı emisyon ölçümünü Oo yaptırılması gereken
+zamanda yaptırmak ve egzoz emisyon ölçüm raporunu
+taşıtında bulundurmak ve istenildiğinde ölçüm sonucunu
+belgeleyen çıktıyla birlikte denetim sırasında ibraz etmek.
+
+(2) Yukarıdaki (1Y'inci fıkrada belirtilen yükümlülükler tüm kamu
+kurum ve kuruluşları için de geçerlidir.
+
+Egzoz 18 (1) Pozitif ateşlemeli benzin motoru taşıtlarda egzoz
+
+Gazı Emisyon Ölçüm gazı emisyon ölçümlerinde kullanılacak ekipman ve cihazlar TS
+
+Cihazlarının ISO 3930 Karayolu Taşıtları İçin Egzoz Emisyon Ölçüm
+
+Kriterleri ve Cihazları Standardına veya Türk Standartları Enstitüsü
+
+Kalibrasyonları tarafından kabul edilen konuyla ilgili diğer standarda uygun
+olmak zorundadır.
+
+(2) Sıkıştırmalı ateşlemeli dizel motorlu taşıtlardaki egzoz gazı
+emisyon ölçümlerinde kullanılacak cihazlar 72/306/AT -
+Motorlu Araçlarda Kullanılan Dizel Motorlardan Çıkan
+Kirletici Emisyonlara Karşı Alınan Önlemler ile ilgili
+düzenlemede veya Türk Standartları Ensütüsü tarafından kabul
+edilen konuyla ilgili diğer standartta tanımlanan özelliklere
+uygun olmak zorundadır.
+
+(3) Egzoz gazı emisyon ölçüm cihazlarının kalibrasyonu TS 12361-
+Yetkili Servisler Standardında belirtilen veya Türk Standartları
+Enstitüsü tarafından kabul edilen diğer kalibrasyon usullerinden
+birisi ile yılda en az bir defa yapılır. Kalibrasyon yapan
+işletmeler kalibrasyon belgelerini bu işlemi yaptırdıkları
+tarihten itibaren on beş gün içinde Daireye sunmak zorundadır.
+
+(4) Ölçüm cihazlarının kalibrasyonunun Türk Standartları Enstitüsü
+veya bu konuda yetkili kuruluşlardan alınan Kalibrasyon
+Sertifikalarına sahip laboratuvar veya kuruluşlar veya bu
+konuda yetkili kuruluşlardan alınan eğitim sertifikasına sahip
+
+[SAYFA 14]
+1354
+şahıslar tarafından yapılması ve bu sertifikaların geçerlilik
+süresi bitmeden önce yenilenmesi gerekmektedir.
+
+(5) Gerçek veya tüzel kişiler egzoz emisyon ölçüm cihazlarının
+kalibrasyonunu yaptırdıkları kurum veya kişilerin yukarıdaki
+(4'üncü fıkrada belirtilen kalibrasyon eğitim sertifikalarını da
+Daireye sunmak zorundadır.
+
+DÖRDÜNCÜ KISIM
+
+Denetim, Ceza, Yaptırım ve Önlemler
+
+Motorlu Taşıtların 19 (1) Dairesi yetkilileri, trafik polisi eşliğinde trafikte seyreden her
+
+Denetimi taşıtın egzoz emisyonlarını kontrol edip, denetleme yetkisine
+sahiptir.
+
+(2) Daire yukamdaki (iYinci fikraya uygun olarak dl¢tim
+
+cihazları ile motorlu taşıtların egzoz emisyon ölçümünü
+yapar ve taşıtların Motorlu Taşıt Egzoz Emisyon Ölçüm
+
+Raporunun olup olmadığını ve €EZOZ
+gazı emisyon ölçümünün zamanında yaptırılıp
+yaptırılmadığını kontrol eder.
+
+(3) Daire denetimlerde, egzoz gazı emisyon ölçümünün
+yaptırılması gereken zamanda yaptırılmadığının ve/veya
+Motorlu Taşıt Egzoz Emisyon Ölçüm Raporunun taşıtta
+bulundurulmamasının ve/veya egzoz gazı emisyon ölçüm
+sonuçlarının bu Tüzüğün 7'nci veya 8'inci maddelerinde
+belirtilen sınır değerlere aykırı emisyona sebep olduğunun
+18/2012 tespiti halinde; taşıt sahibine Çevre Yasası'nın 28'inci
+maddesinin (3)’tincti fıkrasına göre idari para cezası verebilir.
+(4) Daire denetimlerde, egzoz- gazı emisyon ölçümünün
+zamanında yaptırılmadığının veya Motorlu Taşıt Egzoz
+Emisyon Ölçüm Raporunun taşıtta bulundurulmamasının
+veya egzoz gazı emisyon ölçüm sonuçlarının bu Tüzüğün
+7'nci veya 8'inci maddelerinde belirtilen sınır değerlere
+aykırı emisyona sebep olduğunun tespiti halinde; taşıt
+sahibine, yukardaki (3)’iincii fıkra kapsamında idari para
+cezası verilip verilmediğine bakılmaksızın, bu Tüzüğün
+© 18/2012 Pnci veya 8'inci ve/veya 17'nci maddesinin (1)’inci
+e fıkrasına olan aykırılığı gidermesi için Çevre Yasası uyarınca
+otuz güne kadar süre verir.
+(5) Yukarıdaki (4)'üncü fıkra uyarınca verilen sürenin hitamında
+taşıt sahibi standartlara uygun emisyon ölçüm raporunu
+Daireye ibraz etmek zorundadır. İbraz etmediği takdirde,
+yukarıdaki (3)’iincti fikra uyarınca bir idari para cezası
+18/2012 verilmemişse, Çevre Yasası'nın 28'inci maddesinin (3'üncü
+fıkrasına göre taşıt sahibine idari para cezası verilir ve ilgili
+taşıtın trafikten men edilmesi için Polis Genel Müdürlüğü'ne
+talepte bulunulur.
+(6) Yukarıdaki (5)’inci fıkrada belirtilen emisyon ölçüm raporu
+
+~
+ain si
+yi ie
+
+[SAYFA 15]
+1355
+ibraz edilmiş olsa dahi, Daire gerekli görmesi halinde
+sözkonusu raporun doğruluğunu teyit etmek amacıyla kendi
+ölçüm cihazı ile ilgili motorlu taşıın egzoz emisyon
+ölçümünü gerçekleştirebilir.
+
+(7) Dairenin yukarıdaki (6)ıncı fikra uyarınca yaptığı
+ölçümlerde, yukarıdaki (5)’inci fıkra uyarınca ibraz edilen
+emisyon ölçüm raporunun bu Tüzüğün 15'inci maddesinin
+(1)’inci fıkrasının (B) bendine aykırı olarak hazırlandığını
+tespit etmesi halinde, söz konusu aykırılığı gerçekleştiren
+lisans sahibi hakkında bu Tüzüğün 21'inci maddesi
+kapsamında işlem yapar, ilgili motorlu taşıtın egzoz emisyon
+ölçümünü geçerli saymaz ve motorlu taşıt sahibinden egzoz
+emisyon ölçümünü tekrar yaptırıp emisyon ölçüm raporunu
+Daireye ibraz etmesi için otuz güne kadar süre verir.
+
+Haklarında Şikayet 20 Haklarında çevreye zararlı egzoz emisyon salınımı yaptıkları
+Yapılan Motorlu Taşıt şikayeti yapılan kişiler hakkında bu Tüzüğün 19'uncu
+Sahipleri Oo Hakkında maddesinin (4)'üncü, (5'inci, (6)'ncı ve (7)’nci fıkraları
+İşlemler uyarınca işlem yapılır.
+
+Egzoz Emisyon Ölçüm 21 (1) Bu Tüzük kuralları uyarınca yetkilendirilen gerçek ve tüzel
+İstasyonlarının © — kişilerbu Tüzük kuralları uyarınca Daire tarafından
+Denetimi ve denetlenir.
+
+Uygulanacak Yaptırım
+
+(2) Daire tarafından yapılacak denetimlerde;
+
+(A) Egzoz emisyon ölçümü yapmadığı halde Motorlu Taşıt
+Egzoz Emisyon Ölçüm Raporu verdiği ve/veya
+emisyon ölçüm sonuçları bu Tüzükte belirtilen sınır
+değerlere uygun çıkmadığı halde Motorlu Taşıt Egzoz
+Emisyon Ölçüm Raporu verdiği ve/veya herhangi bir
+taşıta ait egzoz emisyon ölçüm sonuçlarını başka bir
+taşıt için kullandığı ve/veya Dairenin bastırmış olduğu
+Motorlu Taşıt Egzoz Emisyon Ölçüm Raporu dışında
+başka bir rapor verdiği veya egzoz emisyon ölçüm
+raporu üzerinde tahrifat yaptığı ve/veya egzoz emisyon
+ölçüm yetki belgesi bulunan sabit istasyon tarafından
+mobil araçla ölçüm yapıldığı veya yaptırıldığı ve/veya
+Bakanlar Kurulu tarafından belirlenen egzoz emisyon
+ölçüm bedelinin üzerinde harç talep ettiği ve/veya
+motorlu taşıt egzoz emisyon ölçümü yapma ve emisyon
+ölçüm raporu hazırlama lisansında belirtilen adresten
+farklı bir adreste ölçüm yaptığı tespit edilen ve/veya
+lisansta yer alan bilgilerde tabrifat yapan gerçek ve
+tüzel kişilerin sahip olduğu işletmelerin egzoz emisyon
+ölçüm işlemleri derhal durdurulur, protokol Daire
+tarafından tek taraflı olarak feshedilir ve lisans iptal
+edilir. Bu kapsamda, motorlu taşıt egzoz emisyon
+ölçümü yapma ve emisyon ölçüm raporu hazırlama
+lisansı iptal edilen ölçüm istasyonlarına yeniden lisans
+verilmez.
+
+(B) Yazılı ölçüm sonucunu taşıt sahibine vermeyen
+ve/veya egzoz gazı emisyon ölçüm cihazının
+özelliklerinin bu Tüzüğün 18'inci maddesinde belirtilen
+
+[SAYFA 16]
+18/2012
+
+(6)
+
+1356
+
+kriterlere uygun olmadığı tespit edilen gerçek ve tüzel
+kişilerin sahip olduğu işletmelerin egzoz emisyon
+ölçüm işlemleri derhal durdurulur, protokol Daire
+tarafından tek taraflı olarak feshedilir ve lisans iptal
+edilir.
+
+(C) Egzoz emisyon ölçüm lisansı verilen ölçüm istasyonuna
+ait egzoz emisyon ölçüm raporunun yetki verilen veya
+verilmeyen başka bir ölçüm istasyonu tarafından
+kullanılması yasaktır. Bu durumun tespiti halinde her
+iki istasyonun da lisansı iptal edilir ve yeniden lisans
+verilmez. Motorlu taşıt egzoz emisyon ölçümü yapma
+ve emisyon ölçüm raporu hazırlama lisansı
+bulunmadığı halde egzoz emisyon ölçümü yaparak
+yetkili bir istasyona ait Motorlu Taşıt Egzoz Emisyon
+Ölçüm Raporunu kullandığı ve/veya sahte Motorlu
+Taşıt Egzoz Emisyon Ölçüm Raporu kullandığı tespit
+edilen işletmenin egzoz emisyon ölçüm raporu
+hazırlama lisans başvurusu değerlendirmeye alınmaz.
+
+(Ç) Bu Tüzükte belirtilen kuralların herhangi birine aykırı
+hareket eden gerçek veya tüzel kişilerin sahip olduğu
+işletmelerin faaliyetleri Daire tarafından geçici olarak
+durdurulur. Bu aykırılığın düzeltilmesi için işletme
+sahibine Çevre Yasası uyarınca otuz güne kadar süre
+verilir. Verilen sürenin sonunda aykırılığın devamı
+halinde motorlu taşıt egzoz emisyon ölçümü yapma ve,
+emisyon ölçüm raporu hazırlama lisansı iptal edilir.
+
+Gerçek veya tüzel kişilerin sahip oldukları işletmelerin bu
+
+Tüzüğün 11'inci maddesinde belirtilen niteliklerden herhangi
+
+birini kaybetmesi halinde sözkonusu işletmenin motorlu taşıt
+
+egzoz emisyon ölçümü yapma ve emisyon ölçüm raporu
+hazırlama lisansı iptal edilir.
+
+Egzoz emisyon ölçümü yapma konusunda lisanslandırılan
+
+gerçek veya tüzel kişiler Daire ile imzaladıkları protokole
+
+aykırı davrandıklarının tesbiti halinde lisansları iptal edilir.
+
+Bu Tüzük kuralları uyarınca lisansı iptal edilen gerçek veya
+
+tüzel kişilere ait işlem görmemiş Motorlu Taşıt Egzoz
+
+Emisyon Ölçüm Raporları Daire tarafından tutanakla tespit
+
+edilir ve işlem görmemiş bu raporların bedeli söz konusu
+
+kişilere iade edilmez ve hazineye gelir olarak kalır.
+
+Faaliyeti durdurulan, lisansı iptal edilen egzoz emisyon
+
+ölçüm istasyonlarının isimleri ve yapılan ilgili işlemler Polis
+
+Genel Müdürlüğü'ne bildirilir.
+
+[SAYFA 17]
+Kirliliğinin Kritik 22
+Değerlere o Ulaşması
+Halinde Alınacak
+Önlemler
+
+Çevre Fonu Hesabına 23
+veya Başka Hesaba
+Yatan Paranın
+Kullanımı
+
+İthal
+Araçlarda
+Belgesi
+Olması
+
+Edilen Yeni 24
+Uygunluk
+(C.0.C)
+
+Kıbrıs Türk Barış 2
+Kuvvetleri
+
+Komutanlığı ile
+Güvenlik Kuvvetleri
+Komutanlığı Envant
+erinde Bulunan
+
+Motorlu Taşıtlar
+
+Ur
+
+Mevcut Lisanslarm 26
+Geçerliliği ve Lisans
+Sahiplerinin Tabi
+Oldugu Kurallar
+
+1357
+Hava kirliliğinin motorlu taşıtlardan dolayı kritik değerlere
+ulaşması halinde, kirliliğin artış gösterdiği bölgelerde, Dairenin
+talebi ve Bakanlığın önerisi üzerine, trafik geçici veya sürekli
+olarak Bakanlar Kurulu tarafından sınırlandımlabilir veya
+yasaklanabilir.
+
+BEŞİNCİ KISIM
+Çeşitli ve Son Kurallar
+
+Motorlu Taşıt Egzoz Emisyon Ölçüm Raporu belgesi karşılığında
+alınan ölçüm harcı ile motorlu taşıt egzoz emisyon ölçümü yapma
+ve emisyon ölçüm raporu hazırlama lisansı karşılığında alınan
+yetkilendirme (harcı Çevre Fonu hesabına veya Dairenin uygun
+göreceği bir başka hesaba yatırılır. Çevre Fonu hesabına veya
+Dairenin uygun göreceği hesaba yatan para, hava kalitesinin
+yönetimi ile ilgili konular öncelikli olmak üzere çevrenin
+geliştirilmesi, izlenmesi ve korunmasına yönelik çalışmalarda
+kullanılır.
+
+İthal edilen yeni (sıfır kilometre) araçlarda C.O.C Belgesi
+(Certificate of Conformity) olarak adlandırılan Uygunluk
+Belgesi'nin olması halinde sadece bir defaya mahsus olmak üzere
+motorlu taşıtın ilk kaydı esnasında, söz konusu taşıt egzoz
+emisyon ölçümünden muaf tutulur.
+
+Bu Tüzüğün 16'ncı maddesinin (3Yüncü fıkrası kapsamında
+olmayan ve Kıbrıs Türk Barış Kuvvetleri Komutanlığı ile
+Güvenlik Kuvvetleri Komutanlığı envanterinde bulunan motorlu
+taşıtların egzoz emisyon ölçümleri, bu Tüzüğün S'inci ve 6'ncı
+maddelerindeki esaslara ve 7'nci ve 8’inci maddelerdeki sınır
+değerlerine göre Kıbrıs Türk Barış Kuvvetleri Komutanlığı ile
+
+Güvenlik Kuvvetleri Komutanlığı'na ait egzoz gazı emisyon
+
+ölçüm cihazları ile yapılır. Sonuçlar Komutanlıklarca yılda bir kez
+
+Daireye gönderilir.
+
+(1) Bu Tüzüğün yürürlüğe girdiği tarihinden önce verilmiş olan
+Motorlu Taşıt Egzoz Emisyon Ölçümü Yapma ve Emisyon
+Ölçüm Raporu Hazırlama Lisansı, lisansta belirtilen sürenin
+sonuna kadar geçerlidir.
+
+(2) Yukarıdaki (1)’inci fıkra uyarınca bir lisansa sahip olan
+gerçek ve tüzel kişilerin de bu Tüzüğün 15'inci maddesinde
+belirtilen yükümlülükleri vardır ve bu Tüzüğün 15'inci
+
+[SAYFA 18]
+Yürütme Yetkisi
+
+Yürürlüğe Giriş
+
+27
+
+28
+
+(4)
+
+©)
+
+1358
+
+maddesinde belirtilen kurallara tabidir.
+
+Yukarıdaki (1)’inci fikra uyarınca lisansa sahip olup da lisans
+süreleri bu Tüzüğün yürürlüğe girdiği tarihten sonra dolan
+işletmeler, yeni lisans yenileme başvurularını, bu Tüzüğün
+Iinci ve 12'nci maddelerinde belirtilen kurallar uyarınca
+yaparlar.
+
+Yukarıdaki (1Y'inci fikra uyarınca lisansa sahip olup da lisans
+süreleri bu Tüzüğün yürürlüğe girdiği tarihten önce dolan
+işletmeler, yeni lisans yenileme başvurularını bu Tüzüğün
+yürürlüğe girdiği tarihten sonra yapmaları halinde, yapılan bu
+lisans yenileme başvuruları bu Tüzüğün 11’inci ve 12'nci
+maddelerinde belirtilen kurallar uyarınca değerlendirilir.
+Yukarıdaki (3Yüncü ve (4)'üncü fikra uyarınca yapılan
+başvurular bu Tüzük kuralları uyarınca değerlendirilir.
+
+Bu Tüzük , Bakanlık tarafından yürütülür.
+
+Bu Tüzük, Resmi Gazetede yayımlandığı tarihten başlayarak
+yürürlüğe girer.
+
+[SAYFA 19]
+1359
+
+EK-I
+
+Madde 10(1)
+
+ÇEVRE KORUMA DAİRESİ
+
+MOTORLU TAŞIT EGZOZ EMİSYON ÖLÇÜM RAPORU
+
+VERİLDİĞİ İLÇE:
+
+TAŞIT PLAKA NO: TRAFİĞE ÇIKIŞ TARİHİ:
+MARKA ve MODELİ: . MOTOR TIPI:
+
+CINSI: URETİM YILI:
+
+TAŞITIN EGZOZ EMİSYON ÖLÇÜMÜ
+
+RAPOR SERİ NO :
+
+İMZA,MÜHÜR:
+
+ÖLÇÜM TARİHİ :

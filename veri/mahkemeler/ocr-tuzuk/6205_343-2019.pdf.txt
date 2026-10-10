@@ -1,0 +1,337 @@
+[SAYFA 1]
+914
+Sayı : 343
+
+TELEKOMÜNİKASYON SERVİSİ YASASI
+(FASIL 302, 20/1960, 34/1962 ve 25/1963 Sayılı Yasalar)
+Madde 43 Altında Yapılan Tüzük
+Kuzey Kıbrıs Türk Cumhuriyeti Bakanlar Kurulu, Telekomünikasyon Servis Yasası'nın
+43'üncü maddesinin kendisine verdiği yetkiye dayanarak aşağıdaki Tüzüğü yapar:
+
+Kısa İsim 1. Bu Tüzük, Telekomünikasyon Hizmetleri Ücretleri ve Uygulama (Değişiklik)
+Tüzüğü olarak isimlendirilir ve aşağıda “Esas Tüzük” olarak anılan,
+
+31.7.2018 Telekomünikasyon Hizmetleri Ücretleri ve Uygulama Tüzüğü ile birlikte okumur.
+
+R.G.114
+
+EKM
+
+A.E.724
+
+28.2.2019
+R.G.27
+EKM
+A.E.IŞI
+
+14.3.2019
+R.G.34
+ERT
+A.E.180
+
+28.3.2019
+R.G.43
+EKTİ
+A.E.231
+
+Esas Tüzüğün 2. (1) Esas Tüzük, 2'nci Maddesine bağlı Cetvel'in KISIM II TESİS, KİRA ve SABİT
+2'nci ÜCRETLER başlığı altında yer alan 2.1 PSTN ERİŞİM ÜCRETLERİ kaldırılmak
+Maddesine ve yerine aşağıdaki yeni 2.1 PSTN ERİŞİM ÜCRETLERİ konmak sureti ile
+Bağlı değiştirilir;
+Cetvelin
+Değiştirilmesi
+
+2.1. PSTN ERİŞİM ÜCRETLERİ.
+
+Kullanım Amacı Tesis Ücreti (TL) Kira Ücreti (TL/Ay)
+
+Ses 25.00 12.50
+
+(2) Esas Tüzük, 2'nci maddesine bağlı Cetvel'de yer alan KISIM HI kaldırılmak ve
+yerine bu Tüzüğe ekli yeni KISIM III konmak sureti ile değiştirilir.
+Yürürlüğe 3. Bu Tüzük, 1 Mayıs 2019 tarihinde yürürlüğe girer.
+Giriş
+
+[SAYFA 2]
+915
+
+KISIM Il]
+TELEFON KONUŞMA ÜCRETLERİ
+
+Telefon görüşmelerinde kontör ücreti 8 (sekiz) krş'dur. Konuşma ücreti = (Kontör sayısı x kontör
+ücreti) olarak hesaplanır. Kontörler periyot başlarında peşin olarak yazılır. Tüm görüşme ücretlerine ek olarak
+KDV uygulanır.
+
+3.1. ADA İÇİ SABİT KONUŞMA ÜCRETLERİ
+
+Kontür atış süresi Konuşma ücretleri
+Aranılan yön ve Numaralar {sn) {TL/dk)
+Normal İndirimi! Normal İndirimli
+PSTN'den PSTN'e 80 O 0.06 ücretsiz
+PSTN'den VODAFONE Mobile Operations LTD. (KKTC
+wide nm i i aa 12 12 0.40 0.40
+Telsim)
+PSTN il | üni D. (Ki
+den Kıbrıs Mobile Telekomünikasyon LTD. (Kuzey 2 12 0.40 0.40
+Kibris TURKCELLYe )
+i
+NOT:
+
+*,
+
+* Pazartesi, Salı, Çarşamba, Perşembe. Cuma ve Cumartesi günleri 19:00-07:00 saatleri arasında tüm
+ebeke içi görüşmeler (PSTN — PSTN) (indirimli) ücretsiz olarak uygulanır.
+* Pazar günleri gerçekleşen tüm şebeke içi (PSTN — PSTN) tindirimli) ücretsiz olarak uygulanır.
+
+3.2. ADA İÇİ ÖZEL SERVİS NUMARALARINA ERİŞİM ÜCRETLERİ
+
+Kontör atış süresi Konuşma ücretleri
+Aranılan yön ve Numaralar {sn} TU/dk
+Normal ; İndirimli Normal İndirimli
+4AAxxxx 60 60 0.08 0.08
+900 9xxxxxx 15 cS 3.20 3.20
+900 8xxxxxx 1 1 4.80 4.80
+900 SxXxxxxx 2 2 2.40 2.40
+900 3xxxxxx 0.5 0.6 8.00 8.00
+sol hatlar a
+1xx - Resmi olan özel servis numaraları - - Ucretsiz
+1xx - Resmi olmayan özel servis numaraları 80 80 0.05 0.06
+
+[SAYFA 3]
+916
+
+192 12 12 0.40 0.40
+xxx - Resmi olan özel servis numaraları - - Ücretsiz
+
+Lxxx - Resmi olmayan özel servis numaraları 60 60 0.08 0.08
+153 60 60 0.08 0.08
+NOT:
+
+*
+
+*  800'lü harlarda ödeme, aranan tarafınd
+
+ücretleri sözleşme ile belirlenir,
+
+3.3. ULUSLARARASI ÜCRET TARİFESİ +
+
+an yapılması prensibi üzerine çalışır ve bu servislerin görüşme
+
+ARANAN YÖN KONTÖR ATIŞ SÜRESİ KONUŞMA ÜCRETLERİ AÇIKLAMALAR
+(sn) (TL/dk)
+Normal İndirimli Normal İndirimli
+TORRESEN an a on wae “e heme eni
+|
+
+TURKIYE GSM 9.25 o | asi 0.49 | indirim 20:00-07:00
+saatleri arasında uygulanır
+
+GLOBAL STAR (GMPCS) 5 0.96
+
+ÖZEL SERVİSLER - 1 (TÜRKİYE) 1.6 3.00 0444, 11811, 11842, 11855
+
+ÖZEL SERVİSLER - 2 (TÜRKİYE) 0.8 6.00 133, 11832
+
+KADEME | 15 0.32
+
+KADEME I! 7.5 0.64
+
+KADEME It 4 1.20
+
+KADEME IV 2 2.40
+
+KADEME V 12 4.00
+
+KADEME VI 0.6 8.00
+
+DIGER 0.15 32.00
+
+UYDU 0.08 60.00
+
+ÖZEL SERVİSLER 0.6 8.00
+
+NOT:
+
+* Uluslararası görüşme ücret değişiklikleri, ilgili op
+Telekomünikasyon Dairesi müdür tarafından güncell
+
+eratörlerle yapılan sözleşmelere bağlı olarak
+enir ve Bakan'ın onayı ile yürürlüğe girer.
+
+[SAYFA 4]
+Sayı : 344
+
+917
+
+HIZ SINIRININ KISITLANMASI HAKKINDA BİLDİRİ
+
+21/1974 SAYILI MOTORLU ARAÇLAR VE YOL TRAFİK (DEĞİŞİKLİK) YASASININ
+6. MADDESİ TAHTINDA BİLDİRİ
+
+Değiştirilmiş şekli ile 21/1974 sayılı Motorlu Araçlar ve Yol Trafik Yasasının 6'mcı
+Maddesinin 2'nci fıkrası kuralları uyarınca ve ayni maddenin 5'inci fıkrasının Bakanlığıma
+verdiği yetkiye dayanarak 01.05.2019 tarihinden itibaren sürücülerin kullandıkları araçların
+cinsine göre hızlarını aşağıdaki şekilde ayarlayacaklarını bildiririm.
+
+Şöyle ki;
+
+A) BÖLÜNMÜŞ YOLLAR:
+
+I
+
+CHAI AAAYN
+
+Gönyeli Çemberi — Gazimağusa
+
+Gönyeli Çemberi - Girne
+
+Gönyeli Çemberi - Güzelyurt
+
+Ercan Yonca Kavşağı — Ercan Havaalanı Kavşağı
+Güzelyurt — Doğancı
+
+Gazimağusa — İskele
+
+Dörtyol -- Geçitkale
+
+Girne — Karaoğlanoğlu
+
+Mağusa — Mağusa Yeni Hastane Yolu
+
+Motortu Araçlar ve Yol Trafik (Değişiklik) Yasa ve Tüzüğünde yazılı kayıt ve şartlar
+dışında, aksine bir işaret bulunmadıkça luz azaltmayı gerektirmeyen yol ve trafik
+şartlarında meskün mahalleler dışında taşı! cinsleri için azami sürat hadleri aşağıdaki gibi
+
+tespit edilmiştir,
+Otomobiller 100 km/s
+Motosikletler 90 km/s
+Minibüs, Otobüs, Kamyonetler 80 km/s
+
+Kanıyon, Tam ve Yarı Römorklu Çekiciler, Tehlikeli Madde ve Özel 60 kin/s
+Yük Taşıyan Araçlar, Arızalı Araç Çeken Araçlar, Beton Mikserleri
+
+Lastik Tekerlekli Traktörler, Lastik Tekerlekli İş Makinaları Giremezler
+
+[SAYFA 5]
+918
+
+B) 1. STINIF YOLLAR:
+1, Ercan Yonca Kavşağı — İskele - Bahçeler Yolu
+2. Geçitköy ~ Alsancak — Karaoğlanoğlu ~ Girne Şehir merkezi ~ Karakum —
+Ozanköy — Çatalköy Yolu
+3. Güzelyurt — Akçay — Şahinler — Serhatköy Yolu
+4. Yenierenköy — Dipkarpaz Yolu
+
+Motorlu Araçlar ve Yol Trafik (Değişiklik) Yasa ve Tüzüğünde yazılı kayıt ve şartlar
+dışında, aksine bir işaret bulunmadıkça hız azaltmayı gerektirmeyen yol ve trafik
+şartlarında meskün mahalleler dışında taşıt cinsleri için azami sürat hadleri aşağıdaki
+gibi tespit edilmiştir.
+
+Otomobiller || amm ine 90 km/s
+Motosikletler MA e ae
+
+Minibüs, Otobüs, Kamyoneller © © © © pnd km/s |
+Kamyon, Tam ve Yarı Römorklu Çekiciler, Tehlikeli Madde ve 50 km/s
+Özel Yük Taşıyan Araçlar, Beton Mikserleri : od
+Arızalı Araç Çeken Araçlar. Lastik Tekerlekli Traktörler, Lastik 30 km/s
+| Tekerlekli İş Makinaları
+
+[SAYFA 6]
+919
+
+© ILSIİNİPF YOLLARI
+
+Çamlıbel — Güzelyurt - Gemikonağı Yolu
+Yılmazköy — Çamlıbel Yolü — Geçitköy Yolu
+(Lefkoşa ~ Gazimağusa) Ayırımı Girne Ayırımı - Esentepe — Tatlısu — Balalan -
+Ziyamet Yolu
+
+İskele — Yenierenköy Yolu
+
+Geçitkale — Girne/ Tatlısu Kavşağı
+
+Çayırova — Büyükkonuk — Kaplica/Ziyamet Kavşağı Yolu
+
+Ergazi ~ Kilitkaya Yolu
+
+Ww No
+
+SD tn Rk
+
+Motorlu Araçlar ve Yol Trafik (Değişiklik) Yasa ve Tüzüğünde yazılı kayıt ve şartlar
+dışında, aksine bir işaret bulunmadikça hiz azaltmayı gerektirmeyen yol ve trafik
+şartlarında meskün mahalleler dışında taşıt cinsleri için azami sürat hadleri aşağıdaki
+gibi tespit edilmiştir.
+
+A TS ae
+“Minibüs, Örer Kamyonetler = “60 ae i:
+Kamyon, Tam ve Yarı Römorklu Çekiciler, E Beton Mikserleri 0 kimis
+
+“Tehlikeli Madde ve Özel Yük Taşıyan Araçlar İ döknms
+Arızalı Araç Çeken Araçlar, Lastik Tekerlekli Traktörler, Lastik | O 30kms
+
+Tekerlekli İş Makinaları,
+
+[SAYFA 7]
+920
+
+D) Hİ.SINIF VE DİĞER KÖY YOLLARI:
+
+Motorlu Araçlar ve Yol Trafik (Değişiklik) Yasa ve Tüzüğünde yazılı kayıt ve şartlar
+dışımda, aksine bir işaret bulunmadıkça hız azaltmayı gerektirmeyen yol ve trafik
+şartlarında meskün mahaller dışında taşıt cinsleri | için azami sürat hadleri aşağıdaki
+gibi tespit edilmiştir,
+
+Otomobiller ..,,«,« 0000 Rİ EE
+vee keler Ni m, i wn Nİ
+
+. : RAM emilim SE KEM.
+Kanyon, Tam. ve Yarı | ömerklü Cel ciler, don | n Mikserleri” o dükms
+Tehlikeli Madde ve Özel Yük Taşıyan Araçlar, Arızalı Araç Çeken | 30 km/s. “i
+Araçlar, Lastik Tekerlekli Traktörler, Lastik Tekerlekli İş
+
+Makinaları MM AN. EA
+
+E) Meskün Mahaller içinde aksine bir işaret bulunmadığı hallerde ve hiz azaltmayı
+
+gerektirmeyen yol ve trafik şartlarında, Tehlikeli madde taşıyanlar Saatte 30 km. diğer
+araçlar Saatte 5) km'dir. Lastik tekerlekli traktör ve arızalı araç çeken araçlar meskün
+mahaller içinde ve dışmda saatte 30 km'den fazla hız yapamazlar,
+
+F) Lastik tekerlekli iş makinaları bölünmüş yollara giremezler. |. ve (1. Sınıf Yollara ise
+
+G
+
+izinli olarak girebilirler. Azami hızları 30 ken/s ile sınırlıdır. Paletli iş makinaları ise
+hiçbir yola giremezler,
+
+—
+
+Lefkuşa - Girne Dağ Yolu'nu kullanacak olan Otomobil, Motosiklet, Minibüs ve
+Kamyonetler İl. Sınıf Yol azami hiz sınırlamalarına uymalıdırlar. Yardımcı fren
+sistemleri aktif olan Kamyon, ‘Tam ve Yarı Römorklu Çekiciler ve Otobüsler azami 40
+km/saa?te seyretmeleri ve azami üçüncü vitesi kullanmaları gerekmektedir. Yardımcı
+fren sistemi olmayan veya çalışmayan Kamyon, Tam ve Yarı Römorklu Çekiciler ve
+Otobüsler azami 30 Km/saatte seyretmeleri ve azami İkinci vitesi kullanmaları
+gerekmektedir.
+
+HH) + Kavşuklara vaklaşırken,
+
+~  Dönemeçlere girerken.
+
+- Tepe Üstlerine Yaklaşırken.
+
+- Dolambaçlı Yollarda İlerlerken,
+
+- Yaya geçitlerine, hemzemin geçitlere, tünellere, dar köprü ve menfezlere
+yaklaşırken,
+
+- Karayollarmda inşaat ve tamirat sahalarına yaklaşırken,
+
+~ Yol ve trafik durumunun icap ve şartlarına göre Bereken, Bis
+
+oY : yerlerde
+kulfandıkları aracın süratini azaltmaya mecburdurlar, ;
+
+“Flan Atakan
+Pan ve Ulaştırma Bakanı

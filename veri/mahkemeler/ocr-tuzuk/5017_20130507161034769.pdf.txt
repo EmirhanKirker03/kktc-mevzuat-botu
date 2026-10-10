@@ -1,0 +1,85 @@
+[SAYFA 1]
+1856
+Sayı: 740
+
+TELEKOMÜNİKASYON SERVİSİ YASASI
+(Fasıl 302, 20/1960, 34/1962 ve 25/1963 Sayıl Yasalar)
+4'üncü Madde altında Yapılan Tüzük
+
+Kuzey Kıbrıs türk Cumhuriyeti Bakanlar Kurulu, Fasıl 302 sayılı Telekomünikasyon
+Servisi Yasası'nın 43'üncü maddesinini verdiği yetkiyi kullanarak aşağıdaki Tüzüğü
+yapar:
+
+Kısa İsim 1. Bu Tüzük, “Telekomünikasyon Hizmetleri Ücretleri ve Uygulama
+(Değişiklik) Tüzüğü olarak isimlendirilir ve aşağıda “Esas Tüzük” olarak
+R.G 21 anılan Telekomünikasyon Hizmetleri Ücretleri ve Uygulama Tüzüğü ile
+31.01.2008 birlikte okunur.
+EK Hl
+A.E 104
+
+R.G 58
+01.04.2008
+EK Mi
+A.E 247
+
+R.G 133
+17.07.2008
+EK III
+A.E 561
+
+mG 148
+07.08.2008
+EK Il
+A.E 592
+
+Esas Tüzüğe 2. Esas Tüzüğe ek'li Cetvel'de Kısım Ul “Telefon Konuşma Ücretleri”
+
+EK'li Cetvel Bölümü'nün Vinci maddesinin 1.3-h ve 1.3-1 bendleri kaldırılmak ve
+Kısım [Pin yerlerine aşağıdaki yeni 1.3-h ve 1.3-1 bendleri konmak ve ayni bölümün
+Değiştirilme- ”nci maddesi kaldırılmak ve yerine aşağıdaki yeni 2'inci madde
+Si konmak suretiyle değiştirilir:
+Kontör atış periodu(sn) Konuşma ücretleri
+Normal (o İndirimli Normal İndirimli
+
+1-1.3.h-185, 186, 116,166,184,
+
+188,196,163, 178,
+150,123 70 70 0.0257YTU/dk 0.0257YTLU/dk
+13. 179 70 70 0.02S7YTL/dk 0.0257YTL/dk
+2-Türkiye ile yapılan otomatik
+konuşmalar:
+2.1- Türkiye PSTN numaraları 16 20 0.1125YTU/dk O.09YTL/dk
+
+2.2- Türkiye GSM numaraları 6.65 (835 0.27YTL/dk o 0.2i5YTL/dk”
+
+[SAYFA 2]
+1857
+
+gsas Tüzüğe 3. Esas Tüzük, Ek 1 “Uluslararası Ücret Tarifesi” kaldırılmak ve yerine
+
+bağlı Ek Pin aşağıdaki yeni Ek 1 “Uluslararası Ücret Tarifesi” konmak suretiyle
+Değiştirilmesi değiştirilir:
+
+EK I
+
+ULUSLARARASI ÜCRET TARİFESİ
+
+ARANILAN Y ÖN KONTOR ATIŞ GÖRÜŞME ÜCRETLERİ
+NORM(sn) | İND.(sn) NORM(YTL/dk) | İND.(YTL/dk)
+
+TÜRKİYE 16 20 0,112500 0,090000
+TÜRKİYE GSM 6,65 8,35 0,270677 0,215569
+KADEME | 9,35 9,35 0,192515 0,192513
+KADEMEIGSM 2,65 2,65 0,679245 0,679245
+KADEME 2 4,65 4,65 0,387097 0,387097
+KADEME2GSM 2,65 2,65 0,679245 0,679245
+KADEME3
+
+PSTN+GSM 2,65 2,65 0,679245 0,679245
+KADEME4
+
+PSTN+GSM 1,60 1,60 1,125000 1,125000
+11811 2,65 2,65 0,679245 0,679245
+
+Yürürlüğe 4. Bu Tüzük, Resmi Gazete'de yayımlandığı tarihten başlayarak yürürlüğe
+Giriş girer.

@@ -1,0 +1,130 @@
+[SAYFA 1]
+Sayı :
+
+10
+
+AMBALAJLANMIŞ KAYNAK SUYU VE İÇME SUYU YASASI
+
+( 88/2009 )
+
+Madde 27 Altında Yapılan Tüzük
+
+Kuzey Kıbrıs Türk Cumhuriyeti Bakanlar Kurulu, Ambalajlanmış Kaynak Suyu ve
+İçme Suyu Yasası'nın 27'nci maddesinin (â)'üncü fıkrasının kendisine verdiği yetkiye
+dayanarak aşağıdaki Tüzüğü yapar:
+
+Kısa İsim
+
+22.3.2016
+
+R.G.36
+
+EK HI
+
+A.E.207
+27.07.2018
+R.G,112
+EKM
+A.E.718
+
+Esas Tüzüğe Ekli
+EK Vin
+Değiştirilmesi
+
+Yürürlüğe Giriş
+
+1, Bu Tüzük, Ambalajlanmış Kaynak Suyunun Ve İçme Suyunun
+Taşıması Gereken Her Türlü Kimyasal, Fiziksel Ve Mikrobiyolojik
+Kriterler İle İçme Suyu Güvenliği İle İlgili (Değişiklik) Tüzüğü
+olarak isimlendirilir ve aşağıda "Esas Tüzük" olarak anılan
+Ambalajlanmış Kaynak Suyunun Ve İçme Suyunun Taşıması
+Gereken Her Türlü Kimyasal, Fiziksel Ve Mikrobiyolojik. Kriterler
+İle İçme Suyu Güvenliği İle İlgili Tüzük ile birlikte okunur.
+
+2. Esas Tüzüğe ekli EK 1 'in (a) Mikrobiyolojik Parametreler tablosu
+kaldırılmak ve yerine bu Tüzüğe ekli yeni (a) Mikrobiyolojik
+Parametreler tablosu konmak suretiyle değiştirilir.
+
+3. Bu Tüzük, Resmi Gazete'de yayımlandığı tarihten itibaren
+yürürlüğe girer.
+
+[SAYFA 2]
+tN
+i)
+
+a) Mikrobiyolojik parametreler
+Parametreler ve parametrik degerler
+
+İçme Suları icin:
+
+22“C'de koloni sayısı
+37 °C’de koloni sayısı
+
+İmlahane için belirlenen sınır
+değerinin on katını geçemez.
+
+Parametre Parametrik değer sayı/ ml
+Escherichia Coli ( E. Coli ) 0/250 ml
+Enterokok 0/250 ml
+Koliform bakteri 0/250 ml
+“ P. aeruginosa 0/250 ml
+Anaerob sporlu siilfit rediikte eden bakteriler 0/50ml
+Patojen Staphylococlar 0/100m1
+Kaynaktan alınan numunede maksimum:
+22 °C’de koloni sayısı 20/ml
+37 °C’de koloni sayısı 5/ml
+İmlahanede ambalajlandiktan sonra alınan
+numunede maksimum: Not 1
+22 °C’de koloni sayısı 100/ml Not 2
+37 °C’de koloni sayısı 20/m1
+Piyasada satılan ambalajlı sulardan alınan
+numunede maksimum:
+
+Parazitler
+
+0/5 L
+
+Not 1: Kontrol izlemesi amacıyla aylık alman numunelerde üst üste 3 defa veya bir yıllık süre
+zarfında 5 defa parametrik değerin aşılması halinde uygunsuz olarak kabul edilir.
+Not 2: İthal edilen içme suları için Not 1'de belirtilen koşul uygulanmaz.
+
+Kaynak Suları icin:
+
+Parametre Parametrik değer sayı/ ml
+
+Escherichia Coli (E. Coli ) 0/250 ml
+
+Enterokok 0/250 ml
+
+Koliform bakteri 0/250 ml
+
+P. aeruginosa 0/250 ml
+
+Anaerob sporlu sülfat redükte eden bakteriler 0/50ml
+
+Patojen Staphylococlar 0/100m1
+
+Kaynaktan alınan numunede maksimum:
+
+22 “C'de koloni sayısı 20/ml
+
+37 °C’de koloni sayısı S/ml
+
+Dolum tesisinde ambalajlandiktan sonra alinan
+
+numunede maksimum: Not 1
+22 °C’ de koloni sayısı 100/ml Not 2
+37 °C’de koloni sayısı 20/ml
+
+Piyasada satılan ambalajli sulardan alınan | Dolum tesisi için belirlenen sınır
+numunede maksimum: değerinin on katını geçemez.
+
+22 *C'de koloni sayısı
+
+37 9C'de koloni sayısı
+
+Parazitler 0/5 L
+
+Not 1: Kontrol izlemesi amacıyla aylık alınan numunelerde üst üste 3 defa veya bir yıllık süre
+zarfinda 5 defa parametrik değerin aşılması halinde uygunsuz olarak kabul edilir.
+Not 2: İthal edilen kaynak suları için Not 1'de belirtilen koşul uygulanmaz.

@@ -1,0 +1,1965 @@
+[SAYFA 1]
+Sayı : 40
+
+93
+
+URUN GUVENLIGI YASASI
+(42/2014 Sayılı Yasa)
+
+Madde 18 Altında Yapılan Tüzük
+
+Kuzey Kıbrıs Türk Cumhuriyeti Bakanlar Kurulu, Ürün Güvenliği Yasası'nın 18'inci
+maddesinin (1Y'incifikrasının kendisine verdiği yetkiye dayanarak Bakanlıkça hazırlanan
+aşağıdaki Tüzüğü yapar:
+
+Kısa İsim
+
+Tefsir
+
+Bu Tüzük,CE İşareti ve Uygunluk Beyanı Tüzüğüolarak
+isimlendirilir.
+
+BİRİNCİ KISIM
+Genel Kurallar
+
+Bu Tüzükte metin başka türlü gerektirmedikçe;
+
+“Bakanlık”, Ticaret Dairesinin bağlı olduğu Bakanlığı anlatır.
+
+“CE İşareti”, Avrupa Birliğinin, bir ürün veya ürün grubu icin
+oluşturmuş olduğu ürün mevzuatı olarak bilinen temel gereklere,
+ürünün uyumlu olduğunu gösteren bir uygunluk işaretidir. Bu işaret,
+kalite güvencesine ilişkin bir işaret değildir. Ürünün, insan sağlığı,
+can ve mal güvenliği, hayvan ve bitki yaşamı ile sağlığı ve çevre ile
+tüketicinin korunması açısından asgari güvenlik koşullarına uygun
+olduğunu gösteren bir işaret olup, bu işarete sahip ürünlerin, Avrupa
+Birliği üyesi ülkelerde serbest dolaşım hakkının varlığını anlatır.
+“İthalatçı”, İthal edilen mallarla ilgili olarak ithal edildikleri andan
+başlamak üzere, gümrük kontrolünden tesliminin yapıldığı ana
+kadar, bu mallarla ilgili herhangi bir mal sahibini anlatır.
+
+“Modül”, Bu Tüzüğün Ek-3'ünde yer alan uygunluk değerlendirme
+yöntemlerinden her birini anlatır.
+
+“Onaylanmış Kuruluş”, Uygunluk Değerlendirme Kuruluşları
+arasından, Yasanın 14'üncü maddesine göre onaylanarak, bir teknik
+düzenleme kapsamında uygunluk değerlendirme faaliyetinde
+bulunmak üzere, Yetkili Otorite tarafından Yasa ve Yasa altında
+çıkarılacak tüzükte belirtilen esaslara göre yetkilendirilen kuruluşu
+anlatır.
+
+“Piktogram”, Ürünün üzerinde yer alan ve ürünle ilgili bir özelliği
+resimli olarak tasvir eden şekli anlatır.
+
+“Teknik Düzenleme”, Bir ürünün, ilgili idari kurallar da dahil olmak
+üzere, özellikleri, işleme ve üretim yöntemleri, bunlarla ilgili
+terminoloji, sembol, ambalajlama, işaretleme, etiketleme ve
+uygunluk değerlendirmesi işlemleri hususlarından biri veya birkaçını
+belirten, uyulması zorunlu her türlü mevzuatı ve düzenleyici işlemi
+anlatır.
+
+“Tip”, İmalatı planlanan ürünü temsil eden numuneyi anlatır.
+“Uygunluk Beyanı”, Bu Tüzüğün 6'ncı maddesindeki beyanı
+anlatır.“Uygunluk Değerlendirmesi”, Ürünün ilgili teknik
+düzenlemesine, standardma oveveya güvenlik (gereklerine
+uygunluğunun test edilmesi, muayene edilmesi ve/veya
+belgelendirilmesi ve uygunluğun değerlendirilmesine ilişkin her türlü
+faaliyeti anlatır.
+
+“Uyumlaştırılmış Standart”, Yasanın 2'nci maddesinin “Standartlar”
+
+[SAYFA 2]
+42/2014
+
+Amaç
+
+Kapsam
+
+94
+
+tefsirinin (C) bendindeki Uyumlaştırılmış Avru sa Birliği Standardını
+anlatır.
+“Üretici”, Eğer Kuzey Kıbrıs Türk Cumhuriyet nde kurulmuş ise, bir
+ürünün üreticisi ve ürüne ismini, ticari markası 1 veya başka belirgin
+bir işaretini koymak sureti ile kendisini üretici olarak sunan herhangi
+bir kişiyi veya ürünü ıslah eden kişiyi; üreti>inin temsilcisi veya
+üreticisi Kuzey Kıbrıs Türk Cumhuriyetinde k 2rulmus degilse veya
+kurulmuş olan bir temsilcisi yoksa, ürünün ithalatçısını veya
+faaliyetleri bir ürünün güvenlik özelliklerini e:kileyebilecek olması
+halinde ise arz zincirindeki diğer profesyonelleri anlatır.
+“Ürün”, Bir hizmetin verilmesi esnasında kulla ulan ürünler de dahil
+olmak üzere, tüketicilerin kullanımı için amaçlanan veya makul
+ölçülerde öngörülen şartlarda, onlar için düşinülmemiş olsa bile,
+muhtemelen tüketiciler tarafından kullanıl: bilecek olan yeni,
+kullanılmış veya ıslah edilmiş olmasından bağı nsiz olarak, bir ticari
+faaliyet sırasında tüketicilere sunulan veya unlar tarafından elde
+edilebilen,herhangi bir ürünü anlatır.
+
+Ancak, gıda, yem, canlı hayvan, canlı bit kiler ile insan orijinli
+canlı ürünleri kapsamaz.
+“Yetkili Otorite”, Yasa veya kendi kurulış yasaları ve/veya
+yürütmekle yetkili olduğu yasaları veya Bakaı'lar Kurulu Kararı ile
+ürünlere ilişkin bir mevzuatı hazırlamak, yürütmek ve/veya
+denetlemekle yetkili kılınan kamu kuruluşunu anlatır.
+“Yetkili Temsilci”, Üreticinin Yasanın ilgili kurallarında ve/veya
+ilgili teknik düzenlemesinde belirtilen sorumlu! ukları ve prosedürleri
+kendi adına tamamen veya kısmen yerine çetirmek üzere yazılı
+olarak yetkilendirdiği gerçek veya tüzel kişiyi anlatır.
+“Yasa”, Ürün Güvenliği Yasası'nı anlatır. i
+Bu Tüzükte kullanılan ve Yasada tanmlanca diğer herhangi bir
+sözcük, tanım veya deyim, metin başka türlü gerektirmedikçe söz
+konusu Yasada ona verilen anlamı taşır.
+
+Bu Tüzük, Kuzey Kıbrıs Türk Cumbhuriyetind: üretilen veya Kuzey
+Kıbrıs Türk Cumhuriyetine ithal edilen ürün graplarının hangilerinde
+CE işareti aranacağını belirlemek,CE belgelendirmesi, sorumluluk,
+logo standardı, uygunluk beyanına ve teknik d izenlemelerine ilişkin
+usul ve esasları düzenlemeyi amaçlamaktadır.
+
+(1) © Bu Tüzük, Kuzey Kıbrıs Türk Cumhur iyetinde üretilen veya
+Kuzey Kıbrıs Türk Cumhuriyetine itha! edilen ürünlere CE
+İşareti konulmasi yöntemlerini d izenleyen (o uygunluk
+değerlendirme modülleri ile bu işaretin kullanılmasına, CE
+belgelendirmesi, sorumluluk, logo sandardı, £ Uygunluk
+Beyanına ve teknik düzenlemelerine il şkin usul ve esasları
+belirler.
+
+(2) Bu Tüzük kapsamında yer aldığı halde, biruygunluk
+değerlendirme modülü veya Uygunluk Beyanı öngörmeyen
+bir teknik düzenlemenin varlığı halinde söz konusu teknik
+düzenlemenin kuralları esas alınır.
+
+(4) — Herhangi bir ürün grubunun ilgili teknik düzenlemesinde CE
+İşareti mevzuatına yapılan atıflarda, bu Tüzük kuralları
+
+[SAYFA 3]
+CE İşaretinin
+Ürüne
+Konulması ve
+Kullanılması
+
+3:
+
+(1)
+
+(2)
+
+6)
+
+4)
+
+6)
+
+(6)
+
+95
+
+uygulanır.
+
+, oİKİNCİKISIM
+CE İşareti ve Uygunluk Beyanı
+
+“CE” işaretinin ürüne konulması ve kullanılmasına dair genel
+esaslar şunlardır:
+
+(A) o Üretici, “CE” işaretini ürüne koymak veya konulmasını
+temin etmek suretiyle, ürünün bu işaretin konulmasını
+öngören ilgili teknik düzenleme veya düzenlemelere
+uygunluğunun kendi sorumluluğunda olduğunu ve
+ürünün gerekli tüm uygunluk değerlendirme işlemlerine
+tabi tutulduğunu beyan etmiş sayılır.
+
+(B) Bir ürünün “CE” işaretinin konulmasını gerektiren
+birden fazla teknik düzenlemeye tabi olması
+durumunda, ürünün üzerindeki “CE” işareti, ilgili tüm
+teknik odüzenlemelerin ouygulanabilir (kurallarının
+tamamının üretici tarafından yerine getirildiği
+varsayılır. Bu teknik düzenlemelerin, geçiş dönemi
+öngördüğü ve üreticiyeuygulama konusunda bir seçme
+hakkı tanıdığı durumlarda, “CE” işareti, sadece
+uygulanan teknik düzenleme veya düzenlemelerin
+hükümlerine uygunluğu gösterir.
+
+“CE” işareti;
+
+(A) Bu Tüzüğe bağlıEk-I'de belirtilen şekle uygun olarak
+“CE” harflerinden oluşur ve çizimdeki oranlara uyarak
+küçültülmesi ve büyütülmesi dışında işaretin tasarımı
+değiştirilemez,
+
+(B) İlgili teknik düzenlemede aksi belirtilmedikçe,
+asgaribeş milimetre ebatında olur,
+
+(C) Urine veya bilgi plakasına veya ürünün yapısı gereği
+bunun mümkün olmadığı veya kalıcılığının garanti
+edilemediği durumlarda ambalajına ve ilgili teknik
+düzenlemenin öngördüğü ürün beraberindeki belgelere
+görünür, okunabilir ve silinmeyecek şekilde konulur,
+
+(Ç) (o Ürün piyasaya arz edilmeden önce konulur,
+
+(D) Sadece üretici veya onun yetkili temsilcisitarafından
+
+, konulur.
+
+İlgili teknik düzenlemenin gerektirdiği durumlarda, “CE”
+
+işaretinin yanında, üretim kontrol safhasında yer alan
+
+onaylanmış kuruluşun kimlik kayıt numarası da yer alır.
+
+Kimlik kayıt numarası, onaylanmış kuruluşun kendisi veya
+
+kuruluşun talimatları çerçevesinde üretici veya üreticinin
+
+etkili temsilcisi tarafından konulur.
+rünün üzerinde “CE” işaretiyle birlikte piktogramlar veya
+
+i bir riski veya kullanımı betimleyen diğer işaretler de yer
+
+alabilir.
+
+Ürüne “CE” işaretinin anlamı ve şekli hakkında üçüncü
+
+şahısları yanıltacak başka işaretler veya betimlemeler
+
+konulamaz. Diğer her türlü işaret, ürüne ancak “CE” işaretinin
+görünebilirliğini, okunabilirliğini ve anlamını bozmayacak
+şekilde konulabilir.
+
+“CE” işareti sadece teknik düzenlemelerin konulmasını
+
+öngördüğü (ürünlerde kullanılabilir, başka (ürünlerde
+kullanılamaz.
+
+[SAYFA 4]
+Uygunluk
+Beyanı
+
+Uygunluk
+Değerlendirme
+Modülleri
+
+CE İşareti
+Gereken Ürün
+Grupları
+
+Bu Tüzük ve
+İlgili Teknik
+Düzenlemeler
+
+Ceza Kuralları
+
+Geçici Madde
+
+Yürütme
+Yetkisi
+Yürürlüğe
+Giriş
+
+96
+
+6. (1) Uygunluk beyanı, ilgili teknik düzenlemede O aksi
+belirtilmedikçe, asgari ilgili modülün veya modüllerin
+öngördüğü içerikte ve bu Tüzüğe bağlıEk-2'de yer alan örneğe
+uygun olarak hazırlanır. Başka dillerde düzenlendiği
+durumlarda, beyana Türkçe tercümesi de eklenir. Beyan,
+gerektiği her durumda güncellenir,
+
+(2) Ürünün Uygunluk Beyanını gerektiren birden fazla teknik
+düzenlemeye tabi olduğu durumlarda, üretici, bu teknik
+düzenlemelerin ürününe uygulanabilir tüm kurallarını yerine
+getirdiğini tek bir Uygunluk Beyanı düzenleyerek gösterir.
+Beyan metni, bu teknik düzenlemelerin adını, yayım tarihini ve
+referans numarasını içerir.
+
+(3) Üreticinin, Uygunluk Beyanını düzenleyip imzalamasıyla
+birlikte ürününün ilgili teknik düzenlemenin kurallarına
+uygunluğu konusundaki sorumluluğu üstlendiği varsayılır.
+
+7. (1) Bu Tüzüğün üncü maddesinin(2)’nci fikrası saklı kalmak
+kaydıyla, bir teknik düzenlemenin belli bir ürün için uygunluk
+değerlendirmesi yapılmasını öngördüğü hallerde, uygulanacak
+yöntem bu Tüzüğe bağlı Ek-3e düzenlenen uygunluk
+değerlendirme modülleri arasından seçilir.
+
+(2) Bu Tüzüğe bağlıEk-3'te yer alan modül veya modüllerden
+hangilerinin izleneceği, ilgili teknik düzenlemede belirtilir.
+
+8. Bu Tüzük, Kuzey Kıbrıs Türk Cumhuriyetinde üretilen veya Kuzey
+Kıbrıs Türk Cumhuriyetine ithal edilen ürüngruplarının hangilerinde CE
+işareti aranacağı,bu Tüzüğe ekli Ek-4’te yer alır.
+
+ÜÇÜNCÜ KISIM
+Çeşitli Kurallar
+
+9. Bu Tüzük kuralları, ürüne “CE” işareti konulmasını öngören teknik
+düzenlemelerle birlikte uygulanır. Teknik düzenlemesinde, CE işareti
+konulması öngörülen ürün grubunu denetlemekle sorumlu Yetkili Otorite,
+teknik düzenleme ile birlikte, bu Tüzük kurallarına uygunluğu da denetler.
+
+10. Bu Tüzük kurallarına aykırı davrananlar hakkında, Yetkili Otorite
+tarafından Yasanın40”ıncı maddesinde belirtilen cezalar uygulanır.
+
+DÖRDÜNCÜ KISIM
+Son Kurallar
+
+pa
+
+Bu Tüzüğün 8'inci madde kurallarına göre hazırlanacak Ek-4, ilgili
+teknik düzenlemelerin tamamınınResmi Gazete'de
+yayımlanmasından sonra çıkarılır.
+
+Ancak,bu Tüzüğün ekinde yer alanEk-4’te yer alacak listenin, Resmi
+Gazete'de yayımlanmasına kadarki süre içerisinde, ürün grubunun
+ilgili teknik düzenlemesinde bu Tüzüğe atıf yapılması, ilgili ürün
+grubuna bu Tüzük kurallarının uygulanması için yeterli olur.
+
+11. Bu Tüzük kurallarını, Bakanlık yürütür.
+
+12. Bu Tüzük, Resmi Gazetede yayımlandığı tarihten başlayarak yürürlüğe
+girer.
+
+[SAYFA 5]
+97
+
+EK-1
+CE iSARETi
+(Sinci Madde)
+
+1. “CE” işareti aşağıdaki şekle ve orana uygun olarak “CE” harflerinden oluşur:
+20
+
+ia! Li
+
+ine
+
+—
+=
+=
+
+ime
+
+10 3
+
+—
+
+SEP
+
+0 Lt iii Lt
+
+0 10 17 27
+11 26 28
+2. Küçültülmesi veya büyütülmesi gereken durumlarda yukarıda yer alan şekildeki oranlara
+uyulur.
+3. İlgili teknik düzenlemede aksi belirtilmediği müddetçe, “CE” işareti asgari 5 mm ebadında
+olur.
+
+EK-2
+
+UYGUNLUK BEYANI ÖRNEĞİ
+(6'ncı Madde)
+
+e Nöro (Ürünü diğerlerinden ayırarak tanımlayan numara):
+
+2. Üreticinin veya yetkili temsilcisinin adı ve adresi:
+
+3. BuUygunluk Beyanı, üreticinin(üreticininveya ürünün kurulumunu gerçekleştiren kişinin)
+kendi sorumluluğu altında düzenlenmiştir. (Üreticinin veya kurulumu yapanın adı):
+
+4. Beyanın konusu (İzlenebilirliğe yarayacak şekilde ürünün tanımını yapınız. Uygun olan
+durumlarda bir fotoğraf eklenebilir.):
+
+5. Yukarıda tarif edilen beyan konusu, aşağıda belirtilen mevzuata uygundur. (Mevzuatın adı):
+
+eee eee eee ee ee eee CeCe e eco eee ere cee reer eee ere eee ee eee Ty
+
+6. Kullanılan uyumlaştırılmış standartlara atıflar veya uygunluğu beyan edilen teknik
+şartnamelere atıflar:
+
+7.Dahilolanve................ belgesini düzenleyen onaylanmış kuruluşun adı ve kimlik kayıt
+numarası (uygunluk değerlendirme faaliyetinin türünün tarifiyle birlikte yazılacak)
+8. Ek bilgi:
+
+o YMM eek oo için ya da adına imzalanmıştır.
+(Yeri ve düzenleniş tarihi)
+(Ad, görev/unvan) (imza)
+
+[SAYFA 6]
+98
+EK-3
+
+UYGUNLUK DEĞERLENDİRME YÖNTEMLERİ
+(7'inci Madde)
+
+Modül A- Üretimin dahili kontrolü
+
+MADDE 1- (1) Üretimin dâhili kontrolü, üreticinin,bu maddenin (2)'nci, (3Y'üncü ve (4)'üncü
+fıkralarında sayılan yükümlülükleri yerine getirdiği ve ürünlerinin teknik mevzuatın ilgili kurallarına
+uygunluğunu kendi sorumluluğu çerçevesinde sağladığı ve beyan ettiği uygunluk değerlendirme
+yöntemidir.
+(2) Üretici, ürünün ilgili kurallara uygunluğunun değerlendirilmesine imkân sağlayacak nitelikte ve
+risklerin yeterli derecede analizini ve değerlendirmesini içerecek şekilde teknik dosyayı hazırlar.
+Teknik dosya, ürüne uygulanabilir kuralları belirtir ve değerlendirmeyle bağlantılı olması kaydıyla,
+ürünün tasarımını, imalatını ve işleyişini kapsar. Teknik dosya, uygulanabilir her durumda, asgari
+aşağıdaki hususları içerir:
+
+(A) Ürünün genel bir tarifi.
+
+(B) Konsept tasarım ve imalat çizimleri ile aksam, parça ve devrelerin ve benzerlerinin
+şemaları.
+
+(C) Bu çizim ve şemalar ile ürünün işleyişinin anlaşılabilmesi için gerekli tarifler ve
+açıklamalar.
+
+(Ç) Kısmen veya tamamen uygulanan uyumlaştırılmış standartların ve/veya ilgili teknik
+şartnamelerin referans adlarının listesi ile bu standartların uygulanmadığı durumlarda ilgili teknik
+düzenlemede belirtilen temel gerekleri karşılamak üzere benimsenen çözümlerin tarifleri ve
+uyumlaştırmış standartların kısmen uygulanması hâlinde, bu standartların hangi kısımlarının
+uygulandığı.
+
+(D) Yapılan tasarım hesaplamalarının, gerçekleştirilen muayenelerin ve benzerlerinin sonuçları.
+
+(E) Test raporları.
+
+(3) Üretici, imalat sürecinin ve bu sürecin gözetiminin, imal edilmiş ürünlerin (2)’nci fikrada belirtilen
+teknik dosyaya ve teknik mevzuatın ilgili kurallarına uygunluğunu sağlaması için gerekli her türlü
+önlemi alır.
+(4) Üretici;
+
+(A) İlgili teknik düzenlemede öngörülen “CE” İşaretini bu düzenlemenin ilgili kurallarını
+karşılayan her ürüne koyar,
+
+(B) Her ürün modeli için yazılı bir Uygunluk Beyanı hazırlar ve bu beyanı, teknik dosya ile
+birlikte, gerektiğinde yetkili otoritelere sunmak üzere, ürünün piyasaya arz edildiği tarihten itibaren on
+yıl süreyle muhafaza eder. Uygunluk Beyanı, ilgili olduğu ürünün tanımını içerir,
+
+(C) Uygunluk beyanının bir örneğini, talep edilmesi hâlinde yetkili otoritelere sunar.
+
+(5) Üretici bu maddenin(4Yüncü fıkrasında sayılan yükümlülükleri, üreticinin adına yapılması,
+sorumluluğunda olması ve ilgili görevlendirmede belirtilmesi kaydıyla yetkili temsilcisi tarafından
+yerine getirilebilir.
+
+Modül A1- Üretimin dahili kontrolü ve denetimli tirün testi
+
+MADDE 2- (1) Üretimin dâhili kontrolü ve denetimli ürün testi, üreticinin, bu maddenin(2)’nci,
+(3)'üncü, (4'üncü ve (5)’inci fikralarında sayılan yükümlülükleri yerine getirdiği ve ürünlerinin
+teknik mevzuatın ilgili kurallarına uygunluğunu kendi sorumluluğu çerçevesinde sağladığı ve beyan
+ettiği uygunluk değerlendirme yöntemidir.
+
+(2) Üretici, ürünün ilgili kurallara uygunluğunun değerlendirilmesine imkân sağlayacak nitelikte ve
+risklerin yeterli derecede analizini ve değerlendirmesini içerecek şekilde teknik dosyayı hazırlar.
+Teknik dosya, ürüne uygulanabilir kuralları belirtir ve değerlendirmeyle bağlantılı olması kaydıyla,
+ürünün tasarımını, imalatını ve işleyişini kapsar. Teknik dosya, uygulanabilir her durumda, asgari
+aşağıdaki hususları içerir:
+
+(A) Ürünün genel bir tarifi.
+
+(B) Konsept tasarım ve imalat çizimleri ile aksam, parça ve devrelerin ve benzerlerinin
+şemaları.
+
+[SAYFA 7]
+99
+
+(©) Bu çizim ve şemalar ile ürünün işleyişinin anlaşılabilmesi için gerekli tarifler ve
+açıklamalar.
+
+(Ç) Kısmen veya tamamen uygulanan uyumlaştırılmış standartların ve/veya ilgili teknik
+şartnamelerin referans adlarının listesi ile bu standartların uygulanmadığı durumlarda ilgili teknik
+düzenlemede belirtilen temel gerekleri karşılamak üzere benimsenen çözümlerin tarifleri ve
+uyumlaştırılmış standartların kısmen uygulanması hâlinde, bu standar'ların hangi kısımlarının
+uygulandığı.
+
+(D) Yapılan tasarım hesaplamalarının, gerçekleştirilen muayenelerin ve benzerlerinin sonuçları,
+
+(E) Test raporları.
+
+(3) Üretici, imalat sürecinin ve bu sürecin gözetiminin, imal edilmiş ürünlerin yukarıdaki (2Y'nci
+fıkrada belirtilen teknik dosyaya ve teknik mevzuatın ilgili kurallarına uygunluğunu sağlaması için
+gerekli her türlü önlemi alır.
+
+(4) İmal edilmiş her ürünün bir veya birden fazla unsuru, teknik mevzuatın ilgili kurallarına
+uygunluğunun doğrulanması amacıyla üretici tarafından veya onun adına bir veya birden fazla teste
+tâbi tutulur. Bu testler, üreticinin seçimi doğrultusunda, işletme içi akredite bir birim tarafından veya
+üreticinin belirleyeceği bir onaylanmış kuruluşun sorumluluğunda gerçekleştirilir. Testlerin bir
+onaylanmış kuruluş tarafından gerçekleştirildiği durumlarda, üretici bu kuruluşun kimlik kayıt
+den imalat aşamasında yine bu kuruluşun sorumluluğunda ürüne koyar.
+
+(5) Üretici;
+
+(A) İlgili teknik düzenlemede öngörülen CE İşaretini bu düzenlemenin ilgili kurallarını
+karşılayan her ürüne koyar,
+
+(B) Her ürün modeli için yazılı bir Uygunluk Beyanı hazırlar ve bu beyanı, teknik dosya ile
+birlikte, gerektiğinde yetkili otoritelere sunmak üzere, ürünün piyasaya arz edildiği tarihten itibaren on
+yıl süreyle muhafaza eder. Uygunluk Beyanı, ilgili olduğu ürünün tanımını içerir,
+
+(C)Uygunluk Beyanının bir örneğini, talep edilmesi hâlinde yetkili otoritelere sunar.
+
+(6) Üreticinin bu maddenin (5Y'inci fıkrasında sayılan yükümlülükleri, üreticinin adına yapılması,
+sorumluluğunda olması ve ilgili görevlendirmede belirtilmesi kaydıyla yetkili temsilcisi tarafından
+yerine getirilebilir.
+
+Modül A2- Üretimin dâhili kontrolü ve ürünün rastgele aralıklarla denetimli muayenesi
+
+MADDE 3- (1) Üretimin dâhili kontrolü ve ürünün rastgele aralıklarla denetimli muayenesi,
+
+üreticinin, bu maddenin(2)’nci, (3Yüncü, (4)’tincii ve (5)'inci fıkralarında sayılan yükümlülükleri
+yerine getirdiği ve ürünlerinin teknik mevzuatın ilgili kurallarına uygunluğunu kendi sorumluluğu
+çerçevesinde sağladığı ve beyan ettiği uygunluk değerlendirme yöntemidir.
+(2) Üretici, ürünün ilgili kurallara uygunluğunun değerlendirilmesine imkân sağlayacak nitelikte ve
+risklerin yeterli derecede analizini ve değerlendirmesini içerecek şekilde teknik dosyayı hazırlar.
+Teknik dosya, ürüne uygulanabilir kuralları belirtir ve değerlendirmeyle bağlantılı olması kaydıyla,
+ürünün tasarımını, imalatını ve işleyişini kapsar. Teknik dosya, uygulanabilir her durumda, asgari
+aşağıdaki hususları içerir:
+
+(A) Ürünün genel bir tarifi.
+
+(B) Konsept tasarım ve imalat çizimleri ile aksam, parça ve devrelerin ve benzerlerinin
+şemaları,
+
+(C) Bu çizim ve şemalar ile ürünün işleyişinin anlaşılabilmesi için gerekli tarifler ve
+açıklamalar.
+
+(Ç) Kısmen veya tamamen uygulanan uyumlaştırılmış standartların ve/veya ilgili teknik
+şartnamelerin referans adlarının listesi ile bu standartların uygulanmadığı durumlarda ilgili teknik
+düzenlemede belirtilen temel gerekleri karşılamak üzere benimsenen çözümlerin tarifleri ve
+uyumlaştırılmış standartların kısmen uygulanması hâlinde, bu standartların hangi kısımlarının
+uygulandığı.
+
+(D) Yapılan tasarım hesaplamalarının, gerçekleştirilen muayenelerin ve benzerlerinin sonuçları.
+
+(E) Test raporları.
+
+(3) Üretici, imalat sürecinin ve bu sürecin gözetiminin, imal edilmiş ürünlerin bu maddenin(2)'nci
+fıkrasında belirtilen teknik dosyaya ve teknik mevzuatın ilgili kurallarına uygunluğunu sağlaması için
+gerekli her türlü önlemi alır.
+
+(4) Üreticinin seçimi doğrultusunda, işletme içi akredite bir birim veya üreticinin belirleyeceği bir
+onaylanmış kuruluş, rastgele aralıklarla, diğer hususların yanı sıra, ürünlerin teknoloji seviyesini ve
+üretimin miktarını da dikkate alarak, ürünün dâhili kontrollerinin kalitesini doğrulamak amacıyla ürün
+kontrollerini yapar veya yaptırır. Piyasaya arz öncesinde ürünün teknik mevzuatın ilgili kurallarına
+
+[SAYFA 8]
+100
+
+uygunluğunu kontrol etmek amacıyla işletme içi akredite birim veya onaylanmış kuruluş tarafından
+yerinde alınan bitmiş ürünün yeterli miktarda numunesi incelenir ve uyumlaştırılmış standart ve/veya
+teknik şartnamelerin alakalı bölümlerinde belirtilen uygun testler veya eşdeğer testler yapılır.
+Uygulanacak numune alma usülü ürünün uygunluğunun sağlanması açısından imalat sürecinin kabul
+edilebilir sınırlar içinde işleyip işlemediğine karar verilmesini mümkün kılar. Testlerin bir onaylanmış
+kuruluş tarafından gerçekleştirildiği durumlarda, üretici bu kuruluşun kimlik kayıt numarasını imalat
+aşamasında yine bu kuruluşun sorumluluğunda ürüne koyar.
+
+(5) Üretici;
+
+(A) İlgili teknik düzenlemede öngörülen CE İşaretini bu düzenlemenin ilgili kurallarını
+karşılayan her ürüne koyar,
+
+(B) Her ürün modeli için yazılı bir Uygunluk Beyanı hazırlar ve bu beyanı, teknik dosya ile
+birlikte, gerektiğinde yetkili otoritelere sunmak üzere, ürünün piyasaya arz edildiği tarihten itibaren on
+yıl süreyle muhafaza eder. Uygunluk Beyanı, ilgili olduğu ürünün tanımını içerir,
+
+(C) Uygunluk Beyanının bir örneğini, talep edilmesi hâlinde yetkili otoritelere sunar. Yetkili
+otoriteler edinmiş oldukları ticari sır niteliğindeki bilgileri ve teknik çizimleri açıklayamazlar.
+
+(6) Üreticininbu maddenin (5Yinci fıkrasında sayılan yükümlülükleri, üreticinin adına yapılması,
+sorumluluğunda olması ve ilgili görevlendirmede belirtilmesi kaydıyla yetkili temsilcisi tarafından
+yerine getirilebilir.
+
+Modül B- Tip incelemesi
+
+MADDE4- (1) Tip incelemesi, bir uygunluk değerlendirme işleminin, bir onaylanmış kuruluşun
+ürünün teknik tasarımını incelediği ve bu tasarımın teknik mevzuatın ilgili kurallarına uygun olduğunu
+doğruladığı ve tasdik ettiği bölümüdür.
+
+(2) Tip incelemesi, aşağıdaki yöntemlerden herhangi biri çerçevesinde gerçekleştirilebilir:
+
+(A) Üretilmesi hedeflenen ürünün bitmiş hâlini (üretim tipini) temsil eden numunenin
+incelenmesi.
+
+(B) Teknik dosyanın ve bu maddenin(3)'üncü fıkrasında belirtilen destekleyici kanıtların
+incelenmesi suretiyle ürünün teknik tasarımının yeterliliğinin değerlendirilmesi ve üretilmesi
+hedeflenen ürünün numunesinin önemli parçalarından bir veya daha fazlasının incelenmesi (üretim tipi
+ve tasarım tipinin birleşimi).
+
+(C) Numune (tasarım tipi) incelemesi olmaksızın, teknik dosyanın ve bu maddenin(3 Yüncü
+fıkrasında belirtilen destekleyici kanıtların incelenmesi suretiyle ürünün teknik tasarımının
+yeterliliğinin degerlendirilmesi.
+
+(3) Üretici, tip incelemesi başvurusunu, kendi seçtiği tek bir onaylanmış kuruluşa yapar. Başvuru
+aşağıdakileri içerir:
+
+(A) Üreticinin adı ve adresi, başvuru yetkili temsilci tarafından yapılıyorsa ayrıca yetkili
+temsilcinin de adı ve adresi,
+
+(B) Aynı başvurunun başka bir onaylanmış kuruluşa yapılmadığını belirten yazılı bir beyan,
+
+(C) Teknik dosya. Teknik dosya, ürünün ilgili kurallara uygunluğunun değerlendirilmesine
+imkân sağlayacak nitelikte olur ve risklerin yeterli derecede analizini ve değerlendirmesini içerir.
+Teknik dosya, ürüne uygulanabilir kuralları belirtir ve değerlendirmeyle bağlantılı olması kaydıyla,
+ürünün tasarımını, imalatını ve işleyişini kapsar. Teknik dosya, uygulanabilir her durumda, asgari
+aşağıdaki hususları içerir:
+
+(a) Ürünün genel bir tarifi.
+(b) Konsept tasarım ve imalat çizimleri ile aksam, parça ve devrelerin ve benzerlerinin
+şemaları.
+
+(e) Bu çizim ve şemalar ile ürünün işleyişinin anlaşılabilmesi için gerekli tarifler ve açıklamalar.
+
+(ç) Kısmen veya tamamen uygulanan uyumlaştırılmışstandartların ve/veya ilgili teknik
+şartnamelerin referans adlarının listesi ile bu standartların uygulanmadığı durumlarda ilgili teknik
+düzenlemede belirtilen temel gerekleri karşılamak üzere benimsenen çözümlerin tarifleri ve
+uyumlaştırılmışstandartların kısmen uygulanması hâlinde, bu standartların hangi kısımlarının
+uygulandığı.
+
+(d) Yapılan tasarım hesaplamalarının, gerçekleştirilen muayenelerin ve benzerlerinin
+sonuçları.
+
+(e) Test raporları.
+
+(Ç) Üretilmesi hedeflenen ürünü temsil eden numuneler. Onaylanmış kuruluş, test programı için
+gerekli olması hâlinde, ilave numuneler talep edebilir.
+
+(D) Teknik tasarım çözümlerinin yeterliliğini destekleyen kanıtlar. Bu destekleyici kanıtlar,
+
+[SAYFA 9]
+101
+
+özellikle uyumlaştırılmış standartların ve/veya teknik şartnamelerin tam olarak uygulanmadığı
+durumlarda, kullanılan her türlü belgeye atıfta bulunur. Bu destekleyici kanıtlar, gerektiğinde,
+üreticinin uygun nitelikteki laboratuvarı tarafından veya üretici adına ve onun sorumluluğunda başka
+bir laboratuvar tarafından gerçekleştirilen testlerin sonuçlarını içerir.
+(4) Onaylanmış kuruluş;
+
+(A) Ürün sözkonusu olduğunda, ürünün teknik tasarımının yeterliliğini değerlendirmek için
+teknik dosyayı ve destekleyici kanıtları inceler,
+
+(B) Numune sözkonusu olduğunda;
+
+(a) Numunenin teknik dosyaya uygun imal edildiğini doğrular ve
+uyumlaştırılmışstandartların ve/veya teknik şartnamelerin ilgili kurallarına uygun şekilde tasarlanmış
+unsurlar ile bu uyumlaştırılmış standartların ilgili kurallarını uygulamaksızın tasarlanmış olan
+unsurları belirler,
+
+(b) Üreticinin ilgili uyumlaştırılmış standartlar ve/veya teknik şartnamelerde yer alan
+çözümleri uygulamayı tercih ettiği durumlarda, bunların doğru uygulanıp uygulanmadığını kontrol
+etmek üzere uygun inceleme ve testleri yapar veya yaptırır,
+
+(9) İlgili uyumlaştırılmış standartlar ve/veya teknik şartnamelerde yer alan çözümlerin
+uygulanmadığı durumlarda, üretici tarafından benimsenen diğer çözümlerin, teknik mevzuatın ilgili
+temel gereklerini karşılayıp karşılamadığını kontrol etmek üzere uygun inceleme ve testleri yapar veya
+yaptırır,
+
+(ç) İnceleme ve testlerin gerçekleştirileceği mekan hakkında üretici ile anlaşır.
+
+(5) Onaylanmış kuruluş, bu maddenin(4)'üncü fıkrasına istinaden gerçekleştirilen faaliyetler ile
+bunların sonuçlarını içeren bir değerlendirme raporu hazırlar. Onaylanmış kuruluş, kendisini
+görevlendiren yetkili otoriteye yönelik sorumlulukları saklı kalmak kaydıyla, bu raporun içeriğinin bir
+bölümünü veya tamamını, sadece üreticinin rızası halinde açıklayabilir.
+
+(6) Değerlendirilen tipin teknik mevzuatın ilgili kurallarını karşıladığı durumlarda, onaylanmış
+kuruluş, üreticiye bir tip inceleme belgesi düzenler. Belge, üreticinin adı ve adresini, incelemenin
+sonuçlarını, varsa, belgenin geçerliliği ile ilgili şartları ve onaylanan tipin tanımlanması için gerekli
+bilgiyi içerir. Belgenin bir veya daha fazla eki olabilir. Belge ve ekleri, imal edilen ürünlerin incelenen
+tipe uygunluğunun değerlendirilmesine ve üretim-içi kontrolüne imkân sağlayacak gerekli tüm
+bilgileri içerir. Tipin, teknik mevzuatın ilgili kurallarını karşılamadığı durumlarda, onaylanmış kuruluş
+tip inceleme belgesini vermeyi reddeder ve başvuru sahibini ayrıntılı gerekçelerini de sunarak ret
+kararı hakkında bilgilendirir.
+
+(7) Onaylanmış kuruluş, onaylanmış tipin teknik mevzuatın ilgili kurallarını artık karşılamadığını
+gösterebilecek sektördeki en son teknolojik yenilikleri takip eder ve bu gibi yeniliklerin tip üzerinde
+daha ileri bir incelemeyi gerektirip gerektirmediğine karar verir. Gerektirdiği kararını aldığı takdirde,
+üreticiyi bu yönde bilgilendirir. Üretici, onaylanmış tip üzerinde yaptığı ve ürünün ilgili teknik
+mevzuatın temel gereklerine uygunluğunu veya tip inceleme belgesinin geçerlilik şartlarını
+etkileyebilecek her türlü değişiklik hakkında bu tip inceleme belgesine ilişkin teknik dosyayı
+muhafaza eden onaylanmış kuruluşa bilgi verir. Bu gibi değişiklikler, tip inceleme belgesinin aslına
+yansıtılmak üzere ilave bir onay gerektirir.
+
+(8) Her onaylanmış kuruluş, verdiği veya geri çektiği tip inceleme belgeleri ve/veya bunlardaki
+herhangi bir ilave hakkında kendisini görevlendiren yetkili otoriteleri bilgilendirir ve düzenli olarak
+veya talep edilmesi hâlinde bu yetkili otoriteye, vermeyi reddettiği, askıya aldığı veya diğer türlü
+kısıtladığı tip inceleme belgelerinin ve/veya bunlardaki ilavelerin bir listesini sunar. Her onaylanmış
+kuruluş tip inceleme belgeleri ve/veya bunlardaki ilavelerle ilgili diğer onaylanmış kuruluşları,
+vermeyi reddettiği, askıya aldığı, geri çektiği veya diğer türlü kısıtladığı ve talep edilmesi hâlinde
+verdiği tip inceleme belgeleri ve/veya bunlardaki ilaveler hakkında bilgilendirir. Onaylanmış kuruluş,
+tip inceleme belgesinin, eklerinin ve ilavelerinin ve üretici tarafından sunulan belgeleri de içeren
+teknik dosyanın birer örneğini, tip inceleme belgesinin geçerlilik süresinin sonuna kadar muhafaza
+eder.
+
+(9) Üretici, tip inceleme belgesinin, belgenin eklerinin ve ilavelerinin bir örneğini teknik dosya ile
+birlikte ürünün piyasaya arz edildiği tarihten itibaren on yıl süreyle, talep edilmesi hâlinde yetkili
+otoritelere sunmak üzere muhafaza eder,
+
+(10) Üreticinin yetkili temsilcisi, ilgili görevlendirmede belirtilmiş olması kaydıyla,bu
+maddenin(3Yüncü fıkrasında belirtilen başvuruyu yapabilir ve bu maddenin(7)'nci ve (Oyuncu
+fıkralarında sayılan yükümlülükleri yerine getirebilir.
+
+[SAYFA 10]
+102
+
+Modül C- Üretimin dahili kontrolüne dayalı tipe uygunluk
+
+MADDES- (1) Üretimin dâhili kontrolüne dayalı tipe uygunluk, bir uygunluk değerlendirme
+işleminin, üreticinin,bu maddenin(2)'nci ve (3)'üncü fıkralarında sayılan yükümlülükleri yerine
+getirdiği ve ürünlerinin, tip inceleme belgesinde tarif edilen tipe ve teknik mevzuatın ilgili kurallarına
+uygunluğunu sağladığı ve beyan ettiği bölümüdür.
+(2) Üretici, imalat sürecinin ve bu sürecin gözetiminin, imal edilmiş ürünlerin tip inceleme belgesinde
+tanımlandığı şekliyle onaylanmış tipe ve teknik mevzuatın ilgili kurallarına uygunluğunu sağlaması
+için gerekli her türlü önlemi alır.
+(3)Uretici;
+
+(A) İlgili teknik düzenlemede öngörülen CE İşaretini tip inceleme belgesinde tarif edilen tipe
+uygun olan ve bu teknik düzenlemenin ilgili kurallarını karşılayan her ürüne koyar,
+
+(B) Her ürün modeli için yazılı bir Uygunluk Beyanı hazırlar ve bu beyanı, gerektiğinde
+yetkili otoritelere sunmak üzere, ürünün piyasaya arz edildiği tarihten itibaren on yıl süreyle muhafaza
+eder. Uygunluk Beyanı, ilgili olduğu ürünün tanımını içerir.
+
+(C)Uygunluk Beyanının bir örneğini, talep edilmesi hâlinde yetkili otoritelere sunar. Yetkili
+otoriteler edinmiş oldukları ticari sır niteliğindeki bilgileri ve teknik çizimleri açıklayamazlar.
+
+(4) Üreticinin (3'üncü fıkrada sayılan yükümlülükleri, üreticinin adına yapılması, sorumluluğunda
+olması ve ilgili görevlendirmede belirtilmesi kaydıyla yetkili temsilcisi tarafından yerine getirilebilir.
+
+Modül C1- Üretimin dâhili kontrolüne ve denetimli ürün testine dayalı tipe uygunluk
+
+MADDE6- (1) Üretimin dâhili kontrolüne ve denetimli ürün testine dayalı tipe uygunluk, bir
+uygunluk değerlendirme işleminin, üreticinin,bu maddenin(2)’nci, (3'üncü ve (4'üncü fikralarında
+sayılan yükümlülükleri yerine getirdiği ve ürünlerinin tip inceleme belgesinde tarif edilen tipe ve
+teknik mevzuatın ilgili kurallarına uygunluğunu kendi sorumluluğu çerçevesinde sağladığı ve beyan
+ettiği bölümüdür.
+
+(2) Üretici, imalat sürecinin ve bu sürecin gözetiminin, imal edilmiş ürünlerin tip inceleme belgesinde
+tarif edilen onaylanmış tipe ve teknik mevzuatın ilgili kurallarına uygunluğunu sağlaması için gerekli
+her türlü önlemi alır.
+
+(3) İmal edilmiş her ürünün bir veya daha fazla unsuru, teknik mevzuatın ilgili kurallarına uygunluğun
+doğrulanması amacıyla üretici tarafından veya onun adına bir veya daha fazla teste tâbi tutulur. Bu
+testler, üreticinin seçimi doğrultusunda, işletme içi akredite bir birim tarafından veya üreticinin
+belirleyeceği bir onaylanmış kuruluşun sorumluluğunda gerçekleştirilir. Testlerin bir onaylanmış
+kuruluş tarafından gerçekleştirildiği durumlarda, üreticibu kuruluşun kimlik kayıt numarasını imalat
+aşamasında yine bu kuruluşun sorumluluğunda ürüne koyar.
+
+(4) Üretici;
+
+(A) İlgili teknik düzenlemede öngörülen CE İşaretini, tip inceleme belgesinde tarif edilen tipe
+uygun olan ve bu teknik düzenlemenin ilgili kurallarını karşılayan her ürüne koyar,
+
+(B) Her ürün modeli için yazılı bir Uygunluk Beyanı hazırlar ve bu beyanı, gerektiğinde yetkili
+otoritelere sunmak üzere, ürünün piyasaya arz edildiği tarihten itibaren on yıl süreyle muhafaza eder.
+Uygunluk Beyanı, ilgili olduğu ürünün tanımını içerir,
+
+(C)Uygunluk Beyanının bir örneğini, talep edilmesi hâlinde yetkili otoritelere sunar,
+
+(5) Üreticininbu maddenin (4'üncü fikrasında sayılan yükümlülükleri, üreticinin adına yapılması,
+sorumluluğunda olması ve ilgili görevlendirmede belirtilmesi kaydıyla yetkili temsilcisi tarafindan
+yerine getirilebilir.
+
+Modül C2- Üretimin dâhili kontrolü ve ürünün rastgele aralıklarla denetimli muayenesine
+dayalı tipe uygunluk
+
+MADDE7- (1) Üretimin dâhili kontrolü ve ürünün rastgele aralıklarla denetimli muayenesine
+dayalı tipe uygunluk, bir uygunluk değerlendirme işleminin, üreticinin,bu maddenin (2)’nci, (3Y'üncü
+ve (4)'üncü fikralarında sayılan yükümlülükleri yerine getirdiği ve ürünlerinin tip inceleme belgesinde
+tarif edilen tipe ve teknik mevzuatın ilgili kurallarına uygunluğunu kendi sorumluluğu çerçevesinde
+sağladığı ve beyan ettiği bölümüdür.
+(2) Üretici, imalat sürecinin ve bu sürecin gözetiminin, imal edilmiş ürünlerin tip inceleme belgesinde
+tarif edilen onaylanmış tipe ve teknik mevzuatın ilgili kurallarına uygunluğunu sağlaması için gerekli
+her türlü önlemi alır.
+(3) Üreticinin seçimi doğrultusunda, işletme içi akredite bir birim veya üreticinin belirleyeceği bir
+
+[SAYFA 11]
+103
+
+onaylanmış kuruluş rastgele aralıklarla, diğer hususların yanı sıra, ürünlerin teknoloji seviyesini ve
+üretimin miktarını da dikkate alarak, ürünün dahili kontrollerinin kalitesini doğrulamak amacıyla ürün
+konirollerini yapar veya yaptırır. Piyasaya arz öncesinde ürünün teknik mevzuatın ilgili kurallarına
+uygunluğunu kontrol etmek amacıyla, işletme içi akredite birim veya onaylanmış kuruluş tarafından
+yerinde alınan bitmiş ürünün yeterli miktarda numunesi incelenir ve uyumlaştırılmış standart ve/veya
+teknik şartnamelerin alakalı bölümlerinde belirtilen uygun testler veya eşdeğer testler yapılır.
+Numunenin kabul edilebilir kalite seviyesine uygun olmadığı durumlarda onaylanmış kuruluş gerekli
+önlemleri alır. Uygulanacak numune alma usülü ürünün uygunluğunun sağlanması açısından imalat
+sürecinin kabul edilebilir sınırlar içinde işleyip işlemediğine karar verilmesini mümkün kılar. Testlerin
+bir onaylanmış kuruluş tarafından gerçekleştirildiği durumlarda, üretici bu kuruluşun kimlik kayıt
+numarasını imalat aşamasında yine bu kuruluşun sorumluluğunda ürüne koyar.
+
+(4) Üretici;
+
+(A) İlgili teknik düzenlemede öngörülen CE İşaretini, tip inceleme belgesinde tarif edilen tipe
+uygun olan ve bu teknik düzenlemenin ilgili kurallarını karşılayan her ürüne koyar,
+
+(B) Her ürün modeli için yazılı birUygunluk Beyanı hazırlar ve bu beyanı, gerektiğinde yetkili
+otoritelere sunmak üzere, ürünün piyasaya arz edildiği tarihten itibaren on yıl süreyle muhafaza eder.
+Uygunluk Beyanı, ilgili olduğu ürünün tanımını içerir,
+
+(C)Uygunluk Beyanının bir örneğini, talep edilmesi hâlinde yetkili otoritelere sunar. Yetkili
+otoriteler edinmiş oldukları ticari sır niteliğindeki bilgileri ve teknik çizimleri açıklayamazlar.
+
+(5) Üreticininbu maddenin (4)'üncü fıkrasında sayılan yükümlülükleri, üreticinin adına yapılması,
+
+sorumluluğunda olması ve ilgili görevlendirmede belirtilmesi kaydıyla yetkili temsilcisi tarafından
+yerine getirilebilir.
+
+Modül D- Üretim sürecinin kalite güvencesine dayalı tipe uygunluk
+
+MADDES- (1) Üretim sürecinin kalite güvencesine dayalı tipe uygunluk, bir uygunluk
+değerlendirme işleminin, üreticinin, bu maddenin (2)’inci ve (5)’inci fikralarında sayılan
+yükümlülükleri yerine getirdiği ve ürünlerinin tip inceleme belgesinde tanımlanan tipe ve teknik
+mevzuatın ilgili kurallarına uygunluğunu kendi sorumluluğu çerçevesinde sağladığı ve beyan ettiği
+bölümüdür.
+
+(2) Üretici, bu maddenin (3'üncü fıkrasında belirtilen şekilde, üretim, bitmiş ürün muayenesi ve testi
+için onaylanmış bir kalite sistemi işletir vebu maddenin(4)’iincii fıkrasında belirtildiği şekilde
+gözetime tâbi olur.
+
+(3) Kalite sistemine ilişkin usül ve esaslar aşağıda belirtilmiştir:
+
+(A) Üretici, ürünleri için uyguladığı kalite sisteminin değerlendirilmesi amacıyla kendi seçtiği
+bir onaylanmış kuruluşa başvurur. Başvuru aşağıdaki bilgileri içerir:
+
+(a) Üreticinin adı ve adresi, başvurunun yetkili temsilci tarafından gerçekleştirildiği
+durumlarda ayrıca yetkili temsilcinin adı ve adresi.
+
+(b) Aynı başvurunun başka bir onaylanmış kuruluşa yapılmadığını belirten yazılı beyan.
+
+(ç) Tasarlanan ürün grubuyla ilgili tüm bilgiler.
+
+(d) Kalite sistemiyle ilgili dokümantasyon.
+
+(e) Onaylanmış tipe ilişkin teknik dosya ve tip inceleme belgesinin bir örneği.
+
+(B) Kalite sistemi, ürünlerin tip inceleme belgesinde tarif edilen tipe ve teknik mevzuatın ilgili
+kurallarına uygunluğunu sağlar. Üretici tarafından benimsenen tüm unsurlar, kurallar ve hükümler,
+sistematik ve düzenli bir biçimde yazılı politikalar, usüller ve talimatlar şeklinde dosyalanarak
+muhafaza edilir. Kalite sistemi dokümantasyonu; kalite programları, planları, el kitapları ve
+kayıtlarının tutarlı bir şekilde yorumlanabilmesine imkân verecek biçimde düzenlenir. Kalite sistemi
+dokümantasyonu aşağıdaki hususlar hakkında yeterli bilgi ve açıklamaları içerir:
+
+(a) Yönetimin kalite hedefleri ve organizasyon yapısı ile ürün kalitesine dair sorumlulukları
+ve yetkileri.
+
+(b) İlgili imalat, kalite kontrol ve kalite güvencesi teknikleri, süreçleri ve yapılacak
+sistematik eylemler.
+
+(c) İmalat öncesinde, imalat sırasında ve imalat sonrasında gerçekleştirilecek muayeneler ve
+testler ile bunların gerçekleştirilme sıklıkları.
+
+(ç) Muayene raporları, test ve kalibrasyon verileri, ilgili personele ait nitelik raporları gibi
+kalite kayıtları.
+
+(d) İstenilen ürün kalitesinin sağlanmasının ve kalite sisteminin etkin işlemesinin gözetimi
+için araçlar.
+
+(C) Onaylanmış kuruluş, bu fikranın (B) bendinde belirtilen şartları sağlayıp sağlamadığını
+
+[SAYFA 12]
+104
+
+tespit etmek üzere kalite sistemini değerlendirir. Onaylanmış kuruluş, uyumlaştırılmış standardı
+ve/veya teknik şartnameyi uygulayan ulusal standardın ilgili kurallarına uygun kalite sistemi
+unsurlarının bu fikranın (B) bendinde belirtilen şartlara uygun olduğunu varsayar. Kalite yönetim
+sistemleri hakkındaki deneyime ilave olarak, denetimi gerçekleştiren grubun en az bir üyesi ilgili ürün
+sahasında ve ürün teknolojisinde değerlendirme deneyimine ve teknik mevzuatın ilgili kurallarına dair
+bilgiye sahip olmalıdır. Denetim, üreticinin işyerine değerlendirme ziyareti yapılmasını da içerir.
+Denetim ekibi üreticinin teknik mevzuatın ilgili kurallarını teşhis edebilme ve ürününün bu kurallara
+uygunluğunu sağlamak için gerekli tetkikleri yerine getirebilme kabiliyetini doğrulamak amacıylabu
+maddenin (1)’inci fıkrasının (A) bendinin (d) numaralı alt bendinde atıf yapılan teknik dosyayı
+gözden geçirir.Onaylanmış kuruluş verdiği kararı üreticiye bildirir. Bildirim denetimin sonuçlarını ve
+karara ilişkin gerekçeli değerlendirmeleri de içerir.
+
+(Ç) Üretici, onaylandığı şekliyle kalite sisteminden doğan yükümlülüklerini yerine getirmeyi ve
+kalite sistemini yeterli ve etkin kalacak şekilde sürdürmeyi taahhüt eder.
+
+(D) Üretici, kalite sisteminde yapmayı düşündüğü herhangi bir değişiklik hakkında kalite
+sistemini onaylayan onaylanmış kuruluşu bilgilendirir. Onaylanmış kuruluş, önerilen değişiklikleri
+değerlendirir ve değiştirilmiş kalite sisteminin bu fikranın (B) bendinde belirtilen koşulları yerine
+getirip getirmediğine veya yeniden bir değerlendirmenin gerekli olup olmadığına karar verir.
+Onaylanmış kuruluş kararını üreticiye bildirir. Bildirim denetimin sonuçlarını ve karara ilişkin
+gerekçeli değerlendirmeleri de içerir.
+
+(4) Onaylanmış kuruluş sorumluluğunda gözetimin usül ve esasları aşağıda belirtilmiştir:
+
+(A) Gözetimin amacı, üreticinin onaylanmış kalite sisteminden doğan yükümlülüklerini tam
+olarak yerine getirmesini sağlamaktır.
+
+b) Üretici, değerlendirme yapabilmesi için onaylanmış kuruluşun imalat tesislerine, muayene ve
+test laboratuvarlarma ve depolarına girmesine izin verir ve onaylanmış kuruluşa, özellikle aşağıda
+belirtilenler olmak üzere, gerekli her türlü bilgiyi temin eder:
+
+(a) Kalite sistemine ilişkin dokümantasyon.
+(b) Muayene raporları, test ve kalibrasyon verileri, ilgili personele ait nitelik raporları gibi
+kalite kayıtları.
+
+(C) Onaylanmış kuruluş, üreticinin kalite sistemini sürdürdüğünden ve uyguladığından emin
+olmak için periyodik olarak denetim yapar ve üreticiye bir denetim raporu düzenler.
+
+(Ç) Onaylanmış kuruluş, ilave olarak, haber vermeden üreticiye ziyaretlerde bulunabilir. Bu
+ziyaretlerde onaylanmış kuruluş, gerekiyorsa, kalite sisteminin doğru işlediğini teyit etmek için ürün
+testleri yapabilir veya yaptırabilir. Onaylanmış kuruluş, üreticiye ziyaret raporu ve test yapılmışsa test
+raporu düzenler.
+
+(5) Üretici;
+
+(A) İlgili teknik düzenlemede öngörülen CE İşaretini ve bu maddenin (3'üncü fıkrasının (A)
+bendinde belirtilen onaylanmış kuruluşun sorumluluğunda olmak kaydıyla bu kuruluşun kimlik kayıt
+numarasını, tip inceleme belgesinde tarif edilen tipe uygun olan ve bu teknik düzenlemenin ilgili
+kurallarını karşılayan her ürüne koyar,
+
+(B) Her ürün modeli için yazılı bir Uygunluk Beyanı hazırlar ve bu beyanı, gerektiğinde
+yetkili otoritelere sunmak üzere, ürünün piyasaya arz edildiği tarihten itibaren on yıl süreyle muhafaza
+eder. Uygunluk Beyanı, ilgili olduğu ürünün tanımını içerir,
+
+(C)Uygunluk Beyanının bir örneğini, talep edilmesi hâlinde yetkili otoritelere sunar. Yetkili
+otoriteler edinmiş oldukları ticari sır niteliğindeki bilgileri ve teknik çizimleri açıklayamazlar.
+
+(6) Üretici, ürünün piyasaya arz edildiği tarihten itibaren en az on yıl boyunca aşağıdaki belgeleri,
+gerektiğinde yetkili otoritelere sunmak üzere, muhafaza eder:
+
+(A) Bu maddenin (3Y'üncü fıkrasının (A) bendinde belirtilen belgeleri.
+
+(B) Onaylanmış şekliyle bu maddenin (3'üncü fıkrasının (D) bendinde belirtilen değişiklikleri.
+
+(C)Bu maddenin (3'üncü fikrasının (D) bendinde,bu maddenin(4)'üncü fikrasının (C) ve (Ç)
+bentlerinde belirtilen onaylanmış kuruluş kararları ve raporları.
+
+(7) Her onaylanmış kuruluş, verdiği veya geri çektiği kalite sistem onayları hakkında kendisini
+görevlendiren yetkili otoriteleri bilgilendirir ve düzenli olarak veya talep edilmesi hâlinde bu yetkili
+otoritelere, vermeyi reddettiği, askıya aldığı veya diğer türlü kısıtladığı kalite sistem onaylarının bir
+listesini sunar. Her onaylanmış kuruluş kalite sistem onaylarıyla ilgili diğer onaylanmış kuruluşları,
+vermeyi reddettiği, askıya aldığı, geri çektiği veya diğer türlü kısıtladığı ve talep edilmesi hâlinde
+verdiği kalite sistem onayları hakkında bilgilendirir.
+
+(8) Üreticinin, bu maddenin (3)'üncü fıkrasının (A) ve (D) bentleri ile (5'inci ve (6)'ncı fıkralarında
+sayılan yükümlülükleri, üreticinin adına yapılması, sorumluluğunda olması ve ilgili görevlendirmede
+
+[SAYFA 13]
+105
+belirtilmesi kaydıyla yetkili temsilcisi tarafından yerine getirilebilir.
+
+Modül D1- Üretim sürecinin kalite güvencesi
+
+MADDE9- (1) Üretim sürecinin kalite güvencesi, üreticinin, bu maddenin (2)’nci, (4'üncü ve
+(7)'inci fikralarında sayılan yükümlülükleri yerine getirdiği ve ürünlerinin teknik mevzuatın ilgili
+kurallarına uygunluğunu kendi sorumluluğu çerçevesinde sağladığı ve beyan ettiği uygunluk
+değerlendirme yöntemidir.
+(2) Üretici, ürünün ilgili kurallara uygunluğunun değerlendirilmesine imkân sağlayacak nitelikte ve
+risklerin yeterli derecede analizini ve değerlendirmesini içerecek şekilde teknik dosyayı hazırlar.
+Teknik dosya, ürüne uygulanabilir kuralları belirtir ve değerlendirmeyle bağlantılı olması kaydıyla,
+ürünün tasarımını, imalatını ve işleyişini kapsar. Teknik dosya, uygulanabilir her durumda, asgari
+aşağıdaki hususları içerir:
+
+(A) Ürünün genel bir tarifi.
+
+(B) Konsept tasarım ve imalat çizimleri ile aksam, parça ve devrelerin ve benzerlerinin
+şemaları.
+
+(C) Bu çizim ve şemalar ile ürünün işleyişinin anlaşılabilmesi için gerekli tarifler ve
+açıklamalar.
+
+(Ç) Kısmen veya tamamen uygulanan uyumlaştırılmış standartların ve/veya ilgili teknik
+şartnamelerin referans adlarının listesi ile bu standartların uygulanmadığı durumlarda ilgili teknik
+düzenlemede belirtilen temel gerekleri karşılamak üzere benimsenen çözümlerin tarifleri ve
+uyumlaştırılmışstandartların kısmen uygulanması hâlinde, bu standartların hangi kısımlarının
+uygulandığı.
+
+(D) Yapılan tasarım hesaplamalarının, gerçekleştirilen muayenelerin ve benzerlerinin sonuçları.
+
+(E) Test raporları.
+
+(3) Üretici, teknik dosyayı, ürünün piyasaya arz edildiği tarihten itibaren on yıl süreyle, talep edilmesi
+hâlinde yetkili otoritelere sunmak üzere muhafaza eder.
+
+(4) Üretici, bu maddenin(5)'inci fıkrasında belirtilen şekilde, üretim, bitmiş ürün muayenesi ve ilgili
+ürünlerin testi için onaylanmış bir kalite sistemini işletir ve bu maddenin(6)’nc1 fikrasında belirtilen
+şekilde gözetime tâbi olur.
+
+(5) Kalite sistemine ilişkin usül ve esaslar aşağıda belirtilmiştir:
+
+(A) Üretici, ürünleri için uyguladığı kalite sisteminin değerlendirilmesi amacıyla kendi seçtiği
+bir onaylanmış kuruluşa başvurur. Başvuru aşağıdaki bilgileri içerir:
+
+(a) Üreticinin adı ve adresi, başvurunun yetkili temsilci tarafından gerçekleştirildiği
+durumlarda ayrıca yetkili temsilcinin adı ve adresi.
+
+(b) Aynı başvurunun başka bir onaylanmış kuruluşa yapılmadığını belirten yazılı beyan,
+
+(c) Tasarlanan ürün kategorisiyle ilgili tüm bilgiler.
+
+(¢) Kalite sistemiyle ilgili dokümantasyon.
+
+(d)Bu maddenin (2)’nci fikrasında belirtilen teknik dosya.
+
+(B) Kalite sistemi, ürünlerin teknik mevzuatın ilgili kurallarına uygunluğunu sağlar. Üretici
+tarafından benimsenen tüm unsurlar, kurallar ve hükümler, sistematik ve düzenli bir biçimde yazılı
+politikalar, usüller ve talimatlar şeklinde dosyalanarak muhafaza edilir. Kalite sistemi
+dokümantasyonu; kalite programları, planları, el kitapları ve kayıtlarının tutarlı bir şekilde
+yorumlanabilmesine imkân verecek biçimde düzenlenir. Kalite sistemi dokümantasyonu özellikle
+aşağıdaki hususlar hakkında yeterli bilgi ve açıklamaları içerir:
+
+(a) Yönetimin kalite hedefleri ve organizasyon yapısı ile ürün kalitesine dair sorumlulukları
+ve yetkileri.
+
+(b) İlgili imalat, kalite kontrol ve kalite güvencesi teknikleri, süreçleri ve yapılacak
+sistematik eylemler.
+
+(c) İmalat öncesinde, imalat sırasında ve imalat sonrasında gerçekleştirilecek muayeneler ve
+testler ile bunların gerçekleştirilme sıklıkları.
+
+(ç) Muayene raporları, test ve kalibrasyon verileri, ilgili personele ait nitelik raporları gibi
+kalite kayıtları.
+
+(d) İstenilen ürün kalitesinin sağlanmasının ve kalite sisteminin etkin işlemesinin gözetimi
+için araçlar.
+
+(C) Onaylanmış kuruluş, bu fikranın(B) bendinde belirtilen şartları yerine getirip getirmediğini
+tespit etmek üzere kalite sistemini değerlendirir. Onaylanmış kuruluş, uyumlaştırılmış standardı
+ve/veya teknik şartnameyi uygulayan ulusal standardın ilgili kurallarına uygun kalite sistemi
+
+[SAYFA 14]
+106
+
+unsurlarının bu fikranın (B) bendinde belirtilen şartlara uygun olduğunu varsayar. Kalite yönetim
+sistemleri hakkındaki deneyime ilave olarak, denetimi gerçekleştiren grubun en az bir üyesi ilgili ürün
+sahasında ve ürün teknolojisinde değerlendirme deneyimine ve teknik mevzuatın ilgili kurallarına dair
+bilgiye sahip olmalıdır. Denetim, üreticinin işyerine değerlendirme ziyareti yapılmasını da içerir.
+Denetim ekibi üreticinin teknik mevzuatın ilgili kurallarını teşhis edebilme ve ürününün bu kurallara
+uygunluğunu sağlamak için gerekli tetkikleri yerine getirebilme kabiliyetini doğrulamak amacıyla
+(2)’nci fıkrada atıf yapılan teknik dosyayı gözden geçirir. Onaylanmış kuruluş verdiği kararı üreticiye
+bildirir. Bildirim denetimin sonuçlarını ve karara ilişkin gerekçeli değerlendirmeleri de içerir.
+
+(Ç) Üretici, onaylandığı şekliyle kalite sisteminden doğan yükümlülüklerini yerine getirmeyi ve
+kalite sistemini yeterli ve etkin kalacak şekilde sürdürmeyi taahhüt eder.
+
+(D) Üretici, kalite sisteminde yapmayı düşündüğü herhangi bir değişiklik hakkında kalite
+sistemini onaylayan onaylanmış kuruluşu bilgilendirir. Onaylanmış kuruluş, önerilen değişiklikleri
+değerlendirir ve değiştirilmiş kalite sisteminin, (B) bendinde belirtilen şartları yerine getirip
+getirmediğine veya yeniden bir değerlendirmenin gerekli olup olmadığına karar verir. Onaylanmış
+kuruluş kararını üreticiye bildirir. Bildirim denetimin sonuçlarını ve karara ilişkin gerekçeli
+değerlendirmeleri de içerir.
+
+(6) Onaylanmış kuruluş sorumluluğundaki gözetimin usül ve esasları aşağıda belirtilmiştir:
+
+(A) Gözetimin amacı, üreticinin onaylanmış kalite sisteminden doğan yükümlülüklerini tam
+olarak yerine getirmesini sağlamaktır.
+
+(B) Üretici, değerlendirme yapabilmesi için onaylanmış kuruluşun imalat tesislerine, muayene
+ve test laboratuvarlarma ve depolarına girmesine izin verir ve onaylanmış kuruluşa, özellikle aşağıda
+belirtilenler olmak üzere, gerekli her türlü bilgi ve belgeyi temin eder:
+
+(a) Kalite sistemine ilişkin dokümantasyon.
+
+(b)Bu maddenin (2)'nci fıkrasında atıf yapılan teknik dosya.
+
+(c) Muayene raporları, test ve kalibrasyon verileri, ilgili personele ait nitelik raporları gibi
+kalite kayıtları.
+
+(C) Onaylanmış kuruluş, üreticinin kalite sistemini sürdürdüğünden ve uyguladığından emin
+olmak için periyodik olarak denetim yapar ve üreticiye bir denetim raporu düzenler.
+
+(D) Onaylanmış kuruluş, ilave olarak, haber vermeden üreticiye ziyaretlerde bulunabilir. Bu
+ziyaretlerde onaylanmış kuruluş, gerekiyorsa, kalite sisteminin doğru işlediğini teyit etmek için ürün
+testleri yapabilir veya yaptırabilir. Onaylanmış kuruluş, üreticiye ziyaret raporu ve test yapılmışsa test
+raporu düzenler,
+
+(7) Üretici;
+
+(A) İlgili teknik düzenlemede öngörülen CE İşaretini vebu maddenin(5)'inci fikrasının (A)
+bendinde belirtilen onaylanmış kuruluşun sorumluluğunda olmak kaydıyla bu kuruluşun kimlik kayıt
+numarasını, teknik düzenlemenin ilgili kurallarını karşılayan her ürüne koyar.
+
+(B) Her ürün modeli için yazılı bir Uygunluk Beyanı hazırlar ve bu beyanı, gerektiğinde yetkili
+otoritelere sunmak üzere, ürünün piyasaya arz edildiği tarihten itibaren on yıl süreyle muhafaza
+eder.Uygunluk Beyanı, ilgili olduğu ürünün tanımını içerir.
+
+(C)Uygunluk Beyanının bir örneğini, talep edilmesi halinde yetkili otoritelere sunar. Yetkili
+otoriteler edinmiş oldukları ticari sır niteliğindeki bilgileri ve teknik çizimleri açıklayamazlar,
+
+(8) Üretici, ürünün piyasaya arz edildiği tarihten itibaren en az on yıl boyunca aşağıdakileri,
+gerektiğinde yetkili otoritelere sunmak üzere, muhafaza eder:
+
+(A)Bu maddenin (5)’inci fıkrasının (A) bendinde belirtilen belgeleri.
+
+(B) Onaylanmış şekliyle bu maddenin(5)’inci fıkrasının (D) bendinde belirtilen değişiklikleri,
+
+(C)Bu maddenin(5)’inci fıkrasının (D) bendinde, (6)'ncı fikranın (C) ve (Ç) bentlerinde
+belirtilen onaylanmış kuruluş kararları ve raporları.
+
+(9) Her onaylanmış kuruluş, verdiği veya geri çektiği kalite sistem onayları hakkında kendisini
+görevlendiren yetkili otoriteleri bilgilendirir ve düzenli olarak veya talep hâlinde bu yetkili otoritelere,
+vermeyi reddettiği, askıya aldığı veya diğer türlü kısıtladığı kalite sistem onaylarının bir listesini
+sunar. Her onaylanmış kuruluş kalite sistem onaylarıyla ilgili diğer onaylanmış kuruluşları, vermeyi
+reddettiği, askıya aldığı, geri çektiği veya diğer türlü kısıtladığı ve talep edilmesi hâlinde verdiği kalite
+sistem onayları hakkında bilgilendirir.
+
+(10) Üreticinin bu maddenin (3'üncü fikrasında, (5)’inci fikrasının (A) ve (D) bentlerinde ve (7)'inci
+ve (8'inci fıkralarda sayılanyükümlülükleri, üreticinin adına yapılması, sorumluluğunda olması ve
+ilgili görevlendirmede belirtilmesi kaydıyla yetkili temsilcisi tarafından yerine getirilebilir.
+
+Modül E- Ürün kalite güvencesine dayalı tipe uygunluk
+
+[SAYFA 15]
+(2) Uretici, sözkonusu ü; ünlerin bitmi ürün muayenesi ve testi için bu maddenin (8'üncü fıkrasında
+belirtilen şekilde onaylarımış bir kalite sistemi işletir ve bu maddenin (4Yüncü fikrasında belirtildiği
+
+retici, ürünleri için uyguladığı kalite sisteminin degerlendirilmes; amacıyla kendi seçtiği
+bir onaylanmış kuruluşa -agvurur. Başvuru aşağıdaki bilgileri içerir;
+(a) Üreticinin adı ve adresi, başvurunun yetkili temsilci tarafindan Serçekleştirildiği
+durumlarda ayrıca yetkil temsilcinin adı ve adresi,
+Aynı başvur unun başka bir onaylanmış kuruluşa yapılmadığını belirten yazılı beyan,
+(©) Tasarlanan i rün gruplarıyla ilgili tüm bilgiler,
+(¢) Kalite sistemiyle ilgili dokümantasyon,
+Onaylanmış tipe ilişkin teknik dosya ve tp inceleme belgesinin bir örneği,
+(B) Kalite sistemi ürünlerin tip inceleme belgesinde tarif edilen tipe ve teknik Mevzuatın ilgili
+
+uygunluğunu sağlamak çin gerekli tetkikleri yerine getirebilme kabiliyetini doğrulamak amacıylabu
+maddenin (A) bendinir (d) numaralı alt bendinde atıf yapılan teknik dosyayı Sözden geçirir.
+Onaylanmış kuruluş veriiği kararı üreticiye bildirir. Bildirim denetimin sonuçlarını ve karara ilişkin
+gerekçeli değerlendirmeler de içerir,
+
+değerlendirir ve değiştirilmiş kalite sisteminin, bu fikranin (B) bendinde belirtilen koşulları yerine
+getirip getirmediğine veya yeniden bir değerlendirmenin gerekli olup olmadığına karar verir.
+Onaylanmış kuruluş kararını üreticiye bildirir. Bildirim, denetimin Sonuçlarını ve karara ilişkin
+gerekçeli değerlendirmeleri de içerir,
+maylanmış kuruluş sorumluluğunda gözetimin usül ve esasları aşağıda belirtilmiştir.
+(A) Gözetimin anacı, üreticinin onaylanmış kalite sisteminden doğan yükümlülüklerini tam
+ır,
+
+(B) Üretici, değerlendirme yapabilmesi için onaylanmış kuruluşun imalat tesislerine, muayene
+ve test laboratuvarlarına ve depolarına girmesine izin verir ve onaylanmış kuruluşa, özellikle aşağıda
+
+[SAYFA 16]
+108
+
+olmak için periyodik olarak denetim yapar ve üreticiye bir denetim raporu düzenler.
+
+(Ç) Onaylanmış kuruluş, ilave olarak, haber vermeden üreticiye ziyaretlerde bulunabilir. Bu
+ziyaretlerde onaylanmış kuruluş, gerekiyorsa, kalite sisteminin doğru işlediğini teyit etmek için ürün
+testleri yapabilir veya yaptırabilir. Onaylanmış kuruluş, üreticiye ziyaret raporu ve test yapılmışsa test
+raporu düzenler.
+
+(5) Üretici;
+
+(A) İlgili teknik düzenlemede öngörülen CE İşaretini ve bu maddenin (3)'üncü fikrasının (A)
+bendinde belirtilen onaylanmış kuruluşun sorumluluğunda olmak kaydıyla bu kuruluşun kimlik kayıt
+numarasını, tip inceleme belgesinde tarif edilen tipe uygun olan ve bu teknik düzenlemenin ilgili
+kurallarını karşılayan her ürüne koyar,
+
+(B) Her ürün modeli için yazılı birUygunluk Beyanı hazırlar ve bu beyanı, gerektiğinde yetkili
+otoritelere sunmak üzere, ürünün piyasaya arz edildiği tarihten itibaren on yıl süreyle muhafaza eder,
+Uygunluk Beyanı, ilgili olduğu ürünün tanımını içerir,
+
+(C) Uygunluk Beyanının bir örneğini, talep edilmesi hâlinde yetkili otoritelere sunar. Yetkili
+otoriteler edinmiş oldukları ticari sır niteliğindeki bilgileri ve teknik çizimleri açıklayamazlar.
+
+(6) Üretici, ürünün piyasaya arz edildiği tarihten itibaren en az on yıl boyunca aşağıdakileri,
+gerektiğinde yetkili otoritelere sunmak üzere muhafaza eder:
+
+(A)Bu maddenin (3'üncü fıkrasının (A) bendinde belirtilen belgeleri.
+
+(B) Onaylanmış şekliyle (3'üncü fikranin (D) bendinde belirtilen değişiklikleri,
+
+(C) Bu maddenin (3'üncü fıkrasının (D) bendinde, (4'üncü fıkrasının (C) ve (Ç) bentlerinde
+belirtilen onaylanmış kuruluş kararları ve raporları.
+
+(7) Her onaylanmış kuruluş, verdiği veya geri çektiği kalite sistem onayları hakkında kendisini
+görevlendiren yetkili otoriteleri bilgilendirir ve düzenli olarak veya talep edilmesi hâlinde bu yetkili
+otoritelere, vermeyi reddettiği, askıya aldığı veya diğer türlü kısıtladığı kalite sistem onaylarının bir
+listesini sunar. Her onaylanmış kuruluş, kalite sistem onaylarıyla ilgili diğer onaylanmış kuruluşları,
+vermeyi reddettiği, askıya aldığı veya geri çektiği ve talep edilmesi hâlinde verdiği kalite sistem
+onayları hakkında bilgilendirir.
+
+(8) Üreticinin bu maddenin (3'üncü fikrasinm (A) ve (D) bentleri ile (5)'inci ve (6)'ncı fıkralarda
+sayılan yükümlülükleri, üreticinin adına yapılması, sorumluluğunda olması ve ilgili görevlendirmede
+belirtilmesi kaydıyla yetkili temsilcisi tarafından yerine getirilebilir.
+
+Modül E1- Bitmiş ürün muayenesi ve testinin kalite güvencesi
+
+MADDE11- (1) Bitmiş ürün muayenesi ve testinin kalite güvencesi, üreticinin,bu
+
+maddenin(2)’nci, (4)’iincii ve (7)’inci fıkralarında sayılan yükümlülükleri yerine getirdiği ve
+ürünlerinin teknik mevzuatın ilgili kurallarına uygunluğunu kendi sorumluluğu çerçevesinde sağladığı
+ve beyan ettiği uygunluk değerlendirme yöntemidir.
+(2) Üretici, ürünün ilgili kurallara uygunluğunun değerlendirilmesine imkân sağlayacak nitelikte ve
+risklerin yeterli derecede analizini ve değerlendirmesini içerecek şekilde teknik dosyayı hazırlar.
+Teknik dosya, ürüne uygulanabilir kuralları belirtir ve değerlendirmeyle bağlantılı olması kaydıyla,
+ürünün tasarımını, imalatını ve işleyişini kapsar. Teknik dosya, uygulanabilir her durumda, asgari
+aşağıdaki hususları içerir:
+
+(A) Ürünün genel bir tarifi.
+
+(B) Konsept tasarım ve imalat çizimleri ile aksam, parça ve devrelerin ve benzerlerinin
+şemaları.
+
+(C) Bu çizim ve şemalar ile ürünün işleyişinin anlaşılabilmesi için gerekli tarifler ve
+açıklamalar.
+
+(Ç) Kısmen veya tamamen uygulanan uyumlaştırılmış standartların ve/veya ilgili teknik
+şartnamelerin referans adlarının listesi ile bu standartların uygulanmadığı durumlarda ilgili teknik
+düzenlemede belirtilen temel gerekleri karşılamak üzere benimsenen çözümlerin tarifleri ve
+uyumlaştırılmış standartların kısmen uygulanması hâlinde, bu standartların hangi kısımlarının
+uygulandığı.
+
+(D) Yapılan tasarım hesaplamalarının, gerçekleştirilen muayenelerin ve benzerlerinin sonuçları,
+
+(E) Test raporları.
+
+(3)Üretici, teknik dosyayı, ürünün piyasaya arz edildiği tarihten itibaren on yıl süreyle, talep edilmesi
+hâlinde yetkili otoritelere sunmak üzere muhafaza eder.
+
+(4) Üretici, bu maddenin (5)’inci fıkrasında belirtilen şekilde, bitmiş ürün muayenesi ve ilgili ürünlerin
+testi için onaylanmış bir kalite sistemini işletir vebu maddenin(6)'ncı fikrasında belirtilen şekilde
+gözetime tâbi olur.
+
+[SAYFA 17]
+109
+
+(5) Kalite sistemine ilişkin usul ve essslar aşağıda belirtilmiştir:
+
+(A) Üretici, ürünleri için uyguladığı kalite sisteminin değerlendirilmesi amacıyla kendi seçtiği
+bir onaylanmış kuruluşa başvurur. B. şvuru aşağıdaki bilgi ve belgeleri içerir:
+
+(a) Üreticinin adı ve adresi, başvurunun yetkili temsilci tarafından gerçekleştirildiği
+durumlarda ayrıca yetkili temsilcinin adı ve adresi.
+
+(b) Aynı başvurunun başka bir onaylanmış kuruluşa yapılmadığını belirten yazılı beyar.,
+
+(c) Tasarlanan ürün kategorisiyle ilgili tüm bilgiler.
+
+(ç) Kalite sistemiyle ilgili dokümantasyon.
+
+(d)(2)’nci fıkrada belirtilen teknik dosya,
+
+(B) Kalite sistemi, ürünlerin teknik mevzuatın ilgili kurallarına uygunluğunu sağlar. Üretici
+tarafından benimsenen tüm unsurlar, kurallar ve hükümler, sistematik ve düzenli bir biçimde yazılı
+politikalar, usüller ve talimatlar şeklinde dosyalanarak muhafaza edilir. Kalite sistemi
+dokümantasyonu; kalite programları, planları, el kitapları ve kayıtlarının tutarlı bir şekilde
+yorumlanabilmesine imkân verecek biçimde düzenlenir. Kalite sistemi dokümantasyonu özellikle
+aşağıdaki hususlar hakkında yeterli bilgi ve açıklamaları içerir:
+
+(a) Yönetimin kalite hedefleri ve organizasyon yapısı ile ürün kalitesine dair sorumlulukları ve
+yetkileri. :
+
+(b) İmalat sonrası gerceklestirilecek muayeneler ve testler.
+
+(c) Muayene raporları, test ve kalibrasyon verileri, ilgili personele ait nitelik raporları gibi
+kalite kayıtları.
+
+(ç) Kalite sisteminin etkin işlemesinin gözetimi için araçlar.
+
+(CO) Onaylanmış kuruluş, bu fıkranın (B) bendinde belirtilen şartları yerine getirip getirmediğini
+tespit etmek üzere kalite sistemini değerlendirir. Onaylanmış kuruluş, uyumlaştırılmış standardı
+ve/veya teknik şartnameyi uygulayan ulusal standardın ilgili kurallarına uygun kalite sistemi
+unsurlarının bu fikranın (B) bendinde belirtilen şartlara uygun olduğunu varsayar. Kalite yönetim
+sistemleri hakkındaki deneyime ilave olarak, denetimi gerçekleştiren grubun en az bir üyesi ilgili ürün
+sahasında ve ürün teknolojisinde değerlendirme deneyimine ve teknik mevzuatın ilgili kurallarına dair
+bilgiye sahip olmalıdır. Denetim, üreticinin işyerine değerlendirme ziyareti yapılmasını da içerir.
+Denetim ekibi üreticinin teknik mevzuatın ilgili kurallarını teşhis edebilme ve ürününün bu kurallara
+uygunluğunu sağlamak için gerekli tetkikleri yerine getirebilme kabiliyetini doğrulamak amacıyla bu
+maddenin (2)’nci fıkrasında atıf yapılan teknik dosyayı gözden geçirir. Onaylanmış kuruluş verdiği
+kararı üreticiye bildirir. Bildirim denetimin sonuçlarını ve karara ilişkin gerekçeli değerlendirmeleri de
+içerir.
+
+(Ç) Üretici, onaylandığı şekliyle kalite sisteminden doğan yükümlülüklerini yerine getirmeyi ve
+kalite sistemini yeterli ve etkin kalacak şekilde sürdürmeyi taahhüt eder.
+
+(D) Üretici, kalite sisteminde yapmayı düşündüğü herhangi bir değişiklik hakkında kalite
+sistemini onaylayan onaylanmış kuruluşu bilgilendirir. Onaylanmış kuruluş, önerilen değişiklikleri
+değerlendirir ve değiştirilmiş kalite sisteminin, bu fikranın (B) bendinde belirtilen şartları yerine
+getirip getirmediğine veya yeniden bir değerlendirmenin gerekli olup olmadığına karar verir.
+Onaylanmış kuruluş kararımı üreticiye bildirir. Bildirim, denetimin sonuçlarını ve karara ilişkin
+gerekçeli değerlendirmeleri de içerir.
+
+(6) Onaylanmış kuruluş sorumluluğunda gözetimin usul ve esasları aşağıda belirtilmiştir:
+
+(A) Gözetimin amacı, üreticinin onaylanmış kalite sisteminden doğan yükümlülüklerini tam
+olarak yerine getirmesini sağlamaktır.
+
+(B) Üretici, değerlendirme yapabilmesi için onaylanmış kuruluşun imalat tesislerine, muayene
+ve test laboratuvarlarma ve depolarına girmesine izin verir ve onaylanmış kuruluşa, özellikle aşağıda
+belirtilenler başta olmak üzere, gerekli her türlü bilgiyi temin eder:
+
+(a) Kalite sistemine ilişkin dokümantasyon.
+(b) Bu maddenin(2)’nci fıkrasında atıf yapılan teknik dosya.
+
+(c) Muayene raporları, test ve kalibrasyon verileri, ilgili personele ait nitelik raporları gibi kalite
+kayıtları.
+
+(C) Onaylanmış kuruluş, üreticinin kalite sistemini sürdürdüğünden ve uyguladığından emin
+olmak için periyodik olarak denetim yapar ve üreticiye bir denetim raporu düzenler.
+
+(Ç) Onaylanmış kuruluş, ilave olarak, haber vermeden üreticiye ziyaretlerde bulunabilir. Bu
+ziyaretlerde onaylanmış kuruluş, gerekiyorsa, kalite sisteminin doğru işlediğini teyit etmek için ürün
+testleri yapabilir veya yaptırabilir. Onaylanmış kuruluş üreticiye ziyaret raporu ve test yapılmışsa test
+raporu düzenler.
+
+(7) Üretici;
+
+[SAYFA 18]
+110
+
+(A) İlgili teknik düzenlemede öngörülen CE İşaretini ve bu maddenin (5)’inci fıkrasının (A)
+bendinde atıf yapılan onaylanmış kuruluşun sorumluluğunda olmak kaydıyla bu kuruluşun kimlik
+kayıt numarasını, bu teknik düzenlemenin ilgili kurallarını karşılayan her ürüne koyar,
+
+(B) Her ürün modeli için yazılı bir Uygunluk Beyanı hazırlar ve bu beyanı, gerektiğinde yetkili
+otoritelere sunmak üzere, ürünün piyasaya arz edildiği tarihten itibaren on yıl süreyle muhafaza eder.
+Uygunluk Beyanı, ilgili olduğu ürünün tanımını içerir,
+
+(C) Uygunluk Beyanının bir örneğini, talep edilmesi hâlinde yetkili otoritelere sunar. Yetkili
+otoriteler edinmiş oldukları ticari sır niteliğindeki bilgileri ve teknik çizimleri açıklayamazlar.
+
+(8) Üretici, ürünün piyasaya arz edildiği tarihten itibaren en az on yıl boyunca aşağıdaki belgeleri,
+gerektiğinde yetkili otoritelere sunmak üzere muhafaza eder:
+
+(A) Bu maddenin (5)’inci fıkrasının (A) bendinde belirtilen belgeleri.
+
+(B) Onaylanmış şekliyle (5)’ inci fıkranın (D) bendinde belirtilen değiş klikleri,
+
+(C) Bu maddenin (5)’inci fikrasının (D) bendinde, (6)'ncı fıkrasının (C) ve (Ç) bentlerinde
+belirtilen onaylanmış kuruluş kararları ve raporları.
+
+(9) Her onaylanmış kuruluş, verdiği veya geri çektiği kalite sistem oneyları hakkında kendisini
+görevlendiren yetkili otoriteleri bilgilendirir ve düzenli olarak veya talep edilmesi hâlinde bu yetkili
+otoritelere, vermeyi reddettiği, askıya aldığı veya diğer türlü kısıtladığı kalite sistem onaylarının bir
+listesini sunar. Her onaylanmış kuruluş, kalite sistem onaylarıyla ilgili diğer onaylanmış kuruluşları,
+vermeyi reddettiği, askıya aldığı veya geri çektiği ve talep edilmesi hâlinde verdiği kalite sistem
+onayları hakkında bilgilendirir.
+
+(10) Üreticinin bu maddenin (3)'üncü, (7'nci ve (8)’inci fıkralarında ve bu maddenin (5'inci
+fıkrasının (A) ve (D) bentlerinde sayılan yükümlülükleri, üreticinin adına y ıpılması, sorumluluğunda
+olması ve ilgili görevlendirmede belirtilmesi kaydıyla yetkili temsilcisi tarafiidan yerine getirilebilir.
+
+Modül E- Ürün gele dayalı tipe uygunluk
+
+MADDE12- (1) Ürün doğrulamasına dayalı tipe uygunluk, bir uygunluk değerlendirme
+işleminin, üreticinin, bu maddenin(2)'nci ve (6)'ncı fikraları ile (5)'nci fıkrasının (A) bendinde sayılan
+yükümlülükleri yerine getirdiği ve bu maddenin (3)’tincii fikra kurallarına tâbi tutulan ürünlerinin tip
+inceleme belgesinde tanımlanan tipe ve teknik mevzuatın ilgili kurallerma uygunluğunu kendi
+sorumluluğu çerçevesinde sağladığı ve beyan ettiği bölümüdür.
+
+(2) Üretici, imalat sürecinin ve bu sürecin gözetiminin, imal edilmiş ürünlerin tip inceleme belgesinde
+tarif edilen onaylanmış tipe ve teknik mevzuatın ilgili kurallarına uygunluğu sağlaması için gerekli her
+türlü önlemi alır,
+
+(3) Üretici tarafından seçilen bir onaylanmış kuruluş, ürünün, tip inceleme belgesinde tanımlandığı
+şekliyle onaylanan tipe ve teknik mevzuatın ilgili kurallarına uygunluğunu kontrol etmek amacıyla
+gerekli inceleme ve testleri gerçekleştirir. Ürünün ilgili kurallara uygunlugur u kontrol etmek amacıyla
+yapılan bu inceleme ve testler, üreticinin seçimine göre, bu maddenin (4)'üncü fikrasında belirtilen
+şekilde her ürünün muayene ve testi yapılarak veya bu maddenin (5'inci fi crasında belirtilen şekilde
+ürünlerin istatistiksel bazda muayene ve testi yapılarak gerçekleştirilir.
+
+(4) Her ürün tek tek incelenir ve ürünlerin tip inceleme belgesinde tarif edil:n şekliyle onaylanan tipe
+ve teknik mevzuatın ilgili kurallarına uygunluğunu doğrulamak için uyumlaştırılmış standartlarda
+ve/veya teknik şartnamelerde belirtilen testler veya eşdeğer testler yapılır. İlgili uyumlaştırılmış
+standartların bulunmadığı durumlarda, yapılacak uygun testleri onaylanmış kuruluş belirler.
+Onaylanmış kuruluş, yapılan inceleme ve testlerle ilgili olarak bir Uygunluk Beyanı düzenler ve
+onaylanan her ürüne kimlik kayıt numarasını koyar veya kendi sorumluluğunda konulmasını sağlar.
+Üretici Uygunluk Beyanlarını denetim kapsamında yetkili otoritelere sunm ık üzere ürünün piyasaya
+arz edildiği tarihten itibaren on yıl süreyle muhafaza eder,
+
+(5) Uygunlugun istatistiksel doğrulaması aşağıdaki şekilde yapılır:
+
+(A)Üretici, imalat süreci ve gözetiminin üretilen her partinin hon.ojenliZini sağlaması için
+gerekli tüm tedbirleri alır ve doğrulanması için ürünlerini homojen partiler hâlinde sunar.
+
+(B) İlgili teknik düzenlemenin kurallarına göre her partiden rastgele numuneler alınır. Teknik
+mevzuatın ilgili kurallarına uygunluklarını incelemek ve partinin kabul edilip edilmeyeceğine karar
+vermek üzere, numunedeki tüm ürünler tek tek incelenir ve uyumlaştırılmış standartlarda ve/veya
+teknik şartnamelerde belirtilen uygun testler veya eşdeğer testler yapılır. Bu tür bir uyumlaştırılmış
+standardın bulunmadığı durumlarda, yapılacak uygun testler ilgili onaylanmış kuruluş tarafından
+belirlenir,
+
+(C) Bir parti kabul edildiğinde, testleri geçemeyen numunedeki ürürler hariç olmak kaydıyla,
+partideki bütün ürünler onaylanmış kabul edilir. Onaylanmış kuruluş, yapılan inceleme ve testlerle
+
+[SAYFA 19]
+111
+
+ilgili olarak bir Uygunluk Beyanı düzenler ve onaylanan her ürüne kimlik kayıt numarasını koyar veya
+kendi sorumluluğunda konulmasını sağlar.Üretici, Uygunluk Beyanını talep edilmesi hâlinde yetkili
+otoritelere sunmak üzere, ürünün piyasaya arz edildiği tarihten itibaren on yıl süreyle muhafaza eder.
+
+(Ç) Bir parti reddedildiğinde, onaylanmış kuruluş veya yetkili otorite, bu partinin piyasaya arz
+edilmesini önlemek için uygun tedbirleri alır. Partilerin sık reddedilmesi hâlinde, onaylanmış kuruluş
+istatistiksel doğrulamayı -skıya alabilir ve uygun önlemleri alabilir.
+
+(6) Üretici;
+
+(A) İlgili teknik düzenlemede öngörülen CE İşaretini ve bu maddenin (3)'üncü fıkrasında atıf
+yapılan onaylanmış kuruluşun sorumluluğunda olmak kaydıyla bu kuruluşun kimlik kayıt numarasını,
+tip inceleme belgesinde tarif edilen onaylanmış tipe uygun olan ve bu teknik düzenlemenin ilgili
+kurallarını karşılayan her ürüne koyar,
+
+(B) Her ürün modeli için yazılı bir Uygunluk Beyanı hazırlar ve bu beyanı, gerektiğinde yetkili
+otoritelere sunmak üzere, ürünün piyasaya arz edildiği tarihten itibaren on yıl süreyle muhafaza eder.
+Uygunluk Beyanı, ilgili olduğu ürünün tanımını içerir,
+
+(C) Uygunluk Beyanının bir örneğini, talep edilmesi hâlinde yetkili otoritelere sunar. Yetkili
+otoriteler edinmiş oldukları ticari sır niteliğindeki bilgileri ve teknik çizimleri açıklayamazlar.
+
+(Ç) Bu maddenin (3Yüncü fikrada atıf yapılan onaylanmış kuruluşun kabul etmesi ve
+
+sorumluluğunda olması kaydıyla, bu kuruluşun kimlik kayıt numarasını da ürünlere koyabilir.
+(7)Uretici, onaylanmış kuruluşun kabul etmesi ve sorumluluğunda olması kaydıyla, bu kuruluşun
+kimlik kayıt numarasını imalat sürecinde ürünlere koyar.
+(8) Üreticinin yükümlülükleri, üreticinin adına yapılması, sorumluluğunda olması ve ilgili
+görevlendirmede belirtilmesi kaydıyla yetkili temsilcisi tarafından yerine getirilebilir. Yetkili temsilci,
+üreticinin (2)’nci fıkrada ve (5)’inci fıkranın (A) bendinde düzenlenen yükümlülüklerini yerine
+getirmeyebilir.
+
+Modül F1- Ürün doğrulamasına dayalı uygunluk
+
+MADDE13- (1) Ürün doğrulamasına dayalı uygunluk, üreticinin, bu maddenin (2)’nci, (3'üncü
+
+ve (7'inci fıkraları ile (6)'ncı fıkrasının (A) bendinde sayılan yükümlülükleri yerine getirdiği vebu
+maddenin(4)'üncü fıkra kurallarına tâbi tutulan ürünlerinin teknik mevzuatın ilgili kurallarına
+uygunluğunu kendi sorumluluğu çerçevesinde sağladığı ve beyan ettiği uygunluk değerlendirme
+yöntemidir.
+(2) Üretici, ürünün ilgili kurallara uygunluğunun değerlendirilmesine imkân sağlayacak nitelikte ve
+risklerin yeterli derecede analizini ve değerlendirmesini içerecek şekilde teknik dosyayı hazırlar.
+Teknik dosya, ürüne uygulanabilir kuralları belirtir ve değerlendirmeyle bağlantılı olması kaydıyla,
+ürünün tasarımını, imalatını ve işleyişini kapsar.Üretici, teknik dosyayı, ürünün piyasaya arz edildiği
+tarihten itibaren on yıl süreyle, gerektiğinde yetkili otoritelere sunmak üzere muhafaza eder. Teknik
+dosya, uygulanabilir her durumda, asgari aşağıdaki hususları içerir:
+
+(A) Ürünün genel bir tarifi.
+
+(B) Konsept tasarım ve imalat çizimleri ile aksam, parça ve devrelerin ve benzerlerinin
+şemaları.
+
+(C) Bu çizim ve şemalar ile ürünün işleyişinin anlaşılabilmesi için gerekli tarifler ve
+açıklamalar.
+
+(Ç) Kısmen veya tamamen uygulanan uyumlaştırılmış standartların ve/veya ilgili teknik
+şartnamelerin referans adlarının listesi ile bu standartların uygulanmadığı durumlarda ilgili teknik
+düzenlemede belirtilen temel gerekleri karşılamak üzere benimsenen çözümlerin tarifleri ve
+uyumlaştırılmış standartların kısmen uygulanması hâlinde, bu standartların hangi kısımlarının
+uygulandığı.
+
+(D) Yapılan tasarım hesaplamalarının, gerçekleştirilen muayenelerin ve benzerlerinin sonuçları.
+
+_ (E) Test raporları.
+
+(3) Üretici, imalat sürecinin ve bu sürecin gözetiminin, ürünün ilgili teknik düzenlemenin kurallarına
+uygunluğu sağlaması için gerekli her türlü önlemi alır.
+
+(4) Üretici tarafından seçilen bir onaylanmış kuruluş, ürünlerin teknik mevzuatın ilgili kurallarına
+uygunluğunu kontrol etmek amacıyla gerekli inceleme ve testleri gerçekleştirir. Ürünün ilgili kurallara
+uygunluğunu kontrol etmek amacıyla yapılan bu inceleme ve testler, üreticinin seçimine göre,bu
+maddenin(5)’inci fikrasında belirtilen şekilde her ürünün muayene ve testi yapılarak veya bu
+maddenin(6)'ncı fikrasında belirtilen şekilde ürünlerin istatistiksel bazda muayene ve testi yapılarak
+gerçekleştirilir.
+
+(5) Her ürün tek tek incelenir ve ürünlerin teknik mevzuatın ilgili kurallarına uygunluğunu
+
+[SAYFA 20]
+112
+
+doğrulamak için uyumlaştırılmış standartlarda ve/veya teknik şartnamelerde belirtilen testler veya
+eşdeğer testler yapılır. İlgili uyumlaştırılmışstandartların ve/veya teknik şartnamenin bulunmadığı
+durumlarda, yapılacak uygun testleri onaylanmış kuruluş belirler. Onaylanmış kuruluş, yapılan
+inceleme ve testlerle ilgili olarak bir Uygunluk Beyanı düzenler ve onaylanan her ürüne kimlik kayıt
+numarasını koyar veya kendi sorumluluğunda konulmasını sağlar. Üretici, Uygunluk Beyanlarını
+denetim kapsamında yetkili otoritelere sunmak üzere ürünün piyasaya arz edildiği tarihten itibaren on
+yıl süreyle muhafaza eder.
+
+(6) Uygunluğun istatistiksel doğrulaması aşağıdaki şekilde yapılır:
+
+(A)Üretici, imalat süreci ve gözetiminin üretilen her partinin homojenliğini sağlaması için
+gerekli tüm tedbirleri alır ve doğrulanması için ürünlerini homojen partiler hâlinde sunar,
+
+(B) İlgili teknik düzenlemenin kurallarına göre her partiden rastgele numuneler alınır. Teknik
+mevzuatın ilgili kurallarına uygunluklarını incelemek ve partinin kabul edilip edilmeyeceğine karar
+vermek üzere, numunedeki tüm ürünler tek tek incelenir ve uyumlaştırılmış standartta veya
+standartlarda ve/veya teknik şartnamelerde belirtilen uygun testler veya eşdeğer testler yapılır. Bu tür
+bir uyumlaştırılmış standardın bulunmadığı durumlarda, yapılacak uygun testler ilgili onaylanmış
+kuruluş tarafından belirlenir.
+
+(C) Bir parti kabul edildiğinde, testleri geçemeyen numunedeki ürünler hariç olmak kaydıyla,
+partideki bütün ürünler onaylanmış kabul edilir. Onaylanmış kuruluş, yapılan inceleme ve testlerle
+ilgili olarak bir Uygunluk Beyanı düzenler ve onaylanan her ürüne kimlik kayıt numarasını koyar veya
+kendi sorumluluğunda konulmasını sağlar. Üretici, Uygunluk Beyanlarınıtalep edilmesi hâlinde yetkili
+otoritelere sunmak üzere, ürünün piyasaya arz edildiği tarihten itibaren on yıl süreyle muhafaza eder.
+
+(Ç) Bir parti reddedildiğinde, onaylanmış kuruluş veya yetkili otorite, bu partinin piyasaya arz
+edilmesini önlemek için uygun tedbirleri alır. Partilerin sık reddedilmesi hâlinde, onaylanmış kuruluş
+istatistiksel doğrulamayı askıya alabilir ve uygun önlemleri alabilir.
+
+(7)Uretici;
+
+(A) İlgili teknik düzenlemede öngörülen CE İşaretini ve bu maddenin (4)’iincii fıkrasında atıf
+yapılan onaylanmış kuruluşun sorumluluğunda olmak kaydıyla bu kuruluşun kimlik kayıt numarasını,
+bu teknik düzenlemenin ilgili kurallarını karşılayan her ürüne koyar.
+
+(B) Her ürün modeli için yazılı bir Uygunluk Beyanı hazırlar ve bu beyanı gerektiğinde yetkili
+
+otoritelere sunmak üzere, ürünün piyasaya arz edildiği tarihten itibaren on yıl süreyle muhafaza eder.
+Uygunluk Beyanı, ilgili olduğu ürünün tanımını içerir.
+
+(C) Uygunluk Beyanının bir örneğini, talep edilmesi hâlinde yetkili otoritelere sunar.Yetkili
+otoriteler edinmiş oldukları ticari sır niteliğindeki bilgileri ve teknik çizimleri agiklayamazlar.
+
+(Ç) Bu maddenin (5)’inci fıkrasında atıf yapılan onaylanmış kuruluşun kabul etmesi ve
+
+sorumluluğunda olması kaydıyla, bu kuruluşun kimlik kayıt numarasını da ürünlere koyabilir.
+(8)Üretici, onaylanmış kuruluşun kabul etmesi ve sorumluluğunda olması kaydıyla, bu kuruluşun
+kimlik kayıt numarasını imalat sürecinde ürünlere koyar.
+(9) Üreticinin yükümlülükleri, üreticinin adına yapılması, sorumluluğunda olması ve ilgili
+görevlendirmede belirtilmesi kaydıyla yetkili temsilcisi tarafından yerine getirilebilir. Yetkili temsilci,
+üreticinin bu maddenin (3'üncü fıkrasında vebu maddenin(6)’nc1 fıkrasının (A) bendinde düzenlenen
+yükümlülüklerini yerine getirmeyebilir.
+
+Modül G- Birim doğrulamasına dayalı uygunluk
+
+MADDE14- (1) Birim doğrulamasına dayalı uygunluk, üreticinin, bu maddenin (2)’nci,
+(3'üncü ve (5'inci fıkralarında sayılan yükümlülükleri yerine getirdiği ve bu maddenin(4)'üncü fikra
+kurallarına tâbi tutulan ürününün teknik mevzuatın ilgili kurallarına uygunluğunu kendi sorumluluğu
+çerçevesinde sağladığı ve beyan ettiği uygunluk değerlendirme yöntemidir.
+(2) Üretici, teknik dosyayı hazırlar ve bu maddenin (Yüncü fıkrasında belirtilen onaylanmış kuruluşa
+sunar. Teknik dosya, ürünün ilgili kurallara uygunluğunun değerlendirilmesine imkân sağlayacak
+nitelikte olur ve risklerin yeterli bir analizini ve değerlendirmesini içerir. Teknik dosya, ürüne
+uygulanabilir kuralları belirtir ve değerlendirmeyle bağlantılı olması kaydıyla, ürünün tasarımını,
+imalatını ve işleyişini kapsar. Üretici, teknik dosyayı, ürünün piyasaya arz edildiği tarihten itibaren on
+yıl süreyle, gerektiğinde yetkili otoritelere sunmak üzere muhafaza eder. Teknik dosya, uygulanabilir
+her durumda, asgari aşağıdaki hususları içerir:
+
+(A) Ürünün genel bir tarifi.
+
+(B) Konsept tasarım ve imalat çizimleri ile aksam, parça ve devrelerin ve benzerlerinin
+şemaları.
+
+(©) Bu çizim ve şemalar ile ürünün işleyişinin anlaşılabilmesi için gerekli tarifler ve
+
+[SAYFA 21]
+113
+
+açıklamalar.
+
+(Ç) Kısmen veya tamamen uygulanan uyumlaştırılmış standartların ve/veya ilgili teknik
+şartnamelerin referans adlarının listesi ile bu standartların uygulanmadığı durumlarda ilgili teknik
+düzenlemede belirtilen temel gerekleri karşılamak üzere benimsenen çözümlerin tarifleri ve
+uyumlaştırılmış standartların kısmen uygulanması hâlinde, bu standartların hangi kısımlarının
+uygulandığı.
+
+(D) Yapılan tasarım hesaplamalarının, gerçekleştirilen muayenelerin ve benzerlerinin sonuçları.
+
+(E) Test raporları.
+
+(3) Üretici, imalat sürecinin ve bu sürecin gözetiminin, ürünün ilgili teknik düzenlemenin kurallarına
+uygunluğunu sağlaması için gerekli her türlü önlemi alır.
+
+(4) Üretici tarafından seçilen bir onaylanmış kuruluş, ürünlerin teknik mevzuatın ilgili kurallarına
+uygunluğunu kontrol etmek amacıyla uyumlaştırılmış standartlarda ve/veya teknik şartnamede
+belirtilen testleri veya eşdeğer testleri yapar veya yaptırır. İlgili uyumlaştırılmış standartların ve/veya
+teknik şartnamelerin bulunmadığı durumlarda, yapılacak uygun testleri onaylanmış kuruluş belirler.
+Onaylanmış kuruluş, yapılan inceleme ve testlerle ilgili olarak bir Uygunluk Beyanı düzenler ve
+onaylanan ürüne kimlik kayıt numarasını koyar veya kendi sorumluluğunda konulmasını sağlar.
+Üretici, Uygunluk Beyanlarını gerektiğinde yetkili otoritelere sunmak üzere, ürünün piyasaya arz
+edildiği tarihten itibaren on yıl süreyle muhafaza eder.
+
+(5) Üretici;
+
+(A) İlgili teknik düzenlemede öngörülen CE İşaretini ve bu maddenin (4)'üncü fikrasinda atıf
+yapılan onaylanmış kuruluşun sorumluluğunda olmak kaydıyla bu kuruluşun kimlik kayıt numarasını,
+bu teknik düzenlemenin ilgili kurallarını karşılayan her ürüne koyar,
+
+(B) Her ürün modeli için yazılı birUygunluk Beyanı hazırlar ve bu beyanı gerektiğinde yetkili
+otoritelere sunmak üzere, ürünün piyasaya arz edildiği tarihten itibaren on yıl süreyle muhafaza eder.
+Uygunluk Beyanı, ilgili olduğu ürünün tanımını içerir,
+
+(C)Uygunluk Beyanının bir örneğini, talep edilmesi hâlinde yetkili otoritelere sunar. Yetkili
+otoriteler edinmiş oldukları ticari sır niteliğindeki bilgileri ve teknik çizimleri açıklayamazlar.
+
+(6) Üreticinin bu maddenin (2)’nci ve (5)’inci fıkralarında sayılan yükümlülükleri, üreticinin adına
+yapılması, sorumluluğunda olması ve ilgili görevlendirmede belirtilmesi kaydıyla yetkili temsilcisi
+tarafından yerine getirilebilir.
+
+Modül H- Tam kalite güvencesine dayalı uygunluk
+
+MADDE15- (1) Tam kalite güvencesine dayalı uygunluk üreticinin, bu maddenin (2)'nci ve
+(S)'inci fıkralarında sayılan yükümlülükleri yerine getirdiği ve ürünlerinin teknik mevzuatın ilgili
+kurallarına uygunluğunu kendi sorumluluğu çerçevesinde sağladığı ve beyan ettiği uygunluk
+değerlendirme yöntemidir.
+(2) Üretici, bu maddenin (3'üncü fıkrasında belirtilen şekilde, tasarım, imalat, bitmiş ürün muayenesi
+ve testi için onaylanmış bir kalite sistemi işletir ve bu maddenin(4)*üncü fıkrasında belirtilen şekilde
+gözetime tâbi olur.
+(3) Kalite sistemine ilişkin usül ve esaslar aşağıda belirtilmiştir:
+
+(A) Üretici, ürünlere yönelik kalite sisteminin değerlendirilmesi için kendi seçtiği bir
+onaylanmış kuruluşa başvurur. Başvuru aşağıdaki bilgileri içerir:
+
+(a)Ureticinin adı ve adresi, başvurunun yetkili temsilci tarafından gerçekleştirildiği
+durumlarda ayrıca yetkili temsilcinin adı ve adresi.
+
+(b) İmal edilmesi amaçlanan her ürün kategorisinin bir modeli için teknik dosya. Teknik
+dosya, uygulanabilir her durumda, asgari aşağıdaki hususları içerir:
+
+(aa) Ürünün genel bir tarifi.
+
+(bb) Konsept tasarım ve imalat çizimleri ile aksam, parça ve devrelerin ve benzerlerinin
+
+şemaları. ;
+(cc) Bu çizim ve şemalar ile ürünün işleyişinin anlaşılabilmesi için gerekli tarifler ve
+
+açıklamalar.
+
+- — (çç) Kısmen veya tamamen uygulanan uyumlaştırılmış standartların ve/veya ilgili teknik
+şartnamelerin referans adlarının listesi ile bu standartların uygulanmadığı durumlarda ilgili teknik
+düzenlemede belirtilen temel gerekleri karşılamak üzere benimsenen çözümlerin tarifleri ve
+uyumlaştırılmış standartların kısmen uygulanması hâlinde, bu standartların hangi kısımlarının
+uygulandığı.
+
+(dd) Yapılan tasarım hesaplamalarının, gerçekleştirilen muayenelerin ve benzerlerinin
+sonuçları.
+
+[SAYFA 22]
+114
+
+(ee) Test raporları.
+(e) Kalite sistemiyle ilgili dokümantasyon.
+(6) Aynı başvurunun başka bir onaylanmış kuruluşa yapılmadığını belirten yazılı beyan.
+
+(B) Kalite sistemi, ürünlerin teknik mevzuatın ilgili kurallarına uygunluğunu sağlar. Üretici
+tarafından benimsenen tüm unsurlar, kurallar ve hükümler, sistematik ve düzenli bir biçimde yazılı
+politikalar, usüller ve talimatlar şeklinde dosyalanarak muhafaza edilir. Kalite sistemi
+dokümantasyonu, kalite programları, planları, el kitapları ve kayıtlarının tutarlı bir şekilde
+yorumlanabilmesine imkân verecek biçimde düzenlenir. Kalite sistemi dokümantasyonu özellikle
+aşağıdaki hususlar hakkında yeterli bilgi ve açıklamaları içerir:
+
+(a) Yönetimin kalite hedefleri ve organizasyon yapısı ile ürün kalitesine dair sorumlulukları
+ve yetkileri. :
+
+(b) Standartlar da dâhil olmak üzere uygulanacak teknik tasarım özellikleri ve
+uyumlaştırılmış standardın ve/veya teknik şartnamelerin bir bütün olarak uygulanmayacağı
+durumlarda, ürünlerin teknik mevzuatın temel gereklerine uygunluğunu temin etmek için kullanılacak
+yollar,
+
+(c) İlgili ürün kategorisindeki ürünlerin tasarımı aşamasında kullanılacak tasarım kontrolü
+ve tasarım doğrulama teknikleri, süreçleri ve bu konudaki sistematik eylemler,
+
+(ç) İlgili imalat, kalite kontrol ve kalite güvencesi teknikleri, süreçleri ve yapılacak
+sistematik eylemler.
+
+(d) İmalat öncesinde, imalat sırasında ve imalat sonrasında yapılacak muayeneler ve testler
+ile bunların gerçekleştirilme sıklıkları.
+
+(e) Muayene raporları, test ve kalibrasyon verileri, ilgili personele ait nitelik raporları gibi
+kalite kayıtları.
+
+(0) İstenilen tasarım ve ürün kalitesinin sağlanmasının ve kalite sisteminin etkin işlemesinin
+gözetimi için araçlar.
+
+(C) Onaylanmış kuruluş, bu fikranın (B) bendinde belirtilen koşulları yerine getirip
+getirmediğini tespit etmek üzere kalite sistemini değerlendirir. Onaylanmış kuruluş, uyumlaştırılmış
+standardı ve/veya teknik şartnameyi uygulayan ulusal standardın ilgili kurallarına uygun kalite sistemi
+unsurlarının (B) bendinde belirtilen şartlara uygun olduğunu varsayar. Kalite yönetim sistemleri
+hakkındaki deneyime ilave olarak, denetimi gerçekleştiren grubun en az bir üyesi ilgili ürün sahasında
+ve ürün teknolojisinde değerlendirme deneyimine ve teknik mevzuatın ilgili kurallarına dair bilgiye
+sahip olmalıdır. Denetim, üreticinin işyerine değerlendirme ziyareti yapılmasını da içerir. Denetim
+ekibi üreticinin teknik mevzuatın ilgili kurallarını teşhis edebilme ve ürününün bu kurallara
+uygunluğunu sağlamak için gerekli tetkikleri yerine getirebilme kabiliyetini doğrulamak amacıyla bu
+fikranin(A) bendinin (b) numaralı alt bendinde atıf yapılan teknik dosyayı gözden geçirir. Onaylanmış
+kuruluş verdiği kararı üreticiye veya yetkili temsilcisine bildirir. Bildirim denetimin sonuçlarını ve
+karara ilişkin gerekçeli değerlendirmeleri de içerir.
+
+(Ç) Üretici, onaylandığı şekliyle kalite sisteminden doğan yükümlülüklerini yerine getirmeyi ve
+kalite sistemini yeterli ve etkin kalacak şekilde sürdürmeyi taahhüt eder.
+
+(D)Üretici, kalite sisteminde yapmayı düşündüğü herhangi bir değişiklik hakkında kalite
+sistemini onaylayan onaylanmış kuruluşu bilgilendirir. Onaylanmış kuruluş, önerilen değişiklikleri
+değerlendirir ve değiştirilmiş kalite sisteminin, bu fikranın (B) bendinde belirtilen koşulları yerine
+getirip getirmediğine veya yeniden bir değerlendirmenin gerekli olup olmadığına karar verir.
+Onaylanmış kuruluş kararını üreticiye bildirir. Bildirim denetimin sonuçlarını ve karara ilişkin
+gerekçeli değerlendirmeleri de içerir.
+
+(4) Onaylanmış kuruluş sorumluluğundaki gözetimin usül ve esasları aşağıda belirtilmiştir:
+
+(A) Gözetimin amacı, üreticinin onaylanmış kalite sisteminden doğan yükümlülüklerini tam
+olarak yerine getirmesini sağlamaktır.
+
+(B) Üretici, değerlendirme yapabilmesi için onaylanmış kuruluşun imalat tesislerine, muayene
+ve test laboratuvarlarma ve depolarına girmesine izin verir ve onaylanmış kuruluşa, özellikle aşağıda
+belirtilenler başta olmak üzere, gerekli her türlü bilgiyi temin eder:
+
+(a) Kalite sistemine ilişkin dokümantasyon.
+
+(b) Kalite sisteminin tasarım bölümünce öngörüldüğü şekliyle, analiz sonuçları,
+hesaplamalar, testler gibi kalite kayıtları.
+
+(c) Kalite sisteminin imalat bölümünce öngörüldüğü şekliyle, muayene raporları, test ve
+kalibrasyon verileri ve ilgili personele ait nitelik raporları gibi kalite kayıtları.
+
+(C) Onaylanmış kuruluş, üreticinin kalite sistemini sürdürdüğünden ve uyguladığından emin
+olmak için periyodik olarak denetim yapar ve üreticiye bir denetim raporu düzenler,
+
+[SAYFA 23]
+115
+
+(Ç) Onaylanmış kuruluş, haber vermeden üreticiye ziyaretlerde de bulunabilir. Bu ziyaretlerde
+onaylanmış kuruluş, gerekiyorsa, kalite sisteminin doğru işlediğini teyit etmek için ürün testleri
+yapabilir veya yaptırabilir. Onaylanmış kuruluş, üreticiye ziyaret raporu ve test yapılmışsa test raporu
+düzenler.
+
+(5) Üretici;
+
+(A) İlgili teknik düzenlemede öngörülen CE İşaretini ve bu maddenin (3Y'üncü fıkrasının (A)
+bendinde belirtilen onaylanmış kuruluşun sorumluluğunda olmak kaydıyla bu kuruluşun kimlik kayıt
+numarasını, bu teknik düzenlemenin ilgili kurallarını karşılayan her ürüne koyar,
+
+(B) Her ürün modeli için yazılı bir Uygunluk Beyanı hazırlar ve bu beyanı gerektiğinde yetkili
+otoritelere sunmak üzere, ürünün piyasaya arz edildiği tarihten itibaren on yıl süreyle muhafaza eder.
+Uygunluk Beyanı, ilgili olduğu ürünün tanımını içerir,
+
+(O) Uygunluk Beyanının bir örneğini, talep edilmesi hâlinde yetkili otoritelere sunar.
+
+(6)Üretici, ürünün piyasaya arz edildiği tarihten itibaren en az on yıl süreyle aşağıdaki belgeleri,
+gerektiğinde yetkili otoritelere sunmak üzere muhafaza eder;
+
+(A)Bu maddenin(3 Yüncü fıkrasının (A) bendinde belirtilen teknik dosyayı.
+
+(B)Bu maddenin(3 Yüncü fikrasının (A) bendinde belirtilen kalite sistemine dair belgeler,
+
+(C) Onaylanmış şekliylebu maddenin(3 üncü fıkrasının (D) bendinde atıf yapılan değişiklikleri.
+(Ç) Bu maddenin (3'üncü fıkrasının (D) bendinde, (4)üncü fıkrasının (C) ve (Ç) bentlerinde atıf
+yapılan onaylanmış kuruluş kararları ve raporları.
+
+(7) Her onaylanmış kuruluş, verdiği veya geri çektiği kalite sistem onayları hakkında kendisini
+görevlendiren yetkili otoriteleri bilgilendirir ve düzenli olarak veya talep edilmesi hâlinde bu yetkili
+otoritelere, vermeyi reddettiği, askıya aldığı veya diğer türlü kısıtladığı kalite sistem onaylarının bir
+listesini sunar. Her onaylanmış kuruluş kalite sistem onaylarıyla ilgili diğer onaylanmış kuruluşları,
+vermeyi reddettiği, askıya aldığı veya geri çektiği ve talep edilmesi hâlinde verdiği kalite sistem
+onayları hakkında bilgilendirir.
+
+(8) Üreticinin bu maddenin (3'üncü fikrasının (A) ve (D) bentlerinde ve (5)’inci ve (6)'ncı fıkralarda
+sayılan yükümlülükleri, üreticinin adına yapılması, sorumluluğunda olması ve ilgili görevlendirmede
+belirtilmiş olması kaydıyla yetkili temsilcisi tarafından yerine getirilebilir.
+
+Modül H1- Tam kalite güvencesi ve tasarım incelemesine dayalı uygunluk
+
+MADDE16- (1) Tam kalite güvencesi ve tasarım incelemesine dayalı uygunluk, üreticinin, bu
+maddenin (2)’nci ve (6)'ncı fıkralarında sayılan yükümlülükleri yerine getirdiği ve ürünlerinin teknik
+mevzuatın ilgili kurallarına uygunluğunu kendi sorumluluğu çerçevesinde sağladığı ve beyan ettiği
+uygunluk değerlendirme yöntemidir.
+
+(2) Üretici, bu maddenin (3'üncü fikrasinda belirtildiği şekliyle, tasarım, imalat, bitmiş ürün
+muayenesi ve testi için onaylanmış bir kalite sistemi işletir vebu maddenin(5)’inci fıkrasında belirtilen
+şekilde gözetime tâbi olur. Ürünlerin teknik tasarımının yeterliliği bu maddenin(4Yüncü fikrası
+çerçevesinde incelenir.
+
+(3) Kalite sistemine ilişkin usül ve esaslar aşağıda belirtilmiştir:
+
+(A) Üretici, ürünlere yönelik kalite sisteminin değerlendirilmesi için kendi seçtiği bir
+onaylanmış kuruluşa başvurur. Başvuru aşağıdaki bilgileri içerir:
+
+’ (a) Üreticinin adı ve adresi, başvurunun yetkili temsilci tarafından gerçekleştirildiği
+durumlarda ayrıca yetkili temsilcinin adı ve adresi,
+(b) Tasarlanan ürün kategorisine ilişkin gerekli tüm bilgiler.
+(c) Kalite sistemiyle ilgili dokümantasyon.
+
+(ç) Aynı başvurunun başka bir onaylanmış kuruluşa yapılmadığını belirten yazılı beyan.
+
+(B) Kalite sistemi, ürünlerin teknik mevzuatın ilgili kurallarına uygunluğunu sağlar. Üretici
+tarafından benimsenen tüm unsurlar, kurallar ve hükümler, sistematik ve düzenli bir biçimde yazılı
+politikalar, usüller ve talimatlar şeklinde dosyalanarak muhafaza edilir. Kalite sistemi
+dokümantasyonu; kalite programları, planları, el kitapları ve kayıtlarının tutarlı bir şekilde
+yorumlanabilmesine imkân verecek biçimde düzenlenir. Kalite sistemi dokümantasyonu özellikle
+aşağıdaki hususlar hakkında yeterli bilgi ve açıklamaları içerir:
+
+(a) Yönetimin kalite hedefleri ve organizasyon yapısı ile ürün kalitesine dair sorumlulukları
+ve yetkileri. .
+
+(b) Standartlar da dâhil olmak üzere uygulanacak teknik tasarım özellikleri ve
+uyumlaştırılmış standardın ve/veya teknik şartnamelerin bir bütün olarak uygulanmayacağı
+durumlarda, ürünlerin teknik mevzuatın temel gereklerine uygunluğunu temin etmek için kullanılacak
+
+[SAYFA 24]
+116
+
+yollar.
+
+(9) İlgili ürün kategorisindeki ürünlerin tasarımı aşamasında kullanılacak tasarım kontrolü
+ve tasarım doğrulama teknikleri, süreçleri ve bu konudaki sistematik eylemler.
+
+(ç) İlgili imalat, kalite kontrol ve kalite güvencesi teknikleri, süreçleri ve yapılacak
+sistematik eylemler.
+
+(d) İmalat öncesinde, imalat sırasında ve imalat sonrasında yapılacak muayeneler ve testler
+ile bunların gerçekleştirilme sıklıkları.
+
+(e) Muayene raporları, test ve kalibrasyon verileri, ilgili personele ait nitelik raporları gibi
+kalite kayıtları.
+
+(8 İstenilen tasarım ve ürün kalitesinin sağlanmasının ve kalite sisteminin etkin işlemesinin
+gözetimi için araçlar.
+
+(C) Onaylanmış kuruluş, bu fıkranın (B) bendinde belirtilen şartları yerine getirip getirmediğini
+tespit etmek üzere kalite sistemini değerlendirir. Onaylanmış kuruluş, uyumlaştırılmış standardı
+ve/veya teknik şartnameyi uygulayan ulusal standardın ilgili kurallarına uygun kalite sistemi
+unsurlarının bu fıkranın (B) bendinde belirtilen şartlara uygun olduğunu varsayar. Kalite yönetim
+sistemleri hakkındaki deneyime ilave olarak, denetimi gerçekleştiren grubun en az bir üyesi ilgili ürün
+sahasında ve ürün teknolojisinde değerlendirme deneyimine ve teknik mevzuatın ilgili kurallarına dair
+bilgiye sahip olmalıdır. Denetim, üreticinin işyerine değerlendirme ziyareti yapılmasını da içerir.
+Onaylanmış kuruluş verdiği kararı üreticiye veya yetkili temsilcisine bildirir. Bildirim denetimin
+- sonuçlarını ve karara ilişkin gerekçeli değerlendirmeleri de içerir.
+
+(Ç) Üretici, onaylandığı şekliyle kalite sisteminden doğan yükümlülüklerini yerine getirmeyi ve
+kalite sistemini yeterli ve etkin kalacak şekilde sürdürmeyi taahhüt eder.
+
+(D) Üretici, kalite sisteminde yapmayı düşündüğü herhangi bir değişiklik hakkında kalite
+sistemini onaylayan onaylanmış kuruluşu bilgilendirir. Onaylanmış kuruluş, önerilen değişiklikleri
+değerlendirir ve değiştirilmiş kalite sisteminin, bu fikranın (B) bendinde belirtilen şartları yerine
+getirip getirmediğine veya yeniden bir değerlendirmenin gerekli olup olmadığına karar verir.
+Onaylanmış kuruluş, kararını üreticiye bildirir. Bildirim, denetimin sonuçlarını ve karara ilişkin
+gerekçeli değerlendirmeleri de içerir.
+
+(E) Her onaylanmış kuruluş, verdiği veya geri çektiği kalite sistem onayları hakkında kendisini
+görevlendiren yetkili otoriteleri bilgilendirir ve düzenli olarak veya talep edilmesi hâlinde bu yetkili
+otoritelere, vermeyi reddettiği, askıya aldığı veya diğer türlü kısıtladığı kalite sistem onaylarının bir
+listesini sunar. Her onaylanmış kuruluş kalite sistem onaylarıyla ilgili diğer onaylanmış kuruluşları,
+vermeyi reddettiği, askıya aldığı veya geri çektiği ve talep edilmesi hâlinde verdiği kalite sistem
+onayları hakkında bilgilendirir.
+
+(4) Tasarım incelemesi aşağıdaki şekilde yapılır:
+
+(A) Üretici, tasarım incelemesi için bu maddenin (3'üncü fikrasının (A) bendinde belirtilen
+onaylanmış kuruluşa başvurur.
+
+(B) Başvuru, ürünün tasarımı, imalatı ve işleyişini anlaşılır kılacak ve ilgili teknik düzenlemeye
+uygunluğun değerlendirilmesine imkân sağlayacak nitelikte olur. Başvuru aşağıdaki bilgi ve belgeleri
+içerir;
+
+(a) Üreticinin adı ve adresi.
+
+(b) Aynı başvurunun başka bir onaylanmış kuruluşa yapılmadığını belirten yazılı beyan.
+
+(c) Teknik dosya. Teknik dosya, ürünün ilgili kurallara uygunluğunun değerlendirilmesine
+imkân sağlayacak nitelikte olur ve risklerin yeterli bir analizini ve değerlendirmesini içerir. Teknik
+dosya, ilgili kuralları belirtir ve değerlendirmeyle bağlantılı olması kaydıyla, ürünün tasarımını ve
+işleyişini kapsar. Teknik dosya uygulanabilir her durumda, asgari aşağıdaki hususları içerir:
+
+(aa) Ürünün genel bir tarifi.
+
+(bb) Konsept tasarım ve imalat çizimleri ile aksam, parça ve devrelerin ve benzerlerinin
+şemaları.
+
+(cc) Bu çizim ve şemalar ile ürünün işleyişinin anlaşılabilmesi için gerekli tarifler ve
+açıklamalar.
+
+(çç) Kısmen veya tamamen uygulanan uyumlaştırılmış standartların ve/veya ilgili teknik
+şartnamelerin referans adlarının listesi ile bu standartların uygulanmadığı durumlarda ilgili teknik
+düzenlemede belirtilen temel gerekleri karşılamak üzere benimsenen çözümlerin tarifleri ve
+uyumlaştırılmış standartların kısmen uygulanması hâlinde, bu standartların hangi kısımlarının
+uygulandığı.
+
+(dd)Yapilan tasarım hesaplamalarının, gerçekleştirilen muayenelerin ve benzerlerinin
+sonuçları.
+
+[SAYFA 25]
+117
+
+(ee) Test raporları.
+
+(ç) Teknik tasarımın yeterliliğini destekleyen kanıtlar. Bu destekleyici kanıtlar, özellikle
+uyumlaştırılmışstandartların ve/veya teknik şartnamelerin tam olarak uygulanmadığı durumlarda,
+kullanılan her türlü belgeye atıfta bulunur. Bu kanıtlar, gerektiğinde, üreticinin uygun nitelikteki bir
+laboratuvarı tarafından veya üreticiadına ve onun sorumluluğunda başka bir laboratuvar tarafından
+gerçekleştirilen testlerin sonuçlarını içerir.
+
+(C) Onaylanmış kuruluş başvuruyu inceler ve tasarımın teknik düzenlemenin ilgili kurallarını
+karşıladığı durumlarda, onaylanmış kuruluş, üreticiye bir tasarım inceleme belgesi düzenler. Belge,
+üreticinin adı ve adresini, incelemenin sonuçlarını, varsa, belgenin geçerliliği ile ilgili şartları ve
+onaylanan tasarımın tanımlanması için gerekli bilgiyi içerir. Belgenin bir veya daha fazla eki olabilir.
+Belge ve ekleri, imal edilen ürünlerin incelenen tasarıma uygunluğunun değerlendirilmesine ve uygun
+olan durumlarda ürünün kullanım halinde kontrolüne imkan sağlayacak gerekli tüm bilgileri içerir.
+Tasarımın teknik mevzuatın ilgili kurallarını karşılamadığı durumlarda, onaylanmış kuruluş tasarım
+inceleme belgesini vermeyi reddeder ve ayrıntılı gerekçelerini de sunarak red kararı hakkında başvuru
+sahibini bilgilendirir.
+
+(Ç) Onaylanmış kuruluş, onaylanmış tasarımın teknik mevzuatın ilgili kurallarını artık
+
+- karşılamadığını gösterebilecek sektördeki en son teknolojik yenilikleri takip eder ve bu gibi
+yeniliklerin tip üzerinde daha ileri bir incelemeyi gerektirip gerektirmediğine karar verir. Gerektirdiği
+kararını aldığı takdirde, üreticiyi bu yönde bilgilendirir. Üretici, onaylanmış tasarım üzerinde yaptığı
+ve ürünün ilgili teknik mevzuatın temel gereklerine uygunluğunu veya tasarım inceleme belgesinin
+geçerlilik şartlarını etkileyebilecek her türlü değişiklik hakkında bu tasarım inceleme belgesinin aslına
+yansıtılmak üzere belgeyi veren onaylanmış kuruluşa bilgi verir. Bu gibi değişiklikler, tasarım
+inceleme belgesinin aslına yansıtılmak üzere ilave bir onay gerektirir.
+
+(D) Heronaylanmış kuruluş, verdiği veya geri çektiği tasarım inceleme belgeleri ve/veya
+ilaveleri hakkında kendisini görevlendiren yetkili otoriteleri bilgilendirir ve düzenli olarak veya talep
+edilmesi hâlinde bu yetkili otoritelere vermeyi reddettiği, askıya aldığı veya diğer türlü kısıtladığı
+tasarım inceleme belgelerinin ve/veya ilavelerinin bir listesini sunar. Her onaylanmış kuruluş diğer
+onaylanmış kuruluşları, vermeyi reddettiği, askıya aldığı, geri çektiği veya diğer türlü kısıtladığı ve
+talep edilmesi hâlinde verdiği tasarım inceleme belgeleri ve/veya ilaveleri hakkında bilgilendirir.
+Onaylanmış kuruluş, tasarım inceleme belgesinin, eklerinin ve ilavelerinin bir örneğini, üretici
+tarafından sunulan belgeleri ve teknik dosyayı tasarım inceleme belgesinin geçerlilik süresinin sonuna
+kadar muhafaza eder. i
+
+(E) Üretici, tasarım inceleme belgesinin, belgenin eklerinin ve ilavelerinin bir örneğini teknik
+dosya ile birlikte ürünün piyasaya arz edildiği tarihten itibaren on yıl süreyle talep edilmesi hâlinde
+yetkili otoritelere sunmak üzere muhafaza eder.
+
+(5) Onaylanmış kuruluş sorumluluğunda gözetimin usül ve esasları aşağıda belirtilmiştir:
+
+(A) Gözetimin amacı, üreticinin onaylanmış kalite sisteminden doğan yükümlülüklerini tam
+olarak yerine getirmesini sağlamaktır.
+
+(B) Üretici, değerlendirme yapabilmesi için onaylanmış kuruluşun tasarım ve imalat tesislerine,
+muayene ve test laboratuvarlarına ve depolarına girmesine izin verir ve onaylanmış kuruluşa, özellikle
+aşağıda belirtilenler başta olmak üzere, gerekli her türlü bilgi ve belgeyi temin eder:
+
+(a) Kalite sistemine ilişkin dokümantasyon.
+
+(b) Kalite sisteminin tasarım bölümünce öngörüldüğü şekilde, analiz sonuçları, hesaplamalar,
+testler gibi kalite kayıtları.
+
+(c) Kalite sisteminin imalat bölümünce öngörüldüğü şekilde, muayene raporları, test ve
+kalibrasyon verileri ve ilgili personele ait nitelik raporları gibi kalite kayıtları.
+
+(C) Onaylanmış kuruluş, üreticinin kalite sistemini sürdürdüğünden ve uyguladığından emin
+olmak için, periyodik olarak denetim yapar ve üreticiye bir denetim raporu düzenler.
+
+(Ç) Onaylanmış kuruluş, haber vermeden üreticiye ziyaretlerde de bulunabilir. Bu ziyaretlerde
+onaylanmış kuruluş, gerekiyorsa kalite sisteminin doğru işlediğini teyit etmek için ürün testleri
+yapabilir veya yaptırabilir. Onaylanmış kuruluş üreticiye ziyaret raporu ve test yapılmışsa test raporu
+düzenler.
+
+(6) Üretici;
+
+(A) İlgili teknik düzenlemede öngörülen CE İşaretini ve (3)'üncü fıkranın (A) bendinde
+belirtilen onaylanmış kuruluşun sorumluluğunda olmak kaydıyla bu kuruluşun kimlik kayıt
+numarasını, bu teknik düzenlemenin ilgili kurallarını karşılayan her ürüne koyar,
+
+[SAYFA 26]
+118
+
+(B) Her ürün modeli için yazılı bir Uygunluk Beyanını hazırlar ve bu beyanı gerektiğinde yetkili
+otoritelere sunmak üzere, ürünün piyasaya arz edildiği tarihten itibaren on yıl süreyle muhafaza eder.
+Uygunluk Beyanı, ilgili olduğu ürünün tanımını ve tasarım inceleme belgesinin numarasını içerir,
+
+(C) Uygunluk beyanının bir örneğini, talep edilmesi hâlinde yetkili otoritelere sunar. Yetkili
+vworiteler edinmiş oldukları ticari sır niteliğindeki bilgileri ve teknik çizimleri açıklayamazlır.
+
+(7) Üretici, ürünün piyasaya arz edildiği tarihten itibaren en az on yıl süreyle aşağıdaki belge ve
+bilgileri, gerektiğinde yetkili otoritelere sunmak üzere muhafaza eder:
+
+(A) Bu maddenin (3)’tincii fikrasmin (A) bendinde belirtilen kalite sistemine dair belgeleri.
+
+(B) Onaylanmış şekliyle bu maddenin (3)'üncü fikrasının (D) bendinde belirtilen değişiklikleri.
+
+(C)Bu maddenin(3)’tincii fikrasının (D) bendinde, (5)’inci fikranin (C) ve (Ç) bentlerinde
+
+belirtilen onaylanmış kuruluş kararları ve raporları.
+(8) Üreticinin yetkili temsilcisi, bu maddenin(4)'üncü fıkrasının (A) ve (B) bentlerinde atıf yapılan
+başvuruları yapabilir ve üreticinin bu maddenin (3)’tincii fikrasının (A) ve (D) bentleri, (4)’tincti
+fıkrasının (Ç) ve (E) bentleri ilebu maddenin(6)'ncı ve (7)’nci fikralarmda sayılan yükümlülüklerini,
+üreticinin adına yapılması, sorumluluğunda olması ve ilgili görevlendirmede belirtilmiş olması
+kaydıyla yerine getirebilir.
+
+EK -4
+CE İŞARETİ ARANACAK ÜRÜN GRUPLARI
+(8'inci ve Geçici 1’inci madde ) ;
+
+CE İşareti aranacak ürün grupları, bu eke bağlı liste yayımlanana kadar, Bu Tüzüğün Geçici 1’inci
+madde kurallarına göre belirlenir.

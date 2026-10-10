@@ -1,0 +1,1367 @@
+[SAYFA 1]
+Sayı : 939
+
+2901
+
+ELEKTRONİK HABERLEŞME YASASI
+(6/2012, 21/2014 ve 39/2016 Sayılı Yasalar)
+
+Madde 42, 43, 47, 54 Altında Yapılan Tüzük
+
+Kuzey Kıbrıs Türk Cumhuriyeti Bakanlar Kurulu, Elektronik Haberleşme Yasası'nın
+42'nci, 43'üncü, 47'nci ve 54'üncü Maddelerinin kendisine verdiği yetkiyi kullanarak aşağıdaki
+
+Tüzüğü yapar:
+
+Kısa İsim
+
+Tefsir
+
+1. Bu Tüzük, Abone ve Tüketici Hakları Tüzüğü olarak
+isimlendirilir.
+
+BİRİNCİ KISIM
+Genel Kurallar
+2. (1) Bu Tüzükte metin başka türlü gerektirmedikçe:
+
+“Abone”, Bir haberleşme sağlayıcı ile bu hizmetlerin verilmesi için
+yapılmış bir sözleşmeye taraf olan herhangi bir gerçek veya tüzel kişiyi
+anlatır.
+
+“Abonelik Sözleşmesi”, Haberleşme sağlayıcı ile abone arasında
+yapılan, haberleşme sağlayıcının belirli ücretler karşılığında bir takım
+hizmetleri dönemsel veya sürekli olarak yerine getirmesi ya da bir mal
+teminini üstlenmesi veya her ikisini aynı anda taahhüt etmesinin hüküm
+ve koşullarını düzenleyen sözleşmeyi anlatır.
+
+“Aktif Abone”, Son 3 (Üç) ay içerisinde 1(Bir) dış arama yapmış, 1(Bir)
+çağrı almış veya 1(Bir) SMS göndermiş veya veri (data) hizmeti kimlik
+doğrulaması gerçekleştirmiş aboneyi anlatır.
+
+“Aşım Bedeli”, Sınırlama veya kotası olan içeriklerin bitmesi halinde
+uygulanacak bedeli anlatır.
+
+“Bakanlık”, Elektronik haberleşmeden sorumlu Bakanlığı anlatır.
+“Basılı Yayın Mecraları”, Açık hava ilanı, afiş ve basılı işler gibi reklam
+taşıyan malzemeleri anlatır,
+
+“Bireysel Abone”, Gerçek kişi aboneliklerini anlatır.
+
+“Elektronik Haberleşme”, Elektriksel işaretlere dönüştürülebilen her
+türlü işaret, sembol, ses, görüntü ve verinin kablo, telsiz, optik, elektrik,
+manyetik, elektromanyetik, elektrokimyasal, elektromekanik ve diğer
+iletim sistemleri vasıtasıyla iletilmesini, gönderilmesini ve alınmasını
+anlatır.
+
+“Elektronik Haberleşme Hizmeti”, Telekomünikasyon hizmetleri ve
+yayıncılık için kullanılar sebekelerdeki iletim hizmetleri dâhil (elektronik
+haberleşme şebekeleri üzerinden iletilen içeriğin sağlanmasından veya
+bunun üzerinde editoryal kontrol icra edilmesinden oluşan hizmetler ile
+bilgi toplumu hizmetleri hariç) elektronik haberleşme şebekeleri üzerinde
+sinyaller iletilmesinden tamamen veya kısmen oluşan ve normal olarak
+bir bedel karşılığında verilen bir hizmeti anlatır.
+
+[SAYFA 2]
+2902
+
+“Elektronik Haberleşme Sağlayıcı/Haberleşme Sağlayıcı”, Bir
+elektronik haberleşme şebekesinin operatörü veya elektronik haberleşme
+hizmetleri sağlayan tüzel kişiyi anlatır ve Telekomünikasyon Dairesini de
+kapsar,
+“Elektronik (Haberleşme Şebekesi”, — İletilen bilgi (o çeşidine
+bakılmaksızın uydu şebekeleri, sabit (internet dâhil, devre ve paket
+anahtarlı) ve mobil karasal şebekeler, sinyal gönderme amacıyla
+kullanıldıkları ölçüye kadar elektrik kablo sistemleri, radyo ve televizyon
+yayıncılığı için kullanılan şebekeler ve kablolu televizyon şebekeleri
+dâhil, kablo, telsiz, optik veya başka elektromanyetik araçlar yoluyla
+sinyaller gönderilmesine imkân veren bir iletim sistemi ve söz konusu
+olduğunda, anahtarlama veya yönlendirme donanımı ve diğer kaynakları
+anlatır.
+“Görsel Yayın Mecraları”, Televizyon, her türlü yazılı basın, internet,
+radyo, sinema, vb. iletişim kanallarını anlatır,
+“İnternet (WEB)”, Web üzerindeki sayfalar, metin, görsel ve
+animasyon şeklinde ziyaretçisine bilgi aktaran veya hizmet sunan
+sayfaların tümünü kapsayan bir doküman topluluğunu anlatır.
+“Kampanya”, Haberleşme sağlayıcı tarafından elektronik haberleşme
+hizmetlerinin belirli bir süre boyunca ilave edimler ile özel şartlar altında
+satılmasına ilişkin pazarlama yönetimini anlatır.
+“Kota”, Paket veya tarife içeriğine ait üst sınırı anlatır.
+“Kullanıcı”, Bir abone olsun veya olmasın, elektronik haberleşme
+hizmetleri kullanan herhangi bir gerçek veya tüzel kişiyi anlatır.
+“Kurul”, Yasa tahtında kurulan Bilgi Teknolojileri ve Haberleşme
+Kurumunun Yönetim Kurulunu anlatır,
+“Kurum”, Bilgi Teknolojileri ve Haberleşme Kurumunu anlatır.
+“Kurumsal Abone”, Özel kişi dışındaki abonelikleri ve Tüzel kişi
+aboneliklerini anlatır.
+“Mecra”, Reklam ve tanıtım mesajını ileten ve o mesajı alma
+durumunda olan kişi, grup ya da topluluğun buluştuğu yeri ve ortamı
+anlatır.
+“Mesafeli Sözleşmeler”, Yazılı, görssl, telefon ve elektronik ortamda
+veya diğer iletişim araçları kullanarak yapılan ve malın veya hizmetin
+tüketiciye teslimi anında veya sonradan yapılması kararlaştırılan
+sözleşmelerdir.
+© “Reklam”, İnsanları gönüllü olarak belli bir davranışta bulunmaya ikna -
+etmek, belirli bir düşünceye yöneltmek, dikkatlerini bir ürüne hizmete,
+fikir ve kuruluşa çekmeye çalışmak, onunla ilgili bilgi vermek, ona
+ilişkin görüş ve tutumlarını değiştirmelerini veya belirli bir görüşü ya da
+tutamu — benimsemelerini sağlamak amacıyla oluşturulan; iletişim
+— araçlarından yer ya da süre satın almak yoluyla sergilenen ya da başka
+biçimlerde çoğaltılıp dağıtılan ve bir ücret karşılığı oluşturulduğu belli
+olan duyuruyu anlatır.
+“Tarife”, Bir haberleşme sağlayıcısının, elektronik haberleşme
+hizmetleri karşılığında veya bir elektronik haberleşme şebekesine erişim _
+karşılığında ( kullanıcılara uyguladığı, herhangi degisik O ücret
+
+[SAYFA 3]
+Amaç
+
+Kapsam
+
+İlkeler
+
+Abonelik
+Sözleşmesinin
+Yapılması
+
+2903
+
+kalemlerinden oluşan listeyi anlatır.
+
+“Tüketici”, Ticari veya mesleki olmayan amaçlar için elektronik
+haberleşme hizmetleri kullanan veya talep eden herhangi bir gerçek veya
+tüzel kişiyi anlatır. ”
+“Uzaktan Haberleşme Aracı”, Mektup, katalog, telefon, faks, radyo,
+televizyon, elektronik posta mesajı, kısa mesaj, internet gibi fiziksel
+
+* olarak karşı karşıya gelinmeksizin sözleşme kurulmasına imkan veren her
+
+türlü araç veya ortamı anlatır.
+
+“Veri”, Sistematik erişim imkânı olan, yönetilebilir, güncellenebilir,
+taşınabilir, birbirleri arasında tanımlı ilişkiler bulunabilen bilgiler
+kümesini anlatır.
+
+“Yasa”, Elektronik Haberleşme Yasası'nı anlatır.
+
+(2) Bu tüzükte yer almayan tanımlar için Yasa'da yer alan tanımlar
+geçerlidir.
+
+3. Bu Tüzüğün amacı; elektronik haberleşme hizmeti alan abonelerin hak
+ve menfaatlerinin korunmasi, abonelerin (o haklarını, © abonelik
+
+sözleşmelerini, haberleşme sağlayıcıların bilgilendirme, faturalara ilişkin
+- esaslar, tarifeler, kampanyalar ve hizmet kalitesi ile ilgili yükümlülüklerini
+
+ve tüketici şikâyet çözüm mekanizmalarına ilişkin usul ve esasları
+düzenlemektir.
+
+4. Bu Tüzük; elektronik haberleşme hizmeti alan aboneleri kapsar.
+
+5. Bu Tüzüğün uygulanmasında aşağıdaki temel ilkeler göz önüne alınır;
+
+(1) Ülkenin her yerinde, geniş kapsamlı elekironik haberleşme
+hizmetlerinin sunulması,
+
+(2) Tüketici hak ve menfaatlerinin korunması ve gözetilmesi,
+
+(3) Herkesin makul bir ücret karşılığında elektronik haberleşme şebeke
+ve hizmetlerden yararlanmasını sağlayacak uygulamaların teşvik
+“edilmesi,
+
+“ (4) Hizmet kalitesinin artırılmasının teşvik edilmesi,
+
+İKİNCİ KISIM
+. Abonelik Sözleşmeleri ile İlgili Kurallar
+
+6. (1) (A) Haberleşme sağlayıcının abone ile abonelik ilişkisinin
+başlangıcında abonelik sözleşmesi yapması zorunludur.
+
+(B) Elektronik haberleşme hizmetine 3 (Üç) ayı geçmeyecek
+kullanım süresi için faturasız hat abonesi olan tüketicinin
+ayrıca sözleşme yapma talebi yoksa, haberleşme sağlayıcının
+
+[SAYFA 4]
+40/2003
+55/2010
+
+Abonelik
+Sözleşmelerinde
+Abonenin Lehine
+Yorumlanacak.
+Haller
+
+2904
+
+sözleşme yapma zorunluluğu yoktur. Ancak, faturasız hat
+abonesinin hat kullanımı 3 (Üç) aydan fazla sürecekse
+haberleşme sağlayıcı tarafından kullanıcının kimlik bilgisinin
+alınması ve sözleşme yapılması zorunludur.
+
+(C) Faturasız hat abonesinin elektronik haberleşme hizmetini
+kullanım süresinin 3 (Üç) ayı geçmesi halinde abonelik
+sözleşmesi yapılmaması ve kimlik bilgilerinin alınmaması
+durumunda sözleşmenin yapılmasına kadar elektronik
+haberleşme (o hizmeti haberlesme o sağlayıcı (tarafından
+durdurulur.
+
+(2) Abonelik sözleşmeleri, yazılı, görsel, telefon ve elektronik ortamda
+veya diğer iletişim araçları kullanarak yapılabilir. Abonelik
+Sözleşmesinin, mesafeli satışlar kapsamında yapılması durumunda
+Tüketicileri Koruma Yasası'nın 16'ncı maddesinde öngörülen
+kurallar uygulanır.
+
+(3) Abonelik sözleşmesi yapılırken abone tarafından beyan edilen
+
+adres ve elektronik posta adresi, abonelik sözleşmeleri ile ilgili
+işlemler için geçerli tebligat adresi kabul edilir.
+
+(4) (A) Haberleşme sağlayıcı abonelik sözleşmesinin imzalı bir
+nüshasını yazılı veya elektronik ortamda aboneye verir.
+
+(B) Haberleşme sağlayıcı güncel abonelik sözleşmesi metninin bir
+örneğini kendisine ait internet sitesinde yayımlamakla
+yükümlüdür.
+
+(5) Abonelik sözleşmelerinde aboneye yükümlülük getirilen konular
+ile kuralların sözleşme içerisinde açık ve anlaşılabilir şekilde,
+siyah koyu harflerle ve en az on iki punto büyüklüğünde
+belirtilmesi zorunludur.
+
+(6) Haberleşme sağlayıcılar abonelik sözleşmesinde yer alan tüm
+bilgileri eksiksiz ve doğru bir şekilde sistemlerine aktarmakla
+yükümlüdürler,
+
+7. (1) (A) Haberleşme sağlayıcının aboneyle müzakere etmeden, tek
+
+taraflı olarak abonelik sözleşmesi, taahhütname veya
+kampanyalara koyduğu ve tarafların sözleşmeden doğan hak
+ve yükümlülüklerinde, iyi niyet kuralına aykırı düşecek
+biçimde abone aleyhine dengesizliğe neden olan hükümler
+geçersizdir.
+
+(B) Abonelik sözleşmesinde yer alan kayıtların açık ve anlaşılır
+bir biçimde kaleme alınmamış olması halinde, abonenin
+
+mağduriyetine neden olduğu kabul edilebilir ve bu durumda
+abone lehine yorum esastır.
+
+[SAYFA 5]
+2905
+
+Aşağıdakilerle | sınırlı olmamak üzere, Kurum tarafından
+belirlenecek ve tüketicilerle yapılan abonelik sözleşmelerinde
+tek taraflı olarak sözleşmeden doğan temel hak ve
+yükümlülükleri sözleşmenin esas amacına aykırı şekilde tüketici
+aleyhine sınırlandıran hükümler geçersiz kabul edilecektir;
+
+(A) Haberleşme sağlayıcının sadece kendisi tarafından belirlenen
+koşullarda edimini ifa edeceği, fakat tüketicinin her durumda
+ifa ile yükümlü tutulduğu hükümler,
+
+(B)Haberleşme sağlayıcıların yükümlülüklerini yerine getirmeyen
+tüketicilerden, ortaya çıkması beklenebilecek miktardan
+
+yüksek miktarda tazminat isteme hakkına sahip olduğunu
+belirten hükümler,
+
+(C) Haberleşme sağlayıcıların, tüketiciye ihtarda bulunmak veya
+ek süre vermek dahil yasal bir yükümlülüğünü ortadan
+kaldırılmasına yönelik hükümler,
+
+(Ç) İşin olağan akışında tüketicinin rıza vermesi beklenebilir
+hususlar hariç olmak üzere, haberleşme sağlayıcının
+borçlandığı edimini değiştirmesine veya bunlardan sapmasına
+imkân veren hükümler,
+
+(D) Haberleşme sağlayıcıya ifa edilen hizmetin abonelik
+sözleşmesi şartlarına uygun olup olmadığını tespit etme hakkı
+veya bir sözleşme şartının nasıl yorumlanacağı konusunda
+münhasır yetki veren hükümler,
+
+(E) Haberleşme sağlayıcının tüm yükümlülüklerini yerine
+getirmemesine rağmen tüketicinin tüm yükümlülüklerini
+yerine getirmesini zorunlu tutan hükümler ve,
+
+(F) Tüketicinin mahkemeye gitme veya başka başvuru yollarını
+kullanma imkânını ortadan kaldıran veya sınırlandıran,
+gösterebileceği delilleri ölçüsüz derecede sınırlandıran veya
+mevcut hukuki düzen uyarınca diğer tarafta olan ispat
+külfetini tüketiciye yükleyen hükümler.
+
+8. Haberleşme sağlayıcılar, abonelik sözleşmelerinde asgari olarak
+aşağıdaki hususları bulundurmakla yükümlüdürler:
+
+Sözleşmelerinde
+
+(1) Elektronik haberleşme sağlayıcısının;
+
+(A) Özel tüzel kişi olması halinde Kuzey Kıbrıs Türk Cumhuriyeti
+Resmi Kabz Memurluğu ve Mukayyitlik Dairesi tarafından
+tescillenen adı ve Şirketin Ana Sözleşmesi ve Tüzüğündeki
+resmi yazışma adresi;
+
+(B) Kamu tüzel kişi olması halinde ilgili kamu tüzel kişinin
+kurulmasına yetki veren Yasa ve/veya Mevzuat ve bu mevzuatta
+yer alan ismi.
+
+[SAYFA 6]
+9.5.2014
+R.G. 111
+EKTİ
+
+A.E. 295
+
+2906
+
+(2) Haberleşme sağlayıcıların yetkilendirildikleri kapsam ve abonelere
+sunacakları hizmetlerin tanımı,
+
+(3) Elektronik haberleşme hizmetlerine ilişkin sunulacak bakım ve
+onarım hizmetlerinin çeşit ve kapsamları,
+
+(4) Verilen hizmete göre Yetkilendirme, Numaralandırma ve Spektrum
+Tüzüğüne ekli Birinci Cetvel uyarınca belirlenen hizmet kalitesi
+
+ölçütlerine uyulacağına dair elektronik haberleşme sağlayıcı
+tarafından verilen taahhütler,
+
+(5) Abonelik sözleşmesinin imzalanması ile sunulacak hizmetlerin ilk
+bağlantı sonucu kullanıma hazır hale getirilmesi arasında geçecek
+azami süre,
+
+(6) Sözleşmenin imzalandığı tarihte;
+
+(A) Abone tarafından tercih olunan tarife ve/veya abonelik paketi,
+
+(B) Tercih edilen tarife ve/veya paketlerin başlangıç fiyatı,
+
+(C)Tarife ve/veya abonelik paketlerinin abone tarafından
+değiştirilmek istenmesi halinde güncel tarife ve/veya abonelik
+paketlerinin hangi iletişim kanalları kullanılarak alınabileceğinin
+bilgisi,
+
+(Ç) İletişim kanallarında değişiklik yapılması durumunda abone
+
+tarafından en son güncellenen iletişim kanalının geçerli olacağı,
+
+(7) Haberleşme sağlayıcılar tarafından uygulanacak tarifelerin içeriği ve
+tarifelerdeki değişiklikler hakkında abonelere bu Tüzük ile belirlenen
+zorunlu bilgilendirmeye ek olarak hangi kanallar yoluyla güncel
+
+bilgilerin o verileceği ve/veya bunların aboneler tarafından
+öğrenilebileceği,
+
+(8) Sözleşmenin süresi, yenilenme koşulları, sona erime koşulları,
+abonenin fesih talebini takiben ne kadar süre içerisinde feshin
+haberleşme sağlayıcı tarafı 1. gciçekleştirileceği bilgisi, fesihte
+bildirim için kullanılacak haberleşme kanalları, fesih talebi ile feshin
+gerçekleştiği zaman arasında geçen sürede yapılması muhtemel
+kullanımlar dolayısıyla ortaya çıkabilecek tutarların tahsili ve/veya
+iadesi ile ilgili izlenecek yöntem hakkında bilgi,
+
+(9) Haberleşme sağlayıcının kusurundan kaynaklanan nedenlerle
+sözleşmede belirtilen hizmet kalitesi seviyesinin sağlanamaması
+halinde tazminat ve/veya para iadesine ilişkin izlenecek yöntem,
+
+(10) Taraflar arasında uyuşmazlık çıkması halinde uygulanması gereken
+hukuki yollara ilişkin bilgiler,
+
+[SAYFA 7]
+2907
+
+(11) Evrensel hizmetle ilgili tüketici hakları,
+
+Sözleşmenin 9. (1) Haberleşme sağlayıcılar, sözleşmede yapılacak değişiklikler
+Değiştirilmesi yürürlüğe girmeden en az 30 (Otuz) gün önce abonelerini
+bilgilendirmekle yükümlüdürler,
+
+(2) Haberleşme sağlayıcı tarafından yapılacak bilgilendirmeler için
+asgari olarak, aboneye sağlanan elektronik haberleşme hizmeti
+kanalı ve ilaveten aşağıdaki kanallardân en az | (Bir) tanesinin
+kullanılması gerekmektedir:
+
+(A) Sözleşmede beyan edilen veya abone talebi ile değiştirilen en
+güncel elektronik posta adresi,
+
+(B) Sözleşmede beyan edilen veya abone talebi ile değiştirilen en
+güncel alternatif iletişim numarası,
+
+(C) Sözleşmede beyan edilen veya abone talebi ile değiştirilen en
+güncel adres,
+
+(Ç) Toplu iletişim mecrası,
+
+(D) Çağrı merkezi dış araması.
+
+(3) Yukarıda belirtilen ve abonenin hizmet aldığı elektronik
+haberleşme hizmetinin aktif olarak kullanılıp kullanılmadığının
+tespit etme sorumluluğu haberleşme sağlayıcıdadır ve hizmetin
+aktif olarak kullanılmadığının tespiti halinde abone tarafından
+belirtilen iletişim adresine yazılı veya yukarıdaki (2)’nci fıkranın
+(A), (B) ve (D) bendlerinde belirtilen kanallarından biri ile bilgi
+verilmesi zorunludur.
+
+(4) Haberleşme sağlayıcı;
+
+(A) Yapılacak bildirimde söz konusu değişikliklerin abone
+tarafından kabul edilmemesi halinde abonenin herhangi bir
+tazminat ödemeden sözleşmeyi fesih edebilme hakkının
+bulunduğu;
+
+(B) Abonenin sözleşmeyi feshetme kararı alması halinde bu
+Tüzüğün 17'nci madde kuralları ve varsa diğer mali
+yükümlülüklerinin sona ermediği;
+
+ile ilgili aboneye açık ve anlaşılır bir bilgilendirme yapmak
+
+zorundadır,
+
+(5) (A) Haberleşme sağlayıcı tarafından abonelik sözleşme
+koşullarında değişiklik yapıldığının aboneye bildirilmesinden
+sonra abone herhangi bir tazminat ödemeden sözleşmeyi
+feshedebilme hakkına sahiptir.
+
+(B) Abone, yapılacak olan değişiklikler kendisine bildirildikten
+sonra sözleşmeyi kabul etmediği gerekçesi ile yürürlük
+tarihine kadar feshetmez ise değiştirilmiş sözleşme abone
+tarafından kabul edilmiş addolunur.
+
+[SAYFA 8]
+Sözleşmenin
+Feshi
+
+20.05.2016
+R.G.64
+
+EK Ill
+
+A.E 326
+
+Abonelik
+
+Sézlesmelerinin
+incelenmesi ve
+Kurum Onayı
+
+10. (1)
+
+2)
+
+(3)
+
+(4)
+
+(5)
+
+11. (1)
+
+2908
+
+Aboneler, haberleşme sağlayıcılar ile aralarındaki abonelik
+sözleşmelerini ve hizmet ilişkisini her zaman herhangi bir cezai
+şarta veya tazminata tabi olmaksızın yazılı olarak bildirmek
+koşulu ile sona erdirebilirler.
+
+(A) Haberleşme sağlayıcılar, Mobil Numara Taşınabilirliği
+Tüzüğü kapsamında numara taşıma işlemine dair süreçte
+belirtilen fesih kuralları saklı kalmak kaydı ile, fesih talebini
+almalarını takip eden 2 (İki) iş günü içerisinde fesih
+bildiriminin alındığı bilgisini aboneye, abonenin yazılı fesih
+başvurusunda belirttiği iletişim kanalını kullanarak iletirler,
+
+(B) (a) Haberleşme sağlayıcı, aboneyi bilgilendirmesini takip
+eden | (Bir) iş günü içerisinde hizmeti kısıtlar ve/veya
+durdurur.
+
+(b) Belirtilen zaman aralığında, hizmetin
+durdurulamamasından kaynaklanan her türlü sorundan
+haberleşme sağlayıcı sorumlu olacaktır.
+
+(C) Haberleşme sağlayıcılar, abone tarafından fesih talebini
+almalarından itibaren her halükarda en geç 3 (Üç) iş günü
+içerisinde fesih işlemini gerçekleştirmek ve aboneyi arama,
+uzaktan haberleşme aracı ya da Kurum tarafından
+belirlenebilecek herhangi başka bir yolla bilgilendirmek
+zorundadırlar,
+
+Haberleşme sağlayıcılar, abonelik sözleşmesinin feshedilmesi
+yönünde bir talep aldıklarında, talepte bulunan kişinin abone
+veya abone adına fesihte bulunma yetkisine sahip bir kişi olup
+olmadığını doğrulamakla yükümlüdürler.
+
+Fesih işlemini gerçekleştiren haberleşme sağlayıçı, fesih işlemini
+takip eden ilk fatura dönemi içerisinde aboneye son faturayı
+gönderir. Son fatura, mevcut durumda hizmet kullanımı
+dolayısıyla tahakkuk etmiş fakat abone tarafından ödenmemiş
+borçlar ile son fatura tarihinden fesih tarihine kadar geçen
+süreye dair hizmet bedelleri de dahil olmak üzere abone
+tarafından yerine getirilmemiş tüm borçları kapsayacak ve her
+bir kalemi ayrı ayrı gösterecek şekilde hazırlanır.
+
+Aboneden daha önce alınan depozito, avans gibi ücretler veya
+abone alacakları var ise, mahsuplaşmayı müteakip kalan tutar 15
+
+(Onbeş) gün içinde haberleşme sağlayıcı tarafından aboneye
+iade edilir.
+
+Kurum, re'sen veya şikâyet üzerine abonelik sözleşmelerini
+haberleşme sağlayıcılardan talep etme ve inceleme hakkına
+sahiptir.
+
+(2) Kurum, abonelik sözleşmelerinde değiştirilmesini uygun gördüğü
+
+[SAYFA 9]
+2909
+
+hususları yazılı olarak haberleşme sağlayıcıya bildirir.
+
+(3) Haberleşme sağlayıcısı, yazılı bildirimi almasını takip eden en geç
+15 (Onbeş) gün içinde Kurum tarafından uygun görülen
+değişikliklere ilişkin görüşünü Kuruma sunar,
+
+(4) Kurumun bu görüşleri uygun olduğu ölçüde dikkate alarak verdiği
+
+© karar, ilgili haberleşme sağlayıcı tarafından 60 (Altmış) gün içinde
+yerine getirilmek ve bu süre içerisinde aboneler ilgili değişiklikler
+konusunda bilgilendirilmek zorundadır.
+
+(5) Kurum gerek görülmesi halinde 3'üncü fıkrada belirtilen 15
+(Onbeş) günlük süreyi uzatabilir.
+
+ÜÇÜNCÜ KISIM
+Şeffaflığın Sağlanması ve Bilgilendirme ile Faturalara İlişkin Usul ve Esaslar
+Şeffaflığın 12. (1) Haberleşme sağlayıcılar, sundukları elektronik haberleşme
+Sağlanması hizmetlerinin kapsamı, bu hizmetlere erişim, hizmetler
+ve kapsamındaki tarife, paket ve uygulamalar, bunların kullanımı
+Bilgilendirmeler ve şartları, ücretleri ve ücretlendirme periyodu (kontör atış
+
+periodu) ile ilgili olarak; gerekli tüm bilgileri talep olmaksızın
+tüm kullanıcı, tüketici ve abonelere sunmak ve asgari olarak
+internet sitelerinde yayımlamak suretiyle tüm kullanıcı, tüketici
+ve abonelerin bilinçli seçim yapabilmelerini temin etmek için bu
+bilgilere kolayca ulaşılabilmesini sağlamakla yükümlüdürler.
+
+(2) Hizmet Kalitesi, Hizmetin Kısıtlanması ve Durdurulması ile
+İlgili Bilgilendirmeler ve Ek Kurallar:
+
+(A) Haberleşme sağlayıcıların mücbir sebepler haricinde
+tüketicilere kesintisiz olarak hizmet sağlaması esastır.
+
+(B) (a) Uluslararası dolaşım kullanımları ve/veya haberleşme
+sağlayıcının kontrolü dışında oluşabilecek durumlar
+hariç olmak üzere, kullanım limiti bulunan veya
+haberleşme ( sağlayıcının — elektronik haberleşme
+hizmetini durdurması veya kısıtlaması gereken
+hallerde hizmetin durdurulmaması veya
+kısıtlanmamasından dolayı oluşabilecek tutarlardan
+abone sorumlu olmayacaktır.
+
+(b) Kullanım limiti bulunan veya haberleşme sağlayıcının
+elektronik haberleşme hizmetini durdurması veya
+kısıtlaması gereken hallerde abonenin yurtdışında
+veya uluslararası dolaşımda olduğunun tespiti halinde
+haberleşme sağlayıcı ivedilikle aboneye bilgi vererek
+hizmetin durdurulmaması veya kısıtlanmamasından
+dolayı oluşabilecek tutarlardan abonenin sorumlu
+olacağını bildirmekle yükümlüdür.
+
+[SAYFA 10]
+2910
+
+(C) Haberleşme sağlayıcılar, hizmetin kullanımının olağan
+düzeyin çok üzerinde olduğunu tespit etmesi veya hukuka
+aykırı ve hileli bir durumun varlığına dair kuvvetli
+delillerin olması halinde aboneye bilgi vermek suretiyle
+abonenin kimliğinin odoğrulanmasına kadar hizmeti
+kısıtlayabilir veya geçici olarak durdurabilir,
+
+(Ç) (a) Hangi bağlantı şekli ve/veya cihaz üzerinden olursa
+olsun internet kullanımına ilişkin hizmet veren
+
+09.05.2014 haberleşme sağlayıcılar Yetkilendirme,
+R.G, 111 Numaralandırma ve Spektrum Tüzüğü ile belirlenen
+EK III hizmet kriterleri kapsamında taahhüt ettikleri
+A.E, 295 bağlantı hızı ve özelliklerini aboneye sunmak
+
+zorunda olup abonelik sözleşmeleri ve internet
+sitelerinde bu bağlantı hızı ve özelliklerine dair
+bilgilere yer vermekle yükümlüdürler,
+
+(b) Haberleşme sağlayıcılar mücbir sebepler haricinde
+taahhüt edilen edimi sunamamaları halinde aboneye
+hizmet (o verilemeyen (o tutarı iade O etmekle
+yükümlüdürler.
+
+(D) Haberleşme sağlayıcıların verdiği hizmetlere dair
+tüketiciler nezdinde bulunan numara, hat, hizmet
+numarası ve benzeri tesisatların tüketiciler arasında
+devredilmesi veya haberleşme sağlayıcının doğrudan
+aboneden devir alması halinde devredilen hizmet/tesisat
+üzerinde aktif hiçbir tarife, paket, abonelik, talimat ve
+benzeri uygulama bulunmamalıdır. Aksi uygulamalar
+neticesinde doğabilecek kullanım bedellerinden hizmeti
+devralan tüketici sorumlu tutulmaz.
+
+(E) Haberleşme sağlayıcılar, abonelik sözleşmeleri ve internet
+sitelerinde yayımladıkları çağrı merkezi veya müşteri
+hizmetleri numarası veya benzeri numaraları her zaman
+çalışır durumda bulundurmakla ve Yetkilendirme,
+Numaralandırma ve Spektrum Tüzüğü ile belirlenen gün
+ve saatlerde erişilebilir olmakla yükümlüdürler.
+
+(F) (a) Haberleşme sağlayıcı tarafından tüketiciye cihaz
+sağlanmasını: içeren taahhütlerde cihazın kusurlu
+olmasından ilgili (haberleşme sağlayıcı sorumlu
+olacaktır.
+
+(b) Haberleşme sağlayıcıların, bir abonenin belli bir
+hizmetten yararlanması için kurulumunu yaptığı
+teknik ekipman, cihaz veya donanımda haberleşme
+sağlayıcıdan kaynaklı bir nedenle değişiklik gerekmesi
+halinde haberleşme sağlayıcı bunu ücretsiz olarak
+gerçekleştirmekle yükümlüdür,
+
+(G) (a) Haberleşme sağlayıcılar hizmetleri devam ederken
+altyapı, santral ve/veya çağrı merkezi gibi müşterinin
+etkilenebileceği alanlarda bakım ve/veya onarım
+çalışmaları yapmayı planlamaları halinde veya teknik
+sebeplerin varlığı dolayısıyla 2 (İki) saat ve üzerinde
+
+[SAYFA 11]
+2911
+
+genel veya bölgesel bir hizmet kesintisi olmasının
+beklendiği çalışmalarını en az yoğun kullanılan
+zamanlarda gerçekleştirmekle yükümlüdürler,
+
+(b) Yapılacak çalışmanın bakım ve/veya onarım gibi planlı
+olması halinde tüketicileri kesintiden en az 12 (Oniki)
+saat önce ve asgari olarak aşağıdaki başlıklar hakkında
+bilgilendirmekle yükümlüdürler:
+
+i. Çalışmanın amacı,
+il. Başlangıç ve bitiş saati,
+iii. Etkilenecek bölgeler,
+iv. Varsa olası riskler ve benzeri konular,
+
+(e) Haberleşme sağlayıcılar yapacakları çalışma ile ilgili
+bilgilendirmelerini alınan elektronik haberleşme
+hizmeti üzerinden veya tüketicinin bildirdiği iletişim
+bilgileri üzerinden veya toplu iletişim mecrası
+kullanarak veya internet siteleri üzerinden duyurınakla
+yükümlüdürler.
+
+(Ğ) Bu Tüzük kapsamında hizmet kalitesine dair kural
+bulunmayan hallerde Yetkilendirme, Numaralandırma ve
+Spektrum Tüzüğü'nün ilgili hükümleri ile bu tüzüğe ekli
+Birinci Cetvel uyarınca belirlenen hizmet kalitesi ölçütleri
+uygulanacaktır.
+
+(H) Haberleşme sağlayıcılar mücbir sebepler haricinde
+hizmet sunamamaları halinde;
+
+(A) Aboneden, hizmet verilemeyen döneme âit her ne ad
+altında olursa olsun sabit ücret veya benzeri ücret
+talep edemezler;
+
+(B) Belirtilen döneme ait önceden tahsil edilen tutarın
+olması halinde iade etmekle ve/veya tazmin etmekle
+yükümlüdürler,
+
+3) Tüketici Şikâyetlerine İlişkin Bilgilendirmeler ve Ek Kurallar:
+
+(A) Haberleşme (sağlayıcılar, tüketici şikâyetlerinin hızlı,
+şeffaflık ilkelerine uygun ve etkin çözümünü temin etmek
+adına kendi bünyelerinde tüketici şikâyetleri o çözüm
+mekanizmaları olusturmakla yükümlüdürler.
+
+«P) Tüketici şikâyetleri, şikâyete muhatap haberleşme sağlayıcı
+tarafından şikâyete sunulan çözüm ve cevaplar ile birlikte
+kayıt altına alınır ve istenmesi halinde Kurum incelemesine
+sunulmak üzere asgari olarak 5 (Beş) yıl boyunca saklanır.
+
+(C) (a)Haberleşme sağlayıcılar, Yetkilendirme, Numaralandırma
+ve Spektrum Tüzüğü ile belirlenen şartlar ve süreler
+doğrultusunda kendilerine iletilen şikâyetleri çözmekle
+yükümlüdürler.
+
+[SAYFA 12]
+(Ç)
+
+2912
+
+(b) Tüketici tarafından haberleşme sağlayıcıya iletilen
+şikâyetlerde bu husus tüketiciye belirtilir. Şikâyet
+çözümünün 36 (Otuzaltı) saati geçeceği durumlarda
+tüketici alınan elektronik haberleşme hizmeti üzerinden
+veya tüketicinin bildirdiği iletişim bilgileri üzerinden
+bilgilendirilir.
+
+(c) Her bir ara bilgilendirme, takip eden 24 (Yirmidört)
+saatlik süreyi kapsayacak olup bu sürelerin bitiminde
+tekrar bilgilendirme yapılması zorunludur. Ancak ara
+bilgilendirmeler 3 (Üç) defadan fazla yapılamaz.
+
+(a) Tüketicinin ilettiği şikâyet hususunda haklı olduğunun
+anlaşılması ve bunun sonucunda haberleşme sağlayıcı
+tarafından tüketiciye para iadesi ve/veya tazminat
+ödemesi yapılması gereken hallerde haberleşme
+sağlayıcı, bu durumun tüketiciye iletilmesini takip eden
+3 (Üç) iş günü içerisinde ilgili iade ve/veya ödemeyi
+yerine getirmekle yükümlüdür.
+
+(b) Yapılan iade ve/veya ödemeye ilişkin bilgilendirme iade
+ve/veya ödemenin yapılmasını takiben tüketiciye iletilir,
+
+(D) (a) Kurum, haberleşme sağlayıcı tarafından tutulan tüketici
+
+şikâyetlerini inceleyebilir ve ilgili şikâyetlerin tüketici
+mağduriyetine yol açtığına kanaat getirmesi halinde daha
+kapsamlı düzenleme ve denetlemeler yapabilir.
+
+(b) Bu denetlemeler neticesinde şikâyet edenler dışında da
+tüketici mağduriyetinin ortaya çıktığı tespit edilirse
+Kurum, mağdur olan tüm tüketicilerin zararlarının
+tazmin edilmesine karar verebilir.
+
+(4) Haberleşme sağlayıcılar, elektronik haberleşme hizmetlerinden
+yararlanan tüm kullanıcı, tüketici ve abonelere aşağıda sıralanan
+hakları sunraakla yükümlüdürler;
+
+(A) Benzer konumdaki tüketicilerin hizmetlere eşit şartlarda
+
+(B)
+
+(©)
+
+(Ç)
+
+erişebilme ve ayrım gözetmeyen adil ücretlerle
+hizmetlerden yararlanma hakkının sunulması,
+
+Tüketicilerin elektronik o haberleşme hizmeti sunan
+haberleşme sağlayıcılarla abonelik sözleşmesi yapabilme
+hakkının sunulması,
+
+Abonelerin kişisel verilerinin kamuya açık rehberlerde yer
+alıp almamasını talep etme hakkının sunulması,
+
+Rehber hizmetinden ücretli veya ücretsiz yararlanma ve
+ayrım gözetilmeksizin kaydolma hakkının sunulması,
+
+[SAYFA 13]
+2913
+
+(D) Acil arama hizmetleri hakkında bilgilendirilme ve bu
+hizmetlere ücretsiz erişebilme hakkının sunulması,
+
+(E) Abonelerin ayrıntılı fatura talep edebilme hakkının
+sunulması,
+
+(F) İşletmecinin sunacağı elektronik haberleşme hizmetinin
+kapsamı hakkında bilgi alabilme hakkının sunulınası,
+
+(G) Abonelere sunulan hizmet için uygulanacak tarifeler
+konusunda açık, detaylı ve güncel bilgilere erişebilme
+hakkı ile tarifelerdeki değişiklikler yürürlüğe girmeden
+önce bilgilendirilme hakkının sunulması,
+
+(Ğ) Abonelerin katma değerli elektronik haberleşme hizmetleri
+de dâhil olmak üzere kısa mesaj, çağrı merkezi, internet ve
+benzeri (o yöntemlerle (o katıldıkları kampanya, tarife
+kapsamındaki tüm hizmetlerden başvurduğu yöntem ya da
+basit bir yöntem ile vazgeçme hakkının sunulması,
+
+(H) Arızaların giderilmesinde, sağlık, yangın, afet, güvenlik ve
+benzeri acil durum ve güvenlikle ilgili kurum ve kuruluşlar
+dışında, benzer konumdaki tüketiciler arasında ayrim
+
+gözetmeme temelinde bir uygulamayı talep etme hakkının
+sunulması,
+
+(I) Uluslararası standartlar ile Kurumun belirleyeceği
+standartlara uygun kalitede hizmetten yararlanma hakkının
+
+sunulması.
+Faturalara 13. (1) (A) Haberleşme sağlayıcılar, bir abonelik sözleşmesi kapsamında
+İlişkin Esaslar sundukları hizmetler için yürürlükteki yasal düzenlemelere
+
+uygun olarak fatura düzenlemek zorundadırlar.
+
+(B) Haberleşme sağlayıcı tarafından aboneye gönderilecek
+faturanın ulaştırılacağı adres, abone tarafından elektronik posta
+adresi olarak belirtilmiş ise elektronik posta yolu ile gönderilir.
+
+(C) Abone tarafından faturanın ulaştırılacağı adresin elektronik
+
+posta adresi olarak belirtilmemesi halinde fatura, posta yoluyla
+gönderilir.
+
+(2) Hangi yöntemle olursa olsun;
+(A) Bireysel bir aboneye gönderilecek faturaların ilgili fatura
+dönemine ait son ödeme tarihinden en fazla 3 (Üç) gün önce
+“aboneye gönderilmesi gerekir.
+
+(B) Kurumsal bir aboneye gönderilecek faturaların ilgili fatura
+dönemine ait son ödeme tarihinden en fazla 5 (Beş) gün önce
+aboneye gönderilmesi gerekir.
+
+(C) Haberleşme sağlayıcılar bu maddenin Vinci fıkrası uyarınca
+göndereceği fatura yöntemi yanında, son ödeme tarihinden en
+
+|
+
+[SAYFA 14]
+2914
+
+az 7 (Yedi) gün önce abonenin hizmet aldığı kanal üzerinden
+erişilebilir en kolay yöntem ile veya kısa mesaj veya elektronik
+posta ile ilgili faturaya ilişkin asgari olarak fatura dönemi,
+fatura tutarı ve son ödeme tarihini içeren bilgiyi abonelerine
+iletmelidirler.
+
+(3)(A) Haberleşme sağlayıcılar bedelsiz olarak veya maliyetiyle
+orantılı olmak koşuluyla ücretlendirerek abonelere ilave
+seviyelerde ayrıntılı fatura sunabilirler.
+
+(B) Abonenin tarife ve/veya paketi kapsamında gerçekleştirdiği ve
+detay faturasında 0 (Sıfır) olarak gösterilen aramalar hariç
+olmak üzere, yardım hatlarına yapılan çağrılar dahil arayan
+abone için ücretsiz olan aramalar arayan abonenin dökümlü
+veya ayrıntılı faturasında yer almaz.
+
+(4) Aboneler fatura alma yöntemleri ve fatura detaylarına dair
+tercihlerini her zaman ve herhangi bir ek maliyete tabi olmaksızın
+değiştirme hakkına sahiptirler.
+
+(5) (A) Haberleşme sağlayıcılar, abonelerinin faturalarını ödememeleri
+durumunda, sundukları elektronik haberleşme hizmetinin
+kesilmesinden en az 2 (İki) gün öncesine kadar hizmetin
+sonlandırılacağına ( ilişkin Obeyanını, alınan elektronik
+haberleşme hizmeti üzerinden veya abonenin bildirdiği iletişim
+bilgileri üzerinden aboneye bildirmekle yükümlüdürler.
+
+(8) Haberleşme sağlayıcı tarafından yapılacak bildirimde,
+ödenmeyen faturalara ilişkin olarak; dönem, bedel ve hizmet
+kesintisinin ne zaman başlayacağı ile ilgili gerekli bilgiler
+verilir.
+
+(C) Haberleşme sağlayıcısı sahtecilik, ısrarlı geç ödeme veya hiç
+ödeme yapmama durumları hariç, teknik bakımdan mümkün
+olduğu kadar, herhangi bir hizmet kesintisinin yalnızca ilgili
+hizmetle sınırlı olmasını «221...
+
+(Ç) Aboneliğin sona erme halleri haricinde, abone tarafından
+ödeme - yapılmasının ardindan haberleşme sağlayıcının
+ödemeyi almasını takip eden en geç 2 (İki) saat içerisinde
+kısıtlanan veya durdurulan hizmetin sunumuna devam
+edilmesi zorunludur.
+
+(D) Herkesçe kullanılabilir telefon hizmetlerini sunan haberleşme
+sağlayıcılar, çağrı başlatma hizmet kesintisinin başlama
+tarihinden itibaren en az | (Bir) ay boyunca, abonenin hizmeti
+kesilen hat üzerinden acil aramalara yönelik çağrı
+başlatmasına izin verir ve çağrı sonlandırma hizmetlerini
+sunmaya devam ederler,
+
+[SAYFA 15]
+291
+
+Un
+
+(6) (A) Abone tarafından fatura bedelinin ödenmemesi halinde, ilgili
+haberleşme sağlayıcı borcun takibi için yasal işlemleri
+başlatmadan en az 30 (Otuz) gün önce tüketiciyi son kez
+uyarır.
+
+(B) (a) Haberleşme sağlayıcının yapacağı son uyarı, bu Tüzüğür
+Yuncu maddesinin (2)'nci fıkrasının (A), (B) ve (C)
+vendlerinde belirtilen kanallardan en az biri kullanılarak
+gerçekleştirilecektir.
+
+(b) Uyarıda, borcun uyarı tarihinden itibaren ne kadar siire
+içinde ve/veya hangi tarihe kadar ödenmesi gerektiği ve
+ödenmemesi halinde ise yasal takibe başlanacağı bilgisi
+açıkça belirtilmelidir.
+
+(7) Haberleşme sağlayıcılar hazırlayacakları faturalarda hangi hizmete
+ve/veya yasal gerekliliğe dair hangi ücretlendirmelerin yapıldığını
+anlaşılır bir biçimde ve her ücretlendirme kalemini ayrı ayrı
+göstermek zorundadırlar,
+
+(8) Haberleşme sağlayıcılar, gerekli güvenlik önlemlerini almak
+kaydıyla abonelerin en az 6 (Altı) ay öncesine kadar eski
+faturalarına dair bilgilerine internet veya haberleşme sağlayıcının
+kendi belirleyeceği bir yöntem üzerinden ulaşabilmelerini temin
+ederler..
+
+(9) Haberlesme sağlayıcılar bu maddenin (IY'inci fıkrası uyarınca
+hazırlayacakları faturalarda asgari olarak aşağıdaki: bilgilere yer
+vermek zorundadırlar;
+
+(A) Faturanın ait olduğu ilgili dönem, fatura kesim tarihi ve son
+ödeme tarihi,
+
+(B) Abone olunan tarifenin adı ve içindeki ücretler, varsa dönem
+içerisinde tarifede yapılan değişiklikler, satın alınan ek paket
+ve kampanyalar,
+
+(C) Faturada yer verilen ancak birden fazla kullanım ve/veya
+hizmeui ve/veya servisi içeren genel başlıkların tanımları,
+
+(Ç) Cihaz ve'veya kullanım taahhütlü tarife kullanan aboneler içiti
+bu tarife içeriği ile tarifenin bedeline dair yapılan ve ayrı ayrı
+belirtilecek olan ücretlendirme kalemleri, tarife aşımı ha'ınde
+ilgili kullanımlara dair ücretlendirmeler,
+
+(D) Sabit ücret, varsa diğer aylık ücretler, tek seferlik alınan
+bağlantı ücreti ve benzeri ücretler, hizmet üzerinden alınan
+vergi ve diğer yasal kesintiler,
+
+(E) Ücretlendirme periyotları,
+
+[SAYFA 16]
+2916
+
+(F) Kullanılan her bir farklı hizmetin toplam ücretlendirme
+kalemleri,
+
+(G) Son ödeme tarihinden sonra ödenen faturalar için bir önceki
+
+dönemde geç ödenen faturaya uygulanmış gecikme faizi oranı
+ve tutarı,
+
+(Ğ) Son ödeme tarihini aşan ödemeler için uygulanan genel
+gecikme faizi tutarı,
+
+(H) Bir sonraki fatura dönemi, kesim tarihi ve son ödeme tarihi
+bilgileri.
+
+(10) Kurumsal bir abonenin hat veya hatlarına ait özet fatura veya özet
+tablo talebinin bulunması halinde haberleşme sağlayıcı, toplam
+fatura tutarını gösterir bir içerik hazırlanabilir. Ancak her
+halükarda bu aboneye ait herbir hattın aylık faturaları haberleşme
+sağlayıcının sisteminde bulunmak zorundadır,
+
+(11) Abone talebi üzerine haberleşme sağlayıcılar tarafından
+hazırlanacak ayrıntılı faturalar bu maddenin 9’uncu fıkrasında
+belirtilen bilgilere ek olarak verilen hizmete uygun olduğu
+ölçüde aşağıdaki bilgileri de içermek zorundadır:
+
+(A) Aranan her numara, numaranın ait olduğu haberleşme
+sağlayıcı, haberleşme sağlayıcı bilinmiyorsa “diğer” ifadesi,
+
+(B) Aramanın yapıldığı tarih ve saat ile arama yöntemi,
+
+(C) Her bir arama için arama süresi ve ilgili aramaya dair
+ücretlendirme ile toplam arama sayısı ve toplam konuşma
+süresi,
+
+(Ç) Uygun olduğu ölçüde veri iletim yöntemi, veri aktarımının
+boyutu, ve ücreti,
+
+(12) (A) Abonelere ait faturalaa bilgisi bulunan sabit veya mobil
+telefon hizmeti sunan haberleşme sağlayıcıları ile bu
+şebekeler üzerindeki abonelere hizmet veren diğer
+
+- haberleşme sağlayıcıları arasında, abonenin birden fazla
+fatura almasını önlemek amacıyla, aboneye ek yük
+getirmeyecek şekilde faturalama anlaşması yapılabilir ve
+abonenin aksi yönde beyanı bulunmaması halinde aboneye
+tek fatura gönderilebilir.
+
+(B) Aboneye tek fatura gönderilmesi halinde faturada, bu
+maddenin (9Yuncu ve (10)’uncu fıkralarında belirtilen
+hususlar her haberleşme sağlayıcı için ayrı ayrı gönderilir.
+
+[SAYFA 17]
+2917
+
+(13) Buradaki düzenlemeler haricinde aboneye gönderilen fatura,
+kullanım, tutar ve benzeri bilgiler bu madde kapsamında
+düzenlenen fatura düzenleme yükümlülüklerini hiçbir şekilde
+ortadan kaldırmaz.
+
+(14) Faturanın oluşturulması ve aboneye iletilmesi ile ilgili tutarlar
+aboneye yansıtılamaz.
+
+DÖRDÜNCÜ KISIM
+Tarife, Kampanya, Hizmet ve Tüketici Şikâyetlerine İlişkin Esaslar
+
+Tarifeler ile İlgili 14. (1) Haberleşme sağlayıcı tarafından aboneye yansıtılacak hizmete
+
+Genel Kurallar ilişkin ücretlendirme ancak hizmetin fiilen aboneye sunulması ile
+başlar ve hizmetin fiilen sunulmasından önce aboneye herhangi
+bir ücret yansıtılamaz. a
+
+(2) (A) Haberleşme sağlayıcılar abonelerine sundukları tarifelerle ilgili
+bilgilere internet sitelerinde yer verirler. Bu bilgilendirmelerde
+asgari olarak aşağıdaki kriterler bulunur:
+
+(a) Tarifenin içeriği,
+
+(b) Yararlanabilecek hedef kitle,
+
+(c) Tarife Bedeli,
+
+(ç) Abonenin tarifeye nasıl katılabileceği.
+
+(B) Haberleşme sağlayıcılar, tarife veya paketlerin ücretlendirme
+periyodu hakkinda abonelerini ve/veya kullanıcıları
+bilgilendireceklerdir.
+
+(3) Haberleşme sağlayıcı normal tarife fiyatlandırmasının farklılaştığı
+hizmetler için farklı ücretlendirme yapılmasının öngörülmesi
+halinde abonenin hizmeti onaylanmasından önce ücret bilgisini
+aboneye iletmekle yükümlüdür.
+
+Yeni Tarifelerin 15. (1) Erişim, Ara Bağlantı, Piyasa Analizi ve Tarifeler Tüzüğü'nün ,
+
+Kamuoyuna 1'üncü madde kuralları saklı kalmak koşulu ile haberleşme
+Duyurulması sağlayıcılar, yeni tarifelerini yürürlüğe koymaları halinde ilgili
+= “ tarifeyi asgari olarak yürürlülük ile aynı gün internet sitelerinde —
+ç 4.03.2014 gf yayımlamak ve kanıuoyuna duyurmakla yükürnlüdürler,
+R.G.$I. .
+EK I (2) (A) Tarifeler, ilgili hizmetin özellikleri ve kuralları ile birlikte
+A.E. 157 kullanıcıların kolayca anlayabileceği şekilde ilan edilmelidir.
+
+(B) Tarifelerin duyurusu ve bilgilendirmesinde kullanıcıları
+aldatıcı, yanıltıcı ve/veya tecrübe ve bilgi noksanlıklarını
+istismar edici ifade ve içerikler kullanılamaz.
+
+[SAYFA 18]
+Tarife
+Değişiklikleri
+
+16. (1) (A)
+
+(B)
+
+2918
+
+Haberleşme sağlayıcılar tarife paketinin içeriği ve/veya
+ücretinde yapılacak değişikliklerde aboneyi ilgili değişiklik
+yürürlüğe girmeden en az 7 (Yedi) gün önce, alınan
+elektronik haberleşme hizmeti üzerinden veya abonenin
+bildirdiği iletişim bilgileri üzerinden kısa mesaj, arama
+ve/veya posta yolu ile bilgilendirmek zorundadır.
+
+Yapılan tarife değişiklikleri ayrıca haberleşme sağlayıcının
+internet sitesinde tüketicilerin kolay erişebilecekleri şekilde
+yayımlanır,
+
+(2) (A) Tarife değişikliği yapılmasının abone tarafından talep
+
+(B)
+
+edilmesi durumunda, değişikliğin yürürlüğe gireceği tarih
+abone tarafından talep belgesinde aksi belirtilmediği sürece
+mobil haberleşme sağlayıcılar tarafından alınan haberleşme
+hizmeti üzerinden kısa mesaj veya e-posta, diğer
+haberleşme ( sağlayıcılar tarafından alınan elektronik
+haberleşme hizmeti üzerinden arama veya abonenin kayıtlı
+e-posta veya diğer iletişim adresine ulaşılmak vasıtasıyla
+aboneye bildirilir.
+
+Değişiklik talebinin gerçekleştiği bilgisi veya değişikliğin
+gerçekleşmemesi durumunda ise gerçekleşmeme nedeni
+
+yine bu maddede belirtilen (yöntemlerle aboneye
+bildirilmelidir.
+
+(C) Haberleşme sağlayıcılar, belge ibrazı gereken tarifeler hariç
+
+olmak üzere abonenin mevcut tarifesini haberleşme
+sağlayıcının internet sitesi üzerinden değiştirebilmesine
+ilişkin imkân sunmak zorundadırlar.
+
+(3) Abone, cihaz taahhütleri hariç olmak üzere kullanmakta olduğu
+tarifeye göre daha yüksek bedelli bir tarifeye geçmek istemesi
+halinde mevcut tarifesinden caymış sayılmaz ve bu halde hiçbir
+
+ad altında haberleşme sağlayıcı aboneden cayma bedeli talep
+“edemez.
+
+[SAYFA 19]
+Tarife ve/veya
+Paket Kotası
+ile
+
+Tarifelere İlişkin
+
+Ek Kurallar
+
+Kotaları
+Uyarınca
+Abonelerin
+Bilgilendirilmesi
+
+17.(1)
+
+(2)
+
+2919
+
+(A) Haberleşme sağlayıcılar. kotası bulunan tarife veya paketlerde
+kotanın aşılması halinde uygulanacak aşım bedelini önceden
+belirlenmek ve bu Tüzüğün 15'inci maddesinin (2)'nci
+fıkrasında belirtilenlere ek olarak abonenin bilgisine getirmek
+zorundadırlar.
+
+(B) İnternet bağlantısı devam ederken kotanın aşılması halinde,
+mevcut internet bağlantısının sona erdirilip yeniden bağlantı
+yapılmasına ayrıca ihtiyaç duyulmadan ve/veya aboneden
+ayrıca onay alınmasın gerek bulunmadan doğrudan aşım bedeli
+uygulanır,
+
+Taahhütlü bir tarife kullanan tüketiciler istedikleri zaman abonelik
+ilişkisini sona erdirme hakkına sahip olup, haberleşme sağlayıcı
+ile abone arasında yapılan taahhüt sözleşmesine göre, bu hallerde
+haberleşme (sağlayıcı tarafından tüketiciye cayma bedeli
+yansıtılabilir.
+
+(3) Cayma bedeli, sona erme süresine kadar taahhüt kapsamında
+
+(4)
+
+6)
+
+18. (1)
+
+sağlanan toplam indirimler ile taahhüt kapsamında kalan süreye
+dair toplam bedellerin hangisinin tutarı tüketici için daha avantajlı
+ise ilgili tutardan daha yüksek olamaz.
+
+Haberleşme sağlayıcı tarafından tüketiciye cihaz sağlanmasını
+içeren taahhütlerde, taahhüt kapsamında yapılan o toplam
+indirimlere cihaz bedeline dair yapılan indirimler de dahildir.
+
+(A) Taahhüt kapsamında tüketicilere sunulan ve cayma bedeline
+konu olan cihaz bedellerinin, indirimlerin ve sağlanan diğer
+faydaların ( taahhütnamenin yürürlüğe cirdiği *orihteki
+bedelleri ve taahhüt veritmesi sebebiyle sağlanan ek
+faydaların tutarları taahhüt içerisinde açıkça görülebilecek
+biçimde, koyu harflerle ve en az oniki punto büyüklüğünde
+yazılmalıdır.
+
+(B) Haberleşme sağlayıcılar, yukarıdaki fıkrada belirtilen şekli ile
+taahhütname örneklerini, yürürlüğe giriş ve yürürlükten
+kalkış tarihlerine kadar internet sitelerinde kolay erişilebilir
+şekilde muhafaza etmekle yükümlüdürler,
+
+Verilen hizmete dair her bir kullanım kalemi tarifede belirtilen
+kullanım kotalarının yüzde $0'ine ulaştığında, tüketicinin bu
+bilgiyi almak istemediğini haberleşme sağlayıcıya ilettiği haller
+haricinde, haberleşme sağlayıcı tüketiciyi alınan elektronik
+haberleşme hizmeti üzerinden veya tüketicinin bildirdiği iletişim
+bilgileri üzerinden bilgilendirir.
+
+[SAYFA 20]
+Kullanım Limiti
+
+Hizmetin
+Yurtdışında
+Kullanımı ve
+
+(2)
+
+2920
+
+(A) Internet kullanimina iliskin hizmet veren haberlesme
+sağlayıcılar (o tüketicinin kullanmakta Olduğu tarife
+içeriğindeki internet kotasının dolması halinde devam eden
+bir bağlantı var ise tüketicinin kullandığı tarifenin aylık
+bedelinin %20 (Yüzde Yirmi)'si bedele kadar hizmet
+kesilmeden, haberleşme sağlayıcı tarafından duyurulan
+paket aşım tarifesi üzerinden ücretlendirme yaparlar.
+
+(B) Yukarıda bahsi geçen kotanın dolması anında devam eden
+bir bağlantı olmaması durumunda veya devam eden
+bağlantılarda bağlantı kesildikten sonraki ilk yeni
+bağlantıda kotanın dolduğu, kullanıma hangi koşullar
+üzerinden devam edilebileceği ve benzeri bilgiler tüketiciye
+gönderilerek (o tükeüciden kullanıma devam edilmesi
+hakkında onay alınması zorunludur.
+
+19. (1) Abone fatura kontrolü sağlayabilmek amacıyla ve faturaya
+
+2
+
+yansıyan dönemsel nitelikteki sabit ücretler toplamından az
+olmamak kaydıyla, hizmet aldığı haberleşme sağlayıcıya
+başvurarak aldığı elektronik haberleşme hizmetine kullanım
+limiti konmasını talep edebilir.
+
+Haberleşme sağlayıcılar, kullanım limiti talebinde bulunan
+abonelere talebin haberleşme sağlayıcı tarafından yerine
+getirilmesinden hemen sonra alınan haberleşme hizmeti
+üzerinden kısa mesaj, diğer haberleşme sağlayıcılar tarafından
+alınan elektronik haberleşme hizmeti üzerinden arama veya
+abonenin kayıtlı e-posta veya diğer iletişim adresine ulaşılmak
+vasıtasıyla kullanım limitinin aşılması halinde uygulanacak
+bedeller ile ilgili bilgiyi iletmekle yükümlüdürler.
+
+(3) Abonenin kullanmakta olduğu haberleşme hizmetinde kullanım
+
+Bilgilendirme *,; | -
+
+limiti bulunuyor ise, limitin dolması halinde haberleşme
+sağlayıcı elektronik haberleşme hizmetini durdurmak veya
+kısıtlamakla yukümlüdür.
+
+"20. (1) Haberleşme sağlayıcılar, mobil hizmetlerden yararlanan bir
+
+abonenin yurtdışında olduğunu tespit etmesi halınde ve yurt
+digiida yapılacak kullanımların yurt içi kullanımlarından daha
+yüksek bir terife ile ücretlendirilmesi gerekiyor ise abonenin
+hattına bu bilgiyi asgari olarak kısa mesaj ile ileterek
+bilgilendirmekle yükümlüdürler.
+
+Abonenin uluslararası dolaşım hizmetinden yararlanması
+durumunda mobil telefon hizmeti sunan haberleşme sağlayıcılar,
+asgari olarak ses ve kısa mesaj hizmetini kapsayan uluslararası
+tarife bilgisini ücretsiz olarak aboneye kısa mesajla bildirmekle
+yükümlüdürler .
+
+[SAYFA 21]
+Kampanya,
+Tarife ve Tanıtım
+İçerikli
+Reklamlarda
+Uygulanacak
+Usuller
+
+2921
+
+(3) (A) Uluslararası dolaşım kapsamında, ilgili ülkede sunulan bir
+
+DAT
+
+2)
+
+(3)
+
+tarife teklifinin olması halinde haberleşme sağlayıcı asgari
+olarak teklifin içeriği, nasıl yararlanılabileceği ve fiyatı ile
+ilgili bilgi içeren kısa mesajı abonesine gönderir.
+
+(B) Belirtilen bu teklifin yurtiçi ve yurtdışı fark etmeksizin
+kullanılabilmesi halinde ve şayet teklifin gönderildiği abone
+de ilgili paket veya tarifeden halihazırda yararlanıyor ise
+kısa mesajın içeriğinde tüketicinin tekrar talep etmesinin
+gerekmediği açıkça belirtilmelidir.
+
+Haberleşme sağlayıcılar, tüketicilere yönelik olarak yapacakları ve
+yayımlayacakları kampanya. tarife ve tanıtım içerikli reklamlarda
+şeffaflık ilkelerine uyarak tüketicilerin bilgilendirilmelerini temin
+etmekle yükümlüdürler.
+
+Haberleşme sağlayıcılar basılı ve görsel yayın mecralarını
+kullanarak gerçekleştirecekleri reklam, tanızım ve/veya yayınlarda
+tüketicileri, açık ve anlaşılabilir bir şekilde ve ayrıntılı olarak
+bilgilendirmekle ve duyurularında asgarı olarak aşağıdaki
+kriterleri bulundurmakla yükümlüdürler:
+
+(A) Kampanya/Tarife içeriği,
+
+(B) Yararlanabilecek hedef kitle,
+
+(C) Ücretlendirme,
+
+(Ç) Kampanyaya nasıl katılabileceği.
+
+Basılı ve görsel yayınlarda yayımlanan kampanya, tarife ve tanıtım
+detayları herkesçe okunabilecek boyutta olmalıdır.
+
+(4) (A) Kampanya ve tarife teklifleri devam ettiği süre boyunca,
+
+başlangıç- bitiş tarihleri ve çıkma koşulları da dahil olmak
+üzere diğer tüm ayrıntılı bilgiler haberleşme sağlayıcıların
+internet sitelerinde tüketicilerin kolaylıkla erişebilecekleri
+şekilde yayımlanır.
+
+(B) Bitiş tarihi belli olmayan tarife ve/veya kampanyalarda
+başlangıç tarihi internet sitesinde yayımlanarak bitiş tarihi
+yerine (-Mkesme işareti) konarak hemen altında, aşağıdaki
+ibareye ver verilmelidir: ,
+
+(-} Kampanya/Tarife bitiş tarihi, kampanya/tarifeden
+yararlanan tüm tüketicilere en az 15 (Onbeş) gün önce
+aldıkları elektronik haberleşme hizmeti üzerinden ve ayrıca
+internet (web) sitesinde yayımlanmak sureti ile bilgi
+verilecektir.”
+
+[SAYFA 22]
+2922
+
+(5) (A) Haberleşme sağlayıcılar, taahhüt ettikleri tüm edimleri
+
+zamanında, tam ve gereği gibi yerine getirmekle
+yükümlüdürler,
+
+(B) Haberleşme sağlayıcıların taahhüt ettikleri edimlerde veya
+kampanya şartlarında değişiklik olması halinde, bu
+değişikliklerin etkili kitlesel haberleşme araçları aracılığı ile
+değişikliğin gerçekleşmesinden en az 3 (Üç) gün önce
+duyurmakla yükümlüdürler.
+
+(C) Kampanya/tarife içeriğinde değişiklik yapılması halinde
+tüketicilerin kazanılmış hakları saklıdır.
+
+(6) (A) Kullanılacak slogan ve benzeri ibareler anlaşılır olmalı
+yanıltıcı, abartılı, haksız rekabste yol açan, diğer
+haberleşme sağlayıcıların hizmetlerini kötüleyen ve/veya
+aşağılayan içerikler kullanılmamalıdır.
+
+(B) İçeriklerinde bulunan nesnel, ölçülebilir, sayısal verilere
+dayanan iddiaların; bilimsel test, rapor veya belgelerle
+ispatlanabiliyor olması zorunludur.
+
+(7) Kampanya, tarife ve tanıtım içerikli reklamlar dahilinde
+kullanılacak içeriklerde yer alan abone sayılarına ilişkin verilerde
+sadece aktif abone sayısına yer verilmelidir. Aktif olmayan abone
+sayısı ancak bu husus açıkça belirtilmek suretiyle verilebilir.
+
+(8) Haberleşme sağlayıcı, kampanya/tarife kapsamında taahhüt ettiği
+edimler ile ilgili olarak herhangi bir abonenin mağdur olduğunu
+tespit edilmesi halinde kampanyadan yararlanan ve benzer şekilde
+etkilenen tüm abonelerin mağduriyetini gidermekle yükümlüdür.
+
+. (9) Haberleşme sağlayıcılar her türlü kampanya, reklam ve tanıtım
+faaliyetlerinde bu Tüzük ve ayrıca Kurum tarafından yayımlanan
+düzenlemelere uymakla yükümlüdürler,
+
+Kural 22. Yasa kapsamında tüketicilerin korunması ile ilgili bu Tüzükte
+Bulunmayan düzenlenmeyen ve/veva 'wx. 4 vuiunmayan haller için Kurul Kararı ile
+Haller . düzenleme yapılır.
+
+DÖRDÜNCÜ KISIM
+
+Çeşitli ve Son Kurallar
+
+Usul ve Esaslar 23. Kurum, bu Tüzük kapsamındaki şeffaflığın o sağlanmasına,
+kullanıcıların doğru bilgilendirilmesine, şebeke ( güvenliğinin
+teminine, acil durumlara, abonelik kayıtlarının o haberleşme
+sağlayıcılar nezdinde güncel ve doğru tutulmasına, tarife ve paketlere
+ilişkin usul ve esaslara, kampanya içeriklerine, kampanyaların
+
+[SAYFA 23]
+292
+
+Yy)
+
+duyuru ve yayın kriterlerine, kampanya şarilarına ve ücretlerine,
+kampanya, tarife ve tanıtım içerikli reklamlarda kullanılacak hertürlü
+yazı, altyazı, durağan yazı ve dipnotlardaki yazının boyutu ve diğer
+kriterlerine, şikâyet çözüm mekanizmaları hakkında asgari
+gerekliliklere ilişkin yönetmelik ve tebliğler yayımlayabilir.
+
+İdari Para 24. Haberleşme sağlayıcıların bu Tüzük ile belirlenen yükümlülüklerini
+Cezaları ve Diğer yerine getirmemeleri halinde Yasa'nın Onsekizinci Kısım uyarınca
+Yaptırımlar öngörülen kurallar uygulanır.
+
+Yürütme Yetkisi 25. Bu Tüzük Elektronik Haberleşmeden sorumlu Bakanlık tarafından
+yürütülür.
+
+Yürürlüğe Giriş 26. Bu Tüzük Resmi Gazete'de yayunlandığı tarihi müteakip 3 (Üç) ay
+sonra yürürlüğe girer,

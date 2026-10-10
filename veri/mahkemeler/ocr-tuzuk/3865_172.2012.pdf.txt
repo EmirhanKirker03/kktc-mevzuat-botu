@@ -1,0 +1,703 @@
+[SAYFA 1]
+Sayı: 172
+
+336
+
+SİGORTA HİZMETLERİ (DÜZENLEME VE DENETİM) YASASI
+
+{ 60/2010 SAYILI YASA)
+
+Madde 35 Altında Tüzük
+
+Kuzey Kıbrıs Türk Cumhuriyeti Bakanlar Kurulu, Sigorta Hizmetleri (Düzenleme ve Denetim)
+Yasasının 35'inci maddesinin kendisine verdiği yetkiye dayanarak aşağıdaki Tüzüğü yapar:
+
+Kısa İsim 1.
+
+Tefsir 2.
+
+Fasil 113
+
+28/1974
+
+711977
+30/1983
+28/1987
+65/1989
+56/1991
+42/1997
+29/2003
+35/2007
+
+39/2001
+59/2002
+
+Bu Tüzük, “Sigorta ve Reasürans Şirketlerinin Teknik Karşılıklarının
+Yatırılacağı Aktifler ve Bu Aktiflerin Değerlendirilmesi Tüzüğü” olarak
+isimlendirilir
+
+BİRİNCİ KISIM
+
+Genel Kurallar
+Bu Tüzükte metin başka türlü gerektirmedikçe;
+
+“Aktüeryal zincirleme merdiven metodu” Muallak tazminat karşılığının
+aktüeryal olarak hesaplanması amacıyla kullanılan yöntemi anlatır.
+"Bakanlık", Para, Kambiyo ve İnkişaf Sandığı İşleri Dairesi'nin bağlı
+olduğu Bakanlığı anlatır.
+
+"Bakanlar Kurulu", Kuzey Kıbrıs Türk Cumhuriyeti Bakanlar Kurulu'nu
+anlatır. o
+
+“Banka”, Şirketler Yasası ve Kuzey Kıbrıs Türk Cumhuriyeti Bankalar
+Yasası altında kurulan bankalar ile yabancı bankaların Kuzey Kıbrıs Türk
+Cumhuriyetinde açılan şubelerini anlatır.
+
+“Borsa” Para ve sermaye piyasası araçlarının işlem gördüğü yurt içi ve yurt
+dışı borsaları anlatır.
+
+“Birlik”, Kuzey Kıbrıs Türk Cumhuriyeti Sigorta ve Reasürans Şirketler
+Birliğini anlatır.
+
+“Kazanılmamış Primler Karşılığı” Cari Rizikolar Karşılığını anlatır.
+“Kur riski” Şirketlerin döviz yükümlülükleri nedeniyle döviz kurlarında
+meydana gelebilecek değişiklikler sonucu maruz kalabilecekleri zarar
+olasılığını,
+
+“Prim” Poliçe üzerinden vergiler ile yürürlükteki mevzuat uyarınca zorunlu
+tutulan sigorta konuları gereği oluşturulan veya oluşturulacak olan fonlara
+ait katkı payları hariç olmak üzere elde edilen tüm gelirleri anlatır.
+
+“Sigorta Şirketi”, Kuzey Kıbrıs Türk Cumhuriyeti'nde kurulmuş sigorta
+şirketleri ile yabancı ülkelerdeki sigorta şirketlerinin Kuzey Kibns Türk
+Cumhuriyetindeki şubelerini anlatır.
+
+“Sigorta Yöneticisi”, Daire Müdürünü anlatır.
+
+[SAYFA 2]
+A
+
+60/2010
+
+Amaç 3.
+
+Kazanılmamış 4.
+Primler
+Karşılığı
+
+337
+
+“Topluluk” Hukuksal yönden birbirinden bağımsız olmakla birlikte;
+sermaye, yönetim ve denetim açısından birbiriyle ilişkili, faaliyet konuları
+yönünden aynı sektöre bağlı olsun veya olmasın, organizasyon ve finansman
+konularının bir ana ortaklık çatısı altında tek merkezden koordine edilen ana
+ve bağlı ortaklıklar bütününü anlatır.
+
+“Yabancı para yükümlülük kur riski orani” Şirketlerin yabancı para veya
+yabancı paraya endeksli varlıkları toplamının, yabancı paraya endeksli
+yükümlülükleri toplamına oranını anlatır.
+
+“Yasa”, Sigorta Hizmetleri (Düzenleme ve Denetim) Yasasını, anlatır.
+
+Bu Tüzüğün amacı sigorta ve reasürans şirketlerinin mevcut ve muhtemel
+yükümlülüklerini karşılayacak miktarda ayırdıkları teknik karşılıklarını
+hangi aktif değerlere hangi oranlarda yatırabileceğini ve (karşılıkların
+yatırılacağı aktiflerin nasıl değerlendirileceği ile ilgili kuralların
+belirlenmesi ve uygulanmasında uyulacak esas ve kıstasları düzenlemektir.
+
+İKİNCİ KISIM
+Teknik Karşılıklar
+
+(1) Şirketler matematik karşılık ayrılan sigorta sözleşmeleri hariç, diğer
+sözleşmeler için kazanılmamış primler karşılığı ayırmak zorundadır.
+Yıllık yenilenen sigorta teminatı içeren bir yıldan uzun süreli sigorta
+sözleşmelerinin yıllık sigorta teminatına karşılık gelen primleri için de
+kazanılmamış primler karşılığı ayrılır.
+
+(2) Ölüm, yaşama ve her ikisinin kapsandığı hem ölüm hem de yaşama
+ihtimallerine bağlı teminatlar ile bu teminatlara ek olarak verilen ferdi
+
+kaza, hastalık sonucu maluliyet ve tehlikeli hastalıklar teminatının .
+
+verildiği sözleşmeler hayat sigortası sözleşmesi sayılır ve bunlara ait
+primler hayat sigortası primi olarak kabul edilir.
+
+(3) Ek teminatların hayat sigortası sözleşmesi ile beraber paket sözleşme
+olarak verildiği hallerde, bu teminatlar birlikte verildiği hayat si gortası
+sözleşmelerinden tamamıyla bağımsız olarak değerlendirilir.
+
+(4) Kazanılmamış pimler karşılığı, Oyürürlükte bulunan sigorta
+sözleşmeleri için tahakkuk etmiş primlerin herhangi bir komisyon
+veya diğer bir indirim yapılmaksızın brüt olarak gün esasına göre
+ertesi hesap dönemi veya hesap dönemlerine sarkan kısmından oluşur.
+Yürürlükte bulunan yıllık hayat sigortaları ile süresi bir yılı aşan
+birikim priminin de alındığı hayat sigortalarında ise yazılan brüt
+primlerden varsa birikime ayrılan kısım düşüldükten sonra kalan
+tutarın takip eden dönem veya dönemlere sarkan kısmından oluşur.
+
+(5) Aracilara ödenen komisyonlar, reasüröre devredilen primler nedeniyle
+alınan komisyonlar, üretim gider payları ile bölüşmesiz reasürans
+anlaşmaları için ödenen tutarların gelecek dönem veya dönemlere
+isabet eden kısmı ertelenmiş gelirler ve ertelenmiş giderler hesapları
+ile diğer ilgili hesaplar altında muhasebeleştirilir. Her ne ad altında
+olursa olsun; poliçeye bağlı olarak verilmeyen teşvik, kârlılık. ve
+benzeri komisyonlar ertelenmiş gelir ve gider hesaplamalarında
+dikkate alınmaz.
+
+[SAYFA 3]
+Muallak
+Tazminat
+Karşılığı
+
+5.
+
+(6)
+
+(7)
+
+(8)
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+338
+
+Belirli bir. bitiş tarihi olmayan emtea nakliyat (Sigortası
+sözleşmelerinde, istatistiki verilere göre tahmini bitiş tarihlerinin tespit
+edilmesi ve buna göre kazanılmamış primler karşılığı ayrılması
+gerekmektedir. Bu hesabın yapılamaması durumunda, son üç ayda
+tahakkuk etmiş primlerin % 50'si kazanılmamış primler kaışılığı
+olarak ayrılır. ;
+
+Kazanılmamış primler karşılığı reasürör payı tutarının hesabında
+yürürlükte bulunan reasürans anlaşmalarının şartları dikkate alınır.
+
+İlgili hesap yılı içerisinde; cari hesap dönemi itibarıyla finansal
+tablolar düzenlenirken "Devreden Kazanılmamış Primler Karşılığı"
+rakamı olarak, bir önceki hesap yılı sonunun finansal tablolarında yer
+alan Kazanılmamış Primler Karşılığı rakamı yazılmalı, dönem
+“Kazanılmamış primler Karşılığı" olarak ise finansal tabloların
+düzenlendiği tarih itibarıyla yürürlükte olan sigorta sözleşme
+primlerinin gün esasına göre hesaplanarak bulunan kazanılmamış
+kısımları toplamı alınmalıdır.
+
+Şirketler, tahakkuk etmiş ve hesaben tespit edilmiş ancak daha önceki
+hesap dönemlerinde veya cari hesap döneminde fiilen ödenmemiş
+tazminat bedelleri veya bu bedel hesaplanamamış ise tahmini bedelleri
+ile gerçekleşmiş ancak rapor edilmemiş tazminat bedelleri için
+muallak tazminat karşılığı ayırmak zorundadır.
+
+Tahakkuk etmiş ve hesabentespit edilmiş muallak tazminat
+karşılığının hesaplanması sırasında; hesaplanmış veya tahmin
+edilmiş eksper, bilirkişi, danışman, dava ve haberleşme giderleri de
+dahil olmak üzere tazminat dosyalarının tekemmülü için gerekli tüm
+gider payları dikkate alınır ve ilgili hesaplamalarda rücu, sovtaj ve
+benzeri gelir kalemleri tenzil edilemez. Halefiyet hakkının kazanılmış
+olması şartı ile uygulama esasları Sigorta Yöneticisince belirlenecek
+olan tahakkuk etmiş rücu, sovtaj ve benzeri gelir kalemleri bilançonun
+
+aktif tarafındaki ilgili alacak hesabının altında gösterilerek dönem
+
+geliri ile ilişkisi kurulur.
+
+Hayat gurubu hariç olmak üzere, tahakkuk etmiş ve hesaben tespit
+edilmiş muallak tazminat karşılığı ile içeriği ve uygulama esasları
+Sigorta Yöneticisince (o belirlenen aktüeryal zincirleme merdiven
+yöntemleri kullanılarak bulunan tutar arasındaki fark gerçekleşmiş
+ancak rapor edilmemiş tazminat bedelidir. Reasürans şirketlerinin özel
+şartları dikkate alınarak, bu şirketlerin kullanacakları aktüeryal
+zincirleme merdiven yönteminin içeriği ve hesaplanma aralığı ile ilgili
+olarak Sigorta Yöneticisi tarafından farklılaştırma yapılabilir.
+
+Sigorta Yöneticisi, sınıflar veya şirketler itibariyle belirleyeceği
+aktüeryal zincirleme merdiven yönteminin uygulanmasını isteyebilir.
+Şirketler her bir sınıfitibariyle kullanmakta oldukları aktüeryal
+zincirleme merdiven yöntemini finansal tablolarının dipnotlarında
+açıklar.
+
+[SAYFA 4]
+6)
+
+(6)
+
+(7)
+
+(8)
+
+©
+
+(10)
+
+dı)
+
+339
+
+Hayat gurubuna ilişkin gerçekleşmiş ancak rapor edilmemiş
+muallak tazminat karşılığına ilişkin hesaplama esasları bu gruba
+ilişkin teminat tutarları dikkate alınacak şekilde Sigorta Yöneticisi .
+tarafından belirlenir.
+
+Gerçekleşmiş ancak rapor edilmemiş tazminat bedellerinin test
+edilebilmesi için ayrı bir hesaplama yapılır. Bu hesaplama sırasında
+hesap dönemi sonu rakamları son 12 (on iki) ayı kapsayacak şekilde
+brüt olarak dikkate alınır. Bu tarihlerden önce meydana gelmiş ancak
+bu tarihlerden sonra ihbar edilmiş tazminatlar, gerçekleşmiş ancak
+rapor edilmemiş tazminat bedelleri olarak kabul edilir. Gerçekleşmiş
+ancak rapor edilmemiş tazminat bedellerinin hesaplanması sırasında,
+sigorta ve reasürans şirketlerinin bu bedellerle ilgili olarak son 5 (beş)
+yılda, bu tarihlerden önce meydana gelmiş ancak sonrasından rapor,
+edilmiş tazminatların, bunlara ilişkin rücu, sovtaj ve benzeri gelir
+tahsilatlarının tenzil edilmesinden sonra kalan tutarlarının, söz konusu
+yıllara ilişkin prim üretimlerine bölünmesi suretiyle bulunan ağırlıklı
+ortalama dikkate alınır. Cari hesap dönemi için gerçekleşmiş ancak
+rapor edilmemiş tazminat bedeli, yukarıda
+belirtilen şekilde hesaplanmış olan ağırlıklı ortalama ile cari hesap
+döneminden önceki 12 (on iki) aylık toplam brüt prim üretiminin
+çarpılması suretiyle bulunur.
+
+Muallak tazminat karşılığı reasürör tutarının hesabında, yürürlükte
+bulunan reasürans anlaşmalarının şartları dikkate alınır. ,
+
+Şirketler ilk hasar ihban ile o birlikte, muallak tazminat
+tutarları hesaben kesin olarak tespit edilmemiş ise, sınıflar itibariyle
+ayırmış oldukları muallak tazminat tutarlarının son beş yıllık
+istatistiklere o dayanan aktüeryal hesaplama (o sonuçları (o üzerinden
+muallak tazminat tutarlarını tahakkuk ettirerek dosya açarlar ve elde
+edilen bilgilere bağlı olarak her hesap dönemi sonu itibarıyla
+güncelleyerek yeterli miktarda karşılık ayrılmamış dosyalar. için ilave
+karşılık ayırır veya fazla ayrılan karşılıklar için indirim yaparlar.
+
+Muallak tazminat karşılığı tutarları ile gerçekleşmiş ancak rapor
+edilmemiş tazminat bedellerinin sözleşme bazında hesâplanması esas
+olmakla birlikte, reasürans şirketlerinin sigorta şirketlerinden sözleşme
+bazında bilgi alamadığı durumlarda, reasürans şirketleri sigorta
+şirketleri tarafından kendilerine bildirilen verileri esas alabilirler.
+
+Dövize endeksli sigorta sözleşmelerine ilişkin tazminatlar öncelikle
+sözleşmede yazılı olan kurdan değerlenir. Sözleşmede ödeme
+tarihindeki kurdan ödenmesi kararlaştırılmış ise tazminatlar KKTC
+Merkez Bankasının Resmi Gazete'de ilan ettiği döviz satış kurlarına
+göre değerlenir.
+
+Sigorta şirketinin anlaşmalı olduğu tamirhane ve servise sigorta
+şirketince ödeme yapılması suretiyle araçların tamir ettirilmesi
+durumunda, araç tamir edilerek tazminat alacaklisina karşı
+yükümlülük yerine getirilmiş olduğundan, bu durumdaki dosyalar
+sigortalıya ibraname imzalatılmasından sonra muallak tazminat
+karşılıklarından çıkarılarak ödenen tazminatlar hesabına dahil edilir.
+Tamire ilişkin bedeller, tamirhane veya servise ödeninceye kadar,
+ödenen tazminatlar hesabı karşılığında bilançonun pasif tarafındaki
+ayrı bir hesabın altında ilgili tamirhane veya servis hesabında izlenir.
+Ayrıca ilgili tamirhanenin veya servisin hesaplarında borçların hangi
+hesaplardan kaynaklandığı da gösterilir.
+
+[SAYFA 5]
+g
+
+Matematik
+Karşılıklara
+İlişkin İlkeler
+
+6.
+
+(12)
+
+(13)
+
+(14)
+
+(1)
+
+(2)
+
+340
+
+Sigortalıların sigorta şirketinin anlaşmalı olduğu sağlık kuruluşlarında
+bedeli sağlık kuruluşuna sigorta şirketince ödenmek suretiyle tedavi
+ettirilmesi durumunda, sigorta şirketi sigortalıya yükümlülüğünü
+yerine getirmiş olduğundan, tedavi giderlerinin sigorta şirketince
+ödenmesi beklenmeden bu durumdaki dosyalar sigortalıya ibraname
+imzalatılmasından sonra muallak tazminat karşılığından çıkarılarak
+ödenen tazminatlar hesabına dahil edilmelidir. Tedavi bedelleri, sağlık
+kuruluşuna ödeüinceye kadar, ödenen tazminatlar hesabı karşılığında
+bilançonun pasif taralındaki ayrı bir hesabın altında ilgili sağlık
+kuruluşu o hesabında izlenir. Ayrıca ilgili sağlık kuruluşunun
+hesaplarında borçların hangi hesaplardan kaynaklandığı da gösterilir.
+
+Dava aşamasında olan hasarlar için muallak tazminat karşılık rakamı
+olarak öncelikle dava değeri esas alınır. Ancak, sigortalı tarafından
+talep edilen gecikme faizi, mahkeme masrafi ve avukatlık ücreti gibi
+masraf kalemleri haricindeki tazminatın sigorta sözleşmesi teminat
+limitlerini aşması durumunda, şirketler aşan kısmı muallak tazminat
+tutarlarından indirmelidir. Dava değerine rağmen bilirkişi raporu,
+fatura gibi kesin kanıtlara dayanılarak tespit edilen tazminat tutarına
+dönem sonuna kadar işlemiş gecikme faizi, avukatlık ücreti gibi
+masrafları da ilave ederek muallak tazminat karşılık tutarı belirlenir.
+
+Tazminat ödemesine konu olmayan ve tazminat alacaklıları tarafından
+da takip edilmeyen hasarlar, zamanaşımı süresinin dolmasını
+takiben muallak tazminatlar arasından çıkarılarak gelir
+kaydedilmelidir.
+
+Şirketler matematik karşılıkların hesaplanmasında aşağıdaki genel
+ilkelere uymak zorundadır: | -
+
+(A) Ayrt hesaplama ilkesi: Matematik karşılıklar her bir
+sözleşmenin onaylı teknik esaslarına göre sigorta sözleşmesi
+bazında hesaplanır. Matematik karşılıkların hesaplanmasında
+gerektiğinde tahmin yöntemleri ve o genelleştirmeler
+kullanılabilir. Ancak bu şekilde bulunan karşılık miktarları
+sigorta sözleşmesi bazında hesaplanma halinde bulunacak
+miktarlardan az olamaz.
+
+(B) İhtiyatı (o hesaplama (ilkesi: (o Matematik karşılıkların
+hesaplanmasında kullanılacak, ölüm düzeyi, iskonto edilmiş
+ölüm düzeyi ve hastalık düzeyi tabloları ve diğer tablolar ile
+teknik faiz oranı ve gider payları ihtiyatlı olarak seçilir.
+
+(C) o Hesaplama yönteminin sözleşme süresince devamlılığı:
+Matematik karşılıkların hesaplanmasında kullanılan yöntemler
+ve varsayımlar sözleşme süresince sigorta ettirenin ve Jehdarin
+aleyhine değiştirilemez.
+
+(Ç) Oo Hesaplanma dönemi: Birikim priminin de alındığı hayat
+sigortalarında matematik karşılıklar, her bir sözleşme icin,
+primlerin sigorta şirketine intikal ettiği günü takip eden ilk iş
+günü itibarıyla hesaplanır.
+
+Diğer hayat sigortalarında aktiieryal matematik karşılıkların günlük
+olarak hesaplanamadığı hallerde, sigorta şirketleri, sigoita ettiren
+başvurduğu takdirde, sigorta sözleşmesinden doğan tazminat alacağını
+günü gününe hesaplayarak sigorta ettirenlere beyan edilebilmesi için
+
+[SAYFA 6]
+Matematik
+Karşılıklar
+
+7.
+
+00)
+
+©
+
+(3)
+
+341
+
+gerekli her türlü tedbiri almak zorundadırlar, Yapılan incelemelerde
+sigorta ettirenlere bu beyanı yapmadığı veya yapamadığı tespit edilen
+sigorta şirketleri, Sigorta Yöneticisinin yazılı uyarısı üzerine en geç üç
+ay içinde matematik karşılıkları günlük olarak hesaplayacakları bir
+düzeni tesis etmek zorundadır.
+
+Hayat ve hayat dışı guruplarda faaliyet gösteren şirketler bir yıldan
+uzun süreli hayat, sağlık ve ferdi kaza sigorla sözleşmeleri için sigorta
+ettirenler ile lehdarlara olan yükümlülüklerini karşılamak üzere
+akttierval esaslara göre yeterli düzeyde matematik karşılık ayırır.
+
+Bir yıldan uzun süreli hayat sigortalarına ek olarak bir yıldan uzun
+süreli ferdi kaza, sağlık, hastalık sonucu maluliyet ve tehlikeli
+hastalıklar teminatının verildiği hallerde; hayat sigortaları matematik
+karşılık tutarı ek teminatlara ilişkin aktüeryal csaslara göre hesaplanan
+matematik karşılık tutarını da içerecek şekilde hesaplanır.
+
+Matematik karşılıklar yürürlükte bulunan her bir sözleşme için
+tarifedeki teknik esaslara göre ayrı ayrı hesaplanan ve aşağıda (A) ve
+(B) bentlerinde açıklanan aktüeryal matematik karşılıklar ile taahhüt
+edilmişse bu karşılıkların yatırıma yönlendirilmesi sonucu elde edilen
+gelirlerden sigottalılara ayrılan kar payı karşılıkları toplamından
+oluşur.
+
+(A) Aktüeryal matematik karşılıklar, şirketlerin üstlendiği riziko için
+alınan primleri ile sigorta ettirenler ile lehdarlara olan
+yükümlülüklerin peşin değerleri arasındaki farktır. Aktiieryal
+matematik karşılıklar; bir yıldan uzun süreli hayat sigortaları için
+tarifelerin onaylı teknik esaslarında belirtilen formül ve esaslara
+göre ayrılır. Aktüeryal matematik karşılıklar, sigortacının ileride
+yerine getireceği yükümlülüklerinin peşin değeri ile sigorta
+eltiren tarafından ileride ödenecek primlerin bugünkü değeri
+arasındaki farkın bulunması şeklinde (prospektif yönteni)
+hesaplanır. Ancak, aktiieryal matematik karşılıkların sigorta
+ettirenin ödediği primlerin sonuç değeri ile sigortacının
+üstlendiği rizikonun sonuç değeri arasındaki farkın hesaplanması
+şeklinde (retrospektif yöntem) veya Sigorta Yöneticisi tarafından
+kabul edilen genel kabul görmüş aktüeryal yöntemlere göre
+hesaplanması halinde bulunan akiüeryal matematik karşılıklar
+toplamı bu toplamdan az olamaz. Aktüeryal matematik karşılığın
+negatif olarak hesaplandığı durumlarda bu değer sıfır olarak
+kabul edilir. Birikim priminin de alındığı hayat sigortalarında
+aktüeryal matematik karşılık, primlerin birikiming kalan
+kısımlarının toplamından oluşur. Aktiieryal matematik karşılıklar
+tarifenin teknik özelliklerine göre tahakkuk veya tahsil 'esasına
+göre hesaplanabilir.
+
+(B) Kâr payı karşılıkları şirketlerin kâr payı vermeyi taahhüt ettikleri
+sözleşmeler için sigorta ettirenler ile lehdarlara olan
+yükümlülüklerine istinaden ayrılan karşılıkların yatırıldıkları
+varlıkların gelirlerinden, onaylı kâr payı teknik esaslarında
+belirtilen kâr payı dağıtım sistemine göre hesaplanan teknik faiz
+geliri ile sınırlı olmak kaydıyla garanti edilen kısmın da dahil
+olduğu miktar ile önceki yıllara ait birikmiş kâr payı
+karşılıklarından oluşur.
+
+[SAYFA 7]
+Teknik
+Karşılıkları
+Karşılayan
+Varlıklar
+
+Teknik
+Karşılıkları
+
+8.
+
+d)
+
+(2)
+
+(3)
+
+(4)
+
+(5)
+
+(6)
+
+342
+ÜÇÜNCÜ KISIM
+Teknik Karşılıkların Yatırılacağı Varlıklar
+
+Şirketlerin, teknik karşılıklarını kargilayacak düzeyde varlık
+bulundurmaları şarttır.
+
+Teknik karşılıklara karşılık olarak gösterilebilecek varlıklar şunlardır;
+(A) Oo Türk Lirası
+
+(B) KETC Merkez Bankasınca alım satım konusu yapılan
+dövizler,
+
+(C) Bankalarda bulunan Vadeli ve vadesiz Türk Lirası mevduatı
+ve döviz mevduatı,
+
+(©) Devlet tahvili, hazine bonosu ve Devletin ihraç ettiği diğer
+finansal varlıklar,
+
+(D) — Esas faaliyetlerden alacaklar ve teknik karşılıklarda reasürör
+payları,
+
+(E) Gayrimenkuller,
+
+(F) Gayrimenkul hariç diğer maddi duran varlıklar.
+(G) — Yatırım fonları katkı belgesi
+
+(G) O Hisse senetleri
+
+(H) Oo Repo islemleri
+
+() Kredi kartı bloke hesapları
+
+Şirketler matematik karşılıklarını ikinci fıkranın (E) ve (F); kar payı
+dağıtımı öngören hayat sigortası sözleşmelerine ilişkin olarak
+ayırdıkları teknik karşılıklarını ikinci fikranin (D) bendinde belirtilen
+varlıklara yatıramaz.
+
+Şirketlerin yatırıma yönlendirdikleri ve sakladıkları varlıklar en az iki
+finansal kuruluş nezdinde tutulur. Varlıkların finansal kuruluşlar
+arasında dengeli olarak dağıtılması esastır.
+
+Sigorta Yöneticisi , mali bünyeleri ile ilgili alınacak tedbirler
+çerçevesinde, şirketlerin yatırıma yönlendirdikleri ve sakladıkları
+varlıkların tutulduğu finansal kuruluşların sayısı ile bu kuruluşlarda
+tutulan varlıkların oranlarını belirleyebilir ve ayrıca aynı topluluk
+içerisinde bulunulan finansal kuruluşlar nezdinde tutulan varlıkların
+oranına sınırlama getirebilir.
+
+Sigorta Y6neticisinin belirlediği Okriterleri taşımayan esas
+faaliyetlerden alacaklar ile teknik karşılıklardaki reasürör paylarının
+teknik karşılıklara karşılık olarak gösterilmemesini talep edebilir.
+
+9. Teknik karsilklara karşılık olarak gösterilecek varlıkların hesaplanması
+sırasında aşağıda belirtilen hususlara uyulur;
+
+[SAYFA 8]
+Karşılayan
+Varlıkların
+Hesaplanması
+
+Teknik
+Karşılıkları
+Karşılayan
+Varlıklara
+İlişkin
+Sınırlamalar
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+10. (1)
+
+343
+
+Bir varlığın edinilmesi şirketin borçlanmasına yol açmış ise, söz
+konusu borcun düşülmesinden sonra kalan tutar, teknik karşılıklara
+karşılık olarak gösterilebilir.
+
+Üçüncü kişiler veya gruplardan olan alacakların, ancak aynı kişi ve
+gruplara olan borçların düşülmesinden sonra kalan kısmı teknik
+karşılıklara karşılık olarak gösterilebilir.
+
+Maddi duran varlıkların amortismanı, finansal varlıkların değer
+düşüklüğü karşılığı ve esas faaliyetlerden şüpheli alacaklar karşılığı
+ayrıldıktan sonra kalan kısım teknik karşılıklara karşılık olarak
+gösterilebilir.
+
+Temerrüde düşen alacaklar, yalnız. temerrüde düşülmesini takip eden
+ilk iki aylık süre için teknik karşılıklara karşılık olarak gösterilebilir.
+
+Aşağıda belirtilen oranların üstündeki varlıklar teknik karşılıklara
+karşılık olarak gösterilemez.
+
+(A) Tek bir arazi, arsa veya bina veya tek bir parça şeklinde
+düşünülebilecek kadar birbirine yakın veya bunlardan gelecek
+zararların birbirlerini etkileyebileceği arazi, arsa veya binaların
+değerinin, brüt teknik karşılıkların %30’ sini aşan kısmı,
+
+(B) Devlet tarafından ihraç edilen finansal varlıklar hariç olmak
+üzere; bir ihraççının para ve sermaye piyasası araçlarının brüt
+teknik karşılıkların 96'ini aşan kısmı ile bu tür finansal
+varlıkların toplamı brüt teknik karşılıkların 9640'ın aşmaması
+halinde ise bir ihraççıya ait para ve sermaye piyasası araçlarının
+brüt teknik karşılıkların Y610”unu aşan kısmı,
+
+(C) Bir topluluğun para ve sermaye piyasası araçlarının brüt
+teknik karşılıkların 9620'sini aşan kısmı,
+
+(Ç) Hisse senetleri (bağlı menkul kıymetler, iştirakler, bağlı
+ortaklıklar ve müşterek yönetime tabi teşebbüsler dahil) ve diğer
+değişken getirili finansal varlıklar ile A tipi yatırım fonu katılma
+belgelerinin brüt teknik karşılıklarının %30’unu aşan kısmı ile
+borsada işlem görmeyen bu tür varlıkların brüt teknik '
+karşılıkların “010'unu aşan kısımı,
+
+(D) Sigorta sözleşmesine bağlı olmadan verilen ikraz tutarlarının
+toplamının brüt teknik karşılıkların 965'ini aşan kısmı ile bir
+kişiye verilen kredinin brüt teknik karşılıkların %1’ini aşan
+kısmı,
+
+“(E) Kasada bulunan TL ve dövizlerin brüt teknik karşılıkların
+
+“03”lünü aşan kısmı,
+
+(F) Bir bankada değerlendirilen mevduat ve cari hesaplarının brüt
+teknik karşılıkların %40’im geçen kısmı ile şirketle aynı finansal
+topluluk içerisinde bulunan bankada değerlendirilen mevduat ve
+cari hesaplarının brüt teknik karşılıkların 9620”sini aşan kısımı, .
+
+(G) Bankalarca sigorta sözleşmesi tutarının tamamına ilişkin olarak
+sigorta sözleşmesinin düzenlenmesi aşamasında ödeme garantisi
+verilen kredi kartı hesapları hariç ve alacaklar için teminat olarak
+verilmiş hazine bonosu, devlet tahvili, mevduat, nakit ve dövizler
+
+[SAYFA 9]
+Teknik
+Karşılıkların
+Bildirimi
+
+Yürütme
+Yetkisi —
+Yürürlüğe
+Giriş
+
+(2)
+
+(3)
+(4)
+
+(5)
+
+(6)
+
+(7)
+
+(8)
+
+(9)
+
+344
+
+tenzil edilmiş olmak üzere bir aracıdan olan alacakların . brüt
+teknik karşılıkların 965'ini aşan kısmı ile banka ve benzeri
+kurumsal aracılardan olan alacakların brüt teknik karşılıkların
+%20’sini aşan kısım,
+
+(G) Bankalarca sigorta sözleşmesi tutarının tamamına ilişkin olarak
+sigorta sözleşmesinin düzenlenmesi aşamasında ödeme garantisi
+verilen kredi kartı hesapları hariç ve alacaklar için teminat olarak
+verilmiş hazine bonosu, devlet tahvili, mevduat, nakit ve dövizler
+tenzil edilmiş olmak üzere, aracılık yapan bankalardan olan
+alacaklar hariç, esas faaliyetlerden alacakların brüt teknik
+karşılıkların %25’ini aşan kısmı,
+
+(H) Kur riski olmayan şirketlerde döviz cinsinden yatırımların brüt
+teknik karşılıkların 96 30'unu aşan kısmı,
+
+() Yabancı para yükümlülük kur riski oranının %130°u asan kısmı
+
+Şirketler, sigorta sözleşmelerinden doğan yabancı paraya veya bir
+varlığa endeksli yükümlülükleri ile orantılı olarak yabancı para veya
+yabancı paraya endeksli yeterli miktarda varlık bulundurmak
+zorundadır.
+
+Yabancı para yükümlülük kur riski oranı 9670'ten az olamaz.
+
+Şirketler yeterli risk dağılımı sağlar ve varlıkların günlük olarak değer
+tespitinin yapılabilmesine yönelik tedbirleri alır.
+
+Sigorta Yöneticisi , sigorta ettirenler ile lehdarlarm hak ve
+menfaatlerinin korunması ve sigorta şirketinin mali bünyesi ile ilgili
+alınacak tedbirler çerçevesinde, karşılık olarak gösterilen varlıkları
+kabul veya reddetmeye, aynı miktarda bir başka varlıkla
+değiştirilmesini istemeye yetkilidir.
+
+Sigorta sözleşmelerine bağlı olmadan ikraz verilebilmesi Sigorta
+Yöneticisinin iznine tabidir.
+
+Varlıkların değerinin fiyat hareketleri ve rüçhan o haklarının
+kullanılması nedeniyle bu Tüzükte belirtilen asgari sınırların altına
+inmesi veya azami sınırların üzerine çıkması halinde oranın en geç 30
+iş günü içerisinde bu Tüzükte belirtilen sınırlara uygun hale getirilmesi
+zorunludur.
+
+Şirketlerin sigorla ettirenlere ve lehdarlara olan yükümlülükleri
+nedeniyle ve zorunlu olarak bu sınırlamaların geçici olarak aşılması
+Sigorta Yöneticisinin iznine tabidir. ~
+
+Gayrimenkule, para ve sermaye piyasası araçlarına, vadeli mevduata
+veya dövize endeksli olarak Ohazılanan (hayat sigortası
+sözleşmelerinde; endekslenen varlıklarla ilgili risklerin sigorta ettirene
+bildirilmesi ve yazılı onayının alınması kaydıyla, karşılıklar birinci
+fıkranın (A), (B), (C) ve (F) bentlerinde belirtilen sınırlamalara da
+uyularak endekslenen varlık veya varlıklara yatırılır.
+
+11. Şirketler teknik karşılıklarına ve bu karşılıkların yatırıldığı varlıklara ilişkin
+- bilgi ve belgeler ile tablolarını, Yasada belirtilen sürede, Sigorta
+Yöneticisine gönderir. .
+
+DÖRDÜNCÜ KISIM
+Son Kurallar
+
+12. Bu Tüzüğü Para, Kambiyo ve İnkişaf Sandığı İşleri Dairesi'nin bağlı olduğu
+Bakanlık yürütür.
+
+13. Bu Tüzük, Resmi Gazetede yayımlandığı tarihten başlayarak yürürlüğe
+girer.
