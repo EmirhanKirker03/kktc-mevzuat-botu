@@ -15,8 +15,7 @@ const fs = require('fs');
 
   // derin araştırma
   await p.fill('#q', 'Hüküm aleyhine istinaf süresi nedir?');
-  await p.check('#derin', { force: true });
-  await p.click('#ask');
+  await p.click('#derinbtn');
   await p.waitForSelector('#answer .acts', { timeout: 30000 });
   ok('derin araştırma bölüm başlıkları', await p.locator('#answer h3.bol').count() >= 2);
   ok('derin araştırma alt sorular gösterildi', (await p.textContent('#answer')).includes('aranan alt sorular'));
@@ -25,7 +24,6 @@ const fs = require('fs');
   const yol = S + '/not.docx'; await dl.saveAs(yol); ok('Word indirildi ' + dl.suggestedFilename(), fs.statSync(yol).size > 1000);
   // takip sorusu
   ok('takip çubuğu görünür', await p.isVisible('#devam'));
-  await p.uncheck('#derin', { force: true });
   await p.fill('#q', 'Peki ara emirlerde?'); await p.click('#ask');
   await p.waitForFunction(() => document.querySelector('#answer').textContent.includes('(takip)'), null, { timeout: 20000 });
   ok('takip sorusu önceki konuşmayla gönderildi', true);
@@ -67,7 +65,7 @@ const fs = require('fs');
   ok('kaynaksız eksik hüküm atıldı', t.includes('1 eksik hüküm tespiti gösterilmedi'));
 
   // telefon genişliği
-  await p.setViewportSize({ width: 390, height: 844 }); await p.click('#morebtn'); await p.click('#menu [data-go=pane-sure]');
+  await p.setViewportSize({ width: 390, height: 844 }); await p.click('#tab-sure'); await p.click('#morebtn'); ok('telefonda Daha menüsünde Mevzuat var', await p.isVisible('#menu [data-go=pane-browse]')); await p.click('#tab-sure');
   const genis = await p.evaluate(() => document.documentElement.scrollWidth); ok('telefonda yatay kaydırma yok (' + genis + ')', genis <= 392);
   await p.screenshot({ path: S + '/sure_tel.png', fullPage: false });
   await p.setViewportSize({ width: 1280, height: 900 }); await p.click('#tab-taslak'); await p.screenshot({ path: S + '/taslak.png' });
