@@ -585,7 +585,7 @@ async function rvInit(){
   RV.uid = user ? await user.id() : null;
   RV.canWrite = user ? await user.can('data.write') : null;
   if(RV.canWrite===false){ $('#rvaccess').textContent='Bu sayfayı yalnızca görüntüleme yetkisiyle açtınız. İnceleme kaydetmek için sayfa sahibinin sizi Düzenleyici (Editor) olarak eklemesi gerekir.'; }
-  else { document.body.classList.add('rv-on'); $('#rvaccess').textContent='Kayıtlarınız sayfayı açabilen herkesle paylaşılır.'; }
+  else { document.body.classList.add('rv-on'); $('#rvaccess').textContent='Kayıtlarınız inceleme listesine eklenir.'; }
   db.collection('inceleme').orderBy('zaman','desc').limit(1000).onSnapshot(snap=>{
     RV.list=snap.docs.map(d=>({id:d.id, ...d.data()})); rvStats(); renderRv();
   }, err=>{ $('#rvaccess').textContent='İnceleme kayıtları yüklenemedi.'; });
