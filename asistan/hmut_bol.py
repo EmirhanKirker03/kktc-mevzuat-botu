@@ -90,6 +90,39 @@ for k, (i, eno) in enumerate(basliklar):
         govde.append(tx)
     kapat()
 
+# yapışık nizamlar: kenar notu aynı satırda olduğunda ("490. 17. Tek taraflı ...") nizam bir öncekinin içinde kalır; burada ayrılır
+def nizam_no(no):
+    m = re.match(r'Emir (\S+?)(?: n\.(\d+)[A-Z]?)?$', no); return (m.group(1), int(m.group(2)) if m.group(2) else 0) if m else (None, None)
+ayrilan = []
+degisti = True
+while degisti:
+    degisti = False
+    gruplar = {}
+    for i, b in enumerate(birimler):
+        e, n = nizam_no(b['no'])
+        if e is not None: gruplar.setdefault(e, []).append((n, i))
+    for e, liste in gruplar.items():
+        varolan = {n for n, _ in liste if n}
+        if not varolan: continue
+        for eksik_n in [k for k in range(1, max(varolan) + 1) if k not in varolan]:
+            onceki = [(n, i) for n, i in liste if n < eksik_n]
+            if not onceki: continue
+            n0, i0 = max(onceki)
+            b = birimler[i0]
+            m = re.search(r'(?m)^([^\n]{0,30}?\s)?%d\s?\.\s+(?=[A-ZÇĞİÖŞÜ(][^\n]{25})' % eksik_n, b['metin'])
+            if not m and eksik_n == 1 and n0 == 0: m = re.match(r'()1\s+(?=\([A-Z]\))', b['metin'])  # "1 (A) Mahkeme:" biçimi
+            if not m or (m.start() == 0 and n0 != 0): continue
+            once, sonra = b['metin'][:m.start()].rstrip(), b['metin'][m.end():].strip()
+            kenar_ek = [x for x in once.split('\n')[-3:] if KENAR_RE.match(x.strip()) or re.fullmatch(r'\d+\s+Cilt\s+[IVX]+', x.strip())]
+            if kenar_ek: once = '\n'.join(once.split('\n')[:-len(kenar_ek)]).rstrip()
+            if m.group(1): kenar_ek.append(m.group(1).strip())
+            yeni = {'no': f'Emir {e} n.{eksik_n}', 'baslik': b['baslik'], 'metin': sonra, 'kenar': ' · '.join(kenar_ek)}
+            if once: b['metin'] = once; birimler.insert(i0 + 1, yeni)
+            else: b.update(yeni)  # başlık biriminde metin yoksa birim doğrudan bu nizam olur
+            ayrilan.append(f'Emir {e} n.{eksik_n}'); degisti = True; break
+        if degisti: break
+print('ayrılan yapışık nizam', len(ayrilan), ayrilan)
+
 # formlar
 FT = satirlar[FORM_BAS + 1:]
 FRE = re.compile(r'^[ \t]*(?:FORM|Form)[ \t]*(?:No|NO)?[ \t]*[.:;]?[ \t]*([0-9l]+(?:[ \t]?[A-ZİÇ](?![A-Za-zÇĞİÖŞÜçğıöşü]))?)[ \t]*[.:]?[ \t]*(.*)$')
