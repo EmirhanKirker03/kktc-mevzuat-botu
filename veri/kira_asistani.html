@@ -201,7 +201,7 @@ select,input[type=date]{color:var(--ink);background:var(--sheet);border:1px soli
 .belge{background:var(--sheet);outline:none;font-family:var(--f-display);font-size:15.5px;line-height:1.6}
 .belge h2{font-size:19px;text-align:center;margin:0 0 12px}
 .belge h3{font-size:16px;margin:14px 0 6px}
-.belge p{margin:0 0 10px;max-width:none}
+.belge p{margin:0 0 10px;max-width:none;white-space:pre-line}
 .belge:focus{box-shadow:0 0 0 2px var(--seal-soft);border-radius:6px}
 .belge .cite{font-family:var(--f-body)}
 </style>
@@ -730,6 +730,22 @@ document.addEventListener('click',e=>{ const t=e.target.closest('.ac, article.sh
   const c=t.closest('article.sheet'); if(!c) return; const o=c.classList.toggle('open');
   const b=c.querySelector(':scope > .ac'); if(b) b.textContent=o?'Kapat':(c.classList.contains('kcard')?'Ayrıntıları göster':'Tam metni göster');
   if(o && c.classList.contains('kcard')){ const d=c.querySelector('details.kfull'); if(d && !d.open) d.open=true; } });
+// cevap geldikten sonra: cevapta dayanılan maddeler üstte, kullanılmayanlar kapalı bölümde
+function kaynaklariAyir(list, kullanilan){
+  const u=new Set(kullanilan||[]); if(!u.size) return;
+  const ilk=list.filter(a=>u.has(a.cid)), diger=list.filter(a=>!u.has(a.cid));
+  const sc=document.getElementById('srccount'); if(sc) sc.textContent=ilk.length+' madde'+(diger.length?' · '+diger.length+' kullanılmadı':'');
+  $('#sources').innerHTML=ilk.map(a=>sheet(a,'article')).join('')+(diger.length?'<details class="sheet"><summary><span class="t">Bulunan ama cevapta kullanılmayan maddeler ('+diger.length+')</span><span class="muted small">kontrol için</span></summary><div class="col" style="gap:8px;margin-top:8px">'+diger.map(a=>sheet(a,'article')).join('')+'</div></details>':'');
+  rvStats();
+}
+// yapay zekâ metninde geçen iç kimlikleri (ör. Y774-11, KIRA-6) okunur etikete çevir; kaynak listeleri, kimlikler ve alıntılar olduğu gibi kalır
+function insanca(o, anahtar){
+  if(typeof o==='string') return ['quote','id'].includes(anahtar) ? o : o.replace(/(?<![\w-])[A-Z][A-Za-z0-9]*-[A-Za-z0-9-]*[A-Za-z0-9](?![\w-])/g, m=>BYCID[m]?etiket(m):m);
+  if(Array.isArray(o)) return anahtar==='cites' ? o : o.map(x=>insanca(x, anahtar));
+  if(o && typeof o==='object'){ const y={}; for(const [k,v] of Object.entries(o)) y[k]=insanca(v,k); return y; }
+  return o;
+}
+window.__insanca=insanca;
 function showSources(list){
   const sc=document.getElementById('srccount'); if(sc) sc.textContent=list.length?list.length+' madde':'';
   $('#sources').innerHTML = list.length? list.map(a=>sheet(a,'article')).join('') : '<p class="muted small">İlgili madde bulunamadı.</p>'; rvStats();
@@ -1030,9 +1046,10 @@ async function run(){
   if(!sampleFn){ $('#answer').innerHTML='<div class="answer"><h2>İlgili maddeler bulundu</h2><p>Yapay zekâ cevabı bu görünümde kullanılamıyor. Dayanılan maddeleri okuyarak cevaba ulaşabilirsiniz.</p></div>'; return; }
   ctl=new AbortController(); $('#ask').disabled=true; $('#stop').hidden=false; $('#state').textContent='Maddeler ve kararlar okunuyor…'; $('#answer').innerHTML='';
   try{
-    const res = await sampleFn.json(promptFor(q,list,cases,{onceki, derin}),{signal:ctl.signal, modelTier:derin?'complex':'default'});
+    const res = insanca(await sampleFn.json(promptFor(q,list,cases,{onceki, derin}),{signal:ctl.signal, modelTier:derin?'complex':'default'}));
     const v=verify(res||{}, list), vc=verifyCases(res||{}, cases);
     renderAnswer(q, res||{}, v, vc); cevapEylem(q, res||{}, v, vc, list); $('#state').textContent='';
+    if(v.kept.length) kaynaklariAyir(list, v.kept.flatMap(k=>k.cites));
     if(derin && alt.length){ const k=document.querySelector('#answer .answer'); if(k) k.insertAdjacentHTML('afterbegin','<p class="small muted" style="margin:0 0 8px">Derin araştırma · aranan alt sorular: '+alt.map(esc).join(' · ')+'</p>'); }
   }catch(e){
     const msg={not_granted:'Bu sayfanın Claude kullanmasına izin verilmedi. Maddeler aşağıda.',rate_limited:'Çok fazla istek yapıldı; biraz sonra tekrar deneyin.',cancelled:'',invalid_json:'Cevap okunamadı; tekrar deneyin.',sampling_disabled:'Bu hesapta Claude kullanılamıyor.'}[e&&e.code];
@@ -1207,6 +1224,7 @@ function doMask(){
     : '<div class="check warn"><b>Gizlenecek bilgi bulunamadı.</b><span>Adları elle ekleyebilirsiniz.</span></div>';
 }
 $('#mask').addEventListener('click',doMask);
+let maskZaman=null; $('#doc').addEventListener('input',()=>{ clearTimeout(maskZaman); maskZaman=setTimeout(doMask,600); }); // metin değişince gizleme özeti güncel kalsın
 $('#extra').addEventListener('change',doMask);
 $('#reveal').addEventListener('change',()=>{ if(LAST) renderSummary(LAST); });
 
@@ -1281,7 +1299,7 @@ $('#fstop').addEventListener('click',()=>fctl&&fctl.abort());
 $('#doc').value=JSON.parse(document.getElementById('example').textContent); doMask();
 
 /* açılışta örnek: arama sonuçları dolu gelsin (yapay zekâ çağrısı yok) */
-$('#q').value = EX[0]; showSources(search(EX[0]));
+$('#q').value = EX[0]; { const l0=search(EX[0]); showSources(l0.filter(a=>l0.length&&a.law===l0[0].law)); }
 $('#answer').innerHTML = '<div class="answer"><h2>Örnek: ilgili maddeler bulundu</h2><p>“Ara ve cevapla”ya basınca yapay zekâ yalnızca dayanılan maddeleri okuyarak kaynaklı bir cevap yazar ve her cümleyi kontrol eder.</p></div>';
 
 /* ================= avukat araçları ================= */
@@ -1557,7 +1575,7 @@ Yalnızca şu biçimde JSON döndür:
 {"baslik":"belgenin başlığı","bolumler":[{"baslik":"bölüm başlığı (yoksa boş)","paragraflar":[{"metin":"...","cites":["KIMLIK"]}]}],"doldurulacak":["eksik bilgi"],"uyarilar":"avukatın kontrol etmesi gerekenler"}`;
 }
 // yalnızca süre ve oran ifadeleri (müvekkilin tutar ve tarihleri karışmasın)
-const SURE_RE=/(?:\d+(?:[.,]\d+)?|(?:(?:bir|iki|üç|dört|beş|altı|yedi|sekiz|dokuz|on|yirmi|otuz|kırk|elli|altmış|yetmiş|seksen|doksan|yüz)\s*)+)\s*(?:gün|hafta|ay(?![a-zçğıöşü])|aylık|aydan|ayda|ayı|yıl|sene|saat)|(?:%|yüzde)\s*\d+(?:[.,]\d+)?/giu;
+const SURE_RE=/(?<![a-zçğıöşüâîû\d])(?:\d+(?:[.,]\d+)?|(?:(?:bir|iki|üç|dört|beş|altı|yedi|sekiz|dokuz|on|yirmi|otuz|kırk|elli|altmış|yetmiş|seksen|doksan|yüz)(?![a-zçğıöşüâîû])\s*)+)\s*(?:gün|hafta|ay(?![a-zçğıöşü])|aylık|aydan|ayda|ayı|yıl|sene|saat)|(?:%|yüzde)\s*\d+(?:[.,]\d+)?/giu;
 function sureEksik(metin, cites){ if(!cites.length) return []; const ifade=(String(metin).toLocaleLowerCase('tr').match(SURE_RE)||[]).join(' '); return ifade?eksikSayilar(ifade, cites):[]; }
 window.__sureEksik=sureEksik;
 const HUKUKI_RE=/(^|[^\p{L}])(madde|yasa|tüzü|emir|emri|nizam|fasıl)/iu;
@@ -1603,7 +1621,7 @@ $('#thazirla').addEventListener('click',async()=>{
   try{
     const list=await cokluAra([olay.slice(0,400), ...(t.ara?[t.ara]:[]), olay.slice(0,200)], 10, s=>$('#tstate').textContent=s);
     $('#tkaynak').innerHTML=list.map(a=>sheet(a,'article','t-')).join(''); $('#tstate').textContent='Taslak yazılıyor…'+(Object.keys(harita).length?' ('+Object.keys(harita).length+' kişisel bilgi gizlendi)':'');
-    const res=await sampleFn.json(taslakIstem(t,mah,tarafG,olayG,list),{signal:tctl.signal, modelTier:'default'});
+    const res=insanca(await sampleFn.json(taslakIstem(t,mah,tarafG,olayG,list),{signal:tctl.signal, modelTier:'default'}));
     TSON={res,list,harita}; taslakCiz(res||{}, list, harita); $('#tstate').textContent='';
   }catch(e){ $('#tstate').textContent=hataMesaj(e); }
   finally{ $('#thazirla').disabled=false; $('#tdur').hidden=true; }
@@ -1675,7 +1693,7 @@ $('#risk').addEventListener('click',async()=>{
     const ara=(Array.isArray(plan&&plan.ara)?plan.ara:[]).map(String).slice(0,5);
     const tur_=String(plan&&plan.tur||'sözleşme'); const list=await cokluAra([tur_, ...ara.map(a=>tur_+' '+a)], 14, s=>$('#sstate').textContent=s);
     $('#sstate').textContent='Sözleşme maddelerle karşılaştırılıyor…';
-    const res=await sampleFn.json(riskIstem(plan&&plan.tur, list),{signal:fctl.signal, modelTier:'default'});
+    const res=insanca(await sampleFn.json(riskIstem(plan&&plan.tur, list),{signal:fctl.signal, modelTier:'default'}));
     LAST=null; RSON={res:res||{}, list}; riskCiz(); $('#sstate').textContent='';
   }catch(e){ $('#sstate').textContent=hataMesaj(e); }
   finally{ $('#risk').disabled=false; $('#summ').disabled=false; $('#fstop').hidden=true; }
