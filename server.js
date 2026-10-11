@@ -95,6 +95,7 @@ app.use((req, res, next) => {
   if (req.method === 'POST' && req.path.startsWith('/api/') && !req.is('application/json')) return res.status(415).json({ hata: 'Geçersiz istek biçimi.' });
   next();
 });
+app.use(require('compression')()); // yasa/karar dosyaları ~4 kat küçülür: daha az bant genişliği, telefonda daha hızlı açılış
 app.use(express.json({ limit: '1.5mb' }));
 const sayfa = ad => fs.readFileSync(path.join(__dirname, 'sayfalar', ad), 'utf8').replace('/*__CSS__*/', fs.readFileSync(path.join(__dirname, 'sayfalar', 'ortak.css'), 'utf8'));
 
