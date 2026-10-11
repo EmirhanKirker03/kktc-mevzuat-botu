@@ -36,5 +36,5 @@ label{font-size:12px;letter-spacing:.06em;text-transform:uppercase;color:var(--m
 <script>
 document.getElementById('f').addEventListener('submit',async e=>{e.preventDefault();const m=document.getElementById('msg');m.textContent='';
  const r=await fetch('/api/giris',{method:'POST',headers:{'content-type':'application/json'},body:JSON.stringify({eposta:eposta.value,sifre:sifre.value})});
- const j=await r.json().catch(()=>({})); if(r.ok) location.href='/'; else m.textContent=j.hata||'Giriş yapılamadı.';});
+ const j=await r.json().catch(()=>({})); if(r.ok) location.href=j.gecici?'/hesap?ilk=1':'/'; else m.textContent=j.hata||'Giriş yapılamadı.';});
 </script></body></html>

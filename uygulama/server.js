@@ -9,6 +9,7 @@
 //   YONETICI_SIFRE      (ilk kurulum) yönetici şifresi (en az 10 karakter)
 //   MODEL               (isteğe bağlı) varsayılan claude-sonnet-5-5
 //   GUNLUK_SORU         (isteğe bağlı) kullanıcı başına günlük yapay zekâ isteği, varsayılan 150
+//   GUNLUK_KARAKTER     (isteğe bağlı) kullanıcı başına günlük gönderilen metin sınırı (maliyet koruması), varsayılan 5.000.000
 //   VERI_KLASORU        (isteğe bağlı) yasa/karar dosyalarının klasörü, varsayılan ./veri
 //   DB_YOLU             (isteğe bağlı) SQLite dosyası, varsayılan ./kayit.db (Render'da kalıcı diske koyun)
 //   PORT                (Render verir)
@@ -24,6 +25,8 @@ const API_KEY = process.env.ANTHROPIC_API_KEY || '';
 const SIR = process.env.OTURUM_SIRRI || '';
 const MODEL = process.env.MODEL || 'claude-sonnet-5-5';
 const GUNLUK = Number(process.env.GUNLUK_SORU || 150);
+const GUNLUK_KAR = Number(process.env.GUNLUK_KARAKTER || 5000000);
+const ISTEM_SINIR = 400000;
 const VERI = path.resolve(process.env.VERI_KLASORU || path.join(__dirname, 'veri'));
 const DB_YOLU = process.env.DB_YOLU || path.join(__dirname, 'kayit.db');
 const URETIM = process.env.NODE_ENV === 'production';
@@ -40,6 +43,10 @@ CREATE TABLE IF NOT EXISTS kullanim (kullanici_id INTEGER NOT NULL, gun TEXT NOT
 CREATE TABLE IF NOT EXISTS inceleme (id INTEGER PRIMARY KEY, kullanici_id INTEGER NOT NULL, zaman TEXT NOT NULL, veri TEXT NOT NULL);
 CREATE TABLE IF NOT EXISTS giris_deneme (anahtar TEXT PRIMARY KEY, sayi INTEGER NOT NULL, ilk INTEGER NOT NULL);
 `);
+// sonradan eklenen sütunlar (eski veritabanlarında yoksa eklenir)
+for (const ek of ["ALTER TABLE kullanici ADD COLUMN surum INTEGER NOT NULL DEFAULT 0", "ALTER TABLE kullanici ADD COLUMN gecici INTEGER NOT NULL DEFAULT 0", "ALTER TABLE kullanim ADD COLUMN karakter INTEGER NOT NULL DEFAULT 0"]) {
+  try { db.exec(ek); } catch (_) { /* sütun zaten var */ }
+}
 const simdi = () => new Date().toISOString();
 const bugun = () => new Date().toISOString().slice(0, 10);
 
@@ -55,21 +62,22 @@ if (process.env.YONETICI_EPOSTA && process.env.YONETICI_SIFRE) {
 
 /* ---------- oturum (imzalı çerez) ---------- */
 const imza = s => crypto.createHmac('sha256', SIR).update(s).digest('base64url');
-function cerezYaz(res, uid) {
+// çerez: kullanıcı.sürüm.bitiş.imza — şifre değişince/sıfırlanınca sürüm artar ve tüm eski oturumlar kapanır
+function cerezYaz(res, k) {
   const bitis = Date.now() + 1000 * 60 * 60 * 24 * 14;
-  const deger = uid + '.' + bitis;
+  const deger = k.id + '.' + (k.surum || 0) + '.' + bitis;
   res.setHeader('Set-Cookie', `oturum=${deger}.${imza(deger)}; Path=/; HttpOnly; SameSite=Lax; Max-Age=${14 * 24 * 3600}${URETIM ? '; Secure' : ''}`);
 }
 function oturum(req) {
   const m = (req.headers.cookie || '').match(/(?:^|;\s*)oturum=([^;]+)/);
   if (!m) return null;
-  const [uid, bitis, sig] = m[1].split('.');
-  if (!uid || !bitis || !sig) return null;
-  const beklenen = imza(uid + '.' + bitis);
+  const [uid, surum, bitis, sig] = m[1].split('.');
+  if (!uid || !surum || !bitis || !sig) return null;
+  const beklenen = imza(uid + '.' + surum + '.' + bitis);
   if (sig.length !== beklenen.length || !crypto.timingSafeEqual(Buffer.from(sig), Buffer.from(beklenen))) return null;
   if (Date.now() > Number(bitis)) return null;
   const k = db.prepare('SELECT * FROM kullanici WHERE id=? AND aktif=1').get(Number(uid));
-  return k || null;
+  return k && String(k.surum || 0) === surum ? k : null;
 }
 const abone = k => k && (k.rol === 'yonetici' || (k.abonelik_bitis && k.abonelik_bitis >= bugun()));
 
@@ -81,18 +89,22 @@ app.use((req, res, next) => {
   res.setHeader('X-Content-Type-Options', 'nosniff');
   res.setHeader('Referrer-Policy', 'same-origin');
   res.setHeader('X-Frame-Options', 'DENY');
+  res.setHeader('Content-Security-Policy', "default-src 'self'; script-src 'self' 'unsafe-inline' https://cdnjs.cloudflare.com blob:; worker-src 'self' blob:; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src https://fonts.gstatic.com; img-src 'self' data: blob:; connect-src 'self' https://cdnjs.cloudflare.com; frame-ancestors 'none'; base-uri 'none'; form-action 'self'; object-src 'none'");
+  if (URETIM) res.setHeader('Strict-Transport-Security', 'max-age=31536000');
+  // durum değiştiren API istekleri yalnızca JSON kabul eder (başka sitelerden form ile istek atılamaz)
+  if (req.method === 'POST' && req.path.startsWith('/api/') && !req.is('application/json')) return res.status(415).json({ hata: 'Geçersiz istek biçimi.' });
   next();
 });
 app.use(express.json({ limit: '1.5mb' }));
-app.use(express.urlencoded({ extended: false }));
 const sayfa = ad => fs.readFileSync(path.join(__dirname, 'sayfalar', ad), 'utf8').replace('/*__CSS__*/', fs.readFileSync(path.join(__dirname, 'sayfalar', 'ortak.css'), 'utf8'));
 
-// giriş denemesi sınırı (aynı e-posta + IP için 15 dakikada 8 deneme)
-function denemeKontrol(anahtar) {
+// giriş denemesi sınırı: aynı e-posta + IP için 15 dakikada 8, aynı IP için 15 dakikada 30 hatalı deneme
+function denemeKontrol(anahtar, sinir) {
   const r = db.prepare('SELECT * FROM giris_deneme WHERE anahtar=?').get(anahtar);
   if (r && Date.now() - r.ilk > 15 * 60 * 1000) { db.prepare('DELETE FROM giris_deneme WHERE anahtar=?').run(anahtar); return true; }
-  return !r || r.sayi < 8;
+  return !r || r.sayi < (sinir || 8);
 }
+const SAHTE_OZET = bcrypt.hashSync('kullanici-yok-' + crypto.randomBytes(8).toString('hex'), 12); // olmayan e-postada da aynı süre beklensin
 function denemeEkle(anahtar) {
   db.prepare('INSERT INTO giris_deneme (anahtar, sayi, ilk) VALUES (?,1,?) ON CONFLICT(anahtar) DO UPDATE SET sayi=sayi+1').run(anahtar, Date.now());
 }
@@ -101,21 +113,25 @@ app.get('/giris', (req, res) => res.type('html').send(sayfa('giris.html')));
 app.get('/kosullar', (req, res) => res.type('html').send(sayfa('kosullar.html')));
 app.post('/api/giris', (req, res) => {
   const e = String(req.body.eposta || '').trim().toLowerCase(), s = String(req.body.sifre || '');
-  const anahtar = e + '|' + req.ip;
-  if (!denemeKontrol(anahtar)) return res.status(429).json({ hata: 'Çok fazla deneme. 15 dakika sonra tekrar deneyin.' });
+  // sınırlar: e-posta+IP 8, IP 30, e-posta (tüm IP'lerden) 40 hatalı deneme / 15 dakika
+  const anahtar = e + '|' + req.ip, ipAnahtar = 'ip|' + req.ip, epAnahtar = 'e|' + e;
+  if (!denemeKontrol(anahtar) || !denemeKontrol(ipAnahtar, 30) || !denemeKontrol(epAnahtar, 40)) return res.status(429).json({ hata: 'Çok fazla deneme. 15 dakika sonra tekrar deneyin.' });
   const k = db.prepare('SELECT * FROM kullanici WHERE eposta=? AND aktif=1').get(e);
-  if (!k || !bcrypt.compareSync(s, k.sifre)) { denemeEkle(anahtar); return res.status(401).json({ hata: 'E-posta veya şifre hatalı.' }); }
+  const dogru = bcrypt.compareSync(s, k ? k.sifre : SAHTE_OZET);
+  if (!k || !dogru) { denemeEkle(anahtar); denemeEkle(ipAnahtar); denemeEkle(epAnahtar); return res.status(401).json({ hata: 'E-posta veya şifre hatalı.' }); }
   db.prepare('DELETE FROM giris_deneme WHERE anahtar=?').run(anahtar);
-  cerezYaz(res, k.id);
-  res.json({ ok: true, yonetici: k.rol === 'yonetici' });
+  cerezYaz(res, k);
+  res.json({ ok: true, yonetici: k.rol === 'yonetici', gecici: !!k.gecici });
 });
-app.post('/api/cikis', (req, res) => { res.setHeader('Set-Cookie', 'oturum=; Path=/; Max-Age=0'); res.json({ ok: true }); });
+app.post('/api/cikis', (req, res) => { res.setHeader('Set-Cookie', `oturum=; Path=/; HttpOnly; SameSite=Lax; Max-Age=0${URETIM ? '; Secure' : ''}`); res.json({ ok: true }); });
 app.post('/api/sifre', (req, res) => {
   const k = oturum(req); if (!k) return res.status(401).json({ hata: 'Oturum yok.' });
   const eski = String(req.body.eski || ''), yeni = String(req.body.yeni || '');
   if (!bcrypt.compareSync(eski, k.sifre)) return res.status(400).json({ hata: 'Mevcut şifre hatalı.' });
   if (yeni.length < 10) return res.status(400).json({ hata: 'Yeni şifre en az 10 karakter olmalı.' });
-  db.prepare('UPDATE kullanici SET sifre=? WHERE id=?').run(bcrypt.hashSync(yeni, 12), k.id);
+  if (yeni === eski) return res.status(400).json({ hata: 'Yeni şifre eskisiyle aynı olamaz.' });
+  db.prepare('UPDATE kullanici SET sifre=?, surum=surum+1, gecici=0 WHERE id=?').run(bcrypt.hashSync(yeni, 12), k.id);
+  cerezYaz(res, db.prepare('SELECT * FROM kullanici WHERE id=?').get(k.id)); // bu cihaz açık kalır, diğer oturumlar kapanır
   res.json({ ok: true });
 });
 
@@ -128,8 +144,9 @@ function girisGerekli(req, res, next) {
 app.use(girisGerekli);
 
 app.get('/api/ben', (req, res) => {
-  const k = req.k, u = db.prepare('SELECT sayi FROM kullanim WHERE kullanici_id=? AND gun=?').get(k.id, bugun());
-  res.json({ id: String(k.id), ad: k.ad, eposta: k.eposta, buro: k.buro, rol: k.rol, abonelik_bitis: k.abonelik_bitis, abone: abone(k), bugun_kullanim: u ? u.sayi : 0, gunluk_sinir: GUNLUK });
+  const k = req.k, u = db.prepare('SELECT sayi, karakter FROM kullanim WHERE kullanici_id=? AND gun=?').get(k.id, bugun());
+  res.json({ id: String(k.id), ad: k.ad, eposta: k.eposta, buro: k.buro, rol: k.rol, abonelik_bitis: k.abonelik_bitis, abone: abone(k), gecici: !!k.gecici,
+    bugun_kullanim: u ? u.sayi : 0, gunluk_sinir: GUNLUK, bugun_karakter: u ? u.karakter : 0, gunluk_karakter: GUNLUK_KAR });
 });
 
 // yapay zekâ: sayfanın hazırladığı istemi Claude'a iletir. İçerik kaydedilmez.
@@ -138,25 +155,31 @@ app.post('/api/sor', async (req, res) => {
   if (!abone(k)) return res.status(403).json({ hata: 'Aboneliğiniz sona ermiş. Yenilemek için bizimle iletişime geçin.', kod: 'not_granted' });
   if (!API_KEY) return res.status(503).json({ hata: 'Yapay zekâ henüz yapılandırılmadı.', kod: 'sampling_disabled' });
   const istem = req.body && req.body.istem;
-  if (typeof istem !== 'string' || istem.length < 10 || istem.length > 400000) return res.status(400).json({ hata: 'Geçersiz istek.' });
-  const u = db.prepare('SELECT sayi FROM kullanim WHERE kullanici_id=? AND gun=?').get(k.id, bugun());
+  if (typeof istem !== 'string' || istem.length < 10) return res.status(400).json({ hata: 'Geçersiz istek.' });
+  if (istem.length > ISTEM_SINIR) return res.status(413).json({ hata: 'Metin çok uzun.', kod: 'prompt_too_large' });
+  const u = db.prepare('SELECT sayi, karakter FROM kullanim WHERE kullanici_id=? AND gun=?').get(k.id, bugun());
   if (k.rol !== 'yonetici' && u && u.sayi >= GUNLUK) return res.status(429).json({ hata: 'Günlük kullanım sınırına ulaştınız.', kod: 'rate_limited' });
-  db.prepare('INSERT INTO kullanim (kullanici_id, gun, sayi) VALUES (?,?,1) ON CONFLICT(kullanici_id, gun) DO UPDATE SET sayi=sayi+1').run(k.id, bugun());
+  if (k.rol !== 'yonetici' && u && u.karakter + istem.length > GUNLUK_KAR) return res.status(429).json({ hata: 'Günlük metin sınırına ulaştınız (çok uzun belgeler). Yarın tekrar deneyin.', kod: 'rate_limited' });
+  db.prepare('INSERT INTO kullanim (kullanici_id, gun, sayi, karakter) VALUES (?,?,1,?) ON CONFLICT(kullanici_id, gun) DO UPDATE SET sayi=sayi+1, karakter=karakter+excluded.karakter').run(k.id, bugun(), istem.length);
   const ac = new AbortController(); res.on('close', () => { if (!res.writableEnded) ac.abort(); });
+  // yapay zekâ cevap veremezse kullanım sayacı geri alınır (avukatın hakkı yanmasın)
+  const iade = () => db.prepare('UPDATE kullanim SET sayi=MAX(0,sayi-1), karakter=MAX(0,karakter-?) WHERE kullanici_id=? AND gun=?').run(istem.length, k.id, bugun());
   try {
     const r = await fetch(process.env.ANTHROPIC_URL || 'https://api.anthropic.com/v1/messages', {
       method: 'POST', signal: ac.signal,
       headers: { 'content-type': 'application/json', 'x-api-key': API_KEY, 'anthropic-version': '2023-06-01' },
       body: JSON.stringify({ model: MODEL, max_tokens: 8000, messages: [{ role: 'user', content: istem }] }),
     });
-    const j = await r.json();
+    const j = await r.json().catch(() => ({}));
     if (!r.ok) {
+      iade();
       console.error('Claude API hatası', r.status, j && j.error && j.error.type);
       return res.status(r.status === 429 ? 429 : 502).json({ hata: 'Yapay zekâ şu anda cevap veremedi.', kod: r.status === 429 ? 'rate_limited' : 'upstream' });
     }
     const metin = (j.content || []).filter(c => c.type === 'text').map(c => c.text).join('');
     res.json({ metin });
   } catch (e) {
+    iade();
     if (ac.signal.aborted) return;
     console.error('Claude API bağlantı hatası', e.message);
     res.status(502).json({ hata: 'Yapay zekâya bağlanılamadı.', kod: 'upstream' });
@@ -175,6 +198,7 @@ app.post('/api/inceleme', (req, res) => {
   const temiz = {};
   for (const a of ['hedef', 'tur', 'etiket', 'karar', 'not', 'soru', 'cevap', 'kaynaklar', 'metin']) if (v[a] !== undefined) temiz[a] = typeof v[a] === 'string' ? v[a].slice(0, 20000) : v[a];
   if (!temiz.hedef || !['dogru', 'duzelt', 'eksik'].includes(temiz.karar)) return res.status(400).json({ hata: 'Eksik bilgi.' });
+  if (JSON.stringify(temiz).length > 60000) return res.status(413).json({ hata: 'Kayıt çok uzun.' });
   db.prepare('INSERT INTO inceleme (kullanici_id, zaman, veri) VALUES (?,?,?)').run(req.k.id, simdi(), JSON.stringify(temiz));
   res.json({ ok: true });
 });
@@ -195,16 +219,16 @@ app.post('/api/yonetim/kullanici', yonetici, (req, res) => {
   if (!/^[^@\s]+@[^@\s]+\.[^@\s]+$/.test(e) || !ad || !/^\d{4}-\d{2}-\d{2}$/.test(bitis)) return res.status(400).json({ hata: 'E-posta, ad ve abonelik bitiş tarihi gerekli.' });
   if (db.prepare('SELECT 1 FROM kullanici WHERE eposta=?').get(e)) return res.status(400).json({ hata: 'Bu e-posta zaten kayıtlı.' });
   const gecici = crypto.randomBytes(9).toString('base64url');
-  db.prepare('INSERT INTO kullanici (eposta, ad, buro, sifre, abonelik_bitis, olusturma) VALUES (?,?,?,?,?,?)').run(e, ad, buro, bcrypt.hashSync(gecici, 12), bitis, simdi());
+  db.prepare('INSERT INTO kullanici (eposta, ad, buro, sifre, abonelik_bitis, olusturma, gecici) VALUES (?,?,?,?,?,?,1)').run(e, ad.slice(0, 120), buro.slice(0, 160), bcrypt.hashSync(gecici, 12), bitis, simdi());
   res.json({ ok: true, gecici_sifre: gecici });
 });
 app.post('/api/yonetim/guncelle', yonetici, (req, res) => {
   const id = Number(req.body.id), k = db.prepare('SELECT * FROM kullanici WHERE id=?').get(id);
   if (!k) return res.status(404).json({ hata: 'Kullanıcı yok.' });
   if (req.body.abonelik_bitis && /^\d{4}-\d{2}-\d{2}$/.test(req.body.abonelik_bitis)) db.prepare('UPDATE kullanici SET abonelik_bitis=? WHERE id=?').run(req.body.abonelik_bitis, id);
-  if (req.body.aktif !== undefined && k.rol !== 'yonetici') db.prepare('UPDATE kullanici SET aktif=? WHERE id=?').run(req.body.aktif ? 1 : 0, id);
+  if (req.body.aktif !== undefined && k.rol !== 'yonetici') db.prepare('UPDATE kullanici SET aktif=?, surum=surum+1 WHERE id=?').run(req.body.aktif ? 1 : 0, id);
   let gecici;
-  if (req.body.sifre_sifirla) { gecici = crypto.randomBytes(9).toString('base64url'); db.prepare('UPDATE kullanici SET sifre=? WHERE id=?').run(bcrypt.hashSync(gecici, 12), id); }
+  if (req.body.sifre_sifirla) { gecici = crypto.randomBytes(9).toString('base64url'); db.prepare('UPDATE kullanici SET sifre=?, surum=surum+1, gecici=1 WHERE id=?').run(bcrypt.hashSync(gecici, 12), id); }
   res.json({ ok: true, gecici_sifre: gecici });
 });
 

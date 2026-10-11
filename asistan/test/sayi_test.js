@@ -1,0 +1,18 @@
+const {chromium}=require('/opt/npm-tools/node_modules/playwright');
+(async()=>{const b=await chromium.launch({executablePath:'/opt/pw-browsers/chromium'});const p=await b.newPage(); p.on('pageerror',e=>console.log('ERR',e.message));
+await p.goto('http://127.0.0.1:8811/kira_asistani.html'); await p.waitForTimeout(800);
+const r=await p.evaluate(async()=>{ const A=window.__arama, S=window.__sayi;
+  const T=await A.tumDizin(); const y=T.ys.find(x=>x.p==='T7384'); const L=await (async()=>{ const l=await A.birlesik('Hüküm aleyhine istinaf süresi nedir?',7); const k=l.map(a=>a.law).find(x=>/7384/.test(x)); return A.LAWBY[k]; })();
+  const e35=L.arts.find(a=>/^Emir 35 n\.2/.test(a.no)); const kira=Object.values(A.LAWBY).find(l=>l.kod==='KIRA');
+  const cid=e35.cid; const out={cid, no:e35.no};
+  const T_=(ad,metin,cites,beklenen)=>{ const g=S.eksikSayilar(metin,cites); out[ad]=(JSON.stringify(g)===JSON.stringify(beklenen)?'GEÇTİ ':'KALDI ')+JSON.stringify(g); };
+  T_('6 hafta rakamla','Hükme karşı istinaf süresi 6 haftadır.',[cid],[]);
+  T_('altı hafta yazıyla','Hükme karşı istinaf süresi altı haftadır.',[cid],[]);
+  T_('yanlış 30 gün','Hükme karşı istinaf süresi 30 gündür.',[cid],['30']);
+  T_('on dört gün','Ara emrine karşı on dört gün içinde istinaf edilir.',[cid],[]);
+  T_('yanlış yirmi bir','Ara emrine karşı yirmi bir gün içinde istinaf edilir.',[cid],['21']);
+  T_('madde/emir atfı karışmaz','HMUT Emir 35 nizam 2(1) ve Kira Yasası 6. maddesi ile 27/2011 sayılı Yasa uyarınca 14 gün.',[cid],[]);
+  T_('bir kelimesi','Bir kişi bir dilekçe ile 14 gün içinde başvurur.',[cid],[]);
+  T_('yüzde/tutar uydurma','Masrafın %25 fazlası ve 5.000 TL ödenir.',[cid],['25','5000']);
+  return out; });
+console.log(r); await b.close();})();

@@ -65,6 +65,40 @@ def ayir(text, bas_konum=0, son=None, en_fazla_atlama=4):
             continue
         if beklenen <= n <= beklenen + en_fazla_atlama:
             kabul.append((s, e, str(n))); beklenen = n + 1; son_no = (n, '')
+    return _kur(text, kabul, bas_konum, son)
+
+
+def ayir_lis(text, bas_konum=0, son=None, en_fazla_atlama=12):
+    """Aday numaralar arasından en uzun artan diziyi seçer (dinamik programlama). Kaynak metinde birkaç
+    madde eksik olsa bile (ör. LibreOffice'in atladığı metin kutuları) sonraki maddeler kaybolmaz."""
+    text = text.replace('\r', '').replace('\f', '\n').replace('\xa0', ' ')
+    son = len(text) if son is None else son
+    ad = [(m.start(1), m.end(), int(m.group(1).replace('l', '1')), m.group(2) or '') for m in NUM_RE.finditer(text, bas_konum, son)]
+    n = len(ad)
+    if not n: return []
+    dp = [1] * n; onc = [-1] * n
+    for i in range(n):
+        si, ei, ni, hi = ad[i]
+        if not hi and ni > 3 and False: pass
+        for j in range(max(0, i - 400), i):
+            sj, ej, nj, hj = ad[j]
+            ok = (not hi and nj < ni <= nj + en_fazla_atlama) or (hi and ni == nj and hi > (hj or ''))
+            if ok and dp[j] + 1 > dp[i]: dp[i] = dp[j] + 1; onc[i] = j
+    # zincir 1-3 arası bir numarayla başlamalı
+    en, eni = 0, -1
+    for i in range(n):
+        k = i
+        while onc[k] != -1: k = onc[k]
+        if ad[k][2] <= 3 and not ad[k][3] and dp[i] > en: en, eni = dp[i], i
+    if eni < 0: return []
+    zincir = []
+    while eni != -1: zincir.append(eni); eni = onc[eni]
+    zincir.reverse()
+    kabul = [(ad[i][0], ad[i][1], f'{ad[i][2]}{ad[i][3]}') for i in zincir]
+    return _kur(text, kabul, bas_konum, son)
+
+
+def _kur(text, kabul, bas_konum, son):
     maddeler = []
     for i, (s, e, no) in enumerate(kabul):
         alt = kabul[i - 1][1] if i else bas_konum
@@ -92,7 +126,8 @@ def ayir(text, bas_konum=0, son=None, en_fazla_atlama=4):
 def govde_bas(text):
     """Yasanın asıl metninin başladığı yer: "Bu Yasa ... olarak isimlendirilir" cümlesinden hemen önceki "1." numarası."""
     text = text.replace('\r', '').replace('\f', '\n').replace('\xa0', ' ')
-    m = re.search(r'Bu (?:Yasa|Tüzük|Yönetmelik|Kural|Kanun)[^\n]{0,120}?(?:isimlendiril|anıl|adlandırıl|denir|olarak an)', text)
+    m = re.search(r'Bu (?:Yasa|Tüzük|Yönetmelik|Kural|Kanun|Kararname)[^\n]{0,120}?(?:isimlendiril|anıl|adlandırıl|denir|olarak an)', text) or \
+        re.search(r'Bu (?:Yasa|Tüzük|Yönetmelik|Kural|Kanun|Kararname)(?:[^\n.]|\n(?!\s*\n)){0,160}?(?:isimlendiril|anıl|adlandırıl|denir|olarak an)', text)
     if not m: return 0
     pencere = text[max(0, m.start() - 200):m.start()]
     k = [x.start() for x in re.finditer(r'(?<![\d/])[1l]\.', pencere)]

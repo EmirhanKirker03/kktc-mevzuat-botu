@@ -9,7 +9,7 @@ Metin sirali_ayir ile maddelere ayrılır; ayırma güvenilir değilse metin sı
 """
 import json, os, re, sys, math, collections
 D = os.path.dirname(os.path.abspath(__file__)); sys.path.insert(0, D)
-from sirali_ayir import ayir, govde_bas
+from sirali_ayir import ayir, ayir_lis, govde_bas, NUM_RE
 REPO = '/home/claude/kktc-mevzuat-botu'
 M = os.path.join(REPO, 'veri/mahkemeler')
 ELLE = {24, 304, 351, 416, 577, 819, 943, 106, 107, 717, 250, 277, 898, 741}
@@ -59,19 +59,60 @@ for tur in ('yasa', 'tuzuk'):
         o = ocr[str(pk)]; kaynak = o.get('yontem', 'ocr'); ocrmu = kaynak.startswith('ocr')
         metin = open(os.path.join(REPO, o['metin_dosyasi']), encoding='utf-8').read()
     if not metin: istat[tur + ' metin yok'] += 1; continue
-    metin = metin.replace('\r', '').replace('\f', '\n').replace('\xa0', ' ').replace('\ufffd', '')  # okunamayan karakterler (kaynak dosyada da bozuk) çıkarılır
-    if ocrmu: metin = re.sub(r'\[SAYFA \d+\]\n?', '\n', metin)
-    b = govde_bas(metin)
-    ms = []
-    try: ms = ayir(metin, b)
-    except Exception: ms = []
-    kapsam = sum(len(m['metin']) for m in ms) / max(1, len(metin) - b)
-    nums = [int(re.match(r'\d+', m['no']).group()) for m in ms]
-    bosluk = (max(nums) - len(set(nums))) / max(nums) if nums else 1
-    enbuyuk = max((len(m['metin']) for m in ms), default=0)
-    if len(ms) >= 3 and kapsam > 0.55 and bosluk < 0.25 and not (enbuyuk > 30000 and enbuyuk > 0.35 * (len(metin) - b)):
+    def temizle(t):
+        t = t.replace('\r', '').replace('\f', '\n').replace('\xa0', ' ').replace('\ufffd', '')  # okunamayan karakterler (kaynak dosyada da bozuk) çıkarılır
+        return re.sub(r'\[SAYFA \d+\]\n?', '\n', t) if ocrmu else t
+    def uygun(ms, esik, metin, b):
+        if len(ms) < 3: return False
+        kapsam = sum(len(m['metin']) for m in ms) / max(1, len(metin) - b)
+        nums = [int(re.match(r'\d+', m['no']).group()) for m in ms]
+        bosluk = (max(nums) - len(set(nums))) / max(nums)
+        enbuyuk = max(len(m['metin']) for m in ms)
+        return kapsam > 0.55 and bosluk < esik and not (enbuyuk > 30000 and enbuyuk > 0.35 * (len(metin) - b))
+    def bos_oran(ms):
+        k = sum(1 for m in ms if len(m['metin'].strip()) < 25 and not m['kaldirildi'])
+        return k / max(1, len(ms)) if k >= 3 else 0.0
+    def bol_bas(metin, b):
+        try: ms = ayir(metin, b)
+        except Exception: ms = []
+        if uygun(ms, 0.25, metin, b): return ms, 'sirali'
+        try: ms2 = ayir_lis(metin, b)
+        except Exception: ms2 = []
+        if len(ms2) >= 8 and ms2[0]['no'] == '1' and uygun(ms2, 0.2, metin, b): return ms2, 'lis'
+        return None, None
+    def bol(metin):
+        """(maddeler, yöntem). Önce yasanın gövde başlangıcından bölünür; maddelerin çoğu boş çıkarsa (başta içindekiler
+        veya madde gerekçeleri listesi varsa) metindeki sonraki "1." başlangıçları denenir, en çok dolu madde veren seçilir."""
+        b = govde_bas(metin)
+        ms, y = bol_bas(metin, b)
+        if ms is not None and bos_oran(ms) <= 0.25: return ms, y
+        adaylar = [m.start(1) for m in NUM_RE.finditer(metin, b) if m.group(1) in ('1', 'l') and not m.group(2)][:8]
+        en, eny = (ms, y) if ms is not None else (None, None)
+        puan = lambda x: sum(1 for m in x if len(m['metin'].strip()) >= 25) * (1 - bos_oran(x))
+        for a in adaylar:
+            if a <= b: continue
+            x, yx = bol_bas(metin, max(0, a - 1))
+            kisa_isim = x is not None and re.search(r'isimlendiril|olarak anıl|adlandırıl|cited as|Kısa [İi]sim', x[0]['metin'][:300] + ' ' + (x[0]['baslik'] or ''), re.I)
+            if x is not None and kisa_isim and bos_oran(x) <= 0.25 and (en is None or puan(x) > puan(en)): en, eny = x, yx + '-yeniden'
+        if en is not None and bos_oran(en) > 0.25: return None, None
+        return en, eny
+    metin = temizle(metin)
+    ms, yontem = bol(metin)
+    # LibreOffice metni ayrılamadıysa .doc/.docx'in doğrudan metin çıkarımı denenir (LibreOffice bazı başlık kutularını düşürüyor)
+    if ms is None and kaynak == 'libreoffice' and k.get('durum') == 'tamam' and k.get('bicim') in ('doc', 'docx') and k.get('metin_dosyasi'):
+        m2 = temizle(open(os.path.join(REPO, k['metin_dosyasi']), encoding='utf-8').read())
+        ms2, y2 = bol(m2)
+        if ms2 is not None: ms, yontem, metin, kaynak = ms2, y2 + '-dogrudan', m2, k['bicim']
+    ms = ms or []
+    eksik = []
+    if ms:
         maddeler = [{'no': m['no'], 'baslik': m['baslik'], 'metin': m['metin'], **({'kaldirildi': True} if m['kaldirildi'] else {})} for m in ms]
-        ayirma = 'madde'
+        ayirma = 'madde'; istat[tur + ' yöntem ' + yontem] += 1
+        var = {int(re.match(r'\d+', m['no']).group()) for m in ms}
+        bos = [n for n in range(1, max(var)) if n not in var]
+        for n in bos:  # ardışık eksikleri aralık yap: [11, 15]
+            if eksik and eksik[-1][1] == n - 1: eksik[-1][1] = n
+            else: eksik.append([n, n])
     else:
         maddeler = parcala(metin); ayirma = 'parca'
     istat[tur + ' ' + ayirma + (' (ocr)' if ocrmu else '')] += 1
@@ -83,7 +124,7 @@ for tur in ('yasa', 'tuzuk'):
     ingilizce = ornek.count(' the ') + ornek.count(' of ') > 3 * (ornek.count(' ve ') + ornek.count(' bir ') + 1)
     ad = re.sub(r'\s+', ' ', k['ad']).strip()
     yasalar.append({'p': pk if tur == 'yasa' else 'T' + str(pk), 'tz': tur == 'tuzuk', 'n': re.sub(r'\s+', ' ', str(k['numara'])), 'a': ad, 'u': k['url'], 'k': kaynak, 'o': ocrmu,
-                    'y': ayirma, 'en': ingilizce, 'gy': GY.get(pk, []) if tur == 'yasa' else [], 'kd': bool(re.search(r'yürürlükten\s+kaldır|ilga edil', ad, re.I)), 'm': maddeler})
+                    'y': ayirma, 'en': ingilizce, 'gy': GY.get(pk, []) if tur == 'yasa' else [], 'kd': bool(re.search(r'yürürlükten\s+kaldır|ilga edil', ad, re.I)), 'em': eksik if ayirma == 'madde' else [], 'm': maddeler})
 
 # elle doğrulanmış yasalar da dizine girer (metinleri sayfanın içinde; burada yalnızca arama anahtarları)
 elle = []
@@ -110,7 +151,7 @@ for y, tf in zip(yasalar, tfs):
     if boy + len(j.encode()) > PAKET_BAYT and paket:
         paketler.append(paket); paket, boy = {}, 0
     paket[str(y['p'])] = y['m']; boy += len(j.encode())
-    dizin.append({x: y[x] for x in ('p', 'n', 'a', 'u', 'k', 'o', 'y', 'kd', 'en', 'tz', 'gy') if x in y and y[x] not in (False, [])} | {'mc': len(y['m']), 'b': len(paketler), 'kw': ' '.join(top), 'bs': basliklar})
+    dizin.append({x: y[x] for x in ('p', 'n', 'a', 'u', 'k', 'o', 'y', 'kd', 'en', 'tz', 'gy', 'em') if x in y and y[x] not in (False, [])} | {'mc': len(y['m']), 'b': len(paketler), 'kw': ' '.join(top), 'bs': basliklar})
 if paket: paketler.append(paket)
 os.makedirs(os.path.join(D, 'app/pub'), exist_ok=True)
 for f in os.listdir(os.path.join(D, 'app/pub')):
