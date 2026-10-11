@@ -8,7 +8,7 @@
 //   YONETICI_EPOSTA     (ilk kurulum) yönetici hesabı; yoksa oluşturulur
 //   YONETICI_SIFRE      (ilk kurulum) yönetici şifresi (en az 10 karakter)
 //   MODEL               (isteğe bağlı) varsayılan claude-sonnet-5-5
-//   GUNLUK_SORU         (isteğe bağlı) kullanıcı başına günlük yapay zekâ isteği, varsayılan 150
+//   GUNLUK_SORU         (isteğe bağlı) kullanıcı başına günlük yapay zekâ isteği, varsayılan 60
 //   GUNLUK_KARAKTER     (isteğe bağlı) kullanıcı başına günlük gönderilen metin sınırı (maliyet koruması), varsayılan 5.000.000
 //   VERI_KLASORU        (isteğe bağlı) yasa/karar dosyalarının klasörü, varsayılan ./veri
 //   DB_YOLU             (isteğe bağlı) SQLite dosyası, varsayılan ./kayit.db (Render'da kalıcı diske koyun)
@@ -24,7 +24,7 @@ const path = require('path');
 const API_KEY = process.env.ANTHROPIC_API_KEY || '';
 const SIR = process.env.OTURUM_SIRRI || '';
 const MODEL = process.env.MODEL || 'claude-sonnet-5-5';
-const GUNLUK = Number(process.env.GUNLUK_SORU || 150);
+const GUNLUK = Number(process.env.GUNLUK_SORU || 60);
 const GUNLUK_KAR = Number(process.env.GUNLUK_KARAKTER || 5000000);
 const ISTEM_SINIR = 400000;
 const VERI = path.resolve(process.env.VERI_KLASORU || path.join(__dirname, 'veri'));

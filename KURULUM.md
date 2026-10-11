@@ -21,7 +21,7 @@ Yapay zekâ cevapları sizin Claude API anahtarınızla üretilir; avukatların 
 
 - `/yonetim` sayfasından avukat hesabı açın: ad, e-posta, büro ve abonelik bitiş tarihi. Ekranda çıkan geçici şifreyi avukata güvenli bir kanaldan iletin.
 - Abonelik uzatmak için tablodaki tarihi değiştirmeniz yeterli. Süresi dolan hesap giriş yapabilir ama yapay zekâyı kullanamaz.
-- Kullanıcı başına günlük istek sınırı `GUNLUK_SORU` ile ayarlanır (varsayılan 150).
+- Kullanıcı başına günlük istek sınırı `GUNLUK_SORU` ile ayarlanır (varsayılan 60; derin araştırma ve sözleşme incelemesi 2 istek sayılır).
 
 ## Gizlilik
 
