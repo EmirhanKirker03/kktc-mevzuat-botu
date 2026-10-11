@@ -1,2 +1,4 @@
 node_modules/
 asistan/test/mock_mod.txt
+asistan/test/*.png
+asistan/test/*.docx
