@@ -147,7 +147,7 @@ app.post('/api/sor', async (req, res) => {
     const r = await fetch(process.env.ANTHROPIC_URL || 'https://api.anthropic.com/v1/messages', {
       method: 'POST', signal: ac.signal,
       headers: { 'content-type': 'application/json', 'x-api-key': API_KEY, 'anthropic-version': '2023-06-01' },
-      body: JSON.stringify({ model: MODEL, max_tokens: 4000, messages: [{ role: 'user', content: istem }] }),
+      body: JSON.stringify({ model: MODEL, max_tokens: 8000, messages: [{ role: 'user', content: istem }] }),
     });
     const j = await r.json();
     if (!r.ok) {

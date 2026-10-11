@@ -174,6 +174,35 @@ body.rv-on .rv{display:flex}
 .grid{display:grid;grid-template-columns:minmax(0,1.05fr) minmax(0,1fr);gap:24px}
 @media (max-width:1000px){.grid{grid-template-columns:1fr}}
 @media (prefers-reduced-motion:reduce){*{scroll-behavior:auto!important;transition:none!important}}
+
+/* araçlar */
+select,input[type=date]{color:var(--ink);background:var(--sheet);border:1px solid var(--rule-2);border-radius:var(--r);padding:10px 12px;width:100%;max-width:640px;font:inherit}
+.btn.sm{padding:6px 12px;font-size:13.5px}
+.acts{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin-top:14px;padding-top:12px;border-top:1px solid var(--rule)}
+.devam{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:8px;background:var(--seal-soft);border-radius:var(--r);padding:8px 12px;font-size:13.5px;margin-top:10px}
+.linkbtn{background:none;border:0;color:var(--seal);cursor:pointer;font-weight:600;padding:2px 4px;font-size:13px}
+.gecmis{background:var(--sheet);border:1px solid var(--rule);border-radius:var(--r);padding:10px 12px;margin-top:10px;max-height:340px;overflow:auto}
+.grow{display:flex;justify-content:space-between;gap:12px;width:100%;text-align:left;background:none;border:0;border-bottom:1px solid var(--rule);padding:8px 2px;cursor:pointer;color:inherit;font:inherit}
+.grow span:first-child{min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.grow:hover span:first-child{color:var(--seal)}
+.gtxt{white-space:pre-wrap;font-family:var(--f-body);font-size:14px;background:var(--paper);border-radius:6px;padding:12px;margin:8px 0 0;max-height:520px;overflow:auto}
+.answer h3.bol{font-family:var(--f-display);font-weight:650;font-size:16.5px;margin:14px 0 4px;color:var(--seal)}
+.sure .sonGun{font-family:var(--f-display);font-weight:650;font-size:clamp(24px,3.4vw,32px);line-height:1.15;margin:2px 0}
+.adim{margin:12px 0 0;padding-left:20px;font-size:14px}
+.adim li{margin:3px 0}
+.quote{margin:6px 0;padding:6px 10px;border-left:3px solid var(--seal);background:var(--paper);font-size:13.5px;border-radius:0 6px 6px 0}
+.dayanak{margin-top:12px;padding-top:10px;border-top:1px solid var(--rule)}
+.kirmizi{color:var(--bad)} .sari{color:var(--warn)}
+.trow{display:flex;gap:10px;align-items:center;padding:5px 0;border-bottom:1px solid var(--rule);font-size:13.5px}
+.trow span:nth-child(2){flex:1;min-width:0}
+.srow{display:flex;justify-content:space-between;gap:10px;align-items:flex-start;background:var(--sheet);border:1px solid var(--rule);border-radius:var(--r);padding:10px 12px;font-size:14px}
+.srow.gecti{opacity:.6}
+.belge{background:var(--sheet);outline:none;font-family:var(--f-display);font-size:15.5px;line-height:1.6}
+.belge h2{font-size:19px;text-align:center;margin:0 0 12px}
+.belge h3{font-size:16px;margin:14px 0 6px}
+.belge p{margin:0 0 10px;max-width:none}
+.belge:focus{box-shadow:0 0 0 2px var(--seal-soft);border-radius:6px}
+.belge .cite{font-family:var(--f-body)}
 </style>
 
 <div class="app">
@@ -188,17 +217,22 @@ body.rv-on .rv{display:flex}
       <button role="tab" id="tab-kar" data-pane="pane-kar" aria-selected="false"><svg viewBox="0 0 24 24"><path d="M12 3v18M5 7h14M7 7l-3 7a3 3 0 0 0 6 0zM17 7l-3 7a3 3 0 0 0 6 0z"/></svg>Kararlar</button>
       <button role="tab" id="tab-file" data-pane="pane-file" aria-selected="false"><svg viewBox="0 0 24 24"><path d="M14 3H7a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2V8z"/><path d="M14 3v5h5M9 13h6M9 17h4"/></svg>Dosya özeti</button>
       <button role="tab" id="tab-rv" data-pane="pane-rv" aria-selected="false" class="sec"><svg viewBox="0 0 24 24"><path d="M9 11l3 3 8-8"/><path d="M20 12v7a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h9"/></svg>Avukat incelemesi</button>
+      <div class="grp">Araçlar</div>
+      <button role="tab" id="tab-taslak" data-pane="pane-taslak" aria-selected="false" class="sec"><svg viewBox="0 0 24 24"><path d="M12 20h9"/><path d="M16.5 3.5a2.1 2.1 0 0 1 3 3L7 19l-4 1 1-4z"/></svg>Belge taslağı</button>
+      <button role="tab" id="tab-sure" data-pane="pane-sure" aria-selected="false" class="sec"><svg viewBox="0 0 24 24"><rect x="3" y="4" width="18" height="17" rx="2"/><path d="M8 2v4M16 2v4M3 10h18M12 14v3l2 1"/></svg>Süre hesapla</button>
       <div class="grp">Kaynaklar</div>
       <button role="tab" id="tab-laws" data-pane="pane-laws" aria-selected="false" class="sec"><svg viewBox="0 0 24 24"><path d="M4 6h16M4 12h16M4 18h10"/></svg>Kaynak listesi</button>
       <button role="tab" id="tab-cat" data-pane="pane-cat" aria-selected="false" class="sec"><svg viewBox="0 0 24 24"><path d="M3 7l9-4 9 4-9 4z"/><path d="M3 12l9 4 9-4M3 17l9 4 9-4"/></svg>Meclis kataloğu</button>
       <button class="morebtn" id="morebtn" aria-haspopup="true" aria-expanded="false"><svg viewBox="0 0 24 24"><circle cx="5" cy="12" r="1.3"/><circle cx="12" cy="12" r="1.3"/><circle cx="19" cy="12" r="1.3"/></svg>Daha</button>
     </nav>
     <div class="sidefoot">
-      <div class="stat">__YASA__ yasa ve tüzük<br>__MADDE__ doğrulanmış madde<br>__KARAR__ Yüksek Mahkeme kararı<br>güncellik: Ekim 2026</div>
+      <div class="stat">__TUMYASA__ yasa · __TUMTUZUK__ tüzük<br>__YASA__ yasa elle doğrulandı (__MADDE__ madde)<br>__KARAR__ Yüksek Mahkeme kararı<br>76 HMUT formu · 10 usul süresi<br>güncellik: Ekim 2026</div>
       <div class="proto">Prototip, hukuki tavsiye değildir. Son kontrol avukattadır.</div>
     </div>
   </aside>
   <div class="menu" id="menu" hidden>
+    <button data-go="pane-taslak">Belge taslağı</button>
+    <button data-go="pane-sure">Süre hesapla</button>
     <button data-go="pane-rv">Avukat incelemesi</button>
     <button data-go="pane-laws">Kaynak listesi</button>
     <button data-go="pane-cat">Meclis kataloğu</button>
@@ -211,14 +245,17 @@ body.rv-on .rv{display:flex}
     <div class="ask">
       <textarea id="q" rows="2" placeholder="Sorunuzu yazın. Örn. Ev sahibi kirayı artırmak istiyor, anlaşamazsak ne olur?"></textarea>
       <div class="askbar">
-        <label class="switch"><input type="checkbox" id="tumon" checked> Tüm yasa ve tüzüklerde ara</label>
+        <div class="row" style="gap:14px"><label class="switch"><input type="checkbox" id="tumon" checked> Tüm yasa ve tüzüklerde ara</label><label class="switch" title="Soru alt sorulara bölünür, her biri ayrı aranır; daha uzun sürer"><input type="checkbox" id="derin"> Derin araştırma</label></div>
         <div class="row">
           <span class="state" id="state"></span>
           <button class="btn ghost" id="stop" hidden>Durdur</button>
+          <button class="btn ghost" id="gbtn" type="button" aria-expanded="false" aria-controls="gecmis">Geçmiş <span class="muted small" id="gsay"></span></button>
           <button class="btn" id="ask">Ara ve cevapla</button>
         </div>
       </div>
     </div>
+    <div class="devam" id="devam" hidden><span>Takip sorusu sorabilirsiniz; önceki cevap bağlam olarak kullanılır, yeni cevap yine yalnızca bulunan maddelere dayanır.</span><button class="linkbtn" id="yenikonu" type="button">Yeni konu</button></div>
+    <div class="gecmis" id="gecmis" hidden><div class="sec-h"><h3>Soru geçmişi</h3><button class="linkbtn" id="gsil" type="button">Geçmişi temizle</button></div><p class="small muted" style="margin:2px 0 6px">Yalnızca bu cihazdaki tarayıcıda tutulur; sunucuya gönderilmez.</p><div id="glist"></div></div>
     <div class="examples"><span class="lab">Örnek sorular</span><div class="chips" id="examples"></div></div>
     <div class="results">
       <div class="col"><div id="answer"></div></div>
@@ -236,7 +273,7 @@ body.rv-on .rv{display:flex}
   </section>
 
   <section id="pane-file" role="tabpanel" hidden>
-    <div class="pane-head"><div><h2>Dosya özeti</h2><p>Dava dosyasını yükleyin; kişisel bilgiler önce bu cihazda gizlenir, özet ve kronolojideki her cümle belgeden birebir alıntıyla doğrulanır.</p></div></div>
+    <div class="pane-head"><div><h2>Dosya özeti ve sözleşme inceleme</h2><p>Dava dosyası veya sözleşme yükleyin; kişisel bilgiler önce bu cihazda gizlenir. Özet, kronoloji ve sözleşme risklerindeki her tespit belgeden birebir alıntıyla, mevzuat dayanakları da bulunan maddelerle kontrol edilir.</p></div></div>
     <div class="grid">
       <div class="col">
         <div class="row">
@@ -255,11 +292,61 @@ body.rv-on .rv{display:flex}
       <div class="col">
         <div class="row">
           <button class="btn" id="summ">Özet ve kronoloji çıkar</button>
+          <button class="btn ghost" id="risk">Sözleşmeyi incele</button>
           <button class="btn ghost" id="fstop" hidden>Durdur</button>
           <label class="small" style="display:flex;gap:6px;align-items:center"><input type="checkbox" id="reveal"> Gerçek adları göster</label>
         </div>
         <span class="state" id="sstate"></span>
         <div id="sumout"><div class="answer"><h2>Nasıl çalışır</h2><p>Her özet cümlesi ve kronoloji satırı için yapay zekâdan belgeden birebir alıntı istenir. Alıntı belirtilen sayfada aranır: bulunursa <span class="badge live">alıntı doğrulandı</span>, başka sayfadaysa <span class="badge chg">sayfa farklı</span>, hiç yoksa <span class="badge gone">alıntı bulunamadı</span> görünür.</p></div></div>
+      </div>
+    </div>
+  </section>
+
+
+  <section id="pane-taslak" role="tabpanel" hidden>
+    <div class="pane-head"><div><h2>Belge taslağı</h2><p>HMUT formlarına veya serbest belge türlerine göre ilk taslak. Olaylar yalnızca sizin yazdıklarınızdan alınır; hukuki dayanak içeren her paragraf bulunan maddelerle kontrol edilir. Taslak avukat kontrolünden geçmeden kullanılmamalıdır.</p></div></div>
+    <div class="grid">
+      <div class="col">
+        <label class="lab" for="tturu">Belge türü</label>
+        <select id="tturu"></select>
+        <div id="tform"></div>
+        <label class="lab" for="tmah">Mahkeme</label>
+        <input type="text" id="tmah" placeholder="ör. Lefkoşa Kaza Mahkemesi">
+        <label class="lab" for="ttaraf">Taraflar</label>
+        <textarea id="ttaraf" style="min-height:64px" placeholder="ör. Davacı: Ayşe Demir, Girne · Davalı: Örnek Ltd."></textarea>
+        <label class="lab" for="tolay">Olaylar ve talep</label>
+        <textarea id="tolay" style="min-height:170px" placeholder="Olayları tarih sırasıyla, talep ettiğiniz çareleri ve tutarları yazın."></textarea>
+        <label class="switch"><input type="checkbox" id="tgizle" checked> Adları ve kişisel bilgileri yapay zekâya göndermeden gizle</label>
+        <div class="row"><button class="btn" id="thazirla">Taslak hazırla</button><button class="btn ghost" id="tdur" hidden>Durdur</button><span class="state" id="tstate"></span></div>
+      </div>
+      <div class="col">
+        <div id="tcikti"><div class="answer"><h2>Nasıl çalışır</h2><p>Belge türünü seçip olayları yazın. Uygulama önce ilgili yasa ve tüzük maddelerini bulur, sonra yapay zekâ taslağı yalnızca bu maddelere ve sizin bilgilerinize dayanarak yazar. HMUT formu seçerseniz resmî kalıp korunur.</p><p>Eksik bilgiler <b>[....]</b> olarak boş bırakılır. Taslak ekranda düzenlenebilir ve Word olarak indirilebilir.</p></div></div>
+        <div class="sec-h"><h3>Dayanılan maddeler</h3></div>
+        <div id="tkaynak" class="col" style="gap:8px"><p class="muted small" style="margin:0">Taslak hazırlanınca bulunan maddeler burada listelenir.</p></div>
+      </div>
+    </div>
+  </section>
+
+  <section id="pane-sure" role="tabpanel" hidden>
+    <div class="pane-head"><div><h2>Süre hesapla</h2><p>HMUT ve Ceza Muhakemeleri Usulü Yasası'ndaki usul süreleri. Hesap Yorum Yasası m.31'e göre yapılır; her kuralın dayandığı cümle resmî metinden birebir gösterilir.</p></div></div>
+    <div class="grid">
+      <div class="col">
+        <label class="lab" for="skural">Süre</label>
+        <select id="skural"></select>
+        <label class="lab" for="sbas" id="sbaslab">Başlangıç tarihi</label>
+        <input type="date" id="sbas">
+        <details class="sheet"><summary><span class="t">Değişken tatiller (bayramlar)</span><span class="muted small" id="statsay"></span></summary>
+          <p class="small muted" style="margin:8px 0">Şeker ve Kurban Bayramı ile Mevlit her yıl farklı günlere denk gelir. Resmî tarihleri buraya ekleyin; hesap bu günleri de sayılmayan gün olarak kullanır. Bilgiler yalnızca bu cihazda tutulur.</p>
+          <div class="row"><input type="date" id="statyeni" style="max-width:180px"><input type="text" id="statad" placeholder="ör. Kurban Bayramı 1. gün" style="flex:1;min-width:150px"><button class="btn ghost sm" id="statekle" type="button">Ekle</button></div>
+          <div id="statlist" style="margin-top:8px"></div>
+        </details>
+        <details class="sheet"><summary><span class="t">Hesap kuralları</span><span class="muted small">Yorum Yasası m.31</span></summary><div id="yorumbilgi" style="margin-top:8px"></div></details>
+      </div>
+      <div class="col">
+        <div id="sonuc"></div>
+        <div class="sec-h"><h3>Süre listem</h3><span class="muted small">yalnızca bu cihazda</span></div>
+        <div class="row"><input type="date" id="eltarih" style="max-width:180px"><input type="text" id="elnot" placeholder="Duruşma veya başka tarih (ör. 2024/123 duruşma)" style="flex:1;min-width:160px"><button class="btn ghost sm" id="elekle" type="button">Ekle</button><span class="state small" id="eldurum"></span></div>
+        <div id="slist" class="col" style="gap:8px"></div>
       </div>
     </div>
   </section>
@@ -331,6 +418,7 @@ body.rv-on .rv{display:flex}
 <script type="application/json" id="catalog">__CATALOG__</script>
 <script type="application/json" id="kararlar">__KARARLAR__</script>
 <script type="application/json" id="mevzuat">__MEVZUAT__</script>
+<script type="application/json" id="araclar">__ARACLAR__</script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.min.js"></script>
 <script>
 (function(){
@@ -602,7 +690,7 @@ function badge(a){
 }
 const mLabel=a=>(/^(Geçici|Parça|Değişiklik)/.test(String(a.no))?a.no:'Madde '+a.no);
 function lawLink(no){ const f=LAWFILE[no]; return f?'<a href="http://cm.gov.ct.tr/Yasalar/'+f+'.doc" target="_blank" rel="noopener">'+esc(no)+' (Meclis)</a>':esc(no); }
-function sheet(a, tag){
+function sheet(a, tag, idp){
   const am = a.amendments.map(m=>'<div class="amd"><div class="who">'+esc(m.law)+'</div><div class="what">'+esc(m.change)+'</div>'+(m.new_text?'<p class="txt">'+esc(m.new_text)+'</p>':'')+'</div>').join('');
   const L=LAWBY[a.law];
   const src = a.sd ? 'Kaynak: <a href="'+esc(a.u)+'" target="_blank" rel="noopener">Meclis arşivindeki değişiklik yasası</a> · Yüksek Mahkeme birleştirilmiş metnine henüz işlenmemiş; esas metinle birlikte okuyun'+(a.ocrm?' · taranmış belgeden yazı tanıma ile okundu':'')
@@ -610,7 +698,7 @@ function sheet(a, tag){
     : L.kira ? 'Kaynak: '+lawLink('17/1981')+(a.amendments.length?' · '+a.amendments.map(m=>lawLink(m.law.split(' ')[0])).join(' · '):'')+' · resmî birleştirilmiş metinle karşılaştırıldı'
     : L.ayri ? 'Kaynak: <a href="'+esc(L.url)+'" target="_blank" rel="noopener">Meclis arşivi esas metin</a> + değişiklik yasaları ('+esc((L.kontrol||[]).map(c=>c.yasa).join(', '))+'); resmî birleştirilmiş metin bulunamadı'
     : 'Kaynak: <a href="'+esc(L.url)+'" target="_blank" rel="noopener">Yüksek Mahkeme birleştirilmiş resmî metni</a> · Meclis\'teki son değişiklik ('+esc(L.son||'-')+') metne işlenmiş';
-  return '<'+tag+' class="sheet" id="m-'+esc(a.cid)+'">'+
+  return '<'+tag+' class="sheet" id="'+(idp||'m-')+esc(a.cid)+'">'+
     '<header><span class="mno">'+esc(mLabel(a))+' · '+esc(L.no)+' '+esc(L.kisa)+'</span>'+badge(a)+'</header>'+
     '<h3>'+esc(a.title)+'</h3><p class="txt">'+esc(a.text)+'</p>'+(tag==='article'?'<button class="ac" type="button">Tam metni göster</button>':'')+am+
     '<div class="src">'+src+'</div>'+rvBar('madde:'+a.cid,'madde',L.no+' '+L.ad+' — '+mLabel(a)+' '+a.title)+'</'+tag+'>';
@@ -631,8 +719,8 @@ function flash(cid){
 }
 
 /* ---------- cevap ---------- */
-function promptFor(q, list, cases){
-  const blocks = list.map(a=>{
+function maddeBloklari(list){
+  return list.map(a=>{
     const L=LAWBY[a.law];
     let b = '### '+a.cid+' — '+L.ad+' ('+L.no+') '+mLabel(a)+' ('+a.title+') [durum: '+a.status+']\n';
     if(a.sd){ b+='SONRAKİ DEĞİŞİKLİK YASASI (Meclis arşivi; Yüksek Mahkeme birleştirilmiş metnine işlenmemiş — esas metinle çelişirse bu geçerlidir):\n'+(a.text.length>6000?a.text.slice(0,6000)+' [...]':a.text); }
@@ -641,6 +729,9 @@ function promptFor(q, list, cases){
     else b+='GÜNCEL METİN (değişikliklerle birleştirilmiş resmî metin; satır başlarındaki "34/2015" gibi notlar o kısmı değiştiren yasayı gösterir):\n'+(a.text.length>6000?a.text.slice(0,6000)+' [...]':a.text);
     return b;
   }).join('\n\n');
+}
+function promptFor(q, list, cases, ek){
+  ek=ek||{}; const blocks=maddeBloklari(list);
   const ids = list.map(a=>a.cid).join(', ');
   const kblocks = (cases||[]).map(x=>{
     const k=x.k, d=eraText(k, x.alan);
@@ -657,7 +748,8 @@ KURALLAR:
 5. Sade Türkçe, kısa cümleler. Hukuki görüş veya dava sonucu tahmini verme.
 6. Aşağıda Yüksek Mahkeme kararlarından bölümler de olabilir (kimlikler: ${kids||'yok'}). Bir karar sorunun konusunu doğrudan ele alıyorsa "cases" listesine ekle: mahkemenin o karardaki tespitini 1 cümleyle yaz ve karardan BİREBİR, kelimesi kelimesine 8-30 kelimelik bir alıntı ver (yazım hataları dahil aynen kopyala). Konuyla doğrudan ilgili değilse ekleme; hiçbiri ilgili değilse "cases": [] döndür.
 7. Kararlar yasanın yerine geçmez. Her kararın başında hangi döneme ait olduğu ve sonrasında yasada hangi değişiklikler yapıldığı yazılıdır. Eski dönem kararları ya da sonradan değişen hükümlere dayanan kararlar için bunu "finding" içinde belirt (ör. "2010 tarihli karar; 34/2015 değişikliğinden önce").
-8. "OTOMATİK" ya da yazı tanıma ile okunmuş metinlere dayanan tespitlerde bunu "limits" içinde belirt ve avukatın resmî metni kontrol etmesini iste. Parça kimliklerini madde numarası gibi anma.
+8. "OTOMATİK" ya da yazı tanıma ile okunmuş metinlere dayanan tespitlerde bunu "limits" içinde belirt ve avukatın resmî metni kontrol etmesini iste. Parça kimliklerini madde numarası gibi anma.${ek.derin?`
+9. Bu bir DERİN ARAŞTIRMADIR. Cevabı alt başlıklara ayır ve her point'e "section" alanında alt başlığın adını yaz (ör. "Genel kural", "İstisnalar", "Usul ve süreler", "Yüksek Mahkeme içtihadı"). 6-14 tespit yaz; her biri kaynaklı olsun.`:''}${ek.onceki||''}
 
 SORU: ${q}
 
@@ -666,7 +758,7 @@ ${blocks}
 ${kblocks?'\n\nKARARLAR:\n'+kblocks:''}
 
 Yalnızca şu biçimde JSON döndür:
-{"found": true, "summary": "1-2 cümlelik doğrudan cevap", "points": [{"text": "tek bir tespit", "cites": ["KIRA-6"]}], "limits": "metinlerin cevaplamadığı veya avukatın ayrıca kontrol etmesi gereken nokta (yoksa boş)", "cases": [{"id": "K12345", "finding": "mahkemenin tespiti, 1 cümle", "quote": "karardan birebir alıntı"}]}`;
+{"found": true, "summary": "1-2 cümlelik doğrudan cevap", "points": [{"text": "tek bir tespit", "cites": ["KIRA-6"]${ek.derin?', "section": "alt başlık"':''}}], "limits": "metinlerin cevaplamadığı veya avukatın ayrıca kontrol etmesi gereken nokta (yoksa boş)", "cases": [{"id": "K12345", "finding": "mahkemenin tespiti, 1 cümle", "quote": "karardan birebir alıntı"}]}`;
 }
 const nq=s=>String(s).toLocaleLowerCase('tr').replace(/[’'`´‘]/g,"'").replace(/[“”"„]/g,'"').replace(/\s+/g,' ').trim();
 function quoteCheck(quote, text){
@@ -692,7 +784,7 @@ function verify(res, list){
   const kept=[], dropped=[];
   (Array.isArray(res.points)?res.points:[]).forEach(p=>{
     const cites=(Array.isArray(p.cites)?p.cites:[]).map(String).filter(c=>allowed.has(c));
-    if(cites.length && p.text) kept.push({text:String(p.text), cites}); else if(p && p.text) dropped.push(String(p.text));
+    if(cites.length && p.text) kept.push({text:String(p.text), cites, section:p.section?String(p.section):''}); else if(p && p.text) dropped.push(String(p.text));
   });
   // metindeki "N. madde" / "madde N" atıfları veri setinde var mı?
   const all = [res.summary||'', ...kept.map(k=>k.text)].join(' ');
@@ -707,7 +799,10 @@ function renderAnswer(q, res, v, vc){
   if(res.found===false || !v.kept.length){
     h+='<h2>Bulunan maddelerde açık bir cevap yok</h2><p>'+esc(res.limits||'Bulunan maddeler soruyu doğrudan cevaplamıyor.')+'</p><p class="muted small">Soru başka bir yasaya, sözleşme hükmüne veya mahkeme içtihadına bağlı olabilir. Bu prototip şu yasaları kapsar: '+esc(LAWS.map(l=>l.ad).join(', '))+'.</p>';
   } else {
-    h+='<h2>Cevap</h2><p>'+esc(res.summary||'')+'</p><ul class="points">'+v.kept.map(k=>'<li>'+esc(k.text)+k.cites.map(cite).join('')+'</li>').join('')+'</ul>';
+    h+='<h2>Cevap</h2><p>'+esc(res.summary||'')+'</p>';
+    if(v.kept.some(k=>k.section)){ const sira=[], grp={}; v.kept.forEach(k=>{ const s=k.section||'Diğer'; if(!grp[s]){ grp[s]=[]; sira.push(s); } grp[s].push(k); });
+      h+=sira.map(s=>'<h3 class="bol">'+esc(s)+'</h3><ul class="points">'+grp[s].map(k=>'<li>'+esc(k.text)+k.cites.map(cite).join('')+'</li>').join('')+'</ul>').join(''); }
+    else h+='<ul class="points">'+v.kept.map(k=>'<li>'+esc(k.text)+k.cites.map(cite).join('')+'</li>').join('')+'</ul>';
     if(res.limits) h+='<p class="small muted" style="margin-top:10px"><b>Ayrıca kontrol edin:</b> '+esc(res.limits)+'</p>';
     if(v.kept.some(k=>k.cites.some(c=>c.startsWith('KIRA-')))) h+='<p class="small muted" style="margin-top:6px"><b>Kira Yasası\'nın uygulama alanı:</b> Yasa yalnızca Bakanlar Kurulu\'nun denetim bölgesi ilan ettiği yerlerde uygulanır (m.3). Hangi bölgelerin ilan edildiği bu veri setinde yok; taşınmazın durumunu ayrıca kontrol edin.</p>';
   }
@@ -837,21 +932,33 @@ $('#answer').addEventListener('click',e=>{ const b=e.target.closest('.cite'); if
 
 async function run(){
   const q=$('#q').value.trim(); if(!q) return;
-  $('#pane-ask').classList.add('sorulmus');
-  let list;
-  if($('#tumon').checked){ $('#state').textContent='Tüm yasalarda aranıyor…'; try{ list=await birlesik(q,7); }catch(e){ list=search(q); } $('#state').textContent=''; }
-  else list=search(q);
+  $('#pane-ask').classList.add('sorulmus'); $('#gecmis').hidden=true;
+  const onc=SOHBET.length?SOHBET[SOHBET.length-1]:null;
+  const aq=onc?onc.q+' '+q:q;
+  const onceki=SOHBET.length?'\n\nÖNCEKİ KONUŞMA (bu soru bir takip sorusudur; bağlam için kullan, ama yalnızca aşağıdaki metinlere dayan):\n'+SOHBET.map(x=>'Soru: '+x.q+'\nVerilen cevap: '+x.ozet).join('\n---\n'):'';
+  const derin=$('#derin').checked && !!sampleFn;
+  let list, alt=[];
+  if(derin){
+    ctl=new AbortController(); $('#ask').disabled=true; $('#stop').hidden=false; $('#answer').innerHTML='';
+    try{ alt=await derinPlan(q, onceki, ctl.signal); }catch(e){ $('#state').textContent=hataMesaj(e); $('#ask').disabled=false; $('#stop').hidden=true; return; }
+    list=await cokluAra([aq,...alt], 16, s=>$('#state').textContent=s);
+    $('#ask').disabled=false; $('#stop').hidden=true;
+  }
+  else if($('#tumon').checked){ $('#state').textContent='Tüm yasalarda aranıyor…'; try{ list=await birlesik(aq,7); }catch(e){ list=search(aq); } $('#state').textContent=''; }
+  else list=search(aq);
   showSources(list);
   const alanlar=[...new Set(list.map(a=>LAW2ALAN[a.law]).filter(Boolean))];
   let cases=[]; $('#cases').innerHTML='<p class="muted small" style="margin:0">Kararlar yükleniyor…</p>';
-  try{ cases=await searchCases(q, list, 3, 'all', alanlar); showCases(cases, alanlar); }
+  try{ cases=await searchCases(derin?aq+' '+alt.join(' '):aq, list, derin?5:3, 'all', alanlar); showCases(cases, alanlar); }
   catch(e){ $('#cases').innerHTML='<p class="muted small" style="margin:0">Karar dosyaları yüklenemedi.</p>'; }
   if(!list.length){ $('#answer').innerHTML='<div class="answer"><h2>İlgili madde bulunamadı</h2><p>Kapsanan yasalarda ('+esc(LAWS.map(l=>l.kisa).join(', '))+') bu konuda madde bulunamadı. Soru sözleşme hükümlerine veya henüz eklenmemiş bir yasaya bağlı olabilir.</p></div>'; $('#state').textContent=''; return; }
   if(!sampleFn){ $('#answer').innerHTML='<div class="answer"><h2>İlgili maddeler bulundu</h2><p>Yapay zekâ cevabı bu görünümde kullanılamıyor. Dayanılan maddeleri okuyarak cevaba ulaşabilirsiniz.</p></div>'; return; }
   ctl=new AbortController(); $('#ask').disabled=true; $('#stop').hidden=false; $('#state').textContent='Maddeler ve kararlar okunuyor…'; $('#answer').innerHTML='';
   try{
-    const res = await sampleFn.json(promptFor(q,list,cases),{signal:ctl.signal, modelTier:'default'});
-    renderAnswer(q, res||{}, verify(res||{}, list), verifyCases(res||{}, cases)); $('#state').textContent='';
+    const res = await sampleFn.json(promptFor(q,list,cases,{onceki, derin}),{signal:ctl.signal, modelTier:derin?'complex':'default'});
+    const v=verify(res||{}, list), vc=verifyCases(res||{}, cases);
+    renderAnswer(q, res||{}, v, vc); cevapEylem(q, res||{}, v, vc, list); $('#state').textContent='';
+    if(derin && alt.length){ const k=document.querySelector('#answer .answer'); if(k) k.insertAdjacentHTML('afterbegin','<p class="small muted" style="margin:0 0 8px">Derin araştırma · aranan alt sorular: '+alt.map(esc).join(' · ')+'</p>'); }
   }catch(e){
     const msg={not_granted:'Bu sayfanın Claude kullanmasına izin verilmedi. Maddeler aşağıda.',rate_limited:'Çok fazla istek yapıldı; biraz sonra tekrar deneyin.',cancelled:'',invalid_json:'Cevap okunamadı; tekrar deneyin.',sampling_disabled:'Bu hesapta Claude kullanılamıyor.'}[e&&e.code];
     $('#state').textContent = msg===undefined?'Bağlantı sorunu; tekrar deneyin.':msg;
@@ -863,13 +970,15 @@ $('#stop').addEventListener('click',()=>ctl&&ctl.abort());
 $('#q').addEventListener('keydown',e=>{ if(e.key==='Enter' && (e.metaKey||e.ctrlKey)) run(); });
 
 /* ---------- sekmeler ---------- */
-const NAV={ 'pane-ask':'tab-ask','pane-browse':'tab-browse','pane-ym':'tab-browse','pane-kar':'tab-kar','pane-file':'tab-file','pane-rv':'tab-rv','pane-laws':'tab-laws','pane-cat':'tab-cat' };
+const NAV={ 'pane-taslak':'tab-taslak','pane-sure':'tab-sure','pane-ask':'tab-ask','pane-browse':'tab-browse','pane-ym':'tab-browse','pane-kar':'tab-kar','pane-file':'tab-file','pane-rv':'tab-rv','pane-laws':'tab-laws','pane-cat':'tab-cat' };
 let ymHazir2=false;
 function show(pane){
   document.querySelectorAll('main > section[role=tabpanel]').forEach(p=>p.hidden=(p.id!==pane));
   document.querySelectorAll('nav.nav [role=tab]').forEach(b=>b.setAttribute('aria-selected', b.id===NAV[pane]));
   const m=$('#menu'); m.hidden=true; $('#morebtn').setAttribute('aria-expanded','false');
-  $('#morebtn').setAttribute('aria-selected', ['pane-rv','pane-laws','pane-cat'].includes(pane));
+  $('#morebtn').setAttribute('aria-selected', ['pane-rv','pane-laws','pane-cat','pane-taslak','pane-sure'].includes(pane));
+  if(pane==='pane-sure') sureInit();
+  if(pane==='pane-taslak') taslakInit();
   if(pane==='pane-ym' && !ymHazir2){ ymHazir2=true; ymInit(); }
   if(pane==='pane-kar' && !$('#klist').children.length) renderKar();
   window.scrollTo(0,0);
@@ -1099,6 +1208,390 @@ $('#doc').value=JSON.parse(document.getElementById('example').textContent); doMa
 /* açılışta örnek: arama sonuçları dolu gelsin (yapay zekâ çağrısı yok) */
 $('#q').value = EX[0]; showSources(search(EX[0]));
 $('#answer').innerHTML = '<div class="answer"><h2>Örnek: ilgili maddeler bulundu</h2><p>“Ara ve cevapla”ya basınca yapay zekâ yalnızca dayanılan maddeleri okuyarak kaynaklı bir cevap yazar ve her cümleyi kontrol eder.</p></div>';
+
+/* ================= avukat araçları ================= */
+const AR = JSON.parse(document.getElementById('araclar').textContent);
+const yerel = { al(k, v){ try{ const s=localStorage.getItem(k); return s?JSON.parse(s):v; }catch(_){ return v; } }, koy(k, v){ try{ localStorage.setItem(k, JSON.stringify(v)); return true; }catch(_){ return false; } } };
+const hataMesaj = e => ({not_granted:'Bu sayfanın Claude kullanmasına izin verilmedi.',rate_limited:'Çok fazla istek; biraz sonra deneyin.',cancelled:'',invalid_json:'Cevap okunamadı; tekrar deneyin.',prompt_too_large:'Metin çok uzun; daha kısa bir bölüm deneyin.',sampling_disabled:'Bu hesapta yapay zekâ kullanılamıyor.'})[e&&e.code] ?? 'Bağlantı sorunu; tekrar deneyin.';
+
+/* ---------- dosya indirme: claude.ai'de "downloads", kendi sunucumuzda doğrudan indirme ---------- */
+let DL = null;
+if(window.claude && window.claude.use) window.claude.use('downloads').then(d=>{ DL=d; }).catch(()=>{});
+async function indir(ad, veri){
+  const blob = veri instanceof Blob ? veri : new Blob([veri], {type:'text/plain;charset=utf-8'});
+  if(DL){ try{ await DL.save({filename:ad, data:blob}); return 'ok'; }catch(e){ if(e && e.code==='declined') return 'iptal'; if(e && (e.code==='rejected_extension'||e.code==='extension_not_enabled')) return 'tur'; if(e && e.code==='rate_limited') return 'bekle'; } }
+  try{ const u=URL.createObjectURL(blob); const a=document.createElement('a'); a.href=u; a.download=ad; a.rel='noopener'; a.style.display='none'; document.body.append(a); a.click(); setTimeout(()=>{ a.remove(); URL.revokeObjectURL(u); }, 30000); return 'ok'; }catch(_){ return 'hata'; }
+}
+const indirMesaj = r => ({ok:'', iptal:'İndirme iptal edildi.', tur:'Bu görünümde bu dosya türü indirilemiyor.', bekle:'Bir indirme penceresi zaten açık.', hata:'Dosya indirilemedi.'})[r] || '';
+const dosyaAdi = s => (String(s).replace(/[çğıöşüâîûÇĞİÖŞÜÂÎÛ]/g,c=>({ç:'c',ğ:'g',ı:'i',ö:'o',ş:'s',ü:'u',â:'a',î:'i',û:'u',Ç:'C',Ğ:'G',İ:'I',Ö:'O',Ş:'S',Ü:'U',Â:'A',Î:'I',Û:'U'}[c])).replace(/[^A-Za-z0-9 ._()-]+/g,' ').replace(/\s+/g,' ').trim().slice(0,70) || 'belge');
+
+/* Word (.docx): sıkıştırmasız zip içinde en küçük geçerli belge */
+const CRCT = (()=>{ const t=new Uint32Array(256); for(let n=0;n<256;n++){ let c=n; for(let k=0;k<8;k++) c = c&1 ? 0xEDB88320^(c>>>1) : c>>>1; t[n]=c>>>0; } return t; })();
+function crc32(b){ let c=0xFFFFFFFF; for(let i=0;i<b.length;i++) c=CRCT[(c^b[i])&255]^(c>>>8); return (c^0xFFFFFFFF)>>>0; }
+function zipla(dosyalar, tip){
+  const te=new TextEncoder(), parca=[], merkez=[]; let ofs=0;
+  dosyalar.forEach(f=>{
+    const ad=te.encode(f.ad), d=typeof f.veri==='string'?te.encode(f.veri):f.veri, c=crc32(d);
+    const h=new DataView(new ArrayBuffer(30));
+    h.setUint32(0,0x04034b50,true); h.setUint16(4,20,true); h.setUint16(6,0x0800,true); h.setUint16(8,0,true); h.setUint16(10,0,true); h.setUint16(12,0x21,true);
+    h.setUint32(14,c,true); h.setUint32(18,d.length,true); h.setUint32(22,d.length,true); h.setUint16(26,ad.length,true); h.setUint16(28,0,true);
+    parca.push(new Uint8Array(h.buffer), ad, d);
+    const m=new DataView(new ArrayBuffer(46));
+    m.setUint32(0,0x02014b50,true); m.setUint16(4,20,true); m.setUint16(6,20,true); m.setUint16(8,0x0800,true); m.setUint16(10,0,true); m.setUint16(12,0,true); m.setUint16(14,0x21,true);
+    m.setUint32(16,c,true); m.setUint32(20,d.length,true); m.setUint32(24,d.length,true); m.setUint16(28,ad.length,true);
+    m.setUint16(30,0,true); m.setUint16(32,0,true); m.setUint16(34,0,true); m.setUint16(36,0,true); m.setUint32(38,0,true); m.setUint32(42,ofs,true);
+    merkez.push(new Uint8Array(m.buffer), ad); ofs += 30+ad.length+d.length;
+  });
+  const ml=merkez.reduce((s,x)=>s+x.length,0), son=new DataView(new ArrayBuffer(22));
+  son.setUint32(0,0x06054b50,true); son.setUint16(8,dosyalar.length,true); son.setUint16(10,dosyalar.length,true); son.setUint32(12,ml,true); son.setUint32(16,ofs,true);
+  return new Blob([...parca, ...merkez, new Uint8Array(son.buffer)], {type:tip});
+}
+// bloklar: [{tur:'h1'|'h2'|'p'|'alinti'|'kucuk'|'orta', metin, kalin}]
+function docx(baslik, bloklar){
+  const x=s=>String(s).replace(/[\u0000-\u0008\u000B\u000C\u000E-\u001F]/g,'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+  const ST={h1:{b:1,sz:30,j:'center'},h2:{b:1,sz:25},orta:{b:1,j:'center'},p:{},alinti:{i:1,sz:22},kucuk:{sz:18,renk:'555555'}};
+  const run=(t,o)=>'<w:r><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>'+(o.b?'<w:b/>':'')+(o.i?'<w:i/>':'')+'<w:sz w:val="'+(o.sz||24)+'"/>'+(o.renk?'<w:color w:val="'+o.renk+'"/>':'')+'</w:rPr><w:t xml:space="preserve">'+x(t)+'</w:t></w:r>';
+  const par=b=>{ const o={...(ST[b.tur]||{})}; if(b.kalin) o.b=1;
+    return '<w:p><w:pPr>'+(o.j?'<w:jc w:val="'+o.j+'"/>':'<w:jc w:val="both"/>')+'<w:spacing w:after="140" w:line="300" w:lineRule="auto"/>'+(b.tur==='alinti'?'<w:ind w:left="567"/>':'')+'</w:pPr>'+
+      String(b.metin).split('\n').map((s,i)=>(i?'<w:r><w:br/></w:r>':'')+run(s,o)).join('')+'</w:p>'; };
+  const govde='<?xml version="1.0" encoding="UTF-8" standalone="yes"?><w:document xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main"><w:body>'+bloklar.map(par).join('')+
+    '<w:sectPr><w:pgSz w:w="11906" w:h="16838"/><w:pgMar w:top="1418" w:right="1418" w:bottom="1418" w:left="1418" w:header="709" w:footer="709" w:gutter="0"/></w:sectPr></w:body></w:document>';
+  return zipla([
+    {ad:'[Content_Types].xml', veri:'<?xml version="1.0" encoding="UTF-8" standalone="yes"?><Types xmlns="http://schemas.openxmlformats.org/package/2006/content-types"><Default Extension="rels" ContentType="application/vnd.openxmlformats-package.relationships+xml"/><Default Extension="xml" ContentType="application/xml"/><Override PartName="/word/document.xml" ContentType="application/vnd.openxmlformats-officedocument.wordprocessingml.document.main+xml"/><Override PartName="/docProps/core.xml" ContentType="application/vnd.openxmlformats-package.core-properties+xml"/></Types>'},
+    {ad:'_rels/.rels', veri:'<?xml version="1.0" encoding="UTF-8" standalone="yes"?><Relationships xmlns="http://schemas.openxmlformats.org/package/2006/relationships"><Relationship Id="rId1" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/officeDocument" Target="word/document.xml"/><Relationship Id="rId2" Type="http://schemas.openxmlformats.org/package/2006/relationships/metadata/core-properties" Target="docProps/core.xml"/></Relationships>'},
+    {ad:'docProps/core.xml', veri:'<?xml version="1.0" encoding="UTF-8" standalone="yes"?><cp:coreProperties xmlns:cp="http://schemas.openxmlformats.org/package/2006/metadata/core-properties" xmlns:dc="http://purl.org/dc/elements/1.1/"><dc:title>'+x(baslik)+'</dc:title><dc:creator>KKTC Hukuk Asistanı</dc:creator></cp:coreProperties>'},
+    {ad:'word/document.xml', veri:govde}
+  ], 'application/vnd.openxmlformats-officedocument.wordprocessingml.document');
+}
+window.__docx = docx; // yalnızca otomatik testler için
+async function kopyala(metin, durumEl){
+  try{ await navigator.clipboard.writeText(metin); if(durumEl) durumEl.textContent='Panoya kopyalandı.'; }
+  catch(_){ const t=document.createElement('textarea'); t.value=metin; t.setAttribute('readonly',''); t.style.position='fixed'; t.style.opacity='0'; document.body.append(t); t.select(); let ok=false; try{ ok=document.execCommand('copy'); }catch(__){} t.remove(); if(durumEl) durumEl.textContent = ok?'Panoya kopyalandı.':'Kopyalanamadı; metni seçip kopyalayın.'; }
+}
+const etiket = c => { const a=BYCID[c]; if(!a) return c; const L=LAWBY[a.law]; const n=String(a.no); return L.kisa+' '+(n.startsWith('Geçici')?n.replace('Geçici','geç.'):/^(Parça|Değişiklik)/.test(n)?n.toLowerCase():'m.'+n); };
+const bugunStr = () => new Date().toLocaleDateString('tr-TR',{day:'numeric',month:'long',year:'numeric'});
+
+/* ---------- cevap: kopyala, Word, geçmiş, takip sorusu ---------- */
+let SONCEVAP = null, SOHBET = [];
+const GKEY='kktc-gecmis-v1';
+function cevapMetni(c){
+  const sat=['Soru: '+c.q, '', c.res.summary||''];
+  let bol=''; c.v.kept.forEach(k=>{ if(k.section && k.section!==bol){ bol=k.section; sat.push('', bol.toLocaleUpperCase('tr')); } sat.push('- '+k.text+' ['+k.cites.map(etiket).join('; ')+']'); });
+  if(c.res.limits) sat.push('', 'Ayrıca kontrol edin: '+c.res.limits);
+  if(c.vc && c.vc.ok.length){ sat.push('', 'Yüksek Mahkeme kararlarından:'); c.vc.ok.forEach(k=>sat.push('- '+k.finding+' ('+k.k.tur+', '+trDate(k.k.tarih)+') “'+k.quote+'”')); }
+  sat.push('', 'KKTC Hukuk Asistanı · '+bugunStr()+' · Yapay zekâ taslağıdır; dayanılan metinleri kontrol edin.');
+  return sat.join('\n');
+}
+function cevapWord(c){
+  const B=[{tur:'h1',metin:'Araştırma Notu'},{tur:'kucuk',metin:bugunStr()+' · KKTC Hukuk Asistanı'},{tur:'h2',metin:'Soru'},{tur:'p',metin:c.q},{tur:'h2',metin:'Cevap'},{tur:'p',metin:c.res.summary||''}];
+  let bol=''; c.v.kept.forEach(k=>{ if(k.section && k.section!==bol){ bol=k.section; B.push({tur:'h2',metin:bol}); } B.push({tur:'p',metin:'• '+k.text+' ['+k.cites.map(etiket).join('; ')+']'}); });
+  if(c.res.limits) B.push({tur:'p',metin:'Ayrıca kontrol edin: '+c.res.limits,kalin:false});
+  if(c.vc && c.vc.ok.length){ B.push({tur:'h2',metin:'Yüksek Mahkeme kararları'}); c.vc.ok.forEach(k=>{ B.push({tur:'p',metin:'• '+k.finding+' ('+k.k.tur+', '+trDate(k.k.tarih)+(k.k.taraflar?', '+k.k.taraflar:'')+')'}); B.push({tur:'alinti',metin:'“'+k.quote+'”'}); }); }
+  const kul=[...new Set(c.v.kept.flatMap(k=>k.cites))].map(x=>BYCID[x]).filter(Boolean);
+  if(kul.length){ B.push({tur:'h2',metin:'Dayanılan maddeler'}); kul.forEach(a=>{ const L=LAWBY[a.law]; B.push({tur:'p',kalin:true,metin:L.ad+' ('+L.no+') — '+mLabel(a)+(a.title?' · '+a.title:'')}); B.push({tur:'alinti',metin:a.text.length>6000?a.text.slice(0,6000)+' […]':a.text}); B.push({tur:'kucuk',metin:'Kaynak: '+(a.sd?'Meclis arşivi (değişiklik yasası)':L.otomatik?'Yüksek Mahkeme birleştirilmiş metni, madde sınırları otomatik':'Yüksek Mahkeme / Meclis resmî metni')+(L.url?' · '+L.url:'')}); }); }
+  B.push({tur:'kucuk',metin:'Bu not yapay zekâ yardımıyla hazırlanmıştır ve hukuki görüş değildir. Kullanmadan önce dayanılan metinleri resmî kaynaktan kontrol edin.'});
+  return docx('Araştırma Notu', B);
+}
+function cevapEylem(q, res, v, vc, list){
+  SONCEVAP = {q, res, v, vc, list};
+  const kutu = document.querySelector('#answer .answer'); if(!kutu) return;
+  if(v.kept.length){
+    const d=document.createElement('div'); d.className='acts';
+    d.innerHTML='<button class="btn ghost sm" type="button" data-act="kopya">Kopyala</button><button class="btn ghost sm" type="button" data-act="word">Word olarak indir</button><span class="state small" data-act-durum></span>';
+    kutu.append(d);
+    const g=yerel.al(GKEY,[]); g.unshift({t:Date.now(), q, metin:cevapMetni(SONCEVAP)}); yerel.koy(GKEY, g.slice(0,60));
+    SOHBET.push({q, ozet:((res.summary||'')+'\n'+v.kept.map(k=>'- '+k.text).join('\n')).slice(0,1800)}); SOHBET=SOHBET.slice(-3);
+    $('#devam').hidden=false; $('#q').value=''; $('#q').placeholder='Takip sorusu yazın (ör. Peki süre ne zaman başlar?)';
+    gecmisCiz();
+  }
+}
+$('#answer').addEventListener('click', async e=>{
+  const b=e.target.closest('[data-act]'); if(!b || !SONCEVAP) return;
+  const dur=b.parentElement.querySelector('[data-act-durum]');
+  if(b.dataset.act==='kopya') kopyala(cevapMetni(SONCEVAP), dur);
+  if(b.dataset.act==='word'){ dur.textContent='Hazırlanıyor…'; const r=await indir(dosyaAdi('Araştırma notu - '+SONCEVAP.q)+'.docx', cevapWord(SONCEVAP)); dur.textContent=indirMesaj(r)||'Word dosyası indirildi.'; }
+});
+$('#yenikonu').addEventListener('click',()=>{ SOHBET=[]; $('#devam').hidden=true; $('#q').placeholder='Sorunuzu yazın. Örn. Ev sahibi kirayı artırmak istiyor, anlaşamazsak ne olur?'; $('#q').focus(); });
+function gecmisCiz(){
+  const g=yerel.al(GKEY,[]); $('#gsay').textContent=g.length?String(g.length):'';
+  $('#glist').innerHTML = g.length ? g.map((x,i)=>'<button type="button" class="grow" data-g="'+i+'"><span>'+esc(x.q)+'</span><span class="muted small">'+new Date(x.t).toLocaleString('tr-TR',{day:'numeric',month:'short',hour:'2-digit',minute:'2-digit'})+'</span></button>').join('')
+    : '<p class="muted small" style="margin:0">Henüz kayıtlı soru yok. Cevaplanan sorular burada, yalnızca bu cihazda tutulur.</p>';
+}
+$('#gbtn').addEventListener('click',()=>{ const p=$('#gecmis'); p.hidden=!p.hidden; $('#gbtn').setAttribute('aria-expanded',String(!p.hidden)); if(!p.hidden) gecmisCiz(); });
+$('#glist').addEventListener('click',e=>{ const b=e.target.closest('[data-g]'); if(!b) return; const x=yerel.al(GKEY,[])[+b.dataset.g]; if(!x) return;
+  $('#gecmis').hidden=true; $('#pane-ask').classList.add('sorulmus'); $('#q').value=x.q;
+  $('#answer').innerHTML='<div class="answer"><h2>Geçmişten</h2><p class="small muted">'+esc(new Date(x.t).toLocaleString('tr-TR'))+' tarihli cevap. Mevzuat değişmiş olabilir; güncel cevap için yeniden sorun.</p><pre class="gtxt">'+esc(x.metin)+'</pre><div class="acts"><button class="btn sm" type="button" id="gyeniden">Yeniden sor</button><button class="btn ghost sm" type="button" id="gkopya">Kopyala</button><span class="state small" id="gdur"></span></div></div>';
+  $('#gyeniden').onclick=()=>{ SOHBET=[]; $('#devam').hidden=true; run(); }; $('#gkopya').onclick=()=>kopyala(x.metin,$('#gdur')); });
+$('#gsil').addEventListener('click',()=>{ yerel.koy(GKEY,[]); gecmisCiz(); });
+gecmisCiz();
+
+/* ---------- derin araştırma: soruyu alt sorulara böl, her birini ara ---------- */
+async function derinPlan(q, onceki, sig){
+  const plan = await sampleFn.json(`Bir KKTC avukatının sorusunu araştırmak için 3-5 alt soruya böl. Her alt soru, KKTC yasa ve tüzüklerinde aranacak kısa bir arama ifadesi olsun. KKTC terimlerini kullan (ör. istinaf, tahliye emri, ara emri, celpname, talep takriri, Kaza Mahkemesi). Türkiye mevzuatı terimleri (TBK, HMK, İİK) kullanma. Kural, istisna, usul ve süre yönlerini ayrı ayrı düşün.
+${onceki}
+SORU: ${q}
+
+Yalnızca JSON döndür: {"alt":["...","..."]}`, {signal:sig, modelTier:'default'});
+  return (Array.isArray(plan&&plan.alt)?plan.alt:[]).map(String).map(s=>s.trim()).filter(s=>s.length>2).slice(0,5);
+}
+async function cokluAra(ifadeler, sinir, durum){
+  const goruldu=new Set(), out=[];
+  for(const s of ifadeler){ if(durum) durum('Aranıyor: '+s.slice(0,70)); let r=[]; try{ r=await birlesik(s,5); }catch(_){ r=search(s); }
+    r.forEach(a=>{ if(!goruldu.has(a.cid) && out.length<sinir){ goruldu.add(a.cid); out.push(a); } }); }
+  return out;
+}
+
+/* ---------- süre hesaplayıcı ---------- */
+const GUNAD=['Pazar','Pazartesi','Salı','Çarşamba','Perşembe','Cuma','Cumartesi'];
+const tUTC = s => { const [y,m,d]=s.split('-').map(Number); return new Date(Date.UTC(y,m-1,d)); };
+const iso = d => d.toISOString().slice(0,10);
+const trd = d => d.getUTCDate()+' '+['Ocak','Şubat','Mart','Nisan','Mayıs','Haziran','Temmuz','Ağustos','Eylül','Ekim','Kasım','Aralık'][d.getUTCMonth()]+' '+d.getUTCFullYear()+' '+GUNAD[d.getUTCDay()];
+const gunEkle = (d,n) => new Date(d.getTime()+n*864e5);
+const ayEkle = (d,n) => { const y=d.getUTCFullYear(), m=d.getUTCMonth()+n, g=d.getUTCDate(), son=new Date(Date.UTC(y,m+1,0)).getUTCDate(); return new Date(Date.UTC(y,m,Math.min(g,son))); };
+const TKEY='kktc-tatil-v1', SKEY='kktc-sureler-v1';
+let DEGT = yerel.al(TKEY,[]);
+function tatilMi(d){ const s=AR.tatil.sabit.find(x=>x[0]===iso(d).slice(5)); if(s) return s[1]; const e=DEGT.find(x=>x.t===iso(d)); return e?e.ad:''; }
+const sayilmaz = d => d.getUTCDay()===0 ? 'Pazar' : tatilMi(d);
+function sureHesap(r, bas){
+  const adim=[]; let son;
+  const gun = r.birim==='gun' ? r.miktar : r.birim==='hafta' ? r.miktar*7 : null;
+  if(gun!==null && gun<=6){
+    let d=bas, say=0; adim.push('Başlangıç günü ('+trd(bas)+') sayılmaz — m.31(A).');
+    while(say<gun){ d=gunEkle(d,1); const n=sayilmaz(d); if(n){ adim.push(trd(d)+' sayılmadı ('+n+') — m.31(D), süre altı günü geçmiyor.'); continue; } say++; }
+    son=d; adim.push(gun+' gün sayıldı: '+trd(son)+'.');
+  } else if(gun!==null){ son=gunEkle(bas,gun); adim.push('Başlangıç günü ('+trd(bas)+') sayılmaz — m.31(A). '+(r.birim==='hafta'?r.miktar+' hafta = ':'')+gun+' gün eklendi: '+trd(son)+'.'); }
+  else { son=ayEkle(bas,r.miktar); adim.push(r.miktar+' ay eklendi: '+trd(son)+'. Ay, takvim ayı olarak hesaplandı; bu hesap yöntemini kontrol edin.'); }
+  let k=0; while(sayilmaz(son) && k<12){ const n=sayilmaz(son); son=gunEkle(son,1); k++; adim.push('Son gün '+n+' olduğu için süre ertesi güne uzar: '+trd(son)+' — m.31(B).'); }
+  const uyari=[];
+  if(son.getUTCDay()===6) uyari.push('Son gün Cumartesi. Yorum Yasası m.31(B) yalnızca Pazar ve resmî tatili sayar; Cumartesi için uzama öngörmez. Mukayyitliğin o gün işlem yapıp yapmadığını kontrol edin.');
+  for(let d=gunEkle(bas,1); d<=son; d=gunEkle(d,1)){ const md=iso(d).slice(5); if(md>='07-01' && md<='09-15'){ uyari.push('Süre adli tatile denk geliyor (1 Temmuz–15 Eylül, '+AR.adli.kaynak+'). Bu araçtaki metinlerde adli tatilin bu süreyi durdurduğuna dair bir kural bulunamadı; uygulamayı kontrol edin.'); break; } }
+  const yillar=new Set(); for(let d=bas; d<=son; d=gunEkle(d,1)) yillar.add(d.getUTCFullYear());
+  const eksik=[...yillar].filter(y=>!DEGT.some(x=>x.t.startsWith(String(y))));
+  if(eksik.length) uyari.push(eksik.join(', ')+' yılı için bayram (Şeker, Kurban) ve Mevlit tarihleri girilmedi; bu günlere düşen son gün hesaba katılmadı. Aşağıdaki “Değişken tatiller” bölümünden ekleyin.');
+  return {son, adim, uyari};
+}
+function kalanGun(sonIso){ const b=new Date(); const bu=Date.UTC(b.getFullYear(),b.getMonth(),b.getDate()); return Math.round((tUTC(sonIso).getTime()-bu)/864e5); }
+function kalanYazi(n){ return n<0 ? (-n)+' gün geçti' : n===0 ? 'bugün son gün' : n+' gün kaldı'; }
+let SUREHAZIR=false, SONHESAP=null;
+function sureInit(){
+  if(SUREHAZIR) return; SUREHAZIR=true;
+  const gruplar={}; AR.sureler.forEach(r=>{ (gruplar[r.grup]=gruplar[r.grup]||[]).push(r); });
+  $('#skural').innerHTML=Object.entries(gruplar).map(([g,rs])=>'<optgroup label="'+esc(g)+'">'+rs.map(r=>'<option value="'+esc(r.id)+'">'+esc(r.ad)+' — '+r.miktar+' '+({gun:'gün',hafta:'hafta',ay:'ay'})[r.birim]+'</option>').join('')+'</optgroup>').join('');
+  const b=new Date(); $('#sbas').value=b.getFullYear()+'-'+String(b.getMonth()+1).padStart(2,'0')+'-'+String(b.getDate()).padStart(2,'0');
+  $('#yorumbilgi').innerHTML='<p class="small" style="margin:0 0 6px"><b>'+esc(AR.yorum.kaynak)+', '+esc(AR.yorum.yer)+'</b> <span class="badge live">metinde birebir doğrulandı</span></p>'+
+    '<p class="quote">(A) “'+esc(AR.yorum.a)+'”</p><p class="quote">(B) “'+esc(AR.yorum.b)+' … '+esc(AR.yorum.b2)+'”</p><p class="quote">(D) “'+esc(AR.yorum.d)+'”</p>'+
+    '<p class="small muted" style="margin:6px 0 0"><a href="'+esc(AR.yorum.url)+'" target="_blank" rel="noopener">Resmî metin</a> · Resmî tatiller: '+esc(AR.tatil.kaynak)+' (<a href="'+esc(AR.tatil.url)+'" target="_blank" rel="noopener">metin</a>): '+AR.tatil.sabit.map(x=>esc(x[0].split('-').reverse().join('.')+' '+x[1])).join(', ')+'. '+esc(AR.tatil.degisken)+'</p>';
+  ['#skural','#sbas'].forEach(s=>$(s).addEventListener('input',sureCiz));
+  $('#statekle').addEventListener('click',()=>{ const t=$('#statyeni').value, ad=$('#statad').value.trim()||'Değişken tatil'; if(!t) return; DEGT=[...DEGT.filter(x=>x.t!==t),{t,ad}].sort((a,b)=>a.t.localeCompare(b.t)); yerel.koy(TKEY,DEGT); $('#statad').value=''; tatilCiz(); sureCiz(); });
+  $('#statlist').addEventListener('click',e=>{ const b=e.target.closest('[data-sil]'); if(!b) return; DEGT=DEGT.filter(x=>x.t!==b.dataset.sil); yerel.koy(TKEY,DEGT); tatilCiz(); sureCiz(); });
+  $('#sonuc').addEventListener('click',e=>{ const b=e.target.closest('[data-skaydet]'); if(!b || !SONHESAP) return;
+    const L=yerel.al(SKEY,[]); L.push({id:Date.now().toString(36), ad:SONHESAP.r.ad, kaynak:(SONHESAP.r.src.p==='CMUK'?'CMUY ':'HMUT ')+SONHESAP.r.yer, bas:iso(SONHESAP.bas), son:iso(SONHESAP.h.son), not:$('#snot').value.trim()});
+    yerel.koy(SKEY,L); $('#snot').value=''; listeCiz(); $('#skayitdurum').textContent='Listeye eklendi.'; });
+  $('#elekle').addEventListener('click',()=>{ const t=$('#eltarih').value, n=$('#elnot').value.trim(); if(!t||!n) { $('#eldurum').textContent='Tarih ve açıklama yazın.'; return; }
+    const L=yerel.al(SKEY,[]); L.push({id:Date.now().toString(36), ad:n, kaynak:'elle eklendi', son:t, not:''}); yerel.koy(SKEY,L); $('#elnot').value=''; $('#eldurum').textContent=''; listeCiz(); });
+  $('#slist').addEventListener('click',e=>{ const b=e.target.closest('[data-ssil]'); if(!b) return; yerel.koy(SKEY,yerel.al(SKEY,[]).filter(x=>x.id!==b.dataset.ssil)); listeCiz(); });
+  tatilCiz(); sureCiz(); listeCiz();
+}
+function tatilCiz(){
+  $('#statsay').textContent=DEGT.length?DEGT.length+' gün eklendi':'eklenmedi';
+  $('#statlist').innerHTML=DEGT.length?DEGT.map(x=>'<div class="trow"><span class="mno">'+esc(x.t.split('-').reverse().join('.'))+'</span><span>'+esc(x.ad)+'</span><button type="button" class="linkbtn" data-sil="'+esc(x.t)+'">Sil</button></div>').join(''):'<p class="muted small" style="margin:0">Henüz eklenmedi.</p>';
+}
+function sureCiz(){
+  const r=AR.sureler.find(x=>x.id===$('#skural').value); if(!r) return;
+  $('#sbaslab').textContent=r.bas;
+  const v=$('#sbas').value; if(!v){ $('#sonuc').innerHTML=''; return; }
+  const bas=tUTC(v), h=sureHesap(r,bas); SONHESAP={r,bas,h};
+  const kal=kalanGun(iso(h.son));
+  $('#sonuc').innerHTML='<div class="answer sure"><div class="lab">Son gün</div><div class="sonGun">'+esc(trd(h.son))+'</div><div class="'+(kal<0?'muted':kal<=3?'kirmizi':kal<=7?'sari':'muted')+' small" style="font-weight:600">'+kalanYazi(kal)+'</div>'+
+    '<ol class="adim">'+h.adim.map(a=>'<li>'+esc(a)+'</li>').join('')+'</ol>'+
+    h.uyari.map(u=>'<div class="check warn"><b>Dikkat.</b><span>'+esc(u)+'</span></div>').join('')+
+    '<div class="dayanak"><div class="small"><b>Dayanak: '+esc(r.src.kaynak)+', '+esc(r.yer)+'</b> <span class="badge live">metinde birebir doğrulandı</span></div><p class="quote">“…'+esc(r.alinti)+'…”</p><p class="small muted" style="margin:0">'+esc(r.not)+(r.src.url?' · <a href="'+esc(r.src.url)+'" target="_blank" rel="noopener">resmî metin</a>':'')+'</p></div>'+
+    '<div class="row" style="margin-top:12px"><input type="text" id="snot" placeholder="Dosya no veya kısa not (yalnızca bu cihazda tutulur)" style="flex:1;min-width:180px"><button class="btn sm" type="button" data-skaydet>Süre listeme ekle</button><span class="state small" id="skayitdurum"></span></div>'+
+    '<p class="small muted" style="margin:10px 0 0">Hesap, resmî metinlerdeki kurallara göre yapılır; mahkemenin süre uzatma kararları, özel yasa kuralları ve tebliğ tarihinin doğruluğu avukatın kontrolündedir.</p></div>';
+}
+function listeCiz(){
+  const L=yerel.al(SKEY,[]).sort((a,b)=>a.son.localeCompare(b.son));
+  $('#slist').innerHTML=L.length?L.map(x=>{ const k=kalanGun(x.son); return '<div class="srow'+(k<0?' gecti':'')+'"><div><div><b>'+esc(tUTC(x.son).toLocaleDateString('tr-TR',{timeZone:'UTC',day:'numeric',month:'long',year:'numeric',weekday:'short'}))+'</b> · <span class="'+(k<0?'muted':k<=3?'kirmizi':k<=7?'sari':'muted')+'">'+kalanYazi(k)+'</span></div><div class="small">'+esc(x.ad)+(x.not?' · <b>'+esc(x.not)+'</b>':'')+'</div><div class="small muted">'+esc(x.kaynak)+(x.bas?' · başlangıç '+esc(x.bas.split('-').reverse().join('.')):'')+'</div></div><button type="button" class="linkbtn" data-ssil="'+esc(x.id)+'">Sil</button></div>'; }).join('')
+    :'<p class="muted small" style="margin:0">Kaydettiğiniz süreler ve duruşma tarihleri burada, en yakın tarihten başlayarak sıralanır. Bilgiler yalnızca bu cihazdaki tarayıcıda tutulur.</p>';
+}
+
+/* ---------- ortak: kaynak kartları ve atıf düğmeleri (taslak ve dosya bölümleri) ---------- */
+document.addEventListener('click',e=>{ const b=e.target.closest('.cite[data-p]'); if(!b) return; const el=document.getElementById(b.dataset.p+b.dataset.no); if(!el) return;
+  el.classList.add('open'); const ac=el.querySelector(':scope > .ac'); if(ac) ac.textContent='Kapat';
+  el.scrollIntoView({behavior:matchMedia('(prefers-reduced-motion: reduce)').matches?'auto':'smooth',block:'start'}); el.classList.add('flash'); setTimeout(()=>el.classList.remove('flash'),1400); });
+const citeBtn = (c,p) => '<button class="cite" type="button" contenteditable="false" data-p="'+p+'" data-no="'+esc(c)+'">'+esc(etiket(c))+'</button>';
+function bilinmeyenAtif(metin, list){
+  const lawsIn=new Set(list.map(a=>a.law)), known=new Set(); list.forEach(a=>{ const L=LAWBY[a.law]; (L&&L.arts?L.arts:ARTS.filter(x=>x.law===a.law)).forEach(x=>known.add(String(x.no))); });
+  const refs=[...String(metin).matchAll(/(?:madde\s*(\d+)|(\d+)\s*['’]?(?:\.|inci|ıncı|üncü|ncı|nci|uncu)?\s*madde)/gi)].map(m=>m[1]||m[2]);
+  return [...new Set(refs.filter(n=>!known.has(n)))];
+}
+function gizleVeSakla(metin, ek){ const eski=MAP; const r=maskAll(metin, ek||''); const harita=MAP; MAP=eski; return {text:r.text, counts:r.counts, harita}; }
+const ac_ = (s, h) => String(s).replace(/\[(KİŞİ|ŞİRKET|KİMLİK|TELEFON|E-POSTA|IBAN|ADRES|DOĞUM TARİHİ|EK)-\d+\]/g, m=>h[m]||m);
+
+/* ---------- belge taslağı ---------- */
+const SERBEST=[
+  ['talep','Talep takriri (dava dilekçesi)','Davacının olayları ve istediği çareleri numaralı paragraflarla anlattığı layiha.'],
+  ['mudafaa','Müdafaa takriri (savunma)','Talep takririne paragraf paragraf cevap: kabul edilen, inkâr edilen olaylar ve karşı iddialar.'],
+  ['istida','İstida ve destekleyici yemin takriri','Ara emri veya başka bir çare için başvuru; dayanılan olaylar yemin takririnde anlatılır.'],
+  ['ihtar','İhtarname','Karşı tarafa yazılı ihtar: olaylar, talep, verilen süre ve sonuçları.'],
+  ['gorus','Müvekkile hukuki değerlendirme yazısı','İlgili mevzuata dayanan değerlendirme, riskler ve seçenekler.'],
+  ['sozlesme','Sözleşme taslağı','Tarafların anlaştığı koşullara göre sözleşme; yasanın zorunlu kuralları kaynaklı.'],
+];
+let FORMLAR=null, TASLAKHAZIR=false, tctl=null, TSON=null;
+async function taslakInit(){
+  if(TASLAKHAZIR) return; TASLAKHAZIR=true;
+  const ciz=()=>{ $('#tturu').innerHTML='<optgroup label="Serbest belge">'+SERBEST.map(s=>'<option value="s:'+s[0]+'">'+esc(s[1])+'</option>').join('')+'</optgroup>'+
+    (FORMLAR?'<optgroup label="HMUT formları ('+FORMLAR.formlar.length+')">'+FORMLAR.formlar.map((f,i)=>'<option value="f:'+i+'">Form '+esc(f.no)+' — '+esc(f.baslik.length>90?f.baslik.slice(0,90)+'…':f.baslik)+'</option>').join('')+'</optgroup>':''); turBilgi(); };
+  ciz();
+  $('#tturu').addEventListener('change',turBilgi);
+  try{ FORMLAR=await fetch('formlar.json').then(r=>{ if(!r.ok) throw new Error(r.status); return r.json(); }); const s=$('#tturu').value; ciz(); $('#tturu').value=s; }
+  catch(_){ $('#tform').textContent='HMUT formları yüklenemedi; serbest belge türleri kullanılabilir.'; }
+}
+function secilenTur(){ const v=$('#tturu').value||'s:talep'; if(v.startsWith('f:')&&FORMLAR) { const f=FORMLAR.formlar[+v.slice(2)]; return {form:f, ad:'HMUT Form '+f.no+' — '+f.baslik}; } const s=SERBEST.find(x=>'s:'+x[0]===v)||SERBEST[0]; return {ad:s[1], aciklama:s[2]}; }
+function turBilgi(){ const t=secilenTur();
+  $('#tform').innerHTML = t.form ? '<details class="sheet"><summary><span class="t">Form '+esc(t.form.no)+' kalıbı'+(t.form.emir?' · '+esc(t.form.emir):'')+'</span><span class="muted small">resmî metin</span></summary><pre class="gtxt" style="max-height:300px;margin-top:8px">'+esc(t.form.metin)+'</pre><p class="small muted" style="margin:6px 0 0">Kaynak: '+esc(FORMLAR.kaynak)+' · <a href="'+esc(FORMLAR.url)+'" target="_blank" rel="noopener">resmî dosya</a></p></details>'
+    : '<p class="small muted" style="margin:0">'+esc(t.aciklama||'')+'</p>'; }
+function taslakIstem(t, mah, taraf, olay, list){
+  const ids=list.map(a=>a.cid).join(', ');
+  return `Sen KKTC'de çalışan bir avukat için belge taslağı hazırlıyorsun. Belge türü: ${t.ad}.
+${t.form?`Aşağıdaki resmî HMUT kalıbını (Form ${t.form.no}) esas al: başlıkları, sıralamayı ve kalıp ifadelerini koru; noktalı boşlukları ve (a), (b) gibi işaretli yerleri kullanıcının verdiği bilgilerle doldur; bilgi yoksa [....] bırak.
+
+FORM METNİ:
+${t.form.metin}
+`:''}
+KULLANICININ BİLGİLERİ:
+Mahkeme: ${mah||'[belirtilmedi]'}
+Taraflar: ${taraf||'[belirtilmedi]'}
+Olaylar ve talep:
+${olay}
+
+KURALLAR:
+1. Olay, tarih, tutar ve adları YALNIZCA kullanıcının bilgilerinden al; uydurma. Eksik bilgiyi [....] ile boş bırak ve "doldurulacak" listesine yaz.
+2. Kişi bilgileri [KİŞİ-1] gibi etiketlerle gizlendi; etiketleri aynen kullan, gerçek adı tahmin etme.
+3. Bir hukuk kuralına, yasaya, tüzüğe veya maddeye dayanan her paragrafa "cites" alanında aşağıdaki kimliklerden en az birini yaz. Yalnızca şu kimlikleri kullan: ${ids||'yok'}. Aşağıdaki metinlerde bulunmayan bir kural, madde numarası veya Emir/nizam numarası yazma. Türkiye mevzuatını (TBK, HMK, İİK vb.) kullanma.
+4. KKTC uygulamasındaki terimleri kullan (celpname, talep takriri, müdafaa takriri, istida, yemin takriri, mukayyit, Kaza Mahkemesi, davacı, davalı).
+5. Talep ve müdafaa takrirlerinde ve yemin takririnde paragrafları numarala (1., 2., 3.). Sade, resmî Türkçe kullan.
+6. Hukuki görüş veya sonuç garantisi verme. Avukatın kontrol etmesi gereken noktaları "uyarilar" alanına yaz.
+
+METİNLER:
+${maddeBloklari(list)||'(ilgili madde bulunamadı)'}
+
+Yalnızca şu biçimde JSON döndür:
+{"baslik":"belgenin başlığı","bolumler":[{"baslik":"bölüm başlığı (yoksa boş)","paragraflar":[{"metin":"...","cites":["KIMLIK"]}]}],"doldurulacak":["eksik bilgi"],"uyarilar":"avukatın kontrol etmesi gerekenler"}`;
+}
+function taslakCiz(res, list, harita){
+  const allowed=new Set(list.map(a=>a.cid)); let kaynaksiz=0; const hepsi=[];
+  const bol=(Array.isArray(res.bolumler)?res.bolumler:[]).map(b=>({baslik:String(b&&b.baslik||''), p:(Array.isArray(b&&b.paragraflar)?b.paragraflar:[]).map(p=>{
+    const metin=ac_(String(p&&p.metin||''),harita), cites=(Array.isArray(p&&p.cites)?p.cites:[]).map(String).filter(c=>allowed.has(c));
+    const hukuki=/(^|[^\p{L}])(madde|yasa|tüzü|emir|emri|nizam|fasıl)/iu.test(metin); if(hukuki && !cites.length) kaynaksiz++; hepsi.push(metin); return {metin, cites, hukuki};
+  })})).filter(b=>b.p.length);
+  const unk=bilinmeyenAtif(hepsi.join(' '), list);
+  let h='<div class="answer"><div class="belge" id="tbelge" contenteditable="true" spellcheck="true"><h2 data-w="h1">'+esc(ac_(res.baslik||secilenTur().ad,harita))+'</h2>'+
+    bol.map(b=>(b.baslik?'<h3 data-w="h2">'+esc(ac_(b.baslik,harita))+'</h3>':'')+b.p.map(p=>'<p data-w="p">'+esc(p.metin)+(p.cites.length?' '+p.cites.map(c=>citeBtn(c,'t-')).join(''):p.hukuki?' <span class="badge gone" contenteditable="false">kaynak gösterilmedi</span>':'')+'</p>').join('')).join('')+'</div>';
+  const dold=(Array.isArray(res.doldurulacak)?res.doldurulacak:[]).map(String).filter(Boolean);
+  if(dold.length) h+='<div class="check warn"><b>Doldurulacak:</b><span>'+dold.map(d=>esc(ac_(d,harita))).join(' · ')+'</span></div>';
+  if(res.uyarilar) h+='<div class="check warn"><b>Kontrol edin:</b><span>'+esc(ac_(res.uyarilar,harita))+'</span></div>';
+  if(unk.length) h+='<div class="check bad"><b>Var olmayan madde atfı: '+esc(unk.join(', '))+'.</b><span>Bulunan yasalarda bu numaralı madde yok; düzeltin.</span></div>';
+  if(kaynaksiz) h+='<div class="check bad"><b>'+kaynaksiz+' paragrafta hukuki dayanak var ama kaynak gösterilmedi.</b><span>İşaretli paragrafları resmî metinden kontrol edin.</span></div>';
+  if(!unk.length && !kaynaksiz) h+='<div class="check ok"><b>Kaynak kontrolü geçti.</b><span>Hukuki dayanak içeren paragrafların hepsi bulunan maddelere bağlı; var olmayan madde numarası yok.</span></div>';
+  h+='<p class="small muted" style="margin:10px 0 0">Taslağın üzerinde doğrudan düzeltme yapabilirsiniz; Word çıktısı yaptığınız düzeltmeleri içerir, atıf etiketlerini içermez.</p><div class="acts"><button class="btn sm" type="button" id="tword">Word olarak indir</button><button class="btn ghost sm" type="button" id="tkopya">Kopyala</button><span class="state small" id="tdurum"></span></div></div>';
+  $('#tcikti').innerHTML=h;
+  $('#tkaynak').innerHTML=list.length?list.map(a=>sheet(a,'article','t-')).join(''):'<p class="muted small">İlgili madde bulunamadı.</p>';
+  rvStats();
+}
+function belgeBloklari(){
+  const B=[]; document.querySelectorAll('#tbelge > *').forEach(el=>{ const c=el.cloneNode(true); c.querySelectorAll('.cite,.badge').forEach(x=>x.remove()); const t=c.innerText.replace(/ /g,' ').trim(); if(!t) return;
+    B.push({tur:{h1:'h1',h2:'h2'}[el.dataset.w]||(el.tagName==='H2'?'h1':el.tagName==='H3'?'h2':'p'), metin:t}); });
+  return B;
+}
+$('#pane-taslak').addEventListener('click',async e=>{
+  if(e.target.id==='tword'){ const B=belgeBloklari(); $('#tdurum').textContent='Hazırlanıyor…'; const r=await indir(dosyaAdi((B[0]&&B[0].metin)||'Taslak')+'.docx', docx((B[0]&&B[0].metin)||'Taslak',B)); $('#tdurum').textContent=indirMesaj(r)||'Word dosyası indirildi.'; }
+  if(e.target.id==='tkopya') kopyala(belgeBloklari().map(b=>b.metin).join('\n\n'), $('#tdurum'));
+});
+$('#thazirla').addEventListener('click',async()=>{
+  const olay=$('#tolay').value.trim(); if(olay.length<20){ $('#tstate').textContent='Olayları ve talebi biraz daha ayrıntılı yazın.'; return; }
+  if(!sampleFn){ $('#tstate').textContent='Yapay zekâ bu görünümde kullanılamıyor.'; return; }
+  const t=secilenTur(), mah=$('#tmah').value.trim(), taraf=$('#ttaraf').value.trim();
+  let harita={}, tarafG=taraf, olayG=olay;
+  if($('#tgizle').checked){ const ek=taraf.split(/[,;\n·]|(?:\s+-\s+)/).map(s=>s.replace(/^(davacı|davalı|müvekkil|karşı taraf|kiracı|kiraya veren|alıcı|satıcı)\s*[:\-]?\s*/i,'').trim()).filter(s=>/^\p{Lu}/u.test(s) && s.split(/\s+/).length>=2 && s.length<60).join(',');
+    const r=gizleVeSakla('TARAFLAR: '+taraf+'\n@@@\n'+olay, ek); harita=r.harita; const [a,b]=r.text.split('\n@@@\n'); tarafG=a.replace(/^TARAFLAR: /,''); olayG=b; }
+  tctl=new AbortController(); $('#thazirla').disabled=true; $('#tdur').hidden=false; $('#tstate').textContent='İlgili maddeler aranıyor…';
+  try{
+    const list=await cokluAra([(t.form?t.form.baslik+' ':'')+olay.slice(0,400), olay.slice(0,200)], 9, s=>$('#tstate').textContent=s);
+    $('#tkaynak').innerHTML=list.map(a=>sheet(a,'article','t-')).join(''); $('#tstate').textContent='Taslak yazılıyor…'+(Object.keys(harita).length?' ('+Object.keys(harita).length+' kişisel bilgi gizlendi)':'');
+    const res=await sampleFn.json(taslakIstem(t,mah,tarafG,olayG,list),{signal:tctl.signal, modelTier:'default'});
+    TSON={res,list,harita}; taslakCiz(res||{}, list, harita); $('#tstate').textContent='';
+  }catch(e){ $('#tstate').textContent=hataMesaj(e); }
+  finally{ $('#thazirla').disabled=false; $('#tdur').hidden=true; }
+});
+$('#tdur').addEventListener('click',()=>tctl&&tctl.abort());
+
+/* ---------- sözleşme inceleme (dosya bölümü) ---------- */
+let RSON=null;
+function riskIstem(tur, list){
+  const body=MASKED.map(p=>'[SAYFA '+p.page+']\n'+p.text).join('\n\n');
+  return `Bir KKTC avukatı için aşağıdaki sözleşmeyi incele (tür: ${tur||'belirtilmedi'}). Kişi bilgileri [KİŞİ-1] gibi etiketlerle gizlendi; etiketleri aynen kullan.
+
+KURALLAR:
+1. "riskler": sözleşmedeki bir hükmün müvekkil açısından sorunlu, belirsiz veya tek taraflı olduğu yerler. Her risk için sözleşmeden BİREBİR kopyalanmış 6-25 kelimelik alıntı ("quote") ve sayfa numarası ("page") ver.
+2. Risk KKTC mevzuatına aykırılık veya uyumsuzluk içeriyorsa "cites" alanına aşağıdaki kimliklerden ilgili olanları yaz. Yalnızca şu kimlikler: ${list.map(a=>a.cid).join(', ')||'yok'}. Mevzuata dayanmayan ticari riskler için "cites": [] bırak.
+3. "eksikler": yasanın zorunlu kıldığı veya taraf için önemli olup sözleşmede bulunmayan hükümler. Yasal bir zorunluluğa dayanıyorsa mutlaka "cites" ver.
+4. Yalnızca aşağıdaki metinlere ve sözleşmeye dayan; Türkiye mevzuatı (TBK vb.) kullanma; metinlerde olmayan madde numarası yazma.
+5. "derece": "yüksek", "orta" veya "düşük". "oneri": hükmün nasıl değiştirilebileceğine dair kısa öneri. Hukuki görüş veya sonuç garantisi verme.
+
+METİNLER:
+${maddeBloklari(list)||'(ilgili madde bulunamadı)'}
+
+SÖZLEŞME:
+${body}
+
+Yalnızca şu JSON'u döndür:
+{"tur":"sözleşmenin türü","ozet":"2-3 cümle: taraflar ve ana edimler","riskler":[{"baslik":"...","aciklama":"...","quote":"...","page":1,"cites":[],"derece":"orta","oneri":"..."}],"eksikler":[{"text":"...","cites":[]}],"limits":"incelemenin kapsamadığı veya avukatın ayrıca bakması gereken noktalar"}`;
+}
+function riskCiz(){
+  if(!RSON) return; const {res,list}=RSON; const allowed=new Set(list.map(a=>a.cid));
+  const DER={yüksek:'gone',orta:'chg',düşük:'live'}; let bad=0, n=0, atilan=0;
+  const R=(Array.isArray(res.riskler)?res.riskler:[]).map(r=>({...r, cites:(Array.isArray(r.cites)?r.cites:[]).map(String).filter(c=>allowed.has(c))}));
+  R.sort((a,b)=>['yüksek','orta','düşük'].indexOf(a.derece)-['yüksek','orta','düşük'].indexOf(b.derece));
+  const E=(Array.isArray(res.eksikler)?res.eksikler:[]).map(x=>({text:String(x&&x.text||''), cites:(Array.isArray(x&&x.cites)?x.cites:[]).map(String).filter(c=>allowed.has(c)), ham:(Array.isArray(x&&x.cites)?x.cites.length:0)}))
+    .filter(x=>{ if(x.ham && !x.cites.length){ atilan++; return false; } return x.text; });
+  let h='<div class="answer"><h2>Sözleşme incelemesi'+(res.tur?' · '+esc(unmask(res.tur)):'')+'</h2>'+(res.ozet?'<p>'+esc(unmask(res.ozet))+'</p>':'')+
+    '<ul class="points">'+R.map(r=>{ n++; const v=locate(r.quote||'',r.page); if(v.ok==='bad') bad++;
+      return '<li><b>'+esc(unmask(r.baslik||'Risk'))+'</b> <span class="badge '+(DER[r.derece]||'chg')+'">'+esc(r.derece||'?')+'</span><div>'+esc(unmask(r.aciklama||''))+(r.cites.length?' '+r.cites.map(c=>citeBtn(c,'f-')).join(''):' <span class="muted small">(mevzuat dayanağı yok: ticari değerlendirme)</span>')+'</div>'+
+        (r.oneri?'<div class="small" style="margin-top:3px"><b>Öneri:</b> '+esc(unmask(r.oneri))+'</div>':'')+'<div class="small muted" style="margin-top:3px">s. '+esc(r.page)+' · “'+esc(unmask(r.quote||''))+'” '+vBadge(v)+'</div></li>'; }).join('')+'</ul>';
+  if(E.length) h+='<h2 style="margin-top:14px;font-size:17px">Eksik görünen hükümler</h2><ul class="points">'+E.map(x=>'<li>'+esc(unmask(x.text))+(x.cites.length?' '+x.cites.map(c=>citeBtn(c,'f-')).join(''):'')+'</li>').join('')+'</ul>';
+  if(res.limits) h+='<p class="small muted" style="margin-top:10px"><b>Ayrıca kontrol edin:</b> '+esc(unmask(res.limits))+'</p>';
+  h+= bad ? '<div class="check bad"><b>'+bad+' / '+n+' alıntı sözleşmede bulunamadı.</b><span>Bu riskleri asıl metinden kontrol edin.</span></div>' : n ? '<div class="check ok"><b>Alıntı kontrolü geçti.</b><span>'+n+' riskin alıntısı sözleşmede bulundu.</span></div>' : '';
+  if(atilan) h+='<div class="check warn"><b>'+atilan+' eksik hüküm tespiti gösterilmedi.</b><span>Geçerli bir mevzuat kaynağı gösterilemedi.</span></div>';
+  h+='<div class="acts"><button class="btn ghost sm" type="button" id="rword">Word olarak indir</button><span class="state small" id="rdurum"></span></div></div>';
+  h+='<details class="sheet" style="margin-top:12px"><summary><span class="t">Dayanılan maddeler ('+list.length+')</span></summary><div class="col" style="gap:8px;margin-top:8px">'+list.map(a=>sheet(a,'article','f-')).join('')+'</div></details>';
+  $('#sumout').innerHTML=h; rvStats();
+  $('#rword').onclick=async()=>{ const B=[{tur:'h1',metin:'Sözleşme İncelemesi'},{tur:'kucuk',metin:bugunStr()+' · KKTC Hukuk Asistanı'}];
+    if(res.tur) B.push({tur:'p',kalin:true,metin:unmask(res.tur)}); if(res.ozet) B.push({tur:'p',metin:unmask(res.ozet)});
+    B.push({tur:'h2',metin:'Riskler'}); R.forEach(r=>{ B.push({tur:'p',kalin:true,metin:unmask(r.baslik||'Risk')+' ('+(r.derece||'?')+')'}); B.push({tur:'p',metin:unmask(r.aciklama||'')+(r.cites.length?' ['+r.cites.map(etiket).join('; ')+']':'')}); if(r.quote) B.push({tur:'alinti',metin:'s. '+r.page+': “'+unmask(r.quote)+'”'}); if(r.oneri) B.push({tur:'p',metin:'Öneri: '+unmask(r.oneri)}); });
+    if(E.length){ B.push({tur:'h2',metin:'Eksik görünen hükümler'}); E.forEach(x=>B.push({tur:'p',metin:'• '+unmask(x.text)+(x.cites.length?' ['+x.cites.map(etiket).join('; ')+']':'')})); }
+    if(res.limits) B.push({tur:'p',metin:'Ayrıca kontrol edin: '+unmask(res.limits)});
+    B.push({tur:'kucuk',metin:'Yapay zekâ yardımıyla hazırlanmış kontrol listesidir; hukuki görüş değildir.'});
+    $('#rdurum').textContent='Hazırlanıyor…'; const r=await indir('Sozlesme incelemesi.docx', docx('Sözleşme İncelemesi',B)); $('#rdurum').textContent=indirMesaj(r)||'Word dosyası indirildi.'; };
+}
+$('#risk').addEventListener('click',async()=>{
+  doMask();
+  if(!MASKED.length || !MASKED.some(p=>p.text.length>20)){ $('#sstate').textContent='Önce bir sözleşme ekleyin.'; return; }
+  if(!sampleFn){ $('#sstate').textContent='Yapay zekâ bu görünümde kullanılamıyor.'; return; }
+  fctl=new AbortController(); $('#risk').disabled=true; $('#summ').disabled=true; $('#fstop').hidden=false; $('#sstate').textContent='Sözleşmenin türü ve ilgili konular belirleniyor…';
+  try{
+    const body=MASKED.map(p=>p.text).join('\n\n');
+    const plan=await sampleFn.json(`Aşağıdaki sözleşmenin türünü belirle ve KKTC mevzuatında aranması gereken konuları 3-5 kısa arama ifadesiyle yaz (KKTC terimleriyle; Türkiye mevzuatı terimleri değil).\nYalnızca JSON: {"tur":"...","ara":["...","..."]}\n\nSÖZLEŞME (başı):\n${body.slice(0,12000)}`,{signal:fctl.signal});
+    const ara=(Array.isArray(plan&&plan.ara)?plan.ara:[]).map(String).slice(0,5);
+    const list=await cokluAra([String(plan&&plan.tur||'sözleşme'), ...ara], 14, s=>$('#sstate').textContent=s);
+    $('#sstate').textContent='Sözleşme maddelerle karşılaştırılıyor…';
+    const res=await sampleFn.json(riskIstem(plan&&plan.tur, list),{signal:fctl.signal, modelTier:'default'});
+    LAST=null; RSON={res:res||{}, list}; riskCiz(); $('#sstate').textContent='';
+  }catch(e){ $('#sstate').textContent=hataMesaj(e); }
+  finally{ $('#risk').disabled=false; $('#summ').disabled=false; $('#fstop').hidden=true; }
+});
+$('#summ').addEventListener('click',()=>{ RSON=null; });
+$('#reveal').addEventListener('change',()=>{ if(RSON && !LAST) riskCiz(); });
 
 rvInit();
 if(window.claude && window.claude.use){ window.claude.use('sample').then(fn=>{ sampleFn=fn; }).catch(()=>{}); }

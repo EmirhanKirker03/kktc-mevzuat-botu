@@ -5,6 +5,8 @@ ex+="\n[SAYFA 9] EK — DAVACI İLETİŞİM FORMU (UYDURMA) Ad soyad: Deniz Yal�
 cat=json.load(open('catalog/catalog.json')); kar=json.load(open('kararlar.json')); mv=json.load(open('mevzuat_dalga1.json')); mv['yasalar'].append(json.load(open('mevzuat_kat.json'))); mv['yasalar']+=json.load(open('mevzuat_dalga2.json'))['yasalar']
 enc=lambda o: json.dumps(o,ensure_ascii=False).replace('</','<\\/')
 html=open('app/template.html').read()
+_td=json.load(open('app/pub/tum-dizin.json'))['yasalar']
+html=html.replace('__TUMYASA__',str(sum(1 for y in _td if not y.get('tz')))).replace('__TUMTUZUK__',str(sum(1 for y in _td if y.get('tz'))))
 html=html.replace('__YASA__',str(1+len(mv['yasalar']))).replace('__MADDE__',str(len(d['articles'])+sum(len(y['maddeler']) for y in mv['yasalar']))).replace('__KARAR__',str(len(kar['kararlar'])))
 import os
 os.makedirs('app/pub',exist_ok=True)
@@ -29,7 +31,7 @@ json.dump({'kaynak':kar['kaynak'],'alindi':kar['alindi'],'kararlar':dizin}, open
 alanlar={a:{'adet':sum(1 for k in ks if a in k['alanlar'])} for a in SIRA}
 print('karar paketi', len(paketler), 'dizin MB', round(os.path.getsize('app/pub/karar-dizin.json')/1e6,2))
 meta={'alindi':kar['alindi'],'baslangic':kar['baslangic'],'alanlar':alanlar}
-for k,v in [('__DATA__',d),('__EXAMPLE__',ex),('__CATALOG__',cat),('__KARARLAR__',meta),('__MEVZUAT__',mv)]: html=html.replace(k,enc(v))
+for k,v in [('__DATA__',d),('__EXAMPLE__',ex),('__CATALOG__',cat),('__KARARLAR__',meta),('__MEVZUAT__',mv),('__ARACLAR__',json.load(open('araclar.json')))]: html=html.replace(k,enc(v))
 print(alanlar)
 open('app/pub/kira_asistani.html','w').write(html)
 print(len(html)/1e6,'MB', 'madde:', len(d['articles'])+sum(len(y['maddeler']) for y in mv['yasalar']))
