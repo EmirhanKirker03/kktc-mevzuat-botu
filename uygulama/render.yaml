@@ -17,7 +17,7 @@ services:
       - key: MODEL
         value: claude-sonnet-5-5
       - key: GUNLUK_SORU
-        value: "150"
+        value: "60"
       - key: OTURUM_SIRRI
         generateValue: true
       - key: ANTHROPIC_API_KEY
