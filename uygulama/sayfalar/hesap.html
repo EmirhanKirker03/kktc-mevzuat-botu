@@ -1,0 +1,8 @@
+<!doctype html><html lang="tr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Hesap · KKTC Hukuk Asistanı</title>
+<style>/*__CSS__*/ main{max-width:420px;margin:0 auto;padding-inline:20px;padding-block:32px} form{display:flex;flex-direction:column;gap:12px;margin-top:16px} label{font-size:12px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);font-weight:600}</style></head><body><main>
+<p><a href="/">← Uygulamaya dön</a></p><h1>Şifre değiştir</h1>
+<form id="f"><div><label for="eski">Mevcut şifre</label><input id="eski" type="password" autocomplete="current-password" required></div>
+<div><label for="yeni">Yeni şifre (en az 10 karakter)</label><input id="yeni" type="password" autocomplete="new-password" minlength="10" required></div>
+<button class="btn" type="submit">Şifreyi değiştir</button><p id="m" class="small" role="status"></p></form>
+<script>f.addEventListener('submit',async e=>{e.preventDefault();const r=await fetch('/api/sifre',{method:'POST',headers:{'content-type':'application/json'},body:JSON.stringify({eski:eski.value,yeni:yeni.value})});const j=await r.json();m.className='small '+(r.ok?'tamam':'hata');m.textContent=r.ok?'Şifreniz değişti.':j.hata;if(r.ok)f.reset();});</script>
+</main></body></html>
