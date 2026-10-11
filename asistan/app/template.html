@@ -500,7 +500,7 @@ function eraText(k, alan){
 function kararCard(k, excerpt, id, alan){
   const not=donemNot(k, alan);
   return '<article class="sheet kcard" '+(id?'id="'+id+'"':'')+'>'+
-    '<header><span class="mno">'+esc(k.tur)+' · '+esc(trDate(k.tarih))+(k.dno?' · D.No '+esc(k.dno):'')+'</span>'+donemBadge(k, alan)+'</header>'+
+    '<header><span class="mno">'+esc(k.tur)+' · '+esc(trDate(k.tarih))+(k.dno?' · D.No '+esc(k.dno):'')+'</span>'+(k.ocr?'<span class="badge chg" title="Taranmış karar dosyasından makineyle okundu; kelime hataları olabilir">yazı tanıma</span>':'')+donemBadge(k, alan)+'</header>'+
     '<h3>'+esc(k.taraflar||'Taraflar belirtilmemiş')+'</h3>'+
     (k.konu?'<p class="small" style="margin:0 0 6px">'+esc(k.konu)+'</p>':'')+
     (k.yasa?'<p class="small muted" style="margin:0 0 6px">Anılan mevzuat: '+esc(k.yasa)+'</p>':'')+
