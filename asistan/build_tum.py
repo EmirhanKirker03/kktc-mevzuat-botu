@@ -34,7 +34,9 @@ def parcala(metin, boy=1800):
     return [{'no': f'Parça {i + 1}', 'baslik': '', 'metin': re.sub(r'[ \t]+', ' ', t).strip(), 'parca': True} for i, t in enumerate(out)]
 
 # güncellik_tum.py sonucu: Meclis kataloğunda olup metinde geçmeyen 2005 sonrası değişiklikler (olası eskilik uyarısı)
-GY = {x['pkey']: x['metinde_yok'] for x in (json.load(open(os.path.join(D, 'guncellik_tum.json'), encoding='utf-8')) if os.path.exists(os.path.join(D, 'guncellik_tum.json')) else []) if x.get('durum') == 'eksik'}
+# Meclis'ten doğrulanmış, Yüksek Mahkeme metnine işlenmemiş sonraki değişiklikler (meclis_dogrula.py)
+SD = json.load(open(os.path.join(D, 'sonraki_degisiklikler.json'), encoding='utf-8')) if os.path.exists(os.path.join(D, 'sonraki_degisiklikler.json')) else {}
+GY = {int(k): [d['degisiklik'] for d in v] for k, v in SD.items()}
 yasalar, istat = [], collections.Counter()
 for tur in ('yasa', 'tuzuk'):
   ek = '' if tur == 'yasa' else '-' + tur
@@ -48,7 +50,8 @@ for tur in ('yasa', 'tuzuk'):
     pk = int(pk)
     if tur == 'yasa' and pk in ELLE: continue
     kaynak, metin, ocrmu = None, None, False
-    if str(pk) in lo and lo[str(pk)].get('durum') == 'tamam':
+    # LibreOffice metni numaraları korur ama bazı dosyalarda metin kutularını atlıyor: belirgin kısaysa önceki çıkarım kullanılır
+    if str(pk) in lo and lo[str(pk)].get('durum') == 'tamam' and not (k.get('karakter') and lo[str(pk)]['karakter'] < 0.7 * k['karakter'] and k.get('durum') == 'tamam' and k.get('bicim') != 'rtf'):
         kaynak = 'libreoffice'; metin = open(os.path.join(REPO, lo[str(pk)]['metin_dosyasi']), encoding='utf-8').read()
     elif k.get('durum') == 'tamam':
         kaynak = k.get('bicim'); metin = open(os.path.join(REPO, k['metin_dosyasi']), encoding='utf-8').read()
@@ -72,6 +75,8 @@ for tur in ('yasa', 'tuzuk'):
     else:
         maddeler = parcala(metin); ayirma = 'parca'
     istat[tur + ' ' + ayirma + (' (ocr)' if ocrmu else '')] += 1
+    if tur == 'yasa' and str(pk) in SD:
+        maddeler = [{'no': 'Değişiklik ' + d['degisiklik'], 'baslik': d['baslik'] + ' (metne işlenmemiş sonraki değişiklik)', 'metin': d['metin'], 'sd': True, 'u': d['url'], **({'ocr': True} if d.get('ocr') else {})} for d in SD[str(pk)]] + maddeler
     if ocrmu:  # yazı tanımada kenar başlıkları güvenilir okunamıyor; yanıltmasın diye boş bırakılır
         for m in maddeler: m['baslik'] = ''
     ornek = ' ' + metin[:20000].lower() + ' '

@@ -38,7 +38,8 @@ def icduzeni(kod, bas):
     return d
 def kotu(b): return not b or re.search(r'R\.G\.|^\d', b) or len(b) < 3 or '....' in b or not re.search(r'[a-zçğıöşü]{3}', b.lower()) or re.match(r'^[\d.()/ ]+$', b)
 
-NOTLAR = {'HMUK': '13/2013 sayılı yasa Meclis kataloğunda bu yasanın değişiklikleri arasında listeleniyor ama birleştirilmiş metinde geçmiyor (metnin başlığında 9/1971, 23/1984, 31/2003, 86/2007, 12/2014 ve 37/2019 sayılıyor). Hukuk Muhakemeleri Usulü (Geçici Kurallar) Yasası (43/2012) ile ilgili olabilir — doğrulanmadı, avukat kontrol etmeli.'}
+NOTLAR = {'HMUK': "Meclis kataloğu 13/2013 sayılı yasayı bu yasanın değişiklikleri arasında listeliyor. Meclis arşivindeki metni incelendi: 13/2013, Hukuk Muhakemeleri Usulü (Geçici Kurallar) Yasasını (43/2012) değiştiriyor ve o yasa 31 Temmuz 2013'te yürürlükten kalktı. Bu yasanın metni güncel."}
+BASKA_YASAYA_AIT = {'HMUK': {'13/2013'}}  # Meclis kataloğunda yanlış grupta; dosyası incelenerek doğrulandı
 yasalar = []
 for pkey, kod, ad, alan, bs in YASALAR:
     k = kayit[str(pkey)]
@@ -89,7 +90,7 @@ for pkey, kod, ad, alan, bs in YASALAR:
                 f' · dikkat: {n}. maddenin numarası resmî dosyada okunamadı; o maddenin metni bu maddenin sonunda olabilir'
     duz = re.sub(r'\s', '', metin)
     ds = degisiklikler(bs)
-    kontrol = [{'yasa': f'{n}/{y}', 'metinde': bool(re.search(rf'(?<!\d)0?{n}/{y}', duz))} for y, n in ds if y >= 2005]
+    kontrol = [{'yasa': f'{n}/{y}', 'metinde': bool(re.search(rf'(?<!\d)0?{n}/{y}', duz))} for y, n in ds if y >= 2005 and f'{n}/{y}' not in BASKA_YASAYA_AIT.get(kod, set())]
     son = [f'{n}/{y}' for y, n in ds][-1] if ds else None
     yasalar.append({'kod': kod, 'no': k['numara'].replace('  ', ' '), 'ad': ad, 'alan': alan,
         'kaynak': 'KKTC Yüksek Mahkeme mevzuat sistemi — birleştirilmiş resmî metin',
