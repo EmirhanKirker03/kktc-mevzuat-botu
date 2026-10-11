@@ -24,7 +24,7 @@ async function istek(url, secenek = {}, deneme = 3) {
     try {
       let u = url, r;
       for (let y = 0; y < 6; y++) { // yönlendirmeleri elle izle ki çerezler kaybolmasın
-        r = await fetch(u, { ...secenek, redirect: 'manual', signal: AbortSignal.timeout(90000),
+        r = await fetch(u, { ...secenek, redirect: 'manual', signal: AbortSignal.timeout(secenek.zaman || 90000),
           headers: { 'User-Agent': UA, ...(cerez.size ? { Cookie: cerezBaslik() } : {}), ...(secenek.headers || {}) } });
         cerezAl(r);
         const loc = r.headers.get('location');
