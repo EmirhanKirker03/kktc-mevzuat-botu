@@ -1,0 +1,40 @@
+<!doctype html><html lang="tr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Giriş · KKTC Hukuk Asistanı</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,650&family=IBM+Plex+Sans:wght@400;600&display=swap">
+<style>
+/*__CSS__*/
+.wrap{min-height:100vh;display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr)}
+.sol{background:var(--side);color:#e8f0ee;padding:48px clamp(20px,5vw,64px);display:flex;flex-direction:column;justify-content:center;gap:18px}
+.sol h1{font-size:clamp(30px,4vw,44px)}.sol p{color:#b9ccc8;max-width:46ch;margin:0}
+.sol ul{margin:0;padding-left:18px;color:#d6e3e0;display:flex;flex-direction:column;gap:6px;max-width:48ch}
+.sag{display:flex;align-items:center;justify-content:center;padding:32px 20px}
+form{width:100%;max-width:380px;display:flex;flex-direction:column;gap:12px}
+label{font-size:12px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);font-weight:600}
+@media (max-width:820px){.wrap{grid-template-columns:1fr}.sol{padding:28px 20px}}
+</style></head><body>
+<div class="wrap">
+  <section class="sol">
+    <h1>KKTC Hukuk Asistanı</h1>
+    <p>KKTC mevzuatı ve Yüksek Mahkeme kararları üzerinde, her cevabı resmî kaynağıyla gösteren araştırma aracı.</p>
+    <ul>
+      <li>1.150 yasa, 3.600'ü aşkın tüzük, 5.400'ü aşkın Yüksek Mahkeme kararı</li>
+      <li>Her cümle madde veya karara bağlı; kaynaksız cümle gösterilmez</li>
+      <li>Dava dosyası özeti: kişisel bilgiler cihazınızda gizlenir</li>
+    </ul>
+    <p class="small">Hukuki tavsiye değildir; son değerlendirme avukata aittir.</p>
+  </section>
+  <section class="sag">
+    <form id="f">
+      <h2>Giriş</h2>
+      <div><label for="eposta">E-posta</label><input id="eposta" type="email" autocomplete="username" required></div>
+      <div><label for="sifre">Şifre</label><input id="sifre" type="password" autocomplete="current-password" required></div>
+      <button class="btn" type="submit">Giriş yap</button>
+      <p class="hata small" id="msg" role="alert"></p>
+      <p class="small muted">Hesabınız yoksa veya şifrenizi unuttuysanız büronuz adına bizimle iletişime geçin. <a href="/kosullar">Kullanım ve gizlilik koşulları</a></p>
+    </form>
+  </section>
+</div>
+<script>
+document.getElementById('f').addEventListener('submit',async e=>{e.preventDefault();const m=document.getElementById('msg');m.textContent='';
+ const r=await fetch('/api/giris',{method:'POST',headers:{'content-type':'application/json'},body:JSON.stringify({eposta:eposta.value,sifre:sifre.value})});
+ const j=await r.json().catch(()=>({})); if(r.ok) location.href='/'; else m.textContent=j.hata||'Giriş yapılamadı.';});
+</script></body></html>

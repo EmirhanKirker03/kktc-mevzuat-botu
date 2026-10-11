@@ -1,0 +1,32 @@
+services:
+  - type: web
+    name: kktc-hukuk-asistani
+    runtime: node
+    plan: starter
+    region: frankfurt
+    buildCommand: npm install --omit=dev
+    startCommand: node server.js
+    healthCheckPath: /giris
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: VERI_KLASORU
+        value: ./veri
+      - key: DB_YOLU
+        value: /var/data/kayit.db
+      - key: MODEL
+        value: claude-sonnet-5-5
+      - key: GUNLUK_SORU
+        value: "150"
+      - key: OTURUM_SIRRI
+        generateValue: true
+      - key: ANTHROPIC_API_KEY
+        sync: false
+      - key: YONETICI_EPOSTA
+        sync: false
+      - key: YONETICI_SIFRE
+        sync: false
+    disk:
+      name: kayit
+      mountPath: /var/data
+      sizeGB: 1

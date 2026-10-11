@@ -1,0 +1,49 @@
+<!doctype html><html lang="tr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Yönetim · KKTC Hukuk Asistanı</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,650&family=IBM+Plex+Sans:wght@400;600&display=swap">
+<style>
+/*__CSS__*/
+main{max-width:1100px;margin:0 auto;padding-inline:20px;padding-block:28px 60px;display:flex;flex-direction:column;gap:22px}
+.kart{background:var(--sheet);border:1px solid var(--rule);border-radius:10px;padding:18px}
+.izgara{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:10px;align-items:end}
+label{font-size:12px;letter-spacing:.05em;text-transform:uppercase;color:var(--muted);font-weight:600;display:block;margin-bottom:4px}
+.tw{overflow-x:auto}table{border-collapse:collapse;width:100%;font-size:14px}th,td{text-align:left;padding:8px;border-bottom:1px solid var(--rule);vertical-align:middle;white-space:nowrap}
+th{font-size:11.5px;letter-spacing:.05em;text-transform:uppercase;color:var(--muted)}td input[type=date]{width:auto;padding:6px 8px}
+.ust{display:flex;justify-content:space-between;align-items:center;gap:10px;flex-wrap:wrap}
+.sifre{font-family:ui-monospace,Menlo,Consolas,monospace;background:var(--paper);padding:2px 6px;border-radius:4px}
+</style></head><body><main>
+<div class="ust"><h1>Yönetim</h1><a href="/">Uygulamaya dön</a></div>
+<section class="kart">
+  <h2 style="font-size:19px;margin-bottom:12px">Yeni avukat hesabı</h2>
+  <form id="yeni" class="izgara">
+    <div><label for="ad">Ad soyad</label><input id="ad" required></div>
+    <div><label for="eposta">E-posta</label><input id="eposta" type="email" required></div>
+    <div><label for="buro">Büro</label><input id="buro"></div>
+    <div><label for="bitis">Abonelik bitişi</label><input id="bitis" type="date" required></div>
+    <div><button class="btn" type="submit">Hesap oluştur</button></div>
+  </form>
+  <p id="sonuc" class="small" role="status"></p>
+</section>
+<section class="kart">
+  <div class="ust"><h2 style="font-size:19px">Hesaplar</h2><span class="small muted" id="ozet"></span></div>
+  <div class="tw"><table><thead><tr><th>Ad</th><th>Büro</th><th>E-posta</th><th>Abonelik bitişi</th><th>Son 30 gün</th><th>Durum</th><th></th></tr></thead><tbody id="liste"></tbody></table></div>
+</section>
+<p class="small muted">Geçici şifreyi avukata güvenli bir kanaldan iletin; ilk girişten sonra değiştirmesini isteyin. Sorular ve belgeler sunucuda saklanmaz; yalnızca günlük istek sayısı tutulur.</p>
+</main>
+<script>
+const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const d=new Date(); d.setFullYear(d.getFullYear()+1); bitis.value=d.toISOString().slice(0,10);
+async function yukle(){ const r=await fetch('/api/yonetim/kullanicilar'); const L=await r.json(); const bugun=new Date().toISOString().slice(0,10);
+  ozet.textContent=L.filter(k=>k.rol!=='yonetici'&&k.aktif&&k.abonelik_bitis>=bugun).length+' aktif abone';
+  liste.innerHTML=L.map(k=>`<tr data-id="${k.id}"><td>${esc(k.ad)}</td><td>${esc(k.buro)}</td><td>${esc(k.eposta)}</td>
+   <td><input type="date" value="${esc(k.abonelik_bitis)}" data-a="bitis" aria-label="Abonelik bitişi"></td><td>${k.son30}</td>
+   <td>${k.rol==='yonetici'?'yönetici':k.aktif?(k.abonelik_bitis>=bugun?'<span class=tamam>aktif</span>':'<span class=hata>süresi doldu</span>'):'kapalı'}</td>
+   <td>${k.rol==='yonetici'?'':`<button class="btn ghost" data-a="sifre">Şifre sıfırla</button> <button class="btn ghost" data-a="aktif" data-v="${k.aktif?0:1}">${k.aktif?'Kapat':'Aç'}</button>`}</td></tr>`).join(''); }
+async function guncelle(o){ const r=await fetch('/api/yonetim/guncelle',{method:'POST',headers:{'content-type':'application/json'},body:JSON.stringify(o)}); return r.json(); }
+liste.addEventListener('change',async e=>{ if(e.target.dataset.a==='bitis'){ await guncelle({id:+e.target.closest('tr').dataset.id, abonelik_bitis:e.target.value}); yukle(); } });
+liste.addEventListener('click',async e=>{ const b=e.target.closest('button'); if(!b) return; const id=+b.closest('tr').dataset.id;
+  if(b.dataset.a==='sifre'){ const j=await guncelle({id,sifre_sifirla:true}); sonuc.innerHTML='Yeni geçici şifre: <span class="sifre">'+esc(j.gecici_sifre)+'</span>'; window.scrollTo(0,0); }
+  if(b.dataset.a==='aktif'){ await guncelle({id,aktif:b.dataset.v==='1'}); yukle(); } });
+yeni.addEventListener('submit',async e=>{ e.preventDefault(); const r=await fetch('/api/yonetim/kullanici',{method:'POST',headers:{'content-type':'application/json'},body:JSON.stringify({ad:ad.value,eposta:eposta.value,buro:buro.value,abonelik_bitis:bitis.value})});
+  const j=await r.json(); if(r.ok){ sonuc.innerHTML='Hesap oluşturuldu. Geçici şifre: <span class="sifre">'+esc(j.gecici_sifre)+'</span>'; yeni.reset(); bitis.value=d.toISOString().slice(0,10); yukle(); } else sonuc.textContent=j.hata; });
+yukle();
+</script></body></html>
