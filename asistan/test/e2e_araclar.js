@@ -15,7 +15,12 @@ const fs = require('fs');
 
   // derin araştırma
   await p.fill('#q', 'Hüküm aleyhine istinaf süresi nedir?');
-  await p.click('#derinbtn');
+  await p.click('#ask');
+  await p.waitForSelector('#answer .acts', { timeout: 30000 });
+  ok('tek düğme: Ayrıntılı araştır gizli', !(await p.isVisible('#derinbtn')));
+  ok('cevaptan sonra "Daha kapsamlı araştır" bağlantısı', await p.isVisible('#derinlink'));
+  await p.click('#derinlink');
+  await p.waitForFunction(() => (document.querySelector('#answer')||{}).textContent?.includes('aranan alt sorular'), null, { timeout: 30000 });
   await p.waitForSelector('#answer .acts', { timeout: 30000 });
   ok('derin araştırma bölüm başlıkları', await p.locator('#answer h3.bol').count() >= 2);
   ok('derin araştırma alt sorular gösterildi', (await p.textContent('#answer')).includes('aranan alt sorular'));
@@ -28,7 +33,7 @@ const fs = require('fs');
   await p.waitForFunction(() => document.querySelector('#answer').textContent.includes('(takip)'), null, { timeout: 20000 });
   ok('takip sorusu önceki konuşmayla gönderildi', true);
   // geçmiş
-  await p.click('#gbtn'); ok('geçmişte 2 kayıt', await p.locator('#glist [data-g]').count() === 2);
+  await p.click('#gbtn'); ok('geçmişte 3 kayıt (kısa + kapsamlı + takip)', await p.locator('#glist [data-g]').count() === 3);
   await p.click('#glist [data-g="1"]'); ok('geçmişten cevap açıldı', (await p.textContent('#answer')).includes('Geçmişten'));
 
   // süre hesabı: 6 hafta istinaf, 2026-06-01 → 13 Temmuz 2026 Pazartesi (adli tatil uyarısı)

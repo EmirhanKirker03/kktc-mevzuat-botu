@@ -6,8 +6,9 @@ cat=json.load(open('catalog/catalog.json')); kar=json.load(open('kararlar.json')
 enc=lambda o: json.dumps(o,ensure_ascii=False).replace('</','<\\/')
 html=open('app/template.html').read()
 _td=json.load(open('app/pub/tum-dizin.json'))['yasalar']
-html=html.replace('__TUMYASA__',str(sum(1 for y in _td if not y.get('tz')))).replace('__TUMTUZUK__',str(sum(1 for y in _td if y.get('tz'))))
-html=html.replace('__YASA__',str(1+len(mv['yasalar']))).replace('__MADDE__',str(len(d['articles'])+sum(len(y['maddeler']) for y in mv['yasalar']))).replace('__KARAR__',str(len(kar['kararlar'])))
+_say=lambda n: f'{n:,}'.replace(',', '.')
+html=html.replace('__TUMYASA__',_say(sum(1 for y in _td if not y.get('tz') and not y.get('yg') and y.get('p')!='AY'))).replace('__TUMTUZUK__',_say(sum(1 for y in _td if y.get('tz') and y.get('rt') in (None,'tuzuk')))).replace('__TUMIKINCIL__',_say(sum(1 for y in _td if y.get('yg') or y.get('rt') in ('emirname','yonetmelik','teblig'))))
+html=html.replace('__YASA__',str(1+len(mv['yasalar']))).replace('__MADDE__',str(len(d['articles'])+sum(len(y['maddeler']) for y in mv['yasalar']))).replace('__KARAR__',f"{len(kar['kararlar']):,}".replace(',', '.'))
 import os
 os.makedirs('app/pub',exist_ok=True)
 alanlar={}
