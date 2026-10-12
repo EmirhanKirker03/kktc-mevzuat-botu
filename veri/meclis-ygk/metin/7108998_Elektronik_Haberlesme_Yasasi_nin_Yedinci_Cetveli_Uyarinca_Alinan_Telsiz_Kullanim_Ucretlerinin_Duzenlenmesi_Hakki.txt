@@ -1,0 +1,53 @@
+6/2012 SAYILI ELEKTRONİK HABERLEŞME YASASI’NIN YEDİNCİ CETVELİ UYARINCA ALINAN TELSİZ KULLANIM ÜCRETLERİNİN DÜZENLENMESİ HAKKINDA YASA GÜCÜNDE KARARNAME
+
+GENEL GEREKÇE
+Yeni nesil mobil haberleşme teknolojilerinin hayat bulacağı “IMT Hizmet ve Sayısı Sınırlandırılmış Bireysel Kullanım Hakları ile Kurulacak Altyapılarına İlişkin Yetkilendirme İhaleleri (4G/4.5G/5G)” 02 Kasım 2022 ve 27 Aralık 2022 tarihlerinde gerçekleştirilerek sonuçlandırılmıştır. Verilen yetkilendirmeler sonucunda 10 (On) aylık bir hazırlık sürecinin ardından yeni nesil mobil haberleşme teknolojileri ülkemizde hizmete girecektir. 4G teknolojisi, 3G'nin devamı olan, tamamıyla IP tabanlı olup yüksek veri transferi sağlayabilen yeni mobil haberleşme teknolojilerinden biridir. 3G'ye kıyasla yaklaşık 4 kat daha fazla verinin transfer edilmesini sağlamakla birlikte çok daha kısa gecikmeleri de (latency) kullanıcıların hizmetine sunmaktadır. Bu yeni teknolojilerin ülkemizde hayat bulabilmesi için mobil operatörler tarafından yeni telsiz cihaz ve ekipmanlarının kurulması gerekmekte olup, mevcut ve yeni kurulacak telsiz cihazlarına (baz istasyonları) ilişkin, Elektronik Haberleşme Yasası uyarınca her yıl için telsiz kullanım ücretleri tahsil edilmektedir. 4G/5G teknolojileri hizmetinin sunulması amacıyla kurulacak olan telsiz cihazları ile birlikte mevcut olan 2G ve 3G teknolojilerine ait telsiz cihazlarının aynı anda hizmet verecek olması, telsiz cihaz kullanım ücretlerinin frekans kanal sayısına bağlı olarak artması, yeni frekans ihalelerinde ek frekans kanallarının tahsis edilmiş ve yeni teknolojiler için bu frekans kanallarının da kullanılacak olması ve ayrıca bu ücretlerin asgari ücrete bağlı bir şekilde artması nedeniyle, Elektronik Haberleşme Yasası uyarınca her yıl için ödenen telsiz kullanım ücretlerinde ciddi bir artış meydana gelmiştir. Bu sebeple, düzenlenen Yasa Gücünde Kararname ile yatırım sürecinde olan mobil operatörlerin, makul oranda telsiz kullanım ücreti ödemelerine olanak sağlanması amaçlanmıştır.
+MADDE GEREKÇELERİ
+
+Madde 1.
+Bu madde ile Yasa Gücünde Kararname’nin ismi düzenlenmiştir.
+Madde 2. 
+Bu madde ile Kararnamenin ne amaçla yapıldığı düzenlenmiştir.
+Madde 3. 
+Bu madde ile Elektronik Haberleşme Yasası’nın Yedinci Cetveli uyarınca alınan telsiz kullanım ücretleri düzenlenmiştir. 
+Madde 4. 
+Bu madde ile Yasa Gücünde Kararname'nin yürütme yetkisi düzenlenmiştir.
+Madde 5. 
+Bu madde ile Yasa Gücünde Kararname'nin yürürlüğe gireceği tarih düzenlenmiştir.
+6/2012 SAYILI ELEKTRONİK HABERLEŞME YASASI’NIN YEDİNCİ CETVELİ UYARINCA ALINAN TELSİZ KULLANIM ÜCRETLERİNİN DÜZENLENMESİ HAKKINDA YASA GÜCÜNDE KARARNAME
+
+              Kuzey Kıbrıs Türk Cumhuriyeti Bakanlar Kurulu, Anayasanın 112'inci maddesine   dayanarak aşağıdaki Yasa Gücünde Kararnameyi yapar:
+
+Kısa İsim
+    6/2012
+      21/2014
+      39/2016
+      31/2019
+      27/2019
+      11/2022
+
+Bu Yasa Gücünde Kararname, Elektronik Haberleşme Yasası’nın
+Yedinci Cetveli Uyarınca Alınan Telsiz Kullanım Ücretlerinin Düzenlenmesi Hakkında Yasa Gücünde Kararname olarak isimlendirilir.
+
+Amaç
+Bu Yasa Gücünde Kararname ile, 4G/5G teknolojileri hizmetinin sunulması amacıyla kurulacak olan telsiz cihazları ile birlikte mevcut olan 2G ve 3G teknolojilerine ait telsiz cihazlarının aynı anda hizmet verecek olması, telsiz cihaz kullanım ücretlerinin frekans kanal sayısına bağlı olarak artması, yeni frekans ihalelerinde ek frekans kanallarının tahsis edilmiş ve yeni teknolojiler için bu frekans kanallarının da kullanılacak olması ve ayrıca bu ücretlerin asgari ücrete bağlı bir şekilde artması nedeniyle, Elektronik Haberleşme Yasası uyarınca her yıl için ödenen telsiz kullanım ücretlerinde ciddi bir artış meydana geleceğinden, düzenlenen Yasa Gücünde Kararname ile yatırım sürecinde olan mobil operatörlerin, makul oranda telsiz kullanım ücreti ödemelerine olanak sağlanması amaçlanmıştır.
+
+Elektronik Haberleşme Yasası’nın Yedinci Cetveli Uyarınca Alınan Telsiz Kullanım Ücretlerinin Düzenlenmesi
+Bu Yasa Gücünde Kararname ile Elektronik Haberleşme Yasası’nın Yedinci Cetveli uyarınca sabit telsiz(baz) istasyonları için tahsil edilen kullanım ücretleri, “2.Telsiz Kullanma Ücretleri’ başlığı altında ‘b.   Karasal mobil (cellular) telsiz telefon sistemi’ alt başlığındaki ‘ 1)  Her sabit telsiz (baz) istasyonundan (sisteme tahsis edilen band genişliğine göre her yıl alınmak üzere)sistemde kurulu bulunan kanal adedi (istasyonda bulunan TRx) başına:
+                  a) 200 kHz'e kadar (dahil), Yıllık Ücret, 0.013264 x ASÜ, 0.031485 x ASÜ
+ b)  201 kHz-1.25 MHz arası (dahil), Yıllık Ücret, 0.041424 x ASÜ, 0.098376 x ASÜ
+ c)  1.25 MHz -5 MHz arası (dahil), Yıllık Ücret, 0.165688 x ASÜ, 0.393503	x ASÜ
+ d)  5 MHz -20 MHz arası (dahil), Yıllık Ücret, 0.397648 x ASÜ, 0.944409 x ASÜ
+     e)  20 MHz' den yukarısı, Yıllık Ücret, 0.556712 x ASÜ, 
+           1.322184    x ASÜ
+
+           olarak hesaplanıp tahsil edilir.
+
+
+Yürütme Yetkisi
+Bu Yasa Gücünde Kararname, Elektronik Haberleşmeden sorumlu Bakanlık tarafından yürütülür.
+
+Yürürlüğe Giriş
+Bu Yasa Gücünde Kararname, Resmi Gazete’de yayımlandığı tarihten başlayarak yürürlüğe girer.
+
+

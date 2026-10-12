@@ -1,0 +1,1091 @@
+{
+ "kaynak": "KKTC Cumhuriyet Meclisi arşivi (cm.gov.ct.tr)",
+ "alindi": "2026-10-12",
+ "not": "Yüksek Mahkeme mevzuat sisteminde dosyası bulunamayan (HTTP 404) yasaların Meclis arşivindeki esas metinleri ve aynı adlı sonraki değişiklik yasaları. Metinler değiştirilmemiştir.",
+ "kayitlar": {
+  "9": {
+   "pkey": 9,
+   "numara": "28/1991",
+   "ad": "1980 Bankaların Kıbrıs Lirası Ödeme Mükellefiyetlerinin Türk Lirası İle Karşılanmasına Yetki Veren Kararnamenin Yürürlükten Kaldırılması Yasası",
+   "esas": {
+    "sayi": "28/1991",
+    "baslik": "Bankaların Kıbrıs Lirası Ödeme Mükellefiyetlerinin Türk Lirası ile Karşılanmasına Yetki Veren Kararnamenin Yürürlükten Kaldırılması Yasası",
+    "dosya": "28-1991.doc",
+    "url": "https://cm.gov.ct.tr/Yasalar/28-1991.doc",
+    "sha256": "ba1637dcc65635d2895152caf98ae9c9f878e9cc3e5af8ad84fe6b03a0c194cf",
+    "metin_dosyasi": "veri/meclis-ek/metin/28-1991.txt",
+    "karakter": 1284
+   },
+   "degisiklik": [],
+   "degisiklik_sayilari": []
+  },
+  "21": {
+   "pkey": 21,
+   "numara": "47/1993",
+   "ad": "Acentelik Yasası",
+   "esas": {
+    "sayi": "47/1993",
+    "baslik": "Acentelik Yasası",
+    "dosya": "47-1993.doc",
+    "url": "https://cm.gov.ct.tr/Yasalar/47-1993.doc",
+    "sha256": "8912208f0ea610863b402f0cd13c23df01ab30bd80fd6ab7e1a7b58ca12c5671",
+    "metin_dosyasi": "veri/meclis-ek/metin/47-1993.txt",
+    "karakter": 9003
+   },
+   "degisiklik": [],
+   "degisiklik_sayilari": []
+  },
+  "35": {
+   "pkey": 35,
+   "numara": "49/2014",
+   "ad": "Anayasa Değişikliğine İlişkin Halkoylaması (Geçici ve Özel Kurallar) Yasası",
+   "esas": {
+    "sayi": "49/2014",
+    "baslik": "Anayasa Değişikliğine İlişkin Halkoylaması (Geçici ve Özel Kurallar) Yasası",
+    "dosya": "49-2014.doc",
+    "url": "https://cm.gov.ct.tr/Yasalar/49-2014.doc",
+    "sha256": "baf7ddbade0880c2a5df0a60dc63feedd5a3f4a7eb1f4fed0ba714bf6897204e",
+    "metin_dosyasi": "veri/meclis-ek/metin/49-2014.txt",
+    "karakter": 3684
+   },
+   "degisiklik": [],
+   "degisiklik_sayilari": []
+  },
+  "43": {
+   "pkey": 43,
+   "numara": "51/1991",
+   "ad": "Ara Seçimlerin Ertelenmesi (Geçici Kurallar) Yasası",
+   "esas": {
+    "sayi": "51/1991",
+    "baslik": "Ara Seçimlerinin Ertelenmesi (Geçici Kurallar) Yasası",
+    "dosya": "51-1991.doc",
+    "url": "https://cm.gov.ct.tr/Yasalar/51-1991.doc",
+    "sha256": "c319a1b1484e73a97a14820a6313b7cdaa53147f47e28c582419f5e7684050a4",
+    "metin_dosyasi": "veri/meclis-ek/metin/51-1991.txt",
+    "karakter": 1000
+   },
+   "degisiklik": [],
+   "degisiklik_sayilari": []
+  },
+  "49": {
+   "pkey": 49,
+   "numara": "52/1983",
+   "ad": "Arif Hasan Tahsin Desem'in Affına İlişkin Yasa",
+   "esas": {
+    "sayi": "52/1983",
+    "baslik": "Arif Hasan Tahsin Desem'in Affına ilişkin Yasa",
+    "dosya": "52-1983.doc",
+    "url": "https://cm.gov.ct.tr/Yasalar/52-1983.doc",
+    "sha256": "d6fd57cc65abf60397de07b516cdb0fcffe43bd824c05c15be8041fc96cbc9ae",
+    "metin_dosyasi": "veri/meclis-ek/metin/52-1983.txt",
+    "karakter": 1200
+   },
+   "degisiklik": [],
+   "degisiklik_sayilari": []
+  },
+  "75": {
+   "pkey": 75,
+   "numara": "29/1975",
+   "ad": "Barış Ve Özgürlük Bayramı Af Yasası",
+   "esas": {
+    "sayi": "29/1975",
+    "baslik": "Barış ve Özgürlük Bayramı Af Yasası",
+    "dosya": "29-1975.doc",
+    "url": "https://cm.gov.ct.tr/Yasalar/29-1975.doc",
+    "sha256": "805e3446ff0734792d62c76d92d50aaa81115b49f7de531ca3bb029acb36c5a2",
+    "metin_dosyasi": "veri/meclis-ek/metin/29-1975.txt",
+    "karakter": 1579
+   },
+   "degisiklik": [
+    {
+     "sayi": "38/1975",
+     "baslik": "Barış ve Özgürlük Bayramı Af Yasası",
+     "dosya": "38-1975.doc",
+     "url": "https://cm.gov.ct.tr/Yasalar/38-1975.doc",
+     "sha256": "4cfdd4ae4d383daec9b5cbfc2b272bc8034bd627319474e200698343e9377589",
+     "metin_dosyasi": "veri/meclis-ek/metin/38-1975.txt",
+     "karakter": 1565
+    }
+   ],
+   "degisiklik_sayilari": [
+    "38/1975"
+   ]
+  },
+  "83": {
+   "pkey": 83,
+   "numara": "24/1984",
+   "ad": "Bazı Kararnamelerin Yürürlükten Kaldırılması Hakkında Yasa",
+   "esas": {
+    "sayi": "24/1984",
+    "baslik": "Bazı Kararnamelerin Yürürlükten Kaldırılması Hakkında Yasa",
+    "dosya": "24-1984.doc",
+    "url": "https://cm.gov.ct.tr/Yasalar/24-1984.doc",
+    "sha256": "66671b2558aa05f7e02092fa27d178b072d92f33d0e06b5e204a2fd9e5cb1660",
+    "metin_dosyasi": "veri/meclis-ek/metin/24-1984.txt",
+    "karakter": 1327
+   },
+   "degisiklik": [],
+   "degisiklik_sayilari": []
+  },
+  "105": {
+   "pkey": 105,
+   "numara": "7/1971",
+   "ad": "Cemaat Menfaatı İcabı  İstifa  Ettirilenler (Tekrar İstihdam ve Emeklilik) Kuralı",
+   "esas": {
+    "sayi": "7/1971",
+    "baslik": "Cemaat Meclisi İcabi İstifa Ettirilenler (Tekrar istihdam ve Emeklilik) Yasası",
+    "dosya": "07-1971.doc",
+    "url": "https://cm.gov.ct.tr/Yasalar/07-1971.doc",
+    "sha256": "90c81e899a6c9b83203c7e070d652e139aa3a0d51f6d5aaec9281168f09f82d6",
+    "metin_dosyasi": "veri/meclis-ek/metin/07-1971.txt",
+    "karakter": 3009
+   },
+   "degisiklik": [],
+   "degisiklik_sayilari": []
+  },
+  "111": {
+   "pkey": 111,
+   "numara": "10/1995",
+   "ad": "Cumhurbaşkanlığı Seçimlerinin 15 Nisan 1995 Tarihinde Yapılması Yasası",
+   "esas": {
+    "sayi": "10/1995",
+    "baslik": "Cumhurbaşkanlığı Seçimlerinin 15 Nisan 1995 Tarihinde yapılmasına ilişkin Yasa",
+    "dosya": "10-1995.doc",
+    "url": "https://cm.gov.ct.tr/Yasalar/10-1995.doc",
+    "sha256": "ec7bfa9201ff08017c077d52b7d86f0cfc105496e06890a550e761b29d0674c7",
+    "metin_dosyasi": "veri/meclis-ek/metin/10-1995.txt",
+    "karakter": 1692
+   },
+   "degisiklik": [],
+   "degisiklik_sayilari": []
+  },
+  "117": {
+   "pkey": 117,
+   "numara": "52/1992",
+   "ad": "Çavuş Statüsünün Verilmesine İlişkin Özel Af Yasası",
+   "esas": {
+    "sayi": "52/1992",
+    "baslik": "Çavuş Statüsünün Verilmesine İlişkin Özel Af Yasası",
+    "dosya": "52-1992.doc",
+    "url": "https://cm.gov.ct.tr/Yasalar/52-1992.doc",
+    "sha256": "87ecad527e49d70d0791ce1b979ad4dd52ee656e362140982a3fde30bbc8d2f3",
+    "metin_dosyasi": "veri/meclis-ek/metin/52-1992.txt",
+    "karakter": 1750
+   },
+   "degisiklik": [],
+   "degisiklik_sayilari": []
+  },
+  "179": {
+   "pkey": 179,
+   "numara": "39/1991",
+   "ad": "Elektrik Santralı İnşaat Gelirleri Vergi Muafiyet Yasası",
+   "esas": {
+    "sayi": "39/1991",
+    "baslik": "Elektrik Santralı İnşaat Gelirleri Vergi Muafiyet Yasası",
+    "dosya": "39-1991.doc",
+    "url": "https://cm.gov.ct.tr/Yasalar/39-1991.doc",
+    "sha256": "5c451362c84e36ad7cc23707b59432de0aaf23c001593a0758ddfd3b3a3de4df",
+    "metin_dosyasi": "veri/meclis-ek/metin/39-1991.txt",
+    "karakter": 1467
+   },
+   "degisiklik": [],
+   "degisiklik_sayilari": []
+  },
+  "211": {
+   "pkey": 211,
+   "numara": "5/1994",
+   "ad": "Ferdi Olmayan Özel Af Yasası",
+   "esas": {
+    "sayi": "5/1994",
+    "baslik": "Ferdi Olmayan Özel Af Yasası",
+    "dosya": "05-1994.doc",
+    "url": "https://cm.gov.ct.tr/Yasalar/05-1994.doc",
+    "sha256": "c4b890e044b16856370ff5b8fef40096d4f749093d0697c2ba0d403a41f8b9ae",
+    "metin_dosyasi": "veri/meclis-ek/metin/05-1994.txt",
+    "karakter": 1697
+   },
+   "degisiklik": [],
+   "degisiklik_sayilari": []
+  },
+  "258": {
+   "pkey": 258,
+   "numara": "30/1975",
+   "ad": "Hava Alanları ve Limanlar (Ücretleri) Yasası",
+   "esas": {
+    "sayi": "30/1975",
+    "baslik": "Hava Alanları ve Limanlar (Ücretler)Yasası",
+    "dosya": "30-1975.doc",
+    "url": "https://cm.gov.ct.tr/Yasalar/30-1975.doc",
+    "sha256": "571788ef2eaa1e44def3facdde6c0f38cc499323561277903b6fbe10e52c6e80",
+    "metin_dosyasi": "veri/meclis-ek/metin/30-1975.txt",
+    "karakter": 1677
+   },
+   "degisiklik": [
+    {
+     "sayi": "10/2000",
+     "baslik": "Hava Alanları ve Limanlar (Ücretler)Yasası",
+     "dosya": "10-2000.doc",
+     "url": "https://cm.gov.ct.tr/Yasalar/10-2000.doc",
+     "sha256": "bcd417d2501c539f4228968d268819c92693f7b7a66d69ae194a69bc228050db",
+     "metin_dosyasi": "veri/meclis-ek/metin/10-2000.txt",
+     "karakter": 1247
+    }
+   ],
+   "degisiklik_sayilari": [
+    "10/2000"
+   ]
+  },
+  "281": {
+   "pkey": 281,
+   "numara": "44/1987",
+   "ad": "Hüseyin Yalçıner'in Mahkumiyet Kararının  Kayıtlardan Silinmesi İçin Af Yasası",
+   "esas": {
+    "sayi": "44/1987",
+    "baslik": "Hüseyin Yalçıner'in Mahkumiyet Kararının Kayıtlardan Silinmesi İçin Af Yasası",
+    "dosya": "44-1987.doc",
+    "url": "https://cm.gov.ct.tr/Yasalar/44-1987.doc",
+    "sha256": "24049ef4eabea5daa3c542fd900d4608a65cdfaa565d3610ee60af82827ef6e0",
+    "metin_dosyasi": "veri/meclis-ek/metin/44-1987.txt",
+    "karakter": 1314
+   },
+   "degisiklik": [],
+   "degisiklik_sayilari": []
+  },
+  "286": {
+   "pkey": 286,
+   "numara": "12/1971",
+   "ad": "İktisadi Kalkınma Teşvik Fonu Tesis Kuralı",
+   "esas": {
+    "sayi": "12/1971",
+    "baslik": "İktisadi Kalkınma Teşvik Fonu Tesis Yasası",
+    "dosya": "12-1971.doc",
+    "url": "https://cm.gov.ct.tr/Yasalar/12-1971.doc",
+    "sha256": "038c6c25400790c8f926b7bb89e0e6c040304037b300e174d7a53b94f78447e9",
+    "metin_dosyasi": "veri/meclis-ek/metin/12-1971.txt",
+    "karakter": 1638
+   },
+   "degisiklik": [],
+   "degisiklik_sayilari": []
+  },
+  "320": {
+   "pkey": 320,
+   "numara": "11/2015",
+   "ad": "Kamu Çalışanlarının Aylık (Maaş-Ücret) ve Diğer Ödeneklerinin Düzenlenmesi Yasasının Hayat Pahalılığı Ödeneği Hakkını Düzenleyen 9uncu Maddesinin Uygulanmasının Durdurulmasına İlişkin (Geçici Kurallar) Yasası",
+   "esas": {
+    "sayi": "11/2015",
+    "baslik": "Kamu Çalışanlarının Aylık (Maaş-Ücret) ve Diğer Ödeneklerinin Düzenlenmesi Yasasının Hayat Pahalılığı Ödeneği Hakkını Düzenleyen 9’uncu Maddesinin Uygulanmasının Durdurulmasına İlişkin (Geçici Kurallar) Yasası",
+    "dosya": "11-2015.doc",
+    "url": "https://cm.gov.ct.tr/Yasalar/11-2015.doc",
+    "sha256": "c0bc2404e4a6fc9961b74410d4020ab7470d77acfe382d678cbc0abdf4cb8a5b",
+    "metin_dosyasi": "veri/meclis-ek/metin/11-2015.txt",
+    "karakter": 2983
+   },
+   "degisiklik": [],
+   "degisiklik_sayilari": []
+  },
+  "327": {
+   "pkey": 327,
+   "numara": "14/1984",
+   "ad": "Kamu Görevlilerinin 21 ARALIK 1963 Tarihinden Sonra Alamadıkları Maaş Ve Ücretlerinin Tespit Ve Tediyesi Konularını Düzenleyen Yasa",
+   "esas": {
+    "sayi": "14/1984",
+    "baslik": "Kamu Görevlilerinin 21. Aralık. 1963 Tarihinden Sonra Alamadıkları Maaş ve Ücretlerinin Tespit ve Tediyesi Konularını Düzenleyen Yasa",
+    "dosya": "14-1984.doc",
+    "url": "https://cm.gov.ct.tr/Yasalar/14-1984.doc",
+    "sha256": "708aa1d9220f68e784c864f68b36be880ba305be97bcb48d15764799503456ed",
+    "metin_dosyasi": "veri/meclis-ek/metin/14-1984.txt",
+    "karakter": 4968
+   },
+   "degisiklik": [],
+   "degisiklik_sayilari": []
+  },
+  "342": {
+   "pkey": 342,
+   "numara": "3/1987",
+   "ad": "Kanalizasyon  Sularının Tarımsal Amaçlarla  Kullanılmasını Yasaklayan Kararnamenin  Yürürlükten Kaldırılması  Yasası  olarak isimlendirilir.",
+   "esas": {
+    "sayi": "3/1987",
+    "baslik": "Kanalizasyon Sularının Tarımsal Amaçlarla Kullanılmasını Yasaklayan Kararnamenin Yürürlükten Kaldırılması Yasası",
+    "dosya": "03-1987.doc",
+    "url": "https://cm.gov.ct.tr/Yasalar/03-1987.doc",
+    "sha256": "b9c47ec0ddd3b8af712af37e11447e3d68908e9134b1c190142348ded3ab6ee8",
+    "metin_dosyasi": "veri/meclis-ek/metin/03-1987.txt",
+    "karakter": 1025
+   },
+   "degisiklik": [],
+   "degisiklik_sayilari": []
+  },
+  "362": {
+   "pkey": 362,
+   "numara": "40/1983",
+   "ad": "Kıbrıs Liralarına Karşılık Prim Ödenmesi  Yasası",
+   "esas": {
+    "sayi": "40/1983",
+    "baslik": "Kıbrıs Liralarına Karşılık Prim Ödenmesi Yasası",
+    "dosya": "40-1983.doc",
+    "url": "https://cm.gov.ct.tr/Yasalar/40-1983.doc",
+    "sha256": "cef6cbbc2a1ed25b362a71575cd28e87575ef2b31346c49cb1bf9002278700a6",
+    "metin_dosyasi": "veri/meclis-ek/metin/40-1983.txt",
+    "karakter": 8264
+   },
+   "degisiklik": [],
+   "degisiklik_sayilari": []
+  },
+  "364": {
+   "pkey": 364,
+   "numara": "34/1996",
+   "ad": "Kıbrıs Ordusu Subaylarının 1 Eylül 1964 İLE 30 Ağustos 1969 Devresi İçin Terfilerinden Doğan  Maaş Farklarının Ödenmesi Tazmin Yasası",
+   "esas": {
+    "sayi": "34/1996",
+    "baslik": "Kıbrıs Ordusu Subaylarının 1 Eylül 1964 ile 30 Ağustos 1969 Devresi için Terfilerinden Doğan Maaş :Farklarının Ödenmesi Tazmin Yasası",
+    "dosya": "34-1996.doc",
+    "url": "https://cm.gov.ct.tr/Yasalar/34-1996.doc",
+    "sha256": "a8d7786cbb13feda0dd9a50e9abd3ee9737c937be7c8f3c28ffc2beb47881747",
+    "metin_dosyasi": "veri/meclis-ek/metin/34-1996.txt",
+    "karakter": 1632
+   },
+   "degisiklik": [],
+   "degisiklik_sayilari": []
+  },
+  "368": {
+   "pkey": 368,
+   "numara": "12/1976",
+   "ad": "Kıbrıs Türk  Mühendis Ve Mimar  Odaları  Birliği'nin Kuruluş Yasası",
+   "esas": {
+    "sayi": "12/1976",
+    "baslik": "Kıbrıs Türk Mühendis ve Mimar Odaları Birliğinin Kuruluş Yasası",
+    "dosya": "12-1976.doc",
+    "url": "https://cm.gov.ct.tr/Yasalar/12-1976.doc",
+    "sha256": "7f799d1ea631aaea75268a6618e28a0b1da3491a82288eabb52aa28b76c6ab72",
+    "metin_dosyasi": "veri/meclis-ek/metin/12-1976.txt",
+    "karakter": 10857
+   },
+   "degisiklik": [
+    {
+     "sayi": "52/2015",
+     "baslik": "Kıbrıs Türk Mühendis ve Mimar Odaları Birliği Yasası",
+     "dosya": "139-3-2015y.docx",
+     "url": "https://cm.gov.ct.tr/Yasalar/139-3-2015y.docx",
+     "sha256": "200ecd96ceed7fbf5f3643dad4b1e1e26aaa4cb4d6a0f5217b534ec0bda10a48",
+     "metin_dosyasi": "veri/meclis-ek/metin/139-3-2015y.txt",
+     "karakter": 1081
+    }
+   ],
+   "degisiklik_sayilari": [
+    "52/2015"
+   ]
+  },
+  "382": {
+   "pkey": 382,
+   "numara": "68/1993",
+   "ad": "Kıbrıs Türk Esnaf ve Zanaatkarlar Odası Yasası",
+   "esas": {
+    "sayi": "68/1993",
+    "baslik": "Esnaf ve Zanaatkarlar Odası Yasası",
+    "dosya": "68-1993.doc",
+    "url": "https://cm.gov.ct.tr/Yasalar/68-1993.doc",
+    "sha256": "31fc9189ae42de6d253531419edfab0cd7388d0e210e4158d9a52c6c79bd8ab5",
+    "metin_dosyasi": "veri/meclis-ek/metin/68-1993.txt",
+    "karakter": 20434
+   },
+   "degisiklik": [
+    {
+     "sayi": "18/2001",
+     "baslik": "Esnaf ve Zanaatkarlar Odası Yasası",
+     "dosya": "18-2001.doc",
+     "url": "https://cm.gov.ct.tr/Yasalar/18-2001.doc",
+     "sha256": "d83a6d7562403e922adc807d3aab4421575390623812eb40f913b7c2311ee75c",
+     "metin_dosyasi": "veri/meclis-ek/metin/18-2001.txt",
+     "karakter": 8099
+    }
+   ],
+   "degisiklik_sayilari": [
+    "18/2001"
+   ]
+  },
+  "523": {
+   "pkey": 523,
+   "numara": "1/1984",
+   "ad": "Kuzey Kıbrıs Türk Cumhuriyetinin İlan   Edilmesi Nedeniyle Af Yasa Tasarısı",
+   "esas": {
+    "sayi": "1/1984",
+    "baslik": "K.K.T.C.'nin İlân Edilmesi Nedeniyle Af Yasası",
+    "dosya": "01-1984.doc",
+    "url": "https://cm.gov.ct.tr/Yasalar/01-1984.doc",
+    "sha256": "9600e1149ca8079e6956443e1951a6a45c26c7c0a76e4484a4a46f11899d19c6",
+    "metin_dosyasi": "veri/meclis-ek/metin/01-1984.txt",
+    "karakter": 5611
+   },
+   "degisiklik": [],
+   "degisiklik_sayilari": []
+  },
+  "548": {
+   "pkey": 548,
+   "numara": "29/1974",
+   "ad": "Mahallî İdare ve Mensupları (Görev Sürelerinin Devamlılığı ve Meşruîyeti) Kanunu",
+   "esas": {
+    "sayi": "29/1974",
+    "baslik": "Mahalli İdare ve Mensupları (Görev Sürelerinin Devamlılığı ve Meşruiyeti) Yasası",
+    "dosya": "29-1974.doc",
+    "url": "https://cm.gov.ct.tr/Yasalar/29-1974.doc",
+    "sha256": "2929137f0ce6169fdfbf54f738d628db07a97433f0417595e7287465576cbf0d",
+    "metin_dosyasi": "veri/meclis-ek/metin/29-1974.txt",
+    "karakter": 2070
+   },
+   "degisiklik": [],
+   "degisiklik_sayilari": []
+  },
+  "549": {
+   "pkey": 549,
+   "numara": "19/1974",
+   "ad": "Mahallî İdare ve Mensupları (Görev Sürelerinin Devamlılığı ve Meşruîyeti) Kural",
+   "esas": {
+    "sayi": "19/1974",
+    "baslik": "Mahalli İdare ve Mensupları (Görev Sürelerinin Devamlılığı ve Meşruiyeti) Yasası",
+    "dosya": "19-1974.doc",
+    "url": "https://cm.gov.ct.tr/Yasalar/19-1974.doc",
+    "sha256": "255a2646b4f1ea05366d420cea815bb0328bb51848459eb3128050d723cf7c21",
+    "metin_dosyasi": "veri/meclis-ek/metin/19-1974.txt",
+    "karakter": 2092
+   },
+   "degisiklik": [],
+   "degisiklik_sayilari": []
+  },
+  "550": {
+   "pkey": 550,
+   "numara": "17/1972",
+   "ad": "Mahalli İdare Ve Mensuplarının Görev Sürelerinin Uzatılmasını Öngören Kural",
+   "esas": {
+    "sayi": "17/1972",
+    "baslik": "Mahalli İdare ve Mensupları (Görev Sürelerinin Devamlılığı ve Meşruiyeti) Yasası",
+    "dosya": "17-1972.doc",
+    "url": "https://cm.gov.ct.tr/Yasalar/17-1972.doc",
+    "sha256": "bf4d5be5356d941d1fd5ad2a38a221b7b5c3f42ac884f9facf46a0a954dc4fdd",
+    "metin_dosyasi": "veri/meclis-ek/metin/17-1972.txt",
+    "karakter": 1942
+   },
+   "degisiklik": [],
+   "degisiklik_sayilari": []
+  },
+  "578": {
+   "pkey": 578,
+   "numara": "24/1975",
+   "ad": "Motorlu Araçlar(Geçici Kurallar)Yasası",
+   "esas": {
+    "sayi": "24/1975",
+    "baslik": "Motorlu Araçlar (Geçici Kurallar) Yasası",
+    "dosya": "24-1975.doc",
+    "url": "https://cm.gov.ct.tr/Yasalar/24-1975.doc",
+    "sha256": "5d372aaecfd5dd5a77f356bcb1244bf4869bc61a156200c7cf8c89203c9b5f04",
+    "metin_dosyasi": "veri/meclis-ek/metin/24-1975.txt",
+    "karakter": 1433
+   },
+   "degisiklik": [],
+   "degisiklik_sayilari": []
+  },
+  "581": {
+   "pkey": 581,
+   "numara": "6/1975",
+   "ad": "Mutazarrır Borçlular Kuralı Uyarınca  Açılmış Davaların Ertelenmesin'i  Öngören Kanun",
+   "esas": {
+    "sayi": "6/1975",
+    "baslik": "Mutazarır Borçlular Yasası Uyarınca Açılmış Davaların Ertelenmesi Yasası",
+    "dosya": "06-1975.doc",
+    "url": "https://cm.gov.ct.tr/Yasalar/06-1975.doc",
+    "sha256": "04dacee70c852bfd6ea838b35ecd5c9010724a8c88af9437ab8627da049ad391",
+    "metin_dosyasi": "veri/meclis-ek/metin/06-1975.txt",
+    "karakter": 857
+   },
+   "degisiklik": [
+    {
+     "sayi": "2/1976",
+     "baslik": "Mutazarır Borçlular Yasası Uyarınca Açılmış Davaların Ertelenmesi Yasası",
+     "dosya": "02-1976.doc",
+     "url": "https://cm.gov.ct.tr/Yasalar/02-1976.doc",
+     "sha256": "6db14350537884cc0644408a224c4855d4eb895752442df99ffd3466b653dcfb",
+     "metin_dosyasi": "veri/meclis-ek/metin/02-1976.txt",
+     "karakter": 1216
+    },
+    {
+     "sayi": "10/1977",
+     "baslik": "Mutazarır Borçlular Yasası Uyarınca Açılmış Davaların Ertelenmesi Yasası",
+     "dosya": "10-1977.doc",
+     "url": "https://cm.gov.ct.tr/Yasalar/10-1977.doc",
+     "sha256": "75aa1898c4f86e9ce1b35aa72703398bfc8df0f8207f3bda4122dbf199cb18e7",
+     "metin_dosyasi": "veri/meclis-ek/metin/10-1977.txt",
+     "karakter": 919
+    },
+    {
+     "sayi": "13/1978",
+     "baslik": "Mutazarır Borçlular Yasası Uyarınca Açılmış Davaların Ertelenmesi Yasası",
+     "dosya": "13-1978.doc",
+     "url": "https://cm.gov.ct.tr/Yasalar/13-1978.doc",
+     "sha256": "0c052b49d0b9d4465859f014b265ff26a68d6586715091606b99f5902f821790",
+     "metin_dosyasi": "veri/meclis-ek/metin/13-1978.txt",
+     "karakter": 970
+    }
+   ],
+   "degisiklik_sayilari": [
+    "2/1976",
+    "10/1977",
+    "13/1978"
+   ]
+  },
+  "582": {
+   "pkey": 582,
+   "numara": "21/1973",
+   "ad": "Mutazarrır•Borçlular (Borç Tanzim ve İktisadi, İstismarı Önleme) Kural",
+   "esas": {
+    "sayi": "21/1973",
+    "baslik": "21 Aralık 1963'te Başlayan Hadiselerden Madd Zarara Uğrayarak Borçlarını Ödeyemeyenlerin Borçlarını Tanzim Eden Ve İktisaden Kudretli Şahısların İstismarını Önleyen Kural",
+    "dosya": "21-1973.doc",
+    "url": "https://cm.gov.ct.tr/Yasalar/21-1973.doc",
+    "sha256": "7c7fc45191dc0bff7ca3c593907e876b14c1fff4e3b83fe70ee4d9290329935b",
+    "metin_dosyasi": "veri/meclis-ek/metin/21-1973.txt",
+    "karakter": 16054
+   },
+   "degisiklik": [],
+   "degisiklik_sayilari": []
+  },
+  "587": {
+   "pkey": 587,
+   "numara": "33/1988",
+   "ad": "Mülki Yönetim Ve Bölümleri Yasası",
+   "esas": {
+    "sayi": "33/1998",
+    "baslik": "Mülki Yönetim ve Bölümleri Yasası",
+    "dosya": "33-1998.doc",
+    "url": "https://cm.gov.ct.tr/Yasalar/33-1998.doc",
+    "sha256": "0d0f67ce5f3dd3830f380d788a1e9cad9b9e1342a3ffff7f7601d2050af44e52",
+    "metin_dosyasi": "veri/meclis-ek/metin/33-1998.txt",
+    "karakter": 26243
+   },
+   "degisiklik": [
+    {
+     "sayi": "02/2017",
+     "baslik": "Mülki Yönetim ve Bölümleri Yasası",
+     "dosya": "230-5-2016.docx",
+     "url": "https://cm.gov.ct.tr/Yasalar/230-5-2016.docx",
+     "sha256": "00ee1a570a18608ede84bb4925a06be21b618c265def8227f5c15fc1fd383f2b",
+     "metin_dosyasi": "veri/meclis-ek/metin/230-5-2016.txt",
+     "karakter": 16653
+    }
+   ],
+   "degisiklik_sayilari": [
+    "02/2017"
+   ]
+  },
+  "595": {
+   "pkey": 595,
+   "numara": "4/1994",
+   "ad": "Onuncu Yıl İkramiyesi Yasası",
+   "esas": {
+    "sayi": "4/1994",
+    "baslik": "Onuncu Yıl İkramiyesi Yasası",
+    "dosya": "04-1994.doc",
+    "url": "https://cm.gov.ct.tr/Yasalar/04-1994.doc",
+    "sha256": "3ba62bed565d56b437b07a2c2a18bacf4c29876b4e7707c5a97790ce581a5abe",
+    "metin_dosyasi": "veri/meclis-ek/metin/04-1994.txt",
+    "karakter": 1649
+   },
+   "degisiklik": [],
+   "degisiklik_sayilari": []
+  },
+  "611": {
+   "pkey": 611,
+   "numara": "12/2015",
+   "ad": "Öğretmenler Yasasının Hayat Pahalılığı Ödeneği Hakkını Düzenleyen 53üncü Maddesinin Uygulanmasının Durdurulmasına İlişkin (Geçici Kurallar) Yasası",
+   "esas": {
+    "sayi": "12/2015",
+    "baslik": "Öğretmenler Yasasının Hayat Pahalılığı Ödeneği Hakkını Düzenleyen 53’üncü Maddesinin Uygulanmasının Durdurulmasına İlişkin (Geçici Kurallar) Yasası",
+    "dosya": "12--2015.doc",
+    "url": "https://cm.gov.ct.tr/Yasalar/12--2015.doc",
+    "sha256": "1f3f25c6467358a997df59a190c51cb8f278ade1383a9f3fcac8fcef3fa65cf9",
+    "metin_dosyasi": "veri/meclis-ek/metin/12--2015.txt",
+    "karakter": 4390
+   },
+   "degisiklik": [],
+   "degisiklik_sayilari": []
+  },
+  "614": {
+   "pkey": 614,
+   "numara": "3/1977",
+   "ad": "Özel Af Yasası",
+   "esas": {
+    "sayi": "3/1977",
+    "baslik": "Özel Af (No1) Yasası",
+    "dosya": "03-1977.doc",
+    "url": "https://cm.gov.ct.tr/Yasalar/03-1977.doc",
+    "sha256": "e52fdcc2e47136678db7668d0cc36a152ae540c200cf5a65ca62bfd6e92a491a",
+    "metin_dosyasi": "veri/meclis-ek/metin/03-1977.txt",
+    "karakter": 832
+   },
+   "degisiklik": [],
+   "degisiklik_sayilari": []
+  },
+  "615": {
+   "pkey": 615,
+   "numara": "1/1978",
+   "ad": "Özel Af Yasası",
+   "esas": {
+    "sayi": "1/1978",
+    "baslik": "Özel Af (No 2) Yasası",
+    "dosya": "01-1978.doc",
+    "url": "https://cm.gov.ct.tr/Yasalar/01-1978.doc",
+    "sha256": "2bbb132adc3b8be82efa0bd5332d5fdbbdfffe08e6de73533e2b3fab56b2c177",
+    "metin_dosyasi": "veri/meclis-ek/metin/01-1978.txt",
+    "karakter": 1926
+   },
+   "degisiklik": [],
+   "degisiklik_sayilari": []
+  },
+  "618": {
+   "pkey": 618,
+   "numara": "32/1998",
+   "ad": "\"Özel Hastahane, Özel Klinik, Özel Dispanser Ve Özel Muayenehaneler",
+   "esas": {
+    "sayi": "32/1998",
+    "baslik": "Özel Hastahane, Özel Klinik, Özel Dispanser ve Özel Muayehaneler (Denetim) Yasası",
+    "dosya": "32-1998.doc",
+    "url": "https://cm.gov.ct.tr/Yasalar/32-1998.doc",
+    "sha256": "af25c71e9832b7a6990a445e80edd017b3fa2a2680a7f5078f5733b2e4b40805",
+    "metin_dosyasi": "veri/meclis-ek/metin/32-1998.txt",
+    "karakter": 20847
+   },
+   "degisiklik": [],
+   "degisiklik_sayilari": []
+  },
+  "682": {
+   "pkey": 682,
+   "numara": "1/1965",
+   "ad": "Seçimler  (Cumhurbaşkanı  Muavini ve  Temsilciler Meclisi Türk Üyeleri)  (Geçici Hükümler) Kanunu",
+   "esas": {
+    "sayi": "1/1965",
+    "baslik": "Seçimler (Cumhurbaşkan Muavini ve Temsilciler Meclisi Türk Üyeleri)(Geçici Hükümler) Yasası",
+    "dosya": "01-1965.doc",
+    "url": "https://cm.gov.ct.tr/Yasalar/01-1965.doc",
+    "sha256": "e5476650357ff327bde74c9e7f76b78bb8d607f30cd8b89652ce22ff575be3a4",
+    "metin_dosyasi": "veri/meclis-ek/metin/01-1965.txt",
+    "karakter": 4139
+   },
+   "degisiklik": [],
+   "degisiklik_sayilari": []
+  },
+  "703": {
+   "pkey": 703,
+   "numara": "62/1994",
+   "ad": "Siyasal Partilere Yardım (Özel Kurallar) Yasası",
+   "esas": {
+    "sayi": "62/1994",
+    "baslik": "Siyasal Partilere Yardım (Özel Kurallar) Yasası",
+    "dosya": "62-1994.doc",
+    "url": "https://cm.gov.ct.tr/Yasalar/62-1994.doc",
+    "sha256": "4a23c31901f1a07dc3e5639d1e232d4ca7a02eea2668fcda76c1e0446b84ad1f",
+    "metin_dosyasi": "veri/meclis-ek/metin/62-1994.txt",
+    "karakter": 1102
+   },
+   "degisiklik": [],
+   "degisiklik_sayilari": []
+  },
+  "709": {
+   "pkey": 709,
+   "numara": "56/2009",
+   "ad": "Sosyal Güvenlik Primlerine Uygulanan Gecikme Zammı Oranlarının Yeniden Düzenlenmesine İlişkin Yasa",
+   "esas": {
+    "sayi": "56/2009",
+    "baslik": "Sosyal Güvenlik Primlerine Uygulanan Gecikme Zammı Oranlarının Yeniden Düzenlenmesine İlişkin Yasa",
+    "dosya": "56-2009.doc",
+    "url": "https://cm.gov.ct.tr/Yasalar/56-2009.doc",
+    "sha256": "978df14df12c70acd3fef2e8fac36c553934392477520ec1b2c21c9c06f7fe86",
+    "metin_dosyasi": "veri/meclis-ek/metin/56-2009.txt",
+    "karakter": 2107
+   },
+   "degisiklik": [],
+   "degisiklik_sayilari": []
+  },
+  "779": {
+   "pkey": 779,
+   "numara": "2/2005",
+   "ad": "Teknoloji Geliştirme Bölgeleri Yasası",
+   "esas": {
+    "sayi": "2/2005",
+    "baslik": "Teknoloji Geliştirme Bölgeleri Yasası",
+    "dosya": "02-2005.doc",
+    "url": "https://cm.gov.ct.tr/Yasalar/02-2005.doc",
+    "sha256": "dbfb3b15c5613ef0a1acba607c8df34b6c72f4518a301f82529dcd71b36a54e4",
+    "metin_dosyasi": "veri/meclis-ek/metin/02-2005.txt",
+    "karakter": 16415
+   },
+   "degisiklik": [
+    {
+     "sayi": "19/2023",
+     "baslik": "Teknoloji Geliştirme Bölgeleri Yasası",
+     "dosya": "772507_ytno.77-2-2022-teknoloji.docx",
+     "url": "https://cm.gov.ct.tr/Yasalar/772507_ytno.77-2-2022-teknoloji.docx",
+     "sha256": "87c7a65cb439dd49aae2fecd7485a3d239d0bd91a94b42020ef071ff0b336f38",
+     "metin_dosyasi": "veri/meclis-ek/metin/772507_ytno.77-2-2022-teknoloji.txt",
+     "karakter": 1316
+    },
+    {
+     "sayi": "18/2026",
+     "baslik": "Teknoloji Geliştirme Bölgeleri Yasası",
+     "dosya": "6957067_350-5-2026 Teknoloji (değ) Yasası.docx",
+     "url": "https://cm.gov.ct.tr/Yasalar/6957067_350-5-2026%20Teknoloji%20%28de%C4%9F%29%20Yasas%C4%B1.docx",
+     "sha256": "2fedda455c5f91f06bb32d902ddd9eabcf1c94846451c6a37d3d6ea28529f140",
+     "metin_dosyasi": "veri/meclis-ek/metin/6957067_350-5-2026_Teknoloji_(değ)_Yasası.txt",
+     "karakter": 1319
+    }
+   ],
+   "degisiklik_sayilari": [
+    "19/2023",
+    "18/2026"
+   ]
+  },
+  "807": {
+   "pkey": 807,
+   "numara": "46/2001",
+   "ad": "\"Trafik Hizmetlerinin Planlanması, Koordinasyonu Ve Denetimi Yasası",
+   "esas": {
+    "sayi": "46/2001",
+    "baslik": "Trafik Hizmetlerinin Planması, Kordinasyonu Ve Denetim Yasası",
+    "dosya": "46-2001.doc",
+    "url": "https://cm.gov.ct.tr/Yasalar/46-2001.doc",
+    "sha256": "22fbdb97c2121ed24a79aea5f7ddc1e4b2328eb9c0b92f77b586835eec8b0ee0",
+    "metin_dosyasi": "veri/meclis-ek/metin/46-2001.txt",
+    "karakter": 14669
+   },
+   "degisiklik": [],
+   "degisiklik_sayilari": []
+  },
+  "822": {
+   "pkey": 822,
+   "numara": "41/1983",
+   "ad": "Türk Ajansı - Kırbıs (TAK)Kuruluş, Görev Ve Çalışma Esasları Yasası",
+   "esas": {
+    "sayi": "41/1983",
+    "baslik": "Türk-Ajansı-Kıbrıs (TAK) (Kuruluş, Görev ve Çalışma Esasları) Yasası",
+    "dosya": "41-1983.doc",
+    "url": "https://cm.gov.ct.tr/Yasalar/41-1983.doc",
+    "sha256": "f6b3047eeb03e621e7b4bbf20ee5a83e8f269e081fccaf8bcc149bc958780570",
+    "metin_dosyasi": "veri/meclis-ek/metin/41-1983.txt",
+    "karakter": 34049
+   },
+   "degisiklik": [
+    {
+     "sayi": "16/2016",
+     "baslik": "Türk Ajansı – Kıbrıs (TAK) (Kuruluş, Görev ve Çalışma Esasları) Yasası",
+     "dosya": "tak yasa.docx",
+     "url": "https://cm.gov.ct.tr/Yasalar/tak%20yasa.docx",
+     "sha256": "035fabfe47c4bc8373ab0f2d5bd35f891b82273921bde37ba618ce8aad378772",
+     "metin_dosyasi": "veri/meclis-ek/metin/tak_yasa.txt",
+     "karakter": 7091
+    }
+   ],
+   "degisiklik_sayilari": [
+    "16/2016"
+   ]
+  },
+  "825": {
+   "pkey": 825,
+   "numara": "6/1961",
+   "ad": "Türk Cemaat Meclisi  Birlikler Ve Dernekler Yasası",
+   "esas": {
+    "sayi": "0/1961",
+    "baslik": "Türk Cemaat Meclisi Birlikler ve Dernekler Kanunu",
+    "dosya": "TCM06-61.doc",
+    "url": "https://cm.gov.ct.tr/Yasalar/TCM06-61.doc",
+    "sha256": "5d88316a48a316bef4c3b5ba531edf03f335f79422ca2c77fba5fcc5c4a29fad",
+    "metin_dosyasi": "veri/meclis-ek/metin/TCM06-61.txt",
+    "karakter": 6879
+   },
+   "degisiklik": [],
+   "degisiklik_sayilari": []
+  },
+  "829": {
+   "pkey": 829,
+   "numara": "12/2010",
+   "ad": "Türk Cemaat Meclisi Vakıflar ve Din İşleri Dairesi Teşkilat Kanunu",
+   "esas": {
+    "sayi": "0/1960",
+    "baslik": "Türk Cemaat Meclisi Vakıflar ve Din İşleri Dairesi Teşkilat Yasası",
+    "dosya": "TCM12-60.doc",
+    "url": "https://cm.gov.ct.tr/Yasalar/TCM12-60.doc",
+    "sha256": "a19723ea3cb755c8ed77d3e4215b7b68ee7c5b823b2bf89966da22e2aee91141",
+    "metin_dosyasi": "veri/meclis-ek/metin/TCM12-60.txt",
+    "karakter": 20497
+   },
+   "degisiklik": [],
+   "degisiklik_sayilari": []
+  },
+  "831": {
+   "pkey": 831,
+   "numara": "5/1972",
+   "ad": "Türk Cemaatına Mensup Şahısların   Kıbrıs’a Giriş Ve Çıkışını Kontrol Eden Kural",
+   "esas": {
+    "sayi": "5/1972",
+    "baslik": "Türl Cemaatına Mensup Şahısların Kıbrısa Giriş ve Çıkışı Kontrol Eden Kural",
+    "dosya": "05-1972.doc",
+    "url": "https://cm.gov.ct.tr/Yasalar/05-1972.doc",
+    "sha256": "02c738d05f91afa9a4e6f4f3d28e946772410fdbf51a1e3aff925fc84c394034",
+    "metin_dosyasi": "veri/meclis-ek/metin/05-1972.txt",
+    "karakter": 10427
+   },
+   "degisiklik": [],
+   "degisiklik_sayilari": []
+  },
+  "834": {
+   "pkey": 834,
+   "numara": "33/1970",
+   "ad": "Türk Hastahaneleri  İnşa Ve Teçhizat Fonu Yasası",
+   "esas": {
+    "sayi": "33/1970",
+    "baslik": "Türk Hastahaneleri İnşa ve Techizat Fonu Yasası",
+    "dosya": "33-1970-2.doc",
+    "url": "https://cm.gov.ct.tr/Yasalar/33-1970-2.doc",
+    "sha256": "12d390723ae901c873d967d039cd3c5b9ba37589b06bda045b6f42c485cb66d7",
+    "metin_dosyasi": "veri/meclis-ek/metin/33-1970-2.txt",
+    "karakter": 2501
+   },
+   "degisiklik": [
+    {
+     "sayi": "60/1977",
+     "baslik": "Hastahaneleri İnşa ve Techizat Fonu Yasası",
+     "dosya": "60-1977.doc",
+     "url": "https://cm.gov.ct.tr/Yasalar/60-1977.doc",
+     "sha256": "4818806c1c824030ff4621f8839bafe6034f5c4d91385f297feaf1a514a09956",
+     "metin_dosyasi": "veri/meclis-ek/metin/60-1977.txt",
+     "karakter": 935
+    }
+   ],
+   "degisiklik_sayilari": [
+    "60/1977"
+   ]
+  },
+  "859": {
+   "pkey": 859,
+   "numara": "41/2008",
+   "ad": "Uluslararası Bankacılık Birimleri Yasası",
+   "esas": {
+    "sayi": "41/2008",
+    "baslik": "Uluslararası Bankacılık Birimleri Yasası",
+    "dosya": "41-2008.doc",
+    "url": "https://cm.gov.ct.tr/Yasalar/41-2008.doc",
+    "sha256": "fee6c80d1fbf4bda7dc5f0486e8cb8df5620bb8635f0945f59922457a271dd8b",
+    "metin_dosyasi": "veri/meclis-ek/metin/41-2008.txt",
+    "karakter": 25136
+   },
+   "degisiklik": [
+    {
+     "sayi": "44/2011",
+     "baslik": "Uluslararası Bankacılık Birimleri Yasası",
+     "dosya": "44-2011.doc",
+     "url": "https://cm.gov.ct.tr/Yasalar/44-2011.doc",
+     "sha256": "d58e5cfd442c58c49fe87e9b51771a6f808b43445c8abcd235319d6a6a39716c",
+     "metin_dosyasi": "veri/meclis-ek/metin/44-2011.txt",
+     "karakter": 1254
+    },
+    {
+     "sayi": "33/2009",
+     "baslik": "Uluslararasi Bankacilik Birimleri Yasasi",
+     "dosya": "33-2009.doc",
+     "url": "https://cm.gov.ct.tr/Yasalar/33-2009.doc",
+     "sha256": "c7d281140c4f4f1d0d3c777c935c2818c28b454b62ea66c4fd7bec9fb9ddcca7",
+     "metin_dosyasi": "veri/meclis-ek/metin/33-2009.txt",
+     "karakter": 1263
+    }
+   ],
+   "degisiklik_sayilari": [
+    "44/2011",
+    "33/2009"
+   ]
+  },
+  "891": {
+   "pkey": 891,
+   "numara": "47/1994",
+   "ad": "Vakıflar Örgütü Ve Din İşleri Dairesi  Onuncu Yıl İkramiyesi Yasası",
+   "esas": {
+    "sayi": "47/1994",
+    "baslik": "Vakıflar Örgütü ve Din İşleri Dairesi Onuncu Yıl İkramiyesi Yasası",
+    "dosya": "47-1994.doc",
+    "url": "https://cm.gov.ct.tr/Yasalar/47-1994.doc",
+    "sha256": "4920ac13e58fed3ae878c80c50f396380c5aa135909b7fbb9795b87a3edfd125",
+    "metin_dosyasi": "veri/meclis-ek/metin/47-1994.txt",
+    "karakter": 2314
+   },
+   "degisiklik": [],
+   "degisiklik_sayilari": []
+  },
+  "896": {
+   "pkey": 896,
+   "numara": "17/1976",
+   "ad": "Van Deprem  Felaketzadelerine Yardım Yasası",
+   "esas": {
+    "sayi": "32/1976",
+    "baslik": "Van Deprem Felaketzedelerine Yardım Yasası",
+    "dosya": "32-1976.doc",
+    "url": "https://cm.gov.ct.tr/Yasalar/32-1976.doc",
+    "sha256": "ee8e208fe90716c2d6b8e2b97142a581ba9be600a31c3aa2480c4f31ff50a180",
+    "metin_dosyasi": "veri/meclis-ek/metin/32-1976.txt",
+    "karakter": 2123
+   },
+   "degisiklik": [],
+   "degisiklik_sayilari": []
+  },
+  "906": {
+   "pkey": 906,
+   "numara": "7/1992",
+   "ad": "Veteriner Dairesi (Kuruluş Görev ve Çalışma Esasları) Yasası",
+   "esas": {
+    "sayi": "7/1992",
+    "baslik": "Veteriner Dairesi (Kuruluş, Görev ve Çalışma Esasları) Yasası",
+    "dosya": "07-1992.doc",
+    "url": "https://cm.gov.ct.tr/Yasalar/07-1992.doc",
+    "sha256": "620ecfdf54a1c6c715714c1328780465408d14d69d64232edb0b742a32e28887",
+    "metin_dosyasi": "veri/meclis-ek/metin/07-1992.txt",
+    "karakter": 32436
+   },
+   "degisiklik": [
+    {
+     "sayi": "43/1999",
+     "baslik": "Veteriner Dairesi (Kuruluş, Görev ve Çalışma Esasları) Yasası",
+     "dosya": "43-1999.doc",
+     "url": "https://cm.gov.ct.tr/Yasalar/43-1999.doc",
+     "sha256": "bd69984c1456f3daaa95a8e88be54c04c1c9302da156916d42f41cb86d80c816",
+     "metin_dosyasi": "veri/meclis-ek/metin/43-1999.txt",
+     "karakter": 2048
+    }
+   ],
+   "degisiklik_sayilari": [
+    "43/1999"
+   ]
+  },
+  "937": {
+   "pkey": 937,
+   "numara": "45/1975",
+   "ad": "Yerel kuruluş ve Mensupları (Görev Sürelerinin Devamlılığı ve Meşruiyeti) Yasası",
+   "esas": {
+    "sayi": "45/1975",
+    "baslik": "Yerel Kuruluş ve Mensupları (Görev Sürelerinin Devamlılığı ve Meşruiyeti) Yasası",
+    "dosya": "45-1975.doc",
+    "url": "https://cm.gov.ct.tr/Yasalar/45-1975.doc",
+    "sha256": "b41ffec29977666bbde11aeb96d9c0a77cfb9fcf5b1d648071c622dc943a7fac",
+    "metin_dosyasi": "veri/meclis-ek/metin/45-1975.txt",
+    "karakter": 2138
+   },
+   "degisiklik": [],
+   "degisiklik_sayilari": []
+  },
+  "938": {
+   "pkey": 938,
+   "numara": "30/1990",
+   "ad": "Yerel Seçimler (Geçici Kurallar) Yasası",
+   "esas": {
+    "sayi": "30/1990",
+    "baslik": "Yerel Seçimler (Geçici Kurallar) Yasası",
+    "dosya": "30-1990.doc",
+    "url": "https://cm.gov.ct.tr/Yasalar/30-1990.doc",
+    "sha256": "957cc0949214556cfc1bb5d5fe772f94fd624303762ccc8b99ad9f6ca2296ab1",
+    "metin_dosyasi": "veri/meclis-ek/metin/30-1990.txt",
+    "karakter": 2289
+   },
+   "degisiklik": [],
+   "degisiklik_sayilari": []
+  },
+  "939": {
+   "pkey": 939,
+   "numara": "17/1984",
+   "ad": "Yerel Seçimlerin Ertelenmesi (Geçici Kurallar) Yasası",
+   "esas": {
+    "sayi": "17/1984",
+    "baslik": "Yerel Seçimlerin Ertelenmesi (Geçici Kurallar) Yasası",
+    "dosya": "17-1984.doc",
+    "url": "https://cm.gov.ct.tr/Yasalar/17-1984.doc",
+    "sha256": "19d9fdff71b97144bd8f9f6db1be9b11775af8ccd3eda93165404b4edbdbe1af",
+    "metin_dosyasi": "veri/meclis-ek/metin/17-1984.txt",
+    "karakter": 838
+   },
+   "degisiklik": [],
+   "degisiklik_sayilari": []
+  },
+  "955": {
+   "pkey": 955,
+   "numara": "18/1981",
+   "ad": "Yüksek Teknoloji Enstitüsü  Kuruluş  Yasası",
+   "esas": {
+    "sayi": "18/1981",
+    "baslik": "Yüksek Teknoloji Enstitüsü Kuruluş Yasası",
+    "dosya": "18-1981.doc",
+    "url": "https://cm.gov.ct.tr/Yasalar/18-1981.doc",
+    "sha256": "b743bb735f32cb274c89d777b0f77736c88dc323a4316c5e45c5ce8fe4cba693",
+    "metin_dosyasi": "veri/meclis-ek/metin/18-1981.txt",
+    "karakter": 89775
+   },
+   "degisiklik": [
+    {
+     "sayi": "17/1983",
+     "baslik": "Yüksek Teknoloji Enstitüsü Kuruluş Yasası",
+     "dosya": "17-1983.doc",
+     "url": "https://cm.gov.ct.tr/Yasalar/17-1983.doc",
+     "sha256": "2ab358035cb38adb4edd724a41975924da83eb2f1d50f216201661949952f865",
+     "metin_dosyasi": "veri/meclis-ek/metin/17-1983.txt",
+     "karakter": 1703
+    },
+    {
+     "sayi": "38/1984",
+     "baslik": "Yüksek Teknoloji Enstitüsü Kuruluş Yasası",
+     "dosya": "38-1984.doc",
+     "url": "https://cm.gov.ct.tr/Yasalar/38-1984.doc",
+     "sha256": "6290621b57c6ae2ec5b7a76a2c2965af2367cef6377edaaf32e9086a96035965",
+     "metin_dosyasi": "veri/meclis-ek/metin/38-1984.txt",
+     "karakter": 2296
+    }
+   ],
+   "degisiklik_sayilari": [
+    "17/1983",
+    "38/1984"
+   ]
+  },
+  "962": {
+   "pkey": 962,
+   "numara": "23/1963",
+   "ad": "Zeytin Yağı Yasası",
+   "esas": {
+    "sayi": "23/1963",
+    "baslik": "Zeytinyağı Yasası",
+    "dosya": "23-1963.doc",
+    "url": "https://cm.gov.ct.tr/Yasalar/23-1963.doc",
+    "sha256": "29f89f8083c24b627bf01a720fc5d4a87c5fefa1cee8e611440d6e36553813c0",
+    "metin_dosyasi": "veri/meclis-ek/metin/23-1963.txt",
+    "karakter": 19381
+   },
+   "degisiklik": [
+    {
+     "sayi": "4/1974",
+     "baslik": "Zeytinyağı Yasası",
+     "dosya": "04-1974.doc",
+     "url": "https://cm.gov.ct.tr/Yasalar/04-1974.doc",
+     "sha256": "47c63f3d69e8b4bd13e662b6b3aec9d9643f8f0c2db90ce2b718e87496e0fac9",
+     "metin_dosyasi": "veri/meclis-ek/metin/04-1974.txt",
+     "karakter": 1065
+    }
+   ],
+   "degisiklik_sayilari": [
+    "4/1974"
+   ]
+  },
+  "ANAYASA": {
+   "numara": "Anayasa",
+   "ad": "Kuzey Kıbrıs Türk Cumhuriyeti Anayasası",
+   "esas": {
+    "sayi": "1985",
+    "baslik": "Kuzey Kıbrıs Türk Cumhuriyeti Anayasası",
+    "dosya": "9646521_Anayasa.pdf",
+    "url": "https://cm.gov.ct.tr/dir_docs/9646521_Anayasa.pdf",
+    "sha256": "fecd8ea7cfe7697334fe4eff506619f9bc9fcb1a78b3609d0e804b039c0f07b5",
+    "metin_dosyasi": "veri/meclis-ek/metin/anayasa.txt",
+    "karakter": 164239
+   },
+   "degisiklik": []
+  }
+ }
+}

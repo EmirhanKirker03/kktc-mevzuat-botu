@@ -12,3 +12,11 @@ Avukatlar için kaynak gösteren mevzuat ve içtihat araştırma sayfasının ya
 - `1_test_dava_dosyasi.txt` — tamamen uydurma deneme dava dosyası (gerçek kişi bilgisi yok)
 
 İkinci dalga yasaların orijinal Word dosyaları depodaki `orijinaller` dalındadır.
+
+## Meclis arşivinden eklenenler (2026-10-12)
+- **KKTC Anayasası** (`veri/meclis-ek/metin/anayasa.txt`, kaynak cm.gov.ct.tr/Anayasa.aspx PDF) — `anayasa_bol.py` ile 164 madde + 13 geçici madde + Başlangıç.
+  2014 (47/2014) ve 2020 (33/2020) Anayasa değişiklikleri halkoylamasında reddedildi (29 Haziran 2014: %62,3 hayır; 11 Ekim 2020: %50,13 hayır), bu yüzden yürürlükteki metne işlenmemiştir; uygulamada bu değişiklik yasaları notla işaretlenir ve aramada geriye alınır (`build_tum.py` NOTLAR/RED). Kaynak: en.wikipedia.org/wiki/2014_Northern_Cypriot_constitutional_referendum, en.wikipedia.org/wiki/2020_Northern_Cypriot_constitutional_referendum.
+- **Yüksek Mahkeme sisteminde dosyası olmayan 54 yasa**: Meclis arşivindeki esas metin + aynı adlı sonraki değişiklik yasaları (`meclis_ek.py`, `veri/meclis-ek/`). Eşleştirme: `raw/meclis_ek/hedef2.json`.
+- **Türkçe metni olmayan 26 fasıl**: İngilizce metinlerine Türkçe adları eklendi (Türkçe aramada bulunur).
+- **533 Yasa Gücünde Kararname** (2013–2026, cm.gov.ct.tr/YasaKararname.aspx): `ygk_metin.py` (Word içinden metin, taranmış PDF'ler Türkçe yazı tanıma), `veri/meclis-ygk/`. Gerekçe ayrı birim; aynı adla yeniden çıkarılanların eski sürümleri işaretlenir. Aramada kararnamelere ayrı 2 yer verilir.
+- Derleme sırası: `meclis_ek.py` → `build_tum.py` → `hmut_bol.py` → `build_app.py` (şablon yamaları: `app/yama_meclis.py`).

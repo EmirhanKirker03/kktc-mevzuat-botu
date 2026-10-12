@@ -1,0 +1,418 @@
+
+        	Kuzey Kıbrıs  Türk Cumhuriyeti Cumhuriyeti Meclisi’nin  25 Ocak 2005 tarihli On dokuzuncu    Birleşiminde  Oybirliğiyle  kabul  olunan “, Teknoloji Geliştirme  Bölgeleri Yasası” Anayasanın 94’üncü maddesinin (1)’inci  fıkrası gereğince Kuzey Kıbrıs Türk Cumhuriyeti Cumhurbaşkanı  tarafından Resmi Gazete’de  yayımlanmak suretiyle ilan olunur.
+
+
+
+
+
+
+
+Sayı :02/2005
+
+TEKNOLOJİ GELİŞTİRME BÖLGELERİ YASASI
+
+
+       Kuzey Kıbrıs Türk Cumhuriyeti Cumhuriyet Meclisi aşağıdaki Yasayı yapar:
+
+Kısa İsim
+1. Bu Yasa, Teknoloji Geliştirme  Bölgeleri Yasası olarak isimlendirilir.
+
+BİRİNCİ KISIM
+Genel Kurallar
+
+Tefsir
+2. Bu Yasada metin başka türlü gerektirmedikçe:
+
+“Araştırma ve Geliştirme (AR-GE)”; Bilim ve teknolojinin gelişmesini sağlayacak yeni bilgileri elde etmek veya mevcut bilgilerle yeni ürün ve yöntem üretmek, yazılım üretimi dahil olmak üzere yeni sistem, süreç ve hizmetler oluşturmak veya mevcut teknolojileri geliştirmek amacı ile yapılan düzenli çalışmaları anlatır.
+
+“AR-GE Personeli”; AR-GE çalışmalarına doğrudan katılan mühendislik ve fen bilimleri alanlarında yüksek öğrenim yapmış kişileri, bilim insanlarını, yöneticiler ile nitelikli destek personelini ve AR-GE çalışmalarının bilimsel ve teknik yanlarının planlanıp yönetilmesi, izlenip  değerlendirilmesi ve desteklenmesi ile uğraşan personeli anlatır.
+
+“Bakanlık”, Sanayi işleri ile  görevli Bakanlığı anlatır.
+
+“Bakanlar Kurulu”, Kuzey Kıbrıs Türk Cumhuriyeti Bakanlar Kurulunu anlatır.
+
+“Buluş”; Mevcut bilgilerden yararlanarak daha önce bilinmeyen yeni, yararlı bir bulguya ulaşmayı veya yöntem geliştirmeyi. icadı anlatır.
+
+“Girişimci”; Teknoloji Geliştirme Bölgesindeki hizmet ve imkanlardan yararlanarak Kuzey Kıbrıs Türk Cumhuriyetinde istihdam, ihracat ve teknolojik gelişmeye katkı sağlayacak gerçek veya tüzel kişileri anlatır.
+
+“Kurucu Heyet”; Bir Teknoloji Geliştirme Bölgesi oluşturmak için görev üstlenen, en az biri Kuzey Kıbrıs Türk Cumhuriyeti yükseköğretim kurumu ve diğer girişimcilerden oluşan heyeti anlatır.
+
+“Müdürlük”,  Sanayi Dairesi Müdürlüğünü anlatır. 
+
+“Öğretim Elemanları”; Yükseköğretim  kurumlarında görevli öğretim üyeleri, öğretim görevlileri, okutmanlar, araştırma görevlileri ve uzmanları anlatır.
+
+“Teknoloji Geliştirme Bölgesi (Bölge)”, İleri veya yeni teknoloji kullanan şirketlerin, Kurucu Heyette yer alan Kuzey Kıbrıs Türk Cumhuriyeti yükseköğretim kurumlarından birinin olanaklarından da yararlanarak, teknoloji ve/veya yazılım ürettikleri ve/veya geliştirdikleri, teknolojik bir buluşu ticari bir ürün, yöntem veya hizmet haline dönüştürmek için çalışma ve araştırma yaptıkları, Kurucu Heyete katılan yükseköğretim kurumlarından birinin kampüsü içerisinde veya kullanımında olan, teknik ve altyapı olanaklarıyla donatılmış, akademik, ekonomik ve sosyal yapının bütünleştiği alanı anlatır. 
+
+“Üretici Şirketler”; Teknoloji Geliştirme Bölgesi içinde, bu Yasanın amacına uygun olarak faaliyette bulunmak üzere gerçek veya tüzel kişilerce kurulan, AR-GE ve/veya AR-GE’ye dayalı üretim faaliyetlerinde bulunan kuruluşları anlatır.
+
+
+“Üretim Yöntemlerinde Yenilik”; Bir ürünün imal sürecini oluşturan işlevlerde yapılan yeniliği anlatır.
+
+
+“Yazılım”; Sayısal teknolojiye dayalı cihazların çalışmasını ve bu cihazlar kullanılarak hizmet elde edilmesini sağlayan, elektronik komutlar dizisinden oluşan programları anlatır.
+
+
+“Yenilik” (Innovasyon); Bir buluşun, teknoloji transferi ve tasarım gibi yollarla yeni bir ürün, yöntem veya hizmete dönüştürülmesi sürecini anlatır.
+
+
+“Yönetici Şirket”; Bu Yasaya ve Kuzey Kıbrıs Türk Cumhuriyeti Yasa ve mevzuatlarına uygun olarak kurulmuş, Teknoloji Geliştirme Bölgesinin yatırım, yönetim, denetim ve işletmesinden sorumlu, kâr amacı gütmeyen şirketi anlatır.
+
+
+“Yükseköğretim Kurumu”; Üniversiteler ile diğer yükseköğretim kurumlarını anlatır. 
+
+
+
+İKİNCİ KISIM
+Yasanın Amacı, Kapsamı ve Kurucu Heyet ile Bölge Kuruluşu Hakkındaki Kurallar
+
+
+Amaç
+3.  Bu Yasanın amacı, Kuzey Kıbrıs Türk Cumhuriyeti yükseköğretim kurumları ile girişimciler arasında işbirliği ortamını hazırlayarak, teknolojik bilgi üretmek, üretim yöntemlerinde, üründe yeniliği geliştirmek, ürün kalite veya standardını yükseltmek, verimliliği artırmak, üretim maliyetlerini düşürmek, teknoloji kullanmayı özendirmek, teknoloji transferine yardımcı olmak, yabancı sermayenin ülkeye girişini hızlandırmak, teknolojik bilgiyi ticarileştirmek, bu alandaki araştırmacılar ve girişimcilere olanak yaratmak ve Kuzey Kıbrıs Türk Cumhuriyeti ekonomisine uluslararası alanda rekabet gücü kazandıracak teknolojik alt yapıyı sağlamaktır.
+
+
+
+
+Kapsam
+4. Bu Yasa, Teknoloji Geliştirme Bölgelerinin kuruluş, işleyiş, yönetim ve denetim esasları ve bunlarla ilgili kişi ve kuruluşların görev, yetki ve sorumluluklarını kapsar.
+
+
+
+
+Kurucu  Heyetin Oluşumu  ve Sona Ermesi
+5.
+(1)
+Kurucu Heyet, Bölge kurmak amacıyla yükseköğretim kurumu ve girişime katılan gerçek veya tüzel kişilerin birer temsilcisinden oluşur.
+
+
+
+(2)
+Kurucu Heyetin üye sayısı en az yedidir.
+
+
+
+(3)
+Bölgeye yerleşim alanı sağlamış Yükseköğretim Kurumu temsilcisi Kurucu Heyetin Başkanıdır.
+
+
+
+(4)
+Kurucu Heyet, kararlarını salt çoğunluk ile alır.
+
+
+
+(5)
+Kurucu Heyetin işlevi, bu Yasanın 8’inci ve 9’uncu maddeleri kuralları uyarınca Bölge Kuruluşunun Resmi Gazete’de ilanı ve buna bağlı Yönetici Şirketin oluşumu ile sona erer. 
+
+
+
+
+Bölge Kuruluşu Başvurusu
+6.
+(1)
+Kurucu Heyet, Heyete katılan yükseköğretim kurumlarından birinin kampüsü içerisinde veya kullanımında olan teknik ve alt yapı olanakları ile donatılmış, akademik, ekonomik ve sosyal yapının bütünleştiği bir alanda Bölge kurulmasına ilişkin Bakanlığa yazılı başvuruda bulunur. 
+
+
+
+(2)
+Bakanlık, başvuruyu bu Yasanın 7’nci maddesi uyarınca oluşturulan Değerlendirme ve Denetleme Kuruluna iletir.
+
+
+
+
+
+ÜÇÜNCÜ KISIM
+Kurul, Bölgenin İlanı ve Yönetici Şirket Hakkındaki Kurallar
+
+Değerlendirme ve Denetleme Kurulu
+7.
+(1)
+Teknoloji Geliştirme Bölgesinin kuruluş başvurusunu değerlendirmek ve kurulan Bölgenin denetlenmesini sağlamak amacıyla yedi kişiden oluşan bir Değerlendirme ve Denetleme Kurulu oluşturulur. 
+
+
+(2)
+Değerlendirme ve Denetleme Kurulu, Sanayi Dairesi Müdürü Başkanlığında aşağıdaki üyelerden oluşur:
+
+
+
+(A)
+Devlet Planlama Örgütü temsilcisi; (Üye)
+
+
+
+(B)
+Eğitim işleri ile görevli Bakanlık temsilcisi; (Üye)
+
+
+
+(C)
+Bayındırlık işleri ile görevli Bakanlık temsilcisi; (Üye)
+
+
+
+(Ç)
+Çevre işleri ile görevli Bakanlık temsilcisi; (Üye) 
+
+
+
+(D)
+Maliye işleri ile görevli Bakanlık temsilcisi; (Üye)
+
+
+
+(E)
+Kıbrıs Türk Sanayi Odasi temsilcisi; (Üye)
+
+
+(3)
+Değerlendirme ve Denetleme Kurulu, Bakanlıkça iletilen başvuruyu derhal işleme koyar ve Kurucu Heyetten bir ay içerisinde Bölge Kuruluş projesi ile ilgili bir “Bölge Yapılabilirlik Raporu” hazırlamasını ister.
+
+
+Hazırlanan Rapor aşağıda öngörülen bilgileri kapsar:
+
+
+(A)
+Seçilen bölgenin yeri, büyüklüğü, özel nitelikleri ve Bölge yapılabilirlik çalışması ile ilgili bilgiler;
+
+
+(B)
+Bölgenin yönetimi ve girişimcilerle ilgili bilgiler;
+
+
+(C)
+Seçilen bölgenin mevcut akademik, teknolojik ve sanayi potansiyeli ile ilgili bilgiler;
+
+
+(Ç)
+Bölge için öngörülen toplam yatırım bedeli ve bu toplam bedelin yıllar itibarı ile harcama projeksiyonu ile ilgili bilgiler.
+
+ (4)
+Sanayi Dairesi Müdürü Başkanlığında toplanan Değerlendirme ve Denetleme Kurulu, Kurucu Heyet tarafından sunulan Bölge Yapılabilirlik Raporunu iletiliş tarihinden itibaren üç ay içerisinde inceler, değerlendirir ve karara bağlar.
+
+(5)
+Değerlendirme ve Denetleme Kurulu gerekli gördüğü durumlarda karar almadan önce ilgili kamu kurum ve kuruluşları ile yerel yönetim, meslek odaları ve gerçek veya tüzel kişilerden yazılı veya sözlü görüş alabilir.
+
+ (6)
+Bölge Kuruluş Kararı toplantıya katılan en az beş Kurul üyesinin olumlu kararı ile alınır ve Kurucu Heyete yazılı olarak bildirilir.
+
+ (7)
+Değerlendirme ve Denetleme Kurulu, Kurucu Heyetin Bölge Kuruluşu ile ilgili sunmuş olduğu Bölge Yapılabilirlik Raporunu uygun bulmadığı takdirde gerekçeli Kurul kararını Kurucu Heyete iletir.
+
+ (8)
+Kurucu Heyet uygun bulunmayan Bölge Yapılabilirlik Raporunu, Değerlendirme ve Denetleme Kurulunun göndermiş olduğu iade gerekçeleri ışığında bir ay içerisinde uygun hale getirerek yeniden sunar.
+
+Bölge İlanı ve Bakanlıktan Alınan Katkı
+8.
+(1)
+Bu Yasanın 7’nci maddesi kuralları uyarınca Değerlendirme ve Denetleme Kurulu tarafından uygun görülen Bölge Yapılabilirlik Projesi Bakanlıkça, Bakanlar Kurulunun onayına sunulur.  Bakanlar Kurulunca onaylanan Bölge Kuruluş Kararı Resmi Gazete’de yayımlanarak ilan edilir.
+
+
+
+(2)
+Bakanlık, Bölgenin kurulması için gerekli katkıyı Bakanlık bütçesinden Yönetici Şirkete sağlar.
+
+
+
+(3)
+Bölgenin ilanından sonra bu Yasanın 9’uncu maddesi kuralları uyarınca kurulan Yönetici Şirket, Bakanlıktan aldığı katkı payını Bölgenin kurulması amacıyla kullanır.
+
+
+Yönetici Şirketin Kuruluşu
+
+
+Fasıl 113
+    28/1974
+      7/1977
+     30/1983
+     28/1987
+     65/1989
+     56/1991
+     42/1997
+     29/2003
+9.
+(1)
+Bölge kuruluşunun Resmi Gazete’de ilanı ile Kurucu Heyetin işlevi sona erer.
+      Ancak Kurucu Heyeti oluşturan temsilcilerin katılımı ile Bölgenin yatırım, yönetim, denetim ve işletilmesinden sorumlu şirket statüsünde Şirketler Yasası kuralları uyarınca Yönetici Şirket kurulur.
+
+
+
+
+
+
+
+
+      
+
+(2)
+Yönetici Şirket, kuruluşunu gerçekleştirdiği ana sözleşme ile birlikte tüzüğünü de hazırlar.  Hazırlanan tüzük ve ana sözleşme Şirketler Yasası kuralları uyarınca tescil edilir.
+
+    
+
+
+(3)
+Yönetici Şirketin ödenmiş sermayesi asgari ücretin en az 500 katıdır.
+
+
+Yönetici Şirketin Kurucuları ve Yönetim Kurulu
+10.
+(1)
+Kurucu Heyette yer alan yükseköğretim kurumları ve diğer girişimciler, Yönetici Şirketin doğal kurucu ortaklarıdır.
+      Ayrıca Yönetici Şirkete sanayi ve ticaret odaları, yerel yönetimler, bankalar, finansman kurumları, yerli ve yabancı özel hukuk tüzel kişileri, AR-GE ve teknoloji geliştirme ile ilgili vakıf ve dernekler ve ilgili kamu kuruluşları kurucu olarak ya da sonradan ortak olarak iştirak edebilirler.
+
+
+
+(2)
+Teknoloji Geliştirme Bölgesine yerleşim alanı sağlamış olan yükseköğretim kurumu şirket sermayesinin en az %51’ini (Yüzde Elli Birini) sağlar.
+
+
+
+(3)
+Yönetici Şirket ortakları, sermaye katkı payları oranına göre Şirket Yönetim Kurulunda temsil edilirler.
+
+
+Yönetici Şirketin Sorumluluğu
+11.
+(1)
+Yönetici Şirket, Bölgenin kuruluş aşamasında planlama ve projelendirmenin yapılmasından; gerekli alt ve üst yapının oluşturulmasından; Bölge için gerekli her türlü hizmetlerin yürütülmesinden; Bölgede yer almak isteyen kurum, kuruluş ve girişimci taleplerinin değerlendirilmesinden ve uygun bulunanlara yer tahsisinin yapılmasından; Bölgede görev alacak AR-GE personelinin istihdamından; Bölgenin yürürlükte olan mevzuata ve amacına uygun olarak yönetilip işletilmesinden ve Üretici Şirketlerin, girişimcilerin ve üçüncü şahısların buna aykırı davranışlarının önlenmesinden ve gerekli önlemlerin alınmasından sorumludur.
+
+
+
+(2)
+Yönetici Şirket, en az ayda bir kere toplanır.
+
+
+
+DÖRDÜNCÜ KISIM
+Üretici Şirket, Personel ve Teşviklerin Kullanılması Hakkındaki Kurallar
+
+
+Üretici Şirket ve Bölgede Görev Alacak Personel ve Hakları
+Fasıl 113
+    28/1974
+      7/1977
+    30/1983
+    28/1987
+    65/1989
+    56/1991
+    42/1997
+    29/2003
+12.
+(1)
+Yükseköğretim kurumlarının öğretim elemanları, yaptıkları araştırmaların sonuçlarını ticarileştirmek amacıyla, ilgili yükseköğretim kurumunun yetkili organlarının onayı ile, bu Bölgelerde, Şirketler Yasası kurallar uyarınca Üretici Şirket kurabilir, kurulu bir şirkete ortak olabilir ve/veya bu şirketlerin yönetiminde görev alabilirler.
+
+
+
+(2)
+Tam zamanlı AR-GE personeli olarak istihdam edilecek kamu, kurum ve kuruluşları ile yükseköğretim kurumları personeline, bağlı oldukları kurum veya kuruluşlar tarafından, Bölgede çalıştıkları sürece, kadroları ve emeklilik hakları saklı kalmak koşuluyla ücretsiz izin verilir ve bağlı oldukları kuruluşlardaki kadroları ile ilişkileri devam eder.
+
+
+
+(3)
+Yükseköğretim kurumlarının öğretim elemanları, ilgili yasa ve yönetmeliklerde görevlendirme esaslarına göre yapacakları çalışmaları, ilgili yükseköğretim kurumunun yetkili organlarının onayı ile Bölgedeki kuruluşlarda ücretli izinli olarak yapabilirler.
+
+
+
+(4)
+Kamu kurum ve kuruluşları ile yükseköğretim kurumları personelinden Yönetici Şirkette yönetici veya Bölgede yer alan Üretici Şirketlerde AR-Ge personeli olarak hizmetine ihtiyaç duyulanlar, çalıştıkları kurum veya kuruluşun izni ve kendi isteği ile tam veya yarı zamanlı olarak Bölgedeki kuruluşlarda çalıştırılabilirler.
+
+
+
+(5)
+Yükseköğretim kurumlarının Bölgede görev yapan öğretim elemanları ve teknik personeli, Bölgeden veya Üretici Şirketlerden elde edecekleri gelirlerden, ilgili yükseköğretim kurumlarının mevzuatları uyarınca, yükseköğretim kurumlarına  pay öderler.
+
+
+
+(6)
+Yükseköğretim kurumlarının öğretim elemanları ve teknik personeli, başka herhangi bir Yasada aksine kural bulunup bulunmadığına bakılmaksızın bu Yasada kendilerine tanınan haklara sahip olurlar.
+
+
+Teşvikler
+
+ 47/2000
+    46/2002
+    44/2003
+13.
+(1)
+Bu Yasa kapsamında Bölgenin kurulması için yapılacak yatırımlar ile Bölgede faaliyette bulunacak Üretici Şirketlerin yapacağı yatırımlara, Teşvik Yasası kapsamındaki teşviklere ilave olarak aşağıdaki teşvikler de uygulanır:
+
+
+    
+
+(A)
+Patent Desteği; Bölgede yer alan özel ve tüzel kişilere ait Üretici Şirketlerin alacakları patentlere ilişkin tüm gelirler, beş yıl süre ile her türlü vergiden muaf tutulur.
+
+
+
+(B)
+Yönetici Şirket, bu Yasanın uygulanması ile ilgili işlemlerde her türlü vergi, resim ve harçtan muaftır.
+
+
+
+(C)
+Bölgede yer alan gelir ve kurumlar vergisi mükelleflerinin, münhasıran bu bölgedeki yazılım ve AR-GE’ye dayalı üretim faaliyetlerinden elde ettikleri kazançları, faaliyete geçilmesinden itibaren beş yıl süreyle gelir ve kurumlar vergisinden müstesnadır.
+
+
+
+(Ç)
+Yukarıdaki (A) ve (C) bendlerinde belirtilen süreler Bakanlar Kurulu tarafından, gerekli görüldüğü takdirde uzatılabilir.
+
+
+
+
+BEŞİNCİ  KISIM
+Denetim ve Cezalar Hakkındaki Kurallar
+
+
+Denetim ve Cezalar
+14.
+(1)
+Bakanlık, bu Yasaya ve yürürlükte olan ilgili mevzuata uygunluk açısından, Yönetici Şirketi denetler.
+
+
+
+(2)
+Değerlendirme ve Denetleme Kurulu, bu Yasa ve yürürlükte olan ilgili mevzuatta belirtilen amacın dışında faaliyet gösteren veya ana sözleşme, tüzük ve diğer esaslarda değişiklik yaparak bu Yasa ve ilgili mevzuata uymayan Yönetici Şirketi tespit edip Bakanlık aracılığıyla uyarır ve Yönetici Şirketten üç ay içerisinde Bölgenin istenen amaca uygun faaliyete geçirilmesini ister.  
+    Yönetici Şirket bu sürenin sonunda uyarıların gereğini yerine getirmediği takdirde Bakanlık, Değerlendirme ve Denetleme Kurulunun raporu doğrultusunda Yönetici Şirketin faaliyetlerine son vermek ve Bölgenin Yasa kapsamı dışına alınmasını Bakanlar Kuruluna önerir.  Bakanlar Kurulu Bakanlığın önerisi doğrultusunda aldığı kararı Resmi Gazetede yayımlayarak Bölgenin kuruluşunu iptal eder. 
+
+
+
+(3)
+Yönetici Şirket, bu Yasa ve yürürlükte olan ilgili mevzuatta belirtilen amacın dışında faaliyet gösteren veya ana sözleşme, tüzük ve diğer esaslarda değişiklik yaparak bu Yasa ve ilgili mevzuata uymayan Üretici Şirketi tespit edip uyarır ve Üretici Şirketin öngörülen amaca uygun olarak işletilmesi için en çok üç ay süre verir.  
+       Yönetici Şirket, bu sürenin sonunda, amacın gerçekleştirilmesinde Üretici Şirketin amaçları dışında faaliyet göstermeye devam etmesi durumunda Değerlendirme ve Denetleme Kuruluna bilgi verir.  Değerlendirme ve Denetleme Kurulu Üretici Şirketin faaliyetlerine son verilmesi ve Bölge dışına alınması için Bakanlığa başvurur.  Bakanlık bu doğrultuda ilgili mevzuat uyarınca gerekli önlemlerin alınmasına karar verir.
+
+
+
+ALTINCI  KISIM
+Son Kurallar
+
+
+Tüzük Yapma Yetkisi
+15. Bakanlar Kurulu, bu Yasanın yürütülmesini kolaylaştırmak amacıyla aşağıdaki konularda Tüzük yapabilir: 
+
+
+(1)
+Değerlendirme ve Denetleme Kurulu çalışma şekli hakkında;
+
+
+(2)
+Bölgenin yer seçimi hakkında;
+
+
+(3)
+Bölge Yapılabilirlik Raporlarının hazırlanış kriterleri hakkında;
+
+
+(4)
+Bölgenin kuruluşuna, işletilmesine, arazi kullanımına, Bölgede yer alacak faaliyetler ve bunlarla ilgili koşulların düzenlenmesi hakkında;
+
+
+(5)
+Bölgelerin kurulması için Bakanlık Bütçesinden alınan katkının kullanımına ve bu Yasanın uygulanmasına dair hususlar hakkında;
+
+Yürütme Yetkisi
+16. Bu Yasa, Sanayi işleri ile görevli Bakanlık tarafından yürütülür.
+
+Yürürlüğe Giriş
+17. Bu Yasa, Resmi Gazete’de yayımlandığı tarihten başlayarak yürürlüğe girer.
+
+
+
