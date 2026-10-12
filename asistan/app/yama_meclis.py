@@ -39,5 +39,11 @@ if 'yg:!!y.yg' not in s:
     degis("lw:d.g.lw, s:s*(.5+d.g.lw/top)*", "lw:d.g.lw, s:s*(.5+Math.min(d.g.lw,top)/top)*")
     degis("const gucluYasa=[...new Set(res.filter(x=>x.lw>=.75*top).map(x=>x.law))].slice(0,4);",
           "const gucluYasa=[...new Set(res.filter(x=>x.lw>=.75*top&&!(LAWBY[x.law]&&LAWBY[x.law].yg)).map(x=>x.law))].slice(0,4);")
+if 'rg:y.ks===' not in s:
+    degis("yg:!!y.yg};", "yg:!!y.yg,rg:y.ks==='rg'};")
+    degis("const L={kod,no:(y.tz?'Tüzük ':'')+y.n,", "const L={kod,no:(y.tz&&!y.rt?'Tüzük ':'')+y.n,")
+    degis("(L.meclis?'Cumhuriyet Meclisi arşivi':'Yüksek Mahkeme birleştirilmiş resmî metni')+'</a> · '", "(L.meclis?'Cumhuriyet Meclisi arşivi':L.rg?'Resmî Gazete (Devlet Basımevi)':'Yüksek Mahkeme birleştirilmiş resmî metni')+'</a> · '")
+    degis("b+='METİN ('+(L.meclis?'Cumhuriyet Meclisi arşivindeki metin — Yüksek Mahkeme sisteminde dosyası yok, sonraki değişiklikler işlenmemiş olabilir':'Yüksek Mahkeme birleştirilmiş resmî metni')", "b+='METİN ('+(L.meclis?'Cumhuriyet Meclisi arşivindeki metin — Yüksek Mahkeme sisteminde dosyası yok, sonraki değişiklikler işlenmemiş olabilir':L.rg?'Resmî Gazete\\'de yayımlandığı hâli — birleştirilmiş metin değildir, sonradan değişmiş olabilir':'Yüksek Mahkeme birleştirilmiş resmî metni')")
+    degis("const n=[L.meclis?'Meclis metni':'',", "const n=[L.meclis?'Meclis metni':'',L.rg?'Resmî Gazete metni':'',")
 open(p, 'w', encoding='utf-8').write(s)
 print('yama_meclis tamam')

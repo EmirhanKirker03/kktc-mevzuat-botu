@@ -1,0 +1,916 @@
+ELEKTRONİK İMZA YASASI 
+(93/2007 Siı.yiliYasa) 
+Madde (20) Altında Yapılan "Elektronik İmza Yasasının Uygulanmasına İlişkin Usul ve Esaslar 
+Tüzüğü" ne bağh Yönetmelik 
+Kuzey Kıbrıs Türk Cumhuriyeti Bayındırlık ve Ulaştırma Bakanlığı Telekomünikasyon Üst
+Kurulu Başkanlığı, 93/2007 sayılı Elektronik İmza Yasası•na bağlı "Elektronik İmza Yasası•nın 
+Uygulanm~~na İlişkin Usul ve Esaslar Tüzüğü"nün 27'nci maddesinin kendisine verdiği yetkiyı' 
+lrulrana:nik aşağıdaki Yönetmeliği yapar: · · · 
+Kısa isim 
+Tef.~ir 
+93/2007 
+Amaç 
+Kapsam 
+1. Bu Yönetmelik, "Elektronik İmza ile İlgili Süreçlere ve Teknik 
+Kriterlere İlişkin Yönetmelik" olarak isimlendirilir. 
+l)İRiNCİ KISIM
+Genel Kumllar 
+2. Bu Yönetmelikte metin başka türlü gerektimiedikçe: 
+"BS"_(British. Standards): İngiliz Standartlarını 
+"CEN" (Comite Europeeıı de Normalisation): Avrupa Standardizasyon 
+Komitesini~ 
+"CW A" (CEN Workshop Agreement): CEN Çalıştay Kararını, 
+"DSA" (Digital Signature Algorithm): Sayısal İmza Algoritmasını, 
+"DSA'' Eliptik Eğrisi (DSA Elliptical Curve ): · Sayısal İmza Algoritması 
+- Eliptik Eğrisini, - - 
+"EAL" (Evaluation Assurance Level): Değerlendirme Garan1i Düzeyini, 
+"ETSP (European Telecommunications Standards Institute): Avrupa 
+Telekomünikasyon Standartları Enstitüsünü, -- 
+"ETSI SR" (ETSI Special Report): ETSI Öz.el Raponmu,
+"ETSI TS" (ETSI Technical Specification): ETSI Teknik Özelliklerini, 
+"FIPS PUB" (Federal Information Processing Standards Publications):
+Federal Bilgi İşleme Standartları Yayınlarını, 
+"IETF RFC" (lntemet Engineering Task Force Request for Comments): 
+İnternet Mühendisliği Görev Grubu Yorum Talebini.
+"ISO/IEC" (lntemational Organisation for Standardisation / International 
+Electrotechnical Commitee): Uluslararası Standardizasyon 
+Teşkilatı / Uluslararası Elektroteknik Komitesini, 
+"ITU" (lnternational Telecommunication Union): IDuslararası 
+Telekomünikasyon Birliğini, 
+"RIPEMD" (RACE Integrity Primitives Evaluation Message Digest):
+RACE Bütünlük Asli Mesaj Değerlendirme özetini, 
+"RSA ": Rivest-Shamir-Adleman'ı, 
+"SHA" (Secure Hash Algorithm): Güvenli Özet Algoritmasını, 
+"TD.mk": Elektronik İmza Yasasının Uygulanmasına nişkin Usul ve 
+Esaslar Tüzüğü'nü anlatır. 
+Bu Yönetmelikte yer almayan tanımlar için Elektronik İmza Yasası'nda 
+ve Tüzükte yer alan tanımlar geçerlidir. 
+3. Bu Yönetmeliğin amacı, elektronik i.mz.aya ilişkin süreçleri ve teknik
+kriterleri detaylı olarak belirlemektir.
+4. Bu Yönetmelik; nitelikli elektronik sertifika başvurusu, sertifikanın 
+oluşturulması, yayımlanması, yenilenmesi, iptali ve arşivleme süreçleri 
+dahil olmak üzere ESHS'nin işleyişine, imza oluşturma ve doğrulama 
+[SAYFA 20]
+ESHS'nin İşleyişi 
+Algoritmalar ye 
+Para metreler
+Sertifika İlkeleri ve
+Sertifika Uygulama 
+Esasları 
+Gü,·cnli Elektronik 
+İmza Oluşturma ve 
+Doğrulama 
+Araçları 
+Güvenlik Kriterleri
+Zaman Damgası ve 
+Hizmetleri
+2306 
+.: ..
+verilerine, serti.fiμ ilkeleffl:le ve sertifika uygulama esaslarına, imza, 
+oluştu.rnıa ve doğrulama araclaj'ınaz ESHStnin faaliyetleri için kullandığı 
+sistem, cihaz ile fiziki güvenliğine, personeline, zaman damgasına ve
+hizmetlerine ilişkin teknik husustan kapsar. 
+İKİNCİ KJSI M
+Teknik Hususlar
+5. {l )ESHS işleyişinin bütün aşamalarında, 
+A) ETSI TS 1 Ol 456 ve 
+B) CWA 14167-1 
+standartlarına uyar.
+{2)Nitelikli Elektronik Sertifikalar;
+A)ETSITS 101862 ve· 
+B)ITU-TRec. X.509V.3'e
+uygun olarak oJuşturulur. 
+6. İmza oluştunna ve doğrulama verileri ile özetleme algoritma.lan, ETSI TS 1 0Z 
+176-1 standardına ve aşağıda yeralan şartlara uygun olmalıdır. 
+(l) İmza sahibinin imza oluşturma ve doğrulama verileri
+A) RSA için en az 1024 bit veya
+B) DSA için en az 1024 bit veya 
+. G) DSA Eliptik Eğrisi için en az .163 bit
+(2} ESHS'nin imza oluşturma ve doğrulama verileri
+A) RSA için en az 2048 bit veya
+B) DSA için en az 2048 bit veya
+C) DSA Eliptik Eğrisi için en az 256 bit
+(3) Özetleme Algoritması 
+A) RJPE MD-160 veya 
+B)SHA- 1 veya 
+C) SHA- 224 veya
+D) SHA - 256 veya
+E)WHIRLPOOL
+7. ESHS, sertifika ilkelerini ve sertifika uygulama esaslarını IETF RFC 3647'ye
+uygun olarak hazırlar. 
+8. Güvenli Elektronik İmz.a oluşturma araçları CW A 14169 standardına uygun ve
+TS ISO/IEC 15408 (-l,-2,-3)'e veya ISO/IEC 15408 (-l,-2,-3)'e gore en az 
+EAIA+ seviyesinde olmalıdır. 
+ESHS, .. sağlamış olduğu güvenli elektronilc sertifika doğrulama araçları için 
+CWA 14171 standardına uyar ve bunu taahhüt~- 
+9. ESHS, güvenlik kriterlerine ilişkin olarak;
+(1) CWA 14167-1
+(2) ETSI TS 101 456 ve
+(3) TS ISO/IEC 17799 veya ISO/IEC 17799 
+standartlarına uyar.
+10. ESHS, zaman damgası ve hizmetlerine ilişikn olarak;
+(1) CWA 14167-1 ve
+(2) ETSI TS 101 861
+standartlanna uyar. 
+Zaman damgası ilkeleri ve zaman damgası uygulama esasları ETSI TS 102
+023 'e uygun olarak hazırlanır. 
+[SAYFA 21]
+· Mobil Elektronik
+imza 
+Belgeler 
+Geçici Madde
+Yürütme Yetkisi 
+Yürürlüğe Giriş 
+2307 
+11. ESHS 'ler, mobil elektronik imza hizmetlerinde;
+(1) dolaşım ile ilgili olarak ETSI TS 102 207 standardına ve
+(2) nitelikli elektronik sertifika başvuru~ oluşturulması, yayınlanması ve
+yenilenmesi süreçleri ile ilgili olarak ETSI TS 102 204 standardına uyar
+ve bu standartlara uygunluğunu gösteren taahhütnamelerini 
+Kuruma sunar.
+12.ESHS;
+(1) TS ISO/IBC 27001 veyaISO/IEC 27001 standardına uygunluğunu, 
+(2) Güvenli elektronik imza oluşturma araçlarının 
+A) FIPS PUB 140-2'ye göre seviye 3 veya üzerinde olduğunu veya
+B) CWA 14167-2'de belirtilen kriteriere uygunluğunu veya
+C) CWA 14169 standardına uygun ve TS 18O/IEC 15408 (-l,-2,-3)'e veya .. 
+ISO/IEC.15408 (-1,-2,-3)'e göre en az EAL4+ seviyesinde olduğunu, 
+yetkili kurum, veya kuruluşlardan alınan belgelerle belgelendirir.
+ÜÇÜNCÜ KISIM 
+Geçici Kurallar
+"Algoritmalar ve Parametreler'' başlıklı 6'ncı maddedeki koşullar 31.12.2009 
+tarlh,n~ kadar geçerlidir.
+DÖRDÜNCÜ KISIM 
+Son Kurallar 
+13. Bu Yönetmelik, Telekomünikasyon Üst Kurulu Başkanı tarafından yürütülür. 
+14. Bu Yönetmelik, Resmi Gazetede yayımlandığı tarihten başlayarak yürürlüğe 
+girer. 
+[SAYFA 22]
+Sayı: 944
+2308 
+1962 ZORLA MAL IKTISABI YASASI
+(15/1962 Sayılı Yasa)
+Madde 4 Gereğince Kamulaştırma ihbarı 
+Bu ihbardaki cetvelde tarif edilen taşınmaz malların, Kuzey Kıbrıs Türk
+Cumhuriyeti'nin idamesi, emniyet ve güvenliğinin sağlanması için gerekli 
+olduğundan kamulaştırılması gerektiği ihbar edilir.
+Sözkonusu taşınmaz mal üzerinde herhangi bir hak veya yarar talep
+eden ve teklif edilen kamulaştırmaya itiraz eden herhangi bir kişinin, bu 
+ihbarın Resmi Gazete'de yayımlandığı tarihten başlayarak onbeş gün içinde 
+içişleri Bakanlığı'na hak veya yararının tafsilatını ve bunun delillerini ve 
+itirazını destekleyen tam nedenlerini bildirmesi istenir.
+-CETVEL- 
+Mağusa kazasına bağlı Ulukışla Köyünde kain olup özel mülkiyette bulunan
+Pafta/Harita XXll/15, parsel: 407,406 ve 403/1 sayılı parsellerin bir kısmından
+oluşan ve içişleri Bakanlığı Müsteşarı tarafından imzalanan 12.12.2008 tarihli
+plan üzerindeki boyanmış alan içinde kalan ve tafsilatlı şekilde görülen 
+taşınmaz malların kapsadığı alanın tümü.
+Plan, ilgili kişiler tarafından Lefkoşa'da içişleri Bakanlığında tetkik
+edilebilir. (M'sa D-1035/08)
+MÜLKiYET CETVELi
+Kasaba/Köy Pafta/Plan Parsel Alan Kayıtlı Mal Sahibi
+D-Ev-Ak Hisse 
+·uıukışla XXll/15 407 2-2-0 Rifat Şah 
+" " 406 5-2-0 il 
+" " 403/1 7-2-0 " 
+[SAYFA 23]
+Sayı: 945 
+Yurt İçi Fuar Düzenleme Tüzüğü 16(5) Maddesi Gereği Aşağıdaki "2009 Yılı Yurt İçi Fuar Takvimini" Yayımlar 
+s. Fuar Adı FUARIN Düzenleyici Firma Adı 
+No. Baş. Tarihi BitişTafihi Süresi Türü SabQITanıbm Yeli 
+1 3. Düğün ve Evlilik Fuarı'09 15 Ocak 18 Ocak 4 1 t Fuar Alanı Fairex Fuarcılık Şti. Ltd. 
+2 2. Auta Show ve Yan Ürünleri Fuarı'09 26 Mart 29 Mart 4 1 t Fuar Alanı Fairex Fuarcılık Sti. Ltd.
+3 5. inşaat ve Yapı Malzemeleri .;. Mobilya Fuarı / .. 
+5. Elektrik - Elektronik ve Bevaz Eşya Fuarı 2009 2 Nisan 5 Nisan 4aün 1 t Fuar Alanı Fairex Fuarcılık Sti. ltd.
+4 5. Unifex Tüketici Fuarı. 10 Nisan :19Nisan 10 Qün T s Fuar Alam Unifex Fuarcılık Org. ltd.
+5 33; KKTC.Uluslararası Fuarı. 5 Haziran 14 Haziran 10gün G t Fuar Alanı Sanavi Dairesi Müdürlüğü 
+6 3. Tarım. Hawancılık. Süt Ürünleri ve Is Makineleri Fuarı 1 Ekim 4Ekim 4gün i t Fuar Alanı Unifex Fuarcılık Om. ltd.
+7 Kuzey Kıbrıs Turizm ve Seyahat Fuarı'09. 17 Aralık 20Aralık 4gün 1 t Fuar Alanı Fairex Fuarcılık Şti. Ltd. 
+Kısaltmalar : T Tüketici Fuarı 
+G Genel Amaçlı Fuar 
+1 ihtisas Fuarı 
+s Satış Fuarı 
+t Tanıtım Fuarı 
+N 
+u.> 
+o 
+\O 
+[SAYFA 24]
+2310 
+Sayı: 946
+KKTC MERKEZ BANKASI 
+YÖNETİM KURULU KARARI 
+Toplantıya Katılanlar: 
+l. Ahmet Tugay (Yönetim Kurulu Başkanı) 
+2. Rifat Günay (Üye)
+3. Vargın Varer (Qye) 
+4. Erdal GUryay (Uye)
+5. Boğaç Sandallı (Başkan Yardımcısı) 
+6. Zeki Erkut (Başkan Yardımcısı) 
+Karar Tarihi: l 9 Aralık 2008
+Karar Sayısı: 682
+KKTC Merkez Bankası Yönetim Kurulu, 41/2001 Sayılı KKTC Merkez Bankası
+Yasası'nın 11(1) maddesi uyarınca, 
+l) KKTC Merkez Bankası nezdindeki özel ve tüzel kişiler ile bankaların faize tabi
+Türk Parası ve yabancı para mevduat hesaplarına, vadelerine bakılmaksızın aşağıdaki 
+faiz oranlarının uygulanmasına, 
+Yeni Türk Lirası 
+%14,50
+Amerikan Doları 
+%0,05 % 1,25 
+İngiliz Sterlini
+% 1,00
+2) 16 Aralık 2008 Tarih ve 217 Sayılı Resmi Gazete'de yayımlanan 27 Kasım 2008
+Tarih ve 679 Sayılı Karar'ın yürürlükten kaldırılmasına, 
+3) Bu Kararın 22 Aralık 2008 tarihinden itibaren yürürlüğe girmesine,
+Karar vermiştir. 
+oJ.4- . Jil - ~ 
+Ah::T:;ov - 
+Başkan 
+~~ Üye 
+[SAYFA 25]
+2311 
+Sayı: 947
+KKTC l\ılERKEZ BANKASI 
+YÖNETİM KURULU KARARI 
+Toplantıya Katılanlar: 
+L Ahmet Tugay (Yönetim Kurulu Başkanı) 
+2. Rifat Günay (Üye)
+3. Vargın Varer (Üye)
+4. Erdal Güryay (Üye) 
+5. Boğaç Sandallı (Başkan Yardımcısı) 
+6. Zeki Erkut (Başkan Yardımcısı) 
+Karar Tarihi: 19 Aralık 2008
+Karar Sayısı: 683
+KKTC Merkez Bankası Yönetim Kurulu, 41/2001 Sayılı KKTC Merkez Bankası
+Yasası'nın 11(1) ve 23(3) maddeleri uyarınca; · 
+1) KKTC Merkez Bankası nezdindeki Türk Parası ve yabancı para yasal karşılık hesaplarına
+aşağıdaki faiz oranlarının uygulanmasına, 
+Yeni Türk Lirası 
+%9,75
+Amerikan Dolan
+%0,00
+Euro
+%0,75 
+İngiliz Sterlini
+%0,50
+2) 16 Aralık 2008 Tarih ve 217 Sayılı Resmi Gazete' de yayımlanan 27 Kasım 2008 Tarih ve
+680 Sayılı Karar'ın yürürlükten kaldırılmasına, 
+3) Bu Kararın 22 Aralık 2008 tarihinden itibaren yürürlüğe girmesine,
+Karar vermiştir. 
+Q.~ 
+Ahmet Tugay 
+Başkan 
+~~ Üye 
+[SAYFA 26]
+Sayı: 948 
+-cıParıı T.TUrfıtUrıııı Tıııanc:ıParıı 
+atmE _,,.. H-lar "9aplar 
+rtanYTL Toplamı YTL ToDtamım 
+1 RQHltB llE~!;BY;R 
+ALTIN 818.402,00 
+KASA 127.171,00 28.513.040,00 
+MeNKIJt;.DE~ERLER CÜZDAN! 599.092.0ZO,OO 14.579.784,00 
+BANKALAR HEZDINDEJ<I MEIIIIUA 190.351.342,00 541.1195.235,00 
+HARiÇTEKi MUHABiRLER 26.7111.164,00 
+1 KREDk.ER 
+AVANS HE$APLARI 67.051.170,00 4.338.407,00 
+•HazJneyekısavadelllMIIIS 
+lr Haz.Kef.Halz.Bon.Ou,.._ 
+o, Tasamıf Mll'ldualı Sigorta Fonu 
+d• Tic.Bank.Ara.Av.Geı.snı. .338.407,00 
+~ DUMl!I ~&Bl&B 
+GAYRINIEHKIJLL!R 534.739,00 
+( • 1 Anıoı11smanlar -419,00 
+DEMiRBAŞ VE GAYRIMADOI HAKl 1.427. 1'8,00 
+C•IAnıoıtlıımınlar •512.C05,00 
+1..Ial11eRKI ~CAKlAR ( Ne
+o 3.59'-441,00 
+Taklııtektalacaklar c64o.oıo,oo 
+Tsıcıı-J Alacalılar KıqılıQı (·) 1.051.577,00 
+,. 
+il MUVAKKAT SQRÇI.Ul.AR 51.580,00 
+11 plCER AKTiFLER 54,734.884,00 41.202.617,00 
+........ 908.857.030,00 661.523.070,00
+K.K.T.C.MERKEZ BANKASI 
+15.12.200~_ TAR(HLI VBIYET 
+Genel Toplam YTL .eMIE 
+l.aIHl!fDI!!! 1 QZKAVNAKLAR 
+SERMAYE 
+IHTITATUIR 
+KARUILIKLAR 
+II~~l!SAYNAKLAR 
+KAMU MEVDUATI 
+MEVDUAT 
+ı.t.mdlL!!! a)Bıınltalıırmevduab 
+b} Mev.Munz.Kar. 
+c)OIGerMıMl~at 
+dlBlolte~ 
+f! I Şahıs Movdualı 
+FONLAR 
+a)Meıl<ezBanl<Mıfonan 
+ı.ın.w..w b I Hııılne19 alt fonlar 
+c) oıaerFonlar 
+1 MUV~T~ll.m 
+~ 
+..! pıt;ER PASiFLER 
+ıı.m.m 
+u.mJDl.R! 
+1.570,380.100-00 
+T.TUrkllfası 
+Hıı,ıaplatTııtan 
+YlL 
+462.088.764,00 
+300.839.064,00 
+383.515,00 
+172.600,00 
+711.539,00 
+~8.546.015,00 
+TOPLAM ......... 
+Yabancı Para T.TUrfıtUr- 
+Heıaplar Tıılan "'91plar Toplaını 
+YTI. YTL 
+20.000.000,00 
+54.451 .1124,00 
+34.945.183,00 
+3.773.543,00 
+TG3.271.343,00 
+3119.700.514,00 
+226.299.029,00 
+617.414,00 
+27 .430.154,00 
+77.481,00 
+:S0.037.092,00 
+2.379,00 
+58.303.1150.00 
+1182.177.27600 
+YabancıPıın 
+HeaııııtarToplam 
+YTL 
+41.435.887,00
+538.617.017,00 
+30.114.553,00 
+421,00
+35.168,00 
+808.202.624,00 
+Genel Toplam YTL 
+~ 
+ı "12..84.t.aIZ gg 
+z.wm.gıı
+am.ın.mı 
+1.570.380.100 00 
+N 
+w 
+..... 
+N 
+[SAYFA 27]
+Sayı: 949
+2313
+K.K.T.C. MERKEZ BANKASI İDARE MERKEZİNDEN DUYURU
+DUYURU NO : 2008 / 0238
+38/97 Sayıh Para ve Kambiyo Yasası 'nın 10. Maddesinin (1) fıkrası gere~ince Resmi İşlemlerde esas alınacak 
+17 ARALIK 2008 tarihli günlük Resmi kurlar aşa~ıdaki şekilde tesbit ve ilan ·olunur. 
+DÖV ! Z EFEKTİF 
+RE S M İ K U R (YTL. Olarak) (YTL. Olarak) 
+DÖVİZİN CİNSİ ALIŞ SATIŞ ALIŞ SATIŞ 
+1 AMERİKAN DOLARI 1.5591 1 .5666 1.5580 1.5689
+1 AVUSTURAL YA DOLARI 1.04340 1.05020 1.03860 1.05650
+1 DANİMARKA KRONU 0.28616 0.28757 0.28596 0.28823
+1 EURO 2.1323 2 .1426 2.1308 2.1458
+l İNGİLİZ STERLİNİ 2.3789 2.3913 2.3772 2.3949
+1 İSVİÇRE FRANGI 1.34770 1.35640 1.34570 1.35840
+1 İSVEÇ KRONU 0.19286 0.19487 0.19272 0.19532
+1 KANADA DOLARI 1.2646 l.2703 1.2599 1.2751
+1 KUVEYT DİNARI 5,6288 5. 7029 5.5444 5.7884
+1 NORVEÇ KRONU 0.22426 0.22577 0.22410 0.22629
+1 SUUDİ ARABİSTAN RİYALİ 0,41683 0,41758 0.41370 0.42071
+100 JAPON YENİ 1.7270 1.7385 1.7206 1.7451
+1 SURİYE LİRASI 0.02649 0.03974
+1 ÜRDÜN DİNARI 2 ,0668 2.3306
+l YENİ İSRAİL ŞEKELİ 0,39652 0.41685
+100 1RAN RİYALİ O, 01258 0.01887
+ÇAPRAZ KlJRLAR
+1 AMERİKAN DOLARI = 1 ,4917 AVUSTURAL YA DOLARI
+1 AMERİKAN DOLARI ~ 
+5.4477 DANİMARKA KRONU
+1 AMERİKAN DOLARI = 8.0392 İSVEÇ KRONU
+1 AMERİKAN OCLARI = l .1550 İSVİÇRE FRANGI
+1 A."1ER!KP.N OOLAl'U = 90.1100 JAPON YENİ 
+1 AMERİKAN DOLARI = 1,2333 KANADA DOLARI
+1 AMERİKAN DOLARI = 6. 9389 NORVEÇ KRONU
+1 AMERİKAN DOLARI - 3.7516 SUUDİ ARABİSTAN RİYALİ 
+1 KUVEYT DINARI = 3.6403 AMERİKAN DOLARI
+1 İNGİLİZ STERLİNİ - 1.5264 AMERİKAN DOLARI
+1 EURO C, 1.3677 AMERİKAN DOLARI
+EURO DÖNÜŞÜM KURLARI
+1 EURO = 1 ,95583 ALMAN MARKI 
+1 EURO - 40,3399 BELÇİKA FRANGI
+1 EURO = 40.3399 LÜKSEMBURG FRANGI 
+f EURO = 166.386 İSPANYOL PEZETASI
+1 EURO - 6.55957 FRANSIZ FRANGI
+l EURO = O. 787564 İRLANDA LİRASI 
+1 EURO - 1936.27 İTALYAN LİRET! 
+1 EURO = 2.20371 HOLLANDA FLORİN! 
+1 EURO - 13. 7603 AVUSTURYA ŞİLİNİ 
+1 EURO - 200.482 PORTEKİZ ESKÜDOS~ 
+1 EURO - 5.94573 Fİ tl. MARKASI
+1 EURO - 340. 750 YUNAN DRAHMİSİ 
+1 EURO - 0.585274 KIBRIS LİRASI 
+ALTIN SATIŞ FİYATI 
+1 Gram • 28.00630 ABD Doları 
+[SAYFA 28]
+Sayı: 950
+2314
+K. K. T. C. MERKEZ BANKASI İDARE MERKEZİNDEN DUYURU
+DUYURU NO : 2008 / 0239
+38/97 Sayılı Para ve Kaı:biyo Yasası 'nın 10. Maddes1n1n (1) fıkrası ger~ince Resmi işlemlerde esas alınacak 
+18 ARALIK 2008 tarihli günlük Resmi kurlar aşağıdaki şekilde tesbit ve ilan olunur.
+D Ö V i Z EFEKTİF 
+RE S M 1 KUR (YTL. Olarak) (YTL. Olarak) 
+DÖVİZİN CİNSİ ALIŞ SATIŞ ALIŞ SATIŞ 
+1 AMERİKAN DOLA~! 1.5363 1.5437 1.5352 1,5460
+l AVUSTURALYA DOLARI 1.06210 1.06900 1.05720 1.07540
+1 DAN! MARKA KRONU 0.29067 0,29210 0,29047 0,29277
+1 EURO 2.1667 2.1772 2.1652 2.1805
+1 !NG!LIZ STERLİN! 2.3692 2.3816 2,3675 2.3852 
+1 İSVİÇRE FRANGI 1.37880 1.38770 1.37670 1.38980
+1 1SVEÇ KRONU 0.19542 0.19745 0.19528 0.19790
+1 KANADA DOLARI 1,2728 1,2786 1.2681 1.2835
+1 KUVEYT DİNARI 5.5607 5.6339 5,4773 5,7184
+1 NORVEÇ KRONU 0.22723 0.22876 0.22707 0.22929
+1 suuoı ARABİSTAN RİYAL! 0,41074 0.41148 O ,40766 0.41457 
+100 JAPON YENİ 1, 7328 1.7443 1,7264 1.7509
+1 SURİYE LİRASI 0.02610 0.03915
+1 ÜRDÜN DİNARI 2.0362 2,2962
+1 YENİ İSRAİL ŞEKELİ 0.39929 0.41977 
+l • D IRAN R!YALi 0,01240 0.01860
+ÇAPRAZ KURLAR
+1 AMERİKAN DOLARI 1,4441 AVUSTURAL YA DOLAR l
+1 A"IERİKAN DOLARI 5.2848 DANİMARKA KRONU
+1 AMERİKAN DOLARI 7 .8182 İSVEÇ KRONU
+1 A"IERİKAN DOLARI 1.1124 tsvtÇRE FRANGI
+1 !\MERİ KAN DOL/ıRI 88,5000 JAPON YENİ 
+1 AMERİKAN DOLARI 1.2073 KANADA DOLARI
+1 AMERİKAN DOLARI 6,7481 NORVEÇ KRONU
+1 AMERİKAN DOLAR! 3.7516 SUUD! ARABİSTAN RİYALİ 
+1 KUVEYT DİNARI 3.6496 AMERİKAN DOLARI
+1 İNGİLİZ STERLİNİ 1.5428 AMERİKAN DOLARI
+1 EURO 1.4104 AMER1KAN DOLARI
+EURO DÖNÜŞÜM KURLARI
+1 EURO 1.95583 ALMAN MARKI
+1 EURO 40.3399 BELÇİKA FRANGI
+1 EURO 40.3399 LÜKSEMBURG FRANGI
+1 EURO 166.386 f SPANYOL PEZETASI
+1 EURO 6.55957 FRANSIZ FRANGI
+1 EURO 0.787564 İRLANDA LİRASI 
+EURO 1936,27 !TALYAN LİRETİ 
+I EURO 2.20371 HOLLANDA FLORİNİ 
+1 EUR.0 13.7603 AVUSTURYA ŞİLİNİ 
+1 EURO 200.482 PORTEKİZ ESKÜDOSU
+1 EURO 5.94573 FİN MARKASI
+1 EURO 340,750 YUNAN DRAHMİ Sİ 
+EURO 0.5B5274 KIBRIS LİRASI 
+ALTIN SATIŞ FİYATI 
+1 Gram= 29.11470 ABD Doları 
+[SAYFA 29]
+Sayı : 951
+2315 
+K.K.T.C. MERKEZ BANKASI İDARE MERKEZİNDEN DUYURU
+DUYURU NO : 2008 / 0240 
+38/97 Sayılı Para ve Kambiyo Yasası 'mn 10. Maddesinin (1) fıkrası geregince Resmi işlemlerde esas alınacak 
+19 ARALIK 2008 tarihli günlük Resmi kurlar aşagıdaki şekilde tesbit ve ilan olunur. 
+RESMİ KUR 
+00V1Z1N CİNSİ 
+1 AMERİKAN DOLARI 
+1 AVUSTURAL YA DOLARI 
+1 DANİMARKA KRONU
+1 EURO 
+1 İNGİLİZ STERLİN! 
+1 İSVİÇRE FRANGI
+1 İSVEÇ KRONU 
+1 KANADA DOLARI 
+1 KUVEYT DiNARI
+1 NORVEÇ KRONU 
+1 SUUDİ ARABİSTAN RİYALİ 
+100 JAPON YENİ 
+1 SURİYE LİRASI 
+1 ÜRDÜN DİNARI 
+1 YENİ lSRAİL ŞEKELİ 
+100 f RAN RİYALİ 
+ÇAPRAZ KURLAR 
+1 AMERİKAN DOLARI
+1 AMERİKAN DOLARI
+1 AMERİKAN DOLARI 
+1 AMERİKAN DOLARI 
+1 AMERİKAN DOLAR!
+1 AMERİl<AN DOLARI 
+1 AMER!KAt~ ilOLMI 
+1 AMERİKAN DOLARI 
+1 KUVEYT DİNARI 
+1 İNGİLİZ STERLİNİ 
+1 EURO
+EURO DÖNÜŞÜM KURLARI 
+1 EURO
+1 EURO 
+1 EURO 
+1 EURO
+1 EURO 
+1 EURO 
+1 EURO 
+1 EURO 
+1 EURO
+ALTIN SATIŞ FİYATI 
+EURO 
+EURO
+EURO
+EURO 
+D Ô V t Z
+(YTL. Olarak) 
+ALIŞ SATIŞ 
+1.5114 
+1,06690
+0,29529
+2,2003 
+2.3324
+1.42950 
+0.19725
+1.2714
+5.4767
+0.22542
+0,40407
+1. 7066
+1.5187
+1,07390 
+0,29674 
+2.2109
+2.3446
+1.43870
+0.19930
+1.2771
+5.5488
+0.22694
+0.40480
+1.7179
+1.4142
+5.1179
+7 ,6202
+1 ,0556 
+88.4000 
+1.1892
+6,6921
+3, 7517
+3,6537
+1.5438
+1.4558
+1 ,95583
+40.3399 
+40,3399 
+166.386
+6,55957
+0.787564
+1936,27
+2,20371
+13.7603
+200,482
+5,94573 
+340,750 
+O .585274
+1 t::ram .- 29. 09160 ABD Do 1 arı
+EFEKTİF 
+(YTL. Olarak) 
+ALIŞ SATIŞ 
+1.5103
+1.06200
+0.29508
+2.1988 
+2.3308 
+1 ,42740 
+0.19711 
+1.2667
+5,3945
+0,22526
+0.40104
+1 .7003
+0.02579
+2,0038
+0,40019
+0.01219
+AVUSTURAL YA DOLARI 
+DANİMARKA KRONU 
+İSVEÇ KRONU 
+İSVİÇRE FRANGI 
+JAPON YENİ 
+KANADA DOLARI
+NORVEÇ KRONU 
+1.5210
+1,08030
+0.29742
+2.2142
+2.3481
+1.44090
+0.19976
+1.2820
+5.6320
+0,22746
+0.40784
+1. 7244
+0,03868
+2.2596 
+0.42071 
+0.01829 
+suuot ARABİSTAN RİYALİ 
+AMERİKAN DOLARI 
+AMERİKAN DOLARI 
+AMERİKAN DOLARI 
+ALMAN MARKI 
+BELÇİKA FRANGI
+LÜKSEMBURG FRANGI 
+ISPANYOL PEZETASI
+FRANSIZ FRANGI 
+İRLANDA LİRASI
+İTALYAN LİRETİ 
+HOLLANDA FLORİNİ 
+AVUSTURYA ŞİLİNİ
+PORTEKİZ ESKÜOOSU 
+FlN MARKASI 
+YUNAN DRAHMİSİ 
+KIBRIS LİRASI 
+[SAYFA 30]
+Sayı: 952
+2316 
+K.K,T.C. MERKEZ BANKASI 1DARE MERKEZİNDEN DUYURU
+DUYURU NO : 2008 / 0241
+38/97 Sayılı Para ve Kambiyo Yasası 'mn 10. Maddesinin (1) fıkrası ger~ince Resmi tşlemlerde esas alınacak 
+20.21.22 ARALIK 2008 tarihli günluk Resmi kurlar aşa~ıdaki şekilde tesbit ve 11an olunur. 
+RESMİ KUR 
+DôV1ZtN CİNSİ 
+1 AMERİKAN DOLARI
+l AVUSTURALYA DOLARI
+1 DANİMARKA KRONU
+1 EURO 
+1 İNGİLİZ STERL!Nt 
+1 İSV!ÇRE FRANGI
+1 lSVEÇ KRONU 
+1 KANADA DOLARI
+1 KUVEYT DiNAR!
+l NORVEÇ KRONU
+1 SUUDİ ARABİSTAN RİYALİ 
+100 JAPON YENİ 
+1 SURİYE LİRASI 
+1 ÜRDÜN DİNARI 
+1 YENİ lSRAİL ŞEKELİ 
+100 lRI\N RİYALİ 
+ÇAPRAZ KURLAR
+1 AMERİKAN DOLARI
+1 AMERİKAN DOLARI 
+1 AMERİKAı'4 DOLARI
+1 AMERİKAN DOLARI
+1 AMERİKAN DOLARI 
+1 AMERİKAN DOLARI 
+1 AMERİKAN DOLARI
+1 AMERİKAN DOLARI
+1 KUVEYT DİNARI 
+1 lNG!LİZ STERLİNİ 
+1 EURO
+EURO DÖNÜŞÜM KURLARI
+1 EURO
+1 EURO
+1 EURO
+1 EURO
+1 EURO
+1 EURO
+1 EURO
+1 EURO
+1 EURO
+1 EURO
+1 EURO
+1 EURO
+EURO
+ALTIN SATIŞ FİYATI 
+1 Gram = 28.07350 
+O Ö V İ Z 
+(YTL. Olarak) 
+ALIŞ SATIŞ 
+1,5084
+1.03080
+0.28449
+2.1198
+2,2642
+1.37100
+0.19284
+1.2298
+5.4479
+0.21546
+0,40328
+1.6926
+ABD Doları 
+1.5157
+1.03750
+0,28589
+2.1300
+2 .2760
+1.37980
+0.19485
+1.2354
+5.5197
+0.21691
+0,40401
+1. 7038
+1.4609
+5,3017
+7.7788
+1.0985
+88.9600
+1.2269
+6,9877
+3. 7516
+3.6417
+1. 5016
+1.4053
+1.95583
+40.3399
+40,3399
+166.386
+6.55957
+0.787564
+1936.27
+2.20371
+13.7603
+200.482
+5,94573
+340,750
+0.585274 
+EFEKTİF 
+(YTL. Olarak) 
+ALIŞ SATIŞ 
+1.5073 
+1. 02610
+0,28429
+2.1183
+2,2626
+1.36890
+0, 19271
+1.2252
+5.3662
+O .21531
+0,40026
+1.6863
+0,02563
+1.9992
+0,39214
+0,01216
+AVUSTURALYA DOLARI 
+DANİMARKA KRONU 
+İSVEÇ KRONU 
+İSVİÇRE FRANGI
+JAPON YENl
+KANADA DOLARI
+NORVEÇ KRONU
+1.5180
+1.04370
+0.28655
+2.1332
+2.2794
+1.38190
+0.19530
+1,2401
+5.6025
+0,21741
+0.40704
+1.7103
+0.03844
+2.2545
+0,41225
+O, 01824 
+SUUDİ ARABiSTAN RİYALİ 
+AMERİKAN DOLARI 
+AMERİKAN DOLARI 
+AMERİKAN DOLARI
+ALMAN MARKI 
+BELÇİKA FRANGI
+LÜKSEMBURG FRANGI
+lSPANYOL PEZETASI
+FRANSIZ FRANGI 
+İRLANDA LİRASI
+İTALYAN LİRETİ 
+HOLLANDA FLORİNİ 
+AVUSTURYA ŞİLİNİ 
+PORTEKİZ ESKÜDOSU 
+F1N MARKASI
+YUNAN DRAHMİSİ 
+KIBRIS LİRASI 
+[SAYFA 31]
+Sayı: 954 
+2318 
+K .K. T. C. MERKEZ BANKASI t DARE MERKEZİNDEN DUYURU
+DUYURU NO : 2008 / 0243
+38/97 Sayılı Para ve Kambiyo Yasası ·nın 10. Maddesinin (1) fıkrası gereğince Resmi İşlemlerde esas alınacak 
+24 ARALIK 2008 tarihli gOnlOk Resmi kurlar aşa~ıdaki şekilde tesbit ve ilan olunur.
+O Ö V 1 Z EFEKTİF 
+RE S M 1 KUR (YTL. Olarak) (YTL. Olarak) 
+DôV1Z1N ClNSt ALIŞ SATIŞ ALIŞ SATIŞ 
+1 AMERİKAN DOLARI 1.5152 1.5225 1.5141 1.5248
+1 AVUSTURALYA DOLARI 1.03350 1.04030 1.02870 1.04650
+1 DANİMARKA KRONU 0.28423 0.28563 0.28403 0,28629
+1 EURO 2.1193 2.1295 2.1178 2.1327
+1 İNGİLİZ STERLİNİ 2.2431 2.2548 2.2415 2.2582
+1 iSVİÇRE FRANGI 1.38900 1.39790 1.38690 1,40000
+l 1 SVEÇ KRONU 0,19225 0.19425 0.19212 0.19470
+l KANADA DOLARI 1,2420 1 .2476 1.2374 1 .2523
+1 KUVEIT DİNARI 5.4545 5.5263 5.3727 5,6092
+1 NOPVEÇ KRONU 0.21570 0.21715 0.21555 0.21765
+1 SUUDİ f.ıRAil!STAN R!'f AU 0.40502 O ,40575 0,40198 0.40879
+100 JAPON YENİ 1.6783 1.6895 1,6721 1.6959
+1 51.JRİ'iE LlRASI 0.02585 0,03878
+1 ÜRDDN DİNARI 2.0091 2.2656
+1 YENİ İSRA1L ŞEKELİ 0.38471 0.40444
+100 İRAN RİYALİ 0.01234 0.01851 
+ÇAPRAZ KURLAR 
+l AMERİKAN DOLARI 1,4635 AVUSTURALYA DOLARI 
+1 AMERİKAN DOLARI 5.3303 DANİMARKA KRONU
+1 AMERİKAN DOLARI 7 ,8378 tSVEÇ KRONU 
+1 AMERİKAN DOLARI 1.0B91 İSV1ÇRE FRAN.Gl 
+1 AMERİKAN DOLARI 90.1200 JAPON YENİ 
+1 AMERİKAN DOLARI 1,2203 KANADA DOLARI
+1 AMERiKAN DOLARI 7 .0113 NORVEÇ . KRONU
+1 AMERİKAN DOLARI 3.7523 suuoı ARABİSTAN RİYALİ 
+1 KUVEYT DİNARI 3,6297 AMERİKAN DOLARI
+l 1NG1LlZ STERL1Nt 1.4810 AMERİKAN DOLARI
+l EURO 1.3987 AMERİKAN DOLARI 
+EURO DÖNÜŞÜM KURl.Aı'U 
+1 EURO 1.95583 ALMAN MARKI
+1 EURO 40.3399 BELÇİKA FRANGI 
+l Elı'RO 40.3399 LÜKSEMBURG FRANGI 
+1 EURO 166.386 İSPANYOL PEZETASI 
+l EURO 6.55957 FRANSIZ FRANGI 
+l EURO 0.787564 İRLANOA LİRASI 
+l EURO 1936.27 İTALYAN LİRET! 
+l EURO 2.20371 HOLLANDA FLOR!N1 
+1 EURO 13.7603 AVUSTURYA ŞİLİNİ 
+1 EURO 200.482 PORTEKI Z ESKODOSU
+1 EURO 5.94573 FİN MARKASI 
+1 EURO 340.750 YUNAN DRAHM!S1 
+1 EURO 0.585274 KIBRIS LİRASI 
+ALTIN SATIŞ FİYATI 
+l Gram • 28.29180 ABD Doları 
+[SAYFA 32]
+Sayı: 953
+2317 
+K,K.T.C. MERKEZ BANKASI İDARE MERKEZİNDEN DUYURU
+DUYURU NO : 2008 / 0242
+38/97 Sayıh Para ve Kambiyo Yasası'nın 10. Maddesinin (1) fıkrası ger~ince Resmi İ!;ilemlerde esas alınacak 
+23 ARALIK 2008 tarihli günlük Resmi kurlar aşağıdaki şekilde tesbit ve ilan olunur.
+O ÖV 1 Z EFEKTİF 
+RE S M 1 KUR (YTL. Olarak) (YTL. Olarak) 
+oovıztN CİNSİ ALIŞ SATIŞ ALIŞ SATJŞ 
+1 AMERİKAN DOLARI 1,5140 1.5213 1.5129 1.5236 
+1 AVUSTURALYA DOLARI 1,03590 1.04270 1.03110 1,04900 
+1 DANİMARKA KRONU 0,28488 0.28628 0.28468 0.28694
+1 EURO 2,1234 2.1336 2, 1219 2.1368
+1 İNGİLİZ STERLİNİ 2.2451 2.2568 2.2435 2.2602
+1 İ SV İÇRE FRANGI 1.37910 1 ,36800 1.37700 1.39010
+1 İSVEÇ KRONU 0.19400 0.19602 0.19386 0.19647
+1 KANADA DOLARI 1.2506 1,2563 1.2460 1.2611
+1 KUVEYT DİNARI 5.4542 5 ,5260 5.3724 5.6089 
+1 NORVEÇ KRONU 0.21509 0.21654 0.21494 0.21704
+1 suuot ARABİSTAN RİYALİ O ,40478 0.40551 0,40174 0.40B55
+100 JAPON YENİ 1.6820 1 .6932 1,6758 1.6996
+1 SURİYE LİRASI 0,02572 0,03859
+1 ÜRDÜN DİNARI 2.0070 2,2632
+1 YENİ İSRAİL ŞEKEL! 0.38628 0,40609
+100 İRAN RİYALİ 0.01231 0,01846
+ÇAPRAZ KURLAR
+1 M-1ER!KAN ODLARI - 1 ,4590 AVUSTURAL YA DOLARI
+l M-1ERİKAN DOLARI = 5.3140 DANİMARKA KRONU
+1 AMERİKAN ODLARI - 7, 7609 lSVEÇ KRONU
+1 AMERİKAN ODLARI - 1,0960 1SVİÇRE FRANGI•
+1 M-1ER1KAN DOLARI - 89,8500 JAPON YENİ 
+1 AMERİKAN DOLARI - 1.2109 KANADA DOLARI
+1 AMERİKAN DOLARI .. 7 .0255 NORVEÇ KRONU 
+1 AMERİKAN DOLARI - 3. 7516 suuot ARABİSTAN RİYALİ 
+1 KUVEYT DİNARI .. 3,6324 AMERİKAN ODLARI 
+1 İNGtUz STERLİNİ .. 1.4835 AMERİKAN DOLARI
+1 EURO - 1.4025 AMERİKAN DOLARI
+EURO DÖNÜŞÜM KURLARI
+1 EURO - 1.95583 ALMAN MARKI
+1 EURO - 40,3399 BELÇİKA FRANGI 
+EURO = 40.3399 LÜKSEMBURG FRANGI
+1 EURO = 166.386 İSPANYOL PEZETASI 
+1 EURO = 6.55957 FRANSIZ FRANGI 
+1 EURO - 0.787564 İRLANDA LİRASI 
+l EURO - 1936.27 İT AL YAN L1 RET! 
+1 EURO - 2.20371 HOLLANDA FLORİNİ 
+1 EURO .. 13.7603 AVUSTURYA ŞİLİNİ 
+1 EURO - 200.482 PORTEKİZ ESKÜDOSU 
+1 EURO = 5. 94573 FİN MARKASI
+l EURO - 340. 750 YUNAN DRAHMİSİ 
+1 EURO ~ 
+O, 585274 KIBRIS LİRASI 
+ALTIN SATIŞ FiYATI
+1 Gram • 28.375B0 ABD Doları 
+[SAYFA 33]
+Sayı: 223 
+Sayı: 140 
+fr_~\ ~ 
+KUZEY KIBRIS TÜRK CUMHURİYETİ
+RESMİ GAZETE

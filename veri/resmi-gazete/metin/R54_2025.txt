@@ -1,0 +1,234 @@
+Tüzüğü'nün 37'inci Maddesinin kendisine verdiği yetkiyi kullanarak aşağıdaki Tebliği yapar: 
+Kısa İsim 
+Madde-1 
+Bu Tebliğ "Mobil Telefon Hizmetlerinde Uygulanan Hizmet Kalitesi Kriterlerine İlişkin
+Tebliğ" olarak isimlendirilir. 
+Amaç ve Kapsam
+Madde-2 
+Bu Tebliğ, Elektronik Haberleşme Yasası'mn 23'üncü, 24'üncü, 25'inci, 29'uncu, 30'uncu,
+57'nci, 65'ihci Maddeleri uyarınca hazırlanan ve 14.5.2014 tarihli ve R.G 111 ile Resmi
+Gazete'de yayımlanarak yürürlüğe giren Yetkilendinne, Numaralandınna ve Spekttum Tüzüğü
+kapsamındaki mobil telefon hizmetlerinde uygulanan hizmet kalitesi ölçütlerine ilişkin ölçüm 
+sürecine, ölçüm yöntemlerinin belirlenmesine ve bu yöntemlerin uygulanma usullerine,
+hesaplamalarda uygulanacak yöntemlerin belirlenmesine ve raporlanmasına ilişkin usullerinin
+belirlenmesi amacıyla Kurul kararı ile yayımlanmıştır . 
+Tefsir
+Madde-3 
+(1) "Arama Blokaj Oranı", .Kapsama alanı içinde yapılan aramalarda, radyo link,
+transmisyon, anahtarlama gibi sistemlerdeki kaynak yetersizliğinden dolayı bağlantı 
+kurulamayan arama girişimi sayısının toplam arama girişimi sayısına oranını, 
+"Arama Kurulum süresi", Aramanın sağlanması için gerekli adres bilgisinin şebeke
+tarafından alınması ile başlayan ve aranan taraftan meşgul sesi, çalma sesi veya cevap
+sinyalinin alınması ile biten ve saniye cinsinden ölçülen zaman aralığını,
+"Başarısız Arama Oranı", Başarılı olarak kurulan ancak abonenin isteği dışında 
+herhangi bir nedenle sonlanan arama sayısının toplam başarılı arama sayısına oranını, 
+Sayı : 54 
+[SAYFA 5]
+97 
+"En yoğun saat", 24 saat boyunca yapılan ölçümler sonucunda her gün için ayrı olarak
+ve saat başı dikkate alınarak belirlenen, trafik yoğunluğunun en fazla olduğu bir (])
+saati, 
+"Hücre", Bir baz verici istasyonu (BTS) tarafından kapsama alanı içine alınan ve servis
+verilen en küçük coğrafi alanı, 
+"KMH", Kısa mesaj hizmetini (SMS), 
+"KMH Tamamlanma Oranı", Kapsama alanı içerisinde aktif durwuda bulunan
+aboneler arasında üretilen ve uçtan uca KMH teslim silresi içerisinde bir terminal 
+cihazından diğer bir terminal cihazına başarılı bir şekilde iletilen toplam KMH sayısının 
+gönderilen toplam KMB sayısına oranını, 
+"Kurul'', Bilgi Teknolojileri ve Haberleşme Kurumu Yönetim Kurulunu, 
+"Kurum", Bilgi Teknolojileri ve Haberleşme Kurumunu, 
+"Ortalama Kanaat Değeri (MOS)", Uçtan uca ses kalitesi ölçümlerinde kullanılan ve
+ölçüm yöntemi ITU-T P,86x tavsiye kararında tanımlanan ortalama kanaat değerini, 
+"Ölçüm Yöntemi (Ölçüm)", Hizmet kalitesi ölçütlerine ilişkin bilgilerin mobil 
+haberleşme şebekesi üzerinden bilgisayar ve yazılım imkanlarıyla derlerunesi ve analiz
+edilmesi suretiyle elde edilmesini, 
+"Saha Testi", Hizmet kalitesi ölçütlerine ilişkin bilgilerin, mahallinde havadan alınan 
+sinyal üzerinden analiz sistemleri kullanılarak elde edilmesini, 
+"Simülasyon Araçları", Mobil haberleşme sektöründe, radyo frekansı planlan1ası ve
+kapsama analizi amacıyla kullanılan, radyo dalgalarının yayılımını modelleyen yazılım
+araçlarını, 
+"Sinyal-Gürültü Oranı (SNR)", Bir mobil cihazın baz istasyonu ile iletişim kurarken 
+aldığı faydalı sinyal gücünün, çevresel gürültüye oranım , 
+"Uçtan Uca KMH teslim süresi", Kapsama alanı içerisinde aktif durumda bulunan
+aboneler tarafından ilretilen KMH ' nin, kısa mesaj merkezinden aboneye iletildiği ve
+abone tarafından alındı mesajının kısa mesaj merkezine gönderildiği ve saniye cinsinden
+ölçülen süreyi, 
+"Tüzük", Yetkilendirme, Numaralandırma ve Spektrum Tüzüğil'nü , 
+"Yasa", 6/2012 sayılı Elektronik Haberleşme Yasası'nı anlatır, 
+(2) Bu dokümanda geçen ve yukarıda yer almayan tanım ve kısaltmalar için Yasa ve
+Tüzükte yer alan tanım ve kısaltmalar geçerlidir, 
+Saha Testi Ölçümlerinde Kullanılan Güzergah
+Madde-4 
+( 1) Saha testleri, kullanıcıların erişebildiği arayüz ve/veya telsiz frekansları üzerinden yine
+Kurum tarafından ülke içerisinde belirlenecek bir rota üzerinden saha ölçümü olarak 
+gerçekleştirilir. 
+(2) Saha test güzergahları, her yıl Aralık ayı içerisinde takip eden yıl için Kurum tarafından
+işletmecilere bildirilir, 
+[SAYFA 6]
+98 
+(3) Hizmet kalitesi ölçütlerine ilişkin hedef değerlere uyma yükümlülüğü, saha test 
+güzergahları dışında kalan alanlardaki hizmet kalitesi yükümlülüklerine uyma
+hususunda herhangi bir istisna getinnez.
+(4) Kurum tarafından ölçüm güzergahı belirtilmeyen saha testleri, en düşük ve en yüksek 
+trafik yoğunluğu olan alanlar da dahil olmak üzere, saha testi yapılacak bölge
+içerisindeki ti.im ana caddelerin taranması suretiyle yapılır. 
+Ölçüm Yöntemi ve Saha Testlerinin Kapsamı 
+Madde-5 
+( l) Saha testleri, Kurum tarafından ve/veya Kurum tarafından talep edilmesi halinde mobil 
+haberleşme sağlayıcısı tarafından, belirlenmiş saha test güzergahlari kullanılarak ve
+mobil haberleşme şebekesi trafiği üzerinden elde edilir.
+(2) Ölçüm yöntemi ile yapılan ölçümler şebeke sonlandırma noktasından; saha testleri ise
+gerçek haberleşme trafiği üzerinden elde edilir.
+(3) Ölçüm yöntemi ve/veya saha testlerinin Kurum tarafından talep edilmesi ve haberleşme
+sağlayıcısı tarafından yapılması halinde, ölçüm yöntemi ile yapılan ölçümlerin ve/veya
+saha testlerinin tamamlanmasınt takip eden 7 (Yedi) iş günü içerisinde raporlar Kurum' a 
+yazılı olarak bildirilir. 
+Hizmet Kalitesine ilişkin Standartlar
+Madde-6 
+İşletmeci, hizmet kalitesi ölçütlerine ilişkin ölçümler ve saha testleri ile ilgili hususlarda; 
+uluslararası standart ve usullere, ITU tavsiye dokümanJanna ve ETSI standartlarına uymakla
+yükümlüdür. 
+Bildirimler İçin HedcfDeğerlerinin Elde Edilme Yöntemi
+Madde-7 
+Haberleşme sağlayıcı tarafından Kuruma yapılacak hizmet kalitesine bildirim ve raporlarında; 
+arama blokaj oranı, başarısız arama oranı, KMH tamamlanma oranı ve uçtan ucı:ı KMH teslim
+süresi hedef değerleri ölçüm yöntemi ile, MOS, arama kurulum süresi ve veri indirme hızı hedef 
+değerleri ise saha testi ile elde edilir. 
+[SAYFA 7]
+99 
+MOS ve Arama Kurulum Süresi Hedeflerinin Hesaplanması 
+Madde-8 
+MOS ve arama kurulum süresi hedefleri hesaplanırken saha testleri sonucunda elde edilen 
+değerlerin aritmetik ortalaması alınır. Her bir güzergah için bu hedeflerin hesaplanmasında en
+az 100 adet arama gerçekleştirilir. 
+Ölçüm Yönteminde Kullanılan Veriler
+Madde-9 
+Başarısız anıma oranı ve ara.ma blokaj oranı ölçümlerinde; bütün geçerli girişimler üzerinden
+ve her bir hücrenin günlük toplam trafik içindeki en yoğun saatindeki veriler kullanılır. KMH
+tamamlanma oranı ve uçtan uca KMH teslim süresinin elde edilmesinde ise; kısa mesaj
+merkezinde/merkezlerinde en yoğun trafiğin gerçekleştiği saatte elde edilen veriler kullanılır. 
+Ölçüm Yöntemi İle Elde Edilen Hizmet Kalitesi Hedeflerinin Hesaplanması 
+Madde- 10 
+(1) Kurum tarafından belirlenmiş güzergah veya bölge için hizmet veren bütün hücrelerin
+en yoğun saatlerinde elde edilen verilerin toplanması ile bulunan toplam başarısız arama 
+sayısının toplam başarılı arama sayısına oranlanması ile hesaplanan değer, o bölgenin
+ilgili bildirim/raporlaına döneminde ilgili olduğu aya ait başarısız arama oranı olarak 
+alınır. 
+(2) Kurum tarafından belirlenmiş güzergah veya bölge için hizmet veren bütün hücrelerin
+en yoğun saatlerinde elde edilen verilerin toplanması ile bulunan toplam bloke olan
+arama girişimi sayısının toplam arama girişimi sayısına oranlanması ile hesaplanan 
+değer, o bölgenin ilgili bildirim/raporlama döneminde ilgili olduğu aya ait arama blokaj 
+oranı olarak alınır. 
+(3) Ülke geneli başarısız arama oranı; bütün kazalarda ayrı ayrı olmak üzere, bildirim
+döneminin ilgili ayına ait başarısız arama sayısı toplamının başarılı arama sayısı
+toplamına oranlanması ile hesaplanır. 
+(4) Ülke geneli arama blokaj oranı; bütün kazalarda ayrı ayrı olmak üzere, bildirim
+döneminin ilgili ayına ait bağlantı kurulamayan arama girişimi sayısı toplamının arama 
+girişimi sayısı toplamına oranlanması ile hesaplanır. 
+(5) Ülke geneli KMH tamamlanma oranı, bütün kazalarda ayrı ayrı olmak üzere, üretilen
+KMH'ler için bildirim döneminin ilgili ayına ait kısa mesaj merkezinde/merkezlerinde
+kapsama alanı içerisinde aktif durumda bulunan ve m~saj almaya engeli olmayan
+aboneler arasında üretilen ve günlük trafiğin en yoğun olduğu saatte başarılı bir şekilde 
+iletilen KMH sayısı toplamının gönderilen KMH sayısı toplamına oranlanması ile 
+hesaplanır. 
+[SAYFA 8]
+100 
+(6) Ülke geneli uçtan uca KMH teslim süresi, bütün kazalarda ayrı ayrı olmak üzere,
+üretilen KMH'ler için bildirim döneminin ilgili ayına ait kısa mesaj
+merkezinde/merkezlerinde günlük trafiğin en yoğun olduğu saatte uçtan uca en kısa 
+sürede gönderilen% 99' luk KMH'lere ait süreler toplamının söz konusu KMH sayısına
+oranlanması ile hesaplanir. 
+Saha Testlerinin Yapılmasına İlişkin Usuller
+Madde-11 
+(1) Herhangi bir bölgede, yerleşim yerinde, yerleşim yerinin bir bölgesinde veya yerleşim 
+yeri dışında; durağan veya hareket halinde, Kurum tarafından onaylanmış uygun test
+düzenekleri kullanılmak suretiyle, mobil haberleşme sağlayıcıların mobil haberleşme
+şebekesi üzerinden yapacağı saha testlerinde:
+(A)ITU-T E800, ITU-T P.86x ve ETSI standart ve usullerine uygun saha testi 
+yapılabilecek, test verileri ile birlikte test yapılan noktanın coğrafi konumunu ve 
+zamanını kaydedebilecek cihaz ve /veya cihaz setleri kullanılır. 
+(B) Hareket halindeki saha testlerinde, trafik kuralları ve yol koşulları nedeniyle
+aksine bir zorunluluk olmadıkça araç hızı şehir içi için ortalama 30-50 km/saat, 
+şehirler arası yol ölçümlerinde ortalama 65-l 00 km/saat olur.
+(2) Hareketli ölçümkrde çağrı dizini oluşturulurken , hatta bağlandıktan sonra kanalda
+bekleme süresi 60 saniye, iki çağrı girişimi arasındaki süre ise 10 saniye olarak
+düzenlenir.
+(3) Kurum saha testlerinin yapılacağı tarih ve z amanı beUrleyebilir. Kurum tarafından 
+tarih ve zaman belirlenmemesi halinde; trafiğin en yoğun olduğu saatlerde ölçümler 
+yapılır. 
+(4) Kwum re'sen veya şikayet durumunda; hizmet kalitesi hedefleri için saha testi
+yapabilir veya mobil haberl e şme sağlayıcısına yaptırabilir . 
+Veri İndirme Hızı Ölçümüne İlişkin Usul ve Hedefler
+Madde-12 
+(1) Mobil haberleşme sağlayıcıların , SNR değerinin 3 dB v.e üzeri olan alanlarda
+kapsama sağladıkları kabul edilir.
+(2) Kurum tarafından belirlenen bölgelerde ve/veya güzergahlarda ve ayrıca SNR~3 dB 
+koşulunu sağlayan bir sinyal kalitesinin bulunduğu yerlerde, en az kategori 16 ' yı 
+destekleyen bir son kullanıcı cihazı ile, sadece Kurum yönetiminde ve mobil 
+haberle~e ~~;;,cm•;;r~ul:durulakcud~ ~;;;;; , 
+p•;y r~ ~ · J/k 
+[SAYFA 9]
+101 
+kriterlerinin sağlanıp sağlanmadığını test edebilecek büyüklükteki bir dosya ile FTP
+Downlink (İndirme) yaparak ölçüm gerçekleştirecektir. 
+(3) Veri indirme hızına yönelik kullanıcı başına ortalama değer, bir bölge veya
+güzergahta yapılan her bir ayrı ölçüm değerinin toplanarak, toplam ölçüm saytsına 
+bölünmesi suretiyle hesaplanır. 
+(4) Kullanıcı başına asgari veri indirme hızı, belirli bir bölge veya güzergahta yapılan 
+ölçümler arasında elde ediJen en düşük veri hızını ifade eder.
+(5) Veri indirme hızına yönelik Kurum tarafından gerçekleştirilecek ölçümler; 
+kullanıcıların erişebildiği arayüz ve/veya telsiz frekansları üzerinden yine Kurum 
+tarafından belirlenecek bir rota üzerinden saha ölçümü olarak gerçekleştirilir. 
+(6) Mobil Haberleşme Sağlayıcılara Uygulanan Hedefler:
+(A)IMTaAdvanced teknolojisi veya IMT-Advanced teknolojisi standartları temel 
+alınarak geliştirilen yeni dördüncü nesil teknolojilerini kullanarak fiilen
+hizmet vermeye başladığı tarihten itibaren;
+(a) 2 (iki) yılın sonunda nüfus olarak KKTC'nin en az %60'ının kapsandığı 
+alanlarda; kullanıcı başına ortalama 30 Mbit/sn ancak her halükarda 
+kullanıcı başına asgari I O Mbit/sn veri indirme hızı sağlanır. 
+(b) '.3 (üç) yılın sonunda nüfus olarak KKTC ' nin en az %60'ınm kapsandığı 
+alanlarda ise; kullanıcı başına ortalama 40 Mbit/sn, ancak her halükarda 
+kullanıcı başına asgari 15 Mbit/sn veri indinne hızı sağlanır. 
+(B) IMT-2020 (50) teknolojisi veya IMT standartları temel alınarak geliştirilen 
+yeni nesil mobil haberleşme teknolojileri ile, IMT-Advanced (4G)
+teknolojisinin fiilen hizmet vermeye başlanacağı tarihten itibaren 7 (yedi) 
+yılın ancak her halükarda 700 MHz ve 3600 MHz frekans bantları kullanım
+hakkının verildiği tarihten itibaren 2 (iki) yılın sonunda nüfus olarak
+KKTC'nin en az %60'ınm kapsandığı alanlarda; kullanıcı başına ortalama 100
+Mbit/sn ancak her halükarda kullanıcı başına asgari 40 Mbit/sn veri indirme 
+hızı sağlanır. 
+(C) Ancak, beklenmeyen ve/veya kısa süreli etkinlikler dolayısıyla, bir bölgedeki 
+kullanıcı sayısının belli bir süreyle ciddi bir şekilde artması sonucunda, 
+İşletmecilerin, o bölgedeki kullanıcı başına sağlayabildiği asgari veri indirme 
+hızları etkinlik süresince bu fıkra kapsamında değildir. 
+[SAYFA 10]
+102 
+Simülasyon Verilerinin Toplanması ve Bildirimi
+Madde-13 
+(1) Mobil haberleşme sağlayıcıları , kapsama alanlarını belirlemek için kullandıkları 
+simülasyon araçlarından elde edilen tüm kapsama verilerini içeren raporlarını: 
+(A) Aylık olarak düzenlenmiş şekli ile ve geriye dönük 3 (Üç) aylık bilgilerini
+içerir nitelikte, her yıl Ocak, Nisan, Temmuz ve Ekim ayının sonuna kadar
+Kuruma göndeni:ıekle yükümlüdürler.
+(B) Kurum tarafından ayrıca talep edilmesi halinde, talep tarihinden itibaren 7
+(Yedi) iş günü içerisinde Kurum'a eksiksiz ve doğru bir şekilde sunmakla
+yükümlüdürler.
+(2) Verilerin, kullanılmakta olan simülasyon aracıyla ilgili detayları (modelleme
+parametreleri, algoritmalar ve kullanılan coğrafi veri türleri gibi) içermesi ve teknik
+bir raporla desteklenmesi zorunludur. 
+Saha Test Sonuçlarının Bildirimi
+Madde-14 
+(1) Kurum, ölçüm ve saha test raporlarını hangi tarihlerde ve sürelerde talep edeceğini 
+resmi olarak mobil haberleşme sağlayıcıya bildirir.
+(2) Saha test sonuçlan Kuruma resıni olarak bildirilir. Yapılan işlem ve veri detayları 
+elektronik ortamda ayrıca gönderilir. 
+Kurul Kararları 
+Madde-15 
+Bu Tebliğ ' in uygulanmasında gerekli görülmesi halinde Kurul karan ile düzenleme yapılır .
+Yürür1üğe Giriş 
+Madde-16 
+İşbu doküman, Resmi Gazete'de yayımlandığı tarihten başlayarak yürürlüğe girer. 
+[SAYFA 11]
+KUZEY KIBRIS TÜRK CUMHURİYETİ
+RESMÎ GAZETE 
+(29)

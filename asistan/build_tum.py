@@ -213,16 +213,57 @@ for g in YG:
     yasalar.append({'p': p, 'tz': False, 'yg': True, 'n': 'YGK ' + g['tarih'], 'a': re.sub(r'\s+', ' ', g['ad']).strip(), 'u': g['url'], 'k': 'meclis-ygk', 'o': g['cikarim'] == 'ocr',
                     'ks': 'meclis', 'nt': YGK_NOT, 'y': ay, 'en': False, 'gy': [], 'kd': False, 'em': [], 'm': bir})
 
+# Resmî Gazete Ek III: Yüksek Mahkeme sisteminde olmayan tüzük, emirname, yönetmelik ve tebliğler (rg_bol.py → veri/resmi-gazete)
+RGK = oku(os.path.join(M.replace('mahkemeler', 'resmi-gazete'), 'kayit.json')).get('kayitlar', [])
+def trbaslik(x):
+    x = x.replace('I', 'ı').replace('İ', 'i').lower()
+    x = re.sub(r'(^|[\s()\-–/"])(\w)', lambda m: m.group(1) + ('İ' if m.group(2) == 'i' else m.group(2).upper()), x)
+    return re.sub(r'(?<=\s)(Ve|İle|Veya)(?=\s)', lambda m: m.group(1).replace('İ', 'i').lower(), x)
+TUR_AD = {'tuzuk': 'Tüzük', 'emirname': 'Emirname', 'yonetmelik': 'Yönetmelik', 'teblig': 'Tebliğ'}
+for g in RGK:
+    t = open(os.path.join(REPO, g['metin_dosyasi']), encoding='utf-8').read().replace('\ufffd', '')
+    t = re.sub(r'\[SAYFA \d+\]\n?', '\n', t)
+    try: ms = ayir(t, 0)
+    except Exception: ms = []
+    kapsam = sum(len(m['metin']) for m in ms) / max(1, len(t))
+    if len(ms) >= 2 and kapsam > 0.5 and ms[0]['no'] == '1':
+        bir = [{'no': m['no'], 'baslik': '', 'metin': m['metin'], **({'kaldirildi': True} if m['kaldirildi'] else {})} for m in ms]; ay = 'madde'
+    else: bir = parcala(t); ay = 'parca'
+    ad = re.sub(r'\s+', ' ', g['baslik']).strip()
+    ad = re.sub(r'^(.{0,120}?YASASI)\s*[-–]\s*', '', ad) or ad  # 'X YASASI-' öneki (yetki veren yasa) addan ayrılır
+    istat['rg ' + g['tur'] + ' ' + ay] += 1
+    yasalar.append({'p': 'R' + g['ae'].replace('/', '_'), 'tz': True, 'rt': g['tur'], 'n': TUR_AD[g['tur']] + ' A.E. ' + g['ae'], 'a': trbaslik(ad) if ad.isupper() else ad,
+                    'u': g['url'], 'k': 'resmi-gazete', 'o': g.get('ocr', False), 'ks': 'rg',
+                    'nt': 'Resmî Gazete (' + g['tarih'] + ', Sayı ' + g['sayi'] + ', Ek III, A.E. ' + g['ae'] + ') metninden alınmıştır; yayımlandığı hâlidir — sonradan değiştirilmiş veya kaldırılmış olabilir.' + (' Eski sayı: metin yazı tanıma ile okunmuş, kelime hataları olabilir.' if g.get('ocr') else ''),
+                    'y': ay, 'en': False, 'gy': [], 'kd': False, 'em': [], 'm': bir})
+
 # aynı adla birden çok kez çıkarılan kararnameler: en yenisi dışındakiler işaretlenir ve aramada geriye alınır
 def _tarih(n): g, a, y = n.split()[-1].split('/'); return y + a + g
 gruplar = collections.defaultdict(list)
 for y in yasalar:
-    if y.get('yg'): gruplar[' '.join(fold(re.sub(r'\s*\([^()]*\)\s*$', '', y['a'])).split())].append(y)  # sondaki komite notu: '(Hukuk Komitesi)'
+    if y.get('yg'): gruplar[' '.join(w for w in fold(re.sub(r'\s*\([^()]*\)\s*$', '', y['a'])).split() if not re.fullmatch(r'(19|20)\d\d', w))].append(y)  # sondaki komite notu: '(Hukuk Komitesi)'
+# Resmî Gazete metinleri: yazım farkları ve yazım hataları olduğundan ada göre benzerlik kümelemesi (yıl ve 'değişiklik' sözcükleri sayılmaz)
+_RGSTOP = {'degis', 'emirn', 'tuzug', 'yasas', 'yonet', 'tebli', 'iliski', 'hakki'}
+import difflib
+def _rgk(a): return ''.join(w for w in fold(a).split() if not re.fullmatch(r'\d+', w) and w[:5] not in _RGSTOP)
+_sk = collections.Counter(w for y in yasalar if y.get('rt') for w in set(fold(y['a']).split()))
+def _nadir(a): return [w for w in set(fold(a).split()) if _sk[w] < 25 and not re.fullmatch(r'\d+', w) and len(w) > 2]
+def _karsilik(A, B):  # A'daki her nadir sözcüğün (yer adı vb.) B'de yazım hatası payıyla karşılığı olmalı
+    return all(any(difflib.SequenceMatcher(None, a, b).ratio() >= 0.75 for b in B) for a in A)
+kumeler = []
+for y in yasalar:
+    if not y.get('rt'): continue
+    k, nd = _rgk(y['a']), _nadir(y['a'])
+    for km in kumeler:
+        if km[0] == y['rt'] and abs(len(k) - len(km[1])) < 12 and difflib.SequenceMatcher(None, k, km[1]).ratio() >= 0.9 \
+           and _karsilik(nd, km[3]) and _karsilik(km[3], nd): km[2].append(y); break
+    else: kumeler.append((y['rt'], k, [y], nd))
+for i, km in enumerate(kumeler): gruplar['__rg%d' % i] = km[2]
 for g in gruplar.values():
     if len(g) < 2: continue
-    g.sort(key=lambda y: _tarih(y['n']), reverse=True)
+    g.sort(key=lambda y: _tarih(y['n']) if y.get('yg') else y['n'].split('/')[-1] + '%05d' % int(re.search(r'A\.E\. (\d+)', y['n']).group(1)), reverse=True)
     for y in g[1:]:
-        y['ry'] = True; y['nt'] = 'Aynı adla daha yeni bir kararname var (' + g[0]['n'] + '); bu eski sürümdür. ' + y['nt']; istat['ygk eski sürüm'] += 1
+        y['ry'] = True; y['nt'] = 'Aynı adla daha yeni bir metin var (' + g[0]['n'] + '); bu eski sürümdür. ' + y['nt']; istat['eski sürüm'] += 1
 
 # elle doğrulanmış yasalar da dizine girer (metinleri sayfanın içinde; burada yalnızca arama anahtarları)
 elle = []
@@ -249,7 +290,7 @@ for y, tf in zip(yasalar, tfs):
     if boy + len(j.encode()) > PAKET_BAYT and paket:
         paketler.append(paket); paket, boy = {}, 0
     paket[str(y['p'])] = y['m']; boy += len(j.encode())
-    dizin.append({x: y[x] for x in ('p', 'n', 'a', 'u', 'k', 'o', 'y', 'kd', 'en', 'tz', 'gy', 'em', 'ks', 'nt', 'ry', 'yg') if x in y and y[x] not in (False, [], '')} | {'mc': len(y['m']), 'b': len(paketler), 'kw': ' '.join(top), 'bs': basliklar})
+    dizin.append({x: y[x] for x in ('p', 'n', 'a', 'u', 'k', 'o', 'y', 'kd', 'en', 'tz', 'gy', 'em', 'ks', 'nt', 'ry', 'yg', 'rt') if x in y and y[x] not in (False, [], '')} | {'mc': len(y['m']), 'b': len(paketler), 'kw': ' '.join(top), 'bs': basliklar})
 if paket: paketler.append(paket)
 os.makedirs(os.path.join(D, 'app/pub'), exist_ok=True)
 for f in os.listdir(os.path.join(D, 'app/pub')):
