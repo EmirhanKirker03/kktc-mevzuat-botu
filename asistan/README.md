@@ -23,3 +23,12 @@ Avukatlar için kaynak gösteren mevzuat ve içtihat araştırma sayfasının ya
 - **Resmî Gazete Ek III (2006–2026)**, Devlet Basımevi arşivi: Yüksek Mahkeme sisteminde olmayan 765 tüzük, 936 emirname, 20 yönetmelik, 71 tebliğ (`veri/resmi-gazete/`).
   Akış: Basımevi dizini (`raw/resmi_gazete/rg_liste.json`) → hedef seçimi (A.E. numarasıyla Yüksek Mahkeme tüzük listesine karşı) → sayı PDF'lerinin metin katmanı (tarayıcıda pdf.js) → `rg_bol.py` (yapar cümlesi / kısa isim maddesiyle bölme, dizin başlığıyla bire-bir eşleştirme) → `rg_kaydet.py`.
   Eşleşmeyen ~840 madde: çoğu Gazete'de yalnızca görüntü olarak basılmış sayfalar (yazı tanıma gerekir) veya bölme hatası; 32 sayı Basımevi sitesinde kırık bağlantı (404). Bakanlar Kurulu kararları (Ek IV) kişisel veri içerdiği ve çoğu bireysel idari işlem olduğu için alınmadı.
+
+## Metin onarımı (onar.py)
+Kaynak PDF/Word dosyalarından gelen kodlama hataları derleme sırasında onarılır; sözcükler değiştirilmez:
+- PDF yazı tipi kayması (harfler 29 kod geri: 'ELUWU' = 'birtr'): satır/sözcük bazında, Türkçe harf-çifti modeline (onar_model.json) göre yalnızca açıkça daha olası olduğunda geri çevrilir; gerçek sayılar korunur.
+- Calibri glif kodlaması ('ƚĂƌĂĨŦŶĚĂŶ' = 'tarafından').
+- Windows-1254 karışması (ý/þ/ð → ı/ş/ğ; İngilizce metinde ý → i), çeviri aracı etiketleri, denetim karakterleri.
+- Anlamsız sembol dizileri silinir ya da '[okunamayan kısım]' olur; onarımdan sonra hâlâ okunamayan bölümlerin metni yerine açık bir not konur (yapay zekâ bozuk metne dayanmaz).
+- Kira (Denetim) Yasası el verisinde 7. madde (G) ve (I) bentlerindeki Word nesnesi artıkları, resmî birleştirilmiş metinle karşılaştırılarak çıkarıldı.
+Denetim: `python3 bozuk_tara.py app/pub` (kalan çöp dizili birim sayısı).

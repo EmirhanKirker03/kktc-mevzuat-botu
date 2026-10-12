@@ -43,7 +43,9 @@ def oku(k):
         if d and d.get('durum') == 'tamam': p = d['metin_dosyasi']; k['_yontem'] = d.get('yontem')
     return open(os.path.join(REPO, p), encoding='utf-8').read() if p else ''
 
+import sys as _s; _s.path.insert(0, os.path.dirname(os.path.abspath(__file__))); import onar
 def sade(t):
+    t = onar.onar(t)
     t = t.replace('\r\n', '\n').replace('\r', '\n').replace('\t', ' ')
     t = re.sub(r'[  ]{2,}', ' ', t)
     t = re.sub(r'\n[ ]+', '\n', t)

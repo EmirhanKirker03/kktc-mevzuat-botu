@@ -10,6 +10,8 @@ Metin sirali_ayir ile maddelere ayrılır; ayırma güvenilir değilse metin sı
 import json, os, re, sys, math, collections
 D = os.path.dirname(os.path.abspath(__file__)); sys.path.insert(0, D)
 from sirali_ayir import ayir, ayir_lis, govde_bas, NUM_RE
+import onar
+ONAR = collections.Counter()  # kodlama onarımı istatistiği (onar.py)
 REPO = '/home/claude/kktc-mevzuat-botu'
 M = os.path.join(REPO, 'veri/mahkemeler')
 ELLE = {24, 304, 351, 416, 577, 819, 943, 106, 107, 717, 250, 277, 898, 741}
@@ -82,6 +84,7 @@ for tur in ('yasa', 'tuzuk'):
         continue
     def temizle(t):
         t = t.replace('\r', '').replace('\f', '\n').replace('\xa0', ' ').replace('\ufffd', '')  # okunamayan karakterler (kaynak dosyada da bozuk) çıkarılır
+        t = onar.onar(t, ONAR)  # PDF yazı tipi kayması, 1254 kodlama karışması, çöp karakter dizileri
         return re.sub(r'\[SAYFA \d+\]\n?', '\n', t) if ocrmu else t
     def uygun(ms, esik, metin, b):
         if len(ms) < 3: return False
@@ -191,7 +194,7 @@ def ygk_govde_bas(t):
 YG = oku(os.path.join(M.replace('mahkemeler', 'meclis-ygk'), 'kayit.json')).get('kayitlar', [])
 gorulen = set()
 for g in YG:
-    t = open(os.path.join(REPO, g['metin_dosyasi']), encoding='utf-8').read().replace('\r', '').replace('\f', '\n').replace('\xa0', ' ').replace('\ufffd', '')
+    t = onar.onar(open(os.path.join(REPO, g['metin_dosyasi']), encoding='utf-8').read().replace('\r', '').replace('\f', '\n').replace('\xa0', ' ').replace('\ufffd', ''), ONAR)
     if g['cikarim'] == 'ocr': t = re.sub(r'\[SAYFA \d+\]\n?', '\n', t)
     if len(t.strip()) < 80: istat['ygk metin yok'] += 1; continue
     gerekce, govde = '', t
@@ -221,7 +224,7 @@ def trbaslik(x):
     return re.sub(r'(?<=\s)(Ve|İle|Veya)(?=\s)', lambda m: m.group(1).replace('İ', 'i').lower(), x)
 TUR_AD = {'tuzuk': 'Tüzük', 'emirname': 'Emirname', 'yonetmelik': 'Yönetmelik', 'teblig': 'Tebliğ'}
 for g in RGK:
-    t = open(os.path.join(REPO, g['metin_dosyasi']), encoding='utf-8').read().replace('\ufffd', '')
+    t = onar.onar(open(os.path.join(REPO, g['metin_dosyasi']), encoding='utf-8').read().replace('\ufffd', ''), ONAR)
     t = re.sub(r'\[SAYFA \d+\]\n?', '\n', t)
     try: ms = ayir(t, 0)
     except Exception: ms = []
@@ -265,6 +268,11 @@ for g in gruplar.values():
     for y in g[1:]:
         y['ry'] = True; y['nt'] = 'Aynı adla daha yeni bir metin var (' + g[0]['n'] + '); bu eski sürümdür. ' + y['nt']; istat['eski sürüm'] += 1
 
+# onarımdan sonra hâlâ okunamayan bölümler: anlamsız metin gösterilmez, açık bir not konur
+for y in yasalar:
+    for m in y['m']:
+        if not m.get('sd') and onar.okunamaz(m['metin']): m['metin'] = onar.OKUNAMAZ_NOT; m['okunamaz'] = True; ONAR['okunamaz bölüm'] += 1
+
 # elle doğrulanmış yasalar da dizine girer (metinleri sayfanın içinde; burada yalnızca arama anahtarları)
 elle = []
 kd_ = json.load(open(os.path.join(D, 'kira_denetim.json'), encoding='utf-8'))
@@ -299,6 +307,6 @@ for i, p in enumerate(paketler):
     json.dump(p, open(os.path.join(D, f'app/pub/tum-{i}.json'), 'w', encoding='utf-8'), ensure_ascii=False)
 json.dump({'alindi': '2026-10-09', 'kaynak': 'KKTC Yüksek Mahkeme mevzuat sistemi (mevzuat.mahkemeler.net)', 'yasalar': dizin},
           open(os.path.join(D, 'app/pub/tum-dizin.json'), 'w', encoding='utf-8'), ensure_ascii=False)
-print(dict(istat), 'yasa:', len(yasalar), 'elle:', len(elle), 'paket:', len(paketler),
+print('onarım:', dict(ONAR)); print(dict(istat), 'yasa:', len(yasalar), 'elle:', len(elle), 'paket:', len(paketler),
       'dizin MB:', round(os.path.getsize(os.path.join(D, 'app/pub/tum-dizin.json')) / 1e6, 2),
       'toplam MB:', round(sum(os.path.getsize(os.path.join(D, f'app/pub/tum-{i}.json')) for i in range(len(paketler))) / 1e6, 1))
