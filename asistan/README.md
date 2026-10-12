@@ -20,3 +20,6 @@ Avukatlar için kaynak gösteren mevzuat ve içtihat araştırma sayfasının ya
 - **Türkçe metni olmayan 26 fasıl**: İngilizce metinlerine Türkçe adları eklendi (Türkçe aramada bulunur).
 - **533 Yasa Gücünde Kararname** (2013–2026, cm.gov.ct.tr/YasaKararname.aspx): `ygk_metin.py` (Word içinden metin, taranmış PDF'ler Türkçe yazı tanıma), `veri/meclis-ygk/`. Gerekçe ayrı birim; aynı adla yeniden çıkarılanların eski sürümleri işaretlenir. Aramada kararnamelere ayrı 2 yer verilir.
 - Derleme sırası: `meclis_ek.py` → `build_tum.py` → `hmut_bol.py` → `build_app.py` (şablon yamaları: `app/yama_meclis.py`).
+- **Resmî Gazete Ek III (2006–2026)**, Devlet Basımevi arşivi: Yüksek Mahkeme sisteminde olmayan 765 tüzük, 936 emirname, 20 yönetmelik, 71 tebliğ (`veri/resmi-gazete/`).
+  Akış: Basımevi dizini (`raw/resmi_gazete/rg_liste.json`) → hedef seçimi (A.E. numarasıyla Yüksek Mahkeme tüzük listesine karşı) → sayı PDF'lerinin metin katmanı (tarayıcıda pdf.js) → `rg_bol.py` (yapar cümlesi / kısa isim maddesiyle bölme, dizin başlığıyla bire-bir eşleştirme) → `rg_kaydet.py`.
+  Eşleşmeyen ~840 madde: çoğu Gazete'de yalnızca görüntü olarak basılmış sayfalar (yazı tanıma gerekir) veya bölme hatası; 32 sayı Basımevi sitesinde kırık bağlantı (404). Bakanlar Kurulu kararları (Ek IV) kişisel veri içerdiği ve çoğu bireysel idari işlem olduğu için alınmadı.

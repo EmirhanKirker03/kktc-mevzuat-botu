@@ -1,0 +1,1979 @@
+TELEKOMÜNİKASYON SERVİSİ YASASI 
+(Fasıl 302, 20/1960, 34/1962 ve 25/1963 Sayılı Yasalar) 
+43’üncü Madde altında Yapılan Tüzük 
+Kuzey Kıbrıs Türk Cumhuriyeti Bakanlar Kurulu, Fasıl 302 sayılı Telekomünikasyon
+Servisi Yasası’nın 43’üncü maddesinin verdiği yetkiyi kullanarak aşağıdaki Tüzüğü 
+yapar: 
+Kısa İsim 1. 
+Ücretler 2. 
+CETVEL 
+Yürürlükten 3.
+Kaldırma 
+06//04/20 22 
+RG.71
+EK III
+A.E.294 
+30/06/2022 
+R.G.138
+EK III
+A.E. 489 
+Yürürlüğe 4. 
+Giriş 
+Bu Tüzük, Telekomünikasyon Hizmetleri Ücretleri ve Uygulama
+Tüzüğü olarak isimlendirilir . 
+Telekomünikasyon Dairesi Müdürlüğü, bu Tüzüğe ekli Cetvel’de
+öngörülen Telekomünikasyon Hizmetleri Ücretlerini tahsil eder. 
+Bu Tüzüğün yürürlüğe girdiği tarihten başlayarak
+Telekomünikasyon Hizmetleri Ücretleri ve Uygulama Tüzüğü, mezkur
+Tüzük altında yapılan işlemlere halel gelmeksizin yürürlükten kalkar. 
+Bu Tüzük, 1 Mayıs 2023 tarihinden başlayarak yürürlüğe girer. 
+Sayı : 305 
+635 
+[SAYFA 12]
+1 
+CETVEL 
+KUZEY KIBRIS TÜRK CUMHURİYETİ 
+BAYINDIRLIK VE ULAŞTIRMA BAKANLIĞI 
+TELEKOMÜNİKASYON DAİRESİ 
+KISIM I : TANIMLAR, KISALTMALAR ve AÇIKLAMALAR 
+KISIM II : TESİS, KİRA ve SABİT ÜCRETLER 
+KISIM III : TELEFON KONUŞMA ÜCRETLERİ 
+KISIM IV : ÇEŞİTLİ ÜCRETLER 
+KISIM V : TESİSAT UYGULAMALARI İLE İLGİLİ ÜCRETLER 
+KISIM VI : TELEFON TESİS ve NAKİL İŞLEMLERİNİN UYGULANMASINA AİT ESASLAR
+KISIM VII : GENEL UYGULAMALAR
+KISIM VIII : ÇAĞRI TAŞIMA ÜCRETLERİ 
+636 
+1983 
+[SAYFA 13]
+2 
+KISIM I
+TANIMLAR, KISALTMALAR VE AÇIKLAMALAR 
+1.1. KISALTMALAR 
+ADSL : Asymmetric Digital Subscriber Line (Asimetrik Sayısal Abone hattı) 
+AOC : Advice of Charge (Ücret tesbiti) 
+CBR : Constant Bit Rate (Sabit Hız) 
+CIR : Constant Information Rate (Sabit Bilgi Hızı) 
+DDI : Direct Dialling In (Doğrudan Arama) 
+DDOS : Distributed Denial of Service (Dağıtık Servis Dışı Bırakma )
+EIR : Extended Information Rate (Artan Bilgi Hızı) 
+FIBERNET: Pasif optik şebeke üzerinden verilen hizmetler
+FOY : Yeraltı Fiber Optik Kablolar 
+G.SHDSL : Symmetrical High- Speed Digital Subscriber Line (Simetrik Yüksek Hızlı Sayısal Abone Hattı) 
+GSM : Global System of Mobile (Mobil Şebeke) 
+ISDN : Integrated Services Digital Network (Bütünleştirilmiş Sayısal Ağ Hizmetleri) 
+PSTN : Public Switched Telephone Network ( Genel Aktarmalı Telefon Şebekesi) 
+TD : Telekomünikasyon Dairesi 
+TDM : Time Division Multiple Access (Zaman Paylaşımlı Çoklu Erişim) 
+VBR : Variable Bit Rate (Değişken Hız) 
+VDSL : Very-High-Bit-Rate Digital Subscriber Line (Çok Yüksek Hızlı Sayısal Abone Hattı )
+VOIP : Voice Over Internet Protocol (Internet Protokolu Üzerinden Ses Gönderilmesi) 
+VPN : Virtual Private Netwok (Sanal Özel Ağ) 
+1.2. AÇIKLAMALAR 
+1.2.1 Kontör: Belirli bir sürenin bir birim olarak kabul edildiği ve telefonda toplam konuşma süresinin kaç birim
+olduğunu sayısal olarak gösteren araç. 
+1.2.2 Periyot: Telefon görüşmesi sırasında kontör atış süresisini belirleyen zaman dilimidir. 
+1.2.3 ISDN BA (Basic Access- Temel Erişim): Herbiri 64 kbit/s’lik olan 2 adet B- Kanalı ve bir adet 16 kbit/s’lik D - 
+Kanalı içermektedir. 
+1.2.4 ISDN PRA (Primary Rate Access- Öncelikli Erişim): Herbiri 64 kbit/s’lik olan 30 adet B - Kanalı ve bir adet 64
+kbit/s’lik D - kanalı içermektedir. 
+1.2.5 TA (Terminal Adaptor): Mevcut terminall erin ISDN hattına bağlanabilmesi için kullanılan arabirim cihazıdır. 
+1.2.6 NT (Network Terminator): Tüm ISDN terminallerin tek bir ISDN hattına bağlantısını sağlayan arabirim
+cihazıdır. Bir NT cihazına 8 adet terminal (Telefon, PC, Faks vb.) bağlanabilmektedi r.
+1.2.7 VOIP (Voice over IP): İnternet protokolu üzerinden telefon görüşmesi sağlayan sistemdir. 
+1.2.8 ADSL2+ (Extended bandwidth Asymmetric Digital Subscriber Line 2): DSL ailesinden türetilmiş ADSL'den 
+daha hızlı iletişim sağlayan Uluslararası Telekomünikasyon Birliği tarafından onaylanmış bir teknolojidir.
+ADSL2+'daki indirme hızı 24Mb/s çıkıyor. 
+637 
+1983 
+[SAYFA 14]
+3 
+1.2.9 G.SHDSL (Symmetrical High-Speed Digital Subscriber Line): G.SHDSL, download (alma) ve upload 
+(gönderme) hızları birbirine eşit DSL teknolojisidir. Simetrik bant genişliği ve güvenli erişim imkanı sağlayarak,
+uzak ofisleri bulunan ve bu noktalara veri iletişimi yapmak isteyen firmaların kullanabileceği bir hizmettir. 128
+Kpbs‘den 2Mbps’yekadar erişim imkanı sağlar. 
+1.2.10 VDSL2 (Very-High-Bit-Rate Digital Subscriber Line -2): DSL ailesinden olan VDSL2, Very High Speed Digital 
+Subscriber Line 2 kelimelerinin kısaltmasından oluşan bir terimdir. VDSL2, bakır kabloları kullanarak yüksek
+hızlarda iletişim sağlayan bir teknolojidir. 
+1.2.11 Metro Ethernet Internet Hizmeti: Fiber altyap ı üzerinden Ethernet protokolleri kullanarak paylaşımsız internet 
+servislerini sunmaya imkan veren devre.
+1.2.12 Metro Ethernet Noktadan Noktaya Devre: Fiber altyapı üzerinden Ethernet protokolleri kullanarak paylaşımsız
+hizmet sunan, bir ucu KKTC sınırları içerisinde diğer ucu ise KKTC sınırları dışında olan devre.
+1.2.13 Metro Ethernet Kiralık Devre: KKTC Sınırları içerisinde, Fiber altyapı üzerinden Ethernet protokolleri
+kullanarak paylaşımsız hizmet sunan devre. 
+1.2.14 VPN (Virtual Private Network): Sanal Özel Ağ‘ın kısaltmasıdır. VPN sayesinde ağlara uzaktan erişim sağlanır.
+VPN sanal bir ağ uzantısı oluşturduğu için, VPN kullanarak ağa bağlanan bir cihaz, fiziksel olarak bağlıymış
+gibi o ağ üzerinden veri alışverişinde bulunabilir. Kısacası Virtual Private Network (VPN), Internet ya da başka
+bir açık ağ üzerinden özel bir ağa bağlanmayı sağlayan bir bağlantı çeşididir. VPN üzerinden bir ağa bağlanan
+kişi, o ağın fonksiyonel, güvenlik ve yönetim özelliklerini kullanmaya da devam eder. 
+1.2.15 DDOS (Distributed Denial of Service Attack) Koruma Hizmeti : Abonenin trafiğinin sürekli izlenerek bir atak 
+durumunda abonenin bu ataktan dolay ı göreceği zararın asgariye indirgenmesini sağlamak üzere, trafiğin
+temizlenmesini ve temizlenen trafiğin tekrar abone konumuna yönlendirilmesini sağlamaktır. 
+1.2.16 DDOS Atak anında Önleme Hizmeti: Aboneler tercih ettikleri zaman aralığında koruma altında olurl ar.
+1.2.17 DDOS Sürekli Önleme Hizmeti: Abonenin tercihine kalmadan, herhangi bir bildirimde bulunmadan sistem
+sürekli koruma altındadır. 
+1.2.18 Kiralık Devre (Leased Line): KKTC Telekomünikasyon Dairesi'nden kiralanmış, kablolu bir uçtan uca veri
+iletişim hattıdır. Kiralık hat, ikili bükülü telefon kablosu, koaksiyel kablo, fiberoptik kablo, bobin, çevirici,
+güçlendirici, üreteç gibi donanımlarla tesis edilir. 
+1.2.19 Frame Relay: Birden fazla kullanıcının haberleşme kaynaklarını paylaşması esasına dayanır. Ağa bağlanan te k 
+fiziksel hat aracılığıyla birden fazla nokta ile görüşmelerine olanak tanır. Bu noktada artık iki uç arasında sürekli
+ayrılmış band genişliği yerine gereksinim duyuldukça kısa zaman aralıklarında kullanılan daha yüksek band
+genişlikleri söz konusudur. Frame Relay servisinde ücretlendirme port hızına, CIR'e ve EIR'e bağlıdır. Port hızı
+Frame Relay servisi için kullanılacak devrenin istenildiğinde maksimum kullanılabileceği band genişliğidir.
+CIR, ağın belli koşullar altında bir PVC üzerinden taşımayı taahhüt ettiği bilgi oranıdır. EIR, kullanıcının hattı
+üzerinde kullanılabilir band genişliği olması durumunda şebekenin koşulları uygun olduğu sürece CIR'ın
+üzerinde gönderebileceği fazla bilgi oranıdır. Bilgilerin taşınacağı taahhüt edilmediğinden, EIR trafi k tarifesi 
+oldukça düşük tutulur. 
+1.2.20 Kamu Ve Kurum Kuruluşlar: Genel bütçeye dahil b akanlıklara bağlı d aireler ve özel bütçeli kuruluşlar ve/veya
+özerk kuruluşlar ile b akanlıklara bağlı döner sermayeli kuruluşları anlatır. 
+638 
+1983 
+[SAYFA 15]
+4 
+KISIM II 
+TESİS, KİRA ve SABİT ÜCRETLER 
+Tesis ücreti bir kereye mahsus, kira ücreti ise her ay faturaya yansıtılacaktır. Tüm ücretlere ek olarak KDV
+uygulanır. 
+2.1. PSTN ERİŞİM ÜCRETLERİ 
+Kullanım Amacı Tesis Ücreti (TL) Kira Ücreti (TL/Ay) 
+Ses 50.00 22.00 
+2.2. ISDN ERİŞİM ÜCRETLERİ 
+Kullanım Amacı Tesis Ücreti (TL) Kira Ücreti (TL/Ay) 
+BA (Ses) (Sadece mevcut abonelere 
+uygulanır. Yeni abone lik 
+alınmamaktadı r.) 
+Yeni tesis yapılmamaktadır. 50.00
+PRA (Ses) 1,250.00 400.00 
+2.3. FİBERNET ERİŞİM ÜCRETİ 
+Kullanım Amacı Tesis Ücreti (TL) Kira Ücreti (TL/Ay) 
+Ses + Data 100.00 100.00 
+2.4. SS7 TRUNK KULLANIM ÜCRETLERİ 
+Kullanım Amacı Tesis Ücreti (TL) Kira Ücreti (TL/Ay) 
+Çağrı Sonlandırma - Aktif 1,250.00 - 
+Çağrı Sonlandırma - Yedek 1,250.00 1000.00 
+2.5. xDSL ERİŞİM ÜCRETLERİ 
+Kullanım Amacı Tesis Ücreti (TL) Kira Ücreti (TL/Ay) 
+ADSL - (Data) 50.00 22.00 
+VDSL - (Data) 50.00 22.00 
+G.SHDSL - (Data) 50.00 70.00 
+2.6. ADSL NOKTADAN NOKTAYA BAĞLANTI ÜCRETLERİ 
+Kullanım Amacı Devre Hızı (kbit/s) Tesis Ücreti 
+(TL)
+Lokal 
+Kira Ücreti 
+(TL/Ay) 
+Bölge İçi 
+Kira Ücreti 
+(TL/Ay) 
+Bölgeler Arası 
+Kira Ücreti 
+(TL/Ay) 
+Noktadan 
+Noktaya Bağlantı <=512 128 50.00 54.00 116.00 232.00 
+1024 256 50.00 70.00 150.00 300.00 
+2048 512 50.00 90.00 192.00 384.00 
+639 
+[SAYFA 16]
+5 
+2.7. G.SHDSL NOKTADAN NOKTAYA BAĞLANTI ÜCRETLERİ 
+Kullanım
+Amacı 
+Devre Hızı 
+(kbit/s) 
+Tesis Ücreti 
+(TL)
+Lokal 
+Kira Ücreti 
+(TL/Ay) 
+Bölge İçi 
+Kira Ücreti 
+(TL/Ay) 
+Bölgeler Arası 
+Kira Ücreti 
+(TL/Ay) 
+Noktadan 
+Noktaya 
+Bağlantı 
+<=512 150.00 88.00 187.00 374.00
+1024 150.00 120.00 255.00 510.00
+2048 150.00 161.00 340.00 680.00 
+2.8. KİRALIK DEVRE ÜCRETLERİ 
+2.8.1. LOKAL 
+Devre Hızı Birimi Tesis Ücreti 
+(TL) 
+Hat Kira Ücreti 2 Tel 
+(TL/Ay) 
+Hat Kira Ücreti 4 Tel 
+(TL/Ay) 
+<=2048 kbit/sn 500.00 145.80 289.80 
+5 Mbit/sn 500.00 216.00 432.00 
+8 Mbit/sn 500.00 289.80 577.80 
+10 Mbit/sn 500.00 387.00 770.40 
+20 Mbit/sn 500.00 484.20 963.00 
+34 Mbit/sn 500.00 579.60 1,157.40 
+40 Mbit/sn 500.00 644.40 1,387.80 
+50 Mbit/sn 500.00 707.40 1,504.80 
+60 Mbit/sn 500.00 772.20 1,620.00 
+70 Mbit/sn 500.00 837.00 1,735.20 
+80 Mbit/sn 500.00 900.00 1,850.40 
+90 Mbit/sn 500.00 964.80 1,965.60 
+100 Mbit/sn 500.00 1,029.60 2,082.60 
+125 Mbit/sn 500.00 1,092.60 2,197.80 
+155 Mbit/sn 500.00 1,157.40 2,313.00 
+175 Mbit/sn 500.00 1,350.00 2,698.20 
+200 Mbit/sn 500.00 1,542.60 3,083.40 
+300 Mbit/sn 500.00 1,735.20 3,468.60 
+400 Mbit/sn 500.00 1,927.80 3,855.60 
+500 Mbit/sn 500.00 2,120.40 4,237.20 
+622 Mbit/sn 500.00 2,313.00 4,626.00 
+700 Mbit/sn 500.00 2,457.00 4,915.80 
+800 Mbit/sn 500.00 2,602.80 5,205.60 
+900 Mbit/sn 500.00 2,746.80 5,493.60 
+1000 Mbit/sn 500.00 2,890.80 5,781.60 
+1500 Mbit/sn 500.00 3,468.60 6,939.00 
+2000 Mbit/sn 500.00 3,758.40 7,516.80 
+2500 Mbit/sn 500.00 4,626.00 9,252.00 
+3000 Mbit/sn 500.00 4,753.80 9,509.40 
+4000 Mbit/sn 500.00 4,883.40 9,765.00 
+640 
+[SAYFA 17]
+6 
+5000 Mbit/sn 500.00 5,011.20 10,022.40 
+6000 Mbit/sn 500.00 5,166.00 10,330.20 
+7000 Mbit/sn 500.00 5,319.00 10,638.00 
+8000 Mbit/sn 500.00 5,473.80 10,947.60 
+9000 Mbit/sn 500.00 5,628.60 11,257.20 
+10000 Mbit/sn 500.00 5,783.40 11,565.00 
+15000 Mbit/sn 500.00 5,938.20 11,872.80 
+20000 Mbit/sn 500.00 6,093.00 12,182.40 
+25000 Mbit/sn 500.00 6,246.00 12,490.20 
+30000 Mbit/sn 500.00 6,400.80 12,798.00 
+40000 Mbit/sn 500.00 6,555.60 13,107.60 
+50000 Mbit/sn 500.00 6,710.40 13,415.40 
+60000 Mbit/sn 500.00 6,865.20 13,654.80 
+70000 Mbit/sn 500.00 7,020.00 13,894.20 
+80000 Mbit/sn 500.00 7,174.80 14,133.60 
+90000 Mbit/sn 500.00 7,329.60 14,373.00 
+100000 Mbit/sn 500.00 7,484.40 14,612.40 
+2.8.2. BÖLGE İÇİ 
+Devre Hızı Birimi Tesis Ücreti 
+(TL) 
+Hat Kira Ücreti 
+2 Tel (TL/Ay) 
+Hat Kira Ücreti 
+4 Tel (TL/Ay) 
+Kanal Kira Ücreti 
+(TL/Ay) 
+<=2048 kbit/sn 500.00 289.80 579.60 612.00 
+5 Mbit/sn 500.00 433.80 867.60 918.00 
+8 Mbit/sn 500.00 577.80 1,155.60 1,224.00 
+10 Mbit/sn 500.00 770.40 1,542.60 1,630.80 
+20 Mbit/sn 500.00 964.80 1,927.80 2,039.40 
+34 Mbit/sn 500.00 1,157.40 2,314.80 2,448.00 
+40 Mbit/sn 500.00 1,285.20 2,572.20 2,719.80 
+50 Mbit/sn 500.00 1,414.80 2,827.80 2,991.60 
+60 Mbit/sn 500.00 1,542.60 3,085.20 3,263.40 
+70 Mbit/sn 500.00 1,670.40 3,342.60 3,535.20 
+80 Mbit/sn 500.00 1,800.00 3,600.00 3,808.80 
+90 Mbit/sn 500.00 1,926.00 3,855.60 4,080.60 
+100 Mbit/sn 500.00 2,055.60 4,113.00 4,352.40 
+125 Mbit/sn 500.00 2,185.20 4,368.60 4,624.20 
+155 Mbit/sn 500.00 2,313.00 4,626.00 4,896.00 
+175 Mbit/sn 500.00 2,700.00 5,396.40 5,711.40 
+200 Mbit/sn 500.00 3,083.40 6,168.60 6,528.60 
+300 Mbit/sn 500.00 3,468.60 6,939.00 7,344.00 
+400 Mbit/sn 500.00 3,855.60 7,714.80 8,159.40 
+500 Mbit/sn 500.00 4,240.80 8,481.60 8,976.60 
+622 Mbit/sn 500.00 4,626.00 9,252.00 9,792.00 
+700 Mbit/sn 500.00 4,914.00 9,829.80 10,404.00 
+800 Mbit/sn 500.00 5,203.80 10,407.60 11,016.00 
+641 
+[SAYFA 18]
+7 
+900 Mbit/sn 500.00 5,491.80 10,985.40 11,628.00 
+1000 Mbit/sn 500.00 5,781.60 11,563.20 12,240.00 
+1500 Mbit/sn 500.00 6,939.00 13,878.00 14,688.00 
+2000 Mbit/sn 500.00 7,516.80 15,033.60 15,912.00 
+2500 Mbit/sn 500.00 9,252.00 18,504.00 19,584.00 
+3000 Mbit/sn 500.00 9,540.00 19,081.80 20,196.00 
+4000 Mbit/sn 500.00 9,828.00 19,661.40 20,808.00 
+5000 Mbit/sn 500.00 10,117.80 20,239.20 21,420.00 
+6000 Mbit/sn 500.00 10,405.80 20,817.00 22,032.00 
+7000 Mbit/sn 500.00 10,693.80 21,394.80 22,644.00 
+8000 Mbit/sn 500.00 10,983.60 21,972.60 23,256.00 
+9000 Mbit/sn 500.00 11,271.60 22,552.20 23,868.00 
+10000 Mbit/sn 500.00 11,565.00 23,130.00 24,480.00 
+15000 Mbit/sn 500.00 13,012.20 26,020.80 27,540.00 
+20000 Mbit/sn 500.00 14,459.40 28,911.60 30,600.00 
+25000 Mbit/sn 500.00 15,906.60 31,802.40 33,660.00 
+30000 Mbit/sn 500.00 17,353.80 34,693.20 36,720.00 
+40000 Mbit/sn 500.00 18,801.00 37,584.00 39,780.00 
+50000 Mbit/sn 500.00 20,248.20 40,474.80 42,840.00 
+60000 Mbit/sn 500.00 20,971.80 41,920.20 44,370.00 
+70000 Mbit/sn 500.00 21,695.40 43,365.60 45,900.00 
+80000 Mbit/sn 500.00 22,419.00 44,811.00 47,430.00 
+90000 Mbit/sn 500.00 23,142.60 46,256.40 48,960.00 
+100000 Mbit/sn 500.00 23,866.20 47,701.80 50,490.00 
+2.8.3. BÖLGELER ARASI 
+Devre Hızı Birimi Tesis Ücreti 
+(TL) 
+Hat Kira Ücreti 
+2 Tel (TL/Ay) 
+Hat Kira Ücreti 
+4 Tel (TL/Ay) 
+Kanal Kira Ücreti 
+(TL/Ay) 
+<=2048 kbit/sn 500.00 289.80 579.60 1,224.00 
+5 Mbit/sn 500.00 433.80 867.60 1,836.00 
+8 Mbit/sn 500.00 577.80 1,155.60 2,448.00 
+10 Mbit/sn 500.00 770.40 1,542.60 3,261.60 
+20 Mbit/sn 500.00 964.80 1,927.80 4,078.80 
+34 Mbit/sn 500.00 1,157.40 2,314.80 4,896.00 
+40 Mbit/sn 500.00 1,285.20 2,572.20 5,439.60 
+50 Mbit/sn 500.00 1,414.80 2,827.80 5,983.20 
+60 Mbit/sn 500.00 1,542.60 3,085.20 6,526.80 
+70 Mbit/sn 500.00 1,670.40 3,342.60 7,070.40 
+80 Mbit/sn 500.00 1,800.00 3,600.00 7,617.60 
+90 Mbit/sn 500.00 1,926.00 3,855.60 8,161.20 
+100 Mbit/sn 500.00 2,055.60 4,113.00 8,704.80 
+125 Mbit/sn 500.00 2,185.20 4,368.60 9,248.40 
+155 Mbit/sn 500.00 2,313.00 4,626.00 9,792.00 
+175 Mbit/sn 500.00 2,700.00 5,396.40 11,422.80 
+200 Mbit/sn 500.00 3,083.40 6,168.60 13,057.20 
+642 
+[SAYFA 19]
+8 
+300 Mbit/sn 500.00 3,468.60 6,939.00 14,688.00 
+400 Mbit/sn 500.00 3,855.60 7,714.80 16,318.80 
+500 Mbit/sn 500.00 4,240.80 8,481.60 17,953.20 
+622 Mbit/sn 500.00 4,626.00 9,252.00 19,584.00 
+700 Mbit/sn 500.00 4,914.00 9,829.80 20,808.00 
+800 Mbit/sn 500.00 5,203.80 10,407.60 22,032.00 
+900 Mbit/sn 500.00 5,491.80 10,985.40 23,256.00 
+1000 Mbit/sn 500.00 5,781.60 11,563.20 24,480.00 
+1500 Mbit/sn 500.00 6,939.00 13,878.00 29,376.00 
+2000 Mbit/sn 500.00 7,516.80 15,033.60 31,824.00 
+2500 Mbit/sn 500.00 9,252.00 18,504.00 39,168.00 
+3000 Mbit/sn 500.00 9,540.00 19,081.80 40,392.00 
+4000 Mbit/sn 500.00 9,828.00 19,661.40 41,616.00 
+5000 Mbit/sn 500.00 10,117.80 20,239.20 42,840.00 
+6000 Mbit/sn 500.00 10,405.80 20,817.00 44,064.00 
+7000 Mbit/sn 500.00 10,693.80 21,394.80 45,288.00 
+8000 Mbit/sn 500.00 10,983.60 21,972.60 46,512.00 
+9000 Mbit/sn 500.00 11,271.60 22,552.20 47,736.00 
+10000 Mbit/sn 500.00 11,565.00 23,130.00 48,960.00 
+15000 Mbit/sn 500.00 13,012.20 26,020.80 55,080.00 
+20000 Mbit/sn 500.00 14,459.40 28,911.60 61,200.00 
+25000 Mbit/sn 500.00 15,906.60 31,802.40 67,320.00 
+30000 Mbit/sn 500.00 17,353.80 34,693.20 73,440.00 
+40000 Mbit/sn 500.00 18,801.00 37,584.00 79,560.00 
+50000 Mbit/sn 500.00 20,248.20 40,474.80 85,680.00 
+60000 Mbit/sn 500.00 20,971.80 41,920.20 88,740.00 
+70000 Mbit/sn 500.00 21,695.40 43,365.60 91,800.00 
+80000 Mbit/sn 500.00 22,419.00 44,811.00 94,860.00 
+90000 Mbit/sn 500.00 23,142.60 46,256.40 97,920.00 
+100000 Mbit/sn 500.00 23,866.20 47,701.80 100,980.00 
+2.9. ÖZEL SERVİS NUMARALARI 
+2.9.1. Yedi Rakamlı (444xxxx) Sanal Numaralar 
+Numara/İşlem Türü Tesis Ücreti Kira Ücreti Açıklama 
+Son dört rakamı aynı ise 100.00 TL 225.00TL/Ay ör: 4445555 
+Son dört rakamdan ardarda üçü aynı ise 100.00 TL 175.00TL/Ay ör: 4440001, 4441000 
+Son dört rakamı ikili ikili simetrik ise 100.00 TL 150.00TL/Ay ör: 4440202, 4442233 
+Son dört rakamı ardışıl sıralı ise 100.00 TL 125.00TL/Ay ör: 4446789, 4444321 
+Yukardaki sınıflar dışında kalan numaralar 100.00 TL 75.00TL/Ay ör: 4441285 
+Sanal numaranın gerçek numara yerine gösterimi - 10.00TL/Ay 
+NOT: 
+ Yedi rakamlı (444xxxx) bir sanal numaranın, PSTN veya PRA numarasından tanıtımının kaldırılması ve aynı
+şahsa ait olmak kaydıyla başka bir PSTN veya PRA numarasına tanıtılması için ücret alınmaz. 
+643 
+[SAYFA 20]
+9 
+ Yedi rakamlı (444xxxx) bir sanal numara birden fazla santralda sonlanacaksa, her farklı sonlanma için ayrı
+tahsis ücreti alınır. Ancak kira ücreti sadece bir tek numaraya işlenir. Bu numara abonenin tercihine
+bırakılmıştır. 
+ Yedi rakamlı (444xxxx) bir sanal numaranın gerçek numara yerine gösterimi, hizmet alınan santralın bu
+özelliği desteklemesi durumunda geçerlidir. 
+2.9.2. Üç (1xx) Rakamlı Sanal Numaralar 
+Numara Türü Tesis Ücreti Kira Ücreti Açıklama 
+Üç rakamlı özel servis numaraları 100.00 TL 100.00TL/Ay Özel kullanım 
+Sanal numaranın gerçek numara yerine gösterimi - 10.00TL/Ay 
+ Üç rakamlı (1xx) bir sanal numaranın gerçek numara yerine gösterimi, hizmet alınan santralın bu özelliği
+desteklemesi durumunda geçerlidir. 
+2.9.3. Dört Rakamlı (xxxx) Sanal Numaralar 
+Numara Türü Tesis Ücreti Kira Ücreti Açıklama 
+Dört rakamı ayni ise 100.00 TL 225.00TL/Ay ör: 11 11 
+Dört rakamı ardışık sıralı ise 100.00 TL 175.00TL/Ay ör: 1234 
+İlk iki ve son iki rakamı aynı ise 100.00 TL 150.00TL/Ay ör: 1199, 1133 
+Yukardaki sınıf dışında kalan numaralar 100.00 TL 100.00TL/Ay ör: 1148, 1192 
+Sanal numaranın gerçek numara yerine gösterimi - 10.00TL/Ay 
+ Dört rakamlı (xxxx) bir sanal numaranın gerçek numara yerine gösterimi, hizmet alınan santralın bu özelliği
+desteklemesi durumunda geçerlidir. 
+2.9.4. Diğer Numaralar 
+Numara Türü Tesis Ücreti Kira Ücreti Açıklama 
+Madde 2.9.1. - 2.9.2. - 2.9.3. içeriği dışındaki
+servis numaraları - - 
+Kira, işletim ve paylaşım 
+oranları sözleşmeler ile 
+belirlenir. 
+2.10. KATMA DEĞERLİ SERVİSLER 
+Numara Türü Tesis Ücreti Kira Ücreti Açıklama 
+Özel tarifeli servisler (900 ile başlayan hatlar) 1000.00 TL 500.00TL/Ay 
+Ücretsiz aranan telefonlar (800 ile başlayan 
+hatlar) 500.00 TL 200.00TL/Ay 
+NOT: 
+ Ücretsiz aranan telefonlara (800 ile başlayan hatlar) ilişkin görüşme ücretleri aranan taraftan ödenir ve bu 
+servislerin görüşme ücretleri sözleşme ile belirlenir. 
+644 
+[SAYFA 21]
+10 
+2.11. FRAME RELAY, ATM VE METRO ETHERNET TARİFESİ 
+2.11.1. FRAME RELAY INTERNET ÜCRETLERİ 
+Port Ücretleri 
+Tesis Ücreti (TL) Hız (kbps) Aylık Ücret (TL/Ay) 
+250.00 64 59.63
+250.00 128 93.13
+250.00 256 149.41
+250.00 512 245.22
+250.00 1024 408.03
+250.00 2048 686.08 
+2.11.2. FRAME RELAY NOKTADAN NOKTAYA DEVRE ÜCRETLERİ 
+Port Ücretleri 
+Tesis Ücreti (TL) Hız (kbps) Aylık Ücret (TL/Ay) 
+250.00 33.6 6.77 
+250.00 64 11.28 
+250.00 128 19.55 
+250.00 256 33.08 
+250.00 512 56.39 
+250.00 1024 95.49 
+250.00 2048 163.16 
+PVC Ücretleri 
+Tesis Ücreti (TL) PVC Hızı (Mbps) CIR Ücret (TL/Ay) EIR Ücret (TL/Ay) 
+250.00 8 27.56 12.78 
+250.00 16 36.84 18.05 
+250.00 32 54.89 22.07 
+250.00 48 70.68 - 
+250.00 64 85.71 42.86
+250.00 96 113.53 -
+250.00 128 138.35 69.17
+250.00 160 162.41 -
+250.00 192 184.96 92.48
+250.00 224 207.52 -
+250.00 256 228.57 114.29
+250.00 320 269.17 134.59
+250.00 384 307.52 154.14
+250.00 448 345.11 172.18
+250.00 512 381.20 190.23
+250.00 640 449.62 224.81
+250.00 704 - 241.35
+250.00 768 515.79 257.89
+250.00 832 - 273.68
+250.00 896 578.95 289.47 
+645 
+[SAYFA 22]
+11 
+250.00 960 - 305.26 
+250.00 1024 640.60 320.30 
+250.00 1088 - 335.34 
+250.00 1152 - 349.62 
+250.00 1216 - 364.66 
+250.00 1280 757.89 378.95 
+250.00 1344 - 393.23 
+250.00 1408 - 406.77 
+250.00 1472 - 421.05 
+250.00 1536 869.92 434.59 
+250.00 1792 977.44 - 
+250.00 2048 1,081.20 - 
+2.11.3. ATM INTERNET ÜCRETLERİ 
+Port Ücretleri 
+Tesis Ücreti (TL) Hız (kbps) Aylık Ücret (TL/Ay) 
+250.00 2 145.39
+250.00 34 1,247.54
+250.00 155 3,985.16
+250.00 622 11,544.77 
+PVC Ücretleri 
+Tesis Ücreti (TL) PVC Hızı (TL/Ay) Aylık Ücret (TL/Ay) 
+250.00 1 873.5 
+250.00 2 1,176.52 
+250.00 4 1,719.22 
+250.00 6 2,176.83 
+250.00 8 2,586.87 
+250.00 10 2,965.42 
+250.00 12 3,319.85 
+250.00 14 3,655.52 
+250.00 16 3,976.45 
+250.00 18 4,283.98 
+250.00 20 4,581.46 
+250.00 22 4,868.89 
+250.00 24 5,148.28 
+250.00 26 5,420.30 
+250.00 28 5,685.30
+250.00 30 5,944.91
+250.00 32 6,198.84
+250.00 34 6,447.41
+250.00 38 6,931.15
+250.00 42 7,398.81
+250.00 46 7,852.40
+250.00 50 8,293.26
+250.00 54 8,723.40
+250.00 58 9,142.82 
+646 
+[SAYFA 23]
+12 
+250.00 62 9,552.86
+250.00 66 9,954.86
+250.00 70 10,348.82
+250.00 74 10,736.08
+250.00 78 11,116.64
+250.00 82 11,490.50
+250.00 86 11,858.33
+250.00 90 12,221.47
+250.00 94 12,578.58
+250.00 98 12,931.60
+250.00 102 13,279.40
+250.00 106 13,623.78
+250.00 110 13,962.80
+250.00 114 14,298.47
+250.00 118 14,630.79
+250.00 122 14,959.09
+250.00 126 15,283.37
+250.00 130 15,604.97
+250.00 134 15,923.22
+250.00 138 16,238.79
+250.00 142 16,551.01
+250.00 146 16,860.55
+250.00 150 17,167.41
+250.00 155 15,547.30
+250.00 166 18,369.39
+250.00 182 19,534.52
+250.00 198 20,667.49
+250.00 214 21,770.98
+250.00 230 22,848.34
+250.00 246 23,901.58
+250.00 300 27,305.18
+250.00 310 27,912.87
+250.00 354 30,515.82
+250.00 408 33,571.69
+250.00 465 36,659.72
+250.00 516 39,320.29
+250.00 570 42,046.52
+250.00 622 44,593.86 
+647 
+[SAYFA 24]
+13 
+2.11.4. ATM NOKTADAN NOKTAYA DEVRE ÜCRETLERİ 
+Port Ücretleri 
+Tesis Ücreti (TL) Hız (kbps) Aylık Ücret (TL/Ay) 
+250.00 2 145.39
+250.00 34 1,247.54
+250.00 155 3,985.16
+250.00 622 11,544.77 
+PVC Ücretleri 
+Tesis Ücreti (TL) PVC Hızı (Mbps) CBR Ücreti (TL/Ay) VBR Ücreti (TL/Ay) 
+250.00 1 1,110.53 888.72 
+250.00 2 1,635.34 1,308.27 
+250.00 4 2,474.44 1,979.70 
+250.00 6 3,083.46 2,546.62 
+250.00 8 3,818.05 3,054.14 
+250.00 10 4,403.01 3,522.56 
+250.00 12 4,951.13 3,960.90 
+250.00 14 5,470.68 4,376.69 
+250.00 16 5,966.92 4,773.68 
+250.00 18 6,443.61 5,154.89 
+250.00 20 6,903.01 5,522.56
+250.00 22 7,348.12 5,878.20
+250.00 24 7,780.45 6,224.06
+250.00 26 8,201.50 6,560.90
+250.00 28 8,611.28 6,889.47
+250.00 30 9,012.78 7,210.53
+250.00 32 9,405.26 7,524.06
+250.00 34 9,790.23 7,832.33
+250.00 38 10,538.35 8,430.83
+250.00 42 11,261.65 9,009.77
+250.00 46 11,963.91 9,570.68
+250.00 50 12,645.86 10,116.54
+250.00 54 13,310.53 10,648.12
+250.00 58 13,959.40 11,167.67
+250.00 62 14,594.74 11,675.19
+250.00 66 15,216.54 12,172.93
+250.00 70 15,826.32 12,660.90
+250.00 74 16,424.81 13,139.85
+250.00 78 17,012.78 13,610.53
+250.00 82 17,591.73 14,072.93
+250.00 86 18,160.90 14,529.32
+250.00 90 18,722.56 14,978.20
+250.00 94 19,275.94 15,420.30
+250.00 98 19,821.05 15,857.14
+250.00 102 20,360.15 16,287.97
+250.00 106 20,891.73 16,713.53
+250.00 110 21,417.29 17,133.83 
+648 
+[SAYFA 25]
+14 
+250.00 114 21,936.09 17,548.87 
+250.00 118 22,449.62 17,959.40 
+250.00 122 22,957.14 18,366.17 
+250.00 126 23,460.15 18,767.67 
+250.00 130 23,957.14 19,166.17 
+250.00 134 24,449.62 19,560.15 
+250.00 138 24,937.59 19,950.38 
+250.00 142 25421.05 20,336.84 
+250.00 146 25,900.00 20,719.55 
+250.00 150 26,374.44 21,099.25 
+250.00 155 26,962.41 21,569.92 
+250.00 166 28,233.83 22,587.22 
+250.00 182 30,036.84 24,029.32
+250.00 198 31,788.72 25,430.83
+250.00 214 33,496.24 26,796.99
+250.00 230 35,162.41 28,130.08
+250.00 246 36,791.73 29,433.83
+250.00 300 42,057.14 33,645.86
+250.00 310 42,997.74 34,398.50
+250.00 354 47,024.81 37,619.55
+250.00 408 51,752.63 41,402.26
+250.00 465 56,529.32 45,223.31
+250.00 516 60,645.11 48,516.54
+250.00 570 64,863.16 51,890.23
+250.00 622 68,804.51 55,043.61 
+2.11.5. METRO ETHERNET INTERNET ÜCRETLERİ 
+METRO ETHERNET INTERNET ÜCRETLERİ 
+Hızı (Mbps) Aylık Ücret (TL) 
+5 3,554
+6 3,574
+7 3,595
+8 3,616
+9 3,636
+10 3,657
+15 3,761
+20 3,864
+30 4,071
+40 4,278
+50 4,485
+60 4,692
+70 4,899
+80 5,106
+90 5,313
+100 5,520 
+649 
+[SAYFA 26]
+15 
+150 6,555
+200 7,590
+250 8,625
+300 9,660
+350 10,695
+400 11,730
+450 12,765
+500 13,800
+600 15,870
+700 17,940
+800 20,010
+900 22,080
+1000 24,150
+1250 29,325
+1500 34,500
+2000 44,850
+2500 55,200
+3000 65,550
+4000 86,250
+5000 106,950
+7000 148,350
+10000 210,450
+12500 262,200
+15000 313,950
+17500 365,700
+20000 417,450
+22500 469,200
+25000 520,950
+27500 572,700
+30000 624,450
+32500 676,200
+35000 727,950
+37500 779,700
+40000 831,450
+42500 883,200
+45000 934,950
+47500 986,700
+50000 1,038,450
+52500 1,090,200
+55000 1,141,950
+57500 1,193,700
+60000 1,245,450
+62500 1,297,200
+65000 1,348,950
+67500 1,400,700
+70000 1,452,450
+72500 1,504,200 
+650 
+[SAYFA 27]
+16 
+75000 1,555,950
+77500 1,607,700
+80000 1,659,450
+82500 1,711,200
+85000 1,762,950
+87500 1,814,700
+90000 1,866,450
+92500 1,918,200
+95000 1,969,950
+97500 2,021,700
+100000 2,073,450
+NOT: 
+ Metro Ethernet Internet tesis ücreti bir defaya mahsus olarak 15,000.00 (onbeşbin) TL alınır. 
+2.11.6. METRO ETHERNET NOKTADAN NOKTAYA DEVRE ÜCRETLERİ 
+NOKTADAN NOKTAYA METRO ETHERNET ÜCRETLERİ 
+Tesis Ücreti (TL) Hızı (Mbps) Aylık Ücret (TL) 
+750 5 1,967 
+750 6 2,123 
+750 7 2,268 
+750 8 2,406 
+750 9 2,544 
+750 10 2,675 
+750 15 3,269 
+750 20 3,804 
+750 30 4,752 
+750 40 5,607 
+750 50 6,392 
+750 60 7,133 
+750 70 7,832 
+750 80 8,496 
+750 90 9,143 
+750 100 9,755 
+750 150 12,593 
+750 200 15,137 
+750 250 17,483 
+750 300 19,674 
+750 350 21,761 
+750 400 23,745 
+750 450 25,652
+750 500 27,497
+750 600 31,007 
+651 
+[SAYFA 28]
+17 
+750 700 34,337 
+750 800 37,520 
+750 900 40,572 
+750 1000 43,523 
+750 1250 49,103 
+750 1500 52,328 
+750 2000 57,408 
+750 2500 61,557 
+750 3000 64,239 
+750 3500 67,034 
+750 4000 69,294 
+750 4500 71,061 
+750 5000 73,476 
+750 7000 92,306 
+750 10000 126,288 
+NOT: 
+ Aylık kanal ücretlerine ek olarak Kısım II, Madde 2.8.3 Kiralık Devre Ücretleri Bölgeler Arası hat kira ücreti
+alınır. 
+2.11.7. 
+A- DDOS ATAK ÖNLEME HİZMETİ ÜCRETLERİ 
+(A bonelik sözleşmesi 1 Mart 2023’e kadar olan kurum ve kuruluşlar için geçerlidir. ) 
+EKONOMİK DDOS ATAK ÖNLEME PAKETİ ÜCRETLERİ 
+Erişim 
+Aralığı Hız (Mbps) 
+Taahhütsüz Taahhütlü 
+Aylık Tarife Fiyatı (TL) Aylık Tarife Fiyatı (TL) 
+5 350 175
+6 381 191
+7 405 203
+8 421 211
+9 429 215
+10 445 222
+15 588 294
+20 707 354
+30 953 477
+40 1,192 596
+50 1,430 715
+60 1,748 874
+70 1,986 993
+80 2,304 1,152
+90 2,495 1,247
+100 2,622 1,311 
+652 
+[SAYFA 29]
+18 
+PREMIUM DDOS ATAK ÖNLEME PAKETİ ÜCRETLERİ 
+Erişim 
+Aralığı Hız (Mbps) 
+Taahhütsüz Taahhütlü 
+Aylık Tarife Fiyatı (TL) Aylık Tarife Fiyatı (TL) 
+5 501 250 
+6 548 274 
+7 572 286 
+8 604 302 
+9 612 306
+10 636 318
+15 842 421
+20 1,001 501
+30 1,359 679
+40 1,748 874
+50 2,066 1,033
+60 2,463 1,231
+70 2,813 1,406
+80 3,257 1,629
+90 3,575 1,788
+100 3,734 1,867
+125 4,608 2,304
+150 5,323 2,662
+200 6,435 3,218
+250 7,421 3,710
+300 8,374 4,187
+350 9,216 4,608
+400 9,852 4,926
+450 10,646 5,323
+500 11,441 5,720
+600 12,474 6,237
+700 13,506 6,753
+800 14,460 7,230
+900 15,445 7,722
+1000 16,367 8,183
+1250 19,306 9,653
+1500 21,467 10,734
+2000 27,346 13,673
+2500 31,462 15,731
+3000 34,958 17,479
+4000 44,571 22,285
+5000 51,960 25,980
+7000 67,341 33,671
+10000 89,873 44,936
+12500 104,428 52,214
+15000 117,704 58,852
+17500 128,469 64,235
+20000 136,732 68,366
+25000 161,377 80,689 
+653 
+[SAYFA 30]
+19 
+30000 184,560 92,280 
+40000 227,813 113,906 
+50000 270,922 135,461 
+60000 303,814 151,907 
+70000 331,382 165,691 
+80000 340,201 170,101 
+90000 364,513 182,256 
+100000 ve üzeri 379,688 189,844 
+PREMIUM + DDOS ATAK ÖNLEME PAKETİ ÜCRETLERİ 
+Erişim 
+Aralığı Hız (Mbps) 
+Taahhütsüz Taahhütlü 
+Aylık Tarife Fiyatı (TL) Aylık Tarife Fiyatı (TL) 
+5 651 326 
+6 707 354
+7 747 373
+8 779 389
+9 794 397
+10 826 413
+15 1,096 548
+20 1,303 651
+30 1,764 882
+40 2,225 1,112
+50 2,701 1,351
+60 3,178 1,589
+70 3,655 1,827
+80 4,227 2,113
+90 4,624 2,312
+100 4,862 2,431
+125 5,975 2,987
+150 6,928 3,464
+200 8,342 4,171
+250 9,693 4,846
+300 10,885 5,442
+350 11,997 5,998
+400 12,871 6,435
+450 13,824 6,912
+500 14,857 7,428
+600 16,208 8,104
+700 17,479 8,739
+800 18,750 9,375
+900 20,101 10,050
+1000 21,292 10,646
+1250 25,106 12,553
+1500 27,887 13,943
+2000 35,546 17,773 
+654 
+[SAYFA 31]
+20 
+2500 40,916 20,458 
+3000 45,413 22,707 
+4000 57,918 28,959 
+5000 67,532 33,766 
+7000 87,553 43,776 
+10000 116,870 58,435 
+12500 135,779 67,889
+15000 153,019 76,510
+17500 166,843 83,422
+20000 177,966 88,983
+25000 214,513 107,256
+30000 239,936 119,968
+40000 296,345 148,173
+50000 352,754 176,377
+60000 394,862 197,431
+70000 430,614 215,307
+80000 442,532 221,266
+90000 474,311 237,156 
+100000 ve üzeri 500,530 250,265 
+B- DDOS ATAK ÖNLEME HİZMETİ ÜCRETLERİ 
+(Abonelik Sözleşmeleri 1 Mart 202 3 ve 1 Ekim 2023 arasında sona erecek kurum ve kuruluşlar
+için geçerlidir .) 
+EKONOMİK DDOS ATAK ÖNLEME PAKETİ ÜCRETLERİ 
+Erişim 
+Aralığı Hız (Mbps) 
+Taahhütsüz 
+Aylık Tarife Fiyatı (TL) 
+Taahhütlü 
+Aylık Tarife Fiyatı (TL) 
+5 224 112
+6 244 122
+7 259 130
+8 269 135
+9 275 137
+10 285 142
+15 376 188
+20 453 226
+30 610 305
+40 763 381
+50 915 458
+60 1,119 559
+70 1,271 636
+80 1,475 737
+90 1,597 798
+100 1,678 839 
+655 
+[SAYFA 32]
+21 
+PREMIUM DDOS ATAK ÖNLEME PAKETİ ÜCRETLERİ 
+Erişim 
+Aralığı Hız (Mbps) 
+Taahhütsüz 
+Aylık Tarife Fiyatı (TL) 
+Taahhütlü 
+Aylık Tarife Fiyatı (TL) 
+5 320 160
+6 351 175
+7 366 183
+8 386 193
+9 392 196
+10 407 203
+15 539 269
+20 641 320
+30 89 435
+40 1,119 559
+50 1,322 661
+60 1,576 788
+70 1,800 900
+80 2,085 1,042
+90 2,288 1,144
+100 2,390 1,195
+125 2,949 1,475
+150 3,407 1,703
+200 4,119 2,059
+250 4,749 2,375
+300 5,359 2,680
+350 5,898 2,949
+400 6,305 3,153
+450 6,814 3,407
+500 7,322 3,661
+600 7,983 3,992
+700 8,644 4,322
+800 9,254 4,627
+900 9,885 4,942
+1000 10,475 5,237
+1250 12,356 6,178
+1500 13,739 6,869
+2000 17,502 8,751
+2500 20,136 10,068
+3000 22,373 11,186
+4000 28,525 14,263
+5000 33,254 16,627
+7000 43,098 21,549
+10000 57,519 28,759 
+656 
+[SAYFA 33]
+22 
+12500 66,834 33,417
+15000 75,331 37,665
+17500 82,220 41,110
+20000 87,508 43,754
+25000 103,281 51,641
+30000 118,119 59,059
+40000 145,800 72,900
+50000 173,390 86,695
+60000 194,441 97,220
+70000 212,085 106,042
+80000 217,729 108,864
+90000 233,288 116,644
+100000 ve üzeri 243,000 121,500 
+PREMIUM + DDOS ATAK ÖNLEME PAKETİ ÜCRETLERİ 
+Erişim 
+Aralığı Hız (Mbps) 
+Taahhütsüz 
+Aylık Tarife Fiyatı (TL) 
+Taahhütlü 
+Aylık Tarife Fiyatı (TL) 
+5 417 208
+6 453 226
+7 478 239
+8 498 249
+9 508 254
+10 529 264
+15 702 351
+20 834 417
+30 1,129 564
+40 1,424 712
+50 1,729 864
+60 2,034 1,017
+70 2,339 1,169
+80 2,705 1,353
+90 2,959 1,480
+100 3,112 1,556
+125 3,824 1,912
+150 4,434 2,217
+200 5,339 2,669
+250 6,203 3,102
+300 6,966 3,483
+350 7,678 3,839
+400 8,237 4,119
+450 8,847 4,424 
+657 
+[SAYFA 34]
+23 
+500 9,508 4,754 
+600 10,373 5,186
+700 11,186 5,593
+800 12,000 6,000
+900 12,864 6,432
+1000 13,627 6,814
+1250 16,068 8,034
+1500 17,847 8,924
+2000 22,749 11,375
+2500 26,186 13,093
+3000 29,064 14,532
+4000 37,068 18,534
+5000 43,220 21,610
+7000 56,034 28,017
+10000 74,797 37,398
+12500 86,898 43,449
+15000 97,932 48,966
+17500 106,780 53,390
+20000 113,898 56,949
+25000 137,288 68,644
+30000 153,559 76,780
+40000 189,661 94,831
+50000 225,763 112,881
+60000 252,712 126,356
+70000 275,593 137,797
+80000 283,220 141,610
+90000 303,559 151,780
+100000 ve üzeri 320,339 160,169 
+C- DDOS ATAK ÖNLEME HİZMETİ ÜCRETLERİ 
+( Taahhütleri 1 Aralık 2023 ’de sona erecek kurum ve kuruluşlar için geçerlidir. ) 
+Erişim 
+Aralığı Hız (Mbps) 
+Taahhütsüz 
+Aylık Tarife Fiyatı (TL) 
+Taahhütlü 
+Aylık Tarife Fiyatı (TL) 
+5 320 192
+6 351 211
+7 366 220
+8 386 232
+9 392 235
+10 407 244
+15 539 323
+20 641 385
+30 890 534 
+658 
+[SAYFA 35]
+24 
+40 1,119 671
+50 1,322 793
+60 1,576 946
+70 1,800 1,080
+80 2,085 1,251
+90 2,288 1,373
+100 2,390 1,434
+125 2,949 1,769
+150 3,407 2,044
+200 4,119 2,471
+250 4,749 2,849
+300 5,359 3,215
+350 5,898 3,539
+400 6,305 3,783
+450 6,814 4,088
+500 7,322 4,393
+600 7,983 4,790
+700 8,644 5,186
+800 9,254 5,552
+900 9,885 5,931
+1000 10,475 6,285
+1250 12,356 7,414
+1500 13,739 8,242
+2000 17,502 10,501
+2500 20,136 12,082
+3000 22,373 13,424
+4000 28,525 17,115
+5000 33,254 19,952
+7000 43,098 25,859
+10000 57,519 34,511
+12500 66,834 40,100
+15000 75,331 45,199
+17500 82,220 49,332
+20000 87,508 52,505
+25000 103,281 61,969
+30000 118,119 70,871
+40000 145,800 87,480
+50000 173,390 104,034
+60000 194,441 116,665
+70000 212,085 127,251
+80000 217,729 130,637
+90000 233,288 139,973 
+100000 ve üzeri 243,000 145,800 
+659 
+[SAYFA 36]
+25 
+D- DDOS ATAK ÖNLEME HİZMETİ ÜCRETLERİ 
+(Taahhütleri 1 Nisan 2023 ile 30 Mayıs 2023 arasında sona erecek kurum ve kuruluşlar için 
+geçerlidir. ) 
+EKONOMİK DDOS ATAK ÖNLEME PAKETİ ÜCRETLERİ 
+Erişim 
+Aralığı Hız 
+(Mbps) 
+Taahhütsüz 
+Aylık Tarife Fiyatı(TL) 
+Taahhütlü 
+Aylık Tarife Fiyatı(TL) 
+5 350 227 
+6 381 248 
+7 405 263 
+8 421 274 
+9 429 279 
+10 445 289 
+15 588 382 
+20 707 460
+30 953 620
+40 1,192 775
+50 1,430 930
+60 1,748 1,136
+70 1,986 1,291
+80 2,304 1,498
+90 2,495 1,622
+100 2,622 1,704 
+PREMIUM DDOS ATAK ÖNLEME PAKETİ ÜCRETLERİ 
+Erişim 
+Aralığı Hız 
+(Mbps) 
+Taahhütsüz
+Aylık Tarife Fiyatı(TL) 
+Taahhütlü (12 Ay) 
+Aylık Tarife Fiyatı(TL) 
+5 501 325 
+6 548 356 
+7 572 372 
+8 604 392 
+9 612 398 
+10 636 413 
+15 842 547 
+20 1,001 651 
+30 1,359 883 
+40 1,748 1,136 
+50 2,066 1,343 
+60 2,463 1,601 
+70 2,813 1,828 
+80 3,257 2,117 
+90 3,575 2,324 
+100 3,734 2,427 
+125 4,608 2,995 
+150 5,323 3,460 
+200 6,435 4,183 
+250 7,421 4,823 
+300 8,374 5,443 
+350 9,216 5,990 
+400 9,852 6,404 
+660 
+[SAYFA 37]
+26 
+450 10,646 6,920 
+500 11,441 7,436 
+600 12,474 8,108 
+700 13,506 8,779 
+800 14,460 9,399 
+900 15,445 10,039 
+1000 16,367 10,638 
+1250 19,306 12,549 
+1500 21,467 13,954 
+2000 27,346 17,775 
+2500 31,462 20,450 
+3000 34,958 22,722 
+4000 44,571 28,971 
+5000 51,960 33,774 
+7000 67,341 43,772 
+10000 89,873 58,417 
+12500 104,428 67,878 
+15000 117,704 76,508 
+17500 128,469 83,505 
+20000 136,732 88,876 
+25000 161,377 104,895 
+30000 184,560 119,964 
+40000 227,813 148,078 
+50000 270,922 176,099 
+60000 303,814 197,479 
+70000 331,382 215,399 
+80000 340,201 221,131 
+90000 364,513 236,933 
+100000+ 379,688 246,797 
+PREMIUM+ DDOS ATAK ÖNLEME PAKETİ ÜCRETLERİ 
+Erişim 
+Aralığı Hız 
+(Mbps) 
+Taahhütsüz 
+Aylık Tarife Fiyatı(TL) 
+Taahhütlü (12 Ay) 
+Aylık Tarife Fiyatı(TL) 
+5 651 423
+6 707 460
+7 747 485
+8 779 506
+9 794 516
+10 826 537
+15 1,096 713
+20 1,303 847
+30 1,764 1,146
+40 2,225 1,446
+50 2,701 1,756
+60 3,178 2,066
+70 3,655 2,376
+80 4,227 2,747
+90 4,624 3,006
+100 4,862 3,160
+125 5,975 3,883 
+661 
+[SAYFA 38]
+27 
+150 6,928 4,503 
+200 8,342 5,422 
+250 9,693 6,300 
+300 10,885 7,075
+350 11,997 7,798
+400 12,871 8,366
+450 13,824 8,986
+500 14,857 9,657
+600 16,208 10,535
+700 17,479 11,361
+800 18,750 12,188
+900 20,101 13,065
+1000 21,292 13,840
+1250 25,106 16,319
+1500 27,887 18,126
+2000 35,546 23,105
+2500 40,916 26,596
+3000 45,413 29,519
+4000 57,918 37,647
+5000 67,532 43,896
+7000 87,553 56,909
+10000 116,870 75,965
+12500 135,779 88,256
+15000 153,019 99,462
+17500 166,843 108,448
+20000 177,966 115,678
+25000 214,513 139,433
+30000 239,936 155,959
+40000 296,345 192,624
+50000 352,754 229,290
+60000 394,862 256,660
+70000 430,614 279,899
+80000 442,532 287,646
+90000 474,311 308,302
+100000+ 500,530 325,344 
+DDOS paketi kapsamında; 
+ Ekonomik Paket kapsamında; 
+x Aylık raporlama ve yedek koruma hizmeti ücretsizdir. 
+x Client to site VPN, IP Zone ve profosyonel raporlama hizmetleri ücretlidir. 
+ Premium Paket Kapsamında; 
+x Aylık raporlama, 1 adet Client to site VPN, Cloud Signalling ve yedek koruma. 
+ Premium + Paket Kapsamında; 
+x Haftalık raporlama, 5 adet Client to site VPN, Cloud Signalling, Cloud DDOS ve yedek koruma hizmeti
+ücretsizdir. Bunların dışında eklenti olarak talep edilen hizmetler ücretlidir. Abonelik boyunca bir kez
+DDOS Atak Simülasyonu hizmetinden dilediği paketi ücretsiz kullanılabilecektir. 
+662 
+[SAYFA 39]
+28 
+ DDOS Atak Önleme Kapsamında Eklenti Hizmet Tarife Fiyatları; 
+x Client to site VPN ücreti client başına 200.00 (ikiyüz) TL’dir. 
+x Profosyonel raporlama hizmetini tek seferlik olup adam/gün ücretinin 800.00 (seküzyüz) TL ile çarpımı
+faturalandırılır. Adam/Gün ücreti proje bazlı olarak aboneye iletilir ve uygun görülmesi halinde 
+projelendirilerek aboneye faturaland ırılır. 
+x Cloud Anti- DDOS hizmeti, abonenin seçmiş olduğu aylık DDOS paket ücretinin %30 u olarak
+faturlandırılır. 
+x Cloud Signalling hizmeti aylık tarife ücreti 800.00 (seküzyüz) TL’dir. 
+x Günlük raporlama hizmeti aylık tarife ücreti 115.00 (yüzonbeş) TL‘dir. 
+x I nline Koruma, abonenin seçmiş olduğu aylık DDOS paket ücretinin abonenin ilettiği IP Sayısı ile çarpımı
+olacak şekilde faturalandırılır. 
+x IP Zone hizmeti, 0- 100Mbps için 2 (iki) adet, 101 - 1000Mbps için 3 (üç) adet, 1001 Mbps için 4 (dört) adet
+ücretsizdir. Abonenin bu adetlerin üzerinde IP Zone talebi olması halinde; her IP Zone başına DDOS Aylık
+Paket Ücretinin %10 u olarak ücretlendirme yapılır. 
+NOT: 
+ DDOS Atak Önleme hizmeti tesis ücreti 150.00 (yüzelli) TL’dir. 
+2.11.8 Çoklu IP Adresi Ücretleri 
+IPV6 BLOĞU ÜCRETLERİ 
+IP ADEDİ AYLIK ÜCRETLER (TL) 
+/56 IP Bloğu 86.25 
+/48 IP Bloğu 115.00 
+IPV4 BLOĞU ÜCRETLERİ 
+IP ADEDİ AYLIK ÜCRETLER (TL)
+1 11.50
+2 17.25
+4 23.00
+8 28.75
+16 34.50
+32 46.00
+64 57.50
+128 86.25
+256 (C Class) 138.00 
+2.11.9. METRO ETHERNET İNTERNET VE METRO ETHERNET NOKTADAN NOKTAYA
+HİZMETLER İÇİN PORT TAHSİS, PORT DEĞİŞİKLİĞİ VE YEDEK PORT HİZMETLERİ 
+UYGULAMA ESASLARI 
+2.11.9.1. KAPSAM VE HİZMET ALANI 
+Port Tahsis, Port Değişikliği ve İlave Port Hizmetleri ile KKTC Telekomünikasyon Dairesinin Türk
+Telekom aracılığı ile verilen Metro Ethernet İnternet ve Metro Ethernet Noktadan Noktaya
+hizmetleri için KKTC Telekomünikasyon Dairesi binasında bulunan Türk Telekom MPLS
+sistemlerinde yer alan 1 (bir) Gbps, 10 (on) Gbps ve 100 (yüz) Gbps’lik Ethernet portlarının tahsisi,
+değişikliği ve yedek port verilmesi sağlanacaktır. 
+2.11.9.2. HİZMET TANIMI VE ESASLARI 
+2.11.9.2.1 PORT TAHSİSİ 
+2.11.9.2.1.1 Tanım: 
+663 
+1 1 
+[SAYFA 40]
+29 
+Yukarıda belirtilen hizmet alanları kapsamında, yukarda bahsedilen MPLS Sistemindeki
+portların bağlanmak üzere başvuranlara, belirtilen koşullar altında ayrılmasıdır. 
+2.11.9.2.1.2 Koşullar: 
+MPLS sisteminde; 
+i 800 Mbps altındaki bağlantılarda 1 Gbps kapasiteli, 
+i 800 Mbps ve 8 Gbps arasındaki bağlantılarda 10 Gbps kapasiteli, 
+i Hızı 8 Gbps ve 60 Gbps arasındaki bağlantılarda başvuru talebine istinaden birden fazla
+10 Gbps kapasiteli port Link Aggregation konfigürasyonuyla (Her ilave 10 Gbps port
+talebinde toplam devre hızının port kapasitesinin %80’ini doldurması şartı aranacaktır) 
+i Hızı 60 Gbps ve üzerinde olan bağlantılarda ise 100 Gbps kapasteli port, 
+i 100 Gbps port un devre kapasitesini karşılamadığı hızlarda 100 Gbps porta ilave 10 Gbps 
+kapasiteli portlar Link Aggregation konfigürasyonuyla (Her ilave 10 Gbps port talebinde
+toplam devre hızının port kapasitesinin %80’ini doldurması şartı aranacaktır) 
+i Hızı 90 Gbps ve üzerindeki bağlantılarda başvuru talebine istinaden birden fazla 100 
+Gbps kapasiteli port Link Ag gregation konfigürasyonuyla sadece ME İnternet hizmetleri
+kapsamında (Her ilave 100 Gbps port talebinde toplam devre hızının port kapasitesinin
+%90’ını doldurması şartı aranacaktır.) 24 ay taahhüt karşılığı (Taahhüdün bozulması
+durumunda 2.11.9.2.2.3 (Ücretlendirme) kapsamında 100 Gbps taahhütsüz port ücreti
+devre sahibine yansıtılır.) 
+ücretsiz olarak tahsis edilmektedir. 
+2.11.9.2.2 PORT DEĞİŞİKLİĞİ: 
+2.11.9.2.2.1 Tanım : 
+Yukarıda belirtilen uygulama alanları dahlinde alınan ve port tahsis kuralları kapsamındaki kapasite
+şartlarını sağlamayan bağlantılar için başvuranın isteği ile belirli koşullar altında 10 Gbps ve 100
+Gbps’lik portlardan hizmet alınabilmesidir. 
+2.11.9.2 .2.2 Koşullar : 
+2.11.9.2.2.2.1 Taahhütsüz Koşullar 
+Port değişikliği hizmeti ile Metro Ethernet İnternet ve Metro Ethernet Noktadan Noktaya
+hizmetlerinin verildiği MPLS sisteminde; 
+i 100 Mbps ve 800 Mbps arasındaki Metro Ethernet İnternet ve Noktadan Nokta ya Metro 
+Ethernet bağlantılarda 10 Gbps kapasiteli port, 
+i 8 Gbps ve 60 Gbps arasındaki Metro Ethernet İnternet ve Noktadan Noktaya Metro
+Ethernet bağlantılarda 100 Gbps kapasiteli port, 
+ücreti karşılığında alınabilecektir. 
+2.11.9.2.2.2.2 Taahhütlü Koşullar : 
+Port değişikliği hizmeti ile Metro Ethernet İnternet ve Metro Ethernet Noktadan Noktaya
+hizmetlerinin verildiği MPLS sisteminde; 
+i 250 Mbps ve 800 Mbps arasındaki Metro Ethernet İnternet ve Noktadan Noktaya Metro
+Ethernet bağlantılarda 10 Gbps ka pasiteli port, 
+i 25 Gbps ve 60 Gbps arasındaki arasındaki Metro Ethernet İnternet ve Noktadan Noktaya
+Metro Ethernet bağlantılarda 100 Gbps kapasiteli port, 
+taahhüt vererek ücreti karşılığında alınabilecektir. 
+2.11.9.2.2.3 Ücretlendirme : 
+Port değişikliği ile başvuru talebine istinaden sağlanacak portlar için 
+uygulanacak tek seferlik ücretler aşağıdaki gibidir: 
+Port Değişikliği Tarifesi (TL ) 
+Port Tipi Taahhütsüz 24 Ay 
+Taahhütlü 
+36 Ay 
+Taahhütlü 
+10G Port Ücreti 61,103 33,310 22,207 
+100G Port Ücreti 508,587 277,255 184,837 
+664 
+[SAYFA 41]
+30 
+2.11.9.2.3 PORT TAHSİS VE PORT DEĞİŞİKLİĞİ İLİŞKİN DİĞER ESASLAR: 
+2.11.9.2.3.1 Metro Ethernet İnternet veya Metro Ethernet Noktadan Noktaya hizmeti alanlar, port tahsis
+kapsamında hak etmiş olduğu ücretsiz portlar için gereken koşulların bozulması ( 2.11.9.2.1.2 ‘de (Koşullar)
+belirtilen hızların altına inmesi) durumunda, ilgili port 2.11.9.2.1.2 ’de (Koşullar) belirtilen koşullara uygun
+şekilde değiştirilir. 
+2.11.9.2.3.2 Metro Ethernet İnternet veya Metro Ethernet Noktadan Noktaya hizmeti alanlar, port değişikliği
+kapsamında 2.11.9.2.2.2.1 ’de(Taahhütsüz Koşullar) belirtilen hızların altına inmesi durumunda, ilgili port 
+2.11.9.2.1.2 ’de (Koşullar)belirtilen koşullara uygun şekilde değiştirilir ve hizmeti alanlara ücret iadesi
+yapılmaz. 
+2.11.9.2.3.3 Hizmeti alanların, port değişikliği kapsamında 2.11.9.2.2.2.1 ’de (Taahhütsüz Koşullar) belirtilen
+hızların altına inmesi durumunda, ilgili port 2.11.9.2.2.2 ’de belirtilen (Koşullar) koşullara uygun şekilde 
+değiştirilir veya 2.11.9.2.2.1 ’deki (Taahhütsüz Koşullar) koşullara uyması kaydıyla 2.11.9.2.2.3 ’de belirtilen
+(Ücretlendirme) ilgili port tipine ait ücretler (taahhütsüz ile taahhütlü ücretler arasındaki port ücreti farkı) devre
+sahibine yansıtılır. 
+2.11.9.2.3.4 100 Gbps kapasiteli portlar, 10 Gbps üzeri hız seçenekleri bulunan Metro Ethernet İnternet
+hizmetinde tahsis edilecektir. 10 Gbps üzeri hız seçeneği bulunmayan hizmetlerde (Noktadan Noktaya Metro
+Ethernet) ise aynı portta sonlanan devrelerinin toplam kapasitesinin 8 Gbps üzeri olduğu durumda 100 Gbps 
+portlar 2.11.9.2.1.2 (Koşullar) koşullar çerçevesinde tahsis edilecek veya 2.11.9.2.2.2.2 ‘deki (Taahhütlü
+koşullar) koşullar çerçevesinde değiştirilebilecektir. 
+2.11.9.2.3.5 Transmisyon imkânının bulunmadığı santrallerde oluşabilecek ilave kart ve teçhizat maliyetleri
+işletmeci tarafından karşılanacaktır. 
+2.11.9.2.3.6 Port değişikliği kapsamında tahsis edilen portlar kapasite şartını sağlamak koşuluyla ilişkili
+oldukları hiz met ile birlikte nakil edilebilecektir. 
+2.11.9.2.4 YEDEK PORT : 
+2.11.9.2.4.1 Tanım: 
+Devre sahiplerinin, tahsis edilen portları yedeklemek veya üzerinde yaşanabilecek olası problemlerden
+kaynaklı kesintilerden minimum oranda etkilenmeleri amacıyla mevcut portlarına ek olarak yedek port
+alabilmelerine yönelik hizmettir. 
+2.11.9.2.4.2 Koşullar : 
+2.11.9.2.4.2.1 Devre sahibinin 2.11.9.2.1.2 (Koşullar) ve 2.11.9.2.2.2.2 (Taahhütlü koşullar) maddeleri
+kapsamında kullanılan mevcut portları için yapacakları yedek port taleplerinde; 
+i Hızı 800 Mbps altında olan bağlantılar için ilgili porta yapılacak her yedek 1 Gbps’lik port ücretli, 
+i Hızı 100 Mbps üzerindeki bağlantılar için ilgili porta yapılacak her yedek 10 Gbps’lik port ücretli, 
+i Hızı 8 Gbps üzerindeki bağlantılar için ilgili porta yapılacak her yedek 100 Gbps’lik port ücretli, 
+olarak sağlanacaktır. 
+2.11.9.2.4.2.2 Yedek portlar bağlantının çalıştığı ana portun kapasitesi ile farklı olamayacaktır. 
+2.11.9.2.4.3 Ücretlendirme: 
+Yedek portun 2.11.9.2.4.2 .1 ‘de belirtildiği üzere, ücretli olarak sağlanacağı durumlarda aşağıda yer 
+alan tek seferlik port ücretleri alınacaktır. 
+Yedek Port Tarifesi 
+Port Tipi Tek Seferlik Ücretler (TL) 
+1 Gbps Port Ücreti 1.931 
+10 Gbps Port Ücreti 17.206 
+100 Gbps Port Ücreti 231.046 
+665 
+1983 
+[SAYFA 42]
+31 
+KISIM III 
+TELEFON KONUŞMA ÜCRETLERİ 
+Ada içi ve Türkiye ile yapılan telefon görüşmelerinde (aksi belirtilmediği takdirde) kontör ücreti 5 (beş) krş ,
+uluslar arası ülkeler ile yapılan telefon görüşmelerinde kontör ücreti 25 (yirmibeş) krş 'tur. Konuşma ücreti = (Kontör sayısı
+x kontör ücreti) olarak hesaplanır. Kontörler periyot başlarında peşin olarak yazılır. Tüm görüşme ücretlerine ek olarak KDV
+uygulanır. 
+3.1. ADA İÇİ KONUŞMA ÜCRETLERİ 
+Aranılan Yön ve Numaralar Kontör Atış Periyotu Konuşma ücretleri 
+(sn) (TL/dk) 
+Telekomünikasyon Dairesi’nden Telekomünikasyon 
+Dairesi'ne - Ücretsiz 
+Telekomünikasyon Dairesi’nden VODAFONE Mobile 
+Operations LTD. (KKTC Telsim) 15 0.20 
+Telekomünikasyon Dairesi’nden Kıbrıs Mobile
+Telekomünikasyon LTD. (Kuzey Kıbrıs TURKCELL)’e 15 0.20 
+3.2. ADA İÇİ ÖZEL SERVİS NUMARALARINA ERİŞİM ÜCRETLERİ 
+Aranılan Yön ve Numaralar Kontör Atış Periyotu Konuşma ücretleri 
+(sn) (TL/dk) 
+444xxxx - Ücretsiz 
+1xx - xxxx Özel servis numaraları - Ücretsiz 
+900 9xxxxxx 1.5 2.00 
+900 8xxxxxx 1 3.00 
+900 5xxxxxx 2 1.50 
+900 3xxxxxx 0.6 5.00 
+800'lü hatlar * 
+NOT: 
+ *, 800'lü hatlarda ödeme, aranan tarafından yapılması prensibi üzerine çalışır ve bu servislerin görüşme ücretleri
+sözleşme ile belirlenir. 
+ 900’lü hatlar Telekomünikasyon Dairesi’nin onayı ve uygun görmesi durumunda yasal düzenlemelere uygun olarak 
+verilir. 
+ 800’lü ve 900’lü hatlar , hizmet alınan santralın bu özelliği desteklemesi durumunda geçerlidir . 
+3.3. ULUSLARARASI ÜCRET TARİFESİ 
+A - TÜRKİYE 
+Aranılan Yön ve Numaralar Kontör Atış Periyotu Konuşma ücretleri 
+(sn) (TL/dk) 
+TÜRKİYE PSTN 15 0.20 
+TÜRKİYE GSM 15 0.20 
+666 
+1 - - 1 
+[SAYFA 43]
+32 
+B- DİĞER 
+Aranılan Yön ve Numaralar Kontör Atış Periyotu Konuşma ücretleri 
+(sn) (TL/dk) 
+KADEME - 1 30 0.50
+KADEME - 2 15 1.00
+KADEME - 3 10 1.50
+KADEME - 4 8.55 1.75
+KADEME - 5 6.65 2.26
+KADEME - 6 6 2.50
+KADEME - 7 5 3.00
+KADEME - 8 4.25 3.53
+KADEME - 9 3.75 4.00
+KADEME - 10 3.35 4.48
+KADEME - 11 3 5.00
+KADEME - 12 2.5 6.00
+KADEME - 13 2.3 6.52
+KADEME - 14 2 7.50
+KADEME - 15 1.85 8.11
+KADEME - 16 1.65 9.09
+KADEME - 17 1.35 11.11
+KADEME - 18 1 15.00
+KADEME - 19 0.6 25.00 
+NOT: 
+ Uluslararası görüşme ücret değişiklikleri, ilgili operatörlerle yapılan sözleşmelere bağlı olarak Telekomünikasyon
+Dairesi müdürü tarafından güncellenir ve ilgili Bakan’ın onayı ile yürürlüğe girer. 
+ Uluslararası görüşme ücretlerindeki bahse konu kademelerin içeriği (ülke, operatör, telefon kodu), taşıyıcılar ile
+yapılan sözleşmelerin içeriğine bağlı olarak otomatik olarak belirlenir/ güncellenir ve belirlenen/ güncel lenen bu liste
+www.telekom.gov.ct.tr adresinde yayımlanır . 
+667 
+[SAYFA 44]
+33 
+KISIM IV 
+ÇEŞİTLİ ÜCRETLER 
+İŞLEM ÜCRET (TL) AÇIKLAMALAR 
+4.1 NAKİL İŞLEMLERİ ( Adres ve/veya telefon numarası değişikliğinde ) 
+4.1.1. Telefon nakilleri 25.00
+4.1.2 ISDN nakilleri
+a. BA nakili - Nakil yapılmaz. 
+b. PRA nakili 750.00
+4.1.3 xDSL nakilleri
+a. ADSL nakili 12.50
+b. VDSL nakili 12.50
+c. G.SHDSL nakili 25.00
+d. FİBERNET nakili 100.00
+4.1.4 Trunk (E1) nakilleri 1000.00
+4.2 DEVİR ve İSİM DEĞİŞİLŞİĞİ İŞLEMLERİ 
+4.2.1 Telefon numarası 25.00
+4.2.2 ISDN BA - Devri yapılmaz. 
+4.2.3 ISDN PRA 750.00
+4.2.4 Trunk (SS7/E1) - Devri yapılmaz 
+4.2.5 Özel servis numaraları - Devri yapılmaz. 
+4.3 TELEFON NUMARA DEĞİŞTİRM E 
+4.3.1 Numara Değişimi 25.00
+4.4 BORCUNDAN DOLAYI KAPATMA ve TEKRAR BAĞLAMA 
+4.4.1 PSTN (hat başına) 10.00
+4.4.2 ISDN BA 50.00
+4.4.3 ISDN PRA – Ana numara 50.00
+4.4.4 Özel s e rvıs numaraları (800’lü, 900’lü 
+hatlar) 50.00
+4.4.5 Trunk modülü 500.00
+4.4.6 xDSL için (hat başına) 10.00
+4.4.7 FİBERNET 10.00
+4.5 ABONENİN ARZUSU ÜZERİNE OPERATÖR TARAFINDAN YAPILAN İŞLEMLER 
+(Abonenin yazılı olarak arzusunu bildirmesi kaydıyla) 
+4.5.1 Uluslararası görüşmeye ve /veya mobil 
+görüşmeye kapama veya açma 10.00
+4.5.2 Yönlendirme (her türü) vermek veya
+kaldırmak 10.00
+4.5.3 Emanete alma 10.00 Emanet süresi kadar aylık sabit
+ücretleri peşin alınır. 
+4.5.4 Ve benzeri diğer işlemler 10.00
+4.6 RAHATSIZ EDİCİ ARAMALA R 
+4.6.1 Rahatsız edici aramaların takibi 250.00 
+En fazla bir ay süreli (Bağlı bulunan 
+santralın bu fonksiyonu
+desteklemesi kaydıyla). 
+4.6.2 
+Diğer aboneleri rahatsız ettiği tesbit edilen 
+ve irtibatları kesilen abonelerin yeniden
+irtibatlanması 
+2,500.00 Telekomünikasyon Dairesi maddi ve
+manevi yasal haklarını saklı tutar. 
+668 
+[SAYFA 45]
+34 
+4.7 DETAYLI GÖRÜŞME DÖKÜMÜ 
+4.7.1 İlk sayfa 10.00
+4.7.2 Müteakip sayfalar 1.00 Her sayfa için. 
+4.7.3 Manyetik ortama kopyalama 50.00 Her bir Mb başına alınır. 
+4.8 ABONELERE SANTRALLARDAN 12 kHz VEYA 16 kHz SİNYAL GÖNDERİLMESİ 
+4.8.1 Normal aboneler 5.00 Aylık alınır. 
+4.8.2 PRA aboneleri ana numara (GDN) 5.00 
+Her ana numara (GDN) için bağlı 
+bulunduğu kanal sayısı kadar aylık
+alınır. 
+4.8.3 PRA aboneleri yardımcı numara (DDI) 1.00 İstenilen her yardımcı numara (DDI)
+için aylık alınır. 
+4.9 ISDN EK ÜCRETLER 
+4.9.1 Doğrudan arama (DDI) her numara için 1.00 Aylık alınır. 
+4.10 PBX 
+4.10.1 PBX özelliği verilmesi 60.00 Aylık alınır. 
+4.10.2 PBX'e eklenecek her hat için 5.00 Aylık alınır. 
+4.11 HATTA HİZMET ÖZELLİĞİ TANIMLAMA 
+4.11.1 Çağrı yönlendirme (CFB, CFNR, vb) 5.00 Aylık alınır (Her yönlendirme şekli
+için ayrı). 
+4.11.2 Uyandırma servisi 5.00 Aylık alınır. 
+4.11.3 Şifre 5.00 Aylık alınır. 
+4.11.4 Çağrı bekletme 5.00 Aylık alınır. 
+4.11.5 Santralların desteklediği diğer servisler ... 5.00 Aylık alınır. 
+4.12 TEMİNAT ÜCRETİ 
+4.12.1 Teminat Ücreti 1.000.00 Yabancı uyruklular için uygulanan
+bir uygulamadır. 
+4.13 KİRALIK DEVRELER (PW) İLE İLGİLİ ABONELİK İŞLEMLERİ VE ÜCRETLERİ 
+4.13.1 Kiralık devre (PW) hız artırma veya azaltma 
+4.13.1.1 Port değişikliği gerekmediği durumda 750.00
+4.13.1.2 Port değişikliği gerektiği ve/veya port sayısı
+artırıldığı durumda. 1,500.00
+4.13.2 Kiralık Devre (PW) nakilleri 750.00
+4.13.3 Kiralık Devre (PW) devirleri 750.00
+4.13.4 Kiralık devre (PW) için kapama ve tekrar
+bağlama 750.00
+4.13.5 K iralık devre (PW) için yerleşim sunma ücreti 
+4.13.5.1 1U yüksekliğindeki sistemler için 1000.00 Aylık alınır. 
+4.13.5.2 1U’dan yüksek olan sistemlerde her 1U için. 300.00 Aylık alınır. 
+NOT: 
+ Aksi belirtilmediği sürece, çeşitli ücretler bir defaya mahsus olarak alınır. 
+ Tüm ücretlere ek olarak KDV uygulanır. 
+669 
+-
+1 1 
+1 1 
+[SAYFA 46]
+35 
+KISIM V 
+KABLO TESİSAT UYGULAMALARI İLE İLGİLİ ÜCRETLER 
+5.1. Dağıtım kutusundan veya dolaptan 100 (yüz) m mesafeye kadar, aşağıdaki tabloda belirtilen tesis ücreti alınır. 
+Kablo Türü Tesis Ücreti (TL) Açıklama 
+Yeraltı Bakır Kablosu 100.00 Abonelik başı 
+Harici (Drop Wire) Bakır Kablosu 100.00 
+NOT: 
+ Tabloda belirtilen kablo türleri dışında kalan diğer kablo türleri için KISIM VII Madde 7.7.1 uygulanır. 
+5.1.1. İki menzil (100 (yüz) m, 3 (üç) direk)’e kadar olan mesafelerde ilâve havai hat için güzergâhlara konulacak 
+her yeni direk maliyetinin 1/10 (bir/on)' u alınır. 
+5.1.2. Dikilecek direk yalnız aboneye hizmet edecek olursa her yeni direk maliyetinin tümü alınır. 
+5.1.3. Mevcut çekilmiş ana güzergahtan direk ücreti alınmaz. 
+5.2. Toplu dilekçeler ve özel sözleşmeye tabi uygulamalarda ücretlerin belirlenmesinde Genel Uygulama lar KISIM VII
+Madde 7.2 uygulanır. 36 
+KISIM VI 
+TÜM HİZMETLERE AİT TESİS, NAKİL İŞLEMLERİNİN UYGULANMASINA AİT ESASLAR 
+6.1. Tesis ve nakil talepleri prensip itibariyle müracaat tarihine göre sıraya konularak yerine getirilir. Fakat
+imkânların kısıtlı olduğu hallerde; 
+a. Devlet güvenliği ve kamu yararı görülen durumlarda resmi kurum ve kişilerle ilgili Bakanlığın onayı
+ile tesisinde/nakilinde öncelik tanınır. 
+b. Tesis talepleri talep edenin ekonomik ve sosyal yönden ihtiyaç durumu göz önüne alınarak Müdürlük
+tarafından tespitle ilgili Bakanın onayı ile Telefon/xDSL takılır. 
+6.2. Talepten sonra adres değişikliğinde Telefon/xDSL tesis ve nakil talebinde bulunan bir kim se talepten sonra 
+adres değiştirir ve bu değişiklik ayni santral sahası dahilinde kalırsa yeni müracaat olarak düşünülmeyerek, ilk
+müracaat tarihi esas tutulur. Santral sahası değiştiği takdirde son müracaat tarihine göre yeniden sıraya konur. 
+670 
+[SAYFA 47]
+37 
+KISIM VII
+GENEL UYGULAMALAR
+7.1. KISIM V, KISIM VII Madde 7.6 ve Madde 7.7 altındaki dışındaki tüm hizmetler için tesis edilecek tüm
+haberleşme hat tesis ve diğer işlemleri için alınacak ücretler işlemi yapıldıktan sonra işlemi yapılan hattın ilk
+faturasına dahil edilir. Resmi hizmetler için tesis edilecek tüm haberleşme hat tesis ve diğer işlemleri için
+alınacak ücretler işlemi yapıldıktan sonra işlemi yapılan hattın ilk faturasına dahil edilir 
+7.2. Ücret listeleri dışında kalan özel durumlar için işin ifası ve ücretlendirilmesi hususunda Bakanın onayı ile
+Telekomünikasyon Dairesi Müdürü yetkilidir. 
+7.3. Tenzilat Uygulamaları 
+7.3.1. Kiralık Devre İndirimleri 
+a. KKTC sınırları içerisinde faaliyet gösteren ve BTHK'dan onaylı Internet Servis Sağlayıcıları’na
+(ISS) ve Mobil Haberleşme Sağlayıcıları´na Telekomünikasyon Dairesi’nden kiralayacakları Lokal
+Kiralık Devrelerde Madde 2.8.1 ’de belirtilen aylık kira ücretlerine %50 (elli) oranında indirim
+uygulanır. 
+b. KKTC sınırları içerisinde faaliyet gösteren ve BTHK'dan onaylı Internet Servis Sağlayıcıları’na
+(ISS) ve Mobil Haberleşme Sağlayıcıları´na Telekomünikasyon Dairesi’nden kiralayacakları Bölge
+içi Kiralık Devre hızı 200 Mbit/sn’e kadar olan devrelerde Madde 2.8.2 ’de belirtilen aylık kira
+ücretlerine %50 (elli) oranında, devre hızı 200Mbit/sn ve üzeri olan devrelerde ise Madde 2.8.2 ’de
+belirtilen aylık kira ücretlerine %75 (yetmişbeş) oranında indirim uygulanır. 
+c. KKTC sınırları içerisinde faaliyet gösteren ve BTHK'dan onaylı Internet Servis Sağlayıcıları’na
+(ISS) ve Mobil Haberleşme Sağlayıcıları´na Telekomünikasyon Dairesi’nden kiralayacakları ülke
+içi Bölgelerarası Kiralık Devre hızı 400 Mbit/sn’e kadar olan devr elerde Madde 2.8.3 ’de belirtilen
+aylık kira ücretlerine %50 (elli) oranında, devre hızı 400Mbit/sn ve üzeri olan devrelerde ise Madde
+2.8.3 ’de belirtilen aylık kira ücretlerine %75 (yetmişbeş) oranında indirim uygulanır. 
+7.3.2. Metro Ethernet Internet İndirimle ri 
+Aylık Metro Ethernet internet ücretlerinde, BTHK'dan onaylı Internet Servis Sağlayıcıları’na (ISS) ve
+Mobil Haberleşme Sağlayıcıları´na Telekomünikasyon Dairesi ile 1(Bir) yıllık Taahhüt Sözleşmesi
+imzalaması koşulu ile %25 (yirmibeş) oranında indirim uygulanır. 
+7.4. Birden fazla benzer ve/veya farklı servis bağlantısı olan abonelerin her türlü haberleşme ve bunlarla ilgili her
+türlü ücretleri bir tek şahsi hesapta toplanır. Sözleşme hükümlerine göre faturada belirtilen sürede ödenmeyen
+hesapların tahsil edilmesine kadar şahsa mahsus irtibatlardan herhangi biri ve/veya hepsi geçici bir süre için
+kesilebilir. Bağlantı veya bağlantıların yeniden yapılması için bu tüzükte öngörülen ücret alınır. U yarılan 
+abonelerin 1 (bir) ay içinde hesaplarını kapatmamaları halinde irtibatları kesilir. Cihazları sökülür ve
+abonelikleri iptal edilir. Abonenin borçlarının tahsili için gerekli yasal işlem yapılır. Yeniden abone olabilmesi
+için “Yeni hat ve tesis ücreti” alınır. 
+7.5. Bu tüzük kapsamında Telekomünikasyon hizmeti sağlanacak tüm müstakil konut, birleşik bina ve apartman
+dairelerine gerekli iç tesisat mal sahibi tarafından iç tesisat kurallarına göre yaptırılır. 
+7.6. Toplu Konut ve Altyapı Onayları 
+7.6.1. Arsa parselasyonunda kaldırım altı boruların döşenmesi ve rögarların inşası arsayı açan tarafından kendi
+masrafı ile yapılır. Bu işlemler Telekomünikasyon Dairesi'nden alınacak yazılı görüş doğrultusunda ve 
+671 
+1983 
+[SAYFA 48]
+38 
+“Telekomünikasyon Dairesi Dış Tesisat Kurallarına uygun olarak hazırlanıp uygulanır. Açılan arsalara
+onay verilebilmesi için; 
+a. İki arsaya kadar arsa başına yürürlükteki aylık asgari ücretin ¼ (bir/dört) ’ü oranı tutarında ücret
+ödenir. Açılan arsalarda inkişaf mevcut ise, 2(iki) haneye kadar her bir hane için yürürlükteki aylık
+asgari ücretin ¼ (bir/dört) ‘ü oranı tutarında ücret ödenir. 3(üç) ve daha fazla hane olması halinde 
+her bir hane için yürürlükteki aylık asgari ücretin ½ (bir/iki) ‘si oranı tutarında ücret ödenir. 
+b. Üç veya dört arsa açılması durumunda her bir arsa için yürürlükteki aylık asgari ücretin ½ (bir/iki)
+‘si oranı tutarında ücret ödenir. Açılan arsalarda inkişaf mevcut ise, her bir hane için yürürlükteki
+aylık asgarin ücretin ½ (bir/iki) ‘si oranı tutarında ücret ödenir. 
+c. Beş veya daha fazla arsa açılması durumunda her bir arsa için yürürlükteki aylık asgari ücret miktarı
+kadar ücret ödenir. Açılan arsalarda inkişaf mevcut ise, her bir hane için yürürlükteki aylık asgarin
+ücretin ½ (bir/iki) ‘si oranı tutarında ücret ödeni r.
+d. Yukarıdaki “a” ve “b” bentlerine bakılmaksızın arsa parselasyonu olmayıp sadece arazinin
+bölünmesi ile ilgili olan taleplerde herhangi bir ücret alınmaz. 
+e. Toplu konut ve sitelerde kablolama projesi uygulanmamış ise hane başına yürürlükteki aylık asgari 
+ücretin ½ (bir/iki) oranı tutarında ücret ödenir. 
+f. Toplu konut ve sitelerde kablolama projesi uygulanmış ise hane başına yürürlükteki aylık asgari
+ücretin 1/20 (bir/yirmi)’si oranı tutarında ücret ödenir. 
+g. Özel ticari yurtlardan (kampüs içi ve dışı) ve ü niversitelere ait olsa dahi kampus dışı yurtlardan
+asgari ücretin 1/20 (bir/yirmi)’si oranı tutarında ücret alınır. 
+h. Daha önce boş arsa olarak onay almış arsa içerisine inkişaf yapılmış ise, 2 (iki) haneye kadar olan
+inkişaflardan tekrardan katkı payı alınmaz. 3 (üç) ve daha fazla hane inkişafı söz konusu ise 3 (üç) 
+ve sonraki haneler için, bu tüzükte öngörülen hane başı katkı payı alınır. 
+7.6.2. Toplu Konut ve Sitelerde kaldırım altı boruların döşenmesi ve rögarların inşası konutları yapan
+Müteahhit tarafından kendi masrafı ile yapılır. Bu işlemler Telekomünikasyon Dairesi'nden alınacak
+yazılı görüş doğrultusunda ve “Telekomünikasyon Dairesi Dış Tesisat Kuralları’ na uygun olarak 
+hazırlanıp uygulanır. 
+7.6.3. Toplu Konut ve Site İnşa eden Müteahhitler, inşa edilen konutların her hanesi için en az 1 (bir) telefon 
+ve Telekomünikasyon Dairesi'nin yazılı görüşü doğrultusunda hane sayısı na uygun kapasitesinde 
+hazırlayacakları kablo planlarını Telekomünikasyon Dairesi'ne onaylatacaklar, kablosunu
+Telekomünikasyon Dairesi'nin göstereceği dağıtım dolabı veya hizmet alımına uygun yere kadar
+getireceklerdir. Altyapı ve kablo onayları alındık tan sonar Madde (7.6.1.f) ’ ye göre Dairemize ödeme
+yapılır . 
+Ancak Telekomünikasyon Dairesi'nin hemen telekomünikasyon hizmeti veremeyeceği durumlarda; 
+a. Sitelerde ve kamuya açık alanı bulunan toplu konutlarda Madde (7.6.1.e) 'e göre Dairemize ödeme
+yapılır. 
+b. Sitelerde ve kamuya açık alanı bulunan toplu konutlarda, arazi şartlarının elvermesi ve 
+Telekomünikasyon Dairesi'nin uygun görmesi halinde toplu konut/site ile mevcut şebeke arası 1000
+(bin) m ve üzeri eksik altyapı (kazı, rögar, boru) inşaaları malsahibi/müteahhit tarafından kendi
+imkan ve masrafı ile yapılması durumunda, dairemize Madde (7.6.1.f) ‘ye göre Dairemize ödeme
+yapılır. 
+c. Sitelerde ve kamuya açık alanı bulunan toplu konutlarda, Telekomünikasyon Dairesi'nin uygun
+görmesi halinde, söz konusu Site/toplu konut ve/veya çevresine ses ve data hizmeti verebilmek
+maksadı ile Telekomünikasyon Dairesi'nin teknik şartnamesine ve öngöreceği kapasiteye uygun
+aktif ve/veya pasif sistemler (cihazlar, kablo, vs.) , tüm maliyetleri Müteahhit/Malsahibi tarafından
+karşılanmak koşulu ile projelendirilip kurulabilir. Proje kapsamında Telekomünikasyon Dairesi’nin 
+ve Malsahibinin/Müteahhitin sorumlulukları belirlenecektir. Bu durumda kurulan sistemlerin
+onayları alındıktan sonra Madde (7.6.1.f) ’ ye göre Dairemize ödeme yapılır. 
+672 
+1983 
+[SAYFA 49]
+39 
+d. İleri aşamada Telekomünikasyon Dairesi'nin o bölgeye telekomünikasyon hizmetini götürdüğü
+zaman yukarda tanımlanan site ve toplu konut sahipleri ve/veya kullanıcıları tarafından
+Telekomünikasyon Dairesi'ne başvurmaları halinde Madde (7.7.1.1) ’ e göre işlem yapılır. 
+7.6.4. Turizm yatırımları, oteller, hastaneler, üniversite inşaatları, üniversite ye ait kampüs içi yurtlardan katkı
+payı alınmaz. Benzer şekilde Kamu kurum, kuruluş ve belediyelerin kendilerine ait arsa ve/veya
+inşaatlardan, askere ait inşaatlardan, Sanayi Dairesi tarafından açılan sanayi arsalarından, Konut
+Edindirme Birimi tarafından açılan arsalardan katkı payı alınmaz. 
+7.7. Binalara Kablo Tesisi 
+7.7.1. Bakır Kablo Tesisi 
+7.7.1.1. Arsa parselasyonu ile açılan arsalar üzerine inşa edilen binalar ile mevcut ana dağıtım dolabı
+veya ana dağıtım kutusu arasına döşenecek Yeraltı Bakır Kablo ve Harici Tesisat (Drop Wire)
+Kablo türleri için 100 (yüz) metrenin üzerindeki kısmına tekabül eden bedel,
+Telekomünikasyon Dairesi’nin Birim Fiyat Tablosu’ nda belirtilen fiyatlar baz alınarak mal 
+sahibi tarafından ödenmesi koşulu ile kablonun çekilmesi Telekomünikasyon Dairesi
+tarafından yapılır. 
+7.7.2. Fiber Optik Kablo Tesisi 
+Erişimin, fiber optik kablo ile sağlanacağı binalara döşenecek fiber optik kablo ve inşa edilecek altyapı
+usul ve esasları: 
+7.7.2.1. Kablonun tesis edileceği binanın altyapısı ve mevcut şebeke altyapısına bağlanması istekli
+tarafından yapılacaktır. 
+7.7.2.2. Telekomünikasyon Dairesi'nin onaylayacağı projeye uygun olarak binaya fiber optik kablo,
+bedeli karşılığı Telekomünikasyon Dairesi tarafından tesis edilir. Tesis için gerekli bir kısım
+malzeme, istekliden talep edilebilir. Bunların bedeli talep edilecek tu tara dahil edilmez. 
+7.7.2.3. Telekomünikasyon Dairesi’nin uygun görmesi halinde, istekli de kendi imkanları ile
+Telekomünikasyon Dairesi’nin vereceği projeye uygun olarak fiber optik kablo tesisi yapabilir. 
+7.7.2.4. Ancak, tedarik edilecek tüm malzemeler Telekomünikasyon Dairesi’nin teknik şartnamelerine
+uygun ve halen kullanılmakta olan ürün cins ve kalitesinde olacaktır. Bu malzemeler
+Telekomünikasyon Dairesinin ambarına düzenlenecek evrakla birlikte teslim edilecektir. 
+7.7.2.5. İstekli tarafından kurulacak olan fiber optik saha dolabı ile döşenecek olan fiber optik kablolar,
+Telekomünikasyon Dairesi’nin mevcut fiber optik kablo ağına dahil olacak ve her türlü
+kullanım hakkı Telekomünikasyon Dairesine ait olacaktır. 
+7.7.2.6. Yeni döşenecek fiber optik kablo, İstekli tarafından malzeme ve işçiliği kendisinin karşılaması
+kaydı ile döşenen kablo 48 FOY kapasiteye kadar ise 1 (bir) çift, 48 FOY üzeri kapasiteli ise
+2(iki) çift isteklinin sadece kendi kullanımına ve sadece başvuru adresine, kendi çektiği kısım
+için, FOY maliyete yansıtılmadan, ücretsiz olarak verilecektir. 
+7.7.2.7. Telekomünikasyon Dairesi’nin uygun göreceği kapasitede, isteklinin kendi imkanları ile
+kurulan fiber optik saha dolabı ve/veya döşenen 1000 (bin) metre üzeri fiber optik kabloların,
+sonlandırma ve ara ekleri, malzemeleri istekli tarafından karşılanması kaydıyla
+Telekomünikasyon Dairesi tarafından ücretsiz yapılır. 
+7.7.2.8. Mevcut fiber ağından verilecek devreler veya Dairenin yeni kablo çekip oluşturacağı
+devrelerden, 1 (bir) çift için metre başı maliyeti, Telekomünikasyon Dairesi’nin onaylanmış 
+birim fiyat tablosundaki 4 (dört) Foy kablo bedelinin ½ (birbölüiki) ‘si baz alınarak
+hesaplanacaktır. 
+673 
+1983 
+[SAYFA 50]
+40 
+a. İki arsaya kadar arsa başına yürürlükteki aylık asgari ücretin ¼ (birbölüdört) ’ü oranı
+tutarında ücret ödenir. Açılan arsalarda inkişaf mevcut ise, 2 (iki) haneye kadar her bir
+hane için yürürlükteki aylık asgarin ücretin ¼ (birbölüdört) ‘ü oranı tutarında ücret
+ödenir. 3 (üç) ve daha fazla hane omlası halinde her bir hane için yürürlükteki aylık
+asgarin ücretin ½ (birbölüiki) ‘si oranı tutarında ücret ödenir. 
+b. Aynı noktaya 2. (ikinci) çift fiber optik kablo istenmesi durumunda 2. (ikinci) çiftin
+bedeli çiftbaşı maliyetin 2 (iki) katı olacaktır (uçtan uca, santral ile sonlandırmanın
+yapıldığı sistem odaına kadar) .
+c. Aynı noktaya 3. (üçüncü) çift fiber optik kablo istenmesi durumunda 3. (üçüncü) çiftin
+bedeli çiftbaşı maliyetin 4 (dört) katı olacaktır (uçtan uca, santral ile sonlandırmanın
+yapıldığı sistem odaına kadar) .
+d. Kamu kurum ve kuruluşları, KKTC sınırları içerisinde faaliyet gösteren ve BTHK'dan
+onaylı Internet Servis Sağlayıcıları (ISS) ve Mobil Haberleşme Sağlayıcıları’na ait ana
+(merkez) binası hariç olmak üzere aynı noktaya kesinlikle 3 (üç) çiftten fazla fiber optik
+kablo tesis edilmeyecektir. Aynı noktaya daha çok kiralık devre talep edilmesi
+durumunda uç noktalara abone tarafından cihaz kurulması zorunlu olacaktır. Talep edilen 
+devreler abone tarafında n kurulacak cihaz üzerinde toplanıp/ayrıştırılarak bir çift kablo
+üzerinden merkeze ulaştırılacaktır. Cihazların kurulumu ve işletilmesi abonenin
+yükümlülüğünde olacaktır. 
+e. Telekomünikasyon Dairesine ait santral binaları ile KKTC sınırları içerisinde faaliyet
+gösteren ve BTHK'dan onaylı Internet Servis Sağlayıcıları (ISS) ve Mobil Haberleşme
+Sağlayıcıları´nın 200 m ye kadar olan mesafelerdeki sistem salonları arasına saha
+dolaplarından geçmemek kaydı ile direk FOY kablosu çekilebilecektir. Kablonun Daire 
+tarafından çekilmesi durumunda tüm çiftlerin maliyet hesabı birinci çiftmiş gibi 
+hesaplanacak ve ab oneden alınacaktır. Kablonun haberleşme sağlayıcısı tarafından
+çekilmesi durumunda ise sadece ek ve irtibat maliyeti hesaplanacak ve aboneden
+alınacaktır. 
+f. Kamu kurum ve kuruluşların dışında 8.7.2.8 c maddesinde belirtilen GSM Operatörleri 
+ve Isp lerin ayn i noktaya 4 (dört) çift ve üzeri fiber optik kablo taleplerinde, 4 (dört) ve
+sonraki çiftler için çiftbaşı maliyeti hesaplanırken 4 (Dört) katı uygulanacaktır. 
+g. Sadece kamu kurum ve kuruluşların ayni noktaya 4 (dört) çift ve üzeri fiber optik kablo 
+talepl eri Daire tarafından uygun ve zaruri bulunan istisnai durumlarda, komple kablo
+maliyeti ve tesis bedelinin ödenmesi koşulu ve Daire müdürünün uygun görmesi
+durumunda yukarıdaki maddelerde belirtilen çiftbaşı maliyet hesabından muaf 
+tutulabilecektir. 
+7.7.2.9. İstenilen noktada/binada daha önce döşenmiş fiber optik kablo mevcut ise, çift başına
+hesaplanacak bedel istekliden alınacaktır. 
+7.7.2.10. Fiber optik kablo tesis etme talebi bulunan istekli, öncelikle talep edilen her nokta için
+yürürlükteki aylık asgari ücretin 1/10 (bir/on)’u oranı tutarında projelendirme ücreti
+Telekomünikasyon Dairesi veznesine ödemelidir. Projelendirme ücretinin ödenmesine
+müteakip, fiber optik kablo tesis projesi hazırlanacaktır. Ancak genel Kamu Kurum ve
+Kuruluşlar, Asker ve Polis bu uygulama dışında tutulacaktır. 
+7.7.2.11. İsteklinin, Telekomünikasyon Dairesinin altyapı şebekesini kullanarak iki bina arasına
+döşeyeceği fiber optik kablo uçları, uygun olması halinde Transmisyon sistemlerinden veya
+kablo ağının ana dağıtım dolabı (ODF), fiber optik saha dolabı, fiber optik kablo ağından
+geçecektir. 
+7.8. Telekomünikasyon Dairesi Müdürü önerisi ile Bayındırlık ve Ulaştırma Bakanlığı tarafından onaylanmış birim
+fiyatlar üzerinden, acil ve ivedilik arzeden işler için Bayındırlık ve Ulaştırma Bakanlığı’nın onayını aldıktan
+sonra müteahhitlere telefon şebeke tesis işlerini yaptırmakla yetkilidir. 
+674 
+1983 
+[SAYFA 51]
+41 
+7.9. Borçların Taksitlendirilmesi 
+Telekomünikasyon Dairesi Müdürlüğü, KISIM VII madde 7 .6’da ilgili alacaklarının tahsilinde Bayındırlık 
+ve Ulaştırma Bakanlığının onayı ile her taksit tuttarı 5,000.00 (beşbin) TL ‘den az olmamak kaydıyla 6 (altı)
+eşit taksite kadar taksitlendirme yapmaya yetkilidir. Söz konusu taksitlendirmeler yükümlü tarafından
+imzalanacak taahhütname karşılığında, alacak tutarının taksit miktarı kadar çekle ödenir. Gününde ödenmeyen
+her taksit tutarına, Kamu alacaklarının tahsili usulü yasası uyarınca, gecikme zammı uygulanır ve birlikte 
+tahsil edilir. 
+7.10. Telekomünikasyon Dairesi yaptığı kontrollük hizmetlerine karşılık yapacağı harcamaları işi yaptıran özel ve
+tüzel kişilerden ödenir. 
+7.11. Yurtdışı Çağrıları, Turpak, Kiralık Devre, TDM, Frame Relay, Metro Ethernet ve DDOS'a ait
+ücretlendirmelerde Türk Telekom’la yapılan protokollere bağlı olarak oluşan ücret tarifeleri uygulanır. 
+7.12. Emanete alma ücrete tabidir. Emanete alınacak telefon/ ISDN (BA, PRA) ve trunk abonesinin borcu varsa önce
+borcu kapatılır, sonra emanete alınır. Emanet süresi sonunda KISIM VII Madde 7.4. uygulanır. 
+7.13. Nakil yapılacak herhangi bir haberleşme hattının bütün borcu ve nakil işlemi ücreti ödendikten sonra işlemi
+yapılır. 
+7.14. Herhangi bir haberleşme hattının devri, devredilecek hattın bütün borcu ile devir ücreti ödendikten sonra
+yapılır. 
+7.15. Herhangi bir haberleşme hattına izinsiz ve/veya kaçak olarak girmek ve/veya ilgili hatları kötü amaçlı olarak
+kullanmaktan kesin suçlu bulunan şahıs ve/veya şahıslardan bu süre içerisinde yaptıkları görüşme ücretlerinin 
+tespit edilmesi halinde bu miktar %1 00 (yüz) cezalı olarak tahakkuk ettirilir. Sirkat edilen ücretin
+belirlenememesi halinde tahakkuk ettirilecek ceza ücreti, belirlenen süreyle Uluslararası görüşme ücretlerinin
+en üst kademesi uygulanarak hesaplanır. Böyle bir cezaya çarptırılan şahıs veya şahısların abonelikleri veya
+abone olma hakları en az bir yıl süre ile askıya alınır. 
+7.16. Telekomünikasyon Dairesi’nden kaynaklanmayan nedenlerle platformlar üzerinden gelebilecek saldırılar
+sonucunda oluşabilecek trafik artışlarından ve ortaya çıkacak doğrudan ve dolaylı zararlardan
+Telekomünikasyon Dairesi hiçbir şekilde sorumlu tutulamaz. Trafik artışları nedeniyle maddi ve/veya manevi
+herhangi bir zarara uğramamak için firewall, antispam, antivirüs ve diğer gerekli her türlü güvenlik tedbirlerini 
+almak ab onenin yükümlülüğündedir. Abone, güvenlik önlemi almaması nedeniyle ortaya çıkacak hizmet fatura 
+bedelini ve varsa Telekomünikasyon Dairesi’nin uğramış olduğu maddi zarar l arı da Telekomünikasyon
+Dairesi’ne hiç bir itiraz ileri sürmeden ödemekle yükümlü olduğunu bilir ve taahhüt eder. Abone, almakta
+olduğu hizmetten yararlanırken güvenliğini tehdit eden durumların olduğu şüphesi olursa Telekomünikasyon
+Dairesi’ne derhal bilgilendirerek varsa şifresini değiştirmelidir. 
+7.17. Rahatsız edici arama yaptığı ve bunu tekrarladığı tespit olunan şahısların abonelikleri en az bir ay süre ile
+askıya alınır. Suçun devamı halinde abonelik iptal edilir. 
+7.18. Arızalı bir telefon, ISDN (BA, PRA), xDSL, Data ve trunk hattı, elde olmayan bir nedenden dolayı arızalı
+kaldığı süre bir ayı geçtiği takdirde TD sabit ve aylık kira ücretlerine abone faturasından düşüp düşmemeye 
+yetkilidir. 
+7.19. KKTC uyruğu dışındaki gerçek kişilerin haberleşme hattı taleplerinin karşılanması durumunda bu kişilerin
+taahhuk edecek borçlarına karşılık KISIM IV Madde 4.12 ’de belirlenen teminat ücreti alınır. Gerçek
+taahhukun teminat miktarını aşması halinde bu kişilerin, teminatları gerçek taahhuk miktarına yükseltilebilir.
+Bu kişilerin abonelikten ayrılma isteği halinde hesaplarının kapatılması durumunda, teminat ücreti bu kişilere 
+iade edilir. 
+7.20. Kesme Ve İptal İşlemleri 
+7.20.1. Herhangi bir haberleşme hattının Daireye olan borcunun gününde (1 (bir) fatura dönemi üzerine
+çıkması) ödenmemesi halinde abonelere borçlarını kapatmaları için basın veya yayın veya sesli yanıt
+(IVR) yoluyla genel çağrı yapılır. Telekomünikasyon Dairesi, borçlarını yine ödemeyen abonelerin
+irtibatlarını, çağrı tarihinden en az 10 (on) gün sonra uygun gördüğü bir tarihte kesme hakkına sahiptir. 
+7.20.2. Herhangi bir haberleşme hattının Daireye olan borçlarının 12 (oniki) fatura dönemi üzerine çıkması
+halinde abonelere borçlarını kapatmaları için basın ve/veya yayın yoluyla genel çağrı yapılır. 
+675 
+1983 
+[SAYFA 52]
+42 
+Telekomünikasyon Dairesi, borçlarını yine ödemeyen abonelerin aboneliklerini çağrı tarihinden en az
+10 (on) gün sonra uygun gördüğü bir tarihte iptal etme hakkına sahiptir. 
+7.20.3. Abonelikleri i ptal edilen abonelere ait iptal tarihindeki güncel borç hesap/hesapları Maliye Bakanlığı 
+Gelir ve Vergi D airesi'ne gönderilir. 
+7.20.4. Borçlarından dolayı servis dışı bırakılan herhangi bir haberleşme hattının (iptale gitmemesi durumunda) 
+yeniden açılması için KISIM IV Madde 4 .4’de belirtilen bağlama ücretleri alınır. 
+7.20.5. Her türlü iptal işleminde, iptal gününe kadar olan dönemin hesaplanmasında gün/ay hesabı uygulanır.
+(Sabit ücret x gün/ay) 
+7.20.6. Bakanlığın onayı ile Telekomünikasyon Dairesi Müdürlüğü, belirleyeceği dönemlerde düzenleyeceği
+kampanyalarla bu Tüzükte belirlenen ücret ve/veya tarifelerde değişiklik yapabilir . 
+43 
+KISIM VIII 
+ÇAĞRI TAŞIMA ÜCRETLERİ 
+8.1. Çağrı Taşıma 
+8.1.1. Çağrı taşıma hizmeti, BTHK tarafından yetkilendirmesi olan firmalarla Telekomünikasyon Dairesi
+tarafından uygun görülmesi durumunda (Telekomünikasyon Dairesi'nin, her yetkilendirmesi olan firmaya 
+bu hizmeti verme zorunluluğu bulunmamaktadır.) aralarında yapacakları "Çağrı Taşıma Sözleşmesi" ile 
+verilir. 
+8.1.2. Çağrı taşıma, Firma üzerinden gelen yurt dışı trafiğinin, Telekomünikasyon Dairesi sistemlerine, 
+Telekomünikasyon Dairesi’ne ait standart abone numaralarında sonlandırılmak üzere ve/veya KKTC 
+GSM Operatörleri numaralarında sonlandırılmak üzere teslim alınacaktır. 
+8.1.3. Firma üzerinden gelen çağrı, Firma’nın cihazlarının nerede yerleşmiş olduğuna bakılmaksızın, yurt dışından
+kaynaklanan çağrı olması nedeniyle sadece orijine bakılarak Telekomünikasyon Dairesi Ücretler
+Tüzüğü’nde belirtildiği gibi yurt dışından gelen çağrının sonlandırılması olarak nitelendirilecektir ve farklı
+yorumlanmaya açık olmayacaktır. 
+8.1.4. Çağrı taşımada , çağrıyı teslim eden tarafın ödemeleri yapması prensibi geçerlidir. 
+8.1.5. Yerleşim Sunma Hizmetleri 
+Telekomünikasyon Dairesi, uygun görmesi şartıyla, Firma’ya yerleşim sunma hizmetini a ylık 750
+(yedi yüz elli ) TL karşılığında sağlayacaktır . 
+8.1.6. Sonlandırma Ücretleri 
+8.1.6.1. Telekomünikasyon Dairesi Şebekesinde Sonlandırma 
+Firma, Telekomünikasyon Dairesi’ne ait standart abone numaralarında sonlandırılmak üzere 
+gönderdiği yurtdışından başlayan çağrılar için Telekomünikasyon Dairesi’ne 6,5 Krş/Dk öder. 
+8.1.6.2. KKTC GSM Operatörü Şebekesinde Sonlandırma 
+a- Firma, Telekomünikasyon Dairesi’ne KKTC GSM Operatörleri numaralarında 
+sonlandırılmak üzere gönderdiği 3. dünya ülkelerinden (Türkiye hariç) başlayan çağrılar için 
+Telekomünikasyon Dairesi’ne 0,17 Euro/Dk öder. 
+b- Firma, Telekomünikasyon Dairesi’ne KKTC GSM Operatörleri numaralarında 
+sonlandırılmak üzere gönderdiği Türkiye o peratörlerinden kaynaklı çağrılar için 
+Telekomünikasyon Dairesi’ne 17 Krş/Dk öder. 
+NOT: Ödemeyle ilgili ayın son iş günü KKTC Merkez Bankası Efektif Satış Kuru baz alınacaktır. 
+8.1.7. Tanımlama Ücretleri 
+676 
+1983 
+[SAYFA 53]
+Telekomünikasyon Dairesi’ne 0,17 Euro/Dk öder. 
+b- Firma, Telekomünikasyon Dairesi’ne KKTC GSM Operatörleri numaralarında 
+sonlandırılmak üzere gönderdiği Türkiye o peratörlerinden kaynaklı çağrılar için 
+Telekomünikasyon Dairesi’ne 17 Krş/Dk öder. 
+NOT: Ödemeyle ilgili ayın son iş günü KKTC Merkez Bankası Efektif Satış Kuru baz alınacaktır. 
+8.1.7. Tanımlama Ücretleri 
+Sonlandırma hizmetinden yararlanacak Firma, çağrı sonlandırma ücretlerine ilaveten Telekomünikasyon 
+Dairesi ’ne bir defaya mahsus olmak üzere aşağıdaki ücretleri (Firma Tanımlama Bedeli) ödeyecektir: 
+a. Çağrı sonlandırma hizmeti kapsamında ilk defa arabağlantı gerçekleştirilmesi durumunda: 
+Çağrı sonlandırma hizmetinden yararlanacak Firma, Telekomünikasyon Dairesi ile ilk kez 
+arabağlantı gerçekleştirmekte ise Firma Tanımlama Bedeli vergiler hariç 1,000 (bin) TL’dir 
+(Firma’nın Telekomünikasyon Dairesi santrallerinde tanımlanması, Lefkoşa’da bir SS7 
+44 
+işaretleşme linkinin bağlantı işlemleri ile hesaplaşmaya ilişkin testlerin yapılmasının karşılığı 
+olarak).
+b. Daha önce arabağlantı tesis edilmiş ise:
+Firma, daha önce arabağlantı gerçekleştirmiş ise, Firma’nın aynı linki kullanması durumunda daha
+sonra yapılacak farklı her bir tanımlama vergiler hariç 250 (ikiyüzelli) TL’dir. 
+c. Sinyalleşme: 
+Sinyalleşme için ilave link gerekmesi durumunda link başına ücret vergiler hariç 8.000 (sekizbin) 
+TL’dir. 
+8.1.8. Firma, mevcut trafik kapasitesinin üzerinde SS7 trunk adeti isterse yedek amaçlı kullanılan herbir SS7
+trunk için ücret, vergiler hariç aylık 1,000 (bin) TL'dir. 
+8.1.9. Tüm ücretlere ilaveten KDV uygulanır. 
+677 
+1983 
+[SAYFA 54]
+KUZEY KIBRIS TÜRK CUMHURİYETİ 
+RESMÎ GAZETE 
+(381)

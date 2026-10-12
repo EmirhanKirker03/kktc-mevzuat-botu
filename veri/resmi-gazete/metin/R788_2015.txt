@@ -1,0 +1,343 @@
+M:İLLİARŞİV VE ARAŞTIRMA DAİRESİ (KURULUŞ, GÖREV ve 
+ÇALIŞMA ESASLARI) YASASI
+(15/1990, 22/1994 ve 84/2007 Sayılı Yasalar)
+Madde 1O Altında Yapılan Milli Arşjv ve Araştırma Dairesi, 
+Milli Arşiv Kurulu Çalışma Esasla'n ve İşlemleri Tüzüğü 
+Madde 8 (1) (E) Altmda Yapılan Yönetmelik · 
+. Kuzey Kıbrıs Türk Cumhuıiyeti Bakanlar Kurulu, Milli Arşiv ve Araştınna Dairesi 
+(Kuruluş, Görev ve Çalışma Esasları) Yasası'nm lü'uncu maddesi altında yapılan, Milli 
+Aı-şiv ve Araştırma Dairesi, Milli Arşiv . Kirrulu Çaliş:i:na Esasları ve İşlemleri Tüzüğünün 
+8'inci maddesinin (l)'inci fılcrasmın (E) bendinin kendisine verdiği yetkiye dayanarak, 
+aşağıdaki yönetmeliği yapar: 
+Kısa İsim 
+Tefsir 
+1. Bu Yönetmelik, ''Belge Sayı Sistemi Yönetmeliği'; olarak isimlendirilir. 
+BİRİNCİ KI_SIM 
+GENEL KURALLAR 
+. .
+2. Bu Yönetmelikte, metin başkatürlü·geİektirmedikçe; 
+"Ayıkla,ma", arşivlik belg~lerin, · .arşiv belgeleri ve muhafazasına. gerek 
+gôrülıiıeyen belgeler olarak ayrımı işlemınf anlatır. 
+"Arşiv Belgesi", arşivlik belgeler içinden, belge ömrünü doldurmuş olan ve 
+üretildiği kurum veya kwuhışça hizmetin yürütülmesi açısmdan elde 
+buh.ındurulmasına · ve muhafazasııia gerek · ·· görülmeyen belgelerin 
+ayrılmasından soma kalan ·belgeyi anlatır: . 
+"Aı'şivlik Belge",. Devlet Arşivleri . açısından; bağlı kurumlarıyla,
+yurttaşlarıyla ve diğer devletlerle .olan ilişkisini belgeleyen, sivil toplum
+. örgütleri açısmdan;· örgütlerin resmi İcurunı ve kuruluşlarla, diğer.örgütlerle 
+ve:· üyeleriyle ilişkilerini belgeleyen, şahıslar açısından; resım k:ururiı ve 
+kuruluşlarla,. sivil toplum örgütleriyl~. ve diğer şa1nslarla. iHşkileri sonucu 
+oluşan belgeleri anla.tır. · · · · · 
+"ATVT", arşiv teşkilatı veri tabanını anlatır. 
+"Belge",. -μyetim biçimleri ve: donanım:· ortamlari ne şekilde olursa olsun,
+bilgi. içeren, yazılmış,. çizilmiş, resmedilırıiş, görü11tülü, sesli veya .
+elektronik ortamlarda üretilmiş malzemeyi anlatır. 
+"Belge Ömür Tespiti", belgelerin nerede ve· ne kadar süre ile muhafaza. 
+edileceklerine, bu süreler sonunda hangi işlemlere tabi tutulacaklarına dair 
+değerü;mdümekri ifade eden ve Milli Arşiv Kuı'ulu taraftııdan onayianan 
+planl.arı arılalu-. 
+"Belge Sayı Sistemi'': belgelere kurnm-kumluş: bölge, ah birim ve konu
+kodu ile y1l ve sayı verilerek bir belge kimliği yaratarak hızh, kolay, etkin 
+belge erişimini hedefleyen sistemi a,nlatE. 
+"Belge Yönetimi", belgenin ü:::etimindeiı son düzenlenmesine kadar- geçen
+süreçteki sistematik kontrolü anlatır. 
+''Birim Arşivi"; kurum ve 1.7.lruluşların görev, işlev ve etkinlikleri sonucll 
+kendiliğirid,~n oluşan ye bu kLıiuluşların çeşitli birimlerinde, güncelliğini 
+kaybetmemiş olarak etkin bir biçimde ve günlük iş akımı içinde kullanılan 
+mükelleflerin bölge , e yun d1~1 h.t.mıluşlarında bulunan arşivlerini de
+kapsar. 
+[SAYFA 18]
+Amaç 
+Belge Sayı 
+Sistemi 
+Formati 
+2678 
+"Daıre", Milli Arşiv ve Araştınna Dairesi 'ni anlatır. 
+"Dosya", aynı konuyu ihtiva eden yazılar grubunu anlatır: 
+"Elektronik Belge'\ elektronik ortamda oluşturulan, gönderilen ve
+saklanan, kurum ve kuruluşların görev ve faaliyetleri sonucu kendiliğinden
+te;şekkül eden her.türlü belgeyi anlatır. 
+"Elektronik Belge Yönetim Sistemi (EBYS)", elektronik ortamlarda 
+üretilecek~ kayıt altma alınacak, başka birimlere veya Jrnrumlara iletilecek,
+muhafaza veya· gerektiğinde imha edilecek elektronik bilgi ve belgelerin
+tabi olacaklan usul ve esaslar ile birlikte Elektronik Belge Yônetim 
+Si~tem1erinip. birbirleriyle uyumlu ve etkin bir biçimde · yönctilmesıne 
+ilişkin standartlarm.l:>~lirlenmesini amaçlayan sistemi anlatır .. 
+('Elektronik Belge Yönetimi", kurı.ınılarca yasal kurallar çerçevesinde iş ve 
+işlemler yerine getirilirken üretilen her türlü bilgi ve belgenin orijinal 
+özelliklerinin ve. içeriklerinin· kornnarak,. delil sayılabilecek · ~,e. hesap
+vernieye :temel·· olacak : biçimde, · elektrönık ortaında yönetilmelerinin 
+sağlanmasi süreçlerinin bütününü anlam·. 
+"İ:mlıa", muhafazasına gerek görülmeyen belgenin imh~s1 işlemini anlatır. 
+"K.uı11m.Arşivi?', ki.ınim ve k:uriıluşlann, merkez teşkilatlan içinde yer· alan 
+ve arşiv malzemesi ile arşivlik nıalzemeni11, birim arşivlerine nazaran daha
+uzun süreli saldandiğı merkezi arşivİeri- anlatır. · · · 
+"Muhafazasına ·Gerek GÔıülmeyen Belge", _cari işlemleri devresinde bir 
+değere sahip olduğu halde, iİeride ·ıruuanılniasına gerek görülmeyen, arşiv 
+belgesl dişıiida kalan; hukuki kıyinetiıii ve delil olma vasfım kaybetmiş 
+belgeyi anlatır. 
+"Standart Dosya Pl~nı (SDPf, kunun ve kuruluşlami iş ve işleinleri 
+sonucünda teşekkül· eden belgelerin, sistemli bir şekilde dosyalanmasını 
+s·ağlamak _üzere önceden hazırlanmış, standartlaştırılmış · konu ve alt konu . 
+numaralan envanterini anlatır. . 
+3. Bu · Yönetmeliğin· amacı, kamu kurıim ve kriİuluşlarmın görev· ve
+faaliyetleri sonucu çoğunlukla _kağ1t olmak üzere dektronik ·ortam dahil, 
+değişik ortamlarda iliettil<leri bilgi ve belgelerin s;ığlıklı muhafazasıp,ı, · en 
+isabetli konu adı verilerek· etkın, hızlı ve yararlı erişimini; kamu kim.mı ve 
+kuruluşlarının sürekliliğini, güvenirliliğini ve kullanışlılığını sağlamaktır .. 
+Daire, bu Yönitri:ıelik ·ile-tamamlanan Belge Sayı Si$temi'nirı tüm kan,ıu 
+kıırum · ve kuruluşları tarafindan uygulannıasım, · . siirekliliğinin 
+sağlanmasın{, ulusal standart olarak belirleyip buna rehberlik etmeyi, 
+eleh.'itonik belge yönetimine geçildiğinde-ise programın bütüı1lüğüne uygun 
+ve yardımcı.olaca...1<. şekilde uygulamnasını sağlayacaktır .
+(2) 
+. İKİNCİ KISIM 
+13.elge Sayı Sistemi 
+-Belge Sayı Sistemi.pin umacı, bdg0lere daha çabuk ulaşım sağla;;:rnk, · · 
+yazışmalara· etkinlik ve· hız kazandırmak, elektrörd.k ortamda 
+yapılacak iletişimde ise; be-lge kaydının yanı sıra, ~vrakın geldiği ve
+· gittiği birim:iıi belirlenmesi suretiyle işbirliği ve bi]gi· iletişimine
+kolaylık sağlamah.1:ır. . _ . · : 
+Belge Sayı Sistemi, belgelere kimlik verebilmek amacıyla bu 
+Yönetmeliğe ekli EK-I' de düzenlenen formata göre üç. ana 
+[SAYFA 19]
+Arşiv· 5. 
+Teşldfatı 
+Veri Tabanı 
+KonuAJam 6.
+2679
+bölümden olıişur. 
+(A) Her bölüm"-" işareti ile birbirinden ayrılır. Birinci Bölüm 
+kendi içinde ". ;, ve diğer bölümler "/" işareti ile alt bölümlere 
+aynllr. 
+(B) Belge Sayı Sisteminde Birinci Bölüm belgenin oluştuğu, 
+ikinci kopyasının korunduğu ve kaydedildiği yer, yani kurum 
+veya biriı-n arşivinin kodu yer alır. Bu bölüm"." işareti ile üç alt
+bölüme aynlıı-. · 
+Kutum veya kuruluş veya bicim arşivi kodu yani Arşiv Teşkilatı Veri 
+Tabanı Kodu, . kurum ve kuruluşların talebi üzerine, Daire tarafından
+aşağıdaki koşullara uyularak verilir .ve Dairenin resmi web sayfasında 
+güncel olarak erişilebilinecek şekilde yayınlanır. 
+(1) "AAA" KURUM-KURULUŞ KODU: . 
+Birinci alt boiümde (AAA) Kuruin--,- Kuıuluş Kodu yer alır. Bu alt
+bölümde Bakanlıklar ve bağlı kurum ve kuruhişfarın her birine üç
+harflik bir kod verilir.
+Kodlar verilirken mümkün olduğunca I(urumlarin kullandıkları
+kanıkterlere yakın karakterler kull'1.mlınasına ve Kuıı.ırn adlarım
+çağrıştırabilecek kısaltmalara gidilmeye özen gösterilir. Herhangi bir 
+karışıklık olmaması için kodlar Daire tarafından verilir. Tüm Kodlar
+ATVT listesi olarak Dairenin resıiıi web sayfasında güncel ol'1.rak 
+erişilebilinecek ş·ekilde yayınlanır. 
+(2) · "B" BÖLGE KODU: 
+Kurum-Kuruluş Kodunu takiben nokta".'' karakteri kullamlarak 
+ikiiıci alt bölüm olan ve bir karakter ile ifade edilen Bölge Koduna
+geçilir. Bölge kodu olarak aşağıdaki tabloda belirtilen kodlar 
+kullanıhr: 
+(3) 
+O Merkez 
+1 L,efkoşa 
+2 Gazimağusa 
+3 Girne
+4 Güzelyurt 
+s· İskele 
+9 Yurtdışı 
+"CC" ALT BİRİM KODU: 
+..,........._..,_ Tr_ .:1 ___ -İ_. , ··-•· .. _' __ .1',J. ı:('!, ~ _.ı~ 1-.-11 ____ ._1-.',-1., ~~-~:. ----•~- _·1..ı 
+noıge l\..UULU.ıuaıı ~um~ yıııt; 1.Lu11..Lı:ı . ı~aıeu ıı..uııuııııruaK uı;uı.ıı.:u a.iL 
+bölüm olan ve iki say1sc1l karakter ile Alt Birim Kodu.verilir. Alt
+Birim Kodu olarak; aynı bö 1 gede iki veya daha fazla alt birimi olan
+kurumlar iki karakter (nurnerik) ile alt birim kodu kullanırlar.
+Bakanlık, kurnm ve dairelerin merkezleri "00" karakterini kullanırlar. 
+Bu konuyla ilgili örnek bu Yönetmeliğe ekli EK II' de
+düzenlemnektedir. · · 
+Kurum-Kuruluş kodundan sonra tire "-" karakteri kullanılarak İkinci 
+Bö1fırn o1a11 f(o11u T{odu11a gecilir. IIer belgeni11 bir lcon~1su 1 lard1r 'le 
+arşivlerde bu konu ile ilgili olan fiziksel veya elek.ironik ortamdaki dosyaya 
+yerleştirilir. . 
+[SAYFA 20]
+Yil ve Sayı 7.
+2680
+Konu kodları kurum ve kuruluş temsilcileriyle istişare halinde oluşturnlan 
+Standart Dosya Planı içerisinden, faaliyetin adı altında ana konular; ana
+konuyla ilgili alt/tali konular birbirleri ile olan ilişkileri dikkate alınarak, 
+bir araya getirilmiş ve numaralandırılmış rakamlarla belirlenir.
+Standart Dosya Planı, 1.·ı.mım ve .kuruhışlann takbi üzerine Daire tarafından 
+belirlenir ve Dairenin resın1 web sayfas1;ıda güncel olarak erişilebilinecek
+şekilde yayinlanır. . 
+(1) "DDD" ANA Kül\111 KODU: Her ana konuya Standart Dosya 
+· · Planında 000'dan 999'e kadar sayısa1 karakte.r kullanılarak
+oluşturulur. 
+(2). "EE" ALT KONU KODU:•Aııa konu kodundan sonra bölüm "r 
+karak.ieri kullanılarak Alt Komı Kodu verilir. Alt Konu Kodu,
+konularda detaya inmek için kullanılır. Planda alt konular için 
+00'dan 99'a kadar alt konu başlıktan belirlenir.
+Her ana konu kodundan sonra "ÖÖ" alt konu kodu. "Genel" başlığını
+taşır ve ilgili ana konunun alt başlıklarından en az ild tanesini
+kapsayan konular için kullanılır. Her ana kamı kodundan sonra "99" 
+alt konu kodu "Diğer" başlığını taşır ve ilgili ana konuya ait olmakla
+beraber alt konulardan hiç birisine dahil edilemeyen ahkonular için 
+bıllanılır. 
+Alt konu kodundan soma tire "-" işareti kullanılarak Üçüncü Bölüme
+geçilir ye bu bölümde Yıl Kodu ile Giden Evrak Kayıt Numarası yer alır. 
+(1) "FF" YIL KODU: Birinci alt bölümde yıl kodu aşağıdaki önıe.k.ie 
+gösterildiği gibi, yılın ·son ilci karakteri yazılmak sureti ile 
+veril ecektit.
+Örnek: 2015 yılını gösteren 15 rakamı gibi.
+2) "GGG" SAYI KODU (Giden Evrak . Kayıt Numarası): . EBYS 
+kullanmayan kurum ve kuruluşlar bu bölüme o- yıl içinde arşivden 
+çıkan belge numarasını yazarlar. EBYS kullanan kurum ve 
+1,.71ruluşlarda ise bu bölüm sistem tarafından otomatik eldenecekiir . 
+. ÜÇÜNCÜ KISThi 
+Standart Dosya Planı . 
+Standart 8. Gerek etldli bir yönetim için ihtiyaç duyulan bilginin zamariında temini, 
+Dosya Planı gerekse toplumım bilgi edinme gereksinimi doğrultusunda talep 
+~debileceği her türlü bilgi ve belgeye anında erişimi ve paylaşımı; bilginin 
+kayıtlı bulunduğu ortamların teşekkülü safhasında disiplin altına almması 
+ile mümkündür. Bu ise, kurallan önceden belirlenmiş. bir dosyafama 
+sisteminiı1 uygulanm;ısı ile sa_ğlanabilecektir. 
+Dosyala:!la sistem1e:-inde standartlaşma, kunun .içinde birl:ikieliğin , , 
+sağlanmasına imkföı vereceği ,'.;ibi bunun · tüm kurnm ve kuruluşlara 
+yaygmlaştırılı:nasıı ülke çapında etkili ve verimli bir haberleşme sisteminin 
+kurulmasıua zemin oluşturacahır. Bu amaç doğrultusunda, 2006 Belge 
+Sayı Sisteminin devamı olarak Daire'ce Standart Dosya Planı hazırlanıp 
+dairenin ı,,veb sıtesindc güncel olanık sunulmuştur. (http://arsiv.gov.ct.tr/) 
+Standart 9. Standaıi Dosya PlanınJa yer almayan konular için değişiklik önerileri 
+[SAYFA 21]
+Dosya Planı
+Değişikliği 
+Daireye yapıhr. 
+2681 
+DÖRDÜNCÜ KISIM
+Belge Ömür Tespiti 
+Belge Ömür 10.
+Tespiti
+Belge ömür tespiti ile kamu kurum ve kurulu~ları elinde bulunan arşiv 
+malzemesi ve ileride arşiv malzemesi haline gelecek arşivlik malzemenin
+muhafaza sürelerini ve süre sonunda imhası gerekenlerin imhasına dair 
+usul ve esasların bir standarda baglanması hedeflenmektedir. . 
+Belge ömür tespitleri konu ve gerektiğinde alt konu bçtzında 
+saptandığından dolayı Standart Dosya Planına eklenen sütunda gösterilir.
+Birinci sütunda dosyanın kurumda ·muhafaza. edileceği süre, ikinci 
+sütunda, süre sonunda göreceği· işlem ve üçüncü sütunda erişim yetkisi 
+belirtilir. 
+Belge Ömür 11.
+Tespiti 
+Belge ömür tespiti çalışması, Daire personeli tarafından kurumlarda
+belgeyi üreten ile birlikte yürütülür. Bu: çalışma ilgili k7lruın yöneticisi ve 
+çalışmayı yapanlar tarafından imzalanır. Çalışması tamamlanan listeler Onayı 
+Geçici
+Madde 
+İmha.
+Kısıtlaması 
+Geçici
+Madde Test
+Süresi 
+Yürütme 
+Yetkisi 
+Yürürİüğe
+Giriş 
+1.
+2.
+Milli Arşiv Kurulu onayına sunulur. · 
+BEŞİNCİ KISIM
+Geçici ve Son Ki.ırallar 
+Belge Ömür Tespüi çalışması süresince, ömrü tespit edilmemiş komilarda 
+imha yapılamaz. · · 
+Belge sayı sisteminde 2015 yılı deneme yılı olarak belirlenmiş olup, kalan
+sürede tüm belgelere mevcut sayı sistemi yanında bu sistem de
+uygulanarak sistemin test işlemleri gerçekleştirilir. Sistem, 1 Ocak 2016
+tarihi itibarıyla uygulamaya girecektir.
+12. Bu Yönetmelik, Milli Arşiv ve Araştınna Dairesi tarafından yürütülür.
+13. Bu Yönetmelilc, Resmi Gazete'de yayımlandığ1 tarihten başlayarak
+yürürlüğe girer. 
+EK-I 
+cı~ ... D,-~n+, · /) A A P ("l("I_T)T)nfl:rç_ı:rı:;-/r.r.r. --"7"')..G~rlo..-ı p,,,.,..1r V ,,~,,+ 1\T,,~n~""' 
+u<.Ly.c,. vu,._,_ ... ,,. •• ~~~·ı·~ıj~ ~Ti ~,Ti T' ~~~ ~Yıll(od~•~- ~~u.,.c, .. -.u, ...... w, 
+~----'--.ii>Alt Konu Kodu 
+'---------~► Konu Kodu 
+~-------_,► Alt Birim Kodu 
+'------------► Bölge Kodu 
+'-------------~; Kurum-Kuruluş Kodu
+EKII
+MTÖ.0.00 Merkez (Müdürlük Arşivi) 
+MTÖ.1.01 Sedat Simavi Endüstıi Meslek Lisesi LEFKOŞA 
+MTÖ.1.02 Haydarpaşa Ticaret Lisrn 
+MTÖ.2.01 Dr. Fazıl K. Endüstri :tv1eslck Lisesi GAZİl\ılAĞUS.'\ 
+MTÖ.2.02 Gazimağusa Ticaret Lisesi 
+[SAYFA 22]
+2682 
+Sayı: 789 
+mş TİCARET (DÜZENLElVIE VE DENETİM) YASASI 
+(12/1983, 46/1990 ve 22/1996 Sayılı Yasalar) 
+4(2) ve 8 Altında Yapılan Tiizük 
+Kuzey Kıbrıs Türk Cumhuriyeti Bakmılar Kurulu, Dış Ticaret (Düzenleme ve Denetim) 
+Yasası'nın 4(2) ve 8'inci maddelerinin ke:1disine vermiş olduğu yetkiye dnyanarak aş::ı.ğıdaki 
+Tüzüğü yapar: 
+Kısa İsim 
+04.08.2006
+R.G.130
+EK. III
+A.E. 461
+27.03.2007
+R.G.54
+EK.III
+A.E. 219
+17.07.2007
+R.G.130
+EK.III
+A.E.481
+01.11.2007
+R.G.194
+EK.III
+A.E.744
+20.02.2008
+R.G.33
+EK.III
+1.
+Esas Tüzüğe Yeni 2. 
+Geçici 24'üncü
+Maddenin
+Eklenmesi 
+Yürürlüğe Giriş 3.
+Bu Tüzük, "Motorlu Taşıt Araçları Yaş Sınırlandırılması (Değişiklik)
+Tüzüğü" olarak isimlendirilir ve aşağıda "Esas Tüzük" olarak anılan 
+"Motorlu Taşıt Araçları Yaş Smıriandırılması Tüzüğü" ile birlikte 
+okunm. 
+A.E.159 EK.lJI R.G.38 A.E.600 R.G.96
+15.08.2008 A.E.551 EK.III 01.l l.2010 EK.III 
+R.G.153 24.09.2009 A.E.136 R.G.186 A.E.303
+EK.Ill R.G.161 12.05.2010 EK.III 20.02.2014
+A.E.620 EK.III R.G.77 A.E.667 R.G.40
+11.03.2009 A.E.672 EK.III 02.08.2011 EK.III
+R.G.50 25.12.2009 A.E.303 R.G.130 A.E.130
+EK.IIl R.G.218 09.08.20] O EK.III 20.03.2014
+A.E.206 EK.HI R.G.136 A.E.408 R.G.65
+13.04.2009 A.E.892 EK.HI 09.08.2012 EK.III
+R.G.66 22.02.20] O A.E.516 R.G.146 A.E.191
+EK.III R.G.32 29.09.201 O EK.III 26.8.2014
+A.E.295 EK.III R.G.167 A.E.456 R.G.180
+31.07.2009 A.E.120 EK.III 01.06.2013 EK.III
+R.G.132 03.03.201 O A.E.533
+Esas Tüzük, Geçici 23 'üncü maddesinden hemen sonra aşağıdaki yeni
+Geçici 24'üncü madde eklenmek suretiyle değiştirilir: 
+"Geçici Madde 24.
+Hibe Edilen
+Araçlar İçin 
+Geçici Kural
+Bu (Değişiklik) Tüzüğünün yürürlüğe girdiği 
+tarihten önce Kuzey Kıbrıs Türk Cumhuriyeti 
+Lımanlanna giriş yapmış, Devlete, kamu kurum 
+v 1 2 kunıluşlaana, belediyelere veya hayır
+kurumlarına, hibe edilmiş binek otomobillerine 
+ve mutad olmayan araçlara, on yaşmdcu.1 büyük 
+olmarnaian ve brı Tüzüğün yürürlüğe girdiği 
+tarihten itibaren ( 1) bir ay iç:erisincl-:: başvuruda 
+bulumılrnası halinde ithal izni verilebilir.
+Bu madde amaçları bak1m11~dan hayır 
+b:ırurnbn.. Bak:.mlar Kurulu tarafından hayır 
+kurumu olc,rak ilan edilen kurumlcm anlatır. "
+Bu Tüzük, Resmi Gazete'de yayım]a;:ıdığı tarihten başlayarak yürürlüğe 
+girer. 
+[SAYFA 23]
+2683 
+Savı: 790
