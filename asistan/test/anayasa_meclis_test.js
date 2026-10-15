@@ -6,7 +6,7 @@ const SET=[
 ['Acentelik sözleşmesinin şekli nedir?',['47/1993']],['Özel hastane açmak için hangi koşullar gerekir?',['32/1998']],
 ['Teknoloji geliştirme bölgesinde vergi muafiyeti var mı?',['2/2005']],['Uluslararası bankacılık birimi nasıl lisans alır?',['41/2008']],
 ['Yabancılar taşınmaz mal satın alırken hangi izin gerekir, lisanslı ara yatırımcı nedir?',['YGK 07/10/2026','52/2008']],
-['Dağıtılmayan kurum kazançlarına uygulanacak vergi kesintisi nedir?',['YGK 05/10/2026','YGK 15/04/2026','YGK 06/10/2026']],
+['Dağıtılmayan kurum kazançlarına uygulanacak vergi kesintisi nedir?',['YGK 07/10/2026','YGK 16/04/2026','YGK 03/08/2026']],
 ];
 (async()=>{const b=await chromium.launch();const p=await b.newPage();const errs=[];p.on('pageerror',e=>errs.push(e.message));
 await p.goto('http://127.0.0.1:8811/kira_asistani.html'); await p.waitForTimeout(800);

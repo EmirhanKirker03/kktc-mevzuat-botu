@@ -268,10 +268,45 @@ for g in gruplar.values():
     for y in g[1:]:
         y['ry'] = True; y['nt'] = 'Aynı adla daha yeni bir metin var (' + g[0]['n'] + '); bu eski sürümdür. ' + y['nt']; istat['eski sürüm'] += 1
 
+# metni boş çıkan maddeler: kaynak PDF'de madde numaraları metinden ayrı bir sütunda olduğu için metin sonraki maddeye
+# toplanmıştır. Boş madde(ler) metni taşıyan maddeyle birleştirilip '1–5' gibi aralık numarasıyla ve açıklayıcı notla verilir.
+def _bos(m): return not m['metin'].strip() and not m.get('sd')
+def bos_birlestir(ms):
+    out, bek = [], []
+    for m in ms:
+        if _bos(m) and not str(m['no']).startswith(('Parça', 'Değişiklik')): bek.append(m); continue
+        if bek and not m.get('sd') and not str(m['no']).startswith(('Parça', 'Değişiklik')):
+            grup = bek + [m]
+            uzun = [g['baslik'] for g in grup if len(g['baslik']) > 80]
+            kisa = [g['baslik'] for g in grup if g['baslik'].strip() and len(g['baslik']) <= 80]
+            no = str(grup[0]['no']) + '–' + str(m['no'])
+            not_ = '[Kaynak dosyada madde numaraları metinden ayrı yazıldığı için ' + no + '. maddelerin metni birlikte verilmiştir; madde sınırları için resmî metne bakın.]\n'
+            out.append({**m, 'no': no, 'baslik': '; '.join(kisa), 'metin': not_ + '\n'.join(uzun + [m['metin']]), 'birlesik': True})
+            istat['boş madde birleştirildi'] += len(bek); bek = []; continue
+        out.extend(bek); bek = []; out.append(m)
+    if bek:  # sonda kalan boş maddeler: metinleri büyük olasılıkla bir önceki maddede
+        o = out[-1] if out and not out[-1].get('sd') and not str(out[-1]['no']).startswith(('Parça', 'Değişiklik')) and out[-1]['metin'].strip() else None
+        if o:
+            ilk = str(o['no']).split('–')[0]; no = ilk + '–' + str(bek[-1]['no'])
+            metin = re.sub(r'^\[Kaynak dosyada madde numaraları[^\]]*\]\n', '', o['metin'])
+            kisa = [g['baslik'] for g in [o] + bek if g['baslik'].strip() and len(g['baslik']) <= 80]
+            out[-1] = {**o, 'no': no, 'baslik': '; '.join(kisa), 'metin': '[Kaynak dosyada madde numaraları metinden ayrı yazıldığı için ' + no + '. maddelerin metni birlikte verilmiştir; madde sınırları için resmî metne bakın.]\n' + metin, 'birlesik': True}
+            istat['boş madde birleştirildi'] += len(bek)
+        else:
+            out.extend(bek)
+    return out
+for y in yasalar:
+    y['m'] = bos_birlestir(y['m'])
+    for m in y['m']:
+        if not m['metin'].strip() and not m.get('sd'):
+            m['metin'] = '[Bu maddenin metni kaynak dosyadan çıkarılamadı. Lütfen resmî metne bakın.]'; istat['boş madde notu'] += 1
+
 # onarımdan sonra hâlâ okunamayan bölümler: anlamsız metin gösterilmez, açık bir not konur
 for y in yasalar:
     for m in y['m']:
-        if not m.get('sd') and onar.okunamaz(m['metin']): m['metin'] = onar.OKUNAMAZ_NOT; m['okunamaz'] = True; ONAR['okunamaz bölüm'] += 1
+        if m.get('sd'): continue
+        bas = onar.okunamaz_bas(m['metin'])  # okunamayan metinde baştaki okunur satırlar (ör. Resmî Gazete başlığı) korunur
+        if bas is not None: m['metin'] = (bas + '\n' if bas else '') + onar.OKUNAMAZ_NOT; m['okunamaz'] = True; ONAR['okunamaz bölüm'] += 1
 
 # elle doğrulanmış yasalar da dizine girer (metinleri sayfanın içinde; burada yalnızca arama anahtarları)
 elle = []

@@ -31,4 +31,11 @@ Kaynak PDF/Word dosyalarından gelen kodlama hataları derleme sırasında onar�
 - Windows-1254 karışması (ý/þ/ð → ı/ş/ğ; İngilizce metinde ý → i), çeviri aracı etiketleri, denetim karakterleri.
 - Anlamsız sembol dizileri silinir ya da '[okunamayan kısım]' olur; onarımdan sonra hâlâ okunamayan bölümlerin metni yerine açık bir not konur (yapay zekâ bozuk metne dayanmaz).
 - Kira (Denetim) Yasası el verisinde 7. madde (G) ve (I) bentlerindeki Word nesnesi artıkları, resmî birleştirilmiş metinle karşılaştırılarak çıkarıldı.
-Denetim: `python3 bozuk_tara.py app/pub` (kalan çöp dizili birim sayısı).
+- Symbol yazı tipi özel alan karakterleri (U+F0F5 = ı, U+F025 = %), görünmez karakterler (BOM, yumuşak tire).
+- Üçüncü yazı tipi hatası: küçük ş/ğ büyük, ı ise 'f' çıkmış ('AraŞtfrma' = 'Araştırma'); 'f'ler sözlükteki biçime göre tek tek seçilir.
+- Harf harf bölünmüş sözcükler ('yap ı lacak', 'oldu ğ unu'): yalnızca birleşik hâli sözlükte olan ve parçalarından biri tek başına sözcük olmayanlar birleştirilir. Sözlük (onar_sozluk.json) yalnızca temiz kaynaklardan kurulur: `python3 sozluk_kur.py app/pub`.
+- Yazı tanımanın büyük harfli sözcükte küçük okuduğu harfler ('ECZANESi', 'ALlŞ', 'TURIzM'): büyük hâli sözlükte varsa düzeltilir.
+- Hâlâ anlamsız olan satırlar '[okunamayan kısım]' olur; bölümün tamamı okunamıyorsa baştaki okunur satırlar (Resmî Gazete başlığı gibi) korunup yerine not konur. Sayfada bu notlar soluk ve italik gösterilir.
+- Metni boş çıkan maddeler (madde numaraları kaynak PDF'de ayrı sütunda olduğu için metin sonraki maddeye toplanmış): metni taşıyan maddeyle birleştirilip '1–5' gibi aralık numarası ve açıklayıcı notla verilir.
+- Kararlar: künyede tarihi olmayan ya da yazım hatalı (ör. 0191-02-23) kararların tarihi metindeki imza/toplantı tarihinden, karar yılıyla uyuşuyorsa alınır; yıllık derleme sayfalarında alınmaz.
+Denetim: `python3 bozuk_tara.py app/pub` (kalan çöp dizili birim sayısı), `python3 test/veri_kalite.py app/pub` (kalite sınırları), `python3 denetim_tum.py app/pub` (ayrıntılı tutarlılık raporu).

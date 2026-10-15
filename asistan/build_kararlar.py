@@ -4,7 +4,8 @@ Kaynak: KKTC Yüksek Mahkeme mevzuat sistemi (mevzuat.mahkemeler.net) — bot de
 liste/mahkemeler-karar.json ve veri/mahkemeler/kararlar/*.txt. Metinler değiştirilmez;
 yalnızca satır sonları ve fazla boşluklar sadeleştirilir (parmak izi orijinal metne aittir).
 """
-import json, re, os
+import json, re, os, collections
+istat = collections.Counter()
 from collections import Counter
 
 REPO = '/home/claude/kktc-mevzuat-botu'
@@ -72,6 +73,32 @@ def kira_maddeleri(yasa_madde, metin):
             bul.add(x.group(1))
     return sorted((n for n in bul if 1 <= int(n) <= 18), key=int)
 
+AYLAR = {'ocak': 1, 'şubat': 2, 'subat': 2, 'mart': 3, 'nisan': 4, 'mayıs': 5, 'mayis': 5, 'haziran': 6, 'temmuz': 7, 'ağustos': 8, 'agustos': 8, 'eylül': 9, 'eylul': 9, 'ekim': 10, 'kasım': 11, 'kasim': 11, 'aralık': 12, 'aralik': 12}
+def metin_tarihi(metin, yil):
+    """Künyede tarihi olmayan (ya da yazım hatalı) kararlar için metindeki karar/toplantı tarihi; karar yılıyla uyuşmalı."""
+    def uygun(g, a, y):
+        try: g, a, y = int(g), int(a), int(y)
+        except ValueError: return None
+        if y < 100: y += 1900 if y > 50 else 2000
+        if not (1 <= g <= 31 and 1 <= a <= 12 and 1950 <= y <= 2026): return None
+        if yil.isdigit() and len(yil) == 4 and abs(y - int(yil)) > 1: return None
+        return '%04d-%02d-%02d' % (y, a, g)
+    def bul(parca, kalip=r''):
+        parca = re.sub(r'(?<![\w])[lI](\d)', r'1\1', parca)  # yazı tanıma: l6 Nisan = 16 Nisan
+        b = []
+        for m in re.finditer(r'(?<![\w])(\d{1,2})[./](\d{1,2})[./](\d{4}|\d{2})(?![\w])' + kalip, parca): b.append(uygun(*m.groups()[:3]))
+        for m in re.finditer(r'(?<![\w])(\d{1,2})\s+([A-Za-zÇĞİÖŞÜçğıöşü]+),?\s+(\d{4})(?![\w])' + kalip, parca):
+            a = AYLAR.get(m.group(2).replace('İ', 'i').replace('I', 'ı').lower())
+            if a: b.append(uygun(m.group(1), a, m.group(3)))
+        return [x for x in b if x]
+    if metin.lstrip().startswith('[SAYFA'): return ''  # yıllık derleme sayfaları: içindeki tarihler başka kararlara ait olabilir
+    t = re.search(r'Tarih\s*:\s*([^\n]{6,30})', metin[:2000])
+    if t and bul(t.group(1)): return bul(t.group(1))[0]
+    s = bul(metin[-300:])
+    if s: return s[-1]
+    s = bul(metin[:1500], r'\s+(?:\w+\s+)?günü')
+    return s[0] if s else ''
+
 out = []
 for k in liste['kayitlar']:
     metin = oku(k)
@@ -93,11 +120,14 @@ for k in liste['kayitlar']:
     if tur in TUR_ALAN: alanlar.append(TUR_ALAN[tur])
     if not alanlar: alanlar.append('DIGER')
     tarih = (k.get('Tarih') or '')[:10]
+    yil = str(k.get('Yild') or '')
+    if not tarih or tarih < '1950' or (yil.isdigit() and len(yil) == 4 and abs(int(tarih[:4]) - int(yil)) > 3):
+        tarih = metin_tarihi(metin, yil); istat['tarih metinden' if tarih else 'tarih yok'] += 1
     out.append({
         'id': 'K' + str(k['Pkey']), 'tarih': tarih, 'tur': tur,
         'dno': f"{k.get('Dnumara') or ''}/{k.get('Yild') or ''}".strip('/'),
-        'taraflar': (k.get('Taraflar') or '').strip(), 'konu': (k.get('Konu') or '').strip(),
-        'yasa': (k.get('YasaMadde') or '').strip(), 'ozet': (k.get('Ozet') or '').strip(),
+        'taraflar': re.sub(r'\s+', ' ', k.get('Taraflar') or '').strip(), 'konu': re.sub(r'[ \t\r]+', ' ', k.get('Konu') or '').strip(),
+        'yasa': re.sub(r'^[.\s-]+$', '', re.sub(r'\s+', ' ', k.get('YasaMadde') or '')).strip(), 'ozet': re.sub(r'[ \t\r]+', ' ', k.get('Ozet') or '').strip(),
         'url': k.get('url'), 'metin_sha256': k.get('metin_sha256'),
         'alanlar': alanlar,
         'eski': [a for a in alanlar if tarih and tarih < BASLANGIC[a]],
@@ -116,3 +146,4 @@ c = Counter(a for x in out for a in x['alanlar']); print(c)
 for a in ALANLAR:
     xs = [x for x in out if a in x['alanlar']]
     print(a, 'eski dönem:', sum(1 for x in xs if a in x['eski']), '| örnek:', [(x['tarih'], x['konu'][:50]) for x in xs[:3]])
+print('tarih:', dict(istat))

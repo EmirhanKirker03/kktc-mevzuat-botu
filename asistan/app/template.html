@@ -97,7 +97,7 @@ input[type=search],input[type=text]{color:var(--ink);background:var(--sheet);bor
 .switch input:checked{background:var(--seal)} .switch input:checked::after{left:17px}
 .examples{margin-top:12px;display:flex;flex-direction:column;gap:6px}
 .sorulmus .examples{display:none}
-@media (max-width:820px){.examples .chips{flex-wrap:nowrap;overflow-x:auto;scrollbar-width:none;padding-bottom:2px}.examples .chip{white-space:nowrap;flex:none}.askbar .row{width:100%;justify-content:flex-end}}
+@media (max-width:820px){.examples .chips{flex-direction:column;align-items:stretch}.examples .chip{white-space:normal;text-align:left}.examples .chip:nth-child(n+5){display:none}.askbar .row{width:100%;justify-content:flex-end}}
 .results{display:grid;grid-template-columns:minmax(0,1.15fr) minmax(0,1fr);gap:24px;margin-top:20px;align-items:start}
 @media (max-width:1100px){.results{grid-template-columns:1fr}}
 .col{min-width:0;display:flex;flex-direction:column;gap:12px}
@@ -130,6 +130,7 @@ article.sheet:not(.open) > .amd, article.sheet:not(.open) > .rv, .kcard:not(.ope
 .amd{margin-top:10px;border-left:3px solid var(--warn);padding:6px 0 6px 12px}
 .amd .who{font-size:12.5px;font-weight:600;color:var(--warn)}
 .amd .what{font-size:13.5px;margin:2px 0 4px}
+.okn{color:var(--muted);font-style:italic;font-family:var(--f-body,inherit);font-size:.93em}
 .amd .txt{max-height:180px;border-top:0;padding-top:0;font-size:14px}
 .src{font-size:12.5px;color:var(--muted);margin-top:8px}
 .src a{color:var(--seal)}
@@ -223,6 +224,20 @@ nav.nav details.diger[open] summary::after{content:" ▴"}
 .rv{border-top:0;padding-top:0}
 article.sheet:not(.open) > .src{display:none}
 .askbar{align-items:center}
+
+.tanit{position:fixed;inset:0;z-index:60;background:rgba(10,20,18,.55);display:flex;align-items:center;justify-content:center;padding:16px}
+.tanit[hidden]{display:none}
+.tanit .kart{background:var(--sheet);color:var(--ink);border-radius:12px;max-width:460px;width:100%;padding:22px 22px 16px;box-shadow:0 20px 60px rgba(0,0,0,.25)}
+.tanit .adim{font-size:12px;color:var(--muted);letter-spacing:.04em}
+.tanit h3{font-family:var(--f-display);font-weight:650;font-size:21px;margin:6px 0 8px}
+.tanit p{margin:0 0 8px;line-height:1.55}
+.tanit ul{margin:0 0 8px;padding-left:18px;line-height:1.55}
+.tanit .alt{display:flex;justify-content:space-between;align-items:center;margin-top:14px;gap:8px}
+.tanit .noktalar{display:flex;gap:6px}.tanit .noktalar i{width:8px;height:8px;border-radius:50%;background:var(--rule-2)}.tanit .noktalar i.on{background:var(--seal)}
+.linkbtn{background:none;border:0;padding:0;font:inherit;color:var(--seal);text-decoration:underline;cursor:pointer}
+.tanit .adim{padding:0;margin:0;text-indent:0}
+@media (max-width:820px){.topbar b{white-space:nowrap;font-size:17px}.topbar span{white-space:nowrap}}
+.topbar .linkbtn{text-decoration:none;font-weight:600;border:1px solid var(--rule-2);border-radius:999px;width:24px;height:24px;line-height:22px;text-align:center;flex:none}
 </style>
 
 <div class="app">
@@ -231,7 +246,7 @@ article.sheet:not(.open) > .src{display:none}
       <h1>KKTC Hukuk Asistanı</h1>
       <p>Mevzuat ve içtihat araştırması · her cevap kaynağıyla</p>
     </div>
-    <nav class="nav" role="tablist" aria-label="Bölümler">
+    <nav class="nav" lang="tr" role="tablist" aria-label="Bölümler">
       <button role="tab" id="tab-ask" data-pane="pane-ask" aria-selected="true"><svg viewBox="0 0 24 24"><path d="M21 12a8 8 0 0 1-11.6 7.1L4 20l1-4.6A8 8 0 1 1 21 12z"/><path d="M9.5 9.5a2.5 2.5 0 1 1 3.3 2.4c-.5.2-.8.6-.8 1.1v.5M12 16.5h.01"/></svg>Sor</button>
       <button role="tab" id="tab-taslak" data-pane="pane-taslak" aria-selected="false"><svg viewBox="0 0 24 24"><path d="M12 20h9"/><path d="M16.5 3.5a2.1 2.1 0 0 1 3 3L7 19l-4 1 1-4z"/></svg><span class="uzun">Belge hazırla</span><span class="kisa">Taslak</span></button>
       <button role="tab" id="tab-file" data-pane="pane-file" aria-selected="false"><svg viewBox="0 0 24 24"><path d="M14 3H7a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2V8z"/><path d="M14 3v5h5M9 13h6M9 17h4"/></svg><span class="uzun">Belge incele</span><span class="kisa">İncele</span></button>
@@ -242,7 +257,7 @@ article.sheet:not(.open) > .src{display:none}
       <button class="morebtn" id="morebtn" aria-haspopup="true" aria-expanded="false"><svg viewBox="0 0 24 24"><circle cx="5" cy="12" r="1.3"/><circle cx="12" cy="12" r="1.3"/><circle cx="19" cy="12" r="1.3"/></svg>Daha</button>
     </nav>
     <div class="sidefoot">
-      <div class="stat2">__TUMYASA__ yasa · __TUMTUZUK__ tüzük · __KARAR__ karar<br>Güncel: Ekim 2026</div>
+      <div class="stat2">Anayasa ve __TUMYASA__ yasa · __TUMTUZUK__ tüzük · __TUMIKINCIL__ kararname, emirname ve yönetmelik · __KARAR__ mahkeme kararı<br>Güncel: Ekim 2026 · <button type="button" class="linkbtn" id="tanitac" style="color:inherit">Nasıl kullanılır?</button></div>
       <div class="proto">Hukuki tavsiye değildir; son kontrol avukattadır.</div>
     </div>
   </aside>
@@ -255,7 +270,11 @@ article.sheet:not(.open) > .src{display:none}
   </div>
 
   <main class="main">
-  <div class="topbar"><b>KKTC Hukuk Asistanı</b><span>prototip · tavsiye değildir</span></div>
+  <div class="tanit" id="tanitim" hidden role="dialog" aria-modal="true" aria-labelledby="tanit-baslik"><div class="kart">
+  <div class="adim" id="tanit-adim">1 / 3</div><h3 id="tanit-baslik"></h3><div id="tanit-icerik"></div>
+  <div class="alt"><button type="button" class="linkbtn" id="tanit-gec">Geç</button><div class="noktalar" id="tanit-nokta"><i></i><i></i><i></i></div><button type="button" class="btn" id="tanit-ileri">İleri</button></div>
+</div></div>
+<div class="topbar"><b>KKTC Hukuk Asistanı</b><span>Hukuki tavsiye değildir</span><button type="button" class="linkbtn" id="tanitac2" aria-label="Nasıl kullanılır">?</button></div>
 
   <section id="pane-ask" role="tabpanel">
     <div class="ask">
@@ -265,7 +284,7 @@ article.sheet:not(.open) > .src{display:none}
         <div class="row">
           <span class="state" id="state"></span>
           <button class="btn ghost" id="stop" hidden>Durdur</button>
-          <button class="btn ghost" id="derinbtn" type="button" title="Soru alt sorulara bölünür, her biri ayrı aranır; daha kapsamlı ama daha yavaş">Ayrıntılı araştır</button>
+          <button class="btn ghost" id="derinbtn" type="button" hidden title="Soru alt sorulara bölünür, her biri ayrı aranır; daha kapsamlı ama daha yavaş">Ayrıntılı araştır</button>
           <button class="btn" id="ask">Cevapla</button>
         </div>
       </div>
@@ -285,7 +304,7 @@ article.sheet:not(.open) > .src{display:none}
     </div>
     <footer>
       <span>Cevaplar yalnızca bu sayfadaki maddelere ve kararlara dayanır; kaynağı olmayan cümle ve karar metninde bulunmayan alıntı gösterilmez.</span>
-      <span>Kaynak: KKTC Yüksek Mahkeme mevzuat sistemi ve Cumhuriyet Meclisi arşivi, Ekim 2026. Her dosyanın parmak izi (SHA-256) saklanır.</span>
+      <span>Kaynak: KKTC Yüksek Mahkeme mevzuat sistemi, Cumhuriyet Meclisi arşivi ve Resmî Gazete (Devlet Basımevi), Ekim 2026. Her dosyanın parmak izi (SHA-256) saklanır.</span>
     </footer>
   </section>
 
@@ -501,7 +520,7 @@ const SYN = [
 const TERIM=[[/ayıplı|ayıp/i,'kusurlu'],[/temyiz/i,'istinaf'],[/yargıtay/i,'Yüksek Mahkeme istinaf'],[/ihtiyati tedbir|tedbir kararı/i,'ara emri'],[/ihtiyati haciz/i,'ara emri haciz'],
   [/dava dilekçe/i,'talep takriri'],[/cevap dilekçe/i,'müdafaa takriri savunma'],[/tebligat/i,'tebliğ'],[/yargılama gider|vekalet ücret/i,'masraflar'],[/icra takib|ilamlı icra|ilamsız/i,'icra müzekkere hüküm'],
   [/\bilam\b/i,'hüküm'],[/kira tespit/i,'kira saptanması'],[/\bHMK\b|hukuk muhakemeleri kanunu/i,'Hukuk Muhakemeleri Usulü'],[/\bCMK\b|ceza muhakemesi kanunu/i,'Ceza Muhakemeleri Usulü'],
-  [/\bTBK\b|borçlar kanunu/i,'Sözleşmeler'],[/\bTCK\b|türk ceza kanunu/i,'Ceza Yasası'],[/\bİİK\b|icra ve iflas kanunu/i,'icra iflas'],[/tapu iptal/i,'tapu kayıt düzeltme'],[/vekaletname/i,'vekaletname avukat tutma varakası']];
+  [/\bTBK\b|borçlar kanunu/i,'Sözleşmeler'],[/\bTCK\b|türk ceza kanunu/i,'Ceza Yasası'],[/\bİİK\b|icra ve iflas kanunu/i,'icra iflas'],[/tapu iptal/i,'tapu kayıt düzeltme'],[/vekaletname/i,'vekaletname avukat tutma varakası'],[/antika|tarihi eser|arkeolojik|define/i,'eski eser'],[/kamu görevlisi|devlet memuru|\bmemur/i,'Kamu Görevlileri Yasası'],[/çocuğun korunması|çocuk koruma|korunmaya muhtaç/i,'Çocuklar Yasası korunma emri'],[/kurum kazanc|kurumlar vergi|şirket kazanc/i,'Kurumlar Vergisi']];
 const terimEk = q => TERIM.filter(([re])=>re.test(q)).map(([,k])=>k).join(' ');
 // soru kalıpları ("ne zaman", "nasıl", "kaç gün") aranacak kelime değildir; "ne zaman" "zamanaşımı" ile karışmasın
 const soruTemizle = q => String(q).replace(/\b(ne zaman|ne kadar|nasıl|nedir|neler(dir)?|hangi|kaç|kim(ler)?|mıdır|midir|mudur|müdür|mı|mi|mu|mü|var mı|yok mu|olur mu|edebilir miyim|alabilir miyim|isteyebilir miyim)\b/giu,' ');
@@ -601,9 +620,9 @@ function sonrakiDegisiklikler(k, alan){
 }
 function donemBadge(k, alan){
   if(alan==='KIRA' || (!alan && k.alanlar.includes('KIRA'))){
-    if(k.donem==='guncel') return '<span class="badge live">27/2011 sonrası</span>';
-    if(k.donem==='ara') return '<span class="badge chg">1981–2011 · 27/2011 öncesi</span>';
-    if(k.donem==='eski') return '<span class="badge gone">1981 öncesi · eski kira mevzuatı</span>';
+    if(k.donem==='guncel') return '<span class="badge live" title="Karar, 27/2011 sayılı değişiklikten sonra verilmiştir">güncel kira yasası dönemi</span>';
+    if(k.donem==='ara') return '<span class="badge chg" title="Karar 2011 değişikliğinden önce verilmiştir; bazı kurallar değişmiş olabilir">2011 değişikliği öncesi</span>';
+    if(k.donem==='eski') return '<span class="badge gone" title="Yürürlükten kalkmış eski kira mevzuatı dönemi">1981 öncesi · eski yasa</span>';
     return '<span class="badge chg">tarih yok</span>';
   }
   const a=alan||k.alanlar[0];
@@ -645,7 +664,7 @@ function kararCard(k, excerpt, id, alan){
 document.addEventListener('toggle',async e=>{ const d=e.target; if(!d.classList||!d.classList.contains('kfull')||!d.open) return;
   const p=d.querySelector('[data-k]'); if(!p || p.textContent || !KBY[p.dataset.k]) return;
   if(!KBY[p.dataset.k].metin){ p.textContent='Yükleniyor…'; try{ await kMetin([p.dataset.k]); }catch(err){ p.textContent='Karar metni yüklenemedi.'; return; } }
-  p.textContent=KBY[p.dataset.k].metin; },true);
+  p.innerHTML=metinH(KBY[p.dataset.k].metin); },true);
 function showCases(found, alanlar){
   $('#cases').innerHTML = found.length ? found.map(x=>kararCard(x.k, x.chunks[0], 'k-'+x.k.id, x.alan)).join('')
     : '<p class="muted small" style="margin:0">Bu soruyla eşleşen karar bulunamadı ('+(alanlar&&alanlar.length?esc(alanlar.map(a=>ALAN_AD[a]).join(', '))+' kararları':'tüm kararlar')+' arandı).</p>'; rvStats();
@@ -732,6 +751,7 @@ function badge(a){
   return '';
 }
 const emYazi=em=>em.map(([a,b])=>a===b?String(a):a+'–'+b).join(', ');
+const metinH=t=>esc(t).replace(/\[(okunamayan kısım|Kaynak dosyada madde numaraları[^\]]*|Bu bölümün metni kaynak dosyada[^\]]*|Bu maddenin metni kaynak dosyadan[^\]]*)\]/g,'<span class="okn">[$1]</span>');
 const mLabel=a=>(/^(Geçici|Parça|Değişiklik|Emir|Form|İçindekiler)/.test(String(a.no))?String(a.no).replace(/ n\.(\S+)$/,', nizam $1'):'Madde '+a.no);
 function lawLink(no){ const f=LAWFILE[no]; return f?'<a href="http://cm.gov.ct.tr/Yasalar/'+f+'.doc" target="_blank" rel="noopener">'+esc(no)+' (Meclis)</a>':esc(no); }
 function sheet(a, tag, idp){
@@ -744,7 +764,7 @@ function sheet(a, tag, idp){
     : 'Kaynak: <a href="'+esc(L.url)+'" target="_blank" rel="noopener">Yüksek Mahkeme birleştirilmiş resmî metni</a> · Meclis\'teki son değişiklik ('+esc(L.son||'-')+') metne işlenmiş';
   return '<'+tag+' class="sheet" id="'+(idp||'m-')+esc(a.cid)+'">'+
     '<header><span class="mno">'+esc(mLabel(a))+' · '+esc(L.no)+' '+esc(L.kisa)+'</span>'+badge(a)+'</header>'+
-    '<h3>'+esc(a.title)+'</h3><p class="txt">'+esc(a.text)+'</p>'+(tag==='article'?'<button class="ac" type="button">Tam metni göster</button>':'')+am+
+    '<h3>'+esc(a.title)+'</h3><p class="txt">'+metinH(a.text)+'</p>'+(tag==='article'?'<button class="ac" type="button">Tam metni göster</button>':'')+am+
     '<div class="src">'+src+'</div>'+rvBar('madde:'+a.cid,'madde',L.no+' '+L.ad+' — '+mLabel(a)+' '+a.title)+'</'+tag+'>';
 }
 document.addEventListener('click',e=>{ const b=e.target.closest('.rvac'); if(b) b.closest('.rv').classList.toggle('acik'); });
@@ -785,7 +805,7 @@ function maddeBloklari(list){
     const L=LAWBY[a.law];
     let b = '### '+a.cid+' — '+L.ad+' ('+L.no+') '+mLabel(a)+' ('+a.title+') [durum: '+a.status+']\n';
     if(a.sd){ b+='SONRAKİ DEĞİŞİKLİK YASASI (Meclis arşivi; Yüksek Mahkeme birleştirilmiş metnine işlenmemiş — esas metinle çelişirse bu geçerlidir):\n'+(a.text.length>6000?a.text.slice(0,6000)+' [...]':a.text); }
-    else if(L.otomatik){ b+='METİN ('+(L.meclis?'Cumhuriyet Meclisi arşivindeki metin — Yüksek Mahkeme sisteminde dosyası yok, sonraki değişiklikler işlenmemiş olabilir':L.rg?'Resmî Gazete\'de yayımlandığı hâli — birleştirilmiş metin değildir, sonradan değişmiş olabilir':'Yüksek Mahkeme birleştirilmiş resmî metni')+'; madde sınırları otomatik belirlendi'+(L.not?'; ÖNEMLİ NOT: '+L.not:'')+(L.parca?', bu bir sıralı parçadır, madde numarası okunamadı':'')+(L.ocr?'; taranmış belgeden yazı tanıma ile okundu, kelime hataları olabilir':'')+(L.en?'; metin İngilizce, eski baskı olabilir':'')+(L.gy&&L.gy.length?'; UYARI: '+L.gy.join(', ')+' sayılı değişiklik(ler) bu metne işlenmemiş; değişiklik yasalarının metni ayrıca verildi, çelişkide değişiklik geçerlidir':'')+(L.em&&L.em.length?'; UYARI: kaynak dosyadan okunamayan madde numaraları: '+emYazi(L.em)+' (bu maddeler hakkında kesin konuşma, avukatı resmî dosyaya yönlendir)':'')+'):\n'+(a.text.length>5000?a.text.slice(0,5000)+' [...]':a.text); }
+    else if(L.otomatik){ b+='METİN (köşeli parantez içindeki [okunamayan kısım] ve benzeri notlar kaynağa değil derleyiciye aittir; o kısımlar hakkında yorum yapma, resmî metne yönlendir; '+(L.meclis?'Cumhuriyet Meclisi arşivindeki metin — Yüksek Mahkeme sisteminde dosyası yok, sonraki değişiklikler işlenmemiş olabilir':L.rg?'Resmî Gazete\'de yayımlandığı hâli — birleştirilmiş metin değildir, sonradan değişmiş olabilir':'Yüksek Mahkeme birleştirilmiş resmî metni')+'; madde sınırları otomatik belirlendi'+(L.not?'; ÖNEMLİ NOT: '+L.not:'')+(L.parca?', bu bir sıralı parçadır, madde numarası okunamadı':'')+(L.ocr?'; taranmış belgeden yazı tanıma ile okundu, kelime hataları olabilir':'')+(L.en?'; metin İngilizce, eski baskı olabilir':'')+(L.gy&&L.gy.length?'; UYARI: '+L.gy.join(', ')+' sayılı değişiklik(ler) bu metne işlenmemiş; değişiklik yasalarının metni ayrıca verildi, çelişkide değişiklik geçerlidir':'')+(L.em&&L.em.length?'; UYARI: kaynak dosyadan okunamayan madde numaraları: '+emYazi(L.em)+' (bu maddeler hakkında kesin konuşma, avukatı resmî dosyaya yönlendir)':'')+'):\n'+(a.text.length>5000?a.text.slice(0,5000)+' [...]':a.text); }
     else if(L.kira || L.ayri){ b+='ESAS METİN:\n'+a.text; a.amendments.forEach(m=>{ b+='\n\nDEĞİŞİKLİK ('+m.law+'): '+m.change+(m.new_text?'\nYENİ METİN: '+m.new_text:''); }); }
     else b+='GÜNCEL METİN (değişikliklerle birleştirilmiş resmî metin; satır başlarındaki "34/2015" gibi notlar o kısmı değiştiren yasayı gösterir):\n'+(a.text.length>6000?a.text.slice(0,6000)+' [...]':a.text);
     return b;
@@ -885,7 +905,7 @@ function renderAnswer(q, res, v, vc){
   const sb = k=>k.sayiEksik&&k.sayiEksik.length?' <span class="badge gone" title="Bu sayı dayanılan maddenin metninde geçmiyor">sayı kaynakta yok: '+esc(k.sayiEksik.join(', '))+'</span>':'';
   let h='<div class="answer">';
   if(res.found===false || !v.kept.length){
-    h+='<h2>Bulunan maddelerde açık bir cevap yok</h2><p>'+esc(res.limits||'Bulunan maddeler soruyu doğrudan cevaplamıyor.')+'</p><p class="muted small">Soru başka bir yasaya, sözleşme hükmüne veya mahkeme içtihadına bağlı olabilir. Bu prototip şu yasaları kapsar: '+esc(LAWS.map(l=>l.ad).join(', '))+'.</p>';
+    h+='<h2>Bulunan maddelerde açık bir cevap yok</h2><p>'+esc(res.limits||'Bulunan maddeler soruyu doğrudan cevaplamıyor.')+'</p><p class="muted small">Soruyu farklı kelimelerle veya daha ayrıntılı yazmayı deneyin; konu bir sözleşme hükmüne ya da yayımlanmamış bir karara bağlı olabilir.</p>';
   } else {
     h+='<h2>Cevap</h2><p>'+esc(String(res.summary||'').slice(0,1500))+(v.ozetEksik.length?' <span class="badge gone">sayı kaynakta yok: '+esc(v.ozetEksik.join(', '))+'</span>':'')+'</p>';
     if(v.kept.some(k=>k.section)){ const sira=[], grp={}; v.kept.forEach(k=>{ const s=k.section||'Diğer'; if(!grp[s]){ grp[s]=[]; sira.push(s); } grp[s].push(k); });
@@ -977,8 +997,11 @@ async function birlesik(q, n){
   const dfBs={}; own.forEach(w=>{ dfBs[w]=T.bst.filter(t=>t.has(w)).length; });
   const bsBonus=i=>{ let b=0; own.forEach(w=>{ if(T.bst[i].has(w)) b+=1.2*Math.log(1+T.ys.length/(1+dfBs[w])); }); return b; };
   const adBonus=i=>{ let b=bsBonus(i); own.forEach(w=>{ if(T.adt[i].has(w)) b+=2*Math.log(1+T.ys.length/(1+dfAd[w])); }); syn.forEach(w=>{ if(T.adt[i].has(w)) b+=.8*Math.log(1+T.ys.length/(1+dfAd[w])); }); return b; };
+  if(!T.adk) T.adk=T.ys.map(y=>[...new Set(toks(y.a.replace(/\(.*?\)/g,' ')))].filter(w=>!['yasas','tuzug','kanun','karar','emirn'].includes(w)));
+  const teF=fold(terimEk(q));
+  const adTam=i=>{ const k=T.adk[i]; if(k.length>=2 && k.length<=5 && k.every(w=>own.has(w))) return 1.5; if(k.length===1 && teF && teF.includes(fold(T.ys[i].a.replace(/\(.*?\)/g,' ')).trim())) return 1.5; return 1; };
   const goruldu=new Set();
-  const ls0=T.ys.map((y,i)=>({y, s:(s1[i]+adBonus(i)+(s2?.3*s2[i]:0))*(y.kd||y.ry?.4:1)*(y.yg?.9:1)*(y.elle?1.25:1)*(y.tz&&!TEMEL.has(String(y.p))?.85:1)*oncelik(y)})).filter(x=>x.s>1.5).sort((a,b)=>b.s-a.s)
+  const ls0=T.ys.map((y,i)=>({y, s:(s1[i]+adBonus(i)+(s2?.3*s2[i]:0))*adTam(i)*(y.kd||y.ry?.4:1)*(y.yg?.9:1)*(y.elle?1.25:1)*(y.tz&&!TEMEL.has(String(y.p))?.85:1)*oncelik(y)})).filter(x=>x.s>1.5).sort((a,b)=>b.s-a.s)
     .filter(x=>{ const k=fold(x.y.a).replace(/\d+|\s+/g,''), k2=String(x.y.n).replace(/^0+/,'')+'#'+x.y.mc; if(goruldu.has(k)||goruldu.has(k2)) return false; goruldu.add(k); goruldu.add(k2); return true; });
   birlesik.son=ls0.slice(0,10).map(x=>x.y.n+' · '+x.y.a.slice(0,45)+' · '+x.s.toFixed(1));
   // yasalara 5, tüzüklere ve yasa gücünde kararnamelere en fazla 2'şer yer: yasaların önünü kesmesinler
@@ -1044,13 +1067,15 @@ $('#answer').addEventListener('click',e=>{ const b=e.target.closest('.cite'); if
   if(b.dataset.k){ const el=document.getElementById('k-'+b.dataset.k); if(el){ el.scrollIntoView({behavior:'smooth',block:'start'}); el.classList.add('flash'); setTimeout(()=>el.classList.remove('flash'),1400);} }
   else flash(b.dataset.no); });
 
+// Uzun veya birden çok soru içeren metinler alt sorulara bölünerek araştırılır (kullanıcının seçim yapması gerekmez)
+const otoDerin=q=>q.length>260 || (q.match(/\?/g)||[]).length>=2 || /\b(ayrıca|bunun yanında|hem de)\b/i.test(q) && q.length>140;
 async function run(){
   const q=$('#q').value.trim(); if(!q) return;
   $('#pane-ask').classList.add('sorulmus'); $('#gecmis').hidden=true;
   const onc=SOHBET.length?SOHBET[SOHBET.length-1]:null;
   const aq=onc?onc.q+' '+q:q;
   const onceki=SOHBET.length?'\n\nÖNCEKİ KONUŞMA (bu soru bir takip sorusudur; bağlam için kullan, ama yalnızca aşağıdaki metinlere dayan):\n'+SOHBET.map(x=>'Soru: '+x.q+'\nVerilen cevap: '+x.ozet).join('\n---\n'):'';
-  const derin=$('#derin').checked && !!sampleFn;
+  const derin=($('#derin').checked || otoDerin(q)) && !!sampleFn;
   let list, alt=[];
   if(derin){
     ctl=new AbortController(); $('#ask').disabled=true; $('#stop').hidden=false; $('#answer').innerHTML='';
@@ -1065,7 +1090,7 @@ async function run(){
   let cases=[]; $('#cases').innerHTML='<p class="muted small" style="margin:0">Kararlar yükleniyor…</p>';
   try{ cases=await searchCases(derin?aq+' '+alt.join(' '):aq, list, derin?5:3, 'all', alanlar); showCases(cases, alanlar); }
   catch(e){ $('#cases').innerHTML='<p class="muted small" style="margin:0">Karar dosyaları yüklenemedi.</p>'; }
-  if(!list.length){ $('#answer').innerHTML='<div class="answer"><h2>İlgili madde bulunamadı</h2><p>Kapsanan yasalarda ('+esc(LAWS.map(l=>l.kisa).join(', '))+') bu konuda madde bulunamadı. Soru sözleşme hükümlerine veya henüz eklenmemiş bir yasaya bağlı olabilir.</p></div>'; $('#state').textContent=''; return; }
+  if(!list.length){ $('#answer').innerHTML='<div class="answer"><h2>İlgili madde bulunamadı</h2><p>Yasalarda, tüzüklerde ve kararlarda bu soruyla eşleşen bir madde bulunamadı. Soruyu farklı kelimelerle yazmayı deneyin (ör. hukuki terim yerine olayı anlatın).</p></div>'; $('#state').textContent=''; return; }
   if(!sampleFn){ $('#answer').innerHTML='<div class="answer"><h2>İlgili maddeler bulundu</h2><p>Yapay zekâ cevabı bu görünümde kullanılamıyor. Dayanılan maddeleri okuyarak cevaba ulaşabilirsiniz.</p></div>'; return; }
   ctl=new AbortController(); $('#ask').disabled=true; $('#stop').hidden=false; $('#state').textContent='Maddeler ve kararlar okunuyor…'; $('#answer').innerHTML='';
   try{
@@ -1073,6 +1098,7 @@ async function run(){
     const v=verify(res||{}, list), vc=verifyCases(res||{}, cases);
     renderAnswer(q, res||{}, v, vc); cevapEylem(q, res||{}, v, vc, list); $('#state').textContent='';
     if(v.kept.length) kaynaklariAyir(list, v.kept.flatMap(k=>k.cites));
+    if(!derin){ const k=document.querySelector('#answer .answer'); if(k) k.insertAdjacentHTML('beforeend','<p class="small" style="margin:12px 0 0"><button type="button" class="linkbtn" id="derinlink">Daha kapsamlı araştır</button> <span class="muted">· soru alt sorulara bölünüp yeniden aranır; daha yavaştır ve günlük haktan 2 sayılır</span></p>'); }
     if(derin && alt.length){ const k=document.querySelector('#answer .answer'); if(k) k.insertAdjacentHTML('afterbegin','<p class="small muted" style="margin:0 0 8px">Derin araştırma · aranan alt sorular: '+alt.map(esc).join(' · ')+'</p>'); }
   }catch(e){
     const msg={not_granted:'Bu sayfanın Claude kullanmasına izin verilmedi. Maddeler aşağıda.',rate_limited:'Çok fazla istek yapıldı; biraz sonra tekrar deneyin.',cancelled:'',invalid_json:'Cevap okunamadı; tekrar deneyin.',sampling_disabled:'Bu hesapta Claude kullanılamıyor.'}[e&&e.code];
@@ -1081,7 +1107,23 @@ async function run(){
   }finally{ $('#ask').disabled=false; $('#stop').hidden=true; }
 }
 $('#ask').addEventListener('click',run);
+try{ document.documentElement.lang='tr'; }catch(e){}
+/* ---------- ilk açılış tanıtımı (3 adım) ---------- */
+const TANIT=[
+  ['Sorunuzu yazın, cevabı kaynağıyla alın', '<p>Soruyu günlük dille yazıp <b>Cevapla</b>’ya basın. Ör. “Kiracı 3 aydır kira ödemiyor, ne yapabilirim?”</p><ul><li>Cevaptaki her cümlenin yanında dayandığı <b>yasa maddesi</b> veya <b>Yüksek Mahkeme kararı</b> vardır; tıklayınca metni açılır.</li><li>Sonra takip sorusu sorabilirsiniz; önceki soruyu hatırlar.</li></ul>'],
+  ['Belge hazırlayın veya inceletin', '<ul><li><b>Belge hazırla:</b> Olayı ve tarafları yazın; dilekçe, ihtarname veya sözleşme taslağı çıkar, Word olarak indirirsiniz.</li><li><b>Belge incele:</b> Bir sözleşmeyi ya da karşı tarafın dilekçesini yapıştırın veya yükleyin; riskli ve yasaya aykırı maddeler işaretlenir.</li><li>Kişi adları ve kimlik bilgileri yapay zekâya gönderilmeden önce otomatik gizlenir.</li></ul>'],
+  ['Süreler, mevzuat ve kararlar', '<ul><li><b>Süre hesapla:</b> Tebliğ tarihini girin; istinaf, cevap gibi usul süreleri ve son gün hesaplanır.</li><li><b>Mevzuat</b> ve <b>Kararlar:</b> Anayasa, yasalar, tüzükler ve 5.000’i aşkın Yüksek Mahkeme kararında doğrudan arama.</li></ul><p class="small muted">Uygulama hukuki tavsiye vermez; önemli işlerde maddeyi resmî metinden kontrol edin.</p>']];
+let tanitI=0;
+function tanitGoster(i){ tanitI=i; const [b,c]=TANIT[i]; $('#tanit-baslik').textContent=b; $('#tanit-icerik').innerHTML=c; $('#tanit-adim').textContent=(i+1)+' / '+TANIT.length;
+  [...$('#tanit-nokta').children].forEach((n,k)=>n.classList.toggle('on',k===i)); $('#tanit-ileri').textContent=i===TANIT.length-1?'Başla':'İleri'; $('#tanitim').hidden=false; $('#tanit-ileri').focus(); }
+function tanitKapat(){ $('#tanitim').hidden=true; try{ localStorage.setItem('tanitimGoruldu','1'); }catch(e){} $('#q').focus(); }
+$('#tanit-ileri').addEventListener('click',()=>{ tanitI<TANIT.length-1?tanitGoster(tanitI+1):tanitKapat(); });
+$('#tanit-gec').addEventListener('click',tanitKapat);
+$('#tanitim').addEventListener('keydown',e=>{ if(e.key==='Escape') tanitKapat(); });
+['#tanitac','#tanitac2'].forEach(s=>{ const b=$(s); if(b) b.addEventListener('click',()=>tanitGoster(0)); });
+(()=>{ let g=null; try{ g=localStorage.getItem('tanitimGoruldu'); }catch(e){} if(!g && !navigator.webdriver && !/[?&]tanitimsiz/.test(location.search)) setTimeout(()=>tanitGoster(0),300); })();
 $('#derinbtn').addEventListener('click',()=>{ $('#derin').checked=true; run(); $('#derin').checked=false; });
+$('#answer').addEventListener('click',e=>{ if(e.target.closest('#derinlink')){ const son=SOHBET.pop(); if(son) $('#q').value=son.q; if(!SOHBET.length) $('#devam').hidden=true; $('#derin').checked=true; run(); $('#derin').checked=false; } });
 $('#stop').addEventListener('click',()=>ctl&&ctl.abort());
 $('#q').addEventListener('keydown',e=>{ if(e.key==='Enter' && (e.metaKey||e.ctrlKey)) run(); });
 

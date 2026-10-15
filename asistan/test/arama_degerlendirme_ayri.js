@@ -2,7 +2,7 @@
 const {chromium}=require('playwright');
 const SET=[
 ['Kamu arazisi kiralanabilir mi, kira süresi ne kadardır?',['53/1989','19/2003']],['Banka kredi kartı limitini kim belirler?',['58/2014']],
-['Avukat katibi kimdir, nasıl kaydolur?',['Fasıl 3']],['Antika eser bulan kişi ne yapmalıdır?',['Fasıl 31']],
+['Avukat katibi kimdir, nasıl kaydolur?',['Fasıl 3']],['Antika eser bulan kişi ne yapmalıdır?',['60/1994','Fasıl 31']],
 ['Bilişim sistemine izinsiz girmenin cezası nedir?',['32/2020']],['Gelir vergisi beyannamesi ne zaman verilir?',['24/1982']],
 ['Hayvan refahı için sahibinin yükümlülükleri nelerdir?',['8/2013']],['Elektronik haberleşme hizmetleri için yetkilendirme nasıl alınır?',['6/2012']],
 ['Şirket müdürlerinin sorumlulukları nelerdir?',['Fasıl 113']],['Yabancı firari iadesi nasıl yapılır?',['Fasıl 290']],
