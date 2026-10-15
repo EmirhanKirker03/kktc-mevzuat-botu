@@ -130,6 +130,7 @@ article.sheet:not(.open) > .amd, article.sheet:not(.open) > .rv, .kcard:not(.ope
 .amd{margin-top:10px;border-left:3px solid var(--warn);padding:6px 0 6px 12px}
 .amd .who{font-size:12.5px;font-weight:600;color:var(--warn)}
 .amd .what{font-size:13.5px;margin:2px 0 4px}
+.okn{color:var(--muted);font-style:italic;font-family:var(--f-body,inherit);font-size:.93em}
 .amd .txt{max-height:180px;border-top:0;padding-top:0;font-size:14px}
 .src{font-size:12.5px;color:var(--muted);margin-top:8px}
 .src a{color:var(--seal)}
@@ -519,7 +520,7 @@ const SYN = [
 const TERIM=[[/ayıplı|ayıp/i,'kusurlu'],[/temyiz/i,'istinaf'],[/yargıtay/i,'Yüksek Mahkeme istinaf'],[/ihtiyati tedbir|tedbir kararı/i,'ara emri'],[/ihtiyati haciz/i,'ara emri haciz'],
   [/dava dilekçe/i,'talep takriri'],[/cevap dilekçe/i,'müdafaa takriri savunma'],[/tebligat/i,'tebliğ'],[/yargılama gider|vekalet ücret/i,'masraflar'],[/icra takib|ilamlı icra|ilamsız/i,'icra müzekkere hüküm'],
   [/\bilam\b/i,'hüküm'],[/kira tespit/i,'kira saptanması'],[/\bHMK\b|hukuk muhakemeleri kanunu/i,'Hukuk Muhakemeleri Usulü'],[/\bCMK\b|ceza muhakemesi kanunu/i,'Ceza Muhakemeleri Usulü'],
-  [/\bTBK\b|borçlar kanunu/i,'Sözleşmeler'],[/\bTCK\b|türk ceza kanunu/i,'Ceza Yasası'],[/\bİİK\b|icra ve iflas kanunu/i,'icra iflas'],[/tapu iptal/i,'tapu kayıt düzeltme'],[/vekaletname/i,'vekaletname avukat tutma varakası']];
+  [/\bTBK\b|borçlar kanunu/i,'Sözleşmeler'],[/\bTCK\b|türk ceza kanunu/i,'Ceza Yasası'],[/\bİİK\b|icra ve iflas kanunu/i,'icra iflas'],[/tapu iptal/i,'tapu kayıt düzeltme'],[/vekaletname/i,'vekaletname avukat tutma varakası'],[/antika|tarihi eser|arkeolojik|define/i,'eski eser'],[/kamu görevlisi|devlet memuru|\bmemur/i,'Kamu Görevlileri Yasası'],[/çocuğun korunması|çocuk koruma|korunmaya muhtaç/i,'Çocuklar Yasası korunma emri'],[/kurum kazanc|kurumlar vergi|şirket kazanc/i,'Kurumlar Vergisi']];
 const terimEk = q => TERIM.filter(([re])=>re.test(q)).map(([,k])=>k).join(' ');
 // soru kalıpları ("ne zaman", "nasıl", "kaç gün") aranacak kelime değildir; "ne zaman" "zamanaşımı" ile karışmasın
 const soruTemizle = q => String(q).replace(/\b(ne zaman|ne kadar|nasıl|nedir|neler(dir)?|hangi|kaç|kim(ler)?|mıdır|midir|mudur|müdür|mı|mi|mu|mü|var mı|yok mu|olur mu|edebilir miyim|alabilir miyim|isteyebilir miyim)\b/giu,' ');
@@ -663,7 +664,7 @@ function kararCard(k, excerpt, id, alan){
 document.addEventListener('toggle',async e=>{ const d=e.target; if(!d.classList||!d.classList.contains('kfull')||!d.open) return;
   const p=d.querySelector('[data-k]'); if(!p || p.textContent || !KBY[p.dataset.k]) return;
   if(!KBY[p.dataset.k].metin){ p.textContent='Yükleniyor…'; try{ await kMetin([p.dataset.k]); }catch(err){ p.textContent='Karar metni yüklenemedi.'; return; } }
-  p.textContent=KBY[p.dataset.k].metin; },true);
+  p.innerHTML=metinH(KBY[p.dataset.k].metin); },true);
 function showCases(found, alanlar){
   $('#cases').innerHTML = found.length ? found.map(x=>kararCard(x.k, x.chunks[0], 'k-'+x.k.id, x.alan)).join('')
     : '<p class="muted small" style="margin:0">Bu soruyla eşleşen karar bulunamadı ('+(alanlar&&alanlar.length?esc(alanlar.map(a=>ALAN_AD[a]).join(', '))+' kararları':'tüm kararlar')+' arandı).</p>'; rvStats();
@@ -750,6 +751,7 @@ function badge(a){
   return '';
 }
 const emYazi=em=>em.map(([a,b])=>a===b?String(a):a+'–'+b).join(', ');
+const metinH=t=>esc(t).replace(/\[(okunamayan kısım|Kaynak dosyada madde numaraları[^\]]*|Bu bölümün metni kaynak dosyada[^\]]*|Bu maddenin metni kaynak dosyadan[^\]]*)\]/g,'<span class="okn">[$1]</span>');
 const mLabel=a=>(/^(Geçici|Parça|Değişiklik|Emir|Form|İçindekiler)/.test(String(a.no))?String(a.no).replace(/ n\.(\S+)$/,', nizam $1'):'Madde '+a.no);
 function lawLink(no){ const f=LAWFILE[no]; return f?'<a href="http://cm.gov.ct.tr/Yasalar/'+f+'.doc" target="_blank" rel="noopener">'+esc(no)+' (Meclis)</a>':esc(no); }
 function sheet(a, tag, idp){
@@ -762,7 +764,7 @@ function sheet(a, tag, idp){
     : 'Kaynak: <a href="'+esc(L.url)+'" target="_blank" rel="noopener">Yüksek Mahkeme birleştirilmiş resmî metni</a> · Meclis\'teki son değişiklik ('+esc(L.son||'-')+') metne işlenmiş';
   return '<'+tag+' class="sheet" id="'+(idp||'m-')+esc(a.cid)+'">'+
     '<header><span class="mno">'+esc(mLabel(a))+' · '+esc(L.no)+' '+esc(L.kisa)+'</span>'+badge(a)+'</header>'+
-    '<h3>'+esc(a.title)+'</h3><p class="txt">'+esc(a.text)+'</p>'+(tag==='article'?'<button class="ac" type="button">Tam metni göster</button>':'')+am+
+    '<h3>'+esc(a.title)+'</h3><p class="txt">'+metinH(a.text)+'</p>'+(tag==='article'?'<button class="ac" type="button">Tam metni göster</button>':'')+am+
     '<div class="src">'+src+'</div>'+rvBar('madde:'+a.cid,'madde',L.no+' '+L.ad+' — '+mLabel(a)+' '+a.title)+'</'+tag+'>';
 }
 document.addEventListener('click',e=>{ const b=e.target.closest('.rvac'); if(b) b.closest('.rv').classList.toggle('acik'); });
@@ -803,7 +805,7 @@ function maddeBloklari(list){
     const L=LAWBY[a.law];
     let b = '### '+a.cid+' — '+L.ad+' ('+L.no+') '+mLabel(a)+' ('+a.title+') [durum: '+a.status+']\n';
     if(a.sd){ b+='SONRAKİ DEĞİŞİKLİK YASASI (Meclis arşivi; Yüksek Mahkeme birleştirilmiş metnine işlenmemiş — esas metinle çelişirse bu geçerlidir):\n'+(a.text.length>6000?a.text.slice(0,6000)+' [...]':a.text); }
-    else if(L.otomatik){ b+='METİN ('+(L.meclis?'Cumhuriyet Meclisi arşivindeki metin — Yüksek Mahkeme sisteminde dosyası yok, sonraki değişiklikler işlenmemiş olabilir':L.rg?'Resmî Gazete\'de yayımlandığı hâli — birleştirilmiş metin değildir, sonradan değişmiş olabilir':'Yüksek Mahkeme birleştirilmiş resmî metni')+'; madde sınırları otomatik belirlendi'+(L.not?'; ÖNEMLİ NOT: '+L.not:'')+(L.parca?', bu bir sıralı parçadır, madde numarası okunamadı':'')+(L.ocr?'; taranmış belgeden yazı tanıma ile okundu, kelime hataları olabilir':'')+(L.en?'; metin İngilizce, eski baskı olabilir':'')+(L.gy&&L.gy.length?'; UYARI: '+L.gy.join(', ')+' sayılı değişiklik(ler) bu metne işlenmemiş; değişiklik yasalarının metni ayrıca verildi, çelişkide değişiklik geçerlidir':'')+(L.em&&L.em.length?'; UYARI: kaynak dosyadan okunamayan madde numaraları: '+emYazi(L.em)+' (bu maddeler hakkında kesin konuşma, avukatı resmî dosyaya yönlendir)':'')+'):\n'+(a.text.length>5000?a.text.slice(0,5000)+' [...]':a.text); }
+    else if(L.otomatik){ b+='METİN (köşeli parantez içindeki [okunamayan kısım] ve benzeri notlar kaynağa değil derleyiciye aittir; o kısımlar hakkında yorum yapma, resmî metne yönlendir; '+(L.meclis?'Cumhuriyet Meclisi arşivindeki metin — Yüksek Mahkeme sisteminde dosyası yok, sonraki değişiklikler işlenmemiş olabilir':L.rg?'Resmî Gazete\'de yayımlandığı hâli — birleştirilmiş metin değildir, sonradan değişmiş olabilir':'Yüksek Mahkeme birleştirilmiş resmî metni')+'; madde sınırları otomatik belirlendi'+(L.not?'; ÖNEMLİ NOT: '+L.not:'')+(L.parca?', bu bir sıralı parçadır, madde numarası okunamadı':'')+(L.ocr?'; taranmış belgeden yazı tanıma ile okundu, kelime hataları olabilir':'')+(L.en?'; metin İngilizce, eski baskı olabilir':'')+(L.gy&&L.gy.length?'; UYARI: '+L.gy.join(', ')+' sayılı değişiklik(ler) bu metne işlenmemiş; değişiklik yasalarının metni ayrıca verildi, çelişkide değişiklik geçerlidir':'')+(L.em&&L.em.length?'; UYARI: kaynak dosyadan okunamayan madde numaraları: '+emYazi(L.em)+' (bu maddeler hakkında kesin konuşma, avukatı resmî dosyaya yönlendir)':'')+'):\n'+(a.text.length>5000?a.text.slice(0,5000)+' [...]':a.text); }
     else if(L.kira || L.ayri){ b+='ESAS METİN:\n'+a.text; a.amendments.forEach(m=>{ b+='\n\nDEĞİŞİKLİK ('+m.law+'): '+m.change+(m.new_text?'\nYENİ METİN: '+m.new_text:''); }); }
     else b+='GÜNCEL METİN (değişikliklerle birleştirilmiş resmî metin; satır başlarındaki "34/2015" gibi notlar o kısmı değiştiren yasayı gösterir):\n'+(a.text.length>6000?a.text.slice(0,6000)+' [...]':a.text);
     return b;
@@ -995,8 +997,11 @@ async function birlesik(q, n){
   const dfBs={}; own.forEach(w=>{ dfBs[w]=T.bst.filter(t=>t.has(w)).length; });
   const bsBonus=i=>{ let b=0; own.forEach(w=>{ if(T.bst[i].has(w)) b+=1.2*Math.log(1+T.ys.length/(1+dfBs[w])); }); return b; };
   const adBonus=i=>{ let b=bsBonus(i); own.forEach(w=>{ if(T.adt[i].has(w)) b+=2*Math.log(1+T.ys.length/(1+dfAd[w])); }); syn.forEach(w=>{ if(T.adt[i].has(w)) b+=.8*Math.log(1+T.ys.length/(1+dfAd[w])); }); return b; };
+  if(!T.adk) T.adk=T.ys.map(y=>[...new Set(toks(y.a.replace(/\(.*?\)/g,' ')))].filter(w=>!['yasas','tuzug','kanun','karar','emirn'].includes(w)));
+  const teF=fold(terimEk(q));
+  const adTam=i=>{ const k=T.adk[i]; if(k.length>=2 && k.length<=5 && k.every(w=>own.has(w))) return 1.5; if(k.length===1 && teF && teF.includes(fold(T.ys[i].a.replace(/\(.*?\)/g,' ')).trim())) return 1.5; return 1; };
   const goruldu=new Set();
-  const ls0=T.ys.map((y,i)=>({y, s:(s1[i]+adBonus(i)+(s2?.3*s2[i]:0))*(y.kd||y.ry?.4:1)*(y.yg?.9:1)*(y.elle?1.25:1)*(y.tz&&!TEMEL.has(String(y.p))?.85:1)*oncelik(y)})).filter(x=>x.s>1.5).sort((a,b)=>b.s-a.s)
+  const ls0=T.ys.map((y,i)=>({y, s:(s1[i]+adBonus(i)+(s2?.3*s2[i]:0))*adTam(i)*(y.kd||y.ry?.4:1)*(y.yg?.9:1)*(y.elle?1.25:1)*(y.tz&&!TEMEL.has(String(y.p))?.85:1)*oncelik(y)})).filter(x=>x.s>1.5).sort((a,b)=>b.s-a.s)
     .filter(x=>{ const k=fold(x.y.a).replace(/\d+|\s+/g,''), k2=String(x.y.n).replace(/^0+/,'')+'#'+x.y.mc; if(goruldu.has(k)||goruldu.has(k2)) return false; goruldu.add(k); goruldu.add(k2); return true; });
   birlesik.son=ls0.slice(0,10).map(x=>x.y.n+' · '+x.y.a.slice(0,45)+' · '+x.s.toFixed(1));
   // yasalara 5, tüzüklere ve yasa gücünde kararnamelere en fazla 2'şer yer: yasaların önünü kesmesinler
