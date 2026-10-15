@@ -6,7 +6,7 @@ s = open(p, encoding='utf-8').read()
 eski = "[/vekaletname/i,'vekaletname avukat tutma varakası']];"
 yeni = ("[/vekaletname/i,'vekaletname avukat tutma varakası'],[/antika|tarihi eser|arkeolojik|define/i,'eski eser'],"
         "[/kamu görevlisi|devlet memuru|\\bmemur/i,'Kamu Görevlileri Yasası'],[/çocuğun korunması|çocuk koruma|korunmaya muhtaç/i,'Çocuklar Yasası korunma emri'],"
-        "[/kurum kazanc|kurumlar vergi|şirket kazanc/i,'Kurumlar Vergisi']];")
+        "[/kurum kazanc|kurumlar vergi|şirket kazanc/i,'Kurumlar Vergisi'],[/zamanaşım|zaman aşım/i,'Zamanaşımı Yasası']];")
 if "'eski eser'" not in s:
     assert s.count(eski) == 1
     s = s.replace(eski, yeni)

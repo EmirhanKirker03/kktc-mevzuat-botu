@@ -122,5 +122,4 @@ yatlara verilecek akaryakıttan fon
 tahsil edilmez.
 (F) Euro Diesel 0.456 ABD$/Lt 0.456 ABO$/Lt 
 + +
-8 8 
-[SAYFA 28]
+8 8

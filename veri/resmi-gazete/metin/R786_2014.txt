@@ -1,0 +1,386 @@
+MERKEZ BANKASI YASASI 
+(41/2001 Sayılı Yasa)
+Madde 5. (1) (E) Altında Tebliğ
+ELEKTRONİK ÖDEME SİSTEMİ İŞLETİM KURALLARI
+HAKKINDA TEBLİĞ
+BİRİNCİ BÖLÜM
+Amaç, Kapsam ve Tanımlar 
+Madde 1 - Amaç 
+KKTC Merkez Bankası Elektronik Ödeme Sistemi İşletim Kuralları Tebliği, 
+Elektronik Ödeme Sisteminin ve bu Sistemin kullanıldığı altyapının işleyişine ilişkin genel
+kurallar ile Sisteme dahil olan tarafların hak ve yükümlülüklerini belirler. 
+Madde 2 - Kapsam 
+Elektronik Ödeme Sistemi İşletim Kuralları, Sistem ile bu Sistemin katılımcılarını 
+kapsar. 
+Madde 3 - Tanımlar 
+Bu Tebliğ ve eklerinde geçen;
+a) Merkez Bankası: Kuzey Kıbrıs Türk Cumhuriyeti Merkez Bankası'nı, 
+b) Elektronik Ödeme Sistemi (EÖS): TRL, USD, EUR ve GBP para birimlerine
+göre aktarım ve mutabakatın kaydi ve gerçek zamanlı olarak elektronik ortamda çalışmasını
+sağlayan ödeme sistemini,
+c) Sistem: Merkez Bankası Elektronik Ödeme Sistemi'ni,
+d) Katılımcı: Önceden belirlenmiş şartları yerine getirmesi kaydıyla Sisteme 
+erişimi sağlanarak işlem gerçekleştirebilen ve Sistemde bir kodla tanımlanan kuruluşu, 
+e) Katılımcı Uygulaması: Katılımcının, Sisteme bağlantı ve mesaj çevirimi için 
+kullandığı yazılımı, 
+f) . Gönderen: Sisteme işlenmek üzere, bir mesajı ileten katılımcıyı, 
+g) Alıcı: Sisteme gönderilen işlenmiş bir mesajı alan katılımcıyı, 
+[SAYFA 7]
+2432
+h) EÖS Ödemesi: Katılımcıların Sisteme erişememesi durumunda katılımcılar adına 
+Sistem tarafından yapılan işlemleri, 
+i) Mutabakat Hesapları: Katılımcının Sistemde bulundurduğu paraların (TRL, USD,
+EUR ve GBP) bakiyesini izleyen ve üzerinde gerçek zamanlı bire bir mutabakat gerçekleştirilen
+hesapları, 
+j) Mutabakat: Katılımcılar arasında veya katılımcılar ile Merkez Bankası arasında 
+fon aktarımından kaynaklanan yükümlülüklerin yerine getirilmesini,
+k) Giriş Saati: Katılımcının gönderdiği mesajın Sisteme ulaştığı zamanı, 
+1) Sistem Saati: Sistemin o anki zamanını, 
+m) İşlem Saati: Sistemde mutabakatın gerçekleştiği zamanı, 
+n) İşletim Kuralları: Merkez Bankası Elektronik Ödeme Sistemi İşletim
+Kurallarını, 
+o) İzahname: Sistemin kullanımını belgelendirme amacıyla üretilen, Sistemin 
+sunduğu işlem olanakları ile mesaj yapısı ve işlem türlerini açıklayan ve işbu Tebliğ'in eki
+olan KKTC Merkez Bankası Elektronik Ödeme Sistemi Kullanım Kuralları İzahnamesi
+başlıklı yayını, 
+p) Mesaj: Katılımcı ile Sistem arasında bilgi aktarımını gerçekleştirmek üzere 
+kullanılan yapıyı, 
+r) İşletim Birimi: İletişim ağı ve Sistem bileşenlerinin işletimini sağlayan, katılımcı 
+sistemi için yardım masası desteği veren, katılımcı adayının Sisteme katılımı öncesindeki teknik 
+hazırlıkları destekleyen ve Sisteme katılacak kuruluşun personeline Sistemin kullanımına ilişkin
+eğitim veren Merkez Bankası bünyesindeki Bilgi İşlem Birimi'ni,
+s) Operasyon Birimi: Sistemde Merkez Bankası'nın taraf olduğu işlemleri 
+yürüten, katılımcı adayının Sisteme katılımı öncesindeki idari ve operasyonel hazırlıkların 
+koordinasyonunu gerçekleştiren, katılımcıların mesaj akışlarını izleyen, katılımcılar
+arasında eş güdümü sağlayan ve gün sonu hesap uygunluğuna ilişkin bilgileri kontrol eden
+Merkez Bankası bünyesindeki birimi,
+t) Tarife Cetveli: Merkez Bankası Tarifeler Talimatı ekindeki Tarife Cetvelini,
+u) Katılımcı Taahhütnamesi: Katılımcıların Sistemde gerçekleştirecekleri tüm işlemler 
+için uyması gerekli tüm şartları peşinen kabul etmiş olduğu ve işbu Tebliğ'in eki olan KKTC
+Merkez Bankası Elektronik Ödeme Sistemi Katılımcı Taahhütnarnesi'ni,
+v) Hizmet Yönetim Araçları: Katılımcıların, Sistem ile ilgili sorunlarını bildirmek 
+[SAYFA 8]
+2433
+ve çözümlemek amacıyla, katılımcılar ile Merkez Bankası arasındaki iletişimi sağlayacak araç ·
+ve gereçleri,
+ifade eder. 
+İKİNCİ BÖLÜM
+Sistemin İşleyişine İlişkin Hükümler
+Madde 4 - Sisteme Katdma 
+(1) Sisteme 39/2001 Sayılı Bankalar Yasası uyarınca KKTC'de faaliyette bulunan
+bankalar katılabilir. 
+(2) Sisteme katılmak isteyen bankaların; 
+a) Merkez Bankası'na yazılı başvurması, 
+b) Katılımcı Taahhütnamesini imzalaması, 
+c) Merkez Bankası nezdinde ilgili para birimlerinde hesaplarının bulunması, 
+d) Katılımcı Uygulaması'm geliştirmesi, iletişim ağına ilişkin altyapıyı kurması ve 
+bunların Merkez Bankası tarafından onaylanmış olması, 
+e) Merkez Bankası tarafından belirlenen altyapı hazırlıkları takvimi ile katılım tarihine 
+uyması ve hazırlıklarım aksatmadan tamamlaması, 
+gerekmektedir. 
+Madde 5 - Sistemden Ayrdma 
+Katılımcı en az bir ay önceden Merkez Bankası'na yazılı olarak bildirmek koşulu ile
+Sistemden süreli veya süresiz olarak ayrılabilir. Gerektiğinde, bildirim süresi Merkez Bankası
+tarafından değiştirilebilir. Ayrılma talebinde bulunan katılımcının Sistemden ayrılabileceği 
+tarih Merkez Bankası tarafından belirlenir ve Sistem ile ilişkisi kesilir. Katılımcı bu tarihten
+sonra Sistem aracılığıyla mesaj gönderemez, diğer katılımcılar tarafından gönderilen mesajları 
+alamaz. 
+Madde 6 - Sistemin Çalışma Gün ve Saatleri 
+(1) Sistem, resmi tatil günleri dışında hafta içi her gün tam iş günlerinde 08.30 - 16:30, 
+yarım iş günlerinde ise 08.30 - 12.30 saatleri arasında çalışır. Sistemin çalışma gün ve saatleri
+Merkez Bankası tarafından gerekli görülmesi durumunda değiştirilebilir. 
+(2) Sistem kapanışından sonra mesaj gönderimi engelleneceğinden biten iş günü ile
+ilgili işlem yapılmaz. 
+[SAYFA 9]
+2434
+(3) Sistemde gerçekleştirilen tüm işlemlerde Sistem saati esas alınır. 
+Madde 7 - İşlemlerin Kesinliği 
+Merkez Bankası tarafından sağlanan hesap uygunluğunda Sistemdeki mutabakat 
+hesaplarına ait bakiyeler esas alınır. Sistem aracılığıyla yapılan işlemler, Sistemde tutulan
+mutabakat hesaplarına ait bakiyeler değiştiğinde. kesinleşmiş sayılır. Kesinleşme anı Sistem 
+tarafından mesajlara işlenen işlem saati alanında belirtilir. Mesajlarda yer alan giriş saati alanı 
+bilgi amaçlı olup, işlem kesinliğini bildirmez. Hesap bakiyeleri değiştikten sonra gönderen 
+işlemden vazgeçemez. Alıcı kendisine Sistem yoluyla yapılan ödemeyi geri çeviremez ancak,
+22. Maddede yer alan durumlarda iade edebilir. 
+Madde 8 - Mutabakat İşlemleri 
+(1) Sistem, gerçek zamanlı bire bir mutabakat ilkesi ile çalışır. Sistemde gün içerisinde 
+katılımcılar tarafından gönderilen mesajlar, Sistem tarafından doğruluk kontrollerinden
+geçirilir. Doğruluk kontrollerini geçen mesajların mutabakatı, katılımcının mutabakat 
+hesaplarının bakiyesinin yeterli olmasına bağlı olarak sonuçlandırılır. 
+(2) Katılımcılar tarafından gönderilen ödeme mesajları, her bir para birimine göre mesaj
+öncelikleri ve Sisteme kabul edildikleri zamana göre "önce kabul edilen önce işlenir" yöntemi ile 
+işleme alınır. İşlemlerden bakiye uygunluğunu geçenlerin mutabakatı gerçekleşirken, bakiye
+kontrolünü geçemeyen mesajlar bakiye oluşana kadar kuyruğa eklenir. Sistem kapanışına 
+kadar mutabakatı bakiye yetersizliği nedeniyle kuyruğa eklenen ve gerçekleşmeyen işlemler 
+Sistem kapanışında iptal edilir ve katılımcıya bildirilir. 
+Madde 9 - Ücretlendirme 
+(1) Sistemden geçen mesajlar ve Sisteme ilişkin olarak Merkez Bankası tarafından 
+verilen diğer hizmetler Tarife Cetveli kapsamında ücretlendirilir.
+(2) Sistemden geçen mesajların ücret tahakkuku ve Sisteme ilişkin olarak Merkez 
+Bankası tarafından verilen diğer hizmetlere ilişkin masraf ve komisyonların tahsili ayda
+bir kez katılımcıların Merkez Bankası nezdindeki hesaplarından tahsil edilir. 
+[SAYFA 10]
+2435 
+ÜÇÜNCÜ BÖLÜM 
+Merkez Bankası'nm Yetki ve Yükümlülükleri ile Sorumsuzluk Halleri
+Madde 10 - Merkez Bankası'mn Yetkileri 
+Merkez Bankası, 
+(1) İşletim Kurallarım gerek gördüğü veya katılımcılardan gelen istekleri uygun 
+bulduğu durumlarda değiştirebilir. Yapılacak değişiklikler uygulanmadan önce katılımcılara 
+duyurulur.
+(2) Sistemde gerçekleştirilecek işlemlerde her türlü düzenleyici ve değiştirici yetkiye
+sahiptir.
+(3) Sistemin kesintisiz işletilmesini sağlamak amacıyla her türlü gözetim yetkisine
+sahiptir.
+(4) Katılımcıların Sistemde gerçekleştirdikleri işlemler sonucu oluşan borçlarım, 
+nezdindeki katılımcı hesaplarından mahsuben tahsil edebilir. Ayrıca, Sistemle ilişkili olarak
+bir katılımcının diğer katılımcılara olan borçlarını alacaklı adına mahsup edebilir.
+(5) Sistemle ilgili olarak müeyyidelerin uygulanmasında yetkilidir. Katılımcıların 
+kendisine karşı_ doğan borçlarını Merkez Şube nezdindeki katılımcı hesaplarından mahsup
+edebilir. Bu mahsup ve diğer hesaplarla ilgili alınan taahhütname hükümleri de aynen uygulanır. 
+(6) Hukuksal, yönetsel veya teknik gereklilik durumunda katılımcıya ilişkin olarak 
+aşağıdaki işlemleri yapabilir:
+a) Katılımcının mesaj gönderimini engelleyebilir. Bu durumda, katılımcı Sisteme
+mesaj gönderemez. Ancak, kendisine gelen ödemelerin mutabakatı yapılarak katılımcıya iletilir.
+b) Mutabakat hesaplarını askıya alabilir. Bu durumda, tüm katılımcıların mutabakat 
+hesapları geçici olarak işleme kapatılır. Sistemdeki ödemeler işlenmez ve bekletilir.
+c) Geçici olarak Sistem dışına çıkarabilir. Bu durumda, 24. madde hükmü saklı kalmak
+üzere, katılımcının mutabakat hesapları işleme kapatılır. Katılımcının gönderdiği ve kendisine
+gönderilen mesajlar reddedilir.
+d) Sisteme katılım için aranan şartları kaybeden katılımcıyı 24. madde hükmü saklı 
+kalmak üzere belirlenen bir tarihten itibaren Sistem dışına çılcarabilir. 
+e) EÖS Ödemesi ile doğrudan borçlandırma gerçekleştirebilir. Bu durumda, 
+katılımcının mutabakat hesaplarını borçlandırmak, diğer bir katılımcının hesabını
+alacaklandırmak üzere fon aktanmı yapılır. 
+f) Katılımcının mutabakat hesaplarında oluşan bakiyelerini Sistem dışına alarak
+Merkez Bankası nezdindeki vadesiz hesaplarında takip edebilir. 
+[SAYFA 11]
+2436 
+Madde 11- Merkez Bankası'nın Operasyonel Yükümlülükleri 
+(1) Merkez Bankası; 
+a) Katılımcı adayının Sisteme katılımı öncesindeki idari ve operasyonel hazırlıklarının 
+koordinasyonunu gerçekJeştirmek, 
+b) Sistemde kullanılacak mutabakat hesaplarım açmak ve bunlara ilişkin bakiyeleri
+Sistemde kaydi olarak tutmak,
+c) Katılımcının talebi ile Merkez Bankası nezdindeki vadesiz hesaplarından
+katılımcının Sistem mutabakat hesaplarına fon aktarmak,
+d) Sistemden geçen mesajları ve işlemlere ilişkin bilgileri yasalarda belirtilen sürece 
+arşivinde saklamak, uyuşmazlık durumlarında kayıtları taraflara ve yasada yetkili kılınan 
+mercilere sunmak,
+e) Sistem iş sürekliliği çalışmalarını yürütmek ve katılımcılar nezdinde eş güdüm 
+sağlamak, 
+f) Katılımcıların operasyonel taleplerini değerlendirerek mevzuata ve uluslararası 
+standartlara uygunluğu çerçevesinde Sistemin işleyiş esaslarında yapılacak değişiklikleri 
+belirlemek,
+ile yükümlüdür.
+(2) Merkez Bankası dışındaki katılımcıların kendi aralarında gerçekleştirdikleri fon 
+aktarımlarının sonuçlarından Merkez Bankası sorumlu değildir. 
+Madde 12 -Merkez Bankası'nın Teknik Yükümlülükleri 
+Merkez Bankası, Sistem işleticisi olarak;
+a) Sistem altyapı ve uygulamalarını izlemek, geliştirmek, işletmek ve yönetmek,
+b) Sisteme erişim altyapısını oluşturmak ve güvenlik uygulamalarını geliştirmek, kurmak 
+işletmek ve denetlemek,
+c) Katılımcı uygulamalarının geliştirilmesine ilişkin belge, yordam ve teknik kılavuzları
+hazır bulundurmak, katılımcı uygulamalarının doğru çalıştığım denetlemek,
+d) Sistemin geliştirilmesine ilişkin araştırmaları yapmak, iyileştirme önerilerini 
+oluşturmak, 
+e) Katılımcı talepleı:ini değerlendirmek ve taleplerin uygunluğu halinde Sistem 
+altyapı ve uygulamalarını geliştirmek, 
+f) Katılımcı teknik ekiplerine, geliştirme, iyileştirme ve işletim konularında ödeme
+sistemleri kapsamında destek sağlamak, 
+[SAYFA 12]
+2437
+g) Sistemi, amaçlarına uygun olarak teknolojik gelişmelere ve uluslararası standartlara
+göre geliştirmek ve yenilemek,
+h) Sistemin kesintisiz çalışmasını sağlayacak araç ve altyapıları hazır etmek,
+ile yükümlüdür. 
+Madde 13 - Sorumsuzluk Halleri 
+Merkez Bankası, çalışanlarının kasıt veya ihmalinden dolayı uğranılacak zararlar dışında 
+Sistemden kaynaklanan teknik hatalardan, beklenmeyen durumlardan, mücbir sebep hallerinden 
+kaynaklanan zararlardan sorumlu tutulamaz ve bu zararların karşılanması için Merkez 
+Bankası'ndan herhangi bir talepte bulunulamaz. 
+DÖRDÜNCÜ BÖLÜM 
+Katdımcmm Yükümlülükleri
+Madde 14 - Yazılım, Donanım ve Altyapı 
+Katılımcı; 
+a) Sisteme erişmek için kullanacağı yazılım ve iletişim altyapısını Merkez Bankası
+İşletim Birimi'ne onaylatmak,
+b) Yazılım ve erişime ilişkin altyapıda güvenlik, süreklilik, performans ve kapasite
+takibini yaparak gerekmesi halinde önlemler almak,
+c) Merkez Bankası tarafından talep edilen yazılım ve altyapı değişikliklerini zamanında
+gerçekleştirmek, 
+d) Katılımcı Uygulaması'nda yapılacak her türlü değişikliğin Merkez Bankası
+yordamları çerçevesinde test edilip onaylanmasından sonra devreye alınabilmesi için Merkez 
+Bankası, İşletim Birimi'ni en az on (10) iş günü öncesinden yazılı olarak bilgilendirmek ve onay 
+almalc, 
+e) Merkez Bankası yetkililerinin gerçekleştireceği gözetim faaliyetleri kapsaımnda 
+her türlü kolaylığı göstermek ve Sistemin işleyişi konusunda istenen her türlü bilgi ve belgeyi
+sunmak,
+f) Katılımcı Uygulaması'na ve Sisteme bağlantı için kullanılan tüm aktif cihazlara ait
+her türlü denetim izi kayıtlarını, arşiv, işlem kaydı ve kamu düzenlemeleri çerçevesinde ihtiyaç
+olan bilgileri en az iki (2) yıl muhafaza etmek,
+ile yükümlüdür. 
+[SAYFA 13]
+2438 
+Madde 15 - Güvenlik 
+Katılımcı; 
+a) Sisteme erişimde kullanılacak olan önlemler ile duyurulacak diğer 
+güvenlik önlemlerini almak ve bu amaçla, sertifika altyapısını geliştirmek, sertifika yönetimine 
+ilişkin güvenli saklama ve kullanım kurallarına uymak,
+b) Katılımcı Uygulaması'nın erişim ve uygulama güvenliğini sağlamak, 
+c) Merkez Bankası İşletim Birimi tarafından verilen teknik belgeleri Merkez 
+Bankası'nın izni alınmaksızın üçüncü taraflara açmamak, ticari amaçla kullanmamak,
+d) Herhangi bir suç girişiminde bulunulduğundan şüphe edilmesi halinde durumu
+derhal Merkez Bankası'na bildirmek,
+ile yükümlüdür. 
+Madde 16 - Sorumlu Çalışanlar
+Katılımcı, sorumlularının kimlik ve iletişim bilgilerini güncel tutmak ve değişiklikleri 
+ivedilikle Merkez Bankası'na bildirmekle yükümlüdür. 
+Madde 17 - Gün Boyu İşlerlik
+Katılımcı; 
+a) Merkez Bankası tarafından günlük iş akışında ilan edilen şekilde Sistem ile 
+bağlantısını ve gün boyu işlerliğini denetlemek; İşletim Birimi tarafından bildirilen olaylara 
+anında müdahale etmek ve sonucundan İşletim Birimi'ni haberdar etmek,
+b) Sistemin kapanışından sonra gün sonu işlemlerini en kısa sürede tamamlamak ve 
+uyuşmazlık durumunda Operasyon Birimi'ne derhal haber vermek,
+c) Sisteme erişim için kullanılacak iletişim altyapısını ve veri iletişim hatlarını sürekli 
+çalışır durumda tutmak, arıza durumlarında İşletim Birimi'ni gecikmeksizin bilgilendirmek, 
+Madde 18 - Hizmet Yönetimi 
+Katılımcı; 
+a) İşletim Birimi tarafından duyurulan hizmet yönetimi araçları ve yordamları 
+çerçevesinde işlemleri gerçekleştirmek, tanımlanan hizmet seviyesi anlaşmalarına uymak,
+b) İşletim ve Operasyon Birimi tarafından hizmet yönetimi araçları ile gönderilen duyuru
+ve e-postaları takip etmek ve talimatları uygulamak,
+c) Sistem veya uygulamalarında oluşan kesinti veya olayları beklemeksizin İşletim 
+[SAYFA 14]
+2439
+Birimi'ne bildirmek, talepleri İşletim ve Operasyon Birimlerine 
+aktarmak 
+ile yükümlüdür. 
+Madde 19 - Kurallara Uygunluk 
+Katılımcı, mesajları İzabname' de belirtildiği gibi amacına, yapısına ve kurallarına uygun
+bir biçimde eksiksiz ve doğru olarak göndermek, gelen mesajları doğru olduğu sürece
+bekletmeksizin işlemek ile yükümlüdür.
+Madde 20 - İşbirliği
+Katılımcı, 
+a) Merkez Bankası'nın önceden duyurduğu planlar doğrultusunda yürüttüğü ya da eş
+güdümlediği çalışmalarda planlara uymak ve gerekli desteği sağlamak, 
+b) Sistemin kesintisiz işletilmesini sağlamak amacıyla, Merkez Bankası'mn katılımcılar 
+nezdinde gerçekleştirebileceği gözetim faaliyetleri sonucunda düzeltilmesi veya yapılması 
+istenilen tüm değişiklikleri geciktirmeksizin yerine getirmek,
+c) Sistemin işleyişi ile ilgili olarak Merkez Bankası'na gerekli durumlarda bilgi 
+sağlamak ve bu bilgilerin değişmesi durumunda en kısa zamanda Merkez Bankası'na haber
+vermek,
+ile yükümlüdür. 
+Madde 21 - Katılımcının Mesaj Gönderici Olarak Yükümlülükleri 
+Mesaj gönderen katılımcı; 
+a) Mesajda yer alan gönderici müşterinin kimlik/sicil bilgilerini doğrulamak, 
+b) · Hesaptan yapılan ödemelerde gönderici hesap bilgilerini doğrulamak, 
+ile yükümlüdür. 
+Madde 22 - Katılımcının Mesaj Alıcı Olarak Yükümlülükleri 
+Mesaj alan katılımcı; 
+a) Mesajda yer alan alıcı müşterinin kimlik/sicil bilgilerini doğrulamak, 
+b) Hesaba yapılan ödemelerde, hesap numarasının geçerli ve mevcut olması 
+durumunda müşteri ile başka bir sözleşmesi yok ise ödemeyi müşteri hesaplarına gecikmeksizin 
+aynı iş gününde aktarmak, 
+[SAYFA 15]
+2440
+c) Hesaba yapılan ödemelerde, hesap numarasının geçerli olmadığı ve/veya katılımcı
+doğrulama uygulamalarından geçememiş mesajlarda gelen ödemeyi ödeme iadesi mesajı ve 
+açıklaması ile bekletmeksizin iade etmek,
+d) Ödemenin göndericisinin iade talebinde bulunması halinde, müşterinin hesabına
+aktarılmamış ödemeleri bekletmeksizin iade etmek, müşteri hesabına aktarılan ödemelerde ise ilgili
+mevzuat ile düzenlenen kuralları uygulamak,
+ile yükümlüdür. 
+Madde 23 - Katılımcının Sorumlulukları
+Katılımcı; 
+a) Yükümlülüklerini zamanında ve eksiksiz yerine getirmemesi durumunda Sisteme ve 
+diğer katılımcılara vereceği zararlardan sorumludur.
+b) Sistem aracılığı ile gönderdiği mesajlarla ilgili her türlü sorumluluk kendisine aittir. 
+Katılımcı ödeme emirlerini yerine getirirken yapmış olduğu hatalar nedeniyle, Merkez 
+Bankası'nni, başka bir kuruluşun veya kişinin zarara uğraması durumunda bu zarardan
+sorumludur. 
+BEŞİNCİ BÖLÜM 
+Çeşitli ve Son Hükümler
+Madde 24-Düzenleyici Önlemler 
+Merkez Bankası Başkanlığı katılımcıya uyarma veya Sistemden süreli çıkarma, Merkez 
+Bankası Yönetim Kurulu Sistemden süresiz çıkarma önlemlerini uygulayabilir. 
+Katılımcı; 
+a) İşletim kurallarına, karar ve talimatlara uymaması durumunda sözlü veya yazılı 
+olarak uyarılabilir, 
+b) Bir yıl içinde üç (3) kez uyarılmış olması, Sistem mutabakat hesaplarına uygulanan
+haciz veya tedbiri makul bir süre içerisinde kaldırtmaması veya yükümlülüklerini yerine
+getirmemesi durumlarında Sistemden süreli çıkarılabilir, 
+c) Daha önce iki (2) kez Sistemden süreli çıkarılmış ise, tekrarında Sistemden süresiz 
+çıkarılabilir. 
+d) Sistemden süreli çıkarılma, olayın niteliğine bağlı olarak en fazla üç (3) ay ile 
+sınırlıdır. Sistemden süreli çıkarılan katılımcı bu süre boyunca işletim kurallarına uymak 
+zorundadır. 
+[SAYFA 16]
+2441 
+Madde 25 - Uyuşmazlıkların Çözümü 
+(1) Sistemde gerçekleştirilen işlemlerle ilgili uyuşmazlık durumunda, 41/2001 Sayılı 
+Merkez Bankası Yasası 'nın 4 7. maddesi gereğince, Merkez Bankası'nın resmi belge niteliğindeki
+kayıt ve defterleri esas ve delil olarak kabul edilecek olup, mesajlarla ilgili hata, hile, tehdit veya
+ekonomik güçlük iddiaları geçerlilik taşımaz. 
+(2) Sistem katılımcıları arasında Sistemin işleyişine ilişkin olarak çıkabilecek her türlü 
+uyuşmazlık, öncelikle karşılıklı anlaşma yoluyla çözümlenmeye çalışılır. 
+a) Katılımcılar arasında anlaşma sağlanamaması durumunda, zarara uğradığını ileri
+süren taraf uyuşmazlığın çözümü amacıyla, uyuşmazlık konusu olayın gerçekleştiği tarihten
+itibaren yedi (7) iş günü içinde, hakem adı da belirterek tüm iddia, savunma ve belgelerle
+Merkez Bankası'na başvurur. Bu başvuru üzerine Merkez Bankası, hakemini seçmesi ve yanıt 
+vermesi için istemin bir örneği ile ekli belgeleri karşı tarafa iletir. Karşı taraf bu bildirimi alış 
+tarihinden itibaren yedi (7) iş günü içinde delilleriyle birlikte savunmasını ve belirleyeceği hakemin 
+adını Merkez Bankası'na gönderir. Merkez Bankası'nın belirleyeceği bir hakemin 
+başkanlığında tarafların seçtiği birer hakemle birlikte üç (3) kişilik Uyuşmazlıkları Çözüm
+Kurulu oluşturulur. Karşı tarafın hakemini belirlememesi durumunda Kurulun oluşturulabilmesi 
+için eksik olan hakem Merkez Bankası tarafından seçilir.
+b) Sistemin işleyişine ilişkin olarak katılımcılar ile Merkez Bankası arasında bir 
+uyuşmazlık çıkması durumunda, zarara uğradığını ileri süren taraf veya taraflar uyuşmazlık konusu 
+olayın gerçekleştiği tarihten itibaren yedi (7) iş günü içinde, hakem adı da belirterek tüm iddia,
+savunma ve belgeleri karşı tarafa bildirir. Karşı taraf veya taraflar bu bildirimi alış tarihinden
+itibaren yedi (7) iş günü içinde hakemini belirleyerek, delilleriyle birlikte savunmasını ve hakemin 
+adını diğer tarafa veya taraflara bildirir.
+(3) Hakemler bankacılık uygulamaları konusunda uzman kişiler arasından seçilir.
+Hakem ücreti, taraflar ve hakemler arasında yapılan sözleşmeyle belirlenir. 
+Madde 26 - Yürürlük 
+Bu Tebliğ Resmi Gazete'de yayımlandığı tarihten itibaren yürürlüğe girer. 
+[SAYFA 17]
+2442 
+Sayı: 787 
+K.K.T.C. MERKEZ. BANKASI iDARE MERKEZl'NDEN DUYURU
+DUYURU NO: 2014/247 
+38/97 Sayılı Para ve Kambiyo Yasası'nın 10. Maddesi'nin {1) fıkrası gereğince 
+30/12/2014 tarihinde resmi işlemlerde esas alınacak kurlar 
+aşağıdaki şekilde tespit ve ilan olunur. 
+RESMİ KURLAR DÖVİZ EFEKTİF
+DÖVİZ CİNSi ALIŞ SATIŞ ALIŞ SATIŞ 
+1 AMERiKAN DOLARI 2.32350 2.32770 2.32190 2.33120
+1 AVUSTRALYA DOLAR! 1.88940 1.90170 1.88070 1.91310
+1 DANiMARKA KRONU 0.38033 0.38219 0.38006 0.38307
+1 EURO 2.83390 2.83900 2.83190 2.84330
+1 INGILIZ STERLiNi 3.60900 3.62790 3.60650 3.63330
+1 İSVİÇRE FRANGI 2.35040 2.36550 2.34690 2.36900
+1 ISVEÇ KRONU 0.29535 0.29841 0.29514 0.2991 O
+1 KANADA DOLARI 1.99600 2.00500 1.98860 2.01260 
+KUVEYT DINARI 7.88700 7.99030 7.76870 8.11020
+1 NORVEÇ KRONU 0.31018 0.31226 0.30996 0.31298
+1 SUUDi ARABiSTAN RiYALi 0.61906 0.62018 0.61442 0.62483 
+1.00 JAPON YENİ 1.92490 1.93770 1.91780 1.94510 
+ÇAPRAZ KURLAR 
+1 AMERiKAN DOLARI = 1.2269 AVUSTRALYA DOLARI 
+1 AMERiKAN DOLAR! = 6.0997 DANİMARKA KRONU 
+1 AMERİKAN DOLARI = 7.8333 ISVEÇ KRONU
+1 AMERİKAN DOLAR! = 0.9863 İSVIÇRE FRANGI 
+1 AMERiKAN DOLARI = 120.4100 JAPON YENi 
+1 AMERİKAN DOLARI = 1.1625 KANADA DOLAR!
+1 AMERiKAN DOLARI = 7.4725 NORVEÇ KRONU
+1 AMERiKAN DOLARI = 3.7533 SUUDİ ARABİSTAN RiYALi 
+1 KUVEYT D I NAR 1 = 3.4136 AMERiKAN DOLARI 
+1 INGİLIZ STERLİNi = 1.5559 AMERİKAN DOLARI 
+1 EURO = 1.2197 AMERiKAN DOLARI 
+[SAYFA 18]
+Sayı: 258 
+Sayı: 152 
+KUZEY KIBRIS TÜRK CUMHURİYETİ
+RESMİ GAZETE

@@ -1,7 +1,8 @@
 """Resmî Gazete sayılarının metninden hedef maddeleri (tüzük, emirname, yönetmelik, tebliğ) ayırır.
 Girdi: rg_hedef_ham.json (Basımevi dizini: sayı, tarih, A.E. no, başlık), metin/<portal>_<yıl>_<sayı>.pdf.txt
 Çıktı: rg_maddeler.json — her hedef için bulunan metin parçası ve eşleşme puanı. Metin değiştirilmez (yalnızca fazla boşluk)."""
-import json, re, os, sys, collections
+import json, re, os, sys, collections, difflib
+def _duz(x): return re.sub(r'[^a-z]', '', x.replace('İ', 'i').replace('I', 'i').lower().translate(str.maketrans('çğıöşü', 'cgiosu')))
 K = sys.argv[1] if len(sys.argv) > 1 else '/home/claude/rg'
 TR = str.maketrans('çğıöşüâîûÇĞİÖŞÜÂÎÛI', 'cgiosuaiuCGIOSUAIUI')
 STOP = set('ve ile yasasi yasa tuzugu tuzuk degisiklik emirnamesi emirname yonetmeligi hakkinda iliskin bu ait'.split())
@@ -10,7 +11,9 @@ def buyuk(sat):
     h = [c for c in sat if c.isalpha()]
     return len(h) >= 6 and sum(1 for c in h if c.isupper()) / len(h) > 0.8
 YAPAR = re.compile(r'aşağıdaki[^\n]{0,60}(?:\n[^\n]{0,30})?\b[Yy]apar\b|a[şs]a[ğg][ıi]daki\s+\S*\s*(?:T[üu]z[üu][ğg][üu]|Emirname\S*|Y[öo]netmeli\S*)\s+yapar', re.I)
+BASLIK_CAPA = set()
 def bolumler(t):
+    BASLIK_CAPA.clear()
     t = re.sub(r'[ \t]+', ' ', t)
     sat = t.split('\n'); konum = [0]
     for x in sat: konum.append(konum[-1] + len(x) + 1)
@@ -33,6 +36,13 @@ def bolumler(t):
             if re.match(r'^(Sayı|SAYI)\s*:', s) and bas < i: break
             j -= 1
         starts.append(konum[bas])
+    # ek çapa: Ek III'te her metnin başındaki dayanak yasa başlığı ("BELEDİYELER YASASI" + altında "(51/1995, ...)" satırı);
+    # 'yapar' cümlesi yazı tanımada bozulduğunda art arda gelen tüzükler tek parçada kalmasın
+    for j in range(len(sat) - 1):
+        s0 = sat[j].strip()
+        if re.fullmatch(r"[A-ZÇĞİÖŞÜ0-9 ().,'’\-]{3,}YA\s?SAS\s?[IİlıL1]\s*", s0) and re.match(r'^\s*\(\s*(?:\d|Fas[ıi]l|FASIL)', sat[j + 1]):
+            p = konum[j]
+            if not any(abs(p - x) < 600 for x in starts): starts.append(p); BASLIK_CAPA.add(p)
     starts = sorted(set(starts))
     return t, [(a, starts[k + 1] if k + 1 < len(starts) else len(t)) for k, a in enumerate(starts)]
 def kirp(seg):
@@ -51,20 +61,30 @@ for u, its in sayilar.items():
     for zi, z in enumerate(its):
         bt = toks(re.sub(r'^.*?YASASI\s*[-–]\s*', '', z['baslik'])) or toks(z['baslik'])
         for k, (a, b) in enumerate(segs):
-            bas = toks(t[a:a + 900])
+            bas = toks(t[a:min(b, a + 900)])
             ism = re.search(r'Bu\s+(?:T[üu]z[üu]k|Emirname|Y[öo]netmelik|Tebli[ğg])\s*,?([\s\S]{0,400}?)(?:isimlendiril|olarak an[ıi]l)', t[a:min(b, a + 4000)])
             if ism: bas |= toks(ism.group(1))
-            puanlar.append((len(bt & bas) / max(1, len(bt)), zi, k))
+            p = len(bt & bas) / max(1, len(bt))
+            # sıralamada küçük öncelik: bölümün ilk satırı hedefin dayanak yasasının adıysa (aynı sayıda iç içe geçmiş metinler)
+            # bölüm başka bir dayanak yasanın başlığıyla başlıyorsa (ör. ZORLA MAL İKTİSABI YASASI) bu hedefe verilmez
+            # bölümün kendi metni hedefin adından hiçbir şey içermiyorsa (eşleşme yalnızca sonraki metinden) verilmez
+            if p >= 0.6 and len(bt & toks(t[a:min(b, a + 3000)])) < 0.3 * len(bt): p = 0
+            puanlar.append((p, zi, k))
     # açgözlü bire-bir atama: her bölüm en fazla bir maddeye, en yüksek puandan başlayarak (aynı sayıdaki benzer adlı emirnameler karışmasın)
+    # sonradan eklenen hedefler ('ek': eksik tüzükler) ikinci turda atanır: önceki eşleşmeler değişmez
     atandi, kullan = {}, set()
-    for p, zi, k in sorted(puanlar, reverse=True):
-        if p < 0.6 or zi in atandi or k in kullan: continue
-        atandi[zi] = (k, p); kullan.add(k)
+    for tur_ in (False, True):
+        for p, zi, k in sorted(puanlar, reverse=True):
+            if bool(its[zi].get('ek')) != tur_ or p < 0.6 or zi in atandi or k in kullan: continue
+            atandi[zi] = (k, p); kullan.add(k)
     for zi, z in enumerate(its):
         if zi in atandi:
-            k, p = atandi[zi]; a, b = segs[k]
+            k, p = atandi[zi]; a, b = segs[k]; mt = kirp(t[a:b]).strip()
+            bt = toks(re.sub(r'^.*?YASASI\s*[-–]\s*', '', z['baslik'])) or toks(z['baslik'])
+            if (a in BASLIK_CAPA or b in BASLIK_CAPA) and len(bt & toks(mt[:3000])) < 0.3 * len(bt):  # yeni başlık çapası, kırpılmış metinde hedefin adı yok: yanlış parça verilmesin
+                ist['eşleşmedi'] += 1; out.append(dict(z, metin='', puan=round(p, 2))); continue
             ist['eşleşti'] += 1; ist[z['tur']] += 1
-            out.append(dict(z, metin=kirp(t[a:b]).strip(), puan=round(p, 2)))
+            out.append(dict(z, metin=mt, puan=round(p, 2)))
         else:
             ist['eşleşmedi'] += 1; out.append(dict(z, metin='', puan=round(max([q for q, zz, _ in puanlar if zz == zi] or [0]), 2)))
 json.dump(out, open(os.path.join(K, 'rg_maddeler.json'), 'w', encoding='utf-8'), ensure_ascii=False)

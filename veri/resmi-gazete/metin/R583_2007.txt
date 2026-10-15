@@ -1,0 +1,824 @@
+BANKALAR YASASI 
+(39/2001 Sayıh Yasa) 
+Madde 33 Altında Tebliğ 
+9 Ağustos, 2007 
+BANKALARIN SERMAYE YETERLİLİĞİNİN ÖLÇÜLI\1ESİNE VE 
+DEĞERLENDİRİLMESİNE İLİŞKİN USUL VE ESASLAR HAKKINDA TEBLİĞ 
+(1083) 
+[SAYFA 2]
+Amaç: 
+1084 
+. BİRİNCİ BÖLÜM 
+GENEL HÜKÜMLER 
+Madde 1 - Tebliğin amacı, 39/2001 sayılı Bankalar Yasası'nın 33 üncü maddesi uyarınca, 
+bankaların sermaye yeterliliğinin ölçülmesinde, buna bağlı olarak sermaye artınmlannda ve 
+.özkaynaklarının mevcut ve potansiyel riskler (Kredi Riskı, Piyasa Riski ve Operasyonel Risk)
+nedeniyle oluşacak zarara karşı korunmasında uyulacak sermaye yeterliliği standart oranının 
+tanımlanması, uygulama ve raporlama esaslarının belirlenmesidir. 
+Tanımlar: 
+Madde 2 - Bu tebliğde geçen tanım ve kavramlar aşağıda açıklanmaktadır. 
+A) Sermaye: 
+"Sermaye", ana sermaye ve katkı sermayeqen meydana gelir. 
+a) Ana Sermaye:
+Ana Semıaye'yi, ödenmiş sermaye, kanuni yedek akçeler (muhtemel zararlar karşılığı), ihtiyari ve
+fevkalade yedek akçeler ve bankaların hesap özetlerinde yer alan vergi provizyonundan sonraki
+dönem kan ve geçmiş yıllar kan oluşturur. Ana s~yenin hesaplanmasında, bankaların hesap
+özetlerinde yer alan dönem zararı ile geçmiş yıllar zararı toplamı indirim kalemi olarak dikkate 
+alınır. 
+b) Katkı Sermaye: 
+i-"K.atkı Sermaye", genel karşılıklar, banka sabit kıymet yenfüen değerleme fonu, iştirakler ve 
+bağlı ortaklıklar ile sermayelerine katılınan diğer ortaklıklaı sabit kıymet yeniden değerleme 
+karşılığı, alman sermaye benzeri krediler, muhtemel riskler için ayrılan serbest karşılıklar ve 
+menkul değerler değer artış fonundan oluşur. · · 
+ii- Bu tebliğin uygulamasında bankalar, 6(,/99 sayılı 'İş_le~elerin Sermaye ve Ekonomik 
+[SAYFA 3]
+-,:-···ı 
+-.~ 
+1085
+V arlıklannın Yeniden Değerlendirilmesi Yasası" çerçevesinde yapılan değerlemeleri sonucu 
+oluşan sermaye maliyeti tutarına, ödenmiş sermayeye ilave edinceye kadar katkı sermaye
+içerisinde yer verebilirler.
+iii- · Katkı sermayenin ana serıi1ayenin %100'ünden fazla olan kısmı, sermayenin hesabında 
+dikkate alınmaz. Katkı sermayenin unsurlarından olan genel karşılıklar ile muhtemel riskler için· 
+ayrılan serbest karşılıkların kredi riskine esas tutar ve piyasa riskine esas tutar toplamının onbinde 
+yüzyirmibeşini (%1.25) aşan kısmı katkı sermaye hesabına dahil edilmez.
+iv-Bankalarca sağlanan ve kalan vadesi 5 yıl ve daha uzun olan sermaye benzeri krediler katkı 
+sermaye içinde mütalaa edilir. Sermaye benzeri kredilerin, ana sermayenin %50'sinden fazla 
+olması halinde, bu oranı aşan kısım hesaplamaya dahil edilmez. Bu iki istisnai hüküm nedeniyle
+ortaya çıkan atıl kaynaklar, piyasa riski sermaye gereksiniminin karşılanması açısından sermaye
+olarak kabul edilebilir. ~cak bu şek.ilde kullanılabilecek kaynak ana sermayenin %250'sini 
+aşamaz. 
+c)Sermaye Benzeri Krediler:
+i. Başlangıç vadesi en az beş yıl olan, 
+ii. Bankanın tasfiyesi halinde, hisse senetlerinden bir önce, diğer tüm borçlardan sonra ödenmesi
+kredi verenlerce kabul edilen, · · 
+iii. Defaten kullandırılan ve herhangi bir şek.il ve surette doğrudan ya da dolaylı olarak teminata 
+bağlanmamış, hiçbir türev işlem ve sözleşme ile ilişkilendirilmemiş, başka kişilere temlik 
+edilemeyeceği yazılı olarak belirlenmiş, 
+iv. Bankanın doğrudan yada dolaylı iştirakleri dışındaki kişilerden sağlanan kredilerdir.
+v. ·Kullanılacak Sermaye Benzeri Kredilere ilişkin yapılacak sözleşmelerde (i), (ii), (iii) ve (iv)
+bentlerinde belirtilen koşulların ve faiz ve diğer masraflar hariç, anapara geri ödeme~inin beş
+yıldan önce yapılamayacağının açıkça hükme bağlanmış . olması zorunludur. Bu maddede
+belirtilen koşulları taşıyan sermaye benzeri kredilerin katkı sermaye hesabına dahil edilebilmesi
+için kredi sözleşmesinin aslı veya noter onaylı örneği, sözleşme henüz imzalanmamışsa aslı izin
+verilmesinin ardından ibraz edilmek üzere, sözleşme taslağı ile birlikte KKTC Merkez ~ankası 'na
+izin başvurusunda bulunulur. · Önceden ibraz edilen sözleşme .taslağı hükümleri ile izin
+verilmesinin ardından ibraz edilen asıl sözleşme· hükümleri arasında, kullanılan, kredinin sermaye
+benzeri niteliğini ortadan kaldıracak şekilde farklılıkların buluııniası halinde verilen izin iptal
+edilir. Bu kredilere uygulanacak .faiz oranlarının sözleşmede açık bır şekilde belirlenmemesi ve
+benzer kredilere göre aşın ölçüde yüksek olması halinde, kredinin katkı sermaye hesabına dahil 
+edilmesine izin verilmeyebilir. Gerekli koşullan taşıyan sermaye benzeri krediler KKTC Merkez 
+Bankası'nın izninin ardından banka kayıtlarına intikal tarihi itibariyle katkı sermaye 
+hesaplamalarına dahil edilir. Sermaye benzeri kredi kullandıran kişi yada kişilere. bankaca 
+doğrudan ya da dolaylı olarak nakdi kredi kullandırılması halinde, kullandırılan kredi tutan ka~ 
+sermayenin hesaplanmasında sermaye benzeri kredi toplamından indirilir. Sermaye benzeri
+kredilerin vadesinden önce geri ödenmesine, bankanın kredi sınırlarına ve standart oranlara ·
+uyumu gözetilerek KKTC Merkez Bankası'nca izin verilebilir.
+vi. Katkı sermaye hesaplamalarına dahil edilmesine KKTC Merkez Bankası'nca izin verilen
+sermaye benzeri kredilerden kalan vadesi beş yıldan az olan krediler her bir yıl için % 20 oranında
+azaltılarak katkı sermaye hesaplamaların~ intikal ettirilir. Vadesine bir yıldan az süre kalan
+sermaye benzeri krediler katkı sermaye hesaplamasında dikkate alının~. 
+[SAYFA 4]
+1086
+vii. KKTC Merkez Bankasınca izin verilmesi halinde, bankanın sermaye artırımlarında
+kullanılması hissedarlarca kesin ve yazılı olarak taahhüt edilen bankaya rehnedilmiş mevduat veya 
+diğer kaynaklarda vade şartı aranmaksızın, niteliklerine göre sermaye benzeri kredi olarak kabul
+edilebilirler. 
+. B) Özkaynak: 
+"Özkay.nak", sermayeden bu Tebliğin 3. maddesinde belirtilen değerlerin indirilmesi suretiyle 
+hesaplanır. 
+C) Kredi Riski: 
+Bilanço içi varlıklar ile gayrinakdi krediler, taahhütler ve türev finansal araçlardan kaynaklanan
+kredi riski nedeniyle maruz kalmabilecek zarar olasılığıdır. Bu zararlara karşı, seımaye yeterliliği 
+standart oranının hesabında kredi riskine esas tutar hesaplanır. 
+D) Piyasa Riski 
+a) Piyasa Riski; Bankaların genel piyasa riski, kur riski, spesifik risk ve Merkez Bankası 
+tarafından belirlenecek ilgili riskler nedeniyle maruz kalabilecekleri zarar olasılığıdır. Bu zararlara 
+karşı sermaye yeterliliği standart oranının hesabında piyasa riskine esas tutar hesaplanır. 
+b) Genel Piyasa Riski; Bankaların portföylerinde yer alan finansal araçlara ilişkin faiz oranı :ve 
+hisse senedi pozisyon riski nedeniyle maruz kalabileceği zarar olasılığıdır. 
+c) Kur Riski; Bankaların, tüm döviz varlık ve yükümlülükleri nedeniyle döviz kurlarında meydana 
+gelebilecek değişiklikler sonucu maruz kalabilecekleri zarar olasılığıdır. 
+d) Spesifik Risk; Getirisi faiz oranı ile ilişkilendirilmiş finansal araçlardan ve hisse senetlerinden 
+oluşan pozisyonlarda, geniş piyasa hareketleri dışında, bu pozisyonları oluşturan finansal araçl~ 
+ihraç veya garanti eden ve ödeme yükümlülüğünü üstlenen kuruluşların yönetimlerinden ve mali 
+bünyelerinden kaynaklruıabilecek sorunlar nedeniyle meydana gelebilecek zarar riskini anlatır. 
+E) Operasyonel Risk~ 
+Banka içi kontrollerdeki aksınıııalar sonucu hata ve usulsüzlüklerin gözden kaçmasından, banka 
+yönetimi ve personeli · tarafından zaman ve koşullara uygun hareket edilememesinden, banka 
+yönetimindeki hatalardan.j bilgi teknolojisi sistemlerindeki hata ve aksamalar ile doğal afetler veya
+terör ve savaş hali durumlarından kaynaklanabilecek zarar olasılığıdır. Bu zararlara karşı sermaye 
+yeterliliği standart oranının hesabında operasyonel riske esas tutar hesaplanır. 
+F) Staırndliil.lrt Meto«ıt~ 
+Piyasa riskine ve operasyonel riske esas sermaye yükümlülüğünün hesabında banka\ann 
+uygulayacağı ve bu Tebliğ'in m. ve IV. bölümünde uygulama esas ve usulleri belirtilen "Standart
+Metod ile Piyasa Riski ve Operasyonel Risk Ölçüm Yöntemi"ni anlatır. 
+G) Sermaye Yetıeırlilınğn Staııııd:ıınrt Oraırıın: 
+Özkaynak/Risk ağırlıklı varlıklar gayrinakdi krediler ve yükümlülükler (kredi riskine esas tutar + 
+piyasa riskine esas tutar+ ope.rcasyonel riske esas tutar), standart oranını, 
+anlatır. 
+[SAYFA 5]
+1087 
+Sermayeden İndirilen Değerler:· 
+Madde 3(1)- Özkaynak .hesaplamasında sermayeden indirilen değerleri aşağıdaki kalemler 
+oluşturur; · 
+a) Mali iştirakler, bağlı ortaklıklar ile sermayesine katılman diter mali ortaklıklar (Bankalar, 
+Sigorta Şi~ketleri, Finansal Kiralama Ku;rumlan. Risk Sermayesi Kuruluşları, Yatırım 
+Danışmanlığı Kuruluşları, Kredi Kartı Çıkaran Kuruluşlar, Yatının Ortaklıkları, Genel Finans 
+Ortaklıklant Yetkili Müesseseler gibi diğer lrumluşlara olan sermaye katılımlan), 
+b) Özel maliyet bedelleri~ 
+c) İlk tesis giderleri ve aktifleştirihniş giderler 
+d) Peşin Ödenmiş giderler, 
+e) İştiraklerin, ba.ğh ortaklıklamı, sermayesine katılınan diğer ortaklıklaruı ve sabit kıymetlerin 
+rayiç değeri bil&nçoda kayıtlı değerinin altında. ise aradaki fark, 
+t) KKTC'de faaliyet gösteren diğer bankalara verilen "Sermaye Benzeri Krediler", 
+g) Şerefiye 
+b) Yasal mevzuata aykırı olan krediler ve kredilerdeki yasal limit aşımları. 
+(2} Bu maddenin b, d ve g bentlerinde belirtilen kalemler ana sermayenin hesabından indirilmek 
+suretiyle, ana sermaye hesaplamr. 
+İKİNCİ BÖL'OM 
+KREDİ RİSKİ HESAPLAMA ESASLARI 
+Kredi Riskine Esas Tutarın Hesaplanması: 
+Madde 4• (1) Kredi riskine esas tutar, bilanço içi varlıklar ile gayrinakdi krediler, taahhütler ve 
+türev finansal araçlara ilişkin kredi riskine esas tutarların toplamından oluşur. 
+(2) Bilanço içi varlıklar ile gayrinakdi kredilerı taahhütler ve türev finansal araçlaroı kredi riskine 
+esas tutarları, kredi eşdeğerlerine göre {EU}'de yer alan Cetvelde belirtilen risk ağırlıklarına 
+göre tasnif edilerek gruplandınlır. Kredi eşdeğerleri: · 
+a) Bilanço içi varlıklar bakımından bilançoda kayıtlı değerlerini anlatır. 
+b) Gayrinakdi krediler ve taahhütlerle ilgili işlemler bakımındanp varsa bu işlemler için 
+Bankalarca. Karşılık Ayrılacak Kredilerin ve Diğer Ala.caklann Niteliklerinin Belirlenmesi ve 
+Ayrılacak Karşılıklara İlişkin Esas ve Usuller Hakkında Tebliğe istinaden aynim özel karşılıklar 
+düşüldükten sonraki net tutArlanm.n Kredilerle İlgili Esas ve Usuller Tebliğinde belirtilen krediye 
+dönüştürme oranlan ile çarpıldıktan soma bulunacak tutarlarını ifade eder. 
+Bu tebliğ amaçlarına yönelik olarak, çekler için· ödeme taahhütlerinin hesabında, KKTC de 
+kurulu bankalar tarafından ihraç edilen çekler, %25 (yüzde yirmibeş) krediye dönüşüm oranına 
+tabi tutularak, Ek 1 1 deki ilgili risk ağırlığı satırına yerleştirilmek suretiyle risk ağırlığına tabi 
+tutulur, 
+c) Dövize, faiz oranına, altına dayalı türev finansal araçlar bmmmdan, bu11farm nomir.ıal 
+değerlerinint Kredilerle İlgili Esas ve Usuller Tebli~nde belirtilen krediye dönüştlliıne ora:rı&ıarı ile 
+çarpılmasından elde edilecek tutarları ifade eder. 
+[SAYFA 6]
+" r· --·--~·- ...... 
+/ 
+1088
+d) Hisse . senedine · ve emtiaya dayalı türev finansal araçlar bakımından bunların nominal 
+değerlerinin, bu tebliğin ekinde yer alan Tablo · 1 t deki krediye dönüştürme oranları ile 
+çarpılmasından elde edilecek tutara pozitif yemleme maliyetlerinin ilave edilmesi suretiyle 
+bulunacak tut.arlan ifade eder. · 
+(3) ~ağıda belirtilenler için kredi riskine esas tu~ hesaplanmaz; · 
+a) Semuıyedenindirilen değerlere ilişkin indirim konusu tutarlar, ! 
+.ı 
+b) Tillcemne ve değer kaybıyla karşı karşıya olan varlık1ann kredi eşdeğerleri ilgili amortismanlar 
+ve karşılıklar, risk ağırlıklı varlıklar, gayrinakdi krediler ve yOkümlüliikler hesaplaması 
+kapsamında aynca risk ağırlığına tabi tutulmaz. 
+( 4) . Bilanço içi varlık, gayri.nakdi kredi, taahhüt ve ttırev fmansal araçlann teminatlandmlmış 
+olmaları durumunda, bunların sa.dece teminattandınlmış kısımlan teminatına göre risk ağırlığına 
+tabi tutulabilir.
+(5) Bankalarla ilgili mevzuatta yapılan değişiklikler sonucu yeni tanımlanan kalemler ve yeni 
+1 • • • ~.(r·, :finansal enstı1lmru:ılar olarak geliştirilen ve tammlanan işlemler ile ilgili olarak bu Tebliğ ~ki 
+' ·~~ 
+· · WKl) cetvelde henflz risk ağırlığı verilmemiş bulunan hesaplar KKTC Merkez Bankası 'nca aksi 
+belirtilinceye kadar %100 risk $lığına tabi tutulacaktır. 
+-Cçt}NcO BÖL"CM 
+PİYASA RİSKiNtN HESAPLANMA ESASLARI 
+. Standart Metod be Piyuı Riskine Esııuı Tutana Resaphmması: 
+Madde 5- Tüm bankalar, bu balümde belirtilen standart metod esas ve usullerine göre, maruz 
+kaldıkları piyasa riskini hesapta:mak ve Merkez Bankası 'na. raporlamakla. yükümlüdürler. 
+Getirisi Faiz Oranı İle İlifkllendlrllmit Finusal Araçlara İlqkbı Genel Piyasa Riski İçin 
+Sermaye Yttkftmlllftlttntn Standart Metod ile Hesapl.umıuı: • 
+MBdde 6- (1) Bankanın menkul kıymetleri arasında yer alan ve getirisi faiz oranı ile 
+ilişkilendirilmiş, borçlanmayı temsil eden her tnrlü menkul kıymetler ile bu menkul kıymetlere 
+dayalı olarak yapılım repo işlemlerine ve forward, future ve swap gı'bi tUrev araçlara ilişkin faiz 
+otawndaki defpşild~erden kaynaklanabilecek piyasa risld, yukanda belirtilen finansal araçlara 
+ilişkin uzun ve kısa pozisyonların ~'Vade Merdiveni T~losu" üzerinde tasnif edilerek 
+yerleştirilmesi suretiyle hesaplanır (IUg).
+(2) "Vade Merdiveni Tablosu", Yeni Türk Lirası (YTL), İngiliz Sterlini (GBP), Amerikan Dolan 
+(USD), Euro (BUR) ve diğer dövizler olarak ve her bir para cinsinin YTL karşılıkları 
+hesaplanmak suretiyle her bir para cinsi bazında, ayn ayn d11zenlenir. Tablolann hazırlanmasında, 
+yukanda belirtilen para cinsleri dışında kalan paralarla yapı~ 1 'inci fikrada belirtilen işlemler 
+belirtilen para cinslerindeki işlemlerin toplamının %20'sinden fazla ise bunlar da ayn tablolarda 
+[SAYFA 7]
+1089'
+belirtilir.
+(3) Sabit faizli menkul kıymetler, vadeye kalan sürelerine göre, değiJken faizli menkul kıymetler 
+ise yeniden fiyatlam.a tarihine kalan sürelere göre· "Vade .Merdiveni Tablosu"ndaki vade
+diliminden uygun olahına yerleştirilir. 
+( 4) Bir fa.iz swa.bı işleminde ise, değişken oranda faiz tahsil edihnesi ve sabit faiz ödenmesi · 
+durumunda, "Vade Merdiveni Tablosu"na yeniden fiyatlama tarihine kadar olan vadede delJ.şken 
+faiz oranı üzerinden uzun po~syon, swap sözleşmesinin kalan vadesinde ise sa.bit faiz oranı 
+ti.zerinden kısa pozisyon yazılır. · 
+(S) Her bir vade dilimindeki uzun ve kısı pozisyonlar aşağıda belirtilen tabloda yer alan ilgili vade 
+dilimindeki risk ağırlığı ile ~ırlıklandınlır. Aynı vade dilinrindeki ağıtlıklandırıltnış toph:ıtn kısa 
+ve toplam uzun pozisyonlardan mutlak değer olarak ktlçük olanı Uzerinden %10 dikey sermaye 
+gereksinimi hesaplanır. Her bir vade. dillini için tek bir n~t pozisyon bulunması amacıyla bütün 
+vade dilimlerindeki kısa ve uzun pozisyonlar netleştirilir. 
+Vadeye Kalan Süre Risk AQırtıöı (%) 
+H. ZAMAN ARALIĞI 
+1s25 
+1,7.5 
+2,25 
+111. ZAMAN ARALIĞI 
+2,75 
+3,25 
+3 75
+450 
+S,25 
+6,00
+(6) Elde edilen vade dill.ınlerinin net kısa ve uzun pozisyonları, her üç zaman aralığı için ııyn ayrı 
+toplanır ve aynı zaman aralığı. içinde ters yönlü-pozisyonlar olması durumunda, bunlann mutlnk 
+değer olarak küçük olanının mutlak deleri üzerinden I. zaman aralığı için %40, II. ve m. zaman 
+aralığı için %30 oranında Yatay Sermaye Gereksinimi-! (YSO-I) hesaplanır. 
+(7) Üç zaman aralığı içindeki kısa ve uzun pozisyonlar netleştirilerek her bir zaman ru:ahğı içoo net 
+pozisyonlar elde edilir. 
+· (8) Birbirine komşu zaman aralıklarında ters yönde pozisyonlar söz konusu ise buıılıırd~n mutlak 
+değer olarak küçük olanının mutlak değeri Uzerinden %40 Yatay Sermaye Gerebiniıı.rtlaH (YSGu 
+m~~ . 
+/ 
+,; 
+[SAYFA 8]
+1090
+(9) Birbirine komşu zaman aralıklarında ters yönlü pozisyonların bulwnnası nedeniyle denkleşen 
+ve YSG-II hesaplanan zaman aralığı pozisyonları netleştirilir. Eğer I ve II. Zaman Aralıkları
+netleştirilmişse bulunan yeni pozisyon değeri Zaman Aralığı I'in pozisyonu; II ve m. Zaman 
+Aralıkları netleştirilmişse bulunan yeni pozisyon Zaman Aralığı III'ün pozisyonu olarak kabul
+edilir. Zaman Aralığı I ve III'e ait pozisyonların her ikisi de aynı yônde pozisyonlar ise
+toplamlanmn mutlak değeri üzerinden %100, biri kısa diğeri uzun pozisyon ise mutlak değeri 
+küçük olanın mutlak değeri üzerinden %100, her iki pozisyonun netleştirilmesinden elde edilen 
+pozisyonın1 mutlak değeri üzerinden de %100 oranında Yatay Sennaye Gereksinimi-III (YSG-
+III) hesaplanır. 
+(1 O) Vade merdiveni tablosundaki tlim vade dilimlerinde veya zaman aralıklarında ayru yönde
+pozisyon bulunması durumunda bunların toplamının mutlak değeri üzerinden Yatay Semıaye 
+Gereksinimi-ID (YSG-ill) hesaplanır. 
+(11) Dikey ve yatay sermaye gereksinimleri toplamı, getirisi faiz oranı ile ilişkilendirilmiş finansal
+araçlara ilişkin genel piyasa riski için gerekli olan semıaye gereksinimi tutarını gösterir. 
+Hisse Senetleri İçin Genel Piyasa Riski Hesaplaması: 
+Madd~ 7- (l) Bankalar Menkul kıymetleri arasında yer alan hisse senetleri ve hisse senetlerindeki
+fiyat değişikliklerinden etkilenen finansal araçlar üzerinden genel piyasa riski için sermaye 
+yükümlülüğü hesaplarlar.
+a) Münferit hisse senetleri ile ilişkilendirilmiş future ve vadeli işlemlerin cari piyasa fiyatlarını, 
+b) Bir hisse senedi endeksi ile ilişkilendirilmiş future işlemlerde, işlemin dayanağını oluşturan 
+hisse senedi portföyünün cari piyasa fiyatım, 
+esas alarak hesaplamak zorundadırlar. 
+(2) Hisse senedi swap işlemlerinde, işlemin her bir ayağını oluşturan pozisyonlar ayn ayrı
+değerlendirilir. Eğer swap işleminin ayaklarından bir tanesi sabit veya değişken faiz oranı ile 
+ilişkilendirilmişse buna ilişkin pozisyon 6. maddedeki hükümlerde belirtilen usule uygun olarak
+faiz oranı riski için sermaye yükümlülüğünün hesabında dikkate alınır. 
+(3) Hisse senetleri pozisyonlarının taşıdığı genel piyasa riski için ayrılması gereken sermaye 
+yükümlülüğü, hisse senetlerine il~şkin toplam uzun pozisyonlar ile toplam kısa pozisyonlar 
+arasındaki farkın % 8'idir.
+(4) Aynı şirket tarafından ihraç edilmiş hisse senetlerine ilişkin uzun ve kısa · pozisyonlar 
+netleştirildikten sonra hesaplamaya dahil edilir. 
+Getiıritd Faiz Oram İle İlişkilendirilmiş Finansal Araçlara İlişkin Spesifik Riskin 
+Hesaplanması: 
+Madde 8~ (1) Net pozisyon tutarları üzerinden, getirisi faiz oram ile ilişkilendirilmiş alım-satıma 
+konu menkul · kıymetlerin türü ve· kalan vadeleri dikkate alınarak aşağıdaki tabloda yer alan 
+oranlarda, spesifik ·risk için semıaye gereksinimi hesaplanir. 
+~ 
+~- 
+[SAYFA 9]
+1091 
+Oran(%) 
+Menkul Kıymet Türü 
+Kamu Menkul Kıymetleri %0.00
+%0.25 
+% 1.00 
+% 1.60
+%8.00
+(2) Nitelikli menkul kıymetler, en az iki kredi derecelendirme ·kuruluşwıdan yatırım yapılabilir 
+notu almış menkul kıymetlerden oluşur. Sadece bir kredi derecelendirme kuruluşundan yatırım
+yapılabilir notu almış veya hiç derecelendirilmemiş menkul kıymetler de, söz konusu menkul 
+kıymetleri ihraç edenin tanınmış bir teşkilatlanmış borsaya kote edilmiş menkul kıymetlerinin
+bulunması durumunda nitelikli menkul kıymet olarak kabul edilir.
+(3) Faiz ve döviz kuru swap işlemleri, forward faiz ve döviz işlemleri ve faiz oranı future işlemleri 
+için spesifik risk hesaplanmaz. Future sözleşmelerinde işlemin dayandığı finansal araç getirisi faiz 
+oranı ile ilişkilendirilmiş bir menkul kıymet ise bu menkul kıymet için spesifik risk bu maddede
+belirtilen esaslara göre hesaplanır. 
+Hisse Senetleri İçiııı Spesif'ık Risk Hesaplaması: 
+Madde 9. (1) Münferit hisse senetleri ile ilişkilendirilmiş future ve vadeli işlemlerin cari piyas~ 
+fiyatlarım, 
+(2) Bir hisse senedi endeksi ile ilişkilendirilmiş future işlemlerde, işlemin dayanağım oluşturan 
+hisse senedi portföyünün cari piyasa fiyatım, esas alarak hesaplamak zorundadırlar. 
+(3) Aynı şirket tarafından ihraç edilmiş hisse senetlerine ilişkin uzun ve kısa pozisyonlar 
+netleştirildikten sonra hesaplamaya dahil edilir. 
+(4) Hisse senetleri pozisyonlarının taşıdığı spesifik risk için ayrılması gereken sermaye 
+yükümlülüğü, hisse senetlerine ilişkin kısa ve uzun pozisyonların mutlak değerleri toplamının 
+%8'idir. Söz konusu oran, likit ve iyi çeşitlendirilmiş portföyler için %4 olarak uygulanır. 
+Aşağıdaki tabloda yer alaıı endekslere dayalı sözleşmeler için spesifik risk oranı yüzde 4, olarak 
+~~ ' 
+ENDEKS ÜLKE 
+!M.KB-100 Türkiye 
+S &P 500 A.B.D 
+N1KK.EI 225 Japonya
+DAX Almanya 
+FTSE 100 ve FTSE-Mid 250 Ingiltere 
+CAC40 Fransa 
+TSE35 Kanada
+SMI lsvicre
+OMX İsveç 
+IBEX35 Ispanya
+EOE25 Hollanda
+BEL20 Belçika 
+ATX Avusturya 
+[SAYFA 10]
+1092 
+Kur Riskine Esas Sermaye Yükümlülüğünün Standart Metod İle Hesaplanması: 
+Madde 1 O- (1) Bankalar, tüm döviz varlıkları ve yükümlülükleri, vadeli döviz işlemleri, swaplar 
+gibi kur riski içeren türev sözleşmeleri üzerinden kur riskine esas sermaye yükümlülüklerini
+hesaplamak zorundadırlar. Özkaynak hesaplamasında sennayeden indirilen yabancı para varlıklar 
+için kur riskine esas sermaye yükümlülüğü hesaplanmaz. 
+(2} Sermaye yükümlülüğii hesaplanması amacıyla her bir döviz cinsinin Yeni Türk Lirası
+karşılıkları itibarıyla aktif ve pasif hesaplarda bulunan tüm döviz varlık ve yükümlülüklere ilişkin 
+net pozisyon, döviz cinsinden cayılamaz nitelikli gayri nakdi kredilere ilişkin net pozisyon ve
+vadeli döviz işlemlerine ilişkin net pozisyon bulunur, Her bir döviz cinsi için hesaplanan net kısa 
+pozisyonlar ve net uzun pozisyonlar ayn ayn toplanır ve bunlardan mutlak değer olarak büyük 
+olanı ile mutlak değer olarak net altın pozisyonu toplamı üzerinden %8 oranında sermaye 
+yükümlülüğü hesaplanır. 
+(3) Döviz cinsinden cayılamaz nitelikli gayri nakdi kredilere ilişkin net pozisyonun sermaye 
+yükümlülüğü hesaplamasına dahil edilmesinde, henüz nakde dönüşmemiş yükümlülüğe ilişkin 
+alacak hakkının; gayri nakdi krediyle ayni para cinsinden olması durumunda alacmc tutan, uzun
+pozisyon olarak dikkate alınır. Bununla beraber alacak hakkının farklı döviz cinsinden olıriası 
+halinde alacak tutan kendi döviz cinsinden uzun pozisyon olarak döviz varlıkları arasında 
+gösterilir. Gayri nakdi kredilere ilişkin alacağın uzun pozisyon olarak dikkate alınmasında, alacak 
+hakkının belgelenmesi ya da teminat altına alınmış olması esastır. 
+(4) Gayri nakdi kredi borçlusunun kredi değerliliği ve ödeme yeteneği karşılıklara ilişkin tebliğde 
+yer alan esas ve usuller çerçevesinde belirlenir. Bu şekilde yapılan değerlendinne sonucunda net
+pozisyon hesaplamasında kullanılacak uzun pozisyon, gayri nakdi kredi müşterisinden doğacak 
+alacak tutarından, varsa pasif hesaplar içerisinde kendisi için ayalan özel karşılık tutarının
+çıkarılması ile bulunur.
+( 5) Her bir döviz cinsi itibarıyla; 
+a) Netleştirilmemiş uzun pozisyonları toplam tutan ile netleştirilmemiş kısa pozisyonları toplam 
+tutarından mutlak değer olarak büyük olanı özkaynağının %100'ünü ve
+b) Netleştirilmemiş uzun pozisyonları toplam tutan ile netleştirilmemiş kısa pozisyonları toplam
+tutan arasındaki farkın öz kaynaklarına oranı %2'yi
+geçmeyen bankalar, ayni dönem için kur riskine esas sermaye yükümlülüğünü 
+hesaplamayabilirler. 
+Piyasa Riskine Esas Tutarın Hesaplanması: 
+Madde 11- (l) Piyasa riskine esas tutar, standart metoda göre hesaplanan genel piyasa riski,
+spesifik risk ve kur riskinden kaynaklanan sermaye yükümlülükleri toplamının 12.5 (onildbuçuk)
+ile çarpılması suretiyle bulunur. Bulunan rakam bu amaç için risk ağırlıklı varlıklar arasında
+açılan satıra yerleştirilir. 
+(2) Bankaların kendi yapılan çerçevesinde belirledikleri diğer muhtelif riskler için ayırmayı uygun 
+buldukları sermaye yükümlülükleri toplamı (l )'inci fıkrada belirtilen usule uygun olarak 
+[SAYFA 11]
+1093
+belirlenen satıra yerleştirilir. Bu durumda, Merkez Bankası uygulanan · model ve hesaplama
+yöntemi hususlarında ayrıntılı olarak bilgilendirilir. 
+DÖRDÜNCÜ BÖLÜM
+OPERASYONEL RİSKİN HESAPLAMA ESASLARI 
+Operasyonel. Riske Esas Tutar:
+Madde 12- Operasyonel riske esas tutar, temel gösterge yöntemi, standart yöntem veya alternatif
+yöntem ile hesaplanır. Söz konusu hesaplamada standart yöntem· veya alternatif yöntemin 
+kullanılabilmesi için Merkez Bankasından izin alınması zorunludur.
+Temel Gösterge Yöntemi: 
+Madde 13 - (1) Bankanın son üç yıl itibarıyla gerçekleşen brüt gelir tutarlarının yüzde onbeşinin 
+(%15) ortalamasının 12,5 (onikibuçuk) ile çarpılması suretiyle bulunacak değer operasyonel riske
+esas tutar olarak dikkate alınır. 
+(2) Yıllık brüt gelir tutarı, yıl sonu itibariyle gerçekleşen vergi öncesi Kar tutarına karşılıklar,
+bankanın destek hizmeti aldığı kişi ya da kuruluşlara yapilan ödemeler de dahil olmak üzere
+faaliyet giderlerinin ilavesi ile bulunur. Menkul kıymetlerin (alım satım amaçlı ve vadeye kadar
+elde tutulacak) satışından kaynaklanan kar/zarar ile olağanüstü gelirler ve sigortadan tazmin
+edilen tutarlar düşülür. 
+(3) Bu maddenin (2) numaralı fıkrası çerçevesinde hesaplanacak yıllık brüt gelir tutarının negatif
+ya da sıfır olduğu yıla ilişkin brüt gelir tutarı hesaplamaya dahil edilmeksizin, pozitif olduğu
+yılların ortalaması hesaplanır. Son üç yıl boyunca yıllık brüt gelir tutarının negatif ya da sıfır
+olması halinde operasyonel riske esas tutar hesaplanmaz.
+Standart Yöntem Ve Uygulama Kriterleri: 
+Madde 14-(1) Standart yöntemde operasyonel riske esas tutar, bankanın aşağıdaki tabloda
+belirtilen faaliyet kollan itibariyle elde ettiği son üç yıla ait brüt gelirlerinin, bu faaliyet kollarına 
+karşıhk gelen oranlar ile çarpılması suretiyle bulunacak tutarlarının ortalamasının 12,5
+(onik:ibuçuk) ile çarpılması suretiyle hesaplanır. 
+[SAYFA 12]
+1094 
+Sevive 1 Sevive 2 AktMte Gruıoları %Oran 
+Kurumsal Kurup-ısal Birleşme ve devralmalara,
+Finansman Finansman özelleştirmelere, seküritasyon
+Ticari finansmanına (varlıkların menkul 
+Bankacılık kıymetleştirilmesi), araştırma, devlete,
+Belediye/Kamu kamu kurumlarına, belediyelere 
+Finansmanı doğrudan ya da borçlanma senetleri 18 
+Danışmanlık mukabili verilen krediler, sendikasyon
+Hizmetleri kredileri, ortaklık payı edinimi, 
+Danışmanı ık hizmetleri. 
+Alım- Satışlar Para ve sermaye piyasası araçlarının
+Satım Piyasa alım ve satımı, repo, ters repo 
+İşlemleri işlemleri, efektif döviz ve kıymetli 18
+Emtiaya dayalı maden işlemleri gibi hazine işlemleri 
+Pozisyonlar ile emtiaya dayalı sözleşmelerin alım 
+Hazine satımı.
+işlemleri 
+Perakende Perakende Tüketici kredi ve mevduatları,
+Bankacılık Bankacılık bankacılık hizmetleri, bireysel krediler
+Bireysel ve mevduatlar, bankacılık hizmetleri, 12 
+Bankacılık yatırım danışmanlıkları, 
+Kart Servisleri Ticari/Bireysel/Kurumsal kartlar,
+perakende servisler.
+Ticari Ticari Proje finansmanı, gayrimenkul, 
+Bankacılık Bankacılık ihracat finansmanı, ticari kredi, 15
+faktoring, finansal kiralama, kredi,
+garantiler, dış ticaret işlemleri, 
+kambiyo işlemleri. 
+Taka~ ve Banka Dışı Odeme ve tahsilatlar, para havaleleri, 18
+Ödemeler Müşteriler takas hizmetleri.
+Acente Emanet ve Sigorta acenteliği, kiralık kasa ve
+Hizmetleri Saklama saklama faaliyetleri, menkul kıymet
+Şirket kredisi. 15 
+Acenteliği
+Varlık isteğe Bağlı ve Çeşitlendirilmiş, bireysel, kurumsal,
+Yönetimi isteğe Bağlı açık, kapalı, özel fonlar
+Olmayan 12 
+Varlık Yönetimi 
+Perakende Perakende Tam yetkili bireysel aracılık hizmeti 12 
+Aracılık Aracılık 
+(2) Herhangi bir faaliyet koluna ilişkin yıllık brüt gelir tutarının negatif hesaplanması diğer bir
+faaliyet ·koluna ya da faaliyet kollarına ilişkin pozitif yıllık brüt gelir tutarlarını azaltıcı etki 
+yapabilir. Belirli bir yılda bütün faaliyet kollarına ilişkin toplam yıllık bıüt gelir tutarı negatif 
+hesaplanmış ise, o yıla ait brüt gelir sıfır olarak dikkate alınmak suretiyle ortalama hesaplanır. 
+(3) Merkez Bankası tarafından bu yöntemin kullanılabilmesi için izin verilmesinde;
+a) Banka yönetim kurulunca; 
+'i) 
+[SAYFA 13]
+1095 
+i. Operasyonel risk yönetimine ilişkin politika ve uygulama usullerinin belirlenip belirlenmediği, 
+ii. Periyodik olarak operasyonel risk yönetimine ilişkin uygulamaların kontrol edilip edilmediği, 
+b) Bankanın iç kontrol, iç denetim ve risk yönetim sistemlerinin yeterli olup olmadığı, 
+c) Bankanın, mevcut faaliyetlerinden elde ettiği brüt gelirleri bu maddenin (1) numaralı fıkrasında 
+belirtilen faaliyetler ile eşleştiren yazılı muhasebe uygulamaları ya da talimatlarının olup olmadığı 
+ve bilgi sistemlerinin bunlar ile uyumlu hale getirilip getirilmediği, 
+ç) Bankanın bilgi sistemlerinin bu maddenin (1) numaralı fıkrasında belirtilen faaliyetlerden
+kaynaklanan kar ya da zararın düzenli bir şekilde takibine imkan sağlaxacak yapıya sahip olup 
+olmadığı, 
+dikkate alınır. 
+(4) Bu maddenin (3) numaralı fıkrasının (c) bendi uyarınca banka tarafından yapılacak brüt gelir 
+tutarına ilişkin eşleştirmelerde; 
+a) Bu maddenin (1) numaralı fıkrasında belirtilen faaliyetler ile doğrudan eşleştirmenin mümkün 
+olmadığı durumlarda, bu faaliyetlerden hangisini destekleyen bir faaliyet olduğu değerlendirilir ve
+o faaliyetten sağlanan gelire dahil edilir. · 
+b) Eğer birden fazla faaliyet konusundan sağlamın bir gelirse en büyük katkısı olan faaliyetten 
+sağlanan gelir olarak hesaplamaya dahil edilir. 
+Alternatif Yöntem Ve Uygulama Kriterleri: \ 
+Madde 15-(1) Alternatif yöntemde operasyonel riske esas tutarın belirlenmesinde,
+a) Bu Tebliğin 14'üncü maddesinin (1) numaralı fıkrasında belirtilen perakende ve ticari 
+bankacılık faaliyet kolları hariç olmak üzere, söz konusu 14'üncü maddede belirtilen usul ve
+esaslar çerçevesinde diğer faaliyet kolları için brüt gelir üzerinden ortalama değer hesaplanır. 
+b) Perakende ve tic.ari bankacılık kapsamındaki kredilerin ve diğer alacakların yıl sonu
+bakiyelerinden hareketle bulunacak son 3 yıllık ortalamasının yüzde üçbuçuğu (%3,5) hesaplanır 
+ve yüzde onbeş (%15) oranı ile çarpılarak ortalama değer hesaplanır. 
+c) Bulunan her iki değerin toplanarak 12,S (onikibuçuk) ile çarpılması sonucu alternatif yönteme
+göre operasyonel riske maruz değer bulunur.
+(2) Merkez Bankasına bu yöntemin kullanılabilmesi için yapılan izin başvurularına ilişkin
+değerlendinnede bu Tebliğin 14'üncü maddesinin (3) numaralı fıkrasında belirtilen kriterler
+dikkate alınır. İzin başvurusunda bulunulabilmesi için, bankanın son üç yıl itibariyle bu Tebliğin 
+13'üncü maddesinin (2) numaralı fıkrasında belirtilen usul ve esaslar çerçevesinde hesaplanacak 
+yıllık brüt gelir tutarlarının en az yüzde 90'ının perakende ve ticari bankacılık faaliyet kollarından 
+elde edilmiş olması ve bu durumun bağımsız denetim raporu ile belgelendirilmesi zorunludur. 
+BEŞİNCİ BÖLÜM 
+DİĞER HÜKÜMLER
+Asgari Oran, Hesaplama Ve Gönderilme Dönemi: 
+[SAYFA 14]
+1096 
+Madde 16- (1) Sermaye yeterliliği standart oranı asgari %8'dit. 
+Bankalarca söz konusu oranın asgari %8 olarak tuttu~lması ve idame ettirilmesi gereklidir.
+(2) Sermaye yeterliliği standart oranının hesaplanmasında kullanılan muhasebe verileri, KKTC
+Merkez Bankası tarafından hazırlanan "Bankalarca Uygulanacak Muhasebe Standartları~ Tek 
+Düzen Hesap Planı ve İzabnamesı;;--·iİe .bankalmın hesap ve kayıt düzenlerine ilişkin diğer 
+mevzuata ve Ek 1 1 de yer alan cetvele uygun olarak düzenlenen verilerden elde edilir ve Sermaye 
+Yeterliliği Analiz Fonnunda belirtilen esaslara göre hesaplamr. 
+(3) Bankalarca mali tablolar üzerinden elde edilen sermaye yeterliliği standart oranına ilişkin 
+tabloların her ay sonu itibariyle düzenlenmesi ve en geç belirtilen tarihleri takip eden l aylık süre 
+içerisinde KKTC Merkez Ba.nkasn'na gönderilmesi gerekmektedir. 
+(4) KKTC Merkez Bankası, bankaların mali bUnyesini etkileyen diğer faktörleri de dikkate alarak, 
+asgari sermaye yeterliliiP oranının artınlmasını, banka bazında. farklı oranların uygulanmasını ve 
+hesaplama ve gönderilme dönemlerinin farklılaştınlmasım kararlaştırabilir. 
+Oransal SmırlW"a Uyumsuzluk: 
+Madde 17 -(1) Serma.ye yeterliliği standart oranının asgari oranın altında teşekkU.1 etmesi halinde, 
+hesaplanma tarihini izleyen 6 ayı geçmemek üzere Merkez Bankasınca belirlenecek süre 
+içerisinde asgari oran sıru.rlanmn sağlanması zorunludur, Bu maddenin uygulanmasında Ba.ııikalar 
+Yasasının 12. maddesinde· belirtileDt "66/1999 Sayılı İşletmelerin Sınma.ye ve Ekonomik 
+Varlıklarının Yeniden Değerlendirilmesi Yasası" altında oluşan ihtiyatlar ·nakit sennaye unsuru 
+sayılmaz. 
+{2) Yapılacak incelemelerde, bu tebliğde belirtilen standart oranların tutturulmasına yönelik uygun 
+olmayan işlemlerin yapıldığının tespiti halinde, bu işlemlere karşılık gelen tutarlar geriye yönelik 
+olarak varlık ve y(lldlmlülüklerden düşülmek suretiyle ilgili döneme ilişkin standart oranlar 
+yeniden hesaplanır. 
+Geçici Madde 1- Eylül 2007 İtibarı İle Uygulanmayf!ı Bıışlaıııı.acak HUkttmler 
+(1) Bu Tebliğin, L BöltımUnün 3.1üncü maddesinde yasal mevzuıata aykıı.n olan krediler ve 
+kredilerdeki yasal limit aşımlarının sermayeden indirilen değer olarak u:ygulanmasına, 
+(2) IlI. Bölümtınde yer alan piyasa riskine esas sermaye yükümlülüğllnüıı:ı sermaye yeterliliği 
+standart oranına dahil edilmesineı · 
+EylUl 2007 verileri itibarı ile başlanır. 
+Geçici Madde 2- Operasyonel Riskin Sermaye Y eteırliUği Stw:ııdart Onıı.ııııuuıı Dahil Edihmıesi, 
+Bu tebliğin IV. Bölümünde yer· alan · opc:rasyonel riske esas stınnaye yükümlülüğünün 
+raporlamasma Haziran 2008 verileri itibariyle başlanır, sermaye yeterliliği standart oranına Aralık 
+2008 verileri itibariyle dahil edilir. 
+[SAYFA 15]
+1097 
+Yüırüıriükten Kaldırma: · 
+Madde 18- Bu tebliğ yürürlüğe girdiği tarihten itibaren, 39/2001 Sayılı Bankalar Yasası'mn 33.
+maddesi altında, 5 Eylül 2002 tarih ve 88 sayılı Resmi Gazetede yayınlanan "Bankaların Sermaye 
+Yeterl_iliğinin Ölçülmesine ve Değerlendirilmesine İlişkin Usul ve Esaslar Hakkında Tebliğ" 
+yürürlükten kaldırılır. 
+Yü:rürlülük: 
+Madde 19 - Bu tebliğ Resmi Gazetede yayımlandığı tarihte yürürlüğe girer. 
+[SAYFA 16]
+1098
+EK: 1 
+SERMAYE YETERLİLİĞİ ANALİZ FORMU
+( .... ./.... ./....... TARİHİ İTİBARIYLE) 
+I- Ana Sermaye
+A) Ödenmiş Sermaye
+B) Kanuni Yedek Akçeler (Muhtemel Zararlar Karşılığı) 
+C) İhtiyari ve Fevkalade Yedek Akçeler
+D) Hesap Özeti'nde Yer Alan Vergi Provizyonundan Sonraki Dönem Karı ve Geçmiş Yıllar
+Karı Toplamı 
+E) Hesap Özeti'ndeki Dönem Zararı ile Geçmiş Yıllar Zararı Toplamı(-) 
+H- Katkı Sermaye
+A) Genel Karşılık 
+B) İştirak ve Bağlı Ortaklık Bedelsiz Hisseleri ile Gayrimenkul Satış Kazançları Dahil
+C) Bankanın 66/99 sayılı Yasa Çerçevesinde Yapılan Değerlemeler Sonucu Oluşan Sermaye
+Maliyeti Tutarı
+D)İştirakler, Bağlı Ortaklıklar Sabit Kıymet Yeniden Değerleme Karşılığı (Menkul Kıymetler
+Arasında İzlenilen İştirak Amaçlı Diğer Ortaklıklara İlişkin Olanlar Dahil)
+E) Alınan Sermaye Benzeri Krediler
+F) Muhtemel Riskler İçin Ayrılan Serbest Karşılıklar 
+G) Menkul Değerler Değer Artış Fonu 
+111- Sermaye ( I + II) (Tebliğde öngörülen sınırlar çerçevesinde)
+IV- Sermayeden İndirilen Değerler 
+A) Mali iştirakler ve bağlı ortaklıklar ile sermayesine katılınan diğer mali ortaklıklara ilişkin 
+tutarlar (Bu Tebliğin 3. maddesinin (1.) fıkrasının (a) bendinde sayılan kurum ve kuruluşlara 
+olan sermaye katılımları) 
+B) Özel Maliyet Bedelleri (Ana Sermayeden İndirilecektir) 
+C) İlk Tesis Giderleri ve Aktifleştirilmiş Giderler
+D) Peşin Ödenmiş Giderler (Ana Sermayeden İndirilecektir) 
+E) İştiraklerin, bağlı ortaklıkların, sermayesine katılınan diğer ortakların ve sabit kıymetlerin 
+rayiç değeri bilançoda kayıtlı değerinin altında ise aradaki fark 
+F) KKTC'de faaliyet gösteren diğer bankalara verilen "Sermaye Benzeri Krediler" 
+G}Şerefiye (Ana Sermayeden İndirilecektir) 
+[SAYFA 17]
+1099
+H) Yasal mevzuata aykın olan krediler ve kredilerdeki limit aşımları 
+V- Özkaynak (IU- IV ) 
+VI- Kredi Riskine Esas Tutar 
+A) Risk Ağırlığı %0 Olanlar 
+B) Risk Ağırlığı %20 Olanlar 
+C) Risk Ağırlığı %50 Olanlar
+D) Risk Ağırlığı %100 Olanlar 
+.~ .... \ 
+VII- Piyasa Riski + Operasyon Riski + Bankanın Madde 11 (2) çerçevesinde ayırmayı 
+uygun gördüğü sermaye yükümlülükleri 
+SERMAYE YETERLİLİĞİ STANDART RASYOSU V / (VI+VII) %
+KATKI SERMAYE/ ANA SERMAYE ( II / I) %
+ALINAN SERMA YE BENZERİ KREDİLER/ ANA SERMA YE ( H E / I ) % 
+KREDİ RİSKİNE ESAS TUTAR
+%0 RİSK AĞIRLIKLI AKTİFLER - GAYRİ NAKDİ KREDİLER VE 
+YÜKÜMLÜLÜKLER 
+- NAKİT DEĞERLER 
+a) Kasa
+b) EfektifDeposu
+c) Yoldaki Paralar 
+-BANKALAR 
+KKTC Merkez Bankası Hesabı 
+- MENKUL DEĞERLER CÜZDANI (NET) 
+a) Hazine Bonoları 
+b) Devlet İç Borçlanma Tahvilleri
+c) Hazine Kefaletiyle İhraç Edilen Menkul Kıymetler 
+d) OECD Ülkeleri Merkez Yönetimleri ile Merkez Bankalarınca ya da bunların kefaletiyle
+ihraç edilen menkul kıymetler 
+e) Altın 
+f) Vadesi Gelmiş Menkul Değerler (%0 risk ağırlığına tabi menkul kıymetlere ilişkin) 
+- BANKALAR ARASI PARA PİYASASI 
+- TERS REPO ALACAKLARI 
+[SAYFA 18]
+1100 
+% O Risk Grubunda sayılan menkul kıymetlerle teminat altına alımın ters repo alacak.lan. 
+- MEVDUAT YASAL KARŞILIKLARI 
+-KREDİLER 
+a)Nakit karşılığında verilen nakdi krediler 
+b) Hazine ile Merkez Bankası 'na verilen nakdi krediler ile Hazine kefaletini haiz nakdi 
+krediler 
+c) Hazinece veya Hazinenin kefaletiyle çıkarılan menkul kıymetler karşılığı verilen nakdi 
+krediler 
+d) OECD Ülkeleri Merkezi Yönetimleri ile Merkez Bankaları 'tun kefaletiyle verilen nakdi 
+laediler, OECD Ülkeleri Merkezi Yönetimleri ile Merkez Bankalarınca ya da bunların 
+kefaletiyle ihraç edilen menkul kıymetlerle tem.inat altına alınan nakdi krediler. 
+e) İlgili Yasanın, Kararname ve Tebliğle teşkil edilmiş fonlardan yetkili mercilerin talimatı ile 
+tahsis olunan ve riski aracı bankaya ait bnlurunaya.n fon kaynaklı nakdi krediler
+f) Bankalann kendi ihraç ettiideri menkul kıymetlerle teminat altına alınan nakdi krediler 
+- MUHTELİF ALACAKLAR 
+a) Fonlardan Alacaklar 
+b) %0 risk ağırlığına tabi menkul kıymetlerle. OECD Ülkeleri Merkezi Yönetimlerinin ve 
+Merkez Bankalartmn kefaletiyle, Hazine kefaleti ve nakit ile teminat altına alınan muhtelif 
+alacaklar · 
+c) KKTC Merkez Bankası özel hesaplan 
+- BA~I MENKUL DEĞERLER (NET) 
+%0 risk ağı.lığına tabi menkul değerlerden ballı menkul değerler atasında gösterilenler 
+- DİĞER AKTİFLER 
+a) Peşin Ödenmiş Vergiler 
+b) Özel Görev Hesaplan 
+c) OECD Ülkeleri Merkezi Yönetimleri ile Merkez Bankalm'ndan olan diğer al.apaklar, 
+OECD Ülkeleri Merkezi Yönetimleri ile Merkez Bankalan•nca garanti edilen diğer alacaklar 
+ile %0 risk ağtrhAı.na tabi Menkul Kıymetlerle, nakit ve hazine kefaletiyle teminat altına 
+alman diğer alacaklar. 
+d) Şubeler Cari Hesabı 
+e) Altm Deposu 
+- GARANTİ VE KEFALETLER 
+a) Nakit karşılığı verilen garanti ve kefaletler 
+b) Hazine ve Merkez Bankası "na kullandırılan garanti ve kefaletler ile Hazine kefaleti ile 
+verilen garanti ve kefaletler · 
+[SAYFA 19]
+1101 
+c) Hazinece veya Hazinenin kefaletiyle çıkardan menkul kıymetler karşılığı verilen· garanti ve
+kefaletler
+d) OECD Ülkeleri Merkezi Yönetimleri ile Merkez Bankaların.m kefaleti ile verilen garanti ve 
+kefaletler ile OECD Ülkeleri Merkezi· Yönetimleri ile Merkez Bankalan'nca ya da bunlann 
+kefaletiyle ihraç edilen menkul kıymetler tyminat alınarak verilen garanti ve k~faletler 
+e) Bankalann kendi ihraç ettikleri menkul kıymetlerle teminat altına alınarak verilen garanti 
+ve kefaletler (Yatının Fonu Katdma Belgeleri Hariç.) ,. 
+t) Cirolar 
+-TAAHHÜTLER 
+a) Hazinece veya. Hazinenin kefaletiyle çık.anlan menkul kıymetler, OECD Ülkeleri Merkezi 
+Yönetimleri ile Merkez Bankalarınca ya da bunların kefaletiyle ihraç edilen menkul kıymet 
+taahhütleri 
+b) Herhangi bir şarta bağlı kalı:naksızın banka tarafından, istenildiği zaman iptali mi.mık.ün 
+"caytlabilir taahhütler" ile karşılığı nakit olan "cayılamaz taahhütler''. 
+- DÖVİZ VE FAİZ HADDİ İLE İLGİLİ İŞLEMLER ( Döviz ve faiz haddi ile ilgili 
+işlemlerde 1 %0 risk ağırlığına tabi kredilerin özelliğine benzer özelliği olan karşı taraftarı. 
+alacaklara ilişkin tutarlar-kredi dönflşlli.n oram ile ağırlıklandmlmış tutarlar) 
+- FAİZ VE GELİR T ABAKKUK VE REESKONTLARI (%0 risk ağırlığına tabi tutulan 
+kalemlerin) . 
+AK'J1FLE . NAKDİ KREDİLER 
+- NAKİTDEÖERLER 
+OECD Ülkeleri bankalarınca keşide edilen satın alınan yabancı para banka çekleri 
+-YURT İÇİ!, YURT DiŞi BANKALAR, YURT DIŞI MERKEZ VE ŞUBELER 
+a) KKTC'de faaliyette bulunan bankalar nezdindeki hesaplar 
+b) OECD ülkelerinde kurulu yurt dışı bankalar nezdinde herhangi bir şekilde teminata 
+verilmemiş, bloke edilmem.iş, vade haricinde bankanın tamamen serbest tasarrufunda bulunan 
+mevcutlar. 
+c) KKTC'de faaliyette bulunan yabancı bankaların yurt dışındaki merkez ve diğer şubeler 
+nezdindeki hesaplar " · 
+- MENKUL DE<;ERLER CÜZDANl(Net) 
+a) Vadesi Gelmiş Menkul Değerler (%20 risk a~ırlığına tabi menkul kıymetlere ilişkin) 
+b) Yatırım Fonu Katılım Belgeleri ~ 
+c) OECD ülkeleri bankalarınca ihraç edilen ya da garanti edilen menkul kıymetler 
+- TERS REPO İŞLEMLERİNDEN ALACAKLAR 
+%20 Wsk grubunda yer alan menkul kıymetlerle teminatlandınlmış Ters Repo işlemlerinden 
+[SAYFA 20]
+alacaklar, 
+-KREDİLER 
+1102 
+a) OECD ülkeleri bankalarının mukabil kefaletlerine dayanılarak verilen krediler
+b) OECD ülkeleri bankalarınca veya bu bankaların kefaletiyle ihraç edilen menkul kıymetler 
+teminat alınarak verilen nakdi krediler 
+c) Risk bazlı sermaye yükümlülüğü dahil olmak üzere koruyucu denetim ve düzenlemelere 
+tabi olan OECD ülkeleri sermaye piyasası aracı kurumlarına verilen veya bu aracı kurumların 
+kefaleti veya garantisiyle verilen nakdi krediler 
+- MUHTELİF ALACAKLAR 
+Risk bazlı sennaye yükümlülüğü dahil olmak üzere koruyucu denetim ve dfizenlemelere tabi 
+olan OECD ülkeleri sermaye piyasası aracı kurumlarından alacaklar veya bu aracı kurumların 
+kefaleti veya garantisiyle teminat altına. alınan muhtelif alacaklar 
+- BAĞLI MENKUL DEĞERLER (Net) 
+%20 risk ağırlıklı menkul değerlerden bağlı menkul değerler arasında gösterilenler 
+- GARANTİ VE KEFALETLER
+a) OECD ülkeleri bankalarının mukabil kefaletlerine dayaw.larak verilen garanti ve kefaletler 
+b) OECD ülkeleri bankalarınca veya bu bankaların kefaletiyle ihraç edilen menkul kıymetler 
+teminat alınarak verilen garanti ve kefaletler 
+c) Geçici ve kesin tem.inat mektuplan (%0 risk ağırlığına tabi olanlar haricindekiler)
+d) Bir yılın altında vadeye sahip 7 kendi kendine itfa olan ve bir "yükleme" yükümlfllnğü ile 
+teminatlandınlınış ''akrediti.flern 
+-TAAHHÜTLER 
+Diler "cayılabilir taahhütler" 
+- DÖVİZ VE FAİZ HADDİ İLE İLGİLİ İŞLEMLER (Döviz ve faiz haddi ile ilgili 
+işlemlerde, 
+%20 risk ağırlığına tabi kredilerin özelliğine benzer özelliği olan karşı taraftan alacaklara 
+ilişkin tutarlar~kredi dönüştlın oranı ile ağırhklandmlmış tutarlar) 
+- FAİZ VE GELİR TAHAKKUK VE REESKONTLARI (%20 risk ağırlığına tabi
+tutulan kalemlerin) 
+I AKTİFLE GAYRİ NAKD. KREDİLER VE 
+-KREDİLER 
+a) İkamet amacıyla kullanılan gayri menkullerin 1 ~inci derece ipoteği karşılığı verilen nakdi 
+lcrediler 
+b) Belediye sınırları dahilindeki tapulu arsa ve arazilerin l 'inci derece ipoteği karş1lığı verilen
+nakdi krediler 
+[SAYFA 21]
+1103 
+- GARANTİ VE KEFALETLER
+a) Diğer teminat mektuplan (%0 ve %20 risk ağırlığına tabi tutulanlar haricindekiler)
+b) İkamet amacıyla kullanılan gayrimenkullerin l 'inci derece ipoteği karşılığı verilen garanti
+ve kefaletler
+c) Belediye sınırlan dahilindeki tapulu arsa ve arazilerin l 'inci derece ipoteği karşılığı verilen
+garanti ve kefaletler
+d) Diğer akreditifler (%0 ve %20 risk ağırlığına tabi tutulanlar haricindekiler) 
+-TAAHHÜTLER 
+a) Senet ihracına aracılık taahhütleri
+b) Diğer cayılamaz taahhütler (%0, ve % 100 risk ağırlığına tabi olanlar hariç)
+1
+- DİĞER NAZIM HESAPLAR 
+Menkul değerler ihracına aracılık ve kefalet işlemleri 
+- FAİZ VE GELİR TAHAKKUK VE REESKONTLARI (%50 risk ağırlığına· tabi
+tutulan kalemlerin)
+%100 RİSK AĞIRLIKLI AKTİFLER. GAYRİ NAKDİ KREDİLER VE
+YÜKÜMLÜLÜKLER
+- NAKİT DEĞERLER 
+a) Vadesi gelmiş menkul değerler (%100 risk ağırlığına tabi menkul kıymetlere ilişkin) 
+b) Satın alınan diğer yabancı para banka çekleri
+-YURT İÇİ, YURT DIŞI BANKALAR, YURT DIŞI MERKEZ VE ŞUBELER 
+%20 risk ağırlığı dışında kalan yurt dışı bankalar ile OECD ülkelerinde kurulu yurtdışı 
+bankalar nezdinde teminata verilmiş, bloke edilmiş, bankanın serbest tasarrufunda
+bulunmayan mevcutlar dahil 
+- MENKUL DEĞERLER CÜZDANI (Net) 
+Diğer menkul değerler 
+-TERS REPO İŞLEMLERİNDEN ALACAKLAR
+% 100 risk grubunda yer alan menkul kıymetlerle teminatlandırılmış Ters Repo işlemlerinden 
+alacaklar. 
+-KREDİLER
+Diğer Nakdi Krediler 
+-TAKİPTEKİ ALACAKLAR (Net) 
+- SABİT KIYMETLER -(Net) (Finansal kiralama anlaşması kapsamında kiracı olarak 
+kullanılanlar ve alacaklardan dolayı edinilen inenkul ve gayrimenkuller dahil )
+- İŞTİRAKLER, BAĞLI ORTAKLIKLAR VE BAĞLI MENKUL DEĞERLER 
+l 
+[SAYFA 22]
+1104 
+a) Mali olmayan iştirak ve hallı ortaklıklara ilişkin hisseler 
+b) %0 ve %20 risk ağırJıJdı.J,ağlt m~ değerler hariç, diler bağlı menkul değerler 
+. -MUHTELiF ALACAKLAR 
+Diğer risk gruplarına girmeyen muhtelif alacaklar 
+- DİÖER AKTİFLER ("İlk tesis giderleri", "özel görev hesaplan", "peşin ödenmiş 
+giderler"\ •~eşin 5denmiş vergiler hesabı", "OECD Ulkeleri merkezi yönetimleri ile Merkez 
+Bankalarından olan diğer alacaklar ve OECD ülkeleri merkezi yönetimleri ile Merkez 
+Bankalennca garanti edilen diğer alacaklar'', "şubeler cari hesabı", ••attın deposu", "%0 risk 
+ağırlıiJ.na tabi menkul kıymetlerle, nakit ve hazine kefaleti ile teminat altına alınan diler 
+alacaklar'' hariç hesap özetinin "Diğer .Aktifler• bqliklı bölümü kapsamındaki diğer hesaplar) 
+- GARANTİ, KEFALETLER ve TAAHÖTLER 
+a) Diler risk gruplarında bir garanti olarak risk ağu'lıAma tabi tutulmamış "Banka Kabulleri" 
+b) Dii(,r risk gnıplaruıda bir garanti olarak risk ağırlığına. tabi hltulmamış 0 Garanti V eriten· 
+.Prefinansmanlar'' 
+.. 
+c) Diler risk gruplarında bir garanti olarak risk ağırlığı.na tabi tutulmamış 1
+1liski Bankaya 
+RücU Edilebilen Banka Aktif Delerleri ile İlgili SatıJ İflemleri" .
+d) Verilen diğer garanti, kefaletler v-e taahhütler (%0~ %20t %50 risk aiJ,rlığına tabi tutulanlar 
+haricindekiler) 
+- DÖVİZ VE FAİZ HADDİ İLE İLGİLİ İŞLEMLER (DIJviz ve faiz haddi. ile ilgili 
+itlemlerde, %100 risk a.Atrhtma tabi kredilerin özellilbıe benzer özelliği olan karşı taraftan 
+alacaklara ilişkin tutarlar-kredi dönQşUm oram ile ağırhklandmlmı, tutarlar) 
+- FAİZ VE GELİR TAHAKKUK VE REESKONTLARI ( %100 risk aAtrhğı:aa tabi 
+tutulan kalemlerin) 
+- TEBLİÖİN 4. MAllDESİNIN S. FIKRASINDA AÇIKLANDIÔI -0ZERE BU
+CETVELDE RİSK AĞIRLI~! VERiLMEMİŞ OLAN HESAPLAR 
+[SAYFA 23]
+VADE MERDİVENİ TABLOSU 
+PARA.CİNSİ: •••••••••••••••• ' ,--;, 
+in YTL 
+ZAMAN ARALIKLARI 
+VADE DİLiMLEJ.U 
+cxo,ıo· 
+OPLAM SERMAYE YÜKÜMLÜLiJĞt} 
+1 
+AY
+o 
+._ .. 
+Ek-2 
+XXXBANKASI 
+... . .ı ..... .ı ..... . .trtBARiYLE 
+Faiz Oram Riski/ Genel Piyasa Riski 
+ZAMAN ARALIĞI I
+1-3
+AY 
+3-6 
+AY
+6-12 
+AY 
+ZAMAN ARALI<il il 
+1-2
+YIL
+2-3 
+YIL 
+3-4 
+YIL 
+4-S 
+YIL 
+S-1 
+YIL 
+ZAMAN ARALIĞI m 
+7-10
+YIL 10-ıs J is-~o 
+YIL YIL 
+2o+ 
+YIL 
+0,002 I O~~-H 0,0125 j (M)l~,022S il 0.0275 1 0,032S 1 0,0375 1 0,0450 1 0,0S2LLJl,06 
+- - o Vı 
+~-.--- 
+[SAYFA 24]
+HE
+ŞE olals :
+BERR" CER
+ll
+HER
+O lt
+2 0Raz
+K. :
+
+[SAYFA 25]
+li!I 
+1107 
+Sayı: 584

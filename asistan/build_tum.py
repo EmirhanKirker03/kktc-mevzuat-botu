@@ -223,7 +223,12 @@ def trbaslik(x):
     x = re.sub(r'(^|[\s()\-–/"])(\w)', lambda m: m.group(1) + ('İ' if m.group(2) == 'i' else m.group(2).upper()), x)
     return re.sub(r'(?<=\s)(Ve|İle|Veya)(?=\s)', lambda m: m.group(1).replace('İ', 'i').lower(), x)
 TUR_AD = {'tuzuk': 'Tüzük', 'emirname': 'Emirname', 'yonetmelik': 'Yönetmelik', 'teblig': 'Tebliğ'}
+def _aekey(n):
+    m = re.search(r'(\d+)\s*[-/]\s*(\d{4})', str(n)); return (int(m.group(1)), m.group(2)) if m else None
+# Yüksek Mahkeme sisteminde metni bulunan tüzükler Resmî Gazete'den ikinci kez eklenmez (A.E. sayısı/yılı aynı)
+YM_TZ = {_aekey(y['n']) for y in yasalar if y.get('tz') and not y.get('ks') and y.get('m') and _aekey(y['n'])}
 for g in RGK:
+    if _aekey(g['ae']) in YM_TZ: istat['rg atlandı (Yüksek Mahkeme metni var)'] += 1; continue
     t = onar.onar(open(os.path.join(REPO, g['metin_dosyasi']), encoding='utf-8').read().replace('\ufffd', ''), ONAR)
     t = re.sub(r'\[SAYFA \d+\]\n?', '\n', t)
     try: ms = ayir(t, 0)

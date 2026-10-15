@@ -1,0 +1,795 @@
+KUZEY KIBRIS TÜRK CUMHURİYETİ MERKEZ BANKASI YASASI
+i (41/2001 Sayılı Yasa)
+Madde 5(1)(E), 5(4) ve 51(1)(H) Altında Tebliğ
+Kuzey Kıbrıs Türk Cumhuriyeti Merkez Bankası, 41/2001 sayılı Merkez Bankası Yasasının
+5(1)(E), 5(4) ve 51(1)(H) maddelerinin kendisine verdiği yetkiye dayanarak aşağıdaki
+Tebliği yapar:
+Kısa İsim 1. Bu Tebliğ, “Takas Odası (Değişiklik) Tebliği” olarak isimlendirilir ve
+“Esas Tebliğ” olarak anılan “Takas Odası Tebliği” ile birlikte okunur.
+R.G. 180
+04.09.2024
+EK Il
+A.E. 743
+Esas Tebliğin Geçici 2. Esas Tebliğ, Geçici 2'nci maddesi kaldırılmak ve yerine aşağıdaki
+2'nci Maddesinin yeni Geçici 2'nci madde konmak suretiyle değiştirilir:
+Değiştirilmesi
+“Geçici Madde 2. Sistem, 21 Mayıs 2026 tarihine kadar kurulur.
+. . Takas işlemleri sistemin kurulup, işletmeye
+Sistemin v i sira YARN
+alınacağı tarihe kadar, bu tebliğin yürürlüğe
+Kurulumu girdiği tarihten önceki mevzuat çerçevesinde
+gerçekleştirilmeye devam edilir.”
+Yürürlüğe Giriş 3. Bu Tebliğ, Resmi Gazetede yayımlandığı tarihten itibaren yürürlüğe
+girer.
+Sayı : 306
+KKTC SİVİL HAVACILIK DAİRESİ
+SAYI:5/2013 HAVA LİMANLARI HİZMETLER VE LİMANLAR (ÜCRETLERİ)
+YASASI
+(11/2020 sayılı Değişiklik Yasasıyla Değiştirilmiş ve Birleştirilmiş Şekliyle İkinci Kısım,
+Madde 6.1 Altında Çıkarılan Talimat)
+UÇAK KAZA KIRIM KURTARMA VE YANGINLA MÜCADELE TALİMATI
+Doküman Kodu: 018
+Yayınlanma Tarihi:
+Yürürlük Tarihi:
+
+[SAYFA 53]
+991 
+ERCAN HAV ALİMANI UÇAK KAZA KIRIM Tarih:
+KURTARMA VE YANGINLA MÜCADELE TALİMATI Revizyon No:
+Sayfa: I 
+UÇAK KAZA KIRIM KURTARMA VE YANGINLA MÜCADELE TALİMATI 
+SAYI:5/2013 HAVA LİMANLARI HİZMETLER VE LİMANLAR (ÜCRETLERİ) 
+YASASI
+(11/2020 sayılı Değişiklik Yasasıyla Değiştirilmiş ve BirleştiriJmiş Şekliyle İkinci Kısım, 
+Madde 6.1 Altında Çıkarılan Talimat)
+1. AMAÇ: 
+Bu talimatın amacı , Uluslararası Sivil Havacılık Örgütü (ICAO) tarafından yayımlanmış 
+olan standart ve önerilen uygulamalar çerçevesinde, havalimanlarımız ve yakın çevresinde
+meydana gelebilecek uçak kaza kırım ve yangınları ile havalimanlarımızda bulunan bina
+ve tesislerde çıkabilecek yangınlara karşı havalimanlarında verilmekte olan kurtarma ve 
+yangınla mücadele (ARFF) hizmetlerinin usul ve esaslarını düzenlemektir. 
+2. KAPSAM 
+Bu talimat, Havalimanlarıınız ve çevresinde meydana gelebilecek uçak kaza kırım ve 
+yangınlara karşı uluslararası ve ulusal mevzuatlar çerçevesinde alınacak tedbirler ile yerine
+getirilecek iş ve işlemlerde Meydan İtfaiye Şubesinin görev ve yetkilerini kapsar. 
+3. SORUMLULUK: 
+Bu talimat hükümlerinin uygulanmasından Daire ve Meydan İtfaiye Şube Amirliği 
+sorumludur.
+Bu talimatın hazırlanmasından ve içeriğinin takibinden Daire sorumludur. 
+Havaliınanı İşletmecisi, 'Ercan Havaliınanı İşletme Haklarının Devri İhale ' şartname , ek 
+sözleşmeler, zeyilnameler ve zeyilnaıne ekleriyle yapılmış düzenleme hükümlerince,
+Meydan İtfaiye Şubesi araç, gereç ve her türlü ekipmanın tedarik, balcım ve onarımından 
+sorumludur. 
+4. TANIM VE KISALTMALAR:
+Acil Durum: Havaliınanında, normal hizmet akışı dışında, personel, araç, gereç ve
+malzeme kullanımı, takviyesi, ilgili kurum ve kuruluşlarla iş birliği ve koordinasyonu
+gerektiren, emniyet, kaza-kırım yangın yahut kurtarma ile ilgili her türlü durumu anlatır. 
+Acil Durum Tatbikatı: Planın etkinliğinin arttırılması için Acil Durum Planının test
+edilmesi ve sonuçlarının gözden geçirilmesi için düzenlenen tatbikatı anlatır. 
+Alarm: Bir acil durumun ilgili birimlere en seri muhabere vasıtaları ile duyurulmasını
+anlatır. Çeşitleri;
+► 1 Numaralı Alarm: Havalimanı referans noktası merkez olmak üzere ulaşım imkanları 
+bulunan 8 km. yarıçaplı bir alan içerisinde meydana gelen uçak kazalarını bildirir ve
+uzun süreli 1 z il sesi ile duyurulur. 
+► 2 Numaralı Alarm: Havalimanı referans noktası merkez olmak üzere 8 km. yarıçaplı 
+bir alan dışında veya ulaşım güçlükleri bulunan bölgelerde meydana gelen uçak 
+kazalarını bildirir ve kısa süreli 2 zil sesi ile duyurulur. 
+[SAYFA 54]
+992 
+ERCAN HA VALİMANI UÇAK KAZA KJRIM Tarih:
+KURTARMA VE YANGINLA MÜCADELE TALİMATI Revizyon No:
+Sayfa: 2 
+► 3 Numaralı Alarm: Uçuş güvensizliği, herhangi bir temasta bulunmadan inişe geçen
+uçaklar, yasa dışı eyleme veya iltica, bomba ihbar ve tehditleri sebebiyle gerçekleşen 
+acil durumlar olup, kısa süreli 3 zil sesi ile duyurulur. 
+► 4 Numaralı Alarm: Uçak kazaları dışındaki bina ve tesis yangınlarını bildirir, kısa 
+süreli 4 zil sesiyle duyurulur. 
+Apron: Bir havalimanında uçakların park etmesi, akaryakıt ikmali, yük, posta, kargo, yolcu
+indirme-bindirme işlemleri için ve uçağın bakımının yapılabilmesi için kullanılan alanı
+anlatır. • 
+Bekleme Noktası: Acil durumun çeşidine göre kurtarma ve yangınla mücadele ekiplerinin
+daha etkin olabilmeleri için hazır bulundukları bölgeleri anlatır . Çeşitleri;
+► Mahalli Bekleme Noktası (Local Standby): Tehlikenin henüz önemli boyutlara 
+ulaşmadığı hallerde kurtarma ve yangınla mücadele ekiplerinin yangın istasyonu veya 
+yakın çevresinde hazırlıklı olarak beklediği yerlerdir. 
+► Tam Acil Bekleme Noktası (Full Emergency Standby): Tehlikenin önemli boyutlara 
+ulaşması halinde kurtarma ve yangınla mücadele ekiplerinin uçak cinsine ve maruz 
+kaldığı acil duıumun konusuna bağlı olarak pist kenarlarında önceden seçilerek 
+hazırlıklı olarak beklediği yerlerdir. 
+► Uçak Kaza Ve Kırım Bölgesi (Aircraft Accident Area): Hareket sahaları ve 
+yakınlarında uçak kazasının meydana geldiği bölgedir. 
+Daire: Sivil Havacılık Dairesini anlatır.
+Havalimanı İşletmecisi: Havalimanı çalıştırma sertifikası sahibi ve havalirnanı
+işletmesinden sorumlu kurum ve kuruluşlar ile gerçek veya tüzel kişileri anlatır .
+İlk yardım: Herhangi bir olay nedeniyle sağlığı tehlikeye girmiş olan kişilere tıbbi yardımı 
+yapacak sağlık personeli gelinceye kadar olayın gerçekleştiği yerde, hayatın kurtarılması 
+ya da durumun kötüleşmesini önlemek amacıyla, eldeki imkanlarla ilaçsız olarak yapılan 
+müdahaleyi anlatır. 
+Kareli Harita: Havalimanı, referans noktası merkez olmak üzere 8 km. yarıçaplı alan
+içinde yangın söndürıne araçlarının herhangi bir noktaya kısa sürede ulaşmasını sağlamak 
+için, nuınaralandınlıp hava alanının karelere ayrılmış haritayı anlatır.
+Kırım: Uçağın çalışması ile ilgili olarak, düzeltilmediği takdirde güvenliği etkileyebilecek
+olan vakadır, kaza değildir. Kırım, bir kişinin ciddi bir şekilde yaralanınası ile veya uçağın 
+ciddi bir şekilde hasar görmesi ile sonuçlanmayan durumu anlatır.
+Kısmi Tatbikat: Etkililiği arttırmak için gerekli olduğu şekilde Havaalanı Acil Durum 
+Planının bir ya da birden fazla katılımcısıyla yapılan tatbikatı anlatır. 
+Pist: Uçağın kalkması veya inmesi için hazırlanan, havalimanında belirlenıniş dikdörtgen 
+alanı anlatır. 
+[SAYFA 55]
+993 
+ERCAN HAV ALİMANI UÇAK KAZA KIRIM Tarih:
+KURTARMA VE YANGINLA MÜCADELE TALİMATI RevizyonNo:
+Sayfa: 3 
+Randevu Noktası: Yol kavşağı, kesişen yol ya da başka bir yerde belirlenmiş, acil duruma
+müdahale edecek personel ve araçların uçak kaza-kırımında olay yerine gitmeden önce
+talimat almaları için konuşlandıkları önceden belirlenmiş yerleri anlatır. 
+Referans Noktası: Havalimanının coğrafi pozisyonu belirlemniş bir noktayı anlatır. 
+Tatbikat: Bir acil durum veya afet halinde yapılması planlamnış olan müdahale sürecinde
+yer alacak eylemlerin uygunluğunu, yeterliliğini ve güncelliğini mümkün olduğunca
+gerçeğe yakın koşullar altında ve bir senaryoya bağlı kalarak denemek amacıyla yapılan
+uygulamayı anlatır. 
+Triyaj: Çok sayıda hasta ve yaralının bulunduğu durumlarda, bunların öncelikli tedavi ve
+nakil edilmesi gerekenlerin tespiti amacıyla olay yerinde veya bunların ulaştırıldığı her 
+sağlık kuruluşunda yapılan hızlı seçme ve kodlama işlemini anlatır. 
+Uçak Kazası: Uçağın çalışması sırasında, herhangi bir insanın ölmesi veya ciddi bir şekilde
+yaralanması ya da uçağın hasar görmesi ile sonuçlanan kazayı anlatır. 
+Yanma: Yeterli miktarda ısı, oksijen ve yanıcı maddenin bir araya gelerek kimyasal
+reaksiyon meydana getirmesini anlatır .
+Yangın: Yanma olayının kontrol dışına çıkarak devam etmesini anlatır . 
+5. UYGULAMA ESASLARI:
+5.1.Temel İlkeler:
+Havalimanı uçuş faaliyetlerine açık olduğu sürece, Meydan İtfaiye Şubesi uluslararası 
+kurallar gereği tam kapasiteyle göreve hazır şekilde havalimanında bulunmak zorunda 
+olduğundan ve görev alanını terk etmesi mümkün olamayacağından, yalnız tabi afetler ve 
+geniş kitleleri etkileyen toplumsal olaylarda kuruluşlara şartlı olarak yardımda bulunabilir.
+Böyle bir durum söz konusu olması halinde Dairenin yazılı direktifi doğrultusunda ve
+Meydan İtfaiye Şubesi Amirinin koordinesiyle, uçak trafiği ve havalimanı yangın emniyeti
+ile müdahalede bulunacak olan personel ve araçların güvenliği de dikkate alınarak Daire 
+tarafından kurtarma ve yangınla mücadele aracı görevlendirilebilir. Havalimanında
+sağlanan ve AJP'de (Aeronautical Information Publication) yayınlanmış olan koruma
+seviyesinde bir değişiklik olması halinde ise, havalimanı kurtarma ve yangınla mücadele
+kategorisinin yeni seviyesi ivedi notamla duyuıulur.
+Kurtaıma ve yangınla mücadele araçlarının Havalimanı hudutları içinde göreve sevkinden
+Meydan İtfaiye Şube Amiri veya Meydan İtfaiye Şubesi Ekip şefi sorumludur. Havalimanı
+sınırları dışında meydana gelebilecek uçak kaza kırım ve yangınlarına Dairenin onayıyla 
+ICAO Doc. 913 7 Part 1'de öngörülen hususlar dikkate alınarak müdahale edilecektir.
+ARFF araçlarının bakım-onarım, vb. durumlarda havalimanı sınırları dışına çıkmalarının 
+zorunlu olduğu hallerde Daireden onay alımnak suretiyle karayollarına çıkışları
+sağlanacaktır. Araç tahsisi/geçici görevlendiıme vb. sebeplerle iller arası nakillerinin 
+[SAYFA 56]
+994 
+ERCAN HAV ALİMANI UÇAK KAZA KIR.Il\.1 Tarih:
+KURTARMA VE YANGINLA MÜCADELE TALİMATI Revizyon No:
+Sayfa: 4
+zorunlu olduğu durumlarda ise Dairenin onayı ile nakil aracı üstünde veya Karayollan
+Trafik Kanununda belirtilen şekilde karayoluna çıkışları sağlanacaktır. 
+Kurtarma ve Yangınla Mücadele hizmetlerinin yürütülmesi amacıyla havalimanlarında işe 
+yeni alınan ARFF personeli öncelikle ICAO'ca belirlenen standart ve önerilen uygulamalar
+ile uçak kaza-kırım ve yangınlarına müdahale edilmesi amacıyla temin edilen araç, malzeme
+ve ekipmanların kullanımı ve bakımı konularında belirtilen temel eğitimi alacak, ayrıca 
+mevcut bilgilerini tazelemek ve havacılık sektöründeki teknolojik gelişmeleri takip etmek 
+amacıyla meslek yaşamları boyunca kesintisiz bir şekilde ilgili mevzuatlar tarafından
+tanımlanan teorik ve uygulamalı iş başı eğitimlerine tabi tutulacaktır .
+Havalimanları, Kurtarma ve Yangınla Mücadele Personelinin pratik tecrübelerini artırmak,
+yangınla mücadele taktiklerini geliştirmek ve ARFF araçlarının performanslarını test etmek
+üzere, önceden hazırlanan gerçek koşullara benzetilmiş acil durum senaryoları 
+çerçevesinde, yanıcı ve söndüıücü malzeme kullanarak yılda en az I kez Ateşli Yangın
+Tatbikatı yapılmaktadır .
+Havalimanı güvenliğine yönelik sivil havacılığa karşı yapılan yasa dışı eylemlere, (bomba
+ihbar ve tehditleri, uçak kaçırma vb.) tehlikeli maddelerin oluşturduğu kazalara ve doğal 
+afetlere hazırlık için yaz-laş ve gece-gündüz şartlarında yapılması gereken tatbikatlarda, 
+havalimanı ve yakın çevresinde meydana gelebilecek uçak kaza ve yangınlarında
+kullanılmak üzere bulundurulan su haricindeki temel (köpük) ve tamamlayıcı (kuru kimyevi
+tozlar) söndürme malzemeleri kullanılmayacaktır . 
+Muhtemel harekat tarzı planı kapsamına giren havacılık güvenliği ile ilgili durumlara
+(bomba ihbar ve tehditleri, uçak kaçırma vb.) yönelik tatbikatlar Emniyet birimleri
+uhdesindedir. Ancak Havaliınanı İşletmecisi, Meydan İtfaiye Şubesince gerçekleştirilen
+ateşli yangın tatbikatlarından ayrı olmak üzere, Doc. 913 7 Kısım 7 Bölüm 13 'te yer alan
+gereklilikleri dikkate alarak farklı senaryolar çerçevesinde her iki yılda en az bir kez geniş
+katılımlı, her yıl en az bir kez dar katılımlı ve yılda en az iki kez de masaüstü acil durum 
+tatbikatı yapılmasını sağlar. Havaalanı işletmecisinin , geniş katılımlı acil durum tatbikatı
+yaptığı yıllarda dar ve masaüstü tatbikatları yapmasına gerek yoktur. Acil duıum tatbikatları 
+(SHT-ADP) de belirtilen esaslar doğrultusunda yapılacaktır.
+Havalimanında görev yapan kurtarma ve yangınla mücadele personelinin eğitimleri ile 
+yangın söndürme araçlarının perforınanslarının denenınesi amacıyla ayda en az 1 defa
+köpük kullanılacak ve kullanılan köpük miktarları Aylık Faaliyet Raporuna belirtilerek depo 
+mevcutlarından düşürülecektir.
+Yapılacak görevde karışıklığın önlenınesi için, Meydan İtfaiye Ekip Şefi tarafından görev 
+başlamadan önce "Nöbetçi Ekip Personelinin Görev Dağılım Formu" tanzim edilerek,
+Meydan İtfaiye Şube Amirliği faaliyet panosuna asılacaktır.
+Havalimanlarının Kurtarma ve Yangınla Mücadele Üniteleri günlük yapılan işlerin kayıt
+altına alınınası amacıyla, Kurtarma ve Yangınla Mücadele Hizmetleri Günlük Kontrol ve
+Görev Devir Teslim Formunu tanzim edeceklerdir.
+Öngörülen müdahale süresinin sağlanabilmesi amacıyla Daire bilgisi dahilinde yılda en az
+2 kez (gece ve gündüz şartlarında) müdahale süresinin sağlanıp sağlanamadığına dair 
+[SAYFA 57]
+995 
+ERCAN HAV ALİMANI UÇAK KAZA KIRlM Tarih:
+KURTARMA VE YANGINLA MÜCADELE TALİMATI Revizyon No:
+Sayfa: 5
+kurtarma ve yangın söndürme araçlarıyla testler yapılacak olup, yapılan testler sonrasında 
+düzenlenecek olan raporlar/tutanaklar/formlar bir dosya içerisinde muhafaza edilecek ve bir 
+kopyası da Daireye gönderilecektir. Müdahale süresi ile ilgili aksaklık tespit edilmesi
+halinde, müdahale süresinin sağlanmasına yönelik gerekli önlemler alınarak bu durum
+Daire'ye bildirilecektir.
+Daire, havalimanlarında kurtarma ve yangınla mücadele hizmetlerini yürütmek amacıyla 
+istihdam edilen tüm ARFF personelinin hizmetlerinden; herhangi bir ayırım yapılmadan 
+hem kurtarma ve yangınla mücadele hizmetlerinin yürütülmesi, hem de ARFF ünitelerinde
+bulunan özel donanımlı kurtarma ve yangın söndürme araçlarıyla ilgili "araç sürücüsü"
+olarak istifade edilecektir. Mevcut araçları kullanabilecek niteliklere ve kullanacağı araçlara
+uygun sürücü belgesine sahip olan ARFF personeli, kurtarma ve yangın söndürme 
+araçlarının kullanılması konusunda tecrübe kazanmaları amacıyla "İŞ BAŞI
+EĞİTİMLERİ'' ne tabi tutulacak ve eğitimler somasında Daire tarafından yeterli olduğu 
+tespit edilenlere, "PAT Sahalarında Araç Kullanma Belgesi" tanzim edilerek araç 
+kullanmalarına müsaade edilecektir. 
+Ayrıca ARFF personeli, yürüttüğü kurtarma ve yangınla mücadele hizmetleri ile bu
+hizmetlerin yürütülmesinde kullanılan kurtarına ve yangınla mücadele araçları ile bunların
+yangın söndürme sistemleri, malzemeler ve ekipmanların kullanılabilmesi için mesleği
+gereği ihtiyaç duyulan belgeleri almak zoıundadır. 
+ICAO Doc. 9137-AN/898 PART 7 (Havaalanı Acil Duıum Organizasyonu) ve SHT-ADP 
+Talimatı çerçevesinde hazırlanması gereken Havalimanı Acil Duıum Planı gereği yapılması 
+gereken tatbikatlar ARFF üniteleri tarafından takip ve koordine edilecektir. 
+Havalimanı Kurtarma ve Yangınla Mücadele (ARFF) hizmetinin başlıca amacı,
+havalimanlarında veya yakın çevresinde meydana gelen hava aracı kazasında hayat 
+kurtarmaktır. ARFF hizmeti, hayatta kalma koşullarının oluşturulması ve muhafaza
+edilmesi, hava aracının içindekiler için çıkış yollarının temin edilmesi ve hava aracının 
+içinde olup doğıudan yardım olmaksızın kaçmayı başaramayan kişilerin kurtarılmaya
+çalışılması amacıyla sağlanmaktadır. 
+Bu hizmet sağlanırken, aşağıdaki durumların herhangi birinde meydana gelebilecek bir 
+yangını söndünne olasılığı ve ihtiyacı daima göz önünde bulunduıulmalıdır. 
+a) Herhangi bir hava aracının inişi, kalkışı, taksi yapması, konaklaması vb. operasyonları
+gerçekleştirdiği sırada, 
+b) Herhangi bir hava aracı kazasının veya olayının hemen ardından veya
+c) Kurtarma operasyonları sırasında/süresince herhangi bir zamanda,
+Herhangi bir hava aracı kazasında yakıt tanklarının zarar görmesi halinde, buharlaşma
+oranı yüksek yakıtın ve uçakta kullanılan diğer yanıcı maddelerin etrafa dağılarak; sıcak 
+metal parçalan ile temas etmesi ya da enkazın hareket ettirilmesinden kaynaklanan 
+kıvılcımlardan, elektrik devresinin hasar göımesinden dolayı son derece yüksek bir 
+tutuşma olasılığı bulunmaktadır. Aynca yangınlar, yer teması veya yakıt ikmali sırasında
+birikmiş elektrostatik yüklerin boşaltılması nedeniyle de meydana ,gelebilir. Hava aracı 
+[SAYFA 58]
+996 
+ERCAN HAV ALİMANI UÇAK KAZA KIRIM Tarih:
+KURTARMA VE YANGINLA MÜCADELE TALİMATI Revizyon No:
+Sayfa: 6 
+yangınlarının ayırt edici bir özelliği, oldukça kısa bir süre içerisinde öldürücü yoğunluğa
+ulaşmasıdır. Bu duıum, doğıudan müdahil olanların yaşamları için ciddi bir tehlike 
+oluşturmakta olup, kurtarma veya tahliye çalışmalarını engelleyebilir.
+Bu nedenle, havalirnanında veya yalan çevresinde meydana gelen bir hava aracı kazasına 
+derhal müdahale etmeye yönelik yeterli ve özel olanakların Sağlanması büyük önem 
+taşımaktadır. Çünkü hayat kurtarma ihtimali en fazla bu zaman dilimi içerisinde 
+bulunmaktadır. 
+Kurtarma operasyonunu etkileyebilecek hava aracı yangınlarının büyüklüğü;
+► Hava aracında taşınan yakıtın miktarı,
+► Yakıt tanklarının yapısı
+► Kaza sonucu serbest kalan yakıtla ilgilidir.
+Bir uçak kazasında canlı kalanların kurtarılması ıçın yapılan çalışmalarda kurtarma
+operasyonunun etkinliği; alınan eğitime, ekipmanın verimliliğine , kurtarma ve yangınla 
+mücadele hizmetlerini yürütmek amacıyla görevlendirilen personelin çalışma hızının işe
+yansıtılmasına bağlıdır . 
+5.2. Yönetim: 
+Havalimanı 8 kın. yarıçaplı kareli (grid) haritasında, topografı, gırış yolları ve su 
+kaynaklarının yeri belirtilmiştir. Ayrıca kontrol kulesi ve yangın istasyonuna asılmıştır. Bu
+harita, kurtarma ve yangınla mücadele araçlarında ve bir kaza veya acil duıumda 
+müdahalede destek verecek araçlarda da bulunmaktadır.
+5.3.Sağlanacak Koruma Seviyesi: 
+Havalimanı Kategorisi: 
+Havalimanı kurtarma ve yangınla mücadele kategorisi, yılın birbirini izleyen en yoğun 
+üç ay içerisinde gerçekleşen uçak trafiği göz önüne alınarak belirlenir. Ercan 
+Havalimanı Kurtarma ve Yangınla Mücadele Kategorisi Daire tarafından 9 olarak tespit 
+edilmiştir.
+Yangın söndürücü maddelerin çeşitleri
+Havalimanında normal olarak, temel ve tamamlayıcı söndürme maddeleri temin
+edilmelidir. 
+► Temel söndürme maddeleri; daimi kontrol, bir başka ifadeyle birkaç dakika veya
+daha fazla bir süre boyunca kontrol sağlamaktadır.
+► Tamamlayıcı söndürme maddeleri ise, hızlı yangın söndürme kabiliyetine sahip
+olmakla birlikte, genellikle yalnızca uygulama sırasında kullanılabilen "geçici" bir
+kontrol sağlamaktadır. 
+[SAYFA 59]
+997 
+ERCAN HAV ALİMANI UÇAK KAZA KIRIM Tarih:
+KURTARMA VE YANGINLA MÜCADELE TALİMATI Revizyon No:
+Sayfa: 7 
+Yangın söndürücü maddelerin miktarları 
+Köpüle üretimine yönelik suyun miktarları ve ARFF araçlarında temin edilecek olan 
+tamamlayıcı söndürme malzemeleri Tablo 1 kapsamında belirlenen havalimanı 
+kategorisine uygun olmalıdır, 
+Köpük üretimi için her araçta bulunan köpük konsantresinin miktarı, temin edilen su 
+miktarı ve seçilen köpük konsantresinin miktarı ile orantılıdır Yeterli miktarda ilave su 
+kaynağımız mevcuttur ve araçta taşınan köpük konsantresinin miktarı, en az 2 depo suya
+yetecek miktardadır . 
+Köpüle üretimine yönelik olarak belirtilen su miktarları, perforınans seviyesi A'yı
+karşılayan bir köpük için 8.2 L/dk./m2'lik uygulama hızı, performans seviyesi B'yi 
+karşılayan bir köpük için 5.5 L/dk ./ m2'lik uygulama hızı ve performans seviyesi C'yi 
+karşılayan bir köpüle için 3. 75 L/dk./m2'lik uygulama hızı doğrultusunda 
+belirlenmektedir. Söz konusu uygulama oranlarının, kontrolün bir dakika içerisinde 
+sağlanabileceği asgari oranlarda olduğu düşünülmektedir . 
+1 Ocak 2015 tarihinden itibaren, verilen kategorideki ortalama ebattan daha büyük olan
+uçaklar ile gerçekleştirilen operasyonların planlandığı havalimanlarında, su miktarları 
+yeniden hesaplanacak olup, köpük üretimine yönelik su miktarı ve köpük solüsyonuna
+yönelik deşarj oranı bu doğrultuda aıitırılacaktır. 
+Temel yangın söndürücü maddeler aşağıdaki gibi olmalıdır: 
+a) Asgari performans seviyesi A'yı karşılayan köpük veya
+b) Asgari performans seviyesi B'yi karşılayan köpük veya
+c) Asgari performans seviyesi C'yi karşılayan köpük veya
+Söz konusu maddelerin kombinasyonu. 
+Tamamlayıcı yangın söndürücü maddeler aşağıdaki gibi olmalıdır: 
+a) Kuru Kimyasal Tozlar (B ve C Sınıfı Tozlar) veya
+b) En az aynı yangınla mücadele kapasitesine sahip diğer yangın söndürücü maddeler.
+Köpük ile kullanılan kuru kimyevi tozun seçilmesi halinde, uygunluğun sağlanmasına 
+dikkat edilmesi gerekmektedir. 
+Söndürme Malzemelerinin Temini ve Depolanması: 
+Kuıiaıına ve yangınla mücadele araçlarında bulundurulacak söndürme malzeme miktarı
+Havalimanı kategorisine uygun olarak, malzemelerin yeniden doldurulabilmesi 
+amacıyla, kurtarma ve yangınla mücadele araçlarında bulunduıulrnası gereken söz
+konusu maddelerin %200'ü kadar fazla konsantre köpük rezerv olarak Meydan İtfaiye
+Şubesi deposunda mevcuttur. 
+Müdahale süresi: ARFF hizmetinin temel operasyonel amacı, uygun görüş ve yüzey 
+koşullarında, her bir pistin sonuna veya haı·eket sahasının herhangi bir bölümüne üç 
+dakikayı aşmayacak şekilde ulaşmaktır. Bu konudaki öneri ise, iki dakikalık müdahale
+süresini elde etmek olmalıdır. 
+[SAYFA 60]
+998 
+•.-< 
+uı 
+·.:: o bJ) 
+(1) 
+1i:i 
+~ 
+i:l Ol 
+.§ 
+,;; 
+> 
+ERCAN HAV ALİMANI UÇAK KAZA KIRIM Tarih:
+KURTARMA VE YANGINLA MÜCADELE TALİMATI Revizyon No :
+Sayfa: 8
+Müdahale süresi, ARFF servisine yapılan ilk çağrı anından, ilk müdahale eden aracın
+(araçların) Tablo 1'de belirtilen deşarj oranının en az yüzde 50'si oranında köpüğü 
+uygulayabilecek pozisyona geldiği ana kadar geçen süre olarak kabul edilmektedir 
+Tablo:1 Yangın söndürücü maddelerin asgari kullanılabilir miktarları 
+A Seviyesi Perfoımansı B Seviyesi C Seviyesi Tamamlayıcı
+Karşılayan Köpük Performansı Performansı Malzeme 
+Karşılayan Köpük Karşılayan Köpük
+Köpük Köpük Köpük Kuru Deşarj 
+Su Solüsyonu Su Solüsyonu Su Solüsyonu Kimyevi Hızı
+Deşarj Deşarj Deşarj Tozlar KKT/sn
+Lt hızı / dk Lt hı z ı / dk Lt hızı / dk Kg Kg
+Lt Lt Lt 
+«:I ,-... (2) (4) (6) (8) (9) 
+::r:c (3) (5) (7)
+9 36.400 13 .500 24.300 9. 000 17.100 6300 450 
+5.4.Kurtarına ve Yangınla mücadele Hizmetlerini Etkileyen Havalimanı kolaylıkları 
+Acil durum erişim yolları: Asgari müdahale sürelerinin gerçekleştirilmesini
+kolaylaştırmak amacıyla, acil durum erişim yolları sağlanmıştır. İniş-kalkış (yaklaşma) 
+istikametlerinde pist eşiğinden 1.000 metreye kadar veya en azından eşikten havalimanı 
+tel örgü sınırına kadar olan alanlara kolay erişim sağlanmaktadır.
+Karlı havalarda yolların durumunu belirlemek için yaklaşık 10 metre aralıklarla kenar 
+işaret çubukları (markerler) yerleştirilmiştir. 
+Acil Çıkış Kapılarının her iki yanına (iç ve dış) uyarıcı levhalar asılmıştır ve ayda bir
+kontrol edilmektedir. 
+5.5.İletişim ve Alarm Sistemleri: 
+Kontrol kulesi ile Yangın istasyonu alarm ofisi ve yangınla mücadele araçları arasında
+haberleşme sistemi vardır . Meydan İtfaiye Şubesinde mevcut olan haberleşme sistemleri;
+• Kontrol Kulesi ile irtibatlı direkt telefon hattı. 
+• Yangın İhbar Telefonu (İç hat 1149 - Dış hat 0392 600 50 22) 
+• El Telsizi
+• Bina ve tesislerle irtibatlı Yangın Algılama Sistemi ve Cihazları 
+4,5 
+[SAYFA 61]
+999 
+ERCAN HA VALİMANI UÇAK KAZA KIRIM Tarih:
+KURTARMA VE YANGINLA MÜCADELE TALİMATI Revizyon No:
+Sayfa: 9 
+Haberleşme ve Alarm Verme Kolaylıkları: 
+Acil durumlara müdahale edecek acil durum birimlerinin ve kişilerin harekete
+geçirilmesinde, kompleks bir haberleşme sistemi mevcuttur. Acil durumun ilgili birime 
+duyurulmasında yanlış anlamaların önlenmesi için olayın şekline göre alarm sistemleri 
+geliştirilmiştir. 
+Uçak Kaza Kırım Kurtarma ve Yangınla Mücadele Yönergesi hükümlerine göre alarm 
+veriliş şekliyle dört kısımda incelenecektir;
+• 1 Numaralı Aların 
+• 2 Numaralı Alarm
+• 3 Numaralı Alarm
+• 4 Numaralı Alann
+Alarm çeşitleri ve yapılması gerekenler ICAO Doc. 9137-AN/898 PART 7 (Havaalanı Acil
+Durum Organizasyonu)'de ayrıntılı olarak belirtilmiştir. 
+5.6. Kurtarma ve Yangınla Mücadele Araçlarının Teknik Özelliklerinin
+Belirlenmesine Yönelik Faktörler 
+Araçların her mesai başlangıcında /nöbet değişikliğinde Meydan İtfaiye Şubesi Personelince
+tüm sistemlerinin işlerliği dikkate alınarak kontrol edilecek, arızalar anında kurtarma ve 
+yangınla mücadele Amirine / Şefine Arıza Bildirim ve Takip Fonnu tanzim edilerek
+bildirilecektir. 
+Uluslararası standart ve önerilen uygulamalar esas alınarak belirlenen kurtarma ve yangınla 
+mücadele kategorilerini karşılayacak şekilde temin edilerek hizmete verilen kurtarma ve 
+yangın söndürme araçlarının sürekli FAAL olarak tutulması büyük önem arz ettiğinden, söz
+konusu araçlar tahsis edildikleri amaçlar dışında kullanılmayacaktır. 
+Kurtanna ve yangınla mücadele hizmetlerinde kullanılmakta olan; araç, malzeme ve 
+ekipmanların sürekli olarak faal halde tutulmalarını sağlamak amacıyla Bakım Kontrol 
+Formlarının titizlikle talcibi yapılınakta, araç, malzeme ve ekipmanların FAAL olarak 
+kullanıma hazır tutulması amacıyla arızalar dışında periyodik bakım-onarımlarını sağlamak 
+üzere, öncelikle havalimanı teknik personeli tarafından, gerçekleştirilememesi halinde ise 
+imalatçı / yetkili servis/yetkili temsilci firmalar ile söz konusu finnaların bulunmaması 
+durumunda ise konusunda uzman fırmalarla sürekli koordinasyon sağlanacaktır . 
+Kurtarma ve yangın söndürme araçları ile arazözler tahsisli olduğu ARFF hizmetleri dışında
+kullanılmayacaktır. 
+Kurtarma ve yangınla mücadele araçlarının havalimanı hudutları içinde göreve sevkinden
+Meydan İtfaiye Amiri veya Ekip Şefi sorumludur.
+Uzun ve geniş yangın söndürme araçlarının gerek yangın istasyonu garajına
+paklandırılmalannda gerekse geri manevralarında mutlaka yanlarında yardımcı personel
+bulundurulacak, 
+[SAYFA 62]
+1000 
+ERCAN HAV ALİMANI UÇAK KAZA KIRIM Tarih:
+KURTARMA VE YANGINLA MÜCADELE TALİMATI Revizyon No:
+Sayfa: 10 
+ARFF ünitelerinde bulunan araç çeşitleri 
+a) 6x6 Su Köpük Sistemli Yangın Söndürme Aracı (Su İkmal Aracı (Arazöz))
+b) 4x4 Kuru Kimyevi Toz Sistemli Ani Müdahale Yangın Söndürme Aracı 
+5.7.Koruyucu Giysiler ve Solunum Cihazları 
+Koruyucu Elbiseler: 
+Havalimanı ARFF Personeli uçak yangınında mevcut yangından koruyucu kıyafetlerini
+(Yapısal Yangınla mücadele elbisesi-Nomex, başlıldar, botlar, yüz koruyucu ve eldivenler) 
+kullanacaktır. 
+Solunum Cihazı ve Gaz Maskeleri: 
+İçi duman dolu uçak kabinine girilmesi gereken durumlarda, kapalı alanlarda yoğun duman
+durumunda ARFF personeli, karşılaşacağı ortam için temiz hava solunum cihazı
+kullanacaktır. Çeşitli kimyasal ve gaz yangınlarında araçlarda mevcut olan gaz maskeleri 
+kullanılacalctır.
+5.8.Yangın Söndürme Malzemelerinin Özellikleri
+Temel Söndürücü Malzemeler: 
+Kullanılan temel söndürücü malzeme Level B seviyesindeki AFFF Köpüktür. 
+Havalimanı ve yakın çevresinde meydana gelecek uçak kazalarında köpük teknik hizmetler
+ünitesinden tahsis edilecek tralctör veya pikaplarla kaza mahalline ulaştırılacaktır.
+Tamamlayıcı Söndürme Malzemeleri 
+Tamamlayıcı söndürme malzemesi olarak BC sınıfı Kuru Kimyevi Tozlar kullanılmalctadır .
+Tamamlayıcı maddeler, bilhassa, köpüklerin nüfuz edemeyeceği hava aracı kargo
+bölümlerinde ve alt kanatlarında meydana gelen görünmez yangınlarda (örneğin; motor 
+yangınları) ve köpüklerin etkili olmadığı yalat kaçağına bağlı yangın durumlarında 
+etkilidirler. 
+Havalimanında ve yakın çevresinde meydana gelecek uçak kazalarında Kuru Kimyevi
+Tozlar teknik hizmetler ünitesinden tahsis edilecek traktör veya pikaplarla kaza mahalline 
+ulaştırılacaktır. 
+5.9. Portatif Yangın Söndürme Cihazları
+Havalimanı kapalı alanlarında, bulunduğu mekanın kullanım amacına uygun Portatif 
+Yangın Söndürme Cihazları bulundurulur. Bu cihazların dağılımı ile ilgili yürütme 
+Havalimanı İşletmecisi tarafından yapılır. 
+[SAYFA 63]
+1001 
+ERCAN HAV ALİMANI UÇAK KAZA KIRIM Tarih:
+KURTARMA VE YANGINLA MÜCADELE TALİMATI Revizyon No:
+Sayfa: 11 
+5.10.Havalimanı Kurtarma ve Yangınla Mücadele (ARFF) Personeli 
+Kurtanna ve yangınla mücadelede görevlendirilenlerin; yetenekli, inisiyatif kullanabilen,
+olaya doğru ve uygun bir şekilde müdahale edebilen, iyi eğitim görmüş, uygun fiziksel 
+donanım ve yapıya sahip kalifiye kişiler olmasına dikkat edilmelidir.
+Kurtarma ve yangınla mücadele hizmetlerinin kesintisiz bir şekilde yürütülmesi için mevcut
+ARFF personelinin hizmetinden hem kurtarma ve yangınla mücadele hizmetlerinin
+yürütülmesi konularında hem de kurtarma ve yangın söndürme araç sürücüsü olarak istifade
+edilecektir. 
+ARFF Hizmetlerine Yönelik Fiziksel Ve Tıbbi Uygunluk Değerlendirmeleri: 
+Aerobik uygunluk; düşük-orta veya yüksek yoğunluktaki uzun süreli dönemlerde egzersiz
+yapmaya devam edebilmektir.
+Tipik aerobik faaliyetler; yürüyüşü, koşuyu, bisiklet sürmeyi, ip atlamayı, merdiven 
+çıkmayı, yüzmeyi ve diğer her türlü dayanıklılık faaliyetlerini içermektedir. 
+Anaerobik uygunluk; yüksek seviyelerde enerji gerektiren bir faaliyet olup, Anaerobik
+terimi, "oksijensiz" anlamına gelmektedir. 
+Anaerobik faaliyetler; ağırlık kaldırmayı, birkaç kat arasındaki merdivenlerde koşmayı, 
+sürat koşusunu, güçlü yüzmeyi veya diğer her türlü seri ve zor egzersizleri içermektedir. 
+Esneklik: Normal hareket aralıklarının sonunda, kol ve bacaklar ile eklemleri, özel
+pozisyonlarda hareket ettirebilme yeteneği anlamına gelmektedir. 
+► Yaralanma riskini azaltabilecektir. Esneklik, en iyi yavaş kontrollü germe egzersizlerini
+kullanarak geliştirilmektedir.
+► Fiziksel uygunluk değerlendirmesi, en az yılda bir kez gerçekleştirilmelidir.
+► ARFF Hizmetlerine özel tıbbi uygunluk değerlendirmeleri geliştirilmelidir,
+► Tıbbi uygunluk değerlendirmeleri, fiziksel güç gerektiren faaliyetler süresince, her bir
+ARFF personeli için risk oluşturabilecek,
+► Her tür temel tıbbi durumu tanımlamak amacıyla kullanılmalıdır. 
+5.11.ARFF Personeli Görev Kaynak Analizi 
+Havalimanında Uluslararası Sivil Havacılık Teşkilatınca (ICAO) yayımlanan Aımex 14
+Cilt 1 ve ICAO Doc. 9137-AN/898 Bölüm 1 ve bu doğrultuda hazırlanan Uçak Kaza Kırım
+Kuıianna ve Yangınla Mücadele Yönergesi esas alınarak kurtaıma ve yangınla mücadele
+hizmetleri yürütülmektedir. 
+5.12.Acil Durum Organizasyonu: 
+Havalimanı Acil Durum Planı:
+Havalimanında olası acil durumlar için Acil Duruın Plam hazırlanmıştır. Havalimam Acil
+Durum Planının hazırlanması ve güncel tutulması bir komisyon marifetiyle sağlanır. Bu
+plan içerisinde Meydan İtfaiye Şubesi kendine ait olan görevleri yerine getirir. Acil 
+Duıumda ihtiyaç duyulan, 24 saat ulaşılabilen telefon numaralan Acil Durum Planında 
+mevcuttur. 
+[SAYFA 64]
+1002 
+ERCAN HAV ALİMANI UÇAK KAZA KIRIM Tarih:
+KURTARMA VE YANGINLA MÜCADELE TALİMATI Revizyon No:
+Sayfa: 12
+Havalimam kurtarma ve yangınla mücadele hizmetleri (ARFF), plan gereği yapılması 
+gereken tatbikatların koordinasyonunu sağlar, bu doğrultuda planın geliştirilmesini
+sağlamak üzere önerilerde bulunur. Havalimanı Acil Durum Planı, Doc. 9137 Kısım l ve
+(SHT-ADP) Hazırlanmasına İlişkin Talimatın son şekillerinde yer alan hususlar dikkate 
+alınarak hazırlanır, hazırlanan plan Daire tarafından ilgili birimlere dağıtılır. 
+Acil Durum Plam, tek bir doküman şeklinde hazırlanır. Atıfta bulunulması şartıyla , ilave
+dokümanlar hazırlanabilir. İlave hazırlanan dokümanlar Acil Durum Planının eki olarak
+kabul edilir.
+Acil durum planının yürütülrnesirıden Daire sonımludur. Havalimanı Kriz Yönetim
+Merkezi, Ercan Havalimanı Gelen Yolcu katındadır. (HKYM İletişim; 0392 602 50
+00/1204) 
+Havalimanında iki tür kareli harita mevcuttur. 
+Bunlardan biri havalimanı ulaşım yollarını, su kaynaklarının yerini, randevu noktalarını, 
+bekleme noktalarını, ana yolları, zorlu arazileri vb . kolaylıkları içeren ve havalimanı 
+vaziyetini gösteren 1/5000 ölçeldi kareli harita, diğeri ise havalimanı merkezinden itibaren 
+yaklaşık 8 km alan içerisindeki uygun sağlık kuruluşları, erişim yolları, randevu noktaları 
+gibi diğer çevre kolaylıklarını gösteren 1/25.000 ölçekli kareli haritadır. 
+1/5000 ve 1/25.000 ölçekli bu haritalar hava trafik kontrol kulesirıe ve yangın istasyonuna
+dikkat çekecek şekilde görünür bir yere asılmıştır. Bu haritaların A3 boyutunda birer 
+nüshası ARFF araçlarında ve kaza ya da acil duruma destek verecek araçlarda da 
+bulunmaktadır. 
+Kareli haritaların revize edilınesi halinde, güncel versiyonları Daire tarafından ilgili
+birimlere dağıtılacaktır. 
+Söz konusu kareli haritalar, havalimanı sınırlarının ötesinde en az 1000 metrelik bir
+mesafeyi kapsamaktadır (Havalimanı tel örgüsü dışında çevre yolu ve tali yollar ile 1000
+metreye kadar olan bölgelerde tarım arazisi bulunmaktadır). ICAO Kaza/Olay Veri
+Raporlama (ADREP) Sistemine Bildirimleri çalışmaları, kazaların büyük bir kısmının 
+(%25'ten fazlasının) pist sonundaki alanda (1000 m uzunluğunda ve 60 m genişliğinde) 
+meydana geldiğini göstermektedir. 
+5.13. Uçak Kurtarma ve Yangınla Mücadele Prosedürleri:
+Kurtarma Taktikleri: 
+Herhangi bir hava aracı kazasına müteakiben, kurtarma operasyonlarında kullanılacak olan
+taktikleri ve ekipmanı belirlemeye başlamadan önce, yerine getirilecek görevleri 
+tanımlamak gerekmektedir.
+Öncelikle, kurtarma teriminin, hava aracından kaçabilen, hava aracının içerisinde
+bulunanlar tarafından izlenen yolların korunmasını kapsadığının kavranması gerekmektedir. 
+[SAYFA 65]
+1003 
+ERCAN HAV ALİMANI UÇAK KAZA KIRIM Tarih:
+KURTARMA VE YANGINLA MÜCADELE TALİMATI Revizyon No:
+Sayfa: 13 
+Hava aracının dışında gerçekleştirilen faaliyetler; 
+► Yangınla mücadele, 
+► Hava aracına yakın yakıt dökülen alanların köpükle örtülmesi, 
+► Hava aracından sevk edilen acil durum kaçış ekipmanın etkin bir şekilde kullanılması 
+hususunda destek sağlanması ve hava aracının tahliye edilmesini ve hava aracının 
+içerisinde bulunanların emniyetli bir alana toplanmasını hızlandıracak olması halinde 
+aydınlatma temin edilmesi hususlarını içerir. 
+► Bu sırada, hava aracının içerisinde bulunanların kaçarken kullandıkları yollardan
+herhangi biri vasıtasıyla hava aracına giriş gerçekleştirilmeye çalışılmamasının 
+bilinmesi gerekmektedir. 
+► Ayrıca, hava aracının içerisinde bulunanları veya kurtarma personelini tehlikeye atan
+herhangi bir yangın durumunun söz konusu olması halinde, hava aracından tahliyenin
+ve gövde içerisindeki her nevi operasyonların etkin bir şekilde yürütülemeyeceği de 
+açıktır.
+► Hava aracının içerisinde bulunanların kurtarılması öncelikli amaç olarak 
+düşünülebilecek olmasına rağmen, hayatta kalmanın mümkün olduğu ve kurtarına
+operasyonlarının yürütülebileceği koşulların oluşturulması genel gerekliliktir.
+Bu sebeple, yangının bastırılamaması veya yakıt yayılmış bir alan yangınının emniyetli
+hale getirilememesi hava aracında bulunan herkesin hayatta kalmasını imkansız hale 
+getirebileceğinden dolayı , hava aracının içinde bulunanlardan herhangi birini kurtarmaya 
+çalışmadan önce, yangınla mücadele operasyonlarının başlatılması gerekli olabilecektir. 
+İkinci olarak, hava aracının içerisinde olup doğrudan yardım olmaksızın kaçamayanların
+hayatlarının kurtarılması, öncelikle ARFF amaçları doğrultusunda temin edilenler dışında 
+özel ekipman ve personel kullanılmasını kapsayan uzun ve güç bir görev olabilecektir.
+Öncelikli kurtaıma unsuruna yönelik destek tıbbi ekiplerden, hava aracı işleticisinin
+kaynaklarından ve hava aracı acil durumlarına müdahale eden dış kaynaklı acil durum
+hizmetlerinden sağlanabilecektir. Bu aşama süresince, hava aracının içerisinde ve 
+dışarısında yangın güvenliğinin sağlanması zorunlu olacak ve bu durum köpük örtüsünün
+periyodik olarak yeniden uygulanmasını gerektirebilecektir. İlaveten daha fazla sağ
+kalınabilir bir ortam sağlamak amacıyla ve kurtarma operasyonları amaçları doğrultusunda
+dumanı ve diğer zehirli maddeleri çıkarmak için gövdenin havalandırılması 
+gerekebilecektir.
+Bu iki değerlendirmeden de görülebilir ki, kurtanna ve yangınla mücadele birlikte 
+düşünülmeli ve herhangi bir yangın başlangıcı görülmeyen kazalarda bile ani bir patlama
+göz ardı edilmemelidir. İlk müdahale eden kurtarma ve yangınla mücadele aracının temel
+görevi, yakıt dökülmüş yüzeyde köpük tabakası oluşturmakla beraber, kaçan kazazedelerin
+desteklenmesi de olmalıdır . Ayrıca, giriş ya da yolcu çıkışı olarak kullanılmak üzere uçak 
+kapı ve camlarının açılması sırasında, yangının girişini engelleyici ani bir patlama olursa 
+kaçış yollarının korunınası için tedbir alınır. Bu konu dikkate alınarak yangına ilk müdahale
+etmesi muhtemel araçta gerekli malzeme ve teçhizat bulundurulur.
+Yüksek etkinliğe sahip yangınla mücadele maddesinden köpük en uygun olanıdır. Köpük 
+yangının söndürülmesini ve kuru kimyevi tozun veremediği yangın sonrası kontrol 
+[SAYFA 66]
+1004 
+ERCAN HAV ALİMANI UÇAK KAZA KIRIM Tarih:
+KURTARMA VE YANGINLA MÜCADELE TALİMATI Revizyon No:
+Sayfa: 14
+edilebilen kararlılığı sağlar. İlk aracın personeli yangınla mücadele operasyonunu
+yürütebilecek ya da yangın bastınna ekipmanını kullanabilecek ve uçakta bulunanların
+çıkarılması sırasında acil kayma yastığı veya diğer çıkış yolları için yardım edebilecek
+yeterlilikte olmalıdır. Diğer araçların da olay yerine ulaşması ile, ilk aracın personeli,
+mevcut durumun gerektirdiği diğer işlemlere başlar. Operasyon deneyimi göstermiştir ki
+esas yangın kontrol altına alındığında ya da uçak çevresindeki kritik sahanın güvenliği
+sağlandığında yapılması gereken hususlar;
+Her biri genellikle 2 kişiden oluşan kurtarma ekiplerinin uçakta bulunanlara yardım için 
+uçağa girmesidir. Hiçbir zaman iki kaza birbirinin aynı problemleri göstermediğinden, ekip
+üyeleri tam olarak ve yalnız başlarına çalışacak şekilde eğitilirler. Ekipler, sıkışmış
+insanların çıkarılması için ve uçaktan çıkarılmadan önce yaralılara ilk yardım uygulanması 
+için gerekli şekilde ekipmanla donatılmalıdır. Ekip üyeleri solunum cihazı ve dışarı ile 
+haberleşmeyi sağlayacak sistemle teçhiz edilir.
+Kabin içi ya da yanacak diğer malzemenin soğutulması için yangınla mücadele 
+ekipmanlarından su sprey ekipmanı bu iş için en etkili olanıdır. 
+Uçak içine aydınlatma ve havalandırma ekipmanının getirilmesidir. 
+Yukarıda belirtilen üç görev önem sırasına göre sıralanmamıştır ve eğer uçak içeıisinde bir 
+yangın oluşmuşsa, diğerlerine başlamadan bu yangının kontrol altına alınması esastır. 
+Benzer şekilde herhangi bir yangın yoksa ancak aşın derecede ısı varsa su spreyi ile 
+durdurulmalı ve çevre doğal olarak ya da yönlendirme ile havalandırılarak yaşanır hale
+getirilmelidir. 
+Kaza Sonrası Havalandırma: 
+Hava aracı kazası durumlarında, herhangi bir yangın kontrol - altına alınmış veya 
+söndürülmüş olması halinde, hava aracının içi duman veya ortaya saçılmış malzemeler ile
+dolu olabilecektir. Hava aracının içerisinde olup da kaçmayı başaramayanları korumak ve
+ARFF personeli tarafından gerçekleştirilecek olan arama ve kurtarma operasyonlarını
+kolaylaştırmak amacıyla, hava aracının içerisinde mümkün olduğu ölçüde hayatta 
+kalınabilir bir ortam oluşturulması önemlidir. Duman ve is görüş bozukluğuna sebebiyet
+verecek, hareket etmeyi zorlaştıracak ve hava aracının içerisinde bulunanlar için hızlı bir 
+şekilde ölüme sebebiyet verebilecektir. Hava aracının içine girilmesi halinde, bağımsız 
+solunum cihazı (SCBA) giyilmelidir, hava aracının havalandırılması hayatta kalınabilir bir 
+oıiaın oluştuıulmas ı için tek tatmin edici yöntemdir.
+Uygun koşullar altında, hava aracı kapılarının ve pencerelerinin, rüzgara karşı ve rüzgar
+yönünde açılarak, hava aracının içerisine hava akışı sağlanması suretiyle doğal
+havalandırma kullanılması münıkün olacaktır. Ayrıca, kokpit kapısının açık tutulması
+koşuluyla, kokpit pencerelerinin hareketli kısımlan da kullanılabilecektir. Doğal 
+havalandırmanın sınırlamalarından biri, hava aracının dışında, rüzgara karşı olan tarafta
+hava aracına giren hava alamını kirletecek içten içe yanan maddeler olma olasılığıdır . 
+Mekanik olarak indüklenen ( oluşan) havalandırma, çoğu durumda bu sorunların üstesinden
+gelebilecektir. Havalandırmanın sağlandığı durumlarda, hızlandırılmış hava alanımın 
+olduğu hava aracı içerisinde veya hava aracı dışındaki herhangi bir noktada bulunan ve 
+[SAYFA 67]
+1005 
+ERCAN HAV ALİMANI UÇAK KAZA KIRIM Tarih:
+KURTARMA VE YANGINLA MÜCADELE TALİMATI Revizyon No:
+Sayfa: 15
+içten içe yanan maddelerin yangını şiddetlendirme riski bulunacaktır. Bu tür durumlarda
+aniden çıkabilecek herhangi bir yangına müdahale etmek üzere, el ile kontrol edilen su
+püskürtme nozullannda donanımlı personel bulundurulacaktır. 
+Kurtarma ekipmanı gereklilikleri: 
+Yukarıda bahsedilen operasyonel görevler doğrulhısunda, kurtarma personeli tarafından
+kullanılması gereken ekipmanlar göz önünde bulundurulmalıdır:
+► Tercihen portatif bir jeneratörden çalıştırılan ve aydınlatma aparatının bir veya daha
+fazla parçasına hizmet veren aydınlatma ekipmanı,
+► Portatif güç kaynağından çalıştırılabilen elektrikli aletler. 
+► Kablo ve cıvata kesiciler, uygun boyutlarda ve tasarımlarda tornavidalar, levyeler,
+çekiçler ve baltalar da dahil olmak üzere ev aletleri. 
+► Bükme, kaldırma veya kesme işlemlerine yönelik olarak kullanılacak olan, genellikle
+hidrolik olarak çalıştırılan z orlayıcı ekipman. 
+► Bağımsız solunum aparatından oluşabilecek solunum koruması.
+► Havalimanı ARFF hizmetine tahsis edilen frekansta çalışan haberleşme ekipmanı , 
+telefon/telefonlar, telsiz/telsizler. 
+Haberleşme
+Uçuş mürettebatı ile Kurtarma ve Yangınla Mücadele Personeli arasında haberleşme
+kolaylığı gerektiğinden, görevliler arasında direkt temas kurmaya yönelik haberleşme 
+sisteminin kurulması gerekir. Direkt temasın sağlandığı yöntemler şunlardır: 
+* Telsizler: 
+* Uçak İçi Telefon Sistemi (İnterkom): 
+* Diğer haberleşme yolları: Portatif megafonlar ve el işaretleri 
+Uçak Yangını Uyarısı: 
+Ekip üyelerinin, hava aracı yangın ikaz göstergelerine yönelik doğru bir değerlendirme
+yapmaları çoğunlukla mürnkün olmadığından dolayı, hava aracının tamamen durdurulması 
+ve ARFF personelinin, park etmeden önce, ilgili alanı kontrol etmesi tavsiye edilmektedir.
+Bu kontrol işlemi, genellikle, hava aracı kompartımanı kapılarının açılmasını 
+gerektirmeden, teımal göıüntüleme ekipmanı kullanılarak büyük oranda 
+geliştirilebilecektir. 
+Motor Çalıştırma: 
+Hava aracının durmasının ardından, hava aracı içerisinde aydınlatma ve haberleşme
+sağlamak amacıyla en az bir motorun çalışır vaziyette kalması gerekebilecektir. Bu durum,
+kurtarma operasyonlarını belli bir ölçüde engelleyecektir, dolayısıyla bu sorun göz önünde 
+bulundurulmalıdır. Pistonlu ve türbinli pervanelerde, yerde bulunan personel tarafından 
+pervane çevresinden uzak kalmak amacıyla aşırı derecede özen gösterilmesi gerekmektedir. 
+[SAYFA 68]
+1006 
+ERCAN HAV ALİMANI UÇAK KAZA KIRIM Tarih:
+KURTARMA VE YANGINLA MÜCADELE TALİMATI RevizyonNo:
+Sayfa: 16
+Turbo-jet motorlarında, öndeki yakın alanda ve motorun arkasında makul bir uzaklıkta aşırı 
+derecede özen gösterilmesi gerekmektedir. 
+Ekipman Konumlandırma: 
+Rüzgar koşulları, arazi, hava aracı tipi, kabin konfigürasyonları ve diğer faktörler 
+yaklaşmaları etkilemektedir. Bu sebeple uçuş ekibi üyelerinin ARFF personelini, söz
+konusu uçak ile ilgili bilgiler konusunda bilgilendirmesi gerelanektedir. Birleştirilmiş 
+kargo-yolcu uçaklarında, havalimanı acil durum ekipleri, kabin konfigürasyonlan hakkında 
+bilgilendirilmelidir. Zira bazı kargo alanlan, kanat üstü çıkışlar kadar arkaya genişlemekte 
+olup bu durum, söz konusu çıkışların acil durum tahliyesi için kullanılmasını olanaksız hale
+getirmektedir.
+Taktiksel karar verme süresi, alarm çaldığında başlar, yol boyunca ve kaza/olay mahallirıe 
+ilk yaklaşma sırasında devam eder. Kaza/olayı anlamaya çalışmak (ne oluyor/ ne olmak
+üzere/ ne yapılması gerekiyor) ve gecikmeden doğru taktikler uygulamak gerekecektir.
+ARFF operasyonlarının başarılı bir şekilde gerçekleştirilmesi için, ARFF ekipmanlarının ve 
+diğer müdahale araçlarının doğru bir şekilde konumlandırılması gerekmektedir. ARFF 
+araçları, genellikle tek sıra halinde müdahale ettiğinden dolayı kaza mahalline giden ille 
+yangın aracı, genellikle diğer araçlar için yol açmakta olup söz konusu araçlara nihai 
+konumlarına yaklaşmalarını yönlendirecektir. Araçların konumlandırılması sırasında, ilk
+gelen ekipler ve olay amiri, belirli kılavuz ilkelere riayet etmelidir:
+Yer arazisi ve eğimi ile çarpma mahalline girmeden önce rüzgarın yönü göz önünde 
+bulundurulmalıdır. Deniz seviyesinin altında olan alanlarda yaşanabilecek yakıt ve buhar
+birikmesini önlemek amacıyla, araçları yokuş yukarı ve rüzgarın geldiği yöne doğru
+konumlandırmaya çalışmalısınız. 
+a. Kaza/olay mahalline çok dikkatli bir şekilde yaklaşınız. Hava aracının içerisinde 
+bulunanların tahliyesine, enkaza, yakıt yayılmasına ve diğer tehlikelere dikkat ediniz. 
+Aracı, sizin görüşünüzü ve muhtemel tahliye edilmiş olanların görüşünü engelleyen 
+dumanların içerisinden sürmeyiniz. Aracı, herhangi bir hava aracı enkazının üzerinden 
+sürmeyınız. 
+b. Acil durum araçlarının kullanması gerekebileceği gırış veya çıkış alanlarını 
+engellemeyiniz.
+c. Araçların ilk konumları, hava aracının içerisinde bulunanların tahliye edildilderi çıkış
+yollarını kornyacak şekilde olmalıdır. 
+d. İdeal olarak, araçlar tekrar bir parlama halinde veya olay sorumlusu amirin direktifi 
+doğrultusunda yeniden konumlandırılabilecek şekilde yerleşmelidir. 
+e. Araçlar, monitörlerin hava aracı gövdesini maksimum oranda kapsayabileceği şekilde
+konumlandırılmalıdır. 
+f. Olay Sornmlusu Amir, neler olduğunu, nelerin gerçekleşmek üzere olduğunu, can ve 
+malları kornmak için ne yapılması gerektiğini göz önünde bulundurmalıdır. 
+g. Kaza mahallindeki delillerin muhafaza edilmesi göz önünde bulunduıulacaktır. 
+[SAYFA 69]
+1007 
+ERCAN HAV ALİMANI UÇAK KAZA KIRIM Tarih:
+KURTARMA VE YANGINLA MÜCADELE TALİMATI RevizyonNo:
+Sayfa: 17 
+Tahliye: 
+Hava aracından tahliye edilmesi sürecine yönelik nihai kararın, ARFF olay sorumlusu
+amirin vermiş olduğu bilgiler doğmltusunda, uçuştan sommlu pilot tarafından verilmesi
+gerekmektedir. Kurtanna ve Yangınla Mücadele Personelinin tüm uçakları iyi tanıması 
+mümkün olmadığından, uçuş mürettebatının acil durum konusunda daha eğitimli olması 
+nedeniyle uçağın tahliye edilmesindeki son karar uçuş mürettebatınındır. Acil kayma 
+yastıklan hasara uğramadıkça kullanılmaya devam edilmelidir. Eğer bunlar henüz 
+açılmamış veya hasar görmüş durumda iseler, tahliye merdivenleri kullanılmalıdır. Söz
+konusu merdivenler ayrıca kanat üzerinden tahliyelerde, özellikle de kanat yerden oldukça
+yüksekse yararlı olur. / 
+Düşük Görüş Mesafesi Koşullarında Müdahale Kabiliyetinin Devam Ettirilmesi 
+ARFF hizmetlerinin düşüle görüş şartları süresince araç kullanıcılarına yardım etmesi için 
+kızıl ötesi ileri görüş (FLIR), gelişmiş sürücü görüş sistem (FLIR K-Series) 2 adet kızıl ötesi
+termal el kamerası kullanılmaktadır. 
+5.14.ARFF Personeli Eğitimi: 
+Tek görevi, uçak operasyonlannda kurtarma ve yangınla mücadele olan ARFF Personeli,
+büyük bir uçak yangınında, çok sık olarak ciddi bir şekilde hayat kurtarmak durumunda
+kalabilirler. Uçak operasyonu ile ilgili olarak, pek çok olayda ve sayısız kaza ile 
+sonuçlanması muhtemel acil durumlarda deneyim kazanılmıştır. Ancak, çok dikkatli bir 
+şekilde hazırlanmış ve dakikası dakikasına yerine getirilmiş bir eğitim programının takip
+edilmesi ile büyük bir uçak yangını çıkması durumunda, personel ve ekipmanın bu durumun
+üstesinden geleceğine güvenilebilir. 
+Havalimanlarında görev yapan ARFF Personeli, mevcut bilgilerini tazelemek ve havacılık 
+sektöründeki teknolojik gelişmeleri takip etmek amacıyla meslek yaşamları boyunca,
+Meydan İtfaiye Şubesi Amirliği Yıllık Eğitim Planı ve Programı'nda belirtilen mesleği ile
+ilgili eğitimlere tabi tutularak sertifikalandırılmaktadır. 
+Bu bağlamda yayınlanan Yıllık Eğitim Programı dahilinde, Eğitimcilerin Eğitimi Kursu 
+almış personel tarafından ARFF Personelimizin işbaşı eğitimleri yılda 60 saat olarak 
+yapılacaktır, eğitimlerden sonra düzenlenecek sertifikaları şahsi dosyalarında muhafaza
+edilecektir. Ayrıca yılda en az bir kere ateşli yangın tatbikatı yapacaktır.
+5.15.İnsan Faktörleri İlkeleri:
+İnsan faktörleri konusu, ARFF Personelinin çalışma ve yaşam alanlarındaki insanlar ile
+ilgilidir. ARFF Personelinin, ekipman, prosedürler ve çevre ile ilişkileri, insanların diğer 
+insanlarla ilişkileri kadar önemlidir. İnsan faktörleri, havacılık sistemindeki insanların 
+genel performansını içennektedir. Bilimsel sistemleri uygulayarak insanların
+performanslarının optimize edilmesi amaçlamaktadır. Emniyet ve verimlilik, insan
+faktörlerinin ikiz hedefleri olarak görülebilecektir. 
+İnsan faktörleri esasen, psikoloji, mühendislik, fizyoloji, sosyoloji ve antropometri (insan
+vücudunu ölçme bilimi) de dahil olmak, ancak bunlarla sınırlı olmamak üzere, çok 
+[SAYFA 70]
+1008 
+ERCAN HAV ALİMANI UÇAK KAZA KIRIM Tarih:
+KURTARMA VE YANGINLA MÜCADELE TALİMATI Revizyon No:
+Sayfa: 18
+disiplinli bir alandır. Esasen, İnsan faktörlerinin kapsamlı tanımını zorlaştıran husus, söz
+konusu faktörlerin çok disiplinli yapısı ve bu disiplini oluşturan unsurların örtüşmesidir.
+İnsan Faktörleri unsurları, dört temel kavramsal kategoriye ayrılabilmektedir: 
+a) Yazılım (Software): Planlar, prosedürler, dokümantasyon vb.
+b) Donanım (Hardware): Makine, ekipman vb.
+c) Ortam/Çevre (Environment): İç (örneğin iş yeri), dış (örneğin çevre) vb.
+d) Personel (Liveware): İnsan faktöıü
+İnsanlar ve SHEL modelinin diğer unsurları arasındaki etkileşimler, aşağıdaki hususlar 
+arasındaki İnsan Faktörlerinin merkezindedir:
+a) İnsanlar ve makineler - "Donanıma karşı Personel"
+b) İnsanlar ve prosedürler - "Y azılırna karşı Personel"
+c) İnsanlar ve iş arkadaşlar - "Personele karşı Personel"
+d) İnsanlar ve iş yeri - "Ortama/Çevreye karşı Personel" 
+Operasyonel etkinlik ve standartlar 
+ARFF eğitiminin, mümkün olduğu kadar gerçekçi olmasını sağlamak amacıyla, her yıl en
+az 1 kez ateşli yangın tatbikatı gerçekleştirilerek, ARFF personelinin ısı ve duman ile kaplı 
+bir ortama alışmasına yardımcı olunmaktadır. 
+5.16.ARFF Araçlarının Bakımı: 
+ARFF Araçlarının Bakımları: Kurtarma ve Yangınla Mücadele araçlarının bakımları 
+"ARFF Hizmetlerinde Kullanılmakta Olan Araçların Koruyucu Bakım-Kontrol Talimatında 
+belirtilen usul ve esaslara göre yapılacaktır. Kontrollerden sonra ARFF araçları için 
+hazırlanan ARFF araçları bakım kontrol formları tanzim edilecektir. 
+5.17. Yürüklük: 
+Bu talimat, Resmi Gazetede yayımlandığı tarihten itibaren yüıürlüğe girer. 
+[SAYFA 71]
+KUZEY KIBRIS TÜRK CUMHURİYETİ
+RESMÎ GAZETE 
+(321)
