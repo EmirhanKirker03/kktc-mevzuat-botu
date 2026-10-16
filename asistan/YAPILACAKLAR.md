@@ -56,6 +56,9 @@ Hiçbiri geriye gitmemeli.
   Tek düzenli hata: çok sözcüklü grupta bir sözcük bozuksa grubun hepsi değişiyor ("konmak" → "korunak", 8 kez).
 - İş 3 bitti: `rg_bol.py` üçüncü tur "Sayı : <A.E. no>" çapası (yalnızca kullanılmamış bölgelerde). 583 → 386 eşleşmeyen;
   197 yeni eşleşme, eski eşleşmelerden değişen 0, 25 örnek elle kontrol: 25/25 doğru. veri/resmi-gazete 2.133 → 2.329 kayıt.
+- rg_ek1.tgz (bilgisayardaki oturumdan 80 sayı) eklendi, akış yeniden çalıştırıldı: Gazete'de eşleşen taranmış tüzük 1.811 → 1.895,
+  ikili okumayla düzeltilen tüzük 811 → 857 (4.409 kelime grubu); eski düzeltmeler birebir aynı. Bu sayılar rg_bol hedeflerinde
+  olmadığı için Gazete maddelerine yeni eşleşme eklemedi. İş 1'den yalnızca 2020/174 ve 24 adet /Portals/6/ (404) eksik.
 - Kalan eşleşmeyenlerin ~204'ü başka bir hedefe verilmiş bölümün içinde (aynı parçada iki metin); bunları ayırmak eski
   metinleri kısaltacağı için yapılmadı.
 
