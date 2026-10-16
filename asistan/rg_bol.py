@@ -87,9 +87,11 @@ for u, its in sayilar.items():
         if zi in atandi: continue
         no = z['ae'].split('/')[0]
         bt = toks(re.sub(r'^.*?YASASI\s*[-–]\s*', '', z['baslik'])) or toks(z['baslik'])
-        for m in re.finditer(r'(?m)^[ \t]*Say[ıi]\s*:\s*0*' + no + r'\b(?![ \t]*[.,/]?\d)(?![ \t]+\d{1,2}[ \t]+[A-ZÇĞİÖŞÜ][a-zçğıöşü]+[ \t,]+\d{4})', t):
+        for m in re.finditer(r'(?m)^[ \t]*Say[ıi]\s*:\s*0*' + no + r'\b(?![.,/]\d)(?![ \t]+\d{1,2}[ \t]+[A-ZÇĞİÖŞÜ][a-zçğıöşü]+[ \t,]+\d{4})', t):
             a = m.start()
             if a in alinan or any(x <= a < y for x, y in dolu): continue
+            # Ek IV (Bakanlar Kurulu kararları) kendi numaralarını kullanır; oradaki "Sayı : N" satırı alınmaz
+            if re.search(r'\bEK\s*IV\b|BAKANLAR\s+KURULU\s+KARARLARI', t[a:a + 400]): continue
             b = min([s for s in sinir if s > a] or [len(t)])
             for n in re.finditer(r'(?m)^[ \t]*Say[ıi]\s*:\s*0*(\d+)\b', t[a + 1:b]):
                 if n.group(1) not in (no, z.get('sayi')): b = a + 1 + n.start(); break
