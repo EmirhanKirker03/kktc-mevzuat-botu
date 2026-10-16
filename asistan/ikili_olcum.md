@@ -10,6 +10,14 @@ Görülen tek düzenli hata: "konmak" sözcüğünün Gazete'de "korunak" okunma
 sözcüklü gruplarda ("paragrafi konmak") gruptaki bir sözcük bozuksa grubun tamamı değiştiriliyor; sağlam olan "konmak" da
 gidiyor. İleride çok sözcüklü gruplarda sözcük sözcük seçim düşünülebilir.
 
+## Ek ölçüm: rg_ek1 sonrası (16 Ekim 2026)
+
+Bilgisayardaki oturumun eklediği 80 Gazete sayısıyla (`raw/resmi_gazete/rg_ek1.tgz`) yeniden çalıştırıldı: düzeltilen tüzük
+811 → 857, kelime grubu 4.094 → 4.409. Eski 811 tüzüğün düzeltmeleri birebir aynı kaldı.
+Yeni 46 tüzükteki 315 değişiklikten rastgele 50 tanesi (tohum 8) incelendi: yanlış 0, şüpheli 1
+("kapsaminda Sözleşmesi" → "kapsamında": kenar başlığından kalan "Sözleşmesi" düştü). Tüm değişikliklerden ayrıca 50 örnek (tohum 7):
+yanlış 1 ("itraz başvuruları" → "itiraz başvurulan", yine çok sözcüklü grup). Oran %2 altında; kural değiştirilmedi.
+
 | # | YM okuması | RG okuması (seçilen) | Karar | Çevre |
 |---|---|---|---|---|
 | 0 | elekirik | elektrik | doğru | Kurum tüketicisinin yenilenebilir enerji kaynaklarından [[ elekirik ]] üretmek için kurmuş olduğu tesisten |
