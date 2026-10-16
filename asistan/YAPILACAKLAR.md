@@ -59,6 +59,9 @@ Hiçbiri geriye gitmemeli.
 - rg_ek1.tgz (bilgisayardaki oturumdan 80 sayı) eklendi, akış yeniden çalıştırıldı: Gazete'de eşleşen taranmış tüzük 1.811 → 1.895,
   ikili okumayla düzeltilen tüzük 811 → 857 (4.409 kelime grubu); eski düzeltmeler birebir aynı. Bu sayılar rg_bol hedeflerinde
   olmadığı için Gazete maddelerine yeni eşleşme eklemedi. İş 1'den yalnızca 2020/174 ve 24 adet /Portals/6/ (404) eksik.
+- İkinci tur (rg_bol): A.E. çapası artık "Sayı : 436   1071" gibi sayfa numaralı satırları da alıyor; Ek IV numaraları dışlanıyor.
+  8 yeni eşleşme (8/8 elle doğru), eşleşmeyen 386 → 378, veri/resmi-gazete 2.337 kayıt. Kalan 378'in ~199'u başka hedefe
+  verilmiş bölüm içinde, ~84'ü metinde bulunamıyor (çoğu Ek IV'e ya da ilanlara ait olabilir), ~95'i boş bölgelerde ama A.E. satırı okunamamış.
 - Kalan eşleşmeyenlerin ~204'ü başka bir hedefe verilmiş bölümün içinde (aynı parçada iki metin); bunları ayırmak eski
   metinleri kısaltacağı için yapılmadı.
 
