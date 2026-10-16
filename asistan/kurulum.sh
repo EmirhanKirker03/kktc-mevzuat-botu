@@ -15,5 +15,10 @@ if git -C "$REPO" rev-parse --verify origin/yayin >/dev/null 2>&1; then
   git -C "$REPO" show origin/yayin:veri/kira_asistani.html > /dev/null 2>&1 && \
   for f in $(git -C "$REPO" ls-tree --name-only origin/yayin veri/); do git -C "$REPO" show "origin/yayin:$f" > "$REPO/asistan/app/pub/$(basename $f)"; done
 fi
+# build_app.py örnek dava dosyasını, bazı testler Playwright'ı sabit yolda bekler
+mkdir -p /home/claude/test_kiti && ln -sfn "$REPO/asistan/1_test_dava_dosyasi.txt" /home/claude/test_kiti/1_test_dava_dosyasi.txt
+if [ ! -e /opt/npm-tools/node_modules/playwright ]; then
+  G=$(npm root -g 2>/dev/null); [ -d "$G/playwright" ] && mkdir -p /opt/npm-tools && ln -sfn "$G" /opt/npm-tools/node_modules || true
+fi
 pip install --break-system-packages -q pdfplumber 2>/dev/null || true
 echo "kurulum tamam: /home/claude/kira_ai -> $REPO/asistan"

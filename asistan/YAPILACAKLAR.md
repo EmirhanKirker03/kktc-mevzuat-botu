@@ -49,6 +49,16 @@ Hiçbiri geriye gitmemeli.
   ikinci okumayla düzeltildi (343 tüzükte iki metin uyuşmadığı için dokunulmadı). Örneklemde yanlış seçim ~%3 görüldü → iş 2.
 - Akış: `rg_plan.py` (hangi tüzük hangi Gazete sayısında) → `rg_dogrula.py` (Gazete'de bul, böl) → `ikili_okuma.py` → derleme.
 
+## 16 Ekim 2026 bulut oturumu
+- İş 1 ve iş 4 **yapılamadı**: bulut ortamının ağ ayarı arsiv.basimevi.gov.ct.tr, basimevi.gov.ct.tr ve cm.gov.ct.tr'yi kapatıyor (403).
+  Bilgisayardaki oturumda yapılmalı.
+- İş 2 bitti: `ikili_olcum.md` — 200 örnekte yanlış seçim %1 (+%0,5 şüpheli), %2 altında; kural değişmedi.
+  Tek düzenli hata: çok sözcüklü grupta bir sözcük bozuksa grubun hepsi değişiyor ("konmak" → "korunak", 8 kez).
+- İş 3 bitti: `rg_bol.py` üçüncü tur "Sayı : <A.E. no>" çapası (yalnızca kullanılmamış bölgelerde). 583 → 386 eşleşmeyen;
+  197 yeni eşleşme, eski eşleşmelerden değişen 0, 25 örnek elle kontrol: 25/25 doğru. veri/resmi-gazete 2.133 → 2.329 kayıt.
+- Kalan eşleşmeyenlerin ~204'ü başka bir hedefe verilmiş bölümün içinde (aynı parçada iki metin); bunları ayırmak eski
+  metinleri kısaltacağı için yapılmadı.
+
 ## Sıradaki işler (öncelik sırasıyla)
 1. **Arşivden 77 Gazete sayısı eksik** (`/home/claude/rg/indirilecek.json` içindeki `/Portals/105/...` olanlar; 24 tanesi
    `/Portals/6/` sitede 404, onlar alınamaz). İnternete erişim
