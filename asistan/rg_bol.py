@@ -77,8 +77,34 @@ for u, its in sayilar.items():
         for p, zi, k in sorted(puanlar, reverse=True):
             if bool(its[zi].get('ek')) != tur_ or p < 0.6 or zi in atandi or k in kullan: continue
             atandi[zi] = (k, p); kullan.add(k)
+    # üçüncü tur: eşleşmeyen hedefler için A.E. numarası çapası (Ek III'te her metin "Sayı : <A.E. no>" satırıyla başlar).
+    # Yalnızca hiçbir hedefe verilmemiş bölgelerde (ilk çapadan önceki kısım ve kullanılmamış bölümler) aranır:
+    # önceki eşleşmeler ve metinleri değişmez.
+    dolu = [segs[k] for k, _ in atandi.values()]
+    sinir = sorted({a for a, _ in segs} | {len(t)})
+    ek_parca, alinan = {}, set()
     for zi, z in enumerate(its):
-        if zi in atandi:
+        if zi in atandi: continue
+        no = z['ae'].split('/')[0]
+        bt = toks(re.sub(r'^.*?YASASI\s*[-–]\s*', '', z['baslik'])) or toks(z['baslik'])
+        for m in re.finditer(r'(?m)^[ \t]*Say[ıi]\s*:\s*0*' + no + r'\b(?![ \t]*[.,/]?\d)(?![ \t]+\d{1,2}[ \t]+[A-ZÇĞİÖŞÜ][a-zçğıöşü]+[ \t,]+\d{4})', t):
+            a = m.start()
+            if a in alinan or any(x <= a < y for x, y in dolu): continue
+            b = min([s for s in sinir if s > a] or [len(t)])
+            for n in re.finditer(r'(?m)^[ \t]*Say[ıi]\s*:\s*0*(\d+)\b', t[a + 1:b]):
+                if n.group(1) not in (no, z.get('sayi')): b = a + 1 + n.start(); break
+            bas = toks(t[a:min(b, a + 900)])
+            ism = re.search(r'Bu\s+(?:T[üu]z[üu]k|Emirname|Y[öo]netmelik|Tebli[ğg])\s*,?([\s\S]{0,400}?)(?:isimlendiril|olarak an[ıi]l)', t[a:min(b, a + 4000)])
+            if ism: bas |= toks(ism.group(1))
+            p = len(bt & bas) / max(1, len(bt))
+            if p < 0.6 or len(bt & toks(kirp(t[a:b])[:3000])) < 0.3 * len(bt): continue
+            ek_parca[zi] = (a, b, p); alinan.add(a); break
+    for zi, z in enumerate(its):
+        if zi in ek_parca:
+            a, b, p = ek_parca[zi]
+            ist['eşleşti'] += 1; ist[z['tur']] += 1; ist['eşleşti (A.E. çapası)'] += 1
+            out.append(dict(z, metin=kirp(t[a:b]).strip(), puan=round(p, 2)))
+        elif zi in atandi:
             k, p = atandi[zi]; a, b = segs[k]; mt = kirp(t[a:b]).strip()
             bt = toks(re.sub(r'^.*?YASASI\s*[-–]\s*', '', z['baslik'])) or toks(z['baslik'])
             if (a in BASLIK_CAPA or b in BASLIK_CAPA) and len(bt & toks(mt[:3000])) < 0.3 * len(bt):  # yeni başlık çapası, kırpılmış metinde hedefin adı yok: yanlış parça verilmesin

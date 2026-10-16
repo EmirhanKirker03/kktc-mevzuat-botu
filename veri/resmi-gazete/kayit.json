@@ -121,6 +121,32 @@
 "bozukluk": 0.0256
 },
 {
+"ae": "527/2006",
+"tur": "tuzuk",
+"baslik": "KAMU GÖREVLİLERİ YASASI- 2006 KAMU GÖREVLİLERİ SINAV (DEĞİŞİKLİK) TÜZÜĞÜ",
+"yil": "2006",
+"sayi": "152",
+"tarih": "18.09.2006",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2006/152.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R527_2006.txt",
+"eslesme_puani": 0.75,
+"ocr": true,
+"bozukluk": 0.2189
+},
+{
+"ae": "505/2006",
+"tur": "tuzuk",
+"baslik": "KUZEY KIBRIS SATRANÇ FEDERASYONU TÜZÜĞÜ - KUZEY KIBRIS SATRANÇ FEDERASYONU SİCİL, LİSANS VE TRANSFER (DEĞİŞİKLİK) YÖNETMELİĞİ",
+"yil": "2006",
+"sayi": "145",
+"tarih": "05.09.2006",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2006/145.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R505_2006.txt",
+"eslesme_puani": 1.0,
+"ocr": true,
+"bozukluk": 0.2299
+},
+{
 "ae": "506/2006",
 "tur": "tuzuk",
 "baslik": "KUZEY KIBRIS SATRANÇ FEDERASYONU TÜZÜĞÜ - KUZEY KIBRIS SATRANÇ FEDERASYONU ULUSAL KUVVET DERECESİ (DEĞİŞİKLİK) YÖNETMELİĞİ",
@@ -249,6 +275,32 @@
 "eslesme_puani": 1.0,
 "ocr": false,
 "bozukluk": 0.004
+},
+{
+"ae": "45/2006",
+"tur": "tuzuk",
+"baslik": "BELEDİYELER YASASI- ALAYKÖY BELEDİYESİ KIYMET VE TARTI ÜCRETİ TÜZÜĞÜ",
+"yil": "2006",
+"sayi": "16",
+"tarih": "25.01.2006",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2006/16.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R45_2006.txt",
+"eslesme_puani": 1.0,
+"ocr": true,
+"bozukluk": 0.0268
+},
+{
+"ae": "40/2006",
+"tur": "emirname",
+"baslik": "BULAŞICI HASTALIKLAR (HAYVANLAR) YASASI - KUŞ GRİBİ NEDENİYLE GÖLETLER ÇEVRESİNDE BULUNULMAMASI EMİRNAMESİ",
+"yil": "2006",
+"sayi": "16",
+"tarih": "25.01.2006",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2006/16.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R40_2006.txt",
+"eslesme_puani": 0.83,
+"ocr": true,
+"bozukluk": 0.0357
 },
 {
 "ae": "949/2007",
@@ -1980,6 +2032,19 @@
 "bozukluk": 0.0171
 },
 {
+"ae": "366/2007",
+"tur": "tuzuk",
+"baslik": "BELEDİYELER YASASI-2007 PAŞAKÖY BELEDİYESİ İŞYERİ BULUNDURMA HARCI (DEĞİŞİKLİK)TÜZÜĞÜ",
+"yil": "2007",
+"sayi": "89",
+"tarih": "23.05.2007",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2007/89.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R366_2007.txt",
+"eslesme_puani": 0.83,
+"ocr": false,
+"bozukluk": 0.0056
+},
+{
 "ae": "367/2007",
 "tur": "tuzuk",
 "baslik": "SU İŞLERİ DAİRESİ (KURULUŞ GÖREV VE ÇALIŞMA ESASLARI) YASASI-2007 İÇME VE KULLANMA SULARI ÜCRET TARİFESİ (DEĞİŞİKLİK) TÜZÜĞÜ",
@@ -2929,6 +2994,19 @@
 "bozukluk": 0.0063
 },
 {
+"ae": "158/2007",
+"tur": "teblig",
+"baslik": "DUYURU-14 TEMMUZ, 2005 SAYI 113 EK.III' TE PARA KAMBİYO YASASI'NIN 9.MADDESİ ALTINDAKİ TEBLİĞ'İN 5(3)'ÜNCÜ MADDESİ VE AYNI TEBLİĞ'İN 5(5) MADDESİ GEREĞİ 1.ERTOĞRUL AKBEL & SONS LTD. 2. ALTINÖR DÖVİZ LTD. 3. ANDELİP EXCHANGE LTD. İSİMLİ DÖVİZ BÜROLARININ LİSANSLARI BAKANLIK TARAFINDAN İPTAL EDİLMİŞTİR",
+"yil": "2007",
+"sayi": "47",
+"tarih": "12.03.2007",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2007/47.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R158_2007.txt",
+"eslesme_puani": 0.9,
+"ocr": false,
+"bozukluk": 0.0085
+},
+{
 "ae": "128/2007",
 "tur": "tuzuk",
 "baslik": "BELEDİYELER YASASI-2007 GÖNYELİ BELEDİYESİ, TEMİZLİK VE ŞEHİR AYDINLATMA RESMİ(DEĞİŞİKLİK) TÜZÜĞÜ",
@@ -3161,6 +3239,19 @@
 "eslesme_puani": 1.0,
 "ocr": false,
 "bozukluk": 0.0159
+},
+{
+"ae": "68/2007",
+"tur": "tuzuk",
+"baslik": "KAMU GÖREVLİLERİ YASASI-KAMU GÖREVLİLERİ SINAV (DEĞİŞİKLİK) TÜZÜĞÜ",
+"yil": "2007",
+"sayi": "16",
+"tarih": "29.01.2007",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2007/16.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R68_2007.txt",
+"eslesme_puani": 0.67,
+"ocr": true,
+"bozukluk": 0.0714
 },
 {
 "ae": "37/2007",
@@ -3618,6 +3709,19 @@
 "bozukluk": 0.0096
 },
 {
+"ae": "945/2008",
+"tur": "tuzuk",
+"baslik": "YURT İÇİ FUAR DÜZENLEME TÜZÜĞÜ 16 (5) MADDESİ GEREĞİ-2009 YILI YURT İÇİ FUAR TAKVİMİ",
+"yil": "2008",
+"sayi": "223",
+"tarih": "25.12.2008",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2008/223.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R945_2008.txt",
+"eslesme_puani": 1.0,
+"ocr": false,
+"bozukluk": 0.0146
+},
+{
 "ae": "943/2008",
 "tur": "yonetmelik",
 "baslik": "ELEKTRONİK İMZA YASASI-ELEKTRONİK İMZA İLE İLGİLİ SÜREÇLERE VE TEKNİK KRİTERLERE İLİŞKİN YÖNETMELİK",
@@ -3629,6 +3733,19 @@
 "eslesme_puani": 1.0,
 "ocr": true,
 "bozukluk": 0.0255
+},
+{
+"ae": "858/2008",
+"tur": "tuzuk",
+"baslik": "KAMU İHALE YASASI-KKTC BAKANLIĞI MERKEZİ İHALE KOMİSYONU BAŞKANLIĞI 1986 DEVLET İHALE TÜZÜĞÜNÜN 30.MADDESİ'NE AYKIRI HAREKET ETTİĞİ TESBİT EDİLEN VE CEZASI SABİTLEŞEN FİRMALAR/KİŞİLER",
+"yil": "2008",
+"sayi": "210",
+"tarih": "01.12.2008",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2008/210.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R858_2008.txt",
+"eslesme_puani": 0.84,
+"ocr": true,
+"bozukluk": 0.1533
 },
 {
 "ae": "755/2008",
@@ -3733,6 +3850,19 @@
 "eslesme_puani": 1.0,
 "ocr": false,
 "bozukluk": 0.0092
+},
+{
+"ae": "401/2008",
+"tur": "tuzuk",
+"baslik": "PLANLAMA ONAYI TÜZÜĞÜ- PLANLAMA MAKAMI OLAN ŞEHİR PLANLAMA DAİRESİ,İÇİŞLERİ BAKANLIĞI'NIN DA OANAYI ALINARAK BAŞKENT LEFKOŞA İMAR PLANI GİRNE BEYAZ BÖLGE VE KORUMA ÇEVRE PLANI GİRNE II.BÖLGE EMİRNAMESİ,BOĞAZ EMİRNAMESİ,GİRNE I.BÖLGE EMİRNAMESİ VE ALAGADİ ÇEVRE PLANI HAKKINDA",
+"yil": "2008",
+"sayi": "90",
+"tarih": "21.05.2008",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2008/90.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R401_2008.txt",
+"eslesme_puani": 0.95,
+"ocr": true,
+"bozukluk": 0.0805
 },
 {
 "ae": "237/2008",
@@ -3863,6 +3993,19 @@
 "eslesme_puani": 1.0,
 "ocr": false,
 "bozukluk": 0.0124
+},
+{
+"ae": "700/2009",
+"tur": "tuzuk",
+"baslik": "DEVLET İHALE TÜZÜĞÜ-CEZASI SABİTLEŞEN FİRMALAR KİŞİLER.TRUST TRADDİNG LTD.",
+"yil": "2009",
+"sayi": "171",
+"tarih": "07.10.2009",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2009/171.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R700_2009.txt",
+"eslesme_puani": 0.67,
+"ocr": true,
+"bozukluk": 0.1385
 },
 {
 "ae": "577/2009",
@@ -4034,6 +4177,19 @@
 "bozukluk": 0.007
 },
 {
+"ae": "705/2010",
+"tur": "tuzuk",
+"baslik": "İMAR YASASI-PLANLAMA ONAYI TÜZÜĞÜ.",
+"yil": "2010",
+"sayi": "200",
+"tarih": "30.11.2010",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2010/200.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R705_2010.txt",
+"eslesme_puani": 1.0,
+"ocr": true,
+"bozukluk": 0.1419
+},
+{
 "ae": "679/2010",
 "tur": "tuzuk",
 "baslik": "İŞ SAĞLIĞI VE GÜVENLİĞİ YASASI- İŞ SAĞLIĞI VE GÜVENLİĞİ HİZMETİ VEREN KİŞİLERİN SERTİFİKALANDIRILMASI VE KURULUŞLARIN YETKİLENDİRİLMESİ TÜZÜĞÜ.",
@@ -4058,6 +4214,58 @@
 "eslesme_puani": 0.88,
 "ocr": false,
 "bozukluk": 0.0192
+},
+{
+"ae": "607/2010",
+"tur": "tuzuk",
+"baslik": "DEVLET İHALE TÜZÜĞÜ- CEZASI SABİTLEŞEN FİRMALAR/KİŞİLER.",
+"yil": "2010",
+"sayi": "169",
+"tarih": "04.10.2010",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2010/169.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R607_2010.txt",
+"eslesme_puani": 0.67,
+"ocr": true,
+"bozukluk": 0.0702
+},
+{
+"ae": "267/2010",
+"tur": "tuzuk",
+"baslik": "İHTİYAT SANDIĞI YASASI- YERLİ İSTİHDAMINA KATKI PRİMLERİNİN DEĞERLENDİRİLMESİ, YÖNETİMİ VE KULLANILMASI TÜZÜĞÜ.",
+"yil": "2010",
+"sayi": "68",
+"tarih": "27.04.2010",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2010/68.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R267_2010.txt",
+"eslesme_puani": 1.0,
+"ocr": false,
+"bozukluk": 0.0093
+},
+{
+"ae": "220/2010",
+"tur": "tuzuk",
+"baslik": "FUARLAR YASASI-YURT İÇİ FUAR DÜZENLEME TÜZÜĞÜ : YURT İÇİ FUAR TAKVİMİ.",
+"yil": "2010",
+"sayi": "58",
+"tarih": "08.04.2010",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2010/58.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R220_2010.txt",
+"eslesme_puani": 1.0,
+"ocr": false,
+"bozukluk": 0.0199
+},
+{
+"ae": "169/2010",
+"tur": "tuzuk",
+"baslik": "YURT İÇİ FUAR DÜZENLEME TÜZÜĞÜ : YURT İÇİ FUAR TAKVİMİ.",
+"yil": "2010",
+"sayi": "47",
+"tarih": "16.03.2010",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2010/47.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R169_2010.txt",
+"eslesme_puani": 1.0,
+"ocr": true,
+"bozukluk": 0.0392
 },
 {
 "ae": "163/2010",
@@ -4190,6 +4398,19 @@
 "bozukluk": 0.0168
 },
 {
+"ae": "509/2011",
+"tur": "tuzuk",
+"baslik": "DEVLET İHALE TÜZÜĞÜ-NRC INVESTMENT ŞTİ.LTD.",
+"yil": "2011",
+"sayi": "163",
+"tarih": "26.09.2011",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2011/163.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R509_2011.txt",
+"eslesme_puani": 0.83,
+"ocr": true,
+"bozukluk": 0.1308
+},
+{
 "ae": "507/2011",
 "tur": "emirname",
 "baslik": "ÇIRAKLIK VE MESLEK EĞİTİMİ YASASI-\"ÇIRAKLIK VE KALFALIK EĞİTİMİNİN YAPILACAĞI MESLEK DALLARI EMİRNAMESİ\"",
@@ -4281,6 +4502,19 @@
 "bozukluk": 0.0669
 },
 {
+"ae": "436/2012",
+"tur": "tuzuk",
+"baslik": "İMAR YASASI- PLANLAMA ONAYI TÜZÜĞÜ",
+"yil": "2012",
+"sayi": "138",
+"tarih": "26.07.2012",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2012/138.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R436_2012.txt",
+"eslesme_puani": 1.0,
+"ocr": true,
+"bozukluk": 0.0649
+},
+{
 "ae": "366/2012",
 "tur": "tuzuk",
 "baslik": "KAMU GÖREVLİLERİ YASASI-2005 KAMU GÖREVLİLERİ SINAV (DEĞİŞİKLİK) TÜZÜĞÜ",
@@ -4305,6 +4539,19 @@
 "eslesme_puani": 1.0,
 "ocr": true,
 "bozukluk": 0.0218
+},
+{
+"ae": "239/2012",
+"tur": "tuzuk",
+"baslik": "BELEDİYELER YASASI-2012 GAZİMAĞUSA BELEDİYESİ İÇME SUYU TÜZÜĞÜ",
+"yil": "2012",
+"sayi": "71",
+"tarih": "12.04.2012",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2012/71.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R239_2012.txt",
+"eslesme_puani": 1.0,
+"ocr": true,
+"bozukluk": 0.089
 },
 {
 "ae": "224/2012",
@@ -4344,6 +4591,19 @@
 "eslesme_puani": 1.0,
 "ocr": false,
 "bozukluk": 0.0195
+},
+{
+"ae": "146/2012",
+"tur": "tuzuk",
+"baslik": "İMAR YASASI-PLANLAMA ONAYI TÜZÜĞÜ",
+"yil": "2012",
+"sayi": "49",
+"tarih": "08.03.2012",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2012/49.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R146_2012.txt",
+"eslesme_puani": 1.0,
+"ocr": true,
+"bozukluk": 0.0844
 },
 {
 "ae": "123/2012",
@@ -4684,6 +4944,19 @@
 "bozukluk": 0.0073
 },
 {
+"ae": "57/2012",
+"tur": "tuzuk",
+"baslik": "İMAR YASASI-PLANLAMA ONAYI TÜZÜĞÜ",
+"yil": "2012",
+"sayi": "15",
+"tarih": "23.01.212",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2012/15.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R57_2012.txt",
+"eslesme_puani": 1.0,
+"ocr": true,
+"bozukluk": 0.117
+},
+{
 "ae": "26/2012",
 "tur": "tuzuk",
 "baslik": "BELEDİYELER YASASI-2012 BÜYÜKKONUK BELEDİYESİ İÇME SUYU (DEĞİŞİKLİK) TÜZÜĞÜ",
@@ -4721,6 +4994,19 @@
 "eslesme_puani": 1.0,
 "ocr": true,
 "bozukluk": 0.0578
+},
+{
+"ae": "4/2012",
+"tur": "tuzuk",
+"baslik": "BELEDİYELER YASASI-2012 LAPTA BELEDİYESİ İÇME SUYU (DEĞİŞİKLİK) TÜZÜĞÜ",
+"yil": "2012",
+"sayi": "3",
+"tarih": "06.01.2012",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2012/3.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R4_2012.txt",
+"eslesme_puani": 1.0,
+"ocr": false,
+"bozukluk": 0.0165
 },
 {
 "ae": "658/2013",
@@ -4801,6 +5087,45 @@
 "bozukluk": 0.0284
 },
 {
+"ae": "775/2014",
+"tur": "tuzuk",
+"baslik": "DEVLET İHALE TÜZÜĞÜ- ETTİĞİ TESBİT EDİLEN VE CEZASI SABİTLEŞEN FİRMALAR / KİŞİLER. SAFLAS TİCARET LTD.",
+"yil": "2014",
+"sayi": "256",
+"tarih": "26.12.2014",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2014/256.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R775_2014.txt",
+"eslesme_puani": 1.0,
+"ocr": true,
+"bozukluk": 0.1091
+},
+{
+"ae": "759/2014",
+"tur": "tuzuk",
+"baslik": "YURTİÇİ FUAR DÜZENLEME (DEĞİŞİKLİK) TÜZÜĞÜ-2015 YILI YURT İÇİ FUAR TAKVİMİ.",
+"yil": "2014",
+"sayi": "253",
+"tarih": "22.12.2014",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2014/253.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R759_2014.txt",
+"eslesme_puani": 0.88,
+"ocr": false,
+"bozukluk": 0.014
+},
+{
+"ae": "724/2014",
+"tur": "tuzuk",
+"baslik": "DEVLET İHALE TÜZÜĞÜ- CEZASI SABİTLEŞEN FİRMALAR / KİŞİLER. INTERAY DESING AND TRADING LTD ,KEZAY LTD ,INOKSTAR LTD , ERTANIN TRADING LTD.",
+"yil": "2014",
+"sayi": "248",
+"tarih": "16.12.2014",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2014/248.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R724_2014.txt",
+"eslesme_puani": 0.79,
+"ocr": true,
+"bozukluk": 0.0824
+},
+{
 "ae": "689/2014",
 "tur": "tuzuk",
 "baslik": "ENGELİLERİ KORUMA, REHABİLİTE VE İSTİHDAM YASASI-ÖZEL SEKTÖRDE ENGELLİ İSTİHDAMININ DESTEKLENMESİ TÜZÜĞÜ.",
@@ -4812,6 +5137,45 @@
 "eslesme_puani": 1.0,
 "ocr": false,
 "bozukluk": 0.001
+},
+{
+"ae": "645/2014",
+"tur": "tuzuk",
+"baslik": "DEVLET İHALE TÜZÜĞÜ-CEZASI SABİTLEŞEN FİRMALAR/KİŞİLER. KEZAY GIDA LTD.",
+"yil": "2014",
+"sayi": "224",
+"tarih": "10.11.2014",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2014/224.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R645_2014.txt",
+"eslesme_puani": 0.78,
+"ocr": true,
+"bozukluk": 0.0561
+},
+{
+"ae": "637/2014",
+"tur": "tuzuk",
+"baslik": "DEVLET İHALE TÜZÜĞÜNÜ- CEZASI SABİTLEŞEN FİRMALAR/KİŞİLER.KEZAY GIDA LTD. BARCELONA TRADE&CONS LTD.",
+"yil": "2014",
+"sayi": "221",
+"tarih": "06.11.2014",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2014/221.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R637_2014.txt",
+"eslesme_puani": 0.85,
+"ocr": true,
+"bozukluk": 0.0706
+},
+{
+"ae": "566/2014",
+"tur": "tuzuk",
+"baslik": "DEVLET İHALE TÜZÜĞÜ- CEZASI SABİTLEŞEN FİRMALAR/KİŞİLER. VREDESTON TRADING LTD.BARCELONA TRADE LTD. ERTANIN TRADİNG LTD.",
+"yil": "2014",
+"sayi": "192",
+"tarih": "17.10.2014",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2014/192.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R566_2014.txt",
+"eslesme_puani": 0.75,
+"ocr": true,
+"bozukluk": 0.0702
 },
 {
 "ae": "476/2014",
@@ -4840,6 +5204,32 @@
 "bozukluk": 0.0309
 },
 {
+"ae": "449/2014",
+"tur": "tuzuk",
+"baslik": "DEVLET İHALE TÜZÜĞÜ-GEPAZ TİC LTD.",
+"yil": "2014",
+"sayi": "153",
+"tarih": "16.07.2014",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2014/153.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R449_2014.txt",
+"eslesme_puani": 0.6,
+"ocr": true,
+"bozukluk": 0.0917
+},
+{
+"ae": "450/2014",
+"tur": "tuzuk",
+"baslik": "DEVLET İHALE TÜZÜĞÜ-YILŞEN KİRAZ.",
+"yil": "2014",
+"sayi": "153",
+"tarih": "16.07.2014",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2014/153.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R450_2014.txt",
+"eslesme_puani": 1.0,
+"ocr": true,
+"bozukluk": 0.0614
+},
+{
 "ae": "409/2014",
 "tur": "tuzuk",
 "baslik": "YÜKSEK ÖĞRENİM VE DIŞİLİŞKİLER DAİRESİ (KURULUŞ, GÖREV VE ÇALIŞMA ESASLARI)YASASI-BURS(DEĞİŞİKLİK)TÜZÜĞÜ.",
@@ -4864,6 +5254,32 @@
 "eslesme_puani": 0.92,
 "ocr": true,
 "bozukluk": 0.1089
+},
+{
+"ae": "207/2014",
+"tur": "tuzuk",
+"baslik": "DEVLET İHALE TÜZÜĞÜ-SAFLAS TİC. LTD. ,SİBA İTHALAT İHRACAT LTD.",
+"yil": "2014",
+"sayi": "73",
+"tarih": "31.03.2014",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2014/73.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R207_2014.txt",
+"eslesme_puani": 0.88,
+"ocr": true,
+"bozukluk": 0.0848
+},
+{
+"ae": "171/2014",
+"tur": "tuzuk",
+"baslik": "DEVLET İHALE TÜZÜĞÜ-SAFLAS TİC. LTD. , SERDAR ZORALİ LTD.",
+"yil": "2014",
+"sayi": "54",
+"tarih": "07.03.2014",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2014/54.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R171_2014.txt",
+"eslesme_puani": 0.86,
+"ocr": true,
+"bozukluk": 0.0392
 },
 {
 "ae": "122/2014",
@@ -5139,6 +5555,19 @@
 "bozukluk": 0.0083
 },
 {
+"ae": "689/2015",
+"tur": "tuzuk",
+"baslik": "HAZİNE MALLARI YASASI-DEVLET İHALE TÜZÜĞÜNE AYKIRI HAREKET ETTİĞİ TESPİT EDİLEN VE CEZASI SABİTLEŞEN FİRMALAR/KİŞİLER(ÖZGÜR KARA -EYÜP YILDIZHAN)",
+"yil": "2015",
+"sayi": "156",
+"tarih": "28.10.2015",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2015/156.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R689_2015.txt",
+"eslesme_puani": 0.69,
+"ocr": true,
+"bozukluk": 0.1639
+},
+{
 "ae": "685/2015",
 "tur": "tuzuk",
 "baslik": "BELEDİYELER YASASI-2015 ALSANCAK BELEDİYESİ KIYMET VE TARTI ÜCRETİ TÜZÜĞÜ",
@@ -5178,6 +5607,19 @@
 "bozukluk": 0.0284
 },
 {
+"ae": "308/2015",
+"tur": "tuzuk",
+"baslik": "BAYINDIRLIK VE ULAŞTIRMA BAKANLIĞI-MOTORLU ARAÇLAR YOL VE TRAFİK TÜZÜĞÜNÜN 51 İNCİ MADDESİ TAHTINDA BİLDİRİ",
+"yil": "2015",
+"sayi": "65",
+"tarih": "29.05.2015",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2015/65.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R308_2015.txt",
+"eslesme_puani": 0.92,
+"ocr": false,
+"bozukluk": 0.0
+},
+{
 "ae": "273/2015",
 "tur": "tuzuk",
 "baslik": "İŞ SAĞLIĞI VE GÜVENLİĞİ YASASI-İŞ SAĞLIĞI VE GÜVENLİĞİ HİZMETİ VEREN KİŞİLERİN SERTİFİKALANDIRILMASI VE KURULUŞLARIN YETKİLENDİRİLMESİ(DEĞİŞİKLİK)TÜZÜĞÜ",
@@ -5189,6 +5631,19 @@
 "eslesme_puani": 1.0,
 "ocr": false,
 "bozukluk": 0.0193
+},
+{
+"ae": "249/2015",
+"tur": "tuzuk",
+"baslik": "HAZİNE MALLARI YASASI- DEVLET İHALE TÜZÜĞÜNE AYKIRI HAREKET ETTİĞİ TESBİT EDİLEN VE CEZASI SABİTLEŞEN FİRMALAR/ KİŞİLER(AYDINLIK ELEKTRİK LTD)",
+"yil": "2015",
+"sayi": "53",
+"tarih": "03.04.2015",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2015/53.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R249_2015.txt",
+"eslesme_puani": 1.0,
+"ocr": true,
+"bozukluk": 0.0945
 },
 {
 "ae": "250/2015",
@@ -5295,6 +5750,32 @@
 "bozukluk": 0.0041
 },
 {
+"ae": "15/2015",
+"tur": "tuzuk",
+"baslik": "DEVLET İHALE TÜZÜĞÜ-CEZASI SABİTLEŞEN FİRMALAR/KİŞİLER TEDARİKÇİ RÜZGAR LTD",
+"yil": "2015",
+"sayi": "6",
+"tarih": "12.01.2015",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2015/6.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R15_2015.txt",
+"eslesme_puani": 1.0,
+"ocr": true,
+"bozukluk": 0.1064
+},
+{
+"ae": "14/2015",
+"tur": "teblig",
+"baslik": "KUZEY KIBRIS TÜRK CUMHURİYETİ BANKALAR YASASI-BANKALARIN SERMAYE YETERLİLİĞİNİN ÖLÇÜLMESİNE VE DEĞERLENDİRİLMESİNE İLİŞKİN USUL VE ESASLAR HAKKINDA(DEĞİŞİKLİK) TEBLİĞİ",
+"yil": "2015",
+"sayi": "6",
+"tarih": "12.01.2015",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2015/6.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R14_2015.txt",
+"eslesme_puani": 1.0,
+"ocr": true,
+"bozukluk": 0.0541
+},
+{
 "ae": "794/2016",
 "tur": "tuzuk",
 "baslik": "KATMA DEĞER VERGİSİ YASASI-KATMA DEĞER VERGİSİ ORANLARI (DEĞİŞİKLİK) TÜZÜĞÜ",
@@ -5384,6 +5865,19 @@
 "eslesme_puani": 1.0,
 "ocr": false,
 "bozukluk": 0.0
+},
+{
+"ae": "695/2016",
+"tur": "tuzuk",
+"baslik": "ELEKTRİK İNKİŞAF YASASI-2016 ELEKTRİK İNKİŞAF (DEĞİŞİKLİK) TÜZÜĞÜ",
+"yil": "2016",
+"sayi": "141",
+"tarih": "02.11.2016",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2016/141.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R695_2016.txt",
+"eslesme_puani": 1.0,
+"ocr": false,
+"bozukluk": 0.0112
 },
 {
 "ae": "667/2016",
@@ -6218,6 +6712,19 @@
 "bozukluk": 0.0345
 },
 {
+"ae": "987/2021",
+"tur": "tuzuk",
+"baslik": "KATMA DEĞER VERGİSİ YASASI-KATMA DEĞER VERGİSİ ORANLARI(DEĞİŞİKLİK)TÜZÜĞÜ",
+"yil": "2021",
+"sayi": "277",
+"tarih": "23.12.2021",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2021/277.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R987_2021.txt",
+"eslesme_puani": 0.75,
+"ocr": true,
+"bozukluk": 0.2
+},
+{
 "ae": "988/2021",
 "tur": "tuzuk",
 "baslik": "BELEDİYELER YASASI-BEYARMUDU BELEDİYESİ İÇME SUYU (DEĞİŞİKLİK)TÜZÜĞÜ",
@@ -6424,6 +6931,19 @@
 "eslesme_puani": 1.0,
 "ocr": true,
 "bozukluk": 0.044
+},
+{
+"ae": "421/2021",
+"tur": "tuzuk",
+"baslik": "KÜLTÜR DAİRESİ YASASI-KÜLTÜR SANAT DANIŞMA KURULU TÜZÜĞÜ",
+"yil": "2021",
+"sayi": "126",
+"tarih": "10.06.2021",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2021/126.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R421_2021.txt",
+"eslesme_puani": 1.0,
+"ocr": false,
+"bozukluk": 0.0097
 },
 {
 "ae": "399/2021",
@@ -6658,6 +7178,19 @@
 "eslesme_puani": 1.0,
 "ocr": false,
 "bozukluk": 0.0
+},
+{
+"ae": "59/2021",
+"tur": "emirname",
+"baslik": "SOKAĞA ÇIKMA YASAĞI YASASI-KISMİ SOKAĞA ÇIKMA YASAĞI EMİRNAMESİ",
+"yil": "2021",
+"sayi": "30",
+"tarih": "03.02.2021",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2021/30.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R59_2021.txt",
+"eslesme_puani": 1.0,
+"ocr": false,
+"bozukluk": 0.0044
 },
 {
 "ae": "61/2021",
@@ -8220,6 +8753,19 @@
 "bozukluk": 0.0131
 },
 {
+"ae": "514/2023",
+"tur": "tuzuk",
+"baslik": "AKARYAKIT(DEPOLAMA,NAKLİYE VE SATIŞ)YASASI - 2001 PETROL ÜRÜNLERİ FİYATLANDIRMA ESASLARINI DÜZENLEYEN(DEĞİŞİKLİK)TÜZÜĞÜ",
+"yil": "2023",
+"sayi": "131",
+"tarih": "26.06.2023",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2023/131.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R514_2023.txt",
+"eslesme_puani": 0.83,
+"ocr": false,
+"bozukluk": 0.0057
+},
+{
 "ae": "449/2023",
 "tur": "tuzuk",
 "baslik": "AKARYAKIT(DEPOLAMA,NAKLİYE VE SATIŞ)YASASI - 2001 PETROL ÜRÜNLERİ FİYATLANDIRMA ESASLARINI DÜZENLEYEN(DEĞİŞİKLİK)TÜZÜĞÜ",
@@ -9052,6 +9598,19 @@
 "bozukluk": 0.01
 },
 {
+"ae": "982/2024",
+"tur": "tuzuk",
+"baslik": "MAHKEMELER YASASI-2024 HUKUK MUHAKEMELERİ USULÜ(DEĞİŞİKLİK NO:4)TÜZÜĞÜ",
+"yil": "2024",
+"sayi": "240",
+"tarih": "22.11.2024",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2024/240.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R982_2024.txt",
+"eslesme_puani": 1.0,
+"ocr": false,
+"bozukluk": 0.0
+},
+{
 "ae": "963/2024",
 "tur": "tuzuk",
 "baslik": "MAHKEMELER YASASI-2024 MAHKEMELER KAYIT KALEMLERİ(KURULUŞU VE MEMURLARIN YETKİ VE GÖREVLERİ)(DEĞİŞİKLİK)TÜZÜĞÜ",
@@ -9219,6 +9778,19 @@
 "eslesme_puani": 0.88,
 "ocr": false,
 "bozukluk": 0.0018
+},
+{
+"ae": "728/2024",
+"tur": "emirname",
+"baslik": "ÇIRAKLIK VE MESLEK EĞİTİMİ YASASI-\"ÇIRAKLIK VE KALFALIK EĞİTİMİNİN YAPILACAĞI MESLEK DALLARI EMİRNAMESİ",
+"yil": "2024",
+"sayi": "172",
+"tarih": "22.08.2024",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2024/172.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R728_2024.txt",
+"eslesme_puani": 1.0,
+"ocr": true,
+"bozukluk": 0.0406
 },
 {
 "ae": "705/2024",
@@ -9466,6 +10038,19 @@
 "eslesme_puani": 0.82,
 "ocr": false,
 "bozukluk": 0.0027
+},
+{
+"ae": "464/2024",
+"tur": "tuzuk",
+"baslik": "BELEDİYELER YASASI-GAZİMAĞUSA BELEDİYESİ İÇME SUYU VE SU SAATİ BAĞLAMA ÜCRETLERİ TÜZÜĞÜ",
+"yil": "2024",
+"sayi": "118",
+"tarih": "04.06.2024",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2024/118.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R464_2024.txt",
+"eslesme_puani": 1.0,
+"ocr": false,
+"bozukluk": 0.0012
 },
 {
 "ae": "465/2024",
@@ -10053,6 +10638,19 @@
 "bozukluk": 0.0328
 },
 {
+"ae": "222/2024",
+"tur": "teblig",
+"baslik": "MERKEZ BANKASI YASASI-ELEKTRONİK ÖDEME SİSTEMİ HAKKINDA TEBLİĞ",
+"yil": "2024",
+"sayi": "44",
+"tarih": "29.02.2024",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2024/44.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R222_2024.txt",
+"eslesme_puani": 1.0,
+"ocr": false,
+"bozukluk": 0.0031
+},
+{
 "ae": "185/2024",
 "tur": "tuzuk",
 "baslik": "AKARYAKIT(DEPOLAMA,NAKLİYE VE SATIŞ)YASASI-2001 PETROL ÜRÜNLERİ FİYATLANDIRMA ESASLARINI DÜZENLEYEN(DEĞİŞİKLİK)TÜZÜĞÜ",
@@ -10103,6 +10701,19 @@
 "eslesme_puani": 1.0,
 "ocr": false,
 "bozukluk": 0.0
+},
+{
+"ae": "168/2024",
+"tur": "emirname",
+"baslik": "1977 MAL VE HİZMETLER(DÜZENLEME VE DENETİM)YASASI-2024 MAL VE HİZMETLER(DÜZENLEME VE DENETİM)(KURŞUNSUZ BENZİN(95 VE 98 OKTAN),MOTORİN(MAZOT),GAZYAĞI VE EURO DIESEL)AZAMİ SATIŞ FİYATLARI EMİRNAMESİ",
+"yil": "2024",
+"sayi": "31",
+"tarih": "14.02.2024",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2024/31.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R168_2024.txt",
+"eslesme_puani": 0.94,
+"ocr": false,
+"bozukluk": 0.0065
 },
 {
 "ae": "106/2024",
@@ -10558,6 +11169,32 @@
 "eslesme_puani": 0.83,
 "ocr": false,
 "bozukluk": 0.0067
+},
+{
+"ae": "1066/2025",
+"tur": "tuzuk",
+"baslik": "ANAYASA-2026 MAHKEME HARÇLARI(DEĞİŞİKLİK)TÜZÜĞÜ",
+"yil": "2025",
+"sayi": "261",
+"tarih": "30.12.2025",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2025/261.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R1066_2025.txt",
+"eslesme_puani": 0.75,
+"ocr": false,
+"bozukluk": 0.0022
+},
+{
+"ae": "1067/2025",
+"tur": "tuzuk",
+"baslik": "TEREKE İDARE YASASI-2026 TEREKE İDARE (DEĞİŞİKLİK)TÜZÜĞÜ",
+"yil": "2025",
+"sayi": "261",
+"tarih": "30.12.2025",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2025/261.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R1067_2025.txt",
+"eslesme_puani": 1.0,
+"ocr": false,
+"bozukluk": 0.0059
 },
 {
 "ae": "1068/2025",
@@ -12003,6 +12640,19 @@
 "bozukluk": 0.0219
 },
 {
+"ae": "380/2026",
+"tur": "emirname",
+"baslik": "TURİZM ENDÜSTRİ TEŞVİK YASASI-1987 TURİZM GELİŞTİRME VE TANITMA FONU(AKARYAKIT KATKI PAYI)(FONA YATIRILACAK MİKTAR)(DEĞİŞİKLİK)EMİRNAMESİ",
+"yil": "2026",
+"sayi": "81",
+"tarih": "29.04.2026",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2026/81.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R380_2026.txt",
+"eslesme_puani": 0.64,
+"ocr": true,
+"bozukluk": 0.0
+},
+{
 "ae": "375/2026",
 "tur": "tuzuk",
 "baslik": "KATMA DEĞER VERGİSİ YASASI-2025 YILI KATMA DEĞER VERGİSİ ORANLARI(DEĞİŞİKLİK)TÜZÜĞÜ",
@@ -12172,6 +12822,19 @@
 "bozukluk": 0.0015
 },
 {
+"ae": "269/2026",
+"tur": "emirname",
+"baslik": "1977 MAL VE HİZMETLER(DÜZENLEME VE DENETİM)YASASI-MAL VE HİZMETLER(DÜZENLEME VE DENETİM)(KURŞUNSUZ BENZİN (95 VE 98 OKTAN),MOTORİN(MAZOT),GAZYAĞI VEEURO DİESEL)AZAMİ SATIŞ FİYATLARI EMİRNAMESİ",
+"yil": "2026",
+"sayi": "53",
+"tarih": "18.03.2026",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2026/53.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R269_2026.txt",
+"eslesme_puani": 0.93,
+"ocr": true,
+"bozukluk": 0.0
+},
+{
 "ae": "103/2026",
 "tur": "tuzuk",
 "baslik": "GENEL TARIM SİGORTASI YASASI-2000 GENEL TARIM SİGORTASI FONU HAYVANCILIK ZORUNLU SİGORTA(DEĞİŞİKLİK)TÜZÜĞÜ",
@@ -12287,6 +12950,19 @@
 "eslesme_puani": 0.92,
 "ocr": true,
 "bozukluk": 0.138
+},
+{
+"ae": "967/2018",
+"tur": "tuzuk",
+"baslik": "BELEDİYELER YASASI - TATLISU BELEDİYESİ İÇME SUYU (DEĞİŞİKLİK) TÜZÜĞÜ",
+"yil": "2018",
+"sayi": "170",
+"tarih": "16.11.2018",
+"url": "https://arsiv.basimevi.gov.ct.tr/Portals/105/2018/170.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R967_2018.txt",
+"eslesme_puani": 1.0,
+"ocr": false,
+"bozukluk": 0.0051
 },
 {
 "ae": "870/2018",
@@ -12638,6 +13314,19 @@
 "eslesme_puani": 1.0,
 "ocr": true,
 "bozukluk": 0.0501
+},
+{
+"ae": "505/2018",
+"tur": "tuzuk",
+"baslik": "TELEKOMÜNİKASYON SERVİSİ YASASI - TELEKOMÜNİKASYON HİZMETLERİ ÜCRETLERİ VE UYGULAMA (DEĞİŞİKLİK) TÜZÜĞÜ",
+"yil": "2018",
+"sayi": "87",
+"tarih": "6.06.2018",
+"url": "https://arsiv.basimevi.gov.ct.tr/Portals/105/2018/87.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R505_2018.txt",
+"eslesme_puani": 1.0,
+"ocr": true,
+"bozukluk": 0.0621
 },
 {
 "ae": "470/2018",
@@ -13524,6 +14213,19 @@
 "bozukluk": 0.0572
 },
 {
+"ae": "428/2019",
+"tur": "tuzuk",
+"baslik": "BAKANLIKLARIN KURULUŞ İLKESİ YASASI - 2019 BAKANLIKLARA BAĞLI DAİRELER TÜZÜĞÜ",
+"yil": "2019",
+"sayi": "80",
+"tarih": "13.06.2019",
+"url": "https://arsiv.basimevi.gov.ct.tr/Portals/105/2019/80.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R428_2019.txt",
+"eslesme_puani": 0.75,
+"ocr": true,
+"bozukluk": 0.0
+},
+{
 "ae": "429/2019",
 "tur": "tuzuk",
 "baslik": "BAKANLIKLARIN KURULUŞ İLKESİ YASASI -2019 BAKANLIKLARA BAĞLI KADROLAR TÜZÜĞÜ",
@@ -13704,6 +14406,19 @@
 "eslesme_puani": 1.0,
 "ocr": true,
 "bozukluk": 0.0045
+},
+{
+"ae": "240/2019",
+"tur": "tuzuk",
+"baslik": "MOTORLU ARAÇLAR VE YOL TRAFİK YASASI -MOTORLU ARAÇLAR VE YOL TRAFİK (DEĞİŞİKLİK) TÜZÜĞÜ 51.İNCİ MADDESİ TAHTINDA BİLDİRİ",
+"yil": "2019",
+"sayi": "45",
+"tarih": "01.04.2019",
+"url": "https://arsiv.basimevi.gov.ct.tr/Portals/105/2019/45.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R240_2019.txt",
+"eslesme_puani": 1.0,
+"ocr": true,
+"bozukluk": 0.0197
 },
 {
 "ae": "216/2019",
@@ -14044,6 +14759,19 @@
 "bozukluk": 0.0
 },
 {
+"ae": "564/2020",
+"tur": "tuzuk",
+"baslik": "BULAŞICI HASTALIKLAR YASASI-45/2018 BULAŞICI HASTALIKLAR YASASI KAPSAMINDA TOPLANAN BULAŞICI HASTALIKLAR ÜST KOMİTESİ TARAFINDAN ALINAN KARAR",
+"yil": "2020",
+"sayi": "163",
+"tarih": "28.08.2020",
+"url": "https://arsiv.basimevi.gov.ct.tr/Portals/105/2020/163.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R564_2020.txt",
+"eslesme_puani": 1.0,
+"ocr": false,
+"bozukluk": 0.0064
+},
+{
 "ae": "561/2020",
 "tur": "emirname",
 "baslik": "FİYAT İSTİKRAR FONU YASASI-2020 FİYAT İSTİKRAR FONU(AKARYAKIT,TARIMSAL ÜRÜN VE TÜKETİM MADDELERİ)(FONA YATIRILACAK MİKTARLAR)(DEĞİŞİKLİK) EMİRNAMESİ",
@@ -14159,6 +14887,19 @@
 "eslesme_puani": 1.0,
 "ocr": false,
 "bozukluk": 0.0101
+},
+{
+"ae": "379/2020",
+"tur": "tuzuk",
+"baslik": "BEDEN EĞİTİMİ VE SPOR YASASI-SPOR İHTİSAS KOMİSYONU TÜZÜĞÜ",
+"yil": "2020",
+"sayi": "110",
+"tarih": "16.06.2020",
+"url": "https://arsiv.basimevi.gov.ct.tr/Portals/105/2020/110.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R379_2020.txt",
+"eslesme_puani": 1.0,
+"ocr": false,
+"bozukluk": 0.0
 },
 {
 "ae": "340/2020",
@@ -14863,6 +15604,19 @@
 "bozukluk": 0.006
 },
 {
+"ae": "140/2007",
+"tur": "tuzuk",
+"baslik": "YABANCILARIN ÇALIŞMA İZİNLERİ YASASI-YABANCILARIN ÇALIŞMA İZİNLERİ TÜZÜĞÜ",
+"yil": "2007",
+"sayi": "36",
+"tarih": "",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2007/36.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R140_2007.txt",
+"eslesme_puani": 1.0,
+"ocr": true,
+"bozukluk": 0.1455
+},
+{
 "ae": "156/2007",
 "tur": "tuzuk",
 "baslik": "YABANCILAR VE MUHACERET YASASI-YABANCILAR VE MUHACERET (DEĞİŞİKLİK) TÜZÜĞÜ",
@@ -15188,6 +15942,19 @@
 "bozukluk": 0.0339
 },
 {
+"ae": "567/2007",
+"tur": "tuzuk",
+"baslik": "YÜKSEK ÖĞRENİM VE DIŞİLİŞKİLER DAİRESİ (KURULUŞ, GÖREV VE ÇALIŞMA ESASLARI) YASASI-BURS (DEĞİŞİKLİK) TÜZÜĞÜ",
+"yil": "2007",
+"sayi": "143",
+"tarih": "",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2007/143.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R567_2007.txt",
+"eslesme_puani": 1.0,
+"ocr": false,
+"bozukluk": 0.0157
+},
+{
 "ae": "593/2007",
 "tur": "tuzuk",
 "baslik": "HAZİNE MALLARI YASASI-DEVLET İHALE (DEĞİŞİKLİK) TÜZÜĞÜ",
@@ -15435,6 +16202,19 @@
 "bozukluk": 0.0463
 },
 {
+"ae": "836/2007",
+"tur": "tuzuk",
+"baslik": "KUZEY KIBRIS TÜRK CUMHURİYETİ YÜKSEK ÖĞRETİM YASASI-KKTC YÜKSEKÖĞRETİM KURUMLARI PROGRAM DEĞERLENDİRME VE AKREDİTASYON ÖLÇÜTLERİ TÜZÜĞÜ",
+"yil": "2007",
+"sayi": "209",
+"tarih": "23.11.2007",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2007/209.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R836_2007.txt",
+"eslesme_puani": 1.0,
+"ocr": false,
+"bozukluk": 0.0173
+},
+{
 "ae": "839/2007",
 "tur": "emirname",
 "baslik": "FİYAT İSTİKRAR FONU YASASI-2007 FİYAT İSTİKRAR FONU, (AKARYAKIT, TARIMSAL ÜRÜN VE TÜKETİM MADDELERİ) (FONA YATIRILACAK MİKTARLAR) (DEĞİŞİKLİK) EMİRNAMESİ",
@@ -15526,6 +16306,19 @@
 "bozukluk": 0.0856
 },
 {
+"ae": "30/2018",
+"tur": "tuzuk",
+"baslik": "ŞİRKETLER YASASI - MİTHAT ÜNSAL NURDOĞAN MOTORLU KURYECİLİK VE DAĞITIM HİZMETİ LİMİTED LİMİTED ŞİRKETİN SİCİLDEN KAYDININ SİLİNECEĞİNE İLİŞKİN ÖN DUYURU",
+"yil": "2018",
+"sayi": "6",
+"tarih": "",
+"url": "https://arsiv.basimevi.gov.ct.tr/Portals/105/2018/6.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R30_2018.txt",
+"eslesme_puani": 0.92,
+"ocr": true,
+"bozukluk": 0.0649
+},
+{
 "ae": "272/2020",
 "tur": "tuzuk",
 "baslik": "KATMA DEĞER VERGİSİ YASASI-KATMA DEĞER VERGİSİ ORANLARI(DEĞİŞİKLİK) TÜZÜĞÜ",
@@ -15552,6 +16345,19 @@
 "bozukluk": 0.0192
 },
 {
+"ae": "552/2020",
+"tur": "tuzuk",
+"baslik": "BULAŞICI HASTALIKLAR YASASI-45/2018 BULAŞICI HASTALIKLAR YASASI KAPSAMINDA TOPLANAN BULAŞICI HASTALIKLAR ÜST KOMİTESİ TARAFINDAN ALINAN KARAR",
+"yil": "2020",
+"sayi": "157",
+"tarih": "",
+"url": "https://arsiv.basimevi.gov.ct.tr/Portals/105/2020/157.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R552_2020.txt",
+"eslesme_puani": 1.0,
+"ocr": false,
+"bozukluk": 0.0057
+},
+{
 "ae": "567/2020",
 "tur": "tuzuk",
 "baslik": "AV VE AVLA İLGİLİ YABAN HAYATINI DÜZENLEME YASASI-AV GÜNLERİ, AVLANACAK AV HAYVANLARI VE AV BÖLGELERİ (DEĞİŞİKLİK) TÜZÜĞÜ",
@@ -15560,6 +16366,32 @@
 "tarih": "",
 "url": "https://arsiv.basimevi.gov.ct.tr/Portals/105/2020/165.pdf",
 "metin_dosyasi": "veri/resmi-gazete/metin/R567_2020.txt",
+"eslesme_puani": 1.0,
+"ocr": false,
+"bozukluk": 0.0
+},
+{
+"ae": "625/2020",
+"tur": "tuzuk",
+"baslik": "BULAŞICI HASTALIKLAR YASASI - 45/2018 BULAŞICI HASTALIKLAR YASASI KAPSAMINDA TOPLANAN BULAŞICI HASTALIKLAR ÜST KOMİTESİ TARAFINDAN 5 EYLÜL 2020 TARİHİNDE ALINAN KARARLAR",
+"yil": "2020",
+"sayi": "168",
+"tarih": "",
+"url": "https://arsiv.basimevi.gov.ct.tr/Portals/105/2020/168.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R625_2020.txt",
+"eslesme_puani": 1.0,
+"ocr": false,
+"bozukluk": 0.0
+},
+{
+"ae": "629/2020",
+"tur": "tuzuk",
+"baslik": "BULAŞICI HASTALIKLAR YASASI-45/2018 BULAŞICI HASTALIKLAR YASASI KAPSAMINDA TOPLANAN BULAŞICI HASTALIKLAR ÜST KOMİTESİ TARAFINDAN ALINAN KARARLAR",
+"yil": "2020",
+"sayi": "172",
+"tarih": "",
+"url": "https://arsiv.basimevi.gov.ct.tr/Portals/105/2020/172.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R629_2020.txt",
 "eslesme_puani": 1.0,
 "ocr": false,
 "bozukluk": 0.0
@@ -15591,6 +16423,19 @@
 "bozukluk": 0.0007
 },
 {
+"ae": "247/2021",
+"tur": "tuzuk",
+"baslik": "YABANCILARIN ÇALIŞMA İZİNLERİ YASASI-YABANCILARIN ÇALIŞMA İZİNLERİ (DEĞİŞİKLİK)TÜZÜĞÜ",
+"yil": "2021",
+"sayi": "77",
+"tarih": "",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2021/77.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R247_2021.txt",
+"eslesme_puani": 1.0,
+"ocr": false,
+"bozukluk": 0.0026
+},
+{
 "ae": "155/2022",
 "tur": "tuzuk",
 "baslik": "BAKANLIKLARIN KURULUŞ İLKELERİ YASASI-2022 BAKANLIKLARA BAĞLI DAİRELER TÜZÜĞÜ",
@@ -15602,6 +16447,32 @@
 "eslesme_puani": 1.0,
 "ocr": false,
 "bozukluk": 0.0037
+},
+{
+"ae": "162/2022",
+"tur": "tuzuk",
+"baslik": "ELEKTRİK İNKİŞAF YASASI-ELEKTRİK İNKİŞAF(DEĞİŞİKLİK-NO:2)NİZAMNAMESİ",
+"yil": "2022",
+"sayi": "34",
+"tarih": "",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2022/34.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R162_2022.txt",
+"eslesme_puani": 1.0,
+"ocr": false,
+"bozukluk": 0.0089
+},
+{
+"ae": "256/2022",
+"tur": "tuzuk",
+"baslik": "MAHKEMELER YASASI-2022 HUKUK MUHAKEMELERİ USULÜ(DEĞİŞİKLİK)TÜZÜĞÜ",
+"yil": "2022",
+"sayi": "57",
+"tarih": "",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2022/57.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R256_2022.txt",
+"eslesme_puani": 1.0,
+"ocr": true,
+"bozukluk": 0.0243
 },
 {
 "ae": "22/2024",
@@ -15955,6 +16826,19 @@
 "bozukluk": 0.0219
 },
 {
+"ae": "402/2006",
+"tur": "emirname",
+"baslik": "MAL VE HİZMETLER (DÜZENLEME VE DENETİM) YASASI- 2006 MAL VE HİZMETLER (DÜZENLEME VE DENETİM) (SIVI GAZIN AZAMİ FİYATI) EMİRNAMESİ",
+"yil": "2006",
+"sayi": "115",
+"tarih": "06.07.2006",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2006/115.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R402_2006.txt",
+"eslesme_puani": 0.78,
+"ocr": true,
+"bozukluk": 0.2597
+},
+{
 "ae": "371/2006",
 "tur": "emirname",
 "baslik": "FİYAT İSTİKRAR FONU YASASI-2006 FİYAT İSTİKRAR FONU,(AKARYAKIT, TARIMSAL ÜRÜN VE TÜKETİM MADDELERİ) (FONA YATIRILACAK MİKTARLAR) (DEĞİŞİKLİK) EMİRNAMESİ",
@@ -16083,6 +16967,32 @@
 "eslesme_puani": 1.0,
 "ocr": false,
 "bozukluk": 0.0043
+},
+{
+"ae": "151/2006",
+"tur": "emirname",
+"baslik": "FİYAT İSTİKRAR FONU YASASI-2006 FİYAT İSTİKRAR FONU,(AKARYAKIT, TARIMSAL ÜRÜN VE TÜKETİM MADDELERİ) (FONA YATIRILACAK MİKTARLAR) (DEĞİŞİKLİK) EMİRNAMESİ",
+"yil": "2006",
+"sayi": "53",
+"tarih": "20.03.2006",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2006/53.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R151_2006.txt",
+"eslesme_puani": 1.0,
+"ocr": true,
+"bozukluk": 0.1497
+},
+{
+"ae": "143/2006",
+"tur": "emirname",
+"baslik": "SOKAĞA ÇIKMA YASAĞI YASASI- SOKAĞA ÇIKMA YASAĞI EMİRNAMESİ",
+"yil": "2006",
+"sayi": "49",
+"tarih": "13.03.2006",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2006/49.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R143_2006.txt",
+"eslesme_puani": 0.67,
+"ocr": true,
+"bozukluk": 0.0287
 },
 {
 "ae": "130/2006",
@@ -16267,6 +17177,19 @@
 "bozukluk": 0.0201
 },
 {
+"ae": "891/2007",
+"tur": "emirname",
+"baslik": "MAHKEMELER YASASI-ANAYASANIN 158.MADDESİ ALTINDA EMİRNAME",
+"yil": "2007",
+"sayi": "218",
+"tarih": "10.12.2007",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2007/218.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R891_2007.txt",
+"eslesme_puani": 1.0,
+"ocr": true,
+"bozukluk": 0.0204
+},
+{
 "ae": "982/2007",
 "tur": "emirname",
 "baslik": "FİYAT İSTİKRAR FONU YASASI-2007 FİYAT İSTİKRAR FONU, (AKARYAKIT, TARIMSAL ÜRÜN VE TÜKETİM MADDELERİ) (FONA YATIRILACAK MİKTARLAR) (DEĞİŞİKLİK) EMİRNAMESİ",
@@ -16369,6 +17292,19 @@
 "eslesme_puani": 1.0,
 "ocr": true,
 "bozukluk": 0.0025
+},
+{
+"ae": "672/2007",
+"tur": "emirname",
+"baslik": "1977 MAL VE HİZMETLER (DÜZENLEME VE DENETİM) YASASI-2007 MAL VE HİZMETLER (DÜZENLEME VE DENETİM) (KURŞUNSUZ BENZİN (95 VE 97 OKTAN), MOTORİN (MAZOT), GAZYAĞI VE EURO DİESEL) AZAMİ SATIŞ FİYATLARI EMİRNAMESİ",
+"yil": "2007",
+"sayi": "174",
+"tarih": "25.09.2007",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2007/174.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R672_2007.txt",
+"eslesme_puani": 0.94,
+"ocr": true,
+"bozukluk": 0.028
 },
 {
 "ae": "673/2007",
@@ -16748,6 +17684,19 @@
 "bozukluk": 0.0195
 },
 {
+"ae": "874/2008",
+"tur": "emirname",
+"baslik": "1977 MAL VE HİZMETLER (DÜZENLEME VE DENETİM) YASASI-2008 MAL VE HİZMETLER (DÜZENLEME VE DENETİM) (KURŞUNSUZ BENZİN (95 VE 97 OKTAN) MOTORİN (MAZOT) GAZYAĞI VE EURO DİESEL) AZAMİ SATIŞ FİYATLARI EMİRNAMESİ",
+"yil": "2008",
+"sayi": "213",
+"tarih": "04.12.2008",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2008/213.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R874_2008.txt",
+"eslesme_puani": 1.0,
+"ocr": false,
+"bozukluk": 0.0163
+},
+{
 "ae": "875/2008",
 "tur": "emirname",
 "baslik": "FİYAT İSTİKRAR FONU YASASI-2008 FİYAT İSTİKRAR FONU,(AKARYAKIT,TARIMSAL ÜRÜN VE TÜKETİM MADDELERİ) (FONA YATIRILACAK MİKTARLAR) (DEĞİŞİKLİK) EMİRNAMESİ",
@@ -16785,6 +17734,19 @@
 "eslesme_puani": 0.83,
 "ocr": true,
 "bozukluk": 0.0686
+},
+{
+"ae": "851/2008",
+"tur": "emirname",
+"baslik": "AV VE YABANİ KUŞLARI KORUMA YASASI MADDE 7 TAHTINDA EMİRNAME- AV HAYVANLARININ VURULMASINI ÖLDÜRÜLMESİNİ YAKALANMASINI AVLANMASINI ALINMASINI KOVALANMASINI VE SATILMASINI YASAKLAR",
+"yil": "2008",
+"sayi": "209",
+"tarih": "28.11.2008",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2008/209.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R851_2008.txt",
+"eslesme_puani": 1.0,
+"ocr": false,
+"bozukluk": 0.0
 },
 {
 "ae": "830/2008",
@@ -17970,6 +18932,19 @@
 "bozukluk": 0.0135
 },
 {
+"ae": "797/2010",
+"tur": "emirname",
+"baslik": "1977 MAL VE HİZMETLER (DÜZENLEME VE DENETİM) YASASI-2010 MAL VE HİZMETLER (DÜZENLEME VE DENETİM) (KURŞUNSUZ BENZİN (95 VE 97 OKTAN ), MOTORİN (MAZOT) , GAZYAĞI VE EURO DİZEL) AZAMİ SATIŞ FİYATLARI EMİRNAMESİ.",
+"yil": "2010",
+"sayi": "221",
+"tarih": "31.12.2010",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2010/221.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R797_2010.txt",
+"eslesme_puani": 0.88,
+"ocr": true,
+"bozukluk": 0.032
+},
+{
 "ae": "787/2010",
 "tur": "emirname",
 "baslik": "KATMA DEĞER VERGİSİ YASASI- GÖTÜRÜ KDV YÜKÜMLÜLERİNE UYGULANACAK SAFİ KAR ORANLARI EMİRNAMESİ.",
@@ -18059,6 +19034,19 @@
 "eslesme_puani": 1.0,
 "ocr": true,
 "bozukluk": 0.0286
+},
+{
+"ae": "713/2010",
+"tur": "emirname",
+"baslik": "1977 MAL VE HİZMETLER (DÜZENLEME VE DENETİM) YASASI-2010 MAL VE HİZMETLER (DÜZENLEME VE DENETİM) (KURŞUNSUZ BENZİN (95 VE 97 OKTAN ), MOTORİN (MAZOT) GAZYAĞI VE EURO DİZEL) AZAMİ SATIŞ FİYATLARI EMİRNAMESİ.",
+"yil": "2010",
+"sayi": "204",
+"tarih": "07.12.2010",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2010/204.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R713_2010.txt",
+"eslesme_puani": 0.94,
+"ocr": true,
+"bozukluk": 0.0586
 },
 {
 "ae": "714/2010",
@@ -18191,6 +19179,19 @@
 "bozukluk": 0.0197
 },
 {
+"ae": "611/2010",
+"tur": "emirname",
+"baslik": "1977 MAL VE HİZMETLER (DÜZENLEME VE DENETİM) YASASI -2010 MAL VE HİZMETLER (DÜZENLEME VE DENETİM) (KURŞUNSUZ BENZİN (95 VE 97 OKTAN ), MOTORİN (MAZOT) , GAZYAĞI VE EURO DİZEL) AZAMİ SATIŞ FİYATLARI EMİRNAMESİ.",
+"yil": "2010",
+"sayi": "170",
+"tarih": "05.10.2010",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2010/170.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R611_2010.txt",
+"eslesme_puani": 0.94,
+"ocr": false,
+"bozukluk": 0.0183
+},
+{
 "ae": "612/2010",
 "tur": "emirname",
 "baslik": "FİYAT İSTİKRAR FONU YASASI-2010 FİYAT İSTİKRAR FONU,(AKARYAKIT, TARIMSAL ÜRÜN VE TÜKETİM MADDELERİ )(FONA YATIRILACAK MİKTARLAR)(DEĞİŞİKLİK) EMİRNAMESİ.",
@@ -18204,6 +19205,19 @@
 "bozukluk": 0.0187
 },
 {
+"ae": "577/2010",
+"tur": "emirname",
+"baslik": "1977 MAL VE HİZMETLER (DÜZENLEME VE DENETİM) YASASI -2010 MAL VE HİZMETLER (DÜZENLEME VE DENETİM) (KURŞUNSUZ BENZİN (95 VE 97 OKTAN ), MOTORİN (MAZOT) , GAZYAĞI VE EURO DİZEL) AZAMİ SATIŞ FİYATLARI EMİRNAMESİ.",
+"yil": "2010",
+"sayi": "162",
+"tarih": "20.09.2010",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2010/162.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R577_2010.txt",
+"eslesme_puani": 0.88,
+"ocr": true,
+"bozukluk": 0.0262
+},
+{
 "ae": "578/2010",
 "tur": "emirname",
 "baslik": "FİYAT İSTİKRAR FONU YASASI-2010 FİYAT İSTİKRAR FONU,(AKARYAKIT, TARIMSAL ÜRÜN VE TÜKETİM MADDELERİ )(FONA YATIRILACAK MİKTARLAR)(DEĞİŞİKLİK) EMİRNAMESİ.",
@@ -18215,6 +19229,19 @@
 "eslesme_puani": 1.0,
 "ocr": false,
 "bozukluk": 0.01
+},
+{
+"ae": "566/2010",
+"tur": "emirname",
+"baslik": "1977 MAL VE HİZMETLER (DÜZENLEME VE DENETİM) YASASI - 2010 MAL VE HİZMETLER (DÜZENLEME VE DENETİM) (KURŞUNSUZ BENZİN (95 VE 97 OKTAN ), MOTORİN (MAZOT) , GAZYAĞI VE EURO DİZEL) AZAMİ SATIŞ FİYATLARI EMİRNAMESİ.",
+"yil": "2010",
+"sayi": "155",
+"tarih": "07.09.2010",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2010/155.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R566_2010.txt",
+"eslesme_puani": 0.88,
+"ocr": true,
+"bozukluk": 0.0278
 },
 {
 "ae": "567/2010",
@@ -18267,6 +19294,19 @@
 "eslesme_puani": 1.0,
 "ocr": true,
 "bozukluk": 0.0217
+},
+{
+"ae": "508/2010",
+"tur": "emirname",
+"baslik": "1977 MAL VE HİZMETLER (DÜZENLEME VE DENETİM) YASASI 2010 MAL VE HİZMETLER (DÜZENLEME VE DENETİM) (KURŞUNSUZ BENZİN (95 VE 97 OKTAN ), MOTORİN (MAZOT) , GAZYAĞI VE EURO DİZEL) AZAMİ SATIŞ FİYATLARI EMİRNAMESİ.",
+"yil": "2010",
+"sayi": "135",
+"tarih": "06.08.2010",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2010/135.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R508_2010.txt",
+"eslesme_puani": 0.94,
+"ocr": false,
+"bozukluk": 0.0115
 },
 {
 "ae": "509/2010",
@@ -18334,6 +19374,19 @@
 "bozukluk": 0.0123
 },
 {
+"ae": "473/2010",
+"tur": "emirname",
+"baslik": "1977 MAL VE HİZMETLER (DÜZENLEME VE DENETİM) YASASI MAL VE HİZMETLER (DÜZENLEME VE DENETİM) (KURŞUNSUZ BENZİN (95 VE 97 OKTAN ), MOTORİN (MAZOT) , GAZYAĞI VE EURO DİZEL) AZAMİ SATIŞ FİYATLARI EMİRNAMESİ.",
+"yil": "2010",
+"sayi": "123",
+"tarih": "23.07.2010",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2010/123.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R473_2010.txt",
+"eslesme_puani": 0.94,
+"ocr": true,
+"bozukluk": 0.0202
+},
+{
 "ae": "474/2010",
 "tur": "emirname",
 "baslik": "FİYAT İSTİKRAR FONU YASASI-2010 FİYAT İSTİKRAR FONU,(AKARYAKIT, TARIMSAL ÜRÜN VE TÜKETİM MADDELERİ )(FONA YATIRILACAK MİKTARLAR)(DEĞİŞİKLİK) EMİRNAMESİ.",
@@ -18386,6 +19439,19 @@
 "bozukluk": 0.008
 },
 {
+"ae": "450/2010",
+"tur": "emirname",
+"baslik": "1977 MAL VE HİZMETLER (DÜZENLEME VE DENETİM) YASASI MAL VE HİZMETLER (DÜZENLEME VE DENETİM) (KURŞUNSUZ BENZİN (95 VE 97 OKTAN ), MOTORİN (MAZOT) , GAZYAĞI VE EURO DİZEL) AZAMİ SATIŞ FİYATLARI EMİRNAMESİ.",
+"yil": "2010",
+"sayi": "113",
+"tarih": "09.07.2010",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2010/113.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R450_2010.txt",
+"eslesme_puani": 0.94,
+"ocr": true,
+"bozukluk": 0.022
+},
+{
 "ae": "413/2010",
 "tur": "emirname",
 "baslik": "FİYAT İSTİKRAR FONU YASASI-2010 FİYAT İSTİKRAR FONU,(AKARYAKIT, TARIMSAL ÜRÜN VE TÜKETİM MADDELERİ )(FONA YATIRILACAK MİKTARLAR)(DEĞİŞİKLİK) EMİRNAMESİ.",
@@ -18423,6 +19489,19 @@
 "eslesme_puani": 1.0,
 "ocr": false,
 "bozukluk": 0.0172
+},
+{
+"ae": "407/2010",
+"tur": "emirname",
+"baslik": "1977 MAL VE HİZMETLER (DÜZENLEME VE DENETİM) YASASI MAL VE HİZMETLER (DÜZENLEME VE DENETİM) (KURŞUNSUZ BENZİN (95 VE 97 OKTAN ), MOTORİN (MAZOT) , GAZYAĞI VE EURO DİZEL) AZAMİ SATIŞ FİYATLARI EMİRNAMESİ.",
+"yil": "2010",
+"sayi": "103",
+"tarih": "30.06.2010",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2010/103.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R407_2010.txt",
+"eslesme_puani": 0.94,
+"ocr": false,
+"bozukluk": 0.0121
 },
 {
 "ae": "408/2010",
@@ -18553,6 +19632,19 @@
 "eslesme_puani": 1.0,
 "ocr": true,
 "bozukluk": 0.0209
+},
+{
+"ae": "259/2010",
+"tur": "yonetmelik",
+"baslik": "SPOR YASASI-KUZEY KIBRIS MASA TENİSİ FEDERASYONU SPORCU LİSANS, TESCİL, VİZE VE TRANSFER YÖNETMELİĞİ.",
+"yil": "2010",
+"sayi": "67",
+"tarih": "26.04.2010",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2010/67.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R259_2010.txt",
+"eslesme_puani": 1.0,
+"ocr": true,
+"bozukluk": 0.0727
 },
 {
 "ae": "249/2010",
@@ -18828,6 +19920,19 @@
 "bozukluk": 0.0223
 },
 {
+"ae": "657/2011",
+"tur": "emirname",
+"baslik": "MAL VE HİZMETLER(DÜZENLEME VE DENETİM)YASASI-2011 MAL VE HİZMETLER(DÜZENLEME VE DENETİM)(KURŞUNSUZ BENZİN(95 VE 97 OKTAN),MOTORİN (MAZOT)GAZYAĞI VE EURO DIESEL)AZAMİ SATIŞ FİYATLARI EMİRNAMESİ",
+"yil": "2011",
+"sayi": "214",
+"tarih": "16.12.2011",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2011/214.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R657_2011.txt",
+"eslesme_puani": 1.0,
+"ocr": false,
+"bozukluk": 0.0115
+},
+{
 "ae": "616/2011",
 "tur": "emirname",
 "baslik": "FİYAT İSTİKRAR FONU YASASI-2011 FİYAT İSTİKRAR FONU(AKARYAKIT TARIMSAL ÜRÜN VE TÜKETİM MADDELERİ(FONA YATIRILACAK MİKTARLAR(DEĞİŞİKLİK)EMİRNAMESİ",
@@ -18893,6 +19998,19 @@
 "bozukluk": 0.0166
 },
 {
+"ae": "506/2011",
+"tur": "emirname",
+"baslik": "MAL VE HİZMETLER(DÜZENLEME VE DENETİM)YASASI-2011 MAL VE HİZMETLER(DÜZENLEME VE DENETİM)(KURŞUNSUZ BENZİN(95 VE 97 OKTAN)MOTORİN(MAZOT)GAZYAPI VE EURO DİESEL)AZAMİ SATIŞ FİYATLARI EMİRNAMESİ",
+"yil": "2011",
+"sayi": "162",
+"tarih": "23.09.2011",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2011/162.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R506_2011.txt",
+"eslesme_puani": 0.94,
+"ocr": true,
+"bozukluk": 0.0352
+},
+{
 "ae": "491/2011",
 "tur": "emirname",
 "baslik": "FİYAT İSTİKRAR FONU YASASI-2011 FİYAT İSTİKRAR FONU(AKARYAKIT,TARIMSAL ÜRÜN VE TÜKETİM MADDELERİ)(FONA YATIRILACAK MİKTARLAR)(DEĞİŞİKLİK) EMİRNAMESİ",
@@ -18906,6 +20024,19 @@
 "bozukluk": 0.0163
 },
 {
+"ae": "483/2011",
+"tur": "emirname",
+"baslik": "1977 MAL VE HİZMETLER(DÜZENLEME VE DENETİM)YASASI-2011 MAL VE HİZMETLER(DENETLEME VE DENETİM)(KURŞUNSUZ BENZİN(95 VE 97),MOTORİN(MAZOT)GAZYAĞI VE EURO DİESEL)AZAMİ SATIŞ FİYATLARI EMİRNAMESİ",
+"yil": "2011",
+"sayi": "149",
+"tarih": "09.09.2011",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2011/149.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R483_2011.txt",
+"eslesme_puani": 0.93,
+"ocr": false,
+"bozukluk": 0.0115
+},
+{
 "ae": "471/2011",
 "tur": "emirname",
 "baslik": "FİYAT İSTİKRAR FONU YASASI-2011 FİYAT İSTİKRAR FONU(AKARYAKIT,TARIMSAL ÜRÜN VE TÜKETİM MADDELERİ)(FONA YATIRILACAK MİKTARLAR)(DEĞİŞİKLİK)EMİRNAMESİ",
@@ -18917,6 +20048,19 @@
 "eslesme_puani": 1.0,
 "ocr": false,
 "bozukluk": 0.0134
+},
+{
+"ae": "470/2011",
+"tur": "emirname",
+"baslik": "1977 MAL VE HİZMETLER(DÜZENLEME VE DENETİM)YASASI-2011 MAL VE HİZMETLER(DENETLEME VE DENETİM)(KURŞUNSUZ BENZİN(95 VE 97),MOTORİN(MAZOT)GAZYAĞI VE EURO DİESEL)AZAMİ SATIŞ FİYATLARI EMİRNAMESİ",
+"yil": "2011",
+"sayi": "144",
+"tarih": "26.08.2011",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2011/144.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R470_2011.txt",
+"eslesme_puani": 0.93,
+"ocr": true,
+"bozukluk": 0.0277
 },
 {
 "ae": "459/2011",
@@ -18958,6 +20102,58 @@
 "bozukluk": 0.0141
 },
 {
+"ae": "440/2011",
+"tur": "emirname",
+"baslik": "1977 MAL VE HİZMETLER(DÜZENLEME VE DENETİM)YASASI-2011 MAL VE HİZMETLER(DENETLEME VE DENETİM)(KURŞUNSUZ BENZİN(95 VE 97),MOTORİN(MAZOT)GAZYAĞI VE EURO DİESEL)AZAMİ SATIŞ FİYATLARI EMİRNAMESİ",
+"yil": "2011",
+"sayi": "135",
+"tarih": "12.08.2011",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2011/135.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R440_2011.txt",
+"eslesme_puani": 0.93,
+"ocr": false,
+"bozukluk": 0.012
+},
+{
+"ae": "406/2011",
+"tur": "emirname",
+"baslik": "1977 MAL VE HİZMETLER(DÜZENLEME VE DENETİM)YASASI-2011 MAL VE HİZMETLER(DÜZENLEME VE DENETİM)(KURŞUNSUZ BENZİN(95 VE 98 OKTAN),MOTORİN(MAZOT),GAZYAĞI VE EURO DİESSEL)AZAMİ SATIŞ FİYATLARI EMİRNAMESİ",
+"yil": "2011",
+"sayi": "128",
+"tarih": "29.07.2011",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2011/128.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R406_2011.txt",
+"eslesme_puani": 0.94,
+"ocr": true,
+"bozukluk": 0.0277
+},
+{
+"ae": "373/2011",
+"tur": "emirname",
+"baslik": "1977 MAL VE HİZMETLER(DÜZENLEME VE DENETLEME)YASASI-2011 MAL VE HİZMETLER(DÜZENLEME VE DENETİM)(KURŞUNSUZ BENZİN(95 VE 98 OKTAN)MOTORİN(MAZOT)GAZYAĞI VE EURO DİESSEL)AZAMİ SATIŞ FİYATLARI EMİRNAMESİ",
+"yil": "2011",
+"sayi": "120",
+"tarih": "15.07.2011",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2011/120.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R373_2011.txt",
+"eslesme_puani": 0.94,
+"ocr": true,
+"bozukluk": 0.0321
+},
+{
+"ae": "350/2011",
+"tur": "emirname",
+"baslik": "1977 MAL VE HİZMETLER(DÜZENLEME VE DENETİM)YASASI-2011 MAL VE HİZMETLER(DENETLEME VE DENETİM)(KURŞUNSUZ BENZİN(95 VE 97),MOTORİN(MAZOT)GAZYAĞI VE EURO DİESEL)AZAMİ SATIŞ FİYATLARI EMİRNAMESİ",
+"yil": "2011",
+"sayi": "112",
+"tarih": "30.06.2011",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2011/112.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R350_2011.txt",
+"eslesme_puani": 0.93,
+"ocr": false,
+"bozukluk": 0.012
+},
+{
 "ae": "332/2011",
 "tur": "emirname",
 "baslik": "FLORA VE FAUNA'NIN KORUNMASI(DEĞİŞİKLİK)EMİRNAMAESİ-\"FLORA VE FAUNA'NIN KORUNMASI(DEĞİŞİKLİK)EMİRNAMESİ",
@@ -18997,6 +20193,32 @@
 "bozukluk": 0.0167
 },
 {
+"ae": "295/2011",
+"tur": "emirname",
+"baslik": "1977 MAL VE HİZMETLER DÜZENLEME VE DENETİM YASASI-2011 MAL VE HİZMETLER(DÜZENLEME VE DENETİM)(KURŞUNSUZ BENZİN(95 VE 97 OKTAN),MOTORİN(MAZOT),GAZYAĞI VE EURO DİESEL)AZAMİ SATIŞ FİYATLARI EMİRNAMESİ",
+"yil": "2011",
+"sayi": "93",
+"tarih": "03.06.2011",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2011/93.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R295_2011.txt",
+"eslesme_puani": 1.0,
+"ocr": true,
+"bozukluk": 0.0359
+},
+{
+"ae": "268/2011",
+"tur": "emirname",
+"baslik": "1977 MAL VE HİZMETLER(DÜZENLEME VE DENETİM)YASASI-2011 MAL VE HİZMETLER(DENETLEME VE DENETİM)(KURŞUNSUZ BENZİN(95 VE 97),MOTORİN(MAZOT)GAZYAĞI VE EURO DİESEL)AZAMİ SATIŞ FİYATLARI EMİRNAMESİ",
+"yil": "2011",
+"sayi": "81",
+"tarih": "09.04.2011",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2011/81.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R268_2011.txt",
+"eslesme_puani": 0.93,
+"ocr": false,
+"bozukluk": 0.0162
+},
+{
 "ae": "247/2011",
 "tur": "emirname",
 "baslik": "İMAR YASASI-2011 GİRNE BEYAZ BÖLGE(ÖNİMAR SINIRI VE BU ALAN İÇERİSİNDE UYGULANACAK KURAL VE KOŞULLAR)(DEĞİŞİKLİK 5)EMİRNAMESİ",
@@ -19023,6 +20245,19 @@
 "bozukluk": 0.004
 },
 {
+"ae": "212/2011",
+"tur": "emirname",
+"baslik": "1977 MAL VE HİZMETLER(DÜZENLEME VE DENETLEME)YASASI-2011 MAL VE HİZMETLER(DÜZENLEME VE DENETİM)(KURŞUNSUZ BENZİN)(95 VE 97 OKTAN),MOTORİN(MAZOT)GAZYAĞI VE EURO DİESEL)AZAMİ SATIŞ FİYATLARI EMİRNAMESİ",
+"yil": "2011",
+"sayi": "64",
+"tarih": "15.04.2011",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2011/64.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R212_2011.txt",
+"eslesme_puani": 1.0,
+"ocr": true,
+"bozukluk": 0.0239
+},
+{
 "ae": "149/2011",
 "tur": "emirname",
 "baslik": "FİYAT İSTİKRAR FONU YASASI-2011 FİYAT İSTİKARAR FONU(AKARYAKIT,TARIMSAL ÜRÜN VE TÜKETİM MADDELERİ)(FONA YATIRILACAK MİKTARLAR)(EĞİŞİKLİK)EMİRNAMESİ",
@@ -19034,6 +20269,19 @@
 "eslesme_puani": 0.85,
 "ocr": true,
 "bozukluk": 0.0292
+},
+{
+"ae": "145/2011",
+"tur": "emirname",
+"baslik": "1977 MAL HİZMETLER(DÜZENLEME VE DENETİM)YASASI-2011 MAL VE HİZMETLER(DÜZENLEME VE DENETİM)(KURŞUNSUZ BENZİN(95 VE 97 OKTAN),MOTORİN(MAZOT)GAZYAĞI VE EURO DİESEL)AZAMİ SATIŞ FİYATLARI EMİRNAMESİ",
+"yil": "2011",
+"sayi": "49",
+"tarih": "17.03.2011",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2011/49.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R145_2011.txt",
+"eslesme_puani": 1.0,
+"ocr": true,
+"bozukluk": 0.0342
 },
 {
 "ae": "123/2011",
@@ -19075,6 +20323,58 @@
 "bozukluk": 0.0235
 },
 {
+"ae": "114/2011",
+"tur": "emirname",
+"baslik": "1977 MAL VE HİZMETLER(DÜZENLEME VE DENETİM)YASASI-2011 MAL VE HİZMETLER(DENETLEME VE DENETİM)(KURŞUNSUZ BENZİN(95 VE 97),MOTORİN(MAZOT)GAZYAĞI VE EURO DİESEL)AZAMİ SATIŞ FİYATLARI EMİRNAMESİ",
+"yil": "2011",
+"sayi": "41",
+"tarih": "17.02.2011",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2011/41.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R114_2011.txt",
+"eslesme_puani": 0.93,
+"ocr": true,
+"bozukluk": 0.0278
+},
+{
+"ae": "98/2011",
+"tur": "emirname",
+"baslik": "EMTİA VE HİZMETLER(GEÇİCİ YETKİLER)(DEVAMI)YASASI-2011 GREV YASAĞI(DEMOKRASİ ORTAOKULU,ATATÜRK İLKOKULU VE ARABAHMET İLKOKULU)EMİRNAMESİ",
+"yil": "2011",
+"sayi": "33",
+"tarih": "21.02.2011",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2011/33.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R98_2011.txt",
+"eslesme_puani": 1.0,
+"ocr": true,
+"bozukluk": 0.0403
+},
+{
+"ae": "93/2011",
+"tur": "emirname",
+"baslik": "1977 MAL VE HİZMETLER(DÜZENLEME VE DENETİM)YASASI-2011 MAL VE HİZMETLER(DENETLEME VE DENETİM)(KURŞUNSUZ BENZİN(95 VE 97),MOTORİN(MAZOT)GAZYAĞI VE EURO DİESEL)AZAMİ SATIŞ FİYATLARI EMİRNAMESİ",
+"yil": "2011",
+"sayi": "30",
+"tarih": "17.02.2011",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2011/30.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R93_2011.txt",
+"eslesme_puani": 0.93,
+"ocr": true,
+"bozukluk": 0.0356
+},
+{
+"ae": "69/2011",
+"tur": "emirname",
+"baslik": "1977 MAL VE HİZMETLER(DÜZENLEME VE DENETİM)YASASI-2011 MAL VE HİZMETLER(DENETLEME VE DENETİM)(KURŞUNSUZ BENZİN(95 VE 97),MOTORİN(MAZOT)GAZYAĞI VE EURO DİESEL)AZAMİ SATIŞ FİYATLARI EMİRNAMESİ",
+"yil": "2011",
+"sayi": "22",
+"tarih": "04.02.2011",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2011/22.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R69_2011.txt",
+"eslesme_puani": 0.93,
+"ocr": false,
+"bozukluk": 0.0
+},
+{
 "ae": "60/2011",
 "tur": "emirname",
 "baslik": "EMTİA VE HİZMETLER(GEÇİCİ YETKİLER)(DEVAMI)YASASI-2011 GREV YASAĞI(SİVİL HAVACILIK DAİRESİ)EMİRNAMESİ",
@@ -19086,6 +20386,32 @@
 "eslesme_puani": 1.0,
 "ocr": false,
 "bozukluk": 0.0048
+},
+{
+"ae": "51/2011",
+"tur": "emirname",
+"baslik": "1977 MAL VE HİZMETLER(DÜZENLEME VE DENETİM)YASASI-2011 MAL VE HİZMETLER(DENETLEME VE DENETİM)(KURŞUNSUZ BENZİN(95 VE 97),MOTORİN(MAZOT)GAZYAĞI VE EURO DİESEL)AZAMİ SATIŞ FİYATLARI EMİRNAMESİ",
+"yil": "2011",
+"sayi": "14",
+"tarih": "21.01.2011",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2011/14.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R51_2011.txt",
+"eslesme_puani": 0.93,
+"ocr": true,
+"bozukluk": 0.0412
+},
+{
+"ae": "14/2011",
+"tur": "emirname",
+"baslik": "1977 MAL VE HİZMETLER(DÜZENLEME VE DENETİM)YASASI-2011 MAL VE HİZMETLER(DENETLEME VE DENETİM)(KURŞUNSUZ BENZİN(95 VE 97),MOTORİN(MAZOT)GAZYAĞI VE EURO DİESEL)AZAMİ SATIŞ FİYATLARI EMİRNAMESİ",
+"yil": "2011",
+"sayi": "4",
+"tarih": "07.01.2011",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2011/4.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R14_2011.txt",
+"eslesme_puani": 0.93,
+"ocr": true,
+"bozukluk": 0.0285
 },
 {
 "ae": "734/2012",
@@ -19582,6 +20908,19 @@
 "bozukluk": 0.0175
 },
 {
+"ae": "175/2012",
+"tur": "emirname",
+"baslik": "1977 MAL VE HİZMETLER (DÜZENLEME VE DENETİM) YASASI-2012 MAL VE HİZMETLER (DÜZENLEME VE DENETİM) KURŞUNSUZ BENZİN (95 VE 97 OKTAN), MOTORİN (MAZOT), GAZYAĞI VE EURO DİESEL) AZAMİ SATIŞ FİYATLARI EMİRNAMESİ",
+"yil": "2012",
+"sayi": "54",
+"tarih": "14.03.2012",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2012/54.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R175_2012.txt",
+"eslesme_puani": 1.0,
+"ocr": true,
+"bozukluk": 0.0433
+},
+{
 "ae": "176/2012",
 "tur": "emirname",
 "baslik": "FİYAT İSTİKRAR FONU YASASI-2012 FİYAT İSTİKRAR FONU, (AKARYAKIT, TARIMSAL ÜRÜN VE TÜKETİM MADDELERİ) (FONA YATIRILACAK MİKTARLAR) (DEĞİŞİKLİK) EMİRNAMESİ",
@@ -19959,6 +21298,19 @@
 "bozukluk": 0.0
 },
 {
+"ae": "502/2013",
+"tur": "emirname",
+"baslik": "1977 MAL VE HİZMETLER (DÜZENLEME VE DENETİM) YASASI- 2013 MAL VE HİZMETLER (DÜZENLEME VE DENETİM (KURŞUNSUZ BENZİN (95 VE 97 OKTAN), MOTORİN (MAZOT), GAZYAĞI VE EUOR DİESEL) AZAMİ SATIŞ FİYATLARI EMİRNAMESİ",
+"yil": "2013",
+"sayi": "148",
+"tarih": "18.09.2013",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2013/148.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R502_2013.txt",
+"eslesme_puani": 0.94,
+"ocr": true,
+"bozukluk": 0.0551
+},
+{
 "ae": "503/2013",
 "tur": "emirname",
 "baslik": "FİYAT İSTİKRAR FONU YASASI-2013 FİYAT İSTİKRAR FONU, (AKARYAKIT, TARIMSAL ÜRÜN VE TÜKETİM MADDELERİ) (FONA YATIRILACAK MİKTARLAR) (DEĞİŞİKLİK) EMİRNAMESİ",
@@ -20193,6 +21545,19 @@
 "bozukluk": 0.0125
 },
 {
+"ae": "198/2013",
+"tur": "emirname",
+"baslik": "BİTKİ SAĞLIĞI YASASI- FASIL 49 BİTKİ HASTALIKLARININ ÖNLENMESİ YASASI ALTINDA ÇIKARILAN N1957 ÜRÜN İTHALİ (KONTROL) EMİRNAMESİNİN 18. MADDESİNİN (a) BENDİ ALTINDA DUYURU",
+"yil": "2013",
+"sayi": "55",
+"tarih": "09.04.2013",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2013/55.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R198_2013.txt",
+"eslesme_puani": 0.71,
+"ocr": true,
+"bozukluk": 0.0469
+},
+{
 "ae": "176/2013",
 "tur": "emirname",
 "baslik": "FİYAT İSTİKRAR FONU YASASI-2013 FİYAT İSTİKRAR FONU, (AKARYAKIT, TARIMSAL ÜRÜN VE TÜKETİM MADDELERİ) (FONA YATIRILACAK MİKTARLAR) (DEĞİŞİKLİK) EMİRNAMESİ",
@@ -20258,6 +21623,19 @@
 "bozukluk": 0.01
 },
 {
+"ae": "102/2013",
+"tur": "emirname",
+"baslik": "1977 MAL VE HİZMETLER (DÜZENLEME VE DENETİM) YASASI- 2013 MAL VE HİZMETLER (DÜZENLEME VE DENETİM (KURŞUNSUZ BENZİN (95 VE 97 OKTAN), MOTORİN (MAZOT), GAZYAĞI VE EUOR DİESEL) AZAMİ SATIŞ FİYATLARI EMİRNAMESİ",
+"yil": "2013",
+"sayi": "33",
+"tarih": "28.02.2013",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2013/33.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R102_2013.txt",
+"eslesme_puani": 0.94,
+"ocr": true,
+"bozukluk": 0.0238
+},
+{
 "ae": "103/2013",
 "tur": "emirname",
 "baslik": "FİYAT İSTİKRAR FONU YASASI-2013 FİYAT İSTİKRAR FONU, (AKARYAKIT, TARIMSAL ÜRÜN VE TÜKETİM MADDELERİ) (FONA YATIRILACAK MİKTARLAR) (DEĞİŞİKLİK) EMİRNAMESİ",
@@ -20321,6 +21699,19 @@
 "eslesme_puani": 1.0,
 "ocr": true,
 "bozukluk": 0.0474
+},
+{
+"ae": "24/2013",
+"tur": "emirname",
+"baslik": "1977 MAL VE HİZMETLER (DÜZENLEME VE DENETİM) YASASI- 2013 MAL VE HİZMETLER (DÜZENLEME VE DENETİM (KURŞUNSUZ BENZİN (95 VE 97 OKTAN), MOTORİN (MAZOT), GAZYAĞI VE EUOR DİESEL) AZAMİ SATIŞ FİYATLARI EMİRNAMESİ",
+"yil": "2013",
+"sayi": "7",
+"tarih": "16.01.2013",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2013/7.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R24_2013.txt",
+"eslesme_puani": 0.94,
+"ocr": true,
+"bozukluk": 0.0352
 },
 {
 "ae": "3/2013",
@@ -20492,6 +21883,19 @@
 "bozukluk": 0.0673
 },
 {
+"ae": "573/2014",
+"tur": "teblig",
+"baslik": "MERKEZ BANKASI YASASI- DİSPONİBİLİTE TEBLİĞİ'NE MADDE İLAVESİ.",
+"yil": "2014",
+"sayi": "195",
+"tarih": "22.10.2014",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2014/195.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R573_2014.txt",
+"eslesme_puani": 0.75,
+"ocr": true,
+"bozukluk": 0.08
+},
+{
 "ae": "554/2014",
 "tur": "emirname",
 "baslik": "FİYAT İSTİKRAR FONU YASASI-2014 FİYAT İSTİKRAR FONU,(AKARYAKIT, TARIMSAL ÜRÜN VE TÜKETİM MEADDELERİ)(FONA YATIRILACAK MİKTARLAR)(DEĞİŞİKLİK) EMİRNAMESİ.",
@@ -20646,6 +22050,19 @@
 "eslesme_puani": 0.92,
 "ocr": false,
 "bozukluk": 0.0065
+},
+{
+"ae": "284/2014",
+"tur": "emirname",
+"baslik": "1977 MAL VE HİZMETLER (DÜZENLEME VE DENETİM) YASASI-2014 MAL VE HİZMETLER(DÜZENLEME VE DENETİM)(KURŞUNSUZ BENZİN(95 VE 97 OKTAN)MOTORİN(MAZOT)GAZYAĞI VE EURO DIESEL)AZAMİ SATIŞ FİYATLARI EMİRNAMESİ.",
+"yil": "2014",
+"sayi": "103",
+"tarih": "28.04.2014",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2014/103.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R284_2014.txt",
+"eslesme_puani": 1.0,
+"ocr": false,
+"bozukluk": 0.0039
 },
 {
 "ae": "285/2014",
@@ -20869,6 +22286,19 @@
 "bozukluk": 0.0
 },
 {
+"ae": "594/2015",
+"tur": "emirname",
+"baslik": "MAL VE HİZMETLER(DÜZENLEME VE DENETİM) YASASI-2015 MAL VE HİZMETLER (DÜZENLEME VE DENETİM)(KURŞUNSUZ BENZİN(95 VE 98 OKTAN)MOTORİN(MAZOT)GAZYAĞI VE EURO DİESEL)AZAMİ SATIŞ FİYATLARI EMİRNAMESİ",
+"yil": "2015",
+"sayi": "134",
+"tarih": "08.09.2015",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2015/134.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R594_2015.txt",
+"eslesme_puani": 1.0,
+"ocr": false,
+"bozukluk": 0.012
+},
+{
 "ae": "575/2015",
 "tur": "emirname",
 "baslik": "FİYAT İSTİKRAR FONU YASASI-2015 FİYAT İSTİKRAR FONU(AKARYAKIT TARIMSAL ÜRÜN VE TÜKETİM MADDELERİ)(FONA YATIRILACAK MİKTARLAR)(DEĞİŞİKLİK)EMİRNAMESİ",
@@ -20999,6 +22429,19 @@
 "bozukluk": 0.0257
 },
 {
+"ae": "311/2015",
+"tur": "emirname",
+"baslik": "UYUŞTURUCU MADDELER YASASI-BAZI MADDELERİN YASAYA EK CETVELİN KISIM I İNE İAVE EDİLMESİ EMİRNAMESİ",
+"yil": "2015",
+"sayi": "67",
+"tarih": "05.05.2015",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2015/67.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R311_2015.txt",
+"eslesme_puani": 0.75,
+"ocr": true,
+"bozukluk": 0.037
+},
+{
 "ae": "272/2015",
 "tur": "emirname",
 "baslik": "FİYAT İSTİKRAR FONU YASASI-2015 FİYAT İSTİKRAR FONU(AKARYAKIT TARIMSAL ÜRÜN VE TÜKETİM MADDELERİ)(FONA YATIRILACAK MİKTARLAR)(DEĞİŞİKLİK)EMİRNAMESİ",
@@ -21062,6 +22505,19 @@
 "eslesme_puani": 1.0,
 "ocr": false,
 "bozukluk": 0.0159
+},
+{
+"ae": "207/2015",
+"tur": "emirname",
+"baslik": "1977 MAL VE HİZMETLER (DÜZENLEME VE DENETİM) YASASI-2015 MAL VE HİZMETLER (DÜZENLEME VE DENETİM)(KURŞUNSUZ BENZİN(95 VE 98 OKTAN)MOTORİN(MAZOT)GAZYAĞIVE EURO DİESEL)AZAMİ SATIŞ FİYATLARI EMİRNAMESİ",
+"yil": "2015",
+"sayi": "45",
+"tarih": "17.03.2015",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2015/45.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R207_2015.txt",
+"eslesme_puani": 1.0,
+"ocr": false,
+"bozukluk": 0.0078
 },
 {
 "ae": "208/2015",
@@ -21402,6 +22858,19 @@
 "bozukluk": 0.0022
 },
 {
+"ae": "80/2016",
+"tur": "emirname",
+"baslik": "ANAYASA-KUZEY KIBRIS TÜRK CUMHURİYETİ ANAYASASI'NIN 158'İNCİ MADDESİNİN (4)'ÜNCÜ FIKRASININ ( C ) BENDİ ALTINDA EMİRNAME",
+"yil": "2016",
+"sayi": "11",
+"tarih": "25.01.2016",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2016/11.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R80_2016.txt",
+"eslesme_puani": 0.85,
+"ocr": false,
+"bozukluk": 0.0112
+},
+{
 "ae": "77/2016",
 "tur": "emirname",
 "baslik": "FİYAT İSTİKARAR FONU YASASI-FİYAT İSTİKRAR FONU (AKARYAKIT, TARIMSAL ÜRÜN VE TÜKETİM MADDELERİ) (FONA YATIRILACAK MİKTARLAR) (DEĞİŞİKLİK) EMİRNAMESİ",
@@ -21636,6 +23105,19 @@
 "bozukluk": 0.0026
 },
 {
+"ae": "698/2021",
+"tur": "emirname",
+"baslik": "SOKAĞA ÇIKMA YASAĞI YASASI-KISMİ SOKAĞA ÇIKMA YASAĞI EMİRNAMESİ",
+"yil": "2021",
+"sayi": "205",
+"tarih": "14.09.2021",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2021/205.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R698_2021.txt",
+"eslesme_puani": 1.0,
+"ocr": false,
+"bozukluk": 0.0
+},
+{
 "ae": "699/2021",
 "tur": "emirname",
 "baslik": "FİYAT İSİKRAR FONU YASASI-2021 FİYAT İSTİKRAR FONU(AKARYAKIT TARIMSAL ÜRÜN VE TÜKETİM MADDELERİ)(FONA YATIRILACAK MİKTARLAR)(DEĞİŞİKLİK)EMİRNAMESİ",
@@ -21662,6 +23144,19 @@
 "bozukluk": 0.0
 },
 {
+"ae": "632/2021",
+"tur": "emirname",
+"baslik": "SOKAĞA ÇIKMA YASAĞI YASASI-KISMİ SOKAĞA ÇIKMA YASAĞI EMİRNAMESİ",
+"yil": "2021",
+"sayi": "186",
+"tarih": "23.08.2021",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2021/186.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R632_2021.txt",
+"eslesme_puani": 1.0,
+"ocr": false,
+"bozukluk": 0.0
+},
+{
 "ae": "633/2021",
 "tur": "emirname",
 "baslik": "FİYAT İSTİKRAR FONU YASASI-2021 FiYAT İSTİKRAR FONU(AKARYAKIT TARIMSAL ÜRÜN VE TÜKETİM MADDELERİ)(FONA YATIRILACAK MİKTARLAR)(DEĞİŞİKLİK)EMİRNAMESİ",
@@ -21675,6 +23170,32 @@
 "bozukluk": 0.0101
 },
 {
+"ae": "622/2021",
+"tur": "emirname",
+"baslik": "SOKAĞA ÇIKMA YASAĞI YASASI-KISMİ SOKAĞA ÇIKMA YASAĞI EMİRNAMESİ",
+"yil": "2021",
+"sayi": "180",
+"tarih": "16.08.2021",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2021/180.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R622_2021.txt",
+"eslesme_puani": 1.0,
+"ocr": false,
+"bozukluk": 0.0
+},
+{
+"ae": "594/2021",
+"tur": "emirname",
+"baslik": "SOKAĞA ÇIKMA YASAĞI YASASI-KISMİ SOKAĞA ÇIKMA YASAĞI EMİRNAMESİ",
+"yil": "2021",
+"sayi": "175",
+"tarih": "09.08.2021",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2021/175.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R594_2021.txt",
+"eslesme_puani": 1.0,
+"ocr": false,
+"bozukluk": 0.0
+},
+{
 "ae": "574/2021",
 "tur": "emirname",
 "baslik": "FİYAT İSTİKRAR FONU YASASI-2021 FİYAT İSTİKRAR FONU(AKARYAKIT TARIMSAL ÜRÜN VE TÜKETİM MADDELERİ)(FONA YATIRILACAK MİKTARLAR)(DEĞİŞİKLİK)EMİRNAMESİ",
@@ -21683,6 +23204,32 @@
 "tarih": "02.08.2021",
 "url": "https://basimevi.gov.ct.tr/Portals/6/2021/169.pdf",
 "metin_dosyasi": "veri/resmi-gazete/metin/R574_2021.txt",
+"eslesme_puani": 1.0,
+"ocr": false,
+"bozukluk": 0.0
+},
+{
+"ae": "553/2021",
+"tur": "emirname",
+"baslik": "SOKAĞA ÇIKMA YASAĞI YASASI -KISMİ SOKAĞA ÇIKMA YASAĞI EMİRNAMESİ",
+"yil": "2021",
+"sayi": "163",
+"tarih": "26.07.2021",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2021/163.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R553_2021.txt",
+"eslesme_puani": 1.0,
+"ocr": false,
+"bozukluk": 0.0
+},
+{
+"ae": "552/2021",
+"tur": "emirname",
+"baslik": "SOKAĞA ÇIKMA YASAĞI YASASI-KISMİ SOKAĞA ÇIKMA YASAĞI EMİRNAMESİ",
+"yil": "2021",
+"sayi": "162",
+"tarih": "16.07.2021",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2021/162.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R552_2021.txt",
 "eslesme_puani": 1.0,
 "ocr": false,
 "bozukluk": 0.0
@@ -21712,6 +23259,110 @@
 "eslesme_puani": 0.93,
 "ocr": false,
 "bozukluk": 0.0138
+},
+{
+"ae": "523/2021",
+"tur": "emirname",
+"baslik": "SOKAĞA ÇIKMA YASAĞI YASASI-KISMİ SOKAĞA ÇIKMA YASAĞI EMİRNAMESİ",
+"yil": "2021",
+"sayi": "154",
+"tarih": "09.07.2021",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2021/154.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R523_2021.txt",
+"eslesme_puani": 1.0,
+"ocr": false,
+"bozukluk": 0.0
+},
+{
+"ae": "496/2021",
+"tur": "emirname",
+"baslik": "SOKAĞA ÇIKMA YASAĞI YASASI-KISMİ SOKAĞA ÇIKMA YASAĞI EMİRNAMESİ",
+"yil": "2021",
+"sayi": "147",
+"tarih": "02.07.2021",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2021/147.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R496_2021.txt",
+"eslesme_puani": 1.0,
+"ocr": false,
+"bozukluk": 0.0
+},
+{
+"ae": "465/2021",
+"tur": "emirname",
+"baslik": "SOKAĞA ÇIKMA YASAĞI YASASI-KISMİ SOKAĞA ÇIKMA YASAĞI EMİRNAMESİ",
+"yil": "2021",
+"sayi": "142",
+"tarih": "25.06.2021",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2021/142.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R465_2021.txt",
+"eslesme_puani": 1.0,
+"ocr": false,
+"bozukluk": 0.0
+},
+{
+"ae": "449/2021",
+"tur": "emirname",
+"baslik": "1977 MAL VE HİZMETLER DÜZENLEME YASASI-2021 MAL VE HİZMETLER(DÜZENLEME VE DENETİM)KURŞUNSUZ BENZİN(95 VE 98 OKTAN)MOTORİN(MAZOT)GAZYAĞI VE EURO DİESEL)AZAMİ SATIŞ FİYATLARI EMİRNAMESİ",
+"yil": "2021",
+"sayi": "137",
+"tarih": "21.06.2021",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2021/137.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R449_2021.txt",
+"eslesme_puani": 1.0,
+"ocr": false,
+"bozukluk": 0.0077
+},
+{
+"ae": "445/2021",
+"tur": "emirname",
+"baslik": "SOKAĞA ÇIKMA YASAĞI YASASI-KISMİ SOKAĞA ÇIKMA YASAĞI EMİRNAMESİ",
+"yil": "2021",
+"sayi": "135",
+"tarih": "18.06.2021",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2021/135.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R445_2021.txt",
+"eslesme_puani": 1.0,
+"ocr": false,
+"bozukluk": 0.0
+},
+{
+"ae": "428/2021",
+"tur": "emirname",
+"baslik": "SOKAĞA ÇIKMA YASAĞI YASASI-KISMİ SOKAĞA ÇIKMA YASAĞI EMİRNAMESİ",
+"yil": "2021",
+"sayi": "128",
+"tarih": "11.06.2021",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2021/128.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R428_2021.txt",
+"eslesme_puani": 1.0,
+"ocr": false,
+"bozukluk": 0.0
+},
+{
+"ae": "405/2021",
+"tur": "emirname",
+"baslik": "SOKAĞA ÇIKMA YASAĞI YASASI-KISMİ SOKAĞA ÇIKMA YASAĞI EMİRNAMESİ",
+"yil": "2021",
+"sayi": "121",
+"tarih": "03.06.2021",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2021/121.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R405_2021.txt",
+"eslesme_puani": 1.0,
+"ocr": false,
+"bozukluk": 0.0041
+},
+{
+"ae": "392/2021",
+"tur": "emirname",
+"baslik": "SOKAĞA ÇIKMA YASAĞI YASASI-KISMİ SOKAĞA ÇIKMA YASAĞI EMİRNAMESİ",
+"yil": "2021",
+"sayi": "116",
+"tarih": "30.05.2021",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2021/116.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R392_2021.txt",
+"eslesme_puani": 1.0,
+"ocr": false,
+"bozukluk": 0.0
 },
 {
 "ae": "389/2021",
@@ -21766,6 +23417,45 @@
 "bozukluk": 0.0034
 },
 {
+"ae": "341/2021",
+"tur": "emirname",
+"baslik": "1977 MAL VE HİZMETLER DÜZENLEME YASASI-2021 MAL VE HİZMETLER(DÜZENLEME VE DENETİM)KURŞUNSUZ BENZİN(95 VE 98 OKTAN)MOTORİN(MAZOT)GAZYAĞI VE EURO DİESEL)AZAMİ SATIŞ FİYATLARI EMİRNAMESİ",
+"yil": "2021",
+"sayi": "102",
+"tarih": "07.05.2021",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2021/102.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R341_2021.txt",
+"eslesme_puani": 1.0,
+"ocr": false,
+"bozukluk": 0.0026
+},
+{
+"ae": "318/2021",
+"tur": "emirname",
+"baslik": "SOKAĞA ÇIKMA YASAĞI YASASI-KISMİ SOKAĞA ÇIKMA YASAĞI EMİRNAMESİ",
+"yil": "2021",
+"sayi": "97",
+"tarih": "30.04.2021",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2021/97.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R318_2021.txt",
+"eslesme_puani": 1.0,
+"ocr": false,
+"bozukluk": 0.0
+},
+{
+"ae": "297/2021",
+"tur": "emirname",
+"baslik": "SOKAĞA ÇIKMA YASAĞI YASASI-KISMİ SOKAĞA ÇIKMA YASAĞI EMİRNAMESİ",
+"yil": "2021",
+"sayi": "91",
+"tarih": "23.04.2021",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2021/91.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R297_2021.txt",
+"eslesme_puani": 1.0,
+"ocr": false,
+"bozukluk": 0.0
+},
+{
 "ae": "284/2021",
 "tur": "emirname",
 "baslik": "1977 MAL VE HİZMETLER DÜZENLEME YASASI-ELEKTRİK MALZEMELERİ, ELEKTRİKLİ AYGITLAR VE ELEKTRİKLİ EL ALETLERİ EMİRNAMESİ",
@@ -21790,6 +23480,19 @@
 "eslesme_puani": 1.0,
 "ocr": false,
 "bozukluk": 0.0
+},
+{
+"ae": "274/2021",
+"tur": "emirname",
+"baslik": "SOKAĞA ÇIKMA YASAĞI YASASI-KISMİ SOKAĞA ÇIKMA YASAĞI EMİRNAMESİ",
+"yil": "2021",
+"sayi": "86",
+"tarih": "15.04.2021",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2021/86.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R274_2021.txt",
+"eslesme_puani": 1.0,
+"ocr": false,
+"bozukluk": 0.0046
 },
 {
 "ae": "277/2021",
@@ -21818,6 +23521,45 @@
 "bozukluk": 0.0183
 },
 {
+"ae": "264/2021",
+"tur": "emirname",
+"baslik": "SOKAĞA ÇIKMA YASAĞI YASASI-KISMİ SOKAĞA ÇIKMA YASAĞI EMİRNAMESİ",
+"yil": "2021",
+"sayi": "81",
+"tarih": "09.04.2021",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2021/81.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R264_2021.txt",
+"eslesme_puani": 1.0,
+"ocr": false,
+"bozukluk": 0.0
+},
+{
+"ae": "228/2021",
+"tur": "emirname",
+"baslik": "SOKAĞA ÇIKMA YASAĞI YASASI-KISMİ SOKAĞA ÇIKMA YASAĞI EMİRNAMESİ",
+"yil": "2021",
+"sayi": "76",
+"tarih": "02.04.2021",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2021/76.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R228_2021.txt",
+"eslesme_puani": 1.0,
+"ocr": false,
+"bozukluk": 0.0
+},
+{
+"ae": "195/2021",
+"tur": "emirname",
+"baslik": "SOKAĞA ÇIKMA YASAĞI YASASI-KISMİ SOKAĞA ÇIKMA YASAĞI EMİRNAMESİ",
+"yil": "2021",
+"sayi": "70",
+"tarih": "26.03.2021",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2021/70.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R195_2021.txt",
+"eslesme_puani": 1.0,
+"ocr": false,
+"bozukluk": 0.0
+},
+{
 "ae": "190/2021",
 "tur": "emirname",
 "baslik": "YAZ SAATİ YASASI-2021 YAZ SAATİ EMİRNAMESİ",
@@ -21842,6 +23584,32 @@
 "eslesme_puani": 1.0,
 "ocr": false,
 "bozukluk": 0.0024
+},
+{
+"ae": "165/2021",
+"tur": "emirname",
+"baslik": "SOKAĞA ÇIKMA YASAĞI YASASI-KISMİ SOKAĞA ÇIKMA YASAĞI EMİRNAMESİ",
+"yil": "2021",
+"sayi": "64",
+"tarih": "19.03.2021",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2021/64.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R165_2021.txt",
+"eslesme_puani": 1.0,
+"ocr": false,
+"bozukluk": 0.0
+},
+{
+"ae": "126/2021",
+"tur": "emirname",
+"baslik": "SOKAĞA ÇIKMA YASAĞI YASASI-KISMİ SOKAĞA ÇIKMA YASAĞI EMİRNAMESİ",
+"yil": "2021",
+"sayi": "56",
+"tarih": "05.03.2021",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2021/56.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R126_2021.txt",
+"eslesme_puani": 1.0,
+"ocr": false,
+"bozukluk": 0.0
 },
 {
 "ae": "110/2021",
@@ -21870,6 +23638,32 @@
 "bozukluk": 0.001
 },
 {
+"ae": "98/2021",
+"tur": "emirname",
+"baslik": "SOKAĞA ÇIKMA YASAĞI YASASI-KISMİ SOKAĞA ÇIKMA YASAĞI EMİRNAMESİ",
+"yil": "2021",
+"sayi": "50",
+"tarih": "27.02.2021",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2021/50.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R98_2021.txt",
+"eslesme_puani": 1.0,
+"ocr": false,
+"bozukluk": 0.0
+},
+{
+"ae": "90/2021",
+"tur": "emirname",
+"baslik": "SOKAĞA ÇIKMA YASAĞI YASASI-KISMİ SOKAĞA ÇIKMA YASAĞI EMİRNAMESİ",
+"yil": "2021",
+"sayi": "40",
+"tarih": "19.02.2021",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2021/40.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R90_2021.txt",
+"eslesme_puani": 1.0,
+"ocr": false,
+"bozukluk": 0.0
+},
+{
 "ae": "70/2021",
 "tur": "emirname",
 "baslik": "FİYAT İSİKRAR FONU YASASI-2021 FİYAT İSTİKRAR FONU (AKARYAKIT,TARIMSAL ÜRÜN VE TÜKETİM MADDELERİ)(FONA YATIRILACAK MİKTARLAR)(DEĞİŞİKLİK)EMİRNAMESİ",
@@ -21883,6 +23677,19 @@
 "bozukluk": 0.002
 },
 {
+"ae": "68/2021",
+"tur": "emirname",
+"baslik": "SOKAĞA ÇIKMA YASAĞI YASASI-KISMİ SOKAĞA ÇIKMA YASAĞI EMİRNAMESİ",
+"yil": "2021",
+"sayi": "34",
+"tarih": "13.02.2021",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2021/34.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R68_2021.txt",
+"eslesme_puani": 1.0,
+"ocr": false,
+"bozukluk": 0.0
+},
+{
 "ae": "66/2021",
 "tur": "emirname",
 "baslik": "SOKAĞA ÇIKMA YASAĞI YASASI-KISMİ SOKAĞA ÇIKMA YASAĞI EMİRNAMESİ",
@@ -21891,6 +23698,19 @@
 "tarih": "05.02.2021",
 "url": "https://basimevi.gov.ct.tr/Portals/6/2021/32.pdf",
 "metin_dosyasi": "veri/resmi-gazete/metin/R66_2021.txt",
+"eslesme_puani": 1.0,
+"ocr": false,
+"bozukluk": 0.0
+},
+{
+"ae": "63/2021",
+"tur": "emirname",
+"baslik": "SOKAĞA ÇIKMA YASAĞI YASASI-KISMİ SOKAĞA ÇIKMA YASAĞI EMİRNAMESİ",
+"yil": "2021",
+"sayi": "31",
+"tarih": "04.02.2021",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2021/31.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R63_2021.txt",
 "eslesme_puani": 1.0,
 "ocr": false,
 "bozukluk": 0.0
@@ -21920,6 +23740,32 @@
 "eslesme_puani": 1.0,
 "ocr": true,
 "bozukluk": 0.1135
+},
+{
+"ae": "41/2021",
+"tur": "emirname",
+"baslik": "SOKAĞA ÇIKMA YASAĞI YASASI-KISMİ SOKAĞA ÇIKMA YASAĞI EMİRNAMESİ",
+"yil": "2021",
+"sayi": "23",
+"tarih": "28.01.2021",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2021/23.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R41_2021.txt",
+"eslesme_puani": 1.0,
+"ocr": false,
+"bozukluk": 0.0
+},
+{
+"ae": "17/2021",
+"tur": "emirname",
+"baslik": "SOKAĞA ÇIKMA YASAĞI YASASI-KISMİ SOKAĞA ÇIKMA YASAĞI EMİRNAMESİ",
+"yil": "2021",
+"sayi": "10",
+"tarih": "16.01.2021",
+"url": "https://arsiv.basimevi.gov.ct.tr/Portals/105/2021/10.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R17_2021.txt",
+"eslesme_puani": 1.0,
+"ocr": false,
+"bozukluk": 0.0
 },
 {
 "ae": "1087/2022",
@@ -21972,6 +23818,19 @@
 "eslesme_puani": 1.0,
 "ocr": false,
 "bozukluk": 0.003
+},
+{
+"ae": "986/2022",
+"tur": "emirname",
+"baslik": "1977 MAL VE HİZMETLER(DÜZENLEME VE DENETİM)YASASI-2022 MAL VE HİZMETLER(DÜZENLEME VE DENETİM)(KURŞUNSUZ BENZİN(95 VE 98 OKTAN),MOTORİN(MAZOT),GAZYAĞI VE EURO DIESEL)AZAMİ SATIŞ FİYATLARI EMİRNAMESİ",
+"yil": "2022",
+"sayi": "285",
+"tarih": "8.12.2022",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2022/285.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R986_2022.txt",
+"eslesme_puani": 1.0,
+"ocr": true,
+"bozukluk": 0.1237
 },
 {
 "ae": "959/2022",
@@ -22143,6 +24002,19 @@
 "bozukluk": 0.0583
 },
 {
+"ae": "719/2022",
+"tur": "emirname",
+"baslik": "İMAR YASASI-TURİZM,KÜLTÜR,GENÇLİK VE ÇEVRE BAKANLIĞI ŞEHİR PLANLAMA DAİRESİNDEN DUYURU:GAZİMAĞUSA, İSKELE VE YENİBOĞAZİÇİ BÖLGESİ GEÇİŞ SÜRECİ 2 EMİRNAMESİ'NİN YÜRÜRLÜKTEN KALDIRILMASI HAKKINDA",
+"yil": "2022",
+"sayi": "219",
+"tarih": "19.09.2022",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2022/219.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R719_2022.txt",
+"eslesme_puani": 0.94,
+"ocr": false,
+"bozukluk": 0.0
+},
+{
 "ae": "714/2022",
 "tur": "emirname",
 "baslik": "YABANCILAR VE MUHACERET YASASI-2022 YABANCILAR VE MUHACERET EMİRNAMESİ",
@@ -22260,6 +24132,19 @@
 "bozukluk": 0.009
 },
 {
+"ae": "634/2022",
+"tur": "emirname",
+"baslik": "1977 MAL VE HİZMETLER(DÜZENLEME VE DENETİM)YASASI-2022 MAL VE HİZMETLER(DÜZENLEME VE DENETİM)(KURŞUNSUZ BENZİN(95 VE 98 OKTAN),MOTORİN(MAZOT),GAZYAĞI VE EURO DIESEL) AZAMİ SATIŞ FİYATLARI EMİRNAMESİ",
+"yil": "2022",
+"sayi": "188",
+"tarih": "22.08.2022",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2022/188.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R634_2022.txt",
+"eslesme_puani": 1.0,
+"ocr": true,
+"bozukluk": 0.0261
+},
+{
 "ae": "628/2022",
 "tur": "emirname",
 "baslik": "KAMU SAĞLIĞI(DEFİN VE MEZARDAN ÇIKARMA)YASASI-KARAOĞLANOĞLU MEZARLIĞINDA GÖMÜLÜ BULUNAN MÜTEVEFFA HAVVA ARKIN'IN MEZARININ AÇILMASI VE KEMİKLERİNİN BELLAPAİS KABRİSTANLIK PARKI'NA DEFNEDİLMESİNE İLİŞKİN EMİRNAME",
@@ -22271,6 +24156,19 @@
 "eslesme_puani": 1.0,
 "ocr": false,
 "bozukluk": 0.0163
+},
+{
+"ae": "611/2022",
+"tur": "emirname",
+"baslik": "1977 MAL VE HİZMETLER(DÜZENLEME VE DENETİM)YASASI-2022 MAL VE HİZMETLER(DÜZENLEME VE DENETİM)(KURŞUNSUZ BENZİN(95 VE 98 OKTAN),MOTORİN(MAZOT),GAZYAĞI VE EURO DIESEL) AZAMİ SATIŞ FİYATLARI EMİRNAMESİ",
+"yil": "2022",
+"sayi": "181",
+"tarih": "12.08.2022",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2022/181.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R611_2022.txt",
+"eslesme_puani": 1.0,
+"ocr": false,
+"bozukluk": 0.0117
 },
 {
 "ae": "608/2022",
@@ -22388,6 +24286,19 @@
 "eslesme_puani": 1.0,
 "ocr": false,
 "bozukluk": 0.0049
+},
+{
+"ae": "437/2022",
+"tur": "emirname",
+"baslik": "ÇIRAKLIK VE MESLEK EĞİTİMİ YASASI-ÇIRAKLIK VE KALFALIK EĞİTİMİNİN YAPILACAĞI MESLEK DALLARI EMİRNAMESİ",
+"yil": "2022",
+"sayi": "116",
+"tarih": "09.06.2022",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2022/116.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R437_2022.txt",
+"eslesme_puani": 1.0,
+"ocr": true,
+"bozukluk": 0.0492
 },
 {
 "ae": "399/2022",
@@ -23092,6 +25003,19 @@
 "bozukluk": 0.007
 },
 {
+"ae": "443/2023",
+"tur": "emirname",
+"baslik": "İMAR YASASI - GAZİMAĞUSA,İSKELE VE YENİBOĞAZİÇİ BÖLGESİ GEÇİŞ SÜRECİ 2 EMİRNAMESİ HAKKINDA DUYURU",
+"yil": "2023",
+"sayi": "128",
+"tarih": "21.06.2023",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2023/128.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R443_2023.txt",
+"eslesme_puani": 1.0,
+"ocr": false,
+"bozukluk": 0.0
+},
+{
 "ae": "438/2023",
 "tur": "emirname",
 "baslik": "FİYAT İSTİKRAR FONU YASASI - 2023 FİYAT İSTİKRAR FONU(AKARYAKIT, TARIMSAL ÜRÜN VE TÜKETİM MADDELERİ)(FONA YATIRILACAK MİKTARLAR)(DEĞİŞİKLİK)EMİRNAMESİ",
@@ -23781,6 +25705,19 @@
 "bozukluk": 0.0038
 },
 {
+"ae": "891/2024",
+"tur": "emirname",
+"baslik": "LİMAN DÜZENLEME YASASI-1987 KKTC LİMANLAR(DEĞİŞİKLİK)EMİRNAMESİ",
+"yil": "2024",
+"sayi": "221",
+"tarih": "28.10.2024",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2024/221.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R891_2024.txt",
+"eslesme_puani": 0.67,
+"ocr": true,
+"bozukluk": 0.0991
+},
+{
 "ae": "877/2024",
 "tur": "emirname",
 "baslik": "FİYAT İSTİKRAR FONU YASASI-2024 FİYAT İSTİKRAR FONU,(AKARYAKIT,TARIMSAL ÜRÜN VE TÜKETİM MADDELERİ)(FONA YATIRILACAK MİKTARLAR)(DEĞİŞİKLİK)EMİRNAMESİ",
@@ -23789,6 +25726,19 @@
 "tarih": "23.10.2024",
 "url": "https://basimevi.gov.ct.tr/Portals/6/2024/217.pdf",
 "metin_dosyasi": "veri/resmi-gazete/metin/R877_2024.txt",
+"eslesme_puani": 1.0,
+"ocr": false,
+"bozukluk": 0.0
+},
+{
+"ae": "875/2024",
+"tur": "emirname",
+"baslik": "KOOPERATİF ŞİRKETLER YASASI-KARMA HAYVAN YEMİ HARUP ÜRÜNÜ VE LP GAZ ÜRETİM VE PAZARLAMA KOOPERATİFİ(BİNBOĞA YEM)LTD. NİZAMNAMEDE DEĞİŞİKLİK YAPMA EMİRNAMESİ",
+"yil": "2024",
+"sayi": "214",
+"tarih": "18.10.2024",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2024/214.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R875_2024.txt",
 "eslesme_puani": 1.0,
 "ocr": false,
 "bozukluk": 0.0
@@ -24366,6 +26316,19 @@
 "bozukluk": 0.012
 },
 {
+"ae": "76/2024",
+"tur": "emirname",
+"baslik": "1977 MAL VE HİZMETLER(DÜZENLEME VE DENETİM)YASASI-2024 MAL VE HİZMETLER(DÜZENLEME VE DENETİM(KURŞUNSUZ BENZİN(95 VE 98 OKTAN),MOTORİN(MAZOT)GAZYAĞI VE EURO DIESEL)AZAMİ SATIŞ FİYATLARI EMİRNAMESİ",
+"yil": "2024",
+"sayi": "21",
+"tarih": "31.01.2024",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2024/21.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R76_2024.txt",
+"eslesme_puani": 0.69,
+"ocr": false,
+"bozukluk": 0.0
+},
+{
 "ae": "33/2024",
 "tur": "emirname",
 "baslik": "FİYAT İSTİKRAR FONU YASASI-2024 FİYAT İSTİKRAR FONU,(AKARYAKIT,TARIMSAL ÜRÜN VE TÜKETİM MADDELERİ)(FONA YATIRILACAK MİKTARLAR)(DEĞİŞİKLİK)EMİRNAMESİ",
@@ -24457,6 +26420,19 @@
 "bozukluk": 0.0092
 },
 {
+"ae": "1016/2025",
+"tur": "emirname",
+"baslik": "FİYAT İSTİKRAR FONU YASASI-2025 FİYAT İSTİKRAR FONU,(AKARYAKIT,TARIMSAL ÜRÜN VE TÜKETİM MADDELERİ)(FONA YATIRILACAK MİKTARLAR)(DEĞİŞİKLİK)EMİRNAMESİ",
+"yil": "2025",
+"sayi": "247",
+"tarih": "10.12.2025",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2025/247.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R1016_2025.txt",
+"eslesme_puani": 1.0,
+"ocr": true,
+"bozukluk": 0.1
+},
+{
 "ae": "1007/2025",
 "tur": "emirname",
 "baslik": "FİYAT İSTİKRAR FONU YASASI-2025 FİYAT İSTİKRAR FONU,(AKARYAKIT,TARIMSAL ÜRÜN VE TÜKETİM MADDELERİ)(FONA YATIRILACAK MİKTARLAR)(DEĞİŞİKLİK)EMİRNAMESİ",
@@ -24507,6 +26483,19 @@
 "eslesme_puani": 1.0,
 "ocr": false,
 "bozukluk": 0.0056
+},
+{
+"ae": "944/2025",
+"tur": "emirname",
+"baslik": "FİYAT İSTİKRAR FONU YASASI-2025 FİYAT İSTİKRAR FONU,(AKARYAKIT,TARIMSAL ÜRÜN VE TÜKETİM MADDELERİ)(FONA YATIRILACAK MİKTARLAR)(DEĞİŞİKLİK)EMİRNAMESİ",
+"yil": "2025",
+"sayi": "223",
+"tarih": "12.11.2025",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2025/223.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R944_2025.txt",
+"eslesme_puani": 0.92,
+"ocr": true,
+"bozukluk": 0.0455
 },
 {
 "ae": "926/2025",
@@ -25328,6 +27317,19 @@
 "bozukluk": 0.0494
 },
 {
+"ae": "855/2026",
+"tur": "emirname",
+"baslik": "LİMAN DÜZENLEME YASASI-1987, KKTC LİMANLAR(DEĞİŞİKLİK)EMİRNAMESİ",
+"yil": "2026",
+"sayi": "178",
+"tarih": "17.09.2026",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2026/178.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R855_2026.txt",
+"eslesme_puani": 0.67,
+"ocr": true,
+"bozukluk": 0.0726
+},
+{
 "ae": "852/2026",
 "tur": "emirname",
 "baslik": "TURİZM ENDÜSTRİ TEŞVİK YASASI-1987 TURİZM GELİŞTİRME VE TANITMA FONU(AKARYAKIT KATKI PAYI)(FONA YATIRILACAK MİKTAR)(DEĞİŞİKLİK)EMİRNAMESİ",
@@ -25378,6 +27380,19 @@
 "eslesme_puani": 1.0,
 "ocr": false,
 "bozukluk": 0.0037
+},
+{
+"ae": "814/2026",
+"tur": "emirname",
+"baslik": "KUZEY KIBRIS TÜRK CUMHURİYETİ ANAYASASI'NIN 158'İNCİ MADDESİNİN (4)'ÜNCÜ FIKRASININ (C ) BENDİ ALTINDA EMİRNAME/AVUKAT PEMBE ADEM",
+"yil": "2026",
+"sayi": "165",
+"tarih": "04.09.2026",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2026/165.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R814_2026.txt",
+"eslesme_puani": 1.0,
+"ocr": false,
+"bozukluk": 0.0
 },
 {
 "ae": "811/2026",
@@ -25484,6 +27499,19 @@
 "bozukluk": 0.0018
 },
 {
+"ae": "612/2026",
+"tur": "emirname",
+"baslik": "FİYAT İSTİKRAR FONU YASASI-2026 FİYAT İSTİKRAR FONU(AKARYAKIT,TARIMSAL ÜRÜN VE TÜKETİM MADDELERİ)(FONA YATIRILACAK MİKTARLAR)(DEĞİŞİKLİK)EMİRNAMESİ",
+"yil": "2026",
+"sayi": "129",
+"tarih": "08.07.2026",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2026/129_1.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R612_2026.txt",
+"eslesme_puani": 0.83,
+"ocr": true,
+"bozukluk": 0.0221
+},
+{
 "ae": "595/2026",
 "tur": "emirname",
 "baslik": "1977 MAL VE HİZMETLER(DÜZENLEME VE DENETİM)YASASI-MAL VE HİZMETLER(DÜZENLEME VE DENETİM)(D SINIFI AKARYAKIT(LPG)AZAMİ SATIŞ FİYATI)EMİRNAMESİ",
@@ -25536,6 +27564,19 @@
 "bozukluk": 0.0042
 },
 {
+"ae": "554/2026",
+"tur": "emirname",
+"baslik": "FİYAT İSTİKRAR FONU YASASI-2026 FİYAT İSTİKRAR FONU(AKARYAKIT,TARIMSAL ÜRÜN VE TÜKETİM MADDELERİ)(FONA YATIRILACAK MİKTARLAR)(DEĞİŞİKLİK)EMİRNAMESİ",
+"yil": "2026",
+"sayi": "117",
+"tarih": "24.06.2026",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2026/117.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R554_2026.txt",
+"eslesme_puani": 0.67,
+"ocr": true,
+"bozukluk": 0.0456
+},
+{
 "ae": "555/2026",
 "tur": "emirname",
 "baslik": "1977 MAL VE HİZMETLER(DÜZENLEME VE DENETİM)YASASI-2026 MAL VE HİZMETLER(DÜZENLEME VE DENETİM)(KURŞUNSUZ BENZİN(95 VE 98 OKTAN),MOTORİN(MAZOT),GAZYAĞI VE EURO DİESEL)AZAMİ SATIŞ FİYATLARI EMİRNAMESİ",
@@ -25547,6 +27588,32 @@
 "eslesme_puani": 0.88,
 "ocr": false,
 "bozukluk": 0.0059
+},
+{
+"ae": "522/2026",
+"tur": "emirname",
+"baslik": "FİYAT İSTİKRAR FONU YASASI-2026 FİYAT İSTİKRAR FONU(AKARYAKIT,TARIMSAL ÜRÜN VE TÜKETİM MADDELERİ)(FONA YATIRILACAK MİKTARLAR)(DEĞİŞİKLİK)EMİRNAMESİ",
+"yil": "2026",
+"sayi": "107",
+"tarih": "10.06.2026",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2026/107.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R522_2026.txt",
+"eslesme_puani": 0.67,
+"ocr": true,
+"bozukluk": 0.0558
+},
+{
+"ae": "528/2026",
+"tur": "emirname",
+"baslik": "FİYAT İSTİKRAR FONU YASASI-2026 FİYAT İSTİKRAR FONU(AKARYAKIT,TARIMSAL ÜRÜN VE TÜKETİM MADDELERİ)(FONA YATIRILACAK MİKTARLAR)(DEĞİŞİKLİK)EMİRNAMESİ",
+"yil": "2026",
+"sayi": "107",
+"tarih": "10.06.2026",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2026/107.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R528_2026.txt",
+"eslesme_puani": 0.67,
+"ocr": true,
+"bozukluk": 0.0443
 },
 {
 "ae": "510/2026",
@@ -25573,6 +27640,19 @@
 "eslesme_puani": 1.0,
 "ocr": false,
 "bozukluk": 0.0
+},
+{
+"ae": "465/2026",
+"tur": "emirname",
+"baslik": "TURİZM ENDÜSTRİ TEŞVİK YASASI-1987 TURİZM GELİŞTİRME VE TANITMA FONU(AKARYAKIT KATKI PAYI)(FONA YATIRILACAK MİKTAR)(DEĞİŞİKLİK)EMİRNAMESİ",
+"yil": "2026",
+"sayi": "98",
+"tarih": "26.05.2026",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2026/98.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R465_2026.txt",
+"eslesme_puani": 0.64,
+"ocr": true,
+"bozukluk": 0.0127
 },
 {
 "ae": "467/2026",
@@ -25622,6 +27702,19 @@
 "tarih": "15.04.2026",
 "url": "https://basimevi.gov.ct.tr/Portals/6/2026/70.pdf",
 "metin_dosyasi": "veri/resmi-gazete/metin/R339_2026.txt",
+"eslesme_puani": 1.0,
+"ocr": true,
+"bozukluk": 0.0
+},
+{
+"ae": "321/2026",
+"tur": "emirname",
+"baslik": "ANAYASA-KUZEY KIBRIS TÜRK CUMHURİYETİ ANAYASASI'NIN 158'İNCİ MADDESİNİN(4)'ÜNCÜ FIKRASININ(C) BENDİ ALTINDA EMİRNAME/AVUKAT ŞAHAP TOKATLI",
+"yil": "2026",
+"sayi": "68",
+"tarih": "08.04.2026",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2026/68.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R321_2026.txt",
 "eslesme_puani": 1.0,
 "ocr": true,
 "bozukluk": 0.0
@@ -25861,6 +27954,19 @@
 "bozukluk": 0.0082
 },
 {
+"ae": "834/2018",
+"tur": "emirname",
+"baslik": "MAL VE HİZMETLER(DÜZENLEME VE DENETİM)YASASI - 2018 MAL VE HİZMETLER (DÜZENLEME VE DENETİM) (KURŞUNSUZ BENZİN (95 VE 98 OKTAN), MOTORİN (MAZOT), GAZYAĞI VE EURO DIESEL) AZAMİ SATIŞ FİYATLARI EMİRNAMESİ.",
+"yil": "2018",
+"sayi": "137",
+"tarih": "19.09.2018",
+"url": "https://arsiv.basimevi.gov.ct.tr/Portals/105/2018/137.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R834_2018.txt",
+"eslesme_puani": 1.0,
+"ocr": true,
+"bozukluk": 0.045
+},
+{
 "ae": "785/2018",
 "tur": "emirname",
 "baslik": "EMTİA VE HİZMETLER (GEÇİCİ YETKİLER) (DEVAM) YASASI - 2018 GREV YASAĞI (SİVİL HAVACILIK DAİRESİ) EMİRNAMESİ",
@@ -25874,6 +27980,19 @@
 "bozukluk": 0.0042
 },
 {
+"ae": "776/2018",
+"tur": "emirname",
+"baslik": "MAL VE HİZMETLER(DÜZENLEME VE DENETİM)YASASI - 2018 MAL VE HİZMETLER (DÜZENLEME VE DENETİM) (KURŞUNSUZ BENZİN (95 VE 98 OKTAN), MOTORİN (MAZOT), GAZYAĞI VE EURO DIESEL) AZAMİ SATIŞ FİYATLARI EMİRNAMESİ.",
+"yil": "2018",
+"sayi": "123",
+"tarih": "27.08.2018",
+"url": "https://arsiv.basimevi.gov.ct.tr/Portals/105/2018/123.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R776_2018.txt",
+"eslesme_puani": 1.0,
+"ocr": true,
+"bozukluk": 0.0156
+},
+{
 "ae": "768/2018",
 "tur": "emirname",
 "baslik": "FİYAT İSTİKRAR FONU YASASI - 2018 FİYAT İSTİKRAR FONU,( AKARYAKIT , TARIMSAL ÜRÜN VE TÜKETİM MADDELERİ )(FONA YATIRILACAK MİKTARLAR)(DEĞİŞİKLİK) EMİRNAMESİ",
@@ -25885,6 +28004,19 @@
 "eslesme_puani": 1.0,
 "ocr": false,
 "bozukluk": 0.0083
+},
+{
+"ae": "722/2018",
+"tur": "emirname",
+"baslik": "FİYAT İSTİKRAR FONU YASASI - 2018 MAL VE HİZMETLER(DÜZENLEME VE DENETİM) (KURŞUNSUZ BENZİN(95VE 98 OKTAN),MOTORİN(MAZOT),GAZYAĞI VE EURO DİSEL)AZAMİ SATIŞ FİYATLARI EMİRNAMESİ",
+"yil": "2018",
+"sayi": "113",
+"tarih": "30.07.2018",
+"url": "https://arsiv.basimevi.gov.ct.tr/Portals/105/2018/113.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R722_2018.txt",
+"eslesme_puani": 0.88,
+"ocr": true,
+"bozukluk": 0.0064
 },
 {
 "ae": "664/2018",
@@ -25937,6 +28069,19 @@
 "eslesme_puani": 0.67,
 "ocr": true,
 "bozukluk": 0.0902
+},
+{
+"ae": "272/2018",
+"tur": "emirname",
+"baslik": "YAZ SAATİ YASASI-2018 YAZ SAATİ EMİRNAMESİ",
+"yil": "2018",
+"sayi": "33",
+"tarih": "26.03.2018",
+"url": "https://arsiv.basimevi.gov.ct.tr/Portals/105/2018/33.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R272_2018.txt",
+"eslesme_puani": 1.0,
+"ocr": false,
+"bozukluk": 0.0
 },
 {
 "ae": "258/2018",
@@ -26056,6 +28201,19 @@
 "bozukluk": 0.0029
 },
 {
+"ae": "652/2019",
+"tur": "emirname",
+"baslik": "YABANCILAR VE MUHACERET YASASI -2019 YABANCILAR VE MUHACERET EMİRNAMESİ",
+"yil": "2019",
+"sayi": "125",
+"tarih": "11.09.2019",
+"url": "https://arsiv.basimevi.gov.ct.tr/Portals/105/2019/125.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R652_2019.txt",
+"eslesme_puani": 0.67,
+"ocr": true,
+"bozukluk": 0.0
+},
+{
 "ae": "644/2019",
 "tur": "emirname",
 "baslik": "FİYAT İSTİKRAR FONU YASASI -2019 FİYAT İSTİKRAR FONU (AKARYAKIT, TARIMSAL ÜRÜN VE TÜKETİM MADDELERİ) (FONA YATIRILACAK MİKTARLAR) (DEĞİŞİKLİK) EMİRNAMESİ",
@@ -26067,6 +28225,19 @@
 "eslesme_puani": 1.0,
 "ocr": true,
 "bozukluk": 0.0625
+},
+{
+"ae": "643/2019",
+"tur": "teblig",
+"baslik": "MERKEZ BANKASI YASASI -ÜSTLENİLEN RİSKLERE İLİŞKİN (DEĞİŞİKLİK) TEBLİĞİ",
+"yil": "2019",
+"sayi": "122",
+"tarih": "06.09.2019",
+"url": "https://arsiv.basimevi.gov.ct.tr/Portals/105/2019/122.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R643_2019.txt",
+"eslesme_puani": 0.67,
+"ocr": true,
+"bozukluk": 0.0
 },
 {
 "ae": "582/2019",
@@ -26147,6 +28318,19 @@
 "bozukluk": 0.0078
 },
 {
+"ae": "165/2019",
+"tur": "emirname",
+"baslik": "KAMU SAĞLIĞI (DEFİN VE MEZARDAN ÇIKARMA) YASASI -TEKKE BAHÇESİ ŞEHİTLİĞİNDEKİ MEZARLARIN AÇILMASI VE TEKRAR DEFNEDİLMESİNE İLİŞKİN EMİRNAME",
+"yil": "2019",
+"sayi": "30",
+"tarih": "06.03.2019",
+"url": "https://arsiv.basimevi.gov.ct.tr/Portals/105/2019/30.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R165_2019.txt",
+"eslesme_puani": 0.71,
+"ocr": false,
+"bozukluk": 0.0
+},
+{
 "ae": "168/2019",
 "tur": "emirname",
 "baslik": "KAMU SAĞLIĞI (DEFİN VE MEZARDAN ÇIKARMA) YASASI -ORTAKÖY ŞEHİTLİĞİNDEKİ MEZARLARIN AÇILMASI VE TEKRAR DEFNEDİLMESİNE İLİŞKİN EMİRNAME",
@@ -26186,6 +28370,19 @@
 "bozukluk": 0.0435
 },
 {
+"ae": "67/2019",
+"tur": "emirname",
+"baslik": "MAL VE (HİZMETLER DÜZENLEME VE DENETİM) YASASI MAL VE HİZMETLER (DÜZENLEME VE DENETİM) (İLAÇ VE TIBBİ MÜSTAHZARAT SATIŞLARINDA AZAMİ FİYAT SAPTAMASINA AİT KISTASLAR) (DEĞİŞİKLİK) EMİRNAMESİ HK.",
+"yil": "2019",
+"sayi": "13",
+"tarih": "30.01.2019",
+"url": "https://arsiv.basimevi.gov.ct.tr/Portals/105/2019/13.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R67_2019.txt",
+"eslesme_puani": 1.0,
+"ocr": true,
+"bozukluk": 0.0088
+},
+{
 "ae": "73/2019",
 "tur": "emirname",
 "baslik": "FİYAT İSTİKRAR FONU YASASI - 2019 FİYAT İSTİKRAR FONU, (AKARYAKIT, TARIMSAL ÜRÜN VE TÜKERTİM MADDELERİ) (FONA YATIRILACAK MİKTARLAR) (DEĞİŞİKLİK) EMİRNAMESİ",
@@ -26223,6 +28420,19 @@
 "eslesme_puani": 0.88,
 "ocr": false,
 "bozukluk": 0.0133
+},
+{
+"ae": "1001/2020",
+"tur": "emirname",
+"baslik": "SOKAĞA ÇIKMA YASAĞI YASASI-KISMİ SOKAĞA ÇIKMA YASAĞI EMİRNAMESİ",
+"yil": "2020",
+"sayi": "238",
+"tarih": "30.12.2020",
+"url": "https://arsiv.basimevi.gov.ct.tr/Portals/105/2020/238.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R1001_2020.txt",
+"eslesme_puani": 1.0,
+"ocr": false,
+"bozukluk": 0.0113
 },
 {
 "ae": "966/2020",
@@ -26433,6 +28643,32 @@
 "bozukluk": 0.0
 },
 {
+"ae": "348/2020",
+"tur": "emirname",
+"baslik": "HUKUK MAHKEMELERİ USULÜ YASASI-KUZEY KIBRIS TÜRK CUMHURİYETİ ANAYASASI'NIN 158'İNCİ MADDESİNİN (4)'ÜNCÜ FIKRASININ (C) BENDİ ALTINDA EMİRNAME",
+"yil": "2020",
+"sayi": "102",
+"tarih": "08.06.2020",
+"url": "https://arsiv.basimevi.gov.ct.tr/Portals/105/2020/102.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R348_2020.txt",
+"eslesme_puani": 0.92,
+"ocr": false,
+"bozukluk": 0.0
+},
+{
+"ae": "349/2020",
+"tur": "emirname",
+"baslik": "HUKUK MAHKEMELERİ USULÜ YASASI-KUZEY KIBRIS TÜRK CUMHURİYETİ ANAYASASI'NIN 158'İNCİ MADDESİNİN (4)'ÜNCÜ FIKRASININ (C) BENDİ ALTINDA EMİRNAME",
+"yil": "2020",
+"sayi": "102",
+"tarih": "08.06.2020",
+"url": "https://arsiv.basimevi.gov.ct.tr/Portals/105/2020/102.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R349_2020.txt",
+"eslesme_puani": 0.92,
+"ocr": false,
+"bozukluk": 0.0
+},
+{
 "ae": "322/2020",
 "tur": "emirname",
 "baslik": "FİYAT İSTİKRAR FONU YASASI-2020 FİYAT İSTİKRAR FONU, (AKARYAKIT, TARIMSAL ÜRÜN VE TÜKETİM MADDELERİ) (FONA YATIRILAACAK MİKTARLAR) (DEĞİŞİKLİK) EMİRNAMESİ",
@@ -26537,6 +28773,19 @@
 "bozukluk": 0.0
 },
 {
+"ae": "263/2020",
+"tur": "emirname",
+"baslik": "SOKAĞA ÇIKMA YASAĞI YASASI-SOKAĞA ÇIKMA YASAĞI EMİRNAMESİ",
+"yil": "2020",
+"sayi": "68",
+"tarih": "17.04.2020",
+"url": "https://arsiv.basimevi.gov.ct.tr/Portals/105/2020/68.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R263_2020.txt",
+"eslesme_puani": 1.0,
+"ocr": false,
+"bozukluk": 0.0
+},
+{
 "ae": "257/2020",
 "tur": "emirname",
 "baslik": "PUL YASASI-PUL VERGİLERİ (DEĞİŞİKLİK) EMİRNAMESİ",
@@ -26576,6 +28825,58 @@
 "bozukluk": 0.0028
 },
 {
+"ae": "246/2020",
+"tur": "emirname",
+"baslik": "SOKAĞA ÇIKMA YASAĞI YASASI-KISMİ SOKAĞA ÇIKMA EMİRNAMESİ",
+"yil": "2020",
+"sayi": "59",
+"tarih": "04.04.2020",
+"url": "https://arsiv.basimevi.gov.ct.tr/Portals/105/2020/59.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R246_2020.txt",
+"eslesme_puani": 1.0,
+"ocr": false,
+"bozukluk": 0.0041
+},
+{
+"ae": "243/2020",
+"tur": "emirname",
+"baslik": "SOKAĞA ÇIKMA YASAĞI YASASI-SOKAĞA ÇIKMA YASAĞI EMİRNAMESİ",
+"yil": "2020",
+"sayi": "58",
+"tarih": "03.04.2020",
+"url": "https://arsiv.basimevi.gov.ct.tr/Portals/105/2020/58.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R243_2020.txt",
+"eslesme_puani": 1.0,
+"ocr": false,
+"bozukluk": 0.0
+},
+{
+"ae": "222/2020",
+"tur": "emirname",
+"baslik": "SOKAĞA ÇIKMA YASAĞI YASASI-SOKAĞA ÇIKMA YASAĞI EMİRNAMESİ",
+"yil": "2020",
+"sayi": "54",
+"tarih": "31.03.2020",
+"url": "https://arsiv.basimevi.gov.ct.tr/Portals/105/2020/54.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R222_2020.txt",
+"eslesme_puani": 1.0,
+"ocr": false,
+"bozukluk": 0.0
+},
+{
+"ae": "218/2020",
+"tur": "emirname",
+"baslik": "SOKAĞA ÇIKMA YASAĞI YASASI-SOKAĞA ÇIKMA YASAĞI EMİRNAMESİ",
+"yil": "2020",
+"sayi": "51",
+"tarih": "27.03.2020",
+"url": "https://arsiv.basimevi.gov.ct.tr/Portals/105/2020/51.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R218_2020.txt",
+"eslesme_puani": 1.0,
+"ocr": false,
+"bozukluk": 0.0172
+},
+{
 "ae": "203/2020",
 "tur": "emirname",
 "baslik": "MAL VE HİZMETLER YASASI-TABİ MALLARIN SATIŞINDA AÇMA VE KAPAMA SAATLERİNİN SAPTANMASI EMİRNAMESİ",
@@ -26600,6 +28901,19 @@
 "eslesme_puani": 1.0,
 "ocr": false,
 "bozukluk": 0.0028
+},
+{
+"ae": "202/2020",
+"tur": "emirname",
+"baslik": "SOKAĞA ÇIKMA YASAĞI YASASI-KISMİ SOKAĞA ÇIKMA EMİRNAMESİ",
+"yil": "2020",
+"sayi": "48",
+"tarih": "22.03.2020",
+"url": "https://arsiv.basimevi.gov.ct.tr/Portals/105/2020/48.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R202_2020.txt",
+"eslesme_puani": 1.0,
+"ocr": false,
+"bozukluk": 0.0096
 },
 {
 "ae": "200/2020",
@@ -26706,6 +29020,32 @@
 "bozukluk": 0.0721
 },
 {
+"ae": "24/2020",
+"tur": "emirname",
+"baslik": "İMAR YASASI-GAZİMAĞUSA, İSKELE, YENİBOĞAZİÇİ BÖLGESİ GEÇİŞ SÜRECİ 2 EMİRNAMESİ",
+"yil": "2020",
+"sayi": "8",
+"tarih": "14.01.2020",
+"url": "https://arsiv.basimevi.gov.ct.tr/Portals/105/2020/8.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R24_2020.txt",
+"eslesme_puani": 1.0,
+"ocr": false,
+"bozukluk": 0.0
+},
+{
+"ae": "278/2006",
+"tur": "yonetmelik",
+"baslik": "DIŞ TİCARET (DÜZENLEME VE DENETİM) YASASI- GÜNEY KIBRIS'TAN TİCARİ MAL HAREKETLERİNİ DÜZENLEYEN (DEĞİŞİKLİK) YÖNETMELİĞİ",
+"yil": "2006",
+"sayi": "84",
+"tarih": "15.05.2006",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2006/84.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R278_2006.txt",
+"eslesme_puani": 1.0,
+"ocr": true,
+"bozukluk": 0.0498
+},
+{
 "ae": "652/2011",
 "tur": "yonetmelik",
 "baslik": "ÇALIŞMA VE SOSYAL GÜVENLİK DANIŞMA MECLİSİ TOPLANTISI İLE ÇALIŞMA USUL VE ESASLARI YÖNETMELİĞİ-\"ÇALIŞMA VE SOSYAL GÜVENLİK DANIŞMA MECLİSİ TOPLANTISI İLE ÇALIŞMA USUL VE ESASLARI YÖNETMENLİĞİ\"",
@@ -26810,6 +29150,19 @@
 "bozukluk": 0.0184
 },
 {
+"ae": "598/2007",
+"tur": "teblig",
+"baslik": "BANKALAR YASASI-BANKALARIN SERMAYE YETERLİLİĞİNİN ÖLÇÜLMESİNE VE DEĞERLENDİRİLMESİNE İLİŞKİN USUL VE ESASLAR HAKKINDA TEBLİĞ'İN DEĞİŞTİRİLMESİNE İLİŞKİN TEBLİĞ",
+"yil": "2007",
+"sayi": "151",
+"tarih": "17.08.2007",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2007/151.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R598_2007.txt",
+"eslesme_puani": 1.0,
+"ocr": false,
+"bozukluk": 0.0172
+},
+{
 "ae": "553/2007",
 "tur": "teblig",
 "baslik": "KATMA DEĞER VERGİSİ YASASI-TEBLİĞ NO:14(A)",
@@ -26875,6 +29228,19 @@
 "bozukluk": 0.0097
 },
 {
+"ae": "527/2008",
+"tur": "teblig",
+"baslik": "KKTC MERKEZ BANKASINDAN-BANKALARIN KREDİLERİ İLE DİĞER ALACAKLARININ NİTELİKLERİ VE KARŞILIKLAR TEBLİĞİNDE DEĞİŞİKLİK YAPILMASINA İLİŞKİN TEBLİĞ",
+"yil": "2008",
+"sayi": "126",
+"tarih": "04.07.2008",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2008/126.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R527_2008.txt",
+"eslesme_puani": 1.0,
+"ocr": false,
+"bozukluk": 0.0
+},
+{
 "ae": "438/2008",
 "tur": "teblig",
 "baslik": "SUÇ GELİRLERİNİN AKLANMASININ ÖNLENMESİ YASASI-SUÇ GELİRLERİNİN AKLANMASININ ÖNLENMESİ YASASI MÜSTERİNİN TANINMASI VE KİMLİK TESBİT YÜKÜMLÜLÜĞÜ USUL VE ESASLARI TEBLİĞİ OLARAK İSİMLENDİRİLİR",
@@ -26925,6 +29291,58 @@
 "eslesme_puani": 0.83,
 "ocr": false,
 "bozukluk": 0.0109
+},
+{
+"ae": "215/2008",
+"tur": "teblig",
+"baslik": "BANKALAR YASASI-17 AĞUSTOS 2007 TARİH VE 151 SAYILI TEBLİĞLE DEĞİŞİKLİĞE UĞRAYAN 9 AĞUSTOS 2007 TARİH VE 144 SAYILI \"BANKALARIN SERMAYE YETERLİLİĞİNİN ÖLÇÜLMESİNE VE DEĞERLENDİRİLMESİNE İLİŞKİN USUL VE ESASLAR HAKKINDA TEBLİĞ'İN DEĞİŞTİRİLMESİNE İLİŞKİN TEBLİĞ",
+"yil": "2008",
+"sayi": "53",
+"tarih": "19.03.2008",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2008/53.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R215_2008.txt",
+"eslesme_puani": 1.0,
+"ocr": false,
+"bozukluk": 0.0
+},
+{
+"ae": "752/2009",
+"tur": "teblig",
+"baslik": "KREDİ GARANTİ FONU YASASI-GERÇEK VE/VEYA TÜZEL KİŞİ LİMİTİ TEBLİĞİ'NDE DEĞİŞİKLİK YAPILMASINA İLİŞKİN TEBLİĞ.",
+"yil": "2009",
+"sayi": "192",
+"tarih": "05.11.2009",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2009/192.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R752_2009.txt",
+"eslesme_puani": 1.0,
+"ocr": true,
+"bozukluk": 0.0391
+},
+{
+"ae": "755/2009",
+"tur": "teblig",
+"baslik": "TASARRUF MEVDUATI SİGORTASI VE FİNANSAL İSTİKRAR FONU YASASI-SERMAYE BENZERİ KREDİLERİN MAHİYET VE KULLANDIRIM ŞARTLARI TEBLİĞİ.",
+"yil": "2009",
+"sayi": "192",
+"tarih": "05.11.2009",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2009/192.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R755_2009.txt",
+"eslesme_puani": 1.0,
+"ocr": false,
+"bozukluk": 0.0072
+},
+{
+"ae": "756/2009",
+"tur": "teblig",
+"baslik": "ULUSLARARASI BANKACILIK BİRİMLERİ YASASI-ULUSLARARASI BANKACILIK BİRİMLERİ KURULUŞ ŞARTLARI VE FALİYET İZNİ VERİLMESİ,HİSSE DEVİR VE EDİNİMLERİNE İLİŞKİN,ESAS VE USULLER TEBLİĞİ.",
+"yil": "2009",
+"sayi": "192",
+"tarih": "05.11.2009",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2009/192.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R756_2009.txt",
+"eslesme_puani": 0.93,
+"ocr": false,
+"bozukluk": 0.0078
 },
 {
 "ae": "458/2009",
@@ -26979,6 +29397,19 @@
 "bozukluk": 0.0265
 },
 {
+"ae": "346/2009",
+"tur": "teblig",
+"baslik": "KREDİ GARANTİ FONU YASASI-GARANTİ VERİLECEK KREDİLER İLE İLGİLİ BANKALAR VE GERÇEK VE/VEYA TÜZEL KİŞİLER İLE YAPILACAK SÖZLEŞMELERİN İÇERİĞİNE İLİŞKİN ŞEKİL VE ASGARİ ŞARTLAR,GARANTİ VERİLECEK KREDİLERLE İLGİLİ DEĞERLENDİRME KISTASLARI İLE BAŞVURUDA İSTENECEK BİLGİ VE BELGELER TEBLİĞİ",
+"yil": "2009",
+"sayi": "77",
+"tarih": "24.04.2009",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2009/77.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R346_2009.txt",
+"eslesme_puani": 1.0,
+"ocr": false,
+"bozukluk": 0.0059
+},
+{
 "ae": "341/2009",
 "tur": "teblig",
 "baslik": "SUÇ GELİRLERİNİN AKLANMASININ ÖNLENMESİ YASASI-SUÇ GELİRLERİNİN AKLANMASININ ÖNLENMESİ YASASI ŞÜPHELİ İŞLEM KRİTERLERİ İLE ŞÜPHELİ İŞLEM BİLDİRİM USUL VE ESASLARI(DEĞ) TEBLİĞİ.",
@@ -26990,6 +29421,58 @@
 "eslesme_puani": 1.0,
 "ocr": false,
 "bozukluk": 0.007
+},
+{
+"ae": "246/2009",
+"tur": "teblig",
+"baslik": "BANKALAR YASASI-TASARRUF MEVDUATI SİGORTASI VE FİNANSAL İSTİKRAR FONU KESİN ALIM İŞLEMİ HAKKINDA TEBLİĞ.",
+"yil": "2009",
+"sayi": "58",
+"tarih": "27.03.2009",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2009/58.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R246_2009.txt",
+"eslesme_puani": 1.0,
+"ocr": true,
+"bozukluk": 0.0234
+},
+{
+"ae": "247/2009",
+"tur": "teblig",
+"baslik": "BANKALAR YASASI-TASARRUF MEVDUATI SİGORTASI VE FİNANSAL İSTİKRAR FONU MENKUL KIYMET KREDİ(SWAP)İŞLEMİ HAKKINDA TEBLİĞ.",
+"yil": "2009",
+"sayi": "58",
+"tarih": "27.03.2009",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2009/58.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R247_2009.txt",
+"eslesme_puani": 1.0,
+"ocr": true,
+"bozukluk": 0.0309
+},
+{
+"ae": "189/2009",
+"tur": "teblig",
+"baslik": "MERKEZ BANKASI YASASI-BANKALARDA İÇ DENETİM,RİSK YÖNETİMİ,İÇ KONTROL VE YÖNETİM SİSTEMLERİ TEBLİĞİ'NDE DEĞİŞİKLİK YAPILMASINA İLİŞKİN TEBLİĞ.",
+"yil": "2009",
+"sayi": "47",
+"tarih": "04.03.2009",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2009/47.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R189_2009.txt",
+"eslesme_puani": 1.0,
+"ocr": false,
+"bozukluk": 0.007
+},
+{
+"ae": "379/2010",
+"tur": "teblig",
+"baslik": "PARA VE KAMBİYO YASASI-ÜLKEYE GİRİŞ VE ÇIKIŞLARDAKİ NAKİT PARA HAREKETLERİ İLE İLGİLİ KURALLAR TEBLİĞİ.",
+"yil": "2010",
+"sayi": "97",
+"tarih": "18.06.2010",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2010/97.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R379_2010.txt",
+"eslesme_puani": 1.0,
+"ocr": true,
+"bozukluk": 0.0377
 },
 {
 "ae": "366/2010",
@@ -27187,6 +29670,32 @@
 "bozukluk": 0.0158
 },
 {
+"ae": "306/2014",
+"tur": "teblig",
+"baslik": "DUYURU- 38/1977 SAYILI PARA VE KAMBİYO YASASI VE YASA'NIN 9'UNCU MADDESİ ALTINDA 14.7.2005 TARİH VE 113 SAYILI RESMİ GAZETEDE AE 358 OLARAK YAYIMLANAN TEBLİĞ VE DÖVİZ BÜROLARI İLE İLGİLİ USUL VE ESASLAR DÜZENLENMEKTEDİR. DÖVİZ BÜROSU LİSANSI'NI RESMİ MAKAMLARI YANILTARAK , GERÇEĞİ YANSITMAYAN BELGELERLE ALAN COŞKU DÖVİZ LTD'İN LİSANSI MALİYE BAKANLIĞI TARAFINDAN İPTAL EDİLMİŞTİR.",
+"yil": "2014",
+"sayi": "118",
+"tarih": "16.05.2014",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2014/118.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R306_2014.txt",
+"eslesme_puani": 0.97,
+"ocr": false,
+"bozukluk": 0.0
+},
+{
+"ae": "626/2015",
+"tur": "teblig",
+"baslik": "MERKES BANKASI YASASI-MERKEZ BANKASI İDARE TEŞKİLAT VE HİZMETLERİ TEBLİĞİNİN DEĞİŞTİRİLMESİNE İLİŞKİN TEBLİĞ",
+"yil": "2015",
+"sayi": "139",
+"tarih": "16.09.2015",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2015/139.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R626_2015.txt",
+"eslesme_puani": 1.0,
+"ocr": false,
+"bozukluk": 0.0054
+},
+{
 "ae": "268/2015",
 "tur": "teblig",
 "baslik": "BANKALAR YASASI-BANKALARIN BİRLEŞME VE DEVİR TEBLİĞİ",
@@ -27198,6 +29707,19 @@
 "eslesme_puani": 1.0,
 "ocr": false,
 "bozukluk": 0.0081
+},
+{
+"ae": "651/2016",
+"tur": "teblig",
+"baslik": "BANKACILIK YASASI-FON TARAFINDAN GARANTİ VERİLECEK KREDİLER İLE İLGİLİUSUL VE ESASLARIN DÜZENLENMESİ TEBLİĞİ",
+"yil": "2016",
+"sayi": "127",
+"tarih": "07.10.2016",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2016/127.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R651_2016.txt",
+"eslesme_puani": 1.0,
+"ocr": false,
+"bozukluk": 0.015
 },
 {
 "ae": "905/2021",
@@ -27499,6 +30021,19 @@
 "bozukluk": 0.076
 },
 {
+"ae": "312/2018",
+"tur": "teblig",
+"baslik": "KKTC BANKACILIK YASASI -BAĞIMSIZ DENETİM KURULUŞLARINA İLİŞKİN TEBLİĞ",
+"yil": "2018",
+"sayi": "41",
+"tarih": "5.04.2018",
+"url": "https://arsiv.basimevi.gov.ct.tr/Portals/105/2018/41.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R312_2018.txt",
+"eslesme_puani": 1.0,
+"ocr": true,
+"bozukluk": 0.0297
+},
+{
 "ae": "240/2018",
 "tur": "teblig",
 "baslik": "KKTC BANKACILIK YASASI -BANKALARIN BİRLEŞME , DEVİR VE FAALİYETE GÖNÜLLÜ SON VERME TEBLİĞİ.",
@@ -27705,6 +30240,19 @@
 "eslesme_puani": 1.0,
 "ocr": false,
 "bozukluk": 0.0
+},
+{
+"ae": "248/2020",
+"tur": "teblig",
+"baslik": "KKTC MALİYE BAKANLIĞI BANKA VE SİGORTA İŞLEMLERİ VERGİSİ İLE ÖZEL İLETİŞİM HİZMETLERİ VERGİSİ YÜKÜMLÜLERİNİN GECİCİ VERGİ YÜKÜMLÜSÜ OLARAK BELİRLENMESİNİ SAĞLAYAN YASA GÜCÜNDE KARARNAME-KUZEY KIBRIS TÜRK CUMHURİYETİNDE GEÇİCİ VERGİ YÜKÜMLÜLÜĞÜ TEBLİĞİ",
+"yil": "2020",
+"sayi": "60",
+"tarih": "07.04.2020",
+"url": "https://arsiv.basimevi.gov.ct.tr/Portals/105/2020/60.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R248_2020.txt",
+"eslesme_puani": 1.0,
+"ocr": false,
+"bozukluk": 0.0037
 },
 {
 "ae": "249/2020",

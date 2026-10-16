@@ -1,0 +1,1200 @@
+Sayı : 505 
+EK III
+TEBLİĞ VE İLANLAR 
+(1365) 
+[SAYFA 32]
+1366 
+Kısa isim 
+10.02.2012 
+R.G31 
+EKili 
+A.E98
+21.11.2013
+R.G 183
+EK III
+A.E 595 
+ı. Bu Tüzük, Telekomünikasyon Hizmetleri Ücretleri ve 
+Uygulama (DEğişiklik) Tüzüğü olarak isimlendirilir ve 
+aşcğıda "Esas Tüzük" olara< anılan Telekomünikasyon 
+Hizmetleri Ücretleri ve Uygulama Tüzüğü ile birlikte 
+okunur. 
+Esas Tüzüğün 2 .
+2' nci Esas Tüzük 2'nci maddesine b~lı Cetvel kaldırılmak ve
+yeri ne bu Tüzüğe eki i yeni Cetvel konmak suretiyle 
+dEğişti ri 1 ir. Maddesine 
+B~lı 
+Cetvel'in 
+DEğişti ri 1 mesi 
+Yürürlüğe
+Giriş 
+3. Bu Tüzük, Resmi Gazete'de yayımlandığı tarihten 
+başi ayarak yürürlüğe girer. 
+KISIMI 
+KlSlM ll 
+KlSlM lll 
+KlSlM lV 
+KlSlM V 
+KlSlM VI 
+KlSlM VII 
+KlSlM VIII 
+KUZEY KIBRIS TÜRK CUMHURiYETi 
+BAYlNDlRLlK VE ULAŞTlRMA BAKANLIGI 
+TELEKOMÜNiKASYON DAiRESi
+: TANlMLAR, KISAL TMALAR ve AÇIKLAMALAR 
+:TESIS, KiRA ve SABiT ÜCRETLER
+: TELEFON KONUŞMA ÜCRETLERi
+: TELGRAF veTELEFAKS ÜCRETLERi
+: ÇEŞiTLi ÜCRETLER
+: TESiSAT UYGULAMALARI iLE iLGILi ÜCRETLER
+: TELEFON, TELEKS, TESiS ve NAKiL iŞLEMLERiNiN UYGULANMASINA AiT 
+ESASLAR 
+: GENELUYGULAMALAR 
+[SAYFA 33]
+1367 
+KISIMI 
+TANlMLAR, KISAL TMALAR VE AÇIKLAMALAR 
+1- KISAL TMALAR 
+TD
+KMT 
+PSTN 
+GSM 
+lSD N 
+ADSL 
+G.SHDSL 
+DDI 
+AOC 
+TOM 
+CIR 
+EIR 
+CBR 
+VBR 
+DDOS 
+:Telekomünikasyon Dairesi
+: Kıbrıs Mobile Telekomünikasyon A.Ş. 
+:Sabit Telefon Şebekesi 
+:Global System of Mobile (Cep Telefonu) Şebekesi 
+:Temel servisleri sayısal ortamda birleştiren tümleşik şebekedir. 
+: Asimetrik sayısal abone hattı 
+: Simetrik yüksek hızlı sayısal abone hattı 
+: Direct dialling in (Doğrudan arama)
+: Advice of charge (Ücret tesbiti)
+:Time Division Multiple Access(Zaman Paylaşımi ı Çoklu Erişim) 
+:Constant information Rate(Sabit Bilgi Hızı) 
+:Extended Information Rate(Artan Bilgi Hızı) 
+:Constant Bit Rate(Sabit Hız) 
+:Variable Bit Rate(Değişken Hız)
+:Dağıtık Servis Dışı Bırakma 
+2- AÇIKLAMALAR
+2.1- Kontör:Belirli bir sürenin bir birim olarak kabul edildiği ve telefonda toplam konuşma 
+süresinin kaç birim olduğunu sayısal olarakgösteren araç.
+2.2-Periyot:Telefon görüşmesi sırasında kontör atış süresisini belirleyen zaman dilimidir.
+2.3-0tomatik telefon görüşmelerinde kontör ücreti 4krş'dur. Konuşma ücreti=Kontör sayısı x kontör
+ücreti olarak hesaplanır.Köntörler periyot başlarında peşin olarak yazılır. 
+2.4-ISDN BA (Basic Access-Temel Erişim): Herbiri 64 kbit/s'lik olan 2 adet B-Kanalı ve bir adet 16 kbit/s'lik 
+D-Kanalı içermektedir.
+2.5- ISSN PRA (Primary Rate Access-Çoklu Erişim): Herbiri 64 kbit/s'lik olan 30 adet B-Kanalı ve
+bir adet 64 kbit/s'lik D- kanalı içermektedir.
+2.6- Terminal Adaptörü- TA: Mevcut terminallerin lSD N hattına bağlanabilmesi için kullanılan arabirim 
+cihazı dır. 
+2.7- Transit Telefon Ücretleri: Bu ücretler KKTC telefon santralları ile sistemleri kullanılarak yapılan 
+transit telefon görüşmelerini (Türkiye ve üçüncü ülkelere) ve bu sistemler yardımı ile KKTC'de
+sonlanacak telefon görüşmelerini kapsamaktadır. 
+2.8- Network Terminater-NT (Şebeke Sonlandırıcı): Tüm ISDN terminallerin tek bir ISDN hattına
+bağlantısını sağlayan arabirim cihazıdır. Bir NT cihazına 8 adet terminal (Telefon, PC, Faks vb.) 
+bağlanabilmektedir. 
+2.9- DDOS Koruma Hizmeti : Abonenin trafiğinin sürekli izlenerek bir atak durumunda abonenin bu ataktan 
+dolayı göreceği zararın asgariye indirgenmesini sağlamak üzere, trafiğin temizlenmesini ve temizlenen 
+trafiğin tekrar abone konumuna yönlendirilmesini sağlamaktır. 
+[SAYFA 34]
+1368 
+2.1 O DDOS Atak Önleme Hizmeti : Aboneler tercih ettikleri zaman aralığında koruma altında olurlar. 
+2.11 DDOS Sürekli Önleme Hizmeti : Abonenin tercihine kalmadan, herhangi bir bildirimde bulunmadan 
+sistem sürekli koruma altındadır. 
+KlSlM II 
+TESiS, KiRA VE SABiT ÜCRETLER 
+Tesis
+Servisler Ücreti Kira Ücreti Açıklama 
+1 Telefon tarifesi 26.50 TL 10.00TL/Ay 
+2 ISDN TARIFESi 
+2.1 BA tarifesi(Basic Access) 53.00 TL 20.00TL/Ay 
+PRA Tarifesi(Primary Rate 
+2.2 Access)
+Ada içi lo kal görüşmeler(PSTN>PSTN) 
+a- Ses amaçlı PRA 795.00 TL 300.00TL/Ay 1500 kontör muaf. 
+Dial-up internet amaçlı 
+b- PRA 795.00 TL 1 00. O O TL/ Ay 
+3 Trank modülü tarifesi 795.00 TL 300.00TL/Ay 
+4 Teleks tarifesi 72.00TL 96.00TL/Yıl 
+ADSL ve G.SHDSL 
+5 tarifeleri 
+ADSL internet erişimi 
+5.1 tarifesi 25.00 TL 15.00TL/Ay 
+G.SHDSL internet erişimi 
+5.2 tarifesi 50.00 TL 50.00TL/Ay 
+5.3- G.SHDSL noktadan noktaya erişim ücretleri 
+Lo kal Bölge içi Bölgeler arası 
+Devre Hızı Tesis Ücreti Kira ücreti Kira ücreti Kira ücreti 
+Kb it/s TL TL/ay TL/ay TL/ay 
+128 150.00 64.00 136.00 272.00 
+256 150.00 64.00 136.00 272.00 
+512 150.00 88.00 187.00 374.00 
+1024 150.00 120.00 255.00 510.00 
+2048 150.00 161.00 340.00 680.00 
+[SAYFA 35]
+1369 
+5.4- ADSL noktadan noktaya erişim ücretleri 
+Devre Hızı Tesis Ücreti Lo kal Bölge içi Bölgelerarası 
+Download Upload TL Kira ücreti Kira ücreti Kira ücreti 
+Kb/s Kb/s TL/ay TL/ay TL/ay_ 
+128 32 50.00 34.00 74.00 148.00 
+256 64 50.00 42.00 90.00 180.00 
+512 128 50.00 54.00 116.00 232.00 
+1024 256 50.00 70.00 150.00 300.00 
+2048 512 50.00 90.00 192.00 384.00 
+5.5- Abanelerin internet SerVis Sağlayıcılarına, ADSL kullanımı ile ilgili ödeyeceği ücretler için taban fiyatları 
+Devre Hızı Aylık Ücret 
+Kb/sn TL 
+256 Kb/s 10.00 TL
+512 Kb/s 20.00 TL 
+1024 Kb/s 40.00 TL 
+2048 Kb/s 70.00 TL 
+4096 Kb/s 120.00 TL 
+6.1-ÖZB._ DE.VR: üCffTl..ffii LOKA.L 
+Devre Hızı Birimi Katsayı Tesis ü[]eti Hat Kira üOOti 2 Tel Hat Kira üOOti 4 Tel
+(TL) (lll Ay) (lll Ay)
+64 Kbit/sn 1,5 68.25 20.00 40.00 
+128 Kbit/sn 6 237.00 48.00 96.00 
+256 Kbit/sn 8 312.00 64.00 128.00 
+512 Kbit/sn 11 424.50 88.00 176.00 
+1024 Kbit/sn 15 574.50 120.00 240.00 
+2048 Kbit/sn 20 762.00 161.00 322.00 
+8 M bit/sn 40 1,512.00 321.00 642.00 
+34 M bit/sn 80 3,012.00 643.00 1,286.00 
+15 M bit/sn 160 6,012.00 1285.00 2,570.00 
+622 M bit/sn 320 12,012.00 2570.00 5,140.00 
+1000 M bit/sn 400 15,015.00 3212.00 6,424.00 
+2500 M bit/sn 640 24,012.00 5,140.00 10,280.00 
+10000 M bit/sn 800 30,015.00 6,425.00 12,850.00 
+[SAYFA 36]
+1370 
+6.2-Öza DEVRE ürn=.ıı_m BÖLGE içl 
+Kanal Kira
+Devre Hızı Birimi Katsayı Tesis ü[Mtj Hat Kira üOOti 2 Tel Hat Kira üOOti 4 Tel üOOti 
+(TL) (TIJ Ay) (TIJ Ay) (llAy)
+64 Kbit/sn 1,5 79.50 20.00 40.00 45.00
+128 Kbit/sn 6 282.00 48.00 96.00 102.00
+256 Kbit/sn 8 372.00 64.00 128.00 136.00
+512 Kbit/sn 11 507.00 88 . 00 176.00 187.00
+1024 Kbit/sn 15 687.00 120.00 240.00 255.00 
+2048 Kbit/sn 20 912.00 161.00 322.00 340.00
+8 Mbit/sn 40 1,812.00 321.00 642.00 680.00
+34 M bit/sn 80 3,612.00 643.00 1,286.00 1,360.00
+15 Mbit/sn 160 7,212.00 1285.00 2,570.00 2,720.00
+622 Mbit/sn 320 14,424 . 00 2570.00 5,140.00 5,440.00 
+1000 Mbit/sn 400 18,030.00 3212.00 6,424.00 6,800.00
+2500 M bit/sn 640 28,848.00 5,140.00 10,280.00 10,880.00 
+10000 M bit/sn 800 36,060.00 6,425.00 12,850.00 13,600.00
+6.3-Öza DEVRE ürn=.ıı_m BÖL<?B...ERAR/\9 
+Devre Hızı Birimi Katsayı Tesis üOOti Hat Ki ra ü!Nt i 2Tel Hat Kira üOOti 4 Tel Kanal Kira ül]eti 
+(TL) (lliy) (lli Ay) (lli Ay)
+64 Kbit/sn 1,5 79.50 20.00 40 . 00 90.00 
+128 Kbit/sn 6 282.00 48.00 96.00 204.00 
+256 Kbit/sn 8 372.00 64.00 128.00 272.00
+512 Kbit/sn 11 507.00 88.00 176.00 374.00
+1024 Kbit/sn 15 687.00 120.00 240.00 510.00 
+2048 Kbit/sn 20 912.00 161.00 322.00 680.00
+8 Mbit/sn 40 1,812.00 321.00 642.00 1,360.00
+34 M bit/sn 80 3,612.00 643.00 1,286.00 2,720.00
+15 M bit/sn 160 7,212.00 1285.00 2,570.00 5,440.00
+622 Mbit/sn 320 14,424.00 2570.00 5,140.00 10,880.00 
+1000 M bit/sn 400 18,030.00 3212.00 6,424.00 13,600.00
+2500 M bit/sn 640 28,848.00 5,140.00 10,280.00 21,760.00 
+10000 M bit/sn 800 36,060 . 00 6,425.00 12,850.00 27,200.00 
+[SAYFA 37]
+1371 
+?.ÖZEL SERViS NUM ARALARI 
+Hizmetler Tahsis Ücreti Kira Ücreti Açıklama 
+7.1 444XXXX'I numaralar
+a- Son 4 rakamı aynı ise 60 .00 TL 200 . 00TL/Ay ör: 4445555
+b- Son dört rakamdan ardarda üç'ü aynı ise 60 .00 TL 150. 00TL/Ay ör:4440001 ,4441000 
+c- Son dört rakamı ikili,ikili simetrik ise 60 .0 0 T 1 OO .OO T L/Ay ör: 4440202 , 444223 3
+Yukardaki sınıflar dışında kalan
+d- numaralar 60.00 TL 50.00TL!Ay
+7.2 Resmi olmayan özel servis numaraları 
+a- 3 ve 4 rakamlı 60 .00 TL 30.00TL!Ay 
+b- Bunlar dışındaki servis numaraları K ir a,işletim ve paylaşım oranları 
+- - sözleşmelerle ile belirlenir.
+7.3-(444XXXX)' li bir sanal numaranın,bir PSTN veya PRA numaras ı ndan tanıt ım ın ı n k aldırılması ve 
+aynı şahsa ait ol mak kaydıyla başka bir PSTN veya PRA numarasına tan ı lı l ması iç in ücret alınmaz . 
+7.4- (444XXXX)'Ii numara birden fazla santralda sonlanacaksa, her fark l ı sonianma için ayrı tahsis ücreti 
+alınır. Ancak kira ücreti sadece bir tek nurnaraya işlenir. Bu numara abone ni n tercihine bırakılmıştır. 
+B. KATMA DEGERLI SERViSLER 
+Hizmetler Tahsis ücreti Kira Ücret i A çı klama 
+8.1 Özel tarifeli servisler (9XX'Ii hatlar) 60.00 TL 200.00TL/Ay 
+8.2 Ücretsiz aranan telefonlar (8XX ' Ii hatlar) 60 .00 TL 50.00TL/Ay 
+Not:
+1-Ücretsiz aranan servisierin ücretleri aranan tara fından ödenir ve bu servisierin g ö rüşme ücretleri
+sözlesme ile belirlenir. 
+[SAYFA 38]
+1372 
+9- FRAME RELAY, ATM, METRO ETHERNET ve DDOS ATAK KORUMA HIZMETI TARiFESi
+9.1- FRAME RELAY iNTERNET ÜCRETLERi
+9.1.1- Tesis Ücreti 
+Hızına göre Kısım ll, madde(6) Özel Devre Tarifesinde belirtilen lokal tesis ücreti kadardır. 
+9.1.2- Aylık Ücretler 
+Hız (Kbps) Aylık ücret (TL)
+64 59.63
+128 93.13
+256 149.41
+512 245.22
+1024 408.03 
+2048 686.08
+9.2- FRAME RELAY NOKTADAN NOKTAYA DEVRE ÜCRETLERI
+9.2.1- Tesis Ücreti 
+Hızına göre Kısım ll, madde(6.3) Özel Devre Tarifesinde belirtilen bölgeler arası tesis ücreti kadardır. 
+9.2.2- Aylık Ücretler 
+PORT AYLlK ÜCRETLERi 
+CIR EIR CIR 
+Port Hızı Aylık ücret PVC Hızı Ücret Ücret PVC Hızı Ücret EIR Ücret 
+(Kbps) (TL) (Mbps) (TL/ Ay) (TL/ Ay) (Mbps) (TL/ Ay) (TL/ Ay) 
+33,6 6.77 8 27.56 12.78 704 241.35
+64 11.28 16 36.84 18.05 768 515.79 257. 89
+128 19.55 32 54.89 22.07 832 273.68
+256 33.08 48 70.68 896 578. 95 289.47
+512 56.39 64 85.71 42.86 960 305.26
+1024 95.49 96 113.53 1024 640.60 320.30 
+2048 163.16 128 138.35 69.17 1088 335.34 
+160 162.41 1152 349.62
+192 184.96 92.48 1216 364.66
+224 207.52 1280 757.89 378.95
+256 228.57 114.29 1344 393.23 
+320 269 .17 134.59 1408 406.77
+384 307.52 154.14 1472 421 . 05
+448 345.11 172.18 1536 869. 92 434.59
+512 381.20 190.23 1792 977.44 
+640 449.62 224.81 2048 1,081.20 
+[SAYFA 39]
+1373 
+9.3- ATM INTERNET ÜCRETLERi
+9.3.1- Tesis Ücreti
+Port hızına göre Kısım ll, madde (6) Özel Devre Tarifesinde belirtilen lokal tesis ücreti alınır. 
+9.3.2- Aylık Ücretler 
+PORT ÜCRETLERi
+Port Hızı (Mbps) Aylık Ücret (TL)
+2 145.39
+34 1,247.54
+155 3,985.16
+622 11,544.77 
+PVC ÜCRETLERi
+PVC Hızı Aylık Ücret PVC Hızı Aylık Ücret 
+(Mbps) (TL) (Mbps) (TL) 
+1 873.5 90 12,221.47
+2 1,176.52 94 12,578.58
+4 1,719.22 98 12,931.6
+6 2,176.83 102 13,279.40
+8 2,586.87 106 13,623.78 
+10 2,965.42 110 13,962.80
+12 3,319.85 114 14,298.47
+14 3,655.52 118 14,630.79
+16 3,976.45 122 14,959.09
+18 4,283.98 126 15,283.37 
+20 4,581.46 130 15,604.97
+22 4,868.89 134 15,923.22
+24 5,148.28 138 16,238.79
+26 5,420.30 142 16,551.01
+28 5,685.30 146 16,860.55 
+30 5,944.91 150 17,167.41
+32 6,198.84 155 15,547.30
+34 6,447.41 166 18,369.39
+38 6,931.15 182 19,534.52
+42 7,398.81 198 20,667.49
+46 7,852.40 214 21,770.98 
+50 8,293.26 230 22,848.34
+54 8,723.40 246 23,901.58
+58 9,142.82 300 27,305.18
+62 9,552.86 310 27,912.87
+66 9,954.86 354 30,515.82 
+[SAYFA 40]
+1374 
+70 10,348.82 408 
+74 10,736.08 465
+78 11 '116.64 516
+82 11,490.50 570 
+86 11,858.33 622
+9.4-ATM NOKTADAN NOKTAYA DEVRE ÜCRETLERi 
+9.4 .1- Tesis Ücreti 
+33,571.69
+36,659.72
+39,320.29
+42,046.52
+44,593.86 
+Port hızına göre Kısım ll, madde (6.3) Özel Devre Tarifesinde belirtilen bölgeler arası tesis ücreti alınır. 
+9.4.2- Aylık Ücretler 
+PORTA YUK ÜCRETLERI PVC AYLlK ÜCRETLER 
+PVC CBR VBR PVC CBR VBR 
+Hızı ücret Ücret Hızı Ücret Ücret 
+Port Hızı (Kbps) Aylık ücret (TL) (Mbps) (TL/ Ay) (TL/ Ay) (Mbps) (TL/ Ay) (TL/ Ay) 
+2 163.16 1 1 '11 0.53 888.72 90 18,722.56 14,978.20
+34 1400.00 2 1,635.34 1,308.27 94 19,275.94 15,420.30
+155 4472.18 4 2,474.44 1,979.70 98 19,821.05 15,857.14
+622 12955.64 6 3,083.46 2,546.62 102 20,360.15 16,287.97
+8 3,818.05 3,054.14 106 20,891.73 16,713.53 
+10 4,403.01 3,522.56 11 o 21,417.29 17,133.83
+12 4,951.13 3,960.90 114 21,936.09 17,548.87
+14 5,470.68 4,376.69 118 22,449.62 17,959AO
+16 5,966.92 4,773.68 122 22,957.14 18,366.17
+18 6,443.61 5,154.89 126 23,460.15 18,767.67 
+20 6,903.01 5,522.56 130 23,957.14 19,166.17
+22 7,348.12 5,878.20 134 24,449.62 19,560.15
+24 7,780.45 6,224.06 138 24,937.59 19,950.38
+26 8,201.50 6,560.90 142 25421.05 20,336.84
+28 8,611.28 6,889.47 146 25,900.00 20,719.55 
+30 9,012.78 7,210.53 150 26,374.44 21,099.25
+32 9,405.26 7,524.06 155 26,962.41 21,569.92
+34 9,790.23 7,832.33 166 28,233.83 22,587.22
+38 10,538.35 8,430.83 182 30,036.84 24,029.32
+42 11,261.65 9,009.77 198 31,788.72 25,430.83
+46 11,963.91 9,570.68 214 33,496.24 26,796.99 
+50 12,645.86 10,116.54 230 35,162.41 28,130.08
+54 13,310.53 10,648.12 246 36,791.73 29,433.83
+58 13,959.40 11,167.67 300 42,057.14 33,645.86
+62 14,594.74 11,675.19 310 42,997.74 34,398.50
+66 15,216.54 12,172.93 354 47,024.81 37,619.55 
+70 15,826.32 12,660.90 408 51,752.63 41,402.26
+74 16,424.81 13,139.85 465 56,529.32 45,223.31
+78 17,012.78 13,610.53 516 60,645.11 48,516.54
+82 17,591.73 14,072.93 570 64,863.16 51,890.23
+86 18,160.90 14,529.32 622 68,804.51 55,043.61 
+[SAYFA 41]
+1375 
+9.5- METRO ETHERNET INTERNET ÜCRETLERI 
+9.5.1- Tesis Ücreti 
+Kısım ll, Madde (6) Özel Devre Tarifesinde belirtilen 1000 Mb/s devre hızının Lokal Tesis ücreti ka<
+9.5.2- Aylık Ücretler 
+Hızı Aylık Ücret Hızı Aylık Ücret Hızı Aylık Ücret 
+(Mbps) (Tl) (Mbps) (Tl) (Mbps) (Tl) 
+5 891.77 100 5,494.00 1250 28,046.78
+6 983.56 150 7,169.67 1500 31,252.02
+7 1,069.99 200 8,671.14 2000 37,182.35
+8 1,153.07 250 10,056.03 2500 42,334.77
+9 1,232.13 300 11,353.15 3000 45,846.12 
+10 1,309.18 350 12,581.93 4000 55,065.29
+15 1,660.93 400 13,755.77 5000 66,648.53 
+20 1,975.83 450 14,883.38 7000 78,800.52 
+30 2,538.63 500 15,970.79 10000 105,277.50 
+40 3,042.47 600 18,046.45 
+50 3,507.45 700 20,012.90 
+60 3,942.95 800 21,890.91 
+70 4,355.67 900 23,694.55 
+80 4,750.30 1000 25,434.54 
+90 5,128.85 
+[SAYFA 42]
+1376 
+9.6- METRO ETHERNET NOKTADAN NOKTAYA DEVRE ÜCRETLERI 
+9.6.1- Tesis Ücreti 
+Kısım ll, Madde (6.3) Özel Devre Tarifesinde belirtilen bölgeler arası tesis ücreti kadardır. 
+9.6.2- Aylık kanal ücretlerine ek olarak Kısım ll, Madde (6.3) Özel Devre Tarifesinde belirtilen bölgeler arası 
+hat kira ücreti alınır. 
+9.6.3- Aylık Ücretler 
+AYLlK KANAL ÜCRETLERi
+Devre Hızı 
+(Mbps) Aylık Ücret (TL) 
+5 850.00 
+6 1,020.00 
+7 1,190.00 
+8 1,360.00 
+9 1,530.00 
+10 1,700.00 
+15 2,040.00 
+20 2,380.00 
+30 2,720.00 
+40 2,947.00 
+50 3,174.00 
+60 3,401.00 
+70 3,628.oo· 
+80 3,855.00 
+90 4,082.00 
+100 4,309.00 
+Devre Hızı 
+(Mbps) Aylık Ücret (TL) 
+150 5,440.00 
+200 6,044.00 
+250 6,648.00 
+300 7,252.00 
+350 7,856.00 
+400 8,460.00 
+450 9,064.00 
+500 9,668.00 
+600 10,880.00 
+700 11,560.00 
+800 12,240.00 
+900 12,920.00 
+1000 13,600.00 
+2000 15,111.00 
+5000 19,644.00 
+10000 27,200.00 
+NOT: Aylık Metro Ethernet internet ücretlerinde, Üniversite ve Yüksek Öğretim Kurumlarına 
+%50 (yüzde elli), internet Servis Sağlayıcıları na %20 (yüzde yirmi) indirim uygulanır. 
+[SAYFA 43]
+1377 
+9.7- DDOS ATAK ÖNLEME HIZMETI ÜCRETLERi
+9.7.1- Tesis Ücreti 
+DDOS Atak Önleme hizmeti tesis ücreti 150 TL.'dir.
+9.7.2- Aylık Ücretler
+DDOS ATAK ANINDA DDOS S)R3<1_j 
+ÖNLBv1 E HiZI'vl ETi ÖNLBv1 E HiZfvl ETi 
+Hızı Aylık ü~t Aylık ü!Wt 
+(Mbps) (lL) (lL) 
+1-10 187.00 243.10 
+11-30 460.90 599,50 
+31-50 702.90 913.00 
+51 -100 1,243.00 1,615.90 
+101-250 2,907.30 3,779.60 
+251-400 4,466.00 5,805.80 
+401-500 4,929.10 6,407.50 
+501-600 5,822.30 7,569.10 
+601-1.000 6,062.10 7,880.40 
+1.001 -1.500 6,579.10 8,552.50 
+1.501 -2.000 6,971.80 9,062.90 
+2.001 - 3.000 7,565.80 9,835.10 
+3.001-4.000 8,016.80 10,422.50 
+4.001 - 5.000 8,386.40 10,902.10 
+5.001 - 6.000 10,366.40 13,484.90 
+6.001-7.000 11,345.40 14,756.50 
+7.001-8.000 12,267.20 15,955.50 
+8.001-9.000 13,141.70 17,094.00 
+9.001 -10.000 13,977.70 18,180.80 
+10.001 - 12.000 15,550.70 20.226.80 
+12.001 -15.000 17,718.80 23,047.20 
+15.001 ve üzeri 20,966.00 27,270.10 
+[SAYFA 44]
+1378 
+KlSlM lll 
+TELEFON KONUŞMA ÜCRETLERi 
+1 . KONUŞMA ÜCRETLERI 
+-- Kontör atış süresi Konuşma ücretleri 
+Aranılan yön ve Numaralar (sn) (TL/dk) 
+Normal Indirimli Normal indirimli
+1.1 Ada içi sabit konuşmalar 
+- PSTN'den PSTN'e 80 o 0.03 TL/dk ücretsiz
+b- PSTN'den Vodafon'a 12 12 0.20 TL/dk 0.20 TL/dk
+c- PSTN'den KMT'ye 12 12 0.20 TL/dk 0.20 TL/dk
+1.2 özel servis numaralarına erişim ücreti
+a- 444XXXX 60 60 0.04 TL/dk 0.04 TL/dk
+b- 900 9XXXXXX 1,5 1,5 1.60 TL/dk 1.60 TL/dk
+c- 900 8XXXXXX 1 1 2.40 TL/dk 2.40 TL/dk
+d- 900 5XXXXXX 2 2 1.20 TL/dk 1.20 TL/dk
+e- 900 3XXXXXX 0,6 0,6 4.00 TL/dk 4.00 TL/dk
+f- 800'1ü hatlar ücretsiz ücretsiz
+g- 1 o 1,112, 117, 121 , 123, 124, 141 , 144, 151 ' 155' ücretsiz ücretsiz
+156,177,157,158,161 '163, 171 '181 '197, 199
+h- 116,140,150,165,166,168,178,184,185,186,188,196 80 80 0.03 TL/dk 0.03 TL/dk 
+ı- 192 12 12 0.20 TL/dk 0.20 TL/dk
+i- ( 11 XX)'Ii numaralar ve 153 60 60 0.04 TL/dk 0.04 TL/dk 
+j- 4XX (internet erişim servisi) 600 600 0.004TL!dk 0.004 TL/dk
+Not:
+indirimli ücretler: 
+Pazartesi,Salı,Çarşamba,Perşembe,Cuma ve Cumartesi günleri, 19.00-07.00 saatleri arası gerçekleşen tüm
+lokal görüşmeler(PSTN>PSTN) ücretsiz olarak uygulanır. 
+Pazar günleri gerçekleşen tüm lokal görüşmeler(PSTN>PSTN) ücretsiz olarak uygulanır. 
+[SAYFA 45]
+1379 
+KlSlM lV 
+TELGRAF VETELEFAKS ÜCRETLERi
+1 DAHi ıJ lRGRAF üCJtTl.ffil 
+lRGRAFÇEŞ~ ÜCRET AQKIAMA 
+1.1 Normal Telgraf 
+a- Ac:gari üUlet 4.00TL 1 O kelimeye kadar 
+b- Her fazla kelime ürneti 0.40 TL Ac:gari ü~te ilaveten alınır 
+1.2 forele Telgraf Alliietelgraflardan 2 katı ü!Jiet alınır 
+a- Ac:gari üCli'et 8.00TL 10 kelimeye kadar 
+b- Her fazla kelime üffieti 0.80TL Ac:gari ü!Jfete ilaveten alınır 
+1.3 []lliırım Telgraf Uill:iırım işaretli telgraflardan 5 katı üffiet alınır 
+a- AsJari üı:.liet 20.00TL 10 kelimeye kadar 
+b- Her fazla kelime üOOti 2.00TL asgari üllilte ilaveten alınır 
+1.4 Birden fazla(müteaddit) adresli telgraflar Bu kategoriye dahil telgraflardan ewela bütün
+adresler kelime sayımına dahil edilerek bir tek
+telgraf imiş gibi üOOti hesaplanır. AyrırnJ telgraf
+nevi ne olursa olsun beher adres i[lli metin ve
+adresin kelime sayımına göre üOOt alınır. 
+a- ilk 50 kelimeye kadar 3.60TL 50 kelime dahil 
+b- S:>nraki beher 50 kelime ve kesri i [ili 1.20TL
+1.5 Abone OUletleri 
+a- Kısa adres abone üOOti 45.00TL TıOOi amaOO Bir defaya mahsusolmak üzere alınır. 
+b- Kısa adres abcnesi aylık üOOti 3.50TL 
+o- Kısa süreli kısa adres abcnesi Bir defaya mahsus olmak üzere alınır. (Bı [lik 1
+7.00TL aylık) 
+1.6 Fono Telgraf 
+a- Telefon ile alınar.mc olan telgraflar Telefon ile alınal]ik olan telgraflardan telgraf
+10% ü~tine ilaveten%10 eklenerek alınır 
+b- Faksla alınallik telgraflar(sayfa üüfeti) Faksla alınac:M telgraflardan telgraf ü~tine 
+1.20 TL ilaveten %10 eklenerek alınır. 
+1.7 Müteferrik Maddeler 
+a- D..Jrdurulması istenen telgraf üOOti iadesi <?Dnderilen şahıs tarafından keşideden ew el 
+durdurulması istenen telgraflardan hesaplanan
+0.60TL üOOtin 1/3 ü iade edilir. 
+b- [ihlışlıkla fazla alınan dahili telgraf ül..lfetin !Jahlışlıkla fazla alınan dahili telgraf üın!tden 1.3 b
+iadesi maddede belirtilen ürntıtten fazla olanlara 
+gönderi[We resen, az olanlara talep üzerine iade 
+edilir. 
+o- 8Jreti talep edilen bir telgraf iDE üı:Fet <?Dnderi 1]] veya al m tarafından ilk merkezden
+bilahare sureti talep edilen bir telgraftan ü[]et 
+olarak müteaddit adresi i telgraf üOOti alınır. 
+[SAYFA 46]
+1380 
+2
+2.1
+2.2
+2.3
+2.4
+3
+3.1
+a- 
+b- 
+3.2
+a- 
+b- 
+3.3 
+a-
+b- 
+1
+1.1
+1.2 
+a- 
+b- 
+o- 
+1.3 
+a- 
+b- 
+1.4
+1.5
+2
+2.1
+2.2
+2.3
+2.4 
+YURTDIŞ Tac:RAF OCRE.Tl..ffi 
+Türkiye Telgraf üelietleri Dahili telgraf üOOti alınır
+ı. l<ademeye dahil ülkelerden kelime üOOti 1.001L l<ademelere dahil ülkeleri gösterir liste EK3 
+ll. l<ademeye dahil ülkelerden kelime üOOti 1.601L l<ademelere dahil ülkeleri gösterir liste EK3 
+lll. l<ademeye dahil ülkelerden kelime üefu!ti 3.001L l<ademelere dahil ülkeleri gösterir liste EK3 
+GIŞ3.ffiJEN AU NAN TB..EFAKS OCRE.Tl..ffi 
+Uıhltiillılelefaks ülıetleri 
+1. n~JK$ayfa iletim üCEeti 
+Takip eden herbir sayfa iletim ül]eti 
+rnhdışı telefaks üOOtleri 
+1.inillSayfa iletim üül:eti 
+Takip eden herbir sayfa iiJE 
+Telefaksalma üffietleri 
+ilk sayfa üOOti 
+S:mraki her sayfa üCEeti 
+iş.Bvı 
+NAKiL iş.Bvı tm 
+Telefon nakilleri
+Teleks nakilleri 
+Ş3hirirn:J 
+Bölge iı:ill 
+Bölgelerarası 
+ISJN nakilleri 
+BA.nakili 
+FRA.nakili 
+ADS.. ve Gs-lOS.. nakilleri 
+öze ı devre (Ffivate wire) ve Trunk
+nakilleri 
+iş.Bvıl.EH 
+Telefon,ISJN(BA.) ve özel devre PN 
+devirleri 
+Telefon,ISJN(BA.) ve özel devre PN 
+devirleri 
+FRA. ve Trunk devri 
+ADS..., GS-iDS...,teleks hatları,özel servis 
+numaraları ve resmi olmayan özel servis 
+numaralarının devri 
+0.501L 
+0.251L 
+1.inrn:Jsayfa iletim üOOti telefaksın gönderile~i 
+ülkeye yapılan 4 dakikalık otomatik telefon üOOti 
+alınır. 
+Takip eden herbir sayfa iOB 2 dakikalık otomatik
+telefon üOOti alınır. 
+AlıOOan talep edilir 
+1.201L 
+0.601L 
+KlSlM V 
+ÇEŞiTLi ÜCRETLER 
+ÜmEr (lL) 
+13.25 
+18.50 
+18.50 
+39.00 
+26.50 
+397.50 
+Tesis ülJtfiıtinin o/o50'si alınır. 
+Tesis ü!Jıietinin o/o50'si alınır. 
+Tesis üLl!etinin °/c25'si alınır. 
+Tesis üOOtinin o/o50'si alınır. 
+795.00 
+AÇl Kl.AMALAR 
+Tesis ü~tinin %50'si alınır. 
+Tesis ü1İfftinin %:60'si alınır. 
+Tesis ü[]etinin %50'si alınır. 
+Adres ve/veya telefon numarası
+değişikliği nde. 
+Aynı aile efradı arasında veya tüzel kişi 
+isim değişikliğinde
+Aynı aile efradı olmayan ger~ ve/veya 
+tüzel kişiler arasında. 
+Devri yapılmaz 
+[SAYFA 47]
+1381 
+3 Telefon ve ISJN (BA-) numara değiştirme 8.60 
+4 ı<apatma ve tekrar bağlama Bora.ından dolayı 
+4.1 Telefon ve ISJN (BA.) illli (hat başına) 3.00 
+4.2 ffiA. ve Trunk modülü iüE (modül 15.00 
+başına) 
+4.3 AOS.. ve Gs-ıoa illli (hat başına) Tesisül.'l!etinin %10'si alınır. 
+4.4 özel devre (PN) illil (hat başına) Tesis üelietinin %25'si alınır. 
+4.5 özel servis numaraları,özel tarifeli mesaj TesisülBtinin %10'si alınır. 
+servisleri ve ürMtsiz aranan telefonlar 
+iill3 
+5 Uluslararası görüşmeye kapama ve aOOa 3.00 Abonenin arzusu üzerine. 
+6 Bııanete alma Bııanet süresi kadar aylık sabit ülMetleri 
+peşin alınır. 
+6.1 Abonenin arzusu üzerine emanete alma 5.00 Bir defaya mahsusalınır 
+üOOti 
+7 R3hatsız ediCIDıramaların takibi 5.00 Bir ay süreli 
+8 Diğer aboneleri rahatsız ettiği tesbit 26.50 
+edilen ve irtibatları kesilen abanelerin
+yeniden irtibatlanması 
+9 Teleks üCEetleri 
+9.1 çağrı işareti değişikliği 30.00 
+9.2 Haberleşme üüffLtinin öğrenilmesi 3.00 
+9.3 Kapama ve kapalı bir teleks hattını al.fila 5.00 
+üOOti 
+10 Detaylı faturaland ırma 
+10 .1 lik sayfa 1.20 
+10.2 Müteakip sayfalar 0.60 Her sayfa illli 
+10.3 Manyetik ortama kopyalama 30.00 üOOt 1,44 Mb başınaalınır 
+11 Abanelere santrallardan 12 KHz veya 16 
+KHzsinyal gönderilmesi 
+11.1 Normal aboneler 5.00 Aylık alınır 
+11 .2 ffiA. aboneleri (AOC) 150.00 Aylık alınırHer ana numara illli. 
+12 ISJN kullanım Kolaylıkları 
+12 .1 Doğrudan arama (001) her 10 numara iütl 5.25 Aylık alınır 
+12.2 Alt adresJeme (SJb addressing) PA ii1B 1,00 Aylık alınır 
+13 PaX 
+13.1 Pa>< özelliği verilmesi 60.00 
+13.2 R3Xe eklene!Jak her hat iLlli 5.00 
+14 Teminat ü~ti 200.00 rnbanCllilıyruklular illô 
+[SAYFA 48]
+1382 
+KlSlM VI 
+TESiSAT UYGULAMALARI iLE iLGiLi ÜCRETLER
+1- Dağıtım kutusundan dört menzil (220m, 3 direk) mesafeye kadar KlSlM ll 'de belirlenen tesis ücreti alınır. 
+1.1- Dört menzil (220m, 3 direk)'e kadar olan mesafelerde ilave havai hat için güzergahlara konulacak 
+her yeni direk maliyetinin 1/1 O' u alınır. 
+1.2- Dikilecek direk yalnız abcneye hizmet edecek olursa her yeni direk maliyetinin tümü alınır. 
+1.3- Mevcut çekilmiş ana güzergahtan direk ücreti alınmaz. 
+2- Dört menzil (220m, 3 direk) dışındaki telefon tesis ücretinin belirlenmesinde KlSlM VIII Madde 2 
+uygulanır. 
+3- Toplu dilekçeler ve özel sözleşmeye tabi uygulamalarda ücretierin belirlenmesinde Genel Uygulamalar 
+KlSlM VIII Madde 2 uygulanır. 
+KlSlMVII 
+TELEFONlTELEKS TESiS, NAKiL iŞLEMLERINiN UYGULANMASINA AiT ESASLAR
+1- Telefon/Teleks tesis ve nakil taleplerinin sı raya konması: 
+Telefon/Teleks tesis ve nakil talepleri prensip itibarıyle müracaattarihine göre sıraya konularak yerine 
+getirilir. Fakat imkanların kısıtlı olduğu hallerde; 
+a- Devlet güvenliği ve kamu yararı görülen durumlarda resmi kurum ve kişilerle ilgili Bakanlığın onayı 
+ile Telefon/Teleks tesisinde öncelik tanınır. 
+b- Telefon, Teleks tesis talepleri talep edenin ekonomik ve sosyal yönden ihtiyaç durumu gözönüne 
+alınarak Müdürlük tarafından tesbitle ilgili Bakanın onayı ile Telefon/Teleks takılır. 
+2- Talepden sonra adres değişikliğinde; 
+Telefon/Teleks tesis ve nakil talebinde bulunan bir kimse talepden sonra adres değiştirir ve bu değişiklik 
+ayni santral sahası dahilinde kalırsa yeni müracaat olarak düşünülmeyerek, ilk müracaat tarihi esas 
+tutulur. Santral sahası değiştiği takdirde son müracaat tarihine göre yeniden sıraya konur. 
+KlSlM VIII 
+GENELUYGULAMALAR 
+1- Resmi hizmetler için tesis edilecek tüm haberleşme hat tesis ve diğer işlemleri için alınacak ücretler 
+işlemi yapıldıktan sonra işlemi yapılan hattın ilk faturasına dahil edilir. 
+2- Ücret listeleri dışında kalan özel durumlar için işin ifası ve ücretlendirilmesi hususunda Bakanın onayı 
+ile Telekomünikasyon Dairesi Müdürü yetkilidir. 
+3- Tenzilat Uygulamaları 
+3.1- Personel indirimleri 
+a- Telekomünikasyon Dairesi'nde bilfiil çalışan personele görüşme ücretlerine ayda 1250 kentöre
+kadar %60 (yüzde altmış) indirim uygulanır. 1250 kontörün üzerindeki konuşmalara tam ücret 
+uygulanır. 
+b- Telekomünikasyon Dairesi Müdürlüğünde ve Telekomünikasyon Dairesi Müdürlüğü bünyesinde
+1 O yıl süreli görev yapan personele (işçiler dahil) emekliye çıkması halinde Telekomünikasyon 
+[SAYFA 49]
+1383 
+hizmetlerinin konuşma ücretlerinde 1250 kentöre kadar %30 (yüzde otuz) oranında indirim uygulanır. 
+1250 kontörün üzerindeki konuşmalardan tam ücret alınır. 
+c- Telekomünikasyon Dairesi Müdürlüğünde bilfiil çalışan personele çalıştığı süre içerisinde ADSL
+internet erişim ücretlerinde %50(yüzde elli) indirim uygulanır. 
+d- Telekomünikasyon Dairesi Müdürünün tavsiyesi üzerine gerekli hallerde ilgili personele bakanın
+onayı ile servis telefonu tahsis edilebilir. 
+e-ADSL sisteminin mesai saatleri dışında bağlantılarının sağlan ıp monitör edilebilmesi amacı ile 
+Bayındırlık ve Ulaştırma Bakanlığı'nın onayı ile en çok beş Telekomünikasyon Dairesi personeline
+ücretsiz olarak tamamen servis amaçlı ADSL bağlantısı verilebilir. 
+3.2- Basın indirimleri
+Ajans, yazılı basın, radyo ve televizyon stüdyoları, telefon ve teleks indirimleri:
+a-Radyo ve televizyon kurumları stüdyolarında kullanılan telefonlara, ajans ve yazılı basın
+amacıyla kullanılan, ajans ve yazılı basın kuruluşlarının adiarına kayıtlı telefonlar üzerinden 
+yapılan ada içi PSTN görüşmelerin 5000 kontöre kadar olan kısmına %60(yüzde altmış) indirim 
+uygulanır. 
+5000 kontörün üzerinde olan görüşmelerin ücreti tümüyle tahsil edilir.
+b-Sürekli, sarı ve mavi basın kartı sahibi kişilerin isimlerine kayıtlı bir ev telefonu üzerinden yapılan 
+ada içi PSTN görüşmelerin 1250 kontörüne kadar olan kısmına %50(yüzde elli) indirim uygulanır. 
+1250 kontörün üzerinde olan görüşmelerin ücreti tümüyle tahsil edilir. Beyaz basın kartı sahibi 
+kişilerin isimlerine kayıtlı bir ev telefonu üzerinden yapılan ada içi PSTN görüşmelerin 625 kontöre
+kadar olan kısmına %50(yüzde elli) indirim uygulanır. 625 kontörün üzerinde olan görüşmelerin 
+ücreti tümüyle tahsil edilir.
+c-Ajans ve yazılı basına ait teleks yıllık kiraları %40(yüzde kırk) ve teleks haberleşme ücretleri ise
+%25(yüzde yirmi beş) indirime tabiidir.
+3.3- Seyahat Acente indirimleri 
+KKTC seyahat acentelerinin bürolarında seyahat acentesi adına kayıtlı toplam telefonların ada içi
+PSTN görüşmelerine A sınıfı seyahat acenteleri için 5000 kontörlük kısmına, B sınıfı seyahat
+acenteleri için 1250 kontörlük kısmına %25 (yüzde yirmi beş) indirim uygulanır. Bu ücreti aşan
+kısımların tümü tahsil edilir. 
+3.4- Resmi Makam indirimleri
+a- KKTC Cumhurbaşkanlığı ve Başbakanlık ikametgahiarına servis telefonu tahsis edilir.
+b- Meclis Başkanı, Meclis Başkan Yardımcısı, Bakanların, TC Büyükelçisi, KTBK Komutanı ve
+Güvenlik Kuvvetleri Komutanı ikametgahiarına servis telefonu tahsis edilir.
+c- KKTC Meclis üyelerinin daimi ikametgahlarında isimlerine kayıtlı bir telefonun, "2000 kontörüne
+kadar olan kısmına %50 (yüzde elli) indirim uygulanır ve bu ücreti aşan miktarlar tümüyle tahsil 
+edilir. 
+d- KKTC Parlamenterler Birliği'nin KKTC'de görevleri sona ermiş eski parlamenterlerin 
+ikametgahlarındaki isimlerine kayıtlı bir telefonun "2000 kontöre" kadar olan kısmına %50(yüzde
+elli) indirim uygulanır. Bu ücreti aşan kısımlar tümüyle tahsil edilir. 
+e-KTBKK'Iığı ve GKK'Iığı bünyesindeki telefonlardan Komutanlık kontenjan sınırları içinde kalan 
+aylık görüşmeler için herhangi bir ücret alınmaz. Kontenjanlar KTBKK'Iığı ve GKK'Iığı tarafından 
+önerilir. Telekomünikasyon Dairesi Müdürü tarafından uygun görüldüğü şekilde onaylanır. 
+f-Her muhtarlık adına kayıtlı bir telefonun ada içi PSTN görüşmelerinin 1250 kontörlük kısmına 
+%25(yüzde yirmi beş) indirim uygulanır. 1250 kontörün üzerinde olan görüşmelerin ücreti tümüyle
+tahsil edilir.
+3.5- Bayi indirimleri
+Bayilere yapılan ankesörlü kart satışlarında uygulanan fiyatlara KDV hariç %10(yüzde on) indirim yapılır. 
+[SAYFA 50]
+1384 
+4- Özel Devre Abone Indirimleri 
+4.1-KKTC'de kayıtlı olarak faaliyet gösteren ve sözleşme gereği "Best Customer'' hakkına sahip
+olan GSM operatörlerinin Telekomünikasyon Dairesi'nden kiralayacakları ülke içi Özel Devrelerin 
+aylık kira ücretlerine %50 (yüzde elli) oranında indirim uygulanır. 
+4.2-KKTC sınırları içerisinde faaliyet gösteren ve Bayındırlık ve Ulaştırma Bakanlığı ile "KKTC 
+Ulusal Internet Ağı Oluşturulması Sözleşmesi" imzalamış internet Servis 
+Sağlayıcıları'na(ISS)Telekomünikasyon Dairesi'nden kiralayacakları ülke içi Özel Devrelerin aylık 
+kira ücretlerine %50(yüzde elli) oranında indirim uygulanır. 
+5- Uygulanacak birden fazla telefon ve/veya teleks bağlantısı olan abanelerin her türlü haberleşme ve
+bunlarla ilgili her türlü ücretleri bir tek şahsi hesapta toplan ır. Sözleşme hükümlerine göre faturada 
+belirtilen sürede ödenmeyen hesapların tahsil edilmesine kadar şahsa mahsus irtibatlardan herhangi
+biri ve/veya hepsi geçici bir süre için kesilebilir. Bağlantı veya bağlantıların yeniden yapılması için bu
+tüzükte öngörülen ücret alınır. Belirtilen süre içinde ödenmeyen ve ödenmesi için taahhütlü mektupla 
+uyarılanabanelerin 1 ay içinde hesaplarını kapatmamaları halinde irtibatları kesilir. Cihaziarı sökülür
+ve abonelikleri iptal edilir. Abonenin borçlarınıntahsiliiçin gerekli yasal işlem yapılır. Yeniden abone
+olabilmesi için "Yeni hat ve tesis ücreti" alınır. 
+6- Bu tüzük kapsamında Telekomünikasyon hizmeti sağlanacak tüm müstakil ev birleşik bina ve apartman
+dairelerine gerekli iç tesisat mal sahibi tarafından yaptırılır. Yapılan işin proje, malzeme ve işçilik 
+yönünden "Telekomünikasyon Dairesi iç Tesisat Kuralları"na uygunluğu Telekomünikasyon Dairesi'nce
+denetlenir. Yapılan tesisatın aranan asgari teknik ve hizmet yönünden uygunluğu saptandıktan sonra
+onay verilerek hizmet bağlantıları yapılır. 
+7-Toplu Konut ve Altyapı On ayları: 
+7-1 Arsa parselasyonunda kaldırım altı boruların döşenmesi ve rögarların inşası arsayı açan tarafından 
+kendi masrafı ile yapılır. Bu işlemler Telekomünikasyon Dairesinden alınacak yazılı görüş doğrultusunda ve
+"Telekomünikasyon Dairesi Dış Tesisat Kuralları"na uygun olarak hazırlanıp uygulanır. Açılan arsalara onay
+verilebilmesi için;
+i-Üç arsaya kadar arsa başına yürürlükteki aylık asgari ücretin 'X'ü oranı tutarında ücret ödenir.
+ii-Dört veya daha fazla arsa açılması durumunda her bir arsa için yürürlükteki aylık asgari ücret 
+miktarı kadar ücret ödenir. 
+iii-Yukarıdaki "i" ve "ii" bentlerine bakılmaksızın arsa parselasyonu olmayıp sadece arazinin bölünmesi 
+ile ilgili olan taleplerde herhangi bir ücret alınmaz. 
+iv-Toplu konut ve sitelerde kablolama projesi uygulanmamış ise hane başına yürürlükteki asgari
+ücretin Yı oranı tutarında ücret ödenir.
+7.2 Toplu Konut ve Sitelerde kaldırım altı boruların döşenmesi ve rögarların inşası konutları yapan
+Müteahhit tarafından kendi masrafı ile yapılır. Bu işlemler Telekomünikasyon Dairesinden alınacak
+yazılı görüş doğrultusunda ve "Telekomünikasyon Dairesi Dış Tesisat Kuralları"na uygun olarak 
+hazırlanıp uygulanır. 
+7.3 Toplu Konut ve Site Inşa eden Müteahhitler, inşa edilen konutların her hanesi için 2 telefon ve Dairenin 
+yazılı görüşü doğrultusunda hane sayısının iki katı kapasitesindeki telefon alacak şekilde
+hazırlayacakları kablo planlarını Telekomünikasyon Dairesine onaylatacaklar, kablosunu Dairenin 
+göstereceği dağıtım dolabı veya hizmet alımına uygun yere kadar getireceklerdir.
+Ancak Dairemizin hemen,Telekomünikasyon hizmeti veremeyeceği durumlarda;
+a-Sitelerde sadece site içi kablolama projeleri uygulanıp, Dairemizin onayına sunulur ve
+madde (7 -1 iv) 'e göre Dairemize ödeme yapılır. 
+b-Kamuya açık alanı bulunan toplu konutlarda ise madde (7-1 iv) e göre Dairemize ödeme yapılır. 
+ileri aşamada Dairemizin o bölgeye telekomünikasyon hizmetini götürdüğü zaman yukarda tanımlanan 
+site ve toplu konut sahipleri ve/veya kullanıcıları tarafından Dairemize başvurmaları halinde madde 
+[SAYFA 51]
+1385 
+(8 .1.1) göre işlem yapılır. 
+7.4 Gerçek ve/veya tüzel kişiler kendi işlerinin daha süratli yapılabilmesi amacı ile, bedelleri firma veya 
+kurumlar tarafından ödenmek koşulu ve TO nin Görüş ve yazılı onayı ile Telekomünikasyon sistemleri
+ve eriş im şebekelerine yapacak l a rı yatırımlarda, firmalardan Telekomünikasyon Ücretleri Tüzüğü
+gereğ i alınması gereken tesis ücreti bedeli alınmaz. 
+8-Binalara Kablo Tesisi: 
+8.1-Bakır Kablo Tesisi
+8.1.1 Arsa parselasyonu ile açılan arsalar üzerine inşa edilen binalar ile mevcut ana dağ ıtı m dolabı veya
+ana dağıtım kutusu arasına döşenecek kablonun 100 metrelik k ısmına tekabül eden bedelin mal 
+sahibi tarafından ödenmesi koşulu ile kablonun çekilmesi Telekomünikasyon Dairesi ta r af ın dan yapılır. 
+8.1.2 Toplu Konut ve Siteler için telefon şebekesine bağla nt ı üc r eti olarak hane başına yürürlükteki aylık 
+asgari ücretin 1/20'si oranında ücret ödenir.
+8.2-Fiber Optik Kablo Tesisi 
+Erişimin , fiber optik kablo ile sağ l anacağı binalara döşenece k fiber optik kablo ve inşa edilecek a l tyapı usu l ve 
+esasları: 
+8.2.1-Kablonun tesis edileceği binanın altyapısı ve mevcut şebeke altyapısına bağ l anması istekli t ara fı ndan
+yapılacak t ır . 
+8.2.2-Daire'nin onaylayacağı projeye uygun olarak binaya fiberoptik kablo, bedeli karşılığı daire t araf ı nda n tesis 
+edilir.Tes is için gerekli bir kısım malzeme, istekliden talep edilebilir. Bunla rın bedeli talep edilecek tutaradahil 
+edilmez. Ancak Daire'nin uygun görmesi halinde istekli de kendi i mkanları ile fiber optik kablo tesisini yapar. 
+8.2.3-Santral ile bina arasına istek li tarafından döşenece k olan fiber optik kablonun,6 çiftini geçmemek 
+kaydıyle, toplam çift olarak kapasitenin 1/6'sı isteklinin kullan ı mına hat tesis ücreti (KlSlM ll) a l ınmadan 
+verilebilecektir.
+8.2.4-istekli tarafından kurulacak olan fiber optik saha dolabı ile döşenece k olan fiber optik kablo l arı, 
+Telekomünikasyon Dairesi'nin mevcut fiber optik kablo ağına dahil olacak ve her türlü kullan ı m hakk ı 
+Telekomünikasyon Dairesine ait olacaktır. 
+8.2.5- Dairenin uygun göreceği kapasitede, isteklinin kendi i m kanları ile kurulan fiber optik saha d olabı ve/veya 
+döşenen 1000 metre üzeri fiberoptik kabloları n, sontand ırm a ve ara ekieri malzemeleri istekli ta r afından ka r şılanmas ı
+kaydıyla daire ekipleri tarafından ücretsiz yapılır. 
+8.2.6-Mevcut fiberoptik kablo ağından verilecek devrele r, Da i re tarafından döşenecek fiber optik kablo ve yap ıl aca k
+bağlantı eklerinin,bu tüzükle öngörülen birim fiyatlar (KlSlM VIII Madde 9) üzerinden hesaplanan maliyet bedelin in 
+istekli taraf ın dan ödenmesi koşulu ile, istekliye tesis edilir.
+8.2.7-Tedarik edilecek tüm malzemeler Telekomünikasyon Dairesi'nin teknik şartnamelerine uygun ve halen 
+kullanılmakta olan ürün cins ve kalitesinde olacaktır . Bu malzemeler Telekomünik as yon Dairesinin amba rın a 
+düzenlenecek evrakta birlikte teslim edilecektir. 
+8.2.8-lsteklinin,Telekomünikasyon Dairesi'nin altyapı şebekesini kullanarak iki binası arasına döşeyeceği f ib er
+optik kablo bağlantı uçları , kablo ağ ın ın ana dagıtım dolabı , fiber optik saha dolabı v eya fiberoptik kablo ağ ınd an 
+geçecektir.
+9-Telekomünikasyon Dairesi Müdürü, Bakanlar Kurulu tarafından ona yl anmış birim fiyatlar üzerinden,acil ve ivedilik
+arzeden işler için Bakanlığın onayını aldıktan sonra müteahhitlere telefon şebeke tesis işlerini yapt ı rmakla yetkilidir.
+AÇIKLAMA: 
+KlSlM VIII Madde 6'ya göre iç tes i sa tı onaylanmamış olan binalara ve/veya KlSlM VIII Madde ?'ye
+göre alt yapısız arsa veya arazi içine yapılmış binalara bağ l a ntı kablosu döşenmez . Uygulama ile ilgili
+olarak Telekomünikasyon Dairesi tara f ından Yönetmelikler hazır l anarak ilgili bakan ı n onayı na sunulur.
+Ancak büyük şehir Belediye sınırla rı dışında kalan kırsal alan ve küçük şehir Belediye sınırları 
+içerisindeki yerleşim birimlerinde Telekomünikasyon Dairesi şebeke alt yapısı yoksa ve 
+[SAYFA 52]
+1386 
+Telekomünikasyon Dairesi alt yapısı havai şebekeden oluşuyarsa bu durumda abonelerden telefon 
+yeraltı şebeke altyapısı aranmaz.Abonelerin bölgelerdeki talepleri mevcut Telekomünikasyon şebeke
+yapısına uygun olarak havai çoklu kablo ile karşılanır. Ücretierin belirlenmesinde KlSlM VIII Genel 
+UygulamalarMadde 2 uygulanır. 
+10-BORÇLARIN TAKSiTLENDIRiLMESi
+Telekomünikasyon Dairesi Müdürlüğü,KISIM VIII madde 7.1' ile ilgili alacaklarının tahsilinde 
+Bayındırlık ve Ulaştırma Bakanlığının onayı ile her taksit tutarı 5,000.00 TL 'den az olmamak kaydıyle 
+1 O eşit taksite kadar taksitlendirme yapmaya yetkilidir.
+Söz konusu taksitlendirmeler yükümlü tarafından imzalanacak taahhütname karşılığında,alacak
+tutarının taksit miktarı kadar çekle ödenir. Gününde ödenmeyen her taksit tutarına aylık %5(yüzde beş) faiz 
+uygulanır. 
+11-Telekomünikasyon Dairesi yaptığı kontrolluk hizmetlerine karşılık yapacağı harcamaları işi yaptıran 
+özel ve tüzel kişilerden ödenir.
+12-Turpak, Özel Devre, TDM, Frame Relay ait ücretlendirmelerde Türk Telekom'la yapılan protokoller ve
+bu çerçevede oluşan ücret tariteleri uygulanır. 
+13-Emanete alma ücrete tabidir. Emanete alınacak telefon/faks/teleks, ISDN (BA, PRA) ve trunk
+abonesinin borcu varsa önce borcu kapatılır, sonra emanete alınır. Emanet süresi sonunda KlSlM VIII 
+Madde 5 uygulanır. 
+14-Nakil yapılacak herhangi bir haberleşme hattının bütün borcu ve nakil işlemi ücreti ödendikten sonra 
+işlemi yapılır. 
+15-Herhangi bir haberleşme hattının devri, devredilecek hattın bütün borcu ile devir ücreti ödendikten sonra 
+yapılır. 
+16-Herhangi bir haberleşme hattına izinsiz ve/veya kaçak olarak girmek ve/veya ilgili hatları kötü amaçlı 
+olarak kullanmaktan kesin suçlu bulunan şahıs ve/veya şahıslardan bu süre içerisinde yaptıkları
+görüşme ücretlerinin tespit edilmesi halinde bu miktar %1 OO(yüzde yüz) ceza lı olarak tahakkuk ettirilir.
+Sirkat edilen ücretin belirlenemernesi halinde tahakkuk ettirilecek ceza ücreti, belirlenen süreyle Uluslararası
+görüşme ücretlerinin en üst kadernesi uygulanarak hesaplanır. Böyle bir cezaya çarptırılan şahıs veya 
+şahısların abonelikleri veya abone olma hakları bir yıl süre ile askıya alınır. 
+17-Rahatsız edici arama yaptığı ve bunu tekrarladığı tespit olunan şahısların abonelikleri en fazla bir ay
+süre ile askıya alınır . Suçun devamı halinde abonelik iptal edilir. 
+18-Arızalı bir telefon/teleks, ISDN (BA, PRA) ve trank hattı, elde olmayan bir nedenden dolayı arızalı
+kaldığı süre bir ayı geçtiği takdirde TD sabit ve aylık kira ücretlerine abone faturasından düşüp
+düşmemeye yetkilidir.
+19-KKTC uyruğu dışındaki gerçek kişilerin haberleşme hattı taleplerinin karşılanması durumunda bu 
+kişilerin tahakkuk edecek borçlarına karşılık KlSlM V Madde 14'de belirlenen teminat ücreti alınır. 
+Gerçek tahakkukun teminat miktarını aşması halinde bu kişilerin, teminatları gerçek tahakkuk miktarına 
+yükseltilebilir. Bu kişilerin abonelikten ayrılma isteği halinde hesaplarının kapatılması durumunda,
+teminat ücreti bu kişilere iade edilir. Din Görevlileri, Eğitim Görevlileri, TC Elçilik Mensupları ve Askeri
+personelden teminat ücreti alınmaz. 
+20-KESME VE IPTAL iŞLEMLERi 
+20.1- Herhangi bir haberleşme hattının Daireye olan borçlarının gününde ödenmemesi ve/veya 
+borçlarının 2 fatura dönemi üzerine çıkması halinde (KKTC uyruğu dışındaki abanelerin bir fatura
+dönemi) abanelere borçlarını kapatmaları için basın ve yayın yoluyla genel çağrı yapılır. Borçlarını 
+yine ödemeyen abanelerin irtibatları çağrı tarihinden 1 O gün sonra kes ilir. 
+20.2- Herhangi bir haberleşme hattının Daireye olan borçlarının 6 fatura dönemi üzerine çıkması 
+halinde abanelere borçlarını kapatmaları için basın ve yayın yoluyla genel çağrı yapılır. Borçlarını 
+yine ödemeyen abanelerin abonelikleri çağrı tarihinden 15 gün sonra iptal olunur. 
+20.3- Borçlarından dolayı servis dışı bırakılan herhangi bir haberleşme hattının yeniden açılması için
+( iptale gitmedi ise) Kısım V madde 4'de belirtilen bağlama ücretleri alınır. 
+[SAYFA 53]
+1387 
+20.4- Her türlü iptal iş l emi n de , iptal gününe kadar olan dönemin h e sa p la nm as ınd a gün/ay hesa b ı 
+uy g u lanır. (Sabit ücret x gün/ay) 
+2 1-Ba k anl ı ğ ı n o nayı ile Telekomünikasyon Dairesi M ü dü rl üğ ü , beli r le ye c eği dönemlerde düzenle yeceği 
+kampanyala rl a bu Tüzükte belirlenen ücret ve/veya tarifelerdede de ğ i şi k li k yapabili r. 
+ULUSLARARASI ÜCRET TARiFESi 
+ARIWANYÖN KONTÖR A1lŞ sJ~ K O N U ŞvlA üCH:Jl..mi 
+(sn) ( Til dk} AÇlKl.AM ALAR 
+Normal Indirimli Normal Indirimli 
+TÜ~08PSTN 20 24 0. 12 0,1 Indirim 20 :00 ·07:00 saatleri arasınd a uygu l an ı r 
+TÜ~IJEG!'M 9, 25 12 0.2594 0,2 I ndi r im 20:00-07:00 sa at l eri arasında ı,ı_yg _!,l l an ı r 
+G_()BAJ_ Sf AR: GM FeS) 5 6 0.48 
+özaSRJiam:rü~ ~ 1 1,6 1.50 0444,1181 1 ,11 842, 11 85 5 
+özaSRJiam:rü~ []E) 2 0,8 3. 00 133,11832 
+ı<AI::Bv1 E 1 15 0.16 
+ı<AI::Bv1 E ll 7,5 0.32 
+ı<AI::Bv1 E lll 4 . 0.60 
+ı<AI::Bv1 E IV 2 1.20 
+ı<AI::Bv1 EV 1,2 2.00 
+ı<AI::BvlE\11 0,6 4.00 
+Di GR 0,15 16.00 
+UY!YJ 0,08 30.00 
+özas:RJISJR 0,6 4.00 
+Tüm görüşme ücretle ri ne %16 (yüz de on altı) KDV uygu l anır. 
+[SAYFA 54]
+1388 
+EK 1
+ÜLKELER LiSTESi 
+iü~YE 
+ÜLKE ÜLKE 
+ÜLKEADI KODU ÜLKE AD I KODU ÜlKEADI ÜlKEKODU 
+PSTN 90 GSM 90 GLOBAL STAR (GMPCS) 90 
+ÖZEL SERVISLER 1 90 ÖZEL SERVISLER 2 90 
+KA.DEM E 1 ülXB.ffil Ü U<E 
+ÜU<EAD I ÜU<EKODU ÜU<EADI KODU ÜU<EAD I ÜU<EKODU 
+ITALY 39 FIRJ 51 AUSTRA(MOOLE)HLITOi l s:N 3G 43 
+13ER\1ANY 49 FIRJ (UM A) 51 AUSTRA( )MOOLKOM A1 43 
+CANA[}/>, 1 TPJWAN 886 AUSTRA( ) ONE 43
+FPANCE 33 TAJ WAN(T AIPE) 886 AUSTR A()"TB.ffiNG 43 
+HUNGI\RY 36 NORN AY 47 AUSTRIIQT- 43 
+HUNGI\RY (BUD'IFI:ST) 36 PORTtJGt\L 351 PAI<IsrAN 92 
+UNITED I<I N GJO'V1 44 INCI A 91 PAI<I5r AN ( MOBLE) 92 
+ı:ıtNMAIRK 45 WXEMB:X.Iffi 352 actv' AKFH' . 421 
+Kl\ZAI<I-IsrAN(AI.M ATA) 7 RJI.AND 48 US'\(AWN\) 1 
+Kl\ZAI<I-IsrAN (AsrANA) 7 BRAZl<BELO ) 55 BRAZL< S\0 P AUlD) 55 
+Kl\ZAI<I-IsrAN(i<AR'I GAN DI\) 7 BRAZL<RO) 55 GE:R:lA 995 
+NEn-IERAN DS 31 Fn'v!ANIA 40 GE:R:lA(ABI<!-IAZIA ) 995 
+US\ 1 Fn'v!ANIA(BU~ 40 GE:R:lA(TSKH INVAU) 995 
+Gfffi:E 30 AUSfRIIIJA 61 AUS\NIA(TlRAN) 355 
+Gfffi:E OTHER 30 RUffiA(5r.FB13'ffiiJA3)(812) 7 BUIJ?AA A(i:a'IA) 359 
+C'R33J:(ATHENı:) 30 CZB:H REPUBUC 420 AUS\NIA 355 
+ElE_GUM 32 CRl'\llA 385 EWIR'\IN 973 
+OHINA(MOOLE) 86 CıffiJS 357 Bo'.NGA003-I 880 
+lffi'a 972 CZB:H REPUBUC(PPAHA) 420 BRAZL 55 
+SNG'IFCUR 65 LATV _ A(R G".) 371 BRUNB 673 
+SNG'IFCUR:MOO LE) 65 MCJRXXXJ 2 12 BUIJ?AAA 359 
+SII'ITZERLAND 41 Fn'v!AN I A( FOLO ) 40 OH! lE 56 
+AUSTRA 43 Fn'v1AN IA( FOL02) 40 OHilEB 56 
+AUSTRii(vıENNA) 43 RUffiA 1 7 ANLAND 358 
+INDIA(MOOLE) 91 HONGI«JN G 852 ANLAN!l(HELSN I<l ) 358 
+RLffi A(MCJSJJN)(495 , 499) 7 HONG I«JNG( MOOLE) 852 FR'\Na(MOBLE)B:JIJ\'GJES 33 
+SPAIN 34 ICBAJN D 354 FR'\Na(MOO LE)ORANGE 33 
+SiVEı:B'J 46 .APAN 81 FR'INa(Ma31lE)OD-Iffi3 33 
+US'\(HAWAI) 1 i<Ofe\ SOUTH 82 FR'\Na(MOOLE)SPR 33 
+IFBAND 353 GE:R:lA(TBUS) 995 INTERNAll ONALNETW~Xln'l) 8835100 
+OHINA 86 MALA 'tSA(M OOLE) 60 VENEZUELA 58 
+INDIA(OllES) 91 FIJERT"OROO 1 MALTA 356 
+INDIA(MOOLE)BS\IL 91 RLffi A2 7 RLffiA3 7
+MALA 'ıS A 60 ANDORRA 376 
+[SAYFA 55]
+1389 
+KAD8\JI E ll Ol.KB..ffii 
+ÜLKEADI ÜLKEKODU ÜLKEADI ÜlKEKODU Ü LKEA DI ÜlKEKODU 
+FUffiA(MaıiLE) 7 Bl\HRI\IN ( MOOLE) 973 i Gm:E(MOOLE)WIND 30 
+U. S VJFGN ISAND 1340 AFUNTlNA 54 UKRAJ NE 380 
+81\NG.ADEE-i(MOOLE) 880 M ONACO 3n UKRAJNEiJ<l Bl) 380 
+ERINB(MOOLE) 673 AM ffia\N SI\MOtl 1684 CE:R:l A( MaıiLE)MOOTB.. 995 
+CYffi.JS:MOOLE) 357 RNlAND(FltMIUM) 358 BaG UM (M OO LE)MaıiSfAR 32 
+Kl.JINAIT 965 HUNGI\R((M OOLE)PANNCN 36 cx:ısrA ~CA 506 
+s.!MN IA 386 HUNG'IRf (M OOl.E)T- M aıiLE 36 83'YPI" 20 
+ESIONlA 372 HUNG'\Rf( MOOLE) VOQI\RJNE 36 83'YPI" (Al.EXliN rnA) 20 
+UlHUANIA 370 INDCNESA 62 83'YPI" (CAIR)) 20 
+EIUL.G<\AA an-lffi 359 INDCNESA(M aıiLE) 62 CE:R:l A(M aıiLE)an-lffiS 995 
+EIULG'.RA(s::JFIA) ( 24) 359 UB:HTBIIsrBN 423 I R".Q(MaıiLE) KCiffi< 984 
+RNLAND(o:HDRI\TE) 358 Fa.AND(M aıiLE)OlHffi 48 ff' AIN(MaıiLE) 34 
+CE:R:lA(MOOLE)G3:03.l 9 95 SI\! PAN 1670 ~A 963 
+CE:R:lA(MOOLE)MAGTI 995 U2E8<15r AN(TAS-IKENT) 998 UFUG..I AY 598 
+GERvlANY(M aıi LE)CAI.lAX 49 .m:ıo.N 962 U2E8<15rAN 998 
+GERvlANY(MaıiLE)E-PUUS 49 FUffiA(MaıiLE)M 83'\PONMc:s:J:NV 7 VJEJNOM 84 
+GERv1ANY(MaıiLE)02 49 G..IAM 1671 BaG UM(MOO LE)TELENET 32 
+GERvlANY(MaıiLE)T-M aıllE 49 SJI.JTl-IAFRCA 27 ITALY ( MaıiLE) ll M 39 
+GERvlANY(MaıiLE)VOQI\RJNE 49 IR".N 98 I TALY ( MaJILE)VOQI\RJN E 39 
+KI\ZAW-IsrAN 7 LAlVIA(MaıiLE) 371 ITAILY ( MOOLE)V OQI\RJNESJCS 39 
+KC:ıR:A SJI.JTl-I(MaıiLE) 62 SO..UDI AR"..llA 966 nJFWvı EN isrAN 993 
+LAlVIA 371 TAIWAN (Maıi LE) 666 nJFWvı EN I SfAN( MaıiLE) 993 
+PANAMA 50 7 RNLAND(MOOLE)s:NER". 358 IT ALY(MOOLE)WI ND 39 
+UNITED I<JNG:Xlv1(MC6l.E) 44 TJ-l.\llAND 66 IT ALY(M OOLE) W INDSJCS 39 
+lffiiiH.( MOOLE) 972 TJ-l.\llAND(BI\N GI<JJI<) 66 IU'v1AN I A(M aıll.E)MaılfCX\I/VOQI\RJNE 40 
+GERvlANY(MaıiLE)VJ-Sfffii\M 49 BaGUM(M aıiLE)FmXIMUS 32 IU'v1AN I A ( M aı1LE)OR".NGE 40 
+SNEDIEN ( MaıiLE)COMVJQ 46 Gm:E(Maıll.E)cx:x'MO TE 30 
+SNEDIEN (MOOLE)OlHffiS 46 Gm:E(MOOLE)VOQI\RJNE 30 
+KAD8\JI E lll Ol.KB..ffii 
+ÜLKEADI Ü lKEKODlU ÜlKEAlDI ÜLKEKODU ÜLKEADI ÜlKEKODlU 
+KI\ZAW-IsrAN(MaıiLE) 7 PHIUA'INEB 63 NORN AY( S'BJAIL SffiVICES) 47 
+FUffiA(MaıiLE)BEB.JN E 7 KYffi"ıZZSfAN 996 PH I UFf'INEE\MOBI LE)S\1ARr 63 
+FUffiA(MOOLE)M1S 7 KYffi"ıZZSfAN ( MOOLE) 996 SJDAN (M OOLE) 249 
+AIL~A(CAT) 213 M cru::J:J:XYVANA ) 212 YEMEN 967 
+ANLAND(MOOLE)ONA 356 NI~ A(MOOLE) 2 34 ITAILY(M aıiLE)H3G 39 
+RNlAND(MOOl.E)EUSO.. 358 OlMAN 968 UlHUANI A(MOOLE) 3 70 
+ANlAND(MaıiLE)OTHffi 358 POATUGt\l.(MOOLE) 351 I<ENYA(MaıiLE) 254 
+IR". Q 964 FUffiA(MOOl..E)A- MOO LE 7 MAU ~ll USI SANDS 230 
+KI\ZAW-ISfAN(MaıiLE)K<\R-TB.. 7 ELOIIENI A(MaıiLE) 386 NETHEIU\NOS:MOOLE)I<l'N 31 
+KI\ZAW-IsrAN(MOOl.E)I<J:lll 7 ff'AIN(MOOLE) OlHffi 34 N ETHEIU\N OS:M OOl.E)TB..E2 31 
+[SAYFA 56]
+1390 
+IVvVAIT(MOOLE) 965 ıH lANKA.(RX-O'JNET) 94 NE!l-IERAN OS:MOOLE)Vcıı:ıt\FO'J E 31 
+AJS3A(MOOLE)AQUAR:N 7 UNI1ID KINGCJQ\11 (843) 44 W~OCIJ R?(MOOLE) WXGSvl 352 
+EIE3..GUM(MOOLE)B'IS: 32 UNI1ID KJNGCJQ\11(844) 44 W~OCIJR?(M OOLE)TANOO 3 52 
+B::lSIIIA Hffi1BX:M NA 387 UNI1ID KJNGCJQ\11 (845) 44 ARM EN lA(_ M OOI,E)NO'J <EXRl\A-IIC 374 
+C2l3J-l RRJBJO:MOOLE) 420 AI.B'INIA(MOOLE)Vcıı:ıt\FO'JE 355 OJLOMBIA 57 
+83YPT(MOO LE) 20 N®VAY(MOOLE)NETCCM 47 OOMINICAN FS'IJBJC 1 
+INlffi'JA110'JALN ETW Cl*\CXlNNEXO'J) 883120 N®VAY(MOOLE)lE..ENffi 47 ıH lANfq; (RX-Cffi,fET) 94 
+IRA.N(MOOLE) 98 AIUNflNA(MOOLE) 54 UN I 1ID KJNGCJQ\11 (87 0) 44 
+.(H)t~N(MOOLE) 962 1313.GUM(MOOLE) 32 UN I 1ID KJNGCJQ\11 ( 871 ) 44 
+.(H)t~N(MOOLE)OTH~ 962 ıH lANKA.(M Gel LE) 94 UNI1ID KJNGCJQ\11 ( 872 ) 44 
+MEXCC 52 ıH lANKA.(MOOLE)MOOla 94 UN I 1ID KJNGCJQ\11 ( 873) 44 
+MO'JOOUA 976 1®/YA 254 'ffi'v1EN ( MOBILE) 967 
+Mmx:o::xM EDI) 212 IU\1ANIA(MOOLE)IU\1TE!BXl'v1 40 AI.B'INIA ( MOBILE)AMC 355 
+PAR'\GJAY 595 SNfıım.AND(MOOLE)C.R'\NGE 41 AlfERA 213 
+U2ES<IsrAN(MOOLE) 998 SNiıım.AND(MOili~N~S: 41 0'\MEl'D:X'J 237 
+S'\UDI 
+VENEZ1JE3.A(M0131LE) 58 ARABIA( M 00 LE)A/...1<\WNAL 966 lAlVIA(MOBILE)BIIL 11JI\ 371 
+ZAMillA 260 S'\UDI ARABIA(MOOLE)BR".VC 966 NE!l-IERANOS:MOOLE)T-MOOLE 31 
+SNI12!RAND(M0131LE)SNIS3JJM 41 S'\UDI ARABIA(MOOLE)MOOLY 966 FUAND(M0131LE)fl4 48 
+AA\ııENIA 374 S'\UDI ARABIA(MOOLE)ZAIN 966 AN11GJA 1 268 
+Gffiv1ANY(M0131LE)FER3:N'IL 49 AU SIRALIA(M OBI LE) 61 EDJVIA 591 
+SRliA 381 DENMAR<(MOBILE)S)NCIFO'J 45 lAOS 856 
+IR'\Q(MOBII..E)ASACE.l 964 DENMAR<(MOOLE)lDC 45 TAJKJsrAN 992 
+IR'\Q(MOOLE)ZAIN 964 DENMAR<(MOOLE)ll3.JA 45 ARMENIA(MOOLE) 374 
+AA\ı1 ENIA(YE!B'AN) 374 Ma.rovA 373 JI\PAN ( MOOLE) 81 
+OJLOMBIA(MOBILE) 57 MO'JTENB:RJ 382 Ma.IXJv'A(M 00 LE)CR'INGE 373 
+NI~A 234 NE!l-IERANDS'\NllUES 599 PAI.B5TlNE(970 ) 970 
+NI~A(lAI?DS) 234 A-liUFf1NEE\MOOL.E)GlOOE 63 PAI.B5TlNE( 972) 972 
+IU\1ANIA(MOBLE)ca:M01E 40 A-liUFf1NEE\MOOLE)O!Hffi 63 PANAMA(M 00 LE) 507 
+lli'HI.1UD". 1441 Uf<Rl>J NE(M 00 lE)AsrEUT 380 FUAND(MOOLE)FQ..SI\T 48 
+B::lSIIIA Hffi1BX:MNA OTH~ 387 Uf<Rl>J NE(MOBILE)OOLDEN 380 s>AI N 902 SR./1Cffi 34 
+LEB'INO'J 961 Uf<Rl>J NE(MOilll.E)KYlYsrAR 380 UAIE 971 
+1 R'\Q(M OOLE) 964 U f<Rl>J NE( M 00 LE) M lS 380 ZAMBIA(MOBILE) 260 
+A-liUFf1NESMM 63 Uf<Rl>J NB:MOilll.E)OTH~ 380 UAIE(MOOLE) 97 1 
+fU\AAN IA(M OBILE)A:S 40 Uf<Rl>J NE(MOOLE)U~ 380 DENMAR<(MOOLE)B'IRAilllJ 45 
+fU\AANIA(MOBILE)TELEM OBI LE 40 Uf<Rl>J Nt{MOiliLE)UR> 380 DENMAR<( MOOLE)Lıo>. 45 
+MACEXlNIA 389 SJD".N 249 Ma.IXJv' A( ffiDNESTro\IIE) 373 
+MACEXlNIA ca:MCIFO'J 389 AA\ııENIA(NAG::JR>JI ~ 37 4 UN11ID KINGCJO\A ( MOOLE)O ~ 44 
+PEAJ(M OOLE) 51 NE!l-IERANOS:M0131LE)TI3.FORr 31 
+[SAYFA 57]
+1391 
+Kı\D8v1 E IV ÜL.KB.ERI 
+ÜLKEADI ÜLKEKODU ÜLKE ADI üLKEKODU ÜLKEADI ÜLKEKODU 
+AI..B'\NIA(MCBLE)EAG..E 355 NEl'AL 977 EW5'.llOS 1 246 
+PAlB3TlNE(MCBLE)(970) 970 TANZA NIA 255 1313JZE 50 1 
+PAlB3TlNE(MCBLE) (97 2) 972 TU NI SA 216 Cl\ftvm:::E 23 8 
+sYRA(MCBLE) 963 T\J N ISA(CRI\NGC) 216 ffi3\IO-IGJI. 594 
+GJA1!3\AALA 502 URJGJAY(MCB LE) 598 <HNADA 1 473 
+MAC<\U 853 AI..B'\N I A( MCBLE) RlJS 355 IT ALY (MCBLE)Ffl 39 
+ANG:lA 244 ARJBI\ 297 M ALA Wl 265 
+B-lUT AN 975 El'\1-'AMAS 1 242 NBN C!\I.B::O'II A 687 
+C<\MOODIA 855 BaARJS 375 CMAN(MCBLE) 968 
+MALTA(MCBLE)G::l MCBlE 356 C<\MIRXl'J (MCBLE) 237 A:RJ( 011-IER) 51 
+MALTA(MCBLE)RNG 356 HrnDUPAS 504 !B\J-I8lB3 248 
+MALTA(MCBl.E)\101)1\fCNE 356 INlm'lAlla>IALNETW~E) 88239 MY AN MAR 95 
+SJD'IN(MCBLE)V1VACW. 249 C<\YMAN ISJINDS 1345 UBY A( MCBLE) 218 
+NEll-IERANOS:MCBLE) L'ı'C'\MOBilE 31 ı:ıc:MINIC<\ 176 7 EIJLGI\RIA( MCBLE)MCB L lR 359
+QATAR 974 M~T 1 664 Al.(ffiA(MCBLE)ORASXXv1 213 
+Df3\IM~MCBLE)H3 G 45 NI~ 227 MACEDON I A(MCB LE) 389 
+IFBAND(MCBLE) 353 8Rll::HV1FON 1 264 MACEDONIA(MCB LE) cı::ı:'M acN 389 
+W:>Bv1EOJR3(MCBLE)CRIINGE 352 a&\LVAIXR 503 ::mliA(MCBLE)MTS 38 1 
+Ma..ı:x:NA(MCBLE)011-IER3 373 B:l'NIA HERZBX11!1 NA( MCB l.E)EHT 387 ::mıi A (MCBLE)lBlNffi 38 1 
+NE11-IERANOS:MCBLE)011-IIffi 31 8JJAllOR 593 ESTDNIA( MCBLE) 37 2 
+I\2EHV<]Jt\N 994 BaARJı;(MCBLE) 375 M AUF HANIA 222 
+112EHV<l.Jt\N ( BI\KU) 994 EENIN 229 ::m31A(MCBLE)V1P 38 1 
+I..EBANO'J(MOBILE) 961 BJTSNANA 267 mlffi'\ 291 
+OATAR:MCBLE) 974 G-t'INA 233 ETl-I I OPIA 25 1 
+"THAJLAND(MCBLE) 66 MC!i<XJJ:XWANA 011-IER) 212 MAU 223 
+UGI\ND'\ 256 T\JFC:&Ct\I CX:S 1649 MlcroNESA 69 1 
+aOVAKFa'.(MCBLE) 421 EIJIV<INAFAS) 226 NAM I ElA 264 
+AFGHANISfAN(MCBILE) 93 EQI.JATOA ALGUI 240 N BN 2E'J.AND 64 
+CHLE(MCBLE) 56 .AM AlCI\ 18 76 sr . ı<ıTTil!.N BIIS 1869 
+Ma..ı:x:NA FADN85T!UVIIO( MCBLE) 373 UN I 1ID I<INGı:ıcM ( MCBLE)(7 0) 44 sr .w aA 17 58 
+RNAND'\ 250 B:l'NIA HERZBX11!1 NA(MCB LE)ER:NEr 387 sr .vı NaNT 1764 
+Ma..ı:x:NA(MCBLE)MOLD:8.l 373 B:l'NIA HERZBX11!1 NA(MCBLE) TE.B<av1 S'f'S<E 387 SJRNAME 597 
+AFGHAN ISf AN 93 MAmrrEI9_ 262 SNA21 LAN D 268
+UBYA 218 s:xiTHAFR CA(M CBILE) 27 = 228 
+NCWIAY(MCBLE) 47 TRNI[l1\D]'Q31\ Cü 18 68 ALGmA(MCBLE)WATAN IA 213 
+ALGmA(MCBILE)MCBUS 213 Ma-JTENE'ffi:XMCBLE)FADMO'JTE 382 ffi3\IO-IFOL 68 9 
+ARviEl'JIA(MCBLE)~ 374 MO'JA<XJ(MCBLE) 377 GJINI'A Elffi\U (MCBLE) 245 
+CHY\llA(MCBLE) 385 M ~Effi:XMCBLE)T-MCBilE 382 M ORX!XJ(M CBLE)MBJI 212 
+IFA2I~MCBLE) 55 MOZAMEII QUE 258 M ORX!XJ(M CBLE)MR:; 212 
+ANOCffii\{MCBLE) 376 FQAND(MCBLE)<J:Nlm'i Er 48 ::mli A ORO'J 38 1 
+[SAYFA 58]
+1392 
+f<I\DBvl EV OLJ<EI.ffil 
+ÜU<EA DI ÜU<EKODU Ü U<E ADI Ü U<EKDIDIJ ÜU<E ADI ÜU<EKODU 
+G'\B:JNB:E RP 241 MAR'I-V\LL laAN DS 692 UEI'RA 231 
+OJNGJDEM. 243 MARll NIQUE 596 UBYA(MOOL.E)AL-H U WA 21 8 
+LAMA(MOOLE)O!Hffi 371 N ICAAI\GJA 505 lO'lG'\ 676 
+ffi'JEJ3',L 221 fRINIO'J 2 62 CINIR'ILAFFlO\ 236 
+SNITZERAND(MOO LE) 41 OJNG::ıffi'UBJC 2 42 21MBI\EINE 263 
+nJN I SA(MOOI..E)OR<INCE 216 SEWALBJNE 232 UB:HTENSIEN ( MOOLE) 423 
+nJNISA(MOOLE)aW!XJM 216 s..a.-&IIA(MOOLE)OIHER 386 WE5TER'J SAMCI'\ 685 
+nJN I SA(MOOLE)llJ N ISE~ 216 MADA GO.S:AA 261 l'INAW 688 
+CDTE D IVOIFE 2 25 GAMBIA 220 GRBV\N D 299 
+GBR'\LTAR 360 GJINEA 224 ~AUA 252 
+GJYANA 592 D.JBJL/Tl 253 PAA.JA 675 
+l.EEUTHO 266 Sf .PIB'H'&MIK 508 
+f<I\DBvl EVI OLJ<EI.ffil 
+ÜU<EADI ÜU<EK DIDIJ Ü U<EADI O U<EKDIDIJ ÜU<E ADI ÜU<EKODU 
+o::MORJSIS.. 269 FAINAND laANDS 500 WAWS&FUWNA 681 
+I<IRBAll 686 NI UEISAND 683 EAsrllMCR 670 
+INTIH\IAllONAL 
+MALDIVES 960 NElWCJI*l:QOBALsrAR) 881 CUBA 53 
+VANUAW 678 DIEG::ı <:WaA 246 sr. HEUENA 29 0 
+Di GER 
+ÜU<EADI ÜU<EKDIDIJ ÜU<EADI ÜU<EKODU ÜU<E ADI ÜU<EKDIDIJ 
+INTIH\IAllONAL NE!WCJI*l:cte8'1L 
+INTIH\IAllONALN E!WCJR<l:(lHUAAYA) 88216 INTIH\IAllONALNElWCJI*l: ONAR) 88298 N~ 88234 
+INTIH\IAllONAL INTIH\IAll ONAL 
+INTIH\IAllONALNElWCJI*l:MCP) 88232 N ElWCJI*l:SEANEf) 88242 NEfWOI*l: AEROMOO LE) 88299 
+INMARS'\T EGt\N 8 70 FUAND DIAl: UP INTER-JEf Ar:r:FS:! 48
+UYDU 
+ÜU<EADI ÜU<EKDIDIJ Ü U<EADI ÜU<EKDIDIJ ÜU<E AD I Ü U<EKODU 
+INMARS'\TMM 76 I NMARS'\T Gl\N 60 INMARS'\T EGt\N HS:ı 78 
+INMARS'\T AEK> 5 I NMARS'\TM 6 
+INMARS'\TB 3 I NM ARS'\TB HS:ı 39 
+öza~s...ER 
+ÜU<E 
+ÜU<EADI ÜU<EKDIDIJ ÜU<EADI ÜU<E KDIDIJ ÜU<EADI KDIDIJ 
+Al.BAN IA( ffi:!JAL~CE3) 355 SE'YGIEU.EE(ffi:!J AL ~CE3) 248 ~.I\N( ffi:!JALSERVICE3) 994 
+B::<N IA Hffii'Emii1NA(ffi:!JALSERVICE3) 387 UNillEDI<INCDOM ( ffi:!J AL SERVICE3) 44 
+EsrO'JIA(ffi:!J AL ~CE3) 372 PAPUA(ffi:!JALffRVI CE3) 675 
+[SAYFA 59]
+1393 
+EK ll 
+TELGRAFVE TELEFAKS ÜCRETLERi iÇiN BELIRLENEN 
+KADEMELEREDAHiL ÜLKELER 
+1. KADEM EYE DAHiL ÜLKELER 
+Iran, Pakistan, &ıriye, Ürdün. 
+ll. KADEMEYE DAHiL ÜLKELER
+Afganistan, Alaska, Amerika Birleşik Devletleri, Amerikan Samoa, Andora, Angola, Anguilla, Antigua, Arjantin,
+Arnavutluk, Aruba, Asansiyon, Avustralya, Azerbaycan, Azor Ad aları, Bahama, Bahreyn, BangladeşBarbodos, Batı 
+Sahra, Batı Samoa, Belçika, Belize, Benin ,Bermuda, Butan, Birleşik Arap Emirlikleri,(Abu Dhabi, Ajman, Alain 
+..emel Dhana, Dubai, Fujairah, Khor Fakkam, Rasal Kaimah, Sıarjah, Um El Kaivan) Birmanya (Myanmar) ,
+Boluvya, Botsvana, Brezilya, Brunei Darussalam, Bulgaristan, Burkine Faso, Burindi, Carriacau, Cebelitarık, 
+Cezayir, Cibuti, Çad, Çek Cumhuriyeti, Çin Halk Cum., Danimarka, Diego Garsia, Dominik, Donimik Halk Cumh.,
+Ekvator, Ekvator Ginesi, El Salvador, Endonezya, Ermenistan, Etyopya, Falkland Adaları, Fas, Feroe, Fiji, Fildişi 
+Sahili,, Filipinler, Fransa, Fransız Guyanı, Fransız Güney Antartik Bölgesi (Taaf) Fransız Polinezyası, Gabon, Gana,
+Gine Bissau, Gine Cumhuriyeti, Grenada, Gronland, Guadelup, Guan, Guatemala, Güney Afrika, Gürcistan,
+Guyana, Hadramut, Haiti, Hindistan, Hırvatistan, Hollanda Antilleri, Honduras, Hong Kong , ingiliz Virjin
+Ad aları, Irak , Iri anda, ispanya, !srail, isveç, italya, izi anda, .Bmaika, Kamboçya (Khemer Cum.) Kanada, Kanarya 
+Adaları, Kamaran, Kamerun Kap Vert, Karolin, Katar, Kayman Adaları, Kazakistan, Kenya, Kıbrıs Rum Kesimi, 
+Kırgızistan, Kiribati, Kokos- Kiling, Kolombiya, Komor Adası, Kongo Halk Cumhuriyeti, Kore Demokratik Halk
+Cumhuriyeti (Güney) , Kosta Rika , Kristmas , Kuk Adası, Kuveyt , Kuba, Laos, Lesoto, Letonya, Liberya, 
+Lihtenştayn, Litvanya, Lübnan, Lüksemburg, Macaristan, Madagaskar, M ader Adası, Makao, Makedonya, Malavi,
+Maldiv Adaları, Mali, Malta, Marian Adası, Marşal Adası, Martinik, Mayotte, Meksika, Merkezi Afrika Cumh.,
+Mikronezya, Mısır, Moğolistan, Moldova, Monako, Monsera, Moris, Moritanya, Mozambik, Namibya, Nauru,
+Nepal, Nijer, Nijerya, Nikaragua, Niue, Norfolk, Norveç, Özbekistan, Palau, Panama, Papua Yeni Gine, Paraguay,
+Perim , Peru, Pitkeim, Polanya, Portekiz, Reünyon, Rodrigez, Romanya, Ruanda, Rusya Fed .. Sabah, San Marina,
+Saravak, Senegal, Siera Leone, Slovakya, Slovenya, Salomon Adaları, &:>mali, Sri Lanka, st.Helen, st.Kits, st Lusi,
+Sen Piyer ve Mikölon, Sao Tomeve Prensip, S3n Vensan, &ıdan, &ırinam, &ıudi Arabistan, Svaziland, Şili, 
+Tacikistan, Tayvan, Tanzanya, Tayland, Timor, Togo, Tokelau, Tonga, Trinidad ve Tobago, Tunus, Tuvalu, Türk ve
+Kaik Adaları, Türkmenistan, Uganda, Ukrayna, Umman, Uruguay, Valis ve Futuna, Vanuatu, Vatikan, Venezuela,
+Vietnam, Yemen Arap Cumhuriyeti, Yeni Kaledonya, Yeni Zelanda, Sırbistan ve Karadağ (Yugoslavya),
+Yunanistan, Zaire, Zambia, Zimbabve. 
+lll. KAD EM EYEDAHiL ÜLKELER
+Amerika Virjin Ad aları, Gambiya, Havai, .Bponya, M idvey, Porta Ri ko, Ryu Ky u, S3yşel Adaları, Veyk Adası. 
+[SAYFA 60]
