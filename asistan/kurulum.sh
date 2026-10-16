@@ -8,6 +8,8 @@ mkdir -p /home/claude
 ln -sfn "$REPO/asistan" /home/claude/kira_ai
 mkdir -p /home/claude/rg
 tar xzf "$REPO/asistan/raw/resmi_gazete/rg_ham.tgz" -C /home/claude/rg
+# ek Gazete metinleri (bilgisayardaki oturumdan, rg_ek1_OKU.md); güncel ocr_yapildi.json da içinde
+for e in "$REPO"/asistan/raw/resmi_gazete/rg_ek*.tgz; do [ -f "$e" ] && tar xzf "$e" -C /home/claude/rg; done
 cp -n "$REPO"/asistan/raw/resmi_gazete/*.json /home/claude/rg/ 2>/dev/null || true
 # yayın verisi (app/pub) yayin dalında; derleme betikleri app/pub'ı yeniden üretir
 mkdir -p "$REPO/asistan/app/pub"
