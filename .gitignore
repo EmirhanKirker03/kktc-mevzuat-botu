@@ -1,4 +1,7 @@
-node_modules/
-asistan/test/mock_mod.txt
-asistan/test/*.png
+__pycache__/
+asistan/app/pub/
+asistan/kararlar.json
 asistan/test/*.docx
+asistan/test/*.png
+asistan/test/mock_mod.txt
+node_modules/

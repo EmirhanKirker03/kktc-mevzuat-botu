@@ -313,6 +313,22 @@ for y in yasalar:
         bas = onar.okunamaz_bas(m['metin'])  # okunamayan metinde baştaki okunur satırlar (ör. Resmî Gazete başlığı) korunur
         if bas is not None: m['metin'] = (bas + '\n' if bas else '') + onar.OKUNAMAZ_NOT; m['okunamaz'] = True; ONAR['okunamaz bölüm'] += 1
 
+# ikili okuma (ikili_okuma.py): taranmış tüzüklerde Resmî Gazete'nin ikinci okumasıyla kelime düzeltmeleri.
+# IKILI=0 ile kapatılır (ikili_okuma.py düzeltmesiz metin üzerinde çalışmalıdır).
+import hashlib
+_ik = os.path.join(D, 'ikili_okuma.json')
+IK = json.load(open(_ik, encoding='utf-8')) if os.path.exists(_ik) and os.environ.get('IKILI', '1') != '0' else {}
+for y in yasalar:
+    v = IK.get(str(y['p']))
+    if not v: continue
+    n = 0
+    for m in y['m']:
+        d = v['m'].get(str(m['no']))
+        if d and hashlib.md5(m['metin'].encode()).hexdigest() == d[0]: m['metin'] = d[1]; n += 1
+    if n:
+        istat['ikili okuma: düzeltilen tüzük'] += 1
+        y['nt'] = ((y.get('nt') or '') + ' Taranmış metindeki okuma hataları, aynı tüzüğün Resmî Gazete (A.E. ' + v['rg'] + ') nüshasının ikinci okumasıyla karşılaştırılarak düzeltildi.').strip()
+
 # elle doğrulanmış yasalar da dizine girer (metinleri sayfanın içinde; burada yalnızca arama anahtarları)
 elle = []
 kd_ = json.load(open(os.path.join(D, 'kira_denetim.json'), encoding='utf-8'))
