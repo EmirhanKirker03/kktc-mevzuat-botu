@@ -1,0 +1,889 @@
+{
+ "tur": "tuzuk",
+ "basladi": "2026-10-29T16:36:43.675Z",
+ "denetlenen": 3659,
+ "ayni": 3633,
+ "degisen": [
+  {
+   "pkey": 4251,
+   "numara": "800-2005",
+   "ad": "Tıp Meslek Ahlak Tüzüğü",
+   "durum": "metin-cok-kisa"
+  },
+  {
+   "pkey": 4808,
+   "numara": "540/2009",
+   "ad": "Burs (Değişiklik) Tüzüğü",
+   "durum": "metin-cok-kisa"
+  },
+  {
+   "pkey": 6871,
+   "numara": "434-2023",
+   "ad": "Liman İşçileri Ücret (Değişiklik) Tarifeleri",
+   "durum": "metin-cok-kisa"
+  },
+  {
+   "pkey": 6914,
+   "numara": "794-2023",
+   "ad": "Telekomünikasyon Hizmetleri Ücretleri Uygulanma Tüzüğü",
+   "durum": "tamam"
+  },
+  {
+   "pkey": 7185,
+   "numara": "1110-2024",
+   "ad": "Tarımsal Ürünler (Tağşiş) (Değişiklik) Tüzüğü",
+   "durum": "metin-cok-kisa"
+  },
+  {
+   "pkey": 7448,
+   "numara": "34/2026",
+   "ad": "Motorlu Araçlar ve Yol Trafik (Değişiklik) Tüzüğü",
+   "durum": "tamam"
+  }
+ ],
+ "yeni": [
+  {
+   "pkey": 7524,
+   "numara": "926/2026",
+   "ad": "İthalatı ve İhracatı (Düzenleme ve Denetim) (Değişiklik) Tüzüğü",
+   "durum": "tamam"
+  },
+  {
+   "pkey": 7525,
+   "numara": "928/2026",
+   "ad": "1974 Motorlu Araçlar ve Yol Trafik (Değişiklik) Tüzüğü",
+   "durum": "tamam"
+  },
+  {
+   "pkey": 7526,
+   "numara": "931/2026",
+   "ad": "1974 Motorlu Araçlar ve Yol Trafik (Değişiklik) Tüzüğü",
+   "durum": "tamam"
+  },
+  {
+   "pkey": 7527,
+   "numara": "932/2026",
+   "ad": "İkamet İzinleri ve Vizeler (Değişiklik) Tüzüğü",
+   "durum": "tamam"
+  },
+  {
+   "pkey": 7528,
+   "numara": "933/2026",
+   "ad": "İnşaat Mühendisleri Odası Uygulamacı Üyelik Tüzüğü",
+   "durum": "tamam"
+  },
+  {
+   "pkey": 7529,
+   "numara": "934/2026",
+   "ad": "Ekolojik Etki Değerlendinnesi (Değişiklik) Tüzüğü",
+   "durum": "tamam"
+  },
+  {
+   "pkey": 7530,
+   "numara": "936/2026",
+   "ad": "Laboratuvar Çalıştırma Esasları (Değişiklik) Tüzüğü",
+   "durum": "tamam"
+  },
+  {
+   "pkey": 7531,
+   "numara": "939/2026",
+   "ad": "Yerel İşgücü istihdamının Desteklenmesi (Değişiklik No 13) Tüzüğü",
+   "durum": "tamam"
+  },
+  {
+   "pkey": 7532,
+   "numara": "940/2026",
+   "ad": "2025 Yılı Katma Değer Vergisi Oranları (Değişiklik) Tüzüğü",
+   "durum": "tamam"
+  },
+  {
+   "pkey": 7533,
+   "numara": "941/2026",
+   "ad": "İhracatı Teşvik (Değişiklik) Tüzüğü",
+   "durum": "tamam"
+  },
+  {
+   "pkey": 7534,
+   "numara": "943/2026",
+   "ad": "İkamet İzinleri ve Vizeler (Değişiklik) Tüzüğü",
+   "durum": "tamam"
+  },
+  {
+   "pkey": 7535,
+   "numara": "947/2026",
+   "ad": "Tapu ve Kadastro Dairesi (Harç ve Ücretler) (Değişiklik) Tüzüğü",
+   "durum": "tamam"
+  },
+  {
+   "pkey": 7536,
+   "numara": "948/2026",
+   "ad": "Yabancıların Çalışma İzinleri (Değişiklik) Tüzüğü",
+   "durum": "tamam"
+  },
+  {
+   "pkey": 7537,
+   "numara": "949/2026",
+   "ad": "Engellileri İstihdam, İşyeri Koşulları ve Engellilere Yapılacak Yardımlar (Değişiklik) Tüzüğü",
+   "durum": "tamam"
+  },
+  {
+   "pkey": 7538,
+   "numara": "950/2026",
+   "ad": "1974 Motorlu Araçlar ve Yol Trafik (Değişiklik) Tüzüğü",
+   "durum": "tamam"
+  },
+  {
+   "pkey": 7539,
+   "numara": "951/2026",
+   "ad": "Satranç Federasyonu Çalışma, Usul ve Esasları Tüzüğü",
+   "durum": "tamam"
+  },
+  {
+   "pkey": 7540,
+   "numara": "952/2026",
+   "ad": "2026 Oteller Tüzüğü",
+   "durum": "tamam"
+  },
+  {
+   "pkey": 7541,
+   "numara": "955/2026",
+   "ad": "Tapu ve Kadastro Dairesi (Harçlar ve Ücretler) (Değişiklik) Tüzüğü",
+   "durum": "tamam"
+  },
+  {
+   "pkey": 7542,
+   "numara": "968/2026",
+   "ad": "2025 Yılı Katma Değer Vergisi Oranları (Değişiklik) Tüzüğü",
+   "durum": "tamam"
+  },
+  {
+   "pkey": 7543,
+   "numara": "969/2026",
+   "ad": "Av Günleri, Avlanacak Av Hayvanları ve Av Bölgeleri (Değişiklik) Tüzüğü",
+   "durum": "tamam"
+  }
+ ],
+ "hata": [
+  {
+   "pkey": 3745,
+   "hata": "terminated"
+  },
+  {
+   "pkey": 3792,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 3794,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 3796,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 3800,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 3802,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 3804,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 3806,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 3808,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 3810,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 3812,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 3814,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 3816,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 3818,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 3825,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 3827,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 3829,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 3831,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 3833,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 3835,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 3837,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 3839,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 3841,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 3843,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 3845,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 3847,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 3849,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 3851,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 3853,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 3855,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 3874,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 3876,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 3878,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 3883,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 3988,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 4030,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 4219,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 4391,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 4570,
+   "hata": "terminated"
+  },
+  {
+   "pkey": 4726,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 5024,
+   "hata": "terminated"
+  },
+  {
+   "pkey": 5055,
+   "hata": "terminated"
+  },
+  {
+   "pkey": 5057,
+   "hata": "terminated"
+  },
+  {
+   "pkey": 5227,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 5234,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 5253,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 5632,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 5633,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 5634,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 5635,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 5636,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 5637,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 5638,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 5639,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 5640,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 5641,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 5642,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 5643,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 5644,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 5645,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 5646,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 5647,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 5648,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 5649,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 5650,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 5651,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 5652,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 5653,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 5654,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 5655,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 5656,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 5657,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 5658,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 5659,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 5660,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 5666,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 5667,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 5668,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 5669,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 5670,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 5671,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 5672,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 5673,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 5674,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 5675,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 5676,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 5677,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 5678,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 5679,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 5680,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 5681,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 5682,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 5683,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 5684,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 5685,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 5686,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 5687,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 5688,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 5689,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 5690,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 5691,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 5692,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 5693,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 5700,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 5702,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 5703,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 5704,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 5705,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 5706,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 5707,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 5708,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 5709,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 5710,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 5711,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 5712,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 5713,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 5714,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 5715,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 5716,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 5717,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 5718,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 5719,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 5720,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 5721,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 5722,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 5723,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 5724,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 5725,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 5727,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 5743,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 5745,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 5782,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 5791,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 5818,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 5819,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 5820,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 5830,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 5870,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 5921,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 6015,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 6058,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 6075,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 6112,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 6151,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 6152,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 6197,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 6277,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 6278,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 6280,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 6281,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 6296,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 6297,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 6327,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 6370,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 6400,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 6441,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 6450,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 6456,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 6505,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 6530,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 6536,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 6651,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 6662,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 6664,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 6670,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 6703,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 6742,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 6858,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 6893,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 6924,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 6925,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 6948,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 6971,
+   "hata": "terminated"
+  },
+  {
+   "pkey": 6972,
+   "hata": "terminated"
+  },
+  {
+   "pkey": 7086,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 7090,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 7091,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 7211,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 7225,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 7374,
+   "hata": "HTTP 404"
+  }
+ ],
+ "bitti": "2026-10-29T20:38:37.439Z"
+}
