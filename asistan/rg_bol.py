@@ -46,16 +46,37 @@ def bolumler(t):
     starts = sorted(set(starts))
     return t, [(a, starts[k + 1] if k + 1 < len(starts) else len(t)) for k, a in enumerate(starts)]
 def kirp(seg):
-    m = re.search(r'\n\s*EK\s*IV\b|\n\s*EK\s*VI?\b\s*\n', seg[200:])
-    return seg[:200 + m.start()] if m else seg
+    m = re.search(r'\n\s*EK\s*IV\b|\n\s*Say[ıi]\s*:?\s*\S{1,4}\s*(?:EK)?\s*-?\s*IV\b|\n\s*EK\s*VI?\b\s*\n', seg[200:])
+    c = 200 + m.start() if m else len(seg)
+    # Ek IV (Bakanlar Kurulu kararları) başlığı OCR'da bozulmuş olabilir: "BAKANLAR KURULU KARARLARI" bölüm başlığından önceki Sayı satırında kes
+    b = re.search(r'BAKANLAR\s+KURULU\s+KARARLAR|Bakanlar\s+Kurulu\s+Kararlar[ıi]\s*\)', seg[200:c])
+    if b:
+        p = 200 + b.start(); onc = [x for x in re.finditer(r'(?m)^[ \t]*Say[ıi]', seg[max(200, p - 300):p])]
+        c = max(200, p - 300) + onc[0].start() if onc else seg.rfind('\n', 0, p) + 1
+    return seg[:c]
 
 # Bir metnin sonuna aynı sayıdaki sonraki ilanlar (Merkez Bankası duyurusu, vaziyet, çek yasağı listeleri vb.) taşmasın:
 # kendi A.E. numarasından sonra gelen ilk "Sayı : N" satırında (0 < N-kendi <= 20) kesilir. Kesilecek kısımda, bir sonraki
 # isim/yapar cümlesine kadar yürürlük cümlesi varsa (sayfa sırası karışmış, metin devam ediyor) o satırda kesilmez.
-SAYI_SATIR = re.compile(r'(?m)^[ \t]*Say[ıi]\s*:\s*0*(\d+)\b(?![.,/]\d)(?![ \t]+\d{1,2}[ \t]+[A-ZÇĞİÖŞÜ][a-zçğıöşü]+[ \t,]+\d{4})')
+SAYI_SATIR = re.compile(r'(?m)^[ \t]*Say[ıi]\s*:?\s*0*(\d+)\b(?![.,/]\d)(?![ \t]+\d{1,2}[ \t]+[A-ZÇĞİÖŞÜ][a-zçğıöşü]+[ \t,]+\d{4})')
 YURURLUK = re.compile(r"y[üu]\s?r[üu]\s?rl[üu]\s?[ğg]e|yürürlüğe|y[üu]r[üu]rl[üu]kten\s+kalk|Gazete.{0,3}de\s+yay|yay[ıi]m?[lJ]and[ıi]?[ğg][ıi]\s+tarihten", re.I)
 ISIM_CUMLE = re.compile(r'isimlendiril|olarak\s+an[ıi]l|a[şs]a[ğg][ıi]daki\s+\S+\s+yapar', re.I)
+# Kişi adları içeren listeler (çek yasağı listesi) hiçbir düzenleyici metnin parçası değildir: başladığı yerden kesilir.
+KISI_LISTE = re.compile(r'(?:Say[ıi]\s*:?\s*\d+\s*)?Poli[çc]eler\s*\(\s*De[ğg]i[şs]iklik\s*\)\s*Y\s?a\s?s\S*\s+74\s*/\s*C', re.I)
+KISI_BASLIK = re.compile(r'(?m)^.{0,80}?\b\S{0,3}Poli\S{0,6}\s*\(?\s*\S{0,14}\s*\)?\s*\S*\s*74\s*/\s*C\b|Men\s+Edilenler\W{0,3}\S{0,4}\s*(?:Hakk|Ha\S{0,4}da|L[il]s)', re.I)
 def sonraki_kes(m, own, sayi):
+    x = KISI_LISTE.search(m, 150) or KISI_BASLIK.search(m, 150)
+    if x:
+        h = x.start(); onc = [y for y in re.finditer(r'(?m)^[ \t]*Say[ıi]\S{0,2}\s*:?\s*\d+', m[max(150, h - 300):h])]
+        c = h
+        if re.match(r'Say', m[h:h + 3]): pass
+        elif onc: c = max(150, h - 300) + onc[-1].start()
+        else:  # liste satırları (ad-soyad) başlıktan önce basılmışsa: kendi metninin son yürürlük cümlesinden sonra kes
+            yy = [y for y in YURURLUK.finditer(m, max(150, h - 2500), h)]
+            if yy:
+                n = m.find('.', yy[-1].end(), h); n = n + 1 if n > 0 else h
+                if re.search(r'(?m)AD[Iİ]\s*-?\s*SOYAD|^\s*\d+\s*-\s*[A-ZÇĞİÖŞÜ][a-zçğıöşü]+\s+[A-ZÇĞİÖŞÜ][a-zçğıöşü]+', m[n:h]): c = n
+        m = m[:c].rstrip()
     for x in SAYI_SATIR.finditer(m):
         k, p = int(x.group(1)), x.start()
         if p < 150 or str(k) == str(sayi) or not (0 < k - own <= 20): continue
@@ -105,7 +126,12 @@ for u, its in sayilar.items():
     # üçüncü tur: eşleşmeyen hedefler için A.E. numarası çapası (Ek III'te her metin "Sayı : <A.E. no>" satırıyla başlar).
     # Yalnızca hiçbir hedefe verilmemiş bölgelerde (ilk çapadan önceki kısım ve kullanılmamış bölümler) aranır:
     # önceki eşleşmeler ve metinleri değişmez.
-    dolu = [segs[k] for k, _ in atandi.values()]
+    # dolu bölgeler: atanan bölümlerin taşma kesildikten sonraki gerçek uzunluğu (kesilen kuyruk başka bir metnindir)
+    dolu = []
+    for zi_, (k, _) in atandi.items():
+        a_, b_ = segs[k]
+        ham = t[a_:b_]; kesik = sonraki_kes(ham, int(its[zi_]['ae'].split('/')[0]), its[zi_].get('sayi'))
+        dolu.append((a_, a_ + len(kesik) if len(kesik) < len(ham.rstrip()) else b_))
     sinir = sorted({a for a, _ in segs} | {len(t)})
     ek_parca, alinan = {}, set()
     for zi, z in enumerate(its):
@@ -130,7 +156,7 @@ for u, its in sayilar.items():
         if zi in ek_parca:
             a, b, p = ek_parca[zi]
             ist['eşleşti'] += 1; ist[z['tur']] += 1; ist['eşleşti (A.E. çapası)'] += 1
-            out.append(dict(z, metin=kirp(t[a:b]).strip(), puan=round(p, 2)))
+            out.append(dict(z, metin=sonraki_kes(kirp(t[a:b]).strip(), int(z['ae'].split('/')[0]), z.get('sayi')), puan=round(p, 2)))
         elif zi in atandi:
             k, p = atandi[zi]; a, b = segs[k]
             own = int(z['ae'].split('/')[0])

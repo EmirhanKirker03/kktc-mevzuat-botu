@@ -10,7 +10,7 @@ Metin sirali_ayir ile maddelere ayrılır; ayırma güvenilir değilse metin sı
 import json, os, re, sys, math, collections
 D = os.path.dirname(os.path.abspath(__file__)); sys.path.insert(0, D)
 from sirali_ayir import ayir, ayir_lis, govde_bas, NUM_RE
-import onar
+import onar, kisisel
 ONAR = collections.Counter()  # kodlama onarımı istatistiği (onar.py)
 REPO = '/home/claude/kktc-mevzuat-botu'
 M = os.path.join(REPO, 'veri/mahkemeler')
@@ -73,6 +73,8 @@ for tur in ('yasa', 'tuzuk'):
     elif str(pk) in ocr and ocr[str(pk)].get('durum') == 'tamam':
         o = ocr[str(pk)]; kaynak = o.get('yontem', 'ocr'); ocrmu = kaynak.startswith('ocr')
         metin = open(os.path.join(REPO, o['metin_dosyasi']), encoding='utf-8').read()
+    if metin and tur == 'tuzuk':  # aynı Gazete sayfasından yapışık gelen Ek IV kararları ve kişi listeleri (kisisel.py)
+        metin, _d = kisisel.ayikla(metin, istat)
     meclis = None
     if not metin and tur == 'yasa' and str(pk) in MEK:
         meclis = MEK[str(pk)]; kaynak = 'meclis'
