@@ -43,4 +43,3 @@ girer.
 
 [SAYFA 3]
 761
-Sayı : 324

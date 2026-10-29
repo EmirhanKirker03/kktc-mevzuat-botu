@@ -13,6 +13,7 @@ for e in "$REPO"/asistan/raw/resmi_gazete/rg_ek*.tgz; do [ -f "$e" ] && tar xzf 
 cp -n "$REPO"/asistan/raw/resmi_gazete/*.json /home/claude/rg/ 2>/dev/null || true
 # yayın verisi (app/pub) yayin dalında; derleme betikleri app/pub'ı yeniden üretir
 mkdir -p "$REPO/asistan/app/pub"
+git -C "$REPO" fetch -q origin yayin:refs/remotes/origin/yayin 2>/dev/null || true
 if git -C "$REPO" rev-parse --verify origin/yayin >/dev/null 2>&1; then
   git -C "$REPO" show origin/yayin:veri/kira_asistani.html > /dev/null 2>&1 && \
   for f in $(git -C "$REPO" ls-tree --name-only origin/yayin veri/); do git -C "$REPO" show "origin/yayin:$f" > "$REPO/asistan/app/pub/$(basename $f)"; done

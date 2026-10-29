@@ -364,5 +364,4 @@ prorata uygulanırken GSB2 uygulanmayacaktır.
 ......:ı 
 Vl 
 [SAYFA 14]
-76 
-Sayı:30
+76

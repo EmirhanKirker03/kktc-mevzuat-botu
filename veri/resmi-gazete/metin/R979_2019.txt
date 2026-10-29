@@ -713,5 +713,4 @@ Sol direksiyonlu araç amblem ücreti (çifti)
 Muaf
 64.- 
 [SAYFA 70]
-3058 
-Sayı: 980
+3058

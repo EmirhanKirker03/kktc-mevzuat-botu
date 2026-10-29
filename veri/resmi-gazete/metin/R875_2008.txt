@@ -153,5 +153,4 @@ tahsil edilmez.
 + +
 8 8 
 [SAYFA 13]
-2153 
-Sayı: 876
+2153

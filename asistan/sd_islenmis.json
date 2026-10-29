@@ -1,0 +1,20 @@
+{
+ "aciklama": "Meclis kataloğuna göre eksik sanılan ama metne işlendiği elle doğrulanan değişiklikler (29.10.2026)",
+ "liste": [
+  {
+   "pkey": 949,
+   "degisiklik": "3/2022",
+   "neden": "5'inci maddenin yeni metni Yüksek Mahkeme metninde birebir var"
+  },
+  {
+   "pkey": 609,
+   "degisiklik": "33/2007",
+   "neden": "10A(1)(F) bendi Yüksek Mahkeme metninde birebir var"
+  },
+  {
+   "pkey": 242,
+   "degisiklik": "76/2009",
+   "neden": "28'inci maddenin yeni metni ve kenar notu (76/2009) Yüksek Mahkeme metninde var"
+  }
+ ]
+}

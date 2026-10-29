@@ -9141,5 +9141,3 @@ NOT: 1. Ağırlık alt ve üst sınırlarının hesaplanmasında vücut kitle in
 (kg/m 2 ) esas alınmıştır. · 
 2. Vücut Kitle İndeksi= Ağırlık/Boy (Kg/m 2 ) formülü üzerinden hesaplanmıştır . 
 [SAYFA 174]
-Sayı : 102 
-376

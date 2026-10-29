@@ -1,3 +1,4 @@
+Sayı: 443
 KUZEY KIBRIS TÜRK CUMHURİYETİ . 
 RES.Mİ GAZETE
 EKIII 
@@ -136,5 +137,4 @@ girer.
 1 
 [SAYFA 4]
 1 .
-' 1286 
-Sayı: 444
+' 1286

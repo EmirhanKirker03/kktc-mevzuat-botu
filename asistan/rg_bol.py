@@ -48,6 +48,31 @@ def bolumler(t):
 def kirp(seg):
     m = re.search(r'\n\s*EK\s*IV\b|\n\s*EK\s*VI?\b\s*\n', seg[200:])
     return seg[:200 + m.start()] if m else seg
+
+# Bir metnin sonuna aynı sayıdaki sonraki ilanlar (Merkez Bankası duyurusu, vaziyet, çek yasağı listeleri vb.) taşmasın:
+# kendi A.E. numarasından sonra gelen ilk "Sayı : N" satırında (0 < N-kendi <= 20) kesilir. Kesilecek kısımda, bir sonraki
+# isim/yapar cümlesine kadar yürürlük cümlesi varsa (sayfa sırası karışmış, metin devam ediyor) o satırda kesilmez.
+SAYI_SATIR = re.compile(r'(?m)^[ \t]*Say[ıi]\s*:\s*0*(\d+)\b(?![.,/]\d)(?![ \t]+\d{1,2}[ \t]+[A-ZÇĞİÖŞÜ][a-zçğıöşü]+[ \t,]+\d{4})')
+YURURLUK = re.compile(r"y[üu]\s?r[üu]\s?rl[üu]\s?[ğg]e|yürürlüğe|y[üu]r[üu]rl[üu]kten\s+kalk|Gazete.{0,3}de\s+yay|yay[ıi]m?[lJ]and[ıi]?[ğg][ıi]\s+tarihten", re.I)
+ISIM_CUMLE = re.compile(r'isimlendiril|olarak\s+an[ıi]l|a[şs]a[ğg][ıi]daki\s+\S+\s+yapar', re.I)
+def sonraki_kes(m, own, sayi):
+    for x in SAYI_SATIR.finditer(m):
+        k, p = int(x.group(1)), x.start()
+        if p < 150 or str(k) == str(sayi) or not (0 < k - own <= 20): continue
+        n = ISIM_CUMLE.search(m, p)
+        if YURURLUK.search(m[p:n.start() if n else len(m)]): continue
+        return m[:p].rstrip()
+    return m
+def kendi_basi(t, a, own, onceki):
+    """Bölüm 'yapar'/'1. Bu ...' cümlesinden başlıyorsa, hemen öncesindeki kendi "Sayı : <A.E.>" satırından itibaren al
+    (fiyat tablosu, dayanak yasa başlığı gibi önce basılmış kısımlar kaybolmasın). Aradaki kısımda başka bir metnin
+    sonu (yürürlük cümlesi) ya da başka bir Sayı satırı varsa genişletilmez."""
+    lo = max(onceki, a - 3000)
+    ms = [x for x in SAYI_SATIR.finditer(t, lo, a)]
+    if not ms or int(ms[-1].group(1)) != own: return a
+    s = ms[-1].start()
+    if YURURLUK.search(t[s:a]) or ISIM_CUMLE.search(t[s:a]): return a
+    return s
 hedef = json.load(open(os.path.join(K, 'rg_hedef_ham.json'), encoding='utf-8'))
 sayilar = collections.defaultdict(list)
 for tur, l in hedef.items():
@@ -107,7 +132,10 @@ for u, its in sayilar.items():
             ist['eşleşti'] += 1; ist[z['tur']] += 1; ist['eşleşti (A.E. çapası)'] += 1
             out.append(dict(z, metin=kirp(t[a:b]).strip(), puan=round(p, 2)))
         elif zi in atandi:
-            k, p = atandi[zi]; a, b = segs[k]; mt = kirp(t[a:b]).strip()
+            k, p = atandi[zi]; a, b = segs[k]
+            own = int(z['ae'].split('/')[0])
+            a2 = kendi_basi(t, a, own, max([y for _, y in segs if y <= a] + [x for x, _ in segs if x < a] + [0]))
+            mt = sonraki_kes(kirp(t[a2:b]).strip(), own, z.get('sayi'))
             bt = toks(re.sub(r'^.*?YASASI\s*[-–]\s*', '', z['baslik'])) or toks(z['baslik'])
             if (a in BASLIK_CAPA or b in BASLIK_CAPA) and len(bt & toks(mt[:3000])) < 0.3 * len(bt):  # yeni başlık çapası, kırpılmış metinde hedefin adı yok: yanlış parça verilmesin
                 ist['eşleşmedi'] += 1; out.append(dict(z, metin='', puan=round(p, 2))); continue

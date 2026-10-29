@@ -66,4 +66,3 @@ Giriş girer.
 
 [SAYFA 7]
 2500
-Sayı : 795

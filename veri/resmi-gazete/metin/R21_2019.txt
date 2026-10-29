@@ -1,3 +1,4 @@
+Sayı: 21 
 KUZEY KIBRIS TÜRK CUMHURİYETİ
 RESMİ GAZETE 
 EKill 
@@ -67,13 +68,4 @@ yatlara verilecek akaryakıttan f on
 tahsil edilmez. 
 (F) Euro Diesel 0,952466 TULt 0,952466 TULt 
 [SAYFA 3]
-55 
-Sayı: 22 
-1977 MAL VE HiZMETLER (Düzenleme ve Denetim) YASASI 
-(21/1977, 5/1986 Ve 41/1987 Sayılı Yasalar)
-Madde 4(1) (B) Gereğince Emirname
-Ekonomi ve Enerji Bakanı, 1977 Mal ve Hizmet ler (Düzenleme ve
-Denetim) Yasası'nın 4(1) (B) maddesi'nin kendisine ve r miş olduğu yetkiyi 
-kullanarak bu Emirname ile aşağıdaki hususları saptar. 
-Kısa Isim 
-Tefsir
+55

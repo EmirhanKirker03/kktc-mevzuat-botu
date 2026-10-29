@@ -61,5 +61,4 @@ yer alan "3,000,000.-1L" ibaresi kaldırılmak ve onun yerine
 satırında yer alan "1 O. 00 YTL" ibaresi kaldırılmak ve onun 
 yerine "50.00 YTL" ibaresi korunak sureti ile değiştirilir. 
 5. Bu Tüzük, Resmi Gazete' de yayımlandığı tarihten başlayarak
-yürürlüğe girer. 
-Sayı: 39
+yürürlüğe girer.

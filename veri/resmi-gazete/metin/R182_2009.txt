@@ -73,5 +73,3 @@ tahsil edilmez.
 + + 
 8 8 
 [SAYFA 16]
-Sayı: 183
-425

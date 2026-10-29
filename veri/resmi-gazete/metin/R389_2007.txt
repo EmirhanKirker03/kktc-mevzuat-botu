@@ -1,3 +1,5 @@
+Sayı: 389 
+,I'\ 
 RESMi AZE E 
 TEBLİĞ VE İLANLAR
 FİYAT İSTİKRAR FONU YASASI 
@@ -100,4 +102,3 @@ tahsil edilmez.
 + +
 8 8 
 [SAYFA 4]
-Sayı: 390 784
