@@ -11934,7 +11934,7 @@
 "url": "https://basimevi.gov.ct.tr/Portals/6/2026/193.pdf",
 "metin_dosyasi": "veri/resmi-gazete/metin/R926_2026.txt",
 "eslesme_puani": 1.0,
-"ocr": false,
+"ocr": true,
 "bozukluk": 0.0
 },
 {
@@ -11947,7 +11947,7 @@
 "url": "https://basimevi.gov.ct.tr/Portals/6/2026/193.pdf",
 "metin_dosyasi": "veri/resmi-gazete/metin/R928_2026.txt",
 "eslesme_puani": 1.0,
-"ocr": false,
+"ocr": true,
 "bozukluk": 0.0181
 },
 {
@@ -11960,7 +11960,7 @@
 "url": "https://basimevi.gov.ct.tr/Portals/6/2026/193.pdf",
 "metin_dosyasi": "veri/resmi-gazete/metin/R931_2026.txt",
 "eslesme_puani": 1.0,
-"ocr": false,
+"ocr": true,
 "bozukluk": 0.0048
 },
 {
@@ -11974,7 +11974,20 @@
 "metin_dosyasi": "veri/resmi-gazete/metin/R932_2026.txt",
 "eslesme_puani": 1.0,
 "ocr": true,
-"bozukluk": 0.1002
+"bozukluk": 0.0
+},
+{
+"ae": "933/2026",
+"tur": "tuzuk",
+"baslik": "KIBRIS TÜRK MÜHENDİS VE MİMAR ODALARI BİRLİĞİ YASASI-İNŞAAT MÜHENDİSLERİ ODASI UYGULAMACI ÜYELİK TÜZÜĞÜ",
+"yil": "2026",
+"sayi": "193",
+"tarih": "02.10.2026",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2026/193.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R933_2026.txt",
+"eslesme_puani": 1.0,
+"ocr": true,
+"bozukluk": 0.0017
 },
 {
 "ae": "934/2026",
@@ -11986,7 +11999,7 @@
 "url": "https://basimevi.gov.ct.tr/Portals/6/2026/193.pdf",
 "metin_dosyasi": "veri/resmi-gazete/metin/R934_2026.txt",
 "eslesme_puani": 1.0,
-"ocr": false,
+"ocr": true,
 "bozukluk": 0.0
 },
 {
@@ -12012,8 +12025,21 @@
 "url": "https://basimevi.gov.ct.tr/Portals/6/2026/193.pdf",
 "metin_dosyasi": "veri/resmi-gazete/metin/R939_2026.txt",
 "eslesme_puani": 0.67,
-"ocr": false,
+"ocr": true,
 "bozukluk": 0.0018
+},
+{
+"ae": "940/2026",
+"tur": "tuzuk",
+"baslik": "KATMA DEĞER VERGİSİ YASASI-2025 YILI KATMA DEĞER VERGİSİ ORANLAR(DEĞİŞİKLİK)TÜZÜĞÜ",
+"yil": "2026",
+"sayi": "193",
+"tarih": "02.10.2026",
+"url": "https://basimevi.gov.ct.tr/Portals/6/2026/193.pdf",
+"metin_dosyasi": "veri/resmi-gazete/metin/R940_2026.txt",
+"eslesme_puani": 1.0,
+"ocr": true,
+"bozukluk": 0.0049
 },
 {
 "ae": "941/2026",
@@ -12025,7 +12051,7 @@
 "url": "https://basimevi.gov.ct.tr/Portals/6/2026/193.pdf",
 "metin_dosyasi": "veri/resmi-gazete/metin/R941_2026.txt",
 "eslesme_puani": 1.0,
-"ocr": false,
+"ocr": true,
 "bozukluk": 0.0
 },
 {
@@ -12051,7 +12077,7 @@
 "url": "https://basimevi.gov.ct.tr/Portals/6/2026/193.pdf",
 "metin_dosyasi": "veri/resmi-gazete/metin/R938_2026.txt",
 "eslesme_puani": 1.0,
-"ocr": false,
+"ocr": true,
 "bozukluk": 0.0166
 },
 {
