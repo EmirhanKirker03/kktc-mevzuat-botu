@@ -541,9 +541,9 @@ bilgisini gerektiren, kalkınma planı, yıllık program ve iş programlarında 
 
 
 
-
-
 2.66/2026
+
+
 
 
 
@@ -589,8 +589,7 @@ bilgisini gerektiren, kalkınma planı, yıllık program ve iş programlarında 
 26/2013
 
 Bunların hizmete alınmaları ve sözleşmelerinin yenilenmesi ilgili kurumun önerisi üzerine Bakanlar Kurulunca, sözleşme koşullarına bağlı olarak yapılır.
-Ancak, Kuzey Kıbrıs Türk Cumhuriyetinde veya başka bir
-ülkede emekliye ayrılan hiç kimse sözleşmeli personel olarak istihdam edilemez. Sözleşmeli personel ile imzalanacak sözleşmelerin süreleri, 5 (beş) yılda 1 (bir) olacak şekilde düzenlenir ve herhangi bir zamanda iptal şartını içerir.
+Ancak Kuzey Kıbrıs Türk Cumhuriyetinde veya başka bir ülkede emekliye ayrılan hiç kimse sözleşmeli personel olarak istihdam edilemez.   Sözleşmeli personel ile imzalanacak sözleşmelerin süreleri 5 (beş) yılda 1 (bir) olacak şekilde düzenlenir ve herhangi bir zamanda iptal şartını içerir.
 Sözleşmeli personelin sınıf cetvelleri ile karşılığı olan maaşları, Maliye İşleriyle Görevli Bakanlığın önerisi ile Bakanlar Kurulunca belirlenir.
 “İşçiler”, bu Yasada belirtilen hizmet sınıfları dışında kalan görevleri yerine getiren ve Emeklilik Yasası, Sosyal Güvenlik Yasası ve Kıbrıs Türk Sosyal Sigortalar Yasasının ilgili maddelerinde aksine kural bulunup bulunmadığına bakılmaksızın herhangi bir sosyal güvenlik kurumundan emeklilik maaşı/yaşlılık aylığı çekmeyen kişilerdir.   Devlet işçileri  ile  ilgili  diğer  konular  hakkında  kendi  özel  Yasa kuralları uygulanır.
 16/1976
@@ -1971,20 +1970,20 @@ Kamu görevine alınma koşulları
 İKİNCİ BÖLÜM Koşullar
 62. Kamu görevine alınacaklarda aşağıdaki genel ve özel koşullar aranır:
 (1)	Genel Koşullar
-(a)	Kuzey Kıbrıs Türk Cumhuriyeti yurttaşı olmak;
-2.18/1995	(b)	18 (on sekiz) yaşını bitirmiş olmak ve 46 (kırk altı)                                                                                       yaşından gün almamış olmak;
+(A)	Kuzey Kıbrıs Türk Cumhuriyeti yurttaşı olmak;
+2.18/1995	(B)	18 (on sekiz) yaşını bitirmiş olmak ve 46 (kırk altı)                                                                                       yaşından gün almamış olmak;
       Ancak Tabiplik Hizmetleri için 46 (kırk altı) yaş sınırı kuralı uygulanmaz.
-(c)     Bu Yasada öngörülen hizmet sınıflarına girebilmek için aranan öğrenim koşullarını taşımak;
-(ç)      Kuzey Kıbrıs Türk Cumhuriyeti yurttaşı iken Daimi İkametgâhının kesintili olup olmamasına bakılmaksızın en az 5 (beş) yıl süre ile Kuzey Kıbrıs Türk Cumhuriyetinde olması; bu bent amaçları bakımından Daimi İkametgâh 1 (bir) yıl içerisinde toplam 3(üç) aydan fazla Kuzey Kıbrıs Türk Cumhuriyeti sınırları dışında bulunmamayı anlatır.
+(C)     Bu Yasada öngörülen hizmet sınıflarına girebilmek için aranan öğrenim koşullarını taşımak;
+(Ç)      Kuzey Kıbrıs Türk Cumhuriyeti yurttaşı iken Daimi İkametgâhının kesintili olup olmamasına bakılmaksızın en az 5 (beş) yıl süre ile Kuzey Kıbrıs Türk Cumhuriyetinde olması; bu bent amaçları bakımından Daimi İkametgâh 1 (bir) yıl içerisinde toplam 3(üç) aydan fazla Kuzey Kıbrıs Türk Cumhuriyeti sınırları dışında bulunmamayı anlatır.
 2.32/1996
-12.65/2026	(d)	Erkekler için yurt dışı ödevini yerine getirmiş olmak veya ilgili yasa uyarınca yurt ödevini yerine getirmiş sayılmak;
-(e)      Kamu haklarından yasaklı bulunmamak;
-(f)      Herhangi bir yasa kuralına aykırılıktan 1 (bir) yıldan fazla hapis cezasına çarptırılmamış olmak veya Ceza Yasası veya diğer mevzuat uyarınca taammüden katillik, taammüden katilliğe teşebbüs, adam öldürmeye teşebbüs, cinsel saldırı, cinsel taciz, cinsel tecavüz ve bu suçlara teşebbüs etme, zimmet, ihtilas, irtikâp, rüşvet, hırsızlık, dolandırıcılık, sahtekârlık, görevi kötüye kullanma, hileli iflas, kaçakçılık, resmi ihale ve alım satımlara fesat karıştırma ve bu suçlara iştirakten yargılanıp mahkum edilmemiş olmak; Uyuşturucu Maddeler Yasası, Suç Gelirlerinin Aklanmasının, Terörizmin Finansmanının ve Kitle İmha Silahlarının Yaygınlaşmasının Finansmanının Önlenmesi Yasası veya bu Yasalar altında çıkarılan mevzuat kurallarına aykırılıktan 6 (altı) aydan fazla hapis cezasına mahkum edilmemiş olmak.
+12.65/2026	(D)	Erkekler için yurt ödevini yerine getirmiş olmak veya ilgili yasa uyarınca yurt ödevini yerine getirmiş sayılmak;
+(E)      Kamu haklarından yasaklı bulunmamak;
+(F)      Herhangi bir yasa kuralına aykırılıktan 1 (bir) yıldan fazla hapis cezasına çarptırılmamış olmak veya Ceza Yasası veya diğer mevzuat uyarınca taammüden katillik, taammüden katilliğe teşebbüs, adam öldürmeye teşebbüs, cinsel saldırı, cinsel taciz, cinsel tecavüz ve bu suçlara teşebbüs etme, zimmet, ihtilas, irtikâp, rüşvet, hırsızlık, dolandırıcılık, sahtekârlık, görevi kötüye kullanma, hileli iflas, kaçakçılık, resmi ihale ve alım satımlara fesat karıştırma ve bu suçlara iştirakten yargılanıp mahkum edilmemiş olmak; Uyuşturucu Maddeler Yasası, Suç Gelirlerinin Aklanmasının, Terörizmin Finansmanının ve Kitle İmha Silahlarının Yaygınlaşmasının Finansmanının Önlenmesi Yasası veya bu Yasalar altında çıkarılan mevzuat kurallarına aykırılıktan 6 (altı) aydan fazla hapis cezasına mahkum edilmemiş olmak.
                        Ancak 18 (on sekiz) yaşından küçükken yukarıda belirtilen suçları işleyenlere, bu bent kuralları uygulanmaz ve kamu görevine girme hakları saklıdır.
 
-(g)    Atanacağı kadro görevini sürekli olarak yapmasına engel bir sağlık sorununun bulunmadığı Sağlık Kurulu Raporuyla onaylanmış olmak;
-(ğ)      Disiplin suçundan ötürü daha önce kamu görevinden çıkarılmamış olmak veya hakkında görevden çıkarma cezası gerektiren bir suç isnat edilip disiplin soruşturması tamamlanmadan istifa etmemiş olmak; ve
-4.35/2004	(h)	Genel Devlet Yönetimi Bütçesinden veya herhangi bir   sosyal güvenlik kurumundan veya herhangi bir Fondan emeklilik maaşı/aylığı çekmemiş olmak.
+(G)    Atanacağı kadro görevini sürekli olarak yapmasına engel bir sağlık sorununun bulunmadığı Sağlık Kurulu Raporuyla onaylanmış olmak;
+(Ğ)      Disiplin suçundan ötürü daha önce kamu görevinden çıkarılmamış olmak veya hakkında görevden çıkarma cezası gerektiren bir suç isnat edilip disiplin soruşturması tamamlanmadan istifa etmemiş olmak; ve
+4.35/2004	(H)	Genel Devlet Yönetimi Bütçesinden veya herhangi bir   sosyal güvenlik kurumundan veya herhangi bir Fondan emeklilik maaşı/aylığı çekmemiş olmak.
 
 
 
@@ -4074,30 +4073,30 @@ Geçici Madde
 Geçici Madde
 Sınıflara İlişkin Ortak Kurallar
 65/2026
-23. Bu (Değişiklik) Yasasının 9’uncu maddesi ile değiştirilen Esas Yasanın, Sınıflara İlişkin Ortak Kuralları düzenleyen 54’üncü maddesi 31 Aralık 2026 tarihine kadar mezun olacak kamu görevlilerine uygulanmaz. Bu Yasa ile yürürlükten kaldırılan 54’üncü madde kuralları uygulanır.
+1. Bu (Değişiklik) Yasasının 9’uncu maddesi ile değiştirilen Esas Yasanın, Sınıflara İlişkin Ortak Kuralları düzenleyen 54’üncü maddesi 31 Aralık 2026 tarihine kadar mezun olacak kamu görevlilerine uygulanmaz. Bu Yasa ile yürürlükten kaldırılan 54’üncü madde kuralları uygulanır.
 Geçici Madde
 Kamu Görevine Alınma Koşulları ile İlgili Kurallar
 65/2026
-24. (A) Bu (Değişiklik) Yasasının 12’nci maddesi ile değiştirilen Esas Yasanın, Kamu Görevine Alınma koşulunu düzenleyen 62’nci maddesinin (1)’inci fıkrasının (B) bendinde yer alan 46 (kırk altı) yaşından gün almamış olmak kuralı 31 Aralık 2027 tarihine kadar münhal ilan edilen ve edilecek olan kadrolara başvuran adaylara uygulanmaz.
+2. (A) Bu (Değişiklik) Yasasının 12’nci maddesi ile değiştirilen Esas Yasanın, Kamu Görevine Alınma koşulunu düzenleyen 62’nci maddesinin (1)’inci fıkrasının (B) bendinde yer alan 46 (kırk altı) yaşından gün almamış olmak kuralı 31 Aralık 2027 tarihine kadar münhal ilan edilen ve edilecek olan kadrolara başvuran adaylara uygulanmaz.
 (B) Bu (Değişiklik) Yasasının 12’nci maddesi ile değiştirilen Esas Yasanın, Kamu Görevine Alınma koşulunu düzenleyen 62’nci maddesinin (1)’inci fıkrasının (Ç) bendi kuralları, 31 Aralık 2026 tarihine kadar münhal ilan edilen ve edilecek olan kadrolara başvuran adaylara uygulanmaz.
 Geçici Madde
 Uyarma ve Kınama Cezası Gerektiren Disiplin İşlemleri ile İlgili Kurallar
 65/2026
-25. Bu (Değişiklik) Yasasının 26’ncı ve 27’nci maddesi ile değiştirilen Esas Yasanın 98A ve 98B Madde kuralları bu Yasanın yürürlüğe girdiği tarihten önce başlatılan disiplin işlemleri için uygulanmaz.
+3. Bu (Değişiklik) Yasasının 26’ncı ve 27’nci maddesi ile değiştirilen Esas Yasanın 98A ve 98B Madde kuralları bu Yasanın yürürlüğe girdiği tarihten önce başlatılan disiplin işlemleri için uygulanmaz.
 Geçici Madde
 Baremlere İlişkin İntibak Kuralları
 65/2026
-26. Bu (Değişiklik) Yasasının 37’nci maddesi ile değiştirilen Esas Yasanın 114’üncü maddesi altında yer alan II. Cetvel, Yöneticilik Hizmetleri Sınıfı altında Üst Kademe Yöneticisi Sayılmayan Diğer Yöneticiler Sınıfının II’nci ve III’üncü Dereceleri ve, “Mesleki ve Teknik Hizmetler Sınıfları” altında yer alan Ortaokul Öğrenimli Hizmet Sınıfları ile “Genel Hizmet Sınıfları” altında yer alan Ortaokul Öğrenimli Hizmet Sınıflarındaki derecelerin baremlerinin kademelerinde yapılan düzenleme neticesinde bu sınıflarda çalışan kamu görevlilerinden 31 Aralık 2026 tarihi itibariyle Yöneticilik Hizmetleri Sınıfının (Üst Kademe Yöneticisi Sayılmayan Diğer Yöneticiler) II’nci veya III’üncü Derecesinin “10’uncu kademesinde ve “Mesleki ve Teknik Hizmetler Sınıfları” altında yer alan Ortaokul Öğrenimli Hizmet Sınıfları ile “Genel Hizmet Sınıfları” altında yer alan Ortaokul Öğrenimli Hizmet Sınıflarının üst bareminin “10’uncu kademesinde en az 1 (bir) yıl bekleyenler B kademeye 1 Ocak 2027 tarihi itibariyle intibak ettirilir.
+4. Bu (Değişiklik) Yasasının 37’nci maddesi ile değiştirilen Esas Yasanın 114’üncü maddesi altında yer alan II. Cetvel, Yöneticilik Hizmetleri Sınıfı altında Üst Kademe Yöneticisi Sayılmayan Diğer Yöneticiler Sınıfının II’nci ve III’üncü Dereceleri ve, “Mesleki ve Teknik Hizmetler Sınıfları” altında yer alan Ortaokul Öğrenimli Hizmet Sınıfları ile “Genel Hizmet Sınıfları” altında yer alan Ortaokul Öğrenimli Hizmet Sınıflarındaki derecelerin baremlerinin kademelerinde yapılan düzenleme neticesinde bu sınıflarda çalışan kamu görevlilerinden 31 Aralık 2026 tarihi itibariyle Yöneticilik Hizmetleri Sınıfının (Üst Kademe Yöneticisi Sayılmayan Diğer Yöneticiler) II’nci veya III’üncü Derecesinin “10’uncu kademesinde ve “Mesleki ve Teknik Hizmetler Sınıfları” altında yer alan Ortaokul Öğrenimli Hizmet Sınıfları ile “Genel Hizmet Sınıfları” altında yer alan Ortaokul Öğrenimli Hizmet Sınıflarının üst bareminin “10’uncu kademesinde en az 1 (bir) yıl bekleyenler B kademeye 1 Ocak 2027 tarihi itibariyle intibak ettirilir.
    Ancak yukarıda belirtilen baremlerde bir yılı dolmayanların intibakları barem içi artış tarihlerinde yapılır.
 
 Geçici Madde
 Sınav Harçları ile İlgili Kurallar
 65/2026
-27.Bu (Değişiklik) Yasasının 13’üncü maddesinin (2)’nci fıkrası ile değiştirilen sınav harçlarına ilişkin Esas Yasanın 63’üncü maddesinin (6)’ncı fıkra kuralları bu (Değişiklik) Yasasının yürürlüğe girdiği tarihten önce yapılmış sınav harcı ödemelerine uygulanmaz ve harcını bu (Değişiklik) Yasasının yürürlüğe girdiği tarihten önce halihazırda ödeyenlerden herhangi bir fark talep edilmez.
+5.Bu (Değişiklik) Yasasının 13’üncü maddesinin (2)’nci fıkrası ile değiştirilen sınav harçlarına ilişkin Esas Yasanın 63’üncü maddesinin (6)’ncı fıkra kuralları bu (Değişiklik) Yasasının yürürlüğe girdiği tarihten önce yapılmış sınav harcı ödemelerine uygulanmaz ve harcını bu (Değişiklik) Yasasının yürürlüğe girdiği tarihten önce halihazırda ödeyenlerden herhangi bir fark talep edilmez.
 Geçici Madde
 Disiplin Soruşturması, Cezai Kovuşturma ve Cezai Soruşturma Nedeniyle Görevden Uzaklaştırılan Kamu Görevlilerine Uygulanacak Kurallar
 65/2026
-28. Bu (Değişiklik) Yasasının yürürlüğe girdiği tarihten önce açılmış olan disiplin soruşturması başlatılan veya cezai kovuşturma veya cezai soruşturma nedeniyle görevden uzaklaştırılan kamu görevlilerinin disiplin soruşturmasının veya cezai kovuşturmasının veya cezai soruşturmasının üzerinden 1 (bir) yıl geçmesi halinde bu (Değişiklik) Yasasının 102’nci madde kuralları uygulanır.
+6. Bu (Değişiklik) Yasasının yürürlüğe girdiği tarihten önce açılmış olan disiplin soruşturması başlatılan veya cezai kovuşturma veya cezai soruşturma nedeniyle görevden uzaklaştırılan kamu görevlilerinin disiplin soruşturmasının veya cezai kovuşturmasının veya cezai soruşturmasının üzerinden 1 (bir) yıl geçmesi halinde bu (Değişiklik) Yasasının 102’nci madde kuralları uygulanır.
 Geçici Madde
 Sosyal Güvenlik Yasası Kapsamında 60 (altmış) Yaşını Doldurup Halen Görevine Devam Edenler ile İlgili Kurallar
 65/2026
@@ -4115,7 +4114,7 @@ Sosyal Güvenlik Yasası Kapsamında 60 (altmış) Yaşını Doldurup Halen Gör
 25/2023
 22/2024
 
-29. Bu (Değişiklik) Yasasının 22’nci maddesi ile değiştirilen Esas Yasanın 89’uncu maddesinin (6)’ncı fıkrası kuralları bu Yasanın yürürlüğe girdiği tarihte, Sosyal Güvenlik Yasası kapsamında olup da 60 (altmış) yaşını doldurduğu halde görevine devam edenler için en çok 63 (altmış üç) yaşına kadar uygulanmaz.
+7. Bu (Değişiklik) Yasasının 22’nci maddesi ile değiştirilen Esas Yasanın 89’uncu maddesinin (6)’ncı fıkrası kuralları bu Yasanın yürürlüğe girdiği tarihte, Sosyal Güvenlik Yasası kapsamında olup da 60 (altmış) yaşını doldurduğu halde görevine devam edenler için en çok 63 (altmış üç) yaşına kadar uygulanmaz.
 
 
 ONUNCU KISIM

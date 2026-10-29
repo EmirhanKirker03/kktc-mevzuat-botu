@@ -5,7 +5,7 @@
 
 			ATATÜRK ÖĞRETMEN AKADEMİSİ KURULUŞ YASASI
 
-(26/2003, 25/2006; 76/2007; 81/2009 ,32/2013, 5/2015; 44/2015; 21/2020, 25/2024 ve 37/2024 sayılı değişiklik yasalarıyla değiştirilmiş ve birleştirilmiş şekliyle)
+(26/2003, 25/2006; 76/2007; 81/2009 ,32/2013, 5/2015; 44/2015; 21/2020, 25/2024, 37/2024 ve 74/2026 sayılı değişiklik yasalarıyla değiştirilmiş ve birleştirilmiş şekliyle)
 
 	Kuzey Kıbrıs Türk Cumhuriyeti Cumhuriyet Meclisi aşağıdaki Yasayı yapar:
 
@@ -105,9 +105,10 @@ Akademinin Öğretim Dili
 	7.  Akademinin öğretim dili Türkçedir.
 
 	
-Öğrenim Ücretleri	8.  Akademide öğrenim ücretleri  Bakanın  önerisiyle Bakanlar   Kurulunca belirlenir.
-            Ancak, Kuzey Kıbrıs Türk Cumhuriyeti yurttaşı olan öğrenciler mecburi hizmet karşılığında Akademide ücretsiz eğitim görürler. 
-	
+Öğrenim Ücretleri 
+ve Burslar
+2.74/2026	8.  Akademide öğrenim ücretleri, aylık brüt asgari ücretin 12 (on iki) katını aşmamak koşulu ile her bir giriş kontenjanı için ayrı ayrı ve yıllık olarak Yönetim Kurulu tarafından önerilir ve Bakanlık tarafından onaylanır. 
+             Ancak bu usul ile herhangi bir kontenjan için öğretim ücreti alınmaması ve/veya bu Yasanın 12’nci maddesinin (2)’nci fıkrasında belirlenen sınavlar içerisinde ayrı ayrı olarak belirlenecek bir başarı kıstasına göre burs verilmesi kararlaştırılabilir.	
 Lisans Sonrası Öğrenim Olanağı	9.	(1)	Akademiyi başarı ile tamamlamış öğrenciler, yüksek lisans ve doktora yapabilirler.	
 		(2)	Akademide üstün başarılı öğrencilere, Akademik Kurulun teklifi,  Bakanın önerisi ve Bakanlar Kurulu Kararı ile zorunlu hizmet karşılığında üniversitelerde yüksek lisans ve doktora yapma olanağı  sağlanabilir.
 	
@@ -119,18 +120,27 @@ Akademideki Sınav, Başarı ve Disiplin
 İKİNCİ KISIM
 Akademiye Kayıt ve Kabul Koşulları
 	
-Öğrenci Kapasitesi	11.Her yıl Akademiye alınacak Kuzey Kıbrıs Türk Cumhuriyeti uyruklu öğrenci sayısı, ülkemiz ilkokullardaki öğretmen ihtiyacı gözönünde tutularak; dış ülkelere ayrılacak öğrenci kontenjanı ise Akademinin kapasitesi gözönünde tutularak Bakanlık ve Yönetim Kurulunun istişaresi sonucu saptanır.
+Öğrenci Kapasitesi
+3.74/2026	11. Her yıl Akademiye alınacak Kuzey Kıbrıs Türk Cumhuriyeti uyruklu lisans öğrencisi sayısı, Ülkemiz ilkokullardaki öğretmen ihtiyacı göz önünde tutularak; dış ülkelere ayrılacak öğrenci kontenjanı ise Akademinin kapasitesi göz önünde tutularak, Bakanlığın görüşü alınarak ve Akademik Kurulun önerisi doğrultusunda Yönetim Kurulu tarafından belirlenir ve Yükseköğrenim Planlama, Denetleme, Akreditasyon ve Koordinasyon Kuruluna bildirilir.
 
 	
 Akademiye Öğrenci	12.Akademiye kabul edilebilmek için adayların aşağıdaki nitelikleri taşıması gerekir:	
 Kabul Koşulları		(1)	Lise veya dengi bir Ortaöğretim kurumundan mezun  olmak veya bu  kurumlara denkliği Bakanlıkça kabul edilen yurtdışı eğitim  kurumlarından mezun olmak;	
-		(2)	(A)	Kuzey Kıbrıs Türk Cumhuriyeti uyruklu adaylar için Akademinin giriş sınavında Yönetim Kurulunca belirlenen kontenjana göre  hem yazılı hem sözlü (mülakatta) başarılı olmak;	
+4.74/2026		(2)	(A)	Yönetim Kurulunca ayrı ayrı belirlenen kontenjanlar ile bu Yasa ve bu Yasa uyarınca çıkarılacak tüzüklerde öngörülen koşullar çerçevesinde Kuzey Kıbrıs Türk Cumhuriyeti uyruklu lise mezunu ve yazılı sınav tarihine göre 24 (yirmi dört) yaşından büyük olmayan ancak sınavın yapıldığı yılın 31 Aralık tarihine kadar 25 (yirmi beş) yaşından gün alan adaylar için Akademi Yazılı ve Sözlü Giriş Sınavında (AYGS); lisans mezunu ve İlköğretim Dairesine bağlı kamu ve özel ilköğretim okullarında tam zamanlı olarak en az 22 (yirmi iki) ay öğretmenlik yapmış adaylar için yazılı ve sözlü şekilde yapılacak Akademi Seviye Tespit ve Sıralama Sınavında (ASTSS); yabancı uyruklu adaylar ile uluslararası sınav sonucuna göre başvuran adaylar bakımından ise ilgili tüzükte belirlenen sınav, ölçüt veya kabul usullerinde başarılı olmak.	
 			(B)	Yabancı uyruklu adaylar için YÖDAK’ın kabul ettiği bir üniversite giriş sınavında başarılı olmak.	
 21/2020			(C)	Uluslararası sınavlarda başarılı olmak.	
 		(3)	Yüz kızartıcı bir suçtan dolayı hüküm giymemiş olmak;	
 		(4)	Disiplinsizlik nedeniyle  Akademiyle  ilişiği kesilmemiş olmak.	
-21/2020		(5)	Sınav şekli, alınacak öğrenci sayısına ilişkin düzenleme, mülakat uluslararası sınavların türleri ve uluslararası sınavlarda başarılı olma kriterleri ile ilgili hususlar, Bakanlıkça hazırlanıp, Bakanlar Kurulunca onaylanarak Resmi Gazete’de yayımlanacak bir tüzükle belirlenir. 
-	
+21/2020
+4.74/2026		(5)	Bu maddenin uygulanmasına ilişkin usul ve esaslar; Akademiye girişe, sınavlara başvuru ve katılma koşullarına, aday kategorilerine, sınavların yapılmasına ve değerlendirilmesine, başarı ve sıralama esaslarına, kayıt, kabul ve yerleştirme işlemlerine ilişkin hususlar dahil olmak üzere Bakanlıkça hazırlanacak, Bakanlar Kurulunca onaylanacak ve Resmi Gazete’de yayımlanacak bir tüzükle düzenlenir.	
+Muafiyet
+5.74/2026	12A	(1)	Akademiye kabul edilen öğrencilerin, daha önce bulundukları yükseköğretim programlarında aldıkları dersler, kazanılmış akademik yeterlilikleri ve muaf tutulabilecekleri dersler dikkate alınarak, muafiyet ve intibak işlemleri uygulanabilir.	
+		(2)	Muafiyet ve intibak işlemleri, ilgili Bölüm Başkanlığının önerisi ve Akademik Kurulun görüşü alınarak Akademi Başkanlığı tarafından karara bağlanır.	
+
+65/2005	
+    21/2008
+    40/2009
+    23/2017			(3)	Muafiyet ve intibak işlemlerine ilişkin usul ve esaslar, Kuzey Kıbrıs Türk Cumhuriyeti Yükseköğretim Yasasına uygun şekilde Bakanlar Kurulu tarafından çıkarılacak bir tüzükle düzenlenir.	
 		
 	ÜÇÜNCÜ KISIM
 Akademinin Yönetimi ve Organları
@@ -848,10 +858,11 @@ Tüzük Yapma Yetkisi
 		(1)	Öğretmen adaylarının, Akademide kazandıkları bilgi ve becerileri okullarda nasıl uygulayacakları konularında;	
 		(2)	Akademide uygulanacak başarı esasları ve sınavlar ile öğrenci akışını düzenleyen ve öğrencilerin tabi tutulacakları kurallar; öğretim programları çerçevesinde öğrencilere kazandırılacak nitelik ve statü ile bunlara dayalı olarak verilecek diploma ve öğrenim belgeleri ile ilgili konularda;	
 		(3)	Araç hazırlama geliştirme, çoğaltma ve döner sermaye işletmesi ile ilgili konularda;	
-		(4)	Akademnin giriş sınavına başvuru, sınavın yapılması ve bu sınav ile ilgili diğer konularda;	
+6.74/2026		(4)	Akademiye girişe, Akademi Yazılı ve Sözlü Giriş Sınavı (AYGS) ile Akademi Seviye Tespit ve Sıralama Sınavının (ASTSS) şekline, yapılmasına ve değerlendirilmesine, bu sınavlara başvuru ve katılma koşullarına, aday kategorilerine, başarı ve sıralama esaslarına, kayıt, kabul ve yerleştirme işlemlerine ilişkin konularda;	
 		(5)	Öğrencilerin hangi davranışlarının suç sayılacağı ve bunlara ilişkin cezalar ve disiplin ile ilgili diğer konularda;	
 		(6)	Akademik personelle ilgili disiplin ve cezalarla ilgili konularda; ve	
 		(7)	Personele ilişkin sicil ve değerlendirme ile ilgili konularda.	
+6.74/2026		(8)	Akademiye kabul edilen öğrencilerin, daha önce bulundukları yükseköğretim programlarında aldıkları dersler, kazanılmış akademik yeterlilikleri ve muaf tutulabilecekleri dersler ile muafiyetlerin uygulanmasına ilişkin usul ve esasların düzenlenmesi ile ilgili konularda.	
 Akademinin Statüsü
 25/2006	79. Atatürk Öğretmen Akademisi idari yönüyle KKTC’deki Eğitimden görevli Bakanlığın gözetiminde Akademik yönü ise YÖDAK’ınkontrol ve denetiminde yürütülür.
 	

@@ -1,0 +1,466 @@
+{
+ "tur": "yasa",
+ "basladi": "2026-10-29T05:42:40.952Z",
+ "denetlenen": 1233,
+ "ayni": 1228,
+ "degisen": [
+  {
+   "pkey": 55,
+   "numara": "60/2000",
+   "ad": "Atatürk Öğretmen Akademisi Kuruluş Yasası",
+   "durum": "tamam"
+  },
+  {
+   "pkey": 323,
+   "numara": "7/1979",
+   "ad": "Kamu Görevlileri Yasası",
+   "durum": "tamam"
+  },
+  {
+   "pkey": 702,
+   "numara": "49/2015",
+   "ad": "Siyasal Partiler Yasası",
+   "durum": "tamam"
+  },
+  {
+   "pkey": 949,
+   "numara": "25/1993",
+   "ad": "Yurttaşlık Yasası",
+   "durum": "tamam"
+  },
+  {
+   "pkey": 1331,
+   "numara": "51/1995",
+   "ad": "Belediyeler Yasası",
+   "durum": "tamam"
+  }
+ ],
+ "yeni": [],
+ "hata": [
+  {
+   "pkey": 1,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 2,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 9,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 21,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 35,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 36,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 43,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 49,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 57,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 62,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 75,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 83,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 92,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 96,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 105,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 111,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 115,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 117,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 156,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 164,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 179,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 183,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 190,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 211,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 230,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 244,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 258,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 264,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 266,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 267,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 281,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 282,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 286,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 293,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 320,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 326,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 327,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 336,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 341,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 342,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 348,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 360,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 361,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 362,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 364,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 365,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 368,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 382,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 415,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 419,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 452,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 474,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 493,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 502,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 506,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 508,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 511,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 523,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 530,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 548,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 549,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 550,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 578,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 581,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 582,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 587,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 595,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 611,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 614,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 615,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 618,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 629,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 632,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 635,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 643,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 674,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 682,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 688,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 699,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 703,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 709,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 779,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 796,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 799,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 807,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 822,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 825,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 827,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 829,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 831,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 834,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 835,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 859,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 891,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 893,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 896,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 906,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 919,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 935,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 937,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 938,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 939,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 955,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 959,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 962,
+   "hata": "HTTP 404"
+  },
+  {
+   "pkey": 964,
+   "hata": "HTTP 404"
+  }
+ ],
+ "bitti": "2026-10-29T07:08:36.788Z"
+}

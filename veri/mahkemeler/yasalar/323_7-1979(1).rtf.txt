@@ -4,19 +4,19 @@
 \*02040503060506020304New York;\*00000000000000000000System;\*05000000000000000000Wingdings;
 \*02020609040205080304MS Mincho\*MS Gothic;
 \*02030600000101010101Batang\*¢®E¡ËcE¡Ë¢çEcE¡Ë¢çE¢®EcEcE¡Ë¢çE¢®EcE¢®E¡ËcE;
-\*02010600030101010101SimSun\*?????????????¡ì???????;\*02010601000101010101PMingLiU\*!Ps2OcuAe;
+\*02010600030101010101SimSun\*??????????¡§??????;\*02010601000101010101PMingLiU\*!Ps2OcuAe;
 \*020b0609070205080204MS Gothic\*?l?r ?S?V?b?N;
 \*020b0600000101010101Dotum\*¡Ë¢çE¢®EcE¢®E¡ËcEcE¢®E¡ËcE¡Ë¢çEcEcE¢®E¡ËcE;
-\*02010600030101010101SimHei\*o???????????¡ì?????2???????????¡ì;\*02010609000101010101MingLiU\*2OcuAe;
+\*02010600030101010101SimHei\*o????????¡§????2????????¡§??????;\*02010609000101010101MingLiU\*2OcuAe;
 \*02020609040305080305Mincho\*??fc;
 \*020b0600000101010101Gulim\*¢®E¡ËcE¡Ë¢çEcE¡Ë¢çE¢®EcEcE¡Ë¢çE¢®EcE¢®E¡ËcE;
 \*02040604050505020304Century;\*02020603050405020304Angsana New;\*020b0304020202020204Cordia New;
 \*00000400000000000000Mangal;\*02000400000000000000Latha;\*010a0502050306030303Sylfaen;
 \*00000400000000000000Vrinda;\*02000500000000000000Raavi;\*02000500000000000000Shruti;
 \*00000400000000000000Sendnya;\*02000500000000000000Gautami;\*00000400000000000000Tunga;
-\*00000000000000000000Estrangelo Edessa;\*02040503050406030204Cambria Math;\*020b0604020202020204Arial Unicode MS;
+\*00000000000000000000Estrangelo Edessa;\*00000000000000000000Cambria Math;\*020b0604020202020204Arial Unicode MS;
 \*020f0302020204030204Calibri Light;\*020f0502020204030204Calibri;\*020b0502040204020203Segoe UI;
-\*00000000000000000000Tahoma;\*00000000000000000000Cambria;\*00000000000000000000Adobe Caslon Pro Bold;
+\*020b0604030504040204Tahoma;\*02040503050406030204Cambria;\*00000000000000000000Adobe Caslon Pro Bold;
 \*00000000000000000000Adobe Caslon Pro;\*00000000000000000000Adobe Fangsong Std R;
 \*00000000000000000000@Adobe Fangsong Std R;\*00000000000000000000Adobe Fan Heiti Std B;
 \*00000000000000000000@Adobe Fan Heiti Std B;\*00000000000000000000Adobe Gothic Std B;
@@ -70,30 +70,30 @@
 \*02030609000101010101@GungsuhChe;\*01010101010101010101DaunPenh;\*020b0604020202020204DokChampa;
 \*020b0503040102020104Euphemia;\*020b0502040204020203Vani;\*020b0600000101010101@Gulim;
 \*020b0609000101010101GulimChe;\*020b0609000101010101@GulimChe;\*020b0600000101010101@Dotum;
-\*020b0609000101010101DotumChe;\*020b0609000101010101@DotumChe;\*00000000000000000000Impact;
+\*020b0609000101010101DotumChe;\*020b0609000101010101@DotumChe;\*020b0806030902050204Impact;
 \*020b0502040204020203Iskoola Pota;\*020b0502040204020203Kalinga;\*02020503030404060203Kartika;
-\*020b0502040204020203Khmer UI;\*020b0502040204020203Lao UI;\*00000000000000000000Lucida Console;
-\*00000000000000000000Malgun Gothic;\*00000000000000000000@Malgun Gothic;\*020b0604030504040204Meiryo;
+\*020b0502040204020203Khmer UI;\*020b0502040204020203Lao UI;\*020b0609040504020204Lucida Console;
+\*020b0503020000020004Malgun Gothic;\*020b0503020000020004@Malgun Gothic;\*020b0604030504040204Meiryo;
 \*020b0604030504040204@Meiryo;\*020b0604030504040204Meiryo UI;\*020b0604030504040204@Meiryo UI;
-\*00000000000000000000Microsoft Himalaya;\*00000000000000000000Microsoft JhengHei;
-\*00000000000000000000@Microsoft JhengHei;\*00000000000000000000Microsoft YaHei;
-\*00000000000000000000@Microsoft YaHei;\*02020509000000000000@MingLiU;\*02020500000000000000@PMingLiU;
-\*02020500000000000000MingLiU_HKSCS;\*02020500000000000000@MingLiU_HKSCS;\*00000000000000000000MingLiU-ExtB;
-\*00000000000000000000@MingLiU-ExtB;\*00000000000000000000PMingLiU-ExtB;
-\*00000000000000000000@PMingLiU-ExtB;\*00000000000000000000MingLiU_HKSCS-ExtB;
-\*00000000000000000000@MingLiU_HKSCS-ExtB;\*00000000000000000000Mongolian Baiti;
-\*00000000000000000000@MS Gothic;\*00000000000000000000MS PGothic;\*00000000000000000000@MS PGothic;
-\*00000000000000000000MS UI Gothic;\*00000000000000000000@MS UI Gothic;\*02020609040205080304@MS Mincho;
-\*02020600040205080304MS PMincho;\*02020600040205080304@MS PMincho;\*00000000000000000000MV Boli;
-\*00000000000000000000Microsoft New Tai Lue;\*02000504070300020003Nyala;\*00000000000000000000Microsoft PhagsPa;
-\*02020602070100000000Plantagenet Cherokee;\*00000000000000000000Segoe Script;
-\*00000000000000000000Segoe UI Semibold;\*00000000000000000000Segoe UI Light;
-\*00000000000000000000Segoe UI Symbol;\*00000000000000000000@SimSun;\*00000000000000000000NSimSun;
-\*00000000000000000000@NSimSun;\*00000000000000000000SimSun-ExtB;\*00000000000000000000@SimSun-ExtB;
-\*00000000000000000000Microsoft Tai Le;\*020b0502040204020203Shonar Bangla;
-\*00000000000000000000Microsoft Yi Baiti;\*00000000000000000000Microsoft Sans Serif;
-\*020b0604020202020204Aparajita;\*00000000000000000000Ebrima;\*020b0502040204020203Gisha;
-\*020b0604020202020204Kokila;\*00000000000000000000Leelawadee;\*00000000000000000000Microsoft Uighur;
+\*01010100010101010101Microsoft Himalaya;\*020b0604030504040204Microsoft JhengHei;
+\*020b0604030504040204@Microsoft JhengHei;\*020b0503020204020204Microsoft YaHei;
+\*020b0503020204020204@Microsoft YaHei;\*02020509000000000000@MingLiU;\*02020500000000000000@PMingLiU;
+\*02020500000000000000MingLiU_HKSCS;\*02020500000000000000@MingLiU_HKSCS;\*02020500000000000000MingLiU-ExtB;
+\*02020500000000000000@MingLiU-ExtB;\*02020500000000000000PMingLiU-ExtB;
+\*02020500000000000000@PMingLiU-ExtB;\*02020500000000000000MingLiU_HKSCS-ExtB;
+\*02020500000000000000@MingLiU_HKSCS-ExtB;\*03000500000000000000Mongolian Baiti;
+\*020b0609070205080204@MS Gothic;\*020b0600070205080204MS PGothic;\*020b0600070205080204@MS PGothic;
+\*020b0600070205080204MS UI Gothic;\*020b0600070205080204@MS UI Gothic;\*02020609040205080304@MS Mincho;
+\*02020600040205080304MS PMincho;\*02020600040205080304@MS PMincho;\*02000500030200090000MV Boli;
+\*020b0502040204020203Microsoft New Tai Lue;\*02000504070300020003Nyala;\*020b0502040204020203Microsoft PhagsPa;
+\*02020602070100000000Plantagenet Cherokee;\*030b0504020000000003Segoe Script;
+\*020b0702040204020203Segoe UI Semibold;\*020b0502040204020203Segoe UI Light;
+\*020b0502040204020203Segoe UI Symbol;\*02010600030101010101@SimSun;\*02010609030101010101NSimSun;
+\*02010609030101010101@NSimSun;\*02010609060101010101SimSun-ExtB;\*02010609060101010101@SimSun-ExtB;
+\*020b0502040204020203Microsoft Tai Le;\*020b0502040204020203Shonar Bangla;
+\*03000500000000000000Microsoft Yi Baiti;\*020b0604020202020204Microsoft Sans Serif;
+\*020b0604020202020204Aparajita;\*02000000000000000000Ebrima;\*020b0502040204020203Gisha;
+\*020b0604020202020204Kokila;\*020b0502040204020203Leelawadee;\*02000000000000000000Microsoft Uighur;
 \*020b0100010101010101MoolBoran;\*020b0604020202020204Utsaah;\*020b0604020202020204Vijaya;
 \*02020603050405020304Andalus;\*03020402040406030203Arabic Typesetting;\*02020603050405020304Simplified Arabic;
 \*02070309020205020404Simplified Arabic Fixed;\*02000000000000000000Sakkal Majalla;
@@ -106,11 +106,11 @@
 \*02020603050405020304DilleniaUPC;\*02020603050405020304EucrosiaUPC;\*020b0604020202020204FreesiaUPC;
 \*020b0604020202020204IrisUPC;\*02020603050405020304JasmineUPC;\*02020603050405020304KodchiangUPC;
 \*020b0604020202020204LilyUPC;\*03000509000000000000DFKai-SB;\*03000509000000000000@DFKai-SB;
-\*00000000000000000000Lucida Sans Unicode;\*00000000000000000000Arial Black;\*00000000000000000000Candara;
-\*00000000000000000000Comic Sans MS;\*00000000000000000000Consolas;\*00000000000000000000Constantia;
-\*00000000000000000000Corbel;\*00000000000000000000Franklin Gothic Medium;\*00000000000000000000Gabriola;
-\*00000000000000000000Georgia;\*00000000000000000000Palatino Linotype;\*00000000000000000000Segoe Print;
-\*00000000000000000000Trebuchet MS;\*00000000000000000000Verdana;\*00000000000000000000Webdings;
+\*020b0602030504020204Lucida Sans Unicode;\*020b0a04020102020204Arial Black;\*020e0502030303020204Candara;
+\*030f0702030302020204Comic Sans MS;\*020b0609020204030204Consolas;\*02030602050306030303Constantia;
+\*020b0503020204020204Corbel;\*020b0603020102020204Franklin Gothic Medium;\*04040605051002020d02Gabriola;
+\*02040502050405020303Georgia;\*02040502050505030304Palatino Linotype;\*02000600000000000000Segoe Print;
+\*020b0603020202020204Trebuchet MS;\*020b0604030504040204Verdana;\*05030102010509060703Webdings;
 \*00000000000000000000ZWAdobeF;\*00000000000000000000OCR-A BT;\*00000000000000000000OCR-B 10 BT;
 \*00000000000000000000Swis721 Lt BT;\*00000000000000000000Swis721 BT;\*00000000000000000000Swis721 Blk BT;
 \*00000000000000000000Swis721 Hv BT;\*00000000000000000000Futura Md BT;\*00000000000000000000Freehand521 BT;
@@ -136,52 +136,52 @@
 \*00000000000000000000Square721 BT;\*00000000000000000000Square721 Cn BT;
 \*00000000000000000000Clarendon Lt BT;\*00000000000000000000Clarendon BT;
 \*00000000000000000000Humanst521 Lt BT;\*00000000000000000000Humanst521 BT;
-\*00000000000000000000GeoSlab703 Md BT;\*00000000000000000000News701 BT;\*00000000000000000000MT Extra;
-\*00000000000000000000Haettenschweiler;\*00000000000000000000MS Outlook;\*00000000000000000000Book Antiqua;
-\*00000000000000000000Century Gothic;\*00000000000000000000Bookshelf Symbol 7;
-\*00000000000000000000MS Reference Sans Serif;\*00000000000000000000MS Reference Specialty;
-\*00000000000000000000Arial Narrow;\*00000000000000000000Garamond;\*00000000000000000000Monotype Corsiva;
-\*00000000000000000000Agency FB;\*00000000000000000000Arial Rounded MT Bold;\*00000000000000000000Blackadder ITC;
-\*00000000000000000000Bodoni MT;\*00000000000000000000Bodoni MT Black;\*00000000000000000000Bodoni MT Condensed;
-\*00000000000000000000Bookman Old Style;\*00000000000000000000Bradley Hand ITC;\*00000000000000000000Calisto MT;
-\*00000000000000000000Castellar;\*00000000000000000000Century Schoolbook;
-\*00000000000000000000Copperplate Gothic Bold;\*00000000000000000000Copperplate Gothic Light;
-\*00000000000000000000Curlz MT;\*00000000000000000000Edwardian Script ITC;\*00000000000000000000Elephant;
-\*00000000000000000000Engravers MT;\*00000000000000000000Eras Bold ITC;\*00000000000000000000Eras Demi ITC;
-\*00000000000000000000Eras Light ITC;\*00000000000000000000Eras Medium ITC;\*00000000000000000000Felix Titling;
-\*00000000000000000000Forte;\*00000000000000000000Franklin Gothic Book;
-\*00000000000000000000Franklin Gothic Demi;\*00000000000000000000Franklin Gothic Demi Cond;
-\*00000000000000000000Franklin Gothic Heavy;\*00000000000000000000Franklin Gothic Medium Cond;
-\*00000000000000000000French Script MT;\*00000000000000000000Gigi;\*00000000000000000000Gill Sans MT;
-\*00000000000000000000Gill Sans MT Condensed;\*00000000000000000000Gill Sans Ultra Bold;
-\*00000000000000000000Gill Sans Ultra Bold Condensed;\*00000000000000000000Gill Sans MT Ext Condensed Bold;
-\*00000000000000000000Gloucester MT Extra Condensed;\*00000000000000000000Goudy Old Style;
-\*00000000000000000000Goudy Stout;\*00000000000000000000Imprint MT Shadow;\*00000000000000000000Lucida Sans;
-\*00000000000000000000Lucida Sans Typewriter;\*00000000000000000000Maiandra GD;
-\*00000000000000000000OCR A Extended;\*00000000000000000000Palace Script MT;\*00000000000000000000Papyrus;
-\*00000000000000000000Perpetua;\*00000000000000000000Perpetua Titling MT;\*00000000000000000000Pristina;
-\*00000000000000000000Rage Italic;\*00000000000000000000Rockwell;\*00000000000000000000Rockwell Condensed;
-\*00000000000000000000Rockwell Extra Bold;\*00000000000000000000Script MT Bold;\*00000000000000000000Tw Cen MT;
-\*00000000000000000000Tw Cen MT Condensed;\*00000000000000000000Tw Cen MT Condensed Extra Bold;
-\*00000000000000000000Algerian;\*00000000000000000000Baskerville Old Face;\*00000000000000000000Bauhaus 93;
-\*00000000000000000000Bell MT;\*00000000000000000000Berlin Sans FB;\*00000000000000000000Berlin Sans FB Demi;
-\*00000000000000000000Bernard MT Condensed;\*00000000000000000000Bodoni MT Poster Compressed;
-\*00000000000000000000Britannic Bold;\*00000000000000000000Broadway;\*00000000000000000000Brush Script MT;
-\*00000000000000000000Californian FB;\*00000000000000000000Centaur;\*00000000000000000000Chiller;
-\*00000000000000000000Colonna MT;\*00000000000000000000Cooper Black;\*00000000000000000000Footlight MT Light;
-\*00000000000000000000Freestyle Script;\*00000000000000000000Harlow Solid Italic;
-\*00000000000000000000Harrington;\*00000000000000000000High Tower Text;\*00000000000000000000Jokerman;
-\*00000000000000000000Juice ITC;\*00000000000000000000Kristen ITC;\*00000000000000000000Kunstler Script;
-\*00000000000000000000Lucida Bright;\*00000000000000000000Lucida Calligraphy;\*00000000000000000000Lucida Fax;
-\*00000000000000000000Lucida Handwriting;\*00000000000000000000Magneto;
-\*00000000000000000000Matura MT Script Capitals;\*00000000000000000000Mistral;
-\*00000000000000000000Modern No. 20;\*00000000000000000000Niagara Engraved;\*00000000000000000000Niagara Solid;
-\*00000000000000000000Old English Text MT;\*00000000000000000000Onyx;\*00000000000000000000Parchment;
-\*00000000000000000000Playbill;\*00000000000000000000Poor Richard;\*00000000000000000000Ravie;
-\*00000000000000000000Informal Roman;\*00000000000000000000Showcard Gothic;\*00000000000000000000Snap ITC;
-\*00000000000000000000Stencil;\*00000000000000000000Tempus Sans ITC;\*00000000000000000000Viner Hand ITC;
-\*00000000000000000000Vivaldi;\*00000000000000000000Vladimir Script;\*00000000000000000000Wide Latin;
-\*00000000000000000000Wingdings 2;\*00000000000000000000Wingdings 3;\*00000000000000000000@Arial Unicode MS;
+\*00000000000000000000GeoSlab703 Md BT;\*00000000000000000000News701 BT;\*05050102010205020202MT Extra;
+\*020b0706040902060204Haettenschweiler;\*05010100010000000000MS Outlook;\*02040602050305030304Book Antiqua;
+\*020b0502020202020204Century Gothic;\*05010101010101010101Bookshelf Symbol 7;
+\*020b0604030504040204MS Reference Sans Serif;\*05000500000000000000MS Reference Specialty;
+\*020b0606020202030204Arial Narrow;\*02020404030301010803Garamond;\*03010101010201010101Monotype Corsiva;
+\*020b0503020202020204Agency FB;\*020f0704030504030204Arial Rounded MT Bold;\*04020505051007020d02Blackadder ITC;
+\*02070603080606020203Bodoni MT;\*02070a03080606020203Bodoni MT Black;\*02070606080606020203Bodoni MT Condensed;
+\*02050604050505020204Bookman Old Style;\*03070402050302030203Bradley Hand ITC;\*02040603050505030304Calisto MT;
+\*020a0402060406010301Castellar;\*02040604050505020304Century Schoolbook;
+\*020e0705020206020404Copperplate Gothic Bold;\*020e0507020206020404Copperplate Gothic Light;
+\*04040404050702020202Curlz MT;\*030303020407070d0804Edwardian Script ITC;\*02020904090505020303Elephant;
+\*02090707080505020304Engravers MT;\*020b0907030504020204Eras Bold ITC;\*020b0805030504020804Eras Demi ITC;
+\*020b0402030504020804Eras Light ITC;\*020b0602030504020804Eras Medium ITC;\*04060505060202020a04Felix Titling;
+\*03060902040502070203Forte;\*020b0503020102020204Franklin Gothic Book;
+\*020b0703020102020204Franklin Gothic Demi;\*020b0706030402020204Franklin Gothic Demi Cond;
+\*020b0903020102020204Franklin Gothic Heavy;\*020b0606030402020204Franklin Gothic Medium Cond;
+\*03020402040607040605French Script MT;\*04040504061007020d02Gigi;\*020b0502020104020203Gill Sans MT;
+\*020b0506020104020203Gill Sans MT Condensed;\*020b0a02020104020203Gill Sans Ultra Bold;
+\*020b0a06020104020203Gill Sans Ultra Bold Condensed;\*020b0902020104020203Gill Sans MT Ext Condensed Bold;
+\*02030808020601010101Gloucester MT Extra Condensed;\*02020502050305020303Goudy Old Style;
+\*0202090407030b020401Goudy Stout;\*04020605060303030202Imprint MT Shadow;\*020b0602030504020204Lucida Sans;
+\*020b0509030504030204Lucida Sans Typewriter;\*020e0502030308020204Maiandra GD;
+\*02010509020102010303OCR A Extended;\*030303020206070c0b05Palace Script MT;\*03070502060502030205Papyrus;
+\*02020502060401020303Perpetua;\*02020502060505020804Perpetua Titling MT;\*03060402040406080204Pristina;
+\*03070502040507070304Rage Italic;\*02060603020205020403Rockwell;\*02060603050405020104Rockwell Condensed;
+\*02060903040505020403Rockwell Extra Bold;\*03040602040607080904Script MT Bold;\*020b0602020104020603Tw Cen MT;
+\*020b0606020104020203Tw Cen MT Condensed;\*020b0803020202020204Tw Cen MT Condensed Extra Bold;
+\*04020705040a02060702Algerian;\*02020602080505020303Baskerville Old Face;\*04030905020b02020c02Bauhaus 93;
+\*02020503060305020303Bell MT;\*020e0602020502020306Berlin Sans FB;\*020e0802020502020306Berlin Sans FB Demi;
+\*02050806060905020404Bernard MT Condensed;\*02070706080601050204Bodoni MT Poster Compressed;
+\*020b0903060703020204Britannic Bold;\*04040905080b02020502Broadway;\*03060802040406070304Brush Script MT;
+\*0207040306080b030204Californian FB;\*02030504050205020304Centaur;\*04020404031007020602Chiller;
+\*04020805060202030203Colonna MT;\*0208090404030b020404Cooper Black;\*0204060206030a020304Footlight MT Light;
+\*030804020302050b0404Freestyle Script;\*04030604020f02020d02Harlow Solid Italic;
+\*04040505050a02020702Harrington;\*02040502050506030303High Tower Text;\*04090605060d06020702Jokerman;
+\*04040403040a02020202Juice ITC;\*03050502040202030202Kristen ITC;\*030304020206070d0d06Kunstler Script;
+\*02040602050505020304Lucida Bright;\*03010101010101010101Lucida Calligraphy;\*02060602050505020204Lucida Fax;
+\*03010101010101010101Lucida Handwriting;\*04030805050802020d02Magneto;
+\*03020802060602070202Matura MT Script Capitals;\*03090702030407020403Mistral;
+\*02070704070505020303Modern No. 20;\*04020502070703030202Niagara Engraved;\*04020502070702020202Niagara Solid;
+\*03040902040508030806Old English Text MT;\*04050602080702020203Onyx;\*03040602040708040804Parchment;
+\*040506030a0602020202Playbill;\*02080502050505020702Poor Richard;\*04040805050809020602Ravie;
+\*030604020304060b0204Informal Roman;\*04020904020102020604Showcard Gothic;\*04040a07060a02020202Snap ITC;
+\*040409050d0802020404Stencil;\*04020404030d07020202Tempus Sans ITC;\*03070502030502020203Viner Hand ITC;
+\*03020602050506090804Vivaldi;\*03050402040407070305Vladimir Script;\*020a0a07050505020404Wide Latin;
+\*05020102010507070707Wingdings 2;\*05040102010807070707Wingdings 3;\*020b0604020202020204@Arial Unicode MS;
 \*00000000000000000000CentSchbook BT;\*00000000000000000000CentSchbook BdCn BT;
 \*00000000000000000000CentSchbook Mono BT;\*00000000000000000000CentSchbkCyrill BT;
 \*00000000000000000000Futura XBlk BT;\*00000000000000000000Futura BdCn BT;\*00000000000000000000Futura XBlkCn BT;
@@ -573,35 +573,35 @@
 \*00000000000000000000IrisUPC (Thai);\*00000000000000000000JasmineUPC (Thai);
 \*00000000000000000000KodchiangUPC (Thai);\*00000000000000000000LilyUPC (Thai);
 \*00000000000000000000DFKai-SB Western;\*00000000000000000000@DFKai-SB Western;
-\*00000000000000000000Bahnschrift Light;\*00000000000000000000Bahnschrift SemiLight;
-\*00000000000000000000Bahnschrift;\*00000000000000000000Bahnschrift SemiBold;
-\*00000000000000000000Bahnschrift Light SemiCondensed;\*00000000000000000000Bahnschrift SemiLight SemiConde;
-\*00000000000000000000Bahnschrift SemiCondensed;\*00000000000000000000Bahnschrift SemiBold SemiConden;
-\*00000000000000000000Bahnschrift Light Condensed;\*00000000000000000000Bahnschrift SemiLight Condensed;
-\*00000000000000000000Bahnschrift Condensed;\*00000000000000000000Bahnschrift SemiBold Condensed;
-\*00000000000000000000Candara Light;\*00000000000000000000Corbel Light;\*00000000000000000000Gadugi;
-\*00000000000000000000Ink Free;\*00000000000000000000Javanese Text;\*00000000000000000000Leelawadee UI;
-\*00000000000000000000Leelawadee UI Semilight;\*00000000000000000000Malgun Gothic Semilight;
-\*00000000000000000000@Malgun Gothic Semilight;\*00000000000000000000Microsoft JhengHei UI;
-\*00000000000000000000@Microsoft JhengHei UI;\*00000000000000000000Microsoft JhengHei Light;
-\*00000000000000000000@Microsoft JhengHei Light;\*00000000000000000000Microsoft JhengHei UI Light;
-\*00000000000000000000@Microsoft JhengHei UI Light;\*00000000000000000000Microsoft YaHei UI;
-\*00000000000000000000@Microsoft YaHei UI;\*00000000000000000000Microsoft YaHei Light;
-\*00000000000000000000@Microsoft YaHei Light;\*00000000000000000000Microsoft YaHei UI Light;
-\*00000000000000000000@Microsoft YaHei UI Light;\*00000000000000000000Myanmar Text;
-\*00000000000000000000Nirmala UI;\*00000000000000000000Nirmala UI Semilight;
-\*00000000000000000000Segoe MDL2 Assets;\*00000000000000000000Segoe UI Black;
-\*00000000000000000000Segoe UI Emoji;\*00000000000000000000Segoe UI Historic;
-\*00000000000000000000Segoe UI Semilight;\*00000000000000000000Sitka Small;\*00000000000000000000Sitka Text;
-\*00000000000000000000Sitka Subheading;\*00000000000000000000Sitka Heading;\*00000000000000000000Sitka Display;
-\*00000000000000000000Sitka Banner;\*00000000000000000000Yu Gothic;\*00000000000000000000@Yu Gothic;
-\*00000000000000000000Yu Gothic UI;\*00000000000000000000@Yu Gothic UI;
-\*00000000000000000000Yu Gothic UI Semibold;\*00000000000000000000@Yu Gothic UI Semibold;
-\*00000000000000000000Yu Gothic Light;\*00000000000000000000@Yu Gothic Light;
-\*00000000000000000000Yu Gothic UI Light;\*00000000000000000000@Yu Gothic UI Light;
-\*00000000000000000000Yu Gothic Medium;\*00000000000000000000@Yu Gothic Medium;
-\*00000000000000000000Yu Gothic UI Semilight;\*00000000000000000000@Yu Gothic UI Semilight;
-\*00000000000000000000HoloLens MDL2 Assets;\*00000000000000000000HP Simplified;
+\*020b0502040204020203Bahnschrift Light;\*020b0502040204020203Bahnschrift SemiLight;
+\*020b0502040204020203Bahnschrift;\*020b0502040204020203Bahnschrift SemiBold;
+\*020b0502040204020203Bahnschrift Light SemiCondensed;\*020b0502040204020203Bahnschrift SemiLight SemiConde;
+\*020b0502040204020203Bahnschrift SemiCondensed;\*020b0502040204020203Bahnschrift SemiBold SemiConden;
+\*020b0502040204020203Bahnschrift Light Condensed;\*020b0502040204020203Bahnschrift SemiLight Condensed;
+\*020b0502040204020203Bahnschrift Condensed;\*020b0502040204020203Bahnschrift SemiBold Condensed;
+\*020e0502030303020204Candara Light;\*020b0303020204020204Corbel Light;\*020b0502040204020203Gadugi;
+\*03080402000500000000Ink Free;\*02000000000000000000Javanese Text;\*020b0502040204020203Leelawadee UI;
+\*020b0402040204020203Leelawadee UI Semilight;\*020b0502040204020203Malgun Gothic Semilight;
+\*020b0502040204020203@Malgun Gothic Semilight;\*020b0604030504040204Microsoft JhengHei UI;
+\*020b0604030504040204@Microsoft JhengHei UI;\*020b0304030504040204Microsoft JhengHei Light;
+\*020b0304030504040204@Microsoft JhengHei Light;\*020b0304030504040204Microsoft JhengHei UI Light;
+\*020b0304030504040204@Microsoft JhengHei UI Light;\*020b0503020204020204Microsoft YaHei UI;
+\*020b0503020204020204@Microsoft YaHei UI;\*020b0502040204020203Microsoft YaHei Light;
+\*020b0502040204020203@Microsoft YaHei Light;\*020b0502040204020203Microsoft YaHei UI Light;
+\*020b0502040204020203@Microsoft YaHei UI Light;\*020b0502040204020203Myanmar Text;
+\*020b0502040204020203Nirmala UI;\*020b0402040204020203Nirmala UI Semilight;
+\*050a0102010101010101Segoe MDL2 Assets;\*020b0a02040204020203Segoe UI Black;
+\*020b0502040204020203Segoe UI Emoji;\*020b0502040204020203Segoe UI Historic;
+\*020b0402040204020203Segoe UI Semilight;\*02000505000000020004Sitka Small;\*02000505000000020004Sitka Text;
+\*02000505000000020004Sitka Subheading;\*02000505000000020004Sitka Heading;\*02000505000000020004Sitka Display;
+\*02000505000000020004Sitka Banner;\*020b0400000000000000Yu Gothic\*?a?S?V?b?N;
+\*020b0400000000000000@Yu Gothic;\*020b0500000000000000Yu Gothic UI;\*020b0500000000000000@Yu Gothic UI;
+\*020b0700000000000000Yu Gothic UI Semibold;\*020b0700000000000000@Yu Gothic UI Semibold;
+\*020b0300000000000000Yu Gothic Light;\*020b0300000000000000@Yu Gothic Light;
+\*020b0300000000000000Yu Gothic UI Light;\*020b0300000000000000@Yu Gothic UI Light;
+\*020b0500000000000000Yu Gothic Medium;\*020b0500000000000000@Yu Gothic Medium;
+\*020b0400000000000000Yu Gothic UI Semilight;\*020b0400000000000000@Yu Gothic UI Semilight;
+\*050a0102010101010101HoloLens MDL2 Assets;\*00000000000000000000HP Simplified;
 \*00000000000000000000HP Simplified Light;\*00000000000000000000Bahnschrift SemiLight (Vietname;
 \*00000000000000000000Bahnschrift SemiBold (Vietnames;\*00000000000000000000Bahnschrift SemiCondensed Balti;
 \*00000000000000000000Bahnschrift SemiCondensed (Viet;\*00000000000000000000Bahnschrift Light Condensed Gre;
@@ -614,10 +614,13 @@
 \*00000000000000000000minorBidi\*Times New Roman;\*00000000000000000000HP Simplified CE;
 \*00000000000000000000HP Simplified Tur;\*00000000000000000000HP Simplified Baltic;
 \*00000000000000000000HP Simplified Light CE;\*00000000000000000000HP Simplified Light Tur;
-\*00000000000000000000HP Simplified Light Baltic;\*00000000000000000000SimSun-ExtG;
-\*00000000000000000000@SimSun-ExtG;\*00000000000000000000pt\*Times New Roman;
+\*00000000000000000000HP Simplified Light Baltic;\*02010609060101010101SimSun-ExtG;
+\*02010609060101010101@SimSun-ExtG;\*00000000000000000000pt\*Times New Roman;
+\*02010600030101010101DengXian\*|¨¬¡§¡§??;\*00000000000000000000Ink Free CE;
+\*00000000000000000000Ink Free Cyr;\*00000000000000000000Ink Free Greek;
+\*00000000000000000000Ink Free Baltic;\*00000000000000000000Ink Free (Vietnamese);
 \*02020603050405020304Times New Roman;\*02020603050405020304Times New Roman;
-\*00000000000000000000Cambria;\*02020603050405020304Times New Roman;
+\*02040503050406030204Cambria;\*02020603050405020304Times New Roman;
 \*02020603050405020304Times New Roman;\*02020603050405020304Times New Roman;
 \*020f0502020204030204Calibri;\*02020603050405020304Times New Roman;Times New Roman CE;
 Times New Roman Cyr;Times New Roman Greek;Times New Roman Tur;Times New Roman (Hebrew);
@@ -628,7 +631,7 @@ Courier New Cyr;Courier New Greek;Courier New Tur;Courier New (Hebrew);
 Courier New (Arabic);Courier New Baltic;Courier New (Vietnamese);Helvetica CE;
 Helvetica Cyr;Helvetica Greek;Helvetica Tur;Helvetica (Hebrew);
 Helvetica (Arabic);Helvetica Baltic;Helvetica (Vietnamese);
-SimSun Western\*?????????????¡ì???????;MS Gothic Western\*?l?r ?S?V?b?N;MS Gothic CE\*?l?r ?S?V?b?N;
+SimSun Western\*??????????¡§??????;MS Gothic Western\*?l?r ?S?V?b?N;MS Gothic CE\*?l?r ?S?V?b?N;
 MS Gothic Cyr\*?l?r ?S?V?b?N;MS Gothic Greek\*?l?r ?S?V?b?N;MS Gothic Tur\*?l?r ?S?V?b?N;
 MS Gothic Baltic\*?l?r ?S?V?b?N;Century CE;Century Cyr;Century Greek;
 Century Tur;Century Baltic;Angsana New;Cordia New;
@@ -793,57 +796,58 @@ Sitka Heading Cyr;Sitka Heading Greek;Sitka Heading Tur;Sitka Heading Baltic;
 Sitka Heading (Vietnamese);Sitka Display CE;Sitka Display Cyr;Sitka Display Greek;
 Sitka Display Tur;Sitka Display Baltic;Sitka Display (Vietnamese);Sitka Banner CE;
 Sitka Banner Cyr;Sitka Banner Greek;Sitka Banner Tur;Sitka Banner Baltic;
-Sitka Banner (Vietnamese);Yu Gothic Western;Yu Gothic CE;Yu Gothic Cyr;
-Yu Gothic Greek;Yu Gothic Tur;Yu Gothic Baltic;@Yu Gothic Western;
-@Yu Gothic CE;@Yu Gothic Cyr;@Yu Gothic Greek;@Yu Gothic Tur;
-@Yu Gothic Baltic;Yu Gothic UI Western;Yu Gothic UI CE;Yu Gothic UI Cyr;
-Yu Gothic UI Greek;Yu Gothic UI Tur;Yu Gothic UI Baltic;@Yu Gothic UI Western;
-@Yu Gothic UI CE;@Yu Gothic UI Cyr;@Yu Gothic UI Greek;@Yu Gothic UI Tur;
-@Yu Gothic UI Baltic;Yu Gothic UI Semibold Western;Yu Gothic UI Semibold CE;
-Yu Gothic UI Semibold Cyr;Yu Gothic UI Semibold Greek;Yu Gothic UI Semibold Tur;
-Yu Gothic UI Semibold Baltic;@Yu Gothic UI Semibold Western;@Yu Gothic UI Semibold CE;
-@Yu Gothic UI Semibold Cyr;@Yu Gothic UI Semibold Greek;@Yu Gothic UI Semibold Tur;
-@Yu Gothic UI Semibold Baltic;Yu Gothic Light Western;Yu Gothic Light CE;
-Yu Gothic Light Cyr;Yu Gothic Light Greek;Yu Gothic Light Tur;Yu Gothic Light Baltic;
-@Yu Gothic Light Western;@Yu Gothic Light CE;@Yu Gothic Light Cyr;@Yu Gothic Light Greek;
-@Yu Gothic Light Tur;@Yu Gothic Light Baltic;Yu Gothic UI Light Western;
-Yu Gothic UI Light CE;Yu Gothic UI Light Cyr;Yu Gothic UI Light Greek;
-Yu Gothic UI Light Tur;Yu Gothic UI Light Baltic;@Yu Gothic UI Light Western;
-@Yu Gothic UI Light CE;@Yu Gothic UI Light Cyr;@Yu Gothic UI Light Greek;
-@Yu Gothic UI Light Tur;@Yu Gothic UI Light Baltic;Yu Gothic Medium Western;
-Yu Gothic Medium CE;Yu Gothic Medium Cyr;Yu Gothic Medium Greek;Yu Gothic Medium Tur;
-Yu Gothic Medium Baltic;@Yu Gothic Medium Western;@Yu Gothic Medium CE;
-@Yu Gothic Medium Cyr;@Yu Gothic Medium Greek;@Yu Gothic Medium Tur;
-@Yu Gothic Medium Baltic;Yu Gothic UI Semilight Western;Yu Gothic UI Semilight CE;
-Yu Gothic UI Semilight Cyr;Yu Gothic UI Semilight Greek;Yu Gothic UI Semilight Tur;
-Yu Gothic UI Semilight Baltic;@Yu Gothic UI Semilight Western;@Yu Gothic UI Semilight CE;
-@Yu Gothic UI Semilight Cyr;@Yu Gothic UI Semilight Greek;@Yu Gothic UI Semilight Tur;
-@Yu Gothic UI Semilight Baltic;Bahnschrift SemiBold Condensed  Cyr;Bahnschrift SemiBold Condensed  Greek;
-Bahnschrift SemiBold Condensed  Tur;Bahnschrift SemiBold Condensed  Baltic;Bahnschrift SemiBold Condensed  (Vietnamese);
-SimSun-ExtG Western;@SimSun-ExtG Western;Times New Roman CE;
+Sitka Banner (Vietnamese);Yu Gothic Western\*?a?S?V?b?N;Yu Gothic CE\*?a?S?V?b?N;
+Yu Gothic Cyr\*?a?S?V?b?N;Yu Gothic Greek\*?a?S?V?b?N;Yu Gothic Tur\*?a?S?V?b?N;
+Yu Gothic Baltic\*?a?S?V?b?N;@Yu Gothic Western;@Yu Gothic CE;@Yu Gothic Cyr;
+@Yu Gothic Greek;@Yu Gothic Tur;@Yu Gothic Baltic;Yu Gothic UI Western;
+Yu Gothic UI CE;Yu Gothic UI Cyr;Yu Gothic UI Greek;Yu Gothic UI Tur;
+Yu Gothic UI Baltic;@Yu Gothic UI Western;@Yu Gothic UI CE;@Yu Gothic UI Cyr;
+@Yu Gothic UI Greek;@Yu Gothic UI Tur;@Yu Gothic UI Baltic;Yu Gothic UI Semibold Western;
+Yu Gothic UI Semibold CE;Yu Gothic UI Semibold Cyr;Yu Gothic UI Semibold Greek;
+Yu Gothic UI Semibold Tur;Yu Gothic UI Semibold Baltic;@Yu Gothic UI Semibold Western;
+@Yu Gothic UI Semibold CE;@Yu Gothic UI Semibold Cyr;@Yu Gothic UI Semibold Greek;
+@Yu Gothic UI Semibold Tur;@Yu Gothic UI Semibold Baltic;Yu Gothic Light Western;
+Yu Gothic Light CE;Yu Gothic Light Cyr;Yu Gothic Light Greek;Yu Gothic Light Tur;
+Yu Gothic Light Baltic;@Yu Gothic Light Western;@Yu Gothic Light CE;@Yu Gothic Light Cyr;
+@Yu Gothic Light Greek;@Yu Gothic Light Tur;@Yu Gothic Light Baltic;
+Yu Gothic UI Light Western;Yu Gothic UI Light CE;Yu Gothic UI Light Cyr;
+Yu Gothic UI Light Greek;Yu Gothic UI Light Tur;Yu Gothic UI Light Baltic;
+@Yu Gothic UI Light Western;@Yu Gothic UI Light CE;@Yu Gothic UI Light Cyr;
+@Yu Gothic UI Light Greek;@Yu Gothic UI Light Tur;@Yu Gothic UI Light Baltic;
+Yu Gothic Medium Western;Yu Gothic Medium CE;Yu Gothic Medium Cyr;Yu Gothic Medium Greek;
+Yu Gothic Medium Tur;Yu Gothic Medium Baltic;@Yu Gothic Medium Western;
+@Yu Gothic Medium CE;@Yu Gothic Medium Cyr;@Yu Gothic Medium Greek;
+@Yu Gothic Medium Tur;@Yu Gothic Medium Baltic;Yu Gothic UI Semilight Western;
+Yu Gothic UI Semilight CE;Yu Gothic UI Semilight Cyr;Yu Gothic UI Semilight Greek;
+Yu Gothic UI Semilight Tur;Yu Gothic UI Semilight Baltic;@Yu Gothic UI Semilight Western;
+@Yu Gothic UI Semilight CE;@Yu Gothic UI Semilight Cyr;@Yu Gothic UI Semilight Greek;
+@Yu Gothic UI Semilight Tur;@Yu Gothic UI Semilight Baltic;Bahnschrift SemiBold Condensed  Cyr;
+Bahnschrift SemiBold Condensed  Greek;Bahnschrift SemiBold Condensed  Tur;Bahnschrift SemiBold Condensed  Baltic;
+Bahnschrift SemiBold Condensed  (Vietnamese);SimSun-ExtG Western;@SimSun-ExtG Western;
+Times New Roman CE;Times New Roman Cyr;Times New Roman Greek;
+Times New Roman Tur;Times New Roman (Hebrew);Times New Roman (Arabic);
+Times New Roman Baltic;Times New Roman (Vietnamese);Times New Roman CE;
 Times New Roman Cyr;Times New Roman Greek;Times New Roman Tur;
 Times New Roman (Hebrew);Times New Roman (Arabic);Times New Roman Baltic;
-Times New Roman (Vietnamese);Times New Roman CE;Times New Roman Cyr;
-Times New Roman Greek;Times New Roman Tur;Times New Roman (Hebrew);
-Times New Roman (Arabic);Times New Roman Baltic;Times New Roman (Vietnamese);
-Cambria CE;Cambria Cyr;Cambria Greek;Cambria Tur;
-Cambria Baltic;Cambria (Vietnamese);Times New Roman CE;
-Times New Roman Cyr;Times New Roman Greek;Times New Roman Tur;
-Times New Roman (Hebrew);Times New Roman (Arabic);Times New Roman Baltic;
-Times New Roman (Vietnamese);Times New Roman CE;Times New Roman Cyr;
+Times New Roman (Vietnamese);Cambria CE;Cambria Cyr;
+Cambria Greek;Cambria Tur;Cambria Baltic;
+Cambria (Vietnamese);Times New Roman CE;Times New Roman Cyr;
 Times New Roman Greek;Times New Roman Tur;Times New Roman (Hebrew);
 Times New Roman (Arabic);Times New Roman Baltic;Times New Roman (Vietnamese);
 Times New Roman CE;Times New Roman Cyr;Times New Roman Greek;
 Times New Roman Tur;Times New Roman (Hebrew);Times New Roman (Arabic);
-Times New Roman Baltic;Times New Roman (Vietnamese);Calibri CE;
-Calibri Cyr;Calibri Greek;Calibri Tur;
-Calibri (Hebrew);Calibri (Arabic);Calibri Baltic;
-Calibri (Vietnamese);Times New Roman CE;Times New Roman Cyr;
-Times New Roman Greek;Times New Roman Tur;Times New Roman (Hebrew);
-Times New Roman (Arabic);Times New Roman Baltic;Times New Roman (Vietnamese);
-;;;;;;;;;;;;
-;;;;;;;\*
-\*
+Times New Roman Baltic;Times New Roman (Vietnamese);Times New Roman CE;
+Times New Roman Cyr;Times New Roman Greek;Times New Roman Tur;
+Times New Roman (Hebrew);Times New Roman (Arabic);Times New Roman Baltic;
+Times New Roman (Vietnamese);Calibri CE;Calibri Cyr;
+Calibri Greek;Calibri Tur;Calibri (Hebrew);
+Calibri (Arabic);Calibri Baltic;Calibri (Vietnamese);
+Times New Roman CE;Times New Roman Cyr;Times New Roman Greek;
+Times New Roman Tur;Times New Roman (Hebrew);Times New Roman (Arabic);
+Times New Roman Baltic;Times New Roman (Vietnamese);;;;;;
+;;;;;;;;;;;
+;;;\*\*
+
 Normal;\*Default Paragraph Font;\*
 
 
@@ -995,6 +999,7 @@ Table Grid;\*
 
 Bölüm Ibbd3Gamze Çelik
 \*http://schemas.microsoft.com/office/word/2003/wordml
+
 
 \*2450\*
 
@@ -4045,9 +4050,9 @@ Yür
 lü
 kten
  Kal
-dý
-rýld
-ý.
+dýrýl
+dý.
+
  
 
 
@@ -6315,16 +6320,16 @@ arsid343184 34
 7, 12/2018, 
 19/2018, 39/2023, 69/2023
 , 28/2024
-, 10/2026
-, 65/2026
- ve 66/2026 
-Say
-ýlý 
+, 10/2026,
+ 65/2026 ve 66/2026
+ Sa
+yý
+lý 
 Yasalar 
 ile 
-Deðiþtirilmiþ
- ve
- Birleþtirilmiþ 
+Deðiþtirilmiþ 
+ve Birleþ
+tirilmiþ 
 Þe
 kli]
 
@@ -6931,13 +6936,13 @@ tis
 ad
 i 
 Teþe
-bbü
-sle
-ri
- (
-Yö
-net
-im,
+bbüs
+ler
+i 
+(Y
+ön
+eti
+m,
  G
 öz
 et
@@ -8093,8 +8098,8 @@ uþla
 rý
 ný
  a
-nlatý
-r 
+nlat
+ýr 
 ve
  ö
 ze
@@ -8414,11 +8419,11 @@ ay
 ý 
 an
 latýr.
- 
-
 
  
 
+
+ 
 
 
 
@@ -9763,11 +9768,11 @@ anlatýr.
 
  
 
- 
-
- 
-
  2.66/2026
+
+ 
+
+ 
 
  
 
@@ -10052,170 +10057,71 @@ ap
 r.
 
  
- A
-nc
-ak
-, 
-Ku
-ze
-y 
-Kýbr
-ýs 
-Tü
-rk
- Cu
-mh
-ur
-iy
-eti
-nd
-e 
-ve
-ya
- b
-aþ
-ka
- b
-ir
+ Ancak Kuzey Ký
+brýs Türk Cumhuriyetinde veya baþka bir ülkede emekliye ayrýlan hiç
+ kimse sözleþmeli personel olarak istihdam edilemez.   Sözleþmeli personel ile imzalanacak sözleþmelerin 
+süreleri 5
+ (beþ) yýlda 1 (bir) olacak þekilde düzenleni
+r ve herhangi bir zamanda iptal þartýný içerir.
 
- 
- ü
-lk
-ed
-e 
-em
-ek
-li
-ye
- a
-yr
-ýla
-n 
-hiç
- k
-ims
-e 
-sö
+ Sö
 zleþ
-meli
- p
+me
+li p
 er
 so
 nel
- o
-la
-rak i
-st
-ih
-da
-m ed
-ile
-me
-z.
- S
-özle
-þm
-eli 
-pe
-rs
-on
-el 
-ile 
-im
-za
-la
-na
-cak 
-sö
-zleþ
-me
-ler
-in sü
-rele
+in 
+sý
+nýf
+ c
+et
+velle
 ri
-, 5 (beþ
-) 
-yýlda 1 (bir) 
-olacak þekilde düzenlenir
- v
-e h
-er
-ha
-ng
-i 
-bir
- z
-am
-an
-da
- i
-ptal
- þ
+ ile
+ k
 ar
-týn
-ý 
-içer
-ir.
-
- 
- S
-özle
-þm
-eli
- pe
-rs
-on
-eli
-n s
-ýn
-ýf 
-ce
-tv
-eller
-i 
-ile 
-ka
-rþ
-ýl
-ýð
-ý 
-ol
-an 
-ma
-aþ
-lar
-ý, 
-Ma
-li
-ye
- Ý
-þle
-ri
-yle
- G
-öre
-vli
- B
-ak
-an
+þý
 lý
 ðý
-n ö
-ne
-ri
-si
- ile 
+ o
+la
+n m
+aa
+þla
+rý,
+ M
+al
+iy
+e 
+Ýþ
+ler
+iy
+le 
+Gör
+ev
+li 
 Ba
 ka
-nlar
- K
-ur
-ul
-unca
- b
-elir
-le
-nir.
+nl
+ýð
+ýn 
+ön
+er
+is
+i 
+ile B
+ak
+an
+lar 
+Ku
+ru
+lun
+ca 
+beli
+rl
+en
+ir.
 
  
  
@@ -10760,16 +10666,16 @@ n Ýþlevleri
 arsid7744423 
 8. 
  Kamu kurumlarý
- ile kamu kuruluþlarýnda çalýþan personeli ilgilendiren konularda, bu Yasa ve persone
-li ilgilendiren diðer yasalar ile mevzuatýn verdiði görevleri yerine getirmek, yetkileri kullanmak ve deðiþ
-en koþullara uygun olarak personel mevzuatýnýn düzenlenmesini saðlamak, kamu kurumlarý
- ve kamu kuruluþlarýndaki insan kaynaklarý ile ilgili konularda gerekli ç
-alýþmalarý yapmak ve kamu yönetiminin ve teþkilatýnýn geliþ
-tirilmesi amacýyla araþtýrma ve inceleme yaparak, Devlet yapýsýna uygun ö
+ ile kamu kuruluþlarýnda çalýþan personeli ilgilendiren konularda, bu Yasa ve personeli ilgilendiren dið
+er yasalar ile mevzuatýn verdiði görevleri yerine getirmek, yetkileri kullanmak ve deðiþen koþullara uygu
+n olarak personel mevzuatýnýn düzenlenmesini saðlamak, kamu kurumlarý
+ ve kamu kuruluþlarýndaki insan kaynaklarý ile ilgili konularda gerekli çalýþmalarý
+ yapmak ve kamu yönetiminin ve teþkilatýnýn geliþtirilmesi amacýyla araþ
+týrma ve inceleme yaparak, Devlet yapýsýna uygun ö
 neriler geliþtirmek ve bu doðrultuda mevzuatýn hazýrlanmasý ile ilgili gerekli giriþ
-imleri ve çalýþmalarý yapmak üzere Baþbakanlýð
-a baðlý Kamu Yönetimi ve Ýnsan Kaynaklarý Baþkanlýðý
- kurulur. Baþkanlýðýn kuruluþ, görev ve yetkileri Kamu Yönetimi ve Ý
+imleri ve çalýþmalarý yapmak üzere Baþbakanlýða baðlý
+ Kamu Yönetimi ve Ýnsan Kaynaklarý Baþkanlýðý kurulur. Baþkanl
+ýðýn kuruluþ, görev ve yetkileri Kamu Yönetimi ve Ý
 nsan Kaynaklarý Baþkanlýðý (Kuruluþ, Görev ve Çalýþ
 ma Esaslarý) Yasasýnda belirlenir. 
  
@@ -11212,24 +11118,23 @@ la
 þýl
 ama
 dý
-ðý t
-ak
-dird
-e, 
-ka
-mu 
-göre
-vli
-si
- em
-ri
- y
-eri
-ne
- g
-etirir;
- s
-orum
+ðý ta
+kd
+irde,
+ k
+am
+u gö
+rev
+lis
+i e
+mr
+i 
+yer
+in
+e g
+etir
+ir; 
+sorum
 lu
 lu
 k a
@@ -11343,35 +11248,36 @@ getir
 me
 k zor
 unda
-dýrla
-r. Kasýt
- v
-e i
-hm
-al 
-ned
-en
-iy
-le De
-vlete
- v
-erdi
-kle
-ri
- ka
-yýp
- v
-e zar
-arla
-rdan
- ö
-tür
-ü 
-soru
+dý
+rlar
+. Kasýt 
+ve
+ ih
+mal
+ n
+ede
+ni
+yle
+ Dev
+lete 
+ve
+rdik
+ler
+i k
+ay
+ýp 
+ve z
+arar
+lard
+an 
+ötü
+rü
+ soru
 ml
-udu
-rl
-ar.
+ud
+ur
+la
+r.
 
  
  Hi
@@ -11775,16 +11681,16 @@ r.
 
  
 arsid11292148 (A) Kurumlar devaml
-ýlýkla ilgili olarak kart okuyucu sistemi kurmakla yükümlüdü
-rler. Ayrýca kart okuyucu sistemi gözetmek amacýyla da kamera takýlmalýdýr.
+ýlýkla ilgili olarak kart okuyucu sistemi kurmakla yükümlüdürler. Ayrý
+ca kart okuyucu sistemi gözetmek amacýyla da kamera takýlmalýdýr.
 
  (B) Kamu görevlileri, devamlýlýkla ilgili kart okuyucu sistemine uymakla yükü
 mlüdürler.
 
-        Ancak alt yapýnýn kart okuyucu sistemine uygun olmamasý halinde, Kamu Yö
-netimi ve Ýnsan Kaynaklarý Baþkanlýðýndan yazýlý onay almak ko
-þuluyla devam defteri kullanýlabilir. Söz konusu yöntemlerin uygulanmasýndan ve denetiminden Kamu Yö
-netimi ve Ýnsan Kaynaklarý Baþkanlýðý sorumludur.
+        Ancak alt yapýnýn kart okuyucu sistemine uygun olmamasý halinde, Kamu Yönetimi ve Ý
+nsan Kaynaklarý Baþkanlýðýndan yazýlý onay almak koþ
+uluyla devam defteri kullanýlabilir. Söz konusu yöntemlerin uygulanmasýndan ve denetiminden Kamu Y
+önetimi ve Ýnsan Kaynaklarý Baþkanlýðý sorumludur.
 
  
  
@@ -11804,15 +11710,14 @@ arsid11292148
  
 (3)
 
- Kamu görevli
-lerinin tümü (üst kademe yö
-neticisi kadrosuna atanmýþ olup halen görevde olanlar ile üst kademe yöneticisi kadrolarýný
-n baremlerine denk kadrolara atanmýþ olanlar hariç) yukarýdaki (2)nci fýkra ç
-erçevesinde belirlenen yöntemlere uymakla yükümlüdürler.
+ Kamu gö
+revlilerinin tümü (üst kademe yöneticisi kadrosuna atanmýþ olup halen gö
+revde olanlar ile üst kademe yöneticisi kadrolarýnýn baremlerine denk kadrolara atanmýþ
+ olanlar hariç) yukarýdaki (2)nci fýkra çerçevesinde belirlenen yö
+ntemlere uymakla yükümlüdürler.
 
-
-        Söz konusu yöntemlere kurumlarda görev yapan tüm personel de uymakla yük
-ümlüdür. 
+        Söz konusu yöntemlere kurumlarda görev yapan tüm personel de uymakla yükümlü
+dür. 
 
  
  
@@ -12240,24 +12145,23 @@ la
 þýl
 ama
 dý
-ðý t
-ak
-dird
-e, 
-ka
-mu 
-göre
-vli
-si
- em
-ri
- y
-eri
-ne
- g
-etirir;
- s
-orum
+ðý ta
+kd
+irde,
+ k
+am
+u gö
+rev
+lis
+i e
+mr
+i 
+yer
+in
+e g
+etir
+ir; 
+sorum
 lu
 lu
 k a
@@ -12371,35 +12275,36 @@ getir
 me
 k zor
 unda
-dýrla
-r. Kasýt
- v
-e i
-hm
-al 
-ned
-en
-iy
-le De
-vlete
- v
-erdi
-kle
-ri
- ka
-yýp
- v
-e zar
-arla
-rdan
- ö
-tür
-ü 
-soru
+dý
+rlar
+. Kasýt 
+ve
+ ih
+mal
+ n
+ede
+ni
+yle
+ Dev
+lete 
+ve
+rdik
+ler
+i k
+ay
+ýp 
+ve z
+arar
+lard
+an 
+ötü
+rü
+ soru
 ml
-udu
-rl
-ar.
+ud
+ur
+la
+r.
 
  
  Hi
@@ -12803,16 +12708,16 @@ r.
 
  
 arsid11292148 (A) Kurumlar devaml
-ýlýkla ilgili olarak kart okuyucu sistemi kurmakla yükümlüdü
-rler. Ayrýca kart okuyucu sistemi gözetmek amacýyla da kamera takýlmalýdýr.
+ýlýkla ilgili olarak kart okuyucu sistemi kurmakla yükümlüdürler. Ayrý
+ca kart okuyucu sistemi gözetmek amacýyla da kamera takýlmalýdýr.
 
  (B) Kamu görevlileri, devamlýlýkla ilgili kart okuyucu sistemine uymakla yükü
 mlüdürler.
 
-        Ancak alt yapýnýn kart okuyucu sistemine uygun olmamasý halinde, Kamu Yö
-netimi ve Ýnsan Kaynaklarý Baþkanlýðýndan yazýlý onay almak ko
-þuluyla devam defteri kullanýlabilir. Söz konusu yöntemlerin uygulanmasýndan ve denetiminden Kamu Yö
-netimi ve Ýnsan Kaynaklarý Baþkanlýðý sorumludur.
+        Ancak alt yapýnýn kart okuyucu sistemine uygun olmamasý halinde, Kamu Yönetimi ve Ý
+nsan Kaynaklarý Baþkanlýðýndan yazýlý onay almak koþ
+uluyla devam defteri kullanýlabilir. Söz konusu yöntemlerin uygulanmasýndan ve denetiminden Kamu Y
+önetimi ve Ýnsan Kaynaklarý Baþkanlýðý sorumludur.
 
  
  
@@ -12832,15 +12737,14 @@ arsid11292148
  
 (3)
 
- Kamu görevli
-lerinin tümü (üst kademe yö
-neticisi kadrosuna atanmýþ olup halen görevde olanlar ile üst kademe yöneticisi kadrolarýný
-n baremlerine denk kadrolara atanmýþ olanlar hariç) yukarýdaki (2)nci fýkra ç
-erçevesinde belirlenen yöntemlere uymakla yükümlüdürler.
+ Kamu gö
+revlilerinin tümü (üst kademe yöneticisi kadrosuna atanmýþ olup halen gö
+revde olanlar ile üst kademe yöneticisi kadrolarýnýn baremlerine denk kadrolara atanmýþ
+ olanlar hariç) yukarýdaki (2)nci fýkra çerçevesinde belirlenen yö
+ntemlere uymakla yükümlüdürler.
 
-
-        Söz konusu yöntemlere kurumlarda görev yapan tüm personel de uymakla yük
-ümlüdür. 
+        Söz konusu yöntemlere kurumlarda görev yapan tüm personel de uymakla yükümlü
+dür. 
 
  
  
@@ -13572,18 +13476,18 @@ ik
 as
 asý
 nd
-a ve/veya Sosyal Gü
-venlik Yasasýnda ve/veya Kamu Görevinde ve Diðer Sosyal Güvenlik Kurumlarýna Tabi
+a ve/veya Sosyal Güvenlik Yasasý
+nda ve/veya Kamu Görevinde ve Diðer Sosyal Güvenlik Kurumlarýna Tabi
  Olarak
  Yapýlan Hizmetlerin Hesaplanmasý Yasasýnda belirlenen kurallar ç
 erçevesinde emeklilik, yaþlýlýk ve/veya ölüm aylýðý
  alma haklarý vardýr.
 
-     Bu 
-hak, tabi olduklarý ilgili mevzuat çerçevesinde emeklilik ve malullük durumlarýnda kendilerini; ö
-lümleri halinde dul eþ, yetim ve öksüzlerini kapsar.
-
+     Bu hak, tabi olduklarý ilgili mevzuat ç
+erçevesinde emeklilik ve malullük durumlarýnda kendilerini; ölümleri halinde dul eþ
+, yetim ve öksüzlerini kapsar.
  
+
 
 
 
@@ -14800,9 +14704,9 @@ em
 ed
 e, o
 nb
-eþ 
-günü
-n altý
+eþ
+ g
+ünün altý
 nd
 a o
 lan 
@@ -14927,8 +14831,7 @@ yat
  P
 ah
 alýlý
-ð
-ý
+ðý
 
  
  Ö
@@ -15340,275 +15243,275 @@ ve
  Va
 ký
 flar
- 
-Ýda
-res
-in
-de, M
-erk
-ez 
-Ba
-nka
-sý
-nd
-a, Kal
-ký
-nm
-a B
-an
-kas
-ýn
-da 
-ve
-ya
- b
-eled
-iy
-e b
-irlik
-ler
-in
-de, 
-bu
- Yasa
- ku
-ra
-lla
-rý
- ç
-erç
-ev
-esin
-de 
-ve
-ya
- b
-u 
-Ya
-sa 
-kur
-allar
-ý e
-sas
- al
-ýn
+ Ýd
 ar
-ak b
-að
-lý 
-ol
-duk
-lar
-ý ö
-ze
-l 
-ku
-rall
-ar ç
-erç
-ev
 esi
 nd
-e g
-örev
- y
-ap
-an 
-ki
-þile
-ri
-n,
- b
-u 
-ma
-dde
- k
-ap
-sa
-mý
-nd
-a b
-ul
-un
-an  
-he
-rh
-an
-gi 
- b
-ir  
-gör
-ev
-e  
-ki
-min 
- ta
-ra
-fý
-nd
-an  
-ve 
- h
-an
-gi 
-þe
-kil
-de
- at
-an
-dý
-ðý
-na
- v
-ey
-a 
-gör
-ev
-len
-diril
-di
-ði
-ne 
-ba
-ký
-lm
-ak
-sýz
-ýn
-, do
-ðr
-ud
-an  
-doð
-ru
-ya 
- v
-ey
-a  
-gö
-nd
-er
-me 
- y
-ol
-uy
-la  
-he
-rh
-an
-gi 
- b
-ir g
-öre
-ve
- ata
-nm
+e, Mer
+kez
+ B
+ank
 as
-ý v
+ýn
+da, Ka
+lk
+ýn
+ma
+ Ba
+nk
+asý
+nd
+a v
 ey
 a 
-þe
-çi
-lm
-esi h
-ali
+bele
+di
+ye 
+birli
+kle
+ri
 nd
-e, 
+e, b
+u 
+Yasa 
+kur
+all
+ar
+ý 
+çer
+çe
+vesi
+nd
+e v
+ey
+a 
 bu
- Yasa
- k
-ur
-allar
-ý u
-ya
-rý
-nca
- v
-ey
-a 
-ke
-nd
-i 
+ Y
+as
+a ku
+ralla
+rý 
+es
+as 
+alý
+na
+rak
+ ba
+ðlý
+ o
+ldu
+kla
+rý 
 öz
 el
- y
-as
-alar
+ k
+ur
+alla
+r çer
+çe
+ves
+in
+de 
+gör
+ev 
+ya
+pan
+ k
+iþ
+iler
+in
+, 
+bu
+ m
+add
+e 
+ka
+ps
+am
 ýn
 da 
-ve
-ya
- Dai
-rele
-rin 
-(K
-ur
-ul
-uþ, 
- G
-örev 
+bu
+lu
+nan 
+ h
+er
+ha
+ng
+i  
+bir 
+ g
+öre
+ve 
+ k
+im
+in  
+tar
+af
+ýn
+dan 
  v
 e  
-Çal
-ýþm
-a  
-Es
-aslar
-ý)  
-yasala
-rý
+ha
+ng
+i þ
+ek
+ild
+e 
+ata
 nd
-a  ak
-si
-ne 
-kur
-al 
-bu
-lun
-up
- bu
-lu
-nm
-ad
 ýð
 ýn
 a 
-ba
-ký
-lm
-ak
-sýz
-ýn
- o
- y
-asala
-r 
-alt
-ýn
-da 
-dü
-ze
-nl
-em
-e 
+ve
 ya
-pý
-lý
-nc
-ay
-a 
-ka
-dar
- t
-üm
-ün
-e 
+ g
+öre
+vle
+nd
+irild
+ið
+in
+e b
+ak
+ýl
+ma
+ks
+ýzý
+n, 
+doð
+ru
+dan 
+ do
+ðr
 uy
-gu
-la
-nýr.
-
+a  
+ve
+ya 
+ g
+ön
+de
+rm
+e  
+yo
+lu
+yla 
+ h
+er
+ha
+ng
+i  
+bir 
+gör
+ev
+e 
+atan
+ma
+sý 
+ve
+ya
+ þ
+eç
+il
+mesi 
+hal
+in
+de,
+ b
+u 
+Yasa 
+ku
+ralla
+rý 
+uy
+ar
+ýn
+ca 
+ve
+ya
+ k
+en
+di
+ ö
+ze
+l 
+ya
+sala
+rý
+nd
+a v
+ey
+a 
+Dair
+eler
+in (
+Ku
+ru
+luþ
+,  
+Gör
+ev  
+ve 
+ Ç
+alýþ
+ma 
+ E
+sasla
+rý) 
+ y
+asalar
+ýn
+da  a
+ks
+in
+e ku
+ral
+ b
+ul
+unu
+p b
+ul
+un
+ma
+dý
+ðý
+na
+ b
+ak
+ýl
+ma
+ks
+ýzý
+n 
+o 
+yasal
+ar
+ al
+tý
+nd
+a d
+üz
+en
+le
+me
+ y
+ap
+ýl
+ýn
+ca
+ya
+ k
+ad
+ar 
+tü
+mü
+ne
+ u
+yg
+ul
+an
+ýr.
  
+
 
 
 
@@ -15853,78 +15756,79 @@ Gü
 nl
 ük  
  ç
+al
+ýþ
+ma  
+ s
+aa
+tle
+ri  
+ d
+ýþ
+ýn
+da  
+ ç
 alý
 þm
-a   
-sa
-at
-ler
-i   
-dý
-þý
-nd
-a   
-ça
-lýþ
-ma
-yý  
- g
-er
-ek
-tire
-ce
-k n
-iteli
-kli
- o
-ld
-uð
-u 
-Ma
-liy
-e 
-Ýþ
-ler
-iy
-le 
-Gör
-ev
-li 
-Ba
-ka
-nl
-ýk
-ça s
-ap
-tan
-an 
-hi
-zm
-etlerd
-e v
-e 
-öz
-el
- y
-as
-alar
-da
- b
-elir
-tilen d
-uru
-mla
-rda,
- bu Yas
 ay
+ý   
+ge
+re
+ktir
+ec
+ek 
+nitel
+ik
+li 
+ol
+du
+ðu
+ M
+ali
+ye
+ Ý
+þle
+ri
+yle
+ G
+öre
+vli
+ B
+ak
+an
+lý
+kça
+ sa
+pta
+na
+n h
+iz
+metle
+rde 
+ve
+ ö
+ze
+l 
+ya
+sala
+rd
 a 
-ba
-ðlý
- k
-uru
-mla
-rda ç
-alý
+beli
+rtilen
+ du
+rum
+lard
+a, b
+u Yasa
+ya
+ b
+að
+lý 
+ku
+rum
+lard
+a ça
+lý
 þa
 n 
 ka
@@ -16154,56 +16058,55 @@ aat
 
  
  b
-aþý
+aþý 
+biri
+mi
+ esas
+ al
+ýn
+ýr 
+ve
+ y
+uk
+ar
+ýd
+a b
+elir
+tilen 
+bire
  b
-irim
-i 
-esas 
-alý
-nýr
- v
+ir 
+no
+kta
+ b
+ir (1
+.1
+)   
+ve  
+ b
+ire   b
+ir   
+no
+kta   
+beþ  
+ (1
+.5
+)   
+ký
+stasý  
+ bu  
+ il
+ke
+ler ç
+erç
+ev
+esi
+nd
 e 
-yu
-ka
-rý
-da
- beli
-rtilen
- b
-ire 
-bir
- n
-ok
-ta 
-bir 
-(1.
-1)  
- v
-e   
-bire  
- bir  
- n
-ok
-ta   b
-eþ   
-(1.
-5)  
- k
-ýs
-tasý   b
-u   
-ilk
-el
-er çer
-çe
-ves
-in
-de
- u
-yg
-ul
-an
-ýr.
+uy
+gu
+la
+nýr.
 
  
  (4
@@ -16933,72 +16836,72 @@ lu
 örev
  ve
  Ç
-alý
-þm
-a 
-Es
-aslar
-ý) 
-ya
-sala
-rý
-nd
-a 
-aks
-in
-e k
-ur
-al b
-ul
-unu
-p 
+alýþ
+ma
+ E
+sasla
+rý)
+ y
+as
+alar
+ýn
+da
+ a
+ksi
+ne 
+ku
+ral 
 bu
 lun
-ma
-dý
-ðý
-na 
-ba
-ký
-lm
-aks
-ýz
-ýn o 
-yasalar
- alt
+up
+ b
+ul
+unm
+ad
+ýð
 ýn
-da 
-dü
-ze
-nl
-em
-e 
+a b
+ak
+ýl
+ma
+ksý
+zýn o
+ y
+asalar 
+altý
+nd
+a d
+üz
+en
+le
+me
+ y
+ap
+ýl
+ýn
+ca
 ya
-pý
-lý
-nc
-ay
-a 
-ka
-dar
- t
-üm
-ün
-e 
-uy
-gu
-la
-nýr.
-
+ k
+ad
+ar 
+tü
+mü
+ne
+ u
+yg
+ul
+an
+ýr.
  
 
 
 
 
+
  
-2
-.3
-/20
+2.
+3/
+20
 11
 
  
@@ -18383,69 +18286,69 @@ ev
 ye
 ri
 ne
- t
-aþý
-ma
-k a
-ma
-cý
-yla
- y
-ap
-tý
-ðý taþ
-ý
-ma
- g
-id
-er
-ler
-i, 
-ha
-rc
+ taþ
+ým
+ak 
 am
-ala
-rýn
- bel
-ge
-len
-diri
-lm
-es
-i k
-oþu
-lu
-yl
-a, B
-ak
-an
-lar 
-Ku
-ru
-lu
-nun 
-bu
- ko
-nud
-a 
-çýk
-ar
 ac
-að
-ý b
-ir 
-tü
-zü
-k çer
-çe
-ves
-in
+ýy
+la 
+ya
+pt
+ýð
+ý taþ
+ým
+a 
+gi
 de
- k
+rle
+ri,
+ h
 ar
-þýl
-an
-ýr.
+ca
+ma
+lar
+ýn b
+elg
+ele
+nd
+iril
+me
+si 
+ko
+þul
+uy
+la, 
+Ba
+ka
+nlar
+ K
+ur
+ul
+unu
+n b
+u 
+konu
+da
+ çý
+ka
+ra
+ca
+ðý
+ bir
+ t
+üz
+ük ç
+erç
+ev
+esi
+nd
+e 
+ka
+rþ
+ýla
+ný
+r.
  
 
 
@@ -18457,32 +18360,31 @@ an
 
  
 (2)
-
  
-Gör
-ev  
-ye
-ri
-ni 
- d
-eð
-iþ
-tire
-n  
-ka
-mu 
- g
-öre
-vli
-si
-ni
-n  
-ev 
+G
+örev 
+ y
+er
+in
+i  
+de
+ði
+þtir
+en 
+ k
+am
+u  
+gör
+ev
+lis
+in
+in 
  e
-þy
-alar
-ýn
-ýn
+v  
+eþ
+yala
+rý
+nýn
 
  
  b
@@ -19619,144 +19521,143 @@ an
  y
 ans
 ýzl
-ýk
- öde
-vi
-ni
- z
-edele
-ye
-ce
-k v
-e 
-36.
- m
-add
-ed
-e 
-beli
-rtilen
- s
-iy
-as
-al 
-et
-ki
-nli
-kle
-rde 
-bu
-lunm
-a 
-yas
-að
-ýn
-a 
-ter
-s d
-üþe
-cek
- b
-içi
-md
-e 
-ga
-zete
- v
-e 
-de
-rg
+ýk ö
+dev
+in
 i 
-ya
-za
-rl
-ýð
-ý 
-ya
-pa
+zed
+eley
+ec
+ek 
+ve
+ 36
+. 
 ma
-z, 
-Ra
-dy
-o 
-ve
- T
-elev
-iz
-yo
-n g
-ib
-i 
-ya
-yý
-n 
-ar
-aç
-lar
-ýy
-la b
-u 
-yönd
-ek
-i 
-görü
-þ 
-ve
- dü
-þü
-nc
-ele
-ri
-ni a
-çý
-kl
-ay
-am
-az 
-ve 
+dde
+de
+ b
+elir
+tilen 
 si
 ya
 sal
- n
-iteli
-kli
- bir
+ e
+tk
+in
+lik
+lerd
+e b
+ul
+unma
+ y
+asa
+ðý
+na
+ te
+rs 
+düþ
+ec
+ek 
+biç
+im
+de
  g
 az
 ete 
 ve
-ya
  d
 er
 gi
-nin
  y
-ön
-et
-im
-in
-e 
-katýl
+az
+ar
+lý
+ðý
+ y
+ap
 am
 az
-. 34
-. 
+, R
+ad
+yo
+ v
+e 
+Tele
+vi
+zy
+on 
+gi
+bi
+ y
+ay
+ýn
+ a
+ra
+çla
+rý
+yla 
+bu
+ y
+önde
+ki
+ g
+örüþ
+ v
+e 
+düþ
+ün
+ce
+ler
+in
+i aç
+ýk
+la
+ya
+maz
+ v
+e s
+iy
+as
+al 
+nitel
+ik
+li b
+ir 
+ga
+zete
+ v
+ey
+a 
+de
+rg
+in
+in 
+yö
+ne
+ti
+mi
+ne
+ k
+atýla
 ma
-dde 
-kur
-allar
-ý 
-sa
-kl
-ýd
-ýr.
+z. 
+34.
+ m
+add
+e ku
+ralla
+rý
+ s
+ak
+lý
+dýr.
+
  
 
 
 
 
- 
-A
+ A
 yr
 ýcalý
 k tan
@@ -22597,57 +22498,56 @@ ak
  k
 oþu
 lu
-yl
-a, s
-ýn
-ýf
+yla, 
+sý
+ný
+f
 ýn
 ýn
  d
 ýþ
-ý
+ýn
+da
+ b
+ir 
+sý
+ný
+fta
+ v
+e 
+sý
+ný
+fý
+ný
+n 
+içi
 nd
-a 
-bir
- s
-ýn
-ýf
-ta 
-ve
- s
-ýn
-ýf
-ýn
-ýn
- iç
-in
-de
-ki
- d
-er
-ec
-esind
-en d
-ah
-a 
-aþa
-ðý 
+ek
+i 
 de
 re
-ce
+cesin
+den 
+da
+ha
+ aþ
+að
+ý d
+er
+ec
+ed
+ek
+i 
+bir
+ gör
+ev
 de
-ki
- b
-ir g
-öre
-vd
-e 
-ça
-lýþ
-týrýl
-am
-az
-.
+ ç
+alý
+þtý
+rýla
+ma
+z.
 
  
  A
@@ -24110,22 +24010,21 @@ a
 öng
 örü
 len 
-asgari nitelikleri taþý
-mak gerekir. 
- 
-
-
-
-
-
-
+asgari nitelikleri taþýmak gerekir. 
 
  
-2
-.35
-/2
-004
 
+
+
+
+
+
+
+ 
+2.
+35/
+200
+4
 
  
  53
@@ -24260,10 +24159,9 @@ mak gerekir.
 
 arsid7408489 Üst kademe yö
 neticiliði kadrolarýna atananlara, görevden 
-alýnmalarý halinde, Üst Kademe Yöneticileri Yasasý
-nýn ilgili madde kurallarý uygulanýr. 
+alýnmalarý halinde, Üst Kademe Yöneticileri Yasasýnýn ilgili madde kurallarý
+ uygulanýr. 
  
-
 
 
 
@@ -27124,8 +27022,7 @@ ri
 k,   
  s
 ism
-ik
-,
+ik,
 
  
  j
@@ -27212,48 +27109,47 @@ Cu
 mh
 ur
 iyeti Yasala
-r
-ýn
-a 
-ve
- u
-lus
+rý
+na
+ v
+e 
+ul
+usla
+ra
+rasý 
+me
+vz
+uata
+ uy
+gu
+n o
 lar
-ar
-asý m
-ev
-zu
-ata u
-yg
-un 
-ola
-rak
- yü
-rüten
- k
-am
-u g
-öre
-vliler
-in
-i 
+ak 
+yürü
+ten 
 ka
-ps
-ar
-.
- 
-
-
-
-
-
-
-
- 
+mu 
+gör
+ev
+lileri
+ni
+ k
+ap
+sa
+r.
 
  
-(ii)
 
+
+
+
+
+
+
+ 
+ 
+(
+ii)
  
 Bu    
  s
@@ -28378,17 +28274,17 @@ r.
 (
 e)
  
-T
-ap
-u 
-ve
- Ka
-dastro
- Hiz
-me
-tler
-i 
-Sýn
+Ta
+pu
+ v
+e 
+Kad
+astro 
+Hizm
+etle
+ri
+ S
+ýn
 ýf
 ý 
 (Dört
@@ -28725,32 +28621,31 @@ lun
 u b
 itir
 mi
-þ 
-ol
-mak
- k
-oþ
-ul
-du
-r.
-
+þ o
+lm
+ak 
+ko
+þu
+ld
+ur
+.
  
 
 
 
 
 
- 
 
  
-(g
-)
  
-Ma
-tb
-aa
-cýlýk
- Hi
+(
+g)
+ 
+M
+at
+ba
+acýlý
+k Hi
 zm
 etler
 i 
@@ -30082,17 +29977,17 @@ teler
 in
 in 
 ha
-zýrla
-nmasý, 
-b
+zý
+rlanm
+asý, b
 asýl
-masý
- v
-e d
-að
-ýtýl
-masý,
- ta
+m
+asý 
+ve 
+da
+ðýtý
+lm
+asý, ta
 sa
 rý 
  v
@@ -30168,186 +30063,141 @@ rm
 as
 ý, M
 eclis a
-raþt
-ýr
-ma
-sý
- v
-e 
-güv
-ens
-iz
-li
-k ö
-ne
-rg
-eler
+ra
+þtý
+rm
+as
+ý 
+ve
+ g
+üve
+nsi
+zl
+ik 
+ön
+er
+gele
+ri
+nin 
+ge
+re
+ktir
+dið
+i  s
+ek
+rete
+rl
+ik  
+hi
+zm
+etler
 in
-in g
+i,  
+ge
+re
+ði
+ne 
+ve
+ y
+ön
+er
+iler
+e u
+ygu
+n 
+ola
+rak
+ y
+er
+in
+e 
+ge
+tire
+n; 
+Baþ
+ka
+nl
+ýð
+ýn  Ge
+ne
+l  
+Ku
+ru
+la  
+su
+nu
+þ  
+iþ
+le
+mle
+ri
+ni
+n v
+e 
+Gen
+el K
+uru
+l  
+yö
+net
+im
+ler
+in
+in 
+ g
 er
 ek
-tirdi
-ði  
-se
-kr
-eter
-li
-k  h
+tir
+di
+ði 
+ha
+zýrl
+ýk
+ h
 iz
 metle
 ri
-ni, 
- g
-er
-eð
-in
-e v
-e 
-yö
-ne
-rile
-re 
-uy
-gun
- o
-lar
-ak 
+nin 
 ye
 ri
 ne
  g
-et
-iren
-; B
-aþk
+etir
+il
+me
+si
+nd
+e y
+ard
+ým
+cý 
+ola
+n;
+ B
+aþ
+ka
+nl
+ýk Di
+va
+ný
+ ile
+ D
 an
-lý
-ðý
-n  Gen
-el 
- K
+ýþ
+ma K
 ur
-ula 
- s
-un
-uþ 
- i
-þl
-em
-ler
-in
-in 
-ve
- Ge
-nel 
-Ku
-rul 
- y
-ön
-eti
-mle
-ri
-ni
-n  
+ul
+u 
+Kar
+ar
+lar
+ýn
+ýn 
 ge
 re
-kt
-ird
-ið
-i h
-az
-ýrlý
-k 
-hi
-zm
-etler
-in
-in y
-er
-in
-e 
-geti
-ri
-lm
-es
-in
-de 
-ya
-rdý
-mcý
- o
-lan
-; 
-Ba
-þk
-an
-lýk D
-iv
-an
-ý 
-ile 
-Da
-ný
-þm
-a Ku
-ru
-lu
- Ka
-ra
-rla
-rý
-ný
-n g
-er
-ek
-tird
-ið
-i 
-ka
-yýt, 
-dos
-ya
-la
-ma
- v
-e 
-ya
-yý
-na
- h
-az
-ýr
-la
-ma 
-hi
-zm
-etler
-in
-i y
-ön
-er
-iler 
-çer
-çe
-ves
-in
-de 
-yür
-üt
-en
-; Si
-yasal
- P
-ar
-tiler, Gr
-up
-lar 
-ve
- Millet
-ve
-killeri ile
- il
-gili
+ktir
+di
+ði
  k
 ay
 ýt, do
@@ -30356,119 +30206,123 @@ al
 am
 a 
 ve
- dö
-kü
-ma
-nta
-sy
-on 
-hi
-zm
-et
-ler
-in
-i, y
-ön
-er
-iler  
-çer
-çe
-ves
-in
-de 
  y
-er
-in
-e  
-geti
-ren 
-ve K
-om
-itelerd
-e  
-se
-kr
-eter
-li
-k h
+ay
+ýn
+a 
+ha
+zý
+rl
+am
+a h
 iz
 metle
 ri
 ni 
-yür
-üt
-en
-; y
-asa 
-kü
-tü
-kle
-ri
-ni 
 yö
 ne
-ri
-ler
+riler
  ç
 erç
 ev
-esin
-de 
-dü
-ze
-nl
-ey
-en
-; 
-yasa
- b
-irleþt
-irm
-e ça
-lýþ
-mala
-rý
-na 
-ya
-rdý
-mcý
- ol
-an
-; 
-yasa
+esi
+nd
+e yü
+rü
+te
+n; S
+iy
+asal 
+Pa
+rtiler, G
+ru
+plar
  v
 e 
+Milletv
+ek
+illeri ile 
+ilg
+ili 
 ka
-rar
- d
-izin
-ler
-in
-i t
-ut
-an
-; y
-asa
+yýt, 
+dos
+ya
+la
 ma
- f
-aa
-li
-yetle
+ v
+e 
+dök
+üm
+an
+tas
+yo
+n h
+iz
+me
+tle
+ri
+ni, 
+yö
+ne
+riler 
+ ç
+erç
+ev
+esi
+nd
+e  
+ye
 ri
 ne 
-ili
-þk
+ g
+etir
+en v
+e Ko
+mitele
+rde 
+ s
+ek
+rete
+rl
+ik 
+hi
+zm
+etler
 in
+i yü
+rü
+te
+n; 
+yasa
+ k
+üt
+ük
+ler
+in
+i y
+ön
+er
+il
+er 
+çer
+çe
+vesi
+nd
+e d
+üz
+en
+le
+ye
+n;
  y
-ýllý
-k 
-ra
-porla
-rýn 
-ha
-zýrla
-nm
-as
+asa 
+birleþ
+tir
+me ç
+alý
+þm
+alar
 ýn
 a y
 ard
@@ -30476,81 +30330,122 @@ ard
 cý o
 la
 n;
- v
-e 
-ge
-nel
-de 
+ y
+asa 
+ve
+ k
+ar
+ar 
+dizi
+nle
+ri
+ni 
+tu
+ta
+n; 
 yas
 am
 a 
-hi
-zm
+fa
+al
+iy
 etler
-i 
-ile 
-pa
-rl
-am
-en
-ter 
-hi
-zm
-etle
-ri
-ni
-n g
-er
-ek
-tirdi
-ði 
-se
-kr
-eter
-lik 
-hi
-zm
-etler
-i 
-ile 
-id
-ar
-i, tek
-nik
- v
-e 
+in
+e i
+liþ
+ki
+n 
+yýll
+ýk
+ r
+apor
+lar
+ýn h
+az
+ýrlan
 ma
-li
+sý
+na 
+ya
+rdý
+mcý 
+ol
+an
+; 
+ve
+ g
+en
+eld
+e y
+asa
+ma
  h
 iz
 metle
-rin 
-yür
-üt
-ül
-mes
+ri
+ ile
+ p
+ar
+la
+me
+nter
+ h
+iz
+me
+tler
 in
-de 
-ya
-rdý
-mcý
- g
-öre
-vler
- ü
-stl
-en
-en k
-am
-u 
+in 
+ge
+re
+ktir
+dið
+i s
+ek
+rete
+rlik
+ h
+iz
+metle
+ri
+ ile
+ i
+da
+ri, te
+kn
+ik 
+ve
+ m
+al
+i 
+hi
+zm
+etler
+in yü
+rü
+tü
+lm
+esi
+nd
+e y
+ard
+ým
+cý 
 gör
 ev
-lileri
-ni 
+ler 
+üs
+tle
+nen 
 ka
-ps
-ar
-.
+mu
+ g
+öre
+vliler
+in
+i k
+ap
+sa
+r.
 
  
  (
@@ -31256,39 +31151,38 @@ r.
 
 
 
-
  
+
  
 (b)
 
- 
-Eð
-iti
-m 
-Hiz
-metle
-ri
- S
-ýn
-ýf
-ý 
-(Üç
- d
-er
-ec
-eli)
-:
- 
-
-
-
-
-
-
-
+ E
+ðit
+im
+ Hi
+zm
+etler
+i 
+Sý
+ný
+fý
+ (
+Üç 
+de
+re
+celi
+):
 
  
 
+
+
+
+
+
+
+
+ 
  
 (
 i)
@@ -31546,8 +31440,8 @@ ete
 rlik
  v
 e b
-aþar
-ýlý
+aþa
+rýlý
 lý
 kta  
 ol
@@ -33838,24 +33732,24 @@ ur
 
  
  (
-k)Dý
-þi
-þle
-ri
- Hi
-zm
-etle
-ri
- S
-ýn
-ýf
-ý 
-(Üç
- d
-er
-ec
-eli)
-:
+k)
+Dýþ
+iþ
+ler
+i 
+Hiz
+me
+tler
+i 
+Sý
+ný
+fý
+ (
+Üç 
+de
+re
+celi
+):
 
  
  (
@@ -33920,50 +33814,50 @@ me
 rk
 ez 
 ör
-gü
-tle
-ri
-nd
-e d
-ýþ
-iþ
+güt
 ler
-i h
-iz
-metle
-ri
-ni 
-sa
-pta
-na
-n 
-polit
-ik
-alar 
-ve
- k
-ar
-ar
-lar çer
-çe
-ves
 in
-de
- y
-ür
-üt
-en
- k
-am
-u 
-gö
-re
-vlileri
-ni
- k
+de 
+dý
+þi
+þle
+ri 
+hi
+zm
+etler
+in
+i s
 ap
-sa
-r.
+tan
+an
+ po
+liti
+kalar
+ v
+e 
+ka
+ra
+rlar ç
+erç
+ev
+esi
+nd
+e 
+yü
+rü
+te
+n 
+ka
+mu
+ g
+ör
+ev
+lilerin
+i 
+ka
+ps
+ar
+.
 
  
  2
@@ -34214,45 +34108,149 @@ i
  
 ve 
  y
-önl
-en
-diri
-lm
-es
-in
-e 
-il
-iþ
-kin 
- h
-iz
-metle
+önle
+nd
+iril
+me
+si
+ne
+ i
+li
+þk
+in  
+hi
+zm
+etler
+i 
+ye
 ri
- y
-er
+ne
+
+ 
+
+
+ 
+g
+etir
+en 
+ka
+mu
+ g
+öre
+vliler
 in
-e
+i 
+ka
+ps
+ar
+.
+ 
+
+
+
+
+ 
+7
+.44
+/1
+982
+ 
+(
+ii)
+ 
+B
+u   
+sý
+ný
+fa  
+ g
+ireb
+il
+me
+k   
+içi
+n   
+ik
+tis
+at,   
+mal
+iy
+e,
  
 
 
 
  
-geti
-ren
+
+ 
+mu
+ha
+se
+be, 
+ i
+stati
+sti
+k, 
  k
-am
-u 
-gör
-ev
-lileri
-ni
- k
-ap
-sa
-r.
+oope
+rati
+fçi
+li
+k, 
+ i
+þle
+tm
+e,
+ 
+
+
+
+
 
  
 
+ 
+huk
+uk
+ v
+e 
+be
+nz
+eri
+ kon
+ula
+rda
+ ün
+iv
+er
+site,
+ a
+ka
+de
+mi
+
+ 
+
+
+
+ 
+ 
+v
+ey
+a y
+üks
+ek 
+oku
+l 
+biti
+rm
+iþ 
+ol
+mak
+ v
+ey
+a
+ 
 
 
 
@@ -34263,111 +34261,7 @@ r.
 2
  
 (
-ii)
- 
-Bu  
- s
-ýn
-ýf
-a   
-gire
-bi
-lm
-ek  
- iç
-in  
- i
-kti
-sat,  
- m
-ali
-ye,
-
- 
-
-
-
- 
- 
-m
-uh
-as
-eb
-e,  
-is
-tatis
-tik
-,  
-koop
-er
-atif
-çil
-ik
-,  
-iþ
-let
-me,
-
- 
-
-
-
-
-
- 
- 
-h
-uku
-k 
-ve
- b
-en
-zer
-i k
-onu
-lard
-a 
-üni
-ve
-rs
-ite, 
-ak
-ad
-em
-i
- 
-
-
-
- 
-
- 
-ve
-ya
- yük
-sek
- ok
-ul
- b
-itir
-miþ
- o
-lm
-ak 
-ve
-ya
-
- 
-
-
-
- 7
-.44
-/1
-982
-
- 
-(iii)
+iii)
  
 L
 is
@@ -34393,29 +34287,28 @@ dört
  
 
 
+ 
 
  
- 
-y
-ýl 
+yý
+l 
 fiil
 en 
 baþa
-rý
-lý te
+rýlý
+ te
 ft
-iþ
- y
-ap
-mý
-þ 
-Te
-ftiþ
- ve
- Ne
-za
-ret
-
+iþ 
+ya
+pm
+ýþ
+ T
+ef
+tiþ v
+e 
+Nez
+ar
+et
  
 
 
@@ -34423,10 +34316,11 @@ ret
 
 
  
+
  
-Sa
-nd
-ýð
+San
+dý
+ð
 ý 
 pe
 rs
@@ -34849,10 +34743,10 @@ miþ
  o
 lm
 ak k
-o
-þu
-ld
-ur.
+oþ
+ul
+du
+r.
 
  
  (
@@ -35939,57 +35833,57 @@ im
 lân
 la
 ma
-sý
- y
-ap
-ýl
-ma
-sý
-nd
-a; t
-ur
+sý 
+ya
+pý
+lm
+as
+ýn
+da; 
+tu
+ri
+st
+ik       
+ i
+þl
+etm
+ele
+rin 
+de
+netle
+nm
+es
+in
+de; 
+otelcil
+ik
+ v
+e 
+Tu
+rizm
+ E
+ðit
+im 
+Me
+rk
+ez
+in
+de,
+ mu
+tf
+ak
+, 
+se
+rv
 is
-ti
-k        
-iþ
-let
-me
-ler
-in d
-en
-etlen
-me
-si
-nd
-e; o
-telcili
-k 
-ve
- T
-ur
-izm 
-Eð
-iti
-m M
-er
-ke
-zi
-nd
-e, 
-mut
-fa
-k,
- s
-er
-vi
-s,
- k
-at    
-hi
-zm
-etler
-i 
-ve
+, 
+kat   
+ h
+iz
+metle
+ri
+ v
+e
 
  
  ö
@@ -37147,9 +37041,9 @@ arsid11739315
 
 arsid11739315 Atandýklarý
  hizmet sýnýfýnýn öngördüðü eð
-itim düzeyinin üzerinde eðitim görenlere, ilgili eð
-itim kurumundan diploma almak koþulu ile öðrenim gördükleri her eðitim yýlý
-na karþýlýk 1 (bir) kademe ilerlemesi
+itim düzeyinin üzerinde eðitim görenlere, ilgili eðitim kurumundan diploma almak koþ
+ulu ile öðrenim gördükleri her eðitim yýlýna karþý
+lýk 1 (bir) kademe ilerlemesi
  verilir.
 
  
@@ -37159,15 +37053,14 @@ na karþýlýk 1 (bir) kademe ilerlemesi
  
 arsid11739315 
 Yukarýdaki (A) bendi uyarý
-nca verilecek kademe ilerlemeleri hiçbir þekilde toplam 4 (dört) kademe ilerl
-emesinden fazla olamaz. 
- 
-
-
-
+nca verilecek kademe ilerlemeleri hiçbir þekilde toplam 4 (dört) kademe ilerlemesinden fazla olamaz. 
 
  
 
+
+
+
+ 
 
 
 
@@ -37193,8 +37086,8 @@ emesinden fazla olamaz.
  
 
 arsid9786102 Bulunduklarý
- kadro görevi ile ilgili yüksek lisans (master) diplomasý almýþ olanlara belgelendirmek koþuluyla bulunduklarý
- derece içerisinde 1 (bir) kademe ilerlemesi verilir.
+ kadro görevi ile ilgili yüksek lisans (master) diplomasý almýþ olanlara belgelendirmek koþ
+uluyla bulunduklarý derece içerisinde 1 (bir) kademe ilerlemesi verilir.
 
  
  
@@ -37203,32 +37096,31 @@ arsid11739315
  
  
 arsid11739315 Bulunduklar
-ý kadro görevi
- ile ilgili doktora yapanlara ve týpta uzmanlýk belgesi alanlara belgelendirmek koþuluyla bulunduklarý derece iç
-erisinde 3 (üç) kademe ilerlemesi uygulanýr. 
+ý kadro görevi ile ilgili doktora yapanlara ve týpta uzmanlý
+k belgesi alanlara belgelendirmek koþuluyla bulunduklarý derece içerisinde 3 (üç
+) kademe ilerlemesi uygulanýr. 
 
-        Ancak bulunduklarý kadro görevi ile ilgili yüksek lisans (master) derecesi alýp, 1 (bir) ka
-deme ilerlemesinden yararlanan bir kamu gö
-revlisine, bulunduðu kadro görevi ile ilgili doktora yapmasý halinde 2 (iki) kademe ilerlemesi uygulanýr.
-
- 
-
-
-
-
-
+        Ancak bulunduklarý kadro görevi ile ilgili yüksek lisans (master) derecesi alý
+p, 1 (bir) kademe ilerlemesinden yararlanan bir kamu görevlisine, bulunduðu kadro g
+örevi ile ilgili doktora yapmasý halinde 2 (iki) kademe ilerlemesi uygulanýr.
 
  
 
+
+
+
+
+
  
 
- (4
+ 
+ 
+(4
 )
  
 
 arsid9786102 Bu madde uyarý
 nca verilecek kademe ilerlemeleri hiçbir þekilde toplam 7 (yedi) kademe ilerlemesinden fazla olamaz. 
-
  
 
 
@@ -37236,24 +37128,25 @@ nca verilecek kademe ilerlemeleri hiçbir þekilde toplam 7 (yedi) kademe ilerle
 
 
 
- 
 
  
 
- (5
+ 
+ 
+(5
 )
  
-Bu madde uyarý
-nca verilecek kademe ilerlemeleri, Kamu Yönetimi ve Ýnsan Kaynaklarý Baþkanlýðý tarafý
-ndan bu madde uyarýnca yapýlacak deðerlendirme neticesinde verilecek uygunluk bildirimi doðrultusunda uygulanýr.
-
+Bu madde uyarýnca verilecek kademe ilerlemeleri, Kamu Yönetimi ve Ý
+nsan Kaynaklarý Baþkanlýðý tarafýndan bu madde uyarýnca yapý
+lacak deðerlendirme neticesinde verilecek uygunluk bildirimi doðrultusunda uygulanýr.
  
 
 
 
 
 
- Ý
+ 
+Ý
 KÝ
 NC
 Ý 
@@ -38332,8 +38225,9 @@ ndan
 an
 ma
  ya
-pýla
-bilir.
+pý
+lab
+ilir.
  
 
 
@@ -38342,30 +38236,30 @@ bilir.
 
 
  
-9.
-44/
-198
-2
+9.44
+/1
+982
  
 
- B
-u   
-kadro
-lar   
-he
-rha
-ng
-i   
-bir   
-hi
-zm
-et   s
+ 
+Bu  
+ k
+adrolar  
+ h
+er
+han
+gi  
+ b
+ir   h
+iz
+met  
+ s
 ýn
 ýf
 ýn
-ýn  
- en  
- al
+ýn   
+en   
+al
 t
 
  
@@ -38817,16 +38711,16 @@ r, atan
 dý
 kla
 rý 
-kad
-ronu
+kadro
+nu
 n 
-gör
-ev,
- y
-etki
+göre
+v,
+ yet
+ki
  v
-e 
-sorum
+e s
+orum
 lu
 luk
 larý
@@ -39418,8 +39312,9 @@ ndan
 an
 ma
  ya
-pýla
-bilir.
+pý
+lab
+ilir.
  
 
 
@@ -39428,30 +39323,30 @@ bilir.
 
 
  
-9.
-44/
-198
-2
+9.44
+/1
+982
  
 
- B
-u   
-kadro
-lar   
-he
-rha
-ng
-i   
-bir   
-hi
-zm
-et   s
+ 
+Bu  
+ k
+adrolar  
+ h
+er
+han
+gi  
+ b
+ir   h
+iz
+met  
+ s
 ýn
 ýf
 ýn
-ýn  
- en  
- al
+ýn   
+en   
+al
 t
 
  
@@ -39903,16 +39798,16 @@ r, atan
 dý
 kla
 rý 
-kad
-ronu
+kadro
+nu
 n 
-gör
-ev,
- y
-etki
+göre
+v,
+ yet
+ki
  v
-e 
-sorum
+e s
+orum
 lu
 luk
 larý
@@ -40366,97 +40261,96 @@ ak
  k
 oþu
 lu
-yl
-a, 
-Ka
-mu
- Hi
-zm
-eti 
-Ko
-mi
-sy
-onu
-'n
-a b
-ild
-irirler
-, Ma
-liy
-e Ý
-þle
-ri
-yle
- G
-öre
-vli
- B
-ak
-an
-lý
-ktan 
-uy
-gun
-lu
-k b
-ild
-iri
-mi alý
-nm
-ad
+yla,
+ K
+am
+u 
+Hiz
+meti
+ K
+om
+is
+yo
+nu'
+na 
+bil
+dirirle
+r, M
+ali
+ye
+ Ýþ
+ler
+iy
+le 
+Gör
+ev
+li 
+Ba
+ka
+nl
 ýk
-ça
-, 
-Ka
-mu
- Hi
-zm
-eti 
-Ko
-mi
-sy
-onu'
-nca 
-bu
- Y
-as
-an
-ýn
- 6
-0
-ýn
-cý 
-ve
- 61
-i
-nci 
+tan u
+yg
+unl
+uk 
+bil
+dir
+im
+i alýn
 ma
-dde
- ku
-ralla
-rý
- ç
-er
-çe
-ve
-si
-nd
+dý
+kç
+a,
+ K
+am
+u 
+Hiz
+meti
+ K
+om
+is
+yonu
+'n
+ca b
+u 
+Ya
+sa
+ný
+n 
+60
+ý
+ncý
+ v
 e 
-he
-rh
-an
-gi
- b
-ir 
-iþ
-le
-m 
-ya
-pý
-lm
-az.
- 
+61
+in
+ci m
+add
+e 
+kur
+allar
+ý 
+çe
+rç
+ev
+es
+in
+de
+ h
+er
+ha
+ng
+i 
+bir
+ i
+þl
+em
+ y
+ap
+ýl
+maz.
 
+ 
 
 
 
@@ -40576,61 +40470,61 @@ yg
 un
 lu
 k 
-gö
-rüþ
-ü 
-alýn
-ma
-sý
- z
-orun
-lu
-du
-r.
- M
-al
-iy
-e 
-Ýþ
-ler
-iy
-le 
-Gör
-ev
-li 
-Ba
-ka
-nl
-ýk
-tan u
-yg
-un
-lu
-k 
 görü
 þü
- al
-ýn
-ma
-dý
-kç
-a,
- K
-am
-u 
-Hiz
-meti
- K
-om
-isy
-on
-un
-ca 
-bu
- Y
+ alý
+nm
 as
+ý 
+zor
+unl
+ud
+ur
+. 
+Ma
+li
+ye
+ Ý
+þle
+ri
+yle
+ G
+öre
+vli
+ B
+ak
 an
-ýn
+lý
+ktan 
+uy
+gu
+nl
+uk
+ g
+örüþ
+ü 
+alý
+nm
+ad
+ýk
+ça
+, 
+Ka
+mu
+ Hi
+zm
+eti 
+Ko
+mis
+yo
+nu
+nca
+ b
+u 
+Ya
+sa
+ný
+n
 
  
  60
@@ -40794,31 +40688,30 @@ aç
 adro
 lar 
 ay
-rýc
-a 
+rýca
+ g
+en
+el
 ge
-ne
-lg
-e 
-yo
-lu
-yla Hi
-zm
-et için
-de
-ki
- k
-am
-u 
-gör
-ev
-lileri
-ne 
-duyu
-ru
-lu
-r.
-
+ y
+ol
+uy
+la Hiz
+met içi
+nd
+ek
+i 
+ka
+mu
+ g
+öre
+vliler
+in
+e du
+yur
+ul
+ur
+.
  
 
 
@@ -40826,16 +40719,16 @@ r.
 
 
 
- 
-10.
-44/
-200
-6
- 
 
  
-(2)
+10.44
+/20
+06
 
+ 
+ 
+(2
+)
  
 (A
 )
@@ -41879,24 +41772,25 @@ llar
 
  
  (
-a)Ku
-ze
-y 
-Kýbr
-ýs
- T
-ür
-k 
-Cum
-hu
-r
-iyeti
+A)K
+uz
+ey
+ Ký
+brý
+s 
+Tü
+rk
+ Cu
+mh
+ur
+i
+yeti
+ y
+ur
+ttaþý
  
-yu
-rt
-taþý 
-o
-lma
+ol
+ma
 k;
 
 
@@ -41907,10 +41801,10 @@ arsid13970043
 2.
 18/
 199
-5(b
-)18 (on sekiz) yaþýný bitirmiþ olmak ve 46 (kýrk altý
-)                                                                                       yaþýndan gün almamýþ olmak;
-
+5(
+B)18 (on sekiz) yaþýný
+ bitirmiþ olmak ve 46 (kýrk altý)                                                                                       yaþ
+ýndan gün almamýþ olmak;
 
  
  
@@ -41920,49 +41814,50 @@ arsid13970043
 
  
  (
-c)     
-Bu
- Yasa
-da
- ö
-ngörü
-len h
-iz
-met
- s
-ýn
-ýf
-lar
-ýn
+C)    
+ B
+u 
+Yasad
 a 
-gire
-bi
-lm
-ek için
- ar
-an
-an 
-öð
-re
-ni
-m 
-ko
-þu
-llar
-ýn
-ý 
-taþý
-ma
-k;
+öng
+örülen 
+hi
+zm
+et 
+sý
+ný
+fla
+rý
+na
+ g
+ireb
+il
+me
+k için a
+ra
+nan
+ ö
+ðr
+en
+im
+ k
+oþ
+ulla
+rý
+ný
+ ta
+þým
+ak
+;
 
-
- (ç)      Kuzey Ký
-brýs Türk Cumhuriyeti yurttaþý iken Daimi Ýkametgâhýný
-n kesintili olup olmamasýna bakýlmaksýzýn en az 5 (beþ) yýl sü
-re ile Kuzey Kýbrýs Türk Cumhuriyetinde olmasý; bu bent amaçlarý bak
-ýmýndan Daimi Ýkametgâh 1 (bir) yýl içerisinde toplam 3(
-üç) aydan fazla Kuzey Kýbrýs Türk Cumhuriyeti sýnýrlarý dý
-þýnda bulunmamayý anlatýr.
+ (Ç
+)      Kuzey Kýbrýs Tü
+rk Cumhuriyeti yurttaþý iken Daimi Ýkametgâhýnýn kesintili olup olmamasý
+na bakýlmaksýzýn en az 5 (beþ) yýl süre ile Kuzey Kýbr
+ýs Türk Cumhuriyetinde olmasý; bu bent amaçlarý bakýmýndan Daimi 
+Ýkametgâh 1 (bir) yýl içerisinde toplam 3(üç) aydan fazla Kuzey Kýbrý
+s Türk Cumhuriyeti sýnýrlarý dýþý
+nda bulunmamayý anlatýr.
 
  
  
@@ -41975,38 +41870,39 @@ arsid13970043 2
  
  
 arsid6781683 12.65/2026
-(d
-)Erkekler için yurt dýþý
- ödevini yerine getirmiþ olmak veya ilgili yasa uyarýnca yurt ödevini yerine getirmiþ sayý
-lmak;
+(
+D)
+Erkekler için yurt ödevini yerine getirmiþ olmak veya ilgili yasa uyarýnca yurt ö
+devini yerine getirmiþ sayýlmak;
 
  
  
 arsid6781683 (
-e)      
-Kamu haklarý
+E)     
+ Kamu haklarý
 ndan yasaklý bulunmamak;
 
  
  (
-f)     
+F)     
  Herhangi 
-bir yasa kuralýna aykýrýlýktan 1 (bir) yý
-ldan fazla hapis cezasýna çarptýrýlmamýþ olmak veya Ceza Yasasý veya dið
-er mevzuat uyarýnca taammüden katillik, taammüden katilliðe teþebbü
-s, adam öldürmeye teþebbüs, cinsel saldýrý
-, cinsel taciz, cinsel tecavüz ve bu suçlara teþebbüs etme, zimmet, ihtilas, 
-irtikâp, rüþvet, hýrsý
-zlýk, dolandýrýcýlýk, 
-sahtekârlýk, görevi k
-ötüye kullanma, hileli iflas, kaçakçýlýk, resmi ihale ve alým satý
-mlara fesat karýþtýrma ve bu suçlara iþ
-tirakten yargýlanýp mahkum edilmemiþ olmak; Uyuþ
-turucu Maddeler Yasasý, Suç Gelirlerinin Aklanmasýnýn, Terörizmin Finansmaný
-nýn ve Kitle Ýmha Silahlarýnýn Yaygýnlaþmasýný
-n Finansmanýnýn Önlenmesi Yasasý veya bu Yasalar altýnda çýkarý
-lan mevzuat kurallarýna aykýrýlýktan 6 (altý) aydan fazla hapis cezas
-ýna mahkum edilmemiþ olmak.
+bir yasa kuralýna aykýrý
+lýktan 1 (bir) yýldan fazla hapis cezasýna çarptýrýlmamýþ
+ olmak veya Ceza Yasasý veya diðer mevzuat uyarýnca taammüden katillik, taammüden katillið
+e teþebbüs, adam öldürmeye teþebbüs, cinsel saldýrý
+, cinsel taciz, cinsel tecavüz ve bu suçlara teþ
+ebbüs etme, zimmet, ihtilas, irtikâp
+, rüþvet, hýrsýzlýk, dolandýrýcý
+lýk, sahtekârlýk
+, görevi kötüye kullanma, hileli iflas, kaçakçý
+lýk, resmi ihale ve alým satýmlara fesat karýþtýrma ve bu suçlara 
+iþtirakten yargýlanýp
+ mahkum edilmemiþ olmak; Uyuþturucu Maddeler Yasasý, Suç
+ Gelirlerinin Aklanmasýnýn, Terörizmin Finansmanýnýn ve Kitle Ý
+mha Silahlarýnýn Yaygýnlaþmasýnýn Finansmanýný
+n Önlenmesi Yasasý veya bu Yasalar altýnda çýkarýlan mevzuat kurallarýna ayk
+ýrýlýktan 6 (altý) aydan fazla hapis cezasýna mahkum 
+edilmemiþ olmak.
 
  
  
@@ -42021,7 +41917,7 @@ arsid6781683
 
  
  (
-g)   
+G)   
  A
 ta
 na
@@ -42064,10 +41960,11 @@ ma
 k;
 
 
- (ð)      Disiplin suçundan ötü
-rü daha önce kamu görevinden çýkarýlmamýþ olmak veya hakký
-nda görevden çýkarma cezasý gerektiren bir suç isnat edilip disiplin soruþturmas
-ý tamamlanmadan istifa etmemiþ olmak; ve
+ (Ð
+)      Disiplin suçundan ötürü daha ö
+nce kamu görevinden çýkarýlmamýþ olmak veya hakkýnda görevden çý
+karma cezasý gerektiren bir suç isnat edilip disiplin soruþturmasý tamamlanmadan istifa etmemiþ
+ olmak; ve
 
  
  
@@ -42075,7 +41972,7 @@ arsid3824456 4
 .35
 /2
 004
-(h
+(H
 )Genel Devlet Yönetimi Bü
 tçesinden veya herhangi bir   sosyal güvenlik kurumundan veya herhangi bir Fondan emeklilik maaþý/aylýðý ç
 ekmemiþ olmak.
@@ -42098,8 +41995,8 @@ arsid3824456
 
  
  
-arsid1197860 (2) Özel
- Koþullar;
+arsid1197860 (2) Ö
+zel Koþullar;
 
  (a)     
  Hi
@@ -43044,23 +42941,20 @@ na kadar sýnav harcý alýnýr.
  
 
  
-
- 
-arsid10752318 
-B) Yukarýdaki (A) bendi dýþýnda Kamu Hizmeti Komisyonunca düzenlenen birden fazla oturum ile gerç
-ekleþtirilen sýnavlara veya uygulama içeren sýnavlara veya dört beceride dil bilgi seviyesini ö
-lçen sýnavlara veya yazýlý veya sözlü ç
-evrimiçi sýnavlara baþvuranlardan Kamu Hizmeti Komisyonu tarafýndan alýnacak harç
- miktarý, yürürlükteki saatlik asgari ücretin 8 (sekiz) katýndan 16 (on altý
-) katýna kadar olabilir.
  
 
-
-
-
-
+arsid10752318 B) Yukarý
+daki (A) bendi dýþýnda Kamu Hizmeti Komisyonunca düzenlenen birden fazla oturum ile gerçekleþtirilen sý
+navlara veya uygulama içeren sýnavlara veya dört beceride dil bilgi seviyesini ölç
+en sýnavlara veya yazýlý veya sözlü çevrimiçi sý
+navlara baþvuranlardan Kamu Hizmeti Komisyonu tarafýndan alýnacak harç miktarý, yü
+rürlükteki saatlik asgari ücretin 8 (sekiz) katýndan 16 (on altý) katýna kadar olabilir.
 
  
+
+
+
+
 
  
 
@@ -43068,17 +42962,19 @@ evrimiçi sýnavlara baþvuranlardan Kamu Hizmeti Komisyonu tarafýndan alýnaca
 
  
 
+ 
+
 
 
 
  
-(C) Sýnav harçlarý, yukarýdaki
- (A) ve (B) bentlerinde düzenlenen sýnýrlar çerç
-evesinde, Kamu Hizmeti Komisyonunun önerisi ile Bakanlar Kurulu tarafýndan onaylanacak ve Resmi Gazetede yayýmlanacak Sý
-nav Harçlarý Tüzüðü ile sýnavýn türü
-ne, içeriðine ve maliyetine göre belirlenir.
+(C) Sý
+nav harçlarý, yukarýdaki (A) ve (B) bentlerinde düzenlenen sýnýrlar ç
+erçevesinde, Kamu Hizmeti Komisyonunun önerisi ile Bakanlar Kurulu tarafýndan onaylanacak ve Resmi Gazetede yayý
+mlanacak Sýnav Harçlarý Tüzüðü ile sýnavýn tü
+rüne, içeriðine ve maliyetine gö
+re belirlenir.
  
-
 
 
  
@@ -44000,20 +43896,20 @@ vla
 rý
 nd
 a 
-baþ
-ar
-ý g
-ös
-ter
-en
-ler
-in
- b
-aþar
-ý lis
-tes
-i  
-de
+baþa
+rý 
+gö
+ste
+re
+nle
+ri
+n 
+baþa
+rý li
+ste
+si 
+ d
+e
 
  
  R
@@ -44200,10 +44096,10 @@ ilir.
 
  
 Yazýlý sýnavlara itirazlarýn usul ve esaslarý, itirazlarýn deð
-erlendirilmesi, deðerlendirme süresi ve itiraz sonrasý puanlamanýn nasý
-l yapýlacaðý bu Yasanýn 63üncü maddesinin (5)inci fý
-krasý uyarýnca çýkarýlan Sýnav Tüzüðünde d
-üzenlenir.
+erlendirilmesi, deðerlendirme süresi ve itiraz sonrasý puanlamanýn nasýl yapýlaca
+ðý bu Yasanýn 63üncü maddesinin (5)inci fýkrasý
+ uyarýnca çýkarýlan Sýnav Tüzüðünde düzenlenir.
+
  
 
 
@@ -44348,13 +44244,12 @@ reti
 ýr.
 
  
-        
-  Ayrýca, ileri itirazýn yapýlmasý halinde her soru i
-çin sýnavlarda baþvuruda alýnan sýnav ücretinin yarýsý
- kadar sýnav sonuçlarýna itiraz ücreti alýnýr. Bu fý
-kra amaçlarý bakýmýndan ileri itiraz, sýnav kað
-ýdýnýn incelenmesinden sonra yapýlan gerekçeli i
-tirazý anlatýr. 
+          Ayrý
+ca, ileri itirazýn yapýlmasý halinde her soru için sýnavlarda baþ
+vuruda alýnan sýnav ücretinin yarýsý kadar sýnav sonuçlarý
+na itiraz ücreti alýnýr. Bu fýkra amaçlarý
+ bakýmýndan ileri itiraz, sýnav kaðýdýný
+n incelenmesinden sonra yapýlan gerekçeli itirazý anlatýr. 
 
  
  A
@@ -44568,11 +44463,11 @@ ge
 
 
       Ancak Sivil Havacý
-lýk Dairesi, III. Derece Hava Trafik Kontrolörü
- kadrosuna aday olarak atanan kamu görevlileri için adaylýk süresi, yukarýda belirtilen 2 (iki) yý
-llýk süreye bakýlmaksýzýn Temel ATC (Hava Trafik Kontrolörü
-) kursunu baþarý ile tamamladýklarý tarihten itibaren en çok 6 (altý) aya 
-kadar uzatýlabilir.
+lýk Dairesi, III. Derece Hava Trafik Kontrolörü kadrosuna aday olarak atanan kamu gö
+revlileri için adaylýk süresi, yukarýda belirtilen 2 (iki) yýllýk sü
+reye bakýlmaksýzýn Temel ATC (Hava Trafik Kontrolörü) kursunu baþ
+arý ile tamamladýklarý tarihten itibaren en çok 6 (altý) aya kadar uzatýlabilir.
+
  
 
 
@@ -44581,9 +44476,9 @@ kadar uzatýlabilir.
 
 
  
-A
-da
-ylýk
+Ad
+ay
+lýk
 
  
  dö
@@ -45348,88 +45243,88 @@ arsid4542561 70
 Ad
 ay
 lýk 
-sü
-re
-si
-ni
- do
-ld
-ur
-muþ
- v
-e 
-ba
-ðlý
- b
-ul
-und
-uð
-u 
-ku
-rum
-ca 
-dü
-ze
-nl
-en
-ec
-ek 
-pe
-rf
-orm
-an
-s d
-eð
-er
-len
-di
-rm
-e for
-mu
-nd
-a 
-baþa
-rý
-sý
- s
-ap
-tan
-mýþ
- a
-da
-yla
-r,
- K
-am
-u Hiz
-meti
- K
-om
-is
-yo
-nu
-nc
-a,
- asýl
- v
-e 
 sür
-ek
-li
+es
+in
+i 
+dol
+du
+rmu
+þ 
+ve
+ b
+að
+lý 
+bu
+lun
+du
+ðu
  k
-am
-u 
-gör
-ev
-li
-si 
-ola
-rak
- ata
-nýrla
-r.
-
+uru
+mca
+ d
+üz
+en
+le
+ne
+ce
+k p
+er
+for
+ma
+ns 
+de
+ðe
+rle
+nd
+ir
+me
+ form
+un
+da
+ b
+aþar
+ýs
+ý 
+sa
+pta
+nm
+ýþ 
+ad
+ay
+lar
+, 
+Ka
+mu Hi
+zm
+eti 
+Ko
+mi
+sy
+on
+un
+ca,
+ asý
+l 
+ve
+ sü
+re
+kl
+i 
+ka
+mu
+ g
+öre
+vl
+is
+i o
+lar
+ak 
+atan
+ýrlar
+.
  
+
 
 
  
@@ -45793,11 +45688,11 @@ arsid7037329 69/2023
  
 arsid7037329 
 Devlet kadrolarýnda geçici iþçi veya daimi iþç
-i statüsünde olup daha sonra Kamu Hizmeti Komisyonu tarafýndan bir kadroya atananlara, atanmadan ö
-nce yaptýklarý mücahitlik ve/veya mükellef askerlik hizmetlerine karþýlý
-k herhangi bir tazminat almamýþ olmak veya iade etmiþ olmak koþuluyla kadrolara aday olarak atandýklarý ta
-rihten geçerli olmak üzere her tam yýl yapýlan mü
-cahitlik ve/veya mükellef askerlik hizmetlerine karþýlýk bir kademe ilerlemesi verilir. Artan hizmet aylarý, mü
+i statüsünde olup daha sonra Kamu Hizmeti Komisyonu tarafýndan bir kadroya atananlara, atanmadan önce yaptý
+klarý mücahitlik ve/veya mükellef askerlik hizmetlerine karþýlýk herhangi bir tazminat almam
+ýþ olmak veya iade etmiþ olmak koþuluyla kadrolara aday olarak atandýklarý tarihten geç
+erli olmak üzere her tam yýl yapýlan mücahitlik ve/veya mükellef askerlik hizmetlerin
+e karþýlýk bir kademe ilerlemesi verilir. Artan hizmet aylarý, mü
 teakip kademe ilerlemesinde dikkate alýnýr.
  
 
@@ -45839,9 +45734,9 @@ arsid7037329
 )
  
 arsid7037329 
-Askerlik Y
-asasý uyarýnca mükellef askerlik yapan ve daha sonra kamu görevine geçen kamu gö
-revlilerine yaptýklarý mükellef askerlik hizmetlerine karþýlýk; veya
+Askerlik Yasasý uyarýnca mü
+kellef askerlik yapan ve daha sonra kamu görevine geçen kamu görevlilerine yaptýklarý mü
+kellef askerlik hizmetlerine karþýlýk; veya
  
 
 
@@ -45849,8 +45744,8 @@ revlilerine yaptýklarý mükellef askerlik hizmetlerine karþýlýk; veya
 
 
 
-
  
+
 arsid7037329 
  
 
@@ -45859,8 +45754,8 @@ arsid7037329 (B
  
 
 arsid7037329 Tü
-rkiye Cumhuriyetinde muvazzaf askerlik görevi yapýp bu hizmetlerine karþýlýk Türkiye Cumhuriyetind
-en herhangi bir emeklilik menfaati almamýþ olduklarýný belgeleyen ve daha sonra kamu gö
+rkiye Cumhuriyetinde muvazzaf askerlik görevi yapýp bu hizmetlerine karþýlýk Tü
+rkiye Cumhuriyetinden herhangi bir emeklilik menfaati almamýþ olduklarýný belgeleyen ve daha sonra kamu gö
 revine atananlarýn yaptýklarý muvazzaf ve/veya mükellef askerlik hizmetlerine karþýlýk
 
  
@@ -45879,10 +45774,9 @@ arsid7037329
 
 arsid7037329 her tamamlanmýþ
  hizmet yýlýna bir kademe ilerlemesi verilir. A
-rtan hizmet aylarý
-, müteakip kademe ilerlemesi için dikkate alýnýr.
+rtan hizmet aylarý, müteakip kademe ilerlemesi için dikkate al
+ýnýr.
  
-
 
 
 
@@ -45937,16 +45831,16 @@ arsid7037329
  
 arsid7037329 
 Kamu Hizmeti Komisyonu tarafýndan bir kadroya atanan kamu gö
-revlilerine, atanmadan önce genel bütçeden veya genel bütçe kapsamý
-ndaki döner sermayelerden maaþ çekilerek yapýlan tüm fiili hizmetlerine karþýl
-ýk, kesintili olup olmadýðýna bakýlmaksýzýn, kýdem tazminatý
-, ikramiye ve benzeri herhangi bir menfaat almamýþ olmak veya kýdem tazminatý, ikramiye ve be
-nzeri herhangi bir menfaat almýþ ise de Kamu Alacaklarýnýn Tahsili Usulü Yasasýndaki faiz oranlarý
- dikkate alýnarak hesaplanacak faizi ile birlikte iade etmiþ olmak koþuluyla, her tamamlanmýþ hizmet yýl
-ýna karþýlýk bir kademe ilerlemesi verilir. Artan hizmet aylarý, mü
-teakip kademe ilerlemesinde dikkate alýnýr.
- 
+revlilerine, atanmadan önce genel bütçeden veya genel bütçe kapsamýndaki dö
+ner sermayelerden maaþ çekilerek yapýlan tüm fiili hizmetlerine karþýlý
+k, kesintili olup olmadýðýna bakýlmaksýzýn, kýdem tazminatý
+, ikramiye ve benzeri herhangi bir menfaat almamýþ olmak veya kýdem tazminatý, ikramiye ve benzeri herhangi bir menfaat almýþ ise de Kamu Alacakla
+rýnýn Tahsili Usulü Yasasýndaki faiz oranlarý
+ dikkate alýnarak hesaplanacak faizi ile birlikte iade etmiþ olmak koþuluyla, her tamamlanmýþ hizmet yýlý
+na karþýlýk bir kademe ilerlemesi verilir. Artan hizmet aylarý, müteakip kademe ilerlemesinde dikkate alý
+nýr.
 
+ 
 
 
 
@@ -46070,8 +45964,8 @@ rdýr:
 
  
 (A)
-Açýk kadro bulunmasý koþulu:
-
+Açýk kadro bulunmasý koþ
+ulu:
  
 
 
@@ -47737,8 +47631,8 @@ ak.
 
  
 arsid7865052 Kadro Fazlas
-ý Olarak  Terfi Ettirilen Kamu Görevlilerinin Bulunduðu Derecedeki Açýk Kadroya Baþ
-vurma Koþullarý
+ý Olarak  Terfi Ettirilen Kamu Görevlilerinin Bulunduðu Derecedeki Açýk Kadroya Baþvurma Koþ
+ullarý
 
  2.19/2018
 
@@ -47798,13 +47692,13 @@ arsid7865052    (2)
 
  
 Bu Yasanýn 58inci maddesinin (4)üncü fýkrasý
-nýn (B) bendi uyarýnca, kadro fazlasý olarak bir üst dereceye terfi ettirilen kamu g
-örevlileri, bulunduklarý derecedeki kadronun münhal ilan edilmesi halinde, açýk kadroya geçiþ
+nýn (B) bendi uyarýnca, kadro fazlasý olarak bir üst dereceye terfi ettirilen kamu gö
+revlileri, bulunduklarý derecedeki kadronun münhal ilan edilmesi halinde, açýk kadroya geçiþ
  yapabilmek amacýyla münhale baþvuruda bulunabilirler.
 
          Ancak sö
-z konusu kadroya baþvuruda bulunulabilmesi için, açýk kadronun derece yükselmes
-i yoluyla doldurulmak üzere münhal ilan edilmesi gerekir.
+z konusu kadroya baþvuruda bulunulabilmesi için, açýk kadronun derece yükselmesi yoluyla doldurulmak ü
+zere münhal ilan edilmesi gerekir.
 
  
 
@@ -47821,9 +47715,9 @@ k kadro bulunmasý koþulu:
 
  
  
-arsid7865052 Kamu gö
-revlisinin münhal kadroya baþvurabilmesi için bulunduðu derecedeki kadronun açý
-k olmasý gerekir.
+arsid7865052 Kamu görevlis
+inin münhal kadroya baþvurabilmesi için bulunduð
+u derecedeki kadronun açýk olmasý gerekir.
 
  
 (B)
@@ -47836,8 +47730,7 @@ erlendirilmiþ olma koþulu:
  
 arsid7865052 Kadro fazlasý
  olarak atanan kamu görevlisinin, söz konusu kadrodaki son performans deðerlendirme formunun, baðlý bulundu
-ðu kurumca olumlu deðerlendirilmiþ ve Kamu Hizmeti Komisyonunca da kabul edilmiþ olmasý
- gerekir.
+ðu kurumca olumlu deðerlendirilmiþ ve Kamu Hizmeti Komisyonunca da kabul edilmiþ olmasý gerekir.
 
  
 (C)
@@ -47858,8 +47751,8 @@ revlisinin yarýþma sýnavýnda baþarýlý olmasý gerekir.
  
 arsid10576809 Bu madde
  kapsamýndaki kamu görevlileri, yarýþma sýnavý
-nda baþarýlý olmalarýna raðmen, kadro yetersizliði nedeniyle açý
-k kadroya atanamamalarý veya yarýþma sýnavýnda baþarý
+nda baþarýlý olmalarýna raðmen, kadro yetersizlið
+i nedeniyle açýk kadroya atanamamalarý veya yarýþma sýnavýnda baþarý
 lý olamamalarý halinde, bulunduklarý derecede kadro fazlasý olarak kalmaya devam ederler.
 
 
@@ -47896,53 +47789,53 @@ erlik
  v
 e 
 ya
-rýþ
-ma
- s
-ýn
-av
-ýn
-ý 
-ka
-za
-na
-nla
 rý
-n 
-baþa
-rý
- s
-ýralar
-ý
+þm
+a 
+sý
 na
- g
-öre
+vý
+ný
+ k
+az
+an
+an
+lar
+ýn
  b
 aþar
-ý lis
-tesi 
-Re
-sm
-i 
-Gaz
-ete
-'d
+ý 
+sýrala
+r
+ýn
+a 
+gör
 e 
-aç
-ýk
-la
-nýr
- v
+baþa
+rý li
+stesi
+ R
+es
+mi
+ Ga
+zet
+e'
+de
+ a
+çý
+kl
+an
+ýr 
+ve
+ i
+lg
+ili
+ler
 e 
-il
-gil
-ile
-re
- b
-il
-dirilir.
+bi
+ld
+irilir.
  
-
 
 
 
@@ -47980,11 +47873,11 @@ e
  
 Üniversite Mezuniyeti ve Yükseköðrenim Gerektiren Genel Hizmet Sýnýflarý
 nda atanmýþ bulunan kamu görevlileri kurumlarýn ve hizmet teþkilatlarý
-nýn kuruluþ ve görev yasalarýnda söz konusu kadrolar için belirlenmi
-þ öðrenim koþulu (lisans) dahil tüm niteliklere sahip olmalarý halinde, Ü
-niversite Mezuniyeti veya Yükseköðrenim Gerektiren Mesleki ve Teknik Hizmet Sýnýflarýnýn III
-üncü Derecesine veya kamu görevi dýþýna aç
-ýk herhangi bir derecesine açýlacak sýnavlarda baþarý göstermeleri koþ
+nýn kuruluþ ve görev yasalarýnda söz konusu kadrolar için belirlenmiþ
+ öðrenim koþulu (lisans) dahil tüm niteliklere sahip olmalarý halinde, Ü
+niversite Mezuniyeti veya Yükseköðrenim Gerektiren Mesleki ve Teknik Hizmet Sýný
+flarýnýn IIIüncü Derecesine veya kamu görevi dýþýna açý
+k herhangi bir derecesine açýlacak sýnavlarda baþarý göstermeleri koþ
 uluyla geçebilirler.
  
 
@@ -48000,14 +47893,14 @@ uluyla geçebilirler.
 )
  
 Ortaöð
-renim Gerektiren Hizmet Sýnýflarý veya Ortaokul Öðrenimi Gerektiren Hizmet Sýnýflarý
-nda atanmýþ bulunan kamu görevlileri, kurumlarýn ve hizmet teþkilatlarý
-nýn kuruluþ ve görev yasalarýnda söz konusu kadrolar için belirlenmi
-þ öðrenim koþulu dahil (lisans) tüm niteliklere sahip olmalarý halinde, Ü
-niversite Mezuniyeti veya Yükseköðrenim Gerektiren Mesleki ve Teknik Hizmet Sýnýflarýný
-n IIIüncü Derecesine veya kamu görevi dýþýna açý
-k herhangi bir derecesine açýlacak sýnavlarda baþarý göstermeleri koþuluyla geç
-ebilirler.
+renim Gerektiren Hizmet Sýnýflarý veya Ortaokul Öðrenimi Gerektiren Hizmet Sýný
+flarýnda atanmýþ bulunan kamu görevlileri, kurumlarýn ve hizmet teþkilatlarý
+nýn kuruluþ ve görev yasalarýnda söz konusu kadrolar için belirlenmiþ
+ öðrenim koþulu dahil (lisans) tüm niteliklere sahip olmalarý halinde, Üniversite
+ Mezuniyeti veya Yükseköðrenim Gerektiren Mesleki ve Teknik Hizmet Sýný
+flarýnýn IIIüncü Derecesine veya kamu görevi dýþýna a
+çýk herhangi bir derecesine açýlacak sýnavlarda baþarý göstermeleri koþ
+uluyla geçebilirler.
  
 
 
@@ -48019,16 +47912,15 @@ ebilirler.
      
 (3)
  
-Ortaöðrenim Gerektiren Genel Hizmet Sýnýflarý
-nda atanmýþ bulunan kamu görevlileri, 
-kurumlarýn ve hizmet teþkilatlarýný
-n kuruluþ ve görev yasalarýnda söz konusu kadrolar için belirlenmiþ 
-öðrenim koþulu dahil tüm niteliklere sahip olmalarý halinde Ortaöðrenim Gerektiren Mesleki ve Teknik Hizmet Sý
-nýflarýnýn IVüncü Derecesine girebilecekleri kadrolar için a
-çýlacak sýnavlarda baþarý göstermeleri ko
-þuluyla geçebilirler.
- 
+Ortaöðrenim Gerektiren Genel Hizmet Sýný
+flarýnda atanmýþ bulunan kamu görevlileri, 
+kurumlarýn ve hizmet teþkilatlarýnýn kuruluþ
+ ve görev yasalarýnda söz konusu kadrolar için belirlenmiþ öð
+renim koþulu dahil tüm niteliklere sahip olmalarý halinde Ortaöðrenim Gerektiren Mesleki ve Teknik Hizmet S
+ýnýflarýnýn IVüncü Derecesine girebilecekleri kadrolar iç
+in açýlacak sýnavlarda baþarý göstermeleri koþuluyla geçebilirler.
 
+ 
 
 
 
@@ -48157,12 +48049,12 @@ arsid7426558
  
 
 arsid3360029 Ortaokul Öð
-renimi Gerektiren Genel Hizmet Sýnýflarýnda atanmýþ bulunan kamu görevlileri, kurumlarý
-n ve hizmet teþkilatlarýnýn kuruluþ ve görev yasalarý
+renimi Gerektiren Genel Hizmet Sýnýflarýnda atanmýþ bulunan kamu gö
+revlileri, kurumlarýn ve hizmet teþkilatlarýnýn kuruluþ ve görev yasalarý
 nda söz konusu kadrolar için belirlenmiþ öðrenim koþulu dahil tü
-m niteliklere sahip olmalarý halinde Ortaöðrenim Gerektiren Genel Hizmet Sýnýflarý veya Mesleki ve Teknik Hizmet S
-ýnýflarýnýn IVüncü Derecesine girebilecekleri kadrolar
- için açýlacak sýnavlarda baþarý gö
+m niteliklere sahip olmalarý halinde Ortaöðrenim Gerektiren Genel Hizmet Sýnýflarý veya Mesl
+eki ve Teknik Hizmet Sýnýflarýnýn IVüncü
+ Derecesine girebilecekleri kadrolar için açýlacak sýnavlarda baþarý gö
 stermeleri koþuluyla geçebilirler.
 
  
@@ -48174,13 +48066,12 @@ arsid7426558
 arsid7426558 Ortaö
 ðrenim Gerektiren Hizmet Sýnýflarýnýn Iinci Derecesinde en az 3 (üç
 ) yýl çalýþan kamu görevlileri, baðlý bulunduklarý
- kurumlarýn ve baðlý bulunduklarý hizmet teþkilatlarýnýn kurul
-uþ ve görev yasalarýnda öðrenim koþulu (lisans) dahil ilgili kadro i
-çin belirlenen niteliklere sahip olmalarý ve performans deðerlendirme formunda olumlu deðerlendirilmiþ olmalarý
- halinde, Üniversite Mezuniyeti veya Yükseköðrenim Gerektiren Genel Hizmet Sý
-nýflarýnýn Iinci Derecesine, girebilecekleri kadro için açýlacak sý
+ kurumlarýn ve baðlý bulunduklarý hizmet teþkilatlarýný
+n kuruluþ ve görev yasalarýnda öðrenim koþulu (lisans) dahil ilgili kadro iç
+in belirlenen niteliklere sahip olmalarý ve performans deðerlendirme formunda olumlu deðerlendirilmiþ olmalar
+ý halinde, Üniversite Mezuniyeti veya Yükseköðrenim Gerektiren Genel Hizmet Sýný
+flarýnýn Iinci Derecesine, girebilecekleri kadro için açýlacak sý
 navlarda baþarý göstermeleri koþuluyla geçebilirler.
-
 
  
  
@@ -48285,57 +48176,56 @@ eler
  
 
 arsid14557897 Kamu Yö
-netimi ve Ýnsan Kaynaklarý Baþkanlýðý
- g
-er
-ek
-li  
- g
-ördü
-ðü  
- h
-allerd
-e   
-ve 
-hi
-zm
-eti
-n d
-ah
-a 
-iy
-i 
-yür
-üt
-ül
-mes
+netimi ve Ýnsan Kaynaklarý Baþkanlýðý 
+ge
+re
+kl
+i   
+görd
+üð
+ü   
+halle
+rde  
+ v
+e h
+iz
+met
 in
-i s
-að
-la
-mak 
-am
-ac
-ýy
-la, b
-u 
-Yasad
-a  
-yer 
- alan 
- Ýd
-ar
-i 
-Hiz
-metler
- S
-ýn
-ýf
-ýn
-a 
-ba
+ da
+ha
+ i
+yi
+ yü
+rü
+tü
+lm
+esi
+ni 
+sa
 ðl
-ý 
+am
+ak a
+ma
+cý
+yla, 
+bu
+ Yasa
+da 
+ y
+er  
+alan  
+Ýda
+ri
+ Hi
+zm
+etler 
+Sý
+ný
+fý
+na
+ b
+að
+lý 
 Ýda
 re 
  M
@@ -48373,20 +48263,19 @@ ri
 ýn
 a 
 ba
-ðl
-ý 
-Od
-ac
-ý 
-ve
+ðlý
  O
 da
 cý
--Þ
-of
-örle
-rin 
-ilçeler arasý 
+ v
+e 
+Od
+ac
+ý-
+Þo
+för
+ler
+in ilçeler arasý 
 na
 ki
 ller
@@ -48396,9 +48285,9 @@ il
 gili
  k
 uru
-mlarla
- ve kamu görevlisinin görev yaptýðý
- kurumdaki yetkili sendika ile 
+mla
+rla ve kamu görevlisinin gö
+rev yaptýðý kurumdaki yetkili sendika ile 
 is
 tiþ
 ar
@@ -48499,24 +48388,24 @@ k a
 ma
 cý
 yla kamu gö
-revlisinin görev yaptýðý kurumdaki yetkili sendika ile istiþare ederek, Kamu Yönetimi ve Ý
-nsan Kaynaklarý Baþkanlýðýndan uygunluk görüþü almak kayd
-ýyla K
-am
-u 
-Hiz
-meti
- K
-om
-is
-yo
-nu
-nd
-an 
-is
-ter
-ler
-.
+revlisinin görev yaptýðý kurumdaki yetkili sendika ile istiþare ederek, Kamu Y
+önetimi ve Ýnsan Kaynaklarý Baþkanlýðýndan uygunluk görüþü
+ almak kaydýyla 
+Ka
+mu
+ Hi
+zm
+eti 
+Ko
+mi
+sy
+on
+un
+dan
+ i
+ste
+rle
+r.
 
  
  
@@ -48524,35 +48413,36 @@ arsid7426558
 
  (C
 ) 
-(a) Kurumlar hizmetlerin daha iyi yürütülmesini saðlamak amacýyla kendi kurumlarýndaki kamu g
-örevlilerinin kendi kurumundaki ayný hizmet sýnýfýnda eþit 
-dereceler arasýnda açýk bir kadroya naklini kamu görevlisinin görev yaptýðý
- kurumdaki yetkili sendika ile istiþare ederek, Kamu Yönetimi ve Ýnsan Kaynaklarý Baþkanlýðý
-ndan uygunluk görüþü almak kaydý ile Kamu Hizmeti Komisyonundan isterler.
+(a) Kurumlar hizmetlerin daha iyi yürütülmesini saðlamak amacýyla kendi kurumlarý
+ndaki kamu görevlilerinin kendi kurumundaki ayný hizmet sýnýfýnda eþ
+it dereceler arasýnda açýk bir kadroya naklini kamu görevlisinin görev yaptýðý
+ kurumdaki yetkili sendika ile istiþare ederek, Kamu Yönetimi ve Ýnsan Kaynaklarý Baþkanlý
+ðýndan uygunluk görüþü almak kaydý ile Kamu Hizmeti Komisyonundan isterler.
+
 
  
 
-       (b) Kuru
-mlar hizmetlerin daha iyi yürütülmesini saðlamak amac
-ýyla kendi kurumlarýndaki kamu görevlilerinin kendi kurumundaki ayný öðrenim koþ
-ulu gerektiren farklý bir hizmet sýnýfý içerisinde (Yükseköð
-renim Gerektiren Hizmet Sýnýflarý veya Ortaöðrenim Gerektiren Hizmet S
-ýnýflarý veya Ortaokul Öðrenimi Gerektiren Hizmet Sýnýflarý) e
-þit dereceler arasýnda açýk bir kadroya naklini, kamu görevlisinin onayýný
- alarak ve kamu görevlisinin görev yaptýðý kurumdaki yetkili sendika ile istiþare ederek, Kamu Yönetimi ve Ý
-nsan Kaynaklarý Baþkanlýðýndan uygunluk gör
-üþü almak kaydý ile Kamu Hizmeti Komisyonundan isterler. 
-
+       
+(b) Kurumlar hizmetlerin daha iyi yürütülmesini saðlamak amacýyla kendi kurumlarýndaki kamu g
+örevlilerinin kendi kurumundaki ayný öðrenim koþulu gerektiren farklý bir hizmet sý
+nýfý içerisinde (Yükseköðrenim Gerektiren Hizmet Sýný
+flarý veya Ortaöðrenim Gerektiren Hizmet Sýnýflarý veya Ortaokul Öð
+renimi Gerektiren Hizmet Sýnýflarý) eþit dereceler arasýnda açý
+k bir kadroya naklini, kamu görevlisinin onayýný alarak ve kamu gö
+revlisinin görev yaptýðý kurumdaki yetkili sendika ile istiþare ederek, Kamu Yönetimi ve Ýnsan Kaynaklarý
+ Baþkanlýðýndan uygunluk görüþü almak kaydý ile Kamu Hizmeti Komisyonundan isterler.
+ 
 
  
 
  (
 Ç) 
-(a) Kurumlar, hizmetlerin daha iyi yürütülmesini saðlamak amacýyla birbirleriyle istiþ
-are ederek ayný hizmet sýnýfýnda eþit dereceler arasýnda açýk kadrosu
- bulunan bir baþka kuruma naklini kamu görevlisinin görev yaptýðý
- kurumdaki yetkili sendika ile istiþare ederek ve Kamu Yönetimi ve Ýnsan Kaynaklarý Baþkanlýðý
-ndan uygunluk görüþü alarak, Kamu Hizmeti Komisyonundan isterler.
+(a) Kurumlar, hizmetlerin daha iyi yürütülmesini saðlamak amacý
+yla birbirleriyle istiþare ederek ayný hizmet sýnýfýnda eþit dereceler arasý
+nda açýk kadrosu bulunan bir baþka kuruma naklini kamu görevlisinin görev yaptýðý
+ kurumdaki yetkili sendika ile istiþare ederek ve Kamu Yönetimi ve Ýnsan Kaynaklarý Baþka
+nlýðýndan uygunluk görüþü alarak, Kamu Hizmeti Komisyonundan isterler.
+
 
  
  
@@ -48762,13 +48652,13 @@ arsid7752405
  
 
 arsid6584311 
-(b) Kurumlar, hizmetlerin daha iyi yürütülmesini saðlamak amacýyla birbirleriyle istiþare ed
-erek ayný öðrenim koþulu gerektiren farklý bir hizmet sýný
-fý içerisinde (Yüksek Öðrenim Gerektiren Hizmet Sýnýflarý
- veya Orta Öðrenim Gerektiren Hizmet Sýnýflarý veya Ortaokul Öðrenimi Gerektiren Hizmet S
-ýnýflarý) eþit dereceler arasýnda açýk kadrosu bulun
-an bir baþka kuruma naklini kamu görevlisinin onayýný alarak ve kamu gö
-revlisinin görev yaptýðý kurumdaki yetkili sendika ile istiþare ederek ve Kamu Yönetimi ve Ýnsan Kaynaklarý
+(b) Kurumlar, hizmetlerin daha iyi yürütülmesini saðlamak amacýyla birbirleriyle istiþ
+are ederek ayný öðrenim koþulu gerektiren farklý bir hizmet sýnýfý
+ içerisinde (Yüksek Öðrenim Gerektiren Hizmet Sýnýflarý veya Orta Öð
+renim Gerektiren Hizmet Sýnýflarý veya Ortaokul Öðrenimi Gerektiren Hizmet Sý
+nýflarý) eþit dereceler arasýnda açýk kadrosu bulunan bir baþ
+ka kuruma naklini kamu görevlisinin onayýný alarak ve kamu görevlisinin görev yaptýðý
+ kurumdaki yetkili sendika ile istiþare ederek ve Kamu Yönetimi ve Ýnsan Kaynaklarý
  Baþkanlýðýndan uygunluk görüþü alarak, Kamu Hizmeti Komisyonundan isterler.
 
 
@@ -48779,45 +48669,43 @@ revlisinin görev yaptýðý kurumdaki yetkili sendika ile istiþare ederek ve K
 arsid15343169 (
 D)Kurumlar hizmetlerin daha iyi yü
 rütülmesini saðlamak amacýyla her defasýnda 1 (bir) yýlý
- aþmayacak þekilde toplamda en çok 3 (üç) yýla kadar tamamen geçici sü
-reyle yukarýdaki bentlerde düzenlenen kurallar çerçevesinde kamu görevlilerinin gö
-revlendirmelerini Kamu Yönetimi ve Ýnsan Kaynaklarý Baþkanlýðý
-ndan uygunluk görüþü almak kaydý ile Kamu Hizmeti Komisyonundan isterler. Söz konusu gö
-revlendirmelerin toplam 1 (bir) yýldan uzun süre olmasý halinde, kamu görevlisinin onayý olmasý gerekir.
-
+ aþmayacak þekilde toplamda en çok 3 (üç) yýla kadar tamamen geç
+ici süreyle yukarýdaki bentlerde düzenlenen kurallar çerçevesinde kamu gö
+revlilerinin görevlendirmelerini Kamu Yönetimi ve Ýnsan Kaynaklarý Baþkanlýðý
+ndan uygunluk görüþü almak kaydý ile Kamu Hizmeti Komisyonundan isterler. Söz konusu görevlendirmelerin 
+toplam 1 (bir) yýldan uzun süre olmasý halinde, kamu gö
+revlisinin onayý olmasý gerekir.
 
  
  
 arsid4683821 (E
-) Bu fýkra uy
-arýnca bir kadrodan baþka bir kadroya yapýlacak nakillerde kamu görevlisinin nakil yapý
+) Bu fýkra uyarý
+nca bir kadrodan baþka bir kadroya yapýlacak nakillerde kamu görevlisinin nakil yapý
 lacak kadronun aranan niteliklerini (bir alt derecede çalýþmýþ olmasý koþulu hariç
 ) taþýyor olmasý, ilçeler arasý nakillerde ise kamu görevlisinin onayý
 nýn da olmasý gerekir.
 
-
  
 
  (F) Kamu Hizmeti Komisyonu yukarýdaki bentlerin kurallarý uyarý
-nca kendisine iletilen tüm nakil ve görevlendirme istemlerini gereklilik ve hizmet yararý açýsý
-ndan deðerlendirir ve uygun gördüðü takdirde gerekli nakil veya görevlendirmeyi yapar.
+nca kendisine iletilen tüm nakil ve görevlendirme istemlerini gereklilik ve hizmet yararý açý
+sýndan deðerlendirir ve uygun gördüðü takdirde gerekli nakil veya görevlendirmeyi yapar.
 
 
  
  
 arsid16328869 
 
- Kamu Yö
-netimi ve Ýnsan Kaynaklarý Baþkanlýðý, bu Yasada yer alan Ýdari Hizmetler Sý
-nýfýna baðlý Ýdare Memurlarýný
-n; Kitabet Hizmetleri Sýnýfýna baðlý Katiplerin ve Odacý ve Þof
-ör Hizmetleri Sýnýfýna baðlý Odacý ve Odacý
- Þoförlerin ikamet deðiþikliði gerektirm
-eyen nakillerini (merkezde bir kurumdan baþka bir kuruma veya ayný ilçe içerisindeki bir
- kurumdan baþ
-ka bir kuruma) ilgili kurumla da istiþare ederek; kurumlarýn ilgili hizmet sýnýfýnda yer alan sö
-z konusu kadrolarýn toplam sayýsýný aþmamak koþuluyla, ilgi
-li kadrolarýn derecelerinde öngörülen kadro sayýlarý
+ Kamu Yönetimi ve Ýnsan Kaynaklarý Baþ
+kanlýðý, bu Yasada yer alan Ýdari Hizmetler Sýnýfýna baðlý
+ Ýdare Memurlarýnýn; Kitabet Hizmetleri Sýnýfýna bað
+lý Katiplerin ve Odacý ve Þoför Hizmetleri Sýný
+fýna baðlý Odacý ve Odacý Þoförlerin ikamet deð
+iþikliði gerektirmeyen nakillerini (merkezde bir kurumdan baþka bir kuruma veya ayný ilçe iç
+erisindeki bir 
+kurumdan baþka bir kuruma) ilgili kurumla da istiþare ederek; kurumlarýn ilgili hizmet sýný
+fýnda yer alan söz konusu kadrolarýn toplam sayýsýný aþ
+mamak koþuluyla, ilgili kadrolarýn derecelerinde öngörülen kadro sayýlarý
 na bakýlmaksýzýn, hizmetlerin niteliðine göre kurumlarýn ihtiyacý
 ný da dikkate alarak yapar.
 
@@ -48828,17 +48716,18 @@ arsid16328869
  
  
 arsid4683821 
-Bu Yasanýn 58inci maddesinin (4)üncü fýkrasý
-nýn (B) bendi uyarýnca kadro fazlasý olarak terfi ettirilen kamu gö
-revlilerinin, bu madde uyarýnca bir kadrodan baþka bir kadroya nakilleri, ilgili kadronun açýk olup olmadýðýna baký
-lmaksýzýn kadro fazlasý olarak yapýlýr.
+Bu Yasanýn 58inci maddesinin (4)
+üncü fýkrasýnýn (B) bendi uyarýnca kadro fazlasý
+ olarak terfi ettirilen kamu görevlilerinin, bu madde uyarýnca bir kadrodan baþka bir kadroya nakilleri, ilgili kadronun açýk olup olmadýð
+ýna bakýlmaksýzýn kadro fazlasý olarak yapý
+lýr.
 
       Ancak bu fý
 kra çerçevesinde yapýlacak nakillerde, 
-naklin yapýlacaðý kadronun bulunduðu hizmet
- sýnýfý içindeki tüm derecelerin oluþturdu
-ðu toplam 
-kadro sayýsý aþýlamaz.
+naklin yapýlacaðý kadronun bulunduðu hizmet sý
+nýfý içindeki tüm derecelerin oluþturduðu toplam
+ kadro sayýs
+ý aþýlamaz.
  
 
 
@@ -48901,23 +48790,22 @@ arsid2649322 77
 . 
 Mesleklerine iliþkin öðrenimlerin
 i tamamlayarak kamu görevine asý
-l ve sürekli kamu görevlisi o
-larak atanmýþ olanlardan, mesleklerine iliþkin hizmetlerde yetiþ
-tirilmek, eðitilmek, bilgilerini artýrmak veya staj yapmak üzere, Devlet burslarýna veya yabancý
- ülke veya örgütlerden saðlanan burslara dayanýlarak, Eðitim ve Öð
-retim Ýþleriyle Görevli Bakanlýk, Devlet Planlama Örgü
-tü ve Kamu Yönetimi ve Ýnsan Kaynaklarý Baþkanlýðýný
-n görüþlerini de alarak, Burs Seçim Komisyonunca yapýlacak seçme ve yarýþ
-ma sýnavlarýnda baþarý gösterenlere, yurt içinde veya yurt dýþý
-nda 2 (iki) yýla kadar izin verilir. Gerekirse bu süre, en çok 3 (üç
-) yýl daha uzatýlýr.
+l ve sürekli kamu görevlisi olarak atanmýþ
+ olanlardan, mesleklerine iliþkin hizmetlerde yetiþtirilmek, eðitilmek, bilgilerini artýrmak veya staj yapmak ü
+zere, Devlet burslarýna veya yabancý ülke veya örgütlerden sað
+lanan burslara dayanýlarak, Eðitim ve Öðretim Ýþleriyle Görevli Bakanlý
+k, Devlet Planlama Örgütü ve Kamu Yönetimi ve Ýnsan Kaynaklarý Baþ
+kanlýðýnýn görüþlerini de alarak, Burs Seç
+im Komisyonunca yapýlacak seçme ve yarýþma sýnavlarýnda baþarý
+ gösterenlere, yurt içinde veya yurt dýþýnda 2 (iki) yýla kadar izin verilir. Gerekirse bu süre, en 
+çok 3 (üç) yýl daha uzatýlýr.
 
  
  
 arsid2649322        
 Ancak atandýklarý kadronun gö
-revlerini yerine getirebilmek için mesleki eðitim alma zorunluluðu olan kadrolara atanan aday kamu görevlilerine de bu madde ç
-erçevesinde izin verilir.
+revlerini yerine getirebilmek için mesleki eðitim alma zorunluluðu olan kadrolara atanan aday kamu gö
+revlilerine de bu madde çerçevesinde izin verilir.
  
 
 
@@ -49384,57 +49272,57 @@ nd
 en 
 çý
 ka
-rý
-lan
-lar
-, 
-zor
-unlu
- h
-iz
-metle
-ri
-ni
-n ek
-si
-k 
-kal
-an 
-ký
-sm
-ý 
-ile or
-an
-týlý 
-mi
-kta
-rý,
- (3)
-. 
-fý
-kr
-a 
-ku
-ralla
-rý
- ç
-erç
-ev
-es
-in
-de
- g
-er
-i öd
-em
-ek
+rýla
+nla
+r,
  z
 orun
-da
-dýrla
-r.
-
+lu 
+hi
+zm
+etler
+in
+in e
+ks
+ik
+ k
+ala
+n k
+ýs
+mý
+ ile 
+ora
+ntýlý
+ m
+ik
+tar
+ý, 
+(3).
+ f
+ýk
+ra
+ k
+ur
+allar
+ý 
+çer
+çe
+ve
+si
+nd
+e 
+ge
+ri 
+öde
+me
+k 
+zor
+und
+ad
+ýrlar
+.
  
+
 
 
 
@@ -49490,18 +49378,17 @@ ve
  k
 oþ
 ulla
-rý
-, 
-ça
-lýþ
-ma
-la
-rý
-nýn
- n
-asýl izl
-en
-ip d
+rý,
+ ç
+alý
+þm
+al
+ar
+ýn
+ýn 
+nasý
+l izle
+nip d
 en
 etle
 ne
@@ -49624,8 +49511,8 @@ arsid2123723
     (1)
  
 Bu Yasaya baðlý
- kurumlarda Yöneticilik Hizmetleri Sýnýfýnda yer alan kadrolara aþaðý
-daki fýkralarda belirtilen durum ve koþullarýn olmasý halinde bir baþka kamu gö
+ kurumlarda Yöneticilik Hizmetleri Sýnýfýnda yer alan kadrolara aþað
+ýdaki fýkralarda belirtilen durum ve koþullarýn olmasý halinde bir baþka kamu gö
 revlisi vekil olarak atanabilir:
 
  
@@ -49641,12 +49528,11 @@ revlisi vekil olarak atanabilir:
  
  
 (A)
-Kadronun açýk olmasý
- veya vekalet edilecek kamu görevlisinin yasal izin, geçici görev, disiplin cezasý uygulamasý veya gö
+Kadronun açýk olmasý veya vekalet edilecek kamu gö
+revlisinin yasal izin, geçici görev, disiplin cezasý uygulamasý veya gö
 revden uzaklaþtýrma nedenleriyle 
-görevinden geçici olarak ayrýlmýþ olmasý
- ve vekalet edecek kamu görevlisinin, vekalet edilecek kamu görevlisinden üst derecede olmamasý
- koþuldur.
+görevinden geçici olarak ayrýlmýþ olmasý ve vekalet edecek kamu g
+örevlisinin, vekalet edilecek kamu görevlisinden üst derecede olmamasý koþuldur.
  
 
 
@@ -49654,14 +49540,16 @@ görevinden geçici olarak ayrýlmýþ olmasý
 
 
 
- 
 
  
 
  
-(B)Vekil olarak atanacak kamu görevlisi, ayný
- kurumdan veya baþka bir kurumdan olabilir.
+
  
+(B)Vekil olarak atanacak kamu gö
+revlisi, ayný kurumdan veya baþka bir kurumdan olabilir.
+ 
+
 
 
 
@@ -49690,10 +49578,10 @@ revlisinin vekaleten atanacaðý kadronun aranan niteliklerini taþýmasý gerek
 
  
 Vekaleten görevlendirme, atanacak kamu görevlisinin baðlý bulunduð
-u kurumun yazýlý istemi ve tavsiyesi üzerine Kamu Hizmeti Komisyonu tarafýndan uygun bulunmasý halinde yapý
-lýr. Vekaleten görevlendirmenin açýk olan bir kadroya yapýlacak olmasý halinde, ve
-kaleten görevlendirme talebine eþ zamanlý olarak kadronun doldurulmasý
-na iliþkin iþlemlerin 
+u kurumun yazýlý istemi ve tavsiyesi üzerine Kamu Hizmeti Komisyonu tarafýndan uygun bulunmasý
+ halinde yapýlýr. Vekaleten görevlendirmenin açýk olan bir kadroya yapýlacak olmasý
+ halinde, vekaleten görevlendirme talebine eþ zamanlý olarak kadronun doldurulm
+asýna iliþkin iþlemlerin 
 baþlatýlmasý talebi de Kamu Hizmeti Komisyonuna iletilir.
 
  
@@ -50189,99 +50077,98 @@ arsid6192401
 arsid14557897 
 Kam
 u 
-gö
-re
-vlileri
-ne, 
-bu
- Ya
-sa
-ya
- b
-að
-lý 
-ku
-rum
-lard
-a, 
-Ka
-mu 
-Ýk
-tis
-ad
-i 
-Teþe
-bbüs
-ler
-in
-de
- v
-ey
+gör
+ev
+lilerin
+e, b
+u 
+Yas
+ay
 a 
-Dev
-let k
-at
-ký
-sý
- ile
- k
-ur
-ul
-an
- d
-ið
-er 
-ka
-mu
+ba
+ðlý
  k
 uru
-m 
-ve
- ku
-ru
-luþ
-lar
-ýnd
-a, B
-ay
-rak
- R
-ad
-yo
+mla
+rda,
+ K
+am
+u Ý
+kti
+sa
+di
  T
-elev
-iz
-yo
-n Ku
-rum
-u,
- D
-oðu
- A
-kd
-en
-iz 
-Ün
-iv
-er
-site
-si 
+eþebb
+üsle
+ri
+nd
+e 
 ve
- A
-çý
-k 
-Öð
-ret
-im Fa
-kü
-ltes
-i 
-bu
-nla
-rýn
- d
-ýþ
-ý
+ya
+ De
+vlet 
+ka
+tk
+ýs
+ý 
+ile 
+ku
+ru
+la
+n 
+di
+ðe
+r k
+am
+u 
+ku
+rum
+ v
+e 
+kur
+ul
+uþla
+rý
+nda, 
+Ba
+yr
+ak 
+Ra
+dy
+o 
+Tele
+vi
+zy
+on K
+uru
+mu
+, 
+Doð
+u 
+Ak
+de
+niz
+ Ü
+ni
+ve
+rs
+ites
+i v
+e 
+Aç
+ýk
+ Ö
+ðr
+eti
+m Fak
+ülte
+si
+ b
+un
+lar
+ýn 
+dý
+þý
 nd
 ad
 ýr, 
@@ -50619,8 +50506,8 @@ ve
  
  
 arsid5723216 
-Kamu Yönetimi ve Ýnsan Kaynaklarý Baþ
-kanlýðýndan 
+Kamu Yönetimi ve Ýnsan Kaynaklarý Ba
+þkanlýðýndan 
 uy
 gun
 lu
@@ -51908,9 +51795,10 @@ e;
  
  (2
 )Bu Yasaný
-n 62nci maddesinde belirtilen genel veya özel koþullarý haiz olmadýðýný
-n veya sonradan yitirildiðinin baðlý bulunduðu kurum veya Kamu Hizmeti Komisyonu tarafý
+n 62nci maddesinde belirtilen genel veya özel koþullarý haiz olmadýðý
+nýn veya sonradan yitirildiðinin baðlý bulunduðu kurum veya Kamu Hizmeti Komisyonu tarafý
 ndan tespit edilmesi durumunda, Kamu Hizmeti Komisyonu tarafýndan görevden çýkarýlmalarý halinde;
+
 
 
 arsid14632831 
@@ -51935,23 +51823,23 @@ de;
  
  
 arsid14632831 
-(5)      Emeklilik Yasasý veya Sosyal Güvenlik Yasasý veya Kamu Görevinde ve Dið
-er Sosyal Güvenlik Kurumlarýna Tabi Olarak Yapýlan Hizmetlerin Hesaplanmasý Yasasý uyarý
-nca emekliye ayrýlmalarý halinde; ve
+(5)      Emeklilik Yasasý veya Sosyal Güvenlik Yasasý veya Kamu Görevinde ve Diðer Sosyal Gü
+venlik Kurumlarýna Tabi Olarak Yapýlan Hizmetlerin Hesaplanmasý Yasasý uyarýnca emekliye ayrý
+lmalarý halinde; ve
 
  
  
 arsid8022800 (6)
     (A) 60 (altmýþ) yaþ
 ýný doldurup 61 (altmýþ bir) yaþýndan gün 
-                almalarý hali
-nde;
+                almalarý halinde;
+
 
               Ancak 60 (altmýþ) yaþý
 ný doldurup 61 (altmýþ bir) yaþýndan gün aldýklarýnda yukarý
 daki (5)nci fýkrada belirtilen Yasalar uyarýnca emekli maaþý ve/veya yaþlý
-lýk aylýðý almaya hak kazanmamalarý halinde, görev süreleri emekli maaþý ve/veya 
-yaþlýlýk aylýðý almaya hak kazanýncaya kadar uzatý
+lýk aylýðý almaya hak kazanmamalarý halinde, görev süreleri emekli maaþ
+ý ve/veya yaþlýlýk aylýðý almaya hak kazanýncaya kadar uzatý
 lýr.
 
  
@@ -51963,12 +51851,12 @@ arsid8022800
 arsid8022800        
 (B) Kamu görevlilerinin 60 (altmýþ) yaþýný
  doldurup 61 (altmýþ bir) yaþýndan gün aldýklarýnda, Emeklilik Yasasý
- veya Sosyal Güvenlik Yasasý kurallarý uyarýnca emekli maaþý ve/veya yaþlý
-lýk aylýðý almaya hak kazanmadýklarýnýn tespiti ve emekli maaþ
-ý ve/veya yaþlýlýk aylýðý almaya hak kazanýncaya kadar gö
+ veya Sosyal Güvenlik Yasasý kurallarý uyarýnca emekli maaþý ve/veya yaþ
+lýlýk aylýðý almaya hak kazanmadýklarýnýn tespiti ve emekli maaþý
+ ve/veya yaþlýlýk aylýðý almaya hak kazanýncaya kadar gö
 revlerine devam edecekleri sürelerin tespiti, Kamu Yönetimi ve Ýnsan Kaynaklarý Baþkanlýðý
- tarafýndan yapýlýr ve ilgili Kurumlara ve kamu görevli
-sine bildirilir. Bu süre hiçbir zaman 5 (beþ) yýlý aþamaz.
+ tarafýndan yapýlýr ve ilgili Kurumlara ve kamu gö
+revlisine bildirilir. Bu süre hiçbir zaman 5 (beþ) yýlý aþamaz.
 
 
  
@@ -52035,11 +51923,11 @@ as
 90.
 (1)     
 Her kurum bu Yasa çerçevesinde istihdam edilen kendisine baðlý
- tüm personelin kaydýný ve kendisine baðlý her kamu gö
-revlisi için bir özlük dosyasý tutmak ve dosyadaki evraklarýn bir suretini Kamu Yö
-netimi ve Ýnsan Kaynaklarý Baþkanlýðýna göndermekle yükü
-mlüdür. 
-
+ tüm personelin kaydýný ve kendisine baðlý her kamu görevlisi iç
+in bir özlük dosyasý tutmak ve dosyadaki evraklarýn bir suretini Kamu Yönetimi ve Ý
+nsan Kaynaklarý Baþkanlýðýna göndermekle yüküml
+üdür.
+ 
 
  
  (2
@@ -52065,12 +51953,12 @@ arsid13982679 (3
 
 arsid13982679 
 Özlük dosyasýnda kamu görevlisi ile ilgili performans deðerlendirme formu, kamu g
-örevlisinin eðitim ve öðrenim durumunu gösteren belgeler, önceden çalýþ
-makta olduðu görevler ve bu Yasa kapsamýnda atanmýþ bulunduð
+örevlisinin eðitim ve öðrenim durumunu gösteren belgeler, önceden ç
+alýþmakta olduðu görevler ve bu Yasa kapsamýnda atanmýþ bulunduð
 u kadrolarla ilgili belgeler, sertifikalarý, katýlmýþ olduðu
  kurslarýn belgeleri, aldýðý 
-ödüller, takdir belgeleri, uyarýlar, haklarýnda verilen disiplin cezalarý ile nedenleri ve hakký
-ndaki her türlü yazýþma, bilgi ve belgeler bulunur.
+ödüller, takdir belgeleri, uyarýlar, haklarýnda verilen disiplin cezalarý
+ ile nedenleri ve hakkýndaki her türlü yazýþma, bilgi ve belgeler bulunur.
  
 
 
@@ -52089,11 +51977,10 @@ arsid13982679 (4
  
 
 arsid13982679 
-Bu madde uyarýnca kayýtlarýn nasý
-l tutulacaðý ve neleri kapsayacaðý Kamu Yönetimi ve Ýnsan Kaynaklarý Baþ
-kanlýðýnca saptanýr.
- 
+Bu madde uyarýnca kayýtlarýn nasýl tutulacaðý ve neleri kapsayaca
+ðý Kamu Yönetimi ve Ýnsan Kaynaklarý Baþkanlýðýnca saptanýr.
 
+ 
 
 
 
@@ -52335,15 +52222,15 @@ Ka
 mu 
 gör
 ev
-liler
-ini
-n,b
-að
+lile
+rini
+n,
+bað
 lýb
 ul
-undu
-kla
-rý
+un
+duk
+larý
 ku
 ru
 mla
@@ -53166,15 +53053,15 @@ Ka
 mu 
 gör
 ev
-liler
-ini
-n,b
-að
+lile
+rini
+n,
+bað
 lýb
 ul
-undu
-kla
-rý
+un
+duk
+larý
 ku
 ru
 mla
@@ -57305,29 +57192,29 @@ i do
 ðr
 ud
 an 
-doðru
-ya veya
- avukatý
- ile
- b
-irlik
-te 
-sa
-vunm
-a 
-ha
-kk
-ýn
-a 
-sa
-hi
-ptir.
-
+doðruya 
+veya 
+avukatý 
+ile 
+birli
+kte
+ s
+avun
+ma
+ h
+ak
+ký
+na
+ s
+ah
+ip
+tir.
  
 
 
 
  
+
 
  
 
@@ -58818,28 +58705,28 @@ arsid7553598
 A
  
 arsid12999842 
-Yukarýdaki fýkralar uyarýnca disi
-plin soruþturmasý sürecinde kamu görevlisinin savunmasýný talep etmek amacý
-yla yapýlacak tebliðin kamu görevlisinin izinsiz ve özürsü
-z olarak 60 (altmýþ) günden uzun bir süredir sürekli görev yerine gelmemesi veya izinsiz ve ö
-zürsüz olarak uzun bir süredir yurt dýþýnda bulunmas
-ý nedeniyle yapýlamamasý halinde, aþaðýda belirtilen usullerden biri ile yapý
-labilir ve bu þekilde yapýlacak teblið geçerli bir teblið addolunarak kamu gö
-revlisi aleyhindeki disiplin süreci kamu görevlisinin gýyabýnda sürdürü
-lerek sonuçlandýrýlabilir:
+Yukarýdaki fýkralar uyarýnca disiplin soruþ
+turmasý sürecinde kamu görevlisinin savunmasýný talep etmek amacý
+yla yapýlacak tebliðin kamu görevlisinin izinsiz ve özürsüz olarak 60 (altmý
+þ) günden uzun bir süredir sürekli görev yerine gelmemesi veya izinsiz ve özü
+rsüz olarak uzun bir süredir yurt dýþýnda bulunmasý nedeniyle y
+apýlamamasý halinde, aþaðýda belirtilen usullerden biri ile yapýlabilir ve bu þ
+ekilde yapýlacak teblið geçerli bir teblið addolunarak kamu görevlisi aleyhindeki disiplin sü
+reci kamu görevlisinin gýyabýnda sürdürülerek sonuç
+landýrýlabilir:
 
  
  
 arsid12999842 
 
- (A) Kamu görevlisinin özlük dosyasý
-nda yer alan bilgilerinde belirttiði adrese iadeli taahhütlü mektup ile gönderimi yoluyla;
+ (A) Kamu görevlisinin özlü
+k dosyasýnda yer alan bilgilerinde belirttiði adrese iadeli taahhütlü mektup ile gönderimi yoluyla;
 
  
 
  (B) Kamu görevlisinin özlük dosyasý
-nda yer alan bilgilerinde belirttiði güncel cep telefon numarasýna sms veya elektronik ve/veya ç
-evrimiçi mesaj þeklinde gönderim yoluyla;
+nda yer alan bilgilerinde belirttiði güncel cep telefon numarasýna sms veya elektronik ve/veya çevrimiç
+i mesaj þeklinde gönderim yoluyla;
 
  
 
@@ -58849,8 +58736,8 @@ nda yer alan bilgilerinde belirttiði e-posta adresine e-posta ile gönderim yol
  
 
  (Ç) Kamu görevlisinin baðlý
- bulunduðu kurumu tarafýndan verilmiþ kurumsa
-l e-posta adresine e-posta ile gönderimi yoluyla; ve
+ bulunduðu kurumu tarafýndan verilmiþ kurumsal e-posta adresine e-posta ile gö
+nderimi yoluyla; ve
 
  
 
@@ -58868,8 +58755,8 @@ arsid7553598
  
 arsid5971469 
 (1) Bu Yasa uyarýnca uyarma ve kýnama cezasýný gerektiren disiplin iþlem ve uygulamalarý
-nda isnat olunan eylem ve davranýþlar ilgili kamu görevlisine baðlý bulunduðu kurumu
-n en üst düzeydeki amiri tarafýndan açýkça ve yazýlý
+nda isnat olunan eylem ve davranýþlar ilgili kamu görevlisine baðlý bulunduðu kurumun en ü
+st düzeydeki amiri tarafýndan açýkça ve yazýlý
  olarak derhal bildirilir ve yazýlý savunmasý istenir. Savunma için verilecek süre 10 (on) iþ
  gününden az olamaz.
 
@@ -58908,8 +58795,8 @@ arsid5971469
  
 arsid5971469 .
  (3) Yukarýdaki (1)
-inci ve (2)nci fýkralar uyarýnca uyarma ve kýnama cezalarý ile ilgili disiplin iþ
-lemlerinde uygulanacak usul ve esaslar Baþbakanlýkça hazý
+inci ve (2)nci fýkralar uyarýnca uyarma ve kýnama cezalarý
+ ile ilgili disiplin iþlemlerinde uygulanacak usul ve esaslar Baþbakanlýkça hazý
 rlanacak, Bakanlar Kurulunca onaylanacak ve Resmi Gazetede yayýmlanacak bir tüzükle düzenlenir.
 
  
@@ -59004,8 +58891,8 @@ fý
 nda
 n 
 tüm bilgi, belge ve kanýtlar çerçevesinde yazý
-lý savunmanýn alýndýðý tarihten baþlayarak 5(beþ) iþ
- günü içinde verilir. 
+lý savunmanýn alýndýðý tarihten baþlayarak 5(beþ
+) iþ günü içinde verilir. 
  
 
 
@@ -59215,8 +59102,8 @@ u
 di
 sip
 lin ce
-za
-larý
+zala
+rý
 ný
  g
 ere
@@ -59328,8 +59215,8 @@ nlard
 
  
 19.
-34/
-1989
+34/19
+89
 
  
  
@@ -59551,11 +59438,11 @@ fý
 nd
 an 
 yaz
-ýlý
- ola
+ýlý 
+ola
 rak 
-bil
-diril
+bild
+iril
 mesidir.
 
  
@@ -59625,19 +59512,19 @@ ek;
  a
 rk
 ad
-aþlarý
- ile
- g
+aþlar
+ý 
+ile g
 öre
-vin 
-ge
+vin
+ ge
 re
-ktird
-ið
+ktir
+dið
 i 
-uyu
-m 
-ve
+uy
+um
+ ve
 
  
  i
@@ -59909,8 +59796,8 @@ arsid5971469
  
 arsid5971469 .
  (3) Yukarýdaki (1)
-inci ve (2)nci fýkralar uyarýnca uyarma ve kýnama cezalarý ile ilgili disiplin iþ
-lemlerinde uygulanacak usul ve esaslar Baþbakanlýkça hazý
+inci ve (2)nci fýkralar uyarýnca uyarma ve kýnama cezalarý
+ ile ilgili disiplin iþlemlerinde uygulanacak usul ve esaslar Baþbakanlýkça hazý
 rlanacak, Bakanlar Kurulunca onaylanacak ve Resmi Gazetede yayýmlanacak bir tüzükle düzenlenir.
 
  
@@ -60005,8 +59892,8 @@ fý
 nda
 n 
 tüm bilgi, belge ve kanýtlar çerçevesinde yazý
-lý savunmanýn alýndýðý tarihten baþlayarak 5(beþ) iþ
- günü içinde verilir. 
+lý savunmanýn alýndýðý tarihten baþlayarak 5(beþ
+) iþ günü içinde verilir. 
  
 
 
@@ -60216,8 +60103,8 @@ u
 di
 sip
 lin ce
-za
-larý
+zala
+rý
 ný
  g
 ere
@@ -60329,8 +60216,8 @@ nlard
 
  
 19.
-34/
-1989
+34/19
+89
 
  
  
@@ -60552,11 +60439,11 @@ fý
 nd
 an 
 yaz
-ýlý
- ola
+ýlý 
+ola
 rak 
-bil
-diril
+bild
+iril
 mesidir.
 
  
@@ -60626,19 +60513,19 @@ ek;
  a
 rk
 ad
-aþlarý
- ile
- g
+aþlar
+ý 
+ile g
 öre
-vin 
-ge
+vin
+ ge
 re
-ktird
-ið
+ktir
+dið
 i 
-uyu
-m 
-ve
+uy
+um
+ ve
 
  
  i
@@ -61366,81 +61253,80 @@ i
 bu
 çu
 k 
-yýl
- v
-ey
-a   
-üç  
- y
-ýl   
-sür
-ey
-le   
-du
-rdu
-ru
-lm
-as
-ý   v
-ey
-a   
-en   
-so
-n çek
-me
-kte 
-ol
-duð
-u b
-ir 
-ay
-lý
-k 
-net
- m
-aa
-þý
-ný
-n 
-bir
- bö
-lü ik
-is
-in
-in
- k
-es
-il
-me
-si
- v
-ey
-a 
-her
- i
-ki
- c
-ez
-an
-ýn 
-bir
-den 
+yýl 
 ve
-ril
-di
-ði
+ya  
+ ü
+ç   
+yýl  
+ sü
+re
+yle  
+ d
+urd
+ur
+ul
+ma
+sý   
+ve
+ya  
+ en  
+ s
+on ç
+ekm
+ek
+te o
+ldu
+ðu
+ bir
+ a
+yl
+ýk
+ n
+et 
+ma
+aþ
+ýn
+ýn
+ b
+ir 
+bölü
+ iki
+si
 ni
 n 
-ya
-zýlý
- o
-lar
-ak 
-bil
-di
-ri
+ke
+si
 lm
-esidir.
+es
+i 
+ve
+ya
+ h
+er 
+ik
+i 
+ce
+za
+ný
+n b
+ird
+en v
+er
+ild
+ið
+in
+in
+ y
+az
+ýlý 
+ola
+rak
+ b
+ild
+ir
+il
+mesidir.
 
  
  Uz
@@ -61751,8 +61637,8 @@ na
 að
 me
 n 
-devamlýlýkla ilgili saptanan yöntemlere uymamayý alý
-þkanlýk haline getirmek.
+devamlýlýkla ilgili saptanan yöntemlere uymamayý
+ alýþkanlýk haline getirmek.
 
  
  2
@@ -62289,9 +62175,9 @@ taþ
 
 
  
-
  
-(ç)
+(
+ç)
  
 Yet
 kili
@@ -63945,8 +63831,8 @@ uð
 a b
 að
 lýd
-ýrla
-r.
+ýrlar
+.
 
  
  
@@ -63972,15 +63858,15 @@ lileri
 ne 
 görevden uzakta geçirdikleri sü
 re veya herhangi bir suçtan dolayý tutuklanan kamu görevlilerine hükümsü
-z olarak tutuklu bulunduklarý süre izinsiz ve özürsüz göreve ge
-lmemek adledilmez ve göreve gelemedikleri süre için kamu görevlilerine aylýk maaþ
+z olarak tutuklu bulunduklarý süre izinsiz ve özürsüz gö
+reve gelmemek adledilmez ve göreve gelemedikleri süre için kamu görevlilerine aylýk maaþ
  tutarýnýn yarýsý ödenir ve bu Yasada öngörü
-len haklardan ve diðer çýkarlardan yararlanmaya devam ederler. Görevden geçici olarak uzaklaþtý
-rýlan kamu görevlilerine mahkemenin 1(bir) yýla kadar sonuç
+len haklardan ve diðer çýkarlardan yararlanmaya devam ederler. Görevden geç
+ici olarak uzaklaþtýrýlan kamu görevlilerine mahkemenin 1(bir) yýla kadar sonuç
 lanmamasý halinde, tam maaþ verilir ve Kamu Hizmeti Komisyonu tarafýndan kadrosuna geri döndürü
-lür. Kamu görevlisinin dava konusu görevi ile ilgili olmasý halinde, dava sonuçlaný
-ncaya kadar baþka bir kuruma kadrosuna denk bir kadroya Kamu Hizmeti tarafýndan görev
-lendirilir.      
+lür. Kamu görevlisinin dava konusu görevi ile ilgili olmasý halinde, dava s
+onuçlanýncaya kadar baþka bir kuruma kadrosuna denk bir kadroya Kamu Hizmeti tarafýndan gö
+revlendirilir.      
 
 
 
@@ -63994,8 +63880,8 @@ lendirilir.
  
  
 Ancak, dava konusu gö
-revi ile ilgili olmamasý halinde ise kurumun talebi doðrultusunda kadrosuna denk bir kadroya Kamu Hizmeti Komisyonu tarafýndan gö
-revlendirilebilir. Denk kadro; ayný hizmet sýnýfýnda bulunan ayný alt hizmet sý
+revi ile ilgili olmamasý halinde ise kurumun talebi doðrultusunda kadrosuna denk bir kadroya Kamu Hizmeti Komisyonu tarafý
+ndan görevlendirilebilir. Denk kadro; ayný hizmet sýnýfýnda bulunan ayný alt hizmet sý
 nýflarýný, ayný öðrenim koþulunu, ayný
  derece ve baremdeki gö
 revleri anlatýr.
@@ -64008,31 +63894,31 @@ revleri anlatýr.
  
 arsid1009992      
 Ayrýca, görevden uzaklaþtýrý
-lan ve/veya soruþturmasý ve kovuþturmasý devam eden kamu görevlilerinin Kamu Hizmeti Komisyonu tarafý
-ndan münhal ilan edilen kadrolarýn 
-sýnavlarýnda baþarýlý
- olmalarý halinde, atamalarý dava sonuçlanýnca yapýlýr.
+lan ve/veya soruþturmasý ve kovuþturmasý devam eden kamu gö
+revlilerinin Kamu Hizmeti Komisyonu tarafýndan münhal ilan edilen kadrolarýn 
+sýnavlarýnda baþarý
+lý olmalarý halinde, atamalarý dava sonuçlanýnca yapýlýr.
 
 
  
 
-    
-Ancak mahkeme sonucunda kamu görevlisinin mahkum olmasý ve hapis cezasý almasý halinde hapiste geçen sü
-re için maaþ verilmez.
+    Ancak mahkeme sonucunda kamu gö
+revlisinin mahkum olmasý ve hapis cezasý almasý
+ halinde hapiste geçen süre için maaþ verilmez.
 
  
 
-    Geçici olarak gö
-revden uzaklaþtýrýlan kamu gö
-revlilerinin beraatlarý halinde, görevden uzakta geçirdikleri süre hizmette geçirilmiþ
- sayýlýr ve aylýk kesinti tutarlarý geciktirilmeksizin verilir.
+    Geç
+ici olarak görevden uzaklaþtýrýlan kamu görevlilerinin beraatlarý halinde, gö
+revden uzakta geçirdikleri süre hizmette geçirilmiþ sayýlýr ve ayl
+ýk kesinti tutarlarý geciktirilmeksizin verilir.
 
  
 
     Ancak kamu gö
-revlisinin yetkili bir mahkeme tarafýndan suçlu bulunup mahkum olmasý veya bu Yasanýn 100
-üncü maddesinde öngörülen disiplin cezalarýndan bir veya daha fazlasý
-yla cezalandýrýlmasý halinde görevden uzakta geçirdikleri süre hizmetten sayý
+revlisinin yetkili bir mahkeme tarafýndan suçlu bulunup mahkum olmasý veya bu Yasanýn 100üncü
+ maddesinde öngörülen disiplin cezalarýndan bir veya daha fazlasýyla cezalandý
+rýlmasý halinde görevden uzakta geçirdikleri süre hizmetten sayý
 lmaz; bu süre kademe ilerlemelerinde dikkate alýnmaz, aylýk kesinti tutarlarý verilmez.
 
  
@@ -64428,8 +64314,8 @@ ur
  
 C
 ez
-ai Soruþturm
-anýn ve K
+ai Soruþturmaný
+n ve K
 ovuþ
 tu
 rm
@@ -64819,127 +64705,127 @@ ul
 un
 duð
 u k
-ur
-um
-a 
-ön
-em
-li b
-ir y
-ar
-ar 
-sa
-ðl
-ay
-an y
-a 
-da
- y
-ar
-ar
-lý 
-bu
-luþ
-lar
-la k
-am
-u 
-gi
-de
-rle
-ri
-nd
-e ö
+uru
+ma
+ ö
 ne
 mli
- t
-as
-arru
-flar
- v
-ey
+ bir 
+ya
+rar
+ s
+að
+la
+yan 
+ya
+ d
 a 
-geli
-rl
+ya
+ra
+rlý
+ b
+ul
+uþla
+rla 
+ka
+mu
+ g
+id
 er
+ler
 in
 de 
 ön
 em
 li 
-ar
-tý
-þlar
- s
-að
-la
-ya
-n k
-am
-u 
-gör
-ev
-lileri
-ne, 
-ba
-ðlý
- b
-ul
-un
-duk
-lar
-ý k
-ur
-um
-un
- en
- ü
-st 
-dü
-ze
-yd
-ek
-i a
-mir
-in
- ö
-ne
-ri
-si
- ü
-zer
-in
-e 
+ta
+sa
+rruf
+lar 
 ve
- K
-am
-u 
-Hiz
-meti K
-om
-is
-yonu
-nca
- ü
-ç 
+ya
+ g
+elir
+le
+ri
+nd
+e ö
+ne
+mli
+ a
+rt
+ýþ
+lar 
+sa
+ðl
 ay
-lý
-ða
- k
-ad
-ar
- öd
-ül
- v
+an 
+ka
+mu
+ g
+öre
+vliler
+in
+e, b
+að
+lý 
+bu
+lu
+nd
+ukla
+rý
+ ku
+ru
+mu
+n 
+en 
+üs
+t d
+üz
+ey
+de
+ki 
+am
+iri
+n 
+ön
 er
-ileb
-ilir.
+is
+i 
+üz
+eri
+ne
+ v
+e 
+Ka
+mu
+ Hi
+zm
+eti Ko
+mi
+sy
+onun
+ca 
+üç
+ a
+yl
+ýð
+a 
+ka
+da
+r 
+ödü
+l 
+ve
+rile
+bilir.
+
  
 
 
 
-
  
+
 
 
 
@@ -65006,8 +64892,8 @@ A)
  
 arsid13074052 
 Kamu görevlilerinin haftalýk çalýþma sü
-resi, 39 (otuz dokuz) saattir. Bu süreler, Cumartesi ve Pazar günleri tatil olmak ü
-zere düzenlenir.
+resi, 39 (otuz dokuz) saattir. Bu süreler, Cumartesi ve Pazar günleri tatil olmak üzere düzenlenir
+.
 
  
    
@@ -65076,9 +64962,9 @@ ez
 
  
   
-Sürekli ve fiili olarak röntgen, radyon veya radyoaktif ýþýn
-larla çalýþanlar günde 5 (beþ) saatten fazla çalýþ
-týrýlamazlar.
+Sürekli ve fiili olarak röntgen, radyon veya radyoaktif ýþýnlarla ç
+alýþanlar günde 5 (beþ) saatten fazla çalýþtýrý
+lamazlar.
  
 
 
@@ -65087,8 +64973,8 @@ týrýlamazlar.
 
 
 
-
  
+
 arsid9265003 
 
  
@@ -65133,15 +65019,14 @@ arsid9265003 (B
 arsid9265003 
 Çalýþma saatleri dýþýnda çalýþ
 malarý öngörülen kamu görevlilerinin, çalýþ
-ma saatleri dýþýnda da çalýþmalarý esastýr. Bu takdirde, ek ç
-alýþma ödeneði ile ilgili bu Yasanýn 27nci madde kurallarý
- uygulanýr.   
+ma saatleri dýþýnda da çalýþmalarý esastýr. Bu takdirde, ek çalýþ
+ma ödeneði ile ilgili bu Yasanýn 27nci madde kurallarý uygulaný
+r.   
 
      
 Ancak 1 Ocak 2011 tarihinden sonra  atanan ve Kamu Çalýþanlarýný
-n Aylýk (Maaþ-Ücret) ve Diðer Ödeneklerinin Düzenlenmesi Yasasýna t
-abi olanlar için söz konusu Yasanýn 11inci madde kurallarý uygulan
-ýr.
+n Aylýk (Maaþ-Ücret) ve Diðer Ödeneklerinin Düzenlenmesi Yasasý
+na tabi olanlar için söz konusu Yasanýn 11inci madde kurallarý uygulanýr.
 
  
  
@@ -65273,42 +65158,41 @@ in
 in ça
 lýþ
 ma
- süresi h
-aftada 39 (o
-tu
-z 
-dokuz),
- s
-aa
-t 
-ol
-ma
-k 
-üz
-ere
- h
-iz
-met
- te
-þk
-ilat
+ süresi haftada 39 
+(ot
+uz
+ dokuz
+), 
+sa
+at
+ o
+lm
+ak
+ ü
+zer
+e 
+hi
+zm
+et 
+teþ
+kila
+tý
+ný
+n ku
+ru
+lu
+þ v
+e g
+örev
+ y
+as
+alar
 ýn
-ýn 
-kur
-ul
-uþ
- ve 
-gör
-ev 
-ya
-sal
-arý
-nd
-a 
-beli
-rle
-nir.
-
+da
+ b
+elir
+len
+ir.
  
 
 
@@ -65318,34 +65202,34 @@ nir.
 
  
 32.65/2026
+
  
-(4
-)
- 
-Dü
-ze
-nsiz
- m
-es
-ai 
-us
-ul
-ü ça
-lýþ
-ma
- g
-er
-ek
-tiren
- ka
-mu
- h
-iz
+(4)
+
+ D
+üz
+ens
+iz 
 me
-tle
-ri
-nd
-e
+sai
+ u
+su
+lü ç
+al
+ýþm
+a 
+ge
+re
+kt
+iren k
+am
+u 
+hi
+zm
+et
+ler
+in
+de
 
  
  
@@ -65394,9 +65278,9 @@ sa
 atl
 er
 i Kamu Yönetimi ve Ý
-nsan Kaynaklarý Baþkanlýðýnýn
- ö
-ne
+nsan Kaynaklarý Baþkanlýðý
+nýn 
+öne
 ri
 si
  ü
@@ -65779,35 +65663,34 @@ nýp
 ak
 an
 lar K
-ur
-ul
-un
-ca o
-na
-yl
-ana
-cak
- v
-e R
-es
-mi
- Gaz
-ete
-de
- ya
-yý
-mla
-na
-cak 
-bir
- t
-üzü
-kle
- d
-üz
-enle
-nir.
-
+uru
+lu
+nca
+ on
+ay
+la
+nac
+ak 
+ve
+ Re
+sm
+i 
+Gazete
+d
+e 
+yay
+ým
+lan
+aca
+k b
+ir 
+tüz
+ük
+le 
+düz
+en
+len
+ir.
  
 
 
@@ -65818,15 +65701,16 @@ nir.
  
 
  
+
 arsid6493882 
-
- 
  
 
+ 
 
 
 
  
+
 
 
 
@@ -66132,65 +66016,66 @@ ka
 zan
 dý
 kla
-rý iz
-in,
- t
-opl
-am 8
-4 
-gün
-ü 
+rý
+ izin
+, 
+topl
+am
+ 84
+ gü
+nü 
 aþ
-mam
-ak 
-ko
+ma
+mak
+ ko
 þu
-luy
-la 
-he
-rha
-ng
-i 
-bir h
-iz
-me
-t y
-ýl
-ý 
-için 
-28 g
-ün
-e 
-kad
-ar 
-biri
-ktirileb
-ilir.
+lu
+yl
+a he
+rh
+an
+gi
+ bir
+ hi
+zm
+et
+ yý
+lý
+ için
+ 2
+8 gü
+ne
+ k
+adar
+ b
+irik
+tirilebilir.
+
  
 
 
 
 
-
- A
-nc
-ak,
- i
-ki
- yý
-la k
-ad
-ar h
-iz
-me
-ti 
-ola
-nla
-rýn
- ka
-za
-nd
-ýkla
+ 
+An
+cak
+, 
+iki
+ y
+ýla 
+ka
+dar 
+hi
+zm
+eti
+ o
+lan
+larý
+n k
+az
+an
+dý
+kla
 rý iz
 in
 
@@ -66334,8 +66219,8 @@ zni
 nd
 en 
 say
-ýlý
-r.
+ýlýr
+.
  
 
 
@@ -66345,31 +66230,31 @@ r.
 
  
 
+ (5
+)
  
-(5)
-
- K
-am
-u g
-öre
-vlileri,
- y
-ýllý
-k iz
-in
- h
-akla
-rý
-ný
- y
-a t
-üm
-üy
-le 
-bir 
-de
-fa
-da
+Ka
+mu
+ gö
+rev
+lileri, 
+yýll
+ýk
+ izi
+n 
+ha
+klar
+ýn
+ý 
+ya
+ tü
+mü
+yle
+ b
+ir d
+ef
+ad
+a
 
  
  v
@@ -66433,19 +66318,20 @@ mu
 rev
 lis
 i   y
-ýllý
-k   
-izi
-n   h
-akk
-ýn
-ý,   
-izin   
-baþ
-vur
-us
-un
-da
+ýll
+ýk  
+ iz
+in   
+ha
+kký
+ný,  
+ izin  
+ b
+aþvu
+ru
+su
+nd
+a
 
  
  b
@@ -66764,24 +66650,24 @@ or Dai
 resi
 ne b
 að
-lý
- Piy
-an
-go
-lar Bir
-im
-in
-de
- ya
-pýlan
- h
-izm
-et
-lerd
-en, 
-ve
-ya
- Özü
+lý 
+Piy
+ang
+olar 
+Bir
+imi
+nd
+e 
+yap
+ýlan 
+hi
+zme
+tle
+rde
+n, 
+vey
+a 
+Özü
 rl
 üle
 ri Koru
@@ -66946,10 +66832,10 @@ i
 yýla
  ak
 tar
-abilirl
-er.
-
+abilirle
+r.
  
+
 
 
 
@@ -67290,65 +67176,66 @@ ka
 zan
 dý
 kla
-rý iz
-in,
- t
-opl
-am 8
-4 
-gün
-ü 
+rý
+ izin
+, 
+topl
+am
+ 84
+ gü
+nü 
 aþ
-mam
-ak 
-ko
+ma
+mak
+ ko
 þu
-luy
-la 
-he
-rha
-ng
-i 
-bir h
-iz
-me
-t y
-ýl
-ý 
-için 
-28 g
-ün
-e 
-kad
-ar 
-biri
-ktirileb
-ilir.
+lu
+yl
+a he
+rh
+an
+gi
+ bir
+ hi
+zm
+et
+ yý
+lý
+ için
+ 2
+8 gü
+ne
+ k
+adar
+ b
+irik
+tirilebilir.
+
  
 
 
 
 
-
- A
-nc
-ak,
- i
-ki
- yý
-la k
-ad
-ar h
-iz
-me
-ti 
-ola
-nla
-rýn
- ka
-za
-nd
-ýkla
+ 
+An
+cak
+, 
+iki
+ y
+ýla 
+ka
+dar 
+hi
+zm
+eti
+ o
+lan
+larý
+n k
+az
+an
+dý
+kla
 rý iz
 in
 
@@ -67492,8 +67379,8 @@ zni
 nd
 en 
 say
-ýlý
-r.
+ýlýr
+.
  
 
 
@@ -67503,31 +67390,31 @@ r.
 
  
 
+ (5
+)
  
-(5)
-
- K
-am
-u g
-öre
-vlileri,
- y
-ýllý
-k iz
-in
- h
-akla
-rý
-ný
- y
-a t
-üm
-üy
-le 
-bir 
-de
-fa
-da
+Ka
+mu
+ gö
+rev
+lileri, 
+yýll
+ýk
+ izi
+n 
+ha
+klar
+ýn
+ý 
+ya
+ tü
+mü
+yle
+ b
+ir d
+ef
+ad
+a
 
  
  v
@@ -67591,19 +67478,20 @@ mu
 rev
 lis
 i   y
-ýllý
-k   
-izi
-n   h
-akk
-ýn
-ý,   
-izin   
-baþ
-vur
-us
-un
-da
+ýll
+ýk  
+ iz
+in   
+ha
+kký
+ný,  
+ izin  
+ b
+aþvu
+ru
+su
+nd
+a
 
  
  b
@@ -67922,24 +67810,24 @@ or Dai
 resi
 ne b
 að
-lý
- Piy
-an
-go
-lar Bir
-im
-in
-de
- ya
-pýlan
- h
-izm
-et
-lerd
-en, 
-ve
-ya
- Özü
+lý 
+Piy
+ang
+olar 
+Bir
+imi
+nd
+e 
+yap
+ýlan 
+hi
+zme
+tle
+rde
+n, 
+vey
+a 
+Özü
 rl
 üle
 ri Koru
@@ -68104,10 +67992,10 @@ i
 yýla
  ak
 tar
-abilirl
-er.
-
+abilirle
+r.
  
+
 
 
 
@@ -69932,9 +69820,8 @@ si
 zer
 in
 e 
-Kamu Yönetimi ve
- Ýnsan Kaynaklarý Baþkanlýðý
-ndan 
+Kamu Yönetimi ve Ýnsan Kaynaklarý Baþ
+kanlýðýndan 
 uy
 gu
 nl
@@ -71974,10 +71861,10 @@ n almamýþ çocuklarýný kapsar.
 
  
  
-arsid5389033 (2) Kamu g
-örevlisine, engelli çocuklarý iç
-in kullanmak üzere 1 (bir) yýlda en çok 15 (on beþ) güne kadar mazeret izni verilir. Sö
-z konusu izin yukarýdaki (1)inci fýkra kurallarýna ek olarak verilir.
+arsid5389033 
+(2) Kamu görevlisine, engelli çocuklarý için kullanmak üzere 1 (bir) yýlda en 
+çok 15 (on beþ) güne kadar mazeret izni verilir. Söz konusu izin yukarýdaki (1)
+inci fýkra kurallarýna ek olarak verilir.
 
  
  
@@ -71994,8 +71881,8 @@ nerek de kullanýlabilir.
  
 
  (4) Kamu görevlisine, eþinin doð
-um yapmasý halinde doðum öncesi veya doðum sonrasý olmak ü
-zere tercihe göre 5 (beþ) gün mazeret izni verilir.
+um yapmasý halinde doðum öncesi veya doðum sonrasý olmak üzere tercihe gö
+re 5 (beþ) gün mazeret izni verilir.
 
  
  
@@ -72007,7 +71894,6 @@ arsid5389033
 (5) Kamu görevlisinin kendisinin veya çocuklarýnýn evlenmesi, annesinin, babasýný
 n, eþinin, çocuðunun veya kardeþinin ölümü hallerinde her defas
 ýnda 5 (beþ) gün mazeret izni verilir.
-
 
  
 
@@ -72684,36 +72570,35 @@ mi
 nd
 en s
 ay
-ýlýr,
- a
-yr
-ýca 
-ba
-re
-m 
-içi 
+ýlýr, 
+ay
+rýca
+ b
 ar
-týþ 
-ve ta
-hsi
-sat
- m
-en
-fa
-atle
-ri
+em
+ içi
  a
-çý
-sý
-nd
-an
- d
-a 
-di
-kkate
- al
+rtýþ
+ v
+e tahs
+is
+at 
+me
+nf
+aa
+tler
+i 
+aç
+ýs
 ýn
-ýr.
+da
+n 
+da
+ d
+ikk
+ate 
+alý
+nýr.
 
  
 
@@ -73964,7 +73849,6 @@ drola
 rý
 ný
 
-
  
  m
 uh
@@ -74076,9 +73960,9 @@ am
 u  
 gör
 ev
-liler
-in
-e,
+lileri
+ne,
+
 
  
 
@@ -74599,22 +74483,22 @@ fSoftEdge0fGlow0fRotateWithShape0fReflection0fLayoutInCell1
 (5)     
  Bu maddeye baðlý
  II. Cetvelde yer alan Yöneticilik Hizmetleri Sýnýfýnýn (Ü
-st Kademe Yöneticisi Sayýlmayan Diðer Yöneticiler) IInci ve III
-üncü Derecelerindeki kadrolarda, Mesleki ve Teknik Hizmetler Sýnýflarý altý
+st Kademe Yöneticisi Sayýlmayan Diðer Yöneticiler) IInci ve IIIünc
+ü Derecelerindeki kadrolarda, Mesleki ve Teknik Hizmetler Sýnýflarý altý
 nda yer alan Yüksek Öðrenimli Hizmet Sýnýflarý (Tabiplik Hizmetleri Sý
 nýfý hariç), Orta Öðrenimli Hizmet Sýnýflarý
- ve Ortaokul Öðrenimli Hizmet Sýnýflarý ile Genel Hizm
-et Sýnýflarý altýnda yer alan Yüksek Öðrenimli Hizmet Sý
-nýflarý, Orta Öðrenimli Hizmet Sýnýflarý ve Ortaokul Öð
-renimli Hizmet Sýnýflarý kadrolarýnda bulunan ve;
+ ve Ortaokul Öðrenimli Hizmet Sýnýflarý ile Genel Hizmet Sýný
+flarý altýnda yer alan Yüksek Öðrenimli Hizmet Sýnýflarý,
+ Orta Öðrenimli Hizmet Sýnýflarý ve Ortaokul Öðrenimli Hizmet S
+ýnýflarý kadrolarýnda bulunan ve;
 
  
  
 arsid15687593 (
 A) (a) (i) Yöneticilik Hizmetleri Sýnýfý
-nýn (Üst Kademe Yöneticisi Sayýlmayan Diðer Yöneticil
-er) IInci veya IIIüncü Derecesinin 10uncu kademesinde en az 1 (bir) yý
-l çalýþmýþ;
+nýn (Üst Kademe Yöneticisi Sayýlmayan Diðer Yöneticiler) II
+nci veya IIIüncü Derecesinin 10uncu kademesinde en az 1 (bir) yýl ç
+alýþmýþ;
 
  
  
@@ -74735,8 +74619,8 @@ lan,
 
  
  
-arsid9392980         
-                                                         
+arsid9392980 
+                                                                 
 B 
 Me
 mur
@@ -74946,8 +74830,8 @@ a
 ba
 re
 m 
-içi a
-rtý
+içi ar
+tý
 þla
 rla
  g
@@ -76063,14 +75947,14 @@ rev
 apan
  Per
 son
-elin 
-Kad
+elin K
+ad
 ro
 la
 rý
  
-ve
- Dýþ
+ve 
+Dýþ
  G
 ör
 ev 
@@ -76079,45 +75963,44 @@ en
 ek
 leri 
 Ya
-s
-as
-ý 
+sa
+sý
+ 
 ile
  y
 ür
-ü
-rl
-ükten
- k
-al
-dý
-rý
-lmýþ 
-ol
-up,
- b
-u 
-ma
-dd
-ed
-e 
-Y
-ur
-t 
-Dýþ
-ý G
-ör
-ev 
-Öd
-en
-ek
-leri Ya
-sa
-sý
-n
-a 
-yap
-ýlmýþ
+ür
+lü
+kten 
+ka
+ld
+ý
+rýlmýþ
+ o
+lup
+, 
+bu
+ m
+ad
+de
+de
+ 
+Yu
+rt
+ Dý
+þ
+ý Gö
+rev
+ Ö
+de
+ne
+kleri Y
+as
+as
+ý
+na
+ y
+apýlmýþ
  ol
 an
  a
@@ -76126,44 +76009,45 @@ týf
 ur
 t 
 Dý
-þý
-nda
- G
-ö
+þ
+ýnd
+a 
+Gö
 rev
  Y
 apan
  Per
 son
 elin 
-Kad
-ro
-la
-r
+K
+adr
+ol
+ar
 ý ve 
-Dýþ 
-Gö
-rev
- Ö
-de
-ne
-kleri
- Y
-a
+Dýþ
+ G
+ör
+ev 
+Öd
+en
+ek
+leri 
+Ya
 sa
 sý
-na
- y
-apý
-lmýþ 
-sa
-yýlý
-r.
+n
+a 
+yap
+ýlmýþ
+ s
+ayý
+lýr.
 
  
 
 
  
+
 
 
 
@@ -78568,38 +78452,39 @@ rlaþ
 týrý
 lm
 ý
-þ  o
-lan
-lar
-a  
-77. 
- m
-add
+þ  
+ola
+nla
+ra 
+ 77
+.  
+ma
+dde 
+ ç
+erç
+ev
+esi
+nd
 e  
-çer
-çe
-ves
-in
-de 
- ö
-ðr
-en
-im 
-ve
-ya
- i
-ht
-is
-as 
-ya
-pm
-a 
-iz
+öð
+re
 ni
- v
-er
-il
-ir.
+m v
+ey
+a 
+ih
+ti
+sas
+ y
+ap
+ma
+ i
+zn
+i 
+ve
+ri
+lir.
+
  
 
 
@@ -78609,35 +78494,34 @@ ir.
 
  
 40.65/2026
-
  
-(3)
-
- E
-ðit
-im 
- v
-e  
-ye
-tiþ
-ti
-rm
-e  
-içi
-n  
-yur
-t  
-dý
-þý
-na 
- g
-ön
-de
-rilec
-ek 
- k
-am
-u
+(3
+)
+ 
+Eð
+iti
+m  
+ve 
+ y
+eti
+þt
+ir
+me 
+ iç
+in 
+ yu
+rt 
+ d
+ýþ
+ýn
+a  
+gö
+nd
+er
+ilece
+k  
+ka
+mu
 
  
  
@@ -78772,82 +78656,82 @@ e
 
 arsid7169423 128
 . 
-Kamu Yönetimi ve Ýnsan Kaynaklarý Baþkanlýðý 
-ile
- De
-vlet
- P
+Kamu Yönetimi ve Ýnsan Kaynaklarý
+ Baþkanlýðý i
+le 
+Dev
+let 
+Pl
+an
 la
-nl
-am
-a Örg
-üt
-ü,
- e
-ðit
-im 
-bir
-im
- v
-e m
-er
-ke
-zle
-ri
-ni
-n s
-ap
-ta
-nan
- e
-ðit
-im
- po
-liti
-kala
-rý
-na
- u
-ygu
-n 
+ma Ö
+rgü
+tü
+, 
+eð
+iti
+m b
+iri
+m 
+ve 
+me
+rk
+ez
+ler
+in
+in 
+sa
+pt
+an
+an 
 eð
 iti
 m 
-ya
-pýp 
-ya
-pm
-ad
-ýk
-lar
+polit
+ik
+alar
 ýn
-ý 
-koord
-in
-eli 
-bir
+a 
+uy
+gun
+ e
+ðit
+im
+ y
+ap
+ýp y
+ap
+ma
+dý
+kla
+rý
+ný
+ k
+oordi
+neli
  b
-içi
-md
-e 
+ir 
+biç
+im
 de
-netl
-em
-ek
-le 
-yükü
-ml
-üd
-ür
-ler
-.
- 
-
-
-
+ d
+en
+etle
+me
+kle
+ yü
+küm
+lü
+dü
+rle
+r.
 
  
-E
+
+
+
+
+ E
 ðit
 im
  g
@@ -78939,65 +78823,66 @@ i alý
 na
 rak 
 Kamu Yönetimi ve Ýnsan Kaynaklarý Baþkanlýðý
-nca bir
- k
-am
-u 
-gör
-ev
-lileri g
-en
-el 
-eð
-iti
-m 
-plâ
-ný
- h
-az
-ýrlan
-ýr. B
-u P
-lân
-, 
-Ba
+nca b
+ir 
 ka
-nlar
- K
-ur
-ul
-unca
- b
-ir k
-ar
-ar
-na
-me
- ile
- R
-es
-mî
- Ga
-zet
-e'
-de
- y
-ay
-ýn
-la
+mu
+ g
+öre
+vlileri 
+ge
+nel
+ e
+ðit
+im
+ p
+lân
+ý 
+ha
+zýrla
 nýr.
-
+ Bu 
+Plâ
+n,
+ B
+ak
+an
+lar 
+Ku
+ru
+lun
+ca 
+bir
+ ka
+ra
+rn
+am
+e 
+ile 
+Re
+sm
+î 
+Gaz
+ete
+'d
+e 
+ya
+yý
+nl
+an
+ýr.
  
 
 
 
 
- 
-Ra
-por
- v
-er
-me
+
+ R
+apo
+r 
+ve
+rm
+e
 
  
  Y
@@ -79542,154 +79427,153 @@ ul
 u
  
 132.
-
  
-(1)
+(1
+)
  
-K
-am
-u  
-gör
-ev
-lileri
-nin  
-ay
-lýk 
- v
-e  
-öde
-ne
-kle
-ri, 
- h
-ak
-lar
-ý  
-ve 
-yükü
-mle
-ri
- ödev
- v
-e 
-soru
-ml
-ul
-uk
-lar
-ý h
-iz
-mette
- ile
-rl
-em
-ele
-ri, 
-yeti
-þtiri
-lm
-eler
-i 
-ve
- k
-am
-u 
-hi
-zm
-etler
-in
-in
- e
-tk
-in
-li
-k 
-ve
- v
-er
-im
-lil
-ik
-le yü
-rü
-tü
-lm
-esi 
-ko
-nu
-lar
-ý 
-ile 
-tü
-m 
-ka
-mu
+Ka
+mu 
  g
 öre
 vliler
 in
-i 
-ilg
-ilen
-dir
-en 
-kon
-ula
-rda  
- d
-an
-ýþm
-an
-lý
-k   g
-ör
-ev
-in
-i   
-ye
-ri
-ne  
- g
-et
-ir
-me
-k   
-üz
-er
-e aþað
-ýd
-a b
-elir
-tile
-n ü
-yele
-rden 
-ol
-uþa
-n b
-ir 
-Ka
-mu
- G
-öre
-vli
-le
-ri Y
-üks
+in  a
+yl
+ýk  
+ve 
+ öd
+en
 ek
- Da
+ler
+i,  
+ha
+kla
+rý 
+ v
+e y
+üküm
+ler
+i öd
+ev 
+ve
+ s
+orum
+lu
+lu
+kla
+rý 
+hi
+zm
+ette 
+iler
+le
+mel
+er
+i, y
+etiþ
+tiril
+mele
+ri
+ v
+e 
+ka
+mu
+ h
+iz
+metle
+ri
+ni
+n 
+et
+ki
+nl
+ik
+ v
+e 
+ve
+ri
+mli
+li
+kle 
+yür
+üt
+ül
+mesi
+ k
+on
+ula
+rý
+ ile
+ t
+üm
+ k
+am
+u 
+gör
+ev
+lileri
+ni
+ il
+gile
+nd
+ire
+n k
+onu
+lard
+a   
+da
 nýþ
 ma
+nl
+ýk   
+gö
+re
+vi
+ni  
+ y
+er
+in
+e   
+ge
+ti
+rm
+ek  
+ ü
+ze
+re aþa
+ðý
+da
+ beli
+rtil
+en
+ üy
+elerd
+en o
+luþ
+an
+ bir
  K
-ur
-ul
+am
 u 
-ku
-rul
-ur
-:
- 
+Gör
+ev
+lil
+er
+i Yü
+kse
+k 
+Dan
+ýþm
+a 
+Ku
+ru
+lu
+ k
+uru
+lu
+r:
 
+ 
 
 
 
@@ -79700,20 +79584,20 @@ ur
 
  
 (a)
-Baþ
-ba
-ka
-nl
-ýk
- M
-üst
-eþ
-ar
-ý 
-(Baþ
-ka
-n)
-
+B
+aþb
+ak
+an
+lý
+k 
+Müs
+te
+þa
+rý
+ (B
+aþk
+an
+)
  
 
 
@@ -79722,10 +79606,11 @@ n)
 
 
 
- 
 
  
-(b)
+ 
+(b
+)
 Ma
 li
 ye
@@ -79743,18 +79628,18 @@ lýð
 ýn
  M
 üs
-teþa
-rý
+teþar
+ý
  
 
 
 
 
+ 
 
  
- 
-(
-c)De
+(c)
+De
 vlet
  P
 lan
@@ -83626,24 +83511,23 @@ tirilir.
 
 
 
- 
-Geçici 
+ Geçici
+ m
+add
+e Öð
+re
+ni
+m 
+ko
+þu
+lu ar
+an
 ma
-dde Ö
-ðr
-en
-im
- k
-oþ
-ulu a
-ra
-nm
-as
-ýn
-ýn 
 sý
-nýrý
-
+nýn
+ s
+ýn
+ýrý
 
  
  25
@@ -84050,31 +83934,30 @@ nýr.
 
 
  
-Ge
-çici
- m
-add
-e Yu
-rt
- d
-ýþ
-ýn
-da
-ki 
-ka
-mu 
-gör
-ev
-lileri
-ne 
-uy
-gu
-lan
-ac
-ak 
-kats
-ay
-ý
+Geç
+ici 
+ma
+dde Y
+ur
+t 
+dý
+þý
+nd
+ak
+i k
+am
+u g
+öre
+vliler
+in
+e u
+yg
+ula
+na
+ca
+k k
+atsa
+yý
 
  
  38
@@ -84707,32 +84590,13 @@ m 1
 
 
 
-
  
-    v
-e ö
-den
-ek
-leri
-
+    ve 
+öde
+ne
+kler
+i
  
-
-
-
-
-
-
- 
-
- 
- 
-
- 
- 
- 
-
- 
-
 
 
 
@@ -85109,9 +84973,9 @@ e Av
 ans
  o
 lar
-ak y
-apý
-lan öd
+ak ya
+pýlan
+ öd
 em
 eler
  
@@ -85626,32 +85490,13 @@ m 1
 
 
 
-
  
-    v
-e ö
-den
-ek
-leri
-
+    ve 
+öde
+ne
+kler
+i
  
-
-
-
-
-
-
- 
-
- 
- 
-
- 
- 
- 
-
- 
-
 
 
 
@@ -86028,9 +85873,9 @@ e Av
 ans
  o
 lar
-ak y
-apý
-lan öd
+ak ya
+pýlan
+ öd
 em
 eler
  
@@ -86662,20 +86507,19 @@ bilir.
 
 
  Ancak en az üniversite mezunu olmayan ve Kuzey Kýbrý
-s Türk Cumhuriyetinde veya baþka bir ülkede emekliye ayrýlan hiç kimse bu madde altýda sö
-zleþmeli personel olarak istihdam edilemez.
+s Türk Cumhuriyetinde veya baþka bir ülkede emekliye ayrýlan hiç kimse bu madde altý
+da sözleþmeli personel olarak istihdam edilemez.
 
- Bu madde ile getirilen düzenlemeler 31.12.2002 tarihinde yürü
-rlükten kalkar.
+ Bu madde ile getirilen düzenlemeler 31.12.2002 tarihinde yürürlü
+kten kalkar.
  
 
 
 
 
  
-
-arsid13775457 Geçici Madde 
-
+arsid13775457 
+Geçici Madde 
 
  
  
@@ -86712,22 +86556,22 @@ n Uygulanmasý
 arsid13775457 
 22. (1) 
 Esas Yasanýn 25inci maddesi kurallarýna bakýlmaksýzýn, bu Yasaya bað
-lý kurumlarda çalýþan ve emekliye ayrýlmýþ olan her kamu gör
-evlisine, Esas Yasanýn 113üncü maddesine baðlý I. Cetvel
-de öngörülen maaþlara, 1 Ocak 2024 tarihinden itibaren Ýstatistik Kurumu tarafý
-ndan yayýmlanacak Tüketici Fiyatlarý Genel Endeksinde Aralýk ayý esasý
-na göre oluþacak artýþ farký kadar bir miktar dör
-t aylýk dönemler halinde, Mayýs 2024, Eylül 2024 ve Ocak 2025 aylarýnda olmak ü
-zere üç kez konsolide edilerek uygulanýr.
+lý kurumlarda çalýþan ve emekliye ayrýlmýþ olan her kamu gö
+revlisine, Esas Yasanýn 113üncü maddesine baðlý I. Cetvelde ö
+ngörülen maaþlara, 1 Ocak 2024 tarihinden itibaren Ýstatistik Kurumu tarafý
+ndan yayýmlanacak Tüketici Fiyatlarý Genel Endeksinde Aralýk ayý esasýna gö
+re oluþacak artýþ farký kadar bir miktar dört aylýk dö
+nemler halinde, Mayýs 2024, Eylül 2024 ve Ocak 2025 aylarýnda olmak üzere üç kez konsolide edilerek 
+uygulanýr.
 
  (2)
  Yukarýdaki (1)inci fýkra kurallarý, Esas Yasanýn 25inci maddesinin (2)
 nci fýkrasý kapsamýnda bulunanlara da uygulanýr.
 
 
- (3)Sözkon
-usu uygulamada kesirli rakamlardan dolayý gelebilecek sorunlarýn giderilmesinde Maliye Ýþ
-leriyle Görevli Bakan yetkilidir.
+ (3)Sözkonusu uygulamada kesirli rakamlardan dolayý
+ gelebilecek sorunlarýn giderilmesinde Maliye Ýþleriyle Gö
+revli Bakan yetkilidir.
 
  
 
@@ -86739,32 +86583,31 @@ leriyle Görevli Bakan yetkilidir.
  
 arsid13775457           Ancak Tü
 ketici Fiyatlarý Genel Endeksinin eksi çýkmasý halinde, bu eksiler sonraki dönemlerde Tü
-ketici Fiyatlarý Genel Endeksinde oluþacak artýlardan düþürü
-lerek uygulamaya devam edilir.
- 
-
-
-
+ketici Fiyatlarý Genel Endeksinde oluþacak artýlardan düþürülerek uygulamaya devam edilir.
 
  
 
-arsid10309947 Geçici Madde
 
 
- Sýnýflara Ýliþ
-kin Ortak Kurallar
+
+ 
+arsid10309947 
+Geçici Madde
+
+ Sýnýflara Ýliþkin 
+Ortak Kurallar
 
  65/2026
  
 
-arsid13775457 23. 
-Bu (Deðiþiklik) Yasasýnýn 9
-uncu maddesi ile deðiþtirilen Esas Yasanýn, Sýnýflara Ýliþ
-kin Ortak Kurallarý düzenleyen 54üncü maddesi 31 Aralý
-k 2026 tarihine kadar mezun olacak kamu görevlilerine uygulanmaz. Bu Yasa ile yürürlükten kaldýrý
-lan 54üncü madde kurallarý uygulanýr.
+arsid13775457 1
+. Bu (Deð
+iþiklik) Yasasýnýn 9uncu maddesi ile deðiþtirilen Esas Yasaný
+n, Sýnýflara Ýliþkin Ortak Kurallarý düzenleyen 54ü
+ncü maddesi 31 Aralýk 2026 tarihine kadar mezun olacak kamu görevlilerine uygulanmaz. Bu Yasa ile yürürlü
+kten kaldýrýlan 54üncü madde kurallarý uygulaný
+r.
  
-
 
 
 
@@ -86779,30 +86622,31 @@ Geçici Madde
  65/2026
  
 
-arsid10309947 24. 
-(A) Bu (Deðiþiklik) Yasasýnýn 12
-nci maddesi ile deðiþtirilen Esas Yasanýn, Kamu Görevine Alý
-nma koþulunu düzenleyen 62nci maddesinin (1)inci fýkrasýný
-n (B) bendinde yer alan 46 (kýrk altý) yaþýndan gün almamýþ olmak kuralý
- 31 Aralýk 2027 tarihine kadar münhal ilan edilen ve edilecek olan kadrolara baþ
+arsid10309947 2
+. (A) Bu (Deð
+iþiklik) Yasasýnýn 12nci maddesi ile deðiþtirilen Esas Yasaný
+n, Kamu Görevine Alýnma koþulunu düzenleyen 62nci maddesinin (1)
+inci fýkrasýnýn (B) bendinde yer alan 46 (kýrk altý) yaþýndan g
+ün almamýþ olmak kuralý 31 Aralýk 2027 tarihine kadar münhal ilan edilen ve edilecek olan kadrolara baþ
 vuran adaylara uygulanmaz.
 
  
  
 arsid10309947 
-(B) Bu (Deðiþiklik) Yasasýnýn 12nci maddesi ile deð
-iþtirilen Esas Yasanýn, Kamu Görevine Alýnma koþulunu düzenleyen 62
-nci maddesinin (1)inci fýkrasýnýn (Ç) bendi kurallarý, 31 A
-ralýk 2026 tarihine kadar münhal
- ilan edilen ve edilecek olan kadrolara baþvuran adaylara uygulanmaz.
+(B) Bu (Deðiþiklik) Yasasýnýn 12nci maddesi
+ ile deðiþtirilen Esas Yasanýn, Kamu Görevine Alýnma koþ
+ulunu düzenleyen 62nci maddesinin (1)inci fýkrasýnýn (Ç
+) bendi kurallarý, 31 Aralýk 2026 tarihine kadar mü
+nhal ilan edilen ve edilecek olan kadrolara baþvuran adaylara uygulanmaz.
  
 
 
 
 
  
-arsid10309947 
-Geçici Madde
+
+arsid10309947 Geçici Madde
+
 
  Uyarma ve Kýnama Cezasý Gerektiren Disiplin Ýþ
 lemleri ile Ýlgili Kurallar
@@ -86810,20 +86654,21 @@ lemleri ile Ýlgili Kurallar
  65/2026
  
 
-arsid10309947 25. 
-Bu (Deðiþiklik) Yasasýnýn 26
-ncý ve 27nci maddesi ile deðiþtirilen Esas Yasanýn 98A v
-e 98B Madde kurallarý bu Yasanýn yürürlüðe girdiði tarihten ö
-nce baþlatýlan disiplin iþlemleri için uygulanmaz.
-
+arsid10309947 3
+. Bu (Deð
+iþiklik) Yasasýnýn 26ncý ve 27nci maddesi ile deð
+iþtirilen Esas Yasanýn 98A ve 98B Madde kurallarý bu Yasanýn yürürlüð
+e girdiði tarihten önce baþlatýlan disiplin iþlemleri iç
+in uygulanmaz.
  
 
 
 
 
  
-arsid12987098 
-Geçici Madde
+
+arsid12987098 Geçici Madde
+
 
  Baremlere Ýliþkin Ýntibak Kurallar
 ý
@@ -86831,28 +86676,28 @@ Geçici Madde
  65/2026
  
 
-arsid10309947 26. 
-Bu (Deðiþiklik) Yasasýnýn 37
-nci maddesi ile deðiþtirilen Esas Yasanýn 114üncü ma
-ddesi altýnda yer alan II. Cetvel, Yöneticilik Hizmetleri Sýnýfý altýnda Ü
-st Kademe Yöneticisi Sayýlmayan Diðer Yöneticiler Sýnýfý
-nýn IInci ve IIIüncü Dereceleri ve, Mesleki ve Teknik Hizmetler Sý
-nýflarý altýnda yer alan Ortaokul Öðrenimli Hizmet Sýnýf
-larý ile Genel Hizmet Sýnýflarý altý
-nda yer alan Ortaokul Öðrenimli Hizmet Sýnýflarýndaki derecelerin baremlerinin kademelerinde yapýlan dü
-zenleme neticesinde bu sýnýflarda çalýþan kamu görevlilerinden 31 Aralý
-k 2026 tarihi itibariyle Yöneticilik Hizmetleri Sýnýfýný
-n (Üst Kademe Yöneticisi Sayýlmayan Diðer Yöneticiler) IInci veya III
-üncü Derecesinin 10uncu kademesinde ve Mesleki ve Teknik Hizmetler Sý
-nýflarý altýnda yer alan Ortaokul Öðrenimli Hizmet Sýnýflarý
- ile Genel Hizmet Sýnýflarý altýnda ye
-r alan Ortaokul Öðrenimli Hizmet Sýnýflarýnýn ü
-st bareminin 10uncu kademesinde en az 1 (bir) yýl bekleyenler B kademeye 1 Ocak 2027 tarihi itibariyle intibak ettirilir.
+arsid10309947 4
+. Bu (Deð
+iþiklik) Yasasýnýn 37nci maddesi ile deðiþtirilen Esas Yasaný
+n 114üncü maddesi altýnda yer alan II. Cetvel, Yöneticilik Hizmetleri Sýný
+fý altýnda Üst Kademe Yöneticisi Sayýlmayan Diðer Yö
+neticiler Sýnýfýnýn IInci ve IIIüncü
+ Dereceleri ve, Mesleki ve Teknik Hizmetler Sýnýflarý altýnda yer alan Ortaokul Öð
+renimli Hizmet Sýnýflarý ile Genel Hizmet Sýnýflarý
+ altýnda yer alan Ortaokul Öðrenimli Hizmet Sýnýflarý
+ndaki derecelerin baremlerinin kademelerinde yapýlan düzenleme neticesinde bu sýnýflarda çalýþ
+an kamu görevlilerinden 31 Aralýk 2026 tarihi itibariyle Yöneticilik Hizmetleri Sýnýfý
+nýn (Üst Kademe Yöneticisi Sayýlmayan Diðer Yöneticiler) II
+nci veya IIIüncü Derecesinin 10uncu kademesinde ve 
+Mesleki ve Teknik Hizmetler Sýnýflarý altýnda yer alan Ortaokul Öðrenimli Hizmet Sý
+nýflarý ile Genel Hizmet Sýnýflarý altý
+nda yer alan Ortaokul Öðrenimli Hizmet Sýnýflarýnýn üst bareminin 
+10uncu kademesinde en az 1 (bir) yýl bekleyenler B kademeye 1 Ocak 2027 tarihi itibariyle intibak ettirilir.
 
 
     Ancak yukarýda belirtilen baremlerde bir y
-ýlý dolmayanlarýn intibaklarý barem içi artýþ
- tarihlerinde yapýlýr.
+ýlý dolmayanlarýn intibaklarý barem içi artýþ tarihlerinde yapý
+lýr.
 
  
  
@@ -86870,17 +86715,17 @@ lgili Kurallar
  65/2026
  
 
-arsid10309947 27.
-Bu (Deðiþiklik) Yasasýnýn 13
-üncü maddesinin (2)nci fýkrasý ile deðiþtirilen sý
-nav harçlarýna iliþkin Esas Yasanýn 63üncü maddesinin (6)
-ncý fýkra kurallarý bu (Deðiþiklik) Yasasý
-nýn yürürlüðe girdiði tarihten önce yapýlmýþ
- sýnav harcý ödemelerine uygulanmaz ve harcýný bu (Deðiþ
+arsid10309947 5
+.Bu (Deðiþ
+iklik) Yasasýnýn 13üncü maddesinin (2)nci fýkrasý
+ ile deðiþtirilen sýnav harçlarýna iliþkin Esas Yasanýn 63
+üncü maddesinin (6)ncý fýkra kurallarý bu (Deðiþ
 iklik) Yasasýnýn yürürlüðe girdiði tarihten ö
-nce halihazýrda ödeyenlerden herhangi bir fark talep edilmez.
- 
+nce yapýlmýþ sýnav harcý ödemelerine uygulanmaz ve harcý
+ný bu (Deðiþiklik) Yasasýnýn yürürlü
+ðe girdiði tarihten önce halihazýrda ödeyenlerden herhangi bir fark talep edilmez.
 
+ 
 
 
 
@@ -86890,22 +86735,22 @@ arsid10881259
 Geçici Madde
 
  Disiplin Soruþturmasý, Cezai Kovuþ
-turma ve Cezai Soruþturma Nedeniyle Görevden Uzaklaþtýrýlan Kamu Gö
-revlilerine Uygulanacak Kurallar
+turma ve Cezai Soruþturma Nedeniyle Görevden Uzaklaþtýrýlan Kamu Görevlile
+rine Uygulanacak Kurallar
 
  65/2026
  
 
-arsid10309947 28. 
-Bu (Deðiþiklik) Yasasýnýn yü
-rürlüðe girdiði tarihten önce açýlmýþ olan disiplin soruþ
-turmasý baþlatýlan veya cezai kovuþturma veya cezai soruþ
-turma nedeniyle görevden uzaklaþtýrýlan kamu görevlilerinin disiplin soruþturmasý
-nýn veya cezai kovuþturmasýnýn veya cezai soruþturmasýný
-n üzerinden 1 (bir) yýl geçmesi halinde bu (Deðiþiklik) Yasasýný
-n 102nci madde kurallarý uygulanýr.
+arsid10309947 6
+. Bu (Deð
+iþiklik) Yasasýnýn yürürlüðe girdiði tarihten ö
+nce açýlmýþ olan disiplin soruþturmasý baþlatý
+lan veya cezai kovuþturma veya cezai soruþturma nedeniyle görevden uzaklaþtýrýlan kamu gö
+revlilerinin disiplin soruþturmasýnýn veya cezai kovuþturmasý
+nýn veya cezai soruþturmasýnýn üzerinden 1 (bir) yýl geç
+mesi halinde bu (Deðiþiklik) Yasasýnýn 102nci madde kurallarý uygulaný
+r.
  
-
 
 
 
@@ -86953,13 +86798,13 @@ arsid9044076
 arsid16594026 
  
 
-arsid10309947 29. 
-Bu (Deðiþiklik) Yasasýnýn 22
-nci maddesi ile deðiþtirilen Esas Yasanýn 89uncu maddesinin (6)
-ncý fýkrasý kurallarý bu Yasanýn yürürl
-üðe girdiði tarihte, Sosyal Güvenlik Yasasý kapsamýnda olup da 60 (altmýþ) yaþý
-ný doldurduðu halde görevine devam edenler için en çok 63 (altmýþ 
-üç) yaþýna kadar uygulanmaz.
+arsid10309947 7
+. Bu (Deð
+iþiklik) Yasasýnýn 22nci maddesi ile deðiþtirilen Esas Yasanýn 89
+uncu maddesinin (6)ncý fýkrasý kurallarý
+ bu Yasanýn yürürlüðe girdiði tarihte, Sosyal Güvenlik Yasasý
+ kapsamýnda olup da 60 (altmýþ) yaþýný doldurduðu halde gö
+revine devam edenler için en çok 63 (altmýþ üç) yaþýna kadar uygulanmaz.
 
  
 
@@ -87905,16 +87750,15 @@ arsid6100980 1.637.745,72
 arsid6100980 X
 
  
-arsid6100980 33.9
-90,48
- 
-arsid6100980 
--
- 
-arsid6100980 
-1.875.679,08
- 
+arsid6100980 33.990,48
 
+ 
+arsid6100980 -
+
+ 
+arsid6100980 1.875.679,08
+
+ 
 
 
 
@@ -88382,8 +88226,8 @@ arsid6100980 2.361.749,76
 arsid6100980 X
 
  
-arsid6100980 
-55.423,08
+arsid6100980 55.423,08
+
  
 arsid6100980 -
 
@@ -89028,20 +88872,20 @@ LÝ
 K 
 HÝ
 ZM
-ET
-LER
-Ý 
-SIN
-IF
-I
+ETLE
+RÝ
+ SI
+NI
+FI
+
  
 
 
 
 
 
-
- Üst
+ 
+Üst
  Ka
 de
 me
@@ -89348,22 +89192,23 @@ ece
 
  
 Ta
-rým
- v
-e 
-Or
-man
- Mü
-he
-ndi
-sli
-ði
- v
-e 
-Ha
-yv
-an
-cýlýk
+rý
+m 
+ve
+ O
+rm
+an 
+Müh
+end
+is
+lið
+i 
+ve
+ H
+ay
+va
+ncýlý
+k
 
  
  Hiz
@@ -93778,8 +93623,8 @@ Müfetti
 þli
 ði
  Hi
-zmetl
-eri
+zmetle
+ri
 
  
  Sý
@@ -94002,8 +93847,8 @@ Müfetti
 þli
 ði
  Hi
-zmetl
-eri
+zmetle
+ri
 
  
  Sý
@@ -95325,8 +95170,7 @@ fý
 
  I
 .d
-erec
-e
+erece
 
  
  II
@@ -95546,8 +95390,7 @@ fý
 
  I
 .d
-erec
-e
+erece
 
  
  II
@@ -95756,31 +95599,31 @@ irer
 
 
 
-
  
-12/
-198
-2 
-Sa
-yýlý
+12
+/19
+82
+ S
+ay
+ýlý
  Y
-a
-sa
-nýn 
-Yürürlü
-ðe
- G
-iri
+as
+anýn
+ Y
+ürürlüð
+e 
+Gir
+i
 Þ 
- 
-Mad
-desi:
- (
-R.
-G. 
+ Ma
+dd
+esi: 
+(R
+.G
+. 
 Yay
-ý
-m
+ým
+
 
  
  T
@@ -95995,69 +95838,68 @@ lü
 
  
  Gi
-ri
-þ
- 
-3
-.  
-Bu
- Yasa
- R
-es
-mî
- Ga
-zete
-d
-e 
-ya
-yý
-nl
-an
-dý
-ðý
- ta
-ri
-ht
-en
- b
-aþla
-ya
-ra
-k yü
-rü
-rl
-üð
-e 
-gire
-r.
+riþ
 
  
+3. 
+ B
+u 
+Yasa 
+Re
+sm
+î 
+Gaz
+ete
+de
+ y
+ay
+ýn
+la
+nd
+ýð
+ý 
+tar
+ih
+te
+n 
+baþl
+ay
+ar
+ak 
+yür
+ür
+lü
+ðe
+ g
+irer
+.
+ 
 
 
 
  
-5/
-1984
- S
-ayýlý
- Y
-a
-sa
-da 
-Yer 
-Al
-an
+5
+/198
+4 
+Say
+ýlý 
+Ya
+s
+ada
+ Yer
+ A
+la
+n 
+Ge
+çici
+ M
+ad
+de
+ ile
+ Yürü
+rlü
+ðe
  G
-eç
-ici 
-Ma
-dd
-e 
-ile 
-Yürürl
-üð
-e 
-G
 iriÞ
 
  
@@ -96467,39 +96309,39 @@ ici
 Ma
 dd
 e 
-ile
- Yü
-rür
-lü
+ile 
+Yür
+ürl
+ü
 ðe
- 
-Gir
-iÞ
- Ma
-dd
-esi: 
-(R
-.G
-. 
+ G
+iri
+Þ 
+Mad
+desi:
+ (
+R.
+G. 
 Yay
-ým
- T
-ar
-ihi:
- 8
-.2
-.1
-985)
-
+ý
+m 
+Ta
+ri
+hi: 
+8.
+2.
+1985
+)
  
 
 
 
+
  
-Ge
-çici
- M
-adde
+Geç
+ici 
+Madd
+e
 
  
  B
@@ -97788,17 +97630,16 @@ dý
 ri
 hten 
  b
-aþ
-la
-ya
-rak 
-yür
-ür
-lü
-ðe
- g
-irer
-.
+aþl
+ay
+ar
+ak yü
+rü
+rl
+üð
+e 
+gire
+r.
 
  
  
@@ -97906,13 +97747,12 @@ Yay
  
  
 arsid4528329 T
-arihi
-: 
-22.
-3.
-19
-88)
-
+arihi:
+ 
+22.3
+.1
+988
+)
 
  
  
@@ -98418,36 +98258,36 @@ esi için
 , 
 1995
  y
-ýlý s
-on
-un
-a 
-ka
-dar
- b
-u 
-hi
-zm
-et 
-sý
-ný
-fla
-rý
- için
+ýlý 
+so
+nu
+na
+ k
+ad
+ar 
+bu
+ h
+iz
+met
+ s
+ýn
+ýf
+lar
+ý 
+için 
+öng
+örülen
  ö
-ngörü
-len 
-öð
-re
-ni
-m k
-oþ
-ulu
- a
-ra
-nm
-az
-.
+ðr
+en
+im 
+ko
+þu
+lu 
+ar
+an
+ma
+z.
 
  
  
@@ -98857,9 +98697,9 @@ n
 baþl
 ay
 ar
-ak y
-ür
-ürl
+ak yü
+rü
+rl
 üð
 e 
 gire
@@ -99205,45 +99045,44 @@ tar
 ih
 in
 de
-n,
- ha
-k 
-sa
-hi
-plil
-iði a
-çý
-sý
-nd
-an
- i
-se
- 6 Ha
-ziran
- 197
-9 
-tar
-ih
-in
-de
-n 
-baþl
-ay
-ar
+n, h
 ak
- yü
-rü
-rl
-üðe
- g
-irer
-.
+ s
+ah
+ip
+lilið
+i aç
+ýs
+ýn
+da
+n 
+is
+e 
+6 Haz
+iran 
+1979
+ ta
+ri
+hi
+nd
+en
+ b
+aþla
+ya
+ra
+k 
+yür
+ür
+lüð
+e 
+gire
+r.
+
  
 
 
 
  
-
 
  
  49
@@ -99320,7 +99159,6 @@ r.
 
 
  
-
 
  
  11
@@ -100087,20 +99925,20 @@ ayýlý
  Y
 a
 sa
-nýn
- Yü
-rü
-rlüðe 
-G
-iriÞ  
-Ma
-dd
-esi: 
-(R
-.G.
- Y
-ayý
-m
+nýn 
+Yür
+ürlüðe
+ G
+iriÞ 
+ M
+ad
+desi:
+ (
+R.G
+. 
+Yay
+ým
+
 
  
  T
@@ -101467,13 +101305,13 @@ irer
 /19
 96
  S
-ayýl
-ý 
-Ya
+ayýlý
+ Y
+a
 sa
 nýn 
-Yü
-rürlüðe
+Yür
+ürlüðe
  G
 iriÞ 
  M
@@ -101581,8 +101419,8 @@ ay
 ým
  T
 arihi:
- 
-26.3
+ 26
+.3
 .1
 997
 )
@@ -101726,44 +101564,44 @@ e
 örü
 le
 n y
-ýll
-ýk
- asli
- m
-aa
-þla
-ra,
- 199
-7 
-yýlý
- içe
-ri
-si
-nd
-e, h
-ale
-n u
-yg
-ula
-nm
-ak
-ta 
-olan 
- E
-þe
-l-
-Mo
-bil
- Si
-st
-em
-i 
-çer
-çe
-ves
+ýllý
+k 
+asli 
+ma
+aþ
+lar
+a, 19
+97
+ y
+ýlý 
+içer
+is
 in
-de
- 1
+de, 
+hal
+en 
+uy
+gu
+lan
+ma
+kta
+ o
+lan  
+Eþ
+el
+-M
+ob
+il 
+Sis
+te
+mi
+ ç
+erç
+ev
+esi
+nd
+e 
+1
 
  
  Oc
@@ -101931,56 +101769,55 @@ sa
 n 1997
 ) 
 ya
-pýla
-ca
-k k
+pýlac
+ak 
+ko
+nso
+lid
+ey
+e 
+ek
+ o
+lar
+ak 
+Ma
+yý
+s 
+1997
+ asli
+ m
+aa
+þla
+rý
+na
+ 3
+ p
+ua
+n ek k
 ons
 oli
-de
-ye
- e
-k 
-ola
-rak
- M
+da
+sy
+on
+ y
+ap
+ýlýr. 
+Bu
+ 3
+ p
+uan
+ H
 ay
-ýs
- 199
-7 
-asli 
-ma
-aþ
-lar
-ýn
-a 
-3 
-pu
-an ek 
-kon
-so
-lid
-as
-yo
-n 
-ya
-pýlýr.
- B
-u 
-3 
-pu
-an 
-Ha
-yat
- P
-ah
-alýlý
-ð
-ýn
-dan 
-düþ
-ül
-ür
-.
+at 
+Pa
+halýl
+ý
+ðý
+nd
+an d
+üþü
+lü
+r.
 
  
  
@@ -102141,16 +101978,16 @@ nýn
 Yü
 rürlüðe
  G
-ir
-iÞ  
-Ma
-dd
-esi: 
-(R
-.G.
- Y
-ayý
-m
+iriÞ 
+ M
+ad
+desi:
+ (
+R.G
+. 
+Yay
+ým
+
 
  
  
@@ -102455,12 +102292,65 @@ ay
 at 
 pa
 ha
-lýlý
-ð
+lýl
+ýð
 ýn
-ýn 
-%63
-ü k
+ýn
+ %
+63ü 
+kö
+k 
+ma
+aþ
+lar
+a 
+kon
+so
+lid
+e 
+ed
+ilir. 
+Bu
+ s
+is
+te
+m 
+yýl
+ iç
+in
+de
+ dör
+t a
+yd
+a 
+bir
+ o
+lm
+ak
+ ü
+zer
+e 
+ik
+i 
+de
+fa 
+uy
+gu
+lan
+ýr.
+ 
+
+
+
+
+
+
+ 
+
+ 
+(2)
+
+ K
 ök
  m
 aa
@@ -102471,155 +102361,36 @@ ons
 oli
 de
  e
-dilir.
- B
-u 
-si
-st
-em
- y
-ýl 
-içi
-nd
-e 
-dört 
-ay
-da
- b
-ir 
-ol
-ma
-k 
-üz
-ere
- i
-ki
- d
-ef
-a u
-yg
-ula
-nýr.
-
- 
-
-
-
-
-
-
- 
-
- (2
-)
- 
-Kö
-k 
-ma
-aþ
-lar
-a 
-ko
-nso
-lid
-e 
-ed
-ile
-n h
-ay
-at p
-ah
-alýlý
-ð
-ý 
-ora
-ný
- esas 
-ha
+dil
+en
+ ha
 yat
- p
-ah
-alýlý
-ð
-ýn
-dan
- i
-nd
-iriler
-ek 
-uy
-gu
-la
-ma
- y
-ap
-ýlýr.
- 
-
-
-
-
-
-
-
- 
- 
-(3
-)
- 
-Sö
-zk
-onu
-su
- uy
-gu
-la
-ma
-da 
-ke
-sirli
- r
-ak
-am
-lard
-an do
-la
-yý 
-me
-yd
+ pa
+halýl
+ý
+ðý
+ or
 an
-a 
-gele
-bilec
-ek
- s
-or
-unl
-ar
-ýn 
-gi
-de
-ri
-lm
-es
-in
-de M
-al
-iy
-e Ý
-þle
-ri
-yle
- G
-öre
-vli
- B
-ak
+ý 
+esas h
+ay
+at 
+pa
+halýl
+ý
+ðý
+nd
 an 
-ye
-tk
-ili
-dir.
+in
+dirile
+rek
+ u
+yg
+ul
+am
+a 
+ya
+pýlýr.
 
  
 
@@ -102629,17 +102400,84 @@ dir.
 
 
  
-Geç
-ici 
-Madd
-e B
-ar
-em Ay
-ar
+
+ 
+(3)
+ 
+S
+öz
+kon
+us
+u u
+yg
+ul
+am
+ad
+a k
+es
+irli 
+ra
+ka
+mla
+rdan
+ dol
+ay
+ý m
+ey
+da
+na
+ g
+eleb
+ilece
+k 
+so
+run
 la
-ma Yet
-ki
+rýn
+ g
+id
+er
+il
+me
 si
+nd
+e Ma
+li
+ye 
+Ýþ
+ler
+iy
+le 
+Gör
+ev
+li 
+Ba
+kan
+ y
+et
+kil
+id
+ir.
+ 
+
+
+
+
+
+
+
+ Ge
+çici
+ M
+adde 
+Ba
+rem A
+ya
+rl
+am
+a Yetk
+is
+i
 
  
  7
@@ -103198,22 +103036,22 @@ ri
 hi
 nden
  b
-aþl
-ay
-ar
-ak 
-yür
-ür
-lüð
-e 
-gire
-r.
-
+aþla
+ya
+rak
+ yü
+rü
+rl
+üðe
+ g
+irer
+.
  
 
 
 
  
+
 
  
  6
@@ -103766,8 +103604,8 @@ irer
  
 
 
-
  
+
 
 
 
@@ -104687,9 +104525,9 @@ ra
 k
 
  
- yü
-rü
-rl
+ y
+ür
+ürl
 üð
 e 
 gire
@@ -105297,8 +105135,8 @@ am
 a  
 Kur
 all
-ar
-ý:  
+arý
+:  
 (R.
 G.
 
@@ -105747,9 +105585,9 @@ Mad
 desi:
  (
 R.
-G.
- Y
-ayý
+G. 
+Yay
+ý
 m 
 Ta
 ri
@@ -105838,47 +105676,47 @@ i u
 yg
 ul
 am
-asý, 6
- M
-ay
-ýs 
-2004
- t
+asý, 6 
+Ma
+yýs
+ 200
+4 
+ta
+ri
+hi
+nd
+e 
+baþlar
+ v
+e 
+Ek
+im
+ ay
+ýn
+ýn
+ ilk
+ P
+az
 ar
-ih
-in
-de
- b
-aþlar 
-ve
- E
-ki
-m a
-yý
-ný
-n 
-ilk 
-Pa
-za
-rtesi 
-gün
-ü 
-so
-na
- e
-re
-r.
-
+tesi g
+ünü
+ s
+on
+a 
+er
+er
+.
  
 
 
 
+
  
-Y
-ür
-ür
-lü
-ðe
+Yü
+rü
+rl
+üð
+e
 
  
  Gi
@@ -105958,36 +105796,35 @@ Yer
 Ala
 n 
 Yürürl
-ü
-ðe
- G
-iri
-Þ
- M
-ad
-desi:
- (
-R.
-G. Y
-ayý
-m 
-Ta
-rihi: 
-21.
-10.
-200
-4)
-
- 
-
-
-
- 
-Yü
-rü
-rl
 üð
-e
+e 
+Gir
+i
+Þ 
+Ma
+dd
+esi: 
+(R
+.G
+. Yay
+ým
+ T
+arihi:
+ 21
+.10
+.20
+04
+)
+ 
+
+
+
+
+ Y
+ür
+ür
+lü
+ðe
 
  
  Gi
@@ -106662,8 +106499,8 @@ Ge
 ad
 deler
  ile
- 
-Yürürlüðe
+ Y
+ürürlüðe
 
 
  
@@ -107763,36 +107600,35 @@ Madd
 e Gen
 el 
 Hiz
-metler
- Sýn
-ýf
-lar
-ý 
-Al
-tý
-nd
-a Or
-ta 
-Öð
-re
-ni
-mli Hi
-zm
-et Sýn
-ýf
-lar
+metler Sý
+ný
+fla
+rý
+ A
+lt
 ýn
-ýn De
+da O
+rta
+ Ö
+ðr
+en
+im
+li Hiz
+met Sý
+ný
+fla
+rý
+ný
+n Der
+ec
+eler
+in
+de
+ki 
+Ba
 re
-cele
-ri
-nd
-ek
-i B
-ar
-em
-ler
-e
+mle
+re
 
  
  Ý
@@ -108054,21 +107890,21 @@ ri
 hi
 nden
  b
-aþla
-ya
-rak
- yü
-rü
-rl
-üðe
- g
-irer
-.
- 
-
+aþl
+ay
+ar
+ak 
+yür
+ür
+lüð
+e 
+gire
+r.
 
  
 
+
+ 
 
 
 
@@ -108715,13 +108551,13 @@ uþ, G
  v
 e 
 Çal
-ýþm
-a 
-Es
-as
-lar
-ý) 
-Yasasý ile
+ýþ
+ma
+ E
+sa
+sla
+rý)
+ Yasasý ile
  o
 lu
 þt
@@ -109031,76 +108867,75 @@ Bu
  Yasa
 ný
 n, 
-2
-nci
- m
+2n
+ci 
+ma
+ddes
+iy
+le
+ d
+eð
+iþ
+tirile
+n 
+Es
+as
+ Yas
+an
+ýn
+ 27
+n
+ci m
 add
-esi
-yl
-e 
-de
-ði
-þtiril
-en
- E
-sa
-s 
-Yasa
+esinin 
+(7)n
+ci 
+fý
+kr
+asý
 ný
 n 
-27
-nci 
-ma
-ddesinin
- (7)
-nci
- f
-ýk
-ras
-ýn
-ýn
- (
-A)
- b
-en
-di
- ku
-ralla
-rý
- L
-im
-an
-la
-r 
-Dair
-esin
-de 
-ve
- G
-üm
-rük
- v
-e 
-Rü
-su
-mat
- D
-airesi
+(A
+) 
+be
 nd
+i 
+kur
+allar
+ý 
+Li
+ma
+nl
+ar
+ Dai
+resi
+nd
+e v
 e 
-ça
-lý
-þa
-n 
-ka
-mu
- g
-öre
-vlileri
- için
- 1
-Mar
-t
+Gü
+mrü
+k 
+ve
+ R
+üs
+um
+at 
+Da
+iresin
+de
+ ç
+al
+ýþ
+an
+ k
+am
+u 
+gör
+ev
+lileri 
+için 
+1M
+art
 
  
  200
@@ -109343,133 +109178,133 @@ nci
 fý
 kr
 asý
-ný
-n (
-Ç)
- b
-en
-di
- v
-e 
-(2)
-nc
+nýn 
+(Ç
+) 
+be
+nd
 i 
-fý
-kr
-as
-ýn
-ýn (
-C)
- b
-en
-di
+ve
+ (2)
+n
+ci
+ f
+ýk
+ra
+sý
+nýn 
+(C
+) 
+be
 nd
-e 
-yer
- alan
- s
-on
- ü
-ç y
-ýllý
-k  
-pe
-rf
-or
-ma
-ns 
- d
-eð
+in
+de
+ y
+er 
+alan 
+so
+n 
+üç 
+yýll
+ýk 
+ p
 er
-le
-nd
-ir
-me  
 fo
 rm
-lar
-ýn
-ýn 
- esas 
- al
-ýnm
-asýn
-a  
-ili
-þk
-in ku
-ral
- u
-yg
-ul
 an
-ma
-z.
-
- 
-
-
-
- 
-Y
-ür
-ür
-lü
+s  
+de
 ðe
- Gi
-riþ
-
- 
-18. 
- B
-u 
-Yasa, 
-1 Oca
-k 
-2008
- ta
-ri
-hi
-nden
- b
-aþla
-ya
-rak
- yü
-rü
 rl
-üðe
- g
-irer
+en
+di
+rm
+e  f
+or
+mla
+rý
+ný
+n  
+esas  
+alý
+nmasý
+na 
+ il
+iþ
+kin 
+kur
+al 
+uy
+gu
+la
+nm
+az
 .
  
 
 
 
+
  
-23
-/20
-08
- S
-ayýlý
- Y
-a
-sa
-nýn 
-Yürürlü
-ðe
- G
-ir
+Yü
+rü
+rl
+üð
+e 
+Gir
+iþ
+ 
+18
+.  
+Bu
+ Yasa,
+ 1 Oc
+ak
+ 200
+8 
+tar
+ih
+ind
+en 
+baþl
+ay
+ar
+ak 
+yür
+ür
+lüð
+e 
+gire
+r.
+
+ 
+
+
+
+ 
+23/
+200
+8 
+Say
+ýlý 
+Ya
+s
+anýn
+ Yürü
+rlüð
+e 
+Gi
+r
 iÞ 
- 
-Ma
-dd
-esi: 
-(R
-.G.
- Y
-ayý
-m
+ M
+ad
+desi:
+ (
+R.G
+. 
+Yay
+ým
+
 
  
  T
@@ -110112,24 +109947,24 @@ Yer
 Ala
 n 
 Yürürl
-ü
-ðe
- G
-iri
+üð
+e 
+Gir
+i
 Þ 
- 
-Ma
-dde
-si:
- (
-R.
-G.
- Y
-ayý
-m 
-Ta
-ri
-hi:
+ M
+ad
+des
+i: 
+(R
+.G
+. 
+Yay
+ým
+ T
+ar
+ihi:
+
 
  
  18
@@ -110989,13 +110824,13 @@ bilir:
 
 
 
+ 
 
  
+(A
+)
  
-(
-A)
-
- 1
+1
  Oc
 ak
  201
@@ -111553,8 +111388,8 @@ z.
 
  69/2023 sayýlý Deðiþ
 iklikte yer alan Geçici Maddeler 
-
  
+
 
 
 
@@ -111570,8 +111405,7 @@ iklik no.2) Yasasýnýn
  Halen Kamuyürürlüðe girdiði tarihten ö
 nce Kamu Hizmeti Komisyonu tarafýndan
 
- Görevlisi Olarakkadroya atanan kamu görevlilerine de kadroya atandýklarý 
-tarihten itibaren
+ Görevlisi Olarakkadroya atanan kamu görevlilerine de kadroya atandýklarý tarihten itibaren
 
  Çalýþanlarauygulanýr.
 
@@ -111612,36 +111446,37 @@ eðiþiklik
 ) Yasasýnýn yür
 ürlüðe girdiði tarihten önce Kamu Hizmeti 
 
- Genel Bütçe          
-Komisyonu tarafýndan
- bir kadroya atanmýþ olan kamu görevlileri, kamu
+ Genel Bütçe          Komisyonu tarafý
+ndan bir kadroya atanmýþ olan kamu görevlileri, kamu
 
- Kapsamý
-nda görevli
-si olarak atanmadan önce Kamu Mali Yönetimi ve Kontrol 
+
+ Kapsamýnda 
+görevlisi olarak atanmadan önce Kamu Mali Yö
+netimi ve Kontrol 
 
  Olan Fon Yasasýnýn Geçici 7
 nci Maddesi ile Genel Bütçe kapsamýnda olan Fon veya
+
 
  Veya DönerDöner Sermayelerde çal
 ýþarak maaþ çekmiþ olmalarý halinde, kesintili olup
 
 
- Sermayelerdeno
-lmadýðýna bakýlmaksýzý
-n kýdem tazminatý, ikramiye ve benzeri herhangi bir
+ Sermayelerdenolmadýðýna ba
+kýlmaksýzýn kýdem tazminatý
+, ikramiye ve benzeri herhangi bir
 
  Maaþ Çekmiþmenfaat almamýþ
  olmak veya iade etmiþ olmak koþuluyla sözkonusu Fon
 
- Kamuveya Döner Sermayelerden maaþ çekilerek yapýlan her tamamlanmýþ
- hizmet
+ Kamuveya Döner Sermayelerden maaþ ç
+ekilerek yapýlan her tamamlanmýþ hizmet
 
- Görevlilerininyýlýna karþýlý
-k 1 (bir) kademe ilerlemesi hakkýndan bu (Deðiþiklik) Yasasýnýn
+ Görevlilerininyýlýna karþýlýk 1 (bir) kademe ilerlemesi hakk
+ýndan bu (Deðiþiklik) Yasasýnýn
 
- Durumu2nci maddesi ile Esas Yasaya eklenen 72A Maddesinin (3)üncü fýkras
-ý
+ Durumu2nci maddesi ile Esas Yasaya eklenen 72A Maddesinin (3)ün
+cü fýkrasý
 
  41/2019çerçevesinde yararlandýrýlýrlar.
 
@@ -112393,18 +112228,18 @@ fffffffffffffffffdffffff04000000feffffff05000000fefffffffeffffffffffffffffffffff
 ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
 ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
 ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-ffffffffffffffffffffffffffffffff52006f006f007400200045006e00740072007900000000000000000000000000000000000000000000000000000000000000000000000000000000000000000016000500ffffffffffffffff010000000c6ad98892f1d411a65f0040963251e5000000000000000000000000c05d
-387f9849dd010300000080020000000000004d0073006f004400610074006100530074006f0072006500000000000000000000000000000000000000000000000000000000000000000000000000000000001a000101ffffffffffffffff020000000000000000000000000000000000000000000000c05d387f9849dd01
-c05d387f9849dd010000000000000000000000005a0054003200de0055003200c000df00d50045004f00330041004a004a00d4005100dd00ca004b00c100c0003d003d000000000000000000000000000000000032000101ffffffffffffffff030000000000000000000000000000000000000000000000c05d387f9849
-dd01c05d387f9849dd010000000000000000000000004900740065006d0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000a000201ffffffff04000000ffffffff000000000000000000000000000000000000000000000000
+ffffffffffffffffffffffffffffffff52006f006f007400200045006e00740072007900000000000000000000000000000000000000000000000000000000000000000000000000000000000000000016000500ffffffffffffffff010000000c6ad98892f1d411a65f0040963251e5000000000000000000000000d041
+9366975fdd010300000080020000000000004d0073006f004400610074006100530074006f0072006500000000000000000000000000000000000000000000000000000000000000000000000000000000001a000101ffffffffffffffff020000000000000000000000000000000000000000000000d0419366975fdd01
+d0419366975fdd0100000000000000000000000057005a00dc00c8005900c6003500580047005500de004d005800d20048005700d500d30047005a00d40051003d003d000000000000000000000000000000000032000101ffffffffffffffff030000000000000000000000000000000000000000000000d0419366975f
+dd01d0419366975fdd010000000000000000000000004900740065006d0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000a000201ffffffff04000000ffffffff000000000000000000000000000000000000000000000000
 00000000000000000000000000000000d800000000000000010000000200000003000000feffffff0500000006000000070000000800000009000000feffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
 ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
 ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
 ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
 ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff3c623a536f75726365732053656c65637465645374796c653d225c4150412e58534c22205374796c654e616d653d224150412220786d6c6e733a623d22687474703a2f2f736368656d61732e6f70656e786d6c666f726d6174732e6f7267
 2f6f6666696365446f63756d656e742f323030362f6269626c696f6772617068792220786d6c6e733d22687474703a2f2f736368656d61732e6f70656e786d6c666f726d6174732e6f72672f6f6666696365446f63756d656e742f323030362f6269626c696f677261706879223e3c2f623a536f75726365733e00000000
-0000000000000000000000000000000000000000000000000000000000000000000000003c3f786d6c2076657273696f6e3d22312e302220656e636f64696e673d225554462d3822207374616e64616c6f6e653d226e6f223f3e0d0a3c64733a6461746173746f72654974656d2064733a6974656d49443d227b35313345
-333736352d334643382d343344342d394430302d3932373434334441384138367d2220786d6c6e733a64733d22687474703a2f2f736368656d61732e6f70656e786d6c666f726d6174732e6f72672f6f6666696365446f63756d656e742f323030362f637573746f6d586d6c223e3c64733a736368656d61526566733e3c
+0000000000000000000000000000000000000000000000000000000000000000000000003c3f786d6c2076657273696f6e3d22312e302220656e636f64696e673d225554462d3822207374616e64616c6f6e653d226e6f223f3e0d0a3c64733a6461746173746f72654974656d2064733a6974656d49443d227b36323238
+394635392d443736372d344631392d384335462d3231443644373331393944317d2220786d6c6e733a64733d22687474703a2f2f736368656d61732e6f70656e786d6c666f726d6174732e6f72672f6f6666696365446f63756d656e742f323030362f637573746f6d586d6c223e3c64733a736368656d61526566733e3c
 64733a736368656d615265662064733a7572693d22687474703a2f2f736368656d61732e6f70656e500072006f007000650072007400690065007300000000000000000000000000000000000000000000000000000000000000000000000000000000000000000016000200ffffffffffffffffffffffff000000000000
 0000000000000000000000000000000000000000000000000000000000000400000055010000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffff00000000
 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffff0000

@@ -371,9 +371,9 @@
  "55": {
   "pkey": 55,
   "url": "https://mevzuat.mahkemeler.net/Yasalar/60-2000.doc",
-  "sha256": "d9b491110cf591505200790905beb69642044349d917067978f74655fc4b014f",
+  "sha256": "31ddd30b0505341443b22523b6ebab4a4b5606c0ff951673045cdf669add9a42",
   "ayni_dosya": true,
-  "karakter": 115802,
+  "karakter": 118227,
   "metin_dosyasi": "veri/mahkemeler/yasalar-lo/55_60-2000.doc.txt",
   "durum": "tamam"
  },
@@ -2558,9 +2558,9 @@
  "323": {
   "pkey": 323,
   "url": "https://mevzuat.mahkemeler.net/Yasalar/7-1979(1).rtf",
-  "sha256": "b4421a020de3e6a9e89bd3424b1d9ddd49ca8146e5290de61b81309403bb5832",
+  "sha256": "fc1951af3fdc862548bd8694826543572e2361d530976f43e6d3b903c0f4d3ff",
   "ayni_dosya": true,
-  "karakter": 232755,
+  "karakter": 232743,
   "metin_dosyasi": "veri/mahkemeler/yasalar-lo/323_7-1979(1).rtf.txt",
   "durum": "tamam"
  },
@@ -5402,9 +5402,9 @@
  "702": {
   "pkey": 702,
   "url": "https://mevzuat.mahkemeler.net/Yasalar/49-2015.doc",
-  "sha256": "314ee6ed4655dbfdeec439af5eb99963315c6d52a4e7286dfd25d7afba9051b7",
+  "sha256": "3801b8f25ac6f87c040077c94e9f2b8a0b4206400e66564de01ced767aacb459",
   "ayni_dosya": true,
-  "karakter": 49120,
+  "karakter": 48944,
   "metin_dosyasi": "veri/mahkemeler/yasalar-lo/702_49-2015.doc.txt",
   "durum": "tamam"
  },
@@ -7291,9 +7291,9 @@
  "949": {
   "pkey": 949,
   "url": "https://mevzuat.mahkemeler.net/Yasalar/25-1993(1).doc",
-  "sha256": "31651e857ee0b8143ea551128f43497b302d4eced63e0b382a51147ba1777379",
+  "sha256": "5522a24dde4c405adf2ccec664f1357ecf4592d942f007be3aed1c6b95c7ea6b",
   "ayni_dosya": true,
-  "karakter": 29932,
+  "karakter": 29911,
   "metin_dosyasi": "veri/mahkemeler/yasalar-lo/949_25-1993(1).doc.txt",
   "durum": "tamam"
  },
@@ -7444,9 +7444,9 @@
  "1331": {
   "pkey": 1331,
   "url": "https://mevzuat.mahkemeler.net/Yasalar/51-1995.doc",
-  "sha256": "6c0438997cf60a745c4e548a322e5fc66feba6034f14868dfb6f342214e7a842",
+  "sha256": "e0662180158d3b7e57a4718df8ee3d96f3df0de5d00d6e915eb4e0ba45d3cdf6",
   "ayni_dosya": true,
-  "karakter": 232590,
+  "karakter": 235456,
   "metin_dosyasi": "veri/mahkemeler/yasalar-lo/1331_51-1995.doc.txt",
   "durum": "tamam"
  },
