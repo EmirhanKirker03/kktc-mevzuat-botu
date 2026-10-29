@@ -88,6 +88,12 @@ Hiçbiri geriye gitmemeli.
 - Derleme 7.581 kayıt; kalite 11/11; arama 25/25, 10/10, 10/10, 42/42, 12/12; e2e 23; güvenlik 30/30; tanıtım 20/20.
   Sayfa sürüm 57.
 
+- Aynı gün (2. tur): rg_bol taşma sonrası boşalan bölgeler → 120 yeni Gazete metni (eşleşmeyen 256). İkinci-şans eşleştirme
+  (eşik 0,45) denendi, yanlış eşleşmeler verdiği için GERİ ALINDI. kisisel.py: Ek IV sayfaları, çek yasağı ve ad+kimlik
+  listeleri çıkarılır (not konur); ihale yasağı listeleri alınmaz. İş akışı 6 ilk kez çalıştı: 5 yasa değişmiş, 71–74/2026
+  artık Yüksek Mahkeme metinlerinde → sd_temizle 4 uyarıyı kaldırdı. 25+ Gazete sayısı sitede 404 (2006–2016), arşiv alt
+  alanına tarayıcıdan erişim reddedildi. Haftalık zamanlanmış görev kuruldu (Pazartesi 10:23). Derleme 7.682, sayfa sürüm 58.
+
 ## Haftalık güncelleme (zamanlanmış görev bunu uygular)
 Kullanıcının bilgisayarındaki tarayıcı gerekir (devlet siteleri bulut ortamını engelliyor). Adımlar:
 1. `bash asistan/kurulum.sh`. Son haftalık raporu oku: `sonuc/haftalik.md` (varsa).
