@@ -65,6 +65,29 @@ Hiçbiri geriye gitmemeli.
 - Kalan eşleşmeyenlerin ~204'ü başka bir hedefe verilmiş bölümün içinde (aynı parçada iki metin); bunları ayırmak eski
   metinleri kısaltacağı için yapılmadı.
 
+## 29 Ekim 2026 bilgisayar oturumu (güncellik denetimi)
+- Yasalar: Meclis kataloğundaki 2026'nın tüm değişiklik yasaları (1–70/2026) tek tek denetlendi; Yüksek Mahkeme
+  metinleri hepsini içeriyor. 8–13 Ekim'de çıkan 71–74/2026 (Yurttaşlık, Siyasal Partiler, Belediyeler, AÖA Kuruluş)
+  `sonraki_degisiklikler.json`'a eklendi (73/2026 Meclis'te henüz yok: Gazete 203'ten yazı tanıma, `ocr: true`).
+  Yüksek Mahkeme metni bu yasaları içerdiğinde (yasa listesi yeniden indirilince) bu girdiler silinmeli.
+- Eski "metne işlenmemiş" uyarılarından 3'ü yanlıştı (değişiklik metinde birebir vardı): kaldırıldı, `sd_islenmis.json`.
+  Kalan 9 yasadaki uyarılar elle doğrulandı (yeni metin Yüksek Mahkeme metninde yok).
+- guncellik_tum.json'daki diğer "eksik"ler (Daire kuruluş yasaları, Seçim Geçici Kurallar, KDV İadesi) yanlış ad
+  eşleşmesi: değişiklik başka bir yasaya ait ya da metinde var.
+- YGK: Meclis listesi 7.10.2026'ya kadar tam; Gazete'de sonrasında yeni YGK yok.
+- Resmî Gazete: 203–211 (13–28.10.2026) indirildi (`rg_ek2.tgz`), 11 yeni tüzük/emirname. Sayı 193'ün bozuk metin
+  katmanlı 14 sayfası yazı tanımayla okundu: 933/2026 ve 940/2026 eklendi.
+- rg_bol düzeltmesi: metinlerin sonuna aynı sayıdaki başka ilanlar taşıyordu (Merkez Bankası kurları, vaziyet, çek
+  yasağı listeleri — kişi adları dahil). ~1.530 metinde bir sonraki "Sayı : N" satırında kesildi; ~640 metnin başı
+  kendi Sayı satırından alındı (fiyat tablosu gibi önce basılan kısımlar). Kaybolan eşleşme 0; 50+ örnek elle kontrol.
+- Mahkemeler sitesi listesi 29.10'da yeniden alındı (iş akışı 3, `liste`): yeni yasa 0, yeni karar 0, yeni tüzük 20
+  (18'i zaten Gazete'den vardı, 2'si yukarıda eklendi). Not: `indir tuzuk` 'metin-cok-kisa' olanları da baştan
+  indiriyor (2.900+); yeni tüzükleri almak için `secili` kullanılmalı.
+- İş 4 incelendi: 316 taranmış yasanın 304'ü İngilizce fasıl (Meclis'te ikinci kaynak yok); Türkçe 12'nin yalnızca
+  31/1970'in (yürürlükten kalkmış) Meclis'te Word dosyası var. Bu iş fiilen kapandı.
+- Derleme 7.581 kayıt; kalite 11/11; arama 25/25, 10/10, 10/10, 42/42, 12/12; e2e 23; güvenlik 30/30; tanıtım 20/20.
+  Sayfa sürüm 57.
+
 ## Sıradaki işler (öncelik sırasıyla)
 1. **Arşivden 77 Gazete sayısı eksik** (`/home/claude/rg/indirilecek.json` içindeki `/Portals/105/...` olanlar; 24 tanesi
    `/Portals/6/` sitede 404, onlar alınamaz). İnternete erişim
