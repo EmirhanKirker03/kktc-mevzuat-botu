@@ -88,6 +88,26 @@ Hiçbiri geriye gitmemeli.
 - Derleme 7.581 kayıt; kalite 11/11; arama 25/25, 10/10, 10/10, 42/42, 12/12; e2e 23; güvenlik 30/30; tanıtım 20/20.
   Sayfa sürüm 57.
 
+## Haftalık güncelleme (zamanlanmış görev bunu uygular)
+Kullanıcının bilgisayarındaki tarayıcı gerekir (devlet siteleri bulut ortamını engelliyor). Adımlar:
+1. `bash asistan/kurulum.sh`. Son haftalık raporu oku: `sonuc/haftalik.md` (varsa).
+2. **Resmî Gazete**: tarayıcıda https://basimevi.gov.ct.tr/ ana sayfasındaki tablodan bu yılın sayı listesini al
+   (`/home/claude/rg/rl<yıl>.json` biçimi: `{s, t, u, i: [[ek, ae, başlık]]}`), `rg_liste.json`'da olmayan sayıları ekle.
+   Yeni sayılardaki Ek III tüzük/emirname/yönetmelik/tebliğ maddelerini (başlıkta TÜZÜ/EMİRNAME/YÖNETMELİ/TEBLİĞ geçen,
+   Yüksek Mahkeme tüzük listesinde A.E. numarası olmayan) `rg_hedef_ham.json`'a ekle. Bu sayıların PDF'lerini tarayıcıda
+   pdf.js ile metne çevir (sayfalar `\n[SAYFA n]\n`), boş/bozuk sayfaları tesseract.js (tur) ile oku; `metin/6_<yıl>_<sayı>.pdf.txt`.
+   Sonra `rg_bol.py` → eski çıktıyla karşılaştır (kaybolan eşleşme 0 olmalı) → `rg_kaydet.py`. Yeni metinleri
+   `raw/resmi_gazete/rg_ekN.tgz` olarak arşivle.
+3. **Yasalar**: tarayıcıda https://cm.gov.ct.tr/Yasalarr.aspx listesinin en üstündeki yasalar (sayı/yıl). Bilinen son sayıdan
+   (şu an 74/2026) sonrakileri incele: değişiklik yasası ise ve Yüksek Mahkeme metni o sayıyı içermiyorsa Word dosyasını
+   (yazı tipleri çıkarılarak) indir, LibreOffice ile metne çevir, `sonraki_degisiklikler.json`'a ekle (başlık, url, sha256).
+   Meclis'te henüz yoksa Resmî Gazete Ek I'den yazı tanımayla al (`ocr: true`). Yeni esas yasa çıktıysa raporla.
+4. Yüksek Mahkeme listesi: iş akışı 3 (`liste`) GitHub API ile çalıştır; yeni karar/tüzük varsa raporla. Ayın ilk haftasında
+   iş akışı 6 (değişen yasa denetimi) kendiliğinden çalışır; `sonuc/degisim-yasa.json`'daki değişenleri raporla.
+5. `python3 sd_temizle.py` → derleme → `test/veri_kalite.py` → testler (hepsi geçmeli).
+6. Commit (main + yayin `veri/`), sayfayı yayınla (değişen dosyalar, 45 MB'lık parçalar), `sonuc/haftalik.md`'ye kısa Türkçe rapor yaz.
+7. Kullanıcıya sade Türkçe kısa özet: kaç yeni metin, hangi yasalar değişti, sorun var mı.
+
 ## Sıradaki işler (öncelik sırasıyla)
 1. **Arşivden 77 Gazete sayısı eksik** (`/home/claude/rg/indirilecek.json` içindeki `/Portals/105/...` olanlar; 24 tanesi
    `/Portals/6/` sitede 404, onlar alınamaz). İnternete erişim
