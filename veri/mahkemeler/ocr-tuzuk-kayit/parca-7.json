@@ -2902,7 +2902,7 @@
   "numara": "678-2020",
   "ad": "Pul Vergileri Emirnamesi",
   "url": "https://mevzuat.mahkemeler.net/Enstrumanlar/678-2020.docx",
-  "alindi": "2026-10-10T01:34:10.575Z",
+  "alindi": "2026-11-01T07:29:39.059Z",
   "sha256": "0d9ada86d741f4d582eb7b72c29ab6fe468d675d406e12374b18559d9053c15e",
   "bayt": 2064313,
   "yontem": "libreoffice",
@@ -2999,7 +2999,7 @@
   "numara": "117-2021",
   "ad": "Üstlenilen Risklere İlişkin Değişiklik Tebliği",
   "url": "https://mevzuat.mahkemeler.net/Enstrumanlar/117-2021.docx",
-  "alindi": "2026-10-10T01:36:28.556Z",
+  "alindi": "2026-11-01T07:29:46.692Z",
   "sha256": "6253833280c486c2b3b6a3a70f0920da7994fe23938f4832454325eeacfdda96",
   "bayt": 166874,
   "yontem": "libreoffice",
@@ -3061,6 +3061,20 @@
   "sayfa": 1,
   "karakter": 1580,
   "metin_dosyasi": "veri/mahkemeler/ocr-tuzuk/6571_445-2021.pdf.txt",
+  "durum": "tamam"
+ },
+ "6871": {
+  "pkey": 6871,
+  "numara": "434-2023",
+  "ad": "Liman İşçileri Ücret (Değişiklik) Tarifeleri",
+  "url": "https://mevzuat.mahkemeler.net/Enstrumanlar/434-2023.pdf",
+  "alindi": "2026-11-01T07:29:52.950Z",
+  "sha256": "4efca7c047cb459759931b3c6e43b218ea60266216a83141f8fc3a43636d8c0d",
+  "bayt": 8948366,
+  "yontem": "ocr (tesseract tur+eng, 300 dpi)",
+  "sayfa": 1,
+  "karakter": 1205,
+  "metin_dosyasi": "veri/mahkemeler/ocr-tuzuk/6871_434-2023.pdf.txt",
   "durum": "tamam"
  },
  "6943": {
