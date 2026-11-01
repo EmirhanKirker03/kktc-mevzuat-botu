@@ -1,40 +1,9 @@
 {
  "tur": "yasa",
- "basladi": "2026-10-29T05:42:40.952Z",
+ "basladi": "2026-11-01T09:20:49.044Z",
  "denetlenen": 1233,
- "ayni": 1228,
- "degisen": [
-  {
-   "pkey": 55,
-   "numara": "60/2000",
-   "ad": "Atatürk Öğretmen Akademisi Kuruluş Yasası",
-   "durum": "tamam"
-  },
-  {
-   "pkey": 323,
-   "numara": "7/1979",
-   "ad": "Kamu Görevlileri Yasası",
-   "durum": "tamam"
-  },
-  {
-   "pkey": 702,
-   "numara": "49/2015",
-   "ad": "Siyasal Partiler Yasası",
-   "durum": "tamam"
-  },
-  {
-   "pkey": 949,
-   "numara": "25/1993",
-   "ad": "Yurttaşlık Yasası",
-   "durum": "tamam"
-  },
-  {
-   "pkey": 1331,
-   "numara": "51/1995",
-   "ad": "Belediyeler Yasası",
-   "durum": "tamam"
-  }
- ],
+ "ayni": 1233,
+ "degisen": [],
  "yeni": [],
  "hata": [
   {
@@ -462,5 +431,5 @@
    "hata": "HTTP 404"
   }
  ],
- "bitti": "2026-10-29T07:08:36.788Z"
+ "bitti": "2026-11-01T10:37:30.370Z"
 }
