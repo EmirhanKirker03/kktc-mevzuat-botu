@@ -220,3 +220,9 @@ yanlış 1 ("itraz başvuruları" → "itiraz başvurulan", yine çok sözcükl�
 | 197 | arasinda | arasında | doğru | Silindir kapasitesi 126cc ile 249cc [[ arasinda ]] olan (126cc ve 249cc dahil) |
 | 198 | teftig | teftiş | doğru | ilgili evrakın her teftişi için, [[ teftig ]] süresinin her saati veya her |
 | 199 | tibbi arnaçlı | tıbbi amaçlı | doğru | minderleri, oturma minderleri, destek yastıkları, [[ tibbi arnaçlı ]] beslenme solüsyonları vb. dahil); Gümrük |
+
+## Çok sözcüklü grup düzeltmesi (29 Ekim 2026)
+Grup bütün olarak seçilmeye devam ediyor, ama YM'de sözlükte sık geçen bir sözcüğün yerine Gazete'nin ≥10 kat daha seyrek
+okuması konmuyor (o sözcük YM'deki gibi kalıyor). Önceki sonuçla karşılaştırma: 16 farklı yer — 15'i düzeldi
+(8× "korunak" → "konmak", Kıbns→Kıbrıs, aynca→ayrıca ×2, tarafindan→tarafından, ıçın→için, oır→bir, karan→kararı),
+1'i kötüleşti ("plan" → "olan", T6167). Düzeltilen tüzük 857 → 858, kelime grubu 4.410.

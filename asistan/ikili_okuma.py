@@ -62,6 +62,16 @@ for x in o:
         sec = min(fr) >= 30 and min(fy) < 3
         # iki okuma birbirine benzemeli (aynı sözcüğün iki okuması); benzemiyorsa hizalama kaymıştır
         if sec and difflib.SequenceMatcher(None, norm(' '.join(w[3] for w in Y)).replace(' ', ''), norm(' '.join(R)).replace(' ', '')).ratio() < 0.6: sec = False
+        if sec and len(Y) == len(R) and len(Y) > 1:
+            # çok sözcüklü grup: grup bütün olarak seçilir, ama YM'de sözlükte sık geçen (doğru) bir sözcüğün yerine Gazete'nin
+            # sözlükte olmayan okuması konmaz (ör. "konmak" → "korunak" hatası); o sözcük YM'deki gibi kalır
+            yeni = []
+            for w, r_, a_, b_ in zip(Y, R, fy, fr):
+                if a_ >= 30 and a_ >= 10 * max(b_, 1): yeni.append(w[3]); ist['grupta korunan sözcük'] += 1
+                else: yeni.append(r_)
+            if ' '.join(yeni) != ' '.join(w[3] for w in Y):
+                degis[Y[0][0]].append((Y[0][1], Y[-1][2], ' '.join(yeni))); ist['değişen kelime grubu'] += 1
+            continue
         if sec and ' '.join(w[3] for w in Y) != ' '.join(R):
             degis[Y[0][0]].append((Y[0][1], Y[-1][2], ' '.join(R)))
             ist['değişen kelime grubu'] += 1

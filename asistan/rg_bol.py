@@ -49,7 +49,7 @@ def kirp(seg):
     m = re.search(r'\n\s*EK\s*IV\b|\n\s*Say[ıi]\s*:?\s*\S{1,4}\s*(?:EK)?\s*-?\s*IV\b|\n\s*EK\s*VI?\b\s*\n', seg[200:])
     c = 200 + m.start() if m else len(seg)
     # Ek IV (Bakanlar Kurulu kararları) başlığı OCR'da bozulmuş olabilir: "BAKANLAR KURULU KARARLARI" bölüm başlığından önceki Sayı satırında kes
-    b = re.search(r'BAKANLAR\s+KURULU\s+KARARLAR|Bakanlar\s+Kurulu\s+Kararlar[ıi]\s*\)', seg[200:c])
+    b = re.search(r'BAKANLAR\s+KURULU\s+KARARLAR', seg[200:c])
     if b:
         p = 200 + b.start(); onc = [x for x in re.finditer(r'(?m)^[ \t]*Say[ıi]', seg[max(200, p - 300):p])]
         c = max(200, p - 300) + onc[0].start() if onc else seg.rfind('\n', 0, p) + 1
