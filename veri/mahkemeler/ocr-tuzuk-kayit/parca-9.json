@@ -3042,7 +3042,7 @@
   "numara": "199-2021",
   "ad": "Suç Gelirlerinin Aklanmasının Önlenmesi Yasası Şüpheli İşlem Kriterleri ile Şüpheli İşlem Bildirim Usul ve Esasları Tebliği",
   "url": "https://mevzuat.mahkemeler.net/Enstrumanlar/199-2021.docx",
-  "alindi": "2026-10-10T01:24:47.380Z",
+  "alindi": "2026-11-01T07:29:21.902Z",
   "sha256": "3bd6d4ebddac999097c11f23e1fb8f25890678476c7ad395bb60f623b106f138",
   "bayt": 3941597,
   "yontem": "libreoffice",
@@ -3146,6 +3146,20 @@
   "sayfa": 8,
   "karakter": 15771,
   "metin_dosyasi": "veri/mahkemeler/ocr-tuzuk/7173_1099-2024.pdf.txt",
+  "durum": "tamam"
+ },
+ "7185": {
+  "pkey": 7185,
+  "numara": "1110-2024",
+  "ad": "Tarımsal Ürünler (Tağşiş) (Değişiklik) Tüzüğü",
+  "url": "https://mevzuat.mahkemeler.net/Enstrumanlar/1110-2024.pdf",
+  "alindi": "2026-11-01T07:29:29.649Z",
+  "sha256": "cb85aecdcd1561188c3daaa17d0db8414e3c5f637f52ebef5e1106f7fd14f45a",
+  "bayt": 63439438,
+  "yontem": "ocr (tesseract tur+eng, 300 dpi)",
+  "sayfa": 4,
+  "karakter": 9976,
+  "metin_dosyasi": "veri/mahkemeler/ocr-tuzuk/7185_1110-2024.pdf.txt",
   "durum": "tamam"
  },
  "7413": {
