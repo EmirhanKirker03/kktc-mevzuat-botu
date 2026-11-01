@@ -1147,6 +1147,20 @@
   "metin_dosyasi": "veri/mahkemeler/ocr-tuzuk/4796_20130221104314161.pdf.txt",
   "durum": "tamam"
  },
+ "4808": {
+  "pkey": 4808,
+  "numara": "540/2009",
+  "ad": "Burs (Değişiklik) Tüzüğü",
+  "url": "https://mevzuat.mahkemeler.net/Enstrumanlar/20130221105022597.pdf",
+  "alindi": "2026-11-01T07:29:27.006Z",
+  "sha256": "ea9e27626112fdf7438d313972e95a0a21d4b6c6dde065cdf4a16ab2b3259568",
+  "bayt": 116457,
+  "yontem": "ocr (tesseract tur+eng, 300 dpi)",
+  "sayfa": 1,
+  "karakter": 1242,
+  "metin_dosyasi": "veri/mahkemeler/ocr-tuzuk/4808_20130221105022597.pdf.txt",
+  "durum": "tamam"
+ },
  "4820": {
   "pkey": 4820,
   "numara": "591/2009",
