@@ -93,6 +93,9 @@ Hiçbiri geriye gitmemeli.
   listeleri çıkarılır (not konur); ihale yasağı listeleri alınmaz. İş akışı 6 ilk kez çalıştı: 5 yasa değişmiş, 71–74/2026
   artık Yüksek Mahkeme metinlerinde → sd_temizle 4 uyarıyı kaldırdı. 25+ Gazete sayısı sitede 404 (2006–2016), arşiv alt
   alanına tarayıcıdan erişim reddedildi. Haftalık zamanlanmış görev kuruldu (Pazartesi 10:23). Derleme 7.682, sayfa sürüm 58.
+- 3. tur (1 Kasım): ikili okumada çok sözcüklü grup düzeltmesi ("korunak" hatası, 15 düzelme / 1 kötüleşme, ikili_olcum.md).
+  Tüzük değişim denetimi (iş akışı 6, tuzuk): 20 yeni YM tüzüğü (Gazete kopyalarının yerine resmî dijital metin), 6 değişen
+  tüzük; 4 taranmış olan iş akışı 5 (ocr-tuzuk) ile okundu. Derleme 7.684, sayfa sürüm 60.
 
 ## Haftalık güncelleme (zamanlanmış görev bunu uygular)
 Kullanıcının bilgisayarındaki tarayıcı gerekir (devlet siteleri bulut ortamını engelliyor). Adımlar:
