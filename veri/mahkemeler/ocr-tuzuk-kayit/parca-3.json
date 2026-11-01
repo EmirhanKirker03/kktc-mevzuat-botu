@@ -615,6 +615,20 @@
   "metin_dosyasi": "veri/mahkemeler/ocr-tuzuk/4239_st765-2005.pdf.txt",
   "durum": "tamam"
  },
+ "4251": {
+  "pkey": 4251,
+  "numara": "800-2005",
+  "ad": "Tıp Meslek Ahlak Tüzüğü",
+  "url": "https://mevzuat.mahkemeler.net/Enstrumanlar/st800-2005.pdf",
+  "alindi": "2026-11-01T07:29:20.536Z",
+  "sha256": "a0ed1bc0d70ca37c8f5663372d1ebf141e3c4d3da5b7c1a0e4d1d70424048ace",
+  "bayt": 626841,
+  "yontem": "ocr (tesseract tur+eng, 300 dpi)",
+  "sayfa": 9,
+  "karakter": 21755,
+  "metin_dosyasi": "veri/mahkemeler/ocr-tuzuk/4251_st800-2005.pdf.txt",
+  "durum": "tamam"
+ },
  "4263": {
   "pkey": 4263,
   "numara": "46/2006",
