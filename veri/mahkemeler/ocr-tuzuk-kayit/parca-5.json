@@ -354,9 +354,14 @@
   "numara": "240/2010",
   "ad": "Restorancılar Birliği Denetim ve Çalışma Esasları Tüzüğü",
   "url": "https://mevzuat.mahkemeler.net/Enstrumanlar/240.2010.pdf",
-  "alindi": "2026-10-10T00:41:25.189Z",
-  "durum": "sorun",
-  "hata": "terminated"
+  "alindi": "2026-11-01T07:29:19.540Z",
+  "sha256": "8ec43662adaef4292ca319f9d99270423d18bec93b52cf311a07af91e7ef6c04",
+  "bayt": 268605,
+  "yontem": "ocr (tesseract tur+eng, 300 dpi)",
+  "sayfa": 3,
+  "karakter": 3312,
+  "metin_dosyasi": "veri/mahkemeler/ocr-tuzuk/3989_240.2010.pdf.txt",
+  "durum": "tamam"
  },
  "4001": {
   "pkey": 4001,
@@ -2911,7 +2916,7 @@
   "numara": "625-2020",
   "ad": "Bulaşıcı Hastalıklar Üst Komitesi Tarafından 5 Eylül 2020 Tarihinde Alınan Kararlar",
   "url": "https://mevzuat.mahkemeler.net/Enstrumanlar/625-2020.docx",
-  "alindi": "2026-10-10T01:49:41.610Z",
+  "alindi": "2026-11-01T07:29:29.250Z",
   "sha256": "dbd3f84d87c0f73f8003b7d9b3bc0f2db856dfafce9954f9cb91bbbea9d53830",
   "bayt": 10433740,
   "yontem": "libreoffice",
