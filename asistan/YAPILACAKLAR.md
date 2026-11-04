@@ -123,8 +123,10 @@ yeniden yazar; commit'ten önce `git checkout asistan/test/*.docx`.)
      iyileşme ('üretildik leri' → 'üretildikleri', 'DÖŞEMECiLiği' → 'DÖŞEMECİLİĞİ') ve bozulma ('itibaren' →
      'iti ba r en', 'Koruma' → 'Kor u ma', 'IgG' → 'IGG') birlikte. Önce onar.birlestir/_parca eşikleri sözlük
      büyüklüğünden bağımsız hâle getirilmeli (ör. parça kararı için sıklık oranı), sonra yeniden ölçülmeli.
-- Derleme 7.684 kayıt (metinler yayındakiyle birebir aynı); kalite 11/11; arama 25/25, 10/10, 10/10, 42/42, 12/12;
-  mevzuat listesi 13/13; e2e 24; güvenlik 30/30; tanıtım 20/20.
+- Meclis kataloğu: 38 başlıkta Windows-1252 tırnakları (U+0091–U+0094, 'Denizgezen\x92in') sayfa üretilirken ’ “ ” yapılır.
+- Derleme 7.684 kayıt (metinlerde tek fark T4390 m.18 'fle' → 'ile'); kalite 11/11; arama 25/25, 10/10, 10/10, 42/42, 12/12;
+  mevzuat listesi 13/13; e2e 24; güvenlik 30/30; tanıtım 20/20. Kullanıcı onayıyla main ve yayin'e alındı (yayin: sunucu
+  dosyaları + kira_asistani.html, tum-dizin.json, tum-27.json); sayfa sürüm 62.
 
 ## Haftalık güncelleme (zamanlanmış görev bunu uygular)
 Kullanıcının bilgisayarındaki tarayıcı gerekir (devlet siteleri bulut ortamını engelliyor). Adımlar:
