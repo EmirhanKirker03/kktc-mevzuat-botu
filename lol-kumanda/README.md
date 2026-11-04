@@ -119,7 +119,13 @@ Ortam değişkenleri: `PORT`, `LEAGUE_PATH`, `LCU_LOCKFILE`, `LOLK_CONFIG` (baş
 **Telefon sayfayı açamıyor**
 - Telefon ve bilgisayar **aynı ağda** mı? Telefonda mobil veri değil Wi-Fi açık olmalı; VPN kapalı olmalı.
 - Misafir (guest) Wi-Fi ağları cihazların birbirini görmesini engeller; ana ağa bağlan.
-- Windows Güvenlik Duvarı: **`guvenlik-duvari-izni.bat`** dosyasını çalıştır (yönetici izni ister; 4747 portuna izin verir ve daha önce yanlışlıkla oluşan Node.js engelleme kurallarını kaldırmayı teklif eder).
+- Sayfa siyah/boş kalıp yüklenmiyorsa telefon bilgisayara ulaşamıyordur; en sık sebep **Windows Güvenlik Duvarı**dır. (League kapalıyken de sayfa açılır ve "League istemcisi bekleniyor" yazar.)
+  - `baslat.bat` ile çalıştırıyorsan: **`guvenlik-duvari-izni.bat`** dosyasını çalıştır (yönetici izni ister; 4747 portuna izin verir ve daha önce yanlışlıkla oluşan Node.js engelleme kurallarını kaldırmayı teklif eder).
+  - `lol-kumanda.exe` kullanıyorsan: Başlat menüsüne sağ tıkla → **Terminal (Yönetici)** ya da **Windows PowerShell (Yönetici)** → şu satırı yapıştırıp Enter'a bas. Program güvenlik duvarında **Node.js JavaScript Runtime** adıyla görünür; satır, ona ait engelleme kurallarını siler ve 4747 portuna izin verir:
+
+    ```powershell
+    Get-NetFirewallApplicationFilter | Where-Object { $_.Program -like '*lol-kumanda.exe' -or $_.Program -like '*node.exe' } | Get-NetFirewallRule | Where-Object { $_.Direction -eq 'Inbound' -and $_.Action -eq 'Block' } | Remove-NetFirewallRule; New-NetFirewallRule -DisplayName 'LoL Kumanda' -Direction Inbound -Protocol TCP -LocalPort 4747 -Action Allow -Profile Any
+    ```
 - Pencerede birden çok adres yazıyorsa diğerlerini dene. Ağ profilin "Ortak" ise "Özel" yapmak da yardımcı olur.
 
 **"League istemcisi bekleniyor" yazıyor**

@@ -62,6 +62,10 @@ function banner(app, { demo }) {
     );
     out.push('');
     out.push(`  QR kod bozuk görünüyorsa tarayıcıda aç: ${c.cyan(`http://localhost:${app.port}/qr`)}`);
+    out.push(
+      `  Telefonda sayfa siyah/boş kalıyorsa: Windows Güvenlik Duvarı engelliyordur (League kapalıyken de sayfa açılmalı).`,
+      `  Çözüm: README → "Sorun giderme" (güvenlik duvarında program "Node.js JavaScript Runtime" adıyla görünür).`,
+    );
     if (urls.length > 1) {
       out.push('  Açılmazsa diğer adresleri dene:');
       for (const u of urls.slice(1, 4)) out.push(`    ${u}`);
