@@ -52,6 +52,12 @@
 
   window.claude = { use: async ad => ({ sample, db: dbApi, user: userApi })[ad] || null };
 
+  // çıkış: sunucu /api POST isteklerinde JSON ister (başka sitelerden form ile istek atılamasın diye); gövdesiz istek 415 alır ve oturum kapanmaz
+  const cikis = async () => {
+    try { await fetch('/api/cikis', { method: 'POST', credentials: 'same-origin', headers: { 'content-type': 'application/json' }, body: '{}' }); } catch (_) { /* yine de giriş sayfasına git */ }
+    location.href = '/giris';
+  };
+
   // hesap kutusu: ad, abonelik, kullanım, çıkış
   document.addEventListener('DOMContentLoaded', async () => {
     let b; try { b = await benAl(); } catch (_) { return; }
@@ -71,7 +77,7 @@
     if (b.rol === 'yonetici') a('Yönetim', () => location.href = '/yonetim');
     a('Şifre', () => location.href = '/hesap');
     a('Koşullar', () => location.href = '/kosullar');
-    a('Çıkış', async () => { await fetch('/api/cikis', { method: 'POST' }); location.href = '/giris'; });
+    a('Çıkış', cikis);
     yer.append(kutu);
     const menu = document.getElementById('menu');
     if (menu) {
@@ -79,7 +85,7 @@
       if (b.rol === 'yonetici') ek('Yönetim', () => location.href = '/yonetim');
       ek('Şifre değiştir', () => location.href = '/hesap');
       ek('Koşullar', () => location.href = '/kosullar');
-      ek('Çıkış (' + b.ad + ')', async () => { await fetch('/api/cikis', { method: 'POST' }); location.href = '/giris'; });
+      ek('Çıkış (' + b.ad + ')', cikis);
     }
     const ust = document.querySelector('.topbar span');
     if (ust) ust.textContent = b.abone ? b.ad : 'abonelik süresi doldu';

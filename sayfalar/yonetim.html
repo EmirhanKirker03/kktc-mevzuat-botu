@@ -41,8 +41,9 @@ async function yukle(){ const r=await fetch('/api/yonetim/kullanicilar'); const 
 async function guncelle(o){ const r=await fetch('/api/yonetim/guncelle',{method:'POST',headers:{'content-type':'application/json'},body:JSON.stringify(o)}); return r.json(); }
 liste.addEventListener('change',async e=>{ if(e.target.dataset.a==='bitis'){ await guncelle({id:+e.target.closest('tr').dataset.id, abonelik_bitis:e.target.value}); yukle(); } });
 liste.addEventListener('click',async e=>{ const b=e.target.closest('button'); if(!b) return; const id=+b.closest('tr').dataset.id;
-  if(b.dataset.a==='sifre'){ const j=await guncelle({id,sifre_sifirla:true}); sonuc.innerHTML='Yeni geçici şifre: <span class="sifre">'+esc(j.gecici_sifre)+'</span>'; window.scrollTo(0,0); }
-  if(b.dataset.a==='aktif'){ await guncelle({id,aktif:b.dataset.v==='1'}); yukle(); } });
+  const ad_=b.closest('tr').children[0].textContent;
+  if(b.dataset.a==='sifre'){ if(!confirm(ad_+' için yeni geçici şifre üretilsin mi?\nEski şifre geçersiz olur ve açık oturumları kapanır.')) return; const j=await guncelle({id,sifre_sifirla:true}); sonuc.innerHTML='Yeni geçici şifre: <span class="sifre">'+esc(j.gecici_sifre)+'</span>'; window.scrollTo(0,0); }
+  if(b.dataset.a==='aktif'){ if(b.dataset.v!=='1' && !confirm(ad_+' hesabı kapatılsın mı?\nAçık oturumları hemen kapanır; hesabı daha sonra yeniden açabilirsiniz.')) return; await guncelle({id,aktif:b.dataset.v==='1'}); yukle(); } });
 yeni.addEventListener('submit',async e=>{ e.preventDefault(); const r=await fetch('/api/yonetim/kullanici',{method:'POST',headers:{'content-type':'application/json'},body:JSON.stringify({ad:ad.value,eposta:eposta.value,buro:buro.value,abonelik_bitis:bitis.value})});
   const j=await r.json(); if(r.ok){ sonuc.innerHTML='Hesap oluşturuldu. Geçici şifre: <span class="sifre">'+esc(j.gecici_sifre)+'</span>'; yeni.reset(); bitis.value=d.toISOString().slice(0,10); yukle(); } else sonuc.textContent=j.hata; });
 yukle();

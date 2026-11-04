@@ -257,7 +257,7 @@ article.sheet:not(.open) > .src{display:none}
       <button class="morebtn" id="morebtn" aria-haspopup="true" aria-expanded="false"><svg viewBox="0 0 24 24"><circle cx="5" cy="12" r="1.3"/><circle cx="12" cy="12" r="1.3"/><circle cx="19" cy="12" r="1.3"/></svg>Daha</button>
     </nav>
     <div class="sidefoot">
-      <div class="stat2">Anayasa ve 1.298 yasa · 4.630 tüzük · 1.755 kararname, emirname ve yönetmelik · 5.495 mahkeme kararı<br>Güncel: Ekim 2026 · <button type="button" class="linkbtn" id="tanitac" style="color:inherit">Nasıl kullanılır?</button></div>
+      <div class="stat2">Anayasa ve 1.298 yasa · 4.630 tüzük · 1.755 kararname, emirname ve yönetmelik · 5.495 mahkeme kararı<br><span title="Resmî Gazete ve Yüksek Mahkeme listeleri en son bu tarihe kadar kontrol edildi">Güncel: 31 Ekim 2026</span> · <button type="button" class="linkbtn" id="tanitac" style="color:inherit">Nasıl kullanılır?</button></div>
       <div class="proto">Hukuki tavsiye değildir; son kontrol avukattadır.</div>
     </div>
   </aside>
@@ -304,7 +304,7 @@ article.sheet:not(.open) > .src{display:none}
     </div>
     <footer>
       <span>Cevaplar yalnızca bu sayfadaki maddelere ve kararlara dayanır; kaynağı olmayan cümle ve karar metninde bulunmayan alıntı gösterilmez.</span>
-      <span>Kaynak: KKTC Yüksek Mahkeme mevzuat sistemi, Cumhuriyet Meclisi arşivi ve Resmî Gazete (Devlet Basımevi), Ekim 2026. Her dosyanın parmak izi (SHA-256) saklanır.</span>
+      <span>Kaynak: KKTC Yüksek Mahkeme mevzuat sistemi, Cumhuriyet Meclisi arşivi ve Resmî Gazete (Devlet Basımevi); 31 Ekim 2026 itibarıyla. Her dosyanın parmak izi (SHA-256) saklanır.</span>
     </footer>
   </section>
 
@@ -398,7 +398,7 @@ article.sheet:not(.open) > .src{display:none}
   <section id="pane-ym" role="tabpanel" hidden>
     <div class="pane-head"><div><h2>Mevzuat</h2><p>Yüksek Mahkeme sistemindeki diğer tüm yasa ve tüzükler. Madde sınırları otomatik belirlendi; <b>yazı tanıma</b> işaretliler taranmış belgeden okundu ve kelime hataları içerebilir. Her zaman resmî dosyayla karşılaştırın.</p></div>
       <div class="seg" role="group" aria-label="Görünüm"><button data-go="pane-browse" aria-pressed="false">Doğrulanmış yasalar</button><button id="tab-ym" aria-pressed="true">Tüm yasa ve tüzükler</button></div></div>
-    <input id="yq" type="search" placeholder="Yasa adı, sayısı veya konu ara (ör. silah, 2/2016, Fasıl 3)" aria-label="Tüm yasalarda ara">
+    <input id="yq" type="search" placeholder="Yasa adı, sayısı veya konu ara (ör. silah, 17/1981, Fasıl 154, HMUT)" aria-label="Tüm yasalarda ara">
     <div class="catstats" id="ystats">Liste yükleniyor…</div>
     <div class="catlist" id="ylist"></div>
     <div id="yview" style="margin-top:16px"></div>
@@ -517,7 +517,7 @@ const SYN = [
   [/tapu|kocan|tescil|tasinmaz kayd|kayit duzelt/, 'tasin tasar kayit kiyme tapu devir'],
 ];
 // Türkiye hukuk terimi → KKTC mevzuatındaki karşılığı (aramada tam ağırlıkla eklenir)
-const TERIM=[[/ayıplı|ayıp/i,'kusurlu'],[/temyiz/i,'istinaf'],[/yargıtay/i,'Yüksek Mahkeme istinaf'],[/ihtiyati tedbir|tedbir kararı/i,'ara emri'],[/ihtiyati haciz/i,'ara emri haciz'],
+const TERIM=[[/\bHMUT\b/i,'Hukuk Muhakemeleri Usulü Tüzüğü'],[/\bHMUY\b/i,'Hukuk Muhakemeleri Usulü Yasası'],[/\bCMUY\b|\bCMUK\b/i,'Ceza Muhakemeleri Usulü Yasası'],[/ayıplı|ayıp/i,'kusurlu'],[/temyiz/i,'istinaf'],[/yargıtay/i,'Yüksek Mahkeme istinaf'],[/ihtiyati tedbir|tedbir kararı/i,'ara emri'],[/ihtiyati haciz/i,'ara emri haciz'],
   [/dava dilekçe/i,'talep takriri'],[/cevap dilekçe/i,'müdafaa takriri savunma'],[/tebligat/i,'tebliğ'],[/yargılama gider|vekalet ücret/i,'masraflar'],[/icra takib|ilamlı icra|ilamsız/i,'icra müzekkere hüküm'],
   [/\bilam\b/i,'hüküm'],[/kira tespit/i,'kira saptanması'],[/\bHMK\b|hukuk muhakemeleri kanunu/i,'Hukuk Muhakemeleri Usulü'],[/\bCMK\b|ceza muhakemesi kanunu/i,'Ceza Muhakemeleri Usulü'],
   [/\bTBK\b|borçlar kanunu/i,'Sözleşmeler'],[/\bTCK\b|türk ceza kanunu/i,'Ceza Yasası'],[/\bİİK\b|icra ve iflas kanunu/i,'icra iflas'],[/tapu iptal/i,'tapu kayıt düzeltme'],[/vekaletname/i,'vekaletname avukat tutma varakası'],[/antika|tarihi eser|arkeolojik|define/i,'eski eser'],[/kamu görevlisi|devlet memuru|\bmemur/i,'Kamu Görevlileri Yasası'],[/çocuğun korunması|çocuk koruma|korunmaya muhtaç/i,'Çocuklar Yasası korunma emri'],[/kurum kazanc|kurumlar vergi|şirket kazanc/i,'Kurumlar Vergisi'],[/zamanaşım|zaman aşım/i,'Zamanaşımı Yasası']];
@@ -1037,11 +1037,15 @@ async function birlesik(q, n){
   return out;
 }
 // sekme: yasa listesi ve okuma
+// avukatların kullandığı kısaltmalar → yasa (mevzuat listesinde aranınca en üste gelir)
+const KISALTMA={hmut:'T7384',hmuy:'HMUK',cmuy:'CMUK',cmuk:'CMUK'};
 async function ymInit(){
   let T; try{ T=await tumDizin(); }catch(e){ $('#ystats').textContent='Yasa listesi yüklenemedi.'; return; }
   const render=()=>{
     const q=$('#yq').value.trim(); let list;
-    if(q){ const sc=T.score(toks(q)); const nq=fold(q).replace(/\s+/g,''); list=T.ys.map((y,i)=>({y,s:sc[i]+(fold(y.n).replace(/\s+/g,'')===nq?50:0)})).filter(x=>x.s>0).sort((a,b)=>b.s-a.s).map(x=>x.y); }
+    if(q){ const sc=T.score(toks(q+' '+terimEk(q))); const nq=fold(q).replace(/\s+/g,''); const kis=new Set(fold(q).split(/\s+/).map(w=>KISALTMA[w]).filter(Boolean));
+      const acik=/har[çc]|b[üu]t[çc]e|de[ğg]i[şs]iklik|kurulu[şs]|federe/i.test(q);
+      list=T.ys.map((y,i)=>({y,s:sc[i]*(acik?Math.max(1,oncelik(y)):oncelik(y))*(y.elle?1.25:1)*(y.kd||y.ry?.6:1)+(fold(y.n).replace(/\s+/g,'')===nq?50:0)+(kis.has(String(y.p))?40:0)})).filter(x=>x.s>0).sort((a,b)=>b.s-a.s).map(x=>x.y); }
     else list=T.ys;
     $('#ystats').textContent=list.length+' metin'+(q?' eşleşti':'')+' · toplam '+T.ys.filter(y=>!y.tz&&!y.yg).length+' yasa (Anayasa dahil), '+T.ys.filter(y=>y.tz).length+' tüzük, '+T.ys.filter(y=>y.yg).length+' yasa gücünde kararname · '+T.ys.filter(y=>y.o).length+' tanesi yazı tanıma ile okundu · kaynak: Yüksek Mahkeme ve Cumhuriyet Meclisi';
     $('#ylist').innerHTML=list.slice(0,80).map(y=>'<button class="catrow" data-p="'+y.p+'" style="text-align:left;width:100%;background:none;border:0;border-bottom:1px solid var(--rule);padding:8px 0;cursor:pointer;color:inherit;font:inherit"><span style="font-family:var(--f-mono)">'+esc(y.n)+'</span> — '+esc(y.a)+' <span class="muted small">· '+y.mc+' '+(y.y==='parca'?'parça':'madde')+(y.tz?' · tüzük':'')+(y.o?' · yazı tanıma':'')+(y.en?' · İngilizce':'')+(y.kd?' · yürürlükten kaldırılmış':'')+'</span></button>').join('');
