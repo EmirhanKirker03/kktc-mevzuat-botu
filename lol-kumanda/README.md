@@ -46,7 +46,13 @@ Bilgisayarda küçük bir program çalışır; telefonundan tarayıcıyla (aynı
 
 ### Hazır .exe (Node.js kurmadan)
 
-Bu klasör `main` dalındayken GitHub'da **Actions → LoL Kumanda → Run workflow** çalıştırılabilir; iş bitince sayfanın altındaki **lol-kumanda-windows** dosyası tek başına çalışan `lol-kumanda.exe`'dir (Node.js gerekmez). İmzasız olduğu için Windows "Bilgisayarınız korundu" derse **Ek bilgi → Yine de çalıştır**. Ayar dosyası exe'nin yanında oluşur.
+`lol-kumanda/` klasöründeki her değişiklikte GitHub Actions'taki **LoL Kumanda** işi testleri çalıştırır ve Windows için tek dosya `lol-kumanda.exe` üretir (Node.js gerekmez):
+
+1. GitHub'da depo → **Actions** → soldan **LoL Kumanda** → en üstteki yeşil tikli çalıştırma.
+2. Sayfanın altındaki **Artifacts** bölümünden **lol-kumanda-windows**'u indir (GitHub hesabıyla giriş gerekir; dosya 30 gün saklanır).
+3. ZIP'in içindeki `lol-kumanda.exe`'yi bir klasöre çıkar ve çift tıkla. Ayar dosyası exe'nin yanında oluşur. Demo için: `lol-kumanda.exe --demo`.
+
+İmzasız olduğu için Windows "Bilgisayarınız korundu" derse **Ek bilgi → Yine de çalıştır**. Yeni bir exe gerekirse aynı sayfada **Run workflow** ile elle de başlatılabilir (iş akışı `main` dalına geldikten sonra).
 
 ### macOS / Linux
 
