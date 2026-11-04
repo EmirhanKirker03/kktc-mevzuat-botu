@@ -6,7 +6,7 @@
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
-    "test": "node test.js"
+    "test": "node --check server.js && node --check sayfalar/kopru.js && node --check test_mock.js"
   },
   "engines": {
     "node": ">=20"

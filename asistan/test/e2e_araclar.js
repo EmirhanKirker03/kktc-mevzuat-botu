@@ -75,6 +75,12 @@ const fs = require('fs');
   await p.screenshot({ path: S + '/sure_tel.png', fullPage: false });
   await p.setViewportSize({ width: 1280, height: 900 }); await p.click('#tab-taslak'); await p.screenshot({ path: S + '/taslak.png' });
   await p.click('#tab-sure'); await p.screenshot({ path: S + '/sure.png' });
+
+  // çıkış: kenar çubuğundaki "Çıkış" oturumu gerçekten kapatmalı (sunucu gövdesiz POST'u 415 ile reddediyordu)
+  const cikisOnce = await p.evaluate(async () => (await fetch('/api/ben')).status);
+  await Promise.all([p.waitForURL(U + '/giris'), p.click('.hesap a:text-is("Çıkış")')]);
+  const cikisSonra = await p.evaluate(async () => (await fetch('/api/ben')).status);
+  ok('Çıkış oturumu kapattı (' + cikisOnce + ' → ' + cikisSonra + ')', cikisOnce === 200 && cikisSonra === 401);
   console.log(hatalar.length ? hatalar.join('\n') : 'konsol hatası yok');
   await b.close();
 })().catch(e => { console.error('HATA', e); process.exit(1); });
