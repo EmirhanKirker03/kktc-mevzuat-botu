@@ -52,7 +52,13 @@ Bilgisayarda küçük bir program çalışır; telefonundan tarayıcıyla (aynı
 2. Sayfanın altındaki **Artifacts** bölümünden **lol-kumanda-windows**'u indir (GitHub hesabıyla giriş gerekir; dosya 30 gün saklanır).
 3. ZIP'in içindeki `lol-kumanda.exe`'yi bir klasöre çıkar ve çift tıkla. Ayar dosyası exe'nin yanında oluşur. Demo için: `lol-kumanda.exe --demo`.
 
-İmzasız olduğu için Windows "Bilgisayarınız korundu" derse **Ek bilgi → Yine de çalıştır**. Yeni bir exe gerekirse aynı sayfada **Run workflow** ile elle de başlatılabilir (iş akışı `main` dalına geldikten sonra).
+**"Windows kişisel bilgisayarınızı korudu" uyarısı:** Exe dijital olarak imzalı olmadığı için (imza ücretli bir sertifika ister) Windows SmartScreen tanımadığı her yeni programda bu uyarıyı verir. Exe, bu depodaki koddan GitHub'ın sunucularında derlenir.
+
+- Uyarıdaki **Ek bilgi** bağlantısına tıkla → altta çıkan **Yine de çalıştır** düğmesine bas.
+- Ya da bir kerelik: exe'ye sağ tıkla → **Özellikler** → en alttaki **Engellemeyi kaldır** kutusunu işaretle → **Tamam**. Sonra çift tıkla; uyarı bir daha çıkmaz.
+- **Yine de çalıştır** düğmesi hiç çıkmıyorsa (Windows 11'de "Akıllı Uygulama Denetimi" açıksa ya da iş/okul bilgisayarıysa) exe yerine yukarıdaki Node.js ile kurulumu kullan; Node.js imzalı olduğu için engellenmez.
+
+Yeni bir exe gerekirse aynı sayfada **Run workflow** ile elle de başlatılabilir (iş akışı `main` dalına geldikten sonra).
 
 ### macOS / Linux
 
