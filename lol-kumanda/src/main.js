@@ -47,8 +47,13 @@ function openBrowser(url) {
   }
 }
 
+// Tailscale gibi özel VPN'lerin adres aralığı (100.64.0.0/10): telefon başka ağdayken bile erişebilir
+const isRemoteUrl = (u) => /^http:\/\/100\.(6[4-9]|[7-9]\d|1[01]\d|12[0-7])\./.test(u);
+
 function banner(app, { demo }) {
-  const urls = app.getUrls();
+  const all = app.getUrls();
+  const urls = all.filter((u) => !isRemoteUrl(u));
+  const remote = all.filter(isRemoteUrl);
   const line = c.dim('─'.repeat(64));
   const out = ['', line, `  ${c.gold('LoL Kumanda')} ${c.dim(`v${pkg.version}`)}${demo ? c.yellow('  [DEMO: sahte istemci]') : ''}`, ''];
   if (urls.length) {
@@ -72,7 +77,14 @@ function banner(app, { demo }) {
     }
   } else {
     out.push(c.yellow('  Yerel ağ adresi bulunamadı. Bilgisayar Wi-Fi ya da kabloyla ağa bağlı mı?'));
-    out.push(`  Bu bilgisayarda: ${app.localUrl}`);
+  }
+  if (remote.length) {
+    out.push('', '  Başka ağdan (Tailscale açık telefondan, mobil veriyle de olur):');
+    for (const u of remote.slice(0, 2)) out.push(`    ${c.cyan(u)}`);
+  }
+  out.push('', `  Bu bilgisayarda aç (ayarlar, Telegram kurulumu): ${c.cyan(app.localUrl)}`);
+  if (!app.config.data.telegram.token) {
+    out.push(`  ${c.dim('Aynı ağda değilken kullanmak için: ayarlardan Telegram bildirimini kur (README → Telegram).')}`);
   }
   out.push('', `  Erişim anahtarı: ${c.bold(app.config.data.token)}   ${c.dim('(adresi kimseyle paylaşma)')}`);
   out.push(`  Ayar dosyası: ${c.dim(app.config.file)}`);

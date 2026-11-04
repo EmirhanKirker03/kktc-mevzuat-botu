@@ -84,11 +84,11 @@ macOS'ta `baslat.command` dosyasına çift tıkla (ya da terminalde `npm install
 
 ## Telegram bildirimi (önerilir)
 
-Telefon kilitli ya da sayfa kapalıyken de haber almanın yolu budur. Bilgisayarın internete çıkabilmesi yeterlidir; port açmaya gerek yoktur.
+Telefon kilitliyken, sayfa kapalıyken ve **telefon başka bir ağdayken (mobil veri dahil)** çalışır. Bilgisayarın internete çıkabilmesi yeterlidir; port açmaya ya da güvenlik duvarı ayarına gerek yoktur.
 
 1. Telegram'da **@BotFather**'ı aç, `/newbot` yaz, bota bir ad ve `..._bot` ile biten bir kullanıcı adı ver.
 2. BotFather'ın verdiği anahtarı (`123456789:AA…`) kopyala.
-3. LoL Kumanda'da **Ayarlar (⚙) → Telegram bildirimi** alanına yapıştır, **Kaydet**.
+3. LoL Kumanda'da **Ayarlar (⚙) → Telegram bildirimi** alanına yapıştır, **Kaydet**. Telefon arayüzü açılmıyorsa ayarları bilgisayarın kendisinde aç: tarayıcıya `http://localhost:4747/?t=ERİŞİM-ANAHTARI` yaz (anahtar programın penceresinde yazar).
 4. Çıkan **Telegram'da aç** bağlantısına dokun ve **Başlat**'a bas (ya da bota ekranda yazan `/start 123456` kodunu gönder). Eşleştirme tamam.
 
 Bundan sonra:
@@ -97,6 +97,12 @@ Bundan sonra:
 - Komutlar: `/durum`, `/kabul`, `/reddet`, `/sira`, `/iptal`, `/sec Ahri`, `/ban Yasuo`, `/otokabul`, `/link`.
 
 Bot yalnızca eşleştirdiğin sohbete cevap verir. Eski bildirimlerdeki düğmeler yeni maçta işe yaramaz.
+
+## Aynı ağda değilken
+
+- **Telegram** (en kolayı): yukarıdaki bot her yerden çalışır. Maçı kabul edersin, banı ve seçimi favori düğmeleriyle ya da şampiyon adını yazarak yaparsın.
+- **Telefon arayüzünün tamamı** (ızgara, takım tahtası…) için ücretsiz **Tailscale**: bilgisayara ve telefona Tailscale'i kur, ikisinde de aynı hesapla giriş yap. LoL Kumanda penceresindeki "Başka ağdan" adresini (`http://100.x.x.x:4747/?t=…`) telefonda aç. Telefon mobil veride olsa da çalışır; bağlantı yalnızca senin cihazların arasındadır. Güvenlik duvarı sorun çıkarırsa "Sorun giderme" bölümündeki izni ver.
+- Modemden port açarak internete açmak önerilmez.
 
 ## Ayarlar (`config.json`)
 
