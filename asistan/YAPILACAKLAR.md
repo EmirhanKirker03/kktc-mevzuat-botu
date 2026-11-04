@@ -36,8 +36,9 @@ python3 test/veri_kalite.py app/pub     # 11/11 geçmeli
 Testler (Node + Playwright gerekir; `NODE_PATH=/opt/npm-tools/node_modules` ya da `npm i playwright`):
 `bash test/sunucular.sh` (statik sayfa 8811, sahte yapay zekâ 8899, sunucu 3100). Arama testleri `yeni` argümanıyla:
 `node test/arama_degerlendirme.js yeni` (25/25), `arama_degerlendirme_ayri.js yeni` (10/10), `anayasa_meclis_test.js yeni` (10/10),
-`deg_usul.js` (42/42), `deg_turkce.js` (12/12), `e2e_araclar.js` (23 GEÇTİ), `guvenlik.js` (30/30), `tanitim_test.js` (20/20).
-Hiçbiri geriye gitmemeli.
+`deg_usul.js` (42/42), `deg_turkce.js` (12/12), `mevzuat_liste_test.js` (13/13), `e2e_araclar.js` (24 GEÇTİ),
+`guvenlik.js` (30/30), `tanitim_test.js` (20/20). Hiçbiri geriye gitmemeli. (e2e testi `test/not.docx` ve `taslak.docx`'i
+yeniden yazar; commit'ten önce `git checkout asistan/test/*.docx`.)
 
 ## Durum (16 Ekim 2026)
 - 1.299 yasa, ~3.630 YM tüzüğü, 533 YGK, 1.929 Resmî Gazete metni, 5.494 karar.
@@ -97,6 +98,32 @@ Hiçbiri geriye gitmemeli.
   Tüzük değişim denetimi (iş akışı 6, tuzuk): 20 yeni YM tüzüğü (Gazete kopyalarının yerine resmî dijital metin), 6 değişen
   tüzük; 4 taranmış olan iş akışı 5 (ocr-tuzuk) ile okundu. Derleme 7.684, sayfa sürüm 60.
 
+## 4 Kasım 2026 bulut oturumu (dal: claude/loving-brahmagupta-a8pwlg)
+- Ağ: bulut ortamı basimevi/arsiv.basimevi/cm.gov.ct.tr ve mevzuat.mahkemeler.net'i kapatıyor (403); indirme işleri yapılamadı.
+- **Sunucu hatası düzeltildi**: "Çıkış" düğmesi gövdesiz POST gönderiyordu, sunucu JSON dışı POST'u 415 ile reddettiği için
+  oturum kapanmıyordu (kopru.js). e2e testine "Çıkış oturumu kapattı (200 → 401)" eklendi. Yönetim panelinde "Şifre sıfırla"
+  ve "Kapat" artık onay soruyor; giriş sayfasındaki eski sayılar güncellendi. Bu dosyalar yayin dalının köküne de
+  kopyalanmalı (Render oradan çalışır).
+- "Güncel: …" tarihi artık otomatik (build_app.py; şu an "31 Ekim 2026"). kurulum.sh depodaki daha yeni .json'ları
+  (rg_liste.json) arşivden çıkan eski kopyaların yerine koyar.
+- Arama anahtarları (tum-dizin.json `kw`): yazı tanıma çöpü ayıklandı (gerçek sözcük oranı OCR metinlerde %78 → %92,7);
+  metinler birebir aynı, arama testleri değişmedi. `alindi` artık liste dosyasından.
+- Mevzuat listesi araması: HMUT/HMUY/CMUY kısaltmaları, temel metin önceliği, "2/2016" (olmayan yasa) örneği düzeltildi;
+  yeni test `mevzuat_liste_test.js` (eski 8/13 → 13/13).
+- **Sözlük (onar_sozluk.json) deneyleri — DEĞİŞTİRİLMEDİ**: kontrol çalıştırması (eski sözlük, IKILI=0 → rg_dogrula →
+  ikili_okuma) depodaki ikili_okuma.json'u birebir üretti, yani akış tekrarlanabilir. (Not: rg_dogrula.py, rg_bol.py'yi
+  exec ettiği için K değişkeni her zaman /home/claude/rg olur; çıktısı oraya yazılır.)
+  1) `sozluk_kur.py --kararlar` (kararlar eklenmiş, 118.740 sözcük): ikili okuma 4.410 → 5.042 kelime grubu ama 45
+     tüzükteki eski düzeltmeler kayboldu (kararlarda 'Kibris', 'uyarinca', 'süretiyle', 'mahküm' gibi yazımlar ≥3 kez geçiyor,
+     "bozuk" sayılmıyor); birleştirme 22.903 → 21.993 ('yapabilir.' → 'yapabi li r.'); buna karşın ı yerine f çıkan yazı tipi hataları daha çok
+     düzeliyor ('Bakanlfğfmfzca' → 'Bakanlığımızca'), çünkü depodaki sözlükte 'amacfyla' gibi bozuk sözcükler var.
+  2) Yalnızca temiz yasalardan tazelenmiş sözlük (53.336): birleştirme 22.903 → 22.717; 206 birim/684 maddede değişiklik:
+     iyileşme ('üretildik leri' → 'üretildikleri', 'DÖŞEMECiLiği' → 'DÖŞEMECİLİĞİ') ve bozulma ('itibaren' →
+     'iti ba r en', 'Koruma' → 'Kor u ma', 'IgG' → 'IGG') birlikte. Önce onar.birlestir/_parca eşikleri sözlük
+     büyüklüğünden bağımsız hâle getirilmeli (ör. parça kararı için sıklık oranı), sonra yeniden ölçülmeli.
+- Derleme 7.684 kayıt (metinler yayındakiyle birebir aynı); kalite 11/11; arama 25/25, 10/10, 10/10, 42/42, 12/12;
+  mevzuat listesi 13/13; e2e 24; güvenlik 30/30; tanıtım 20/20.
+
 ## Haftalık güncelleme (zamanlanmış görev bunu uygular)
 Kullanıcının bilgisayarındaki tarayıcı gerekir (devlet siteleri bulut ortamını engelliyor). Adımlar:
 1. `bash asistan/kurulum.sh`. Son haftalık raporu oku: `sonuc/haftalik.md` (varsa).
@@ -114,7 +141,10 @@ Kullanıcının bilgisayarındaki tarayıcı gerekir (devlet siteleri bulut orta
 4. Yüksek Mahkeme listesi: iş akışı 3 (`liste`) GitHub API ile çalıştır; yeni karar/tüzük varsa raporla. Ayın ilk haftasında
    iş akışı 6 (değişen yasa denetimi) kendiliğinden çalışır; `sonuc/degisim-yasa.json`'daki değişenleri raporla.
 5. `python3 sd_temizle.py` → derleme → `test/veri_kalite.py` → testler (hepsi geçmeli).
-6. Commit (main + yayin `veri/`), sayfayı yayınla (değişen dosyalar, 45 MB'lık parçalar), `sonuc/haftalik.md`'ye kısa Türkçe rapor yaz.
+6. Commit (main + yayin `veri/`; `uygulama/` değiştiyse yayin dalının kökündeki sunucu dosyalarına da kopyala — Render
+   yayin dalından çalışır), sayfayı yayınla (değişen dosyalar, 45 MB'lık parçalar), `sonuc/haftalik.md`'ye kısa Türkçe rapor yaz.
+   Sayfadaki "Güncel: …" tarihi artık elle değiştirilmez: build_app.py, `raw/resmi_gazete/rg_liste.json`'daki son sayı ile
+   `liste/mahkemeler-*.json`'ın alındığı günden üretir (bu yüzden rg_liste.json'daki yeni sayılar depoya da yazılmalı).
 7. Kullanıcıya sade Türkçe kısa özet: kaç yeni metin, hangi yasalar değişti, sorun var mı.
 
 ## Sıradaki işler (öncelik sırasıyla)
