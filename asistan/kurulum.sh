@@ -10,7 +10,12 @@ mkdir -p /home/claude/rg
 tar xzf "$REPO/asistan/raw/resmi_gazete/rg_ham.tgz" -C /home/claude/rg
 # ek Gazete metinleri (bilgisayardaki oturumdan, rg_ek1_OKU.md); güncel ocr_yapildi.json da içinde
 for e in "$REPO"/asistan/raw/resmi_gazete/rg_ek*.tgz; do [ -f "$e" ] && tar xzf "$e" -C /home/claude/rg; done
-cp -n "$REPO"/asistan/raw/resmi_gazete/*.json /home/claude/rg/ 2>/dev/null || true
+# depodaki .json'lar (ör. her hafta güncellenen rg_liste.json) arşivden çıkan eski tarihli kopyaların yerine geçer;
+# yerelde depodakinden sonra değiştirilmiş bir dosya korunur
+for j in "$REPO"/asistan/raw/resmi_gazete/*.json; do
+  h=/home/claude/rg/$(basename "$j")
+  if [ ! -e "$h" ] || [ "$j" -nt "$h" ]; then cp "$j" "$h"; fi
+done
 # yayın verisi (app/pub) yayin dalında; derleme betikleri app/pub'ı yeniden üretir
 mkdir -p "$REPO/asistan/app/pub"
 git -C "$REPO" fetch -q origin yayin:refs/remotes/origin/yayin 2>/dev/null || true

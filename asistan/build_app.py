@@ -8,6 +8,29 @@ html=open('app/template.html').read()
 _td=json.load(open('app/pub/tum-dizin.json'))['yasalar']
 _say=lambda n: f'{n:,}'.replace(',', '.')
 html=html.replace('__TUMYASA__',_say(sum(1 for y in _td if not y.get('tz') and not y.get('yg') and y.get('p')!='AY'))).replace('__TUMTUZUK__',_say(sum(1 for y in _td if y.get('tz') and y.get('rt') in (None,'tuzuk')))).replace('__TUMIKINCIL__',_say(sum(1 for y in _td if y.get('yg') or y.get('rt') in ('emirname','yonetmelik','teblig'))))
+import os, re, datetime
+# "Güncel" tarihi: Resmî Gazete dizinindeki son sayının tarihi ile Yüksek Mahkeme yasa/tüzük/karar listelerinin
+# alındığı günlerden en eskisi (her kaynak en az bu tarihe kadar kontrol edildi; KKTC saati UTC+3)
+AYLAR = 'Ocak Şubat Mart Nisan Mayıs Haziran Temmuz Ağustos Eylül Ekim Kasım Aralık'.split()
+def gazete_tarihi(t, yil):
+    """Basımevi dizinindeki tarih yazımları düzensiz: '31.10.2026', '9.10.2026', '17/06/2026', '22..04.2026', '12.102026'."""
+    m = re.fullmatch(r'\s*(\d{1,2})\D+(\d{1,2})\D*(\d{4})\s*', t or '')
+    if not m or int(m[3]) != yil: return None
+    try: return datetime.date(int(m[3]), int(m[2]), int(m[1]))
+    except ValueError: return None
+def guncel_tarih():
+    burasi = os.path.dirname(os.path.realpath(__file__))
+    rl = json.load(open(os.path.join(burasi, 'raw/resmi_gazete/rg_liste.json'), encoding='utf-8'))
+    yil = max(int(y) for y in rl if rl[y])
+    tarihler = [max(filter(None, (gazete_tarihi(s.get('t'), yil) for s in rl[str(yil)])))]
+    for t in ('yasa', 'tuzuk', 'karar'):
+        a = json.load(open(os.path.join(os.path.dirname(burasi), 'liste', f'mahkemeler-{t}.json'), encoding='utf-8'))['alindi']
+        a = datetime.datetime.fromisoformat(a.replace('Z', '+00:00'))
+        tarihler.append((a.astimezone(datetime.timezone(datetime.timedelta(hours=3))) if a.tzinfo else a).date())
+    g = min(tarihler)
+    return f'{g.day} {AYLAR[g.month - 1]} {g.year}'
+GUNCEL = guncel_tarih()
+html=html.replace('__GUNCEL__',GUNCEL)
 html=html.replace('__YASA__',str(1+len(mv['yasalar']))).replace('__MADDE__',str(len(d['articles'])+sum(len(y['maddeler']) for y in mv['yasalar']))).replace('__KARAR__',f"{len(kar['kararlar']):,}".replace(',', '.'))
 import os
 os.makedirs('app/pub',exist_ok=True)
@@ -35,4 +58,4 @@ meta={'alindi':kar['alindi'],'baslangic':kar['baslangic'],'alanlar':alanlar}
 for k,v in [('__DATA__',d),('__EXAMPLE__',ex),('__CATALOG__',cat),('__KARARLAR__',meta),('__MEVZUAT__',mv),('__ARACLAR__',json.load(open('araclar.json')))]: html=html.replace(k,enc(v))
 print(alanlar)
 open('app/pub/kira_asistani.html','w').write(html)
-print(len(html)/1e6,'MB', 'madde:', len(d['articles'])+sum(len(y['maddeler']) for y in mv['yasalar']))
+print('güncel:', GUNCEL); print(len(html)/1e6,'MB', 'madde:', len(d['articles'])+sum(len(y['maddeler']) for y in mv['yasalar']))
