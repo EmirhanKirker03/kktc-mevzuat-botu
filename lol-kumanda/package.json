@@ -1,0 +1,29 @@
+{
+  "name": "lol-kumanda",
+  "version": "1.0.0",
+  "private": true,
+  "description": "League of Legends: maçı telefondan kabul et, şampiyon seçimini ve banını telefondan yap (yerel istemci API'si üzerinden).",
+  "main": "src/main.js",
+  "bin": {
+    "lol-kumanda": "src/main.js"
+  },
+  "scripts": {
+    "start": "node src/main.js",
+    "demo": "node src/main.js --demo",
+    "test": "node --test",
+    "test:e2e": "node scripts/e2e-browser.js",
+    "build:exe": "node scripts/build-exe.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "qrcode-terminal": "0.12.0",
+    "ws": "8.22.0"
+  },
+  "devDependencies": {
+    "esbuild": "0.28.2",
+    "postject": "1.0.0-alpha.6"
+  },
+  "license": "MIT"
+}

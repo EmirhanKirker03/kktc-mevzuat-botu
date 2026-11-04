@@ -1,0 +1,240 @@
+<!doctype html>
+<html lang="tr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#010a13">
+  <meta name="color-scheme" content="dark">
+  <meta name="referrer" content="no-referrer">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="LoL Kumanda">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="icons/icon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+  <link rel="stylesheet" href="style.css">
+  <title>LoL Kumanda</title>
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">
+      <svg class="brand-mark" viewBox="0 0 32 32" aria-hidden="true"><path d="M16 2.5 28 9.25v13.5L16 29.5 4 22.75V9.25Z" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linejoin="round"/><path d="m10.5 16.4 3.7 3.7 7.4-8" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/></svg>
+      <span class="brand-name">LoL Kumanda</span>
+    </div>
+    <div class="conn" id="conn" title="Bağlantı durumu">
+      <span class="conn-dot" id="conn-dot"></span>
+      <span class="conn-text" id="conn-text">Bağlanıyor…</span>
+    </div>
+    <button class="icon-btn" id="btn-settings" type="button" aria-label="Ayarlar">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 15.5a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7Z" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M19.4 13.5a7.7 7.7 0 0 0 0-3l2-1.6-2-3.4-2.4 1a7.6 7.6 0 0 0-2.6-1.5L14 2.5h-4l-.4 2.5A7.6 7.6 0 0 0 7 6.5l-2.4-1-2 3.4 2 1.6a7.7 7.7 0 0 0 0 3l-2 1.6 2 3.4 2.4-1a7.6 7.6 0 0 0 2.6 1.5l.4 2.5h4l.4-2.5a7.6 7.6 0 0 0 2.6-1.5l2.4 1 2-3.4Z" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/></svg>
+    </button>
+  </header>
+
+  <div class="banner" id="conn-banner" role="status" hidden>Bilgisayara ulaşılamıyor — yeniden bağlanılıyor…</div>
+
+  <main id="main">
+    <!-- Erişim anahtarı -->
+    <section class="screen center" id="screen-auth" hidden>
+      <div class="card narrow">
+        <div class="hero-icon" aria-hidden="true">🔑</div>
+        <h1 class="h1">Erişim anahtarı gerekli</h1>
+        <p class="muted">Bilgisayardaki LoL Kumanda penceresindeki QR kodu telefonunun kamerasıyla tara. Ya da orada yazan anahtarı gir:</p>
+        <form class="auth-form" id="auth-form" autocomplete="off">
+          <input class="input" id="auth-input" inputmode="text" autocapitalize="off" autocorrect="off" spellcheck="false" placeholder="abcd-efgh-jkmn" aria-label="Erişim anahtarı">
+          <button class="btn btn-gold" type="submit">Bağlan</button>
+        </form>
+        <p class="form-error" id="auth-error" hidden></p>
+      </div>
+    </section>
+
+    <!-- İstemci bekleniyor -->
+    <section class="screen center" id="screen-wait" hidden>
+      <div class="card narrow">
+        <div class="radar" aria-hidden="true"><span></span><span></span><svg viewBox="0 0 32 32"><path d="M16 2.5 28 9.25v13.5L16 29.5 4 22.75V9.25Z" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/></svg></div>
+        <h1 class="h1" id="wait-title">League istemcisi bekleniyor</h1>
+        <p class="muted" id="wait-text">Bilgisayarda League of Legends'ı aç. Açıldığında buraya kendiliğinden bağlanır.</p>
+      </div>
+    </section>
+
+    <!-- Ana ekran: lobi / sıra -->
+    <section class="screen" id="screen-home" hidden>
+      <div class="profile" id="profile">
+        <span class="avatar"><img id="profile-icon" alt=""><span class="ph" id="profile-ph"></span></span>
+        <div class="profile-text">
+          <div class="profile-name" id="profile-name">—</div>
+          <div class="muted small" id="profile-level"></div>
+        </div>
+      </div>
+      <div class="card home-card" id="home-card"></div>
+      <div class="card">
+        <label class="switch-row">
+          <span class="switch-text"><b>Otomatik kabul</b><small id="auto-home-sub">Maç bulununca kendiliğinden kabul et</small></span>
+          <input type="checkbox" class="switch" id="auto-home">
+        </label>
+      </div>
+      <div class="tips" id="tips">
+        <p><b>İpucu:</b> Bu sayfa açık ve ekran uyanıkken maç bulununca telefon çalar ve titrer. Telefonun cebindeyken haber almak için <button type="button" class="link" id="tip-telegram">Telegram bildirimini</button> aç.</p>
+      </div>
+    </section>
+
+    <!-- Maç bulundu -->
+    <section class="screen center" id="screen-ready" hidden>
+      <div class="ready" id="ready">
+        <div class="ready-queue" id="ready-queue"></div>
+        <h1 class="ready-title">Maç bulundu!</h1>
+        <div class="ring" aria-hidden="true">
+          <svg viewBox="0 0 120 120"><circle class="ring-bg" cx="60" cy="60" r="52"/><circle class="ring-fg" id="ready-ring" cx="60" cy="60" r="52"/></svg>
+          <div class="ring-text" id="ready-count">12</div>
+        </div>
+        <div class="ready-status" id="ready-status" role="status"></div>
+        <div class="ready-actions" id="ready-actions">
+          <button class="btn btn-accept" id="btn-accept" type="button">Kabul et</button>
+          <button class="btn btn-ghost btn-decline" id="btn-decline" type="button">Reddet</button>
+        </div>
+      </div>
+    </section>
+
+    <!-- Şampiyon seçimi -->
+    <section class="screen" id="screen-cs" hidden>
+      <div class="cs-head" id="cs-head">
+        <div class="cs-row">
+          <span class="cs-phase" id="cs-phase"></span>
+          <span class="cs-time" id="cs-time"></span>
+        </div>
+        <div class="bar"><div class="bar-fill" id="cs-bar"></div></div>
+        <div class="cs-turn" id="cs-turn"></div>
+      </div>
+
+      <div class="board">
+        <div class="team ally">
+          <div class="team-head"><span class="team-name">Takımın</span><div class="bans" id="bans-ally"></div></div>
+          <div class="slots" id="slots-ally"></div>
+        </div>
+        <div class="team enemy">
+          <div class="team-head"><span class="team-name">Rakip</span><div class="bans" id="bans-enemy"></div></div>
+          <div class="slots" id="slots-enemy"></div>
+        </div>
+      </div>
+
+      <div id="cs-requests"></div>
+
+      <div class="tabs" role="tablist">
+        <button class="tab" type="button" role="tab" data-tab="champs" id="tab-btn-champs">Şampiyonlar</button>
+        <button class="tab" type="button" role="tab" data-tab="loadout" id="tab-btn-loadout">Büyü ve rün</button>
+      </div>
+
+      <div id="tab-champs" role="tabpanel">
+        <div id="cs-mine"></div>
+        <div class="picker" id="picker">
+          <div class="search">
+            <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="6.5" fill="none" stroke="currentColor" stroke-width="2"/><path d="m16 16 4.5 4.5" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+            <input id="search" type="search" placeholder="Şampiyon ara (ör. kaisa, mf, j4)" autocomplete="off" autocapitalize="off" autocorrect="off" spellcheck="false" enterkeyhint="search" aria-label="Şampiyon ara">
+            <button class="search-clear" id="search-clear" type="button" aria-label="Aramayı temizle" hidden>×</button>
+          </div>
+          <div class="chips" id="chips"></div>
+          <div class="grid-label" id="fav-label" hidden>★ Favoriler</div>
+          <div class="grid" id="fav-grid"></div>
+          <div class="grid-label" id="all-label"></div>
+          <div class="grid" id="grid"></div>
+          <p class="empty" id="grid-empty" hidden></p>
+        </div>
+      </div>
+
+      <div id="tab-loadout" role="tabpanel" hidden>
+        <div class="card">
+          <h3 class="h3">Sihirdar büyüleri</h3>
+          <div class="spell-slots" id="spell-slots"></div>
+          <div class="spell-list" id="spell-list" hidden></div>
+        </div>
+        <div class="card">
+          <h3 class="h3">Rün sayfası</h3>
+          <div class="pages" id="rune-pages"></div>
+        </div>
+      </div>
+
+      <div class="confirm" id="confirm" hidden>
+        <span class="confirm-pic"><img id="confirm-img" alt=""><span class="ph" id="confirm-ph"></span></span>
+        <div class="confirm-info">
+          <div class="confirm-label" id="confirm-label"></div>
+          <div class="confirm-name" id="confirm-name"></div>
+        </div>
+        <button class="icon-btn star" id="btn-fav" type="button" aria-label="Favorilere ekle" aria-pressed="false">☆</button>
+        <button class="btn btn-lock" id="btn-lock" type="button">Kilitle</button>
+      </div>
+    </section>
+
+    <!-- Oyun -->
+    <section class="screen center" id="screen-game" hidden>
+      <div class="card narrow">
+        <div class="hero-icon" id="game-icon" aria-hidden="true">🎮</div>
+        <h1 class="h1" id="game-title">Oyunda</h1>
+        <p class="muted" id="game-text"></p>
+        <button class="btn btn-gold" id="btn-play-again" type="button" hidden>Tekrar oyna</button>
+      </div>
+    </section>
+  </main>
+
+  <div class="sheet-backdrop" id="sheet-backdrop" hidden></div>
+  <aside class="sheet" id="sheet" role="dialog" aria-modal="true" aria-labelledby="sheet-title" hidden>
+    <div class="sheet-handle" aria-hidden="true"></div>
+    <h2 class="h2" id="sheet-title">Ayarlar</h2>
+
+    <div class="setting">
+      <label class="switch-row">
+        <span class="switch-text"><b>Otomatik kabul</b><small>Maç bulununca kendiliğinden kabul et</small></span>
+        <input type="checkbox" class="switch" id="set-auto">
+      </label>
+      <div class="range-row">
+        <label for="set-delay">Gecikme</label>
+        <input type="range" id="set-delay" min="0" max="10" step="1">
+        <output id="set-delay-out" for="set-delay">2 sn</output>
+      </div>
+    </div>
+
+    <div class="setting">
+      <label class="switch-row">
+        <span class="switch-text"><b>Sesli uyarı</b><small>Maç bulununca ve sıran gelince çalar</small></span>
+        <input type="checkbox" class="switch" id="set-sound">
+      </label>
+      <label class="switch-row">
+        <span class="switch-text"><b>Titreşim</b><small>Android telefonlarda çalışır</small></span>
+        <input type="checkbox" class="switch" id="set-vibrate">
+      </label>
+      <button class="btn btn-small" id="btn-test-sound" type="button">Uyarıyı dene</button>
+    </div>
+
+    <div class="setting" id="tg-section">
+      <h3 class="h3">Telegram bildirimi</h3>
+      <p class="small muted">Telefon kilitliyken bile "Maç bulundu" bildirimi gelir; tek dokunuşla kabul edersin. Sıran gelince favori şampiyonların düğme olarak gelir.</p>
+      <div class="tg-status" id="tg-status"></div>
+      <form class="tg-form" id="tg-form" autocomplete="off">
+        <input class="input" id="tg-token" type="password" placeholder="Bot anahtarı (123456789:AA…)" autocapitalize="off" autocorrect="off" spellcheck="false" aria-label="Telegram bot anahtarı">
+        <button class="btn btn-small btn-gold" type="submit">Kaydet</button>
+      </form>
+      <div class="row-btns" id="tg-actions" hidden>
+        <button class="btn btn-small" id="btn-tg-test" type="button">Test mesajı</button>
+        <button class="btn btn-small btn-ghost" id="btn-tg-unpair" type="button">Eşleştirmeyi kaldır</button>
+        <button class="btn btn-small btn-ghost" id="btn-tg-off" type="button">Kapat</button>
+      </div>
+      <details class="howto">
+        <summary>Nasıl kurulur? (2 dakika)</summary>
+        <ol>
+          <li>Telegram'da <b>@BotFather</b>'ı aç, <code>/newbot</code> yaz; bota bir ad ve kullanıcı adı ver.</li>
+          <li>BotFather'ın verdiği anahtarı (<code>123456789:AA…</code>) kopyalayıp yukarıya yapıştır, <b>Kaydet</b>'e bas.</li>
+          <li>Burada çıkan <b>Telegram'da aç</b> bağlantısına dokun ve botta <b>Başlat</b>'a bas. Hepsi bu.</li>
+        </ol>
+      </details>
+    </div>
+
+    <div class="setting">
+      <button class="btn btn-ghost btn-block" id="btn-forget" type="button">Bu telefonun erişimini unut</button>
+    </div>
+    <p class="small muted center" id="app-version"></p>
+    <button class="btn btn-gold btn-block" id="btn-close-sheet" type="button">Kapat</button>
+  </aside>
+
+  <div class="toasts" id="toasts" aria-live="polite"></div>
+  <script src="app.js"></script>
+</body>
+</html>

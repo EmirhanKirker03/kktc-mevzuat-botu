@@ -1,0 +1,10 @@
+{
+  "port": 4747,
+  "token": "",
+  "requireToken": true,
+  "autoAccept": false,
+  "autoAcceptDelaySec": 2,
+  "leaguePath": "",
+  "favorites": { "pick": [], "ban": [] },
+  "telegram": { "token": "", "chatId": 0 }
+}

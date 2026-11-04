@@ -1,0 +1,83 @@
+name: LoL Kumanda
+on:
+  push:
+    paths:
+      - 'lol-kumanda/**'
+      - '.github/workflows/lol-kumanda.yml'
+  pull_request:
+    paths:
+      - 'lol-kumanda/**'
+      - '.github/workflows/lol-kumanda.yml'
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  test:
+    name: Test (${{ matrix.os }}, Node ${{ matrix.node }})
+    runs-on: ${{ matrix.os }}
+    timeout-minutes: 15
+    strategy:
+      fail-fast: false
+      matrix:
+        os: [ubuntu-latest, windows-latest]
+        node: [22]
+        include:
+          - os: ubuntu-latest
+            node: 20
+    defaults:
+      run:
+        working-directory: lol-kumanda
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: ${{ matrix.node }}
+          cache: npm
+          cache-dependency-path: lol-kumanda/package-lock.json
+      - run: npm ci --no-audit --no-fund
+      - run: npm test
+
+  exe:
+    name: Windows .exe
+    needs: test
+    runs-on: windows-latest
+    timeout-minutes: 20
+    defaults:
+      run:
+        working-directory: lol-kumanda
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: lol-kumanda/package-lock.json
+      - run: npm ci --no-audit --no-fund
+      - run: npm run build:exe
+      - name: Deneme çalıştırması (demo modu)
+        shell: pwsh
+        run: |
+          $env:LOLK_CONFIG = Join-Path $env:RUNNER_TEMP 'lolk-config.json'
+          $p = Start-Process -FilePath .\dist\lol-kumanda.exe -ArgumentList '--demo', '--no-open', '--port', '4799' -PassThru -NoNewWindow
+          try {
+            $connected = $false
+            for ($i = 0; $i -lt 40 -and -not $connected; $i++) {
+              Start-Sleep -Seconds 1
+              try {
+                $token = (Get-Content $env:LOLK_CONFIG -Raw | ConvertFrom-Json).token
+                $state = Invoke-RestMethod -Uri 'http://127.0.0.1:4799/api/state' -Headers @{ 'X-Lolk-Token' = $token }
+                $connected = $state.lcu.status -eq 'connected'
+              } catch {}
+            }
+            if (-not $connected) { throw 'exe yanıt vermedi ya da sahte istemciye bağlanamadı' }
+            $html = Invoke-WebRequest -Uri 'http://127.0.0.1:4799/' -UseBasicParsing
+            if ($html.Content -notmatch 'LoL Kumanda') { throw 'arayüz sunulmadı' }
+            Write-Host "Tamam: $($state.phase) / $($state.queueName)"
+          } finally {
+            Stop-Process -Id $p.Id -Force -ErrorAction SilentlyContinue
+          }
+      - uses: actions/upload-artifact@v4
+        with:
+          name: lol-kumanda-windows
+          path: lol-kumanda/dist/lol-kumanda.exe
+          retention-days: 30

@@ -32,3 +32,7 @@ Kurallar:
 | `veri/mahkemeler/*-kayit.json` | Her dosya: adres, tarih, SHA-256, durum |
 | `veri/metin/`, `veri/kayit.json` | Meclis arşivinden çıkarılan metinler ve kayıtları |
 | `scripts/` | Botun kodu |
+
+## Bu depodaki diğer proje
+
+- [`lol-kumanda/`](lol-kumanda/README.md): League of Legends'ta maçı telefondan kabul etme, şampiyon seçme ve banlama aracı. Mevzuat botundan bağımsızdır.
