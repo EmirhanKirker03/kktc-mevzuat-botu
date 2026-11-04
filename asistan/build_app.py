@@ -2,7 +2,10 @@ import json
 d=json.load(open('kira_denetim.json'))
 ex=open('/home/claude/test_kiti/1_test_dava_dosyasi.txt').read().replace(' [SAYFA','\n[SAYFA')
 ex+="\n[SAYFA 9] EK — DAVACI İLETİŞİM FORMU (UYDURMA) Ad soyad: Deniz Yalçınkaya. Kimlik no: 11111111110. Telefon: +90 533 000 00 00. E-posta: deniz.test@example.com. Adres: Örnek Sokak No: 1, Mağusa. Doğum tarihi: 1 Ocak 1990."
-cat=json.load(open('catalog/catalog.json')); kar=json.load(open('kararlar.json')); mv=json.load(open('mevzuat_dalga1.json')); mv['yasalar'].append(json.load(open('mevzuat_kat.json'))); mv['yasalar']+=json.load(open('mevzuat_dalga2.json'))['yasalar']
+cat=json.load(open('catalog/catalog.json'))
+# Meclis sitesinden gelen başlıklarda Windows-1252 tırnakları Latin-1 sanılmış (U+0091–U+0094, ör. 'Denizgezen\x92in'): ‘ ’ “ ” olarak gösterilir
+cat['tsv'] = cat['tsv'].translate({0x91: '‘', 0x92: '’', 0x93: '“', 0x94: '”'})
+kar=json.load(open('kararlar.json')); mv=json.load(open('mevzuat_dalga1.json')); mv['yasalar'].append(json.load(open('mevzuat_kat.json'))); mv['yasalar']+=json.load(open('mevzuat_dalga2.json'))['yasalar']
 enc=lambda o: json.dumps(o,ensure_ascii=False).replace('</','<\\/')
 html=open('app/template.html').read()
 _td=json.load(open('app/pub/tum-dizin.json'))['yasalar']
