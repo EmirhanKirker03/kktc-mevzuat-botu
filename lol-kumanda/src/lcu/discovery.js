@@ -95,15 +95,27 @@ function lockfileCandidates(extraDirs) {
 function runProcessScan() {
   return new Promise((resolve) => {
     if (process.platform === 'win32') {
-      // -EncodedCommand: tırnak kaçışı derdi olmadan PowerShell komutu
-      const script =
-        "Get-CimInstance -ClassName Win32_Process -Filter \"Name = 'LeagueClientUx.exe'\" | ForEach-Object { $_.CommandLine }";
-      const encoded = Buffer.from(script, 'utf16le').toString('base64');
+      // Önce hafif "tasklist" ile istemci açık mı bakılır; PowerShell yalnızca açıksa çalıştırılır
       execFile(
-        'powershell.exe',
-        ['-NoProfile', '-NonInteractive', '-ExecutionPolicy', 'Bypass', '-EncodedCommand', encoded],
-        { windowsHide: true, timeout: 15000, maxBuffer: 1024 * 1024 },
-        (err, stdout) => resolve(err ? '' : String(stdout)),
+        'tasklist.exe',
+        ['/FI', 'IMAGENAME eq LeagueClientUx.exe', '/NH'],
+        { windowsHide: true, timeout: 8000, maxBuffer: 256 * 1024 },
+        (listErr, list) => {
+          if (listErr || !/LeagueClientUx\.exe/i.test(String(list))) {
+            resolve('');
+            return;
+          }
+          // -EncodedCommand: tırnak kaçışı derdi olmadan PowerShell komutu
+          const script =
+            "Get-CimInstance -ClassName Win32_Process -Filter \"Name = 'LeagueClientUx.exe'\" | ForEach-Object { $_.CommandLine }";
+          const encoded = Buffer.from(script, 'utf16le').toString('base64');
+          execFile(
+            'powershell.exe',
+            ['-NoProfile', '-NonInteractive', '-ExecutionPolicy', 'Bypass', '-EncodedCommand', encoded],
+            { windowsHide: true, timeout: 15000, maxBuffer: 1024 * 1024 },
+            (err, stdout) => resolve(err ? '' : String(stdout)),
+          );
+        },
       );
     } else {
       execFile('ps', ['-A', '-ww', '-o', 'args='], { timeout: 8000, maxBuffer: 8 * 1024 * 1024 }, (err, stdout) =>
@@ -134,9 +146,10 @@ class Discovery {
     this.log = log;
     this.knownInstallDir = null;
     this.lastScanAt = 0;
-    this.scanIntervalMs = 10000;
+    this.scanIntervalMs = 15000;
     this.candidates = null;
     this.candidatesAt = 0;
+    this.installKnown = false;
   }
 
   // Eşzamansız okuma: bağlantısı kopmuş bir ağ sürücüsü sunucuyu kilitlemesin
@@ -159,13 +172,23 @@ class Discovery {
       if (this.knownInstallDir) extra.push(this.knownInstallDir);
       this.candidates = lockfileCandidates(extra);
       this.candidatesAt = now;
+      // Kurulum klasörü bilinen bir yerdeyse işlem taramasına gerek yok: istemci açılınca lockfile oraya yazılır
+      const dirs = await Promise.all(
+        this.candidates.map((f) =>
+          fs.promises
+            .stat(path.dirname(f))
+            .then((s) => s.isDirectory())
+            .catch(() => false),
+        ),
+      );
+      this.installKnown = dirs.some(Boolean);
     }
     for (const file of this.candidates) {
       const creds = await this.readLockfile(file);
       if (creds) return creds;
     }
 
-    if (!this.scanProcesses) return null;
+    if (!this.scanProcesses || this.installKnown) return null;
     if (Date.now() - this.lastScanAt < this.scanIntervalMs) return null;
     this.lastScanAt = Date.now();
     const out = await runProcessScan();

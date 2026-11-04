@@ -374,6 +374,9 @@ class GameState extends EventEmitter {
   /** Olay kaçırılırsa diye düzenli yoklama. */
   async poll() {
     if (!this.lcu.connected || this.polling) return;
+    // Maç oynanırken istemcide bir şey olmaz; yoklama seyrekleşir (olaylar yine anında gelir)
+    if (this.raw.phase === 'InProgress' && Date.now() - (this.lastPollAt || 0) < 10000) return;
+    this.lastPollAt = Date.now();
     this.polling = true;
     try {
       const phase = await this.lcu.get('/lol-gameflow/v1/gameflow-phase').catch(() => null);
