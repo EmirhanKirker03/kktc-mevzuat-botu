@@ -346,9 +346,35 @@ for y in yasalar:
     tf = collections.Counter(toks(' '.join(m['baslik'] + ' ' + m['metin'] for m in y['m'])))
     tfs.append(tf); df.update(tf.keys())
 N = len(yasalar)
+# yazım/yazı tanıma hataları (zaluy, o1umu, kpsam, ekn, 00tl) seyrek oldukları için tf-idf'te öne çıkıp 80 kökün bir kısmını
+# boşa harcar. Türkçe metinlerde yalnızca bilinen sözcük kökleri, yıl gibi kısa sayılar ve madde/emir numaraları (43b) alınır.
+# Bilinen kökler: temiz kaynak sözlüğü (onar_sozluk.json; üç harfliler en az 20 kez geçmeli) + en az üç Türkçe Yüksek Mahkeme
+# kararında geçen dört ve daha uzun harfli kökler. İngilizce fasıllara dokunulmaz. Metinlerin kendisi değişmez; yalnızca
+# arama anahtarları (kw).
+def _bilinen_kokler():
+    import glob
+    v = collections.Counter()
+    for x, n in onar.sozluk().items():
+        w = fold(x).strip()
+        if len(w) > 2 and ' ' not in w: v[w[:5]] += n
+    soz = {w for w, n in v.items() if len(w) > 3 or n >= 20}
+    dfk = collections.Counter()
+    for f in glob.glob(os.path.join(M, 'kararlar', '*.txt')):
+        t = open(f, encoding='utf-8', errors='replace').read()
+        o = ' ' + t[:20000].lower() + ' '
+        if o.count(' the ') + o.count(' of ') > 3 * (o.count(' ve ') + o.count(' bir ') + 1): continue  # İngilizce karar
+        dfk.update(set(toks(t)))
+    return soz | {w for w, c in dfk.items() if c >= 3 and len(w) > 3 and not re.search(r'\d', w)}
+SOZ_KOK = _bilinen_kokler()
+def gecerli_kok(w): return w in SOZ_KOK or (w.isdigit() and len(w) <= 4) or bool(re.fullmatch(r'\d{1,3}[a-h]', w))
+istat['arama anahtarı: bilinen kök'] = len(SOZ_KOK)
 dizin, paketler, paket, boy = [], [], {}, 0
 for y, tf in zip(yasalar, tfs):
-    top = sorted(tf, key=lambda w: -(1 + math.log(tf[w])) * math.log(N / df[w]))[:80]
+    adaylar = sorted(tf, key=lambda w: -(1 + math.log(tf[w])) * math.log(N / df[w]))
+    if SOZ_KOK and not y.get('en'):  # yasanın kendi adı ve madde başlıklarındaki kökler her zaman geçerli (ör. HMUT'ta 'form')
+        kendi = set(toks(y['a'] + ' ' + ' '.join(m['baslik'] for m in y['m'] if m['baslik'])))
+        adaylar = [w for w in adaylar if w in kendi or gecerli_kok(w)]
+    top = adaylar[:80]
     basliklar = ' '.join(m['baslik'] for m in y['m'] if m['baslik'])[:1500]
     if y['k'] == 'elle':
         dizin.append({x: y[x] for x in ('p', 'n', 'a', 'u', 'k', 'o', 'y', 'kd')} | {'mc': len(y['m']), 'b': -1, 'kw': ' '.join(top), 'bs': basliklar, 'elle': True}); continue
@@ -363,7 +389,9 @@ for f in os.listdir(os.path.join(D, 'app/pub')):
     if re.match(r'tum-\d+\.json$', f): os.remove(os.path.join(D, 'app/pub', f))
 for i, p in enumerate(paketler):
     json.dump(p, open(os.path.join(D, f'app/pub/tum-{i}.json'), 'w', encoding='utf-8'), ensure_ascii=False)
-json.dump({'alindi': '2026-10-09', 'kaynak': 'KKTC Yüksek Mahkeme mevzuat sistemi (mevzuat.mahkemeler.net)', 'yasalar': dizin},
+# alındı: Yüksek Mahkeme yasa listesinin en son alındığı gün (iş akışı 3/6 her çalıştığında güncellenir)
+ALINDI = oku(os.path.join(REPO, 'liste/mahkemeler-yasa.json')).get('alindi', '')[:10] or '2026-10-09'
+json.dump({'alindi': ALINDI, 'kaynak': 'KKTC Yüksek Mahkeme mevzuat sistemi (mevzuat.mahkemeler.net)', 'yasalar': dizin},
           open(os.path.join(D, 'app/pub/tum-dizin.json'), 'w', encoding='utf-8'), ensure_ascii=False)
 print('onarım:', dict(ONAR)); print(dict(istat), 'yasa:', len(yasalar), 'elle:', len(elle), 'paket:', len(paketler),
       'dizin MB:', round(os.path.getsize(os.path.join(D, 'app/pub/tum-dizin.json')) / 1e6, 2),
