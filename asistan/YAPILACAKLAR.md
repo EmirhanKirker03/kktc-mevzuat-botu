@@ -110,7 +110,9 @@ yeniden yazar; commit'ten önce `git checkout asistan/test/*.docx`.)
   metinler birebir aynı, arama testleri değişmedi. `alindi` artık liste dosyasından.
 - Mevzuat listesi araması: HMUT/HMUY/CMUY kısaltmaları, temel metin önceliği, "2/2016" (olmayan yasa) örneği düzeltildi;
   yeni test `mevzuat_liste_test.js` (eski 8/13 → 13/13).
-- **Sözlük (onar_sozluk.json) deneyleri — DEĞİŞTİRİLMEDİ**: kontrol çalıştırması (eski sözlük, IKILI=0 → rg_dogrula →
+- **Sözlük (onar_sozluk.json)**: yalnızca ı yerine f yazılmış 58 bozuk sözcük çıkarıldı ('amacfyla', 'hakkfnda', 'yapflan',
+  'fle'…; temiz metinlerde artık geçmiyorlar). Metinlerde değişiklik 0; ikili okumada 1 yeni doğru düzeltme (T4390 m.18
+  'fle' → 'ile'), kaybolan 0. Daha geniş sözlük değişiklikleri ölçüldü ve BENİMSENMEDİ: kontrol çalıştırması (eski sözlük, IKILI=0 → rg_dogrula →
   ikili_okuma) depodaki ikili_okuma.json'u birebir üretti, yani akış tekrarlanabilir. (Not: rg_dogrula.py, rg_bol.py'yi
   exec ettiği için K değişkeni her zaman /home/claude/rg olur; çıktısı oraya yazılır.)
   1) `sozluk_kur.py --kararlar` (kararlar eklenmiş, 118.740 sözcük): ikili okuma 4.410 → 5.042 kelime grubu ama 45

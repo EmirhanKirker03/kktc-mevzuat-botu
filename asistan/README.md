@@ -33,7 +33,7 @@ Kaynak PDF/Word dosyalarından gelen kodlama hataları derleme sırasında onar�
 - Kira (Denetim) Yasası el verisinde 7. madde (G) ve (I) bentlerindeki Word nesnesi artıkları, resmî birleştirilmiş metinle karşılaştırılarak çıkarıldı.
 - Symbol yazı tipi özel alan karakterleri (U+F0F5 = ı, U+F025 = %), görünmez karakterler (BOM, yumuşak tire).
 - Üçüncü yazı tipi hatası: küçük ş/ğ büyük, ı ise 'f' çıkmış ('AraŞtfrma' = 'Araştırma'); 'f'ler sözlükteki biçime göre tek tek seçilir.
-- Harf harf bölünmüş sözcükler ('yap ı lacak', 'oldu ğ unu'): yalnızca birleşik hâli sözlükte olan ve parçalarından biri tek başına sözcük olmayanlar birleştirilir. Sözlük (onar_sozluk.json) yalnızca temiz kaynaklardan kurulur: `python3 sozluk_kur.py app/pub`.
+- Harf harf bölünmüş sözcükler ('yap ı lacak', 'oldu ğ unu'): yalnızca birleşik hâli sözlükte olan ve parçalarından biri tek başına sözcük olmayanlar birleştirilir. Sözlük (onar_sozluk.json) yalnızca temiz kaynaklardan kurulur: `python3 sozluk_kur.py app/pub` (yeniden kurmak onarımı ve ikili okumayı değiştirir; önce betiğin başındaki uyarıyı okuyun).
 - Yazı tanımanın büyük harfli sözcükte küçük okuduğu harfler ('ECZANESi', 'ALlŞ', 'TURIzM'): büyük hâli sözlükte varsa düzeltilir.
 - Hâlâ anlamsız olan satırlar '[okunamayan kısım]' olur; bölümün tamamı okunamıyorsa baştaki okunur satırlar (Resmî Gazete başlığı gibi) korunup yerine not konur. Sayfada bu notlar soluk ve italik gösterilir.
 - Metni boş çıkan maddeler (madde numaraları kaynak PDF'de ayrı sütunda olduğu için metin sonraki maddeye toplanmış): metni taşıyan maddeyle birleştirilip '1–5' gibi aralık numarası ve açıklayıcı notla verilir.
