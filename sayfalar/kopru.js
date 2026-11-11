@@ -18,7 +18,9 @@
       body: JSON.stringify({ istem: typeof istem === 'string' ? istem : istem.map(m => m.content).join('\n\n') }), signal: opt && opt.signal })
       .catch(e => { throw (e && e.name === 'AbortError') ? hata('cancelled') : hata('upstream', 'Bağlantı sorunu'); });
     const j = await r.json().catch(() => ({}));
-    if (!r.ok) { if (r.status === 401) location.href = '/giris'; throw hata(j.kod || 'upstream', j.hata); }
+    if (!r.ok) { if (r.status === 401) location.href = '/giris';
+      // sunucunun kendi açıklaması (abonelik doldu, günlük sınır) sayfada olduğu gibi gösterilir
+      throw Object.assign(hata(j.kod || 'upstream', j.hata), (r.status === 403 || r.status === 429) && j.hata ? { goster: j.hata } : {}); }
     return j.metin || '';
   }
   const sample = async (istem, opt) => ({ text: await sor(istem, opt), truncated: false });
@@ -68,10 +70,25 @@
     const bitis = b.abonelik_bitis ? b.abonelik_bitis.split('-').reverse().join('.') : '-';
     kutu.innerHTML = '<b style="color:var(--side-ink);font-size:13px"></b><span></span><span></span><span style="display:flex;gap:10px;flex-wrap:wrap"></span>';
     kutu.children[0].textContent = b.ad + (b.buro ? ' · ' + b.buro : '');
-    kutu.children[1].textContent = b.rol === 'yonetici' ? 'Yönetici hesabı' : (b.abone ? 'Abonelik: ' + bitis + ' tarihine kadar' : 'Abonelik süresi doldu');
+    kutu.children[1].textContent = b.rol === 'yonetici' ? 'Yönetici hesabı' : (b.abone ? (b.deneme ? 'Deneme: ' : 'Abonelik: ') + bitis + ' tarihine kadar' : (b.deneme ? 'Deneme süresi doldu' : 'Abonelik süresi doldu'));
     kutu.children[2].textContent = 'Bugün ' + b.bugun_kullanim + ' / ' + b.gunluk_sinir + ' yapay zekâ isteği';
     if (b.gecici) { const u = document.createElement('div'); u.setAttribute('role', 'alert'); u.style.cssText = 'background:#fbf1dc;color:#5a3b00;padding:10px 16px;font-size:14px;text-align:center';
       u.innerHTML = 'Geçici şifreyle giriş yaptınız. <a href="/hesap?ilk=1" style="color:inherit;font-weight:600">Şifrenizi şimdi değiştirin</a>.'; document.body.prepend(u); }
+    // abonelik durumu şeridi: deneme sürüyor / abonelik bitmek üzere / süre doldu. Yönetici hesabında gösterilmez.
+    if (b.rol !== 'yonetici') {
+      const n = b.kalan_gun, ne = b.deneme ? 'Deneme süreniz' : 'Aboneliğiniz';
+      let metin = '', renk = '';
+      if (!b.abone) { metin = ne + ' doldu. Mevzuatı ve kararları okumaya devam edebilirsiniz; soru sormak, belge hazırlamak ve incelemek için aboneliğinizi başlatın.'; renk = 'background:#f8e4e4;color:#6b1d1d'; }
+      else if (b.deneme) { metin = n <= 0 ? 'Deneme sürenizin son günü.' : 'Deneme sürenizin bitmesine ' + n + ' gün kaldı.'; renk = 'background:#e3efec;color:#14302c'; }
+      else if (n !== null && n <= 7) { metin = n <= 0 ? 'Aboneliğiniz bugün bitiyor.' : 'Aboneliğinizin bitmesine ' + n + ' gün kaldı.'; renk = 'background:#fbf1dc;color:#5a3b00'; }
+      if (metin) {
+        const u = document.createElement('div'); u.id = 'abonelik-serit'; u.setAttribute('role', 'status'); u.style.cssText = renk + ';padding:9px 16px;font-size:14px;text-align:center;line-height:1.45';
+        const s1 = document.createElement('span'); s1.textContent = metin + ' '; u.append(s1);
+        const ek = [b.fiyat_metni, b.iletisim ? 'Abonelik için: ' + b.iletisim : (b.abone && !b.deneme ? '' : 'Abonelik için bizimle iletişime geçin.')].filter(Boolean).join(' · ');
+        if (ek) { const s2 = document.createElement('b'); s2.textContent = ek; u.append(s2); }
+        document.body.prepend(u);
+      }
+    }
     const linkler = kutu.children[3];
     const a = (metin, fn) => { const x = document.createElement('a'); x.href = '#'; x.textContent = metin; x.style.color = 'var(--side-ink)'; x.addEventListener('click', e => { e.preventDefault(); fn(); }); linkler.append(x); };
     if (b.rol === 'yonetici') a('Yönetim', () => location.href = '/yonetim');
@@ -88,6 +105,6 @@
       ek('Çıkış (' + b.ad + ')', cikis);
     }
     const ust = document.querySelector('.topbar span');
-    if (ust) ust.textContent = b.abone ? b.ad : 'abonelik süresi doldu';
+    if (ust) ust.textContent = b.abone ? b.ad : 'süre doldu';
   });
 })();

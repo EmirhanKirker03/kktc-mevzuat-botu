@@ -54,7 +54,7 @@ CREATE TABLE IF NOT EXISTS deneme_istek (id INTEGER PRIMARY KEY, zaman TEXT NOT 
 `);
 // sonradan eklenen sütunlar (eski veritabanlarında yoksa eklenir)
 for (const ek of ["ALTER TABLE kullanici ADD COLUMN surum INTEGER NOT NULL DEFAULT 0", "ALTER TABLE kullanici ADD COLUMN gecici INTEGER NOT NULL DEFAULT 0", "ALTER TABLE kullanim ADD COLUMN karakter INTEGER NOT NULL DEFAULT 0",
-  "ALTER TABLE kullanim ADD COLUMN giris_tok INTEGER NOT NULL DEFAULT 0", "ALTER TABLE kullanim ADD COLUMN cikis_tok INTEGER NOT NULL DEFAULT 0"]) {
+  "ALTER TABLE kullanici ADD COLUMN deneme INTEGER NOT NULL DEFAULT 0", "ALTER TABLE kullanim ADD COLUMN giris_tok INTEGER NOT NULL DEFAULT 0", "ALTER TABLE kullanim ADD COLUMN cikis_tok INTEGER NOT NULL DEFAULT 0"]) {
   try { db.exec(ek); } catch (_) { /* sütun zaten var */ }
 }
 const simdi = () => new Date().toISOString();
@@ -108,6 +108,7 @@ app.use((req, res, next) => {
 app.use(require('compression')()); // yasa/karar dosyaları ~4 kat küçülür: daha az bant genişliği, telefonda daha hızlı açılış
 app.use(express.json({ limit: '1.5mb' }));
 const escH = s => String(s == null ? '' : s).replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
+const BAS_EK = '<link rel="icon" href="/simge.svg" type="image/svg+xml"><link rel="apple-touch-icon" href="/apple-touch-icon.png"><link rel="manifest" href="/manifest.webmanifest"><meta name="theme-color" content="#14302c">';
 // tanıtım ve giriş sayfasındaki sayılar veriden hesaplanır (elle güncellenmez); aşağı yuvarlanır: "1.290'ı aşkın"
 let SAYILAR = null;
 function sayilar() {
@@ -127,7 +128,7 @@ function sayilar() {
 }
 const sayfa = ad => {
   const S = sayilar();
-  return fs.readFileSync(path.join(__dirname, 'sayfalar', ad), 'utf8').replace('/*__CSS__*/', fs.readFileSync(path.join(__dirname, 'sayfalar', 'ortak.css'), 'utf8'))
+  return fs.readFileSync(path.join(__dirname, 'sayfalar', ad), 'utf8').replace('<style>', BAS_EK + '<style>').replace('/*__CSS__*/', fs.readFileSync(path.join(__dirname, 'sayfalar', 'ortak.css'), 'utf8'))
     .replace(/\{\{(YASA|TUZUK|YGK|KARAR|GUNCEL)\}\}/g, (_, a) => escH(S[a]))
     .replace(/\{\{ILETISIM\}\}/g, escH(process.env.ILETISIM || '')).replace(/\{\{FIYAT_METNI\}\}/g, escH(process.env.FIYAT_METNI || '')).replace(/\{\{DENEME_GUN\}\}/g, String(DENEME_GUN));
 };
@@ -146,6 +147,15 @@ function denemeEkle(anahtar) {
 app.get('/giris', (req, res) => res.type('html').send(sayfa('giris.html')));
 app.get('/kosullar', (req, res) => res.type('html').send(sayfa('kosullar.html')));
 app.get('/tanitim', (req, res) => res.type('html').send(sayfa('tanitim.html')));
+// herkese açık küçük dosyalar: simge, telefonun ana ekranına ekleme tanımı, çalışıyor mu denetimi
+const SIMGE = { '/simge.svg': 'image/svg+xml', '/simge-192.png': 'image/png', '/simge-512.png': 'image/png', '/apple-touch-icon.png': 'image/png' };
+for (const [yol, tip] of Object.entries(SIMGE)) app.get(yol, (req, res) => res.type(tip).set('Cache-Control', 'public, max-age=604800').sendFile(path.join(__dirname, 'sayfalar', yol === '/apple-touch-icon.png' ? 'simge-192.png' : yol.slice(1))));
+app.get('/ekran-mevzuat.png', (req, res) => res.type('image/png').set('Cache-Control', 'public, max-age=86400').sendFile(path.join(__dirname, 'sayfalar', 'ekran-mevzuat.png')));
+app.get('/robots.txt', (req, res) => res.type('text/plain').send('User-agent: *\nAllow: /tanitim\nAllow: /kosullar\nDisallow: /api/\nDisallow: /yonetim\n'));
+app.get('/favicon.ico', (req, res) => res.redirect(301, '/simge.svg'));
+app.get('/manifest.webmanifest', (req, res) => res.type('application/manifest+json').json({ name: 'KKTC Hukuk Asistanı', short_name: 'Hukuk Asistanı', lang: 'tr', start_url: '/', display: 'standalone',
+  background_color: '#14302c', theme_color: '#14302c', icons: [{ src: '/simge-192.png', sizes: '192x192', type: 'image/png' }, { src: '/simge-512.png', sizes: '512x512', type: 'image/png' }, { src: '/simge.svg', sizes: 'any', type: 'image/svg+xml' }] }));
+app.get('/saglik', (req, res) => { let n = -1; try { n = db.prepare('SELECT COUNT(*) AS n FROM kullanici').get().n; } catch (_) { /* veritabanı okunamıyor */ } res.status(n >= 0 ? 200 : 500).json({ ok: n >= 0, veri: sayilar().GUNCEL }); });
 // deneme isteği: herkese açık form. Aynı IP'den 15 dakikada en çok 5 istek; bekleyen istek sayısı 500'ü geçemez (doldurma saldırısına karşı).
 app.post('/api/deneme-istek', (req, res) => {
   const b = req.body || {}, kirp = (v, n) => String(v || '').replace(/[\u0000-\u001f\u007f]/g, ' ').trim().slice(0, n);
@@ -196,19 +206,20 @@ app.use(girisGerekli);
 app.get('/api/ben', (req, res) => {
   const k = req.k, u = db.prepare('SELECT sayi, karakter FROM kullanim WHERE kullanici_id=? AND gun=?').get(k.id, bugun());
   res.json({ id: String(k.id), ad: k.ad, eposta: k.eposta, buro: k.buro, rol: k.rol, abonelik_bitis: k.abonelik_bitis, abone: abone(k), gecici: !!k.gecici,
+    deneme: !!k.deneme, kalan_gun: k.abonelik_bitis ? Math.round((Date.parse(k.abonelik_bitis) - Date.parse(bugun())) / 864e5) : null, iletisim: process.env.ILETISIM || '', fiyat_metni: process.env.FIYAT_METNI || '',
     bugun_kullanim: u ? u.sayi : 0, gunluk_sinir: GUNLUK, bugun_karakter: u ? u.karakter : 0, gunluk_karakter: GUNLUK_KAR });
 });
 
 // yapay zekâ: sayfanın hazırladığı istemi Claude'a iletir. İçerik kaydedilmez.
 app.post('/api/sor', async (req, res) => {
   const k = req.k;
-  if (!abone(k)) return res.status(403).json({ hata: 'Aboneliğiniz sona ermiş. Yenilemek için bizimle iletişime geçin.', kod: 'not_granted' });
+  if (!abone(k)) return res.status(403).json({ hata: (k.deneme ? 'Deneme süreniz doldu.' : 'Aboneliğiniz sona ermiş.') + ' Devam etmek için ' + (process.env.ILETISIM ? 'bize ulaşın: ' + process.env.ILETISIM + '.' : 'bizimle iletişime geçin.'), kod: 'not_granted' });
   if (!API_KEY) return res.status(503).json({ hata: 'Yapay zekâ henüz yapılandırılmadı.', kod: 'sampling_disabled' });
   const istem = req.body && req.body.istem;
   if (typeof istem !== 'string' || istem.length < 10) return res.status(400).json({ hata: 'Geçersiz istek.' });
   if (istem.length > ISTEM_SINIR) return res.status(413).json({ hata: 'Metin çok uzun.', kod: 'prompt_too_large' });
   const u = db.prepare('SELECT sayi, karakter FROM kullanim WHERE kullanici_id=? AND gun=?').get(k.id, bugun());
-  if (k.rol !== 'yonetici' && u && u.sayi >= GUNLUK) return res.status(429).json({ hata: 'Günlük kullanım sınırına ulaştınız.', kod: 'rate_limited' });
+  if (k.rol !== 'yonetici' && u && u.sayi >= GUNLUK) return res.status(429).json({ hata: 'Günlük kullanım sınırına ulaştınız. Yarın yeniden kullanabilirsiniz; mevzuat ve kararları okumaya devam edebilirsiniz.', kod: 'rate_limited' });
   if (k.rol !== 'yonetici' && u && u.karakter + istem.length > GUNLUK_KAR) return res.status(429).json({ hata: 'Günlük metin sınırına ulaştınız (çok uzun belgeler). Yarın tekrar deneyin.', kod: 'rate_limited' });
   db.prepare('INSERT INTO kullanim (kullanici_id, gun, sayi, karakter) VALUES (?,?,1,?) ON CONFLICT(kullanici_id, gun) DO UPDATE SET sayi=sayi+1, karakter=karakter+excluded.karakter').run(k.id, bugun(), istem.length);
   const ac = new AbortController(); res.on('close', () => { if (!res.writableEnded) ac.abort(); });
@@ -261,7 +272,7 @@ function yonetici(req, res, next) { if (req.k.rol !== 'yonetici') return res.sta
 app.get('/hesap', (req, res) => res.type('html').send(sayfa('hesap.html')));
 app.get('/yonetim', yonetici, (req, res) => res.type('html').send(sayfa('yonetim.html')));
 app.get('/api/yonetim/kullanicilar', yonetici, (req, res) => {
-  const rows = db.prepare(`SELECT k.id, k.eposta, k.ad, k.buro, k.rol, k.abonelik_bitis, k.aktif, k.olusturma,
+  const rows = db.prepare(`SELECT k.id, k.eposta, k.ad, k.buro, k.rol, k.abonelik_bitis, k.aktif, k.olusturma, k.deneme,
     (SELECT COALESCE(SUM(sayi),0) FROM kullanim WHERE kullanici_id=k.id AND gun>=date('now','-30 day')) AS son30,
     (SELECT COALESCE(SUM(giris_tok),0) FROM kullanim WHERE kullanici_id=k.id AND gun>=date('now','-30 day')) AS giris30,
     (SELECT COALESCE(SUM(cikis_tok),0) FROM kullanim WHERE kullanici_id=k.id AND gun>=date('now','-30 day')) AS cikis30,
@@ -284,10 +295,28 @@ app.post('/api/yonetim/guncelle', yonetici, (req, res) => {
   const id = Number(req.body.id), k = db.prepare('SELECT * FROM kullanici WHERE id=?').get(id);
   if (!k) return res.status(404).json({ hata: 'Kullanıcı yok.' });
   if (req.body.abonelik_bitis && /^\d{4}-\d{2}-\d{2}$/.test(req.body.abonelik_bitis)) db.prepare('UPDATE kullanici SET abonelik_bitis=? WHERE id=?').run(req.body.abonelik_bitis, id);
+  // ödeme alındı: süreyi N ay uzat (süresi dolmuşsa bugünden, dolmamışsa bitiş gününden başlar) ve hesabı denemeden aboneliğe çevir
+  const ay = Number(req.body.uzat_ay);
+  if ([1, 3, 6, 12].includes(ay)) {
+    const bas = new Date(Math.max(Date.parse(bugun()), Date.parse(k.abonelik_bitis || bugun()))), g = bas.getUTCDate();
+    bas.setUTCDate(1); bas.setUTCMonth(bas.getUTCMonth() + ay); bas.setUTCDate(Math.min(g, new Date(Date.UTC(bas.getUTCFullYear(), bas.getUTCMonth() + 1, 0)).getUTCDate()));
+    db.prepare('UPDATE kullanici SET abonelik_bitis=?, deneme=0 WHERE id=?').run(bas.toISOString().slice(0, 10), id);
+  }
+  if (req.body.deneme !== undefined) db.prepare('UPDATE kullanici SET deneme=? WHERE id=?').run(req.body.deneme ? 1 : 0, id);
   if (req.body.aktif !== undefined && k.rol !== 'yonetici') db.prepare('UPDATE kullanici SET aktif=?, surum=surum+1 WHERE id=?').run(req.body.aktif ? 1 : 0, id);
   let gecici;
   if (req.body.sifre_sifirla) { gecici = crypto.randomBytes(9).toString('base64url'); db.prepare('UPDATE kullanici SET sifre=?, surum=surum+1, gecici=1 WHERE id=?').run(bcrypt.hashSync(gecici, 12), id); }
   res.json({ ok: true, gecici_sifre: gecici });
+});
+
+// veritabanı yedeği: hesaplar, abonelikler, deneme istekleri ve incelemeler tek dosyada (şifreler yalnızca özet olarak durur).
+// Tutarlı bir kopya alınır (better-sqlite3 backup), indirildikten sonra sunucudan silinir.
+app.get('/api/yonetim/yedek', yonetici, async (req, res) => {
+  const gecici = path.join(path.dirname(DB_YOLU), 'yedek-' + crypto.randomBytes(6).toString('hex') + '.db');
+  try {
+    await db.backup(gecici);
+    res.download(gecici, 'hukuk-asistani-yedek-' + bugun() + '.db', () => fs.unlink(gecici, () => {}));
+  } catch (e) { fs.unlink(gecici, () => {}); res.status(500).json({ hata: 'Yedek alınamadı.' }); }
 });
 
 // deneme istekleri: listele, tek tıkla deneme hesabı aç, sil
@@ -300,7 +329,7 @@ app.post('/api/yonetim/istek', yonetici, (req, res) => {
   if (db.prepare('SELECT 1 FROM kullanici WHERE eposta=?').get(i.eposta)) { db.prepare("UPDATE deneme_istek SET durum='kayitli' WHERE id=?").run(id); return res.status(400).json({ hata: 'Bu e-posta zaten kayıtlı; Hesaplar tablosundan süresini uzatabilirsiniz.' }); }
   const gun = Math.max(1, Math.min(60, Number(req.body.gun) || DENEME_GUN));
   const bitis = new Date(Date.now() + gun * 864e5).toISOString().slice(0, 10), gecici = crypto.randomBytes(9).toString('base64url');
-  db.prepare('INSERT INTO kullanici (eposta, ad, buro, sifre, abonelik_bitis, olusturma, gecici) VALUES (?,?,?,?,?,?,1)').run(i.eposta, i.ad, i.buro || '', bcrypt.hashSync(gecici, 12), bitis, simdi());
+  db.prepare('INSERT INTO kullanici (eposta, ad, buro, sifre, abonelik_bitis, olusturma, gecici, deneme) VALUES (?,?,?,?,?,?,1,1)').run(i.eposta, i.ad, i.buro || '', bcrypt.hashSync(gecici, 12), bitis, simdi());
   db.prepare("UPDATE deneme_istek SET durum='acildi' WHERE id=?").run(id);
   res.json({ ok: true, gecici_sifre: gecici, abonelik_bitis: bitis, eposta: i.eposta, ad: i.ad });
 });
@@ -311,7 +340,7 @@ function anaSayfa() {
   if (ANA && !process.env.GELISTIRME) return ANA;
   const html = fs.readFileSync(path.join(VERI, 'kira_asistani.html'), 'utf8');
   const bas = '<!doctype html><html lang="tr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><meta name="robots" content="noindex">' +
-    '<style>:root{color-scheme:light dark}body{margin:0}img{max-width:100%}[hidden]{display:none!important}</style><script src="/kopru.js"></script></head><body>';
+    BAS_EK + '<title>KKTC Hukuk Asistanı</title><style>:root{color-scheme:light dark}body{margin:0}img{max-width:100%}[hidden]{display:none!important}</style><script src="/kopru.js"></script></head><body>';
   ANA = bas + html + '</body></html>';
   return ANA;
 }
