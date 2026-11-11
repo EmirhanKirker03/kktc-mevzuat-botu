@@ -27,6 +27,23 @@ Yapay zekâ cevapları sizin Claude API anahtarınızla üretilir; avukatların 
 - İsteğe bağlı ayarlar (Render → Environment): `ILETISIM` (tanıtımda görünen telefon/e-posta), `FIYAT_METNI` (tanıtımda görünen fiyat cümlesi),
   `DENEME_GUN` (deneme süresi, varsayılan 7).
 
+## Denemeden aboneliğe
+
+- Deneme hesabıyla giren avukat sayfanın üstünde kaç günü kaldığını ve iletişim bilginizi görür. Süre dolunca mevzuatı okumaya devam eder,
+  yapay zekâ kapanır ve ekranda "aboneliğinizi başlatın" yazısı çıkar.
+- Ödeme alınca Hesaplar tablosunda **+1 ay** ya da **+1 yıl** düğmesine basın: süre uzar, hesap "abone" olur.
+- Aboneliği 7 gün içinde bitecek avukatlar tabloda sarı görünür ve kendi ekranlarında da uyarı çıkar; bitmeden arayın.
+- Hesap açınca ya da şifre sıfırlayınca avukata gönderilecek mesaj hazır gelir: **Mesajı kopyala** → WhatsApp'a yapıştırın.
+
+## Yedek
+
+- Yönetim sayfasındaki **Yedek indir** bağlantısı bütün hesapları, abonelikleri ve istekleri tek dosya olarak indirir.
+  **Haftada bir indirip güvenli bir yerde saklayın**; sunucuya bir şey olursa müşteri listeniz bu dosyadadır.
+
+## Telefonda uygulama gibi
+
+- Avukat siteyi telefonunda açıp tarayıcı menüsünden "Ana ekrana ekle" derse uygulama simgesiyle açılır.
+
 ## Maliyet takibi
 
 - Her yapay zekâ isteğinin büyüklüğü (belirteç sayısı) kullanıcı başına tutulur; içerik tutulmaz.

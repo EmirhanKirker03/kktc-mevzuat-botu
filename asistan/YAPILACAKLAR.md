@@ -140,6 +140,13 @@ yeniden yazar; commit'ten önce `git checkout asistan/test/*.docx`.)
   giriş/çıkış belirteci; `FIYAT_GIRIS`/`FIYAT_CIKIS` girilirse dolar), "Son kullanım" sütunu. Yeni ortam değişkenleri:
   `ILETISIM`, `FIYAT_METNI`, `DENEME_GUN`, `FIYAT_GIRIS`, `FIYAT_CIKIS` (KURULUM.md). Yeni test: `test/satis_test.js` (34/34).
   Giriş sayfasındaki sayılar artık `{{YASA}}` gibi yer tutuculardan dolar; elle güncellenmez.
+- 12 Kasım (2. tur, arayüz/ürün denetimi): bütün ekranlar masaüstü+telefonda ekran görüntüsüyle gezildi. Eklenenler: `kullanici.deneme`
+  bayrağı; uygulamada abonelik şeridi (deneme kaç gün kaldı / abonelik 7 gün içinde bitiyor / süre doldu + ILETISIM, FIYAT_METNI);
+  süre dolunca "Bu sayfanın Claude kullanmasına izin verilmedi" yerine sunucunun kendi açıklaması (kopru.js `goster` alanı; template'te
+  üç hata eşlemesi buna bakar — `||` ile `??` karışınca sözdizimi hatası olur, parantezli yazıldı); yönetimde özet kutuları, durum
+  etiketleri, **+1 ay / +1 yıl** (uzat_ay: 1,3,6,12; deneme=0), hazır mesaj kopyalama, **Yedek indir** (`/api/yonetim/yedek`);
+  simge + manifest (ana ekrana ekleme), `/saglik`, `/robots.txt`, tanıtımda gerçek ekran görüntüsü (`sayfalar/ekran-mevzuat.png`;
+  arayüz değişirse `test` ile yeniden alınmalı). satis_test.js 55/55.
 - Satış planı belgesi kullanıcının Claude belgelerinde: "KKTC Hukuk Asistanı — Satış Planı".
 - Haftalık görev 9 Kasım'da çalışmadı (bilgisayar kapalıydı); 11 Kasım'da elle yapıldı.
 

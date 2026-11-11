@@ -49,6 +49,29 @@ const giris=async(e,s,ip)=>istek('/api/giris',{yontem:'POST',govde:{eposta:e,sif
   r=await istek('/api/yonetim/kullanicilar',{cerez:yon}); const ku=(r.j||[]).find(k=>k.eposta===e1);
   ok('belirteç sayıları ve maliyet kaydedildi (giriş '+(ku&&ku.giris30)+', çıkış '+(ku&&ku.cikis30)+', $'+(ku&&ku.maliyet30)+')', ku && ku.giris30>0 && ku.cikis30===200 && ku.maliyet30>0 && ku.son30===1);
   ok('son kullanım günü doluyor', ku && ku.son_kullanim===new Date().toISOString().slice(0,10));
+  // deneme → abonelik
+  r=await istek('/api/ben',{cerez:av}); ok('deneme hesabı işaretli, kalan gün 7', r.j.deneme===true && r.j.kalan_gun===7 && r.j.iletisim==='0533 000 00 00');
+  ok('yönetim listesinde deneme bayrağı', ku && ku.deneme===1);
+  r=await istek('/api/yonetim/guncelle',{yontem:'POST',govde:{id:ku.id,uzat_ay:1},cerez:av}); ok('avukat süre uzatamaz (403)', r.s===403);
+  r=await istek('/api/yonetim/guncelle',{yontem:'POST',govde:{id:ku.id,uzat_ay:5},cerez:yon}); let b1=(await istek('/api/ben',{cerez:av})).j; ok('geçersiz ay sayısı yok sayılır', b1.abonelik_bitis===beklenen && b1.deneme===true);
+  r=await istek('/api/yonetim/guncelle',{yontem:'POST',govde:{id:ku.id,uzat_ay:1},cerez:yon}); b1=(await istek('/api/ben',{cerez:av})).j;
+  const d0=new Date(beklenen+'T00:00:00Z'), g0=d0.getUTCDate(); d0.setUTCDate(1); d0.setUTCMonth(d0.getUTCMonth()+1); d0.setUTCDate(Math.min(g0,new Date(Date.UTC(d0.getUTCFullYear(),d0.getUTCMonth()+1,0)).getUTCDate()));
+  ok('+1 ay: bitiş bir ay ileri ('+b1.abonelik_bitis+') ve hesap artık ücretli abone', b1.abonelik_bitis===d0.toISOString().slice(0,10) && b1.deneme===false);
+  // süresi dolan deneme: mesaj ve okuma
+  r=await istek('/api/yonetim/guncelle',{yontem:'POST',govde:{id:ku.id,abonelik_bitis:'2020-01-01',deneme:true},cerez:yon});
+  r=await istek('/api/sor',{yontem:'POST',govde:{istem:'deneme sorusu uzunca metin'},cerez:av}); ok('süresi dolan deneme yapay zekâyı kullanamaz; mesajda iletişim var', r.s===403 && /Deneme süreniz doldu/.test(r.j.hata) && r.j.hata.includes('0533 000 00 00'));
+  r=await istek('/tum-dizin.json',{cerez:av}); ok('süresi dolan hesap mevzuatı okumaya devam eder', r.s===200);
+  // yedek
+  r=await istek('/api/yonetim/yedek',{cerez:av}); ok('avukat yedek indiremez (403)', r.s===403);
+  { const y=await fetch(U+'/api/yonetim/yedek',{headers:{cookie:yon}}); const buf=Buffer.from(await y.arrayBuffer());
+    ok('yönetici veritabanı yedeğini indirir (SQLite, '+buf.length+' bayt)', y.status===200 && buf.slice(0,15).toString()==='SQLite format 3' && /attachment/.test(y.headers.get('content-disposition')||'')); }
+  // herkese açık küçük dosyalar
+  for (const [yol,tip] of [['/simge.svg','image/svg'],['/simge-192.png','image/png'],['/simge-512.png','image/png'],['/apple-touch-icon.png','image/png'],['/ekran-mevzuat.png','image/png'],['/manifest.webmanifest','manifest'],['/robots.txt','text/plain'],['/saglik','json']]) {
+    const y=await fetch(U+yol,{redirect:'manual'}); ok('girişsiz '+yol+' açılır', y.status===200 && (y.headers.get('content-type')||'').includes(tip)); }
+  r=await istek('/manifest.webmanifest'); ok('manifest: ad ve simgeler', r.j && r.j.short_name && r.j.icons.length>=2);
+  r=await istek('/saglik'); ok('sağlık denetimi veri tarihini verir, kişisel bilgi vermez', r.j.ok===true && !!r.j.veri && Object.keys(r.j).length===2);
+  r=await istek('/tanitim'); ok('tanıtımda simge, manifest ve ekran görüntüsü', r.t.includes('rel="icon"') && r.t.includes('manifest.webmanifest') && r.t.includes('/ekran-mevzuat.png'));
+  r=await istek('/',{cerez:yon}); ok('uygulama sayfasında başlık ve simge', r.t.includes('<title>KKTC Hukuk Asistanı</title>') && r.t.includes('rel="icon"'));
   r=await istek('/api/yonetim/istek',{yontem:'POST',govde:{id:benim[0].id,islem:'sil'},cerez:yon}); const r2=await istek('/api/yonetim/istekler',{cerez:yon});
   ok('istek silinir', r.s===200 && !(r2.j||[]).some(i=>i.id===benim[0].id));
   console.log('\nSONUÇ: '+gec+' geçti, '+kal+' kaldı');

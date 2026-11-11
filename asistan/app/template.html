@@ -1106,7 +1106,7 @@ async function run(){
     if(derin && alt.length){ const k=document.querySelector('#answer .answer'); if(k) k.insertAdjacentHTML('afterbegin','<p class="small muted" style="margin:0 0 8px">Derin araştırma · aranan alt sorular: '+alt.map(esc).join(' · ')+'</p>'); }
   }catch(e){
     const msg={not_granted:'Bu sayfanın Claude kullanmasına izin verilmedi. Maddeler aşağıda.',rate_limited:'Çok fazla istek yapıldı; biraz sonra tekrar deneyin.',cancelled:'',invalid_json:'Cevap okunamadı; tekrar deneyin.',sampling_disabled:'Bu hesapta Claude kullanılamıyor.'}[e&&e.code];
-    $('#state').textContent = msg===undefined?'Bağlantı sorunu; tekrar deneyin.':msg;
+    $('#state').textContent = (e&&e.goster) ? e.goster+(e.code==='not_granted'?' Maddeler aşağıda.':'') : msg===undefined?'Bağlantı sorunu; tekrar deneyin.':msg;
     if(e&&(e.code==='not_granted'||e.code==='sampling_disabled')) sampleFn=null;
   }finally{ $('#ask').disabled=false; $('#stop').hidden=true; }
 }
@@ -1363,7 +1363,7 @@ $('#summ').addEventListener('click',async()=>{
   if(!sampleFn){ $('#sstate').textContent='Yapay zekâ bu görünümde kullanılamıyor.'; return; }
   fctl=new AbortController(); $('#summ').disabled=true; $('#fstop').hidden=false; $('#sstate').textContent='Belge okunuyor…';
   try{ LAST=await sampleFn.json(summaryPrompt(),{signal:fctl.signal}); renderSummary(LAST||{}); $('#sstate').textContent=''; }
-  catch(e){ $('#sstate').textContent=({not_granted:'Bu sayfanın Claude kullanmasına izin verilmedi.',rate_limited:'Çok fazla istek; biraz sonra deneyin.',cancelled:'',invalid_json:'Cevap okunamadı; tekrar deneyin.',prompt_too_large:'Belge çok uzun; daha kısa bir bölüm deneyin.'})[e&&e.code] ?? 'Bağlantı sorunu; tekrar deneyin.'; }
+  catch(e){ $('#sstate').textContent=(e&&e.goster)||(({not_granted:'Bu sayfanın Claude kullanmasına izin verilmedi.',rate_limited:'Çok fazla istek; biraz sonra deneyin.',cancelled:'',invalid_json:'Cevap okunamadı; tekrar deneyin.',prompt_too_large:'Belge çok uzun; daha kısa bir bölüm deneyin.'})[e&&e.code] ?? 'Bağlantı sorunu; tekrar deneyin.'); }
   finally{ $('#summ').disabled=false; $('#fstop').hidden=true; }
 });
 $('#fstop').addEventListener('click',()=>fctl&&fctl.abort());
@@ -1376,7 +1376,7 @@ $('#doc').value=JSON.parse(document.getElementById('example').textContent); doMa
 /* ================= avukat araçları ================= */
 const AR = JSON.parse(document.getElementById('araclar').textContent);
 const yerel = { al(k, v){ try{ const s=localStorage.getItem(k); return s?JSON.parse(s):v; }catch(_){ return v; } }, koy(k, v){ try{ localStorage.setItem(k, JSON.stringify(v)); return true; }catch(_){ return false; } } };
-const hataMesaj = e => ({not_granted:'Bu sayfanın Claude kullanmasına izin verilmedi.',rate_limited:'Çok fazla istek; biraz sonra deneyin.',cancelled:'',invalid_json:'Cevap okunamadı; tekrar deneyin.',prompt_too_large:'Metin çok uzun; daha kısa bir bölüm deneyin.',sampling_disabled:'Bu hesapta yapay zekâ kullanılamıyor.'})[e&&e.code] ?? 'Bağlantı sorunu; tekrar deneyin.';
+const hataMesaj = e => (e&&e.goster)||(({not_granted:'Bu sayfanın Claude kullanmasına izin verilmedi.',rate_limited:'Çok fazla istek; biraz sonra deneyin.',cancelled:'',invalid_json:'Cevap okunamadı; tekrar deneyin.',prompt_too_large:'Metin çok uzun; daha kısa bir bölüm deneyin.',sampling_disabled:'Bu hesapta yapay zekâ kullanılamıyor.'})[e&&e.code] ?? 'Bağlantı sorunu; tekrar deneyin.');
 
 /* ---------- dosya indirme: claude.ai'de "downloads", kendi sunucumuzda doğrudan indirme ---------- */
 let DL = null;
