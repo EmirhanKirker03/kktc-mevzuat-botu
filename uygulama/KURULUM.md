@@ -17,6 +17,24 @@ Yapay zekâ cevapları sizin Claude API anahtarınızla üretilir; avukatların 
    - `OTURUM_SIRRI` Render tarafından otomatik üretilir.
 5. Yayına girdikten sonra adres `https://<ad>.onrender.com` olur. Kendi alan adınızı Render'da **Settings → Custom Domains** bölümünden bağlayabilirsiniz.
 
+## Tanıtım sayfası ve deneme istekleri
+
+- Giriş yapmamış ziyaretçi ana adreste **tanıtım sayfasını** (`/tanitim`) görür: araç ne yapar, kaç yasa/karar var, veri ne kadar güncel
+  (sayılar veriden kendiliğinden gelir) ve altında **deneme isteği formu**.
+- Avukat formu doldurunca istek `/yonetim` sayfasındaki **Deneme istekleri** tablosuna düşer. **Deneme hesabı aç** düğmesi tek tıkla
+  7 günlük hesap açar ve geçici şifreyi gösterir; şifreyi avukata telefon ya da WhatsApp ile iletin.
+- Deneme bitince avukat giriş yapabilir ama yapay zekâyı kullanamaz. Ödeme alınca **Hesaplar** tablosundan bitiş tarihini uzatın.
+- İsteğe bağlı ayarlar (Render → Environment): `ILETISIM` (tanıtımda görünen telefon/e-posta), `FIYAT_METNI` (tanıtımda görünen fiyat cümlesi),
+  `DENEME_GUN` (deneme süresi, varsayılan 7).
+
+## Maliyet takibi
+
+- Her yapay zekâ isteğinin büyüklüğü (belirteç sayısı) kullanıcı başına tutulur; içerik tutulmaz.
+- Render'da `FIYAT_GIRIS` ve `FIYAT_CIKIS` değerlerini girerseniz (kullandığınız modelin 1 milyon giriş / çıkış belirteci başına dolar fiyatı;
+  güncel fiyat Anthropic'in fiyat sayfasında yazar) yönetim panelinde her avukatın **son 30 günde size kaça mal olduğu** görünür.
+  Fiyatınızı buna bakarak belirleyin: bir avukatın aylık maliyeti, ondan aldığınız ücretin küçük bir kısmı olmalı.
+- Maliyeti sınırlayan ayarlar: `GUNLUK_SORU` (kişi başı günlük istek) ve `GUNLUK_KARAKTER`.
+
 ## Günlük kullanım
 
 - `/yonetim` sayfasından avukat hesabı açın: ad, e-posta, büro ve abonelik bitiş tarihi. Ekranda çıkan geçici şifreyi avukata güvenli bir kanaldan iletin.

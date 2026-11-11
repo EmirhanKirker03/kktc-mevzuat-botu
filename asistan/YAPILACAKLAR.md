@@ -128,6 +128,21 @@ yeniden yazar; commit'ten önce `git checkout asistan/test/*.docx`.)
   mevzuat listesi 13/13; e2e 24; güvenlik 30/30; tanıtım 20/20. Kullanıcı onayıyla main ve yayin'e alındı (yayin: sunucu
   dosyaları + kira_asistani.html, tum-dizin.json, tum-27.json); sayfa sürüm 62.
 
+## 11 Kasım 2026 bilgisayar oturumu (veri + satış altyapısı)
+- Veri: Gazete 214–219 (3–10 Kasım) eklendi (`rg_ek3.tgz`): 5 yeni tüzük/emirname. 4 yeni Yasa Gücünde Kararname: 125/2026 Meclis
+  Word dosyasından; 124, 126, 127/2026 Meclis'te Word olarak yok (124 taranmış PDF) → Resmî Gazete Ek I Bölüm II metin
+  katmanından alındı (kayıtta `kaynak` alanı; not metni buna göre değişir). **Meclis bu üçünün Word dosyasını koyunca Gazete
+  kopyası onunla değiştirilmeli** (veri/meclis-ygk/kayit.json'da `dosya` RG ile başlayanlar). Meclis'te yeni yasa yok (son 74/2026).
+  Yüksek Mahkeme listesi 11 Kasım'da yenilendi: 5 yeni karar; 2 yeni tüzüğün (1021, 1024/2026) Gazete kopyası zaten var.
+- Sunucu (uygulama/): **tanıtım sayfası** `/tanitim` (girişsiz ana adres buraya yönlenir; sayılar ve güncellik veriden),
+  **deneme isteği formu** (`POST /api/deneme-istek`: JSON, IP başına 15 dk'da 5, gizli bot alanı, bekleyen en çok 500),
+  yönetimde **Deneme istekleri** tablosu ve tek tıkla `DENEME_GUN` (7) günlük hesap, **maliyet takibi** (kullanıcı başına
+  giriş/çıkış belirteci; `FIYAT_GIRIS`/`FIYAT_CIKIS` girilirse dolar), "Son kullanım" sütunu. Yeni ortam değişkenleri:
+  `ILETISIM`, `FIYAT_METNI`, `DENEME_GUN`, `FIYAT_GIRIS`, `FIYAT_CIKIS` (KURULUM.md). Yeni test: `test/satis_test.js` (34/34).
+  Giriş sayfasındaki sayılar artık `{{YASA}}` gibi yer tutuculardan dolar; elle güncellenmez.
+- Satış planı belgesi kullanıcının Claude belgelerinde: "KKTC Hukuk Asistanı — Satış Planı".
+- Haftalık görev 9 Kasım'da çalışmadı (bilgisayar kapalıydı); 11 Kasım'da elle yapıldı.
+
 ## Haftalık güncelleme (zamanlanmış görev bunu uygular)
 Kullanıcının bilgisayarındaki tarayıcı gerekir (devlet siteleri bulut ortamını engelliyor). Adımlar:
 1. `bash asistan/kurulum.sh`. Son haftalık raporu oku: `sonuc/haftalik.md` (varsa).
@@ -138,6 +153,8 @@ Kullanıcının bilgisayarındaki tarayıcı gerekir (devlet siteleri bulut orta
    pdf.js ile metne çevir (sayfalar `\n[SAYFA n]\n`), boş/bozuk sayfaları tesseract.js (tur) ile oku; `metin/6_<yıl>_<sayı>.pdf.txt`.
    Sonra `rg_bol.py` → eski çıktıyla karşılaştır (kaybolan eşleşme 0 olmalı) → `rg_kaydet.py`. Yeni metinleri
    `raw/resmi_gazete/rg_ekN.tgz` olarak arşivle.
+2b. **Yasa Gücünde Kararnameler**: tarayıcıda https://cm.gov.ct.tr/YasaKararname.aspx listesinin üstündeki yeni kayıtlar → Word ise
+   document.xml'den metin, `veri/meclis-ygk/kayit.json`'a ekle. Meclis'te yoksa Gazete Ek I Bölüm II metin katmanından al (`kaynak` alanı).
 3. **Yasalar**: tarayıcıda https://cm.gov.ct.tr/Yasalarr.aspx listesinin en üstündeki yasalar (sayı/yıl). Bilinen son sayıdan
    (şu an 74/2026) sonrakileri incele: değişiklik yasası ise ve Yüksek Mahkeme metni o sayıyı içermiyorsa Word dosyasını
    (yazı tipleri çıkarılarak) indir, LibreOffice ile metne çevir, `sonraki_degisiklikler.json`'a ekle (başlık, url, sha256).

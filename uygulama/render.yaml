@@ -18,6 +18,8 @@ services:
         value: claude-sonnet-5-5
       - key: GUNLUK_SORU
         value: "60"
+      - key: DENEME_GUN
+        value: "7"
       - key: OTURUM_SIRRI
         generateValue: true
       - key: ANTHROPIC_API_KEY

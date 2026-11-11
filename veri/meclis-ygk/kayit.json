@@ -1,8 +1,48 @@
 {
  "kaynak": "KKTC Cumhuriyet Meclisi — Yasa Gücünde Kararnameler (cm.gov.ct.tr/YasaKararname.aspx)",
  "alindi": "2026-10-12",
- "not": "Meclis'e sunulan Yasa Gücünde Kararname metinleri (çoğunda gerekçe ile birlikte). docx metni Word içinden, taranmış PDF'ler yazı tanıma (tesseract, Türkçe) ile okunmuştur. Metinler değiştirilmemiştir.",
+ "not": "Meclis'e sunulan Yasa Gücünde Kararname metinleri (çoğunda gerekçe ile birlikte). docx metni Word içinden, taranmış PDF'ler yazı tanıma (tesseract, Türkçe) ile okunmuştur. Metinler değiştirilmemiştir. 11.11.2026: Meclis sitesinde henüz Word dosyası olmayan ya da yalnızca taranmış PDF olan 124, 126 ve 127/2026 sayılı kararnameler Resmî Gazete Ek I Bölüm II metin katmanından alındı (kayıtta \"kaynak\" alanı).",
  "kayitlar": [
+  {
+   "tarih": "10/11/2026",
+   "ad": "Deprem ve Diğer Doğal Afetlere Yönelik Mali Yardım Kapsamında Kamu Okul ve Hastanelerinin Güçlendirilmesi veya Yeniden Yapılmasında Uygulanacak Yöntemler Hakkında Yasa Gücünde Kararname (126/2026)",
+   "dosya": "RG219_YGK_126-2026.txt",
+   "url": "https://basimevi.gov.ct.tr/Portals/6/2026/219.pdf",
+   "metin_dosyasi": "veri/meclis-ygk/metin/RG219_YGK_126-2026.txt",
+   "cikarim": "pdf-metin",
+   "karakter": 6223,
+   "kaynak": "Resmî Gazete 10/11/2026, Sayı 219, Ek I Bölüm II (metin katmanı)"
+  },
+  {
+   "tarih": "10/11/2026",
+   "ad": "Kamu İhalelerinde Teklif Hazırlama Giderleri ve Eşit Teklif Verilmesi Durumunda Uygulanacak Yöntem Hakkında Yasa Gücünde Kararname (127/2026)",
+   "dosya": "RG219_YGK_127-2026.txt",
+   "url": "https://basimevi.gov.ct.tr/Portals/6/2026/219.pdf",
+   "metin_dosyasi": "veri/meclis-ygk/metin/RG219_YGK_127-2026.txt",
+   "cikarim": "pdf-metin",
+   "karakter": 11835,
+   "kaynak": "Resmî Gazete 10/11/2026, Sayı 219, Ek I Bölüm II (metin katmanı)"
+  },
+  {
+   "tarih": "06/11/2026",
+   "ad": "Bilançoların Güncellenmesine İlişkin Mali Düzenleme Hakkında Yasa Gücünde Kararnamenin Değiştirilmesi Hakkında Yasa Gücünde Kararname",
+   "dosya": "7149636_Bilançolarin_Guncellenmesine_Iliskin_Mali_Duzenleme_Hakkinda_Yasa_Gucunde_Kararnamenin_Degistirilmesi_ygk.docx",
+   "url": "https://cm.gov.ct.tr/Yasalar/7149636_Bilançolarin_Guncellenmesine_Iliskin_Mali_Duzenleme_Hakkinda_Yasa_Gucunde_Kararnamenin_Degistirilmesi_ygk.docx",
+   "metin_dosyasi": "veri/meclis-ygk/metin/7149636_Bilançolarin_Guncellenmesine_Iliskin_Mali_Duzenleme_Hakkinda_Yasa_Gucunde_Kararnamenin_Degistirilmesi_ygk.txt",
+   "cikarim": "docx",
+   "karakter": 4424,
+   "sha256": "9ffbdc194a16f0c72739e36baeb08c7783d99213e21ef83f64c20c30c3801e1a"
+  },
+  {
+   "tarih": "03/11/2026",
+   "ad": "Şirketler Yasası Onbirinci Cetvel Uyarınca Alınan Harçlara İlişkin Kuralları Düzenleyen Yasa Gücünde Kararname (124/2026)",
+   "dosya": "RG214_YGK_124-2026.txt",
+   "url": "https://basimevi.gov.ct.tr/Portals/6/2026/214.pdf",
+   "metin_dosyasi": "veri/meclis-ygk/metin/RG214_YGK_124-2026.txt",
+   "cikarim": "pdf-metin",
+   "karakter": 4236,
+   "kaynak": "Resmî Gazete 03/11/2026, Sayı 214, Ek I Bölüm II (metin katmanı)"
+  },
   {
    "tarih": "07/10/2026",
    "ad": "Yapı İnşaatı Ve Teknik İşler Müteahhitleri Kayıt Ve Denetim Yasasının, Encümen'inKuruluşu Görev Ve Yetkileri Yan Başlığını Taşıyan 5'inci Maddesinin 4'üncü Fıkrasının (b) Bendine Yeni Bir Düzenleme Yapılması Hakkında Yasa Gücünde Kararname",

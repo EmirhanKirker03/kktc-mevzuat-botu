@@ -216,7 +216,7 @@ for g in YG:
     gorulen.add(p)
     istat['ygk ' + ay + (' (ocr)' if g['cikarim'] == 'ocr' else '')] += 1
     yasalar.append({'p': p, 'tz': False, 'yg': True, 'n': 'YGK ' + g['tarih'], 'a': re.sub(r'\s+', ' ', g['ad']).strip(), 'u': g['url'], 'k': 'meclis-ygk', 'o': g['cikarim'] == 'ocr',
-                    'ks': 'meclis', 'nt': YGK_NOT, 'y': ay, 'en': False, 'gy': [], 'kd': False, 'em': [], 'm': bir})
+                    'ks': 'meclis', 'nt': (YGK_NOT.replace("Metin Cumhuriyet Meclisi'ne sunulan hâlidir", 'Metin ' + g['kaynak'] + ' alınmıştır') if g.get('kaynak') else YGK_NOT), 'y': ay, 'en': False, 'gy': [], 'kd': False, 'em': [], 'm': bir})
 
 # Resmî Gazete Ek III: Yüksek Mahkeme sisteminde olmayan tüzük, emirname, yönetmelik ve tebliğler (rg_bol.py → veri/resmi-gazete)
 RGK = oku(os.path.join(M.replace('mahkemeler', 'resmi-gazete'), 'kayit.json')).get('kayitlar', [])
