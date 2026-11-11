@@ -23,9 +23,13 @@ th{font-size:11.5px;letter-spacing:.05em;text-transform:uppercase;color:var(--mu
   </form>
   <p id="sonuc" class="small" role="status"></p>
 </section>
+<section class="kart" id="istekKart" hidden>
+  <div class="ust"><h2 style="font-size:19px">Deneme istekleri</h2><span class="small muted" id="istekOzet"></span></div>
+  <div class="tw"><table><thead><tr><th>Tarih</th><th>Ad</th><th>Büro</th><th>E-posta</th><th>Telefon</th><th>Not</th><th></th></tr></thead><tbody id="istekler"></tbody></table></div>
+</section>
 <section class="kart">
   <div class="ust"><h2 style="font-size:19px">Hesaplar</h2><span class="small muted" id="ozet"></span></div>
-  <div class="tw"><table><thead><tr><th>Ad</th><th>Büro</th><th>E-posta</th><th>Abonelik bitişi</th><th>Son 30 gün</th><th>Durum</th><th></th></tr></thead><tbody id="liste"></tbody></table></div>
+  <div class="tw"><table><thead><tr><th>Ad</th><th>Büro</th><th>E-posta</th><th>Abonelik bitişi</th><th>Son 30 gün</th><th>Son kullanım</th><th id="mBas" hidden>Maliyet (30 gün)</th><th>Durum</th><th></th></tr></thead><tbody id="liste"></tbody></table></div>
 </section>
 <p class="small muted">Geçici şifreyi avukata güvenli bir kanaldan iletin; ilk girişten sonra değiştirmesini isteyin. Sorular ve belgeler sunucuda saklanmaz; yalnızca günlük istek sayısı tutulur.</p>
 </main>
@@ -33,9 +37,11 @@ th{font-size:11.5px;letter-spacing:.05em;text-transform:uppercase;color:var(--mu
 const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
 const d=new Date(); d.setFullYear(d.getFullYear()+1); bitis.value=d.toISOString().slice(0,10);
 async function yukle(){ const r=await fetch('/api/yonetim/kullanicilar'); const L=await r.json(); const bugun=new Date().toISOString().slice(0,10);
-  ozet.textContent=L.filter(k=>k.rol!=='yonetici'&&k.aktif&&k.abonelik_bitis>=bugun).length+' aktif abone';
+  const mVar=L.some(k=>k.maliyet30!==null&&k.maliyet30!==undefined); mBas.hidden=!mVar;
+  const topM=L.reduce((a,k)=>a+(k.maliyet30||0),0);
+  ozet.textContent=L.filter(k=>k.rol!=='yonetici'&&k.aktif&&k.abonelik_bitis>=bugun).length+' aktif abone'+(mVar?' · son 30 gün yapay zekâ maliyeti yaklaşık $'+topM.toFixed(2):'');
   liste.innerHTML=L.map(k=>`<tr data-id="${k.id}"><td>${esc(k.ad)}</td><td>${esc(k.buro)}</td><td>${esc(k.eposta)}</td>
-   <td><input type="date" value="${esc(k.abonelik_bitis)}" data-a="bitis" aria-label="Abonelik bitişi"></td><td>${k.son30}</td>
+   <td><input type="date" value="${esc(k.abonelik_bitis)}" data-a="bitis" aria-label="Abonelik bitişi"></td><td>${k.son30}</td><td>${esc(k.son_kullanim||'—')}</td>${mVar?`<td>$${(k.maliyet30||0).toFixed(2)}</td>`:''}
    <td>${k.rol==='yonetici'?'yönetici':k.aktif?(k.abonelik_bitis>=bugun?'<span class=tamam>aktif</span>':'<span class=hata>süresi doldu</span>'):'kapalı'}</td>
    <td>${k.rol==='yonetici'?'':`<button class="btn ghost" data-a="sifre">Şifre sıfırla</button> <button class="btn ghost" data-a="aktif" data-v="${k.aktif?0:1}">${k.aktif?'Kapat':'Aç'}</button>`}</td></tr>`).join(''); }
 async function guncelle(o){ const r=await fetch('/api/yonetim/guncelle',{method:'POST',headers:{'content-type':'application/json'},body:JSON.stringify(o)}); return r.json(); }
@@ -46,5 +52,15 @@ liste.addEventListener('click',async e=>{ const b=e.target.closest('button'); if
   if(b.dataset.a==='aktif'){ if(b.dataset.v!=='1' && !confirm(ad_+' hesabı kapatılsın mı?\nAçık oturumları hemen kapanır; hesabı daha sonra yeniden açabilirsiniz.')) return; await guncelle({id,aktif:b.dataset.v==='1'}); yukle(); } });
 yeni.addEventListener('submit',async e=>{ e.preventDefault(); const r=await fetch('/api/yonetim/kullanici',{method:'POST',headers:{'content-type':'application/json'},body:JSON.stringify({ad:ad.value,eposta:eposta.value,buro:buro.value,abonelik_bitis:bitis.value})});
   const j=await r.json(); if(r.ok){ sonuc.innerHTML='Hesap oluşturuldu. Geçici şifre: <span class="sifre">'+esc(j.gecici_sifre)+'</span>'; yeni.reset(); bitis.value=d.toISOString().slice(0,10); yukle(); } else sonuc.textContent=j.hata; });
-yukle();
+async function istekYukle(){ const r=await fetch('/api/yonetim/istekler'); if(!r.ok) return; const L=await r.json(); istekKart.hidden=!L.length;
+  istekOzet.textContent=L.filter(i=>i.durum==='yeni').length+' yeni istek';
+  istekler.innerHTML=L.map(i=>`<tr data-id="${i.id}"><td>${esc(i.zaman.slice(0,10))}</td><td>${esc(i.ad)}</td><td>${esc(i.buro)}</td><td>${esc(i.eposta)}</td><td>${esc(i.telefon)}</td>
+   <td style="white-space:normal;min-width:180px;max-width:320px">${esc(i.mesaj)}</td>
+   <td>${i.durum==='yeni'?'<button class="btn" data-a="ac">Deneme hesabı aç</button> ':'<span class="muted">'+(i.durum==='acildi'?'hesap açıldı':'zaten kayıtlı')+'</span> '}<button class="btn ghost" data-a="sil">Sil</button></td></tr>`).join(''); }
+istekler.addEventListener('click',async e=>{ const b=e.target.closest('button'); if(!b) return; const tr=b.closest('tr'), id=+tr.dataset.id, ad_=tr.children[1].textContent;
+  if(b.dataset.a==='sil'&&!confirm(ad_+' adlı kişinin isteği silinsin mi?')) return;
+  const r=await fetch('/api/yonetim/istek',{method:'POST',headers:{'content-type':'application/json'},body:JSON.stringify({id,islem:b.dataset.a})}); const j=await r.json();
+  if(b.dataset.a==='ac'){ if(r.ok){ sonuc.innerHTML='Deneme hesabı açıldı ('+esc(j.ad)+', '+esc(j.eposta)+', bitiş '+esc(j.abonelik_bitis)+'). Geçici şifre: <span class="sifre">'+esc(j.gecici_sifre)+'</span>'; window.scrollTo(0,0); } else { sonuc.textContent=j.hata; window.scrollTo(0,0); } }
+  istekYukle(); yukle(); });
+yukle(); istekYukle();
 </script></body></html>

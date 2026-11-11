@@ -12,6 +12,11 @@
 //   GUNLUK_KARAKTER     (isteğe bağlı) kullanıcı başına günlük gönderilen metin sınırı (maliyet koruması), varsayılan 5.000.000
 //   VERI_KLASORU        (isteğe bağlı) yasa/karar dosyalarının klasörü, varsayılan ./veri
 //   DB_YOLU             (isteğe bağlı) SQLite dosyası, varsayılan ./kayit.db (Render'da kalıcı diske koyun)
+//   FIYAT_GIRIS / FIYAT_CIKIS (isteğe bağlı) modelin 1 milyon giriş / çıkış belirteci (token) başına ABD doları fiyatı; girilirse yönetim
+//                       panelinde kullanıcı başına son 30 günün yaklaşık yapay zekâ maliyeti gösterilir
+//   ILETISIM            (isteğe bağlı) tanıtım ve giriş sayfasında gösterilecek iletişim satırı (ör. "0533 000 00 00 · bilgi@ornek.com")
+//   FIYAT_METNI         (isteğe bağlı) tanıtım sayfasında gösterilecek fiyat cümlesi (ör. "Avukat başına aylık 1.500 TL")
+//   DENEME_GUN          (isteğe bağlı) deneme hesabının süresi, varsayılan 7 gün
 //   PORT                (Render verir)
 'use strict';
 const express = require('express');
@@ -27,6 +32,8 @@ const MODEL = process.env.MODEL || 'claude-sonnet-5-5';
 const GUNLUK = Number(process.env.GUNLUK_SORU || 60);
 const GUNLUK_KAR = Number(process.env.GUNLUK_KARAKTER || 5000000);
 const ISTEM_SINIR = 400000;
+const FIYAT_GIRIS = Number(process.env.FIYAT_GIRIS || 0), FIYAT_CIKIS = Number(process.env.FIYAT_CIKIS || 0);
+const DENEME_GUN = Math.max(1, Math.min(60, Number(process.env.DENEME_GUN || 7)));
 const VERI = path.resolve(process.env.VERI_KLASORU || path.join(__dirname, 'veri'));
 const DB_YOLU = process.env.DB_YOLU || path.join(__dirname, 'kayit.db');
 const URETIM = process.env.NODE_ENV === 'production';
@@ -42,9 +49,12 @@ CREATE TABLE IF NOT EXISTS kullanici (
 CREATE TABLE IF NOT EXISTS kullanim (kullanici_id INTEGER NOT NULL, gun TEXT NOT NULL, sayi INTEGER NOT NULL DEFAULT 0, PRIMARY KEY (kullanici_id, gun));
 CREATE TABLE IF NOT EXISTS inceleme (id INTEGER PRIMARY KEY, kullanici_id INTEGER NOT NULL, zaman TEXT NOT NULL, veri TEXT NOT NULL);
 CREATE TABLE IF NOT EXISTS giris_deneme (anahtar TEXT PRIMARY KEY, sayi INTEGER NOT NULL, ilk INTEGER NOT NULL);
+CREATE TABLE IF NOT EXISTS deneme_istek (id INTEGER PRIMARY KEY, zaman TEXT NOT NULL, ad TEXT NOT NULL, buro TEXT DEFAULT '', eposta TEXT NOT NULL,
+  telefon TEXT DEFAULT '', mesaj TEXT DEFAULT '', durum TEXT NOT NULL DEFAULT 'yeni');
 `);
 // sonradan eklenen sütunlar (eski veritabanlarında yoksa eklenir)
-for (const ek of ["ALTER TABLE kullanici ADD COLUMN surum INTEGER NOT NULL DEFAULT 0", "ALTER TABLE kullanici ADD COLUMN gecici INTEGER NOT NULL DEFAULT 0", "ALTER TABLE kullanim ADD COLUMN karakter INTEGER NOT NULL DEFAULT 0"]) {
+for (const ek of ["ALTER TABLE kullanici ADD COLUMN surum INTEGER NOT NULL DEFAULT 0", "ALTER TABLE kullanici ADD COLUMN gecici INTEGER NOT NULL DEFAULT 0", "ALTER TABLE kullanim ADD COLUMN karakter INTEGER NOT NULL DEFAULT 0",
+  "ALTER TABLE kullanim ADD COLUMN giris_tok INTEGER NOT NULL DEFAULT 0", "ALTER TABLE kullanim ADD COLUMN cikis_tok INTEGER NOT NULL DEFAULT 0"]) {
   try { db.exec(ek); } catch (_) { /* sütun zaten var */ }
 }
 const simdi = () => new Date().toISOString();
@@ -97,7 +107,30 @@ app.use((req, res, next) => {
 });
 app.use(require('compression')()); // yasa/karar dosyaları ~4 kat küçülür: daha az bant genişliği, telefonda daha hızlı açılış
 app.use(express.json({ limit: '1.5mb' }));
-const sayfa = ad => fs.readFileSync(path.join(__dirname, 'sayfalar', ad), 'utf8').replace('/*__CSS__*/', fs.readFileSync(path.join(__dirname, 'sayfalar', 'ortak.css'), 'utf8'));
+const escH = s => String(s == null ? '' : s).replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
+// tanıtım ve giriş sayfasındaki sayılar veriden hesaplanır (elle güncellenmez); aşağı yuvarlanır: "1.290'ı aşkın"
+let SAYILAR = null;
+function sayilar() {
+  if (SAYILAR && !process.env.GELISTIRME) return SAYILAR;
+  const yuvarla = (n, b) => (Math.floor(n / b) * b).toLocaleString('tr-TR');
+  let yasa = 0, tuzuk = 0, ygk = 0, karar = 0, guncel = '';
+  try {
+    const d = JSON.parse(fs.readFileSync(path.join(VERI, 'tum-dizin.json'), 'utf8'));
+    for (const y of d.yasalar || []) { if (String(y.p).startsWith('G')) ygk++; else if (/^[TR]/.test(String(y.p))) tuzuk++; else yasa++; }
+    guncel = d.alindi || '';
+  } catch (_) { /* veri yoksa sayılar boş kalır */ }
+  try { const k = JSON.parse(fs.readFileSync(path.join(VERI, 'karar-dizin.json'), 'utf8')); karar = Array.isArray(k) ? k.length : (k.kararlar || k.k || []).length; } catch (_) { /* yok */ }
+  const html = fs.existsSync(path.join(VERI, 'kira_asistani.html')) ? fs.readFileSync(path.join(VERI, 'kira_asistani.html'), 'utf8') : '';
+  const g = html.match(/Güncel:\s*([^<"]{4,40})/);
+  SAYILAR = { YASA: yuvarla(yasa, 10), TUZUK: yuvarla(tuzuk, 100), YGK: yuvarla(ygk, 10), KARAR: yuvarla(karar, 100), GUNCEL: g ? g[1].trim() : guncel };
+  return SAYILAR;
+}
+const sayfa = ad => {
+  const S = sayilar();
+  return fs.readFileSync(path.join(__dirname, 'sayfalar', ad), 'utf8').replace('/*__CSS__*/', fs.readFileSync(path.join(__dirname, 'sayfalar', 'ortak.css'), 'utf8'))
+    .replace(/\{\{(YASA|TUZUK|YGK|KARAR|GUNCEL)\}\}/g, (_, a) => escH(S[a]))
+    .replace(/\{\{ILETISIM\}\}/g, escH(process.env.ILETISIM || '')).replace(/\{\{FIYAT_METNI\}\}/g, escH(process.env.FIYAT_METNI || '')).replace(/\{\{DENEME_GUN\}\}/g, String(DENEME_GUN));
+};
 
 // giriş denemesi sınırı: aynı e-posta + IP için 15 dakikada 8, aynı IP için 15 dakikada 30 hatalı deneme
 function denemeKontrol(anahtar, sinir) {
@@ -112,6 +145,22 @@ function denemeEkle(anahtar) {
 
 app.get('/giris', (req, res) => res.type('html').send(sayfa('giris.html')));
 app.get('/kosullar', (req, res) => res.type('html').send(sayfa('kosullar.html')));
+app.get('/tanitim', (req, res) => res.type('html').send(sayfa('tanitim.html')));
+// deneme isteği: herkese açık form. Aynı IP'den 15 dakikada en çok 5 istek; bekleyen istek sayısı 500'ü geçemez (doldurma saldırısına karşı).
+app.post('/api/deneme-istek', (req, res) => {
+  const b = req.body || {}, kirp = (v, n) => String(v || '').replace(/[\u0000-\u001f\u007f]/g, ' ').trim().slice(0, n);
+  if (b.web) return res.json({ ok: true }); // botların doldurduğu gizli alan: sessizce yok say
+  const ad = kirp(b.ad, 120), buro = kirp(b.buro, 160), e = kirp(b.eposta, 160).toLowerCase(), tel = kirp(b.telefon, 40), mesaj = kirp(b.mesaj, 1000);
+  if (ad.length < 3 || !/^[^@\s]+@[^@\s]+\.[^@\s]+$/.test(e)) return res.status(400).json({ hata: 'Ad soyad ve geçerli bir e-posta adresi gerekli.' });
+  const ipA = 'd|' + req.ip;
+  if (!denemeKontrol(ipA, 5)) return res.status(429).json({ hata: 'Çok fazla istek. Lütfen daha sonra tekrar deneyin.' });
+  denemeEkle(ipA);
+  if (db.prepare("SELECT COUNT(*) AS n FROM deneme_istek WHERE durum='yeni'").get().n >= 500) return res.status(503).json({ hata: 'Şu anda istek alınamıyor. Lütfen bizimle doğrudan iletişime geçin.' });
+  // aynı e-postadan bekleyen istek varsa yenisi eklenmez (aynı cevap verilir: adresin kayıtlı olup olmadığı açığa çıkmaz)
+  if (!db.prepare("SELECT 1 FROM deneme_istek WHERE eposta=? AND durum='yeni'").get(e))
+    db.prepare('INSERT INTO deneme_istek (zaman, ad, buro, eposta, telefon, mesaj) VALUES (?,?,?,?,?,?)').run(simdi(), ad, buro, e, tel, mesaj);
+  res.json({ ok: true });
+});
 app.post('/api/giris', (req, res) => {
   const e = String(req.body.eposta || '').trim().toLowerCase(), s = String(req.body.sifre || '');
   // sınırlar: e-posta+IP 8, IP 30, e-posta (tüm IP'lerden) 40 hatalı deneme / 15 dakika
@@ -139,7 +188,7 @@ app.post('/api/sifre', (req, res) => {
 // bundan sonrası oturum ister
 function girisGerekli(req, res, next) {
   const k = oturum(req);
-  if (!k) return req.path.startsWith('/api/') ? res.status(401).json({ hata: 'Oturum açın.', kod: 'not_granted' }) : res.redirect('/giris');
+  if (!k) return req.path.startsWith('/api/') ? res.status(401).json({ hata: 'Oturum açın.', kod: 'not_granted' }) : res.redirect(req.path === '/' ? '/tanitim' : '/giris'); // ana adrese gelen ziyaretçi tanıtımı görür
   req.k = k; next();
 }
 app.use(girisGerekli);
@@ -178,6 +227,9 @@ app.post('/api/sor', async (req, res) => {
       return res.status(r.status === 429 ? 429 : 502).json({ hata: 'Yapay zekâ şu anda cevap veremedi.', kod: r.status === 429 ? 'rate_limited' : 'upstream' });
     }
     const metin = (j.content || []).filter(c => c.type === 'text').map(c => c.text).join('');
+    // maliyet takibi: yalnızca belirteç (token) sayıları tutulur, içerik tutulmaz
+    const kul = j.usage || {}, gt = Number(kul.input_tokens) || 0, ct = Number(kul.output_tokens) || 0;
+    if (gt || ct) db.prepare('UPDATE kullanim SET giris_tok=giris_tok+?, cikis_tok=cikis_tok+? WHERE kullanici_id=? AND gun=?').run(gt, ct, k.id, bugun());
     res.json({ metin });
   } catch (e) {
     iade();
@@ -210,8 +262,13 @@ app.get('/hesap', (req, res) => res.type('html').send(sayfa('hesap.html')));
 app.get('/yonetim', yonetici, (req, res) => res.type('html').send(sayfa('yonetim.html')));
 app.get('/api/yonetim/kullanicilar', yonetici, (req, res) => {
   const rows = db.prepare(`SELECT k.id, k.eposta, k.ad, k.buro, k.rol, k.abonelik_bitis, k.aktif, k.olusturma,
-    (SELECT COALESCE(SUM(sayi),0) FROM kullanim WHERE kullanici_id=k.id AND gun>=date('now','-30 day')) AS son30
+    (SELECT COALESCE(SUM(sayi),0) FROM kullanim WHERE kullanici_id=k.id AND gun>=date('now','-30 day')) AS son30,
+    (SELECT COALESCE(SUM(giris_tok),0) FROM kullanim WHERE kullanici_id=k.id AND gun>=date('now','-30 day')) AS giris30,
+    (SELECT COALESCE(SUM(cikis_tok),0) FROM kullanim WHERE kullanici_id=k.id AND gun>=date('now','-30 day')) AS cikis30,
+    (SELECT MAX(gun) FROM kullanim WHERE kullanici_id=k.id AND sayi>0) AS son_kullanim
     FROM kullanici k ORDER BY k.olusturma DESC`).all();
+  // yaklaşık maliyet (ABD doları): yalnızca FIYAT_GIRIS ve FIYAT_CIKIS girilmişse hesaplanır
+  for (const r of rows) r.maliyet30 = FIYAT_GIRIS || FIYAT_CIKIS ? Math.round((r.giris30 * FIYAT_GIRIS + r.cikis30 * FIYAT_CIKIS) / 100) / 1e4 : null;
   res.json(rows);
 });
 app.post('/api/yonetim/kullanici', yonetici, (req, res) => {
@@ -231,6 +288,21 @@ app.post('/api/yonetim/guncelle', yonetici, (req, res) => {
   let gecici;
   if (req.body.sifre_sifirla) { gecici = crypto.randomBytes(9).toString('base64url'); db.prepare('UPDATE kullanici SET sifre=?, surum=surum+1, gecici=1 WHERE id=?').run(bcrypt.hashSync(gecici, 12), id); }
   res.json({ ok: true, gecici_sifre: gecici });
+});
+
+// deneme istekleri: listele, tek tıkla deneme hesabı aç, sil
+app.get('/api/yonetim/istekler', yonetici, (req, res) => res.json(db.prepare("SELECT * FROM deneme_istek ORDER BY (durum='yeni') DESC, zaman DESC LIMIT 300").all()));
+app.post('/api/yonetim/istek', yonetici, (req, res) => {
+  const id = Number(req.body.id), i = db.prepare('SELECT * FROM deneme_istek WHERE id=?').get(id);
+  if (!i) return res.status(404).json({ hata: 'İstek yok.' });
+  if (req.body.islem === 'sil') { db.prepare('DELETE FROM deneme_istek WHERE id=?').run(id); return res.json({ ok: true }); }
+  if (req.body.islem !== 'ac') return res.status(400).json({ hata: 'Geçersiz işlem.' });
+  if (db.prepare('SELECT 1 FROM kullanici WHERE eposta=?').get(i.eposta)) { db.prepare("UPDATE deneme_istek SET durum='kayitli' WHERE id=?").run(id); return res.status(400).json({ hata: 'Bu e-posta zaten kayıtlı; Hesaplar tablosundan süresini uzatabilirsiniz.' }); }
+  const gun = Math.max(1, Math.min(60, Number(req.body.gun) || DENEME_GUN));
+  const bitis = new Date(Date.now() + gun * 864e5).toISOString().slice(0, 10), gecici = crypto.randomBytes(9).toString('base64url');
+  db.prepare('INSERT INTO kullanici (eposta, ad, buro, sifre, abonelik_bitis, olusturma, gecici) VALUES (?,?,?,?,?,?,1)').run(i.eposta, i.ad, i.buro || '', bcrypt.hashSync(gecici, 12), bitis, simdi());
+  db.prepare("UPDATE deneme_istek SET durum='acildi' WHERE id=?").run(id);
+  res.json({ ok: true, gecici_sifre: gecici, abonelik_bitis: bitis, eposta: i.eposta, ad: i.ad });
 });
 
 // uygulama sayfası: claude.ai köprüsü eklenmiş hâliyle
