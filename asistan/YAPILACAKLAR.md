@@ -150,6 +150,15 @@ yeniden yazar; commit'ten önce `git checkout asistan/test/*.docx`.)
 - Satış planı belgesi kullanıcının Claude belgelerinde: "KKTC Hukuk Asistanı — Satış Planı".
 - Haftalık görev 9 Kasım'da çalışmadı (bilgisayar kapalıydı); 11 Kasım'da elle yapıldı.
 
+## 23 Kasım 2026 haftalık görev
+- Gazete 220–226 dizine eklendi; 4 yeni metin (1114, 1133–1135/2026). **Eksik**: 220 (A.E. 1094, 1095) ve 224 (A.E. 1131, 1132) taranmış
+  resim → yazı tanımayla alınıp `rg_hedef_ham.json`'a eklenmeli (henüz eklenmedi). A.E. 1115–1130 dizinde yok, bakılmalı.
+- CDN'den pdf.js/tesseract.js yüklemek izin denetiminde reddedildi. Metin katmanı için `asistan/tarayici_pdf_metin.js` (dış kütüphanesiz,
+  basimevi sekmesinde çalışır) kullanıldı; çıktı biçimi pdf.js'e yakın ama aynı satırdaki parçalar bitişik olabilir ("EK IVSayı").
+  Bu yüzden metin dosyasına yalnızca Ek III'ün ilgili sayfaları alındı (Ek IV ve kişi adlı sayfalar boş bırakıldı/kesildi).
+- YGK: 17.11.2026 Bilançolar YGK değişikliği eklendi; 126, 127/2026 Meclis Word'üyle değiştirildi (124/2026 hâlâ Gazete kopyası).
+- Derleme 7.698; tüm testler geçti.
+
 ## Haftalık güncelleme (zamanlanmış görev bunu uygular)
 Kullanıcının bilgisayarındaki tarayıcı gerekir (devlet siteleri bulut ortamını engelliyor). Adımlar:
 1. `bash asistan/kurulum.sh`. Son haftalık raporu oku: `sonuc/haftalik.md` (varsa).

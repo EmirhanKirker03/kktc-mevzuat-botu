@@ -1,27 +1,37 @@
 {
  "kaynak": "KKTC Cumhuriyet Meclisi — Yasa Gücünde Kararnameler (cm.gov.ct.tr/YasaKararname.aspx)",
  "alindi": "2026-10-12",
- "not": "Meclis'e sunulan Yasa Gücünde Kararname metinleri (çoğunda gerekçe ile birlikte). docx metni Word içinden, taranmış PDF'ler yazı tanıma (tesseract, Türkçe) ile okunmuştur. Metinler değiştirilmemiştir. 11.11.2026: Meclis sitesinde henüz Word dosyası olmayan ya da yalnızca taranmış PDF olan 124, 126 ve 127/2026 sayılı kararnameler Resmî Gazete Ek I Bölüm II metin katmanından alındı (kayıtta \"kaynak\" alanı).",
+ "not": "Meclis'e sunulan Yasa Gücünde Kararname metinleri (çoğunda gerekçe ile birlikte). docx metni Word içinden, taranmış PDF'ler yazı tanıma (tesseract, Türkçe) ile okunmuştur. Metinler değiştirilmemiştir. 11.11.2026: Meclis sitesinde henüz Word dosyası olmayan ya da yalnızca taranmış PDF olan 124, 126 ve 127/2026 sayılı kararnameler Resmî Gazete Ek I Bölüm II metin katmanından alındı (kayıtta \"kaynak\" alanı). 23.11.2026: 126 ve 127/2026 Meclis Word dosyası çıkınca onunla değiştirildi; 124/2026 Meclis'te hâlâ yalnızca PDF olduğu için Gazete kopyası kaldı.",
  "kayitlar": [
+  {
+   "tarih": "17/11/2026",
+   "ad": "Bilançoların Güncellenmesine İlişkin Mali Düzenleme Hakkında Yasa Gücünde Kararnamenin Değiştirilmesi Hakkında Yasa Gücünde Kararname",
+   "dosya": "6994129_Bilanc_olarin gu_ncellenmesi kararname bas_vuru uzatma hakkinda deg_is_iklik Kararnamesi kasim 2026.docx",
+   "url": "https://cm.gov.ct.tr/Yasalar/6994129_Bilanc_olarin%20gu_ncellenmesi%20kararname%20bas_vuru%20uzatma%20hakkinda%20deg_is_iklik%20Kararnamesi%20kasim%202026.docx",
+   "metin_dosyasi": "veri/meclis-ygk/metin/6994129_Bilanc_olarin_gu_ncellenmesi_kararname_bas_vuru_uzatma_hakkinda_deg_is_iklik_Kararnamesi_kasim_2026.txt",
+   "cikarim": "docx",
+   "karakter": 2395,
+   "sha256": "740b4774dd74dd3e5a600a31c96599f2b6bd8f8c6607a4affe725cde5226fb98"
+  },
   {
    "tarih": "10/11/2026",
    "ad": "Deprem ve Diğer Doğal Afetlere Yönelik Mali Yardım Kapsamında Kamu Okul ve Hastanelerinin Güçlendirilmesi veya Yeniden Yapılmasında Uygulanacak Yöntemler Hakkında Yasa Gücünde Kararname (126/2026)",
-   "dosya": "RG219_YGK_126-2026.txt",
-   "url": "https://basimevi.gov.ct.tr/Portals/6/2026/219.pdf",
-   "metin_dosyasi": "veri/meclis-ygk/metin/RG219_YGK_126-2026.txt",
-   "cikarim": "pdf-metin",
-   "karakter": 6223,
-   "kaynak": "Resmî Gazete 10/11/2026, Sayı 219, Ek I Bölüm II (metin katmanı)"
+   "dosya": "1132661_Deprem Ve Diger Dogal Afetlere Yonelik Mali Yardim Kapsaminda Kamu Okul Ve Hastanelerinin Guçlendirilmesi Yeniden Yapilmasinda Uygulanacak Yontemler.docx",
+   "url": "https://cm.gov.ct.tr/Yasalar/1132661_Deprem%20Ve%20Diger%20Dogal%20Afetlere%20Yonelik%20Mali%20Yardim%20Kapsaminda%20Kamu%20Okul%20Ve%20Hastanelerinin%20Guçlendirilmesi%20Yeniden%20Yapilmasinda%20Uygulanacak%20Yontemler.docx",
+   "metin_dosyasi": "veri/meclis-ygk/metin/1132661_Deprem_Ve_Diger_Dogal_Afetlere_Yonelik_Mali_Yardim_Kapsaminda_Kamu_Okul_Ve_Hastanelerinin_Guçlendirilm.txt",
+   "cikarim": "docx",
+   "karakter": 5971,
+   "sha256": "fbfe60772d27393d3c5095057bc6aae058b77174430a12e48dc96c5f58863993"
   },
   {
    "tarih": "10/11/2026",
    "ad": "Kamu İhalelerinde Teklif Hazırlama Giderleri ve Eşit Teklif Verilmesi Durumunda Uygulanacak Yöntem Hakkında Yasa Gücünde Kararname (127/2026)",
-   "dosya": "RG219_YGK_127-2026.txt",
-   "url": "https://basimevi.gov.ct.tr/Portals/6/2026/219.pdf",
-   "metin_dosyasi": "veri/meclis-ygk/metin/RG219_YGK_127-2026.txt",
-   "cikarim": "pdf-metin",
-   "karakter": 11835,
-   "kaynak": "Resmî Gazete 10/11/2026, Sayı 219, Ek I Bölüm II (metin katmanı)"
+   "dosya": "7683541_Kamu_Ihalelerinde_Teklif_Hazirlama_Giderleri_Ve_Esit_Teklif_Verilmesi_Durumunda_Uygulanacak_Yontem_Hakkinda_YGK.docx",
+   "url": "https://cm.gov.ct.tr/Yasalar/7683541_Kamu_Ihalelerinde_Teklif_Hazirlama_Giderleri_Ve_Esit_Teklif_Verilmesi_Durumunda_Uygulanacak_Yontem_Hakkinda_YGK.docx",
+   "metin_dosyasi": "veri/meclis-ygk/metin/7683541_Kamu_Ihalelerinde_Teklif_Hazirlama_Giderleri_Ve_Esit_Teklif_Verilmesi_Durumunda_Uygulanacak_Yontem_Hak.txt",
+   "cikarim": "docx",
+   "karakter": 11555,
+   "sha256": "e3bee9d3806165614a0f5f8aa37c627c31db50c91e87c819105d8e469bb19423"
   },
   {
    "tarih": "06/11/2026",
