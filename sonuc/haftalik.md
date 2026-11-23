@@ -8,6 +8,7 @@
 - Yasalar: Meclis listesinde en üstte hâlâ 74/2026; yeni yasa yok.
 - Yüksek Mahkeme listesi (23 Kasım): yeni yasa 0, yeni tüzük 0, yeni karar 14 (5.549 → 5.563).
 - Derleme 7.693 → 7.698 kayıt; kalite 11/11; arama 25/25, 10/10, 10/10, 42/42, 12/12; mevzuat listesi 13/13; e2e 24; güvenlik 30/30; tanıtım 20/20; satış 55/55.
+- Yayın: main ve yayin dalları güncellendi; sayfa güncellendi (35 dosya, sürüm 67). "Güncel" tarihi: 20 Kasım 2026.
 - Not: A.E. 1115–1130 numaraları ana sayfadaki dizinde hiçbir sayıda görünmüyor (222 ile 224 arası); ayrı bir ek sayı olabilir, sonraki oturumda bakılmalı.
 - Not: 16 Kasım haftalık görevi çalışmamış görünüyor (rapor yok); bu hafta iki haftalık iş birlikte yapıldı.
 
